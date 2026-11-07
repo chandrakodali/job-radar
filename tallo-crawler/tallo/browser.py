@@ -384,6 +384,12 @@ def extract_cards(url: str, rows: list[dict[str, str]]) -> list[Card]:
     return list(cards.values())
 
 
+def _colon_field(body: str, label: str) -> str:
+    """Value of a 'Label: value' line on the job page (ignores sidebar filter labels)."""
+    match = re.search(rf"(?im)^\s*{re.escape(label)}:\s*(.+?)\s*$", body)
+    return tidy(match.group(1)) if match else ""
+
+
 def extract_job(
     url: str, fields: dict[str, Any], apply_pattern: re.Pattern[str], html: str = ""
 ) -> JobPage:
@@ -398,7 +404,7 @@ def extract_job(
     location = tidy(fields["location"]) or labeled_text(body, "Location") or next(
         (line for line in header_lines if LOCATION_LINE.match(line)), ""
     )
-    employment = tidy(fields["employment_type"]) or labeled_text(body, "Employment Type") or labeled_text(body, "Job Type")
+    employment = _colon_field(body, 'Hours') or (tidy(fields["employment_type"]) or labeled_text(body, "Employment Type") or labeled_text(body, "Job Type"))
     if not employment:
         employment = next((line for line in header_lines if EMPLOYMENT_LINE.fullmatch(line)), "")
     company = tidy(fields["company"]) or labeled_text(body, "Company")
@@ -425,7 +431,7 @@ def extract_job(
         location=location,
         posted_text=labeled_text(body, "Posted"),
         employment_type=employment,
-        pay=tidy(fields["pay"]) or labeled_text(body, "Pay"),
+        pay=tidy(fields["pay"]) or _colon_field(body, "Pay") or labeled_text(body, "Pay"),
         description=fields["description"] or body,
         apply_url=apply_url,
         html=html,
