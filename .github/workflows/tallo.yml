@@ -59,6 +59,18 @@ jobs:
             grep -oE '__NEXT_DATA__|self.__next_f|application/ld\+json|/api/[A-Za-z0-9_/.-]+|graphql|wp-json[A-Za-z0-9_/.-]*|admin-ajax[^\"]*' "$f" | sort | uniq -c | head -15
             grep -oiE 'posted[^<]{0,40}' "$f" | head -3
           done
+          python - <<'PY'
+          import re, glob
+          for f in glob.glob('data/probe/job*.html'):
+              h = open(f, encoding='utf-8', errors='replace').read()
+              print('== headings in', f)
+              for m in re.finditer(r'<(h[1-4])([^>]*)>(.*?)</\1>', h, re.S):
+                  print(m.group(1), re.sub(r'\s+', ' ', m.group(2))[:120], '|', re.sub(r'<[^>]+>', ' ', m.group(3)).strip()[:120])
+              i = h.find('ReportShare') if 'ReportShare' in h else h.find('Report')
+              j = h.find('Apply Offsite')
+              print('== html around Apply Offsite:')
+              print(re.sub(r'\s+', ' ', h[j:j+2500]))
+          PY
       - name: Save probe captures
         if: ${{ always() && (inputs.probe || steps.crawl.outcome == 'failure') }}
         uses: actions/upload-artifact@v6
