@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><title>DevOps Engineer I</title></head>
+<body>
+<main>
+  <h1>DevOps Engineer I</h1>
+  <p>Example Systems</p>
+  <p>Austin, TX (Hybrid)</p>
+  <p>Posted: 2 hours ago</p>
+  <p>Last Updated: just now</p>
+  <p>Pay: Not specified</p>
+  <p>Full-time</p>
+  <section aria-label="Job Description">
+    <p>Maintain build and deployment tooling.</p>
+    <p id="full-description" hidden>Minimum of 2 years of Linux experience.</p>
+    <button type="button" id="more-description">Read more...</button>
+  </section>
+  <a href="https://example.org/job?source=tallo">Apply Offsite</a>
+</main>
+<script>
+document.getElementById('more-description').addEventListener('click', () => {
+  document.getElementById('full-description').hidden = false;
+  document.getElementById('more-description').remove();
+});
+</script>
+</body>
+</html>

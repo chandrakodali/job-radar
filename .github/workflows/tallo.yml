@@ -1,0 +1,74 @@
+name: Tallo job crawler
+
+on:
+  schedule:
+    - cron: '17 7,19 * * *'
+  workflow_dispatch:
+    inputs:
+      probe:
+        description: Capture four probe pages for selector review
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tallo-crawler
+  cancel-in-progress: false
+
+defaults:
+  run:
+    working-directory: tallo-crawler
+
+jobs:
+  crawl:
+    if: github.ref_type == 'branch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 65
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: tallo-crawler/requirements.txt
+      - run: python -m pip install -r requirements.txt
+      - run: python -m playwright install --with-deps chromium
+      - id: crawl
+        name: Run crawler
+        env:
+          TALLO_CONTACT_EMAIL: ${{ secrets.TALLO_CONTACT_EMAIL }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          PROBE: ${{ inputs.probe }}
+        run: |
+          if [ "$PROBE" = "true" ]; then
+            python tallo_crawler.py --probe
+          else
+            python tallo_crawler.py
+          fi
+      - name: Save probe captures
+        if: ${{ always() && (inputs.probe || steps.crawl.outcome == 'failure') }}
+        uses: actions/upload-artifact@v6
+        with:
+          name: tallo-probe
+          path: tallo-crawler/data/probe/
+          if-no-files-found: ignore
+      - name: Commit crawler progress
+        if: ${{ always() && !inputs.probe && (steps.crawl.outcome == 'success' || steps.crawl.outcome == 'failure') }}
+        env:
+          TARGET_BRANCH: ${{ github.ref_name }}
+        run: |
+          if [ ! -d data ]; then exit 0; fi
+          git add -A -- data/
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update Tallo crawler progress"
+          for i in 1 2 3; do
+            git pull --rebase origin "$TARGET_BRANCH" && git push origin "HEAD:refs/heads/$TARGET_BRANCH" && exit 0
+            sleep 5
+          done
+          exit 1

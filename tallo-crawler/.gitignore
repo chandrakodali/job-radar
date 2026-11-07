@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+data/.run.lock
+data/.*.tmp
+data/*.sqlite-journal
+data/*.sqlite-shm
+data/*.sqlite-wal
+data/probe/

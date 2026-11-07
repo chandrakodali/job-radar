@@ -1,0 +1,71 @@
+# Set your own contact email here or supply TALLO_CONTACT_EMAIL in the environment.
+contact_email: ''
+
+categories:
+  - computer-systems-engineer-or-architect
+  - network-or-systems-administrator
+  - network-engineer-or-architect
+  - computer-support-specialist
+  - network-or-systems-support-specialist
+  - software-developer-or-engineer
+states: []
+
+thresholds:
+  since_hours: 48
+  alert_score: 45
+
+budgets:
+  max_pages: 600
+  core_cities: 120
+  rotation: 6
+  run_minutes: 55
+  delay_min_seconds: 3
+  delay_max_seconds: 6
+  retry_5xx_seconds: 30
+  navigation_timeout_seconds: 45
+  interaction_timeout_seconds: 5
+  max_view_more_clicks: 15
+
+probe:
+  category: computer-systems-engineer-or-architect
+  state: tx
+  city: austin
+
+selectors:
+  tree_links: 'a[href*="/talent/job/browse/technology/"]'
+  job_links: 'a[href*="/talent/job/"]'
+  card_container: 'article, li, [data-job-id], [role="listitem"]'
+  card_title: 'h2, h3, h4, [itemprop="title"]'
+  view_more: 'button, [role="button"], a'
+  view_more_text: '^view\s+more(?:\s+jobs)?$'
+  read_more: 'button, [role="button"], a'
+  read_more_text: '^read\s+more(?:\s*(?:\.{3}|…))?$'
+  job_title: 'main h1, article h1, h1'
+  company: '[itemprop="hiringOrganization"]'
+  location: '[itemprop="jobLocation"]'
+  employment_type: '[itemprop="employmentType"]'
+  pay: '[itemprop="baseSalary"]'
+  description: '[itemprop="description"], [aria-label="Job Description" i]'
+  job_body: 'main, article, [role="main"]'
+  apply_link: 'a[href]'
+  apply_text: '^apply\s+off[\s-]?site(?:\s*↗)?$'
+  empty_text: '\b(?:no (?:matching )?jobs(?: found| available)?|0 jobs|no results)\b'
+  block_text: '^(?:access denied|unusual traffic|verify (?:that )?you are human|captcha(?: challenge)?|just a moment|request blocked)\b'
+  block_nodes: 'h1, h2, iframe[title*="captcha" i], [role="alert"]'
+
+# Title patterns run against normalized titles.
+keywords:
+  core:
+  - \b(?:dev\s*-?\s*ops|dev\s*-?\s*sec\s*-?\s*ops|site reliability|sre|kubernetes|observability|systems reliability)\b
+  - \b(?:platform|infrastructure)\s+engineer\b
+  - \bcloud\s+(?:engineer|operations|infrastructure|support engineer|administrator)\b
+  bridge:
+  - \b(?:systems? administrator|linux|unix|network operations|noc|network engineer|network administrator)\b
+  - \b(?:cloud|technical|it|production) support engineer\b
+  - \b(?:data[ -]?center technician|it operations|(?:build|release|build\s*[/&-]\s*release) engineer)\b
+  - \bsystems? engineer\b.{0,40}\b(?:cloud|linux|it|infrastructure|network(?:ing)?|servers?)\b
+  - \b(?:cloud|linux|it|infrastructure|network(?:ing)?|servers?)\b.{0,40}\bsystems? engineer\b
+  excluded:
+  - \b(?:senior|staff|principal|lead|manager|director|head of|vp|vice president|architect|chief|distinguished|fellow)\b
+  - \b(?:intern(?:ship)?|co[ -]?op|summer|sales|recruiter|marketing)\b
+  - \b(?:mechanical|electrical|civil|manufacturing|maintenance|construction|hvac|facilities)\b

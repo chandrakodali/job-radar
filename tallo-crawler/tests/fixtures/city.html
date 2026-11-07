@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Austin Technology Jobs</title>
+  <script src="https://tallo.com/talent/job/search?forbidden=script"></script>
+</head>
+<body>
+<main>
+  <h1>Austin 3 jobs</h1>
+  <section id="job-list">
+    <article data-job-id="32184730">
+      <a href="/talent/job/devops-engineer-32184730/?utm_source=fixture#card">
+        <h2>DevOps Engineer I</h2>
+      </a>
+      <p>Posted: 2 hours ago</p>
+      <p>Last Updated: just now</p>
+    </article>
+    <article data-job-id="32184729">
+      <a href="/talent/job/platform-engineer-32184729">Platform Engineer II</a>
+      <p>yesterday</p>
+    </article>
+    <article hidden>
+      <a href="/talent/job/hidden-engineer-55555">Hidden</a>
+    </article>
+  </section>
+  <a href="/talent/job/browse/technology/computer-systems-engineer-or-architect/tx">Texas</a>
+  <a href="/talent/job/search?q=devops">Search</a>
+  <button type="button" id="more">View More</button>
+</main>
+<script>
+document.getElementById('more').addEventListener('click', () => {
+  const card = document.createElement('article');
+  card.innerHTML = '<a href="/talent/job/sre-32184728">SRE II</a><p>Posted: 3 days ago</p>';
+  document.getElementById('job-list').append(card);
+  document.getElementById('more').remove();
+});
+</script>
+</body>
+</html>
