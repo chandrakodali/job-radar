@@ -104,6 +104,7 @@ class Notifier:
                 if r.status_code != 200:
                     log.warning("Telegram send failed: HTTP %s %s", r.status_code, r.text[:200])
                     return False
+                log.info("Telegram message sent")
                 return True
             except requests.RequestException as e:
                 log.warning("Telegram send error: %s", type(e).__name__)
@@ -121,6 +122,7 @@ class Notifier:
             if r.status_code >= 300:
                 log.warning("ntfy send failed: HTTP %s", r.status_code)
                 return False
+            log.info("ntfy message sent")
             return True
         except requests.RequestException as e:
             log.warning("ntfy send error: %s", type(e).__name__)

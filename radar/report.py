@@ -45,8 +45,16 @@ def build_report(tz_name: str, boards_total: int, now: datetime | None = None) -
     rows = read_matches(since=now - timedelta(days=7))
     visible = [r for r in rows if r["status"] in ("alert", "quiet")]
     blocked = [r for r in rows if r["status"] == "blocked"]
-    day = [r for r in visible if r["_first_seen"] >= now - timedelta(hours=24)]
-    week = [r for r in visible if r["_first_seen"] < now - timedelta(hours=24)]
+    def when(r):  # posting time when the job board gives it, otherwise when the radar first saw it
+        try:
+            d = datetime.fromisoformat(r["posted"]) if r.get("posted") else r["_first_seen"]
+        except ValueError:
+            d = r["_first_seen"]
+        return d if d.tzinfo else d.replace(tzinfo=timezone.utc)
+
+    cutoff = now - timedelta(hours=24)
+    day = [r for r in visible if when(r) >= cutoff]
+    week = [r for r in visible if when(r) < cutoff]
     key = lambda r: (-r["score"], r.get("posted") or "")
     day.sort(key=key)
     week.sort(key=key)
@@ -62,11 +70,11 @@ def build_report(tz_name: str, boards_total: int, now: datetime | None = None) -
         "Score is 0–100 (higher = better fit for an early-career candidate on OPT). "
         "Full history: [data/matches.csv](data/matches.csv).",
         "",
-        f"## New in the last 24 hours ({len(day)})",
+        f"## Posted in the last 24 hours ({len(day)})",
         "",
     ]
-    lines += _table(day[:80], tz) if day else ["Nothing new in the last 24 hours."]
-    lines += ["", f"## Earlier this week ({len(week)})", ""]
+    lines += _table(day[:80], tz) if day else ["Nothing posted in the last 24 hours."]
+    lines += ["", f"## Found this week, posted earlier ({len(week)})", ""]
     lines += _table(week[:150], tz) if week else ["No other matches this week."]
     lines += [
         "",
