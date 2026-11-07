@@ -1,0 +1,48 @@
+name: probe
+on:
+  workflow_dispatch:
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe ATS APIs
+        shell: python
+        run: |
+          import json, urllib.request
+          def get(url, data=None):
+              req = urllib.request.Request(url, data=json.dumps(data).encode() if data else None,
+                    headers={"User-Agent":"job-radar-probe","Content-Type":"application/json","Accept":"application/json"})
+              with urllib.request.urlopen(req, timeout=30) as r:
+                  return json.loads(r.read())
+          def trunc(o, n=300):
+              if isinstance(o, dict): return {k: trunc(v, n) for k, v in o.items()}
+              if isinstance(o, list): return [trunc(v, n) for v in o[:3]] + (["...%d more" % (len(o)-3)] if len(o) > 3 else [])
+              if isinstance(o, str) and len(o) > n: return o[:n] + "..."
+              return o
+          tests = [
+            ("greenhouse list", lambda: get("https://boards-api.greenhouse.io/v1/boards/gitlab/jobs")),
+            ("greenhouse board", lambda: get("https://boards-api.greenhouse.io/v1/boards/gitlab")),
+            ("lever", lambda: get("https://api.lever.co/v0/postings/palantir?mode=json&limit=2")),
+            ("ashby", lambda: get("https://api.ashbyhq.com/posting-api/job-board/linear?includeCompensation=true")),
+            ("smartrecruiters", lambda: get("https://api.smartrecruiters.com/v1/companies/servicenow/postings?limit=2")),
+            ("workday search", lambda: get("https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs", {"appliedFacets":{},"limit":3,"offset":0,"searchText":"devops"})),
+          ]
+          out = {}
+          for name, fn in tests:
+              try:
+                  out[name] = fn()
+                  print("=====", name); print(json.dumps(trunc(out[name]), indent=1)[:6000])
+              except Exception as e:
+                  print("=====", name, "ERROR", repr(e))
+          try:
+              gh = out["greenhouse list"]["jobs"][0]["id"]
+              print("===== greenhouse detail"); print(json.dumps(trunc(get(f"https://boards-api.greenhouse.io/v1/boards/gitlab/jobs/{gh}")), indent=1)[:4000])
+          except Exception as e: print("gh detail ERROR", repr(e))
+          try:
+              sr = out["smartrecruiters"]["content"][0]["ref"]
+              print("===== smartrecruiters detail"); print(json.dumps(trunc(get(sr)), indent=1)[:4000])
+          except Exception as e: print("sr detail ERROR", repr(e))
+          try:
+              p = out["workday search"]["jobPostings"][0]["externalPath"]
+              print("===== workday detail"); print(json.dumps(trunc(get("https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite" + p)), indent=1)[:5000])
+          except Exception as e: print("wd detail ERROR", repr(e))
