@@ -1,0 +1,204 @@
+# Job Radar settings. Edit this file on GitHub to change what you get alerted about.
+# Patterns are case-insensitive regular expressions matched against the job TITLE.
+
+titles:
+  # Direct targets: score +45
+  core:
+    - 'dev\s*ops'
+    - 'devsecops'
+    - 'site reliability'
+    - '\bsre\b'
+    - 'reliability engineer'
+    - 'platform (engineer|engineering|operations)'
+    - 'infrastructure'
+    - 'cloud (engineer|engineering|operations|infrastructure|ops|platform|developer|administrator|support engineer)'
+    - '\bcloudops\b'
+    - '(build|release) engineer'
+    - 'observability'
+    - 'kubernetes'
+  # Bridge roles that lead toward DevOps/SRE: score +30
+  bridge:
+    - 'systems? administrator'
+    - '\bsysadmin\b'
+    - '\b(linux|unix)\b'
+    - 'network operations'
+    - '\bnoc\b'
+    - 'production engineer'
+    - 'network (engineer|administrator|technician)'
+    - 'data ?cent(er|re) (technician|operations|engineer|tech)'
+    - '\bit (operations|support engineer|systems engineer|engineer)'
+    - '(technical|production|application|cloud) support engineer'
+    - 'support engineer'
+    - '\b(cloud|linux|it|infrastructure|network|windows|server|platform)\b.{0,20}\bsystems? engineer'
+    - 'systems? engineer.{0,25}\b(cloud|linux|it|infrastructure|network|windows|server|aws|azure)\b'
+    - '\bcloud\b.{0,25}\bengineer'
+    - 'automation engineer.{0,20}(cloud|infrastructure|devops|it)'
+
+  # Titles containing any of these are skipped (too senior, or not a fit for F-1/OPT).
+  exclude:
+    - '\bsenior\b'
+    - '\bsr\.?\b'
+    - '\bstaff\b'
+    - '\bprincipal\b'
+    - '\blead\b'
+    - '\bmanager\b'
+    - '\bdirector\b'
+    - '\bhead of\b'
+    - '\bvp\b'
+    - 'vice president'
+    - '\barchitect\b'
+    - '\bdistinguished\b'
+    - '\bfellow\b'
+    - '\bchief\b'
+    - '\b(iii|iv|v)\b'
+    - '\b(level|lvl)\s*[3-9]\b'
+    - '\b[3-9]\b\s*$'
+    - '\bsales\b'
+    - 'account executive'
+    - 'account manager'
+    - '\brecruit'
+    - '\bmarketing\b'
+    - '\bintern(ship)?\b'
+    - '\bco-?op\b'
+    - '\bsummer\b'
+    - '\bphd\b'
+    - '\bclearance\b'
+    - '\bts/sci\b'
+    - '\btop secret\b'
+    - 'electrical'
+    - 'electrician'
+    - 'mechanical'
+    - 'civil'
+    - 'construction'
+    - 'facilit(y|ies)'
+    - '\bhvac\b'
+    - 'physical security'
+
+  # Entry-level signals in the title: score +15
+  entry:
+    - '\bjunior\b'
+    - '\bjr\.?\b'
+    - '\bassociate\b'
+    - '\bentry\b'
+    - 'new grad'
+    - '\bgraduate\b'
+    - 'early career'
+    - 'university (grad|graduate|hire|program|recruit)'
+    - '\bapprentice'
+    - '\b(engineer|administrator|technician|analyst|specialist|developer)\s+(i|1)\b'
+    - '\b(level|lvl)\s*1\b'
+
+# Description checks (applied when the job text is available).
+description:
+  # Hidden from phone alerts: F-1/OPT holders can't meet these.
+  blockers:
+    - '(security|secret|top secret|ts/sci|ts|sci|dod|public trust)\s+clearance'
+    - 'clearance (is |will be )?required'
+    - 'active (secret|top secret|ts/sci|ts)\b'
+    - 'ability to (obtain|maintain) (a |an )?(\w+ )?(security )?clearance'
+    - 'must (be|hold) (a |an )?(u\.?s\.?|united states) citizen'
+    - '(u\.?s\.?|united states) citizenship (is )?(required|is a requirement|needed)'
+    - 'requires? (u\.?s\.?|united states) citizenship'
+    - '(must be|only) (a )?(u\.?s\.?|us) persons?'
+    - '\bitar\b'
+    - 'export control.{0,80}(u\.?s\.? person|citizen)'
+  # These cancel a blocker match if they appear right where the blocker matched.
+  blocker_exceptions:
+    - 'no (security )?clearance (is )?required'
+    - 'clearance (is )?not required'
+    - 'does not require (a |an )?(security )?clearance'
+  no_sponsorship:
+    - '(not|unable to|cannot|can.t|will not|won.t|does not|do not|is not able to)\s+(provide |offer |support )?(employment |work )?(visa )?sponsor'
+    - 'sponsorship (is )?(not|un)available'
+    - 'without (the )?(need for )?(current or future |now or in the future )?(employer |visa )?sponsorship'
+    - 'now or in the future.{0,60}sponsor'
+  sponsors:
+    - 'visa sponsorship (is )?available'
+    - 'will sponsor'
+    - 'sponsorship (is )?available'
+    - 'open to sponsor'
+  e_verify:
+    - 'e-?verify'
+
+scoring:
+  alert_threshold: 45        # phone alerts only at or above this score
+  max_alerts_per_run: 15     # the rest go into one summary message
+  max_post_age_days: 14      # ignore jobs posted longer ago than this
+  block_alerts_if_years_at_least: 7
+
+# Large employers get a small penalty (more applicants). Matched against company name.
+big_companies:
+  - 'nvidia'
+  - '\bintel\b'
+  - 'boeing'
+  - 'general motors'
+  - 'micron'
+  - 'applied materials'
+  - 'qualcomm'
+  - 'servicenow'
+  - '\bibm\b'
+  - 'oracle'
+  - 'salesforce'
+  - 'cisco'
+  - 'adobe'
+  - 'dell'
+  - 'hewlett'
+  - '\bhp\b'
+  - 'jpmorgan'
+  - 'capital one'
+  - 'wells fargo'
+  - 'bank of america'
+  - 'walmart'
+  - 'target'
+  - 'deloitte'
+  - 'accenture'
+  - 'pwc'
+  - 'pricewaterhouse'
+  - 'ernst'
+  - 'kpmg'
+  - 'tesla'
+  - 'uber'
+  - 'doordash'
+  - 'nike'
+  - 'visa\b'
+  - 'mastercard'
+
+# Companies to skip entirely (most of their infra roles need a security clearance).
+exclude_companies:
+  - '\brtx\b'
+  - 'raytheon'
+  - 'northrop'
+  - 'lockheed'
+  - 'general dynamics'
+  - 'bae systems'
+  - 'l3harris'
+  - 'leidos'
+  - '\bcaci\b'
+  - '\bsaic\b'
+  - 'science applications'
+  - 'booz allen'
+  - '\bkbr\b'
+  - 'peraton'
+  - 'mantech'
+  - 'parsons'
+  - 'huntington ingalls'
+  - 'spacex'
+  - 'aerospace corporation'
+  - 'torch technologies'
+  - '\bmitre\b'
+  - 'anduril'
+  - 'sierra nevada'
+  - 'textron'
+  - 'lawrence livermore'
+  - 'sandia'
+  - 'los alamos'
+  - 'national security'
+
+# Workday boards are checked in rotation (each one every N runs) to stay polite.
+workday:
+  shards: 4
+  max_pages: 5
+
+notify:
+  daily_digest_hour_local: 8      # send a daily summary at this hour
+  timezone: 'America/Chicago'

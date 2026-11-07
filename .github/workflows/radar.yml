@@ -1,8 +1,79 @@
 name: radar
+
 on:
+  schedule:
+    - cron: '7,37 * * * *'   # every 30 minutes (off the top of the hour, when GitHub is busiest)
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Test run: no notifications and nothing saved'
+        type: boolean
+        default: false
+      all_shards:
+        description: 'Check every Workday board this run (slower)'
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - 'radar/**'
+      - 'tests/**'
+      - 'config.yaml'
+      - 'companies.csv'
+      - 'companies_custom.csv'
+      - '.github/workflows/radar.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
 jobs:
-  noop:
+  scan:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     steps:
-      - run: echo placeholder
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Tests
+        if: github.event_name == 'push'
+        run: python -m pytest -q
+
+      - name: Run radar
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="--dry-run --no-write"; fi
+          if [ "${{ inputs.all_shards }}" = "true" ]; then ARGS="$ARGS --all-shards"; fi
+          python -m radar.main $ARGS
+
+      - name: Save results
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data REPORT.md
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+            exit 0
+          fi
+          git commit -m "Radar update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          echo "Could not push results" && exit 1

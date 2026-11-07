@@ -1,0 +1,35 @@
+name: refresh-companies
+
+on:
+  schedule:
+    - cron: '23 10 * * 1'   # Mondays: pick up companies that started hiring new grads
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Rebuild companies.csv
+        run: python scripts/build_companies.py
+      - name: Save
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add companies.csv
+          if git diff --cached --quiet; then echo "No changes."; exit 0; fi
+          git commit -m "Refresh company list $(date -u +'%Y-%m-%d')"
+          git pull --rebase origin main && git push origin HEAD:main

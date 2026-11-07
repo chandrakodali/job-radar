@@ -1,0 +1,79 @@
+ats,board,company,priority
+# Your own list. These get a +10 score boost when priority is yes.
+# ats can be greenhouse, lever, ashby, smartrecruiters, workday, or auto (the radar finds it).
+# For auto, board is the company's job-board name, usually the name in its careers URL.
+auto,ranenetwork,RANE,yes
+auto,rane,RANE,yes
+greenhouse,grafanalabs,Grafana Labs,yes
+greenhouse,pagerduty,PagerDuty,yes
+greenhouse,planetscale,PlanetScale,yes
+greenhouse,vercel,Vercel,yes
+greenhouse,postman,Postman,yes
+greenhouse,cloudflare,Cloudflare,yes
+greenhouse,verkada,Verkada,yes
+ashby,crusoe,Crusoe,yes
+ashby,lambda,Lambda,yes
+ashby,astronomer,Astronomer,yes
+ashby,kong,Kong,yes
+ashby,sentry,Sentry,yes
+ashby,vanta,Vanta,yes
+auto,launchdarkly,LaunchDarkly,yes
+auto,cockroachlabs,Cockroach Labs,yes
+auto,fastly,Fastly,yes
+auto,netlify,Netlify,yes
+auto,tailscale,Tailscale,yes
+auto,temporaltechnologies,Temporal,yes
+auto,circleci,CircleCI,yes
+auto,harnessinc,Harness,yes
+auto,harness,Harness,yes
+auto,jfrog,JFrog,yes
+auto,honeycomb,Honeycomb,yes
+auto,chronosphere,Chronosphere,yes
+auto,digitalocean98,DigitalOcean,yes
+auto,render,Render,yes
+auto,railway,Railway,yes
+auto,supabase,Supabase,yes
+auto,coreweave,CoreWeave,yes
+auto,teleport,Teleport,yes
+auto,docker,Docker,yes
+auto,soloio,Solo.io,yes
+auto,sysdig,Sysdig,yes
+auto,airbyte,Airbyte,yes
+auto,sourcegraph91,Sourcegraph,yes
+auto,sourcegraph,Sourcegraph,yes
+auto,fivetran,Fivetran,yes
+auto,dbtlabsinc,dbt Labs,yes
+auto,sumologic,Sumo Logic,yes
+auto,newrelic,New Relic,yes
+auto,redis,Redis,yes
+auto,neon,Neon,yes
+auto,flyio,Fly.io,yes
+auto,gitlab,GitLab,no
+auto,datadog,Datadog,no
+auto,mongodb,MongoDB,no
+auto,elastic,Elastic,no
+auto,confluent,Confluent,no
+auto,databricks,Databricks,no
+auto,okta,Okta,no
+auto,zapier,Zapier,no
+auto,retool,Retool,no
+auto,drata,Drata,no
+auto,rippling,Rippling,no
+auto,gusto,Gusto,no
+auto,brex,Brex,no
+auto,stripe,Stripe,no
+auto,chime,Chime,no
+auto,discord,Discord,no
+auto,reddit,Reddit,no
+auto,pinterest,Pinterest,no
+auto,dropbox,Dropbox,no
+auto,hubspot,HubSpot,no
+auto,toast,Toast,no
+auto,samsara,Samsara,no
+auto,grammarly,Grammarly,no
+auto,asana,Asana,no
+auto,webflow,Webflow,no
+auto,squarespace,Squarespace,no
+auto,instacart,Instacart,no
+auto,lyft,Lyft,no
+auto,airbnb,Airbnb,no
