@@ -15,6 +15,7 @@ import re
 import time
 from typing import TYPE_CHECKING, Any, TypeVar
 from urllib.parse import unquote, urljoin, urlsplit
+from urllib.parse import parse_qs
 from urllib.robotparser import RobotFileParser
 
 if TYPE_CHECKING:
@@ -26,7 +27,10 @@ ROBOTS_URL = f"{ORIGIN}/robots.txt"
 TECHNOLOGY_URL = f"{ORIGIN}/talent/job/browse/technology"
 SLUG = r"[a-z0-9]+(?:-[a-z0-9]+)*"
 BROWSE = re.compile(rf"{re.escape(TECHNOLOGY_URL)}/({SLUG})(?:/([a-z]{{2}})(?:/({SLUG}))?)?")
-JOB = re.compile(rf"{re.escape(ORIGIN)}/talent/job/{SLUG}-(\d{{5,}})")
+JOB = re.compile(
+    rf"{re.escape(ORIGIN)}/talent/job/(?:{SLUG}-(\d{{5,}})|"
+    rf"technology/{SLUG}/[a-z]{{2}}/{SLUG}/(?:[a-z0-9]+-)+([0-9a-f]{{6,12}}))"
+)
 SEARCH = ("/talent/job/search", "/talent/apprenticeship/search")
 SPACES = re.compile(r"\s+")
 JOB_COUNT = re.compile(r"(?:^|\s|\()([0-9][0-9,]*)\s+jobs?\s*\)?\s*$", re.I)
@@ -119,19 +123,22 @@ def normalize_url(value: str, base: str = ORIGIN) -> str | None:
         return None
     if "%" in parts.path or not parts.path.startswith("/"):
         return None
-    return f"{ORIGIN}{parts.path.rstrip('/')}"
+    # City result pages paginate with ?page=N; keep only that parameter.
+    page = parse_qs(parts.query).get("page", [""])[0]
+    suffix = f"?page={int(page)}" if page.isdigit() and int(page) > 1 else ""
+    return f"{ORIGIN}{parts.path.rstrip('/')}{suffix}"
 
 
 def browse_parts(url: str) -> tuple[str, ...] | None:
-    normalized = normalize_url(url)
-    match = BROWSE.fullmatch(normalized or "")
+    normalized = (normalize_url(url) or "").split("?", 1)[0]
+    match = BROWSE.fullmatch(normalized)
     return tuple(part for part in match.groups() if part is not None) if match else None
 
 
 def job_id(url: str) -> str | None:
     normalized = normalize_url(url)
     match = JOB.fullmatch(normalized or "")
-    return match.group(1) if match else None
+    return (match.group(1) or match.group(2)) if match else None
 
 
 class RobotsPolicy(RobotFileParser):
@@ -251,7 +258,8 @@ def labeled_text(text: str, label: str) -> str:
 def card_date(text: str) -> str:
     posted = labeled_text(text, "Posted")
     if posted:
-        return posted
+        # Cards read "Posted Nov 5, 2026 (Updated Nov 6, 2026)": keep only the posted date.
+        return re.split(r"\s*\(\s*updated\b", posted, maxsplit=1, flags=re.I)[0].strip()
     skip_next = False
     for raw in text.splitlines():
         line = tidy(raw)
@@ -678,7 +686,28 @@ class Browser:
                 cards.extend(batch)
                 seen.update(job_id(card.url) for card in batch)
                 control = await self._control(page, "view_more")
-            return CityPage(cards, view_more, await page.content(), self._empty(snapshot), newest_first(cards, parse_date))
+            html, empty = await page.content(), self._empty(snapshot)
+        # Numbered pagination (?page=2, 3, ...): newest first, so stop once a page is older than the window.
+        if not view_more and cards:
+            base = value.split("?", 1)[0]
+            for number in range(2, 2 + click_limit):
+                dates = [parse_date(card.posted_text) for card in cards[-10:]]
+                if not newest_first(cards, parse_date) or not dates or any(d is None for d in dates):
+                    break
+                if min(d for d in dates if d is not None) < cutoff:
+                    break
+                async with self._document(f"{base}?page={number}") as (page, url, deadline):
+                    snapshot = await self._until(
+                        lambda: self._snapshot(page),
+                        lambda state: bool(extract_cards(url, state["cards"])) or self._empty(state),
+                        max(0, deadline - time.monotonic()),
+                    )
+                    batch = [c for c in extract_cards(url, snapshot["cards"]) if job_id(c.url) not in seen]
+                if not batch:
+                    break
+                cards.extend(batch)
+                seen.update(job_id(card.url) for card in batch)
+        return CityPage(cards, view_more, html, empty, newest_first(cards, parse_date))
 
     async def read_job(self, value: str, *, expand: bool = True) -> JobPage:
         async with self._document(value) as (page, url, deadline):
