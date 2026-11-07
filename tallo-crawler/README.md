@@ -29,7 +29,7 @@ On Windows, use `.\.venv\Scripts\python.exe` wherever the steps below use `pytho
 
 ## Probe first
 
-Set `contact_email` in `config.yaml` to your real contact email or set `TALLO_CONTACT_EMAIL` in the environment. The environment value takes precedence. Run:
+No email is needed: the bot identifies itself with the project URL in `config.yaml` (`contact_url`). Run:
 
 ```sh
 python tallo_crawler.py --probe
@@ -81,13 +81,12 @@ drive.mount("/content/drive")
 !python -m playwright install --with-deps chromium
 ```
 
-Set your email in the YAML, or add a Colab secret named `TALLO_CONTACT_EMAIL` and grant the notebook access. Then run:
+Then run:
 
 ```python
 import os
 from google.colab import userdata
 
-os.environ["TALLO_CONTACT_EMAIL"] = userdata.get("TALLO_CONTACT_EMAIL")
 ```
 
 ```python
@@ -98,7 +97,7 @@ After inspecting the probe, run `!python tallo_crawler.py` in a new cell.
 
 ## GitHub Actions
 
-Place these files at the repository root, including `.github/workflows/tallo.yml`. Add the repository Actions secret `TALLO_CONTACT_EMAIL` and optionally `NTFY_TOPIC`. Run and inspect a probe locally or dispatch the **Tallo job crawler** workflow with the probe option enabled. Manual probes and failed runs publish any captured HTML as a workflow artifact.
+Place these files at the repository root, including `.github/workflows/tallo.yml`. Optionally add the repository Actions secret `NTFY_TOPIC`. Run and inspect a probe locally or dispatch the **Tallo job crawler** workflow with the probe option enabled. Manual probes and failed runs publish any captured HTML as a workflow artifact.
 
 The workflow runs at 07:17 and 19:17 UTC on the default branch, installs Chromium with system dependencies, serializes runs, and commits persistent `data/` files after the crawl step, including after a blocked or error exit. The target branch must allow the workflow token to push. Probe HTML and transient lock/journal files stay out of commits. [GitHub Actions workflow syntax](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax)
 

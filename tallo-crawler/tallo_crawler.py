@@ -27,6 +27,7 @@ from tallo.storage import Storage
 
 LOG = logging.getLogger("tallo")
 PROJECT = Path(__file__).resolve().parent
+DEFAULT_CONTACT = "https://github.com/chandrakodali/job-radar"
 CONTACT_EMAIL = re.compile(r"[A-Za-z0-9.!#$%&'*+/=?^_`{|}~-]+@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)+")
 SLUG = re.compile(r"[a-z0-9]+(?:-[a-z0-9]+)*")
 
@@ -65,10 +66,9 @@ def read_settings(args: argparse.Namespace) -> Settings:
         cfg = yaml.safe_load(stream)
     if not isinstance(cfg, dict):
         raise ValueError("config.yaml must contain a mapping")
-    email = os.getenv("TALLO_CONTACT_EMAIL") or cfg.get("contact_email")
-    if not isinstance(email, str) or not CONTACT_EMAIL.fullmatch(email.strip()):
-        raise ValueError("Set your contact email in config.yaml or TALLO_CONTACT_EMAIL before contacting Tallo")
-    cfg["contact_email"] = email.strip()
+    # The bot identifies itself with the project URL (no personal email needed).
+    contact = str(cfg.get("contact_url") or DEFAULT_CONTACT).strip()
+    cfg["contact_email"] = contact
     budgets, thresholds = cfg["budgets"], cfg["thresholds"]
     categories = names("categories", args.categories or cfg["categories"], SLUG)
     if not categories:

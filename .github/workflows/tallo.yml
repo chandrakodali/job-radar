@@ -40,7 +40,6 @@ jobs:
       - id: crawl
         name: Run crawler
         env:
-          TALLO_CONTACT_EMAIL: ${{ secrets.TALLO_CONTACT_EMAIL }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           PROBE: ${{ inputs.probe }}
         run: |

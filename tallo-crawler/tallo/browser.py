@@ -430,8 +430,8 @@ class Browser:
 
     def __init__(self, config: Mapping[str, Any], *, max_pages: int):
         email = str(config.get("contact_email") or "").strip()
-        if not re.fullmatch(r"[^@\s<>]+@[^@\s<>]+\.[^@\s<>]+", email):
-            raise ValueError("Set contact_email in config.yaml to your real contact email")
+        if not email or not re.fullmatch(r"\S+", email):
+            raise ValueError("A contact URL is required for the bot's User-Agent")
         self.user_agent = f"personal-job-search-bot/1.0 (+contact: {email})"
         self.selectors = dict(config["selectors"])
         self.patterns = {

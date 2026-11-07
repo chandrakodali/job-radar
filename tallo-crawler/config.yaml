@@ -1,5 +1,5 @@
-# Set your own contact email here or supply TALLO_CONTACT_EMAIL in the environment.
-contact_email: ''
+# The bot identifies itself to Tallo with this project URL (no email needed).
+contact_url: 'https://github.com/chandrakodali/job-radar'
 
 categories:
   - computer-systems-engineer-or-architect
