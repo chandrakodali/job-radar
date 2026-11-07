@@ -305,7 +305,7 @@ SNAPSHOT = """(selectors) => {
     });
     const isJob = (el) => {
         const href = el.getAttribute('href') || '';
-        return /\\/talent\\/job\\/[^/?#]+-\\d{5,}\\/?(?:[?#]|$)/i.test(href)
+        return /\\/talent\\/job\\/(?:[^/?#]+-\\d{5,}|technology\\/[^/?#]+\\/[a-z]{2}\\/[^/?#]+\\/[^/?#]+-[0-9a-f]{6,12})\\/?(?:[?#]|$)/i.test(href)
             && !href.includes('/browse/');
     };
     const card = (link) => {
