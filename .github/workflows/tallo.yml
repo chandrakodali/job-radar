@@ -67,7 +67,7 @@ jobs:
               for m in re.finditer(r'<(h[1-4])([^>]*)>(.*?)</\1>', h, re.S):
                   print(m.group(1), re.sub(r'\s+', ' ', m.group(2))[:120], '|', re.sub(r'<[^>]+>', ' ', m.group(3)).strip()[:120])
               i = h.find('ReportShare') if 'ReportShare' in h else h.find('Report')
-              j = h.find('Apply Offsite')
+              j = h.find('_job-title_') - 1500
               print('== html around Apply Offsite:')
               print(re.sub(r'\s+', ' ', h[j:j+2500]))
           PY
