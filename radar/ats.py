@@ -69,8 +69,8 @@ def _split_eu(board: str) -> tuple[bool, str]:
 # ---------------------------------------------------------------- Greenhouse
 
 def greenhouse_list(b: Board) -> list[Job]:
-    eu, slug = _split_eu(b.board)
-    host = "boards-api.eu.greenhouse.io" if eu else "boards-api.greenhouse.io"
+    _, slug = _split_eu(b.board)  # EU-hosted boards are served by the same API host
+    host = "boards-api.greenhouse.io"
     data = get_json(f"https://{host}/v1/boards/{slug}/jobs")
     jobs = []
     for j in data.get("jobs") or []:

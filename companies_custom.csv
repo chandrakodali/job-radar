@@ -2,8 +2,6 @@ ats,board,company,priority
 # Your own list. These get a +10 score boost when priority is yes.
 # ats can be greenhouse, lever, ashby, smartrecruiters, workday, or auto (the radar finds it).
 # For auto, board is the company's job-board name, usually the name in its careers URL.
-auto,ranenetwork,RANE,yes
-auto,rane,RANE,yes
 greenhouse,grafanalabs,Grafana Labs,yes
 greenhouse,pagerduty,PagerDuty,yes
 greenhouse,planetscale,PlanetScale,yes

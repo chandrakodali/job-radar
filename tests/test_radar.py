@@ -56,7 +56,7 @@ def test_greenhouse_eu_host(monkeypatch):
     seen = []
     monkeypatch.setattr(ATS, "get_json", lambda url, params=None: seen.append(url) or {"jobs": []})
     ATS.greenhouse_list(Board("greenhouse", "eu:acme", "Acme"))
-    assert seen[0] == "https://boards-api.eu.greenhouse.io/v1/boards/acme/jobs"
+    assert seen[0] == "https://boards-api.greenhouse.io/v1/boards/acme/jobs"  # EU boards use the same API host
 
 
 def test_lever_list(monkeypatch):
@@ -157,6 +157,11 @@ def test_workday_days(text, days):
     ("DevOps Engineer Intern", None), ("Software Engineer", None), ("Systems Engineer (Missile Defense)", None),
     ("Infrastructure Engineer, TS/SCI", None), ("Platform Engineering Manager", None), ("Cloud Engineer 3", None),
     ("Solutions Architect - DevOps", None), ("Embedded Systems Engineer", None),
+    ("Associate, Corporate Paralegal - Global Infrastructure", None), ("Maintenance Reliability Engineer", None),
+    ("Power panels - Design Release Engineer", None), ("Test Infrastructure Technician I", None),
+    ("Documentation Platform Engineer", None), ("Build Engineer, Castings", None),
+    ("Software Engineer, Infrastructure", "core"), ("HPC Operations Engineer - EDA Infrastructure", "core"),
+    ("Release Engineer", "bridge"), ("Database Reliability Engineer", "core"),
 ])
 def test_titles(rules, title, expected):
     assert title_category(title, rules) == expected
@@ -168,6 +173,7 @@ def test_titles(rules, title, expected):
     ("Toronto, ON", [], "non_us"), ("Remote, Canada; Remote, United States", [], "us"),
     ("North America", ["US"], "us"), ("Europe", ["European Union"], "non_us"), ("2 Locations", ["Ukraine"], "non_us"),
     ("Singapore, Singapore", ["SG"], "non_us"), ("Remote - US", [], "us"), ("Manchester, NH", [], "us"),
+    ("Lebanon, NH", [], "us"), ("Panama City, FL", [], "us"), ("Luxembourg (Siège Lux House)", [], "non_us"),
 ])
 def test_location(text, countries, expected):
     assert classify_location(text, countries) == expected

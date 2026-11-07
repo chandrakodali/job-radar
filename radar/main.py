@@ -84,7 +84,7 @@ def record_failure(state: dict, b: Board, err: FetchError, today: str) -> None:
     f = state["fails"].get(b.key) or {"n": 0, "since": today}
     f["n"] = int(f.get("n", 0)) + 1
     f["err"] = str(err)[:80]
-    if err.status in (404, 410) and f["n"] >= 3:
+    if err.status in (403, 404, 410, 422) and f["n"] >= 3:
         f["disabled_until"] = (date.fromisoformat(today) + timedelta(days=7)).isoformat()
     state["fails"][b.key] = f
 

@@ -8,12 +8,12 @@ titles:
     - 'devsecops'
     - 'site reliability'
     - '\bsre\b'
-    - 'reliability engineer'
+    - '(systems?|software|production|platform|cloud|infrastructure|service|database|network|data) reliability'
     - 'platform (engineer|engineering|operations)'
-    - 'infrastructure'
+    - 'infrastructure.{0,30}\b(engineer|engineering|administrator|specialist|operations|ops|analyst|developer)\b'
+    - '\b(engineer|engineering|administrator|specialist|operations|developer)\b.{0,30}infrastructure'
     - 'cloud (engineer|engineering|operations|infrastructure|ops|platform|developer|administrator|support engineer)'
     - '\bcloudops\b'
-    - '(build|release) engineer'
     - 'observability'
     - 'kubernetes'
   # Bridge roles that lead toward DevOps/SRE: score +30
@@ -24,6 +24,7 @@ titles:
     - 'network operations'
     - '\bnoc\b'
     - 'production engineer'
+    - '(build|release) engineer'
     - 'network (engineer|administrator|technician)'
     - 'data ?cent(er|re) (technician|operations|engineer|tech)'
     - '\bit (operations|support engineer|systems engineer|engineer)'
@@ -73,6 +74,22 @@ titles:
     - 'facilit(y|ies)'
     - '\bhvac\b'
     - 'physical security'
+    - 'paralegal'
+    - '\blegal\b'
+    - '\bcounsel\b'
+    - 'attorney'
+    - 'documentation'
+    - 'technical writer'
+    - 'maintenance'
+    - 'design release'
+    - 'casting'
+    - 'manufacturing'
+    - 'welding'
+    - 'machining'
+    - '\bmechanic'
+    - 'test (infrastructure )?technician'
+    - '\baccount(ant|ing)\b'
+    - '\bfinance\b'
 
   # Entry-level signals in the title: score +15
   entry:
@@ -119,6 +136,17 @@ description:
     - 'open to sponsor'
   e_verify:
     - 'e-?verify'
+
+# Company names that look like IT staffing/consulting firms get a caution flag (SEVP warns about these for STEM OPT).
+staffing_company_patterns:
+  - 'consult'
+  - 'staffing'
+  - 'recruit'
+  - 'talent'
+  - 'infotech'
+  - '\bit solutions\b'
+  - 'technologies llc'
+  - 'systems llc'
 
 scoring:
   alert_threshold: 45        # phone alerts only at or above this score

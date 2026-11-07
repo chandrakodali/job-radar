@@ -58,10 +58,24 @@ NON_US = re.compile(
     r"brisbane|perth|new zealand|auckland|mexico|guadalajara|monterrey|brazil|são paulo|sao paulo|"
     r"argentina|buenos aires|colombia|bogota|bogotá|medellin|chile|santiago|peru|lima|costa rica|"
     r"uruguay|montevideo|south africa|cape town|johannesburg|nigeria|lagos|kenya|nairobi|egypt|cairo|"
-    r"uae|dubai|abu dhabi|saudi|riyadh|qatar|doha|emea|apac|latam|europe|european union|asia)\b",
+    r"uae|dubai|abu dhabi|saudi|riyadh|qatar|doha|emea|apac|latam|europe|european union|asia|"
+    r"luxembourg|estonia|tallinn|latvia|riga|lithuania|vilnius|slovakia|bratislava|slovenia|ljubljana|"
+    r"bulgaria|sofia|cyprus|limassol|malta|iceland|reykjavik|morocco|casablanca|tunisia|ghana|accra|"
+    r"pakistan|karachi|lahore|islamabad|bangladesh|dhaka|sri lanka|colombo|nepal|kathmandu|armenia|yerevan|"
+    r"tbilisi|kazakhstan|almaty|ecuador|quito|guatemala|panama|dominican republic|jamaica|venezuela|"
+    r"bolivia|paraguay|el salvador|honduras|nicaragua|ethiopia|addis ababa|rwanda|kigali|uganda|kampala|"
+    r"tanzania|zambia|zimbabwe|jordan|amman|lebanon|beirut|kuwait|bahrain|oman|muscat|"
+    r"belfast|cardiff|bristol|cork|galway|lyon|toulouse|rotterdam|eindhoven|antwerp|gothenburg|"
+    r"cluj|iasi|wroclaw|gdansk|lodz|poznan|tallin|noida|coimbatore|kochi|trivandrum|mysore|"
+    r"shenzhen|hangzhou|chengdu|suzhou|nanjing|wuhan|xian|xi.an|guangzhou|kowloon|yokohama|"
+    r"busan|penang|cebu|ho chi minh|hanoi|da nang|auckland|wellington|christchurch|"
+    r"curitiba|porto alegre|belo horizonte|rio de janeiro|campinas|florianopolis|cordoba|rosario|"
+    r"mexico city|ciudad de mexico|cdmx|tijuana|queretaro|puebla|leon, gto|zapopan)\b",
     re.I,
 )
 _ABBR_RE = re.compile(r"(?:,|-|–)\s*(" + "|".join(US_ABBR) + r")\b(?!\s*[a-z])")
+# State abbreviations that are also common country codes (CA=Canada, IN=India, DE=Germany, ...)
+_AMBIG_ABBR = {"CA", "IN", "DE", "IL", "MA", "CO", "AR", "ID", "PA", "MT", "AL", "GA", "MD", "ME", "MN", "MO", "SC", "SD", "TN"}
 _US_COUNTRY_CODES = {"us", "usa", "united states", "united states of america", "u.s.", "u.s.a."}
 
 
@@ -79,6 +93,8 @@ def classify_location(text: str, countries: list[str] | None = None) -> str:
     t = text or ""
     if _text_says_us(t):
         return "us"
+    if any(a not in _AMBIG_ABBR for a in _ABBR_RE.findall(t)):
+        return "us"  # e.g. "Lebanon, NH", "Paris, TX", "Panama City, FL"
     if NON_US.search(t):
         return "non_us"
     if _ABBR_RE.search(t):
@@ -121,6 +137,7 @@ class Rules:
     e_verify: list[re.Pattern]
     big_companies: list[re.Pattern]
     exclude_companies: list[re.Pattern]
+    staffing: list[re.Pattern]
     alert_threshold: int = 45
     max_post_age_days: int = 14
     block_alerts_if_years_at_least: int = 7
@@ -137,6 +154,7 @@ class Rules:
             no_sponsorship=comp(d["no_sponsorship"]), sponsors=comp(d["sponsors"]),
             e_verify=comp(d["e_verify"]), big_companies=comp(cfg.get("big_companies")),
             exclude_companies=comp(cfg.get("exclude_companies")),
+            staffing=comp(cfg.get("staffing_company_patterns")),
             alert_threshold=int(s.get("alert_threshold", 45)),
             max_post_age_days=int(s.get("max_post_age_days", 14)),
             block_alerts_if_years_at_least=int(s.get("block_alerts_if_years_at_least", 7)),
@@ -269,6 +287,9 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
         flags.append("priority company")
     if _any(rules.big_companies, board.company or ""):
         score -= 5
+    if _any(rules.staffing, job.company or board.company or ""):
+        score -= 5
+        flags.append("staffing/consulting firm: verify it's real")
 
     score = max(0, min(100, score))
     blocker = blocker_hit(" ".join([title, desc]), rules)
@@ -277,7 +298,7 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
         status = "old"
     elif blocker:
         status = "blocked"
-        flags.append(f"needs: {blocker}")
+        flags.append(f"needs: {blocker[:40]}")
     elif loc_class == "non_us":
         status = "old"  # never reported; caller normally filters these out earlier
     elif years is not None and years >= rules.block_alerts_if_years_at_least:
