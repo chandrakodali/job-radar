@@ -48,6 +48,17 @@ jobs:
           else
             python tallo_crawler.py
           fi
+      - name: Describe probe pages
+        if: ${{ always() && inputs.probe }}
+        run: |
+          ls -la data/probe || true
+          for f in data/probe/*; do
+            echo "== $f $(wc -c < "$f") bytes"
+            echo "job links: $(grep -o '/talent/job/technology/[^\"]*' "$f" | wc -l)  browse links: $(grep -o '/talent/job/browse/[^\"]*' "$f" | wc -l)"
+            grep -o '/talent/job/technology/[^\"]*' "$f" | head -3
+            grep -oE '__NEXT_DATA__|self.__next_f|application/ld\+json|/api/[A-Za-z0-9_/.-]+|graphql|wp-json[A-Za-z0-9_/.-]*|admin-ajax[^\"]*' "$f" | sort | uniq -c | head -15
+            grep -oiE 'posted[^<]{0,40}' "$f" | head -3
+          done
       - name: Save probe captures
         if: ${{ always() && (inputs.probe || steps.crawl.outcome == 'failure') }}
         uses: actions/upload-artifact@v6
