@@ -15,6 +15,7 @@ import threading
 import time
 from collections import Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import TimeoutError as FuturesTimeout
 from datetime import date, datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
@@ -156,9 +157,15 @@ def run(args) -> int:
 
     candidates: list[tuple[Job, Board, str, bool]] = []
     newly_baselined: set[str] = set()
-    with ThreadPoolExecutor(max_workers=40) as pool:
-        futures = [pool.submit(fetch_board, b) for b in selected]
-        for fut in as_completed(futures):
+    pool = ThreadPoolExecutor(max_workers=40)
+    futures = {pool.submit(fetch_board, b): b for b in selected}
+    done_n, last_log = 0, time.monotonic()
+    try:
+        for fut in as_completed(futures, timeout=max(30.0, deadline + 90 - time.monotonic())):
+            done_n += 1
+            if time.monotonic() - last_log > 60:
+                last_log = time.monotonic()
+                log.info("progress: %d/%d boards done, %d jobs scanned", done_n, len(futures), stats["jobs_scanned"])
             b, jobs, err = fut.result()
             if err is not None:
                 if isinstance(err, FetchError):
@@ -182,6 +189,12 @@ def run(args) -> int:
                 if classify_location(j.location, j.countries) == "non_us":
                     continue
                 candidates.append((j, b, cat, first_time))
+    except FuturesTimeout:
+        stuck = Counter(b.ats for f, b in futures.items() if not f.done())
+        stats["skipped_time"] += sum(stuck.values())
+        log.warning("Stopped waiting for %d slow boards: %s", sum(stuck.values()), dict(stuck))
+    finally:
+        pool.shutdown(wait=False, cancel_futures=True)
     log.info("Scanned %d jobs; %d new title matches to check", stats["jobs_scanned"], len(candidates))
 
     def detail(item):
@@ -195,8 +208,17 @@ def run(args) -> int:
                     stats["detail_failed"] += 1
         return item
 
-    with ThreadPoolExecutor(max_workers=24) as pool:
-        detailed = list(pool.map(detail, candidates))
+    dpool = ThreadPoolExecutor(max_workers=24)
+    dfutures = [dpool.submit(detail, c) for c in candidates]
+    try:
+        for _ in as_completed(dfutures, timeout=max(30.0, deadline + 240 - time.monotonic())):
+            pass
+    except FuturesTimeout:
+        log.warning("Stopped waiting for %d slow job-detail requests", sum(1 for f in dfutures if not f.done()))
+    finally:
+        dpool.shutdown(wait=False, cancel_futures=True)
+    # unfinished details: assess with what the listing gave
+    detailed = [f.result() if f.done() and not f.cancelled() else c for f, c in zip(dfutures, candidates)]
 
     # Same role re-posted (new id) or listed on two boards: alert only once.
     recent_keys = {_dupe_key(r["company"], r["title"], r["location"])
@@ -312,7 +334,13 @@ def main(argv=None) -> int:
     logging.basicConfig(level=logging.DEBUG if args.verbose else logging.INFO,
                         format="%(asctime)s %(levelname)s %(name)s: %(message)s", stream=sys.stdout)
     logging.getLogger("urllib3").setLevel(logging.WARNING)
-    return run(args)
+    rc = run(args)
+    # A worker stuck on a slow server must not keep the process (and the Actions job) alive.
+    if any(t.is_alive() and not t.daemon for t in threading.enumerate() if t is not threading.main_thread()):
+        log.warning("Exiting with slow requests still open")
+        sys.stdout.flush()
+        os._exit(rc)
+    return rc
 
 
 if __name__ == "__main__":

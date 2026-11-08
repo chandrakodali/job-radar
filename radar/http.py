@@ -9,6 +9,13 @@ USER_AGENT = "job-radar/1.0 (personal job search tool; +https://github.com/chand
 TIMEOUT = (10, 30)  # connect, read seconds
 
 _local = threading.local()
+MAX_RETRY_AFTER = 8  # seconds; some servers ask for an hour, which would stall the whole run
+
+
+class _CappedRetry(Retry):
+    def get_retry_after(self, response):
+        v = super().get_retry_after(response)
+        return None if v is None else min(v, MAX_RETRY_AFTER)
 
 
 def session() -> requests.Session:
@@ -16,11 +23,12 @@ def session() -> requests.Session:
     s = getattr(_local, "session", None)
     if s is None:
         s = requests.Session()
-        retry = Retry(
+        retry = _CappedRetry(
             total=2,
             connect=2,
             read=1,
             backoff_factor=1.5,
+            backoff_max=10,
             status_forcelist=(429, 500, 502, 503, 504),
             allowed_methods=frozenset(["GET", "POST"]),
             respect_retry_after_header=True,
