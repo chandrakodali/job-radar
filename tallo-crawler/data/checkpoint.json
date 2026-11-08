@@ -18,921 +18,6 @@
   "core_remaining": 0,
   "pending": [
     {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ct/easton",
-      "label": "Easton",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ct/trumbull",
-      "label": "Trumbull",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/cape-coral",
-      "label": "Cape Coral",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/hallandale-beach",
-      "label": "Hallandale Beach",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/leesburg",
-      "label": "Leesburg",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/riverview",
-      "label": "Riverview",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ga/decatur",
-      "label": "Decatur",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ga/warner-robins",
-      "label": "Warner Robins",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ia/ottumwa",
-      "label": "Ottumwa",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/savoy",
-      "label": "Savoy",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/spring-grove",
-      "label": "Spring Grove",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/wheaton",
-      "label": "Wheaton",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/in/lebanon",
-      "label": "Lebanon",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/in/new-carlisle",
-      "label": "New Carlisle",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/in/noblesville",
-      "label": "Noblesville",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ks/de-soto",
-      "label": "De Soto",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ky/canada",
-      "label": "Canada",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ky/danville",
-      "label": "Danville",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ky/dayton",
-      "label": "Dayton",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ma/hingham",
-      "label": "Hingham",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ma/mansfield",
-      "label": "Mansfield",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ma/oxford",
-      "label": "Oxford",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/md/bowie",
-      "label": "Bowie",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/md/brentwood",
-      "label": "Brentwood",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/md/port-deposit",
-      "label": "Port Deposit",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/md/towson",
-      "label": "Towson",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/md/woodlawn",
-      "label": "Woodlawn",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mi/big-rapids",
-      "label": "Big Rapids",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mi/brighton",
-      "label": "Brighton",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mi/fenton",
-      "label": "Fenton",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mi/grand-haven",
-      "label": "Grand Haven",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mn/burnsville",
-      "label": "Burnsville",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mn/owatonna",
-      "label": "Owatonna",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mn/red-wing",
-      "label": "Red Wing",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mo/cassville",
-      "label": "Cassville",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mo/linn",
-      "label": "Linn",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mo/saint-peters",
-      "label": "Saint Peters",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nd/west-fargo",
-      "label": "West Fargo",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/bayonne",
-      "label": "Bayonne",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/east-rutherford",
-      "label": "East Rutherford",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/haledon",
-      "label": "Haledon",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nm/rio-rancho",
-      "label": "Rio Rancho",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/canandaigua",
-      "label": "Canandaigua",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/glen-head",
-      "label": "Glen Head",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/hunter",
-      "label": "Hunter",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/mill-neck",
-      "label": "Mill Neck",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/rome",
-      "label": "Rome",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/woodbury",
-      "label": "Woodbury",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/green",
-      "label": "Green",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/powell",
-      "label": "Powell",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/arsenal",
-      "label": "Arsenal",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/berwyn",
-      "label": "Berwyn",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/feasterville-trevose",
-      "label": "Feasterville-Trevose",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/greensburg",
-      "label": "Greensburg",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/murrysville",
-      "label": "Murrysville",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/radnor",
-      "label": "Radnor",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/rohrerstown",
-      "label": "Rohrerstown",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/saint-marys",
-      "label": "Saint Marys",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/stroudsburg",
-      "label": "Stroudsburg",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/sc/newberry",
-      "label": "Newberry",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tn/jackson",
-      "label": "Jackson",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tn/livingston",
-      "label": "Livingston",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tn/portland",
-      "label": "Portland",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tn/smyrna",
-      "label": "Smyrna",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/brookshire",
-      "label": "Brookshire",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/new-braunfels",
-      "label": "New Braunfels",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/va/colonial-heights",
-      "label": "Colonial Heights",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/va/great-falls",
-      "label": "Great Falls",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/va/mount-crawford",
-      "label": "Mount Crawford",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/glendale",
-      "label": "Glendale",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/janesville",
-      "label": "Janesville",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/sun-prairie",
-      "label": "Sun Prairie",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/fl/boca-raton",
-      "label": "Boca Raton",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ia/hiawatha",
-      "label": "Hiawatha",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/il/metamora",
-      "label": "Metamora",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/in/whitestown",
-      "label": "Whitestown",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/mi/battle-creek",
-      "label": "Battle Creek",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/nd/grand-forks",
-      "label": "Grand Forks",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/oh/new-albany",
-      "label": "New Albany",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/or/portland",
-      "label": "Portland",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/pa/warrendale",
-      "label": "Warrendale",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/va/tysons",
-      "label": "Tysons",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/wa/fife",
-      "label": "Fife",
-      "count": 2
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/al/mobile",
-      "label": "Mobile",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/al/new-market",
-      "label": "New Market",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/az/queen-creek",
-      "label": "Queen Creek",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/az/tonopah",
-      "label": "Tonopah",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ca/adelanto",
-      "label": "Adelanto",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ca/anderson",
-      "label": "Anderson",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ca/brentwood",
-      "label": "Brentwood",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ca/california-city",
-      "label": "California City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ca/jolon",
-      "label": "Jolon",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ca/los-alamitos",
-      "label": "Los Alamitos",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ca/march-air-reserve-base",
-      "label": "March Air Reserve Base",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ca/san-luis-obispo",
-      "label": "San Luis Obispo",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ca/santa-rosa",
-      "label": "Santa Rosa",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ca/saratoga",
-      "label": "Saratoga",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ca/temecula",
-      "label": "Temecula",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/co/frederick",
-      "label": "Frederick",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/co/windsor",
-      "label": "Windsor",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ct/chester",
-      "label": "Chester",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ct/monroe",
-      "label": "Monroe",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ct/montville",
-      "label": "Montville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ct/windham",
-      "label": "Windham",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ct/woodbridge",
-      "label": "Woodbridge",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/fl/bellview",
-      "label": "Bellview",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/fl/estero",
-      "label": "Estero",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/fl/ferry-pass",
-      "label": "Ferry Pass",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/fl/naples",
-      "label": "Naples",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/fl/palm-shores",
-      "label": "Palm Shores",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/fl/patrick-air-force-base",
-      "label": "Patrick Air Force Base",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/fl/plantation",
-      "label": "Plantation",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ga/college-park",
-      "label": "College Park",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ia/altoona",
-      "label": "Altoona",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ia/iowa-city",
-      "label": "Iowa City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ia/west-chester",
-      "label": "West Chester",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/id/rupert",
-      "label": "Rupert",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/il/alsip",
-      "label": "Alsip",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/il/byron",
-      "label": "Byron",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/il/crystal-lake",
-      "label": "Crystal Lake",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/il/glenview",
-      "label": "Glenview",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/il/la-grange-park",
-      "label": "La Grange Park",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/il/markham",
-      "label": "Markham",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/il/mount-carmel",
-      "label": "Mount Carmel",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/il/paderborn",
-      "label": "Paderborn",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/il/warrenville",
-      "label": "Warrenville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/il/willowbrook",
-      "label": "Willowbrook",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/in/new-albany",
-      "label": "New Albany",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ky/fort-mitchell",
-      "label": "Fort Mitchell",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/la/barksdale-air-force-base",
-      "label": "Barksdale Air Force Base",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/la/covington",
-      "label": "Covington",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/la/maringouin",
-      "label": "Maringouin",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/la/metairie",
-      "label": "Metairie",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/la/raceland",
-      "label": "Raceland",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ma/leominster",
-      "label": "Leominster",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ma/mansfield",
-      "label": "Mansfield",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ma/new-bedford",
-      "label": "New Bedford",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ma/north-andover",
-      "label": "North Andover",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ma/raynham",
-      "label": "Raynham",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ma/south-hadley",
-      "label": "South Hadley",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/md/jennings",
-      "label": "Jennings",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/md/salisbury",
-      "label": "Salisbury",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/me/bath",
-      "label": "Bath",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/me/kittery",
-      "label": "Kittery",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/mi/byron-center",
-      "label": "Byron Center",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/mi/grand-haven",
-      "label": "Grand Haven",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/mi/hemlock",
-      "label": "Hemlock",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/mi/ionia",
-      "label": "Ionia",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/mn/arden-hills",
-      "label": "Arden Hills",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/mn/forest-lake",
-      "label": "Forest Lake",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/mn/fridley",
-      "label": "Fridley",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/mn/waseca",
-      "label": "Waseca",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/mo/monett",
-      "label": "Monett",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ms/canton",
-      "label": "Canton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ms/d-iberville",
-      "label": "D'Iberville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ms/forest",
-      "label": "Forest",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ms/tupelo",
-      "label": "Tupelo",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/mt/kalispell",
-      "label": "Kalispell",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nc/marion",
-      "label": "Marion",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nc/morganton",
-      "label": "Morganton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nc/newell",
-      "label": "Newell",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ne/elkhorn",
-      "label": "Elkhorn",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nh/londonderry",
-      "label": "Londonderry",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nj/alpine",
-      "label": "Alpine",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nj/east-orange",
-      "label": "East Orange",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nj/flemington",
-      "label": "Flemington",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nj/little-falls",
-      "label": "Little Falls",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nj/rockleigh",
-      "label": "Rockleigh",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nj/saddle-brook",
-      "label": "Saddle Brook",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nm/holloman-air-force-base",
-      "label": "Holloman Air Force Base",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nm/kirtland",
-      "label": "Kirtland",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nm/los-lunas",
-      "label": "Los Lunas",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nv/fallon",
-      "label": "Fallon",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/amsterdam",
-      "label": "Amsterdam",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/flushing",
-      "label": "Flushing",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/hamlin",
-      "label": "Hamlin",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/hempstead",
-      "label": "Hempstead",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/holtsville",
-      "label": "Holtsville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/jackson-heights",
-      "label": "Jackson Heights",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/ogdensburg",
-      "label": "Ogdensburg",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/pelham",
-      "label": "Pelham",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/tuckahoe",
-      "label": "Tuckahoe",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/oh/alexandria",
-      "label": "Alexandria",
-      "count": 1
-    },
-    {
       "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/oh/delaware",
       "label": "Delaware",
       "count": 1
@@ -4476,6 +3561,312 @@
       "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/coraopolis",
       "label": "Coraopolis",
       "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ct/easton",
+      "label": "Easton",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ct/trumbull",
+      "label": "Trumbull",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/hallandale-beach",
+      "label": "Hallandale Beach",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ky/canada",
+      "label": "Canada",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ky/dayton",
+      "label": "Dayton",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/md/brentwood",
+      "label": "Brentwood",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mn/red-wing",
+      "label": "Red Wing",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/haledon",
+      "label": "Haledon",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/mill-neck",
+      "label": "Mill Neck",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/feasterville-trevose",
+      "label": "Feasterville-Trevose",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/greensburg",
+      "label": "Greensburg",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/murrysville",
+      "label": "Murrysville",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/radnor",
+      "label": "Radnor",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/fl/boca-raton",
+      "label": "Boca Raton",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/mi/battle-creek",
+      "label": "Battle Creek",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/pa/warrendale",
+      "label": "Warrendale",
+      "count": 2,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/al/mobile",
+      "label": "Mobile",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/al/new-market",
+      "label": "New Market",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/co/frederick",
+      "label": "Frederick",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ct/chester",
+      "label": "Chester",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ct/monroe",
+      "label": "Monroe",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ct/woodbridge",
+      "label": "Woodbridge",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/fl/palm-shores",
+      "label": "Palm Shores",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/id/rupert",
+      "label": "Rupert",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/il/glenview",
+      "label": "Glenview",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/il/la-grange-park",
+      "label": "La Grange Park",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/il/mount-carmel",
+      "label": "Mount Carmel",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/il/warrenville",
+      "label": "Warrenville",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/in/new-albany",
+      "label": "New Albany",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/la/maringouin",
+      "label": "Maringouin",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/la/raceland",
+      "label": "Raceland",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ma/leominster",
+      "label": "Leominster",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ma/south-hadley",
+      "label": "South Hadley",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/md/jennings",
+      "label": "Jennings",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/me/kittery",
+      "label": "Kittery",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/mn/waseca",
+      "label": "Waseca",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/mo/monett",
+      "label": "Monett",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ms/d-iberville",
+      "label": "D'Iberville",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ms/forest",
+      "label": "Forest",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ms/tupelo",
+      "label": "Tupelo",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nc/newell",
+      "label": "Newell",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nj/alpine",
+      "label": "Alpine",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nj/flemington",
+      "label": "Flemington",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nj/little-falls",
+      "label": "Little Falls",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nj/saddle-brook",
+      "label": "Saddle Brook",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/flushing",
+      "label": "Flushing",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/hamlin",
+      "label": "Hamlin",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/hempstead",
+      "label": "Hempstead",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/pelham",
+      "label": "Pelham",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/tuckahoe",
+      "label": "Tuckahoe",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/oh/alexandria",
+      "label": "Alexandria",
+      "count": 1,
       "deferred_once": true
     }
   ],
