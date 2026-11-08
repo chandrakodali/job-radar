@@ -320,6 +320,10 @@ def test_workable_list(monkeypatch):
          "locations": [{"city": "Austin", "region": "Texas", "country": "United States", "countryCode": "US", "hidden": False}],
          "published": "2026-11-06T00:00:00.000Z", "workplace": "on_site"}]}
     monkeypatch.setattr(ATS, "post_json", lambda url, payload: page)
+
+    def no_widget(url, params=None):
+        raise ATS.FetchError("HTTP 404", 404)
+    monkeypatch.setattr(ATS, "get_json", no_widget)
     j = ATS.workable_list(Board("workable", "acme", "Acme"))[0]
     assert j.url == "https://apply.workable.com/acme/j/ABC123/" and j.countries == ["US"] and j.location.startswith("Austin")
     monkeypatch.setattr(ATS, "get_json", lambda url, params=None: {"description": "<p>x</p>", "requirements": "<p>2 years of experience</p>"})
@@ -367,3 +371,13 @@ def test_workday_site_host(monkeypatch):
     j = ATS.workday_list(Board("workday", "@microchiphr|wd5|External", "Microchip"))[0]
     assert calls[0] == "https://wd5.myworkdaysite.com/wday/cxs/microchiphr/External/jobs"
     assert j.url == "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ/Engineer-I_R1"
+
+
+def test_workable_widget_feed(monkeypatch):
+    data = {"name": "Acme", "jobs": [{"title": "Cloud Engineer", "shortcode": "XYZ9", "telecommuting": True,
+             "published_on": "2026-11-06", "city": "Denver", "state": "Colorado", "country": "United States",
+             "locations": [{"country": "United States", "countryCode": "US", "city": "Denver", "region": "Colorado", "hidden": False}]}]}
+    monkeypatch.setattr(ATS, "get_json", lambda url, params=None: data)
+    j = ATS.workable_list(Board("workable", "acme", "Acme"))[0]
+    assert j.job_id == "XYZ9" and j.workplace == "remote" and j.countries == ["US"]
+    assert j.location == "Denver, Colorado, United States" and j.posted_at.date().isoformat() == "2026-11-06"

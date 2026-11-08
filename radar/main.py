@@ -33,10 +33,11 @@ from .store import (ROOT, append_matches, load_boards, load_state, now_utc, prun
 log = logging.getLogger("radar")
 
 LIST_CONCURRENCY = {"greenhouse": 8, "lever": 6, "ashby": 6, "smartrecruiters": 4, "workday": 10,
-                    "oracle": 8, "workable": 4, "rippling": 6, "bamboohr": 6, "recruitee": 4}
+                    "oracle": 8, "workable": 2, "rippling": 6, "bamboohr": 6, "recruitee": 4}
 DETAIL_CONCURRENCY = {"greenhouse": 8, "smartrecruiters": 4, "workday": 8, "oracle": 6, "workable": 4,
                       "rippling": 6, "bamboohr": 6}
 TIME_BUDGET_SECONDS = 17 * 60
+THROTTLE_LIMIT = 6
 REPORT_URL = "https://github.com/chandrakodali/job-radar/blob/main/REPORT.md"
 
 
@@ -140,10 +141,16 @@ def run(args) -> int:
     errors = Counter()
     deadline = t0 + TIME_BUDGET_SECONDS
 
+    throttled = Counter()  # 429s per ATS this run; past the limit we stop asking that ATS
+
     def fetch_board(b: Board):
         if time.monotonic() > deadline:
             return b, None, "skipped (time budget)"
+        if throttled[b.ats] >= THROTTLE_LIMIT:
+            return b, None, "skipped (rate limited)"
         with sems[b.ats]:
+            if throttled[b.ats] >= THROTTLE_LIMIT:
+                return b, None, "skipped (rate limited)"
             try:
                 if b.ats == "workday":
                     jobs = ATS.workday_list(b, max_pages=int(wd_cfg.get("max_pages", 5)))
@@ -151,6 +158,9 @@ def run(args) -> int:
                     jobs = ATS.LISTERS[b.ats](b)
                 return b, jobs, None
             except FetchError as e:
+                if e.status == 429:
+                    throttled[b.ats] += 1
+                    return b, None, "skipped (rate limited)"
                 return b, None, e
             except Exception as e:  # never let one odd board stop the run
                 return b, None, FetchError(f"{type(e).__name__}: {e}"[:80])
@@ -171,6 +181,8 @@ def run(args) -> int:
                 if isinstance(err, FetchError):
                     record_failure(state, b, err, today)
                     errors[b.ats] += 1
+                elif "rate limited" in err:
+                    stats["skipped_throttled"] += 1
                 else:
                     stats["skipped_time"] += 1
                 continue
@@ -308,7 +320,8 @@ def run(args) -> int:
         f"Jobs scanned: {stats['jobs_scanned']}. New matches: {len(new_rows)} "
         f"(alert {stats['status_alert']}, quiet {stats['status_quiet']}, blocked {stats['status_blocked']}). "
         f"Alerts sent: {notifier.sent}. Details failed: {stats['detail_failed']}. Pruned: {pruned}. "
-        f"Skipped for time: {stats['skipped_time']}."
+        f"Skipped for time: {stats['skipped_time']}. Skipped (rate limited): {stats['skipped_throttled']}"
+        + (f" {dict(throttled)}" if throttled else "") + "."
     )
     log.info(summary)
     step_summary = os.environ.get("GITHUB_STEP_SUMMARY")

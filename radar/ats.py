@@ -384,7 +384,38 @@ def oracle_detail(job: Job) -> None:
 
 # ---------------------------------------------------------------- Workable
 
+def _workable_job(b: Board, j: dict, locs: list, published) -> Job:
+    sc = str(j.get("shortcode") or "")
+    text = "; ".join(", ".join(x for x in [l.get("city"), l.get("region") or l.get("state"), l.get("country")] if x)
+                     for l in locs)
+    wp = (j.get("workplace") or "").lower().replace("_", "").replace("-", "")
+    remote = j.get("remote") or j.get("telecommuting")
+    return Job(
+        ats="workable", board=b.board, job_id=sc, company=b.company or b.board,
+        title=(j.get("title") or "").strip(), location=text,
+        url=f"https://apply.workable.com/{b.board}/j/{sc}/",
+        posted_at=parse_iso(published),
+        workplace={"remote": "remote", "hybrid": "hybrid", "onsite": "onsite"}.get(wp, "remote" if remote else ""),
+        countries=[l.get("countryCode") or l.get("country") for l in locs if l.get("countryCode") or l.get("country")],
+        needs_detail=True, detail_ref=f"https://apply.workable.com/api/v2/accounts/{b.board}/jobs/{sc}",
+    )
+
+
 def workable_list(b: Board, max_pages: int = 3) -> list[Job]:
+    # The embed-widget feed returns every job in one GET; the v3 search API pages and rate-limits hard.
+    try:
+        data = get_json(f"https://apply.workable.com/api/v1/widget/accounts/{b.board}")
+        jobs = []
+        for j in data.get("jobs") or []:
+            if not j.get("shortcode"):
+                continue
+            locs = [l for l in (j.get("locations") or []) if not l.get("hidden")] or \
+                   [{"city": j.get("city"), "region": j.get("state"), "country": j.get("country")}]
+            jobs.append(_workable_job(b, j, locs, j.get("published_on") or j.get("created_at")))
+        return jobs
+    except FetchError as e:
+        if e.status != 404:
+            raise
     url = f"https://apply.workable.com/api/v3/accounts/{b.board}/jobs"
     payload: dict = {"query": "", "location": [], "department": [], "worktype": [], "remote": []}
     jobs, seen = [], set()
@@ -398,17 +429,7 @@ def workable_list(b: Board, max_pages: int = 3) -> list[Job]:
             seen.add(sc)
             fresh += 1
             locs = [l for l in (j.get("locations") or []) if not l.get("hidden")] or ([j["location"]] if j.get("location") else [])
-            text = "; ".join(", ".join(x for x in [l.get("city"), l.get("region"), l.get("country")] if x) for l in locs)
-            wp = (j.get("workplace") or "").lower().replace("_", "").replace("-", "")
-            jobs.append(Job(
-                ats="workable", board=b.board, job_id=sc, company=b.company or b.board,
-                title=(j.get("title") or "").strip(), location=text,
-                url=f"https://apply.workable.com/{b.board}/j/{sc}/",
-                posted_at=parse_iso(j.get("published")),
-                workplace={"remote": "remote", "hybrid": "hybrid", "onsite": "onsite"}.get(wp, "remote" if j.get("remote") else ""),
-                countries=[l.get("countryCode") or l.get("country") for l in locs if l.get("countryCode") or l.get("country")],
-                needs_detail=True, detail_ref=f"https://apply.workable.com/api/v2/accounts/{b.board}/jobs/{sc}",
-            ))
+            jobs.append(_workable_job(b, j, locs, j.get("published")))
         token = data.get("nextPage")
         if not token or not fresh:
             break

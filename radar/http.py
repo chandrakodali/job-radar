@@ -50,6 +50,8 @@ class FetchError(Exception):
 def get_json(url: str, params: dict | None = None):
     try:
         r = session().get(url, params=params, timeout=TIMEOUT)
+    except requests.exceptions.RetryError as e:
+        raise FetchError("rate limited (retries exhausted)", 429) from e
     except requests.RequestException as e:
         raise FetchError(f"network error: {type(e).__name__}") from e
     if r.status_code != 200:
@@ -63,6 +65,8 @@ def get_json(url: str, params: dict | None = None):
 def post_json(url: str, payload: dict):
     try:
         r = session().post(url, json=payload, timeout=TIMEOUT)
+    except requests.exceptions.RetryError as e:
+        raise FetchError("rate limited (retries exhausted)", 429) from e
     except requests.RequestException as e:
         raise FetchError(f"network error: {type(e).__name__}") from e
     if r.status_code != 200:
