@@ -1,0 +1,41 @@
+name: probe
+on:
+  workflow_dispatch:
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe more ATS feeds
+        shell: python
+        run: |
+          import json, urllib.request, urllib.error
+          def call(url, data=None, method=None):
+              h={"User-Agent":"job-radar/1.0 (+https://github.com/chandrakodali/job-radar)","Accept":"application/json, text/xml, */*","Content-Type":"application/json"}
+              req = urllib.request.Request(url, data=json.dumps(data).encode() if data is not None else None, headers=h, method=method)
+              try:
+                  with urllib.request.urlopen(req, timeout=30) as r: return r.status, r.headers.get('content-type',''), r.read()
+              except urllib.error.HTTPError as e: return e.code, e.headers.get('content-type',''), e.read()
+              except Exception as e: return 0, '', repr(e).encode()
+          tests = [
+            ("oracle", "https://eedu.fa.em3.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1003,limit=5,sortBy=POSTING_DATES_DESC", None),
+            ("oracle2", "https://ibqbjb.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs;siteNumber=Honeywell,limit=3,sortBy=POSTING_DATES_DESC", None),
+            ("workable v1", "https://apply.workable.com/api/v1/widget/accounts/tickpick", None),
+            ("workable v3", "https://apply.workable.com/api/v3/accounts/genetec-inc/jobs", {"query":"","location":[],"department":[],"worktype":[],"remote":[]}),
+            ("rippling a", "https://api.rippling.com/platform/api/ats/v1/board/flexai/jobs", None),
+            ("rippling b", "https://ats.rippling.com/api/v2/board/flexai/jobs", None),
+            ("bamboo", "https://asuresoftware.bamboohr.com/careers/list", None),
+            ("workday site", "https://wd5.myworkdaysite.com/wday/cxs/microchiphr/External/jobs", {"appliedFacets":{},"limit":3,"offset":0,"searchText":""}),
+            ("eightfold", "https://qualcomm.eightfold.ai/api/apply/v2/jobs?domain=qualcomm.com&num=3&sort_by=timestamp", None),
+            ("jazz feed", "https://lamons.applytojob.com/apply/jobs/feed", None),
+            ("jazz list", "https://lamons.applytojob.com/apply", None),
+            ("jobvite", "https://jobs.jobvite.com/nutanix/jobs", None),
+            ("breezy", "https://gabletek.breezy.hr/json", None),
+            ("recruitee", "https://bunq.recruitee.com/api/offers/", None),
+            ("pinpoint", "https://lumin.pinpointhq.com/postings.json", None),
+            ("personio", "https://personio.jobs.personio.de/xml", None),
+            ("icims", "https://careers-markon.icims.com/jobs/search?pr=0&in_iframe=1", None),
+          ]
+          for name, url, data in tests:
+              s, ct, b = call(url, data, "POST" if data is not None else None)
+              print("=====", name, s, ct[:40], len(b))
+              print(b[:700].decode('utf-8','replace').replace('\n',' '))
