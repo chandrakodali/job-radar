@@ -2703,9 +2703,15 @@
   "workday:@chewy|wd5|External": "2026-11-08",
   "workday:@devonenergy|wd5|Careers": "2026-11-08",
   "workday:@gflenv|wd3|Careers": "2026-11-08",
+  "workday:@guidewire|wd5|external": "2026-11-08",
+  "workday:@hcahealthcare|wd3|hcacareers": "2026-11-08",
+  "workday:@imeg|wd1|Imeg_Careers": "2026-11-08",
+  "workday:@mdlz|wd3|External": "2026-11-08",
   "workday:@microchiphr|wd5|External": "2026-11-08",
   "workday:@oatey|wd5|Oatey_External_": "2026-11-08",
   "workday:@rlicorp|wd1|RLI_Corp_Careers": "2026-11-08",
+  "workday:@rrts|wd1|careers": "2026-11-08",
+  "workday:@snapchat|wd1|snap": "2026-11-08",
   "workday:@sysco|wd5|syscocareers": "2026-11-08",
   "workday:@upenn|wd1|Wharton": "2026-11-08",
   "workday:@vbgov|wd5|City_Of_Virginia_Beach_Careers": "2026-11-08",
@@ -2931,6 +2937,7 @@
   "workday:carmax|wd1|External": "2026-11-08",
   "workday:carters|wd1|CartersCareers": "2026-11-08",
   "workday:cat|wd5|CaterpillarCareers": "2026-11-07",
+  "workday:cat|wd5|caterpillarcareers": "2026-11-08",
   "workday:cat|wd5|solarturbines": "2026-11-08",
   "workday:cboe|wd1|External_Career_CBOE": "2026-11-08",
   "workday:cbrands|wd5|CBI_External_Careers": "2026-11-08",
@@ -4067,8 +4074,9 @@
    "since": "2026-11-07"
   },
   "greenhouse:focusfinancialpartners": {
+   "disabled_until": "2026-11-15",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-08"
   },
   "greenhouse:forerunner": {
@@ -4453,6 +4461,11 @@
    "err": "HTTP 403",
    "n": 3,
    "since": "2026-11-07"
+  },
+  "workday:blackstone|wd1|Blackstone_Campus_Careers": {
+   "err": "HTTP 401",
+   "n": 1,
+   "since": "2026-11-08"
   },
   "workday:cff|wd1|explore-career-opportunities": {
    "disabled_until": "2026-11-15",
@@ -5080,6 +5093,7 @@
   "greenhouse:point72:8919989002": "2026-11-07",
   "greenhouse:quberesearchandtechnologies:8902671002": "2026-11-07",
   "greenhouse:quince:5473801008": "2026-11-07",
+  "greenhouse:rackner:4752561005": "2026-11-08",
   "greenhouse:reddit:8337444": "2026-11-07",
   "greenhouse:skildai-careers:5464102008": "2026-11-07",
   "greenhouse:skildai-careers:5470610008": "2026-11-07",
@@ -5123,7 +5137,10 @@
   "oracle:edel.fa.us2.oraclecloud.com|CX_2001:21683": "2026-11-08",
   "oracle:edel.fa.us2.oraclecloud.com|CX_2001:21684": "2026-11-08",
   "oracle:edel.fa.us2.oraclecloud.com|CX_2001:21761": "2026-11-08",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:346427": "2026-11-08",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:346429": "2026-11-08",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:349185": "2026-11-08",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:349186": "2026-11-08",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:349447": "2026-11-08",
   "oracle:eexs.fa.us2.oraclecloud.com|GreenwoodVillageSouth:41612": "2026-11-08",
   "oracle:eexs.fa.us2.oraclecloud.com|GreenwoodVillageSouth:41613": "2026-11-08",
@@ -5333,6 +5350,7 @@
   "workday:ntrs|wd1|northerntrust:R162679": "2026-11-08",
   "workday:ntrs|wd1|northerntrust:R162714": "2026-11-08",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2014178": "2026-11-07",
+  "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2025037": "2026-11-08",
   "workday:oregon|wd5|sor_external_career_site:Permanent": "2026-11-08",
   "workday:prologis|wd5|Prologis_External_Careers:R6888": "2026-11-07",
   "workday:recar|wd108|SLATEcareers:JR101561": "2026-11-08",

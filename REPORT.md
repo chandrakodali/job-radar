@@ -2,20 +2,21 @@
 
 Watching **4,399 company job boards** every 30 minutes for entry-friendly DevOps, SRE, cloud, platform and infrastructure roles in the US.
 
-Last new match: **Sun Nov 08, 02:53 AM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
+Last new match: **Sun Nov 08, 02:24 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
 
 ## Posted in the last 24 hours (3)
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
-| 75 | [Founding Engineer, Infrastructure](https://jobs.ashbyhq.com/Clera/d7270fb0-ae7d-4c92-bd1a-9a1000c0b800) | Clera | San Francisco (onsite) | Nov 07 | sponsors visas |
-| 55 | [Platform Engineer (Kubernetes)](https://jobs.ashbyhq.com/Clera/00983741-6f9e-4b8d-80c9-8252bc481d10) | Clera | San Francisco (onsite) | Nov 07 | 5+ yrs exp; sponsors visas |
+| 55 | [Support Engineer 1](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346427) | Oracle | United States | Nov 08 | entry-level title |
+| 55 | [Support Engineer 1](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346429) | Oracle | United States | Nov 08 | entry-level title; repost |
 | 42 | [Support Engineer, PAYGO](https://jobs.ashbyhq.com/exa/f4dd7ae8-cf72-4634-b708-742601b9061c) | Exa | Remote (remote) | Nov 07 | location unclear |
 
-## Found this week, posted earlier (299)
+## Found this week, posted earlier (301)
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
+| 75 | [Founding Engineer, Infrastructure](https://jobs.ashbyhq.com/Clera/d7270fb0-ae7d-4c92-bd1a-9a1000c0b800) | Clera | San Francisco (onsite) | Nov 07 | sponsors visas |
 | 73 | [IT Infrastructure Specialist](https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---TN---New-Johnsonville/IT-Infrastructure-Specialist_JR15258) | Chemours | US - TN - New Johnsonville | Nov 05 | 2+ yrs exp; E-Verify |
 | 70 | [Software Engineer, Systems and Infrastructure](https://jobs.smartrecruiters.com/LinkedIn3/744000158161003-software-engineer-systems-and-infrastructure-) | LinkedIn | Bellevue, WA, United States (hybrid) | Oct 27 | 2+ yrs exp; E-Verify |
 | 68 | [DevOps Engineer I](https://jobs.smartrecruiters.com/SpringVentureGroup1/744000159713509-devops-engineer-i) | Spring Venture Group | Kansas City, MO, United States | Nov 04 | entry-level title; 2+ yrs exp; no future H-1B sponsorship |
@@ -67,6 +68,7 @@ Last new match: **Sun Nov 08, 02:53 AM CST**. Score is 0–100 (higher = better 
 | 55 | [Site Reliability Engineer II](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4268) | Akamai Technologies | United States (remote) | Nov 02 | 2+ yrs exp |
 | 55 | [Infrastructure Engineer, Enterprise AI](https://wonder.wd1.myworkdayjobs.com/WG/job/Remote-USA/Infrastructure-Engineer--Enterprise-AI_JR101458-1) | Wonder | Remote, USA (remote) | Nov 05 | E-Verify; no future H-1B sponsorship |
 | 55 | [Software Engineer, GPU Infrastructure](https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4) | Cohere | Seattle; Canada; New York; California (remote) | Nov 06 |  |
+| 55 | [Platform Engineer (Kubernetes)](https://jobs.ashbyhq.com/Clera/00983741-6f9e-4b8d-80c9-8252bc481d10) | Clera | San Francisco (onsite) | Nov 07 | 5+ yrs exp; sponsors visas |
 | 53 | [Dev Ops Engineer](https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Dev-Ops-Engineer_R0158768-1) | NCR Voyix | ATLANTA, GA, USA | Nov 01 |  |
 | 53 | [Consultant, Software Engineer - Platform Engineering](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---Platform-Engineering_100906) | Nationwide | Ohio - Columbus, Three Nationwide Plaza… | Nov 01 |  |
 | 53 | [Support Engineer I (NYC, Weekend Shift)](https://jobs.ashbyhq.com/replit/4e64e46f-f69d-4454-89b6-bd27302a464d) | Replit | NYC (SoHo) (hybrid) | Nov 02 | entry-level title |
@@ -164,10 +166,8 @@ Last new match: **Sun Nov 08, 02:53 AM CST**. Score is 0–100 (higher = better 
 | 43 | [Software Engineer: Infrastructure](https://jobs.ashbyhq.com/generalist/cfe9bb4b-a31c-4be7-b1c6-0d24bf0a1194) | Generalist | Boston (Somerville) (onsite) | Nov 04 | 5+ yrs exp |
 | 43 | [Embedded Linux Software Engineer](https://jobs.ashbyhq.com/AeroVect/49403b08-400b-43e7-91f8-709c965bda54) | AeroVect | Atlanta - Hybrid (hybrid) | Nov 05 | 3+ yrs exp |
 | 43 | [Cloud Engineer 808](https://job-boards.greenhouse.io/freedomconsulting/jobs/5286275007) | Freedom Technology Solutions … | Annapolis Junction, MD | Nov 05 | 6+ yrs exp; E-Verify |
-| 43 | [Design and Release Engineer-Soft Trim Components](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73087) | Ford Motor Company | Dearborn, MI, United States (hybrid) | Nov 05 | 3+ yrs exp |
-| 43 | [Production Engineer - 2nd Shift](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10418) | Standard Aero | San Antonio, TX, United States | Nov 05 |  |
 
-## Hidden from alerts: needs clearance or US citizenship (74 this week)
+## Hidden from alerts: needs clearance or US citizenship (76 this week)
 
 These mention a security clearance, US citizenship, ITAR or similar, which F-1/OPT holders can't meet. Listed so you can double-check.
 
@@ -199,7 +199,9 @@ These mention a security clearance, US citizenship, ITAR or similar, which F-1/O
 | 48 | [IT Operations Support I](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/IT-Operations-Support-I_R-098648-1) | Texas A&M University - Colleg… | College Station, TX | Nov 05 | likely H-1B cap-exempt (verify); needs: must be a United States citiz… |
 | 48 | [IT Operations Support I](https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/IT-Operations-Support-I_R-098648) | Texas A&M University System | College Station, TX | Nov 05 | likely H-1B cap-exempt (verify); needs: must be a United States citiz… |
 | 48 | [Data Center Technician II](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Data-Center-Technician-II_R0018309) | Astreya | Denver, CO | Nov 05 | 2+ yrs exp; needs: Must be a US Citizen |
+| 47 | [Field Systems Engineer — Military Health IT (DDIL)](https://job-boards.greenhouse.io/rackner/jobs/4752561005) | Rackner | Remote — United States (remote) | Nov 08 | needs: Security Clearance |
 | 45 | [1750 - Virtual Desktop Infrastructure Engineer](https://apply.workable.com/sigmadefense/j/7348F00696/) | Sigma Defense | Rome, New York, United States | Oct 26 | 4+ yrs exp; needs: security clearance |
+| 45 | [Cloud Adoption Engineer — Oracle Government, Defense & Intelligence](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349186) | Oracle | Reston, VA, United States; Washington, … | Nov 08 | needs: Must be a U.S. citizen |
 | 43 | [IT Operations Engineer](https://jobs.ashbyhq.com/applied/87e195d4-951b-4ed4-8b1d-f4b68ca11fc0) | Applied Intuition | Ann Arbor (onsite) | Nov 03 | needs: security clearance |
 | 43 | [Flight Test Lab Computing Support – Windows System Administrator (Ass…](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Flight-Test-Lab-Computing-Support---Windows-System-Administrator--Associate-or-Experienced-_JR2026528883-1) | The Boeing Company | USA - Seattle, WA (onsite) | Nov 04 | entry-level title; 4+ yrs exp; E-Verify; no future H-1B sponsorship; … |
 | 43 | [Flight Test Lab Computing Support – Windows System Administrator (Ass…](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Flight-Test-Lab-Computing-Support---Windows-System-Administrator--Associate-or-Experienced-_JR2026528883) | The Boeing Company | USA - Seattle, WA (onsite) | Nov 04 | entry-level title; 4+ yrs exp; E-Verify; no future H-1B sponsorship; … |
@@ -211,5 +213,3 @@ These mention a security clearance, US citizenship, ITAR or similar, which F-1/O
 | 38 | [IT Engineer](https://jobs.ashbyhq.com/saronic/b458ec5f-4fbd-4454-8fd3-0003ed87a913) | Saronic | Austin, TX (onsite) | Nov 02 | 4+ yrs exp; needs: security clearance |
 | 38 | [Multimedia Specialist - Network Technician](https://apply.workable.com/saalex/j/B7A2938B90/) | Saalex | Newport, Rhode Island, United States | Nov 03 | needs: Security Clearance |
 | 38 | [Data Platform Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4727077006?gh_jid=4727077006) | Accenture | Arlington, VA | Nov 04 | 3+ yrs exp; no future H-1B sponsorship; needs: secret clearance |
-| 38 | [Linux Systems Administrator](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2239) | Savannah River National Labor… | Aiken, SC, United States | Nov 04 | 4+ yrs exp; likely H-1B cap-exempt (verify); needs: security clearance |
-| 38 | [Systems Administrator](https://cni.wd503.myworkdayjobs.com/CNI/job/Aberdeen-MD/Systems-Administrator_R9701) | Chickasaw Nation Industries | Aberdeen, MD | Nov 04 | needs: requires U.S. Citizenship |
