@@ -18,36 +18,6 @@
   "core_remaining": 0,
   "pending": [
     {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/oh/delaware",
-      "label": "Delaware",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/oh/independence",
-      "label": "Independence",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/oh/newark",
-      "label": "Newark",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/oh/whitehall",
-      "label": "Whitehall",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ok/wanette",
-      "label": "Wanette",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/pa/baden",
-      "label": "Baden",
-      "count": 1
-    },
-    {
       "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/pa/bradford-woods",
       "label": "Bradford Woods",
       "count": 1
@@ -3866,6 +3836,30 @@
     {
       "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/oh/alexandria",
       "label": "Alexandria",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/oh/delaware",
+      "label": "Delaware",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/oh/newark",
+      "label": "Newark",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ok/wanette",
+      "label": "Wanette",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/pa/baden",
+      "label": "Baden",
       "count": 1,
       "deferred_once": true
     }
