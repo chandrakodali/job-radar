@@ -11,7 +11,7 @@ categories:
 states: []
 
 thresholds:
-  since_hours: 48
+  since_hours: 120  # Tallo shows jobs 2-4 days after posting, so 48h finds nothing
   alert_score: 45
 
 budgets:
