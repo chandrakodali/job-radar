@@ -25,8 +25,8 @@ jobs:
               print("=====", name, s, len(b))
               try: print(json.dumps(keys(json.loads(b)), indent=1)[:3500])
               except Exception: print(b[:500])
-          show("oracle list", "https://eedu.fa.em3.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1003,limit=2,sortBy=POSTING_DATES_DESC")
-          s, ct, b = call("https://eedu.fa.em3.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&finder=findReqs;siteNumber=CX_1003,limit=1,sortBy=POSTING_DATES_DESC")
+          pass  # show("oracle list", "https://eedu.fa.em3.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLocations&finder=findReqs;siteNumber=CX_1003,limit=2,sortBy=POSTING_DATES_DESC")
+          s, ct, b = call("https://eedu.fa.em3.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList&finder=findReqs;siteNumber=CX_1003,limit=1,sortBy=POSTING_DATES_DESC")
           rid = json.loads(b)["items"][0]["requisitionList"][0]["Id"]
           show("oracle detail", f'https://eedu.fa.em3.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitionDetails?expand=all&onlyData=true&finder=ById;Id=%22{rid}%22,siteNumber=CX_1003')
           s, ct, b = call("https://apply.workable.com/api/v3/accounts/genetec-inc/jobs", {"query":""}, "POST")
