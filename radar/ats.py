@@ -222,9 +222,20 @@ def _wd_parts(board: str) -> tuple[str, str, str]:
     return tenant, wd, site
 
 
+def _wd_hosts(board: str) -> tuple[str, str]:
+    """(API base, public job-page base). Boards starting with '@' use the myworkdaysite.com host."""
+    tenant, wd, site = _wd_parts(board)
+    if tenant.startswith("@"):
+        tenant = tenant[1:]
+        return (f"https://{wd}.myworkdaysite.com/wday/cxs/{tenant}/{site}",
+                f"https://{wd}.myworkdaysite.com/recruiting/{tenant}/{site}")
+    return (f"https://{tenant}.{wd}.myworkdayjobs.com/wday/cxs/{tenant}/{site}",
+            f"https://{tenant}.{wd}.myworkdayjobs.com/{site}")
+
+
 def workday_list(b: Board, max_pages: int = 5, max_age_days: int = 7) -> list[Job]:
     tenant, wd, site = _wd_parts(b.board)
-    base = f"https://{tenant}.{wd}.myworkdayjobs.com/wday/cxs/{tenant}/{site}"
+    base, public = _wd_hosts(b.board)
     now = datetime.now(timezone.utc)
     jobs = []
     seen_paths = set()
@@ -241,9 +252,9 @@ def workday_list(b: Board, max_pages: int = 5, max_age_days: int = 7) -> list[Jo
             job_id = bullets[0] if bullets else path.rsplit("/", 1)[-1]
             jobs.append(Job(
                 ats="workday", board=b.board, job_id=str(job_id),
-                company=b.company or tenant, title=(p.get("title") or "").strip(),
+                company=b.company or tenant.lstrip("@"), title=(p.get("title") or "").strip(),
                 location=p.get("locationsText") or "",
-                url=f"https://{tenant}.{wd}.myworkdayjobs.com/{site}{path}",
+                url=f"{public}{path}",
                 posted_at=(now - timedelta(days=days)) if days is not None else None,
                 workplace=workplace_from_text(p.get("locationsText") or ""),
                 needs_detail=True, detail_ref=f"{base}{path}",
@@ -314,3 +325,196 @@ def resolve_auto(slug: str) -> tuple[str, str] | None:
     except FetchError:
         pass
     return None
+
+
+# ---------------------------------------------------------------- Oracle Cloud (Oracle Recruiting Cloud)
+
+def _oracle_parts(board: str) -> tuple[str, str]:
+    host, site = board.split("|", 1)
+    return host, site
+
+
+def oracle_list(b: Board, max_pages: int = 4, max_age_days: int = 7) -> list[Job]:
+    host, site = _oracle_parts(b.board)
+    base = f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
+    now = datetime.now(timezone.utc)
+    jobs, seen = [], set()
+    for page in range(max_pages):
+        url = (f"{base}?onlyData=true&expand=requisitionList.secondaryLocations"
+               f"&finder=findReqs;siteNumber={site},limit=25,offset={page * 25},sortBy=POSTING_DATES_DESC")
+        data = get_json(url)
+        items = (data.get("items") or [{}])[0].get("requisitionList") or []
+        for r in items:
+            rid = str(r.get("Id") or "")
+            if not rid or rid in seen:
+                continue
+            seen.add(rid)
+            locs = [r.get("PrimaryLocation") or ""] + [s.get("Name") or "" for s in r.get("secondaryLocations") or []]
+            wp = (r.get("WorkplaceType") or "").lower().replace("-", "").replace(" ", "")
+            jobs.append(Job(
+                ats="oracle", board=b.board, job_id=rid, company=b.company or site,
+                title=(r.get("Title") or "").strip(), location="; ".join(l for l in locs if l),
+                url=f"https://{host}/hcmUI/CandidateExperience/en/sites/{site}/job/{rid}",
+                posted_at=parse_iso(r.get("PostedDate")),
+                workplace={"remote": "remote", "hybrid": "hybrid", "onsite": "onsite"}.get(wp, workplace_from_text(*locs)),
+                countries=[r["PrimaryLocationCountry"]] if r.get("PrimaryLocationCountry") else [],
+                needs_detail=True,
+                detail_ref=(f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitionDetails"
+                            f"?expand=all&onlyData=true&finder=ById;Id=%22{rid}%22,siteNumber={site}"),
+            ))
+        if len(items) < 25:
+            break
+        last = parse_iso(items[-1].get("PostedDate"))
+        if last and (now - last).days > max_age_days:
+            break
+    return jobs
+
+
+def oracle_detail(job: Job) -> None:
+    d = get_json(job.detail_ref)
+    item = (d.get("items") or [{}])[0]
+    parts = [item.get(k) for k in ("ExternalDescriptionStr", "ExternalResponsibilitiesStr", "ExternalQualificationsStr")]
+    job.description = "\n".join(html_to_text(p) for p in parts if p)
+    if item.get("PrimaryLocationCountry"):
+        job.countries = [item["PrimaryLocationCountry"]]
+    posted = parse_iso(item.get("ExternalPostedStartDate"))
+    if posted:
+        job.posted_at = posted
+
+
+# ---------------------------------------------------------------- Workable
+
+def workable_list(b: Board, max_pages: int = 3) -> list[Job]:
+    url = f"https://apply.workable.com/api/v3/accounts/{b.board}/jobs"
+    payload: dict = {"query": "", "location": [], "department": [], "worktype": [], "remote": []}
+    jobs, seen = [], set()
+    for _ in range(max_pages):
+        data = post_json(url, payload)
+        fresh = 0
+        for j in data.get("results") or []:
+            sc = str(j.get("shortcode") or "")
+            if not sc or sc in seen or j.get("isInternal"):
+                continue
+            seen.add(sc)
+            fresh += 1
+            locs = [l for l in (j.get("locations") or []) if not l.get("hidden")] or ([j["location"]] if j.get("location") else [])
+            text = "; ".join(", ".join(x for x in [l.get("city"), l.get("region"), l.get("country")] if x) for l in locs)
+            wp = (j.get("workplace") or "").lower().replace("_", "").replace("-", "")
+            jobs.append(Job(
+                ats="workable", board=b.board, job_id=sc, company=b.company or b.board,
+                title=(j.get("title") or "").strip(), location=text,
+                url=f"https://apply.workable.com/{b.board}/j/{sc}/",
+                posted_at=parse_iso(j.get("published")),
+                workplace={"remote": "remote", "hybrid": "hybrid", "onsite": "onsite"}.get(wp, "remote" if j.get("remote") else ""),
+                countries=[l.get("countryCode") or l.get("country") for l in locs if l.get("countryCode") or l.get("country")],
+                needs_detail=True, detail_ref=f"https://apply.workable.com/api/v2/accounts/{b.board}/jobs/{sc}",
+            ))
+        token = data.get("nextPage")
+        if not token or not fresh:
+            break
+        payload = {**payload, "token": token}
+    return jobs
+
+
+def workable_detail(job: Job) -> None:
+    d = get_json(job.detail_ref)
+    job.description = "\n".join(html_to_text(d.get(k)) for k in ("description", "requirements", "benefits") if d.get(k))
+
+
+# ---------------------------------------------------------------- Rippling
+
+def rippling_list(b: Board) -> list[Job]:
+    data = get_json(f"https://ats.rippling.com/api/v2/board/{b.board}/jobs")
+    items = data.get("items") if isinstance(data, dict) else data
+    jobs = []
+    for j in items or []:
+        jid = str(j.get("id") or j.get("uuid") or "")
+        if not jid:
+            continue
+        locs = j.get("locations") or []
+        text = "; ".join(l.get("name") or "" for l in locs if l.get("name"))
+        wps = {(l.get("workplaceType") or "").lower() for l in locs}
+        wp = "remote" if "remote" in wps else ("hybrid" if "hybrid" in wps else ("onsite" if "on_site" in wps else ""))
+        jobs.append(Job(
+            ats="rippling", board=b.board, job_id=jid, company=b.company or b.board,
+            title=(j.get("name") or "").strip(), location=text,
+            url=j.get("url") or f"https://ats.rippling.com/{b.board}/jobs/{jid}",
+            workplace=wp, countries=[l.get("countryCode") for l in locs if l.get("countryCode")],
+            needs_detail=True, detail_ref=f"https://ats.rippling.com/api/v2/board/{b.board}/jobs/{jid}",
+        ))
+    return jobs
+
+
+def rippling_detail(job: Job) -> None:
+    d = get_json(job.detail_ref)
+    desc = d.get("description") or {}
+    job.description = "\n".join(html_to_text(desc.get(k)) for k in ("role", "company") if desc.get(k))
+    created = parse_iso(d.get("createdOn"))
+    if created:
+        job.posted_at = created
+
+
+# ---------------------------------------------------------------- BambooHR
+
+def bamboohr_list(b: Board) -> list[Job]:
+    data = get_json(f"https://{b.board}.bamboohr.com/careers/list")
+    jobs = []
+    for j in data.get("result") or []:
+        jid = str(j.get("id") or "")
+        if not jid:
+            continue
+        ats_loc = j.get("atsLocation") or {}
+        loc = j.get("location") or {}
+        city = ats_loc.get("city") or loc.get("city")
+        state = ats_loc.get("state") or loc.get("state")
+        country = ats_loc.get("country")
+        text = ", ".join(x for x in [city, state, country] if x)
+        remote = bool(j.get("isRemote")) or str(j.get("locationType")) == "1" and not text
+        jobs.append(Job(
+            ats="bamboohr", board=b.board, job_id=jid, company=b.company or b.board,
+            title=(j.get("jobOpeningName") or "").strip(), location=text or ("Remote" if remote else ""),
+            url=f"https://{b.board}.bamboohr.com/careers/{jid}",
+            workplace="remote" if j.get("isRemote") else "",
+            countries=[country] if country else [],
+            needs_detail=True, detail_ref=f"https://{b.board}.bamboohr.com/careers/{jid}/detail",
+        ))
+    return jobs
+
+
+def bamboohr_detail(job: Job) -> None:
+    d = get_json(job.detail_ref)
+    o = (d.get("result") or {}).get("jobOpening") or {}
+    job.description = html_to_text(o.get("description"))
+    posted = parse_iso(o.get("datePosted"))
+    if posted:
+        job.posted_at = posted
+
+
+# ---------------------------------------------------------------- Recruitee
+
+def recruitee_list(b: Board) -> list[Job]:
+    data = get_json(f"https://{b.board}.recruitee.com/api/offers/")
+    jobs = []
+    for o in data.get("offers") or []:
+        if o.get("status") and o.get("status") != "published":
+            continue
+        locs = o.get("locations") or []
+        text = "; ".join(", ".join(x for x in [l.get("city"), l.get("state"), l.get("country")] if x) for l in locs) \
+            or o.get("location") or ""
+        created = str(o.get("published_at") or o.get("created_at") or "").replace(" UTC", "+00:00").replace(" ", "T", 1)
+        jobs.append(Job(
+            ats="recruitee", board=b.board, job_id=str(o.get("id")), company=b.company or b.board,
+            title=(o.get("title") or "").strip(), location=text,
+            url=o.get("careers_url") or f"https://{b.board}.recruitee.com/o/{o.get('slug')}",
+            posted_at=parse_iso(created),
+            workplace="remote" if o.get("remote") else ("hybrid" if o.get("hybrid") else ""),
+            countries=[l.get("country_code") or l.get("country") for l in locs if l.get("country_code") or l.get("country")],
+            description="\n".join(html_to_text(o.get(k)) for k in ("description", "requirements") if o.get(k)),
+        ))
+    return jobs
+
+
+LISTERS.update({"oracle": oracle_list, "workable": workable_list, "rippling": rippling_list,
+                "bamboohr": bamboohr_list, "recruitee": recruitee_list})
+DETAILERS.update({"oracle": oracle_detail, "workable": workable_detail, "rippling": rippling_detail,
+                  "bamboohr": bamboohr_detail})

@@ -296,3 +296,74 @@ def test_full_run(tmp_path, monkeypatch):
     M.main(["--dry-run"])
     st = json.loads((tmp_path / "state.json").read_text())
     assert st["fails"]["greenhouse:gone"].get("disabled_until")
+
+
+# ------------------------------------------------------------------ newer job systems (payload shapes from live APIs)
+
+def test_oracle_list_and_detail(monkeypatch):
+    listing = {"items": [{"requisitionList": [
+        {"Id": "202606590", "Title": "Cloud Engineer I", "PostedDate": "2026-11-07", "PrimaryLocation": "Chicago, IL, United States",
+         "PrimaryLocationCountry": "US", "WorkplaceType": "Hybrid", "secondaryLocations": []}]}]}
+    detail = {"items": [{"ExternalDescriptionStr": "<p>Build cloud</p>", "ExternalQualificationsStr": "<li>1+ years of experience</li>",
+                         "PrimaryLocationCountry": "US", "ExternalPostedStartDate": "2026-11-07T00:24:14+00:00"}]}
+    monkeypatch.setattr(ATS, "get_json", lambda url, params=None: detail if "Details" in url else listing)
+    j = ATS.oracle_list(Board("oracle", "eedu.fa.em3.oraclecloud.com|CX_1003", "Acme"))[0]
+    assert j.url == "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606590"
+    assert j.workplace == "hybrid" and j.countries == ["US"]
+    ATS.oracle_detail(j)
+    assert "1+ years of experience" in j.description and j.posted_at.hour == 0
+
+
+def test_workable_list(monkeypatch):
+    page = {"nextPage": None, "results": [
+        {"id": 1, "shortcode": "ABC123", "title": "DevOps Engineer", "remote": False, "isInternal": False,
+         "locations": [{"city": "Austin", "region": "Texas", "country": "United States", "countryCode": "US", "hidden": False}],
+         "published": "2026-11-06T00:00:00.000Z", "workplace": "on_site"}]}
+    monkeypatch.setattr(ATS, "post_json", lambda url, payload: page)
+    j = ATS.workable_list(Board("workable", "acme", "Acme"))[0]
+    assert j.url == "https://apply.workable.com/acme/j/ABC123/" and j.countries == ["US"] and j.location.startswith("Austin")
+    monkeypatch.setattr(ATS, "get_json", lambda url, params=None: {"description": "<p>x</p>", "requirements": "<p>2 years of experience</p>"})
+    ATS.workable_detail(j)
+    assert "2 years of experience" in j.description
+
+
+def test_rippling_list_and_detail(monkeypatch):
+    listing = {"items": [{"id": "u1", "name": "Site Reliability Engineer", "url": "https://ats.rippling.com/acme/jobs/u1",
+                          "locations": [{"name": "Santa Clara, CA", "countryCode": "US", "workplaceType": "ON_SITE"}]}]}
+    detail = {"description": {"role": "<p>3+ years of experience</p>"}, "createdOn": "2026-11-05T18:05:44.354000-07:00"}
+    monkeypatch.setattr(ATS, "get_json", lambda url, params=None: detail if url.endswith("/u1") else listing)
+    j = ATS.rippling_list(Board("rippling", "acme", "Acme"))[0]
+    assert j.workplace == "onsite" and j.posted_at is None
+    ATS.rippling_detail(j)
+    assert j.posted_at is not None and "3+ years" in j.description
+
+
+def test_bamboohr_list_and_detail(monkeypatch):
+    listing = {"result": [{"id": "774", "jobOpeningName": "Systems Administrator", "location": {"city": None, "state": None},
+                           "atsLocation": {"country": "United States", "state": "California", "city": "San Jose"},
+                           "isRemote": None, "locationType": "1"}]}
+    detail = {"result": {"jobOpening": {"description": "<p>0-2 years of experience</p>", "datePosted": "2026-11-06"}}}
+    monkeypatch.setattr(ATS, "get_json", lambda url, params=None: detail if url.endswith("/detail") else listing)
+    j = ATS.bamboohr_list(Board("bamboohr", "acme", "Acme"))[0]
+    assert j.location == "San Jose, California, United States" and j.url == "https://acme.bamboohr.com/careers/774"
+    ATS.bamboohr_detail(j)
+    assert j.posted_at.date().isoformat() == "2026-11-06"
+
+
+def test_recruitee_list(monkeypatch):
+    data = {"offers": [{"id": 9, "slug": "devops", "title": "DevOps Engineer", "status": "published",
+                        "created_at": "2026-10-30 15:29:49 UTC", "careers_url": "https://acme.recruitee.com/o/devops",
+                        "locations": [{"city": "Boston", "state": "Massachusetts", "country": "United States", "country_code": "US"}],
+                        "description": "<p>Kubernetes</p>", "remote": False}]}
+    monkeypatch.setattr(ATS, "get_json", lambda url, params=None: data)
+    j = ATS.recruitee_list(Board("recruitee", "acme", "Acme"))[0]
+    assert j.posted_at == datetime(2026, 10, 30, 15, 29, 49, tzinfo=timezone.utc) and j.countries == ["US"]
+
+
+def test_workday_site_host(monkeypatch):
+    calls = []
+    monkeypatch.setattr(ATS, "post_json", lambda url, p: calls.append(url) or {"jobPostings": [
+        {"title": "Engineer I", "externalPath": "/job/AZ/Engineer-I_R1", "postedOn": "Posted Today", "bulletFields": ["R1"]}]})
+    j = ATS.workday_list(Board("workday", "@microchiphr|wd5|External", "Microchip"))[0]
+    assert calls[0] == "https://wd5.myworkdaysite.com/wday/cxs/microchiphr/External/jobs"
+    assert j.url == "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ/Engineer-I_R1"

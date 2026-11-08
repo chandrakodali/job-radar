@@ -30,6 +30,12 @@ PATTERNS = [
     ("ashby", re.compile(r"https?://jobs\.ashbyhq\.com/([^/?#]+)")),
     ("workday", re.compile(r"https?://([a-z0-9-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[a-z]{2}-[A-Z]{2}/)?([A-Za-z0-9_-]+)")),
     ("smartrecruiters", re.compile(r"https?://(?:jobs|careers)\.smartrecruiters\.com/([A-Za-z0-9_-]+)")),
+    ("workday_site", re.compile(r"https?://(wd\d+)\.myworkdaysite\.com/(?:[a-z]{2}-[A-Z]{2}/)?recruiting/([A-Za-z0-9_-]+)/([A-Za-z0-9_-]+)")),
+    ("oracle", re.compile(r"https?://([a-z0-9.-]+\.oraclecloud\.com)/hcmUI/CandidateExperience/[a-zA-Z-]+/sites/([A-Za-z0-9_-]+)")),
+    ("workable", re.compile(r"https?://apply\.workable\.com/([A-Za-z0-9_-]+)")),
+    ("rippling", re.compile(r"https?://ats\.rippling\.com/([A-Za-z0-9_-]+)")),
+    ("bamboohr", re.compile(r"https?://([a-z0-9-]+)\.bamboohr\.com/(?:careers|jobs)")),
+    ("recruitee", re.compile(r"https?://([a-z0-9-]+)\.recruitee\.com/")),
 ]
 BAD_SLUGS = {"embed", "job_app", "jobs", "search", "apply", "en-us", "en"}
 BAD_WORKDAY_SITE = re.compile(r"(?i)private|confidential|internal|executive|employee|referral|^job$|^jobs$")
@@ -54,6 +60,16 @@ def board_from_url(url: str) -> tuple[str, str] | None:
             if BAD_WORKDAY_SITE.search(site) or site.lower() in BAD_SLUGS:
                 return None
             return ats, f"{tenant}|{wd}|{site}"
+        if ats == "workday_site":
+            wd, tenant, site = m.group(1).lower(), m.group(2).lower(), m.group(3)
+            if BAD_WORKDAY_SITE.search(site):
+                return None
+            return "workday", f"@{tenant}|{wd}|{site}"
+        if ats == "oracle":
+            return ats, f"{m.group(1).lower()}|{m.group(2)}"
+        if ats in ("workable", "rippling", "bamboohr", "recruitee"):
+            slug = m.group(1).lower()
+            return (ats, slug) if slug not in BAD_SLUGS and slug not in {"api", "www", "app"} else None
         if ats == "smartrecruiters":
             slug = m.group(1).lower()
             return (ats, slug) if slug not in BAD_SLUGS else None

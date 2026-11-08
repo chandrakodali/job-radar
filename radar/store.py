@@ -25,7 +25,8 @@ NOT_CAP_EXEMPT_RE = re.compile(
     r"college board|university health network",
     re.I,
 )
-VALID_ATS = {"greenhouse", "lever", "ashby", "smartrecruiters", "workday", "auto"}
+VALID_ATS = {"greenhouse", "lever", "ashby", "smartrecruiters", "workday", "oracle", "workable", "rippling",
+             "bamboohr", "recruitee", "auto"}
 
 
 def _truthy(v) -> bool:

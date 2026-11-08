@@ -31,8 +31,10 @@ from .store import (ROOT, append_matches, load_boards, load_state, now_utc, prun
 
 log = logging.getLogger("radar")
 
-LIST_CONCURRENCY = {"greenhouse": 8, "lever": 6, "ashby": 6, "smartrecruiters": 4, "workday": 10}
-DETAIL_CONCURRENCY = {"greenhouse": 8, "smartrecruiters": 4, "workday": 8}
+LIST_CONCURRENCY = {"greenhouse": 8, "lever": 6, "ashby": 6, "smartrecruiters": 4, "workday": 10,
+                    "oracle": 8, "workable": 4, "rippling": 6, "bamboohr": 6, "recruitee": 4}
+DETAIL_CONCURRENCY = {"greenhouse": 8, "smartrecruiters": 4, "workday": 8, "oracle": 6, "workable": 4,
+                      "rippling": 6, "bamboohr": 6}
 TIME_BUDGET_SECONDS = 17 * 60
 REPORT_URL = "https://github.com/chandrakodali/job-radar/blob/main/REPORT.md"
 

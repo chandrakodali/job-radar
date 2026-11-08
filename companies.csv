@@ -50,6 +50,7 @@ ashby,archy,Archy
 ashby,ariesglobal,Aries Global
 ashby,armadin,Armadin
 ashby,arq,ARQ
+ashby,artificialanalysis,Artificial Analysis
 ashby,artificial.agency,Artificial.Agency
 ashby,ashby,Ashby
 ashby,assorthealth,Assort Health
@@ -686,7 +687,6 @@ ashby,valency,Valency
 ashby,valinor,Valinor
 ashby,Valon,Valon
 ashby,valstad,Valstad
-ashby,vanta,Vanta
 ashby,vantage,Vantage
 ashby,varick-agents,Varick Agents
 ashby,veeda-ai,Veeda AI
@@ -714,7 +714,6 @@ ashby,whoop,Whoop
 ashby,windborne-systems,WindBorne Systems
 ashby,within.ai,Within
 ashby,worldengine,WorldEngine AI
-ashby,worldly,Worldly
 ashby,xapien,Xapien
 ashby,xero,Xero
 ashby,xterra ai,Xterra AI
@@ -727,6 +726,52 @@ ashby,zilch,Zilch
 ashby,zip,Zip
 ashby,zuru,Zuru
 ashby,zus-health,Zus Health
+bamboohr,adidev,Adidev Technologies Inc
+bamboohr,alkira,Alkira
+bamboohr,alleghenycounty,Allegheny County
+bamboohr,apollomce,Apollo Mission Critical Engineering
+bamboohr,armstrongfluidtechnology,Armstrong Fluid Technology
+bamboohr,asuresoftware,Asure
+bamboohr,onearc,"BAE Systems OneArc USA, Inc"
+bamboohr,berkshiregrey,Berkshire Grey
+bamboohr,binsentry,BinSentry
+bamboohr,bga,BowerGroupAsia
+bamboohr,bravebison,BraveBison
+bamboohr,calpionplutus,Calpion/Plutus Health
+bamboohr,conetec,ConeTec Group
+bamboohr,contentguru,Content Guru
+bamboohr,dcbel,dcbel Inc
+bamboohr,dubak,Dubak Electrical
+bamboohr,eposnowgroup,Epos Now Group
+bamboohr,euna,EUNA Solutions
+bamboohr,expedock,Expedock
+bamboohr,fullbay,Fullbay
+bamboohr,geospectrum,GeoSpectrum Technologies
+bamboohr,ihlgroup,IHL Group
+bamboohr,lexical,Lexical Intelligence
+bamboohr,lunaroutpost,Lunar Outpost
+bamboohr,marqueebrands,Marquee Brands
+bamboohr,mujin,Mujin
+bamboohr,nexthopai,Nexthop.ai
+bamboohr,nomadgcs,Nomad GCS
+bamboohr,optionsit,Options Technology
+bamboohr,pencor,Pencor Services
+bamboohr,psware,Performance Software
+bamboohr,phihong,PHIHONG USA
+bamboohr,pictonmahoney,Picton Mahoney Asset Management
+bamboohr,profoundmedical,Profound Medical
+bamboohr,quiktrakcontractor,Quiktrak
+bamboohr,ruekertmielke,Ruekert & Mielke
+bamboohr,safransed,Safran
+bamboohr,selectorsoftware,Selector Software
+bamboohr,specteraerospace,Specter Aerospace
+bamboohr,subseacraft,Subsea Craft
+bamboohr,tggaccounting,TGG Accounting
+bamboohr,tnuck,Tuckernuck
+bamboohr,unitedsmarttech,United Smart Tech
+bamboohr,upike,University of Pikeville
+bamboohr,versafile1,VersaFile
+bamboohr,vestalcorporation,Vestal Corporation
 greenhouse,1800contacts,1-800 Contacts
 greenhouse,10alabs,10a Labs
 greenhouse,10beauty,10Beauty
@@ -999,7 +1044,6 @@ greenhouse,engineersgate,Engineers Gate
 greenhouse,enigmaio,Enigma
 greenhouse,ennoblecare,Ennoble Care
 greenhouse,enova,Enova
-greenhouse,ensemble,Ensemble
 greenhouse,eosfitness,EoS Fitness
 greenhouse,edgewoodpartnersinsurancecenter,EPIC Insurance Brokers & Consultants
 greenhouse,epickids,Epic Kids
@@ -1466,7 +1510,6 @@ greenhouse,starmountaincapital,Star Mountain Capital
 greenhouse,startree,StarTree
 greenhouse,stateaffairs,State Affairs
 greenhouse,stemhealthcare,STEM Healthcare
-greenhouse,stockx,StockX
 greenhouse,systemstechnologyresearch,STR
 greenhouse,stratacareers,Strata Decision Technology
 greenhouse,stratolaunch,Stratolaunch
@@ -1506,7 +1549,6 @@ greenhouse,threatlocker,Threatlocker
 greenhouse,tintai,Tint
 greenhouse,tobogganlabs,TobogganLabs
 greenhouse,togetherai,Together AI
-greenhouse,topsort,Topsort
 greenhouse,torcrobotics,Torc Robotics
 greenhouse,toshibaglobalcommercesolutions,Toshiba Global Commerce
 greenhouse,tpgcareers,TPG
@@ -1932,6 +1974,356 @@ lever,zeneducate,Zen Educate
 lever,zoox,Zoox
 lever,zopa,Zopa
 lever,zushealth,Zus Health
+oracle,ebwg.fa.us2.oraclecloud.com|CX,ACI Worldwide
+oracle,eczy.fa.us2.oraclecloud.com|CX_1,Acosta Group
+oracle,ehtl.fa.us6.oraclecloud.com|CX_2,ADI Global Distribution
+oracle,fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,ADT
+oracle,ecvz.fa.us2.oraclecloud.com|CX_1,Adventist Health
+oracle,fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Akamai Technologies
+oracle,eofd.fa.us6.oraclecloud.com|CX_1001,Albertsons
+oracle,hbbq.fa.us2.oraclecloud.com|CX_1,American Bureau of Shipping
+oracle,egug.fa.us2.oraclecloud.com|CX_1,American Express
+oracle,hdsn.fa.us6.oraclecloud.com|CX_1,American Tower
+oracle,ebcs.fa.em2.oraclecloud.com|CX_1,Arcadis
+oracle,hdnn.fa.us6.oraclecloud.com|CX,Arconic
+oracle,fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Arlington County VA
+oracle,fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com|CX,Ascot
+oracle,eezy.fa.ca2.oraclecloud.com|CX,ATCO
+oracle,egud.fa.us2.oraclecloud.com|CX_1,AutoZone
+oracle,eoff.fa.em1.ukg.oraclecloud.com|CX_1001,Bank of England
+oracle,fa-exby-saasfaprod1.fa.ocs.oraclecloud.com|CX_1013,BC Pensions
+oracle,fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Berkshire Hathaway Energy
+oracle,fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,BGIS
+oracle,eoje.fa.us2.oraclecloud.com|CX_1001,Black Box
+oracle,ejko.fa.us2.oraclecloud.com|CX_3,Blue Cross Blue Shield of Michigan
+oracle,ecge.fa.us2.oraclecloud.com|CX_1003,Blue Shield of California
+oracle,eofe.fa.us2.oraclecloud.com|CX_1001,BNY
+oracle,edxn.fa.us2.oraclecloud.com|CX_5001,Boston Properties
+oracle,fa-epzg-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Brent Council
+oracle,edmn.fa.us2.oraclecloud.com|CX_1,Caesars Entertainment
+oracle,hdow.fa.us6.oraclecloud.com|CX_1003,Cantor Fitzgerald
+oracle,ekiz.fa.em2.oraclecloud.com|CX,Carmeuse
+oracle,ebhu.fa.us2.oraclecloud.com|CX,Cetera Financial Group
+oracle,fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com|CX_2001,Chubb
+oracle,fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Citco
+oracle,hcgn.fa.us2.oraclecloud.com|CX_1,Citizens Financial Group
+oracle,elvp.fa.us2.oraclecloud.com|CX_1001,City of Greeley
+oracle,fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com|CX_2,City of Oklahoma City
+oracle,epyc.fa.us2.oraclecloud.com|CX_1001,Clean Harbors
+oracle,hcwp.fa.us2.oraclecloud.com|CX_1,Coherent
+oracle,hcbo.fa.us2.oraclecloud.com|CX_1,Cohu
+oracle,fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Community Health Systems
+oracle,fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com|CX_2001,Computershare
+oracle,egua.fa.us2.oraclecloud.com|CX_1,Conduent
+oracle,ejcu.fa.us6.oraclecloud.com|CX_1033,Consolidated Edison
+oracle,hcjy.fa.us2.oraclecloud.com|CX_1,Cooper Companies
+oracle,hczw.fa.us2.oraclecloud.com|CX_1001,CSC
+oracle,fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com|CSXCareers,CSX
+oracle,fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Cummins
+oracle,fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com|CX_1001,Dallas County
+oracle,hdks.fa.ca2.oraclecloud.com|CX_1,Definity Financial
+oracle,ertd.fa.us2.oraclecloud.com|CX_1001,DeKalb County
+oracle,iawmqy.fa.ocs.oraclecloud.com|careers,Dell Technologies
+oracle,hcwt.fa.us2.oraclecloud.com|CX,Denso
+oracle,eeug.fa.us6.oraclecloud.com|CX,Diebold Nixdorf
+oracle,hdep.fa.us2.oraclecloud.com|CX,Digital Realty
+oracle,ecyq.fa.em2.oraclecloud.com|CX_1,DNV
+oracle,ehpv.fa.em2.oraclecloud.com|CX_1,DP World
+oracle,ebxr.fa.us2.oraclecloud.com|CX_1,DTCC
+oracle,fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com|CX_26,Duracell
+oracle,gka.fa.us1.oraclecloud.com|CX,Eastern Bank
+oracle,fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,eClerx
+oracle,ejko.fa.us2.oraclecloud.com|CX_5,Emergent Holdings
+oracle,hdjq.fa.us2.oraclecloud.com|CX_1,Emerson Electric
+oracle,ecer.fa.em2.oraclecloud.com|CX_1,England Rugby
+oracle,fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com|CX_2,EXL
+oracle,elcn.fa.us2.oraclecloud.com|CX,EXP
+oracle,fa-exki-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Fanatics
+oracle,ekmu.fa.em3.oraclecloud.com|CX_6009,Fife Council
+oracle,fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers,FirstEnergy
+oracle,efds.fa.em5.oraclecloud.com|CX_1,Ford Motor Company
+oracle,edel.fa.us2.oraclecloud.com|CX_2001,Fortinet
+oracle,ejta.fa.us6.oraclecloud.com|CX_2001,Fortive
+oracle,ehth.fa.em2.oraclecloud.com|CX_2001,Garrett Motion
+oracle,edqv.fa.us2.oraclecloud.com|CX,GCI
+oracle,ejov.fa.ca2.oraclecloud.com|CX,GHD
+oracle,fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,GM financial
+oracle,hdpc.fa.us2.oraclecloud.com|LateralHiring,Goldman Sachs
+oracle,ehzq.fa.us2.oraclecloud.com|CX_1,Grant Thornton
+oracle,eexs.fa.us2.oraclecloud.com|GreenwoodVillageSouth,Greenwood Village South
+oracle,fa-etum-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,GuideWell Mutual
+oracle,eevd.fa.us6.oraclecloud.com|CX_1,Hearst
+oracle,encd.fa.em3.oraclecloud.com|CX_6005,Heathrow
+oracle,fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,HEXAWARE
+oracle,efet.fa.us2.oraclecloud.com|CX_1009,Hilton Worldwide
+oracle,efsp.fa.us6.oraclecloud.com|CX,Hoffman Construction
+oracle,ebwb.fa.us2.oraclecloud.com|CX,Hologic
+oracle,ibqbjb.fa.ocs.oraclecloud.com|Honeywell,Honeywell
+oracle,ekkh.fa.us2.oraclecloud.com|CX_2002,Hormel Foods
+oracle,fa-exty-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Howmet Aerospace
+oracle,fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Hunt Oil Company
+oracle,elar.fa.us2.oraclecloud.com|CX_1,Inova
+oracle,ertr.fa.us2.oraclecloud.com|CX_3001,INTEGRIS Health
+oracle,hcog.fa.em2.oraclecloud.com|CX_1,Intertek
+oracle,hdid.fa.us2.oraclecloud.com|CX_1,Jefferies
+oracle,jpmc.fa.oraclecloud.com|CX_1001,JP Morgan Chase
+oracle,fa-emqh-saasfaprod1.fa.ocs.oraclecloud.com|CX_1001,Kent
+oracle,hcxs.fa.us2.oraclecloud.com|CX_1,Kroll
+oracle,etyy.fa.ap2.oraclecloud.com|CX_1,Kulicke & Soffa
+oracle,icbpjb.fa.ocs.oraclecloud.com|LazardProfessionalCareers,Lazard
+oracle,iadugs.fa.ocs.oraclecloud.com|CX_1001,Legrand
+oracle,ibnjjb.fa.ocs.oraclecloud.com|CX_1,Lifepoint Health
+oracle,fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com|CX_3001,Linamar
+oracle,ebwh.fa.us2.oraclecloud.com|CX_1001,Macy's
+oracle,fa-elzs-saasfaprod1.fa.ocs.oraclecloud.com|CX,Manhattan District Attorney's Office
+oracle,ejwl.fa.us2.oraclecloud.com|CX,Marriott International
+oracle,egcu.fa.us6.oraclecloud.com|CX,Masimo
+oracle,hdpn.fa.us6.oraclecloud.com|CX_1,Mauser Packaging Solutions
+oracle,fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Mayo Clinic
+oracle,ehtc.fa.ca2.oraclecloud.com|CX_1,Metrolinx
+oracle,ebxs.fa.us2.oraclecloud.com|CX_2,Michael Baker International
+oracle,hcor.fa.us2.oraclecloud.com|CX_1,Midmark
+oracle,hckd.fa.us2.oraclecloud.com|CX_1,Molina Healthcare
+oracle,fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Montenson
+oracle,hcmn.fa.ap1.oraclecloud.com|CX_1001,MUFG
+oracle,ekgn.fa.us6.oraclecloud.com|CX_2001,Myriad Genetics
+oracle,fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com|nfcu,Navy Federal
+oracle,ewij.fa.us8.oraclecloud.com|CX_2,Nevada National Security Site
+oracle,elyq.fa.em3.oraclecloud.com|CX,Newham
+oracle,hdow.fa.us6.oraclecloud.com|CX_1001,Newmark Group
+oracle,fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Nokia
+oracle,fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com|CX_1001,Northumbria University
+oracle,eppr.fa.us2.oraclecloud.com|CX_2,Northwell Health
+oracle,egay.fa.us6.oraclecloud.com|CX_4001,NOV
+oracle,elrj.fa.us2.oraclecloud.com|CX_9001,Omnicell
+oracle,hctz.fa.us2.oraclecloud.com|CX_1001,onsemi
+oracle,eeho.fa.us2.oraclecloud.com|CX_45001,Oracle
+oracle,hccz.fa.em3.oraclecloud.com|CX_2,Pearson
+oracle,ebgj.fa.us2.oraclecloud.com|CX_1,Pella
+oracle,fa-enor-saasfaprod1.fa.ocs.oraclecloud.com|CX,Phoenix Group
+oracle,fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2,Photon
+oracle,ekcf.fa.us6.oraclecloud.com|CX_1,Powell
+oracle,ibwujb.fa.ocs.oraclecloud.com|CX_1001,Ralliant
+oracle,ehtl.fa.us6.oraclecloud.com|CX,Resideo
+oracle,hcqq.fa.us2.oraclecloud.com|CX_5004,RH
+oracle,hdde.fa.us2.oraclecloud.com|CX,Rheem
+oracle,emdz.fa.us2.oraclecloud.com|CX_2001,Rice University
+oracle,fa-exew-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Ritchie Bros.
+oracle,ejia.fa.us6.oraclecloud.com|CX_1001,S&C Electric Company
+oracle,eihu.fa.us8.oraclecloud.com|CX,SAIC
+oracle,hdhe.fa.em3.oraclecloud.com|CX,Sainsbury's
+oracle,ekkf.fa.em2.oraclecloud.com|CX,Samsonite
+oracle,ewvl.fa.us8.oraclecloud.com|CX_1,Savannah River National Laboratory
+oracle,ekbq.fa.em2.oraclecloud.com|CX_2,Schroders
+oracle,fa-errt-saasfaprod1.fa.ocs.oraclecloud.com|CX_2001,SCOR
+oracle,hckz.fa.us2.oraclecloud.com|CX_1,Seaspan
+oracle,ekaw.fa.us2.oraclecloud.com|CX,Securitas
+oracle,fa-exjq-saasfaprod1.fa.ocs.oraclecloud.com|SHEIN,SHEIN
+oracle,ejhp.fa.us6.oraclecloud.com|CX_2,Sherwin-Williams
+oracle,edyy.fa.us2.oraclecloud.com|CX_2002,Sinclair
+oracle,eodq.fa.us6.oraclecloud.com|CX,Skidmore College
+oracle,emje.fa.us6.oraclecloud.com|CX_1001,Southern Company
+oracle,cva.fa.us1.oraclecloud.com|CX_3,Standard Aero
+oracle,hdhl.fa.us6.oraclecloud.com|CX_1,Stantec
+oracle,fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com|StaplesInc,Staples
+oracle,hcal.fa.us2.oraclecloud.com|CX_1001,Subaru
+oracle,eoce.fa.em3.oraclecloud.com|CX_1004,Suffolk County
+oracle,eewl.fa.us6.oraclecloud.com|CX,Sundt
+oracle,fa-emxf-saasfaprod1.fa.ocs.oraclecloud.com|CX,Tauck
+oracle,edbz.fa.us2.oraclecloud.com|CX,Texas Instruments
+oracle,elxw.fa.em3.oraclecloud.com|CX_1001,The University of Edinburgh
+oracle,ecnf.fa.us2.oraclecloud.com|CX,Tradeweb
+oracle,fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,TriNet
+oracle,tulane-ibqejb.fa.ocs.oraclecloud.com|CX_1,Tulane University
+oracle,iaziqy.fa.ocs.oraclecloud.com|CX_1,Uber
+oracle,iazuqy.fa.ocs.oraclecloud.com|CX_1,UCSF
+oracle,fa-eups-saasfaprod1.fa.ocs.oraclecloud.com|ULSolutionsCareers,UL Solutions
+oracle,fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,University of Maine System
+oracle,eeik.fa.us2.oraclecloud.com|CX_1,University of Wyoming
+oracle,fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1002,UTHealth Houston
+oracle,eimy.fa.us6.oraclecloud.com|CX_1,UW Health
+oracle,ecsr.fa.us2.oraclecloud.com|CX_1,Vanderbilt University
+oracle,fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Verisk
+oracle,egup.fa.us2.oraclecloud.com|CX,Vertiv
+oracle,ejrz.fa.us2.oraclecloud.com|CX_5001,VITAS Healthcare
+oracle,emcm.fa.us2.oraclecloud.com|WMCareers,Waste Management
+oracle,emqz.fa.us2.oraclecloud.com|CX_1,Wayne County
+oracle,fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Weatherford
+oracle,ehac.fa.us6.oraclecloud.com|CX_1,Williams-Sonoma
+oracle,iaxmqy.fa.ocs.oraclecloud.com|Wingstop-GSC,Wingstop Restaurants
+oracle,ehif.fa.em2.oraclecloud.com|CX_1,Wood
+oracle,fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com|CX_2001,Worthington Enterprises
+oracle,emit.fa.ca3.oraclecloud.com|CX_2001,WSP
+oracle,eedu.fa.em3.oraclecloud.com|CX_1003,WTW
+oracle,fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com|CX_1029,Zachry Group
+oracle,fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,Zensar
+recruitee,1x,1X
+recruitee,hardrockdigital,Hard Rock Digital
+rippling,4ag,4AG Robotics
+rippling,aalyria-careers,Aalyria
+rippling,acretrader-jobs,AcreTrader
+rippling,adelaide,Adelaide Metrics
+rippling,advocate-technologies-inc,Advocate Technologies Inc.
+rippling,agilitypr,Agility PR Solutions
+rippling,aapd-jobs,American Association of People With Disabilities
+rippling,usare,American Rare Earths
+rippling,amika-careers,amika
+rippling,ampersand-biomedicines,Ampersand
+rippling,ampliwork-inc,"Ampliwork, Inc"
+rippling,analog-bits-inc,Analog Bits
+rippling,anthony-sylvan-pools,Anthony & Sylvan Pools
+rippling,apexanalytix-careers,APEX Analytix
+rippling,ascentt,Ascentt
+rippling,atlas-data-storage,Atlas Data Storage
+rippling,general,AvicenaTech
+rippling,bloomgrowth,Bloom Growth
+rippling,blue-robotics,Blue Robotics
+rippling,bonsairoboticsmain,Bonsai Robotics
+rippling,boom-supersonic,Boom Supersonic
+rippling,briowt,Brio Water Technology
+rippling,buxtoncocareers,Buxton
+rippling,camlin-careers,Camlin
+rippling,capacity,Capacity
+rippling,cardamom,Cardamom Health
+rippling,cintal,Cintal
+rippling,citylogix,Citylogix Inc.
+rippling,closinglock,Closinglock
+rippling,cloud-synapps-inc,Cloud SynApps
+rippling,collieraerospace,Collier Aerospace
+rippling,colheli,Columbia Helicopters
+rippling,conceptplus,Concept Plus
+rippling,cozey-internships,Cozey
+rippling,createmusicgroup,Create Music Group
+rippling,critical-response-group,Critical Response Group
+rippling,cruiseplanners,Cruise Planners
+rippling,d-wave-quantum,D-Wave Quantum
+rippling,democratic-national-committee,Democratic National Committee
+rippling,denari,Denari
+rippling,dext-capital-llc,Dext Capital
+rippling,dgrsystems,DGR Systems
+rippling,dialogue-fr,Dialogue
+rippling,dialogue-en,Dialogue Health Technologies
+rippling,dlb-associates,DLB Associates
+rippling,dlsengineering,"DLS Engineering Associates, Inc."
+rippling,door,DOOR
+rippling,door-controls-usa,Door Controls
+rippling,duku-ai,Duku AI
+rippling,ega-job-board,Eastern Glass and Aluminum
+rippling,edgehog-trading,Edgehog Trading
+rippling,electrosonic-careers,Electrosonic
+rippling,elevationcapital,Elevation Capital
+rippling,encore-auctions,Encore Auctions
+rippling,energycap-external-career-page,EnergyCap
+rippling,enludio-careers,Enludio
+rippling,eridu-ai,Eridu AI
+rippling,eternal,eternal.ag
+rippling,etg,Exploration Technology Corp.
+rippling,facereality,Face Reality
+rippling,fieldpulse,FieldPulse
+rippling,flexai,FlexAI
+rippling,external-job-board,FlexGen
+rippling,foundation-robotics,Foundation
+rippling,fragile,Fragile
+rippling,free-market-health,Free Market Health
+rippling,gaiias-open-positions,Gaiia
+rippling,genlogs-corporation,GenLogs
+rippling,hearth-careers,GetHearth.com
+rippling,gitar-careers,"Gitar, Inc."
+rippling,glass-roots-construction-llc,"Glass Roots Construction, LLC"
+rippling,gofishdigital,Go Fish Digital
+rippling,golden,Golden Analytics
+rippling,harness-careers,Harness
+rippling,hunterstrategy,Hunter Strategy
+rippling,intelliguard,Intelliguard
+rippling,intersection,Intersection
+rippling,ip-house,IP House
+rippling,jitsu,Jitsu
+rippling,kielo,Kielo Research
+rippling,kraken-robotics-inc,Kraken Robotics
+rippling,legitscript-careers,Legit Script
+rippling,les-olson-it,Les Olson IT
+rippling,lightguide,"LightGuide, Inc."
+rippling,linea-energy,Linea Energy
+rippling,linenmaster,LinenMaster
+rippling,logicbroker-inc,"Logicbroker, Inc."
+rippling,longevity-holdings,Longevity Holdings
+rippling,loop-careers,Loop
+rippling,lynx-software-technologies,"Lynx Software Technologies, Inc."
+rippling,lyte,Lyte AI
+rippling,memryx,MemryX
+rippling,mei-employment,Middle East Institute
+rippling,mile-marker,MILE MARKER
+rippling,greengas,Mobius Renewables
+rippling,momentumcareers,Momentum Engineering
+rippling,moon,Moon
+rippling,msm,MSM Inc.
+rippling,mytra,Mytra
+rippling,nws,National Water Services
+rippling,naxo,NAXO
+rippling,neosigma,NeoSigma
+rippling,nerdio-careers,Nerdio
+rippling,fluidai-medical-careers,NERv Technology Inc. D.B.A. FluidAI Medical
+rippling,nesto,nesto
+rippling,nestocloud,Nesto Cloud
+rippling,netwrix-corporation,Netwrix
+rippling,north-cloud,North Cloud
+rippling,noviam,Noviam Inc.
+rippling,nucleus-biologics-careers,Nucleus Biologics
+rippling,octasic-inc,Octasic
+rippling,omnis-corporation,Omnis
+rippling,onware,Onware
+rippling,opiniion,Opiniion
+rippling,orderco,Order.co
+rippling,overland-ai,Overland AI
+rippling,oxbridge-health,Oxbridge Health
+rippling,ozmocareers,Ozmo
+rippling,plmrcareers,Palomar Holdings
+rippling,pathos,Pathos
+rippling,patientnow,PatientNow
+rippling,pcmi,PCMI
+rippling,peakhealth-ai,Peakhealth AI Inc
+rippling,pendulum-intelligence-jobs,Pendulum Intelligence
+rippling,petfolk,Petfolk
+rippling,popstroke-job-board-1924,PopStroke Holdings LLC
+rippling,positron,Positron
+rippling,praos-smart-security,Praos Smart Security
+rippling,proper-voltage,Proper Voltage
+rippling,purefacts_jobs,PureFacts Financial Solutions
+rippling,rev-robotics,REV Robotics
+rippling,reverb-careers,Reverb
+rippling,riot-platforms-careers,Riot Platforms
+rippling,rippling,Rippling
+rippling,joinroot,Root Insurance
+rippling,routeware-careers,Routeware
+rippling,rugsusa,RugsUSA
+rippling,sennos,Sennos
+rippling,shadowdragon,ShadowDragon
+rippling,sightmachine,Sight Machine
+rippling,skytrac,SKYTRAC
+rippling,sperry-rail-inc,Sperry Rail
+rippling,spreeai,SpreeAI
+rippling,stag-careers,STAG
+rippling,core-sound-imaging,Studycast
+rippling,studyfetch,StudyFetch
+rippling,supernova-technology,Supernova Technology
+rippling,supper,Supper
+rippling,t1d-exchange-career-center,T1D Exchange
+rippling,talent-101-inc,Talent 101 Inc
+rippling,tavernresearch,Tavern Research
+rippling,redesigncareers,The Redesign Group
+rippling,theguarantors-open-positions,TheGuarantors
+rippling,tive-careers,Tive
+rippling,topdoglaw,TopDog Law
+rippling,torus,Torus
+rippling,truepointcareers,Truepoint Wealth Counsel
+rippling,jobs-at-tuesday-health,Tuesday Health
+rippling,uhin-careers,UHIN
+rippling,veryable-careers,Veryable
+rippling,vortex-companies-llc,"Vortex Companies, LLC"
+rippling,whc,Whc
+rippling,wdscareers,"Wildfire Defense Systems, Inc."
+rippling,zededa,Zededa
+rippling,zuckerman-investment-group,Zuckerman Investment Group
 smartrecruiters,9to9softwaresolutionsllc,9to9 Software Solutions
 smartrecruiters,abbvie,AbbVie
 smartrecruiters,accellearning,Accel Learning
@@ -2149,6 +2541,226 @@ smartrecruiters,worldwidetechservices,Worldwide TechServices
 smartrecruiters,zen31,Zen3
 smartrecruiters,customshow,Zoomifier
 smartrecruiters,zoro,Zoro
+workable,accellor,Accellor
+workable,accora,Accora
+workable,aerones,Aerones
+workable,aetos-systems-inc,Aetos Systems
+workable,ageo,AGEO Autonomy
+workable,al-warren-oil-company-inc,Al Warren Oil Company
+workable,albert-bartlett,Albert Bartlett
+workable,alexander-dennis,Alexander Dennis
+workable,alphax,AlphaHire
+workable,altalink,AltaLink
+workable,altom-transport,Altom Transport
+workable,amax-1,AMAX
+workable,arch-aerial-llc,Arch Aerial
+workable,arena-investors-lp,Arena Investors I Quaestor Advisors
+workable,arondite,Arondite
+workable,ascendis-pharma,Ascendis Pharma
+workable,avalore,Avalore
+workable,avk-seg-uk-ltd,AVK
+workable,ballotpedia,Ballotpedia
+workable,bci-brands,BCI Brands
+workable,belmond-uk-ltd,Belmond
+workable,bff,Best Friend Finance
+workable,bestex-research,BestEx Research
+workable,bipventures,BIP Ventures
+workable,getbits,Bits
+workable,blacklinesafety,Blackline Safety
+workable,botpress,Botpress Technologies
+workable,brady-martz,Brady Martz
+workable,trycaddi,Caddi Workflow Automation
+workable,cadillacf1team,Cadillac Formula 1 Team
+workable,capula-investment-management-ltd,Capula
+workable,castle-trust,Castle Trust Bank
+workable,charlotte-tilbury,Charlotte Tilbury
+workable,christie-lites-3,Christie
+workable,civica-uk-ltd-1,Civica
+workable,cloudfactory,CloudFactory
+workable,cmic,CMiC
+workable,cogna,Cogna
+workable,commonai,CommonAI C.I.C.
+workable,connectprep,ConnectPrep
+workable,continuum-resource-network,Continuum Resource Network
+workable,coretek-services,Coretek Services
+workable,credence,Credence
+workable,cornerstone-research-group-inc,CRG Defense
+workable,currier-plastics,Currier Plastics
+workable,cvector,CVector
+workable,cwill-us,CWILL
+workable,datavisor-jobs,DataVisor
+workable,dayshape,Dayshape
+workable,dcthomson,DC Thomson
+workable,debenhamsgroup,Debenhams Group
+workable,disa-technologies,DISA Technologies
+workable,digitalmediaservices,DMS
+workable,double-eleven,Double Eleven
+workable,drug-hunter,Drug Hunter
+workable,ecareers,e-Careers
+workable,eagle-seven,Eagle Seven
+workable,elevate-semiconductor,Elevate Semiconductor
+workable,elevation-autism-center,Elevation Autism Center
+workable,eluvio,Eluvio
+workable,employee-owned-holdings-inc,Employee Owned Holdings
+workable,enfos-inc,ENFOS
+workable,esgusa,ESG - USA
+workable,eurostar,Eurostar International
+workable,fmx,Facilities Management Express
+workable,fasanara,Fasanara
+workable,fifty-five,Fifty-Five
+workable,financeit,Financeit
+workable,flexcompute,Flexcompute
+workable,flexion-robotics,Flexion Robotics
+workable,focus-group,Focus Group
+workable,frazer-nash-15,Frazer-Nash Consultancy
+workable,freshcutpaper,FreshCut Paper
+workable,fuku,Fuku
+workable,funnel-leasing,Funnel Leasing
+workable,fuse-integration,Fuse Integration
+workable,g-20-advisors-ag,G-20 Group
+workable,generation-west-virginia-1,Generation West Virginia
+workable,genetec-inc,Genetec
+workable,get-career-site,"Global Engineering & Technology, Inc. (GET)"
+workable,go-media,GO Media
+workable,grayce,Grayce
+workable,harlem-childrens-zone,Harlem Children's Zone
+workable,healthcorpsorg,HealthCorps
+workable,helical,Helical
+workable,hokali,HOKALI
+workable,homey,Homey
+workable,hyperlight,HyperLight
+workable,indra-uk,Indra Group UK & Ireland
+workable,coldquanta,Infleqtion
+workable,interimage,InterImage
+workable,intetics-2,Intetics
+workable,javelin-global-commodities,Javelin Global Commodities
+workable,jcc-greater-boston,JCC Greater Boston
+workable,jeffreym-consulting,JeffreyM Consulting
+workable,kanbrick,Kanbrick
+workable,kestra-medical-technologies-inc,Kestra
+workable,keycafe,Keycafe
+workable,kihomac,KIHOMAC
+workable,leap-legal-software,LEAP Legal Software
+workable,liberty-mutual-canada,Liberty Mutual Canada
+workable,longshot-systems-ltd,Longshot Systems
+workable,lovey,Lovey
+workable,lovingly,Lovingly
+workable,luminance-1,Luminance
+workable,luxium-solutions-llc,Luxium Solutions
+workable,matternet,Matternet
+workable,mindex,Mindex
+workable,mistywest,MistyWest
+workable,mila-2,Montreal Institute for Learning Algorithms
+workable,motia,Motia
+workable,msr-fsr,MSR-FSR
+workable,murphy-research,Murphy Research
+workable,mustard-systems,Mustard Systems
+workable,navionsl,Navion Senior Solutions
+workable,neurohire-dot-a-i,neurohire.ai
+workable,neutreeno-1,Neutreeno
+workable,new-flyer,New Flyer
+workable,node,Node.Digital
+workable,nogigiddy,NoGigiddy
+workable,nu-quantum,Nu Quantum
+workable,nuovophotography,Nuovo Photography
+workable,oceancomm,OceanComm
+workable,ohm-advisors,OHM Advisors
+workable,onyx-capital-group,Onyx Capital Group
+workable,openworks-engineering,OpenWorks Engineering
+workable,optisigns-inc,OptiSigns
+workable,optitrack,OptiTrack
+workable,oxford-quantum-circuits-8,Oxford Quantum Circuits
+workable,palona,Palona AI
+workable,paxton-access,Paxton Access
+workable,perryhomes,Perry Homes
+workable,persimmons-ai,Persimmons.ai
+workable,planetart,PlanetArt
+workable,pony-dot-ai,pony.ai
+workable,porsche-retail-group,Porsche
+workable,praytell,Praytell
+workable,premium-merchant-funding-3,Premium Merchant Funding
+workable,prevail,Prevail
+workable,pronexus-1,ProNexus
+workable,prosync,Prosync
+workable,q5-partners,Q5
+workable,qodeworld,qode.world
+workable,quadric-dot-i-o-inc,Quadric
+workable,queueco,Queueco
+workable,raveaerospace,RAVE Aerospace
+workable,raydar,Raydar
+workable,rebellion,Rebellion
+workable,red-rabbit-robotics,Red Rabbit Robotics
+workable,resource-innovations,Resource Innovations
+workable,responsiveads-inc,ResponsiveAds
+workable,ripjar,Ripjar
+workable,rmf-engineering-inc,RMF Engineering
+workable,rokt,Rokt
+workable,rovex-technologies-corporation,Rovex Technologies
+workable,rystad-energy,Rystad Energy
+workable,saalex,Saalex
+workable,ssci,Scientific Systems
+workable,scitec,SciTec
+workable,scout-clean-energy,Scout Clean Energy
+workable,seeq,Seeq
+workable,sigmadefense,Sigma Defense
+workable,skygig,SkyGig
+workable,slip-robotics,Slip Robotics
+workable,smartflower-solar-llc,SmartFlower Solar
+workable,softheon,Softheon
+workable,solirius-consulting-1,Solirius Reply
+workable,somerce,Somerce
+workable,sophinea,Sophinea
+workable,sorting-robotics,Sorting Robotics
+workable,staffordgray,Stafford Gray
+workable,starling-bank,Starling Bank
+workable,sei,Stockholm Environment Institute - U.S.
+workable,swoon-editions,Swoon Editions
+workable,sword-group,Sword Group
+workable,synthesisim,Synthesis
+workable,syntiant,Syntiant
+workable,szns,SZNS Solutions
+workable,tarte-inc,tarte cosmetics
+workable,tecsa,Tecsa
+workable,tecsys,Tecsys
+workable,teguar-corporation,Teguar
+workable,terabase-energy,Terabase
+workable,teserac-inc,Teserac
+workable,texas-sports-academy-main,Texas Sports Academy
+workable,the-anywhere-company,The Anywhere
+workable,focusrite,The Focusrite Group
+workable,semios,The Semios Group
+workable,theshipyard,The Shipyard
+workable,thingtrax,Thingtrax
+workable,thorlabs,Thorlabs
+workable,tickpick,TickPick
+workable,tmeic-corporation-americas,TMEIC Corporation Americas
+workable,tokamak-energy,Tokamak Energy
+workable,tp-link-usa-corp,TP-Link Systems
+workable,trexquant,Trexquant
+workable,turabify-co,Turabify
+workable,twgai,TWG Global
+workable,twocircles,Two Circles
+workable,ubds,UBDS Group
+workable,utilisave-llc-1,UtiliSave
+workable,validus-risk-management,Validus Risk Management
+workable,valsoft-corp,Valsoft Corporation
+workable,vanguard-ems-inc,Vanguard EMS
+workable,vectoratomic,Vector Atomic
+workable,viewline-ventures,Viewline Ventures
+workable,volga-partners,Volga Partners
+workable,vortexa,Vortexa
+workable,waggoner-financial,Waggoner Financial
+workable,wallstreetquants,WallStreetQuants
+workable,waterworth,Waterworth
+workable,we-are-social-1,We Are Social
+workable,weekday-1,Weekday AI
+workable,western-magnetics,Western Magnetics
+workable,willis-aviation,Willis Aviation
+workable,xodus-group,Xodus Group
+workable,zaber,Zaber Technologies
+workable,zaizi,Zaizi
+workable,zego,Zego
+workable,zippd,Zippd
 workday,2020companies|wd1|external_careers,2020 Companies
 workday,23andme|wd5|23,23andMe
 workday,my7elevenhr|wd12|Careers,7-Eleven
@@ -2279,7 +2891,6 @@ workday,asu|wd1|ASUStaffCareers,Arizona State University
 workday,arkbluecross|wd1|abcbs_external_careers,Arkansas Blue Cross
 workday,archildrens|wd1|external_career_site,Arkansas Children's
 workday,arlo|wd12|External_Careers,Arlo Technologies
-workday,arraytechinc|wd5|Array_Careers,ARRAY Technologies
 workday,arrow|wd1|ac,Arrow Electronics
 workday,arrowstreetcapital|wd5|Campus_Careers,Arrowstreet Capital
 workday,ascendperformancematerials|wd1|ascend,Ascend Performance Materials
@@ -2307,6 +2918,7 @@ workday,athenahealth|wd1|External,Athena Health
 workday,athene|wd5|athene_careers,Athene
 workday,slihrms|wd3|careers,AtkinsRéalis
 workday,atriumhospitality|wd5|atriumhospitality,Atrium Hospitality
+workday,@angc|wd5|ANGC,Augusta National Golf Club
 workday,austalusa|wd1|austal,Austal USA
 workday,austincc|wd1|external,Austin Community College District
 workday,acg|wd1|Careers,Auto Club Group
@@ -2323,6 +2935,7 @@ workday,aviagen|wd1|aviagen-careers,Aviagen
 workday,avisbudget|wd1|abg_careers,Avis Budget Group
 workday,aviva|wd1|External,Aviva
 workday,aviva|wd1|Aviva_Investors_External,Aviva Investors
+workday,@avnet|wd1|External,Avnet
 workday,avnet|wd1|external,Avnet
 workday,awepeople|wd3|Grad_Careers,AWE
 workday,axalta|wd1|axalta,Axalta
@@ -2359,7 +2972,6 @@ workday,bdo|wd3|BDO,BDO Canada
 workday,bdx|wd1|EXTERNAL_CAREER_SITE_USA,Becton Dickinson
 workday,bdx|wd1|US_EARLY_TALENT_SITE,Becton Dickinson
 workday,becu|wd1|External,BECU
-workday,belk|wd1|careers,Belk
 workday,belk|wd1|careers-collegecampus,Belk
 workday,benefis|wd1|bhs,Benefis Health System
 workday,beigene|wd5|beigene,BeOne
@@ -2408,6 +3020,7 @@ workday,bpinternational|wd3|bpCareers,BP
 workday,bpinternational|wd3|bpEarlyCareers,BP
 workday,braunintertec|wd5|brauninterteccareers,Braun Intertec
 workday,alliancedata|wd5|breadfinancial_us,Bread Financial
+workday,@brevanhoward|wd3|BH_ExternalCareers,Brevan Howard
 workday,thinkbrg|wd5|BRG_External_Career_Site,BRG
 workday,byu|wd1|byu-careers,Brigham Young University
 workday,brinks|wd5|brinkscareersus,Brink
@@ -2462,11 +3075,12 @@ workday,capitalone|wd12|Capital_One,Capital One
 workday,cardinalhealth|wd1|EXT,Cardinal Health
 workday,elevancehealth|wd1|ANT,CareBridge
 workday,caresource|wd1|caresource,CareSource
+workday,@carislifesciences|wd12|CLS,Caris
 workday,carmax|wd1|External,CarMax
 workday,cmu|wd5|cmu,Carnegie Mellon University
 workday,carters|wd1|CartersCareers,Carter's
 workday,osv-cci|wd1|CCICareers,Castleton Commodities International
-workday,cat|wd5|CaterpillarCareers,Caterpillar Inc.
+workday,cat|wd5|caterpillarcareers,Caterpillar Inc.
 workday,cboe|wd1|External_Career_CBOE,Cboe
 workday,cccis|wd1|broadbean_external,CCC Intelligent Solutions
 workday,cdk|wd1|CDK,CDK Global
@@ -2496,6 +3110,7 @@ workday,chemours|wd103|Chemours,Chemours
 workday,chenmed|wd1|chenmed,ChenMed
 workday,brambles|wd5|Brambles_Careers,CHEP
 workday,chevron|wd5|University,Chevron Corporation
+workday,@chewy|wd5|External,Chewy
 workday,cni|wd503|CNI,Chickasaw Nation Industries
 workday,chipotle|wd5|ChipotleCareers,Chipotle Mexican Grill
 workday,choicehotels|wd5|External,Choice Hotels
@@ -2519,6 +3134,7 @@ workday,charlottenc|wd12|citgov,City of Charlotte
 workday,largo|wd1|external,City of Largo
 workday,olatheks|wd1|olatheks,City Of Olathe
 workday,cityofvancouver|wd5|COV,City of Vancouver
+workday,@vbgov|wd5|City_Of_Virginia_Beach_Careers,City of Virginia Beach
 workday,clarioclinical|wd1|clarioclinical_careers,Clairo
 workday,theclaremontcolleges|wd1|CMC_Staff,Claremont McKenna College
 workday,clarios|wd5|clarioscareers,Clarios
@@ -2529,6 +3145,7 @@ workday,ccf|wd1|ClevelandClinicCareers,Cleveland Clinic
 workday,aksteel|wd1|careers,Cleveland-Cliffs
 workday,cliftonlarsonallen|wd1|CLA,CliftonLarsonAllen
 workday,clio|wd3|ClioCareerSite,Clio
+workday,@clorox|wd1|Clorox,Clorox
 workday,clorox|wd1|InviteClorox,Clorox
 workday,cmcmarkets|wd3|CMC_Markets_Careers,CMC Markets
 workday,cmegroup|wd1|cme_careers,CME Group
@@ -2625,6 +3242,7 @@ workday,etsy|wd5|Depop_Careers,Depop
 workday,desjardins|wd10|Desjardins,Desjardins Group
 workday,ilitch|wd5|detroit-tigers,Detroit Tigers
 workday,db|wd3|DBWebsite,Deutsche Bank
+workday,@devonenergy|wd5|Careers,Devon Energy
 workday,dexcom|wd1|Dexcom,Dexcom
 workday,diamondbackenergy|wd12|DBE,Diamondback Energy
 workday,dickssportinggoods|wd1|DSG,Dick's Sporting Goods
@@ -2790,6 +3408,7 @@ workday,gensler|wd1|genslercareers,Gensler
 workday,gentex|wd5|Gentex,Gentex Corporation
 workday,genpt|wd1|Careers,Genuine Parts Company
 workday,gnw|wd1|GNW,Genworth Financial
+workday,@gflenv|wd3|Careers,GFL
 workday,gia|wd1|GIA,GIA
 workday,gilead|wd1|gileadcareers,Gilead Sciences
 workday,gladstone|wd503|careers,Gladstone Institutes
@@ -2819,6 +3438,7 @@ workday,gsk|wd5|GSKCareers,GSK
 workday,guardianlife|wd5|guardian-life-careers,Guardian Life
 workday,guidehouse|wd1|external,Guidehouse
 workday,guidestone|wd1|guidestone,GuideStone
+workday,@guidewire|wd5|external,Guidewire
 workday,guidewire|wd5|external,Guidewire
 workday,gundersenhealth|wd5|Gundersen,Gundersen Health System
 workday,gunvor|wd3|Gunvor_Careers,Gunvor
@@ -2833,6 +3453,7 @@ workday,hcad|wd5|HCADCareers,Harris Central Appraisal District
 workday,harriscomputer|wd3|1,Harris Computer
 workday,pnc|wd5|HarrisWilliams,Harris Williams
 workday,hastingsdirect|wd3|external_careers,Hastings Direct
+workday,@hcahealthcare|wd3|hcacareers,HCA Healthcare UK
 workday,hcsc|wd1|HCSC_External,HCSC
 workday,hdsupply|wd1|External,HD Supply
 workday,healthresearch|wd1|hri_careers,Health Research
@@ -2890,6 +3511,7 @@ workday,ijm|wd5|careers-ijm,IJM
 workday,iko|wd3|iko_careers,IKO
 workday,illumina|wd1|illumina-careers,Illumina
 workday,illuminateusa|wd503|Illuminate_Careers,Illuminate USA
+workday,@imeg|wd1|Imeg_Careers,IMEG
 workday,imerys|wd3|imerys-careers,Imerys
 workday,imerys|wd3|imerys_career2,Imerys
 workday,incora|wd5|Incora,Incora
@@ -2994,7 +3616,7 @@ workday,laticrete|wd1|laticreteinternational,Laticrete
 workday,agilitas|wd503|LMC,Le Moyne College
 workday,lego|wd103|LEGO_External,LEGO
 workday,milestone|wd1|Milestone_External,Legrand
-workday,leidos|wd5|External,Leidos
+workday,leidos|wd5|external,Leidos
 workday,lendingclub|wd1|external,LendingClub
 workday,lennar|wd1|Lennar_Jobs,Lennar Corporation
 workday,leonardocompany|wd3|LeonardoCareerSite,Leonardo
@@ -3040,6 +3662,7 @@ workday,jcrew|wd1|madewellcareers,Madewell
 workday,madixinc|wd12|Madix,Madix
 workday,maersk|wd3|maersk_careers,Maersk
 workday,magellanhealth|wd5|magellan_health_careers,Magellan Health
+workday,@magna|wd3|Magna,Magna
 workday,magna|wd3|Magna,Magna International
 workday,osv-rubicon|wd5|MagniteCareers,Magnite
 workday,spectris|wd3|Malvern_Panalytical_Careers,Malvern Panalytical
@@ -3100,6 +3723,7 @@ workday,mgic|wd5|mgic,MGIC
 workday,mgmresorts|wd5|MGMCareers,MGM Resorts International
 workday,miamioh|wd5|miamioh-staff,Miami University
 workday,michelinhr|wd3|Michelin,Michelin
+workday,@microchiphr|wd5|External,Microchip Technology
 workday,micron|wd1|External,Micron Technology
 workday,midlandsb|wd1|msbcareers,Midland States Bank
 workday,miele|wd3|miele-jobs,Miele
@@ -3119,6 +3743,7 @@ workday,modernatx|wd1|M_tx,Moderna
 workday,modmed|wd501|ModMed12,Modernizing Medicine
 workday,moffitt|wd108|Moffitt,Moffitt Cancer Center
 workday,momentive|wd1|MC,Momentive
+workday,@mdlz|wd3|External,Mondelez International
 workday,monolithicpower|wd12|MPS_Careers,Monolithic Power Systems
 workday,montage|wd1|Montage_International,Montage International
 workday,montrose|wd1|meg,Montrose Environmental Group
@@ -3198,6 +3823,7 @@ workday,nvidia|wd5|NVIDIAExternalCareerSite,NVIDIA
 workday,nxp|wd3|careers,NXP Semiconductors
 workday,oreillyauto|wd1|oreilly,O'Reilly Auto Parts
 workday,oakgov|wd5|careers,"Oakland County, Michigan"
+workday,@oatey|wd5|Oatey_External_,OATEY
 workday,theocc|wd5|careers,OCC
 workday,oxy|wd5|Corporate,Occidental Petroleum
 workday,oxy|wd5|UniversityRelations,Occidental Petroleum Corporation (Oxy)
@@ -3352,6 +3978,8 @@ workday,ringcentral|wd1|RingCentral_Careers,RingCentral
 workday,riotinto|wd3|riotinto_careers,Rio Tinto
 workday,risepoint|wd503|Risepoint,Risepoint
 workday,ritehite|wd12|RHH,Rite Hite
+workday,@rlicorp|wd1|RLI_Corp_Careers,RLI
+workday,@rrts|wd1|careers,Road Runner
 workday,roberthalf|wd1|roberthalfcareers,Robert Half
 workday,roche|wd3|roche-ext,Roche
 workday,rit|wd12|careers,Rochester Institute of Technology
@@ -3443,6 +4071,7 @@ workday,salesforce|wd12|Slack,Slack
 workday,recar|wd108|SLATEcareers,Slate Auto
 workday,smithnephew|wd5|External,Smith+Nephew
 workday,smithfieldfoods|wd1|Careers,Smithfield Foods
+workday,@snapchat|wd1|snap,Snap
 workday,snapfinance|wd1|snap_external_careers,Snap Finance
 workday,snyk|wd103|External,Snyk
 workday,cat|wd5|solarturbines,Solar Turbines
@@ -3500,6 +4129,7 @@ workday,synchronyfinancial|wd5|University,Synchrony Financial
 workday,synchronyfinancial|wd5|careers,Synchrony Financial
 workday,synechron|wd1|SynechronCareers,Synechron
 workday,syneoshealth|wd12|Syneos_Health_External_Site,Syneos Health
+workday,@sysco|wd5|syscocareers,Sysco
 workday,tmobile|wd1|External,T-Mobile
 workday,tmobile|wd1|alumni,T-Mobile
 workday,tmobile|wd1|contractorconversion,T-Mobile
@@ -3558,6 +4188,7 @@ workday,ttc|wd1|Toro_External_Careers,The Toro Company
 workday,kansashealthsystem|wd1|careers,The University of Kansas Hospital
 workday,disney|wd5|disneycareer,The Walt Disney Company
 workday,disney|wd5|disneycareerdc,The Walt Disney Company
+workday,@upenn|wd1|Wharton,The Wharton School
 workday,thermofisher|wd5|ThermoFisherCareers,Thermo Fisher Scientific
 workday,thomsonreuters|wd5|External_Career_Site,Thomson Reuters
 workday,thoughtspot|wd5|careers,ThoughtSpot
@@ -3691,8 +4322,10 @@ workday,wawa|wd1|careers,Wawa
 workday,waystar|wd1|Waystar,Waystar
 workday,wellington|wd5|Campus,Wellington Management
 workday,wellington|wd5|external,Wellington Management
+workday,@wf|wd1|WellsFargoJobs,Wells Fargo
 workday,wellsky|wd1|WellSkyCareers,WellSky
 workday,welocalize|wd1|welocalize,Welocalize
+workday,@westernalliancebank|wd5|WAB,Western Alliance
 workday,westernunion|wd5|WesternUnionJobs,Western Union
 workday,westlake|wd1|westlake,Westlake
 workday,wexinc|wd5|WEXInc,Wex
