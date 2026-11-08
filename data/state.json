@@ -4068,7 +4068,7 @@
   },
   "greenhouse:focusfinancialpartners": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-08"
   },
   "greenhouse:forerunner": {
@@ -4656,7 +4656,7 @@
    "since": "2026-11-08"
   }
  },
- "last_digest": "2026-11-07",
+ "last_digest": "2026-11-08",
  "resolved": {
   "airbnb": {
    "ats": "greenhouse",
