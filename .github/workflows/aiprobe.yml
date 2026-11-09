@@ -1,0 +1,23 @@
+name: aiprobe
+on:
+  push:
+    branches: [ai-probe]
+permissions:
+  contents: read
+  models: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Try GitHub Models
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for m in openai/gpt-4.1-mini openai/gpt-4o-mini openai/gpt-4.1 openai/gpt-5-mini; do
+            echo "== $m"
+            curl -sS -D /tmp/h -o /tmp/b -w "%{http_code}\n" https://models.github.ai/inference/chat/completions \
+              -H "Authorization: Bearer $GH_TOKEN" -H "Content-Type: application/json" \
+              -d "{\"model\":\"$m\",\"messages\":[{\"role\":\"user\",\"content\":\"Reply with JSON {\\\"ok\\\":true}\"}],\"response_format\":{\"type\":\"json_object\"}}"
+            grep -i "ratelimit\|x-ms" /tmp/h | head -8; head -c 400 /tmp/b; echo
+          done
+          curl -sS https://models.github.ai/catalog/models -H "Authorization: Bearer $GH_TOKEN" | python3 -c "import json,sys; d=json.load(sys.stdin); print([ (m['id'], m.get('rate_limit_tier')) for m in d][:60])"
