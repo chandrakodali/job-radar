@@ -23,7 +23,6 @@ SAMPLES = {
     "teamtailor": ["noda-1720000970.teamtailor.com"],
     "dover": ["mindsmith"],
     "gem": ["albacore"],
-    "ukgready": ["secure7.saashr.com|6203759", "secure4.saashr.com|6052029"],
     "dayforce": ["texasfarm|candidateportal"],
     "manatal": ["q2hrsolutions", "globalchannelmanagement", "permhunt"],
 }
@@ -37,7 +36,7 @@ CC = {
     "oorwin": ("*.oorwin.com", r"https?://([a-z0-9-]+)\.oorwin\.com/careers", lambda m, u: m.group(1)),
     "teamtailor": ("*.teamtailor.com", r"https?://([a-z0-9-]+\.teamtailor\.com)/jobs/\d+", lambda m, u: m.group(1)),
     "gem": ("jobs.gem.com/*", r"jobs\.gem\.com/([a-z0-9_-]+)/", lambda m, u: m.group(1)),
-    "dover": ("app.dover.com/apply/*", r"app\.dover\.com/apply/([^/]+)/", lambda m, u: m.group(1)),
+    "dover": ("app.dover.com/jobs/*", r"app\.dover\.com/jobs/([a-z0-9-]+)/?$", lambda m, u: m.group(1)),
     "breezy": ("*.breezy.hr", r"https?://([a-z0-9-]+)\.breezy\.hr/p/", lambda m, u: m.group(1)),
     "dayforce": ("jobs.dayforcehcm.com/*", r"jobs\.dayforcehcm\.com/[a-z]{2}-[A-Z]{2}/([a-z0-9_-]+)/([A-Za-z0-9_-]+)",
                  lambda m, u: f"{m.group(1)}|{m.group(2)}"),
@@ -54,12 +53,14 @@ def cc_samples(ats, want=3):
     except Exception as e:
         print(f"  CC lookup failed: {e}"); return []
     out = []
-    for line in r.text.splitlines():
+    lines = r.text.splitlines()
+    print(f"  CC {pat}: HTTP {r.status_code}, {len(lines)} urls, first={lines[0][:120] if lines else ''}")
+    for line in lines:
         try:
             u = json.loads(line)["url"]
         except Exception:
             continue
-        m = re.search(rx, u)
+        m = re.search(rx, u, re.I)
         if m:
             b = mk(m, u)
             if b not in out:
@@ -72,8 +73,14 @@ def cc_samples(ats, want=3):
 
 def paylocity_guid(jobid):
     html = get_text(f"https://recruiting.paylocity.com/Recruiting/Jobs/Details/{jobid}")
-    m = re.search(r"/Recruiting/Jobs/All/([0-9a-fA-F-]{36})", html)
-    return m.group(1) if m else None
+    guids = re.findall(r"[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}", html)
+    print(f"  paylocity page {len(html)} chars; guids: {sorted(set(guids))[:5]}")
+    for k in ("CompanyId", "companyId", "ModuleId", "Jobs/All", "jobs/all"):
+        i = html.find(k)
+        if i >= 0:
+            print(f"    ...{html[max(0, i-80):i+120]!r}")
+    m = re.search(r"/Recruiting/Jobs/All/([0-9a-fA-F-]{36})", html, re.I)
+    return m.group(1) if m else (guids[0] if guids else None)
 
 
 def main():

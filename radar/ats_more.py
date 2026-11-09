@@ -250,9 +250,16 @@ def sfrmk_detail(job: Job) -> None:
     t = soup.select_one('[itemprop="title"]') or soup.find("h1")
     if t:
         job.title = t.get_text(" ", strip=True)
-    loc = soup.select_one('[itemprop="jobLocation"], .jobGeoLocation, [data-careersite-propertyid="city"]')
-    if loc:
+    loc = soup.select_one(".jobGeoLocation") or soup.select_one('[data-careersite-propertyid="location"]')
+    if loc and loc.get_text(strip=True):
         job.location = loc.get_text(" ", strip=True)
+    else:
+        parts = [m.get("content") for m in soup.select('meta[itemprop="addressLocality"], meta[itemprop="addressRegion"], meta[itemprop="addressCountry"]')]
+        if any(parts):
+            job.location = ", ".join(p for p in parts if p)
+    og = soup.select_one('meta[property="og:site_name"]')
+    if og and og.get("content") and job.company_guess:
+        job.company = og["content"]
     dp = soup.select_one('[itemprop="datePosted"]')
     if dp:
         job.posted_at = parse_when(dp.get("content") or dp.get_text(strip=True)) or job.posted_at
@@ -318,16 +325,21 @@ def taleo_list(b: Board, max_pages: int = 3) -> list[Job]:
             if not jid or jid in seen or not cols:
                 continue
             seen.add(jid)
-            locs = cols[1] if len(cols) > 1 else ""
-            if isinstance(locs, str) and locs.startswith("["):
+            texts = [c for c in cols if isinstance(c, str)]
+            title_i = 1 if len(texts) > 1 and (texts[0] == jid or texts[0].isdigit()) else 0
+            title = texts[title_i] if texts else ""
+            locs = next((c for c in texts[title_i + 1:] if c.startswith("[")), "")
+            if locs:
                 try:
                     import json as _j
                     locs = "; ".join(_j.loads(locs))
                 except ValueError:
                     pass
-            posted = next((parse_when(c) for c in cols[2:] if isinstance(c, str) and parse_when(c)), None)
+            else:
+                locs = next((c for c in texts[title_i + 1:] if c and not parse_when(c) and not c.isdigit()), "")
+            posted = next((parse_when(c) for c in texts[title_i + 1:] if parse_when(c)), None)
             jurl = f"{host}/careersection/{section}/jobdetail.ftl?job={jid}&lang=en"
-            jobs.append(_job(b, job_id=jid, title=htmllib.unescape(str(cols[0])), url=jurl, location=str(locs),
+            jobs.append(_job(b, job_id=jid, title=htmllib.unescape(title), url=jurl, location=str(locs),
                              posted_at=posted, needs_detail=True, detail_ref=jurl))
         total = (data.get("pagingData") or {}).get("totalCount") or 0
         if not rows or len(seen) >= total:
@@ -449,20 +461,25 @@ def eightfold_list(b: Board, num: int = 100) -> list[Job]:
     try:
         url = f"https://{host}/api/pcsx/search"
         robots.check(url)
-        data = get_json(url, params={"domain": domain, "query": "", "location": "", "start": 0,
-                                     "num": num, "sort_by": "timestamp"})
-        rows = (data.get("data") or {}).get("positions") or []
-        for p in rows:
-            pid = str(p.get("id") or "")
-            if not pid:
-                continue
-            locs = p.get("standardizedLocations") or p.get("locations") or []
-            jobs.append(_job(b, job_id=pid, title=(p.get("name") or "").strip(),
-                             url=urljoin(f"https://{host}", p.get("positionUrl") or f"/careers/job/{pid}?domain={domain}"),
-                             location="; ".join(map(str, locs[:4])),
-                             posted_at=parse_when(p.get("postedTs") or p.get("creationTs")),
-                             workplace=_wp(p.get("workLocationOption")),
-                             needs_detail=True, detail_ref=f"https://{host}/api/apply/v2/jobs/{pid}?domain={domain}"))
+        seen = set()
+        for start in range(0, num, 10):
+            data = get_json(url, params={"domain": domain, "query": "", "location": "", "start": start,
+                                         "sort_by": "timestamp"})
+            rows = (data.get("data") or {}).get("positions") or []
+            for p in rows:
+                pid = str(p.get("id") or "")
+                if not pid or pid in seen:
+                    continue
+                seen.add(pid)
+                locs = p.get("standardizedLocations") or p.get("locations") or []
+                jobs.append(_job(b, job_id=pid, title=(p.get("name") or "").strip(),
+                                 url=urljoin(f"https://{host}", p.get("positionUrl") or f"/careers/job/{pid}?domain={domain}"),
+                                 location="; ".join(map(str, locs[:4])),
+                                 posted_at=parse_when(p.get("postedTs") or p.get("creationTs")),
+                                 workplace=_wp(p.get("workLocationOption")),
+                                 needs_detail=True, detail_ref=f"https://{host}/api/apply/v2/jobs/{pid}?domain={domain}"))
+            if len(rows) < 10 or len(seen) >= int((data.get("data") or {}).get("count") or 10 ** 6):
+                break
         return jobs
     except FetchError as e:
         if e.status not in (404, 400):
@@ -877,7 +894,7 @@ LISTERS = {
     "paylocity": paylocity_list, "taleo": taleo_list, "avature": avature_list, "phenom": phenom_list,
     "eightfold": eightfold_list, "jibe": jibe_list, "breezy": breezy_list, "pinpoint": pinpoint_list,
     "teamtailor": teamtailor_list, "dover": dover_list, "gem": gem_list, "ukg": ukg_list,
-    "ukgready": ukgready_list, "dayforce": dayforce_list, "adp": adp_list, "manatal": manatal_list,
+    "dayforce": dayforce_list, "adp": adp_list, "manatal": manatal_list,
     "hireology": hireology_list, "oorwin": oorwin_list,
 }
 DETAILERS = {
