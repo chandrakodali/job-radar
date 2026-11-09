@@ -18,651 +18,6 @@
   "core_remaining": 0,
   "pending": [
     {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/pa/bradford-woods",
-      "label": "Bradford Woods",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/pa/duryea",
-      "label": "Duryea",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/pa/lansdale",
-      "label": "Lansdale",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/pa/montgomeryville",
-      "label": "Montgomeryville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/pa/pittston",
-      "label": "Pittston",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/pa/wexford",
-      "label": "Wexford",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/sc/catawba",
-      "label": "Catawba",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/sc/florence",
-      "label": "Florence",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/sc/mauldin",
-      "label": "Mauldin",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/tn/jackson",
-      "label": "Jackson",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/tn/signal-mountain",
-      "label": "Signal Mountain",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/tx/cedar-park",
-      "label": "Cedar Park",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/tx/killeen",
-      "label": "Killeen",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/tx/klein",
-      "label": "Klein",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/tx/la-porte",
-      "label": "La Porte",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ut/lindon",
-      "label": "Lindon",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ut/morgan",
-      "label": "Morgan",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ut/riverton",
-      "label": "Riverton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ut/springville",
-      "label": "Springville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/va/bealeton",
-      "label": "Bealeton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/va/blackstone",
-      "label": "Blackstone",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/va/front-royal",
-      "label": "Front Royal",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/va/scottsville",
-      "label": "Scottsville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/wa/leavenworth",
-      "label": "Leavenworth",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/wa/quincy",
-      "label": "Quincy",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/wa/ridgefield",
-      "label": "Ridgefield",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/wi/de-pere",
-      "label": "De Pere",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/wi/port-washington",
-      "label": "Port Washington",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/wi/wisconsin-dells",
-      "label": "Wisconsin Dells",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ak/fort-greely",
-      "label": "Fort Greely",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/al/bay-minette",
-      "label": "Bay Minette",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/al/mooresville",
-      "label": "Mooresville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/az/clarkdale",
-      "label": "Clarkdale",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/az/marana",
-      "label": "Marana",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/az/rio-rico",
-      "label": "Rio Rico",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/az/whiteriver",
-      "label": "Whiteriver",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ca/alameda",
-      "label": "Alameda",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ca/calabasas",
-      "label": "Calabasas",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ca/commerce",
-      "label": "Commerce",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ca/emeryville",
-      "label": "Emeryville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ca/hollister",
-      "label": "Hollister",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ca/sanger",
-      "label": "Sanger",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ca/south-gate",
-      "label": "South Gate",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ca/walnut",
-      "label": "Walnut",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/co/alamosa",
-      "label": "Alamosa",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/co/niwot",
-      "label": "Niwot",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/co/schriever-air-force-base",
-      "label": "Schriever Air Force Base",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/co/windsor",
-      "label": "Windsor",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ct/new-london",
-      "label": "New London",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ct/north-branford",
-      "label": "North Branford",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ct/norwalk",
-      "label": "Norwalk",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ct/portland",
-      "label": "Portland",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/fl/celebration",
-      "label": "Celebration",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/fl/dania-beach",
-      "label": "Dania Beach",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/fl/lake-buena-vista",
-      "label": "Lake Buena Vista",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/fl/ocala",
-      "label": "Ocala",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/fl/palm-city",
-      "label": "Palm City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/fl/pinellas-park",
-      "label": "Pinellas Park",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/fl/punta-gorda",
-      "label": "Punta Gorda",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ga/bogart",
-      "label": "Bogart",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ga/fort-valley",
-      "label": "Fort Valley",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ga/kennesaw",
-      "label": "Kennesaw",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ga/powder-springs",
-      "label": "Powder Springs",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ga/statesboro",
-      "label": "Statesboro",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ia/johnston",
-      "label": "Johnston",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/id/hidden-springs",
-      "label": "Hidden Springs",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/il/bedford-park",
-      "label": "Bedford Park",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/il/effingham",
-      "label": "Effingham",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/il/elgin",
-      "label": "Elgin",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/il/glendale-heights",
-      "label": "Glendale Heights",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/il/granite-city",
-      "label": "Granite City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/il/joliet",
-      "label": "Joliet",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/il/manteno",
-      "label": "Manteno",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/il/nashville",
-      "label": "Nashville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/il/vandalia",
-      "label": "Vandalia",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/in/merrillville",
-      "label": "Merrillville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/in/middlebury",
-      "label": "Middlebury",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/in/princeton",
-      "label": "Princeton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ks/goodland",
-      "label": "Goodland",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ky/elizabethtown",
-      "label": "Elizabethtown",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ky/grymr-devndle",
-      "label": "Grymr-Devndle",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ky/rochester",
-      "label": "Rochester",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/la/westwego",
-      "label": "Westwego",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ma/auburn",
-      "label": "Auburn",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ma/concord",
-      "label": "Concord",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ma/dartmouth",
-      "label": "Dartmouth",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ma/salem",
-      "label": "Salem",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ma/watertown",
-      "label": "Watertown",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/md/camp-springs",
-      "label": "Camp Springs",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/md/fort-washington",
-      "label": "Fort Washington",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/md/maryland-city",
-      "label": "Maryland City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/md/severn",
-      "label": "Severn",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/md/taneytown",
-      "label": "Taneytown",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/md/woodlawn",
-      "label": "Woodlawn",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/me/augusta",
-      "label": "Augusta",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/mi/cadillac",
-      "label": "Cadillac",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/mi/holland",
-      "label": "Holland",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/mi/monroe",
-      "label": "Monroe",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/mi/pickford",
-      "label": "Pickford",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/mi/roseville",
-      "label": "Roseville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/mi/warren",
-      "label": "Warren",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/mn/albert-lea",
-      "label": "Albert Lea",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/mn/fridley",
-      "label": "Fridley",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/mo/festus",
-      "label": "Festus",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ms/ridgeland",
-      "label": "Ridgeland",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ms/yazoo-city",
-      "label": "Yazoo City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nc/brentwood",
-      "label": "Brentwood",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nc/henderson",
-      "label": "Henderson",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nc/kernersville",
-      "label": "Kernersville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nc/marion",
-      "label": "Marion",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nc/morganton",
-      "label": "Morganton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nc/rockingham",
-      "label": "Rockingham",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nc/salem",
-      "label": "Salem",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nj/clark",
-      "label": "Clark",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nj/cranbury-township",
-      "label": "Cranbury Township",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nj/edison",
-      "label": "Edison",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nj/monroe-township",
-      "label": "Monroe Township",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nj/montvale",
-      "label": "Montvale",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nj/paulsboro",
-      "label": "Paulsboro",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nm/bayard",
-      "label": "Bayard",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nm/mescalero",
-      "label": "Mescalero",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nm/valencia",
-      "label": "Valencia",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nm/white-sands",
-      "label": "White Sands",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/ardsley",
-      "label": "Ardsley",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/armonk",
-      "label": "Armonk",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/briarcliff-manor",
-      "label": "Briarcliff Manor",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/camillus",
-      "label": "Camillus",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/central-islip",
-      "label": "Central Islip",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/deer-park",
-      "label": "Deer Park",
-      "count": 1
-    },
-    {
       "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/east-norwich",
       "label": "East Norwich",
       "count": 1
@@ -3860,6 +3215,168 @@
     {
       "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/pa/baden",
       "label": "Baden",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/pa/bradford-woods",
+      "label": "Bradford Woods",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/pa/montgomeryville",
+      "label": "Montgomeryville",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/pa/wexford",
+      "label": "Wexford",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/sc/mauldin",
+      "label": "Mauldin",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/tx/killeen",
+      "label": "Killeen",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ut/morgan",
+      "label": "Morgan",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/va/bealeton",
+      "label": "Bealeton",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/va/scottsville",
+      "label": "Scottsville",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/wi/port-washington",
+      "label": "Port Washington",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/co/niwot",
+      "label": "Niwot",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ct/norwalk",
+      "label": "Norwalk",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/fl/palm-city",
+      "label": "Palm City",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/la/westwego",
+      "label": "Westwego",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ma/auburn",
+      "label": "Auburn",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/md/fort-washington",
+      "label": "Fort Washington",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/mi/cadillac",
+      "label": "Cadillac",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/mn/fridley",
+      "label": "Fridley",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nc/marion",
+      "label": "Marion",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nj/clark",
+      "label": "Clark",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nj/monroe-township",
+      "label": "Monroe Township",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nj/paulsboro",
+      "label": "Paulsboro",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/nm/white-sands",
+      "label": "White Sands",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/ardsley",
+      "label": "Ardsley",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/armonk",
+      "label": "Armonk",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/briarcliff-manor",
+      "label": "Briarcliff Manor",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/central-islip",
+      "label": "Central Islip",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/deer-park",
+      "label": "Deer Park",
       "count": 1,
       "deferred_once": true
     }
