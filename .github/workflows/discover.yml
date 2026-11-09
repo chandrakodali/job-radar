@@ -24,7 +24,7 @@ concurrency:
 jobs:
   discover:
     runs-on: ubuntu-latest
-    timeout-minutes: 150
+    timeout-minutes: 110
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6
@@ -33,7 +33,7 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - name: Find and check new boards
-        run: python scripts/discover_boards.py --budget-min 120 --max-pages "${{ inputs.max_pages || '30' }}" --only "${{ inputs.only }}"
+        run: python scripts/discover_boards.py --budget-min 90 --max-pages "${{ inputs.max_pages || '30' }}" --only "${{ inputs.only }}"
       - name: Save
         run: |
           git config user.name "job-radar-bot"

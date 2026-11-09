@@ -152,29 +152,36 @@ class CC:
     def __init__(self, crawls: int, max_pages: int, budget_s: float):
         self.s = requests.Session()
         self.s.headers["User-Agent"] = UA
+        self.failures_in_row = 0
         self.max_pages = max_pages
         self.deadline = time.monotonic() + budget_s
-        info = self._get("https://index.commoncrawl.org/collinfo.json").json()
-        self.apis = [c["cdx-api"] for c in info[:crawls]]
+        try:
+            info = self._get("https://index.commoncrawl.org/collinfo.json").json()
+            self.apis = [c["cdx-api"] for c in info[:crawls]]
+        except (RuntimeError, TimeoutError, ValueError) as e:
+            log.warning("Common Crawl index list unavailable: %s", e)
+            self.apis = []
         log.info("Common Crawl indexes: %s", [a.rsplit("/", 1)[-1] for a in self.apis])
 
     def _get(self, url, params=None):
-        for attempt in range(6):
+        if self.failures_in_row >= 12:
+            raise TimeoutError("Common Crawl index is overloaded; moving on with what was found")
+        for attempt in range(3):
             if time.monotonic() > self.deadline:
                 raise TimeoutError("discovery time budget used up")
             try:
-                r = self.s.get(url, params=params, timeout=120)
+                r = self.s.get(url, params=params, timeout=60)
             except requests.RequestException as e:
                 log.warning("CC %s: %s", type(e).__name__, url)
-                time.sleep(10 * (attempt + 1))
+                time.sleep(5 * (attempt + 1))
                 continue
-            if r.status_code == 200:
+            if r.status_code in (200, 404):
+                self.failures_in_row = 0
                 time.sleep(1.0)  # be gentle with a free public service
                 return r
-            if r.status_code == 404:
-                return r
             log.warning("CC HTTP %s (attempt %d)", r.status_code, attempt + 1)
-            time.sleep(15 * (attempt + 1))
+            time.sleep(8 * (attempt + 1))
+        self.failures_in_row += 1
         raise RuntimeError("Common Crawl index unavailable")
 
     def urls(self, pattern: str):
@@ -185,7 +192,7 @@ class CC:
                 if r.status_code == 404:
                     continue
                 pages = int(json.loads(r.text.strip().splitlines()[0]).get("pages", 0))
-            except (ValueError, KeyError, RuntimeError) as e:
+            except (ValueError, KeyError, RuntimeError, IndexError) as e:
                 log.warning("CC page count failed for %s: %s", pattern, e)
                 continue
             todo = list(range(pages))
@@ -195,9 +202,9 @@ class CC:
             for p in todo:
                 try:
                     r = self._get(api, {**base, "page": str(p)})
-                except (RuntimeError, TimeoutError) as e:
-                    log.warning("stopping %s: %s", pattern, e)
-                    break
+                except RuntimeError as e:
+                    log.warning("skipping a page of %s: %s", pattern, e)
+                    continue
                 for line in r.text.splitlines():
                     try:
                         yield json.loads(line)["url"]
@@ -252,7 +259,7 @@ def main(argv=None) -> int:
     args = ap.parse_args(argv)
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     only = {x.strip() for x in args.only.split(",") if x.strip()}
-    cc = CC(args.crawls, args.max_pages, args.budget_min * 60 * 0.6)
+    cc = CC(args.crawls, args.max_pages, args.budget_min * 60 * 0.5)
     known = known_keys()
     found: dict[str, set[str]] = defaultdict(set)
     for ats, patterns, ex in SOURCES:
@@ -269,8 +276,9 @@ def main(argv=None) -> int:
                     if b and b.lower() not in seen_lower and f"{ats}:{b.lower()}" not in known:
                         seen_lower.add(b.lower())
                         found[ats].add(b)
-        except TimeoutError:
-            log.warning("Index time budget used up at %s", ats)
+        except TimeoutError as e:
+            log.warning("Index phase stopped at %s: %s", ats, e)
+            log.info("%s: %d new candidate boards", ats, len(found[ats]))
             break
         log.info("%s: %d new candidate boards", ats, len(found[ats]))
 
@@ -278,7 +286,7 @@ def main(argv=None) -> int:
     sems = defaultdict(lambda: threading.Semaphore(6))
     sems["workable"] = threading.Semaphore(1)
     sems["workday"] = threading.Semaphore(4)
-    deadline = time.monotonic() + args.budget_min * 60 * 0.4
+    deadline = time.monotonic() + args.budget_min * 60 * 0.45
 
     def run(ats, board):
         if time.monotonic() > deadline:
