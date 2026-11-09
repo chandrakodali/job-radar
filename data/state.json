@@ -4452,8 +4452,9 @@
    "since": "2026-11-08"
   },
   "workday:aah|wd5|External": {
+   "disabled_until": "2026-11-16",
    "err": "HTTP 410",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-08"
   },
   "workday:amplify|wd1|Amplify_Careers": {
@@ -4480,13 +4481,15 @@
    "since": "2026-11-07"
   },
   "workday:condenast|wd5|CondeCareers": {
+   "disabled_until": "2026-11-16",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-08"
   },
   "workday:cspire-telapex|wd12|external-careers": {
+   "disabled_until": "2026-11-16",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-08"
   },
   "workday:dell|wd1|External": {
@@ -4503,7 +4506,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -4543,8 +4546,9 @@
    "since": "2026-11-08"
   },
   "workday:liveramp|wd5|LiveRampCareers": {
+   "disabled_until": "2026-11-16",
    "err": "HTTP 403",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-08"
   },
   "workday:montrose|wd1|meg": {
@@ -4566,8 +4570,9 @@
    "since": "2026-11-07"
   },
   "workday:nxp|wd3|careers": {
+   "disabled_until": "2026-11-16",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-08"
   },
   "workday:onedigital|wd5|onedigital": {
@@ -4589,18 +4594,21 @@
    "since": "2026-11-07"
   },
   "workday:osv-cfainstitute|wd5|Careers": {
+   "disabled_until": "2026-11-16",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-08"
   },
   "workday:osv-chegg|wd5|Chegg": {
+   "disabled_until": "2026-11-16",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-08"
   },
   "workday:osv-rubicon|wd5|MagniteCareers": {
+   "disabled_until": "2026-11-16",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-08"
   },
   "workday:osv-tifec|wd5|SportingKC": {
@@ -4646,8 +4654,9 @@
    "since": "2026-11-08"
   },
   "workday:vhr-genband|wd1|ribboncareers": {
+   "disabled_until": "2026-11-16",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-08"
   },
   "workday:vhr-otsuka|wd1|External": {
