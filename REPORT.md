@@ -2,14 +2,16 @@
 
 Watching **6,608 company job boards** every 30 minutes for entry-friendly DevOps, SRE, cloud, platform and infrastructure roles in the US.
 
-Last new match: **Mon Nov 09, 12:05 AM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
+Last new match: **Mon Nov 09, 10:04 AM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
 
-## Posted in the last 24 hours (39)
+## Posted in the last 24 hours (43)
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
+| 65 | [Systems Reliability Engineer - All Levels](https://jobs.ashbyhq.com/allen-control-systems/3075ceee-6a85-4170-9ffc-3e2f11697db7) | Allen Control Systems | Austin, TX | Nov 09 |  |
 | 62 | [Software Automation & Platform Engineer — Federal Health IT](https://job-boards.greenhouse.io/rackner/jobs/4752573005) | Rackner | Remote — United States (remote) | Nov 08 |  |
 | 60 | [Junior DevOps Engineer](https://gliacelltechnologies.applytojob.com/apply/JQlreBpfqn/Junior-DevOps-Engineer) | GliaCell Technologies | Annapolis Junction, MD or Hanover, MD | Nov 08 | entry-level title |
+| 60 | [NVIDIA Infrastructure Engineer — NVIDIA V100 or A100](https://jobs.smartrecruiters.com/SyncreonConsulting/744000160637865-nvidia-infrastructure-engineer-nvidia-v100-or-a100-) | Syncreon Consulting | New York, NY, United States | Nov 09 | staffing/consulting firm: verify it's real; repost |
 | 50 | [Dev Ops Engineer (2026-0131)](https://acclaimtechnicalservices.applytojob.com/apply/cy8dflIrzs/Dev-Ops-Engineer-20260131) | Acclaim Technical Services | Bethesda, MD | Nov 08 |  |
 | 50 | [Cloud Software Engineer](https://gliacelltechnologies.applytojob.com/apply/baEDGMvNiz/Cloud-Software-Engineer) | GliaCell Technologies | Annapolis Junction, MD | Nov 08 |  |
 | 50 | [DevOps Engineer](https://gliacelltechnologies.applytojob.com/apply/brDUtvERaT/DevOps-Engineer) | GliaCell Technologies | Annapolis Junction, MD | Nov 08 |  |
@@ -22,9 +24,10 @@ Last new match: **Mon Nov 09, 12:05 AM CST**. Score is 0–100 (higher = better 
 | 50 | [Site Reliability Engineer](https://foxconnassemblyllc.applytojob.com/apply/E0O1xyL5jx/Site-Reliability-Engineer) | Foxconn Industrial Internet | San Jose, CA | Nov 08 |  |
 | 50 | [GCP GEN-AI Engineer](https://crackajackdigitalsolutionsllc.applytojob.com/apply/fOBVBHxHSf/GCP-GENAI-Engineer) | CrackaJack Digital Solutions … | Phoenix, AZ | Nov 08 |  |
 | 50 | [Network Infrastructure Engineer](https://crackajackdigitalsolutionsllc.applytojob.com/apply/e4aCbhwy6u/Network-Infrastructure-Engineer) | CrackaJack Digital Solutions … | Jackson, MS | Nov 08 |  |
+| 50 | [Network Engineer - Tier 1](https://job-boards.greenhouse.io/assystinc/jobs/4486030009) | ASSYST | Arlington VA | Nov 09 |  |
 | 45 | [Cloud Software Engineer, Level 2](https://independentsoftware.applytojob.com/apply/KOjVyD9urd/Cloud-Software-Engineer-Level-2) | Independent Software | Annapolis Junction, MD | Nov 08 |  |
 | 45 | [Service Engineer (DevSecOps) II](https://cloudfitsoftware.applytojob.com/apply/g8DkGtdsrt/Service-Engineer-DevSecOps-II) | CloudFit Software | Lynchburg, VA | Nov 08 |  |
-| 45 | [Systems Administrator II](https://job-boards.greenhouse.io/caredxinc/jobs/4459548009) | Caredxinc | United States | Nov 08 | 4+ yrs exp; E-Verify |
+| 45 | [Cloud Test Development Engineer](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Cloud-Test-Development-Engineer_J2458759) | Jabil | Florence, KY | Nov 08 | 5+ yrs exp |
 | 40 | [ML/AI Data and Cloud Engineer](https://jobs.jobvite.com/tylertech/job/oBQjAfw4) | Tyler Technologies | 2 Locations | Nov 08 | 3+ yrs exp; location unclear |
 | 35 | [Production Engineer/ Research Science Specialist (1704)](https://aramcoservices.applytojob.com/apply/kE456nZMrm/Production-Engineer-Research-Science-Specialist-1704) | Aramco Americas | Houston, TX | Nov 08 |  |
 | 35 | [Information Technology Systems Administrator](https://ketkentuckyeducationaltelevision.applytojob.com/apply/vz6bGjb10L/Information-Technology-Systems-Administrator) | KET-Kentucky Educational Tele… | Lexington, KY | Nov 08 |  |
@@ -45,10 +48,11 @@ Last new match: **Mon Nov 09, 12:05 AM CST**. Score is 0–100 (higher = better 
 | 30 | [System Administrator, Level 2](https://independentsoftware.applytojob.com/apply/teYXn9VWGo/System-Administrator-Level-2) | Independent Software | Annapolis Junction, MD | Nov 08 |  |
 | 30 | [Systems Administrator (Gov't Tech)](https://jobs.jobvite.com/sikichcareers/job/oQ7EAfwV) | Sikich | Washington, District Of Columbia | Nov 08 | 4+ yrs exp |
 | 30 | [Cloud Automation & Governance Engineer](https://jobs.jobvite.com/nutanix/job/oI7QAfwZ) | Nutanix | San Jose, California | Nov 08 | 7+ yrs exp |
+| 30 | [Network Administrator](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=18113&lang=en) | AAR | United States-Illinois-Wood Dale | Nov 08 | 5+ yrs exp |
 | 25 | [Network Engineer Level II (Firewall) / Req#4543](https://jobs.jobvite.com/actionet/job/oglUzfwO) | ActioNet | Rosslyn, Virginia | Nov 08 | 3+ yrs exp |
 | 20 | [SRE 2 Enterprise Tech Support (Virtualization & Networking)](https://jobs.jobvite.com/nutanix/job/oEJIAfwp) | Nutanix | 2 Locations | Nov 08 | 5+ yrs exp; location unclear |
 
-## Found this week, posted earlier (309)
+## Found this week, posted earlier (310)
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
@@ -200,10 +204,10 @@ Last new match: **Mon Nov 09, 12:05 AM CST**. Score is 0–100 (higher = better 
 | 45 | [DevOps Engineer](https://jobs.ashbyhq.com/Span.app/00de323d-8842-470f-af05-91643597bb11) | Span App | Remote (USA); Buenos Aires, Argentina; … (remote) | Nov 04 | 4+ yrs exp |
 | 45 | [Observability Engineer](https://jobs.ashbyhq.com/openloophealth/d1e8a8c6-8205-4057-8e5d-597c9df3f724) | OpenLoop | United States - Remote (remote) | Nov 04 | 3+ yrs exp |
 | 45 | [MLOps / DevOps Engineer – AI Infrastructure](https://jobs.ashbyhq.com/creatoriq/e88a2ed2-52d8-45c7-9c6c-e372fec21cfb) | Creatoriq | New York; New Jersey; Los Angeles; San … (remote) | Nov 04 | 3+ yrs exp |
+| 45 | [Systems Administrator II](https://job-boards.greenhouse.io/caredxinc/jobs/4459548009) | Caredxinc | United States | Nov 08 | 4+ yrs exp; E-Verify |
 | 43 | [DevOps Technical Engineer](https://airliquidehr.wd3.myworkdayjobs.com/AirgasExternalCareer/job/Radnor-PA-Airgas-HO---Management---Digital--IT-Airgas/DevOps-Technical-Engineer_R10103870) | Airgas | Radnor, PA (Airgas HO) - Management - D… | Nov 01 | 3+ yrs exp; no future H-1B sponsorship |
-| 43 | [Build Engineer](https://jobs.ashbyhq.com/Etched/4020db7a-1ec0-48e3-9bbd-f1337c63a403) | Etched | San Jose (onsite) | Nov 02 |  |
 
-## Hidden from alerts: clearance/citizenship or rejected by the AI check (357 this week)
+## Hidden from alerts: clearance/citizenship or rejected by the AI check (360 this week)
 
 Clearance, US citizenship or ITAR requirements (which F-1/OPT holders can't meet), or jobs the AI reviewer judged off-target or too senior. The reason is in the flags column. Listed so you can double-check.
 
