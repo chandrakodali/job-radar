@@ -102,6 +102,33 @@ def find_jobposting(page: str) -> dict | None:
     return None
 
 
+ISO2 = {
+    "US": "United States", "CA": "Canada", "MX": "Mexico", "GB": "United Kingdom", "UK": "United Kingdom",
+    "IE": "Ireland", "DE": "Germany", "FR": "France", "ES": "Spain", "PT": "Portugal", "IT": "Italy",
+    "NL": "Netherlands", "BE": "Belgium", "LU": "Luxembourg", "CH": "Switzerland", "AT": "Austria",
+    "DK": "Denmark", "SE": "Sweden", "NO": "Norway", "FI": "Finland", "IS": "Iceland", "PL": "Poland",
+    "CZ": "Czech Republic", "SK": "Slovakia", "HU": "Hungary", "RO": "Romania", "BG": "Bulgaria",
+    "GR": "Greece", "HR": "Croatia", "SI": "Slovenia", "RS": "Serbia", "UA": "Ukraine", "LT": "Lithuania",
+    "LV": "Latvia", "EE": "Estonia", "TR": "Turkey", "IL": "Israel", "AE": "United Arab Emirates",
+    "SA": "Saudi Arabia", "QA": "Qatar", "EG": "Egypt", "ZA": "South Africa", "NG": "Nigeria", "KE": "Kenya",
+    "MA": "Morocco", "IN": "India", "PK": "Pakistan", "BD": "Bangladesh", "LK": "Sri Lanka", "CN": "China",
+    "HK": "Hong Kong", "TW": "Taiwan", "JP": "Japan", "KR": "South Korea", "SG": "Singapore", "MY": "Malaysia",
+    "TH": "Thailand", "VN": "Vietnam", "PH": "Philippines", "ID": "Indonesia", "AU": "Australia",
+    "NZ": "New Zealand", "BR": "Brazil", "AR": "Argentina", "CL": "Chile", "CO": "Colombia", "PE": "Peru",
+    "CR": "Costa Rica", "UY": "Uruguay", "PA": "Panama", "GT": "Guatemala", "DO": "Dominican Republic",
+    "PR": "Puerto Rico", "MT": "Malta", "CY": "Cyprus", "AM": "Armenia", "GE": "Georgia (country)",
+    "KZ": "Kazakhstan", "MD": "Moldova", "ME": "Montenegro", "MN": "Mongolia", "AL": "Albania",
+}
+
+
+def country_name(c: str) -> str:
+    """'DE' -> 'Germany'; full names pass through. Keeps 2-letter codes from reading as US states."""
+    c = (c or "").strip()
+    if c.upper() in ("USA", "U.S.", "U.S.A."):
+        return "United States"
+    return ISO2.get(c.upper(), c) if len(c) == 2 else c
+
+
 def _name(v) -> str:
     if isinstance(v, dict):
         return str(v.get("name") or v.get("@id") or "").strip()
@@ -128,7 +155,7 @@ def jobposting_location(p: dict) -> tuple[str, list[str], str]:
         city = _name(a.get("addressLocality"))
         region = _name(a.get("addressRegion"))
         country = _name(a.get("addressCountry"))
-        parts = [x for x in (city, region, country) if x and x.upper() not in ("UNAVAILABLE", "N/A", "NULL")]
+        parts = [x for x in (city, region, country_name(country)) if x and x.upper() not in ("UNAVAILABLE", "N/A", "NULL")]
         if parts:
             locs.append(", ".join(parts))
         if country and country.upper() not in ("UNAVAILABLE", "N/A"):

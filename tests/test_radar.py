@@ -465,3 +465,16 @@ def test_discovered_rotation(tmp_path, monkeypatch):
     # every run: the curated board plus the next 2 discovered ones, wrapping around
     assert seen == ["acme", "co0", "co1", "acme", "co2", "co3", "acme", "co4", "co0"] or \
         sorted(seen) == sorted(["acme", "co0", "co1", "acme", "co2", "co3", "acme", "co4", "co0"])
+
+
+def test_country_codes_are_not_us_states():
+    from radar.ats_more import rmk_location
+    from radar.feeds import jobposting_location
+    assert classify_location(*rmk_location("Muenchen, DE")) == "non_us"
+    assert classify_location(*rmk_location("Tampa, FL, US, 33605")) == "us"
+    loc, ctry, _ = jobposting_location({"jobLocation": {"address": {"addressLocality": "Bangalore", "addressRegion": "KA",
+                                                                     "addressCountry": "IN"}}})
+    assert loc == "Bangalore, KA, India" and classify_location(loc, ctry) == "non_us"
+    loc, ctry, _ = jobposting_location({"jobLocation": [{"address": {"addressLocality": "Austin", "addressRegion": "TX",
+                                                                      "addressCountry": "US"}}]})
+    assert classify_location(loc, ctry) == "us"

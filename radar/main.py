@@ -259,10 +259,11 @@ def run(args) -> int:
     rules_sig = hashlib.sha1(json.dumps(cfg.get("titles", {}), sort_keys=True).encode()).hexdigest()[:12]
     if state.get("title_rules") != rules_sig and not args.no_write:
         old = read_matches()
-        gone = [r for r in old if not title_category(r["title"], rules)]
+        gone = [r for r in old if not title_category(r["title"], rules)
+                or (r.get("ats") == "sfrmk" and classify_location(*ats_more.rmk_location(r["location"])) == "non_us")]
         if gone:
             update_matches({}, {r["uid"] for r in gone})
-            append_rejected([{**r, "reject_reason": "rules: role no longer in the target list"} for r in gone])
+            append_rejected([{**r, "reject_reason": "rules: role or location no longer in the target list"} for r in gone])
             log.info("Title rules changed: moved %d saved matches that no longer fit to rejected.csv", len(gone))
         state["title_rules"] = rules_sig
 

@@ -33,13 +33,17 @@ from datetime import timezone
 from urllib.parse import quote, urlencode, urljoin, urlsplit
 
 from . import robots
-from .ats import html_to_text
-from .feeds import (anchors, bracket_json, find_jobposting, jobposting_fields, parse_when, rss_items,
+from .feeds import (anchors, bracket_json, country_name, find_jobposting, jobposting_fields, parse_when, rss_items,
                     sitemap, slug_words)
 from .http import FetchError, get_json, get_text, post_json
 from .models import Board, Job
 
 MAX_JOBS = 1500  # per board; guards against runaway pagination
+
+
+def html_to_text(x) -> str:
+    from .ats import html_to_text as h  # late import: radar.ats imports this module at its end
+    return h(x)
 
 
 def _page(url: str, **kw) -> str:
@@ -241,6 +245,18 @@ def sfrmk_list(b: Board) -> list[Job]:
     return jobs[:MAX_JOBS]
 
 
+def rmk_location(text: str) -> tuple[str, list[str]]:
+    """SuccessFactors writes 'City, Region, CC, Zip' (e.g. 'Muenchen, DE' or 'Tampa, FL, US, 33605').
+    The last letters-only part is the country code, so 'DE' is Germany here, not Delaware."""
+    parts = [p.strip() for p in text.split(",") if p.strip()]
+    while parts and re.search(r"\d", parts[-1]):
+        parts.pop()  # postal code
+    if len(parts) >= 2 and re.fullmatch(r"[A-Z]{2}", parts[-1]):
+        cc = parts[-1]
+        return ", ".join(parts[:-1] + [country_name(cc)]), [cc]
+    return ", ".join(parts), []
+
+
 def sfrmk_detail(job: Job) -> None:
     page = _page(job.detail_ref)
     if _apply_ld(job, page):
@@ -252,7 +268,7 @@ def sfrmk_detail(job: Job) -> None:
         job.title = t.get_text(" ", strip=True)
     loc = soup.select_one(".jobGeoLocation") or soup.select_one('[data-careersite-propertyid="location"]')
     if loc and loc.get_text(strip=True):
-        job.location = loc.get_text(" ", strip=True)
+        job.location, job.countries = rmk_location(loc.get_text(" ", strip=True))
     else:
         parts = [m.get("content") for m in soup.select('meta[itemprop="addressLocality"], meta[itemprop="addressRegion"], meta[itemprop="addressCountry"]')]
         if any(parts):
