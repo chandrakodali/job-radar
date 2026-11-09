@@ -12,6 +12,7 @@ import yaml
 from radar import ats as ATS
 from radar import main as M
 from radar import report as R
+from radar import dashboard as D
 from radar import store as S
 from radar.match import (Rules, assess, blocker_hit, classify_location, required_years,
                          title_category)
@@ -152,7 +153,7 @@ def test_workday_days(text, days):
 @pytest.mark.parametrize("title,expected", [
     ("DevOps Engineer", "core"), ("Associate Site Reliability Engineer", "core"), ("SRE - New Grad", "core"),
     ("Cloud Support Engineer", "core"), ("Platform Engineer II", "core"), ("Linux Systems Administrator", "bridge"),
-    ("NOC Technician", "bridge"), ("Data Center Technician", "bridge"), ("Production Engineer", "bridge"),
+    ("NOC Technician", None), ("Data Center Technician", None), ("Production Engineer", "bridge"),
     ("Senior DevOps Engineer", None), ("Sr. SRE", None), ("Staff Platform Engineer", None),
     ("DevOps Engineer Intern", None), ("Software Engineer", None), ("Systems Engineer (Missile Defense)", None),
     ("Infrastructure Engineer, TS/SCI", None), ("Platform Engineering Manager", None), ("Cloud Engineer 3", None),
@@ -232,9 +233,13 @@ def test_assess_no_sponsorship_flag(rules):
 def test_full_run(tmp_path, monkeypatch):
     monkeypatch.setattr(S, "STATE_PATH", str(tmp_path / "state.json"))
     monkeypatch.setattr(S, "MATCHES_PATH", str(tmp_path / "matches.csv"))
+    monkeypatch.setattr(S, "REJECTED_PATH", str(tmp_path / "rejected.csv"))
     monkeypatch.setattr(S, "DATA", str(tmp_path))
     monkeypatch.setattr(R, "REPORT_PATH", str(tmp_path / "REPORT.md"))
-    for var in ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", "NTFY_TOPIC"):
+    monkeypatch.setattr(D, "DOCS", str(tmp_path / "docs"))
+    monkeypatch.setattr(D, "PAGE_PATH", str(tmp_path / "docs" / "index.html"))
+    for var in ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", "NTFY_TOPIC", "GEMINI_API_KEY", "OPENROUTER_API_KEY",
+                "GROQ_API_KEY", "OPENAI_API_KEY", "ANTHROPIC_API_KEY"):
         monkeypatch.delenv(var, raising=False)
     boards = [Board("greenhouse", "acme", "Acme"), Board("lever", "beta", "Beta"),
               Board("greenhouse", "gone", "Gone"), Board("greenhouse", "rtx", "RTX")]
@@ -255,7 +260,7 @@ def test_full_run(tmp_path, monkeypatch):
         return [Job(**{**j.__dict__}) for j in state["jobs"]]
 
     def lever(b):
-        return [_job(ats="lever", board="beta", job_id="L1", company="Beta", title="NOC Technician",
+        return [_job(ats="lever", board="beta", job_id="L1", company="Beta", title="Cloud Engineer",
                      posted_at=now - timedelta(hours=1), description="Must be a U.S. citizen")]
 
     def gh_detail(j):
@@ -273,11 +278,14 @@ def test_full_run(tmp_path, monkeypatch):
     assert st["fails"]["greenhouse:gone"]["n"] == 1
     rows = list(csv.DictReader(open(tmp_path / "matches.csv")))
     by = {r["uid"]: r for r in rows}
-    assert set(by) == {"greenhouse:acme:1", "lever:beta:L1"}
+    assert set(by) == {"greenhouse:acme:1"}
     assert by["greenhouse:acme:1"]["status"] == "alert"
-    assert by["lever:beta:L1"]["status"] == "blocked"
+    rej = list(csv.DictReader(open(tmp_path / "rejected.csv")))
+    assert [r["uid"] for r in rej] == ["lever:beta:L1"] and rej[0]["reject_reason"].startswith("rules:")
     rep = (tmp_path / "REPORT.md").read_text()
     assert "Associate DevOps Engineer" in rep and "Hidden from alerts" in rep
+    page = (tmp_path / "docs" / "index.html").read_text()
+    assert "Associate DevOps Engineer" in page and "const DATA = {" in page and "/*DATA*/" not in page
 
     # second run: a new job appears; it is new, the board is baselined, so it would alert
     state["jobs"].append(_job(job_id="4", title="Site Reliability Engineer I", posted_at=now - timedelta(minutes=20),
@@ -289,7 +297,7 @@ def test_full_run(tmp_path, monkeypatch):
     assert M.main([]) == 0
     assert sent == ["greenhouse:acme:4"]
     rows = list(csv.DictReader(open(tmp_path / "matches.csv")))
-    assert len(rows) == 3   # nothing duplicated
+    assert len(rows) == 2   # nothing duplicated
 
     # third run: three 404s disable the dead board
     M.main(["--dry-run"])
@@ -381,3 +389,49 @@ def test_workable_widget_feed(monkeypatch):
     j = ATS.workable_list(Board("workable", "acme", "Acme"))[0]
     assert j.job_id == "XYZ9" and j.workplace == "remote" and j.countries == ["US"]
     assert j.location == "Denver, Colorado, United States" and j.posted_at.date().isoformat() == "2026-11-06"
+
+
+# ------------------------------------------------------------------ AI review
+
+def test_ai_parse_and_clean():
+    from radar import ai
+    text = '```json\n{"jobs": [{"i": 0, "fit": "yes", "role": "devops", "level": "entry", "min_years": 1, "sponsor": "yes", "clearance": false, "score": 88, "why": "Entry DevOps role"}, {"i": 1, "fit": "no", "role": "other", "level": "entry", "min_years": null, "sponsor": "unknown", "clearance": false, "score": 10, "why": "Help desk"}, {"i": 2, "fit": "yes", "role": "sre", "level": "mid", "min_years": 6, "sponsor": "no", "clearance": false, "score": 30, "why": "x"}]}\n```'
+    v = [ai._clean(x) for x in ai._parse(text)]
+    assert v[0]["keep"] and v[0]["score"] == 88 and v[0]["role"] == "devops"
+    assert not v[1]["keep"] and v[1]["reject_reason"] == "not a target role"
+    assert not v[2]["keep"] and "too senior" in v[2]["reject_reason"]
+
+
+def test_ai_review_in_run(tmp_path, monkeypatch):
+    from radar import ai
+    monkeypatch.setattr(S, "STATE_PATH", str(tmp_path / "state.json"))
+    monkeypatch.setattr(S, "MATCHES_PATH", str(tmp_path / "matches.csv"))
+    monkeypatch.setattr(S, "REJECTED_PATH", str(tmp_path / "rejected.csv"))
+    monkeypatch.setattr(S, "DATA", str(tmp_path))
+    monkeypatch.setattr(R, "REPORT_PATH", str(tmp_path / "REPORT.md"))
+    monkeypatch.setattr(D, "DOCS", str(tmp_path / "docs"))
+    monkeypatch.setattr(D, "PAGE_PATH", str(tmp_path / "docs" / "index.html"))
+    for var in ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", "NTFY_TOPIC", "OPENROUTER_API_KEY", "GROQ_API_KEY",
+                "OPENAI_API_KEY", "ANTHROPIC_API_KEY"):
+        monkeypatch.delenv(var, raising=False)
+    monkeypatch.setenv("GEMINI_API_KEY", "test")
+    monkeypatch.setattr(ai.time, "sleep", lambda s: None)
+    now = datetime.now(timezone.utc)
+    monkeypatch.setattr(M, "load_boards", lambda: [Board("greenhouse", "acme", "Acme")])
+    monkeypatch.setitem(ATS.LISTERS, "greenhouse", lambda b: [
+        _job(job_id="1", title="DevOps Engineer", posted_at=now - timedelta(hours=1), description="1 year of experience"),
+        _job(job_id="2", title="Cloud Engineer", posted_at=now - timedelta(hours=1), description="Help desk tickets")])
+    prompts = []
+
+    def fake_call(self, prompt):
+        prompts.append(prompt)
+        return ('{"jobs": [{"i": 0, "fit": "yes", "role": "devops", "level": "entry", "min_years": 1, "sponsor": "unknown",'
+                ' "clearance": false, "score": 90, "why": "Good fit"}, {"i": 1, "fit": "no", "role": "other", "level": "entry",'
+                ' "min_years": null, "sponsor": "unknown", "clearance": false, "score": 5, "why": "Really help desk"}]}')
+    monkeypatch.setattr(ai.Reviewer, "_call", fake_call)
+    assert M.main(["--dry-run"]) == 0
+    kept = list(csv.DictReader(open(tmp_path / "matches.csv")))
+    rej = list(csv.DictReader(open(tmp_path / "rejected.csv")))
+    assert [r["uid"] for r in kept] == ["greenhouse:acme:1"] and kept[0]["ai"] == "keep" and kept[0]["ai_score"] == "90"
+    assert [r["uid"] for r in rej] == ["greenhouse:acme:2"] and "not a target role" in rej[0]["reject_reason"]
+    assert "Help desk tickets" in prompts[0]

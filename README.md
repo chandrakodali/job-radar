@@ -30,6 +30,24 @@ Finds new **entry-friendly DevOps, SRE, cloud, platform and infrastructure jobs 
 
 You'll get a "Job Radar is connected" message on the next run (within 30 minutes). To test right away: **Actions → radar → Run workflow**.
 
+## See all results on one page
+
+Every run rewrites `docs/index.html`: a phone-friendly page with every match, filters (date, work type,
+sponsor-friendly, strong only), and Save / Applied / Skip buttons that remember your choices in your browser.
+
+Turn it on once: **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main`, folder `/docs` → Save.**
+It then lives at `https://chandrakodali.github.io/job-radar/`.
+
+## AI check (optional, free)
+
+Each new match can be reviewed by an AI model before it is saved or sent to your phone: it drops roles that
+aren't DevOps / SRE / platform / cloud / infrastructure / DevSecOps (or close), drops 5+ year roles and
+clearance/citizenship roles, and adds a fit score and a one-line reason. Rejected jobs go to `data/rejected.csv`.
+
+Turn it on by adding **one** repository secret (Settings → Secrets and variables → Actions → New repository secret):
+`GEMINI_API_KEY` (free key from https://aistudio.google.com/apikey), or `OPENROUTER_API_KEY`, `GROQ_API_KEY`,
+`OPENAI_API_KEY`, `ANTHROPIC_API_KEY`. Optional variable `AI_MODEL` picks a specific model.
+
 ## Make it yours
 
 - **Add companies** (your friend's company, dream employers): edit [`companies_custom.csv`](companies_custom.csv). Use `auto` as the ats and the company's job-board name (usually the last part of its careers URL) and the radar figures out the rest. Priority companies get a +10 score boost.

@@ -8,6 +8,8 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import hashlib
+import json
 import logging
 import os
 import sys
@@ -26,9 +28,11 @@ from .http import FetchError
 from .match import Rules, assess, classify_location, is_excluded_company, title_category
 from .models import Board, Job
 from .notify import Notifier
+from .dashboard import build_dashboard, write_dashboard
 from .report import build_report, write_report
-from .store import (ROOT, append_matches, load_boards, load_state, now_utc, prune_seen,
-                    read_matches, save_state)
+from .ai import Reviewer
+from .store import (ROOT, append_matches, append_rejected, load_boards, load_state, now_utc, prune_seen,
+                    read_matches, save_state, update_matches)
 
 log = logging.getLogger("radar")
 
@@ -232,12 +236,28 @@ def run(args) -> int:
     # unfinished details: assess with what the listing gave
     detailed = [f.result() if f.done() and not f.cancelled() else c for f, c in zip(dfutures, candidates)]
 
+    # When the title rules change, move saved matches that no longer fit out of the CSV (kept in rejected.csv).
+    rules_sig = hashlib.sha1(json.dumps(cfg.get("titles", {}), sort_keys=True).encode()).hexdigest()[:12]
+    if state.get("title_rules") != rules_sig and not args.no_write:
+        old = read_matches()
+        gone = [r for r in old if not title_category(r["title"], rules)]
+        if gone:
+            update_matches({}, {r["uid"] for r in gone})
+            append_rejected([{**r, "reject_reason": "rules: role no longer in the target list"} for r in gone])
+            log.info("Title rules changed: moved %d saved matches that no longer fit to rejected.csv", len(gone))
+        state["title_rules"] = rules_sig
+
     # Same role re-posted (new id) or listed on two boards: alert only once.
     recent_keys = {_dupe_key(r["company"], r["title"], r["location"])
                    for r in read_matches(since=now - timedelta(days=14))}
 
-    new_rows, alerts = [], []
+    new_rows, rejected_rows, queued = [], [], []
     for j, b, cat, first_time in detailed:
+        if getattr(j, "title_guess", False):  # the listing only had a URL slug; judge the real title
+            cat = title_category(j.title, rules)
+            if not cat:
+                state["seen"][j.uid] = today
+                continue
         a = assess(j, b, rules, cat, now=now)
         state["seen"][j.uid] = today
         if a.location_class == "non_us" or a.status == "old":
@@ -258,14 +278,87 @@ def run(args) -> int:
             "title": j.title, "location": j.location, "workplace": j.workplace,
             "flags": "; ".join(a.flags), "url": j.url, "ats": j.ats, "uid": j.uid,
         }
+        if status == "blocked":
+            rejected_rows.append({**row, "reject_reason": "rules: " + "; ".join(a.flags)})
+            stats["status_blocked"] += 1
+            continue
+        queued.append({"row": row, "desc": (j.description or "")[:1800], "may_alert": not quiet_baseline and not is_dupe,
+                       "q": now.isoformat()})
+
+    # ---- AI review (when a key is configured): only kept jobs reach the CSV and the phone
+    reviewer = Reviewer(max_requests=int(cfg.get("ai", {}).get("max_requests_per_run", 12)))
+    alerts = []
+    threshold = rules.alert_threshold
+
+    def keep_row(item, verdict=None):
+        row = dict(item["row"])
+        if verdict:
+            row.update({"ai": "keep", "ai_score": verdict["score"], "ai_role": verdict["role"],
+                        "ai_level": verdict["level"], "ai_sponsor": verdict["sponsor"], "ai_why": verdict["why"]})
+            row["score"] = round((int(row["score"]) + verdict["score"]) / 2)
+            row["status"] = "alert" if row["score"] >= threshold and row["status"] == "alert" else "quiet"
+            if verdict["sponsor"] == "yes" and "sponsors visa" not in row["flags"]:
+                row["flags"] = "; ".join(x for x in [row["flags"], "AI: sponsors visa"] if x)
         new_rows.append(row)
-        stats[f"status_{status}"] += 1
-        if status == "alert" and not quiet_baseline:
-            alerts.append({**row, "flags": a.flags, "age_hours": age_hours})
+        stats[f"status_{row['status']}"] += 1
+        if row["status"] == "alert" and item["may_alert"]:
+            age = None
+            if row["posted"]:
+                age = (now - datetime.fromisoformat(row["posted"])).total_seconds() / 3600
+            alerts.append({**row, "flags": [f for f in row["flags"].split("; ") if f], "age_hours": age})
+
+    if reviewer.cfg:
+        queue = state.get("ai_queue", []) + queued
+        items = [{"uid": q["row"]["uid"], "title": q["row"]["title"], "company": q["row"]["company"],
+                  "location": q["row"]["location"], "workplace": q["row"]["workplace"], "posted": q["row"]["posted"],
+                  "flags": q["row"]["flags"], "description": q["desc"]} for q in queue]
+        verdicts = reviewer.review(items)
+        left = []
+        for q in queue:
+            v = verdicts.get(q["row"]["uid"])
+            if v and v["keep"]:
+                keep_row(q, v)
+            elif v:
+                rejected_rows.append({**q["row"], "ai": "reject", "ai_score": v["score"], "ai_role": v["role"],
+                                      "ai_level": v["level"], "ai_sponsor": v["sponsor"], "ai_why": v["why"],
+                                      "reject_reason": "AI: " + (v["reject_reason"] or v["why"])})
+                stats["ai_rejected"] += 1
+            elif now - datetime.fromisoformat(q["q"]) > timedelta(hours=36):
+                keep_row(q)  # waited too long for the AI: save it unchecked rather than lose it
+            else:
+                left.append(q)
+        state["ai_queue"] = left[-400:]
+        stats["ai_reviewed"] = len(verdicts)
+        # Spare AI budget: review recent saved matches that have no AI verdict yet (title-level check).
+        if reviewer.available:
+            backlog = [r for r in read_matches(since=now - timedelta(days=10)) if not r.get("ai")][:reviewer.batch * 4]
+            bv = reviewer.review([{"uid": r["uid"], "title": r["title"], "company": r["company"],
+                                   "location": r["location"], "workplace": r["workplace"], "posted": r["posted"],
+                                   "flags": r["flags"], "description": ""} for r in backlog])
+            ups, drop = {}, set()
+            for r in backlog:
+                v = bv.get(r["uid"])
+                if not v:
+                    continue
+                fields = {"ai": "keep" if v["keep"] else "reject", "ai_score": v["score"], "ai_role": v["role"],
+                          "ai_level": v["level"], "ai_sponsor": v["sponsor"], "ai_why": v["why"]}
+                if v["keep"]:
+                    ups[r["uid"]] = fields
+                else:
+                    drop.add(r["uid"])
+                    rejected_rows.append({**r, **fields, "reject_reason": "AI: " + (v["reject_reason"] or v["why"])})
+            if not args.no_write:
+                update_matches(ups, drop)
+            stats["ai_backfilled"] = len(bv)
+    else:
+        for q in queued:
+            keep_row(q)
 
     for k in newly_baselined:
         state["baselined"][k] = today
-    append_matches(new_rows)
+    if not args.no_write:
+        append_matches(new_rows)
+        append_rejected(rejected_rows)
 
     # ---- notifications
     alerts.sort(key=lambda m: -m["score"])
@@ -312,6 +405,7 @@ def run(args) -> int:
     if not args.no_write:
         save_state(state)
         write_report(build_report(tz_name, total_boards, now=now))
+        write_dashboard(build_dashboard(tz_name, total_boards, reviewer.describe(), now=now))
 
     elapsed = time.monotonic() - t0
     ok = {k[3:]: v for k, v in stats.items() if k.startswith("ok_")}
@@ -321,7 +415,9 @@ def run(args) -> int:
         f"(alert {stats['status_alert']}, quiet {stats['status_quiet']}, blocked {stats['status_blocked']}). "
         f"Alerts sent: {notifier.sent}. Details failed: {stats['detail_failed']}. Pruned: {pruned}. "
         f"Skipped for time: {stats['skipped_time']}. Skipped (rate limited): {stats['skipped_throttled']}"
-        + (f" {dict(throttled)}" if throttled else "") + "."
+        + (f" {dict(throttled)}" if throttled else "") + ". "
+        f"AI review: {reviewer.describe()}; reviewed {stats['ai_reviewed']}, rejected {stats['ai_rejected']}, "
+        f"backfilled {stats['ai_backfilled']}, waiting {len(state.get('ai_queue', []))}."
     )
     log.info(summary)
     step_summary = os.environ.get("GITHUB_STEP_SUMMARY")

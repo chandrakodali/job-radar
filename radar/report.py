@@ -5,7 +5,7 @@ import os
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
-from .store import ROOT, read_matches
+from .store import ROOT, read_matches, read_rejected
 
 REPORT_PATH = os.path.join(ROOT, "REPORT.md")
 
@@ -44,7 +44,7 @@ def build_report(tz_name: str, boards_total: int, now: datetime | None = None) -
     now = now or datetime.now(timezone.utc)
     rows = read_matches(since=now - timedelta(days=7))
     visible = [r for r in rows if r["status"] in ("alert", "quiet")]
-    blocked = [r for r in rows if r["status"] == "blocked"]
+    blocked = [r for r in rows if r["status"] == "blocked"] + read_rejected(since=now - timedelta(days=7))
     def when(r):  # posting time when the job board gives it, otherwise when the radar first saw it
         try:
             d = datetime.fromisoformat(r["posted"]) if r.get("posted") else r["_first_seen"]
@@ -78,13 +78,16 @@ def build_report(tz_name: str, boards_total: int, now: datetime | None = None) -
     lines += _table(week[:150], tz) if week else ["No other matches this week."]
     lines += [
         "",
-        f"## Hidden from alerts: needs clearance or US citizenship ({len(blocked)} this week)",
+        f"## Hidden from alerts: clearance/citizenship or rejected by the AI check ({len(blocked)} this week)",
         "",
-        "These mention a security clearance, US citizenship, ITAR or similar, which F-1/OPT holders can't meet. "
-        "Listed so you can double-check.",
+        "Clearance, US citizenship or ITAR requirements (which F-1/OPT holders can't meet), or jobs the AI reviewer "
+        "judged off-target or too senior. The reason is in the flags column. Listed so you can double-check.",
         "",
     ]
     if blocked:
+        for r in blocked:
+            if r.get("reject_reason"):
+                r["flags"] = r["reject_reason"]
         blocked.sort(key=key)
         lines += _table(blocked[:40], tz)
     else:

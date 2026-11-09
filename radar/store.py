@@ -16,8 +16,12 @@ MATCHES_PATH = os.path.join(DATA, "matches.csv")
 COMPANIES_PATH = os.path.join(ROOT, "companies.csv")
 CUSTOM_PATH = os.path.join(ROOT, "companies_custom.csv")
 
+REJECTED_PATH = os.path.join(DATA, "rejected.csv")
+
 MATCH_FIELDS = ["first_seen", "posted", "score", "status", "category", "company", "title",
-                "location", "workplace", "flags", "url", "ats", "uid"]
+                "location", "workplace", "flags", "url", "ats", "uid",
+                "ai", "ai_score", "ai_role", "ai_level", "ai_sponsor", "ai_why"]
+REJECTED_FIELDS = MATCH_FIELDS + ["reject_reason"]
 
 CAP_EXEMPT_RE = re.compile(r"universit|\bcollege\b|institute of technology|school of medicine|national lab", re.I)
 NOT_CAP_EXEMPT_RE = re.compile(
@@ -89,17 +93,80 @@ def prune_seen(st: dict, keep_days: int = 120) -> int:
     return len(old)
 
 
-def append_matches(rows: list[dict]) -> None:
+def _rewrite(path: str, fields: list[str], rows: list[dict]) -> None:
+    tmp = path + ".tmp"
+    with open(tmp, "w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
+        w.writeheader()
+        for r in rows:
+            w.writerow({k: v for k, v in r.items() if not k.startswith("_")})
+    os.replace(tmp, path)
+
+
+def _read_all(path: str) -> list[dict]:
+    if not os.path.exists(path):
+        return []
+    with open(path, newline="", encoding="utf-8") as f:
+        return list(csv.DictReader(f))
+
+
+def _append(path: str, fields: list[str], rows: list[dict]) -> None:
     if not rows:
         return
     os.makedirs(DATA, exist_ok=True)
-    new_file = not os.path.exists(MATCHES_PATH)
-    with open(MATCHES_PATH, "a", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=MATCH_FIELDS, extrasaction="ignore")
+    if os.path.exists(path):
+        with open(path, newline="", encoding="utf-8") as f:
+            header = next(csv.reader(f), [])
+        if header != fields:  # columns were added: rewrite once with the new header
+            _rewrite(path, fields, _read_all(path))
+    new_file = not os.path.exists(path)
+    with open(path, "a", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
         if new_file:
             w.writeheader()
         for r in rows:
-            w.writerow(r)
+            w.writerow({k: v for k, v in r.items() if not k.startswith("_")})
+
+
+def append_matches(rows: list[dict]) -> None:
+    _append(MATCHES_PATH, MATCH_FIELDS, rows)
+
+
+def append_rejected(rows: list[dict]) -> None:
+    _append(REJECTED_PATH, REJECTED_FIELDS, rows)
+
+
+def update_matches(updates: dict[str, dict], remove: set[str] = frozenset()) -> None:
+    """Change fields of saved matches by uid, and drop the uids in `remove`."""
+    if not updates and not remove:
+        return
+    rows = _read_all(MATCHES_PATH)
+    out = []
+    for r in rows:
+        if r.get("uid") in remove:
+            continue
+        if r.get("uid") in updates:
+            r.update(updates[r["uid"]])
+        out.append(r)
+    _rewrite(MATCHES_PATH, MATCH_FIELDS, out)
+
+
+def read_rejected(since: datetime | None = None) -> list[dict]:
+    out = []
+    for r in _read_all(REJECTED_PATH):
+        try:
+            fs = datetime.fromisoformat(r["first_seen"])
+        except (KeyError, ValueError):
+            continue
+        if since and fs < since:
+            continue
+        r["_first_seen"] = fs
+        try:
+            r["score"] = int(r.get("score") or 0)
+        except ValueError:
+            r["score"] = 0
+        out.append(r)
+    return out
 
 
 def read_matches(since: datetime | None = None) -> list[dict]:

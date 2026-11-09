@@ -5,35 +5,42 @@ titles:
   # Direct targets: score +45
   core:
     - 'dev\s*ops'
-    - 'devsecops'
+    - 'dev\s*sec\s*ops'
+    - 'sec\s*dev\s*ops'
     - 'site reliability'
     - '\bsre\b'
     - '(systems?|software|production|platform|cloud|infrastructure|service|database|network|data) reliability'
-    - 'platform (engineer|engineering|operations)'
-    - 'infrastructure.{0,30}\b(engineer|engineering|administrator|specialist|operations|ops|analyst|developer)\b'
+    - 'reliability engineer'
+    - 'platform (engineer|engineering|operations|ops|developer)'
+    - 'infrastructure.{0,30}\b(engineer|engineering|administrator|specialist|operations|ops|analyst|developer|automation)\b'
     - '\b(engineer|engineering|administrator|specialist|operations|developer)\b.{0,30}infrastructure'
-    - 'cloud (engineer|engineering|operations|infrastructure|ops|platform|developer|administrator|support engineer)'
-    - '\bcloudops\b'
+    - 'cloud.{0,25}\b(engineer|engineering|operations|infrastructure|ops|platform|developer|administrator|specialist|analyst)\b'
+    - '\bcloud\s*ops\b'
+    - '\b(aws|azure|gcp|google cloud)\b.{0,25}\b(engineer|administrator|developer|specialist|consultant|architect associate)\b'
     - 'observability'
     - 'kubernetes'
-  # Bridge roles that lead toward DevOps/SRE: score +30
+    - '\b(ml|llm|data)\s*ops\b'
+    - '(cloud|infrastructure|platform|container|kubernetes|devops|application) security engineer'
+    - 'security engineer.{0,25}\b(cloud|devsecops|devops|infrastructure|platform)\b'
+    - '\bterraform\b'
+  # Closely related roles that lead into DevOps/SRE/cloud: score +30
   bridge:
     - 'systems? administrator'
-    - '\bsysadmin\b'
-    - '\b(linux|unix)\b'
-    - 'network operations'
-    - '\bnoc\b'
+    - '\bsys\s*admin\b'
+    - '\b(linux|unix)\b.{0,20}\b(administrator|admin|engineer|systems)\b'
     - 'production engineer'
-    - '(build|release) engineer'
-    - 'network (engineer|administrator|technician)'
-    - 'data ?cent(er|re) (technician|operations|engineer|tech)'
-    - '\bit (operations|support engineer|systems engineer|engineer)'
-    - '(technical|production|application|cloud) support engineer'
-    - 'support engineer'
-    - '\b(cloud|linux|it|infrastructure|network|windows|server|platform)\b.{0,20}\bsystems? engineer'
-    - 'systems? engineer.{0,25}\b(cloud|linux|it|infrastructure|network|windows|server|aws|azure)\b'
-    - '\bcloud\b.{0,25}\bengineer'
-    - 'automation engineer.{0,20}(cloud|infrastructure|devops|it)'
+    - '(build|release|deployment) engineer'
+    - '\b(ci/?cd|build and release|release and build)\b'
+    - 'network (engineer|administrator)'
+    - '(cloud|aws|azure|kubernetes|infrastructure) support engineer'
+    - '\b(cloud|linux|it|infrastructure|network|windows|server|platform|virtualization|storage)\b.{0,20}\bsystems? engineer'
+    - 'systems? engineer.{0,25}\b(cloud|linux|it|infrastructure|network|windows|server|aws|azure|virtualization)\b'
+    - '(automation|tooling|tools) engineer.{0,25}\b(cloud|infrastructure|devops|platform|it)\b'
+    - '\b(cloud|infrastructure|devops|platform)\b.{0,25}(automation|tooling) engineer'
+    - 'virtualization (engineer|administrator)'
+    - 'storage (engineer|administrator)'
+    - 'configuration management'
+    - '\bit infrastructure\b'
 
   # Titles containing any of these are skipped (too senior, or not a fit for F-1/OPT).
   exclude:
@@ -90,6 +97,21 @@ titles:
     - 'test (infrastructure )?technician'
     - '\baccount(ant|ing)\b'
     - '\bfinance\b'
+    - '\bsalesforce\b'
+    - 'servicenow'
+    - '\bsap\b'
+    - '\bworkday\b'
+    - '\b(dynamics|netsuite|oracle (ebs|fusion|apps))\b'
+    - 'help ?desk'
+    - 'desktop support'
+    - '\bdata cent(er|re) technician'
+    - '\btechnician\b'
+    - 'customer support'
+    - '\bvoice\b'
+    - '\bpre-?sales\b'
+    - 'solutions? engineer'
+    - 'field engineer'
+    - '\bteacher\b|\binstructor\b|\btrainer\b'
 
   # Entry-level signals in the title: score +15
   entry:
@@ -230,3 +252,7 @@ workday:
 notify:
   daily_digest_hour_local: 8      # send a daily summary at this hour
   timezone: 'America/Chicago'
+
+# Optional AI check of every new match (turns on when an AI key secret exists; see radar/ai.py).
+ai:
+  max_requests_per_run: 6   # 5 jobs per request; keeps well inside free-tier daily limits
