@@ -2,12 +2,13 @@
 
 Watching **4,399 company job boards** every 30 minutes for entry-friendly DevOps, SRE, cloud, platform and infrastructure roles in the US.
 
-Last new match: **Sun Nov 08, 02:24 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
+Last new match: **Sun Nov 08, 05:58 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
 
-## Posted in the last 24 hours (3)
+## Posted in the last 24 hours (4)
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
+| 62 | [Software Automation & Platform Engineer — Federal Health IT](https://job-boards.greenhouse.io/rackner/jobs/4752573005) | Rackner | Remote — United States (remote) | Nov 08 |  |
 | 55 | [Support Engineer 1](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346427) | Oracle | United States | Nov 08 | entry-level title |
 | 55 | [Support Engineer 1](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346429) | Oracle | United States | Nov 08 | entry-level title; repost |
 | 42 | [Support Engineer, PAYGO](https://jobs.ashbyhq.com/exa/f4dd7ae8-cf72-4634-b708-742601b9061c) | Exa | Remote (remote) | Nov 07 | location unclear |
