@@ -30,6 +30,7 @@ from .models import Board, Job
 from .notify import Notifier
 from .dashboard import build_dashboard, write_dashboard
 from .report import build_report, write_report
+from . import ats_more, robots
 from .ai import Reviewer
 from .store import (ROOT, append_matches, append_rejected, load_boards, load_discovered, load_state, now_utc, prune_seen,
                     read_matches, save_state, update_matches)
@@ -40,6 +41,9 @@ LIST_CONCURRENCY = {"greenhouse": 8, "lever": 6, "ashby": 6, "smartrecruiters": 
                     "oracle": 8, "workable": 2, "rippling": 6, "bamboohr": 6, "recruitee": 4}
 DETAIL_CONCURRENCY = {"greenhouse": 8, "smartrecruiters": 4, "workday": 8, "oracle": 6, "workable": 4,
                       "rippling": 6, "bamboohr": 6}
+for _ats, _n in ats_more.CONCURRENCY.items():
+    LIST_CONCURRENCY.setdefault(_ats, _n)
+    DETAIL_CONCURRENCY.setdefault(_ats, _n)
 TIME_BUDGET_SECONDS = 17 * 60
 THROTTLE_LIMIT = 6
 REPORT_URL = "https://github.com/chandrakodali/job-radar/blob/main/REPORT.md"
@@ -92,7 +96,7 @@ def record_failure(state: dict, b: Board, err: FetchError, today: str) -> None:
     f = state["fails"].get(b.key) or {"n": 0, "since": today}
     f["n"] = int(f.get("n", 0)) + 1
     f["err"] = str(err)[:80]
-    if err.status in (403, 404, 410, 422) and f["n"] >= 3:
+    if err.status in (202, 403, 404, 410, 422, 999) and f["n"] >= 3:
         f["disabled_until"] = (date.fromisoformat(today) + timedelta(days=7)).isoformat()
     state["fails"][b.key] = f
 
@@ -152,6 +156,8 @@ def run(args) -> int:
     log.info("Boards: %d total (%d discovered), %d this run (workday slot %d/%d). Notifications: %s",
              total_boards, len(found), len(selected), slot, shards, notifier.describe())
 
+    robot = robots.Robots(state.setdefault("robots", {}), today)
+    robots.install(robot)
     sems = {k: threading.Semaphore(v) for k, v in LIST_CONCURRENCY.items()}
     dsems = {k: threading.Semaphore(v) for k, v in DETAIL_CONCURRENCY.items()}
     stats = Counter()
@@ -414,6 +420,7 @@ def run(args) -> int:
         state["last_digest"] = local_today
 
     pruned = prune_seen(state)
+    robot.prune()
     state["bootstrapped"] = True
     if not args.no_write:
         save_state(state)

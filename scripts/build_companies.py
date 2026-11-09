@@ -36,6 +36,21 @@ PATTERNS = [
     ("rippling", re.compile(r"https?://ats\.rippling\.com/([A-Za-z0-9_-]+)")),
     ("bamboohr", re.compile(r"https?://([a-z0-9-]+)\.bamboohr\.com/(?:careers|jobs)")),
     ("recruitee", re.compile(r"https?://([a-z0-9-]+)\.recruitee\.com/")),
+    ("icims", re.compile(r"https?://([a-z0-9-]+\.icims\.com)/jobs/", re.I)),
+    ("jazzhr", re.compile(r"https?://([a-z0-9-]+)\.applytojob\.com/", re.I)),
+    ("jobvite", re.compile(r"https?://jobs\.jobvite\.com/(?:careers/)?([a-z0-9-]+)/", re.I)),
+    ("taleo", re.compile(r"https?://([a-z0-9-]+)\.taleo\.net/careersection/([^/?#]+)/", re.I)),
+    ("avature", re.compile(r"https?://([a-z0-9-]+\.avature\.net)/((?:[a-z]{2}_[A-Z]{2}/)?[A-Za-z0-9_-]+)/JobDetail/")),
+    ("eightfold", re.compile(r"https?://([a-z0-9-]+)\.eightfold\.ai/careers", re.I)),
+    ("breezy", re.compile(r"https?://([a-z0-9-]+)\.breezy\.hr/", re.I)),
+    ("pinpoint", re.compile(r"https?://([a-z0-9-]+)\.pinpointhq\.com/", re.I)),
+    ("dover", re.compile(r"https?://app\.dover\.com/(?:apply|jobs)/([a-z0-9-]+)(?:/|$)", re.I)),
+    ("gem", re.compile(r"https?://jobs\.gem\.com/([a-z0-9_-]+)/", re.I)),
+    ("dayforce", re.compile(r"https?://jobs\.dayforcehcm\.com/(?:[a-z]{2}-[A-Z]{2}/)?([a-z0-9_-]+)/([A-Za-z0-9_-]+)/jobs/", re.I)),
+    ("manatal", re.compile(r"https?://(?:www\.)?careers-page\.com/([a-z0-9_-]+)/job/", re.I)),
+    ("jibe", re.compile(r"https?://([a-z0-9.-]+)/jobs/\d+\?lang=en", re.I)),
+    ("phenom", re.compile(r"https?://([a-z0-9.-]+)/((?:[a-z]{2}|global)/en(?:-[a-z]{2})?)/job/[A-Za-z0-9_-]+")),
+    ("sfrmk", re.compile(r"https?://([a-z0-9.-]+)/job/[^/?#]+/\d{8,}/?(?:$|\?)")),
 ]
 BAD_SLUGS = {"embed", "job_app", "jobs", "search", "apply", "en-us", "en"}
 BAD_WORKDAY_SITE = re.compile(r"(?i)private|confidential|internal|executive|employee|referral|^job$|^jobs$")
@@ -73,6 +88,23 @@ def board_from_url(url: str) -> tuple[str, str] | None:
         if ats == "smartrecruiters":
             slug = m.group(1).lower()
             return (ats, slug) if slug not in BAD_SLUGS else None
+        if ats in ("icims", "jibe", "sfrmk"):
+            return ats, m.group(1).lower()
+        if ats in ("jazzhr", "jobvite", "breezy", "pinpoint", "dover", "gem", "manatal"):
+            slug = m.group(1).lower()
+            return (ats, slug) if slug not in BAD_SLUGS and slug not in {"api", "www", "app", "careers"} else None
+        if ats == "taleo":
+            return ats, f"{m.group(1).lower()}|{m.group(2)}"
+        if ats == "avature":
+            return ats, f"{m.group(1).lower()}|{m.group(2)}"
+        if ats == "eightfold":
+            sub = m.group(1).lower()
+            dom = re.search(r"[?&]domain=([a-z0-9.-]+)", url or "", re.I)
+            return ats, f"{sub}|{dom.group(1).lower() if dom else sub + '.com'}"
+        if ats == "dayforce":
+            return ats, f"{m.group(1).lower()}|{m.group(2)}"
+        if ats == "phenom":
+            return ats, f"{m.group(1).lower()}|{m.group(2).lower()}"
     return None
 
 
@@ -109,6 +141,16 @@ def main() -> int:
         name = c["names"].most_common(1)[0][0] or c["board"]
         out.append({"ats": ats, "board": c["board"], "company": name})
     out.sort(key=lambda x: (x["ats"], x["company"].lower(), x["board"]))
+    # One entry per Phenom site (the same site can appear under several language paths).
+    hosts, deduped = set(), []
+    for x in sorted(out, key=lambda x: (x["ats"] != "phenom", not x["board"].endswith("|us/en"))):
+        if x["ats"] == "phenom":
+            h = x["board"].split("|")[0]
+            if h in hosts:
+                continue
+            hosts.add(h)
+        deduped.append(x)
+    out = sorted(deduped, key=lambda x: (x["ats"], x["company"].lower(), x["board"]))
 
     with open(OUT, "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=["ats", "board", "company"])

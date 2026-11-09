@@ -31,7 +31,10 @@ NOT_CAP_EXEMPT_RE = re.compile(
     re.I,
 )
 VALID_ATS = {"greenhouse", "lever", "ashby", "smartrecruiters", "workday", "oracle", "workable", "rippling",
-             "bamboohr", "recruitee", "auto"}
+             "bamboohr", "recruitee", "auto",
+             "icims", "jazzhr", "jobvite", "sfrmk", "paylocity", "taleo", "avature", "phenom", "eightfold", "jibe",
+             "breezy", "pinpoint", "teamtailor", "dover", "gem", "ukg", "dayforce", "adp", "manatal", "hireology",
+             "oorwin"}
 
 
 def _truthy(v) -> bool:

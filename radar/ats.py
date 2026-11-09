@@ -539,3 +539,9 @@ LISTERS.update({"oracle": oracle_list, "workable": workable_list, "rippling": ri
                 "bamboohr": bamboohr_list, "recruitee": recruitee_list})
 DETAILERS.update({"oracle": oracle_detail, "workable": workable_detail, "rippling": rippling_detail,
                   "bamboohr": bamboohr_detail})
+
+# More job systems (career-site pages, sitemaps and their JSON feeds); see radar/ats_more.py.
+from . import ats_more as _more  # noqa: E402  (imports html_to_text from this module)
+
+LISTERS.update(_more.LISTERS)
+DETAILERS.update(_more.DETAILERS)
