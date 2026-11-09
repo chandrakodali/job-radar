@@ -9,16 +9,11 @@ jobs:
   probe:
     runs-on: ubuntu-latest
     steps:
-      - name: Try GitHub Models
+      - name: Reachability
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          body='{"model":"openai/gpt-4.1-mini","messages":[{"role":"user","content":"Reply with JSON {\"ok\":true}"}]}'
-          for u in https://models.github.ai/inference/chat/completions https://models.github.ai/orgs/chandrakodali/inference/chat/completions https://models.inference.ai.azure.com/chat/completions; do
-            echo "== $u"
-            curl -sS -D - -o /tmp/b -w "code=%{http_code} redirect=%{redirect_url}\n" "$u" \
-              -H "Authorization: Bearer $GH_TOKEN" -H "Content-Type: application/json" -H "Accept: application/json" -d "$body" | head -25
-            echo "BODY:"; head -c 600 /tmp/b; echo
+          for u in https://models.github.ai/catalog/models https://api.openai.com/v1/models https://api.anthropic.com/v1/models https://generativelanguage.googleapis.com/v1beta/models https://api.groq.com/openai/v1/models https://openrouter.ai/api/v1/models https://api.github.com/ https://boards-api.greenhouse.io/v1/boards/gitlab/jobs; do
+            printf "%s -> " "$u"; curl -sS -m 15 -o /tmp/b -w "%{http_code} %{content_type} ip=%{remote_ip}" "$u" 2>&1; echo " | $(head -c 120 /tmp/b | tr '\n' ' ')"
           done
-          echo "== catalog"; curl -sS -w "\ncode=%{http_code}\n" https://models.github.ai/catalog/models -H "Authorization: Bearer $GH_TOKEN" | head -c 800
-          echo; echo "== proxy env"; env | grep -i proxy || true
+          getent hosts models.github.ai api.openai.com || true
