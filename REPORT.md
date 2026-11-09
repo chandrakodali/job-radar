@@ -1,10 +1,10 @@
 # Job Radar: latest matches
 
-Watching **5,074 company job boards** every 30 minutes for entry-friendly DevOps, SRE, cloud, platform and infrastructure roles in the US.
+Watching **6,608 company job boards** every 30 minutes for entry-friendly DevOps, SRE, cloud, platform and infrastructure roles in the US.
 
-Last new match: **Sun Nov 08, 06:58 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
+Last new match: **Mon Nov 09, 12:05 AM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
 
-## Posted in the last 24 hours (38)
+## Posted in the last 24 hours (39)
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
@@ -24,6 +24,7 @@ Last new match: **Sun Nov 08, 06:58 PM CST**. Score is 0–100 (higher = better 
 | 50 | [Network Infrastructure Engineer](https://crackajackdigitalsolutionsllc.applytojob.com/apply/e4aCbhwy6u/Network-Infrastructure-Engineer) | CrackaJack Digital Solutions … | Jackson, MS | Nov 08 |  |
 | 45 | [Cloud Software Engineer, Level 2](https://independentsoftware.applytojob.com/apply/KOjVyD9urd/Cloud-Software-Engineer-Level-2) | Independent Software | Annapolis Junction, MD | Nov 08 |  |
 | 45 | [Service Engineer (DevSecOps) II](https://cloudfitsoftware.applytojob.com/apply/g8DkGtdsrt/Service-Engineer-DevSecOps-II) | CloudFit Software | Lynchburg, VA | Nov 08 |  |
+| 45 | [Systems Administrator II](https://job-boards.greenhouse.io/caredxinc/jobs/4459548009) | Caredxinc | United States | Nov 08 | 4+ yrs exp; E-Verify |
 | 40 | [ML/AI Data and Cloud Engineer](https://jobs.jobvite.com/tylertech/job/oBQjAfw4) | Tyler Technologies | 2 Locations | Nov 08 | 3+ yrs exp; location unclear |
 | 35 | [Production Engineer/ Research Science Specialist (1704)](https://aramcoservices.applytojob.com/apply/kE456nZMrm/Production-Engineer-Research-Science-Specialist-1704) | Aramco Americas | Houston, TX | Nov 08 |  |
 | 35 | [Information Technology Systems Administrator](https://ketkentuckyeducationaltelevision.applytojob.com/apply/vz6bGjb10L/Information-Technology-Systems-Administrator) | KET-Kentucky Educational Tele… | Lexington, KY | Nov 08 |  |
@@ -47,12 +48,13 @@ Last new match: **Sun Nov 08, 06:58 PM CST**. Score is 0–100 (higher = better 
 | 25 | [Network Engineer Level II (Firewall) / Req#4543](https://jobs.jobvite.com/actionet/job/oglUzfwO) | ActioNet | Rosslyn, Virginia | Nov 08 | 3+ yrs exp |
 | 20 | [SRE 2 Enterprise Tech Support (Virtualization & Networking)](https://jobs.jobvite.com/nutanix/job/oEJIAfwp) | Nutanix | 2 Locations | Nov 08 | 5+ yrs exp; location unclear |
 
-## Found this week, posted earlier (260)
+## Found this week, posted earlier (309)
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
 | 75 | [Founding Engineer, Infrastructure](https://jobs.ashbyhq.com/Clera/d7270fb0-ae7d-4c92-bd1a-9a1000c0b800) | Clera | San Francisco (onsite) | Nov 07 | sponsors visas |
 | 73 | [IT Infrastructure Specialist](https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---TN---New-Johnsonville/IT-Infrastructure-Specialist_JR15258) | Chemours | US - TN - New Johnsonville | Nov 05 | 2+ yrs exp; E-Verify |
+| 70 | [DevOps Engineer I – Azure](https://www.esri.com/careers/5262837007?gh_jid=5262837007) | Esri | Redlands, CA | Oct 27 | entry-level title; 1+ yrs exp |
 | 70 | [Build Reliability Engineer I](https://boards.greenhouse.io/relativity/jobs/8911813002?gh_jid=8911813002) | Relativity Space | Long Beach, California, United States | Oct 27 | entry-level title; 1+ yrs exp |
 | 70 | [Software Engineer, Systems and Infrastructure](https://jobs.smartrecruiters.com/LinkedIn3/744000158161003-software-engineer-systems-and-infrastructure-) | LinkedIn | Bellevue, WA, United States (hybrid) | Oct 27 | 2+ yrs exp; E-Verify |
 | 68 | [DevOps Engineer I](https://jobs.smartrecruiters.com/SpringVentureGroup1/744000159713509-devops-engineer-i) | Spring Venture Group | Kansas City, MO, United States | Nov 04 | entry-level title; 2+ yrs exp; no future H-1B sponsorship |
@@ -70,6 +72,7 @@ Last new match: **Sun Nov 08, 06:58 PM CST**. Score is 0–100 (higher = better 
 | 63 | [Cloud DevOps Engineer - AWS & Python](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Cloud-DevOps-Engineer---AWS---Python_2026-0033596) | U.S. Bank | Irving, TX; Atlanta, GA; Cincinnati, OH… | Nov 05 | E-Verify |
 | 63 | [Platform Engineer, Biotech](https://jobs.ashbyhq.com/Clera/63b61af1-cd10-4499-8da3-eab9e9ce2cad) | Clera | San Francisco (onsite) | Nov 06 |  |
 | 60 | [Cloud Operations & Infrastructure Graduate - USA](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Cloud-Operations---Infrastructure-Graduate---USA_R014948-2) | AVEVA | Lake Forest, California, United States … | Oct 25 | entry-level title |
+| 60 | [Site Reliability Engineer - AI Platform](https://job-boards.greenhouse.io/verisign/jobs/8010830003) | Verisign | Reston,Virginia,United States | Oct 27 | 2+ yrs exp |
 | 60 | [Site Reliability Engineer (Data Centers)](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6237795004) | Galaxy | Afton, Texas | Oct 28 | 1+ yrs exp |
 | 60 | [Storage Platform Engineer](https://careers.pge.com/job/Oakland-Storage-Platform-Engineer-CA-94612/1425577200/) | PG&E | Oakland, CA, US, 94612 | Oct 30 | 2+ yrs exp |
 | 60 | [Cloud - Bare Metal Infrastructure Engineer](https://jobs.ashbyhq.com/render/a22230e6-803d-4e2e-82f8-ff5f500cdc3d) | Render | Remote: United States; San Francisco HQ… (remote) | Nov 03 | priority company |
@@ -82,11 +85,14 @@ Last new match: **Sun Nov 08, 06:58 PM CST**. Score is 0–100 (higher = better 
 | 58 | [Production Engineer I](https://uscareers-fujifilm.icims.com/jobs/38036/production-engineer-i/job) | Fujifilm | Pueblo, CO, US | Nov 02 | entry-level title; 1+ yrs exp |
 | 58 | [Back End Data Infrastructure Engineer](https://jobs.ashbyhq.com/Terranova/ab65c694-e140-4efe-b7f7-abca43e48ba7) | Terranova | Berkeley (onsite) | Nov 03 |  |
 | 58 | [Software Engineer, Infrastructure Modelling](https://jobs.ashbyhq.com/fluidstack/559542ae-2c39-450b-af41-cb87c97796c1) | FluidStack | Austin, TX; New York, NY; San Francisco… (onsite) | Nov 03 |  |
+| 58 | [2027 Technology Development Program - Cybersecurity (Cloud Security O…](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Cybersecurity--Cloud-Security-Operations-_R91594) | M&T Bank | Buffalo, NY (hybrid) | Nov 03 |  |
+| 58 | [Site Reliability Engineer II](https://navan.com/careers/openings?gh_jid=8350952) | Tripactions | Palo Alto, CA | Nov 04 | 2+ yrs exp |
 | 58 | [Cloud FinOps Analyst, Cloud and IT](https://jobs.lever.co/steerbridge/e250cb49-fca5-450d-9d3b-f290c0e6f14d) | SteerBridge | Vienna, VA (hybrid) | Nov 04 |  |
 | 58 | [Site Reliability Engineer - Fleet Command & Control](https://jobs.ashbyhq.com/Etched/15fa07f2-b1e9-43dd-8e9f-47854633c626) | Etched | San Jose (onsite) | Nov 04 |  |
 | 58 | [Infrastructure Engineer](https://jobs.ashbyhq.com/Kastle/7f0955a9-335d-49f7-937f-7f4563a688d1) | Kastle AI | San Francisco (onsite) | Nov 04 |  |
 | 58 | [Edge Network Engineer Junior](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Edge-Network-Engineer-Junior_JR105371) | University of Maryland - Coll… | University of Maryland College Park | Nov 04 | entry-level title; 0-2 yrs exp; no future H-1B sponsorship; likely H-… |
 | 58 | [Site Reliability Engineer - Tampa (Hybrid)](https://job-boards.greenhouse.io/hearst/jobs/4478841009) | Hearst | Tampa, FL, United States | Nov 04 |  |
+| 58 | [US Infrastructure Engineer](https://jobs.ashbyhq.com/solveintelligence/228325a6-6cdf-4213-a798-92ae0d7ed783) | Solveintelligence | New York (onsite) | Nov 05 |  |
 | 58 | [DevOps Engineer](https://biamp.wd12.myworkdayjobs.com/Biamp/job/Beaverton-OR/DevOps-Engineer_JR100451) | Biamp | Beaverton, OR | Nov 05 |  |
 | 58 | [CloudOps Engineer](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Wayne-PA-United-States-of-America/CloudOps-Engineer_R1578614) | IQVIA | Wayne, PA, United States of America | Nov 05 |  |
 | 58 | [Platform Engineer 2- Data Lake Administrator](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Platform-Engineer-2--Data-Lake-Administrator_R0076826) | Huntington Bancshares | Columbus, OH | Nov 05 | 2+ yrs exp; no future H-1B sponsorship |
@@ -98,15 +104,19 @@ Last new match: **Sun Nov 08, 06:58 PM CST**. Score is 0–100 (higher = better 
 | 55 | [Site Reliability Engineer](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/United-States-Site-Reliability-Engineer/18174) | Total Quality Logistics | Cincinnati, USA | Oct 26 | 1+ yrs exp; no future H-1B sponsorship |
 | 55 | [Cloud App Engineer](https://assaabloy.jobs2web.com/job/Cloud-App-Engineer-7000000/1451498233/) | ASSA ABLOY | VN, 7000000 | Oct 26 | 2+ yrs exp; location unclear |
 | 55 | [AI Infrastructure Engineer](https://jobs.ashbyhq.com/mercor/799ecfcc-4258-4075-8b11-12fc64fb2868) | Mercor | San Francisco (onsite) | Oct 27 |  |
+| 55 | [Infrastructure Engineer, Security](https://jobs.ashbyhq.com/ThinkingMachines/14bef671-162c-4513-bfcf-e679e41e10a8) | ThinkingMachines | San Francisco (onsite) | Oct 27 |  |
 | 55 | [Software Engineer, IP Infrastructure](https://jobs.ashbyhq.com/openai/33acf0e2-5c11-46d7-9dc9-417f5537139b) | OpenAI | San Francisco (hybrid) | Oct 28 |  |
 | 55 | [Network Infrastructure Engineer, Global Network Infra (WAN)](https://jobs.ashbyhq.com/openai/9f7371c4-e306-4a45-a400-aa2843fabd85) | OpenAI | San Francisco (hybrid) | Oct 28 |  |
 | 55 | [Advanced Specialist, DevOps & SRE](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26341) | Pearson | Bloomington, MN, United States (hybrid) | Oct 29 |  |
 | 55 | [Site Reliability Engineer II](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4268) | Akamai Technologies | United States (remote) | Nov 02 | 2+ yrs exp |
+| 55 | [IT Systems Engineer I](https://job-boards.greenhouse.io/yipitdata/jobs/8329263) | Yipitdata | US Remote (remote) | Nov 04 | entry-level title; 2+ yrs exp |
 | 55 | [Infrastructure Engineer, Enterprise AI](https://wonder.wd1.myworkdayjobs.com/WG/job/Remote-USA/Infrastructure-Engineer--Enterprise-AI_JR101458-1) | Wonder | Remote, USA (remote) | Nov 05 | E-Verify; no future H-1B sponsorship |
 | 55 | [Software Engineer, GPU Infrastructure](https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4) | Cohere | Seattle; Canada; New York; California (remote) | Nov 06 |  |
+| 55 | [AI Platform Engineer](https://job-boards.greenhouse.io/givecampus/jobs/4479171009) | Givecampus | United States (remote) | Nov 06 |  |
 | 55 | [Platform Engineer (Kubernetes)](https://jobs.ashbyhq.com/Clera/00983741-6f9e-4b8d-80c9-8252bc481d10) | Clera | San Francisco (onsite) | Nov 07 | 5+ yrs exp; sponsors visas |
 | 53 | [Dev Ops Engineer](https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Dev-Ops-Engineer_R0158768-1) | NCR Voyix | ATLANTA, GA, USA | Nov 01 |  |
 | 53 | [Consultant, Software Engineer - Platform Engineering](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Consultant--Software-Engineer---Platform-Engineering_100906) | Nationwide | Ohio - Columbus, Three Nationwide Plaza… | Nov 01 |  |
+| 53 | [Build Engineer, Advanced Concepts](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4473742009) | Betatechnologiesinc | Plattsburgh, New York, United States; R… | Nov 02 | 2+ yrs exp; E-Verify |
 | 53 | [Network Engineer, Systematic Trading Infrastructure](https://boards.greenhouse.io/point72/jobs/8919989002?gh_jid=8919989002) | Point72 | New York, NY | Nov 03 |  |
 | 53 | [Research Engineer, ML Infrastructure](https://jobs.ashbyhq.com/plsn/c422866f-657e-4510-9c05-872a8f8e0ad6) | Polished Snow | Palo Alto, California | Nov 03 |  |
 | 53 | [Software Reliability Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8929426002) | Atoms | Pittsburgh, PA | Nov 03 |  |
@@ -114,6 +124,7 @@ Last new match: **Sun Nov 08, 06:58 PM CST**. Score is 0–100 (higher = better 
 | 53 | [Application Security Engineer](https://apply.workable.com/raydar/j/CEB85BADA5/) | Raydar | San Francisco, California, United States | Nov 03 |  |
 | 53 | [Platform Engineer](https://careers-constructconnect.icims.com/jobs/2267/platform-engineer/job) | ConstructConnect | Atlanta, GA, US | Nov 03 | 3+ yrs exp; E-Verify |
 | 53 | [CTEM Cloud and Hardening Analyst](https://careers-berkley.icims.com/jobs/14814/ctem-cloud-and-hardening--analyst/job) | W.R. Berkley | Wilmington, DE, US | Nov 03 |  |
+| 53 | [Cloud and IT Systems Administrator](https://job-boards.greenhouse.io/internationalhouseberkeley/jobs/6250187004) | Internationalhouseberkeley | Berkeley, CA | Nov 04 |  |
 | 53 | [Associate Field Network Engineer](https://cdk.wd1.myworkdayjobs.com/CDK/job/Sacramento-CA-USA/Associate-Field-Network-Engineer_JR9403) | CDK Global | Sacramento, CA, USA | Nov 04 | entry-level title |
 | 53 | [Production Engineering Process Engineer](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Sunbury--Ohio-United-States-of-America/Production-Engineering-Process-Engineer_J0051914) | Astemo | Sunbury , Ohio, United States of America (onsite) | Nov 04 | 2+ yrs exp |
 | 53 | [Infrastructure Platform Engineer (Containerization and Automation foc…](https://mizuho.wd1.myworkdayjobs.com/mizuhoamericas/job/NYC-1285/Infrastructure-Platform-Engineer--Containerization-and-Automation-focus-_R7077) | Mizuho Securities USA | NYC (1285) | Nov 04 | 4+ yrs exp; E-Verify |
@@ -136,6 +147,7 @@ Last new match: **Sun Nov 08, 06:58 PM CST**. Score is 0–100 (higher = better 
 | 50 | [Platform Engineer](https://apply.workable.com/raydar/j/F0A555BA3A/) | Raydar | New York, New York, United States | Oct 29 |  |
 | 50 | [Cloud Security & Automation Engineer](https://careers-berkley.icims.com/jobs/14487/cloud-security-%26-automation-engineer/job) | W.R. Berkley | Wilmington, DE, US | Oct 29 |  |
 | 50 | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/niantic-spatial/038011fd-5fe3-4b7f-863c-919b2af28597) | Niantic Spatial | San Francisco, CA; Bellevue, Wa (hybrid) | Oct 30 | 3+ yrs exp |
+| 50 | [DevOps Engineer](https://www.digicert.com/careers/?gh_jid=8815464002) | Digicert | US VA Herndon | Oct 30 |  |
 | 50 | [Python & AWS Data Engineer](https://careers.capgemini.com/job/New-York%2C-NY-Python-&-AWS-Data-Engineer-NY-10001/1402002433/) | Capgemini | New York, NY, US | Oct 30 |  |
 | 50 | [DevOps Engineer, Advisor](https://apply.edisoncareers.com/job/Rosemead-DevOps-Engineer%2C-Advisor-CA-91770-3714/1436526100/) | Edison International | Rosemead, CA, US, 91770-3714 | Nov 01 |  |
 | 50 | [AI Platform Engineer](https://careers.capgemini.com/job/Atlanta%2C-GA-AI-Platform-Engineer-GA-30301/1453480133/) | Capgemini | Atlanta, GA, US | Nov 01 |  |
@@ -145,6 +157,7 @@ Last new match: **Sun Nov 08, 06:58 PM CST**. Score is 0–100 (higher = better 
 | 50 | [DevOps Engineer](https://apply.workable.com/raydar/j/B358652A7B/) | Raydar | United States (remote) | Nov 02 |  |
 | 50 | [Platform Engineer](https://jobs.ashbyhq.com/GovSignals/fc4ea180-ff90-4c11-b92d-dcaed8b6a8ee) | GovSignals | Remote - U.S. (remote) | Nov 03 |  |
 | 50 | [Infrastructure Engineer](https://apply.workable.com/raydar/j/2F8F576E57/) | Raydar | United States (remote) | Nov 04 |  |
+| 50 | [1187 - Cloud Infrastructure Engineer I](https://careers.gofasti.com/job-application/6250585004?gh_jid=6250585004) | Gofasti | Remote (remote) | Nov 05 | entry-level title; 3+ yrs exp; location unclear |
 | 48 | [Application Support Engineering - SRE](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214675) | DTCC | TX, United States; Dallas, TX, United S… | Nov 02 | 4+ yrs exp |
 | 48 | [Data Infrastructure and Systems Specialist, NA](https://vantagedc.wd1.myworkdayjobs.com/Vantage/job/Denver-Colorado/Data-Infrastructure-and-Systems-Specialist--NA_R25177) | Vantage Data Centers | Denver, Colorado; Ashburn, Virginia; At… | Nov 02 | 3+ yrs exp |
 | 48 | [IT, Systems Engineer 3 - Windows](https://yale.wd1.myworkdayjobs.com/terminated_layoff_external_career_site/job/Science-Park-Bldg-25/IT--Systems-Engineer-3---Windows_138914WD-2) | Yale University | Science Park Bldg 25 (hybrid) | Nov 02 | likely H-1B cap-exempt (verify) |
@@ -155,12 +168,15 @@ Last new match: **Sun Nov 08, 06:58 PM CST**. Score is 0–100 (higher = better 
 | 48 | [Production Engineer](https://job-boards.greenhouse.io/usconec/jobs/4478726009) | US Conec | Hickory, North Carolina, United States | Nov 04 | 2+ yrs exp |
 | 48 | [R&D Software Engineer – Sampling Oscilloscope Applications & DevOps](https://jobs.keysight.com/jobs/55298?lang=en-us) | Keysight Technologies | Santa Rosa, California | Nov 04 | 4+ yrs exp |
 | 48 | [IT Site Reliability Engineer — API Management Platforms](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25009540) | Texas Instruments | Dallas, TX, United States | Nov 04 | 3+ yrs exp |
+| 48 | [DevOps Engineer](https://job-boards.greenhouse.io/inspire11/jobs/8440233002) | Inspire11 | Chicago, IL | Nov 04 | no future H-1B sponsorship |
 | 48 | [DevOps Engineer](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20001) | ACI Worldwide | Norcross, GA, United States (hybrid) | Nov 04 | 3+ yrs exp; no future H-1B sponsorship |
 | 48 | [Engineering Lab Infrastructure and Rework Engineer](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Engineering-Lab-Infrastructure-and-Rework-Engineer_2605254) | Marvell | Santa Clara, CA | Nov 04 | 3+ yrs exp |
 | 48 | [DevOps Developer - Euna Grants](https://euna.bamboohr.com/careers/808) | EUNA Solutions | Atlanta, Georgia | Nov 04 | 3+ yrs exp |
 | 48 | [Configuration Management Specialist](https://careers.leonardodrs.com/job/Bridgeton-Configuration-Management-Specialist-MO-63044/1417726800/) | Leonardo DRS | Bridgeton, MO, US, 63044 | Nov 05 | 2+ yrs exp |
+| 48 | [Junior Systems Administrator](https://job-boards.greenhouse.io/telnyx54/jobs/8189221003) | Telnyx54 | Denver, CO | Nov 05 | entry-level title |
 | 48 | [Field IT & Network Engineer](https://ats.rippling.com/popstroke-job-board-1924/jobs/68c3929f-2d6c-4e9e-aaf1-fb08f75add8d) | PopStroke Holdings LLC | Plano, TX (onsite) | Nov 05 |  |
 | 48 | [Founding Cloud Infrastructure Engineer](https://jobs.ashbyhq.com/Clera/a3ddbed5-14b8-4192-8f94-124b8cebb549) | Clera | San Mateo (onsite) | Nov 05 | 5+ yrs exp; sponsors visas |
+| 48 | [Forward Deployed Infrastructure Engineer - APAC](https://jobs.ashbyhq.com/hyperbolic/d0d57bcf-8b09-415a-aacd-51b5f50b26de) | Hyperbolic | Remote | Nov 05 | location unclear |
 | 48 | [IT Systems Engineer](https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/816-Congress-Ave-Ste-1800----AUSTIN-TX/IT-Systems-Engineer_JR114756) | Acrisure | 816 Congress Ave Ste 1800  - AUSTIN, TX (hybrid) | Nov 05 |  |
 | 48 | [Platform Engineer - SCON](https://boards.greenhouse.io/accenturefederalservices/jobs/4727887006?gh_jid=4727887006) | Accenture | Washington, DC | Nov 06 | no future H-1B sponsorship |
 | 48 | [Infrastructure Engineer](https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6368) | Rice University | United States (hybrid) | Nov 06 | 5+ yrs exp; likely H-1B cap-exempt (verify) |
@@ -174,35 +190,20 @@ Last new match: **Sun Nov 08, 06:58 PM CST**. Score is 0–100 (higher = better 
 | 45 | [C++ Software Engineer - Market Data Infrastructure (USA)](https://apply.workable.com/trexquant/j/266CDF40FD/) | Trexquant | New York, New York, United States | Oct 26 | 3+ yrs exp |
 | 45 | [Network Administrator](https://careers-ruralking.icims.com/jobs/42312/network-administrator/job) | Rural King | Mattoon, IL, US | Oct 27 | 2+ yrs exp |
 | 45 | [Software Engineer, Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8829039002) | Databricks | Mountain View, California | Oct 28 | 3+ yrs exp |
+| 45 | [Security Engineer II, Security Platform](https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/Security-Engineer-II_R_107105) | Remitly | Seattle, Washington United States | Oct 28 |  |
 | 45 | [MLOps Engineer](https://careers.capgemini.com/job/Dallas%2C-TX-MLOps-Engineer-TX-75201/1443037033/) | Capgemini | Dallas, TX, US | Oct 28 | 3+ yrs exp |
 | 45 | [Data Platform Engineer](https://careers.pge.com/job/Oakland-Data-Platform-Engineer-CA-94612/1425212700/) | PG&E | Oakland, CA, US, 94612 | Oct 29 | 3+ yrs exp |
 | 45 | [DevOps Engineer/ Production Support Analyst](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4725832006) | mthree | USA | Oct 29 | no future H-1B sponsorship |
+| 45 | [Cloud Systems Analyst](https://job-boards.greenhouse.io/crfamilyofcompanies/jobs/8109881003) | Crfamilyofcompanies | Dayton, Ohio, United States | Oct 30 | 4+ yrs exp |
 | 45 | [Int Database Reliability Engineer (DBRE)](https://jobs.lever.co/pointclickcare/dc0d44ce-bc2a-4577-bb0b-a38250bfc971) | PointClickCare | Remote - US (remote) | Nov 02 | 3+ yrs exp |
 | 45 | [Software Engineer, Infrastructure Engineering](https://job-boards.greenhouse.io/reddit/jobs/8337444) | Reddit | Remote - United States (remote) | Nov 02 | 3+ yrs exp |
+| 45 | [DevOps Engineer](https://jobs.ashbyhq.com/Span.app/00de323d-8842-470f-af05-91643597bb11) | Span App | Remote (USA); Buenos Aires, Argentina; … (remote) | Nov 04 | 4+ yrs exp |
 | 45 | [Observability Engineer](https://jobs.ashbyhq.com/openloophealth/d1e8a8c6-8205-4057-8e5d-597c9df3f724) | OpenLoop | United States - Remote (remote) | Nov 04 | 3+ yrs exp |
+| 45 | [MLOps / DevOps Engineer – AI Infrastructure](https://jobs.ashbyhq.com/creatoriq/e88a2ed2-52d8-45c7-9c6c-e372fec21cfb) | Creatoriq | New York; New Jersey; Los Angeles; San … (remote) | Nov 04 | 3+ yrs exp |
 | 43 | [DevOps Technical Engineer](https://airliquidehr.wd3.myworkdayjobs.com/AirgasExternalCareer/job/Radnor-PA-Airgas-HO---Management---Digital--IT-Airgas/DevOps-Technical-Engineer_R10103870) | Airgas | Radnor, PA (Airgas HO) - Management - D… | Nov 01 | 3+ yrs exp; no future H-1B sponsorship |
 | 43 | [Build Engineer](https://jobs.ashbyhq.com/Etched/4020db7a-1ec0-48e3-9bbd-f1337c63a403) | Etched | San Jose (onsite) | Nov 02 |  |
-| 43 | [Network Engineer](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6237746004) | Two Six Technologies | Herndon, Virginia | Nov 02 | E-Verify |
-| 43 | [IT Systems Engineer](https://jobs.lever.co/humble-robotics/6dd25c14-dc28-4744-97a6-4b83f07c28c9) | Humble Robotics | San Francisco (onsite) | Nov 03 |  |
-| 43 | [Network Engineer](https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/999-Peachtree-Street-Northeast-Suite-2750---ATLANTA-GA/Network-Engineer_JR114666) | Acrisure | 999 Peachtree Street Northeast, Suite 2… (hybrid) | Nov 03 |  |
-| 43 | [Secure Infrastructure Engineer](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Corvallis-Oregon-United-States-of-America/Secure-Infrastructure-Engineer_3170598-1) | Hewlett Packard (HP) | Corvallis, Oregon, United States of Ame… | Nov 03 | 4+ yrs exp |
-| 43 | [Network Engineer](https://jobs.ashbyhq.com/options-it/dc5f0094-f6b8-422c-9773-577a519ef269) | Options Technology | New York (onsite) | Nov 04 |  |
-| 43 | [Intermediate Network Systems Administrator](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Chippewa-Falls-Wisconsin-United-States-of-America/Intermediate-Network-Systems-Administrator_1216526) | Hewlett Packard Enterprise | Chippewa Falls, Wisconsin, United State… | Nov 04 | 2+ yrs exp |
-| 43 | [Software Platform Engineer II](https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-II/21525) | MetLife |  | Nov 04 | location unclear |
-| 43 | [Network Engineer](https://www.optimumcareers.com/job/Parsippany-Network-Engineer-NJ-07054/1448315000/) | Altice USA | Parsippany, NJ, US, 07054 | Nov 04 | 2+ yrs exp; no future H-1B sponsorship |
-| 43 | [Software Engineer: Infrastructure](https://jobs.ashbyhq.com/generalist/cfe9bb4b-a31c-4be7-b1c6-0d24bf0a1194) | Generalist | Boston (Somerville) (onsite) | Nov 04 | 5+ yrs exp |
-| 43 | [Embedded Linux Software Engineer](https://jobs.ashbyhq.com/AeroVect/49403b08-400b-43e7-91f8-709c965bda54) | AeroVect | Atlanta - Hybrid (hybrid) | Nov 05 | 3+ yrs exp |
-| 43 | [Cloud Engineer 808](https://job-boards.greenhouse.io/freedomconsulting/jobs/5286275007) | Freedom Technology Solutions … | Annapolis Junction, MD | Nov 05 | 6+ yrs exp; E-Verify |
-| 43 | [Production Engineer - 2nd Shift](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10418) | Standard Aero | San Antonio, TX, United States | Nov 05 |  |
-| 43 | [Platform Engineer - Palantir](https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/999-Peachtree-Street-Northeast-Suite-2750---ATLANTA-GA/Platform-Engineer---Palantir_JR113593) | Acrisure | 999 Peachtree Street Northeast, Suite 2… (hybrid) | Nov 05 | 5+ yrs exp |
-| 43 | [Academic Systems Administrator](https://irsc.wd5.myworkdayjobs.com/External/job/Fort-Pierce-FL/Academic-Systems-Administrator_R5650) | Indian River State College | Fort Pierce, FL | Nov 05 | 3+ yrs exp; likely H-1B cap-exempt (verify) |
-| 43 | [Network Engineer](https://maersk.wd3.myworkdayjobs.com/APMT_Careers/job/USA-North-Carolina-Charlotte-28273/Network-Engineer_R202479) | APM Terminals | USA, North Carolina, Charlotte, 28273 | Nov 05 |  |
-| 43 | [Threat & Exposure Management Platform Engineer](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Threat---Exposure-Management-Platform-Engineer_26997074) | Citi | Irving Texas United States (hybrid) | Nov 05 | 10+ yrs exp |
-| 42 | [Cloud Migration Engineer I](https://appliedis.wd5.myworkdayjobs.com/AIS_Careers/job/USA-Remote/Cloud-Migration-Engineer-I_JR2026001427) | Applied Information Sciences | USA Remote (remote) | Oct 28 | entry-level title |
-| 42 | [Cloud Systems Administrator](https://job-boards.greenhouse.io/oneimaging/jobs/4484490009) | OneImaging | Remote (remote) | Nov 06 | location unclear |
-| 40 | [Software/Platform Engineer II](https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-II/21325) | MetLife |  | Oct 26 | location unclear |
 
-## Hidden from alerts: clearance/citizenship or rejected by the AI check (346 this week)
+## Hidden from alerts: clearance/citizenship or rejected by the AI check (357 this week)
 
 Clearance, US citizenship or ITAR requirements (which F-1/OPT holders can't meet), or jobs the AI reviewer judged off-target or too senior. The reason is in the flags column. Listed so you can double-check.
 
