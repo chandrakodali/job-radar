@@ -433,6 +433,7 @@ ashby,nationgraph,NationGraph
 ashby,navi,Navi AI
 ashby,neko-health,Neko Health
 ashby,neocognition,NeoCognition
+ashby,netholabs,Netholabs
 ashby,newlantern,New Lantern
 ashby,nexttoken,NextToken
 ashby,nexus-intelligence,Nexus Intelligence
@@ -730,6 +731,7 @@ avature,harmanglobal.avature.net|en_US/careers,HARMAN International
 avature,koch.avature.net|en_US/careers,Koch Industries
 avature,mantech.avature.net|en_US/careers,ManTech
 avature,metlife.avature.net|en_US/ml,MetLife
+avature,mt.avature.net|en_US/careers,Mettler Toledo
 avature,bnc.avature.net|en_CA/careers,National Bank of Canada
 avature,pomerleau.avature.net|en_US/Jobs,Pomerleau
 avature,siemens.avature.net|en_US/externaljobs,Siemens
@@ -2176,7 +2178,6 @@ jibe,githubinc.jibeapply.com,GitHub
 jibe,careers.highlighttech.com,Highlight Technologies
 jibe,jobs.keysight.com,Keysight Technologies
 jibe,careers.medpace.com,"Medpace, Inc."
-jibe,careers.pdf.com,PDF Solutions
 jibe,careers.rivian.com,Rivian
 jobvite,aarete,AArete
 jobvite,actionet,ActioNet
@@ -2914,6 +2915,7 @@ rippling,wdscareers,"Wildfire Defense Systems, Inc."
 rippling,zededa,Zededa
 rippling,zuckerman-investment-group,Zuckerman Investment Group
 sfrmk,careers.acuityinc.com,Acuity
+sfrmk,jobs.adidas-group.com,Adidas
 sfrmk,jobs.advanced-energy.com,Advanced Energy
 sfrmk,careers.aflac.com,Aflac
 sfrmk,careers.agcocorp.com,AGCO
@@ -4066,7 +4068,6 @@ workday,franklintempleton|wd5|invitation-only,Franklin Templeton
 workday,kbr|wd5|Frazer_Nash_Careers,Frazer-Nash Consultancy
 workday,freddiemac|wd5|External,Freddie Mac
 workday,freese|wd1|Freese_Nichols_External,Freese and Nichols
-workday,freseniusglobal|wd3|FK_Careers,Fresenius Kabi
 workday,freseniusmedicalcare|wd3|fme,Fresenius Medical Care
 workday,freudenberg|wd3|freudenberg-group,Freudenberg Group
 workday,frostbank|wd5|External,Frost
@@ -4194,7 +4195,6 @@ workday,idexcorp|wd5|idex_careers,IDEX
 workday,idexx|wd1|IDEXX,IDEXX
 workday,igsenergy|wd1|IGS,IGS Energy
 workday,iheartmedia|wd5|External_iHM,iHeartMedia
-workday,iheartmedia|wd5|iHM_Technology_Site,iHeartMedia
 workday,ijm|wd5|careers-ijm,IJM
 workday,iko|wd3|iko_careers,IKO
 workday,illumina|wd1|illumina-careers,Illumina
@@ -4351,7 +4351,6 @@ workday,madixinc|wd12|Madix,Madix
 workday,maersk|wd3|maersk_careers,Maersk
 workday,magellanhealth|wd5|magellan_health_careers,Magellan Health
 workday,@magna|wd3|Magna,Magna
-workday,magna|wd3|Magna,Magna International
 workday,osv-rubicon|wd5|MagniteCareers,Magnite
 workday,spectris|wd3|Malvern_Panalytical_Careers,Malvern Panalytical
 workday,manulife|wd3|MFCJH_Jobs,Manulife Financial
@@ -4473,7 +4472,6 @@ workday,nebraskamed|wd5|nm,Nebraska Medicine
 workday,neighborlybrands|wd1|neighborly,Neighborly
 workday,nelnet|wd1|MyNelnet,Nelnet
 workday,neogen|wd5|neogencareers,Neogen
-workday,netflix|wd1|Netflix,Netflix
 workday,ntst|wd1|careers,Netsmart
 workday,nb|wd1|NBCareers,Neuberger Berman
 workday,newbalance|wd1|careers,New Balance
@@ -4594,7 +4592,6 @@ workday,legalshieldcorp|wd1|lsc,PPLSI
 workday,jackson|wd1|ppma_careers,PPM America
 workday,pra|wd1|PRA_Careers,PRA Group
 workday,tamus|wd1|pvamu_external,Prairie View A&M University
-workday,premera|wd5|premera,Premera Blue Cross
 workday,premierinc|wd1|external_professional,Premier
 workday,priceline|wd1|Priceline,Priceline
 workday,pwc|wd3|Global_Campus_Careers,PricewaterhouseCoopers (PwC)
@@ -4671,7 +4668,7 @@ workday,roberthalf|wd1|roberthalfcareers,Robert Half
 workday,roche|wd3|roche-ext,Roche
 workday,rit|wd12|careers,Rochester Institute of Technology
 workday,rrhs|wd5|RRH,Rochester Regional Health
-workday,quickenloans|wd5|rocket_careers,Rocket Mortgage
+workday,quickenloans|wd5|rocket_careers,Rocket Companies
 workday,rocket|wd5|rocket_careers,Rocket Software
 workday,rockwellautomation|wd1|External-Rockwell-Automation-Early-Careers,Rockwell Automation
 workday,rockwellautomation|wd1|External_Rockwell_Automation,Rockwell Automation
@@ -4713,7 +4710,6 @@ workday,sarahbush|wd1|sarahbush,Sarah Bush Lincoln Health Center
 workday,mckesson|wd3|SCRI_Careers,Sarah Cannon Research Institute (SCRI)
 workday,scgov|wd5|SCGOV,Sarasota County
 workday,sarepta|wd5|sarepta_external,Sarepta
-workday,justfab|wd1|savagex,Savage X Fenty
 workday,sbasite|wd5|SBA_Communications_Careers,SBA Communications Corporation
 workday,scj|wd5|External_Career_Site,SC Johnson
 workday,scanhealthplan|wd108|scancareers,SCAN
@@ -5051,7 +5047,7 @@ workday,zeissgroup|wd3|External,Zeiss
 workday,zekelman|wd12|Careers,Zekelman Industries
 workday,zendesk|wd1|zendesk,Zendesk
 workday,zillow|wd5|Zillow_Group_External,Zillow
-workday,zoetis|wd5|zoetis,Zoetis
+workday,zoetis|wd5|zoetis,Zoetis Services
 workday,zoll|wd5|ZOLLMedicalCorp,ZOLL Medical Corporation
 workday,zoom|wd5|zoom,Zoom
 workday,zrsmanagement|wd5|zrs_careers,ZRS Management
