@@ -244,6 +244,7 @@ def test_full_run(tmp_path, monkeypatch):
     boards = [Board("greenhouse", "acme", "Acme"), Board("lever", "beta", "Beta"),
               Board("greenhouse", "gone", "Gone"), Board("greenhouse", "rtx", "RTX")]
     monkeypatch.setattr(M, "load_boards", lambda: boards)
+    monkeypatch.setattr(M, "load_discovered", lambda known: [])
     now = datetime.now(timezone.utc)
     state = {"jobs": [
         _job(job_id="1", title="Associate DevOps Engineer", posted_at=now - timedelta(hours=2), needs_detail=True,
@@ -418,6 +419,7 @@ def test_ai_review_in_run(tmp_path, monkeypatch):
     monkeypatch.setattr(ai.time, "sleep", lambda s: None)
     now = datetime.now(timezone.utc)
     monkeypatch.setattr(M, "load_boards", lambda: [Board("greenhouse", "acme", "Acme")])
+    monkeypatch.setattr(M, "load_discovered", lambda known: [])
     monkeypatch.setitem(ATS.LISTERS, "greenhouse", lambda b: [
         _job(job_id="1", title="DevOps Engineer", posted_at=now - timedelta(hours=1), description="1 year of experience"),
         _job(job_id="2", title="Cloud Engineer", posted_at=now - timedelta(hours=1), description="Help desk tickets")])
@@ -435,3 +437,31 @@ def test_ai_review_in_run(tmp_path, monkeypatch):
     assert [r["uid"] for r in kept] == ["greenhouse:acme:1"] and kept[0]["ai"] == "keep" and kept[0]["ai_score"] == "90"
     assert [r["uid"] for r in rej] == ["greenhouse:acme:2"] and "not a target role" in rej[0]["reject_reason"]
     assert "Help desk tickets" in prompts[0]
+
+
+def test_discovered_rotation(tmp_path, monkeypatch):
+    monkeypatch.setattr(S, "STATE_PATH", str(tmp_path / "state.json"))
+    monkeypatch.setattr(S, "MATCHES_PATH", str(tmp_path / "matches.csv"))
+    monkeypatch.setattr(S, "REJECTED_PATH", str(tmp_path / "rejected.csv"))
+    monkeypatch.setattr(S, "DATA", str(tmp_path))
+    monkeypatch.setattr(R, "REPORT_PATH", str(tmp_path / "REPORT.md"))
+    monkeypatch.setattr(D, "DOCS", str(tmp_path / "docs"))
+    monkeypatch.setattr(D, "PAGE_PATH", str(tmp_path / "docs" / "index.html"))
+    for var in ("GEMINI_API_KEY", "OPENROUTER_API_KEY", "GROQ_API_KEY", "OPENAI_API_KEY", "ANTHROPIC_API_KEY"):
+        monkeypatch.delenv(var, raising=False)
+    (tmp_path / "discovered.csv").write_text("ats,board,company,us_tech_jobs,jobs,checked\n" +
+        "".join(f"lever,co{i},Co {i},1,1,2026-11-08\n" for i in range(5)) + "lever,acme,Acme,1,1,2026-11-08\n")
+    monkeypatch.setattr(S, "DISCOVERED_PATH", str(tmp_path / "discovered.csv"))
+    found = S.load_discovered({"lever:acme"})
+    assert [b.board for b in found] == [f"co{i}" for i in range(5)] and not found[0].named and found[0].tier == "found"
+
+    monkeypatch.setattr(M, "load_boards", lambda: [Board("lever", "acme", "Acme")])
+    real_cfg = M.load_config()
+    monkeypatch.setattr(M, "load_config", lambda: {**real_cfg, "discovery": {"boards_per_run": 2}})
+    seen = []
+    monkeypatch.setitem(ATS.LISTERS, "lever", lambda b: seen.append(b.board) or [])
+    for _ in range(3):
+        M.main(["--dry-run"])
+    # every run: the curated board plus the next 2 discovered ones, wrapping around
+    assert seen == ["acme", "co0", "co1", "acme", "co2", "co3", "acme", "co4", "co0"] or \
+        sorted(seen) == sorted(["acme", "co0", "co1", "acme", "co2", "co3", "acme", "co4", "co0"])

@@ -31,7 +31,7 @@ from .notify import Notifier
 from .dashboard import build_dashboard, write_dashboard
 from .report import build_report, write_report
 from .ai import Reviewer
-from .store import (ROOT, append_matches, append_rejected, load_boards, load_state, now_utc, prune_seen,
+from .store import (ROOT, append_matches, append_rejected, load_boards, load_discovered, load_state, now_utc, prune_seen,
                     read_matches, save_state, update_matches)
 
 log = logging.getLogger("radar")
@@ -116,7 +116,10 @@ def run(args) -> int:
     boards = resolve_auto_boards(boards, state, today)
     if args.only:
         boards = [b for b in boards if b.ats in args.only]
-    total_boards = len(boards)
+    found = [b for b in load_discovered({b.key.lower() for b in boards}) if not is_excluded_company(b, rules)]
+    if args.only:
+        found = [b for b in found if b.ats in args.only]
+    total_boards = len(boards) + len(found)
 
     wd_cfg = cfg.get("workday", {})
     shards = int(wd_cfg.get("shards", 4))
@@ -128,6 +131,16 @@ def run(args) -> int:
         if b.ats == "workday" and not args.all_shards and workday_shard_of(b, shards) != slot:
             continue
         selected.append(b)
+    # Discovered boards: a rotating slice each run, so all of them are checked every few hours.
+    active_found = sorted((b for b in found if not board_disabled(state, b, today)), key=lambda b: b.key.lower())
+    per_run = int(cfg.get("discovery", {}).get("boards_per_run", 1500))
+    if active_found:
+        start = int(state.get("found_cursor", 0)) % len(active_found)
+        take = active_found[start:start + per_run]
+        if len(take) < per_run:
+            take += active_found[:min(per_run - len(take), start)]
+        selected += take
+        state["found_cursor"] = (start + len(take)) % len(active_found)
     if args.limit:
         per = Counter()
         lim = []
@@ -136,8 +149,8 @@ def run(args) -> int:
                 lim.append(b)
                 per[b.ats] += 1
         selected = lim
-    log.info("Boards: %d total, %d this run (workday slot %d/%d). Notifications: %s",
-             total_boards, len(selected), slot, shards, notifier.describe())
+    log.info("Boards: %d total (%d discovered), %d this run (workday slot %d/%d). Notifications: %s",
+             total_boards, len(found), len(selected), slot, shards, notifier.describe())
 
     sems = {k: threading.Semaphore(v) for k, v in LIST_CONCURRENCY.items()}
     dsems = {k: threading.Semaphore(v) for k, v in DETAIL_CONCURRENCY.items()}

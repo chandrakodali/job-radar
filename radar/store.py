@@ -15,6 +15,7 @@ STATE_PATH = os.path.join(DATA, "state.json")
 MATCHES_PATH = os.path.join(DATA, "matches.csv")
 COMPANIES_PATH = os.path.join(ROOT, "companies.csv")
 CUSTOM_PATH = os.path.join(ROOT, "companies_custom.csv")
+DISCOVERED_PATH = os.path.join(ROOT, "discovered.csv")
 
 REJECTED_PATH = os.path.join(DATA, "rejected.csv")
 
@@ -58,6 +59,26 @@ def load_boards() -> list[Board]:
                 )
                 boards[b.key.lower()] = b
     return list(boards.values())
+
+
+def load_discovered(known: set[str]) -> list[Board]:
+    """discovered.csv (found automatically by scripts/discover_boards.py), minus boards already listed."""
+    out = []
+    if not os.path.exists(DISCOVERED_PATH):
+        return out
+    with open(DISCOVERED_PATH, newline="", encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            ats = (row.get("ats") or "").strip().lower()
+            board = (row.get("board") or "").strip()
+            if not board or ats not in VALID_ATS or ats == "auto":
+                continue
+            company = (row.get("company") or "").strip() or board
+            b = Board(ats=ats, board=board, company=company, named=False, tier="found",
+                      cap_exempt=bool(CAP_EXEMPT_RE.search(company)) and not NOT_CAP_EXEMPT_RE.search(company))
+            if b.key.lower() not in known:
+                known.add(b.key.lower())
+                out.append(b)
+    return out
 
 
 def load_state() -> dict:

@@ -1,0 +1,48 @@
+name: discover-employers
+
+on:
+  schedule:
+    - cron: '41 9 * * 0'   # Sundays: find more employers' job boards via the Common Crawl index
+  workflow_dispatch:
+    inputs:
+      only:
+        description: 'Only these systems (comma list), blank for all'
+        required: false
+        default: ''
+      max_pages:
+        description: 'Index pages per pattern per crawl'
+        required: false
+        default: '30'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discover
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Find and check new boards
+        run: python scripts/discover_boards.py --budget-min 120 --max-pages "${{ inputs.max_pages || '30' }}" --only "${{ inputs.only }}"
+      - name: Save
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add discovered.csv
+          if git diff --cached --quiet; then echo "No changes."; exit 0; fi
+          git commit -m "Discovered employers $(date -u +'%Y-%m-%d')"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 10
+          done
+          exit 1

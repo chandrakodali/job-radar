@@ -256,3 +256,7 @@ notify:
 # Optional AI check of every new match (turns on when an AI key secret exists; see radar/ai.py).
 ai:
   max_requests_per_run: 6   # 5 jobs per request; keeps well inside free-tier daily limits
+
+# Boards found automatically (discovered.csv, refreshed weekly) are checked on a rotation.
+discovery:
+  boards_per_run: 1500

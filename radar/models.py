@@ -14,6 +14,8 @@ class Board:
     company: str
     priority: bool = False      # from companies_custom.csv: score boost
     cap_exempt: bool = False    # university / academic medical / nonprofit research (likely H-1B cap-exempt)
+    named: bool = True          # False when `company` is only a guess from the board id (discovered boards)
+    tier: str = "core"          # core (curated list) | found (discovered automatically)
 
     @property
     def key(self) -> str:
@@ -35,6 +37,8 @@ class Job:
     description: str = ""                  # plain text when available
     needs_detail: bool = False             # fetch the single-job endpoint for description/country/date
     detail_ref: str = ""                   # ATS-specific pointer for the detail call
+    title_guess: bool = False              # title read from a URL slug; the detail page gives the real one
+    company_guess: bool = False            # company is a guess; the detail page may name it
 
     @property
     def uid(self) -> str:
