@@ -4630,22 +4630,22 @@
   },
   "avature:skanska.avature.net|careers": {
    "err": "robots.txt disallows /careers/sitemap_index.xml",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "avature:travisperkins.avature.net|careers": {
    "err": "robots.txt disallows /careers/sitemap_index.xml",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "eightfold:aexp|aexp.com": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "eightfold:zebra|zebra.com": {
    "err": "HTTP 403",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "greenhouse:alma": {
@@ -4896,122 +4896,122 @@
   },
   "icims:canadacareers-amd.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:career-schwab.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:careers-additionalrovisysopportunities.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:careers-biorad.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:careers-hrblock.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:careers-ice.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:careers-itcfederal.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:careers-nv5.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:careers-publicisgroupetest.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:careers-rcm.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:careers-revolutioncompany.icims.com": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:careers-se.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:careers-sev1tech.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:careers-sharpusa.icims.com": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:careers-sig.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:external-careers-friedkin.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:field-careers-gmr.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:jobs-legrand.icims.com": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:returners-hrblock.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:studentemployment-stthomas.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:university-uber.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:uscareers-pepsico.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "icims:woodplc-tradecraft-us-external-qa.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "lever:aifund": {
@@ -5172,12 +5172,12 @@
   },
   "pinpoint:interactsoftware": {
    "err": "robots.txt disallows /postings.json",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "pinpoint:wolve": {
    "err": "robots.txt disallows /postings.json",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "recruitee:1x": {
@@ -5248,37 +5248,37 @@
   },
   "sfrmk:careers.qualitestgroup.com": {
    "err": "robots.txt disallows /job_sitemap.xml",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "taleo:aa243|ex": {
    "err": "Taleo portal number not found",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "taleo:energytransfer|etp_ext": {
    "err": "Taleo portal number not found",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "taleo:jacobs|ex3": {
    "err": "robots.txt disallows /careersection/ex3/jobsearch.ftl",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "taleo:kearney|01": {
    "err": "Taleo portal number not found",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "taleo:kp|external": {
    "err": "Taleo portal number not found",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "taleo:vulcanmat|2": {
    "err": "Taleo portal number not found",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "workable:currier-plastics": {
@@ -5342,7 +5342,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -33342,6 +33342,9 @@
   "oracle:hcor.fa.us2.oraclecloud.com|CX_1:4812": "2026-11-08",
   "oracle:hdde.fa.us2.oraclecloud.com|CX:4543": "2026-11-08",
   "oracle:iawmqy.fa.ocs.oraclecloud.com|careers:299132": "2026-11-08",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029199EXTERNALENGLOBAL": "2026-11-09",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029200EXTERNALENGLOBAL": "2026-11-09",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029203EXTERNALENGLOBAL": "2026-11-09",
   "phenom:careers.quest-global.com|global/en:QGRQGAGLOBALP124062EXTERNALENGLOBAL": "2026-11-09",
   "pinpoint:idtus:498997": "2026-11-09",
   "pinpoint:idtus:587967": "2026-11-09",
@@ -33810,6 +33813,6 @@
   "workday:ymcaatlanta|wd1|ymca-careers:Atlanta, GA": "2026-11-08",
   "workday:zeissgroup|wd3|External:JR_1054737": "2026-11-07"
  },
- "title_rules": "fd4e8b674c46",
+ "title_rules": "210892177ce9",
  "version": 1
 }
