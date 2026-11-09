@@ -47,13 +47,20 @@ class FetchError(Exception):
         self.status = status
 
 
-def get_json(url: str, params: dict | None = None):
+MAX_TEXT_BYTES = 12 * 1024 * 1024
+HTML_ACCEPT = "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+
+
+def _send(method: str, url: str, **kw):
     try:
-        r = session().get(url, params=params, timeout=TIMEOUT)
+        return session().request(method, url, timeout=TIMEOUT, **kw)
     except requests.exceptions.RetryError as e:
         raise FetchError("rate limited (retries exhausted)", 429) from e
     except requests.RequestException as e:
         raise FetchError(f"network error: {type(e).__name__}") from e
+
+
+def _json(r):
     if r.status_code != 200:
         raise FetchError(f"HTTP {r.status_code}", r.status_code)
     try:
@@ -62,16 +69,36 @@ def get_json(url: str, params: dict | None = None):
         raise FetchError("invalid JSON", r.status_code) from e
 
 
-def post_json(url: str, payload: dict):
+def get_json(url: str, params: dict | None = None, headers: dict | None = None):
+    return _json(_send("GET", url, params=params, headers=headers))
+
+
+def post_json(url: str, payload, headers: dict | None = None, params: dict | None = None):
+    return _json(_send("POST", url, json=payload, headers=headers, params=params))
+
+
+def get_text(url: str, params: dict | None = None, headers: dict | None = None,
+             accept: str = HTML_ACCEPT, method: str = "GET", data=None) -> str:
+    """GET (or POST) a page or feed as text (HTML, XML, RSS). Caps the size to stay memory-safe."""
+    h = {"Accept": accept}
+    if headers:
+        h.update(headers)
+    r = _send(method, url, params=params, headers=h, data=data, stream=True)
     try:
-        r = session().post(url, json=payload, timeout=TIMEOUT)
-    except requests.exceptions.RetryError as e:
-        raise FetchError("rate limited (retries exhausted)", 429) from e
+        if r.status_code != 200:
+            raise FetchError(f"HTTP {r.status_code}", r.status_code)
+        chunks, size = [], 0
+        for chunk in r.iter_content(65536):
+            chunks.append(chunk)
+            size += len(chunk)
+            if size > MAX_TEXT_BYTES:
+                break
+        raw = b"".join(chunks)
     except requests.RequestException as e:
         raise FetchError(f"network error: {type(e).__name__}") from e
-    if r.status_code != 200:
-        raise FetchError(f"HTTP {r.status_code}", r.status_code)
-    try:
-        return r.json()
-    except ValueError as e:
-        raise FetchError("invalid JSON", r.status_code) from e
+    finally:
+        r.close()
+    enc = r.encoding or "utf-8"
+    if enc.lower() in ("iso-8859-1", "latin-1") and b"charset" not in raw[:2048].lower():
+        enc = "utf-8"  # requests' default when no charset is sent; real pages are almost always UTF-8
+    return raw.decode(enc, errors="replace")
