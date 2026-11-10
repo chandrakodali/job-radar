@@ -156,6 +156,17 @@ jobs:
           python -m careers_scan.merge --companies careers_scan/data/companies.csv --shards-dir out --shards 10
           head -n 60 careers_scan/SUMMARY.md >> "$GITHUB_STEP_SUMMARY"
 
+      - name: Show results in the log
+        run: |
+          python - <<'PY'
+          import csv
+          rows = list(csv.DictReader(open("careers_scan/data/classified.csv", encoding="utf-8")))
+          show = [r for r in rows if r["category"] not in ("no_careers_page", "unreachable", "parked")][:400]
+          for r in show:
+              route = r["apply_emails"] or r["form_url"] or r["doc_url"] or r["ats"] or r["board"]
+              print(f'{r["category"]:<21} {r["domain"][:32]:<32} {route[:45]:<45} {r["careers_url"][:60]} | {r["note"][:60]}')
+          PY
+
       - name: Save results
         if: ${{ inputs.save != false }}
         run: |
