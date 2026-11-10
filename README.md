@@ -54,6 +54,12 @@ Turn it on by adding **one** repository secret (Settings → Secrets and variabl
 - **Change titles, keywords, alert threshold or digest time**: edit [`config.yaml`](config.yaml).
 - **Pause it**: Actions → radar → ⋯ → Disable workflow.
 
+## Companies that hire without a job board
+
+Some companies only post jobs on their own website and ask for a CV by email, so the radar can't see them.
+[`careers_scan/`](careers_scan/README.md) finds those companies once a month across ~6,000 startups, checks
+their careers pages every day, and alerts you to new roles. Results: [careers_scan/SUMMARY.md](careers_scan/SUMMARY.md).
+
 ## Files
 
 | File | What it is |

@@ -1,0 +1,65 @@
+name: careers-watch
+
+# Checks the no-job-board careers pages found by careers-scan once a day and alerts on new postings.
+on:
+  schedule:
+    - cron: '41 13 * * *'   # daily, 13:41 UTC (7:41 AM US Central)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Test run: no alerts and nothing saved'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: careers-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: careers_scan/requirements.txt
+
+      - name: Install
+        run: pip install -r careers_scan/requirements.txt -r requirements.txt
+
+      - name: Check careers pages
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="--dry-run"; fi
+          python -m careers_scan.watch $ARGS
+
+      - name: Save results
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for p in careers_scan/snapshots careers_scan/data/watch_state.json careers_scan/data/changes_log.csv careers_scan/CHANGES.md; do
+            if [ -e "$p" ]; then git add -A -- "$p"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+            exit 0
+          fi
+          git commit -m "Careers watch $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((i * 5))
+          done
+          echo "::error::Could not push results" && exit 1
