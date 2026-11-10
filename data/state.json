@@ -839,6 +839,7 @@
   "ashby:nerdwallet": "2026-11-09",
   "ashby:netboxlabs": "2026-11-09",
   "ashby:netgear": "2026-11-09",
+  "ashby:netholabs": "2026-11-10",
   "ashby:netic": "2026-11-07",
   "ashby:neuroscale": "2026-11-09",
   "ashby:newlantern": "2026-11-07",
@@ -1385,6 +1386,7 @@
   "avature:harmanglobal.avature.net|en_US/careers": "2026-11-09",
   "avature:koch.avature.net|en_US/careers": "2026-11-09",
   "avature:metlife.avature.net|en_US/ml": "2026-11-09",
+  "avature:mt.avature.net|en_US/careers": "2026-11-10",
   "avature:pomerleau.avature.net|en_US/Jobs": "2026-11-09",
   "avature:siemens.avature.net|en_US/externaljobs": "2026-11-09",
   "avature:synopsys.avature.net|careers": "2026-11-09",
@@ -4319,6 +4321,7 @@
   "sfrmk:corningjobs.corning.com": "2026-11-09",
   "sfrmk:internaljobs.centurylink.com": "2026-11-09",
   "sfrmk:jobdetails.nestle.com": "2026-11-09",
+  "sfrmk:jobs.adidas-group.com": "2026-11-10",
   "sfrmk:jobs.advanced-energy.com": "2026-11-09",
   "sfrmk:jobs.arjo.com": "2026-11-09",
   "sfrmk:jobs.arkema.com": "2026-11-09",
@@ -6149,7 +6152,7 @@
   },
   "ashby:vidrush": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-09"
   },
   "ashby:whatnot": {
@@ -7082,7 +7085,7 @@
    "since": "2026-11-08"
   }
  },
- "found_cursor": 1466,
+ "found_cursor": 1432,
  "last_digest": "2026-11-09",
  "resolved": {
   "airbnb": {
@@ -22920,6 +22923,55 @@
    ],
    "t": "2026-11-09"
   },
+  "careers.mt.com": {
+   "r": [
+    [
+     true,
+     "/$"
+    ],
+    [
+     true,
+     "/careers"
+    ],
+    [
+     false,
+     "/careers/*qtvc="
+    ],
+    [
+     true,
+     "/portal/5"
+    ],
+    [
+     true,
+     "/*/careers"
+    ],
+    [
+     false,
+     "/*/careers/*qtvc="
+    ],
+    [
+     true,
+     "/_cms/5"
+    ],
+    [
+     true,
+     "/_cms/14"
+    ],
+    [
+     true,
+     "/favicon.ico"
+    ],
+    [
+     true,
+     "/sitemap.xml"
+    ],
+    [
+     true,
+     "/"
+    ]
+   ],
+   "t": "2026-11-10"
+  },
   "careers.owenscorning.com": {
    "r": [
     [
@@ -27789,6 +27841,51 @@
    ],
    "t": "2026-11-09"
   },
+  "jobs.adidas-group.com": {
+   "r": [
+    [
+     false,
+     "/applybutton/"
+    ],
+    [
+     false,
+     "/talentcommunity/"
+    ],
+    [
+     false,
+     "/mobile/talentcommunity/"
+    ],
+    [
+     false,
+     "/emailsubscribe/"
+    ],
+    [
+     false,
+     "/email/image/"
+    ],
+    [
+     false,
+     "/services/"
+    ],
+    [
+     false,
+     "/preapply/"
+    ],
+    [
+     false,
+     "/error"
+    ],
+    [
+     false,
+     "/unsubscribe/"
+    ],
+    [
+     false,
+     "/reset/"
+    ]
+   ],
+   "t": "2026-11-10"
+  },
   "jobs.advanced-energy.com": {
    "r": [
     [
@@ -30304,6 +30401,55 @@
     ]
    ],
    "t": "2026-11-09"
+  },
+  "mt.avature.net": {
+   "r": [
+    [
+     true,
+     "/$"
+    ],
+    [
+     true,
+     "/careers"
+    ],
+    [
+     false,
+     "/careers/*qtvc="
+    ],
+    [
+     true,
+     "/portal/5"
+    ],
+    [
+     true,
+     "/*/careers"
+    ],
+    [
+     false,
+     "/*/careers/*qtvc="
+    ],
+    [
+     true,
+     "/_cms/5"
+    ],
+    [
+     true,
+     "/_cms/14"
+    ],
+    [
+     true,
+     "/favicon.ico"
+    ],
+    [
+     true,
+     "/sitemap.xml"
+    ],
+    [
+     false,
+     "/"
+    ]
+   ],
+   "t": "2026-11-10"
   },
   "mtstatejobs.taleo.net": {
    "r": [],
@@ -34150,6 +34296,8 @@
   "ashby:Perplexity:2d510148-8cce-4b67-be25-5784106bbff4": "2026-11-07",
   "ashby:PointOne:e57df388-58d1-41b5-b388-6b4ad41a6c57": "2026-11-07",
   "ashby:ThinkingMachines:14bef671-162c-4513-bfcf-e679e41e10a8": "2026-11-09",
+  "ashby:Vultr:04d58a97-bf6d-4214-8bfd-ccc984fc7e6d": "2026-11-10",
+  "ashby:Vultr:f3faf050-f72b-4306-8cd0-7853eab4e558": "2026-11-10",
   "ashby:WRITER:2111a9b4-8dab-4562-9692-ad7cb2c7b968": "2026-11-09",
   "ashby:WRITER:6ac02771-059b-490b-960b-f5616f255b65": "2026-11-09",
   "ashby:WRITER:770c58f3-7391-41cd-b992-be5a7311b1b2": "2026-11-09",
@@ -34180,6 +34328,7 @@
   "ashby:equip:829ff280-4d61-4b23-a754-af75e1282203": "2026-11-07",
   "ashby:exa:918561fd-6f4b-4b2b-a14d-041109ecf692": "2026-11-07",
   "ashby:exa:f4dd7ae8-cf72-4634-b708-742601b9061c": "2026-11-08",
+  "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:892b5f02-10b7-4fca-a9a4-248143b619fa": "2026-11-10",
   "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:abea19fb-df2c-4c3b-ae6a-f30db2c33683": "2026-11-07",
   "ashby:fireworks:d6540b5f-fe22-4b7a-bf18-48fb2212cd4b": "2026-11-07",
   "ashby:fluidstack:10215006-5bb7-423c-81be-2e41b84eff72": "2026-11-07",
@@ -34199,6 +34348,7 @@
   "ashby:mercor:799ecfcc-4258-4075-8b11-12fc64fb2868": "2026-11-07",
   "ashby:mistral.ai:98e96edd-e91f-4558-a248-4e0a2765845b": "2026-11-07",
   "ashby:niantic-spatial:038011fd-5fe3-4b7f-863c-919b2af28597": "2026-11-07",
+  "ashby:notion:06c2599d-4dd5-4f97-843f-7194b546f042": "2026-11-10",
   "ashby:openai:1d386acc-5fe0-44ed-b288-a6b1b891c9a8": "2026-11-07",
   "ashby:openai:33acf0e2-5c11-46d7-9dc9-417f5537139b": "2026-11-07",
   "ashby:openai:4f2d9849-ad00-48d5-a22f-0cb943723999": "2026-11-07",
@@ -34278,6 +34428,7 @@
   "greenhouse:axon:8195568003": "2026-11-07",
   "greenhouse:betatechnologiesinc:4419983009": "2026-11-09",
   "greenhouse:betatechnologiesinc:4473742009": "2026-11-09",
+  "greenhouse:bpcs:8367696": "2026-11-10",
   "greenhouse:bugcrowd:8334498": "2026-11-07",
   "greenhouse:captivation:5466472008": "2026-11-07",
   "greenhouse:captivation:5467642008": "2026-11-07",
@@ -34366,6 +34517,7 @@
   "greenhouse:lightfeatheriollc:5476007008": "2026-11-09",
   "greenhouse:lightfeatheriollc:5476011008": "2026-11-09",
   "greenhouse:lightfeatheriollc:5476014008": "2026-11-09",
+  "greenhouse:lightningai:8199518003": "2026-11-10",
   "greenhouse:m9solutions:5275458007": "2026-11-09",
   "greenhouse:m9solutions:5275517007": "2026-11-09",
   "greenhouse:m9solutions:5281393007": "2026-11-09",
@@ -34455,6 +34607,7 @@
   "icims:careers-apogeeusa.icims.com:2120": "2026-11-09",
   "icims:careers-apogeeusa.icims.com:2170": "2026-11-09",
   "icims:careers-apogeeusa.icims.com:2220": "2026-11-09",
+  "icims:careers-apogeeusa.icims.com:2238": "2026-11-10",
   "icims:careers-axway.icims.com:9031": "2026-11-09",
   "icims:careers-bcore.icims.com:3035": "2026-11-09",
   "icims:careers-bcore.icims.com:3066": "2026-11-09",
@@ -34485,6 +34638,7 @@
   "icims:careers-connection.icims.com:10864": "2026-11-09",
   "icims:careers-connection.icims.com:10872": "2026-11-09",
   "icims:careers-constructconnect.icims.com:2267": "2026-11-09",
+  "icims:careers-dartmouth-hitchcock.icims.com:43229": "2026-11-10",
   "icims:careers-decisionpointcorp.icims.com:3056": "2026-11-09",
   "icims:careers-decisionpointcorp.icims.com:3153": "2026-11-09",
   "icims:careers-decisionpointcorp.icims.com:3221": "2026-11-09",
@@ -34599,6 +34753,7 @@
   "icims:careers-i2xisys.icims.com:15030": "2026-11-09",
   "icims:careers-i2xisys.icims.com:15094": "2026-11-09",
   "icims:careers-i2xisys.icims.com:15104": "2026-11-09",
+  "icims:careers-i2xisys.icims.com:15113": "2026-11-10",
   "icims:careers-i3-corps.icims.com:5236": "2026-11-09",
   "icims:careers-i3-corps.icims.com:5237": "2026-11-09",
   "icims:careers-i3-corps.icims.com:5277": "2026-11-09",
@@ -34659,6 +34814,7 @@
   "icims:careers-peopletec.icims.com:5424": "2026-11-09",
   "icims:careers-peopletec.icims.com:5439": "2026-11-09",
   "icims:careers-peopletec.icims.com:5448": "2026-11-09",
+  "icims:careers-peopletec.icims.com:5450": "2026-11-10",
   "icims:careers-persistentsystems.icims.com:2221": "2026-11-09",
   "icims:careers-persistentsystems.icims.com:2226": "2026-11-09",
   "icims:careers-persistentsystems.icims.com:2308": "2026-11-09",
@@ -34731,6 +34887,7 @@
   "icims:careers-westernsouthern.icims.com:24023": "2026-11-09",
   "icims:careers-westernsouthern.icims.com:24686": "2026-11-09",
   "icims:careersenus-itt-inc.icims.com:17687": "2026-11-09",
+  "icims:careersenus-itt-inc.icims.com:18571": "2026-11-10",
   "icims:everwatch-everwatchsolutions.icims.com:3180": "2026-11-09",
   "icims:everwatch-everwatchsolutions.icims.com:3185": "2026-11-09",
   "icims:everwatch-everwatchsolutions.icims.com:3186": "2026-11-09",
@@ -34907,6 +35064,7 @@
   "jobvite:visionist:oW9cAfwB": "2026-11-09",
   "jobvite:visionist:odbYAfwG": "2026-11-09",
   "lever:agile-defense:6a435d8f-e213-4f55-a1ec-0a3ab32911ab": "2026-11-07",
+  "lever:agile-defense:85629e85-3874-4038-9996-4d60965435c4": "2026-11-10",
   "lever:anavationllc:2ee525ec-4a1f-47e8-a423-a4911e3e0f60": "2026-11-07",
   "lever:anavationllc:44bf9089-f4c7-4048-b4f9-125d9348992b": "2026-11-07",
   "lever:anavationllc:eaef3de0-841d-4270-9005-b671ed902fb0": "2026-11-07",
@@ -34935,6 +35093,7 @@
   "oracle:edel.fa.us2.oraclecloud.com|CX_2001:21761": "2026-11-08",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:346427": "2026-11-08",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:346429": "2026-11-08",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:349184": "2026-11-10",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:349185": "2026-11-08",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:349186": "2026-11-08",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:349447": "2026-11-08",
@@ -34960,6 +35119,7 @@
   "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:234148": "2026-11-08",
   "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4629": "2026-11-08",
   "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:5085": "2026-11-08",
+  "oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com|CX_26:1450": "2026-11-10",
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4268": "2026-11-08",
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4387": "2026-11-08",
   "oracle:hcbo.fa.us2.oraclecloud.com|CX_1:302772": "2026-11-08",
@@ -34967,6 +35127,10 @@
   "oracle:hcor.fa.us2.oraclecloud.com|CX_1:4812": "2026-11-08",
   "oracle:hdde.fa.us2.oraclecloud.com|CX:4543": "2026-11-08",
   "oracle:iawmqy.fa.ocs.oraclecloud.com|careers:299132": "2026-11-08",
+  "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:147707": "2026-11-10",
+  "oracle:jpmc.fa.oraclecloud.com|CX_1001:210762543": "2026-11-10",
+  "oracle:jpmc.fa.oraclecloud.com|CX_1001:210780218": "2026-11-10",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026313EXTERNALENGLOBAL": "2026-11-10",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029199EXTERNALENGLOBAL": "2026-11-09",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029200EXTERNALENGLOBAL": "2026-11-09",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029203EXTERNALENGLOBAL": "2026-11-09",
@@ -34986,6 +35150,7 @@
   "pinpoint:impulsespace:606105": "2026-11-09",
   "pinpoint:impulsespace:609979": "2026-11-09",
   "rippling:aalyria-careers:a433e35d-c3ff-435b-9ee8-46b89c54ac21": "2026-11-08",
+  "rippling:aalyria-careers:c8c3ebca-c203-47fd-a4af-f72727ade02c": "2026-11-10",
   "rippling:advocate-technologies-inc:4b5c500d-36da-4b42-8d93-7aae7d386610": "2026-11-08",
   "rippling:boom-supersonic:9a4d79c0-d602-4cb4-a1d3-629b13faaa74": "2026-11-08",
   "rippling:conceptplus:2aca89b9-826b-48dd-8ca7-a6743324d3b6": "2026-11-09",
@@ -35118,6 +35283,7 @@
   "sfrmk:careers.leonardodrs.com:1417726800": "2026-11-09",
   "sfrmk:careers.leonardodrs.com:1425278500": "2026-11-09",
   "sfrmk:careers.leonardodrs.com:1428613100": "2026-11-09",
+  "sfrmk:careers.mohawkind.com:1449080700": "2026-11-10",
   "sfrmk:careers.owenscorning.com:1384870700": "2026-11-09",
   "sfrmk:careers.owenscorning.com:1422887000": "2026-11-09",
   "sfrmk:careers.owenscorning.com:1435475300": "2026-11-09",
@@ -35143,6 +35309,7 @@
   "sfrmk:careers.westinghousenuclear.com:1440261600": "2026-11-09",
   "sfrmk:careers.westinghousenuclear.com:1442826300": "2026-11-09",
   "sfrmk:careers.westinghousenuclear.com:1446976500": "2026-11-09",
+  "sfrmk:careers.westinghousenuclear.com:1449116300": "2026-11-10",
   "sfrmk:corningjobs.corning.com:1448833400": "2026-11-09",
   "sfrmk:corningjobs.corning.com:1448833500": "2026-11-09",
   "sfrmk:corningjobs.corning.com:1448837600": "2026-11-09",
@@ -35154,6 +35321,10 @@
   "sfrmk:jobdetails.nestle.com:1430625133": "2026-11-09",
   "sfrmk:jobdetails.nestle.com:1431574533": "2026-11-09",
   "sfrmk:jobdetails.nestle.com:1447785933": "2026-11-09",
+  "sfrmk:jobs.adidas-group.com:1388892233": "2026-11-10",
+  "sfrmk:jobs.adidas-group.com:1426975233": "2026-11-10",
+  "sfrmk:jobs.adidas-group.com:1435959833": "2026-11-10",
+  "sfrmk:jobs.adidas-group.com:1444981133": "2026-11-10",
   "sfrmk:jobs.arkema.com:1378118533": "2026-11-09",
   "sfrmk:jobs.atos.net:1190965301": "2026-11-09",
   "sfrmk:jobs.atos.net:1265792201": "2026-11-09",
@@ -35228,6 +35399,7 @@
   "sfrmk:jobs.netapp.com:1440149700": "2026-11-09",
   "sfrmk:jobs.netapp.com:1441008500": "2026-11-09",
   "sfrmk:jobs.paccar.com:1437352733": "2026-11-09",
+  "sfrmk:jobs.paccar.com:1450497633": "2026-11-10",
   "sfrmk:jobs.paccar.com:1454871633": "2026-11-09",
   "sfrmk:jobs.supermicro.com:1254278600": "2026-11-09",
   "sfrmk:jobs.supermicro.com:1379965000": "2026-11-09",
@@ -35251,6 +35423,7 @@
   "smartrecruiters:abbvie:3743990016610096": "2026-11-07",
   "smartrecruiters:boschgroup:744000158534431": "2026-11-09",
   "smartrecruiters:eurofins:744000159966854": "2026-11-07",
+  "smartrecruiters:intelerad:744000160685339": "2026-11-10",
   "smartrecruiters:intuitive:744000158094469": "2026-11-07",
   "smartrecruiters:intuitive:744000158094960": "2026-11-07",
   "smartrecruiters:intuitive:744000160278219": "2026-11-07",
@@ -35270,6 +35443,7 @@
   "smartrecruiters:wise:744000159547589": "2026-11-07",
   "smartrecruiters:wjcompany:744000159521764": "2026-11-09",
   "taleo:aarcorp|aar_mobile:18113": "2026-11-09",
+  "taleo:aarcorp|aar_mobile:18411": "2026-11-10",
   "taleo:massanf|ex:260007U4": "2026-11-09",
   "taleo:mtstatejobs|200:26142784": "2026-11-09",
   "workable:alphax:74C2A57C78": "2026-11-08",
@@ -35315,6 +35489,7 @@
   "workday:allstate|wd5|allstate_careers:R35646": "2026-11-07",
   "workday:allstate|wd5|allstate_careers:R36400": "2026-11-09",
   "workday:analogdevices|wd1|External:R268212": "2026-11-07",
+  "workday:appliedis|wd5|ais_careers:JR2026001405": "2026-11-10",
   "workday:appliedis|wd5|ais_careers:JR2026001422": "2026-11-09",
   "workday:appliedis|wd5|ais_careers:JR2026001425": "2026-11-07",
   "workday:appliedis|wd5|ais_careers:JR2026001427": "2026-11-07",
@@ -35333,6 +35508,8 @@
   "workday:awg|wd3|AW:R40794": "2026-11-08",
   "workday:awg|wd3|broadbean_external:R40794": "2026-11-08",
   "workday:barclays|wd3|External_Career_Site_Barclays:JR-0000082433": "2026-11-08",
+  "workday:bdo|wd3|BDO:JR7341": "2026-11-10",
+  "workday:bdo|wd3|BDO:JR7342": "2026-11-10",
   "workday:biamp|wd12|Biamp:JR100451": "2026-11-07",
   "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026528876": "2026-11-08",
   "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026528883": "2026-11-08",
@@ -35343,6 +35520,7 @@
   "workday:cai|wd5|computer_aid:R8753": "2026-11-08",
   "workday:cai|wd5|computer_aid:R8855": "2026-11-09",
   "workday:cai|wd5|computer_aid:R8880": "2026-11-08",
+  "workday:cat|wd5|caterpillarcareers:R0000398323": "2026-11-10",
   "workday:cdk|wd1|CDK:JR9403": "2026-11-07",
   "workday:cdw|wd5|careers:R26_00002985": "2026-11-08",
   "workday:cdw|wd5|careers:R26_00003284": "2026-11-08",
@@ -35365,7 +35543,9 @@
   "workday:draper|wd5|Draper_Careers:JR002421": "2026-11-07",
   "workday:draper|wd5|Draper_Careers:JR002644": "2026-11-07",
   "workday:draper|wd5|Draper_Careers:JR002954": "2026-11-07",
+  "workday:dxctechnology|wd1|dxcjobs:51584906": "2026-11-10",
   "workday:dxctechnology|wd1|dxcjobs:51591298": "2026-11-07",
+  "workday:dxctechnology|wd1|dxcjobs:51592108": "2026-11-10",
   "workday:dxctechnology|wd1|dxcjobs:51592208": "2026-11-07",
   "workday:dxctechnology|wd1|dxcjobs:51593098": "2026-11-07",
   "workday:dxctechnology|wd1|dxcjobs:51593329": "2026-11-07",
@@ -35441,7 +35621,10 @@
   "workday:ntrs|wd1|northerntrust:R162714": "2026-11-08",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2014178": "2026-11-07",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2025037": "2026-11-08",
+  "workday:nwis|wd12|NW:JR102238": "2026-11-10",
   "workday:oregon|wd5|sor_external_career_site:Permanent": "2026-11-08",
+  "workday:poet|wd1|POET:R101889": "2026-11-10",
+  "workday:poet|wd1|POET:R101890": "2026-11-10",
   "workday:prologis|wd5|Prologis_External_Careers:R6888": "2026-11-07",
   "workday:recar|wd108|SLATEcareers:JR101561": "2026-11-08",
   "workday:relx|wd3|relx:R117300": "2026-11-07",
