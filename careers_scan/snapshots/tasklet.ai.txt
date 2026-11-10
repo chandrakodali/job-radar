@@ -1,0 +1,60 @@
+Careers at Tasklet
+Build the AI work platform for business.
+We’re a small, ambitious team in San Francisco building agents that do real work for companies.
+All positions are full-time and in-person in our San Francisco office.
+Open roles
+5 positions
+Head of Design Engineering
+Own and implement the product experience for how people and teams work with AI agents.
+View role →
+Software Engineer — Platform
+Build the product foundations, integrations, and business systems that let Tasklet work across a company’s tools.
+Software Engineer — AI Infra
+Build the agent runtime, execution environment, and infrastructure that make Tasklet’s agents capable and reliable.
+Software Engineer — Product
+Design and ship the product experiences that make powerful agents feel simple, trustworthy, and delightful.
+Customer Success Engineer
+Help customers succeed, solve their hardest problems, and use automation to make support continuously better.
+Apply by sending a video
+Show us who you are.
+To apply, email our CEO Andrew ( andrew@tasklet.ai ) with a video introduction of yourself. Include your resume & any relevant links so we can learn more about you.
+Your video should be no more than 5 minutes and include:
+Who you are & why you want to join Tasklet
+A confirmation that you are able to work full-time, in-person in SF (including any required work authorizations - we are not sponsoring visas at this time)
+A demo of the most impressive thing you've made recently that’s relevant to the role you’re applying for. Make sure to show what you made, not just tell us.
+Email Andrew
+About Tasklet
+Building the AI work platform for business.
+Tasklet is building the AI platform companies use to run their business on agents. Our customers describe an outcome in plain English, and Tasklet gets the work done—across SaaS tools, APIs, browsers, files, spreadsheets, and internal systems. Agents can respond immediately or run business processes in the cloud 24×7 on a schedule or in response to events. Every Tasklet agent gets its own cloud computers, filesystem, database, and browser.
+Tasklet agents are built to do real work at real companies where many people are involved in each function. Teams share agents, knowledge, connections, and threads, while administrators control access, behavior, and spend. Tasklet users can choose among models and delegate work to faster, cheaper ones—giving companies one flexible platform instead of a growing pile of disconnected AI seats.
+We compete with ChatGPT Work and Claude Cowork. OpenAI and Anthropic have their own models, massive funding, and existing distribution. We have a small, exceptional team, the freedom to use the best AI tech from any vendor, and a laser focus on the problems of real-world businesses where making agents simple, trustworthy, and easy to control matters just as much as making them intelligent.
+The labs will define what intelligence can do, but Tasklet will define how businesses put that intelligence to work.
+A small, AGI-pilled team that can win.
+Our team of 12 is based in San Francisco and is led by founders Andrew Lee (formerly founded Firebase & sold it to Google) and Jonny Dimond and includes Will Chambers , Hiranya Jayathilaka , Michael Lehenbauer , Michael Latman , Parker Chun , Christiana Stubblefield , Tyler Rockwood , Mark Robinson , Geoff Hamilton , and Austin Haag .
+We believe we have the right skills and are uniquely positioned to seize this unique moment. We have deep experience building agent systems, cloud infrastructure & productivity tools gained through our work building Shortwave , Firebase and critical infrastructure at Google, Amazon, OpenAI, Salesforce and elsewhere.
+We’re constantly looking for ways to give models more agency & leverage, and we reach for AI first when solving any problem. We’re especially excited about finding ways to close the loop on recursive self-improvement to get humans out of the way of building our business when possible. Nearly every line of code here is written with AI.
+Well-funded & backed by top-tier investors.
+We’ve raised over $42M from Union Square Ventures , Lightspeed Venture Partners , Y Combinator , Jeff Dean , Patrick & John Collison and others. Our most recent funding round was raised with a valuation cap of $500M.
+Culture
+A high-performance, results-focused culture.
+Tasklet is a fast-paced, engineering-driven, results-oriented company. We aim to build a truly world-class team & an amazing work environment. These are the values we aspire to:
+Understand our users & solve their A+ problems
+You focus on the problems that really matter — not the ones you already know how to solve. You take responsibility for delivering experiences that our users love — end-to-end. This requires a deep understanding of our users, their workflows, and how AI agents can transform them.
+Relentlessly pursue a vision for excellence, but ship today
+In the world of AI agents, things change rapidly, and you hustle to stay ahead. You iterate with extreme urgency, shipping improvements daily that compound into transformative capabilities over time. You aim high, know where you're going, and don't stop until it's amazing.
+Lead
+You accomplish far more through teamwork than you could individually. You enable teamwork by being a leader, and you lead by doing, not just by talking.
+Take initiative
+You act like an owner and make great things happen without being asked. You try to be the change you want to see in the world. You believe nothing is someone else's problem.
+Be honest & truth seeking
+You’re committed to finding & communicating the truth. You follow evidence, not your ego. You speak your mind and let others speak theirs.
+Deliver business results
+You know that results — not effort — are what counts, and you take responsibility for our hardest & most important work: figuring out what needs to be done to get the right results. You own the results you produce, including your failures.
+$20,000 referral bonus
+Do you know someone who's a great fit for any of our roles? Refer them to us and we will pay you $20k if we hire them. Simply have them apply and mention in their application that you referred them.
+Some eligibility restrictions apply:
+You must be a US resident
+You must be the first person to refer someone to us (and we must not already be in contact with them)
+The candidate must start work within 3 months of your referral
+Payment will be made after their start date
+Eligibility decisions are made at our sole discretion

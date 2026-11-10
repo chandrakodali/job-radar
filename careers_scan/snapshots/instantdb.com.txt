@@ -1,0 +1,9 @@
+Instant is sunsetting. Services will continue until August 31st, 2027. Learn more →
+instant
+Tutorial Examples Recipes Docs Essays About 1 0 . 5 k stars
+Dashboard
+Build the future of front-end tech.
+We're a YC S22 company building the infrastructure for applications of the future. Our team values high-integrity, optimistic, and principle-oriented hackers who love what they do.
+We've raised from top investors like Paul Graham, Greg Brockman, and James Tamplin (the original CEO of Firebase).
+We're looking for talented individuals interested in solving some of the hardest problems in real-time databases and front-end technology. If you love building delightful developer experiences and want to work on cutting-edge tech, we want to hear from you!
+Interested in joining us? We would love to hear from you :)

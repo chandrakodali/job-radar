@@ -1,0 +1,16 @@
+Dabba careers
+1️⃣ About
+2️⃣ Our Philosophy
+3️⃣ Hiring process
+4️⃣ Team Dabba
+1️⃣ Engineering ->
+2️⃣ Network Operations ->
+3️⃣ Sales & Marketing ->
+4️⃣ Legal & Finance ->
+Powered by GitBook
+For the complete documentation index, see llms.txt . This page is also available as Markdown .
+The Dabba Network is a De centralised P hysical I nfrastructure N etwork that is building high speed wireless networks from the ground up in India. We enable humans & machines with internet connectivity at a price that they can afford.
+The inspiration for Wifi Dabba came from the founders working together for the last decade in the mobile application industry and realising the biggest reason for user churn being access to cheap and affordable internet access. From having worked on ground onboarding users and facing poor connectivity issues all the time, we took it on ourselves to fix the internet access problem for the masses.
+Our deployment solution is building a grid of lasers (Free Space Optics) over the cities & town and bring cheap and fast internet for everyone. We enable anyone to buy 1 gig of data access at a time at a price they can afford. Sachetization of internet access is the foundation to rebuilding internet for all. We do this by leveraging blockchain and asset tokenisation to truly make internet infrastructure ownership distributed — our vision is to be connectivity layer for the Web3 world.
+Next Our Philosophy
+Last updated 2 years ago

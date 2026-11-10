@@ -1,0 +1,23 @@
+Our Plan
+We believe the product that improves itself starts with one thing done well: a feedback loop built on real user behavior.
+Human Behavior started as a simple AI that watched session replays, pulled out intent signals and bugs, and summarized them. That worked, and it turned into the rest of this.
+Collect — You install one snippet and we instrument everything: session replays, errors, funnels, revenue. No dashboard, no UI. It runs headlessly, because if a company is going to run itself, no human should be clicking through screens to make that happen. One install beats wiring up a dozen MCPs — agents get the whole picture in one place instead of a thin, disconnected slice from each server you have to babysit.
+Down the line, own more of what tells you where to go — voice of customer, Zendesk and support tickets, app store reviews. Everything that dictates what gets built next should come from installing Human Behavior and nothing else.
+Understand — AI watches the replays and structures what's hard to structure. Our NeurIPS 2025 work ranks which bugs actually matter.
+Down the line, much better intent filtering. Knowing what a user was trying to do, not just what they clicked.
+Act — Agents run on automations and triggers today. Something breaks, they find it, fix it, and open the pull request. Nothing ships without a human merging it.
+Down the line, agents that go looking on their own — reading the data, forming their own ideas about what to build, running the experiment, and validating it through A/B tests. No trigger, no prompt.
+And that's just the obvious path. Full product understanding unlocks a lot more. AI QA that actually uses your product the way a person would. A live helper that sees where a user is stuck and drives a second cursor to guide them — or does it for them. Computer-use agents trained on the mountain of session replay data we already have — real humans, real flows, real edge cases. There's a bajillion things you can build once you genuinely understand a product, and almost nobody has the data to try.
+Roles
+Small team, hard problems, no meetings that should have been a commit. These are the shapes we're hiring for:
+Distributed Systems Engineer
+San Francisco · On-site · Full-time
+Apply now
+Own the ingestion pipeline end to end — billions of events a day, sub-second queries, zero drama. If Kafka partitions and ClickHouse merge trees are your idea of a good time, we should talk.
+Agentic Systems Engineer
+Build agents that read product data, decide what matters, and open real pull requests — then make them boringly reliable. You'll live in tool-calling, evals, and long-running autonomous loops.
+Product Engineer
+Design and ship the surfaces users touch, end to end. You write fast React with no wasted re-renders, sweat the last 5% of an interaction, and can tell good design from a mile away.
+Don't see your role?
+We're only hiring engineers right now — a good product does its own marketing. If you're exceptional and none of the boxes above fit, invent your own box and pitch us.
+ON THIS PAGE

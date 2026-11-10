@@ -1,0 +1,18 @@
+Interfaze
+we're hiring
+pricing
+help
+docs
+blog
+sign in
+Careers
+At Interfaze, we're building a new model for deterministic developer tasks that require high accuracy like OCR, web scraping, classification, STT, and more. We currently power thousands of systems in industries like healthcare, finance, government, SaaS, and more, which process billions of tokens every month.
+Open roles
+Research Engineer
+San Francisco, CA
+Push the boundaries of the Interfaze models by implementing and experimenting with new research and techniques across fine-tuning, benchmarking, and deployment.
+View role ->
+Founding Full Stack Engineer
+San Francisco, USA, London
+Build and scale the API, product, and infrastructure behind Interfaze end-to-end, from Postgres and NodeJS services to the NextJS frontend.
+Don't see a role that's a perfect fit for you? That's ok - we'd still love to hear from you! Apply with your details and tell us the role you think we need.

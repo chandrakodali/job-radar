@@ -1,0 +1,99 @@
+A passionate & forward-thinking team
+VeloDB is committed to the development of world-leading real-time data warehouse technologies and an open-source business model.
+At VeloDB, we build enterprise-grade data warehouse software and future-oriented cloud-native data warehouse service.
+We encourage innovation in all forms and uphold a culture of excellence.
+If you share our commitment to excellence and have a vision for the future, we invite you to join us in making a significant impact together.
+Join us to be part of something extraordinary
+Send your resume or CV to hr@velodb.io
+North America General Manager
+Silicon Valley
+Responsibilities:
+• Lead the North American business team in developing strategic customer business frameworks and achieving breakthroughs across various industries, including internet, retail, fast-moving consumer goods, and automotive.
+• Responsible for the integration of key products and solutions to meet performance targets. Implement landmark projects and develop a replicable sales strategy to build a sales ecosystem.
+• Organize and establish standard operating procedures (SOPs) for business and customer relationship maintenance, along with other marketing-related systems.
+• Monitor market trends and competitive landscapes, providing constructive response strategies.
+Qualifications:
+• Bachelor’s degree or higher; a minimum of 8 years of sales experience in the North American market is preferred.
+• Prior experience in sales management within the database, data analysis, or business intelligence software sectors is highly desirable.
+• Demonstrate ability in project sales operations, with a proven track record of driving business development and expansion initiatives.
+• Possess strong market awareness, adaptability, and leadership skills.
+The following represents the expected range of compensation for this role:
+• The estimated base salary range for this role is $144,000 - $360,000/Y.
+• Additionally, this role is eligible to participate in VeloDB’s bonus plan.
+The successful candidate’s starting salary will be determined based on permissible,non-discriminatory factors such as skills, experience, and geographic location.
+Salaries for candidates outside the U.S. will vary based on local compensation structures
+Show more
+Marketing Director
+Responsibilities
+• Be responsible for the overall branding strategy and development for VeloDB, creating a distinct and impactful corporate and product brand image aligned with VeloDB's globalization objectives.
+• Conduct comprehensive market and industry opportunity analysis for North America, Asia-Pacific, and Europe to develop a marketing system tailored for enterprise users.
+• Formulate marketing promotion strategies and implementation plans specifically designed for target enterprise users.
+• Establish and maintain media relationships while managing daily operations, including content marketing, developer/user campaigns, open-source community events, and commercial promotions.
+• Collaborate with product development, customer success, and sales teams to provide support for key accounts.
+Qualifications
+• Bachelor’s degree or higher, with a minimum of 5 years of experience as a Market Development or Marketing Manager.
+• Expertise in enterprise service market insights and business planning, with a proven ability to leverage innovative ideas and methods for brand building and market development.
+• Familiarity with the principles and practices of open-source commercialization.
+• Strong capability in developing strategic channels and cultivating key customer relationships.
+• Experience in the big data services sector is preferred; established personal connections and networks within the infrastructure technology or open-source communities are a plus.
+• The estimated base salary range for this role is $120,000-$240,000/Y.
+alaries for candidates outside the U.S. will vary based on local compensation structures.
+Database Post-Sales Engineer (SaaS)
+• Responsible for the delivery of the company’s self-developed database SaaS services, integrating user data scenarios to facilitate data migration from various data sources, optimize business processes, and implement effective solutions.
+• Proficient in independently identifying, analyzing, and organizing database system issues, with a strong ability to resolve problems autonomously while maintaining effective communication with both developers and customers to achieve resolutions.
+• Provide pre-sales technical analysis and post-sales support to customers, channel partners, and collaborators.
+• Bachelor’s degree or higher.
+• Proficient in the Linux operating system.
+• Over 2 years of experience in database operations and maintenance/post-sales support, with a preference for candidates with cloud-related experience.
+• Mastery of at least one mainstream database framework and the principles of underlying read/write processes, with experience in AP database preferred.
+• Familiarity with the principles and usage of Doris, including experience in building big data platforms based on Doris.
+• Knowledge of common big data components and their principles, with a preference for experience in cloud-based big data services (such as Dataworks, Flink, and MaxCompute).
+• Demonstrate a serious and responsible work ethic, with clear thinking and strong abilities in communication, learning, and stress management.
+• The estimated base salary range for this role is $96,000-$180,000/Y.
+Solution Architect
+Silicon Valley/Singapore
+• Collaborate with the marketing and sales teams to drive business expansion by identifying and addressing customer business and technical needs, providing consulting and planning services, formulating solutions, overseeing delivery and implementation, and leading pre-sales POC tests.
+• Create customer benchmark projects in industries such as the internet and new economy, develop replicable scenario-based solutions, improve sales efficiency, and collaborate with the marketing team for market promotion.
+• Continuously refine the value proposition of the company's products and solutions by analyzing the competitive dynamics of industry products, including Amazon Redshift, Snowflake, and Google BigQuery.
+• Stay attuned to evolving industry trends and customer needs, maintain strong collaboration with the product development team, and drive ongoing innovation and iteration of the company’s products.
+• Bachelor's degree or higher, with over 3 years of experience in data warehousing and big data platforms, along with a strong understanding of big data technology stacks and data warehouse architectures.
+• Possess a deep understanding of industry customers' business scenarios and technology stack applications, with experience in big data consulting and implementation, enabling quick comprehension of customer needs and the ability to propose effective solutions.
+• Strong skills in building and maintaining customer relationships.
+• Excellent verbal communication and customer interaction skills, with a proactive approach to customer service and the ability to handle stress effectively.
+Preferred Qualifications
+• Familiarity with data analysis platforms such as Apache Doris, ClickHouse, Greenplum, CDH, Impala, Presto, Druid, and Kylin is preferred.
+• Candidates with a strong interest in technology sharing and evangelism, along with experience in public technology presentations, are highly desirable.
+Product Manager
+• Responsible for planning and conducting market research for the VeloDB Cloud and VeloDB Enterprise product lines.
+• Acquire a deep understanding of overseas markets, focusing on customer needs, competitive dynamics, and industry trends in target regions, providing data support for product iteration and innovation.
+• Collaborate closely with the development team to ensure product features and performance align with international customer needs and adapt swiftly to market changes.
+• Develop and implement comprehensive product marketing plans, including content marketing, product demonstrations, user training, and participation in industry conferences.
+• Work with sales and customer support teams to enhance customer satisfaction and increase product market share.
+• A bachelor's degree or higher in Computer Science, Information Technology, or a related field.
+• A minimum of 3 years of product management experience, preferably in big data, cloud computing, or enterprise software products.
+• Knowledgeable about overseas markets, with strong cross-cultural communication skills and a global perspective.
+• Fluent in spoken and written English, capable of effective communication with international teams and customers.
+• Demonstrate responsibility, teamwork, and strong leadership abilities.
+Account Manager
+• Develop sales strategies and execute annual revenue targets to promote VeloDB's global solutions to enterprise and SME clients.
+• Build and maintain robust sales pipelines while enhancing customer onboarding and partner enablement programs.
+• Cultivate a strong local ecosystem within the region, industry, and partner networks to promote data warehouse products and expand sales opportunities.
+• Collaborate with supporting and functional teams to contribute to the enhancement of products, solutions, and operations.
+• Act as a team player to help the team achieve overall revenue targets, fostering a solid ecosystem through internal cross-training, knowledge sharing, and promoting a collaborative team spirit.
+• Bachelor’s degree or higher, preferably in a computer science-related field.
+• Outstanding interpersonal communication skills, with strong abilities in presentation, public speaking, and written communication.
+• 1-3 years of sales experience in databases, big data platforms, big data applications, business intelligence (BI), or related software, with a proven track record of outstanding performance.
+• Highly passionate about business development, eager to tackle challenges, results-oriented, and possessing a self-driven entrepreneurial mindset.
+Need help? Contact us!
+Apache Doris
+What’s Doris Doris Blog Website GitHub
+Company
+About Us Contact Us Join Us Partners
+Security
+Learn
+Blogs Events Glossary
+Follow Us
+Follow Us on LinkedIn
+VeloDB on LinkedIn
+Doris on LinkedIn
+Subscribe to Our Newsletter

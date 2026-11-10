@@ -1,0 +1,488 @@
+Estuary is simplifying how the world moves data so teams can build , adapt , and innovate without limits.
+Estuary is the right-time data platform that unifies CDC, batch, and streaming into one dependable system. Built for enterprises that need control over cost, latency, and deployment, Estuary helps teams move data exactly when it's needed - powering analytics, operations, and AI without the complexity of multiple tools.
+Read our story
+12 years of real-time innovation
+2014
+Gazette is born inside Arbor as an internal pub-sub streaming framework.
+2016
+LiveRamp acquires Arbor.
+2017
+Gazette handles billions (7GB/s) of daily ad-tech events at LiveRamp in real-time.
+2019
+Estuary is founded to continue making real-time more accessible through open-source connectors.
+2021
+FirstMark invests $7 million in Estuary.
+2023
+Estuary launches its SaaS product to enable building right-time data flows. A self-service UI for building real-time pipelines and transforming them in streaming SQL.
+2025
+Estuary raises a $17 million Series A led by M13.
+Our history
+We didn't start at trying to make real-time data flows more accessible by abstracting away the low-level work… it is just what happened.
+Our team researched streaming frameworks while working with billions of daily events, and ultimately realized that we'd have to build our own ( Gazette ) to have a scalable distributed streaming framework that is built with kappa architectures in mind, required less continuous resource management, and could unify both our batch and real-time pipelines.
+We've been innovating to make real-time data more accessible to all ever since.
+In the media
+Estuary Rewrites Its Runtime for Agents at Enterprise Scale
+PR Newswire release on the Rust rewrite of our runtime, built so agents and operational systems act on complete, transactional data in real time at any scale.
+Crafting Autonomous Data Pipelines for AI
+DBTA recaps its roundtable webinar where Dave Yaffe joins Informatica and WhereScape on how pipelines that create, heal, and reason unblock enterprise AI.
+Estuary raises $17M to solve data movement
+SiliconANGLE covers our $17M raise led by M13 and how a single batch and streaming pipeline ends the fragmentation that slows AI teams down.
+Meet Our Team
+Alex Bair
+Software Engineer
+Bill Sheil
+Senior Engineer
+Breno Salvador
+Marketing Front-End Engineer
+Brian Bartman
+Senior Software Engineer
+Dani Pálma
+Developer Relations
+Daniel Nelson
+Dave Yaffe
+CEO & Co-founder
+Dizzy Smith
+Engineering Advisor
+Elif Sen
+Chief of Staff
+Emily Lucek
+Developer Advocate / Data Engineer
+Greg Shear
+Jacob Marble
+James Hartley
+Operations
+Joaquin Lagarrigue
+Site Reliability Engineer
+Johnny Graettinger
+CTO & Co-founder
+Jonathan Wihl
+Senior Solutions Engineer
+Joseph Shearer
+Mahdi Dibaiee
+Matt Willman
+Mike Danko
+Security and Compliance
+Nicolas Lazo
+Back-End Engineer
+Samantha Jacobus
+Recruiter & Office Manager
+Seán Whelan
+Solutions Engineer
+Will Baker
+William Donnelly
+Zulfikar Qureshi
+Head of Sales Engineering
+Our investors
+Come work with us
+About you : You're curious, self-driven, and inspired by the challenge of making complex systems simple. You see the potential in a world powered by dependable, right-time data and you want to help build it.
+About us : We're a fast-growing, engineering-led team backed by successful repeat founders. At Estuary, we're redefining how data moves, eliminating brittle pipelines and building the dependable infrastructure that powers analytics, operations, and AI for the world's leading enterprises.
+Current openings
+Working at Estuary
+Location
+We offer offices in both our New York City and Columbus, Ohio locations, as well as the ability to work remotely.
+Benefits
+We provide 100% employee coverage on healthcare, 401k, competitive equity, and unlimited time vacation leave.
+Culture
+Like the product we build, our culture is forward-thinking and open. Our team operates on a foundation of trust, is resourceful, collaborative, but also independent.
+Community
+We offer perks including team happy hours, weekly lunches, and quarterly off-sites. With our rapid growth, now's an exciting time to come aboard.
+Know somebody who would be a good fit? We offer a $2,500 referral bonus.
+Get in touch to apply
+Head of Product Marketing
+Location: New York, NY / Remote
+Department: Marketing
+Reports to: CEO & Co-founder
+Compensation: Base + Equity + Benefits
+About Estuary
+Estuary is reshaping how the world moves data. Our platform unifies CDC, batch, and streaming into one dependable system, so data teams can power analytics, operations, and AI without stitching together fragmented ETL and replication tools.
+We are also one of the first data infrastructure companies shipping into the AI agent stack. Our skills library plugs directly into Claude, Cursor, and other assistants, turning Estuary into a tool agents can actually use. Telling that story to data teams is part of why this role exists.
+Backed by top investors and led by experienced repeat founders in data infrastructure, we recently raised a $17M Series A led by M13.
+As organizations shift toward real-time architectures, the market is moving fast, and we are too. We are looking for a Head of Product Marketing who can define what we stand for, sharpen how we sell, and build the connective tissue between product, sales, and the enterprise data community.
+The Role
+This is Estuary's first product marketing leadership hire. The role owns product marketing end to end, from strategy and positioning to the messaging, battle cards, and launches themselves. Working directly with our founders, Head of Sales, and product and engineering leadership, you'll turn a technical platform into a story data teams want to buy and champions can repeat without us in the room.
+The scope covers competitive intelligence, sales enablement, launches, partner marketing, case studies, and buyer research, and it shapes how Estuary wins against Fivetran, Airbyte, Confluent, and the broader modern data stack.
+This is a hands-on leadership role. You'll set the direction and do the work: writing the messaging, building the battle cards, and running the launches yourself. We're building the playbook, not executing an existing one, so strong opinions, clear technical writing, and the discipline to ship fast all matter.
+What You'll Do
+Set the product marketing strategy, tied to revenue goals, and measure its impact on pipeline and win rates.
+Own positioning and messaging for the platform and key use cases (CDC, real-time analytics, AI pipelines, data warehouse modernization), with narratives tailored to data engineers, data architects, and data platform leaders.
+Run buyer research through customer interviews, call transcript analysis, and win/loss, and bring those insights into roadmap, pricing, and packaging decisions.
+Lead product launches with Product and Engineering, owning the messaging, assets, and go-to-market sequencing.
+Build the competitive program across the data integration, CDC, and streaming space, including battle cards and field-ready talk tracks.
+Drive sales enablement with our Head of Sales, AEs, and Sales Engineers, including narratives, objection handling, and customer case studies that help close deals.
+Lead partner marketing with Snowflake, Databricks, and cloud providers, owning joint positioning and co-marketing.
+What You Bring
+7+ years of B2B product marketing experience at a data infrastructure, dev tools, or modern data stack company. Experience with ETL, CDC, streaming, or data integration platforms is strongly preferred.
+Product marketing leadership: you've owned product marketing for a company or major product line, and you can defend a point of view with founders, the board, and technical buyers.
+Fluency in the modern data stack: you understand batch ETL, ELT, CDC, and streaming well enough to hold your own with a data engineer or platform lead.
+Strong writing and editorial judgment: you still do the work yourself, producing one-pagers, launch blogs, battle cards, and sales narratives that need little editing, and you push back on jargon and hype.
+Customer and sales instinct: you've run buyer interviews or win/loss research, and you build enablement that AEs and SEs actually use.
+AI fluency: you use AI tools (Claude, ChatGPT, Perplexity, Notion AI, etc.) day to day to speed up research, drafting, and competitive work.
+Bonus Points If You
+Have shipped a launch at a data infrastructure or dev tools company that materially moved pipeline.
+Have worked closely with technically focused buyers at larger organizations and understand how technical evaluation cycles actually unfold.
+Have experience supporting partner ecosystems (Snowflake, Databricks, AWS, GCP, Azure, or similar).
+Have built a competitive program from scratch, including primary research, win/loss, and battle card systems.
+Why Estuary
+Head of Product Marketing seat: you will define the function and set its direction.
+A seat at the leadership table, working directly with our founders and Head of Sales.
+A category that is moving: the modern data stack is being rebuilt around real-time and AI, and we are positioned at the center of it.
+Remote-first culture with offsites in cities like Miami, Austin, Boulder, and New Orleans.
+Competitive base, equity, and full benefits.
+Work Location & Travel
+Estuary operates as a remote-first company. While the role is open to candidates across the US, we are prioritizing candidates based in the New York City area to support in-person collaboration with the founders and leadership team.
+Travel is estimated at ~10–15% for customer meetings, partner events, and company offsites.
+How to Apply
+Send a resume and a short note about a recent piece of PMM work you are proud of (what it was, what it changed, and what you would do differently) to careers@estuary.dev .
+Location: United Kingdom / Ireland
+As a Solutions Engineer at Estuary, you’ll work directly with our founding team to help companies unlock the power of their real-time data. Your work will directly shape how users harness their real-time data, driving our product's development and creating seamless user experiences.
+Working at the intersection of engineering, product, and customers, this role offers the unique opportunity to influence Estuary’s product roadmap while ensuring a smooth and impactful experience for our users.
+We’re looking for individuals with an insatiable curiosity to dive into technical challenges and an empathetic approach to making complex concepts accessible to others. This role is perfect for someone who thrives in a startup environment and seeks the freedom to implement ideas without the constraints of a larger company.
+As a Solutions Engineer, you’ll play a crucial role in shaping the trajectory of a growing company, with the flexibility to chart your path and take your career to the next level.
+Responsibilities:
+Solve simple to very complex customer issues over primarily slack, as well as email and occasional calls. Provide hands-on technical support, conducting independent investigations.
+Gather and articulate technical bugs and feature requests to improve product alignment with customer needs.
+Lead discovery of user challenges, translating insights into actionable product strategies and improvements.
+Actively engage in user-support channels, addressing questions and issues raised by Flow users.
+Scale our support with AI tools, technical documentation, and internal resources.
+Build strong relationships with customers to act as a trusted conduit, influencing their data strategy.
+Develop a perspective on customer and market trends, sharing insights directly with our founding team to influence product direction.
+Utilize the cross-functional and broad-ranging role to identify and execute on wide-ranging projects that improve Estuary as a company.
+What We’re Looking For:
+You want to solve difficult problems, you relish rather than run from a challenge.
+You take ownership of customer requests, recognizing that timely support across timezones enables customer success and helps Estuary grow.
+You're deeply committed to building at a fast-paced startup, far beyond a typical 9 to 5 job.
+You build with AI tools to scale your output and impact
+Bachelor's degree in computer science, data science, or related field, or equivalent technical and business experience.
+Exceptional written and verbal communication skills.
+A natural teacher with empathy for technical and non-technical users, and a genuine desire to make complex topics accessible. interpersonal and relationship-building abilities.
+Solid understanding and hands-on experience with two or more programming languages (e.g., Python, SQL, JavaScript) or equivalent technical skills.
+Experience collaborating effectively with both technical and non-technical stakeholders.
+Ability to balance customer-centric thinking with strong technical expertise.
+You take initiative and execute projects that make a difference for Estuary and our customers
+Experience working in startup environments is strongly preferred.
+Why Estuary?
+Collaborative, ambitious, high performing team that’s passionate about data and pushing the envelope in technology.
+Early-stage startup: your limit is your imagination, not your job description.
+Remote-first culture with autonomy: work flexibly from anywhere.
+Team offsite meetings in fun locations like Miami, Boulder, and Austin. Getting to know each other as a team is crucial to our success!
+Competitive salary, equity, and benefits package.
+If you’re passionate about solving complex problems, helping customers succeed, and building for scale, we’d love to hear from you!
+Head of Marketing
+Estuary is reshaping how the world moves data. Our platform unifies CDC, batch, and streaming into one dependable system, so data teams stop stitching together fragmented ETL, replication, and streaming tools.
+Teams use Estuary to power analytics, operations, and AI, with control over cost, latency, and where their data runs: our cloud, a private deployment, or their own.
+We are also one of the first data infrastructure companies shipping into the AI agent stack, with skills that let Claude, Cursor, and other assistants build and run pipelines.
+We’re hiring a Head of Marketing to make Estuary the first name data teams think of when they need to move data.
+Estuary grows from the bottom up: engineers sign up, build their first pipeline in minutes, and bring us into their companies. Your job is to turn that self-serve momentum into a repeatable engine that reaches more teams and converts them into enterprise deals.
+You’ll report to our CEO, own positioning, demand, content, community, and partners, and shape how the team grows from here.
+Positioning and narrative: own Estuary's story and category narrative, and keep it current as the product moves
+Pipeline: own the marketing plan, budget, and qualified pipeline number
+Funnels: build the path from free signup to activated pipeline to sales conversation, for both self-serve and enterprise buyers
+Content and SEO/AEO: set content strategy and make Estuary the answer for buyers and the AI assistants they use
+Sales enablement: arm Sales with the messaging, competitive positioning, and proof points that close deals
+Launches: own the release calendar and launch major features with Product and Engineering
+Partner marketing: co-market with Snowflake, and cloud marketplaces
+Community and events: grow webinars, our Slack community, and conference presence
+Brand and website: keep our voice and visual identity sharp across every touchpoint
+Marketing ops and attribution: own the tracking so every dollar and signup is measurable
+Developer relations: partner closely with DevRel to make Estuary a trusted name among data engineers through technical content, tutorials, and open source
+Team and partners: lead and hire the marketing team, and direct agencies and contractors
+8+ years in B2B marketing, with 3+ leading a team at a data infrastructure or dev tools company
+Fluency in the modern data stack (ETL, ELT, CDC, streaming) and credibility with engineers
+A track record of building an early-stage marketing function that produced pipeline
+Experience running both PLG and enterprise motions
+Strong positioning, writing, and editing skills
+Comfort owning a funnel model, budget, and metrics (HubSpot or similar)
+A leader technical teams want to work for
+Uses AI to move faster, but brings original ideas and judgement AI can’t supplyu
+Have led marketing at a CDC, ETL, streaming, or database company
+Have open-source, developer community, or DevRel experience
+Have partner or marketplace experience with Snowflake, Databricks, AWS, GCP, or Azure
+Report directly to the CEO and help shape company strategy
+Build the marketing function your way
+Small, low-ego team: low process, high ownership
+100% employee healthcare coverage, 401k, equity, and unlimited vacation
+Company offsites in places like Miami, Austin, Boulder, and New Orleans
+Send your resume and a short note to careers@estuary.dev about a marketing function or campaign you built: what you started with, what it produced, and what you'd do differently.
+Sales Engineer
+Location: New York, NY / Remote within United States
+Estuary unifies change data capture, batch pipelines, and streaming into one platform. Instead of managing separate ETL tools, replication systems, and streaming infrastructure, teams use Estuary to move and transform data across their stack in real time.
+We work with modern data and platform teams who need reliable pipelines, predictable costs, and flexible deployment options — whether in the cloud or in their own environment.
+Your Opportunity
+Estuary sells to technical teams who care about architecture, reliability, and performance. As a Sales Engineer, you’ll work directly with data engineers and platform teams to understand their systems, identify gaps, and show how Estuary fits into their stack.
+You’ll own the technical side of the sales cycle — from deep discovery through proof of concept — and play a key role in turning complex requirements into successful deployments.
+This is a high-impact role for someone who enjoys solving real infrastructure problems and partnering closely with both Sales and Engineering.
+What you’ll do
+Own technical discovery: understand the customer’s data architecture, constraints, and success criteria
+Design solution approaches that map Estuary to their existing stack (warehouses, databases, APIs, streaming systems)
+Deliver live demos that address real-world use cases — not generic feature walkthroughs
+Run and support POCs, troubleshooting issues and ensuring clear technical validation
+Act as the internal voice of the customer, surfacing product gaps and feature requests
+Support post-close technical alignment when needed to ensure smooth handoff
+What You’ll Bring
+Experience running technical discovery, demos, and POCs in a B2B pre-sales environment
+A solid understanding of modern cloud data infrastructure (AWS, Azure, or GCP)
+Familiarity with data warehouses, databases, APIs, and streaming systems
+The ability to explain architectural tradeoffs clearly to technical stakeholders
+Strong written and verbal communication skills
+Comfort managing multiple deals and technical evaluations at once
+A bias toward ownership and follow-through
+What we’re looking for
+2–5 years of experience in technical pre-sales or data engineering
+Hands-on experience with cloud-based data platforms (AWS, Azure, or GCP)
+Familiarity with modern warehouses such as Snowflake, BigQuery, or Redshift
+Understanding of ETL/ELT pipelines, APIs, and streaming architectures
+Ability to whiteboard and reason through distributed data system design
+Nice to have:
+Experience with CDC or replication technologies
+Exposure to tools in the broader ecosystem (e.g., Fivetran, Airbyte, or Confluent)
+While Estuary operates as a remote-first company, we are prioritizing candidates based in the New York City area for this role.
+Travel is estimated at ~15% for customer meetings and company events.
+Technical Writer / Project Based
+Location: Remote
+Estuary is reshaping how the world moves data. Our right time data platform unifies CDC, batch, and streaming into one dependable system, eliminating the need to stitch together fragmented ETL and replication tools. We are also one of the first data infrastructure companies shipping into the AI agent stack. Our skills library plugs directly into Claude, Cursor, and other assistants, turning Estuary into a tool agents can actually use.
+We help data teams build modern, real-time infrastructure that powers analytics, operations, and AI without the complexity and cost of legacy tools. Backed by top investors and led by experienced repeat founders in data infrastructure, we recently raised a $17M Series A led by M13.
+As organizations shift toward right-time architectures, the market is moving fast, and we are too. We are looking for a contract technical writer who can translate this platform into deep, useful content that data teams actually want to read and that ranks for the queries our buyers run when they are evaluating tools.
+This is a senior contract seat for a writer who can grasp technical concepts quickly and translate them into content that engineers respect. You will work directly with the VP Marketing, our SEO and growth marketing lead to produce technical blog content on data pipelines, streaming architecture, and the data infrastructure powering agentic and operational AI.
+This is not a role for a generalist content writer who needs an engineer to translate every concept. We are looking for someone who can read a technical spec or sit in a 30-minute call with a product engineer and walk away ready to write. You will need strong opinions, the discipline to ship on agreed dates, and the ability to write clearly about complex infrastructure.
+Rewrite and produce technical blog posts (typically 1,500–3,000 words)
+Build hands-on tutorials with working code and reproducible setups
+Produce evaluation guides and architectural comparison content
+Provide editorial polish on all deliverables
+Partner with our SEO and content leads to align deliverables with search intent and pillar strategy
+A portfolio of published technical writing that demonstrates depth and a distinct point of view
+The ability to grasp technical concepts quickly and explain them clearly. You can pick up a new system, read the docs, ask the right questions, and produce content that holds up under technical scrutiny
+Comfort writing about infrastructure and AI topics without hand-waving or filler
+Strong writing and editing chops: you can produce a tutorial, a deep dive, and a comparison piece without heavy editing
+Bias toward shipping: you move from a blank page to a publishable draft quickly and know when something is ready
+Self-directed working style and reliable turnaround on agreed deliverable dates
+Editorial judgment: you push back on jargon, hype words, and weak language
+Have a data engineering, developer relations, or developer-facing engineering background
+Have worked at a data infrastructure, dev tools, or modern data stack company
+Have built or contributed to open source data infrastructure projects
+Have a conference talk, community-building, or DevRel track record
+Have written content that ranks for competitive technical search queries
+Have used AI tooling (Claude, ChatGPT, Cursor, perplexity) to accelerate research and drafting workflows
+A category that is moving: the modern data stack is being rebuilt around real-time and AI, and we are positioned at the center of it
+Genuinely interesting technical surface area, with room to go deep on the topics you find most compelling
+Remote, project-based, and flexible by design
+Engagement Details
+Contract, project-based with flexible hours
+Per-deliverable rate, scoped at kickoff based on length and complexity
+Fully remote, US-based or US-time-zone friendly preferred
+Immediate start
+Send a short note, your rate expectations, and 2–3 writing samples that demonstrate technical depth.
+Account Executive
+Location: New York, NY / Remote - United States
+Location: Remote (US)
+Department: Sales
+Reports to: Head of Sales / GTM Lead
+Compensation: Base + Commission + Equity
+Estuary is reshaping the future of data movement. Our platform unifies batch and real-time pipelines into a single, reliable system — eliminating the need to stitch together fragmented ETL and streaming tools.
+We help data teams move and sync data across systems with low latency, strong guarantees, and production-grade reliability. As organizations shift toward real-time architectures, traditional batch-only solutions are no longer enough. Estuary enables teams to build modern data infrastructure without unnecessary complexity.
+Backed by top investors and led by experienced founders in the data infrastructure space, our mission is to make real-time data practical and accessible for every organization.
+Own the full sales cycle from outbound prospecting through close for mid-market, data-forward organizations.
+Lead consultative discovery conversations with technical and commercial stakeholders.
+Position Estuary as a modern alternative to legacy ETL tools and fragmented streaming stacks.
+Navigate complex buying committees that include data engineers, Heads of Data, and finance stakeholders.
+Build and manage pipeline with strong CRM discipline in HubSpot.
+Partner closely with Sales Engineering, Marketing, and Leadership to refine messaging, ICP definition, and competitive positioning.
+Consistently meet and exceed new logo and ARR quotas.
+3–6 years of closing experience in SaaS, data infrastructure, or developer-focused products.
+Proven track record of hitting or exceeding quota in a new business role.
+Comfort selling into technical buyers (data engineers, analytics engineers, platform teams).
+Working knowledge of modern data stack concepts: ETL/ELT, CDC, data warehouses, streaming pipelines.
+Strong written and verbal communication skills with the ability to translate technical value into business impact.
+Self-starter mentality with the ambition to grow into a senior or enterprise-focused sales role as we scale.
+Have experience selling to data engineers or platform teams.
+Have worked at an early-stage startup in the data infrastructure or developer tooling space.
+Are familiar with tools such as Fivetran, Airbyte, Kafka, dbt, or Snowflake.
+Have experience navigating multi-threaded deals with both technical and commercial stakeholders.
+Why Join Us?
+Help define how real-time data infrastructure is sold.
+Be early enough to shape GTM strategy, not just execute it.
+Work alongside a deeply technical team building category-defining infrastructure.
+Competitive compensation, equity, and benefits.
+Remote-first culture with meaningful ownership and impact.
+Product Manager
+Location: United States / Remote
+At Estuary, we’re building the infrastructure that powers real-time data movement — helping companies sync, transform, and operationalize data across databases, warehouses, and streaming systems.
+Following a $17M Series A led by M13, we’re entering the next phase of growth — expanding the product, scaling the team, and continuing to build and scale our core data platform.
+We’re hiring a founding Product Manager to help shape what we build and why. You’ll work directly with our founders, engineers, and customers to define product direction across the core platform — from control plane to connectors to user experience.
+This is an early, high-impact role where you’ll directly shape what we build next.
+This is not a “process PM” role. You’ll be expected to form strong opinions, get close to users, and drive decisions in a fast-moving, highly technical environment — with the autonomy to move quickly and the responsibility to get it right.
+What You’ll Do
+Contribute to product direction across key areas of the platform, including but not limited to:
+Control plane (workflow orchestration, management, reliability)
+Connector ecosystem (source/destination integrations, developer experience)
+User experience (UI, onboarding, usability of complex workflows)
+AI-driven features and tooling, helping users automate, optimize, or gain insights from real-time data
+Work directly with customers and prospects to deeply understand their data infrastructure use cases and translate that into product priorities.
+Develop PRDs which disentangle the complex relationships between systems we connect with and our product to speed up engineering implementations and align them with customer needs.
+Partner closely with engineering to define, scope, and ship features
+Effectively prioritize limited resources to ensure we utilize them as efficiently as possible to deliver customer value.
+Develop and communicate product roadmap and priorities, bringing clarity to what we’re building and why
+Act as a connective layer across the company, aligning engineering, go-to-market, and leadership around product direction
+What We’re Looking For
+4–8 years of experience in product management, engineering, or a highly technical, product-adjacent role
+Experience working on developer tools, data infrastructure, or technical products (e.g. data pipelines, databases, APIs, cloud infrastructure)
+A strong capability to apply modern AI tools to the product lifecycle
+Proven track record of working closely with engineering teams to ship products
+Thrives in ambiguity and early-stage environments with a curious outlook and get it done no matter what attitude
+Track record of talking to users, uncovering real problems, and turning those insights into product direction
+Nice to Have
+Background in data engineering, analytics, or distributed systems
+Experience building or working with connectors, ETL/ELT pipelines, or streaming systems
+Early-stage startup experience
+Work directly with the founding team on core product decisions
+Own meaningful product surface area from day one
+Small, high-performing team — low process, high ownership
+Remote-first with quarterly offsites in places like Miami, Boulder, and Austin
+Competitive compensation and equity
+Customer Success Manager
+Estuary unifies change data capture, batch pipelines, and streaming into one platform. Teams use us to move and transform data across their stack in real time, without stitching together separate ETL, replication, and streaming tools.
+We work with modern data and platform teams who need reliable pipelines, predictable costs, and flexible deployment options.
+As Estuary's first Customer Success Manager, you'll own the post-sale relationship for our customers: data engineers, platform leads, and the teams who depend on Estuary to keep their pipelines running.
+It's a hybrid role, part relationship owner, part technical problem-solver. You'll be the person customers trust to keep them successful, and technical enough to resolve most issues yourself.
+This is a rare build-it-yourself opportunity. There's no playbook sitting on a shelf waiting for you, because it doesn't exist yet. You'll invent it: how we onboard customers, how we track account health, and how we turn happy customers into champions and expansion revenue.
+You won't just be filling a seat, you'll be laying the foundation of a function you'll grow and lead as we scale.
+• Build our Customer Success function from the ground up: onboarding, health monitoring, and the account management playbook.
+• Own the post-sale customer journey, from onboarding through renewal and expansion.
+• Be the primary point of contact for your accounts, building real relationships and running business reviews that go beyond a status update.
+• Use AI tools to build dashboards and health-monitoring views for account status, usage, and risk.
+• Track key stakeholders at each account and have a plan for onboarding new contacts when roles change.
+• Monitor account health and get ahead of risk before it becomes a churn or renewal problem.
+• Troubleshoot and resolve most technical issues yourself, day-to-day.
+• Know when to loop in Solutions Engineering, and hand off cleanly with the right context.
+• Identify and drive expansion opportunities: new use cases, new teams, new pipelines.
+• Act as the customer's internal advocate, routing feedback to Product and Engineering.
+What You'll Bring
+• Experience in customer success, technical account management, or a similar role, ideally at a SaaS, data infrastructure, or dev tools company.
+• A real builder's instinct. You've either built a CS function or process before, or you're itching to, and you don't need a playbook handed to you to know what good looks like.
+• Genuine comfort with technical concepts: APIs, databases, warehouses, ETL/ELT. Enough to troubleshoot and hold your own in a technical conversation.
+• Comfort using AI tools to build reporting, dashboards, or health-monitoring systems from scratch. You don't need to be an engineer, but you should be resourceful enough to build the tooling you need rather than wait for someone to build it for you.
+• Strong account management instinct: you build trust, spot risk early, and turn happy customers into advocates and expansion opportunities.
+• Strong written and verbal communication, with the ability to translate technical detail into business value.
+• A proactive, ownership-driven approach: you notice risk or opportunity before it's escalated to you.
+• Experience with tools like Snowflake, Databricks, BigQuery, Kafka, Fivetran, or Airbyte.
+• Early-stage startup experience, ideally as an early or first CS hire.
+• Familiarity with CDC or streaming architectures.
+• Build the Customer Success function from the ground up, reporting directly to our CEO, with real potential to grow and lead a team as we scale.
+• Collaborative, high-performing team pushing the envelope in data infrastructure.
+• Early-stage startup: your limit is your imagination, not your job description.
+• Remote-first culture with autonomy.
+• Quarterly offsites in places like Miami, Boulder, and Austin.
+• Competitive salary, equity, and benefits.
+Senior Systems Engineer (Capture & Materializations)
+Experience: 8+ Years
+Estuary is a real-time data integration platform built for both fast-moving developers and large-scale enterprises. We combine change data capture (CDC), stream processing, and declarative configuration into a unified system that simplifies complex data movement. With Estuary, teams build reliable, low-latency pipelines—without the overhead of managing data infrastructure.
+We are looking for a Senior Systems Engineer to join our Capture or Materialization teams. These teams are the bridge between Estuary and the rest of the data ecosystem. You will be responsible for building the high-performance connectors that extract data from diverse sources and reliably load it into downstream destinations.
+Success in this role requires a blend of low-level systems engineering and high-level product intuition . You won't just be connecting endpoints; you’ll be deeply investigating how different SaaS platforms and databases behave, uncovering their unique constraints, and architecting robust ways to move their data in real time. This is a polyglot engineering environment. While much of our connector ecosystem is built in Go , we also leverage Python and Rust where they are the best tool for the job.
+Master SaaS & Protocol Internals: Deeply research and understand the "behavior" of SaaS APIs (e.g., Salesforce, Stripe, NetSuite) and database protocols. You’ll determine the most robust ways to interact with them, considering rate limits, consistency models, and hidden edge cases.
+Build Polyglot Integrations: Design and maintain robust, scalable connectors written primarily in Go , while also contributing to or maintaining components in Python and Rust .
+Architect for Reliability: Build systems that handle distributed state, "exactly-once" delivery guarantees, and sophisticated backpressure management to ensure data is never lost or duplicated.
+Navigate Technical Entropy: Bridge the gap between the "messy" reality of external APIs and the high-performance requirements of the Estuary core engine.
+Collaborate & Mentor: Participate in technical design docs and code reviews, helping the team maintain high standards for performance, correctness, and developer experience.
+What We're Looking For
+8+ years of backend engineering experience: You have a track record of building and operating production-grade systems at scale.
+Pragmatic Polyglot: You are highly proficient in Go , but you are also comfortable working in (or learning) Python and Rust . You care about using the right tool for the specific integration challenge.
+Systems Thinking: You enjoy "detective work"—digging into third-party documentation and API behavior to understand how to build a truly reliable integration.
+Data Fluency: You understand the nuances of data movement—including checkpointing, schema drift, and the trade-offs between different consistency models.
+Strong Fundamentals: A deep understanding of concurrency, memory management, and networking (gRPC, TCP/IP).
+Clear Communication: Ability to explain complex technical trade-offs to both technical and non-technical stakeholders.
+Practical Experience: While a degree can be helpful, we value equivalent practical experience and your demonstrated ability to solve hard problems at scale.
+We know that excellence comes in many forms. If you don’t meet 100% of these qualifications but have a strong systems background and are excited about what we’re building, we encourage you to apply.
+Bonus Points For
+Experience with Rust: We use Rust in our core engine, so familiarity with it (or a strong desire to learn) is a plus.
+Data Infrastructure Background: Experience with Change Data Capture (CDC), Kafka, Flink, or similar streaming technologies.
+Open Source Contributions: Experience contributing to or maintaining data-centric open-source projects.
+Startup Grit: Experience in fast-paced environments where you’ve balanced rapid iteration with long-term system stability.
+Estuary is VC-backed and led by experienced, repeat founders. We are building a diverse, low-ego team that values ownership, fast iteration, and mutual respect.
+We offer:
+Competitive compensation, equity, and full benefits.
+Flexible remote work with a culture that respects work-life boundaries.
+A high-autonomy environment where your contributions have a direct impact on the product.
+Quarterly team offsites in cities like Miami, Austin, Boulder, and New Orleans to build community and connection.
+Senior Compliance Engineer
+We are looking for a Senior Compliance Engineer to join our security and compliance function. Our SOC 2 and HIPAA programs are mature and audited. Two areas will have your attention from the start: GDPR, where EU enterprise demand keeps raising the bar across our category, and PCI DSS, which this role will lead as customer demand builds. You will drive both, while keeping the established programs running at the standard our customers expect.
+This is a governance role first. You will be the person who designs the control set, automates the evidence, runs the audit cycle, keeps policy current as the company and product change, and answers the hard questions on a customer security call. The role also covers corporate IT, because identity and endpoint management are where a meaningful share of those controls operate day to day.
+Success requires a blend of deep framework expertise and practical systems judgment. You will be translating abstract control language into automation and defaults engineers can work with, rather than policy that sits apart from the work.
+Compliance at Estuary carries commercial weight, not just risk weight. Customers move sensitive data through our platform, and our ability to show exactly how it is protected is part of what earns that. This work is visible to customers in a way compliance often isn't.
+A note on fit. This role spans governance and IT; we are looking for someone who has been the person accountable for a compliance program rather than a contributor to one, and who can also run the systems underneath it. We are not looking for a systems administrator who has been adjacent to audits. If your experience is primarily device and identity administration without program ownership, this is likely not the right role, and we would rather tell you that here than in a fourth interview.
+Governance and Compliance
+Deepen Our GDPR Program: Estuary exists to move customer data across systems, which puts privacy close to the product. Take our GDPR program to the depth EU enterprise buyers' counsel look for across records of processing, lawful basis, DPAs and sub-processor management, cross-border transfer mechanisms, data residency commitments, retention, and DSAR handling.
+Lead Our PCI DSS Effort: Take us to attestation as a service provider, as a planned and resourced program rather than a reaction to one deal. Scope how the platform's role in moving customer data maps to the requirements, run the gap assessment, sequence the remediation, and carry us through attestation.
+Sustain SOC 2 and HIPAA: Run the day to day of two programs with a good audit track record: continuous evidence collection, access reviews, control testing, auditor coordination, BAAs and PHI handling. Both programs are in good standing, and your job is to keep them there as the company and the product surface grow.
+Risk and Assessments: Keep our risk register and system of record current, working with the engineers and leaders who hold each risk. Run vendor and sub-processor assessments, coordinate penetration testing, and keep security awareness training on schedule.
+Keep Compliance Scope Current as the Platform Evolves: As Estuary's architecture, deployment options, and vendor footprint change, the compliance boundary moves with them. You will work out what each change means for scope, controls, and customer commitments, and keep our documentation and customer-facing answers current as it happens.
+Support Enterprise Diligence: Partner with sales on security questionnaires, vendor risk reviews, and customer audits, so buyers get accurate answers quickly. Maintain a trust center and keep our security documentation current.
+Keep Us Incident Ready: Maintain and exercise incident response, business continuity, and disaster recovery plans alongside engineering. Be the calm, organized presence when a plan has to be used.
+The Systems Underneath
+Run Identity and Access: SSO and IdP administration, provisioning and deprovisioning, MFA, and least privilege. Keep extending the automation behind access reviews so they draw directly from system state.
+Run Endpoints and the SaaS Estate: Device management and MDM, endpoint security, onboarding and offboarding, vendor procurement and security review, license hygiene, and full visibility into the SaaS estate.
+Automate the Evidence Path: Extend our compliance automation and evidence collection so controls stay continuously satisfied by default and keep shrinking the set that needs manual effort.
+8+ years in compliance, GRC, or security governance: You have personally carried organizations through audits and come out the other side, at companies where the product was the thing being audited. Program ownership is the requirement here, not audit participation.
+You Have Built, Not Just Maintained: You have stood up at least one compliance program from close to nothing. You know what the first ninety days look like, which gaps matter, and how to sequence remediation when everything is technically a finding.
+SOC 2 Depth: You have run a SOC 2 Type II through a full audit cycle, and you know the difference between a control that passes and a control that works.
+Privacy Fluency: You are genuinely comfortable with GDPR mechanics: data processing agreements, lawful basis, transfer mechanisms, sub-processor management, and data residency. Not just familiar with the acronym.
+Policy and Judgment: You write policy that is precise enough to audit against and practical enough for the team to work with, you can make and document a defensible risk acceptance decision, and you can explain your reasoning to an auditor and stand behind it.
+Hands-On Systems Ownership: You have run identity, device, and SaaS administration for a distributed company yourself. You are as comfortable in an IdP admin console as you are in an audit workbook.
+Systems Thinking: You enjoy detective work: tracing how a system behaves under load, where data moves and who can reach it, and where documented process and lived process diverge.
+Engineering Empathy: You can read a cloud architecture diagram, hold your own with engineers about infrastructure and access controls, and design controls that hold up without slowing delivery.
+Clear Communication: Ability to explain complex compliance trade-offs to both technical and non-technical stakeholders, including a prospect's CISO on a live call.
+Practical Experience: Certifications like CISSP, CISA, or CIPP/E are welcome. What we weigh most heavily is a track record of programs you have run end to end.
+We know that excellence comes in many forms. If you don't meet 100% of these qualifications but have carried a compliance program through a full audit cycle and are excited about what we're building, we encourage you to apply.
+Direct PCI DSS Experience: Hands-on with PCI scoping, cardholder data environments, and the SAQ or ROC process, especially as a service provider rather than a merchant.
+ISO 27001: Experience building toward or maintaining certification, and mapping a shared control set across overlapping frameworks.
+Data Infrastructure Context: Experience supporting a data platform, ETL or CDC vendor, or a similar company where customer data is the product surface.
+Compliance Automation Tooling: Hands-on with platforms like Vanta, Drata, or Secureframe, and clear eyed about where they help and where they don't.
+Public Sector Exposure: Familiarity with FedRAMP, StateRAMP, or NIST 800-53, enough to tell us honestly what that path would demand.
+Startup Grit: Experience in fast-paced environments where you've balanced rapid iteration with durable process.
+Quarterly team offsites in cities like Miami,
+Senior Systems Engineer (Control & Data Plane)
+Location: Remote / USA
+Estuary is a real-time data integration platform built for both fast-moving developers and large-scale enterprises. We combine change data capture (CDC), stream processing, and declarative configuration into a unified system that simplifies complex data movement. With Estuary, teams build reliable, low-latency pipelines — without the overhead of managing data infrastructure.
+As a Senior Systems Engineer, you will be a core contributor to our Control and Data Planes . This is a high-impact role where you will build the high-performance backbone that manages distributed state, ensures sub-second latency, and scales to handle massive throughput. You’ll join a high-trust, collaborative team that values technical excellence, diverse perspectives, and clear communication.
+Architect & Build: Design and implement high-performance components for our data plane (stream processing and transport) and control plane (orchestration and state management).
+Optimize for Scale: Profile and optimize systems primarily written in Rust to minimize latency and maximize resource efficiency.
+Solve Distributed Problems: Lead initiatives around fault tolerance, consensus protocols (e.g., Raft), and high-performance networking.
+Ensure Correctness: Write production-grade, highly-tested code and participate in thoughtful code reviews that help the whole team level up.
+8+ years of experience in backend software development, with a focus on distributed systems or real-time infrastructure.
+Systems Programming Expertise: Proficiency in Rust is highly preferred. Significant experience in Go or C/C++ with a desire to master Rust is also great.
+Experience with Large-Scale Systems: You have a track record of building and operating systems that handle significant traffic or complex distributed state.
+Head of Engineering
+Level: Director
+Location: Remote US
+Reports to: CTO
+What’s the role
+Estuary powers "right-time" data replication and transform: from sub-second CDC replication to terabyte-scale OLAP data flows. That spans a lot of surface area, including a streaming runtime and control plane, hundreds of source and destination integrations, a transformation and SQL experience our users live in daily, and a growing set of AI capabilities on top of all of it.
+We're hiring a Head of Engineering to own the engineering function: strategy, people, delivery, and operations. You'll join the leadership team as a partner to our founder CTO, owning engineering's direction as well as its delivery, while the CTO stays deep in architecture and the long-range technical bets.
+Day to day, that means growing the leaders who run our teams, deciding what the organization needs to look like twelve and twenty-four months out, and being accountable for what engineering ships and what it costs. You're not starting from zero: engineering is already organized into teams with capable leads who own real scope and ship a product customers depend on daily. What's changing is scale: in the surface area we support, in what we ask each team to own, and in the size of the customers betting their data infrastructure on us.
+We will grow the team, but headcount is not our primary lever. Estuary's leverage comes from strong tooling, clear ownership, and a high hiring bar, and we add people when the work genuinely demands it rather than on a schedule. The job here is making a compact team formidable rather than building a large one.
+Own the engineering roadmap and its execution. Be accountable for what we ship, when, and at what quality. Develop the processes and team loops that wrangle the competing needs of customers, partners, marketing, operations, and long-term product vision into a focused and achievable technical pipeline, across every part of the stack rather than one slice of it.
+Set technical strategy with the CTO. Own the engineering half of where the product goes: build versus buy, what we invest in ahead of demand, which architectural bets are worth the disruption, and what we deliberately don't do. Make the case for those choices to the co-founders and, when it matters, to the board.
+Grow leaders. Develop the tech leads/engineering managers already running our teams, and grow their ranks as the org expands. Coach on the judgment calls that come with scope: where to set the bar, when to decide with incomplete information, how to have the hard conversation early. Build the management practice at Estuary, including how we level, review, and grow people, on top of the culture that's already here.
+Design the org ahead of the need. Judge when a team has grown past its structure, where a new one should form, how ownership gets redrawn as the product expands, and when to add process. Own headcount planning and the engineering budget, and defend both, including the decision not to hire. Layer the right practices at the right time, and no sooner.
+Represent engineering at the company level. Set expectations with the co-founders and with our compliance, marketing, sales, and support leads. Turn strategy into sequenced, staffed commitments, and surface the constraints, including what's achievable, what it costs, and what breaks, early enough to change the plan. Show up for the customer conversations where an engineering leader is what closes the gap.
+Own reliability as a business outcome. Define what our SLOs should be with the people who sell and support the product, then hold the organization to them. Safeguard Estuary's "fix bugs first" culture and protect our reputation for customer support and success as we grow.
+Operational excellence. Develop and champion quality standards and strategies for risk minimization across the platform. Improve development processes and developer experience. Own our engineering posture on security and compliance as our customers get larger and their diligence gets sharper.
+Hiring engine. Partner with in-house recruiting, who own sourcing, to shape the rest of the engineering candidate experience: screening, interview structure, scoring, and onboarding. Own leadership hiring yourself. Keep the bar high as we grow.
+Stay close to the work. You'll read design proposals, ask the right questions, and hold your own in a technical debate about our stack. You won't be in the critical path of shipping, but a Head of Engineering here is expected to have opinions grounded in how the system actually works.
+Qualifications
+8+ years building software, with 4+ years leading engineering teams, including experience as a manager of managers.
+Experience owning an engineering function in the range of 20 to 50 engineers. What interests us is the leverage you got out of that team rather than how large it became.
+A track record of developing engineering leaders, not just engineers. You can point to specific people whose careers accelerated under you, and to managers you hired who are still leading well.
+Depth in data-intensive systems such as distributed systems, streaming, storage, or query engines, plus the judgment to hold a credible technical conversation across a broad stack you don't personally own.
+Proven ability to lead, introduce structure, and nurture engineering excellence across multiple teams in a complex domain, preferably B2B. This includes inheriting a functioning organization and earning its trust before changing how it works.
+Experience partnering with a founder or CTO on technical strategy, including the part where you disagree productively.
+Comfort spanning infrastructure work and user-facing product work, and setting priorities between them.
+Ability to communicate at all levels, and discuss nuanced technical concepts with both technical and non-technical stakeholders, up to and including customers and the board.
+Experience leading and organizing incident response in high stakes settings.
+How we work
+High autonomy; engineers own the full feature lifecycle and often engage directly with users.
+Remote-first, Slack-centric, async-friendly with VCs as needed.
+Global team with a skew towards east-coast working hours.
+Compensation & leveling
+Market‑competitive cash + equity.
+Let's talk about your data
+Have a specific question or comment? Send us a note and a team member will reach out to you shortly.
+If you don't see the form, please click here to open it in a new tab.

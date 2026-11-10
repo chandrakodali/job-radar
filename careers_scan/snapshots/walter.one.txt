@@ -1,0 +1,36 @@
+Offload paperwork
+to AI Employee Walter
+Walter reads documents, captures and validates data, and integrates it directly into
+your ERP system.
+Trusted by enterprises running on
+and more...
+Use cases Walter focuses on.
+Order Management
+Processing time reduced
+15 min → 1 min
+Sales orders parsed from email and PDFs, validated against your catalog, written to your ERP.
+Procurement
+Saved per week
+60+ hrs
+Bills of material analyzed to identify purchase needs, supplier fit, and vendor outreach.
+Walter vs. traditional OCR
+Legacy OCR
+Walter
+Document understanding
+Template-based
+Purpose-built LLM
+Accuracy out of the box
+Setup & tuning required
+90%+ after 10 docs
+Languages
+A handful
+270+
+Validation
+Manual rules
+Native ERP cross-check
+Workflows
+Bolt-on RPA
+Built-in
+Improvement over time
+Flat
+Compounding

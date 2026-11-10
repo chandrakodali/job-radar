@@ -1,0 +1,48 @@
+Join us in creating
+Analog Circuits
+Superintelligence.
+Help build the AI that takes an analog circuit from specification to layout.
+Explore open roles
+Open roles
+Bangalore · Hybrid
+Founding Analog Design Engineer Analog & mixed-signal design
+Bangalore Hybrid · Full-time
+Company Description
+Atrisa (YC P26) builds AI agents to accelerate, debug, and automate analog circuit design. Our AI copilot helps engineers design circuits, run simulations, and debug failures, shortening the path from a specification to a working design.
+Role Description
+This is a full-time, hybrid role in Bangalore. You'll design, analyze, and verify analog and mixed-signal circuits, and work with our software and AI engineers to bring that work into Atrisa.
+Design and simulate analog blocks, balancing performance, power, and area.
+Investigate circuit behavior, debug simulation failures, and check designs across operating conditions.
+Review schematics and layouts, and contribute to silicon validation.
+Turn practical design problems into examples and tests that help our AI tools improve.
+Qualifications
+At least 3 years of experience in analog or mixed-signal circuit design.
+A strong foundation in analog and mixed-signal circuit design.
+Hands-on experience with industry EDA tools and SPICE simulation.
+The ability to reason through circuit tradeoffs and explain what is causing a design to fail.
+A bachelor's or master's degree in electrical engineering or a closely related field.
+An interest in using AI and automation in circuit design.
+Experience with silicon bring-up and lab validation is a plus. We're open to visa sponsorship.
+Apply for this role
+Founding Analog Design Engineer
+Founding AI / ML Engineer Model training & AI agents
+Atrisa (YC P26) builds AI agents for analog circuit design. We are building AI that takes a circuit from specification to layout, working with the simulators and design tools engineers use today.
+Full-time, hybrid in Bangalore. Open to visa sponsorship.
+Train and fine-tune models for analog circuit design.
+Build reinforcement learning pipelines, simulation environments, reward functions, and evaluations grounded in circuit performance.
+Build agents that interact with circuit simulators and design environments, from setting up a run to interpreting results and choosing the next step.
+Build observability into agent runs. Detect and prevent failures, and design recovery paths when tools, simulations, or model decisions go wrong.
+Work with analog engineers to distill their design intuition into training data, models, and agent harnesses.
+At least 3 years of relevant AI / ML engineering experience, with hands-on model training or fine-tuning.
+Strong Python skills and experience with PyTorch or an equivalent framework.
+Experience building agents that call tools, manage state, and carry out multi-step tasks.
+Experience designing evaluations and debugging failures across models, data, and software.
+Familiarity with reinforcement learning, reward design, or training environments is a plus.
+Experience with analog circuits, EDA tools, SPICE, or scientific computing is a plus.
+Founding AI / ML Engineer
+Don't see your role? Tell us what you'd like to work on
+Apply
+Send us your resume and a little about your work. We'd like to hear about a problem you enjoyed solving.
+Prefer email?
+[email protected]
+Checking application form availability…

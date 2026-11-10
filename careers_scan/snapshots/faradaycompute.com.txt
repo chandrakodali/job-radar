@@ -1,0 +1,103 @@
+The short answer
+Quoting automation turns an RFQ into a structured, costed draft for approval. Faraday gathers the requested items or drawings, uses your costs and job history, identifies missing requirements and prepares the response. Estimators retain control of assumptions, margins and customer commitments.
+The problem: the quote waits while the customer keeps looking.
+An RFQ lands with a drawing, three quantity breaks and a request for delivery next month. The estimator searches for a similar job, asks purchasing for material cost, checks outside-processing charges and waits for production to confirm capacity. By the time the pieces come together, the customer may already have another supplier's answer.
+Distributors face a related problem: a long item list contains customer aliases, stale costs and products that may need substitutes. A fast response still needs the right availability, price agreement and delivery assumptions. Reusing the last quote without checking those inputs can turn a sale into a margin problem.
+Experienced estimators compensate with spreadsheets and memory. That makes the process dependent on a few people and leaves assumptions hard to inspect. A useful quoting workflow preserves their judgment while removing the gathering and re-keying that delays every response.
+Where it shows up
+RFQs sit in inboxes before anyone establishes scope.
+Estimators search past jobs manually for comparable work.
+Supplier cost and availability checks happen in separate threads.
+Quantity breaks are recalculated in disconnected spreadsheets.
+Quote assumptions disappear when the order reaches production.
+Why it's hard to keep up by hand.
+A quote brings together technical scope, commercial policy and the operation's ability to deliver. Missing any one of them changes the offer.
+Requirements are incomplete
+Drawings, revisions, finishes, quantities and inspection requirements may arrive in separate attachments. A missing requirement can invalidate the estimate.
+History needs context
+A past job is a useful reference, not a current cost. Material, setup, run time, scrap and outside services may have changed.
+Price and promise travel together
+A profitable price is not enough if the delivery date is unsupported. Capacity, stock and supplier lead times belong in the review.
+How Faraday fixes it.
+Faraday assembles a quote package with source inputs and explicit assumptions, giving the estimator a draft to assess rather than a blank spreadsheet.
+Step 1
+Structure the RFQ
+Collect requested items, drawings, revisions, quantities, due dates and commercial terms. Flag missing specifications or conflicting documents before costing begins.
+Step 2
+Build the cost basis
+Bring together item costs, comparable job history, materials, routings, setup and run times, outside processes and supplier inputs. Identify stale data and unsupported assumptions.
+Step 3
+Compare options and exceptions
+Calculate the requested quantity breaks and show the assumptions behind each. Check stock or capacity and route technical questions, low-margin lines and unusual terms to their owners.
+Step 4
+Approve the customer response
+The estimator reviews costs, margin, exclusions, validity and delivery assumptions. Save the approved quote and preserve its basis for order entry and the eventual production handoff.
+RFQ review · Quantity breaks
+Example data · Draft cost basis
+Estimator approval required
+Input
+Available evidence
+Proposed action
+Why
+Machined bracket · Rev C
+Comparable job uses Rev B
+Engineering review
+A revision difference may change cycle time or material.
+Quantities 50 / 100 / 250
+Setup shared across the batch
+Draft three breaks
+Separate setup cost from per-unit run and material cost.
+Delivery next month
+Finishing capacity unconfirmed
+Qualify the lead time
+Do not promise a date before the outside process is checked.
+Illustrative RFQ review. Scope and recommendations are examples, not a customer quote or a guaranteed delivery promise.
+What changes for your team.
+Workflow
+Today
+With Faraday
+Intake
+Read attachments and rebuild the request.
+Review a structured RFQ with missing inputs flagged.
+Costing
+Hunt through jobs and supplier emails.
+Inspect a connected cost basis and its sources.
+Options
+Recalculate breaks in separate sheets.
+Compare quantity options with explicit assumptions.
+Approval
+Send a number without its basis.
+Review margin, risk and delivery together.
+Handoff
+Reconstruct the quote after order award.
+Carry approved scope and assumptions into the order.
+How to measure the impact
+Track RFQ response time, estimator touch time, clarification cycles, win rate and quoted-versus-actual margin. Segment by job type and complexity. Winning more work is not enough if the estimate consistently misses material, setup or outside-processing costs.
+Common questions about quoting.
+What is quoting automation?
+Quoting automation prepares a structured response to a request for quotation by gathering requirements, calculating a cost basis and applying commercial rules. A useful workflow also flags uncertainty and supports approval. It is more than generating a quote document.
+How is quoting different from pricing optimization?
+Quoting responds to a specific opportunity with its own scope, quantity and delivery requirements. Pricing optimization reviews pricing decisions across products, accounts or segments. A quote can use pricing policy while still needing job-specific costing and approval.
+Can historical jobs be used to estimate a new one?
+Yes, as a reference after checking the differences. Compare revision, material, quantity, routing, setup, run time and outside services. Historical actuals should be adjusted for current conditions rather than copied as if they were a live supplier offer.
+How do quantity breaks affect a quote?
+Fixed setup cost is spread over more units as batch size increases, while material discounts, run efficiency and outside-process minimums may also change. Review each requested quantity rather than applying a single percentage discount to the smallest batch.
+What data does Faraday need for quoting?
+Incoming RFQs and attachments, the item master, current material and supplier costs, routings, setup and run times, past quotes and job actuals, pricing rules and relevant inventory or capacity records. The first walkthrough can compare draft recommendations with your existing estimating process.
+What happens when an RFQ is incomplete?
+Identify the missing requirement and ask for clarification, or make an explicit assumption for the estimator to approve. Material grade, revision, inspection and delivery details should not be silently invented. The customer response needs to state meaningful exclusions and qualifications.
+Does Faraday send quotes without approval?
+The starting workflow produces a draft for your estimator or commercial owner. They approve the cost basis, margin and terms before the quote is released. Any later automation should be limited to clearly defined, low-risk cases you choose.
+Related use cases
+All use cases
+Engineering
+Drawing, BOM and revision checks queue behind a few engineers. Faraday checks each package against your standards and sends only real issues for review.
+Sales · Finance
+Pricing optimization
+Price lists drift behind cost changes and margin leaks quietly. Faraday compares cost, demand and margin targets and sends recommended changes for approval.
+Sales · Customer service
+Order entry
+Orders arrive by email, PDF and phone. Faraday turns each request into a validated order in your ERP and sends exceptions to the right person.
+See your next RFQ, assembled.
+Walk through one opportunity with your estimating team, from source requirements to a costed draft and its open questions.
+Book a meeting

@@ -1,0 +1,81 @@
+OllyGarden Careers
+Join Our Team
+Help us revolutionize telemetry pipelines and empower observability engineers worldwide. Join our mission to build the next generation of observability tools that make complex systems more transparent, reliable and easier to debug. We’re looking for passionate individuals who want to shape the future of distributed systems monitoring.
+See Open Positions
+Backend Software Engineer
+Remote, Europe or Latin America or United States
+Full-time
+Submit an application
+Own the backend behind OllyGarden: our public REST API, webhooks, the pipeline that discovers services and stores insights, and the Postgres schema they share.
+What We’re Looking For
+Senior backend engineering experience, including Go services you shipped to production and kept running
+Strong Postgres skills: schema design, online migrations, indexes, transactions, and row-level security
+Experience with event-driven systems: streams or queues, at-least-once delivery, idempotency, and retries
+Experience designing public APIs that customers build on: authentication, pagination, versioning, and backward compatibility
+A habit of instrumenting what you build, and of using traces, metrics, and logs to debug production
+AI-native development, knowing how software is developed in the companies of the future, coordinating multiple agents and using AI-related engineering skills to get quality work from them. Your main IDE nowadays is Claude Code, Codex, Amp, or Conductor.
+Based in Europe, or Latin America, or USA
+What You’ll Do
+Own our public REST API end to end: new endpoints, versioning and deprecation, latency, and the per-tenant limits that keep one customer from affecting another
+Own our database schema and its migration pipeline: evolve it as features need, review every change, test it in CI against a fresh database, and apply it through automation
+Keep tenant isolation enforced in the database as the schema and the number of services that use it grow
+Keep webhook delivery trustworthy: filtering, retries, idempotency, and a delivery history customers can rely on
+Keep service discovery and insight persistence correct and fast as telemetry volume grows: deduplication, consumer backpressure, and caching
+Run what you build in production: dashboards, alerts, and incident follow-ups for the services you own
+Work with our frontend and Rose engineers on the data and APIs their features need
+Bonus Points
+Experience instrumenting services with OpenTelemetry, or working on observability tooling
+Production experience with NATS JetStream, or similar
+Experience designing and operating multi-tenant PostgreSQL schemas, including row-level security, roles and grants, production migrations, and query performance
+Experience building APIs designed for AI agents
+Experience maintaining an open source project, especially in the OpenTelemetry or Prometheus ecosystems
+Kubernetes on AWS, Flux, or Terraform
+Enthusiasm for sharing your work in public, from blog posts to conference talks
+Read the full role →
+Founding Enterprise Account Executive
+United States
+Build OllyGarden’s first enterprise sales motion, personally source and close technical deals, and turn what works into a repeatable playbook.
+A quantified record of personally sourcing and closing complex B2B infrastructure or developer-tool deals
+Credibility with observability, SRE, platform, and engineering buyers
+Experience building pipeline without depending on a mature SDR, marketing, or RevOps organization
+US-based, with practical access to buyers and relevant observability and infrastructure communities
+Own prospecting, discovery, technical evaluations, proof-of-value conversion, negotiation, procurement, and closing
+Refine our ICP, messaging, qualification criteria, forecasting, and objection handling with the founders
+Build the lightweight systems and operating rhythm that future sellers can reuse
+Hand closed customers cleanly to Customer Success while engineering owns deep technical implementation
+OpenTelemetry® familiarity and an existing network among observability or infrastructure buyers
+Experience working directly with a technical founder
+Don’t see a matching position?
+We’re always interested in connecting with talented people who care about observability, OpenTelemetry, and building better telemetry for engineering teams. If that sounds like you, send us an open application.
+Show Us Your Growth
+Share how you approach projects, how your ideas evolve, and how you decide when something is ready. We want to understand your development process and how you learn over time.
+Share Your Code
+We’d love to see examples of your work, especially projects you’re proud of. Open source contributions, pet projects, or B2B SaaS applications are all relevant.
+Demonstrate Your Tools
+Show us how you use tools, including AI, to improve productivity, quality, and collaboration. We’re interested in how you choose, use, and adapt your workflow.
+Celebrate Achievements
+Tell us about work that made you proud. This is your opportunity to share accomplishments, lessons learned, and the impact you created.
+Express Your Passion
+Share what excites you about observability, OpenTelemetry, software engineering, or technology in general. Your curiosity and motivation matter as much as your skills.
+Present Your Process
+Walk us through how you test, debug, refactor, and maintain code quality. We want to understand how you think through problems and improve your work.
+In Short: Show Us How You Work
+Our interview process is an opportunity to understand how you think, build, learn, and collaborate. We want to see your code, your process, your passion, and the perspective you would bring to OllyGarden.
+Remote-First, Equal Benefits
+Work from wherever you do your best work. Employees and contractors receive exactly the same benefits.
+30 Days of Paid Time Off
+Thirty business days a year on top of your local public holidays, plus your birthday off. We recommend at least five days off every quarter, and sick leave never counts against your PTO.
+Competitive Compensation
+We offer competitive salary and equity options.
+$1,500 Yearly Learning Budget
+Spend it on courses, certifications, workshops, books, or conference tickets. OpenTelemetry training from Telemetry Drops and Dose de Telemetria is covered separately.
+Conference Speaking, Covered
+Get a talk accepted at KubeCon + CloudNativeCon, Open Source Summit, or OTel Community Day, or become an OpenTelemetry approver, and we cover flights, hotel, tickets, and time to prepare.
+$3,000 Home-Office Setup
+Choose the laptop, monitor, desk, and chair that work for you, and use a company card for the tools you want to try.
+Keep your observability backend Send it better telemetry
+Get Started
+You’re Heading to the App
+Create your OllyGarden account over at ollygarden.app. You can get started for free, no credit card needed.
+Continue to the App
+Test Your OTel Knowledge

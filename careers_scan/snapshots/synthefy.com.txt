@@ -1,0 +1,29 @@
+Meet Nori. The open-source model for structured data.
+Build the future of AI
+Join our team of world-class engineers and researchers building foundation models for structured data.
+View open roles Get in touch
+Why join Synthefy
+Current LLMs cannot understand our world's numerical data. We're building the AI that can.
+Founding Team
+From OpenAI, Uber ATG, NVIDIA, Zscaler, Microsoft, Stanford, MIT, UC Berkeley, and UT Austin.
+Frontier
+Foundation models built for structured data — tables, time series, metrics, and context.
+Impact
+Powering telecom, retail, finance, energy, healthcare, and IT operations with accurate forecasting.
+Traction
+Backed by leading investors and serving Fortune 500 companies.
+Our mission is to build the most advanced foundation models for structured data , helping businesses turn complex numerical data into clear, measurable outcomes.
+Open positions
+We're looking for passionate people who value ownership, clear communication, and flat hierarchies.
+2 POSITIONS
+Founding Product Manager
+We're looking for our Founding Product Manager (PM), our first non-technical hire, who will translate ambiguous customer pain points into crisp product bets, drive 0→1 execution, and help define the product category for AI-native time-series.
+Full-time San Francisco Bay Area, CA Product
+Apply
+Founding Machine Learning Engineer
+We're hiring our Founding Machine Learning Engineer (MLE) with expertise in Agent Development and Time-Series Modeling. You'll play a foundational role in building production-grade systems that combine the power of LLM-powered agents with time-series foundation models.
+Full-time San Francisco Bay Area, CA Engineering
+Don't see the right role?
+We're always looking for exceptional talent. Send us your resume.
+Get in Touch
+Equal Opportunity Employer · Synthefy is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

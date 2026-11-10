@@ -1,0 +1,12 @@
+We find flaws in RL environments and evals and help you fix them. As models become more capable, training and evaluating them requires increasingly complex tasks and longer interactions. This creates more opportunities for unexpected behavior and exploits in tasks and graders. We provide the tooling and expertise to understand and prevent these failures.
+Our goal is to end reward hacking. Training can amplify small flaws in an environment as models learn to exploit them. These flaws can also make it difficult to distinguish real capability gains from better exploitation. Correcting them makes training more effective, makes model performance easier to interpret, and is crucial to solving the AI alignment problem.
+If you’re training models with RL, building environments, or running agent evals, and want more confidence in your environments, contact us .
+Blog
+Eval³ 1.1
+Oct 28, 2026
+How good are models at benchmark auditing?
+Introducing Eval³
+Oct 20, 2026
+We found 110 reward hacks and grading bugs in Terminal-Bench, DeepSWE, and BFCL
+Introducing EnvCheck
+Sep 30, 2026

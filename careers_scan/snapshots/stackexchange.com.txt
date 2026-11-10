@@ -1,0 +1,67 @@
+Who we are
+Stack Overflow strives to be the most vital source of technologists, helping them to cultivate community, power learning, and unlock growth.
+Founded in 2008, millions of people come to Stack Overflow’s public platform every month, making it one of the most integral websites in the world with over 83 million questions asked and answered. At work, Stack Overflow Business helps companies of all sizes with Stack Internal , the trusted knowledge intelligence ecosystem for enterprises used by over 20,000 organizations. Stack Data Licensing helps leading AI companies build their products with the trusted foundation of our human-validated, attributed content. Our Stack Ads product helps companies build their brand and reach the world’s largest technical audience.
+Joining Stack Overflow means helping all levels of tech enthusiasts in life and at work, as well as getting the chance to work with a smart, talented, and collaborative team.
+We believe that diverse experience contributes to a broader collective perspective that will consistently lead to better products. Every person we hire makes Stack Overflow a better place to work. Join us.
+Our mission
+Cultivate community.
+Power learning.
+Unlock growth.
+git commit to your Next Move!
+When we look for engineers here at Stack Overflow, we want to get to know the story behind the developer. That’s why we’ve built Dev Story - a way for developers to capture what it is we think is important when hiring for tech talent. From Open Source contributions to top answers on our network, from your first website all the way up to your most recently shipped feature, Dev Story is our way of helping the community stand out from the crowd, and put your story back into your hands.
+Build your Dev Story
+Current openings
+Show all open positions
+No jobs found.
+Stack Overflow does not discriminate in employment matters on the basis of race, color, religion, gender, national origin, age, military service eligibility, veteran status, sexual orientation, marital status, disability, or any other protected class. We support workplace diversity.
+Read our Applicant and Candidate Privacy Notice
+Our commitment to diversity, equity and inclusion
+Stack Overflow is committed to a diverse, inclusive, and equitable workplace where all employees feel valued and respected.
+Read our Human Rights Statement
+Employee Resource Groups (ERGs)
+We have ERGs that range from Black & Brown to LGBTQ+ to a group focused on neurodiversity. Groups meet regularly, plan company-wide programming, and give feedback to leadership.
+Recruiting & retention
+We seek people from a diversity of backgrounds and experiences, particularly from those that are underrepresented at Stack Overflow and our hiring policies and practices reflect this.
+Advancement opportunities
+We promote from within the organization often, and we invest in professional development and coaching to ensure all employees are well-positioned to meet and exceed their goals.
+Giving back
+We prioritize inclusion on our public platforms through numerous initiatives, and we partner with and support organizations working towards racial equity.
+Our core values
+Adopt a customer-first mindset
+Authentically serve our customers by empowering, listening, and collaborating with our fellow Stackers.
+Be flexible and inclusive
+We do our best work when a diverse group of people collaborate in an environment of respect and trust. Create space for different voices to be heard, and allow flexibility in how people work.
+Be transparent
+Communicate openly and honestly, both inside and outside the company. Encourage transparency from others by being empathetic, reliable, and acting with integrity.
+Empower people to deliver outstanding results
+Give people space to get their job done, support them when they need it, and practice blameless accountability.
+Keep community at our center
+Community is at the heart of everything we do. Nurture healthy communities where everyone is encouraged to learn and give back.
+Learn, share, grow
+Adopt a Growth Mindset. Be curious and eager to learn. Aim for ethical, sustainable, long-term growth, both personally and in the company.
+Benefits & perks
+Focus on well-being
+We provide full health coverage for you and your family. That means that Stack Overflow pays 100% of your premiums. Additionally, we provide supplemental benefits such as telemedicine options.
+Out of state care
+We will reimburse up to $5,000 annually for the participant undergoing treatment or a procedure considered unlawful within their home state, plus a companion.
+Work remotely from one of our hiring hubs
+We’ve had a remote culture here since we started, and today 100% of our Stackers work remotely from their homes in our hiring hubs of the US, Canada, UK and Germany.
+Work how you want
+While we’re fully remote, we’re supporting all employees with home office reimbursements and internet stipends. We also encourage employees to set their working hours on their calendar and in Slack to encourage flexibility.
+Take care of loved ones
+We offer paid parental leave, a meal stipend, and the primary caregiver has the option to come back to work part time for up to one year. We also have a special caregiver policy due to the pandemic.
+Stack Gives Back
+We care deeply for our employees and provide paid time off to encourage their voluntary involvement in and support of programs that positively impact the quality of life within the communities in which we live.
+And much more such as Summer Fridays, a Calm subscription, and others!
+Our knowledge, shared
+Visit the blog Visit resource center
+October 28, 2026
+A JSON schema Is not an AI governance layer
+The AI governance argument is happening one layer above the code that actually stops your agent.
+Read article
+October 21, 2026
+Survey Says: You'll swap the model, but everything you build around it is staying put
+Earlier this month, my team at Stacklok surveyed 520 technical leaders to understand whether they were concerned about being locked into frontier labs. The data says they’re already swapping models in and out, but the trap they’re concerned about is the layer on top of the model.
+October 19, 2026
+Production-grade LLMs and agents: a field guide
+A maturity model for taking agents from an impressive demo to a system people can depend on — with a self-assessment and the map to a deep-dive on each layer.

@@ -1,0 +1,50 @@
+A job post is a company telling you what it needs.
+When a company hires an SDR, a Head of PR or a controller, it has a budget and a problem right now. PumpGTM finds companies with live job posts for the roles your product helps, finds the person who owns the hire, and reaches them on LinkedIn and email while the role is still open.
+Find your buyers
+Updated October 2026
+What we hear on setup calls
+Our outreach doesn't line up with when they actually need us.
+We want people deciding on a provider, not people we have to convince.
+Standard filters can't find our buyer.
+Trusted by the top startups in SF
+$57M raised
+Mastra $35M raised
+Adapt $10M raised
+Supermemory Backed by Solo Founders Program Open case study
+Y Combinator Winter 2021
+Y Combinator Summer 2020
+Windmill Y Combinator Summer 2022
+Y Combinator Spring 2026 Open case study
+Y Combinator Winter 2024
+Workers.io Y Combinator Fall 2026 Open case study
+Docura Health Y Combinator Winter 2026
+Moonshot Backed by Y Combinator
+ByteAsk Y Combinator Fall 2026
+Orchestrator 12k stars on GitHub
+Browzer #2 Product of the Day Open case study
+Hank Open case study
+“ The same day I connected PumpGTM to LinkedIn, I set up a Play for some new personas we wanted to reach, and I got a meeting with a COO for the next day . It's been a huge game changer for us, and a great read on how our message is landing with the market. ”
+Rachel Taylor
+GTM, Adapt
+$10M raised
+Three steps, then you read the replies.
+Pick the roles
+The jobs that mean they need you: SDRs for a sales tool, a Head of PR for a PR agency, accountants for a staffing firm.
+Set how fresh
+Job posts from the last 7, 30 or 90 days, plus the company size and location you sell to.
+Reach the owner of the hire
+PumpGTM finds the manager, writes a note that mentions the role, and follows up until they answer.
+Questions before you start.
+The short answers, before you connect anything.
+Where does the hiring data come from?
+Live public job posts. You can also pull the same signal into your own tools through the Signals API.
+Who does it contact, the recruiter or the manager?
+Whoever you choose. Most teams pick the manager the role reports to, since they own the problem.
+Will it get my LinkedIn account flagged?
+PumpGTM sends from your own account at a human pace, inside working hours and well under LinkedIn's weekly limits. You approve the people and the messages before anything goes out.
+Which channels does it send on?
+LinkedIn, email and X, from accounts you connect yourself. One lead list sits behind every channel, so nobody gets contacted twice, and follow-ups stop the moment someone replies.
+Keep reading
+Signals API Recruiting & staffing Agencies Switch from HeyReach or Dripify Competitor post engagers Customers like your best ones
+See who you'd reach this week.
+Paste your website. PumpGTM shows you the buyers and the first messages before anything is sent.

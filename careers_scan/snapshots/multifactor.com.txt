@@ -1,0 +1,57 @@
+Let's build the future of zero-trust identity security
+Multifactor is a public benefit company on a mission to redefine zero-trust for the modern web. Learn more about our world-class research team, or reach out to explore working together.
+Explore Roles Contact Us
+Our Values
+Our public benefit mission is central to everything we do. We are committed to building a team that shares our values and is passionate about our mission.
+Curious
+We're scientists at heart. We love exploring new ideas, pursuing challenging problems, and pushing the boundaries of what's possible. We believe that great products begin with great technology, and we're committed to building a team that is offered the freedom to explore and innovate in areas that excite them.
+Mission-Driven
+Our mission is to redefine “zero-trust” through innovative applied post-quantum cryptography research. We believe our technology has the potential to massively improve the general security and privacy posture of the modern web. As a public benefit company, this mission drives us to pursue excellence in everything we do.
+Transparent
+We're strong believers in open-source software. We don't believe in security through obscurity, but instead prioritize clear and open communication about our capabilities. Most importantly, we hold ourselves accountable when we make mistakes, and we do everything we can to learn from them.
+Our Hiring Process
+Our hiring process is designed to be transparent, fair, low-stress, and efficient. We want to ensure that you have a positive experience, whether or not you are selected for the role. We value your time and aim to provide timely feedback to all candidates throughout the process.
+Apply
+Screen
+Call
+Panel
+Offer
+Join
+Meeting the Team
+We've designed our hiring process so that you have the opportunity to meet with the team members that you will work directly with, including your prospective manager, peers, and other stakeholders.
+About the Interview
+We don't believe in trick questions or brain teasers. Our interviews are designed to be a low-pressure conversation about your experience, skills, interests, and how you can contribute to our mission.
+Our Perks
+We value our team members and aim to empower them to do their best work every day. Our perks are designed to make sure our team feels happy, healthy and fulfilled inside and outside of work.
+Competitive Compensation
+We offer a very competitive total package, where every employee is a major owner of our stock and shares in our success.
+Unlimited PTO
+Employees are trusted to take Paid Time Off (PTO) for personal and/or sick leave whenever required and without prescribed limits.
+Wellbeing Perks
+Employees are encouraged to pursue a healthy work-life balance, and can be reimbursed for reasonable health expenses.
+Professional Development
+Employees are encouraged to pursue self-improvement, and can be reimbursed for professional development expenses.
+Commuter Benefits
+In-person employees can be reimbursed for transportation costs, and pay for other qualified expenses with pre-tax money.
+Retirement Savings
+We offer employer-sponsored retirement accounts to help employees save for retirement in a tax-advantaged setting.
+News
+View All
+Two Ways to Share an Account
+2026-10-07
+Products Design
+Maya asks to use your Netflix at 11:02 PM. Text her the password and you end up signed out of your own account. Send a Multifactor link and she’s in without ever seeing it.
+James Burns
+Design Engineer
+Introducing Multifactor Lite: Share Online Accounts by Sending a Link
+2026-10-01
+Products Authorization Auditing
+In our second Lock-In Week we cut Multifactor down to the one thing we care about most: sharing an online account by sending a link, with permissions you choose, a live log of every action, and instant revocation. Try it today.
+Vivek Nair
+Founder & CEO
+Introducing Notary: Proving What Code a Cloudflare Worker Is Running
+2026-09-30
+Research Auditing Notary
+Cloudflare Workers are fast and scale on their own, but nothing lets a third party check what code a Worker is running. Notary pairs a Worker with TEEs so anyone can cryptographically verify the code that is live on a domain.
+Dave Blumenfeld
+Founding Engineer

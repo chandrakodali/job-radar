@@ -1,0 +1,24 @@
+Careers / Build with us REAL-WORLD AI. REAL-WORLD IMPACT.
+Build what
+comes next.
+We're a small team solving a hard problem. If you want to work on real-world AI that impacts lives and makes our communities safer, we want to hear from you.
+Explore open roles
+THE WORLD IS OUR TEST ENVIRONMENT. ILLUSTRATIVE SITE IMAGERY
+01 / The mission ENGINEERING THAT MATTERS.
+Intelligence.
+Out in the world.
+Verdun is an early-stage startup building the agentic monitoring layer for physical security. The system reviews clips and event windows, classifies the threat, triggers deterrence and notification, and escalates only ambiguous and high-stakes cases to a human operators.
+The challenge is making the system honest on messy real-world footage: night / IR, low light, motion blur, compression, occlusion, weather, and site-specific edge cases.
+Verdun was founded by an experienced team comprising of Sonny Tai (prev: CEO @ Actuate, $23M raised) and Tung Hoang (prev: Employee #2 @ Actuate, Senior AI Engineer @ LinkedIn, National Math Olympiad Gold Medalist).
+02 / Open roles 02 OPPORTUNITIES
+Your next
+hard problem.
+Work closely with the founders.
+Own a meaningful part of the system.
+Applied AI / Evals Engineer
+Own the evaluation harness that keeps our autonomy honest on messy real-world footage - where eval quality matters as much as model quality.
+Remote / Hybrid (US), possible relocation to Los Angeles as we scale Full-time Base + equity
+View role
+Staff / Senior ML & CV Engineer - Grounding, Distillation
+Build the detection, tracking, and VLM models that ground higher-level reasoning - and distill them so the system stays accurate and cheap at scale.
+Remote / Hybrid (US) Full-time Base + equity

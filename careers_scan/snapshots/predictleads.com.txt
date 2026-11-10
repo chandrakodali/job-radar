@@ -1,0 +1,56 @@
+Loading...
+Great, let's set up a demo!
+We'd Love to Hear from You
+Job Openings Data via API, Flat Files, Webhooks, and MCP
+Job Openings Dataset
+Information about job openings sourced directly from company websites for highest accuracy and freshness. Access historical data since 2016 with over 300 million records with full global coverage.
+Each job opening is refreshed once every 36 hours for highest accuracy. The dataset includes an average of 9.8 million active jobs at any given time, with historical data dating back to 2016. All job openings are categorized using industry-standard O*NET codes for accurate classification.
+The dataset includes detailed information such as job title, URL, location, category, seniority level, full job description, salary information, contract type, O*NET job category codes and more. Each record tracks when a job was first seen and last seen, providing valuable insights into hiring trends and patterns.
+Job openings data is continuously updated and verified, ensuring you have access to the most current and accurate information. With coverage of over 3 million companies, you can track hiring activity across industries, locations, and job categories to identify growth signals and market trends.
+Whether you're analyzing hiring patterns, identifying expansion opportunities, or tracking competitive intelligence, our job openings dataset provides the reliable, detailed data you need to make informed decisions.
+Historical records
+300M+
+Companies covered
+3M+
+Active jobs
+9.8M+
+Data since
+2016
+Use cases
+Job openings dataset enables a wide range of business intelligence and market research applications.
+Agents
+Provide agents with job descriptions from companies. Descriptions include lots of key future priorities and company strategic goals.
+Competitive intelligence
+Monitor competitor hiring activity to understand their expansion plans and priorities.
+Market research
+Analyze job market trends by location, industry, and job category over time. Create trendlines and detects market shifts.
+Expansion planning
+Identify companies expanding into new markets or regions based on job posting location data.
+Sales Enablement
+Companies hiring have the buy power. Add filters by companies hiring for specific categories or number of positions. Enable full text search on top of job descriptions.
+Investment research
+Use hiring data as a leading indicator of company growth and investment opportunities.
+Sales triggers
+Get notified as soon as companies of interest start hiring. Enable webhooks for real time updates.
+Industry analysis
+Understand skill demand and job market dynamics across different sectors.
+Dataset features
+Rich job openings data with detailed information to help you track hiring trends, identify growth signals, and make data-driven decisions.
+Direct sourcing.
+Job openings are sourced directly from company websites, career pages, and ATS integrations for highest accuracy.
+O*NET classification.
+All jobs are categorized using industry-standard O*NET codes for accurate and consistent classification.
+Rich metadata.
+Each record includes title, location, salary, seniority, description, contract type, and timestamps.
+MCP Ready.
+Access job openings data seamlessly via our MCP API. Enable AI agents to retrieve job posting information and integrate hiring intelligence directly into your AI workflows.
+Continuous updates.
+Data is continuously updated and verified to ensure you have access to the most current information.
+Historical tracking.
+Track when jobs were first seen and last seen to identify hiring trends and patterns over time.
+We have benchmarked jobs data against TONS of providers and consistently PredictLeads has the best coverage, the best infrastructure, and the most up to date information. It's part of our secret sauce here at Blueprint, but it's so good I had to talk about it.
+Jordan Crawford
+GTM Engineer, Blueprint
+Ready to explore Job Openings?
+Get started now for free
+View API docs

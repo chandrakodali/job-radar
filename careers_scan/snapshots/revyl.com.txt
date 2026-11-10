@@ -1,0 +1,56 @@
+Build the systems that let AI operate software.
+Join the founding team building AI agents, device infrastructure, and the reliability platform for iOS, Android, and web.
+Apply now Meet Revyl ↗
+runtime.capture
+Code is becoming abundant. The constraint is shifting from producing software to
+understanding, operating, and trusting it.
+Revyl is building the runtime for that next loop, where people and agents build real
+apps and verify every change with evidence.
+We’re a small San Francisco team. We built DragonCrawl at Uber AI and are backed by
+Felicis, General Catalyst, and Y Combinator. Come build with us.
+We’re hiring now.
+Open · August 2026
+Staff Infrastructure Engineer — Device Cloud
+Own the technical strategy and systems that scale the device cloud and distributed compute platform behind Revyl.
+Software Engineer
+Build the AI agent loop, device infrastructure, workflow orchestration, and product surfaces of the platform.
+Engineering Intern
+Ship production work across agent systems, mobile infrastructure, and product with high ownership alongside the founders.
+GTM Intern
+Create content, talk to customers, and ship projects that grow the business alongside the founders.
+The team we’re building.
+Start with the customer
+Technical judgment begins with the user’s problem. Elegance matters when it produces a meaningfully better outcome.
+Own ambiguous problems
+You make decisions with incomplete information, communicate the tradeoffs, and carry the work from idea to production.
+Work across the system
+The best answer may cross agents, infrastructure, mobile runtimes, developer tooling, telemetry, and product experience.
+Experience that stands out
+Useful context, not a checklist.
+Each of these can help you reach the hard parts faster. None is required in combination.
+Swift, Kotlin, or Flutter
+Mobile testing or device automation
+OpenTelemetry or distributed tracing
+Workflow orchestration
+CLI or developer tooling
+Probably not a fit if
+You want the edges defined for you.
+You want work broken into well-scoped tickets.
+You are uncomfortable making architectural decisions before every variable is known.
+You prefer staying inside one narrow layer instead of following a problem across the stack.
+Problems worth owning.
+The AI agent loop
+Make capture, grounding, execution, and reflection reliable as agents observe screens and operate real applications.
+Coordinate test execution across distributed pools of devices, services, queues, retries, and long-running workflows.
+Mobile device infrastructure
+Build the systems behind Android emulators, iOS simulators, real devices, streaming, automation, and isolation.
+The developer loop
+Connect local development to cloud verification through the CLI, build uploads, live sessions, and CI integrations.
+Observable executions
+Use OpenTelemetry, trace correlation, and purpose-built debugging tools to explain what happened across the system.
+Real-time product surfaces
+Shape WebSocket streaming, live device views, graph-based test visualization, and the web, CLI, and CI experience.
+We’d love to hear how you think.
+What do you think the future of software development looks like, and what are most people missing about it?
+Tell us which role interests you, share your answer, and include links to work you are proud of.
+Apply now

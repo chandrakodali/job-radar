@@ -1,0 +1,28 @@
+Careers
+Join us in building the future of healthcare revenue cycle management. We're a small, fast-moving team obsessed with using AI to solve real problems for providers.
+Founding Software Engineer
+San Francisco, CA · Full-time
+Apply Now
+About the Role
+As a founding engineer, you'll have an outsized impact on our product, architecture, and culture. You'll work directly with the founders to build AI-native tools that automate medical billing workflows, from claim scrubbing to payer communications.
+What You'll Do
+Design and build full-stack features across our web platform
+Develop AI/ML pipelines for claim processing and policy analysis
+Integrate with EHRs, clearinghouses, and payer systems
+Shape technical decisions and engineering culture from day one
+What We're Looking For
+Strong full-stack experience (we use TypeScript, Svelte, and Python)
+Comfort with ambiguity and a bias toward shipping
+Interest in healthcare, fintech, or complex domain problems
+Experience with LLMs and AI tooling is a plus
+Why Join
+Founding equity in a company tackling a $16B+ market
+Work alongside experienced operators in healthcare and AI
+Competitive salary, health benefits, and flexible work
+To apply, email info@quillbills.com with your resume and a brief note about why you're interested.
+Inpatient Billing
+Claim Scrubbing
+AI Phone Calling
+Billing Services
+Pricing
+125 Stevenson St, San Francisco, CA 94103

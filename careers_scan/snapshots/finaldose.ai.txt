@@ -1,0 +1,21 @@
+REQ- 01 / Reports to Head of Biology / London / On-site Open
+Biology — Delivery
+FinalDose's platform requires delivery solutions tailored to each therapeutic indication. You will lead delivery engineering across multiple administration routes, optimizing lipid nanoparticle formulations for tissue-specific targeting and therapeutic efficacy. Your work will bridge in vitro formulation development with in vivo validation and ultimately support technology transfer for GMP manufacturing. This is a critical role linking our construct engineering with clinical-stage drug products.
+Responsibilities
+Lead LNP delivery engineering across multiple administration routes, including local, systemic, and inhaled formulations
+Develop and optimize LNP formulations with full physicochemical characterization (DLS, encapsulation efficiency, zeta potential)
+Perform in vitro delivery optimization and hand off validated formulations to the in vivo team for animal studies
+Support CMO/CDMO selection and technology transfer for GMP-grade manufacturing
+Collaborate with biology teams to evaluate delivery efficiency using functional readouts (editing efficiency, reporter assays) in cell lines and primary cells
+Required
+Ph.D. in pharmaceutical sciences, drug delivery, biomedical engineering, or chemical engineering
+3–5+ years of hands-on experience with lipid nanoparticle formulation
+Demonstrated expertise in at least two of the following: mRNA-LNP encapsulation and delivery, tissue-targeted delivery (SORT technology or ionizable lipid screening), inhaled or pulmonary drug delivery
+Experience with microfluidic mixing and formulation scale-up
+In vitro delivery characterization in cell lines and primary cells
+Preferred
+Experience with intravesical or local drug delivery
+CMC or technology transfer experience with a CDMO
+Air-liquid interface (ALI) culture and aerosol delivery expertise
+Awareness of GMP manufacturing processes and requirements
+Apply founders@finaldose.ai

@@ -1,0 +1,39 @@
+Join the Enalean team
+Tuleap helps you launch your Scrum, Kanban, or hybrid projects at your own pace, while maintaining control, traceability, and visibility.
+Join us
+#134009
+US-002-001: System Error Detection
+#134010
+US-002-002: Programmed Error Responses
+Pourquoi nous rejoindre ?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ut semper diam. Cras malesuada auctor neque in ultrices. In tristique ac est a porttitor.
+Chapo
+Lorem ipsum
+Aenean orci elit, porta at auctor eu, laoreet at quam. Nulla rutrum imperdiet ultricies. Cras aliquam tortor ut lorem euismod, sit amet dignissim eros ultrices.
+Philosophie de travail
+Nous sommes Enalean, l’éditeur français de Tuleap. Notre mission est simple : aider vos équipes à développer, suivre et valider des logiciels critiques en gardant la maîtrise de vos outils, de vos données et de vos processus.
+Open source, souveraine, flexible : Tuleap évolue avec vous et vos exigences.
+Aenean orci elit, porta at auctor eu, laoreet at quam. Nulla rutrum imperdiet ultricies. Cras aliquam tortor ut lorem euismod.
+Pas de vendor lock-in.
+Lorem ipsum dolor sit amet
+Proin vel neque eros.
+Nos offres
+Aucun article
+Quelques témoignages salariés
+We have three versions of Tuleap: one installed OnPrem on a Linux server, another installed OnPrem as a containerized version, and a Cloud version hosted by Tuleap. The SaaS cloud version is obviously the simplest solution to connect to. The OnPrem versions require more DevOps and Linux admin expertise for the initial installation and updates.
+Anonymous – Project manager in an Administration
+Tuleap has been deployed in our company since 2012, and over the years, it has consistently delivered updates to improve both performance and graphical design.
+Project Manager in an automotive company (1000+ employees)
+I primarily use the Tracker tool. It is extremely flexible, powerful, and perfectly meets our needs. Today, hundreds of users across our company rely on it daily. The administration is highly configurable, giving us great autonomy to tailor the tool to our internal processes.
+Discover our latest posts
+Articles and insights to help you understand your challenges and strengthen your practices.
+All posts
+Project management
+Issue Tracking: from bug report to code with Tuleap
+An issue is more than just an “Open” or “Closed” status. Behind (...)
+Read more
+Agile transformation , Project management
+25 years of agile: why agility still matters
+In 2001, 17 software professionals gathered in Snowbird and created the Agile (...)
+Tuleap at Agile en Seine & AI 2026
+On September 22 and 23, 2026, Tuleap will be attending Agile en (...)

@@ -1,0 +1,11 @@
+Careers
+Build software that analyzes company data
+Snowstone reads financial and operating data, tests set questions, and ranks what it finds. Engineers and designers work on applied AI, data systems, and the screens clients use to review findings.
+careers@snowstone.ai
+Snowstone has no posted vacancies. Send an introduction to careers@snowstone.ai .
+Take a product problem through release
+Build and release changes to how Snowstone analyzes company data.
+Build analysis people can check
+Build reliable analysis with sources and calculations that users can inspect.
+Work in small teams
+Work in a small team on data systems and how clients review findings.

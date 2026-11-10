@@ -1,0 +1,429 @@
+Real-time LabOps infrastructure for regulated labs
+Turn lab signals into audit-ready operating evidence
+iLabService connects environmental conditions, equipment state, sample risk, people response,
+and compliance requirements so teams can see risk earlier, act faster, and defend every
+operating decision with traceable records.
+Book a 30-minute demo
+Explore solutions
+24/7 monitoring and response context
+Traceable workflows for QA, EHS, and LabOps
+Evidence aligned with audit and validation review
+lab scenarios connected into one operating record system
+software modules that can be deployed step by step
+ALCOA+
+record design for attributable, reviewable evidence
+Equipment command center
+Assets, rooms, utilities, alarms, bookings, and service records in one view.
+Capture physical state
+Normalize at the edge
+Govern daily operations
+Produce audit-ready evidence
+Deployment footprint
+200+ enterprise deployments
+Active across pharma, biotech, CRO/CDMO, testing labs, and lab infrastructure teams.
+Connected scale
+20,000+ connected devices
+Environmental, equipment, inventory, space, gas, and edge signals linked into LabOps context.
+White-label proof
+Thermo Fisher LabServ white-label proof
+Evidence that the platform can support enterprise-grade laboratory service models.
+Review design
+ALCOA+ evidence design
+Records are structured around attribution, contemporaneous capture, reviewability, and endurance.
+Find your path
+Start with the role closest to your daily pressure
+Lab Manager
+Control risk, CAPEX utilization, OPEX spend, and operating evidence from one LabOps view.
+View lab manager path
+QA / Compliance
+Evaluate audit trails, ALCOA+ readiness, validation evidence, and review workflows.
+Review QA path
+EHS
+Connect gas, oxygen safety, waste, incident, and near-miss evidence to response ownership.
+Review EHS path
+PI / Scientists
+Trace physical conditions during experiment windows, failed runs, and reproducibility review.
+Explore PI / Scientists path
+Role-led overview
+See what iLabService changes for every role around the lab
+Follow the value paths for Lab Managers, QA / Compliance, EHS teams, PI / Scientists, and Partners, then choose the scenario closest to your daily pressure.
+Watch on YouTube
+Browse the Scenario Library
+For ecosystem and channel partners
+Take audit-ready LabOps infrastructure into more regulated labs
+Build joint solutions with iLabService across equipment, LIMS and ELN, validation, integration, regional distribution, and lab automation.
+Joint go-to-market
+OEM and white-label paths
+Reusable deployment scenarios
+Explore the partner program
+Start a partner conversation
+The 168-hour problem
+A lab is staffed for about 50 hours. The other 118 hours still count
+See how connected signals, response ownership, and review-ready evidence keep overnight and weekend events from becoming Monday-morning reconstruction work.
+Explore the 168-hour lab
+Weekly coverage map
+168h Weekly operating time
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+50h Staffed checks
+118h Unattended exposure
+Product proof
+See a live LabOps dashboard
+Review a demo environment with live operational views for connected lab monitoring and LabOps context. Access opens inside this website after a short work-email request.
+Review security, validation, and integration
+See how lab operating records become operational evidence
+The missing operating record
+Why existing systems still miss critical signals
+Lab operations happen in rooms, freezers, cabinets, instruments, gas systems, and human
+workflows. When existing systems cannot connect those signals to the work, teams manage
+risk with partial evidence.
+Core problem
+No shared operating record connects lab conditions, actions, and outcomes
+The evidence may exist in devices, rooms, people, logs, and screenshots, but it is rarely
+captured as structured, time-aligned, audit-ready operating records.
+Hidden disturbances
+Drift, door, gas, power, and equipment changes appear before existing records connect the pattern.
+Fragmented evidence
+Logs, alarms, screenshots, LIMS records, and chat history are scattered during review.
+Manual response loops
+Existing workflows still rely on checks, calls, spreadsheets, supplier updates, and memory.
+Disconnected root-cause evidence
+Failed-run records often lack the physical conditions, operator actions, and timing needed for root-cause review.
+Audit burden
+Evidence is rebuilt after the fact instead of produced continuously by the operation.
+Review gaps
+Teams see final records without the conditions, actions, and timing behind quality and reproducibility.
+Why iLabService matters
+An AIoT (AI-powered IoT) lab operations platform closes this gap by capturing trusted signals,
+linking them to lab entities and workflows, and turning daily operations into reviewable evidence.
+During those 118 hours, iLabService continues recording every door opening, every temperature
+drift, and every gas reading.
+118h
+outside normal lab coverage every week
+Mon-Sun · 24h/day
+24/7 Operating record capture
+Fri 23:58
+Door activity and freezer recovery trend remain attached to the event.
+Sat 02:14
+Temperature threshold breach creates a Guardian evidence record.
+Click to view packet
+Sun 22:41
+Gas and oxygen readings continue to be logged for EHS review.
+Built for regulated evidence
+Designed to support the records lab managers are asked to defend
+iLabService should not ask teams to trust another black box. The system is designed around traceable
+records, controlled workflows, electronic review, and audit-ready evidence that regulated labs can
+align with their own SOPs and validation requirements.
+GxP / GMP
+Continuous operating evidence
+Temperature checks, excursions, response tasks, equipment events, and corrective actions are captured as structured records instead of paper fragments.
+21 CFR Part 11
+Electronic record readiness
+Support controlled access, audit trails, and electronic review and approval workflows that customers can validate against their regulated electronic-record requirements.
+IQ / OQ / PQ
+Validation package support
+Provide deployment documentation, test evidence, and configuration records that customer QA teams can use in their validation programs.
+Data integrity principles
+Design records around attributable actions, legible histories, contemporaneous capture, original source context, and accurate review trails.
+ISO/IEC 17025
+Testing and calibration context
+Connect equipment status, calibration evidence, environmental conditions, operator actions, and sample handling context for reliable lab operations.
+Deviation / OOS
+Faster investigation packages
+Create investigation packages around a result, sample, room, instrument, or material without relying on screenshots, chat history, or memory.
+View compliance evaluation
+Selected customers and ecosystem partners
+Trusted across pharma, biotech, testing, equipment, and lab infrastructure teams
+This mix includes customer relationships in pharma, biotech, testing, and research, alongside
+ecosystem organizations that understand regulated samples, instruments, facilities, quality systems,
+and audit pressure.
+Pharma and biotech Sample integrity, regulated workflows, and research operations.
+Testing and certification Evidence quality, traceability, and operational assurance.
+Equipment and infrastructure Devices, facilities, and lab ecosystem integration.
+200+
+enterprise deployments
+10,000+
+users touched by lab operations workflows
+20,000+
+IoT devices deployed globally
+OEM proof
+iLabService provided freezer monitoring white-label service for Thermo Fisher Scientific's LabServ sub-brand.
+Anonymous beverage case
+Reference standards inventory control for a global beverage QA center
+A regulated beverage quality lab used iLabService Inventory to manage 3,000+ reference standards with
+RFID lifecycle tracking, on-site label printing, PDA stocktaking, MSDS matching, weighing scale
+integration, alerts, and audit trail records.
+Inventory lifecycle control for 3,000+ reference standards with RFID identity and audit-ready custody records.
+Automated MSDS matching, on-site label printing, PDA stocktaking, and external weighing-scale integration.
+Alert rules, biometric accountability, and dashboard analytics for controlled QA storage and handling workflows.
+50% less manual inventory work
+200% higher stocktaking efficiency
+30% lower annual procurement cost
+100% audit trail coverage
+Anonymous pharma case
+All-in-one LabOps platform for a global pharma R&D center
+A multinational pharma R&D organization connected Guardian monitoring, equipment lifecycle
+management, chemical inventory, dashboards, and an interactive live lab view to support GLP,
+global EHS, PI and scientist efficiency, and greener lab operations.
+100+ sensors across environments, freezers, LN2 tanks, and incubators.
+Lifecycle management, sharing, and booking for 400+ instruments.
+Lifecycle control for 1,000+ chemicals with analytics and stocktaking workflows.
+50% lower LabOps staffing burden
+15% less lab power consumption
+25% higher equipment utilization
+500% higher stocktaking efficiency
+20% lower annual LabOps cost
+EHS innovation award recognition
+Anonymous pharma incubator case
+Self-service LabOps platform for a pharma campus and incubator
+A life science campus used iLabService to run shared laboratories with lean staffing, giving
+tenant startups self-service access to instruments, cold storage, chemical storage, training,
+work orders, and usage records while keeping hazardous material governance auditable.
+Guardian monitoring for environments, freezers, LN2 tanks, incubators, and smart video context.
+Equipment sharing, booking, usage tracking, training, and test workflows for tenant teams.
+Inventory control for chemicals, consumables, bio-samples, and hazardous waste records.
+120k+ sqm lab campus managed
+20+ tenant startups supported
+5 LabOps staff for daily operations
+100% hazardous chemical compliance coverage
+Anonymous CRO case
+Equipment lifecycle and Guardian monitoring for a CRO operation
+A contract research organization replaced fragmented equipment systems with one LabOps
+operating layer for asset lifecycle management, work orders, financial allocation, dashboards,
+automated inspections, and risk alerts across research supply-chain and logistics workflows.
+Guardian monitoring for environments, freezers, LN2 tanks, and smart video across 200+ monitored points.
+Equipment lifecycle management, sharing, booking, cost allocation, and period checks for 150,000+ assets.
+System consolidation to replace or integrate 10 existing third-party management systems.
+90% higher equipment stocktaking efficiency
+25% faster average work-order response
+15% fewer equipment failures
+30% lower equipment maintenance cost
+100% period checks completed on time
+2,000+ daily user logins supported
+Anonymous CDMO case
+EMS monitoring and compliance validation for a bio-CDMO testing center
+A bio-CDMO and biosafety testing center used iLabService to deploy an EMS layer for clean-room
+and equipment monitoring, supporting GxP, CNAS, IND/BLA submission readiness, electronic
+records, real-time alerting, and full CSV delivery for regulated laboratory operations.
+Guardian monitoring for temperature, humidity, pressure differential, airflow, CO2, gas concentration, incubators, freezers, LN2 tanks, and workstations.
+Continuous data capture, electronic records, traceable audit history, and 21 CFR Part 11-aligned system processing.
+Compliance services covering risk assessment, solution design, installation testing, system validation, training, and calibration support.
+14 sensor types covering critical lab assets
+24/7 continuous monitoring and data capture
+CSV compliance validation package delivered
+GxP regulated lab evidence supported
+Anonymous chemical case
+Connected R&D operations for a global chemical innovation team
+A chemical R&D organization used iLabService to replace manual research workflows and data
+silos with connected experiment context, instrument visibility, raw-material inventory,
+automated reporting, and integrated records across LIMS, ELN, ERP, and lab operating systems.
+Guardian monitoring for environmental conditions and experiment-process context records.
+Equipment and Inventory visibility for research instruments, raw materials, formulas, tasks, and costs.
+Customized LabOps modules and system integration to improve data completeness, traceability, and analytics.
+15% higher R&D productivity
+20% shorter product development cycle
+100% R&D data completeness target reached
+20% lower product development cost
+20+ labs connected in first expansion wave
+Global multi-region rollout continuing
+Anonymous testing lab case
+Shared equipment and chemical governance for a third-party testing lab
+A third-party testing organization used iLabService to connect shared instrument booking,
+utilization analytics, chemical and consumable lifecycle control, safety monitoring, and
+operating dashboards across busy laboratory teams.
+Guardian monitoring for 50+ freezers, incubators, water baths, and safety-sensitive lab assets.
+Equipment lifecycle management, utilization tracking, internal sharing, and cross-team booking for 200+ instruments.
+Inventory lifecycle control for 1,000+ chemical, hazardous chemical, and consumable SKUs with dashboard analytics.
+25% higher instrument utilization
+500% higher chemical stocktaking efficiency
+10% lower lab energy consumption
+5 safety incidents prevented
+200+ shared instruments governed
+ROI equipment return analysis enabled
+Anonymous CDC case
+Digital lab operations center for a public health CDC facility
+A public health laboratory center used iLabService to connect compliant data capture,
+multi-parameter environmental monitoring, chemical inventory governance, large-screen
+operations visibility, and BIM/AR-enabled spatial context across a newly modernized facility.
+Guardian monitoring for 300+ environmental, airflow, pressure differential, freezer, and incubator points.
+Inventory lifecycle control for 1,500+ chemical SKUs with auditable records and traceability.
+On-premises deployment, dashboard analytics, BIM/AR visualization, and standard APIs into internal workflow systems.
+50% higher compliant data-capture efficiency
+7 floors of lab status visualized
+100+ labs shown in real time
+300+ monitored physical points
+1,500+ chemical SKUs governed
+API internal workflow integration enabled
+Anonymous drug testing case
+Validated monitoring layer for a drug testing laboratory network
+A drug testing organization used iLabService to modernize laboratory operations
+across multiple sites, replacing manual checks with compliant monitoring data, mobile access,
+large-screen visibility, validation support, and a private deployment ready for OA integration.
+Guardian monitoring for 800+ environmental, freezer, incubator, and controlled-room points.
+Dashboard analytics and automated reporting across laboratories in different geographic locations.
+3Q validation support, private deployment, mobile access, and standard APIs for internal systems.
+50+ labs connected across two sites
+60% higher compliant monitoring efficiency
+800+ monitored physical points
+100+ labs visible on real-time screens
+3Q validation service completed
+API OA integration path prepared
+30 / 60 / 90-day pilot
+Define the scope, customer input, and acceptance test before deployment starts
+Start with one site and one workflow where a missed signal has a clear operational or compliance consequence. Each phase ends with evidence that LabOps, QA, and IT can review together.
+Days 0-30
+Connect one critical workflow
+Delivered
+Asset and signal inventory, edge connection, alert rules, owners, timestamps, and offline buffering for one selected scene.
+Customer input
+Site access, asset list, network contact, SOP owner, escalation path, and a weekly 45-minute review.
+Acceptance criteria
+Agreed signals are captured with reliable timestamps; test alerts reach the correct owner; buffered records recover after a network interruption.
+Days 31-60
+Prove response and evidence
+Escalation workflow, task ownership, incident timeline, audit history, and daily or weekly operating review.
+Two representative incident scenarios, response participants, QA review comments, and approval of the evidence format.
+A test event can be replayed end to end, with the signal, acknowledgement, action, escalation, and closure linked in one record.
+Days 61-90
+Operationalize and decide expansion
+Management metrics, validation-support artifacts, operating cadence, handover, and a prioritized multi-site or multi-workflow expansion plan.
+LabOps, QA, and IT acceptance review, named operational owner, final configuration decisions, and expansion priorities.
+LabOps, QA, and IT sign off the agreed workflow and evidence package, with gaps and the next deployment scope documented.
+Review the enterprise pilot packet
+What we industrialize
+From raw lab signals to governed operating records
+Regulated labs cannot rely only on instrument files, paper logs, and after-the-fact screenshots.
+Teams need one operating record that shows what the environment did, which equipment was involved,
+where materials moved, who acted, and whether the response followed procedure.
+Explore products
+Choose a scenario
+Use sensors, smart cabinets, meters, labels, adapters, and workflow terminals to capture what is happening in the lab.
+Local adapters, rules, and buffering keep records flowing when sites, networks, and equipment interfaces do not behave the same way.
+Monitoring, equipment, inventory, samples, space, procurement, qualification, and waste workflows turn events into accountable work.
+Lab events become structured, time-stamped, auditable records tied to assets, locations, people, samples, and actions.
+Common lab scenarios
+Replace manual checks with connected AIoT operating records for global labs
+iLabService focuses on the lab work that still depends on people checking devices, reading gauges,
+updating spreadsheets, messaging suppliers, and reconstructing incidents after the fact.
+Explore all 7 scenario brochures
+Sample protection
+Freezer and biological storage
+Temperature, door, power, compressor-risk, sample, access, and response context.
+Cryogenic safety
+Cryo storage and oxygen safety
+Level, pressure, oxygen condition, refill, access, and safety response history.
+Experiment integrity
+Incubators and process monitoring
+Condition drift, CO2, humidity, disturbance, and methods-ready context.
+Equipment intelligence
+Equipment lifecycle and utilization
+Usage, maintenance, booking, downtime, energy, CAPEX justification, and lifecycle evidence.
+Material governance
+Inventory, reagents, and consumables
+Traceable stock movement, expiry, access, discrepancy, OPEX exposure, and procurement signals.
+Space intelligence
+Space and environmental health
+Occupancy, workstation demand, IAQ, capacity, and safety reporting context.
+Safety and utilities
+Gas safety and refill coordination
+Camera gauge reading, cylinder pressure, leak risk, refill workflow, delivery windows, and records.
+For lab managers
+Turn risk, utilization, and spend into defensible decisions
+Lab managers are asked to protect samples, keep teams productive, justify equipment investment,
+reduce material waste, and explain decisions to QA, finance, EHS, and scientific leaders. iLabService
+connects those questions to the same physical operating record.
+CAPEX
+Prove equipment utilization before buying more
+Combine booking, power patterns, run time, idle time, service state, and downtime to see which instruments are overloaded, underused, or ready for sharing.
+Equipment utilization
+OPEX
+Optimize inventory and procurement from real demand
+Use stock movement, expiry exposure, late returns, threshold triggers, and procurement history to reduce overstock, rush orders, and manual counting cycles.
+Inventory and procurement
+Decisions
+Turn operations data into management choices
+See which freezer room, instrument group, material category, or site needs action first, with evidence tied to risk, cost, utilization, and response readiness.
+Scenario library
+Evidence
+Defend the decision after the fact
+Keep the same record usable for operational review, finance justification, audit questions, EHS follow-up, and expansion planning.
+Manual vs AIoT mode
+Complete Lab Manager operating path
+Move from first-risk review to a defensible operating plan
+Use this path when the question is not only "can we monitor it?" but also "can we justify action, budget, and ownership from the same record?"
+1 Map the highest-risk scene
+Start with freezer, cryo, equipment, inventory, space, or gas operations that still depend on manual checks.
+2 Attach utilization and spend signals
+Connect bookings, power patterns, stock movement, expiry risk, procurement timing, and service history.
+3 Assign ownership and evidence
+Define who acts, who reviews, and which record supports QA, finance, EHS, and expansion decisions.
+Open the complete Lab Manager path
+Open the worksheet
+For QA / Compliance
+Start with records QA can trust during review
+Alarm records alone are not enough for QA and compliance review. The record should show
+attributable actions, controlled review workflows, validation evidence, and a complete event
+story that can survive audit questions.
+Audit trail
+Can every event show who acted and when?
+Review source signals, alert delivery, acknowledgement, escalation, corrective action, reviewer status, and export history in one record.
+Data integrity
+Are monitoring records ALCOA+ aligned?
+Check whether physical signals and user actions are attributable, contemporaneous, source-linked, enduring, and available for review.
+Validation readiness
+Can the first deployment be approved with confidence?
+Map sensor configuration, threshold rationale, IQ/OQ/PQ-style checks, SOP ownership, access control, and change-control expectations.
+Open compliance evaluation
+Open the QA worksheet
+For EHS
+Connect safety signals to response ownership and near-miss evidence
+Safety records should show which gas, oxygen, waste, space, or incident signal changed, who
+was notified, what action was taken, and whether the follow-up record is complete enough for
+internal reporting.
+Gas and oxygen
+Can the record show the hazard, threshold, and response route?
+Track cylinder pressure, gas-specific alarms, oxygen deficiency or enrichment risk, and supplier refill follow-up.
+Incident context
+Can the near-miss record stay connected without manual stitching?
+Keep alarms, acknowledgement, escalation, corrective action, and EHS notes connected to the same physical event.
+Waste and space
+Can safety operations produce usable reporting evidence?
+Connect waste, IAQ, occupancy, and controlled-space events to ownership, response history, and review status.
+EHS landing path
+From safety signal to reportable operating evidence
+The EHS path now has a clearer handoff: identify the hazard scene, define local and digital
+response, connect incident or near-miss notes, then keep the record usable for EHS, facilities,
+QA, and lab leadership.
+1 Define the hazard scene
+Gas room, cryo area, fume hood, waste point, controlled room, or utility line.
+2 Route the response
+Local alarm, digital alert, acknowledgement, escalation, supplier refill, or corrective follow-up.
+3 Preserve the evidence
+Threshold, signal history, owner, action, review state, and follow-up checks stay connected.
+Open the complete EHS path
+Open the EHS worksheet
+Match EHS brochures
+For PI / Scientists
+Reconstruct the lab operating records behind failed experiments
+When a cell culture run fails, a freezer exposure goes unnoticed, or an incubator drifts over the
+weekend, PIs and scientists need more than final records. They need to see whether CO2, temperature,
+humidity, door disturbance, equipment state, storage exposure, or operator actions explain the result.
+Experiment window
+What happened while the assay was running?
+Review condition drift, disturbance, equipment state, and response records across the relevant time window.
+Methods-ready context
+Can the physical conditions be cited?
+Use structured environmental and equipment context to support methods documentation and reproducibility review.
+Reproducibility
+Can hidden operating variables be scored?
+Compare runs against storage, equipment, environment, material, and operator histories that are usually missing.
+View experiment-window workflow
+Open the PI / Scientists worksheet
+First rollout, then rhythm
+Make the first deployment concrete enough to prove
+Start with one room or workflow where an incident would matter. Prove the response record, then expand when another workflow requires the same evidence.

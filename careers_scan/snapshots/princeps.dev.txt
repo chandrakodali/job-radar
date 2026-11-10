@@ -1,0 +1,21 @@
+PRICE WHAT HAS NEVER BEEN PRICED.
+Princeps is a YC S26 company. We underwrite risk for the compute economy
+from San Francisco. The team is small and senior; every hire sets
+the standard for the ones after.
+GTM / OUTREACH — 2X
+SAN FRANCISCO OR REMOTE — FULL-TIME — TWO POSITIONS
+Open the market. Find the operators, neoclouds, and labs carrying
+uninsured compute risk, get us in the room, and turn conversations into
+bound policies. You are direct, relentless, and comfortable selling
+something that has never been sold before.
+APPLY — CAREERS@PRINCEPS.DEV
+FOUNDING UNDERWRITER / ACTUARY
+SAN FRANCISCO — FULL-TIME
+Build pricing models for risks with no loss history: GPU fleet
+interruption, SLA breach, model-output liability. You have priced hard
+things before — specialty lines, cat risk, credit — and want to do it
+where the actuarial tables don't exist yet.
+FOUNDING ENGINEER
+Build the pricing kernel, the exposure data pipeline, and the paper
+itself. Small surface, high stakes. You should be comfortable owning
+systems end to end and working directly with underwriting.

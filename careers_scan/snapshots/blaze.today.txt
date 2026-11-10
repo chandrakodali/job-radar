@@ -1,0 +1,101 @@
+At Text Blaze, we're on a mission to free everyone from tedious typing and repetitive workflows. We believe in simple but powerful solutions that put users firmly in control of their workflows and empower them to unlock their full potential.
+We iterate rapidly making data-driven decisions based on the needs of our users.
+This is a unique opportunity to join as a member of the founding team and have a significant impact on our product, strategy and culture, while enjoying the benefits and stability of a company with a great product-market fit, love of users and fast growth.
+Text Blaze is a remote company.
+Contact us with your information and any questions.
+Open Roles
+Product Marketing Manager
+Full Stack Engineer
+Machine Learning Engineer - Large Language Models
+Head of Growth
+Senior SDR | Full-cycle Account Executive
+Text Blaze ( https://blaze.today ) is revolutionizing the way people work with personal mini-apps that are available in any app and eliminate repetitive work. With 800,000+ enthusiastic users across diverse verticals such as Customer Support, Sales, Recruiting, Health Care, and Education, our cutting-edge productivity tool empowers users to create their own personal "snippets" or mini-apps that are available anywhere and save countless hours of work. As a remote-first company, we're a dynamic, empathetic, and passionate team that thrives on collaboration and values each member's unique strengths and contributions.
+Join Our Mission
+We're on the hunt for an exceptional Product Marketing Manager to help us take Text Blaze to new heights. You'll play a pivotal role in identifying and promoting the many use cases of Text Blaze, guiding new and existing users to unlock its full potential. If you're passionate about making a tangible impact on people's lives, have a flair for creative marketing, and are eager to be part of a high-growth product journey, this is the perfect opportunity for you!
+What You'll Do
+Lead the charge in identifying, prioritizing, and promoting diverse Text Blaze use cases, driven by a deep understanding of our users and their needs.
+Develop and refine targeted user segments, positioning, and messaging that drives user engagement and adoption.
+Spearhead the creation and deployment of compelling content and collaterals across channels, collaborating with talented contractors as needed.
+Discover and establish innovative distribution channels that amplify Text Blaze's reach and user base.
+Conduct growth experiments (including A/B tests), analyze data-driven results, and determine the best course of action.
+Build, mentor, and manage a high-performing team of internal and external marketing experts.
+Continuously push the envelope with creative marketing strategies that fuel growth.
+Work hand-in-hand with the product team to shape the product roadmap by identifying under-served use cases or areas for improvement.
+Your Winning Traits
+4+ years of proven success in product and/or growth marketing roles in product-led/freemium SaaS products.
+A history of driving significant improvements to core business metrics.
+Expertise in organic (SEO, content, and social), product, and paid marketing.
+A relentless entrepreneurial spirit, with the ability to drive results through creative and scrappy approaches.
+Outstanding communication skills, adept at articulating plans, priorities, assumptions, results, and next steps.
+A data-driven mindset (SQL knowledge a plus).
+Demonstrated success in consistently delivering high-quality work while working from home.
+A true team player, boasting high emotional intelligence and a knack for mentoring others.
+Why You'll Love Working with Us
+Make a real impact : Be part of a founding team transforming the way people work and directly improving users' lives.
+Grow with us : A unique opportunity to build and own the marketing function and team as we scale.
+Remote-only culture : Enjoy the freedom and flexibility to work from anywhere and collaborate with a diverse, global team.
+Personal growth : Sharpen your skills, expand your knowledge, and embrace new challenges in a fast-paced, supportive environment.
+Ready to embark on an exciting career journey and leave your mark on the future of Text Blaze? Apply today and let's unlock the potential of Text Blaze together!
+A founding team engineering hire, we're looking for a strong full-stack engineer to own development of key front-end and back-end components of our application.
+For us, ownership means not only owning the engineering side, but also a lot of the product thinking too. We have a core philosophy that tech and product go hand in hand.
+On a tech side, you should:
+Be a great Javascript developer with experience with React
+Be experienced with Google Cloud Platform
+Be proficient with SQL
+Since you'll be responsible for a lot of product thinking too, you also need to:
+Love talking to users and working out how to solve their problems
+Understand business needs and figure out the technical solutions to solve them
+Have an eye for design and be comfortable designing your own UI's and own solutions
+We are looking for a talented Machine Learning Engineer with interest in training large language models to join our innovative and fast-paced team. In this role, you will work on cutting-edge NLP projects and play a crucial part in developing and refining our productivity tools. If you are passionate about machine learning, have a strong background in natural language processing, and thrive in a collaborative and high-impact environment, we'd love to hear from you!
+Responsibilities:
+Fine tune large language models that can generate high-quality text to solve domain specific needs.
+Implement end-to-end machine learning pipelines, including data preprocessing, model training, evaluation, and deployment.
+Continuously research and stay up-to-date with recent advancements in NLP and large language models, applying novel techniques and methodologies to improve our models.
+Conduct experiments and benchmarking to assess the performance of various model architectures and optimize hyperparameters.
+Troubleshoot and resolve any issues arising during model training and deployment.
+Qualifications:
+Bachelors or Masters in Computer Science, Mathematics, or a related field with a focus on machine learning and NLP.
+Hands-on experience working with large language models like GPT, LLAMA, BERT, or Transformer-based architectures.
+Proficiency in Python and deep learning frameworks such as TensorFlow or PyTorch.
+Strong knowledge of NLP techniques, including tokenization, language modeling, and embeddings.
+Experience with distributed training and optimization techniques for large-scale machine learning models.
+Solid understanding of cloud platforms (e.g., GCP (preferred), AWS) and their machine learning offerings.
+Strong analytical and problem-solving skills, with the ability to think creatively and propose innovative solutions.
+Excellent communication skills and the ability to collaborate effectively in a cross-functional team.
+Our users LOVE Text Blaze. We have a perfect 5-star rating in the Chrome Web Store and we constantly receive positive feedback and "Wow"s from our users (it’s fun!). Our fast organic growth is based on our users passionately sharing Text Blaze with their friends and colleagues.
+As Head of Growth, your job will be to experiment with different channels and methods to introduce people to Text Blaze and help them unlock the value it can bring to them.
+We’re looking for an experienced growth marketer to own Text Blaze’s growth strategy from design to implementation and scaling. A top priority hire that will join the founding team of a fast-growing company and help shape its future.
+As the Head of Growth you will
+Get to know our users and hear their stories - how they use Text Blaze and why they love it.
+Analyze our users’ data to understand high-priority segments and successful user journeys.
+Develop and prioritize growth hypotheses and plans to test them.
+Run growth experiments (including A/B tests), analyze results and decide on the next steps.
+Double-down on successful channels and own growth initiatives, including potentially hiring additional team members.
+Go crazy - be creative and test new things.
+Qualifications
+4+ years experience in growth marketing roles in product-led / Freemium companies
+Track record of driving significant improvements to core business metrics
+Experience in SEO, content marketing, and social.
+Hustler - able to independently drive results using creative approaches
+Great communicator - able to clearly communicate plans including prioritization, assumptions and next steps.
+Data and hypothesis-driven, including SQL knowledge.
+Team player - high emotional intelligence and ability to mentor others.
+We’re looking for a founding senior SDR or full-cycle Account Executive to shape and execute our sales process end to end, including messaging, processes, tools, and compensation.
+Text Blaze sells itself very well - a large percent of our users are paying customers. The vast majority of them upgraded by themselves using our self-serve offering.
+Your goal will be to accelerate this naturally occurring process and help spark it in companies that need a little nudge.
+In the process, you’ll build relationships with Text Blaze users in a variety of roles and industries and play a major role in helping them achieve their business goals. You will hear more WOWs and get more thank you emails than ever before.
+You will work independently and share your findings with Text Blaze’s co-founders and employees to help shape the product roadmap.
+Requirements
+3+ years of experience in a Sales Development and/or Account Executive roles in a bottoms-up sales (Product-Led Growth) company.
+Experimental mindset with ability to learn and iterate quickly.
+Strong customer-facing and presentation skills with the ability to establish credibility with executives.
+Excellent written and verbal communication skills.
+Ability to learn and sell new technologies.
+User empathy and a drive to see users succeed.
+Responsibilities
+Own the full sales cycle from lead to close
+Establish relationships with existing Text Blaze users through outbound communication.
+Understand our users’ needs and help them achieve their goals by educating them and helping them take full advantage of Text Blaze’s features.
+Initiate, negotiate, and close new and renewal contracts with customers.
+Test different sales approaches and messaging and write our sales playbook.
+Work closely with the product and marketing teams to ensure sales effectiveness and customer satisfaction.

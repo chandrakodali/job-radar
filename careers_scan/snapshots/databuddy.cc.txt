@@ -1,0 +1,83 @@
+Features
+Uptime monitoring
+Error tracking
+Web Vitals
+Feature flags
+Short links
+Databunny
+MCP server
+Resources
+Docs
+Blog
+Changelog
+Compare
+Pricing
+Sign in
+Work with us on privacy-first analytics
+We're a small, remote team building Databuddy. We're hiring a founding engineer and an SDR, and we still want to hear from sharp builders who care about privacy-first analytics.
+See open roles
+Small team
+Remote-first
+Real ownership
+Privacy-first
+Open roles
+Current openings. If one fits, apply directly.
+Founding engineer
+Full-time · Remote
+Apply for founding engineer
+No email app? Send your application to support@databuddy.cc .
+Help own the core product with the founders. You'll ship across the TypeScript monorepo (dashboard, API, ingestion, and analytics warehouse) and make real architecture calls while the company is still small.
+What you'll do
+Ship end-to-end features across Next.js, Elysia, Drizzle, ClickHouse, and Redis
+Own problems from product question to production: schema, API, UI, and observability
+Tighten ingestion, query performance, and reliability as volume grows
+Review PRs hard, keep the codebase simple, and raise the bar for everyone else
+Talk directly with users when something breaks or a design decision needs a sharp edge
+What we're looking for
+Strong TypeScript and comfort across full-stack web systems
+Experience shipping production SaaS, developer tools, or data products
+Solid judgment on SQL, APIs, and performance, not just framework familiarity
+Bias toward small PRs, clear writing, and deleting complexity
+Happy working async and remote with a tiny team
+Nice to have
+ClickHouse, analytics pipelines, or high-volume event ingestion
+Open-source contributions or public technical writing
+Prior founding / early-stage engineer experience
+Sales development representative
+Apply for SDR
+Own outbound and inbound qualification for Databuddy. You'll find teams that care about privacy-first analytics, start the conversation, and book qualified demos for the founders.
+Run outbound sequences across email, LinkedIn, and warm intros
+Qualify inbound interest and book demos with decision-makers
+Keep a clean pipeline in our CRM and report weekly on activity and conversion
+Learn the product well enough to speak clearly about privacy, performance, and pricing
+Feed product and marketing with real objections, competitor notes, and win/loss signal
+1+ years in SDR, BDR, or similar outbound sales at a B2B SaaS company
+Comfortable writing concise cold outreach that sounds human
+Organized enough to run high volume without dropping follow-ups
+Clear written and spoken English
+Excited about developer tools, analytics, or privacy tech
+Experience selling to founders, growth, or engineering buyers
+Prior work at an early-stage startup where you wore more than one hat
+Two ways to work with us
+Not the open role above? You can still join the ambassador program or pitch us directly.
+For builders who love the product
+Join the ambassador program
+If you're already using Databuddy and want to help grow it, the ambassador program comes with early access, a private channel, and a direct line to the team.
+Become an ambassador
+For roles we haven't posted
+Pitch us directly
+If you'd genuinely move the needle outside the open roles (analytics, distributed systems, developer tooling, design, DevRel) send a short note and links to things you've built.
+support@databuddy.cc
+How we work
+No perks page, no ping-pong table. Just the principles that actually shape the day-to-day.
+Remote, async by default
+The team is spread across timezones. Deep work beats standups. Write things down so the next person (or the next you) doesn't have to ask.
+Ship small, ship often
+Short branches, reviewed PRs against staging, straight to production. Big rewrites are a smell. If a change takes more than a week, it's probably wrong.
+One stack, one repo
+TypeScript everywhere, Bun, Turborepo, Next.js, Elysia, Drizzle, ClickHouse, Redis. You'll touch most of it within the first month.
+Privacy isn't negotiable
+Sustainable pace
+No crunch, no theatre. We want people who'll still be here in three years, not people who'll burn out in three months.
+Feedback is a gift
+We keep feedback direct, specific, and kind, and we review code hard because we trust each other. If something's broken, say it. If something's great, say that too.

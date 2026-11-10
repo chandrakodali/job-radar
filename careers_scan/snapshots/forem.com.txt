@@ -1,0 +1,116 @@
+Create Post
+All articles and discussions should relate to careers in some way.
+Pretty much everything on dev.to is about our careers in some way. Ideally, though, keep the tag related to getting, leaving, or maintaining a career or job.
+A career is the field in which you work, while a job is a position held in that field.
+Related tags include #resume and #portfolio as resources to enhance your #career
+Older #career posts
+… 75
+… 100
+How do you truly stand out in Tech?
+Navigating AI-era layoffs and high standards
+FrancisTRᴅᴇᴠ
+Nov 9
+# discuss
+# community
+# productivity
+# career
+118 reactions
+52 comments
+8 min read
+How did you end up in tech, and are you staying?
+Features a LEGO robotics plot twist
+Maame Afua A. P. Fordjour
+# beginners
+# watercooler
+88 reactions
+30 comments
+3 min read
+Everyone Is Building AI to Replace Developers. Nobody Is Building the Plan for What Comes After.
+Comments debate lost mentorship and hidden bugs
+TheBitForge
+# ai
+# programming
+72 reactions
+22 comments
+30 System Design Questions for Frontend & Fullstack Interviews
+Yan Levin
+Nov 10
+# interview
+# systemdesign
+# webdev
+Add Comment
+6 min read
+AI tools for placement prep that actually help
+Rohan Sharma
+# resources
+6 reactions
+2 comments
+7 min read
+Developers saving 10+ hours a week with AI fell from 68% to 26%. The bottleneck moved.
+Onkar Deokate
+7 Follow-Up Email Templates for When Nobody Replies (Copy-Paste)
+NhatMinh
+# email
+# writing
+4 min read
+One person, 10+ repos: where each of my apps came from
+Kenji Sakuramoto
+# showdev
+1 reaction
+I checked 29 student AI and dev-tool deals against the official pages. Here's what UK students can actually get
+Matt
+# opensource
+2 min read
+Snowflake's AI Agents Fix Pipelines: Data Engineer Impact
+DataDriven
+# dataengineering
+# snowflake
+9 min read
+Разработчик-инженер или промпт вместо кода
+Calabonga
+# llm
+1 min read
+How to Handle "Call Me Next Quarter": Objection Handling and Sales Scripts for the Timing Stall
+Kulissa
+# sales
+# startup
+1 comment
+5 min read
+My Laptop Battery Is My Second Salary
+AheadKit
+AI Is Not the Bubble. Our Expectations Might Be.
+Ayush Chaudhary
+Satu Orang, Lima Pekerjaan: Mengukur Fenomena Multitasking Berlebihan di Dunia Kerja Indonesia
+wingky alexandra zulvi
+# indonesia
+# python
+# threads
+👋 Sign in for the ability to sort posts by relevant , latest , or top .
+Free AWS Certification for Students: The Complete Step-by-Step Guide
+How I Feel about the Grace Hopper Celebration Getting Cancelled
+Remembering Steven Schrembeck
+Google's New SDLC Whitepaper: From Vibe Coding to Agentic Engineering
+People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?
+How to Become a Tech Conference Speaker (And Why You Might Regret It)
+The Death of Freelance Platforms: Why Upwork & Fiverr Stocks Are Collapsing in the AI Era
+Frontend Isn't Dead. But the Job Title Is Changing
+The Quiet Weight of Working in Tech in the AI Era
+Should You Still Learn to Code in 2026? An Honest Take From a Student Who's Still Grinding
+Don't Be a Proxy Between Me and Your AI
+My AI-assisted coding interview was a lesson in reading unfamiliar code
+A Simple Guide to Passing the Claude Certified Developer Exam
+Salesforce SMTS Interview Experience (Offer Accepted)
+5,900 Engineers Just Registered for a Hackathon Where Using AI Is the Point. Here's How It Will A...
+The Software Entropy in the AI Era
+Google X-Ray Search for Smarter Job Hunting
+What an Anthropic hiring manager stopped asking candidates to do
+Are Frontend Developers Cooked? Is Frontend design safe?
+The Ever Changing Profession of Software Engineering
+Company career page scraper: every open job from any company, by name or domain
+Career safety in the Age of AI Layoffs
+Are we software engineers doomed? Yes, because of AI!
+Developer Burnout in the AI Era: It's Not What You Think
+TopAccess: Freelancer Review
+We're a place where coders share, stay up-to-date and grow their careers.
+Log in
+Create account

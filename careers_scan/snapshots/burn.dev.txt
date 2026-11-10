@@ -1,0 +1,34 @@
+Why work with us?
+Open-source impact
+Your work ships in tools used around the world.
+Flexible work environment
+Work remotely or join us in Québec City.
+Ownership from day one
+Help shape what we build.
+Careers
+Open positions
+Let's build the future together
+Filter open positions by team
+Machine Learning Scientist Location: Canada (Remote), Québec City (On-site) Technologies: Rust, LLM, VLM, ONNX
+Key responsibilities:
+Invent, design, and experiment with state-of-the-art machine learning models using Burn
+Optimize model performance for both training and inference
+Communicate technical research findings through papers and blog posts
+Apply now
+Web Developer Location: Canada (Remote), Québec City (On-site) Technologies: Rust, TypeScript, distributed systems, MLOps
+Work on a cloud platform facilitating deployment of Burn models for training and inference
+Manage real-time updates with large persistent object storage by writing frontend and backend components
+Collaborate with users to better address their needs
+High-Performance Computing Developer Location: Canada (Remote), Québec City (On-site) Technologies: Rust, CUDA, ROCm, wgpu
+Develop, profile and optimize multiplatform kernels using CubeCL
+Navigate lazy execution in an asynchronous, multi-threaded runtime to ensure every GPU is leveraged to its maximum
+Design and implement multiplatform and platform-specific distributed algorithms to reduce latency and improve throughput
+Compiler Developer Location: Canada (Remote), Québec City (On-site) Technologies: Rust, LLVM, CUDA, ROCm, WebGPU
+Work on developing and extending CubeCL compiler backends that optimize any hardware for numerical computing
+Work on machine-learning-specific compilers and runtimes in Burn that optimize dynamic graphs with a mix of search and compiler optimization
+Collaborate on developing and optimizing various algorithms with CubeCL
+Business Operations and Development Location: Québec City (On-site)
+Own client relationship management: onboarding new clients, acting as the business liaison, tracking client satisfaction, helping to ensure successful delivery and renewal/expansion conversations
+Serve as the point person for partnerships: identifying, reaching out to, and managing relationships with strategic partners (technology, channel, go-to-market)
+Help with internal administration: expense tracking, vendor contracts, scheduling, basic HR/admin tasks
+Manage aspects of social media and content presence: help maintain company social channels, craft posts in coordination with the team, engage the community

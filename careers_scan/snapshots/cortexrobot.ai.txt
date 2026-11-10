@@ -1,0 +1,30 @@
+Software Engineer, Internal Tooling and Infrastructure
+Singapore
+Full-time
+Cortex AI builds infrastructure for collecting real-world data and deploying embodied AI systems. Our work spans robotics data pipelines, egocentric capture systems, and the software that supports operators and researchers in the field.
+We're looking for a software engineer to be a catalyst for our operators, engineers, and researchers. You'll own the applications and pipelines that take data from capture through review and delivery, along with the ML services that assist with labeling and automate data checks.
+The role spans full-stack applications, backend services, cloud infrastructure, and automation. You'll work directly with the people using your software and own projects from design and implementation through deployment and ongoing support.
+What you'll work on
+Internal tools and dashboards: Build the collection, annotation, and review tools our teams use daily. Give operators clear views of task progress, data quality, and processing failures, with enough context to act.
+Data pipelines and automation: Build APIs and pipelines that move video, sensor data, and metadata from capture systems into storage and internal tools. Automate task setup, upload validation, dataset preparation, and delivery tracking to remove manual handoffs.
+Deployment and reliability: Make releases repeatable and failures easy to diagnose. Build monitoring and recovery paths so teams can retry interrupted uploads and processing jobs without losing work.
+ML services and LLM APIs: Deploy models behind APIs and in processing pipelines for assisted labeling and automated data checks. Own their reliability in production, and integrate LLM APIs into internal tools to help users investigate failures and resolve operational issues.
+Working with users: Work with operators, engineers, and researchers to prioritize problems, ship useful first versions, and improve them through feedback.
+What you'll bring
+Building and shipping: You've shipped working software through professional work, internships, open-source contributions, or substantial personal projects. You can explain the problem it solved, the decisions you made, and what you learned after shipping.
+Full-stack development: You can build interactive applications in React and TypeScript and write Python services and automation. You understand how to design the APIs, database schemas, and data models that connect them.
+Cloud infrastructure and debugging: You've worked with application deployment and storage on AWS, GCP, or Azure. You can trace a failed workflow across the UI, backend, database, and infrastructure to find the cause.
+Usability and maintainability: You think through loading states, input validation, useful error messages, and recovery. You test important workflows and write code that another engineer can understand and change.
+Communication and initiative: You can turn an incomplete request into a clear scope, explain tradeoffs, and keep users involved as you build. You document how to operate and troubleshoot what you ship.
+Useful additional experience
+Video processing with FFmpeg, including frame extraction, codecs, and latency optimization.
+Docker, CI/CD, infrastructure as code, or production monitoring.
+Deploying ML models or building tools with LLM APIs.
+Linux, ROS or ROS 2, hardware communication, or robotics data collection.
+You'll enjoy this role if you like working directly with users and judging your work by how much faster they can complete collection, review, and delivery tasks. Expect to move between UI details, backend debugging, and supporting the systems you ship.
+We're interested in the decisions behind your work as much as the finished result.
+Apply with your CV, GitHub profile, and any relevant projects. Tell us about a tool you built, who used it, and what became faster or easier because of it.
+How to apply
+Send your CV, GitHub profile, and any relevant projects to [email protected] .
+Tell us about a tool you built, who used it, and what became faster or easier because of it.
+Subject line: Software Engineer, Internal Tooling and Infrastructure Application

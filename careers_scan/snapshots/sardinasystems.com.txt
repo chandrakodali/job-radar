@@ -1,0 +1,196 @@
+info@sardinasystems.com +31 20 3691817
+Open search modal
+Facebook
+LinkedIn
+WhatsApp
+Home > About Us > Careers
+Join us! Let’s make cloud more efficient and reliable!
+Job Opportunities
+Boost your careers at Sardina Systems, an industry leader building on OpenStack, Kubernetes, and Ceph platforms. We help companies rapidly experience the value of an automated, scalable private cloud. Similarly, we are an open-source technology company that offers amazing opportunities to its employees. We celebrate innovation, leadership, and creativity!
+Above all, we are looking for fast thinking, super sharp players to join our team. Come and join us if you want to work in a focused, highly collaborative culture. As a result, you benefit from the experienced and internationally diverse colleagues that you’d expect to find in an expanding, innovative, and professional company.
+We are proud of what we achieve every day. Therefore, the success of our business depends above all on the people who work here. Through this success, we have seen substantial global growth built upon the founding culture of the company: broad responsibilities, individual initiative, and flexibility.
+A great place to work!
+Firstly, Sardina Systems offers an attractive compensation and excellent benefits. Secondly, you’ll join a team of super-smart people who are very passionate about what they do.
+Moreover, our team members including software development, cloud operations, support, sales, marketing, field technical services, are distributed internationally. Therefore, you can join us from wherever you are.
+Most importantly, within the Sardina Systems team, we speak more than 15 languages!
+Are you interested to join Sardina Systems and help build a global software company that changes the world?
+If you’re interested in open or potential positions, please send your CV to jobs@sardinasystems.com .
+We follow an evergreen recruitment policy and are always on the lookout for bright, motivated, and self-driven individuals to join our team.
+We are looking for qualified and experienced persons to join us in the following roles:
+Back-end Developer
+Sardina Systems is an OpenInfra software platform company based on OpenStack and Kubernetes and is looking for Back-end Developer to join our team.
+What will you do:
+– Provision of cloud systems
+– Data matching at collection points
+– Find problems and fix them in the system
+– Prototyping and enhancement of security system
+– Contribute ideas to enhance cybersecurity
+– Offer solutions to complex problems
+Your qualifications
+Required:
+– 2+ years of experience in Python
+– Understanding the principles of security and data protection, willingness to develop in this direction
+– Written English would be sufficient
+Will be a plus:
+– Knowledge of Golang
+– Knowledge in the field of protection and security
+We offer:
+– Work on an interesting project with a team of experienced professionals
+– All the conditions for rapid progress in the profession, increasing the complexity of tasks as you develop
+– Competitive wages with regular review
+– Flexible working hours (fixing to Central European Time)
+– Five-day working week, within 8 hours a day
+– Daily practice of English during the work process;
+– Opportunity to attend conferences, meetups and other professional events
+Software Developer
+Sardina Systems is an OpenInfra software platform company based on OpenStack and Kubernetes and is looking for a Software Developer to join our team.
+– Description of components and environment for launching an automated engine
+– Contribute ideas for making the applications better and easier to use
+– Understanding of Golang and desire to learn it further
+– Knowledge of Git, Unix system
+– Experience with C++
+– Experience with other frameworks
+– Understanding the concept of databases and data processing
+– Basic concepts of statistical approaches and analysis techniques
+– Fundamental understanding of statistical data
+– Work on an interesting project in a team of experienced professionals
+QA Automation Engineer
+Sardina Systems is an OpenInfra software platform company based on OpenStack and Kubernetes and is looking for QA Automation Engineer to join our team.
+– Implement gating tests
+– Support test automation system
+– Develop a set of tests to be able to check deployer, fishos components for automated gating
+– Handle software build and package maintenance
+– Design and implement components in our software build and packaging automation tools, extending and replacing (where necessary) current code, to update with new functionalities
+– Contribute ideas for increasing software reliability
+– 2+ years of experience in Python (for automation scripting)
+– Must have experience with Linux packaging
+– Experience with GitLab CI
+– Experience with Jenkins
+– Familiarity with Koji build system
+– Familiarity with Zuul
+– Familiarity with Ansible
+Web Developer
+Sardina Systems, an OpenInfra software platform company based on open source technologies, is looking for a Web Developer (WordPress) to join our dynamic team.
+What You Will Do:
+– Develop and maintain the company website, landing pages, and online promotions
+– Optimize website performance and user experience
+– Contribute innovative ideas to enhance site usability and functionality
+– Work closely with the Marketing and Technical teams
+– Contribute to internal processes and documentation
+Your Qualifications:
+– 1+ years of experience in WordPress development
+– Proficiency in WordPress development
+– Strong written and spoken English skills
+Preferred:
+– Experience in marketing
+– Skills in managing Nginx-based frontends on Linux
+– Experience with DNS-based geo-targeting
+– Experience running A/B tests
+– Familiarity with Matomo analytics
+What We Offer:
+– Exciting projects with a team of seasoned professionals
+– Opportunities for rapid career growth with progressively challenging tasks
+– Competitive salary with regular reviews
+– Flexible working hours aligned with Central European Time
+– Opportunities to attend conferences, meetups, and professional events
+SysOps / Cloud System Engineer
+Sardina Systems is an OpenInfra software platform company based on OpenStack and Kubernetes and is looking for a SysOps / Cloud System Engineer to join our team.
+– Understanding the technical assembly of packages
+– Developing and building packages
+– Repository management and package testing
+– Clear understanding of fundamentals of Linux operating systems
+– Knowledge of Python (for systems operations purposes)
+– Experience with package management/development tools for DEB or RPM
+– Experience with CI/CD tools, pipeline development
+– Experience with testing of packages
+– Experience with common developer tools – Git, IDE, etc.
+– Experience in system administration and network administration
+– Knowledge of hypervisors (such as KVM, HyperV, and VMware)
+– Experience with cloud management platforms such as OpenStack, GCP, AWS
+– Knowledge of Docker, k8s
+– Knowledge of automation tools Ansible or Chef
+– Experience with data center operations
+Middle/Senior System Administrator
+Sardina Systems is an OpenInfra software platform company based on OpenStack and Kubernetes and is looking for a Middle/Senior System Administrator to join our team.
+– Handle deployment of our software and related software
+– Design and implement components in our automation tools, extending and replacing (where necessary) current code, to update with new functionalities
+– Support of deployed cloud environments
+– Experience with physical servers management HP, Supermicro, IBM
+– Experience with physical network equipment HP, Cisco, Juniper
+– Experience with software/hardware storage systems and/or FibreChannel SAN
+– Good knowledge of Linux virtualization systems
+– Experience with log management, monitoring
+– Experience with automation tools Ansible or Chef
+– Knowledge of Git, Python, and Shell-script (for system operations purposes)
+– Experience at an ISP, hosting services operator or network operator
+– Knowledge of hypervisors (such as KVM, Xen, HyperV, VMware)
+– Experience with Docker, Kubernetes
+– Experience with software-defined networking
+– Five-day working week, within 8 hours a day (Monday to Friday or Sunday to Thursday)
+Data Science
+Sardina Systems is an OpenInfra software platform company based on OpenStack and Kubernetes and is looking for Data Science to join our team.
+– Develop components and algorithms on our platform, converting to code, adding new features and capabilities
+– Understanding of fundamental concepts of relational and other databases
+– Understanding of fundamental concepts which data analysis techniques rely on
+– Knowledge of Golang or desire to learn it
+– Experience with common developer tools – Linux/Mac, Git, etc.
+– Experience with C++ (or other technologies)
+– Knowledge of R, which is useful for calculating statistics
+– Docker
+– Result orientation
+– Be a team player, not an individual
+– Passion for development
+Front-end developer
+Sardina Systems is an OpenInfra software platform company based on OpenStack and Kubernetes and is looking for a Front-end developer to join our team to work on the front-end of the analytics system.
+– Development of the frontend platform, extending on and replacing (where necessary) current code, to update with new functionalities
+– 1+ years in a front-end position
+– Knowledge of JavaScript
+– Experience with Vue.js 2/3 and its ecosystem
+– Experience with TypeScript, HTML/CSS
+– Knowledge of GraphQL, Swagger
+– Knowledge of Angular
+– Experience with analytics systems
+– Experience with time-series databases
+Sardina Systems Team is led by business executives with decades of experience in growing business in the supercomputer systems and enterprise software market, and senior engineers each packing 10+ years of experience in the development of high-performance software for large-scale facilities and operation of mission-critical systems in industries including finance, energy, defence, meteorology and automotive.
+The Sardina Systems Advisory Board comprises individuals who have extensive experience building and growing business, and held senior management and leadership roles, at major system vendors, storage solution vendors.
+Kenneth Tan
+Executive Director
+Kenneth is responsible for building Sardina Systems as a leader in automated, flexible, efficient, and scalable OpenStack and Kubernetes platform. He has 20+ years of prior experience at CloudFabriQ, BNP Paribas, OptimaNumerics.
+Kenneth holds a Ph.D. in Computer Science from the University of Reading, UK.
+Natallia Kulazhenka
+Product Manager
+Natallia is responsible for Product Management at Sardina Systems, including market research and business analysis.
+Before joining Sardina Systems, she spent 4 years in Project Management, from web development and search engine promotion to digital marketing.
+Natallia holds a Bachelor’s degree in Law from the Belarusian State University of Economics, underscoring her multifaceted expertise.
+Egine Nalbandian
+Marketing Lead
+Egine is responsible for Marketing at Sardina Systems, working on marketing strategies, events executions, community and social media management, collaborations.
+She has 10-year portfolio of expertise in Marketing and Communications with global companies, spanning agency and client sides, in corporations and startups: Heineken, Bacardi, Bugaboo, adidas, Monki, Porsche, INDITEX, Yandex.
+Egine has a bachelor’s degree in History from the National Research University Higher School of Economics (Moscow).
+Yuliya Osadcheva
+Partnerships and associations marketing
+Yuliya fosters partnerships and associations marketing at Sardina Systems, contributing to marketing strategy development, content creation, cross-functional and co-branded projects.
+She has 6 years of experience in strategic B2B partnerships and marketing. Her portfolio includes global Travel tech and Edtech companies and projects spanning NA, EMEA, APAC, and LATAM.
+Yuliya earned her BA in Journalism from Ural Federal University and holds an MSc in Tourism Management from Budapest Business School.
+Dmitry Krasovskyi
+Technical Lead
+Dmitry is responsible for operations aspects of cloud deployments at Sardina Systems. He has 13+ years experience in system operations and network operations in enterprises.
+Dmitry holds a Master’s Degree in Software Engineering from Kharkiv National University of Radio Electronics, Ukraine.
+Konstantin Larin
+Cloud Operations Developer
+Being a Technical Team member, Konstantin Larin is responsible for the range of cloud operations, FishOS deployment and upgrading stages. His previous 11+ years of technical experience lies in virtualisation, automatisation and server hardware optimisation processes.
+Konstantin graduated from ITMO University (Russia) and got a Bachelor’s degree in IT.
+John Higgins CBE
+Chairman
+John joined as Chairman in July 2021. He is President of the BCS, the UK’s Chartered Institute for IT. He chairs the Global Digital Foundation, a think tank, and the advisory board of Eutopia, a European university alliance and is an advisor to the European Commission’s Intelligent Cities Challenge. He was previously the Director General of DigitalEurope, the tech industry association in Brussels.
+Matthias Mueller
+Non-Executive Director
+Matthias represents the interests of Deepbridge Capital at Sardina. He has more than 20 years of experience in the IT sector and innovative technology engineering. Matthias is a Senior Technical Adviser at Deepbridge.
+Matthias holds a Masters in Mechanical Engineering from the Technology University in Munich, and a degree in Computer Science from Trinity College, Dublin.
+Rod Evans
+Advisor
+Rod is an Advisor to Sardina Systems. Rod is currently EMEA Director – High Performance Computing & AI at NVIDIA. He was previously senior management roles at Intel, SGI, Rackable Systems, Copan, EMC, Amdahl and ICL.
+Rod holds a BSc in Economics and Geography from Queen Mary University of London, UK.
+John Parkinson
+John is an Advisor to Sardina Systems. John has 40+ years senior management and leadership experience in large scale systems, previously with SGI, Apollo, OptimaNumerics, CloudFabriQ.
+John holds a PhD in Numerical Computations from the University of Leeds, UK.

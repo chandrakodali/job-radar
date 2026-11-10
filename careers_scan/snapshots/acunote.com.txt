@@ -1,0 +1,180 @@
+Login
+Home
+How It Works
+Plans and Prices
+Company
+About Us
+Jobs
+Contact Us
+We are Hiring
+Senior Software Engineer — Ruby on Rails/Unix
+Front-End Web Developer — Usability, HTML, JavaScript, CSS, Ruby on Rails
+QA Engineer — Ruby on Rails/Unix
+VP of Marketing — Online Marketing
+We are looking for an exceptional software engineer to join our team
+building hosted web application using Ruby on Rails. We don't
+necessarily expect prior Rails experience, but we want to see an
+impressive software development background, strong motivation and the
+desire to learn. We consider specific prior knowledge and skills
+secondary to the ability to get things done, intelligence, motivation
+and experience.
+The ideal candidate will be a generalist, with experience developing
+both large systems (e.g. operating systems, databases, applications
+servers, compilers, large-scale enterprise software) and application
+software. Experience with UNIX is a must. Experience with web
+applications and databases is extremely helpful. Ruby/Rails
+experience would be great.
+Pluron, Inc is the maker of Acunote , online
+project management software for Agile development. We are based in
+Foster City, CA. This job is with our R&D group in Ukraine (Kiev and
+Nikolayev), but we will consider qualified candidates elsewhere.
+Qualifications (several are desirable, NOT all are required)
+Domain Knowledge:
+Experience developing web applications and understanding of the underlying technologies (e.g. HTTP, SSL, tcp)
+Experience with Ruby on Rails stack
+Experience with HTML, CSS and JavaScript/AJAX
+Extensive experience with relational data modeling, SQL, and other database technologies
+Experience with web services
+General:
+Exceptional problem solving skills
+Good English
+Active participation in open-source projects, mailing lists, blogs
+Good writing skills
+Background/Software Engineering:
+Computer Science or related degree
+Expert knowledge and extensive experience with C and C++
+Mastery of some number of interesting languages (e.g. Lisp, Smalltalk, OCaml, Haskell, Perl, Python, Ruby)
+Commitment to creating modular, loosely coupled designs and writing easily understandable, documented, maintainable code
+Affinity for automated test coverage, unit testing, test-driven
+development, refactoring
+Experience with concurrency and distributed computing
+Experince with regular expressions
+Tools:
+Extensive experience using UNIX both as advanced user and an administrator
+Experience administering Debian Linux, web servers, PostgreSQL, Postfix, Subversion, MediaWiki
+Experience with source control tools, e.g. Subversion, Perforce, Git, ClearCase, CVS
+Ability and desire to automate tasks and create tools
+Mastery of an advanced programmer's editor — Emacs, vi, Eclipse, KDevelop, etc.
+Please send your resume and cover letter as plain text, PDF, or MS
+Word to . Please include your name in
+the Subject of the email.
+We are looking for an exceptional front-end web developer to join our
+team building hosted web application using Ruby on Rails. This is a
+cross-functional role lying between hard-core backend software
+development and web design.
+The ideal candidate will have created multiple good-looking and highly
+usable web applications and web sites. He/she will be a master of
+HTML, CSS, JavaScript/AJAX and will be able to create professional
+interfaces using this medium. He will will be an advocate for the
+user, understanding user's needs and improving usability. He/she will
+understand tradeoffs inherent in web development and will achieve
+appropriate compromise between the looks, functionality and code
+complexity.
+Extensive experience developing interactive web applications
+Mastery of HTML, CSS and JavaScript/AJAX
+Extensive experience with cross-browser issues
+Experience with Prototype, jQuery or other JavaScript libraries
+Ability to create user intefaces that are professional, functional
+and great looking while making appropriate tradeoffs between the
+looks, functionality and code complexity
+Appreciation of usability and functional beauty
+HCI/industrial design/art background
+Experience with several programming languages
+Good UNIX experience
+Experience with graphical editors like Photoshop, Gimp, Adobe Illustrator, Inkscape
+We are looking for an exceptional Quality Assurance engineer to join
+join our team building hosted web application using Ruby on Rails.
+The ideal candidate will have extensive experience doing white-box
+software testing, exploratory and regression testing, test automation.
+The ideal candidate will be a generalist, be intellectually curious
+and interested in building sustainable quality culture in the company.
+Professional experience doing white-box QA in a software company
+Experience testing web applications and understanding of the underlying technologies (e.g. HTTP, SSL, tcp)
+Experience with SQL and other relational database technologies
+Experience with HTML, CSS and JavaScript
+Experience working with development tools, e.g. debuggers, profilers, build systems
+Intellectual curiosity, attention to detail
+Good programming skills
+Experience with scripting languages (Ruby, Perl, Python, etc.)
+Interest in computer security, network security, cryptography
+Experience using UNIX both as advanced user and an administrator
+Experience with test case management tools (e.g. TestDirector, QADirector, QaTraq)
+Experience with test automation tools (e.g. Selenium, SilkTest, Mercury, custom)
+We are looking for an exceptional VP of Marketing to take ownership of
+all our marketing efforts. The ideal candidate will have the right
+combination of drive, intelligence, creativity, experience, and the
+ability to get things done. While prior experience is essential for
+this job, being smart, hungry, and highly productive will count
+greatly.
+This is a high-level job in a startup and will involve both hands-on
+individual contributions and high-level executive responsibilities.
+Both ability to get things done personally and to delegate/outsource
+work are essential, as is knowing when to do which.
+We are looking for a generalist who will be able to scale himself and
+his organization as the company grows.
+Job Duties & Responsibilities
+Serve as a single point of responsibility for all lead generation,
+customer acquisition and retention, from all touchpoints and all the
+way through sales pipeline.
+Take ownership of our public website, drive product positioning,
+marcom, copy creation, maintenance, site design and optimization.
+Take ownership of all online and offline direct marketing, including
+paid and organic search marketing (SEM, Adwords, SEO), email
+marketing, advertising, etc.
+Take ownership of all PR efforts, online and print media relations,
+analyst relations, community development.
+Define and drive implementation of your own metrics and analytics
+necessary to judge performance of the marketing department, and then
+use them to objectively show how your efforts led to increased
+revenue. This is a highly results-driven position.
+May work partially from home.
+Qualifications (desirable, not all are required)
+Extensive experience doing online marketing in a results-driven
+environment.
+Exceptional ability to productively write copy that gets results.
+This job will involve a lot of writing, and managing writers, so it
+should be something you do well and enjoy. Personal blog is a nice
+to have.
+Direct marketing mindset, belief that the job of marketing is to
+make money, and that measuring results is essential to the success.
+Significant practical experience with online marketing tools of the
+trade, including SEM using Google AdWords, on-page and off-page SEO,
+web analytics (e.g. Google Analytics, custom-build and ad-hoc
+systems), competitive analysis (Hitwise, Comscore), email marketing
+systems, affiliate management tools, etc.
+Significant practical experience doing/managing PR efforts, both new
+media (blogs, social news, mailing lists, forums) and traditional
+media (professional journalists, analysts, news releases, trade
+publications). Relevant rolodex is a nice to have.
+Experience marketing SaaS.
+Experience marketing enterprise software.
+Experience with our product area of project management, Agile and development tools would be very helpful.
+Exceptional problem solving skills.
+Power computer user/developer experience is a nice-to-have.
+People and project management experience.
+Both startup and large company experience.
+Please send your resume as plain text, PDF (preferred), or MS
+Keywords: segmentation, paid search, organic search, opt-in email, affiliate management, affiliate marketing, copy-writing, Search Engine Marketing, SEM, PPC, CPA, CPM, CPC, landing pages, banner ads, Google AdWords, YSM, MSN, SEO; closed-loop marketing, analytical marketing, ROI marketing, Scientific Advertising; B2B marketing, Gartner, Forrester, IDC; international marketing; collateral, data sheets, presentations, case studies, testimonials
+Product
+Screencast
+Open Source
+Support
+Blog
+Scrum Software
+Burndown
+Sprints
+Projects
+Bugtracker Integration
+Source Control Integration
+Code Review / Inspection
+Collaboration
+Legal
+DMCA Notification Guidelines
+E-mail
+Phone
+650-227-4953
+Fax
+650-227-4963
+Address
+969-G Edgewater Blvd, #300
+Foster City, CA 94404-3760

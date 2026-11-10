@@ -1,0 +1,34 @@
+Careers @ Omnistrate
+Explore exciting career opportunities and learn more about the Omnistrate team
+About Omnistrate
+Omnistrate is pioneering a fundamentally new category of defining next-gen abstractions for building and operating cloud services in the Cloud.
+As we all know, an increasing number of organizations are adopting the cloud with more and more service offerings moving to Cloud at scale. At Omnistrate, we believe that the complexity of the underlying cloud platform is growing with the increasing number of cloud offerings, multi/poly cloud strategies, regulatory requirements, globalization, and so on.
+At Omnistrate, we're redefining the abstractions of Cloud Computing. Our cloud-native offering is designed to abstract away all the complexities making it simple, fast, and cost-effective for building managed services. With Omnistrate, organizations can create build and manage services and run everywhere in minutes.
+We are building a team of self-motivated people who crave a challenge and feel energized to roll up their sleeves and help realize Omnistrate's enormous potential. Chart your own path and take healthy risks as we solve big problems together. We value having diverse teams and want you to grow as we grow—whether you're just starting out in your career or managing a large team, you'll be amazed at the magnitude of your impact.
+Who we are
+Omnistrate is driven by a shared vision to do better, build better and deliver better. We are about the results, as much as we are about moonshots.
+We are a group of diverse and dynamic innovators brought together by a common vision – going the extra mile to enable our customers to scale faster, automate and revolutionize the way they do business.
+If you share our energy and passion, enjoy breaking barriers, and like to work on the cutting edge of technologies like cloud-native, data-infra, micro-services, you are home at Omnistrate.
+Omnistrate empowers the world's leading enterprises and service providers to put the power of application automation into the hands of the experts actually building, deploying and managing them.
+Working at Omnistrate
+At Omnistrate, coming to work means creating something new and better every day - it's always a team effort, not a competitive playing field.
+No matter which department you work in - from engineering to operations to sales to marketing - you play a key part in a team that helps customers revolutionize their businesses.
+Our employees' energy, expertise, and ingenuity have enabled us to revolutionize the way companies manage and operate their mission-critical applications.
+Become a part of us, foster your creativity, and leave the world in awe
+We’re a small team on a big mission, distributed around the world. Our philosophy is simple — hire a team of diverse, passionate people and foster a culture that empowers you to do your best work.
+Sales Development Representative
+Sales
+India only
+Fuel our outbound pipeline with targeted prospecting and outreach
+Account Executive
+US only
+Own deals end-to-end and scale our go-to-market motion
+Community Evangelist
+Marketing
+US / Remote
+Champion our developer community and showcase how to eliminate custom control plane engineering
+Platform Engineer
+Engineering
+Help customers seamlessly deploy and operate their applications across any operational environment using Omnistrate
+If you are interested, please feel free to reach out to us
+Click Here to Apply

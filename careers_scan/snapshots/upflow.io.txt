@@ -1,0 +1,143 @@
+Financial Relationship Management
+AI-powered AR insights
+for stronger financial
+relationships.
+The platform B2B finance teams need to collect smarter, strengthen cash flow, and get paid faster. With AI agents that work alongside your team.
+Book a demo
+Discover for free
+Trusted by the world's leading B2B finance teams
+Since
+2026
+2022
+2025
+2023
+2024
+85%
+of follow-up emails processed automatically
+Read the story
+68%
+decrease in invoices 31+ days overdue, from Nov 2023 to Nov 2024
+increase in customers signed up to autopay within 2 months (March vs. January 2025) post-migration
+100%
+automated process for dunning reminders, saving countless hours
+15%
+of Veryable’s payment mix is now online (up from 3% in July 2023) via ‘pull’ methods through Upflow
+99%
+Automatic collection (after 18 months)
+75%
+less time spent on cash collection (after 7 months)
+Read all 29 stories
+Explore
+What changes when order-to-cash
+is built around relationships?
+0 1
+0 2
+0 3
+Context
+Outreach adapts to customers in real time.
+Coordination
+Business teams stay aligned on accounts.
+Trust
+The payment experience strengthens the relationship.
+Welcome to (FRM)
+What FRM looks like in action.
+AR insights you can act on
+Instant answers on customer health, cash forecasts, and how you perform against industry benchmarks.
+AR insights to inform your collection strategy via Insights Agent
+Live analysis inside Claude and ChatGPT via Upflow MCP
+Billing cohort-based forecasting for month-by-month inflows
+Role-based dashboards and scheduled reports
+15 (+)
+pre-built analytic widgets
+Explore Insights
+Collections built beyond reminders
+Scalable cash collection agents across channels and teams for faster cash flow and stronger financial relationships.
+Collections Agent for outreach grounded in your AR history
+Autonomy controls for agents from suggestion-only to fully autonomous
+AP Portal Agent for buyer portal submissions, centralized in Upflow
+Multi-channel executions: emails, SMS, calls, letters, tasks
+30 (%)
+Average DSO reduction in 3 months
+Explore Collections
+Payments designed for B2B
+Full control over your payment methods, costs, and mix, with a branded portal that your customers can trust.
+Same-day go-live capability
+Portal integration for your apps and website
+Payment mix optimization and surcharge controls
+Free migration from your legacy processor/gateway
+12 (+)
+Payment methods supported
+Explore Payments
+Cash application you can trust
+Smart reconciliation that applies confident matches, with real-time ERP sync to keep collections moving.
+Cash App Agent for matching complex payments
+Multi-bank transaction aggregation
+Built-in exception workflows
+Real-time ERP sync with full audit trail
+98 (%)
+Auto-match rate
+Explore Cash Application
+Embedded financing
+Immediate access to the cash you're owed, with funds available as soon as invoices are issued.
+Native in-app financing within your AR workflows
+Immediate cash availability on issued invoices
+Transparent pricing with no hidden fees
+Same-day availability of funds
+Coming soon
+Built to work with your existing stack.
+Accounting & ERP Billing Others Communication Advanced Custom Integrations CRM NetSuite Sage Intacct QuickBooks Online Xero Pennylane Rillet Zuora Chargebee Stripe Billing
+SAP S/4Hana ( Coming soon )
+Microsoft Dynamics 365 Business Central ( Coming soon )
+Gmail
+Slack
+Outlook ( Coming soon )
+Upflow API
+MCP Server (Claude, ChatGPT, Copilot)
+Professionnal Services
+Salesforce
+Hubspot
+Accounting & ERP
+NetSuite Sage Intacct QuickBooks Online Xero Pennylane Rillet
+Billing
+Zuora Chargebee Stripe Billing
+CRM
+Salesforce Hubspot
+Communication
+Gmail Slack Outlook ( Coming soon )
+Advanced Custom Integrations
+Upflow API MCP Server (Claude, ChatGPT, Copilot) Professionnal Services
+Integrations
+SAP S/4Hana ( Coming soon ) Microsoft Dynamics 365 Business Central ( Coming soon )
+Plug into your ERP, billing, and CRM systems in minutes. Fast setup, reliable sync, ongoing support.
+Real-time sync
+No-code setup
+Enterprise-grace security
+Don't see your tool?
+Explore all integrations
+Explore API
+Better receivables
+start with better relationships.
+Join the finance teams already collecting smarter and building stronger relationships.
+The teams rewriting how B2B gets paid.
+"Upflow is the best in class AR software on the market. A must have solution for any Finance team seeking to streamline collections and enhance cash flow. I can automate 99% of my collections, granting me countless hours back."
+Jason Lopez
+ex Controller @ Lattice
+"Training time really didn’t exist. I mean, we didn’t even need it. We’ve had a new AR person join since implementing Upflow and they were up and running within hours."
+Evan Riesman
+ex Controller @ Passport
+"Upflow gives us an edge to make the process much easier. Having the right info and KPIs in a single location has been a real game changer for us. Today, healthy cash flow is crucial. Looking back, we are very glad we implemented Upflow when we did."
+Arianna Cesareo
+ex Accounting Manager @ Productboard
+Full AR visibility, free forever.
+Get AR analytics with your live data, benchmarked against best-in-class B2B companies.
+The Financial Relationship Management platform for getting paid on time.
+Ask AI about Upflow
+Product
+Upflow Insights Upflow Collections Upflow Payments Upflow Cash App Upflow Intelligence What's new Integrations Discover Upflow for free Pricing
+Solutions
+Financial Relationship Management Account Receivable Management Account Receivable Automation B2B Payment Software Debt Collection Management
+Resources
+Customer Stories ROI calculator Blog Claude Skills Library Podcast Help Center Security
+Company
+About Us Careers (We're hiring) Brand Our Commitment Contact Us
+This rigorous independent audit certifies that our security controls and processes align with AICPA SOC 2 standards.

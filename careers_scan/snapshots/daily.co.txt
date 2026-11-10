@@ -1,0 +1,25 @@
+[ Join Us ]
+Help us build the next generation of voice, video, and AI
+View opportunities
+Our goal is to build the most high-performance, flexible, robust video platform in the world and make that platform available to every developer and product team.
+Read the blog post
+What we're building
+Daily's APIs and global video infrastructure power the next generation of video and audio experiences across use cases. A developer can drop a fully working video call into any app with just two lines of code or build custom video experiences with our low-level APIs.
+Global infrastructure that can deliver high-quality streams at very low latency to anyone, on any device, anywhere in the world.
+Cross-platform APIs that make hard things easy and really hard things possible remove the pain points of developing multiple operating systems, hardware configurations, and web browsers.
+Leading investors
+Backed by Renegade, Tiger Global, Slack Fund, and Y Combinator.
+$60M raised
+We've raised three rounds to build the future of realtime infrastructure and solutions for every developer.
+Inclusive benefits
+We offer location-equal pay; medical, dental, and vision plans; matching 401k; 4 months of parental leave, and more.
+Experienced leadership
+Daily's leadership team are veteran executives who've built video for decades, scaled remote teams and created a culture of collaboration.
+Remote-first
+We have prioritized teammates over location since we first launched, and intentionally have built a remote culture. (We don't think you can bolt "remote" onto an office!)
+Careers
+Please note we are not actively hiring for roles. But we are always interested in connecting with great people. Follow us on our channels or join our communities:
+Follow us on Twitter
+Connect on LinkedIn
+Join our video community
+Join Pipecat open source community

@@ -1,0 +1,66 @@
+Products
+Compute
+Inference
+Pricing
+Inference Pricing
+Compare Providers
+Pricing Calculator
+LLM Cost Calculator
+Company
+About
+Become a Provider
+More
+Docs
+Blog
+Sign in Start free
+Resilient compute,
+for everyone.
+OpenRelay (also written Open Relay) is a distributed overlay network for GPU inference. We connect consumer GPUs into a fault-tolerant mesh. Nodes can fail: we don't care. Traffic automatically routes around failures. Anyone can join.
+Start deploying Contact us
+overlay_network healthy
+iad1
+Virginia
+92%
+sfo3
+San Francisco
+68%
+ord1
+Chicago
+44%
+ams1
+Amsterdam
+57%
+regions online 4 / 4
+Designed for failure.
+Centralized clouds treat a failed node as an outage. We treat it as a Tuesday. The network expects nodes to drop: and routes around them before you notice.
+scheduler.events live
+node-iad-04
+H100 ×8 serving
+node-iad-09
+H100 ×8 draining
+node-sfo-02
+A100 ×4 serving
+node-ord-07
+RTX 4090 ×2 serving
+! node-iad-09 unreachable
+→ rerouted 312 req to node-iad-04 in 38ms
+Detect
+Health checks flag an unreachable node within milliseconds: no waiting on timeouts.
+Reroute
+In-flight and new requests shift to the nearest healthy GPU automatically.
+Heal
+The failed node drains and rejoins when it recovers. No manual intervention.
+The principles that guide everything we build.
+Fault Tolerance First
+We design for failure. Nodes go down, networks partition: your workloads keep running. Resilience is the default, not a feature.
+Decentralized by Design
+No single datacenter, no single point of failure. Our overlay spans the globe.
+Open Participation
+Anyone can join the network. Have a 4090 sitting idle? Contribute compute and earn.
+Simple Abstractions
+Deploy inference workloads with one API call. We handle routing, failover, and load balancing.
+Join the team.
+We're a small team building the CDN of inference: distributed systems, GPU infrastructure, and developer experience. If routing around failure at global scale sounds like your kind of problem, we'd love to hear from you.
+Full-Stack Software Engineer (Argentina) Infrastructure Engineer (Argentina) Technical Marketer (Argentina) Member of Technical Staff, Inference Member of Technical Staff, Platform Get in touch
+Let's build the future together
+Whether you want to deploy on our network, provide compute, or join our team.

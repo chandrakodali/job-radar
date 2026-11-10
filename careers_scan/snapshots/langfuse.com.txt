@@ -1,0 +1,184 @@
+Langfuse launches AI Gateway · Read more
+Building Langfuse
+Join the team building the leading open-source AI engineering platform, now part of ClickHouse
+Teams building AI applications need to monitor and evaluate them continuously to get them into production and keep improving them. Langfuse is the open-source platform for that workflow. Read about our mission .
+In January 2026, we joined ClickHouse . We still run as our own team.
+If you want to build great developer tools, or get developers to love them, we'd love to hear from you.
+– Marc , Clemens , Max and the Langfuse team
+Why join Langfuse
+We're winning the category through open source
+Langfuse is the most used open-source AI engineering platform , with the largest distribution in our space. See the public metrics .
+Langfuse is the most widely adopted LLM Engineering platform, used by 50,000+ companies , with 37,263 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 of the Fortune 50 and 129 of the Fortune 500 companies.
+AI-native companies and large enterprises
+AI-native companies like Ramp run on Langfuse, and so do very large enterprises. See more companies building with Langfuse .
+Read story
+You own an area, and your work is public
+Engineers own a feature area and stay with it as the team grows. Marketers own launches, events, or a program like Langfuse Academy. The people who build a feature answer users in GitHub Discussions themselves. Because the work is open source, your track record stays public.
+You own it from the customer call to the launch. Here is how that looked for one real feature, the evals revamp:
+Customer. It starts with users telling us in GitHub Discussions that mapping data into evaluators was painful. ( How we work with customers )
+RFC. You write the RFC. The team reviews it async, then we settle the hard questions in one intense session. ( Roadmapping )
+Build. Then you build. A lot. The main PR touched 600 files. ( How we ship )
+Ship. You launch it with the GTM team: changelog , docs and marketing. ( Releases )
+Offsite. Then you meet everyone in person at an offsite in Tokyo or Berlin. ( Remote at Langfuse )
+ClickHouse backs us and stays out of the way
+We set our own roadmap. ClickHouse gives us a global sales team that sells Langfuse and a much larger audience for our launches. The engineers who build the database are one message away.
+Our bet is that ClickHouse will be one of the great infrastructure companies of the AI era, and that joining Langfuse now means being part of that. The database already runs real-time analytics, observability, and AI workloads. Langfuse is how that platform sees what agents do in production. For more background, see below .
+AI-pilled and remote
+Everyone gets a very high AI budget. We build slides with AI, maintain our own coding harness, and almost everyone runs a small army of agents. We have three scheduled meetings a week. Everything else happens in writing (see our principles ).
+What you'll work on
+Each of these projects was usually executed by one person.
+Product engineering
+You own your projects end to end and the product outcome, building whatever it takes, putting the user and the product first, and making smart technical choices.
+Code evaluators
+Deterministic Python or TypeScript checks on observations and experiments.
+Halo
+The assistant inside Langfuse that works across thousands of observations.
+Responsive Timeline
+The trace timeline fits any trace on one screen and zooms like a map.
+Data platform
+You own ingestion, ClickHouse query performance, and the infrastructure behind Langfuse Cloud and self-hosting, at petabyte scale.
+Langfuse v4
+Query every agent step directly, with faster tables and dashboards.
+Full-text search
+ClickHouse search across observation inputs, outputs, and metadata.
+Langfuse Cloud Japan
+A Tokyo region so traces, prompts, and evaluations stay in Japan.
+Marketing and growth
+Our audience is AI engineers, so most of our marketing is material they'd bookmark:
+Developer content, like the changelog , Langfuse Academy , and the docs
+Launches with one owner each, which also go out through ClickHouse's much larger audience
+Product marketing, events and community, and growth
+Open roles
+We are remote-first and hire engineers across Europe and in US-East time zones. Engineering teams are mixed EU/US. Marketing and all other roles hire in Europe and all of the United States. All roles are listed on the ClickHouse careers site. See how we think about pay and perks .
+Team
+Name
+Role
+Social Links
+Marc Klingen
+Co-Founder & CEO
+X , LinkedIn , GitHub
+Max Deichmann
+Co-Founder & CTO
+Clemens Rawert
+Co-Founder
+Marlies Mayerhofer
+Founding Engineer
+Hassieb Pakzad
+Steffen Reuther
+Backend Engineer
+LinkedIn , GitHub
+Jannik Maierhöfer
+Growth Engineer
+Akio Nuernberger
+Enterprise & Partnerships
+X , LinkedIn
+Nimar Blume
+Product Engineer
+Valeriy Meleshkin
+Lotte Verheyden
+Product Marketing Engineer
+Leonard Wolters
+Operations
+Annabell Schäfer
+Tobias Wochinger
+Ben Bachem
+Mark Salpeter
+Niklas Semmler
+Nikita Kabardin
+Frontend Engineer
+Vera Yap
+Recruiting
+Milana Gurbanova
+Integrations Engineer
+Lysander Kiesel
+Hande Kafkas
+Doneyli De Jesus
+Solution Architect
+Muhammad Ali
+Boris Michel
+Tobias Klesel
+Trang Nguyen
+Product Designer
+Jordi Bosch
+Abdallah Othman
+Jesse Lovelace
+LinkedIn
+You?
+Your life's work
+Open Positions
+Team impressions: from start to now
+Langfuse was born
+San Francisco March 2023
+Canal boat ride
+Amsterdam October 2026
+Dinner on the canal
+Team dinner
+Amsterdam September 2026
+Exploring the city
+Working from the AMS office
+First billboard campaign in SF
+San Francisco June 2026
+First onsite week
+Berlin June 2026
+CDTM event
+Munich May 2026
+Shibuya crossing
+Tokyo May 2026
+At ClickHouse offsite
+Night out in Tokyo
+Last night at ClickHouse offsite
+ClickHouse AI team dinner
+Christmas dinner
+Berlin December 2025
+Langfuse offsite
+Portugal July 2025
+Team photo
+Berlin May 2025
+Picnic
+San Francisco October 2024
+Exploring SF
+San Francisco July 2024
+Founders at YC
+Y Combinator April 2023
+Further reading
+ClickHouse
+AI is redrawing the database market
+Tanya Bragin on how AI is changing analytics, warehousing, and observability.
+ClickHouse blog
+Why I joined ClickHouse at a $15B valuation
+Jon Natkins on making that career bet.
+Substack
+ClickHouse raises a $400M Series D
+Led by Dragoneer. The same round acquired Langfuse.
+Langfuse joins ClickHouse
+What stays the same, and why the teams are building together.
+Langfuse blog
+Aaron Katz on 20VC
+ClickHouse's CEO on AI, product, and building the company.
+20VC
+Videos and podcasts
+Real Time: Peter Fenton on founders, open source, and the AI boom
+A Day in the Life of a Technical Support Engineer at Langfuse
+Typescript AI Conf: AI Observability Panel
+Launch Week 4: Demos of new features
+Startup Insider Podcast (🇩🇪 only): our story, how we work, what's next
+Max (CTO) on ClickHouse data model optimizations to make Langfuse work
+Handbook
+We document our principles and processes in public, so you can decide whether you'd enjoy working here.
+Why does Langfuse exist?
+Who are our customers?
+How did we get here?
+Why do customers choose Langfuse?
+Why is Langfuse Open Source?
+How does Langfuse make money?
+Who are we?
+Open source
+Almost everything we do is public:
+GitHub Repositories
+GitHub Discussions
+Documentation
+Roadmap
+Product walkthroughs
+Example project
+Public metrics
+Was this page helpful?

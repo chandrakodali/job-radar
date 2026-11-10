@@ -1,0 +1,83 @@
+people
+4 people
+languages
+39 languages
+win rate over ElevenLabs
+78% win rate over ElevenLabs
+to first audio
+39 ms to first audio
+The labs we are measured against are a thousand times our size. We would like to find out how far four people can get.
+Win rate from our own blind listening test, published with the open model. Latency is inference time to first audio for kugel-3-turbo, under 100 ms end to end on the hosted API.
+Open roles
+None open right now.
+No open roles right now. The form below still reaches us.
+We hire ahead of what we post
+Send us three things you have made that you are proud of. Code is welcome, and so is everything else: a short film, a brand, an event, a website, a campaign, a side project. One paragraph on what you would work on here beats any cover letter.
+We train the model. We do not wrap somebody else’s API.
+We think voice is the most natural interface a person has, so we are building the layer underneath every voice application: the model, the framework, the APIs. Almost every voice-AI job posting you will read this month is a wrapper around an API. Here is what is actually ours.
+The model is ours
+We train it ourselves, on our own hardware, end to end. When quality regresses we bisect a training run, not a vendor’s changelog. Almost nobody at our size does this, and it is what makes everything else here possible.
+The latency
+Thirty-nine milliseconds to first audio, and every millisecond in the path belongs to us: text normalisation, the model, the serving loop, the transport. There is no layer where the answer is “that’s the provider’s problem”.
+The hard part nobody demos
+IBANs. Email addresses. Product names. Bavarian German, Northern Irish English, Yemeni Arabic. This company exists because enterprises told us the incumbents mispronounce their own product names, and their legal team would not sign the DPA anyway. Both halves of that sentence are a roadmap.
+Shipping into someone else’s cluster
+Our model runs on-premise, in customers’ own Kubernetes, where we cannot log in to fix it. That constraint is why regulated European buyers pick us, and it makes every engineering decision harder and more interesting.
+The day the espresso machine arrived.
+How we work
+You ship in week one.
+Not a tutorial task. Something a customer hits. At four people there is no bench to warm.
+Whoever notices, owns it.
+No tickets thrown over a wall, because there is no wall. You will be in the training code, a Helm chart and the onboarding copy in the same week. The instinct we hire for is “this is mine, I will figure it out”.
+Measured, not believed.
+Every quality claim has a benchmark behind it before it reaches a slide. We published the listening test that ranks us, including the runs where we lose.
+Write it down.
+Decisions live in the repo, not in someone’s head. This is what lets four people move like more than four.
+Boring where it counts.
+Audit trails, retention rules, data residency. Not overhead here, it is the product. We are deliberately unexciting about other people’s data.
+Four people, so far
+There is no management layer between you and the model, and no decision you are too junior to be in the room for. That is not a perk we are offering, it is arithmetic.
+Kajo Kratzenstein
+Co-founder
+Spent two years researching text-to-speech at the Hasso-Plattner-Institut and built the model that became Kugel. Before that, shipped a production aneurysm-detection model at Floy.
+Viktor Presber
+Co-founder, go-to-market and product
+Took full-house.io to $300K ARR in six months with Siemens Energy, Hitachi Rail and Barilla.
+Studied advertising in Texas and Commercial Film Producing at the Filmakademie Baden-Württemberg, ran his own film production company, then dropped it and moved to Berlin. Speaks four languages.
+Alexander Netz
+Founding engineer
+Built and ran two companies of his own before this one, as founder and as CTO.
+Competed as a professional modern pentathlete for the German federation for four years.
+Lukas Dorna
+Founders’ associate
+Whatever is most on fire that week: pipeline, operations, and the things that do not have an owner yet.
+Saw startups from the investor side at Project A, First Momentum and seed + speed before deciding he would rather build inside one.
+Y Combinator, Spring 2026.
+Compensation
+Salary bands are on every posting. You never have to ask first.
+Equity in every offer.
+The hardware you ask for, and GPUs when the work needs them.
+An office on Rosenthaler Straße in Mitte, and an espresso machine we take personally.
+Where the four desks are.
+How we hire
+On AI tools
+Use them. We do, all day. We care what you ship and whether you can explain every line of it, not whether you typed it.
+What we optimise for
+What you have demonstrably built. Not the university, not the years, not the logo. You do not have to arrive finished either: taste, drive and how fast you learn count for more than a complete skill list, and we will help with the rest.
+Questions
+Do I need to speak German?
+We work in English, and most roles do not need German at all. Content and go-to-market roles are the exception, because a good part of our founder content is in German: those postings say so, and they mean C2 level, written and spoken.
+Do you take working students?
+No. At four people every role has to own something end to end, and that is not a fair thing to ask of someone who is also studying full-time. If that changes we will post the role here rather than take speculative applications for it.
+Do I need speech or audio ML experience?
+No, for most roles. We need people who are good at systems and fast at learning a domain. Tell us in your application what you would need to learn.
+I applied before. Can I apply again?
+Yes. Tell us what changed.
+What happens to my application?
+A founder reads it, not a filter. It is stored in our applicant tracking system, kept for six months and then deleted. Email us any time and we will delete it sooner, no reason needed.
+We will never ask you for money
+We only write from @kugelaudio.com, never ask for payment, equipment or bank details while hiring, and never interview over text-only chat. If something claiming to be us looks off, email security@kugelaudio.com.
+Need an adjustment to the process?
+Email jobs@kugelaudio.com and we will arrange it. It has no bearing on the decision.
+Your data
+We keep applications for six months, then delete them. You can ask us to delete yours sooner at any time.

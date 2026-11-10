@@ -1,0 +1,34 @@
+Build the Future of Data Extraction
+Help us make Maxun the most accessible web data extraction platform in the world.
+Open Roles
+Software Engineer — AI & Web Data (Remote)
+We're looking for a Software Engineer to help us build the next generation of AI-powered web data infrastructure. You'll work on web scraping, browser automation, AI agents, and the systems that make it possible for AI to reliably understand and interact with the web.
+You'll work closely with the founder across the stack — from browser automation and web extraction to AI-powered workflows, agents, APIs, and open-source developer tooling.
+What You'll Do
+Build and improve web scraping, crawling, and browser automation systems using tools like Playwright.
+Build AI-powered agents and workflows that can navigate, understand, and extract data from the web.
+Work with LLMs, tool calling, structured outputs, and agentic workflows to make web automation more reliable.
+Build APIs, SDKs, and developer tools that make web data accessible to applications and AI systems.
+Solve challenging problems around dynamic websites, anti-bot systems, authentication, browser sessions, and reliable data extraction.
+Contribute to and help shape Maxun's open-source platform.
+What We're Looking For
+Strong programming skills in JavaScript/TypeScript and Node.js.
+Experience building APIs, backend systems, or developer tools.
+Familiarity with browser automation or web scraping tools such as Playwright is a strong plus.
+Interest in LLMs, AI agents, and the rapidly evolving AI developer ecosystem.
+Comfortable learning unfamiliar systems and working on problems where there isn't an obvious solution.
+Strong debugging and problem-solving skills.
+What We Value
+We care more about what you can build than your degree or years of experience.
+You enjoy working close to the bleeding edge of AI, agents, and developer infrastructure.
+You like understanding how things work under the hood and aren't afraid to dive into difficult technical problems.
+You can work independently and take ownership from idea through implementation.
+You're excited about open source and building tools that other developers can actually use.
+Bonus Points
+Experience with Playwright, Puppeteer, browser automation, or web scraping.
+Experience building LLM applications, AI agents, or tool-calling systems.
+Experience with MCP, agent frameworks, or AI coding tools.
+Contributions to open-source projects.
+Experience using Maxun or other web data / scraping tools in production.
+How to Apply
+Email us with your proof of work (GitHub, projects, open-source contributions, or anything else you've built) at karishma@maxun.dev

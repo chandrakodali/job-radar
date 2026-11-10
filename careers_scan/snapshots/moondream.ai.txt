@@ -1,0 +1,17 @@
+Careers
+Moondream delivers frontier vision models fast enough to process every frame of video and every image in your archive, in realtime and at scale. A lot of things that look impossible under today's GPU budgets become straightforward software problems when vision is no longer the bottleneck.
+We're based in San Francisco, and we're hiring people who want to build the infrastructure for what comes next.
+Open Positions
+Research Engineer
+San Francisco, CA · Full-time
+Inference Engineer
+Backend Engineer
+Product Designer
+Head of Developer Relations
+Frontend Engineer
+Account Executive
+Solutions Engineer
+Head of Marketing
+Customer Success Manager
+Business Development Representative
+Head of Operations

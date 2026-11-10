@@ -1,0 +1,12 @@
+L a u n c h i n g t h e o p e n - s o u r c e g a t e w a y
+Join us to build what AI runs on
+We're a 10-person team building the next generation agent infra stack. We care about craft and move fast.
+See open roles on YC About us
+How we work
+We're building developer tools at one of the most interesting moments in computing history. LLMs are changing how software is built, and the teams that ship AI in production need a whole new class of tooling.
+We're a small team - every person has outsized impact. We ship weekly, talk to customers constantly, and have the tight feedback loops of an early-stage company with the stability of a product that hundreds of teams depend on every day.
+We work 7 days a week and most of the team live together in hacker houses in Alameda. We're only looking for people who are genuinely excited about the grind - building something great requires that level of intensity, and we wouldn't have it any other way. We're creating something special here, and we're excited to build it with you.
+Open roles
+All open roles, descriptions, and applications live on our Y Combinator company page.
+View open roles on YC ->
+Don't see a role that fits? Send us a note at careers@respan.ai - we hire for exceptional people first.

@@ -1,0 +1,160 @@
+Automate any finance job in plain English
+Describe any finance job and Modern builds it, then shows you the finished work: the forecast, the journal, the reconciliation, the emails.
+Your automation
+Example run
+13-week cash forecast, every Monday
+Every Monday at 7:00
+Forecast, weeks 1 to 6 of 13
+Buffer $250,000
+Week of
+Oct 26
+Nov 2
+Nov 9
+Nov 16
+Nov 23
+Nov 30
+Opening cash
+412,000
+450,200
+310,700
+394,200
+219,300
+343,100
+Receipts
+186,400
+92,300
+204,900
+88,600
+241,700
+156,200
+Payments
+148,200
+231,800
+121,400
+263,500
+117,900
+129,800
+Closing cash
+369,500
+Week 4 dips to $219,300, under your buffer: payroll and rent land the same week. Acme usually pays 12 days late, so Modern has its $64,000 in week 5, not week 3.
+How Modern runs it
+1 Read Xero and bank
+2 Apply payment habits
+3 Flag low weeks
+4 You approve
+Modern remembers
+Every run teaches Modern your business. These made this forecast sharper.
+Acme pays 12 days late From your AR reconciliations
+Stripe fees: 2.9% + 30¢ From your Stripe payout rec
+Payroll: every 2nd Thursday From your bank rec
+Templates
+Start from a finance automation template
+41 templates for accounts receivable, payables, reconciliation, close, payroll and billing. Pick one, change anything in plain English, then switch it on.
+Replaces Dext
+When a bill lands in accounts@
+Accounts payable
+File supplier bills from your inbox into Xero
+Reads every bill sent to accounts@, codes it, checks for duplicates and drafts it in Xero for your approval.
+5 steps Use template →
+Replaces Chaser
+Weekdays at 9:00
+Accounts receivable
+Chase overdue invoices on a cadence
+Sends reminders at 1, 7 and 14 days overdue from your own inbox, reads replies and stops chasing as soon as the invoice is paid.
+Daily at 7:00
+Match customer payments to open invoices
+Matches every incoming bank payment to open NetSuite invoices, including part payments, and records them once you approve.
+Replaces Syft Analytics
+Mondays at 8:00
+Send a weekly aged receivables report
+Every Monday, pulls aged receivables from Xero, explains what changed and posts a summary with the top overdue accounts to Slack.
+Daily at 6:00
+Reconciliation
+Propose bank reconciliation matches daily
+Matches each bank transaction to NetSuite entries every morning, explains each match and leaves only true exceptions for review.
+Monthly, working day 3
+Reconcile intercompany balances at month end
+Compares intercompany balances across every NetSuite subsidiary on working day 3, explains differences and builds the rec in Excel.
+Replaces Fathom
+Working day 8
+Reporting and close
+Build the month-end management pack
+Pulls the P&L, balance sheet and cash flow from Xero, fills your Excel pack and drafts commentary for the finance lead to review.
+20th of the month
+Payroll and HR
+Check payroll before it is approved
+Compares the draft Workday pay run with last month, flags unusual changes, starters and leavers, and posts findings to Slack.
+Replaces Zapier
+When a deal closes
+Billing
+Invoice deals the moment they close
+Turns each closed HubSpot deal into a draft QuickBooks invoice with the right customer, products, prices and terms.
+View all 41 templates
+Send reminders before invoices fall due
+Log promises to pay from customer replies
+Follow up when a promise to pay is missed
+Apply remittance advice to invoices
+Forecast cash receipts for the next 13 weeks
+Split Stripe payouts into charges and fees
+Raise credit notes from approved requests
+Flag duplicate bills before they are paid
+Match bills to purchase orders and receipts
+Acknowledge supplier invoices and queries
+Chase missing receipts for card spend
+Set up new suppliers from their forms
+Check supplier bank detail changes for fraud
+Prepare the weekly supplier payment run
+Recharge intercompany costs automatically
+Reconcile Shopify payouts to the bank
+Reconcile the payroll journal to the ledger
+Identify unknown deposits in the bank
+Match card statements to QuickBooks
+Write budget versus actual commentary
+Post overhead allocation journals
+Post accruals and release prepayments
+Post recurring month-end journals
+Clean up stale and open purchase orders
+Build the month-end evidence pack
+Ask your ledger questions in Slack
+Keep HR records in sync with Xero Payroll
+Reconcile leave balances with payroll
+Check new starters are ready for payroll
+Raise recurring invoices from contracts
+Bill customers for usage each month
+Alert the team before renewals and milestones
+How it works
+From one sentence to a running automation
+1. Describe it
+Tell Modern the job the way you would tell a new hire. It picks the trigger, the steps and the apps, and you can change any of it in plain English.
+2. Review it
+Run a test with every outside write held back. Choose what needs your sign-off, like anything over $10,000 or any new supplier.
+3. It runs
+Modern runs the job on schedule or when the trigger fires. Every run has a full history, so your team and your auditors can see what happened.
+Controls
+Automations that stick to your rules
+Every automation runs inside your permissions, asks before it acts where you want it to, and leaves a run history you can check.
+Asks before it acts
+Test runs hold back writes
+Versioned and reversible
+Runs inside your permissions
+Full run history
+Pause any automation
+Audit trail on every action
+Role-based access control
+Encrypted end to end
+FAQs
+Frequently
+Asked Questions
+Can’t find what you’re looking for? Send us a message and a person on the team will answer.
+Any finance job you can describe: chasing invoices, filing bills, reconciling bank and Stripe payouts, intercompany, month-end packs, payroll checks and invoicing from your CRM. If it runs on a schedule or starts from an event in one of your apps, Modern can run it.
+Xero, QuickBooks, NetSuite, Sage, MYOB, SAP and Microsoft Dynamics, plus Gmail, Outlook, Slack, Teams, HubSpot, Salesforce, Stripe, Shopify and hundreds more. Modern can also connect to a custom API with a key.
+Describe the job in plain English or start from a template. Modern drafts the trigger, steps and approvals. You run a test with every outside write held back, then publish it.
+Only if you let it. You choose what needs a sign-off, like anything sent to a customer, anything over a set amount or anything written to your ledger. Every run is logged.
+Often, yes. Credit control, bill capture, reporting and glue tools like Zapier mostly run jobs Modern can run as automations. Our stack audit shows what you could cancel and what you would save.
+Your next step
+Ready to hand Modern its first job?
+Pick a template or describe a job, and we will set it up with you on a call.
+Built on your own systems
+Test runs before anything goes live
+Live in days, with cash flowing
+Get a demo

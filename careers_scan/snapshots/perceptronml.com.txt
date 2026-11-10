@@ -1,0 +1,39 @@
+Y Backed by Y Combinator
+AI software built for your law firm .
+We design and build bespoke AI systems for law firms, trained on your matters and deployed in your environment. Intake, discovery, drafting, and research, grounded in verified sources so the work holds up.
+Book a call →
+See what we build →
+Legal AI that actually works. Because it is built around your firm, not sold off a shelf.
+What we build
+Software shaped to your practice.
+Not another chatbot bolted onto your browser. We build custom systems around how your firm actually works. A few of the things we can build:
+AI timekeeping
+Capture billable hours automatically from your calendar, documents, and email. No more reconstructing your week from memory on Friday afternoon.
+Client acquisition and monitoring
+Watch dockets, filings, and news for the signals that matter to your practice. Standing alerts surface opportunities before competitors do.
+Research that actually works
+Grounded in primary law and your firm's own matter files, with citations you can open and check. Answers you can confidently put your name on.
+Discovery and drafting
+Review thousands of documents in hours instead of weeks, and draft motions and letters from your firm's own templates, in your firm's voice.
+Why it holds up
+Grounded, not guessing.
+Every system we ship runs on our grounding engine. Every fact is derived from a primary source and checked before a model is allowed to use it, so answers arrive with citations, not confidence.
+Motion_to_exclude_expert_draft.docx
+Expert testimony is admissible only where it rests on a reliable foundation and is relevant to the issues in dispute. Daubert v. Merrell Dow Pharms., Inc., 509 U.S. 579, 589 (1993) .
+That gatekeeping duty is not limited to scientific evidence; it extends to technical and other specialized knowledge. Kumho Tire Co. v. Carmichael, 526 U.S. 137, 141 (1999) .
+Exclusion is proper where the "analytical gap" between the data and the opinion offered is simply too great. Gen. Elec. Co. v. Joiner, 522 U.S. 136, 146 (1997) .
+Citations verified
+Daubert is a real case and supports the standard as stated 509 U.S. 579, 589 (1993), reporter checked
+Kumho Tire extends gatekeeping to technical experts as cited 526 U.S. 137, 141 (1999), holding confirmed
+Quoted "analytical gap" language appears in Joiner verbatim 522 U.S. 136, 146 (1997), quotation matched
+Confidentiality
+Your matters never leave your control.
+Client confidence is the product. We build for it from the first line of code, not as a checkbox at the end.
+Deployed in your environment
+Your systems run inside your walls, on infrastructure you control. Client data stays where your obligations say it must.
+No shared training
+Your work product never trains anyone else's model. What we build from your matters belongs to your firm, full stop.
+Auditable by design
+Every answer traces to a source you can open. When a partner asks where a fact came from, the system shows its work.
+Let's build your firm's AI.
+Tell us what slows your firm down. We will show you what is possible, and what it takes to ship it.

@@ -1,0 +1,35 @@
+Writer
+Chat
+Citizen
+Sign Up
+Log in
+Careers
+"Abel is helping victims of crime by empowering law enforcement professionals. Our first product is Writer, which creates draft police reports for officers from their body camera footage and dispatch system data.
+I was motivated to build Abel after helping a close friend escape a domestic violence situation. Her husband found out where she was living and came to her home to threaten her. It took the police forty-five minutes to arrive. This seemed to me profoundly suboptimal and not acceptable as the status quo. After researching policing I discovered the statistic that police officers spend one third of their time on paperwork.
+It then became my goal to do whatever must be done to drive that number asymptotically close to zero. So I started Abel.
+Of course, I can’t do it alone. I’m an engineer and I built our demo and much of our core model but I have since hired four engineers to help. Our current product needs a lot of work, but as we developed it we have also come to see that we are in an industry with seemingly endless plains of product space mostly untouched by really great technologists. So we have many other things we want to build."
+Daniel Francis
+Chief Executive Officer
+Abel Police
+About Abel
+Abel is a police technology company providing innovative solutions to law enforcement agencies.
+We're building software that directly impacts the effectiveness of police officers in the field. Our mission is to reshape public safety and save American cities – which means our work needs to be exceptionally reliable and intuitive to use.
+Open Roles
+Business Operations Manager
+Senior Engineer
+Open application: We are always looking for exceptional SWE talent, particularly for backend
+What we offer
+Competitive salary and benefits
+Professional development opportunities
+Meaningful work supporting law enforcement agencies
+Collaborative and fun team environment
+We're a small team tackling complex problems that require careful attention to both technical reliability and user experience. You'll be a first ten hire, shaping product strategy and defining core user experiences.
+Interview Process
+Screening (show us what you have made, tech talk)
+Conversation with the CEO, Daniel Francis.
+Take-home assignment (if applicable)
+If there's alignment, we'll invite you to work with us for one or two paid days ($500/day) on real projects. No contrived coding challenges – just actual work together to see if we're a good fit.
+Contact
+careers@abelpolice.com
+Terms
+Blog

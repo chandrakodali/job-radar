@@ -1,0 +1,14 @@
+Jobs at Wanderlog
+Warning: we’ve gotten some reports of scammers impersonating Wanderlog to advertise a crypto-related job. We will never ask you deposit any money or crypto as a condition of interviewing with or working with us! Please stay safe and see the FBI’s page about this type of scam for more details.
+Wanderlog is building tools to make leisure travel easier. We believe that travel makes us and the world better, and are trying to lower the bar to it. Our product so far is a Google Docs for planning travel and sharing recommendations.
+We’ve raised funding from Y Combinator , an incubator that has funded travel startups such as AirBnB and Hipmunk.
+The Wanderlog team in October, 2021
+We love traveling. Whether it’s a short hop to Austin, Seattle, or New Orleans; or a longer jaunt to Australia, Hawaii, or Banff National Park (all places the team’s traveled to in the past year!), travel broadens our horizons, builds empathy, and challenges us to grow. We’re working to bring these experiences to more of the world.
+What’s it like to work at Wanderlog?
+We’re an engineering and product-heavy team. A typical week’s work involves talking to users, prioritizing tasks on a kanban, designing on Figma, and building and shipping continuously. Harry and I have worked at Stripe, McKinsey, and Google and studied Computer Science at Yale, and at Wanderlog, we try to take the best parts of each of the places we’ve been and bring them together.
+We believe in work-life balance. We work regular hours, take time off as a team to eat lunch together (and even cook!) when in person, exercise, and enjoy time with friends and family. We love travel and believe it rejuvenates us and makes us better people, and have semiannual offsites where the goal is to just enjoy visiting a new place and use the tools we’ve built.
+If you enjoy travel, and would love to make it easier for the rest of the world to do it, send us a note at founders@wanderlog.com ! We’d love for you to join our team.
+– Harry and Peter, cofounders
+Who are we hiring?
+Full-Stack Engineer
+Interested in applying? Go to the individual job pages and follow the instructions there!

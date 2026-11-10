@@ -1,0 +1,41 @@
+Join our Community Call: Ephemeral Graphs on Demand: Meshtastic Mesh Topology With ClickHouse and Memgraph →
+Get a demo
+Get started
+Careers
+Help us build the future of graph computation
+We can't get there alone. Take a look at the jobs below to see if we're a good match.
+100% Remote
+Simply put, everyone is remote. And it works.
+International team
+Our base is in Europe, but our team is distributed worldwide.
+Venture-backed
+by M12 Microsoft's Venture Fund and HeavyBit.
+If you love solving intricate problems You'll love it here
+The only catch: You'll need to spend 30 minutes explaining graph computation to your family. We are building an end-to-end platform designed to solve complex graph problems in real-time. This lets developers connect data sources, use graph algorithms, extract insights, and build apps on them.
+Learn more about us
+The interview process is remote and it works really well
+We use Google Meet for video calls, and we got used to having video calls from kitchens, living rooms, or home offices. We tend to follow the same process for both engineering and non-engineering roles.
+Benefits
+Empowering you to work your best work from anywhere
+Flexibility
+Over where, when, and the hours you work. Structure your day around your life, not the other way around, wherever you do your best thinking.
+Health and wellbeing
+Benefits, and hassle-free administration. We cover the essentials so you can focus on staying healthy, not paperwork.
+Home-office and team benefits
+Funds to equip you with the right tools. From your desk setup to team gatherings, we invest in what helps you work and connect well.
+Open positions
+Please remember to submit your applications in English. It helps us get to know you better!
+Don't see the right position for you at this moment?
+Apply through Open Applications and the team will keep you in mind for future openings.
+Apply now Request 30-day trial
+Product
+Database Tools & integrations Lab Vector search Zero ETL
+Compare
+vs Neo4j vs ArangoDB vs FalkorDB vs Amazon Neptune
+Enterprise
+Overview AI Platform Pricing Partners Support Legal 30-day trial
+Resources
+Docs Use Cases Blog On demand GraphRAG demo Office hours
+Company
+About us Careers Media Contact us
+Terms & Privacy

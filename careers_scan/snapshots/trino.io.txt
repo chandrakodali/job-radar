@@ -1,0 +1,44 @@
+Trino community chat
+The community is very active and helpful on Slack,
+with users and developers from all around the world.
+If you need help using or running Trino, this is the place to ask.
+Join us on Slack
+In addition, numerous other community resources are
+available for help.
+User-related channels
+#announcements -
+announcements about new releases, events, and more
+#beginner - post when you
+don’t know where to ask a question
+#troubleshooting - need help?
+#kubernetes - container
+images and deployment with the Helm chart on Kubernetes
+#python-client - anything
+related to Python-based client applications and tools
+#documentation - discuss
+Trino documentation
+Language-specific channels
+A number of channels are available for users who prefer to communicate in their
+respective language, or to discuss regional topics around Trino.
+#general-cn - Chinese
+#general-de - German
+#general-jp - Japanese
+#general-ko - Korean
+Trino development channels
+#dev - general discussion
+about the Trino codebase, development, and developing extensions, specifically
+in your own forks or custom plugins
+#core-dev - deeply
+technical discussion about ongoing or planned development of the Trino
+codebase in the Trino project itself
+#triage - discussions and
+coordination about new issues and PRs from the community
+#github - feed of activity
+on GitHub
+#releases - notices about
+upcoming releases
+Guidelines
+Don’t wake everyone up! The @all , @here and @channel should be used
+rarely. Members receive notifications from these commands.
+Avoid posting the same question to multiple slack channels, GitHub issues, or
+mailing list.

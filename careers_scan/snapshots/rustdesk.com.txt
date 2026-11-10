@@ -1,0 +1,5 @@
+New RustDesk 1.5.0: WebRTC Direct Connections and QoS Improvements »
+Careers
+Current Job Openings
+We are not currently hiring, but please check back later.
+Meanwhile, feel free to contribute to our open-source repository and collaborate with us there!

@@ -1,0 +1,22 @@
+Career
+Building SuperPlane
+An open-source software factory. Built by people who care about the work.
+We’re building a way for engineering teams to hand routine work to AI agents with the rules, checks and visibility they need to trust the result.
+Our founders spent more than two decades building developer tools together, including Semaphore. Today, we’re a small team working in the open, learning alongside developers and bringing that experience to SuperPlane.
+Meet the team
+Team impressions: from start to now
+From conversations to conferences. A few moments along the way.
+The Software Factory with Elastic
+New York September 2026
+LDX3 Conference
+London September 2026
+Meetups in London and New York
+London & New York July 2026
+Bash Script Funeral Hackathon
+New York July 2026
+Agents Unconf
+San Francisco March 2026
+Daytona Compute conference
+Curious to build with us?
+Good developer tools start with people who care. Get to know the team, share what you’re working on or help shape SuperPlane through an open-source contribution.
+We’re not hiring right now Join our Discord community Contribute on GitHub

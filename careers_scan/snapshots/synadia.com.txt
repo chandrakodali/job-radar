@@ -1,0 +1,50 @@
+On-demand workshops: Disaster recovery with NATS JetStream
+Adding an enterprise backbone above MQTT
+Leaving TIBCO or Solace for NATS
+Build the future of
+connectivity
+At Synadia we are pioneering a new way for digital systems to connect
+and communicate. Whether between cloud providers, on-premise, or edge,
+securely, in real-time, and in any environment.
+View open roles
+Our core values
+Accountability
+We honor our word and our commitments.
+Collaboration
+We are stronger together.
+Integrity
+We do the right thing, always.
+Customer Centricity
+We know our success is entirely dependent on our customers success.
+Impactful
+We think big and don’t shy away from hard problems.
+Deliver Excellence
+We set a high bar and continuously improve.
+Work happier with us
+Healthcare
+US employees enjoy 100% paid premiums & comprehensive medical, dental & vision insurance for you and your dependents.
+Work Remotely
+Enjoy working remotely full-time. Yay, no commuting!
+Equity
+We are all in this together. You will have a stake in the future success of our company.
+Time Off
+Paid holidays and flexible time off when you need to recharge + generous paid family leave.
+No Meeting Days
+We value the importance of uninterrupted time during the work week and we plan for it - you can choose to use this time to work, play or relax.
+Growth
+We’re solving hard problems and are interested in investing in the careers of passionate innovators who don't shy away from a challenge.
+Join our team
+Product Marketing Manager Remote
+View job
+Have a question? We can help.
+Talk to our team of experts to answer your questions.
+Contact us
+Products Synadia Cloud Synadia Platform Synadia Deploy for Kubernetes Synadia Insights Synadia Protect
+Resources All resources Blog Docs Videos Newsletter Synadia Education Workshops RethinkConn 2026 Living on the Edge NATS vs Kafka NATS vs Kinesis NATS vs MQTT
+Company About Brand Customers Contact Careers Press
+Legal Terms Privacy DPA Subprocessors Support Lifecycle Trust Center
+Get the NATS Newsletter
+News and content from across the community
+Open in ChatGPT Open in Claude Open in Cursor Open in Perplexity
+X YouTube LinkedIn Slack GitHub
+Cancel

@@ -1,0 +1,12 @@
+Careers at CueBench
+We’re a small early-stage YC backed startup that solves hard problems at the edge of what agents can do.
+Who we’re looking for
+We hire industry specialists that are high agency and quick learners. We value an open-mind and a strong background.
+Research Engineers
+Life Science Specialists
+Inference Engineers
+Full-Stack Engineers
+Don’t see your exact role? If you’re strong and excited about this space, reach out anyway.
+How to apply
+Email careers@cuebench.dev with a short note on what you’ve built and a link to your work (GitHub, a project, a paper — whatever shows it best). No cover letter needed.
+CueBench · Backed by Y Combinator

@@ -1,0 +1,57 @@
+VISIBL SEMICONDUCTORS TM Backed by Combinator
+San Francisco, CA --:--:-- -- PT
+Join
+Our technical team is led by engineers with chip-design experience at Microsoft, Intel, and Arm. We’re making custom silicon accessible to more hardware companies.
+Explore careers
+Jobs
+We build custom silicon for power electronics. Our work connects chip architecture, RTL design and verification, analog and mixed-signal engineering, and software that makes development faster.
+We believe custom silicon should be accessible to every hardware company. Join us in making better chips a practical option for more products.
+Open positions
+Our values
+Start with the product
+Understand the hardware, the constraints, and what a better chip needs to achieve. Build around the customer’s system rather than a catalog part.
+Reason from the fundamentals
+Make architecture decisions with a clear understanding of timing, area, power, and verification. Follow the details until the design makes sense.
+Work as one team
+Bring design, verification, software, and manufacturing into the same conversation. Share what you learn and make room for better ideas.
+Build work that holds up
+Write clear RTL, build rigorous verification, and make engineering decisions that carry through to real silicon. Quality is part of the process.
+Team
+Our technical leaders bring chip-design experience from Microsoft, Intel, and Arm. We bring hardware engineering, software, and automation together to help hardware companies move from product requirements to custom silicon.
+Bryce Neil
+Jordon Kashanchi, M.S.
+Nipun Kaushik, Ph.D.
+Co-founder and CEO
+Leads business operations, go-to-market, and company strategy at Visibl. A computer engineer and former member of Deloitte’s OmniaAI team, Bryce brings experience across software and product development. He cofounded Visibl to make custom silicon accessible to hardware companies.
+Co-founder and CTO
+Brings chip-design experience from Microsoft, Intel, and Arm, spanning AI accelerators, autonomous vehicle hardware, and graphics. Holds an M.S. in Electrical and Computer Engineering from the University of Texas at Austin. Connects hardware development with the software tools behind Visibl’s approach to building silicon.
+Lead Analog & Mixed-Signal IC Designer
+Holds a Ph.D. from Oklahoma State University, with research focused on power side-channel attack detection and secure analog-to-digital conversion circuits. Brings silicon-design experience from Microsoft’s Advanced Sensor Technology Group, where he evaluated noise in advanced image sensors.
+Our process
+Apply through the relevant role page .
+First conversation with Bryce
+Discuss your experience, availability and the role or contract scope that fits with our CEO.
+Technical discussion with Nipun
+Discuss relevant work, engineering decisions and collaboration with our analog lead, with a qualified specialist where needed. Use non-confidential examples.
+Final conversation with Bryce
+Resolve remaining questions and agree the assignment and next steps with our CEO.
+Agree on the engagement
+Before an offer, agree on scope, compensation, and availability. Any additional exercise will be explained in advance.
+Build digital subsystems or own analog and mixed-signal layout for our custom ASIC programs. Select a role for its scope, requirements and application form.
+Senior Digital IC Engineer — RTL Design & Verification
+Contract · Remote (US)
+Analog & Mixed-Signal IC Layout Engineer
+Don’t see your role? Write to founders@visiblsemi.com .
+FAQ
+How do I apply?
+Apply directly from either open role , use the digital role’s YC link, or contact founders@visiblsemi.com . Keep responses and project examples non-confidential. We do not expect proprietary code or design details from previous employers.
+What work do the roles involve?
+The digital role covers RTL, verification and synthesis handoff. The layout role covers analog/mixed-signal physical design, DRC/LVS/PEX and integration handoff. Each listing describes its own experience requirements and responsibilities.
+Where is the role based?
+This is a remote opportunity. This is a US-based role with regular overlap with our Pacific-time engineering team. Canadian citizens are welcome to apply, and we can provide employer documentation to support TN status for eligible candidates working in the US. See each role for its engagement and eligibility details.
+Is this contract or full-time, and how is compensation handled?
+This is a paid remote contract opportunity, with scope, weekly commitment, and compensation agreed before starting. We’re also open to full-time employment. For the digital role, the displayed $180,000–$250,000 USD range is annual base salary for the full-time option only. For the layout role, the $160,000–$220,000 USD range is annual base salary for the full-time option only. Contract compensation is agreed separately for each assignment.
+What is the team’s background?
+Our technical leaders bring chip-design experience from Microsoft, Intel, and Arm. We combine hardware engineering with software and automation to make custom silicon more accessible. We value open communication, mutual support, and a positive contribution to how the team works together.
+Are you hiring for other roles?
+We’re hiring for digital IC engineering and analog/mixed-signal IC layout. If you don’t see your role, write to founders@visiblsemi.com .

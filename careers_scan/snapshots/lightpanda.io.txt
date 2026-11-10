@@ -1,0 +1,6 @@
+Careers at Lightpanda
+About Lightpanda
+Lightpanda is building a headless web browser from scratch, tailor-made for machine usage. Our mission is to redefine web interaction by enabling AI agents, large-scale scraping, and automated workflows to run faster, smarter, and more efficiently, without the constraints of legacy browsers. We're an ambitious team with a strong open-source foundation, led by experienced founders with a successful startup exit history, and we're now funded .
+Open Roles
+Senior Software Engineer - System Programming (Zig/C++)
+If you are interested in working with us and the job you are looking for is not listed here, don't hesitate to contact us at careers@lightpanda.io

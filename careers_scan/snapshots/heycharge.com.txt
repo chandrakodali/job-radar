@@ -1,0 +1,84 @@
+Get in touch
+We're hiring
+Help us democratize EV charging.
+HeyCharge is a Munich-based startup building the world's first offline-capable EV charging platform. Join a team of builders shipping technology that works everywhere — even underground.
+See open roles
+How we work
+The principles
+that run the company.
+Eight principles that shape how we hire, promote, and ship.
+Automation-first
+We're capable of 10× more by automating where possible.
+In practice — If you've done it twice by hand, the third time it's a script.
+Measure what matters
+We steer by KPIs and experiments — not gut feel or the loudest voice in the room.
+In practice — Any meaningful claim — about users, performance, or pricing — arrives with a number, or it doesn't ship.
+Results over optics
+We value impact to the exclusion of optics and politics.
+In practice — The person who fixed the problem owns the credit, not the one who wrote the update doc.
+Users first
+Do what's right for the user, and everything else follows.
+In practice — When a feature request conflicts with simplicity for the user, simplicity wins.
+Transparent by default
+We share and communicate openly unless there's a specific reason not to.
+In practice — Roadmap, board decks, and customer escalations are visible internally by default.
+Scrappy
+We do more with less wherever possible.
+In practice — We'd rather ship the cheap version this week than the polished version next quarter.
+Climate leaders by example
+A greentech company must walk its own talk.
+In practice — We optimize our own footprint — flights, hosting, hardware lifecycle — not just our customers'.
+Allergic to bureaucracy
+Process exists to serve outcomes, not the other way around.
+In practice — If a meeting, doc, or approval step isn't earning its keep, we kill it.
+You belong at HeyCharge by embodying these values — not by where you come from, how you look, or when you were born.
+Open positions
+We're hiring across the team
+Don't see a role that fits? Send us your resume anyway — we'd love to hear from you.
+Engineering
+Backend Engineer
+Architect and build the systems that bridge digital and physical worlds — connecting chargers, cloud, and user interfaces into one seamless platform.
+Munich Full-Time
+View role
+Embedded Software Engineer
+Build the firmware that runs HeyCharge chargers — multi-radio (BLE + Zigbee + Thread), offline-first, and on the critical path to delivering our platform at scale.
+Principal Architect
+Design HeyCharge's offline-capable EV charging platform end-to-end across embedded, mobile, backend and web — the technical leader the team follows for the work, not the title.
+Technical Product Manager — Energy Services
+Own HeyCharge's energy-services product line — V2G/V2H, demand response, dynamic tariffs, and energy management across European and North American markets.
+Technical Product Manager — Platform
+Own HeyCharge's core platform — backend, mobile SDK, and devices. Productize for our CPO division and external OEMs running our technology under their brand or ours.
+Leadership
+Founders Associate
+Work directly with the founders on strategy, fundraising, and operations at a Y Combinator-backed EV charging startup. High-leverage role for a future operator or founder.
+Head of Finance
+Build and run the finance function at a Y Combinator-backed climate-tech scaleup. Multi-entity controllership, FP&A, and fundraising support through Series A and beyond.
+Munich (Hybrid) Full-Time
+Head of Marketing (Founding)
+Own how HeyCharge is understood — positioning, brand, content, demand generation, and press — as the founding marketer at a Y Combinator-backed climate-tech scaleup.
+Operations
+Finance Analyst
+Run the day-to-day finance operation at a Y Combinator-backed climate-tech scaleup — AP, AR, payroll administration, and the external advisors who keep the books clean.
+Working Student – Finance
+Learn how a venture-backed startup actually handles its money — invoice processing, receivables, expenses, and the monthly handover to our external bookkeepers.
+Munich Working Student
+Working Student – Operations
+Help run day-to-day operations at a Y Combinator-backed EV charging startup — office, shipping, vendors, and the dozens of small things that keep a fast-growing team running.
+HeyCharge-Operated
+Our internal Charge Point Operator (CPO) business — full-service EV charging delivery for German real estate.
+Betriebsleitung Elektrotechnik (m/w/d)
+Build HeyCharge's own electrical installation company from day one as its registered technical lead, with full authority over standards, safety and grid approvals.
+Munich (nationwide travel) Full-Time
+Elektromeister:in (m/w/d)
+Lead electrical installations and oversee compliance for HeyCharge's EV charging infrastructure across Germany. Hands-on technical leader for our delivery business.
+Franchise Program Manager
+Build HeyCharge's franchise program from zero across DACH and Europe. Operator hire for the European expansion committed under our EIC Accelerator grant.
+Munich (on-site) + travel Full-Time
+Projektmanager:in – Elektromobilität Delivery
+Manage end-to-end delivery of EV charging projects for property managers and asset owners across Germany. Bridge between sales, technical delivery, and customer operations.
+Technical Account Manager — Real Estate (DACH)
+Own and grow HeyCharge's largest DACH real-estate accounts — turn pilot sites into portfolio-wide EV charging rollouts across apartments, offices, and commercial properties.
+Don't see your role?
+If you're excited about what we're building and think you can contribute, send us an email at [email protected] . We read every message.
+Email [email protected]
+Switch

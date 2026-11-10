@@ -1,0 +1,82 @@
+What is YDB
+YDB is a universal DBMS for high-load transactional applications and enterprise data warehouses, developed by Yandex.
+How It All Began
+YDB Origins
+We started work on YDB back in 2014. At that time, Yandex had several storage and data processing systems developed in-house, so they were merged into a single organizational unit.
+Each had major drawbacks, like eventual consistency or a single point of failure. Building on past lessons, the team developed a next-generation architecture that became the backbone of YDB.
+YDB within Yandex Cloud
+YDB powers Yandex Cloud’s network block storage and a wide range of other services. Not long after the launch, it was made available as a managed service within Yandex Cloud.
+External users started adopting the platform, forcing a shift in our development priorities: the team focused on making YDB more intuitive and user-friendly while preserving efficiency and scalability.
+Going Open Source
+We published YDB under an open-source license in 2022. Since then, we’ve been actively evolving it as a database accessible both within and outside Yandex.
+YDB Teams
+Distributed Storage Team
+The team develops YDB’s core and functional components, including table infrastructure, distributed transactions, and the underlying systems for data storage and replication. As they handle low-level optimizations, they work directly with block devices to implement YDB’s actor model, design the network transport layer, and more.
+Row Tables Development Team
+Row-based tables are a core YDB component, handling OLTP workloads at the scale of tens of thousands of nodes. The tables support automatic partitioning as the data volume or workload increases. The team addresses challenges in internal data structures, performance, analytics, and information security, including authentication, event auditing, encryption, and secret management.
+Data Delivery Systems Team
+The team provides clients with multiple message-queuing services and a publish/subscribe model.
+Query Processor Team
+This team is behind both OLTP and OLAP queries. Building on the YQL core team’s query processor, they tailor it for full compatibility with YDB tables.
+Analytics Team
+This is a new and rapidly growing team. They develop column-based tables and make sure queries run efficiently against them.
+Compute Platform, Client Libraries, and Development Infrastructure Team
+This team is responsible for query execution, client tools, and YDB infrastructure. That includes query optimization, engine development, and SDK creation — all designed to make life easier for application developers using YDB.
+Distributed Systems Automation Team
+The team oversees both cloud-based and on-premise deployments of our services as well as monitoring and CI/CD pipelines. They develop the Kubernetes Operator for automated YDB cluster deployment and management.
+Query Team
+This team develops the Federated Query component that enables YDB to process continuous queries over streams of data.
+YDB Product Development Team
+This service helps us build workflows for development, release management, documentation, and user onboarding materials. It’s also in charge of YDB deployment, product research, and shaping our product’s image.
+The Client Library Development Team
+Our code in 8+ programming languages runs in the runtime of client applications on the other side of the network (relative to the YDB cluster) — these are native SDKs, industrial standards such as JDBC, database/SQL, ADO.Net, utilities, migration libraries, and ORMs. We test fault tolerance and develop diagnostic and observability tools.
+What We Do
+We build tools for database management and distributed systems. Complex tasks are our specialty. We also foster professional development, and many of our team members have earned master’s degrees and PhDs from leading universities.
+Who We’re Looking For
+Developers
+Strong foundation in algorithms
+Genuine interest in databases
+Advanced C++ skills
+Background in building and designing distributed systems
+Eagerness to work on infrastructure challenges
+SRE
+Proficiency in Python, Go, or even C++
+Solid understanding of networks
+Hands-on experience with public clouds
+Experience working with Linux
+Technical Managers
+Experience building effective workflows
+Familiarity with distributed systems
+Ability to collaborate with the development team
+Aptitude for managing complex long-term projects and products
+Experience developing software or infrastructure solutions
+Team
+Andrey Fomichev
+Head of YDB
+I’m the founder and CTO of YDB. My entire career has focused on data storage, data processing, and distributed systems. I also hold a PhD in Physics and Mathematics, with a specialization in database systems. In the early days, I wrote code for YDB Distributed Storage, and more recently I led the open-source launch.
+Today, I’m evolving YDB into a universal database platform capable of handling anything users throw at it.
+Oleg Bondar
+CPO of YDB
+For over 25 years, I’ve worked on high-load distributed projects, large-scale data storage and processing, and software development. I’ve spent many years at Yandex, where I helped release YDB as open source. The product began 10 years ago as an infrastructure initiative for our internal services. Today, it powers storage, processing, and delivery of data for almost every Yandex service.
+Sergey Puchin
+Head of YDB Compute, SDK, and Engineering
+I lead development of the query execution layer, client tools, and engineering infrastructure for YDB, having been part of the team since its earliest days. Our mission is to create a universal database that seamlessly handles high-load OLTP workloads as well as analytical scenarios, including hybrid queries. That’s why we’re focusing on key system components like the query optimizer, distributed scheduler, and runtime environment.
+Talking about YDB
+In this session, Pavel Velikhov explains how the team built a cost-based optimizer, the problems it solves, and how YDB stacks up against competitors across OLTP, OLAP, and HTAP scenarios.
+Watch video ​
+Aleksei Nikolaevskii breaks down the transaction models in Apache Kafka and YDB, covering topics, read and write transactions, and how their performance compares.
+Vitalii Isaev shows how to efficiently merge data from different types of DBMS, focusing on key system principles and optimizations.
+Yandex's data bus requires non-standard solutions. Our tech lead, Alexander Zevaykin, shares the story behind the YDB Topics service, how we optimized it, and why we moved away from Kafka.
+Alexey Myasnikov talks about our experience in developing drivers for a distributed database in different languages, the problems we encountered and solved or mitigated, as well as the lessons learned and the decisions made.
+Oleg Bondar, CPO of YDB, spoke in detail about a distributed, open-source, fault-tolerant database during the Y. Subbotnik on Infrastructure.
+All Open Vacancies
+C++ Developer for the YDB Row Tables Team
+5+ years
+Go​ ​
+C++ Developer for YDB OLAP
+Streaming Systems Developer for YDB
+Test Automation Developer for the YDB Team
+3+ years
+Contact us
+Polina Abushek, YDB Recruiter
+Email Telegram

@@ -1,0 +1,506 @@
+Wasp is now 100% TypeScript Meet TS Spec →
+Move fast and understand things.
+Wasp is a batteries-included web framework with a Spec - describe your full-stack web app in TypeScript , instead of assembling it piece by piece. Auth, RPC, APIs, jobs, email, WebSockets, and more. React & Node.js. Deploy anywhere.
+Get Started Documentation
+1 import { app , page , query , route } from "@wasp.sh/spec" ;
+2 import { MainPage } from "./src/MainPage" with { type : "ref" } ;
+3 import { getTasks } from "./src/tasks" with { type : "ref" } ;
+5 export default app ( {
+6 wasp : { version : "^0.24.0" } ,
+7 title : "ToDo App" ,
+8 auth : { // Full-stack auth out-of-the-box.
+9 userEntity : "User" ,
+10 methods : { google : { } , gitHub : { } , email : { } } ,
+11 onAuthFailedRedirectTo : "/login"
+12 } ,
+13 spec : [
+14 route ( "RootRoute" , "/" , page ( MainPage , {
+15 authRequired : true
+16 } ) ) ,
+17 query ( getTasks , {
+18 entities : [ "Task" ] // Automatic cache invalidation.
+19 } )
+20 ]
+21 } ) ;
+1 import { getTasks , useQuery } from "wasp/client/operations" ;
+3 export function MainPage ( ) {
+4 const { data : tasks } = useQuery ( getTasks ) ;
+6 return (
+7 < div >
+8 < h1 > Tasks </ h1 >
+9 { tasks ?. map ( task => (
+10 < div key = { task . id } > { task . description } </ div >
+11 ) ) }
+12 </ div >
+13 ) ;
+14 }
+1 import { type GetTasks } from "wasp/server/operations" ;
+2 import { HttpError } from "wasp/server" ;
+3 import { Task } from "wasp/entities" ;
+5 export const getTasks : GetTasks < void , Task [ ] > = async (
+6 _args ,
+7 context
+8 ) => {
+9 if ( ! context . user ) throw new HttpError ( 401 ) ;
+11 return context . entities . Task . findMany ( {
+12 where : { user : { id : context . user . id } } ,
+13 orderBy : { id : "desc" } ,
+14 } ) ;
+15 } ;
+1 model User {
+2 id Int @id @default ( autoincrement ( ) )
+3 email String @unique
+4 tasks Task [ ]
+5 }
+7 model Task {
+8 id Int @id @default ( autoincrement ( ) )
+9 description String
+10 isDone Boolean @default ( false )
+11 user User @relation ( fields: [ userId ] , references: [ id ] )
+12 userId Int
+13 }
+// properties
+01 High Level
+A uniquely powerful config layer serves as a backbone that connects all parts of the stack - frontend, backend, database, and deployment .
+02 Batteries: Included
+Like Rails and Laravel , focus on your app, not your framework. Auth, jobs, email, deploy and much more built in.
+03 Fully Yours
+Open source, no lock-in. No third-party provider or cloud platform dependency. Host anywhere .
+// features
+Instead of wiring everything yourself, Wasp gives you a cohesive set of full-stack features so you can focus on what makes your app unique.
+High-Level Spec
+app, auth, route, ...
+Full-Stack Auth
+username · email · social
+Data Models
+typed · integrated
+Type-Safe RPC
+typed client ↔ server
+Background Jobs
+cron · one-off · retry
+Email Sending
+provider-agnostic
+WebSockets
+typed real-time
+Static Rendering
+SSG for SEO & LLMs
+Simple Deployment
+one command, any platform
+Type-Safe Links
+typed routes & params
+Custom HTTP API
+REST · webhooks
+Wasp CLI
+create · build · deploy
+... see all in the docs
+Define your app via a specialized full-stack logic layer in TypeScript, using high-level terms like app , route , page , ... . Think framework config, but taken to a whole new level.
+main.wasp.ts
+1 import { app , job , page , query , route } from "@wasp.sh/spec" ;
+3 import { AdminDashboard } from "./src/admin/Dashboard" with { type : "ref" } ;
+4 import { dailyDigest , getMetrics } from "./src/admin/ops" with { type : "ref" } ;
+5 import { HomePage } from "./src/pages/Home" with { type : "ref" } ;
+7 export default app ( {
+8 name : "todoApp" ,
+9 title : "ToDo App" ,
+10 wasp : { version : "^0.24.0" } ,
+11 head : [ "<link rel='icon' href='/favicon.ico' />" ] ,
+12 auth : {
+13 userEntity : "User" ,
+14 methods : { email : { } , google : { } } ,
+15 onAuthFailedRedirectTo : "/login"
+16 } ,
+17 spec : [
+18 route ( "HomeRoute" , "/" , page ( HomePage ) ) ,
+19 route (
+20 "AdminRoute" ,
+21 "/admin" ,
+22 page ( AdminDashboard , { authRequired : true } )
+23 ) ,
+24 query ( getMetrics , { entities : [ "Task" , "User" ] } ) ,
+25 job ( dailyDigest , {
+26 executor : "PgBoss" ,
+27 schedule : { cron : "0 7 * * *" }
+28 } )
+29 ]
+30 } ) ;
+Declare the auth methods you want, Wasp does the rest. Use the high-level API of premade but customizable Login/Signup/... forms, or drop lower and implement your own.
+1 // ...
+2 auth : {
+3 userEntity : "User" ,
+4 methods : {
+5 email : { fromField : { email : " [email protected] " } } ,
+6 google : { } , gitHub : { }
+7 } ,
+8 onAuthFailedRedirectTo : "/login"
+9 } ,
+10 spec : [
+11 route ( "LoginRoute" , "/login" , page ( LoginPage ) ) ,
+12 route (
+13 "ProfileRoute" ,
+14 "/profile" ,
+15 page ( ProfilePage , { authRequired : true } )
+16 )
+17 ]
+src/auth/LoginPage.tsx
+1 import { LoginForm } from "wasp/client/auth" ;
+3 export default function LoginPage ( ) {
+4 return < LoginForm /> ; // ready-made, themable, drop-in
+src/user/ProfilePage.tsx
+1 import { useAuth } from "wasp/client/auth" ;
+3 export default function ProfilePage ( ) {
+4 const { data : user } = useAuth ( ) ;
+5 return < p > Hi, { user ?. identities . email ?. id } </ p > ;
+6 }
+Declare your data models in Prisma, have them integrated and fully-typed through the whole stack.
+schema.prisma
+1 model Task {
+3 title String
+4 done Boolean @default ( false )
+5 user User @relation ( fields: [ userId ] , references: [ id ] )
+6 userId Int
+7 }
+2 spec : [
+3 query ( countTasks , { entities : [ "Task" ] } ) ,
+4 action ( createTask , { entities : [ "Task" , "User" ] } ) ,
+5 job ( dailyDigest , { executor : "PgBoss" , entities : [ "Task" , "User" ] } )
+6 ]
+src/task/operations.ts
+2 export const countTasks : CountTasks < void , number > =
+3 async ( _args , ctx ) => ctx . entities . Task . count ( ) ;
+shell
+1 $ wasp db start db
+2 $ wasp db migrate-dev | wasp db studio | wasp db seed
+Define functions on the server, call them from the client. No need for REST / GQL / ... . Fully typed and reactive. Powered by TanStack Query.
+3 query ( countTasks , { entities : [ "Task" ] } )
+4 ]
+1 import type { CountTasks } from "wasp/server/operations" ;
+3 export const countTasks : CountTasks < void , number > = async ( _args , ctx ) => {
+4 return ctx . entities . Task . count ( ) ;
+5 } ;
+src/task/TaskCounter.tsx
+1 import { useQuery , countTasks } from "wasp/client/operations" ;
+3 export default function TaskCounter ( ) {
+4 const { data : count , isLoading , error } = useQuery ( countTasks ) ;
+5 if ( isLoading ) return < p > Loading... </ p > ;
+6 if ( error ) return < p > Error: { error . message } </ p > ;
+7 return < p > { count } tasks in total. </ p > ;
+8 }
+Cron jobs, one-offs, retries, all working out of the box. No external service needed.
+3 job ( sendReminders , {
+4 executor : "PgBoss" ,
+5 schedule : { cron : "0 9 * * *" } , // every day at 9am
+6 entities : [ "Task" , "User" ]
+7 } )
+8 ]
+src/reminders.ts
+1 import type { SendReminders } from "wasp/server/jobs" ;
+3 export const sendReminders : SendReminders < { userId ? : number } , void > =
+4 async ( { userId } , ctx ) => {
+5 const tasks = await ctx . entities . Task . findMany ( {
+6 where : { done : false , ... ( userId && { userId } ) }
+7 } ) ;
+8 // ...send a reminder email for each unfinished task
+9 } ;
+1 import type { CreateTask } from "wasp/server/operations" ;
+2 import { sendReminders } from "wasp/server/jobs" ;
+4 export const createTask : CreateTask < { title : string } , Task > =
+5 async ( { title } , ctx ) => {
+6 const task = await ctx . entities . Task . create ( { data : { title , userId : ctx . user . id } } ) ;
+7 await sendReminders . submit ( { userId : ctx . user . id } ) . delay ( 3600 ) ; // one-off, 1h later
+8 return task ;
+Provider-agnostic, integrated API for easy sending of emails from your web app.
+2 emailSender : {
+3 provider : "SendGrid" , // or "Mailgun" | "SMTP" | "Dummy"
+4 defaultFrom : { email : " [email protected] " , name : "TodoApp" }
+5 } ,
+6 auth : {
+7 // ...
+8 methods : {
+9 email : { /* ... */ } // will automatically use the email sender
+10 }
+11 }
+src/user/operations.ts
+1 import type { SendGreeting } from "wasp/server/operations" ;
+2 import { emailSender } from "wasp/server/email" ;
+4 export const sendGreeting : SendGreeting < { userId : number } , void > =
+5 async ( { userId } , ctx ) => {
+6 const user = await ctx . entities . User . findUniqueOrThrow ( { where : { id : userId } } ) ;
+7 await emailSender . send ( {
+8 to : user . email ,
+9 subject : "Welcome to TodoApp 🎉" ,
+10 html : "<h1>Glad you are here.</h1>"
+11 } ) ;
+12 } ;
+Make your web app alive with a fully integrated WebSocket experience (using Socket.IO).
+2 webSocket : { fn : webSocketFn }
+src/webSocket.ts
+1 import type { WebSocketDefinition } from "wasp/server/webSocket" ;
+3 type WebSocketFn = WebSocketDefinition <
+4 { chatMessage : ( msg : string ) => void } , // client → server
+5 { chatMessage : ( m : { user : string , text : string } ) => void } // server → client
+6 > ;
+8 export const webSocketFn : WebSocketFn = ( io , context ) =>
+9 io . on ( "connection" , ( socket ) => {
+10 const user = socket . data . user ?. identities . username ?. id ?? "Anon" ;
+11 socket . on ( "chatMessage" , ( text ) => io . emit ( "chatMessage" , { user , text } ) ) ;
+12 } ) ;
+src/pages/ChatPage.tsx
+1 import { useState } from "react" ;
+2 import { useSocket , useSocketListener } from "wasp/client/webSocket" ;
+4 export default function ChatPage ( ) {
+5 const [ messages , setMessages ] = useState < { user : string , text : string } [ ] > ( [ ] ) ;
+6 const { socket } = useSocket ( ) ;
+7 useSocketListener ( "chatMessage" , ( m ) => setMessages ( ( prev ) => [ ... prev , m ] ) ) ;
+8 return < button onClick = { ( ) => socket . emit ( "chatMessage" , "hi!" ) } > Send </ button > ;
+9 }
+Set prerender: true to get the best speed / SEO / LLM experience for your static content.
+3 route ( "HomeRoute" , "/" , page ( HomePage ) , { prerender : true } ) ,
+4 route ( "PricingRoute" , "/pricing" , page ( PricingPage ) , { prerender : true } ) ,
+5 route ( "DashboardRoute" , "/dashboard" , page ( DashboardPage ) )
+1 $ wasp build
+2 → prerendering 2 routes
+3 ✔ /
+4 ✔ /pricing
+No magic — you are deploying just a React / Node.js / Prisma app. Deploy with a single command to supported providers (Fly.io and Railway for now), or deploy yourself wherever you want. Comes with a generated Dockerfile to make it easier.
+shell · Fly.io
+1 $ wasp deploy fly launch my-todo-app
+2 → setup · create-db · deploy
+3 → registering apps · provisioning Postgres · setting env
+4 ✔ live at https://my-todo-app-client.fly.dev ( 2m 14s )
+6 $ wasp deploy fly deploy
+7 ✔ redeployed ( 38s )
+shell · Railway
+1 $ wasp deploy railway launch my-todo-app
+shell · diy
+1 $ wasp build # generates deployable code in .wasp/out/
+2 $ ls .wasp/out
+3 Dockerfile server/ web-app/ db/ # ship them anywhere
+Wasp turns your route declarations into a typed Link component and routes object, so a wrong path or a missing param is a compile-time error. Works with route params, search query, hash, and optional static segments.
+3 route ( "TaskRoute" , "/task/:id" , page ( TaskPage ) )
+src/task/TaskList.tsx
+1 import { Link } from "wasp/client/router" ;
+3 // ...
+4 < Link to = " /task/:id " params = { { id : task . id } } > ... </ Link > // ✓ ok
+5 < Link to = " /tsak/:id " params = { { id : task . id } } > ... </ Link > // ✗ no such route
+6 < Link to = " /task/:id " params = { { } } > ... </ Link > // ✗ missing param "id"
+src/task/utils.ts
+1 import { routes } from "wasp/client/router" ;
+4 const taskUrl = routes . TaskRoute . build ( { params : { id : someTaskId } } ) ; // e.g. "/task/1"
+5 // ...
+Define custom HTTP APIs while still being integrated with the rest of your web app (entities, auth, ...). Powered by ExpressJS.
+3 api ( "GET" , "/api/me/stats" , getUserStats , {
+4 entities : [ "Task" ] ,
+5 auth : true
+6 } )
+7 ]
+src/user/stats.ts
+1 import type { GetUserStats } from "wasp/server/api" ;
+3 export const getUserStats : GetUserStats = async ( req , res , ctx ) => {
+4 const numTasks = await ctx . entities . Task . count ( {
+5 where : { userId : ctx . user . id }
+6 } ) ;
+7 res . json ( { numTasks } ) ;
+8 } ;
+src/user/Stats.tsx
+1 import { api } from "wasp/client/api" ;
+3 export default function Stats ( ) {
+4 const load = async ( ) => {
+5 const res = await api . get ( "/api/me/stats" ) ;
+6 console . log ( res . data ) ; // { numTasks: 7 }
+7 } ;
+8 return < button onClick = { load } > Load stats </ button > ;
+A single CLI to manage your whole app lifecycle.
+1 $ wasp new my-app # scaffold a new full-stack app
+2 $ wasp start # run client + server in dev
+3 $ wasp start db # spin up a local dev database
+4 $ wasp db migrate-dev # run migrations, and more under `wasp db ...`
+5 $ wasp studio # visualize your app's structure
+6 $ wasp test client # run your tests
+7 $ wasp build # generate production-ready code
+8 $ wasp deploy # ship it to your provider
+// ai
+Perfect for AI, by design
+By making Wasp as easy as possible for humans (opinionated, high-level, batteries-included) we made it the ideal framework for AI too.
+$ ask " why AI loves Wasp "
+Clear best practices and structure keep AI's focus on what is important.
+Less boilerplate, less code, less space for bugs and security issues.
+No "connection" points where things break - Wasp glues everything together.
+Less code = smaller context, saving tokens and keeping your AI smart.
+Batteries included means bigger building blocks, keeping AI on point, codebase tidy, and reducing chance of mistakes.
+$ ask " how does Wasp keep me in control "
+Wasp's spec files give you a unique high-level overview of your app.
+High-level code keeps you in the loop even when AI does the heavy lifting.
+$ ask " first-party AI tooling? "
+Rule files, skills, and plugins crafted by the Wasp team and shaped by community experience, so you get the most out of your AI.
+llms.txt built directly from the docs and always up to date.
+See how Wasp supercharges vibe coding
+// how it works
+You write your app as high-level config in *.wasp.ts files, alongside the usual React, Node, and Prisma code. Wasp compiles it into a full-stack app, ready to deploy anywhere.
+* Treat the generated code like any compiler output. You can look at it, but there is no need to.
+// no lock-in
+No lock-in. No catch. Ship it your way.
+Open source. A standalone framework, not tied to any cloud platform.
+MIT License No Provider Lock-In Self-Host Anywhere
+1 type OneCmdDeploy = Fly | Railway
+2 type BigThree = AWS | GCP | Azure
+3 type Other = DigitalOcean | Hetzner
+4 type Deployment =
+5 | OneCmdDeploy
+6 | BigThree
+7 | Other
+8 | SelfHost
+9 | Custom < string >
+wasp deploy fly/railway/... : one-command deploy to popular providers.
+Or take the generated Dockerfile + static files and deploy them however you want .
+No need to reach for third-party providers till you want them: Wasp comes with built-in Auth and Jobs, and works with any Postgres database .
+// example apps
+Reference implementations to learn from, fork, or deploy. Each one shows a complete Wasp app. Read the code, run it locally, ship it your way.
+Todo App
+A famous To-Do list app, implemented in TypeScript.
+TodoAppTs
+See the code
+CoverLetterGPT
+Generate cover letters based on your CV and the job description. Powered by ChatGPT.
+coverlettergpt
+Demo See the code
+Waspello
+A Trello-style kanban board with lists, draggable cards, and user auth.
+waspello
+See all examples
+// shipped with wasp
+Live apps the community built and shipped on top of Wasp, running in production today.
+Scribeist
+AI writing platform with workspaces for novels, blogs, essays, and notes.
+visit site →
+Microinfluencer Club
+Connect brands with micro-influencers to run marketing campaigns.
+Searchcraft
+AI-powered search engine for product teams, with keyword precision plus semantic understanding.
+visit site → read the story →
+// testimonials
+“ Wasp is by far the best for AI coding . The high-level Wasp file keeps me on top of everything. ”
+Marcel Coetzee
+Founder @ Hireveld
+“ If you start with Wasp, 80% of the pains of vibe coding are taken care of for you already. ”
+Kenny Rogers
+Dev Rel & AI-First Educator
+# 🏠 made-with-wasp
+Wasp is as game-changing for me as React has been many years back . Its simplicity, and how well [it] captures most full-stack engineering tasks is pure genius . I believe Wasp will become the #1 web technology in just a couple years . It has everything that most web devs are looking for.
+Wasp builder
+via Discord
+“ Everything just works on the first try , minimal intervention needed for anything. ”
+Hrvoje Pavlinovic
+Senior Engineer @ Memoato
+“ Just using AI would make it harder to sleep at night. With Wasp I feel secure , like I'm not cutting any corners . ”
+Robbie Artress
+Founder @ PeakMastering
+// waspeteers
+The team & the community
+“Wasp community f****n rocks! I ask a question and I get genuinely useful information… Community is the second best thing about Wasp, after Wasp itself. ”
+// meet da boi
+our resident bee wasp, hangs out on discord
+The whole Wasp team is on Discord every day, together with the rest of the Wasp community of builders and engineers (the Waspeteers!): answering questions, showing off what we're building, discussing web development, engineering, and life.
+All our development is done on our public GitHub repo , so you can also easily see what we are working on currently, what we are planning (most of the issues are our future plans!), and participate as you wish.
+We love hearing your feedback and ideas and figuring out things together, learning more about what you are building, so come join us!
+Join us on Discord Follow development on GitHub
+// the core team
+@ cprecioso @ FranjoMindek @ infomiho @ Licto @ Martinsos @ matijasos @ sodic @ vincanger
+// our philosophy
+The Way of the Wasp
+"Onion" architecture
+We aim to make every surface of Wasp a layer of APIs: highest level covers 80% of the use cases, and then you can peel layer after layer as you need more, trading simplicity for flexibility.
+Rely on curated best practice solutions by default, assume more control where/when you need it.
+Truly full-stack
+In Wasp, full-stack is not an after-thought, it is the initial and central point of our design since inception of Wasp as an idea.
+The very way Wasp is designed, with unique specification layer to capture the full-stack logic, and with code generation focused approach in the background, is to allow us to capture all of what a web app is into one solution, to take the definition of "full-stack" as far as it goes.
+A powerful, unique full-stack specification layer
+Wasp stands for Web App SPecification : you describe the full-stack behaviour (specification) of your app in *.wasp.ts files, at the level of your thoughts ( route , auth , job , ...), then implement the details in the underlying stack (React, Node, Prisma, ...).
+Every full-stack framework has a way to be configured, but it is usually a mix of file conventions, naming rules, mini-DSLs, and JSON files. Wasp pulls all of that into a single cohesive SDK with the full power of TypeScript, making the specification a first-class citizen, and giving Wasp its superpowers.
+Greatest > latest
+We are not chasing the bleeding edge. We critically track and curate the latest web dev trends to provide you with a deeply integrated and cohesive experience that we stand behind.
+Managed experience over DIY
+With Wasp, you don't build your framework up, you build it down: you start with everything working out of the box, then take more control where you need it. You start with big building blocks, then replace them with smaller ones and your own logic as needed.
+Read the full Wasp Manifesto
+// starter template
+Start even faster with Open SaaS
+What batteries we couldn't fit into Wasp, we put into Open SaaS! The most popular free, open-source SaaS starter on the internet, built on top of Wasp. Everything you need to launch a SaaS product: wired up, tested, and ready to go.
+14k+
+GitHub stars
+1k+
+apps launched
+on Product Hunt
+Explore Open SaaS
+Authentication (email, Google, GitHub)
+Stripe payments & subscriptions
+Admin dashboard
+Markdown-based blog (powered by Astro)
+Email sending (SendGrid, Mailgun, Resend)
+File upload (AWS S3)
+SEO optimized
+Analytics integration (GA, Plausible)
+Landing page template
+OpenAI API integration
+Full test suite
+Stay in the loop
+Get product updates, news, and builder stories. Handwritten by Wasp team, roughly monthly.
+The Wasp Newsletter
+Shipped Wasp now supports Resend for sending emails
+Deep dive Why JavaScript still can't ship a full-stack module
+Built with Wasp How Searchcraft built their SaaS on Wasp + Rust
+// roadmap
+Work on Wasp never stops
+Below is a glimpse at our current roadmap. For more details, check our Github: all our work is public!
+upcoming
+Wasp Studio / Dev toolbar
+Advanced access control (RBAC)
+Multi-tenancy
+Modular Wasp (Auth, Db, etc.)
+Polyglot
+Complex architectures (e.g. serverless)
+next
+Operations improvements
+DB / Prisma / Entities improvements
+Rendering improvements (e.g. SSR)
+Jobs improvements
+Custom API improvements
+Email sender improvements
+Web sockets improvements
+Better testing story
+Production readiness
+Mobile support
+in development
+Full-Stack Modules (FSMs)
+Rework Auth
+Deployment improvements
+All-around DX improvements (CLI)
+Windows support
+Check the full roadmap on GitHub
+// faq
+Frequently asked questions
+If your question is not covered here, come ask us on Discord - the whole team is there!
+Wasp
+Wasp is for developers building full-stack web apps who want to move fast without wiring it all together by hand (either theirs or their agent's). Instead of assembling and maintaining your own stack, lean on the choices and best practices Wasp bakes in, and spend your time on what actually makes your product yours.
+Wasp doesn't conceptually start from the frontend and extend to (serverless) backend, but instead starts from a truly full-stack position, capturing frontend, backend, database, deployment, all in one tight package.
+Wasp is more opinionated, which allows it to go further in the scope of the value it aims to provide, if you are willing to stick with these pre-made choices.
+Like them, Wasp is an opinionated, full-stack, batteries-included framework. It aims for the same fully managed experience, but in the spirit of the modern JS/TS ecosystem.
+Unlike them, Wasp doesn't embed its config into the host language (Ruby, PHP, ...). Instead, it lives in its own specification layer: *.wasp.ts files, agnostic to the underlying tech stack.
+This gives Wasp a lot of leverage. The spec is written in a real programming language (TypeScript), and Wasp can compile it and reason about your whole app upfront. Since the spec is decoupled from the stack, Wasp can later support other frontend frameworks and backend languages.
+Wasp uses React, Node.js (Express) and Prisma.
+At its core, though, Wasp is tech-agnostic. The config layer ( *.wasp.ts ) is standalone and can be paired with different code generators in the future: Drizzle next to Prisma, Vue or Svelte next to React, ...
+If X is a library from the JS ecosystem, the answer is almost always "yes".
+If X would replace a core part of Wasp's stack (React, Node.js, Prisma, Wasp's Auth or jobs) rather than sit next to it, the answer is usually "not yet".
+Why "not yet" and not "no"? Supporting multiple frontend frameworks, databases and backend languages is a big part of our vision. Right now, though, we are focused on refining the design on a single stack.
+Wasp is still in Beta, but it is already used in production by indie hackers, startups and big corporations.
+We keep the "Beta" label because it lets us iterate faster on some critical parts of the framework. That said, we already honor many of the promises expected from a stable version.
+We are moving fast toward 1.0. That is when we will officially call Wasp production-ready.
+Since Wasp relies on code generation, a deployed Wasp app is just an app in its tech stack (React, Node.js, Prisma). It performs and scales the same way any such app does - there is no Wasp runtime on top.
+We will cover this in more detail in our docs as we get closer to 1.0.
+No! Wasp is not a BaaS. There is no runtime that ships with your app, and no platform you have to deploy to.
+A Wasp app compiles to its tech stack (React, Node.js, Prisma) and can be deployed to any hosting solution. Deploying to Fly or Railway takes a single CLI command, but that is just a convenience, with more providers to come.
+Wasp also brings features like Auth and Jobs in-house, so you don't need external providers unless you want them.
+Company
+Open positions are listed on our careers page . If there is nothing there at the moment, you can still come say hi on Discord - we love meeting people excited about Wasp!
+Yes! Behind the framework is Wasp, Inc. - a company backed by Y Combinator and other carefully picked investors who understand and support our vision.
+Being a company is what lets us have a full-time team working on Wasp, while staying true to our values.
+Right now, it doesn't - we are not yet trying to earn money, and our funding lets us focus fully on making Wasp great.
+The framework will always be open-source and free. The plan is to earn by offering paid services on top of it.

@@ -1,0 +1,101 @@
+We raised a $5.5M seed round.
+Read the post →
+Scale Postgres n times
+Connection pooler, load balancer, distributed database. One executable, deployable anywhere.
+Get PgDog
+For enterprise
+Talk to us
+helm
+docker
+1 helm repo add pgdogdev https://helm.pgdog.dev
+2 helm install pgdog pgdogdev/pgdog
+1 docker run ghcr.io/pgdogdev/pgdog:latest
+3M+ queries/s in production
+// Drop-in PostgreSQL proxy,
+// no app changes required.
+Three tools in one.
+01 · Connection pooler
+Real transaction mode
+PgDog can share just a few Postgres connections between 100,000+ clients, without breaking Postgres features.
+✓ Session state : SET commands, advisory locks and LISTEN/NOTIFY; no connection pinning.
+✓ Multi-threaded and async : 50,000+ transactions/s per thread, without query length or connection limits.
+✓ Prepared statements : compatible with all client drivers, with zero overhead.
+config
+diagram
+1 # pgdog.toml
+2 [general]
+3 default_pool_size = 100
+5 [[databases]]
+6 name = "prod"
+7 host = "10.0.0.1"
+02 · Load balancer
+ALB for your database
+PgDog can distribute reads between replicas, detect replication lag, hardware failure, and primary failovers. Use just one endpoint for all your queries.
+✓ Health checks : block out-of-date or broken replicas from serving queries.
+✓ Failover detection : move write traffic to the new primary, without config changes.
+✓ Read / write split : route SELECT queries to the replicas, all others to the primary. Uses the internal Postgres SQL parser for maximum compatibility.
+2 [[databases]]
+3 name = "prod"
+4 host = "10.0.0.1"
+5 role = "primary"
+7 [[databases]]
+8 name = "prod"
+9 host = "10.0.0.2"
+10 role = "replica"
+12 [[databases]]
+13 name = "prod"
+14 host = "10.0.0.3"
+15 role = "replica"
+03 · Distributed database
+Shard Postgres, without app changes
+PgDog gets the sharding key directly from queries and sends them to the right shard. Queries without one are executed across all databases, in parallel.
+✓ Fast OLTP : use sharded databases just like plain old Postgres, with a horizontally scalable coordinator.
+✓ Fast OLAP : GROUP BY, COUNT(), AVG(), ORDER BY, MIN(), MAX(), COPY and many more ops supported out of the box. Postgres + PgDog = scatter/gather engine.
+✓ Shard by anything : flexible, configuration-driven data distribution, compatible with standard Postgres data types.
+5 shard = 0
+10 shard = 1
+12 [[sharded_tables]]
+13 database = "prod"
+14 column = "tenant_id"
+Distributed, consistent, relational
+PgDog doesn't trade speed for consistency. It maintains ACID compliance, at scale.
+✓ Cross-shard transactions : write data to all shards, atomically. Any error triggers an automatic rollback, using native Postgres prepared transactions and two-phase commit.
+✓ Replicated tables : not all tables need to be sharded. Store the same data on all shards and use it for fast, shard-local joins.
+✓ Integer primary keys : no need to switch to UUIDs. PgDog supports monotonic, big integer primary keys, generated automatically in the proxy.
+✓ Sharding key mutation : move rows between shards using only UPDATE statements.
+✓ Consistent schema : DDL is automatically cross-shard. Migration tools like Alembic, ActiveRecord migrations and others work out of the box.
+1 -- Cross-shard transactions,
+2 -- with big integer primary keys.
+3 BEGIN ;
+5 INSERT INTO users (email, ip_addr, created_at)
+6 VALUES ( $1 , $2 , now ()), ( $3 , $4 , now ())
+7 RETURNING id;
+9 COMMIT ;
+11 -- Replicated tables for shard-local joins.
+12 SELECT users.*, city.name FROM users
+13 INNER JOIN cities
+14 ON users.city_id = city.id
+15 WHERE users.id = $1
+16 AND users.tenant_id = $2 ;
+18 -- Sharding key updates.
+19 UPDATE users SET tenant_id = $1 WHERE id = $2 ;
+We couldn't have done it without PgDog. This was a first for me and it turned out being easier and less scary than I expected.
+John Kulzick
+Software engineer
+Span
+We're ingesting more data than ever before. Since switching to PgDog, we've only had 100% uptime.
+Mike Matkiwsky
+Director of Engineering
+tripstack
+We run thousands of pods and couldn't have scaled this far without PgDog. The team has been very responsive throughout.
+Sam R.
+Member of Technical Staff
+Modal
+PgDog has been incredibly reliable for us. It’s the kind of infrastructure that just quietly works, so we rarely have to think about it at all. Compared to RDS Proxy, it gave us a huge step up in connection scalability and removed a major bottleneck for our system.
+Maher Beg
+Staff Software Engineer
+Ramp
+Adopting PgDog let us move complicated geospatial sharding logic from the application tier into a simple config, speeding up queries in the process. We have almost 4 billion rows in production and have never seen a single issue. So glad to have PgDog breathing fresh air into the the Postgres ecosystem!
+Hutch Ingold
+CTO
+Earth Genome

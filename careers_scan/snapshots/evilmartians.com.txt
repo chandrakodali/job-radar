@@ -1,0 +1,40 @@
+Hire Martians
+Martian Careers
+Evil Martians is a developer tools consultancy. Our team culture is built on proactive ownership, transparent communication, and sustainable high performance.
+Currently there are no open positions.
+Subscribe to our socials and be the first to know when we're hiring!
+https://x.com/evilmartians
+https://linkedin.com/company/evil-martians
+https://mastodon.social/@evilmartians
+Martians at San Francisco event
+Osaka office of Evil Martians on the trip to the conference
+Remote
+We are a remote-first company that hires globally. That said, to help team members maintain a healthy work-life balance, we expect at minimum a 3-hour daily overlap with the Pacific timezone because this is where the majority of our clients are located.
+Aside from this requirement, we enjoy deep, uninterrupted work thanks to our async work style.
+Relocation to Portugal
+We have offices in San Francisco, Lisbon, and Osaka. After a probationary period, we can support your relocation to Portugal, which is where most of your colleagues are based.
+Open Source
+We maintain 100+ open source projects . Some of these have become industry standards like PostCSS, Browserslist, AnyCable. We will support and guide your open source journey too.
+In fact, some of our clients are open source projects.
+Additionally, if you have any open source projects, articles, public talks, please mention them! They will give you a bonus during the hiring process.
+Open Knowledge Sharing
+We actively contribute back to the developer community by speaking at many conferences and through our blog .
+We expect that engineer on our team will at least write technical blog posts. No writing experience? Don’t worry, can guide you through the writing process (and with speaking at conferences, if you want it).
+Product Ownership
+When we join projects, our work isn’t just about closing tickets. Instead, we actually focus on real business results and helping end-users. This means we not only expect technical skills, you need a willingness to understand the “what” and “why” about what you’re developing.
+We question assumptions, propose innovative solutions, and improve systems beyond the immediate task.
+In return, you get a large amount of control over the project and can see the results of your work.
+Financial Transparency
+We have public requirements for salary growth and we discuss company financial results as a team each month.
+Further, we have profit sharing and employee stock option programs.
+How We Work
+After a startup’s initial investment, we embed and lead small teams (typically 2–5 engineers, designers, and account managers) to help scale their product. Often, some people from this team will also be from client’s team (as an example a Martian frontend developer and designer working with the client’s backend team).
+You will speak directly with a client (often CTO) and on most of the projects we have weekly call with daily text statuses.
+Other Perks
+We provide:
+20-26 paid vacation days per year (depending on your location)
+Parental leave (3-6 months)
+Health insurance
+English courses
+Coverage for educational courses and materials
+Reimbursements for hardware (you can choose and keep your laptop)

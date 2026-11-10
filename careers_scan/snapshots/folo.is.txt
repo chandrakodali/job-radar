@@ -1,0 +1,151 @@
+Folo is the AI RSS Reader
+The AI that reads the internet for you,
+cutting through noise to surface the knowledge you actually care about.
+OpenAI News
+27.7K
+The OpenAI blog.
+openai.com
+Anthropic News
+998
+Latest news from Anthropic.
+anthropic.com
+The GitHub Blog
+24.8K
+Updates, ideas, and inspiration from GitHub to help developers build and design software.
+github.blog
+Nature
+24.5K
+Read the latest research articles from Nature.
+nature.com
+The Verge
+Breaking news, reviews, and features about how technology changes the world.
+theverge.com
+NASA Astronomy Picture of the Day
+29.3K
+The daily image and story from the universe around us.
+apod.nasa.gov
+Last Week in AI
+30.4K
+Weekly text and audio summaries of the most important AI stories.
+lastweekin.ai
+Ahead of AI
+27.3K
+Machine learning and AI research for readers who want to stay ahead.
+magazine.sebastianraschka.com
+TED Talks Daily
+25.8K
+Thought-provoking ideas in audio, delivered every day.
+ted.com
+The Daily
+23.6K
+The biggest stories of our time, told by New York Times journalists.
+nytimes.com
+3Blue1Brown
+24.9K
+Visual explanations in math, physics, and computer science.
+youtube.com
+Bluesky
+24.1K
+The official Bluesky account and product updates.
+bsky.app
+Trusted by teams at
+Alibaba
+ByteDance
+Mozilla
+Tencent
+Microsoft
+Google
+Baidu
+Xiaomi
+Huawei
+NVIDIA
+Trusted by researchers at
+MIT
+Stanford
+Oxford
+Harvard
+Cambridge
+NUS
+UCL
+NTU Singapore
+Peking University
+UPenn
+At a glance
+Live production scale from Folo.
+Feeds
+1.3M
+Entries
+300.8M
+Reading reimagined in the AI era
+Discover
+AI finds the best sources across the open web.
+Try on Web
+24 official sources
+Browse supported websites.
+Xiaohongshu
+xiaohongshu.com
+x.com
+Telegram
+t.me
+YouTube
+bilibili
+bilibili.com
+Weibo
+weibo.com
+Xiaoyuzhou
+xiaoyuzhoufm.com
+pixiv
+pixiv.net
+GitHub
+github.com
+SSPAI
+sspai.com
+Jike
+m.okjike.com
+NASA
+Zhihu
+zhihu.com
+36Kr
+36kr.com
+Juejin
+juejin.cn
+Threads
+threads.net
+The New York Times
+Reuters
+reuters.com
+Bloomberg
+bloomberg.com
+Hugging Face
+huggingface.co
+Spotify
+open.spotify.com
+RSSHub
+docs.rsshub.app
+Vibe Read
+Let AI read it all. Keep only the signal.
+Anthropic
+Building effective agents for production teams
+Anthropic Research
+Agent systems guide
+Updated recently
+8 min read
+The newest generation of agent tooling is forcing teams to think less about prompts in isolation and more about end-to-end system design.
+Once a model can search, call tools, draft structured work, or trigger external actions, reliability becomes a product question rather than a model benchmark question.
+What teams are optimizing for
+Accuracy still matters, but operational quality is now the real differentiator: predictable tool use, bounded retries, and evaluation sets that mirror production traffic.
+Many failures that look like model mistakes are really interface mistakes: vague tool descriptions, missing state, or workflows that ask one agent to do too much in a single step.
+“The most dependable agent products are the ones that expose their workflow clearly enough for teams to inspect, test, and intervene.”
+Operating checklist
+Start with one narrow task and one or two tools.
+Log every tool call, retry, and failure reason.
+Add evals before widening the workflow.
+Keep a human in the loop for risky actions.
+Built Open
+Open source, verifiable, and easy to inspect.
+Code public. PRs welcome.
+GitHub Stars
+License
+GPL-3.0
+Repository
+RSSNext/Folo

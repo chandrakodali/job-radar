@@ -1,0 +1,74 @@
+Careers at Invertix
+Build the agents
+behind energy operations.
+Work on hard problems with a team that takes ownership, learns quickly and puts its work into production.
+See open roles
+Outside Y Combinator, Mountain View 17 September 2026
+01 What we build
+The work.
+Our agents triage alarms across monitoring portals, bring in the right technician and check the fix, inside the systems energy companies already use.
+We are an early-stage startup: real ownership from day one, room to explore, and a low-ego team that holds a high bar and ships fast. Our engineers deploy the agents with the operations teams of the energy companies we work with.
+Demo fleet. Figures are illustrative. See the product →
+In detail
+How we work. Our forward-deployed engineers work inside a customer’s operations team: they map the job, connect the systems and build the agents with that team, then run and improve them alongside it.
+Who we work with. Altenia, Terna and TotalEnergies On. The energy companies we work with manage 50+ GW.
+Customer data. How we protect it, from connection to deletion. Read about security →
+Research. Our co-founder and CTO, Kaan Durmaz, is first author of peer-reviewed research on differential privacy in machine learning, published in Transactions on Machine Learning Research (2026). Read the research →
+Backed by. Y Combinator, Vireo Ventures and Italian Founders Fund.
+The team. The people you would work with. Meet the people behind Invertix →
+02 Join us
+Three open roles.
+All three are in person, in our Munich office.
+AI/LLM Engineer
+Munich Full-time / Intern
+Apply , AI/LLM Engineer (opens in a new tab)
+Own the agent stack: tool design, routing, evals, prompt and context engineering, and multi-agent coordination.
+In detail : AI/LLM Engineer
+Your responsibilities
+The stack grows as we add more specialised agents, and you own how they are built, evaluated and coordinated. You’ll work with years of noisy time-series telemetry, technical manuals that need modern OCR to parse, and portfolios that are each wired differently. The role rewards engineers who build systems that actually run in production, not demos.
+Your background
+3+ years of software engineering experience, with at least 1 year building and shipping LLM-powered systems in production.
+Strong Python. Comfortable with async, FastAPI-style backends, and PostgreSQL.
+Hands-on experience with agent orchestration concepts: tool design, routing, context management, and the middleware that keeps long-running agents stable (prompt caching, summarisation, checkpointing).
+Familiarity with the mechanics of RAG: chunking strategies, embeddings, retrieval quality, and the evals that tell you whether any of it works.
+Even better
+Experience with industrial, sensor, or time-series data.
+Background with eval frameworks for non-deterministic systems.
+Have shipped multi-agent or multi-provider architectures.
+Open-source contributions to agent or RAG tooling.
+Working Student AI Engineer
+Munich Part-time, 20 hours a week
+Apply , Working Student AI Engineer (opens in a new tab)
+A real, scoped project, supervised by the founders directly.
+In detail : Working Student AI Engineer
+Project scope is decided per candidate, based on what you want to learn and what we need shipped.
+Past directions: improving the RAG pipeline over technical PDFs, building eval harnesses for the agent, frontend work on new agent surfaces, and data-quality tooling for the monitoring-portal sync.
+Studying computer science, maths, physics or a related field at a German university.
+Strong Python or TypeScript.
+You have shipped something: a side project, a research paper or an open-source contribution. Code we can look at.
+Curious about energy.
+Hands-on experience with LLM APIs or agent frameworks.
+Comfort with PostgreSQL, FastAPI, or modern frontend frameworks (Next.js, React).
+Past internships or research experience.
+Founder Associate
+Munich Full-time
+Apply , Founder Associate (opens in a new tab)
+Work directly with the founders on whatever matters most that week.
+In detail : Founder Associate
+Take on customer research, market analysis, hiring and operations.
+Own small projects end to end rather than assisting on large ones. Scope the problem, do the work, come back with a recommendation.
+Sit in on customer and partner conversations, write up what we learned, and turn it into something the team can act on.
+Build the internal processes an early-stage company needs.
+This role is broad by design. It suits someone early in their career who would rather touch every part of a company than specialise straight away, and who is comfortable being handed an ambiguous problem with very little context.
+Strong analytical and written communication skills. You can turn a messy conversation into a clear one-page summary.
+Structured and self-directed. Given a vague problem, you come back with a plan.
+Comfortable switching between commercial, operational, and technical work in the same day.
+Interest in energy, AI, or enterprise software, and the curiosity to learn a technical domain quickly.
+Fluent English; German or another European language is a plus.
+Previous experience at a startup, in consulting, or in venture capital.
+Comfort with spreadsheets, SQL, or light scripting.
+03 Open application
+Don’t see your role?
+Tell us what you would bring to the team.
+Send an open application (opens in a new tab) See open roles
+Questions: apply@invertix.ai

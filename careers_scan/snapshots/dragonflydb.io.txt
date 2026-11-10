@@ -1,0 +1,27 @@
+Careers
+Make a Change
+We are a small team of builders driven by a mission to shape the future of in-memory data stores by providing a well-designed, ultra-fast, and cost-effective solution for cloud-native workloads.
+All openings
+Marketing
+Sales
+Engineering
+Growth Engineer
+full-time • Remote
+As a Growth Engineer, you'll own the technical surfaces that drive how developers discover, evaluate, adopt, and grow with Dragonfly.
+Account Executive
+full-time • Remote (USA)
+Join us as an Account Executive, responsible for managing the entire sales lifecycle—from initial outreach to deal close—crafting each step of the customer journey.
+Senior Control Plane Backend Engineer (Golang)
+full-time • Israel
+We are looking for a Senior Software Engineer to help evolve Dragonfly Cloud as the world's leading managed in-memory store.
+Principal Software Engineer (C++)
+We’re looking for a hands-on Principal Engineer to lead our core C++ team in building a next-generation in-memory datastore.
+Technical Solutions Engineer
+full-time • North America
+The Technical Solutions Engineer will play a pivotal role in helping Dragonfly secure and support larger customers with complex needs.
+Core C++ Engineer
+full-time • Israel (Hybrid) / Remote
+Exciting opportunity for C++ engineers to play a meaningful role in shaping the next generation of the in-memory data store technology.
+Sales Development Representative
+full-time • Remote (North America)
+Join us as one of the first sales hires, driving growth and building relationships with our expanding customer base.

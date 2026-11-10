@@ -1,0 +1,91 @@
+FOUNDERS · HIRING TEAMS · RECRUITING PLATFORMS
+Verify before you interview.
+Founders and hiring teams are flooded with unverified job applications from AI agents. Put affordable, global verification at the top of your funnel, so the claims behind your shortlist have evidence before your team spends time interviewing.
+Talk to us Explore the workflows ↓
+At application time. Across borders. Priced for volume.
+VERIFICATION MOVES UPSTREAM. ILLUSTRATION
+Applications arrive. From people. From AI agents. From everywhere.
+RECLAIM · AT THE TOP OF THE FUNNEL
+Verify the claims first.
+Employment records Source evidence
+Education credentials Source evidence
+Relevant work activity Source evidence
+Then shortlist and interview. Your team’s time goes further.
+Global source accounts. Low-cost checks.
+Evidence before you commit interview time.
+IN YOUR EXISTING PROCESS
+Move verification to the top of the funnel.
+Ask for the evidence that matters when someone applies. A candidate connects the relevant account, Reclaim returns the available records, and your team reviews a shortlist with verified claims. Save interview time for applicants whose experience you can substantiate.
+0 1 Receive an application
+0 2 Verify key claims RECLAIM
+0 3 Shortlist and interview
+THREE PLACES TO START
+Check the claims your résumé screen cannot.
+0 1
+Employment across borders
+“I worked at this company for three years.”
+Candidate source
+The candidate’s employer, payroll, or employment-record portal, including sources outside your usual database coverage.
+Information returned, where available
+Employer Role, if shown Employment dates
+Before the first interview
+Check an overseas role or employment period before scheduling, without waiting for a manual reference email to move forward.
+0 2
+Education at the source
+“I graduated from this university.”
+The candidate’s university or academic-record portal, where the qualification and completion status are available.
+Institution Qualification Completion status Dates
+Verify a qualification for a role that requires it, even when the institution is outside your usual screening coverage.
+0 3
+Work activity beyond a résumé
+“I contribute to software projects.”
+The candidate’s development-platform account, such as GitHub, where contribution records can be retrieved.
+Account Project activity Contribution dates
+Bring evidence of relevant activity into the first conversation. Use interviews and assessments to evaluate skill, authorship, and the quality of the work.
+YOUR WORKFLOW STAYS YOURS
+Global sources. Lower-cost screening.
+Reach candidate-authorized records across countries and platforms. Use automated source checks for the few claims that matter at application time, with volume pricing that makes earlier verification practical. Confirm source coverage and pricing for your hiring flow.
+KNOW WHAT THE EVIDENCE MEANS
+Verify more than the usual database can.
+A missing database entry does not have to end the check. An accessible employer, university, or work-platform account can provide another route to evidence. Review unavailable records with the candidate; account activity alone does not establish identity or job performance.
+FITS YOUR EXISTING WORKFLOW
+A verification step.
+Inside your product.
+Add Reclaim at the point you need more evidence: a difficult eligibility criterion, a receipt exception, or an agent waiting on a user-authorized check.
+Choose a source and the information to retrieve.
+Let your user authorize the connection.
+Verify returned proofs on your backend and apply your rules.
+Developer documentation
+CREATE A VERIFICATION REQUEST Node.js · server
+import { ReclaimProofRequest } from '@reclaimprotocol/js-sdk';
+const reclaimProofRequest = await ReclaimProofRequest.init(
+process.env.RECLAIMPROTOCOL_APP_ID,
+process.env.RECLAIMPROTOCOL_APP_SECRET,
+'ff4d7afe-4b78-4795-9429-d20df2deaad7' // Example. Replace with provider ID
+const exportedProofRequestJsonString = reclaimProofRequest.toJsonString();
+Use your application credentials on the server. Replace the sample provider ID with your configured source.
+View the complete integration guide ↗
+Building for AI agents?
+Use Reclaim when a workflow needs source evidence with a user’s authorization. Explore the verification letters API and MCP instructions.
+Agent instructions
+BUILT FOR YOUR REVIEW PROCESS
+Evidence you can examine.
+A team you can evaluate.
+Y Backed by Y Combinator
+AI retrieves the requested information. Cryptographic verification helps your application check the returned evidence.
+Explore the Trust Center
+SOC 2 Type II Independent audit ISO 27001 Information security GDPR Readiness
+A FEW USEFUL ANSWERS
+Before your first test.
+Discuss your workflow
+Why verify before the interview?
+Verification at application time gives recruiters evidence before they invest in interviews. Start with one or two role-relevant claims, such as a required qualification or a period of employment, then review the results alongside the application.
+Can we verify candidates in different countries?
+Reclaim can retrieve evidence from supported source accounts across countries. Coverage depends on the specific employer, institution, or platform and the fields it exposes. Bring the sources your candidates use so we can confirm the checks you need.
+Is early verification affordable at application volume?
+Automated source checks and volume pricing let you design a low-cost screening step around specific claims. Discuss your application volume, sources, and required fields with us to price the workflow.
+Does this replace all background checks?
+Reclaim supplies evidence for specific claims. Your team decides which additional identity, reference, assessment, or background checks a role needs. Candidates who cannot complete a check should have a way to provide alternative evidence.
+ONE CLAIM. ONE SOURCE. A PLACE TO START.
+What should you know before the first interview?
+Talk to us

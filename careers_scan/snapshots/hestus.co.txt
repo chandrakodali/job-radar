@@ -1,0 +1,56 @@
+Open Positions
+Machine Learning Engineer
+San Mateo, CA
+About Us: We are Hestus, and we build AI-powered CAD to speed up the hardware development process. Our team is small, scrappy, and growing fast. We are looking for a versatile and enthusiastic Machine Learning Engineer to join us. If you enjoy wearing multiple hats and are passionate about technology, we want to hear from you!
+Responsibilities:
+Design, train, and evaluate custom machine learning models and embeddings behind our AI-powered CAD.
+Own the entire data pipeline: from data wrangling and curation through to the model training framework.
+Build and improve our training and evaluation infrastructure, including experiment tracking, metrics, and reproducibility.
+Take models from prototype to production: deployment, monitoring, and iteration based on real-world performance.
+Collaborate with cross-functional teams to turn product needs into machine learning solutions and ship new features.
+Write clean, efficient Python, and participate in code reviews, testing, and debugging.
+Stay current with the latest machine learning research (LLMs, embeddings, and representation learning) and bring new ideas to the team.
+Requirements:
+Proven experience as a Machine Learning Engineer, with at least 4 years in industry or equivalent academic experience (thesis-based Master’s or PhD).
+Strong proficiency in Python; write clean, efficient code with minimal handholding.
+Demonstrated experience developing novel, custom machine learning models and embeddings: inventing new approaches rather than applying off-the-shelf LLM or image-processing tools.
+Hands-on experience with large language models (LLMs).
+Familiarity with a deep learning framework such as PyTorch, TensorFlow, or JAX.
+Ability to work in a fast-paced startup environment and manage multiple tasks simultaneously.
+Excellent problem-solving skills and attention to detail.
+Strong communication and teamwork skills.
+Bonus Skills:
+Experience with ML platforms such as Amazon SageMaker, Azure ML, or Google Cloud AI Platform.
+Experience with cloud platforms (e.g., AWS, Google Cloud).
+Experience with backend development and frameworks (e.g., Django, Flask, SQL).
+CAD, geometry, or computational geometry domain experience.
+What We Offer:
+Competitive salary and equity options.
+Comprehensive health insurance, including medical, dental, and vision coverage.
+Catered lunch.
+Unlimited time-off.
+A collaborative and inclusive work environment.
+Opportunities for professional growth and development.
+The chance to be part of a passionate team building innovative products.
+How to Apply: Please send your resume detailing your experience and why you are a great fit for this role to jobs@hestus.co
+Senior Software Engineer
+About Us: We are Hestus, and we build AI-powered CAD to speed up the hardware development process. Our team is small, scrappy, and growing fast. We are looking for an experienced and driven Senior Software Engineer to join us. If you like to own problems end-to-end and are passionate about technology, we want to hear from you!
+Own the design, architecture, and delivery of core systems end-to-end: from ambiguous problems to shipped, maintained products.
+Partner with founders to turn fuzzy goals into technical roadmaps, and drive them to ship.
+Set and raise the engineering bar: code review, testing standards, and architectural direction across the codebase.
+Lead the design and productionization of the machine learning systems behind our AI-powered CAD.
+Troubleshoot, debug, and resolve defects: from everyday bugs to systemic issues in performance, reliability, and scalability.
+Build on and improve our engineering practices (CI/CD, testing, observability) as the team and product grow.
+Help shape our engineering culture and team as we grow.
+7+ years building and shipping production software.
+Deep proficiency in Python and experience designing backend services that scale (e.g., Django, Flask, SQL).
+Hands-on experience building and deploying machine learning models in production.
+Track record of owning systems end-to-end and making sound architectural tradeoffs with limited direction.
+Comfort with ambiguity and a track record of raising the technical bar of the teams you work with.
+Strong Computer Science fundamentals
+CAD, geometry, or computational-geometry domain experience.
+C#/.NET (some add-ins are C#).
+Experience packaging and shipping native desktop applications on Windows and macOS, including code signing.
+Deep AWS / cloud / infrastructure / DevOps experience at scale.
+Early-stage startup or 0→1 product experience.
+Haven’t found the position that you’re looking for? Contact us

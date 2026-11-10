@@ -1,0 +1,105 @@
+1 (855) 464-6872
+Log In Register
+GoGo Careers: Work with Us!
+AS SEEN IN
+What We Look For
+Every single person that works here has someone they are building GoGo for. When we add someone to the team, it's because we think they will help our dad, aunt, neighbor or grandma have a better life . Does that sound like you?
+Backend Engineer
+About the role
+About the Company
+GoGoGrandparent’s (GoGo’s) mission is to help older adults live independently in their home for as long as possible. We do that by tailoring existing on demand apps to the needs of people living with mobility, visual, cognitive and dexterity impairments and letting older adults use them by making a phone call. After ordering, our service becomes a virtual caregiver that monitors the instrumental activities of daily living (mobility, meals, groceries, medication delivery & home management) for tens of thousands of older adults around the United States. We’re profitable, have been around since 2016 & haven’t raised any venture capital financing to date. The company was inspired by the cofounder’s grandmother, who still uses us to this day (she’s turning 95 in March)!
+Our engineering team is fully remote, tight-knit, and moves fast. You’ll work closely with founders, ship meaningful features weekly, and have real ownership over architecture, reliability, and product direction.
+This is a fully remote position
+Job Summary
+We are seeking a Senior Backend Engineer with strong expertise in Node.js / Typescript to design, build, and maintain scalable backend systems. This role is responsible for delivering high-quality features end-to-end, collaborating closely with product and project managers, and continuously improving the codebase through thoughtful refactoring.
+The ideal candidate takes ownership of their work, writes clean and maintainable code, and contributes to system architecture decisions. They will work across the full development lifecycle—from planning and implementation to testing, deployment, and monitoring—while ensuring reliability and performance in production.
+In addition to execution, this role involves improving engineering processes, reviewing code, mentoring other developers, and helping drive technical standards across the team.
+Responsibilities
+Design, develop, and deliver backend features using Node.js / Typescript, ensuring high performance and scalability
+Collaborate with product and project managers to clarify requirements and translate them into technical solutions
+Own tasks end-to-end, from implementation through testing, deployment, and monitoring
+Identify, troubleshoot, and resolve bugs and production issues in a timely manner
+Continuously refactor and improve existing code to enhance maintainability, performance, and reliability
+Review pull requests, provide constructive feedback, and uphold code quality and engineering standards
+Write clean, well-documented, and testable code following best practices
+Participate in system design and architecture discussions, contributing to long-term technical decisions
+Monitor system performance and proactively address bottlenecks or reliability issues
+Collaborate with cross-functional teams (frontend, QA, DevOps) to ensure smooth delivery of features
+Mentor other engineers and contribute to improving team processes and development workflows
+Tech Stack
+Back-end heavy: Node.js, TypeScript, MySQL, REST + GraphQL
+Front-end: Vue.js (nice to have)
+Deployment: AWS, Docker/Kubernetes (nice to have)
+Skills & Qualifications
+6+ years of professional experience (primarily in Node.js and Vue.js)
+Able to work US timezone or 4+ hours overlap with mainland US
+Able to take ownership and initiative on features / problems
+Benefits
+Fully remote position
+$80k – $180k (based on location, experience and seniority)
+There is a significant quarterly bonus tied to meeting sprint goals
+Paid holidays
+Personal Time-off of 15 days at start
+Engineering team retreat
+US Employees
+Healthcare Insurance (Medical, Dental, Vision)
+401k Plan
+If you're passionate about improving the lives of older adults and people with disabilities, we would love for you to apply!
+About the interview
+2-stage interview process
+Show More
+Apply Now!
+Growth Product Manager
+The Growth Product Manager will have broad autonomy to identify and act on opportunities in expanding our core service, rides. This is our largest and most mature service line, and improving its conversion funnel can have a meaningful impact on the company. The role includes customer research, working closely with phone operators, data analysis, and running rigorous A/B tests.
+Responsibilities:
+Own the ‘Rides’ product funnel end to end, from first touch through registration.
+Identify and prioritize the highest impact opportunities to improve conversion, using data, operator feedback, and customer insights.
+Design, run, and analyze A/B tests on phone and CRM flows to drive measurable improvements.
+Work closely with Customer Service Representatives to understand call dynamics, test scripts, and improve in-call conversion.
+Conduct user research to uncover friction points and validate new ideas.
+Collaborate with engineering, ops, and QA to ensure high quality execution and smooth rollouts.
+Develop clear hypotheses, success metrics, and post-launch analyses for all major initiatives.
+Drive continuous iteration on the customer experience to increase conversion and long term value.
+Own and maintain a prioritized product roadmap focused on highest impact growth opportunities.
+Bachelors’ degree.
+3+ years of experience in full-cycle product development in a non-managerial role.
+Highly competent in writing SQL queries to generate and explore data.
+Data analysis experience, able to crunch numbers in spreadsheets comfortably to assist with decision making.
+Skilled in running AB tests (pricing, engagement, provider incentives).
+Keen attention to detail, multitask and work well under pressure.
+Superior project management and interpersonal skills.
+Excellent verbal and written communication skills.
+8 Paid company holidays + 4 Cultural days
+Parental leave
+Moving to the next round is contingent upon the results of the previous round.
+Round 1: 20 minute introductory call with Head of People Operations & Administration.
+Round 2: Take home Data Analytics Challenge.
+Round 2.5: Data Analytics Challenge review with hiring manager.
+Round 3: Take home Case Study (1 hour).
+Round 4: Panel interviews with members from product & call center teams (1.5 hours).
+Product Manager
+The Product Manager will own the strategy, roadmap, and execution for GoGoGrandparent’s Home Services department, a strategic bet that could dramatically impact the future of the company. This is a 0 to 1 role where you will have broad autonomy over helping to build this “business within a business”. This role drives the end-to-end product lifecycle, including customer research, market analysis, planning, requirements development, and launch, with the goal of growing adoption, repeat usage, and trust in Home Services.
+Translate customer and business needs into clear product requirements and development roadmaps for Home Services.
+Build product strategy documents that describe business cases, high-level use cases, technical requirements, and ROI for Home Services initiatives.
+Design and optimize the customer journey.
+Conduct customer interviews and market research to uncover pain points and prioritize service categories (e.g., cleaning, handyman, yard-work, personal assistant, caregiver).
+Analyze funnel metrics, cohort retention, and repeat usage to guide growth strategies.
+Collaborate closely with cross functional teams in the development, QA, and release of products.
+Develop, implement, and maintain production timelines across multiple departments.
+Appraise new product ideas and strategize appropriate go-to-market plans.
+Step 1: 15 minute introductory call with hiring manager or Head of People.
+Step 2: Data analytics challenge over Zoom with hiring manager (30 minutes).
+Step 3: Take home case study (2-3 hours).
+Step 4: Panel interviews with 2-3 members of the Home Services Team.
+Step 5: Final call with hiring manager.
+Testimonials
+What Our Team Members Say
+I am lucky to be part of GoGo. It’s full of amazing people to work with, and it provides opportunities to grow.
+Mayge, Team Lead
+Work hard, be kind, and amazing things will happen. Working here at GoGo has made me a better person and showed me that kind and beautiful people in this world still exist.
+Josh, Supervisor
+At its core, the company values innovation and compassion, to help better people’s lives. It’s exciting, meaningful work.
+Richard, Engineering
+Build technology that
+helps people live independently.
+At GoGo, our mission is to deliver simple, reliable connectivity and smart software that empower older adults and people with disabilities. Join us and help build the future.

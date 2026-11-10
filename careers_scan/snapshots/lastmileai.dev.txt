@@ -1,0 +1,77 @@
+The LastMile AI team is now part of the Product and Applied Research organization at Meta Superintelligence Labs. Read more
+Founding Mission
+Building the first Cognitive Computer
+Generative AI has unlocked a cognitive era for computing, allowing computers to interact with the world in novel ways through vision, speech and text.
+We are building a new kind of computer: one that always has perfect context about a person, team and organization; connects to every tool and service a user authorizes; and anticipates needs while orchestrating tasks with humans and AI alike.
+LastMile AI exists to make that cognitive computer useful, reliable and accessible for the people and organizations doing their most important work.
+First Mile Done
+And many more miles to go.
+A thoughtfully designed experience from us for you
+The most intuitive products are built with relentless user focus.
+We're a team of builders: engineers, PMs, designers and researchers working together to create the world's first cognitive computer.
+Sarmad Qadri
+CEO
+Bill Peterson
+CTO
+Andrew Hoh
+CPO & President
+Zak Assoul
+Product Design
+Hanieh Zahiremami
+Product Growth
+Mahtab Sarvmaili
+Research
+Ryan Holinshead
+Engineering
+John Corbett
+Yi Zheng
+Jerron Lim
+Roman van der Krogt
+Phil Chang
+Business Ops
+Our Principles
+Every day, we make decisions that influence our team, our products and our company. These principles shape how we operate and what we choose to build.
+Always Be Shipping
+We stay close to users and continuously ship, learn and improve.
+Try, Try and Try Again
+We make bold bets, expect to learn through iteration and keep moving forward.
+Hustle to Learn, Learn to Hustle
+We improve our craft every day and bring urgency to the problems that matter.
+Go the Extra Mile
+We are obsessed with creating useful, delightful products for the people we serve.
+Careers
+We're a team of builders working across product, research, infrastructure and design to make AI-native work useful for teams and organizations.
+Open Positions
+Developer Experience Lead
+New York / Remote
+Senior ML Engineer
+Staff Backend Engineer - Infrastructure
+Staff Full Stack Engineer - Enterprise
+Company Benefits
+We aim to give our team the peace of mind they need to stay focused on our mission, with generous benefits in line with top-tier tech companies.
+Competitive Salary + Equity
+Compensation rivaling top-tier tech companies and employee-friendly equity terms.
+Medical, Dental & Vision
+Top-tier medical, dental and vision insurance for employees and dependents.
+Commuter Benefits
+Commuter benefits to save on commuting costs.
+Retirement
+401k and RRSP plans to help you plan for retirement.
+Paid Time Off
+18 days paid time off to support balance in your work and life.
+Investors
+backed by top tier venture capital
+Backed by Gradient - Google's AI-focused venture fund, alongside top tier angel investors.
+AME Cloud Ventures
+amecloudventures.com
+FirstHand Alliance
+firsthand.vc
+Exceptional Capital
+exceptionalcap.com
+10x Founders
+10xfounders.com
+Guillermo Rauch
+CEO of Vercel
+Andrej Henkler
+Joseph Spisak
+Head of GenAI Open Source

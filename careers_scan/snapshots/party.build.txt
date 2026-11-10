@@ -1,0 +1,119 @@
+Backed by Y Combinator
+Build in the open. Together.
+Products used to be built one meeting at a time. Now your whole team builds in one place, alongside fleets of agents. Your whole team now builds products in one place, alongside fleets of agents.
+$100 in free credits
+No card required
+Any harness, any model
+Example conversation: Priya (Product Manager) asks Research: People are dropping out of setup. Where are they getting stuck? Research: The invite step blocks setup. Customers want to try the product before bringing in their team. Priya (Product Manager): Can we get a small fix out this week? Amara (Engineering Lead): Let them skip invites and explore first. Tomás (Backend Engineer): Keep invites easy to find after setup. Engineer: I’ll make invites optional, keep them in the sidebar, and share a preview for the team. The team discusses the Preview. Amara clicked Open PR.
+Loved by thousands of builders at top companies
+The shift
+Less coordinating the work. More moving it forward.
+Shared context
+Stay close to the work.
+Keep the spec, decisions, and live Preview in one thread. Leave feedback while agents work.
+Human checkpoints
+Choose your checkpoints.
+Let Flows carry work between agents. Your team decides where to step in.
+Cost visibility
+Keep costs in view.
+Start with an estimate, set a project budget, and follow spend as it happens.
+One build, start to finish
+From a rough idea to deployed
+Follow one onboarding improvement through Plan, Build, and Review. People make the calls; agents carry the work forward.
+Plan
+Turn the conversation into a spec
+Shape the request together. The Product agent clarifies the details and turns your decisions into acceptance criteria.
+Shared decisions
+Engineering Lead Amara
+Signups stall at the provider step. Can we simplify it?
+Product Manager Priya
+Choose a default model. Move API keys into settings.
+Product Agent
+One setup screen. Four acceptance criteria. Spec ready.
+Your checkpoint
+Finalize the spec
+Build
+Watch the change take shape
+Agents plan and build in milestones. Try the live Preview and leave feedback as the change takes shape.
+Live feedback
+Architect Agent
+Three milestones. Start by collapsing the provider step.
+Engineer Agent
+First milestone in Preview: setup is now one screen.
+Much better. Let’s make the copy less technical.
+Try the Preview. Open the PR.
+Review
+Check the work against the promise
+Product checks the spec; an Auditor reviews the code. Agents fix the issues and re-check the work. Your team makes the final call.
+Checks & fixes
+All four acceptance criteria are met.
+Auditor Agent
+Error states fixed and re-reviewed. Checks green. PR ready.
+I’ve checked the Preview. Let’s ship it.
+Approve the PR. Ship the change.
+Your team, your Flow. Choose the agents and checkpoints that fit your work. Plan, Build, and Review are guidelines, not rails.
+The platform
+Built for your team.
+Ready for your agents.
+Your conversations, your tools, your boundaries. One foundation for everything you build together.
+Connected conversations
+Keep the conversation moving.
+Start from Slack or Teams. Replies and results stay connected to the Party session, where your team already talks.
+Shared oversight
+Know where you’re needed.
+Follow parallel sessions in one place. See which work needs your input and where to make the next decision.
+Agent flexibility
+The right stack for every agent.
+Choose a harness and model for each agent. Use managed access or bring your team’s own credentials and API keys to any supported harness.
+Environments & isolation
+Your agents. Your boundaries.
+Environments define the runtime and boundaries for each session. Tenant-level sandboxing adds another layer of isolation around your team’s work.
+Enterprise: ask about self-hosting, network policies, and local models through OpenCode.
+Pricing
+Start free.
+Grow at your pace.
+One plan for your whole team. No per-seat fees.
+Monthly pricing in USD
+Free
+A place to try your first ideas.
+$0 / month
+For your whole team
+Try Free
+$100 in credits, one time
+2 concurrent active sessions
+Discord support
+Starter
+For everyday builds and side projects.
+$20 / month
+Get Started With Starter
+$20 in credits each month
++$200 extra one-time credits
+4 concurrent active sessions
+Email support
+Pro
+For teams building in parallel.
+$200 / month
+Get Started With Pro
+$400 in credits each month
++$400 extra one-time credits
+10 concurrent active sessions
+Priority email and Slack support
+Enterprise
+For organizations with custom deployment and support needs.
+Managed or self-hosted deployment
+OpenCode with local models
+Business associate agreement (BAA) support
+24/7 support from a dedicated forward-deployed engineer
+Custom pricing
+Contact Sales
+Bring your own keys
+Use your team’s credentials or API keys with any supported harness, including AWS Bedrock through Claude Code, and OpenRouter or Fireworks through OpenCode.
+Credits fund usage
+Free credits are granted once; Starter and Pro include credits each month. Add funds in Billing when you need more.
+Concurrent sessions
+Your plan sets how many sessions can be active at once. Extra turns wait in line and start when a session frees up. Credits are separate from this limit.
+Your Next Product
+Bring the idea.
+Build it with your team.
+Start with a real request on the Free plan.
+Start Building For Free

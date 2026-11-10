@@ -1,0 +1,69 @@
+Databend Cloud now on AWS Marketplace, AWS Marketplace, Try Free with AWS
+Products
+Databend Security Design
+Databend Cloud
+vs.
+Snowflake
+Comparisons between Databend Cloud and Snowflake
+Fully-Managed on Cloud
+Databend Enterprise
+Self-Hosted with Additional Enterprise Features
+Databend Community
+Self-Hosted & Free
+Use cases
+Agent traces
+Real-time analytics
+Observability
+AI & machine learning
+Data warehousing
+Industries
+Gaming
+Cybersecurity
+Banking & financial services
+Crypto & Web3
+E-commerce & retail
+All use cases All industries
+Pricing Docs
+Resources
+Blog
+Videos
+Downloads
+Developer Guide
+Community
+GitHub
+Slack
+How to Contribute
+LinkedIn
+YouTube
+Contact Us AI Agents
+9.5k Book a Demo Sign In
+We're hiring
+Join The Team
+We are building the fastest open-source data warehouse and a great powerful data cloud. We're looking for kind and curious people who are ready to take ownership of big projects and grow with us.
+#Engineering #Marketing
+Engineering
+Databend Cloud Platform Engineer (Remote)
+Design, Develop and maintain databend cloud platform on AWS, GKE, Azure and so on, which provides multi-cloud resource scheduling, isolation and multi-tenancy supports by design
+Remote Anywhere
+732 S 6TH ST, STE R, Las Vegas, NV 89101, USA
+Register
+Pricing
+Security
+Solutions
+Comparisons
+Documentation
+AI Agents
+llms.txt
+Blog llms.txt
+Docs llms.txt
+Contributing
+Youtube
+Company
+About Us
+Contact Us
+Careers
+Brand
+Partners
+evot.ai
+Greptime
+AutoMQ

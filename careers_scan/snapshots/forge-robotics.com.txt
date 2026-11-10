@@ -1,0 +1,41 @@
+// about
+A small team reinventing how factories get built.
+Forge Robotics was founded in 2025 in San Francisco, building fully modular autonomous factories. We're backed by Y Combinator (F25) and operate out of our own facility in the Bay Area.
+// investors
+Backed by the best in deep tech.
+Forge Robotics is backed by Y Combinator and a group of operators and angels from the robotics, manufacturing, and AI worlds.
++ angels from robotics & AI
+// new investors
+Interested in investing?
+Fundraising
+Send us a quick note and we'll share our intro deck.
+// team
+Founder
+Robert Cormican
+CEO
+robert@forge-robotics.com
+Senior Engineers
+Conor Pickering
+Dept. Head of ML · Software Robotics Team Lead
+// careers
+Come build the factory of the future.
+No open roles right now
+We're not hiring at the moment. Check back soon.
+We're a small team in San Francisco and we're growing carefully. New roles will be posted here as they open up.
+// news
+Latest from Forge
+2025 · Sep
+Forge opens its San Francisco facility
+Shortly after Y Combinator, Forge set up its operations in the Bay Area and began running welding and scanning out of its own facility.
+$500K pre-seed led by Y Combinator (F25)
+Forge Robotics joined the F25 batch with a $500K pre-seed to accelerate the rollout of modular autonomous factories.
+2025 · Jun
+Forge Robotics is founded
+The company is founded in Galway, Ireland.
+// faq
+Frequently asked
+A modular autonomous factory is a production line made up of self-contained, self-operating modules (welding, scanning, engraving, etc.) that can be reconfigured in software and relocated physically. Instead of building a new line for each product, you compose one from modules that run themselves.
+Our first hardware product, the Welding Module, is on a waitlist. Today, most customers engage us through production contracts where we run the modules and ship finished parts.
+1385 Fairfax Ave, STE B, San Francisco, CA 94124, US. Our factory and engineering team are based here in the Bay Area.
+Manufacturers of metal goods (automotive suppliers, contract fabricators, industrial equipment OEMs) who need welding, engraving, or scanning with tight quality requirements.
+For partnerships or customer inquiries, use the form on the Resources page. For investor inquiries, use the form on this page. Or email robert@forge-robotics.com directly.

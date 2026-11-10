@@ -1,0 +1,13 @@
+🎓 Classes using marimo. See how educators across the world teach with marimo.
+Browse classes
+Careers
+At marimo , we're building the world's best open-source programming environment for data and AI. Originally incubated with scientists at Stanford, marimo is now used by companies and universities around the world, with millions of downloads and over 17,000 GitHub stars.
+We're a small team of passionate engineers and researchers. We believe the tools we use shape the way we think — better tools for better minds. If you're excited about open source, developer tools, or building highly scalable cloud services, please apply!
+Open Positions
+Staff Software Engineer, molab Infrastructure
+Senior Software Engineer, molab Infrastructure
+GitHub
+Discord
+Twitter
+YouTube
+Get notified about new features and updates

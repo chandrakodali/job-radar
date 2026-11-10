@@ -1,0 +1,129 @@
+Backed by
+The first FDE success platform
+Stop chasing customers for context. Stop redoing work across accounts.
+Nixo gets you from discovery to deployment 10x faster.
+Request Access See Features
+Welcome to Nixo, Stephanie
+Fires ● Live
+Retool: SSO login failing for team members
+Sarah Chen · Just now
+Support
+Mike Adams · Fixed 3 SSO issues this month
+TechStart Inc: Webhook delivery delays
+Marcus Johnson · 2h ago
+Lisa Park · Owns webhook infrastructure
+Vercel: Custom Salesforce integration
+Robert Chen · 3h ago
+Build
+You · Built Salesforce sync for Linear
+DataFlow: API returning 500 errors intermittently
+David Park · 5 days ago
+Mike Adams · Already responded to this thread
+Linear: Weekly usage reports to Notion
+Jordan Smith · 7 days ago
+Alex Kim · Built Notion integration for Stripe
+Team Workload
+Unassigned requests 2
+Mike Adams 8 active
+Sarah Wilson 4 active
+Lisa Park 6 active
+David Park 5 active
+Critical Accounts
+Retool 3 open
+SSO blocking eng team
+DataFlow 5d alert
+API 500 errors
+Linear
+Awaiting timeline
+Support teams organize work by tracking customer requests.
+Engineering teams organize work by tracking product issues.
+But FDEs? They live at the intersection of both .
+With Nixo, customer and product work stay in sync
+from conversation to resolution.
+Features
+One platform to
+run your FDE ops
+Nixo brings together customer context, code intelligence, and workload visibility into one platform built specifically for forward deployed engineers.
+Context Capture
+Capture customer context automatically
+Nixo turns customer calls into an organized view of their tech stack, environment, and feature requests. No more scrambling for notes.
+Salesforce
+Enterprise Account
+Active
+$185k
+Annual Contract
+98th
+Percentile
++12%
+QoQ Growth
+Jan 2025
+Since
+Technical Environment
+☁️ Cloud
+AWS + GovCloud
+🗄️ Database
+Oracle RAC
+🔒 Security
+SOC 2 Type II
+Smart Prioritization
+Direct your attention to what matters
+Know which tickets to focus on based on account importance, issue complexity, and your past expertise.
+Pied Piper
+Richard Hendricks
+ETL pipeline not syncing customer data
+Account: medium Complexity: high
+Hooli
+Gavin Belson
+API rate limiting issues
+Account: high Complexity: medium
+Raviga
+Laurie Bream
+Dashboard needs refresh
+Account: low Complexity: low
+AI Intake Agent
+AI-powered customer intake
+Nixo's AI Intake Agent engages customers to collect the context FDEs need before stepping in. Save hours of back-and-forth.
+Nixo Intake Agent Online
+Richard Hendricks 12:15 AM
+We don't think the ETL pipeline is working for us
+Nixo AI 12:15 AM
+Thanks for flagging this! Can you tell me which data sources you're trying to sync?
+Richard Hendricks 12:17 AM
+We want to pull from Datadog and push to our analytics dashboard
+Nixo AI 12:17 AM
+Got it! I've gathered the context. Assigning to Sarah who has expertise in Datadog integrations.
+Work Intelligence
+Prevent duplicate work
+See connected tickets, pull requests, and past solutions in one view. Never solve the same problem twice.
+NIX-45 Add Datadog integration
+Initial Datadog support with API key authentication
+Done
+PR #234: Multi-Region Monitoring
+EU1 Datadog account with region-specific API URLs
+Current Request
+Fidelity wants Datadog metrics in their custom dashboard
+💡 Suggested: Reference PR #234 for API patterns
+Code Intelligence
+Start 80% done
+Get a running start with relevant code, configs, and fixes pulled from past work across your entire team.
+Relevant Past Work 3 matches found
+#4751 CUSTESC
+Added a custom ETL pipeline for Fidelity
+80% match
+#4743 TEAMENG
+Upgrade Datadog integration to pull from EU1
+63% match
+#4750 DEFECT
+Improved performance of the data cleaning agent
+41% match
+Integrations
+Connect your
+entire stack
+Nixo pulls context from Slack, GitHub, Linear, and your CRM—so you never have to chase customers for details again.
+Don't see your tool?
+Request an integration →
+Limited Early Access
+Let's talk
+Book a 15-min call with the team to see how Nixo can supercharge your forward deployed operations.
+Prefer email?
+team@withnixo.com

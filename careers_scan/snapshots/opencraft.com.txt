@@ -1,0 +1,118 @@
+Work full time as an open source developer
+Do you care about contributing to open-source, and appreciate a good challenge? We do too!
+Why OpenCraft?
+Make a Difference
+The code we write is almost exclusively open source, and we contribute it upstream – furthering online education through the OpenedX project.
+Learn more
+Truly Remote
+We’ve been remote since our inception. There is no office, no mandatory timezone, and our team lives worldwide. Minimal meetings.
+High Standards
+Our team stakes its reputation on code quality. Team members are dependable and skilled. We meet our commitments.
+Flat Structure
+Sometimes you’re the developer. Sometimes you’re the project manager. Have discretion over which projects you take.
+OpenCraft is an outstanding company to work for. The processes are transparent, the colleagues are highly-skilled, and management cares about the company and those who work for it. Those who join have great opportunities to learn new things , or get a deeper knowledge about a specific area.
+Gábor Boros | Dubai, United Arab Emirates
+OpenCraft provides a remote and mostly asynchronous workspace that allows you to truly focus on the things you need to do, when you want to. You'll constantly be challenged, in the right way. You'll work with high-profile clients whose names will look good on your resume. The team is hard-working, brilliant, and very supportive - I couldn't ask for better colleagues.
+Gabriel D'Amours | Quebec, Canada
+Working on Open Source means I'm building my portfolio in public where anyone can see - potential clients, colleagues, employers, everyone. It was unnerving at first to take this risk, but Open First promotes quality, collaboration, and kindness . It's worth it!
+Jillian Vogel | Adelaide, Australia
+This has hands-down been my favorite place to work. The team takes its remote, open, and flat structure seriously. We do excellent work , and I know I can depend on my teammates. If there's anything I don't like about the company, I can work with my teammates to change it, and have done so on more than one occasion.
+Fox Piacenti | Houston, Texas, USA
+We spend most of our time working. That work should have meaning
+What makes our work special at OpenCraft is the knowledge that it makes a difference. We focus on open source projects, especially the Open edX platform. Because our work becomes part of the open source project, we never just work for one client – it helps all learners and teachers using the project worldwide, and makes learning more accessible and open.
+Our open-first philosophy keeps us honest and pushes us to bettering ourselves and our community. We believe in contributing back, and finding better ways to collaborate and work. We share the knowledge that we’ve gained instead of hoarding it.
+It’s the 21st Century. We can work from anywhere on our own schedule
+We don’t have office space, and we don’t have prescribed shifts. Our sprints are planned asynchronously . As long as you have a solid Internet connection and get your work done, you can choose whatever schedule you like.
+Some of us are true digital nomads, moving locations every few months or years to explore the world as we work. Others settle down and get into a routine that works best for us.
+We do things right the first time -and when we don't, we fix it fast
+Quality is Important. We believe in following (and establishing) software best practices . We insist that our code has tests, that it be readable, and that it does not leave a mess for the next developer. Team members have experience in software architecture, and will advise one another on how to make succinct, expressive code with documentation.
+We create work we’re proud of. We budget the time so that team members aren’t pressured to write horrible hacks, because we know that bad code is more expensive than good.
+Work with equals you respect. No middle management
+OpenCraft is mostly flat, preferring the creation of lateral roles over the entrenchment of managerial layers. Team members may take roles that handle responsibilities sometimes associated with traditional middle managers, such as an Epic Owner , or a Sprint Planning Manager , but these people are not anyone’s boss. While a small core management team does exist, it has a policy of letting team members make their own decisions wherever possible while providing organizational support.
+OpenCraft fosters a highly collaborative environment. We have a process for setting rates, and raises are applied company-wide . This reduces competition between members. Everyone on the team is rock solid and dependable. We hold each other to high expectations and know that we can depend on one another to get the job done.
+OpenCraft's Values
+We work according to our core values : openness, quality, commitment and empathy.
+Academic Institutions
+Openness
+We believe in transparency, honesty, and open source. Our aim is to share our work with the community, ensuring it benefits both our clients and humanity. Radical honesty guides the way we work.
+Quality
+Our team of senior professionals delivers high-quality code and expert support. With deep expertise in Python, JavaScript, and Open edX® technologies, we ensure top-tier results for every project.
+Commitment
+We do what we say, and do it on time. We are committed to keeping our promises and delivering on time, consistently meeting deadlines and exceeding expectations. This is how we foster trust and reliability.
+Empathy
+We pay close attention to how our actions affect others, aiming to be kind and considerate. When tough decisions are required, we handle them with care and respect for everyone involved.
+FAQs
+As developers at OpenCraft, we all work on a variety of projects. Almost all the work we do is related to the Open edX platform and its ecosystem. Some of the common tasks are as follows:
+Creating pull requests to Open Source projects to upstream changes,
+Developing new features, documentation, tests, and bugfixes—for example, adding a new type of interactive exercise in a course, or adding a new - core feature to the platform, like Content Libraries or tagging.
+Deploying and managing instances of Open edX, and improving automated deployment systems (DevOps), and
+Automating repetitive work done by the team through development, to allow them to focus on more interesting problems.
+Developers at OpenCraft are generalists with a specialization in full stack software development. At times, you will be the leader on a project, meeting with the client to create a roadmap, budget, and tasks. At other times, you will be a contributing developer, completing those tasks and performing code reviews.
+You will not be stuck on one project for too long. In fact, we encourage you to try a large variety of tasks on different projects during your first few months to best demonstrate your abilities, and you’ll have the ability to take on tasks from different projects during most sprints.
+OpenCraft and edX are different companies, but we work closely together on the Open edX platform. The Open edX platform is the software platform which runs edx.org . edX open sourced the project in 2013, and OpenCraft’s founder, Xavier, was the first outside contributor to the project. To understand more about the relationship between edX and the Open edX platform, as well as get an overview of the platform, watch this video .
+OpenCraft is an Open edX Partner, and we are the largest outside contributor to the Open edX platform. We specialize in custom solutions for various clients— especially those who require carefully planned architecture or scaling— while edX focuses on improving Open edX for the edX.org website. We also offer a SaaS platform that lets customers try their own copy of the Open edX platform.
+These days, community development of the platform is organized by Axim Collaborative . OpenCraft is frequently contracted by Axim to add major features to the platform. We also coordinate the creation of new features between our clients, edX, and the Open edX community at large. We are confident in saying that outside of edX themselves, we are the foremost experts in the Open edX platform.
+The Open edX platform and most software projects that interact with it are built using Python and Django. A solid understanding of the Python language is important to your day-to-day work at OpenCraft. The rest of the stack described in the job description can often be picked up on the job, but note that the Open edX platform and OpenCraft will already require significant effort to learn. So the more you are missing, the steeper the learning curve—if you are missing a significant proportion, expect a very intense first few months. If you don’t have Django experience in particular, you will have to be able to pick it up very quickly. You’ll have a better chance if you have experience with at least one similar framework.
+You should also be familiar with the basics of the Linux command line and system administration. You don’t have to be able to configure a webserver from scratch when you join, but you will need to know how to perform basic shell commands and know how to ssh into machines to run those commands. You will need a POSIX-compatible environment. Most of our developers run Linux or Mac OS X as their main operating system, though Docker and Vagrant are used to ensure compatibility during development for most projects. You will need to learn the basics of them quickly if you don’t already know them.
+You should be familiar with CSS and JavaScript. You don’t have to be an expert in these, but you should not be afraid to get your hands dirty with them. Open edX uses React on the frontend, and it's important to know it or a similar framework. Bonus points for TypeScript skills, although you can learn that as you go, too.
+You don’t need to be an expert in SQL, but you should know how to run a simple select statement and have some familiarity with database concepts such as rows, tables, columns, and indexes. The majority of the SQL we do is written for us via Django’s ORM. Most of us Google the rest as we go.
+You should know how to write unit tests. We are serious about testing.
+We frequently deploy on AWS and DigitalOcean environments, most typically via Kubernetes. Any knowledge you have here will be helpful, though if you know Linux basics, you can lean on the Open edX-specific orchestration tools we use ( Tutor and Grove ) to start. Our development and production environments heavily leverage Docker containers.
+While you don’t have to know it already, you must be willing to learn public speaking. Developers sometimes present during community events or to clients, and each developer is expected to submit a plan for a talk at the yearly Open edX conference and to present if selected. Project management skills also help, as you will be leading some projects during your tenure.
+We use an agile workflow (scrum) based on two-week sprints, but these are coordinated and planned asynchronously. Getting a solid sense of how our asynchronous process works requires running through it a few times. It’s a different way of working compared to the synchronous one most companies use. However, here’s a basic overview:
+Near the end of the current sprint, Epic Owners create, schedule, and tentatively assign tickets for the next sprint.
+Over the next few days, developers read over the tickets, estimate, and trade these tickets around until each feels confident with the amount of work they’re committing to.
+We use a few custom-made tools to make this easier—an app that helps us track our committed hours, as well as Listaflow , our Open Source recurring checklist tool.
+At the end of the sprint, each person posts an update video to later review.
+The next sprint starts, and everyone reviews these videos when they begin their work.
+To make sure we do get some face time, we have social chats scheduled during the sprint.
+In addition, a retrospective thread is updated with anything we might be able to celebrate or improve about our processes.
+You can get a more detailed explanation of the process in our handbook .
+We do "include" benefits and time off, although in a different manner than in most places. We let each team member decide on their own compensation level, which is meant to include the benefits each of us chooses, rather than the ones a company decides on behalf of everyone.
+Everyone at OpenCraft is hired for a permanent contract position on an hourly basis. This simplifies hiring across borders tremendously, but comes with some differences compared to traditional employment.
+The unit used to determine the compensation is the time spent working , and only the time spent working (excluding vacations, breaks, etc.). Team members set an hourly rate that allows them to live the quality of life they seek. During the hiring process, you will have the opportunity to set your rate. Your rate should include things like
+Taxes
+Healthcare plans or other benefits traditionally offered by employers in your country
+Enough buffer for you to save up for vacations to take when you like
+To make this easier, we came up with this spreadsheet that helps you figure out a rate which works for you. It is not uncommon for team members to set aside cash and take month-long vacations. The vacations are not paid, but your rate can include a good bit of overhead, and so how you plan and save for vacations is up to you. Team members have a great deal of flexibility in the time they take off. You will need to give sufficient warning, and follow the vacation checklist , but otherwise you can take what you need.
+We encourage team members to frequently take time off, whether it's vacation time or just a few days to recharge their batteries or take care of personal business. Team members can also request a temporary reduction of their work hours, or even a temporary reduction of their availability to/from specific projects, clients or roles.
+You can read more about how rates and compensation work in our handbook.
+Almost! You can work from anywhere as long as you can get your work done— that is, anywhere you have a stable internet connection and have circumstances that allow you to get your hours/tasks in.
+You can also move between locations as you wish, as long as it doesn’t affect your work results and communication—some of us, including our CEO, are digital nomads.
+Examples of places you can work:
+London, UK
+A coffee shop
+Houston, Texas
+Accident, Maryland
+In a tree with a cell phone modem hooked into your laptop
+Honolulu, Hawaii
+On the ocean floor with a spliced connection into the Internet backbone and a pressurized life support environment
+Paris
+A relative’s basement
+Cancun, Mexico
+Batman, Turkey
+Tokyo, Japan
+Example of places you cannot work:
+Antarctica (No hard lined Internet, and you have to share the satellite with too many researchers)
+Mars (Latency is too high)
+North Korea (Electrical system and Internet are not stable enough)
+Chernobyl (unless you are using ECC memory)
+Yes! OpenCraft’s processes are quite unique, and there’s a great deal to learn. You will be assigned a mentor to help you through the process and answer questions you cannot find the answers to. They will also help you in planning your initial sprints and making sure you have work suitable for a newcomer.
+Better yet, to make sure you have everything you need to get onboarded, including dedicated time to learn the ropes, you are immediately presented with your first project: Your Onboarding Epic .
+Your Onboarding Epic is a project where you will create and manage tasks and budget for your training, similar to how projects are run by core team members. Your onboarding budget is shared between you and the team members that will be mentoring and evaluating you. It gives you a chance to learn the team’s tools, processes, and technologies by using them.
+Much of your onboarding time will be spent reading through documentation, setting up your development environment, and learning how the tech stack works together. If you pass the initial 2-month trial, you’ll be able to spend the rest of the hours of your onboarding epic learning the additional responsibility that comes with becoming a fully-fledged core member of OpenCraft!
+The entire company is currently around 35-40 people. It is divided into cells which work as mostly-autonomous teams that plan their sprints independently, and each have their own set of dedicated clients and assigned projects. The number of team members in each cell varies, but when a cell gets large enough, it performs a cell split to create two teams from the original one. At the time of writing, there are two cells with 9 people and one with 13. You will be assigned a cell once you join, and this team will be the one you work with day-to-day.
+Most of us are developers, but there are also a few members who are not in the main cells and do administration work like billing and sales. We also have the CEO and CTO, who are the only two managers of the otherwise flat structure . Some members are not core team members, but provide part-time support as outside consultants.
+Read more about the full job description here (link coming soon).
+Join the Team
+Passionate about open source and up for a challenge? Join us full-time as an Open Source Developer! Fill out the form at the link below to apply.
+Apply now
+Get in touch
+We'd love to hear from you! Send us a message and a member of our team will get back to you.
+Contact us
+Subscribe to our newsletter
+Jobs
+Our Handbook
+Our Terms
+Data Processing
+edX and Open edX® are trademarks of edX Inc

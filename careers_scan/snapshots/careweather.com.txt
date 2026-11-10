@@ -1,0 +1,44 @@
+Build weather
+satellites with us.
+Work on the hardware, software, and manufacturing systems behind our Veery weather satellites.
+Explore 9 open roles
+Electronics manufacturing at Care Weather.
+Ownership from concept to flight
+Engineers at Care Weather are full-stack, meaning they own their features across the technology stack—from requirements and design to manufacturing and operation on orbit.
+Accelerate your growth.
+Expand your skills across the stack of electronics, mechanisms, and software. Unlock your full potential by closing the design-to-test feedback loop for yourself and your agents.
+Test like you fly.
+Every developer gets an entire flight model for realistic, end-to-end testing. You also get to test your own work on orbit.
+Build open source.
+Care Weather supports open source projects, including KiCad, PlatformIO, Basilisk, and our own model-based systems engineering language, Oneil.
+Explore Oneil (opens in a new tab)
+Intern creations fly too.
+Engineering interns and co-ops take ownership of flight hardware or ground systems, with mentorship from concept to test.
+View internship program (opens in a new tab)
+Come to build. Stay to explore.
+Headquartered in Springville, Utah, where the Great Basin meets the Colorado Plateau. Come to save the Earth, stay to explore it—from Martian landscapes to the greatest snow on Earth.
+Choose from seven nearby ski resorts for a day trip. For a weekend away, explore 11 national parks: Arches, Bryce Canyon, Canyonlands, Capitol Reef, Zion, Grand Teton, Yellowstone, Black Canyon of the Gunnison, Mesa Verde, Grand Canyon, and Great Basin.
+Credit: Tom Till
+Open roles
+9 roles shown
+Engineering Internship/Co-op
+Own flight hardware or ground systems, with mentorship from concept to test.
+Springville, Utah · Internship / co-op · View opportunity ->
+(opens in a new tab)
+Full-stack Spacecraft Engineer - GNC
+Take spacecraft pointing and collision avoidance from simulation to orbit.
+Springville, Utah · Full time · View opportunity ->
+Full-stack Spacecraft Engineer - Compute and Networking
+Build flight software and satellite mesh networks, then test them in orbit.
+Full-stack Spacecraft Engineer - RF/Microwave
+Build radar and antennas to map ocean winds from space.
+Full-cycle Instrument Scientist
+Develop and calibrate microwave instruments to measure winds, waves, and rain.
+Full-stack Spacecraft Engineer
+Build flight electronics, software, and mechanisms from concept to orbit.
+Full-stack Spacecraft Engineer - Thermals
+Own passive thermal design across the satellite, from heat models to flight tests.
+Full-cycle Factory Engineer - PCBA
+Build a robotic factory that drives custom circuit boards toward material cost.
+Business Automation Manager
+Build tools with AI to automate accounting and operations alongside the CEO.

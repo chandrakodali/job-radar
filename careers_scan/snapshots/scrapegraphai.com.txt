@@ -1,0 +1,12 @@
+Introducing ScrapeGraphAI V2 — better, faster, cheaper APIs. Read the blog →
+// Join the team
+Careers at ScrapeGraphAI
+Our Mission
+To be the go-to infrastructure for web data extraction in the era of AI, removing all friction for proper, clean, and steady web data collection.
+Our Values
+Click to view our 11 core values that guide everything we do
+Open Positions
+No Open Positions
+We don't have any open positions at the moment, but we're always looking for talented individuals who are passionate about AI and web scraping.
+Follow us on LinkedIn or Twitter to stay updated on future opportunities.
+Interested in contributing to ScrapeGraphAI? Check out our open source project on GitHub.

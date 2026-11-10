@@ -1,0 +1,121 @@
+Maintenance Agreements & Memberships
+Maintenance agreements, memberships and recurring visits, on your cadence.
+Service agreements with planned visits, billing and profitability, care plans and memberships with renewals, and recurring visits that create themselves. Recurring work that runs on your cadence, not a preset: maintenance contracts, seasonal schedules, and auto-billed recurring visits, built to your exact cadence and rules, not the ones your last tool forced on you. Change a template or a rule in plain English and it goes live instantly, no rebuild.
+Get Demo See it change live
+Maintenance agreements
+Agreements with the visits, the billing and the profit on one page.
+A service agreement holds what you promised: the planned visits, how it is billed, and whether it is making money.
+Planned visits
+The visits the agreement covers, scheduled across its term.
+Billing schedule
+Bill up front, monthly, quarterly or per visit, from the agreement.
+Profitability
+Revenue from the agreement against the labour and materials it used.
+An agreement: visits, billing and profitability.
+Memberships and care plans
+Care plans your customers join, and renew.
+Run memberships for homeowners and small sites: who is a member, which visits are due, and which plans are coming up for renewal.
+Members
+Every customer on each plan, with the plan they are on.
+Visits due
+The tune-ups and inspections each member is owed, and when.
+Renewals
+Plans coming up for renewal, so none lapses without a conversation.
+Care plans: members, visits due and renewals.
+Recurring visits and PM
+Recurring visits that create themselves.
+Set the cadence once. The visits appear on the schedule on time, and preventive maintenance that is due shows up before it is missed.
+Visits on a cadence
+Weekly, monthly, quarterly or yearly, created on the schedule without anyone keying them in.
+PM due
+Preventive maintenance that is due, by site and equipment, in one list.
+SLA targets
+Response and completion targets on the agreement, tracked on every job it creates.
+Schedule, recurring visits.
+SLA tracking Invoices and payments
+Plain English
+Describe the change. It goes live.
+Maintenance Agreements & Memberships Plain English
+2 fields added
+Serial + filter size on every visit form
+Pushed to all recurring templates
+214 contracts updated at once
+Live now
+Past visits preserved, techs notified
+Live in
+Shipped no dev, no ticket
+Built your way
+Recurring work, shaped to your cadence.
+Contracts, cadences, billing, and upsells, with the one-offs still in the mix.
+Maintenance contracts
+Monthly, quarterly, bi-annual, annual, with line-item visits and SLAs.
+Auto-scheduling
+Next-visit dates generated automatically, rebalanced against capacity.
+Seasonal triggers
+Weather-aware scheduling for heating, cooling, and outdoor trades.
+Recurring billing
+Pre-paid, per-visit, or hybrid, all handled natively.
+Contract SLAs
+Response windows and included services enforced automatically.
+Renewal automation
+Drafts, sends, nudges, and logs contract renewals without a rep.
+Counted back from the date
+Ninety days before a renewal, thirty before a warranty lapses, seven after a missed visit, scheduled off the date on the record, so it fires even if nobody opens the contract for a year.
+Upsell triggers
+Eligibility rules surface new revenue the instant it's available.
+Tiered customers
+Platinum, Gold, Silver, with different SLAs, cadences, and pricing.
+Capacity-aware
+Recurring visits slot into existing capacity, no overbooking.
+MRR reporting
+Monthly recurring revenue, expansion, and churn tracked live.
+See it built around how your team already works.
+Get Demo
++32%
+Contract attach rate
+60%
+Revenue recurring
+Zero
+Missed cadences
+Shaped to your trade
+Your business doesn't run like the template. Neither does Fieldproxy.
+HVAC
+Spring + fall tune-up plans on your cadence.
+Pest Control
+Quarterly recurring service with AutoPay.
+Fire Safety
+Annual inspections scheduled and reported by AHJ window.
+Want it running on your jobs? We set it up around them.
+Integrations
+Plays nicely with the tools you already use
+Stripe
+Recurring billing, AutoPay, and dunning, all handled.
+QuickBooks / Xero
+Recurring invoices recognized correctly over time.
+Native e-sign
+Renewals signed on the device and stamped to the contract.
+Google Calendar
+Recurring cadences visible to office and techs.
+Weather APIs
+Seasonal triggers react to actual weather, not the calendar.
+Webhooks
+Contract lifecycle events into any downstream system.
+AI agents
+The AI agents that keep the contract alive
+Recurring revenue is lost quietly: a visit not generated, a renewal nobody chased. Agents make that loud.
+Scheduler Agent
+Generates the next visit for every contract and rebalances the ones that don't fit, so a full week never silently drops a maintenance call.
+Calling Agent
+Makes the renewal and reminder calls on schedule, and the re-book call after a customer skips.
+Watcher Agent
+Flags the missed visit, the contract running out of included hours, and the renewal ninety days out, counted from the date on the record, not from someone's calendar.
+Explore all AI agents →
+Recurring revenue, without the recurring grind.
+30-minute demo on your contract base. We'll schedule a month of visits in seconds.
+Get Demo See pricing
+Also works from ChatGPT, Claude and Copilot in Teams
+Fieldproxy's MCP server lets your team run the day and change the software itself from the AI assistant they already use, with a confirm step before anything changes.
+Connect ChatGPT, Claude or Copilot
+Change the software by asking
+Bulk updates from the chat
+All MCP use cases

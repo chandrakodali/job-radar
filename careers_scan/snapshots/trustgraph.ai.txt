@@ -1,0 +1,131 @@
+NEW Determinism is All You Need for AI Agents Watch the Video →
+The AI Governance Platform
+Business meaning in the graph. Business authority in the runtime.
+TrustGraph captures what your business means and governs what your AI agents do , so every automated decision is grounded, enforced, provable and most importantly defensible .
+01 · context graph
+Business meaning modeled with your own or domain-standard ontologies, W3C-compliant from end to end.
+02 · Agent runtime
+Semantic policy enforced on every agent action: allow, pause or deny, with the evidence recorded.
+Book a demo Deploy the open-source core
+W3C RDF 1.2
+OWL
+SHACL
+PROV-O
+Apache 2.0
+DECISION · PAY-4471 ALLOW
+Supplier payment · $48,200
+✓ Active supplier relationship
+✓ Contract covers invoice INV-2209
+✓ Within delegated authority
+policy v14 · executed · PROV-O record saved
+01 What is TrustGraph?
+An context graph and a policy runtime, connected.
+TrustGraph is an open-source AI Governance Platform that turns enterprise knowledge, systems, and logic into an ontology-grounded context graph, then uses that graph to govern AI agents at the moment they act. Every proposed action is checked against business meaning, authority and evidence, and is allowed, paused or denied before it executes.
+Each decision is stored with the exact evidence and policy version behind it, as W3C PROV-O provenance you can query later.
+02 The problem
+Agents have credentials. They don't have context or limits.
+How the business works is scattered
+It lives across documents, systems and people. Turning it into a governed, ontology-grounded graph is slow, manual and stale on arrival.
+Nothing governs the moment of action
+An agent with API credentials can execute regardless of contract, authority or evidence. Guardrails filter text; they don't decide whether a payment should go out.
+Enterprises need both, connected : a living graph of how the business operates, and a runtime that enforces it on every agent action.
+03 How it works
+The semantic layer sits inside the execution loop
+Agents can reason probabilistically. Their actions are decided deterministically.
+Business knowledge
+Ontologies and facts in a graph
+Agent proposes
+An LLM plans an action
+Semantic policy check
+Meaning, authority, evidence
+Decision
+ALLOW PAUSE DENY
+Controlled execution
+Integrations honor the decision
+Evidence record
+W3C PROV-O provenance
+Pause loops back: fetch fresher evidence, clarify or request approval, then re-evaluate.
+Every decision is stored with its evidence and policy version as queryable knowledge.
+The LLM proposes. TrustGraph decides whether it may act.
+04 In practice
+One business action: a supplier payment
+The agent holds credentials for the payment API. Business policy also requires:
+An active supplier relationship
+A valid contract covering the invoice
+A verified beneficiary account
+An amount within delegated authority
+Extra approval above a set threshold
+Policy evaluation policy v14
+Supplier Contract Invoice Beneficiary Approver
+PROPOSED Payment
+ALLOW compliant
+PAUSE needs approval
+DENY prohibited
+The result: the agent cannot execute the payment when the rules are unsatisfied.
+05 The platform
+From business understanding to controlled action
+Understand
+Build an ontology-grounded graph from your documents and systems that ties every action to the policies it touches.
+Govern
+Apply explicit rules across authority, scope, risk, uncertainty, time and value before execution, not after the incident.
+Verify
+Preserve the evidence and policy version behind every decision, so any outcome can be reproduced and explained.
+06 Open source · Open standards
+Run it anywhere. Own your intelligence.
+Built on W3C RDF 1.2, OWL, SHACL and PROV-O, so your ontologies, policies and provenance stay portable. Deploy with Docker Compose or Kubernetes, on every major cloud or on-prem, with hosted LLM APIs or open-weight models on your own accelerators.
+Hosted LLMs
+Anthropic OpenAI Google Mistral
+Open models
+vLLM LM Studio llama.cpp Ollama on NVIDIA, AMD or Intel acceleration
+Clouds
+AWS Azure Google Cloud OVHcloud Scaleway and on-prem
+Deploy
+Docker Compose Kubernetes
+Built-in inference stack. Run open-weight models on TrustGraph's own LLM inferencing stack, alongside the context graph and agent runtime, so the whole system can operate inside your environment. The AI factory
+Open the config builder Read the docs
+$ npx @trustgraph/config
+? LLM provider Anthropic
+? Deploy target Docker Compose
+✓ Generated docker-compose.yaml
+$ docker compose up -d
+✓ TrustGraph is running
+07 Why teams switch
+What teams replace with TrustGraph
+context graph vs. property graphs
+No native ontology enforcement, provenance has to be hand-modeled, and there's no policy runtime for agent actions.
+Graph vs. context graph
+W3C ontologies vs. closed ontologies
+Proprietary ontologies lock business logic inside one vendor. Enterprises want to own their intelligence.
+Why open ontologies
+Defensible agent execution vs. agent frameworks
+Agent frameworks orchestrate model calls and leave the outcome to the LLM. TrustGraph decides every action deterministically against policy and records the evidence, so each outcome can be explained and defended.
+What is determinism for AI?
+Open source, W3C standards and enforcement at the point of action, deployable anywhere.
+08 Use cases
+Built for teams where actions carry real risk
+Finance and banking
+Payments, approvals and delegated authority enforced on every agent action.
+Explore
+Agentic threat intelligence
+Unify threat, event and log intelligence in one governed graph.
+Pharmacovigilance
+Traceable drug-safety workflows with evidence behind every decision.
+Aerospace, defense and telecom
+High-assurance agents where decisions must be auditable and reproducible.
+09 FAQ
+Questions, answered
+More in the glossary and guides .
+What is TrustGraph?
+TrustGraph is an open-source AI Governance Platform: a context graph with a deterministic agent runtime. It builds an ontology-grounded knowledge graph of how a business operates, then checks every action an AI agent proposes against that graph, returning allow, pause or deny with recorded evidence.
+What is a context graph?
+A context graph connects business entities, relationships, policies and evidence so AI systems act with the full meaning of a request. Thoughtworks uses TrustGraph as its definition of a context graph.
+How is this different from AI guardrails?
+Guardrails filter what a model says. TrustGraph governs what an agent does: it resolves the business entities an action affects and evaluates authority, scope, risk, uncertainty, time and value before execution.
+Which standards does TrustGraph use?
+W3C RDF 1.2, OWL, SHACL and PROV-O. Your ontologies, policies and decision records stay portable with no lock-in.
+Is TrustGraph open source?
+Yes, the core is open source. Enterprise add-ons cover knowledge-based access controls and IAM, an attestation engine, temporal knowledge management and the deterministic agent runtime, with engineering support for production deployments.
+10 See it in action
+Put your business rules between agents and action.
+See a governed agent block, pause and resume a real workflow in 30 minutes.
+Book a demo Star on GitHub

@@ -1,0 +1,88 @@
+Free Trial
+Careers in Functionize
+Join the future of enterprise automation
+Automation doesn't have to be boring - supercharge your career with us!
+We need people with the heat in their bellies - we do freaking love what we do!
+Job Openings Benefits
+Our Vision
+A world where automation isn’t just a tool, but an extension of your team, fueling breakthroughs and empowering every person to focus on what truly matters leveraging full autonomy.
+AI and Automation are redefining the way work is done. Functionize believes enterprises will only achieve real value through an architecture that supports many expert agents that are already trained to perform full job roles cutting significant time and cost.
+Our Mission
+Eliminate all manual workflows in the enterprise – delivering true digital workers powered by our intelligent agentic architecture and AI.
+Learn More
+our AI Journey Manifesto
+Functionize Values
+Integrity and Respect
+We communicate openly, honestly and transparently. We treat each other, our customers and our partners respectfully.
+Growth Mindset
+We embrace continuous learning, active listening, taking ownership by focusing on solutions not problems and being accountable for delivering results.
+Innovation
+We believe in big visions, moving fast and taking calculated risks.
+One Team
+We win and lose together.
+Customer Obsession
+We honor the commitments we make to our customers and relentlessly pursue ways to create ever greater value for our users. We walk in our customers shoes.
+Benefits
+Health Benefits
+Work from Home
+Flexible
+PTO
+Parental
+Leave
+Pre IPO
+Stock
+Share Our Journey!
+Road to full autonomy
+Since 2014, Functionize has been pioneering advancements in enterprise automation with AI-driven, cloud-scale innovation.
+We’re not just an AI wrapper around a popular LLM like ChatGPT. By taking our own, independent AI-first approach to QA so many years ago, we amassed vast volumes of web application data, allowing us to extensively train our proprietary models. This foundation in AI for QA has given us a unique edge—now, we’re able to apply agentic technology across all web applications.
+With years of expertise and a bedrock of proprietary data, we’re equipped to automate even the most complex business processes. Our approach stands apart, built from the ground up to meet today’s automation challenges.
+2016
+Cloud
+AI first company, everything cloud, ready for massive datasets
+2019
+NLP
+First attempt in full autonomy. Test script ingestion, extracting intent & meaning
+2020
+Big Data
+Near perfect ML selection, Self-Healing, Visual Testing, absorbing all possible metrics & data
+2022
+NextGen ML
+New generation ML, component architecture, ready for truly massive model sizes
+2023
+Generative AI
+First GPT model trained, massive productivity gains, test case generation
+2024
+Agents
+Generative Agents at work:
+Test generation ➜ Diagnostics ➜ Maintenance ➜ Reporting
+Future
+Full Autonomy
+Full Autonomy. Agents work together to perform fully autonomous test cycles with little to no human intervention
+Platform
+Overview
+Agent Tasks
+Architecture
+Agentic SDLC
+MCP
+Pricing
+Who's it for
+Testers
+Developers
+Leaders
+Enterprise
+Resources
+Blog
+Automated Testing
+Videos
+Guides
+Talk to us
+Company
+About
+Partners
+Careers
+Contact Us
+Manifesto
+In the media
+Legal
+Support Policies
+Usage Limits

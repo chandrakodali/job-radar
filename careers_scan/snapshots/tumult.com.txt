@@ -1,0 +1,66 @@
+Hype
+Whisk
+Reflect
+Store
+Support
+Forums
+Blog
+About Us
+Tumult is building the next
+generation of apps for web design.
+We capture the bleeding edge of web browser technology into tools used by top creative pros. Knowing a great artist can only become great when using the right tool, we value flexibility, precision, and simplicity.
+About Tumult
+Tumult is building the next generation of apps for web design. We capture the bleeding edge of web browser technology into tools used by top creative pros. Knowing a great artist can only become great when using the right tool, we value flexibility, precision, and simplicity.
+Our initial product, Hype , has been used to produce HTML5-based animations, infographics, ebook educational content, games, personal web pages, and everything in between. Hype has won the Macworld Editor’s Choice award, received multiple features by Apple in the App Store, and received tremendous praise from its users. Our user base is quickly growing, and our users are some of the best on the planet — they’re creative, talented, and passionate about making the best content possible.
+Founded by two Apple veterans, Tumult is backed by Y Combinator. Aside from this small funding, we’re proud to have bootstrapped a profitable company. Our team is headquartered in San Francisco. The work environment is laid back and comfortable; our team is skilled and driven. We love shipping award winning apps, supporting our users, and discovering the future of the web.
+Company Benefits
+Competitive salary and equity
+Full health, dental, and vision insurance
+$5000/year equipment budget
+Free lunches
+Flexible vacation
+How to Apply
+If any of these positions catch your eye, please send your resumé, along with a quick introduction describing yourself, to jobs@tumult.com . If you’re able, please also include links to any open source projects you’ve created or contributed to, or provide examples of apps you’ve worked on.
+Available Positions
+Software Engineer
+We're looking for a talented developer to improve the Hype application. You'll be responsible for adding app and runtime features, fixing bugs, and improving workflow tooling.
+Requirements
+Expert Cocoa/Objective-C developer, Mac experience preferred
+Solid understanding of JavaScript, DOM, CSS and HTML
+Experience building consumer software from the ground up
+Skilled debugger and problem solver
+Excellent written communication skills
+Detail oriented
+Pragmatic and productive
+Bonus Points
+Animation experience and visual creativity
+Scripting, automation, and test experience
+Excellent understanding of cross browser compatibility issues
+Experience hacking on complex JavaScript frameworks like jQuery
+Experience working on shipping browser engines or developing web standards
+iOS development experience
+Windows development experience
+Keen eye for good UI and software design
+Experience creating and deploying animated content on the web
+Located in SF Bay Area or experience with working remotely
+Products
+Hype 4
+Hype Pro
+Company
+Press
+Social
+@hypeapp
+@TumultWhisk
+Mastodon
+Facebook
+Instagram
+Hype Support
+Support Portal
+Downloads
+FAQ
+Tutorials
+Documentation
+Whisk Support
+Tumult Store
+Education Store
+Handcrafted in San Francisco.

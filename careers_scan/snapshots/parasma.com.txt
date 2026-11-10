@@ -1,0 +1,8 @@
+We train brain cells for compute.
+Featured in
+Token Prediction
+A sentence is converted into stimulation. The neurons carry that context and we directly decode their responses into tokens. No GPU needed.
+Learn more
+I slept on a soft
+Reinforcement Learning
+Each frame becomes a new stimulation pattern. The neurons select an action, we measure the result, and provide feedback inside a changing environment.

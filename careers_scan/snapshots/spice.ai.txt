@@ -1,0 +1,61 @@
+Build the future of data and AI
+Join a team pushing the boundaries of data infrastructure, AI, and developer experience. Work on hard problems, ship real impact, and grow with us.
+Join our team
+Meet the Team
+Help shape the next generation of intelligent software
+Spice AI is building the world's most powerful open-source data and AI engine. We're a small, high-impact team working across distributed systems, query engines, AI, open-source tooling, and modern developer experience. If you thrive in fast-moving environments, love solving difficult problems, and want to work with people who care deeply about craft, you'll fit right in.
+Learn more
+Open roles
+Open Positions
+Check out our open positions.
+Fetching jobs...
+Our mission
+With Spice AI, developers no longer need to be data, AI, or ML experts to build AI-driven software. Our mission is to help every developer leverage the latest technology and infrastructure to build the next generation of applications.
+Our vision
+We believe AI-driven applications will have a profoundly positive impact on the way businesses operate and how we all live. Our vision is to enable and accelerate the creation of these applications to improve outcomes for businesses and individuals alike.
+Our values
+Our values guide how we build, collaborate, and serve the developers who rely on us. They reflect who we are as a team and how we show up every day to advance the future of data and AI.
+Lead the way
+Leading the way requires each of us to be a leader - to take ownership, provide clarity, and progress towards realizing our vision.
+Work as one
+We trust, respect, and encourage each other through every challenge, and celebrate every success together.
+Empower developers
+We're dedicated to delivering the greatest developer experiences imaginable.
+Integrity, accountability, and congruency
+Judged by actions. Walk your talk.
+Simplicity is perfection
+We deliver the simplest solutions possible. Simple means less pain for developers, lower costs, and less labor.
+Vectors over scalars
+Velocity, direction, and momentum matter more than point values. Continuous improvement.
+Our hiring process
+Interested in joining us on our journey? We are always looking for talented and driven people who will help push us forward. Here is a breakdown of what to expect from our hiring process.
+Stage 1: Introductions
+Meet one or two members of the Spice AI team, introduce yourself, and learn more about how you might contribute to the mission.
+Stage 2: Book challenge
+Lead a mini "book club" session with the team on a book or research paper, and discuss and debate its merits.
+Stage 3: Pair programming
+No whiteboard interviews. Jump into a pair-programming session with an engineer on the team and solve real-world problems.
+Stage 4: Design and problem-solving
+Design a solution to a systems design and/or machine learning problem.
+Stage 5: Offer
+If it's a fit, we'll typically provide a competitive offer within 48 hours of interviews.
+Why Spice AI?
+Face and overcome challenging problems at the intersection of data and AI. Help to shape the future of the industry.
+I saw the high caliber of the team's engineers during my interviews and immediately knew Spice AI was an ambitious startup with a serious chance of building the next software application paradigm; I couldn't not join.
+Roger Frey
+President and COO
+I am extremely proud to be a part of Spice AI. The team is exceptional, driven by ambitious goals, and led by outstanding, supportive leadership. From the moment I joined, I was impressed. I am very optimistic about the future of the company.
+Jack Eadie
+Senior Software Engineer
+After 17 years working on large enterprise projects, I'm excited to join Spice AI to work on challenging technical problems at the intersection of large-scale data, query engines, and AI-making a real impact while also contributing to leading open-source projects. Spice AI is a small, exceptional team focused on quality and moving fast-exactly what I was looking for.
+Evgenii Kramkov
+Working at Spice has presented me with so many unique data and AI challenges in such a short timeframe, making me grow at a rate I thought was impossible! I'm so proud of the product my colleagues and I are creating, and am grateful to work with such a talented team.
+Sergei Grebnov
+Nothing compares with working at Spice AI: rock-star engineering team, exceptional leadership, challenging problems that often require learning something new, and a product with the potential to redefine the way data is served to applications, agents, and analytics.
+Viktor Yershov
+Spice AI has a world-class team building an ambitious product that's enabling a new generation of data and AI-driven use cases. For anyone interested in opinionated data infrastructure that's driving outsized business outcomes for customers, it's a dream role.
+Wyatt Wenzel
+Director of Marketing & Ops
+See Spice in action
+Walk through your use case with an engineer and see how Spice handles federation, acceleration, and AI integration for production workloads.
+Talk to an engineer (opens in a new tab)

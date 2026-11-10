@@ -1,0 +1,27 @@
+New AI employees built for your company, live in three weeks. On average, what we deploy saves $2.8M a year. Live in three weeks How we deploy
+Careers
+Build AI employees for the physical economy.
+Our team works directly with engineers at contractors, EPCs, plants and portfolios, and ships AI employees that change how they work every week. If that sounds like your kind of hard problem, we'd like to meet you.
+Why Operon
+0 1
+Real problems, real sites
+You'll spend time where the work happens: estimating rooms, control rooms, site trailers. The feedback loop is days, not quarters.
+0 2
+Hard technical work
+Dense drawings, messy scans, cross-sheet connectivity, and AI employees whose work holds up under audit. The easy version of this problem doesn't exist.
+0 3
+Ownership from day one
+Small team, wide scope. You'll own customers, systems and decisions early.
+Open roles
+Every role is an open application. Tell us what you've built and what you'd build here.
+Forward Deployed Engineer (Software)
+Embedded with customer engineering teams. Run deployments end to end, translate domain feedback into product, and ship what needs shipping.
+Full-time Apply
+Machine Learning Engineer, Computer Vision
+Train and ship models for symbol detection, line tracing and layout understanding on dense engineering drawings.
+AI Engineer
+Build the production LLM and vision pipelines behind the AI employees: structured output, retrieval, agents, and the evals and observability they need.
+Co-founder, Industry
+A founding partner with deep operating background in construction, process plants, industrial software or enterprise sales. Own customers, direction and revenue.
+Start with the work that costs you the most.
+Tell us where your team loses the most hours. Three weeks later, an AI employee built for your company is doing that work.

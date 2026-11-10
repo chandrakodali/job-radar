@@ -1,0 +1,51 @@
+Home
+Company
+Mission
+Open source
+Team
+Careers
+Products
+Hardware
+Software
+Showcase
+News
+All news
+Engage
+Where to buy
+Get in touch
+General conditions
+How can we help?
+Didn’t find what you were looking for?
+Call us on +31 (0) 187 744 020 or send an email to contact@deciso.com,
+we are happy to help you.
+Dictionary
+WireGuard VPN
+WireGuard is a communication protocol and free and open-source software that implements encrypted virtual private networks (VPNs), and was designed with the goals of ease of use, high speed performance, and low attack surface.
+OPNcentral
+Is a centralized management plugin , it utilizes OPNsense’s restAPI to offer a range of centralized features.
+GeoIP database
+Is a database that maps IP addresses to geographical locations, such as a country, city, or region.
+AMD EPYC
+Is a brand of multi-core x86-64 microprocessors designed and sold by AMD, based on the company’s Zen microarchitecture.
+IPsec
+Internet Protocol Security (IPsec) is a secure network protocol suite that authenticates and encrypts packets of data to provide secure encrypted communication between two computers over an Internet Protocol network.
+FreeBSD
+FreeBSD is an open source operating system based on UNIX. The source code of FreeBSD is open source, which means that anyone can view and edit this source code. The operating system is widely used in servers, mainframes, workstations & embedded computers.
+OSI
+The Open Source Initiative defines open source software as software that is distributed with human readable source code in order to allow the user freedom to run, review, alter, enhance and modify the code for any purpose.
+Firewall
+A firewall is a computer network security system that restricts Internet traffic to, from, or within a private network. This software or special hardware software unit works by selectively blocking or allowing data packets.
+Forward caching proxy
+When using a forward proxy configuration, Caching Proxy machines are located between the client and the Internet. Caching Proxy forwards a client’s request to content hosts located across the Internet, caches the retrieved data, and delivers the retrieved data to the client.
+Traffic shaping
+Traffic shaping is used to optimize or guarantee performance, improve latency, or increase usable bandwidth for some kinds of packets by delaying other kinds.
+MVC framework
+The Model-View-Controller (MVC) framework is an architectural/design pattern that separates an application into three main logical components Model, View, and Controller. Each architectural component is built to handle specific development aspects of an application.
+In our team expertise meets
+visionary thinking
+We are not just a company; we are a collective of rebels and thought leaders in the field of network security. We are a group of knowledgeable colleagues who share a passion for innovation and a commitment to pushing the boundaries of what’s possible.
+We foster a culture of collaboration and creativity, where every voice is heard and valued. Our team operates with hardly any hierarchy, allowing for a dynamic and inclusive work environment where ideas flow freely, and innovation thrives.
+Join us on our mission to shape the future of network security. Explore our career opportunities and become part of a team that dares to challenge the status quo and redefine what it means to be a leader in the industry.
+We are looking for
+Initiative application
+Currently we have no vacancies within our firm. But we are always looking for talent in the field of network security. If your interested in working at Deciso send an email with your motivation to contact@deciso.com

@@ -1,0 +1,28 @@
+Current Job Openings
+We are currently hiring for several positions locally in our Lancaster PA office as well as
+remotely. US and international applicants welcome.
+We are partnered with some of the largest US-based
+and international PEOs to be able to hire in most locations. We offer competitive salaries, a bonus
+program, and benefits on-par with larger companies to all our employees. Our US-based employees also
+benefit from a generous 401(k) matching program (100% up to 6% of salary, with immediate vesting).
+Above all, we provide the ability to work on cutting-edge security technology in a challenging and
+rewarding environment.
+How To Apply
+To inquire about any of the above positions and submit your resume,
+click each job opening to apply. If you have big ideas, high standards, and a lot
+to offer our growing company, we invite you to contact us at hiring@opensrcsec.com
+regardless of any applicable posted job openings. There is always a standing
+opening for the right talented and motivated person.
+About Us
+Open Source Security, Inc exists to both fill the void left by
+underfunded and understaffed attention to security in Linux and advance the state
+of the art in system defense. As creators of the technologies behind DEP, ASLR, CFI, and many other
+defensive measures adopted in one form or another by all modern operating systems,
+Open Source Security, Inc's track record for understanding vulnerabilities and
+creating effective defenses is unmatched in the industry.
+The company's central office is based in Lancaster, PA USA
+with employees operating both locally and remotely across the USA and Europe.
+Open Source Security, Inc combines its deep expertise with swift and
+detailed support for its customers. It acts as a trusted advisor and an extension
+of the security and kernel engineering teams of its customers across several
+industries with high security needs that cannot be filled anywhere else.

@@ -1,0 +1,57 @@
+Africa's money is moving. Come build what moves it.
+We're a small, remote team across Europe and Africa, building the stablecoin rails that move money in and out of the continent.
+See open roles
+What the platform carries today
+transactions a month
+200K+
+transaction success
+99%
+end users reached
+3M+
+volume processed
+$250M+
+Problems you'd work on
+The kind of things on our plate.
+NGN payout Paid
+Make a naira payout land in seconds, even when a bank's API is having a bad day.
+M-Pesa USDT
+Turn an M-Pesa payment into stablecoins and back, without anyone seeing the plumbing.
+NGN KES USD GBP EUR and more
+Keep FX accurate across NGN, KES, USD, GBP, EUR and more.
+Open the next corridors: Ghana, South Africa, Uganda and more.
+How we work
+Six things we hold each other to.
+Sweat the details
+We take pride in our work, and it shows in the small things: an edge case handled, a clear error message, a reconciled transaction.
+Fast, but never sloppy
+Speed matters, because our customers move money and can't wait on us. Quality still comes first: we'd rather ship a day later than ship something we're not proud of.
+Customers shape the roadmap
+We spend time with the people who use Partna, and what we hear decides what we build next.
+Care like it's yours
+We want people who are obsessed with what they're building, who notice when something is off and want to fix it.
+Say it clearly
+We're spread across time zones, so we write precisely. A clear message today saves a day of back-and-forth.
+Be kind
+We're good to each other, we enjoy working together, and we like spending time together outside work too.
+What you get
+Remote-first
+Work from anywhere in European and African time zones.
+Current local time across our team
+United Kingdom
+--:--
+West Africa
+East Africa
+Equity
+Own a piece of what you're helping to build.
+Health cover
+Health insurance so you can look after yourself.
+Home-office setup
+A budget for the equipment you need to do your best work.
+Learning budget
+Support to keep growing in your craft.
+Time off
+Proper time away to rest and recharge.
+Team offsites
+Time together in person, away from the screen.
+Open roles
+No open roles right now, but our rails are always open to great people.

@@ -1,0 +1,325 @@
+jcode
+High performance coding agents, written in Rust.
+Built for demanding development workflows with many agents working in parallel.
+curl -fsSL https://jcode.sh/install | bash
+macOS Linux Windows Desktop app beta
+Pricing · Enterprise · justrust · GitHub · Discord
+Inline image rendering
+Resume menu
+LaTeX rendering
+Cache cold notification
+Account router
+Fresh session
+File edit
+Deep swarm investigation
+Info widgets
+Swarm file conflict notification
+Completed todos
+LaTeX image rendering
+Running batch tools
+Links that work in the TUI
+Thinking
+Idle animation
+Native image generation
+GitHub stargazer history
+Show commit history Hide commit history
+Loading commits…
+Full history on GitHub
+Backed by Combinator
+Multi-agent bottleneck
+Heavy development workflows are bottlenecked by the harness's performance and resource efficiency. Spawn too many agents and your machine can throttle or crash. A slow, resource-hungry harness keeps you from spawning more agents and leaning into parallel work. Jcode is written in Rust and built to stay out of your machine's way. An extra session costs megabytes instead of hundreds of megabytes, and a new session is ready for input in under 50 milliseconds, so you can run many agents at once on the hardware you already have.
+Lots of agents
+20 jcode agents writing code in parallel.
+Performance demo
+Jcode performance demonstration.
+Benchmarks
+RAM per additional session
+Headless 48× less RAM
+jcode 3.5 MB
+Claude Code 168.6 MB
+Interactive 20× less RAM
+jcode 10.4 MB
+Claude Code 212.7 MB
+Measured: jcode v0.92.14, Claude Code 2.1.267.
+Show the full comparison Hide the full comparison
+Memory per additional session, all tools
+Tool
+Extra PSS
+Graph
+Comparison
+jcode (local embedding off)
+~9.9 MB
+baseline
+~10.4 MB
+1.1× more RAM
+Codex CLI
+~21.6 MB
+2.2× more RAM
+~76.5 MB
+7.7× more RAM
+Antigravity CLI
+~86.4 MB
+8.7× more RAM
+Cursor Agent
+~157.5 MB
+15.9× more RAM
+GitHub Copilot CLI
+~158.1 MB
+16.0× more RAM
+Claude Code
+~212.7 MB
+21.5× more RAM
+OpenCode
+~318.4 MB
+32.2× more RAM
+Time to first input
+Time until typed text appears on screen, 10 launches each
+Time
+48.7 ms
+383.7 ms
+7.9× slower
+596.4 ms
+12.2× slower
+905.8 ms
+18.6× slower
+1047.9 ms
+21.5× slower
+1583.4 ms
+32.5× slower
+1978.7 ms
+40.6× slower
+3512.8 ms
+72.2× slower
+Time to first frame
+How long until anything renders, same 10 interactive PTY launches.
+14.0 ms
+383.5 ms
+27.4× slower
+590.7 ms
+42.2× slower
+882.8 ms
+63.1× slower
+1035.9 ms
+74.0× slower
+1518.6 ms
+108.5× slower
+1949.7 ms
+139.3× slower
+3436.9 ms
+245.5× slower
+Intelligence
+The harness can make the same model perform better or worse at your coding tasks. We do extensive research to produce a state of the art harness that is maximally capable at coding tasks.
+optimization task
+float-print score over time, jcode vs Claude Code, Opus 4.8 high thinking
+Running the standard evals against these harnesses showed us how poorly they represent what agents can actually do. Existing benchmarks face a forced choice. Public benchmarks leak their solutions into training corpora, so scores measure memorization and misrepresent capability. Private benchmarks resist that, but they demand trust in a hidden test set, offer less transparency, and are hard to get access to. Beyond that choice, they share two structural flaws. They impose timeouts, so an agent is penalized for allocating more time to a problem, exactly the long-horizon behavior we want agents to develop. And they score on a coarse, discrete boundary: the gap between two very different models can show up as a single task completion. A model that solves 70% of a bench may sit next to a remaining 30% that demands a far higher capability level, and that entire delta is invisible between the discrete tasks. So we designed a new class of benchmarks with a spec:
+uncontaminatable by construction: there is no answer to memorize, so everything can be public
+hard to saturate by construction: scored on optimization depth, so the ceiling stays open past the frontier
+deterministic by construction: same submission, same score, always
+quantifiable by construction: the metric falls out of the task definition, no rubric, no judge
+continuous by construction: an analog score axis instead of pass/fail, so capability differences show up as score differences at every level, and time is recorded rather than capped
+cheat-resistant by construction: we provide a good reference implementation as the starting point, so web searching for ready-made solutions is only cheating at lower capability levels. At the frontier, there are no implementations left to copy that aren't useful recombinations
+This design is immediately trustable because everything is public. Training on a previous model's transcript may even help a little, but it doesn't score better unless the model has genuinely generalized from it: replaying a transcript only matches the old score, and beating it requires optimizing past what was memorized, which is the capability the benchmark measures in the first place.
+jcode bench v1 provides three tasks that follow this spec: float-print, json-unescape, and utf16-transcode. We chose these tasks because they grade in seconds and are pure coding on real world functions that are useful and genuinely benefit from optimization: a tight loop the agent can climb, on work that actually ships in libraries. The tasks are also chosen so the implementation cannot be overfit to the test suite: correctness is verified over the entire input space, not a sample. Compare measuring grep's speed by timing it on the Linux repo, where an implementation can be overfit to the Linux repo specifically. Above, we plot the score of the agent over time, from a single user prompt. Note that time is 1:1 correlated with cost and token utilization, because tool call time is negligible in these tasks. Both runs used Opus 4.8 with high thinking, identical prompts, launched concurrently, each stopping on its own judgment. On float-print both passed the full 2³² correctness gate; jcode finished at +8.64 (398x speedup) versus Claude Code's +7.17 (144x).
+read more read less
+The uncontaminatable benchmark design · jcode bench
+harness-agnostic frontier model results · full results and agent transcripts
+Confidence stepping
+Confidence at assignment vs completion, Terminal-Bench 2.1, Opus 4.8
+Jcode's todo tool asks the agent to rate its confidence in each task item, both when the item is assigned and when it's marked done. Tracing those scores across our Terminal-Bench runs showed a clear pattern: confidence is always high after, but sometimes low before, and failures rarely come from tasks the agent was confident about at assignment. The low scores at assignment are real signal, and the jump to 100 at the end is not. So when we see a large spike in confidence, we force the agent to go back and check its work instead of accepting the claim. Ideally, confidence rises incrementally as validation happens during implementation, with each passing test earning a step up. Above, both harnesses on Terminal-Bench 2.1: each line is one trial, from confidence at assignment to confidence at completion. The extra checking pays: trials that finish in time pass more often (92% vs 88%), and even trials cut off by the benchmark's 15 minute limit are more likely to already contain correct work (47% vs 42%).
+the full confidence study · every trial transcript
+Hill-climbable goals
+How hill-climbable did the model think the work was?
+n = 2,012 goal-score submissions
+5 55
+1 60
+5 70
+17 75
+3 78
+11 80
+3 82
+290 85
+28 88
+754 90
+85 92
+1 94
+675 95
+6 96
+2 97
+17 98
+109 100
+hill_climbability score →
+91.29 mean
+90 median
+18.0% below the gate
+55–100 observed range
+2,012 scores from 815 sessions, through July 12, 2026
+Agents are at their most capable when they have a metric to hill-climb. This is likely because reinforcement learning trains models to optimize against reward signals, so measurable feedback helps agents keep improving over longer time horizons, and those additional productive iterations lead to better results. Most users never take full advantage of this. Jcode does this for the user when applicable. Every agent goal receives a hill-climbability rating from 0 to 100, based on how quantifiable and iterable its progress really is. A high score is not credible without a stated objective to climb toward. When a goal scores low, the harness pushes back: reframe the goal into a verifiable objective and build the harness that measures it. Without this, an open-ended task leaves the agent with nothing to iterate against, no signal it can use to make its next attempt better than its last.
+See the hill-climbability implementation · Download the aggregate data
+Auto-poke
+Longest Jcode Bench v1 run: float-print, 637.5 active minutes, Opus 4.8 high
+Agents sometimes stop before the work is done. Jcode checks for unfinished todos and prompts the agent to continue, including in headless `jcode run` sessions. Transient errors are retried, while unrecoverable failures stop the loop.
+See the persistence implementation · Read the full run transcript
+Open source and customizability
+Jcode is MIT licensed, open source, and open research. Everything we build and everything we measure is published, benchmark transcripts and failures included. A tool this close to your work should be one you can read, audit, and reshape.
+Self dev mode
+Jcode is inventing a new form of customizability. One that doesn't limit you to what a plugin or extension can do. Tell your jcode agent to enter self dev mode, and it will start modifying its own source code. Jcode is optimized to iterate on itself. There is significant infrastructure around self development, which allows it to edit, build, and test its own source code, then reload its own binary and continue work in your (potentially many) sessions, fully automatically.
+System prompt.
+The base prompt in every Jcode session, live from master. AGENTS.md, CLAUDE.md, and self-dev mode add to it.
+248 tokens in v0.95.0 · source
+Fetching the current base prompt from GitHub…
+System prompt size over time
+Tokens per release (o200k_base) method
+System prompt size comparison
+Think our prompt is too big? Compare it against your favorite coding agent.
+Harness
+Core tokens
+Measured scope
+336
+default core; normalized docs paths; no tool descriptions
+Jcode
+671
+normal core
+1,766
+provider fallback
+≈2,300
+leaked v2.1.88 default core
+4,365
+default base instructions
+Prime Agent
+5,502
+core + usage + opinionated; no model extras
+Core instructions only, excluding tool schemas and runtime context · o200k_base · pinned sources · method . GitHub Copilot CLI, Cursor Agent, and Antigravity CLI are omitted because no verified reproducible core prompt source is available in this benchmark.
+Tool schema.
+Built-in tools exposed together in a default Linux session, not every registered alternative. Opt-in integrations and external MCP tools are excluded; provider and session settings can change the list.
+Built-in tool snapshot
+Loading the built-in tool snapshot…
+Tool schema size comparison
+The tool definitions sent alongside the prompt. Tool counts and capabilities differ.
+Schema tokens
+Tools
+166
+Default Python kernel entry point
+589
+Default coding tools
+3,638
+gpt-5.6-sol code mode, local core (Linux)
+4,982
+CLI build / Claude Sonnet / Linux bash
+9,531
+Default Linux session; simultaneously exposed tools
+Claude Code : not measured. Third-party leaked source lacks a verified default build/profile and pinned schema serializer.
+Normalized native tool definitions only · o200k_base · no MCP server tools or provider framing · method · data
+Guide to running more agents
+Do you really run enough agents? Probably not. Here is some guidance to help you get started.
+My workflow
+For this workflow, I use Arch Linux and niri, a scrolling window manager. Agents open in quarter-width terminals with no gaps, and the workspace keeps scrolling as I add more.
+New terminals open at a quarter of the screen. Keep opening agents. The workspace scrolls, not shrinks.
+My niri bindings: click a shortcut, or focus the desktop and use its key without Alt.
+Jcode Desktop
+The same scrolling, keyboard-driven layout, built in, on any OS.
+Opening new sessions beside existing ones and typing a prompt in each
+Super+N opens a session beside the one you are in.
+Get Jcode Desktop
+Changelog
+Releases and changelog . Full history on GitHub releases .
+Unreleased
+2026-10-24 · 17d ago
+Changes since v0.99.1
+Automatically listed from commit messages.
+fix name the cause when a view is rejected, document table cell types
+commit Fix auto-poke canceling pending cloud handoffs
+ci add repeatable Linux cloud acceptance gate
+test isolate repeatable cloud migration e2e runs
+test exercise cloud handoffs through real SSH and TUI
+test keep acceptance sockets short and preserve failure evidence
+test require new prompts in cloud continuation evidence
+fix reconcile completed turns before client dispatch
+fix surface reasons for every cloud command failure
+commit Place inline swarm beside pinned todos on wide terminals
+commit Show one pinned lane dot per worker todo item
+fix pass cloud failure context to the next agent turn
+docs update weekly stars chart
+docs update downloads badge
+fix resolve context budget from routed model catalog
+commit Round inline diff rail corners
+fix wait for history before sending fork startup prompts
+commit Keep scrollbar track invisible outside thumb intersections
+commit Show diff counts once in the inline diff header
+commit Compact diff header paths without wrapping
+commit Move compact diff expansion shortcut to the footer
+ui compact failed background tasks with connected diagnostics
+commit Ensure info widgets have bottom-border text
+commit Guard shortcut chrome against inherited terminal colors
+commit Compact shortcut badges and remove redundant diff hidden counts
+commit Show tool duration alongside token counts
+commit Preserve tool execution duration in live and restored rows
+commit Unify tool failures with normal rows and compact connected reasons
+commit Replace generic widget footers with compact distinct facts
+commit Test public widget footer metadata and narrow rendering
+commit Validate activity footer lifecycle and fix singular client label
+fix preserve source whitespace in inline diffs
+commit Improve expanded inline diff gutters and wrapping
+fix color tool duration independently from token usage
+commit Test expanded diffs through full terminal rendering
+commit Preserve warm OpenAI websocket safely after interrupted responses
+commit Centralize compact tool failure summaries and align error connectors
+commit Simplify compact failure connector to standalone rounded corner
+commit Join compact failure connector directly to reason
+commit Compact successful background tasks and collapse tool image previews
+commit Exercise expanded image geometry in cache reuse regression
+commit Repair interleaved renderer and regression-test hunks
+commit Fix todo add schema rejected by Gemini
+commit Cover todo schema rejection at Gemini request boundary
+commit Track Anthropic OAuth token usage and per-account cost estimates
+commit Refresh local OAuth totals independently of quota cache
+fix unify subscription usage report identity
+commit Remove password-reset restriction from system prompt
+commit Remove blanket password restrictions from browser workflows
+fix retain warm websocket through cancellation recovery
+commit Disable shared turn-end weak-point digest followups
+commit Disable TUI turn-end weak-point digest
+commit Add display-only full todo completion report
+commit Automatically display full todo completion reports
+commit Keep full todo completion reports expanded
+commit Highlight blocked acceptance in todo completion reports
+commit Render todo completion snapshots with pinned cards and full evidence
+commit Style completion reports with pinned todo cards and compact details
+commit Show only recorded turn-end gate findings in todo completion
+cloud add isolated ephemeral machine lifecycle and native attach
+provider keep Jcode model switches on managed subscription transport
+commit Test deployed Sonnet route alongside curated subscription models
+fix accept deployed Sonnet 4.6 model ID
+commit Show only gate categories above completed todo cards
+commit Make aggregate todo gate digest an explicit default-off opt-in
+commit Recognize GPT-6.1 Sol reasoning effort on compatible routes
+commit Hide delivery-state labels from pinned todo cards
+commit Hide per-item confidence labels in todo cards
+commit Verify incomplete todo gates with aggregate digest disabled
+commit Retry unchanged incomplete todos up to three times in TUI
+commit Document three-attempt incomplete todo retry budget
+fix isolate Bedrock test config (fixes #1952)
+fix triage account usage in capability ledger (fixes #1950)
+commit Limit unchanged incomplete todo followups to three attempts
+fix preserve UTF-8 across Responses SSE chunks (fixes #1944)
+fix preserve explicitly enabled Bedrock live-test credentials (fixes #1952)
+commit Avoid redundant final follow-up after delivered response
+test run search safety regressions on Windows (refs #1932)
+fix report Windows working set and private commit (#1932)
+fix abort adopted work when its owner is cancelled
+fix remove redundant completion confidence footer
+refactor extract tests below source size budget
+fix avoid repeating final answers after compaction
+test scope Windows search gate to portable regressions (refs #1932)
+test scope runtime guards after app setup
+fix cancel blocking searches with their async owner
+test create remote fixtures inside their reactor
+fix keep search cancellation within safety guardrails (refs #1932)
+fix pin bounded cancellable agentgrep searches (fixes #1932)
+v0.99.1
+2026-10-22 · 19d ago
+OpenAI request fix and stability
+Release highlights.
+highlight Fix OpenAI models failing every turn with invalidrequesterror due to a rejected tool schema
+highlight Recover the TUI from a vanished or unresponsive server instead of retrying forever
+highlight Native Muse subscription login and Venice AI provider support
+in maintenance

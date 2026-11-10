@@ -1,0 +1,230 @@
+Shape the Future of API Excellence
+At Theneo, we’re committed to transforming the entire API lifecycle—from intuitive design and comprehensive documentation to robust governance and seamless management—empowering developers and organizations to create, manage, and scale high-quality APIs effortlessly.
+See openings
+Pioneering Innovation in API Management at Theneo
+At Theneo, our mission is to simplify and elevate API management for everyone. We’ve already set the standard by developing our own proprietary language model ahead of ChatGPT and launching the first documentation platform with Ask AI-powered search. These groundbreaking innovations empower developers and organizations to create, manage, and scale high-quality APIs effortlessly. Join our forward-thinking team and help shape the future of technology with solutions that lead the industry.
+Benefits & Perks
+40 Days Paid Time Off
+Remote Work
+Premium Tech Gear
+Equity
+Jobs
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+Marketing Internship
+Remote
+Full time
+Apply for this job
+Theneo is a Silicon Valley startup backed by Y Combinator. We’re building real products for real customers, and we’re looking for ambitious interns who want to learn fast, take ownership, and make an impact from day one.
+This is not a “watch and learn” internship. As a Marketing Intern, you’ll work directly on projects that support growth, brand awareness, content, campaigns, and customer engagement.
+About the Role
+As a Marketing Intern at Theneo, you’ll help create and execute marketing initiatives that reach real users and customers. You’ll work closely with the team to support content creation, social media, campaign planning, market research, and growth experiments.
+You’ll get hands-on startup experience and learn how marketing works inside a fast-moving tech company.
+What You’ll Do
+You will help with:
+Creating content for social media, email, blog posts, and marketing campaigns
+Supporting campaign ideas for internship, product, and customer growth
+Researching target audiences, competitors, trends, and market opportunities
+Helping improve Theneo’s online presence and brand messaging
+Tracking basic campaign performance and sharing insights
+Brainstorming creative ways to reach new users and customers
+Working with the team on real marketing projects from start to finish
+What We’re Looking For
+We’re looking for someone who is:
+Interested in marketing, startups, technology, or SaaS
+Creative, curious, and excited to learn
+A strong communicator with good writing skills
+Comfortable researching, brainstorming, and testing ideas
+Organized and able to take ownership of tasks
+Proactive, responsible, and willing to move fast
+Excited to work on real projects with real impact
+Previous internship experience is helpful, but not required. We care more about your energy, creativity, and willingness to learn.
+What You’ll Gain
+During the 8-week internship, you’ll get:
+Real startup marketing experience
+Hands-on ownership of meaningful projects
+Experience working with a Silicon Valley startup team
+Exposure to real customers, campaigns, and growth work
+Fast learning in a practical, high-impact environment
+A stronger portfolio with real marketing work
+Who Should Apply
+This internship is a great fit for students or early-career candidates interested in:
+Marketing
+Content creation
+Social media
+Growth marketing
+Brand strategy
+Product marketing
+Startup operations
+Sales & Customer Support
+All departments
+All locations
+All types
+Lead Software Engineer
+4+ Years
+About the role
+Theneo is a leading developer tool that revolutionizes the way API documentation is created, managed, and published. With a strong emphasis on AI and automation, Theneo stands out in the tech community for its innovative approach to documentation. Our platform is not just a tool but a breakthrough that's been recognized and highlighted by numerous tech communities. Backed by top investors like Y Combinator, Atlassian, Merus Capital, and Diaspora Ventures, Theneo has achieved significant milestones, including becoming a viral product on Product Hunt and winning the Web Summit. Today, Theneo proudly serves over 9,000 companies, with accolades from Forbes, TechCrunch, and other reputable publications.
+The Opportunity: Lead Software Engineer
+We are seeking an experienced and visionary Lead Software Engineer who will play a key role in driving our platform's development. As a Lead Engineer, you will provide technical leadership, guide a team of talented engineers, and ensure the delivery of high-quality, scalable software solutions. This position is an exceptional opportunity to shape the future of a platform that is redefining how API documentation is crafted and consumed.
+Key Responsibilities
+Technical Leadership : Mentor, inspire, and guide a team of software engineers, fostering a collaborative and high-performance environment.
+Architecture & Design : Architect, design, and implement core backend services, ensuring scalability, maintainability, and robustness.
+End-to-End Development : Oversee the full lifecycle of software development, from design and implementation to deployment and monitoring.
+API Design & Integration : Lead the development of scalable and well-documented APIs, and ensure seamless integration with third-party services.
+Code Quality & Best Practices : Maintain high standards of software quality through comprehensive testing, profiling, and peer reviews.
+Performance & Reliability : Ensure the reliability and performance of the platform by implementing monitoring, logging, and optimization techniques.
+Strategic Planning : Collaborate with product managers and stakeholders to align technical initiatives with business goals and prioritize engineering work.
+Continuous Improvement : Drive continuous improvement initiatives and innovation within the engineering team.
+Qualifications
+Extensive Experience : 7+ years of experience in backend development, with expertise in Typescript, Node.js, Express.js, React, and MongoDB.
+Leadership Skills : Proven experience leading and mentoring software engineering teams, with a strong focus on fostering growth and collaboration.
+Strong Problem-Solving : A creative and strategic problem solver who is data-driven and comfortable making decisions that balance speed with quality.
+Expertise in APIs : In-depth experience in building and scaling backend APIs and services, with a strong understanding of API architecture and best practices.
+Agile & Fast-Paced Environment : Ability to thrive in a fast-paced environment, comfortable with agile methodologies, and skilled at prioritizing tasks.
+Bonus Skills : Familiarity with Python is appreciated but not required. Experience with generating or working with API documentation tools is highly beneficial.
+Why Join Theneo?
+Innovative Culture : Be part of a team that is pushing the boundaries of AI technology in API documentation.
+Impactful Work : Directly influence the development experience of thousands of developers and companies globally.
+Growth Opportunities : Advance your career in a rapidly growing and innovative tech landscape.
+Competitive Benefits : Enjoy a competitive salary, comprehensive benefits package, 15 paid holidays, 15 paid national holidays, 5 paid sick days, and 5 mental wellness days off.
+Visionary Team : Work alongside a team of passionate engineers and thought leaders who are shaping the future of developer tools.
+Ready to lead and make a significant impact in the world of API management? Apply to join Theneo today and shape the future of developer tools with your technical vision and leadership skills!
+Engineering
+Growth Marketing Manager
+Theneo is a leading developer tool that revolutionizes the way API documentation is created, managed, and published. With a strong emphasis on AI and automation, Theneo stands out in the tech community for its innovative approach to documentation. Our platform is not just a tool but a breakthrough that’s been recognized and highlighted by numerous tech communities. Backed by top investors like Y Combinator, Atlassian, Merus Capital, and Diaspora Ventures, Theneo has achieved significant milestones, including becoming a viral product on Product Hunt and winning the Web Summit. Today, Theneo proudly serves over 12,000 companies, with accolades from Forbes, TechCrunch, and other reputable publications.
+The Opportunity: Growth Marketing Manager
+We are looking for a Growth Marketing Manager to drive customer acquisition and retention efforts across all digital channels. This role is crucial to scaling Theneo’s user base and driving long-term business growth. As the Growth Marketing Manager, you will develop and execute innovative growth strategies, working closely with product, sales, and marketing teams. You’ll optimize campaigns to meet customer acquisition targets, retain users, and build a solid growth funnel.
+Develop and Execute Growth Strategies : Own and implement comprehensive marketing strategies to drive user acquisition, activation, and retention across multiple channels (SEO, paid ads, social media, content marketing, email, etc.). ‍
+Paid Advertising Campaigns : Manage and optimize paid media channels including Google Ads, Facebook, LinkedIn, and others. Continuously test ad copy, audiences, and creative to improve ROI and lower customer acquisition costs. ‍
+SEO & SEM Optimization : Develop and execute SEO strategies to increase organic traffic and visibility. Collaborate with content teams to drive keyword-rich content and optimize SEM campaigns for search engine marketing. ‍
+Data-Driven Decision Making : Use analytics and data to track performance across campaigns, identify trends, and make data-driven decisions to maximize marketing efficiency. Leverage tools like Google Analytics, HubSpot, and others to monitor KPIs such as conversion rates, CAC, LTV, and ROI. ‍
+Conversion Rate Optimization (CRO) : Analyze customer journeys, landing pages, and funnel drop-offs to improve conversion rates through A/B testing, user experience improvements, and personalization. ‍
+Growth Experiments : Design and run experiments to find new growth opportunities. Focus on identifying new channels, strategies, and techniques to scale acquisition and retention. ‍
+Email and Lifecycle Marketing : Create and optimize email marketing strategies to nurture leads and re-engage inactive users. Develop customer lifecycle campaigns to increase engagement and retention. ‍
+Collaborate with Cross-functional Teams : Work closely with product, sales, and content teams to align marketing efforts with product development and business goals. Ensure that growth initiatives are supported across the organization. ‍
+Customer Retention & Churn Reduction : Develop retention strategies to decrease churn and improve the overall lifetime value (LTV) of customers through engagement campaigns, re-targeting, and personalized marketing efforts. ‍
+Marketing Automation & Tools : Implement and optimize marketing automation tools to streamline processes, nurture leads, and drive scalability across marketing efforts. ‍
+Budget Management : Manage and allocate growth marketing budgets efficiently, ensuring cost-effective strategies are in place to maximize results across all channels.
+Qualifications ‍
+Proven experience as a Growth Marketing Manager , Performance Marketer, or in a similar role, ideally within a SaaS or tech environment. ‍
+Hands-on experience with digital marketing channels such as SEO, SEM, paid search, social media advertising, email marketing, and content marketing.
+Strong analytical skills with experience using data to drive marketing decisions. Familiarity with Google Analytics, HubSpot, and other marketing analytics tools.
+Experience with A/B testing , CRO, and building growth experiments to optimize customer acquisition funnels.
+Excellent understanding of paid acquisition channels like Google Ads, Facebook Ads, and LinkedIn. ‍
+Strong communication and collaboration skills , with the ability to work across teams and drive marketing initiatives.
+Knowledge of marketing automation platforms (e.g., HubSpot, Marketo, or similar).
+Experience with SaaS products or developer tools is highly desirable. ‍
+Creative and innovative mindset , with a passion for testing new ideas and pushing the boundaries of traditional marketing strategies.
+Innovative Culture: Work within a team pushing the boundaries of AI technology in API documentation. ‍
+Impactful Work : Directly influence the growth and success of a platform used by developers and companies globally. ‍
+Growth Opportunities : Theneo is dedicated to your personal and professional growth in the dynamic tech landscape. ‍
+Developer Relations (DevRel)
+The Opportunity: Developer Relations Engineer
+We are looking for a passionate and dynamic Developer Relations Engineer to be the bridge between Theneo’s platform and the global developer community. In this role, you will be responsible for engaging, educating, and empowering developers to build with and advocate for Theneo’s API documentation tools. You’ll create technical content, represent Theneo at events, and collaborate closely with product and engineering teams to ensure developers have a seamless experience using Theneo’s platform.
+Build and maintain strong relationships with the developer community through active engagement, answering technical questions, and providing support.
+Create and maintain technical content, including blog posts, tutorials, videos, and sample code to educate developers on using Theneo’s platform effectively.
+Represent Theneo at conferences, meetups, and developer events, delivering talks, workshops, and presentations to showcase our platform.
+Advocate for the needs and challenges of the developer community within Theneo, working closely with product and engineering teams to improve the developer experience.
+Engage with developers on social media, forums, and open-source communities to promote Theneo’s tools and features.
+Collaborate with the marketing team to develop campaigns and initiatives that drive developer engagement.
+Contribute to the creation and enhancement of Theneo’s API documentation, ensuring it’s clear, accurate, and useful for developers of all skill levels.
+Drive the growth of Theneo’s developer community through outreach, partnerships, and collaboration with other organizations and platforms.
+‍ Proven experience in Developer Relations, Developer Advocacy, or similar roles within the software industry.
+Strong technical background with hands-on experience in APIs, developer tools, and platforms. Familiarity with API documentation and the API management space is a plus.
+Excellent communication skills with the ability to explain complex technical concepts to both technical and non-technical audiences.
+Experience creating technical content such as blog posts, videos, tutorials, or sample applications.
+Comfortable speaking at conferences, webinars, and developer meetups.
+Passion for helping developers solve problems, build great products, and improve their skills.
+Strong social media presence and experience engaging with developers across platforms like GitHub, Twitter, Reddit, and Stack Overflow.
+Ready to be the voice of Theneo in the developer community? Apply to join Theneo today and help shape the future of developer tools and API documentation!
+Support Engineer
+The Opportunity: Support Engineer
+We are looking for a Support Engineer who is passionate about providing top-notch technical support to developers and users of our platform. In this role, you’ll be the go-to person for solving complex technical issues and improving the overall customer experience by ensuring the smooth operation of our services. This position is an exciting opportunity to drive customer satisfaction while contributing to the success of a platform that’s changing the way API documentation is crafted and consumed.
+• Provide technical support to customers via email, live chat, and support tickets, ensuring quick and efficient issue resolution.
+• Troubleshoot, diagnose, and solve technical issues related to our platform, APIs, and integrations.
+• Collaborate closely with our engineering and product teams to escalate, prioritize, and resolve more complex issues.
+• Create and maintain comprehensive support documentation and FAQs to enhance user experience.
+• Help customers with onboarding, guiding them through initial setups, and providing personalized technical advice as needed.
+• Identify trends in customer issues and provide feedback to improve the product and reduce future support requests.
+• Contribute to internal tools and automation to streamline support operations.
+• Strong experience in technical support, particularly in a SaaS environment.
+• Hands-on experience with APIs and API documentation is highly desirable.
+• Knowledge of backend technologies such as Typescript, Node.js, Express.js, and MongoDB is beneficial.
+• Excellent problem-solving skills, with a proven ability to troubleshoot and resolve complex technical issues.
+• Ability to communicate effectively with both technical and non-technical users.
+• Experience working in a fast-paced, customer-facing environment.
+• Knowledge of developer tools and API management platforms is a plus.
+• Innovative Culture: Work within a team pushing the boundaries of AI technology in API documentation.
+• Impactful Work: Directly influence the experience of thousands of developers and companies globally.
+• Growth Opportunities: Theneo is dedicated to your personal and professional growth in the dynamic tech landscape.
+• Competitive Benefits: Enjoy a competitive salary, comprehensive benefits package, 15 paid holidays, 15 paid national holidays, 5 paid sick days, and 5 mental wellness days off.
+Ready to make a significant impact in the world of API management? Apply to join Theneo today and help shape the future of developer tools!
+Design
+Customer Success Manager
+The Opportunity: Customer Success Manager
+We are seeking a dedicated and passionate Customer Success Manager to join our growing team. In this role, you will be responsible for building and maintaining strong relationships with our customers, ensuring they derive maximum value from our platform. You’ll act as a trusted advisor, guiding customers through their API documentation journey and helping them achieve success with Theneo. This is a unique opportunity to work with leading companies in the developer tools space and contribute to a platform that’s transforming the way APIs are documented and managed.
+• Build strong, long-term relationships with key customers to ensure they are satisfied and successfully using Theneo.
+• Drive customer engagement through regular check-ins, onboarding support, training, and Q&A sessions.
+• Develop a deep understanding of each customer’s needs and objectives to provide personalized guidance on how to best use Theneo’s platform.
+• Proactively identify potential issues or risks, working closely with support and product teams to address any challenges.
+• Assist in managing customer feedback, working internally to shape product enhancements and prioritize features based on customer needs.
+• Lead onboarding processes and ensure customers are quickly able to realize the value of Theneo.
+• Track and measure key customer success metrics such as adoption, retention, and satisfaction rates.
+• Manage renewals and upsell opportunities, ensuring a seamless process for contract renewals and upgrades.
+• Collaborate with marketing, sales, and product teams to ensure customer success is aligned with overall company goals.
+• Proven experience as a Customer Success Manager, Account Manager, or in a similar customer-facing role, ideally within a SaaS environment.
+• Experience in the API, developer tools, or tech space is highly desirable.
+• Strong understanding of API documentation and/or API management platforms is a plus.
+• Excellent interpersonal, communication, and relationship-building skills.
+• Proactive, with a customer-first mindset and the ability to anticipate customer needs.
+• Ability to problem-solve, resolve customer concerns, and maintain a high level of customer satisfaction.
+• Strong organizational skills and the ability to manage multiple priorities.
+• Experience with CRM tools (e.g., HubSpot, Salesforce) and managing customer success metrics.
+Senior Software Engineer
+The Opportunity: Software Engineer
+We are looking for a Software Engineer who is passionate about building scalable backend services, designing robust APIs, and enhancing our platform's integration capabilities. In this role, you'll take ownership of end-to-end software delivery, from conceptualization to deployment in our cloud-based infrastructure. This position is an exceptional opportunity to drive the development of a platform that’s changing the way API documentation is crafted and consumed.
+Architect, design, and implement core backend services, including our central API, backend data processing, and integration with third-party vendors.
+Manage the full lifecycle of software development, from inception through to production.
+Ensure high standards of quality through instrumentation, testing, profiling, and code reviews.
+Deploy updates continuously to our cloud-based infrastructure, maintaining high availability and scalability.
+Collaborate closely with a highly skilled team to build APIs and services that meet our rapidly growing user base's needs.
+Embrace creative problem-solving, testing, debugging, and improving code quality.
+Strong experience in backend development, particularly with Typescript, Node.js, Express.js, React and MongoDB.
+Proficiency in building and scaling backend APIs and services within a collaborative team environment.
+A creative problem solver with a keen focus on testing, debugging, and overall code quality.
+A data-driven decision-maker, comfortable with taking calculated risks, failing fast, and iterating quickly.
+Experience with Python is appreciated but not required.
+Experience or familiarity with generating API documentation is highly beneficial.
+Innovative Culture: Work within a team pushing the boundaries of AI technology in API documentation.
+Impactful Work: Directly influence the development experience of thousands of developers and companies globally.
+Growth Opportunities: Theneo is dedicated to your personal and professional growth in the dynamic tech landscape.
+Competitive Benefits: Enjoy a competitive salary, comprehensive benefits package, 15 paid holidays, 15 paid national holidays, 5 paid sick days, and 5 mental wellness days off.
+Manual QA Engineer
+1+ Years
+The Opportunity: Manual QA Engineer
+We are seeking a highly detail-oriented Manual QA Engineer to join our quality assurance team. In this role, you will be responsible for ensuring that Theneo’s platform is bug-free and delivers a seamless user experience to our global customer base. You’ll work closely with developers, product managers, and other QA engineers to perform rigorous manual testing across various features and functionalities. This position offers an opportunity to ensure the highest quality of a platform that’s reshaping how APIs are documented and consumed.
+• Design and execute manual test plans and test cases based on product requirements and user stories.
+• Identify, document, and track bugs and defects using appropriate tools (e.g., Jira).
+• Perform functional, integration, regression, and exploratory testing to validate product stability and performance.
+• Collaborate closely with developers and product managers to ensure features meet quality standards before release.
+• Provide clear, concise, and actionable bug reports and work closely with the engineering team to resolve issues.
+• Participate in sprint planning, reviews, and daily standups to ensure timely testing and feedback loops.
+• Validate bug fixes and ensure that issues are resolved without causing regression in other areas of the product.
+• Contribute to the development and continuous improvement of QA processes, test plans, and strategies.
+• Ensure cross-browser and cross-platform compatibility for our platform.
+• Proven experience as a Manual QA Engineer or in a similar role within a SaaS environment.
+• Strong understanding of the software development lifecycle (SDLC) and QA methodologies.
+• Hands-on experience with bug tracking and test management tools (e.g., Jira, TestRail).
+• Attention to detail and a passion for ensuring the highest levels of product quality.
+• Strong understanding of web technologies and APIs, with a focus on usability and functionality.
+• Ability to think critically, identify edge cases, and anticipate user behavior.
+• Strong verbal and written communication skills to effectively collaborate with teams.
+• Knowledge of API testing tools (e.g., Postman) and experience testing API documentation is a plus.
+• Impactful Work: Directly influence the quality and experience of thousands of developers and companies globally.
+Ready to ensure the quality of a platform that’s revolutionizing API management? Apply to join Theneo today and help shape the future of developer tools!
+Software Engineer Intern
+Deploy updates continuously to our cloud-based infrastructure, maintaining high availability and scalability
+Software Engineer
+2+ Years
+Accept
+Decline

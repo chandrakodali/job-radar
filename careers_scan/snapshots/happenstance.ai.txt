@@ -1,0 +1,36 @@
+Careers at Happenstance
+Help us create luck
+We're reshaping how humans find each other. If you move fast, are curious, and have a good sense of humor, we'd love to meet you.
+Every role is full-time and based in San Francisco.
+Email careers@happenstance.ai .
+Include a paragraph about the hardest problem you've solved.
+Full-time · San Francisco
+AI Engineer
+Make our People Intelligence smarter. Optimize embedding pipelines, fine-tune models, and deeply integrate LLMs into our product.
+Apply
+You might work on
+Optimizing our search pipeline with better retrieval and ranking
+Running experiments to improve relevance and accuracy
+Integrating new LLM capabilities into the product
+Building evaluation frameworks to quantify search accuracy and research quality
+Applying experience with LLM fine-tuning, AI research, or prompt engineering
+Tech stack
+Python Vector databases OpenAI RAG Embeddings
+Backend Engineer
+Build the reliable systems behind our search and agent infrastructure. Own foundational architecture, remove bottlenecks, and help us scale with confidence.
+Building core data indexing and ingestion pipelines for new data sources
+Owning infrastructure as code with Terraform or OpenTofu and workflow orchestration with tools like Hatchet or Temporal
+Giving AI agents safe, autonomous access to AWS, GitHub, orchestration, and other backend systems through least-privilege controls and clear, auditable boundaries
+Identifying performance optimizations and scaling bottlenecks proactively
+Building integrations with third-party services
+Python Postgres DynamoDB AWS Terraform Hatchet API design
+Design Engineer
+Design and ship new ways for users to create luck for themselves and the people they care about. Develop a deep understanding of what users want, prototype ideas quickly, and ship high-quality products.
+Owning the frontend of our website and integrations
+Crafting delightful and reusable React components
+Creating conversion funnels and A/B testing onboarding flows
+Applying experience with graphic design, video production, or iOS development
+Next.js Vercel Tailwind shadcn/ui TanStack Postgres
+Don't see the right role?
+Tell us what you'd love to work on at careers@happenstance.ai .
+Get in touch

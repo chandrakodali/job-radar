@@ -1,0 +1,19 @@
+Careers
+Shape the future of small business.
+We're here for small business. If building AI systems that transform an entire ecosystem sounds exciting to you, let's talk!
+Here's who we're looking for
+All of our roles are in-person and full-time in our San Francisco office. It's more fun that way.
+AI Engineer
+Full-time San Francisco
+Build the systems that turn broad goals like "get me customers" into reliable, autonomous results for thousands of different small businesses.
+Orchestrate long-running agent workflows, retrieval, context management, structured generation, and evaluations
+Combine model reasoning with deterministic software across data pipelines and production infrastructure
+Integrate models with APIs, browsers, databases, and third-party tools — then ship quickly and learn from real customer behavior
+Apply
+Growth
+Own hands-on growth for LemonLime while helping us understand what works for every small business we serve.
+Find and run outreach, partnerships, content, events, and new sales channels across industries
+Plan bold, attention-grabbing experiments and test unconventional ideas quickly
+Talk constantly to customers and turn winning approaches into repeatable, automated workflows
+Don't see the right role?
+We're always interested in meeting talented people. Send us a note at [email protected] and tell us what you'd bring to the team.

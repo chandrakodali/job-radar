@@ -1,0 +1,27 @@
+Star on GitHub —
+Build the foundation for collective intelligence.
+Build data infrastructure with Rust and Python. We have two Founding Infrastructure Engineer openings in Sunnyvale.
+See open roles Read what we're building
+Open roles.
+We're looking for engineers who enjoy hard infrastructure problems and care about the developers using what they build.
+You'll work with founders who led infrastructure at Google, in Search and in Research. Our CTO, George He, was a founding member of Google's indexing infrastructure team. He is also a competitive programming gold medalist who once ranked in the top 10 in China.
+Engineering
+2 openings
+Founding Infrastructure Engineer Full-time · Sunnyvale · remote for senior and staff
+Send a short intro and links to what you've built to [email protected] .
+Agents should be able to build on each other's work.
+Agents need current evidence when work resumes after a test, a teammate, or a human response.
+CocoIndex maintains derived data as its inputs change. We are extending that engine to support shared knowledge and agent collaboration.
+We start with software engineering: help agents reuse findings, catch outdated assumptions, and complete projects more reliably.
+Rust core engine
+Python API
+Apache-2.0 open source
+Incremental by design
+Read the engine on GitHub Engineering posts
+Linghua Jin Cofounder and CEO
+George He Cofounder and CTO
+Jerry Qu Member of Technical Staff
+Where we work.
+Plug and Play Tech Center
+440 N Wolfe Rd, Sunnyvale, CA 94085
+Open in Google Maps (opens in a new tab)

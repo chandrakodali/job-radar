@@ -1,0 +1,130 @@
+Products
+FOR MERCHANTS
+Payment orchestration
+Recurring Payments
+Checkout experience
+3DS & Authentication
+Tokenisation
+Payouts
+Offers
+Reconciliation
+Revenue Recovery
+Maximise acceptance rates by optimising transactions in real-time.
+No-code integrations to 300+ PSPs and local payment methods
+Automated & dynamic routing to maximise acceptance rates
+No-code configurations to build custom logics across parameters
+Optimises recurring revenue and improve retention.
+Frictionless signups with Cards or Alternate Payment Methods
+Improve retention with real-time card updater
+Improve Authorisation Rates with Smart Retries
+Rich 1-click checkout experiences built to maximise conversions.
+Payments experience that matches your brand
+Build checkout flows and enable APMs without code
+Run experiments with a robust A/B framework
+Shift liability to the issuer and reduce customer friction with intelligent payment authentication
+Streamline authentication globally & adapt to region-specific regulations
+Seamless & adaptive 3DS flow across all PSPs
+Build your rules & control when 3DS is triggered
+Improve acceptance rates and reduce fraud with network tokenisation
+Use network tokens across any PSP
+Plug & play token vault with support for third-party vaults
+Lower your processing fees with network tokens
+Instant & frictionless payouts via Juspay’s direct integrations to networks, banks and PSPs across the globe.
+Manage refunds, vendor payments, global payroll, and more
+Multiple payout rails including cards, bank transfers, and wallets
+Create & send payout links to customers
+PSP agnostic no-code offers engine to create and manage customer offers.
+Source & support offers across payment methods
+Build every imaginable offer construct without code
+Create, schedule, and manage offers & rewards
+Automated 3-way reconciliation across your payment data, PSPs, and banks that saves time, reduces errors, and gets you complete visibility into your cash flows.
+Subscription revenue recovery with intelligent retries.
+Minimize churn using data and machine learning
+Maximize success rates with smart retry strategies
+Improve retention with configurable retry strategies
+Industry solutions
+Banks
+Modern payments infrastructure for enterprise-ready payment acceptance
+Airlines
+First class payments suite purpose built for every airline need
+Hospitality
+Global payments operating system purpose-built for modern hotel operations.
+iGaming
+Modular payments for every sportsbook and casino brand.
+Resources
+OUR BLOGS
+Unifying global payments: How payment orchestrator drives enterprise growth
+Explore how payment orchestrators has evolved over the years and what a modern orchestrator, such as Juspay, can offer.
+Read the blog All blogs
+LEARN & DISCOVER
+Blogs
+Deep dive into Payments engineering and design principles. Learn about new product features, the latest in technology, payment solutions, and business initiatives.
+Documentation
+Juspay developer documentation helps merchants to easily integrate Juspay products with an app or website for a seamless payment experience
+Case studies
+Explore Juspay's case studies showcasing success stories from diverse industries like e-commerce, aviation, SaaS, and more
+Integrations
+Company
+COMPANY
+About us
+We power enterprises worldwide to simplify payments and scale go-to-market.
+Careers
+Join a team of engineers, artists, musicians, and designers, building payments infrastructure for the global economy.
+STAY IN TOUCH
+Contact us
+Meet our team to see how Juspay can help accelerate your Payments roadmap.
+Newsroom
+Updates, Resources, and Announcements
+for the press.
+HyperCheckout
+Hypercredit
+Payment Orchestration
+Checkout Experience
+Lotuspay
+UPI 360
+Hypercheckout
+Elevate experience and boost conversions with Hypercheckout
+Route payments to the best performing payment gateway
+Offer seamless 1-click checkout experiences
+Design custom branded, no-code payment page
+HyperCredit
+Embedded credit platform powered by unified multi-lender stack
+Embedded credit and seamless lender integrations
+Offer instant credit access to customers
+Drive portfolio growth through pre-qualified leads
+Comprehensive suite of UPI solutions for merchants
+One-click UPI payments
+Multi cloud issuing & Acquiring PSP
+SDK/S2S APIs for building UPI Apps
+Choose Region
+Asia Pacific
+English 简体中文
+Brazil
+English Português
+Europe & UK
+India
+Middle East
+English العربية
+North America
+Peru
+English Español
+Invent. Build. Scale.
+Build Beautiful
+Payments Software
+Join a team of engineers, artists, musicians , and designers to build the payments infrastructure for the growing global economy.
+Join our team
+We are looking for talented people.
+No global job openings available at the moment
+Please check back later for new opportunities.
+5 hubs around the world and beyond
+We come together to build in real time, move ideas forward, and never stop asking the whys.
+Bangalore
+São Paulo
+San Francisco
+Dublin
+Singapore
+About Us Case Studies Newsroom Careers Contact
+Compliances
+Vulnerability Disclosure Payment Aggregator (HyperPG) PCI DSS 4.0.1 ISO 27001:2022 SOC 2 Type 2 Corporate Disclosures
+Merchant Home API Documentation Blog
+Find us on

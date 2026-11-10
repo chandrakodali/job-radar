@@ -1,0 +1,41 @@
+Our mission is to make commercial lending as seamless as possible to power America's small-medium businesses
+Commercial lending still runs on spreadsheets and manual work. We build autonomous agents so lending teams can move faster and focus on relationships, not paperwork.
+Join our mission
+Building the engine for American business lending
+Business lending powers the economy, and yet it still runs on chasing documents, reconciling five systems, and the analyst who remembers how it works.
+Business lending is broken. Underwriting a $2M line of credit still takes 45+ days of tax returns, rent rolls, covenant checks, and email chains — work that hasn't changed in 20 years. Meanwhile, the businesses waiting on that capital are losing deals, inventory, and hiring windows.
+I saw the problem firsthand. Working inside banks, I watched teams of analysts spend weeks every quarter buried in the same manual workflows: pulling tax returns, spreading financials into templates, checking covenants one by one, chasing borrowers for missing documents. Processes were centred around how to “glue” and update different systems that banks didn't understand why they bought in the first place.
+The problem wasn't that banks lacked software. It was that no one had built software with deep enough understanding of how commercial loan servicing actually works. The edge cases. The judgment calls. The reason an SBA 7(a) covenant triggers differently than a conventional CRE covenant.
+That's what we're building at Proximitty. Not another horizontal AI platform. Not another dashboard. We build AI agents built by people who have actually done this work — deployed by engineers who sit with your team to learn all your unique SOPs and business logic.
+Because the businesses that power the economy deserve capital that moves at their speed — and the banks that fund them deserve software built by people who've done the work.
+Wye Yew Ho
+Co-Founder & CEO
+Commercial lending expert advising banks on risk strategy at McKinsey. Previously, led FinCrime and Growth at Taptap Send ($75m → $200m ARR).
+Zi Zhang
+Co-Founder & CTO
+Led security infrastructure at Bloomberg (securing 300k+ terminals) and Head of Engineering at ACI.dev (built world's first unified MCP with 4k GitHub stars in 1 month).
+Join our Team
+We're hiring engineers, lending experts, and forward-deployed specialists who want to transform how commercial lending works.
+If you've ever been frustrated by the inefficiency of loan servicing — or if you love building AI systems that work in the real world — we want to hear from you.
+Apply now
+Everything you need to know about Proximitty
+Commercial lenders at community and regional banks, credit unions, and non-bank lenders - specifically Chief Credit Officers, heads of commercial lending, loan operations leaders, and servicing leaders. Our agents are also used by MRM, compliance, and CISO teams for audit trails and monitoring.
+Three things set us apart:
+• Accuracy that actually holds up. Legacy spreading tools are wrong roughly half the time and still require heavy analyst rework. Our agents learn assumptions bespoke to each institution, so analysts review assumptions instead of redoing spreads from scratch.
+• Computer vision built for real-world documents. We parse blurry, scanned, or messy statements at >99.8% accuracy, and bring that to 100% with human-in-the-loop validation on final outputs.
+• System of action, not system of record. nCino, Abrigo, and Moody's document what happened. Proximitty acts — our agents make the calls, send the messages, update borrower records, and escalate exceptions. We sit alongside your existing stack, not against it.
+Proximitty uses state-of-the-art browser agents to integrate with any banking system — no APIs, no engineering resources, no IT tickets. Our agents operate the same interfaces your team already uses, which means we can go live in any core, LOS, or servicing platform your bank runs on.
+We support 10+ core systems out of the box, including Fiserv DNA, Fiserv Premier, FIS Horizon, FIS IBS, Jack Henry SilverLake, Jack Henry CIF 20/20, Finastra Phoenix, Temenos Transact, CSI NuPoint, and Oracle FLEXCUBE — plus loan origination and servicing platforms like nCino, Abrigo, and Moody's.
+Most integrations go live in under two weeks.
+Reliability is enforced through our governance layer: every agent action is observed, logged, and reviewable, with human-in-the-loop configurable on any step. Each agent runs under strict guardrails — scoped tools, approved templates, and policy-bound parameters — so agents operate only within the boundaries you define, with full auditability for MRM and examiners.
+The fastest path is to book a demo on our website. We start with a 30-minute scoping call where we walk through your current commercial lending workflow, identify the highest-leverage use cases, and map out a pilot and implementation plan.
+AI agents that ingest documents, spread financials, monitor covenants,
+and service every borrower, built for C&I, CRE and SBA loans.
+Product
+Document Ingestion Credit Analysis Servicing Custom Loan Ops
+Resources
+Company
+About Careers
+Contact
+LinkedIn Email
+Proximitty 2026.

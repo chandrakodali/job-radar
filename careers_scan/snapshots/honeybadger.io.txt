@@ -1,0 +1,63 @@
+Honeybadger
+Careers at Honeybadger
+We're a small, private company with no outside funding, and we don't subscribe to the hustle ethic that is common to much of the technology industry.
+We don't currently have any openings.
+If you want to be among the first to know about new openings at
+Honeybadger, you can sign up for our job announcement list:
+How we work
+Working at Honeybadger isn't crazy . We work to live, rather than live to work. We're a small, private
+company with no outside funding, and we don't subscribe to the hustle
+ethic that is common to much of the technology industry. Instead, we put
+ourselves, our families, and our health first by working at a
+sustainable pace (30-hour work-weeks) to provide an excellent service to
+awesome customers.
+We work remotely and independently
+We don't have an office, and we like it that way. You can work from
+home, from a coworking space, or from a coffee shop — the choice is
+yours to work how you like. We also don't do Agile, Scrum, or any other
+methodology that has name, and we don't pair regularly. Our "process" is
+pretty light... we decide what we want to build, often based on what our
+customers have requested, and then we go build it. We aim to ship
+regularly — we get antsy when we haven't shipped something to production
+in the past few days.
+We communicate asynchronously
+We do like to hang out in Slack and shoot the breeze from time to time,
+but real work happens in GitHub, so you can synchronize on your
+schedule. And it's no problem if you want to turn off Slack so you can
+get some deep work done. We all like to be heads-down on our tasks from
+time to time.
+We hire people who can manage themselves
+We aren't interested in micro-managing employees. Before founding
+Honeybadger, we were used to working independently as freelancers, and
+we continue to value being able to choose what we work on and how. As a
+result, we hire people who can do the same.
+We automate everything
+Everything that can be automated will be automated. There's no reason
+for us to have to push a button or type some commands to scale our
+servers when we can set up an AWS autoscaling group to do that for us.
+And instead of shipping shirts out ourselves, we're happy to pay
+Printfection to do that for us. Whenever it makes sense to automate
+something, we do, so that we can move on to more interesting ways to
+spend our time. Naturally, we have a CI/CD process (using GitHub
+Actions) that deploys code to production without any humans involved,
+once a PR has been approved.
+We document everything
+Like our belief in automation, our belief in documentation saves our
+time as well as our sanity. If we have a process to follow, we document
+it, so we can (hopefully) automate it, or at least make it as brainless
+as possible. If a question pops up time and again in customer support,
+we document the answer so we don't have to keep rediscovering the answer
+ourselves. :)
+We love to learn
+We feel that life without learning is just too boring. We aim to always
+be learning new techniques and new technologies to keep things fresh.
+We take care of ourselves
+Finally, this business exists to take care of our customers and
+ourselves. We pay 100% of health insurance premiums for U.S. employees and
+their dependents, we match 401k contributions up to 4% of salary, and we provide
+a generous vacation and holiday policy.
+Simplify your life with Honeybadger
+Get monitoring done.
+Get real-time alerts when code breaks, monitor performance, and fix errors in record time.
+Start free trial
+Book a demo

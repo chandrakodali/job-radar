@@ -1,0 +1,25 @@
+Careers · SAMMY Labs
+One API for every law, globally.
+Our proprietary AI compiles statutes, case law and internal policy into deterministic legal engines. We're hiring for the mavericks who want to build the real future of law.
+01 / What we do
+We turn regulation into software.
+Regulated industries, insurance, financial services, healthcare and legal, spend billions every year interpreting the same rules by hand. The result is brittle, expensive and slow. Products stall. Customers wait. Risk grows in the gap between what the law says and what the business actually does.
+SAMMY AI compiles statutes and your own operating procedures into deterministic legal engines. Teams run them through an app or an API. Every output is cited. Every decision is reproducible. Every audit is defensible before the regulator walks in the door.
+And when the rules change, a new statute, an amended section, a regulator-issued guidance note, the engine updates itself. No re-implementation. No quarterly scramble. The code keeps pace with the law, automatically.
+02 / Why we're different
+A foundational model for law. Not an LLM wrapper.
+SAMMY AI is a constantly evolving legal ontology. Every statute, regulation, case and internal policy is ingested, structured and expressed as executable rules with the relationships between them preserved: jurisdictions, versions, definitions, exceptions, precedent.
+When the law moves, the ontology recompiles. When a new jurisdiction enters scope, the model extends. The output is not a probabilistic guess dressed in confident prose. It is a verifiable decision, grounded in the source, reproducible on demand.
+This is not prompt engineering. This is infrastructure.
+Determinism over probability.
+Same input, same output. Every time. The law doesn't guess. Neither do we.
+Interpretability over confidence.
+We build for mechanistic interpretability, not statistical approximation. Every output can be traced through the exact rules, statutes and precedent that produced it. Open the model. Walk the chain. Read the reasoning for yourself.
+Engineers and lawyers in the same commit.
+Licensed counsel ships alongside product. Legal is not a review stage. It is a dependency of the build.
+Built for the auditor, not around them.
+Every decision is logged, versioned and reproducible from day one. Compliance is a feature, not a tax.
+03 / Open roles
+Come and build it with us.
+Don't see your role? Tell us what you'd build.
+We hire conviction first. If you can look at a regulated industry and see where it ought to be automated, write to us.

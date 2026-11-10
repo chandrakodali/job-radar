@@ -1,0 +1,27 @@
+Log in Book demo
+Hiring
+Help us build open-source billing.
+We're building open-source, usage-based billing to serve the most complex use cases and empower teams to ship quickly.
+Trusted by the most innovative companies
+Open roles
+Join us to support teams in shipping product, not building billing.
+Why the team loves Lago
+Selling an open-source product is a game-changer. Prospects often already know us, many have run Lago themselves, and conversations start from trust instead of a pitch. I love talking about a platform that people genuinely choose to use, not something we have to convince them to tolerate.
+— Charles Lahaye, Sales
+Lago solves complex billing.
+Get the latest news and updates — no hidden fees
+By signing up, you agree to Lago ' s Privacy and Terms.
+Product
+Usage metering Billing & invoicing Credits & spend control Quotes & order forms Cash collection Revenue analytics Revenue recognition Entitlements Lago AI ✨ Integrations
+Team solutions
+Engineering Product Finance Operations
+Industry solutions
+AI Enterprise Finance IoT
+Developers
+API reference Changelog Community Documentation Build with AI agents
+Company
+Resources
+The monetization academy Billing glossary Blog Knowledge base Stripe fee calculator
+Connect
+GitHub LinkedIn Slack Youtube X (Twitter)
+All systems normal

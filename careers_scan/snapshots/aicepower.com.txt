@@ -1,0 +1,50 @@
+03 Careers
+Build what goes to sea
+Small team, real hardware, short feedback loops. Join us in Paris to build underwater autonomy from first principles.
+Paris / On-site
+01 How we work
+The field is part of the job
+AICE is a small, on-site engineering team. The people who design the system also integrate it, test it, and learn from what happens in the water.
+Own the whole system
+Work across boundaries. The best answer may be mechanical, electronic, or algorithmic.
+Move in days
+From CAD or code to a prototype in the water, then back to the bench with evidence.
+Stay close to reality
+In-water prototype tests, operator feedback, and failure analysis shape the roadmap.
+Use every tool
+Simulation and AI-assisted engineering accelerate judgment. They do not replace it.
+02 Open roles
+Join the founding engineering team
+These roles are full-time, on-site in Paris 11th, with competitive salary and meaningful early-stage equity.
+Senior Software Engineer
+Algorithms & AI
+Own navigation, onboard perception, distributed coordination, and the simulation environment that validates them.
+Robotics
+C++ / Python
+Embedded AI
+Simulation
+Apply by email
+Embedded Software Engineer
+Sensors & navigation
+Own the onboard software: sensor acquisition, the flight controller, and the state estimation that turns those measurements into navigation.
+C++
+Real-time
+Sensors
+Estimation
+Electronics Engineer
+PCB design & integration
+Own the electronics architecture, from component choices and PCB layout through integration and validation on the vehicle.
+Altium
+Power
+PCB
+Integration
+Mechanical Engineer
+Design & small-series production
+Own the mechanical design, from architecture and integration through sea trials and small-series production.
+CAD
+Sealing
+Small series
+03 Exceptional profiles
+The right mission, no matching title?
+Send us the project you are proudest of and explain what you owned end to end. We care more about evidence of execution than a perfect keyword match.
+Introduce yourself

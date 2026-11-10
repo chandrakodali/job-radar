@@ -1,0 +1,46 @@
+Careers
+Build what data teams will use next.
+Mage is creating the AI-native execution layer for data work. We are hiring people who want ownership, speed, and the responsibility of turning complex infrastructure into product people actually love using.
+Why builders join Mage
+Join a small team where ambitious ideas move quickly from a customer conversation to production.
+Ownership
+Own consequential work
+You will work close to founders, customers, and product decisions. The work is visible and the feedback loop is short.
+Product
+Build at the frontier
+Mage is building the execution layer for AI-native data work: workflows that run, recover, and deliver trusted outputs.
+Craft
+Make excellent things
+We care about clear thinking, strong taste, and shipping durable product. The bar is high because the work matters.
+Open roles
+Find the role where your strengths can shape the product, the company, and how modern data teams work.
+GTM
+Sales Development Engineer
+A hybrid technical storyteller who turns customer pain into pipeline, insight, and impact.
+Technical discovery / Founder-led GTM / Demo engineering
+Sales Engineer
+Bridge architecture, demos, and customer value for enterprise prospects.
+Technical evaluations / POCs / Enterprise readiness
+Customer Success Manager
+Turn adoption into advocacy for technical teams building with Mage.
+Adoption / Expansion / Customer outcomes
+Sales Development Representative
+Turn open-source and Pro interest into qualified sales opportunities.
+Inbound / Outbound / Path to AE
+Senior Account Executive
+Own enterprise pipeline from first touch through close and expansion.
+Full-cycle sales / Enterprise deals / Expansion
+Engineering
+Product Quality Engineer
+Own product quality for agent-built Mage features with deep product context and high-signal QA.
+Product QA / Agent workflows / Context mastery
+Front-End Engineer
+Turn complex data and AI systems into polished product experiences.
+React / Product UX / Design systems
+Full-Stack Engineer
+Build product experiences across APIs, infrastructure, and UI.
+Python or Node.js / React + TypeScript / Systems
+Open
+General Application
+Tell us where you can help Mage build the future of data.
+Engineering / Design / Community

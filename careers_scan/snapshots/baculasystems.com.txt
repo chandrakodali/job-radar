@@ -1,0 +1,151 @@
+Products
+Bacula Enterprise
+Features
+Architecture
+OS Compatibility
+Whitepapers
+Bacula Independent Recovery
+Bacula Sovereign Recovery
+BGuardian
+Bacula Enterprise Tools
+For Nutanix
+For Microsoft 365
+For Google Workspace
+For CDP Protection
+For Bare Metal Recovery
+For VMware
+For Hyper V
+For Azure VM
+For XenServer
+For KVM
+For LibVirt
+For OpenStack
+For Proxmox
+For XCP-ng
+For Red Hat Virtualization
+For Docker
+For Kubernetes
+For OpenShift
+For Oracle
+For SAP and HANA
+For MS SQL
+For Sybase
+For DB2
+For PostgreSQL
+For MySQL
+For MariaDB
+For MongoDB
+For MS Exchange
+For Directory Server
+For NDMP
+For SAN
+For NAS
+For ZFS
+For Lustre
+For GPFS
+For NetApp
+BWeb Management Suite™
+New in 2026
+Solutions
+Migration to Bacula Enterprise
+Bacula Enterprise vs. Bacula Community
+Virtual Machine Backup
+Database Backup
+Tape Backup
+Ransomware Proofing
+Backup Security
+Data Centers
+Cloud Computing
+Bacula for MSPs
+Cloud Connectivity (S3, Azure, etc.)
+OpenStack Backup Solution
+Amazon EC2 Module
+Bacula BCloud Service GUI
+Enterprise Backup In-Cloud Functionality
+SaaS Backup and Recovery Functionality
+AI Workloads
+MSPs
+ISVs
+Compliance Hub
+DORA
+Industries
+Defense & Military
+Universities
+Financial Services
+Government
+Healthcare
+HPC and Big Data
+Research Agencies
+Retail
+Manufacturing
+Support
+Customer Portal
+Subscription Levels
+Training
+Bacula Foundation Training
+Expert Series Training
+Training Policies
+Manuals and Whitepapers
+Video Tutorials
+Documentation
+Best Practices Guide
+Introduction
+Actions to Avoid
+Enterprise Data Backup Best Practices (Prior to installation)
+Conﬁguring (Naming and Fine Tuning)
+Testing and monitoring
+Maintenance, Administration Jobs and special Jobs
+Reporting issues
+Support in Detail
+Onboarding and Implementation
+Personalized and Customized Support
+Ongoing Support
+Overall Support Approach
+Certified Binaries
+Technical Blog
+Customers
+Success Stories
+Partners
+Why Partner With Bacula?
+Become Bacula Partner
+VAR
+SI/Cloud/MSP
+HPC
+Find A Partner
+Strategic Alliance Partners
+Company
+Contact Us
+Why choose us?
+Leadership
+Sustainability
+Careers
+Press Center
+Backup Glossary
+Blog
+Try for free
+Request Pricing
+WW +41 21 641 6080
+US +1 800 256 0192
+CA +1 800 935 0725
+FR +33 261 880008
+UK +44 808 1890445
+Home > The Bacula Systems Story > Careers at Bacula Systems
+Careers at Bacula Systems
+We are a global team of unique individuals. Bacula Systems is a very special place to work; it is growing rapidly and provides an dynamic work environment. Bacula is a company full of diverse and enthusiastic individuals. If you are interested to work with us, please send your resume and a short introduction paragraph to jobs@baculasystems.com
+Bacula is a Swiss based enterprise backup and restore software company that offers the most powerful, secure, flexible, scalable, and cost-effective solution on the market for leading organizations that demand a high-performance solution with no compromises.
+Why not be part of this dynamic organization that provides you an optimal place to demonstrate your skills and learn new ones as Bacula meets the ever-evolving demands of our customers.
+Positions currently open:
+You may also be interested in:
+bare metal backup
+red hat virtualization backup
+veritas competitors
+Trademark Guidelines
+Legal Notice
+Sitemap
+Customer Login
+Worldwide +41 21 641 6080
+DACH +44 808 1890445
+Bacula Systems
+Avenue des Sciences 11, CH-1400 Yverdon-les-Bains, Switzerland
++41 21 641 6080
+https://www.baculasystems.com

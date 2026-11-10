@@ -1,0 +1,34 @@
+Jobs at ownCloud
+ownCloud GmbH is the steward of the renowned open-source file platform ownCloud. Join us in making the world a more data sovereign, secure and productive place for all, one organization at a time!
+Job openings
+Currently, there are no open positions. Please try again soon.
+We offer development & career opportunities in a successful growing, dynamic company with flat hierarchies, openness and good working atmosphere.
+Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1794308768 uolcn 1794308768 wo@kr 1794308768 ow 1794308768 if you wish to become part of ownCloud’s success story!
+Who we are
+We live our mission to put digital sovereignty back into the hands of individuals and companies. We start with our product and develop software we are passionate about. Our team are strong, smart people with whom we shape digital collaboration for today and tomorrow.
+Frequently asked questions
+Can I apply for a job that isn't advertised?
+Of course you can and we are very much looking forward to your unsolicited application. ownCloud lives from people who identify with the open source world beyond their work, see it as their home and who already have experience in proactively getting involved in open source projects.
+Any advice for making a great application?
+Whether it’s for your application or interviews, it always helps to do a little research. Read the blog about ownCloud, check how we pursue our vision of digital sovereignty with ownCloud, dig a little deeper into our history and the company and try ownCloud yourself (it’s free and easy).
+You do not necessarily need a cover letter, just tell us about what makes you unique, and highlight any projects you’ve done in your field.
+To whom shall I address my application?
+Usually directly to the responsible teamlead or department head. If not stated otherwise you can send your application to our management Tobias Gerlinger or Holger Dyroff.
+Where to submit my application?
+Please send us your application via e-mail to moc.d 1794308768 uolcn 1794308768 wo@kr 1794308768 ow 1794308768 – We will get back to you as soon as possible.
+What can I do to prepare for engineering interviews?
+As a matter of principle, we don’t have an evil engineering boot camp if you attend a job interview with us. Nonetheless, there are a few things you can prepare:
+Install the ownCloud on an environment of your choice and test the product: How did you perform the installation and what errors did you notice?
+Familiarize yourself with the ownCloud GitHub project and its repositories
+Plus points if you have already submitted a pull request or improved the documentation
+Sometimes we ask you to solve an issue after a job interview, these are usually marked with label:"junior job" or label:"good first issue"
+Stay in sync
+Follow us on social media, insightful updates promised
+Twitter
+LinkedIn
+Facebook
+About us
+Founded back in 2011 we are looking back at nearly ten years full of exiting stories. Learn more about ownCloud as a company, our origins and the milestones along the way.
+About ownCloud
+Contribute
+Besides our core team, ownCloud is supported by a community of more than 1,300 enthusiasts. To find out how you can get involved as well, click here.

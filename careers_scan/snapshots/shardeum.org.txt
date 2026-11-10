@@ -1,0 +1,356 @@
+Tokenize Real-World Assets & Rights
+An EVM-compatible Layer 1 enabling developers to build, businesses to tokenize, and investors to access programmable real world value.
+Start Building
+Tokenize Your Assets
+How RWA Becomes Programmable
+Shardeum transforms real-world assets, rights and entitlements into programmable onchain assets through an auditable four-step process powered by EVM-compatible smart contracts.
+Tokenize
+Represent real-world assets, rights or entitlements as EVM-compatible tokens through smart contracts.
+Mint & Record
+Issue tokens against approved real-world records and establish an immutable, verifiable onchain ownership history.
+Program the Lifecycle
+Set the rules to define how assets can be transferred, paused, redeemed, or retired - and let smart contracts execute those rules automatically.
+Connect & Settle
+Connect with wallets, marketplaces and payment rails for near-instant, low-fee onchain settlement.
+Built for Every Participant in the Ecosystem
+For Developers
+Build RWA applications using familiar Solidity tooling, low predictable fees and scalable EVM infrastructure designed for real-world asset workloads.
+Read the Docs →
+For Business & Asset Issuers
+Tokenize real world assets and rights with programmable smart contracts tailored to your business and asset lifecycle requirements.
+Tokenize Your Assets →
+For Institutions & Investors
+Access tokenized real-world assets through applications built on Shardeum, with transparent ownership records and programmable transaction rules.
+Explore Ecosystem →
+Always Affordable
+No more unpredictable gas fees or having to guess when it’s affordable to transact. Shardeum fees stay low and stable, always.
+Always Scalable
+Whether it’s thousands or millions of users Shardeum automatically scales as demand increases.
+Always Fair
+Every transaction is processed strictly in the order it’s received. Nobody can cut the line or exploit the system. NO MEV!!
+Solving the Trilemma
+Scalability
+Thanks to dynamic state sharding, consensus is reached at the transaction level. This means high speed because of parallel processing, and low fees.
+Security
+From our combined proof-of-stake and proof-of-quorum approach to consensus, to our auto rotation mechanism we focus on security every step of the way.
+Decentralization
+Shardeum is permissionless and built for the community to run nodes that increase TPS (Transactions Per Second), and participate regardless of their locations and backgrounds.
+Read our Whitepaper
+Delegate. Secure. Earn SHM.
+Easily delegate SHM to validators, help secure the network, and earn staking rewards.
+Delegate Now
+Ecosystem Projects
+Houdiniswap
+Houdini Swap is a non-custodial, cross-chain liquidity aggregator that allows users to swap, send, and bridge cryptocurrencies privately and...
+Bridge
+Mainnet
+Live
+Chip
+Chip is a social prediction platform where users don’t predict real-world events, they predict human behavior and collective opinion.
+Core Idea:...
+Games
+Sikka.Fun
+Sikka.fun is a mobile-first coin launch platform where you can discover and explore community-driven memecoins - all in one simple app. Built for...
+Social
+Humanode
+Humanode is the first crypto biometric network where one human = one node = one vote that brings Sybil resistance to the crypto industry using...
+Infrastructure
+Create Your Wallet
+Your SHM. Your wallet. Your control.
+Get & Use SHM
+Internet-native. Borderless by design
+Roadmap
+2026 Q1 - Q4
+2025 Q4
+2025 Q3
+2025 Q2
+2025 Q1
+2024 Q4
+2024 Q3
+2024 Q2
+2024 Q1
+2023 Q3/Q4
+2023 Q2
+2023 Q1
+2022 Q4
+2022 Q3
+2022 Q2
+2022 Q1
+2017 - 2021
+Onboard ecosystem partners across Staking, DEX, Memecoins, DeFi, NFT, Games, and Social dApps
+Strengthen infrastructure providers; oracles, wallets, custodians, indexers, analytics
+Host nationwide Developer Hackathons
+Launch the Shardeum Builder Program to onboard early developers
+Launch Developer Grant Program to support Indian projects
+Launch Accelerator Program for scaling dapps and startups
+EVM Smart Contract Mainnet Live
+EVM Testnet Quest
+Onboard ecosystem projects/dApps
+Open-sourcing Codebase
+Whitepaper Version Update
+Community-run Validators/Delegators
+EVM Smart Contract Testnet
+Shardeum Ambassador Program Live
+Token-only Mainnet
+Pre-Mainnet Readiness
+Bug Bounty III
+RPC server (Exchanges)
+Single Click Node (GCP/AWS)
+Explorer ready
+Phase 1 & 2 Airdrop Registration
+Token Sale
+Incentivized Testnet (Atomium) Stage 3 Launch
+Code Freeze
+Incentivized Testnet Stage 4 Launch
+Incentivized Testnet Stage 2 Launch
+Bug Bounty I & II
+Security Audit
+Incentivized Testnet (Atomium) Stage 1 Launch
+Open Sourcing the Shardeum Source Code
+Betanet (Sphinx) 1.9 – 1.10
+Patent Filing Completed
+Betanet Contd.
+Sphinx 1.5 – 1.8
+Scalability Testing
+Feature completion
+Patent Filing
+Betanet Update
+Sphinx 1.2
+Node Reward Policy Announcement
+Sphinx 1.3 – 1.4
+Betanet (Sphinx) launch
+Sphinx 1.0 with 150 TPS, 150 validators and 21 node shard size
+Sphinx 1.1 with 250 TPS, 1280 validators and 128 node shard size
+Nodes and validators are open source to run by the community
+Validator Dashboard (GUI) launch
+Staking, auto scaling, node rotation and test SHM rewards enabled
+Alphanet 2.1 Update
+EIP-2930 automated
+100 TPS capacity
+Alphanet 2.0 launch
+50 node sharded network operated by Shardeum
+10 node shard size
+5 archive nodes
+Deployed to individual medium nodes on AWS in different regions
+First smart contract platform to implement EIP2930
+Private sale finished
+Alphanet (Liberty) 1.0 launch
+20 node unsharded network operated by Shardeum
+Send transactions and deploy smart contracts
+Private sale started
+Initial Prototype
+Demo of EVM integration with Shardus
+Shardeum Foundation structured in Switzerland
+Consensus algorithm defined and tested
+Auto scaling and rate limiting an unhardened network of 20 nodes
+Linear scaling (small sharded nodes)
+Small / medium AWS network
+100 nodes = 500 TP
+200 nodes = 1000 TPS
+1000 nodes = 5000 TPS
+Community Drives Shardeum
+Shardeum is operated, utilized, and supported by the community.
+Find Your Tribe
+570+ Proof of Community events
+33,000+ Attendees
+22 Countries
+Shardeum in the News
+August 31, 2026
+Blockwind News
+Opinion: RWAs Could Be Crypto’s Bridge to the Real Economy
+Nischal Shetty explains how real-world assets could connect crypto capital with SMEs, private credit, global markets, and real economic...
+Written By
+Nicole Nicole
+July 16, 2026
+Analytics Insight
+India Doesn't Need a Crypto Ban; it Needs a Crypto Policy
+Prohibition doesn't erase demand, it relocates it. Push activity underground and it flows to precisely the channels regulators fear most: offshore exchanges, private wallets, and P2P transfers that...
+Press Release
+July 1, 2026
+CoinPasar
+The Next Tech War Won’t Be AI vs Blockchain, It Will Be [...]
+Nischal Shetty, co-founder of Shardeum and CEO of WazirX, believes that AI and blockchain are complementary rather than competing...
+Jesper Leong
+May 19, 2026
+Alexa Blockchain
+Meme Coins Are Cultural Assets First, Financial Assets [...]
+Learn why financial analysts misunderstand meme coins by overlooking their role as cultural assets in today's...
+Nischal Shetty
+April 22, 2026
+Bitcoin Insider
+Interview: memecoins a gateway, not end goal, says Nischal [...]
+Shardeum's token platform prioritises user education over speculative trading loops. Nischal Shetty wants memecoins as gateways, not the final...
+Utkarsh Roshan
+April 16, 2026
+From Wall Street Bets to Pump.fun: How Internet Culture Is [...]
+From GameStop to meme coins, explore how internet culture is transforming asset creation, driven by community, crypto platforms, and permissionless...
+March 30, 2026
+ET Edge Insights
+Why the next wave of crypto users won’t be traders
+India’s crypto boom is shifting beyond trading, driven by real use cases like remittances, gaming, and creators on mobile-first, low-cost blockchain...
+March 12, 2026
+Alexablockchain
+Sikka.fun Launches on Shardeum, Bringing Fair-Access Coin [...]
+Anyone can now create and trade coins from their phone with zero cost, no insider access, and an on-chain referral system built for India’s next 100 million crypto...
+AB PR Desk Website
+February 23, 2026
+Why 2026 Will Be the Year Real On-Chain Usage Outgrows [...]
+Nischal Shetty, co-founder of Shardeum and CEO of WazirX, believes that 2026 will be the year that on-chain utility will outgrow...
+February 20, 2026
+99 Bitcoins
+Nischal Shetty Says, “Blockchain YES, Crypto NO Approach [...]
+In an exclusive chat with 99Bitcoins.com, Nischal Shetty, Shardeum Co-Founder, and the man behind India’s largest crypto exchange WazirX, talks about navigating the country’s “Blockchain YES,...
+Akriti Seth
+February 16, 2026
+From Digital India to India On-Chain: What the Next Decade [...]
+Nischal Shetty, co-founder of Shardeum and CEO of WazirX, explores how India can make the transition onto the blockchain by the next...
+December 5, 2025
+India’s Next Leap: Why the Country Is Poised to Become [...]
+Nischal Shetty, co-founder of Shardeum and CEO of WazirX, shares how India’s digital infrastructure positions the nation to lead in on-chain...
+November 12, 2025
+IndianWeb2
+NFTs2Me Launches on Shardeum EVM Mainnet for No Code NFT [...]
+NFTs2Me unlocks seamless, decentralized NFT design and deployment on Shardeum’s fast, affordable EVM...
+November 5, 2025
+Yahoo Finance
+Shardeum Announces SHM Token Split for Global Community [...]
+Shardeum Announces Major SHM Token Split As It Prepares For Global Blockchain Expansion Backed By India's Fastest-Growing Web3...
+Paula Tudoran
+November 3, 2025
+Shardeum Launches EVM Mainnet
+Shardeum has launched its EVM mainnet, transitioning from a token-only model to a full smart contract platform with 1:240 SHM redenomination....
+Arun Shakyawar
+October 6, 2025
+Shardeum Launches EVM Testnet to Kickstart India’s [...]
+Shardeum, the India-first Layer 1 blockchain project announced the launch of its EVM-compatible testnet as part of its mission to build the Dapp ecosystem in...
+September 17, 2025
+India Leads Global Web3 Shift as Shardeum ‘Proof of [...]
+India tops global participation in Shardeum’s Proof of Keys airdrop, with over 1.5M SHM...
+Rakhi Shah
+June 21, 2025
+CXOToday
+Shardeum’s Proof of Community Campaign Aims to Onboard [...]
+Shardeum is taking blockchain education global with over 200 meetups and real PayFi experiences. Dive in and discover how easy it is to get started with...
+June 13, 2025
+Shardeum Foundation Secures MiCA Whitepaper Acknowledgement
+Shardeum becomes the first autoscaling Layer 1 blockchain to gain MiCA recognition, enabling compliant operations across all 27 EU member...
+May 30, 2025
+DroomDroom
+Building the Internet’s Payment Layer: Shardeum’s PayFi [...]
+Shardeum is tackling the internet’s biggest missing piece, native payments. With autoscaling, low fees, and microtransaction-ready design, it's building Web3’s PayFi layer from the ground up....
+April 23, 2025
+Decoding Decentralization at Scale: Insights from Srini [...]
+Explore how dynamic state sharding, a blockless architecture, and a community-first validator model could finally crack the scalability...
+March 31, 2025
+CryptoSlate
+Shardeum Hits 171K+ Validators in Testnet – A Record for [...]
+Shardeum aims for mass adoption of Web3 with its autoscaling blockchain network featuring permissionless validator access and dynamic state...
+April 4, 2025
+CoinMarketCap
+Shardeum Testnet Blazes a Trail with Record-Breaking [...]
+Shardeum, the ambitious Layer 1 blockchain focused on autoscaling without sacrificing decentralization, has concluded its testnet phase with a resounding success, setting a new benchmark amongst...
+February 16, 2025
+AlexaBlockchain
+Most Anticipated Blockchain Mainnet Launches of 2025
+From Shardeum’s autoscalable network to Pi Network’s mass adoption push, explore how these upcoming blockchain projects are set to revolutionize the blockchain...
+February 13, 2025
+MPOST
+How Shardeum’s Linear Scalability Could Change Blockchain [...]
+Shardeum’s dynamic state sharding enables true linear scalability, solving the Blockchain Trilemma by balancing security, decentralization, and performance without reliance on centralized Layer 2...
+Victoria d'Este
+February 11, 2025
+Free Press Journal
+Top 5 Emerging Blockchain Networks; Stepping Towards [...]
+These emerging platforms are not only enhancing transaction speed and reducing costs but also enabling seamless interoperability and fostering sustainable...
+Poulami Saha
+December 19, 2024
+Finbold
+Shardeum Announces Appointment of Srinivasan Parthasarathy [...]
+Srini joins Shardeum with over 30 years of experience as CTO and in lead engineering positions in both the traditional and blockchain technology...
+December 17, 2024
+e27
+How Web3’s open-source technology will create a more [...]
+Open-source code and protocols shape the internet's future, enabling global participation and driving the evolution of...
+Chris Chabot (Op-Ed)
+October 20, 2024
+Crypto Reporter
+Shardeum’s ITN Stage 3 Surpasses 7 Million Transactions [...]
+Chris Chabot, VP of Developer Relations at Shardeum, remarked, “Surpassing 7 million transactions in such a short span is a clear demonstration of Shardeum’s robust scalability and the strong...
+Crypto Reporter PR
+November 19, 2024
+MadTech
+Web3 Marketing: Navigating the New Landscape of Community [...]
+"Unlike Web2 marketing’s reliance on paid ads and top-down communication, Web3 revolves around decentralization, with a focus on community-driven growth, transparent practices, and innovative...
+Kelsey McGuire (Op-Ed)
+November 15, 2024
+Why Developer Relations (DevRel) Is Crucial for Open Source [...]
+"For any Web3 project aiming to succeed, investing in Developer Relations is not just an option—it’s a strategic...
+June 25, 2024
+BeInCrypto
+Layer-1 Blockchain Shardeum Allocates 3.3 Million SHM [...]
+Shardeum, an autoscaling layer-1 blockchain, has announced the launch of Stage 1 of its incentivized testnet, Atomium. It will commence on June 26,...
+Harsh Notariya
+July 12, 2024
+Bitcoin World
+An Interview With Kelsey McGuire, CGO, Shardeum
+"Our focus on sustainability through a less energy-intensive consensus mechanism and our community-driven development approach further distinguish us. We prioritize user and developer experience,...
+Keshav Aggarwal
+November 15, 2023
+Coin Telegraph
+Layer 2 networks hit $13B TVL, but challenges still remain
+Kelsey McGuire, chief growth officer for layer 1 network Shardeum, told Cointelegraph that layer 2s face another serious challenge that is often overlooked: centralization. “While layer-2 solutions...
+Tom Blackstone
+October 14, 2023
+Benzinga
+Global Regulations Will Play Significant Role In Shaping [...]
+Nischal Shetty, a software engineer who embarked on an entrepreneurial journey, introduced the layer 1 blockchain network Shardeum in February 2022. Shardeum claims to be a pioneering, linearly...
+Bibhu Pattnaik
+July 10, 2023
+CoinDesk
+Nischal Shetty’s Blockchain Startup Shardeum Raises $5.4M [...]
+Shardeum recently raised $5.4 million in strategic funding. The layer 1 blockchain was co-created by Nischal Shetty, who is also the co-founder of WazirX, India's largest crypto exchange by trading...
+Shardeum by the Numbers
+Network growth. Ecosystem activity. Community scale.
+1.8BN+
+SHM Staked
+5.9MN+
+SHM Trade Volume
+$200K+
+Sikka.fun Trading Volume
+573K+
+Discord Members
+325K+
+Twitter Followers
+310K+
+Newsletter Subscribers
+Tokenomics
+249M SHM
+Initial
+Supply
+36.72%
+Sale
+30.6%
+Team
+22.44%
+Foundation
+10.23%
+Ecosystem
+& Airdrops
+Sign up for The Shardian community newsletter
+Stay updated on major developments about Shardeum.
+Prev
+Next
+LISTED ON
+Product Screenshots
+Blogs
+November 10, 2026
+Ecosystem SHM Token
+Sikka.fun Trading Contest 43 is Live – 24 Hr. [...]
+Trading Contest 43 is live on Sikka.fun. Trade and compete for a share of the 2.5 Million SHM reward pool. Rewards are available to the Top 10...
+Shardeum Content Team
+November 5, 2026
+Sikka.fun Trading Contest 42 is Live – 24 Hr. [...]
+Trading Contest 42 is live on Sikka.fun. Trade and compete for a share of the 2.5 Million SHM reward pool. Rewards are available to the Top 10...
+November 3, 2026
+Sikka.fun Trading Contest 41 is Live
+Trading Contest 41 is live on Sikka.fun. Trade and compete for a share of the 9 Million SHM reward pool. Rewards are available to the Top 30...

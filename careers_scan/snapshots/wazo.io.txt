@@ -1,0 +1,108 @@
+Pour les MSP, intégrateurs & opérateurs
+Le centre de contrôle de vos communications
+Construisez, opérez et vendez des services UC — AI-ready , avec une véritable offre multi-tenant , des APIs ouvertes et des apps en marque blanche . Vous gardez la relation client. Vous gardez la valeur.
+Demander une démo Explorer nos APIs →
+Vous êtes une entreprise à la recherche d'une solution de communication ? Découvrez nos applications et planifions un échange pour vous mettre en relation avec l'un de nos partenaires. > Demander une démo
+Cloud
+API ouvertes
+Personnalisation
+Monitoring
+Ils nous font confiance
+Notre offre
+Tout ce dont vous avez besoin pour construire votre offre UC, et la commercialiser auprès de vos clients.
+Apps
+Expérience utilisateur complète
+Portal
+Opérations, billing et administration
+Documentation
+APIs, guides et ressources
+Support N3
+Support technique avancé
+Accompagnement
+Onboarding, training et certification
+Marque blanche
+Votre marque. Vos apps. Vos clients.
+Lancez une solution de communication entièrement à votre marque, sans watermark. Sans dépendance.
+Apps sous votre propre marque
+Applications mobile, desktop et web 100% personnalisées avec votre identité.
+Mobile Desktop Web
+Plateforme opérateur
+Gérez vos utilisateurs, clients et services depuis votre propre environnement.
+Portail Utilisateurs Paramètres
+Go-to-market accéléré
+Templates, outils marketing et onboarding pour lancer votre service rapidement.
+Kits GTM Onboarding Déploiement rapide
+Optimisez votre TCO
+Découvrez notre plateforme multitenant native : elle vous permet de gérer l’ensemble de vos clients et de votre infrastructure depuis une console unique, qui vous permet de réduire vos coûts d'infrastructure et vos coûts d'administration (overhead,etc.) Grâce à Wazo, vous préservez vos marges.
+Multi-tenant natif
+Isolation totale entre tenants, sur une infrastructure unique. Gérez un nombre important de clients sans risque de conflit de configuration.
+Scalabilité sans compromis
+Infrastructure flexible
+Déployez sur plusieurs régions avec des serveurs distribués, tout en gardant un contrôle centralisé.
+Expansion globale
+Provisioning par templates
+Créez des templates une fois, déployez en quelques minutes. Standardisez vos services et accélérez vos déploiements.
+Déploiement accéléré
+API ouvertes & automatisation
+Intégrez Wazo à votre écosystème grâce à des API complètes et automatisez le provisioning, la gestion des utilisateurs et les opérations quotidiennes.
+Intégration facilitée
+Monitoring en temps réel
+Supervisez la qualité, la disponibilité et l’usage en continu. Anticipez les incidents grâce à des alertes proactives.
+Maîtrise opérationnelle
+Console de gestion centralisée
+Administrez tenants, utilisateurs et services depuis une interface unique, avec une visibilité complète sur votre plateforme.
+Pilotage unifié
+Votre écosystème sans contraintes
+Vos outils. Votre infrastructure.
+Wazo est la seule plateforme UC qui offre aux MSP, intégrateurs & opérateurs une véritable souveraineté — déployez n'importe où, utilisez n'importe quel opérateur, maîtrisez l'ensemble des données.
+Hébergement de votre choix
+Déployez la solution sur vos propres serveurs, dans un cloud privé ou sur le cloud public de votre choix (AWS, Azure, GCP). Aucun SaaS imposé : vous gardez le contrôle total de votre infrastructure, de vos SLA et de la localisation de vos données.
+Opérateur de votre choix
+Apportez vos propres SIP trunks et conservez vos partenaires télécom habituels. Aucun opérateur imposé : gardez la maîtrise de vos coûts tout en préservant la qualité et la fiabilité de vos interconnexions.
+Maîtrisez la relation avec vos clients de bout en bout
+Facturez vos clients en direct, fixez vos propres tarifs et restez le fournisseur de service. Votre marque, vos revenus récurrents.
+Souveraineté de vos données
+Compatible RGPD, avec hébergement des données en Europe. Chiffrement complet des données.
+Positionnement
+Comment Wazo se compare
+Découvrez comment Wazo se positionne face au marché — pour les opérateurs qui veulent un vrai contrôle, pas un programme de revente.
+Fonctionnalité
+UCaaS hébergé
+PBX traditionnels
+Open-source DIY
+Multi-tenancy natif
+Partiel
+Marque blanche (100% votre marque)
+✗ (co-brandé)
+Déploiement sur votre propre infra
+Vous maîtrisez facturation & client
+✗ (la plateforme contrôle)
+APIs ouvertes
+✓ (complet)
+Limité
+Ops & support SaaS moderne
+Intégration IA (ouverte, sans verrouillage)
+Verrouillé
+Apportez votre propre opérateur (BYOC)
+Rare
+GTM & programme partenaire clé en main
+100%
+Scalable
+API Driven
+1 sem.
+Délai moyen jusqu'au premier client déployé
+30mn
+Délais moyen réponse support N3
+"Nous avons choisi Wazo parce que la plateforme répond à tous nos besoins, des téléphones de bureau aux softphones en passant par la vidéoconférence."
+Thibaut Foulquier-Gazagnes — Directeur général et fondateur, Agence Télécom
+FAQ
+Questions fréquentes
+À qui s'adresse Wazo ? +
+Qu'est-ce qui différencie Wazo d'une plateforme UCaaS ? +
+Où Wazo peut-il être déployé ? +
+Comment fonctionne la « marque blanche » ? +
+Comment fonctionnent les APIs ? +
+Quel est le modèle de licence ? +
+Prêt à construire votre propre offre UC ?
+Notre équipe vous accompagnera dans la découverte de la plateforme et le cadrage de votre déploiement.
+Demander une démo Explorer la doc développeur →

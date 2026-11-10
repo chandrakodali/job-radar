@@ -1,0 +1,34 @@
+Opportunities
+Careers at Greptime ​
+Greptime builds an open-source observability database in Rust — one engine for metrics, logs, and traces ( github.com/GreptimeTeam/greptimedb ). We're a venture-backed early-stage team distributed across the US and China. It runs in production at companies with serious time-series workloads — observability, IoT, connected vehicles.
+Developer Relations Intern (North America) ​
+Remote — US or Canada. Part-time, about 20 hours a week.
+The role ​
+This internship covers content and community for developers in North America, so we want someone based there who knows where developers spend time, what they talk about, and how they talk.
+What you'll do ​
+Write English technical blog posts, tutorials, and demos
+Talk with developers on Slack, GitHub, X, and Reddit
+Help organize meetups, conferences, and hackathons in North America
+Collect community feedback and bring it to the product and engineering teams
+Work with product marketing, product, and engineering on content and launches
+What we want ​
+Based in the US or Canada and currently enrolled in a bachelor's degree or higher in CS, software engineering, or a related field
+Clear technical writing in English
+About 20 hours a week on average — fewer during exams, more around events
+Available for at least 6 months
+1–2 sync meetings a week, scheduled to work for both North American and China time zones; everything else is async
+Already reading Hacker News, spending time in technical Slack communities, and following Substack — not because of this job
+Nice to have ​
+A previous internship in data infrastructure, databases, observability, or cloud native
+Familiarity with the observability ecosystem: Prometheus, Grafana, OpenTelemetry
+Meaningful open-source contributions on GitHub
+Technical blog posts or threads on X
+Organized a tech club, hackathon, or tech talk at school
+Compensation ​
+$25–35/hour USD, based on experience and background. Fully remote with flexible hours. School comes first — let us know ahead of exam weeks and deadlines. You'll work directly with engineers, PMs, and our international community. Strong performers can extend the internship, convert to full-time, or get a recommendation letter.
+Apply ​
+Email [email protected] with your resume and one piece of technical writing in English — a blog post, a repo, or an X thread. If you don't have one, send about 200 words in English on why you want to do DevRel.
+Greptime is an equal opportunity employer.
+Stay in the loop
+Join our community
+Get the latest updates and discuss with other users.

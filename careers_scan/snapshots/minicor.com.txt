@@ -1,0 +1,14 @@
+Careers
+Build the interface between AI and legacy software
+At Minicor, we are unblocking one of the last bottlenecks for AI to enter the enterprise. Critical workflows across healthcare, logistics, and hospitality still run on legacy Windows desktop systems with no APIs. The only way in is through the UI, the way a human would.
+We build the infrastructure that makes integrating with these systems reliable at scale: workflows running on real Windows environments with built-in execution, observability, and recovery, handling thousands of RPA runs per day in production.
+We are growing fast, things are constantly breaking, and we are looking for people to help urgently.
+Open Roles
+We are always looking for exceptional people. Browse and apply below, or reach out directly if you think you would be a fit.
+Or email connect@minicor.com
+Life at Minicor
+YC-backed (P26), based in San Francisco, selling to AI companies in legacy industries
+Ship fast, iterate faster. We deploy to production weekly.
+Strict no-ego policy. We have a lot of fun, and we respect and trust each other.
+Direct customer impact. Your work runs in live clinical environments.
+High autonomy, high ownership. Every person shapes the product and the company.

@@ -1,0 +1,101 @@
+Changing the site language for you. Please wait ...
+Hey!
+Our website is available in your language , would you like to switch to that? Yes No
+Are you always
+View Openings (0)
+{{#if 1}}
+{{/if}}
+We’re not suit-and-tie people.
+We’re the memorize-movie-lines, look-for-continuity-goofs, take-a-day-off-when-your-favorite-video-game-releases type of people. Yep, we're just a bunch of media nerds who work remotely from all over the world, doing what we love. And we’re always looking for more awesome people to help us write our next chapter.
+We live our values.
+As Plex evolves, changes, and grows over time, our commitment to our values stays the same. We’ve made a pact to share the responsibility of safeguarding and supporting the heart of who we are—our culture.
+Read More on Our Values
+Inclusion & Diversity at Plex
+At Plex, our vision is to empower real human connection by bringing people and entertainment together. This vision is at the heart of our diversity, equity and inclusion work.
+As a fully remote, global company, we take pride in our ability and dedication to building a workforce that represents our global audience. Our virtual work environment is intentionally designed to draw from all backgrounds, creating a sense of belonging and ownership for every employee.
+As we create a global community of streaming media, we know we need a team that represents the diversity of our users and a company culture that welcomes people to be their authentic selves, and we’re all in!
+At Plex, with great responsibility comes great benefits.
+We’re dedicated to ensuring the well-being of Plexians and their families—during working hours and outside of work. Here are some (but not all) of the ways we make this happen.
+100% Remote
+Paid Parental Leave
+Flexible PTO
+Balance Stipend
+Stock Options
+Hardware Stipend
+Charitable Giving
+Annual Off-Sites
+See Full Benefits
+You made it this far, let’s go one step further.
+"The Warner Bros. movies and TV shows will likely be just the beginning of Plex’s ad-supported content, as the company plans on working with additional media partners to expand its catalog. So while the main draw of the app will still be the ability to stream a personal media library, it may eventually become a centralized app for on-demand content across networks." - Engadget
+"...One of the very few products that is rich enough in features to satisfy the media maven, but simple enough that the luddite in the house can find their way around it without frustration." - Forbes
+"Plex is one step closer to becoming the only piece of streaming software that you’ll ever need." - Digital Trends
+"A Masterplan for Digital Media, 10 Years in the Making." - Variety
+"Plex makes a compelling case by partnering with big-name studios like MGM, Lionsgate, and Warner Bros., which means it has a relatively well-stocked streaming larder." - Wired
+"The Best Video Player You Can Use Finally Gets DVR Support." - Gizmodo
+"This makes Plex a better solution for cord cutters... with this added functionality, you can now "watch TV" on almost any device." - TechCrunch
+"Plex is becoming an even more impressive application and one which many more people will flock to as the feature set gets even richer." - MUO
+We value your privacy.
+I Accept
+I Reject
+More Options
+OFF
+Accept All
+Reject All
+Save & Exit
+{{#if (or isSignedIn isSigninIn) }}
+{{#if isSigninIn }}
+Signing you in, Please wait ...
+{{else}}
+Redirecting you, please wait ...
+Account Sign in
+Create your free account
+No credit card required.
+Company
+About
+Careers
+Our Culture
+Giving
+Press Room
+Partners
+Plex Gear
+The Plex Blog
+Advertise with Us
+Watch Free on Plex
+Watch Free Movies
+TV Channel Finder
+Free A24 Movies on Plex
+Trending on Plex
+Discover
+What to Watch Now
+What To Watch on Netflix
+What To Watch on Hulu
+Movies Database
+My Media
+Plex Media Server
+Plans
+Download App
+Available Devices
+Plexamp
+Bug Bounty
+Resources
+Finding Help
+Support Library
+Community Forums
+Code of Conduct
+Billing Questions
+Status
+CordCutter
+Get in Touch
+Privacy & Legal
+Accessibility
+Do Not Sell or Share My Personal Information / Opt-out of Targeted Advertising
+Language:
+The Best of Plex
+Plex Pass gives you exclusive access to awesome new features and apps.
+Learn More
+Introducing streaming music powered by TIDAL
+Level up your music library with 60 million high-quality songs.
+TIDAL is seamlessly integrated with your existing music library — beautifully organized right in Plex.
+{{#if (or hasExpiredTidalTrial hasAnyStateTidalSubsc)}}
+Choose a Plan
+Start 30-Day Free Trial{{/if}}

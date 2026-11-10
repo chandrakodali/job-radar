@@ -1,0 +1,464 @@
+We are hiring
+Nextcloud is looking for people who want to join our team.
+See open positions
+Our company
+We are a modern, distributed, open source company. It is our mission to provide our users and customers with the means for data storage, access and communication under their control, protecting their privacy and security.
+We pursue a fully-open strategy, keeping internal communication to a minimum while aiming to work, discuss and develop in public. We are a thriving, quickly growing company with a solid customer base. An open source background or experience contributing to Nextcloud is a big plus for job applicants! Especially for developers we pursue a strong “hire from the community” strategy.
+FAQs applying with Nextcloud
+Contact us at jobs@nextcloud.com with your resume, the role you’re interested in and your motivation. We post new vacancies regularly, so it is worth having a look every now and then, if you don’t find a suitable vacancy first time around.
+It is not necessary to apply multiple times when you see more than one vacancy that is of interest to you. In this case please let us know which positions are of interest to you, we will then be able to consider your application for all positions listed. Multiple applications just cause additional administrative burden.
+In case you have been rejected in the past, we encourage you to reapply if your qualifications or experience have changed in the meantime, or if you see a new role more suitable to your skills.
+Thanks for your interest in Nextcloud! We will reach out if we need more information from you.
+If your experience is a good fit for our vacancy, we will be in touch soon. Please note that it’s not possible for us to respond to every candidate, but we review every application.
+Please always include your CV in PDF format, detailing relevant skills, keywords, and experience. You might want to consider writing a short note about who you are and why you want to join Nextcloud. Additional information that is valuable to us and you can, but don’t have to include availability (when can you start and how many hours per week to you want to work?) and salary desired.
+Our goal is to continue to grow Nextcloud and build a more diverse team in the most efficient way possible. Diversity and inclusion are some of our core values.
+Nextcloud’s people policies and practices relating to recruitment, employment and career development aim to ensure that we welcome people from all walks of lives in their individuality and do not discriminate.
+At Nextcloud, we do not accept solicitations from recruitment agencies, headhunters, or outsourcing organizations. Please refrain from sending us information or profiles as they will not be considered.
+Nextcloud actively strives for diversity
+We would like to especially encourage applications by people from underrepresented groups in tech.
+As a very international, distributed company with employees in over 30 countries and on most continents, our company language is English, most of us work from home or a local co-working space and working hours are very flexible. We try to bring everyone in the company together for a week 2-3 times a year, with once being our yearly conference in Berlin. The teams also organize their own, separate meetings throughout the year as working together is fun and productive!
+Open positions
+At Nextcloud we help our users achieve a safe home for all their data, secure, under your control, and developed in an open, transparent, and trustworthy way. We work remotely, and our work culture is shaped by mutual trust, enthusiasm, and a strong belief in the principles of open source.
+We are looking for a hands-on Event & Trade Show Manager to join our Events team and take ownership of a portfolio of B2B trade shows and external industry events. You will be responsible from the initial event strategy and campaign planning to booth production, on-site execution, and post-event follow-up, with a focus on visibility, engagement, and business impact.
+Responsibilities
+Own and execute our international B2B event participation end-to-end: from proposing opportunities and planning through execution and post-event reporting
+Define clear objectives for each event in collaboration with Sales and Marketing, focussing on visibility, engagement, lead generation, and business impact
+Develop and coordinate pre-event, on-site, and post-event campaigns to maximise Nextcloud’s visibility and presence
+Manage booth production, logistics, and external stakeholders, while coordinating event design, messaging, visuals, and materials with cross-functional marketing teams.
+Attend selected events and take an active role on-site, coordinating the Nextcloud presence and supporting the Sales team
+Manage event budgets and performance, track success metrics, analyse feedback and results, and make recommendations to improve future events
+Build strong relationships with event organisers, partners, suppliers, and internal stakeholders
+Requirements
+3+ years of experience in event management, ideally within a global B2B or technology environment
+Hands-on experience managing B2B events and trade shows
+Strong project management skills and the ability to coordinate multiple events, stakeholders, and deliverables
+Commercial mindset with the ability to understand business objectives and translate them into effective event strategies
+Creative mindset and an eye for detail
+Graphic design skills or experience working with design tools is a plus
+Ability to work independently and remotely
+Fluency in English is essential; additional languages are a plus.
+Benefits
+A distributed, open team with a passion for working on and within the open source community
+A fun and diverse team
+A product which pushes the boundaries of technology with a global user and contributor community
+A competitive salary
+Remote work and flexibility for a healthy work-life balance
+Time for personal growth and education
+Contact
+We are looking for somebody with ambition, drive, and a strong commercial mindset who can turn tradeshows and external events into impactful brand and business opportunities. We especially encourage applications by people from under-represented groups. Send your resume to jobs@nextcloud.com if you are interested in this role.
+We are looking for an experienced, hands-on VP Finance to support Nextcloud through its next major phase of growth and strategic development.
+Build and lead the finance function for the next stage of Nextcloud’s growth: scale-up from 170 to 400 employees at a fast pace
+Initially take a highly hands-on and operational role, establishing scalable financial processes, systems, reporting and controls
+Transition from operational execution to strategic leadership and management
+Own financial planning, budgeting, forecasting, controlling, cash flow and management reporting
+Develop the financial organisation, systems and governance required for a company of significantly greater scale
+Act as a strategic partner to the CEO and management team on growth, investments and key business decisions
+Prepare the company for a potential future shareholder transaction / sale of shares
+Lead the financial side of such a transaction, including preparation, due diligence, financial documentation and transaction execution
+Strong finance leadership experience in a fast-growing technology/software company
+Experience scaling a finance organization and supporting significant company growth
+Combination of strategic expertise and willingness to work operationally (initial phase)
+Strong knowledge of financial planning, controlling, accounting, reporting and cash management
+Experience with M&A, shareholder transactions, due diligence and company sale processes
+Commercially minded, pragmatic and execution-oriented
+German and English language skills are both essential
+Ideally located in either Stuttgart or Berlin
+What we offer
+A distributed, open, and enthusiastic team with a passion for working for and within the open source community
+A product that pushes the boundaries of technology with a global user and contributor community
+Flexibility for a healthy work-life balance
+We are looking for somebody with ambition and drive. Send your resume to jobs@nextcloud.com if you are interested in this role.
+We are looking for an analytical, commercially minded Financial Analyst to strengthen our Finance function and support the company through its next stage of growth. This role combines FP&A, financial modeling, reporting, and German HGB expertise with a strong focus on building scalable finance processes, systems, and decision-support capabilities.
+You will work closely with Accounting, Sales and other functions to translate financial data into actionable goals and insights.
+Own and improve budgeting, forecasting, rolling forecasts, long-term planning and data analysis ensuring that we are aligned with finances as well as our growth targets
+Build, maintain, and improve integrated financial models covering P&L, balance sheet, cash flow, liquidity, investment cases, sensitivities, and growth scenarios.
+Perform detailed actual-vs-budget/forecast variance analysis, identify underlying operational and financial drivers, challenge assumptions, and recommend corrective actions.
+Deliver monthly and quarterly management reporting, KPI dashboards, executive analyses, and other materials for senior management
+Maintain a strong understanding of German HGB accounting and reporting principles and ensure management reporting, planning, and financial analysis are appropriately aligned with statutory accounting.
+Partner closely with Accounting during month-end, quarter-end, and year-end processes, ensuring reliable financial data
+Develop scalable FP&A processes, reporting structures, KPI frameworks, financial controls, and planning methodologies capable of supporting increasing revenue, headcount and organizational complexity
+Conduct ad-hoc financial analysis supporting pricing, cost optimization, investment decisions, organizational planning and other strategic initiatives.
+Establish and monitor relevant financial and operational KPIs, including revenue, gross margin, OPEX, EBITDA, cash flow, working capital, productivity, and other business-specific performance indicators.
+Support the evolution of the Finance function as we grow, including standardization, automation, internal controls, documentation, governance, and process improvement.
+Degree in Finance, Accounting, Economics, Business Administration, or a related field
+CFA, Bilanzbuchhalter, Controller qualification, or similar professional certification is helpful
+Experience in FP&A, Controlling, Corporate Finance, Financial Analysis, or a comparable finance role
+Strong practical knowledge of German HGB and experience working with financial statements and reporting in a German business environment.
+Strong understanding of P&L, balance sheet, cash flow, management accounting, budgeting, forecasting, working capital, and financial performance management.
+Advanced Excel skills, including complex financial modeling, sensitivity/scenario analysis, PivotTables etc.
+Able to operate effectively in a scaling company, including improving processes that may initially be manual, fragmented, or insufficient for future organizational requirements.
+Strong analytical judgment and attention to detail
+Able to identify the commercial implications behind the numbers
+Able to communicate complex financial topics clearly and concisely
+High degree of ownership, independence, and execution discipline; able to prioritize
+German and English language skills essential
+A distributed, open, and enthusiastic team with a passion for working for and within the open source community.
+A fun and diverse team.
+A product that pushes the boundaries of technology with a global user and contributor community.
+A competitive salary.
+Remote work and flexibility for a healthy work-life balance.
+Time for personal growth and education.
+We are looking for somebody with ambition and drive who would like to grow and learn. We especially encourage applications from people from underrepresented groups.
+At Nextcloud we help our users achieve a safe home for all their data. Secure, under your control, and developed in an open, transparent, and trustworthy way. Our team of >170 is distributed across 30 countries worldwide. We work remotely, and our work culture is shaped by mutual trust, enthusiasm, and a strong belief in the principles of open source.
+As we keep growing internationally, we’re looking for a Sales Operations Manager to own the quality, consistency, and continuous improvement of our sales organization’s operations, processes, and capabilities — combining Sales Operations, Revenue Operations, Sales Process Design, Sales Training, and Onboarding into a cohesive function that is the backbone of our sales department.
+Sales & Revenue Operations: Own and administer Odoo CRM/ERP for the sales organization, ensuring data integrity, adoption, and proper configuration across pipelines, reporting, and automation; own the sales forecasting process.
+Build and maintain dashboards and reports on pipeline health, conversion rates, quota attainment, forecast accuracy, and revenue metrics (ARR, churn, win rates, etc.).
+Identify bottlenecks and inefficiencies in the sales cycle and take initiative to fix them.
+Establish and enforce sales methodology and playbooks (qualification criteria, deal stages, sales cadences, etc.).
+Create and maintain standard operating procedures (SOPs) for all sales workflows.
+Sales enablement: Design and deliver training programs for Sales (sales methodology, product knowledge, Odoo/CRM usage, negotiation, objection handling, etc.).
+Onboard new Sales hires, ensuring quality, consistency, and productivity.
+Collaborate with Marketing on lead scoring, MQL/SQL definitions, and lead quality.
+Experience in sales operations, revenue operations, sales enablement, or a related role — ideally combining several of these.
+Hands-on experience with Odoo (CRM/ERP) or strong experience with a comparable CRM/ERP platform, with the willingness and ability to become the internal Odoo expert for Sales.
+Experience designing or improving sales processes and training programs.
+Excellent communication and facilitation skills — this role trains and influences the entire sales organization.
+Background in a B2B sales environment.
+Familiarity with sales methodologies (MEDDIC, SPIN, Sandler, etc.).
+Attention to detail, particularly around CRM data quality and process consistency.
+Strong analytical skills; comfortable turning data into actionable insights.
+Ownership mentality.
+At Nextcloud we help our users achieve a safe home for all their data. Secure, under your control and developed in an open, transparent and trustworthy way. Our Team of 170 is distributed in 30 countries worldwide.
+We work remotely and our work culture is shaped by mutual trust, enthusiasm and a strong belief in the principles of open source.
+We are seeking a proactive, detail-oriented Accountant / Finance Executive Assistant to join our team and play a crucial role in our financial operations. In this position, you will work closely with our financial executives, providing them with the support they need to drive our company’s success.
+Receivables management
+Notification of reportable foreign payments
+Dunning process
+Account clarification/reconciliation
+Contact person for customers/ debtors (regarding payment modalities)
+Manage and process accounts payable (AP), accounts receivable (AR), and general ledger entries
+Prepare and submit VAT returns and other statutory financial filings on time
+Assist in preparing monthly, quarterly, and annual financial statements in accordance with the German Commercial Code (HGB)
+Monitor daily cash flow, process payments, and oversee credit control and debt collection processes
+Bachelor’s or Master’s degree in Accounting, Finance, or Business Administration
+Minimum of 3 years of professional experience in accounting or finance
+Experience in customer receivables management
+Experience with reportable foreign payments
+Experience in financial planning
+Commercial training, ideally education in financial accounting
+Fluent in English, ideally German speaker
+Reliability, excellent attention to detail
+Ability to work in a team and independently
+We are looking for somebody with ambition and drive who would like to grow and learn. Send your resume to jobs@nextcloud.com if you are interested in this role. We especially encourage applications by people from under-represented groups.
+We are seeking a passionate Account Manager to focus on cultivating and maintaining long-term relationships with our existing customers, ensuring their continued success and satisfaction with our solutions.
+Your responsibilities will center around nurturing these relationships, connecting with key business executives and stakeholders, and acting as the primary point of contact for your assigned customers. You will work closely with cross-functional internal teams to ensure the timely and successful delivery of solutions that meet our customers’ needs.
+Act as the lead point of contact for all matters specific to existing customers
+Build and maintain strong, long-lasting customer relationships
+Identify and develop growth opportunities within your existing customer portfolio
+Ensure the timely and successful delivery of our solutions according to customer needs and objectives
+Collaborate with our partners to deliver the best solutions to our customers
+Communicate clearly the progress of monthly/quarterly initiatives internally
+Forecast and track key account metrics, negotiate tender and contract terms and conditions to meet both client and company needs
+Assist with high severity requests or issue escalations as needed
+Required skills
+Experience in account management or other relevant roles focused on existing customer relationships
+Demonstrated ability to communicate, present, and influence credibly and effectively at all levels of the organization, including executive and C-level
+Experience in delivering client-focused solutions based on customer needs
+Proven ability to manage multiple projects simultaneously while maintaining strict attention to priorities
+Excellent listening, negotiation, and presentation skills
+Excellent verbal and written communication skills
+Strong problem-solving skills
+Fluent English skills plus business proficiency in other languages such as Spanish/ French / Dutch or Portuguese is a plus
+A distributed, open team with a passion for working within the open-source community
+The opportunity to promote and support a product that pushes the boundaries of technology, with a global user and contributor community
+Time for personal growth and an annual educational budget
+Opportunities for growth and learning, even if you don’t meet all the requirements yet but have the ambition to learn and develop
+If you are interested in this role, please contact us at jobs@nextcloud.com with your resume. We are excited to hear from you!
+We are seeking passionate Account Managers to focus on identifying and acquiring new customers, driving business growth, and expanding our market presence with our innovative software.
+Your main responsibilities will be around proactively identifying potential customers, connecting with key decision-makers, and establishing strong and successful business relationships. You will work closely with cross-functional internal teams to ensure the timely and successful delivery of solutions tailored to meet the needs of new clients.
+Act as the lead point of contact for all matters specific to new customer acquisition
+Identify and develop new business opportunities to expand the customer base
+Build and maintain strong, long-lasting relationships with potential clients
+Present, promote, and sell our solutions to meet and exceed sales targets
+Collaborate with our partners to deliver the best solutions for new customers
+Negotiate tender and contract terms and conditions to meet both client and company needs
+Forecast and track key sales metrics, always keep the pipeline in the CRM tool up to date
+Communicate the progress of monthly/quarterly initiatives clearly and transparently
+Stay updated on market trends, competition, and customer needs to drive innovative sales strategies
+Proven experience in sales, business development, or account management, particularly focused on acquiring new customers
+A track record of consistently achieving or exceeding sales targets
+Technical understanding of software essential, understanding of open source is a plus
+Excellent listening, negotiation, and presentation skills as well as excellent verbal and written communication skills
+Strong problem-solving and analytical skills
+Ability to manage multiple projects simultaneously while maintaining strict attention to priorities
+We’re looking for developers with experience in Android app development to join our client team!
+You would work with the engineering team to bring new features and improvements to the Android app around file handling, streaming, communication integration and more. You ideally have open source experience, and know your way around git and Github.
+Android development (JAVA, Kotlin, Jetpack Compose)
+Software design
+UX/UI design
+Quality assurance
+Technical experience with Java and Kotlin in Android development
+Teamworking capabilities
+Independence and self-reliance
+Knowledge around open source technology
+Developing a product which pushes the boundaries of technology and with a global user and contributor community
+We are looking for somebody with ambition and drive who would like to grow and learn. That means that if you don’t fulfill the requirements yet but want to learn, apply!
+Contact us at jobs@nextcloud.com with your resume if you are interested in this role.
+We’re looking for a C++ developer to join our desktop client team!
+You would work with our small and agile team to bring new features and improvements to the desktop client application. You ideally have some open source experience, know your way around git and Github and live in the CET timezone.
+Desktop client development with C++ and Qt6 for Windows, Mac OS and Linux
+Help with customer and community support
+Help with release building for Windows Mac OS and Linux
+Technical experience with programming
+Understanding of open source workflows (pull requests and code review)
+At Nextcloud we help our users achieve a safe home for all their data. Secure, under your control and developed in an open, transparent and trustworthy way. Our Team of 170 is distributed in 30 countries worldwide. We work remotely and our work culture is shaped by mutual trust, enthusiasm and a strong belief in the principles of open source.
+We are looking for a Channel Marketing Manager who will plan and run marketing activities that help Nextcloud grow through its channel partner ecosystem. You will work closely with the sales and marketing teams to activate partners such as resellers and service providers, develop partner campaigns, and create enablement resources that increase engagement. You will also support and coordinate activities with selected channel partners to ensure joint marketing efforts are aligned and effective. In this role, you will play a key part in driving partner engagement, improving sales performance, and raising awareness of our solutions in partner regions.
+Develop and implement channel marketing strategies aligned with business goals
+Collaborate with internal teams to identify opportunities and drive demand generation with channel partners
+Create and maintain marketing assets, tools, and content tailored to partners (e.g. enablement guides, campaign toolkits, product collateral)
+Design and manage joint marketing campaigns, partner events, and workshops to activate partners and increase engagement
+Monitor performance metrics and ROI of channel initiatives and provide insights and recommendations
+Manage partner communications, updates, and marketing activities for selected partners
+Bachelor’s or Master’s degree in Marketing, Business, Communications, or related field
+3+ years of experience in channel marketing, partner marketing, or related roles— preferably in the IT or software industry
+Strong understanding of channel ecosystems and partner‑centric demand generation
+Excellent project management, problem-solving, communication, and interpersonal skills
+Ability to work collaboratively across teams and with global partners
+Data‑driven mindset with experience measuring campaign performance
+Experience with marketing automation tools and CRM platforms is a plus
+English plus business proficiency in other languages such as French, Spanish or German is a plus
+Willingness to travel internationally
+A distributed, open team passionate about the open source community
+A fun, diverse work environment where your contributions have a real impact
+The opportunity to work on cutting-edge technology with a global user and contributor community
+Competitive salary and benefits
+Flexible, remote work options for a healthy work-life balance
+Opportunities for personal growth, professional development, and education
+We are looking for someone with ambition, drive, and a desire to learn and grow. If this role excites you, please send your resume to jobs@nextcloud.com . We especially encourage applications from individuals in under-represented groups.
+We’re looking for developers with experience in iOS app development to join our client team!
+You would work with the engineering team to bring new features and improvements to the iOS app around file handling, streaming, communication integration and more. You ideally have open source experience, know your way around git and Github.
+Responsibilities:
+iOS development (Objective-C/Swift)
+Required skills:
+Technical experience with iOS development
+What we offer:
+We are looking for a passionate Junior Account Manager to work with prospective customers to determine if Nextcloud is a good fit for them.
+Your responsibilities include building relationships with prospective customers and connecting with key business executives and stakeholders. You will research and develop market segments, to generate and classify leads, develop them to opportunities and work as part of our internal cross-functional internal teams to ensure the customers get timely information and fitting solutions to their needs.
+Work with marketing on outreach, lead generation and classification of opportunities
+Research, develop and maintain communication within and for specific market segments
+Collaborate with your team and our Partners in determining the best solution for our customers
+Forecast and track key account metrics and negotiating tender and contract terms and conditions to meet both client and company needs
+Identify and grow opportunities within territory and collaborate with sales teams to ensure growth attainment
+Proven sales account management or other relevant experience
+Demonstrated ability to communicate, present and influence credibly and effectively at all levels of the organization, including executive and C-level
+Proven ability to manage multiple projects at a time while paying strict attention to prioritize
+Excellent listening, negotiation and presentation skills
+Excellent verbal and written communications skills
+Problem solving skills
+Fluent in writing and speaking English. More languages are welcome.
+Promoting and selling a product which pushes the boundaries of technology and with a global user and contributor community
+We are looking for somebody with ambition and drive who would like to grow and learn. That means that if you don’t fulfil the requirements yet but want to learn, apply!
+Nextcloud is growing steadily. Our diverse team of >170 is distributed in 30 countries and we are hiring more.
+Software Engineers (Frontend / JavaScript)
+for our Euro-Office team as well as for our other engineering teams.
+You will play a key role in enhancing the user interface and user experience of Nextcloud’s applications. You will work closely with the engineering team to develop and improve features across applications such as Euro Office, Files, Calendar, Contacts, and more.
+This role is ideal for someone who thrives in an open-source environment and enjoys building modern, scalable front-end solutions. You’ll contribute to core components, help shape the user experience, and collaborate with a global contributor community.
+Software development in JavaScript and PHP with a focus on frontend technologies
+Design, development, and implementation of new user interface features and improvements
+Cross-platform testing to ensure consistent behavior across environments
+Ensure code quality and adherence to quality standards and best practices
+Conduct testing and quality assurance for new and existing features
+Work in the open on GitHub and collaborate with the community
+Requirements:
+Strong experience with JavaScript and modern frontend development
+Experience with git and GitHub essential
+Experience with TechStack Canvas is desirable
+PHP experience is a plus
+Familiarity with open-source technologies and workflows
+Teamworking capabilities as well as independence and self-reliance
+Analytical thinking and a structured approach to problem-solving
+Good communication skills in English
+A colourful team with a passion for open source
+A product that pushes the boundaries of technology
+The opportunity to grow into a leadership role in the near future
+Remote first strategy – but you are welcome in our offices in Stuttgart or Berlin, if you like!
+Send your CV to jobs@nextcloud.com , if you are interested in this role.
+At Nextcloud we help our users achieve a safe home for all their data. Secure, under your control and developed in an open, transparent and trustworthy way. Our Team of >170 is distributed in 30 countries worldwide.
+We are looking for a well organized International Marketing Manager, to help grow and multiply our marketing efforts globally. Your responsibilities would include implementing marketing campaigns, putting together promotional materials and organizing or attending events.
+Conduct market analysis to understand the preferences, and trends within the global markets
+Create, implement and measure marketing campaigns and content targeted at the B2B market across various formats such as social media
+Work on achieving our Marketing OKR objectives
+Organize events and our presence at conferences or open source community events
+Collaborate across-functions (i.e. with marketing, engineering, PR) to obtain understanding of our technically complex product and the processes around it
+Degree in Marketing, Communications or a related field
+Previous marketing experience, preferably in a role that focused on international marketing in the B2B sectory, ideally software sector
+Strong writing and visual communication skills
+Ability to represent Nextcloud at events (self organized or attending)
+Strong analytical skills to interpret data and guide strategic decisions
+Excellent communication skills to effectively collaborate with team members, stakeholders, and external partners
+Language proficiency in English, Spanish and / or either Nordic language essential
+We are looking for a well organized Marketing Manager, to help grow and multiply our marketing efforts in the German language regions. Your responsibilities would include implementing marketing campaigns, putting together promotional materials and organizing or attending events.
+Conduct market analysis to understand the preferences, and trends within the German-speaking markets
+Create, implement and measure marketing campaigns and content targeted at the B2B market in the German speaking regions, across various formats such as social media
+Previous marketing experience, preferably in a role that focused on the German-speaking market or international marketing in the B2B sector, ideally software sector
+Strong writing (German) and visual communication skills
+Native Proficiency in German and English, other languages beneficial
+Our marketing team is looking for a new member: you would help grow and multiply our marketing efforts in France. You’d be responsible for building up Nextcloud marketing in France, and your efforts would include implementing marketing campaigns, reaching out to and working with press, translating and putting together promotional materials and organizing or attending events. We’re looking for somebody with marketing experience, able to work remote in an international team and willing to learn and try new things!
+Creating, implementing and measuring marketing campaigns
+Organize events and our presence at conferences
+Build up content and social media presence
+Do PR and communication outreach
+Work with both community and business
+Skills:
+Interest in messaging, public relations, able to build relations with local press
+Able to represent Nextcloud at events (self organized or attending)
+Writing and visual communication skills
+Being able to work independently, track progress and ask for help when needed
+Being fluent in French and living in France are required
+We have flexible office hours and most of our team works from home.
+We are flexible and open for part time work or somebody with a different background looking for a career switch! If you are unsure if you’re a good fit – just apply and we’ll figure it out together.
+We are looking for somebody who wants to make a difference, who wants to be responsible for the results of building up a local presence. It is a wide-ranging job and we strive to provide the freedom and space to find the right approach! We look for somebody with some marketing or sales/business development experience, but besides that, if you’re willing to try new things, you are an ideal candidate! We especially encourage applications by people from underrepresented groups.
+We are looking for a well organized Marketing Manager, to help grow and multiply our marketing efforts in the French speaking regions. Your responsibilities would include implementing marketing campaigns, putting together promotional materials and organizing or attending events.
+Conduct market analysis to understand the preferences, and trends within the French markets
+Previous marketing experience, preferably in a role that focused on marketing in the B2B sectory, ideally software sector in France
+Language proficiency in English and French essential, other languages helpful
+Our marketing team is looking for a new member: you would help grow and multiply our marketing efforts in the US. You’d be responsible for building up Nextcloud marketing in the United States and your efforts would include implementing marketing campaigns, reaching out and working with press, translating and putting together promotional materials and organizing or attending events.
+We’re looking for somebody with marketing experience, able to work remote in an international team and willing to learn and try new things!
+Our marketing team is looking for a new member: You would help grow and multiply our marketing efforts in the Nordic countries (Sweden, Denmark, Norway and Finland).
+You’d be responsible for building up Nextcloud marketing in your region, and your efforts would include implementing marketing campaigns via different channels, translating and putting together promotional materials and organizing or attending events.
+Organizing events and our presence at conferences
+Conducting market research and analysis
+Building up content and social media presence
+Working with both community and enterprise
+Several years of experience in brand messaging and content creation
+Fluent in English and Swedish, proficiency in any other Nordic language beneficial
+Ideally you live in Sweden or one of the Nordic countries
+Remote-first policy & flexible working hours for a healthy work-life balance
+We are flexible and also open for part time work or somebody with a different background looking for a career switch. If you are unsure whether you’re a good fit, just apply, and we’ll figure it out together!
+We are looking for somebody who wants to make a difference, who wants to be responsible for the results of building up a local presence. It is a wide-ranging job and we strive to provide the freedom and space to find the right approach. We are seeking someone with experience in marketing or sales/ business development. However, if you’re open to trying new things, you could be the perfect candidate! We particularly encourage applications from individuals in underrepresented groups.
+Our marketing team is looking for a new member: you would help grow and multiply our marketing efforts in the Benelux. You’d be responsible for building up Nextcloud marketing in your region, and your efforts would include implementing marketing campaigns, reaching out to and working with press, translating and putting together promotional materials and organizing or attending events. We’re looking for somebody with marketing experience, able to work remote in an international team and willing to learn and try new things!
+Speak Dutch and, ideally, also French
+Live in the Benelux
+As a Partner Marketing Manager, you will work closely with our strategic partners to develop marketing plans that align with our business goals. Your main objective will be to leverage these partnerships to increase brand awareness, generate leads, and drive sales.
+Develop and execute co-marketing strategies with partners, including co-branded campaigns, events, and digital marketing initiatives around the globe
+Coordinate with internal teams and external partners to ensure the successful implementation of marketing activities
+Maintain strong relationships with existing partners and identify opportunities for further collaboration in order to drive sales
+Measure and report on the performance of marketing campaigns to optimize future initiatives
+Stay informed about market trends and competitor activities to inform strategic decisions
+A degree Marketing, Business Administration, Communications or related field
+Strong understanding of marketing principles and strategies as experience of developing and executing successful partner marketing campaigns, ideally on a global scale
+Excellent communication and interpersonal skills, with the ability to manage relationships with partners at all levels
+Fluent in English and at least two other languages
+Analytical skills to analyse and understand and measure campaign performance
+Ability to work collaboratively in a fast-paced environment
+Reliable team worker with drive and ambition to succeed
+We’re looking for engineers with experience in PHP back-end development to join our server team!
+You would work with the engineering team to bring new features and improvements to the server back-end like new authentication or storage mechanisms, audio/video chat and more. You ideally have open source experience, know your way around git and Github.
+Back end development (PHP)
+Database design
+Systems design
+Technical experience with PHP and bit of HTML, CSS, Javascript
+Independence and self-reliance.
+Technical sales engineers use their technical knowledge along with sales skills to provide advice and support on a range of products, for which a certain level of expertise is needed.
+You work close together with sales and engineering and assist colleagues with bids and tenders for new clients from a technical perspective, working on proof of concept deployments and answering questions.
+You like to work independently and self responsible on dedicated projects but like to also to exchange your knowledge with your colleagues.
+persuading clients that a product or service best satisfies their needs in terms of quality, price and delivery
+working closely together with sales on customer projects
+calculating client quotations
+providing pre-sales technical assistance and product education
+working on after-sales support services and providing technical backup as required
+arranging and carrying out product training
+support POC and Pilots at the customers together with support and engineering
+supporting sales and marketing activities by attending trade shows, conferences and other marketing events
+making technical presentations and demonstrating how a product meets client needs
+liaising with other members of the sales team and other technical experts
+helping in the design of custom-made products
+providing training and producing support material for other members of the sales team
+Solid technical background for infrastructure set-ups in medium and large organizations
+Sales skills
+Sound judgement and good business sense
+Organizational skills
+Analytical and problem-solving skills
+Problem solving
+Product knowledge around open source technology
+General programming skills in PHP, HTML, CSS
+We’re looking for working student developers in PHP/vueJS development to join our team!
+You would work with the engineering team to bring new features and improvements to the server backend like new authentication or storage mechanisms, audio/video chat and more. You ideally have open source experience, know your way around git and Github.
+Development (PHP/vueJS)
+API design
+Technical experience with PHP, vueJS, HTML, CSS, Javascript
+Reliability and strong teamworking skills
+Interest around open source technology
+Flexibility around working hours for a healthy work-life balance
+Mentoring and knowledge sharing with our experienced developers for your professional growth
+Opportunities to do an internship, to write your Bachelors´ or Masters´ thesis with us and to join our team upon completion of your degree
+Please include your github link or any other code samples relevant for your application.
+We’re looking for engineers with experience in PHP/back-end development and AI integrations to join our AI team!
+You would work with the engineering team to bring new features and improvements to the server back-end like new authentication or storage mechanisms, audio/video chat and more, as well as integrating AI into the Nextcloud platform (e.g. LLMs, speech-to-text, and image processing services) . You ideally have open source experience and know your way around git and GitHub.
+Feature development
+Integration of AI services and models (Python / APIs / microservices)
+Project-based development, working on one project for a defined timeframe
+Technical experience with PHP and a bit of HTML, CSS, JavaScript
+Experience with Python for AI/ML integrations
+Experience with one or more frontend frameworks like VueJS, React, Angular, or Svelte
+Familiarity with AI/LLM frameworks (e.g. Hugging Face, LangChain)
+Familiarity with REST APIs and REST-based AI services
+Understanding of containerization (Docker) and model deployment workflows
+Experience with speech, vision, or NLP integrations (e.g. Whisper, OCR, embeddings)
+Knowledge of open source technology
+Ideally experience with Nextcloud AI features or similar platforms
+Reliability, independent and self-reliant working style
+Developing a product which pushes the boundaries of technology with a global user and contributor community
+We are looking for somebody with ambition and drive who would like to grow and learn. That means that if you don’t fulfill the requirements yet but want to learn, apply! Contact us at jobs@nextcloud.com with your resume if you are interested in this role.
+Nextcloud is growing steadily. Our diverse team of >170 is distributed across 30 countries, and we are hiring more.
+Euro-Office provides a truly open, transparent and sovereign solution for collaborative document editing. It powers Nextcloud Office for public sector and enterprise customers across Europe, and we build it fully in the open. We focus on document compatibility, EN 301 549 accessibility and co-editing at scale.
+We’re looking for senior engineers to join the Euro-Office team. Depending on your background, you’ll focus on one or more areas: the browser-based editors, the collaboration backend, the document core, or the integration into Nextcloud.
+Develop and improve the editors and their user interface in JavaScript
+Work on the Node.js collaboration backend, with a focus on real-time co-editing, performance and scalability
+Improve document compatibility and conversion in the C++ document core, including OOXML and ODF fidelity
+Build and maintain the Nextcloud integration in PHP and Vue.js
+Improve accessibility towards EN 301 549 compliance
+Work in the open on GitHub: review code, write tests, and help community contributors land their changes
+Contribute to build, packaging and CI for reliable, reproducible releases
+Support enterprise customers on complex technical issues together with our support team
+Several years of professional experience in at least one of JavaScript, PHP or C++, and willingness to work across the stack
+Experience working in large, long-lived codebases
+Experience with git, GitHub and open source workflows (pull requests, code review, public issue tracking)
+Analytical skills and the ability to work in a complex environment
+Can-do attitude and solution focus; commitment and a strong work ethic
+Excellent communication skills in English; additional languages are beneficial
+Nice to have:
+Experience with document editors, collaborative tools or related APIs
+Knowledge of OOXML and/or ODF formats
+Experience with real-time collaboration, canvas-based rendering or WebAssembly
+Experience with large JavaScript build pipelines and CI/CD
+Background in accessibility (WCAG, EN 301 549)
+Contributions to office-related open source projects or to Nextcloud
+Experience with customer-facing B2B technical support
+Work on a sovereign, open alternative to proprietary office suites
+Remote first strategy, but you are welcome in our offices in Stuttgart or Berlin
+We are looking for somebody with ambition and drive who would like to grow and learn. Send your CV to jobs@nextcloud.com if you are interested in this role, and include links to relevant open source work if you have any.
+Internship at Nextcloud
+At Nextcloud, we believe in providing opportunities for individuals to gain valuable skills and experience as they enter the workforce. Our internship program offers a diverse range of opportunities, not only in areas where we are currently hiring, but also in roles that may not currently have open positions.
+If you’re interested in an internship at Nextcloud, we encourage you to reach out to us with your areas of interest and the skills or education you bring to the table. We welcome applicants from all backgrounds, including recent graduates, career changers, and individuals who may have taken a break from working. Join our team and take the first step in building a great open source work experience.
+We’re a small company looking to change the world and you can change it with us.
+Remote first
+You decide from where you work. Choose your home office or optional office hubs in Stuttgart and Berlin
+Flexibility guaranteed
+You can flexibly schedule and plan your working hours and vacation days
+International team
+Become part of an ambitious international team. We are shaping the world of tomorrow and firmly believe in innovation
+Learn and grow
+With us, you can challenge yourself and grow steadily. We support you with regular feedback meetings and individual further training opportunities
+Technical excellence and ethics
+We provide future-proof technology as the basis for successful, secure digitization. We always focus on the needs of our customers and protecting the privacy of our users
+Do you have any questions?
+Contact us at jobs@nextcloud.com and tell us how we can help you!
+Contact us
+Customize
+Essentials More details
+Consent
+Convenience More details
+Statistics More details
+Service: Matomo
+_pk_ses*: Counts the first visit of the user
+_pk_id*: Helps not to double count the visits.
+_pk_id*: 13 months
+External media More details
+Service: Play Youtube videos
+Service description:
+All of the Youtube videos get unblocked if this setting is saved
+Service: Play Vimeo videos
+All of the Vimeo videos get unblocked if this setting is saved
+Service: Show OpenStreetMap iframes
+All of the OpenStreetMap iframes get unblocked if this setting is saved

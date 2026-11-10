@@ -1,0 +1,84 @@
+$19.25M RAISED · BACKED BY Y COMBINATOR AND INSIGHT PARTNERS · PALO ALTO, CA
+Built for the ones who
+build.
+We're replacing the spreadsheet as the best instrument available to world-class product scientists. Not a chatbot bolted onto chemistry — models that learn from dozens of expensive physical batches, in a field where every data point costs money to exist.
+6 yrs
+BUILDING THE SYSTEM, INSIDE REAL FACTORIES
+OF THE WORLD'S LARGEST CPG COMPANIES, IN PRODUCTION
+$19.25M
+RAISED FROM THE WORLD'S LARGEST INVESTORS
+PEOPLE EATING PRODUCTS THIS SYSTEM SHAPES
+As covered in
+Open Positions
+01 WHY THIS EXISTS
+The bottleneck on what 8 billion people eat is the throughput of a laboratory.
+Every product in your kitchen is the output of a search — run by hand, one batch at a time.
+Pick up anything in your kitchen. A jar of mayonnaise. A protein bar. Oat milk. Each one is the output of a scientist changing a single variable, physically making a batch, waiting days, tasting it, writing the result in a notebook, and starting again. Hundreds of times. Sometimes across years.
+Then a sugar tax lands in one market. A supplier fails. A CEO promises the board thirty percent less sodium by 2030. Much of that work goes in the bin and the search restarts near zero. Nobody is doing anything wrong. They were handed one instrument: a single batch.
+We've spent six years building the system that changes it. The sodium comes out of the sauce, the sauce still sells, and the effect lands in millions of people who never read a label. Most health and climate fixes need billions of decisions. This one needs a faster search.
+02 THE TECHNICAL PROBLEM
+Small data. Expensive labels. No room for handwaving.
+Our models don't train on billions of free tokens. They learn from dozens of expensive physical experiments, in a field where every data point costs money to exist. That means uncertainty you can actually trust, active experiment selection, and multi-objective constraints — cost, sodium, regulation, taste — where mistakes are measured in weeks of lab time, not retries. This is a regime most ML engineers have never had to work in: small data, real physics, and consequences you can hold in your hand.
+03 FIELD NOTES
+How we work
+NOTE / 01
+The world's largest companies are already leveraging us.
+Not a slide deck, not a pilot that dies in a drawer. The system you build is the one our customers run on, and the feedback loop is a physical product on a shelf you've stood in front of.
+NOTE / 02
+Extremely high agency.
+There's no ticket queue and no one to hide behind. You identify the problem, you own it end to end, and the architecture decisions you make this quarter are the ones the next hundred engineers will live inside.
+NOTE / 03
+The unsexy problem everyone calls too hard.
+Physical product formulation isn't a fashionable AI problem — it's a decades-old industrial bottleneck with messy data, real chemistry, and no playbook. That's exactly why it's still unsolved, and why solving it matters at civilizational scale.
+NOTE / 04
+AI-native isn't enough. You have to think differently.
+Everyone here is AI-native — that's table stakes. What the problem demands is a distinct way of thinking: reasoning from physics and cost, not benchmarks, and forming opinions about questions nobody has answered yet. You'll be expected to have them in your first week.
+04 TERMS
+Terms
+WE PROMISE
+Problems with no known solution. If it were solved, we wouldn't be hiring for it.
+Your code in production at companies whose products are already in your kitchen.
+Colleagues who read papers and ship. Both. The bar applies to everyone, including the founders.
+A seat where the hard calls get made — technical, scientific, and company-level.
+Directness. You'll always know where the company stands and where you stand.
+WE WON'T TELL YOU
+That we're a family. We're a team — teams are honest about performance.
+That the hours are always reasonable. The lab doesn't wait, and nine-figure launches don't slip for us.
+That there's a ladder. There is work, and there is scope. Titles are not the interesting currency here.
+That it's low-risk. It's a startup. What de-risks it is revenue, real customers, and six years of proof — which we'll show you in the process.
+Anything we can't defend. If a claim on this page seems inflated, ask us to prove it in your interview.
+05 OPEN ROLES
+One seat. It has your name on it, maybe.
+ENGINEERING ROLES AT A GLANCE
+Senior Software Engineer
+PALO ALTO, CA — IN PERSON
+FUNDED: $19.25M — YC & INSIGHT
+REPORTS TO: FOUNDERS
+REF: SSE-2026-01
+WHAT YOU'D OWN
+The platform, end to end — from the models that propose the next experiment to the interface a scientist trusts more than their notebook.
+The experiment-selection engine: small-data models whose uncertainty drives real lab spending.
+The bar. You're early enough that "how we build here" is still being written. You'll write a lot of it.
+SIGNALS YOU'LL THRIVE HERE
+You've shipped systems other people depend on — and felt the weight of that.
+You're fluent across the stack and allergic to unnecessary abstraction.
+Small data and expensive errors interest you more than another CRUD app at planetary scale.
+You operate with extremely high agency — you find the work, you don't wait for it.
+You're AI-native, and you also think from first principles about problems that have no benchmark and no playbook.
+/ no take-home theater, no eight-round gauntlet.
+you'll talk to the people you'd work with, about
+problems we're actually stuck on. bring opinions.
+06 FOR THE SKEPTICS
+Questions you'd actually ask.
+" Is this a chatbot bolted onto chemistry? "
+No. LLMs don't run physical experiments and don't learn from a few dozen of them. Our core is small-data modeling over physical batches — active learning under real constraints, where every data point costs money to exist. The interesting part isn't generating text; it's deciding which expensive experiment to run next, and being right.
+" If this is real, why hasn't someone already done it? "
+The moat isn't an idea — it's years of proprietary experimental data, measured in expensive physical batches, inside companies that don't let vendors in casually. The world's largest consumer companies are already leveraging our system. That's the barrier, and it's already behind us.
+" Why not a foundation lab or big tech? "
+Different game. There, you're one of thousands optimizing a metric on a dashboard. Here, the model ships into a factory, the feedback loop is a physical experiment you designed, and the result is a product on a shelf. If you want maximum scale of compute, go there. If you want maximum scale of consequence per engineer, the math is different.
+" What's the catch? "
+Small team, real deadlines, customers with nine-figure products on the line. There's nowhere to hide — your work is visible, and so are your mistakes. Some people read that as a warning. The ones we're looking for read it as the pitch.
+07 THE ASK
+The search needs to
+get faster. That's the
+job.

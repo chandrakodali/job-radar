@@ -1,0 +1,103 @@
+Careers at Termii
+Build the infrastructure institutions run on.
+At Termii, we're building communications infrastructure that powers businesses across Africa and beyond. But we're equally committed to building a team of curious, ambitious people who thrive on solving meaningful problems.
+Team size
+~60 people
+Work model
+Hybrid
+Founded
+2017 · Lagos
+YC backed
+W20
+Why Termii
+Meaningful work, real ownership, room to grow.
+Build work that matters
+Every project at Termii has real-world impact. From powering customer engagement to enabling seamless communication across emerging markets, the work you do here helps businesses connect with millions of people. We believe meaningful work comes from solving meaningful problems.
+Own outcomes, not just tasks
+Ownership is one of the foundations of our culture. We encourage everyone to take initiative, be accountable for their work, and contribute ideas that move the business forward. At Termii, leadership isn't defined by title. It's demonstrated through action.
+Keep growing
+Growth is part of the journey at Termii. Through collaboration, knowledge sharing, and continuous learning, we create opportunities for our people to develop their skills while building solutions that make an impact.
+How we work
+Our core values
+Professionalism
+We conduct ourselves with integrity, respect, and accountability. We are committed to excellence in all that we do, maintaining the highest standards of quality and ethical behaviour.
+Customer centric
+Our customers are at the heart of everything we do. We strive to understand their needs, exceed their expectations, and build lasting relationships.
+Excellence
+We are committed to achieving the highest standards of performance, innovation, and quality in everything we do.
+Simplicity in approach
+We believe in finding the most efficient and straightforward solutions to complex challenges.
+Ownership
+We empower every employee to take initiative, be accountable, and drive results. We foster a culture where everyone can lead from where they are.
+Company journey
+How we got here .
+From a clean SMS API in Lagos to the intelligence layer financial systems run on.
+Scroll to move through the years
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026
+2017
+Founded in Lagos
+Emmanuel Gbolade , Awe Ayomide and Idowu Atinuke launch Termii with a clean, developer-friendly SMS API, and win $2,000 at the Next-Economy Acceleration programme.
+2019
+OTP infrastructure for fintechs
+Termii becomes the OTP delivery layer for a fast-growing set of payment apps and digital banks, and raises $45,000 in pre-seed from Microtraction and Future Hub.
+2020
+Joins Y Combinator · W20
+Termii joins Y Combinator, launching intelligent multi-channel delivery and automatic failover as coverage expands across sub-Saharan Africa.
+2023
+Raises $5M seed round
+A $5M seed led by Fintech Collective and Ventures Platform, with Launch Africa, Aidi Ventures, Future Africa, Kepple Africa and Now Ventures.
+2025
+Ayla: AI at the transaction layer
+Termii builds Ayla, an AI model trained on billions of signals that scores every OTP, fraud check and alert for delivery before it fires. The platform passes 1B+ transactions.
+Life at Termii
+Behind every product is a team that enjoys building it
+From company retreats and team bonding activities to town halls, learning opportunities, and celebrations, life at Termii is built around collaboration, growth, and shared success.
+Company retreats
+Team bonding
+Town halls
+Learning sessions
+Celebrations
+Community & CSR
+Meet the teams
+Who you would be building with
+You'll own a clear part of the platform, and work across teams to ship it.
+Engineering
+Builds and runs the delivery layer: routing, failover, the REST API and the infrastructure that keeps every signal moving.
+Data & AI
+Trains and operates Ayla, the model that scores delivery confidence and fraud risk before a signal fires.
+Product & Design
+Shapes Signals, Engage and Resolve, from the dashboard people work in every day to the docs developers integrate against.
+Revenue & Customer Success
+Partners with banks, fintechs and telcos through onboarding and scale, and carries their feedback back into the roadmap.
+People & Culture
+Owns hiring, onboarding and the employee experience, from your first day through every stage of your growth here.
+Finance & Operations
+Keeps the business running underneath the product: billing, compliance, and the operational rigour regulated customers expect.
+The hiring process
+What to expect when you apply to Termii
+Application review
+We read every application. We're looking for clear evidence of craft, curiosity, and a track record of making things that work. Response within 5 business days.
+Introductory call
+30 minutes with a member of the hiring team. We want to understand what you've built, what you care about, and why Termii is the right next step for you.
+Technical assessment / case study
+A practical exercise relevant to the role, either a short take-home or live session. We design these to be fair, respectful of your time, and genuinely reflective of the work.
+Team interviews
+Two conversations with people you'd work closely with. We assess for genuine technical depth, cultural alignment, and whether we'd both be excited to work together.
+Offer
+A competitive offer with transparent equity information and clear total compensation. We aim for the whole process to take under three weeks.
+What success looks like
+The people who thrive here
+Curious
+Takes ownership
+Communicates openly
+Keeps learning
+Solves customer problems
+If that sounds like you, we’d love to have you join us.
+View open roles
+Open roles
+Come build with us
+We’re always looking for people who want to own hard problems in infrastructure that millions of people depend on.
+Ready to start
+Your customers trust you at the moment that matters most
+Every OTP, payment signal, fraud check, and alert is a promise. Termii makes sure you keep it.
+Sign up Book a demo

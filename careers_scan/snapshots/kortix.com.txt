@@ -1,0 +1,70 @@
+The CompanyOS
+Multiplayer AI
+Company as code
+Sovereign and open
+Outcomes, 24/7
+Building blocks
+Agents
+Skills
+Apps
+Drive
+Connectors
+Automations
+Computers
+Models
+Use it from
+Desktop
+Mobile
+Slack
+Microsoft Teams
+Run it
+Security
+Self-hosted
+Enterprise
+Compliance
+Learn
+Guide
+Use cases
+Case studies
+Blog
+Changelog
+Get Kortix
+Download
+Marketplace
+Company
+About
+Careers
+Contact
+Legal
+Kortix is open source kortix-ai/CompanyOS View on GitHub
+Open positions. Belgrade, Serbia and San Francisco.
+An extremely small, talent-dense team. Every opening is open in both cities.
+Why Kortix exists
+FDE Forward Deployed Engineer Work with customers to put Kortix to work across their company. Belgrade · San Francisco
+GTM Go-to-market Tell the story, find the companies that need it, and win them. Belgrade · San Francisco
+MTS Member of Technical Staff Build Kortix itself, anywhere in the stack. Belgrade · San Francisco
+What we look for. Ownership, agency and skill.
+An extremely small, talent-dense team. Everyone can AGI-max now, so the one chokepoint left is judgement. Either you are performing or you are not.
+Prolonged ownership
+You owned something for a long stretch. Whether it worked out matters less than the stretch.
+The room test
+I hand you something at a high level, walk out, come back, and find it done well. Ideally better than I would have done it.
+End to end
+From "we have a problem" to "nobody has to think about this again". If someone still has to track it, you did not own it.
+It is not done if
+it is not implemented, the implementation is ugly, it is not documented, nobody can discover it, or you cannot market it.
+Problem first
+"Move from X to Y" is a solution you pre-committed to. Slow, flaky, breaks for this one customer — those are problems.
+Prove it
+Not "the tests pass". Prove it, then confirm it is live in production, which is not the same as merged.
+No PMs, no QA
+Ask for help, ask questions, redo things. Never quietly assume someone else will catch the part you skipped.
+I read every application.
+Tell me what you have worked on. I read every application.
+One open question, no form to game. Products, campaigns, companies, things you built for yourself — whatever you want me to know. It comes straight to me. I am Marko.
+Or write to me directly:
+X @markokraemer
+LinkedIn linkedin.com/in/markokraemer
+Own your company’s AI. Start today, in our cloud or yours.
+Start for free
+Open source · SOC 2 Type I · SAML SSO and SCIM · Any model, your keys

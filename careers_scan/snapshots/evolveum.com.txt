@@ -1,0 +1,104 @@
+Make an impact wherever you are
+Participate in creating the future of the identity
+Take part in making midPoint the open source leader in identity security of tomorrow. Join the Evolveum team and work with others who share your values and zeal.
+Explore all jobs (12)
+Perks that will make your day
+Why you will love working at Evolveum
+We believe in the importance of empowering people to accomplish great things by building work around their lifestyles. Make the most out of our benefits and experience working on your own terms.
+Remote first
+Enjoy our remote first mindset and work from home or any place. Alternately, meet with others in our Bratislava and Košice offices.
+Open source product oriented
+Participate in making midPoint the best open source digital identity platform. For everyone, all around the world.
+SW and HW freedom
+Use your favorite tools and brands to make your work enjoyable and comfortable. Operate efficiently with what you love.
+work for what you stand for
+The values we reflect in every move
+One team, one vision
+There’s a room for everyone in Evolveum’s team, we welcome introverts and extroverts alike. We evaluate results, and they can only be achieved by a team effort.
+Integrity and transparency
+We treat our community, customers, partners, and each other with honesty and respect. Everything we do is transparent and publicly available. Joining our team comes with believing in the same values.
+Open source forever
+We’ve always believed in the power of open source, and that will never change. Devote yourself to the same open source values and collaborate with colleagues to achieve big things.
+Discover more about us
+teamwork makes the dream work
+Get to know us
+Get familiar with our culture in advance thanks to Hogan assessment and be sure that Evolveum is the right place for you.
+Check our company profile
+start your career here
+Students and graduates
+Joining the Evolveum team means being welcome and respected. Bring your enthusiasm and ideas, and get experience from collaborating with other team members who have been in the industry for 10+ years. Kick-start your career in a place where your work is appreciated.
+Get in touch with us
+don’t wait any longer
+Join our team now
+Discover how you can make a difference and bring your best to achieve our common goals.
+MidPoint
+Download
+Key features
+Industry
+Defense
+Financial services
+Higher education
+Manufacturing
+Oil and gas
+Public sector
+Telecommunications
+Utilities
+Integration Catalog
+Explore
+Why choose OSS IGA?
+Resources
+Blog
+Community
+Upcoming Events
+Resource Library
+Documentation
+Services
+Consulting Services
+Support Subscriptions
+MidPoint Training
+Company
+About Us
+EU ownership
+EU funding and initiatives
+Partners
+References
+Career
+Contact Us Start Now
+[ Placeholder content for popup link ] WordPress Download Manager - Best Download Management Plugin
+Strictly necessary
+Name
+Provider
+Purpose
+Expiry
+More information
+PHPSESSID
+Evolveum s.r.o.
+When you close your browser
+moove_gdpr_popup
+1 year
+Read more
+Session
+wp-settings-[user_id]
+Used to preserve user’s wp-admin settings
+wordpress_[hash]
+wordpress_logged_in_[hash]
+Remember User session
+wordpress_sec_[hash]
+wp-postpass_[hash]
+10 days
+wp-settings-time-[user_id]
+The number on the end is your individual user ID from the user’s database table. This is used to customize your view of admin interface, and possibly also the main site interface.
+Third party
+Technical
+woocommerce_cart_hash
+Helps WooCommerce determine when cart contents/data changes.
+woocommerce_items_in_cart
+wp_woocommerce_session_[hash]
+Contains a unique code for each customer so that it knows where to find the cart data in the database for each customer.
+2 days
+tk_ai
+Stores a randomly-generated anonymous ID. This is only used within the dashboard (/wp-admin) area and is used for usage tracking, if enabled.
+comment_author_{HASH}
+comment_author_email_{HASH}
+comment_author_url_{HASH}
+These are set to expire a little under one year from the time they’re set.

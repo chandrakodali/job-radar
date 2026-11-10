@@ -1,0 +1,46 @@
+About ZiffyHomes
+Eleven years inside Indian rentals .
+ZiffyHomes is an AI property management platform built for India's homeowners and brokers. We've been inside this market for over a decade, through one full cycle of building, scaling, and shutting down. This time, we're building it as software.
+The first run
+ZiffyHomes was founded in Gurugram in 2015 as a managed co-living platform for young professionals. The idea was simple: take ready-to-move-in homes from owners, furnish them, and rent them out by the room. No brokerage, clean lease terms, hassle-free living. It worked, for a while.
+By early 2018, ZiffyHomes was one of the most recognisable co-living brands in Delhi-NCR. We were catering to over 15,000 customers, growing 20% month-on-month, and had absorbed two smaller competitors in quick succession: Fella Homes in February 2018 (adding roughly 800 rooms) and Nivaasa in April 2018 (adding 12 community hubs across Gurugram, Delhi, Mumbai and Bangalore). Y Combinator invested in the Summer 2018 batch, making ZiffyHomes one of four Indian startups in the S18 cohort.
+Then the pandemic arrived. Asset-heavy co-living, it turned out, is a brutally fragile model when your customers suddenly cannot leave their homes and your lease obligations to owners do not care. WeWork suffered. So did we. The original ZiffyHomes wound down. It was a hard lesson, but the most valuable one possible: the problem is real, the solution needs to be lighter .
+Timeline
+2015
+Founded in Gurugram Sanchal Ranjan, Saurabh Kumar and Salil Agrawal launch ZiffyHomes as a managed co-living platform.
+2017
+First wave of coverage Featured in YourStory, Inc42, Business Insider and Entrackr. Operating across Gurgaon, Noida and Delhi with expansion plans for Bangalore, Pune and Hyderabad.
+Feb 2018
+Acquired Fella Homes Added ~800 rooms, bringing the platform to roughly 2,000 rooms and 500 studio apartments across Delhi-NCR.
+Mar 2018
+15,000+ customers served Entrackr reports ZiffyHomes as one of the fastest-growing co-living operators in India.
+Apr 2018
+Acquired Nivaasa Added 12 community hubs across Gurugram, Delhi, Mumbai and Bangalore.
+Aug 2018
+Y Combinator S18 One of four Indian startups selected for the Summer 2018 batch. $120K investment from YC.
+2020–2021
+Pandemic stress and wind-down Asset-heavy co-living proves structurally fragile during COVID. The original ZiffyHomes operations wind down.
+2026
+Rebuilt as pure software ZiffyHomes returns as an AI property management platform for Indian homeowners and brokers. No real estate on the balance sheet. Just software.
+What we're building now
+The second ZiffyHomes is a pure SaaS product. We own no property. We take no cut of rent. We facilitate and automate: tenant onboarding, rent tracking, AI-generated rental agreements, maintenance triage, move-out flows , all stitched into a single calm dashboard that owners and brokers share.
+We're starting with brokers, not owners. An Indian broker who manages twenty to fifty properties has all the same pains as a property manager in the US, but none of the tools. Every existing platform in India targets either marketplaces (NoBroker, 99acres) or PG/hostel operators (RentOk, Crib). Nobody builds for the broker running a book of residential rentals as their full-time job. That's our wedge.
+Because one broker touches ten to fifty properties, and each property touches two to four tenants, every broker we onboard brings the next hundred users for free. This is the network effect that the asset-heavy model never had.
+What we will not do
+We will not take brokerage commission. We will not sit on your rent. We will not take a cut of your payments. ZiffyHomes is a pure SaaS tool. You pay us a flat monthly fee when we launch pricing, and that is the entire business model.
+We will not replace brokers. One of the earlier platforms in this space built itself around the slogan “no broker”. That alienated the 500,000+ active brokers in India who actually need tools. We're building for brokers, not against them.
+We will not own real estate. The first ZiffyHomes was asset-heavy. NestAway proved that model at 33,500 units and sold to Aurum PropTech at a 95% markdown. The second ZiffyHomes is a ledger-and-logic layer on top of the rentals that already exist. That's it.
+In the press
+ZiffyHomes has been covered by major Indian tech and real-estate publications across its journey. A selection of coverage from the first run:
+Entrackr “ZiffyHomes redefines co-living, caters to over 15,000 customers” · March 2018
+YourStory “Singles take heart: without much hassle, ZiffyHomes will help you find a decent place to live” · August 2017
+Inc42 “Y Combinator Invests In ZiffyHomes, Startup Selected For Demo Day In Valley” · August 2018
+Business Insider India “Single and no place to live? Here's one company that's your sure shot messiah!” · 2016
+The Meb Faber Show “Episode #203: Sanchal Ranjan, ZiffyHomes, We Give You A Different Lifestyle To Work And Play” · February 2020
+For press inquiries or to request the updated 2026 press kit, reach out via the contact form .
+Careers
+We're a very small team right now, heads-down building the first version of the product. We are not actively hiring, but we're always interested in hearing from people who have lived the Indian rental market from the inside: brokers, property managers, PG operators, landlords with pain.
+If that's you, or if you're a senior engineer or designer who's obsessed with calm, honest, regional-first software, introduce yourself via the contact form and mention “careers” in your message.
+Want to follow along?
+Reserve early access to the beta and we'll keep you in the loop as the product opens up. Two minutes, no credit card, no spam.
+Reserve early access →

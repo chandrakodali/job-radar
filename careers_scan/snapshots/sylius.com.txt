@@ -1,0 +1,139 @@
+Product
+Elesto
+Preconfigured B2B setup for manufactures and wholesalers
+Dafre
+Built in multi-vendor logic for marketplace models
+Solenne
+For custom B2C commerce projects
+Sylius Community Edition
+Demo of the basic open-source version available after installation
+Tour
+Overview of key features, architecture, and flows
+Roadmap
+Check upcoming features and direction
+Services
+Technical audits, upgrades, and expert support for implementations
+Sylius Plus
+ADDONS
+Partners
+Become a Partner
+Join the Sylius Partner Program and grow your business in the Sylius ecosystem
+Find a Partner
+Browse trusted Sylius partners and find the right team for your project
+Payment Partners
+Discover trusted payment providers, officially integrated and ready to use with Sylius
+Showcases
+Case Studies
+10000+ companies trusted us
+Compare
+Sylius vs. Magento
+Resources
+Browse e-books, white papers, and...
+Developer
+Ecosystem
+Sylius
+Connect
+Docs
+Addons
+NEW
+Academy
+Certification
+Demo
+Community
+Events
+Blog
+PS Summit
+Join our Slack
+Support
+Get a live demo of Sylius Plus
+Download
+Free Demo
+Contact
+7400+ users
+Star
+English
+French
+German
+#NewWork
+Sylius is one of the most popular developer-friendly (⭐️ 8k GitHub stars!) eCommerce platforms out there – our approach ensures the highest quality of the code, a strong testing environment, and we use BDD quite religiously. Join the pioneers of modern code in Poland/Europe and become a part of one of the biggest Polish Open Source projects.
+Open Positions
+Why Sylius? #DeveloperPerspective
+100% Symfony
+Sylius has been the first among all e-commerce platforms to recognize the power of Symfony over 10 years ago. We have been working with the best PHP framework in the world since the PreAlpha Symfony 2.0 version and Sylius is one of the biggest Symfony projects worldwide – our development team can be easily called one of the best Symfony developers in Europe. It’d be difficult to find better people to learn from and grow. Thanks to the special relationship with the Symfony Core Team, we are regularly leading workshops and presentations on their conferences and meetups all over Europe. What is more, API Platform & SensioLabs are our partners, and we collaborate with Symfony masterminds in other verticals.
+Behavior-Driven Development and SOLID Test Suite
+Sylius is built on strong BDD fundamentals – after years of using it in open-source as well as in commercial projects, we are quite the pioneers of this approach in Poland, if not Europe, and we’d be happy to share our experience with you. Our Core Team members have created and still maintain official Symfony extensions for Behat, the famous PHP framework for automated testing. Our test suite also consists of PHPSpec & PHPUnit. Not to mention SOLID principles that we obey, it is clear that we are serious about our software reliability.
+ADR, Event Storming, Agile and Modern Methodologies
+For years, we have been working in Agile & Scrum sprints, delivering value praised by thousands of developers worldwide. With methodologies like Architecture Decision Record and Event Storming we have been able to build an architecture that is scalable, flexible, and supports any kind of project, from small to really big ones. Contribute your ideas and explore your imagination!
+GIT
+Everyone does it, but who does it right? Sylius GIT in all its complexity is clear and expandable. We maintain multiple branches, subtree splits, and merge it all in a proper manner, minding the dependencies. Sylius is loved for its stability and a strong backward compatibility promise.
+API First
+Learn from the top European API design team – Sylius comes with a powerful API built with API Platform – the best REST & GraphQL framework in the Symfony ecosystem that enables seamless and highly standardized integrations with any third-party application and frontend.
+Real-world Problems of Big Fish eCommerce Merchants
+Have you ever wondered what big websites that you browse look like under the hood? Well, we know a bit about it. In your daily work, you will have a chance to solve real-world problems of brands like Dr Oetker, 4Care, or Raiffeisen, with billions of euros flowing every year through the platform that you shall develop! Then you will start to notice that our customers are everywhere and feel like you have a real impact on the world around you. Exciting, isn’t it?
+Vast Growth Paths
+Become a certified Sylius trainer, a professional architecture consultant, or a talking-head and spread Sylius knowledge on worldwide events. Try different things and see what works for your best – we’ll be happy to assist you in finding the right path for you to grow. 🙂
+Open Source forever
+Work on the biggest Polish open-source project with a giant community worldwide:
+7 100+
+community developers on public Slack
+9 000+
+stores
+500+
+plugins
+999+
+translators
+680+
+contributors
+22 M+
+all packages downloads
+75+
+business partners
+~3 000
+installs per day, 60 000+ per month, and 4 M overall
+Why Sylius? #EmployeePerspective
+Purpose-driven product
+Working at Sylius provides the opportunity to contribute to innovative projects that are shaping the future of e-commerce. As an open-source platform, you’ll be part of a team that is revolutionizing how businesses approach online selling, enabling you to make a significant impact on the industry.
+Collaborative and Diverse Environment
+Sylius fosters a collaborative and diverse work environment, bringing together professionals from various backgrounds and skill sets. This diversity of thought and expertise creates a rich atmosphere for learning, idea-sharing, and creative problem-solving, enhancing your personal and professional growth.
+Passionate Community and Support
+Joining the Sylius team means becoming part of a passionate and supportive community of developers, designers, and e-commerce enthusiasts. This network offers opportunities for networking, knowledge exchange, and professional growth, ensuring you’re surrounded by motivated individuals who share your interests.
+Contribute to Open Source
+These are our roots and we are committed to developing the Open Source ecosystem of Sylius. You can get to experience what it’s like when thousands of strangers come together to build a digital product and become part of a community that helps trade about 2 billion Euro in volume every year. We make the essential part of our unique know-how and intellectual property completely free to the world.
+Remote-Friendly Culture
+Sylius embraces a remote-friendly work culture, providing the flexibility to work from the comfort of your chosen location. This setup enables a healthy work-life balance and empowers you to manage your time effectively while contributing to impactful projects.
+Company-wide, quarterly Profit Share
+We believe the true motivation comes from the inside and both stick and carrot are old-fashioned, so we don’t do individual or team bonuses. That being said, we love playing towards the same goal and celebrating #victories (enlightening #defeats too), so we have a company-wide quarterly bonus based company profits (10% of the income).
+Knowledge sharing and training sessions
+We love learning and growing for the sake of common purposes. We host internal meetups, training sessions and workshops. If it contributes to the Organisation, you can take an external training or workshops of your choice after pitching to and seeking advice from your peers and internal experts.
+3 years ago I made my first step into the world of Software Development – now I am the Core Team member, who makes a R&D of PWA in a free time, and helps the team as a Scrum Master. What is Sylius to me? Sylius is the great place for self-grow with friendly ambience and talented devs, who are always eager to share their knowledge.
+And of course 😎
+LuxMed
+Healthy body, healthy mind! We ensure LuxMed health care to help you with any medical problem.
+Multisport
+With us, you’re able to get your own Multisport membership to stay fit and healthy!
+What’s the recruitment process?
+Open positions
+Web Designer
+Szukamy kogoś, kto wesprze nasz zespół Business Development. Kogoś zajaranego pracą z ludźmi, rozwiązywaniem problemów i procesami sprzedażowymi! read more
+Open-source Community Marketing Geek
+Sylius HQ - Poland 🇵🇱
+Wierzbięcice 1B
+61-569 Poznań, Poland
++48 734 262 301
+[email protected]
+Get a live demo
+Compare Sylius
+Sylius vs Magento
+Solutions
+Fashion industry
+Home and garden industry
+Find a partner
+Become a partner
+Online course
+About
+Team
+Press room
+Brand resources
+Store
+Try Sylius
+Terms & Conditions

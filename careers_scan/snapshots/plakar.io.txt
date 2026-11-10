@@ -1,0 +1,139 @@
+Engineered by dreamers,
+powered by community .
+Our mission is to set a new open-source standard for data protection .
+Achieving it depends on the strength and engagement of our community.
+This page outlines our community guidelines and explains how our open-source project and commercial offering fit together.
+Join Plakar Community on Discord
+Built in public
+At Plakar, transparency is part of our DNA. Most of our meetings are open to the public, anyone can join, listen, and learn.
+Every morning starts with a short briefing on what we've done and what's next.
+Daily Briefings
+Start the day with our engineering updates: what we accomplished, what's in progress, and what's next.
+Hackrooms
+Watch and listen to developers code live in hackrooms. Speaking is limited to team and contributors to stay focused, but questions are welcome in our text channels.
+Weekly Community Calls
+Join our weekly calls to discover the latest Plakar advancements and ask questions directly to the team.
+Early Preview Releases
+Get access to developer preview releases to test cutting-edge features before they land in stable.
+We Need You
+Plakar is an open-source project built by and for its community.
+Your ideas, energy, and skills can help us grow faster and reach more people.
+Here are some of the ways you can make a difference.
+Organize Meetups
+Help us bring the Plakar community together in person or online.
+Whether small local gatherings or larger events, meetups are a great way to share ideas and build connections.
+We can support you with content, presentation materials, and even Plakar goodies to give away.
+Spread the Word
+Share Plakar's story through blog posts, podcasts, videos, and social media.
+Every piece of content helps more people discover and join our mission.
+Improve Documentation
+Help us make Plakar easier to use by writing or improving tutorials, guides, and examples in different formats: written, video, or interactive.
+Plakar Open Source Community Code of Conduct
+The Plakar community is committed to providing a welcoming, respectful, and inclusive environment for everyone.
+We value contributions from all members of the community and are dedicated to ensuring that every participant can collaborate openly and effectively.
+This Code of Conduct outlines our expectations for behavior and guides our commitment to an open, collaborative, and respectful space.
+You can read the full, detailed version of this Code of Conduct on our
+GitHub repository
+Our Standards
+Be Respectful: Treat others with kindness, empathy, and respect.
+Be Constructive: Provide helpful feedback, avoid personal attacks.
+Focus on Technical Merit: Evaluate based on project goals, not bias.
+Communicate Clearly: Use clear language, disclose conflicts of interest.
+Foster a Welcoming Environment: Include and support newcomers.
+Respect Personal Boundaries: Avoid unwelcome or inappropriate behavior.
+Keep It Professional: No offensive or discriminatory language or imagery.
+Accept Responsibility: Apologize sincerely and learn from mistakes.
+Unacceptable Behavior
+Harassment, bullying, or discrimination.
+Insults, threats, or personal attacks.
+Unsolicited sexual attention or advances.
+Trolling, spamming, or disruptive behavior.
+Publishing private information without consent.
+Making false accusations or misleading statements.
+Reporting & Enforcement
+Report violations confidentially to conduct@plakar.io .
+Consequences may include warnings, temporary or permanent suspension, or bans from all project spaces.
+Scope
+This Code applies to all project spaces, both online and offline, including issue trackers, mailing lists, code repositories, and events.
+Contributing to Plakar
+We welcome contributions of all kinds from new features and bug fixes to documentation improvements.
+Your input helps Plakar grow and improve for the entire community.
+Below is a quick overview of how to get involved.
+For full details, please read our
+Contributing Guide
+Ways to Contribute
+Report bugs or suggest improvements by opening an issue on GitHub.
+Propose and discuss new features before starting development.
+Submit code changes via pull requests, following our coding style and review process.
+Improve or expand the documentation for users and developers.
+Best Practices
+Fork the repository and work on a dedicated feature branch.
+Write clear commit messages and include relevant tests when applicable.
+Run tests and linters before submitting your changes.
+Respect our Code of Conduct in all interactions.
+Community and Control Plane
+Sustaining that work over the long term, developing, maintaining, and improving the standard and the tools around it,
+takes a viable business. Here is how the open-source project and our commercial offering fit together.
+Plakar Community Edition is free and open source for everyone.
+There are no restrictions on who can use it or what you can use it for, and it will always be
+actively developed and maintained. It gives you everything you need to back up and restore your data,
+and it is especially well suited to:
+Individuals protecting personal data
+Organizations with straightforward backup and restore needs
+Plakar Control Plane is our commercial edition. It adds capabilities for running Plakar at scale:
+multi‑Kloset management with fine‑grained access rights, integration with KMS (Key Management Systems),
+consolidated reports and statistics on backup and restore operations, compliance tools,
+and collaborative backup management for multiple users within the same organization.
+We also offer the Control Plane free of charge to organizations we want to support:
+Non-profit organizations
+Startups under 3 years old and pre‑Series A
+Organizations operating in war zones that require assistance
+The core components, Ptar , Plakar agent , and Kloset ,
+are and always will be licensed under the ISC license .
+The Plakar UI ships with the agent and is free to use for managing a single Kloset.
+Our commitment is simple: keep the core open, free, and accessible to everyone, while building a
+sustainable business around the advanced capabilities that larger organizations need.
+All the ways to join the Community
+Connect with Plakar, follow our updates, and take part in discussions through our different community channels.
+Join us on Discord
+Join us on Reddit
+Follow us on:
+Book a demo
+A Plakar team member will contact you shortly to organize the demo.
+Section:
+Version:
+Searching...
+No results found.
+Start typing to search.
+ESC
+Product
+Control Plane
+Plakar Community
+Download
+Ransomware recovery
+Strategic autonomy
+Resilience as Code
+Posture management
+Cost efficiency
+Integrations
+AWS
+Google Cloud
+Azure
+OVHcloud
+Scaleway
+Kubernetes
+PostgreSQL
+VMware
+Resources
+Plakar Docs
+Control Plane Docs
+Events
+Discord
+Changelog
+Compare Plakar
+Company
+Brand center
+Contact
+Blog
+Service status
+Newsletter

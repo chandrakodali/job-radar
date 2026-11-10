@@ -1,0 +1,51 @@
+Join the Lab
+We are hiring for exceptional engineers and scientists
+Our worldview
+Almost no one has priced in what is about to happen. Even startups that say that they believe in
+transformative AI don't act that way. As we get closer to a world where the cost of writing
+software goes to zero, it becomes more important than ever for hackers to be mindful of what
+they work on.
+AI safety is the most impactful thing one could work with at this point in time. If the
+development of AI goes right, most of humanity's biggest problems (diseases, poverty, energy,
+etc.) will be solved. But there are many potential missteps with consequences ranging from
+"missed opportunity" to "doom". In our view, AI safety is not opposed to AI progress, it is the
+key to it.
+Our work
+Andon Labs builds Safe Autonomous Organizations (SAO) without humans in the loop.
+Silicon Valley is rushing to build software around today's AI, but by 2027 AI models will be
+useful without it. The only software you'll need are the safety protocols to align and control
+them.
+We are building the Safe Autonomous Organization. We iteratively launch and scale autonomous
+organizations, while bridging AI control research with real-world testing. We bring AI control
+research out of the lab to our currently deployed organizations.
+Our first SAO — a vending machine at Anthropic's office — was covered by WSJ , Time and 60 Minutes . Now also at xAI, OpenAI and elsewhere.
+Our benchmark Vending-Bench is used at every major model release ( Anthropic , Google ) and has uncovered misalignment — findings that changed how later Claude models were trained to be more aligned ( Opus 4.8 system card ).
+Our latest SAOs are live in the real world: a store in San Francisco, a café in
+Stockholm, and radio stations broadcasting 24/7. They all run on Pion , the platform we built to let agents
+run businesses autonomously, now available to the public as a research preview.
+We have a front row seat to the frontiers of AI through our own experiments and our
+collaborations with the AI labs.
+Roles
+We're looking for research scientists, research engineers, software engineers, and design
+engineers to build this future. Things move fast, which makes specifying the exact
+responsibilities of roles hard. Below are the three areas of work we are currently most
+interested in:
+Research/Engineering: AI Safety and Evals
+We don't believe model alignment will be guaranteed as capabilities increase. Nor will humans be
+able to stay in the loop and keep up with every step an agent takes.
+Your role would be to design and run evals that probe AI behavior in real-world deployments —
+figuring out what to measure, interpreting results, and having the research taste to know what
+experiment to run next. You'd also help implement control protocols to keep our SAOs safe.
+Software/Entrepreneurial: Scaling SAOs
+What should be our next SAO? A farm? An AI lab? Or maybe a chip fab?
+AI safety can't be solved in the lab. We need our SAOs to be everywhere in society. You would
+have the role of 20 startup founders, at once. Concretely, this means identifying interesting
+ventures, building agentic systems with integrations to the real world, and deploying our
+agents.
+Design Engineer
+What should the interface between humans and autonomous organizations look like?
+As a Design Engineer, you answer this question by owning the user experience of Pion . You obsess over design and craft, and take ideas all the way from design to implementation.
+You’re also comfortable building features in our backend. Our tech stack is a SvelteKit
+frontend, with a Python backend and Postgres database.
+Compensation: $120k–$180k salary and $300k–$900k in equity.
+We're based in San Francisco (in-person only).

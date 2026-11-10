@@ -1,0 +1,13 @@
+Mid/Senior Software Engineer - Cloud/SRE
+Build the Upstash cloud infrastructure.
+kubernetes docker linux aws
+Software Engineer - Core
+Not actively hiring
+Build the Upstash core data platform.
+golang java concurrency databases distributed-systems
+Software Engineer - Frontend
+Build our open-source projects and talk to people
+typescript nextjs redis react vue svelte
+Software Engineer - TypeScript
+Build our TypeScript SDKs and developer tools
+typescript nodejs redis npm openapi

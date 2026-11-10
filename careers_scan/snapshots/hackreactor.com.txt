@@ -1,0 +1,48 @@
+Explore Coding Careers – and Launch Your Own!
+Learning how to code will prepare you for a variety of coding careers. Read about the many exciting possibilities that await you and get ready to launch your own!
+WHAT IS CODING? | Coding for beginners | How to Learn to Code | CODING INTERVIEWS | Launching a Coding Career
+Some Jobs that Require Coding Skills
+Learn about some of the many coding jobs to understand the wide-ranging roles and responsibilities.
+Data Scientist
+There’s a ton of data out there, and companies have access to much of it. Professionals can help companies make good use of data through collection, organization, analysis, and much more.
+Statistician
+Statisticians gather and analyze data in search of trends, and then report on those trends. Their work helps coworkers and leaders understand company data and take action based on it.
+Game Developer
+Game developers use their coding and other technical skills to design interactive games so many love to play. They work across teams with designers, artists, and engineers to create the most engaging content.
+Information Security Analyst
+Often shortened to InfoSec Analysts, these professionals identify weaknesses in a company’s digital security system and recommend strategies to improve network security and efficiency.
+Database Administrator
+Database administrators analyze code for efficiency and performance. They also use code for access control and database security, among other tasks.
+Software Engineer
+Software engineers design, build, and maintain software that powers networks and devices that millions of people use every day to play games, navigate healthcare platforms, get directions, order food, and more.
+How to Launch Coding Careers: 5 Steps
+1. Build your coding skills.
+Decide which learning option is best for you and pursue it! Whether in a coding bootcamp, learning solo online, or pursuing a degree, you’re moving toward your ultimate goal of working on exciting coding projects.
+2. Get your project portfolio in order.
+As you learn, build a portfolio of coding projects. Employers want to see that you can put your coding skills to real-world use. Create projects large and small (solo and with others) that demonstrate your range of skills.
+3. Practice for tech interviews.
+Coding job interviews are quite technical, requiring you to discuss yourself and your interests, as well as demonstrate your technical abilities in real time.
+4. Network, network, network!
+It’s never too early to start networking. As you learn to code, connect with instructors and classmates, or join coding groups to meet others online or in person. The larger your network, the better you’ll be positioned as you apply for jobs.
+5. Stay persistent on the job search.
+The tech job market is competitive. It takes a plan and perseverance to land the job you want.
+Bookmark some of your favorite job boards, and set up alerts using keywords associated with your desired roles. Regularly visit major boards like LinkedIn and Indeed, but don’t count out smaller and more specialized boards like Idealist , Out in Tech , Techqueria , Purpose Jobs , and others geared toward specific groups and areas of tech.
+If you learn to code through a coding bootcamp , you can count on support from experienced Career Services professionals. They’ll guide you during the program on how to build your resume, portfolio, interview skills, and more.
+A Typical Day in the Life of a Software Engineer
+Starting the day:
+Check emails
+Plan the day by figuring out which tasks to prioritize based on project need
+Meetings
+The amount and frequency of meetings varies from company to company, but software engineers can expect to meet with:
+Managers
+Other team members
+Project stakeholders
+These meetings cover everything from project progress, development updates, new features and implementation, and more.
+Pair programming
+Coding is often a solo activity, but many companies require pair programming, which turns coding into a more social and collaborative process. In pair programming, two coders work on the same code at the same time. This helps them and test software to ensure a higher-quality final product with fewer errors, bugs, mistakes, and other problems.
+Tasks and Projects
+Your day goes on, perhaps with solo or team-based work like coding, testing, deploying, and debugging. Software engineers monitor how things are going and make sure everything is working properly.
+Ready to become a software engineer?
+Learn to Code: Get Your Free Guide Today!
+Start your coding career journey with our free guide. Learn about coding, industry expectations, training opportunities, and how to successfully launch your new, exciting career.
+Download Guide

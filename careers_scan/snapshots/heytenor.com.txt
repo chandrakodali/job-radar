@@ -1,0 +1,21 @@
+Apply to Tenor
+Build what comes next.
+Send one artifact. Pick one role. Skip the cover letter.
+Apply by email →
+Open roles
+Engineering
+Exceptional
+How we work
+This is not a normal coding job.
+Own difficult systems. Make clear decisions. Prove what changed.
+What matters
+Own the system end to end.
+Move fast, then verify with logs, state, tests, traces, and user behavior.
+Use the best tools without outsourcing judgment.
+Prefer shipped evidence over process theater.
+Not for you if
+You want narrow tickets and clean boundaries.
+You like demos more than reliability.
+You avoid understanding the system.
+You would rather look productive than prove what changed.
+To the role →

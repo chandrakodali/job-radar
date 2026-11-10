@@ -1,0 +1,55 @@
+Download for Free Now
+Contact
+Products
+Demo
+Download
+Documentation
+About
+Blog
+Jobs
+Want to work with a group of competent, ambitious people creating
+something you can be proud of? If so, we'd like to hear from you.
+At Searchdaimon the way from an idea to implementation is short. Your ideas and input matters.
+Our work environment is fast-paced, demanding, and highly productive. We all readily
+take on responsibilities and want to get things done. We value competence, flexibility,
+energy, willingness to learn, and ability to work at any level of detail and scope.
+With offices in Oslo (sales) and Trondheim (RnD), we are always looking for self-starting,
+driven individuals to join the team. If you excel in creative problem-solving, enjoy pushing
+technology’s limits and want to make a difference, Searchdaimon AS is the right place for you.
+If you are interested in joining our team, please email your resume here
+work@searchdaimon.com
+About us
+Information kit
+Bank details
+Products overview
+Why search
+Search features overview
+Enterprise search functions
+Administration of ES
+When to use and not to use
+Price list
+OEM platform
+Order ES
+Fact sheet
+Introduction video
+First steps
+Installation
+Basic configuration
+First collection and search
+Administration panel
+Administration tasks
+TCP/IP configuration
+Crawling and indexing data sources
+End-user integration, local client software and patching
+End-user search guide
+Creating your own data connector
+Customising the look and feel
+Search results api
+Future functions
+FAQ (Frequently Asked Questions)
+Community
+Wiki
+Datasets for testing
+Source code
+Facebook
+Twitter

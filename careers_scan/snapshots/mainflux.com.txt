@@ -1,0 +1,114 @@
+JOIN US
+Mainflux Labs is providing an open-source IoT platform deployed all over the world,
+and recognized by Linux Foundation, Fortune 500 companies
+and EU Horizon Initiative
+REFERENCES
+OPEN POSITIONS
+Junior Software Engineer (Golang)
+We are looking for a Junior Software Engineer with proficiency in Golang to contribute to the development and maintenance of our IoT platform. This role involves working on SaaS IoT solution and participating in EU-funded projects, deploying Mainflux technology in various real-world applications.​
+Position Requirements and Skills
+The main responsibilities will be on an international R&D project whose goal is to develop comprehensive Digital Building Twin solutions that will provide a dynamic representation of buildings’ and infrastructure’ multi-physics behavior and real-time synchronizations between as-designed and as-built models from design /engineering phases, to construction and to maintenance stages.
+Digital Building Twin solutions will consist of several technology layers, including sensing, edge computing, game-engine, IoT and data fusion techniques, design and engineering applications.
+Concrete tasks in this position will include integration of existing Mainflux open-source IoT platform with all of these technology layers as middleware which provides connectivity, real-time data stream pipelines, data acquisition and processing, device management and provisioning, as well as application data consumption mechanisms.
+Programming & Backend Knowledge:
+Basic proficiency in Go (Golang), with understanding of fundamental concepts (data types, structures, functions, interfaces)
+Familiarity with REST APIs, and interest in learning microservices architectures
+Cloud & DevOps
+Basic experience or knowledge of containerization concepts (Docker)
+Awareness of cloud platforms (AWS, GCP, Azure) and interest in learning Kubernetes and other cloud services
+Databases & Data Handling
+Basic SQL knowledge and some experience with relational databases (PostgreSQL, MySQL)
+Interest or familiarity with time-series databases (InfluxDB, TimescaleDB) and monitoring tools (e.g., Prometheus) is a plus.
+Security & Protocols
+Basic understanding of secure web API practices. Interest in learning IoT protocols (MQTT, CoAP, HTTP/WebSockets).
+Systems & Tools
+Comfortable using Linux/Unix command-line and some scripting (Bash/Zsh).
+Familiarity with version control (Git) and willingness to engage with agile development workflows.
+Nice-to-Have (Bonus Skills)
+Personal or academic projects related to IoT or embedded systems
+Familiarity or interest in message brokers (NATS, Kafka, RabbitMQ)
+Participation in open-source projects or enthusiasm for contributing to open-source community
+Relevant university degree (Computer Science, Software Engineering, Electrical Engineering, or related fields)
+Why Join Us?
+References from working on open-source IoT Platform recognized by Linux Foundation, Dell, Intel
+and deployed all over the world
+Collaboration with a wide range of professionals, experts, researchers and engineers from top EU Universities,
+research institutes and companies
+Work in collaboration and exchange of ideas environment of an open source project
+Work with cutting edge technologies that are in high demand
+Full-time employment in a stable company and EU funded projects
+Flexible working time
+Fully remote or in our Belgrade Science Park’ office
+20 days of paid vacation
+Travel across EU for project consortium meetings or demosites (not mandatory)
+Competitive compensation
+To apply for this positions, please send your CV to:
+position closed
+INTERNET OF THINGS INTERNSHIP
+We are looking for software engineer students who strive to pursue a professional career in the Internet of Things and related domains.
+Intern
+Basic knowledge of Golang or C++ programming language and willingness to learn Go
+Familiar with Shell Scripting (Linux or Unix based systems)
+Experience with version control systems (Git, GitLab, GitHub)
+Nice to have:
+Basic knowledge of Docker
+Work samples on GitHub (indie, academic, hobby project etc.)
+BENEFITS FOR INTERN
+References from working on open-source IoT Platform recognized by Linux Foundation, Intel, EU
+and deployed all over the world and demo sites across Europe
+Visibility of your individual contributions is greater than in standard SW companies, which means
+career opportunities and growth
+Opportunity to be employed by Mainflux Labs and to be noticed by other companies
+Fully remote or in our Belgrade Science Park’ office, as you choose (now and post COVID)
+An individual approach and a personal mentor
+Internship Description
+During the Internship the candidate will gain practical knowledge and real work experience with the following:
+Internet of Things and distributed systems, containers and Kubernetes
+Real-time messaging, data brokers
+Internet protocols (MQTT and CoAP)
+Go programming language
+Secure message brokering
+Internship period: 3 months (with possible extension)
+ABOUT MAINFLUX LABS
+Mainflux Labs is a technology company providing full-stack, open-source IoT platform, IoT edge computing gateway and consulting services for all IoT technology stack layers. The company's focus is on the global market, state-of-the-art technology and know-how, expressive participation in the open-source community, as well as the readiness of team members to devote their time and work experience to train interested and selected associates.
+The IoT platform operates as a cloud-native distributed software service, built with modern architecture as a set of microservices containerized with Docker and orchestrated with Kubernetes. It provides scalability, fault-tolerance, high-performance, robust execution and small footprint which makes it deployable from multi-datacenter scale to RPi class devices.
+Due to the leading edge design, architecture and implementation of the Mainflux IoT Platform, the Linux Foundation invited Mainflux Labs to participate as a founding member of its EdgeX Foundry Project alongside companies such as Dell, AMD, ADI, Toshiba, Samsung, and Intel.
+Ericsson Spain S.A., Universidad Carlos III de Madrid, MDEA Networks Institute, University of the Basque Country, Universitat Politecnica de Catalunya has used Mainflux for their research and projects published in Sensors MPDI and IEEE Access scientific journals.
+As the open-source IoT Platform, Mainflux is deployed around the world in various IoT solutions, including by Xerox PARC - inventor of GUI, school management in Switzerland and Australia, then for monitoring and controlling retail assets in Target (one of the biggest US retailers), Mauritius and Vodafone Telecom's Towers, dwelling buildings in Berlin and Indian Coast Guard servers.
+Our clients include a Worldwide provider of Oilfield & Gas Equipment - USA, System Integrators from Germany, Russia, and India, and leader in recycling and waste management ventures - EU.
+Additionally, Mainflux Labs is involved in large-scale EU research & development projects, funded by the European Commission, where it cooperates with European universities like TU Berlin, TU Delft, UPC Barcelona, research institutes Fraunhofer, NEC, and companies like Telefonica, NCC Sverige, La Farge and schlaich bergermann partner among the others.
+On these EU funded projects, Mainflux technology will be deployed within different solutions on real-world projects across Europe. These includes viaducts and bridges for high-speed railways in Spain, 110 meters office building in Göteborg, quay walls on the Port of Rotterdam one of the biggest port in the world, sport stadium roof structure in Munich, South China Hotel in Hong Kong, social housing in Paris and Berlin Tempelhof Airport among the others.
+WHY MAINFLUX LABS
+GLOBAL OPEN-SOURCE IoT PLATFORM EXPERIENCE
+Mainflux Labs develops a globally deployed open-source IoT platform, recognized by the Linux Foundation, Dell, Ericsson, Intel, and the EU Horizon initiative.
+As the open-source solution it is used by Target - one of the biggest retailers in the USA, Vodafone UK, Indian Coast Guard, as well as for school management systems in Switzerland and Australia, telecom tower monitoring in Mauritius, and smart buildings in Berlin.
+Clients include a global oilfield & gas equipment provider (USA), system integrators from Germany, Russia, and India, and a leader in recycling and waste management (EU).
+PARTICIPATION IN LARGE EU RESEARCH & DEVELOPMENT PROJECTS
+Mainflux Labs actively participates in extensive EU-funded R&D projects, demonstrating Mainflux technology in high-profile pilot locations.
+These include Berlin Tempelhof Airport, construction of office buildings in Barcelona and Göteborg, quay walls at the Port of Rotterdam (one of the world's largest ports), the South China Hotel in Hong Kong, high-speed railways and viaduct bridges in Spain, sports stadium roofing, and social housing projects in Paris, among others.
+COLLABORATION WITH TOP EU UNIVERSITIES,
+INSTITUTES, AND INDUSTRY
+At Mainflux Labs, you'll collaborate closely with professors from leading EU universities, researchers from prestigious global institutes, and engineers from prominent European companies.
+HIGH VISIBILITY OF YOUR INDIVIDUAL
+CONTRIBUTIONS
+We are committed to open-source principles, collaboration, and idea sharing. At Mainflux Labs, your individual contributions gain significantly greater visibility compared to conventional software companies, driving your professional growth, development, and career advancement.
+WORK WITH CUTTING EDGE
+TECHNOLOGIES
+The Mainflux open-source IoT platform is a cloud-native distributed software solution built in Golang, structured as microservices, containerized with Docker, and orchestrated using Kubernetes.
+CONTACT US
+Email: infos@mainflux.com
+Website: mainflux.com
+GitHub
+IoT PLATFORM & EDGE
+IoT Cloud Platform
+Edge Computing
+Documentation
+References
+ABOUT US
+Team
+Blog
+News and Press
+FAQ
+NEWSLETTER
+Apache v2.0 – 2020 Mainflux Labs - Internet of Things Solutions
+MAINFLUX LABS

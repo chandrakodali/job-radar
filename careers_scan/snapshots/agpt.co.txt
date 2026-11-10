@@ -1,0 +1,350 @@
+Meet your AI team. Introducing Experts.
+Meet the Experts
+YOUR TEAM OF AI EXPERTS
+Your ambition.
+An AI team
+behind it.
+Bring in specialists for content, sales, research, and the work that keeps coming back. Brief them in plain English. Let Otto coordinate.
+Start free for 7 days See the work
+Then Pro at $50/mo. Card required; no subscription charge today.
+Cancel anytime. Trial terms
+Your team
+YOUR MORNING BRIEF MON, 9:00 AM
+A little less on your plate.
+Here’s where your team has moved things forward.
+Otto Head of AI
+The big picture, taken care of.
+Maria SEO Content Manager
+Your next article is ready.
+Draft
+Max Account Executive
+A shortlist worth reaching out to.
+Done
+Frankie Executive Assistant
+You’re ready for your next meeting.
+Explore the example work
+FROM BRIEF TO SOMETHING REAL
+The next chapter of your content. Article draft · Prepared by Maria
+An example of your AI team at work.
+Open-source roots.
+A whole new way to work.
+187k + GitHub stars 33 AI Experts and counting
+As featured in
+Coverage of AutoGPT’s open-source beginnings.
+Explore the coverage
+In the headlines
+WIRED · 2023 Supercharge Your ChatGPT Prompts With Auto-GPT
+Forbes · 2023 Auto-GPT May Be The Strong AI Tool That Surpasses ChatGPT
+Bloomberg · 2023 Doing, Not Just Chatting, Is the Next Stage of the AI Hype Cycle
+TechCrunch · 2023 What is Auto-GPT and why does it matter?
+Fast Company · 2023 Auto-GPT and BabyAGI: How ‘autonomous agents’ are bringing generative AI to the masses
+Ars Technica · 2023 Hype grows over ‘autonomous’ AI agents that loop GPT-4 outputs
+Cited & referenced by
+Microsoft
+NVIDIA
+World Economic Forum
+Reporting and references span AutoGPT’s history. Logos belong to their respective publishers.
+EXPERTISE THAT GOES TO WORK
+Good work.
+Off your to-do list.
+One product launch. Three different jobs.
+See what each specialist brings to the work.
+THE BRIEF ILLUSTRATIVE OUTPUT
+“We’re launching a tool for async team updates. Write the opening of our first article.”
+ARTICLE EXCERPT Ready for your review
+A weekly update worth reading.
+Your team doesn’t need another status meeting. It needs to know what changed, what’s stuck, and who can help.
+Give progress a place to live
+When updates are scattered across chats and calls, someone has to piece the story together. One short, shared note gives everyone the same starting point.
+Start with three questions
+What moved forward? What needs a decision? What happens next? Add an owner and a date to anything that needs action.
+Try it for one week
+Share your update before Monday’s check-in. Use the meeting for decisions that need a conversation. If there aren’t any, give the time back.
+Prepared by Maria
+“Our async update tool is for remote agencies. Help me focus our first outreach.”
+PROSPECT SHORTLIST Ready for your review
+Three agencies. A relevant opening.
+A sample shortlist for your first outreach. Companies and signals below are fictional.
+Northline Studio · Head of delivery
+24 people across three time zones. Opening: “How do you keep client handoffs moving when your team’s working hours barely overlap?”
+Morrow Digital · Operations lead
+38 people running several client accounts. Opening: “Could one shared update replace the weekly chase for project status?”
+Fieldwork Agency · Founder
+12 people adding their first delivery manager. Opening: “How will you keep visibility as day-to-day delivery moves out of your hands?”
+Prepared by Max
+“Get me ready for our product launch review. We need to agree on the first week.”
+MEETING BRIEF Ready for your review
+One meeting. Three decisions.
+A proposed agenda for your 20-minute launch review. Decide the audience, the target, and who owns each next step.
+First 5 minutes · Choose the audience
+Recommendation: remote agencies with 10–50 people. Keep the launch article and outreach focused on the same problem: scattered project updates.
+Next 5 minutes · Set a useful target
+Proposed goal: five pilot teams, each sharing three updates in week one. Review what they used and where they got stuck on Friday.
+Final 10 minutes · Assign the work
+Name one owner for Monday’s article, Tuesday’s first outreach, and Friday’s pilot review. Confirm the dates before everyone leaves.
+Prepared by Frankie
+Find your Expert
+Otto Your personal Head of AI
+ONE CONVERSATION. THE RIGHT EXPERTISE.
+Meet the head
+of your AI team.
+Tell Otto what’s on your plate. It brings in the right Experts, hands over the work, and keeps you up to date. Talk to a specialist directly whenever you want to get into the details.
+Get to know Otto
+You bring
+the big picture.
+We’ll help with
+the moving parts.
+YOUR TEAM, LED BY OTTO
+A real run, sped up: one brief to Otto, Maria, Max and Frankie working in parallel, and nothing sent without your go-ahead.
+FROM ON YOUR MIND TO IN MOTION
+A good team starts
+with a conversation.
+No workflow canvas required.
+Start with what you want to get done.
+01 Choose
+Choose your expert.
+Tell Otto what you need, pick a ready-made Expert, or create a specialist for your own way of working.
+02 Brief
+Here’s what success looks like…
+Brief them on the job.
+Answer a few questions, share the context, and connect the apps your Expert needs. Agree on the first outcome.
+03 Repeat
+Every Monday 9:00 AM
+Make it a routine.
+Review the work, refine the brief, and activate routines for the jobs that keep coming back.
+CAPABLE EXPERTS. CLEAR BOUNDARIES.
+More off your plate.
+Still in your hands.
+Choose app access and set spending guardrails for each Expert. Stay close to the details, or start with the overview.
+Connect with intention. Choose which accounts each Expert can use.
+Give every Expert a budget. Set a threshold for spending approval.
+Keep a clear view of progress. Open an Expert’s activity and follow the work.
+Maria’s workspace SET UP AROUND YOUR WORK
+Connected accounts
+You choose what Maria can access.
+Google Drive™
+WordPress
+Spending approval threshold
+A boundary you can adjust.
+$20
+$6 used $20 threshold
+Weekly content brief
+Monday · 9:00 AM
+Not activated
+Illustrative settings and usage.
+IN THEIR WORDS
+The conversation
+around AutoGPT.
+Voices from AutoGPT’s open-source beginnings in 2023. These posts speak to the original project, before today’s Experts platform.
+Jerry Liu Co-founder & CEO, LlamaIndex
+Created LlamaIndex, the open-source data framework for LLMs
+25M+ LlamaIndex package downloads every month
+LlamaParse: 300K+ users and 1B+ documents processed
+AutoGPT is an incredible evolution of the chatbot interface that can provide automated help with fewer human-in-the-loop steps.
+@jerryjliu0 84.4K followers on X
+Read the post
+Greg Isenberg CEO, Late Checkout
+Builds AI companies including IdeaBrowser and Boring Marketer
+Built and sold 5by to StumbleUpon and Islands to WeWork
+Advised Reddit and TikTok on product and growth
+I've plugged AI, ChatGPT & AutoGPT into my businesses and the results are bonkers.
+@gregisenberg 717.1K followers on X
+Amjad Masad Founder & CEO, Replit
+Built Replit’s AI app creation platform to 50M+ users
+Replit’s $400M funding round valued the company at $9B
+Founding engineer, Codecademy; led JavaScript infrastructure at Facebook
+If you have a phone you can run AutoGPT. You don't even need to learn how to code.
+@amasad 493K followers on X
+Read 26 more voices
+Andrej Karpathy AI researcher, Anthropic
+Founding member of OpenAI
+Led Tesla Autopilot’s computer vision team as Director of AI
+Created Stanford’s first deep learning course, CS231n
+Next frontier of prompt engineering imo: "AutoGPTs".
+@karpathy 4.2M followers on X
+Rowan Cheung Founder & CEO, The Rundown
+Built The Rundown to 2M+ newsletter subscribers
+Interviews AI leaders including Sam Altman and Mark Zuckerberg
+Launched AI University for practical AI education
+People should definitely be paying attention to AutoGPT.
+@rowancheung 597.6K followers on X
+Varun Mayya Co-founder, Aeos
+Built Aeos, a content and AI group with 500+ people
+Co-author of The Content Creator Handbook
+1M+ subscribers on his YouTube channel
+I would recommend everyone who can write code to set 2 hours aside and try AutoGPT.
+@waitin4agi_ 499.6K followers on X
+Charly Wargnier Developer relations specialist
+Previously at Snowflake, Streamlit and Samsung
+Built open-source NLP tools including Auto Keyword Mapper
+BrightonSEO speaker on machine learning for SEO
+Auto-GPT, the world's first #AGI? Auto-GPT is now able to write its own code using #GPT4 and execute Python scripts! This allows it to recursively debug, develop, and self-improve!
+@DataChaz 181.3K followers on X
+Angry Tom Consultant & AI educator
+Creator of The Ultimate GPT-4 and ChatGPT Cheatsheets
+AutoGPT is taking the internet by storm. It's the greatest AI you've seen yet.
+@AngryTomtweets 150K followers on X
+Lior Alexander Founder & CEO, AlphaSignal
+Built AlphaSignal's AI newsletter to 300K+ subscribers
+Former researcher at Mila, the Quebec AI institute
+Previously built machine learning systems at McKinsey
+AutoGPT might be the next big step in AI. Karpathy recently said "AutoGPT is the next frontier of prompt engineering."
+@LiorOnAI 117.3K followers on X
+Anton Osika Co-founder & CEO, Lovable
+Lovable: AI app creation; $13.3B Series C valuation
+60M+ projects built; 900M monthly visits to Lovable-built apps
+Created GPT Engineer, the open-source precursor to Lovable
+Example of AutoGPT in action doing research to produce a high quality report.
+@antonosika 84.2K followers on X
+Chris Cunningham Head of Social Marketing, ClickUp
+Member of ClickUp's founding team
+Built a social team reaching 150M monthly impressions
+ChatGPT is officially old news. If you haven't heard how AutoGPT is DOMINATING AI… you're living under a rock.
+@ChrisClickUp 47.1K followers on X
+Jay Scambler Applied AI engineer, Grey Haven
+Founded Grey Haven to build AI for niche industries
+Builds autocontext, an open-source AI agent learning system
+Director of the Oklahoma AI Roundtable
+The pace of development surrounding Baby AGI and AutoGPT is mind blowing. Seems like a new groundbreaking update comes out every hour.
+@JayScambler 5,602 followers on X
+Brett Adcock Founder & CEO, Figure
+Figure: humanoid robotics, valued at $39B in its Series C
+Founded Hark, a personal AI lab with $700M+ in Series A funding
+Founded Archer, the electric aircraft company; took it public
+ChatGPT is good. But AutoGPT is the future.
+@adcock_brett 868.7K followers on X
+Brian Roemmele Founder & editor, Read Multiplex
+Created SaveWisdom.org to preserve human stories for AI
+Publishes SuperPrompts guides for working with AI
+Runs an experiment in companies operated by AI agents
+Running unattended for 4 days it has built theories of the current market based on my Cycle Data Research. I am close to saying this will change business forever.
+@BrianRoemmele 488.8K followers on X
+Barsee Founder, AI Valley
+Publishes AI Valley for 100K+ newsletter readers
+WTF Innovators Award recipient
+Built a directory of AI tools and prompts
+AutoGPT is the next BIG thing in AI.
+@heyBarsee 269.1K followers on X
+Steph Smith Growth, NVIDIA
+Previously Head of Growth at Groq
+Former host of the a16z Podcast
+Grew The Hustle's Trends to millions in annual recurring revenue
+AutoGPT takes the idea "a problem well stated is a problem half solved" to a whole new level.
+@stephsmithio 164.8K followers on X
+Ole Lehmann Founder, The AI Solopreneur
+Generated 4.3M video views from 53 videos in 60 days
+Built a six-figure business within four months
+Marketing is overwhelming, but AutoGPT can lift the burden off your shoulders.
+@itsolelehmann 159.9K followers on X
+Harsh Makadia Founder, Fuselio & Fuselio Automation
+40+ software projects delivered through Fuselio
+Built lead automation handling 10,000 enquiries a month
+10+ years building software and automation systems
+ChatGPT feels like old school. Meet Next Big Thing in AI: AutoGPT.
+@MakadiaHarsh 228.3K followers on X
+Daniel Eckler Co-founder & CMO, Spacecadet
+Founded and sold Piccsy and EveryGuyed
+Previously worked in innovation at BuzzFeed and Anomaly
+Now building AI-native IP and advertising at Spacecadet
+Everyone is talking about ChatGPT… But the future of AI is AutoGPT.
+@daniel_eckler 42.9K followers on X
+Florian S Lead AI Consultant, msg ag
+Built Benchmark Heaven to compare 870+ models and 260+ benchmarks
+Built Chutes Search as a backend and research contributor
+AutoGPT was one of the first visionary AI agent projects of the LLM age. Excited to see it evolving into a platform.
+@airesearch12 6,283 followers on X
+Robert Scoble Technology author & Unaligned host
+Author of eight books about emerging technology
+Co-created Microsoft’s Channel 9 developer community
+Former futurist at Rackspace; interviewed thousands of founders
+Certainly if you get to AutoGPT you are an AI First thinker.
+@Scobleizer 605.6K followers on X
+Jim Fan Director of Robotics & Distinguished Scientist, NVIDIA
+Co-leads GEAR, NVIDIA’s general-purpose robotics AI lab
+Co-authored GR00T N1, an open model for humanoid robots
+MineDojo won a NeurIPS Outstanding Paper Award
+AutoGPT is a prototype of the next frontier: "Agent Smith" AI that recursively clones itself.
+@DrJimFan 587.6K followers on X
+Nat Friedman Head of Product, Meta Superintelligence Labs
+Building Muse, Meta’s personal AI agent
+Led GitHub as it reached 73M+ developers
+Co-founded Xamarin, acquired by Microsoft
+Next time someone tells you we don't know how to put agency into current AI systems, show them this!
+@natfriedman 482.1K followers on X
+Paul Couvert Founder, Couvert Systems
+Builds custom AI workflows and apps for businesses
+250K+ followers across X, LinkedIn and YouTube
+Content collaborations with NVIDIA and Qualcomm
+ChatGPT is a toy compared to AutoGPT. This tool performs tasks for you from A to Z without human intervention.
+@itsPaulAi 220.7K followers on X
+swyx Co-founder & CEO, AI Engineer
+Builds coding-agent evaluation standards at Cognition
+Latent Space host; 200K+ subscribers across its channels
+Former developer-relations leader at AWS, Netlify and Temporal
+Take the biggest open source AI projects you can think of. I don't care which. AutoGPT trounces all of them.
+@swyx 194.3K followers on X
+Alvaro Cintas Assistant Professor of Cybersecurity, Marymount University
+Researches security threats to post-quantum cryptography
+Studies AI-assisted implementation of cryptographic systems
+PhD, University of South Florida
+AutoGPT is the new big thing in AI. Created by @SigGravitas, AutoGPT has taken over the internet.
+@dr_cintas 132.2K followers on X
+The Boring Marketer Co-founder, Boring Marketing
+Built Boring Marketing with Greg Isenberg
+Leads The Vibe Marketer’s 2,600+ member community
+Created VibeMail, email infrastructure for AI agents
+Imagine giving AutoGPT a marketing KPI to hit and it autonomously works toward it. This is mind blowing.
+@boringmarketer 102.5K followers on X
+Sully Omar Co-founder, Ottogrid
+Built Ottogrid, acquired by Cohere
+Raised a $2M seed round led by GV
+Built research workflows running thousands of AI agents in parallel
+AutoGPT is taking the internet by storm. It's everywhere.
+@SullyOmarr 57.6K followers on X
+Natia Kurdadze Founder, Diptell · Business & IP advisor
+Builds Diptell PR, Viral SEO and Viral Marketing Lab
+Helped 300+ brands find paying users with growth playbooks
+LL.M. in IP & business law; completed WIPO specialist training
+The latest breakthrough in AI innovation is AutoGPT, which can essentially automate far more than ChatGPT!
+@natiakourdadze 43.5K followers on X
+A TEAM THAT FITS YOUR WORK
+Start with a week.
+See what’s possible.
+Pro covers Otto and Expert chat. Workflow runs draw on your credit wallet on every plan, with spending controls for each Expert.
+Compare all features
+Pro
+7 days free
+$50 / month after trial
+For everyday work with Otto and your Experts.
+Start free for 7 days
+Card required. No subscription charge today. Trial terms
+Max
+8.5× Pro usage
+$320 / month
+More capacity for a bigger workload.
+Start with Max
+Billed monthly. Cancel anytime.
+Save 15% with annual billing. See plans and billing options
+A FEW GOOD QUESTIONS
+Get to know
+your new team.
+Explore the docs
+What is an AutoGPT Expert?
+An Expert is an AI specialist you can work with directly. Each has a role, instructions, skills, and workflows for a particular kind of work. Hire a ready-made expert or create your own, then give it the context and app access it needs.
+What does Otto do?
+Otto is your Head of AI: the generalist at the head of your team. Tell it what you want done, ask it to involve the right expert, or catch up on the team's work. You can also talk directly to any expert.
+Do I need to build a workflow first?
+No. Start with a conversation and a ready-made expert. Experts can use skills and workflows to carry out the work you give them. The visual builder is available when you want to define the steps yourself.
+Can experts work on a schedule?
+Yes. Set up a routine or scheduled workflow for recurring work. Your expert may need details, connected services, and your instructions before it can run. You can review the work and adjust or pause its schedules.
+What do I control?
+You choose an expert's instructions, the connected accounts it can use, and the workflows installed on it. You can set expert spending controls, review results and requests, and change or pause scheduled work. AI output still needs your judgment.
+Does hiring an expert cost extra?
+Hiring an Expert has no separate hiring charge. Pro costs $50/month and covers Otto and Expert chat. Workflow runs draw on your credit wallet on every plan, and you can set spending controls for each Expert. Annual Pro billing is $510/year, equivalent to $42.50/month.
+How does the free trial work?
+Eligible new accounts can try Pro free for 7 days. A card is required, with no subscription charge today. After the trial, monthly Pro is $50/month. Trial usage limits apply, and canceling ends trial access. Your eligibility and exact offer terms are confirmed at checkout.
+Can I still use the visual builder or self-host?
+Yes. The visual builder remains available for creating and inspecting workflows step by step. You can also self-host AutoGPT for free with a single Docker command, supplying and managing your own infrastructure and model access.
+YOUR NEXT CHAPTER STARTS HERE
+What would you do
+with a team behind you?

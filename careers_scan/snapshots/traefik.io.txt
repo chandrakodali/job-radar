@@ -1,0 +1,313 @@
+Products
+Traefik Proxy Traefik Hub API Gateway Traefik Hub API Management AI Gateway API Mocking
+Solutions
+Kubernetes Ingress Kubernetes Gateway API Knative Serving Ingress NGINX Provider OSS Support Modern API Gateway Web Application Firewall AI Gateway MCP Gateway Traefik MCP Server
+New!
+Hardened Secure Image
+FIPS 140-3
+Verifiable Agent Evidence
+GitOps-Driven API Management Runtime API Governance Air-Gapped API Management API Mocking Docker Swarm Ingress
+Partners
+HashiCorp Microsoft Nutanix for Enterprises Nutanix for Service Providers
+Oracle OCI SUSE AI Factory
+Spectro Cloud PaletteAI
+VMware VCF
+Why Traefik
+Traefik Labs Manifesto Success Stories vs Apigee vs AWS vs Azure vs Gravitee vs Kong vs Tyk See more comparisons
+Resources
+Blog Resource Library Glossary Events Plugin Catalog Community Forum
+Docs
+Pricing
+Join our team
+We're creating cloud native solutions that application teams love to use.
+Help us on our journey to build the future of application connectivity and API management!
+Our Values
+Openness
+A way of living, working, building the future together, being open to many possibilities.
+Trust
+Trusted relationships, confidence and reliability to build a better company.
+Excellence
+Being the best, and delivering the best as a team.
+Humility
+Being humble and respectful with everyone; there is much to learn from others.
+We are remote friendly!
+Our teams are all over the globe
+Open Positions
+See something that interests you? Apply today.
+Technical Product Manager
+Worldwide (European Hours Overlap Preferred)
+Full Time
+Product
+The Reality
+We're a ~40 person company with more than 3.5 billion downloads of our open-source cloud-native proxy. Traefik runs in production across financial services, healthcare, retail, transportation, and the public sector, and it ships as the default ingress in several major Kubernetes distributions. We're building partnerships with NVIDIA, Oracle, Nutanix, HPE, SUSE, Microsoft, and more. The market moved toward us this year. Ingress NGINX is deprecated, every enterprise is putting AI into production, and both of those problems land squarely on the connectivity layer we own.
+With all these, product demand is outrunning what the current team can cover. We need another product manager who can hold the line across engineering, sales, marketing, and customers without dropping any of them. The bar is high because the people already doing this work set it high.
+What We're Building
+Traefik Labs builds the connectivity layer for modern infrastructure. It started with Traefik Proxy, the OSS gateway most teams meet first. On top of that sits Traefik Hub: an enterprise API Gateway with security and governance, plus full API Management with developer portals, versioning, and lifecycle controls, all driven by GitOps.
+The newer work is where the pressure is highest. AI Gateway puts guardrails and observability in front of LLM traffic. MCP Gateway governs how AI agents reach the tools and servers they call. We ship air-gapped deployments for regulated environments and zero-egress operations for teams that can't send anything outside their own walls. Global enterprises are deploying it right now, and they expect it to hold.
+If you want to see how we think rather than how we market, read our blog.
+The Role
+You'll join the product team as a peer to other product managers and split the surface area.
+A product manager here is closer to an individual contributor than a coordinator. You'll write the spec and then test the thing you specified. You'll sit in a customer call in the morning, tear down a competitor's gateway in the afternoon, and sketch a mockup that evening because engineering needs to see it before the next standup. The job pulls in several directions at once, on purpose. If that sounds exhausting rather than energizing, this isn't the seat for you.
+We're explicit about one thing. We want a strong practitioner: someone who has shipped real things and still gets close to the work. A purely theoretical product leader will be bored here, and an engineer who treats the roadmap as a place to push personal preferences will clash with the team. Ideas win here on their merit, and they can come from anyone.
+What You'll Actually Do
+Own a slice of the product end-to-end. Decide what gets built and why, write the feature specs, then verify the result against real environments, the way a user would actually hit it.
+Do competitive research with your hands. Stand up the competitor's product, push it until it falls apart, and write down what's actually true. We would rather name a real gap in our own product than invent one in theirs.
+Build and break things yourself. Set up a Kubernetes cluster, deploy and configure the gateway, and reproduce what a customer is hitting. A working prototype beats three paragraphs when you're aligning with engineering.
+Write for practitioners. Blog posts, webinar content, and partner material that an infrastructure engineer would actually finish reading. Marketing will pull you into this work, and you should want to go.
+Talk to customers directly. Discovery calls, POC check-ins, roadmap conversations. You'll hear the edge cases that challenge our assumptions, and your job is to carry them back into the roadmap where they can make a difference.
+Shape the roadmap with evidence. Bring the customer signal, the competitive reality, and the technical constraints into the same room, then help decide what's worth doing next.
+Run engineering workshops and review docs. Sit with engineers on design decisions. Read the documentation before it ships and flag any deviations from how the product actually behaves.
+Travel for work that needs a room. Conferences, partner sessions, and a handful of trips across the year.
+How We Expect You to Use AI
+We use AI heavily, and we have a rule about it. You control the AI, it does not control you. Use it to move faster on research, drafts, and analysis. Never ship its output without verifying it yourself. We have lost enough hours to confident wrong answers to know the difference between a tool and a crutch. We want a product manager who uses AI effectively and takes ownership of the result. Forwarding whatever the model said, unchecked, is a risk we screen against.
+Who Won't Succeed Here
+Let's be direct about what doesn't work:
+People who spec but won't build. If you can write a beautiful PRD but can't deploy to Kubernetes or read YAML, you'll stall in the first week.
+The 9-to-5 fit. This is not a clock-in role. We're looking for someone who lives a little with the product, who thinks about it in the shower and tinkers with it on a Sunday because they want to.
+Engineers who use the roadmap to win arguments. Strong technical opinions are welcome. Bring the user and market cases with you, because an opinion without that backing won't move the roadmap here.
+Anyone who needs a finished playbook. The AI gateway space is being defined as we build it. You'll be drawing parts of the map yourself, in territory no one has fully charted.
+People who take AI output on faith. If "the model said so" is your evidence, we'll find out fast.
+The single-lane specialist. One hour it's MCP agent governance, the next it's a blog draft, then a competitive teardown. Context switching is the job itself, and it rarely lets up.
+Who Will Thrive
+Non-Negotiable Requirements
+A real technical background. You may never have carried the PM title, and that's fine. We expect you've earned equivalent ground as a startup CTO, product owner, architect, lead or senior developer, or a project manager who lived close to the build.
+Hands-on Kubernetes, well past "familiar with." You can create a cluster, deploy workloads, debug ingress and RBAC, and reason clearly about what's happening when things misbehave.
+Extreme ownership. When something is broken or unclear, you take it on, find the roadblock, and remove it yourself.
+Honest feedback, both directions. You give it straight and constructively, and you take it without flinching. No politics, no passive aggression. We hold each other to a high bar and expect you to hold us to it too.
+A feel for Day 2. You judge a feature by what it's like to live with once the demo is over. Platform teams are the people who run this in production at 2 am, and we want them to love working with the product so much that they become our champions. If your specs stop at "it works" and skip "it's a pleasure to operate," that's a gap.
+Customer instinct. You work backward from the user's context and keep their perspective in mind while the rest of the company pulls you elsewhere.
+Strong Bonus Points
+You already know Traefik, ideally because you run it. A homelab with Traefik in front of your own services tells us more than any certification.
+You understand the API landscape. Gateways, management, governance, the patterns, and the tradeoffs between them.
+Experience with AI or LLM infrastructure, agents, or MCP.
+Familiarity with air-gapped or regulated environments.
+A track record of writing what practitioners actually read, or of speaking at community events.
+Comfort with GitOps, Helm, and IaC, and the architecture enterprises actually deploy software.
+How We Work
+We run on these, and they show up in how we make decisions:
+Ideas and Facts Compete. Not People & Politics. We debate from first principles, and the best argument wins regardless of who raised it.
+High End-User and Market Quotient. We work backward from the customer and put in real effort to understand their context.
+Play Chess. Not Checkers. We make bold, strategic moves that earn us leverage and compounding advantages.
+Extreme Ownership, becoming a High-Agency Mindset. We get the job done and clear our own roadblocks along the way.
+Radical Candor. No Bullying. No Passive Aggressiveness. Honest feedback, mutual respect, and a high bar held consistently.
+If reading these made you nod, good. If it made you wince, this probably isn't the place.
+Why This Opportunity Is Special
+You help define the connectivity layer for AI while it's still being defined. AI Gateway, MCP Gateway, agent governance. These are open questions in the industry right now, and you'd be shaping the answers.
+Massive OSS reach. More than 3.5 billion downloads and 63K GitHub stars. Many of the people you build for already run Traefik and just need to see what the enterprise layer adds.
+Real influence on a small team. Thirty people. Your decisions reach production fast, with no committee sitting between you and the impact.
+A product team that argues well. You'll work with PMs who hold the bar high and expect you to push back when you're right.
+A genuine connection to the practitioner's roots. We care about the engineers and “homelabbers” who made Traefik what it is, and the PM has a direct hand in keeping that bond honest.
+Compensation and Logistics
+Competitive base salary and meaningful equity in a company with real fundamentals and real growth.
+Full benefits.
+Remote-first. We lean toward candidates who align with European working hours, since much of the product and engineering team is based in the EU.
+The team meets in person regularly, and the role involves travel to conferences, partners, and the occasional customer site. Expect a handful of trips across the year.
+If you've been doing this work without the title, and the idea of owning a piece of the future of networking and AI sounds like the best kind of hard, let's talk.
+Apply Here
+More Info
+EMEA Solutions Architect
+EMEA
+Remote
+Reports to CEO
+We're a 30-person company with more than 3.4 billion downloads of our open-source cloud-native API gateway. Our technology powers critical infrastructure across financial services, healthcare, retail, transportation, and public-sector organizations globally. We're building strategic partnerships with NVIDIA, Oracle, Nutanix, HPE, SUSE, Microsoft, and others. We're at an inflection point where AI security and cloud-native adoption are creating unprecedented demand for what we've built.
+We have a strong technical team, but customer demand is outpacing our capacity. We need another exceptional solutions architect who can meet the bar our existing team has set. That means deep technical expertise, excellent customer presence, and the ability to solve complex problems under pressure.
+Traefik Labs provides the connectivity layer for modern infrastructure. We started with the most popular cloud-native API gateway (Traefik Proxy), then added enterprise API Gateway capabilities with security and governance, and now offer full API Management with developer portals, versioning, and lifecycle controls (Traefik Hub).
+Recently, we've added AI Gateway for securing LLM deployments and MCP Gateway for AI agent governance. These aren't theoretical features. Enterprises are deploying AI in production right now and need someone who can design the architecture, prove it works, and get it into production with security, scalability, and observability.
+You'll join our solutions architecture team in EMEA, reporting directly to me (the CEO). The bar is high because our existing solutions architects are exceptional. You'll need to be technical enough to architect complex deployments, solve real problems in customer environments, and write code when required. But you also must be comfortable in front of technical leaders, CTOs, present at industry events, and win technical trust in high-stakes evaluations.
+You'll work on landing new logos and expanding existing customers. That means everything from initial technical discovery calls to POCs to post-sale technical expansion discussions. You're part forward-deployed engineer, part trusted advisor, part problem solver.
+Run technical discovery and solution design. Understand customer architecture, identify requirements, and design how Traefik fits their infrastructure. Sometimes this means whiteboarding. Sometimes this means reading their Kubernetes manifests.
+Lead proof-of-concept engagements. Build the demo environment. Configure the deployment. Debug issues. Write scripts and automation. Get it working in their environment, not just yours.
+Present to technical audiences. Explain API gateway architecture to platform engineers. Present security models to CISOs. Lead technical workshops for DevOps teams. Stay in the technical domain.
+Solve real customer problems. Air-gapped deployments. Multi-cluster Kubernetes. Complex authentication flows. NVIDIA NIM integration. You figure it out, document it, make it repeatable.
+Work with product and engineering. You'll see use cases we haven't considered, edge cases that break assumptions, and features customers actually need. Feed that back. Influence the roadmap.
+Contribute to reference architectures and technical content. Expand our deployment patterns, create integration guides, and document best practices. Build on what the team has started.
+Support the sales team. Help qualify opportunities. Run technical workshops. Defend the architecture in competitive situations. Make sure we're bidding on deals we can actually win.
+Expand existing customers. Work with current customers on new use cases, additional clusters, and API Management upgrades. Figure out what else they need and how we can help.
+Pure presenters who can't build. If you're great at slides but can't actually deploy Kubernetes, troubleshoot networking, or read YAML, this isn't for you.
+Engineers who can't talk to humans. If you're brilliant technically but can't explain concepts to non-technical audiences or read the room in customer meetings, you'll struggle.
+People who need perfect documentation. There's no complete playbook. Customer scenarios vary wildly. You need to figure things out, not wait for instructions.
+Solutions architects who won't get their hands dirty. Sometimes you need to SSH into a customer's server, debug a configuration, or write a quick script. That's part of the job.
+Anyone allergic to ambiguity. Customer requirements are often unclear. Use cases evolve. You need to navigate uncertainty and still deliver results.
+People who can't context-switch. One day, you're deep in Kubernetes networking. The next day, you're discussing AI security models. Then you're presenting architecture to a CISO. That's the reality.
+Engineering background. You've written production code, deployed distributed systems, and debugged complex technical problems. This isn't a learn-on-the-job role.
+Natural in front of customers. You're comfortable presenting to technical leaders, CTOs, leading technical workshops, and building trust with skeptical engineering teams. High EQ matters as much as technical depth.
+Problem solver at heart. When things don't work, you dig in. You read docs, review logs, and test hypotheses. You don't give up or deflect to others.
+Forward-deployed engineer mindset. You're willing to work in customer environments, adapt to their constraints, and build what's needed to make the POC succeed.
+Technical Experience
+5+ years working with Kubernetes in production. You understand pods, services, ingress, operators, RBAC, and network policies. You've dealt with multi-cluster, multi-tenant architectures.
+Deep understanding of API gateways, ingress controllers, or API management solutions. You know the patterns, the tradeoffs, the edge cases.
+Strong networking fundamentals. Load balancing, TLS/SSL, DNS, HTTP/HTTPS, TCP/UDP. You can troubleshoot connectivity issues.
+Experience with authentication and security. OAuth, OIDC, JWT, LDAP, mTLS. You understand enterprise security requirements.
+Hands-on coding ability. You can write scripts, automate deployments, and build demo environments. Go, Python, or similar languages.
+Infrastructure as code experience. Terraform, Helm, GitOps workflows. You know how enterprises actually deploy software.
+Bonus Points
+Previous pre-sales or solutions engineering experience at an infrastructure or security company.
+Experience with AI/ML infrastructure, LLM deployments, or GPU clusters.
+Knowledge of API management platforms, developer portals, or API lifecycle tools.
+Familiarity with air-gapped or highly regulated environments (government, financial services, healthcare).
+Active in the CNCF community, conference speaker, or technical blogger
+Experience with open-source communities and understanding of OSS to commercial conversion dynamics.
+Why This Is Special
+Direct CEO access: You'll report to me. Weekly 1:1s. Direct input into product strategy and technical direction. Your field experience will shape what we build.
+Join an excellent team: Our existing solutions architects are exceptional. The bar is high. You'll work with talented peers who solve hard problems and win complex technical evaluations.
+Massive OSS install base: 3.4 billion open-source downloads, 58K GitHub stars. Thousands of enterprises across financial services, healthcare, retail, transportation, and government already run Traefik in production. Many of your POCs will be with existing users who just need to see the enterprise value.
+Strategic partnerships: We're building relationships with NVIDIA, Oracle, Nutanix, HPE, SUSE, Microsoft, and others. Early days, but you'll work on joint technical integrations and co-sell opportunities.
+Cutting-edge problems: AI Gateway security, MCP Gateway for AI agents, air-gapped Kubernetes deployments. You're solving problems that enterprises are facing right now, not five years from now.
+Proven across industries: Financial services, healthcare, retail, transportation, public sector. You'll work with sophisticated technical teams across every major vertical.
+Product influence: Our SA team has a strong voice with product and engineering. Your field experience and customer insights will contribute to roadmap decisions and feature priorities.
+Real impact: Help us scale our technical sales motion. Work with an excellent existing team to refine POC methodologies, expand reference architectures, and handle growing customer demand.
+Compensation
+Competitive base salary and meaningful equity in a company with strong fundamentals and real growth
+Performance bonus tied to closed deals and customer success metrics
+Full benefits: health, dental, vision, 401(k), unlimited PTO
+Remote-first across North America with travel to conferences & company get-togethers (expect 10-15% travel)
+If you're ready to join an excellent technical team and solve hard customer problems, let's talk.
+Enterprise Account Executive
+North America
+We're a 30-person company with 3.4 billion downloads of our open-source cloud-native API gateway. Our technology powers critical infrastructure across financial services, healthcare, retail, transportation, and public sector organizations globally. We're building strategic partnerships with NVIDIA, Oracle, Nutanix, HPE, SUSE, Microsoft, and others. We're at an inflection point where AI security and cloud-native adoption are creating unprecedented demand for what we've built.
+But here's what we don't have: a mature sales organization, established processes, or an army of support staff. What we do have: world-class technology, massive market opportunity, strategic partnerships that open doors, and a CEO who wants to build the right sales team from the ground up.
+Traefik Labs provides the connectivity layer for modern infrastructure. We started with the most popular cloud-native API gateway (Application Proxy), then added enterprise API Gateway capabilities with security and governance, and now offer full API Management with developer portals, versioning, and lifecycle controls.
+Recently we've added AI Gateway for securing LLM deployments and MCP Gateway for AI agent governance. Enterprises are deploying AI in production and need infrastructure they can trust. That's where we come in.
+You'll be one of our first enterprise account executives in North America, reporting directly to me (the CEO). This means you'll have visibility into everything we're building, direct input into product and go-to-market strategy, and the autonomy to shape how we sell.
+You'll own the full sales cycle. Build your pipeline through outbound, inbound, and partner channels. Navigate complex deals involving platform engineers who care about technical depth and executives who care about business outcomes. Close six-figure deals while helping us figure out what works at scale.
+Hunt and close enterprise deals. No SDR feeding you leads. You prospect, qualify, demo, negotiate, and close. The advantage: our 3.4 billion open-source downloads mean thousands of companies are already running Traefik in production. Your job is to identify these OSS users and convert them to enterprise customers.
+Sell to technical buyers and executives simultaneously. Platform engineers need to trust the architecture. CFOs need to understand the ROI. You handle both conversations.
+Work directly with product and engineering. You'll see customer requirements that should influence our roadmap. Bring them back. Debate priorities. Help us build what matters.
+Figure out pricing and packaging. We have a model, but every deal teaches us something. You'll contribute to how we think about value and structure agreements.
+Activate our strategic partnerships. We're building relationships with NVIDIA, Oracle, Nutanix, HPE, Microsoft, and others. Some are further along than others. Your job is to find the co-sell opportunities and make these partnerships productive.
+Drive technical validation. Work with our pre-sales team to run POCs that actually convert. Manage timelines, clear blockers, keep deals moving.
+Report to the CEO weekly. I want to know what you're seeing in the market, where we're winning, where we're losing, and what needs to change. Real insights, not sanitized updates.
+Let's be direct. We've made hiring mistakes before. These types of people didn't work out:
+Smooth talkers who can't execute. If you're better at presentations than closing deals, this isn't for you.
+People who don't sweat the details. In infrastructure sales, one missed technical requirement kills the deal. You need to be meticulous.
+Sales reps who need structure. There's no playbook yet. You'll help write it. If you need clear processes handed to you, look elsewhere.
+Anyone who wants to stay in their lane. One minute you're discussing Kubernetes architecture, the next you're building an ROI model, then you're on a call with me about competitive positioning. That's the job.
+People who expect support infrastructure. No SDR team. No deal desk. No sales ops building your reports. You own it.
+Reps who can't think on their feet. When a CTO asks about air-gapped deployments or NVIDIA NIM integration, you need to engage in real-time, not defer to others.
+Required Experience
+5+ years selling enterprise infrastructure or security software with proven quota attainment. We care more about how you won than what you sold.
+Track record selling to technical buyers. Platform engineers, DevOps teams, security architects. People who ask hard questions and don't buy based on slides.
+Deep enough technical understanding to hold your own. You don't need to write code, but you should understand Kubernetes, API gateways, authentication models, and distributed systems concepts.
+Obsessive attention to detail. You track commitments. Follow up on every technical question. Never let things slip. In complex technical sales, details matter.
+Comfort wearing multiple hats. You'll contribute to product discussions, pricing strategy, competitive analysis, and partnership plays. If you only want to sell, this isn't it.
+Strong organizational skills. You're managing complex deals, partner relationships, and internal coordination solo. Nothing can fall through the cracks.
+Self-starter mindset. You build your own pipeline, create your own tools, solve your own problems. High autonomy, high accountability.
+Previous startup experience (Series A to C). You know what it's like to build in an environment without perfect infrastructure
+Experience with AI/ML infrastructure or API management platforms
+Familiarity with the CNCF and Kubernetes ecosystem and technologies
+Track record activating technology partnerships. Not just passing leads, but building joint value propositions and co-selling
+Experience with open-source commercial models where community credibility matters
+Direct CEO access: You'll report to me. Weekly 1:1s. Direct input into strategy. Your voice matters here.
+Build from the ground up: You're not joining a 500-person sales org with rigid processes. You're helping define how we scale.
+Massive OSS install base: 3.4 billion open-source downloads, 58K GitHub stars, default ingress in major Kubernetes distributions. Thousands of enterprises across financial services, healthcare, retail, transportation, and government already run Traefik in production. You're not cold calling. You're converting open-source users who already depend on the technology into paying customers.
+Strategic partnerships: We're building relationships with NVIDIA, Oracle, Nutanix, HPE, SUSE, Microsoft, and others. Early days, but the foundations are there. You'll help turn these into productive selling relationships.
+Cutting-edge technology: AI Gateway, MCP Gateway, API Management. You're selling solutions enterprises are actively looking for right now.
+Proven across industries: Financial services, healthcare, retail, transportation, public sector, and government organizations trust us with production infrastructure. You walk into deals with credibility across every major vertical.
+Market timing: Every enterprise is deploying AI. Every enterprise needs API governance. Every enterprise is modernizing infrastructure. The market is coming to us.
+Real impact: Your first year will shape how we sell for the next decade. You'll build the playbook, define the motion, prove what works.
+Uncapped commission structure. We want you making a lot of money because that means we're winning
+Remote-first across North America with travel to customer sites and team gatherings
+If this sounds like the opportunity you've been looking for, let's talk.
+We're building something real here. If you want to be part of that, we want to meet you.
+Senior Solutions Architect
+You'll join our solutions architecture team in North America, reporting directly to me (the CEO). The bar is high because our existing solutions architects are exceptional. You'll need to be technical enough to architect complex deployments, solve real problems in customer environments, and write code when required. But you also must be comfortable in front of technical leaders, CTOs, present at industry events, and win technical trust in high-stakes evaluations.
+You'll work on landing new logos and expanding existing customers. That means everything from initial technical discovery calls to multi-week POCs to post-sale technical expansion discussions. You're part forward-deployed engineer, part trusted advisor, part problem solver.
+Support Engineer
+South America
+Engineering
+Join the Traefik Labs Support Team and Make a Difference!
+Are you passionate about solving technical challenges and delivering exceptional customer experiences? Traefik Labs, a leading API Gateway and API Management solutions provider, is seeking to grow its team with talented Support Engineers.
+What You'll Do:
+Customer Champion: You’re the first line of defense for our customers. You handle support tickets and provide timely, effective solutions.
+Technical Problem Solver: Dive deep into complex issues, and work closely with our engineering team to reproduce and resolve problems.
+Product Innovator: Collaborate with our sales, solution architecture, and field engineering teams to understand customer needs and identify opportunities for product improvement.
+Knowledge Sharing: Contribute to our vibrant community by writing technical blog posts, creating documentation, and sharing your expertise.
+What You'll Need:
+Technical Proficiency: Strong understanding of container technologies (Kubernetes, Docker) and cloud environments. Networking experience is a must-have and has become second nature.
+Problem-Solving Skills: A knack for troubleshooting and a dedication to finding solutions.
+Communication Skills: Excellent English written and verbal communication skills to effectively interact with customers and team members.
+Teamwork: A collaborative spirit and the ability to work effectively in a fast-paced, global team.
+Time Zone: GMT -5 to GMT -2
+Why Join Traefik Labs?
+Cutting-Edge Technology: Work with the latest API gateway and API management technologies.
+Global Impact: Contribute to a product used by organizations worldwide.
+Career Growth: Opportunities to advance your technical skills and career within a dynamic company.
+Collaborative Culture: Join a supportive and passionate team that values innovation and teamwork.
+Open Source Pioneer: Our flagship Open Source Ingress Controller Traefik boasts over 3.5 Billion Downloads and global usage. It has become an industry standard.
+Technical Writer
+Worldwide
+We're looking for a Technical Writer who has a track record of owning docs, rather than just writing them.
+You'll be responsible for the full documentation lifecycle of Traefik and Traefik Hub: strategy, structure, content creation, and quality. You'll work closely with our other technical writer and our engineering team to turn complex cloud-native concepts into clear, accurate, developer-friendly documentation.
+This is not a "write what you're told" role. We need someone who can:
+Own the documentation strategy —Define what needs to be documented, how it should be structured, and in what order
+Write with authority —Produce clear, accurate, technically deep content about Kubernetes, Docker, API management, and cloud-native infrastructure
+Review and verify —Every piece of documentation must be tested against the actual product. We have zero tolerance for inaccuracy.
+Drive quality standards —Establish and maintain consistency in terminology, style, and structure across all documentation
+Collaborate with engineering —Work directly with developers to understand new features, architectural decisions, and implementation details
+Think developer-first —Our audience is infrastructure engineers and platform teams. Write for them, not for executives.
+What We're Looking For
+Must-have:
+Native English speaker with exceptional written communication skills
+3+ years of experience writing technical documentation for developer tools, infrastructure, or cloud-native products
+Strong understanding of Kubernetes, Docker, and cloud-native ecosystems
+Experience with docs-as-code workflows (Git, Markdown, CI/CD for docs)
+A track record of owning documentation, not just contributing to it
+Nice-to-have:
+Experience with API documentation (OpenAPI/Swagger)
+Familiarity with Traefik or similar reverse proxies / API gateways
+Ability to read and understand code (Go preferred)
+Open-source community experience
+Previous experience in a remote-first company
+What You'll Get
+Remote-first culture
+Direct impact on one of the most widely-used open-source projects in the world
+A team that values ownership, honesty, and getting things done
+Opportunity to work at the intersection of open-source and enterprise software
+Apply here
+Platform Engineer
+We are looking for a Platform Engineer to help our team improve and scale Traefik Labs products.
+If you’re excited about working in a fast-paced Cloud Native and Kubernetes environment where every contribution counts, and you want to make a direct impact on products used by thousands of developers worldwide, this role is for you.
+Your Mission:
+You will maintain and enhance our cloud platforms using GitOps best practices while ensuring compliance with SOC 2 standards
+You will work hands-on with our cutting-edge Infrastructure-as-Code stack across multiple cloud providers
+You will contribute to our open source projects – including Traefik – as well as our commercial offerings: API Gateway, AI Gateway, and API Management solutions
+You will support our global user base, troubleshooting issues and gathering feedback to drive continuous improvement
+You will participate in conferences & meet-ups – share our story, represent Traefik Labs, and learn from the cloud-native community
+What you’ll bring:
+You love technical challenges and solving complex problems!
+Open-Source technology is part of your culture – you believe in collaboration and transparency
+Security, automation, and testing matter to you – you never compromise on code quality
+You work as a team, not as an individual, and you thrive in collaborative environments
+You have hands-on experience with modern cloud infrastructure and an eagerness to learn and innovate
+You always keep the user experience in mind – from internal teams to end-users, delivering a seamless experience is part of your definition of “done”
+This position calls for the following qualities:
+You’re confident communicating in English: as a distributed company with team members in many countries, English is our working language
+A very strong team spirit: we believe the quality of our team is the number one asset of the company
+Extreme focus on meeting goals: We are fast-growing, but this is just the beginning; we are an industry leader that strives for perfect execution
+A creative mind who loves to share: while accomplishing goals requires focus, we do not work in silos; innovating and sharing matter to us
+Anything from a serious interest to a definite passion for Open Source
+Remote-first mindset: We embrace remote work, but our team meets regularly in person. Our ambition is international – as is our user base – so this role may involve some international travel
+The location
+100% Remote - In European Union
+You can try to resolve this technical challenge:
+docker run -it traefik/jobs
+Or Apply here:
+Developers & Systems Engineers
+We are looking for developers & systems engineers to help our team improve Traefik.
+You will develop Traefik, our flagship product
+You will work closely with Docker/Swarm, Kubernetes, Mesos, Rancher, …
+You will be part of a super-active open source project
+You will provide support to our user base
+You will participate in Conferences & Meet-Ups
+You love technical challenges!
+You have proven and successful experience in a project that involved a microservices architecture
+Open-Source technology belongs to your culture
+Code quality matters to you
+You work as a team, not as an individual
+A very strong team spirit: we believe that the quality of our team is the number one asset of the Company
+Extreme focus on meeting goals: we are fast growing, but this is just the beginning; we are an industry leader that strives for perfect execution
+Whatever your native language is, you have solid skills in English
+While we practice remote working, the team regularly meets in real life; the ambition is international – as is our users base – and the missions require various level of international traveling
+Don't see an opening that fits?
+Introduce yourself at
+[email protected]

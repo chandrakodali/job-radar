@@ -1,0 +1,7 @@
+Join Us
+We are building systems for programmable enzyme design across data,
+modeling, and experimental feedback.
+If you are an engineer, data scientist, researcher, or wet-lab
+biologist interested in biology, enzymes, and building systems that
+design new enzymes on a weekly basis, we would like to hear from you
+at jobs@ligo.bio .

@@ -1,0 +1,79 @@
+See the layout →
+Not just looks: 576 mods add features too →
+One sentence in.
+A different app out.
+Ask your agent to change Herdr. Try one:
+Your agents,
+from anywhere.
+They run on your machines, not in a window. Check on them from the app on any computer or from your phone, at home or away. Herdr connects over SSH, and Tailscale works too.
+Every machine Add your server, a VM or a cloud sandbox. Its agents join the same sidebar and keep running while your laptop sleeps.
+Your phone See who needs you, open the real terminal and answer: type, paste a screenshot or talk. More →
+Nothing in between Your phone and your computers talk straight to your machines. No account, and your terminals never pass through us.
+Your agents run agents.
+And hear back.
+Your agent can hand a review or a test run to another agent and keep working. When the helper finishes, its report shows up in your agent's input, so you never copy anything between windows.
+It starts helpers hc run --bg codex "review my diff. Done: hc send t1" Any agent can start another, like Claude, Codex or a test script, and tell it where to report.
+It steers them hc send t3 "take another look" While a helper works, your agent can change its task or answer its questions.
+They report back <hc from="t3 reviewer"> Reports, exits and requests for help go to your agent. You only see the result.
+README.md
+01 See who needs you 02 Close it, they keep working 03 Every machine in one sidebar 04 Change anything 05 Any agent 06 Open source 07 Questions
+## See who needs you
+Each agent tells Herdr whether it's working, done or waiting on you. The sidebar and the tab show which one needs you, so you can stop checking the rest.
+Use a space for each repo and a tab for each task.
+## Close it, they keep working
+Your agents run in herdr-core , a small server on your machine, not in the window. Quit the app, update it or let it crash, and every terminal is still where you left it.
+More about herdr-core →
+## Every machine in one sidebar
+Add any machine you can reach over SSH, like a server, a VM or a cloud sandbox. Its spaces and agents show up in the same sidebar under its name, and you start agents there the same way.
+# or ask your agent: "add my server vps"
+hc machine add vps
+Its agents keep running there while your laptop sleeps or the app is closed.
+## Change anything
+Herdr keeps its layout, sidebar, tabs, keys and themes as plain files in ~/.config/herdr-app . An AGENTS.md in there explains them to your agent. You say what you want and your agent writes it.
+~/.config/herdr-app/
+├── AGENTS.md what your agent can change
+├── settings.json fonts, theme, sounds
+├── keys.json
+├── layouts/
+│ ├── main.json
+│ └── board.json
+├── mods/
+│ ├── agents/main.js
+│ └── tabs/main.js
+└── themes/
+❯ put a timer on each tab: how long its agent has been working
+⏺ Update (mods/tabs/main.js)
+⎿ Updated mods/tabs/main.js with 6 additions and 1 removal
+⏺ Done. Each tab shows how long its agent has been at it.
+## Any agent
+Herdr runs real terminals, so your agents work the way they do now. Agents that support OSC 7501 , an open status protocol, also show whether they're working, done or need you. Your own script can do it with one line.
+# one line, and your own script is an agent too
+printf '\e]7501;state=blocked:app=my-agent\e\\'
+## Open source
+The app, herdr-core and Herdr TUI are open source under Apache 2.0. You can read the code, change it, or build your own app on top of herdr-core.
+herdrdev/herdr-app → herdrdev/herdr-core → herdrdev/herdr →
+## Questions
+What is Herdr?
+A native app for running coding agents. They run in herdr-core, so they keep going when you close the window, and your agent can change any part of the app.
+How is it different from Herdr TUI?
+Herdr TUI is the original Herdr: a terminal app with its own server. This is a new, separate program built on herdr-core. They don't share agents, so what runs in one doesn't show up in the other. Herdr TUI keeps working, and everything for it is at herdr.dev/tui .
+Which agents does it work with?
+Anything that runs in a terminal. Agents that speak OSC 7501 , an open protocol for reporting status, also show whether they're working, done or need you. An agent that doesn't speak it still runs, just without a status.
+My agent doesn't show up in the agents list
+The list shows agents that report their status through OSC 7501, so check these:
+Older versions of an agent may not report it yet. Update the agent.
+An agent running inside tmux within Herdr can't report through tmux. Run it in a Herdr pane directly.
+Agents started in Herdr TUI live in its own server, so they don't show up in the app.
+What happens when I quit, update or reboot?
+Quitting or updating the app changes nothing: every agent keeps running in herdr-core. If the machine reboots or herdr-core stops, the programs stop too. Their panes come back with a shell in the same folder, but Herdr doesn't restart an agent or resume its work in progress. Start it again and carry on.
+Which systems does it run on?
+macOS (Apple silicon), Linux (x86_64 and arm64) and Windows (x86_64). Other machines join over SSH, whatever they run. On your phone: iPhone, iPad and Android, from the App Store and Google Play.
+Is it free?
+Yes. The app, herdr-core and Herdr TUI are all open source.
+No two Herdrs
+look alike.
+Download for Mac or install from the terminal:
+$ curl -fsSL https://releases.herdr.dev/app/install.sh | sh
+$ powershell -c "irm https://releases.herdr.dev/app/install.ps1 | iex"
+Paste it in a terminal.
+All downloads and what happens next →

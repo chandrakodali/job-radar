@@ -1,0 +1,62 @@
+At Denki, we're building the next generation of AI-powered educational tools that help students learn more effectively. Our mission is to revolutionize how students at all levels study, revise, and master complex subjects.
+We're looking for talented individuals who are passionate about education, technology, and making a meaningful impact. If you thrive in a fast-paced, innovative environment and want to help shape the future of learning, we'd love to hear from you!
+Open Positions
+Founding Engineer
+The Role:
+As a Founding Engineer at Denki, you'll help architect and build our core learning platform from the ground up. You'll work directly with our technical founders to implement crucial features, establish engineering best practices, and create scalable systems that power our AI-driven educational tools.
+What You'll Do:
+Design and implement core features of our AI-powered learning platform
+Collaborate with AI researchers to integrate advanced machine learning models
+Build robust, scalable backend services and intuitive frontend experiences
+Help establish engineering culture, coding standards, and technical decision-making processes
+Work across the full stack to deliver exceptional user experiences
+What We're Looking For:
+3+ years of experience in software engineering, preferably in startups or fast-paced environments
+Strong proficiency in modern web technologies (React, Next.js, TypeScript, Node.js)
+Experience building and deploying production systems at scale
+Knowledge of machine learning and AI integration is a plus
+Passion for education and technology's potential to transform learning
+Ability to thrive in ambiguity and rapidly evolving environments
+Product Designer
+As a Product Designer at Denki, you'll shape how students and educators interact with our learning platform. You'll create intuitive, engaging experiences that make complex educational concepts accessible and help users achieve their learning goals.
+Design user-centered interfaces and experiences across our learning platform
+Create wireframes, prototypes, and high-fidelity designs for new features
+Collaborate with engineering and product teams to implement designs
+Conduct user research and usability testing to iterate on our product
+Develop and maintain our design system and visual identity
+2+ years of experience in product design, preferably for consumer applications
+Strong portfolio demonstrating UI/UX skills and problem-solving approach
+Proficiency with modern design tools (Figma, Adobe Creative Suite)
+Experience conducting user research and translating insights into design decisions
+Interest in education technology and AI-powered tools
+Excellent communication skills and ability to articulate design decisions
+Go-to-Market Business Interns
+As a Go-to-Market Business Intern, you'll support our efforts to bring Denki's innovative educational tools to students and institutions. You'll gain hands-on experience in growth marketing, sales, and business development in an early-stage startup environment.
+Assist with developing and executing marketing campaigns to reach students
+Support outreach to educational institutions and build partnerships
+Help analyze user data and market research to inform product decisions
+Contribute to content creation for social media, blog posts, and marketing materials
+Participate in customer discovery and feedback collection
+Current undergraduate or graduate student pursuing a degree in business, marketing, or related field
+Strong interest in education technology and startups
+Excellent communication and interpersonal skills
+Analytical mindset and attention to detail
+Self-starter attitude and ability to work independently
+Previous internship experience is a plus but not required
+Student Ambassadors
+As a Student Ambassador, you'll represent Denki on your campus, helping to introduce our learning tools to your peers. You'll provide valuable insights from a student perspective while developing marketing and leadership skills.
+Promote Denki's learning platform among your university community
+Organize demo sessions and workshops to showcase our tools
+Gather feedback from fellow students to help improve our product
+Create engaging content for social media and campus channels
+Represent Denki at relevant campus events and activities
+Currently enrolled university student with strong campus connections
+Enthusiasm for educational technology and AI-powered learning tools
+Strong communication and presentation skills
+Active presence on campus and involvement in student organizations
+Creative and entrepreneurial mindset
+Interest in marketing, technology, and education
+How to Apply
+We're excited to hear from talented individuals who want to help transform education with AI-powered tools. If you're interested in joining our team, please send your resume and a brief introduction to [email protected] .
+For engineering and design roles, please include links to your portfolio, GitHub, or relevant work samples. For business roles and student ambassadors, tell us about your interest in education technology and any relevant experience you have.
+Denki is committed to building a diverse and inclusive team. We welcome applications from people of all backgrounds, experiences, abilities, and perspectives.

@@ -1,0 +1,20 @@
+Careers
+Work at superglue
+We are building self-driving ERP implementations. Each of us owns a large part of the product, works directly with customers and ships to production every day.
+Open roles
+Founding Product Engineer Engineering · Munich · Full-time
+Is your role not listed? Send an open application .
+From the founders
+We started superglue in 2024 as an open-source tool that connects AI agents to any API, and we went through Y Combinator in the Winter 2025 batch. Our customers kept using it for the same work: moving data and setting up systems in ERP implementations. These projects take months of manual work, and most of it follows the same steps every time. So we decided to automate the whole implementation.
+Our goal is a self-driving implementation that runs from kickoff to go-live, while consultants set the direction and approve the work. Coding agents write most of our own code, so we can build this with a very small team. We hire rarely, and each person we hire owns a large part of the product.
+Adina Goerres
+Founder and CEO
+Stefan Faistenauer
+Founder and CTO
+What we value
+Ownership
+We take a problem from the first customer conversation until it works in production, and we stay responsible for it after that. Nobody has to follow up with us.
+Judgment
+We decide what to build and what to leave out. We check our own work before we ship it, and we can explain each decision.
+Communication
+We say clearly what we did, what is still open and what we need from others. When we disagree with a plan, we say so early.

@@ -1,0 +1,104 @@
+Careers at Pairio
+Build what
+keeps the
+world running.
+Machines keep the world moving. People keep those machines running. We build AI that puts their knowledge to work. Help us shape what comes next.
+Explore roles Start a conversation
+WORLDWIDE
+Curiosity. Craft. Ownership.
+WHAT YOU BRING. Explore roles
+The work ahead
+Hard problems. Tangible impact.
+Pairio develops an AI maintenance assistant for manufacturing and industrial teams. We help technicians find answers in technical documentation, capture practical knowledge and troubleshoot machine breakdowns. This is software built around the people doing the work.
+Explore the product See Pairio at Knipping
+Build for the shop floor.
+Start with the technician, the machine and the moment something stops working. Make the next step clearer.
+Bring depth. Take ownership.
+Apply your experience to decisions that matter: how the product works, how we build it and how customers succeed.
+Connect the disciplines.
+The best industrial AI brings engineering, product and customer understanding together. Think beyond your own function.
+Find your next challenge
+Where you could make a difference.
+These are the areas in which we welcome conversations with experienced people. They are exploratory role profiles, not confirmed job openings. Tell us where your experience fits and we’ll discuss whether there is a match.
+All genders welcome
+01 Engineering
+Senior AI Engineer
+Exploratory conversation
+Who we’re looking for
+We’re looking for an AI engineer who has taken LLM or machine learning systems beyond a demo and into production. You enjoy working with messy technical knowledge, testing what actually works and owning the quality of the answers people rely on.
+You’ll be a good fit if you bring
+Hands-on experience building and operating retrieval or LLM applications, including their data pipelines and evaluation.
+Strong software engineering skills and an ability to weigh answer quality against latency, cost and reliability.
+A habit of testing assumptions with real users and explaining technical trade-offs clearly to product colleagues.
+What you would work on
+Build retrieval and reasoning workflows across technical documentation and maintenance history.
+Define evaluations that measure answer quality, traceability and usefulness on the shop floor.
+Take AI capabilities from experiment to reliable operation with the product and engineering team.
+What to include in your email
+Your CV as a PDF, with a LinkedIn or professional profile link if you have one.
+A few personal lines on why you want to join Pairio, why this role interests you and what you would contribute.
+Include a short example of an AI system you shipped: your contribution, how you evaluated it and what you learned. A public project or GitHub link is welcome, if available.
+Apply by email careers@pairio.com
+Scope, location, working model and timing are discussed directly with the founders.
+02 Engineering
+Full-Stack Engineer
+We’re looking for a product-minded engineer who is comfortable owning a feature across frontend, backend and deployment. You have built software that real customers use, make pragmatic architecture decisions and care as much about a clear user experience as a reliable API.
+Experience shipping and maintaining full-stack web applications, from accessible interfaces to backend services.
+Confidence with API design, databases, authentication, automated testing and debugging production issues.
+The ability to scope an ambiguous problem, communicate trade-offs and improve a feature after customer feedback.
+Develop end-to-end workflows for troubleshooting, documentation and knowledge access.
+Connect industrial data sources through robust APIs and integrations.
+Shape architecture, performance and engineering standards as the product develops.
+Tell us about a product or feature you built end to end, the decisions you owned and its outcome. Add a GitHub, live product or project link if you can share one.
+03 Product & Design
+Product Designer
+We’re looking for a designer who can make complex B2B workflows feel straightforward. You move confidently from customer research to interaction design and implementation, and your portfolio shows how your decisions improved a product people actually use.
+A portfolio of shipped products showing your role, design reasoning and what changed for users.
+Experience running research, mapping complex workflows and testing prototypes with customers.
+Strong interaction and visual design skills, attention to accessibility and close collaboration with engineers.
+Understand technician workflows through research and direct customer conversations.
+Translate complex information into clear interactions, prototypes and product experiences.
+Develop a coherent design system together with engineering.
+Include your portfolio and one or two relevant case studies. Tell us which decisions were yours, what you learned from users and how the design changed as a result.
+04 Go-to-Market
+Enterprise Account Executive
+We’re looking for a consultative seller who can earn the trust of industrial decision-makers and own a complex B2B sales cycle. You ask good questions, build a credible business case and stay close to both the commercial decision and the customer’s operational reality.
+A track record of owning B2B software opportunities from prospecting and discovery through negotiation and close.
+Experience aligning technical users, executive sponsors and procurement around a clear business case.
+Disciplined pipeline management, thoughtful account planning and an ability to discuss measurable customer value.
+Develop opportunities with maintenance, production and operations leaders.
+Guide discovery, product conversations and commercial discussions with multiple stakeholders.
+Translate customer priorities into compelling business cases and a repeatable sales approach.
+Share a brief, anonymised example of a complex deal you owned: the buying group, your approach and the result. Relevant sales achievements and the markets you know are useful context.
+05 Go-to-Market
+Senior Customer Success Manager
+We’re looking for a customer success professional who stays close to users and turns a rollout into lasting adoption. You can guide a technical implementation, build relationships across an account and make customer value visible long after onboarding.
+Experience owning B2B SaaS onboarding, adoption and ongoing account development.
+Confidence coordinating technical rollouts and working with users, project owners and executive stakeholders.
+A practical approach to training, adoption metrics and turning customer feedback into clear product priorities.
+Guide customers through onboarding, adoption and expansion across production sites.
+Work with maintenance teams to define success and translate feedback into product improvements.
+Build practical enablement materials and lasting relationships with customer champions.
+Describe a customer rollout or adoption challenge you owned, what you changed and how you measured success. Keep customer names and sensitive details anonymous.
+Your strength doesn’t fit a title?
+Show us a problem you have solved, something you have built, or a perspective we should hear.
+Send an open application
+A direct connection
+Great work starts with a conversation.
+Email the founders with the role that interests you and your CV as a PDF. Tell us why you want to join Pairio, what draws you to this role and how your experience would help. Include the work example or portfolio described in the role profile. A few thoughtful paragraphs are enough; no separate cover letter is needed.
+careers@pairio.com
+The link opens your email app with the recipient and subject filled in. You can also copy the address and write to us directly.
+Applications are sent by email. This careers page has no application form, file upload or applicant account. Your message and any attachments are processed through our email systems.
+Good to know
+Before you say hello.
+What does Pairio build?
+Pairio has its office in Heilbronn, Germany, and develops an AI maintenance assistant for manufacturing and industrial teams. The product supports troubleshooting, technical knowledge access and maintenance documentation.
+How do I apply to Pairio?
+Email careers@pairio.com with the role title, your CV as a PDF and a few lines on why you want to join Pairio and what you would contribute. Include the relevant work example or portfolio requested in the role profile. No separate cover letter or applicant account is needed.
+Where would I work?
+Our office is in Heilbronn, Germany. The working model, any remote arrangement, employment terms and start date for a potential role are discussed individually with the founders.
+Can I send an open application?
+Yes. If your experience could help Pairio in another area, email careers@pairio.com and tell us what you would like to contribute. You can write in German or English.
+Strictly necessary
+Always active
+Analytics

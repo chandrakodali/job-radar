@@ -1,0 +1,54 @@
+← Back to home
+Build the research engine.
+We've kept the founding team small and the bar very high: PhD researchers and engineers who've published real work and shipped systems that run real money. You'd be in a room of people who are hard to keep up with, in the best way. We work in person in San Francisco, on founding roles with real equity, and you'd own a part of the system end to end.
+FOUNDING ROLE
+AI Research Engineer
+You build the system that does our research: agents that form hypotheses, run experiments against markets, and learn from what comes back, plus the models that make them better over time. Right now that means rigorously studying how automated research applies to problems like objective-function design, and building a leaderboard where LLMs run agentic research to develop algorithmic strategies in a production-grade environment. We're working to take ourselves out of the loop, and most of the hard problems are still open.
+WHAT YOU'D DO
+Design the loop itself: evolutionary search in the spirit of AlphaEvolve, and agent orchestration for unbounded, autonomous research
+Train and improve the models that drive how the system reasons, evaluates, and decides
+Design the objective functions and rewards the agents optimize, so the system chases real progress instead of gaming the metric
+Turn what each run learns into knowledge the system compounds on, so it gets sharper over time
+YOU MIGHT BE A GOOD FIT IF
+You have real depth in ML, as a researcher or an engineer (many of us have PhDs, but what you've built matters more than the credential)
+You can take a vague, open-ended problem and drive it to a working result on your own
+You're strong in Python and have trained models that made it into production
+You prefer fast loops and simple experiments to long solo efforts
+BONUS
+Experience with agents and LLM tool-use, reinforcement learning, or time-series modeling
+You've worked near markets, or another domain where the feedback is fast and unforgiving
+DETAILS
+Stack: Python, PyTorch, LLM and agent tooling, backtesting infra
+Location: San Francisco (in-person)
+Comp: $175K to $250K base, plus 0.25% to 1% equity
+Not sure you clear the bar? Reach out anyway.
+careers@ehl.markets →
+Quantitative Researcher
+You bring deep markets expertise to a lab that's automating its own research. You work closely with our AI research engineers: designing strategies, defining what good looks like, and building the harness their agents run in, so your judgment becomes something a system can search over and improve on its own. The better you are at the craft, the more there is to teach the machine.
+Research and design alphas and trading strategies across assets and horizons
+Build the features and market models the system searches over
+Build the research harness the agents are judged in: objective functions, evaluation, risk, and what survives out of sample
+Pair closely with the AI research engineers, turning your market judgment into agents that find strategies on their own
+You have a strong quantitative background and have built strategies that traded real money (many of us have PhDs, but a track record matters more)
+You think rigorously about overfitting, regimes, and why a backtest does or doesn't hold up
+You're fluent in Python and comfortable in messy market data
+You'd rather automate your own craft than guard it
+Crypto or high-frequency data, execution, or portfolio construction
+Background in statistics, ML, or time-series forecasting
+Stack: Python, pandas/NumPy, statistical and ML tooling, backtesting infra
+Comp: $150K to $250K base, plus 0.25% to 0.75% equity
+Infrastructure Engineer
+You build the platform the whole operation runs on, and you're the rare role that spans both halves of it: the AI system that keeps thousands of agents running experiments, and the trading systems that take the strategies they find to live markets. One week that's schedulers and reproducibility for research, the next it's market data feeds and execution. At our scale, most of it is built in-house.
+Run the scheduler and orchestration that keep thousands of concurrent agent jobs alive, with checkpointing and recovery when they fail
+Build the data layer that feeds them: market data feed handlers and research pipelines, from ingestion to clean, versioned datasets
+Make every result reproducible and traceable, from a config hash back to the run that produced it
+Take a validated strategy to market: exchange connectivity, order execution, and the monitoring to run it safely
+You have deep experience building and operating distributed systems in production (what you've shipped matters more than titles or degrees)
+You're fluent in Python and comfortable across Go, Kubernetes, and distributed compute or streaming frameworks like Ray, Spark, or Kafka
+You treat reliability as a discipline: monitoring, incident response, and not failing the same way twice
+You like range, and would rather work across research infrastructure and trading systems than specialize in one corner
+Low-latency or trading systems: market data feed handlers, exchange connectivity, or order execution
+Running large ML or research workloads on GPUs, with scheduling, checkpointing, and fault tolerance
+Stack: Python, Go, Kubernetes, streaming data, low-latency systems
+Comp: $175K to $250K base, plus 0.25% to 0.75% equity
+Not sure you clear the bar? Please reach out anyway.

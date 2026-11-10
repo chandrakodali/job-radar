@@ -1,0 +1,113 @@
+Products
+StackBill Portal
+Cloudstack as a Service
+Apache Cloudstack®
+Consulting
+IAAS design & build with
+Cloudstack
+VMware to Apache
+Cloudstack Migration
+Fully managed 24/7
+support
+Explore Marketplace Apps
+Add-on Plugins
+Solutions
+Public Cloud Services
+Kubernetes as a Service
+Block, File & Object Storage
+DR-as-a-Service (DRaaS)
+Database as a Service (DBaSS)
+Monitoring as a Service
+Resources
+Documentation
+Blogs
+Videos
+Case Studies
+Branding
+About Us
+Pricing
+Legal
+Legal Information
+EULA
+Try Stackbill
+Log in
+Join Us
+Why us?
+We are a public cloud management portal (CMP)
+development company with a mission to change public cloud industry by integrating open
+source solutions. StackBill is looking for people who are passionate about solving real
+world problems and loves working with other developers across the globe.
+We are active contributors to the open source Apache
+foundation community and strongly believe that amazing things happen when a passionate
+group of developers join forces together. We are a distributed team and our culture is
+firmly grounded on building a diverse team with a high level of collaboration and
+inclusiveness.
+Open Positions
+Sales (Senior) | 10+ Years
+Apply
+Now
+Location
+: Coimbatore, Tamil Nadu, India
+| Full Time
+Job Desc :
+StackBill is a pulic cloud service platform for ISPs, MSPs and datacenter. Based on
+the popular open source orchestration IAAS engine Apache CloudStack, StackBill lets
+the organization focus on faster go to market with applications, scaling them to
+handle multiple zones without having to worry about failures, scalability or
+visibility into the Billing & chargeback. We are seeking a 10+ years of experience
+in software sales especially on public cloud industry with strong English
+communication is a must.
+UI/UX (Senior) | 5+ Years
+StackBill is seeking a talented UI Engineer who also has backend experience and a
+passion for designing and building user interfaces with a developer-focused mindset.
+You will work closely with our engineering teams, treating developers as customers,
+to deliver high-quality, responsive, and user-friendly web applications. In addition
+to your frontend work, you will collaborate with backend engineers to ensure
+seamless integration between the frontend and backend services.
+Java Developer (Senior) | 10+ Years
+We are actively searching for an experienced and highly skilled Senior Software
+Backend Engineer who possesses a robust proficiency in crafting production-grade
+code, particularly in Java and Spring Boot, to develop high-performance services. In
+this pivotal role, you will leverage your extensive expertise to contribute to the
+architecture, design, and implementation of cutting-edge software solutions. As a
+key member of our engineering team, you will play a crucial role in elevating our
+technological capabilities and ensuring the seamless execution of sophisticated
+software projects. If you are passionate about pushing the boundaries of software
+engineering, possess a deep understanding of Java and Spring Boot, and thrive in a
+dynamic and collaborative environment, we encourage you to apply and become an
+integral part of our innovative journey.
+Java Developer (Junior) | 5+ Years
+Linux Engineer (Senior) | 7+ Years
+Experience with strong Linux domain knowledge and troubleshooting skills, scripting,
+debug and build tools. Experience in RedHat Linux OS & LVM, RAID. Knowledge/Hands on
+in RedHat cluster Experience in performance tuning of OS, Application and Databases.
+Relevant experience on a high-volume enterprise help desk or similar support role.
+Excellent hands-on experience on different Linux distributions Exposure on
+virtualization and cloud platforms. Exposure to performance tuning of OS,
+Application and Databases. Solid knowledge of and experience with Red Hat-based
+Linux distributions Experience with different flavors of Linux (RHEL, Debian, and
+Ubuntu) Installation of operating system and system updates, patches, version
+upgrades per vendor recommendations. Excellent scripting skills in bash RHCE
+certified candidates will be given preference.
+Storage Engineer (Senior) | 10+ Years
+Skills: Storage Admin, DELL EMC, HP and IBM
+Manage and support
+storage systems for the organization.
+Monitor storage
+performance and troubleshoot issues.
+Collaborate with IT teams
+on storage projects and updates.
+Provide training and
+support for end-users.
+Prepare technical
+documentation and reports.
+Strong Knowledge in
+Software Defined Storage(SDS)
+Virtualization Engineer (Senior) | 7+ Years
+StackBill is looking for Virtualization Engineer to join our dynamic team and embark
+on a rewarding career journey. You will play a key role in designing, implementing,
+and maintaining virtualized infrastructure to optimize resource utilization, enhance
+scalability, and streamline IT operations. This role involves working with
+virtualization technologies to create and manage virtual environments The ideal
+candidate should have a strong background in virtualization platforms, server
+architecture, and a proactive approach to system optimization.

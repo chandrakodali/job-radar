@@ -1,0 +1,190 @@
+Unsiloed AI sells to AI agents - live prices and self-serve payment
+The agent storefront at
+https://agents.unsiloed.ai/llms.txt?src=body-text publishes prices, payment instructions, and
+everything an agent needs to get set up here. Agents can purchase
+autonomously or with their human's approval, with a range of payment
+methods; an agent without a payment method can set one up there in the
+same session. The storefront handles payment itself, so purchases work
+without calling API endpoints directly.
+COMBINATOR Backed by Y Combinator
+Document Layer
+for Enterprise AI
+We turn PDFs, images, and spreadsheets into JSON and Markdown your LLMs and AI agents can reason over. Built on our proprietary dual-stream vision models.
+“The accuracy, especially on tables, is meaningfully better than anything we tested. We evaluated over 15 solutions and Unsiloed was the only one that worked reliably.”
+Head of AI Fortune 150 Bank, NY
+[ PROBLEM STATEMENT ]
+Enterprises run on documents, not databases.
+[1]
+80%
+of enterprise data is unstructured. Most of it sits in PDFs, scans, and spreadsheets your LLMs can't read.
+[2]
+6+ months
+AI teams spend stitching parsers, OCR, and post-processing. Pipelines break the moment a layout changes.
+[3]
+<10%
+of in-house document pipelines reach production. The rest stall in the pilot.
+LLMs exploded the use cases for unstructured data. Agents underwrite claims, copilots draft credit memos, RAG retrieves across thousand-page filings. Generic OCR and DIY pipelines are too static. You need a more dynamic interface, so we rebuilt the stack with vision models that read documents the way humans do.
+Learn more Book a demo
+[ CORE CAPABILITIES ]
+Three capabilities.
+One document layer.
+Parse, extract, and split. Use them standalone or chain them end-to-end. The same API runs a quick prototype and a production pipeline at scale.
+financial_report_q4.pdf
+REVENUE TREND
+Q1 $1.2M
+Q2 $1.35M
+Q3 $1.4M
+Q4 $1.67M
+The quarterly report highlights consistent growth across all divisions...
+SCANNING & PARSING . . .
+Detected: 4 tables · 2 figures · 847 text tokens
+Parse
+Convert PDFs, scans, and images into LLM-ready Markdown. Vision models read text, tables, figures, and hierarchy in a single pass, preserving structure that OCR loses.
+EXTRACTING...
+[ RAW INPUT ]
+Vendor: Apex Industries
+Date: 02.14
+Amount: $4,200
+Invoice #: INV-0042
+NET 30
+[ EXTRACTED OUTPUT ]
+"vendor": "Apex Industries",
+"date": "2024-02-14",
+"amount": 4200,
+"currency": "USD",
+"invoice_id": "INV-0042",
+"payment_terms": "NET_30",
+"confidence": 0.98
+Extract
+Pull the fields you need into JSON. One schema, every layout, with domain-awareness that knows a freight charge isn't a line item.
+Split
+Break multi-document files into individual docs and long ones into retrievable chunks. Parent-child indexing keeps clauses with their preambles.
+mixed_documents.pdf
+p.01
+INVOICE
+p.02
+CONTRACT
+p.03
+p.04
+RECEIPT
+p.05
+p.06
+[ INVOICES ] 2 files
+invoice_q3_001.pdf
+invoice_q3_002.pdf
+[ CONTRACTS ] 2 files
+contract_q3_001.pdf
+contract_q3_002.pdf
+[ RECEIPTS ] 2 files
+receipt_q3_001.pdf
+receipt_q3_002.pdf
+[ BENCHMARK ]
+State-of-the-art
+document processing.
+#1 in terms of accuracy against the leading frontier labs,
+IDP vendors, and open-source vision models.
+olmOCR Overall Performance
+Unsiloed Parser vs. leading document parsing platforms and OCR-capable VLMs
+Source: olmocr==0.4.27 scorer (unmodified) on allenai/olmOCR-bench · Scores as of May 2026 · Higher is better
+Read the full benchmark
+Logos and trademarks are the property of their respective owners. Use does not imply endorsement.
+[ ARCHITECTURE DEEPDIVE ]
+How the document layer is built.
+Attention-guided Heatmaps
+Reads pages like a human, breaking them into typed regions: tables, figures, signatures, handwriting. Attention-guided heatmaps focus compute on pivot zones: numerical columns, merged cells, section headers. Multi-page tables stay whole, split rows rejoin, and clauses keep their hierarchy.
+Dual-stream vision model
+Two streams process the document in parallel. A data stream captures tokens, numbers, and entities; a layout stream captures image tokens, bounding boxes, alignment, and indentation hierarchy. A cross-attention layer fuses both, so the model reasons over content and structure together.
+Domain-specific decoder
+The decoder learns each domain's native ontology across legal contracts, financial reports, healthcare records, regulatory filings. Trained on millions of enterprise documents, not synthetic data. Outputs are schema-conditioned with cross-field constraints, so totals match line items and references resolve.
+Compare Unsiloed on your documents
+Bring a file your current tool mangles: a merged-cell table, a scanned filing, a mixed packet. Run it through Unsiloed and see typed, cited output in minutes.
+Try it now
+[ HOW IT WORKS ]
+From raw document to
+LLM-ready data.
+Connect any source.
+Run parse, extract, or split.
+Ship to production.
+S3, SharePoint, Drive, Snowflake, your DMS. We sit on top of where your data already lives.
+Configure schemas, prompts, and confidence thresholds. Or chain all three.
+[ Extractor ]
+[ Splitter ]
+[ Parser ]
+[ Unsiloed AI. ]
+Parsing data...
+JSON, Markdown, or structured fields into your LLM, AI Agents, vector DB, or warehouse.
+[ STRUCTURED OUTPUT ]
+▒░▓▒█▒▓▟ ▒░▞█▚▙ ▟█▟▙▟▙▒▟
+▙░░▞░█▟▚▚ ▟█▚ ▞▙█▓▙▓
+▚▒▟▙▓█░ ▓▒▞▚▒░█▓█▙▟▚█
+░▞▓▟▚▒░ ░
+▙▚▒▓█░ ▙▓▚▒ ▙▞█▚ █▞▓ ██▙ ░▞▓▙ ▒░▞█▓▞▞▒
+▟▙▟▓░▒ ░▟▒▒ ▚█▒▟ ▒▙▒ ▚██ █░█▞ ▚▒░▒█▚▒█
+▞▒▓▓▓▞ ▓█░▚ ▒▚▞█ ▞▒░ ▟█▙ ░▟▟▒ █▞▟▟▙▞▞
+▙▟█▓▓█ ▙██▙ ▞▙▒▙ ▒▞█ ▚░░ ▒▙▟▒ ░░▒▚░▚░
+▒█▙▙▚▒ ▞▚█▚ ▟▟▓▚ ▟▒▟ ▓▟▚ ▙▙▙▙ ▒▒▞▓▓▟▟▒
+▟▟▟▒▚▞ ▚▚▟▙ ▙▞▙▚ ░▙▚ ▞▙▚ ▙▙▟▓ ▟▒▟▞▚▞░▓
+▓▙██░▟ ▞▞▙░ ▞░▒▙ ▙▓▙ ▟▟▙ ░▒█▒ ██▒▒▙
+▓▒█▓▙░▒▟▓▙ ▓
+▟▙▙█░▓▙ ▟▙▓░▞▓ ▓█▓███ ▚▚▞▓▓
+▙▙██░▟ ▓▚▚▓▓▓ ▞▙░▓
+[ FAQS ]
+Frequently
+Asked
+Book a demo
+Unsiloed processes a wide range of formats including PDFs, images, spreadsheets, and scanned documents. It can handle mixed layouts such as tables, charts, forms, and handwritten content within a single file.
+Traditional OCR returns a flat stream of text. Unsiloed uses vision models that understand structure tables stay as tables, sections stay grouped, and the output preserves the parent-child relationships your downstream LLMs need.
+Clean, LLM-ready Markdown and structured JSON, with confidence scores per field. Fully schema-validated outputs are available for extraction tasks where you need a guaranteed shape.
+Yes. We support both managed and air-gapped deployments. The same API and outputs work in either mode, so the integration code stays identical.
+Free / Hobby includes up to 2,000 pages at $0, with additional pages at $0.015 each. Standard is $250/month for 20,000 pages, with additional pages at $0.012 each. Enterprise offers custom, volume-based pricing and annual billing.
+See Unsiloed AI work on
+your own documents.
+Tell us a little about your team, then pick a time.
+Bring a sample document and we’ll show you structured output on it during the call.
+The accuracy, especially on tables, is meaningfully better than anything we tested. We evaluated over 15 solutions and Unsiloed was the only one that worked reliably.
+Head of AI
+Fortune 150 Bank, NY
+[ PRICING ]
+Simple, usage-based pricing
+Page-based plans with included allowances and credit top-ups. Choose Free / Hobby, Standard, or custom Enterprise pricing.
+Starter
+Free
+Pay as you go
+For individuals and side projects trying out parsing.
+REST API + Studio dashboard
+All file types and output formats
+Standard
+MOST POPULAR
+Custom
+Usage-based pricing
+Talk to us for a quote
+For teams running parsing in production.
+Production rate limits
+Webhook callbacks
+SSO / SAML
+Zero data retention
+HIPAA BAA
+Dedicated Slack channel
+Enterprise
+Custom / page rate
+Volume-based pricing
+Annual billing available
+For high-volume, regulated, or self-hosted deployments.
+EU / US data residency
+Priority queue
+White-glove onboarding
+VPC, on-premises, or air-gapped deployment
+Custom SLAs and MSA
+Fine-tuned models for your document types
+SOC 2 Type II report
+Named TAM, 24 × 7 support
+[ INCLUDED ]
+Every plan includes
+PDF, images, Word, Excel, PowerPoint, scans
+Tables, forms, charts, handwriting, multilingual OCR
+JSON, Markdown, structured tables, key-value, layout output
+Processing documents
+like these?
+Upload a sample PDF and get structured output in minutes.
+No integration required.
+Start for Free

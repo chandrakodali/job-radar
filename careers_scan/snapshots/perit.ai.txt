@@ -1,0 +1,81 @@
+Open roles
+11 roles open right now.
+Every listing shows the pay the posting carries, before you click. 925 people have applied across these postings so far.
+AI Data Annotation (Fixed Term)
+Transcription
+Listen to audio, check the transcript against what was actually said, and apply the guideline consistently.
+Contract · India (Remote) · posted 8 Sept 2026
+$260–365 / month Apply by form
+View role
+AI Data Annotation (FTC)
+The same transcription work on a full-time footing, for people who want the hours rather than the flexibility.
+Full-time · India (Remote) · posted 7 Sept 2026
+AI Data Annotation (Remote)
+Transcription review, fully remote, open to candidates based around Bengaluru.
+Contract · Bengaluru, Karnataka, India (Remote) · posted 7 Sept 2026
+Freelance AI Data Annotation (Alignment)
+Word alignment 200 applicants
+Put every spoken word where it belongs in the timeline. No fixed schedule, no weekly minimum.
+Freelance · Bengaluru, Karnataka, India (Remote) · posted 21 Sept 2026
+$17–31 / audio hour Apply by form
+AI Data Annotation (Fixed Term Contract)
+Transcription 200 applicants
+Fixed-term transcription work on the Bengaluru posting, fully remote.
+Contract · Bengaluru, Karnataka, India (Remote) · posted 19 Sept 2026
+Audio Conversation Rater (Fixed Contract)
+Voice rating 142 applicants
+Rate what an AI voice agent said and how it sounded, and defend every score in your own words.
+$260 / month Apply by form
+Freelance Audio Conversation Rater
+Voice rating 183 applicants
+The same rating work, freelance — 30 to 50 hours a week, on your own schedule.
+Freelance · Bengaluru, Karnataka, India (Remote) · posted 19 Sept 2026
+$210–315 / month Apply by form
+Hindi Freelance AI Data Annotator (Transcription)
+Transcribe and check Hindi audio against the guideline. Work any hours, from anywhere.
+Freelance · India (Remote) · posted 22 Sept 2026
+Rate on application Apply by form
+Spanish Freelance AI Data Annotator (Transcription)
+Transcribe and check Spanish audio against the guideline. Work any hours, from anywhere.
+Freelance · France (Remote) · posted 24 Sept 2026
+Chinese Freelance AI Data Annotator (Transcription)
+Transcribe and check Chinese audio against the guideline, paid per hour of audio you deliver.
+Freelance · Singapore · Malaysia (Remote) · posted 24 Sept 2026
+$45 / audio hour Apply by form
+German Freelance AI Data Annotator (Transcription)
+Transcribe and check German audio against the guideline. Work any hours, from anywhere.
+Freelance · Switzerland · Austria (Remote) · posted 24 Sept 2026
+Your language or sector is not listed? Tell us the credential — we open clusters as customers ask for them, and this bench is where we look first.
+The rate is on the listing
+You see what the work pays before you start. No bidding, no reverse auction.
+Paid per approved unit
+Per call graded, per rubric authored, per hour of audio accepted. Approval turnaround is under 48 hours.
+Your credential is verified once
+Licence or track record checked at intake, then attached to everything you author.
+Record to earn
+Get paid for your voice, and for the accents we are short on.
+Speech models fail on the accents and rooms they never heard. We pay for exactly those — a phone and a quiet-enough room is the whole equipment list, and no annotation experience is needed.
+Start recording
+What we need
+A quiet-enough room and a phone. No studio, no interface.
+Consent recorded on the file — you know exactly what it will be used for.
+Peak level under −1 dBFS with no clipping; the app checks before you submit.
+At least 20 minutes per session, prompts provided.
+What gets rejected
+Clipped or heavily compressed audio
+Background TV or a second conversation
+Read text submitted where spontaneous speech was asked for
+Anyone recorded without their consent on the file
+Coverage
+Where the bench is, and where it is thin.
+Blue is where we already work. Outside it, we recruit to order — and the thinner the coverage in your language, the sooner a listing reaches you.
+German de_DE
+French fr_FR
+Italian it_IT
+Spanish es_ES
+Portuguese pt_BR
+Hindi hi_IN
+Chinese zh_CN
+Korean ko_KR
+Japanese ja_JP
+Join the bench Tell us your language

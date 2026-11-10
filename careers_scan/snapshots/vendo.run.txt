@@ -1,0 +1,6 @@
+careers
+Work on Vendo
+We’re a small team building the open-source customization layer: your users build their own features and micro-apps, right on top of your product.
+The best introduction is the repo. Read it, run it — and if it resonates, a star helps more people find it.
+Star us — runvendo/vendo
+Think we’re aligned? Email hiring@vendo.run with what you’ve built — projects, repos, a PR against ours. It beats a résumé.

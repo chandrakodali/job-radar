@@ -1,0 +1,71 @@
+Skip to how Taan works
+Create music fit to your video.
+Upload your video. Taan creates an original soundtrack synced to timing and mood.
+Get Started Use MCP
+Follow the sound
+The video is the prompt.
+Taan watches it, identifies the timing of cuts and mood, and creates a background score for your video in one shot.
+Start with a video,
+script or audio reference.
+Taan takes any combination of the three to create your track.
+Video, script and reference audio can be combined to create an original track.
+Do I have
+to prompt?
+Tell Taan exactly what you want. You could even say nothing at all and it’d still create the right music for your video.
+Plain-language direction: 8 seconds of tension, a 2-second pause, then 15 seconds of an uplifting feeling.
+Music synced
+perfectly to cuts.
+Music is generated to pause at the right moments, sync to cuts and change with the scene.
+A 25-second score aligns 8 seconds of tension, a 2-second pause and 15 seconds of uplifting music to the video cuts.
+Granular
+control.
+Ask Taan to only change parts of the song, specific instruments or specific timings and get exactly what you asked for instead of a fresh generation.
+Only the violin changes: its mood becomes happier and its start moves from 8 seconds to 5 seconds. Piano and drums stay in place.
+Your personal music director and composer.
+An original. All yours.
+100% original music with perpetual rights to full commercial use.
+TAAN · SCORE No. 01 Original music
+Pricing plans
+01 FOR YOUR NEXT STORY
+Creator
+For independent voices and everyday making.
+$ 15 / month
+25 minutes of music 15,000 credits
+each month
+Video-scoring model access
+MCP/API access
+Commercial rights included
+MP3, WAV & separate stems
+Video uploads up to 500 MB
+Add-on credits available
+Edit and refine your score
+Choose Creator
+02 FOR THE WHOLE STUDIO
+Agency
+For teams with more stories to tell.
+$ 45 / month
+60 minutes of music 36,000 credits
+Early access to new features
+Choose Agency
+03 FOR SOMETHING BIGGER
+Enterprise
+A setup that moves at your scale.
+Custom
+Priority support
+Custom SSO
+Higher concurrent usage limits
+Volume pricing
+Talk to us
+Every story has a sound.
+Make yours original.
+Need a hand choosing? Let’s talk
+Your story.
+Your score.
+Get Started
+IT STARTS WITH A FEELING.
+Start your score.
+Give your next story a little direction.
+YOUR FIRST NOTE IS DOWN.
+Your brief.
+Ready to go.
+This preview prepares your brief; it doesn’t generate music.

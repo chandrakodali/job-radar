@@ -1,0 +1,54 @@
+Khotan announces new funding round led by Announcing funding round led by
+The interesting problem is inside someone else's ERP.
+Khotan engineers build inside real procurement operations. The work is less abstract than most infrastructure jobs and a great deal less tidy. That is the trade.
+See open roles
+The work
+Most companies at this stage are building a product and hoping it fits. We build the application for one customer's process, learn what was actually hard about it, and keep the parts that generalise. That means the person who traces a workflow is the person who builds it and the person who is still answering for it six months later.
+The systems you will work against were not designed to be worked against. Records disagree. Rules live in someone's head. The interesting engineering is in deciding what has to be true before software is allowed to act, and then making it true.
+A representative month
+A few days on calls or on site with the team whose process you are building for.
+Reconciling supplier records that three systems each spell differently, and deciding which one is right.
+Working out which exception is a genuine requirement and which is a workaround somebody will be relieved to lose.
+Shipping to people who will tell you inside a day if you got it wrong.
+Remote, with real overlap
+US and EU timezones, four hours of deliberate overlap, async the rest of the day. Two offsites a year and travel to customer sites when the work needs it.
+Everyone sits with customers
+Engineers included. If you would rather not spend an afternoon watching someone work an invoice queue, this is the wrong company.
+Small on purpose
+Each person owns a surface from the data underneath it to the people using it. There is nowhere to hand work off to, which is the point.
+How we hire
+Confirm process
+Five steps, roughly two weeks end to end. We will tell you where you are in it without being asked.
+Intro call
+Thirty minutes with someone who does the job you applied for. You should finish it knowing exactly what the work is.
+30 min
+Process trace
+We hand you a real procurement mess with the names removed. You talk us through how you would make it reliable enough to support one decision. No algorithm puzzles.
+60 min
+Working session
+You build something small against a realistic dataset, with one of us alongside you. Closer to a normal Tuesday than an exam.
+Half a day
+Team conversations
+Two people you would work with, plus a founder. Half of the time is us answering your questions.
+2 x 45 min
+Decision
+Within a week of the last conversation. If the answer is no, you get the actual reason.
+Under a week
+Open roles
+Apply with a note about the messiest operational problem you have worked on and what you did about it. A CV helps. The note matters more.
+Compensation ranges To be published
+Engineering
+Forward-Deployed Engineer
+Remote (US / EU timezones) , Full-time
+Apply
+Engineer, Data Foundation
+Engineer, Applications
+Procurement
+Procurement Operations Lead
+Go-to-market
+Founding Account Executive
+London or Remote (EU) , Full-time
+Solutions Engineer
+Nothing here fits, but you would be good at this.
+Write anyway. Tell us the operational problem you would want to spend a year on. We read all of them.
+Introduce yourself

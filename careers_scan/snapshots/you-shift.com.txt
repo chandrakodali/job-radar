@@ -1,0 +1,87 @@
+Stop managing your healthcare teams in spreadsheets
+Healthcare staff scheduling software, with AI agents coordinating the day-to-day. One record from the rule to gross pay. YouShift is healthcare staff scheduling software. One record carries the assignment from the scheduling rule through worked time to gross pay, with AI agents coordinating the day-to-day.
+Explore the platform Talk to our team
+See YouShift from your perspective.
+Choose the role that best matches how you work to explore the features that matter most to you.
+Make your priorities part of every schedule.
+Tell YouShift what matters to you with a voice note from your phone, whether it’s for one day or every week, and it uses your availability and preferences to build your next schedule.
+Your schedule, requests, and pay, all in one app.
+Check your schedule, request time off, pick up or swap a shift, and review your pay without switching between tools.
+Swap a shift without a group chat.
+Offer your shift to the team or trade directly with a colleague. YouShift checks rest, hours, and eligibility before either schedule changes.
+Check your pay before payroll runs.
+See how your recorded hours, differentials, and incentives add up, and flag anything wrong while there’s still time to fix it.
+Build schedules that hold up in real life.
+Generate each schedule around coverage, rest rules, contract hours, and everyone’s requests. When something changes, rebuild in seconds and catch conflicts before you publish.
+Check every license before you assign.
+Keep licenses and credentials in one record and check them as you schedule. YouShift flags upcoming expirations early, before they create a staffing problem.
+Fill open shifts without calling around.
+Post an open shift once and reach clinicians who are eligible to take it. Add an incentive when needed, then review responses with rest, hours, and eligibility already checked.
+From signed offer to first shift, in one flow.
+Draft the contract, send it for signature, then continue into licensing and credentialing without re-entering the same information. Every step stays connected through the clinician’s first shift.
+Turn approved time into pay you can trace.
+Approved hours, differentials, and incentives become a calculation your payroll team can review line by line. Trace every amount back to the work behind it without rebuilding the pay period from separate records.
+See where labor costs come from.
+Compare labor costs by team, site, and period, then trace each total back to the schedules and worked time behind it. See what the next schedule will cost before you publish it.
+Give every patient the attention they deserve.
+Create the conditions for consistently excellent care: the right clinical capacity when demand peaks, and a workload your teams can sustain.
+Let agents handle the repetitive follow-up.
+Agents collect preferences, follow up on coverage gaps, and keep everyone informed, then prepare each change for your team to review. Routine coordination runs consistently within the limits you set.
+Connected to EHR, payroll, credentialing, and licensing.
+YouShift connects to the systems your organization already uses, and to the sources that hold NPI numbers and clinician licenses.
+EHRs
+Every one of them. Census and demand come from the system your clinicians already chart in.
+Epic
+Cerner
+MEDITECH
+athenahealth
+Payroll & HCM
+Approved hours, differentials and incentives land where payroll already runs.
+UKG
+Workday
+ADP
+Oracle HCM
+Infor
+Credentialing
+Your credentialing platform and the schedule stop disagreeing about who is cleared to work.
+symplr
+CAQH ProView
+Medallion
+Verifiable
+Licensing & NPI
+NPI numbers and license status, read from the sources that hold them.
+NPI Registry
+State medical boards
+What we learn from the teams we build schedules with.
+Notes on scheduling, staffing, credentialing, and labor cost.
+August 10, 2026
+Anesthesia Coverage in 2026: The Part of the Cost You Actually Schedule
+Separate structural anesthesia costs from coverage, call distribution and staffed-location decisions that hospital and group leaders can change in 2026.
+August 3, 2026
+The Real Cost of Clinical Coverage: A CFO's Framework
+Separate booked coverage expense from vacancy impact, connect labor costs to service lines and shifts, and identify what scheduling can change in US hospitals.
+July 27, 2026
+Building an Emergency Department Schedule That Actually Holds
+Build an ED schedule around your arrival curve, honor circadian limits, distribute nights fairly, and stop post-publication swaps from breaking all three.
+July 20, 2026
+ACGME Duty Hour Rules in 2026: A Scheduling Guide for Program Directors
+The 2026 ACGME work hour rules, how the four-week average really works, the February 2026 suspension, and why compliant schedules break after publishing.
+All articles
+Let us build your next schedule.
+Send us your team roster, coverage needs, rules, and requests. We’ll set it up for you and show you how YouShift turns it into a complete schedule.
+Talk to our team
+What healthcare teams need to know.
+Can YouShift support different rules across departments and locations?
+Yes. Each department and location gets its own rule set: availability, coverage targets, rest periods, workload limits, team composition, and fixed assignments. License and privilege checks run in one of three modes: off, warn, or block.
+What can staff manage themselves?
+Staff can view the schedule, submit time off, pick up open shifts, arrange shift swaps, and review recorded time from web or mobile. YouShift checks rest, hours, and eligibility before either schedule changes. The organization chooses which of those actions need approval.
+How does YouShift connect scheduling, time, and payroll?
+The published schedule is the source for time tracking and pay. YouShift calculates reviewable gross compensation from approved hours, differentials, and incentives. An external payroll processor withholds tax and disburses pay. YouShift does not move money.
+What does implementation involve?
+The team structures departments, imports the roster, configures scheduling rules, and prepares the first published schedule with you. How long that takes depends on the size of the organization and the systems involved.
+What does YouShift AI do?
+YouShift AI answers questions over the schedules, credentials, and worked time already in YouShift, and prepares actions for a person to confirm. It does not change a schedule, a credential, or a pay line without that confirmation.
+How is staff data protected?
+YouShift uses regional hosting, encryption in transit and at rest, role-based access, and audit history. The site carries an AICPA SOC for Service Organizations badge. Hosting regions and the SOC 2 report type are reviewed with each organization during evaluation. The product records staff schedules, credentials, and worked time; HIPAA scope for a given EHR integration is set in the customer agreement.
+Click anywhere to close
+Loading page…

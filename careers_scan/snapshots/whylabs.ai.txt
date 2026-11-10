@@ -1,0 +1,9 @@
+After an incredible journey, we are closing this chapter of our story. WhyLabs, Inc. is discontinuing operations. It's been a privilege to define the AI Observability category together with our trailblazing customers and our extraordinary team.
+While WhyLabs as a company is ending, the importance of tools that enable responsible AI adoption is ever growing. We believe that the standards and technologies in this space will continue to evolve, and we are proud to have contributed to advancing the field of responsible AI operations through open source:
+The complete WhyLabs platform has been open sourced to help support next iterations of AI observability research.
+The open standard for data logging, whylogs , will continue to help teams enable privacy-preserving logging and monitoring for AI systems.
+The open source toolkit for monitoring LLMs, langkit will continue to help teams monitor and secure LLMs while preserving privacy.
+Beyond our software, we hope the thousands of people who participated in the Robust and Responsible AI community will continue to spread best practices throughout the AI industry.
+We extend our sincere gratitude to everyone who made this journey possible - from our investors who supported our vision from day zero, customers who entrusted us with their AI systems, to our visionary team who made WhyLabs possible, partners who collaborated with us, and to our family and friends who supported us throughout. Together we were able to inch the world closer to a more responsible adoption of AI technology!
+For any questions please reach us at [email protected]
+WhyLabs founding team

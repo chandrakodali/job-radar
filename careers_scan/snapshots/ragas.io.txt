@@ -1,0 +1,13 @@
+← Back to Home
+Careers
+Our Mission is to empower the next wave of developers with open-source tools that supercharge their workflows and are enjoyable to use. We are starting with Ragas, a tools to evaluate and optimize LLM Applications.
+We are a group of passionate individuals who leverages cutting edge research, engineering and design practices to solve hard problems for developers building with AI.
+Our team is small, talent-dense, and united by a passion for open-source and applied research. We’re a flat organization, encouraging an open, collaborative environment where creative ideas and spirited debate drive our work forward.
+We are a remote-first company, embodying the open-source spirit. We believe great talent is everywhere (not just SF!) and want to bring them together for the mission.
+Backed by inverstors like YCombinator, Heavybit, founders of Chef, Heroku, CoachroachDB and many more
+Open Positions
+Applied Research Engineer
+Remote, Earth • $60k - $200k • 0.5% - 2.5%
+Open Source Software Engineer
+Remote, Earth • $60k - $180k • 0.5% - 2.5%
+Product Engineer

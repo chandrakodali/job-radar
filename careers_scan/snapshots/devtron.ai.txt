@@ -1,0 +1,60 @@
+Build systems that let teams
+ship
+Build systems that let teams ship
+We're building the AI-native control plane for Kubernetes.
+Bring your craft, curiosity, and sharpest questions.
+Cloud Native
+Developer Friendly
+Faster K8s Adoption
+Secure to Core
+Domain Aware
+Open Source
+Reach Us
+Start a conversation
+Tell us what you're great at and what you want to build next.
+We read every application.
+Want to work behind the scenes with us?
+We're always looking for people who would rather fix something properly once than quickly twice. If that sounds like you, take a look at our open roles.
+Powering Mission-Critical Kubernetes for Global Enterprises
+Start your journey with Devtron
+Your path to modern DevOps starts here.
+Simple, Scalable, Secure
+Get a Demo
+Platform
+Platform Overview
+Application Management
+Infrastructure Management
+Security & Governance
+Agentic SRE
+GPU Orchestration
+FinOps & Cost Management
+Observability
+Storage & Backup
+Resources
+Blogs
+Case Studies
+Events & Webinars
+eBooks
+FAQs
+For Developer
+Devtron OSS
+Documentation
+API Reference Doc
+GitHub
+Discord Community
+Helm Charts
+Integrations
+Alternatives
+Harness
+Rancher
+Jenkins
+GitHub Actions
+Circle CI
+Company
+About Us
+Contact Us
+Careers
+Reviews
+Legal (EULA)
+Terms & Use
+Press Releases

@@ -1,0 +1,77 @@
+🔐 New: A CISO’s benchmark for authorization maturity ➔ Download the ebook
+Join us
+on our mission to make permissions simple.
+We are looking for passionate team members to join us in our journey.
+Cerbos is on a mission to make the implementation of access-control in modern, cloud-native applications as painless as possible. No more writing and rewriting custom permissions implementations, and lots more time for developers to focus on building amazing products that delight their customers.
+Highlights
+🚀 Well funded start-up with world class investors
+✈️ Travel and events
+🔑 Work with the founders
+💰 Competitive salary & perks
+🌍 Work from anywhere
+Why are we building Cerbos?
+In software development, a huge amount of time and effort is expended on building and maintaining bespoke authorization for the system under development. Our vision is to remove that toil by building a full-featured authorization system that can be integrated into any project and evolves with it as requirements change. From prototype to planet-scale SaaS, Cerbos will grow and scale with your application and free developers to concentrate on your core product.
+Why join our journey?
+We are striving to build a truly global, fully distributed company that embraces diversity and openness.
+Every new member that joins us will have a disproportionately large impact on our users, product, and business; as well as the culture and future of the company.
+Our founders have a great track record from working at global tech giants to building successful tech companies.
+We value the following skills
+Passion for creating a delightful, best-in-class experience for developers who are trying to address a hard problem.
+Humble, empathetic people who can work just as well independently and as part of a team.
+People who choose simplicity over complexity.
+Good verbal and written communication skills in English.
+Current Open Roles
+B2B Growth Marketer (Enterprise & Developer Audience)
+We’re looking for a T-shaped B2B Growth Marketer —someone who thrives on hands-on execution across multiple marketing channels and B2B tactics. This is a rare, high-impact role ideal for an ex-startup growth marketer with experience targeting B2B/B2D enterprise audiences.
+You should be obsessed with overachieving, growth strategies, and analytics . If you read every Reforge article and get excited about running experiments, optimizing campaigns, and scaling demand generation, we want to hear from you.
+Responsibilities
+Define and optimize our enterprise lead generation motion in collaboration.
+Lead and execute ABM, CROs, performance marketing, and B2B lead generation campaigns—hands-on, data-driven execution.
+Analyze and optimize marketing performance—deep dive into analytics to refine channel strategy and conversion rates.
+Identify and establish strategic partnerships—affiliates, co-marketing, and industry collaborations.
+Drive pipeline growth and customer acquisition across multiple channels.
+Run structured growth experiments to validate hypotheses, optimize conversion rates, and increase net revenue retention.
+Build and manage our growth tech stack, selecting and integrating tools for automation, analytics, and campaign management.
+Required Skills & Experience
+Strong analytical skills with hands-on experience in B2B revenue attribution, marketing attribution modeling, HubSpot reporting, and GA4 analytics.
+Hands-on ABM and multi-touch marketing experience, including campaign execution, lead generation, and pipeline acceleration.
+Performance marketing expertise, covering ad setup, creative strategy, optimization, and in-depth reporting.
+Proven experience in demand generation, including webinars, enterprise events & conferences, whitepapers, and content-driven lead acquisition.
+Experience marketing to enterprise B2B audiences/ICPs, with a deep understanding of long sales cycles and complex decision-making processes.
+Affiliate and partnership marketing experience, managing co-marketing, referrals, and industry collaborations.
+5+ years in growth marketing, PMM, or B2B/SMB SaaS marketing, with a focus on demand creation, customer acquisition, and pipeline growth.
+Experience building and managing a marketing tech stack for automation, reporting, and optimization.
+Strong understanding of developer or technical audience marketing—you don’t need to code, but you must know how to engage technical buyers.
+Portfolio of successful (or unsuccessful) B2B/SMB/enterprise marketing campaigns and experiments.
+About You
+You’re not just a performance marketer, product marketer, or campaign specialist—you thrive in all areas of growth.
+You’re technically curious.
+You have an experimentation mindset. You iterate relentlessly, measure what works, and pivot when needed. You treat failure as learning and optimize every initiative for impact.
+You’re highly autonomous. You take ownership of projects, execute independently, and proactively remove roadblocks.
+You focus on business impact. You align marketing initiatives with revenue growth, always asking, “How does this drive results?”
+You have high execution standards. You deliver quality work at speed, leveraging AI and automation while ensuring customer-facing content is polished and strategic.
+You take initiative. You don’t wait for instructions—when you see an opportunity or problem, you act.
+You thrive in a startup environment. You own your work, move fast, and solve problems creatively. "Not my job" is not in your vocabulary.
+If you’re an ex-startup founder, we definitely want to talk! 🚀
+Why Join Cerbos?
+Cerbos is at the forefront of the rapidly growing, multibillion-dollar authorization industry, helping enterprises simplify permission management at scale. We are proud to be open-source first company and a trusted authorization solution for enterprise products, scale-ups, and everyone building with security in mind.
+Working at Cerbos is challenging but also fun! Here’s why you’ll love being part of our team:
+🚀 High-impact role—shape the future of our growth strategy.
+🌍 Fully remote—work from anywhere, with a diverse global team.
+👨‍💻 Founded by experienced leaders—proven track record in scaling tech companies.
+💸 Well-funded startup—backed by world-class investors.
+✈️ Opportunities for travel and speaking engagements (if you want to engage with developers).
+💰 Competitive salary and perks.
+How to Apply
+If this sounds like a fit, please apply! Send us:
+Your CV
+Your B2B marketing portfolio (it can be as simple as your work examples)
+Your answer to: "What was your most successful B2B campaign?"
+📩 Email your application to join.us@cerbos.dev We will follow up with every candidate who sends the required CV, portfolio, and answer to the question.
+Interview process:
+CV and portfolio review.
+Soft skills interview. Hard skills interview.
+Paid test task.
+Cultural fit interview.
+If any of the above roles resonate with you, please get in touch. You can reach us by emailing us your CV, writing portfolio, and demo apps at join.us@cerbos.dev .
+We are currently not accepting candidates referred to us through HR agencies or recruiters.

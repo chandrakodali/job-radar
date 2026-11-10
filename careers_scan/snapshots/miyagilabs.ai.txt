@@ -1,0 +1,11 @@
+Build the future of education
+Miyagi Labs is making world-class exam prep accessible to every student on the planet. Tell us a bit about yourself and we'll be in touch.
+The roles
+Growth / Marketing / UGC
+Drive student acquisition through social, partnerships, SEO, and creator content. Make videos, run campaigns, and reach every student who needs affordable test prep.
+Engineer
+Ship across our Next.js frontend, backend, and AI systems, from tutoring interfaces to adaptive practice engines. Small team, huge surface area.
+Education
+Own the quality of our SAT, ACT, and JAMB content. Write questions, review AI-generated material, and make sure every explanation actually teaches.
+Other
+Don't see a fit? If you're exceptional and care deeply about education, tell us what you'd want to do here.

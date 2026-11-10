@@ -1,0 +1,158 @@
+Join LangGenius
+Build the bridge
+between AI and
+the real world.
+Most careers are built around waiting — for the right project, the right scale, the right moment when your work actually reaches people. Here, that moment is every week. The code you write runs on over a million machines. The decision you make on a Tuesday afternoon changes how developers across 175 countries build AI applications. You don't earn that leverage eventually. It's already there, from day one.
+See Open Roles
+Why it matters →
+130K+
+GitHub
+Stars
+Top 60 open source of all time
+1.4M+
+Machines running
+Dify worldwide
+280+
+Enterprise customers
+Maersk · ETS · Anker · Novartis
+$30M
+Series Pre-A, 2026
+$180M valuation · HSG-led
+"Dify gave us a practical way to move beyond prototypes and actually operationalize AI
+workflows. We were able to turn real business processes into maintainable systems."
+Mark Sear · Director of AI Solutions Engineering, Maersk
+Mission
+Build the most popular open-source platform for the new paradigm of
+AI–Human–Data–Tool collaboration.
+Think about who's at the end of the chain. A logistics coordinator at Maersk, finally getting answers in seconds instead of hours. A lab researcher at Novartis, surfacing a connection the data had always contained. A customer support agent at Anker, finishing their shift without burning out. None of them had ever used an AI tool before. They use one now — because someone built the layer that made it possible to deploy. That's the work. 84% of the world still hasn't crossed that line. You'd be helping close it.
+Vision
+Dify as the "operating system" of the AI era — the default infrastructure every organization runs intelligent workflows on.
+Values
+What it feels like
+to work here.
+These aren't values on a wall. They're the actual operating system — the reason a small team can move faster than organizations ten times larger, and the reason people who join here tend to stay. You'll notice the difference before the end of your first week.
+SIMPLE & SINCERE
+If you've spent time in environments where the real conversation always happens after the meeting — where you had to read the room before saying what you thought — this will feel different. You can just say it. When something isn't working, people want to know. When you disagree, the expectation is that you say so. No performance, no careful positioning. That clarity is what lets people here actually trust each other.
+↓ supports
+Cognition Layer
+HANDS-ON
+If you've ever sat in a planning meeting about a question that could have been answered by just trying something, you'll appreciate this immediately. The default move here is to go find out. Build it, test it, break it, ship it — and then share what you learned. You're trusted to act before you have permission. That changes how the work feels.
+Action Layer
+EXPLORE THE EDGE
+At some point you'll have an idea that goes well beyond what you were asked to do. It might be a better approach. It might be a completely different direction. The Fast-Track policy exists precisely for that moment — so the answer isn't "put it in the backlog" or "maybe next quarter." You write one page, send it to the CEO, and if it's good, you go. That door isn't decorative.
+Reflection Layer
+ASK WHY TO BEDROCK
+The first explanation for why something isn't working is almost never the real one. Here, you're expected to keep pulling — past the obvious answer, past the one that lets everyone off the hook, until you hit something that's actually true. It's uncomfortable sometimes. It's also why the things we build hold up.
+↓ relies on
+HONOR YOUR COMMITMENTS
+Your teammates will take you at your word. Not because they have to — because that's the only way a small team can move at this speed. When everyone follows through, no one is waiting on anyone else. You'll notice, probably in your first two weeks, how much faster things move when the default assumption is that what someone said they'd do will actually be done.
+How We Work
+Builders first.
+Always.
+A Builder's time and creativity is the company's scarcest resource. Every process, every layer, every rule must pass one test: does this make it easier or harder for Builders to create value?
+Sincere people, full of ideas.
+We want genuine, thoughtful people together — creating, growing, and getting rewarded. Proving a smarter way of working is possible: small sharp team, deep thinking, high-leverage tools. Not headcount and blind expansion.
+One owner. One outcome. DRI.
+Every significant decision has a single Directly Responsible Individual — not a committee. One person with clear authority and full accountability for the result. Ambiguity is where good work goes to die.
+Awaken good intent. Don't enforce compliance.
+Drucker said management's essence is not control — it's awakening each person's desire to create something beautiful. We build the environment, not a system people must obey.
+We must first become the future organization.
+To know what organizations look like when AI is truly powerful, we have to become one first. Over 60% of our codebase is built by LLMs. Every workflow and every piece of infrastructure must be AI-native by design.
+The
+founding team
+⊕ click to
+expand
+joinus.dify.ai
+seen in
+"This Middle School Dropout Built His AI Startup — Now He's Scaling It in Silicon Valley"
+Anna
+Tong · Forbes · Feb 24, 2026
+The Builder Test — every process, layer, and hierarchy must pass
+✓ Makes collaboration smoother
+✗ Nobody knows why it exists
+✓ Clarifies authority, accelerates
+decisions
+✗ Information passes up levels just to
+pass up levels
+✓ Helps good ideas get resources
+✗ Optimizes for personal interest, not
+the company
+Triple Success
+Technology ×
+Taste × Business.
+The engineers here have opinions about taste. The designers think about business logic. Nobody owns just their lane. That cross-contamination is what makes the product worth using — and it's what makes the work more interesting for everyone.
+Good Business
+High output.
+More freedom.
+We grow by building things people genuinely depend on — not by adding headcount to look bigger. That means the work each person does here carries real weight, and the people doing it are trusted to carry it.
+Global by Design
+Built here.
+Seen everywhere.
+You'll ship something this week that a developer in a country you've never visited will use by Friday. That reach isn't something you're building toward — it already exists. You're joining something that's already in motion.
+Benefits
+Everything that would
+have slowed you down → Gone.
+The best work of your career shouldn't be interrupted by the wrong setup, a missing tool, or a process that exists for no good reason. We've tried to think ahead and remove every one of those frictions before you arrive.
+The right machine, ready on day one.
+Your first morning shouldn't start with a setup queue or a request form. You'll have the right hardware for your role from the moment you sit down — latest Apple silicon, no compromises. We take tooling seriously, starting with the basics.
+Use the best tools available. That's the expectation.
+We build the infrastructure that helps organizations deploy AI at scale — so using AI well isn't a nice-to-have, it's part of how work gets done here. Every team member has a dedicated monthly budget for the tools and subscriptions that help them do their best work. The goal is simple: nothing you need should be out of reach.
+One day a month with no agenda but yours.
+The first Monday of every month belongs to you — no sprint tasks, no standups, nothing you owe anyone. Use it to go deep on something you've been meaning to learn, follow an idea you haven't had time for, or just think without being pulled in six directions. It's also the first step toward something we've always meant to get to: a 4-day work week. We haven't forgotten.
+✦ 12 dedicated days / year
+Growth that's built around you, not the org chart.
+Your development plan isn't a form you fill out once a year. It's a real conversation about where you want to go, and a real commitment to helping you get there. We fund conferences, courses, and language programs. Every new joiner gets a Buddy — someone who's been here and knows the terrain — for their first weeks. You won't feel like you're figuring it out alone.
+Buddy Program
+Mentorship
+Udemy / Coursera
+CliftonStrengths®
+Conferences
+If you have a real idea, you can actually pursue it.
+One page. Send it to the CEO. If it's approved — and the decision comes within 48 hours — your regular work pauses and you get a dedicated sprint of up to three weeks, plus budget. No committee. No career cost if it doesn't land. That's not a figure of speech — the failure immunity is guaranteed in writing. The point is that good ideas shouldn't die because no one had time to route them.
+Step 1
+Submit 1-pager to CEO
+Step 2
+CEO decides in 48h
+Step 3
+Sprint up to 3 weeks
+Equity at the stage when it can actually change things.
+Early options at a $180M valuation — before the numbers get to a place where individual grants stop mattering. The people joining now are the ones for whom the outcome is real. That's not a pitch, it's just math. The window is open. It won't stay that way indefinitely.
+Four cities. No mandatory presence.
+Offices in Menlo Park, Tokyo, Suzhou, and Shanghai. You're trusted to know when being in the room actually matters — when a design sprint, a difficult conversation, or a customer visit makes it worth the commute — and when remote is just better.
+The baseline that serious work requires.
+Premium Kaiser Permanente health and vision from day one. Twice-yearly off-sites where the whole team is in the same room. None of this is meant to feel like a perk. It's the floor — the minimum you should be able to take for granted so that what's on your mind is the work, not whether you're covered.
+Where We Work
+Four cities.
+One team.
+Your teammates are across Menlo Park, Tokyo, Suzhou, and Shanghai. You'll know when being in the same room matters — and when it's just as good to be remote. Presence is never the point.
+Menlo Park, CA
+Product, Design, Engineering & R&D. Heart of the global AI ecosystem.
+Tokyo
+R&D, Asia enterprise & partnerships. Market leader in Japan.
+LangGenius, KK
+Suzhou
+Engineering. Deep technical execution.
+Engineering
+Shanghai
+APEC go-to-market and enterprise sales.
+GTM
+Remote
+Fully supported for the right roles. Async-first culture.
+Global
+Hybrid policy: in-office when collaboration matters, remote when it doesn't.
+Open Roles
+Where you might
+belong.
+Not everyone is looking for a place like this. But if you are — you'll know when you see it.
+Role
+Department
+Location
+Loading open roles...
+View all open roles →
+Don't see your role?
+Write to us anyway.
+Send us a note. We read everything. The right person doesn't always fit neatly into a job description, and we're not going to pretend otherwise.
+joinus@dify.ai
+Record a short video or send us an email.
+We reply to every application.
+Apply for this role →

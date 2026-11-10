@@ -1,0 +1,31 @@
+Build the future of
+real-time speech.
+We are looking for founding researchers and engineers to solve hard problems in frontier generative speech and conversation models.
+Remote · Full-time · Founding team
+Open roles
+Two founding seats. Both report directly to the founders and shape the core stack.
+Founding Audio Researcher
+Lead our work on novel audio LLMs and full-duplex audio modeling. You will design and train the next generation of our speech-to-speech models, moving beyond cascaded systems to end-to-end architectures.
+The role
+Research and train novel architectures for real-time speech-to-speech translation.
+Explore full-duplex audio models that handle interruptions, backchanneling, and overlapping speech naturally.
+Work on voice cloning and style transfer to preserve speaker identity across languages.
+Read papers and implement state-of-the-art techniques quickly.
+Requirements
+Deep understanding of Transformer architectures, diffusion models, and neural audio generation.
+Experience training large-scale models from scratch.
+A product-first research mindset — you care about end-user experience, not just benchmarks.
+Apply for this role
+Founding Applied ML Engineer
+Live at the intersection of model performance and system efficiency. You will own the inference stack, optimizing our models for low-latency real-time usage and on-device deployment.
+Optimize large audio and language models for production inference.
+Implement efficient serving infrastructure using vLLM, TensorRT, or custom CUDA kernels.
+Work on quantization and distillation for high-fidelity models on consumer hardware and mobile.
+Handle model fine-tuning pipelines and data engineering.
+Strong engineering background with experience in low-level optimization (CUDA, C++).
+Experience with inference optimization tools like TensorRT, vLLM, ONNX Runtime.
+Familiarity with model fine-tuning (LoRA, QLoRA) and efficient training techniques.
+Deep understanding of GPU architecture and memory management.
+About us
+Pinch was founded on the belief that language should not be a barrier to human connection. We are a small, distributed team of researchers and engineers passionate about AI, audio, and design.
+We operate remotely but maintain a high-bandwidth culture of collaboration, often traveling to co-work in person. If you're ready to move faster than any research lab you've worked at, we'd love to talk.

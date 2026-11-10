@@ -1,0 +1,15 @@
+Join us
+Help us build verifiably private AI infrastructure.
+The mission
+We're a team of builders who want to see transformative AI go well and humanity flourish. We believe AI should be an exoskeleton that empowers people rather than replaces them. This starts with privacy: keeping our conversations, thoughts, and ideas our own. Read more
+The team
+We come from backgrounds in cryptography, security, infrastructure, and AI. We knew there was a better way to deploy AI, one that didn't expose everything to third parties, and our experience gave us a good perspective on what was possible. So we founded Tinfoil.
+We build in public. Our code, security assumptions, and tradeoffs are all out in the open. We look for people who are technical, independent, and care about the mission as much as we do.
+Open roles
+We're always on the lookout for exceptional people. If you have experience in ML, security, systems engineering, or some other complementary skillset we've missed, reach out. Some roles we'd hire for (but not limited to!) are:
+Machine learning
+Optimizing inference, vLLM hacking, evals & guardrails.
+Cryptographic engineering
+Improving verification & attestation, auditing trust boundaries.
+Software engineering
+Building out features to maintain a great customer, developer, and enterprise experience.

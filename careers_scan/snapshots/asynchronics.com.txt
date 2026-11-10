@@ -1,0 +1,15 @@
+Open positions 3
+Operations Full-time
+Product & Project Manager
+Warsaw · Hybrid
+Lead projects for customers, ESA and European programmes, and help shape our enterprise software — keeping the engineering team, customers and roadmap in sync.
+Engineering Full-time
+Senior Desktop UI Engineer
+Build cross-platform desktop interfaces for our enterprise simulation software, turning complex engineering workflows into reliable, usable tools.
+Senior Software Architect
+Shape the technical direction of NeXosim with our CTO — a hands-on Rust role leading architecture, API design and a growing engineering team.
+Open application
+Don't see your role?
+If you care about simulation, Rust or space systems and think you'd fit in, send us a few
+lines about yourself and what you'd like to work on.
+careers

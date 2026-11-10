@@ -1,0 +1,19 @@
+Company
+Careers
+At Version Story, we are on a mission to transform the way lawyers work. We look for professionals who have mastered their craft and who are inspired to build great products that improve the lives of our users.
+Future Roles
+These are roles we plan to fill over time, and we may not be interviewing for any of them right now. If one of them fits you, send us a note and we will keep you in mind when we begin hiring for it. We will publish the compensation range for a role when it opens for applications.
+Product Marketing Lead
+New York
+In-Person
+Full-Time
+4+ Years
+As a Product Marketing Lead, you will be responsible for developing our product positioning, go-to-market strategy, and customer messaging. You will work closely with the product and engineering teams to deeply understand our technology and translate its value to our legal industry customers. As an early marketing hire, you will shape our brand voice and establish foundational marketing practices. Success in this role requires strong product intuition, excellent communication skills, and a passion for solving the modern lawyer's workflow challenges.
+Get in Touch
+DevOps Engineer
+3+ Years
+As a DevOps Engineer, you will build and maintain scalable, secure cloud infrastructure, develop automated CI/CD pipelines, and embed DevSecOps practices to support rapid, reliable deployments. You’ll work closely with engineering and compliance teams to ensure uptime, observability, and operational resilience—all while enabling security and productivity. To succeed in this role, you should be experienced with infrastructure-as-code, observability tools, CI/CD automation, and DevSecOps integration, and thrive in a fast-paced and highly collaborative environment.
+Compliance Program Manager
+2+ Years
+As a Compliance Program Manager, you will lead our SOC 2 certification process and establish our security compliance program. Working closely with engineering and operations teams, you'll implement controls, policies, and procedures that protect customer data while enabling rapid product development.
+Every role is in person in New York. Version Story is an equal opportunity employer.

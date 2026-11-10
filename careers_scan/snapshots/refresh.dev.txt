@@ -1,0 +1,14 @@
+Open Roles
+Building the environments to enable the next generation of capabilities in LLMs.
+Engineering
+Ex-Founder
+San Francisco Full-time
+Own end-to-end delivery of the strategic projects behind our computer-use and coding data builds. You scope the work with frontier-lab customers, keep it shipping on timelines that matter, and stay hands-on across both the customer conversations and the code.
+Apply
+GTM Engineer
+Own the technical surface between Refresh and the frontier labs we sell to. Run evals on prospect models, stand up environments during pilots, write the demos that close deals, and feed what you learn back into product. For people who like closing deals and writing code.
+Research Engineer, Benchmarking
+Build the benchmarks frontier labs use to measure real-world coding and computer-use capability. Translate expert workflows into rigorous, verifiable evaluations, run them against frontier models, and publish numbers that hold up under adversarial scrutiny.
+Open-ended
+Create your own role
+We back confident, self-directed people who see where they can move the needle and go do it. If none of the roles above is an exact fit but you're sure you can help us build the environments frontier labs train on, pitch us the role you'd create for yourself: what you'd own, what you'd ship, and why it matters. Tell us how you'd help and we'll build the seat around you.

@@ -1,0 +1,37 @@
+About
+Whether it’s crunching public adoption numbers to make a recommendation to product teams on new programming languages to support, helping marketing craft developer-friendly messaging or helping senior leadership understand emerging developer-led trends and their implications, RedMonk exists to help companies understand and work with developers.
+We see a different world than most. We see:
+A world increasingly dominated by the practitioner: the developer, designer, DBA, sysadmin or operator.
+A world increasingly driven by bottom up adoption of open source software and cloud based hardware.
+A world in which much of the software we deploy was built by Web companies.
+A world in which decision making is distributed and social.
+A world in which the kingmakers aren’t enterprise salespeople wearing expensive shoes and crisp blue cotton shirts, but hackers in t-shirts writing code.
+When we founded RedMonk in 2002, things were different. Other industry analyst firms were all about purchasing driven technology adoption, understanding dominant big vendors that sold software to a few senior executives in 18 month sales cycles, who then foisted their choices on to developers in the trenches.
+But we saw the change coming and helped the industry understand and prepare for it. With each year that passes, our thesis that developers are the New Kingmakers becomes less controversial. But even as the technology world has come around to the idea that developers are important, the question becomes: how best to engage with these new kingmakers?
+That’s what we do at RedMonk every day. If you’re looking for an analyst or research firm that understands developers, and is easy and fun to work with, we should talk .
+Don’t Take Our Word For It
+“RedMonk gets developers. And companies that build for them.”
+– Anurag Goel founder and CEO @Render
+“Best in the biz, bar none.”
+– Emil Eifrem founder and CEO Neo4J
+“Redmonk is more than just an analyst firm – they focus on building real relationships with clients, thoroughly digging into their long term vision and strategy and helping them to think through whether or not their short term strategy will help them achieve that. They also understand their focus areas better than pretty much anyone out their in the market. Their uniquely deep relationships across the industry enable them to give more thoughtful and tailored advice than any other firm I’ve seen thus far.”
+– Erica Brescia MD @Redpoint. Previously, COO @GitHub, co-founder and COO @Bitnami
+“I’ve worked with RedMonk at 3 different companies so far. Yes, they get developers. And yes, I would hire them again.”
+– Claire Giordano VP marketing Citus Data (acquired by Microsoft)
+Discussing if you should become a RedMonk client “That’s an easy yes.”
+– Mike Olson Cloudera co-founder
+“RedMonk gets developers.”
+– Adam Seligman VP Generative Builders, AWS
+“[RedMonk]…smart people who are living and breathing transparent production principles, and as a result are quite influential and should be getting more so.”
+– Luis Villa Co-founder Tidelift
+“Redmonk’s expertise in the developer market is unparalleled and they’ve been a fantastic partner as we looked to expand our awareness to the practitioner community. We’ve hosted two Redmonk webinars, and they’ve by far been the best-performing online events we’ve had in terms of pipeline, build and engagement. Rachel Stephens and the RedMonk team have been a dream to work with and we look forward to deepening our partnership.”
+– Melissa Beck , Head of Global Communications, Sumologic
+“RedMonk has been a fantastic partner to vFunction. We truly value their developer expertise, guidance on the best global conferences, and the insightful perspectives we’ve gained from their analysts on both the market and our strategy. We’ve collaborated on several activities, including webinars and video Q&As. A standout moment was a webinar featuring our CEO and James Governor—it was informative, entertaining, and became our best-performing asset last summer!”
+– Megan Bouhamama , VP of Marketing, vFunction
+“RedMonk, bridging both academia and industry, brought valuable depth and credibility to our Efficacy of Learning with AI panel at SIGCSE 2025. The session was a hit! RedMonk’s objective third-party insights enriched the discussion, helping to draw a packed audience of 105 attendees with standing room only. The thoughtful questions from the audience underscored the impact of the conversation, making it clear that this topic resonated deeply. RedMonk’s contributions fostered an engaging and enlightening dialogue, reinforcing the importance of AI in education and in supporting educators in this technological revolution.”
+– GitHub
+Recent posts
+Frontend Without the Browser–WTH?!?
+The Web Can’t Afford a JavaScript Runtime Monoculture
+How Software Trusts Software: MCP, A2A, & the Registries Agents Use
+The best token is one you don’t use – Spotify on LLM usage as an IO question

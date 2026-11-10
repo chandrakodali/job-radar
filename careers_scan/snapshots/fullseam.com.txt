@@ -1,0 +1,15 @@
+Careers
+Build the AI teammate every finance team needs
+We're a small team in San Francisco and Chicago building AI agents that automate the close, reconciliations, and reporting for corporate accounting teams.
+Why FullSeam
+Why join us
+Real customers, real stakes
+Finance teams run their close on FullSeam today. What you ship lands in front of controllers and CFOs within days, and they tell us exactly what works.
+A founding team that has done it before
+Tom, Aaron, and Geoff built TaxProper together through its acquisition by Opendoor. FullSeam is backed by Y Combinator (Winter 2026).
+Hard, unsolved problems
+AI agents that reconcile ledgers, apply cash, and prepare workpapers have to be right, explainable, and auditable. That bar makes the work interesting.
+Open roles
+We're always looking for great people
+We don't post every opening. If you're an engineer, accountant, or operator who wants to change how finance teams work, send us a short note about what you've built and a link to your LinkedIn or GitHub.
+Email the founders

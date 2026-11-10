@@ -1,0 +1,88 @@
+Careers at Terra
+Build the Future of Health
+Hard problems, high ownership, and work that genuinely matters.
+Open roles How we work
+Meet the people behind Terra
+Our competitive advantage is our people, so we hire only the best and get out of their way. Our team gets things done, finds a way, and never stops learning.
+Engineering
+George Head of Engineering Strategy
+George leads engineering strategy at Terra, having previously co-founded and sold Foody in his country's biggest ever tech acquisition. Watch the video to learn more.
+Alex Head of Product Engineering
+Alex leads product engineering at Terra, having joined when the company had zero customers, and competes in dance battles. Watch the video to learn more.
+Design
+Vanessa Chief Design Officer
+Vanessa is Chief Design Officer at Terra, having joined when the team was 95% engineers and design was an afterthought. Watch the video to learn more about her journey.
+Commercial
+Anna Commercial Lead
+Anna leads Commercial Partnerships at Terra, having previously worked as a translator and interpreter before moving into HealthTech. Watch to learn more about her journey.
+Antoine Strategy & Operations
+Antoine leads Strategy and Customer Operations at Terra, having previously worked at Apple. Watch the video to learn more about his journey.
+How we work
+How we think, and what we hire for. Engineering, design, research and commercial alike.
+First principles thinking
+We always start from ground truths, not “that's what's done”. Regardless of if we’re working on a data schema, a design system, or a pricing model, we always think from first principles.
+Bias to Speed
+We ship in days not months. When faced with a tough problem, we work out how to build it and then do it. If you like long process documents and planning meetings, you'll hate it here.
+No Lanes
+Your job title is a rough guess at what you'll actually do. You'll be out of your depth more often than not. Some people find that terrifying. The right people find it fun.
+Extreme Ownership
+We built the company around people, not process. There are no layers, no approvals, and nobody to escalate to. Which means when you spot a problem, it's your job to fix it.
+Live events and podcast
+Every week, we talk to the founders, executives, and investors who are redefining the business of fitness and wellness.
+Terra Podcast
+Live: Imperial College London
+Why you should stalk your users to get a product that sticks
+Vanessa, Chief Design Officer at Terra, breaks down how to get inside your users' heads to build products that people love.
+Live: Terra Health Day, San Francisco
+Taking control of your health: Kyriakos x Bryan Johnson
+Hear from Kyriakos, CEO of Terra API, in conversation with Bryan Johnson discussing longevity in front of 300 Y-Combinator founders.
+Live: Terra HQ, London
+Building The Top Health AI: Terra API x Flo Health
+Kyriakos, CEO of Terra API, with the CTO and Director of AI Platform discussing how to build top AI products.
+Community of builders
+Terra is a global hub for the best builders in health. We've run 30+ invite-only events with over 30,000 participants , including:
+Hackathons at MIT, Stanford, and Imperial
+Run club with Olympic Champion Alistair Brownlee
+Talks with the Lance Armstrong and Bryan Johnson
+All events
+A team of builders
+We get things done, ship fast, and don’t do bureaucracy
+More about us
+Alex
+Scaled Terra's infrastructure from zero to tens of billions of events annually
+Piragash
+Organised an event for YC Startup School with the founder of Strava in only 3 weeks
+Utkarsh
+Closed our biggest Fortune 500 customer in 6 weeks
+Cameron
+Built the AI integration layer the biggest AI labs use to access health data
+Antoine
+Increased support response times by 43%
+Jo Zee
+Rebuilt Terra's observability infrastructure to cover over 20 billion events
+Terra’s probably not for you if...
+We move with extreme velocity and not everyone can keep up, so don’t apply if...
+You’re not relentless
+Terra moves at 200 km/hr. This is not a regular 9-5 job. Don’t apply if you can’t keep up
+You’re not resourceful
+You are given extreme ownership and will work end-to-end. You need to know how to find solutions independently.
+You’re not getting stuff done
+You work in the open, everyone sees your work - good and bad.
+Open roles
+Join us to build the future of health and AI
+Our process consists of 4 interviews. End-to-end, this takes less than 2 weeks.
+Designer
+Design · London or San Francisco · On-site
+Apply
+Frontend Engineer
+Engineering · London · On-site
+Commercial Lead
+London · On-site
+Forward Deployed Engineer
+Engineering · London or San Francisco · On-site or Remote
+AI Engineer
+London or San Francisco · On-site
+Sales Strategist
+Senior Software Engineer
+AI and Health Researcher
+Data Science · London · On-site

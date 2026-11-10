@@ -1,0 +1,50 @@
+~ careers · plivo 100+ team · 2 countries
+Come build the future of Agentic AI with us
+Plivo is redefining customer engagement through intelligent, autonomous conversations at global scale - handling over one billion API requests monthly.
+We're a 100+ person team with offices in India and the US, backed by Andreessen Horowitz, Battery Ventures, Qualcomm Ventures, and Y Combinator.
+01 journey since 2011
+Our Journey
+Plivo began in 2011 offering programmable voice and messaging APIs, evolving into a Communications Platform as a Service (CPaaS) leader. Now we're building the next frontier - autonomous communication agents that handle complex customer interactions at scale. Profitable since 2015, we're backed by Andreessen Horowitz, Battery Ventures, Qualcomm Ventures, and Y Combinator. We're a 100+ person team with offices in India and the US.
+2011
+Plivo Founded
+2015
+Profitable Since
+190+
+Countries Served
+Countries Located
+1B+
+API Requests / month
+02 perks & benefits 5 pillars
+Perks & Benefits
+We invest in our people so they can do their best work.
+Dynamic Work Environment
+Fast-paced culture emphasizing innovation and high ownership across every team.
+Competitive Compensation
+Market-aligned salary packages designed to attract and retain the best talent.
+Tech-First Culture
+Work with cutting-edge technology - from AI agents to global communications infrastructure.
+Healthcare & Wellness
+Comprehensive medical coverage to keep you and your family healthy and secure.
+Transparent Culture
+Feedback-driven environment with emphasis on trust, ownership, and open communication.
+03 open positions
+Open Positions
+Find your next role and help shape the future of AI-powered communication.
+Loading positions...
+07 ship it plivo cli · from your terminal
+Don't see a role that fits?
+We're always looking for talented individuals. Reach out and tell us how you'd contribute.
+Sign up for free Talk to sales
+› no credit card › free credits › cancel anytime
+~/plivo 12:51:02
+$ brew install plivo/tap/plivo
+plivo cli · 4 steps quickstart →
+Learn more
+Necessary storage is always on. Use the toggles below to allow or deny
+optional analytics and marketing technologies.
+Necessary
+Required for security, form handling, theme preference, and saving your consent choices.
+Always on
+Analytics
+Helps us understand site usage and performance through analytics tags managed with Google Tag Manager.
+Marketing

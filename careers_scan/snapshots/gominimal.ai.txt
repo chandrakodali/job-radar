@@ -1,0 +1,42 @@
+Join Us
+YC-backed & VC-funded (Seed Stage)
+Small team, huge impact
+AI-native development
+We're building a self-learning AI system for e-commerce customer experience. It answers pre-purchase questions and resolves post-purchase requests end to end, builds and adapts its own integrations with each brand's stack, and feeds what it learns back to the brand automatically.
+To make this scalable, we're building an AI Manager: a higher-level agent that trains, monitors, and optimizes the Support Agents with minimal human input - effectively an AI-run support team. We're a YC-backed company.
+What makes this technically hard
+Making AI fully self-serve
+Other platforms rely on human-heavy implementation or stay shallow. We want store owners to set up and improve their agents entirely on their own — with feedback and correction systems that feel like managing a human teammate, not writing prompts. This is an unsolved problem.
+AI-native integration into arbitrary systems
+Every customer stack is different: Shopify, custom ERPs, legacy APIs. Hand-built integrations don't scale. We're building AI that can explore APIs, find real data, understand schemas, and reduce integration time from weeks to hours.
+How we build
+A small, AI-native team can outbuild companies 50× our size — if AI is a core part of how we design, build, and ship software.
+AI is a collaborator, not a tool
+We use Claude, Cursor, and others to reason about architecture, generate evals, explore codebases, and execute meaningful chunks of work.
+Agents are new stakeholders in the system
+Our APIs and abstractions are designed to be legible to AI. Clear naming, coherent schemas, consistent patterns — this makes both the codebase and our agents smarter.
+Systems thinking over speed-hacking
+We build abstractions that compound over time, for humans and AI.
+What we're looking for
+We don't care about years of experience. We care that you can build. You might be a fit if:
+You can own features end-to-end and enjoy doing so
+You ship fast and care about clean architecture and great UI
+You're resourceful and persistent — you figure things out
+You've built things you're proud of
+You use AI tools daily and want to push that frontier
+You think in systems, not tasks
+Stack
+Backend: Python, FastAPI, AWS • Frontend: TypeScript, React, Next.js
+Niek Hogenboom
+CEO & Co-founder
+Titus Ex
+CTO & Co-founder
+Open roles
+Growth Lead (Content & Meta)
+Our first growth hire. Film, edit and ship new Meta ad creatives every week, run our Instagram, manage our agency and take inbound demos.
+On-site in Amsterdam, The Netherlands Full-time €40,000–€80,000 + equity
+View role →
+Founder's Associate
+Work directly with our founders on whatever matters most that week: customers, sales, operations, strategy, fundraising and hiring.
+On-site in Amsterdam, The Netherlands Full-time €45,000–€60,000 + equity
+Don't see your role? If you feel you could have a big impact here, reach out at founders@gominimal.ai .

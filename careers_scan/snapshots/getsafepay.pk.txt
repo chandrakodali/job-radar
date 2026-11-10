@@ -1,0 +1,85 @@
+Innovating for the ambitious
+Accelerate your business with our groundbreaking fintech platform. Safepay unifies payments, analytics, and routing in one innovative solution, empowering growth from startups to enterprises.
+Get started See pricing
+Modular solutions
+One platform to manage it all
+From seamless payment experiences and robust solutions to routing transactions and end-to-end Raast infrastructure, we provide everything you need to meet your collection goals. Use Safepay to reduce costs, grow revenue, and run your business more efficiently on a fully integrated platform. Handle all of your payments-related needs, manage revenue operations, and launch (or invent) new business models.
+Payments
+Accept and optimize payments from anywhere in the world.
+Increase authorization rates, optimize your checkout conversion, and offer local payment methods in every market. We have payment solutions fit for every platform.
+Embedded Checkout
+Hosted Checkout
+Shopify
+SDKs
+APIs
+Plugins
+Start with Payments
+Subscriptions
+Capture recurring revenue
+Capture recurring revenue, support recurring business models, minimize churn, and automate finance operations.
+Buy Now Pay Later (BNPL)
+Software as a Service (SaaS)
+Memberships
+Online Courses & E-Learning
+Health & Wellness Services
+Start with Subscriptions
+Connect
+Connect multiple payment gateways
+Connect multiple payment gateways and route payments through custom rules with our enterprise-grade payment orchestrator.
+Customize Your Own Rules
+Optimize Payments
+Keep Your Preferred Provider
+Maximize Profit and Reduce Costs
+Unified Data Analytics and Reporting
+Start with Routing
+Unlock global payment diversity with one integration
+Seamlessly tap into worldwide commerce by instantly accessing popular local payment methods through a single, powerful integration. Our platform empowers you to accept credit and debit cards globally, alongside the most current and preferred payment options in each market.
+Empowering innovators: streamlined payment solutions
+Accelerate your development with intuitive, robust APIs
+Maximize your team's productivity with our unified payment ecosystem. We've navigated the complex web of gateways, payments, and rails distilling it into a single, powerful platform. This allows your developers to focus on what truly matters: building exceptional experiences for your customers.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+const safepay = require ( '@sfpy/node-core' ) ( '12aslkad23887234234' , { authType : 'secret' host : 'https://api.getsafepay.com' } ) ;
+safepay . payments . session . setup ( { "merchant_api_key" : "sec_faed47eb-0044-4968-b7e9-2fb7d7853eb9" , "intent" : "CYBERSOURCE" , "mode" : "payment" , "currency" : "PKR" , "amount" : 600000 } ) . then ( payment => console . log ( payment . tracker . token ) ) . catch ( error => console . error ( error ) ) ;
+Rapid Integration
+Our user-friendly APIs enable swift implementation
+Comprehensive Solution
+One platform for all your payment needs
+Global Reach
+Seamlessly operate across multiple markets
+Developer-Centric
+Tools and documentation designed for ease of use
+Simplified integration options for global businesses
+Whether you're a small business owner or a growing enterprise, Safepay offers flexible solutions to meet your payment needs, no extensive technical knowledge required.
+Payment links
+Create an invoice, or share a payment link directly from your Dashboard to start generating revenue in minutes—no code required. You can share the link through Social Media, Whatsapp, Email, SMS or even a Call Centre.
+Streamlined international invoicing
+Expand your global reach with our multi-currency invoicing system. Generate and send professional invoices in 8 different currencies.
+Invoices made easy
+Streamline B2B payments by adding clickable payment links to digital invoices, making payments seamless for everyone.
+Ease of collection
+Send links to anyone anywhere in the world. Even if their local currency is not supported they can still use Visa or Mastercard to pay in USD from any country.
+Innovative customizable components
+Select from our suite of advanced UI components and tailor the user experience to match your site design, theme and brand identity.
+Boost Conversions
+Pre-built components with accessibility, error handling, and autofill. Streamline development and enhance user experience.
+Expand Your Market
+Innovative payment integration for new opportunities. Easily manage methods and gain insights through your Safepay Dashboard.
+Future-Ready Payments
+Stay ahead with Safepay's evolving Atoms. Continuously updated to keep you at the forefront of payment technology.
+Pre-integrated e-commerce solutions
+Get up and running quickly with our pre-built integrations for popular e-commerce platforms:
+Shopify hosted checkout
+Seamlessly integrate Safepay into your Shopify store's checkout process.
+Shopify onsite checkout
+Offer a smooth, on-brand embedded payment experience directly on your Shopify site.
+WooCommerce plugin
+Easily add Safepay to your WordPress-based online store.
+Start accepting payments today
+With Safepay's user-friendly tools and pre-built integrations, you can begin processing payments and growing your business in no time—regardless of your technical expertise.
+Start now
+Transparent pricing
+Clear, upfront costs with no hidden fees.
+See pricing
+Seamless onboarding
+From sign-up to first transaction in no time.
+Sign up today

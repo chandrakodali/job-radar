@@ -1,0 +1,58 @@
+New customer story: how Capchase is serving the Fortune 500 securely Read it
+Backed by Y Combinator
+The autonomous security factory
+Superagent defends your software around the clock.
+customers
+ubicloud evry health dotenvx firecrawl capchase nango mastra paperclip
+…and over 3,000 open source projects, for free.
+why superagent
+all your software
+Applications, agents, repos, and infrastructure.
+keep your integrations
+Your integrations, agents, and workflows stay. Nothing to replace.
+improves over time
+A self-learning loop. Each run beats the last.
+use cases
+Superagent runs the security work and sends results into your existing workflows.
+build an always-on pentester with cursor
+Superagent tests your repository on a schedule and sends findings to Cursor. Cursor investigates and prepares fixes for CI and human review.
+always-on pentester →
+validate dependency updates end to end with devin
+Superagent tests dependency vulnerabilities and proposed fixes. Your Devin automation runs application checks before your team decides what to merge.
+dependency updates →
+build always-on security triage for your supabase app
+security-one-27b classifies incoming Supabase logs. Your workflow routes suspicious activity for review.
+supabase security triage →
+more use cases →
+products
+Superagent scans code, tests for weaknesses, and protects your agents. Each product handles a different part of the work.
+pr scanning
+Superagent checks code changes, dependencies, and contributors before merge.
+learn more → read the docs →
+red teaming
+Superagent investigates applications, code, agents, and packages for exploitable weaknesses.
+dependency validation
+Superagent tests which dependency vulnerabilities affect your app and which updates fix them.
+context guardrails
+Superagent screens external content before agents read, follow, or install it.
+runtime guardrails
+Superagent monitors agents and blocks supported risky actions using rules evaluated on each host.
+Security-One-27B
+security-one-27b scores security events and returns probabilities your application can use to route decisions.
+Superagent connects with your integrations — the tools, coding agents, and delivery workflows you already run.
+changelog
+2026-11-03 (HEAD -> main) import application inventory from cloudflare
+Import domains and subdomains from Cloudflare DNS, keep inventory in sync, and review hosts for red teaming.
+2026-11-02 dependency validation
+Check whether dependency vulnerabilities affect your application and verify fixes on Dependabot and Renovate security pull requests.
+2026-10-21 completed status for red-team reports
+Red-team reports automatically complete when all findings are resolved, with a status dropdown to manage review manually.
+full changelog →
+customer quotes
+“ When it comes to PRs or agents running in production, we are confident that Superagent is there to protect us all the way. ”
+read customer story →
+“ Superagent … found exploit paths. It patched them. A week later, a threat intelligence scanner flagged the same vulnerability. By then it was already fixed. ”
+“ you guys are the best. ”
+all customer stories →
+build your autonomous security factory
+Connect your software. Superagent runs security checks and sends findings to the agents and workflows you already use.

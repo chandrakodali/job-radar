@@ -1,0 +1,129 @@
+Products
+Chronos
+Docs
+Pricing
+About
+Login
+Get Kodezi
+What's new?
+Introducing Kodezi Chronos
+Careers at Kodezi
+Invent the future of autonomous code.
+Kodezi isn't another dev tool it’s the infrastructure layer beneath your software.
+We’re building the first operating system for codebases: one that heals, evolves, and documents itself.
+No prompts. No micromanagement.
+Just software that understands itself and keeps improving.
+We started building before ChatGPT, before copilots, before mainstream AI caught on.
+So did our early investors back in 2021 and 2022 when belief still outweighed hype.
+Since then, we’ve raised $2.5M and grown to over 3 million developers worldwide.
+If you’re done optimizing broken workflows, and ready to replace them entirely welcome.
+🔭 Our Vision
+We don’t believe the future of code is typing faster.
+We believe the future is writing less because the code evolves itself.
+Kodezi OS is that future: a self-sustaining operating system that embeds into your stack and fixes what breaks before it does.
+Great engineers don’t fix bugs.
+They build systems that don’t need fixing.
+📜 The Manifesto
+In 2018, we asked a question no one else did:
+What if code could fix itself?
+That single question didn’t lead us to a startup.
+It led us to a new class of software infrastructure.
+Explore ideas from the Kodezi Manifesto:
+Code that evolves, not just compiles
+Infrastructure that heals itself, not just ships faster
+AI embedded in the stack not floating on top
+A future where writing code is optional
+Read Kodezi Manifesto
+⚡ What We Refuse to Compromise
+Kodezi isn’t built on process.
+It’s built on a refusal to accept the status quo in software.
+We reject the idea that engineers should babysit their code.
+Software shouldn’t need a nanny. It should know what’s wrong and fix it.
+We reject the tooling trap.
+More tools ≠ more productivity. We’re not duct-taping workflows we’re replacing them.
+We reject short-term automation.
+Autocomplete isn’t intelligence. We aren’t here to save seconds. We’re here to save systems.
+We reject the myth that AI should assist.
+AI shouldn’t suggest. It should own.
+Kodezi isn’t your co-pilot. It’s the pilot.
+✅ What We Stand For
+Code that learns, not just runs
+Every failure, every PR, every commit adds to memory.
+Kodezi grows with your codebase and your team.
+Infrastructure that outlives its authors
+We don’t build MVPs. We build systems meant to survive.
+Builders who automate themselves out of the loop
+If you’re the kind of person who deletes your own job every 6 months, you’ll thrive here.
+Systems that disappear when they work
+The best infrastructure is invisible quietly fixing, evolving, and scaling behind the scenes.
+🌍 Where We Work
+Kodezi is remote-first across 5+ countries.
+We optimize for deep work, async culture, and shipping not meetings.
+If you want autonomy, ownership, and output you’re in the right place.
+🎁 What You’ll Get
+Competitive salary
+No location penalty
+Workspace stipend
+Pick your gear, no red tape
+Equity
+Real ownership in the OS for code
+40+ growth hours/year
+Health + wellness perks
+Stay sharp, stay well
+Flexible PTO
+No approvals, no accruals
+Annual team offsite
+We meet in-person to connect + build
+Full dev stack access
+Get the tools you need, no questions
+Zero micromanagement
+We hire you to lead, not follow
+🚀 Open Roles
+We’re hiring across engineering, product, and strategy.
+If you're driven by vision and systems thinking, apply even if your role isn’t listed.
+Founding Full-Stack Engineer
+Build the core interface and system layer. TypeScript, Rust, and product-level thinking required.
+Apply Now
+Founding ML Engineer
+Design the intelligence and memory layer. LLMs, embeddings, and systems thinking required.
+Product Designer
+Design the surface of Kodezi OS. Developer-native, intelligent, and system-aware.
+Developer Relations Lead
+Be the voice between product and community. Docs, demos, and dev onboarding owned.
+GTM
+Own messaging, launches, and momentum across product, growth, and strategy.
+You Tell Us
+Pitch a role we haven’t listed. If it’s bold, we’ll make it real.
+🤝 Backed by Believers
+We’re proud to be funded by investors who saw the future with us before anyone else did:
+They didn’t fund a feature.
+They backed a future where software sustains itself.
+✉️ How to Apply
+We’re not looking for employees. We’re looking for early believers .
+Email us at jobs@kodezi.com with:
+Your resume or portfolio
+Any links (GitHub, writing, tools)
+A note on why this mission matters to you
+Kodezi isn’t a job.
+It’s a bet on a better future for code and the operating system to sustain it.
+Read the Manifesto
+Use Cases
+Teams
+Developers
+Web-IDE
+CLI
+Create
+Resources
+Blog
+Changelog
+Contact Us
+Company
+FAQ
+Manifesto
+Careers
+Accounts
+Github
+Linkedin
+Instagram
+YouTube
+DPA

@@ -1,0 +1,35 @@
+Founding Team
+A mix of engineers, designers, and product managers with backgrounds that span enterprise, cloud tech, and the creative arts.
+Kyle Roche
+Founder and CEO
+   
+Kyle is co-founder and CEO at Griptape. Previously GM at AWS. Previously-er was founder and CEO at 2lemetry, which was acquired by Amazon in 2015. Father of 6. Spends free time volunteering on the streets of North Seattle with Operation Nightwatch. Serves on the Board of Stolen Youth.
+Jason Schleifer
+Product
+Schleifer has been a veteran in the animation and tech industry for almost 30 years, working on films like The Lord of the Rings, Madagascar, Megamind, and a bunch more. He co-founded Nimble Collective which was acquired by AWS in 2019. He has empathetic eyebrows, loves coffee, and lives in New Zealand, where he wears gumboots and chops wood.
+Zach Giordano
+Founding Engineer
+Zach is a software engineer with experience focusing on designing, implementing, and maintaining cloud-based services. He spent 4+ years working at AWS on various service teams before joining Griptape. Outside of software engineering, Zach spends time recording/producing music and playing live as a gigging guitarist.
+Leadership Team
+James Clarendon
+Head of Engineering
+James has spent the last decade at AWS launching distributed cloud services. Prior to that, he designed games in the Star Wars, Ghostbusters, Deus Ex, and Thief franchises. He’s excited to see how he can bring those disparate experiences to Griptape! In his spare time, he is active in the Video Game Preservation community, and hosts the Floating Tomb, Seattle's longest-running all-vinyl DJ night.
+Collin Dutter
+Head of Open Source
+Collin is based in San Francisco. He has spent most of his career working with AWS, and is excited to apply his expertise to AI! In his free time he enjoys exercising, and nerding out on video games, movies, and text editors.
+Amaru Zeas
+Creative Director
+Originally from Ecuador, Amaru is a multi-award-winning filmmaker with more than 18 years of experience. Formerly with AWS and Microsoft, his expertise spans across the evolving landscape of digital media, including Virtual Production, VFX, Games, VR, XR, Animation, and Arch Viz.
+Kirk Crenshaw
+Head of Marketing
+Kirk brings over twenty-five years of expertise as an executive, entrepreneur, and startup advisor. His leadership roles include spearheading marketing efforts at high-tech firms like DemandBase, Appirio (acquired by Wipro), and 2lemetry (acquired by Amazon). Passionate about music, Kirk regularly hosts backyard concerts to support charities like Sofaburn Inc and Letters to Santa.
+Resources
+Docs Learning Github Blog
+Company
+Brand Guidelines Careers Crunchbase AI Glossary
+Contact
+info@foundry.com
+Legal
+Privacy Notice Website Terms and Conditions End User License Agreement
+Do Not Sell or Share My Personal Information
+Sitemap

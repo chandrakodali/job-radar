@@ -1,0 +1,24 @@
+R&D
+Core Developer
+Tel Aviv, Israel (Hybrid)
+Full-Time
+Design, implement, test, and optimize core components of the FalkorDB graph database engine. Collaborate to integrate with LLMs and AI applications.
+Sales
+Technical Writer
+Create high-quality documentation, user-friendly interface text, online help, developer guides, and tutorials for FalkorDB products.
+Cloud Architect
+Full-time hybrid role for a Cloud DevOps Engineer. Responsible for infrastructure as code, CI/CD, system administration, and Linux.
+DevRel
+Developer Relations Advocate
+Bay Area (Hybrid / Remote PT)
+Advocate for FalkorDB in GenAI architectures. Build examples, create technical content, and engage developers via GitHub, Discord, meetups, and conferences.
+Account Executive
+San Francisco Bay Area
+Enterprise hunter driving new customer acquisition and strategic account growth across the Bay Area technology ecosystem.
+Technical Sales Development Representative
+Bay Area / Tel Aviv
+Drive FalkorDB’s enterprise growth by identifying high-value prospects and building pipeline across infrastructure, cybersecurity, AI, and data platform accounts.
+Required Skills
+Apply for this Position
+Application Submitted!
+Thank you for your interest in joining FalkorDB. We’ll review your application and get back to you soon.

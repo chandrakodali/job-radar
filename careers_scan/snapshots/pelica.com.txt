@@ -1,0 +1,84 @@
+Launch
+Pelica is live with HealthCare Partners , one of the Northeast’s largest IPAs.
+Pelica is live with HealthCare Partners →
+Read the story →
+Platform
+Copilots
+Solutions
+Customers
+Resources
+Security
+Book a Demo →
+Why join
+Work that matters
+Pelica currently serves more than 350,000 members. The teams using our copilots are closing care gaps and saving real time. What an AI agent does to close one .
+Learn from senior operators
+Co-founders built and led large teams at Google and YouTube. You will get unusual exposure to system design, scale, and ML at production grade, on a team small enough that you own real surface area.
+Speed and ownership
+Five people, no committees. You will ship product modules end to end, work directly with founders, and see your code in front of real users within days.
+Open roles
+Full-Stack Software Engineer
+San Francisco or remote Contract or full-time $80K to $150K 3+ years
+You will work full stack: design and build features spanning front end, back end, data storage, and processing. New product modules and services from scratch, or evolve existing ones, guided by real healthcare data and workflows. You will integrate large language models, process large clinical and claims datasets, apply traditional ML where it works better, and build tooling around AI-driven flows.
+What you will do
+Design and build features across React and TypeScript on the front end, Python or Node on the back end, and the data layer that connects them.
+Build new product modules from scratch, or evolve existing ones, against real healthcare data and workflows.
+Integrate LLMs, process large clinical and claims datasets, apply traditional ML, and build tooling around AI-driven flows.
+Make architectural decisions across frameworks, data models, APIs, and storage. Balance performance, scalability, maintainability, and complexity.
+Collaborate directly with co-founders to turn product vision into a working, maintainable codebase.
+What we are looking for
+At least 3 years of full-stack engineering experience, including substantial work with AI/ML.
+Strong skills across front end, back end, and databases. Demonstrated ability to design end-to-end systems.
+Experience integrating AI/ML: LLMs, data pipelines, long-form text processing, and traditional ML.
+Good design sense and architectural thinking. You understand trade-offs and choose wisely based on constraints.
+Comfort in an early-stage startup environment. Nimble, iterative, high ownership.
+Bonus: prior startup or founder experience. We value entrepreneurial thinking, self-direction, and a willingness to wear multiple hats.
+Apply for Full-Stack →
+Machine Learning Engineer
+You will build and own production machine learning systems end to end, from data modeling and feature engineering to training, evaluation, deployment, and monitoring. The data is messy real-world healthcare data: claims, EHR, pharmacy, lab, ADT. The problems are ranking, prioritization, and prediction, where the model output drives a real human or autonomous workflow.
+Build and own production ML systems end to end: data modeling, feature engineering, training, evaluation, deployment, and monitoring.
+Design and implement data pipelines that turn raw, messy real-world healthcare data into reliable features.
+Train and evaluate models for ranking, prioritization, and prediction, for example identifying high-risk or high-priority members.
+Deploy models as reliable services or batch jobs, with clear versioning, monitoring, and rollback strategies.
+Make architectural decisions around model choice, evaluation metrics, retraining cadence, and system guardrails. Balance accuracy, explainability, reliability, and operational constraints.
+Collaborate directly with founders and engineers to translate product and operational needs into scalable, maintainable ML solutions.
+At least 3 years building and deploying ML systems in production.
+Strong foundation in ML for structured (tabular) data: feature engineering, regression or classification models, ranking or prioritization.
+Experience with the full ML lifecycle: data prep, train/test, evaluation, deployment, retraining, monitoring.
+Solid backend engineering skills: production-quality code, services or batch jobs, databases, data pipelines.
+Good system design instincts. You understand trade-offs between model complexity, reliability, latency, and maintainability.
+Ability to clearly explain modeling choices, assumptions, and limitations to non-ML stakeholders.
+Bonus: healthcare or operational decision-support systems, LLMs in production (RAG, fine-tuning, structured prompting), model monitoring and data drift tooling.
+Apply for ML Engineer →
+How we hire
+You apply
+One short form. Name, email, role, link to your resume or GitHub or LinkedIn.
+Founder call
+A 30-minute call with Catherine or Lalit. Why you, what you have built, what you want next.
+Paid work trial
+A short paid project on a real Pelica codebase, scoped to one week. We see how you ship; you see how we work.
+Offer
+Decision within 5 business days of the work trial. Real founder email, real answer.
+Read this before you apply
+The fastest way to know whether Pelica is for you is to read what we have written about why we are doing this and how we build. Start with the founder letter, then pick whichever post matches the role you want.
+Start here · Founders
+Why we started Pelica Health
+The founder letter. Why we left Google to build the operating system for value-based care, and what we mean by “operations is the bottleneck, not AI.”
+Point of view
+AI Agents vs Analytics Dashboards in Value-Based Care
+A dashboard tells you what to do. An AI agent does it. Why VBC leaders should stop buying analytics and start buying execution.
+Product
+What an AI Agent Does to Close a Care Gap
+Step-by-step anatomy of an autonomous care-gap close: pull context, prioritize, decide, call, follow up, escalate, document.
+For ML and full-stack
+Replace the BI Ticket Queue With AI Questions
+Natural-language analytics with provenance. The shape of the data team changes without replacing BI. Authored by Lalit.
+For full-stack
+The Real Cost of Vendor Portal Sprawl in VBC
+Running VBC on 8 to 15 portals costs more than the licenses. Why consolidation is the only thing that works, and what we are building.
+Reference
+Glossary of Value-Based Care Terms
+40 terms every VBC operator should know: RAF, HCC, V28, RADV, HEDIS, ECDS, PDC, MAO-004, ADT, TCM. Useful before your founder call.
+Ready to apply?
+One short form: name, email, the role you want, and a link to your resume. We read every submission within 5 business days and reply directly from a real founder email. One application per role per email.
+Apply now →

@@ -1,0 +1,432 @@
+Careers
+We are one of the fastest growing open-source software companies in Austria, and have a huge worldwide user and customer base. The world’s enterprises, regardless of size, sector or industry, use our solutions in over 142 countries.
+You love Open Source? So do we!
+The Proxmox development team is actively engaged in many open-source projects and collaborates with many global communities to enhance cutting-edge technologies. We do our best every day to develop great software to simplify server management. If you share our enthusiasm, why not join our team?
+We are hiring
+Proxmox was founded in Vienna, Austria, where its headquarters and core development team are based. With Proxmox growing in Kingston, Ontario, we are hiring a Technical Solutions Specialist to provide expert technical support, solution guidance and client enablement for Proxmox products.
+Technical Solutions Specialist (Canada)
+On-Site Work | Kingston, Canada | Full-time
+As a Technical Solutions Specialist, you will assess, troubleshoot and resolve complex technical requests and provide accurate guidance on the deployment, configuration and use of Proxmox products.
+You will combine technical support ownership, investigation, research, solution advisory and client enablement. You will also collaborate with Client Care Representatives and Account Managers, contribute to technical discovery, support implementations, and share reusable knowledge through documentation, coaching and training.
+What You Will Do
+Take ownership of assigned technical requests through resolution or appropriate escalation.
+Diagnose issues involving software, systems, networking, virtualization and infrastructure technologies.
+Reproduce reported issues in test or laboratory environments and validate proposed solutions where practical.
+Provide guidance concerning deployment, configuration, integration and product use.
+Support technical discovery, proposals, consultations, demonstrations and presentations.
+Contribute to implementation planning, client training, technical handoffs and reusable documentation.
+Share technical knowledge and help client-facing colleagues recognize when escalation is required.
+Who Should Apply?
+Enjoy structured troubleshooting and investigating complex technical issues.
+Can explain technical information clearly to technical and non-technical audiences.
+Are comfortable managing technical cases independently while recognizing when escalation is required.
+Value accurate documentation, collaboration, continuous learning and client-focused communication.
+If you are enthusiastic about the opportunity and willing to learn, we encourage you to apply. We value curiosity, initiative, sound judgment, collaboration and a genuine interest in delivering practical results.
+Qualifications
+Post-secondary education in computer science, information technology, systems administration or a related field, or equivalent demonstrated technical experience.
+2+ years of demonstrated experience supporting or administering software, systems, networking, virtualization or infrastructure technologies in a support or other service-oriented customer-facing role.
+Excellent Linux systems administration knowledge, including experience with networking and firewalls (e.g. iptables).
+Strong troubleshooting, analysis and technical documentation skills, including experience managing cases through the entire support life cycle, from initial customer inquiry, triage and reproduction, to writing bug reports for hand-off to the development team, through to case resolution.
+Ability to independently manage technical cases and communicate clearly with clients and colleagues.
+Comfortable using help desk and ticketing software.
+A curious team player who enjoys cooperating with others, is eager to learn new technologies, and isn't afraid to deep dive into them.
+Additional experience that would be an asset includes:
+Hands-on experience with Proxmox products or comparable platforms, including basic understanding of virtualization technologies, preferably KVM or Linux containers (LXC).
+Knowledge of Linux administration, networking, storage, backup, clustering or high-availability environments.
+Experience in technical consulting, pre-sales engineering, implementation or client training.
+Relevant technical certifications or demonstrated equivalent knowledge.
+Location and Compensation
+This role is based on-site in Kingston, Ontario. The expected base salary range is CAD $70,000 to $120,000 per year. Placement within the range will be based on job-related factors such as technical depth, relevant infrastructure experience, client-facing capability and the expected level of responsibility.
+Approved business travel and training-related travel costs will be handled separately in accordance with company policy.
+Equal Opportunity and Accommodation
+Proxmox North America Inc. is committed to an inclusive, accessible, and respectful workplace. Accommodation is available upon request during the recruitment and selection process.
+Use of Artificial Intelligence in Recruitment
+Proxmox North America Inc. may use artificial intelligence tools to support the recruitment and selection process, including reviewing application materials. Hiring decisions are not made solely by artificial intelligence and include human review.
+Ready to Apply?
+If this opportunity matches your experience and interests, we would love to hear from you.
+Please submit your resume and a brief cover letter to jobs-pna@proxmox.com quoting Technical Solutions Specialist - Kingston in the subject line.
+Proxmox was founded in Vienna, Austria, where its headquarters and core development team are based. With Proxmox growing in Kingston, Ontario, we are hiring an Account Manager to own day-to-day commercial relationships and support a consistent purchasing, onboarding and renewal experience for clients.
+Account Manager (Canada)
+As an Account Manager, you will serve as the primary commercial contact for assigned clients and prospective clients. You will respond to client inquiries, prepare quotations and proposals, manage subscription activity, support account growth and coordinate internal resources.
+You will develop an understanding of client operations and priorities, manage renewals and commercial follow-through, and involve technical colleagues when specialized advice is required.
+Manage day-to-day commercial relationships for assigned clients and prospective clients.
+Conduct planned follow-ups and account discussions to understand needs and support retention.
+Prepare quotations, proposals and commercial documentation and follow up through purchase completion.
+Oversee subscription purchases, fulfilment, renewals, upgrades and account risks.
+Identify appropriate expansion, training or related-service opportunities based on stated client needs.
+Coordinate RFP, RFI and RFQ timelines, technical contributions, approvals and submissions.
+Maintain accurate CRM, quotation, opportunity, renewal and client-interaction records.
+Build trust through responsive communication, sound judgment and reliable follow-through.
+Can manage relationships, quotations, renewals and multiple concurrent priorities.
+Are comfortable learning technical products and translating client needs into coordinated commercial next steps.
+Value accurate records, cross-functional collaboration and a professional client experience.
+Post-secondary education in business, sales, marketing, technology or a related field, or equivalent relevant experience.
+Experience in account management, customer success, inside sales, subscription sales or a comparable client-facing role.
+Experience managing client relationships, quotations and renewals.
+Strong written, verbal and presentation skills, with proficiency in CRM, email and office productivity systems.
+Experience with software subscriptions, technology products, infrastructure or business-to-business clients.
+Experience coordinating RFP, RFI or RFQ responses.
+Working knowledge of virtualization, software infrastructure, Linux or Proxmox products.
+Relevant sales, account management or technology training or certifications.
+This role is based on-site in Kingston, Ontario. The expected base salary range is CAD $70,000 to $120,000 per year. Placement within the range will be based on job-related factors such as account-management experience, commercial capability, technology or subscription exposure and the expected level of responsibility.
+Please submit your resume and a brief cover letter to jobs-pna@proxmox.com quoting Account Manager - Kingston in the subject line.
+Proxmox was founded in Vienna, Austria, where its headquarters and core development team are based. With Proxmox growing in Kingston, Ontario, we are hiring a Client Care Representative to support a responsive, accurate and professional experience for clients and partners.
+Client Care Representative (Canada)
+As a Client Care Representative, you will be an initial point of contact for clients and partners. You will coordinate inbound requests, complete order and subscription administration, maintain client records and support the account management, training and technical teams.
+You will resolve routine matters within the role's scope, route or escalate other requests appropriately, and maintain timely communication and accurate follow-through.
+Monitor assigned email, ticketing and other client communication channels.
+Identify the nature and urgency of requests, resolve routine matters and route or escalate other requests.
+Process account set-up, subscription orders, renewals, upgrades and related transactions.
+Support invoicing, billing follow-up, training communications and completion certificates.
+Coordinate administrative onboarding, forms, contacts and internal handoffs.
+Maintain accurate CRM records, correspondence, transactions and follow-up activities.
+Build knowledge of Proxmox products, subscriptions, training services and client processes.
+Enjoy helping clients and providing clear, professional communication.
+Are organized, detail-oriented and committed to accurate follow-through.
+Can manage multiple requests and recognize when escalation is required.
+Want to build product, commercial and client-service knowledge in a technology environment.
+Post-secondary education in business administration, customer service, office administration or a related field, or equivalent relevant experience.
+Experience in customer service, administration, order processing or a client-facing environment.
+Strong written and verbal communication skills.
+Ability to manage multiple requests, maintain accurate records and use email, ticketing, CRM and standard office productivity systems.
+Experience supporting technology products, subscriptions, software licensing or business-to-business clients.
+Exposure to invoicing, procurement documentation or customer onboarding.
+Additional training related to customer service, business administration or technology.
+Basic knowledge of virtualization, software infrastructure or Proxmox products.
+This role is based on-site in Kingston, Ontario. The expected base salary range is CAD $45,000 to $75,000 per year. Placement within the range will be based on job-related factors such as relevant client-service experience, administrative capability, technology or subscription exposure and the expected level of responsibility.
+We are looking for a Pre-Sales Solutions Engineer to join our growing team.
+Pre-Sales Solutions Engineer (m/f/d)
+On-Site Work | Vienna | Full-time
+Proxmox Server Solutions GmbH, one of the fastest-growing open-source software companies in Austria, is looking for a dedicatedPre-Sales Solutions Engineer to support our expanding international partner and customer network with technical expertise throughout the sales process.
+In this key position, you will act as the technical bridge between our sales/partner team and prospective customers. You will translate technical requirements into tailored solutions, conduct product demonstrations, and help partners and customers understand how Proxmox VE and our other solutions integrate into their infrastructure needs.
+Your Responsibilities
+Design and validate complex virtualization and hyper-converged infrastructure (HCI) solutions for our international customer base.
+Lead technical deep-dives and Proof of Concept (PoC) processes to demonstrate the superiority of Proxmox VE against legacy virtualization stacks.
+Work closely with Partner Management and Sales to qualify opportunities and identify the right technical fit.
+Act as the technical connection between customer and our internal engineering teams to communicate field requirements and feature requests.
+Partner with the sales team to identify technical "win themes" and architected solutions that address specific client pain points.
+Develop reference architectures and deployment best practices to enable partners to scale Proxmox VE implementations.
+Coordinate closely with internal teams (Marketing, Product Management, Support) to ensure consistent technical messaging
+Your Profile
+Proven experience in Pre-Sales Engineering, Solutions Architecture, or Technical Account Management within the IT infrastructure/MSP sector.
+Deep expertise in virtualization technologies, with a heavy emphasis on Proxmox VE, KVM, or VMware/ESXi environments.
+Hands-on experience with Linux administration, storage, and networking fundamentals.
+The ability to translate complex technical architectures into clear, value-driven presentations for both technical and executive stakeholders.
+Comfortable presenting technical content to both technical and non-technical audiences.
+Strong troubleshooting skills and a passion for the open-source ecosystem.
+Preferred exposure to at least some of the following vendor ecosystems:
+Storage: Ceph, ZFS, NetApp, Pure Storage, Dell EMC, TrueNAS, Hitachi Vantara.
+Compute: Fujitsu PRIMERGY, Dell PowerEdge, HPE ProLiant, Supermicro, Lenovo, Cisco UCS.
+Networking: Cisco, Juniper, pfSense/OPNsense, VyOS or Fortinet.
+What we offer
+A collaborative environment with a young, motivated developer and support community.
+Opportunities to shape and improve a modern and open IT infrastructure.
+Flat hierarchies and direct communication across teams
+Space for personal growth and continuous learning in new technologies.
+Benefits such as your own job bike, free annual public transport ticket for Vienna, a modern and ergonomic workplace, and a beautiful, air-conditioned office with a view over the rooftops of Vienna. For coffee enthusiasts, a first-class Profitec 700 coffee machine is available. In addition, we offer fresh fruit, weekly team lunches, a technical library, and many other attractive perks.
+Full-time (38.5 h/week) with flexible hours.
+Start: upon agreement.
+Location: Vienna (on-site).
+The minimum monthly salary for this position is between 3954 - 5444 EUR gross, depending on qualifications and experience (full-time, 38.5 h/week, 14x/year).
+How to Apply:
+Please send your application documents, including a CV and a cover letter explaining why you are an ideal fit for this position, to jobs@proxmox.com
+We are looking for an IT Infrastructure Allrounder to join our growing team.
+IT Infrastructure Allrounder (m/f/d)
+In this role, you’ll take care of our Linux-based systems, virtualization environments, and core IT services, while continuously improving our infrastructure. You’ll be working alongside a motivated group of developers and support specialists, contributing your expertise and helping us keep our systems reliable, secure, and future-ready.
+Your responsibilities
+Administer and maintain Linux systems (with a focus on Debian distributions).
+Operate and support virtualization platforms like Proxmox Virtual Environment (or comparable solutions).
+Manage networking and security infrastructure (firewalls, switches, VPNs).
+Support and automate operations with tools such as Ansible and Git.
+Ensure the smooth running of services such as DNS, LDAP, email, and databases.
+Monitor performance, analyze issues, and troubleshoot problems within the Linux ecosystem.
+Collaborate with development and support teams to optimize workflows and keep services stable.
+Stay curious: evaluate new technologies and share ideas for infrastructure improvements.
+Your profile
+Degree in Computer Science/IT or equivalent professional experience.
+3+ years of experience in IT infrastructure or systems administration.
+Strong knowledge of Linux systems administration (Debian-based preferred).
+Familiarity with virtualization platforms (Proxmox VE or similar).
+Experience with configuration management (e.g., Ansible) and open-source workflows (Git, mailing lists).
+Understanding of IT services like DNS, LDAP, email, and DBMS.
+Basic networking and security know-how (firewalls, switches, VPN).
+Strong troubleshooting and problem-solving skills.
+Team player with good communication skills and a proactive mindset.
+For male applicants: completed military or civilian service.
+Please send your application documents including a cover letter explaining why you are an ideal fit for the position and what experience qualifies you in particular, as well as a CV, to jobs@proxmox.com
+We are currently seeking for a Technical Support Engineer proficient in Linux systems to provide enterprise-level support to our customers. This is a great opportunity for someone looking to use their skills to assist people.
+Technical Support Engineer (m/f/d)
+On-Site Work | Vienna | full-time
+The support team at Proxmox is responsible for providing technical support to clients of our open-source product suites.
+About the Role
+You will diagnose and troubleshoot software and hardware problems and help our clients solve their problems and minimize their downtime.
+You will use email and ticketing systems to provide timely responses to clients and help them keep their IT systems fully functional (no phone support, no 24/7).
+Software testing and benchmarking are part of your tasks.
+You will provide technical pre-sales support.
+You have patience in repeatedly explaining the same simple or complex solutions.
+You will collaborate with the software development team to triage and fix regressions.
+Engage with various open-source communities.
+Required Skills
+You are a systems administrator and/or IT support professional with 2+ years of experience in a support or other service-oriented customer facing role.
+You have excellent Linux systems administration knowledge.
+Basic understanding of virtualization technologies, preferably KVM or Linux containers (LXC), and/or Proxmox products.
+You are experienced in the administration of networking and firewalls (for example iptables).
+You are experienced in managing cases throughout the entire support lifecycle from initial customer inquiry to triage and reproduction, writing bug reports for hand off to the development team, and case resolution.
+You are curious to learn new technologies and have no fear to deep dive into them.
+Very good communication skills in English and German.
+You’re comfortable using help desk and ticketing software.
+You are a curious team player who enjoys cooperating with others and communicates well with team members and customers.
+Bonus Skills
+Experience with other operating systems, for example Windows or *BSD, are a plus.
+Experience with data center environments.
+Exciting activities in an international environment in a fast growing open-source company.
+You get to work with both established and new, cutting-edge open-source technologies and learn to use them.
+You will get the opportunity to dedicate part of your working time to explore and work on projects beyond your primary role. This may include code development, UI design, participation in an open-source project related to Proxmox products, etc.
+Attractive career opportunities fitting your strengths and interests.
+A great working environment with an amazing and diverse bunch of people.
+Benefits such as your own job bike, ticket for free public transport, modern and ergonomic workspaces, beautiful office with air conditioning and plants, Profitec 700 coffee machine, fresh fruits, weekly team lunch, library, 3D printer, and much more.
+Job Type: Full Time (38,5h per week) with flexible working hours.
+Job start: anytime.
+Location: Vienna (on-site work).
+We offer a salary in line with your qualifications and experience. The minimum monthly starting salary for this position ranges between 3267 – 4476 EUR, based on a full-time employment (38.5 h/week |14x/year).
+If you want to get to work in an exciting open-source environment at the leading edge of Linux and open-source innovation, we are looking forward to receiving your application! If you are interested in this position, please send us your application documents, explaining why you are the right fit for the job and based on which of your experiences we should select you. Include a cover letter and CV to jobs@proxmox.com .
+We are currently seeking for software engineers (m/f/d) proficient in Linux kernel development with the major focus on KVM/QEMU and the x86_64 architecture
+Software Engineer – Linux Kernel (m/f/d)
+Full-time position
+Like all production Linux deployments, Proxmox projects need to validate new kernels across all our workloads so we can benefit from the constantly changing and improving Linux kernel. To make sure new kernels also work well for our services, we want to improve our engagement with the upstream community. Proxmox wants to allocate more time to contribute patches to upstream, also review and participate early and actively in developments affecting our projects. Our focus is on improving the Linux virtualization, storage, networking, and container stacks. This is a great opportunity for someone looking to grow their skills and discover new open-source technologies with an international team of developers.
+Help improve the Linux kernel and/or QEMU with upstream contributions aligning especially with options helpful for Proxmox projects and their wide range of use cases. This can include developing and integrating modern para-virtualgraphics for VMs (e.g., Venus/VirGL), to improving file systems, networking, performance, QEMU/KVM live-migration or to tackle edge cases and bugs in CPUs themselves.
+Collaborate with our software engineers and the support team to triage and fix regressions.
+Diagnose and resolve issues in the kernel reported by Proxmox customers or the community.
+Submit, review, and apply patches on upstream and our downstream repositories, working with both internal and external upstream maintainers.
+Explore new and existing technologies in the Linux kernel or QEMU ecosystems. Collaborate with other team members in integrating them into Proxmox solutions. You should be able to share your knowledge and assist others.
+Who you Are
+You have knowledge of the Linux kernel, its development process and kernel subsystems such as x86_64/amd64, KVM, block, io-uring.
+Bringing experience with QEMU development is a major plus.
+Experience with patching and debugging both, kernel and userspace.
+Proficiency in the C or Rust programming languages, knowing both is a plus.
+You are able to communicate effectively in English, both written and oral (German is a plus).
+Ability to work collaboratively in a distributed team environment.
+Have close contact with internal and external developers.
+Actively initiate knowledge exchange with colleagues and contribute own ideas or impulses in a meaningful way.
+We offer a starting salary in line with your qualifications and experience. Remuneration is based on the desired contractual relationship in compliance with the respective legal and local conditions.
+If you want to get to work in an exciting open-source environment at the leading edge of Linux and open-source innovation, we are looking forward to receiving your application! If you are interested in this position, please send us your application documents, explaining why you are the right fit for the job and based on which of your experiences we should select you.
+Include a cover letter, CV, and your name/email so we’re able to find your existing contributions in the kernel/QEMU repos. Please send to jobs@proxmox.com .
+We are currently seeking for a software developer (m/f/d) proficient in Software Defined Networking (SDN). This is a great opportunity for someone looking to grow their skills and discover new open-source technologies with an international team of developers.
+Software Developer (m/f/d) for Software Defined Networking (SDN)
+The development team at Proxmox is responsible for expanding and maintaining our open-source product suite. For our virtualization platform, Proxmox Virtual Environment, this includes working with QEMU and the KVM hypervisor, Linux container technology (LXC), a highly available cluster stack, compute and networking tools, a variety of open-source storage, and many other technologies. For our Proxmox Backup Server, this involves working on low-level system and network tools, as well as the higher-level abstractions such as a REST API and web interface, in order to continue improving the highly optimized, Rust-based solution.
+You will contribute to and enhance our Software Defined Networking stack in Proxmox VE.
+Designing and developing network isolation and control plane integration into Proxmox VE using Linux native technology.
+End-to-end software development from concept to delivery.
+Initiate and participate in technical strategy discussions.
+Incorporate your knowledge on SDN and network into the Proxmox VE documentation and mentor other (support) team members.
+You will acquire in-depth knowledge of the Proxmox software solutions.
+You will engage directly with various open-source communities, and participate in other upstream projects which are integrated in our Proxmox solutions, like the Linux kernel, Debian, QEMU, LXC, etc.
+Keep an eye on mailing lists from Proxmox and other projects. Also important security issues will be part of your work.
+You will work closely with the technical support staff and/or offer support to our users and customers on the community forum and/or the enterprise customer portal.
+You will have close contact with internal and external developers and other open-source aficionados from all over the world.
+The experience we're looking for you to bring
+Proficiency in Linux-native networking.
+Profund knowledge of network isolation with VLAN and VXLAN, routing (VRF, BGP) and IP management
+Proficiency in programming in Perl or Rust, knowing both, is a plus.
+Good understanding of Linux userspace networking tools - routing daemons (frr), tcpdump, etc.
+Familiarity with networking hardware: switches, routers, firewalls, is a plus.
+Experience with the Linux virtualization stack (QEMU/KVM, LXC, network namespaces) is a plus.
+At ease working in Linux; understanding of Debian or Ubuntu is desirable.
+Comfortable with version control systems (Git preferred).
+Desirable
+Knowledge of Linux Kernel internals is a plus.
+Experience in RESTful API design is desirable.
+You are
+Ready to take full ownership of your work (at Proxmox, you are in the driver's seat of your projects).
+Passionate about clean code and elegant software design, and keen to find efficient solutions to challenging problems.
+Interested in working with multiple platforms and software stacks.
+You are a curious team player who enjoys cooperating with others and communicates well.
+Very good communication skills in German and English.
+Exciting activities in an international environment in a fast-growing open-source company.
+You get to work with new, cutting-edge open-source technologies and learn how to use them.
+Benefits such as your own job bike, free annual ticket for public transport, modern and ergonomic workspaces, beautiful office with air conditioning and plants, Profitec 700 coffee machine, fresh fruits, weekly team lunch, library, 3D printer, and much more.
+Job Type: Full-time (38,5h/week) with flexible working hours.
+Job start: Anytime.
+We offer a salary in line with your qualifications and experience. The minimum monthly starting salary for this position ranges between EUR 3267 - 5444, based on a full-time employment (38.5 h/week | 14x/year).
+If you want to get to work in an exciting open-source environment at the leading edge of Linux and open-source innovation, we are looking forward to receiving your application!
+Please send us your application documents, explaining why you are the right fit for the job and based on which of your experiences we should select you. Include a cover letter and CV to jobs@proxmox.com .
+We are currently seeking for a software developer (m/f/d) proficient in Rust. This is a great opportunity for someone looking to grow their skills and discover new technologies with an international team of developers.
+Rust Software Developer (m/f/d)
+The development team at Proxmox is responsible for expanding and maintaining our open-source product suite. For our virtualization platform, Proxmox Virtual Environment, this includes working with QEMU and the KVM hypervisor, Linux container technology (LXC), a highly available cluster stack, compute and networking tools, a variety of open-source storage, and many other technologies. For Proxmox Backup Server, this involves working on low-level system and network tools, as well as the higher-level abstractions such as a REST API and web interface, in order to continue improving the highly optimized, Rust-based solution. To deeply understand and address the needs of our users and customers, you will engage directly with them by actively participating in our support channels, such as the Community Forum and Customer Portal, and working closely with our Enterprise Support team.
+Integrate and develop new features for the Proxmox product stacks in Rust, and address issues/bugs.
+Participate in code review, testing, and documentation.
+You will work closely with the technical support staff and/or offer support to our users and customers on the community forum and in the customer portal.
+Work with upstream and downstream projects.
+Participate in technical strategy discussions.
+Improve our code base (code re-use, more idiomatic and more performant).
+Keep an eye on mailing lists from Proxmox and other projects. Also, important security issues will be part of your work.
+Experience programming applications in Rust operating efficiently on network, filesystem, and business-logic resources.
+Desirable: having experience with async programming and Rust frameworks like Tokio and Hyper is a plus.
+Experience designing and building robust APIs (REST).
+Ability to independently debug and solve problems.
+Passionate about clean code and elegant software design, and keen to find efficient solutions to challenging issues.
+We offer a starting salary in line with your qualifications and experience. The minimum monthly starting salary for this position ranges between EUR 3267 - 5444, based on a full-time employment (38.5 h/week | 14x/year).
+We are currently seeking for software developers proficient in Linux systems. This is a great opportunity for someone looking to grow their skills and discover new technologies with an international team of developers.
+Linux Software Developer (m/f/d)
+The development team at Proxmox is responsible for maintaining and expanding our open-source product suite. For Proxmox Virtual Environment, this includes working with QEMU and the KVM hypervisor, Linux container technology (LXC), a highly available cluster stack, compute and networking tools, a variety of open-source storage, and many other technologies. For Proxmox Backup Server, this involves working on low-level system and network tools, as well as the higher-level abstractions such as a REST API and web interface, in order to continue improving the highly optimized, Rust-based solution. To deeply understand and address the needs of our users and customers, you will engage directly with them by actively participating in our support channels, such as the Community Forum and Customer Portal, and working closely with our Enterprise Support team.
+You will familiarize yourself with a wide range of technologies and learn how to use them. The tasks will depend on your strengths and interests. They can include for example making improvements to the back-end services (such as REST APIs, management of QEMU, LXC, storage, cluster, network), working on low level components, or developing the front end, to enhance user experience.
+Participate in code review, debugging, testing, and documentation.
+You will be part of a highly motivated and supportive team, and you will collaborate with other team members to incorporate new features and innovations into the Proxmox product stacks. This includes exploring new technologies and tools, and diving into the code. Our teams use methods such as peer reviews so that you can quickly get feedback on your code and continuously develop further.
+You will engage directly with various open-source communities, and participate in other upstream projects which are integrated in Proxmox solutions, like the Linux kernel, Debian, ZFS, QEMU, LXC, etc.
+You will keep an eye on mailing lists from Proxmox and other projects. Also important security issues will be part of your work.
+Experience of one or multiple of programming and description languages such as Rust, C, Perl, Javascript, Dart/Flutter, Sencha Ext JS, etc.
+Solid knowledge of Linux operating systems and ecosystem, understanding of Debian or Ubuntu.
+Basic understanding of at least one virtualization technology, preferably KVM or Linux containers (LXC), and/or Proxmox Virtual Environment.
+Experience implementing technologies with a focus on operability, reliability, and scalability.
+Bonus skills
+Experience and/or active participation in open-source communities/projects or with international distributed teams - Desirable
+Exposure to at least one network configuration protocol - Desirable
+Keen to find efficient solutions to challenging problems.
+We offer a starting salary in line with your qualifications and experience. The minimum monthly starting salary for this position ranges between EUR 3267 - 5444, based on a full-time employment (38.5 h/week |14x/year).
+More information:
+Git: https://git.proxmox.com
+Community Support Forum https://forum.proxmox.com
+If you are still studying and want to gain first experience in software development and have experience with Linux systems, we offer you the opportunity to work alongside studies in an international team on cutting-edge Linux virtualization technologies and to learn from and with other developers.
+Student job: Software Developer (m/f/d)
+On-Site Work | Vienna | Part-time
+You will be part of a highly motivated and supportive team. From a wide range of tasks, you can choose what suits you best, depending on your strength. This can include making improvements to the backend services (such as REST API, management of QEMU / LXC / storage / cluster / network), working on low level components or on the frontend, improving user experience.
+You will be involved in testing and reviewing, bug fixing, and documentation of your developments.
+You can engage directly with various open-source communities and participate in other upstream projects integrated in Proxmox VE like the Linux kernel & related tools, ZFS, QEMU, LXC, Debian, etc.
+You will have close contact with external developers and other open-source aficionados from all over the world.
+Required skills
+Experience on Linux systems.
+Knowledge of Debian GNU/Linux or Ubuntu.
+Experience of one or more programming languages such as Rust, C, Perl, Javascript, Dart/Flutter, Sencha Ext JS, etc.
+Basic understanding in virtualization technologies.
+Ability to quickly learn new technologies and work independently in an agile environment.
+Good communication skills in German and English.
+Desired skills
+Experience and/or active participation in open-source communities/projects is a plus.
+Being in touch with new, cutting-edge open-source technologies.
+A great opportunity to learn new technologies and programming languages.
+A great working environment in a motivated team.
+Job Type: Part-time (between 20h - 32h) with flexible working hours (for example full-time in summer, part-time during year).
+Location: Vienna (On-Site Work).
+We offer a starting salary in line with your qualifications and experience. The minimum base salary according to the Austrian collective agreement in IT will be at least EUR 3104 per month (for a full-time position).
+If you are interested in this position, please send us your application documents, explaining why you are the right fit for the job and based on which of your experiences we should select you. Include a cover letter (mentioning how many hours you are able to work), and a CV to jobs@proxmox.com .
+Get yourself informed - read more about us:
+Partner and Order Processing Management (m/f/d)
+To join our customer and partner care team, we are currently seeking candidates with experience in order processing. You will have the opportunity to form part of a friendly team and communicate with customers and partners worldwide. The Proxmox Order Processing team is responsible for ensuring that customers and partners receive fast, efficient and friendly service when ordering (telephone-free office).
+Handle client orders, quotes, invoicing, and resolve complaints via our online shop system.
+Receive and process customer inquiries via email and the shop ticket system in English and German, driving towards a successful and satisfying outcome for the customer.
+Communicate with customers and partners worldwide.
+Your tasks will also include general office management and assistant activities.
+University degree or completed training in business administration, or relevant professional experience in a comparable position in an IT environment (e.g., order processing, customer service, sales, assistance, accounting/payroll).
+Very good English and German writing skills (B2 or above).
+Enjoy working with numbers. Strong attention to detail and accuracy.
+Accounting or business management knowledge is an advantage.
+Strong communication skills and customer orientation.
+You are able to work independently and are a reliable, discreet and loyal person.
+Benefits such as your own job bike, free annual ticket for public transport in Austria, modern and ergonomic workspaces, beautiful office with air conditioning and plants, Profitec 700 coffee machine, fresh fruits, weekly team lunch, library, and much more.
+Job Type: Full-time (38,5h/week), with flexi-time.
+We offer a starting salary in line with your qualifications and experience. The minimum monthly starting salary for this position ranges between EUR 2547 - 3819, based on a full-time employment (38.5 h/week |14x/year).
+If you are interested in this position, please send us your application documents, including a cover letter explaining why you are the right fit for the job and based on which of your experiences we should select you. Include a cover letter and CV to jobs@proxmox.com (Ms. Daniela Häsler), thanks.
+Partner Manager (m/f/d)
+Location: Vienna | Full-time | 1-2 POSITIONS
+We are looking for a dedicated Partner Manager to manage and strategically expand our growing, international partner network. In this key position, you will be the central contact between our sales partners and our internal teams (Technology, Marketing, Product Management). You will make a significant contribution to identifying joint sales opportunities, providing technical consulting to our partners, and thus further advancing our global success in the open-source environment.
+Responsible management and expansion of our partner network, focusing on sales and technical support.
+Strategic collaboration with partners to identify and realize sales opportunities together.
+Technical consulting and support for partners, especially regarding Proxmox VE and alternative virtualization solutions.
+Close coordination with internal teams from marketing and product management to support the partner strategy.
+Monitoring partner performance and reporting to management.
+Several years of professional experience in partner or customer management, ideally in IT system integration, MSP or similar.
+Strong technical understanding in virtualization, preferably Proxmox VE, alternatively VMware.
+Excellent communication skills and confident demeanor when dealing with partners and internal stakeholders.
+Ability to convey complex technical topics clearly and work solution-oriented.
+Proactive, independent working style, as well as teamwork skills and organizational talent.
+We we offer
+Work in an internationally successful open-source company with a growing partner network.
+Scope for design and responsibility in a key position with direct influence on business development.
+Attractive benefits like your own job bike, free annual ticket for Wiener Linien, modern ergonomic workplace, and air-conditioned office with views over the rooftops of Vienna. For coffee lovers: a first-class Profitec 700 coffee machine. Additionally, fresh fruit, weekly team lunches, a specialist library, and many other exciting employee offers.
+Flexible working hours with family-friendly scheduling and flat hierarchies.
+Full-time (38.5 hours/week) with flexible working hours.
+The minimum gross salary for this position depends on qualifications and experience and ranges between EUR 2547 – 4476 per month (full-time, 38.5h/week, paid 14 times per year).
+Please send your application documents, including a motivation letter (explaining why you are ideal for the position and which experiences qualify you particularly) and your CV, to jobs@proxmox.com
+Partner Management Assistant (m/f/d)
+Location: Vienna | Part-time (25 hours/week)
+We are looking for a dedicated Partner Management Assistant to provide operational and organizational support for our growing international partner network. In this role, you will work closely with our Partner Management, prepare and follow up on sales activities, keep track of ongoing topics, and help us further develop our partner relationships in the open-source environment. As an important interface to internal teams (Support, Marketing, Development), you ensure smooth processes and clear, structured communication.
+Provide operational support in managing and expanding our international partner network.
+Prepare, coordinate, and follow up on partner inquiries.
+Maintain and update partner and customer data in our systems (e.g. CRM, ticket or documentation systems).
+Organize partner meetings, online appointments, webinars, and events (invitations, agendas, minutes, follow-ups).
+Prepare overviews and reports on partner activities and performance for management.
+Work closely with Support, Marketing and Development teams to provide partners with up-to-date information and materials.
+Completed university degree in IT (e.g., Computer Science, Information Systems, IT Security), or ongoing Master’s degree in one of these fields at an advanced stage. Other educational backgrounds are only considered if they provide a clearly comparable and strongly developed IT profile.
+Initial experience in assistant roles, inside sales, sales support, or customer service is an advantage.
+Strong service orientation, a structured and accurate way of working, and enjoyment of organization and coordination.
+Excellent communication skills in German and good command of English, additional languages are a plus.
+Interest in IT/open-source topics and in working with international partners.
+What We Offer
+The opportunity to work in a successful international open-source company with a growing partner network.
+A supportive, friendly team that will provide structured onboarding and help you grow – with the perspective of gradually taking on responsibility for your own partners.
+Attractive benefits such as a company bike, a free annual public transport pass for Vienna, a modern ergonomic workplace, and an air-conditioned office with views over the rooftops of Vienna. Coffee lovers will enjoy our high-end Profitec 700 espresso machine. We also offer fresh fruit, weekly team lunches, a technical library, and many other perks.
+Flexible working hours, a family-friendly environment, and flat hierarchies.
+Full-time position (38.5 hours/week) with flexible working hours.
+Start: By agreement.
+The minimum gross monthly salary for this position ranges from EUR 1572 – 2497,87 (part-time, 25 hours/week, paid 14 times per year), depending on qualifications and experience.
+Send us your application, including a short motivation letter and CV, to jobs@proxmox.com and tell us why you are the right person for this role.
+Senior IT Quality Manager (m/f/d)
+On-site | Vienna | Full-time
+We are looking for experienced quality managers who are passionate about technology and precision and want to maintain and further develop the high standards of our open-source products. In this key role, you will play a central part in shaping the quality of our virtualization and backup solutions throughout the entire product lifecycle. As the main interface between Engineering, Product Management and Support, you drive continuous improvement, lead quality and compliance initiatives, and help ensure our solutions set global benchmarks in stability, security and performance.
+Ensure compliance with ISO standards, SOC, DORA, NIS, PCI, product safety law, and other relevant regulations.
+Develop, maintain, and update policies, standards, work instructions, and audit reports.
+Prepare and actively support internal audits as well as external audits by certification bodies and, where applicable, customers or authorities.
+Perform gap analyses, document findings, and derive corrective and preventive actions.
+Identify and assess risks across the development and support lifecycle.
+Contribute to maintaining a risk register and implementing mitigation strategies.
+Understand Proxmox software development and support processes (e.g. bug tracking, release management, support case handling, etc.).
+Support and document security-relevant development practices (e.g. OWASP, secure coding guidelines, threat modeling).
+Develop additional training and awareness materials for developers and support staff.
+Deliver short workshops on compliance topics and secure development practices.
+Analyse audit results and internal KPIs to optimise documentation and process workflows.
+Help further develop our integrated quality and security management system.
+University degree (e.g. Business Informatics, IT Risk Management, IT Security, Law with a focus on IT law / data protection) or equivalent qualification.
+Several years of experience in documenting and implementing IT compliance and certification processes.
+Solid technical understanding of software development, testing, and technical support.
+Excellent German and English language skills, both written and spoken.​
+Nice To Have
+Experience with container and virtualization technologies (KVM, LXC).
+Experience working with auditors and authorities.
+Hands-on experience with GRC tools, ideally open-source solutions.
+Certifications such as ISO 27001 Lead Auditor/Implementer, CISA, CISSP.
+The opportunity to work in a successful international open-source company.
+Attractive benefits such as a company bike, a free annual public transport pass for Vienna, a modern ergonomic workplace, and an air-conditioned office with views over the rooftops of Vienna.
+Coffee lovers will enjoy our high-end Profitec 700 espresso machine, plus fresh fruit, weekly team lunches, a technical library, and many other perks.
+Flexible working arrangements with family-friendly hours and flat hierarchies.
+Diverse training and development opportunities and a supportive, collaborative team.
+Start date: By agreement.
+The minimum gross monthly salary for this position, depending on your qualifications and experience, ranges between EUR 4061 – 5444 (full-time, 38.5 hours/week, 14 salaries per year).​
+Please send us your application, including a short motivation letter and CV, to jobs@proxmox.com and tell us why you are the right person for this role.
+Send Us Your Application!
+If you want to get involved in cutting-edge technologies, this may be your job opportunity. To apply, email us your application including an application letter and CV to jobs@proxmox.com .
+Once you have sent us your application, we will review it and respond to you within a couple of days.
+Benefits
+Modern workplace
+Stationary, comfortable workplaces with modern workstations and big screens. We will provide you with the equipment you need.
+Flexi-time
+Flexible working hours to live a balanced and fulfilling personal life.
+Competitive salary
+We'll reward great performance and commitment.
+Commuter benefits
+We provide you with the KlimaTicket for Austrian-wide free public transport.
+Job bike
+Get your own bike for the way to work or for the bike ride on weekends.
+Room to grow
+We'll support you to find your unique strengths and interests.
+Good coffee
+Coffee from the Profitec 700 dual boiler espresso machine.
+Vitamin boost
+Fresh, organic fruits for your daily vitamin boost.
+Weekly team lunch
+Food tastes better when eaten together.
+Social events
+We get together for social work events and have fun.
+3D printer
+Create anything with our 3D printer.
+Library
+Read anything with the books from our library.

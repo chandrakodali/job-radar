@@ -1,0 +1,96 @@
+Mobile Apps
+AI Utilization
+Your Next Tours
+MorseKit
+Faluna
+SimpleJack
+BlueRadar
+Cleaner Wave
+Longy
+Cosmo Puzzle
+NFC Tool
+Pulsefy
+CosmoWords
+Portfolio
+Our Apps
+Mobile apps we've built and shipped
+Live tour audio
+Morse code
+Daily horoscope
+Roguelike blackjack
+Bluetooth finder
+Speaker water eject
+Sauna & cold plunge
+Match-3 puzzle
+NFC read & write
+Heart rate monitor
+Word puzzle
+View all apps
+Products
+Featured Projects
+Check out what we've been working on
+Tour guide platform
+Turns a tour guide's phone into a live audio broadcast server. The group scans a QR code and listens in their own browser, with no receivers to rent and no internet needed.
+Explore Project
+AI agents & blockchain
+Vexom AI
+AI agent marketplace for blockchain
+Focus
+What We Build
+Apps first, with AI and blockchain where they make the app better
+Polished iOS and Android apps and games, from everyday utilities to word puzzles
+We make AI genuinely usable: MCP integrations, practical agents and AI features built for real people, not demos
+Blockchain, where it fits
+Know-how we reach for only when it genuinely helps. Today that is one feature: guides on Your Next Tours can collect tips to a wallet address
+The result
+It all lands in the app
+The app is the product. AI makes it smarter, and blockchain only shows up when it earns its place.
+Team
+Who We Are
+A small team building products we believe in
+Builders at Heart
+A team of engineers and designers obsessed with shipping great products
+Global Products
+Our apps and platforms are used by people around the world
+Always Exploring
+From AI to blockchain, we go deep into emerging tech and build real products with it
+Blog
+Latest Insights
+What we've been thinking about lately
+Oct 18
+Bitcoin and the Quantum Clock: Why Swapping Signatures Is Hard
+Bitcoin is the hardest case of the quantum problem: old exposed keys, big signatures, no one in charge. A cryptography look, not investment advice....
+Read Article
+Oct 11
+The Tour Guide's Next Toolkit Is the Phone They Already Carry
+A guide's working kit used to fill a bag: rented receivers, printed itineraries, a clipboard for roll call. Most of it now fits on the phone the guide...
+Why Your Messages Went Post-Quantum Before Your Certificates Did
+Your messages got quantum-safe encryption years ago, your certificates did not. Why key exchange came first, and how signatures are catching up....
+Oct 4
+What Is Q-Day? Reading the Quantum Timeline Without the Hype
+Q-Day is when quantum computers break today's public-key crypto. Why the estimates fell from 20 million qubits to 10,000, and how to read them....
+Sep 28
+Quantum Advantage Is Not Q-Day: Two Very Different Milestones
+Headlines say quantum computers beat supercomputers. That is not the same as breaking encryption. Here is the gap between the two milestones....
+Careers
+Join Our Team
+No open roles right now, but if you're excited about what we're building, drop us a line.
+careers@firstpoint.com.tr
+First Point - The company behind Your Next Tours
+We build mobile apps that people love to use
+Explore Our Work Say Hello
+Apps shipped
+Focus areas
+Platforms
+iOS + Android
+Scroll
+Contact
+Let's Talk
+Want to collaborate or just say hi? We'd love to hear from you.
+Office
+FIRST POINT YAZILIM LİMİTED ŞİRKETİ
+Balgat Mah. Ceyhun Atuf Kansu Cad.
+No: 36 İç Kapı No: 6
+Çankaya, 06520, Ankara, TÜRKİYE
+Email
+contact@firstpoint.com.tr

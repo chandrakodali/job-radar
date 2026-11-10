@@ -1,0 +1,181 @@
+Big news!
+dbt Labs + Fivetran: Building the Future of Data Together
+We’re excited to share that dbt Labs and Fivetran are merging to create the first end-to-end, open data infrastructure company. This goal of this merger is to accelerate our growth and strengthen our ability to serve customers around the world while keeping our people, culture, and community at the heart of everything we do.
+Read the press release
+Why dbt Labs
+Support data teams everywhere with a company united by shared values (and Slack). dbt Labs is up-leveling the analytics profession through a workflow we call analytics engineering. If you want to build a career helping analysts build theirs, we’d love to meet you.
+Parental leave
+Take time to connect with your new family member. We happily provide 16 weeks of paid parental leave for new parents.
+Health insurance
+We provide high-quality medical, dental, and vision benefits to all employees and their dependents.
+Unlimited vacation
+Take a spontaneous trip or plan a dream staycation. Unlimited vacation means that you can stop budgeting your PTO.
+Retirement plan
+We contribute 3% (based on your salary) to your 401k plan. This is regardless of how much you decide to contribute.
+Flexibility
+We’re a distributed team and place a premium on trust. Communicate. Get your work done. Live your life.
+Learning and development
+We provide up to $500 per year to each employee to use on their own learning and development, however they see fit.
+Open roles at dbt Labs
+Loading...
+Learn what's new across dbt with virtual sessions on November 17th or 18th. Register today.
+Fivetran named a Leader in the 2026 Gartner® Magic Quadrant™ for Data Integration Tools
+Watch every dbt Summit keynote and breakout session on-demand.
+Big news! 🎉 Fivetran and dbt Labs have merged to deliver the data infrastructure for agents you trust
+The State of Analytics Engineering survey is open! Make your voice heard and take the survey now.
+Alliances Department
+Global Alliance Lead, Capgemini
+Remote, California, United States, AMER
+Apply
+Remote, Colorado, United States, AMER
+Partner Sales Manager
+Remote, Japan, APAC
+Senior Partner Manager
+Analytics Department
+Senior Marketing Analyst
+Oakland, California, United States, AMER
+Senior Product Analyst
+Business Intelligence Department
+Sr. Principal AI Systems Architect
+Principal Product Designer
+Customer Solutions Group Department
+Solutions Engineer, Commercial (Austin)
+USA - Austin (dbt)
+Customer Solutions Architect (Austin)
+Customer Solutions Architect (Denver)
+Denver, Colorado, United States, AMER
+Customer Solutions Architect (NYC)
+USA - New York (dbt)
+Customer Support Department
+Manager, Customer Support Engineering
+Remote, Australia, APAC
+Engineering Department
+Staff Site Reliability Engineer
+Bengaluru, Karnataka, India, APAC
+Senior Software Engineer
+Principal Software Engineer - Data Lakes
+Remote, Germany, EMEA
+Staff Software Engineer
+Toronto, Ontario, Canada
+Software Engineer
+Staff Software Engineer, Backend
+Principal Software Engineer, AI Tooling & Adoption
+Staff Software Engineer - Full Stack
+Staff Software Engineer_Fusion Adapters
+Staff Software Engineer - Developer Productivity
+Staff Software Engineer - Infrastructure
+Senior Software Engineer - Developer Productivity
+Manager, Software Engineering
+Remote, India, APAC
+Staff Software Engineer-dbt core
+Bangalore, India
+Senior Software Engineer, Metadata
+Ontario, Canada
+Senior Engineering Manager, dbt Engine
+Software Engineer II
+Staff Software Engineer, Metadata
+Oakland, California, United States
+Engineering Manager, Metadata
+Senior Software Development Engineer in Test - Database Automation
+Technical Program Manager, Security
+Senior Software Engineer - Orchestration
+Senior Staff Site Reliability Engineer
+Senior Software Development Engineer in Test
+Senior Staff Software Engineer - SAP Connectors
+Amsterdam, North Holland, Netherlands, EMEA
+Manager Software Engineering
+Remote, New York, United States, AMER
+Senior Software Engineer - Developer Experience
+Novi Sad, South Bačka, Serbia, EMEA
+Senior Site Reliability Engineer
+Lead Full Stack Engineer
+Senior Full Stack Engineer
+Finance Department
+Senior Manager, Accounts Receivable & Billing
+Tax Manager
+Senior Financial Systems Analyst
+Senior International Accountant
+GTM Finance Manager
+Denver, Colorado, United States, AMER; Oakland, California, United States, AMER
+Director, SOX Compliance & Internal Controls
+Sales Compensation Manager Systems and Analytics
+USA - New York
+HR Department
+Senior Internal Communications Manager
+Remote, Texas, United States, AMER
+Remote, Pennsylvania, United States, AMER
+Remote, Washington, United States, AMER
+IT & Sec Department
+Manager Security Engineer, Operations
+Remote, Massachusetts, United States, AMER
+Legal Department
+Senior Commercial Counsel
+USA - Philadelphia (dbt)
+Marketing Department
+Principal, Marketing Insights
+Director, Content Marketing
+Lifecycle Marketing Manager
+Enterprise Demand Generation Lead — North America
+Senior Marketing Manager, Commercial
+Product Department
+Product Manager - Integrations
+Staff Product Manager, Connectors
+Staff Product Manager, AI & Developer Experience
+Senior Product Design Manager
+Oakland, California, United States, AMER; USA - New York
+Senior Product Manager - Adapters
+Senior Program Manager
+Program Manager, Growth, Monetization & Strategic Initiatives
+Staff Product Manager, Databases
+Remote, Any, United States, AMER
+Staff Technical Writer
+Senior Product Designer
+Senior Pricing & Monetization Data Scientist
+Product Designer II
+Professional Services Team
+Senior Technical Instructor (US East)
+Remote, Maryland, United States; Remote, Massachusetts, United States, AMER; Remote, New Jersey, United States, AMER; Remote, New York, United States, AMER; Remote, Pennsylvania, United States, AMER; Remote, Virginia, United States, AMER; Remote, Washington DC, United States, AMER
+Resident Solution Architect
+Sales Department
+Senior Account Executive, Enterprise
+Senior Sales Engineer, Commercial
+Dublin, Dublin, Ireland, EMEA
+Senior Sales Engineer, Enterprise
+Senior Sales Engineer, Enterprise - German Speaking
+Remote, Ireland, EMEA
+Remote, United Kingdom, EMEA
+Commercial Sales Director (Benelux)
+Enterprise Account Executive
+Business Development Representative (Austin)
+Account Executive, Commercial (Austin)
+Senior Solutions Architect, Enterprise
+Regional Director
+Remote, Illinois, United States, AMER; Remote, Indiana, United States, AMER; Remote, Michigan, United States, AMER; Remote, Ohio, United States, AMER
+Sales Director
+Remote, Minnesota, United States, AMER
+Senior Solutions Architect
+London, England, United Kingdom
+Remote, Any, Sweden
+Business Development Representative (Sydney)
+Sydney, New South Wales, Australia, APAC
+Business Development Representative (Denver)
+UKI Enterprise Sales AE
+Manager, Sales Engineering Specialists
+Principal Partner Solutions Architect
+Sales/Business Development Team
+Business Development Representative
+Business Development Representative - German Speaking
+Business Development Representative - French Speaking
+Sales Development Representative - Italian and Spanish Speaker
+IRL - Dublin (dbt)
+Sales Development Representative, German Speaking
+Strategy & Operations Department
+GTM Strategy & Planning Manager
+Junior Deal Desk Analyst, EMEA
+Revenue Operations Manager
+Global Head of Deal Strategy and Operations
+Systems Engineering Department
+Sr. Staff Technical Product Manager – Customer Support
+Senior Staff Software Engineer
+Senior Staff Systems Engineer, Data & Integrations
+Senior Systems Engineer - Data and Integrations

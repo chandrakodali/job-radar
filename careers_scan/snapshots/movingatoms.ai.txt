@@ -1,0 +1,37 @@
+Careers · San Francisco
+Build the bridge between real buildings and robots
+We turn scans of real sites into models engineers can build with and worlds robots can train in. We are hiring machine learning, robotics and engineering people in San Francisco who like hard geometry, real data and shipping.
+See open roles Email the founders
+Open roles
+All roles are full time and on-site in San Francisco.
+Machine Learning Engineer, 3D Reconstruction
+Turn raw point clouds into clean, measured geometry, object by object.
+Machine learning San Francisco →
+Machine Learning Engineer, Scene Understanding
+Teach the pipeline what every object is, and which Revit category and family it belongs to.
+Robotics Simulation Engineer, SimReady
+Make every scanned site a physics-ready world robots can train in.
+Robotics San Francisco →
+Robot Learning Engineer
+Train and evaluate policies in digital twins of real customer sites, and close the gap to the real robot.
+BIM and Geometry Engineer
+Own the output: native Revit and IFC that BIM teams trust on the first open.
+Engineering San Francisco →
+Infrastructure Engineer, 3D Data at Scale
+Move and process hundred-gigabyte scans quickly, in our cloud and on customer sites.
+Forward Deployed Engineer, Scan to BIM
+Be the engineer customers call: scope projects, run deliveries and bring their problems home.
+Customer engineering San Francisco →
+How we work
+Real data
+Every week, real sites
+Customer scans of plants, factories, warehouses and buildings arrive every week. You will see your work land in a BIM team's Revit model or a robot's training world.
+Measured
+Numbers before claims
+We check every model against the scan it came from, and we report results the way they happened.
+Small
+A small team in San Francisco
+Founded by two Oxford mathematicians, backed by Y Combinator and NVIDIA Inception. You will own large parts of the system from your first month.
+Don't see your role?
+Write to us anyway. Tell us what you have built, in your own words. A link to something that runs beats a CV.
+Email [email protected]

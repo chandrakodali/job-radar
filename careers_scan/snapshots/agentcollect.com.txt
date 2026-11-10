@@ -1,0 +1,18 @@
+Build the future of collections .
+We're replacing a $100B industry with AI agents. Join a small, fast team where your work ships to clients in days, not quarters.
+Senior Backend Engineer
+San Francisco / Remote
+Engineering
+Build the core platform powering AI-driven recovery workflows. Laravel/PHP, Redis, MySQL, queue systems, and API integrations with voice AI, email, and payment processors.
+Apply
+Senior Frontend Engineer
+Own the provider dashboard and customer payment portal. React, Next.js, TypeScript. Build real-time campaign monitoring, analytics, and white-label experiences.
+ML Engineer — NLP & Voice
+Design and optimize our AI voice agents. Prompt engineering, conversation design, TTS/STT pipelines, and real-time negotiation logic. Make agents that sound human and close deals.
+Account Executive — Enterprise
+San Francisco
+Sales
+Sell to VP Finance and CFOs at mid-market and enterprise companies. Consultative sales, complex deal cycles, and replacing entrenched collection agencies with a better solution.
+Customer Success Manager
+Customer Success
+Own the post-sale relationship. Onboard enterprise clients, optimize recovery campaigns, analyze results, and ensure every account sees measurable ROI within 30 days.

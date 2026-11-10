@@ -1,0 +1,139 @@
+✨ From vibe coding to vibe deployment. UBOS MCP turns ideas into infra with one message.
+Learn more
+Hiring a Founding Front‑End Engineer at 100x.bot (YC S22)
+100x.bot, a Y Combinator S22 startup, is actively hiring a founding front‑end engineer in Bangalore to lead the UI/UX of its next‑generation AI‑driven browser automation platform.
+Why This Hiring Announcement Matters
+In a wave of startup hiring trends that emphasize AI expertise, 100x.bot’s call for a founding front‑end engineer stands out. The role is not a typical “convert Figma files to React components” job; it is a strategic position that will shape the visual cockpit for autonomous browser agents—technology that could redefine how businesses automate web interactions.
+Read the original Hacker News discussion for the full posting and community reactions.
+Company Background & YC Roots
+Founded by Shardul Lavekar (ex‑Airtel AI, ex‑Ola) and Parth Mudgal (ex‑Flipkart, ex‑Ola), 100x.bot is backed by UBOS homepage , Accel, and Inventus. As a Enterprise AI platform by UBOS partner, the startup leverages UBOS’s low‑code AI infrastructure to accelerate product development.
+Graduating from the YC startup batch S22 , 100x.bot has already secured seed funding and is positioned to tackle the “hardest problem in automation”: making browser agents fast, reliable, and cost‑effective.
+For founders looking for a similar launchpad, the UBOS for startups page outlines how the platform accelerates AI‑first product builds.
+Role Details & Core Responsibilities
+What You’ll Build
+Agent Visualization Engine : Interactive graph‑based UI that displays real‑time workflow logic, loops, and self‑healing events.
+Dynamic MCP Interfaces : Auto‑generated UI components that adapt instantly to new Model Context Protocol (MCP) schemas without redeployment.
+High‑Performance Streaming UI : Virtualized rendering (e.g., react-window ) and atomic state management (Zustand or TanStack Query) to keep logs at 60 fps.
+Recorder Experience : A Chrome extension overlay built with Shadow DOM that captures user intent cleanly across third‑party sites.
+Tech Stack Snapshot
+Layer
+Technology
+Frontend
+React, TypeScript, Next.js
+Styling
+Tailwind CSS (with Shadow DOM handling)
+State Management
+Zustand / TanStack Query
+Protocols
+Model Context Protocol, WebSockets, Chrome Extension APIs
+Ideal candidates are React veterans (2+ years), TypeScript purists, and UI “craftspersons” who obsess over micro‑interactions. Experience with high‑frequency data streams, virtualization, and Chrome extension development is a strong plus.
+For developers who love building with low‑code AI, the Web app editor on UBOS offers a sandbox to prototype similar interfaces quickly.
+Why This Hire Is a Game‑Changer
+Front‑end engineering is often the public face of AI products. By securing a founding engineer, 100x.bot ensures that its AI agents are not only powerful under the hood but also intuitive on the surface. This move signals several broader trends:
+AI‑first product design : Companies are embedding AI directly into UI layers, demanding engineers who can bridge LLM logic with responsive front‑end performance.
+Rapid scaling via low‑code platforms : Leveraging the UBOS platform overview , startups can accelerate feature delivery while maintaining code quality.
+Equity‑driven talent acquisition : The YC‑standard equity package aligns engineers’ incentives with long‑term company success, attracting top talent in competitive markets like Bangalore.
+From a community perspective, the role also highlights the growing demand for front‑end developers who understand AI workflows . As more startups adopt generative AI, the skill set described above will become a benchmark for hiring across the sector.
+Explore how AI marketing agents are already reshaping customer outreach—another example of front‑end brilliance meeting AI intelligence.
+How to Apply & Further Resources
+If you’re ready to shape the future of browser automation, send your GitHub profile and a portfolio of complex UI projects to the founders’ inbox (email provided in the original posting). Highlight any experience with:
+React performance optimization for high‑frequency data.
+Tailwind‑styled Chrome extensions.
+Real‑time graph visualizations (e.g., D3.js, VisX).
+While you prepare your application, you might find these UBOS resources useful:
+UBOS partner program – learn how to collaborate on AI‑driven projects.
+Workflow automation studio – a visual builder for complex automations.
+UBOS pricing plans – understand cost structures for scaling AI services.
+UBOS portfolio examples – see real‑world implementations of AI‑enhanced UIs.
+UBOS templates for quick start – jump‑start your prototype with pre‑built components.
+For inspiration, check out a few marketplace templates that align with front‑end engineering:
+AI Video Generator – showcases real‑time media rendering.
+AI Image Generator – demonstrates high‑throughput UI updates.
+AI Chatbot template – a classic example of interactive front‑end design.
+Web Scraping with Generative AI – parallels the data‑intensive UI challenges at 100x.bot.
+Conclusion
+100x.bot’s hunt for a founding front‑end engineer is more than a hiring notice; it’s a signal of the next wave of AI‑centric product development. By marrying cutting‑edge LLM capabilities with a performant, user‑friendly UI, the startup aims to set a new standard for browser automation.
+Whether you’re a recruiter scouting top talent, a founder building an AI‑first team, or a developer eager to work at the intersection of front‑end craftsmanship and generative AI, this opportunity offers a rare blend of equity, impact, and technical challenge.
+Stay ahead of the curve by following UBOS’s ecosystem—explore the About UBOS page for the company’s vision, and keep an eye on future hiring trends in the AI space.
+Andrii Bidochko
+CTO UBOS
+Andrii Bidochko is an AI entrepreneur and researcher focused on AI agents, reinforcement learning, and autonomous systems. He writes about the technologies shaping the future of machine intelligence, from frontier models and agent architectures to real-world AI applications.
+Related articles
+Microsoft Makes Agent Runtime Free While Retaining the Control Plane
+Microsoft Makes Agent Runtime Free While Retaining the Control Plane At Build...
+Read in 2 min
+OpenAI’s New AI Model, Sora: Converting Text into Video
+OpenAI, the leading artificial intelligence research laboratory, has recently unveiled its latest...
+Read in 3 min
+RestGPT: Connecting Large Language Models with Real-World RESTful APIs
+RestGPT is an innovative project that aims to construct a large language...
+Introducing Bard Gemini: The Revolutionary AI-Powered App by Google
+Are you ready to experience the future of AI technology? Look no...
+Featured Templates
+View More
+Data Analysis
+Pharmacy Admin Panel
+254
+2272
+FREE
+Install
+AI Agents
+AI Voice Assistant (Voice-Text-Voice)
+176
+2089
+AI Assistants
+AI Chatbot Starter Kit v0.1
+141
+1202
+Customer service
+Multi-language AI Translator
+139
+1247
+Customer Relationship Management (CRM)
+190
+1789
+AI Image Generation
+Image Generation with Stable Diffusion
+117
+1205
+Featured MCP Servers
+Transcription Tools
+by MushroomFleet
+An MCP server providing intelligent transcript processing capabilities, featuring natural formatting, contextual repair, and smart summarization powered by Deep Thinking LLMs.
+🔗 3
+⭐ 9
+⚖️ MIT License
+MCP Python Demo
+by chenchen0611
+这是一个基于 MCP (Model Context Protocol) 的项目，集成了智谱 AI 和腾讯地图 API，提供了天气查询、地理编码和网络搜索等功能。
+🔗 0
+⭐ 2
+⚖️ Apache 2.0
+MCP Agent
+by jameshung2015
+public server for mcp
+🔗 1
+⭐ 0
+Monad MCP Server
+by lispking
+⭐ 7
+⚖️ Apache License 2.0
+CnosDB Server
+by cnosdb
+An MCP server for CnosDB.
+Marvel MCP Server
+by DanWahlin
+MCP server hosted using Azure Functions
+⭐ 1
+Australian Bureau of Statistics (ABS)
+by seansoreilly
+MCP server for Australian Bureau of Statistics
+⭐ 3
+MCP Jupiter
+by dcSpark
+🔗 4
+Sign up for our newsletter
+Stay up to date with the roadmap progress, announcements and exclusive discounts feel free to sign up with your email.
+Sign In
+Register
+Reset Password

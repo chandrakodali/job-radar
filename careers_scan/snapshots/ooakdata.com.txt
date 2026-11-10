@@ -1,0 +1,16 @@
+Careers
+Help build the data layer for AI agents
+We are a small, focused team building the data infrastructure that frontier AI labs use to train and evaluate their agent models. If you care about real-world AI performance, not just benchmark scores, we want to talk to you.
+How we work
+Real data over synthetic shortcuts
+We believe the path to capable AI runs through real-world data. We do the hard work of collecting, anonymizing, and structuring data from real companies, no synthetic proxies.
+Research that ships
+We publish what we learn, but everything we build goes to production. We value rigor and pragmatism equally.
+Small team, high trust
+We hire people who take ownership. No micromanagement, no unnecessary process. You will have real impact from day one.
+Intellectual honesty
+We say what we don't know. We question our assumptions. We'd rather be right slowly than wrong quickly.
+Open roles
+Browse our open positions and apply directly below, through Y Combinator's Work at a Startup.
+Don't see your role?
+We are always looking for exceptional people. If you are excited about what we are building and think you can contribute, reach out anyway at contact@ooakdata.com .

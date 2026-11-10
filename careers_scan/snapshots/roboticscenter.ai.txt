@@ -1,0 +1,36 @@
+Careers
+Work on the whole stack
+Join Robotics Center. We're hiring across hardware, data, and evaluation to make deployment-ready robotics the default.
+Get in Touch →
+We’re a small team running one stack — hardware, data, and evaluation — end to end. That means engineers here touch real robots, real data pipelines, and the evaluation loop that ties them together. No open req that fits? Reach out anyway — tell us what you want to work on.
+Who we look for
+Builders who want a whole problem, not a sliver
+We're a small team running one stack — hardware, data, and evaluation — end to end.
+Robotics & ML engineers
+People who like hardware in the loop and real robots on the bench.
+Operations & fulfillment
+People who care about getting the logistics right, every time.
+Full-stack builders
+People who want ownership over a whole problem end to end.
+Ways to join
+Full-time, internship, or a hand at our events
+Three ways in. Pick the one that fits and tell us what you want to work on.
+Full-time
+Who it’s for
+Robotics & ML engineers, operations people, and full-stack builders who want ownership of a whole problem.
+What you’d do
+Work across the stack we run end to end — hardware, data, and evaluation — with real robots on the bench and real data pipelines behind them.
+How to apply
+We hire on a rolling basis rather than through fixed postings. Send a short note on what you’ve built and what you want to own, with a résumé or links.
+Apply for full-time
+Internships
+Students and recent graduates who want hands-on time with real robots, not just simulation.
+Take on a scoped project alongside the team — on the hardware, data, or evaluation side — and ship something that gets used.
+Timing and length are flexible and set case by case. Tell us your school or program, when you’re available, and the area you want to work on.
+Apply for an internship
+Event volunteers
+Students, researchers, and builders in the Bay Area robotics community who want to be in the room when the robots are on the floor.
+Help run the events we host and co-host at our San Francisco lab — check-in, hardware setup and briefings, and keeping demos running. Recent and upcoming examples: the GPT-6 Astra Robotics Hardware Hackathon (Reading Club #35 of the Robotics & World Models Reading Club, with Saturday Robotics), Dexterity Day + IROS Recap , Physical AI Operators #02 , and Meet the Robot+Data , which brought 318+ people through the door.
+Volunteering is flexible — pick the events that suit you. Tell us which events you’d like to help with and what you’re into.
+Volunteer at an event See upcoming events
+Prefer a form? Use the careers contact form . You can choose a track, attach a résumé, and share GitHub or portfolio links. Applications are sent to careers@roboticscenter.ai .

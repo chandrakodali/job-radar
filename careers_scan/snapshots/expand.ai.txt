@@ -1,0 +1,48 @@
+Docs Pricing Get an API key
+Join us
+A small group of people can have a remarkable impact.
+We're on a mission to empower humans with technology. Why we build Expand is its own page. This one is about who we're looking for.
+Access to the world for agents is unsolved. It's frankly speaking a fucking mess.
+We start by giving agents eyes, a way to see the web.
+That is just the beginning. We'll share more of the roadmap as we go.
+This isn't piping APIs. We do foundational research: custom model architectures, custom training, custom loss functions, custom deployments, end to end.
+We have a rare chance to build a truly AI-native company from scratch.
+No baggage to carry, no politics. Just a small group that wants to make a dent.
+We're building an exceptional, small team in San Francisco.
+Whether you build full-stack products, engineer GTM systems, work directly with customers, or train models, we want to hear from you.
+Tim, the founder, previously built Stellate, which was sold to Shopify. Before that he was the first engineer at Prisma, where he designed the ORM.
+If you want to push the frontier, write us at join@expand.ai .
+From the blog Expand Search is here. Read the post
+Products
+Fetch >
+Iris >
+X-Ray >
+Wayback Machine >
+Highlights >
+Search >
+Crawl >
+WebSync >
+Platform
+Playground >
+Fetch API >
+MCP >
+CLI >
+SDK >
+Pricing >
+Developers
+Getting Started >
+Docs >
+Docs for agents >
+FAQ >
+llms.txt >
+start.md >
+Company
+About >
+Blog >
+Careers >
+Talk to the Founder >
+Community
+LinkedIn >
+GitHub >
+X (Twitter) >
+All systems normal

@@ -1,0 +1,58 @@
+Home Technology Careers
+JOIN US ON OUR JOURNEY TOWARDS UNMANNED FREIGHT SHIPPING
+Our trucks haul commercial freight every day in live operations. Carriers rely on the system as part of their business, and the vehicles run on public highways along ordinary shipping routes.
+We are a small team building the entire autonomy stack ourselves. We ship code to vehicles, run it in the real world, and iterate quickly.
+We are building unmanned Class-8 trucks and scaling them into real freight networks to automate long-haul shipping. The software you write directly controls a moving vehicle and affects real operations. This system operates in the physical world. Errors carry consequences, and correctness is non-negotiable.
+Autonomous trucking is unusually difficult because the system must work continuously. It drives for hours, encounters edge cases as a normal condition, and must remain stable at highway speed while carrying heavy loads.
+Mars Auto is one of the few places where autonomy is already running in daily commercial operations, and the system is still being built end-to-end.
+Hiring
+Open positions
+Autonomy Engineer
+What You’ll Do
+Build and deploy real-time driving software that runs on production Class-8 trucks hauling freight daily in Korea and the United States
+Design systems that must operate continuously for hours at highway speeds under real-world conditions
+Run the entire autonomy stack on a resource-constrained onboard computer powered by the truck’s battery
+Build the on-vehicle system end-to-end, from sensors to controls
+Diagnose and resolve failures that occur during real-world operations
+Build and scale the data acquisition flywheel from trucks operating daily in production
+What You Bring
+You understand how computers actually work, including memory, threads, syscalls, caches, and hardware
+You can debug across the stack from Python down to kernel space
+You care deeply about performance, determinism, and reliability
+You are comfortable working close to hardware, including ARM, x86, and embedded systems
+You write clean, efficient C/C++ and Python
+Strong Signals
+You have built systems that run continuously in production environments
+You have optimized systems under tight compute, memory, or power constraints
+You have debugged race conditions, memory corruption, or timing issues
+You have worked on embedded systems, robotics, or performance-critical infrastructure
+You have competitive programming experience, such as IOI, Topcoder, or Codeforces
+You have experience with CUDA or inference optimization
+Why It Matters
+A rare opportunity to ship autonomy software directly on commercial Class-8 trucks in daily operation
+Built for production from the start, not demos or research milestones
+Must run under strict compute, memory, and power constraints
+Directly controls a heavy-duty vehicle, with real consequences when it fails
+Seoul
+Full-time
+Research Engineer
+Build vision-based driving models from large-scale real-world driving data
+Develop automatic data acquisition and labeling systems that continuously improve the models
+Make models work reliably under diverse real-world conditions
+Improve model performance under real-world conditions, not just offline metrics
+Optimize models for fast inference and limited compute on embedded hardware
+You understand machine learning fundamentals and can implement them from first principles
+You have a strong background in statistics, linear algebra, and calculus
+You have strong computer science fundamentals
+You can take ideas from papers and make them work in practice
+You care about real-world performance, not just accuracy
+You have worked on computer vision problems involving real-world data
+You have trained models on large-scale image or video datasets
+You have built data pipelines or automatic labeling systems
+You have optimized models for latency, memory, or compute constraints
+The model directly determines how the vehicle drives
+Data comes from trucks driving every day, not curated datasets
+The system learns continuously from real-world operations
+Models must work under strict latency and compute constraints
+Seeking engineers capable of delivering production autonomy.
+Or email jobs@marsauto.com directly.

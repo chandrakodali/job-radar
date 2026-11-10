@@ -1,0 +1,23 @@
+Careers
+Open positions
+Full Stack Engineer - Build AI Agents and Generative User Interfaces
+Read more
+AI Harness Engineer (Backend Developer)
+Backend Tech Lead
+Who thrives here
+Grit
+You aren't afraid to roll up your sleeves and do hard work. Challenges don't frighten you.
+Creativity
+You think out of the box. You're not afraid of new ideas.
+Team Player
+You enjoy learning from and mentoring others.
+Curiosity
+You ask why an alert fired, not just how to silence it. Digging into systems you don't know yet is the fun part.
+Bias for Action
+You'd rather ship something real and iterate than polish a plan. Done teaches you more than discussed.
+Self-Driven
+You don't need someone watching to do great work. Most of our team is remote. You manage your own time and own your outcomes.
+See it running in your environment.
+We'll help you get Robusta installed on your cluster and walk through a live incident.
+Try now
+Prefer to tell us about your setup first?

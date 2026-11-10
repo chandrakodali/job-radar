@@ -1,0 +1,71 @@
+🚀 New case study -> How Scalapay automated 66% of merchant KYC/AML reviews
+AI agents for
+KYC/AML operations
+Leading fintechs and banks use Diligent AI agents to automate their risk and compliance workflows
+Request demo
+Trusted and used daily by leading banks and fintechs
+Why we exist
+KYC/AML teams are drowning in manual tasks — AI agents can supercharge humans, clear the backlog and keep them above water
+How it works
+Configure an agent
+Pick your workflow
+Identify the most manual KYC/AML workflows you want to accelerate. From risk reviews, to alert remediation or document processing
+Connect your systems
+Plug the AI agent into your stack. Connect it via API, our Portal or through our native integrations with screening tools.
+Provide your policies
+Teach the agent how you work. Upload your risk policies and procedures so the Agent runs checks in a customized and auditable way
+Run with oversight
+Keep humans in the loop. Deploy the agent in production with analyst review until you’re comfortable scaling automation.
+Use cases
+Merchant risk agent
+Investigate automatically merchant websites, socials, reviews, and registry filings to catch risky businesses
+AML Screening agent
+Automatically remediate false positive alerts from your Sanctions/PEP/AdverseMedia provider
+Document verification agent
+Automatically verify whether customer documents match your policy and requirements
+Value
+We bring your risk and compliance ops to a new era
+Slash cost to comply
+Empower your team to 10x the volume with the same resources, reducing cost per customer
+Enhance risk detection
+Replace unpredictable manual checks with deep, structured and auditable AI research
+Improve customer experience
+Clear good customers quickly, reduce friction, and let them start using your product sooner.
+Hear it from our customers
+Next
+Diligent AI significantly reduced our onboarding workflows and eliminated repetitive tasks for our team – supporting the quality of our processes by making them consistent and auditable. In particular we appreciated the Diligent’s team reactivity and valued their tool’s flexibility
+Maureen Gorman
+Head of global operations
+Diligent AI agents radically improved both the efficiency and effectiveness of our merchant due diligence reviews - we significantly reduced onboarding time and risk exposure. 65% reduction in manually reviewed risk queues and over 6000 hours saved from manual checks
+Gabriele Alessi
+Director of operations
+Diligent AI agents helped us slash our risk review times significantly, but more importantly, helped us build a stronger and more systematic approach to risk detection. Our very close collaboration also enables us to leverage them as an extension of our team
+Karan Khanna
+Fraud strategy manager
+Trust
+Built for Enterprise Secure by Design
+No training on your data
+Modern & secure data practices
+Cyber insured
+Audited & tested - SOC2+ISO certified
+Find out more
+SOC2 TYPE 2
+ISO 27001
+GDPR
+Latest News
+Resources
+View All
+Customers
+How Teya tripled straight-through processing in customer onboarding with AI agents
+Teya, one of Europe's fastest-growing acquirers, partnered with Diligent to remove manual proof of business checks from onboarding with AI agents. Within a year, straight-through onboarding trebled, manual review queues halved and the team saved 18,000 hours annually. Teya is now on track to hit its ambitious automation targets without adding headcount.
+Read all
+News
+Partnership Spotlight: Journey to SOC 2 with Oneleet
+How Diligent AI worked with Oneleet to complete SOC 2 Type II and strengthen its security practices.
+Diligent AI Featured in Times Square: A Milestone for AML Automation
+We lit up Times Square! Celebrating a milestone worth sharing.
+FAQ
+We build AI solutions that enhance your risk and AML compliance teams' capabilities by automating and strengthening customer due diligence controls. Our services are utilized by fintechs and banks to streamline workflows such as conducting risk investigations on legal entities, reviewing customer documents (for example, registry extracts and proofs of address), and remediating false positive alerts from AML systems.
+No, you wouldn't. Diligent integrates seamlessly with your current systems and vendors. You can use our simple UI or integrate our API into your internal tooling. You'll be up and running in a few days, if not hours!
+Absolutely. Historical AI use cases in the AML world often involved identifying patterns in data and generating hard-to-explain rules in a black box. We are very different. We use a new type of AI and we apply it on different use cases.
+By using Large Language Models we are able to automate the tedious and time consuming L1 tasks by following your specific workflows and policies and leaving a comprehensive audit trail.

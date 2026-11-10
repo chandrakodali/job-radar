@@ -1,0 +1,29 @@
+Responsive
+Careers at Kubeshop
+We aim to build a thriving, open-source ecosystem of next-generation products and projects. We are currently filling key roles and look forward to connecting with you about what we can accomplish together.
+Open Positions
+Sales
+Sales Engineer (Boston, MA or East Coast)
+Looking for a super-hero Sales Engineer:
+Soon to be an A-round startup is looking for an SE to help accelerate our growth this year and beyond.
+We have gone from 1 to x0 Mid to Large Enterprise customers last year.
+You must be experienced and passionate about talking to senior DevOps engineers, Testers, Platform engineers and their managers. Appreciate complexities of technologies from Kubernetes to various Test Automation tools.
+You are coming from a Software Tools company with at least 6 years of experience. You probably have more energy and potential than the current place can absorb.
+After joining us, you would like to look back 3 years from now and say “I was an integral part of THAT!!!”
+Requirements:
+Combination of strong technical background and presentation skills
+Great communication and story telling is a must
+Knowledge of:
+‣ Kubernetes & Docker architectures
+‣ CI/CD tools – Jenkins, ArgoCD, GitHub
+‣ Software Test Automation tools for API, End-to-End, Load testing
+Strong organization skills – we have many trials and demos to manage
+Ability to work in a flexible remote first environment spanning multiple time-zones
+High EQ
+Demonstrable track record of growth and success.
+Email: careers@testkube.io
+Reach out
+Use the form to leave us a message or connect to us on social:
+Thank you for applying.
+We will be in touch … !
+Oops! Something went wrong while submitting the form.

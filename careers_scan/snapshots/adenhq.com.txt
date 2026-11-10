@@ -1,0 +1,42 @@
+Next-gen automation platform for your business
+CAREERS
+Build the infrastructure
+for AI agents
+We're assembling a small, exceptional team to build the native cloud for autonomous AI. If you want to work on hard infrastructure problems that matter, we'd like to hear from you.
+Open positions
+Infrastructure Lead
+San Francisco, CA Full-time
+Lead the design and operation of Aden's core cloud infrastructure — hypervisors, runtime kernels, and secure VDI environments purpose-built for autonomous AI agents.
+Responsibilities
+Architect and scale the virtualization and compute layer powering agent workloads
+Own reliability, performance, and security across multi-tenant infrastructure
+Build tooling for automated provisioning, monitoring, and lifecycle management
+Collaborate with hardware and product teams to define the agent-native stack
+Qualifications
+7+ years in infrastructure, platform, or systems engineering
+Deep experience with hypervisors, containers, and cloud-native orchestration
+Strong background in Linux internals, networking, and distributed systems
+Experience operating production systems at scale
+Go to Market Lead
+Define and execute Aden's go-to-market strategy — positioning, messaging, partnerships, and revenue motions for the first agent-native infrastructure platform.
+Develop positioning and messaging for technical and executive audiences
+Build and manage partnerships with AI labs, cloud providers, and enterprises
+Drive pipeline through demand generation, content, and developer relations
+Work closely with product and engineering to align roadmap with market needs
+7+ years in GTM, product marketing, or business development at infra/dev tools companies
+Track record of launching technical products into enterprise and developer markets
+Strong understanding of AI/ML infrastructure and the agent ecosystem
+Excellent written and verbal communication skills
+Hardware Lead
+Lead hardware strategy and engineering for Aden's agent compute platform — defining the physical infrastructure optimized for autonomous AI workloads at scale.
+Define hardware architecture for GPU/accelerator clusters tailored to agent execution
+Evaluate and select compute, networking, and storage components for agent-native performance
+Partner with infrastructure and software teams to co-design the full-stack platform
+Manage vendor relationships and drive cost-efficient procurement at scale
+7+ years in hardware engineering, datacenter design, or systems architecture
+Experience with GPU clusters, custom accelerators, or high-performance computing
+Knowledge of power, cooling, and physical infrastructure at datacenter scale
+Familiarity with AI/ML workload characteristics and optimization
+Join our team
+We're building the native cloud for AI agents. If you want to work on hard infrastructure problems at the frontier of autonomous systems, we'd like to hear from you.
+View open positions →

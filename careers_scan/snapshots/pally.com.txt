@@ -1,0 +1,22 @@
+Engineering
+Founding Product Engineer
+San Francisco, CA · Full-time, in person
+Own the agent and the experience: how Pally thinks and talks, the features people use every day, the integrations that let it get things done, and the users who tell you what’s next.
+Founding ML Research Engineer
+Make Pally’s models better at being an assistant: evals, fine-tuning, red teaming, and ML across the agent, from model routing to browser agents.
+Founding Backend Engineer
+Own the infrastructure Pally runs on: message delivery, agent workers, scheduling, and data, and scale it as usage grows every week.
+Founding DevOps Engineer
+Own how Pally ships and stays up: cloud infrastructure, CI/CD, observability, on-call, and security, for a small team that deploys every day.
+Growth
+Community Lead, New York
+New York, NY · Full-time, in person
+Own Pally’s community in New York: an event every week, a big Pally party every month, and the sponsors behind them.
+Community Lead, San Francisco
+Own Pally’s community in our home city: an event every week, a big Pally party every month, and the sponsors behind them.
+Student Ambassador
+Your campus, US or UK · Part-time, in person
+Own Pally on your campus: fun, free events with a Pally budget and merch, partner clubs, and cash bonuses for performance.
+Create your own role
+San Francisco / Mountain View, CA or remote · Full-time
+Own the thing you’re the best in the world at. Tell us what it is, what you’d build at Pally, and we’ll write the role around you.

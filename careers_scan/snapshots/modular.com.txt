@@ -1,0 +1,97 @@
+MiniMax M3.1 Flash - Day 0! Try it now ➔
+Join us in building the future of AI
+View job openings
+About Modular
+Why Modular?
+Grow with the best
+Build with some of the industry's best AI leaders with decades of experience building AI infrastructure across the stack at big tech.
+Maximize how you work
+We will always push the limits to create the best possible environment for our people and teams.
+Build AI for the world
+We're bringing the smartest minds together to make a lasting impact for everyone. Bring your knowledge to a platform where the world can benefit, not just a few.
+Have fun, live life
+We encourage work/life balance and have many opportunities to work flexibly, take time off, travel, and maximize the value of work-from-home or hybrid work.
+Work and life, balanced.
+Leading medical, dental & vision packages
+Strong compensation
+& equity packages
+Generous parental leave
+Retirement plans with company contribution
+Generous paid vacation
+Corporate perks
+& epic team fun
+Current Job Openings
+Come and be part of a world-class team that is rebuilding AI for everyone. We welcome applications from all backgrounds and communities.
+All
+(13)
+AI Community Coordinator
+United States / Canada
+Apply now
+What you expect from the interview
+Modular has a straight-forward interview process and a large majority of the roles follow the same steps:
+Step 01
+Application Review
+The first step of the process is to submit your resume. We aim to review all resumes within 2 weeks and we respond to every single application made.
+Step 02
+Call with Recruiting
+Typically you will first have a short 20-30min call with recruiting to just go over some basic information about you and the company, and to discuss next steps.
+Step 03
+Call with Hiring Manager
+The Hiring Manager will dig a bit deeper into your background and previous experience to determine mutual fit. This will also be your opportunity to learn more about what the team is working on and what the role entails. In case you have applied for more than one role on different teams, we often schedule you for two separate calls with two separate Hiring Managers.
+Step 04
+Team Interviews
+There are typically 4 team interviews, usually 45-60 minutes each. These may be scheduled all at once or separately, depending on the role. The focus areas for these team interviews vary by role. For example, for Engineering roles, you can expect coding and system design type interviews; for Product roles, we often talk about the industry and product strategy. For Leadership roles, we may ask for a presentation.
+We believe that team culture is a critical part of a great company, so every candidate also has a Culture interview that focuses on communication skills, team work, and so on. We will let you know what to expect in each interview when we send you a schedule confirmation.
+Step 05
+Offer
+If we make you an offer, we share an extensive offer deck for you and schedule a walk-through call to go over the information in detail and again answer any final questions you may have. We also aim to give you enough time to make a decision after that.
+Every day is an opportunity
+Working at Modular is exciting because it's a chance to build cutting-edge deep learning infrastructure from silicon to system. Every day is an opportunity to gain full-stack mastery in how the AI software/hardware stack works, from distributed computation graphs to low-level GPU kernel programming.
+Brendan Duke
+Staff Engineer
+Work with the best engineers
+I joined Modular because I was looking for ways to overcome the software fragmentation of AI frameworks and resonate with Modular's goal to build a better unified framework using compiler approach. My favorite part at Modular is to work with the best engineers in the field under a very collaborative culture.
+Hengjie Wang
+AI Performance Engineer
+Make a difference
+I picked Modular because of the people and what they believe in and what they want to do. I want to be a part of something that makes a difference for the better.
+Paige Bedwell
+Program Manager
+Work on the most challenging problems
+The best part of working here is a strong commitment to culture. I work on the most challenging problems, have the freedom to do it anywhere, and have a huge impact on AI.
+Eric Johnson
+Product Lead
+Team is incredible
+The team is incredible. They're very smart. They're experts in their field, and we're solving the hardest computational problems in the world.
+Abdul Dakkak
+AI Compiler Engineer
+Prev
+Next
+Frequently asked questions
+Are interviews conducted in-person?
+Typically all of our interviews are conducted over Zoom video. For coding interviews, we use Coderpad and you will receive a link from your interviewer. In some cases we may fly you in to meet some of our leaders for the last interview.
+What do you look for in a candidate?
+There is no “one size fits all” answer here however Modulers are passionate about their work, intellectually curious, humble, and ready to roll up their sleeves. We like to have discussions in interviews and expect you to ask clarifying questions and talk us through your thought process — sometimes there is no right or wrong answer, we just want to understand how you think and work through challenging problems. We also look for strong alignment with Modular’s Culture and values .
+I don’t meet all of the requirements for a role, can I still be considered?
+We would love to receive your application even if it doesn’t meet all criteria! We review applications with all roles and opportunities in mind. Sometimes we may reach out to you to offer or suggest another role or team that might be a better fit for you, or we offer to keep your application on file and reach out a few months down the line once more suitable opportunities open up.
+How long does the interview process take?
+On average it takes candidates about 4 weeks to go through the full interview process however if you require a decision by a certain date, please speak to your recruiter.
+Do you offer internships?
+Our internship opportunities for Summer 2027 are posted on the Qualcomm Careers site . Please apply directly to be considered.
+How does the onboarding process work?
+Our onboarding process for new employees is conducted onsite at our Los Altos, CA office. It includes a comprehensive introduction to our company culture, team meetings, and training sessions to ensure a smooth transition into your new role.
+I applied some time ago but haven’t heard back?
+We aim to respond to every single candidate, and if you have applied to more than one role, we process all of your applications separately. Sometimes these emails end up in spam, so please check your spam folder. If you haven’t heard from us, you can contact your recruiter or careers@modular.com to follow up.
+What benefits do you offer?
+We offer a wide range of benefits designed to help you do your best work and live well outside of it too.
+While benefits vary by location, they may include comprehensive healthcare coverage, retirement and savings programs, employee stock purchase opportunities, paid time off, wellbeing resources, family support programs, and learning and development opportunities.
+Ask your recruiter to provide more details based on your location and role.
+Build the future of AI with Modular
+Get started - FREE
+View Editions
+Sign up today
+Signup to our Cloud Platform today to get started easily.
+Sign Up
+Browse open models
+Browse our model catalog, or deploy your own custom model
+Browse models

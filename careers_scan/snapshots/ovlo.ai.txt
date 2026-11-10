@@ -1,0 +1,91 @@
+An AI-native recruiting firm
+Brief us once.
+We run your hiring from there.
+We're a recruiting team embedded in yours. We take on everything before the interview, from search to screening, so the best people in the market end up in your Slack, for far less than an agency.
+91.2
+Benchmark score
+Overall on PeopleSearchBench‑Recruiting, out of 100
+Zero
+Placement fee
+One monthly fee per role, unlimited hires
+98.8%
+Meet the brief
+Of the people our search returns, measured on PeopleSearchBench
+Book a call
+Backed by Y Combinator
+How we work
+From brief to hire, we run it
+Your part is one call and the interviews. Everything in between is ours.
+Your part
+Tell us who you need
+One call about the role and what good looks like.
+Ours
+We run the whole top of funnel
+Our search engine finds everyone who fits. Our recruiters approve every name, reach out in your name, chase replies and screen everyone worth a conversation. You never touch the software.
+Meet the people worth hiring
+Screened candidates arrive in your Slack with their CV, LinkedIn and our honest read. We book the interviews. You decide.
+Why Ovlo
+Need more reasons to try us out?
+The highest score on the leaderboard
+Our search engine scored 91.2 on PeopleSearchBench, ahead of every system published on it.
+Almost nothing to throw away
+98.8% of the people our search returns meet the brief. You pay for a search, not for sorting through noise.
+A fraction of what an agency costs
+One monthly fee per role, unlimited hires. No placement fee, no cut of the salary.
+Candidates hear from you, not us
+Outreach goes out in your name, so people reply to a company they want to work for.
+We look past job titles
+Our search reads GitHub, talks, posts and the wider web, and ranks people on what they have actually built.
+Every candidate is screened on a call
+A recruiter approves every name before outreach and talks to everyone before you do.
+You get the honest version
+Candidates arrive with their CV, LinkedIn and real pros and cons, not a sales pitch.
+Replies, follow-ups, scheduling and your ATS. Our recruiters work with you on the brief, make the judgment calls, and own the outcome.
+Measured
+We tested our search in the open
+PeopleSearchBench is an open benchmark for finding people. It gives 30 real hiring
+briefs and checks every person returned against public evidence on the web.
+Overall score, recruiting briefs
+Ovlo
+Lessie
+68.2
+Juicebox
+65.7
+Exa
+64.7
+Claude Code
+50.5
+98.8
+Coverage: the share of people returned who meet the brief
+89.1
+Relevance: how well the top ten match the brief
+85.6
+Utility: how complete and usable each person's record is
+And that's before a recruiter has looked at the list.
+Recruiting subset, 30 briefs. Our score is our own run, graded by the benchmark's unmodified
+judge, as is every score on it. The others are from the benchmark's published leaderboard.
+Read the report
+About us
+We've spent our careers building products at Google, Meta, Amazon and HelloFresh. We
+got tired of slow, opaque, expensive hiring, so we built the search engine and the
+recruiting team we wish we'd had.
+Amer Eid
+Co-founder. Previously at Google and Meta.
+Andrew Malouf
+Co-founder. Previously at Amazon and HelloFresh.
+Give us the brief. Keep the placement fee.
+Tell us about it on a short call. We'll work out what you need and how to fill it.
+[email protected]
+Questions
+What does it cost? +
+One monthly fee for each role we're searching. No placement fee, unlimited hires. A fraction of what an agency charges for one hire.
+What roles do you hire for? +
+Any role, technical or not, at any level.
+How is Ovlo different from a recruiting agency? +
+Agencies search by hand and recycle the same candidates between clients. Our search engine reads the whole market for every role. Agencies sit between you and the candidate. We reach out in your name, so candidates talk to you. Agencies leave you the admin. We run the whole top of funnel in your Slack and your ATS. Agencies charge 20 to 30% of the salary per hire. We charge one monthly fee per role, unlimited hires.
+Where do candidates come from? +
+Mostly people who weren't looking. Our agents search LinkedIn, GitHub, company sites, talks, posts, social media and the wider web, and we approach the people who fit directly.
+Do we have to use any software? +
+No. Our team runs it. Candidates arrive in your Slack, we handle replies, scheduling and follow-ups, and your part is the interviews.
+Do you work with in-house recruiters? +
+Yes. We add search and outreach capacity to your team and handle sourcing, outreach, screening, scheduling and ATS updates, so your recruiters spend their time on interviews and offers.

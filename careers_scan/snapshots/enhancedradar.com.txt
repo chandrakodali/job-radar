@@ -1,0 +1,21 @@
+Enhanced Radar
+Enhanced Radar builds intelligent technology to make the aviation system safer, more efficient, and better informed. Its nationwide receiver network and aviation AI models turn pilot and air traffic controller radio into real-time operational insight. A plain-text guide for AI agents is at enhancedradar.com/llms.txt .
+Enhanced Radar API
+Real-time aviation data from North American airspace: transcripts and audio, events, flight status, airport status, enhanced PIREPs, and free-form answers. New accounts get $1,000 in free credits.
+MCP server for AI agents: https://api.enhancedradar.com/api/mcp (Streamable HTTP; the user signs in with OAuth, no API key needed)
+API overview and pricing
+API documentation
+API portal: sign up, keys, billing, and MCP setup
+ATC.com
+Live air traffic control radio with a flight map and transcription: atc.com
+Enhanced Radar Enterprise
+Solutions for airlines, airports, and government: contact us or email hello@enhancedradar.com.
+Pages
+Products & Solutions
+About
+Introducing Y4
+Introducing the Enhanced Radar API
+Enhanced Radar raises $12 million
+Careers
+Contact
+Attribution

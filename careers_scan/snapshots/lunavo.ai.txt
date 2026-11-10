@@ -1,0 +1,127 @@
+01 · The status quo
+Your back‑office is a cost center that scales with load count.
+For a carrier running 200 trucks, back‑office headcount typically sits at 30–60 people:
+dispatchers, billing clerks, tracking teams. None of them move freight. All of them
+scale linearly with volume.
+Repetitive admin eats the day
+Dispatchers handle 50–100 emails per hour. Most of them look the same.
+50–100
+Ten tools that don't talk
+Teams jump between TMS, portals, email, PDFs, and spreadsheets to close one load.
+10+
+Billing slips, cash slips
+Manual document workflows stretch DSO by 7–14 days and quietly bleed working capital.
++14d
+Volumes swing. Teams don't.
+Spot and contract volumes move 20–40% in a year. Hiring and burnout take turns.
+40%
+02 · The shift
+Don't add another dashboard. Add capacity.
+Lunavo doesn't sit on top of your operation as a copilot. It sits inside it as an
+execution layer. Monitoring every inbox, portal and feed. Doing the work.
+03 · The product
+Lunavo learns your operation. And handles the rest.
+Lunavo watches your systems in real time, drafts every reply, updates every portal,
+and hands you only what needs a human. You review, approve or let it run.
+lunavo · ops · rockport-logistics.com
+Inbox
+All threads 142
+Needs review 4
+Auto‑resolved 89
+Escalations 2
+Agents
+Order Intake
+Track & Trace
+Billing
+Appointments
+Exceptions
+ACME Foods · PO #88241
+New order. 3 loads, Columbus to Memphis, Fri pickup.
+Driver 5 · GPS
+Delay detected on I‑40. ETA +32m, customer notified.
+Stellar Freight · Invoice
+POD reconciled, invoice drafted for #77013
+North Coast Portal
+Appointment confirmed. Sat 06:00, dock 14.
+Metro Cold Chain
+Rate request outside margin. Needs review.
+Needs review
+Harbor Logistics
+Detention claim filed. $420 recovered.
+Bluewater Co‑op
+Weekly BOLs. 14 files parsed, TMS updated.
+Confirmed
+Columbus, OH → Memphis, TN · 3 loads
+Order Intake agent
+Parsed the order from the ACME portal email, matched it against Master Service Agreement #MSA‑2217, and entered 3 loads into McLeod TMS. Customer has been confirmed over email.
+11:42 ✓ Email received from scheduling@acmefoods.com
+11:42 ✓ Attachment parsed · 3 shipments extracted
+11:43 ✓ Rate verified against MSA #2217
+11:43 ✓ Loads created in McLeod · IDs 88241‑A/B/C
+11:43 ✓ Confirmation sent to ACME scheduling
+11:44 ✓ Summary posted to #dispatch‑ohio
+04 · The workforce
+Meet the agents running your back‑office.
+Each agent owns one job end‑to‑end. They share context, escalate cleanly, and
+don't take PTO. Turn them on one at a time, or light them all up.
+DISPATCH
+Dispatches by margin, not by gut.
+For every load, Lunavo compares running it on your own fleet, buying freight, and re-selling, calculates the contribution margin in real time, and recommends the best option. You decide with one click instead of five load boards open in parallel.
+TMS · LOAD BOARDS · FLEET · CONTRACTS
+ORDER INTAKE
+Automated order intake.
+Lunavo reads every request from email, PDF, Excel, extracts the data, applies your customer-specific rules, and creates the load in your TMS. Your first reply ships in seconds, not hours.
+TMS · EMAIL · EDI · PDF
+QUOTING
+Quotes every request the moment it lands.
+Lunavo pulls market rates from load boards, your historical lanes and your customer contracts, calculates the optimal margin, and drafts the quote. You approve. The customer gets an answer in minutes.
+RATES · LOAD BOARDS · HISTORY · CONTRACTS
+AUDIT
+Audits every freight invoice against the contract.
+Lunavo pulls the invoice data, matches it to the shipment, and checks every line against the agreed rate. You only see the deviations, not every line.
+TMS · RATES · BOLS · DOCUMENTS
+COMMS
+Answers status questions before the phone rings.
+Lunavo reads inbound mail, pulls the current shipment status from your TMS, and drafts the right answer. Standard cases go out directly, exceptions land with you with full context.
+EMAIL · TMS · PORTALS
+EXCEPTIONS
+Resolves the stuff that would have ruined your afternoon.
+Detention disputes, wrong BOLs, mis-deliveries, pricing out of bounds. Lunavo drafts the response, routes it, and only pings you when dollars or confidence cross a threshold.
+ESCALATES WITH CONTEXT, NOT CHAOS
+05 · The outcome
+Scale the load count.
+Not the overhead.
+85 %
+of repetitive back‑office work automated within 60 days.
+11 s
+median reply time on incoming customer emails.
+−14 d
+average DSO reduction with automated billing prep.
+loads handled per dispatcher, with no drop in service.
+06 · Integrations
+Plugs into the systems you already use.
+Lunavo connects where your team already lives. No rip‑and‑replace, no platform
+migration, no implementation quarter.
+EMAIL Outlook
+CHAT Microsoft Teams
+TMS Comtrix
+TMS Soloplan
+TMS More TMS
+07 · Why now
+Start today.
+Lead in five years.
+Whoever starts with Lunavo today builds the forwarder that runs twice the volume with the same crew in five years. Today Lunavo runs your back-office. Tomorrow it knows which sub runs which lane reliably. The day after, it negotiates the next price itself.
+08 · The team
+We worked in logistics. Now we’re building Lunavo.
+We've spent years at the intersection of logistics and AI. On the shop floor,
+in the dispatch room, and behind the models. Lunavo is the tool we wished we'd had.
+Felix Lösch
+CEO · Co‑Founder
+Ex‑McKinsey. Former MD at a Series A robotics logistics startup where he scaled ops and commercial from zero. Five years embedded in supply‑chain operations.
+Niclas Heun
+CTO · Co‑Founder
+CS, TU Munich & Waterloo. Top of class. AI researcher on model robustness. Led teams building AI for shop‑floor operations at Siemens.
+Book a meeting
+See what Lunavo takes off your plate.
+We’ll walk through your most important processes together for 20 minutes, the way we do regularly with DACH freight forwarders in your size range. You leave with the three highest-leverage spots and a clear plan for what a rollout at your operation would look like.
+Supported by

@@ -1,0 +1,32 @@
+Careers
+Join Us .
+Theorem is a programming languages and AI lab.
+Infinite time-horizon AI software engineering will be qualitatively different from faster human software engineering.
+To steer models doing work far beyond what any human has ever done, we do research and build products that scale correctness feedback to arbitrarily complex software development.
+You may be a good fit if you
+Pick projects that are a few orders of magnitude bigger, faster, or harder than SOTA
+Have the gumption to try out something before everyone starts talking about it
+Love working on a team that is more than the sum of its parts
+Are practiced in solving last-mile problems
+Who we are
+We’re a team of engineers and researchers who genuinely love software.
+We’ve developed cryptography which secures trillions of internet connections daily,
+built infrastructure powering billions of dollars of transactions,
+and found tens of thousands of zero-days and jailbreaks in systems.
+We’ve worked at leading companies like Jane Street, Citadel, Google, and Microsoft, and have published research at top venues like NeurIPS, ICML, POPL, and ITP.
+Open Roles
+We’re a small team that is growing fast, and we’re hiring across all levels: early-career engineers, senior researchers, and managers. If this sounds exciting to you, apply here .
+OSS Ecosystem Lead
+$180K–370K + generous equity
+Work with open source maintainers, foundations, and security teams to coordinate responsible disclosure at unprecedented scale.
+Systems Engineer
+$200K–500K + generous equity
+We’re hiring for engineers who have deep expertise across one or more of: systems, security, formal verification, compilers, computer architecture, high performance computing, or hardware acceleration.
+ML Researcher
+Teach models to tackle software problems that take more than a human lifetime to solve.
+Recruiter
+$150K–220K + generous equity
+Find engineers and researchers who see what becomes possible when agents can do the work of a thousand engineers.
+Research fellowship (3–6mo)
+$125K/y prorated
+Work closely with our researchers on a focused, impactful project.

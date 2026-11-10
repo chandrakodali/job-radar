@@ -1,0 +1,29 @@
+Join us.
+Overheard exists so every decision starts from what customers actually said. We're a small senior team, backed by Y Combinator. Every hire we make now is a founding decision.
+Open roles
+Founding AI Engineer
+Hiring now · Full time · San Francisco, in person · Founding equity
+Overheard interviews a company's customers by voice and hands the team an answer, with every claim tied to what someone actually said. You'll own the core interviewer and research synthesis agents, and set technical direction for everything we build on them.
+What you'll own
+The interviewer. Own our live voice interviewer agent and how good its conversations get. You'll make every interview feel more natural to the participant and more insightful for the team reading it.
+Evals. Own our eval system for research design, interview quality, and readout quality.
+The readout. The readout is what a team acts on, so it's where Overheard earns its place in their decisions. Every answer traces to the people and quotes behind it. You'll hold that standard while making each readout sharper and more useful to the team making the call.
+The voice stack. Own the realtime voice pipeline. Latency, interruptions, and how a call feels to the participant are yours.
+How we work: We're a true AI-native startup. Each of us runs a fleet of agents, which lets a few people operate like a team ten times our size. We work in person in San Francisco because an idea can go live the same day.
+Who you are: You've shipped LLM or agent systems that people relied on, and you built the evals that kept them honest. You can take a question like "was that a good interview?" and make it measurable. You want a surface you own outright, at a company where your calls reach customers the same week.
+Stack: TypeScript and Next.js on Vercel and Supabase, with realtime voice on several speech and language models. We're at the cutting edge of building with AI, and we use it to ship software that's reliable enough to run live interviews with real people.
+Comp: founding equity plus a salary, and you choose the mix. We walk every serious candidate through the cap table.
+Email tyler@withoverheard.com
+Send something you've built, plus a few lines on why you're interested.
+Founding GTM Lead
+Hiring now · Full time · San Francisco
+You'll be our first hire outside engineering, and you'll build go-to-market from the ground up. Overheard takes a team from a hard decision to an answer backed by what its customers actually said. You'll work closely with the CEO on every deal, and take the lead as we scale.
+Pipeline. Finding teams that move fast and still decide on gut, from product leaders to brand and insights leads, and getting their first study on the calendar.
+The founding customers. Everything from onboarding to the readout landing in the room where the decision gets made, and the second study they come back for.
+Channels and pricing. Learning where our buyers pay attention and what they'll pay, tested against real deals.
+What the role looks like: Early on, sales and marketing happen in the same week. You'll run outbound and work deals alongside the CEO while you write the content that makes the next deal easier. The balance will shift as we grow, and you own both from day one.
+Who you are: You've built pipeline yourself, through outbound or through writing people passed around. Selling to product, marketing, or insights leaders helps, but what you built matters more than where.
+The best GTM people take months to find, so we're starting now. If this sounds like you, get in touch.
+Send something you've grown or sold, plus a few lines on why you're interested.
+Future roles
+The team will grow as the product does. If you care about how teams turn what customers say into decisions and don't see a role that fits yet, introduce yourself at tyler@withoverheard.com and we'll get in touch when the right one opens up.

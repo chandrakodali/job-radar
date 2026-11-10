@@ -1,0 +1,48 @@
+Now hiring
+Join Rimward
+We’re hiring across deployment, platform and perception to build security software for solar sites. Explore each role’s location and focus below.
+Paris, France · Full-time · IoT & network security · Platform engineering · Computer vision
+What the work is actually like
+Four things shape every role here
+Outdoor sites, not datacentres
+Cameras on masts, perimeter fences, mud and weather. What you ship gets installed somewhere with nobody around.
+The device is not on your desk
+Once an edge box is in a cabinet in a field, every fix has to land remotely, and land first time.
+Bandwidth is a budget
+Some links are thin and metered. Where connectivity calls for it, an on-site gateway processes video locally.
+A missed event is the failure
+Green dashboards are easy. Catching the one intrusion at 03:00 is the bar the whole system is judged on.
+Priority roles
+Current openings
+IoT & network Paris, France · Full-time
+Security / IoT deployment engineer
+Linux, networking, CCTV/VMS integration, and on-site deployments.
+Linux · Networking · CCTV / VMS · Field work
+Apply
+Platform Paris, France · Full-time
+Platform engineer
+Infrastructure, reliability, tooling, and hands-on production operations.
+Infrastructure · Reliability · Tooling · Production ops
+Computer vision Paris, France · Full-time
+Perception engineer (computer vision)
+Computer vision, evaluation loops, and edge deployment constraints.
+Computer vision · Eval loops · Edge deployment
+Role applications are handled on Y Combinator’s job board.
+How hiring works
+Four steps, no surprises
+Step 01
+Intro call
+What you have built, what you want to own next, and what the role actually covers.
+Step 02
+Technical deep dive
+One real problem from our domain, discussed the way we would discuss it on the team.
+Step 03
+Meet the team
+The people you would work with, plus a walk through a live site setup.
+Step 04
+Decision
+A clear yes or no with the reasoning, whichever way it goes.
+Open application
+None of these, but still Rimward?
+For profiles spanning deployments, platform, or perception. Tell us which part of a site you would want to own.
+Get in touch

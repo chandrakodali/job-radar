@@ -1,0 +1,35 @@
+top of page
+Seaflight's story
+Seaflight's mission is to accelerate an electric and equitable future for aviation.
+We develop new technology that enables larger payloads, longer range, and greater endurance.
+June 2022
+Y Combinator
+Seaflight is founded by aerodynamics guru Dr. Graham Doig and uncrewed systems expert Will Sutton. They fly garage-built prototypes during the Y Combinator Summer 2022 batch. With a pre-seed venture round raised, the company quickly sets about developing some of the most innovative dual-use drone platforms ever flown.
+August 2022
+Setting up shop in LA
+Seaflight establishes a rapid prototyping facility in Carson, in the South Bay area of Los Angeles. At first the company develops a series of "ground effect" uncrewed systems - drones classified as maritime craft rather than aircraft, designed to fly within one wingspan of the ocean for high aerodynamic efficiency and low observability.
+April 2023
+Developing the SeaSense autonomy suite
+To enable sustained ultra-low altitude flight over water for that first product, Seaflight has to invent a novel autonomous flight engine called SeaSense, which would later evolve into the autonomy stack underpinning platform operations for Seaflight's larger craft flying at altitude.
+June 2023
+National Science Foundation funding for aerodynamic innovation
+The US National Science Foundation awards Seaflight a Small Business Innovation Research grant to develop Active Aerodynamic Flow Control to enable ultra-short takeoff and landing combined with high-efficiency flight for fixed wing aircraft - the company starts developing large scale concepts.
+December 2023
+World-first autonomous ground effect flights over the open ocean
+Seaflight becomes the first ever company to fly a ground effect drone over the open ocean, a feat achieved in challenging pre- and post- hurricane conditions in far north Queensland, Australia. It's also the first ground effect craft of any kind to fly in Australia for 20 years.
+May 2024
+US Dept. of Defense Funding
+A contract from the US Air Force involves Seaflight demonstrating how its novel active aerodynamic flow control could be implemented across many existing and new platforms to extend logistics capability in the Pacific. Another contract with the Strategic Capabilities Office helps transition the SeaSense ultra-low altitude autonomy system to users within the DoD.
+June 2024
+Wind Tunnel Testing at Caltech
+To prove that its revolutionary active aerodynamic flow control tech will work at full scale on any hybrid or battery electric aircraft, the team undertakes an intensive wind tunnel campaign at Caltech in Pasadena. The results validate hundreds of simulations and confirm that the tech is ready to take flight.
+August 2024
+$2m USD Australian Government funding to develop a large cargo drone
+Seaflight's large cargo drone concept - incorporating active aerodynamic flow control for groundbreaking efficiency - is supported by the Emerging Aviation Technology Partnerships program from the Australian Commonwealth Government. The landmark project involves collaboration across a large coalition of Australian companies and university partners.
+June 2025
+A new R&D HQ in Sydney
+Seaflight's R&D team, based in Australia, moves out of temporary space at Macquarie University and into a dedicated prototyping, integration and testing facility in Alexandria, Sydney. Unit 3.14 is dubbed "The Pi Factory" in tribute to Alexandria's famous Pie Factory.
+February 2026
+The Outbacker 150 revealed
+Just months after kicking off tooling, the fully integrated Outbacker 150 uncrewed cargo drone was revealed - simultaneously a demonstrator for the company's aerodynamic and autonomy technology, and the start of a new product family for long-range flown logistics.
+bottom of page

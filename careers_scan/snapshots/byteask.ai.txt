@@ -1,0 +1,67 @@
+All roles
+Founding C++ Systems Engineer
+Engineering · Full-time · Hours overlapping San Francisco
+$150K to $200K + 0.5% to 2.0% equity
+Apply for this role
+Own the part of the agent that decides whether a C or C++ patch is actually correct.
+ByteAsk runs each patch under a debugger, the sanitizers and a profiler, and reworks the diff until the toolchain agrees it is right.
+You run the tools a C++ engineer runs, read what they return, and choose the next step. Agents resolve roughly 63% of real-world issues in Python and under 10% in C and C++. You will be one of the first engineers, working directly with the founders.
+What you’ll do
+Cross-translation-unit reasoning, where every public agent scores close to zero
+Turning debugger, sanitizer and profiler output into a next move
+Tool selection, including knowing when the honest answer is "we don't know"
+Making the loop fast enough to live inside an edit cycle
+On-prem deployments
+Performance optimizations
+You may be a fit if
+You have spent real years in C or C++ and know why the hard bugs are hard
+You have read sanitizer output at 2am and gone to the codegen to settle an argument
+You are comfortable owning an ambiguous problem with little guidance
+You are sceptical of AI writing C++, and want to find out exactly where it breaks
+You do not need an AI background. We would rather teach that half
+Founding AI/ML Engineer
+Own the agent loop and the evals that tell us whether a change made it better.
+You own the loop between tool calls: how the agent plans, which tool it picks, how it reads the result, and how we know a change helped.
+Most of the work is building evals from real C and C++ bugs and moving the numbers on them.
+Building and running evals from real C and C++ issues
+Improving how the agent plans, picks tools, and reads their output
+Context management across large codebases and many translation units
+Model selection and routing, and the cost versus quality tradeoffs behind them
+Fine-tuning and data work, where it beats prompting
+You have shipped LLM or ML systems that real users depend on
+You treat evals as part of the product, not an afterthought
+You can read C or C++ well enough to judge a fix, or want to learn fast
+You would rather settle an argument with a measurement than an opinion
+Founding Full-stack Engineer
+Own everything a developer touches around the agent: the CLI, the web app, accounts, and billing.
+Developers meet ByteAsk through an install command, a terminal and a web dashboard. You own those surfaces, from first install to a team upgrading its plan.
+The bar is a CLI a C++ engineer keeps in their daily workflow. You decide what to build, not only how.
+The terminal experience: install, onboarding, and day-to-day CLI ergonomics
+The web app: accounts, teams, usage, and billing
+The APIs and infrastructure behind them
+Instrumentation that shows where developers get stuck
+Shipping small improvements every day
+You have shipped full-stack products that developers use
+You care about the details of a CLI as much as a web UI
+You are at home across frontend, backend, and infrastructure
+You ship small, reviewable changes often
+Founding DevRel / GTM
+Go-to-market · Full-time · Hours overlapping San Francisco
+Put ByteAsk in front of the C and C++ engineers who need it, and bring what they say back to the product.
+C and C++ engineers are sceptical of AI coding tools, usually for good reasons. Earn their trust with real results on real codebases, where they already are.
+You sit between the community and the founders: content, community, and first conversations with teams evaluating ByteAsk.
+Technical content: demos, write-ups, and talks built on real C and C++ bugs
+Growing and running the ByteAsk community
+Early conversations with teams evaluating ByteAsk
+Turning user feedback into clear product input
+Measuring what actually brings developers in
+You can write and talk about systems programming credibly
+You have grown a developer community or audience before
+You are comfortable on a call with an engineering lead evaluating a tool
+You enjoy writing as much as building demos
+Don’t see your role?
+Open application · Hours overlapping San Francisco
+We hire for people before titles. If you can help us build ByteAsk, in engineering, research, design, or go-to-market, tell us what you would own.
+The strongest open applications name the role they have in mind, link to work they are proud of, and say what they would take on first.
+Apply
+Applying for Founding C++ Systems Engineer

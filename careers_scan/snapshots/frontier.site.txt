@@ -1,0 +1,68 @@
+careers · open role
+member of technical staff (biological)
+frontier · Cambridge, UK · full-time, permanent
+salary: £90,000 to £250,000 (approx. US$120,000 to US$334,000), plus $1–10M in equity
+about frontier computing
+frontier computing utilises cultured neural tissue as a computational substrate.
+Biological neurones in vivo perform inference at very low power, several orders of magnitude below what a comparable silicon system would draw, and the cells manufacture themselves.
+We are building biocomputation that is reproducible, scalable and cheap enough to be useful. For most of the past decade this was not feasible, for well understood technical reasons. Several of those reasons have weakened: iPSC differentiation protocols have become more reliable, our internal engineering has enabled scaling tissue culture, and reading from and writing into cultured tissue with multi-electrode arrays is better understood.
+We should be plain about where we are. We have learning on the first scalable substrate, and a strongly supported hypothesis that further buildout of substrate size will bring further computational results, enabling energy efficient computation at scale while circumventing von Neumann architecture bottlenecks within traditional silicon architectures.
+We're hiring to enable that future.
+the research programme
+Three codependent problems define the work.
+1. the cost of culturing substrates at scale
+Large scale neuronal culture is currently expensive enough that very few groups can do sustained work with it. We think that this is a binding constraint on the whole field, and that it is more tractable than it looks.
+We have made real progress here, and it is the most mature of the three programmes. The goal is not a proprietary advantage in reagent purchasing. It is to bring large scale neuronal culture within reach of ordinary experimental budgets, including our own.
+2. reproducing core neuronal circuits
+We are interested in harnessing the latent learning capacity within biological tissues: local mechanisms, spike-timing dependent plasticity and neuromodulator-gated plasticity among them, are implemented natively by the tissue at no cost to us. Training environments can be designed so that the desired change is what those mechanisms produce anyway, the control apparatus becomes much simpler and the approach scales with neurone count rather than with the complexity of the reward circuitry.
+Our current work is in cortical computation , and the near-term direction is to extend it toward hippocampal circuit work , where the relationship between architecture, plasticity and function is better characterised and where there is a substantial literature blossoming. The immediate scientific question is whether the learning we see on a simple substrate can be reproduced and extended on in a more structured one, and whether durable memory representations can be built on a biological substrate.
+3. building out mature neuronal cultures at scale
+Culture size is limited by oxygen and nutrient diffusion, and much beyond a millimetre the core of a construct necroses. This is a well known constraint and it is the proximate reason nobody has built a biological system with the connected mass that would make any of this interesting.
+Maturation is the second half of the problem and is often treated separately, which we think is a mistake. A large culture of immature neurones is not useful; the target is tissue that is both sizeable and functionally mature, held in that state for the duration of a workload rather than for the duration of an experiment.
+Vascularisation is an approach much of the literature takes, and progress there is real. We are already performing our own tissue scaling, and because of this our roadmap is now more closely focused toward culturing more physiologically mature tissue with greater respective computational capacities. We want to hire talent that understands the problem space has moved, and that we are now not only dealing with scale, but also codesigning phenotypic expression with our tissue construct approach to produce mature tissue at scale.
+about the role
+This is a core staff scientist position at frontier .
+Your work will fundamentally be application-oriented, designed to push the capacity for biological substrate approaches. This is not a role performing blue-skies research, and the programme will have to be justified towards our business goals. First and foremost, we are looking for someone who understands these tradeoffs, and appreciates that the science they are pursuing must benefit our commercialisation strategy: building larger tissues with both greater and denser computational and memory capacities.
+You would be the first senior scientific hire, and as part of that role you will define the future composition of the team alongside the CEO, and help build out a scientific programme that drives substrate progress and feeds into our commercialisation efforts.
+what you would be doing
+Research leadership. Own the scientific agenda. Decide what is attacked, in what order, with what resources, and decide what is stopped. Design the experimental programme that takes us from the substrate we have now to something that learns faster and at greater scales.
+Building the group. Recruit and lead the founding scientific team across wet lab, instrumentation and the computational side of the training work. You would have real latitude over who joins and how the group is organised. If you hold views about how research groups ought to be run, this is an unusual opportunity to act on them.
+Technical judgement. Decisions about tissue configuration, media formulation, electrode interface and training environment interact, and have to be made as a set rather than separately. This is the part of the job that cannot be delegated and is the reason the role exists.
+Scientific representation. Publish, present, and represent the work to the field, to collaborators, and to the people who need to understand why this is a long horizon programme rather than a short one. Much of the work that you are leading will be kept internal within the short term, while we scale the platform and further our technical moat, but it's vital that we share the fruits of our work with the scientific community as much as can be reasonably permitted.
+what we are looking for
+A PhD in neuroscience, bioengineering, tissue engineering, biophysics, electrical engineering or a related field, together with a record of independent work: postdoctoral, fellowship-funded, group leader or industrial. We are interested in what you have built and what you understand rather than in how long you have been doing it.
+Substantial hands-on expertise in at least two of the following, and the ability to reason about the whole system:
+Neural cell culture. iPSC differentiation to cortical or other neuronal identities, long duration culture, media formulation, and the practical business of keeping tissue alive and functional over months.
+In-vitro electrophysiology. High density and CMOS microelectrode arrays, closed-loop stimulation and recording, spike sorting and population analysis at high channel counts.
+Tissue engineering and microfluidics. Three dimensional culture, perfusion, scaffold and substrate design, and a working understanding of designing culture substrates to circumvent the mass transport limits that govern construct size.
+Computational modelling of neural systems. Spiking network models, plasticity rules, and the analysis of learning in biological networks from a network level to synaptic learning. Mechanistic interpretability experience is preferred.
+We would particularly like to hear from you if you have:
+Worked on plasticity or learning in cultured or ex-vivo tissue, especially with local rules rather than externally imposed reward. Experience within biocomputing on neural organoids and eliciting learning in these tissues is particularly beneficial.
+A background in hippocampal circuit physiology, or in the relationship between neuronal circuit architecture and memory more generally.
+Taken a biological protocol from research grade to something reproducible and cost controlled, through process development, QC, automation or in-house reagent preparation.
+Worked on maturation or on the size limit in three dimensional neural constructs, and formed a view about it.
+Built instrumentation across electrophysiology, optogenetics, or other related areas — and used it, not only built it.
+A note on temperament, since it matters here as much as technique. This work suits people who are comfortable being among the few in the world attacking a particular problem, who will stop their own project when the data says to, and who are willing to treat a cost model as a scientific object rather than an administrative chore. It suits people who are not troubled by a thin literature. It is a poor fit for someone who needs an established field to orient within, and we would rather establish that early than late.
+what we can offer
+Compensation. £90,000 to £250,000 (approximately US$120,000 to US$334,000 at current rates) depending on experience, plus $1–10M in equity , with the vesting schedule to be agreed at offer. The range is genuine and negotiable, and it reflects that this is a founding position. You would be an owner rather than a member of staff.
+Scientific authority. You choose the problems and you stop the projects. The founder's job is to make sure the company survives long enough for your programme to run. Yours is to make sure it is the right programme to further our technological roadmap.
+Resources. Recurring biology, wet lab and microfluidics infrastructure are funded, and you would shape what we buy rather than inherit someone else's equipment. Budget for the founding scientific team is already available: you will not be writing grant applications.
+A decision, promptly. We will give you an answer within two weeks of a first substantive conversation, and can happily provide the reasoning either way.
+Visa sponsorship. We can sponsor. Candidates at this level frequently qualify for the UK Global Talent visa, and we will support either route and cover the costs.
+Intellectual reward. When the MTS role was first invented, it was built around a desire for flat research environments at Bell Labs, but even where the work is highly secretive, particularly where it pertains to core national compute efforts, we still provide the opportunity to share work via internal reports, receiving recognition from colleagues and enabling you to expand on your discoveries to a group of people that also care deeply about this work.
+Location assistance. We're UK based for our wetlab work, which means this role cannot be performed remotely. We help pay relocation fees to ensure that this is manageable.
+please read this before applying
+frontier computing has raised $10M+ to date . That provides genuine runway and a substantial equipment budget.
+The team at present is a tight knit group with a very flat organisational hierarchy, spread across engineering efforts within lab automation, tissue culture optimisation, and broader computational interfacing including RL environment design.
+We have tried to describe the state of the science accurately rather than favourably. If the risk profile is wrong for you at this point in your career, we would rather know now than half way through your first year in the company. We'd still be interested in chatting with you, particularly around roles that might become relevant in the future.
+how to apply
+Please send the following to [email protected] , with "Bio MTS application, [your surname]" in the subject line.
+A CV , in whatever format you prefer. Include publications that are published and accessible, with links; nothing in preparation. Include funding you have held, making clear what was awarded to you personally as against a consortium, and anyone you have supervised.
+A research statement, maximum two pages. Describe the three pieces of work you consider most important to you, with links, and what they established.
+A paragraph on why this rather than the alternatives available to you. We want to hear what excites you about doing science with us, and what motivates you in our research and engineering mission.
+Talent you'd be excited to work with : other researchers that you would want to bring on to work with you, even if they're not currently available. Who in your network would be a dream collaborator if you were working together?
+We do not need a teaching statement. In line with DORA, we are not interested in citation counts, h-indices or journal impact factors, and will disregard them. We will read the papers!
+apply — [email protected]
+Informal enquiries before applying are genuinely welcome. Write to [email protected] and we will find a time. If you are still deciding whether to leave academia at all, that is a reasonable conversation to have with us even if this particular role turns out not to be the answer.
+Applications are reviewed as they arrive , and we will close the position when we find the right person.
+Frontier Computing LTD is an equal opportunity employer. We are recruiting from the systems neuroscience, tissue engineering and computational communities, and we welcome applications from every background. If you need any adjustments to the hiring process, please inform us within your application and we will be happy to accommodate to the best of our ability.

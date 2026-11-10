@@ -1,0 +1,35 @@
+For AI agents: a markdown representation of this page is available at https://container-registry.com/career/index.md. The site index is at https://container-registry.com/llms.txt.
+Join Our Team
+Shape the future of container registries with Harbor. Work with cutting-edge technology, contribute to open source, and build solutions that power enterprise infrastructure worldwide.
+Why Join Container Registry?
+Container Registry offers Harbor-powered container registry as a service for teams and organizations, cloud providers, software vendors, and industrial computing. We are part of the Harbor maintainers team and regularly contribute to project Harbor. Join us in building enterprise-grade container infrastructure.
+Our Values
+Engineering-Led
+We are an engineering-led team with technical founders who love building software and services for software engineers.
+End-to-End Ownership
+We love to take end-to-end ownership for every task — from concept to delivery.
+Perfection & Pride
+We strive for perfection and take pride in the solutions we build — no shortcuts, no compromises.
+Multidisciplinary Team
+As a small and versatile team of multidisciplinary engineers, we bring diverse skills to every challenge.
+How We Work
+We enjoy high freedom and accept the high responsibility that comes with making your own decisions for better software.
+Independent — We have the freedom to elaborate and define work out of concepts and brainstorming sessions with clients and peers.
+Asynchronously — We structure our work in such a way that it does not stop while waiting for others to provide us with deliverables or clarification.
+We embrace Agile software development principles — without worshiping SCRUM.
+Open Positions
+Engineering
+Open-Source Golang Software Engineer on CNCF Harbor
+Senior
+Switzerland
+Remote
+DevOps Engineer — Kubernetes, Cloud
+Design
+No current openings.
+Growth
+Business Development Representative
+European Union
+Content Creator
+Don't See Your Role?
+We're always looking for talented people. Send us your CV and tell us how you'd like to contribute.
+Get in Touch

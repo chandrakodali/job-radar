@@ -1,0 +1,20 @@
+Content is foundational
+Content is an essential part of any user-facing software. Yet teams struggle to manage it.
+As we transition from legacy monolithic CMS productions to a more decoupled software stack, one big question remains. How do we manage our content now?
+Today, a CMS is no longer just a tool used by the marketing team that forces a developer's attention. Developers now select a CMS as a tool to integrate into their stack the same way they choose a framework. That balance between a developer and a marketing tool leads to CMS' different feature sets.
+Choosing between tools developers love and one that makes a marketers job easy is a heavy burden.
+We want teams to have both.
+The company was founded in 2018. We've witnessed companies struggle to implement optimal content workflows after upgrading their tech. So we decided to build something that would help.
+We chose the name tipe because "type" is taken 🤦🏽‍♀️.
+We truly believe that teams are more successful when they consistently produce quality content in their product. Delivering that content to users is just as important.
+A CMS should not get in the way of progress and speed. Developers should support it. Marketers should not be able to live without it. No matter how and where you need to deliver content, we want to assist you.
+We value our culture, a low-pressure atmosphere, and communication. We're diverse and will continue to be.
+We're backed by industry-leading investors that believe in the team and our mission.
+We're building tipe to be a fully distributed team. Today our team is located in San Diego, Sacramento, San Francisco, and Austin.
+We're firm believers in working remotely. Not having to choose between being close to family and having a more enjoyable lifestyle and career is a must.
+Teams excited and proud about the work they do will always create better software.
+We're hiring people who are excited about building the next generation of content workflows for teams.
+As a minority founded company, diversity and inclusion are core to us. We're want to hire people who believe that diverse teams are more successful than others.
+Our founding team consists of engineers with experience in open source, enterprise tech, education, and security.
+Open positions
+Send us an email with something you're proud of and why you'd be a good fit. [email protected]

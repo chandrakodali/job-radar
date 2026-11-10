@@ -1,0 +1,77 @@
+AI Construction Cost Intelligence
+See the cost of
+every decision.
+Architectural drawings in, priced building out.
+Book a Demo
+PROJECT OVERVIEW
+PROJECT 23 Elizabeth St. N
+TYPE Condo · 30 storeys
+ABOVE GRADE 0 m²
+BELOW GRADE 0 m²
+TOTAL PROJECT 0 m²
+UNITS 0
+3D MODEL — 23 ELIZABETH ST N
+COST ESTIMATE
+$0.0M ● $0/SF
+ABOVE GRADE $0.0M
+BELOW GRADE $0.0M
+W/ CONTINGENCIES $0.0M
+Parsing sheet A-201…
+HOW IT WORKS — TRY IT
+Start to finish in 30 minutes instead of two weeks.
+PLAN0 APP — NEW PROJECT SIMULATED DEMO
+23-Elizabeth-St-Architectural.pdf — 22 MB
+✓ A2-02 · FLOOR PLAN
+✓ A2-03 · FLOOR PLAN
+✓ A4-01 · ELEVATIONS N/W
+✓ A4-02 · ELEVATIONS S/E
+✓ 33 SHEETS PARSED · 4 KEY SHEETS SHOWN
+↻ REPLAY
+EXTRACTED AREAS
+Floor Area
+Balconies · Projected
+Terrace
+Elevators
+Privacy Screens
+Interior Walls · Drywall
+MID → GRADE
+EXTRACTED MATERIALS
+Window Wall 869
+Balcony Glass 128
+Curtain Wall 11
+Metal Panel 23
+DRAG TO ORBIT
+$108,708,803 268,897 SF ABOVE-GRADE GCA · $404/SF
+TOTAL $ $/SF
+PLAN0 found $5,810,000 of savings opportunities in this design
+ADJUSTED ESTIMATE
+$108,708,803
+I've priced this project at $108.7M ($404/SF). Ask me a what-if and I'll re-estimate in seconds.
+TRY A PROMPT — CLICK TO SEND
+Ask a what-if about your project's cost…
+24-MO FORECAST +8.6%
+HISTORICAL COST INDEX + 24-MONTH AI FORECAST · SHADED = CONFIDENCE BAND
+WHO IT'S FOR
+Built for the people who build.
+Developers
+Investment decisions Evaluate market opportunities and site-specific acquisition scenarios with real-time cost data.
+Preconstruction Route every decision with cost implications, from structural system to unit mix, through PLAN0 before acting on it.
+Value engineering Start at the earliest design stages, when the cost of change is lowest and the leverage is highest.
+Cost forecasting Underwrite cost inflation in proformas and pick designs that still pencil when you break ground in 2 to 3 years.
+Investors
+Independent cost validation Every proforma carries a construction cost assumption. PLAN0 is the reliable way to verify it.
+Portfolio benchmarking Compare a project’s cost basis to its competitive set in seconds, not weeks of manual struggle.
+Replacement cost analysis Know how an existing asset’s basis compares to new construction cost, for every IC memo.
+Stress testing Overlay historical cost overrun patterns onto current assumptions to pressure-test underwriting.
+General Contractors
+Business development Preliminary estimates for new bid opportunities in minutes, without tying up senior estimators.
+Value engineering advisory Optimize client designs before work begins and be a strategic partner, not just a builder.
+Procurement planning Time material purchases ahead of forecasted spikes, like locking in steel before an escalation.
+FROM DRAWINGS TO DECISIONS
+Build the future,
+more intelligently.
+Book a demo
+Tell us where to reach you. We usually reply within a day.
+Request received
+We'll be in touch shortly to set up your demo.
+✕ CLOSE

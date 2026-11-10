@@ -1,0 +1,62 @@
+📣 Big news: LightlyStudio is now live! Try it for free.
+Join Lightly
+We are on the mission to supercharge the most ambitious ML teams around the world. Join us.
+See Open Positions
+Benefits
+We are the AI-first team.
+Swiss-born, globally distributed.
+At Lightly, we believe great ideas can come from anywhere. Whether you’re in our Zurich HQ or working remotely, you’ll join a team of curious builders, engineers, and creators who thrive at the intersection of research and real-world impact.
+About Us
+Equity plan
+Own a part of the company you’re helping to build.
+Learning budget
+We invest in your growth providing courses, books, or certifications.
+Hybrid work
+Work remotely or from one of our hubs — flexibility built in.
+Conferences & events
+Attend and present at top AI and ML events worldwide.
+Bi-yearly company offsites
+We meet in exotic locations to align, create, and have fun together.
+Generous PTO
+Time off to recharge and explore — no clock-watching.
+Vibe
+Our Values
+Our values reflect how we work as humans, make decisions with data, and grow together as a team.
+We Are
+Humans
+We embrace the differences of everyone and help each other because we care.
+Data Drives & Ponies Gallop
+We move forward based on data, augmented by our vision and intuition.
+Thrive Together
+We inspire each other to become the best versions of ourselves and Lightly.
+Tell It Like
+It Is
+At Lightly, everybody is a copilot. We share information to move faster together.
+Culture
+Life at Lightly
+We’re a team of engineers, designers, and researchers who love solving complex problems and having fun while doing it.
+Jonas Wurst
+ML Engineer at Lightly
+“Everyone here is incredibly driven and competent at what they do, while also being some of the most kind and friendly people I know. The combination of talent and genuine camaraderie is hard to beat.”
+Joel Weiss
+Project Manager at Lightly
+"Lightly moves fast, but thoughtfully. Being close to customers is part of the job. You work on real problems with real users, and your decisions actually matter.”
+Maša Kljun
+Developer Advocate at Lightly
+“There’s a strong sense of ambition here, but it’s paired with trust and support. You’re encouraged to learn, experiment, and grow. You get challenged every day, but never at the cost of collaboration or respect.”
+Openings
+Open Positions
+Ready to Get Started?
+Experience the power of automated data curation with Lightly
+Book a Demo
+Company
+About Us Careers Partners Contact Us
+Resources
+Blog Datasets Case Studies Glossary ML Guides Documentation
+Legal
+Compare
+Lightly vs Voxel51 Lightly vs CVAT Lightly vs Label Studio Lightly vs Ultralytics Lightly vs Encord Lightly vs Labelbox Lightly vs Roboflow Lightly vs V7 Darwin
+Free Download: Computer Vision Architecture Decision Tree
+Picking DINOv3 or YOLO11 is easy. Getting it to run in production isn’t.
+Learn how to do it properly. 👇
+Thanks for submitting the form.

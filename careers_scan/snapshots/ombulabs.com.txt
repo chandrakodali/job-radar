@@ -1,0 +1,71 @@
+Looking for your best job yet?
+Be a part of our close-knit and diverse team . Come work with us!
+Open Positions
+What We Offer
+Remote Work
+Work from anywhere! We currently have employees in 9 countries.
+Competitive Salary
+We offer competitive salaries and career growth opportunities.
+Parental Leave
+8 weeks 100% paid, and up to 6 months off total.
+Flexible Hours
+Overlap with UTC-5 for 4h a day but otherwise hours are flexible.
+Employee Perks
+Stipends for both a coworking space and home office, a learning budget, and English classes.
+International Holidays
+Take off holidays your country celebrates.
+Vacation and Time Off
+5 weeks PTO (includes vacation and sick/personal time) plus days off for holidays in your country.
+Annual Retreat
+Annual retreat for in-person time. The last one was in Costa Rica.
+Paid Open Source Time
+Paid open source time for passion projects.
+Ruby on Rails Engineer - Contractor
+20-30 hours/week
+Learn More
+Why OmbuLabs?
+At OmbuLabs we work on challenging projects for established companies.
+We’re a boutique agency, helping everyone from small development teams to
+large-scale companies. If you work for us we want it to be as enjoyable as possible.
+Here are some of us in Costa Rica, on our latest retreat in April 2023!
+We care about creating a good work environment.
+Fostering a supportive and inclusive work space while being remote is very
+important to us, so we hang out on Slack and pair-program often.
+You’ll be encouraged to avoid working overtime, you will receive
+help whenever it’s needed, and you will have time to work on open-source
+projects and career development activities.
+We practice transparency, openness, and balance.
+We are always open to suggestions to improve our communication and processes,
+and we value giving and receiving feedback that helps us become better.
+Working with Us
+We care about each other and about the quality of our work.
+We believe there is great importance in fostering a diverse workplace.
+We are actively working to build diversity on our team. OmbuLabs does
+not discriminate in employment matters on the basis of race, color,
+religion, gender, national origin, age, military service eligibility,
+veteran status, sexual orientation, marital status, special needs/conditions,
+or any other protected class.
+Meet our Team
+We live our values.
+We value interesting challenges more than high-paying contracts.
+We are in the problem-solving business for real companies.
+We won't work on cool-sounding solutions looking for a problem that doesn't exist.
+Read more about what we value and how we prioritize our work.
+Our Values
+OmbuLabs on GitHub
+Here’s a sample of our open source projects.
+claude-code_rails-upgrade-skill
+A Claude Code Skill to upgrade Ruby on Rails applications using the FastRuby.io methodology.
+View Project
+claude-code_rails-load-defaults-skill
+A Claude Code Skill to incrementally upgrade your Rails load_defaults configuration.
+claude-code_dual-boot-skill
+A Claude Code Skill to dual boot your Ruby application with Bundler and next_rails .
+claude-skills
+A Claude Code plugin marketplace for Rails upgrade tooling, based on the FastRuby.io methodology.
+rails-superhero-cards
+Generate Rails Superhero Cards from a prompt and image (OpenAI + Python + React).
+eo-philadelphia-card-generator
+A themed card generator for the Entrepreneurs Organization of Philadelphia community.
+Check us out on GitHub
+View Projects

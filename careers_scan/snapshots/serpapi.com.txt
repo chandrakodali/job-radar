@@ -1,0 +1,108 @@
+APIs
+Integrations
+Features
+Pricing
+Use Cases
+Team
+Careers
+FAQ
+Contact Us
+Sign In
+Register
+SerpApi Careers
+SerpApi is the leading solution to integrate search data. Join us in making web search just another API.
+Open roles
+Perks
+SerpApi has been created by engineers for engineers. High compensation, transparency, remote-first, and a high trust environment are at the core of the company.
+All of these also make a very neurodivergent-friendly work environment. Several of our team members, including our CEO, are on the spectrum. Having a neurodivergent-friendly company is not an afterthought.
+We welcome talent from all over the world! No matter where you’re based, you can be part of our diverse, remote-first team. For those outside Austin, TX, we typically hire as independent contractors since we don't have an office there.
+High compensation
+We offer high compensation, bonuses, and career opportunities all across the globe.
+Competitive worldwide
+Total compensation, including profit shares, averages $232,448 per year per team member worldwide. We pay nearly as much as Google!
+Profit shares
+All full-time team members receive profit share bonuses. We believe it's important to achieve alignment as a team.
+Career growth
+Internal career paths, training (courses, conferences, books), and toolings (up to 50% reimbursement for software, hardware, subscriptions, and co-working space).
+Transparency
+A transparent world is a better world. Transparent organizations are more meaningful, connected to reality, and trustworthy.
+Open books
+We share our books with all team members. We publish quarterly and annual reports (P&L, expenses).
+Public roadmap
+Excluding security and confidential issues, all of our work is fully accessible to the public.
+Internal trust
+Internally, we share analytics, customer interactions, hiring processes, strategies, marketing, and all other business-related data.
+Remote-first company
+Remote is not a second thought, but is core to SerpApi. All our processes are structured around being remote-first.
+Even before COVID
+Remote-first wasn't a reaction to COVID, but was a conscious, long-term, and permanent decision.
+Async communication
+All of our important communications are asynchronous, written, and online. We avoid unnecessary meetings as much as possible.
+100% online
+We use the best tools for the job: GitHub, Slack, Pop, Zoom, Intercom, Figma, and emails.
+High-trust environment
+We put high-trust in everyone on our team and empower them to do their best work.
+Flexible schedule
+Team members can adjust their own schedule, timezone, and unpaid vacation time the way they see fit.
+Independent prioritization
+Outside of specifically assigned tasks, you can choose what work you think will produce the most value to SerpApi.
+Trusted contributions
+All team members can suggest or directly make changes to anything related or not related to their jobs following their own judgment.
+Junior Fullstack Engineer
+Remote-first
+| Full-time |
+80K – 100K a year + profit share
+We are looking for a Junior Fullstack Engineer. As a Junior Fullstack Engineer, you will design, maintain, fix, deploy, and monitor SerpApi's APIs, features, and documentation. Our current stack is Ruby, Rails, MongoDB, and JavaScript. We deploy on Linux servers on AWS.
+Learn more
+Senior Fullstack Engineer
+150K – 180K a year + profit share
+We are looking for a Senior Fullstack Engineer. As a Senior Fullstack Engineer, you will design, maintain, fix, deploy, and monitor SerpApi's APIs, features, and documentation. Our current stack is Ruby, Rails, MongoDB, and JavaScript. We deploy on Linux servers on AWS.
+Austin Events & Sponsorships Manager
+Onsite in Austin, TX
+75K – 95K a year + profit share
+We are looking for an Events & Sponsorships Manager to own how SerpApi shows up in person across Austin and Central Texas. This is a full-time, onsite position based in Austin, TX.
+As an Events & Sponsorships Manager, you will host visitors at our Austin office, run our presence at local conve...
+Chief of Staff
+150K – 200K a year + profit share
+We are looking for a Chief of Staff to partner with and support our CEO and executive team. As our Chief of Staff you will manage our CEO’s communications, align cross-functional priorities, and support key business initiatives.
+Chief Financial Officer
+300K – 350K a year + profit share
+We are a highly profitable, founder-led technology company headquartered in Austin, Texas. We have built substantial revenue with a small team and no outside investors. That combination creates a rare CFO opportunity. The company has real financial scale, meaningful strategic options, and a finan...
+Customer Success Engineer
+70K – 100K a year + profit share
+We are looking for a Customer Success Engineer to join our team. As a Customer Success Engineer, you will be responsible for providing technical and sales support to our clients. You will also be responsible for ensuring that our clients' needs are met by maintaining excellent relationships with ...
+Outbound Sales Engineer
+80K – 100K a year + commission + profit share
+We're looking for an Outbound Sales Engineer to grow our account-based outbound program using our existing pipelines, ICPs, and tools, and to help evolve them as you learn what works. Our sales playbook is a living document shaped by team input, not a fixed rulebook, so you'll help write the next...
+Hiring Coordinator
+75K – 85K a year + profit share
+We are looking for a highly-motivated hiring coordinator with strong communication skills. This is a full-time, onsite position based in Austin, TX.
+As a hiring coordinator, you will be responsible for facilitating the hiring process by drafting and posting jobs, reviewing resumes, conducting in...
+SEO Specialist
+We are looking for an SEO Specialist to help grow SerpApi’s visibility across search engines and emerging AI search experiences. In this role, you will develop SEO strategies, analyze performance data, and collaborate with cross-functional teams to improve rankings, traffic, and website performan...
+Javascript Developer Advocate
+100K – 125K a year + profit share
+We’re looking for a Javascript Developer Advocate to help expand our reach within the Javascript community. In this role, you’ll be the bridge between the community and our team—creating useful content, building example projects, maintaining our SDK, and helping SerpApi become the go-to API for s...
+PHP Developer Advocate
+We’re looking for a PHP Developer Advocate to help expand our reach within the PHP community. In this role, you’ll be the bridge between the community and our team—creating useful content, building example projects, maintaining our SDK, and helping SerpApi become the go-to API for scraping search...
+Go Developer Advocate
+We’re looking for a Go Developer Advocate to help expand our reach within the Go community. In this role, you’ll be the bridge between the community and our team—creating useful content, building example projects, maintaining our SDK, and helping SerpApi become the go-to API for scraping search e...
+Rust Developer Advocate
+We’re looking for a Rust Developer Advocate to help expand our reach within the Rust community. In this role, you’ll be the bridge between the community and our team—creating useful content, building example projects, maintaining our SDK, and helping SerpApi become the go-to API for scraping sear...
+.Net Developer Advocate
+We’re looking for a .Net Developer Advocate to help expand our reach within the .Net community. In this role, you’ll be the bridge between the community and our team—creating useful content, building example projects, maintaining our SDK, and helping SerpApi become the go-to API for scraping sear...
+Developer Advocate (Hindi)
+100K – 125K a year
+We are looking for a Developer Advocate for the Hindi-speaking market. In this role, you will serve as a bridge between our products and the Hindi-speaking developer community, helping them succeed while actively expanding SerpApi’s presence. You will create localized content, engage with local c...
+Developer Advocate (Arabic)
+We are looking for a Developer Advocate for the Arabic-speaking market (e.g., Saudi Arabia, Egypt, Morocco, etc.). In this role, you will serve as a bridge between our products and the Arabic-speaking developer community, helping them succeed while actively expanding SerpApi’s presence. You will ...
+Developer Advocate (German)
+We are looking for a Developer Advocate for the German-speaking market. In this role, you will serve as a bridge between our products and the German-speaking developer community, helping them succeed while actively expanding SerpApi’s presence. You will create localized content, engage with local...
+Developer Advocate (French)
+We are looking for a Developer Advocate for the French-speaking market. In this role, you will serve as a bridge between our products and the French-speaking developer community, helping them succeed while actively expanding SerpApi’s presence. You will create localized content, engage with local...
+Developer Advocate (Korean)
+We are looking for a Developer Advocate for the Korean-speaking market. In this role, you will serve as a bridge between our products and the Korean-speaking developer community, helping them succeed while actively expanding SerpApi’s presence. You will create localized content, engage with local...
+Developer Advocate (Japanese)
+We are looking for a Developer Advocate for the Japanese-speaking market. In this role, you will serve as a bridge between our products and the Japanese-speaking developer community, helping them succeed while actively expanding SerpApi’s presence. You will create localized content, engage with l...
+Developer Advocate (Indonesian)
+We are looking for a Developer Advocate for the Indonesian-speaking market. In this role, you will serve as a bridge between our products and the Indonesian-speaking developer community, helping them succeed while actively expanding SerpApi’s presence. You will create localized content, engage wi...

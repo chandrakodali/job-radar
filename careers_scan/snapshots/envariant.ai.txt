@@ -1,0 +1,5 @@
+Envariant is building the control layer for foundation models — an interpretability SDK that lets teams inspect, steer, and control model behavior.
+Foundation models are powerful but volatile. They hallucinate, drift, and produce brittle outputs in complex domains where verification is too expensive, scarce, or ambiguous. Standard approaches are costly and destabilizing — leaving teams iterating on data instead of reasoning directly about model behavior.
+Envariant moves verification upstream, directly into the model's latent space. The SDK exposes a compact set of primitives: detect and causally trace behaviors like hallucinations or invariant violations, reason inductively and steer outputs programmatically, extract human-readable principles, and synthesise targeted edge cases — no bespoke engineering required.
+We're releasing SOTA results across safety, reasoning, and domain-specific evals soon.
+Reach out at [email protected]

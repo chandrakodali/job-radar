@@ -1,0 +1,4 @@
+ML Researcher Lead research on transferring computed context across open-weight models.
+You will own the research agenda for cross-model KV cache transfer: derive new methods, design decisive experiments, and produce results strong enough to publish and deploy. This role is for an experienced researcher who can work independently at the frontier of model architecture and inference.
+Back End Engineer Own latency-critical inference infrastructure at production scale.
+You will design and operate the backend that moves model state across a distributed GPU fleet. You will own latency-critical services, failure recovery, observability, and capacity under real production load.

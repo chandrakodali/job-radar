@@ -1,0 +1,41 @@
+Solve your game testing app QA market research compliance checks
+with AI agents .
+Save countless hours of manual work by using AI agents performing end-to-end tasks at scale.
+get started
+Here's how it works.
+Describe what you want to do - our AI will handle the rest.
+Write instructions in plain english.
+No coding or technical expertise required.
+Let our agents run your tasks.
+Our AI agents interact with the device just like a human would.
+Complete the tutorial and flag issues.
+completed
+Conduct a competitor analysis for this app.
+Give me feedback for this onboarding flow.
+incomplete
+[ likely_bug ]
+Complete a purchase and confirm receipt.
+Draft me a design document of this level.
+Get your results.
+Monitor outcomes in real time through powerful dashboards with detailed reports and insights.
+Everything in one place.
+With nunu.ai, you get all the game QA automation in one easy to use platform.
+Cost Reduction
+By automating the repetitive and tedious tasks, customers save up to 50% on manual work costs.
+24/7 Availability At Scale
+Our AI agents work around the clock, stay consistent over time and can scale to your demand.
+Easy Setup
+Get started instantly with no integration required. If you want to go even further, integrate our AI agents with a lightweight SDK.
+Human-like Interface
+The AI agents use devices like humans - by observing the screen and interacting through touch, keyboard, or mouse - enabling a true black-box experience.
+Multi-Platform Support
+Run agents on PC and mobile (iOS and Android) devices, with console support coming soon.
+Minimal Maintenance
+Instead of maintaining scripts that break on every change, our AI agents adapt to changes without any human intervention.
+Infrastructure
+We provide dedicated infrastructure for reliable performance and scalability, hosting everything on consumer hardware. No setup or maintenance required.
+Multiplayer
+Create tasks where multiple agents communicate and collaborate - ideal for multiplayer testing and complex workflows.
+Enterprise-grade Security
+We use the latest security practices to ensure your data is secure. We are SOC 2 compliant and follow all relevant regulations.
+Start your AI automation journey today .

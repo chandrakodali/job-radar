@@ -1,0 +1,43 @@
+Home Demos Pro Support
+Careers
+Privacy
+Home
+Demos
+Pro
+Support
+We're Hiring!
+We started in late 2012 with the key observation that web browsers were powerful enough to securely process files without exposing confidential data. Today, the main SheetJS open source project is one of the most popular libraries in the world, embedded in Google Cloud Platform tools, Salesforce Cloud, Tableau, Office 365, Oracle Data Services and other platforms. Governments and scientists across the world trust SheetJS software to analyze key data sets and make important policy decisions.
+Our impact on the JavaScript and data communities extends beyond spreadsheets. In building the JS data stack, we open-sourced innovative solutions to related problems including compression, checksums and numerical approximation. Our focus on performance and accuracy yielded high-quality implementations that found its way into high-impact open source projects including the React JS framework.
+The SheetJS ecosystem is large and diverse. There are many challenging and deep problems that will excite programmers and computer scientists alike.
+Software Engineer
+Full time | US citizens only | Remote | $175K - $250K gross
+In this role, you will master new and established technologies while working on high-impact projects used by millions of people across the world. Balancing research and engineering, you will design and implement creative solutions that draw from your academic and professional experience.
+Qualifications:
+US citizen with Bachelor's degree or higher in Math / CS / EE or related field
+Strong command of computational analysis and algorithms
+Experience with C or JavaScript (ability to translate ideas to code)
+Experience with Excel (VBA / Macros, PivotTables, Conditional Formatting, ...)
+Familiarity with Discrete Math and Information Theory
+Bonus Qualifications:
+Experience with SheetJS open source software (critiques are encouraged)
+Experience with Server-Side JS platforms (NodeJS etc)
+Experience with modern JavaScript and web development
+Experience with x64 or AArch64 assembly
+Willingness and desire to explore unfamiliar languages and new technologies
+Responsibilities:
+Extend and improve the existing open source SheetJS spreadsheet data toolkit
+Build and document solutions to common real-world data problems
+Build and maintain parsers and writers for image and document formats
+Extend and support low-level tooling for mathematics and computation
+Build and maintain libraries for numerical analysis
+Compensation:
+Expected gross salary $175,000 - $250,000 based on experience and knowledge
+Flexible working hours with the option to work remotely
+Health, dental, and vision insurance
+Vacation time and paid sick leave
+Stipend for home office equipment and related utilities
+About Us
+SheetJS LLC is a bootstrapped business based in New Jersey. Without the short-term profitability pressures of external funding, we can tackle unsolved problems and build novel open-source solutions.
+We believe in the power of the Internet and web technologies. What started as a radical idea has taken the world by storm. Join us in the journey to advance the state of the art and solve real-world problems affecting millions of people.
+SheetJS LLC is a minority-owned small business and equal-opportunity employer.
+If you are interested, please reach out to [email protected] !

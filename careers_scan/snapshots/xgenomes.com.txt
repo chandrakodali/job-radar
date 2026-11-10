@@ -1,0 +1,86 @@
+Scientist/Senior Scientist (Biochemistry / Chem Eng)
+XGenomes is an early-stage startup in Cambridge, MA building innovative sequencing technologies to unlock the power of genomics for the future of healthcare. We are reinventing sequencing to personalize medicine and accelerate diagnostics. Our mission is to make multi-omic information accessible throughout an individual’s lifetime, detect early signals of disease, and to monitor the effects of interventions.
+We are looking for a versatile, hands-on Scientist / Senior Scientist to join our R&D team to help shape and develop our innovative sequencing platform. This role sits at the intersection of single-molecule imaging, molecular biology, and sequencing chemistry, and is well-suited to someone who thrives in an interdisciplinary startup environment where everyone contributes beyond their core specialty, and work-life balance is valued.
+We look forward to reading your application at this link !
+What we offer
+The opportunity to shape foundational sequencing technology from the ground up
+A collaborative, scientifically rigorous, and intellectually curious team
+Access to The Engine accelerator community and resources
+Salary: $90k – $120k plus equity
+PTO: 10 holidays/year, 15+ vacation days/year; 5 sick days/year
+What you'll do
+Design, execute, and interpret sequencing experiments supporting assay development, with an emphasis on single-molecule imaging data
+Analyze imaging and sequencing data, draw actionable conclusions, and iterate quickly on protocols
+Develop and troubleshoot sequencing chemistry and workflows, from sample prep through data generation
+Apply molecular biology skills (cloning, PCR, library prep, nucleic acid handling, enzymatic reactions) to support assay development
+Lead key demonstration of XGenomes’ technological capabilities for specific clinical assay applications
+Document experimental procedures, results, and protocols clearly for internal knowledge-sharing
+Collaborate cross-functionally with engineering and software teams to characterize, calibrate, and improve imaging instrumentation
+Take on responsibilities outside your core specialty as needed
+Required qualifications
+PhD in Biophysics, Chemistry, Biochemistry, Molecular Biology, Bioengineering, or a related field, or a Master's degree with 3+ years of equivalent hands-on industry research experience
+Demonstrated experience with fluorescence microscopy techniques
+Solid foundation in basic molecular biology techniques (PCR, cloning, nucleic acid purification, enzymatic assays)
+Strong experimental rigor: able to design controls, troubleshoot independently, and interpret data
+Excellent communication skills
+Preferred / bonus experience
+Single-molecule localization microscopy (SMLM)
+3D printing for rapid prototyping of lab hardware or instrumentation components
+Designing, integrating, or troubleshooting microfluidics or fluidics systems
+Designing, building, or troubleshooting optical systems
+Chemical synthesis, modification, or handling, particularly of nucleic acids or fluorescent dyes
+Developing and using modern sequencing technologies
+Liquid biopsy field
+Computer programming (Julia, Python, MATLAB, Linux, AWS)
+Computer vision and machine learning methods (not LLMs)
+Research Associate (Bioengineering)
+We are looking for a versatile, hands-on Research Associate to join our R&D team to help shape and develop our innovative sequencing platform. This role sits at the intersection of single-molecule imaging, molecular biology, and sequencing chemistry, and is well-suited to someone who thrives in an interdisciplinary startup environment where everyone contributes beyond their core specialty, and work-life balance is valued.
+Salary: $65k – $85k plus equity
+Execute and interpret sequencing experiments supporting assay development, with an emphasis on single-molecule imaging data
+Analyze imaging and sequencing data
+Troubleshoot sequencing chemistry and workflows, from sample prep through data generation
+Design and iterate components of an existing integrated fluidics/microscopy system and write code to control its automated operation
+Bachelor’s degree in Biophysics, Chemistry, Biochemistry, Molecular Biology, Bioengineering, or a related field
+Solid foundation in basic laboratory practices
+Experience with CAD tools, 3D printing, and shop equipment (e.g., laser cutter)
+Fluorescence microscopy
+Standard molecular biology techniques (e.g., PCR, cloning, nucleic acid purification, enzymatic reactions)
+Experience with microfluidics or fluidics systems
+Familiarity with modern sequencing technologies
+Data Science / Biochemistry Intern/Co-Op (2026-2027)
+XGenomes is developing a radically new DNA sequencing technology that will revolutionize personalized healthcare. We watch single-molecule interactions at optical super-resolution, down to a few nanometers and use artificial intelligence to decode sequence and epigenetic states.
+We are looking for a data science intern with knowledge of biochemistry to join our team for a 6-month co-op in-person in Cambridge, MA, to work on simulations, data analysis and algorithms in conjunction with generating experimental data.
+Further development of super-resolution imaging data analysis pipeline
+Conduct simulations and experiments to train machine learning models
+Systematically analyze data to gain insights for optimizing the efficiency, reliability, and data quality of experiments
+Work with our engineers to test and optimize assay scale-up
+Ability to design, develop, test, and document software or data analysis tools
+Experience with bioinformatics, computational simulations, or analysis of large datasets, ideally in Julia, Python, or MATLAB
+Foundation in biochemistry, including DNA/RNA molecular structure and interactions
+Willingness to learn new skills, communicate across multi-disciplinary team, and document progress
+Experience designing and performing molecular biology or chemistry lab experiments
+Familiarity with machine learning methods, including deep learning and image processing techniques
+Ability to conduct in-depth literature reviews to identify technical solutions
+Engineering Intern/Co-Op (2026-2027)
+To scale up our prototype, we are looking for a mechatronics/mechanical/systems engineer to join our team for an in-person internship in Cambridge, MA.
+Develop and evaluate performance of heating and cooling systems for automated fluidics system for a prototype single-molecule DNA imaging platform
+Integrate and control new fluidic components, such as pumps or thermocouples
+Test system reliability across device subsystems including fluidics, hardware, and software
+Implement work-flows and features in Python-based control software
+Work with our biologists to improve experiment reliability and develop new features
+Massachusetts resident, or attending an accredited college/university located in Massachusetts or a Minority Serving Institution
+Experience building, validating, and troubleshooting heating and cooling systems
+Ability to conduct calibration, testing, and maintenance of instrument subsystems, such as pumps, solenoids, thermocouples
+Ability to use CAD tools (Solidworks, Fusion360) and 3D printing or laser cutting technologies to redesign and prototype instrument subsystems
+Ability to develop embedded systems using Python, serial, Arduino, etc.
+Experience with microfluidics theory and fabrication
+Familiarity with DNA/RNA, biology, or chemical laboratory work
+Don't see a fitting listed position?
+XGenomes is interested in bringing aboard those with experience and interest in developing sequencing technologies, molecular diagnostics, or artificial intelligence, or in the broader bio-tools industry. Please send your CV and a brief statement of interest to hr@xgenomes.com .
+Locations
+The Engine
+750 Main Street
+Cambridge, MA 02139
+Cambridge, UK
+Contact
+hello@xgenomes.com

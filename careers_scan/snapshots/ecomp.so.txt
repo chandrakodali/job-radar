@@ -1,0 +1,16 @@
+E [ C ] Efficient Computation Inc.
+We believe understanding how capabilities form during pretraining and building principled reinforcement learning environments are the path to solving science with AI.
+Our beliefs
+We need to understand when capabilities form during pretraining and how data affects them. Understanding this will lead to sample-efficient capability learning.
+Reinforcement learning is the clear pathway to superintelligence. It is essential to find scalable ways to make high-quality RL environments that models believe are real and that have non-gameable rewards.
+Products / active research
+Causal biology RL environments where models predict genetic and drug effects graded on the viable grounding of their conclusions
+Formally verifying security exploits: attempting to create formally verifiable grounded exploit systems to help models prove vulnerabilities in software
+Computed-state use: do models know things they fail to use?
+Timing windows: Does when a model learns something determine whether it can retain it?
+Papers
+Legible Failures: Detecting and Repairing In-Context Binding Errors arXiv
+In-Context Binding Capacity in Language Models [LP4FM NeurIPS '26] arXiv
+Quadratic bounds for uncompletable words and matrix mortality arXiv
+Decodable In-Context State and Model Output Across Training arXiv
+A Heckler in the Hidden State: Correctness Signals in Diffusion Language Models arXiv

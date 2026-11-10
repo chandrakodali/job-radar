@@ -1,0 +1,2 @@
+We are hiring.
+To be considered, impress us with a PR to Talos , our open-source Lean-WASM interpreter, then send us an email . We don't care about your CV.

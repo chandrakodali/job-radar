@@ -1,0 +1,94 @@
+Index
+2FA AI Accounting CRM Controlling CreditNotes DMS DPA DataPrivacy E-Invoice E-Rechnung EN16931 Factur-X GDPR HR Integrations Newsletter Offers Professional liability insurance Recruiting Scheinselbststaendigkeit Security SickNotes Supplier contracts Teams Teamwork TimeRecording VacationManagement XRechnung ZUGFeRD
+Blog - Latest articles on time tracking & e-invoices
+Discover exciting articles and current updates on time tracking, e-invoicing, controlling, and HR. Dive into our blog!
+112 articles found
+SEPA direct debit in your e-invoices – now with the right data
+ZEIT.IO fixes SEPA direct debit in e-invoices: your customer's IBAN instead of your own, plus creditor ID and mandate reference in new fields. Your customer's accounting can match every debit to the right invoice.
+EN16931 XRechnung ZUGFeRD
+Robert Reiz | November 10, 2026 - 08:16 UTC
+Two letters that decide whether your e-invoice gets paid
+ZEIT.IO completes VAT IDs with the correct country prefix across forms, API and imports, and rejects mismatches. Your own EU VAT ID is also checked against the EU's VIES service, so e-invoices no longer bounce over a missing prefix.
+Accounting E-Invoice EN16931 XRechnung ZUGFeRD
+Robert Reiz | November 09, 2026 - 09:15 UTC
+Cancellation invoices that every accounting system understands
+ZEIT.IO now issues organisation cancellations as type 381 with a reference to the original invoice. PDF and XML show the same positive amounts. For existing customers: check any TypeCode rules; earlier cancellations stay as they are.
+Accounting EN16931 XRechnung ZUGFeRD
+Robert Reiz | November 08, 2026 - 11:09 UTC
+One credit note a month instead of ten – plus 70+ more updates
+October in ZEIT.IO: suppliers can get just one credit note per project and month, motor vehicle experts invoice CombiPlus damage cases, and articles, API keys and supplier contracts have gained a lot.
+Newsletter
+Robert Reiz | November 03, 2026 - 08:31 UTC
+One credit note a month instead of ten
+New in ZEIT.IO: one credit note per supplier, project and month instead of one per timesheet. A closing day closes the month, open time and expenses are submitted automatically, with an email reminder beforehand.
+Accounting CreditNotes EN16931 TimeRecording ZUGFeRD
+Robert Reiz | October 29, 2026 - 12:20 UTC
+The hours come from the timesheet. Everything else now comes from your catalogue.
+ZEIT.IO articles: set up flat rates, licences and products once with price and unit, restrict them to customers and add them to new invoices automatically. Your CRM or shop can now manage the catalogue through the REST API.
+Accounting E-Invoice XRechnung ZUGFeRD
+Robert Reiz | October 27, 2026 - 08:35 UTC
+PHP and Node.js vulnerabilities: ZEIT.IO is not affected
+Critical flaws in PHP and Node.js? ZEIT.IO is not affected: neither runs on our servers. On top of that, we check for vulnerabilities every week and install security updates automatically.
+Security
+Robert Reiz | October 22, 2026 - 09:47 UTC
+One key. Visible once.
+ZEIT.IO now stores API keys only as a hash and encrypted. You see a new key exactly once, and the list shows only its last four characters. Your existing integrations keep running without any change.
+Robert Reiz | October 22, 2026 - 05:47 UTC
+Export a whole year of time records – without the error page
+Exports of more than 300 time records are now built in the background, and ZEIT.IO emails you a download link. No attachment for privacy reasons: the link works only for you, only signed in to ZEIT.IO.
+DataPrivacy TimeRecording
+Robert Reiz | October 20, 2026 - 06:53 UTC
+Your article catalogue in ZEIT.IO in minutes, not afternoons
+Articles can now be imported from CSV in the format of the article export – including customer limits and auto-add to new invoices. Duplicates and unknown customers are reported per line. New: customer filter and API POST /api/v1/org/product_items.
+Accounting E-Invoice
+Robert Reiz | October 20, 2026 - 06:37 UTC
+Binding supplier contracts – no paper, no signature, a complete record
+Conclude legally binding supplier contracts without paper: ZEIT.IO records every acceptance with timestamp, IP address and optional 2FA and sends both sides the contract as a PDF. Only approved times and expenses are paid.
+TimeRecording Supplier contracts CreditNotes
+Robert Reiz | October 15, 2026 - 09:21 UTC
+Cancellation invoices from suppliers: clearly linked, never paid twice
+Mark incoming invoices in ZEIT.IO as cancellations and link them to the original from the same supplier. Both are clearly highlighted in the list, negative amounts are accepted and every change is in the history.
+Accounting Controlling E-Invoice EN16931 XRechnung ZUGFeRD
+Robert Reiz | October 13, 2026 - 06:29 UTC
+Paid with Skonto? Now one click says so
+Credit notes with Skonto can now be marked as paid with the full or the discounted amount. ZEIT.IO books the remaining payment, keeps existing partial payments and dates a late-recorded Skonto payment within the discount window.
+Accounting
+Robert Reiz | October 12, 2026 - 04:58 UTC
+One customer, five companies – set up in minutes
+New in ZEIT.IO: copy a customer with one click. The form comes pre-filled, and aliases, dynamic fields and invoice and auto-invoicing settings are taken over too. Contact persons and departments are not copied.
+CRM
+Robert Reiz | October 09, 2026 - 07:26 UTC
+Find the hours you need in any timesheet
+New in ZEIT.IO: organisations and approvers can filter a timesheet's time records by user, project, activity, billable state and description. The sum updates instantly, and every filtered view can be shared as a link.
+Controlling TimeRecording
+Robert Reiz | October 09, 2026 - 05:22 UTC
+Budget control across company boundaries
+New in ZEIT.IO: suppliers can only book as many hours in a mirrored project as are still free in the parent project. The check covers web, timer, app, API and timesheets – with a hint when the budget gets tight.
+Robert Reiz | October 09, 2026 - 04:10 UTC
+When the mistake only shows up after approval: correcting amounts in incoming invoices
+Incoming invoices: net, tax and gross are now editable on the Settings tab, and the tax rate and Skonto are recalculated. Approved invoices can only be changed by admins, with a warning, a confirmation prompt and an audit log.
+Robert Reiz | October 07, 2026 - 04:20 UTC
+Multiple API keys with their own permissions
+New in ZEIT.IO: create a separate API key for every integration – with its own permissions just like a member, an expiry date or unlimited validity, and an overview of when and how often each key was used.
+Robert Reiz | October 02, 2026 - 10:05 UTC
+Add all employees to a project in one click
+New in ZEIT.IO: add all active employees to a project in one step. Set budget, period, roles and billing rate once; employees who are already members are skipped automatically.
+Robert Reiz | October 01, 2026 - 11:51 UTC
+Projects now copy and close themselves – plus 30 more updates
+33 updates in September: projects copy and close themselves, invoices go to multiple recipients, and bank matching handles bulk payments and skonto. Important for admins: project permissions no longer open up financial data.
+Robert Reiz | October 01, 2026 - 04:44 UTC
+Multiple recipients for offers, invoices and payment reminders
+Multiple recipients for offers, invoices and payment reminders: the main recipient can appear with name and position in the PDF address block, while everyone else receives the document in CC.
+Robert Reiz | September 30, 2026 - 06:08 UTC
+Project permissions: every tab now needs its own permission
+Project permissions alone no longer unlock financial data: invoices, credit notes, offers, expenses, timesheets and automatic invoicing in the project now require the same permission as their overview pages.
+Robert Reiz | September 29, 2026 - 10:38 UTC
+Cancellation: who reads the reason – and who hears about it
+New cancellation email for timesheets and expenses: freelancer, submitter and all approvers receive the reason. The cancellation page now points out that the reason is also published as a comment visible to everyone with read access.
+Robert Reiz | September 29, 2026 - 08:37 UTC
+Import supplier contracts from CSV
+Supplier contracts can now be imported from CSV in the format of the CSV export – project contracts 1:1 included, with their project. Contracts are created as drafts, duplicates are detected. Also new: API endpoint POST /api/v1/org/contracts/suppliers.
+Robert Reiz | September 29, 2026 - 05:19 UTC
+Auto-invoices: non-billable hours as an optional timesheet
+New in ZEIT.IO: auto-invoices can optionally attach a second timesheet with all non-billable hours of the period – in the PDF and in the XRechnung. Your customer sees the work behind the flat fee.
+Robert Reiz | September 28, 2026 - 06:08 UTC

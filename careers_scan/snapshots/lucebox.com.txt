@@ -1,0 +1,20 @@
+Work at Lucebox.
+We're building a local AI workstation and the open source engine that runs on it, backed by Y Combinator.
+Open roles
+Founding AI Researcher
+Research how models keep getting better after they ship.
+Milan, Italy · Hybrid · €70-120k + 1-2% equity
+General application
+Don't see your role? Tell us why you'd be great at Lucebox.
+Milan, Italy · Hybrid
+Bonus: a pull request to our open source engine counts in your favour, including one you sent before. It's optional.
+What you'd work on
+The engine
+Make open models run fast on our hardware. GPU kernels for the R9700 and the Ryzen AI MAX+, speculative decoding, batching, and splitting one model across both memories. It's open source, written in C++17, CUDA and HIP.
+The workstation
+Build the Lucebox Zero 495 itself. The board, GPU, cooling and chassis, plus the 72-hour test every machine passes before it ships.
+The platform
+Build a machine that improves itself. A Lucebox should get better the longer it runs, by itself, with nothing leaving the machine. You'd write the software that makes that happen, and everything around it.
+How we work
+In the open
+The engine is Apache 2.0 and has 65+ contributors. Every benchmark goes on the blog with its setup.

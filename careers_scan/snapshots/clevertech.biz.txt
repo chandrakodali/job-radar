@@ -1,0 +1,68 @@
+Expertise
+Partnerships
+Case studies
+About
+Insights
+Careers
+Lumenalta Careers
+Specialist work on enterprise programs, with coaches in your corner and the freedom to work from anywhere.
+Be ambitious, at work and at home.
+A career at Lumenalta®means doing specialist work on your terms. We’ve been fully remote from the start, and we’ve built a team of more than 500 people around it.
+Problems that matter
+Work on enterprise data, AI, and platform programs where your expertise shapes the outcome, alongside clients who treat you as a partner.
+Remote by design
+No office to commute to, ever. Build your schedule around your life, and do your best work wherever you do it.
+Coached, not managed
+Two dedicated coaches from day one: one for technical mastery, and one for the skills that make you a trusted partner to clients.
+Open positions. Find your specialty.
+Roles for engineers, data and AI specialists, architects, designers, product analysts, quality specialists, and business services teams. Build your career from anywhere.
+Select a specialization
+Select a seniority
+Senior AI Engineer
+Senior
+Artificial Intelligence (AI) & Machine Learning (ML)
+RAG Pipelines
+Llama
+Anthropic Claude
+PyTorch
+OpenAI
+Data Solutions Architect / Technical Lead
+Solution Architect
+SQL
+Spark
+Python
+Databricks
+ETL
+Data Architect - Databricks Migration
+Azure
+Data Tech Lead - Databricks
+Tech Lead
+Amazon Web Services (AWS)
+AWS DevOps Engineer - Tech Lead
+AWS CloudFormation
+Bash
+Bitbucket
+CI/CD
+CircleCI
+Confluence
++ 17 more
+AI-Native Cyber Security Manager
+AWS Certified Advanced Networking – Specialty
+AWS Certified Cloud Practitioner
+AWS Certified Data Analytics - Specialty
+AWS Certified Database – Specialty
+AWS Certified Data Engineer – Associate
+AWS Certified Developer – Associate
++ 8 more
+Senior Databricks Engineer
+Machine Learning Engineer
+Data Governance Engineer
+RESTful APIs
+SOAP APIs
+API Integration
+How we hire
+Frequently asked questions
+What is the difference between a ‘hot’ and an ‘evergreen’ role?
+What does the interview process look like, and how long does it take?
+What areas of IT and software does Lumenalta specialize in?
+See firsthand what it’s like to work here.

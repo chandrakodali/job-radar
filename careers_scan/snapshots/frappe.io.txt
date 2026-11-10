@@ -1,0 +1,61 @@
+Contents
+Welcome
+Home
+Products
+Partners
+Customers
+Blog
+Contact
+About
+Story
+Culture
+Team
+Values
+Vision
+Resources
+Events
+Design
+Community
+Testimonials
+Incubator
+Careers
+CAREERS AT FRAPPE
+Do impactful, meaningful work
+We take a long term and holistic look at what we do at Frappe.
+PRINCIPLES
+PHILOSOPHIES
+POLICIES
+Being The Best
+We aspire to build and deliver the best products and services across all the domains we operate in. This means we are constantly evaluating and improving our processes and performance. We have a long journey ahead and we believe that the way to reach the top is to be self-critical about our work, be a high-performing company and constantly experiment with new ways of delivering value to the customer.
+Self-Driven Work
+At Frappe, we believe in self-driven, result-oriented work. Our team has complete freedom to choose their work goals, the projects that they want to work on, and how they want to work. Instead of managing, we prefer that team members take ownership of their work and put in their 100% to complete it.
+We also encourage our team to work remotely, avoiding the hassle of travelling for hours. The hours saved will enable people to focus more on their work. Many new-age companies are following this culture and the explosive growth of communication tools and bandwidth makes it easy for so many things to be done remotely.
+High Performance
+Every month, we participate in an Open Day where each employee presents their assigned work, its progress, and any difficulties faced by them while doing tasks. This gathering not only gives us insights but also an opportunity to reflect and improve on the quality of one’s work in the future. A lot of the team at Frappe is high-performing, and if you're not as high performing as your colleagues, you will easily realise this.
+The team at Frappe is one of the best software teams in the country and a great opportunity to learn from some of the best in the business.
+Communication
+We encourage our team members to write blogs and present their views on any topic of their choice. This not only cultivates a habit of writing, but also acts as a means of communication wherein you put your thoughts and ideas in front of everyone. Apart from this, we play Bombsquad on Friday evenings to free ourselves from work stress and start the weekend on a good note.
+We believe that activities like these constitute to a healthy work culture and lead to happy and satisfied employees. Many employees who work at Frappe say that they love the work culture we have here, and often recommend their friends to join too.
+Open Source
+Open source is the essence of what we do here at Frappe. Both Frappe Framework & ERPNext are developed publicly on GitHub. This means that the code written to develop the product is absolutely free and available to all. Anyone can use this code to create their own tools. You must be wondering - Why Open Source?
+We believe that open source is a great way for budding developers to contribute to a greater cause, i.e. collaborate as a team to scrutinise the software, refactor the code, build it, and develop a community where everyone can share their opinions. The outcome - developing and improvising a brilliant product for the future. As much as it’s the author’s code, it belongs to the very people using it too.
+Every year we host a conference where our community members, including developers, users or service providers, come together to discuss features, improvements and the future of ERPNext. In addition to the conference, our community interacts with each other through GitHub issues, pull requests, our forum and chat.
+Purpose
+We believe that in an open world, everyone wins. Not just a handful of people who publish software and those who have resources to buy it.
+Open source is also part of what we call "responsible capitalism". Instead of trying to capture all the value we create, we recognise that what we have gained is also due to the contributions of a lot of people. In the same spirit, we believe that by sharing our source code, knowledge and time, we are creating a positive environment that will help everyone in the world become better.
+We aim to ensure that our team members can have a meaningful, challenging and fulfilling experience.
+Honesty, quality, clarity in thought and communication are our core values. We value quality of the work and believe that honesty is above everything else.
+Since Frappe believes in self-driven and result oriented work, we do not measure the input of timings or the number of hours an employee has worked. No in-time, no out-time, just come, give your 100% and complete your work. After all, it’s the hard work of any individual that will contribute to their growth and success. This also enables employees to maintain their work-life balance.
+We do not cut pay when an employee takes leaves, even if the allocated leaves have been utilised, but prior intimation is required.
+Frappe does not tolerate misconduct The #MeToo movement has shown us how widely prevailing unethical behaviour can be and why it's crucial for companies to actively address and prevent it. At Frappe, all employees are treated with fairness and equality irrespective of the gender, caste, religion, race, or any other identity. The company has an internal sexual harassment committee dedicated to handling cases and ensuring a safe, respectful workplace for everyone.
+Maintaining such culture is hard and we intend to do it right.
+Join us in making excellent open source software for the community and get paid for it.
+Explore positions
+Certifications
+Privacy Terms
+Social
+"To err is human, to forgive is design." – Andrew Dillon
+Switch theme:
+Light
+Dark
+Auto

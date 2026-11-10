@@ -1,0 +1,37 @@
+🚀 New: Team Health — research-backed team health checks, now built into Parabol →
+A fully-remote position
+Speculative Application
+If you think we should consider a position not yet represented, please apply and share how you think you can help.
+We Are:
+Creators of Parabol , the open-source meeting app for remote and agile teams
+Backed by top investors: Microsoft , Slack Fund , CRV , and Haystack
+Committed to transparency, honesty, empathy, experimentation, and play
+A fully-distributed global team who value flexible scheduling and travel
+An Equal Opportunity Employer
+Our Commitment:
+💰 Fair & location-agnostic pay: US-based salaries, no matter where you’re based. Plus: early-stage equity in a well-funded, fast-growing startup.
+🐙🐱Work in the open : Our code is open source , and so is our way of working. We’ve been publishing a weekly update since 2015.
+🌞 People-first schedules: We limit recurring meetings to 1-2 hours per week per team, with no synchronous daily standups. We offer unlimited PTO to everyone, and encourage folks to take time off. We also have both company-wide and country-specific holidays.
+🌍 Work from anywhere with people around the globe: Our current team stretches from San Diego, California to Güstrow, Germany. Work wherever works for you.
+🌀 Growing faster through experimentation and autonomy : From peer code reviews to monthly sales experiments, we structure our work to maximize learning. Everyone owns their work and can develop their skills quickly.
+✨ An Equal Opportunity Employer: We founded Parabol to help build stronger teams by empowering members to be their authentic selves. Our company is no exception.
+💖 Great teammates: An inclusive team of curious and purposeful people on a mission to improve how work gets done.
+💪 Health care: We work with local partners to provide healthcare & benefits that are aligned with top industry standards.
+🔢 No standard coding questions or whiteboard interviews: We’ll assess how we work together by collaborating on a short paid project We want to know how you actually work, not how many LeetCode / Project Euler / Stack Overflow questions you can answer.
+Learn more about our purpose and benefits .
+Even if you don’t feel that you meet all the criteria we encourage you to apply.
+During our hiring process, we take into account your growth potential, not just your prior achievements.
+Apply Now
+Find Out More
+How to Hire a Remote Team: Parabol’s 6 Step Process
+How We Work , Remote Work · 15
+min read
+#224 – Data Plumbing
+Uncategorized · 4
+Strategic Prioritization Using Even Over Statements
+How We Work , Remote Work · 4
+Nesting GitHub’s API in your GraphQL Schema
+Engineering · 6
+#211 – Batting Practice
+Uncategorized · 3
+#263 – It Takes a Village

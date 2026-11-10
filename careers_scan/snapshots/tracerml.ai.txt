@@ -1,0 +1,72 @@
+About Tracer
+Your AI product calls a frontier LLM thousands of times a day.
+Most of those calls don't need a frontier model.
+Tracer trains a lightweight ML on your own production LLM traces,
+then handles the repeated calls for near-zero cost. Same prompts,
+same providers, up to 95% lower inference bill.
+It's open-source, parity-gated so quality never silently drops,
+and already running in production at multiple companies.
+See how.
+The role
+This is a founding intern position , not a ticket-taker role.
+You'll work directly with the founder on a real open-source project
+already in production. The codebase is yours to explore, critique, and improve.
+We care about builders who are genuinely excited about the problem.
+If you read the README and immediately had a question, an idea, or spotted
+a gap: that's exactly the kind of person we're looking for.
+What you'll work on
+Surrogate training pipelines
+Parity gates & quality guarantees
+LLM routing logic & cluster detection
+Python SDK & developer experience
+Agent plugins (Hermes, openclaw)
+Benchmarks & evaluation frameworks
+Embeddings, vector search, clustering
+Open-source community & docs
+Who we're looking for
+Credentials are not the filter. Curiosity and initiative are.
+Students, recent graduates, self-taught engineers, researchers, career
+changers. All welcome. Worldwide.
+The strongest signal you can send is engaging with the actual project.
+Nice to have
+Python
+Machine Learning
+LLM applications
+Open-source
+Backend engineering
+Data engineering
+Cloud platforms
+Developer tools
+Technical writing
+Embeddings / vector search
+None of these are strict requirements.
+How to stand out
+Read the repo. Star it. Then apply.
+The strongest applications come from people who spend 20 minutes
+understanding what we're building before writing a single word.
+No need to open PRs or issues or build anything upfront. We're not
+asking you to work for free. What helps is a star on the repo and
+one concrete idea, use case, or observation you'd share if you joined.
+That's it.
+We link GitHub stars to applications. So if you've starred the repo,
+we'll notice.
+github.com/adrida/tracer
+· explore, star, and come back to apply.
+Apply
+Ready to build?
+Include your CV, GitHub profile, a few lines about yourself,
+why Tracer resonates with you, and anything you noticed while exploring
+the repo. We read every application.
+Before you apply
+One quick thing.
+Applications that include GitHub activity on the Tracer repo stand out
+immediately. Make sure you've done these before submitting:
+Read the
+Tracer repo
+and understand what we're building.
+Starred the repo
+· we use this to link your application to your GitHub profile.
+Have one idea, observation, or use case ready to share. No PRs,
+no issues, no free work. Just a sentence or two in the application form.
+Your GitHub username (optional, helps us find your repo activity)
+Take me to the repo first

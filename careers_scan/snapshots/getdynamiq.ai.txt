@@ -1,0 +1,16 @@
+Help put AI agents into production.
+We build the platform and deploy it with customers in banking, government, telecom and healthcare.
+Open roles
+Join a small team whose agents run in production for banks, governments, telecom providers and hospitals, not just in demos.
+DevOps Engineer Engineering · Remote (Ukraine, EU, UK, US) · Part-time
+Director of B2B Sales (MENA) Sales · Dubai or Riyadh · Full-time
+Director of B2B Sales (North America) Sales · New York, US · Full-time
+Research Engineer Engineering · Remote (Ukraine, EU, UK, US) · Full-time
+Don't see your role? Write to us at hello@getdynamiq.ai .
+How we work
+Close to customers
+Engineers work inside customer environments and bring what they learn back into the product.
+Open by default
+The core of the platform is open source, and so is a lot of how we work.
+Production over demos
+We measure ourselves by agents running in production, with evals to prove they work.

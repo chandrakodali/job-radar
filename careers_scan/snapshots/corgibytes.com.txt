@@ -1,0 +1,43 @@
+Corgibytes
+JOIN THE CORGIBYTES PACK
+Software remodeling enthusiasts wanted.
+What's in it for you?
+We get it. Making a move to a new employer is a big decision. So here are some of the things you can expect from us. Questions? Just ask.
+Work Where & When You Want
+Corgibytes is set up as a distributed team. Our focus is on results, not micromanagement. We use collaboration tools such as Slack , GitHub , Zoom (along with an internal tool we built called Einbot) to stay connected and give each team member a high degree of autonomy.
+Flexible Scheduling Options
+We understand that a standard 40-hour work week isn’t ideal for everyone. To provide as much flexibility as possible, all employees are paid by the hour and you can adjust your time up or down as life demands. For example, one staff member likes to work more in the winter and less in the summer. Another wanted to scale back on hours to support his partner’s growing business. Part-time status is below 30 hours per week and full-time is above. One caveat — we strongly discourage our staff from working more than 40 hours per week. Beyond that, you’re simply not productive.
+Six Weeks Paid Time Off
+Keeping a steady working rhythm requires rest and relaxation. That’s why we strongly encourage our team members to take the time they need to recharge. We also recognize that not everyone celebrates the same holidays and special occasions, so we provide the autonomy to choose which days of the year hold the most significance to you. For each hour you work, you’ll bank 0.13 hour to use for paid time off.
+Paid Professional Development
+Mastering your craft shouldn’t be relegated to just nights and weekends. That’s why we give staff a professional development budget to help them level up their skills. Popular activities include taking an online class, attending a conference, learning a new skill, contributing to an open source project, or building something interesting.
+Focus on Health
+Yes, we offer health insurance for full-time employees along with vision, dental, life, short-term disability, and long-term disability insurance. We also go beyond by focusing on a low-stress environment that promotes healthy living. We encourage each other to get plenty of rest (including mid-day naps if needed), exercise, and eat well.
+Positions we're scouting for.
+We're looking for some new Corgis to join the pack. Take a peek at the job listings below and if it sounds like you'd be a good fit, we encourage you to apply. You can also sign up to receive notifications when new positions open up.
+Lead Code Whisperer
+Do you enjoy modernizing and maintaining existing software? Do you love the challenge of upgrading a big and critical system? Does reconstructing a database from the binary files without any documentation so you can integrate it with a modern framework sound like a fun challenge? If given a choice, would you choose to hunt and fix bugs over writing new features? Does refactoring, building tests first, and creating easy-to-read, intention-revealing code bring you an immense feeling of satisfaction? If this sounds like you, then we encourage you to apply. Read more...
+Apply for Lead Code Whisperer
+Verify Your Skills with Merify
+Act with Empathy, Choose Candor, Communication is Just as Important As Code, and Adopt a Growth Mindset are all core values at Corgibytes, and those values extend to our hiring methodology. You’re more than your resume, so we endeavor to consider the whole human in our hiring process. As part of our continued effort to bring these values to life in our business, we’ve partnered with Merify , a new software solution for growing and managing careers. The Merify platform helps us understand how a candidate will perform on the job by making it easy for their professional community to speak on their behalf. Because who knows more about how well you do on the job than the people you’ve worked with every day? Eventually, you’ll be able to use your Merify profile to apply for jobs with one click and identify opportunities for career growth. To learn more about Merify and sign up for their free service, visit Merify's website !
+We get asked these questions a lot.
+Is there a particular skill or language you're looking for?
+The folks who have been the best fit at Corgibytes have a “can do” attitude and are amazing consultants. They are proactive, take initiative, and focus on delivering lots of value to our clients. They communicate with ease and leave a trail of documentation behind them.
+The most popular language/frameworks that we get asked to work on are object oriented: Ruby on Rails, Python/Django, C#/.NET, PHP, and Java. Most of our developers can work with several of these tech stacks, including a few more. If they’re not familiar with a technology, they can ramp up quickly, which to us is delivering value in about a week.
+I live outside the United States. Can I still apply?
+Yes. We have several members on our team who work as international contractors. However, there are projects that might have specific work requirements that we need to stick to. Most of our team is currently on Eastern Time. One of our teammates lived in Hong Kong for a month, and while it worked, we noticed there was a significant delay in communication that isn’t ideal. Given that, we give preference to people close to our timezone but are absolutely open to being convinced otherwise.
+Are you hiring junior developers?
+As a small team, we’re building our core leadership first. This means that for the foreseeable future, we’ll need developers with lots of experience. We do have it in our strategic plan to implement a training program for more junior developers, but realistically, it won’t be implemented for a few more years.
+If you’re looking to level up, we scout for developers who have worked on multiple technologies in a production environment. We also look for big shifts. For example, moving from ASP.NET webforms to ASP.NET MVC isn’t as big of a shift as moving from .NET to Ruby, Python, JavaScript, etc. We also look for people who have lots of integration experience, so getting API happy is a great way to boost your skills.
+What are you doing for diversity, equity, and inclusion?
+DE&I efforts are a top strategic priority. We are an equal opportunity employer and do not discriminate on the basis of race, color, religion, sex, gender identity, sexual orientation, pregnancy, status as a parent, national origin, age, disability (visible or invisible), family medical history or genetic information, political affiliation, military service, or other non-merit based factors. We believe in creating a diverse, equitable, and inclusive culture where people can show up as their authentic selves. Our CEO was featured in the book Erasing Institutional Bias: How to Create Systemic Change for Organizational Inclusion by Dr. Tiffany Jana for some of the ideas she has implemented.
+Nice. I think I want to apply. Any tips?
+Sure thing! Here are some things you can do on your application to help you stand out.
+Show us your personality. Good communication, especially written skills, are essential and a quality we’ll be looking for.
+Our CEO and CTO are the ones who initially review applicants. Use our names in your greeting. They’re on our website.
+Demonstrate that you’ve done your research and read the documentation. We’ve put a lot of detail on our website on purpose.
+Dig deeper into our philosophy around software remodeling by reading through the content on our blog and listening to episodes of our podcast . Use this to demonstrate how you’ll help us achieve our mission.
+Our core values matter. Tell us how your values align with ours.
+If you have typos in your survey, we’ll assume you’re also okay with typos in your work. We pitch our company based on excellent communication and quality, so these details matter.
+Sweet. I filled out the application. Now what?
+Head on over to our hiring process page and read all about what you can expect.

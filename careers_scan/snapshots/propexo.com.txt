@@ -1,0 +1,78 @@
+Propexo Agents
+The follow-up gets done. Nobody had to chase it.
+An agent that runs one job in your portfolio end to end. It reads across the systems, decides, and acts. You choose which actions still need a signature.
+Talk to us See four agents run
+Agents
+An agent for any job in your portfolio.
+Renewals, applications, work orders and delinquency are four examples of what an agent can take on. Pick one from our library of agent workflows, or name a different job and the agent is built for that. Either way it runs on your systems and your rules.
+Renewal agent
+Sends the right offer, after the unit is fixed.
+Reads from
+Lease and current rent PMS
+Comparable rents Pricing tool
+Open work orders Maintenance
+Latest review Reputation
+Sees Unit 4B expires in May, under market, with a fridge work order open 34 days and a two-star review that mentions it.
+Does Escalates the work order and waits for the close.
+Does Sends the renewal at market once the fridge is fixed.
+Waits The offer goes out on its own, or waits for a signature. Your rule.
+Application agent
+Moves every file to a decision without the chasing.
+New applications PMS
+Screening results Screening
+Income and ID documents Document store
+Unit availability PMS
+Sees An application is complete except one income document, and the unit it wants is still available.
+Does Asks the applicant for the missing document and holds the unit per your policy.
+Does Queues the complete file for the leasing manager with the screening summary attached.
+Waits Approval stays with your team. The agent gets the file there faster.
+Work order agent
+Keeps every open ticket moving, and the resident informed.
+Vendor assignments Maintenance
+Resident messages Resident app
+Unit history PMS
+Sees A ticket has passed the due date you set, with no vendor update and a resident message asking about it.
+Does Nudges the vendor and tells the resident where the ticket stands.
+Does Escalates to the property manager if the vendor stays quiet.
+Waits Reassigning the vendor waits for a signature, if you say so.
+Delinquency agent
+Follows your collections policy on every balance, every day.
+Ledger balances PMS
+Payment plans Payments
+Communication history Resident app
+Lease terms PMS
+Sees A balance has aged past the first step in your policy, and the resident is not on a payment plan.
+Does Sends the reminder your policy calls for, in the channel the resident uses.
+Does Offers the payment plan you allow, and records the answer.
+Waits Anything that leads to a notice waits for a signature. Always.
+How an agent runs
+Four things are true of every agent.
+One job, end to end
+Each agent owns one job, whether that is renewals, applications, work orders, delinquency or vendor follow-up. It does not hand half of it back to your team.
+One view of the resident
+It works from one joined view of the resident, unit and vendor, not five copies of them across five systems.
+Your rules decide
+You decide which actions run on their own and which wait for a signature. If a feed is stale, the agent says so instead of guessing.
+Everything on the record
+Every action is logged: what it read, what it did, and who signed off. Months later, you can still see why.
+Frequently asked questions
+What is an agent?
+One agent that runs one job in your portfolio end to end, built on your warehouse. It reads across your systems, decides inside the rules you set, acts, and records what it did. The four above show the shape; which jobs come first is yours to pick.
+Which jobs can an agent take on?
+Any job that runs on data your systems already hold and follows rules you can write down. Renewals, applications, work orders and delinquency are four examples from our library of agent workflows; vendor follow-up, make-ready, lease audits and move-out reconciliation are others. Start from the library, or describe how a good coordinator does a job and an agent is built for it.
+Are agents built around a workflow, or around a result?
+Either. The first kind is built around an explicit workflow you want automated and scaled: the renewal, the application, the work order, run the same way every time, at every property. The second kind is built to optimise an outcome and is free to pursue more than one way of getting there. Ask one to reduce operating expense and it might surface the vendor spend categories running over budget. Ask one to increase revenue capture and it might flag misapplied concessions that are quietly reducing collected rent. You name the outcome and the guardrails; the agent finds the levers and brings them to you.
+Does an agent act on its own?
+Yes, inside the rules you set. Sending a renewal, escalating a work order or chasing a vendor can run with nobody in the loop. Anything you mark as needing a signature waits for one, and every action is on the record.
+What happens when the data is stale or missing?
+The agent says so and stops, rather than acting on a guess. Each read carries the system it came from and the time it was taken, so a stale feed is visible, not silent. You decide whether the job waits or a person steps in.
+Does it write back to our property management system?
+Only where you allow it. Each action an agent can take is set to one of three states: runs on its own, waits for a signature, or off. An agent can read everything and write nothing until you are ready.
+How do we know what an agent did, and why?
+Every run is logged step by step: what it read, from which system, as of when; what it decided; what it did; and who signed off where a signature was needed. An auditor, an asset manager or a new hire can read the record months later.
+Can we change the rules once an agent is running?
+Yes. The rules are yours and they are written down, not buried in code. Tighten a threshold, add a signature step, turn an action off: the change applies from the next run.
+What happens if we stop working with Propexo?
+Everything built from your data stays with you: the raw data from every system, the links between matching records with their confidence scores, your metric definitions, what your agents learned about your portfolio, and the warehouse account itself. Your data, and every insight generated from it, is yours to keep.
+Name the job. We'll build the agent.
+Talk to us See the Propexo Platform

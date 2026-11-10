@@ -1,0 +1,93 @@
+Slide 1 of 1
+Infoblox + Kentik
+Learn More
+Careers
+Make life awesome for people building and running the connected world
+Join the Infoblox team
+Bring your full self, quirks and all. Join Kentik.
+Why work at Kentik
+Slide 1 of 10
+“I love working at Kentik! How often do you hear folks saying they love where they work these days? We have innovative technology, incredibly talented and amazing people, and the culture is next to none. I have been working remotely for years and this is the first remote experience where I do not feel like I am on an island of one. We are collaborative as well as personable. We connect to work and connect as humans. I feel like I am supported and motivated to do my best work and I couldn’t be more excited that I get to do it here at Kentik!”
+Danielle Tristao Director, Customer Success
+“Kentik is a truly unique place to work. There’s no shortage of network experts, happy to impart knowledge and help at a moment’s notice, which genuinely makes running our content strategy a dream come true. Beyond the technical expertise, this is a group of welcoming and kind people who really care about each other. When transparency and empathy start at the very top of a company, it’s easy to see how it’s adopted across the organization. Plus, we’re building the best network observability platform on earth, so that’s pretty rad, too.”
+David Hallinan Sr Director, Content Marketing
+“One thing I love about working at Kentik is the people. With my job, I get to work with a variety of folks across the company and I’m continually amazed with both their breadth of knowledge and their willingness to share it. I ask a lot of questions (I have to for my job), and they’re more than patient with me, some going even deeper into the subjects if I’m curious about why something is the way it is. I absolutely adore and respect the people with whom I work. That’s why I work here.”
+Liz Zwiers Manager, Technical Writing
+“The leadership at Kentik has allowed and encouraged me to spend time with my family rather than feeling like work and family are in conflict. And the level of transparency within the company from the CEO down is refreshing and makes me feel integral to what’s going on here.” Read Steven’s Employee Spotlight.
+Steven Reynolds Staff Software Engineer
+“Kentik offers me a rare opportunity to feel connected with the work and people, despite working remotely. The camaraderie extends across borders and it’s a great feeling to work with team players on a daily basis. From mountain biking in the Sedona desert with some of them to working on customer deals … the fun never ends. It helps that my customers love Kentik and our technology and reinforce this with me often.”
+Dawn D’Cotta Customer Success Manager
+“What I love about my role at Kentik is the ability to deliver innovative solutions that bring teams together. I work with a passionate group of people who value curiosity, learning, and trust. Kentik encourages individual growth, diverse perspectives, and work/life balance within the company culture. The team makes every effort to reduce the challenges of remote working with engaging team meetings, interactive learning resources, social channels, and opportunities to travel and collaborate in person.”
+Rebecca Rodrigues Principal Revenue Systems Architect
+“One thing that I love about Kentik and the culture of the company (aside from the fact that everyone is focused on creating the best product we can for our customers) is that people care deeply about each other, our fellow employees, and our families, too. And this is a top-down thing!” Read Aaron’s blog post about the Kentik wellness benefit .
+Aaron Kagawa Director, Platform Engineering
+“It is rare to find a company where engineering, marketing, sales, and the administration groups are all in the boat together. In my 25 year career I’ve rarely been fortunate enough to be a part of this culture. I was seeking this type of environment again and Kentik fits like a glove.”
+Steve Spring Strategic Account Executive
+“Most importantly, I see a team. A team that cares deeply about each other and our mission to unlock the mysteries that only network data can solve. A team that has demonstrated expertise in distributed systems, data processing, and modern user experience. I see one of the most talented teams, top to bottom, I’ve ever been a part of.” Learn more about the engineering team in Mike’s blog post .
+Michael Ho VP, Emerging Technology
+“There’s no shortage of companies using relevant technologies to do cool stuff, it’s really the people you work with day in and out that make the difference between enjoying your job or not. Kentik’s culture/people make it a great place to be, not looking for ‘code ninjas’ to burn out and throw away, but experienced professionals that share a vision and want to work to make a quality product.”
+Chad Scott Senior Staff Software Engineer
+Kentik is the network intelligence platform for modern infrastructure teams.
+Get a Demo
+844-356-3278
+Platform
+Multi-Cloud Observability
+Network Monitoring System (NMS)
+SD-WAN Monitoring
+Network Security and Compliance
+AI Advisor
+Synthetic Monitoring
+Peering and Interconnection
+Kentik for Service Providers
+Kentik AI
+Network Telemetry
+Universal Data Explorer
+Observability Data Pipeline
+Integrations
+Kentik Data Engine
+Solutions
+Reduce Cloud Spend
+Migrate To and From Any Cloud
+Improve Cloud Performance
+Optimize Enterprise WAN
+Network Performance Monitoring
+Deliver Exceptional Digital Experiences
+Detect and Mitigate DDoS
+Harden Network Policy Management
+Investigate Security Incidents
+Visualize All Cloud and Network Traffic
+Troubleshoot Any Network
+Understand Internet Performance
+Optimize Data Center Networks
+Consolidate Legacy Tools
+Optimize Peering and Transit
+Plan Network Capacity
+Reduce Network Spend
+Grow Subscriber Revenue
+Technology
+AWS
+Azure
+Google Cloud
+OCI
+BGP
+New and Notable
+Welcoming Kentik: Closing the Gap with Network Truth, Opening the Door to Agentic Operations
+Introducing Kentik AI Advisor: The Future of Network Intelligence
+Seaborn Networks Saves $4 Million Annually and Increases Profitability with Kentik
+Learn
+Case Studies
+Blog
+Resource Library
+Kentik Network Analysis Center
+Kentipedia
+Product Updates
+Documentation
+Company
+Plans and Pricing
+Customers
+Contact Us
+Partners
+Kentik Slack Community
+Trust Center
+Legal
+Site Map

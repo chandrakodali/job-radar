@@ -1,0 +1,53 @@
+Instructions
+To make this component work follow these steps:
+Remove the delete-this-class class from the navbar14_component div. This will change the positioning of the navbar to fixed.
+Add the navbar-on-page class to the page-wrapper class. This will ensure that the navbar is centered on the page.
+Add the max-width-full class to the main-wrapper class. This will ensure all sections inside of the main wrapper are full-wdith.
+Join us on our mission
+Our team is re-inventing the satellite to deliver the highest-resolution hyperspectral data in the solar system. We seek creative, dedicated individuals to help us build a sustainable future for humanity.
+Our constellation is growing fast
+We’re a rapidly growing hyperspectral imaging company in Western Canada, powered by humans who are passionate about space and committed to excellence. If you’re excited about increasing the capability of space-based cameras, creating products that will revolutionize model-based predictions, or just collaborating to build amazing things—we want you on our team.
+Mission perks
+Joining our crew has its benefits:
+Unlimited vacation (seriously)
+An employee stock option plan
+Stellar health and dental benefits (including fertility coverage, 100% prescription coverage, and lots more)
+All the best aspects of startup culture, like whole-team support when and where you need it
+Ample opportunities for professional development
+A strong sense of ownership over your work
+On-sites with team-building activities
+Flexible working hours
+Hybrid work opportunities
+Working on space stuff!
+Our values
+How we work
+Our team is caring and supportive. We learn, grow, and progress together—personally and professionally.
+We think outside the cube[sat]
+We drive innovation by thinking beyond what’s expected or even currently possible
+We’re committed to a better future
+Our technology serves a broader goal: a sustainable future for everyone
+We communicate openly and honestly
+We succeed when we’re true to ourselves and our collective mission
+We are reflective, receptive & responsive
+We thoughtfully examine our actions, welcome feedback, and embrace change
+We encourage originality
+We foster a workplace where everyone’s comfortable bringing their whole self
+We take initiative and persevere
+We have a bias to action and approach problems with tenacity and resilience
+Diversity, equity, and inclusion
+everyone is
+welcome here
+Starting with our gender-diverse leadership team, Wyvern is built on belonging, mutual respect, and kindness.
+We share the responsibility of ensuring everyone feels heard and valued—and we believe that welcoming employees of all backgrounds, experiences, and lifestyles only expands what’s possible.
+When we empower our true selves and embrace our uniqueness, we rise together.
+If you require accommodations to participate in our hiring process, please reach out at hiring@wyvern.space .
+Open positions
+Find your dream job
+Space Operations Intern
+Department
+Apply now
+We’re looking for a DevOps specialist to work with the Software team. You'll be building and maintaining the infrastructure that processes and analyzes those images and gets them to our customers in a timely manner. This is an excellent opportunity for someone eager to start their career in the space industry and offers room to grow as Wyvern expands its constellation and its data offerings.
+Remote • Edmonton, AB
+Contract Type
+Don’t see the role you’re looking for? We may be posting it soon. Feel free to submit your resume and cover letter in the meantime. Our hiring team will reach out if an appropriate position becomes available.
+We don’t have any open roles at the moment, but we’re always growing. Please check back soon for new opportunities.

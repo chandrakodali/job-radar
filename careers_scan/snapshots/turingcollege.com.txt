@@ -1,0 +1,201 @@
+Earn €500 when a friend you refer enrols, and help them kickstart their future.
+Join affiliate programme
+Log in Apply now
+Data Analytics programme
+Learn to investigate business performance, understand customer behaviour and turn findings into recommendations. Build analytical skills for your next role or bring a stronger command of data to the field you already know.
+Flexible
+6-10 months
+15h+ per week
+Career support
+Apply now
+Rated 5/5
+“ Aside from giving access to all of the skills required to get started in the data sector, Turing College also provides quick community assistance and valuable real-world insights from professionals in the field. ”
+Karolis Grybauskas
+Data analytics alumni
+Build analytical skills for your next career move
+Practise answering business questions
+Work through projects that connect data to decisions. Investigate a problem, identify patterns and turn your findings into recommendations.
+Improve your work with expert feedback
+Get personalised feedback from an experienced data analyst on each project. Strengthen your analysis, question your assumptions and practise explaining how you reached your conclusions.
+Develop a focus that fits your goals
+Explore optional modules in product analytics and marketing analytics, or an independent capstone project. Apply your skills to product use, campaign performance or a question from an industry that interests you.
+The tools you’ll work with
+Spreadsheets and databases
+Excel or Google Sheets
+SQL with BigQuery
+Dashboards and presentations
+Tableau or Power BI
+PowerPoint or Google Slides
+Programming and data visualisation
+Python
+Pandas
+Matplotlib
+Seaborn
+Version control
+Git
+Programme outline
+Our programme, created by senior data analysts, is focused on helping you get hired and apply your skills from day one after graduation.
+Core data analyst toolkit
+Learn the skills and tools essential for data analytics. First, you’ll understand how to approach data analysis in a structured way, collect and interpret data, identify relevant patterns, and perform basic data visualisation. Then, you’ll master the use of spreadsheets and SQL, which are the core tools for this profession.
+Communicating analysis results
+Turn your data insights into compelling stories that inform and persuade your audience. You’ll be able to choose between Power BI and Tableau as a BI tool to create interactive dashboards that showcase your data analysis. You’ll also learn how to deliver engaging presentations highlighting your key findings, tailor your message to different audiences, use body language to enhance your communication, and select the best visualisations for your data.
+Main analysis types
+In this module, we’ll look at the main analysis types as they relate to four different fields: customer behaviour, e-commerce, customer value, and modelling. This will cover analysis types such as retention, cohorts, RFM, CLV, funnel, A/B testing, linear and logistic regression models, and more. These techniques will allow your analysis and insights to be robust and data-driven.
+Python for data analytics
+In this module, we'll take you on a journey through Python, even if you have no prior experience with Python or coding. Through hands-on projects and real-world examples, you'll gain the skills to tackle complex data challenges. From mastering the fundamentals of programming to working with libraries like Pandas, you'll learn how to process, analyse, and visualise data in ways that drive meaningful insights.
+Optional modules
+Tailor your learning journey to align with your specific goals and interests. Enhance the core curriculum by exploring specialisations such as product or marketing analytics. Boost your job search prospects by completing an optional capstone project. Here, you’ll create a distinctive portfolio piece that showcases your acquired knowledge.
+Get full syllabus
+Our mentors bring first-hand experience from companies and universities such as:
+The companies and institutions mentioned have no institutional affiliation or official partnership with Turing College.
+Graduate in 10 months or less: you set the pace
+With our programme, you have the power to set your own pace. By dedicating 15 hours of focused learning per week, you can graduate in 10 months. The more hours you can dedicate to learning, the faster you’ll graduate.
+Build a portfolio that proves your skills to employers
+The best way to learn data analytics is through hands-on experience with real data. That’s why you’ll complete 20 projects and one capstone project and build an interview-ready portfolio you can proudly show to potential employers.
+While working on your capstone project, you will:
+Choose a data set and conduct an end-to-end analysis
+Synthesise insights and create a presentation
+Present your findings 1-on-1 to a senior team lead
+Examples of projects
+Identifying trends of marketing campaigns on an e-commerce site.
+Creating an interactive dashboard to track daily payment data.
+Analysing and effectively presenting findings based on how long it takes users to make purchases on your website.
+Learn from experts who are 100% up‑to‑date with the industry trends
+STL
+Adomas Lingevičius
+AI Engineer at Ignitis Group
+With over 10 years of experience in data science, data engineering and AI, Adomas helps learners build practical, real-world skills. He currently works on a customer service system spanning both ESO and Ignitis, with the potential to reach up to 2 million customers across Lithuania. Since 2020, he has mentored over 100 Turing College students in Data Science, Data Engineering and Data Analytics.
+Data Analytics
+Data Science
+Algimantas Černiauskas
+Senior Data Scientist at IBM
+After completing a PhD in Astrophysics in 2018, Algimantas transitioned into data science and now works at IBM’s Client Innovation Center. His focus areas are natural language processing and large language models, and his work has led to both scientific publications and a US patent in machine learning. Learners at Turing College benefit from his blend of research depth and applied industry experience, especially in NLP and AI innovation.
+AI Engineering
+Andrius Grevys
+Senior Data Scientist at Vinted
+With more than 15 years of experience in machine learning and AI, Andrius has worked on projects ranging from computer vision and deep learning to fraud detection and large language models. At Vinted, he develops algorithms that protect the platform from malicious threats and ensure a safe experience for millions of users. Learners at Turing College benefit from his deep technical expertise and his passion for mentoring the next generation of data scientists.
+Augustinas Naina
+Senior Data Engineer at Telia
+Augustinas is a Senior Data Engineer at the Scandinavian telecom company Telia. With over 8 years of Python experience and previous roles at Gjensidige, PwC, Ignitis, and other leading companies, he has worked across data and software engineering. At Turing College, he emphasises project structure, code readability, and quality, helping learners develop the habits of writing clean, reliable, and professional code.
+See all Data Analytics Senior Team Leads
+Build on your experience. Broaden your opportunities.
+We don’t make empty job promises. Instead, we focus on what actually works: real-world skills, a self-paced career module, and a strong portfolio that shows employers what you can do.
+Self-paced career module: job search strategy, CV and LinkedIn
+HR and technical mock interviews
+Career Guidance Hub and career support chat
+A unique learning experience powered by technology
+Online learning is tough when you’re left on your own. That’s why we built Intra, our learning platform that combines the best of both worlds: human support and smart structure. We’ve also built adaptive AI features that personalise your learning even further, so your journey adjusts closely to your pace, needs, and progress.
+Learn more
+Repeatedly recognised 4 years in a row
+Best Data Science Bootcamp, Course Report 2022
+Best Data Science Bootcamp, Course Report 2023
+Best Data Science Bootcamp, Course Report 2024
+Best European Bootcamp, Course Report 2025
+Best AI/ML Bootcamp, Course Report 2025
+Best Digital Marketing Bootcamp, Course Report 2025
+Best Data Science Bootcamp, Course Report 2025
+Best Online Bootcamp, Course Report 2025
+Best Coding Bootcamp, Course Report 2026
+Best AI/ML Bootcamp, Course Report 2026
+Best Online Bootcamp, Course Report 2026
+How admissions works
+Our application process has two simple steps designed to help you and our team understand whether the programme is the right next step for you.
+Application
+Tell us about your background and answer two short questions about your motivation and goals. Your application goes straight to our admissions team, who review it personally and get back to you within 24 hours on working days.
+Consultation
+If the programme matches your goals, we’ll invite you to a 20 to 30-minute consultation. This is your chance to ask anything, understand exactly how the programme works, check your financing options, and decide whether it’s the right fit for you.
+Basic admission requirements:
+15-30 focused hours/week
+Focused hours are:
+· Working on a computer (not a smartphone)
+· Uninterrupted working time in a dedicated space
+· Rested, not overworked (not after intense cognitive work)
+Strong motivation
+You need a clear and strong reason for joining this programme. It should be your personal goal, and you should have specific reasons for wanting to improve your skills.
+Good English skills
+You must demonstrate an English proficiency of at least B2 level to join the programme.
+Up-to-date computer
+You'll need a computer that can handle large datasets smoothly and runs an actively supported and updated operating system.
+Flexible financing options
+Upfront payment
+Learners who want the lowest total price by paying upfront
+€5,400
+Save 17%
+Flexible, 6-10 months
+15+ h per week
+30-day money-back guarantee
+Instalments
+Learners who prefer to split self-payment into monthly instalments
+€540 x 12 months
+0% INTEREST
+50% scholarship
+Top 5% high-potential learners
+€270 x 12 months
+15+ h per week, special conditions may apply
+We have limited seats. Apply now!
+Our graduates have achieved life changing growth. You can too.
+4.9/5
+Turing College has been a great experience. I loved the structure and content of the material. I had constant contact with instructors and peer learners. I find the peer and senior review concept really efficient.
+Kata Hernádi
+Delegation Team Coordinator @ Siemens Energy
+I have used many various learning platforms, and Turing College is really different. Its learning model allows you to move at your pace while getting as much help from the community. I love that it doesn't just focus on your hard skills but soft skills as well.
+Linda Oranya
+Data Scientist @ Metasite Data Insights
+After the course, I was able to get into work and solve real business problems easily.
+Ovidijus Kuzminas
+ML engineer @ Oxus.AI
+The sole fact that I joined Digital Marketing program by Turing College was a contributing factor to me getting a job.
+Justas Sadauskas
+Account Manager @ Defined Chase
+I have finished two universities, and studied in most of the major online platforms to get extra certificates. And Turing College is one of the most advanced place so far.
+Ignas Lukosevicius
+Junior Media Buyer @ Pulsetto
+When I joined Turing College I expected to leave with models and code. I also left knowing how to find the right problem and solve it. Nothing has been more useful since I started my own startup.
+Edvard Sivickij
+Founder @ condense.chat
+Drag to browse Swipe to browse
+More on Coursereport
+FAQ
+Do I need coding experience to study data analytics?
+You don’t need previous Python experience. The programme begins with spreadsheets and SQL, then introduces Python fundamentals and how to use it for analysis.
+You’ll develop your coding skills through projects, connecting what you learn to questions about customers, products and business performance.
+How much maths will I use?
+You’ll work with percentages, averages, comparisons and statistics to understand patterns and evaluate findings. The programme introduces core statistics before progressing to statistical inference and A/B testing.
+You’ll apply these concepts to questions, such as whether customer behaviour differs between groups or whether an experiment supports a change. If your maths feels rusty, discuss preparation with admissions.
+Can I study alongside a full-time job?
+Yes. The programme offers flexible pacing over six to 10 months, with at least 15 hours of focused study each week.
+Set aside regular time for learning, projects and reviews. Experience with customers, budgets, operations or performance reports can give you useful context for the questions you’ll investigate.
+Should I choose data analytics, data science or AI engineering?
+Choose based on the work you want to do:
+Data Analytics : investigate business questions, build dashboards and communicate findings that help teams make decisions.
+Data Science & AI : go deeper into statistics and machine learning to build and evaluate predictive models.
+AI Engineering : build applications using large language models and AI agents, building on existing coding experience.
+These capabilities can support different career directions. Compare the curricula and entry requirements with your background and goals.
+What kinds of business questions will I learn to answer?
+You’ll investigate why customers leave, where people drop out before purchasing and how customer groups behave differently. You’ll also explore how to compare campaign performance and assess A/B test results.
+These methods help you explain your findings and recommend what a team should investigate or change next.
+Will I build a portfolio employers can review?
+Yes. You’ll complete projects that demonstrate how you analyse data, visualise findings and make recommendations. An optional independent capstone lets you develop a portfolio piece around your industry interests.
+Use your work to show employers how you approach a question, choose methods and explain your conclusions.
+Explore learner work in the Turing College project showcase .
+What is the difference between product analytics and marketing analytics?
+Product analytics investigates how people use a product: where they encounter problems, which features they use and what keeps them returning.
+Marketing analytics investigates campaign performance, customer behaviour and the steps people take towards a purchase.
+Both use data to guide decisions. Choose the area that connects with your interests, existing experience and career goals.
+Is data analytics still worth learning as AI tools improve?
+Yes. AI tools can help write queries, create charts and draft explanations. Analytical skills help you check whether those outputs are accurate and useful.
+You’ll learn to define a question, spot problems in data and judge whether a conclusion is justified. Your knowledge of a business or industry helps you connect the findings to decisions that matter.
+Will I learn about AI and machine learning?
+Yes. The introductory module explores AI applications, and the Python module introduces regression and classification through predictive modelling.
+For greater depth in machine learning, compare the Data Science & AI programme . If your goal is building LLM applications and AI agents using existing coding skills, explore AI Engineering .
+What career opportunities can these skills support?
+You can work towards roles in data analytics, reporting, business intelligence, marketing analytics or product analytics. You can also apply the skills in operations, finance, marketing and other fields where interpreting data is part of the work.
+Your previous experience can help you choose a direction. Understanding an industry’s customers, processes or priorities gives you context for asking useful questions and explaining the findings.
+Can I move into analytical work without a relevant degree?
+Yes. A relevant degree is one route, while other routes combine analytical skills, project work and experience from another field.
+Your portfolio gives employers evidence of how you investigate questions and communicate results. Some positions require specific qualifications, so focus your applications on opportunities that match your skills and background.
+How does Turing College support my next career move?
+A self-paced career module covers job-search strategy, your CV and LinkedIn profile. You’ll also have HR and technical mock interviews, alongside resources in the Career Guidance Hub and access to career support chat.
+Use this support to prepare applications and practise explaining how your experience and project work fit the opportunities you want to pursue. Employment is not guaranteed.
+More in Help Center
+Limited seats! Limited seats! Limited seats! Limited seats! Limited seats! Limited seats!

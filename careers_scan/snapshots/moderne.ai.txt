@@ -1,0 +1,55 @@
+AI Software Factory Summit | Feb 22-24, 2027
+Early Bird pricing
+The substance is the point.
+Moderne automates software maintenance and migration at scale. It is built on the OpenRewrite lineage and on Lossless Semantic Trees , code represented as queryable, structured data, so recipes can transform millions of lines across thousands of repositories safely.
+That means the people we hire help customers escape decades of technical debt , scale OpenRewrite across multi-repository estates, and architect the distributed systems that make mass code change possible.
+We actually run these changes, at enterprise scale, not just describe them. If you want your work to land in production codebases the size of a Fortune 100, this is where it happens.
+Open roles
+11 open roles
+We’re hiring across engineering, customer success, go-to-market, and design. Most roles are remote; field sales is based in New York, Houston, Atlanta, and London.
+Engineering
+Forward Deployed Engineer (FDE)
+Sit inside enterprise engineering orgs, drive adoption of automated code transformation, write custom OpenRewrite recipes, and bridge large-scale modernization with AI-assisted development.
+Remote
+Apply
+Platform Engineer
+Help scale OpenRewrite to multi-repositories. Architect the distributed systems that orchestrate the transformation of the world’s codebases.
+Software Engineer, UI/UX
+Translate product and design concepts into clean, production-ready code while building scalable systems that serve thousands of users from day one.
+Product & Design
+Product Manager
+Guide direction for complex product areas; ensure a seamless experience between the open-source core (OpenRewrite), the SaaS platform, and customers.
+Graphic Designer
+Collaborate with marketing, product, and brand to create assets across campaigns, social media, product launches, and events.
+Customer Success
+Director, Services Delivery
+Lead the team and the partner network behind every Moderne Managed Services engagement, turning delivery into measurable business value and lasting customer satisfaction.
+Customer Success Architect
+Be the senior technical partner for enterprise customers, guiding engineering teams from first evaluation through large-scale rollout as they modernize complex applications and adopt AI-assisted development.
+Customer Success Manager
+Help customers escape decades of technical debt and accelerate their business outcomes.
+Go-to-Market
+Enterprise Account Executive
+Own the sales cycle, drive high-value enterprise deals, and grow adoption across global organizations.
+New York, Houston, Atlanta, or London
+Technical Marketing Manager
+Create clear, accurate, compelling materials that increase awareness of the Moderne platform and help practitioners and sales teams adopt it.
+Sales Operations Specialist
+Own the administration, build-out, and optimization of Salesforce and the broader sales technology stack for a growing go-to-market team.
+Remote-first, high-ownership, real impact.
+We’re a small team building deep technology. The work is hard and the surface area is large, which means real ownership from day one, and benefits built for people doing serious work.
+Remote-first
+Most roles are fully remote. Field sales works from New York, Houston, Atlanta, and London; the company is headquartered in Miami.
+Work that ships
+Your code and recipes run against production codebases at Fortune-100 scale. The substance is the point. We run the changes, not just describe them.
+Room to grow
+A large surface area and a small team means high ownership and the chance to shape entire product areas, not just tickets.
+Competitive salary
+Stock options : substantially more potential upside than established companies can offer
+Health insurance , including dental and optical
+401(k) match (up to 3%)
+Unmetered vacation
+Don’t see your role?
+We’re always excited to meet talented people. If none of the open positions fit but you believe in what we’re building, we still want to hear from you. Email us and tell us how you’d like to contribute.
+Email
+Ready to help the world’s biggest codebases evolve?

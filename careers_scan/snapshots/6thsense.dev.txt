@@ -1,0 +1,13 @@
+help robots learn to touch
+robots can see and move, but they still can't feel. 6thsense builds stereo cameras and tactile skin and captures how people use their hands, so robots can learn to touch. we do all of it, hardware, firmware, software and data, in one small team.
+the short version
+we're hiring in shenzhen, china and austin, texas, and every role comes with travel
+pay: competitive salary, plus equity with vesting
+we care more about how fast you learn than years of experience
+equal opportunity
+6thsense is an equal opportunity employer. we don't discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other legally protected characteristic.
+we're hiring for
+forward deployed / product engineer
+own our cameras, skin and app in the field, and ship the fix when something breaks
+founding hardware engineer
+design the skin, sensors and rigs that capture touch and vision for humanoid robots

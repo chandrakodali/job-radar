@@ -1,0 +1,32 @@
+On a mission to end Regressions!
+We’ve been developers, just like you—faced the same challenges and frustrations. Our goal is to make testing effortless, so you don’t have to worry about regressions again.
+Recognition
+Featured in Google for Startups
+Google for Startups spotlighted how Keploy builds Digital Twins of real production traffic to verify every AI- and human-written change before it ships. Watch the story behind the product.
+Humans Behind the AI
+Want to join our Team Keploy?
+Principal Software Engineer/Tech Lead
+You'll be joining the engineering team as a Principal Software Engineer, leading architectural decisions, mentoring developers, and driving technical excellence in software development. You'll collaborate closely with cross-functional teams to design scalable, high-performance solutions.
+Bangalore, India
+Apply Now
+Developer Relation Engineer
+You'll be joining the Developer Relations team as either a full-time employee or an intern. You’ll work directly with our founder, Neha Gupta, to help us engage with developers, build relationships, and create valuable content. We are looking for someone with a strong grasp of front-end development, particularly the MERN stack and Next.js, who also has a keen interest in open source. This is a unique, hands-on opportunity to make a significant impact on a fast-growing company by advocating for our products and building community.
+SDE - I
+You'll be joining as a Software Development Engineer - I, contributing to the development of high-quality software solutions. You'll work on implementing features, writing clean and efficient code, and collaborating with experienced developers to build innovative products.
+SDE - II
+You'll be joining as a Software Development Engineer - II, taking ownership of critical projects, improving system performance, and designing scalable solutions. You'll mentor junior developers and collaborate with teams to build robust software systems.
+SDE - III
+You'll be joining as a Software Development Engineer - III, taking ownership of critical projects, improving system performance, and designing scalable solutions. You'll mentor junior developers and collaborate with teams to build robust software systems.
+Technical Content Writer
+You'll be joining as a Technical Content Writer, crafting engaging and informative technical documentation, blogs, and tutorials. You'll collaborate with engineers to translate complex topics into easy-to-understand content for developers and customers.
+Product Designer/Video Editor
+You'll be joining as a Product Designer, focusing on creating intuitive and visually appealing user experiences. You'll work closely with developers and stakeholders to design user interfaces, conduct usability research, and enhance overall product design.
+Product Manager (Full-time/Intern)
+You'll be joining the team as a Product Manager, turning complex concepts into clear product requirements and driving feature execution. You'll champion the user through interviews and data analysis, and own product documentation. We're looking for a technically fluent individual with a strong communication style, a design sense, and a bias for action.
+Digital Marketing (Full-time/Intern)
+You'll contribute to our growth by leveraging your strong grasp of SEO tools and your experience in digital marketing. This role is open to candidates at all experience levels, from interns to full-time professionals, who are passionate about driving online growth.
+Bangalore/Remote
+Business Development / Account Executive
+We are seeking a driven Business Development / Account Executive to own the entire sales pipeline, from hunting and qualifying leads to running demos and closing deals. You will collaborate closely with our product and engineering teams, manage CRM data, and serve as the voice of the customer. We're looking for a resilient individual with 1-4 years of SaaS sales experience, technical curiosity, and strong communication skills.
+Test with Keploy AI
+Get the power of AI to your Testing Pipelines!

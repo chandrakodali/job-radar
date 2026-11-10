@@ -1,0 +1,136 @@
+Careers
+JUXT - a developer-first company, founded and run by developers!
+Open Positions
+Engineering
+Delivery Manager
+London / Hybrid
+Full Time
+Full Job Profile
+Python Engineer (All levels)
+London / Remote
+Full-stack Engineer (All levels)
+Go Engineer
+Java Engineer - Low Latency
+Java Engineer (All levels)
+Kotlin Engineer (All levels)
+Senior / Principal Rust Engineer
+Can't find the perfect position?
+Contact Us Anyway
+Why JUXT?
+Community
+Amazing developers to work with, and call upon great experience when
+you need
+Accomplishment
+We're constantly helping each other improve our skills, in
+programming and using our tools
+Opportunity
+We believe that the technology choices we have made over the years
+give us a huge boost, and we're constantly looking for ways to
+improve
+Working At JUXT
+Culture
+We have a developer-led culture. Our developers are at the heart of
+our consulting and product development.
+Coding
+We know coding is hard, so we try to do everything we can to help.
+Letting you focus on your code when you need, but with the support
+of a rich community of colleagues when you need help.
+We're huge fans of Clojure, functional programming, Arch Linux,
+Git, plain-text, and Emacs, or Vim :).
+We're a growing vibrant company, but still small enough for you to
+get to know everyone.
+Our Hiring Process
+Write to Us
+If you're interested in joining JUXT, simply email us your CV to
+careers@juxt.pro and we'll provide further guidance through the steps in
+the application process.
+Intro Interview
+During our introductory interview, we'll delve into your background
+while also providing insights into our company culture and available
+opportunities. We'll schedule the interview call at a time convenient
+for you
+Technical Test
+Before extending a job offer, we require all candidates to complete a
+technical test. This entails modifying a project for which we'll provide
+specific instructions. The nature of the modification will vary based on
+your level of experience.
+Technical Interview
+This interview is designed for us to discuss your technical test,
+engage in pair programming, and explore your skills further.
+Final Interview
+The final interview is to discuss the role and answer any questions you
+may have about working with us.
+Offer
+Upon successful completion of the interview process, we'll present you
+with a formal offer. This offer will encompass comprehensive details of
+the compensation package, including salary, pension, vacation
+entitlement, and health benefits.
+Benefits at JUXT
+All the Hardware You Need
+No barriers between you and the code. Top-of-the-range XPS 13 laptops
+with Arch Linux pre-installed. You have the flexibility to expense any
+additional items necessary for your role, ensuring you have the right
+equipment tailored to your needs.
+Conferences & Training
+You have the flexibility to attend training courses and conferences
+that align with your role and career goals. In addition, you can apply
+for sponsorship to pursue professional qualifications, further enhancing
+your expertise.
+Employee Referral Bonus
+Our company values the contributions of our employees in building a
+talented team. We offer a generous Referral Bonus Scheme to reward
+employees for referring qualified candidates to join our team.
+Remote & Office Socials
+We arrange a weekly lunch in London, offering an open invitation to all
+team members who can attend. Additionally, JUXT sponsors weekly team
+lunches in different locations.
+Flexible Working Models
+We offer options such as a remote-first approach, or a hybrid model
+that allows you the freedom to work from anywhere and at hours that best
+fit your schedule.
+Private Health Insurance
+On successful completion of your probation period, you will be eligible
+to join our BUPA medical scheme. This is offered on a medical history
+disregarded basis and family members can also be covered (subject to
+scheme rules).
+Head Office
+2 Pear Tree Court
+London, EC1R 0DS
+United Kingdom
+Email
+For all general enquiries,
+please email: info@juxt.pro
+Phone
+Call us at: +44 (0) 333 93 98 309
+2 Pear Tree Court, London
+EC1R 0DS, United Kingdom
+Tel: 0333 939 8309
+Company registration: 08457399
+Contact Us
+Work with us
+Financial Services
+Delivery Experts
+Getting Started
+Discovery Call
+Resources
+Blog
+Clojure In
+JUXT Cast
+Clojure Radar
+AI Radar
+Tech Roundtable
+Company
+Team
+Get in touch
+XTDB
+Github
+Discuss
+Email XT Team
+Get industry news, insights, research, updates and events directly to
+your inbox
+Sign up for our newsletter
+Follow Us
+LinkedIn
+Twitter
+Bluesky
+YouTube

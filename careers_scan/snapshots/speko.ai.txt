@@ -1,0 +1,63 @@
+01 — the problem
+Why this matters
+Voice AI is exploding. New models ship every week, and no provider is best at everything — especially outside English. So every team picks a provider, hopes it works, and starts over next quarter.
+Every provider says their model is the answer. We don't. Speko stays neutral: we send each call to whatever actually works, and we prove it in public. Every company building voice agents will need this. We want to be it.
+02 — from the founder
+A note from the founder
+We're building Speko to win, and to win with the best builders in Central Asia.
+We've spent years deep in voice AI: real customers, real languages, the kind of users who call the second something breaks. We know this problem cold. Now we want to solve it for good, with a small team we genuinely respect.
+Think of it as assembling the Avengers, from Central Asia.
+The world doesn't expect global products to come from our part of the map. We're going to prove them wrong, and put our region on it. This is the hardest, most exciting thing we've ever taken on. If that fires you up too, come build it with us.
+Bek
+03 — operating system
+How we work
+These aren't posters. This is how we hire, review, and ship.
+Own the result.
+"Done" doesn't mean "I finished my part." It means it works for the customer, and you checked. If it breaks later, it's still yours.
+Make it work for real.
+A demo that works once means almost nothing. Real voice has to handle accents, noise, slow networks, and provider outages. We don't celebrate a demo until we know what breaks in production.
+Truth over ego.
+What's true matters more than who's right. Use data, not opinions. Fix your own bug before you blame the provider. Share bad news early — hiding a problem is worse than the problem.
+Learn fast.
+New things ship every week, and you won't know all of them. That's fine. We care how fast you learn and how much you care — not how long your resume is.
+Behavior is everything.
+Skills can be taught. How you show up cannot. We hire people who ship, own their work, stay curious, and fix things without being asked.
+04 — fit
+Who we want
+This is for you if
+You get things done and take pride in the quality.
+Low ego, high energy, fast learner.
+You want to build something you'll tell your kids about.
+A small team beating much bigger ones sounds fun, not scary.
+This probably isn't for you if
+You need weeks of hand-holding before you ship.
+You want a fixed ladder and someone telling you what to do next.
+You want big-company pay and big-company pace.
+If any of those sound like you, no hard feelings — it'll save us both time.
+05 — no spin
+The honest part
+We're early: seed-stage, YC S26. Small team, big ownership, real work from day one.
+Founder in San Francisco; the team works remotely across time zones. We write things down instead of sitting in meetings.
+Pay is competitive for our stage, plus real founding equity. We can't pay like a big company. What you get is ownership and the chance to build something huge, early.
+06 — open roles
+Open positions
+We hire for behavior and how fast you learn, not years of experience. If you're great, we'll find the right place for you.
+engineering
+Founding Engineer
+Own the routing layer, provider adapters, and the benchmark engine that decides which voice provider wins each call. Ship to production where accents, noise, and provider outages are the norm, not the edge case, and own the result end to end.
+Remote Full-time
+apply →
+growth
+Growth & Demo Builder
+Turn what we build into demos, benchmarks, and stories that spread. Part builder, part storyteller, you ship the proof that makes Speko obvious to the developers and teams who need it.
+Something else? If you're exceptional and don't fit a box, email us anyway and tell us what you'd own.
+07 — how to apply
+How to apply
+Email bek@speko.ai with two things:
+01 — your best work
+Show, don't tell
+A link to the project, code, or demo you're most proud of.
+02 — a short plan
+How you'd help
+Based on what you understand about Speko, how would you help us?
+email bek@speko.ai

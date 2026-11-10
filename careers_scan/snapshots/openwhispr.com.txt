@@ -1,0 +1,35 @@
+Careers
+Help build the voice interface for AI
+OpenWhispr turns what you say into action. It's open source, it's been downloaded about 150,000 times, and it's built for people who want a choice: run it locally, bring your own keys, or use our cloud. We're hiring people who want to own big problems end to end.
+Open roles
+All roles are in person, in San Francisco or Chicago. Visa sponsorship is not available.
+Founding Engineering Lead
+A player-coach role. Lead a small team of engineers, set the technical direction, and stay in the code every day.
+San Francisco or Chicago
+Full-time
+$160K–$200K + meaningful equity
+View role
+Founding Engineer
+Own big parts of the product, from first idea to production, and help set the engineering bar.
+$140K–$180K + meaningful equity
+Social & Brand Growth Creator
+Be the face, voice and storyteller behind OpenWhispr. Build our brand story in public on TikTok and Reels.
+$60K–$120K + meaningful equity
+How we work
+Our operating principles
+These aren't wall posters. They're how we make decisions every day.
+Bias for action
+If something's broken, fix it. If you have an idea, try it. We don't wait for issue reports or perfect specs.
+Proactive communication
+Tell people before they have to ask. That goes for teammates and for users: if we see a problem coming, we reach out first, and if we get a bill wrong, we refund it before anyone complains.
+No AI slop
+AI gives us leverage, not an excuse. Everything we ship gets reviewed, tested and refined, and anything we share with each other is already clear.
+Context is the bottleneck
+We run a lot of workstreams in parallel. The core skill is managing context: giving it, keeping it, and switching between streams without dropping quality.
+Do the thinking for the user
+Simplification is the strategy. Every screen, sentence and default should take work off the user's plate. Opinionated by design, and still built for the tinkerer.
+Grateful for every user
+People caring enough to complain is a privilege. We use the product every day, and we treat taste as something you train on purpose.
+Don't see your role?
+If you think you'd make us better, write to us anyway and show us something you've built.
+Email us

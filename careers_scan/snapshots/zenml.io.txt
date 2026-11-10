@@ -1,0 +1,38 @@
+Our mission
+ZenML's mission is to accelerate worldwide problem solving by making machine learning simple.
+Our open-source framework allows data scientists to write their code as automated pipelines from day 1. Our extensible framework also provides a path to an automated, production-ready software base that can be deployed on any cloud or backend service.
+GitHub Learn More
+Why work here
+Grow with us until IPO
+We are very ambitious and see big potential in the industry - so do our investors from UK and Silicon Valley. Let's build something big!
+Open-source is eating the world
+We love what we do and want to share it with the world. Open-source is the best way to build software.
+Set industry standards in AI orchestration
+AI orchestration is still at the beginning and ZenML will be covering the whole lifecycle, from training pipelines to agent replay. Make a difference!
+Become part of the core team
+ZenML is young and we have no hierarchies. Together with us you will set the foundation of a great company culture to work in.
+Freedom and full ownership
+Pursuing your own projects with full ownership - nobody likes micromanagement.
+Enjoy being part of the ZenML family
+Even though we are working a lot, we take care of ourselves with a healthy life-life-balance and a joyful working culture.
+Our hiring process
+We understand the hiring process can be super tough for candidates. Therefore, we are working hard to make it as transparent and lean as possible for anyone who applies at ZenML. So, if you are hesitating due to the overhead, don't! We will treat your application with the utmost respect and priority.
+Once you apply our team will carefully review your CV and application in an initial screening. After that your journey with us will follow this outline:
+Phone Interview
+30 minutes
+In a short phone call, we will give you the gist of the position, give you the chance to ask initial questions and allow us to get a feeling for you as a person. We strongly believe in our culture and want to get to know you. What motivates you, where do you come from - WHO are you?
+Challenge
+2 hours
+No LeetCode. No weekend killers. Just a thoughtful case to explore your problem-solving skills. We'll give you a 2-hour challenge that will test the basics of your technical skills for the role you applied for. This will be a fun and time-efficient way to showcase your technical skills to our team!
+Tech Interview
+3 hours
+We'll start with 30 mins of reviewing your previous challenge submission, and then introduce a new task that builds upon your previous work. You will have 1.5 hours to work on this task. Then, you will come back and we'll chat more about what you did in the last hour.
+(On-site) Experience Day
+Every journey has its finale – and we want it to feel real. You'll spend 2 hours collaborating on a meaningful topic (on-site in Munich or online), followed by 30-minute meetings with two team members. This is an opportunity to assess mutual fit and get to know each other.
+Open positions
+No open positions right now.
+AI orchestration,
+on the infra you choose
+Start free
+Get new posts by email
+New posts and product updates, sent when we publish. No spam.

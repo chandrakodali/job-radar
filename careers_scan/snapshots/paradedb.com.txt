@@ -1,0 +1,40 @@
+Careers at ParadeDB
+Build the future of search and analytics in Postgres.
+ParadeDB builds state-of-the-art search and analytics directly inside Postgres. Companies like Modern Treasury , BILT Rewards , Alibaba Cloud , and many others use ParadeDB to power search, analytics, and AI workloads without maintaining separate search infrastructure. Learn more through our blog , docs , and our CMU DB Group lecture .
+We're a small, focused team building database infrastructure used in production by organizations worldwide. Our team is composed of:
+Philippe Noël (Co-founder, CEO)
+Ming Ying (Co-founder, CTO)
+Stu Hood (Head of Engineering — prev. Twitter, Toolchain)
+Mohammad Dashti (Database Engineer — prev. MongoDB, RelationalAI)
+James Blackwood-Sewell (Product Marketing Engineer — prev. Tiger Data)
+Mithun Chicklore Yogendra (Database Engineer — prev. Oracle, EnterpriseDB)
+Ruchir Raj (Database Engineer — prev. E6Data)
+Isaac Van Doren (Platform Engineer — prev. Paytient)
+RJ Barman (Database Engineer — prev. Lark Health)
+Walter Woodall (Database Engineer — prev. AWS DynamoDB)
+Allyn Bottorff (Platform Engineer — prev. Paytient)
+We're primarily distributed across the United States and Canada, with a small office in San Francisco. If you're excited about databases, distributed systems, search, analytics, Postgres, and open source, we'd love to hear from you—even if none of our current openings are a perfect fit. Reach out to us at founders@paradedb.com .
+How We Work
+Quality Over Quantity
+We believe database companies win on engineering excellence. Correctness, performance, and reliability matter. We invest heavily in testing and focus on building systems we're proud to have our names attached to.
+Everyone Talks to Customers
+Startups fail when they don't build something people want. We believe the best way to avoid this is to ensure engineers regularly engage with customers, tighten feedback loops into the development cycle, and help shape both product and technical direction.
+Intellectual Honesty
+We believe humility and curiosity are prerequisites for great engineering. We care more about finding the right answer than being right. Strong opinions are welcome, but they should be backed by evidence, curiosity, and a willingness to change your mind.
+High Trust
+We're a small team built on trust and initiative. We keep processes to a minimum, invest in people, and give engineers ownership over their work.
+Open Source First
+The world is built on open-source software, and we're no exception. We contribute upstream, engage directly with our community, and strive to be good stewards of the projects we depend on.
+Benefits
+Competitive salary and meaningful equity
+Medical, dental, and vision insurance (US-only)
+401(k) (US-only)
+Flexible PTO
+Bi-annual company offsites
+Office in San Francisco, with remote-friendly culture across the United States and Canada
+Travel stipend to visit San Francisco for remote employees
+Home office and equipment budget
+Open Positions
+Database Engineer — Storage & Query Execution →
+Engineering · Full-time · San Francisco or remote (United States and Canada)
+Platform Engineer — Postgres Platform →

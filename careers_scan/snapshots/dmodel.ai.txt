@@ -1,0 +1,65 @@
+d model
+look inside the model
+About
+d_model is a fundamental AI research lab partnering with frontier labs to turn their models into capable interpretability and alignment researchers. Alongside our partnerships, we aim to use the agents we build for independent research.
+Alignment is an unsolved problem with enormous stakes. We think that interpretability is key to making models safer and more steerable.
+We build RL environments for open-ended interpretability tasks. These environments teach agents how to do cutting-edge research, not how to reward-hack.
+You've already used LLMs trained on our environments. Help us train the next generation.
+Interested in career opportunities? Fill out our Hiring Interest Form
+Blog
+Discovering Concept-Editing Algorithms With LLM Agents
+Scherlis and Bishka, et al., July 2026
+We tasked LLM agents with inventing concept-erasure algorithms. They discovered six algorithm families across 50 concepts, all of which out-perform LEACE on a non-linear probe.
+Inside the CodeBot: A Gentle Introduction to How LLMs Understand Nullability
+Sanchez-Stern and Tondwalkar, April 2025
+How Language Models Understand Nullability
+Sanchez-Stern and Tondwalkar, March 2025
+We study how models represent the nullability of program values. We measure how well models of
+various sizes, at various training checkpoints, complete programs that use nullable values, and then
+extract an internal representation of nullability.
+Steering Characters with Interpretability
+Tondwalkar and Moon, September 2024
+Team
+co-founders
+anish
+dmoon
+supercomputing
+dalton
+arjun s.
+suraj
+tommy
+research
+adam
+alex
+aditya
+ajit
+arjun p.
+autumn
+bishka
+cameron
+david c.
+david r.
+evan
+felix
+govind
+ritesh
+ryan
+shaurya
+tyra
+yueru
+operations
+singer
+alexana
+curry
+summer 2027 interns
+aarush
+aayan
+austin
+avnith
+bill
+clinton
+mihir
+nived
+smaran
+raymond
+tristan

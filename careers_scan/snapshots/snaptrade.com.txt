@@ -1,0 +1,12 @@
+Careers at SnapTrade
+Join the SnapTrade team .
+Help build better investing products.
+We're looking for curious, thoughtful people who take ownership of their work and care about the people who use what we build.
+Open Positions
+Who we are
+SnapTrade builds infrastructure for developers building investing products. Our APIs connect apps to brokerage accounts, giving developers access to investment data and trading without building and maintaining each brokerage integration themselves.
+We're a small team backed by Y Combinator . We work across engineering, marketing, customer success, and operations to help developers build reliable products.
+We value curiosity, clear thinking, and following through. You'll have room to learn, take responsibility, and contribute beyond your job title.
+Find a role that fits your strengths and what you want to learn next.
+Engineering Product Engineer
+Email jobs@snaptrade.com if you have questions about the process or want to introduce yourself.

@@ -1,0 +1,39 @@
+Careers
+Ready to work with the World's #1 Ruby On Rails Programmers
+As one of the leading Ruby on Rails development businesses in the world, we are always on the look-out for new and impressive staff.
+Right now we are only hiring Senior positions, although check back later and see if this has changed.
+We are looking for people who are expert in one or more of these fields:
+Senior Rails developers
+Heroku specialists
+AWS specialists
+UI experts
+UX and Visual Designers
+Project Management
+IT/Software development sales
+Staff applying in any of these fields should have a minimum of 4 years working experience, with certification a bonus.
+Location: You will work remotely from home, anywhere in Australia is okay, or a similar time zone, such as New Zealand.
+Pay Level: This will vary according to your skill level. The Salary range is negotiable based on your experience and skill level. This is a full-time role employment not a contract role. We run our projects using the Agile development methodologies. If you don’t have a lot of experience in this area, that’s fine we will train you.
+Skills:
+4+ years experience as a Ruby on Rails (or other skill as above) developer.
+Excellent ability to communicate with developers and customers.
+The ability to solve problems and make projects succeed.
+Recruiters: Not at this stage, thanks.
+Employment Type: Full-time
+Information:
+Are you a Ruby on Rails developer with extensive experience and a passion for programming? Do you like sharing your knowledge with colleagues and helping them grow? Do you want the flexibility of working on a range of projects, presenting new challenges?
+We’re looking for someone like you to be part of our development team at reinteractive. We create custom solutions for our clients in helping them solve their technical problems from fintech solutions, animal welfare, crowd sourced transcriptions and through to enterprise membership applications. If that interests you, we’d like you to be a member of our development team.
+You work dedicatedly on one application at a time, generally for a few weeks/months sprint. We employ agile methods and you will have direct access to our team and to our amazing clients.
+Our team includes many top Rails developers and you will be encouraged to share your knowledge and experience and have the ability to learn from their experience.
+If you want to be part of our amazing Rails team then we want to hear from you.
+Reinteractive is 11 years old, founded by Mikel Lindsaar the author of the mail gem . Reinteractive is Australia’s leading, dedicated Ruby on Rails development firm.
+We specialise only in Rails development , coupled with our specialised hosting and monitoring , and code maintenance services .
+You will work on many different projects and gain experience in many different situations. Our clients vary from start-ups to enterprise clients.
+Learn more about the reinteractive team
+We helped State Library New South Wales build an award-winning transcription editing platform.
+Learn more
+Hosting millions of check-ins seamlessly for COVID Comply with zero downtime
+rather than building an internal operations team, it made sense to use a third-party provider -
+OpsCare.
+Norths Collective needed to roadmap a mobile web application, to digitise their membership services enabling members to access services from any device.
+Standardising the packaging industry in Australia, the APCO members application
+provides an industry portal.

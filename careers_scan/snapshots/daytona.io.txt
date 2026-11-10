@@ -1,0 +1,130 @@
+We’re hiring
+Shape the Future of Development
+0 1 - - I N T R O D U C T I O N
+We’re investing in you.
+[✓]
+Flexible PTO
+Paid Parental Leave
+Remote Flexibility
+At Daytona, we're revolutionizing the AI landscape with our secure, lightning-fast runtime for AI-generated code execution and agent workflows. Our vision is to bridge the gap between AI potential and practical implementation, providing the essential infrastructure that powers the next generation of intelligent applications. By delivering isolated environments with sub 200ms startup times and comprehensive programmatic controls, we're enabling both developers and AI systems to execute code safely and efficiently at scale.
+0 2 - - O P E N P O S I T I O N S
+Join the Daytona Team and
+Shape the Future of Dev Environments
+We're building the foundation for tomorrow's AI agent architectures, supporting organizations from innovative startups to Fortune 500 enterprises with production-ready infrastructure and persistent agent operations. If you're passionate about shaping the future of AI execution environments and want to make a significant impact in this rapidly evolving field, we invite you to join our collaborative team. Explore our open positions and become part of a mission that's redefining how AI-generated code comes to life.
+Engineering
+Team Lead, GPU Sandboxes
+Senior Software Engineer, GPU Sandboxes
+Team Lead, Windows Sandboxes
+Senior Software Engineer, Windows Sandboxes
+Growth
+Digital Community Manager
+SF or Croatia
+Dev Community Specialist
+Finance
+Controller
+Product
+Product Manager, GPU Sandboxes
+Product Manager, Windows Sandboxes
+Design
+Designer Engineer
+Product Designer
+People
+Technical Recruiting Lead
+Didn't find a position but still interested in joining Daytona?
+Please feel ree to reach out via our Contact page, we would love to hear from you.
+Contact
+0 3 - - O S S B O U N T I E S
+Earn by Contributing to
+Daytona's Open Source Bounties
+Want to showcase your skills and earn while doing so? Turn your contributions into career opportunities!
+TUI breaking under pressure
+daytona#668
+Bug
+0 4 - - T E A M
+You're in excellent company
+Join the Pioneers, Trailblazers, and Champions Behind Our Success
+Ivan Burazin
+Co-founder & CEO
+Goran Draganić
+Co-founder & Chief Architect
+Vedran Jukić
+Co-founder & CTO
+Sara Lucija Dragičević
+Executive assistant
+Zoran Zorica
+Infrastructure Engineer
+Marijan Čipčić
+Principal Events Manager
+Nikola Radišić
+Senior Solutions Engineer
+Toma Puljak
+Software Engineer
+Ivan Dagelić
+Fabjan Vučina
+Mirko Džaja
+Luka Brečić
+0 5 - - I N V E S T O R S
+We're trusted by pioneers
+Abhinav Asthana
+Postman
+Cassidy Williams
+Contenda
+Charity Majors
+Honeycomb
+Christian Bach
+Netlify
+Luke Kanies
+Puppet
+Milin Desai
+Sentry
+Moataz Soliman
+Instabug
+Paul Copplestone
+Supabase
+Prashanth Chandrasekar
+StackOverflow
+Shawn Wang
+smol.ai
+Zach Lloyd
+Warp
+Aaron Kimball (Benchling), Alan Sumina (Nanobit), Amir Shevat (Darkmode Ventures), Andrew Rollins (BrinkBrink), Ben Lang (Notion), Borja Burgos (Datadog), Brian Douglas (Open Sauced), Bukky Adebayo (Hashicorp), Damir Sabol (Photomath), David Apple (ScorePlay), Derek Kleinow (DK Ventures), Domagoj Vuksa (Human), Edi Sinovcic (SpaceShard), Ekene Eze (Abridged), Eugene Yan (Amazon), Feross Aboukhadijeh (Socket), Fredrik Björk (Grafbase), Grace Francisco (Pangea), Ian Livingstone, Ilya Lyamkin (Spotify), Izet Zdralovic & Jurica Cerovec (Microblink), Jacob Smith & Zac Smith (HOTI), Jason Berry (Positive Equity), Jernej Strasner (Sentry), Jesse Miller (Kong), Jon Natkins (dbt Labs), Jose Vargas (Adriatic VC), Kareem Kouddous (Koko), Luka Abrus (Five), Luka Sucic (Meta Change Capital), Marin Tvrdic & Nikola Pavesic (Infobip), Martin Morava (Devot), Merci Victoria Grace (Panobi), Michael Rybintsev (Fonoa), Nikolay Rodionov , Oliver de Albuquerque (Adept), Pierre-Louis Theron (Lumen), Sead Ahmetovic (WeAreDevelopers), Surabhi Gupta (Robinhood), Tomislav Car (Infinum Ventures), Traycho Ivanov (Pulsarix), Zach Holman .
+N E W S L E T T E R
+Subscribe to DotFiles Insider , a fortnightly newsletter for developers covering stories, techniques, guides and the latest product innovations.
+NEW
+Startup Program
+Learn More
+Company
+About
+Careers
+Brand
+Press
+Partner
+Events
+Pacers Program
+Support
+Documentation
+Blog
+Definitions
+Pricing
+System Status
+Changelog
+Trust Center
+Follow daytona
+Github
+Slack
+Twitter
+Youtube
+Linkedin
+RSS
+Popular Topics
+AI Agents SDK
+AI Stack Map
+AI Infrastructure
+Train GPT Model
+LLM Code Isolation
+Run AI Code
+Secure AI Code
+AI-Ready Workspaces
+AI Sandbox
+SLA
+DPA

@@ -1,0 +1,12 @@
+Open positions
+03 roles
+Robotics Researcher
+As a Robotics Researcher at Shiraz AI, you’ll develop models and learning methods that help robots learn new tasks quickly and perform reliably in changing manufacturing environments. You’ll combine research on robot foundation models, imitation learning, and reinforcement learning with hands-on work training and testing policies on physical robots.
+You will design experiments and develop robot foundation models and investigate failures to understand what limits performance. Working closely with our deployment and hardware engineers, you’ll turn research ideas into measurable improvements in adaptability, task success, and reliability, while using challenges from real deployments to guide new research directions.
+Email us your resume at founders@shiraz.ai .
+Robot Deployment Engineer
+As a Robot Deployment Engineer at Shiraz AI, you’ll bring our robots into customer factories and make them dependable in everyday production. You’ll work directly with customers and operators to understand their workflows, set up robotic workcells, integrate robots with existing equipment, and validate performance under real production conditions.
+You’ll diagnose problems across software, sensing, controls, and hardware; build tools for testing and monitoring; and drive improvements in task success, throughput, and uptime. You’ll also help collect training data, develop operating and maintenance procedures, and work with researchers and hardware engineers to turn lessons from the factory floor into lasting improvements to our systems.
+Mechanical Engineer
+As a Mechanical Engineer at Shiraz AI, you’ll design and build the hardware that lets our robots take on varied manufacturing tasks. Your work will span robot mechanisms, grippers, fixtures, and workcells, taking ideas from initial concepts and CAD through working prototypes and hardware ready for deployment.
+You’ll select and integrate actuators, sensors, and mechanical components; build and troubleshoot prototypes; and test designs for performance, durability, and ease of maintenance. Working with suppliers and our research and deployment teams, you’ll refine designs for manufacturing and assembly, manage drawings and bills of materials, and develop tooling and build procedures that make our hardware straightforward to reproduce and maintain.

@@ -1,0 +1,158 @@
+Just launched
+MCP1 by Appwrite is live MCP1 by Appwrite: one URL for every MCP server _
+Try MCP1
+Unleashing creativity and innovation in every creator _
+Software development transforms our everyday lives, shaped by the creativity and innovation of developers and the AI agents they work with. At Appwrite, we enable them to build products the world loves by removing technical barriers with our backend platform.
+Our mission
+Eliminate friction and abstract complexity for every creator. We build Appwrite for agents and developers, giving them the tools and experience they need to create and innovate without limits and with minimum concerns.
+What we build
+A complete development platform, backed by the open source community, built to keep teams efficient by cutting context switching and integration overhead. From auth, databases, storage, and functions to MCP servers, Skills, and agent integrations, everything lives in one place so Appwrite moves with you from ideation to scale.
+The open-source cloud for agents and developers
+Our story _
+Appwrite began in 2019 as a founder-led open-source project built to give developers a consistent, predictable layer over cloud infrastructure. What started as a side project has grown into a platform used by hundreds of thousands of developers worldwide.
+2019
+September 2019
+Open-source launch
+Appwrite launched publicly as an open-source backend platform. Designed from the outset to abstract cloud complexity through familiar APIs and protocols, the project gained rapid traction in its first month, including strong visibility across developer communities.
+GitHub View on GitHub
+Docs Getting started
+2021
+May 2021
+Seed funding
+Appwrite raised $10M in seed funding led by Bessemer Venture Partners and Flybridge, with participation from Ibex Investors, Seedcamp, and the Abraham Fund. The round supported company formation, brought foundational engineering talent from the open-source contributor community, and expanded the investor and board network.
+News Seed round coverage
+December 2021
+Series A
+Appwrite completed a $27M Series A led by Tiger Global, with participation from existing investors, to accelerate product development and global growth.
+News Series A coverage
+2022
+May 2022
+Open source fund
+Following the Series A, Appwrite established a $50,000 fund to support independent open-source projects, reinforcing the company's commitment to the broader ecosystem.
+News OSS fund announcement
+September 2022
+Appwrite 1.0
+The first stable release marked a major milestone after years of community-driven development, spanning thousands of commits and contributions from developers worldwide.
+GitHub 1.0 release notes
+November 2022
+Console 2.0
+Appwrite shipped a redesigned Console with a new in-house design system and a developer experience built specifically for managing production backends at scale.
+YouTube Console 2.0 launch
+December 2022
+Golden Kitty Award
+Appwrite won Product Hunt's Golden Kitty Award for Best Developer Tool, recognizing the platform's impact among makers and the broader developer community.
+2023
+April 2023
+Cloud public beta
+Appwrite Cloud entered public beta, making the platform available without self-hosting and opening the door to managed infrastructure for teams of every size.
+Blog Public beta announcement
+Docs Appwrite Cloud
+September 2023
+Brand refresh
+Appwrite unveiled a refreshed brand identity, including a new logo, redesigned website, and improved documentation, reflecting the company's evolution from a backend service into an all-in-one open-source development platform.
+Blog Rebrand announcement
+2024
+February 2024
+Appwrite Messaging
+Messaging expanded the platform with email, push, and SMS capabilities, giving teams native tools for user communication and notifications.
+Blog Messaging announcement
+Docs Messaging docs
+April 2024
+Startups program
+The Appwrite Startups Program launched to support early-stage teams with credits, guidance, and infrastructure as they build on the platform.
+Blog Program announcement
+Product Apply to the program
+November 2024
+50,000 GitHub stars
+Appwrite surpassed 50,000 GitHub stars, reflecting sustained adoption and the strength of its global open-source community.
+GitHub Star on GitHub
+Product Join the community
+2025
+May 18, 2025
+Appwrite Sites
+Appwrite Sites launched as an open-source application hosting product, letting teams develop, deploy, and scale web apps from the same platform as their backend services.
+Docs Sites docs
+September 2025
+Cloud is GA!
+Appwrite Cloud reached general availability with production-grade reliability, expanded infrastructure, and the performance teams need to run applications at scale.
+Product Cloud GA
+2026
+March 2026
+Appwrite Arena
+Appwrite Arena launched as an open benchmark for evaluating how effectively AI models understand and work with Appwrite APIs and workflows.
+Blog Arena announcement
+Product View leaderboard
+May 25, 2026
+Appwrite Presences
+Appwrite Presences introduced a Realtime API for short-lived user statuses, with built-in channels, automatic expiry, and permission-aware subscriptions.
+Blog Presences announcement
+Docs Presences docs
+August 31, 2026
+Appwrite 2.0
+Appwrite 2.0 introduced a refreshed platform experience and stronger foundations, powered by Hyperloop B, a new engine for the platform, and Console IV, a next-generation console rebuilt with TanStack.
+September 2026
+Native PostgreSQL and MySQL
+Appwrite introduced native PostgreSQL and MySQL database solutions to the platform, giving teams dedicated relational engines for SQL workflows, portable schemas, and production workloads alongside Appwrite's managed data layer.
+Team Appwrite _
+We are a remote-first, AI-native team built to stay lean. We recruit exceptional talent worldwide, communicate with clarity, and combine human judgment with AI to ship ambitious work at speed.
+15+
+Countries
+Continents
+100%
+Remote
+How we work
+Flat org structure
+Efficient communication
+AI-native
+Product-first team
+We keep overhead lean and our investments close to the product. Most of our team is dedicated to creating products developers genuinely enjoy using.
+Engineering 68 %
+Community and marketing 16 %
+G&A 11 %
+Business 5 %
+AI-native team
+Appwrite is built for developers, agents, and AI-assisted workflows, and our team works the same way. We integrate AI into how we plan, build, ship, and support, pairing human judgment with tooling that helps us move faster without adding unnecessary overhead.
+Lean and effective
+We strive to stay a smaller team that punches above its weight. That means clear priorities, async-first communication, and workflows designed for effectiveness. We minimize bureaucracy, keep decision-making close to the work, and use AI where it saves time so people can focus on high-impact work.
+Global and remote-first
+We hire the best people wherever they are. Being remote-first keeps us thoughtful about communication across time zones and cultures. We stay humble, treat each other with respect, and work to help everyone on the team do their best work.
+Team Appwrite at Camp 5.0, Barcelona
+Team Appwrite at Camp 3.0, New York City
+Deep work over coffee in Barcelona during Camp
+Behind the scenes: portrait setup for the first Init in Prague
+Behind the scenes: reviewing takes on the first Init set in Prague
+Join a lean, AI-native team
+Explore open roles or learn how Appwriters join from the community.
+How we hire
+Founder _
+Eldad Fux
+Founder & CEO
+Start small, build consistently, and give things enough time to become real.
+Eldad discovered programming at a young age and built his career through open source, learning from developers and maintainers around the world while contributing back to the community that helped shape him as an engineer.
+In 2019, he launched Appwrite as a way of giving back to that same community. Driven by the belief that software development should be dramatically easier, faster, and accessible to anyone with an idea, he set out to remove much of the complexity that stands between developers and the products they want to build. What began as a side project has since grown into a platform used by hundreds of thousands of developers worldwide.
+Before Appwrite, Eldad co-founded Careerpage and served as its CTO. He also spent more than a decade at Walla!, where he joined as a junior developer and eventually became CTO. Throughout his career, he has remained passionate about building developer tools, supporting open source, and helping teams move faster with better software.
+Backed by top investors _
+Appwrite is proudly backed by some of the top investors in the industry.
+Angel Investors
+Aaron Applebaum
+Partner
+MizMaa
+Ariel Maislos
+Angel Investor
+Former Apple IL CEO
+Gilad Engel
+Krishna Visvanathan
+Co-founder & Partner
+Crane Venture Partners
+Ameet Patel
+Benno Jering
+Redline Capital
+James Lindenbaum
+Co-founder
+Heroku
+Uri Boness
+Co-Founder
+Elastic
+Open roles _
+Find your next career at Appwrite and join a remote team building the platform developers and agents rely on.
+No open roles right now.

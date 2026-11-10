@@ -1,0 +1,670 @@
+The only agent that thinks for itself
+Autonomous Monitoring with self-learning AI built-in, operating independently across your entire stack.
+Metrics, Logs & Traces
+Machine learning & MCP
+5% CPU, 150MB RAM
+3GB disk, >1 year retention
+800+ integrations, zero config
+Dashboards, alerts out of the box
+> Discover Netdata Agents
+Try it now
+Open source
+Github
+80k+
+688M+ docker pulls
+Centralized metrics streaming and storage
+Aggregate metrics from multiple agents into centralized Parent nodes for unified monitoring across your infrastructure.
+Stream from unlimited agents
+Long-term data retention
+High availability clustering
+Data replication & backup
+Scalable architecture
+Enterprise-grade security
+> Learn about Parents
+Data Pipeline
+Infinite Scalability
+Netdata Parents
+Fully managed cloud platform
+Access your monitoring data from anywhere with our SaaS platform. No infrastructure to manage, automatic updates, and global availability.
+Zero infrastructure management
+Metrics stay on your nodes
+US-hosted metadata
+Automatic updates & patches
+Enterprise SSO & RBAC
+SOC 2 Type 2 certified
+> Explore Netdata Cloud
+Sign In
+Pricing Plans
+Data Sovereignty
+Deploy Netdata Cloud in your infrastructure
+Run the full Netdata Cloud platform on-premises for complete data sovereignty and compliance with your security policies.
+Complete data sovereignty
+Air-gapped deployment
+Custom compliance controls
+Private network integration
+Dedicated support team
+Kubernetes & Docker support
+> Learn about Cloud On-Premises
+Contact Sales
+Government Solutions
+Powerful, intuitive monitoring interface
+Modern, responsive UI built for real-time troubleshooting with customizable dashboards and advanced visualization capabilities.
+Real-time chart updates
+Customizable dashboards
+Dark & light themes
+Advanced filtering & search
+Responsive on all devices
+Collaboration features
+> Explore Netdata UI
+Custom Dashboards
+Algorithmic Dashboards
+Troubleshooting
+Monitor on the go
+Native iOS and Android apps bring full monitoring capabilities to your mobile device with real-time alerts and notifications.
+iOS & Android apps
+Push notifications
+Touch-optimized interface
+Offline data access
+Biometric authentication
+Widget support
+> Download apps
+App Store
+Google Play
+Alerts & Notifications
+The future of infrastructure observability
+See our strategic direction across AI-native observability, full-stack signals, operational intelligence, and enterprise platform maturity.
+AI-native observability
+Full-stack signal coverage
+Operational intelligence
+Enterprise platform maturity
+Agent releases every 6 weeks
+Cloud continuous delivery
+> Explore Product Roadmap
+GitHub Releases
+Request a Briefing
+Changelog
+Best energy efficiency
+True real-time per-second
+100% automated zero config
+Centralized observability
+Multi-year retention
+High availability built-in
+Zero maintenance
+Always up-to-date
+Enterprise security
+Complete data control
+Air-gap ready
+Compliance certified
+Millisecond responsiveness
+Infinite zoom & pan
+Works on any device
+Native performance
+Instant alerts
+Monitor anywhere
+Continuous delivery
+Open source foundation
+80% Faster Incident Resolution
+AI-powered troubleshooting from detection, to root cause and blast radius identification, to reporting.
+Learn & Detect
+Correlate
+Understand & Act
+Unsupervised ML
+Anomaly Advisor
+Netdata AI
+Anomaly Detection
+Root Cause Analysis
+AI Reporting
+Blast Radius Detection
+MCP Server
+AI-powered observability, always enabled, always running
+True Real-Time and Simple, even at Scale
+Linearly and infinitely scalable full-stack observability, that can be deployed even mid-crisis.
+Automated
+Distributed
+Scalable
+Zero Configuration
+Distributed Pipeline
+Real-Time at Scale
+Edge Computing
+Zero Downtime
+Tiered Retention
+Extreme Cardinality
+Linear scaling, zero single point of failure
+90% Cost Reduction, Full Fidelity
+Instead of centralizing the data, Netdata distributes the code, eliminating pipelines and complexity.
+Metrics
+Logs & Traces
+Alerts
+Metrics Management
+Logs Management
+Distributed Alerting
+eBPF Monitoring
+Distributed Tracing
+Notifications
+Zero Pipeline Logs
+Mobile Apps
+OpenTelemetry
+Your data stays on-premises; only views stream to the cloud
+See and Map Your Entire Network
+Live topology, flow analytics, and SNMP device and trap monitoring — unified with your full-stack observability.
+Topology
+Traffic
+SNMP
+Network Topology Viewer
+NetFlow Traffic Analyzer
+SNMP Device Monitoring
+Network Monitoring Dashboard
+SNMP Trap Monitoring
+Network Device Auto-Discovery
+Unified network monitoring — no separate NPM tool
+Single Pane of Glass
+Eliminate SSH access for monitoring and troubleshooting systems and applications.
+Simple
+Powerful
+Intelligent
+Live
+No Query Language
+Turn junior engineers into experts with guided troubleshooting
+Control Without Surrender
+SOC 2 Type 2 certified with every metric kept on your infrastructure.
+Access
+Governance
+Operations
+Access Control
+Team Collaboration
+Zero Code Instrumentation
+Cost Efficiency
+See the Architecture
+Integrations
+800+ collectors and notification channels, auto-discovered and ready out of the box.
+800+ data collectors
+Auto-discovery & zero config
+Cloud, infra, app protocols
+Notifications out of the box
+> Explore integrations
+AI Automation
+Model Context Protocol
+Connect any MCP-compatible AI to your observability data. Automate workflows, playbooks, and incident response.
+Deploy Anywhere
+Multi-Cloud
+AWS, GCP, Azure—unified observability across all providers.
+Hybrid Cloud
+On-prem and cloud infrastructure in a single view.
+Your metrics stay on your infrastructure. Always.
+Real Results
+46% Cost Reduction
+Reduced monitoring costs by 46% while cutting staff overhead by 67%.
+— Leonardo Antunez, Codyas
+Zero Pipeline
+No data shipping. No central storage costs. Query at the edge.
+Network, Reimagined
+Live Topology
+Real-time connection and device maps, built in the agent — no scheduled discovery scans.
+One Platform
+SNMP, flows, traps, and topology unified with your full-stack observability.
+From Our Users
+"Out-of-the-Box"
+So many out-of-the-box features! I mostly don't have to develop anything.
+— Simon Beginn, LANCOM Systems
+Point-and-click troubleshooting. No PromQL, no LogQL, no learning curve.
+Enterprise Ready
+67% Less Staff, 46% Cost Cut
+Enterprise efficiency without enterprise complexity—real ROI from day one.
+SOC 2 Type 2 Certified
+Zero data egress. Only metadata reaches the cloud. Your metrics stay on your infrastructure.
+Full Coverage
+800+ Collectors
+Auto-discovered and configured. No manual setup required.
+Any Notification Channel
+Slack, PagerDuty, Teams, email, webhooks—all built-in.
+Built for the People Who Get Paged
+Because 3am alerts deserve instant answers, not hour-long hunts.
+Platform Engineers
+DevOps
+SREs
+Developers
+SysAdmins
+CISOs
+Operations Centers
+DBAs
+Network Engineers
+MSPs
+Freelancers
+Ask Netdata AI about your next incident
+Every Industry Has Rules. We Master Them.
+See how healthcare, finance, and government teams cut monitoring costs 90% while staying audit-ready.
+AI & ML
+Technology
+Finance
+Gaming
+Robotics
+EV Charging
+Healthcare
+Retail
+POS & Kiosks
+Manufacturing
+Telecom
+Government
+Education
+School Devices
+Built for Operation Centers
+Monitor Any Technology. Configure Nothing.
+Install the agent. It already knows your stack.
+Kubernetes
+Linux
+AWS
+GCP
+Azure
+Windows
+Docker
+Proxmox
+VMware
+Red Hat
+Hetzner
+HPC
+See all 800+ integrations
+Complete Visibility. Total Control.
+From install to "what broke and why" in under five minutes—no queries, no guesswork.
+LLM Monitoring
+Infrastructure Monitoring
+Container Monitoring
+Synthetic Checks
+Application Performance
+Database Monitoring
+Network Monitoring
+Web Server Monitoring
+Systemd Journal Logs
+Data Centers
+Windows Event Logs
+IoT Monitoring
+Edge & Fleet Monitoring
+Service Mesh
+Cloud Monitoring
+Continuous Operations
+Unified Observability
+Azure → Azure Local
+See the live demo
+Don't Take Our Word for It
+From 99% less downtime to 30-second troubleshooting—see how they did it.
+Falkland Islands Government
+99% less downtime, 30% cloud cost reduction
+Transportation
+TMB Barcelona
+"A rare unicorn that obeys the Pareto rule"
+Nodecraft
+Troubleshooting in 30 seconds, not 3 minutes
+Codyas
+46% cost reduction, 67% less monitoring staff
+Browse all case studies
+"A Rare Unicorn"
+Netdata gives more than you invest in it. A rare unicorn that obeys the Pareto rule.
+— Eduard Porquet Mateu, TMB Barcelona
+99% Downtime Reduction
+Reduced website downtime by 99% and cloud bill by 30% using Netdata alerts.
+— Falkland Islands Government
+Real Savings
+30% Cloud Cost Reduction
+Optimized resource allocation based on Netdata alerts cut cloud spending by 30%.
+46% Cost Cut
+Reduced monitoring staff by 67% while cutting operational costs by 46%.
+— Codyas
+Real Coverage
+"Plugin for Everything"
+Netdata has agent capacity or a plugin for everything, including Windows and Kubernetes.
+Real Speed
+Troubleshooting in 30 Seconds
+From 2-3 minutes to 30 seconds—instant visibility into any node issue.
+— Matthew Artist, Nodecraft
+20% Downtime Reduction
+20% less downtime and 40% budget optimization from out-of-the-box monitoring.
+Pay per Node. Predictable Pricing.
+Pay per node, with unlimited metrics and generous log and trace quotas.
+Free tier—forever
+No metric limits or caps
+Retention you control
+Cancel anytime
+> See pricing plans
+What's Your Monitoring Really Costing You?
+Most teams overpay by 40-60%. Let's find out why.
+Expose hidden metric charges
+Calculate tool consolidation
+Customers report 30-67% savings
+Results in under 60 seconds
+> See what you're really paying
+Your Infrastructure Is Unique. Let's Talk.
+Because monitoring 10 nodes is different from monitoring 10,000.
+On-prem & air-gapped deployment
+Volume pricing & agreements
+Architecture review for your scale
+Compliance & security support
+> Start a conversation
+Monitoring That Sells Itself
+Deploy in minutes. Impress clients in hours. Earn recurring revenue for years.
+30-second live demos close deals
+Zero config = zero support burden
+Competitive margins & deal protection
+Response in 48 hours
+> Apply to partner
+Per-Second Metrics at Homelab Prices
+Same engine, same dashboards, same ML. Just priced for tinkerers.
+Community: Free forever · 5 nodes
+Homelab: $90/yr · personal, non-commercial use
+> Get the Homelab Plan
+$1,000 Per Referral. Unlimited Referrals.
+Your colleagues get 10% off. You get 10% commission. Everyone wins.
+10% of subscriptions, up to $1,000 each
+Track earnings inside Netdata Cloud
+PayPal/Venmo payouts in 3-4 weeks
+No caps, no complexity
+> Get your referral link
+Cost Proof
+40% Budget Optimization
+"Netdata's significant positive impact" — LANCOM Systems
+Calculate Your Savings
+Compare vs Datadog, Grafana, Dynatrace
+Savings Proof
+"Cut costs by 46%, staff by 67%" — Codyas
+30% Cloud Bill Savings
+"Reduced cloud bill by 30%" — Falkland Islands Gov
+Enterprise Proof
+"Better Than Combined Alternatives"
+"Better observability with Netdata than combining other tools." — TMB Barcelona
+Real Engineers, <24h Response
+DPA, SLAs, on-prem, volume pricing
+Why Partners Win
+Demo Live Infrastructure
+One-line install, real data—no sandbox needed
+Zero Tickets, High Margins
+Auto-config + per-node pricing = predictable profit
+Homelab Ready
+Free Video Course
+8-episode Netdata tutorial by LearnLinux.tv
+80k+ GitHub Stars
+Open source, 690+ contributors
+Worth Recommending
+Product That Delivers
+Customers report 90% cost cuts, 99% downtime reduction
+Zero Risk to Your Rep
+Free tier lets them try before they buy
+AI Support Assistant, Available 24/7
+Nedi has access to all official documentation, source code, and resources. Ask any question about Netdata—responds in your language.
+Deployment & configuration
+Troubleshooting & sizing
+Alerts & notifications
+Evidence-based answers
+> Ask Nedi now
+Engineering Insights & Product Updates
+Deep dives into monitoring, infrastructure, and what's new in Netdata.
+Oct 2026
+Netdata Dashboard Features: What Is …
+Netdata was born open source, and its core …
+Distributed Tracing In Netdata: …
+Back in 2020, when we laid out where Netdata …
+Who Built This Dashboard, and Are They …
+You have lived it, no? When production is …
+Sep 2026
+Infrastructure Knowledge For AI Root …
+Netdata AI sees everything your …
+Explore all articles
+Never Fight Fires Alone
+Docs, community, and expert help—pick your path to resolution.
+Learn.netdata.cloud docs
+Discord, Forums, GitHub
+Premium support available
+> Get answers now
+60 Seconds to First Dashboard
+One command to install. Zero config. 800+ integrations documented.
+Linux, Windows, K8s, Docker
+Auto-discovers your stack
+> Read our documentation
+Level Up Your Monitoring
+Real problems. Real solutions. 112+ guides from basic monitoring to AI observability.
+Academy
+Operations Guides
+Monitoring 101
+Webinars
+Netdata Tutorial
+Best Infrastructure Monitoring Tools
+Best Container Monitoring Tools
+AI Observability Ebook
+Case Studies
+YouTube Channel
+> Explore all 112+ guides
+80,000+ Engineers Strong
+690+ contributors. 1.5M daily downloads. One mission: simplify observability.
+GitHub Discussions
+Discord
+Forums
+Reddit
+X / Twitter
+Open Source
+See where 80K+ engineers connect
+Per-Second. 90% Cheaper. Data Stays Home.
+Side-by-side comparisons: costs, real-time granularity, and data sovereignty for every major tool.
+See why teams switch from Datadog, Prometheus, Grafana, and more.
+> Browse all comparisons
+Nedi Can Help With
+Paste Logs & Errors
+Trace issues directly in the source code
+Deploy & Size Parents
+Get architecture recommendations
+Live Status
+Netdata Cloud Status
+Real-time operational status, incident history, and uptime for all Netdata Cloud services.
+> Check system status
+Quick Start
+One-Command Install
+Copy, paste, monitoring in 60 seconds
+800+ Integrations
+Every collector documented
+Learn Path
+112+ Technical Guides
+PostgreSQL, NGINX, K8s, and more
+Maturity model and implementation
+Built in the Open
+Star Us on GitHub
+80k+ stars and growing daily
+Active Discussions
+Engineers helping engineers
+Migration Program
+Migrating from SolarWinds?
+Netdata is modern, fast, full-stack observability with per-second metrics, AI-powered troubleshooting, and predictable pricing.
+> See migration program
+Edge-Native Observability, Born Open Source
+Per-second visibility, ML on every metric, and data that never leaves your infrastructure.
+Founded in 2016
+690+ contributors worldwide
+Remote-first, engineering-driven
+Open source first
+> Read our story
+Promises We Publish—and Prove
+12 principles backed by open code, independent validation, and measurable outcomes.
+Open source, peer-reviewed
+Zero config, instant value
+Data sovereignty by design
+Aligned pricing, no surprises
+> See all 12 principles
+Edge-Native, AI-Ready, 100% Open
+80k+ stars. Full ML, AI, and automation—GPLv3+, not premium add-ons.
+80,000+ GitHub stars
+GPLv3+ licensed forever
+ML on every metric, included
+Zero vendor lock-in
+> Explore our open source
+Build Real-Time Observability for the World
+Remote-first team shipping per-second monitoring with ML on every metric.
+Remote-first, fully distributed
+Open source (80k+ stars)
+Challenging technical problems
+Your code on millions of systems
+> See open roles
+Meet the Team Behind Netdata
+Conferences, meetups, and tradeshows where you can see Netdata in action and talk to the engineers who build it.
+Live demos and deep dives
+Book 1-on-1 meetings
+Talks and panel sessions
+Event recaps and photos
+> See all events
+Talk to a Netdata Human in <24 Hours
+Sales, partnerships, press, or professional services—real engineers, fast answers.
+Discuss your observability needs
+Pricing and volume discounts
+Partnership opportunities
+Media and press inquiries
+> Book a conversation
+Your Data. Your Rules.
+On-prem data, cloud control plane, transparent terms.
+Fair Usage Policy
+Request a DPA or security package
+Trust & Scale
+80,000+ GitHub Stars
+One of the most popular open-source monitoring projects
+Enterprise-grade security and compliance
+Your metrics stay on your infrastructure
+Validated
+University of Amsterdam
+"Most energy-efficient monitoring solution" — ICSOC 2023, peer-reviewed
+ADASTEC (Autonomous Driving)
+"Doesn't miss alerts—mission-critical trust for safety software"
+Community Stats
+690+ Contributors
+Global community improving monitoring for everyone
+1.5M+ Downloads/Day
+Trusted by teams worldwide
+GPLv3+ Licensed
+Free forever, fully open source agent
+Why Join?
+Remote-First
+Work from anywhere, async-friendly culture
+Impact at Scale
+Your work helps millions of systems
+Events
+Tech Show London 2026
+March 4–5, London, UK
+India DevOps Show 2026
+February 13, Bengaluru, India
+Gartner IT IOCs 2025
+November 17–19, Las Vegas
+Get in Touch
+Talk to Sales
+Pricing, volume discounts, and enterprise needs
+Technical Support
+Docs, community, and expert help
+Trust Center
+Continuous compliance monitoring by Drata. View our live security posture and audit reports.
+> View trust center
+Careers at Netdata
+Build Infrastructure Observability That Engineers Actually Want to Use
+Join a team that is solving the hardest problems in real-time monitoring. Own the full stack. Ship code used by millions. Work from anywhere. Stay sane.
+Apply
+Learn Our Values
+Why Engineers Choose Netdata
+Impact without burnout. Scale without chaos. Innovation without toxic pressure.
+Remote-First Culture
+Work from anywhere across multiple timezones. Not a pandemic policy - an architectural reality built for distributed teams.
+80K+ GitHub Stars
+Build a top-starred CNCF project. Your code runs on millions of servers. Your contributions are public and permanent.
+Process billions of metrics per second with sub-2-second latency. Solve distributed systems problems that matter.
+AI-Powered Innovation
+Integrate ML at the edge, build AI troubleshooting capabilities, pioneer Model Context Protocol adoption.
+Small Team, Massive Impact
+75 people monitoring millions of servers. Every hire changes the company. Own outcomes, not tasks.
+No Toxic Culture
+Engineering-led company. No sales quotas. No office politics. Adults solving hard problems with mutual respect.
+Trusted by Engineers at Leading Organizations
+What You’ll Build and Why It Matters
+Distributed Edge Architecture That Scales Infinitely
+Design systems that process billions of metrics per second across millions of nodes. Build custom time-series databases with industry-leading compression. Solve real-time processing challenges at massive scale without centralized bottlenecks.
+4.5B+ metrics/sec processed globally
+Machine Learning That Runs on Edge Devices
+Train 18 unsupervised models per metric directly on monitored systems. Achieve 99% false positive reduction in anomaly detection through consensus-based detection. Build ML that works on resource-constrained servers without cloud dependencies.
+18 ML models per metric, trained locally
+Explore AI Features
+Zero-Pipeline System Logs Monitoring and a Log Store Without Clusters
+Query systemd-journal, Windows Event Log and macOS unified logs in place without shipping or centralized clusters, and store logs from any source, collected through the OpenTelemetry Collector, in a log store that indexes every field at about 1/4 of raw size. Build tools that fully evaluate the first 500,000 entries of a query, then sample up to 1M. Replace Elasticsearch/Splunk infrastructure with direct file access and OS-level caching.
+90% cost reduction vs traditional log management
+Learn About Logs
+AI Troubleshooting That Accelerates Resolution
+Integrate large language models for natural language troubleshooting. Build Model Context Protocol servers that connect LLMs to live infrastructure data. Create AI insights that generate root cause analysis reports in minutes.
+80% MTTR reduction with AI-powered analysis
+See AI Capabilities
+How We’re Different
+Netdata vs. Industry Standard
+We built Netdata to solve the problems we experienced at other companies. Here’s how we’re different.
+What Matters
+Netdata
+Industry Standard
+Work Location
+✅ Remote-First
+Multiple timezones, work from anywhere
+⚠️ Hybrid or Office-Centric
+Return-to-office mandates, limited flexibility
+Team Size
+✅ 75 People
+Every hire changes company, full-stack ownership
+⚠️ 1,000-5,000+ Employees
+Layers of hierarchy, slice of ownership
+✅ 80K+ GitHub Stars
+GPLv3+ core, public contributions, community-driven
+⚠️ Proprietary or Open-Core
+Limited transparency, vendor lock-in
+Culture
+✅ Engineering-Led
+No sales quotas, no office politics, results over time
+❌ Sales-Driven or Toxic
+Quota pressure, favoritism, burnout culture
+Technical Depth
+✅ Distributed Systems at Scale
+Custom TSDB, ML at edge, kernel instrumentation
+⚠️ CRUD Applications
+Standard web stacks, limited complexity
+Impact
+✅ Millions of Servers
+1.5M daily downloads, enterprise customers
+⚠️ Internal Tools
+Limited external visibility, narrow reach
+Growth Path
+✅ Skills Over Titles
+Accelerated learning, community leadership, equity upside
+⚠️ Title Ladder
+Slow progression, political promotions
+Work-Life Balance
+✅ Results-Focused
+Async-first, no micromanagement, sustainable pace
+❌ Burnout Culture
+On-call stress, unsustainable pace
+Join Our Team
+What You’ll Experience at Netdata
+Real benefits that matter to engineers who want to build great software without sacrificing their wellbeing.
+True Remote Flexibility
+Work from anywhere across multiple timezones. Async-first communication. No mandatory office hours. Remote-first culture by design.
+Competitive Compensation
+Market-rate salaries with transparent bands. Equity participation in growing company. Annual reviews and performance bonuses.
+Professional Growth
+Learning and development stipend. Conference speaking opportunities. Mentorship from experienced engineers. Accelerated skill development.
+Sustainable Pace
+Results over time. No micromanagement. Deep work days with no meetings. Respect for work-life balance and personal time.
+Open Source Contribution
+Build your public portfolio. Contribute to 80K+ star project. Community recognition. GitHub as your resume.
+Cutting-Edge Technology
+Distributed systems, ML at edge, AI integration, custom databases. Work on problems that push technical boundaries.
+Comprehensive Benefits
+Health, dental, and vision coverage. Paid time off and holidays. Remote work stipend. Equipment and co-working reimbursement.
+Respectful Culture
+No toxic talent. No office politics. Engineering-led decisions. Assume positive intent. Adults treating adults with respect.
+Meaningful Impact
+Code used by millions. Enterprise customers worldwide. Solve real infrastructure problems. See your work matter immediately.
+October 13, 2026
+Netdata Dashboard Features: What Is Free, Open Source and Paid
+The Netdata Agent is open source and the dashboard is free to use with it. What each plan includes, per product, and why teams choose a paid plan.
+October 5, 2026
+Distributed Tracing In Netdata: OpenTelemetry Traces
+Netdata now ingests OpenTelemetry traces over OTLP on the same Agent that collects your metrics and logs. Spans are stored and indexed on your own infrastructure and explored in the new Traces tab in Netdata Cloud.
+October 3, 2026
+Who Built This Dashboard, and Are They Still Here?
+Your server monitoring dashboard shouldn't be a DIY project. Netdata charts every metric automatically — no query languages, no dashboards to build, ever.
+Frequently Asked Questions
+↑ ↓ navigate
+↵ open
+esc close
+Search by Algolia

@@ -1,0 +1,43 @@
+Blog home
+Join us in New York City on June 28-29th for OpenCommerce Conf 2016: http://opencommerceconf.org/
+It’s a 2-day event on E-Commerce with great speakers, Spree success stories, discussion panels for both developers and business people and of course drinks in the afternoon.
+There are thousands of Spree store owners and developers all over the world invested in Spree over the years. Thousands of stores and developers rely on a lean, flexible, extendible Spree open-source software being developed. That is a large community and a foundation of all our open-source efforts.
+Over the past 4 months, we’ve observed increasing interest in Spree 3.1 for new E-Commerce projects big and small. The official Spree Slack channel reached over 555+ members from 20 timezones in only 4 month which is by far a strong choice result during that period among all the Spree-related open-source projects.
+New Spree extensions pop up, including the official Braintree v.zero & PayPal extension for Spree 2.4, 3.0, 3.1 developed in cooperation with PayPal: https://github.com/spree-contrib/spree_braintree_vzero
+Spree open source project is becoming truly community-driven, transparent and open .
+That is why we organize OpenCommerce Conf – the first Spree-community event since SpreeConf 2014.
+We’re excited to meet and talk to the OpenCommerce Conf speakers:
+BRIAN QUINN – Sticker Mule, Spree Co-Founder
+FABIO AKITA – Codeminer 42
+JIMMIE LINDSTROM – PayPal
+DAMIAN LEGAWIEC – Spark Solutions, Spree Core Team
+RESHMA CHATTARAM CHAMBERLIN – B/C Designers
+MICHAEL TUCKER – GoDaddy
+MANIK JUNEJA – Vinsol
+ALEX FRANK – FCP Euro
+Such conferences are wildly valuable , Spree development shops showcase their work, connect with clients, sometimes secure work for the whole year. Don’t take our word for it – it’s what the owner of the NY-based dev shop told us.
+Join us in New York City on the 28-29th of June: http://opencommerceconf.org/
+If you would like to become a speaker, a panelist, present your Spree case study or contribute to the event in any other way let us know by slack or email: hello@opencommerceconf.org
+Yours truly,
+Spree Commerce Core Team
+Evaluate Spree in a free Sandbox
+Get started
+Contact us
+See also:
+Announcing Spree Commerce 6: Open Source Marketplace and B2B Wholesale With AI Agents
+Announcing Spree Commerce 5.6: Gated Storefronts, a Wholesale Portal, and a Localized Admin
+Announcing Spree Commerce Sandboxes: Free Cloud Test Stores
+Written by:
+Mike Faber
+Spree Evangelist. Co-founder and CEO of Vendo.
+Mike is a Spree Evangelist, promoting the platform's features and keeping the community updated on its roadmap. Mike is also a co-founder and CEO of Vendo, a major Spree contributor and provider of its Enterprise Edition, getting you more features, more security, more integrations so you can go live faster and get all the latest improvements first.
+Open-source Ecommerce
+October 27, 2026
+Read more
+July 27, 2026
+July 14, 2026
+Stock Reservations and Order Routing in Spree Commerce: Stop Overselling and Ship From the Right Place
+June 26, 2026
+How Ops, Marketing, and Customer Care Do More With AI Agents
+June 24, 2026
+The Spree Commerce CLI: Get More Done With Less Busywork

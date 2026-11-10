@@ -1,0 +1,117 @@
+Pick fonts that
+demand
+Attention.
+Text makes up 80% of your UI, the rest are white spaces. The right font doesn't just display information—it shapes perception. Choose the perfect font, and turn casual visitors into loyal customers.
+Try now
+Powerful browser extension for all your font needs
+Fonts
+Get now
+Typography is an art
+anyone can perfect with
+the right tool.
+Try it
+Typography defines
+Your brand
+A website isn't just about colors and layouts, it's also how you present the information
+to your visitors, Typefaces and fonts plays a key role.
+It can tell a lot about you and your brand.
+However, it can be hard to test and pick a
+good typeface for your website without preview.
+Don't believe me? Highlight some text on this page and preview it with different fonts to see the difference for yourself. You'll be surprised!
+Highlight a text in this page and pick a font from dropdown
+Please open this website in a chromium
+based browser such as Chrome, Edge etc to try this tool.
+https://font-tester.foxcraft.tech
+This extension will soon be available for other browsers such as
+Firefox and Safari.
+Try on test site
+Everything you need
+to perfect typography
+Live preview
+Easily preview fonts on any webpage. If your design and final output look different, Font Tester ensures an accurate, real-time preview. Instantly apply fonts, tweak styles, and see the results live.
+FONT LIBRARY
+Font tester comes with pre-installed 1500+ Google fonts, so you can test
+them easily without having to constantly switch between the Google fonts page and
+your development work
+Custom fonts
+Want to test a custom fancy font on your website? Simply upload it to Font Tester and preview it on any site instantly. The best part? Nothing is uploaded to the cloud—everything stays on your local machine.
+Live Compare Fonts
+Most people spend several hours testing fonts and finally giving up out of frustration.
+Font tester's Live compare allows you to instantly preview and compare multiple fonts at once avoiding you
+the frustration of testing them one by one.
+Make it yours
+Hear it from people you trust
+Filip Brocke
+I’ve only just started using it, but I already love it and bought the pro version to support the developer. Very useful and easy to use, does exactly what it promises.
+Muhammad
+The extension is amazing. Highly recommended for people who have hard time choosing font for their projects.
+Inkko
+Super useful for testing fonts! Really love how easy it is to try out different styles before committing to a design. The interface is simple and intuitive, making it a great tool for quickly experimenting with typography. Definitely a must-have for designers and developers!
+Alison Eyo
+Oh thank God for this! Just spent 2 hours last week doing the whole download-test-delete dance with fonts for a client project. The fact I can test right on the actual website instead of Figma mockups is chef's kiss.
+Manuel Sánchez
+Pretty useful! It helps test different fonts to decide which one would fit better, supernice!
+Jorge Alcántara
+Simple and useful, what all product should be!
+Pricing to get your visitors to
+Pay you attention
+Simple features, for pro features and to support open-source development, get a lifetime license.
+Select from 1500+ google fonts
+Find font family on any webpage
+Generate and copy CSS code
+Filter fonts by family
+offer ends soon
+$29
+$19
+Forever
+Pay once, support open-source and use all the premium features forever. Activate upto 3 devices
+Everything in free
+Commercial use
+Upload and test custom fonts
+Preview fonts on dropdown
+Compare fonts side-by-side
+Add to collection (upcoming)
+Adjust font-size and colors
+Letter spacing and underline spacing
+Free updates
+Dark mode
+Use Pro
+Want a free pro license?
+Share it
+Use Cases
+Deciding fonts
+Tired of checking if the font works for your website and brand?
+well easily test them on live website and pick the one that's the
+most impactful
+Google fonts
+Preview, test, and compare 1500+ Google Fonts on your website—no need to open Google Fonts. Get the perfect look and generate the CSS instantly.
+Rebranding
+Easily refresh your website by testing new fonts, even without a Figma file. This tool lets you preview different typography styles instantly for a fresh look.
+Demo fonts
+Effortlessly involve your client in the design process and showcase how different fonts appear on their website.
+Type designers
+Test your custom fonts and check how they appear on different websites and find an ideal audience.
+Workshops
+Design and type workshops can leverage this tool to effortlessly show how different types affects the overall design and ascetics of the brand.
+Faq
+what is Font Tester?
+Font tester is a chrome extension that allows you to test 1000+ fonts on
+any website live.
+How can I apply font to the entire page?
+You can press ctrl+a or cmd+a to apply to the whole page
+Where can I test different typography?
+You can use this test
+Halloween site
+Can I find the font on a webpage?
+Yes, you can use the target tool to find the font on the webpage
+Can I try the extension for free?
+Yes, the chrome extension is free to use forever, however to support
+open-source development, some features are only available to premium users.
+Is Safari, Edge and Firefox addons available?
+The Safari, Edge and firefox addons will be available for premium users when released.
+If you purchase a license, you'll be notified when its released.
+Have more questions or want to collaborate?
+Contact us
+Blogs
+Pick fonts without breaking your head
+Get Font Tester

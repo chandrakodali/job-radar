@@ -1,0 +1,9 @@
+Minimax H3 Lite and Highspeed are 50% until end of year
+This goo was created with a model on Replicate: andreasjansson/plasma
+We're bringing AI to every software developer.
+AI can do extraordinary things, but it's still too hard to use.
+We don't believe AI is inherently hard. We just don't have the right tools and abstractions yet.
+We're building tools so all software engineers can use AI as if it were normal software. You should be able to import an image generator the same way you import an npm package. You should be able to customize a model as easily as you can fork something on GitHub.
+Read more about what we're doing and why on our blog.
+Join us
+Find our available positions on the Cloudflare careers page .

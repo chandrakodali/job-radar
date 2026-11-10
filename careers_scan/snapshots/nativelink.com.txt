@@ -1,0 +1,21 @@
+Careers
+We are making a small team bigger .
+We build the open source remote build cache and execution platform, and we are growing. If you love build systems, low latency, and Rust, we would like to meet you.
+See open roles Start with the code
+Open roles
+Come build with us.
+Our current openings are below. We are growing, so more roles, in more places, are on the way.
+Member of Technical Staff
+Hiring
+London · In-office
+Operate large clusters and own real systems end to end. Strong Go and Kubernetes, a love of build systems and low latency, and an interest in Rust. Safety-critical or aerospace experience is a plus, not a requirement.
+Read the full description →
+How we hire
+Start with the open source project.
+Our best hires came to the open source project, found a bug, and fixed it. That is the strongest signal we know of, and it is the best way to reach us. Before you message us, head to the repository and find something you like. We will help you get started, and improving our contributor onboarding is itself a much appreciated contribution.
+We prioritize a love of build systems, low latency, an interest in Rust, and experience with Rust or C++. None of it needs to be on a resume: it can be in your commits.
+Note: recruiters will be blocked and marked as spam.
+Ship faster
+Let's build at the speed your code is being written.
+Open source. Self-host the moment your team is ready.
+Get started See pricing

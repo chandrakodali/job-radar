@@ -1,0 +1,115 @@
+About
+Home
+Features
+All Features →
+Intelligence Training
+Train by author, tag, title, and full text
+Ask AI & Daily Briefing
+AI-powered story analysis and daily summaries
+Listen
+Have any story read aloud
+Web Feeds
+Follow any website, even without RSS
+Email Newsletters
+Read newsletters in your news reader
+Full-Text Search
+Search across all your subscriptions
+Story Archive
+Every story kept and searchable forever
+Saved Stories & Tags
+Save stories and organize with custom tags
+Native Apps
+First-class iOS & Android apps, not wrappers
+Story Clustering
+Group duplicate stories across your feeds
+More Features
+River of News
+Notifications
+Text View
+Track Changes
+Themes
+Keyboard Shortcuts
+IFTTT & Zapier
+Shared Stories
+MCP Server
+CLI Tool
+Compare
+vs Feedly
+vs Inoreader
+vs Readwise
+vs Old Reader
+vs Feedbin
+Alternatives
+Feedly Alternative
+Google Reader Alt
+Open Source
+Inoreader Alternative
+Self-Hosted
+Pricing
+All Plans
+Compare every tier side by side
+Premium $36/yr
+1,024 sites, search, text view, river of news
+Premium Archive $99/yr
+Full archive, Ask AI, daily briefing, 4,096 sites
+Premium Pro $29/mo
+5-min fetching, regex training, 10,000 sites
+FAQ
+Common questions about plans and billing
+A personal news reader that brings people together to talk about the world.
+What makes NewsBlur different
+Train stories by author, tag, title, and keyword. Thumbs up what you want to see, thumbs down what you don't. NewsBlur learns what matters to you.
+iOS & Android Apps
+First-class native apps built specifically for each platform. Full training, sharing, and offline reading on your phone and tablet.
+Follow any website, even without RSS. NewsBlur generates a feed from any page, monitors it for changes, and delivers new content to you.
+Ask AI
+Ask questions about any story using Claude, GPT, Gemini, or Grok. Summarize, translate, analyze, or dig deeper into what you're reading.
+Search across all your subscriptions and saved stories. Find anything you've ever read with Elasticsearch-powered full-text search.
+Real-Time Updates
+Stories pushed as they publish with real-time notifications. Pro users get all feeds fetched every 5-15 minutes for breaking news.
+Every story archived and searchable forever. Feeds are back-filled for a complete history. Your reading archive grows with you.
+Daily Briefing
+An AI-generated summary of your top stories, delivered daily. Clusters related stories and highlights what you'd find most interesting.
+The team
+Samuel Clay
+Founder
+@samuelclay
+samuelclay.com
+samuel@newsblur.com
+Lyric
+Chief Morale Officer
+@newsblur
+lyric@newsblur.com
+The story
+2009
+Samuel wanted a better way to read the news. So he built the first version of NewsBlur almost entirely underground on the A train in New York City.
+2010
+NewsBlur launched to the public and to favorable reviews. Premium accounts launched in October, paying for NewsBlur's increasing server costs.
+2012
+After entering Y Combinator, Samuel launched Blurblogs, the iPad and Android apps, and better intelligence training. Samuel and his dog Shiloh celebrated with champagne and biscuits.
+2013
+Google sunsets Reader and thousands of users flee the dying giant. NewsBlur becomes one of the top contenders for the successor to the RSS throne, offering sustainability and longevity by charging cash American dollar for premium accounts.
+2026
+NewsBlur continues to evolve with AI-powered features, daily briefings, and intelligence training that gets smarter over time. Still independent, still open source, still built for readers who care about the news.
+Built with
+Server
+Django
+Celery
+Elasticsearch
+MongoDB
+PostgreSQL
+Redis
+Node.js
+Client
+jQuery
+Backbone.js
+Underscore.js
+View on GitHub
+Contact us
+A new sound of an old instrument.
+API
+iOS
+Android
+GitHub
+Support
+The Blog

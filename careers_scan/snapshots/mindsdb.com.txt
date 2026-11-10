@@ -1,0 +1,76 @@
+Careers
+Build open AI products with us.
+We’re a remote-first team working on agent harnesses, model routing,
+and data access. Much of the underlying code is open source.
+See open roles About the company
+Why MindsHub
+What working here involves.
+What you’ll work on
+Open-source agent software, model infrastructure, and the product
+around them. The work ranges from distributed systems to user-facing
+workflows.
+How we work
+We write decisions down, protect time for focused work, and keep teams
+small. Most collaboration is remote, with company off-sites during
+the year.
+What we look for
+People who communicate clearly, take ownership, and change their mind
+when the evidence changes. We care more about what you have built
+than where you studied.
+Inside MindsHub
+Meet the team.
+Short videos about day-to-day work, company off-sites, and why the
+founders started MindsDB.
+Working at MindsHub
+Team members describe their day-to-day work.
+MindsHub offsites
+A few times a year the whole company gathers in person.
+Meet the founders
+Why Jorge and Adam started the company, in their own words.
+Perks & benefits
+Benefits.
+The exact package depends on your country and employment arrangement.
+Remote-first
+Work from North America, Europe, the Middle East, South America, or Asia Pacific. Hybrid work is available near our offices.
+Flexible schedule
+Set working hours that fit your role, team, and time zone.
+Unlimited PTO
+Take the time off you need. Managers are expected to make sure people use it.
+Compensation and equity
+Competitive salary and equity in the company.
+Medical, dental, vision (US)
+Full coverage for US employees; equivalent regional plans elsewhere.
+Mental-health support
+Counseling and employee-assistance benefits are included.
+Personal-development budget
+Use it for books, courses, and conferences.
+Home-office budget
+Buy the chair, monitor, and other equipment you need to work well.
+Company off-sites
+Meet the team in person a few times each year.
+Reasonable accommodations
+We make adjustments to interviews and roles when candidates or teammates need them.
+Equal-opportunity employer
+We consider candidates on their work, judgment, and potential.
+Wellbeing budget
+Use it for a gym, therapy, equipment, or another wellbeing expense.
+Hear from the team
+From the team.
+An international, remote team. Flexible working and supportive culture. Growing company, so opportunities for development and promotion.
+Abi · Head of HR, People & Culture
+Great team, great open-source product.
+Zoran · Engineering
+I joined at the beginning of the journey, and the main reason was a belief in the mission and vision the founders had. That’s still why I’m here.
+Costa · Marketing
+Open roles
+Ask about current openings.
+We hire across engineering, product, design, marketing, and
+customer-facing roles. Tell us what kind of work you are looking for
+and include links to work you have shipped.
+Get in touch Contribute on GitHub
+Strictly necessary
+Required for the site to work and to remember your privacy choices. Always on.
+Analytics
+Marketing measurement
+Click-ID attribution to ad platforms (Google, X, LinkedIn) and identified events so we can measure ad performance.
+California, Virginia, Colorado, Connecticut, Utah, and other US state privacy laws give you the right to opt out of the “sale” or “sharing” of your personal information for cross-context behavioral advertising. We don’t sell your information for money, but we do share identifiers with our advertising partners to measure ad performance. You can opt out here. This also turns off optional website analytics.

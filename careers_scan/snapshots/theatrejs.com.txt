@@ -1,0 +1,69 @@
+Powerful motion design
+in the browser
+Theatre.js is a javascript animation library with a professional motion design toolset. It helps you create any animation, from cinematic scenes in THREE.js, to delightful UI interactions.
+Get started with Theatre.js
+Iterate with ease
+Block out your sequence in seconds with our cutting-edge sequence editor. Use presets to add quick flare. When you are ready, dive into the graph editor and fine-tune every frame.
+Dope sheet
+Graph editor
+Easing presets
+Code vs plus Art
+It is not either/or. Create in code, perfect in the browser — best of both worlds.
+Outline
+Property editor
+Create your own workflow with extensions
+Theatre.js is extensible. Move the camera around for the perfect shot. Adjust lights. Tweak shaders. With official extensions, or tools of your own.
+Custom UI
+Custom tools
+Custom workflows
+Theatre.js works with any stack!
+Have a custom THREE.js setup? Wrote your own WebGPU library? Theatre.js works with all of that. All it does is change JS variables. It is up to you what you do with them.
+7700 GitHub Stars
+We are building in the open. Join us in creating the animation tools of the future! →
+Karan Ganesan
+@karanganesan
+@theatre_js is the best thing happened to the world of animation on the web since the days of Flash games in the web. Reminds me the “Inventing on principle” talk by @worrydream. Super excited to build things using it.
+Amazing work @ariaminaei @AndrewPrifer and team.
+Diego F. Goberna 🏠
+@feiss
+These are the kind of things that the web misses from the end of Flash. So happy to see something like this happening.. Thank you, really smart and neat!!
+Susanna Wong
+@studioswong
+This looks amazing - reminds me of the good (very) old days into my first foray into 3D with flash (and then later on with Rhino), of course with the exception that this is all ran on the browser 🤯 - another witness to how far the web has come! #ibelieveinweb #webdevelopment
+David Hoang
+@davidhoang
+Incredible work by the @theatre_js team—one of the best implementations of visual manipulation directly in code.
+@0xca0a
+looks like theatrejs was released today 🤩 it's not just any other editor, it links your code to in-app gui tools in a way i haven't seen before.
+grant
+@GrantCuster
+The approach to bridging code and direct manipulation here is really interesting. Libraries you can add to get GUI tools to generate animations you can then bake into the app.
+Francois Laberge
+@seflless
+Theatre.js just launched on Product Hunt, I think we’re about to see their animation tool everywhere! It’ll be in all the cool 3D web demos and general web-based story telling.
+FRANK
+@frankgoertzen
+@theatre_js reminds me of the early years of the internet, where you could do a "wish search" and sometimes find exactly what you wish existed. #magic
+Vince
+@1stfloor
+I can’t remember being so excited for a ‘tool” to be released. This looks amazing, and I can see amazing things being created with it. Wow!
+Theatre.js
+Theatre.js is a design tool in the making. We aim to blur the line between designer/developer, author/consumer, and artist/scientist.
+Get started with
+React Three Fiber
+THREE.js
+HTML/CSS/SVG
+Docs
+Overview
+Concepts
+Getting started
+Manual
+API
+Community
+Twitter
+Discord
+GitHub
+Company
+Jobs
+Blog
+Contact

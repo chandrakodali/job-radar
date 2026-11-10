@@ -1,0 +1,7 @@
+Careers
+At Artillery we are working hard to build better tools for running fast, reliable, and resilient production systems .
+Our flagship product makes it easy to load test anything, at any scale. It’s open-source and cloud-native (the first of its kind!) Thousands of engineers around the world use Artillery every day to help them ship systems that scale. See more on our GitHub at artilleryio/artillery .
+We are a small remote-first team with backgrounds in product design, SRE, and quality engineering at companies like Auth0, Evervault, DAZN, and Conde Nast.
+We are backed by Y Combinator , Boldstart Ventures , Essence , Firestreak , and a few current & former founders of developer tooling companies.
+Open positions
+No open positions right now

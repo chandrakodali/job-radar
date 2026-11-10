@@ -1,0 +1,84 @@
+Quantity Takeoff
+Every division, quantified from the set.
+All-division quantity takeoff read directly from the drawings — sitework through finishes and MEP — organized by CSI division and traceable back to the element it came from.
+General contractors
+Estimators
+Developers
+Owners
+Schedule Private Demo See the platform
+Why it matters
+What changes when the work is connected.
+Days of measuring, done overnight
+The measuring, counting and tabulating that fills an estimator's week is the part a machine should do — so your estimators spend their time on pricing, scope and risk.
+Complete scope, not just the big items
+A takeoff that covers every division catches the scope gaps that turn into change orders: the divisions nobody had time to quantify before the bid was due.
+Traceable to the drawing
+Every quantity points back to the elements and sheets it was measured from, so you can audit a number instead of trusting it.
+Capabilities
+What AutoSitu does for you here.
+All-division coverage
+Roughly fourteen working divisions across sitework, structure, envelope, interiors and MEP — so a set produces a complete quantity picture rather than a few trades.
+Element-level quantities
+Areas, lengths, counts and volumes derived from the building and site elements themselves — walls, slabs, openings, finishes, fixtures, paving, utilities and earthwork.
+Organized the way you estimate
+Quantities are grouped by division and by system, with level and area breakdowns, so they drop into your estimate structure instead of fighting it.
+Floor-by-floor and area breakdowns
+See quantities per level, per building and per phase, which is what makes scheduling, buyout packages and progress billing straightforward.
+Scope and buyout gaps
+Beyond quantities: where the documents are ambiguous, where scope is undefined, and where an assumption is carrying risk into the bid.
+Buyout and bid packages
+Turn division quantities into trade packages so subcontractors bid the same defined scope — and so you can compare their numbers against yours.
+Rerun on the next issue
+When a revised set lands, run it again and compare. Quantity deltas by division are the fastest way to understand what a design change actually costs.
+Auditable output
+Export structured quantities with their source references for your estimating system, your owner, or the record on a change-order conversation.
+How it works
+From upload to a decision you can defend.
+Step 01
+Upload the set
+Architectural, structural, civil and MEP drawings as issued. No modeling, tagging or manual markup step first.
+Step 02
+Elements get read
+AutoSitu builds a structured understanding of the building and site — elements, assemblies, levels and areas — from the documents themselves.
+Step 03
+Quantities by division
+Measured quantities are compiled by CSI division and system, with level and area breakdowns and the source reference for each figure.
+Step 04
+Estimate, package, buy out
+Take the quantities into pricing, split them into trade packages, and rerun on the next issue to see exactly what changed.
+Coverage
+Divisions covered
+Organized on CSI MasterFormat so quantities land in the structure your estimating team already uses.
+Sitework & structure
+02 — Existing conditions and demolition
+31 — Earthwork, excavation and backfill
+32 — Exterior improvements and paving
+33 — Site utilities
+03 — Concrete
+04 — Masonry
+05 — Metals
+Envelope & interiors
+06 — Wood, plastics and composites
+07 — Thermal and moisture protection
+08 — Openings: doors, windows, glazing
+09 — Finishes
+10 — Specialties
+Mechanical & electrical
+21 — Fire suppression
+22 — Plumbing
+23 — Heating, ventilating and air conditioning
+26 — Electrical
+Equipment and conveying scope as documented
+65M+
+Elements and quantities analyzed
+$6.4B+
+Construction scope reviewed
+25,000+
+Developments analyzed
+FAQ
+Questions answered.
+Further reading
+Compare takeoff tools with the AI construction takeoff guide
+One project. One evolving source of intelligence.
+Every solution runs on the same project model, so the work you do here carries forward into everything that follows.
+Schedule Private Demo

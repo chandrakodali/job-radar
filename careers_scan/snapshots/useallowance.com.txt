@@ -1,0 +1,19 @@
+Founding Engineer
+Digital purchases are a $1.5T market. A meaningful share of that will be driven by AI agents. We're building the payments infrastructure for that shift.
+Right now there's no good way for an AI to make a purchase. People paste card numbers into chat, create virtual cards with arbitrary limits, or just stop and do it themselves. We're building the right layer: set a limit, lock it to a merchant, your AI handles the rest.
+The app is live and people are using it. This is a new primitive for how software transacts. You'd be joining as the first engineer on the team — helping define how we build from here.
+What you'll work on
+Agent experiences that take a purchase from conversation to checkout without guesswork
+Eval and reliability infrastructure that gets smarter as more agents use the product
+Multi-channel experiences — push, SMS, and wherever approvals actually need to happen
+Integrations with payment networks, cloud browser providers, and merchant systems
+You'll work directly with me. No layers.
+Who we're looking for
+You're a technically strong, customer-driven AI engineer who has shipped products people use and can show them. You have strong product judgment, a bias to action, and care as much about the customer experience as the code behind it.
+You have experience building AI products in production — ideally agent workflows, conversational experiences, or evaluation and reliability systems — and are excited to make them trustworthy enough for customers to use with real money.
+You're comfortable operating with ambiguity and moving quickly in an early-stage environment.
+Payments or fintech experience is a plus, not required.
+Reach out
+Email dasmer@useallowance.com
+Send an email
+← Back to home

@@ -1,0 +1,60 @@
+The mission
+Self-driving businesses .
+Every business on MadeThis runs itself. The agent writes the code, ships the product, answers the customers, and spends the ad budget. Your job is the platform that makes that true at scale, for the people whose livelihoods now depend on it.
+Open roles
+4 open
+What you'll do
+Own core platform systems end to end: the agent runtime, billing, deploys, the storefront fleet.
+Scale infrastructure that runs tens of thousands of live businesses, each with real customers and real revenue.
+Work directly with the founders. No layers between you and the decisions.
+You might be a fit if
+You have deep expertise in a business function you've worked in before, like finance, marketing, sales, growth, or product, and you can build.
+Or you're a deep infrastructure engineer who wants their work to reach real businesses the same day it ships.
+Data or ML experience is a plus.
+What success looks like in your first 30 days
+Shipped or improved features driving a $1M+ lift in platform revenue.
+Dozens of PRs merged and running in production.
+Evolved our software factory so the agents that build our customers' businesses produce measurably higher quality code.
+Saved MadeThis millions by optimizing infrastructure spend.
+Apply for this role
+Embed with one enterprise customer and own the outcome, from the first audit to a working AI employee.
+Build their company brain: connect the tools, model the workflows, train the agent on their best people.
+Work on-site. You're the face of MadeThis inside their walls.
+You're a strong generalist engineer who likes shipping inside someone else's world.
+You can sit with a CEO in the morning and debug a pipeline in the afternoon.
+You want ownership of a customer, not a queue of tickets.
+Sourced, closed, and implemented a mid-market or enterprise deal worth $60k in annual contract value.
+Built repeatable systems from that first deal so the next ones close and deploy faster.
+Own evals, agent architectures, and model strategy end to end.
+Run the loop from research experiments to production systems.
+Build the research function. You're its first member and its leader.
+Set the technical direction toward fully self-driving businesses.
+You have deep hands-on experience with LLM agents, evals, or applied ML research.
+You measure your work by what ships, not what publishes.
+You're comfortable being the entire research org on day one.
+Stood up the eval suite that tells us whether an agent change made the fleet better or worse.
+Landed a model or architecture change in production and measured its effect on real businesses.
+Written the research roadmap the next hires will run against.
+Source, run, and close the enterprise pipeline.
+Define pricing, positioning, and the sales motion with the founders.
+Write the playbook every rep after you will run.
+You've closed six-figure-plus deals, ideally as an early or first sales hire.
+You're technical enough to demo an AI product credibly on your own.
+You'd rather build the machine than inherit one.
+Worked the pipeline that's already forming and put your first enterprise deals into the funnel.
+Run a full demo on your own, with no engineer in the room.
+Shipped the first version of the pricing and positioning you'll sell against.
+How we work
+Small team
+Three people run the whole company. You'd be one of the first hires, and it will show in everything you own.
+High ownership
+You take a problem, you own it to production, and you own it after. Nobody hands you a spec.
+No layers
+You work directly with the founders. Decisions happen in the room, the same day.
+Incredibly fast
+We ship daily to 30,000 live businesses. The distance between an idea and a customer using it is hours.
+Interested? Just write to us.
+Skip the cover letter. Send us the best thing you've built and a few lines about why this. A link beats a résumé.
+founders@madethis.com
+now hiring
+est. 2026 · SF

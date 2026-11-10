@@ -1,0 +1,11 @@
+loading robot…
+ROBOT CONTROLS
+SEGMENT
+BEND
+LIGHT
+RESET
+Segment 01 Base
+Select a segment. Hold an arrow to bend.
+Segment 1 selected — base.
+CONTACT
+founders@nuumrobotics.com

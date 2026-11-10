@@ -1,0 +1,81 @@
+Join the Tuta team
+Become a freedom fighter! We bring online privacy and confidentiality to everyone. For a better web. One where privacy is the default.
+Open Positions
+Customer Support
+on-site in Hannover
+Software Engineer (Full Stack)
+Software Engineer Backend/Full-Stack
+on-site in Munich
+Your Future Workplace
+Mission
+Hi, we are Tuta, the most secure email and calendar service. Our mission is to bring privacy to the world and to enable everyone to store and mange their data in the cloud with zero tracking. For over a decade, we have developed our product and built strong ties with privacy and open source communities.
+Our service is used by millions of people around the world and we have been profitable since 2016. We are now in the process of turning our secure email service into a quantum-safe encrypted platform, and therefore want to grow our international team. Our aim is to present an alternative to Big Tech and to make privacy simple and accessible for all.
+Meet Our Team
+Tuta is a company of passionate freedom fighters from over ten countries. Together, we are on a mission to show the world that protecting privacy can be simple.
+We are an international team closely working together at our offices in Hannover and Munich, Germany, with English being our main work language.
+We value a variety of backgrounds and life experiences in our team, and we celebrate a diversity of ethnicity, culture, gender, and sexuality. We embrace diverse perspectives and seek self-motivated individuals.
+Team Players
+We enjoy working together in our offices in Hannover and Munich as much as possible. We believe that being together in one location is much more efficient and also more fun. Nevertheless, we offer flexible and family-friendly conditions to meet your individual situation. We also take on working students from time to time (we don't offer relocation in this case).
+Our software developers generally work in pairs, which has many advantages including catching mistakes early and spreading knowledge amongst the team. We use Extreme Programming (XP) to quickly deliver new features and improvements to our users. Important decisions are discussed as a team, so everyone can have a great influence on the development of Tuta.
+Love Hannover and Munich
+Tuta is proud to call the beautiful cities Hannover and Munich its home.
+Hannover is a middle-sized city in Germany with a relatively affordable cost of living, yet with a very high living standard. You have different parts of the town with nice parks and lakes, nightlife locations, multicultural areas and also the "Eilenriede", one of the largest urban forests in Europe. Hannover is also well located as it is not far from Hamburg, Berlin or the North and Baltic Sea, as well as having some beautiful forests and mountains nearby.
+Munich , sometimes called "The Village of One Million", is located close to the beautiful Bavarian Alps in southern Germany. Being in fact the third largest city in Germany, Munich has a lot to offer. From cozy beer gardens, good restaurants, and nice parks and lakes, all the way to theaters, great architecture, vibrant nightlife locations, and various sports activities. Leaving the city in the south opens the door to a wide range of beautiful mountaineering and natural activities.
+Benefits
+A high level of personal responsibility in a growing team
+Family-friendly and flexible working conditions
+A transparent, non-discriminatory salary
+An open company and feedback culture
+Ergonomic workplaces
+with a view of greenery and water (Hannover)
+with a small office garden (Munich)
+Fresh fruits, nuts, and coffee in the office
+Company fitness: Hansefit
+Tuta is fighting for freedom of speech, and against mass-surveillance online. You will be a part of an important movement with a meaningful and influential role.
+Fair pay
+Everyone at the same professional level earns the same pay regardless of factors like ethnicity, gender, and age.
+Our fair salary model is based on factors that can be measured for everyone, such as education and professional experience. This means that there is no longer any salary negotiation, but an automatic salary increase that we recalculate every year.
+Tools
+We primarily use Typescript for our client code and Java in the backend. We also use Kotlin for Android, Swift for iOS, and some other languages (e.g. Rust) here and there.
+The IDEs of our choice are WebStorm and IntelliJ.
+Jenkins is our continuous integration servant.
+We use git as version control system. You can inspect our open source client code here .
+We collect all important information in our Confluence wiki.
+Application Process
+Application review
+We review your application to get an initial impression and pre-select candidates. We might ask for additional information during this phase via email or schedule a short call with you.
+Task (SW development jobs)
+We ask you to solve one or two tasks that match the work you would be doing in our team to see how you approach them and to get an idea of your programming skills.
+Interview
+We invite you to our office or to a video call with some members of our team, so we get to know each other better and see if you are a good fit for our team.
+Work together
+We invite you to our office for a one day session during which we work together on our daily tasks to get a final confirmation for both you and us that you are the perfect addition to our team.
+Our values
+Honesty
+We value an open and honest work environment as honesty is the basis of trust. We share and discuss mistakes openly and transparently, without judgement from others.
+Courage
+We encourage open communication, and share our thoughts and ideas. We believe that courage drives innovation and progress.
+Respect
+Tuta is made up of a diverse group of individuals. Therefore, we are inclusive and respect each other and their opinions.
+Appreciation
+We appreciate each other’s work, ideas and accomplishments. Because appreciation of each other’s achievements serves as a good motivation.
+Interview with Valentin, software developer at Tuta. He explains why privacy matters to him, how we work at Tuta and how he pictures the future of the internet.
+Apply now!
+We are looking forward to meeting you!
+Just send us your resume, preferably from a Tuta account of course.
+You can sign up for a free one here.
+In order to streamline our application process, please include the following information in addition to any other information or documents you think we should know about in your application email to us:
+Where you first saw our open position
+Your CV
+The status of your work permit in case you are not an EU national
+If applicable, your latest university degree certificate
+If your degree is newer than 4 years, an overview of subjects and grades
+Your preferred start date
+We believe that working together in one location is much more efficient and even more fun. You apply for a position on-site in Hannover or Munich, which involves a relocation if you do not live near that city. Will relocation be necessary for you?
+Why would you like to work with us at Tutao specifically?
+If you're applying as a Software Developer: The Tuta clients are written in Typescript, with some native parts for the mobile and desktop apps and the backend is written in Java. So we are interested in your experience with these programming languages. Can you describe some projects which you have done in Typescript/Javascript and Java?
+Data privacy notice :
+Your application contains personal data that we protect in accordance with the GDPR. We use your application data only
+for processing your application. We store your application data up to three months after conclusion of the application
+procedure for legitimate interests pursued by the controller (Art. 6 GDPR 1. f) in order to process potential
+objections.

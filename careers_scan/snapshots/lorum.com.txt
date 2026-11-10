@@ -1,0 +1,38 @@
+Our thesis
+Today we are sold that global payment systems are broken, that only workarounds can provide a truly real time payment. We believe this is wrong - that the participants in the existing system are just wrongly incentivized.
+Clearing is a specialist function. It doesn’t belong with lenders whose business is built on interest rates. When clearing is subordinated to balance-sheet priorities, settlement slows and certainty drops. The same financial institutions that distort clearing as providers are disadvantaged as users. They are forced into fragmented setups, inconsistent rails, duplicated compliance, and unpredictable timelines.
+We believe clearing should be built directly on scheme by specialist financial institutions created purely to move money and manage treasury, who don’t hold on to your payments for liquidity or overnight rates, who are built to serve other financial institutions as a correspondent.
+What we solve
+Lorum has rebuilt the clearing stack from the ground up - providing correspondent clearing and treasury services for global financial institutions, through local rails and named accounts.
+Through local licensing and direct payment scheme access, clients can open named customer accounts in every market we operate, collect funds, and pay out locally through a single network while retaining ownership of their customer relationships and products.
+Market expansion should be as simple as one correspondent relationship, not hundreds.
+Institutions choose Lorum to gain global reach with institutional controls
+One relationship
+One relationship for local named client accounts, clearing, and treasury across multiple markets
+Regulatory coverage
+Regulatory coverage and account structures available from day one in each supported corridor
+Real time visibility
+Real time visibility into balances and flows for treasury and operations teams
+Governance
+Bank grade governance, reporting, and audit trails
+Lorum leadership
+George Davis
+CEO, co-founder
+James Smith
+CTO, co-founder
+Hartwig Gerhartinger
+Chief Compliance Officer
+Max von Both
+Chief Operating Officer
+Yasmin Bayat
+Chief Revenue Officer
+Brian Hand
+Chief Financial Officer
+Why institutions choose us
+Institutions choose Lorum to gain global reach with institutional controls.
+Real-time visibility
+Footprint and regulation
+We obtain and maintain the licences needed to provide clearing, account structures, and safeguarding in each market we serve.
+Careers at Lorum
+We build financial infrastructure used by institutions. If you work in payments, banking, or treasury and want to work on global infrastructure, visit our careers page.
+Join us

@@ -1,0 +1,67 @@
+Building the best developer experience on planet earth
+Learn more about why Pydantic exists
+Why we started Pydantic
+Driven by curiosity, frustration and coffee.
+“I started working on Pydantic out of a mixture of frustration that type hints do nothing at runtime and curiosity as to whether they
+could be used to validate data.
+Turns out I was right (or lucky) and with Pydantic's crazy growth, the maintainers behind it now get to build other products with the same
+principles – that the most powerful tools can still be easy to use.”
+Samuel Colvin,
+creator of Pydantic @samuelcolvin
+Our roots
+Serious about the open source community. Then, now and always.
+Years in open source
+Published on PyPI
+1bn+
+Monthly downloads
+60k+
+GitHub stars
+Across our open-source projects
+Pydantic 28.4k
+Pydantic AI 18.9k
+Monty 8.0k
+Logfire 4.4k
+The Pydantic Open Source Fund
+For too long the open source ecosystem has been taken for granted. We're proud to be part of the movement to change that. Pydantic is a member
+of the Open Source Pledge and supports individuals whose work the whole ecosystem depends on.
+Committed to OpenTelemetry
+Logfire is built on OTel from the ground up and the Pydantic team is actively involved in the community and standards development. Not just
+users but invested participants.
+Proudly backed by
+Our team
+Meet the people behind Pydantic
+Rachel Peplow
+Learn more about the team behind Pydantic
+Careers
+Want to build developer tools that are loved the world over?
+From our open source projects to enterprise solutions, we're building tools where the developer experience is our north star. If that sounds up your
+street, we'd love to hear from you.
+A few good reasons to join us...
+Make your mark
+Help set the agenda, not just implement it—your ideas won't get lost in bureaucracy. Your contributions have the potential for outsized impact on this team.
+Lead
+We seek people who are opinionated and knowledgeable, and who are excited to design both the application and the way we build frontends.
+Work with great people
+Pydantic's widespread recognition means we've been lucky enough to hire some of the best Python and full stack developers in the world.
+Work remotely
+We're a remote-first company, although we get together in person roughly once a quarter for a week — usually abroad.
+Build developer tools
+We think there's nothing more fun to develop than tools for developers (we hope you agree).
+Open roles
+We're currently hiring for the following roles
+Security Operations Engineer Fully remote Operations View role
+Staff Software Engineer, Agent Sandboxes Fully remote Product owner and team lead for Pydantic's agent sandboxes: the Monty interpreter and the managed service that runs it View role
+Senior Growth Marketer Fully remote Marketing View role
+Pre-Sales Solutions Engineer Fully remote Logfire View role
+Principal Product Manager, Observability Experience Fully remote Logfire observability experience View role
+Agent Infrastructure Engineer Fully remote Logfire — AI Agents & Sandboxes View role
+Evals & Continuous Learning Engineer Fully remote Logfire — Evals & Continuous Learning View role
+Observability Experience Product Engineer Fully remote Logfire product engineering View role
+Principal DataFusion Engineer Fully remote Logfire — Data Store View role
+Principal Software Engineer Fully remote Logfire — Observability Ingest View role
+Senior Harness Engineer Fully remote Pydantic AI View role
+We're always on the look for exceptional talent, if that's you and you can't see the right role
+Email us
+Explore Logfire.
+Sign up
+Explore our open source packages

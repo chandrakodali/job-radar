@@ -1,0 +1,83 @@
+Announcing Hatchet v2 & our $5.7M seed round →
+Use Case
+Effortlessly run background jobs
+Hatchet enables you to run background jobs at scale. Hatchet’s engine implements a performant, push-based scheduler which can handle thousands of runs per second across hundreds of workers.
+Get started Read the docs
+Feature
+Simple and composable
+Background tasks are simple functions. Write idiomatic TypeScript, Python, or Go (no DSLs, no YAML). Trigger tasks from anywhere in your application, and compose them into more complex workflows as your system grows.
+send-email
+# Background tasks are simple functions
+@hatchet.task(input_validator=EmailInput)
+async def send_email(
+input: EmailInput, ctx: Context
+) -> EmailOutput:
+result = await send_to_user(
+input.user_id, input.template
+return EmailOutput(delivered=result.ok)
+# Enqueue from anywhere in your app
+send_email.run(
+EmailInput(user_id="1234"),
+wait_for_result=False,
+// Background tasks are simple functions
+export const sendEmail = hatchet.task({
+name: 'send-email',
+fn: async (input: EmailInput) => {
+const result = await sendToUser(
+input.userId, input.template
+return { delivered: result.ok };
+});
+// Enqueue from anywhere in your app
+await sendEmail.runNoWait({ userId: '1234' });
+sendEmail := client.NewStandaloneTask(
+"send-email",
+func(
+ctx hatchet.Context, input EmailInput,
+) (EmailOutput, error) {
+result, err := sendToUser(
+input.UserID, input.Template,
+if err != nil {
+return EmailOutput{}, err
+return EmailOutput{Delivered: result.OK}, nil
+sendEmail.RunNoWait(
+ctx, EmailInput{UserID: "1234"},
+Durable by default
+Most background task systems are built on top of a durable messaging layer (like Redis or RabbitMQ), but after tasks complete, they’re purged from the system.
+Hatchet is different. The entire queue is durable , which means that every task is preserved on the queue, not just while it’s in-flight.
+queue
+worker
+no history
+completed tasks purged
+task history · durable
+A traditional queue only keeps in-flight tasks, but purges them after completion or retry exhaustion.
+Observable
+Every task run in Hatchet is queryable through an API and a web UI. Each task provides a full execution trace, preserved input and output data, and associated logs .
+execution trace
+input · output
+logs
+run · 8f3a2c
+ingest parse embed store
+in · 2.4 kb
+out · 18.2 kb
+> parse ok · 142 pages
+> embed failed · retrying
+> embed ok · attempt 2
+> store ok · 142 chunks
+run · 1c96e4
+in · 1.1 kb
+out · 6.4 kb
+> parse ok · 36 pages
+> embed ok · 36 vectors
+> store ok · 212 ms
+Every run exposes inputs, outputs, retries, traces, and logs, all from the API and dashboard.
+Horizontally scalable
+Hatchet can handle hundreds of simultaneously connected workers , each with hundreds of slots . Hatchet uses a lightweight messaging layer implemented over gRPC. Each slot is virtualized, which means supporting tens of thousands of slots adds very little overhead.
+Run your background jobs on Hatchet.
+Stop rebuilding queues and start shipping features.
+pricing
+Start for free — no credit card required
+throughput
+Processing 170 million tasks/day on Hatchet Cloud
+license
+Open-source and self-hostable
+start for free → talk to us

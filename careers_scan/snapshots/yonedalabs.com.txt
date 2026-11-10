@@ -1,0 +1,33 @@
+New: Symeres and Yoneda Labs Use AI to Optimize Cross-Coupling Reactions
+Read more →
+About Yoneda Labs
+At Yoneda Labs, we use state-of-the-art lab automation to run hundreds of organic chemical reactions a week.
+Using this experimental dataset, we plan to create an AI model that will be able to predict high-yielding
+reaction conditions for organic reactions without any wet-lab experimentation.
+Lab Technician
+Full-time Position
+Responsibilities
+Ensure the day-to-day running of our wet lab
+Prepare powders and stock solutions to feed to our robots
+Maintain the lab equipment
+Analyze HPLC-MS and NMR results using our semi-automatic pipeline
+Troubleshoot unexpected challenges that show up in our wet lab (e.g. purify impure compounds that we receive from suppliers)
+Help set up a bigger wet lab
+Help shape the overall chemistry strategy of Yoneda
+About Us & What We Offer
+We are an early-stage startup — currently a team of 3 friends in their 20s with backgrounds in Chemistry
+and Computer Science — and we hope to build datasets and models that will revolutionize how organic synthesis is done.
+Apart from a fast-paced startup environment, we offer an interesting job at the intersection of Chemistry
+and Data Science in a well-funded lab. As we are a small team without a strongly defined structure, you
+will be able to work on what you're best at without any unnecessary internal meetings or reports, helping
+to define the direction and success of the company.
+Compensation: Competitive salary and equity, plus full health, medical, and dental insurance.
+Skills & Qualifications
+As a candidate, you should:
+Have experience working in an organic chemistry lab
+Be able to work independently, and proactively solve any (unexpected) experimental problems
+Bachelor's or higher degree in chemistry
+Interested in applying?
+If you're interested in applying or just learning more about Yoneda Labs, please feel free to email
+michal@yonedalabs.com
+or schedule a call to learn more about the role.

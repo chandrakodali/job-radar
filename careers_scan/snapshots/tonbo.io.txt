@@ -1,0 +1,29 @@
+Careers
+██████████████████████████
+▀▀████████████████████████
+▀▀████████████████████
+▀██████████████████
+█▄ ▀████████████████
+▀██▄▄ ▀████▀█████████
+▀████▄▄ ███▀▀█▄██████
+▀▀████▄▄█ ███▀▀▀
+██▄▄▄▄ ▀▀█▀ ▄██▄
+< Join Discord > < Share use case >
+We're Tonbo IO Inc., founded in Fall 2023. We believe real-time analytics has never been
+more valuable or accessible for agile and creative teams — yet the data infrastructure
+they need is still missing. We're not building just one product, but a full data stack
+that makes it easy to build data-intensive functions — flexible and scales to zero.
+You can check out our open-source work here: https://github.com/tonbo-io . We're working hard to turn these ideas into products that deliver out-of-the-box value.
+We are looking for:
+are excited by new trends in data processing
+can quickly evaluate potential solutions, break down tasks, and deliver value
+communicate clearly and collaborate closely with others
+If you are interested in any of the positions, please send an email to
+[email protected] .
+Product Engineer
+Build intuitive data / visualization services on top of our open-source analytics
+engine with our database engineers.
+Full-time Remote
+Database Engineer
+Work on our open-source analytics stack and help turn it into a serverless, real-time
+analytics database service with our product engineers.

@@ -1,0 +1,89 @@
+Contact us Book a call
+The agentic OS for medical labs.
+Lab software redefined for the agentic era.
+Book a call See a demo
+Backed by Y Combinator
+Every service line. One OS.
+Surgical, cytology, and molecular today. More on the way.
+Surgical pathology
+Grossing, histology, and sign-out on one case.
+Cytology
+Cytotech screening for Pap and non-gyn.
+Molecular
+Molecular tests ordered, run, and reported.
+Soon
+More in the pipeline
+New service lines are on the way.
+01 Accessioning
+OCR reads the requisition.
+Every field on the page is read, matched to your records, and filed into the case.
+Requisition · S26-04118 Reading
+Patient
+Matched
+Client
+Provider
+NPI valid
+Payer
+Part A
+Part B
+02 Grossing
+Hands-free grossing.
+Speak while you cut. The voice table fills in your lab's own wording.
+Skin shave biopsy · Part A Listening
+Size
+Color
+Ink
+Lesion
+Sectioning
+Cassettes
+03 Embedding
+Every block accounted for.
+Scan a cassette and the block knows its case, its part, and where it goes next.
+Embedding station S26-04118
+Shave, on edge Waiting
+Punch, bisected Waiting
+04 Microtomy
+Pathologist requests, handled.
+Levels, recuts, and IHC land in the histotech's queue the moment they're ordered.
+Requests from Dr. Chen 4 open
+Levels ×3 · A1 Rule out residual BCC Open
+SOX10 · B1 Atypical junctional melanocytes Open
+Deeper recut · B2 Lesion not in plane Open
+Unstained ×2 · B1 Hold for send-out Open
+05 Staining
+Know where every slide is.
+See each slide move from queued to staining to stained, without walking to the stainer.
+Stain status 0 of 8 stained
+A1 · L1–L3 H&E Queued
+B1 · L1 H&E Queued
+B1 · L2 SOX10 Queued
+B2 · L1–L3 H&E, deeper Queued
+06 Assembly
+Smart Assembly.
+Voquill balances cases across your pathologists and makes sure every slide is accounted for.
+07 Pathology
+Agentic sign-out.
+Talk through the case. Voquill fills in every part of the report as you speak.
+Report · Part A Dictating
+Diagnosis
+Microscopic
+Margins
+Comment
+Signed
+08 HL7
+Interfaces that build themselves.
+An agentic interface engine that builds each client's interface for you, so onboarding a new client is easy.
+See the interface engine →
+Routing · S26-04118 Rendering report
+EHR
+Lakeview · ORU^R01 Queued
+Fax
+Dr. Chen's office Queued
+Portal
+Patient PDF Queued
+Billing
+88305 ×2 · charges Queued
+One case. Every bench. One system.
+See Voquill Lab run on your own cases.
+Book a demo
+About Careers Contact Lab desktop app Platform

@@ -1,0 +1,34 @@
+Careers at Clidey
+Help us build what's next.
+Take a problem from idea to production and own the outcome, on a technical team where your decisions matter.
+See open roles ↓
+About us
+Infrastructure for the modern data stack.
+Clidey builds infrastructure for the modern data stack. Our flagship product, WhoDB, is an open-source data platform that lets teams connect, explore, and understand their data without giving up control of it.
+We're an early stage, small, technical team. We're looking for engineers to help us build what's next.
+What we look for
+01 Curiosity You want to understand how things actually work, not just how to use them. You investigate, benchmark, and question assumptions instead of taking them at face value.
+02 Ownership Getting something to 90% is easy. You care about the last 10%: edge cases, errors, performance, security, tests, docs, and what happens six months later.
+03 Accountability You don't need to be managed. If something breaks, you fix it and figure out why. If you're wrong, you say so.
+04 Skepticism You don't believe something just because someone said it, including us. You form opinions from evidence, not authority.
+05 Directness You can say "I think this is wrong, and here's why," and hear the same back. No ego, no politics.
+06 A builder's habit You've made things outside of work: a side project, an app, a CLI, an open-source contribution. You like building for its own sake.
+HOW WE WORK
+We're based in the UK / European time zone and work closely together. We'd rather have a 10-minute conversation than a 14-message Slack thread, so we stay in overlapping hours instead of working fully async.
+THE INTERVIEW
+We care more about how you think than how many technologies are on your CV. Expect to talk through things you've built, decisions you've made, and how you debug and learn unfamiliar systems.
+COMPENSATION
+Competitive salary and meaningful equity, based on experience and fit.
+Open roles
+APPLICATIONS CLOSE NOV 15
+THE ROLE
+This isn't a ticket-execution role. You take a problem from idea to production and own the outcome. That means understanding it, designing the solution, building it, testing it, deploying it, and finishing it.
+Go TypeScript React Kubernetes AWS / GCP PostgreSQL Distributed systems
+You don't need to know all of these. You need to be able to learn fast.
+YOU'LL LIKE THIS IF + You'd rather build than talk about building + You enjoy difficult problems and figuring things out from first principles + You want real ownership on a small team where your decisions matter + You have interests outside of technology + When you say something's done, you mean it's actually done
+PROBABLY NOT FOR YOU IF − You need to be told exactly what to work on − "My PR merged" feels like "the problem is solved" to you − You take technical feedback personally − You've never built anything outside a work assignment
+If you're the kind of engineer who sees a problem and thinks "I'll figure it out," send us your CV and, more importantly, show us something you've built. Apply →
+Don't see your role? Tell us what you'd build.
+Careers
+Show us what you’ve built.
+Send your CV link and a project you’re proud of. The Clidey team will review your application.

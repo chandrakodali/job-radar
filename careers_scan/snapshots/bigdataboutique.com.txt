@@ -1,0 +1,202 @@
+ClickHouse Monitoring & Optimization Tips
+Read More
+RAG with OpenSearch: A Crash Course for Building RAG Applications 📺
+Careers at BigData Boutique
+At BigData Boutique, we believe in empowering talented individuals to tackle unique challenges with data platforms at scale. We’re looking for passionate experts like you to join our world-class team and make a real impact.
+By joining us, you'll have the opportunity to work on diverse projects, from data warehouses and search engines to streaming analytics and complex distributed systems. You'll collaborate with Fortune 100 companies and innovative startups, solving extreme challenges and building cutting-edge solutions.
+At BigData Boutique, your expertise will drive success for our clients while you grow and develop your skills in a supportive and dynamic environment. If you're ready to take on exciting challenges and be part of a team of exceptional engineers, we want to hear from you.
+Interested? Let's talk. E-mail us at hiring@bigdataboutique.com .
+Available Positions
+Elasticsearch Support Engineer
+Full-time, Remote, Anywhere
+Data Engineer (Spark)
+Full-time, Remote
+Big Data Engineer
+Backend (JVM) Engineer
+Full-time, Israel
+Sales Development Representative
+Director of Alliances and Customer Relations
+Full time, Israel
+Marketing Lead — Data Infrastructure & Search
+Contract / Full-time, Remote, Global
+Software Engineer - Data oriented (Mid-Level)
+Full-time, Rehovot, Israel (Hybrid)
+AI-First Marketing Executionist
+Full-time, Remote, Global (English-speaking)
+We live and breathe Elasticsearch, the Elastic Stack, and OpenSearch as well. We are looking to add a team member who is passionate about search, data and analytics, and knows Elasticsearch well.
+This role is fully remote and highly flexible.
+What you will do:
+Help our customers maintain and improve their Elasticsearch and OpenSearch infrastructure.
+Solve complex search, information retrieval and analytics problems on a daily basis.
+Get to the bottom of sophisticated issues.
+Make a difference in mission critical systems at large organizations and startups alike, world-wide.
+What you are:
+Highly experienced engineer, hands-on and love it.
+Problem solver and can-do attitude, who gets things done.
+At least 3 years experience with Elasticsearch as an engineer or DevOps (not just a user).
+Good learner and self-motivated.
+Deep Java knowledge - advantage.
+Open-source experience - a huge advantage!
+We are looking for a strong Data Engineer with Apache Spark / Databricks experience to join our growing team of builders. You will be working with Fortune 100 companies and startups alike to build and improve their modern data platforms at huge scales.
+Help our customers grow and scale their Big Data infrastructure.
+Solve complex data and infrastructure problems on a daily basis.
+Innovate and use bleeding-edge technologies and methods in the data space.
+Be an active part of building innovative solutions involving Big Data technologies, Clouds and complex backend systems.
+At least 3 years experience in Java (including Kotlin and Scala).
+Proven experience with Apache Spark and / or Databricks.
+Experience with Delta Lake, Iceberg, Apache Flink, AWS - advantage.
+We are looking for a strong BigData engineer to join our growing team of doers. You will be working with Fortune 100 companies and startups alike to build and improve their modern data platforms at huge scales.
+At least 3 years experience in Python and Java (including Kotlin and Scala).
+Proven experience with at least 2 of the following: Kafka, Elasticsearch, Apache Spark, MongoDB, Flink, Presto/Trino, Kafka streams, ClickHouse.
+Proven experience with at least one public cloud (Google Cloud or AWS preferred).
+Familiarity in Docker and Kubernetes.
+Experience with orchestration tools like Airflow, Dagster, etc. - advantage
+We are looking for a backend engineer familiar with the Java / JVM ecosystem to join our growing team of builders of Big Data platforms. You will be working with Fortune 100 companies and startups alike to build and improve their modern data platforms at huge scales.
+Help our customers build and scale their Big Data platforms.
+Write interesting and sometimes challenging Spark and Flink jobs in Java / Scala / Kotlin
+Have at least 3 years of experience working as a backend developer, data engineer or similar role.
+Proficient in JVM-based programming languages such as Java, Kotlin, or Scala.
+Have strong understanding of language fundamentals including class loading, garbage collection, memory management, parallel processing, and multithreading.
+Have experience working with Linux environments and SQL databases.
+We design and create platforms and products designed to reduce the friction in various BigData and Search operations.
+As a Business Development Representative at BigData Boutique, you will...
+Fall in love in our products, and spread this love forward to potential customers
+Build a targeted list of accounts and leads
+Help create the messaging for different personas on the different platforms
+Generate a pipeline of meetings and opportunities through outbound efforts
+Use omni-channel approach to generate sales qualified meetings - Linkedin, cold calls, emails, etc.
+To be a Business Development Representative at BigData Boutique you need...
+A strong desire to grow your career in sales
+Highly organized and able to work in a fast-paced quota driven environment
+At least 3 years of any customer-facing experience
+Fluent English – Mandatory (read/write/speak)
+Excellent communication and interpersonal skills
+Motivated by individual and team achievement as well as able to operate under minimal supervision
+BA/BS degree or equivalent practical experience
+As our business is growing, we need a dedicated person to build, grow and maintain strong relationships with our customers and partners. As such, we are seeking a talented individual who will be responsible for fostering partnerships with both our customers and strategic partners such as AWS, Google and more.
+This role is founded on understanding customers’ needs, the modern data ecosystem and solutions that optimizes the customer value.
+The primary accountability is generating business growth through scouting partners, growing existing partnerships, and being intimately familiar with existing customers and their requirements.
+The position is full time, and fully remote.
+In this role, you will...
+Maintain and expand current partnerships to grow impact on the business and create additional customer value.
+Work with partner teams from all around the world to generate new business, innovate on lead acquisition, marketing and more.
+Develop and enhance the client relationship with assigned partners to build engagement strategies to increase revenues for both Kramer and the Alliance Partners
+Manage post-sale activities with existing customers to enrich their experience and deepen the mutual commitment.
+Serve as the focal point for escalation for issue resolution with the Strategic Partners, and work with the internal functions to solve any issues.
+Requirements:
+B.A. degree or equivalent – a must.
+Native Hebrew speaker, perfect English.
+Technical background in the software, cloud or data space.
+Entrepreneurship, can-do attitude, and result orientation.
+Attention to detail and problem-solving skills.
+Excellent communication and interpersonal skills.
+Motivated by individual and team achievement as well as able to operate under minimal supervision.
+BigData Boutique helps engineering teams run search, vector, and modern data systems in production — Elasticsearch, OpenSearch, ClickHouse, PostgreSQL and the data platforms around them. We act as expert consultants, build and optimize production systems, and create solutions that redefine the space.
+We're looking for a dedicated marketer: a hands-on operator who can take deep technical work and turn it into content and demand that engineers actually trust.
+This is an execution role, not a management role. You'll own the marketing function end to end and ship the work yourself — with real autonomy and a direct line to the founders.
+What you'll do:
+Own our content engine — technical blog posts, guides, and case studies that rank and get shared in engineering circles
+Run AEO and SEO end to end, from keyword strategy to on-page to measuring what moves
+Build lightweight, fast and effective demand gen — email, landing pages, the occasional webinar or campaign
+Turn our engineers' expertise into published, credible material (you interview, you write, you ship)
+Own the numbers: traffic, pipeline, and what's working — reported simply and honestly
+You'll fit if you:
+Have marketed a technical product or service to developers or data/infra teams
+Fast learner, curious and energetic.
+Can bend AI to your will, you are good with agents and also with people
+Write well enough that engineers don't roll their eyes
+Are a full-funnel doer who's comfortable owning outcomes without a team beneath you
+Can point to work you personally made that produced results
+Fully remote, any timezone with a few hours of European overlap. Contract / full-time.
+To apply: send two links to technical content you wrote and one line on the result it drove. Skip the cover letter.
+At Big Data Boutique, we are at the forefront of modern data infrastructure. We specialize in providing cutting-edge software and architecture solutions, and optimization services for complex data environments. Our mission is to ensure that our clients' data operations are seamless, scalable, and resilient.
+Whether it's managing high-throughput analytical engines or fine-tuning traditional relational databases, we are the experts that companies turn to when their data needs to move at the speed of business.
+As a Software Engineer, you will be a key contributor to our core engineering team, building and maintaining the tools that power our data operations platform. You won't just be writing scripts; you will be designing robust backend systems that interact with diverse database technologies; and often interact with data platforms powering Fortune 100 success stories.
+Key Responsibilities:
+Develop, test, and maintain high-performance Python applications and APIs.
+Monitor, manage, and optimize data flows.
+Harness GenAI to your will - use it in a smart way to become more efficient, and build tooling and agentic systems to automate workflows.
+Collaborate with DevOps and Data Engineers to troubleshoot complex performance bottlenecks.
+Contribute to the automation of data pipelines and infrastructure management.
+Participate in code reviews and architectural discussions to ensure high code quality and system reliability.
+Minimum Requirements:
+Experience: At least 2+ years of professional software development experience with Python.
+Database Foundations: Proven understanding and hands-on experience with at least one transactional database system (e.g., PostgreSQL, MySQL, SQL Server).
+Core Skills: Strong command of Pythonic principles, asynchronous programming, and RESTful API design.
+Problem Solving: A methodical approach to debugging and a drive to understand "under the hood" mechanics.
+GenAI Ready: Open minded mentality, ready to learn new things and leverage GenAI tooling and mindset without hampering quality and accuracy.
+Major Advantages:
+OLAP & Search Engines: Experience with ClickHouse or Elasticsearch is highly valued.
+Database Internals: Deep knowledge of database engine internals and query optimization.
+Nice-to-Have Skills:
+Expert Tuning: In-depth experience in performance tuning for MySQL or PostgreSQL (e.g., indexing strategies, configuration optimization, execution plan analysis).
+Infrastructure: Familiarity with Docker, Kubernetes, or cloud-native data services.
+Entry-Level / Student-Friendly
+We're looking for someone smart, curious, fast-moving, and unusually comfortable figuring things out.
+This is not a traditional junior marketing role.
+We already have an established software business, a marketing strategy, positioning, content ideas, campaigns, and a long list of things we want to execute. What we need is someone who can turn plans into output , using AI aggressively to move faster, learn faster and produce more than would traditionally be expected from an entry-level marketer.
+You don't need years of marketing experience. Students and recent graduates are welcome.
+What matters much more is that you have an agile mind, strong execution instincts, good taste, and a hunger to learn.
+What You'll Do
+You'll work closely with experienced founders, marketers, and technical people to execute our marketing plans across multiple channels.
+Your work may include:
+Turning ideas and rough briefs into LinkedIn posts, articles, newsletters, landing pages, and other content
+Researching topics, markets, competitors, customers, and trends
+Creating and iterating on marketing campaigns
+Helping produce visual content, diagrams, presentations, short videos, and other creative assets
+Updating and improving website content
+Repurposing existing material into different formats and channels
+Supporting product launches, events, webinars, and campaigns
+Experimenting with new distribution channels and marketing formats
+Maintaining marketing calendars and making sure things actually get shipped
+Measuring what works and improving future execution based on the results
+Finding new ways to use AI and automation to make the marketing operation faster and better
+A big part of the job is simply seeing something that needs to happen and making it happen .
+AI Is Part of the Job
+We expect you to use AI constantly. ChatGPT, Claude, image generation, research tools, automation, coding assistants, video tools and whatever comes next should become extensions of how you work.
+You won't be expected to already know every tool. You will be expected to explore them, learn quickly, and continually improve your workflow.
+The goal isn't to have AI do mediocre work for you. It's to use AI to increase what a talented, motivated person can accomplish, while applying your own judgment, creativity, taste and critical thinking.
+Who We're Looking For
+You might be a great fit if you:
+Learn extremely quickly
+Are naturally curious and like figuring things out
+Are comfortable starting with an incomplete brief
+Can take ownership rather than waiting for detailed instructions
+Write clearly and communicate well
+Have strong attention to detail
+Have good visual and editorial taste
+Enjoy technology and experimenting with new tools
+Are comfortable receiving feedback and iterating quickly
+Care about getting things published, launched, and finished
+Are ambitious about becoming exceptionally good at what you do
+You do not need to be an expert marketer today. We're much more interested in your trajectory than your resume.
+Especially Interesting
+Any of these are a plus, but none are mandatory:
+You already use ChatGPT, Claude, or similar AI tools extensively
+You've built side projects, communities, websites, newsletters, social accounts, or small businesses
+You enjoy writing
+You have experience with Canva, Figma, video editing, or image-generation tools
+You understand software, startups, developers, or B2B technology
+You've experimented with automation or no-code tools
+You know a little HTML, CSS, JavaScript, or Python
+You have examples of things you've created, even if they weren't created professionally
+What This Role Is Not
+This isn't a role where you'll spend six months watching someone else do marketing before you're allowed to contribute.
+It also isn't a role where success means attending meetings and moving tasks between columns.
+You'll be given context, guidance, access to experienced people and extensive help from AI, and then you'll be expected to produce real work that goes into the world .
+Why This Role Could Be Interesting
+Marketing is changing quickly, and someone entering the profession today shouldn't be trained to work exactly like a marketer did five years ago.
+This role is an opportunity to learn how to build an AI-native marketing operation from the inside , combining human judgment, creativity, strategy, technology and AI-assisted execution.
+If you're early in your career but believe you can learn ridiculously fast when given the right environment, we'd like to hear from you.
+How to Apply
+Don't worry about writing a formal cover letter.
+Tell us:
+Who you are and what you're currently doing.
+Why this role sounds interesting to you.
+How you currently use AI.
+Something you've created, launched, written, organized, or figured out that you're proud of.
+One example of a marketing idea you would be excited to try for a software company.
+Students are absolutely welcome to apply.
+Subscribe to Monthly Newsletter
+Keep up-to-date with important changes in big data technologies;
+discover new features and tools for your business.

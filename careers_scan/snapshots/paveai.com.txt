@@ -1,0 +1,16 @@
+Careers
+Open Positions
+Data Scientist - San Francisco/Remote (US-only)
+Do you use Pandas to solve real-world analysis and solutions? Do you not read the latest “14 ways to improve your Google Analytics data” blog post because you already know everything that’s in it? And know that the article would be useless with the new Google architecture?
+If you answered “yes” to these questions, we want to talk to you about joining the Pave Data Science team. We are a fast paced company, making Google Analytics accessible and meaningful to everyone.
+We believe that one great data scientist is better than ten good data scientists – in fact, we pride ourselves for it. You will be involved in analyzing and building unique models for some of the largest agencies and brokerages to small businesses. You will work on all aspects of the design, development and delivery of machine learning enabled solutions using Pandas & Tensorflow, including problem definition, data acquisition, data exploration and visualization, feature engineering, experimenting with ML algorithms, evaluating and comparing metrics, deploying the models, iteratively improving the solution, and building the tools and libraries to streamline this process.
+Qualifications
+Background in Computer Science, Electrical Engineering, Statistics, Physics, Mathematics, Operations Research or equivalent technical field.
+Demonstrated expertise in Pandas and Tensorflow, with at least 1+ years’ experience for real-word data analysis
+Demonstrated expertise in Google Analytics, Google Tag Manager, and Google Webmaster Tools
+Knowledge of machine learning and data mining techniques in one or more areas of statistical modeling methods, text mining, optimization, information retrieval.
+Software development skills in one or more of Python, Rust, C++.
+Email us your resume at CAREERS@PAVEAI.COM
+Terms
+Privacy
+team@paveai.com

@@ -1,0 +1,26 @@
+Careers
+Join our team at Pesto and help make credit more accessible for everyone
+Join Our Team
+Senior Software Engineer
+PingLend, Inc. · McLean, VA · Remote (anywhere in U.S.)
+Senior Software Engineer.
+Responsibilities
+Focus on DevOps and with a secondary focus on building out PingLend's backend infrastructure and interfacing with the front-end team.
+Responsible for designing and implementing software features in a platform agnostic environment with a primary focus on automation of infrastructure deployment (i.e. “DevOps”), client-server interaction, and data modeling & analysis.
+Build software tools to enable continuous integration and continuous deployment software lifecycles.
+Responsible for design and implementation of major product features and functionality (i.e. web development).
+Build log collection and data analytic tools for monitoring, analysis, and insight.
+Test and examine code written by others and analyze results.
+Build and maintain the CI/CD processes using Github.
+Deploy and manage new development tools and infrastructure.
+Work with other software developers and software engineers to ensure that development follows established processes and works as intended.
+Develop software to integrate with internal back-end systems.
+Design procedures for system troubleshooting and maintenance.
+Remote Position - ability to work anywhere in the U.S.
+Requirements
+Requires a Bachelor’s degree in Computer Science, Computer Engineering or a related field plus 3 years of IT experience, which includes 3 years of experience with each of the following: Developing cryptographically secure transactional ledgers with multi-phase commit protocols for distributed systems; Designing and implementing smart contracts for tokenized assets and collateral management on blockchain platforms; Developing complex software systems with distributed architectures and implementing continuous integration and deployment (CI/CD) pipelines for efficient software delivery; Developing and building scalable backend solutions using Docker, and deploying on Kubernetes; Configuring and managing advanced Cloudflare services, including Workers, Zero Trust policies, and security measures for DeFi applications; and Implementing custom monitoring and telemetry tools for log collection and real-time analytics. Salary $160,000/year. Apply directly at https://www.jobpostingtoday.com/application/26511/apply and reference Job # 26511.
+Compensation
+$160,000/year
+Apply
+Apply Now →
+Reference Job # 26511

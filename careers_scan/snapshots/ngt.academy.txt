@@ -1,0 +1,61 @@
+Log in
+See if you qualify
+The blueprint NGT's founder used to break into a 6-figure IT career
+Get the book
+Here's what's actually happening:
+AI is replacing some tasks. But AI is also creating massive new demand for the people who build, run, secure, and maintain the infrastructure it depends on.
+Cloud networks
+Data centers
+Security operations
+The systems AI runs on. These roles aren't going away. They're scaling up.
+NGT trains for the roles on the demand side of that shift.
+Not the supply side.
+"Will AI Replace My Job Before I Even Get One?"
+It's the question every career changer is asking right now. And it's the right question to ask.
+IT Infrastructure Jobs Keep Growing
+Four Reasons IT Infrastructure Jobs Keep Growing
+AI Needs Networks
+Every AI application runs on networks that need to be designed, deployed, and maintained. The more AI scales, the more network engineers are needed.
+AI Creates New Attack Surfaces
+AI systems introduce new security risks — model theft, prompt injection, data poisoning. Cybersecurity professionals are on the front lines of protecting AI, not being replaced by it.
+AI Demands More Data Centers
+The AI boom is driving the largest build-out of data center capacity in history. That build-out needs people who understand networks, systems, and security.
+Foundational Skills Are More Valuable, Not Less
+As AI changes how work gets done, the people with strong technical fundamentals — networks, systems, security — become the ones companies trust to deploy and maintain AI-driven infrastructure.
+WHAT YOU LEARN AT NGT
+The Foundation
+Every IT Career Is Built On
+AI doesn't run on AI. It runs on networks, servers, and security systems built and maintained by skilled IT professionals. NGT teaches the foundational skills that every AI-driven company needs and that employers are hiring for right now.
+Networking fundamentals
+Security fundamentals
+Hands-on lab experience
+Real-world technical problem solving
+Industry-recognized certifications
+Why This Matters in the AI Era
+Every AI deployment — every chatbot, every autonomous system, every model running in production — runs on infrastructure that needs people to design, operate, and protect it. That's the work NGT trains you for.
+coming soon
+Coming soon
+Zero to AI Engineer
+NGT is developing a new career track called Zero to AI Engineer, built on the same hands-on, skills-first approach as our existing programs.The track is in development. We'll share more details — including curriculum, certifications, and timeline — as it gets closer to launch.
+Is This the Right Path
+for You?
+NGT's approach is designed for people who want to build a long-term career in technology — not chase the latest trend.
+You're likely a good fit if:
+You want a career in tech but are worried about AI replacing entry-level jobs
+You want to learn practical skills, not just theory
+You're willing to put in 10-20 hours per week of focused training
+You're a career changer looking for a path that offers long-term stability
+Trust
+10,000 people
+‍have already made this move
+10,000
+students trained since 2016
+4-6
+months average time to job-ready
+$129K
+median U.S. cybersecurity analyst wage ( BLS, 2025 )
+Ready to start
+your journey?
+Speak with a Career Advisor and choose the program
+that’s right for you.
+Book a call

@@ -1,0 +1,28 @@
+Careers at RxDB
+RxDB is a database that runs in the browser and on the phone. Apps built with it keep working without a network connection and sync once the connection is back. RxDB is an open source project used by developers all over the world, and we are looking for people who want to build things, not just collect credit points. The working student positions are in Stuttgart, Germany 🇩🇪. The sales position is fully remote.
+Your work is public
+Everything you build is open source. Your commits, videos and name are out there for every future employer to see.
+Real users from day one
+RxDB runs in production at many companies around the world. What you ship gets used.
+Responsibility, not busywork
+You get a topic that is yours, and the freedom to decide how to solve it. Coffee runs are not part of the job.
+Who uses RxDB
+Venice.ai, an AI platform with more than 3 million users, streams the answers of its AI straight into RxDB.
+At Nutrien, machine operators in an underground mine use an RxDB app to report conditions at the mineface.
+Readwise stores tens of thousands of articles and books per user with it, on every device.
+WooCommerce POS builds a point-of-sale system with it that runs as a web, desktop and mobile app from a single code base.
+myAgro, which helps more than 250,000 small farmers in West Africa buy seeds and fertilizer by mobile phone, manages its data with RxDB.
+MoreApp, SafeEx and WebWare send inspectors and technicians out with it, including to places without a network.
+A large Australian construction group checks quality on its building sites with it.
+A startup that builds counter-drone systems uses RxDB.
+MongoDB and Supabase are official partners.
+Working Student (m/f/d) Developer Experience, Frontend
+You write code for the RxDB core. It ships in the next npm release and runs in apps that real companies use every day. No internal tool, no slide deck, no ticket that nobody reads.
+17 € per hour, 10 to 20 hours per week, on site in Stuttgart, Germany 🇩🇪
+Read the full advert
+Working Student (m/f/d) Developer Experience, Video and Social Media
+You own the RxDB video channel. Idea, camera, edit, upload. You decide what works, you see the numbers, and you get the freedom to try formats that nobody else in the database space is doing.
+B2B Sales Representative (m/f/d), Developer Tools, Remote
+You find and win the companies that build their apps with RxDB. Most of them are in the USA. You talk to CTOs and lead developers, understand what their app needs, and show them how RxDB Premium and our consulting solve it. You earn commission on every deal you close.
+Freelance, commission based, fully remote, sales in English
+Docs Sync Storages Premium Support

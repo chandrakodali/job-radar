@@ -1,0 +1,12 @@
+Join our team
+We’re building the infrastructure that lets AI understand video.
+Cloudglue is a small, fast-moving team building developer APIs that turn video and audio into structured, searchable data. We handle the hard infrastructure - transcription, visual analysis, search, extraction - so developers can build on top of video without managing ML pipelines themselves.
+If you like shipping real systems, owning problems end-to-end, and working close to both the product and the infra, you'll probably feel at home here.
+Open Roles
+Research Engineer
+Advance our core video understanding models - multimodal retrieval, visual reasoning, and audio analysis - bridging research and production.
+Founding Engineer, Full Stack
+Build and ship features across our APIs, developer dashboard, SDKs, and documentation - from frontend to backend to production.
+Founding Engineer, Infrastructure
+Design and scale the backend systems that power our video processing pipelines, search and retrieval infrastructure, and async job orchestration.
+Don’t see a perfect match? If you think you’d add leverage to the team, reach out at hello@cloudglue.dev

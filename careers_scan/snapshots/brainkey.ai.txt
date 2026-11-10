@@ -1,0 +1,14 @@
+About
+Team
+Partners
+FAQ
+Contact Us
+Log In
+AI for Brain MRI
+BrainKey is dedicated to developing AI to examine MRI scans to uncover key biomarkers and assess brain health at a biological level.
+Get Started
+Owen Philips, PhD
+Neuroscientist
+Founder & CEO
+“A personal health experience in my own family showed me how difficult it can be for anyone to understand the complex data in their medical images. We created BrainKey to build a tool that empowers people by turning that data into clear, intuitive visualizations of their own brain anatomy. It’s a personal mission for me to make this kind of information more accessible and understandable for everyone.”
+CEO and Founder of BrainKey

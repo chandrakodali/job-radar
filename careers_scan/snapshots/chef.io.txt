@@ -1,0 +1,62 @@
+We Celebrate Innovation
+Chef exists to improve the lives of IT Operators through software automation.
+View open jobs
+Our Principles
+Lead with Heart
+We serve our customers, community and each other with open hearts marked by respect, kindness, inclusion, transparency and trust.
+Tenacious Customer Commitment
+Our customers’ success is our success. We create deep, lasting customer value through our products, our people, and our knowledge. We join their struggle to build, evolve, and grow their organizations.
+Connection Create Results
+Our connections reflect our heart and competitive strength. We nurture, build, and sustain relationships across organizational, community, and industry boundaries.
+Innovate to Thrive
+We continuously learn and innovate to create exceptional outcomes. We make space for creativity. Our best innovation is done in close collaboration with our community.
+Quick Pitch
+Chef Software helps companies become fast, efficient, and secure software-driven organizations. Today, every organization delivers value through applications, such as airport kiosks, smartphone apps, or inventory systems.
+Chef provides automation capabilities to help organizations manage the complexity lurking below these apps, making it easy to deliver and maintain infrastructure and applications that are secure and compliant. We are helping industry leaders like Walmart,
+Barclays, and Ford become “coded enterprises”.
+Open at our core
+Community is the foundation of Chef. We believe that the best way to build software is in close collaboration with the people who use it, and the best way to use software is alongside those who build it. Whether you build or use Chef software, you’re a part of cultivating that community and helping it thrive!
+We celebrate and support our differences
+We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our products and our community to flourish. Chef is honored to be an equal opportunity workplace. We are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national orientation, age, citizenship, marital status, disability, gender identity, sexual orientation or Veteran status. We foster a welcoming environment.
+Awards
+We are proud of the company and the culture we are building. We continue to strive for excellence in DevOps and our community.
+Our latest awards:
+2018 BIG Innovation Award Winner
+2019 DevOps Leader of the Year
+2017 Most Innovative DevOps Solution of the Year
+2017-18 Best Cloud Automation Solution
+Since you’ve reached this far, why don’t you check out our open positions?
+Company
+Blog
+About Progress
+Leadership
+Customer Stories
+Press Coverage
+Press Releases
+Events
+Careers
+Contact Us
+Using Chef
+LearnChef
+Docs
+Webinars
+Forums
+Training
+Security
+Contributing to Chef
+Code of Conduct
+Legal
+Terms & Conditions
+Online Master License and Services Agreement
+Trademark Policy
+3rd Party Software Licenses
+Connect with us
+Chef is part of the Progress product portfolio. Progress is the leading provider of application development and digital experience technologies.
+About Us
+Media Coverage
+Offices
+Progress and certain product names used herein are trademarks or registered trademarks of Progress Software Corporation and/or one of its subsidiaries or affiliates in the U.S. and/or other countries. See Trademarks for appropriate markings. All rights in any other trademarks contained herein are reserved by their respective owners and their inclusion does not imply an endorsement, affiliation, or sponsorship as between Progress and the respective owners.
+Security Center
+License Agreement
+Do Not Sell or Share My Personal Information
+Powered by Progress Sitefinity

@@ -1,0 +1,36 @@
+Oway OS Making inefficient distribution into a competitive advantage. Juno Industrial AI that reasons over your operation and acts. IOI The common protocol for industrial systems, machines and partners. Developers Docs, APIs and MCP for building on Oway. Overview How Oway Works.
+Overview Use cases and teams across every operation that makes and moves things. Manufacturing Connect lines, plants and suppliers so production runs on one live plan. Logistics and Supply Chain Run warehouses, fleets and partners as one network. Robotics and Autonomy Give robots and autonomous vehicles the context they need to take on real work. Mining and Materials Coordinate equipment, stockpiles and outbound haulage from pit to port. Energy and Utilities Keep field assets, parts and crews moving to where they are needed. Defense and Aerospace Trace every part and supplier behind readiness. Retail, CPG and Food Keep shelves stocked and distribution centers flowing at the lowest cost to serve. Healthcare and Life Sciences Get critical supplies where they need to be, on time.
+All Research Case studies, models, benchmarks and notes. Juno AI What Juno reads, decides and how we evaluate it. The Physical Economy Has No Index Our thesis. Introducing IOI One open schema for the physical economy.
+Security
+About Our mission, team and the story behind Oway. Careers Build the systems that run the physical world. Contact Talk to our team.
+Request a Demo Log In
+Request a Demo
+See how Oway works for you.
+Request received.
+Our team will reach out shortly to set up your demo.
+Your privacy
+Strictly necessary Security, load balancing and remembering your privacy choices.
+Always on
+Analytics Anonymous measurement of how pages are used, so we can improve the site.
+Marketing Measuring campaigns. Never on when your browser sends Global Privacy Control.
+Careers
+Join Oway.
+We’re hiring across engineering, research and enterprise sales. Come build the systems that run the physical world.
+See Open Roles Life at Oway
+Open roles
+Find your role.
+Staff Engineer, IOI Protocol Design the protocol that lets machines, software, and AI agents understand the physical world.
+Engineering San Francisco, in person $220K to $280K + equity
+Senior Full-Stack Engineer, IOI Applications Build the applications that let AI see, decide, and act across the physical economy.
+Engineering San Francisco, in person $180K to $230K + equity
+Forward Deployed Engineer, Industrial Systems Connect the world's largest industrial companies to IOI, and automate what they run.
+Engineering San Francisco, 30 to 50% travel $170K to $220K + equity
+Quantitative Researcher, IOI Index Build the first real-time index of the physical economy.
+Research San Francisco, in person $220K to $320K + equity
+Strategic Partnerships Lead, Enterprise Bring the Fortune 500 onto the Internet of Industrials.
+Commercial San Francisco or Seattle $180K to $220K base, $350K to $450K OTE + equity
+Enterprise Engagement Partner Diagnose how the world's largest companies run, then automate it.
+Commercial San Francisco, in person $160K to $200K base, $250K to $320K OTE + equity
+Fleet Network Partnerships Director Bring America's fleets onto the Internet of Industrials.
+Commercial US remote, Midwest or Texas preferred $150K to $190K base, $250K to $350K OTE + equity
+Don’t see your role? Write to jobs@oway.io with what you’d build here.

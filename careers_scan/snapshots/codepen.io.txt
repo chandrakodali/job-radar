@@ -1,0 +1,45 @@
+🎧 Podcast
+448: CSS Modules is Cool Again
+Shaw and Chris talk CSS Modules, a rather old bit of technology in the CSS-in-JS category. CodePen now supports them, which took a little work because the way they process code is a smidge unusual. We use CodePen Modules (with Sass!) here at CodePen so we knew we wanted to support them, but we got […]
+Read More
+of the article "448: CSS Modules is Cool Again"
+November 10, 2026
+Chris Coyier
+Co-Founder
+447: WebMCP Rules (and We Already Have It)
+Chris & Shaw are chatting this week about the newfangled web technology, WebMCP. It involves new browser APIs like document.modelContext, meaning it needs to be a web standard, and that process is chugging along, but certainly not a done deal. That said, CodePen already has it conditionally implemented for browsers that support it, so you […]
+of the article "447: WebMCP Rules (and We Already Have It)"
+November 7, 2026
+📝 Blog Post
+Chris’ Corner: Doin’ Stuff in CSS
+The float property in CSS is old school. CSS developers used to have to think about it all the time, because it was one of the mechanisms we had for building actual layouts like side-by-side columns and stuff. Those days are gone, but it doesn’t mean float as a property is entirely dead. It remains […]
+of the article "Chris’ Corner: Doin’ Stuff in CSS"
+November 2, 2026
+446: Our Next-Generation of Feeds is Here
+CodePen has “feeds” for exploring content, like our Trending feed for showing off what’s popular lately all across CodePen, and our Following feed showing off the work of people you’ve chosen to follow on CodePen. Both of those require some fairly fancy technology to pull off! We’ve pulled this tech in-house, so we have more […]
+of the article "446: Our Next-Generation of Feeds is Here"
+October 30, 2026
+Chris’ Corner: We Heart CSS
+It warms my old heart to hear Jason Santa Maria wax poetic about modern CSS: CSS has exploded! Flexbox, grid, many kinds of viewport units, variables, and on and on. So many things we used to patch in to extend CSS or turn to Javascript for are now just part of the spec. The ease […]
+of the article "Chris’ Corner: We Heart CSS"
+October 21, 2026
+445: CodePen AI is Here
+Chris and Alex are talking this week about CodePen’s biggest release since the 2.0 drop. It’s live! We’ll be working on CodePen AI forever, since it’s a fast-changing technology that regularly adds new abilities. That sounds like a trite thing to say, but we lived it as we were building this. We started out playing […]
+of the article "445: CodePen AI is Here"
+October 20, 2026
+444: A Gosh-Dang Full-Blown Read/Write API
+Marie and Chris are on the podcast to talk about our very new v2 API. This baby (slaps the hood) can do it all. It’s complete read/write access to all your Pens, Collections, and Assets. This API isn’t hamstrung by anything, so the door is open to whatever you want to build. We’ve already seen […]
+of the article "444: A Gosh-Dang Full-Blown Read/Write API"
+October 14, 2026
+443: Image Hosting is Quite Powerful on CodePen
+We’ve made several upgrades to uploading/hosting images on CodePen lately. One change, moving to the open-source file-uploading library Uppy, was driven by business concerns. But the benefits are good for everyone: uploads are faster, and the money we saved let us increase file size limits and total storage limits on the higher PRO plans. Plus, […]
+of the article "443: Image Hosting is Quite Powerful on CodePen"
+October 6, 2026
+442: Pens are Actually Websites
+Stephen and Chris jump on the podcast to talk about our (ahem, super cool) deployment feature. Any Pen can be a website! Well, they kinda are already, but you know what I mean. If you’re a PRO user all you do is click a button and the Pen is instantly deployed at a *.codepen.app website. […]
+of the article "442: Pens are Actually Websites"
+September 30, 2026
+Chris’ Corner: Sweet Typography
+Choosing beautiful and unusual fonts and implementing them in visually compelling ways is certainly a way to stand out in this period of so many websites looking same-y. I figure it’s a good week to send some sweet typography links I’ve saved (in the form of screenshots): Notable to me: Apple has a dedicated icons […]
+of the article "Chris’ Corner: Sweet Typography"
+← Older posts

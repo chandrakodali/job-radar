@@ -1,0 +1,59 @@
+Careers
+People First
+We strive to be an inclusive community for all kind of talented and driven people looking to work on exciting projects. We encourage everybody to bring their perspectives and share them freely
+Stay Curious, Stay Ahead
+We believe that the world is changing at a rapid pace, so are the technologies. Staying ahead means picking up new trends fast and applying them in real life
+Make things change, make IT happen
+Nothing is carved in stone. We are open to your craziest ideas. Because we’re here to do things better, to make mistakes and learn from them and then do better things together
+Open positions
+Senior Ceph Engineer | Kubernetes & Rook (m/f/d, full-time & remote)
+We’re looking for an experienced Ceph Engineer to join our growing distributed team and play a key role in the design and operations of the storage infrastructure of our cloud platform – c12n.cloud
+About the Role:
+As a Ceph Engineer, you’ll be responsible for building, scaling, and maintaining highly available Ceph clusters, integrated with Kubernetes via Rook. You’ll work on real production environments used by customers across industries, ensuring the performance, reliability, and resilience of their data storage.
+You’ll collaborate closely with other engineers, DevOps specialists, and architects to deliver secure, scalable, and future-proof infrastructure solutions — all using open-source tools and platforms.
+What You’ll Do:
+Architect, upgrade and maintain tens of Ceph clusters with Rook.
+Automate infrastructure provisioning using Ansible and Helm.
+Monitor and troubleshoot performance, availability, and scaling issues.
+Collaborate with cross-functional teams to implement best practices in cloud-native infrastructure.
+What You Bring:
+5 + years of experience in DevOps, SRE, or Infrastructure Engineering
+Deep hands-on experience with Ceph in production environments at PB scale
+Knowledge of Kubernetes and particularly of Rook operator
+Excellent Linux system administration skills and scripting abilities
+Familiarity with observability tools like Prometheus and Grafana
+Fluency in English and strong communication skills
+Bonus: Experience with OpenStack, contributing to open-source projects, or working with cloud-native CI/CD pipelines
+What We OFFER:
+High degree of autonomy and flexible working hours that adapt to your lifestyle.
+100% remote work – live and work from anywhere in the world (with optional business trips to Berlin)
+26 paid vacation days per year + Christmas and New Year’s Eve off
+Option for a coworking membership in your city.
+A MacBook Pro and hardware or software you need to be productive.
+Be part of a company that contributes to the open-source ecosystem and is recognized by the OpenInfra Foundation.
+How to Apply
+We’re excited to meet talented engineers and we are looking forward to receiving your application!
+Apply now with your CV or drop us a question to [email protected]
+At Cloudification we believe in equal opportunity and we value diversity.
+We do not allow discrimination on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status or disability status.
+Senior DevOps Engineer - Openstack (m/f/d, full-time & remote)
+We are inviting a Senior DevOps Engineer to join us in the development of a private Cloud infrastructure based on Kubernetes and Openstack.
+Responsibilities include maintenance and automation of Kubernetes and Openstack services running on top; implementation of new features based on requirements and feedback as well as continuous integration and deployment to multiple regions.
+About YOU
+Experienced with Openstack and Cloud architectures (3-5 years).
+You would like to work with private Cloud, containers and distributed architectures.
+Able to manage multiple Kubernetes clusters and perform k8s upgrades.
+Always develop automation instead of doing things manually.
+Have good knowledge and experience with Python.
+Further stack includes Gitlab, Argo, Prometheus, ELK, Traefik, Terraform, Ansible, Helm, RabbitMQ, Ubuntu, CentOS.
+You are able to write and communicate well in English.
+Nice to have:
+Experience with Openstack upstream community, accepted PRs.
+Traits:
+You like diversity and enjoy working in an international, distributed team remotely.
+You love what you do and are always on the look for the next challenge.
+Independent thinking and the ability to give and receive open and direct feedback.
+Interested?
+We are looking forward to receiving your application!
+Please apply via LinkedIn page or send your application to [email protected] .
+Internship Opportunities : Due to limited internal capacity, we are currently unable to accommodate interns. We therefore kindly ask you not to submit internship applications at this time. Thank you for your understanding.

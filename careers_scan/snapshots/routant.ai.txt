@@ -1,0 +1,29 @@
+Backed by Y Combinator
+Put your AI agents to work in your customers’ systems.
+Give your agents a private connection to the apps, databases, and APIs your customers already use. Each customer decides what’s accessible and when approval is needed.
+Give your agents secure access to private systems.
+Connecting a new customer shouldn’t mean building another access layer. Reach their private systems while their team decides what your agents are allowed to do.
+Connect over MCP. Keep your agent where it runs today.
+Customers choose which systems to connect.
+Outbound-only gateways for private systems. No inbound ports.
+One place to manage agent access.
+Your customers choose which systems to connect and what agents can do. Their teams can handle approvals and inspect activity from the same dashboard.
+Make customer access part of your product.
+Connect the systems behind the workflow, give customers control, and keep your team focused on the agent.
+Your application
+Support agent
+Your code. Your runtime.
+MCP One endpoint
+Routant Private network
+Outbound gateway
+Orders database Internal API
+Inventory system Customer database
+One endpoint for customer access
+Use a single MCP endpoint to reach the resources each customer has connected and approved.
+Run agents on your own stack
+Keep your runtime and deployment setup. Routant connects it to resources inside your customers’ environments.
+Reuse the access layer
+Handle permissions and approval requests through the platform instead of implementing a separate flow for every customer.
+What’s your agent waiting to access?
+Bring us a customer workflow and the systems behind it. We’ll show you where Routant fits.
+Book a demo

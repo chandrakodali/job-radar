@@ -1,0 +1,33 @@
+Customer Outcomes
+Shipped with Flower
+Real cases from teams using Flower. Some were built independently by community champions. Others were built together with our Forward Deployed Engineering team Both paths are treated as first-class. Both end with customer ownership.
+Explore FDE
+Not sure which path is yours?
+Talk to our scoping experts, and explore the fit for your project and connect to the right person.
+Healthcare · Primary care Built with Flower FDE team
+250,000+ patients. Zero data leaving.
+The first federated chronic kidney disease study in German primary care, run with AstraZeneca across 60 GP practices.
+250K+ Patient records
+60 Practices federated
+Dr. Nicolas Conze · docport Read case →
+Finance · AML Built independently
+Federated AML across two continents.
+Banking Circle extended its European AML model to the US without letting a single transaction cross the Atlantic.
++65% Precision uplift
++25% Recall uplift
+Robert Norvill · Banking Circle Read case →
+Healthcare · Cancer research Built with Flower FDE team
+The UK's largest federated biomedical dataset.
+PharosAI is uniting tissue samples across NHS biobanks without data ever leaving the trusted research environment.
+100K+ Tissue samples
+4 UK Institutes federated
+Greg Verghese · PharosAI Read case →
+Finance · Privacy ML Built independently
+Secure aggregation, one shot.
+JPMorgan AI Research built a faster, dropout-resilient secure aggregation protocol and contributed it back to Flower.
+1 round Per client
+0 Updates leaked
+Harish Karthikeyan · JPMorgan AI Research Read case →
+Have an outcome to share?
+If you've shipped federated AI with Flower, your story belongs on this page. Champions get the headline, not a citation.
+Share an experience

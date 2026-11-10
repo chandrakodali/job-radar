@@ -1,0 +1,65 @@
+The AS Team
+Founded by behavioral and data scientists, our team authored the first large-scale AI society paper . Now we’re building the next frontier of human understanding.
+Co-founder and CEO
+James He
+James He is co-founder and CEO of Artificial Societies. At Cambridge, he researched human behaviour using data science and agent-based simulation. In 2023, James led the first peer-reviewed paper on large agent swarms that studied a society of 33,000 agents. He now guides the company’s overall deployment strategy and foundational research.
+LinkedIn (opens in a new tab)
+X (opens in a new tab)
+Co-founder and CPO
+Patrick Sharpe
+Patrick Sharpe is co-founder and CPO of Artificial Societies, responsible for its product strategy and development. He previously designed behavioural experiments and conducted customer research at ReAssure and Swiss Re’s iptiQ. That experience informs his work at AS, where he develops tools for testing ideas and understanding the choices people make.
+Co-founder and CTO
+Tom Whittle
+Tom Whittle is Co-Founder and CTO of Artificial Societies. He oversees the engineering of its simulation platform and works with the product and design teams to develop its capabilities. Before AS, Tom worked in consultancy before learning to code and working at growing startups.
+Head of Research
+Felix Wallis
+Felix Wallis develops the machine learning and evaluation methods behind Artificial Societies’ simulations. As Head of Research, his work examines how to accurately model human behaviour. Felix co-authored the first agent swarms paper with James and studied online community simulation while completing his Social Data Science MSc at Oxford.
+Forward Deployed Engineer
+Min Jung
+Min Jung is a Forward Deployed Engineer at Artificial Societies, where he helps clients use simulations to inform some of their most consequential decisions. A former Fulbright grantee and Google Policy Fellow, he has worked across AI safety and public policy and holds an MSc from Oxford.
+Founding Designer
+Jess Toudic
+Jess Toudic is the Founding Designer at Artificial Societies, responsible for its product and brand design. She studied mathematics at Oxford and spent four years in software engineering before moving into design. Before joining AS, she worked on AI interfaces including Strawberry’s agentic browser.
+Principal Client Strategist
+Linda Wei
+Linda Wei advises clients on the use of simulation in financial services, M&A and capital markets. As Principal Client Strategist at Artificial Societies, she works across research, strategy and delivery. She holds a DPhil in Experimental Psychology from Oxford and previously advised private equity firms on acquisitions, growth and exits.
+Head of Strategy and Operations
+Ayman El Mezgueldi
+Ayman El Mezgueldi is Head of Strategy and Operations at Artificial Societies, overseeing company operations, strategic initiatives and commercial partnerships. He was previously an early team member at Convergence, where he worked across finance, product and operations through its acquisition by Salesforce.
+Client Strategy Lead
+Jack Hickman
+Jack Hickman is Client Strategy Lead at Artificial Societies, specialising in corporate affairs. He works with clients to assess how stakeholders may respond to policy, communications and reputational challenges. Previously, Jack advised companies and investors at FTI Consulting and Montfort Communications, with a focus on reputation, strategy and campaigns.
+Product Engineer
+Egor Vert
+Egor Vert is a Product Engineer at Artificial Societies. He develops the company’s products and led the engineering of its new website. Before AS he worked at Brightside AI, a Swiss cybersecurity startup, where he led the development of their voice phishing platform.
+Edoardo Chidichimo
+Edoardo Chidichimo works on the application and evaluation of social simulations as a Forward Deployed Engineer at Artificial Societies. His research spans computational neuroscience and information theory, with a particular interest in the beliefs and behaviours that structure human sociality. He holds an MPhil and BA from the University of Cambridge, where he founded the Cambridge Journal of Human Behaviour, and has since completed his doctoral research at Oxford University.
+Peter Tiborcz
+Peter Tiborcz develops and deploys simulation technology as a Forward Deployed Engineer at Artificial Societies. He holds an MSc in Applied Social Data Science from the London School of Economics, and his experience includes building data pipelines, analytics systems and AI applications. At AS, he works across the technical stages of a project, from defining requirements to delivering a working product.
+Creative Director
+Fergus Inns
+Fergus Inns leads creative direction, design, and brand at Artificial Societies. He’s currently also part of the founding team of Virgin’s next venture in intercontinental rail travel, and regularly advises and works with several FTSE-100 companies on the future of design.
+Our mission
+Artificial Societies is building foundation models of human societies to inform decisions that shape the world.
+We’re an applied computational social science company that exists to unfold humanness, and help scale humanity’s ability to collaborate and innovate effectively.
+As a team, we’re proud of being great partners, great craftspeople, and great scientists. We partner side by side with our clients to apply this impactful technology, craft every moment of interaction, and bring scientific rigour and openness to our models and to every conversation.
+Humanity has spent the last ten millennia scaling the ability to collaborate and innovate, but now, our technologies are accelerating faster than our institutions, psychology, or understanding of ourselves can keep up.
+This is why we care deeply about pioneering socially intelligent technology, to bridge social science and machine intelligence.
+Impact guides our work. We help enterprises and sovereigns test decisions before they’re made, so humanity can move forward with clarity and conviction. We conduct frontier research on building socially-aligned artificial collective intelligence, so that humans and future technologies can collaborate and innovate better, together.
+We are Artificial Societies. Thank you for being part of our journey.
+Open positions
+Research
+Member of Technical Staff London
+Engineering
+ML Engineer London
+Lead Product Engineer London
+Forward Deployed Engineer London
+Growth Engineer London
+Commercial
+Founding Account Executive London, New York
+Operations
+Founders Associate London
+Where exceptional people make their unique and irreplaceable contributions.
+Get in touch: careers@societies.ai
+Book a demo
+Simulate decisions that matter.

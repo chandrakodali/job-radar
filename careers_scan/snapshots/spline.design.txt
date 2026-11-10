@@ -1,0 +1,86 @@
+New Spline Arena
+Your team and agents ,
+building and shipping in 3D
+Create interactive 3D for your websites and apps with AI.
+launch-hero
+Agent Objects Assets v12
+Type or use / for commands
+High
+Preview Edit Code
+A M Y Share Export
+A Agent is editing
+Personal Camera
+Position
+X 0 Y 0 Z 0
+Scale
+X 1 Y 1 Z 1
+Rotation
+X -22 Y 0 Z 0
+States
+Base State
+Grown
+Events
+Start
+Scroll
+Material 100
+Lighting 100
+Color F2C879 100
+Gradient 60
+Fresnel 80
+How it works
+From prompt to production in one file
+Planning the scene
+01 · Prompt
+Your agent
+Claude, ChatGPT, Cursor, Codex, or one you built. Anything that speaks MCP.
+02 · Connect
+Spline MCP
+Tools to read the scene, write to it, frame a view and look at the result. Read the setup guide .
+Agent Ana
+03 · Build
+The editor
+Every change lands as an operation in a live file. Your team sees it happen, and can undo, comment or take over.
+04 · Ship
+Everywhere
+Publish to the web, drop it into React, or run it natively on iOS and Android.
+Built with Spline
+Where ideas become
+production-ready experiences
+Mars Rover
+A Mars game with two rovers to drive across the dunes.
+Make your own
+Editor
+Everything you need to build in 3D
+Model Primitives, booleans, sculpting and 3D generation .
+Materials and light Layered materials, lights and post-processing.
+Animation and interaction States, keyframes, events and physics.
+Performance High-performance real-time 3D.
+Or ask an agent, in the editor or over MCP .
+Collaboration
+Agents build. Designers refine.
+The agent gets the scene to a first version fast. Your team picks it up in the same file and takes it the rest of the way.
+Same file The agent builds in the editor your team already uses. Nothing to import or rebuild.
+Fully editable Everything it makes is a regular Spline object: select it, restyle it, animate it.
+Back and forth Hand the next pass back to the agent, or take over by hand at any point.
+Publish
+One scene. Web, Apple and Android.
+Ship the same file to a website, an iPhone app or an Android app. Each platform gets its own native renderer, so scenes keep their interactivity and performance.
+Web WebGPU · WebGL
+Publish a link, embed the viewer, or export code for your stack and host it yourself.
+Apple Metal
+Add a native SwiftUI view to your app, or generate an Xcode project ready for the App Store.
+Android Vulkan
+Add a native view with Jetpack Compose, or build an APK or App Bundle straight from Spline.
+prompt.md
+In their words
+Why teams build with Spline
+Read story
+“ I wanted to do something really cool with 3D, really bring our brand to life, and Spline was the only tool that would let me do that. ”
+Andrew Pons Principal Brand Designer, Oscilar
+“ Before Spline, we would need a developer just to handle the 3D integration. Now designers can focus on crafting assets, and engineers don’t have to rebuild them from scratch. ”
+Zeh Fernandes Founding Designer, Resend
+“ Spline is very easy and fast to learn. The learning curve is low, even junior designers can step in and integrate 3D experiences into a Webflow project. ”
+Pavel Dergachev Founder & Creative Director, KOJI
+Start building in 3D
+Connect your agent, invite your team and ship your first 3D scene today.
+Start building Connect your agent

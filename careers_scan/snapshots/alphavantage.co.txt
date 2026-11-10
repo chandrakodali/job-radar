@@ -1,0 +1,83 @@
+Careers @ Alpha Vantage
+Process Overview
+Support Specialist
+Developer Advocate
+Software Engineer
+Refer a candidate (with perks!)
+What to expect when you apply
+The process may vary slightly depending on the role, but we want to provide some insight into what to expect once you submit your resume. Team Alpha Vantage reviews every submission that comes in for an open role. We will do our best to get back to all candidates whether or not we move forward, but due to the volume of submissions we receive, this is not always possible.
+If we think you may be a fit, we will set up a phone screen. We want to get to know you better, find out why you want to work at Alpha Vantage and what you are really excited about working on. We tell you more about the role you are applying for and answer any questions you have.
+The next step is either a technical screen or a take home assignment, depending on the role. This is a great way to test the skills you can bring to the role in a different way than we can test for in an interview. Do not be surprised if you really like this step; in fact, that is typically a positive signal.
+Once you complete your technical screen or we receive your assignment, the hiring team reviews your work and decides how to move forward based on criteria we have established for each of our roles.
+The final step is an in-person interview. During this interview we will ask a range of questions about your technical skills, your values and how you work with teams and managers. You meet people that you would work with and have the chance to ask them questions as well.
+We make decisions quickly and let you know how we decide to move forward as soon as we can. We respect your time and appreciate your investment in our process.
+Categories : customer support, customer success
+City : Boston, Massachusetts (position is remote but you must be a resident of MA)
+Employment Type : full-time OR part-time
+Alpha Vantage is a Y-Combinator backed company that is building the definitive platform for the next generation of financial market participants. Our APIs are used by a global base of developers and investors in private and public sectors. As a Support Specialist, you will spend most of your time interacting directly with our users and ensuring that they have a stellar experience with Alpha Vantage. The Support Specialist role has the potential to grow into other areas in operations, sales, and product. If you are a self-starter who is constantly curious, has strong writing skills, and is a fast learner, we want to hear from you!
+Responsibilities :
+❚ Spend the majority of your time interacting with users by email and occasionally by phone
+❚ Optimize our internal and external documentation and processes surrounding a host of products
+❚ Work closely with other teams to improve our product offerings and messaging around new products
+❚ Spend some time analyzing our processes and instigating changes to help scale our operations
+❚ Gain unique insights into how our rapidly growing global user base is using Alpha Vantage
+Minimal Qualifications :
+❚ Enjoys writing, and doing so quickly and clearly (you need to be fluent and highly proficient in English)
+❚ Enjoys talking about technical concepts, have great analytical skills, and be comfortable explaining how Alpha Vantage works to a range of audiences
+❚ Can empathize with users and quickly grasp the issues they are facing
+❚ Loves constantly learning about a challenging technical product, even if it’s a little out of your comfort zone
+❚ Enjoys leveraging data to make decisions and get to the root cause of customer needs (Experience with database querying languages such SQL is a big plus!)
+Benefits :
+❚ Competitive salary and generous stock options
+❚ Flexible work hours, work from home, and generous vacations
+❚ A high-impact role at a Y Combinator backed high-growth startup
+How to apply :
+Please send your resume to [email protected] and include "Support Specialist" in the subject line. Along with your resume, please include in the email why you want to work in this role, your background and accomplishments, any languages you are comfortable communicating in beyond English (if any).
+Please also answer the following open-ended questions: what are one or two improvements you would have made to the processes at a company or organization where you have worked? How would you assess if the change(s) was (were) successful?
+We are excited to get to know you!
+Categories : envangelism, customer success, community management
+City : Boston, Massachusetts OR telecommute
+Alpha Vantage is a Y-Combinator backed company that is building the definitive
+platform for the next generation of financial market participants. Our APIs are used by
+a global base of developers and investors in private and public sectors. As a Developer Advocate, you will establish
+strong relationships with developers around the world in a scalable way, by creating
+resources to help developers build with Alpha Vantage, including code samples, blog posts,
+and documentation. You will foster developer communities, championing their interests
+and translate their feedback into actionable product insights. If you’re passionate about connecting with developers, trying out new frameworks and
+technologies, and sharing what you’ve learned with the world, we’d love to hear from
+you.
+❚ Create momentum and drive adoption of the platform through your interactions with
+developers building applications and businesses on Alpha Vantage
+❚ Champion Alpha Vantage’s developer products in-person and online by creating
+technical tutorials, articles, and videos
+❚ Build inspiring demos, sample apps, and continuously improve the developer
+experience of our APIs
+❚ Identify strategic partnership opportunities to grow our developer community
+❚ Influence the direction of our developer products by gathering insights from our
+developer community
+❚ You are creative, communicative, clever and empathetic
+❚ You are well versed in one or more of the following languages or frameworks: Ruby, Python, PHP, Java, Node, Go, .NET, Excel VBA, Google Sheet Scripts, iOS, Android
+❚ You are skilled at communicating technically complicated topics simply and elegantly
+❚ You have created compelling technical content (API documentation preferred but not required) and multi-media assets that make developers smile
+❚ Ergonomics and hardware of your choice
+❚ Flexible work hours, telecommuting and generous vacations
+Please send your resume to [email protected] and include "Developer Advocate" in the subject line. Along with your resume, please include any code repositories or documentations/tutorials you have created. Please also include links to your profile/posts in online communities such as GitHub, StackOverflow, Reddit, Twitter, etc. We are excited to get to know you!
+Full-Stack Software Engineer
+Categories : engineering
+Employment Type : full-time
+❚ Write high quality, well-tested code for both server-side and user-facing
+applications
+❚ Design interfaces, APIs and services that address immediate needs with an
+eye for future scaling and reuse
+❚ Analyze, transform, structure and synthesize data that is growing in
+complexity, diversity and scale
+❚ Write tests to ensure the functionality and reliability of the team’s code
+❚ Quickly create prototypes and then iteratively transform them into
+❚ You have 5+ years of academic and industry experience developing both back-end systems and front-end applications
+❚ You are proficient in modern version control and CI/CD frameworks
+❚ You are well versed in SQL and database engineering
+❚ You are a self-starter who is passionate about technology and thrive in a
+dynamic environment with minimal structure
+Please send your resume to [email protected] and include "Full-Stack Software Engineer" in the subject line. Along with your resume, please include any code repositories you have created or contributed to. We are looking forward to meeting you!
+Refer a candidate
+If you think someone is a good fit for any of the roles above, please let us know at [email protected] and specify "Candidate Referral" in the subject line. You will receive a premium API key for 1200 requests per minute (free for lifetime) if your referral gets hired!

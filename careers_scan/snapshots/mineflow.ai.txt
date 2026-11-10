@@ -1,0 +1,26 @@
+Maintenance in progress. Some Mineflow features may be slow or briefly unavailable. Thanks for your patience. Expect brief outages.
+Careers
+Research & Engineering
+Senior Software Engineer, Product
+San Francisco, CA · In person · Full-time
+Expand and maintain the world's largest mineral exploration database, and build the product that makes it useful to exploration teams. Own the systems that ingest, organize, and serve geological data, alongside search, interactive maps, 3D visualization, and exports.
+Experience
+Experience shipping full-stack applications and making sound decisions across APIs, data, and interfaces.
+A strong sense of product quality; geospatial or visualization experience is a plus.
+Email about this role
+Research Scientist, Computer Vision
+There is no established industry precedent for the models Mineflow is training. We've found that many of the spatial assumptions behind strong computer vision approaches translate well to predictions in 3D space, so good intuition for those assumptions is valuable here.
+Strong intuition for computer vision architectures and their spatial assumptions.
+Experience training and evaluating deep learning models on real-world data.
+Sales & Customer Success
+Head of Customer Success
+Join Mineflow as our first non-engineering hire and build our sales and customer success function. Own customer relationships from prospecting, product demos, and closing new business through onboarding, ongoing support, adoption, and renewals. Help mining and exploration teams get value from Mineflow, and work closely with engineering to turn customer feedback into product improvements.
+Experience selling geological software to mining and exploration teams, including leading product demos and closing new business.
+A track record of building lasting customer relationships and guiding customers through onboarding, adoption, and renewals.
+Comfort owning both sales and customer success at an early-stage company, with a hands-on approach to supporting users and building repeatable processes.
+Geoscience
+Senior Exploration Geologist
+Work with the research and engineering teams to validate geological interpretations, extracted data, and model predictions. Help define how Mineflow represents mineral systems, lithology, structures, and exploration targets.
+Hands-on mineral exploration experience and strong geological interpretation skills.
+An interest in working closely with researchers and engineers to turn expertise into better software.
+To discuss a role, email ryan@mineflow.ai with your résumé and a short note about your experience.

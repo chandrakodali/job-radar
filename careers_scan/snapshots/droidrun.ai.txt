@@ -1,0 +1,11 @@
+The Phone Layer
+for AI agents
+droidrun gives every AI agent a real phone — a body and an identity — so it can operate the apps where work actually happens.
+Get to know us
+What we build
+mobilerun · cloud
+Real cloud phones and device fleets agents control via API — streamed, scaled, with real identity.
+mobilerun.ai →
+mobilerun · framework
+Open framework to give any agent a phone. 91.4% on AndroidWorld.
+mobilerun.ai/framework →

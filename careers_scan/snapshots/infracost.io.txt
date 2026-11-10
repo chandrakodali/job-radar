@@ -1,0 +1,80 @@
+Careers
+A developer tool by engineers, for engineers.
+See open roles
+Contact us
+Cloud waste is a real, frustrating, and solvable problem. Our founders have spent over a decade in cloud infrastructure and FinOps — long enough to know that the reactive approach isn't working. Our talented team is shifting that: giving engineers the information they need to make smart decisions before they deploy, not after.
+We work with high trust, low bureaucracy, strong opinions loosely held, an appreciation for metrics, and a bias for shipping things that actually move the needle for our users.
+Values
+Ustomer, not customer
+It is all about seeing us and the customer as one. We like to be a part of the user’s team, and help them however we can. If the user is not successful, then we will not be either so we try to walk in their shoes. It’s more than work — we build relationships and community with users and customers.
+Open is our core
+Put yourself out there. Show your learning. Transparency builds confidence. Encourage sharing the good and the bad. The best decisions are made when everyone has access to all the data. Be straightforward and kind, feedback is about the work, not the individual.
+Let's JEDI
+Let’s Just Effing Do It! Own it and move fast. A good plan fiercely executed now is better than a perfect plan later. We ask for help and unblock each other. The main thing is to keep the main thing the main thing.
+You'll thrive here if…
+You are a builder
+You'd rather define the answer than wait for one
+You want to see the direct impact of your work
+You want a seat at the table early
+This probably isn't for you if…
+You need clearly scoped roles
+You prefer established playbooks
+You want a big brand name
+You want a large team around you
+Open roles
+Loading open positions…
+Benefits
+Fully remote
+We hire the best people where they are, and have never had an office to return you to.
+Meetings
+Getting together is important, so we meet up twice a year in locations like Berlin, Barcelona, & San Diego for work and fun.
+Compensation
+We want to pay our team well and aim to pay above average. Our target is the 75th percentile and that may vary slightly based on location and role.
+Equity
+We offer employee friendly equity terms, including a 10 year exercise window.
+Time off
+We opted for clarity over unlimited time off and give everyone at least 31 days paid leave per year, including national holidays.
+Health, dental, vision
+We cover 100% of our employees premiums in the US, Canada, and Germany.
+401k / pension matching
+We contribute to employee’s retirement funds in the US, UK, Germany, and Canada.
+Parental leave
+We offer 12 weeks paid for new parents.
+If you have specific questions about benefits in the country you work from, don’t hesitate to ask.
+Hiring process
+Application review: Submit your application and we’ll aim to respond within 1-2 weeks, depending on the amount of applications.
+Intro call: Meet with our recruiter to share more about what you are looking for in your next role and to hear more about our team and how we work
+Interviews with the team: We typically have three interviews which are a mix of technical/skills evaluation and culture/behavioral questions to see if our working styles match. Some of these might be 1:1 and others might be with a few people on our team. For some roles, we ask for a take home assignment, in which case we aim to put in as much time reviewing on our end as you put into it.
+References: We talk to three people who have worked with you. This helps us get a sense of what it will be like working together.
+Offer: Hooray! We are excited to work with you and will share our offer (a combination of salary and equity).
+Background check: As part of our security compliance, we use Checkr to perform a background check. If there is anything that might show up on your report, please let us know in advance and we can talk through whether this has an impact on your role.
+Frequently asked questions
+What is your remote/hybrid/in-office policy?
+Which countries do you hire in?
+Can I work from anywhere?
+Does AI screen my resume before a human sees it?
+Is it okay if I use AI to help write my resume or application questions?
+How long does the interview process take?
+Privacy
+Terms
+DPA
+Do not sell/share my personal information
+Product
+Features
+Pricing
+Security
+Support
+Company
+About
+Blog
+Documentation
+Getting started
+CI/CD integration
+FAQ Docs
+General FAQ
+Resources
+Community
+GitHub
+LinkedIn
+YouTube
+Slack

@@ -1,0 +1,31 @@
+Join Our Team
+We are Best Practical Solutions, the people behind Request Tracker (RT), one of the most popular open-source ticketing systems in the world, and its companion application, Request Tracker for Incident Response (RTIR). RT and RTIR are used by organizations large and small, across all industries including: private and public companies, security teams, academic institutions, government agencies, and non-profits. We’ve been around since 2001 and are entirely self-funded. We are both contributors to, and beneficiaries of, the free software ecosystem; you can find all of our code on GitHub .
+RT, being free software itself, is absolutely free to download, deploy, and even modify. We’ve built a business around providing a full range of services to help our customers get the most out of RT. We offer managed hosting, commercial enterprise support, professional installation and upgrades, and custom development where we bring our expertise to address an organization’s specific set of challenges. All of our engagements, whether sponsored by a customer or done for our community, provide the satisfaction of knowing we’re helping people solve real problems every day.
+We are a 100% remote company so you should be comfortable working with a remote team via tools like Slack, Zoom, and of course Request Tracker. When working at BPS, you can also count on endless opportunities for career growth. With RT’s large codebase, overall breadth of use cases, and variety of services we offer, you will have many opportunities to expand your skillset. In addition to writing code, we also help our customers with a full range of business process support including configuring RT, setting up workflows, and making RT better for people. Not to mention, because everything we do is open source, all of your contributions will be, too.
+Benefits
+Work from anywhere
+Competitive Salary
+40-hour workweeks
+Open Vacation Policy
+Whatever hardware/software you need to get your job done
+Co-working reimbursement / Coffee Allowance
+Professional Development Opportunities
+& More
+Lead Platform Engineer
+Best Practical provides managed hosting for Request Tracker (RT) and associated services, and we seek an experienced platform engineer to help us continue to build and enhance our hosting environment. This role will lead efforts to automate and scale our environments to support continued growth in hosting.
+Our cloud offering is built on AWS, so the position involves working with AWS services via the Amazon web console, command-line tools, and automation tools like Ansible. We support standard configurations for typical RT deployments and some more complicated custom architectures for larger RT deployments. We work with core services like EC2 and RDS, and additional services like Amazon OpenSearch (Elastic Search).
+This role involves all aspects of managing and maintaining Linux servers including building out new servers, patching, applying updates, monitoring, and backup and recovery. RT and its supporting infrastructure include the Linux OS (multiple types), Apache, multiple database types (MariaDB, MySQL, Postgresql, etc.), and email MTAs like Postfix.
+Qualifications
+10+ years of experience administering Linux systems, specifically Debian.
+Production management and support of AWS EC2 servers and related services like Route 53, Cloudwatch, etc.
+Strong understanding of how the Internet works including web servers, email servers, certificates, DNS, and SSL.
+Knowledge of secure web architectures, secure Linux server deployment, firewall management, and monitoring for security events.
+Experience building and maintaining server automation processes with Ansible.
+Some experience administering and using relational databases like MySQL, MariaDB, PostgreSQL, or Oracle. PostgreSQL specifically is a plus.
+RT is written in Perl, so we tend to lean Perl-ish for many other tools and utilities. You don’t need to be a Perl expert, but it will help if you are familiar and comfortable with it.
+Strong knowledge of git, version control concepts, automated testing.
+How to Apply
+Tech Positions
+Send something approximating a cover letter, a resume in plain text, HTML or PDF, and a sample of some code you’ve written to resumes@bestpractical.com . If you’re involved in open source development of one kind or another, please tell us about it. If you have a CPAN ID, tell us what it is; we won’t consider applications without some sort of code example to look at. We’ll be paying particular attention to readability, comments, and tests. Whether you’re involved in open source development, putting together some personal hobby projects, or making your mark on the world through your career, we would love to hear all about what you’re excited to be working on.
+Equal Opportunity
+Best Practical is an Equal Opportunity Employer. You may read our full statement here .

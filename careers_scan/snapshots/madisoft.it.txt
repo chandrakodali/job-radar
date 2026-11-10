@@ -1,0 +1,48 @@
+Salta al contenuto
+Unisciti al team.
+Lavora dove vuoi.
+Siamo i creatori di Nuvola, piattaforma SaaS per la digitalizzazione delle scuole italiane.
++ 1200 scuole
++ 1 Mln utenti
++ 600K utenti/giorno
+Posizioni aperte
+I nostri valori
+Crediamo, innanzitutto, in alcuni valori e principi di base: rispetto reciproco, etica prima del business, spirito di collaborazione e crescita, sia personale sia professionale, elevata professionalità, al di là delle proprie competenze tecniche, e partecipazione attiva alla crescita aziendale. I tratti caratterizzanti di Madisoft sono:
+Qualità del software : l’attenzione alla qualità è un aspetto che caratterizza tutti i processi aziendali, dallo sviluppo software all’assistenza tecnica. Unit e E2E testing, Code Review, Continuous Integration sono alcune delle pratiche che adottiamo quotidianamente per perseguire questo scopo. Preferiamo posticipare una release se la soluzione non è qualitativamente adeguata, al fine di garantire ai nostri clienti il miglior software possibile.
+Orientati alle persone : tramite il nostro software vogliamo semplificare la vita delle persone che lo utilizzano. Cerchiamo di ascoltare sempre le necessità reali dei nostri utenti, anche delle minoranze, e dei nostri collaboratori.
+Full remote : crediamo che il lavoro remoto ci possa offrire una duplice opportunità. Da un lato consente di conciliare la vita professionale con quella privata in modo più bilanciato, eliminando le inutili perdite di tempo della quotidianità a partire dagli spostamenti casa-lavoro. Dall’altro permette di attingere ai migliori talenti in tutta Italia, senza la necessità di sradicarli dal luogo in cui preferiscono vivere, contribuendo alla costruzione di un team di eccellenza.
+Informalità e struttura orizzontale : non ci sono gerarchie forti e chiunque può parlare con chiunque. Non contano i titoli ma la passione e le capacità.
+Flessibilità e fiducia : tipicamente lavoriamo con uno schedule orario comune per garantire le comunicazioni con il resto del team ma non ci sono cartellini da timbrare e ognuno può organizzare il proprio tempo per gestire gli imprevisti o commissioni della quotidianità, lasciamo che ognuno comprenda autonomamente le proprie responsabilità nei confronti del resto del team quando usufruisce di questa possibilità.
+Scopri di più su Madisoft e Nuvola
+Come lavoriamo
+Lavoriamo in modalità full remote da sempre: nel corso degli anni abbiamo raffinato i processi aziendali e sviluppato una notevole organizzazione per poter lavorare efficacemente in modo asincrono.
+Ci ispiriamo alle metodologie Agile e adottiamo molte delle best practices definite da queste: unit e end-to-end testing, code review, continuous integration, continuous delivery, devops, stand-up meeting, retrospettiva. Adattiamo i flussi operativi alle nostre esigenze in modo da continuare a portare efficacemente valore ai nostri utenti. Abbiamo inoltre deciso di dedicare il venerdì pomeriggio alle attività di refactoring e ricerca con il fine di progredire tecnologicamente senza compromettere la manutenibilità della nostra soluzione.
+Siamo ovviamente appassionati di tecnologie e strumenti software, per questo abbiamo selezionato i migliori per lo sviluppo del nostro prodotto: AWS, Docker, PHP, Symfony, TypeScript, React.js.
+Leggi il nostro blog tecnico
+Socialità distribuita
+Il più grande svantaggio di non essere fisicamente in un ufficio è la mancanza di interazioni sociali spontanee. Per questo abbiamo progettato degli spazi virtuali in cui rafforzare i legami e costruire connessioni tra i membri del team. #nuv-random è il canale Slack in cui parliamo degli argomenti più disparati o condividiamo meme divertenti. Su questo canale, un promemoria ci invita due volte a settimana a prendere un caffè virtuale con i colleghi, in modo simile a quello che accadrebbe in un ufficio.
+Il club del libro è invece un’attività sia formativa sia sociale che consiste in periodici incontri in cui si condividono le proprie opinioni, si scambiano idee e riflessioni riguardo i capitoli di un libro tecnico precedentemente selezionato.
+Infine, ci incontriamo fisicamente circa un paio di volte l’anno per retreat aziendali in sede o per partecipare a conferenze di interesse comune.
+Cosa farai
+Entrando nel team contribuirai allo sviluppo di Nuvola, un progetto innovativo che ha lo scopo di migliorare il sistema scolastico italiano ed aiutare le scuole nella loro mission: educare persone. Parteciperai alle decisioni relative all’evoluzione del prodotto, contribuendo allo sviluppo di nuovi progetti per il mondo scuola.
+Il nostro obiettivo è far sì che ogni membro del team di Madisoft diventi una parte vitale dell’azienda e possa crescere professionalmente insieme al resto del team.
+Per supportare questo processo incoraggiamo e supportiamo tutto ciò che porta formazione e conoscenza. Ci formiamo continuamente sui linguaggi e le tecnologie migliori da usare, partecipiamo a conferenze ed eventi (anche come speakers), incoraggiamo incontri locali, collaboriamo con Università tramite il supporto a tesisti e finanziando un dottorato di ricerca.
+Partecipiamo alla community degli sviluppatori italiani partecipando attivamente a discussioni e scambi di conoscenza, sponsorizzando le conferenze software del GrUSP , diffondendo la nostra conoscenza tramite talks e articoli riguardo le soluzioni che adottiamo per risolvere i problemi che affrontiamo quotidianamente e riguardo le tematiche che ci stanno più a cuore.
+Visita la sezione Community per vedere i nostri talk e le nostre sponsorizzazioni.
+Cosa offriamo
+Progetto innovativo ad elevato impatto sociale usato da milioni di persone in Italia ogni giorno.
+Lavoro remoto al 100%.
+Qualità al centro : nessuna deadline per ieri e nessuna corsa contro il tempo per produrre sporcizia da buttare domani. L’unico modo che abbiamo per fare le cose veloci è farle fatte bene.
+Team di elevata competenza , in cui crescere o confrontarsi attivamente.
+Flessibilità nell’organizzazione del tempo e delle attività
+Crescita economica all’interno dell’azienda
+Formazione tramite partecipazione a conferenze, corsi e attività formative
+Vita attiva nella community tramite partecipazione a conferenze locali e nazionali. Incentiviamo la partecipazione come speaker alle conferenze, la scrittura di articoli tecnici e la produzione di codice open-source.
+Contratto a tempo indeterminato , notebook aziendale, assistenza sanitaria integrativa, budget per formazione personale e certificazioni professionali
+Cosa richiediamo
+Condivisione e rispetto dei principi della nostra cultura aziendale
+Forti motivazioni tecniche ed estrema passione per il proprio lavoro
+Capacità di comunicare in maniera semplice, chiara e puntuale. La comunicazione è un aspetto cruciale per una realtà distribuita.
+Elevate capacità critiche e di problem solving : chiediamo ai nostri collaboratori di organizzare il proprio lavoro in autonomia, esprimere le proprie idee in modo costruttivo, analizzare i problemi ed evitare di lavorare su soluzioni rapide che non portano valore a lungo termine.
+Volontà e capacità di rispettare i principi del manifesto agile .
+Conoscenza fluente della lingua italiana

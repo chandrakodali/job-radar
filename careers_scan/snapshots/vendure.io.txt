@@ -1,0 +1,62 @@
+Careers
+Build the next generation of commerce — in the open.
+While the incumbents lock customers into legacy SaaS, we're building the open-source platform that brands like IBM and Swile already run in production. Our team builds the platform and ships it to those brands — small, senior, with real ownership at every step.
+Introduce yourself See open roles
+Real ownership
+You own a problem end-to-end and make the call. The person closest to the work decides — no committee approvals, no design-by-meeting.
+Bias to ship
+Decide with the information you have, then learn from what hits production. We'd rather course-correct in the open than wait for certainty.
+Craft over process
+Small team, no theatre, no Jira-as-status. We trust people to do the work they're hired to do.
+Built to last
+We're building infrastructure, not features-of-the-quarter. The decisions you make today should still hold up in five years.
+The team that builds it is the team that ships it.
+Vendure started as an open-source project and grew into the platform brands run in production. With the merger of Elevantiq and Vendure, the people who build the platform and the people who deploy it work under one roof, bringing years of experience deploying e-commerce infrastructure at scale directly into product decisions.
+We're focused on short feedback loops, no translation layer between what the product is and what customers actually need, and work that hits real systems with real users, fast.
+The process
+How we hire
+Reach out
+Open role or not, drop us a line with what you're working on.
+Intro chat
+30 minutes with someone from the team. No theatre, no trick questions.
+Real work
+A take-home or pairing session, depending on the role. Designed to take hours, not days.
+Meet the team
+Talk to the people you'd actually work with. Decision shortly after.
+Benefits
+What we offer
+Home in Austria, rooted in Europe
+Our home is in Vienna, with our team spread across Austria and Europe.
+Flexible hours
+Async-first culture. Shape your schedule around your life.
+Wellness budget
+A dedicated budget for your physical and mental health.
+Team retreats
+We meet in person regularly to connect, collaborate, and have fun.
+Lunch allowance
+More than €1,000 per year to fuel your workdays.
+Paid PTO
+25 days of paid vacation plus Austrian public holidays.
+Open Positions
+Current openings
+We're not hiring for a specific role right now, but we're planning new positions soon. If you think you can help us build the next generation of commerce, get in touch .
+Your work reaches global brands, from Fortune 500 enterprises to high-growth startups.
+Log in Start free trial
+Pricing Enterprise Docs Log in
+Start free trial
+Products
+Framework Open source 8.5k GitHub stars Starter Growth Scale Enterprise
+Features
+B2B buying Pricing & catalogues Operations & governance Search & discovery Storefront ERP & integrations Build with AI
+Applications
+B2B B2C B2B and B2C Wholesale & distribution Manufacturing Self-hosted
+GA Q1 2027
+Beta for paid plans first
+Compare
+vs Shopify Plus vs Salesforce vs Adobe Commerce vs commercetools vs BigCommerce vs Medusa All comparisons
+Switch to Vendure
+From Shopify Plus From Magento From WooCommerce From Shopware All migration paths
+Learn
+Customer stories Partners Services Blog Community GitHub
+Swiss steel trader cuts manual work, boosts orders 20% with unified B2B/B2C platform
+Switzerland's leading stainless steel supplier replaced an outdated, manual-heavy commerce system with a unified B2B/B2C platform that integrates with their Microsoft ERP and lifted daily orders 15-20%.

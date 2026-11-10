@@ -1,0 +1,58 @@
+Building community
+Open Source
+Podcasts
+Talks
+Newsletters
+Chain React Conf
+Building your software. Anywhere it needs to be.
+Infinite Red is known world-wide as the U.S.-based software agency
+when you want the highest quality software and top-notch team.
+Our highly skilled software developers (averaging 15 years of professional software development experience) have built hundreds of apps across mobile, web, desktop, and beyond in technologies such as React Native , Expo , Swift , and Kotlin over the last decade, and now are leading the way in agentic coding.
+Let's talk about your project →
+Infinite Red's reputation comes from more than a decade in software development.
+Infinite Red's team of highly experienced U.S.-based engineers has been building impactful software for over a decade. We've been around long enough to know how this industry works and what makes great software.
+You may have heard about us from our work in React Native; that's because we host hundreds of developers in Portland at our Chain React conference, produce the popular React Native Radio podcast, and create and contribute to open source like Ignite and more.
+Bring us the software challenge in front of you. We'll help your team understand the tradeoffs, make sound decisions together, and move the work forward.
+Working with Infinite Red will be the least stressful part of your project.
+Let's see how we can help you →
+Your guide to all things React Native
+When it comes to React Native, we are second to none. Our software engineers have worked with React Native to build mobile, web, and desktop apps for nearly a decade. We maintain some of the most popular React Native open source software.
+We also host the USA’s only React Native conference , publish the React Native Newsletter , and produce the React Native Radio Podcast .
+Can we say "React Native" one more time? Yes.
+Explore our React Native development services
+Schedule a video call
+Chain React
+Our annual React Native conference hosted in Portland, Oregon since 2017.
+View website
+30+ Open Source Projects
+View some of our popular open source projects including Ignite, a React Native boilerplate.
+View on github
+React Native Radio
+Our podcast covering React Native news, articles, issues & pull requests, libraries and apps.
+Listen to episodes
+Infinite Red is the team
+companies turn to
+for software that scales.
+Mercari
+See the case study
+Zoom
+GasBuddy
+"There is no substitute for experience in getting the “idiom” of React Native and avoiding the numerous dark alleys around state management, performance tuning and third party module selection. Our team at Infinite Red has provided this
+throughout our project."
+Max Metral
+“The team at Infinite Red brought me from an idea, to reality. They worked with me and added a unique perspective to my project and created something beyond what I had imagined. They took the time to listen to what I needed and quickly made it something beautiful and cohesive!”
+Deby Aho
+Sellebrate
+"We're building high visibility medical software for some of the world's leading firms. Infinite Red has been an invaluable and trusted partner with deep development expertise, excellent product vision, and the muscle to get the job done."
+Steve Shreve
+Crossover Health
+"They took our prototype and built it into a working production MVP, and quickly adapted to changes as we did customer development."
+Ed Nanale
+Elemeno
+Community leaders
+With over 30 open source projects, a screencast series, multiple books and published articles, and heavy involvement in the React Native communities, our team is leading the way. We've organized meetups and conferences as well as participated in many others as speakers and attendees. If it's relevant to the technologies we love, we'll probably be involved in some capacity.
+Explore our React Native community
+Ready or not ...
+Let's talk.
+There’s no perfect time to get started. Whether you have a formal proposal or a few napkin sketches, we’re always happy to chat about your project at any stage of the process.
+Let's set up a call →

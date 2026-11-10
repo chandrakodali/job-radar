@@ -1,0 +1,104 @@
+Work at MeteorOps
+We're a remote-first team of senior engineers working across many clients, stacks, and industries. Every role below is real, open, and reviewed by a person.
+16 open roles · 6 freelance tracks · Remote-first · Flexible hours
+Engineering
+6 roles About this team
+DevOps Lead Lead and collaborate with a variety of startups, guiding them to elevate their DevOps operations to the next level. Remote · Full Time Remote Full Time Apply
+DevOps Solutions Architect & Clients Account Manager Senior DevOps Solutions Architect & TAM driving pre-sales, client growth, and scalable cloud/K8s architectures. Remote · Full Time Remote Full Time Apply
+Kafka Expert Freelance Kafka specialist needed to stabilize and modernize a 6–7 year old on-prem VMware Kafka cluster. Remote · Full Time Remote Full Time Apply
+QA Engineer Fully-Remote QA Engineer Remote · Full Time Remote Full Time Apply
+Senior DevOps Engineer Work with a wide variety of startups and help them take their DevOps operation to the next level. Remote · Full Time Remote Full Time Apply
+Senior Kubernetes Storage Engineer (Rook/Ceph) Senior engineer to own and harden Rook/Ceph object storage for a Kubernetes-based data platform running Spark and Elasticsearch. Remote · Full Time Remote Full Time Apply
+Sales
+3 roles About this team
+Business Development & Account Executive Generate leads & close deals for our staff augmentation offering Remote · Full Time Remote Full Time Apply
+DevOps Solutions Architect Architect DevOps solutions for our clients, help the engineering team, and build meaningful relationship to drive success across the company Remote · Full Time Remote Full Time Apply
+Sales Manager Build and own our entire sales function from the ground up. Full-cycle revenue role: BizDev, pre-sales, account management, and sales ops. Remote · Full Time Remote Full Time Apply
+Human Resources
+1 role About this team
+Human Resources Specialist Find, vet, preserve, and empower the best DevOps Engineers to help solve complicated challenges for our clients. Remote · Full Time Remote Full Time Apply
+Marketing
+Chief Marketing Officer (CMO) Own MeteorOps' marketing end-to-end: strategy, content, SEO/GEO, ads, and demand generation for a growing DevOps consultancy Remote · Full Time Remote Full Time Apply
+More roles
+5 roles
+GPU Performance Engineer Drive CUDA/NCCL performance by profiling GPU and multi-node workloads, optimizing kernels and comms, and stabilizing training/inference ops Remote · Full Time Remote Full Time Apply
+HPC Network Engineer Own design, tuning, and reliability of InfiniBand/RDMA and RoCE fabrics, driving automation, observability, and incident response Remote · Full Time Remote Full Time Apply
+HPC Platform Engineer Own on-prem GPU/HPC platforms end-to-end: bare-metal, Slurm/Kubernetes, networking, storage, and GPU orchestration Remote · Full Time Remote Full Time Apply
+HPC Storage Engineer Design, operate, and optimize Lustre/GPFS/BeeGFS HPC storage for high performance, reliability, scalability, and predictable I/O Remote · Full Time Remote Full Time Apply
+HPC Systems Engineer Own Slurm-based Linux HPC clusters by operating, tuning performance, automating ops, and ensuring reliable compute access Remote · Full Time Remote Full Time Apply
+Freelance projects
+6 roles
+Project-based, hourly, and remote. Pick the track that matches your expertise and we'll match you with client work.
+Cloud Freelance Projects Remote · Freelance Remote Freelance Apply
+DevOps Freelance Projects Remote · Freelance Remote Freelance Apply
+FinOps Freelance Projects Remote · Freelance Remote Freelance Apply
+Kubernetes Freelance Jobs Remote · Freelance Remote Freelance Apply
+PostgreSQL Freelance Projects Remote · Freelance Remote Freelance Apply
+SRE Freelance Projects Remote · Freelance Remote Freelance Apply
+How we hire
+Four steps, no long silences
+Apply
+Send your CV with optional LinkedIn and GitHub links. A person reviews every application.
+Intro call
+A short conversation about your experience, what you're looking for, and key criteria for the role.
+Technical interviews
+Deep-dives matched to the role, covering fundamentals, real scenarios, and problem-solving.
+Meet the CEO
+A final conversation covering advanced skills and mutual fit, then a decision without long silences.
+Hunger for Learning
+We thrive on continuous learning, always seeking knowledge to fuel innovation.
+Take Ownership
+Empowered to take responsibility, we turn ideas into impactful results.
+Make an Impact
+Driven by purpose, we set goals and plan strategically to create change.
+The practical side
+Remote
+Our hybrid model allows a flexible balance between working from home and working from the office.
+Flexible Hours
+We want you to be the best version of yourself, and enabling the freedom for flexible work-hours is part of it.
+Career Growth
+We make it a priority to set a growth path when for each employee, and walk towards the goals set.
+Awesome Team
+Or as one of our engineers phrased it: "Out of this world team, down to earth vibe".
+Learning Opportunities
+Working with a variety of clients, each with its own unique challenges, your engineering skills are going to the next level.
+Michael Zion
+Arthur Azrieli
+Piotr K.
+Piotr R
+Dolev A.
+Krzysztof O.
+Lukasz R
+Beni E.
+Isaac J.
+Jay M.
+Amos A
+Arseni K.
+Jakub K.
+Garegin T.
+Klaudiusz S.
+Nikita S.
+Bao T.
+Nguyen P.
+Omer M.
+Yakov M
+Chris M.
+Jacob R.
+Ariel L.
+Cristian M.
+Can't find the perfect position?
+Send us your CV anyways! We will save it for next time a relevant position opens up.
+Frequently Asked Questions
+What are the working hours and expectations for this job?
+Since this is a remote role, the working hours are flexible. The work model in some cases could be hourly-based, and in other cases project-based.
+How does the hiring process work?
+1. Initial Screening of your application and CV
+2. An introductory interview to assess fundamental qualifications and key criteria.
+3. Technical interview/s covering DevOps, Platform Engineering, and SRE principles, as well as proficiency and problem-solving skills.
+4. CEO interview assessing both advanced technical skills and personal character.
+What types of projects will I be working on?
+We work on a wide variety of projects across multiple industries and company sizes, each involving different technologies. Our clients are located in different countries worldwide, providing opportunities to work on international projects. Projects are matched based on the candidate's expertise, ensuring the best fit for both the project requirements and your skillset.
+How is the payment structured?
+We offer hourly contracts and you get paid for the hours worked every month.
+Is there potential for long-term collaboration?
+Absolutely! Most of our engineers stay with us long-term. Even after a project concludes, we usually have new opportunities available, allowing us to continue our collaboration.

@@ -1,0 +1,91 @@
+Parse for Recruiting & job data
+The hiring web, ready to query.
+Turn career sites, job marketplaces, and authorized recruiting portals into structured endpoints for discovery, enrichment, monitoring, and operations.
+Build an API → Browse marketplace
+Normalize listings and workflows across the long tail of hiring sites.
+Live endpoint
+verified just now
+POST / recruiting-job-data / job_discovery
+Input
+{ query, location, filters, cursor }
+Typed response direct HTTP
+{ jobs[], next }
+Browser
+Skipped
+Schema
+Stable
+Health
+Monitored
+◆ Deterministic output ◆ Direct network calls ◆ Low latency ◆ Self-healing ◆ REST + MCP
+High-value workflows
+Build the operation, not another scraper.
+Each endpoint is designed around a business result with explicit parameters and a typed response.
+0 1 API workflow
+Job discovery
+Search company career sites and marketplaces with normalized title, location, compensation, requirements, and source identifiers.
+in { query, location, filters, cursor }
+out { jobs[], next }
+0 2 API workflow
+Listing monitoring
+Track new, changed, and removed roles for market intelligence, sales signals, workforce planning, or candidate matching.
+in { companies[], since }
+out { opened[], changed[], closed[] }
+0 3 API workflow
+Recruiting operations
+Read authorized candidate, interview, or requisition state from recruiting portals through narrowly scoped endpoints.
+in { requisition_id, workflow }
+out { status, candidates[], next_steps[] }
+Why the architecture wins
+Fast because it is narrow. Reliable because it is known.
+A general browser can attempt anything, but it has to rediscover the page every time. Parse learns a specific site workflow, exposes only the inputs you need, and executes directly against the network layer beneath the interface.
+Deterministic
+One job schema, many sources
+Downstream matching and analytics receive typed fields instead of a mix of HTML, markdown, and site-specific labels.
+Efficient
+Search workflows beat page-by-page crawling
+A purpose-built endpoint can model pagination and filters directly, reducing the intermediate work required to produce a useful dataset.
+Self-healing
+Career-site changes are not your roadmap
+Health checks and automated repair keep your integration focused on the hiring workflow rather than selectors and layouts.
+A cleaner data pipeline
+From career pages to normalized opportunities.
+Use a dedicated endpoint per source and a common model in your application. Parse maintains the live web execution; your team owns the ranking and experience.
+Browser-first workflow
+1 Discover pages
+2 Crawl listings
+3 Parse fields
+4 Resolve duplicates
+5 Patch career-site changes
+Parse workflow
+1 Call search endpoint
+2 Normalize by source ID
+3 Match or analyze
+Honest tool selection
+Use the narrowest tool that can do the job.
+Choose Parse when…
+You repeatedly query known job sources
+Listings feed search, matching, analytics, or alerts
+A stable schema matters more than arbitrary page access
+Keep a browser when…
+The task is applying on behalf of a person through an unpredictable flow
+A candidate must review and consent to each submitted answer
+You are testing the career-site user experience itself
+Questions
+What teams ask before they build.
+Can Parse build an API for a company career site? +
+Yes. Parse can model search, listing detail, and pagination workflows for many career sites and return a typed job schema. Build and use the integration in line with applicable terms and data-use rules.
+Can it monitor new and removed openings? +
+Yes. Call the endpoint on a schedule and compare stable source identifiers, status, and updated fields in your own pipeline.
+Should Parse submit applications automatically? +
+Only with clear user authorization and appropriate review. Application flows can contain disclosures, assessments, and consent-sensitive questions; keep a person in the loop where judgment or attestation is required.
+Your workflow, as an API
+Build it once. Call it from anywhere.
+Start with 200 free credits. Use the result through REST, MCP, OpenAPI, or the typed Python SDK.
+Get started free →
+More industries
+AI agents & assistants →
+Give AI agents deterministic MCP tools for websites. Replace repeat browser navigation with low-latency, self-healing APIs for supported workflows.
+Ecommerce & retail →
+Build deterministic ecommerce APIs for price aggregation, product catalogs, availability, reviews, and marketplace operations — without running a browser.
+Shipping & logistics →
+Unify carrier tracking, freight quotes, shipment status, and legacy logistics portals behind deterministic, low-latency APIs.

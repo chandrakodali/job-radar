@@ -1,0 +1,28 @@
+Careers
+Join us to develop the next generation GUI toolkit. Slint has been named as one of the fastest growing OSS startups in 2022 and was awarded the prestigious Embedded Award at the Embedded World tradeshow in 2023. We're always on the lookout for talented individuals who share our passion for technology and innovation. If you're interested in joining our team, we invite you to explore our current job openings and apply today. Let's grow together!
+Why Join?
+At Slint, we believe that our success is driven by the talented individuals who make up our team. That's why we're committed to providing not only a great work environment but also opportunities for career growth and advancement.
+We offer competitive salaries and benefits packages. We also understand that work-life balance is important, so we offer flexible work schedules and the ability to work remotely. But what really sets us apart is our commitment to investing in our employees' professional development. We believe in providing opportunities for growth and advancement, and we support our employees in attending conferences to further their careers.
+We offer a variety of career paths within our company, from software engineering and user experience design to sales and marketing. We encourage our employees to explore different areas of the company and find the career path that best suits their skills and interests.
+In addition to career growth opportunities, we also offer a range of perks that make our company a great place to work. We have team outings and events, and a relaxed and collaborative work environment.
+Open Positions
+Senior Software Engineer (m/w/d)
+What You'll Do
+Work across the Slint framework
+Own features end to end: design, implement, test, and maintain them
+Review contributions from the team and the community
+Help shape the direction of the product
+Contribute to documentation, releases, and community support
+What We're Looking For
+Strong experience with Rust,
+Care about clean, readable code,
+Versatile and comfortable working across most areas of the framework,
+Productive and autonomous. We're a small team without the bandwidth to hand-hold, so you get up to speed quickly and work independently,
+A strong product and API design sense that aligns with our vision for Slint,
+Fluent in English,
+Based in a European time zone, preferably in Germany,
+Able to work full-time, employed in Germany, and
+Happy to travel occasionally to meet the team in person.
+How to Apply
+send your CV to [email protected] and
+Either share a repo you’re proud of or Pick a Slint GitHub issue - https://github.com/slint-ui/slint/issues?q=is%3Aissue%20state%3Aopen%20-label%3A%22needs%20info%22%20-label%3A%22need%20triaging%22 and send us a PR.

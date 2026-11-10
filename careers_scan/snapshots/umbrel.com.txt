@@ -1,0 +1,50 @@
+Careers
+Apply
+Open menu
+Build the future of Umbrel.
+Our most important work lies ahead of us, and you can be a part of it.
+Join us
+The cloud made life convenient. It also took our data away. The personal computer gave us computing on every desk. The personal server will give us freedom in every home. We're here to power that shift. And to make it delightful.
+How we work
+We are a small, focused team. Every person here has an outsized impact on our product and our culture. When you join us, you're not just taking a role. You're directly shaping Umbrel's future.
+Fully remote.
+Async written communication daily, and a single weekly all-hands meeting. We optimize for long chunks of deep, focused work.
+Everyone has a say in everything - design, code, copy, strategy.
+We care about what's right, not who's right. High standards, direct feedback, and zero ego.
+Zero managers or micro-management.
+You own your scope end-to-end and are accountable for outcomes.
+Once a year we get together for a week-long retreat.
+We celebrate craft, share meals, and remind ourselves why we build.
+How we design
+NAS UX is stuck in the 2000s. Clunky setup, admin-first dashboards, scary networking gymnastics. We're designing the consumer-grade, app-first, OS-in-a-browser experience that feels familiar and effortless, not instructional.
+Taste is a feature.
+Clarity over cleverness, restraint over knobs. Micro-interactions and motion exist to communicate, not perform. If it doesn't reduce cognitive load, it goes.
+Making a browser tab feel like an OS is hard.
+The medium fights you. But that's the bar: every interface, every dialogue, and every experience should reinforce "this is my machine and my data lives here".
+Do not overwhelm. But don't underwhelm.
+Start with sane defaults that create an obvious path, then progressively reveal depth exactly where it's needed.
+Umbrel Home and Pro are a part of the interface: unbox → first-boot → "aha" in minutes.
+Hardware and software move as one. We leverage this opportunity to delight at that seam.
+How we engineer
+We spend most of our time on the problems before we write a single line of code.
+Then we implement the simplest thing that can stay simple. Fewer moving parts, boring tools, clear boundaries. If future-us can't reason about it in five minutes months later, it isn't world-class yet.
+User-first, not tech-first.
+Start with the problem and reverse-engineer the simplest solution. Technology itself is a means, not the mission. No "cool stack" detours. Prototype, validate, then choose the right tool that wins for users.
+Readable, maintainable code is the ultimate optimization.
+Small modules, clear boundaries, typed interfaces, and tests that actually fail when they should.
+The cost of a mistake is high.
+Unlike a SaaS that can be hot-patched on a server, every bug ships to thousands of umbrelOS devices via the next OTA.
+Users store their lives on Umbrel.
+Assume hostile networks and design for least privilege and secure defaults.
+How to apply
+We don't post roles.
+If you've read this far and it feels like yours, whether you design, write code, build hardware, run supply chains, tell stories, or do something else entirely, we want to hear from you. Write to jobs@umbrel.com and tell us three things:
+Why Umbrel
+What draws you to this mission, and what would you want to own here?
+Why you
+Show us something you've made: portfolios, side projects, the thing you're proudest of.
+Why now
+Why is this the right moment, both for you and for us?
+Attach anything else that helps us see your work, like your CV, work experience, links, or just whatever tells your story best.
+Email jobs@umbrel.com
+Frequently asked questions

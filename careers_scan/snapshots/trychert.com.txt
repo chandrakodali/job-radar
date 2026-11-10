@@ -1,0 +1,29 @@
+What we believe
+Chert is iMessage infrastructure. We give businesses one API to send blue bubbles, build AI-driven threads, and reach people on the channel they actually open. Behind every blue bubble is a person deciding whether to trust the message in front of them. That moment is what we care about.
+We're building the emotional layer of trust between humans and AI.
+Every person on the team ships. We are deliberately small. The bar for joining is high, the autonomy is real, and the work shows up in customers' hands within days.
+How we work
+Three rules. That's it.
+No OKR cascades, no quarterly planning theater. Just three ideas we hold each other to.
+Craft
+Quality over process.
+We bias toward the work, not the rituals. Decisions are small, reversible, and made by the person closest to the problem.
+Tempo
+Ship every week.
+Customers feel us moving. Every week something new lands in production: a model, a feature, a fix, a thread that finally converts.
+Taste
+Hire for taste.
+Judgment is the bottleneck. We look for people who notice the half-degree off, who care how a sentence reads, who can tell when something is almost right.
+Open roles
+No standing roles. We hire when we meet you.
+We don't keep a long list of req IDs. If you're exceptional at one of the archetypes below, or something we haven't named yet, reach out.
+Founding Engineer
+Product Designer
+Applied AI
+Infra · Reliability
+Developer Relations
+Tell us what you've built and why Chert.
+Join us
+Tell us what you've built.
+Drop your resume, a portfolio, a repo, a Loom. Whatever shows us the work, we read everything that comes in.
+Apply contact@trychert.com

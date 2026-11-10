@@ -1,0 +1,52 @@
+Backed by Combinator
+We optimize inference stacks for AI teams.
+We build custom inference deployments for your workload and hardware that cut GPU usage by at least 50% while meeting your latency SLAs.
+You only pay if we meet the performance target.
+Book a call
+FlashAttention has no kernel for Gemma 4’s largest attention heads on the RTX PRO 6000. We wrote one.
+Global attention, Gemma 4 31B, one RTX PRO 6000
+vLLM default
+1,770 ms
+Our kernel
+464 ms
+floor 294 ms
+8k-token requests per B200, Qwen3.5 4B
+vLLM 0.31
+105
+Ours
+274
+Time per decoding step, 4B model, one B200
+Before
+6.4 ms
+4.2 ms
+Preprocessing, p90, a 15-frame Qwen video
+vLLM
+428 ms
+81 ms
+Read how
+The Performance Engineering Blog
+Oct 9
+A custom attention kernel for Gemma 4 on the RTX PRO 6000
+1,770 → 464 ms
+Oct 8
+The case for inference optimization
+essay
+Sep 10
+Compounding GPU and CPU work on a small model
+6.4 → 3.4 ms
+Sep 5
+Caching less to serve more requests
+2.6× requests per GPU
+Jun 19
+TCP for server-to-GPU communication
+325 → 72 ms
+May 13
+Multimodal processor rewrite: 5× lower latency
+428 → 81 ms
+May 12
+Gemma 4: 20× lower vision latency under load from one fix
+20× p95 TTFT
+Apr 2
+Day-zero Gemma 4 support
+4 models, day zero
+Read more

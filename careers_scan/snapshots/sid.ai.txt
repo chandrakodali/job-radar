@@ -1,0 +1,32 @@
+Research Engineer
+SID is a research lab for search. We train AI that can retrieve and reason over any data source. Backed by Y Combinator, Canaan, Rebel, and General Catalyst, as well as researchers from Anthropic, Deepmind, OpenAI, MIT, Cognition, Cursor, Applied Compute, Prime Intellect, Standard Intelligence, and Jeff Dean.
+If you don't match all of the requirements, we still encourage you to apply. We care much more about potential and the rate of improvement than achievements. We train and invest in our people!
+Responsibilities
+Train models with GRPO
+Design and iterate RL training environments for retrieval – unstructured, structured, web.
+Own the entire training pipeline: from training data curation to wandb.
+Run small and large model experiments – yolo runs encouraged.
+Work on next-generation vision-first embedding models.
+Lead discussions on research – reading group.
+Work directly with the ex-research CEO.
+Future: Manage a team of research engineers.
+Perks
+Non-bureaucratic compute approvals: If you want to train a model, you can. We've budgeted 100,000 H100 hours for this role. If things go well, this number will be higher.
+Work on frontier methods that scale. No weird old-school AI.
+Everyone on the team can code – this might change in the future of course.
+Competitive compensation with generous early-stage equity, full medical and vision.
+Requirements
+Not afraid of formulas – a BSc/MSc/PhD is an indicator of this (but isn't the only one).
+Thinks they can learn anything in 2 weeks, but isn't arrogant about it.
+Prefers .py to .tex
+Familiar with vLLM/SkyRL/Megatron/etc.
+Comfortable with torchrun/accelerate/multi-node training.
+Clever about getting the data needed – or synthetically generating it.
+Finds easy solutions to hard problems, but doesn't mind getting their hands dirty with PyTorch or CUDA.
+Publications are a plus, but being able to critically evaluate research is a must.
+Familiar with 'You and Your Research.' Understands what it takes to do significant work.
+Must articulate ideas well! A big part of making successful models is telling people about them. This includes writing docs and technical reports at the minimum – and jumping on podcasts at the extreme.
+Things you should know
+Startup work is always intense and sometimes frustrating: The nature of working on novel ideas is that not all of them pan out. It can be that you put blood, sweat, and tears into a feature or model and it just ends up not working through no fault of your own.
+We might publish, but cannot guarantee that we will.
+The role is in-person only from our offices in SF and Zürich. If you do not have US work authorization, we can help with that.

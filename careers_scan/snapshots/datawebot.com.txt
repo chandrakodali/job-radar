@@ -1,0 +1,17 @@
+Open roles
+AI Agentic Scraping Engineer
+Use AI coding agents to add new shops to datawebot, keep their extractors healthy and turn messy pages into clean product records.
+Engineering · Remote, Asia time zones preferred · Full time
+Read the role
+Backend Engineer, Jobs API and MCP
+Own the API and MCP server that AI agents call: async extraction Jobs, credits, rate limits and the reliability behind every result.
+Product Data and Matching Engineer
+Make sure the product an agent asked for is the product it gets back: matching, deduplication and data quality across shops.
+Developer Advocate, AI Agents
+Show developers how to give their AI agents real product data: tutorials, sample agents, videos and the community around them.
+Growth · Remote, Asia time zones preferred · Full time
+How to apply
+Email career@datawebot.com with the role title in the subject line.
+Attach your CV or LinkedIn profile, and links to work you are proud of: GitHub, posts, videos or projects.
+Write a few lines on why this role, and one thing you would improve in datawebot after trying it.
+Do not see your role? Email career@datawebot.com anyway and tell us what you would build. Full details at datawebot.com/apply .

@@ -1,0 +1,56 @@
+Build what's next in data
+Join the team pioneering a faster, simpler future for data processing, and pushing what's possible along the way.
+View open roles
+Who we are
+We are Polars
+Polars is built on the foundation of a vibrant, active open-source community, and we run the company the same way. We trust talented people to do their best work without unnecessary constraints. Collaboration matters, but we keep meetings to a minimum to protect focus. As Polars and Nanook continue to set a new standard in data processing, we're looking for like-minded people to join us on that journey.
+downloads 920M+
+GitHub stars 40k+
+community members 5,000+
+Our values
+Our core beliefs
+Progress over perfection
+When faced with uncertainty, we favor pragmatic solutions over long discussions, especially when the decision is reversible. Building software is an iterative process, you learn the true impact of a feature along the way.
+Craftsmanship
+We take pride in what we build and deliver, to our users and to fellow developers. If speed becomes a challenge, we either cut the scope or fix the underlying issue.
+Be curious
+The field of DataFrames is big, covering many subdomains, and no one has all the answers. Staying curious, asking questions, and keeping an open mind is how you learn and grow quickly here.
+Health
+We're all human. The wellbeing of our team and their work-life balance matters to us. We're in this for the long run, a sustainable, productive relationship.
+Trust
+We have confidence in our teammates to make the right calls. In return, we take on responsibility, knowing others depend on us just as we depend on them. We honor our commitments.
+Where we are
+Based in Amsterdam, working with people everywhere
+Polars BV
+De Boelelaan 7
+1083 HJ
+Amsterdam
+The Netherlands
+Get directions
+Perks
+Pay & equity
+A competitive salary and a stock option package, so you share in what we build.
+Focus & flexibility
+Flexible hours, hybrid work with two days a week in our Amsterdam office, and few meetings to protect deep work.
+Growth & setup
+A personal learning budget, the equipment you need to do your best work, and support with relocation or a visa if you're joining us from abroad.
+Hiring
+Our hiring process
+Apply
+Send us your CV, or just tell us why you'd be a good fit.
+Intro call
+A relaxed conversation to get to know each other and see if there's a fit, both ways.
+Technical interview
+A deeper conversation about your skills, your experience, and how you approach problems.
+Final conversation
+A final conversation with a founder or department lead to confirm it's the right fit, for both of us.
+Roles
+3 open roles
+Open roles
+Platform Engineer (Rust)
+Amsterdam Hybrid
+View role, Platform Engineer (Rust)
+Software Engineer - Performance
+View role, Software Engineer - Performance
+Software Engineer - Query Engines
+View role, Software Engineer - Query Engines

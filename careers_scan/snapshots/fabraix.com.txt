@@ -1,0 +1,17 @@
+Careers
+Join us as we push the offensive AI frontier.
+Fabraix is a Y Combinator–backed research lab building red-teaming agents that continuously detect security vulnerabilities in customer-facing AI. We believe the path to safe AI runs through offensive AI: the faster we break agents, the faster they get safe enough to trust.
+Apply by emailing us
+Break Playground
+Who we're looking for
+Three kinds of people build Nyx.
+We don't post a long list of reqs. If one of these is you, show us something you broke or built. It tells us more than a resume.
+AI researchers
+You understand model architecture and the current frontier deeply enough to reason about where a model will break before you run a single attack — where the training objective, the alignment tuning, and the tool scaffolding leave seams. You use that to formulate the attacks that matter and the defenses that would actually hold.
+Product engineers
+You're a serious engineer with real infrastructure depth and taste — you know the difference between code that works and code that's right. You're AI-native, working at the edge of what today's tools can do and wiring them into how you work every day, so a small team ships like a large one.
+Forward-deployed engineers
+You're who we put in front of a customer's security team. You aim Nyx at their hardest agents, turn what it finds into fixes their engineers can ship, and stay technical enough that a red team believes you when you say something's broken.
+The best application is an exploit
+Our Playground hosts live agents behind real guardrails.
+Try Playground

@@ -1,0 +1,78 @@
+Work at the frontier of visual intelligence
+We're building the foundational layer for visual intelligence: multimodal models trained jointly on images, video, audio, and action to see, generate, and understand the world.
+Our founding team pioneered latent diffusion and Stable Diffusion, the breakthroughs that made generative AI accessible to millions. With FLUX, we're pushing into generative media at scale, machines that act in the physical world, and emerging applications in computer use.
+Our FLUX models top public benchmarks and run in production in some of the world's biggest platforms. We're a small, fast growing research lab competing with the largest companies in the world. From our labs in Freiburg to San Francisco, we're building what comes next.
+Year founded
+2024 Year founded
+Valuation
+$3.25B Valuation
+Funding raised
+$450M Funding raised
+Model downloads on Hugging Face
+84M+ Model downloads on Hugging Face
+If you're relentlessly curious and driven by high agency,
+we want to talk.
+See open roles
+Our values
+Everything we do is grounded in four values.
+Obsessed
+We are a frontier research lab. The science has to be right, the understanding deep, the product beautiful.
+Low ego
+The work speaks. The best idea wins, no matter who said it. Credit is shared. Nobody is above any task.
+Bold
+We take the ambitious bet. We ship, we do not wait for conditions to be perfect.
+Kind
+People over politics. We treat each other with genuine warmth. Agency without empathy creates chaos.
+How we work
+Execute, do not wait.
+The right decision is the best decision. The wrong decision is the next best. The worst decision is no decision.
+Work in the open.
+Channels, not DMs. Share early and widely, even when it is rough.
+Debate, then go all in.
+Challenge ideas, not people. Once the call is made, execute like it was yours.
+Embrace discomfort.
+Ambiguity is normal. Plans will change. If we feel comfortable, we are probably not pushing hard enough.
+Write it down.
+Decisions, context, and rationale go in docs. Meetings are for decisions, not context downloads.
+Raise the bar.
+Every project, every hire, every product, every decision should make us better than yesterday.
+Talk across the pond.
+Freiburg and SF are 9 hours apart. This only works if both sides over-communicate.
+What we offer
+Health coverage
+We help employees take care of themselves and their families through healthcare benefits that are thoughtfully designed for each region.
+Retirement
+We invest in your future by offering retirement benefits designed to help you plan with confidence, wherever you're based.
+Flexible PTO
+Unlimited PTO — take the time you need, when you need it. Plus a company-wide holiday closure between Christmas and New Year's.
+Wellness stipend
+For fitness classes, gym memberships, mental health support, therapy, counseling, and physiotherapy.
+Learning stipend
+For books, courses, certifications, conferences, professional memberships, coaching, and workshops.
+Parental support
+We support growing families with generous parental leave and family-focused benefits, giving you the flexibility to prioritize what matters most.
+In-office meals
+Daily catered team meals or outings to local restaurants when working from the office. Fully stocked kitchen.
+Twice-yearly offsites
+The whole company comes together twice a year to align, connect, and have fun.
+01 / 08
+Our offices
+Freiburg
+Freiburg is home to our headquarters and where Black Forest Labs was founded. Nestled on the edge of the Black Forest, the city is known for its beautiful old town, vibrant university community, and easy access to the outdoors. It's a place where great work and a high quality of life go hand in hand.
+San Francisco
+Our San Francisco office is located in SoMa, a block from Caltrain and a short walk to Oracle Park. The office itself is built for how we actually work, whether that's heads-down focus, collaboration, or a team dinner, and the neighborhood is packed with great coffee and food spots.
+Open roles
+Loading positions...
+In the press
+Youtube
+Conversation featuring Black Forest Labs on the All-In Podcast.
+Read more
+Press release
+Martin Scorsese joins Black Forest Labs as an advisor.
+G7 Summit
+Our co-founder and CEO urges G7 leaders to back open innovation.
+Black Forest Labs
+FLUX 3 — Real World Models: Towards Multimodal Flow Models as the Backbone of Visual Intelligence.
+Frequently asked questions
+You still have a question?
+Get in touch

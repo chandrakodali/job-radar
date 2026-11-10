@@ -1,0 +1,51 @@
+Build Orchid with us.
+We're hiring people who want to build a personal assistant that actually runs your inbox, calendar, and messages.
+See open roles Send a general application
+How we work
+Good judgment matters in the product. We try to run the team the same way.
+Users first
+Orchid reads people's mail and calendars. Privacy isn't a line on the website. It's the work.
+Ship with care
+We care whether the product works, not whether we can announce it.
+Own it end to end
+Small team. If you see a problem, run at it. Don't wait for someone else to route it.
+Tell the truth
+With users and with each other. No hype decks. No fake demos.
+Write clearly
+In code and in Slack. Confusion is expensive when the product touches real work.
+Meaningful equity
+Early team. Real ownership in what we are building.
+Competitive pay
+Salary that reflects the work, reviewed regularly.
+Health coverage
+Medical, dental, and vision for you and your dependents.
+Remote-first
+Work from anywhere. Sync when it matters, async by default.
+Real time off
+Unlimited PTO with an encouraged minimum. Take the trip.
+Setup stipend
+Whatever you need to do your best work from home.
+Learning budget
+Courses, books, conferences. Stay sharp.
+Team time
+Periodic offsites to see each other in real life.
+Engineering Remote
+Software Engineer, Product
+Full stack. Agents, email and calendar integrations, the core product.
+Software Engineer, Infrastructure
+Workers, Convex, reliability at scale.
+Design Remote
+Product Designer
+End-to-end product and brand. Systems thinker.
+Go-to-market Remote
+Growth
+Tell the Orchid story. Content, partnerships, community.
+Don't see your role? Send a general application with what you would build here and a link to work you are proud of.
+Careers FAQ
+We are remote-first and spread across time zones. We sync when it matters and default to async everywhere else.
+A short intro call, a practical work sample or deep dive relevant to the role, then conversations with the people you would work with. We aim to decide within two weeks.
+Not yet, but we are open to it for exceptional candidates. Tell us your situation in your note.
+Yes. Send a note about what you would build here and why Orchid specifically. We read every one.
+TypeScript end to end: React, TanStack Start, Cloudflare Workers, Convex, and the AI stack we use in production. Strong engineers from adjacent stacks are welcome too.
+Come build with us.
+Apply now

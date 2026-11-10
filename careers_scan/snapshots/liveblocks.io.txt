@@ -1,0 +1,28 @@
+The future of software relies on people like you
+Join the ambitious team helping companies build realtime products where people and AI can work together.
+Join the team
+Our story
+Liveblocks started after Guillaume Salles and Steven Fabre worked together on realtime creative tools and saw how much product quality depends on collaboration details most teams never want to maintain themselves.
+The first idea was a multiplayer presentation tool. The deeper problem was infrastructure: presence, storage, comments, notifications, conflict handling, and developer experience that product teams could trust. Liveblocks became the APIs and components they wished they had.
+Today we are still shaped by that origin. We care about craft, clear abstractions, fast integration paths, and the feeling that a product is truly alive when teammates and AI collaborators are working together.
+Who’s on the team?
+We're a small globally distributed team with a passion for tools that foster collaboration. We're makers ourselves, and it's fair to say that we sweat the details in everything we do. Whether it be when designing a landing page for the website, establishing a team-connection strategy, sending books to a customer's sick kid, obsessing over the right abstractions for our APIs, and everything in between.
+Meet the team
+What it takes
+We're a small team where everyone's work is visible and everything you ship matters. Our values aren't aspirational, they're how we actually work.
+Empower community
+We actively support community success through trust and collaboration.
+Revel in your craft
+We are passionate and take great satisfaction in doing work we're proud of.
+Stay pragmatic
+We choose the simple and efficient solutions to complex problems.
+Take ownership
+We take initiative and speak up to be the change we seek.
+Thoughtful benefits
+Remote-first team across Europe and North America
+Flexible paid time off and a healthy respect for deep work
+Competitive compensation and meaningful equity
+Home office support for a setup you enjoy using
+Regular team retreats to build trust beyond the screen
+Time to learn, and contribute to the developer community
+Suggest your own adventure

@@ -1,0 +1,121 @@
+Freight intelligence · live
+The decision layer for disrupted freight .
+PO-level reroutes, carrier alternatives, and booking windows, delivered into your TMS days before disruption hits.
+Book a demo
+Read the latest brief
+Built for freight teams managing the world’s most disrupted corridors.
+Corridor study / 001 18.03.2026
+02 Via the Cape
++26 days in transit
+PO-4471 Hamburg Jeddah
+Cape reroute · 40 days Illustrative routes
+01 / The decision Intelligence, made operational
+PO-4471 · Hamburg → Jeddah
+Reroute now:
+secure Cape capacity
+Suez suspended. A longer route.
+A decision made before the window closes.
+Transit duration · 18 March 2026 brief
+Reroute now: secure Cape capacity
+Hapag-Lloyd Al Jasrah · Suez suspended
+Original plan
+Suez transit via Port Said
+days
+Suspended
+ETA Apr 02. Regional cover withdrawn; carriers moved off Suez.
+Ekho recommends
+Cape reroute via Good Hope
+Confirmed
++26 d. ETA Apr 28. Surcharge $150–500/TEU. Lock capacity 2–3 wks out; no uncongested route.
+1M+ live sources
+Carrier filings
+Port telemetry
+AIS movement
+Weather models
+Sanctions feeds
+02 / In the field The Hormuz dossier
+Regional context · 24 March 2021
+Image: NASA / ISS
+4–16 wk
+Ceasefire window (forecast)
++26 d
+Cape transit penalty
+$150–500
+Surcharge per TEU
+Model confidence
+EIA · Lloyd’s List · carrier filings · AIS · sanctions feeds
+Prescribed action
+Hold Cape contracts. Secure container allocation 2–3 weeks before loading. No uncongested route exists; do not cancel on ceasefire news.
+25 days later, seven forecasts confirmed. The ceasefire arrived April 8, inside the 4–16 week call; Cape routing settled at 35–45 days.
+See the verification →
+03 / Perspective From the operating side
+Ekho built a platform that does what I have always needed as a supply chain executive. It connects dots across weather, social sentiment, congressional voting, union communications, and everything that actually predicts disruption.
+Renée Ure
+Former COO, Lenovo ISG · Advisor, Ekho Labs
+Featured in
+RANE Network
+04 / The methodology From signal to consequence
+Methodology
+The data behind your next freight decision.
+Ekho combines 1M+ public and licensed data sources (sanctions registries, AIS, port authority feeds, carrier EDI, weather models, social signal networks, and congressional/union communications) into a comprehensive risk model for freight teams.
+Data sources 1M+
+Update cadence real-time
+Median lead time 12 days
+Source → model → action
+Source feeds
+AIS vessel signals
+Port authority feeds
+Carrier EDI
+Sanctions registries
+Shipment impact
+Example / PO-4471 Suez suspended
+14 → 40 transit days
++26 days via Cape
+Your TMS
+PO-level reroutes
+Carrier alternatives
+Booking windows
+18 March: Suez suspended for PO-4471, Hamburg → Jeddah.
+05 / The economics One disruption. Multiple consequences.
+Economics
+The cost of acting late.
+A single disruption triggers costs across multiple lines. They compound fast:
+Detention & demurrage per container, per day
+Equipment premiums surcharges on scarce capacity
+Rebooking & reallocation new carrier, new window, new rate
+Downstream delays warehouse, last-mile, production
+Customer impact SLA penalties, service recovery
+On PO-4471, equipment surcharge alone ran $150–500/TEU . Ekho helps teams make the call earlier, before these costs stack.
+Cost anatomy
+06 / Connected Inside your existing workflow
+Integration
+Delivered into the systems your teams already use.
+Connect Ekho to your existing TMS, ERP, and visibility tools through a read-only API. We scope the integration to your stack during onboarding.
+SaaS. SSO/SAML. Role-based access.
+Read-only API.
+Live in under 24 hours.
+Explore your stack
+Read-only API
+Integration scope tailored to your stack during onboarding.
+18 March → 12 April · Published case study
+From forecast to fact.
+The forecast · 18 March
+4–16 weeks
+We said: Ceasefire in 4–16 weeks
+The outcome · Verified
+5.5 weeks
+Came at week 5.5 (April 8).
++26 days
+We said: Transit penalty: +26 days via Cape (38–42 days vs. 14-day baseline)
+35–45 days via Cape
+Industry confirmed Cape routing at 35–45 days.
+Early April
+We said: European port congestion at Hamburg and Le Havre in early April
+89% Hamburg yard capacity
+Hamburg's main terminal hit 89% yard capacity by April 1. Le Havre: more ships waiting than berthed. Antwerp shut down entirely April 10.
+Read all seven forecasts and the verification
+07 / Stay ahead Ekho Labs
+Get started
+Your next disruption is already forming.
+See Ekho run on your lanes. Book a 20-minute walkthrough, or read the latest brief first.
+Or get the next intelligence brief every other Tuesday.

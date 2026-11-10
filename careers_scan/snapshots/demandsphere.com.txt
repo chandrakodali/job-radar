@@ -1,0 +1,98 @@
+DemandMetrics
+Rank Tracking
+SERP Analytics
+Rewind
+Observability
+Competitor Insights
+Keyword Research
+SEO Reporting
+Ranking Alerts
+AI Search Visibility
+Domain Research
+DemandMetrics for Gen AI
+LLM Visibility Tracking
+Prompt & Query Research
+Prompt Volume
+Citation & Linked Mention Tracking
+Chat Features
+Brand Management
+Agentic Search Monitoring
+News Intelligence
+DemandSphere Agents
+Visual Builder
+Sub-Agents
+Triggers & Scheduling
+LLM Analysis
+Templates
+Connections
+Analytics AX
+Server Log Analysis
+Crawler & Bot Detection
+Crawl Budget Analysis
+AI Crawler Monitoring
+Search Intelligence
+BigQuery Data Pipeline
+Data Studio Integration
+GSC + GA4 Connection
+Cross-channel Attribution
+APIs
+REST API
+SERP API
+LLM Query API
+Webhooks & Data Connectors
+Use Cases
+Be Found in AI Search
+Track Your Brand Across LLMs
+Search Automation
+Competitive Intelligence
+Data for AI Grounding & Training
+By Team
+For Executives
+In-House SEO Teams
+Agencies
+Data & Analytics Teams
+Product Teams
+Developers & Data Engineering
+Services
+Managed Services
+Consulting
+View all solutions →
+DemandSphere Radar
+AI Frontier Model Tracker
+State of Frontier AI
+Google Algorithm & AI Search Update Tracker
+White Papers
+AI Overviews Study
+Resource Center
+Blog
+Events
+Help Center
+Partners
+Enterprise
+Pricing
+Get a demo
+Sign in
+Careers
+Build the Future of Search
+DemandSphere is a small, focused team building the platform enterprise brands use to understand their presence across SERPs and AI search. We're based in Tokyo with team members worldwide.
+Tokyo Office
+Founded in Tokyo in 2009. Our engineering and product teams are based here, with deep roots in the Japanese and APAC search ecosystem.
+Remote-First
+Most of the team works remotely across time zones. We care about output and ownership, not hours in an office.
+Independent
+We've been building in this space for 15+ years. Profitable, independent, and growing - no fundraising pressure, just product focus.
+What We Value
+How We Work
+Ownership over process
+We're a small team. Everyone owns their area fully - from architecture to deployment. No ticket queues, no handoffs.
+Data is the product
+We process petabytes of search data daily. If you're excited about data engineering, NLP, or building systems that work at scale, this is the place.
+Search is changing fast
+AI Overviews, LLM answers, agentic search - the landscape shifts weekly. We build for what's next, not what was.
+Global by default
+Our customers span 200+ markets. Our team spans continents. English and Japanese are both working languages.
+Open Roles
+No open positions right now
+We're not actively hiring at the moment, but we're always interested in hearing from exceptional people - especially in engineering, data science, and search.
+If you think you'd be a good fit, reach out. We'll keep your info on file.
+[email protected]

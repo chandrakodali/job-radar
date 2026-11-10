@@ -1,0 +1,33 @@
+Launch Special: Save 25% on Uno Platform Studio! Use UNO25M (monthly) or UNO25A (annual) at checkout .
+Careers
+Quality Assurance Automation Developer
+Manage consent
+Uno Platform 5.2 LIVE Webinar – Today at 3 PM EST – Watch
+‹ Studio
+Product
+Build Apps in Record Time →
+Hot Design Edit UI visually at runtime
+Hot Design Previews Build UI Fast, in Isolation
+Figma Import designs directly from Figma
+Hot Reload See code changes reflected instantly
+Hot Design Snippets Ready-made UI blocks
+MCPs Connect AI agents to your live app
+‹ Resources
+Community
+GitHub Source code, samples, contributions
+Discord Join the community
+LinkedIn Uno Platform for news and updates
+X.com The latest from our team
+Use Cases
+AI Gallery Apps built with AI
+Case Studies Customers speak
+Utilities
+Template Wizard Start a new project with a guided setup
+Uno Playground Experiment with XAML and C# in your browser
+Learn
+Workshop - Simple Calc Hands-on intro to building a basic app
+Workshop - Tube Player Build a media playback app step by step
+Sample App - Chefs A full reference app with real-world UI patterns
+Code Samples Ready-to-use snippets for common scenarios
+Uno Gallery Live control and UI component showcase
+Uno Tech Bites Short tutorials on specific platform features

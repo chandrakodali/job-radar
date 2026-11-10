@@ -1,0 +1,54 @@
+The Analysis Platform for Engineering Drawings
+Learn More Get Started
+Compliance & registrations
+See GD&T Issues Instantly.
+GD&T errors should never delay your projects. F4 catches them before you release your designs.
+More Features
+1. Import
+Drag and drop PDF and STEP files directly into F4 — processed locally, never uploaded.
+Drop engineering files here
+injector_lower.step 4.2 MB · 3D Model
+injector_lower.pdf 1.8 MB · 2D Drawing
+2. Validate
+Check your full design against the ASME Y14.5 Standard, using F4’s Drawing Validation Engine.
+We detect hundreds of kinds of common GD&T errors — without using AI.
+F4 gives designers more confidence in their drawings and saves many painstaking hours of review and redlining.
+3. Analyze
+F4 performs a wide range of engineering analyses to help you understand your design beyond simple syntax.
+Interface Stackups
+Datum Reference Frame Visualization
+Tolerance Zone Visualization
+Coming Soon DFM Rulechecks
+Coming Soon DFI Rulechecks
+Coming Soon Custom Rulechecks
+Redlined Drawing
+redlined_drawing.pdf PDF · 2D Drawing
+Generate a redlined drawing that clearly summarizes your validation results and analysis for review and communication.
+4. Export
+F4 plugs back into your design and manufacturing workflows. Generate redlined drawings, along with exports for every downstream workflow.
+Other export options
+Project File
+project_file.f4 .F4 · Native
+Share project files with teammates to communicate design intent.
+Inspection Report
+inspection_report.xls XLS · FAIR Table
+Save your detected PMI data in a template FAIR table (AS9102).
+MBD Export
+Coming Soon
+mbd_model.qif QIF · 3D
+mbd_model.step STEP242 · 3D
+Migrate to MBD - straight from your drawings.
+Find the best solution for you
+Compare F4 Review, F4 Pro, and F4 Enterprise capabilities.
+Features
+F4 Review For organizations that need expert drawing reviews, without the overhead. Buy Now
+F4 Pro For single users looking to maximize their productivity. Contact Sales
+F4 Enterprise For teams that want to perfect their drawing review process. Contact Sales
+GD&T Validation
+Drawing Analysis
+Report & Template Exports
+Custom Rulechecks
+Support for export-controlled data
+Custom Onboarding
+Dedicated Technical Support & Training
+Onsite Services

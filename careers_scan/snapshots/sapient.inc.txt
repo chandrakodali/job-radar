@@ -1,0 +1,23 @@
+PRAXIST, our autonomous research system, is now live. Learn More
+Careers
+Shape the future of intelligence with us
+Our
+Locations
+We operate where innovation happens. Across Singapore, Palo Alto, and Beijing, Sapient Intelligence connects leading global innovation hubs to build the next generation of AI.
+Open Roles
+Senior Multi-Agent Systems Engineer
+Senior · On-Site or Hybrid
+We are building a new generation of multi-agent AI systems for complex knowledge work and long-horizon autonomous tasks. Having completed early prototype validation, we are now entering the platformization and production engineering phase.
+Apply Now
+Research Engineer, LLM Pre-training & Post-training
+Senior / Technical Staff · On-Site or Hybrid
+We are looking for a Research Engineer to lead the post-training and alignment pipelines for our advanced reasoning models.
+Systems Engineer, AI Infrastructure
+We are seeking a Systems Engineer to architect and manage the highly flexible, scalable infrastructure that powers our model training and inference.
+Product Manager, AI Platform & Developer Ecosystem
+We are looking for a highly technical and strategic Product Manager to drive the go-to-market strategy, platform experience, and developer ecosystem for our next-generation AI products.
+Software Engineer, Full-Stack (Agent Harness & Interfaces)
+We are seeking a Full-Stack Software Engineer to build the interactive layer between our advanced reasoning agents and the human world.
+For any questions about our open roles, please email us
+Email us For any questions about our open roles, please email us
+CONNECT

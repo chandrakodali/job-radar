@@ -1,0 +1,59 @@
+Career
+Join us and help global teams localize
+About Tolgee
+Tolgee is a company that develops Tolgee, an open-source tool that simplifies the translation of software and applications into different human languages. In Tolgee, we aim to revolutionize how teams localize their software by providing multiple killer features, simplifying projects' development, localization and maintenance.
+Show more
+Meet the team
+What we value
+We believe in open-source values and are committed to building a strong community. Providing a self-hosted product is an essential part of our philosophy.
+We are transparent. Really. We build our product publicly, sharing our plans as individual tasks on GitHub in public repositories. Everyone can read our code, and everyone can improve it.
+We give people as much freedom as possible while keeping them responsible for the results. We value autonomous people who have ideas and are willing to implement them themselves or find the resources to get things done.
+We ship fast , but at the same time, we provide stable and tested products.
+Currently open positions
+Senior Full-Stack Engineer with a Focus on Frontend
+You will own the Tolgee JS SDKs, our design system and the frontend architecture, while shipping features across the whole stack in Shape Up cycles. Hybrid, with our office in Brno.
+More about position >
+Our hiring process
+Quick intro
+We’ll answer your questions and ask a few of our own.
+30 minutes
+In-Depth Interview
+We’d love to learn more about you, your motivation and your past work experience.
+2 hours
+Tolgee Super Day!
+We’ll invite you to spend a paid day with us at Tolgee, where you’ll work on a real task. We’ll also take you out for lunch, giving us a chance to see if you’re a good fit for our team.
+1 working day
+Finally, you'll get a job offer!
+Tolgee vs Lokalise
+Tolgee vs Crowdin
+Tolgee vs Phrase
+Tolgee vs Transifex
+Tolgee vs Locize
+Tolgee vs Localazy
+Tolgee vs POEditor
+Product
+Sign up
+Book a demo
+Documentation
+Roadmap
+Pricing
+Status
+Community
+GitHub discussions
+Slack
+Discord
+Docker hub
+Npm
+OSS friends
+Company
+We are hiring
+Why open-source
+Blog
+Contact us
+ISO
+27001
+Terms & conditions
+Information security policy
+EE licence
+2026
+Tolgee

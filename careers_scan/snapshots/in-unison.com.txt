@@ -1,0 +1,44 @@
+unison
+is seeding new tools
+we believe in technology as a tool to
+enrich daily life, not escape from it
+we believe in using computers
+when they’re useful, not all day long
+to create, not consume
+unison is a series-A stage company based in mountain view, california
+we are a small team of engineers, thinkers, researchers and scientists working on some of the most complex hardware and software problems in the world
+Michael
+Hardware
+Design
+Artificial Intelligence
+Software
+Operation
+Graphics/Audio and Art pipelines at SONY.
+Game engine architecture for Xbox, Santa Cruz Games and more.
+GPU developer technologies at Apple. Speaker at Apple's WWDC.
+Head of software engineering and software architect at Obscura Digital / Bluescape.
+Over 30 years of writing large high performance low latency C++ systems.
+unison is backed by prominent investors and builders, who have contributed to companies like nothing, apple, unity and microsoft
+Lachy Groom, LGF
+Investor in OpenAI, Anduril and Figma. Co-lead investor in Humane.
+Lead
+Jeannette zu Fürstenberg, General Catalyst
+General Catalyst is an investor in Mistral AI, Anduril, Stripe and more.
+James Vincent
+Marketing director at Apple. Worked with Steve Jobs every Wednesday at 1-3pm for 11 years.
+Angel
+Advisor
+Charlie Songhurst
+Ex-head of Corporate Strategy at Microsoft.
+Ted Persson
+Partner at EQT. Lead investor in Nothing and Varjo.
+Naval Ravikant
+Invested in over 10 companies worth over a billion dollars.
+David Helgason
+Founder and ex-CEO of Unity.
+Johannes Huth
+Partner, Chairman of EMEA at KKR, a leading global investment firm.
+Gigi Levy - Weiss, NFX
+Founding partner at NFX. Founder of Playtika (NASDAQ: PLTK)
+we are looking for talent across software, hardware, AI, design and more
+we offer competitive salaries, equity grants, 401k with matching, and premium health insurance, including dental and vision, all 100% company-paid

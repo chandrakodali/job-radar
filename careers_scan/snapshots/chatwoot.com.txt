@@ -1,0 +1,99 @@
+Introducing voice calls
+The modern customer support tool for your business
+Your AI agent, channels and help center, together in one place. Easy to set up, and shaped around how your team works.
+Start your free trial Request a demo
+GitHub 37k stars
+Rated on G2 4.5+ stars
+Trusted by 15,000+ businesses
+AI powered
+Captain, the AI agent for customer support
+Automate conversations, assist agents with AI-powered suggestions, and deliver support in any language.
+Fewer tickets, not just faster replies
+Captain resolves routine questions end to end and hands the rest to your team, so the queue actually gets shorter.
+Auto-resolved Handed off Stayed closed Reopened
+MONITORS
+Know what customers keep asking
+Describe a theme once. Captain counts every conversation that matches.
+COPILOT
+Start every reply with a draft
+Copilot writes the reply from your docs and history. You review and send.
+SCENARIOS
+Set a process, Captain follows it
+Write how your team handles a case. Captain runs the steps and tools.
+Omnichannel
+Keep every conversation in one place
+Website, email, social and messaging, all threaded into one queue.
+WhatsApp templates and calls, Instagram story replies and mentions, Messenger replies without page access. Explore WhatsApp for Business
+Connect Outlook, Gmail or any IMAP/SMTP inbox. Replies stay threaded, with the full history in view. See the email channel
+Set the colour, logo and copy so the widget feels like part of your product. Customize the live chat widget
+Send messages, create channels and listen to webhooks to fit Chatwoot into your stack. Read the API reference
+Match your brand
+MACROS
+Run a playbook in one click
+Bundle a reply, a label and a snooze. Run it on any conversation.
+AUTOMATIONS
+Or let it run on its own
+When a conversation matches your rules, the same macro fires by itself.
+AUTO-TRANSLATE
+Every language, one inbox
+Captain or Google Translate translates every message as it arrives, so your team replies in its own language.
+Voice · New
+The phone for your support desk
+Calls land in the same inbox as every other channel. Inbound and outbound, recorded, transcribed and threaded.
+Twilio Voice
+Plug in a Twilio number and take calls in and out from the browser. No desk phones, no second screen.
+WhatsApp calling
+Customers tap call on the WhatsApp number they already have saved. It rings in your inbox, no phone line needed.
+Austin, United States Incoming call
+Hannah Kim +1 (512) 555-0148
+Recording
+Ringing via WhatsApp Business
+Auto-reply sent: “We’ll call you right back.”
+Go to conversation thread 13892
+Call ended 04:45 · Inbound Answered by Sara R.
+Hannah The dashboard has been taking forever to load since this morning. Sara I’ve restarted a stuck sync. Try refreshing now. Hannah That’s it, it loads instantly. Thanks!
+We have been actively using Chatwoot Voice in our customer support operations, and the experience has been very positive. Calls are stable, audio quality is excellent, and communication with customers has been clear throughout.
+The feature is also very easy to use. It feels intuitive, fits naturally into our existing support workflow, and our team adapted to it quickly. It has already become a valuable tool for handling situations where direct customer interaction is needed.
+André Lucas Technical Support Supervisor · Consumer
+Help Center
+The best conversation is the one nobody had to start.
+Help customers find answers fast with a flexible knowledge base. Customize it to match your brand and give them a 24/7 self-service experience.
+Solutions
+Built for how your industry talks
+Pick your world and watch Chatwoot handle a real conversation, start to finish, in under ten seconds.
+All Industries
+01 / E-commerce
+Turn “where’s my order?” into repeat orders
+Answer pre-sale questions, fix orders fast and keep shoppers loyal across chat, WhatsApp and social DMs.
+Auto-answer order status with tracking links
+Nail size and fit before checkout
+Route returns to the right team
+Book a demo Explore e-commerce
+Customer stories
+What our customers say
+See how support teams use Chatwoot to answer faster and keep customers coming back.
+Read the case studies
+FairDee
+“With a significant portion of our sales happening through chat, if our core customer support platform isn’t accessible, it’s a crisis. Chatwoot has been essential in ensuring this critical system remains dependable and central to our customer operations.”
+Prateek Jogani Co-founder & CTO
+99 and Converso
+“Chatwoot has transformed the way we engage with our customers. Its omni-channel feature allows us to manage conversations simultaneously across multiple channels. I’ve used Chatwoot at my previous companies and continue to rely on it today at Converso. After years as a happy customer, I can confidently say it’s an indispensable tool for any customer-focused business.”
+Ariel Lambrecht Founder
+American Cloud
+“Super impressed with @chatwootapp, another open source win. The out of the box help center/docs is clean. I should publicly state: We love woot. The experience is great!”
+Aron Wagner CEO
+Secure, open source
+Host it yourself and own your data
+Read the code, fork it and run it on your own infrastructure, or let us host it for you. Your conversations and customer data stay where you decide.
+Find us on GitHub Deployment guide
+Stars on GitHub
+37K
+Contributors
+400+
+Type II compliant
+SOC 2
+Compliant
+GDPR
+Secure development
+Secure testing
+Cloud security

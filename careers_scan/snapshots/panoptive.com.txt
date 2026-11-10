@@ -1,0 +1,91 @@
+Company
+Make room for
+clinical progress.
+We build agent systems for the operational work behind clinical development. Shared data, connected workflows, and evidence your team can work with.
+Explore the platform Join the team
+What we’re building
+A shared foundation.
+A broader possibility.
+Clinical development depends on work that happens between systems and teams: reconciling a data delivery, following up on a monitoring finding, or establishing the evidence behind a quality decision.
+Panoptive connects study data, documents, and operational history so agents can help carry out that work. We’re building the foundation for connected systems across clinical data management, clinical operations, and quality assurance—with checks and human review built in.
+External data operations
+Connect vendor deliveries to the study, from mapping and quality checks to reconciliation and review.
+Trial monitoring oversight
+Bring monitoring evidence, sponsor decisions, and the work that follows into one connected case history.
+QA automation
+Assess study records against protocols and SOPs, with evidence and gaps ready for quality teams to review.
+How we build
+Useful AI starts
+with the work.
+The standard is practical: help teams move work forward, understand the evidence, and stay in control of consequential decisions.
+Our approach to trust
+Start with the real workflow.
+Build around the data, handoffs, exceptions, and decisions clinical teams handle every day.
+Make the evidence inspectable.
+Keep source context, quality checks, and human review connected to the work agents perform.
+Build beyond a single use case.
+Invest in shared clinical context and versioned workflows that can support more of a team’s operational work.
+Stay close to the people doing the work.
+Learn directly from pharma, biotech, and CRO teams. Let their experience shape the product and how we deliver it.
+Careers at Panoptive
+Build what’s next.
+Help shape how.
+Work at the intersection of clinical expertise, data infrastructure, and applied AI. Help shape the systems clinical teams use—and the company building them.
+Explore open roles
+Ownership
+Competitive salary and meaningful equity
+Wellbeing
+Health, dental, and vision coverage
+Flexibility
+Flexible PTO and a remote-friendly culture
+Your workspace
+Home office stipend
+Growth
+Annual learning and development budget
+Connection
+Regular team offsites
+Find your place.
+4 open roles
+Engineering
+Member of Technical Staff
+San Francisco / Remote Full-time
+The role
+Build and scale agent systems for clinical development workflows where correctness, traceability, and controlled execution matter. Own the evaluation infrastructure and methods that measure agent performance, expose failure modes, and guide improvements from development through production.
+Apply for this role
+What you’ll bring
+Experience building and operating agent systems at scale in rigorous use cases or regulated environments
+Hands-on ownership of evaluation infrastructure and methods, including task benchmarks, regression testing, and production monitoring
+Strong software engineering and ML fundamentals, with experience diagnosing failures across models, tools, retrieval, and workflows
+A disciplined approach to reliability, evidence, and human review in consequential workflows
+Especially valuable
+Experience with model post-training, including supervised fine-tuning, preference optimization, or reinforcement learning
+Hands-on modeling and experimental design, connecting model changes to measurable improvements in agent performance
+Product
+Clinical Operations Lead
+Remote Full-time
+Translate clinical workflows into clear product requirements and review criteria. Work with customers and engineers to shape how agents support data operations, monitoring follow-up, and quality assessment.
+7+ years in clinical operations or medical monitoring
+Direct experience with sponsor oversight responsibilities
+Familiarity with ICH E6(R3) and 21 CFR Part 11
+Excellent communication skills
+Customer Success
+Founding Customer Success Manager
+Guide pharma, biotech, and CRO teams from an initial workflow to a focused deployment. Coordinate onboarding, define success criteria, gather feedback, and build a repeatable implementation approach.
+4+ years in customer success or implementation
+Experience with enterprise SaaS in life sciences
+Strong project management skills
+Ability to translate technical concepts for non-technical users
+Sales
+Account Executive
+Bring Panoptive to pharma, biotech, and CRO teams. Lead consultative conversations across data management, clinical operations, and quality, and help customers identify a practical starting workflow.
+5+ years of B2B SaaS sales experience
+Track record of selling to life sciences or healthcare
+Experience with complex, multi-stakeholder deals
+Proactive prospecting and consultative selling skills
+A different background, a shared ambition?
+Introduce yourself
+Let’s work together
+Better clinical development
+starts with the work.
+Bring us a workflow. We’ll explore what’s possible.
+Talk to our team

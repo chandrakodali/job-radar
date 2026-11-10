@@ -1,0 +1,130 @@
+Introducing Confident Voice: Watch the Launch Video Now
+Confident AI
+0 Contact sales Sign Up
+Contact sales
+Build the reason AI can be trusted
+You'll work alongside people who care deeply about the problem and each other. No ego, no busywork — just hard problems, fast shipping, and a team that has your back.
+WHY US
+Why Confident AI.
+Confident AI is a small, fast-moving team building the infrastructure that makes AI trustworthy. We started by building DeepEval, one of the most used packages for LLM evaluation in the world, used by companies such as OpenAI, Google, and Microsoft.
+The problem matters. AI is shipping to production faster than anyone can verify it works. We're building the trust layer.
+Small team, outsized impact. A handful of people used by hundreds of thousands of developers — from solo builders to OpenAI and Google.
+Speed is the culture. Ideas go from conversation to production in days, not months.
+Real ownership. You pick up a problem, you own it end-to-end — architecture, implementation, shipping, and the metrics that prove it worked.
+If you want to do the best work of your career and actually see it matter, this is the place.
+OUR CULTURE
+What We Value.
+No excuses, no BS
+If something is wrong, say it so someone can help. We don't sugarcoat, we don't dance around problems, and we don't let ego get in the way of fixing what's broken. Directness isn't rude here — it's respected.
+Ownership
+You don't wait to be told. You see the problem, you pick it up, you see it through. You test your own work, catch your own mistakes, and ship things you'd stake your name on. Nobody here is checking behind you — because they shouldn't have to.
+First principles thinking
+We don't do things because that's how they're done. Every decision gets pressure-tested. If the best answer is uncomfortable or unfamiliar, good — that's usually the right direction.
+Customer obsession
+We exist to solve our customers' problems. We talk to them directly, we respond fast, and we never leave them guessing or ghosted. If a customer has a problem, it's our problem — and they'll always know where they stand with us.
+Radical transparency
+Hiding a problem won't make it go away. We surface issues early, share context openly, and trust each other with the full picture. No politics, no back-channels — just the truth, delivered with respect.
+Never stop sharpening
+Nobody here will nag you to get better. We hire people who are already wired that way — who read, ask questions, seek feedback, and come back sharper every week. Growth here isn't a performance review conversation. It's just how you operate.
+OPEN POSITIONS
+Join our team.
+Go-to-Market
+Founding Growth Engineer
+San Francisco $140K–$200K + equity Go-to-Market
+Overview
+Confident AI is building the infrastructure that makes AI trustworthy. We help engineering teams evaluate, monitor, and improve the AI systems they ship to production.
+We're hiring a Founding Growth Engineer to build our growth engine from scratch: the funnels, experiments, and instrumentation that acquire and activate users and tell us exactly what's working. This is a build-and-measure role, not a content or community role — you'll make decisions based on what the data says, and you'll work in person in San Francisco directly with the founders.
+What you'll be doing
+Design and build a reusable, scalable growth engine from the ground up — the acquisition channels, funnel stages, experiment framework, and feedback loops that let us grow predictably rather than by luck.
+Own the growth funnel end to end, from first touch through sign-up and activation. Map it, instrument it, and find where users leak out.
+Build the instrumentation and attribution layer so every channel, page, and experiment can be measured against real outcomes — activated users, not traffic and vanity metrics.
+Run a weekly cadence of growth experiments across channels: organic and AI search (SEO/AEO), programmatic pages, lifecycle and onboarding flows, referral loops, and product-led triggers. Ship, measure, double down on what compounds, and kill what doesn't.
+Explore video as a growth channel — product demos, short-form clips, and tutorials on YouTube and social — and measure whether it drives sign-ups and activation, not just views.
+Build the tooling yourself: data pipelines, dashboards, automation, scrapers, programmatic content systems, and the AI-agent workflows that let one person operate like a growth team.
+Turn data into decisions. Analyze funnel performance, cohort behavior, and channel efficiency, and reallocate effort toward what the numbers show is actually driving growth.
+Partner closely with the founders. They set direction; you build and scale the system that makes it grow.
+You should be someone who
+Experience in growth engineering, growth or product analytics, or a technical growth role — someone who builds systems and runs experiments rather than managing agencies or content calendars.
+You can code. Comfortable in Python and/or TypeScript/Node, building pipelines, attribution, automation, and internal tooling. You ship your own tools instead of waiting on someone else.
+Deeply data-driven. You're fluent in funnel and cohort analysis, know how to set up event tracking and attribution properly, and are honest about what the data does and doesn't tell you. This is the make-or-break trait for this role.
+Strong experimentation discipline: clear hypotheses, sensible sample sizes, and the willingness to kill your own ideas when the results say so.
+Practical understanding of modern acquisition channels — SEO, AEO/GEO (showing up in AI-generated answers), programmatic content, lifecycle, and product-led growth loops.
+Comfortable owning a growth metric tied to real outcomes — activated users, not stars or pageviews.
+Technical enough to understand a developer product and the engineers who use it, so the funnels you build make sense to the people going through them.
+Comfortable executing within a strategy the founders own, bringing strong opinions while staying in a build-and-execute seat.
+High-agency and comfortable with ambiguity. We're seed-stage; the playbook doesn't fully exist yet. Exceptional early-career candidates are welcome — ceiling matters more than years.
+Excited to work in person with the founding team in San Francisco.
+Your work will
+Build the growth engine from scratch — a repeatable, scalable system for acquiring and activating users that outlives any single campaign.
+Own the growth funnel and the metric that comes out of it, from first touch to activation.
+Own instrumentation and attribution, so the company always knows what's driving growth and what isn't.
+Set the data-driven, experiment-first culture that the future growth team is built on.
+By joining us, you will
+You're building on a real foundation. Our open-source projects already have serious developer adoption — you're building the engine that turns that into predictable growth, not starting from zero.
+Build it your way: full ownership of the growth stack, the tooling, the data layer, and the experiments. If you can code it and it moves the metric, ship it.
+A seat at the table with the founding team, a high ceiling, and the foundation of a future growth team to build under you as the company scales.
+[ Apply for Founding Growth Engineer → ]
+Engineering
+Founding Product Engineer (Frontend)
+San Francisco $175K–$200K base + equity Engineering
+Confident AI is building the infrastructure that makes AI trustworthy. Engineering teams spend hours a day inside our platform looking at traces, evals, and test results — the frontend isn't a layer on top of the product. It is the product.
+We're hiring a Founding Product Engineer to own that product end-to-end: talk to users, decide what gets built, design the UI yourself, and ship it down to the API routes that power it. No PM writing specs, no designer handing you mocks.
+Own user-facing features from product decision to design to shipped code. You make the design calls — there are no Figma files waiting for you.
+Build data-dense, fast, polished interfaces for traces, evaluation results, and testing workflows — the screens our users live in every day.
+Talk to users, understand their workflows, and turn what you learn into product decisions. You're the engineer in the room closest to the customer.
+Work across the stack. Most of your time is in the frontend, but you'll write the API routes, queries, and server logic your features need without waiting on anyone.
+Architect the frontend to last — the components, state management, and patterns you establish need to hold up as the product and team grow around them.
+Set the standard for product quality and user experience that every engineer we hire after you builds to.
+3+ years building production web applications, ideally at a fast-moving product company or startup.
+Deep proficiency with React, Next.js, TypeScript, and CSS. You don't reach for a UI library because you can't write the styles yourself — you reach for one when it's the right call.
+A genuine eye for design. You notice when spacing is off by 2px, you have opinions on motion and hierarchy, and you can take a feature from idea to polished UI without a designer.
+You understand frontend at scale — rendering performance, state management, data fetching, and architecture that doesn't collapse as the product grows.
+Enough backend fluency to move fast — databases, APIs, caching, auth. You won't be scaling them, but you build against them confidently.
+Fluent with AI coding tools like Claude Code and Cursor as part of your daily workflow. At our size, every engineer operates at a multiplied level.
+You think in user experiences, not components. The question you ask is 'what should this feel like to use,' not 'what props does this take.'
+High-agency and comfortable with ambiguity. We're seed-stage — you identify what matters, make a plan, and ship.
+Be the reason our platform feels like the best product in AI infrastructure, not just the most capable one.
+Own the user experiences that engineering teams interact with for hours every day.
+Set the product engineering bar the rest of the team builds to as we scale from seed to market leader.
+Full ownership: you decide what gets built and how it feels, and you ship it yourself.
+A seat at the table: direct access to the founding team at the stage where every product decision compounds.
+The problem: you'll work on what makes all other AI work trustworthy. The impact ceiling is massive.
+[ Apply for Founding Product Engineer → ]
+Research
+Open Source Research Engineer
+San Francisco $120K–$180K + equity Research
+Confident AI is building the infrastructure that makes AI trustworthy. We maintain the open-source projects AI engineers use every day: DeepEval for LLM evaluation, DeepTeam for red teaming, and confident-trace for OpenTelemetry-native tracing.
+We're hiring an Open Source Research Engineer to keep those projects at the frontier and make sure developers know it. Half the role is reading new research and shipping it — a novel attack method in DeepTeam, a new metric in DeepEval, a new integration in confident-trace. The other half is showing that work to the world through technical content, video tutorials, and social media. You'll work in person in San Francisco directly with the founders.
+Track the research frontier in LLM evaluation, red teaming, and agent observability. Read new papers, benchmarks, and attack techniques as they come out and decide what's worth implementing.
+Implement what you find. Ship novel attack methods and vulnerability classes in DeepTeam, new metrics and evaluation techniques in DeepEval, and new framework and provider integrations across DeepEval and confident-trace.
+Build integrations with the agent frameworks, model providers, and tools AI engineers actually use, so our projects work out of the box wherever they're building.
+Create technical content around the work: blog posts, docs, and written deep dives that explain the research, the implementation, and how to use it in practice.
+Produce video tutorials and walkthroughs — from short feature demos to longer end-to-end guides — that help developers get value from the projects fast.
+Run our social media presence for the open-source projects. Announce releases, share what's new in the research, and engage with the developer and AI safety communities on X, LinkedIn, YouTube, and wherever else they gather.
+Engage in the community. Answer questions on GitHub and Discord, triage issues, and turn what you hear from users into roadmap input for the founders.
+Strong Python, with the ability to read a research paper and turn it into a clean, tested, well-documented implementation. TypeScript is a plus for confident-trace and the JS ecosystem.
+Genuine interest in LLM evaluation, AI security and red teaming, and agent observability. You already follow this research and have opinions on it.
+Comfortable working in and contributing to open-source codebases — you understand how to ship a feature that thousands of people will pull tomorrow.
+Can write clear, credible technical content that engineers respect, and can explain a complex idea simply without dumbing it down.
+Comfortable on camera. You'll be producing video tutorials and demos regularly, and you'll be one of the public faces of our open-source projects.
+Comfortable running a social media presence for a technical audience — you know what makes developers stop scrolling and what makes them roll their eyes.
+Fluent with AI coding tools like Claude Code and Cursor as part of your daily workflow.
+High-agency and comfortable with ambiguity. We're seed-stage — you identify what matters, make a plan, and ship. Exceptional early-career candidates are welcome.
+Keep DeepEval, DeepTeam, and confident-trace at the frontier of what the research says is possible.
+Be the reason developers discover what's new in our projects and understand how to use it.
+Grow the open-source community around our projects.
+Real reach: your implementations and content ship to a large, active developer base the day they land, not into a void.
+Research with a shipping cadence: you read the papers and you write the code, and both count.
+A seat at the table with the founding team, and direct influence over the roadmap of three open-source projects.
+[ Apply for Open Source Research Engineer → ]
+HIRING PROCESS
+Our Hiring Process.
+The entire process is usually fully remote and all communication happens over email or via video chat in Google Meet. We know that you may be interviewing elsewhere as well so are respectful of your time and will get back no later than 2 days of each step along the process.
+The entire process has 4 steps and takes around 1.5 weeks in total:
+Initial 15-30 minute phone screening interview.
+One 30-45 minute technical interview.
+One week fully-paid work trial.
+Full-time offer.
+No hires will be made without a work trial. You'll be working with the founders directly throughout the entire process. For any questions, email hiring@confident-ai.com .
+Interested? Let's talk.
+Let's Talk

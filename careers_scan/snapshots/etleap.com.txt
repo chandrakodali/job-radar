@@ -1,0 +1,49 @@
+Build the future of data with us
+At Etleap, we’re building the infrastructure that teams rely on to create powerful data products. Join us to solve complex challenges.
+View open positions
+Etleap ETL removes the headaches experienced building data pipelines. A cloud-native platform that seamlessly integrates with AWS infrastructure, Etleap ETL consolidates data without the need for coding.
+Our purpose is to unlock the power of data and enable analytics teams to be more productive by removing the need for internal IT resources or knowledge of complex scripting languages, reducing the time spent on typical ETL projects from weeks to hours.
+With rich features like wrangling, modeling, and VPC deployment, Etleap arms data teams with the ability to parse, structure, de-identify, clean, and secure their data effortlessly while modeling data with SQL for performance and analytics readiness - all in just a few clicks.
+Life at Etleap
+Archie
+Member of Technical Staff
+Caius
+Ashley
+Operations Management
+“Working at Etleap has helped me grow significantly as an engineer. As we strive to stay at the forefront of ETL and big data, there is no shortage of opportunities to learn, and challenging projects to work on.
+I enjoy that we are often granted early access to product features being developed by industry leaders such as the Redshift team, and occasionally have the chance to work with these teams to support these features ahead of their public release. At Etleap I get to work with remarkable colleagues in a high-performing team which enables us to move quickly and win often.”
+“I've been full time with Etleap for 3 years now!
+The greatest aspect of working here is being involved in all parts of the product. I've worked on everything from back-end and integrations, to our front-end stack and managing the infrastructure. This has allowed me to become a better engineer, and I am constantly improving and building my skills. The team is really cohesive, smart, and a joy to work with.”
+“The most exciting thing to me about my role is that I get to work cross-functionally with my peers in marketing, sales and engineering to create a super streamlined and efficient working environment. The collaboration here at Etleap stands out to me as one of our strongest core values - I see it lived out in everything we do; from our daily interactions, to our annual company off-sites, and everything in between. Our leadership emphasizes openness and teamwork, which creates an empathetic, supportive, and truly fun work environment. We’d love to have you be a part of it!”
+The perks
+Unlimited PTO
+Daily company sponsored lunch
+Cool office space in SF and London
+401k
+Annual international off-site gatherings
+What drives us
+Being obsessed about customer success
+Moving fast and making mistakes once
+Embracing rethinking anything
+Growing sustainably
+Emphasizing collaboration and shared success
+Open positions
+Software Engineer
+Our core product engineering team’s mission is to develop new and innovative ways to make ETL/ELT technology user-friendly.
+San Francisco and London
+In person
+Software Engineer - Integrations
+It shouldn’t take a CS degree to centralize data, and our integrations team abstracts away the difficult parts by extending Etleap’s integrations framework.
+Latin America
+Remote
+DevOps Engineer
+Etleap is powered by complex, autoscaling, fault-tolerant AWS infrastructure, and we are looking for a DevOps Engineer who can help us take it to the next level.
+Account Executive
+We're seeking entrepreneurial Account Executives to join our sales team.
+United States
+Technical Support Engineer - London
+We’re hiring a Technical Support Engineer to support end-users, push product adoption, and collaborate across teams to help customers succeed with Etleap.
+London
+Operations Manager
+We are looking for an Operations Manager to work directly with company leadership and keep the business running smoothly.
+San Francisco

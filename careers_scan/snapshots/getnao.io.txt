@@ -1,0 +1,216 @@
+The #1 open source
+agentic BI builder
+Your data team builds the analytics agent and owns the context layer.
+Everyone in the company builds on data.
+Sign Up
+Backed by Y Combinator
+Sarah, what do you want to analyze?
+Ask anything about your data...
+Claude Opus 5.5
+Suggested ideas based on your data set
+Which customers churned last quarter?
+Pinned stories
+6,310 24,184 19
+Weekly Business Review
+Claire · 13 Oct
+Certified
+Pipeline Health
+Christophe · 9 Oct
+Stage Count vs prev Signed up 412 - Activated 236 57% Retained 164 69%
+Product Activation
+Sarah · 2 Oct
+Show more
+They use nao every day
+Read Florian 's story →
+Read Manuel 's story →
+Read Kasra 's story → Read Ken 's story →
+Create your own Agentic BI
+Build your data context layer
+Context is what makes your agent reliable. nao file system context layer lets you add the relevant context for your agent.
+nao-project/
+nao_config.yaml
+databases
+dim_users
+columns.md
+preview.md
+profiling.md
+fct_orders
+docs
+business_definitions.md
+glossary.md
+repos/dbt
+semantics
+main_metrics.md
+RULES.md
+tests
+mrr.yaml
+Agent reliability grows with context
+15 %
+No context
+30 %
+nao sync
+45 %
+Add your docs
+65 %
+Rework data model
+85 %
+Rework context
+Source →
+Let your whole company analyze data
+From anywhere
+app.getnao.io
+New chat Search chats Stories Feed Chats Starred Usage report 1h ago Chats Weekly business review 1h ago Revenue trend 2h ago Churn by plan 5h ago Top accounts Q3 1d ago Signups by country 1d ago Support tickets trend 2d ago S Sarah sarah@acme.com
+Revenue trend Share chat
+Show me monthly revenue and the running total
+Explored 1 file
+SQL Monthly revenue 10 rows
+Revenue trend by month All data
+Revenue Cumulative revenue
+nao online
+Today
+Churn this month? 09:12
+2.1% , down from 2.6% in September. Fewer cancellations on annual plans. 09:12
+Send me a chart of daily signups 09:13
+Daily signups, last 10 days
+Up 24% on the previous 10 days. 09:13
+Message
+Teams
+top 5 customers last month?
+nao 2:50 PM
+Explored 1 query
+Summary of findings
+Northwind · Globex · Initech · Umbrella · Stark Ind.
+Claude · Used 5 tools ›
+Widget from nao display_chart ⌄
+Weekly signups Open in nao
+nao app
+Thread
+claire @nao chart of weekly signups
+nao APP
+Explored 2 files, 1 query.
+Weekly signups
+Let anyone build their own own Stories
+Revenue by country Share chat
+Build a dashboard of revenue by country
+SQL Revenue by country 50 rows
+Thought
+Revenue by Country Created · v1
+France leads with $1.21M, up 18% on last year.
+Add a follow-up...
+Revenue by Country Live story 18m ago
+Date range
+Jan 2026 - Oct 2026
+Country
+All countries
+Plan
+All plans
+Overview By country Trend
+Revenue by Country
+Revenue reached $4.57M year to date, up 12% . France leads with $1.21M and the fastest growth at +18% .
+Revenue YTD
+$4.57M
+Top country
+France
+Growth YoY
++12%
+Revenue by country, $M
+France 1.21 +18%
+United States 1.04 +9%
+Germany 0.72 +12%
+United Kingdom 0.61 +7%
+Spain 0.43 +15%
+Monthly revenue, $K
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct
+nao 2 / 5
+Revenue by country
+France leads growth at +18%
+France 1.21
+United States 1.04
+Germany 0.72
+United Kingdom 0.61
+Spain 0.43
+What changed
+France passed $1.2M
+Spain grew +15%
+Revenue YTD $4.57M , +12%
+kova 2 / 5
+Sync your warehouse, dbt and docs into files your agent reads. Context work takes an agent from 15% to 85% reliability.
+From anywhere:
+Monitor that your agent always gets it right
+Evaluate offline
+nao test runs your key questions against the SQL you expect and scores every context change before it ships.
+$ nao test
+✓ last_month_mrr
+✓ revenue_by_country
+✓ active_users_28d
+✗ churned_mrr
+...
+Summary
+Tests
+Success %
+Always %
+Cost
+Time (s)
+91.7%
+87.5%
+$0.41
+212.4
+Observe online
+Chat replay shows every conversation. Context recommendations turn errors and downvotes into fixes, opened as pull requests.
+nao · Context Recommendations
+Context Recommendations
+Diagnostic suggestions for improving this project's context, mined from real usage.
+Run now
+Config Recommendations 12 Applied 30 Dismissed 8
+MRR excludes annual plans paid upfront Semantic missing
+Three chats summed monthly invoices only. The agent read amount_usd as monthly while annual plans are billed once.
+4 3 2
+Detected 2d ago 1 suggested change +3 -1 Create PR
+Orders lookup filters on a column that does not exist Tool errors
+Proposed changes
+MRR excludes annual plans paid upfront
+semantics/main_metrics.md +3 -1
+↕ Show 4 unchanged lines
+5 5 ## Revenue Metrics
+6 6 - Total Revenue
+7 - - Monthly Recurring Revenue (MRR)
+7 + - Monthly Recurring Revenue (MRR): sum of active
+8 + subscriptions per month. Annual plans paid
+9 + upfront count as amount_usd / 12.
+8 10 - Average Revenue Per User (ARPU)
+↕ Show 12 unchanged lines
+Watch your whole company grow into analysts .
+“ Our VP of Finance joined weeks before a board meeting and used our nao agent to learn and trust our data within days. ”
+Ken , VP of Data and Operations Read full story
+“ Now, every department head relies on nao for their analytics. Even the CEO frequently turns to it for insights. ”
+Kasra , Head of Data Read full story
+“ Our CTO answered a question from our Medical Director during a steering committee using a few prompts in nao. It was truly nao's 'wow moment'. ”
+Florian , Head of Data Read full story
+“ nao absorbs the steady stream of ad hoc product questions that would otherwise land on my desk one by one. ”
+Manuel , Principal Data & AI Read full story
+Open source
+View on GitHub →
+The whole core product is Apache 2.0. Self-host it, read the code, and shape the roadmap with the community.
+getnao / nao Public
+The #1 open source agentic BI builder
+- stars - forks - contributors
+Stack agnostic
+Contribute →
+nao works with all warehouses, data stacks, and LLMs. Anything missing? Contribute to build it!
+The most secure agentic BI option
+Your models, your infrastructure, your permissions.
+Trust Center → Enterprise features →
+Bring your own LLM key.
+Any provider at your own price, with budgets per user and per team.
+Deploy in your own infrastructure.
+Self-host on your own cloud, or run on nao Cloud.
+Your SSO and warehouse permissions.
+Okta, Google, Microsoft Entra ID or any OIDC. Row-level security and identity passthrough.
+SOC 2 Type II.
+Audited controls. Your data is never used to train models.
+Set up nao in 5 minutes .
+Get started
+Free playbook
+Learn Agentic Analytics
+Take an analytics agent from POC to production, with a tool benchmark, a context engineering method and examples from 7 real companies.
+Get the Playbook

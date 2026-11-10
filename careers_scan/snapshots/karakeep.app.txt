@@ -1,0 +1,107 @@
+30k+ stars on GitHub
+The
+Bookmark Everything
+App
+Quickly save links, notes, and images and Karakeep will automatically
+tag them for you using AI for faster retrieval. Built for the data
+hoarders out there!
+cloud.karakeep.com
+Save here. Read anywhere.
+iOS Android Chrome Firefox Safari All apps
+USE CASES
+Save, organize, and rediscover
+From quick captures to automated workflows. Here's how Karakeep fits the way you collect.
+BOOKMARKING
+One place for all your bookmarks
+Save links, notes, images, and PDFs from any device. Karakeep automatically fetches titles, descriptions, and images so you never lose context.
+Save any link with one click
+Store notes, images, and PDFs
+Full-page archives protect against link rot
+Find it the way you remember it
+Search the full text of everything you save, or switch to semantic search and find bookmarks by what they mean, not just the words they contain.
+Blazingly fast full-text search across everything you save
+Keyword, hybrid, and semantic modes in the search bar
+OCR makes text inside images and screenshots searchable
+that pasta recipe with the crispy garlic bits
+Semantic
+Midnight Pasta with Crispy Garlic
+Recipes
+weeknightkitche... • Aug 22
+Garlic confit, three ways
+Cooking
+youtube.com • Aug 22
+Nonna's pasta notes
+Family
+Note • Aug 22
+Sunday sauce, from scratch
+Image • Aug 22
+ORGANIZATION
+Let AI organize your bookmarks
+Karakeep uses AI to automatically tag and categorize your bookmarks. Stop spending time filing things away. Just save and let AI do the work.
+Automatic AI-powered tagging
+AI-generated summaries
+Instant organization as you save
+Two Weeks in Japan on a Budget
+TAGS
+Travel Japan Planning Itinerary Budget Travel Street Food Rail Passes Cherry Blossom Season Day Trips
+READING
+Read and highlight with ease
+Enjoy saved articles in a clean, distraction-free reader view. Highlight important passages and keep them organized for quick reference.
+Distraction-free reader view for articles
+Highlight text on any saved page
+Read offline in the mobile apps
+AUTOMATION
+Automate your workflow
+Create powerful automation rules to manage your bookmarks. Automatically tag, move, or organize content based on custom conditions.
+Build custom automation rules
+Trigger actions on new bookmarks
+Auto-tag based on URL patterns or content
+Save Amazon finds to my wishlist Shopping links get filed away automatically.
+WHENEVER
+A bookmark is added
+URL contains amazon.com
+ACTIONS
+Add tag Shopping
+Add to list 😍 Wishlist
+Add action
+RSS FEEDS
+Your feeds, on autopilot
+Subscribe to blogs and news sites and Karakeep saves new posts automatically. They're tagged, indexed, and searchable like everything else. Any list can be published back out as an RSS feed, too.
+RSS Feeds
+Add Feed
+Hacker News hnrss.org/frontpage
+The Verge theverge.com/rss/index.xml
+Weeknight Kitchen weeknightkitchen.com/feed
+Checked every hour · New posts saved automatically
+COLLABORATION
+Curate lists together
+Invite friends or teammates into any list as editors or viewers. Plan a trip, run a book club, or build a team reading list. Everyone sees the same collection.
+📚 Book Club Picks Shared list · 24 bookmarks
+You Owner
+Layla Editor
+Tom Viewer
+Invite collaborator
+LLM-READY
+Works with your AI assistant
+Skills, a first-party MCP server, a CLI, and a markdown-first API with granular permissions. Everything an agent needs to search and save on your behalf.
+Agentic skills
+Teach AI assistants to search, save, and organize through natural conversation.
+MCP server & CLI
+A first-party MCP server and a full CLI for scripts and agents.
+Scoped API keys
+Per-scope permissions: no access, read-only, or read & write.
+Markdown-first content
+Saved pages are served as clean markdown through the API.
+$ npx skills add karakeep-app/karakeep
+$ karakeep bookmarks list --json
+Open Source & Self-Hostable
+Karakeep is fully open source. Run it on your own server with Docker, keep full control of your data, and contribute to the project.
+View on GitHub Self-hosting docs
+$ docker compose up -d
+30k+
+GitHub Stars
+150+
+Contributors
+Start bookmarking everything
+Free to try in the cloud, or self-host it with Docker.
+Sign Up Try Demo

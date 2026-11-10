@@ -1,0 +1,14 @@
+Careers at Cloudbase
+At Cloudbase Solutions, we are aiming to bring
+together the OpenStack world with the Windows ecosystem.
+We focus on passion, strive for results and look for people just as driven as we are.
+Open Positions
+Python Software Developer
+We are looking for highly motivated Python developers to join our teams in Timisoara, Iasi, Cluj-Napoca or Bucharest, interested in working on cutting edge cloud computing projects such as OpenStack and contributing to several other open source technologies.
+Cloud Developer
+We are looking for a highly motivated Cloud Developer to join our team. Deploy and maintain private and public clouds as well as Windows and Linux workloads for our customers.
+DevOps Engineer
+We are looking for passionate DevOps to join our team that builds, tests and maintains new Linux Kernel releases, installs, configures and tests latest Linux distros and Windows releases, and builds and maintains Continuous Integration Systems for our projects.
+Trainer & Consultant
+We are looking for a highly motivated Trainer & Consultant to join our Cloudbase Solutions team, in order to travel to various customer offices worldwide and deliver specialized trainings and workshops based on client needs.
+Go to Top

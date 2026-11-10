@@ -1,0 +1,114 @@
+Freestyle
+Docs D Sign In S
+San Francisco, CA
+Build the next generation of cloud infrastructure
+We're building fast, programmable compute infrastructure for AI Coding Agents. We buy our own hardware and run on bare metal.
+View Open Roles
+What we're building
+Freestyle provides infrastructure for developers building AI applications, coding agents, and workflow engines. Our platform includes powerful micro-VMs that start in about 65ms.
+We're focused on making infrastructure fast and programmable. That means working at every layer of the stack - from our own hypervisor and kernel optimizations to distributed storage systems and developer-facing APIs.
+Why join
+Own hardware infrastructure
+We're buying servers and managing our own physical infrastructure. Work directly with bare metal, not just cloud abstractions.
+High-impact work
+Join a focused engineering team where your work directly shapes the product and architecture. Fast decisions, no bureaucracy.
+Ship production systems
+We're live with customers and growing fast. Build systems that need to be reliable, fast, and scale from day one.
+Location
+Based in San Francisco
+We work in-person in SF. Being close to hardware, customers, and each other matters when building infrastructure.
+In-Person
+Open positions
+We're looking for engineers who want to work on hard problems and ship systems that matter. All roles are in San Francisco.
+Systems Engineer
+VM Runtime & Low-Level Infrastructure
+Full-time
+Build the VM runtime that powers Freestyle. We write our own KVM hypervisor in Rust, built around layered copy-on-write memory — checkpoint, fork, and lazy restore all fall out of it. Work on the VMM, virtio device emulation, micro-VM orchestration, and kernel-level optimizations. You'll be designing the lowest-level primitives that everything else depends on.
+What you'll do
+• Build and optimize VM lifecycle management, forking, and migration
+• Work inside our own Rust VMM and the guest kernel to minimize cold-start times
+• Design memory management and resource isolation systems
+• Extend the copy-on-write memory and disk layering behind checkpoint, fork, and resume
+• Debug and profile performance issues at the kernel and hypervisor level
+What we're looking for
+• Strong systems programming experience in Rust, C, or C++
+• Deep understanding of Linux internals, virtualization, or containers
+• Experience with KVM, virtio, hypervisor internals, or low-level runtime work
+• Track record of shipping performance-critical infrastructure
+Rust KVM Virtualization Linux Kernel
+Apply for this role
+Platform Engineer
+APIs, Dashboard & Customer-Facing Systems
+Build the public APIs, web dashboard, and admin tools that developers interact with. Design intuitive interfaces on top of complex infrastructure, implement billing and access control, and create the SDKs and CLI tools that customers use every day. Our APIs are built in Rust.
+• Design and implement REST APIs in Rust for VMs
+• Build backend services for authentication, billing, usage tracking, and admin systems
+• Build the web dashboard (React/TypeScript) for infrastructure management
+• Create and improve SDKs and developer tools (TypeScript, Python)
+• Work across the entire stack from React frontends to Rust backend services
+• Strong Rust experience or systems programming background
+• Experience building customer-facing APIs and web applications at scale
+• Solid TypeScript/React skills for dashboard and SDK work
+• Product sensibility and deep care for developer experience
+• Experience with cloud platforms (GCP, AWS) or building developer-facing infrastructure
+TypeScript Rust APIs React Developer Tools
+Infrastructure & Reliability Engineer
+Networking, Security & Distributed Systems
+Own the technical infrastructure that keeps Freestyle secure and reliable. Design network topology and security boundaries for multi-tenant VMs, build observability systems, architect distributed infrastructure, and ensure production systems scale reliably under any conditions.
+• Design and implement network topology, routing, load balancing, and security boundaries
+• Architect security isolation for multi-tenant VM workloads
+• Build monitoring, alerting, and observability systems for the entire platform
+• Work on distributed systems challenges like consensus, replication, and failure recovery
+• Design infrastructure architecture and capacity planning for growth
+• Lead incident response and conduct post-mortem analysis
+• Deep understanding of networking protocols, security, and distributed systems
+• Strong production operations and infrastructure engineering experience
+• Experience with Rust, C, or systems programming for infrastructure tooling
+• Experience with network architecture, BGP, VLANs, or hypervisor networking
+• Track record of building reliable, scalable infrastructure
+Rust Security Networking Infrastructure Distributed Systems
+Developer Advocate
+Customer Engineering & Technical Content
+Be the bridge between Freestyle and developers building on the platform. Help customers integrate and succeed, create technical content and documentation, build example applications, and represent developer needs internally. Technical and customer-facing in equal measure.
+• Help customers integrate Freestyle into their applications and workflows
+• Create technical documentation, guides, and video tutorials
+• Build example applications, starter templates, and demos
+• Speak at conferences and write technical blog posts
+• Gather customer feedback and advocate for their needs with the engineering team
+• Strong technical background with production software development experience
+• Excellent written and verbal communication skills
+• Experience with developer tools, infrastructure, or platform APIs
+• Track record of creating technical content (blog posts, talks, tutorials)
+Developer Relations Technical Writing Customer Engineering
+Technical Operations Lead
+Infrastructure, Hardware & Vendor Management
+Lead infrastructure operations and planning. Own relationships with colocation providers and hardware vendors, coordinate infrastructure expansion, manage capacity planning, and build operational processes. Balance hands-on technical work with strategic planning and vendor coordination.
+• Plan and coordinate infrastructure expansion with colocation providers (Equinix, etc.)
+• Manage vendor relationships for hardware procurement, networking, and services
+• Own capacity planning and infrastructure roadmap across hardware and cloud
+• Coordinate between engineering teams on infrastructure needs and priorities
+• Evaluate and procure servers, networking gear, and cloud resources (GCP, AWS, Hetzner)
+• Build operational processes, runbooks, and automation for infrastructure management
+• Experience with infrastructure operations, technical program management, or DevOps leadership
+• Strong understanding of hardware, cloud infrastructure, and datacenter operations
+• Excellent communication and vendor management skills
+• Comfortable working across technical execution and strategic planning
+Operations Infrastructure Vendor Management Planning
+Don't see the right role?
+We're always interested in talking to talented engineers. If you're interested in infrastructure and want to work on hard problems, reach out.
+What to include in your application
+Your background
+Tell us about relevant experience and what you've built. We care more about what you can do than where you've worked.
+Show your work
+Share examples of technical work you're proud of. Links to projects, code samples, or anything that demonstrates your capabilities.
+What interests you
+Which role or problem area excites you? What do you want to learn and build?
+jobs@freestyle.sh
+Products
+Freestyle VMs
+Documentation
+Freestyle API Documentation Freestyle API Reference
+Open Source
+Adorable (AI App Builder) Freestyle CLI Cloudstate (JavaScript Database)
+Company
+esc
+Start typing to search the Freestyle docs.

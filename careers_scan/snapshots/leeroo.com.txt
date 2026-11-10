@@ -1,0 +1,69 @@
++ +
+A living model of your business .
+Built by AI . Run in your cloud .
+Uniforge, our platform, connects to every system you operate, learns your business into one living model, and ships agents that turn it into outcomes.
+Request a free audit Read the specification
+48 HOURS · READ-ONLY · FREE
+OUTCOMES · WHAT THE AGENTS DELIVER OPERATING
+16:27:42 A-04 · CROSS-SELL Cross-sell ARR added +$96K
+16:27:40 A-03 · CHURN SENTINEL Churn risk flagged 7 DAYS EARLY
+16:27:38 A-02 · DATA-QUALITY Records unified 18,304
+16:27:37 A-01 · BILLING-INTEGRITY Revenue recovered +$412K
+16:27:35 A-03 · CHURN SENTINEL Churn prevented 14 ACCTS
+AGENTS ACTING ON THE MODEL EVERY ROW: AN AGENT ACTING ON THE LIVING MODEL WATCH THE DEMO ↓
+DEPLOYMENT Your VPC. Or fully on-prem, air-gapped.
+BENCHMARK Nº1 open-source on OpenAI MLE-Bench. Nº1 on RelBench. Grand Master Trophy, IOAI 2026.
+SCALE PROVEN 9×10⁹ rows. $1B enterprise, production.
+TEAM Meta AI, LinkedIn AI, EPFL alumni.
+AUDIT 48 hours. Free. No setup on your side.
+OPEN SOURCE 1.5M+ downloads of our team's models.
+OUR OPEN SOURCE, USED BY ENGINEERS AT
+01 · THE PROBLEM
+From data to impact still takes an army .
+Data engineers build the pipelines: mastering, deduping, cleaning, linking. Data scientists and PMs hunt for the opportunities and size them. ML engineers build the models and agents, tune them, and ship them. Every step is headcount, every handoff loses months, and the chain restarts for every new use case. This is the chain enterprises pay forward-deployed engineers to run by hand, one use case at a time.
+EXHIBIT A · THE CHAIN BETWEEN DATA AND IMPACT MANUAL, PER USE CASE
+01 DATA ENGINEERING pipelines · mastering · dedup · linking
+02 DISCOVERY opportunities found and sized
+03 ML ENGINEERING build · tune · deploy
+QUARTERS TO VALUE · RESTARTS WITH EVERY USE CASE
+02 · THE METHOD
+Not just dashboards . Outcomes .
+THE SPECIALIST CHAIN, PRODUCTIZED
+01 Connect Agents read every system you run: CRM, ERP, ticketing, billing, warehouses, the web. Every pipeline and every mapping, agent-built. READ-ONLY, ACCESS YOU GRANT
+02 Learn Records resolve into entities, entities into relationships, documents into rules. A living model of how the business actually works. CONFIDENCE-SCORED
+03 Find Agents scan the model for value: revenue hiding in accounts, risk building in usage, waste sitting in operations. Every finding priced and ranked. QUANTIFIED IN $
+04 Act . Agents execute: reconcile the invoice, flag the account, brief the owner, with approvals where you want them and an audit log of everything. HUMAN-APPROVED, LOGGED
+UNIFORGE · WALKTHROUGH OPERATING
+Your browser does not support the video tag.
+03 · THE PROOF · IN PRODUCTION SINCE 2025
+Proven in the hardest room .
+Most AI fails in places like this: a $1B enterprise with 75 years of operating history across 35+ systems, each holding its own version of the truth. Uniforge's learning agents map the business first, record by record, rule by rule, and capture it as a living model. Only then do action agents turn that understanding into outcomes.
+9×10⁹
+ROWS LEARNED, ACROSS 35+ SYSTEMS
+−62%
+CROSS-SYSTEM CONFLICTS, IN PRODUCTION
+~$20M
+TRAPPED VALUE SURFACED, ITEMISED
+04 · SOVEREIGNTY
+Own the AI's knowledge and reasoning .
+Leeroo turns your systems, workflows, and institutional knowledge into a private intelligence layer inside your infrastructure. We build the engine end to end, so nothing in the stack is a black box. You choose how far inside your walls it runs.
+MODE A · STANDARD · YOUR CLOUD DEFAULT
+Runs in your VPC on AWS, Azure, or GCP. Your data never leaves your infrastructure, and frontier models are reached from inside your tenant.
+MODE B · SOVEREIGN · FULLY ON-PREM AIR-GAPPED
+Runs entirely on your own hardware with local models fine-tuned to your business. Air-gapped, zero external calls, ever. Compliance is the obvious reason. The better ones: your competitive edge never touches a model you don't own, the capability is yours outright, and inference runs at hardware cost, not per-token rates.
+THE POSTURE THAT LETS US IN IS THE POSTURE THAT KEEPS EVERYONE ELSE OUT
+05 · THE RECORD
+Verified in the open .
+PUBLIC BENCHMARKS, PUBLIC CODE
+KAPSO · GITHUB ↗ Nº1
+Nº1 open-source on OpenAI's MLE-Bench. Nº1 on RelBench.
+Grand Master Trophy at IOAI 2026, surpassing the best human contestant. The engine that builds Uniforge's models; outperforms Sakana's ALE-Agent in matched runs.
+MODELS · HUGGING FACE ↗ 1.5M+
+1.5M+ downloads of our team's open-source models.
+Pulled into production by teams we've never met.
+LEEROOPEDIA ↗ 250K+
+A 27,600-page ML wiki serving 250K+ practitioners.
+The knowledge base that our agents and the field learn from.
+06 · THE AUDIT
+See what's trapped in your systems.
+Request a free audit 48 HOURS · READ-ONLY · AN ITEMISED MAP OF THE VALUE

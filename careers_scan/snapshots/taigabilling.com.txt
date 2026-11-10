@@ -1,0 +1,24 @@
+Founding Machine Learning Engineer
+Full-time On-site, San Francisco, CA $350K–$400K 1%–2% equity 7+ years
+You will be our first ML hire. You will own the models and agents that do the billing work, plus the evals and data pipelines behind them, and you will decide how we build all of it.
+You have 7+ years building ML systems and have shipped LLM or agent systems that real users depend on. You know how to design evals, when to fine-tune, and how to keep cost and latency in check in production. Healthcare experience is a plus.
+On-site in San Francisco. $350K to $400K base, 1% to 2% equity. US-based candidates with existing US work authorization only; we do not sponsor visas.
+Apply
+Founding Engineer
+Full-time On-site, San Francisco, CA $300K–$375K 1%–2% equity 5+ years
+You will be one of our first engineers. You will build the platform our agents run on, including the integrations with outside systems that billing depends on, and you will help hire the engineers who come after you.
+You have 5+ years shipping production software and have owned systems end to end. We write TypeScript on Postgres. You have built with LLMs, and you would rather ship than wait for a spec.
+On-site in San Francisco. $300K to $375K base, 1% to 2% equity. US-based candidates with existing US work authorization only; we do not sponsor visas.
+Founding Account Executive
+Full-time On-site, San Francisco, CA $160K–$200K 0.25%–0.5% equity 3+ years
+You will be our first sales hire. You will run deals with independent practices from first call to signed contract and write the playbook the next reps will use.
+You have 3+ years closing deals, ideally selling to medical practices or small businesses. You are comfortable on the phone with a busy doctor and can explain the product without a script.
+On-site in San Francisco. $160K to $200K base, 0.25% to 0.5% equity. US-based candidates with existing US work authorization only; we do not sponsor visas.
+Customer Success Manager
+Full-time Hybrid, San Francisco, CA (US remote OK) $170K–$210K 0.1%–0.3% equity 3+ years
+You will own our relationships with the practices we work with. You will get new customers live, keep them happy, and bring what they tell you back to the team.
+You have 3+ years in customer success or account management. Healthcare or revenue cycle experience helps.
+Hybrid in San Francisco. $170K to $210K base, 0.1% to 0.3% equity. US-based candidates with existing US work authorization only; we do not sponsor visas.
+Don't see the right role?
+We're growing fast and hire ahead of need. Send us a note about what you do and why independent practices matter to you — we read every one.
+Email us careers@taigabilling.com

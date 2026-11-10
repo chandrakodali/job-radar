@@ -1,0 +1,19 @@
+Careers
+How to Apply
+Email hiring@datafruit.dev with the role title in the subject line and attach your resume. Tell us why you're excited about Datafruit.
+Forward Deployed Engineer
+Full-time · San Francisco
+Work directly with customers to deploy and customize Datafruit solutions. You'll be the bridge between our product and enterprise clients, solving complex technical challenges on-site.
+Strong AWS and Kubernetes experience. Comfortable with on-prem deployments where cloud access is limited or tightly controlled. React/JavaScript proficiency. Bonus: experience building AI agents.
+$150k – $250k + equity
+Apply for this role
+Founding Designer
+Shape the visual identity and user experience of Datafruit from the ground up. You'll own design across product, brand, and marketing.
+Expert in Figma and modern design tools. Experience building design systems and component libraries. Strong product design sense with attention to motion and interaction design. Portfolio demonstrating both brand and product work.
+$100k – $150k + equity
+AI Engineer
+Design and implement the AI models and systems that power Datafruit's agents.
+Strong Python experience. Deep familiarity with LLM APIs (OpenAI, Anthropic, etc.) and building agentic systems. Experience with RAG pipelines, prompt engineering, and tool orchestration. Bonus: experience building coding agents.
+$250k – $300k + equity
+A new standard for software implementations.
+Book a demo

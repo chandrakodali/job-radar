@@ -1,0 +1,50 @@
+Free guide ·
+FivexL Container Hardening Guide: how we build and run hardened container images on AWS Container Hardening Guide
+Get the guide ›
+Join Us
+FivexL: Where Your Skills Help Startups Excel with AWS Infrastructure
+As an AWS Advanced Partner, FivexL combines real-world experience with deep knowledge in building scalable, secure, and cost-effective AWS environments for fast-growing startups.
+About FivexL
+Being the only specialist in the room can feel lonely.
+You’re the one people call when “something with the cloud broke,” but almost no one really understands what you do or how hard it is to do it well.
+We’ve been there: working in outsourcing, grinding through projects you didn’t choose, with tech stacks you’d never pick for yourself. Babysitting fragile, legacy infrastructure while the rest of the world plays with shiny new tools.
+That’s why we created FivexL — a place we ourselves would want to work.
+A company built for people who care about doing infrastructure properly, learning constantly, and having a real say in how things are done.
+FivexL isn’t for everyone. It’s for people who combine ambition, skill, and ownership — the ones who want impact, not just tickets.
+If that sounds like you, there’s a good chance you’ll feel at home here.
+Join us!
+Exploring a future with FivexL? Let's talk it over!
+Ready to Share Your Expertise?
+Key Skills:
+AWS Solutions Engineering,
+Docker,
+Terraform,
+Python/Golang,
+English proficiency: B2+
+Responsibilities:
+Analyzing the customer’s business challenges that can be addressed through infrastructure solutions.
+Proposing infrastructure solutions that solve business tasks or enhance the productivity of the customer’s team.
+Implementing proposed solutions or overseeing their implementation.
+Training the customer’s staff in tools, technologies, concepts, and approaches.
+Could You Be the Next Star of FivexL Team?
+Yes, If You:
+Are independent, self-organized, and have experience with remote work;
+Are positive, ambitious, and proactive;
+Have a desire to grow, learn, and excel in your field;
+Understand that the core of work is human interaction, with technology serving as a context;
+Can approach work from the perspective of solving customer business problems, not just focusing on technology;
+Understand change management processes within an organization and can organize them;
+Have an understanding of software development processes (Agile/Kanban/Lean);
+Understand concepts such as: Infrastructure as Code, Immutable infrastructure, Configuration drift, Continuous Integration, Continuous Delivery.
+What need to do?
+Fill the form, tell us about your motivation.
+Submit a task assignment. All applicants who submit a task assignment will receive feedback from us.
+Take the Personality Test.
+Meet the team and share your experience.
+Let’s talk about how FivexL can be your next step forward.
+Meet the team!
+Want practical infra insights?
+Real stories from AWS projects
+No-nonsense DevOps tactics
+Cost, security & compliance patterns
+Expert guidance

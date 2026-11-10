@@ -1,0 +1,10 @@
+Careers
+Join us in San Francisco
+Both roles are full-time and in-person in San Francisco — living in SF (or relocating here) is required. We aren't able to sponsor visas or offer internships.
+CTO
+TypeScript Chrome Extensions LLM Agents Gmail API Infrastructure
+Own the entire technical side of Freestyle: the Chrome extension, the agent backend, and the AI systems that predict and draft email actions. We're looking for someone who evaluates the product holistically, makes engineering decisions on their own, and executes them — you'll ship daily, set the architecture, and build the engineering team as we grow.
+founders@freestyle.ai
+CMO
+Growth Content Product Marketing SEO
+Own distribution end-to-end: positioning, content, SEO, launches, and lifecycle email for a demo-driven funnel. You'll turn a product people love in demos into a brand founders and executives seek out.

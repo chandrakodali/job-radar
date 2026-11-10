@@ -1,0 +1,21 @@
+Careers
+Datastrato builds enterprise software around open-source data infrastructure, with a focus on metadata, governance, and federated data and AI systems. Our work spans open-source development and commercial platforms. The team is distributed across regions and collaborates across time zones, with some roles based in specific locations and others working remotely.
+Our Team
+Working at Datastrato
+Datastrato operates as a distributed, product-focused team working at the intersection of open source and enterprise data infrastructure. People working at Datastrato typically collaborate with engineers and open-source contributors across multiple regions, contributing to systems that are used in real production environments. Roles vary in scope, location, and level of collaboration depending on the needs of the team and the work involved.
+We value:
+Clear communication and pragmatic problem-solving
+Ownership and accountability
+Collaboration across teams and time zones
+Experience or interest in open-source software and distributed systems
+Employment terms and working arrangements vary by role and location.
+Open Roles
+Please see our open roles below. We are always interested in hearing from people who believe they could meaningfully contribute to our work, particularly in areas related to AI systems, data infrastructure, open source, or enterprise platforms. If you think your experience may be relevant, you are welcome to reach out via email or connect with us on LinkedIn . As hiring needs evolve, new opportunities will be posted here.
+Developer Relations
+San Francisco Bay Area (Remote OK)
+Details
+Solutions Engineer
+Technical Product Marketing Manager
+Founding Account Executive
+Software Engineer (lead)
+Software Engineer

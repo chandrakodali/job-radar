@@ -1,0 +1,56 @@
+Come build the future
+We're solving self driving cars while delivering shippable intermediaries.
+If Tesla is the iOS of self driving, we are the Android. How do you solve self driving cars?
+You don't do it by solving the problem one part at a time. There are no parts. There is just
+a machine learning model that contains the human policy of driving.
+View Openings
+Who we are
+We have 90+ million miles of driving data sitting on hard drives ready to be trained on.
+Write the training code, fix the bugs, and watch it drive. Think AlphaGo, but for self
+driving cars. And the minute we do solve it, we already have thousands of users to deploy to.
+The second largest fleet outside Tesla, and likely to be the largest soon.
+On-site only, no remote
+We're in San Diego
+comma HQ is located in sunny San Diego, California.
+"We have the best chance at solving self-driving cars because our approach involves actually shipping a product and proving it out as we go."
+- Greg, Infrastructure
+Our Process
+01. Challenge
+Choose a challenge from the leaderboard or a bounty , solve it, then reach out to work@comma.ai .
+02. Interview
+Typically, we do two calls: a quick intro and screen, then an in-depth technical interview with an engineer.
+03. Paid micro-internship
+We'll fly you out to meet the team and work on a real problem for a few days and hopefully ship it to real users. If it's a fit, we'll make a full-time offer.
+Start here
+Ready to apply?
+Email your resume, GitHub, and challenge or bounty solution to
+work@comma.ai .
+The compression challenge is a good place to start, but any strong leaderboard
+challenge or bounty submission works.
+Try the compression challenge
+Explore Our Benefits
+Health, dental, and vision insurance
+Visa sponsorship
+24/7 access to comma's fleet of cars for openpilot testing
+Flexible time off
+On-site gym and yoga studio
+Chef prepared lunch and dinner (and snacks!)
+Solving self driving cars
+Open Positions
+All positions are on-site in San Diego, CA
+Stay in the loop
+Interested in comma? Get notified about COMMA_CON, hackathons, other events, and new challenges.
+Jobs FAQ
+Do you sponsor visas?
+Yes, we sponsor visas and green cards.
+If we make you an offer, we'll make every reasonable effort to get you a visa and retain an immigration lawyer to help with this.
+What's your remote work policy?
+comma is IRL in San Diego, CA.
+Do you offer internships?
+Yes! All teams hire interns year-round.
+Are you hiring for any other roles?
+We're interested in anyone who can get a top spot on the leaderboard .
+Any other requirements?
+Nope. We're just looking for people who do well on our challenges and can independently contribute to solving self-driving cars.
+I'm ready to claim an openpilot bounty.
+Thanks for contributing! Open a ticket with support to claim.

@@ -1,0 +1,150 @@
+Editors bring Wideframe the work they hate to do on every shoot.
+It works the way a good assistant editor would once you teach it your workflows. It watches all of your footage and delivers bins and edit-ready timelines linked to your original media. The creative edit stays with you.
+What editors do with Wideframe
+WORKFLOWS 1.0–4.0
+1.0
+Find any moment
+Search every interview and shot by what was said or what’s on screen. Results come back as markers in your sequence.
+Find soundbites Keyword markers
+“I was blown away at how it analyzed the footage, told me what scenes were missing from the producer’s initial shot list, and even what scenes only had one-camera coverage versus two.”
+Dylan Tuba Tuba Time Creative
+Andy profile ×
+▶ 00:04:12:08
+0:00 10:00 20:00 30:00 40:00 50:00 1:00:00 1:10:00
+ANDY_INT_A001 ANDY_INT_A002 ANDY_INT_A003
+ANDY_LAV.WAV
+Find every time Andy talks about leaving his old job. Mark them in the interview sequence.
+✓ Searching 14 interview transcripts ›
+✓ Adding markers to andy_profile_interviews.wfseq ›
+Found 9 moments across 3 interviews
+04:12 – “I gave notice the week the studio closed” ANDY_INT_A001.MOV
+09:37 – Telling his manager over lunch ANDY_INT_A001.MOV
+21:50 – “I didn’t have a plan, I had a deadline” ANDY_INT_A002.MOV
+38:14 – Looking back a year later ANDY_INT_A003.MOV
+Markers are labeled by topic. Want them strung out in story order?
+Yes, and keep each one under 20 seconds
++ Attach □ Andy profile All background tasks completed
+2.0
+Sync cameras and sound
+Line up every camera with the separate audio, even when a camera rolled without sound. Get a multicam for each setup.
+Multicam sync Label speakers
+▸ Saturday shoot
+▸ A-cam
+▸ B-cam
+▸ C-cam
+▸ Audio
+▸ Multicams
+‹ › Saturday shoot
+A001_C003.MOV
+MOV · 6.1 GB · 3840×2160
+B001_C003.MOV
+MOV · 5.8 GB · 3840×2160
+C001_C002.MP4
+MP4 · 2.2 GB · 1920×1080
+A001_C004.MOV
+MOV · 7.3 GB · 3840×2160
+B001_C004.MOV
+MOV · 6.9 GB · 3840×2160
+1:41:20
+ZOOM0004.WAV
+WAV · 1.1 GB · 48 kHz
+Sync Saturday’s three cameras with the Zoom audio and build a multicam per interview.
+✓ Analyzing media ›
+✓ Matching waveforms to ZOOM0004.WAV ›
+✓ Matching C-cam by transcript (no camera audio) ›
+✓ Building 6 multicam sequences ›
+212 clips synced, 6 multicams built
+Every angle lines up within a frame. Speakers are labeled ANDY and INTERVIEWER. Open saturday_multicams.prproj in Premiere.
+Name each multicam after the interviewee
++ Attach □ Saturday shoot All background tasks completed
+3.0
+Pull selects and build string-outs
+Describe the piece and get the selects laid out as a string-out you can watch in one pass, in transcript order or story order.
+Pull selects Interview string-out
+“Where it was the most useful was just saying something like, ‘I need a sound bite from Andy, and I need it to be emotional.’ In those moments, it was pretty helpful.”
+Bryan Mir Director, Make Believe Pictures
+▶ 00:11:40:02
+0:00 1:30 3:00 4:30 6:00 7:30 9:00 10:30
+Pull the emotional soundbites from Andy’s interview and string them out in story order.
+✓ Reading 2h 04m of transcript ›
+✓ Scoring 61 candidate soundbites ›
+✓ Assembling andy_profile_selects.wfseq ›
+23 selects, 11m 40s
+Ordered as setup, the leap, the hard year, where he is now. Each section starts with a marker. Open andy_profile_selects.prproj in Premiere.
+Now cut a 90-second version for the trailer
+4.0
+Turn each episode into clips
+Find the moments worth clipping, reframe them for vertical and caption them in your style. Save the format and run it on next week’s episode.
+Social clips Reframe
+“I have at least 10 long-form art classes I had banked, and this product is going to make it possible for me to finally launch these.”
+Luz Donahue Wideframe customer
+▸ Podcast
+▸ Episode 41
+▸ Episode 42
+▸ Clips
+▸ Exports
+‹ › Podcast / Episode 42 / Clips
+ep42_clip01.mp4
+1080×1920
+ep42_clip02.mp4
+ep42_clip03.mp4
+ep42_clip04.mp4
+ep42_clip05.mp4
+ep42_clip06.mp4
+/social-clips episode 42, six clips in our podcast format
+✓ Running skill: social-clips ›
+✓ Finding moments in 58 min of conversation ›
+✓ Reframing to 9:16 and adding captions ›
+6 clips ready
+Same caption style and end card as episode 41. Sequences are in ep42_clips.prproj , renders in Exports/ .
+Make square versions for LinkedIn too
++ Attach □ Podcast All background tasks completed
+Built for professionals to automate repeat work
+Set a job up once, then run it on every shoot, episode or client.
+PRODUCTIONS
+/social-clips episode 43, same as last week
+✓ Transcribing media ›
+● Finding moments in 1h 02m of conversation ›
+Thinking (8s)
+Use the guest’s full name in the lower thirds
++ Attach □ Podcast Transcribing media • 42s
+WORKSPACE
+Podcast
+RECENT MENTIONS
+ep43_full.mp4
+ep42_clips.prproj
+captions_style.md
+BACKGROUND TASKS Clear
+● Transcribing media
+Running • 2/3 • 42s
+✓ Analyzing media
+Completed • 3/3
+Same format every week A saved skill cuts the clips the way you did last time.
+Picks up where you left off Sessions keep the episode, the workspace and the files you mentioned.
+Runs while you edit Transcription and analysis keep going in the background.
+Where your footage goes
+Wideframe analyzes your footage in the cloud to transcribe it and describe each shot. Your original files stay on your drives, and the Premiere projects it writes link back to them. Ask us anything about how your media is handled at [email protected] .
+Questions
+How is Wideframe different from AI video generators like Sora or Runway?
+Video generators make new footage from a prompt. Wideframe works on the footage you already shot. It watches every clip and hands you bins, selects and Premiere Pro sequences built from your own media.
+Does Wideframe replace Premiere Pro?
+No. Wideframe writes Premiere Pro projects (.prproj) with your original media linked. You open them in Premiere and do the creative edit, color and export the way you always have.
+What do I need to run it?
+A Mac with Apple Silicon (M1 or later). Wideframe analyzes your footage in the cloud to transcribe it and describe each shot. Your original files stay on your drives, and the projects it writes link back to them.
+What does the free trial include, and when am I charged?
+Full access for 7 days. Your card is saved when the trial starts and nothing is charged today. The first $100 charge happens when the trial ends. Cancel before then and you pay nothing.
+How do I cancel?
+With the Wideframe app open, go to Account > Billing in the Mac menu bar, or email [email protected] . Cancellation takes effect right away and stops the next bill.
+Do you have team pricing?
+Yes, priced per team. Email [email protected] with your team size and how you work, and our support team will reply.
+Get started
+Free trial
+Start a free trial
+Full access for 7 days, then $100 a month. Cancel anytime. Needs a Mac with Apple Silicon.
+Start free trial No charge today
+Teams
+Wideframe for teams
+Running a post team or a steady stream of shoots? Tell us how you work and we’ll set Wideframe up for your productions.
+Talk to us [email protected]
+Start free trial
+7 days free, then $100 a month

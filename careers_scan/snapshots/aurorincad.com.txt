@@ -1,0 +1,11 @@
+Why you should join Aurorin CAD
+Aurorin exists so that a handful of great engineers can build what once took thousands.
+Every generation of tools shrinks the team size needed to build physical objects. Governments needed thousands of people to make a rocket; SpaceX built one with under 200 people. That same compression — fewer people for bigger things — is waiting to happen for every category of hardware humanity uses: cars, aircraft, computers, fusion reactors, wind turbines, humanoid and surgical robots, pacemakers, prosthetics, microscopes, satellites, and even the washing machines and refrigerators in every home. Every one of these starts in CAD.
+CAD software has barely changed in 45 years. The tools the world's best hardware engineers use every day were designed before the internet, long before modern GPUs, and long before anyone believed a twenty-person team could ship a car.
+You cannot build the future we want on top of software from the 1980s. So we are rebuilding the entire CAD stack from scratch, starting with a new CAD kernel, designed to be extremely fast and AI native. This is the only way to let ten people build a rocket.
+Aurorin is the CAD that lets a few great engineers do what used to take armies — so more of what humanity needs actually gets built, and gets built faster.
+If this is something you want to spend your life building, come build it with us.
+Open roles
+Software Engineering
+Founding Engineer
+San Francisco , CA · In Office

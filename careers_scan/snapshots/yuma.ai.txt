@@ -1,0 +1,62 @@
+Careers at Yuma
+Build the AI agents behind the best ecommerce support
+We are a small, senior team shipping every week for 140+ ecommerce brands, from Boston, Barcelona, and remote.
+Send us your CV Read our culture
+Yuma’s Origin Story
+In November 2022, just days before ChatGPT’s debut, our founder Guillaume launched the first AI support app on the Gorgias Store. The idea was simple: To use generative AI to handle e-commerce support with real accuracy.
+Dozens of merchants reached out overnight to test the prototype. The feedback was incredible: merchants loved the product. Generative AI was going to change customer support. And so, Yuma was born.
+A few months later, we joined Y Combinator, the world’s top startup accelerator, where we refined our vision and strategy. Backed by world-class investors, Yuma set out to transform e-commerce through intelligent, automated, supportive AI interactions.
+What is Yuma?
+Yuma is the most advanced AI platform built for e-commerce. Our agentic AI products help merchants automate customer interactions across every stage of the customer journey.
+Whether it’s answering support tickets, recovering abandoned carts, or offering personalized product recommendations, Yuma’s AI Agents work 24/7 to deliver results:
+Happier customers, higher revenue, and lower costs.
+Why Yuma?
+The e-commerce landscape is more competitive than ever, and customers expect instant, personalized, and seamless experiences. Yuma was built to help brands meet those expectations, not just today, but to future proof their support as the e-commerce landscape continues to evolve.
+With Yuma, brands can unlock new revenue through intelligent, AI-powered engagement.
+Join us in shaping the future of AI-powered ecommerce
+We are building a company where strong operators, engineers, designers, and commercial teammates can do the best work of their careers together.
+Send us your CV Culture and values
+Company timeline
+See how Yuma has grown since 2022
+Yuma launched after strong demand from merchants asked Guillaume to turn his experimental AI support tool into a real product.
+Yuma’s founding team comes together.
+Yuma joins Y Combinator, becoming Guillaume’s third YC-backed company.
+The team ships innovative support automation features and becomes a category leader for ecommerce AI support.
+Yuma signs dozens of brands across North America and Europe and builds an international team.
+Yuma reaches 100 clients and confirms its lead in automation rates for ecommerce merchants.
+Selected by AI Grant, Yuma earns recognition among the top AI innovators.
+Yuma raises $5M from top investors to transform customer support for good.
+Yuma hits 1 million resolved tickets and record-breaking automation during Black Friday and year-end sales.
+Yuma launches an AI-native chat widget that installs in just minutes.
+A16Z features Yuma in its AI x Online Shopping market map.
+Yuma launches Sales AI to help merchants drive revenue with AI-powered shopping experiences.
+Yuma launches AI Flows and Deep Search, giving CX teams deterministic workflow control and a new way to talk to their tickets to uncover Customer Voice insights.
+Yuma officially launches Social AI, helping brands automate comments, DMs, and mentions across Instagram, Facebook, TikTok, and more.
+Yuma launches Ask Yuma, a conversational AI that lets merchants build automations, diagnose issues, and generate reports by talking to their platform in plain English.
+Yuma launches Claude MCP integration, letting merchants connect their Yuma account directly to Claude and combine support data with Shopify, Google Sheets, CRMs, and other tools in a single conversation.
+Verified reviewers name Yuma a Fall 2026 G2 High Performer for AI Customer Support Agents, alongside Best Meets Requirements, Best Support, and Users Most Likely To Recommend badges.
+Yuma launches Web Actions, letting its agents complete tasks in a real Chrome browser on any site reachable from the open web. That includes carrier portals, 3PL dashboards, and internal back-office tools that never had an API.
+Yuma launches Yuma Voice AI, putting its agent behind merchants' phone numbers to update orders, cancel, and refund in backend systems while the customer is still on the call.
+G2's AI CX Agent Evaluations rank Yuma #1 for accuracy and policy compliance, and #2 overall, after testing 10 AI agents on the same 50 support tasks.
+Our team is spread all across the globe, with hubs in Boston and Barcelona
+Join us in shaping the future of AI in ecommerce.
+Contact us
+US Office
+245 Main Street, 2nd floor
+Cambridge, MA 02142
+Yuma is backed by some of the most prestigious investors
+We are fortunate to build alongside investors who believe in the long-term future of AI-native commerce operations.
+Yuma drives revenue, satisfaction & savings for top brands
+“ Yuma handles 89% of our tickets. We scaled to 150K+ tickets a month without adding headcount. ”
+63% Cost savings
+89% Automation
+Alejandro Reyes Customer Service Director
+“ The difference Yuma has made in our customer support is night and day. Before, we struggled with long response times. Now we deliver fast, consistent, high-quality support, and the data insights help us fine-tune our processes. ”
+Marcu M. Data Reporting & AI Implementor · Small-Business
+“ Yuma has transformed our customer support at Cabaïa. Managing high volumes across multiple channels was a challenge, but the automation helps us respond faster and more consistently. We'd recommend Yuma to any brand looking to streamline support. ”
+Care Ops, Cabaïa Care Ops · Mid-Market
+“ Since we started with Yuma six months ago, our approach to customer service has completely transformed. It's not just automation; it's quality, efficiency, and a premium, agile customer-service experience. A true performance booster. ”
+Lucie B. Customer Care Manager · Mid-Market
+Come build Yuma with us
+Send us your CV and read how we work. We reply to every application.
+Send us your CV

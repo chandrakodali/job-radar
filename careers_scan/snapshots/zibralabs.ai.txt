@@ -1,0 +1,13 @@
+Backed by Y Combinator
+Build the runtime the frontier labs kept to themselves.
+Zibra Labs is building the post-training and inference infrastructure that today exists only inside the frontier labs. Our vision is to let everyone post-train and serve open weight models at a fraction of the cost, with higher capability.
+We are a small team in San Francisco, working in person. The problems are the deep kind: schedulers, memory, and networking on specialized hardware, and the post-training recipes that run on top of them, at a scale where the details decide whether the thing works.
+Open Roles
+Founding Engineer, Core Runtime
+San Francisco · In person
+Founding ML Researcher (Post Training)
+Applying
+Send a note about what you have built and what you want to work on. Skip the cover letter. A repo, a design doc, or a story about a system you took from broken to boring tells us more than a résumé does.
+Nothing here quite fits, but you think you should be on this team? Write anyway and say why.
+Email Us →
+Our address: careers (at) zibralabs (dot) ai

@@ -1,0 +1,30 @@
+Skip to content Skip to content
+how we hire
+A short loop, run by the people you'll work with.
+A 30-minute intro. Founder, not a recruiter. We talk about what you're working on now and why.
+A real problem. We send you a small piece of an actual codebase or research question. Paid, time-boxed, async. No whiteboard riddles.
+A working day. You spend one day with us — remote or in person — pairing on something live. You decide as much as we do.
+An offer, fast. Decisions within 48 hours. Cash + meaningful equity + product profit-share. Transparent bands published before the offer.
+who we look for
+Three patterns we consistently bet on.
+pattern 0 1
+The shipper-researcher.
+You read papers and you write production code. You know what a CUDA kernel costs and what a unit test costs, and you treat both with the same seriousness.
+pattern 0 2
+The dangerously productive generalist.
+You move across the stack — model, infra, product, distribution — with disproportionate output. Title is irrelevant; throughput is everything.
+pattern 0 3
+The founder-in-residence.
+You want to start a company on top of the agent stack and you'd like the runway, technical leverage, and design discipline of a small lab while you do it.
+open roles
+No live requisitions — but the inbound is real.
+We're not running open requisitions right now. We're a small team executing against a long roadmap, and we'd rather wait six months for the right person than ship a mediocre hire this quarter.
+That said, if you're already an exceptional engineer, researcher, or founder, and you'd want to work here even though there's no listing — that's exactly the kind of email we want to receive. Use the subject line inbound so it gets routed correctly.
+careers@cosmicstack.ai →
+what you'll get
+What hiring actually means here.
+Cash competitive with senior FAANG, plus meaningful equity. Transparent bands published before any offer.
+Profit share on the product you work on. If Mercury makes money, Mercury's team makes money.
+Remote-first, async-default. Two synchronous touchpoints per week, max. Optional quarterly off-sites.
+A real research budget. Conferences, papers, hardware, model credits — funded without a form.
+No internal politics. We are too small for it and the founder is allergic to it.

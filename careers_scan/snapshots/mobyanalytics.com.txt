@@ -1,0 +1,106 @@
+Backed by Y Combinator
+AI for auditors and financial advisors, inside Excel
+Moby prepares your audit tests in Excel while you take a coffee break.
+Every figure linked to its source. You review and sign off.
+Book a demo
+Available on Microsoft AppSource
+Trusted by audit teams
+“Bringing AI into our engagements is part of our strategy, provided we do it in a structured way. With Moby, the result appears in the workpaper, with the supporting document behind every figure, and our teams embraced it straight away.”
+Damien Bourg
+Partner · Advolis Orfis
+Translated from French
+Home Insert Formulas Data Moby
+A B C D E General ledger Invoices Date Supplier Amount Amount Document
+3 48,210.00 INV-0341
+4 112,400.00 INV-1208
+5 86,320.00 INV-8877
+6 17,652.40 INV-0362
+7 64,730.00 INV-1244
+Suppliers
+12 invoices
+Filling your worksheet
+Source document PDF
+Invoice #0341 Rungis Distribution → ACME Ltd · 12/03/2026
+Net 40,175.00
+VAT 20% 8,035.00
+Total 48,210.00
+Source linked
+Automate your audit testing
+Moby fills your Excel workpaper using your methodology, with every figure linked to its source. You review and sign off.
+Explore audit testing
+Analyze the general ledger in 3 minutes
+Get an analytical review workbook in Excel, with quantified variances and flagged entries. You review the findings and sign off.
+Explore ledger analysis
+A B C 1 Line item FY26 · €k vs FY25
+2 Revenue 903.2 +12.6%
+3 Gross margin 512.1 +9.4%
+4 External charges (170.3) +5.1%
+5 Staff costs (289.4) +6.7%
+6 EBITDA 133.9 +9.8%
+Analytical review
+General ledger 2026.csv
+Analyzing variances
+Moby Revenue
+Three clients account for €78k of the increase in revenue.
+Client question drafted
+ACME Ltd Financial statements
+Balance sheet — assets As at 31 December 2026
+In euros
+Goodwill 206,225
+Trade receivables 999,282
+Cash and equivalents 1,294,998
+Total assets 2,500,505
+Checking figures
+Sources
+Trade receivables
+Statements · p. 2 999,282
+Trial balance · 1200 999,282
+Matching amounts
+Check your financial statements
+Moby checks your financial statements and returns a ticked document, with discrepancies listed for your review.
+Explore statement checks
+Every feature included.
+Essential
+348 €
+per user / year · excl. tax
+Moby for Excel
+15,000 to 30,000 pages/year — AI agents included*
+Audit test automation
+General ledger analysis
+Financial statement tie-out
+Need more? Add credits on demand
+Enterprise
+Custom
+From 50 licenses
+Everything in Essential
+SAML & SSO
+Custom SLA
+Custom integrations
+*Annual capacity depends on document type: around 15,000 pages per year for single-page documents, up to 30,000 pages per year for longer documents (10-100 pages). Complex tasks like matching messy documents consume more quota.
+Your data, protected
+Encrypted files, controlled access and no AI training on your data.
+SOC 2 Type II
+GDPR Compliant
+EU Data Residency
+No AI training on your data
+Security details
+Data Protection
+Encrypted in transit and at rest
+Strict data isolation per firm
+Infrastructure
+EU servers
+24/7 monitoring & threat detection
+Zero Trust architecture
+Authentication
+Microsoft 365 SSO
+Role-based access
+Full audit logging
+Compliance
+GDPR compliant
+SOC 2 Type II certified
+Regular penetration tests
+Live demo
+See Moby in Excel.
+20 minutes. A live tie-out and ledger analysis on a sample file.
+Reply within one business day · No commitment
+By booking a demo, you're confirming that you agree with Moby Analytics' Terms and Conditions

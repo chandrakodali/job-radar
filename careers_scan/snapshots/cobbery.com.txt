@@ -1,0 +1,46 @@
+“We arm our outside counsel with Cobbery on our largest matters.
+It's the closest thing to superpowers I've seen in litigation.”
+Kim Moore
+Vice President, Legal at Guardant Health
+§ 1.0 - GENE
+Meet Gene, the newest member of your team.
+The litigation AI agent that evolves throughout the case.
+Keeps teams aligned on the path to victory
+Gene collaborates with the trial lead to build trial themes and case strategy early, seeding the foundation for exceptional work.
+A single source of truth for fact and work product
+An up-to-date copy of the record, production, case facts, and strategy keep the trial team and Gene in sync.
+Proactive, predictive, precise
+Gene flags when case facts bolster or weaken trial themes, identifies appellate issues early, and predicts opposing counsel moves accurately.
+Agents test, Experts attest.
+Turn months of exploratory work into minutes,
+and millions in expert spend into targeted review.
+§ 1.1
+Agents test hypotheses
+Theories are confirmed, ruled out, or newly discovered before an expert bills an hour.
+§ 1.2
+Experts attest to findings
+Experts review finished findings instead of doing exploratory work.
+§ 1.3
+Credibility attaches
+Final opinions rest on a documented record your expert can defend at deposition and trial.
+“Working with Cobbery has been a game-changer. Their high-performance platform decodes and analyzes the most complex scientific data in minutes, tasks that would take a top expert months to complete.
+It has quickly become an indispensable asset for my firm.”
+Chase Scolnick
+Partner at Keller Anderle Scolnick LLP
+Gene works where you work:
+the email inbox.
+Gene becomes the source of truth for objective facts, trial themes, case strategy, and more.
+Gene performs months of associate and expert research in under an hour.
+Gene reads new filings the moment they land and flags claims the record contradicts.
+Gene builds depositions and crosses to win the case, not just the moment.
+§ 2.0 - SECURITY
+Security & Privacy
+in everything we do.
+Air-gapped AI
+Agents cannot arbitrarily communicate over the internet.
+SOC 2 Compliance
+Stringent, audited security controls validated by third parties.
+Data Privacy
+Cobbery cannot see your files or conversations with Gene.
+Isolated Infrastructure
+Using isolated infrastructure per-matter removes an entire category of risk.

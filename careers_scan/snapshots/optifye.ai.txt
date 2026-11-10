@@ -1,0 +1,133 @@
+CAREERS AT OPTIFYE
+Build the future of manufacturing with us
+Help turn factory data into better decisions.
+Build technology that makes a difference on the floor.
+Open roles
+6 roles
+Founding Product Engineer
+Engineering · Gurgaon · In person · Full-time
+Apply ↗
+Read job description
+About Optifye
+Optifye is one of India's fastest-growing companies, valued at US$25 million and backed by Y Combinator—one of the world's most prestigious investors—NVO Capital and Kulveer Taggar. We are building a vision AI-powered operating system for labour-intensive factories. Our customers include five of the ten largest auto-component manufacturers in India, and our revenue is doubling every two months.
+The role
+Own a new product in the factory operating system, from the first idea to the shipped experience. Spend time with plant heads and line supervisors, understand their needs, design a thoughtful product, build it with AI coding agents and iterate with the people who use it.
+What you will do
+Shape the product: decide what to build, what to cut and what success looks like.
+Run discovery calls and visit plants to turn customer feedback into clear product decisions.
+Own the user experience and visual quality.
+Put working versions in front of users quickly, then measure and iterate.
+Coordinate multiple AI coding agents, review their work and keep quality high.
+Write clear specifications, decisions and trade-offs.
+What we are looking for
+3–5 years of experience working at startups.
+Products you have built and shipped to real users. Real side projects count.
+Strong product judgment, design taste and attention to detail.
+Clear thinking and the ability to explain difficult trade-offs.
+Comfort talking directly with customers and understanding factory operations.
+High agency and ownership of outcomes.
+Helpful experience
+Daily experience with modern AI coding tools and multiple agents, and full-stack ability to take a feature from the database to a deployed interface.
+Compensation and growth
+₹80 lakh–₹1 crore per year, plus meaningful equity. Autonomy over what you build, access to frontier AI models and products used by major manufacturers.
+How we work
+We work six days a week, Monday through Saturday. This is a hardcore, demanding culture built around hard work, speed, ownership and impact. We expect people to follow through, stay close to customers and do what it takes to deliver. Our ambition is to make this the most impactful work of your career.
+Your application
+Share your résumé and a link to something you built and shipped. Tell us what you would improve about it today.
+Project Manager — Customer Deployments
+Operations · Gurgaon · In person · Full-time
+Take each customer from a signed deal to cameras live on the factory floor. Coordinate customer stakeholders, installers and Optifye to make deployments happen quickly and smoothly. This is a customer-facing operations and execution role; you do not need to be an IT specialist.
+Own deployments from kickoff to go-live, with clear timelines, owners and follow-ups.
+Coordinate plant managers, production, maintenance and IT teams.
+Arrange site readiness: approvals, power and network access, mounting, cabling and installer schedules.
+Check camera coverage and angles on the factory floor, with sign-off from the AI team.
+Understand production stations, cycle times, shifts and SOPs so the setup fits each line.
+Chase open items to completion and escalate blockers early.
+Keep deployment trackers current and send clear customer updates.
+2–5 years in project management, operations, customer delivery or site execution.
+Strong coordination skills across teams you do not directly manage.
+Relentless follow-up, organization and calm execution under pressure.
+Confident communication in English and Hindi, from plant leadership to shop-floor operators.
+Comfort with cameras, basic networking and spreadsheets.
+Willingness to spend time on factory floors and travel across India.
+Manufacturing experience is a plus; auto-components and camera-installation experience are especially useful.
+₹12–16 lakh per year.
+Share your résumé and a few lines about a project you coordinated across several teams from start to finish.
+Founding Account Executive
+Sales · Gurgaon · In person · Full-time
+Own large enterprise sales cycles with India's leading manufacturers and turn what works into a repeatable sales playbook. Help shape pricing, packaging, account expansion and the sales organization as the business grows.
+Run enterprise deals from first meeting to signed contract with plant heads, COOs, CXOs, procurement and IT.
+Lead paid proofs of concept, build ROI cases using customer production data and negotiate multi-plant rollouts.
+Expand single-line deployments into plant-wide and group-wide relationships.
+Build a clear playbook for qualification, discovery, pricing, POC conversion, CRM hygiene and forecasting.
+Help recruit, train and lead account executives as we scale.
+Bring feedback from won and lost deals into product, pricing and packaging decisions.
+Several years of enterprise B2B SaaS sales experience, with deals you personally closed end to end.
+A track record with large contracts, long sales cycles and multiple decision-makers.
+At least two years at a startup, with comfort operating in ambiguity.
+Excellent English, confident CXO presentations and clear proposals and follow-ups.
+Technical fluency with AI or computer-vision products and the ability to discuss deployments, IT and security.
+Ownership, leadership ambition and willingness to travel to customer plants.
+IIT undergraduate and IIM MBA backgrounds are strongly preferred. Manufacturing or industrial sales experience, an existing network among manufacturing CXOs and experience scaling an early sales organization are valuable.
+₹36 lakh per year, plus uncapped incentives. A path to leading enterprise sales as the organization grows.
+Share your résumé and describe the largest deal you closed: its size, sales-cycle length and the decision-makers involved.
+Business Development Representative
+Own top-of-funnel pipeline generation: research accounts, run outbound campaigns and book qualified meetings with CEOs, Managing Directors and VPs of Operations at large manufacturing companies. Take ownership of your targets, messaging and prospecting playbook as Optifye expands in India and international markets.
+Run structured outbound campaigns through calls, email and LinkedIn.
+Consistently hit weekly and monthly targets for qualified meetings booked.
+Research accounts and personalize each touchpoint to earn a response.
+Improve messaging, targeting and outreach strategy based on what works.
+Keep pipeline data clean and current in the CRM.
+4–6 years of BDR or SDR experience.
+Excellent spoken and written English, with confidence communicating directly with CEOs and Managing Directors.
+A track record in high-volume outbound prospecting: cold calling, cold email and LinkedIn.
+Availability to join immediately or within a notice period of 15 days; immediate joiners are preferred.
+International SDR or sales experience.
+Previous experience at BYJU'S.
+Experience at an early-stage startup is a plus.
+₹10–12 lakh per year, plus uncapped incentives.
+This role is based in our Gurgaon office.
+Share your résumé and a few lines about your outbound experience, the pipeline targets you have owned and your availability to join.
+Customer Success Manager
+Customer Success · Gurgaon · In person · Full-time
+Own the customer journey for Optifye's B2B SaaS platform, from onboarding and adoption to retention, renewal and expansion. Build relationships with champions and economic buyers, resolve issues, prove business value and coordinate with product, engineering and sales to make your accounts successful.
+This is a field-facing role: roughly half your time will be at customer sites, mostly across North India, and the rest in our Gurgaon office.
+Lead onboarding end to end: coordinate deployment, configuration and user acceptance testing, then train users and stakeholders. Build adoption plans that help customers reach value quickly.
+Monitor customer health and adoption, own issues through resolution, and run regular check-ins with stakeholders.
+Own retention and renewal conversations, prove ROI with customer data, and grow accounts from pilots to more lines, plants and use cases.
+Run business reviews, align champions and economic buyers, and maintain a clear success plan for every account.
+Capture customer feedback, usage patterns and recurring needs, and turn them into clear product and process improvements.
+3–5 years in B2B SaaS Customer Success, Account Management or customer-facing implementation, with real customer ownership.
+Experience across onboarding, adoption, customer health, retention and renewals.
+Strong stakeholder management with users, functional leaders, champions and economic buyers.
+A data-driven approach to usage, adoption, customer outcomes and ROI.
+Willingness to travel roughly half the month, including customer-site visits when accounts need you.
+Ownership: decide what your accounts need, coordinate internally and drive work to completion.
+Enterprise or industrial SaaS, AI, IoT, analytics or workflow products.
+Manufacturing, industrial engineering, or selling and servicing technology in plants.
+Responsibility for renewal, retention, expansion or revenue targets.
+CRM and customer-success tools, dashboards, product analytics and structured account reviews.
+Technical comfort with networks, cameras and integrations to coordinate with IT and engineering.
+Additional regional languages: Tamil, Kannada, Marathi or Gujarati.
+₹12–14 lakh per year, plus uncapped incentives. Customer-site travel, accommodation and local transport are covered.
+Share your résumé and two or three lines about a customer account you personally owned. Tell us how you drove adoption, handled a challenge and created measurable customer value.
+Forward Deployed Engineer
+Be Optifye's engineer on the factory floor. Work inside customer plants with plant heads, line supervisors and operators. Learn how each line runs and shape the product around the people who use it every shift. Turn what you see into shipped improvements: new workflows, better metrics and features that fit how factories operate. Put them back in front of users within days.
+Work on-site at customer plants to understand stations, cycle times, shifts, SOPs and the causes of lost output.
+Talk directly with plant heads, production managers, supervisors and operators to understand what they need from Optifye and why.
+Configure lines and metrics, build custom views and workflows, and fix what does not fit the factory floor.
+Build and ship improvements quickly using AI coding agents, then iterate with the people using them.
+Turn patterns across plants into clear product feedback and help decide what becomes part of the core platform.
+Help customers use Optifye in daily and shift reviews so the product improves how the line is run.
+2–5 years in or around manufacturing: industrial or production engineering, plant operations, manufacturing IT, or building software for factories.
+Strong shop-floor context: you understand lines, stations, cycle times, OEE, line balancing and how supervisors run a shift.
+Comfort spending long stretches in plants and earning the trust of plant heads, supervisors and operators.
+Ability to write code and ship working software, with confidence using AI coding tools to move quickly.
+Confident communication in English and Hindi.
+High agency: notice what is wrong on the floor and fix it without waiting to be told.
+Auto-component or other labour-intensive manufacturing experience, exposure to computer vision or IoT on the factory floor, and full-stack ability to take a feature from the database to a deployed interface.
+₹25–35 lakh per year. Customer-site travel, accommodation and local transport are covered.
+Share your résumé and a few lines about a time you changed how a production line or plant process worked. Tell us what you saw on the floor, what you built or changed, and what improved.
+Read the job description above, then send us your application.
+Join factories using Optifye to boost efficiency, improve quality & digitalize manual processes — all in one platform.
+Book a demo

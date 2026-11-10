@@ -1,0 +1,35 @@
+ENR reports on Structured AI's $4.2m fundraise and partnership with Syska Hennessy
+Careers
+Join Our Team
+Structured AI is building the AI workforce for construction design engineering. Engineers shouldn't be stuck hunting for missing tags at 2 AM. They should focus on designing the future.
+01 · Why we exist
+Today, billions of dollars and months of human effort are wasted because engineers
+must manually check thousands of drawings for tiny mistakes that lead to massive
+rework. It's slow, painful, and deeply uncreative.
+We're changing that.
+Structured AI builds AI agents that understand complex mechanical, electrical,
+structural, and civil drawings, and automatically perform high-precision QA/QC,
+code compliance, and design consistency checks.
+02 · Where this goes
+Become the go-to software platform for design engineers: from quality-controlling plans today, to generating and optimizing them tomorrow.
+This means next-generation computer vision systems, autonomous workflows, and
+eventually true AI co-designers. If you want to help start the golden age of
+building, you'll love it here. Yes, we're fun. Yes, we care about our work.
+And yes, you'll have insane ownership.
+03 · Open roles
+Open Roles
+Senior Software Architect
+New York, US · Full-time
+View Role
+Forward Deployed Engineer
+Founding Account Executive
+Don't see your role? Write to info@getstructured.ai and tell us what you'd build.
+Reach us directly
+info@getstructured.ai
+Navigation
+Features Integrations Revit plugin AutoCAD plugin Compare About Careers Book a demo
+Resources
+Knowledge Base Blog Events FAQ User Guide
+Library
+Code Check Use Cases By Profession Education Field Reports
+Legal

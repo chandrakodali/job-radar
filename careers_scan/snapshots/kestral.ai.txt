@@ -1,0 +1,69 @@
+Project Brain
+The agentic coordination layer for 10x product teams
+Kestral keeps projects on track with the latest knowledge to make sure your agents and teammates work together to build the right thing.
+Sign up
+Accelerating Product Development
+AI Native
+Actionable Tasks
+Seamless Customer Feedback
+Real-time Insights
+Powerful Integrations
+Searchable Knowledge Base
+Automated Task Coordination
+Kestral’s agent creates and updates tasks as work gets completed. No more chasing people to update their tasks.
+See what matters
+Kestral gives you targeted briefs that surface the priorities, open blockers, and latest project status most relevant to you.
+Task status 82/106
+done
+Focus 85
+team score
+Ship readiness 70%
+behind
+Ship readiness
+Behind, recovering
+Recent changes
+Merged PR closed the API contract task.
+Security feedback became follow-up work.
+Customer decision was linked to the launch plan.
+$plan-day
+Reading today's brief, due tasks, project state, and calendar pressure...
+Morning readout
+Launch plan is at 91%. The live blocker is signing and notarization review.
+Best focus windows
+8:15-9:00 AM small early window 3:45-6:45 PM main usable block
+Recommended first move
+Unblock launch onboarding, then clear review risk around BMCP-256.
+1/3
+Works with your agent
+Kestral gives your agent the current project context it needs to plan the day, update tasks, and close the loop without chasing the team.
+Get Started
+Paste this into your coding agent
+Cursor, Claude Code, or Codex installs the Kestral plugin and reports any remaining activation steps.
+Install the Kestral plugin in this app, then connect and start a first plan.
+1. Download the installer:
+curl -fsSL https://raw.githubusercontent.com/Kestral-Team/kestral-plugins/main/setup.sh --create-dirs -o ~/.kestral/setup.sh
+2. After the download succeeds, run it with --app set to your current app: cursor, claude-code, or codex:
+bash ~/.kestral/setup.sh --app <app>
+Let me know any steps I need to take next.
+The install enables sync hooks. They nudge your agent after push and PR so Kestral stays in the loop without you remembering to ask.
+Prefer Terminal?
+macOS and Linux. This opens a host menu. The paste above is the advertised path — it already passes --app.
+curl -fsSL https://raw.githubusercontent.com/Kestral-Team/kestral-plugins/main/setup.sh | bash
+After install
+Pick your app for the first step after the paste. The paste is the same on every host — your agent fills --app.
+Claude Code Setup steps
+Already pasted the install prompt? Start here.
+Load kestral-setup
+In the terminal: run /reload-plugins, then /kestral:kestral-setup. In the Claude desktop app: quit and reopen so the plugin appears, open Customize → Plugins → Yours → Kestral, click Connect in Connectors, then quit and reopen once more and run /kestral:kestral-setup in a new chat.
+/kestral:kestral-setup
+Kestral not only deeply understands your data, but also protects it safely. Kestral is SOC 2 Type 2 compliant to empower high trust, security environments for startups and enterprises alike.
+Review more details in our Trust Center .
+We're leading experts in working with AI, who have advised some of the biggest companies on AI enablement.
+Want real AI ROI for your company? Or to simply instantly streamline your product workflows?
+Latest from the blog
+Introducing kstack: The Skills We Built to Ship Faster with AI Agents
+We've written millions of lines of code with AI agents while building Kestral. kstack is the set of skills we developed along the way to make fewer mistakes, keep things documented, and actually ship.
+July 24, 2026 · Read post →
+FAQ
+Common questions
+READY TO START? BOOK A DEMO TODAY.

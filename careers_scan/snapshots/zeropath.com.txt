@@ -1,0 +1,42 @@
+Featured: Automated Threat Modeling Introducing Automated Application Threat Modeling
+Build the Future of AppSec
+Join the team that's securing some of the biggest codebases in the world.
+View Open Roles
+Our mission
+To secure the world's code and fix vulnerabilities before they ever reach production.
+We combine deep program analysis with AI agents that reason about code the way a security researcher would, tracing attack paths across services, dependencies, and infrastructure.
+Backed by Y Combinator, HOF Capital, SurgePoint Capital and Crosspoint Capital. RSAC 2026 Innovation Sandbox Top 10 Finalist. We're a small team of 6 in San Francisco doing the work of 60.
+300k+
+Scans run per month
+120+
+Hours saved per team/week
+150+
+Bugs fixed in curl alone
+$12.5M
+Seed funding
+Why ZeroPath
+Real-World Impact
+From Fortune 500 companies to critical open-source projects like curl, FFmpeg, and django-allauth, the vulnerabilities we find protect millions of users. The code you write here has real consequences.
+World-Class Team
+Built by second-time founders with successful exits and ex-Tesla and Google security engineers who've earned over $100K in bug bounties.
+Competitive Package
+Strong base salary and meaningful equity in a YC-backed company with $12.5M in seed funding. Full health, dental, and vision coverage. We invest in our team the way we invest in our product.
+Open Positions
+Engineering
+Software Engineer
+Remote (US) / Full-time →
+Customer Engineer
+Remote (Global) / Full-time →
+Security
+Security Researcher
+Sales
+Account Executive
+San Francisco, CA (Hybrid) / Full-time →
+Sales Development Representative
+Design
+Product Designer
+Detect & fix
+what others miss
+Book a Demo
+Works with
+Explore integrations

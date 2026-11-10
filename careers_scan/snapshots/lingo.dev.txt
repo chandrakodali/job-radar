@@ -1,0 +1,56 @@
+Platform Talk to sales Sign in Create an account
+Hiring
+Join Lingo.dev
+Lingo.dev is the localization engineering platform where teams measure translation quality, translate with LLMs, and proofread with native speakers. It’s built for teams accountable for quality in languages they can’t read, so they translate more with LLMs and trust the quality of every language.
+Lingo.dev is the standard localization infrastructure for modern teams scaling into new markets – including Mistral, Solana, SoSafe, and Cal.com.
+What we build
+On Lingo.dev, teams configure localization engines – stateful translation APIs that hold the glossary, brand voice, and per-locale model preferences – and the criteria a team defines score every translation before it goes live.
+Retrieval augmented localization sends that context to the highest-scoring LLM per language pair, on the team’s own provider API key or through Lingo.dev without markup. An edit in the code repository or the CMS starts a pipeline, and the translation returns to the source of truth. Native-speaking proofreaders approve a translation where the team decides, and the rules Lingo.dev drafts from their corrections tune the engine.
+We started at a hackathon back in December 2023, won best dev tool, and kept building localization tools that must exist but don’t yet. Today we have hundreds of real users, more than 5,000 GitHub stars, a CLI that runs more than 10,000 times a week, and over 300 million translated words. The work is the API and the CLI, the scorers and the localization engines, CI/CD and third-party integrations, AI agents, background workflows, and the dashboards where a team reads the quality of every language – and the team that owns localization runs the localization infrastructure.
+We’re a lean, international, remote team who like hard problems, use our own tools, and talk directly to the people using them. If you’re excited about what we’re building, see what we’re hiring for.
+GitHub stars
+5,000+
+CLI runs a week
+10,000
+Words translated
+300M+
+How we work
+Lean team, full ownership
+We own systems end-to-end – from CLIs to UI/UX design to database migrations. Every Friday we do a Demo Day and show what we shipped to production that week.
+Love the craft
+We like what we do and spent years getting good at it. We use our own platform daily, obsess over API ergonomics, and rewrite things that work if they could work better.
+Be ready to be wrong
+We talk to customers directly and figure most things out as we go. When real usage contradicts an assumption, the assumption gets updated, not the user.
+Ship with AI
+Claude Code, MCP servers, AI agents – we use them all day, every day. They’re part of how we write code, review PRs, and debug production issues. We actively explore new AI tools and share what works.
+Manage yourself
+We’re all human – sometimes focus drifts. Catching it is the skill: change context, ask for help, whatever breaks the loop. We trust each other to manage our own focus.
+Bring energy
+Positivity, grit, and drive matter here as much as technical skill. We like working together, celebrate wins, and have fun doing hard work.
+Benefits
+Work
+Fully remote, flexible hours
+Tech allowance
+Cutting-edge stack – Effect.ts, latest React, Cloudflare Workers
+Weekly Demo Days
+Deploy to production several times an hour
+Growth
+Conference and learning budget
+Build developer tools you use yourself every day
+Work directly with founders
+Talk to customers using your code
+Wellbeing
+Competitive salary
+Health insurance
+Annual team offsites
+Interview process
+Coffee chat
+30 minutes with a founder. We talk about your background, what you’re looking for, and whether there’s a mutual fit.
+Interview
+One or two sessions focused on the skills that matter for the role – depth, taste, and how you think through problems.
+Paid trial
+One month working on real projects together. Intensive, collaborative, and mutual – we both decide if it’s the right fit.
+Open positions
+No open positions right now.
+Follow Lingo.dev on LinkedIn to hear when one opens.
+Follow on LinkedIn

@@ -1,0 +1,16 @@
+Home Product Resources About Careers Contact us
+CAREERS
+Come build with us
+Automating how the world's goods are moved
+About us
+Who we are
+We're a small team with an office and a mini-factory in Amsterdam, with an actual shipping container inside. Everyone is hands-on: writing code, on the road to the warehouse, helping each other out where needed.
+We come from military drones, surgical robots, LLM research, and world models. Now we build robots that do real work in the real world.
+What we're building
+AI-powered robots for the hardest, most demanding job in logistics: unloading loose-loaded shipping containers at the dock door, the entry point of the entire supply chain.
+Our robots work in the field, doing the job for paying customers. For 3 months in a row, we have doubled our customer base. We operate across western Europe, with global growth ahead of us. Now we need more engineers to keep up with demand.
+Continue reading about us →
+Open roles
+Founding Hardware Engineer Amsterdam, NH, NL · Full-time · Offers equity · 3+ years Own every mechanical aspect of the robot, from sketch to deployment. Forward Deployed Robotics Engineer Amsterdam, NH, NL · Full-time · Offers equity · 1+ years Be the person on the ground where our robots meet the real world.
+Don't see your role?
+Open Application Amsterdam, NH, NL · Full-time · Offers equity · Any (new grads ok) For roles we haven't listed. Tell us what you'd want to build.

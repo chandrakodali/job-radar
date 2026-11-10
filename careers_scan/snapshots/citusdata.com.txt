@@ -1,0 +1,8 @@
+📺 All 44 POSETTE: An Event for Postgres 2026 talks are now available on YouTube .
+Skip navigation
+Careers
+Join the Postgres team at Microsoft
+In 2019, Microsoft acquired Citus Data. And since then, our Citus database team has continued to innovate and improve on the open source Citus database engine, bringing you distributed Postgres at any scale. And in Citus 11, we made the last remaining Citus Enterprise features go fully open source . We’ve also made Citus available as a managed service in the cloud. Our Postgres teams at Microsoft are hiring in multiple geographies for lots of different roles, in our quest to build the world’s best Postgres. We’d like your help.
+JOIN OUR TEAM
+Now Part of Microsoft
+READ THE BLOG

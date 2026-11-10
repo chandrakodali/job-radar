@@ -1,0 +1,57 @@
+Blog
+Log in
+Services
+Managed Kubernetes
+Production grade Kubernetes: people-led, architected, built, and managed 24/7
+Self-Hosted AI Platform Support
+Support for AI ISV's delivering self-hosted installations on K8s
+Professional Services
+Migrations, Self Hosted AI Platform Deployment Support, Infrastructure Design Assessments
+Case Studies
+Resources
+White Papers
+Fairwinds GitHub
+About
+About Fairwinds
+Who Fairwinds is and how we work.
+Fairwinds Insights
+Security, right-sizing, and policy compliance.
+Open Source
+Polaris, Goldilocks, Pluto, and Nova.
+Book Strategy Call
+Come work with us
+Join a culture of learning, caring, open communication, and growth at Fairwinds.
+Our team creates Kubernetes software built based on years of experience managing clusters for organizations. We help our customers build secure, reliable, and cost-effective cloud native environments. We look for talented individuals with Kubernetes experience or interest in building open source and commercial software. Come be part of a startup on the cutting edge of the cloud native ecosystem.
+Fairwinds' Values: RICK
+Fairwinds’ values are rooted in RICK: Respect, Inclusion, Compassion, and Kindness.
+Respect
+We respect our team for their abilities, qualities, and achievements.
+Inclusion
+We include and accept no matter the differences. Everyone deserves to be heard.
+Compassion
+We spend time understanding and helping each other.
+Kindness
+We are friendly, generous, and considerate.
+Core Beliefs
+We believe in service leadership: We are here to help you all be successful. We ensure you have the tools, access, information, and training to do your job and feel successful.
+Fairwinds as a hive: The needs of the many outweigh the needs of the few or the one. We are all prepared to be flexible in our roles for the greater good.
+Encouragement: We encourage a culture of learning, discussion, open communication, and growth.
+Disagree, but commit: We will not always agree, and that is ok. We voice our opinions and when a decision is made, we commit and support it either way.
+Get s*** done: We are focus on getting s*** done and avoid unnecessary processes that get in the way of that.
+Bias for action: We have a strong bias for action and a positive attitude: How we treat each other is what matters the most.
+We empower you: We prefer our team members feel empowered to make decisions with the best info they have rather than always deferring up.
+Our employees: Our goal is to support an organization of humans who like what they do, who they do it with, and provide the kind of future they want for themselves and each other.
+Benefits
+Remote first teams
+We’ve always been remote first. Work from where you want!
+100% paid medical
+We pay 100% medical, dental, and vision.
+Flexible vacation policy
+Take the time you need, when you need it.
+Stock options
+Be invested in the business.
+401K and Life Insurance
+Be present with us while preparing for the future.
+View Open Positions
+Fairwinds is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+Fairwinds is a Kubernetes managed service provider, Kubernetes Certified Service Provider, and an AWS Advanced Tier Services Partner with the AWS EKS Service Delivery and Managed Service Provider designations. Our SRE teams manage and operate production Kubernetes environments for organizations across a range of industries.

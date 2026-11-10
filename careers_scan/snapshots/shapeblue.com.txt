@@ -1,0 +1,31 @@
+ShapeBlue
+Careers
+Become a part of the ShapeBlue family and one of our employee owners
+Working at ShapeBlue
+ShapeBlue are the world’s leading independent integrator of Apache CloudStack. We operate global consulting, implementation, support and software engineering teams. We expect our people to bring a wide range of deep technical experience , but at the core of everything we do is Apache CloudStack. At ShapeBlue, we actively encourage people to participate in the Apache CloudStack community as much as possible.
+We have an ethos of continuous personal development and encourage our people to learn & explore their technology space . ShapeBlue is a relaxed yet highly motivating place to work. We are a rapidly growing, yet still small, business and can therefore offer rapid career opportunities to the right people as our company scales.
+Our Software Engineers work at the intersection of cloud computing, DevOps, and distributed systems. ShapeBlue is “The CloudStack Company”, and we actively contribute to the enhancement and maintenance of the Apache CloudStack Infrastructure-as-a-Service (IaaS) project.
+Our work involves deep knowledge of hypervisors, storage, and/or networking. We are a polyglot environment – developing CloudStack in Java and Python whilst working with many different technologies for integration. We then donate all of our work back to the open-source project.
+Our team values collaboration, customer focus, continuous improvement, and the Apache Way. We will provide you with training and mentoring but fully expect you to have a passion for learning new technologies and working collaboratively. We will expect you to work toward becoming an Apache committer within 6 months and to want to share your work and ideas through conference presentations and hackathons.
+If you’d like to learn more about a career at ShapeBlue , please email (in strictest confidence) jobs@shapeblue.com
+Our Values
+Ownership – Taking responsibility and initiative for your growth, the success of your team and the company as a whole.
+Empowerment – Fostering a culture where every individual is encouraged to take ownership, make decisions, and drive positive change.
+Value – Always create value through our work. Value for our customers, value for the community, value for our colleagues.
+Openness – Open-source is in our DNA. We believe 100% in open-source and openness in our work with clients and partners.
+Honesty and Fairness – Fair attitude and treatment to all team members. Supporting them in work and life.
+Building and Growing a Community – We contribute heavily to the Apache CloudStack community and encourage our team to do so.
+Current Job Openings
+QA Engineer – Junior to Mid Level
+View more
+Opensource Software Engineers
+REMOTE
+Global Locations
+Software Engineer (Test)
+CloudStack Architect
+Apply now! Email us at jobs@shapeblue.com
+An Employee-owned
+Company!
+ShapeBlue is a 100% employee-owned business: owned by all of its employees, for the benefit of all of those employees.
+100% of the shareholding of the company is held by an Employee-Owned Trust (EOT) for the benefit of its staff, with the leadership team remaining in place with no planned changes to the company’s strategy.
+Learn More

@@ -1,0 +1,68 @@
+Introducing
+Quantcept — institutional-grade AI research for Wall Street professionals. Built for the desk, delivered in your terminal. Explore Quantcept → Quantcept — AI research for Wall Street. Explore →
+/ Fincept
+Enterprise
+Enterprise Terminal MCP Server
+Products Pricing Compare Quantcept Open Source
+Resources
+Terminal Manual Blog Documentation FAQ GitHub
+Company
+About Us Team Careers Contact
+Schedule Demo Login Get the Terminal
+/Openings 8 roles · all remote
+INTERN 1-6 months · Remote
+Quant Researcher
+Research quantitative strategies, build factor models, and analyze market microstructure.
+Statistics/Math background
+Python proficiency
+Interest in financial markets
+Apply Now
+QA Engineer
+Design test strategies, write automated tests, and ensure product quality across platforms.
+Testing methodologies
+Automation experience
+Attention to detail
+ML Engineer
+Build ML models for market prediction, sentiment analysis, and AI-powered financial tools.
+ML/DL frameworks
+Python & data pipelines
+NLP experience preferred
+Content Writer
+Create blog posts, product explainers, newsletters, and social content that communicate Fincept's vision to traders and analysts.
+Strong storytelling ability
+Interest in finance or fintech
+SEO basics a plus
+Research Intern
+Deep R&D at the intersection of AI and financial systems — stress-testing economic models, studying how AI reasons about markets, and probing first-principles questions that do not yet have clear answers.
+Curiosity-driven mindset
+Background in finance, economics, CS, or math
+Comfortable with ambiguity and open-ended problems
+C++ Engineer
+Build high-performance components for market data processing, low-latency execution, and core financial engine modules.
+Strong C++ (11/14/17)
+Understanding of low-latency systems
+Interest in financial markets or HFT
+Marketing Intern
+Drive growth through campaigns, community building, and brand strategy to reach traders, analysts, and fintech enthusiasts globally.
+Digital marketing fundamentals
+Social media & campaign management
+Interest in finance or B2B SaaS
+Integrations Engineer
+Build and maintain integrations with brokers, data providers, and third-party financial APIs to expand the Fincept ecosystem.
+REST & WebSocket APIs
+Python or TypeScript
+Experience with third-party API integrations
+Why intern here
+Shipped, not sandboxed
+Your work goes into the terminal desks actually run — not an internal demo that gets archived.
+Founder mentorship
+You work directly with the founders. Small team, no layer between you and the decisions.
+Public proof
+Most work now lands in the private edition, but open-source contributions stay on GitHub under your name.
+Certificate & reference
+Completion certificate and a real reference letter — written from what you shipped.
+Every role is remote and runs 1–6 months.
+How to apply
+Hit apply on the role you want and send a CV with anything you have built — a repo, a notebook, a model, a piece of writing. That is what we read first.
+[email protected] Who You'd Work With
+No role that fits? Read what we are building and write anyway.

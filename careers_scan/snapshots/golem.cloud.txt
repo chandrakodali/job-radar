@@ -1,0 +1,18 @@
+How we work
+We're a small, async team distributed across more than a dozen countries. Most communication
+happens in pull requests, GitHub issues, and our Discord . The runtime is in Rust; the SDKs span TypeScript, Rust, Scala, and MoonBit. We ship in the
+open — every meaningful decision shows up in a commit, an issue, or an RFC.
+Operating principles
+Open by default. Designs land as issues, RFCs, or PRs before they land as code.
+If something is worth doing, it's worth doing where others can read it.
+Correctness over haste. We're building infrastructure people will trust with state,
+money, and irreversible actions. We'd rather ship the right thing late than the wrong thing on time.
+Async and autonomous. Across many time zones, async is the default. We optimize
+for written artifacts that compound over time, not meetings that don't.
+Earn trust by shipping. The fastest path into the team is real contributions —
+code, ideas, bug reports, docs. We hire from the community first whenever we can.
+No current openings
+We're not hiring right now. The honest best way to get on our radar when we are is to contribute to our open-source projects on GitHub and show up in our Discord community. We've hired multiple team members from the OSS community already, and it remains our
+preferred path.
+If you'd like to be considered when we open roles, the best move is to start contributing — we
+read every PR.

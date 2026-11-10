@@ -1,0 +1,36 @@
+We're Hiring
+⚠️ This position has been filled. We are no longer accepting applications.
+Join our team and help build the agentic social media scheduling tool used by thousands. Fully remote, no past experience required — just real skills and passion for great software.
+Engineer / Support Engineer
+Postiz is an agentic social media scheduling platform that supports 15+ providers including X, LinkedIn, Instagram, Facebook, TikTok, YouTube, and more. Our codebase is built on a provider-based architecture with shared interfaces — and we need someone who can work across the full stack, build generic solutions, and help support our growing community.
+📍 Fully Remote
+💵 $36,000 – $48,000 / year
+🕐 Full-time
+What You Need to Know
+We don't require past work experience. What we do require is a deep understanding of our tech stack.
+NestJS
+Deep understanding of NestJS framework — modules, providers, guards, interceptors, and the dependency injection system.
+Next.js
+Proficiency with Next.js including routing, server-side rendering, API routes, and the React ecosystem.
+Temporal
+Experience or strong understanding of Temporal for workflow orchestration, activities, and durable execution.
+Tailwind CSS
+Ability to build responsive, polished UIs with Tailwind CSS utility classes and custom configurations.
+Interview Process
+Submit a Pull Request
+Instead of a traditional coding interview, we ask you to open a PR on the Postiz GitHub repository . Implement something generic — a feature, integration, or improvement that uses interfaces and works with Postiz's multi-provider architecture. Show us you understand how to build code that scales across many providers.
+PR Review & Discussion
+We'll review your pull request and have a conversation about your approach, design decisions, and how you structured the code. This is where we get to know how you think.
+Welcome to the Team
+If we're a good fit, you're in. No whiteboard puzzles, no take-home assignments — just real code on a real project.
+Why Work at Postiz
+Fully Remote
+Work from anywhere in the world. We're a distributed team and we embrace async communication.
+No Experience Required
+We don't care about years of experience or degrees. If you know the stack and can ship quality code, that's what matters.
+Visible Impact
+Contribute to a product used by thousands of developers. Your work will be visible and impactful from day one.
+$36,000 – $48,000 / year
+Competitive salary paid in your local currency. We believe in fair compensation regardless of location.
+This Position Has Been Filled
+Thank you to everyone who applied! We're no longer accepting applications for this role. Follow us on GitHub to hear about future openings.

@@ -1,0 +1,183 @@
+Return to Strikingly Home
+English
+简体中文
+Careers at Strikingly
+See Open Positions
+Strikingly is powering the next generation of websites.
+Our mission is to give everyone the power to unleash their individuality.
+Read more here.
+We're a small team working internationally and based in Shanghai.
+Backed by Y Combinator (W13), SV Angel, Index Ventures, FundersClub, Innovation Works, and more.
+Our Culture
+Strong sense of purpose
+We want to help everyone build their brands and identity online.
+High bar for quality
+We're obsessed with building the best and always see room for improvement.
+Relentlessly deliver results
+Get rid of your excuses. Take pride in getting shit done.
+Embrace the challenge
+Uncertainty is always part of a startup. We tackle big ideas with courage.
+Focus on the team, not egos
+We care about each other. Be candid, constructive, and sincere.
+Empathize and create value
+Make all users feel appreciated. We're not happy unless the user is happy.
+Think critically
+Question everything. Don't fall into the status-quo trap. Innovate!
+Simplify
+To create the best experience, we cut all distractions and get to the point.
+Take initiative and assume responsibility
+Volunteer for the impossible and push the whole team further.
+If you're afraid of a challenge, or just want a stable and predictable job, Strikingly won't be a good fit for you.
+Read all about us! We've been featured in...
+Open Positions
+We're hiring for full-time and internship positions!
+Support
+Happiness Officer
+View Position
+Product
+Product Designer
+QA Engineer
+Engineering
+DevOps Engineer
+Front End Engineer
+Back End Engineer
+Mobile Engineer
+Data Engineer
+Responsibilities
+Design and develop critical backend infrastructure, tools, and automation — Keep our servers up and running smoothly!
+Work closely with other engineering teams to support new features
+Requirements
+Highly skilled with Unix/Linux systems administration
+Experience with Git
+Experience with relational database like Postgres/MySQL
+Working knowledge and curiosity required to understand and troubleshoot
+Linux-based cloud application deployments at every level
+Conversational English skill
+Bonuses
+Experience with Ruby on Rails or other web frameworks
+Experience with AWS stack
+Experience with Chef/Puppet/Docker/Flynn/OpenStack
+experience with continuous integration, log collection and analysis, and performance monitoring/tuning of infrastructure
+Design and build new features from ground up, creating beautiful and enjoyable interfaces in HTML/CSS/JavaScript. We use tools & libraries like React, Angular, Webpack, and Karma.
+Practice disciplined software engineering (e.g. testing, code reviews, and writing beautiful, pragmatic code.)
+Work closely with other engineers, designers, and marketers to ship an extraordinary product
+Communicate closely with users, collect feedback/metrics, and rapidly iterate on product
+Test and optimize features and interfaces to ensure quality experiences for users on all devices and browsers.
+Be flexible, grow, and learn fast in a startup environment
+Good taste in web design
+Solid understanding of UI/UX principles
+Solid understanding of HTML5/CSS3 standards and cross-browser/cross-device web compatibility
+Very strong skills in object-oriented JavaScript, jQuery, DOM manipulation
+Can implement HTML/CSS/JavaScript efficiently from mockups or wireframes
+Can easily pick up new front-end libraries/frameworks
+Bachelor's degree or above in a technical discipline, or equivalent experience
+Strong English language skills
+You know how to fully optimize your front-end code for speed and compatibility
+Experience with front-end MV* frameworks (Vue.js, Angular, Knockout, Backbone, Ember, etc.)
+Experience with scripting languages (Ruby, Perl, PHP, Python, etc.)
+Experience with mobile web development
+Experience with standard design tools (Photoshop, Fireworks)
+Design and build new features from ground up: crafting UIs with front-end engineers and building backend systems with Ruby
+Practice disciplined software engineering (e.g. automated testing, code reviews, and writing beautiful, pragmatic code.)
+Experience in Ruby
+Extensive knowledge of Unix/Linux
+A solid foundation in computer science, with competencies in data structures, algorithms, and software design practices
+Object-oriented programming
+Good taste
+Keen product sensibilities, with a desire to discover and fulfill the needs of users
+Experience building highly interactive web applications, working up and down the stack
+Object-oriented JavaScript skills
+Test-driven development
+Strong understanding of database design and SQL, caching, and scalability
+Experience in optimizing your code to the extreme
+Experience in shipping high-volume production applications
+Design and build new features from ground up: crafting UIs with designers and building mobile applications
+Practice disciplined software engineering (e.g. automated testing, code reviews, and writing beautiful, pragmatic code)
+Experience in Objective-C/Swift and Cocoa Touch or Java and Android SDK or object-oriented JavaScript
+Conversational English
+Have published an app or two
+Interest in React Native
+Good taste and strong willingness to learn
+Experience building highly interactive mobile applications, working up and down the stack
+Back end or front end development experience
+Mac software developing, Cocoa
+As a Data Engineer, you will use data to inform business and product decisions. You will build tools to automate reporting and generate insight that will allow us to quickly and accurately see how our product and processes are performing. You will take responsibility for and deliver multiple BI work-streams, both on an ongoing and ad-hoc basis. You'll be involved in projects from inception to delivery, ensuring that your reporting delivers high-quality and relevant data to intelligently grow our business. You should have genuine excitement and passion for developing and analyzing large, complex data sets and converting them into the information/insights that drive key product and business decisions. You will work closely with the growth, engineering, and product teams to play a core role providing technical, analytical and reporting solutions.
+BA/BS degree or equivalent in Computer Science, Statistics, or Mathematics.
+3-5 years of relevant work experience spanning database development, reporting and business intelligence tools
+Strong knowledge of SQL including stored procedures and performance tuning on standard databases (e.g. Postgres, MySQL and etc.).
+Expert knowledge of commercial and emerging reporting tools and technologies in at least one of the following: Tableau, QlikView, Gooddata, Chartio, Looker, Business Objects, or other best-in-class BI applications
+Expert knowledge in data and user analytics tools in the following: Google Analytics, Mixpanel, Kissmetrics etc.
+Experience with statistical analysis tool such as SPSS, SAS or R
+Experience in Web-scale databases, Hadoop, or NoSQL technologies. Experience in related underlying technologies such as AWS Redshift.
+Distinctive problem-solving and analytical skills combined with strong business acumen; demonstrated ability to multi-task and apply initiative and creativity on challenging projects.
+Exposure to and understanding of data modeling, data architecture, data warehouse design and/or best practices for developing environments focused on analytical and business intelligence data.
+Knowledge of other programming languages such as Java, Python, Javascript etc would be a plus.
+Mock up and design awesome-looking interfaces and marketing materials for all parts our application
+Collaborate heavily with our developers and marketers to plan and craft UX for product features
+Track, analyze, and test for measurable UX improvements
+Design beautiful new templates for all our users
+Amazing taste! Show us your awesome portfolio. You should be a master of color, typography, and visual layout, and in a wide variety of visual styles
+Strong understanding of UI/UX for the web
+Strong product sense. Can think about how a complex software product and brand like Strikingly behaves and feels like as a whole, and how users interact with it
+Highly proficient in Photoshop, Fireworks, Illustrator, etc
+Can pick up a pencil to draw up interfaces on the fly
+Strong English communication skills
+You can code! HTML/CSS would be great. An understanding of JavaScript is even better
+You've worked on large, complex apps in the past
+In this role, your main responsibility is to find as many problems and areas for improvement on our product as possible, before users do. You will be establishing QA processes and leading the conversation on the testing of our product, both before and after release across different platforms.
+You will collaborate with cross-functional QA, Engineering, and Product teams to ensure our products meet the highest quality requirements.
+Learning product, understand the design of the feature and design test cases accordingly, especially be able to design end user scenarios.
+Act as key point of contact for all QA aspects of releases and coordinating resources.
+Participating in testing and troubleshooting of product, and writing test cases with detailed test steps.
+Collaborate with the team members on a daily basis and distribute the information accordingly to all appropriate parties.
+Establishing and evolving formal QA processes, overseeing all aspects of QA including metrics, best practices, and optimizing the processes.
+Passion for creating great products and perfectionism on quality
+Highly detailed-oriented
+Strong sense of prioritization and ability to empathize with users
+Relentless in getting things done and following through on issues you’ve identified
+Fluent English and Chinese verbal and written communication skills
+Ability to prioritize and excel in a fast-paced, constantly shifting environment
+Work experience in IT company, and professional experience in QA testing
+Familiar with testing processes and bug tracking management
+Programing experience
+As our Happiness Officer, your core responsibility is to support users in creating and publishing their websites. You'll shape the human part of their Strikingly experience. To do a good job at this position, you need to have a holistic understanding of our product and user community. By supporting and understanding users' demands, you will work closely with both the business and engineering teams to improve the product.
+Fluent in both written and spoken English
+Passionate about delivering happiness with fantastic user experiences and supporting our users to achieve success
+A clear and concise communicator who speaks up and is open to being wrong
+Highly empathic for people's motivations, pain points, and moments of happiness
+Experience with photo, graphic, and/or video editing
+Basic HTML/CSS/JS skills to help people with some custom code
+Experience in design thinking and user experience design
+We're definitely open to hiring for other positions as well!
+We're always looking for great people to join us. Just email us!
+Apply Now
+Send us your resume, portfolio, and anything interesting about you!
+Email us — jobs@strikingly.com
+Strikingly
+Home
+Templates
+AI Site Builder
+Pricing & Plans
+Extras
+Strikingly Kickstart
+AI Logo Maker
+iPhone App
+Community
+Strikingly Blog
+Idea Forum
+Sitemap
+Partners
+Affiliate Program
+Agencies & Resellers
+Company
+We're Hiring!
+Our Manifesto
+Terms
+Privacy
+Help & Support
+Knowledgebase
+Accept all
+Settings
+Decline All
+Save
+jobs@strikingly.com

@@ -1,0 +1,87 @@
+Cake Labs · since 2017
+Crypto apps built for real people .
+We make non-custodial wallets and payment tools that keep privacy approachable and crypto useful every day.
+See our products
+Get in touch
+2M+ users
+4 products shipping
+2018 first app shipped
+Four products.
+One goal: less friction.
+Every Cake Labs product grows out of real user demand. That's how a wallet turns into an entire payments network.
+Cake Wallet
+iOS · Android · macOS · Linux
+The leading non-custodial wallet for Monero, Bitcoin with Lightning, Litecoin, Zcash and more, with built-in swaps, buy and sell, and hardware-wallet support.
+2M+ users · since 2018
+cakewallet.com
+Monero.com
+Resources · Exchange
+A Monero-only wallet built from the Cake Wallet codebase, with clear Monero education, XMR purchases with other coins or a card, and a modern block explorer.
+Monero-only wallet · since 2022
+monero.com
+Cake Pay
+Gift & prepaid cards
+Turns crypto into gift cards and prepaid Visa and Mastercard cards for 150,000+ merchants, at face value: a $20 card costs $20. Shop at cakepay.com or right inside Cake Wallet.
+150K+ merchants · since 2022
+cakepay.com
+Cupcake
+Cold Storage
+Turns any old phone into an air-gapped hardware wallet. Open source, fully offline, and built to pair seamlessly with Cake Wallet.
+Open source · since 2025
+cupcakewallet.com
+From the team behind Cake Wallet
+Radar: chats and sats in one place
+End-to-end encrypted chats built on the Signal protocol, with self-custodial Bitcoin Lightning payments that settle instantly. Open source, and now on iOS and Android.
+radar.chat
+Principles built into every product.
+Privacy, autonomy, simplicity and access guide what we build.
+Privacy
+We build with sensible defaults, so protecting your data doesn't depend on reading the fine print.
+Autonomy
+None of our products custody your funds. The keys and the decisions are always yours.
+Simplicity
+Cryptography is complicated; using our apps shouldn't be. Design wins over engineering whenever the two compete.
+Access
+Open source, free to use and available on iOS, Android, macOS and Linux, so anyone can join whatever their budget.
+A network of trusted partners.
+We integrate trusted third parties for swaps, buying and selling, hardware signing and more, so it all stays seamless inside our apps.
+Swap
+Trocador
+Buy & sell
+Hardware wallets
+BitBox
+Apps & services
+NanoGPT
+Latest news
+What we're shipping right now.
+Latest
+Cake Wallet release notes
+Mar 2026
+Lightning is (finally) here
+Feb 2026
+BNB Smart Chain Support, Zcash Improvements & EVM Balance Fetching
+Jan 2026
+Zcash is Now Live in Cake Wallet
+Archive
+View all news
+FAQ
+Frequently asked questions.
+What is Cake Labs?
+Cake Labs (Cake Labs LLC) builds open-source, non-custodial crypto apps for everyday use: Cake Wallet, Monero.com, Cake Pay and Cupcake. Founded in 2017, it makes apps relied on by more than 2 million people.
+Who makes Cake Wallet, and which coins does it support?
+Cake Labs makes Cake Wallet , its first app, shipped in 2018. It is a non-custodial wallet for Monero, Bitcoin with Lightning, Litecoin, Zcash and more, with built-in swaps, buy and sell, and hardware-wallet support.
+Does Cake Labs hold my crypto?
+No. None of our products custody your funds. You keep your own keys, and the decisions are always yours.
+Are Cake Labs apps open source and free?
+Yes. Our apps are free to use, and the code for Cake Wallet, Monero.com and Cupcake is open source at github.com/cake-tech .
+Which platforms are the apps available on?
+Cake Wallet runs on iOS, Android, macOS and Linux. Monero.com and Cupcake are available on iOS and Android.
+What is Cake Pay?
+Cake Pay turns crypto into gift cards and prepaid Visa and Mastercard cards for 150,000+ merchants, at face value: a $20 card costs $20. Use it at cakepay.com or right inside Cake Wallet.
+Where is Cake Labs based?
+Cake Labs is based in Nevis and the USA.
+Let's build something together.
+We're always open to integrating new exchanges, merchants and crypto services that improve the experience for our users.
+partners@cakelabs.com
+x.com/cake
+github.com/cake-tech

@@ -1,0 +1,32 @@
+Careers
+Help voice AI keep
+its promises.
+We're a small, fully remote team across San Francisco, London and Malta, backed by Y Combinator, F-Prime Capital, True Ventures, Liquid 2 Ventures and MTV. We're hiring our first go-to-market hire and two founding engineers.
+How we work
+Small team, whole problems
+Five people, no layers. You own a surface end-to-end — from the schema to the pixel to the customer call where you find out if it worked.
+Ship weekly, learn daily
+Our customers run voice agents in production; when something breaks for them it breaks loudly. We ship small, watch the metrics move, and fix fast.
+Remote with real overlap
+Fully remote across San Francisco, London and Malta. We keep a few hours of shared overlap, write things down, and fly everyone together a few times a year.
+Taste matters
+We sweat the pixel and the p95 alike. The product is opinionated and the codebase is too — TypeScript everywhere, one way to do things, no drive-by abstractions.
+Open roles
+Three seats at the founding table.
+Each role has its own page — open it for the full brief, or share the link directly.
+Founding Account Executive
+Go-to-market · Remote · San Francisco
+Our first go-to-market hire — a full-cycle closer who books their own demos, runs them for a technical buyer, and closes.
+View role
+Founding Software Engineer — Product
+Product engineering · Remote · US or Europe
+Own the product surfaces our customers live in — schema to pixel, and the customer call where you find out if it worked.
+Founding Software Engineer — AI & Voice Systems
+AI & infrastructure · Remote · US or Europe
+Own the evaluation pipelines, audio-native metrics and simulation engine that make Roark honest.
+Don't fit any of these boxes but convinced you belong here? Tell us why — careers@roark.ai . We read everything, and we reply fast. Learn more about the team →
+Bring a recording.
+We’ll score it live.
+See your own agent measured on the audio it actually produced, in the demo, in real time. Stop guessing whether your voice AI works.
+Book a demo Get started free
+Or get $50 in credit with a work email · read the docs · support@roark.ai

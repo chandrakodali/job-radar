@@ -1,0 +1,17 @@
+Home / Company
+We measure the physical economy behind AI.
+Meteor Labs builds alternative data on the equipment, sites and suppliers that the AI buildout depends on. We find the public records that describe it, turn them into clean, traceable datasets, and deliver them to the investors and companies who need to understand it.
+The best evidence was hiding in plain sight.
+Meteor Labs started from a simple observation. The AI buildout is limited less by chips than by the physical things around them: transformers, switchgear, cable, generators, turbines and the power to run them. Those constraints decide which data centers get built, when, and by whom.
+The best evidence about that equipment is public, but it is scattered across thousands of agencies, buried in regulatory filings, often written in another language, and almost never structured. Investors relied on announcements and channel checks; manufacturers relied on their own sales pipelines. Nobody was reading the record end to end.
+So we started reading it. Today our data covers more than 500 US data center projects and the suppliers that equip them, and it grows every month as we add new sources and new parts of the supply chain.
+Careers
+We are hiring across the board, including research writers and data engineers. We like non-traditional backgrounds and people with an unusual amount of curiosity.
+To apply, email contact@meteorlabs.ai with one impressive piece of work.
+Talk to us.
+Whether you are evaluating data, know a source we should see, or want to partner, we would like to hear from you.
+Book a demo
+Contact us
+Clients Demos, samples and trials.
+Data partners Sources and distribution partnerships.
+Press & research Questions about our data and methods.

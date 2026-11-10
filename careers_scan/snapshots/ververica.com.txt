@@ -1,0 +1,208 @@
+STREAM FORWARD: Meet the Flink engineers building real-time systems at scale. [Pick your city →]
+Join a World-Class Team
+We are looking for the brightest people to work on fundamental problems that matter in practice. Take a look at our open positions and meet the team!
+View Open Positions
+Why work with us?
+We enjoy working with people who share our values and love challenges. Take a look at some of the reason why joining Ververica should be your next decision.
+Growth Opportunities
+Your ambition and contributions are valued here. Together, we grow and succeed.
+Flexibility
+Let’s face it life happens. We get it. That’s why we offer flexible working hours to help you balance your personal needs, along with health insurance and other essential benefits.
+Customize Your Tech
+Choose the gear that helps you work best. Let us know your preferences, and we’ll provide the tech that keeps you comfortable and productive.
+Relocation Assistance
+Don’t worry we support your relocation, if needed, and take care of any necessary paperwork to make the process smooth.
+Great Team
+Success is most rewarding when we achieve it together. We collaborate, share ideas, and celebrate every win as one team.
+Hiring Process
+Submit your CV
+Skills Assessment
+HR/ Technical interview
+Final Interview
+Job offer
+Current Openings
+Technical Support Engineer (m/f/d) - Canada | Remote
+Published on: 2026-10-13 | Permanent
+ABOUT VERVERICA
+Ververica is the original creator of Apache Flink® and remains a core contributor to it. Flink is the leading open-source engine for stream and batch processing. It runs mission-critical workloads at Netflix, Alibaba, Amazon and Uber, as well as at banks, telcos and global enterprises.
+We build Ververica Unified Streaming Data Platform, an enterprise-grade platform for real-time data on top of Flink. Backed by one of the world's largest tech companies, we combine open-source innovation with long-term stability.
+WHY THIS ROLE MATTERS
+Our customers run real-time pipelines that cannot stop: fraud detection, payments, telemetry, recommendations. When something breaks, you are the engineer who gets it running again.
+As a Technical Support Engineer , you will solve real production problems on Kubernetes, in the cloud and inside Flink itself. You will work side by side with the engineers who build Flink, so every hard ticket is a chance to learn how a distributed system works under the hood.
+This role suits someone who enjoys a good puzzle, likes helping people and wants to grow into a stream processing expert.
+WHAT YOU WILL DO
+Be the first technical point of contact for customers using Ververica Unified Streaming Data Platform.
+Diagnose and fix issues across the stack, from Kubernetes and cloud infrastructure to Flink jobs, connectors and SQL.
+Reproduce tricky problems, dig through logs and metrics, and find the root cause.
+Escalate to Engineering and Product with clear, well-documented cases, and help shape fixes and product improvements.
+Explain solutions and best practices clearly to engineers and non-technical stakeholders alike.
+Keep accurate records of cases and resolutions in our ticketing system.
+Turn what you learn into knowledge base articles, tutorials and runbooks that help customers and teammates.
+Keep sharpening your skills in cloud technologies and stream processing, and share them with the team.
+WHAT YOU BRING
+2+ years in technical support or a similar hands-on role, ideally with cloud-based products.
+Solid knowledge of at least one major cloud platform (AWS, Azure or Google Cloud).
+Practical experience with containers and Kubernetes. Our product runs on Kubernetes, so this matters.
+Strong problem-solving and analytical skills. You enjoy finding out why something fails.
+Clear written and spoken English, and the patience to explain technical ideas to any audience.
+A customer-first mindset and the ability to stay calm when a customer is under pressure.
+Ability to work independently and as part of a distributed team.
+Curiosity and a drive to keep learning.
+A degree in Computer Science or a related field, or equivalent practical experience.
+NICE TO HAVE
+No one ticks every box. If you have some of these, tell us.
+Experience with stream processing, Apache Flink or Apache Kafka.
+Scripting or programming skills in Shell, Python, Java or SQL.
+Experience with Terraform or other infrastructure-as-code tools.
+Experience with cloud monitoring and observability tools.
+Cloud certifications such as AWS Certified Solutions Architect or Azure Administrator.
+LOCATION AND WORKING HOURS
+This is a remote role for someone based between UTC-4 and UTC-7. That covers US and Canadian Eastern, Central, Mountain and Pacific time, plus Latin American countries in the same range.
+Your core hours follow customers' business day in the Americas.
+You will work closely with our EMEA support team to give customers follow-the-sun coverage.
+WHAT WE OFFER
+Competitive compensation: salary, equity and performance bonus
+Remote-first culture with flexible hours
+Direct access to Flink core developers and a global open-source community
+A clear path to grow into senior support, Technical Account Manager or engineering roles
+Generous vacation, personal leave and wellness benefits
+At Ververica, we believe innovation starts with diverse perspectives. We welcome applicants of all backgrounds. If you are passionate about helping customers succeed with real-time data, we would love to hear from you.
+Apache Flink® is a trademark of the Apache Software Foundation.
+Apply Now
+Technical Account Manager (m/f/d) - Canada | Remote
+We are hiring a Technical Account Manager (TAM) to be the technical lead for our customers across North and South America. You will be their trusted advisor and hands-on partner, from first deployment through long-term production operations.
+You will work with platform owners, data engineers and architects to design, run and scale their stream processing on Ververica Unified Streaming Data Platform. Because you work in their time zone, you will be the person they reach first when something matters, during the sales process and after it.
+When you are not with customers, you will deepen your Flink expertise, feed what you learn back into our products, and help grow the Flink community.
+Own the technical relationship with a portfolio of enterprise customers in the Americas, from onboarding through renewal and expansion.
+Guide customers in designing and optimizing their stream processing architecture on Ververica Unified Streaming Data Platform.
+Advise on Flink job design, deployment models (on-premises Kubernetes, public cloud, managed service, Bring Your Own Cloud (BYOC)) and monitoring strategy.
+Troubleshoot and tune pipelines, connectors and clusters, and identify weak spots in customer architectures before they cause incidents.
+Lead incident triage and root cause analysis for your accounts, and build operational playbooks that help customers run Flink at scale.
+Support migrations from legacy or batch-based systems to real-time processing.
+Support pre-sales with technical discovery, proofs of concept and architecture reviews alongside the Sales team.
+Run regular check-ins and Quarterly Business Reviews (QBRs) with strategic customers to align on goals, feedback and roadmap priorities.
+Act as the customer's voice to Engineering and Product, and work with Sales and Marketing on account plans.
+Hand over cleanly to EMEA colleagues so customers get continuous coverage across time zones.
+Join the on-call support rotation.
+Represent Ververica in customer meetings and roadmap sessions and, if you like, at conferences and meetups.
+3+ years in a customer-facing technical role such as TAM, Solutions Engineer, Solutions Architect or Support Engineer.
+Hands-on Kubernetes experience. Our product runs on Kubernetes, so this is essential.
+Experience with at least one major public cloud (AWS, Azure or Google Cloud).
+Ability to read and reason about Java code, working knowledge of Java 11+ and a basic understanding of the JVM.
+Working knowledge of SQL, including querying streaming data.
+Experience with distributed data processing or streaming systems such as Apache Flink, Apache Kafka, Apache Spark or Redpanda.
+Proven ability to diagnose and resolve complex technical issues under time pressure.
+Ability to manage several accounts and projects at once, set priorities and meet deadlines.
+Clear written and spoken English. You are comfortable with both engineers and executives.
+Experience running Apache Flink in production, or contributions to open-source data infrastructure projects.
+Working knowledge of Python, useful for customers on PyFlink.
+Experience with observability tools such as Grafana, Prometheus, Datadog or Dynatrace.
+Familiarity with DevOps workflows and CI/CD tooling in cloud-native environments.
+Spanish or Portuguese, for customers in Latin America.
+Your core hours follow your customers' business day in the Americas.
+A few early mornings each week overlap with our EMEA team for handovers and escalations.
+Occasional travel to customer sites and events, within North and South America.
+Technical Support Engineer (m/f/d) - United States | Remote
+Technical Account Manager (m/f/d) - United States | Remote
+Senior Software Engineer (m/f/d) - Germany | Remote
+Published on: 2026-10-07 | Permanent
+Description
+We are looking for motivated Software Engineers to join our dynamic development teams. In this role, you will report to the Head of Engineering, collaborate within a flat organizational structure, and contribute to cutting-edge data-intensive solutions.
+At Ververica, you will engage with one of the largest and most vibrant open-source communities while building solutions that have a global impact. You will connect with users worldwide and play a key role in addressing long-standing technical challenges using innovative approaches.
+Your Role and Responsibilities
+As a Software Engineer at Ververica, you will:
+- Leverage your expertise to solve challenging data engineering and stream processing problems.
+- Work on both open-source and proprietary products.
+- Take end-to-end ownership of new features, improvements, and fixes:
+- Problem breakdown, design, implementation, testing, and documentation.
+- Collaborate across diverse teams of developers.
+- Take ownership of project components, influencing their technical direction.
+- Mentor junior developers, fostering their growth.
+- Actively contribute to the Apache Flink community with support from the company.
+- (Optional) Share your work through internal/external talks and publications.
+What We’re Looking For
+You’ll thrive in this role if you:
+- Have several years of industry or academic experience in software engineering.
+- Possess deep expertise in Java and JVM mechanics .
+- Are well-versed in distributed systems and database systems .
+- Have experience building data-intensive applications or solutions.
+- Demonstrate strong programming skills, with a solid grasp of data structures and algorith ms .
+- Exhibit excellent software engineering practices:
+• Writing clean, testable, and maintainable code.
+• Creating thorough documentation.
+• Breaking down complex tasks into manageable sub-problems.
+- Designing simple and robust APIs.
+- Are skilled in debugging and resolving issues in distributed systems .
+- Have experience mentoring other developers through collaboration.
+- Are passionate about open-source projects , engaging with users, and exploring new opportunities.
+Why Join Ververica?
+At Ververica, you’ll be part of a collaborative and innovative team at the forefront of real-time data processing technology. We offer:
+- A creative and inclusive work environment that values diversity.
+- Opportunities to shape the future of the stream processing space.
+- The chance to make a visible impact on cutting-edge technologies.
+- Engagement with one of the most active open-source communities.
+- Support for professional growth and open-source contributions.
+If you’re excited about working on streaming data , software development , and open-source technology , we want to hear from you! Your unique skills and experiences can help us drive innovation and achieve our goals.
+Senior Quality Assurance Engineer (m/f/d) - Greece | Remote
+Overview
+We are seeking a highly skilled Senior QA Engineer with a strong focus on end-to-end (E2E) testing, either using Java-based testing frameworks or Cypress. The ideal candidate will have extensive experience designing, developing, and executing E2E test automation solutions in fast-paced agile environments. You will play a key role in ensuring the quality and performance of mission-critical applications, working closely with developers, product managers, and other QA team members to deliver high-quality software products.
+In This Role You Will Have The Opportunity To
+Lead the design, development, and maintenance of E2E automated test scripts using Java-based frameworks (e.g. TestNG, JUnit) or Cypress.
+Design and develop infrastructure testing including load, performance and stress tests and integration in our release cycle.
+Prioritize data-driven risk reduction. Focus testing around known bottlenecks and critical paths: ingestion pipelines, query latency, network and storage performance.
+Develop test plans, test cases, and test strategies for automated and manual testing.
+Drive test automation efforts across the product lifecycle, ensuring robust test coverage and continuous integration (CI) pipeline integration.
+Collaborate closely with cross-functional teams to understand business and technical requirements, ensuring thorough testing of features and functionalities.
+Identify, record, document thoroughly, and track bugs or performance issues using tools like JIRA.
+Collaborate on evolving testing frameworks that you will adopt, as well as the test suites to ensure the prioritization of our organizations needs and requested features
+Optimize and maintain existing test automation frameworks, ensuring scalability and efficiency.
+Stay up-to-date with industry trends, emerging technologies, and best practices in QA and testing, and apply this knowledge to continuously improve testing processes.
+Requirements
+Basic Qualifications
+Strong experience in E2E test automation using Java (TestNG, JUnit) or Cypress.
+Proficiency in Java programming or Typescript (for Cypress).
+Hands-on experience with GitHub for Continuous Integration/Continuous Deployment (CI/CD).
+Experience with version control systems like Git.
+Solid understanding of web technologies (HTML, CSS, JavaScript) and RESTful APIs.Ability to create clear, comprehensive, and well-structured test plans and test cases.
+Knowledge of QA methodology and tools, with demonstrated experience in an Quality Assurance Engineering role
+Demonstrated ability to take initiative and work independently, solving problems without requiring external assistance or supervision.
+Preferred Qualifications
+Experience with cloud environments (AWS, Azure, etc.).
+Knowledge on distributed systems, microservices architectures, and cloud based applications.
+Knowledge of containerization (Docker) and orchestration tools (Kubernetes).
+Experience with testing frameworks like JUnit and TestNG (for Java) or Jest, Mocha and Cypress (for JavaScript testing).
+Experience with web and API testing
+Why Join Us?
+At Ververica, you will help shape the future of real-time data processing. Join us in a dynamic, collaborative environment where your leadership and expertise will drive our success and define the next era of innovation.
+Senior Quality Assurance Engineer (m/f/d) - Hungary | Remote
+Senior Quality Assurance Engineer (m/f/d) - Italy | Remote
+Senior Quality Assurance Engineer (m/f/d) - Poland | Remote
+Senior Quality Assurance Engineer (m/f/d) - Spain | Hybrid
+Senior Sales Engineer (m/f/d) - United States | Remote
+Published on: 2026-10-06 | Permanent
+We are seeking a Sales Engineer who combines strong technical acumen with business awareness. Ververica is the original creator of Apache Flink® and builds the unified streaming data platform that powers real-time decisioning for customers in finance, gaming, telco and manufacturing. As a Sales Engineer, you are the technical counterpart in every customer conversation: you connect customer problems to our platform capabilities, and you translate technical value into business impact. You will work closely with Sales, Product, Customer Success, Marketing and Engineering to help organizations understand, evaluate and adopt Ververica.
+Discover: run technical discovery to identify customer pain points, current-state architecture and desired outcomes.
+Design: craft tailored streaming architectures and solutions that map Ververica's platform to the customer's data landscape.
+Demonstrate: deliver product demos and lead proofs of concept that prove real, measurable value.
+Win: provide the technical validation that supports the deal and earns customer trust, from first call through to close.
+Own the technical narrative in RFPs, security and architecture reviews, and executive briefings.
+Act as the voice of the customer to Product and Engineering, feeding field insight back into the roadmap.
+Build reusable demo assets, reference architectures and enablement material that scale beyond a single deal.
+Partner with Customer Success to ensure a clean handover and a successful path to production.
+Represent Ververica in the Apache Flink community and at industry events, meetups and webinars.
+Stay current on the streaming, data and AI landscape, and apply that knowledge to sharpen how we position the platform.
+Qualifications
+Demonstrated experience in a Sales Engineering, Solutions Architecture, Solutions Engineering or comparable customer-facing technical role.
+Hands-on familiarity with data systems: streaming architectures, distributed data processing, data pipelines or analytics platforms.
+Working knowledge of at least one major cloud platform (AWS, Azure or GCP) and of deployment models including on-premises and BYOC.
+Ability to communicate clearly and credibly with both engineers and executives, adjusting depth to the audience.
+Proficiency in SQL, and comfort reading or writing code in at least one language such as Java, Scala, Python or SQL-based streaming dialects.
+Experience scoping and running proofs of concept against customer success criteria.
+Demonstrated ability to take initiative, seek clarity and make things happen with limited supervision.
+Willingness to travel to customers and events as needed.
+Hands-on experience with Apache Flink, Apache Kafka, or comparable stream processing and event streaming technologies.
+Experience selling or implementing open-source or open-core software, and comfort working with technical communities.
+Exposure to real-time AI and machine learning use cases, including feature pipelines and streaming inference.
+Domain experience in financial services, gaming, telecommunications or manufacturing.
+Experience with data warehouses and lakehouse architectures, and with the ecosystem around them.
+At Ververica, you will help shape the future of real-time data processing. Founded in 2014 by the original creators of Apache Flink and backed by Alibaba Group since 2019, we combine deep open-source roots with the pace of a scaling company. You will join a remote-first, global and tech-first team where your technical judgment directly shapes how customers adopt streaming, and where real-time meets the next wave of AI.

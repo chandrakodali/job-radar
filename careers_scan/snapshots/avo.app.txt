@@ -1,0 +1,36 @@
+Come join us!
+We welcome talented people from all backgrounds.
+Be part of our mission.
+Avo exists to inspire better data cultures so teams can build great user experiences.
+Data is the backbone of every decision, strategy, and innovation. But what happens when that data is unreliable? Expensive data quality issues aren’t just inconvenient—they’re silently eroding trust, delaying progress, and undermining your ability to deliver results. Most importantly, data quality is increasingly important as part of companies' AI strategy. Because, as highlighted by OpenAI engineer James Betker , "[generative AI] model behavior is not determined by architecture, hyperparameters, or optimizer choices. It’s determined by your dataset, nothing else."
+Avo is the leading data governance platform for event based analytics. Data and product teams at large enterprises like Delivery Hero, Fender, IKEA and Wolt use Avo to guarantee their event data quality upstream and get good data, fast. We are backed by world class investors we admire, including Y Combinator, Notable Capital and Heavybit, as well as data, product and engineering leaders at companies such as Google, Shopify and Optimizely.
+Our mission has brought together a group of incredibly talented, driven, kind and fun individuals that we are proud of to call our team.
+Why should you join us?
+Build a world-class product, and a new category
+Avo solves a problem that hasn't been solved before. We do this with high standards on the experience we create. One of our favorite customer quotes is: “I would quit my job and switch careers if I could no longer use Avo”, from Dir. Product @ Fender. That’s the feeling we want all our customers to have. You will have the opportunity to shape and change the way the industry thinks about and solves data problems.
+Thoughtful and methodical in how we work
+We care deeply about how we work. Many companies are remote, but we take that further and optimize for async-first. Our team and collaborators consist of experts from all over the world, so emphasize async-first to ensure optimal collaboration at all times. We use world-class collaboration methods that allow us to work efficiently and have proven to deliver great results. We have a comprehensive guide on How We Work .
+Unique team and culture, world-wide
+We look to the best of the best when we benchmark ourselves, how we work, our success outcomes, and our culture. You’d be working with people who are not only incredibly competent at what they do at a global scale, but also a pleasure to work with on a day-to-day basis.
+Early at a growing team
+Joining a growing team gives you the opportunity to learn fast and grow faster. We embrace an all hands on deck mentality and are proud of the shared sense of responsibility within the team. There’s no such thing as “stepping on toes” at Avo. We just help each other.
+Diverse and respectful culture
+Join an international team that emphasises mutual respect, passion for transparency and inclusion. Our CEO is female and so is half the team. Read about how we combat unconscious bias in our hiring process .
+What our team says
+World-class work
+"Our ways of working and culture are truly world class - and I feel it helps me grow. Things like mintos, the way we use Asana, the software we use, how everyone is curious in new tech and how best to leverage, tiers of communication, transparent culture, etc."
+"Avo being competitive in Silicon Valley, where competition is fierce, pushes us towards excellence in every sense of the word. Whether it's product development, content we release, or the way we work—it needs to be world class."
+An incredible team
+"It is the most intelligent, capable and motivated team I have ever worked with. I feel inspired by them as individuals and the team as a whole on a daily basis and has led me to level up in countless ways."
+"The team is incredibly smart, passionate, hardworking, and solutions-oriented. Such a joy getting to work with such talented people in every corner."
+"I love being part of a professional team filled with amazing individuals whose company I enjoy both at work and outside. It’s inspiring to collaborate with such dedicated people."
+Unique culture and growth opportunities
+"Working at a smaller company in a global and competitive industry pushes you to rapidly grow and evolve. I love it."
+"The culture of continuous learning and adapting to changes. A culture where growth and learning is not only celebrated, but encouraged and supported."
+"We always assume good intent and unified goals. Radical candor is only possible when everyone is working toward the same goals, and I've never doubted that with our team."
+Meaningful work and impact
+"We are solving an actual problem and a huge pain for so many humans out there. It feels good to solve actual problems, not try to keep people at screens as long as possible."
+"We have the privilege of working with world-renowned clients, which adds a sense of pride and accomplishment to our efforts."
+"Our product development process is very user-centric—we are very engaged with our users and responsive to feedback. It makes it super satisfying to ship features and get immediate positive feedback from users."
+Open Positions
+Currently there are no open positions at Avo.

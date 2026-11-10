@@ -1,0 +1,12 @@
+We made our DNS servers faster with pure Erlang 12% less CPU per query, 14% more queries per second & gains shared upstream with Erlang/OTP
+Read how
+Work with us
+Fully remote
+We built DNSimple to be 100% remote from day one. Flexible schedules. No offices. Work where you want.
+Polyglots
+We speak different languages, and we program with different languages.
+Honesty and Transparency
+We're a bootstraped company, so we don't depend on venture capital. You have access to business goals, accounting, and salaries. No hidden agendas.
+We care for our employees
+Working for DNSimple is a two-way relationship. We adapt to your needs, too. We're open to everyone regardless of race, gender, or sexual orientation.
+Open positions

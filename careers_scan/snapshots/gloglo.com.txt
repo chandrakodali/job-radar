@@ -1,0 +1,26 @@
+gloglo
+287 agents running
+Founding Machine Learning Engineer
+Engineering · San Francisco
+About GloGlo
+GloGlo designs drugs with AI that act inside the diseased tissue of autoimmune disease.
+Our platform targets a driver shared by type 1 diabetes, lupus, rheumatoid arthritis, multiple sclerosis and many other autoimmune diseases.
+The role
+GloGlo is an AI-native therapeutics company in San Francisco. Our research agents read the literature, analyze biological data and design drug candidates that we test in the lab.
+We’re looking for a Founding Machine Learning Engineer to build the systems behind that work. You’ll work directly with the founders and scientists, turning research questions into reliable tools and using experimental evidence to improve them. This is a hands-on role spanning models, data, evaluation, and software engineering.
+What you’ll own
+Build AI agents that search scientific literature and work with research tools.
+Develop data pipelines that make scientific sources traceable and analyses reproducible.
+Design evaluations for model accuracy, evidence quality, and useful scientific reasoning. Investigate failures and use the results to guide improvements.
+Train, adapt, and evaluate models where they improve a concrete research task.
+Work with scientists to connect computational predictions with experimental results and identify the next useful questions.
+Take systems from prototype to dependable daily use, with attention to testing, observability, latency, and cost.
+What we’re looking for
+Strong Python or TypeScript skills and experience building and shipping machine learning systems.
+Practical experience with modern ML frameworks, language models, retrieval, or agent tooling.
+A rigorous approach to evaluation, data quality, and debugging, including knowing when a result does not support a conclusion.
+Comfort owning open-ended problems and working closely with people from different scientific and engineering disciplines.
+Curiosity about biology and a commitment to our mission. Experience in scientific computing or biological data is especially useful.
+Apply
+Send your résumé or profile, links to work you’re proud of, and a short note about why you want to work on this problem.
+Apply by email

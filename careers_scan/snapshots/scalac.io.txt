@@ -1,0 +1,142 @@
+What we do
+Testimonials
+Junior Academy
+Product Development
+Distributed Systems
+Scala Development Outsourcing
+Outsourcing Java Development
+Rust Development
+Migrating from Lagom to Akka
+Training courses
+Project Development
+Consulting
+Frontend Development
+Web applications
+Backend Development Company
+About Us
+Case Studies
+Careers
+Solutions
+Resources
+Blog
+Contact
+Home
+open positions
+what we offer
+how we work
+Our Culture
+Open positions
+Senior Scala Developer
+Remote (EU only)
+Can't find the right fit?
+Join our talent pool! Submit your profile once and be first in line for future roles that fit your tech preferences, workflow, and growth goals.
+Senior Frontend Engineer (Talent Pool)
+B2B contract - remote from Europe
+Senior DevOps Engineer (Talent Pool)
+Senior Rust Engineer (Talent Pool)
+Big Data Engineer w/ Scala & Spark (Talent Pool)
+B2B contract - based in Poland
+Scala Developer (Talent Pool)
+Still haven't found your perfect position?
+Apply anyway
+Recruitment process
+01. Discovery talk
+02. Technical task*
+03. Technical talk
+04. Final talk with CEO
+During this meeting, we talk about the recruitment process, our work ethic and what makes Scalac such a unique place to work.
+It is also a chance for you to share information about your experience with us and ask questions about the company – feel free to ask about anything, we will gladly answer all your questions.
+We understand that you want to work in a place that meets your needs.
+If the first stage will meet the needs of both sides, you will be invited to the technical recruitment part of the process.
+On the day that you would choose, you will receive from us a task to solve, prepared by our team. You will have 3–7 days to complete it (time depends on the position for which you applied).
+* Typically, our process includes just a tech talk without a technical task. However, this may vary depending on the project. The recruiter will provide details about the specific steps during the discovery talk.
+The next stage is a technical conversation with one of our developers.
+It usually takes about an hour. We will ask about technical and practical issues related to daily tasks you would be dealing with in a position that you are applying for.
+After the technical conversation, if both parties are still open to cooperation, there is only one more stage that awaits you – a conversation with our CEO.
+You will have a relaxed talk just to get to know each other and check if there is a good culture fit from both sides.
+Opportunities
+We will support you as a speaker by promoting you over all of our marketing channels and by covering your costs of traveling.
+Show off your skills by taking part in the recruitment process from the other side by doing the code reviews or technical talks.
+Become a mentor for the next Scalac generation, and support your protegé during their first few months with Scala
+Become a trainer ! Share your knowledge and organize your workshop with us.
+Is writing your passion?
+Show your experience by publishing blog posts on scalac.io/blog
+Sharing knowledge
+Our people are professionalists in their technologies and they are ready to share knowlegde with you everyday just by talking or on special channels.
+Internal workshops prepared specially for those who want to get more info about:
+Akka, Kafka, Spark
+Internal speeches are something that you can use to share knowledge or learn too. We call it Pizza Days and Popcorn Days!
+Internal projects and opensource
+You’re more than welcome to join and build one of our internal projects:
+FUBU – allows us to create surveys on our internal communication channels, specially used to checking employees happiness from time to time.
+Opensourse contribution:
+Panopticon – Terminal UI observability and diagnostic tool for Scala applications. Written in Rust. https://github.com/ScalaConsultants/panopticon-tui
+ZIO-Akka-Quickstart – A Giter8 template for a basic Scala application build using ZIO, Akka HTTP and Slick. https://github.com/ScalaConsultants/zio-akka-quickstart.g8
+ZIO ecosystem contribution
+Mentor and development
+When you join Scalac you get one person who is your mentor and supports you during the first 6 months of cooperation.
+During this time, you will have also a talks with Talent Team about your first impressions of working at Scalac. This is the time when you share your opinion about how you feel working with us, and get the information from your team about your work. We also plan your development path together and think how we can make our cooperation better.
+Perks
+In the office you will find
+Free coffee - grab your morning coffee and go!
+Fully furnished kitchen - forgot your lunch from home? No problem.
+Free parking and garage
+- keep your vehicles safe.
+Chillout space - PlayStation, table foosball
+No dress code - no more suits
+Garden - work, eat lunch or take a rest in a huge Scalac garden
+Other:
+Remote work - work with us even from the other side of the world
+Development budget - we provide 4000 PLN/net per person
+Startup atmosphere - treat your boss as a friend
+English lessons - 1000 PLN/net per year per person to use on individual needs
+Necessary work tools - We provide every tool which is essential to work
+Gagdets - fashionable t-shirts, and hoodies
+Multisport - we support your health
+How we work
+The balance between independence while taking care of your task and cooperating with team is the proof of open minded and responsible personality.
+Giving ready solution for client’s product based on the previous listening and collecting expectations. This the biggest consulting value.
+Working remotely is giving us a flexibility in everyday routines. We trust our people and we keep in mind that every single person has another needs.
+Remote work is also our way to create a possibility to work with proffesionalists from the whole world without a pressure of relocation!
+Backend
+Frontend
+DevOps
+Data Engineer
+We works on the world’s most advanced blockchain projects. We scale systems from monolith to world-class solutions based on distributed computing, reactive functional programming and parallel computing.
+Scala, Scala 3, Akka, Typelevel, ZIO
+Grab some tips about Scala
+We make the data easily accessible to team and customers. We build custom dashboards and visual libraries: parsing complex data, responsive, UI / UX fine tuned.
+Grab some tips about Frontend
+We create and design test cases to keep the quality of the project at the highest level. We build systems, exploratory and integration tests for UI/UX, mobile apps and security checking.
+Behaviour-Driven Development, Postman, Swagger, Request, Locust.io, jMeter, Test Cafe, Cypress.io, PyTest, Selenium, Android Studio, Xcode, JS, Python, Travis Ci, Cirlce Ci, Jenkins, Gatling, Rest assured, spectron
+Grab some tips about DevOps
+We’re ETL experts delivering the runway to Machine Learning . We keep ours clients data up and working: data cleansing, streams / pipelines, scalable warehouses, data lakes.
+scala, python, kafka, spark, my sql, google cloud platform, docker, AWS, microsoft azure, hadooop, Apache Cassandra, Apache Druid
+Grab some tips about Data Enginner
+We solve technical problems and build the security of the project.We collaborate across all aspects of the software delivery lifecycle, building transparent workflows.We create and improve delivery pipelines for various programming environments
+AWS, docker, Kubernetes, Argo CD, Concourse, Packer, Terraform, Ansible, GitHub
+Grab some tips about QA
+Knowledge sharing - workshops, talks, mentoring.
+Gadgets - fashionable t-shirts, and hoodies
+Team Vitamins
+Work hard
+We prefer long-term solutions not just cheap shortcuts.
+We want to learn and gain experience. We want you to use every opportunity to meet new people, explore new places and pursue your interests. We don’t take work home but we bring home to work.
+Have fun
+We keep our work-life balance at a level that will make you happy. We work smart and look for the best solutions, not the easiers. See our Popestocks .
+Do the right thing
+We always try our best!
+We work with a passion until we solve problems! We build Scalac using our skills and with our full engagement. For us, the most important thing is to bring quality and deliver the best possible products to our clients.
+Why Scalac?
+We keep growing all the time
+Learning is something that make us stronger and is the best way to, check out What we offer to get more info about our way to sharing and getting knowledge.
+Trust and remote mode
+Flexibility and trust is something that we value the most.
+We are focused on effects not on hours spent with the computer. We communicate – not just monitor your time. We truly believe that the place of work doesn’t matter as long as we are in touch.
+Way to be green
+Envinmonment is something that Scalac people want to care about. Nobody is perfect, but we know that every step, even a little one, bring us closer to this point.
+That why: We resing from plastic tableware during events
+Our gadgets came from local procudents
+We think about usibility of every gadget
+Way to be better
+Small things matter the most to us, so we take part in charity drives, we develop our social responsibilities and we care about the environment.

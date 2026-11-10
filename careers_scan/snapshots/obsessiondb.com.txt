@@ -1,0 +1,109 @@
+ObsessionDB
+Docs Integrations Pricing Blog Cost Audit
+Login Try for free →
+Free ClickHouse® cost audit, plus $3K in credits if you convert. Get the audit →
+Backed by Y Combinator
+The Fastest & Most Scalable Data Warehouse for AI
+The ClickHouse® engine with compute-storage separation. BYOC or fully managed on AWS, Google Cloud and Azure, in every public region.
+Try for free →
+Trusted in production by companies with ambitious data needs .
+Read success story →
+Binary Builders
+On ObsessionDB today
+ClickHouse® is fast, until your bill scales faster than your queries.
+On other managed ClickHouse® solutions, costs balloon as data grows.
+Same bad trade: pay much more, just to keep query times where they were a year ago.
+Better at 100 TB than most providers are at 1 TB.
+Methodology & raw data ↗
+Measured on real customer workloads. As data volume grows along a log scale, ObsessionDB's p99 stays flat while $/query falls, competitors degrade on both.
+BYOC or fully managed. Same setup either way.
+Run it in your own AWS or Google Cloud account or on your own hardware, or let us host it. Our team runs it in every case.
+Read the launch post ↗
+AWS
+Google Cloud
+Azure
+Your hardware
+Managed or BYOC, you choose. The setup below is identical on every tab
+Your data stays in your account.
+In BYOC, your data never leaves your cloud or your hardware.
+We run upgrades, scaling and on-call.
+Managed or BYOC, our team operates it. Your engineers never get paged.
+Your cloud bills you, at your rates.
+Keep your infra discounts. We charge one annual fee.
+A cache mesh that keeps your hot data hot.
+queries never hit S3 · writes persist asynchronously
+Mesh is the query layer.
+Reads loop between client and nodes. They never leave the cache.
+S3 is durability only.
+Your data is safe in object storage, but it is not in the query path.
+No round-trip to object storage.
+Unlike setups where every query dips down to S3 and back up again.
+An engine agents can hammer.
+Agentic workloads don't query like humans, they probe relentlessly, in parallel, across everything. ObsessionDB is built for exactly that.
+FIG_ 01
+Agents get their own compute
+Compute–compute separation means an agent runs on isolated, read-only compute over the same data, so it can't slow your production traffic.
+FIG_ 02
+Always-hot, every query
+Agents loop through hundreds of probes. Each one hits a ~100% cache, so the 500th query stays as fast as the first.
+FIG_ 03
+Every agent action is on the record
+Autonomous should not mean unaccountable. Every query an agent runs is logged in full, so you can replay exactly what it read, down to the column, with no black box reaching into production.
+FIG_ 04
+No per-query tax
+An agent asks 100× more questions to find the right one. You pay for compute hours, not per query. Curiosity isn't metered.
+FIG_ 05
+Open agent skills
+Agents need precise tools, not a SQL box. CHKit gives them structured commands to describe, validate, and run, the skills an agent reaches for a hundred times a loop.
+FIG_ 06
+Agents operate the database, not just query it
+Agents do not only read, they ship. CHKit gives them typed commands to describe, validate, test, and deploy schema and pipelines as code: infrastructure an agent can drive, in CI, with a diff you can review.
+FIG_ 07
+EARLY ACCESS
+A sandbox per agent
+Give each agent run its own branch of production data: isolated compute over the same S3. Let it experiment for real, then throw the branch away.
+Point Claude, Cursor, Codex, and any MCP client straight at your databases over MCP.
+ObsessionDB connects over MCP to Claude, Cursor, Codex, VS Code, GitHub Copilot, Zed , and any other MCP client.
+No performance lost at 500 QPS , sub- 400 ms p99 on 18 TB , and 20–40% lower cost than other managed solutions.
+Enterprise-ready from day one.
+The questions a serious team asks before it moves a production database: how hard is getting in, what happens when something breaks, and who answers at 3am. Here are the receipts.
+A migration team, not a migration guide
+Dedicated migration engineers move you onto ObsessionDB with proven tooling and a real project plan. We benchmark your workload, shadow production traffic to prove it runs in parallel, and cut over only when the numbers hold.
+Enterprise SLAs and uptime commitments
+A real uptime commitment backed by service credits, not a status page and good intentions. SLAs are written into the contract, with monthly reports on uptime and query volume.
+Built to survive failure
+Your data lives in S3, so a failed compute node is replaced in seconds with nothing lost. Point-in-time recovery rolls you back to any moment, so an accidental drop is a quick cleanup, not an incident.
+Single sign-on and access control
+Log in through your own identity provider with SSO. Scope access with roles down to the table and column, and every query is logged, so you always know exactly who ran what.
+Private networking and dedicated compute
+Connect over private networking, never the public internet. Your workload runs on isolated, dedicated compute with no noisy neighbors, and data is encrypted in transit and at rest.
+24/7 on-call
+When production breaks at 3am, a human who runs ClickHouse® at scale answers. Round-the-clock on-call, a shared Slack channel, and monthly performance reviews.
+See what you'd pay.
+Confident enough to let you compute your bill before you talk to us. Compare your current managed ClickHouse® spend, one-to-one.
+Compressed data 10 TB
+100 GB 200 TB
+Sized for you: 3 × 64 GB nodes Customize your configuration →
+Other managed ClickHouse®
+$7,162 /mo
+ObsessionDB (estimate)
+$4,090 /mo
+43 % lower than your current
+managed bill
+Free developer tier
+Spin up a dev instance to kick the tires.
+Up to 4 vCPU
+Up to 8 GB RAM
+Start for free → No credit card required
+ECONOMICS → NEW SURFACE
+ObsessionDB’s economics opened up product ideas we’d written off as too expensive or too slow. We stopped asking “can we afford this query?” and started asking “what should we build next?”
+Co-founder , Numia
+Case study ↗
+CRITICALITY
+We screen 90+ chains in real time with sub-400ms p99. Our risk product literally couldn’t exist on our previous stack.
+Engineering , Range
+COST BEATS INCUMBENT
+We onboard new customers onto ObsessionDB at 40% lower cost than our previous ClickHouse® setup, with better p99. The reseller math just works.
+Platform , Binary Builders
+Get product updates in your inbox.
+New features, releases, and benchmarks, a few times a month. No noise, unsubscribe anytime.

@@ -1,0 +1,41 @@
+Careers
+We're building the prime brokerage for prediction markets: a small team in San Francisco working on execution, routing, and institutional infrastructure for the fastest-growing asset class. Apply directly from each listing below.
+Engineering
+San Francisco
+Full-time
+Software Engineer
+Own complete systems end-to-end and build the execution layer for prediction markets, working directly with the founders. You'll ship a production feature for active traders in your first week.
+Total comp: $140K–$230K + 0.3%–0.8% equity
+Visa: Sponsorship available
+Preferred qualifications
+Fluency in Python, Go, or Rust, with full-stack capability
+Strong system design for low-latency, scalable applications
+AI-native by default, using automation to multiply your output
+Fintech or trading experience is a plus
+Infrastructure experience is a plus
+Apply by email
+Go-to-Market
+GTM (Institutional)
+Join as our first institutional GTM lead and own the segment end to end: hedge funds, market makers, proprietary trading firms, and prime brokers, from first outreach through onboarding and retention.
+Total comp: $180K–$270K OTE + 0.1%–0.3% equity
+1–2 years in sales, business development, or client-facing roles in financial services
+Proven ability to generate pipeline through cold outreach and networking
+Experience owning the full customer lifecycle, from discovery through retention
+Bonus: trading or prediction markets background, relationships with institutional traders, CRM and pipeline expertise
+Apply on LinkedIn
+GTM (Sports)
+Join as our first sports GTM lead and build the vertical from scratch: high-volume sports traders, funds, and syndicates, from customer acquisition through retention and scaled operations.
+1–2 years in sports betting, sports prediction, or sports data
+Ability to generate pipeline through the channels where sports traders operate
+End-to-end account management, from discovery and onboarding through active trading
+Builder mindset: scalable playbooks, CRM systems, and commercial acumen on pricing and execution
+Customer Success Manager
+Join as our first customer success hire and own the customer journey after the sale: onboarding, activation, and day-to-day support for professional traders and trading firms, while building the playbooks that scale the function.
+Total comp: $130K–$180K OTE + 0.1%–0.3% equity
+1–3 years in customer success, account management, support, or other client-facing roles
+Experience in financial services, fintech, trading technology, or enterprise software
+Proactive at spotting and resolving customer friction, with strong communication and follow-through
+Comfortable juggling multiple customers and priorities while building processes and systems
+Bonus: trading, digital assets, or prediction markets exposure, technical product support, CRM familiarity
+No open roles right now
+We're between hiring rounds. If you think you'd be a great fit, email careers@rivermarkets.com . We read everything.

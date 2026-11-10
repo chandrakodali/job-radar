@@ -1,0 +1,98 @@
+Startup program
+Apply now
+M a k e s e v e r y c o n v e r s a t i o n u n d e r s t a n d a b l e
+M a k e s e v e r y c o n v e r s a t i o n
+u n d e r s t a n d a b l e
+Diarization, speaker ID, speaker separation, and STT orchestration in one framework, ready today. Open source, on API, or your own infrastructure.
+Try for free
+Contact Sales
+Up to 52% lower transcription error
+1B+ open-source downloads
+375k+ developers
+00:04-00:08
+Happy
+00:13-00:15
+Confident
+00:25-00:31
+Enthusiasm
+Speaker 1
+Mark
+00:07-00:12
+Worried
+00:18-00:24
+Stress
+00:17-00:18
+00:33-00:34
+Relief
+Speaker 2
+Stephany
+AI Video
+AI Transcription
+Voice AI
+AI Meeting
+Speech AI
+AI Editing
+Call Analytics
+Medical scribe
+Voice QA
+Dubbing
+Speaker and conversation
+insights in one API
+Pyannote is a framework, not a single model. Each capability holds the same accuracy bar, with one interface.
+Explore the framework
+Diarization
+Who spoke, and when. The most accurate diarization in the field, not bolted onto a transcript. Up to 52% lower error than leading alternatives, in 300ms. Cloud, on-prem, or edge.
+Speaker identification
+Know who, not just what. Persistent voiceprints match a voice to a known identity, across files and sessions.
+Speaker separation
+Untangle every overlap. Every speaker is isolated, so downstream models get signal, not noise.
+Untangle every overlap. Clean, individual audio streams, so downstream models get signal, not noise.
+STT orchestration
+Bring your own STT. One call reconciles diarization and transcription. No manual alignment.
+Start in open source. Scale on the API.
+pyannote.audio made Pyannote the market standard: free, open, 1B+ downloads. Ready for production? Precision-3 API is the same interface, with higher accuracy. Need your own infrastructure? Same models, deployed there.
+Explore the repo
+Deployment options
+The layer beneath every conversation.
+Pyannote pairs with any STT, TTS, or audio LLM. Everything downstream works, then it gets out of the way.
+How it fits your pipeline
+Chosen by the teams building
+Voice AI at scale.
+Read the customer stories
+Risk of incorrect evaluations would make the value of our product go to zero if misassigned. If speaker attribution is wrong, the value of our evaluations goes to zero.
+Speaker diarization is critical to the Notta experience because so many downstream features depend on knowing who said what.
+There might be a hundred-millisecond overlap where I'm ending a sentence and you start speaking. In a fine-tuning dataset, even that small a chunk would create a problem.
+We’re focused on really formal meetings: town halls, government sessions. It’s important in this kind of meeting minutes that you can understand who said what.
+Dubbing only works if every line lands on the right voice. Pyannote keeps speaker attribution reliable across languages, at production volume.
+We aim to give machines the ability to understand every human conversation.
+Real conversations carry meaning words alone can't capture. Pyannote built the missing layer: it resolves who's speaking, when, and how. Then it open-sourced that layer and set the industry standard.
+Open source since 2016
+GDPR-native
+On-prem available
+No lock-in
+Book a demo
+Product
+Speaker platform
+Speaker diarization
+Streaming
+Enterprise
+Solutions
+Pricing
+Voir plus
+Developers
+Documentation
+Changelog
+Playground
+Support
+Resources
+About us
+Customer Story
+Benchmarks
+Demo
+Data & Security
+Blog
+Careers
+52m
+24m
+Trust Center
+Terms & services

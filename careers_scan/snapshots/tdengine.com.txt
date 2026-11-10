@@ -1,0 +1,28 @@
+Join the TDengine Reseller Program
+Fill out the form to schedule a meeting with our alliances team.
+Can’t see the form? Email us at support@tdengine.com .
+TDengine® is an AI-native industrial data platform built for a wide range of industrial use cases. It brings together TDengine IDMP, TDengine TSDB, TDgpt, TDmodel, and other components in one platform, covering data ingestion, storage, querying, real-time analytics, ontology modeling, visualization, industrial AI agents, root cause analysis, AI insights, and application development.
+Products
+TDengine IDMP
+TDengine TSDB
+Resources
+TDengine TSDB Docs
+TDengine IDMP Docs
+Blog
+Webinars
+Company
+About
+Downloads
+Newsroom
+Security
+Legal
+Resellers
+Partners
+Contact Us
+Social
+Reddit
+GitHub
+Discord
+LinkedIn
+Twitter
+YouTube

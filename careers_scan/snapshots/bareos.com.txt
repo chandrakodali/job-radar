@@ -1,0 +1,77 @@
+Careers at Bareos
+Join our team and contribute to an innovative open-source solution
+Open positions
+Frontend Developer
+Software Developer – C++/Linux
+Who is Bareos?
+Bareos (Backup Archiving Recovery Open Sourced) is the leading open source backup solution trusted by organizations of all sizes. With multi-platform support, Bareos provides secure, reliable and scalable backup for your IT infrastructure.
+What You Can Expect ?
+Owner-managed company
+Relaxed and calm working environment
+Mostly remote work (usually 1 office day per week in Cologne)
+Small team with short decision-making paths
+Open, social company culture and a good working atmosphere
+Flexible working hours with self-managed scheduling
+Permanent employment contract, full-time or part-time
+Deutschlandticket available as a job ticket
+Code reviews that actually happen
+Free choice of operating system and development environment
+100% open source: source code at https://github.com/bareos/bareos/
+Open development process that is visible to everyone
+At Bareos, you can expect a relaxed working atmosphere in our offices located in Cologne, with the option to work from home. You’ll join a small team with short decision-making processes and enjoy a good working atmosphere with an open and social corporate culture. We offer code reviews that truly happen, free choice of your operating system and development environment, flexible working hours with free time management and permanent positions, with part-time options available.
+We welcome applications from all qualified candidates, regardless of gender, nationality, ethnicity, background, disability, age or identity.
+Interested?
+Please send your application with meaningful supporting documents and your salary expectations to the Bareos team. We’d love to hear from you!
+Apply Now!
+Technical Support Specialist
+Job Responsibilities
+Provide support to IT staff via ticket system, email, chat, phone, and remote access
+Analyze problems, collect information, and reproduce issues in a lab environment
+Collaborate with the development team to find workarounds and solutions
+Customize configuration files and create scripts to address customer needs
+Transfer solutions and insights into Bareos code and documentation
+Update FAQs and product documentation to reflect recurring issues
+Manage and prioritize multiple tickets effectively
+Qualifications
+Relevant studies, apprenticeship, or comparable professional experience
+Experience with Bareos or Bacula
+Strong IT background knowledge
+Affinity for Linux and open-source technologies
+Enjoy solving complex problems
+Strong organizational skills to manage and prioritize tasks
+Proficiency in German and English (written and spoken)
+Frontend Web Developer
+Design and conceptualize the web user interface for our backup solution
+Develop component-based single-page applications (SPA)
+Collaborate closely with the rest of the Bareos team to extend the APIs (gRPC) of the core product
+Qualifications and Skills
+Relevant education, training, or equivalent professional experience
+Strong interest in free and open-source software
+Proven experience in front-end development
+Proficiency in front-end technologies such as TypeScript, JavaScript Runtime and Node.js
+Familiarity with frameworks like Vue.js, Angular or React
+Experience with package managers (e.g., npm, pnpm)
+Knowledge of unit and system testing practices
+Familiarity with modern component libraries, such as Quasar.dev
+Experience with CSS frameworks
+Proficiency in version control systems like Git and platforms such as GitHub
+Understanding of CI/CD pipelines and containerization tools like Docker
+Solid knowledge of Linux systems
+Proficient in English (written and spoken)
+Manage Consent
+Functional
+Always active
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+Vorlieben
+Die technische Speicherung oder der Zugriff ist für den rechtmäßigen Zweck der Speicherung von Präferenzen erforderlich, die nicht vom Abonnenten oder Benutzer angefordert wurden.
+Statistics
+Die technische Speicherung oder der Zugriff, der ausschließlich zu statistischen Zwecken erfolgt. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+Marketing
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Manage options
+Manage services
+Manage {vendor_count} vendors
+Read more about these purposes
+View preferences
+{title}
+Scroll to Top

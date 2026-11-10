@@ -1,0 +1,64 @@
+Backed by Y Combinator
+Natural-sounding voice agents, built for reliability
+Automate high-volume inbound and outbound calls with
+multilingual agents that execute workflows and escalate
+safely to humans when needed.
+Trusted for over 1M calls by
+/why_samora
+Minimal engineering.
+No prompt tuning.
+No call center ops.
+Describe your call flows and goals in plain
+language.
+Samora handles agent design, testing, integrations,
+deployment, monitoring, and escalation.
+Loved by teams
+We were hitting a wall with manual dialing.
+Samora allowed us to speak to thousands of stakeholders
+instantly, helping us learn from the process. It also
+helped reactivate users back to the platform immediately.
+VP at Signify (Philips)
+We have beneficiaries with limited connectivity and
+literacy.
+Samora helped us reach them through simple phone calls,
+talking in their languages, and helping them discover
+meaningful careers and upskilling opportunities.
+Innovation Lead at UNICEF
+Call handling
+and control
+Clear boundaries
+Predictable, policy-driven behavior with strict intent
+and action controls.
+Natural voice
+Low-latency, natural conversations across 20+
+languages and dialects, with interruption handling and
+code switching.
+Human handoff
+Seamless escalation to your human agents or
+Samora-managed operators when confidence drops or edge
+cases appear.
+CRM updates
+Automatically write notes, outcomes, and custom
+fields.
+Omnichannel support
+Coordinate voice, WhatsApp, SMS, and email.
+Workflow
+execution
+System actions
+Integrate with your APIs and trigger actions across
+your systems before, during, and after calls.
+Enterprise-ready
+Monitoring
+Live visibility into calls, transcripts, and KPIs.
+Reliability
+99.99% uptime
+Data protection
+Encrypted data, strict access controls, no model
+training on your data.
+Go live in one week.
+Define
+Align on call flows and goals.
+Build
+We design, test, and harden agents across edge cases.
+Launch
+Deploy connected to your systems and workflows.

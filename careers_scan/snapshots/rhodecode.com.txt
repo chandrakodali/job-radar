@@ -1,0 +1,56 @@
+Careers · 5 open roles
+Build the tool that other engineers live inside.
+Small team, long-lived product, customers who keep software running for decades. Berlin and San Francisco offices, remote-first in practice.
+01 Open roles
+01.1
+Senior Python Engineer — VCS core Engineering
+Work on the Mercurial and Subversion backends that make one permission model possible across three systems.
+Berlin or remote (CET ±3)
+01.2
+Support Engineer — Enterprise Support
+Answer tickets from banks, defence contractors and research labs. You will diagnose real deployments, not read from a script.
+Berlin
+01.3
+Site Reliability Engineer Infrastructure
+Operate Enterprise Cloud across three regions, and make RCstack upgrades boring for everyone else.
+Remote (EU)
+01.4
+Product Designer Product
+Own the interface developers stare at all day. Density, keyboard flow and legibility over decoration.
+Berlin or remote
+01.5
+Solutions Engineer Commercial
+Run technical evaluations with prospective customers, mostly in regulated industries with hard constraints.
+San Francisco
+02 How we work
+Remote-first
+Berlin and San Francisco offices exist; nobody is required to sit in them.
+Open source time
+Paid time to work on the AGPLv3 core and upstream dependencies.
+Hardware budget
+Your choice of machine, refreshed every three years.
+Long horizons
+Our customers plan in decades. We do not ship features to hit a quarter.
+Jump to
+9 results
+No match. Try “permissions”, “pricing”, “SAML”, “audit”.
+↑↓ navigate ↵ open esc close ? shortcuts
+Keyboard shortcuts
+⌘K / ctrl K Open the jump-to palette from anywhere
+/ Same palette, without the modifier
+↑ ↓ ↵ Move through results and open the highlighted one
+? This shortcut list
+g then h Home
+g then p Platform
+g then a Agentic AI
+g then c Compare
+g then i Industries
+g then d Download
+g then s Security
+g then r Resources
+g then b Blog
+esc Close any overlay
+The product ships its own shortcut set — this page borrows the same conventions on purpose.
+We use Google Analytics 4 to understand how visitors find and use this site.
+Choose Accept to opt-in, or Reject to keep your visit out of our analytics.
+Learn more .

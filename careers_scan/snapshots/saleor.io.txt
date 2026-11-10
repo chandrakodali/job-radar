@@ -1,0 +1,143 @@
+Saleor Commerce Cloud
+API Calls Hourly
+837,344
+24h peak
+838,087
+Handling 1B+ requests a month
+Transacting 400k orders a month
+Open Source
+23.5k
+Docs
+Start Start w/ Saleor
+GraphQL API
+Composable
+Extensible
+(De)composable
+NEW
+Paper Storefront
+Latest Releases
+7 days ago 3.23.47
+7 days ago 3.22.77
+2 months ago 3.21.71
+Your store's vitals → Your store's vitals, now in Saleor →
+Cloud Activity Hourly
+API Calls
+Latest releases
+3.23.47 7 days ago
+3.22.77 7 days ago
+3.21.71 2 months ago
+Vision Three ways to build commerce →
+You sell. We make your ecommerce platform work.
+Ship novel ecommerce apps ridiculously fast.
+This is how
+We migrate you off your current commerce software, build your storefront and customization with you, run it for you, and keep reshaping it as things change. It's all included in one subscription.
+Your business rules, your UX, your integrations, your agents, all wired in.
+Commerce, made to measure for growing and high-volume merchants. Retail , B2B or Marketplace .
+Adopted by modern commerce crews worldwide
+Trusted by
+Case study
+Case study →
+Take full control of your experiences
+Built for business, loved by merchants
+01 Control everything in one place
+02 Build fast, integrate freely
+03 Grow without replatforming
+04 Own your stack, own your future
+01 Powerful Dashboard
+Not just APIs. Together with powerful API comes a fast, extensible administration dashboard built for humans.
+Batteries included. PIM, OMS, Translations, …
+Extensible. Both API and Dashboard UI.
+Efficient. Even with huge datasets.
+02 Unrivalled Extensibility
+Extend Saleor with any stack:
+Automation. Automate you workflows end-to-end. Enable powerful CI/CD, codify and version everything via commits and Configurator CLI tool.
+Modelling. Composable commerce requires precise, structured data. Define products and models dynamically with types, attributes, and metadata .
+Delegation. Extend or override default flows with synchronous callbacks and granular permissions. Integrate seamlessly via OIDC with your existing identity provider.
+Beta
+Observability. Trace every request with precision. Detect every checkout slowdown, prove a vendor bottleneck in seconds, and ship fixes fast with OpenTelemetry .
+03 Scale as you go
+From greenfield to global. Start small, scale to cross-channel operations without switching platforms. Saleor is the last ecommerce platform that you will ever need.
+Omnichannel. Process orders from every channel—web, mobile, retail, agentic, and beyond.
+Headless/API-native. Content and context decoupled. Build commerce into any experience.
+Open source. Full control and freedom to scale. No black boxes, no lock-in.
+04 Say goodbye to vendor lock-in
+Own your stack. Control your entire solution and protect the core of your business in a shifting commerce landscape. Say goodbye to the vendor lock-in.
+Moving from a monolithic platform to composable commerce was a bold challenge, but one that was necessary to truly transform our business.
+Rajesh Shanmugasundaram , CTO
+Not a black box. Saleor is available as an open source code—transparent by design.
+Your data stays yours. We don’t own it, we don’t sell it, and we don’t market with it.
+Open standards only. Built on open standards, not proprietary tech and throwaway knowledge.
+No hostages. Never get trapped by a SaaS platform again.
+🏴‍☠️ Great for any complex commerce
+But let's be honest — not for everyone
+Saleor is for commerce teams that want control and flexibility. More freedom, more power… and yes, a bit more responsibility and commitment. We might not be for you if:
+Love tight coupling
+Your engineers may not want to work in the programming language they're already proficient with, right? They may not either care about the industry standards. And maybe they love all those obscure DSLs to be part of their job.
+Love proprietary standards
+Who doesn’t!? Well, we don’t. Saleor is for those who prefer loose coupling, flexible service oriented architectures, high degree of independence for individual teams and developers.
+Prefer to go alone
+You can. We're open source. But if you want a battle-tested crew that's scaled through Black Fridays and 8-figure peaks, we're on deck. All hands, no hype.
+Manifesto
+Own the future, or let platforms own you.
+You are The Platform
+Read the Merchants Autonomy manifesto →
+Saleor Cloud
+You sell.
+We do your tech.
+Our engineers join your team. The code and the data stay yours. Ship faster and scale smarter working with Saleor engineers. Spent time building advantage, not babysitting infrastructure.
+Built for scale. Enterprise-grade infrastructure with guaranteed uptime. SOC 2 , GDPR, PCI-DSS compliant.
+Built for control. Total engineering and creative control. Full stack ownership. Transparent terms, no lock-in.
+CX support. Tailored onboarding by our engineers. Your team ships faster. Your business stays focus on the core.
+Core team. Direct access to the people who built Saleor. When you need expertise, you get it straight from the source.
+Beyond hosting →
+Create: Projects, Sandboxes, Snapshots
+Scale: Big days should buzz, not burn
+HANDLING 1B+ REQUESTS MONTHLY
+ACCEPTING 400k ORDERS MONTHLY
+ACCEPTING millions OF DOLLARS (GMV) MONTHLY
+We’re enjoying the modularity and flexibility we can harness from Saleor to deliver on our promise of the best, freshest, handmade cosmetics.
+Adam Goswell , Head of Digital →
+880+ stores
+globally available for click & collect
+£690M
+turnover and growing across digital and in-store
+50 markets selling in different currencies and languages
+We’ve built and customized over 15 services tailored specifically to our needs, enabling online-to-offline and offline-to-online capabilities that seamlessly bridge our digital and in-store experiences.
+Rajesh Shanmugasundaram , CTO →
+250+ stores blending digital experience with unique character
+20+ systems integrated creating a scalable system ready for innovations
+All global markets including the non-ecommerce ones
+Join our
+open source
+community
+With over 21.8k stars on GitHub , Saleor is the leading open source MACH ecommerce platform.
+Commerce as Code
+Your commerce end-to-end
+codified, versioned, and monitored.
+Manage, evolve, and recreate your entire platform in a fully automated way.
+Faster deployments with automated CI/CD pipelines.
+Modern DX for strong developer productivity.
+Use AI to accelerate your development team across the entire workflow.
+Configurator. Automate configuration and all models in Saleor. Sync between Saleor API and repository with our CLI tool.
+Delegation. Extend Saleor’s default flows through external services with synchronous webhooks.
+Dynamic Models. Adapt data structures on the fly for new products or markets. Model any relationship in your system.
+Observability
+Get insight into your entire distributed system built with Saleor. Use OpenTelemetry standard to debug and react before your users notice.
+Read more →
+Future-proof your commerce with composable API
+Integrate anything, adapt to everything. Extend merchant experience on top of Saleor administrative Dashboard. Keep everything in sync across the stack with our expressive API and 160+ webhooks.
+Query smarter. Use robust GraphQL for granular control across your all experiences, apps, and services.
+Dashboard UI Extensions. Plug in your own UI with 45+ flexible mount points. Integrate tools, shortcuts, and custom views directly into Saleor’s dashboard — no forks or hacks required.
+Control payloads. Use subscriptions queries to shape the data you receive. Harden your apps and control the flow of information.
+Add filters. Reduce the noise by getting only the relevant events.
+Tech agnostic. Stay independent, move fast. Use the stack that you love, any stack, with our service-oriented architecture.
+Commerce infrastructure, made-to-measure
+Live in thirty days.
+Code is yours.
+Fixed one-month window. Engineering fees rebate as credits after launch.
+30-day go-live
+100% rebated fees
+Cancel before go-live
+See the made-to-measure path Book a 30-min intro
+You and your team have been outstanding! We really appreciate your help through the process and your willingness to include as many engineers as needed.
+Ivaylo B. Gatev , CEO & Co-Founder

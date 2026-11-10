@@ -1,0 +1,30 @@
+Our Mission
+Endla is building the next generation of software for heavy industries, helping solve simulation and optimisation problems. Our vision is to provide engineers with auto-design and auto-optimisation tools that enable them to focus on understanding and specifying the right problem to solve and allow the software to produce high performing solutions.
+Working at Endla
+We’re a fast-paced, innovative team working together in person in Brisbane, building tools for engineers in heavy industries.
+The work
+From engineering questions to operational decisions.
+Endla connects engineering data, models and workflows in one operational platform. Our customers work on wells, pipelines and production systems. We help them move from scattered data and manual calculations to decisions they can check and act on.
+Understand the problem
+Work with the engineers using our software. Learn their constraints, question assumptions and agree what a useful result looks like.
+Build it together
+Bring software and engineering thinking to the same table. Share what you learn and turn customer insights into a stronger product.
+Follow through
+Take work through to deployment and everyday use. Check the results, help users succeed and improve what comes next.
+Join the team
+Open Opportunities
+We are a small team and hire selectively as the business grows.
+We’re hiring exceptional engineers who thrive working on challenging problems.
+If you want to shape the future of software process engineers use to produce the energy and materials we rely on, please apply for an open role below or email your CV to careers@endla.com .
+Brisbane · Hybrid · Full time
+Forward Deployed Engineer
+Work alongside customers, build and deploy solutions, and turn engineering problems into software people use every day.
+View role
+Engineering · Python
+Backend Software Engineer (Python)
+Build the systems behind engineering simulation, optimisation and operational decisions.
+Engineering · React
+Frontend Software Engineer (React)
+Make complex engineering data and workflows clear through thoughtful, interactive software.
+Don’t see your role?
+Tell us what you could bring to Endla. Send your CV and a short note about something you’ve built or a problem you’ve solved to careers@endla.com .

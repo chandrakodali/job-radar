@@ -1,0 +1,4 @@
+Frontier AI for Minimal Hardware
+We are an AI research lab building powerful tiny models for edge applications.
+Check out KittenML
+Email: [email protected]

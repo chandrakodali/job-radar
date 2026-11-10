@@ -1,0 +1,11 @@
+e2e raised $8m to build the software verification layer for the agentic coding era
+open positions
+chief of staff operations worldwide
+open source developer engineering worldwide
+software engineer engineering worldwide
+[ open application ]
+don’t see your role?
+send your proof of exceptional ability in the open application form. we read every open application and get in touch when a role fits.
+[ get started ]
+your verification layer starts with just one command
+npx e2e@latest init

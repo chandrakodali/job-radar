@@ -1,0 +1,22 @@
+Frontier AI for Document Extraction
+NuMind builds state-of-the-art VLMs specialized in extracting information from documents. Our models power our SaaS platform and are privately deployed across insurance, banking, healthcare, and other document-intensive industries.
+Deployed inside the most demanding companies
+In-house models, validated at open-source scale
+5M+ Downloads on Hugging Face
+Explore our models
+Our models lead the benchmarks
+NuExtract outperforms generalist models for both structured extraction and OCR.
+NuExtract3 scores 65.2, compared with 53.8 for the next-best similarly sized model.
+Research that advances
+the field
+Featured publication
+EMNLP 2024
+100+ citations
+NuNER
+Entity Recognition Encoder Pre-training via LLM-Annotated Data
+Read the paper
+MACHINE LEARNING
+BLOG
+NuExtract3
+The Reasoning Open-Source OCR & Structured Extraction LLM.
+Read the blog

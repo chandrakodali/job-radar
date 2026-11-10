@@ -1,0 +1,57 @@
+NEW
+The water of life calls to you
+Infrastructure is the mind-killer
+Join our band of OCaml engineers and help shape the future of infrastructure orchestration. We walk the Golden Path so others may follow.
+The Litany Against Bugs
+At Stategraph, we believe in the long view. Our codebase is written in OCaml not because it's trendy, but because it gives us the precision and correctness we need for infrastructure orchestration that will stand the test of time.
+We value:
+Deep understanding over quick fixes
+Patience and precision in our craft
+Systems thinking that spans generations of code
+litany-against-bugs.txt
+$ dune build @infrastructure-future
+I must not fear technical debt.
+Technical debt is the mind-killer.
+Technical debt is the little-death that brings total project obliteration.
+I will face my technical debt.
+I will permit it to pass over me and through me.
+And when it has gone past, I will turn the inner eye to see its path.
+Where the debt has gone there will be nothing. Only clean code will remain.
+The Water of Life
+Technical Excellence
+Work with OCaml and modern functional programming techniques to solve complex infrastructure challenges. Our codebase flows like the spice.
+Work-Life Balance
+Flexible remote work, a culture that values personal time, and mandatory vacation to make sure everyone actually takes a break. The spice must flow, but so must your life.
+Global Impact
+Help companies worldwide improve their infrastructure automation and deployment practices. He who controls the infrastructure, controls the universe.
+Roles in the Deep
+Reverend Mother of OCaml
+Remote
+Full-time
+Engineering
+Join our core team building the next generation of infrastructure automation tools. Your code will flow like water in the desert, bringing life to barren infrastructure landscapes.
+What you'll do:
+Design and implement core infrastructure orchestration features in OCaml
+Collaborate with the team on architecture and design decisions
+Contribute to our open-source projects and ecosystem
+Apply Now
+The Kwisatz Haderach Position
+Don't see the right role? We're always looking for talented engineers who can bridge worlds. Send us your resume and let's talk!
+Let's Chat
+Bene Gesserit Wisdom
+"A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it."
+— On Infrastructure Automation
+"The mind commands the body and it obeys. The mind orders itself and meets resistance."
+— On Functional Programming
+"Deep in the human unconscious is a pervasive need for a logical universe that makes sense. But the real universe is always one step beyond logic."
+— On Cloud Infrastructure
+Our Creed
+We believe in building systems that last. Our approach to infrastructure automation is guided by these principles:
+Correctness over convenience
+Precision over popularity
+Long-term thinking over short-term gains
+Sustainable growth over rapid expansion
+Adaptability over rigid processes
+Join our tribe
+We're looking for engineers who are passionate about infrastructure automation, OCaml, and building developer tools that users love.
+Begin Your Journey

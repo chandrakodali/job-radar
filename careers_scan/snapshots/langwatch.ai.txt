@@ -1,0 +1,160 @@
+Introducing Langy
+Agent Observability & Evals
+for AI Platform teams
+Trace, test, route and govern every LLM call in your company, from your own agents to the coding assistants your engineers use.
+LLM Ops Coding Agents AI Gateway AI Governance
+Book a demo Self-host in 15 min
+claude code ~/voice-agent
+improve agent · vibe-eval loop
+simulation — qualified senior candidate
+11/11 · 100% · 50.46s
+waiting for the assistant…
+Trusted in production by
+AI agents are still tested by hand, breaking in production.
+LangWatch brings loop engineering to agent testing and evaluation.
+An agent can take a hundred paths to the same goal, testing them by hand catches only a few.
+The best teams run agent simulations as continuous testing and evaluation, so reliability climbs every release.
+Spec-driven agent building
+Turn your requirements into agent tests automatically.
+Speed up development
+Set up a self-improving agent loop.
+Replicate and fix issues from production
+Turn a production trace into a simulation and prove the fix.
+Specs
+Simulations
+Agent
+Improvement
+Specs to simulations to agent improvement, repeating as a continuous loop.
+Simulate
+Real users, in text and voice, pushing your agent the way production will, before it does.
+Simulate real users
+Text and voice conversations from a simulated user that pushes your agent turn after turn, like the real world does.
+Run a scenario
+Write scenarios in Claude Code
+Describe the behavior you want to test in plain language, right from your editor, and Scenario writes the test.
+Write a scenario
+Local and CI
+The same scenarios on your machine while you build and on every pull request, with no separate setup.
+Add to CI
+Red teaming
+Adversarial simulations probe for jailbreaks, policy breaks, and unsafe tool calls before your users find them.
+Red team it
+More than a judge
+The judge reads the whole trace like you would, expanding each step, so a verdict comes with the reasoning behind it.
+Meet the judge
+Tools, skills, MCP
+Every tool call, skill, and MCP server is traced, and mockable or fixtured for deterministic runs.
+Trace tool calls
+Whitebox and blackbox
+Test through the API or hook into internals. Works with every agent framework, no rewrite required.
+See integrations
+Evaluate
+Score everything, from a single output to a whole conversation, offline and live in production.
+LLM as a judge
+Score with an LLM, custom code, or a full workflow, over a single output or an entire conversation.
+Build an eval
+Notebook or UI
+Run evals from your Jupyter notebook while you experiment, or from the UI for your whole team.
+Open the workbench
+Online evaluations
+Evaluate production traffic in real time, capture any signal, and turn it into insights.
+Go online
+Pairwise
+Compare two outputs side by side to pick the better model, prompt, or version with confidence.
+Compare outputs
+Multimodal
+Evaluate images and mixed media, not just text, with the same scoring surface.
+Evaluate images
+Observe
+Every trace, token, and cost, searchable at the speed of thought, from any framework.
+OpenTelemetry native
+Full GenAI spec support, so your traces work with any framework and any OTel-compatible stack.
+Instrument in minutes
+At the speed of thought
+Jump to any trace, filter, or view with Cmd+K. Blazing fast, however much you log.
+Try Cmd K
+Every agent, every token
+Claude Code, Codex, opencode and more, with tokens, cost, and cache accounted for on every span.
+See the breakdown
+Custom views and AI search
+Save the views your team lives in, search in plain language, and filter smartly across millions of traces.
+Build a view
+See it every way
+Waterfall, flame graph, topology, and sequence diagram, whichever way you need to read a run.
+Open a trace
+Topic clustering
+Every conversation is clustered by topic and subtopic automatically, so you see what your users actually ask.
+Explore topics
+Plot any metric
+Build custom analytics graphs over any metric, cost, latency, scores, whatever you track.
+Build a graph
+Integrations
+Every LLM call has a way in
+OpenTelemetry for the agents you build, one command for the coding agents your engineers run, and the gateway for every model in between. It all lands in the same traces, evaluations and budgets.
+The agents you build
+Instrument with the Python or TypeScript SDK, or plain OpenTelemetry. LangChain, LangGraph, CrewAI, Mastra, Pydantic AI, the Vercel AI SDK and every other framework send traces without a rewrite.
+Browse all integrations
+The coding agents your engineers run
+One command brings Claude Code, Codex, Copilot and opencode onto the same observability standard, with tokens, cost and cache accounted for per engineer and per repository.
+npx langwatch claude
+Track your coding agents
+Every model, through the gateway
+Route OpenAI, Anthropic, Google, Bedrock, Mistral and any other provider through one gateway with your own keys, budgets per person and team, and 11 microseconds of overhead.
+Put every call on a budget
+Our AI tests your AI
+Langy turns a PM's goal into a full Scenario test plan, then turns the failures into pull requests.
+PMs own the spec. Devs stay in flow. Nothing slips through.
+See what Langy does Book a call
+PM writes the goal
+Plain English. No code, no YAML. The brief is the spec.
+no code
+Langy drafts the plan
+Picks the simulator, generates the scenarios, writes the JudgeAgent rubric.
+live
+Scenario runs in parallel
+Multi-turn conversations against your agent, concurrent across projects.
+parallel
+JudgeAgent scores it
+Your rubric, audited. Faithfulness, policy adherence, de-escalation.
+signed
+Regressions become PRs
+Langy drafts the prompt revision. Devs review and ship via Prompt Registry.
+ready to ship
+langy · live session
+goal → plan → run → score → ship
+pm · goal · pending
+langy · plan · pending
+langy · run · pending
+langy · judge · pending
+langy · ship · pending
+median PM-to-PR 14 minutes watch Langy work →
+Where it runs . Who controls it. What certifies it.
+LangWatch deploys where your data lives, enforces who can touch it, and brings the certifications your security review needs.
+Cloud, self-hosted, or hybrid.
+Self-hosted
+Docker, Kubernetes/Helm, or in your VPC
+Hybrid
+Data plane on your infra, control plane on ours
+Cloud
+Managed multi-tenant SaaS · EU / US / UK / APAC
+Deployment options
+Enterprise security controls
+RBAC + REST APIs
+SCIM + SSO
+Cost-center attribution
+Audit log → SIEM
+Custom retention policy
+Book a call
+Passes your procurement review
+ISO 27001 Certified
+GDPR Compliant
+EU data Residency
+Monitored by Vanta
+Full trust center
+Trusted by teams shipping mission-critical AI.
+CTOs, engineers, AI architects and product leaders shipping AI they can trust in production.
+All customer stories
+Read them
+Ship agents with confidence.
+Thirty minutes with a solutions engineer and we'll get LangWatch live on your stack, end to end.
+Talk to an engineer or start free in 5 minutes

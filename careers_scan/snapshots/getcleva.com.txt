@@ -1,0 +1,97 @@
+Careers At Cleva
+Join Us To Build World Class Products
+Our Mission
+To enable Africans across the world to effectively manage their money and build wealth. This mission starts by enabling Africans to easily receive their salaries and payment for their work without overspending on fees. It then scales towards enabling them to easily pay bills, spend, and grow their money over time.
+Our Principles
+C ustomer-centric
+Everything we do revolves around understanding and meeting the needs of our customers.
+B ias for action
+We prioritize taking initiative and swift action, driving progress and seizing opportunities to innovate and excel.
+C ollaborative
+We believe in fostering strong teamwork, and achieving shared goals through mutual respect and cooperation.
+I ntegrity
+We prioritize ethical behavior, making decisions based on honesty, ensuring trust and credibility in all our actions.
+Open positions
+Come join the team!
+Senior Software Engineer
+Engineering Full-time Remote
+Apply
+Apply [here](https://forms.gle/2UrrEAiRXh7Ze4mD8).
+## About Us
+Our mission is to enable Africans across the world to effectively manage their money and build wealth. This mission starts by enabling Africans to easily receive their salaries and payment for their work without overspending on fees. It then scales towards enabling them to easily pay bills, spend, and grow their money over time.
+In a world where African currencies are fluctuating and getting devalued, it is paramount to preserve wealth. This problem applies to individuals and businesses on the continent, Cleva is on a mission to solve this by providing Africans with the flexibility to hold, grow, and move money in their preferred currencies.
+It’s only Day 1 at Cleva with an excitingly significant amount of work towards our mission. This presents an unprecedented opportunity for you to build the best banking platform for Africans globally while having the greatest impact of your career.
+## Who we serve
+Africans across the globe.
+This includes:
+- **Remote workers in Africa:** Contractors, freelancers, creators exporting their skills and talent to the rest of the world and needing to receive payment.
+- **Professionals in Africa:** Africans earning in local currency but seeking to preserve their income in more stable currencies and even grow their wealth.
+- **Africans that migrate from Africa:** Africans who need to send money home and move money across borders.
+- **Businesses:** African SMEs and startups looking to receive capital from investors
+## What you’ll do
+As a Senior Engineer, you’ll build infrastructure, services, and shape software operational excellence at Cleva. You will also help to define the company’s technical strategy and processes to accelerate executional efficiency for engineers. You will use AWS technologies and languages like python and typescript to build.
+### Your responsibilities
+- Define, and implement improvements to existing software infrastructure and build new ones.
+- Engage confidently with senior management, providing strategic insights, ideas, and execution plans regarding the improvement of the company’s QAOps, TestOPs, and other software-related operations.
+- Build and design software APIs.
+- Improve software development processes.
+## Who you are
+### **Minimum requirements**
+We’re looking for someone that meets the minimum requirements for the role. The nice-to-haves below are a bonus not a necessity.
+- 5+ years building highly available, customer-centric software.
+- Ability and motivation to operate in a rapidly growing, fast-paced, and highly ambiguous environment.
+- Strong technical skills in the MERN stack and experience building on AWS.
+- Ability to foster technical conversations with software vendors and service providers.
+- Excellent verbal and written communication skills
+- Highly motivated self-starter with a strong bias for action
+- Ability to operate at a high level and provide strategic direction, while also being able to get into the details to fully execute the strategy
+- Strong leadership skills with the ability to build and foster engineering culture
+- Prior experience as a Senior Software Engineer or Engineering Lead
+## Nice-to-have qualifications
+- Prior experience interfacing with external software vendors to design, plan and execute integrations.
+- Prior experience working at a technology startup
+- Basic knowledge of banking applications and how they operate from a technical perspective
+## Personal Character Requirements
+- Communicates directly and honestly
+- Has grit and is intrinsically driven to improve processes
+- Curious and executes with an action-focused, proactive mindset
+- Collaborative .
+## Interested?
+At Cleva, we believe that our ability to build a truly impactful company would be determined by the strength of our team. We are looking for doers, people with a strong bias for action, who take challenges personally until they surmount them. We care deeply about people who foster our company culture, are great teammates, and highly collaborative. If you don’t exactly meet all of the job requirements but believe in our mission, are customer obsessed, and passionate about building something impactful, please apply. Join us!
+We’ll review your answers and resume, and if selected to proceed, you’ll be contacted by our team. Thanks!
+## How to Apply
+Interested candidates should apply [here](https://forms.gle/2UrrEAiRXh7Ze4mD8).
+Senior Mobile Engineer
+Apply [here](https://forms.gle/vPigXDTRqzaMAWsR6).
+In a world where African currencies are constantly fluctuating and getting devalued, it is paramount to preserve wealth. This problem applies to individuals and businesses on the continent, and Cleva is on a mission to solve this by providing Africans with the flexibility to hold, grow, and move money in their preferred currencies.
+Its only Day 1 at Cleva with an excitingly significant amount of work towards our mission. This presents an unprecedented opportunity for you to build the best payments platform for Africans across the world while having the greatest impact of your career.
+As a Mobile Engineer, you’ll build services and shape software operational excellence at Cleva. You will work closely with the Cleva mobile team to build new experiences within the Cleva App. You will also help define mobile engineering best practices, architectural patterns, and processes that improve execution efficiency and code quality across the team. You will use Flutter/Dart and integrate with backend services to create delightful cross-platform experiences for our users.
+- Develop and maintain high-quality Flutter applications for Android and iOS using Flutter.
+- Collaborate with product managers, designers, and backend engineers to deliver features that delight our users.
+- Write unit, widget, and Maestro end-to-end tests to ensure code reliability and seamless user flows.
+- Apply SOLID principles in day-to-day development to deliver robust and extensible code.
+- Implement and maintain robust CI/CD pipelines using GitHub Actions and Fastlane for automated builds, testing, and deployment.
+- Monitor app performance and optimize for speed, memory, and security.
+- Participate in design and code reviews, providing constructive feedback to peers.
+### Minimum requirements
+We’re looking for someone who meets the minimum requirements for the role. The nice-to-haves below are a bonus not a necessity.
+- 4–5+ years of professional mobile development experience, with at least 3 years in Flutter/Dart
+- Proven experience applying Clean Code and Clean Architecture principles in production apps.
+- Strong grasp of Git, CI/CD pipelines (Codemagic, GitHub Actions, Fastlane).
+- Excellent problem-solving skills, with attention to detail and performance optimization.
+- Ability and motivation to operate in a rapidly growing, fast-paced, and highly ambiguous environment
+- Ability to operate at a high level and provide strategic direction, while also being able to get into the details to fully execute the strategy.
+- Strong leadership skills with the ability to build and foster an engineering culture
+- Experience with Firebase performance and other performance monitoring tools.
+- Experience working on apps with millions of users or in the fintech industry
+- Basic knowledge of payments applications and how they operate from a technical perspective
+- Communicates directly and honestly.
+- Has grit and is intrinsically driven to improve processes.
+- Curious and executes with an action-focused, proactive mindset.
+## Benefits
+- Competitive salary
+- Health insurance and pension
+- Hybrid/remote work flexibility
+- Fast-growing fintech environment with career growth and development opportunities
+- Paid time off and company holidays
+Interested candidates should apply [here](https://forms.gle/vPigXDTRqzaMAWsR6).

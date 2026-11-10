@@ -1,0 +1,23 @@
+A Faster JVM
+On some workloads, we already outperform HotSpot and GraalVM...by a lot Our next step is a general-purpose JVM.
+Feb 18, 2026 JavaDoc Github
+Jul 29, 2025 we beat copilot by 2x
+Jun 3, 2025 Parallelization by Recurrence
+Jan 17, 2025 POC Autoparallelizer
+Feb 6, 2024 Removing Branching Paths From a Computer Program (Patent)
+Nov 23, 2024 Dynamic Dispatch
+Oct 24, 2024 Faster Computer
+Apr 4, 2022 How We Made Android 3x Faster
+Apr 2, 2022 GraalVM Reflection File Generation (Slides)
+Apr 2, 2022 GraalVM Reflection File Generation (Recording)
+Jan 31, 2023 Removing Branching Paths From a Computer Program (Patent)
+Dec 27, 2022 Generating compilable machine code programs from dynamic language code (Patent)
+Sep 26, 2021 [Launch] Painless Android Obfuscation
+Oct 4, 2020 For JVM Geeks: Magicator, Jar Reflection Analyzer
+Jul 22, 2020 RefRem: JVM to Binary Compiler
+May 31, 2020 Java Cold Startup on AWS λ
+Mar 21, 2020 How Apps Use Reflection on Android?
+Nov 5, 2019 Systems and methods for automatic computer code parallelization (Patent)
+Questions or technical feedback?
+For clarifications on notes, experiments, or disclosures, contact:
+Questions? Reach us at hello@fastjvm.com

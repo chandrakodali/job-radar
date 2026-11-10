@@ -1,0 +1,18 @@
+We’re always hiring.
+If you love the work we do or looking for a great async & remote work opportunity, you may found the right place.
+Arkency is a consulting agency. That means your work would be to write good quality code (testing is absolutely necessary!), but you need to be also capable to talk directly with clients, as well as set up priorities of your work. You don’t need to be an expert with it - but you need to be aware of its importance. The three pillars of Arkency culture are: Anarchy, Async, Remote .
+Anarchy means - flexible work hours, choosing your own priorities and coming up with the initiative (we love that!). Remote means you are working from everywhere in the world - home, your coworking office, whatever. And async means all communication is not meant to be done instantly - we avoid meetings and long discussions. We have a set of tools to make this kind of working possible. You won’t miss anything important even if you’re working in weird hours. In fact, some of us do.
+With this kind of environment, overcommunication is necessary. You need to communicate well with the team, so we are more or less informed what’s happening. It’s something you need to learn, but benefits are huge.
+To start your journey with Arkency, you need to contact us . You’re very likely to be recruited if you:
+Know that automatic testing is very important during software development and you have a prior experience to prove it. We’ll stalk your GitHub, that’s for sure.
+You run an active blog. The big part of our working (if you want to) is building products and make everything necessary to sell them - that means blogposts, mailings, landing pages, social media. While some of us don’t write blogposts, this is a skill we’re looking for and gives you a huge advantage.
+You understand the necessity of creating maintainable code. Tests help, but they’re not enough. You are a great fit if you know (or want to learn) about decoupling from frameworks using architectural and design patterns of software. We love DDD, CQRS, Clean Code architecture. If you fancy those too, you’d love working with us.
+You are capable of writing a good frontend code. In this times dynamic user interfaces and rich JavaScript codebases are a normal thing for a consultancy agency. You need to know about it or be open to learning it.
+You write a lot about yourself during recruitment. We’d like to know your background and ideals about the software. In Arkency we avoid writing Rails Way code, for example.
+You know about the basic stack we’re working on. Ruby on Rails, React.js, Redux - knowing all of these will give you additional points.
+You are proactive. We love talking to people who come ahead and propose their own ideas, come up with a recruitment talk schedule, that type of thing. During recruitment the more proactive you are, the better. Show yourself in the best light possible!
+You have a rich portfolio of projects you can share with us. Code doesn’t lie - so we’d love to see what kind of code you produce.
+Those are things that add you points during recruitment. You don’t need to have it all, we’ll discuss details with you after you contact us.
+We’re looking forward to hearing back from you!
+Good luck,
+Arkency Team

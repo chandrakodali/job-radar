@@ -1,0 +1,74 @@
+About us
+We are the people making trustworthy AI a reality.
+The world only gets the AI it deserves if someone builds the trust underneath it. Today we’re a small, close-knit team spread across the world, still building it together.
+See open positions
+Why Openlayer
+We’re building the infrastructure for trustworthy AI.
+It is hard, meaningful work that is shaping how the world experiences AI. We’re helping teams build products that are safe, reliable, and worthy of their customers’ trust.
+We work as a team.
+Culture & Values
+# 1
+Bias for action
+Move quickly. Learn faster. Progress beats perfection.
+# 2
+Own the outcome
+We are a small team with big ambitions.
+Everyone takes responsibility beyond their job title.
+# 3
+Challenge ideas. Commit together.
+We debate openly, rely on evidence, and make better decisions because of it.
+Once we choose a direction, we move forward as one team.
+# 4
+Be exceptionally kind
+Respect, humility, and collaboration are part of how we work.
+We care about our teammates and our customers.
+# 5
+Build what's real
+We don't build features for demos or promises for slide decks.
+We build products that solve real problems and deliver measurable value.
+Benefits & Perks
+Benefits and perks
+Competitive pay
+A market-leading salary and equity package
+Equity terms
+Employee-friendly equity, including early and extended exercise.
+Hybrid work
+Work from anywhere, with no need to commute to an office.
+Health coverage
+Comprehensive health, dental, and vision insurance in the US.
+Paid vacation
+An open vacation policy, with a recommendation of 12 days annually.
+Tech setup
+A MacBook and all the accessories you need.
+Productivity tools
+The latest productivity software to optimize your workflow.
+Co-working space
+A paid co-working space or office desk if you need one.
+401(k) plan
+A 401(k) retirement savings plan in the US.
+Team events
+Regular team-building events and offsites.
+We are working from
+Los Angeles
+San Francisco
+Newport Beach
+Chicago
+Denver
+São Paulo
+San Diego
+Helsinki
+Tallinn
+Nashville
+New York
+Open Positions
+Don’t see an opening but think you’re meant to be on the team?
+Email us
+FAQ
+Openlayer is the AI governance and observability platform for enterprises. It gives your organization one place to see, test, and control every AI system — models, agents, and the teams behind them — before and after they ship.
+Openlayer focuses on the entire AI quality lifecycle rather than just monitoring models after deployment. While many platforms specialize in observability, Openlayer combines evaluation, testing, monitoring, and governance into a single workflow. The goal is to help teams understand not only what went wrong, but also why it happened and how to prevent similar issues in the future.
+Openlayer connects to your AI stack and continuously evaluates, monitors, and governs your systems. Teams use it to test models before deployment, watch performance, cost, and reliability in production, enforce policy with real-time guardrails, and keep a full audit trail for compliance.
+Evaluation is becoming a continuous discipline that runs across the whole AI lifecycle instead of a one-off step before launch. As AI systems multiply and regulation catches up, every enterprise will need a trust layer between its teams and the AI they ship. Openlayer is building that layer — the infrastructure that makes AI measurable, accountable, and safe to scale.
+You connect your models, agents, and pipelines to Openlayer through our SDKs, APIs, and integrations. From there, Openlayer runs your evaluations, monitors live traffic, applies guardrails in real time, and keeps governance evidence up to date — all from one control point.
+Openlayer is agent-agnostic. Because it sits in the request path through the AI Gateway, any agent framework or model provider can be observed, evaluated, and governed the same way — including blocking unsafe inputs and outputs in real time.
+Work on the future.
+Learn more about us

@@ -1,0 +1,60 @@
+They Build Hardware. You Make It Possible.
+The engineers building orbital platforms, nuclear reactors, supersonic engines - are depending on your software to work every single day.
+See Open Roles
+Built in SoCal
+Our Mission
+Artifact is the fastest way to design electrical systems and harnesses across an organization - accelerating every step in the product lifecycle:
+Design → Manufacturing → Operations
+We raised $3.5M to build a real-time, collaborative platform that reflects how hardware actually gets built. Every artifact system view is auto-generated and traceable to a single-source of truth.
+We believe hardware engineering should be rigorous, deliberate, and system-aware. We work directly with customers solving the world's hardest problems to modernize how hardware is engineered.
+If you're interested in building the future with us, send your resume & contact info to: careers@artifact.engineer
+Open Roles
+Los Angeles · On-Site
+As a senior software engineer at Artifact, you'll own core systems in our AI-assisted cloud ecosystem. This will include high-performance diagramming, real-time collaboration, and physics-based modelling and simulation. You'll help architect the technical foundation of a product that's redefining how engineers design and build hardware.
+What you'll do
+Architect application infrastructure, including cloud ecosystem, AI copilot, and physics simulation backend
+Lead development of major features - including architecture, implementation, deployment, and sustainment
+Collaborate with product team to deliver capabilities that customers need
+Define and support technical standards and long-term system architecture as the product and team scale
+What we're looking for
+5+ years of experience as a software engineer with ownership of production systems or large-scale features
+Deep expertise in at least one layer of the stack (e.g. frontend frameworks, real-time collaboration, AI systems)
+Proficient with modern tools such as react, typescript, and python
+Strong product intuition and ability to collaborate across disciplines in a high-content fast-paced environment
+Apply Now
+As an electrical systems engineer at Artifact, you'll be the electrical expert supporting customer programs and shaping the product. You'll help customers implement Artifact on their systems, support sales and technical evaluations, and bring real electrical systems expertise back into product development so the platform matches how hardware teams actually work.
+Support customer electrical systems in Artifact - harnesses, power distribution, and interfaces
+Partner with sales on demos, evaluations, and implementations for aerospace and defense programs
+Bring electrical domain expertise into product development and design workflows
+Translate customer pain points into product requirements with software and product teams
+Bachelor's degree in electrical engineering, aerospace engineering, or a related field
+3+ years designing or verifying electrical systems for complex hardware
+Familiarity with harness design, power distribution, and electrical interfaces
+Strong communication skills with customers, sales, and engineering teams
+As a software engineer at Artifact, you'll develop core systems in our AI-assisted cloud ecosystem. This will include high-performance diagramming, real-time collaboration, and physics-based modelling and simulation. You'll help build the technical foundation of a product that's redefining how engineers design and build hardware.
+Build application infrastructure, including cloud ecosystem, AI copilot, and physics simulation backend
+Develop major product features - including implementation, deployment, and sustainment
+2+ years of experience as a software engineer using modern tools such as react, typescript, and python
+Strong experience in at least one layer of the stack (e.g. frontend frameworks, real-time collaboration, AI systems)
+Ability to collaborate across disciplines in a high-content fast-paced environment
+As an avionics engineer at Artifact, you'll support customer vehicle and avionics programs while informing how we build the product. You'll help customers adopt Artifact for flight electrical systems, support technical sales and implementation, and apply hands-on avionics experience - power, sensors, actuators, compute, and vehicle networks - to make the platform useful from design through test and operations.
+Support customer avionics systems in Artifact from architecture through test
+Join sales and implementation as the avionics domain expert for demos and onboarding
+Bring avionics expertise into product - power, networks, sensors, and actuators
+Triage customer design challenges and feed learnings into product priorities
+Bachelor's degree in an engineering field, science, or math
+1+ years with electrical design, system integration, or system-level testing
+Experience with electrical test equipment and troubleshooting avionics subsystems
+Clear communicator across software, hardware, and sales teams
+As a forward-deployed software engineer at Artifact, you'll be the bridge between our core engineering team and the world's most advanced hardware companies. You'll work side-by-side with customers to understand their engineering needs, build tailored solutions, and ensure Artifact integrates into their workflows.
+Interface with aerospace, robotics, and manufacturing companies to deploy and support Artifact
+Build applications, pipelines, and scripts to support customer deployments, feature-requests, and bug fixes
+Collaborate with core engineering team to determine product priorities, system architecture, and UX design
+Travel occasionally to customer sites to support deployments, train users, and gather feedback
+3+ years of experience as a full-stack software engineer (e.g. react, typescript, python)
+Familiar with physical systems (e.g. robotics, aerospace, automotive, industrial)
+Able to debug across the stack and motivated to deliver robust fixes quickly
+Strong communication skills and experience working directly with cross-functional teams
+Don't see your role?
+We're always looking for exceptional people.
+Get In Touch

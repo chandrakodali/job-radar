@@ -1,0 +1,78 @@
+Kara
+Engineering diamond for
+thermal management, quantum sensing, quantum computing, power electronics, photonics, and RF electronics.
+Contact us
+↓ scroll
+We engineer diamond
+Grown in our reactors.
+Growth, processing, and characterization, in-house.
+Why diamond.
+Single-crystal diamond combines thermal, electrical, and optical properties that are difficult to match in one material.
+diamond
+GaN
+4H-SiC
+Six properties normalized to the best-performing material (outer ring = 100%). Exact values are given in the table. Data: Wort & Balmer (2008); Isberg et al. (2002); Tsao et al. (2018).
+Property
+GaAs
+Diamond
+Bandgap eV
+Breakdown field MV/cm
+0.3
+0.4
+2.8
+3.3
+Thermal conductivity W/m·K
+150
+490
+130
+2,400
+Electron mobility cm²/V·s
+1,400
+8,500
+900
+1,200
+4,500
+Hole mobility cm²/V·s
+480
+400
+120
+200
+3,800
+Saturation velocity 10⁷ cm/s
+1.0
+1.2
+2.0
+2.5
+2.7
+Johnson figure of merit normalized to Si
+278
+1,089
+8,206
+Baliga figure of merit normalized to Si
+500
+1,000
+24,660
+Values at 300 K. Johnson and Baliga figures of merit normalized to silicon. Same sources as the chart.
+Works cited →
+From material properties to
+Applications.
+Where diamond offers a material advantage.
+Thermal management
+Managing heat where it is generated.
+Power electronics
+Materials for next-generation power devices.
+Quantum sensing
+Room-temperature quantum sensing.
+Photonics
+Waveguides and cavities in thin-film diamond.
+Quantum networks
+Spin–photon interfaces for quantum networks.
+Research substrates
+Characterized wafers for reproducible research.
+orientation specified plane and miscut
+surface sub-nanometer roughness
+purity specified impurity profile
+isotope controlled ¹²C fraction
+Specified. Grown. Characterized.
+Materials.
+Specification sheets are available under NDA.

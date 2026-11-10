@@ -1,0 +1,308 @@
+Store Pro AI iOS Windows Teams Enterprise Blog Pricing
+Log in Download
+Log in
+Help us make work frictionless
+Join our growing and fully-remote team at Raycast, and empower people to supercharge their productivity.
+See open positions
+2020
+Y Combinator W20
+Thomas (CEO) and Petr (CTO) kickstarted the journey of Raycast at Y Combinator.
+Seed Round
+We raised $2.7M from Accel, and announced the public beta of the Raycast app.
+Public Launch
+We announced the public launch of Raycast and said “Hello World” to the internet.
+2021
+ray.so
+We launched our hackday project, ray.so, which amassed over 2.4k upvotes on Product Hunt.
+Store & API
+We launched the Raycast API and Extension Store for Developers and custom extensions.
+Series A
+We announced our Series A of $15M, led by Accel and Coatue.
+2022
+Launch Week
+We did our first Launch Week where we released something new every day.
+Raycast for Teams
+We officially launched Raycast for Teams out of beta, allowing companies to start using Raycast in their teams.
+2023
+Raycast Pro
+We launched Raycast Pro, a paid plan with AI-powered features that unlocked a new level of productivity for our users.
+2024
+Series B
+We announced our Series B of $30M, led by Atomico.
+Team Trip to Sicily
+Our fourth team offsite, during which we announced our iOS and Windows waitlists.
+Raycast Notes
+We released Raycast Notes, transforming Floating Notes into a fully redesigned 2.0 experience.
+2025
+Raycast Focus
+We launched Raycast Focus, a complete new feature to help our users achieve their goals without any distractions.
+Raycast for iOS
+We released Raycast iOS app, bringing our productivity suite to the mobile platform.
+Team Trip to Rovinj
+Team offsite in Croatia, where we celebrated all of our 2025 achievements together and announced the vision for 2026.
+Raycast for Windows public beta
+We launched the public beta of Raycast for Windows, bringing our productivity suite to the Windows platform.
+And today...
+We are a team of 39 folks, and excited at the prospect of you joining our team and helping us shape what's next!
+Our values
+Applying our values is what helps us thrive, enjoy what we do, and ship our best work.
+Speed
+We get things done and have a bias towards action. We run a marathon and not a sprint. Though it's still a race.
+Simplicity
+We keep things simple and prefer pragmatic solutions over complicated abstractions. We cut away cargo cult.
+Transparency
+We communicate early and often. We don’t have secrets but respect privacy and are honest if things went bad.
+Trust
+All of us own a piece of Raycast and we trust each other to do what they think is best for the company.
+Quality
+We don’t settle on mediocrity and choose quality over quantity. Even if the solutions are harder.
+Inclusivity
+We come from different backgrounds and reflect our diverse community. We treat each other as we want to be treated.
+Team
+We’re a team who previously helped build products for millions of people across the internet at Spotify, Facebook, Zoho, Google, HackerOne, Rainbow, Cloudflare, and more.
+John Buckley Software Engineer
+Previously a Software Engineer at Colortrix, Olive Toast Software, and Crocodile Clips.
+Cannot go a single day without marmalade.
+Alicia Merlino Software Engineer
+Previously at Attio.
+Was a pharmacist before becoming an engineer. Enjoys sewing and playing music.
+Inga Hampton Product Designer
+Previously at Reddit.
+I'm starting a micro farm & have two donkeys, Ebenezer & Pablo.
+Petr Nikolaev CTO & Co-Founder
+Previously worked at Meta as a Software Engineer on Spark AR and WhatsApp.
+Was a professional poker player before started a normal job as a developer.
+Thomas Mann CEO & Co-Founder
+Previously worked at Meta, working on Spark AR as a Software Engineer.
+Before Raycast, toured through Europe as a DJ.
+Hugo Cuvillier Software Engineer
+Previously worked at Apple and Meta.
+F1 afficionado, eternal tennis learner - loves racing anything with (or without) an engine.
+Johan Thorell iOS Engineer
+Previously at Reason Studios, Bontouch and others.
+Used to slap the bass 4-5 hours every day, now I just slap my keyboard.
+Sorin Muntean Software Engineer
+Previously a Software Engineer at Ottonova, and Internations.org.
+Used to drive an ambulance for the Red Cross.
+Stephanie Leong Community Manager
+Previously built communities at EyeEm and Pitch.
+Andreas Elia Software Engineer
+Previously a Software Engineer at CACI.
+Enjoys hiking, gaming and cinema.
+AEL
+Grzegorz Krukowski Software Engineer
+Previously worked at Memorado, Goodbeans, and Outfittery as an iOS Developer.
+Has worked in the gaming industry for most of his career.
+Pedro Duarte Hype Lead
+Previously helped create Radix, Stitches, and RainbowKit.
+Used to play harmonica in a Rockabilly band.
+Miguel Caetano Dias Founding GTM
+Previously a Senior Solutions Engineer at Cloudflare.
+A jet lag enthusiast with a micro data center in his home office.
+MCD
+Giedrė Blekaitė Software Engineer
+Previously at Pixelmator and Nord Security.
+Is a sucker for Scandinavian blues rock.
+Mathieu Dutour Software Engineer
+Previously an Engineer at GitBook, Sketch, and Enki.
+Learned how to ski, before knowing how to run.
+Beth Staff Head of Finance
+Formerly Finance at Sylvera and Tessian.
+Enjoys adventuring in nature and delicious food.
+Dianne McEwan Engineering Manager
+Previously worked at Buffer, Prodigy Finance amongst others.
+Competed as a professional triathlete and cyclist. Now a mom, trying to keep fit, enjoying the Swiss outdoor life.
+Dhruv Suthar Community Engineer
+Previously Software Engineer 2 at Codal. Loves video games and cats.
+DSS
+Per Nielsen Tikær Technical Community Manager
+Previously a Software Engineer at Klean.
+An educated truck driver who made his first homepage back in 1997.
+PNT
+Samuel Kraft Design Engineer
+Previously worked at Bitrefill, Tracklib and a few others.
+Tirta Wulandari Technical Support Specialist
+Previously worked at Pitch, CrossEngage, and TrustYou.
+Enjoys sewing and is passionate about fabrics.
+Jordan Amblin Product Designer
+Previously worked at Pitch, MetaLab and a few others.
+Enjoys ascending hills on two wheels.
+João Neves Software Engineer
+Previously at Daily.co, Embark Studios, EA DICE and Klarna.
+Plays beach volleyball and takes pictures (mostly of his cat).
+Bruno Reis Video Producer
+Previously at his own video production company.
+Capybara enthusiast.
+Jac Peregrine-Davies Technical Support Specialist
+Previously a Technical Representative at 1Password.
+Knows way too much about the Eurovision Song Contest.
+JPD
+Dany Castillo Software Engineer
+Previously founding engineer at Rise Calendar.
+Only wears black.
+Michael Nielsen UI Engineer
+Previously at Attio, Trackunit
+Huge film lover, especially Korean/Japanese films
+Nichlas Wærnes Andersen Product Designer
+Previously worked as a freelance designer.
+Is officially Raycast’s first employee.
+NWA
+David Claridge Technical Support Specialist
+Previously at Meta, Fidel API and others.
+Enjoys retro tech and gaming. Has a dog called Random.
+DAC
+Ilia Glushchenko Software Engineer
+Previously a Game Developer, worked on Project Deios, Astroneer and Halo Infinite.
+Boulder bro, born and raised in the coldest region on Earth.
+Marcin Naglik Software Engineer
+Previously at DataCamp, AirHelp and a few others.
+Enjoys playing pool and watching snooker.
+MNA
+Andrey Nekrasov Software Engineer
+Previously worked on Microsoft projects and AAA games.
+Loves to cycle and explore nature.
+Roy van Rooijen Product Designer
+Previously co-founded Sketch Runner, worked at Pitch, and some others...
+Played baseball for 15 seasons.
+RvR
+Marcos Sánchez-Dehesa Software Engineer
+Previously a Software Engineer at Kitchen Stories, and Relayr.
+Would do anything for a good black paella with alioli.
+MSD
+Pavlo Kovalchuk AI Engineer
+Previously worked as a Machine Learning Engineer at Fenergo and Sentinels.
+Enjoys playing basketball, cooking, and hiking.
+Alexander Antonov Product Designer
+Previously at Nansen, several design agencies, and Apple.
+Dog walker of Olly the Shiba Inu.
+Daniel Sequeira Head of Business Operations
+Previously Engineering Manager at Pento, MessageBird and Bynder.
+Was a roller hockey player for 17 years.
+Benoît Grélard UI Software Engineer
+Created and maintained Radix UI at Modulz (acquired) and WorkOS.
+I cycle, play piano (was in a band for 10 years!), drive virtual rally cars, love to cook!
+Alexandr Subbotin Software Engineer
+Previously CTO at Appbooster, creator of Cerebro app.
+Junior FPV-drone pilot.
+Folks so far
+Countries
+Raypets
+100%
+Remote
+Our team is spread across 17 countries, 4 timezones , 2 continents , and we believe working fast, simple, and transparent, leads to a higher quality level of work, where we trust and respect our colleagues.
+Despite being fully-remote, we’ve still found time to meet up in our yearly retreats, such as Sicily in 2024, and bond over food, drinks, and activities like making pasta and jet skiing.
+How we work
+It’s important that you enjoy your job, and love your life outside of work.
+Time for actual work
+We have one meeting with the entire team per week – that’s it. We work autonomously, communicate asynchronously and collaborate ad-hoc. Every week, we demo what we’ve accomplished.
+Rayday Weekly
+Some of our most-loved features, such as Raycast Notes, and tools like Ray.so have come from hackdays. That’s why Fridays are for hacking.
+Take a step away from your team work for a day, and build whatever you like. Hack on a new extension, explore new design system components, or tidy up Notion. It’s up to you!
+Fast moving
+Our aim is to continue making the best product we can. We bias to action and shipped 37 releases in 2021, including big features such as our Extensions API and hundreds of bug fixes and improvements.
+Modern tooling
+We surround ourselves with the best work tools available. Figma, Linear, Notion, Cron, you name it. This environment sets the standard for our software.
+Team offsite Yearly
+Once a year we bring the entire team together. In 2021, we rented a villa in Dubai where we launched our API and drove quad bikes in the desert. In 2022, we went to Mykonos where we cooked traditional Greek food and sailed around the island. In 2023, we spent a week in Marbella where we had a paella cooking competition. In 2024, we traveled to Sicily, where we made pasta and rode jet skis. And in 2025, we explored Rovinj in Croatia. We can't wait to see where it takes us next.
+Work on something you use, and our users love
+All of us use Raycast every single day. We have internal extensions to write weekly updates, ship releases and more. It makes a huge difference if you build something that you actually use. Many features came out of our daily problems.
+Fully distributed team
+We are a fully distributed company with 39 people, 33 pets, spread across 17 different countries. Everybody works on the schedule that fits them best. It allows us to structure our work around our lives and not the other way around.
+Want to work in a warm city during the winter? Go for it. If you’re at lunch or you’re taking your dog for a walk during the day, set your Slack status so the rest of your team knows about it.
+Cut out the s#!%
+Many of us left companies because bureaucracy killed product development. We are here to build a great product with like-minded people. Everything else doesn’t matter.
+We have fun
+It isn’t all work and no play. We get together regularly to play games, make pancakes or other virtual activities. Our #watercooler Slack channel is jammed with photos outside of work and weekend plans.
+We care about design
+Design is at the heart of the product and team. Every pixel and every detail matters.
+From icons, to the UI in both dark and light mode, illustrations, social media content, it all belongs to the same story.
+Collaborate with a community
+Get direct feedback from passionate users, who actively contribute to the product with 600+ script commands and 1500+ extensions, and work with the community to make Raycast even better.
+Our benefits
+We put people first and want to empower everybody at Raycast to do your best work.
+Competitive salary
+We pay you a location independent rate
+Stock options
+We don't treat "act like an owner" as a phrase
+End of year bonus
+We value going the extra mile
+Parental leave
+We provide 3 months paid time off
+Flexible time off
+We recommend at least 25 days
+Build your workspace
+Order your own equipment to onboard
+Corporate card
+Use it on whatever makes you productive
+Health perks
+From insurance to gym. Stay healthy!
+Open positions
+Currently we don't have any open positions. But we're always on the lookout for exceptional people. Want to apply anyway? Get in touch
+Hiring process
+Take a look at some of our interview steps, and a few tips to make your hiring experience great.
+Send an engaging message
+Besides sending across your Resume we would also like for you to tell us why you want to join Raycast and why you generally care about the problem we're solving.
+Make your first impression count. Share with us what excites you and how you envision your role at Raycast, what we’re missing, and pack your intro with the amazing work you’ve done.
+Hiring manager intro
+You will have a chat with the hiring manager for your role, or with one of our other people managers, to get to know what it takes to work at Raycast.
+Come prepared to the meeting. It's a way for both sides to get to know each other. Good candidates prepare questions, used our app and articulate what they look for in their next role.
+Meet the team
+You will meet a couple of team members with whom you will work with later. They will assess your technical knowledge and how you collaborate with others.
+Take-home task
+The take-home task is your moment to shine. We open a Slack channel to communicate during it – use it! Most candidates go silent and come back with bad results. We collaborate with you on the task to simulate real work.
+Task assessment
+We will assess the results of your task and if we like what we see, you will be asked to present them to us.
+We don't expect for you to spend time preparing a slideshow, instead articulate your thinking. Why did you take a shortcut? What would you do differently when you had more time? What little detail would you add?
+Get to know our Founders
+Chat with our founders and have the opportunity to know more about Raycast.
+As mentioned above in the "Hiring manager intro" step, don't forget to come prepared to this meeting as well.
+Offer Stage
+We wrap it up with an offer and discuss the final details.
+We're very transparent throughout our interview process. There shouldn't be any surprises at this step. We align on the last bits before we make you part of the RayFam.
+Investors
+Meet the great investors and people helping to make Raycast grow.
+Jeff Soo Product Design Manager at Meta. Ex-Product Designer at Oculus VR.
+Joe Thomas Co-Founder and CEO at Loom.
+Jeff Weinstein Product lead at Stripe. Previously founder of Wagon.
+Johnny Boufarhat Founder and CEO at Hopin.
+David Cramer Co-Founder and CTO at Sentry.
+Jason Warner Ex-CTO at Github, and Ex-VP of Engineering at Heroku.
+Koen Bok CEO and Co-Founder at Framer.
+Max Stoiber Co-Founder at Spectrum.chat. Founder at GraphCDN. Ex-Software Engineer at GitHub and Gatsby.
+Steve Morin Head of Mobile Engineering at Asana.
+Mirko Novakovic Ex-CEO at codecentric AG, and Ex-CEO at Instana.
+Manik Gupta Corporate VP at Microsoft. Ex-CPO at Uber.
+Femi Awomosu Ex-Software Engineer at Babylon Health, and Ex-Product Manager at GitHub and Shazam.
+Tanguy le Stradic Ex-Senior Product Manager at Qonto.
+Charley Cheever Founder of Expo and Quora. Ex-Engineering Manager at Facebook.
+Ott Kaukver CTO at Checkout.com.
+Karri Saarinen Co-Founder and CEO at Linear. Ex-Designer at Airbnb.
+Zach Holman Former engineer at GitHub.
+Calvin French-Owen Co-Founder at Segment.
+Ludwig Pettersson Founder at Quill. Ex-Creative Director at Stripe.
+Guillermo Rauch CEO at Vercel
+Thomas Dohmke CEO at GitHub
+Tobi Lütke CEO at Shopify
+Stay in the loop.
+Join the community and learn how other people get the most out of Raycast.
+Slack
+37k members
+Get the inside track on new features and learn how other people use Raycast.
+Join
+X/Twitter
+90k followers
+Keep up to date with the latest releases, features and improvements.
+Follow
+Product
+Store Pro Teams Pricing Changelog Browser Extension Developers iOS Windows Raycast 2.0 API Docs Manual Troubleshooting Raycast vs Alfred FAQ
+Core Features
+Raycast AI Raycast Notes Raycast Focus Clipboard History Window Management Snippets File Search Quicklinks Calculator Calendar System Emoji Picker
+Top Extensions
+Design Tools Developer Tools Pomodoro Timer Productivity Project Management Time Management Transcript Translation Work From Home AI
+Company
+Community
+Community Stories Ambassadors Slack X/Twitter GitHub Dribbble
+By Raycast
+Keyboard Glaze Explore Snippets Explore Quicklinks Prompts Chat Presets ray.so Icon Maker Merch Wallpapers
+Subscribe to our newsletter.
+Get product updates and news in your inbox. No spam.

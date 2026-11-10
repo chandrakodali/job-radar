@@ -1,0 +1,33 @@
+Features Enterprise Careers FAQ
+BACKED BY
+AI product designer,
+at your service.
+Discover the
+future of design
+Book a Demo
+Bring your design system
+Bring your own design system, create pages and new components and iterate existing ones.
+Enterprise-ready for your business
+Keep your design secure and compliant.
+Figma import and export
+Import and Export Figma files, level up your design experience.
+Integrates with dev workflow
+Works with Github, public & private npm packages, and storybook.
+Visual Editor, more control.
+Full control over design. Tweak layouts, spacing, colors, and more - visually.
+Code Editor
+Edit code with full control.
+Collaborate with your team
+Design with your team, review fast, and refine in real time. Share live demos with your stakeholder
+Open in new tab
+FAQs
+What is Polymet?
+Polymet is an AI Product Designer. You can design your pages, components and prototypes with Polymet and get production-ready frontend code.
+How does Polymet work?
+How is Polymet pricing?
+How can I start using Polymet?
+What are the most common use-cases of Polymet?
+Can I use Polymet with my team?
+Start building
+better, faster.
+Create, iterate, and ship faster by automating your product development workflow from idea to design to code. Its Polymet.

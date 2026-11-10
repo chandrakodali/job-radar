@@ -1,0 +1,101 @@
+Dflare AI (AI Cloud Platform) CCS-Cirrus Cloud Suite Cirrus Cloud Platform Coredge Kubernetes Platform (CKP) Cloud Orbiter CoRobots CVM (Coredge Virtualization Manager)
+Managed Kubernetes Service
+Dflare AI (AI Cloud Platform)
+The Complete AI Lifecycle, Accelerated. From raw GPU power to instant inference and collaborative workspaces—Dflare is your all-in-one engine for Sovereign AI.
+CCS-Cirrus Cloud Suite
+The Ultimate Cloud Toolkit. One Suite to Rule Your VMs, Storage, Network, and Multi-Cloud Operations. CCS unifies your entire infrastructure into a single, high-performance workflow.
+Cirrus Cloud Platform
+From Edge to Multi-Cloud: Orchestrate Everything. CCP unifies VMs, storage, and advanced cloud operations into a single, sovereign command center.
+Coredge Kubernetes Platform (CKP)
+Deploy Anywhere. Orchestrate Everywhere. Empower your apps with flexible, sovereign Kubernetes clusters—built to scale from the data center to the furthest edge.
+Cloud Orbiter
+Orchestrate without Borders. Cloud Orbiter is your unified command center for managing applications from the core to the edge, delivering seamless multi-cloud interoperability at a global scale.
+CoRobots
+Smarter CoRobots. Faster ROI. Seamlessly scale your robotic fleet with Kubernetes-powered orchestration and sovereign AI that adapts to your environment in real-time.
+CVM (Coredge Virtualization Manager)
+Virtualization Without the Overhead. Manage your entire VM landscape with an intuitive console designed for peak performance and precision resource utilization.
+Platform Add Ons
+Managed, production-ready services that extend your Coredge deployment. Instead of building and running these capabilities yourself, you get them operated, monitored, and supported by Coredge, so your team can focus on what differentiates your business.
+By Use Case
+AI / ML Training & Inference
+Edge Computing
+Hybrid & Multi-Cloud
+Sovereign Cloud
+By Role
+CTO / IT Leadership
+Data Science / ML Teams
+DevOps / SRE
+By Industry
+Enterprise
+Government & Public Sector
+Healthcare
+Telecom
+Documentation Hub
+Architecture Diagrams Visual system designs
+API Reference Technical specifications
+Downloads
+White Papers In-depth research
+Datasheets Product specifications
+Learning
+Blog Latest updates and news
+News and Stories Company updates, news, and stories
+Tutorials & Videos Step-by-step guides
+About Coredge Why Coredge Customers and OEM Partners Culture Careers Contact
+About Coredge
+Our Vision & Mission
+Why Coredge
+Discover why Coredge is the right choice.
+Customers and OEM Partners
+Who we work with
+Culture
+Meet our team
+Careers
+Join us
+Contact
+Get in touch
+Build the Future of Sovereign AI
+Join the architects of the next-generation GPU-native cloud.
+Life at Coredge
+What Makes us Different
+Empowering Careers, Enriching Lives
+Step into an Amazing New Future
+Level Up Faster
+DistributedLorem Ipsum is a dummy text
+Experience the Best of Life at Coredge
+We're Dedicated to Providing the Support You Need to Thrive, Both at Work and in Life
+Our clients include some large enterprises, and we are expanding our client base. As a result, Coredgians enjoy the benefit of providing solutions for large organizations and paint on a wider canvas.
+We provide comprehensive health insurance coverage for all employees and their families, ensuring peace of mind and well-being.
+We believe in a flat organizational structure that encourages open communication, collaboration, and quick decision-making across all levels.
+We offer competitive compensation packages that reflect your skills, experience, and contributions to the team.
+We sponsor employees for certifications, conferences, and professional development programs to help them grow in their careers.
+We understand the importance of work-life balance and offer flexible working hours to accommodate your personal needs.
+We follow a 5-day work week policy, giving you the weekends to recharge, pursue hobbies, and spend time with loved ones.
+Join a team of highly skilled and passionate professionals who are dedicated to pushing the boundaries of innovation.
+We encourage creative thinking and give our team members the freedom to explore new ideas and approaches to problem-solving.
+Open Positions
+Find your next opportunity and be a part of something great
+Senior Marketing Manager
+Growth Bangalore Full Time
+View Job
+Key Account Manager
+Talent Acquisition Lead
+HR Department Noida Full Time
+Human Resource Generalist
+Product Manager
+Product Management Noida Full Time
+Tech Lead
+Product Development Noida, Bangalore Full Time
+Software Development Engineer - 2
+Inside Sales Executive
+Software Development Engineer - 3
+Product Development Noida Full Time
+Software Development Engineer in Test - 1
+DevOps Engineer
+Solution & Customer Delivery Bangalore Full Time
+Senior DevOps Engineer
+Cloud Operations Noida Full Time
+Presales Engineer/ Presales Solution Architect
+Sales and Business Development Noida Full Time
+Careers at Coredge
+Bring your uniqueness, ideas, and determination to make an impact and we’ll solve some of the world’s biggest challenges together!
+If Your Profile is Not Listed Above, Send your resume here

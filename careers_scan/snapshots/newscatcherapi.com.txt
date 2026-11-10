@@ -1,0 +1,70 @@
+PRODUCTS
+APIs
+News API
+Clean, enriched, ready-to-use news data
+Web Search Agent
+Find all events that meet your criteria across the web
+News Firehose
+High-volume feed of the full stream of indexed content
+Monitors
+Event Monitors
+Track any event on a schedule
+Company Monitors
+Track a set of companies for new coverage
+Technology
+How it works
+Discover how our API processes data to deliver unmatched insights
+Entity Resolution
+Ensure every article pinpoints the exact company or individual you’re tracking
+Localized News
+Get ultra-granular, location-focused news
+RESOURCES
+Case Studies
+Dive into case studies showcasing how our API powers innovation across industries
+About Us
+Who we are, what drives us, and how we measure success
+Blog
+We cover the tech stories that matter
+Company
+Careers
+Explore roles with responsibility, growth, and real impact
+Roadmap
+Transparent view of planned releases, improvements, and innovation ahead
+Security & Compliance
+For the most sensitive matters
+FAQs
+Quick help and guidance
+ISO clients
+F1000-trusted
+SOC2 Type II
+GDPR-ready
+see all certificates
+Pricing
+DOCS
+Book a Demo
+Get API Key
+Join NewsCatcher
+We believe small, focused teams can achieve big results—especially in the age of AI. We’re a remote-first, globally distributed team of curious, driven people who question assumptions and move fast.
+If that sounds interesting, we’d love to hear from you.
+Web Crawling & Scraping Engineer
+Remote (Within ±3 hours of CET)
+Build and optimize scalable crawling and data pipelines with automated recovery, coverage metrics, performance tuning, documentation, and team support.
+SDR (Sales Development Representative)
+Identify and qualify leads through outreach, schedule demos, and support sales and marketing efforts while keeping records updated in the CRM.
+Technical Account Executive
+Support enterprise clients during rapid growth with freedom, trust, and hands-on experience working with top global companies.
+Why NewsCatcher?
+Our Core Values
+Data quality first
+Precision and accuracy are at the heart of our services.
+Default to clarity
+Whether in code, data, or communication, we value transparency and simplicity over complexity.
+Think in systems
+We see the big picture and design for long-term impact — across data pipelines, users, and the organizations we serve.
+Global by design
+We’re remote-first and diversity-driven, learning from different perspectives to build products that work everywhere.
+Bias for action
+We move fast, ship early, and learn from real-world feedback. Speed creates insight.
+Trusted by
+Secure strategic advantage with real-world signals for your teams and models
+What you don't know can hurt you. Let's change that.

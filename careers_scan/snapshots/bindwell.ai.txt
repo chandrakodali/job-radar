@@ -1,0 +1,13 @@
+Molecules Data Lab
+Bindwell
+The bitter lesson is coming for biology
+Throughout history, humanity has run experiments, observed their outputs, and pieced together a representation of the physical world in order to explain what they saw, e.g. protein structure, quantum mechanics, etc. Teaching models these representations doesn't scale.
+We train a single model on all raw inputs and outputs of humanity's experiments at scale, allowing it to directly learn its own rich representation that can be used to design new molecules orders of magnitude faster. This is the bitter lesson applied to molecular discovery.
+About us
+We’re Tyler Rose (Wolfram Research) and Navvye Anand (Caltech), a scrappy duo of engineers who met at the Wolfram Research Program in June 2023. We were united by our passion for tackling hard problems, and dropped out of school to solve molecular discovery at Bindwell.
+Build with us
+We’re looking for exceptional people in machine learning, chemistry, and biology to help us solve molecular discovery. Join us
+Research & news
+The Bitter Lesson for Biology How we built our lab in 30 days Bindwell raises $6M
+Backed by
+Y Combinator Paul Graham

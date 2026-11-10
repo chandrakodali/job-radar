@@ -1,0 +1,98 @@
+Career
+Become a part of our team and reach the peak of success with us.
+Our young and dynamic company offers a motivating environment in which you can contribute yourself and your ideas to the further development and implementation of Open Source solutions.
+You can expect a lot from us!
+Competitive salaries
+Attractive fringe benefits, always tailored to current needs variably adjusted, provide the necessary financial leeway
+Company pension scheme
+A modern and generous pension scheme provides financial security to you and your family
+Gender equality
+All human beings are born free and equal in dignity and rights. This is a no-brainer for us!
+Flexible and individual working models
+Do you prefer home office or co-working space? Part-time or full-time? We offer you an outstanding work-life-balance
+Cross-national career opportunities
+At Camptocamp, no national borders stop your career plans
+Good transport connections
+All our locations are easy to reach either by car, by bike or by public transport
+Modern workplaces
+Modern offices, an excellent coffee machine and a good infrastructure are granted, as is a barrier-free access
+Company events
+During our company events, we bring people together in a learning environment, to share ideas and be creative
+Special leave
+We are offering extra time for the really important events in life
+You’ll be fine working for us
+If you are a reliable and autonomous person by nature. We offer you the opportunity to have a strong impact and to manage your own development. Ready to face the challenge?
+If you like working in a team. We foster a cooperative culture, the sharing of feedback and the exchange of best practices.
+If you want to take every opportunity. To shape the Camptocamp of tomorrow, we are looking for entrepreneurial and innovative minds who will dare to take the lead.
+If you want to be involved in Camptocamp’s life. We believe that everyone contributes to creating a positive working atmosphere. We offer a flexible, respectful, transparent and caring work environment through open communication.
+Why work for us?
+At Camptocamp, every individual counts and at our company everyone is free to shape their working environment. What counts most for us is a lived team spirit, openness, respect and innovation.
+Discover our philosophy
+Open Positions
+Nothing found so far?
+If no suitable job is currently available, just send us your CV and a motivation letter anyway. For the right candidates we will always find a solution.
+Send us your application documents with cover letter, curriculum vitae and certificates. You can also use our online form for this purpose.
+If you have any questions, don't hesitate to contact us directly at any time!
+Contact us!
+Spontaneous Application
+Interested in working in an inspiring environment and joining our motivated and multicultural teams?
+Senior ERP consultant - Olten/Zurich
+Senior Backend and Cloud Engineer (m/w/d) - Switzerland
+ERP Consultant - Chambéry
+Go to all Careers
+Bussigny - Switzerland
+Camptocamp SA
+Rte de la Chaux 4A
+1030 Bussigny
++41 21 619 10 10
+info@camptocamp.com
+Paris - France
+Camptocamp France SAS
+12 rue de la Chaussée d'Antin
+75009 Paris
++33 1 83 71 75 00
+Chambéry - France
+18 rue du Lac Saint André – Bât. Le Dauphin
+Savoie Technolac
+73 370 Le Bourget-du-Lac
++33 4 58 48 20 00
+Munich - Germany
+Camptocamp Germany GmbH
+Gustav-Heinemann-Ring 123
+81739 Munich
++49 89 2620 899 00
+info@camptocamp.de
+Go to all Locations
+Modernizing GeoNetwork 4
+Join the initiative to migrate to Spring 7
+Read more
+Camptocamp is Now a Certified B Corp!
+We are thrilled to announce that as of September 2026, Camptocamp (across Switzerland, France, and Germany) is officially a Certified B Corp!
+"On the shores of Lake Geneva" — Teaching machines to understand where you mean
+We built etter, an open-source Python library that turns natural language location descriptions into spatial filters. You give it "north of Lausanne" or "on the shores of Lake Geneva" — it gives you a GeoJSON geometry your app can use directly. It's LLM-agnostic, multilingual, and handles the kind of spatial nuance that breaks naive approaches. If you build location-aware products, you'll want to read this.
+Go to all News & Events
+Geospatial Solutions
+Business Management Software (Odoo)
+Infrastructure Solutions & Services
+Consulting
+Implementation
+Hosting & Maintenance
+Subscription Management
+Training
+UX/UI Design
+Security
+Customer Journeys
+Open Source Expertise
+Partner & Products
+Network & Memberships
+Artificial Intelligence Expertise
+About Camptocamp
+Locations
+News & Events
+Corporate Social Responsibility
+Security at Camptocamp
+Contact
+Bussigny
+Chambéry
+Munich
+Go to all locations

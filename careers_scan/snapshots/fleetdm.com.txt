@@ -1,0 +1,159 @@
+Solutions
+Apple device management
+Manage every Mac, iPhone, and iPad.
+Windows device management
+Patch apps and manage every Windows setting.
+Linux device management
+Manage Linux devices with full visibility and control.
+Endpoint governance
+Secure every extension, package, and AI tool running on your devices.
+Device management for Europe
+Keep device data in the EU. Manage Windows, macOS, Linux, and mobile devices from one independent platform.
+Aviation
+Keep the airframe, swap the engine. Device management for aviation.
+Pharma 4.0
+Device management with change control for life sciences.
+Extend Fleet
+Integrate your favorite tools with Fleet.
+Customers
+Pricing
+Partners
+More
+Docs
+Guides
+Support
+Releases / news
+Get your license
+The handbook
+Free workshops for beginners
+GitOps, Apple, and Windows certifications.
+Join us
+Fast Track
+Get production-ready with help from Fleet experts.
+Learn more
+Get a demo
+Keep device data in the EU.
+Maintained by:
+Edit this page
+On this page:
+{{subtopic.title}}
+Related topics:
+{{_.trim(relatedPage.title)}}
+Questions?
+Ask us anything
+{{breadcrumbs[0] === 'handbook' ? 'Introduction' : breadcrumbs[0]}}
+{{_getTitleFromUrl(breadcrumbs[1])}}
+{{thisPage.title}}
+Introduction
+Company
+Purpose
+Fleet Device Management is the open-core company behind the leading AI-native device management platform for Windows, Apple, Linux, Android, and more. Today, Fleet enrolls millions of devices and infrastructure at NVIDIA, large retailers, and airlines, and it is especially popular with enterprise IT and security teams .
+Fleet is dedicated to:
+🔌 giving IT admins the time to transform themselves into 5x AI engineers, cutting KTLO so they can build the future. With AI and human review, experts can one-shot entire IT projects in minutes.
+🪟 unbundling the Microsoft suite and dispelling misconceptions about what is and isn't possible. Customers should choose the right IdP, MDM, EDR, and office suite for their needs, not their vendors'.
+🐧 remaining the best Linux management option on the market and the premier solution for managing every distro, deskside hardware, and new devices like ARM PCs and NVIDIA's DGX series.
+With Fleet, customers reduce maintenance effort by 50-80%, speed up employee onboarding by 98% (often down to under 5-10 minutes), and cut onboarding tickets and errors from 80-90% to less than 1%, compared with Intune, Jamf, Ivanti, and Workspace ONE.
+This is the guiding purpose behind Fleet's product strategy , operating principles , and brand .
+"If our grandchildren are going to be monitored all the time, at least let's set the precedent that they're monitored with open-source software."
+Mike McNeil, CEO
+Culture
+All remote
+Fleet Device Management Inc. is an all-remote company with 70+ team members spread across four continents and nine time zones. The broader team of contributors worldwide submits patches, bug reports, troubleshooting tips, improvements, and real-world insights to Fleet's open-source code base, documentation, website, and company handbook .
+Open source
+Fleet is open by design. The majority of the code, documentation, and content we create at Fleet is public and source-available . The Fleet handbook is the central guide for how we run the company, and even it is open to the world. We strive to be open and transparent in the way we run the business, as much as confidentiality agreements (and time) allow. We perform better with an audience, and our audience performs better with us.
+Why this way?
+At Fleet, we write things down. Even when we might be wrong. This helps us move quickly, provides clarity, and enables asynchronous work. The "Why this way?" page in the handbook discusses some of our most important decisions about the best way to work and the reasoning for them. For example: "Why open source?" , "Why do we use a wireframe-first approach?" , "Why direct responsibility? , and "Why handbook-first strategy?" You can read more about these principles and suggest improvements in "📖Company/Why this way?"
+You can read more about what it's like to work at Fleet in "📖Company/Communications" .
+Open positions
+Is it any good?
+Here are a few reasons to work at Fleet:
+Work from anywhere with good internet. ( We're 100% remote , No office. No commute.) Everyone works remote, but you don't feel remote. There is no 'headquarters'. You are free to travel and move. Organize your workday to fit your lifestyle . Take breaks. Go to the dentist.
+Fleet can offer you a competitive salary, significant equity, and an independent, outsider-friendly culture. Work with helpful, kind, and motivated people who know what they're doing.
+At Fleet, we value focus, iteration, and meaningful results – not 60 hour work weeks . We are non-judgmental and laser-focused on growing the company.
+Work closely with experienced, well-funded founders and a great team, including the people who created osquery and Sails. We care about openness and transparency.
+Work computers can be private and safe. Help make endpoint monitoring less intrusive and more transparent.
+Protect the production servers and employee laptops of Earth's largest companies. Work on a product used by lots of people who care about what you do.
+Fleet is growing quickly, with significant revenue from Fortune 1000 customers. You will have lots of opportunities to make decisions, learn, and try new things.
+Values
+Fleet's values are a set of five ideals adopted by everyone on the team. They describe the shared mindset we are working together to create, inside and outside the company: 🔴 Empathy , 🟠 Ownership , 🟢 Results , 🔵 Objectivity , and 🟣 Openness .
+Values play an important role in hiring, performance management, and compensation decisions. When a new team member joins the company, they adopt our values, from day one.
+This way, everybody knows what to expect from the people they work with.
+🔴 Empathy
+Empathy leads to smarter decisions. Take an interest in what people are going through, so you can help make it better.
+Assume positive intent. Think and say positive things , and assume others are doing the same. Keep it light.
+Be a helper. Take care of customers first. But give hospitality and service with a smile to everyone you can.
+Read what you write. Shorten it. Repeat .
+Get curious. Wonder about things. Notice. Ask people genuine questions, and listen closely.
+🟠 Ownership
+It takes a fully-activated mind to achieve ambitious goals, and remote work requires self-discipline. Think like an owner of the company.
+Be reliable. Reply quickly to email, Slack, and GitHub. Prepare for meetings. Arrive on time . Use handbooked processes and decisions .
+Finish what you start. Follow through on commitments. Take responsibility for mistakes. There's no time for finger-pointing. Just fix it .
+No one is coming. Take care of things that need doing , or loop in the right people . It's up to you.
+Think long term. Contribute to the big picture , beyond your department's goals. Reduce maintenance. Beware the thicket.
+🟢 Results
+We work to get results. How we work determines what we get. Aim to deliver results daily.
+Iterate. Look for ways to make smaller changes , more often. Always publish.
+Start quickly. Be 70% sure. Resist bike-shedding . Between overthinking and rushing, there is a golden mean .
+Keep it simple. Avoid preemptive structure. Reuse systems. Prefer "boring solutions" . Spend less . Avoid adding steps, especially handoffs.
+Be realistic. Focus on one task at a time. Resist the urge to commit to every good idea. Work hard . Schedule time off to recharge.
+🔵 Objectivity
+To reach our goals, we need to see reality clearly .
+Find the bottleneck. When something isn't working, look for the worst part.
+Fix that first .
+Change your mind. Be willing to reconsider in the face of new evidence. Escape the sunk cost fallacy .
+Be rigorous. A lucky streak can do more harm than good. Understand why it works first. Change one variable at a time.
+Think for yourself. Remember how often conventional wisdom isn't.
+🟣 Openness
+Take the time to make yourself and your work visible. This also takes courage.
+Write it down. Let people find and reproduce your decisions . Remove outdated content so your writing is trustworthy, and write simply so it is outsider friendly.
+Have short toes. Everyone can contribute. Get comfortable with others contributing to your work .
+Public by default. Get comfortable making decisions, being wrong, and being right in front of others. Redact non-public info carefully.
+Speak freely. Interrupt and be interrupted. Give pointed, respectful feedback, even when you disagree and commit to the DRI's decision.
+History
+2014: Origins of osquery
+In 2014, our cofounder Zach Wasserman, together with Mike Arpaia and the rest of their team at Facebook, created an open source project called osquery .
+2016: Origins of Fleet v1.0
+A few years later, Zach, Mike Arpaia, and Jason Meller founded Kolide and created Fleet: an open source platform that made it easier and more productive to use osquery in an enterprise setting.
+2019: The growing community
+When Kolide's attention shifted away from Fleet, and towards their separate, user-focused SaaS offering, the Fleet community took over maintenance of the open-source project. After his time at Kolide, Zach continued as lead maintainer of Fleet. He spent 2019 consulting and working with the growing open source community to support and extend the capabilities of the Fleet platform.
+2020: Fleet was incorporated
+Zach partnered with our CEO, Mike McNeil , to found a new, independent company: Fleet Device Management Inc. In November 2020, we announced the transition and kicked off the logistics of moving the GitHub repository.
+2022: Millions of hosts
+Fleet raised its Series A funding round. The world now has at least 1.65 million computers and virtual hosts enrolled in Fleet, including enterprises, governments, startups, families, and hobbyist racks all over the world.
+2023: Your last MDM migration
+Fleet added support for scripting and management capabilities on macOS, Windows, and Linux devices, allowing IT departments to manage devices more consistently using modern tooling and best practices. This allowed many customers to simplify their management practices. In several cases, Fleet was also able to save customers several hundreds of thousands of dollars (USD) by cutting tool overlap across platforms such as Jamf, Airwatch, Intune, MobileIron, Nexthink, Tanium, Uptycs, and Rapid7.
+2024: Fleet is growing globally
+Fleet has expanded into 90+ countries, with 100+ customers and 2.24 million computers and virtual hosts enrolled (including the world's most powerful computers).
+2025: Android support
+After growing revenue 6x during the previous two years, Fleet raised its Series B funding round, bringing total funding up to $52M, and announced support for Android devices.
+2026: Mainstream adoption
+Of the 8 most anticipated IPOs in 2026, over half are Fleet customers.
+Still curious? Check out this visualization of the Fleet repo over the years or listen to this conversation between Zach and Mike Arpaia about the origin story of osquery .
+Org chart
+To provide clarity about decision-making, responsibility , and resources, everyone at Fleet has a manager, and every manager has direct reports. Fleet's organizational chart is accessible company-wide as a sub-tab in "🧑‍🚀 Fleeties" (private google doc) . On the other sub-tabs, you can also check out a world map of where everyone is located, hiring stats, and fun facts about each team member.
+🚀 Engineering : The Engineering department at Fleet is directly responsible for writing and maintaining the code for Fleet's core product, as well as Fleet's Information technology (IT) infrastructure.
+🦢 Product Design : The Product Design department is directly responsible for defining and prioritizing the changes made to the core product, Fleet API, and reference documentation.
+🌐 IT : The IT department is directly responsible for Fleet's internal IT/Security policies and dogfooding Fleet the product.
+🌦️ Customer Success : The customer success department is directly responsible for ensuring that customers and community members of Fleet achieve their desired outcomes with Fleet products and services.
+🐋 Sales : The Sales department is directly responsible for attaining the revenue goals of Fleet, solutions consulting, and helping customers deliver on their objectives.
+🫧 Marketing : The Marketing department is directly responsible for growing awareness of Fleet, customer training curriculum, and prospect enablement, and nurturing the community through participation in events, conversations, and other programs.
+💸 Finance : The Finance department is directly responsible for accounts receivable including invoicing, accounts payable including commission calculations, compliance, expense reporting including Brex memos and maintaining accurate spend projections in "🧮The numbers", sales taxes, payroll taxes, corporate income/franchise taxes, financial operations including bank accounts and cash flow management, Zapier flows, as well the internal tooling, automation, and technology behind Fleet's Go-To-Market (GTM) systems.
+🧑‍🚀 People : The People department is directly responsible for Fleet's culture, human resources, benefits, opening positions, compensation planning, onboarding, offboarding, remote work, the handbook, issue templates, Docusign templates, key spreadsheets, and project management tools.
+Advisors
+While most improvements at Fleet are driven by informal conversations with customers and open-source contributors, the company also has a few dozen advisors and investors, including
+Sid Sijbrandij (GitLab) , Dylan Field (Figma) , Mike Arpaia (osquery) , Suresh Batchu (MobileIron) , Kevin Mahaffey (Lookout) , Scott Lundgren (Carbon Black) , Sanjay Poonen (Workspace ONE) , John Marcante (Vanguard) , Guillermo Rauch (socket.io) , and other smart people who are eager to help . If you have a question for one of them, Fleet's CEO is happy to introduce you. ( Just ask .)
+{{page.pageTitle}}
+{{link.headingText}}
+Device management
+Software management
+Documentation
+API
+Release notes
+Downloads
+About
+Trust
+Jobs
+Logos/artwork
+Why open source?
+SOC2 Type 2
+Privacy

@@ -1,0 +1,23 @@
+Careers at Loops
+A small, fully remote team building email for software companies.
+We have no open roles at the moment. Thanks for your interest in Loops.
+You can browse Work at a Startup to find roles at other startups.
+If you think you would be a good fit for Loops even though a role is not available, just email Chris and share why.
+What we work on
+Loops is the email platform for software companies. Chris and Adam started it in 2022, and Framer, Linear, Perplexity and Granola are among its customers today.
+A few recent projects: we moved production to AWS over six months with zero downtime, paused deploys over Black Friday so customer campaigns went out on time, and worked out why Gmail flags youtu.be links in tracked emails.
+How we work
+Small and remote
+Eleven people, fully remote. We hire 1 to 3 people a year.
+Ship daily
+We ship to production throughout the week, Fridays included. Engineers get their own pull requests tested, approved and deployed.
+Async by default
+We communicate asynchronously and trust each other to manage time and attention.
+Write it down
+We write things down, so context is easy to find later. Even our Black Friday code freeze started as a written RFC.
+Close to customers
+Everyone stays close to customers. Framer, Cosmos and Runable each have a shared Slack channel with the team.
+Keep it simple
+We keep the product simple. Cosmos says Loops has “everything we need without the bloat.”
+Read how we build on the Engineering blog , or meet the team on the About page .
+Choose a time

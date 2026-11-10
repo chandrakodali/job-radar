@@ -1,0 +1,224 @@
+Store billions of files, and serve them fast!
+Fast, simple, scalable storage
+that protects your data
+SeaweedFS Enterprise adds recovery from human mistakes, cost-saving erasure
+coding, and priority support to the open-source distributed store you already
+run — S3 objects, Iceberg tables, and POSIX files from one cluster.
+Get Started Free
+Compare Editions
+Free
+Dev & Test under 25TB
+$2/TB
+Per Month
+$20/TB
+Per Year
+Trusted by
+Cisco
+NVIDIA
+Proton
+TrueNAS
+Ænix
+Why SeaweedFS
+What sets SeaweedFS apart
+Scroll to move through them — one feature at a time.
+S3 over RDMA
+Payloads over RDMA. Same S3 API.
+Each volume server RDMA-writes its chunks straight into your client's
+buffer — kernel-bypass, zero-copy, ~5× HTTP for
+large objects in lab benchmarks. The S3 API stays the control plane:
+same endpoint, same SigV4, same buckets.
+See S3 over RDMA
+# an ordinary signed GET + one header
+GET /datasets/ckpt.bin
+x-amz-rdma-token: a1b2…:1:0a00…
+# volume servers push the bytes by RDMA;
+# the HTTP reply carries headers only
+HTTP/1.1 200 OK
+x-amz-rdma-reply: 200
+x-amz-rdma-bytes-transferred: 67108864
+Sealed Directories
+Drastically less metadata to store.
+Sealed directories pack cold entries into compressed, erasure-coded volume
+chunks — the filer store shrinks 18–58× ,
+measured on a live cluster, and everything stays readable in place.
+See the metadata math
+Filer metadata store — live cluster
+15.77M entries across 457,795 directories
+Before sealing
+933.5 MiB
+After sealing the whole tree
+52.4 MiB
+18× smaller
+up to 58× on trees with larger directories
+Point-in-Time Recovery
+Undo anything. To the exact second.
+Snapshots only protect the moments you scheduled. SeaweedFS records every
+change in a retention window — roll a folder, bucket, or object back
+to any second , overwrites and renames included, with a
+preview before anything moves.
+See how recovery works
+A bad ETL run overwrites /buckets/prod at 14:02
+One day, on two recovery models
+Snapshot schedules
+restore points every 4 h
+nearest restore point: 12:00 — two hours of writes lost
+SeaweedFS PITR
+any second in the retention window
+restore to 14:01:59 — nothing lost
+RPO ≈ 0
+for mistakes, bad jobs, and rogue agents
+Kernel Mount
+A real mount. Flat memory. Any scale.
+mount -t seaweedvfs is a native Linux filesystem, not FUSE.
+The client keeps no per-file state — its memory is sized by in-flight
+I/O, not file count, so the daemon’s heap measures the same at
+33M files as at 500K while FUSE mounts grow into gigabytes and OOM.
+Meet the kernel mount
+Client memory growth with file count
+FUSE figures: process heap after a metadata-only tree walk, measured; 33M as reported in seaweedfs#10020. Kernel-mount figure: total daemon memory from idle to heavy streaming — sized by I/O activity, never by file count
+Go FUSE mount — 2M files
+1.24 GB
+Go FUSE mount — 33M files
+6.8 GB
+Kernel mount — any file count
+6–300 MB
+Flat
+grows with I/O activity, never with file count — it can’t OOM on your namespace
+Customizable Erasure Coding
+Full protection at 1.2×. Not 3×.
+Tune erasure coding to your hardware: a 20+4 ratio survives four
+simultaneous disk failures on 60% less raw capacity than
+triple replication — and automatic repair rebuilds lost shards on
+its own.
+Tune your EC ratio
+Raw capacity to store 10 PB, fully protected
+Replication vs. erasure coding
+3-replica
+30 PB
+EC 10+4 (default)
+14 PB
+EC 20+4 (Enterprise)
+12 PB
+1.2× overhead
+still survives 4 simultaneous disk failures
+One Engine
+One cluster. Every protocol.
+S3 objects, POSIX files, HDFS jobs, and Iceberg tables served from the
+same cluster and the same copy of the data — no gateways, no sync
+jobs between systems, no second storage bill.
+Deploy one cluster
+# one cluster, every interface
+$ weed server -s3 -webdav
+✓ S3 API :8333
+✓ POSIX mount -t seaweedvfs · FUSE
+✓ HDFS-compatible seaweedfs://
+✓ Iceberg REST catalog built in
+✓ WebDAV :7333
+Iceberg Tables
+A lakehouse with no extra parts.
+The built-in Apache Iceberg REST catalog serves S3 table buckets directly
+— no separate catalog service — and compacts Parquet files and
+cleans up snapshots in the background. Query from Spark, Trino, Dremio,
+or DuckDB.
+Explore Iceberg tables
+# nothing else to deploy
+✓ REST catalog served by the cluster itself
+✓ Table maintenance Parquet compaction + snapshot cleanup
+✓ Query engines Spark · Trino · Dremio · DuckDB
+# your tables live in ordinary S3 buckets —
+# erasure-coded, recoverable, portable
+Enterprise
+Three things Enterprise adds
+Add a license key to your existing cluster — same deployment, same APIs, same
+tools — and get production data protection, lower storage cost, and operational
+control. Free for dev & test under 25TB.
+Protect · undo mistakes, survive failures
+Data Recovery
+Undelete files within a configurable retention window. SeaweedFS delays garbage collection and replays the filer log so operators can restore from the Admin UI — no snapshot needed. Learn more →
+Roll a folder, bucket, or object back to exactly how it looked at a chosen moment — reverting overwrites and restoring deletes across a whole subtree, with a preview before anything changes. Learn more →
+Self-Healing Storage
+Automatically detects and removes corrupted data entries, keeping your data intact even after an unexpected server shutdown. Learn more →
+Automatic EC Repair
+Detects and rebuilds missing or corrupted erasure-coding shards on its own, keeping data available through disk and node failures. Learn more →
+EC Bitrot Scrub
+Periodically verifies every erasure-coded shard against a checksum — catching silent disk corruption, even in cold parity shards reads never touch, and (optionally) quarantining bad shards so EC rebuild regenerates a clean copy. Learn more →
+Save · store more on the same hardware
+Customizable EC Ratio
+Tune erasure coding to your hardware. A 20+4 ratio gives full failure protection at just 1.2× storage overhead — far less than 2–3× replication. Learn more →
+zstd Compression
+New data is compressed with zstd by default — typically 10–30% smaller than gzip and several times faster to decode, with no format change and nothing to migrate. Learn more →
+EC Volume Vacuum
+Automatically compacts erasure-coded volumes to reclaim the space left behind by deleted data — no manual maintenance windows. Learn more →
+Remote Volume Vacuum
+Reclaims deleted-byte cost in cloud-tiered volumes by compacting the remote object on a worker — no volume-server disk needed, and it runs in the background. Learn more →
+Packs a cold directory's entries into compressed, volume-stored chunks — roughly 18–58× less filer metadata for that subtree. Seal it frozen and read-only, or mutable and still writable with automatic re-compaction. Learn more →
+Operate · run it securely in production
+GET and PUT payloads move kernel-bypass, zero-copy between client memory and the volume servers over one-sided RDMA — while the ordinary S3 API stays the control plane. Learn more →
+Admin UI with OIDC
+Sign operators in through your existing identity provider with admin or read-only roles mapped from their groups — no separate passwords. Learn more →
+Multi-Tenancy & S3 QoS
+Isolate tenants and cap per-tenant S3 request rates so one noisy workload can't starve the rest of the cluster. Learn more →
+Priority Support & License Fallback
+Email, Slack, and Telegram support with a response within 24h on business days — and a license fallback that keeps your cluster serving if a license check is ever delayed. Learn more →
+Platform
+Built on open-source SeaweedFS
+Enterprise rides on the battle-tested open-source core: a single distributed engine
+that serves as your S3 object store, Iceberg table warehouse, and POSIX filesystem
+— all from the same cluster, with your data still portable and yours.
+Object Store
+S3-compatible distributed object store. Scales linearly from gigabytes to petabytes with sub-millisecond lookups.
+Iceberg Catalog & Maintenance
+A built-in Apache Iceberg REST catalog over S3 table buckets — no separate catalog to deploy. It compacts Parquet files and cleans up in the background. Query from Spark, Trino, Dremio, DuckDB, and more.
+POSIX File Mount
+Mount over FUSE or the kernel mount — 100% POSIX (hardlinks, permissions, atomic renames), with peer-to-peer chunk sharing between clients to accelerate repeated reads.
+Built for scale
+O(1) Disk Reads
+Every file resolves to a single disk seek, so read latency stays flat and sub-millisecond whether you store millions or billions of files.
+Append-Only Writes
+Writes only ever append — never overwrite in place. Sequential I/O keeps ingestion fast and makes data immutable and recoverable by design.
+Linear Scalability
+Add nodes to scale capacity and throughput predictably. Proven at petabyte scale with billions of files.
+HDFS & Kubernetes
+Works as a drop-in HDFS replacement and runs natively on Kubernetes with a first-class Helm chart and CSI driver.
+How It Works
+Add a License Key. Keep Everything Else.
+SeaweedFS Enterprise extends the open-source cluster you already run. There is no migration and no new architecture — just a license key.
+Same deployment, same APIs, same tools
+Protection runs in the background automatically
+No vendor lock-in — your data stays portable
+Free for dev & test under 25TB with no feature gates
+Deploy Now
+# Start with your existing SeaweedFS cluster
+$ weed server -master.port=9333
+# Apply your enterprise license
+$ weed shell
+> license.set -file=license.key
+# Protection is now active
+✓ License verified
+✓ Self-healing enabled
+✓ EC repair active
+Comparison
+Open Source vs. Enterprise
+Same architecture and APIs. Enterprise adds data protection, efficiency, and support on top of the foundation you already trust.
+Capability
+Open Source
+S3 / FUSE / HDFS / Iceberg APIs
+Erasure Coding
+✓ Fixed ratio
+✓ Customizable (e.g. 20+4 = 1.2×)
+Storage Compression
+✓ gzip
+✓ zstd by default + gzip
+S3 over RDMA (kernel-bypass object payloads)
+Sealed Directories (filer metadata reduction)
+Data Recovery (undelete)
+Automatic EC Repair & Vacuum
+Remote Volume Vacuum (cloud-tier reclaim)
+EC Bitrot Scrub (silent corruption)
+Central Metrics Monitoring (Admin UI dashboards)
+Support
+Community
+Email / Slack / Telegram — within 24h
+Ready to Protect Your Data?
+Evaluate up to 25TB free for development and testing. No credit card required. Add a license key to your existing cluster and turn on protection in minutes.
+Contact Us

@@ -1,0 +1,131 @@
+About Helply
+We've been thinking about customer support for 14 years.
+We spent 14 years building support software. Then AI showed us the help desk itself needed to change.
+Trusted by 1,400+ companies globally
+First, we built Groove.
+In 2011, we set out to build a simpler alternative to Zendesk. No bloated software. No endless configuration. Just an easier way for teams to support their customers.
+Over the next 14 years, thousands of companies used Groove. That gave us a front-row seat to how customer support works.
+The hardest part wasn't writing the reply. It was figuring out what the reply should say.
+Then our customers started asking for AI.
+As AI improved, our customers wanted it inside Groove. So we added AI-generated replies, summaries, and tools that helped support teams work faster. They worked. But the underlying workflow did not change.
+Groove had been designed for humans to do the work. Its inbox, workflows, permissions, data model, and economics reflected that assumption. People still opened tickets, gathered context, and handled each issue manually.
+We could keep adding AI features. Or we could rethink the help desk itself.
+At the same time, we were experimenting ourselves.
+We started using Claude inside our support operation. At first, it answered questions and drafted replies. Then we connected it to our knowledge, customer data, product information, and internal systems.
+Suddenly, AI could do much more than write. It could gather context, search across systems, investigate problems, follow processes, and increasingly take action.
+The AI was getting far more capable. But our team was still orchestrating every step.
+So we asked the question:
+What if our team could direct the work instead?
+What if AI agents could gather context, investigate issues, follow processes, and take pre-approved actions before a human got involved? Humans would still own the customer experience. But they would spend less time executing every step and more time directing what happened next.
+That became Helply.
+An agentic customer support platform built for humans and AI agents to work together.
+Gather the right customer context.
+Investigate what happened.
+Search knowledge and connected systems.
+Follow your team's processes.
+Resolve issues and take approved actions.
+Surface risks and opportunities.
+Bring in a human when judgment is needed.
+Your team stays in control, setting direction, handling exceptions, making strategic decisions, and improving how the system works.
+Our team moved from doing the work to directing it.
+And we're using it ourselves.
+We didn't build Helply around demos or hypothetical workflows. Our support operation became its first proving ground.
+At our peak, 6 full-time people supported 1,400 customers. Today, 2 people support that same customer base. Most importantly: we do not plan to add another support person as we add our next 1,000 customers.
+This isn't about replacing support teams. It's about giving every person more capacity.
+That's why every plan from Team up includes unlimited view-only seats.
+Bring in Product, Engineering, Customer Success, and leadership to read conversations and leave notes, with AI credits pooled across your workspace.
+What we believe
+Humans should direct more of the work.
+AI agents can gather context, investigate, follow processes and take action. People should spend more of their time setting direction, exercising judgment and handling the moments that need them.
+AI should be more than a writing assistant.
+Drafting replies is useful. But the bigger opportunity is everything that happens before and after the reply.
+Humans aren't disappearing.
+The goal isn't support without people. It's giving great support people more leverage.
+AI should be foundational, not bolted on.
+The next generation of support software can't be the old help desk with AI features added to it. Humans and agents need to be part of the architecture from the beginning.
+Pricing should reflect how work gets done now.
+That's why every plan includes AI credits, pooled across your workspace and priced by the work the AI does.
+14 years later, we're still obsessed with support.
+We've helped thousands of teams support millions of customers. Helply is the culmination of everything we've learned about what great support teams need, rebuilt for what comes next.
+We're just getting started.
+In one sentence
+Helply is an AI-native customer support platform that resolves, investigates, and acts on customer conversations for B2B software and B2C, ecommerce, and marketplace teams.
+What Helply does
+Support Agent
+Talks to customers directly on every channel, investigates using the knowledge base, customer history, and connected tools, and resolves issues end to end. When it can’t, it hands off to a person with the work already done.
+Assist Agent
+Works alongside a human inside the conversation, investigating, drafting replies, and taking the actions the human approves. The result is a support teammate who moves faster with more context.
+Background Agents
+Watch every conversation and act without being asked, covering churn risk, knowledge gaps, expansion revenue, feature requests, and emerging trends. Teams can also build their own for any recurring job.
+The full help desk
+Shared inbox and ticketing, messaging and live chat, a knowledge base and help center, analytics, customer records, and workflows: everything you expect from Zendesk, rebuilt around AI agents.
+The team behind Helply
+Helply is made by the team behind Groove. Alex Turnbull founded Groove in 2011 as a simpler alternative to Zendesk and the team spent 14 years helping thousands of companies support millions of customers. When AI showed us the help desk itself needed to change, we rebuilt it around AI agents and became Helply. The company is a remote-first team spanning product, engineering, support, and go-to-market.
+Alex Turnbull
+Founder & CEO
+Alex started Groove in 2011 to build a simpler alternative to Zendesk and led it for 14 years. He now leads Helply as CEO.
+Jared Scheel
+CTO
+Jared has built the product and engineering behind the platform since the Groove days and leads Helply’s technology as CTO.
+How Helply works
+Book a demo or start a free trial.
+Start with a 14-day free trial that needs no card, or book a demo to see Helply against your own workflows. No sales gate stands between you and the product.
+Migrate from your current help desk.
+Bring your history over from Zendesk, Intercom, Freshdesk, Help Scout, Front, or Groove. Enterprise plans include dedicated migration, and every plan connects your knowledge, customer data, and tools so agents have context from day one.
+Meet customers where they already are.
+Helply handles email, live chat, Slack, Microsoft Teams, WhatsApp, Discord, Telegram, and phone and SMS from one shared workspace, so every conversation lands in the same place.
+Your team directs, the agents do the work.
+AI agents gather context, investigate, and take pre-approved actions, then bring in a person when judgment is needed. Your team sets direction, handles exceptions, and improves how the system runs.
+Key facts
+Company name
+Helply (Helply, Inc.), formerly Groove
+Type
+AI-native customer support platform
+Founded
+2011 (as Groove)
+Founder
+Alex Turnbull (Founder & CEO)
+Headquarters
+Remote-first
+Website
+helply.com
+Core offering
+A full help desk (shared inbox, messaging, knowledge base, analytics, workflows) with AI agents built into every part
+Pricing
+Starter is $79 a seat a month for up to 3 seats. Team, Pro and Growth are $499, $999 and $1,999 a month, with seats and AI credits included. See current pricing.
+Contract terms
+Month-to-month; Enterprise is billed annually. 14-day free trial with no card.
+Services
+Support Agent, Assist Agent, Background Agents, shared inbox & ticketing, messaging & live chat, knowledge base, analytics, workflows
+Communication
+Email, live chat, Slack, Microsoft Teams, WhatsApp, Discord, Telegram, phone & SMS
+Notable clients
+Sender.net, Covidence, Proposify, Kameleo, AirGigs, Gatekeeper Press, LingQ, MixWave, MyBaggage, StaffTraveler
+Customers served
+1,400+ companies since 2011
+Support scale
+2 people support 1,400 customers using Helply’s own AI agents
+Competitors
+Zendesk, Intercom, Freshdesk, Front, Help Scout, Pylon, Plain
+Social
+LinkedIn
+Frequently asked questions
+Start your free trial today
+Start free trial
+What is Helply?
+Helply is an AI-native customer support platform: a full help desk (shared inbox, messaging, knowledge base, analytics, and workflows) with AI agents built into every part. It is not a chatbot, and it is not B2B-only.
+Is Helply the same company as Groove?
+Yes. Helply is made by the team behind Groove, which launched in 2011. Groove is now Helply, rebuilt around AI agents.
+How is Helply priced?
+Starter costs $79 a seat a month for up to 3 seats, with 500 AI credits per seat. Team, Pro and Growth cost $499, $999 and $1,999 a month and include seats, unlimited view-only seats and AI credits. See helply.com/pricing for current numbers.
+How is Helply different from Zendesk and Intercom?
+Helply is built around AI agents from the ground up instead of adding AI features to a legacy help desk. It charges for AI work in pooled credits rather than per resolution. It replaces Zendesk, Intercom, Freshdesk, Front, Help Scout, Pylon, and Plain rather than integrating with them.
+Does Helply replace my support team?
+No. Helply gives each person more leverage. Its own support team went from 6 people to 2 for the same 1,400 customers, with humans directing the work and handling the moments that need judgment.
+Can I try Helply before buying?
+Yes. There is a 14-day free trial that requires no card. You can also book a demo to see Helply run against your own workflows.
+Is Helply secure?
+Helply is SOC 2 Type II compliant and GDPR compliant, and customer data is never used to train AI models. Details and sub-processors are at helply.com/trust.
+See what your support team can do with AI agents.
+See how Helply can work alongside your team to investigate, resolve, and act on customer conversations.
+AI credits pooled across your workspace. Book a demo →

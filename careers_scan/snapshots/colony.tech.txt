@@ -1,0 +1,29 @@
+> About Our Mission Leadership Roadmap
+> Careers Recruitment
+World Models
+Company ▸
+About
+Mission
+Leadership
+Roadmap
+Careers
+Work with us
+Company / Careers
+Build systems that operate where people cannot.
+Colony is a team of engineers, operators, and builders creating autonomous platforms for the world's most demanding environments. If you want your work to ship in the real world, not just on a screen, this is the place.
+How We Work
+Small Teams, Full Ownership
+Every team at Colony owns their problem end to end. No handoffs between departments, no approval chains that stall progress. You design it, build it, test it, and deploy it. The people closest to the problem make the decisions.
+Hardware Meets Software
+Our work spans mechanical design, embedded systems, flight control software, computer vision, and cloud infrastructure. If you thrive at the intersection of physical systems and intelligent software, you will find problems worth solving here.
+Field-First Mentality
+Every engineer deploys to the field. We believe you cannot build reliable autonomous systems from a desk. Regular field operations keep the team grounded in real-world constraints and ensure our technology performs when it matters.
+Why Colony
+Impact You Can Measure
+The systems you build will replace manual operations across construction sites, remote terrain, and contested borders. Your work ships to the field, not to a backlog. You will see the operational impact of your engineering within weeks, not quarters.
+Hard Problems, Serious Tools
+Autonomous navigation in GPS-denied environments. Multi-vehicle coordination across heterogeneous fleets. Real-time sensor fusion at the edge. We invest in the tools, compute, and testing infrastructure our teams need to solve these problems properly.
+Competitive Compensation
+Market-rate salary, meaningful equity, comprehensive benefits, and relocation support. We hire the best and compensate accordingly. No games with offers, no lowball anchoring. We want people who stay because the work is exceptional.
+See open positions.
+View Roles

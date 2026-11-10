@@ -1,0 +1,30 @@
+Careers at Codethink
+Becoming a Codething is more than just a job. Codethink provides a supportive and friendly working environment with lots of room to learn and develop your professional capabilities, working on challenging and interesting projects for a range of world-leading companies.
+We help our clients tackle their most complex software challenges. We not only apply technologies intelligently, but we outperform larger teams at competing organisations.
+Our Values
+We aim to be great at software design and development, and to help improve the practice of software engineering as a real engineering practice. This can be seen through our ‘ Software Commandments ’.
+What we offer
+A competitive salary with annual salary reviews
+Personal budget of up to £2,500 per year for training and conferences
+Regular performance reviews to support your continued professional development
+Flexible approach to working
+25 days of holiday plus the statutory bank holidays
+Supportive working environment and culture
+Desirable office location in Manchester City centre
+Opportunities to travel and do great work for our global customers
+Employee Assistance Programme (EAP)
+You'll also receive benefits such as
+Casual dress code
+Company fun days and social events
+Free snacks, fruit, tea and coffee
+Events
+We regularly fund and participate in events, ranging from small open-source meetups to the biggest events in the tech industry. There are some great example on our events page.
+Exciting Work
+We work on numerous projects both in the open and proprietary. As a result, we are able to offer a broad variety of interesting projects. Some great examples are as follows:
+In 2022 we collaborated with Flathub , a major Linux app store, working towards enabling payments for app developers
+Hardware bringup is a common task for our clients, check out our public work on the PinePhone , and Icicle RISC-V devboard
+We even do hardware development, recently releasing our own open-hardware USB-C switch , and a prototype heart rate sensor
+We help customers with end-to-end testing, and we've brought this to some open projects too such as Linux and GNOME
+Get in touch to find out how Codethink can help you
+connect@codethink.co.uk
++44 161 660 9930

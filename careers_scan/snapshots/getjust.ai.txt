@@ -1,0 +1,114 @@
+our agents write for
+Coursera Notion ClickUp Lemonade Mercury Outschool Pinterest Namecheap Better Handshake Experian Coursera Notion ClickUp Lemonade Mercury Outschool Pinterest Namecheap Better Handshake Experian
+now hiring
+We taught machines to market.
+now we need humans.
+engineering
+Full Stack Software Engineer
+$120K–$160K apply now →
+go-to-market
+Account Executive
+$150K–$350K apply now →
+Cards flip through all 2 open roles — click one to apply, or see the full list with details ↓
+why we're here
+"Every message a company sends should feel like it was written for exactly one person. We're building the machine that makes that true — and we're excited to build the future with you."
+Neha Mittal
+Co-Founder & CEO, JustAI
+what you actually get
+Founders Neha Mittal & Jeff Hara saw it firsthand at Twitter and Pinterest: one message tweak could bring a million users — but testing took forever. JustAI is the fix.
+Meaningful early equity — you're building the company, you should own it
+Backed by Base10, Y Combinator and Peak XV — $17M Series A
+Pay ranges public on every role; competetive comp package
+In-person energy in San Francisco — customers and frontier labs next door
+Life at JustAI
+Small team. BIG table.
+Eleven people, one room in San Francisco, and a standing rule that wins get celebrated properly. Here's what that actually looks like.
+our values · how we work
+Six values we run on — not poster words.
+This is not a place to coast. It's a place to compress a decade of learning into two years, ship things you're slightly afraid of, and watch them run at a scale most engineers never touch. These are the values we hold each other to, every day.
+We're a sports team,
+not a family.
+High performance, clear roles, direct feedback. We coach, not coddle — when someone needs support, we have open and constructive conversations. And when we win, we win as a team.
+Honesty & trust
+>> skills and numbers.
+To ourselves. To the team. To the customer. Do the right thing even when no one's watching. We'd rather build with trustworthy people than brilliant mercenaries.
+Bring your heart to work.
+Be passionate. give it all.
+We're doing this because we choose to — acknowledge the privilege. We show up fully, intellect + emotion. Building this company is an emotional, deeply personal journey, and we wouldn't want it any other way.
+Think long term,
+act short term.
+Bold, well-thought-out decisions from first principles. Avoid hype, think big. Speed, focus, and discipline guide us — the gap between “idea” and “live in production” here is measured in days, sometimes hours.
+Accountability is everything.
+communication is the key.
+“Deal with it.” Nothing is beyond or beneath you. Communicate proactively to set expectations. Accountability isn't about blame — it's about ownership and clarity.
+Customer first,
+not AI first.
+We exist to solve for humans. Every product conversation starts with “what's the customer's problem?” — because tech only goes as far as customer adoption. Handshake, Coursera, ClickUp, and Notion bought results.
+the work
+You won't maintain software.
+You'll raise a workforce.
+JustAI is a team of autonomous agents that run lifecycle marketing end to end — and a team of humans who make those agents smarter every week. Whatever you join to do, this is the machine you're building.
+reads the data
+Strategy Agent
+Uncovers patterns between users who convert and those who don't — predicting rich cohorts, untapped segments, and high-leverage moments. The problems here are pure applied ML at unfair scale.
+writes the words
+Creative Agent
+Blends brand voice, user insight, and product knowledge into conversion-ready content — millions of on-brand variants, zero copywriter burnout. LLM orchestration with real constraints and real stakes.
+makes the call
+Decisioning Agent
+Real-time reinforcement learning across channels: identifies winning variants and routes traffic to what performs, turning every send into a self-improving loop. Bandits, in production, at billions of decisions.
+closes the loop
+Data Agent
+Turns billions of events into instant, actionable insight so no one ever waits for an analyst again. The infrastructure under this is the kind of thing infra engineers brag about at parties.
+300 +
+segments personalized for one customer
+16 %
+compounded growth for grammarly
+100 +
+content variants tested for notion
+days
+from campaign idea to live — was months
+open roles
+Two seats.
+Choose your weapon.
+All roles are in-person and full-time in San Francisco — no remote, no hybrid — and open only to candidates already authorized to work in the U.S. We build shoulder to shoulder. Pay ranges are public on every role. Click one for the full picture, apply right here in two minutes. Every application is read by leadership, not a filter.
+$120K – $160K 0.10% – 0.50% equity Full-time 2+ years San Francisco No remote, in-person only US applicants only
+Design, implement, and QA large customer features end-to-end — from scoping emergent customer needs with product and design to shipping across our entire stack. Big ambiguous problems, clear milestones, measurable outcomes.
+what you'll do
+Own projects from initial scoping to production — break ambiguity into milestones.
+Own quality across the full lifecycle: testing, launch, and rollout.
+Partner with product and design on tradeoffs between feasibility and experience.
+what we look for
+2+ years of full-stack experience with strong backend skills.
+You've built platforms end-to-end with a focus on product requirements.
+Quick learner who thrives in a fast-paced, constantly evolving environment.
+$150K – $350K 0.10% – 0.50% equity Full-time 2+ years San Francisco No remote, in-person only US applicants only
+Our first dedicated sales hire , selling an AI marketing platform that Coursera, Notion, and Handshake already run on , backed by a $17M Series A. Own revenue from first conversation to signed contract, working directly with the CEO — with founder air cover on every deal.
+Run end-to-end sales cycles: discovery, demos, negotiation, close.
+Sell to CMOs and growth leaders at enterprise companies.
+Own pipeline creation — outbound, inbound, strategic prospecting.
+Define our early sales process, messaging, and ideal customer profile.
+2+ years as an AE, closing mid-market or enterprise deals end to end.
+You can run the show — context-switch, prioritize, operate autonomously.
+Fluent with both technical and non-technical stakeholders.
+You thrive in fast-moving, ambiguous, 0-to-1 environments.
+the process
+Days, not months.
+We move like we build.
+step / 01
+Apply right here
+Two minutes, on this page. No account creation, no cover letter theater. Leadership reads every application within 48 hours.
+step / 02
+Leadership chat — 30 min
+A real conversation with a founder about the work: your judgment, your taste, the hardest thing you've shipped. No riddles.
+step / 03
+Working loop — 2 hrs
+A focused on-site session on a real problem from our roadmap. You see exactly how we operate; we see exactly how you think.
+step / 04
+References & offer
+Quick reference checks, then an answer within days — always with honesty. If it's yes, we'll make it very hard to say no.
+last call
+The next era of marketing is being written right now.
+hold the pen.
+If you read this far, some part of you already knows. Don't see your role? Convince us we need one.
+See open roles

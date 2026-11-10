@@ -1,0 +1,39 @@
+Careers
+We are not actively
+hiring right now.
+Datoric is a small team. We grow by intent rather than by headcount target, and we open roles only when there is a specific problem that needs a specific person. There are no open opportunities at this time.
+Status
+No open roles
+Last verified July 17, 2026.
+We post openings on this page when they exist. We do not post aspirational job descriptions.
+When we do hire
+Roles open up around specific research questions, not around fixed job ladders.
+When we identify a question that the current team is not the right shape to answer, we describe the question publicly and invite people whose work suggests they would be the right shape to answer it. The role exists because the question exists, not the other way around.
+If that approach sounds familiar, you may be the kind of person we want to know about before there is a role to attach to.
+How we work
+Four principles that shape who we work with.
+№ 01
+Empirical first
+We measure what we claim and state which supporting datasets, code, outputs, and review materials are public for each research note.
+№ 02
+Small teams, full ownership
+We do not staff layers between researchers and the work. The person designing the benchmark owns its methodology, documents its limitations, and answers corrections.
+№ 03
+Boring tools, sharp questions
+We use the simplest stack that lets us run the experiment. Our edge is the question we are asking, not the framework we are using to ask it.
+№ 04
+Long horizon
+We care about whether a finding is still true in five years. That bias shapes everything: what we publish, what we measure, and who we want to work with.
+People we want to know
+Even with no role open, we keep a short list of people we are tracking.
+01 Researchers who treat data provenance and documented collection requirements as first-class objects of study
+02 Engineers who can build evaluation harnesses that survive contact with real models
+03 Roboticists who understand embodiment, manipulation, teleoperation, and the data a policy needs to learn
+04 ML practitioners who study how robot policies perform on real-world tasks
+Introduce yourself
+If you would want to work
+here when there is a role,
+tell us now.
+Send a short note about what you are working on and what you would want to work on. We read everything. We respond when there is something to respond to.
+research@datoric.com
+We acknowledge every message within two weeks.

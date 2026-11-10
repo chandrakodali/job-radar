@@ -1,0 +1,70 @@
+Hessian
+Backed by Y Combinator
+Automate the operations
+your team can't scale.
+We forward deploy engineers to automate operations across your business with AI agents.
+Book a demo
+Platform
+Our platform,
+built for you.
+Hessian is built end-to-end by us, to best serve you. We ship new features on top of the core
+continuously — designed to meet your needs and complement the solution providers you already
+rely on.
+runz_2aisfyz4vz2anpsrqp5tga
+Integrations
+Integrate with the tools you already use.
+Docker
+Kubernetes
+Claude
+GitHub
+OpenAI
+Postgres
+Slack
+AWS
+Vault
+OpenTelemetry
+Logo.dev
+Testimonial
+"Hessian has been critical to us implementing AI workflows internally within our organization. By automating the messy, ad-hoc workflows our team was never able to standardize (sales handoffs, competitive intel, internal ops), Hessian has let our reps focus solely on closing deals which is the most valuable thing they can be doing. They also saved us from having to hire an AI engineer internally."
+Caitlin Leksana
+CEO, Fazeshift, Inc.
+Why now
+It's not the big that eat the small .
+It's the fast that eat the slow .
+Every company is trying to automate knowledge work. They've bought the tools. They've run the pilots. Almost nothing has changed — the strategy still lives on a slide.
+We build the systems that do the work, and work with you to get them into production.
+Workflows
+Built. Shipped. Running.
+Sales agents.
+Draft proposals between calls, pulling CRM, pricing decks, and customer context
+automatically.
+Financial agents.
+Reconcile invoices and prepare month-end close overnight.
+Ops agents.
+Keep internal systems in sync without anyone asking.
+Data agents.
+Create a structured brain from your data — queryable by anyone, in plain English.
+Design agents.
+Produce on-brand decks from a brief, pulling templates and assets from your brand library.
+Engagement
+How we work with you.
+01 — Embed
+We embed with your team.
+An engineer on-site, mapping how the work gets done with your team.
+02 — Build
+We build the agents on Hessian.
+Code-first, on our platform. Tools, policies, runtime, observability — already baked in
+from day one.
+03 — Operate
+We run and operate them in production.
+Every day. Every workflow. We partner with you long-term to meet your needs.
+About us
+Bao
+James
+Tom
+We're three engineers with a decade of shipping production infrastructure. Hessian is here to
+help you deliver business value where it matters.
+Founders, Hessian Inc.
+Every knowledge worker is about to operate like a team of a hundred.
+We're building the company that makes it possible.
+Book a demo Follow on GitHub

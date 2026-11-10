@@ -1,0 +1,66 @@
+Join us to create the future of Generative AI
+Who we are
+We are the proud creators of the Synthetic Data Vault, the largest source available ecosystem for generative models for tabular data. The Synthetic Data Vault is a system of source-available libraries designed to help you with synthetic data generation & evaluation!
+Work life balance
+As with all startups, work here can be both exhilarating and demanding. We value life outside of work and encourage employees to take the time off they need to rest and recharge.
+Flexible and fun working environment
+Our headquarters are in the vibrant Back Bay neighborhood of Boston and just 2 miles from MIT. We have remote employees and contractors in Spain, Portugal, California and Illinois. Throughout the year, we host various in-person events, including our annual company retreat. We also offer free meals during the work week.
+Other benefits
+DataCebo offers an array of exceptional benefits designed to support the physical, financial, and emotional wellness of our employees. Such offerings include participating in a retirement savings (401k) account as well as comprehensive health, dental and vision insurance.
+Open positions
+Change the future of synthetic data
+Business Development
+Python Backend Engineer
+Remote
+Full Time
+Product
+Product Designer
+Boston, MA or New York, NY
+Customer Success Specialist
+Sales Engineer
+Solutions Engineer
+Contact Us
+Make synthetic data a reality
+Solutions
+Use cases
+Software Testing
+Database modernization
+Training AI Models
+Sharing Data
+Teams
+Quality Assurance
+Database Architects
+The Synthetic Data Vault
+SDV Community
+SDV Enterprise
+SDMetrics
+SDGym
+Reversible Data Transforms
+Bundles
+Constraint Augmented Generation
+Differential Privacy
+Targeted Sampling
+XSynthesizers
+Pricing
+SDV Plans
+Integrations
+AI Connectors
+Company
+Careers We're hiring
+Customers
+Customer stories
+Resources
+Learning
+DataCebo hub
+Blog
+Basetransformer
+Research
+SDV Docs
+News and events
+Newsroom
+Announcements
+Get help
+Support
+Licenses
+Release notes
+DataCebo Forum
