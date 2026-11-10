@@ -18,36 +18,6 @@
   "core_remaining": 0,
   "pending": [
     {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/east-norwich",
-      "label": "East Norwich",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/east-syracuse",
-      "label": "East Syracuse",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/fairport",
-      "label": "Fairport",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/fredonia",
-      "label": "Fredonia",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/hicksville",
-      "label": "Hicksville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/irvington",
-      "label": "Irvington",
-      "count": 1
-    },
-    {
       "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/islip",
       "label": "Islip",
       "count": 1
@@ -3377,6 +3347,24 @@
     {
       "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/deer-park",
       "label": "Deer Park",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/east-norwich",
+      "label": "East Norwich",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/hicksville",
+      "label": "Hicksville",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-administrator/ny/irvington",
+      "label": "Irvington",
       "count": 1,
       "deferred_once": true
     }
