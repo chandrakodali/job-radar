@@ -380,10 +380,23 @@ STRICT_APPLY_RE = re.compile(
 )
 
 
-def email_kind(email: str, context: str) -> str | None:
-    """'hiring' (careers@...), 'contextual' (generic address next to apply/CV wording) or None."""
+# "If you need an accommodation during the application process, email recruiting@..." is not an apply route.
+ACCOMMODATION_RE = re.compile(
+    r"accommodat|disabilit|accessib|reasonable adjust|equal (employment )?opportunity|\beeo\b|"
+    r"assistance (with|during|in) (the |your )?(application|hiring)|request (an? )?(accommodation|adjustment)",
+    re.I,
+)
+
+
+def email_kind(email: str, context: str, near: str = "") -> str | None:
+    """'hiring' (careers@...), 'contextual' (generic address next to apply/CV wording) or None.
+
+    `near` is the text right around the address (about a sentence each side), used to spot
+    accommodation-request addresses."""
     local = email.split("@", 1)[0]
     if NEVER_HIRING_LOCAL_RE.match(local):
+        return None
+    if near and ACCOMMODATION_RE.search(near) and not APPLY_BY_EMAIL_RE.search(near):
         return None
     if HIRING_LOCAL_RE.search(local):
         return "hiring"
@@ -625,7 +638,8 @@ def analyze(page: str, url: str, status: int = 200) -> PageInfo:
         if pos is None:
             pos = text.lower().find(e)
         ctx = text[max(0, pos - 300): pos + 300] if pos is not None and pos >= 0 else ""
-        kind = email_kind(e, f"{link_text} {ctx}")
+        near = text[max(0, pos - 160): pos + 80] if pos is not None and pos >= 0 else ""
+        kind = email_kind(e, f"{link_text} {ctx}", near)
         if kind:
             found[e] = (kind, " ".join(ctx[max(0, (len(ctx) // 2) - 120): (len(ctx) // 2) + 120].split()))
     info.emails = [(e, k, s) for e, (k, s) in found.items()]

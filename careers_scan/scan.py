@@ -185,7 +185,10 @@ class Scanner:
         for slug in slugs[:2]:
             st, d = self.f.json(f"https://boards-api.greenhouse.io/v1/boards/{slug}")
             if isinstance(d, dict) and d.get("name") and slug_matches(d["name"], c.name, domain):
-                return "greenhouse", f"https://job-boards.greenhouse.io/{slug}"
+                # Boards outlive their use: only count one that lists jobs right now.
+                st, jobs = self.f.json(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs")
+                if isinstance(jobs, dict) and jobs.get("jobs"):
+                    return "greenhouse", f"https://job-boards.greenhouse.io/{slug}"
             st, d = self.f.json(f"https://api.ashbyhq.com/posting-api/job-board/{slug}")
             if isinstance(d, dict) and isinstance(d.get("jobs"), list) and d["jobs"]:
                 return "ashby", f"https://jobs.ashbyhq.com/{slug}"
@@ -385,9 +388,9 @@ class Scanner:
             cat = "ats"
         elif apply_emails and (ev.careers_pages or any(k == "hiring" for k in apply_emails.values())):
             cat = "email"
-            # A JavaScript careers page with only an address in its footer may still load a tracking
-            # system in the browser: check the big three before calling it email-only.
-            if ev.js_pages and not ev.apply_phrase and self.probe and c is not None and domain:
+            # Without explicit "apply by email" wording, the page may still load a tracking system
+            # with JavaScript (the address being a general one): check the big three first.
+            if not ev.apply_phrase and self.probe and c is not None and domain:
                 hit = self._probe_ats(c, row.get("final_site") or domain)
                 if hit:
                     cat = "ats_probe"

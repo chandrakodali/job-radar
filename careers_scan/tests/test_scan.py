@@ -118,9 +118,14 @@ def test_linkedin_only():
 def test_js_careers_page_falls_back_to_ats_probe():
     shell = '<html><title>Careers</title><body><div id="root"></div><script src="/a.js"></script></body></html>'
     pages = {"https://acme.com/": HOME, "https://acme.com/careers": shell}
-    api = {"https://boards-api.greenhouse.io/v1/boards/acme": {"name": "Acme Inc"}}
+    api = {"https://boards-api.greenhouse.io/v1/boards/acme": {"name": "Acme Inc"},
+           "https://boards-api.greenhouse.io/v1/boards/acme/jobs": {"jobs": [{"id": 1}]}}
     row, _ = run(pages, api=api)
     assert row["category"] == "ats_probe" and row["ats"] == "greenhouse"
+    # an old, empty board doesn't count
+    api["https://boards-api.greenhouse.io/v1/boards/acme/jobs"] = {"jobs": []}
+    row, _ = run(pages, api=api)
+    assert row["category"] == "careers_page_unclear"
 
 
 def test_probe_rejects_board_of_a_different_company():
@@ -316,3 +321,24 @@ def test_more_small_ats_vendors():
     pages = {"https://aivitex.com/": '<title>Aivitex</title><a href="https://iuhhoo.workwise.io/">Careers</a>'}
     row, _ = run(pages, Company("Aivitex", "aivitex.com"))
     assert row["category"] == "ats" and row["ats"] == "workwise"
+
+
+def test_accommodation_address_is_not_an_apply_route():
+    pages = {"https://acme.com/": HOME,
+             "https://acme.com/careers": "<title>Careers</title><h2>Open roles</h2><p>Site Reliability Engineer</p>"
+                                         "<p>If you need a reasonable accommodation during the application process, "
+                                         "please contact recops@acme.com.</p>"}
+    row, _ = run(pages, probe=False)
+    assert row["category"] == "careers_page_unclear"
+
+
+def test_email_without_apply_wording_checks_ats_first():
+    pages = {"https://acme.com/": HOME,
+             "https://acme.com/careers": "<title>Careers</title><p>Questions about our application process? "
+                                         "careers@acme.com</p>"}
+    api = {"https://api.lever.co/v0/postings/acme?mode=json&limit=1": [{"id": "x"}]}
+    row, _ = run(pages, api=api)
+    assert row["category"] == "ats_probe" and row["ats"] == "lever"
+    pages["https://acme.com/careers"] = "<title>Careers</title><p>To apply, send your CV to careers@acme.com</p>"
+    row, _ = run(pages, api=api)
+    assert row["category"] == "email"  # explicit wording wins: no probe
