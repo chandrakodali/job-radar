@@ -107,6 +107,9 @@ VENDORS: tuple[Vendor, ...] = (
     Vendor("hrmdirect", "ats", ("hrmdirect.com",)),
     Vendor("gusto", "ats", ("jobs.gusto.com",), path=r"/.", tenant=False),
     Vendor("paradox", "ats", ("paradox.ai",), path=r"/(jobs|careers|apply)"),
+    Vendor("workwise", "ats", ("workwise.io",)),
+    Vendor("whitecarrot", "ats", ("whitecarrot.io",), path=r"/careers"),
+    Vendor("kula", "ats", ("kula.ai",), path=r"/(careers|jobs)"),
     # ---- public job sites (postings live on someone else's board)
     Vendor("linkedin_jobs", "board", ("linkedin.com",), path=r"^/(company/[^/]+/jobs|jobs/)", tenant=False),
     Vendor("wellfound", "board", ("wellfound.com", "angel.co"), path=r"/(jobs|l/)", tenant=False),
@@ -173,15 +176,31 @@ def match_vendor(url: str) -> Vendor | None:
 CAREER_WORD = (
     r"careers?|jobs?|join(ing)?[ -]?(us|the[ -]team|our[ -]team)|we'?re[ -]hiring|now[ -]hiring|hiring|"
     r"work[ -](with|for|at)[ -]us|open[ -](positions|roles|jobs)|vacanc(y|ies)|job[ -]openings|"
-    r"opportunities|karriere|stellen(angebote|markt)?|jobb?|emplois?|carri[eè]res?|empleos?|trabaja[ -]con[ -]nosotros|"
+    r"(job|career)[ -]opportunities|karriere|stellen(angebote|markt)?|jobb?|emplois?|carri[eè]res?|empleos?|trabaja[ -]con[ -]nosotros|"
     r"[uú]nete|lavora[ -]con[ -]noi|carriere|vacatures|werken[ -]bij|vagas|trabalhe[ -]conosco|rekrytointi|"
     r"praca|kariera|вакансии|карьера|採用|求人|招聘"
 )
 CAREER_TEXT_RE = re.compile(rf"(^|\b)({CAREER_WORD})(\b|$)", re.I)
+# Link texts / titles that use job words for something else: products for recruiters, job-search sites,
+# developer docs ("cron jobs"), SEO pages ("job description templates").
+NOT_CAREERS_TEXT_RE = re.compile(
+    r"\b(descriptions?|templates?|job ?boards?|search|post(ing)? (a )?jobs?|job alerts?|portal|scheduler|"
+    r"queues?|api|cron|runners?|workers?|batch|interview questions|salar(y|ies)|guides?|for employers|"
+    r"employers|recruiters?|hire (talent|developers|engineers|remote)|find (a )?jobs?|browse jobs|jobs? feed|"
+    r"job seekers?|candidates? (database|search)|talent (pool|marketplace)|investors?|investments?)\b",
+    re.I,
+)
+# A page title or main heading that announces a careers page.
+CAREERS_HEAD_RE = re.compile(
+    r"\b(careers?|jobs (at|@|with)|join (us|our team|the team)|we'?re hiring|now hiring|hiring|open (positions|roles)|"
+    r"work (with|for|at) us|vacanc(y|ies)|job openings|current openings|karriere|stellenangebote|emplois?|"
+    r"carri[eè]res?|empleos?|trabaja con nosotros|lavora con noi|vacatures|werken bij|vagas|kariera)\b",
+    re.I,
+)
 CAREER_PATH_SEGMENTS = {
     "careers", "career", "jobs", "job", "join", "join-us", "joinus", "join-the-team", "join-our-team",
     "work-with-us", "work-for-us", "workwithus", "hiring", "we-are-hiring", "were-hiring", "open-positions",
-    "open-roles", "openings", "vacancies", "opportunities", "karriere", "stellenangebote", "jobb",
+    "open-roles", "openings", "vacancies", "job-opportunities", "career-opportunities", "karriere", "stellenangebote", "jobb",
     "emplois", "emploi", "carrieres", "carreras", "empleos", "empleo", "lavora-con-noi", "carriere",
     "vacatures", "werken-bij", "vagas", "trabalhe-conosco", "kariera", "praca", "team#jobs",
 }
@@ -293,7 +312,9 @@ NEVER_HIRING_LOCAL_RE = re.compile(
     r"^(no-?reply|do-?not-?reply|donotreply|privacy|gdpr|dpo|abuse|security|legal|press|media|pr|billing|"
     r"invoices?|accounts?|accounting|payments?|finance|accessibility|dmca|unsubscribe|webmaster|postmaster|"
     r"hostmaster|sales|partners?|partnerships|investors?|ir|marketing|newsletter|orders?|returns|"
-    r"compliance|copyright|trademark|bugs?|vulnerability|disclosure|feedback|events|sponsor(ship)?s?)$",
+    r"compliance|copyright|trademark|bugs?|vulnerability|disclosure|feedback|events|sponsor(ship)?s?|"
+    r"support|help|helpdesk|service|customer-?(service|support|care|success)?|customers|care|success|"
+    r"orders|shop|store|launch|demo|booking|bookings|reservations?|tickets?)$",
     re.I,
 )
 
@@ -477,6 +498,8 @@ def _careers_score(link: Link, base: str) -> int:
     segs = [s for s in path.split("/") if s]
     text = (link.text or "").strip()
     score = 0
+    if text and NOT_CAREERS_TEXT_RE.search(text):
+        return 0
     if text and len(text) <= 60 and CAREER_TEXT_RE.search(text):
         score += 4
     if any(s.split(".")[0] in CAREER_PATH_SEGMENTS for s in segs):
@@ -578,7 +601,8 @@ def analyze(page: str, url: str, status: int = 200) -> PageInfo:
     info.soft_404 = status in (404, 410) or (bool(SOFT_404_RE.search(head)) and info.text_len < 6000)
     info.js_shell = info.text_len < 400 and bool(JS_SHELL_RE.search(raw[:200_000]))
     seg_hit = any(s.split(".")[0] in CAREER_PATH_SEGMENTS for s in path.split("/") if s)
-    info.is_careers_like = (seg_hit and not NON_CAREER_PATH_RE.search(path)) or bool(CAREER_TEXT_RE.search(head)) \
+    head_hit = bool(CAREERS_HEAD_RE.search(head)) and not NOT_CAREERS_TEXT_RE.search(head)
+    info.is_careers_like = (seg_hit and not NON_CAREER_PATH_RE.search(path)) or head_hit \
         or host_of(url).split(".")[0] in ("careers", "jobs", "career", "karriere")
     m = APPLY_BY_EMAIL_RE.search(text)
     info.apply_by_email_phrase = " ".join(text[max(0, m.start() - 60): m.end() + 80].split()) if m else ""

@@ -28,6 +28,9 @@ log = logging.getLogger("careers_scan")
 
 COMMON_PATHS = ("/careers", "/jobs", "/join", "/join-us", "/about/careers", "/company/careers",
                 "/about-us/careers", "/work-with-us", "/hiring", "/careers.html", "/jobs.html")
+FREE_MAIL = {"gmail.com", "googlemail.com", "outlook.com", "hotmail.com", "live.com", "yahoo.com", "icloud.com",
+             "me.com", "proton.me", "protonmail.com", "pm.me", "hey.com", "fastmail.com", "zoho.com", "gmx.de",
+             "gmx.net", "web.de", "mail.com", "yandex.ru", "qq.com", "163.com"}
 MAX_PAGES = 12          # page fetches per company, homepage and robots.txt not counted
 MAX_LISTED = 5          # careers links taken from the homepage
 MAX_DETAIL = 3          # individual job pages opened when a listing shows no apply route
@@ -151,8 +154,14 @@ class Scanner:
             elif careers_page or text_says_careers:
                 ev.add_vendor(link.kind, link.vendor, link.url, where)
 
-    def _take_page(self, ev: Evidence, info, careers_page: bool, where: str) -> None:
+    def _take_page(self, ev: Evidence, info, careers_page: bool, where: str, domains: set[str] | None = None) -> None:
         for email, kind, _snippet in info.emails:
+            if kind == "contextual" and domains is not None:
+                # A generic address only counts on the company's own domain or a personal mailbox
+                # (a careers page can quote a partner's or shop's address).
+                rd = registrable_domain(email.split("@", 1)[1])
+                if rd not in domains and rd not in FREE_MAIL:
+                    continue
             if kind == "hiring" or careers_page:
                 ev.emails.setdefault(email, (kind, where))
         if careers_page:
@@ -266,7 +275,7 @@ class Scanner:
                 any(seg.split(".")[0] in CAREER_PATH_SEGMENTS for seg in (hp.path or "").lower().split("/") if seg)
             where_home = "careers page" if home_is_careers else "homepage"
             self._take_vendor_links(ev, home_info, c, domains, home_is_careers, where_home)
-            self._take_page(ev, home_info, home_is_careers, where_home)
+            self._take_page(ev, home_info, home_is_careers, where_home, domains)
             if home_is_careers:
                 ev.careers_pages.append(home.url)
             taken = 0
@@ -323,7 +332,7 @@ class Scanner:
             if not is_detail and pg.url not in ev.careers_pages:
                 ev.careers_pages.append(pg.url)
             self._take_vendor_links(ev, info, c, domains, True, where)
-            self._take_page(ev, info, True, where)
+            self._take_page(ev, info, True, where, domains)
             # A careers landing page often links to the real listing ("See open roles").
             for score, link in info.careers_links[:4]:
                 if not link.vendor and registrable_domain(link.url) in domains:

@@ -282,3 +282,37 @@ def test_footer_info_address_next_to_careers_menu_is_not_email_route():
                                          "<footer><a href='/careers'>Careers</a> info@acme.com</footer>"}
     row, _ = run(pages, probe=False)
     assert row["category"] == "careers_page_unclear"
+
+
+def test_real_world_false_positives_from_first_run():
+    # A product page about "job descriptions" is not a careers page.
+    pages = {"https://adaface.com/": '<title>Adaface</title><a href="/job-descriptions/">Job Descriptions</a>',
+             "https://adaface.com/job-descriptions/": "<title>Job description templates</title>"
+                                                      "<p>Write a resume screen. Contact deepti@adaface.com</p>"}
+    row, _ = run(pages, Company("Adaface", "adaface.com"), probe=False)
+    assert row["category"] == "no_careers_page"
+    # support@ on a page linked as "Join us" is not an apply route.
+    pages = {"https://10by10.io/": '<title>10by10</title><a href="/contact/">Join us</a>',
+             "https://10by10.io/contact/": "<title>Contact</title><p>Apply questions? support@10by10.io</p>"}
+    row, _ = run(pages, Company("10 By 10", "10by10.io"), probe=False)
+    assert row["category"] != "email"
+    # A generic address on someone else's domain doesn't count; one on the company's domain does.
+    pages = {"https://albaorbital.com/": HOME.replace("Acme", "Alba"),
+             "https://albaorbital.com/careers": "<title>Careers</title><p>To apply send your CV.</p>"
+                                                "<p>Order kits: sales-team@pocketqubeshop.com</p>"}
+    row, _ = run(pages, Company("Alba Orbital", "albaorbital.com"), probe=False)
+    assert row["category"] != "email"
+    pages["https://albaorbital.com/careers"] += "<p>Applications: tom@albaorbital.com or tom.alba@gmail.com</p>"
+    row, _ = run(pages, Company("Alba Orbital", "albaorbital.com"), probe=False)
+    assert row["category"] == "email" and "tom@albaorbital.com" in row["apply_emails"]
+    # "Investment opportunities" is not a careers link.
+    pages = {"https://abatable.com/": '<title>Abatable</title><a href="/investors">Investment opportunities</a>',
+             "https://abatable.com/investors": "<title>Investors</title><p>Opportunities for investors.</p>"}
+    row, _ = run(pages, Company("Abatable", "abatable.com"), probe=False)
+    assert row["category"] == "no_careers_page"
+
+
+def test_more_small_ats_vendors():
+    pages = {"https://aivitex.com/": '<title>Aivitex</title><a href="https://iuhhoo.workwise.io/">Careers</a>'}
+    row, _ = run(pages, Company("Aivitex", "aivitex.com"))
+    assert row["category"] == "ats" and row["ats"] == "workwise"
