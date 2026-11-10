@@ -1,31 +1,30 @@
 # Companies that hire without a job board
 
-Updated 2026-11-10 20:23 UTC. 6264 companies checked; 6264 scanned in this run.
+Updated 2026-11-10 20:37 UTC. 6264 companies checked; 6264 scanned in this run.
 
 | How they hire | Companies |
 | --- | ---: |
-| Apply by email | 528 |
+| Apply by email | 481 |
 | Apply through a form | 70 |
-| Jobs posted as a document (Notion, Google Docs) | 74 |
-| Applicant tracking system | 1242 |
-| Tracking system found through its API | 325 |
+| Jobs posted as a document (Notion, Google Docs) | 75 |
+| Applicant tracking system | 1245 |
+| Tracking system found through its API | 344 |
 | Only on LinkedIn / Wellfound / YC / Indeed | 338 |
-| Careers page, apply route not visible | 1016 |
-| Careers page says no openings | 103 |
-| No careers page found | 2139 |
+| Careers page, apply route not visible | 1024 |
+| Careers page says no openings | 105 |
+| No careers page found | 2150 |
 | Site needs JavaScript | 56 |
 | Blocked by bot protection | 106 |
-| Unreachable | 196 |
-| robots.txt disallows | 71 |
+| Unreachable | 198 |
+| robots.txt disallows | 72 |
 
-## No job board (672)
+## No job board (626)
 
 Engineering-related careers pages first. Full list: [data/no_job_board.csv](data/no_job_board.csv).
 
 | Company | How | Apply | Roles seen | Careers page |
 | --- | --- | --- | --- | --- |
 | 10up (eng) | email | jobs@10up.com | Come Work With Us: WordPress developer with a front-end focus | https://10up.com/careers/ |
-| 90 Seconds (eng) | email | careers@90seconds.com |  | https://90seconds.com/about/careers/ |
 | Abel Police (eng) | email | careers@abelpolice.com | Writer / Daniel Francis Chief Executive Officer Abel Police / Busines… | https://abelpolice.com/careers |
 | Adentris (eng) | email | founders@adentris.com |  | https://www.adentris.com/careers |
 | Adialante (eng) | email | careers@adialante.com | Electrical Engineer | https://adialante.com/careers |
@@ -47,7 +46,6 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | Artificial Societies (eng) | email | careers@societies.ai | Felix Wallis Head of Research / Head of Research / Min Jung Forward D… | https://societies.ai/company |
 | Arzana (eng) | email | careers@arzana.com |  | https://www.arzana.com/careers/ |
 | Assemble (eng) | email | careers@assemble.ai | Sales Development Representative Be the frontline. San Francisco / Re… | https://www.assemble.ai/careers |
-| Astronomer (eng) | email | hiring@astronomer.io |  | https://www.astronomer.io/careers/ |
 | Atrisa (eng) | email | careers@atrisa.ai | Founding Analog Design Engineer Analog & mixed-signal design Bangalor… | https://atrisa.ai/careers |
 | Autumn Labs (eng) | email | join@autumnlabs.io | 🤝 Customer Success Engineer Remote (U.S.) Full-time / 🤝 Customer Succ… | https://autumnlabs.io/careers |
 | Avora (eng) | email | careers@getavora.ai | Founding Product Engineer Engineering · $120k–$160k · 0.5–1.5% equity… | https://getavora.ai/careers |
@@ -66,7 +64,6 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | Bird (eng) | email | hr@bird.com | Associate Technical Account Manager Full-time / Remote, APAC / Senior… | https://bird.com/careers |
 | Bitdrift (eng) | email | jobs@bitdrift.io | Staff Android Software Engineer - Native SDKs / Staff Systems Enginee… | https://bitdrift.io/careers |
 | Black Forest Labs (eng) | email | careers@blackforestlabs.ai | Developer Terms of Service | https://bfl.ai/careers |
-| Bloom (eng) | email | hello@bloomapp.com |  | https://bloomapp.com/careers |
 | Browser Use (eng) | email | apply@browser-use.com | Forward-Deployed Engineer / Infrastructure Engineer | https://browser-use.com/careers |
 | Builder.io (eng) | email | jobs@builder.io | Developer | https://www.builder.io/about |
 | Calamari (eng) | email | job@calamari.io | Manager Summaries / Java / Kotlin Developer Warsaw / Białystok Hybrid… | https://www.calamari.pl/kariera |
@@ -82,16 +79,11 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | CatchBack Cards (eng) | email | catchbackcards@gmail.com | Full Stack Developer / Product Manager / Trading Card Specialist / Ma… | https://catchbackcards.com/careers |
 | Cerbos (eng) | email | join.us@cerbos.dev | B2B Growth Marketer (Enterprise & Developer Audience) / T-shaped B2B … | https://www.cerbos.dev/join-us |
 | Chert (eng) | email | contact@trychert.com | Founding Engineer / Product Designer / Developer Relations | https://www.trychert.com/careers |
-| Chroma (eng) | email | careers@trychroma.com | ○ Account Executive (Founding) San Francisco, CA · Full-time / Accoun… | https://www.trychroma.com/careers |
 | chrt (eng) | email | hiring@chrt.com |  | https://chrt.com/hiring |
 | Clastix (eng) | email | jobs@clastix.io | Senior Pre-Sales Engineer / Sales Representative / Technical Marketin… | https://clastix.io/careers/ |
-| ClearML (eng) | email | jobs@clear.ml | Customer Success Manager / Solutions Engineer / Senior Python Enginee… | https://clear.ml/careers |
-| ClickUp (eng) | email | askpeople@clickup.com | Executive · Apply with video / 100x Operator, Chief Of Staff / 100x M… | https://clickup.com/careers |
 | Cloudification (eng) | email | careers@cloudification.io | Senior Ceph Engineer / Kubernetes & Rook (m/f/d, full-time & remote) … | https://cloudification.io/careers/ |
-| Cockroach Labs (eng) | email | recruiting@cockroachlabs.com |  | https://www.cockroachlabs.com/careers/ |
 | Coco Index (eng) | email | hi@cocoindex.io |  | https://cocoindex.io/careers/ |
 | Coingape (eng) | email | hr@coingape.com | Full time (In-office) Sales Executive Gurgaon, India / Sales Executiv… | https://coingape.com/careers/ |
-| CoLab (eng) | email | hiring@colabsoftware.com | Engineer-to-Order & Quoting | https://www.colabsoftware.com/careers |
 | Confident AI (eng) | email | hiring@confident-ai.com | For QA Teams / Founding Growth Engineer / Apply for Founding Growth E… | https://www.confident-ai.com/careers |
 | Constructable (eng) | email | info@constructable.ai |  | https://constructable.ai/careers |
 | Contour (eng) | email | careers@trycontour.com |  | https://trycontour.com/careers |
@@ -116,15 +108,13 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | Denki (eng) | email | team@denki.ai | Founding Engineer / Product Designer / Previous internship experience… | https://denki.ai/careers |
 | Depict (eng) | email | jobs@depict.ai |  | https://careers.depict.ai/ |
 | Dify (eng) | email | joinus@dify.ai |  | https://join.dify.ai/ |
-| DigitalOcean (eng) | email | recops@digitalocean.com | Developer Tools / Developers Community Documentation Developer Tools … | https://www.digitalocean.com/careers |
 | DirectShifts (eng) | email | hello@directshifts.com | Full Stack Engineer / Enterprise Account Executive / Marketing Operat… | https://www.directshifts.com/careers |
-| Ditto (eng) | email | careers@dittowords.com | Developer Docs / Developer Documentation | https://www.dittowords.com/careers |
-| Doe (eng) | email | founders@doe.so |  | https://doe.so/careers |
 | DuckLabs (eng) | email | hello@ducklabs.com | Senior Platform Engineer (CI/CD & Developer Experience) / C++ Softwar… | https://ducklabs.com/jobs/ |
 | Dynamiq (eng) | email | hello@getdynamiq.ai | DevOps Engineer Engineering · Remote (Ukraine, EU, UK, US) · Part-tim… | https://www.getdynamiq.ai/careers |
 | Dyspatch (eng) | email | careers@dyspatch.io | Strategic Account Executive | https://www.dyspatch.io/about/careers/ |
 | Eden Robotics (eng) | email | careers@edenrobotics.ai |  | https://edenrobotics.ai/about/careers |
 | Edgee (eng) | email | recruitme@edgee.cloud | Explore Trending repos GitHub Sponsors Developer articles / Developer… | https://github.com/edgee-ai/careers |
+| Edviro (eng) | email | founders@edviroenergy.com | Owner or developer / Commissioning agent or MEP engineer | https://edviroenergy.com/careers/ |
 | Efference (eng) | email | team@efference.ai | Image Processing Engineer, Video Stabilization & Motion Estimation / … | https://efference.ai/careers/ |
 | Elastic (eng) | email | candidate_accessibility@elastic.co | AI SRE / Recruiter screen | https://www.elastic.co/careers |
 | ElectroNeek (eng) | email | hr@electroneek.com |  | https://electroneek.com/careers/ |
@@ -149,7 +139,6 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | FIRST (eng) | email | careers@firstdelivery.com | Head of Europe / Territory Account Executive | https://firstdelivery.com/careers/ |
 | FirstWave (eng) | email | ruth.sloley@firstwave.com | Secure Traffic Manager | https://firstwave.com/careers/ |
 | Flagsmith (eng) | email | jobs@flagsmith.com | Developer Experience / UI/UX Designer / Technical Writer / Customer S… | https://www.flagsmith.com/jobs |
-| Flint (eng) | email | sohan@flintk12.com | Account Associate View details → Full-time New York City / Account As… | https://flintk12.com/careers |
 | FlowEQ (eng) | email | careers@floweq.com | Sales Development Representative / Full-stack Engineer / Account Exec… | https://www.floweq.com/company/careers |
 | Flux Auto (eng) | email | careers@fluxauto.ai |  | https://fluxauto.ai/careers.html |
 | FMX (eng) | email | careers@gofmx.com | Work Manager / Event Manager / Warehouse Manager / Utility Manager / … | https://www.gofmx.com/careers/ |
@@ -175,9 +164,9 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | Happenstance (eng) | email | careers@happenstance.ai | AI Engineer / Backend Engineer / Design Engineer | https://happenstance.ai/careers |
 | Harris Consult (eng) | email | career@harrisconsultium.com |  | http://harrisconsultium.com/career.html |
 | Hashex (eng) | email | hr@hashex.org | Jr. Smart Contract and Blockchain Backend Developer / Smart Contract … | https://hashex.org/company/careers/ |
-| Headway (eng) | email | ahoy@headway.io | Senior Designer at Headway / Senior Developer at Headway / Design Lea… | https://www.headway.io/careers |
 | Healia (eng) | email | careers@healiahealth.com; info@healiahealth.com |  | https://healiahealth.com/careers |
 | HealthSpark (eng) | email | contact@joinhealthspark.com | Provider Partnerships Associate Los Angeles, CA · In the field / Prov… | https://joinhealthspark.com/careers |
+| Helium (eng) | email | hi@tryhelium.com |  | https://careers.tryhelium.com:443/ |
 | HEO Robotics (eng) | email | careers@heo-robotics.com; careers@heospace.com |  | https://www.heospace.com/resources/careers |
 | Heru (eng) | email | careers@heru-app.com | Senior Backend Engineer (Node.js / Python) / Product Manager — Fiscal… | https://www.heru.app/careers/ |
 | Hestus, Inc. (eng) | email | jobs@hestus.co | Machine Learning Engineer San Mateo, CA / Machine Learning Engineer /… | https://www.hestus.co/careers |
@@ -189,14 +178,11 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | Human Behavior (eng) | email | founders@humanbehavior.co | Distributed Systems Engineer / Agentic Systems Engineer / Product Eng… | https://www.humanbehavior.co/careers |
 | Humane Genomics (eng) | email | jobs@humanegenomics.com | Chief Medical Officer | https://humanegenomics.com/jobs.php |
 | Hyperbrowser (eng) | email | info@hyperbrowser.ai |  | https://www.hyperbrowser.ai/careers |
-| Hypergiant (eng) | email | careers@hypergiant.com | Now Seeking Crew & Officer Enlistment | https://www.hypergiant.com/careers/ |
 | inBuild (eng) | email | careers@inbuild.ai | Marketing Manager / Account Executive | https://www.inbuild.ai/careers |
 | Industrial Next (eng) | email | careers@industrialnext.ai | Member of Technical Staff, Technical Project Manager / Member of Tech… | https://industrialnext.ai/careers |
-| Infinite (eng) | email | careers@infinite.dev | Founding GTM Lead / Founding Operations Lead | https://infinite.net/company/careers |
 | Infiuss Health (eng) | email | careers@infiuss.com; dinma@infiuss.com; info@infiuss.com | New Researcher Create a researcher account / Existing Researcher Sign… | https://infiuss.com/careers |
 | InfraCloud (eng) | email | recruiting@improving.com | Managing Director, Canada, President, Improving Ottawa | https://www.improving.com/careers/ |
 | InpharmD (eng) | email | admins@inpharmd.com | Hiring - Computer Programmer / Senior Ruby on Rails Engineer / Hiring… | https://inpharmd.com/careers |
-| Inter.link (eng) | email | jobs@inter.link | Partner Manager (f/m/d) / Sales Manager (f/m/d) | https://inter.link/about-interlink/careers/ |
 | Intuit Inc. (eng) | email | talentacquisition@intuit.com | Executive Opens in a new tab / Product Manager, Intuit Foresight Team… | https://www.intuit.com/careers/ |
 | Invertix (eng) | email | apply@invertix.ai | AI/LLM Engineer / Munich · Full-time / Intern / Apply ↗ , AI/LLM Engi… | https://www.invertix.ai/careers |
 | Invitris (eng) | email | interns@invitris.com | Internship | https://www.invitris.com/careers |
@@ -205,7 +191,6 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | Ivy Homes (eng) | email | hr@ivyhomes.co |  | https://ivy.homes/career |
 | Jaaz (eng) | email | info@jaaz.app |  | https://www.jaaz.app/careers |
 | Jarmin (eng) | email | careers@jarmin.ai | Founding Account Executive San Francisco or Remote (US) → / Machine L… | https://www.jarmin.ai/careers |
-| Jeevy Fabrication (eng) | email | careers@jeevyfabrication.com |  | https://www.jeevyfabrication.com/careers |
 | Joy (eng) | email | careers@withjoy.com | Kevin Tran, Frontend Software Engineer / Dan Foley, Director of Engin… | https://withjoy.com/careers/ |
 | Joyent (eng) | email | jobs@joyent.com | Software Engineer — DBA / Infrastructure Software Engineer - Topology… | https://www.joyent.com/careers/ |
 | Jutsoo (eng) | email | careers@jutsoo.com |  | https://www.jutsoo.com/careers |
@@ -248,7 +233,6 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | Mahaana Wealth (eng) | email | careers@mahaana.com | Engineering View Job Senior Software Engineer Karachi Full-time / Sen… | https://www.mahaana.com/careers |
 | Mars Auto (eng) | email | jobs@marsauto.com | Autonomy Engineer / Research Engineer | https://marsauto.com/careers |
 | MarsBased (eng) | email | work@marsbased.com | AI-Native TypeScript Engineer / Read more : AI-Native TypeScript Engi… | https://marsbased.com/jobs |
-| Materialize (eng) | email | jobs@materialize.com |  | https://materialize.com/careers/ |
 | Mathos (eng) | email | jobs@mathgptpro.com | Marketing/Ops Intern / Full-Stack Engineer / Community Manager | https://info.mathos.ai/jobs |
 | Maxicus (eng) | email | careers@maxicus.com | Customer Support Executive / Lead HR Recruitment / Assistant Manager … | https://maxicus.com/careers/ |
 | Maxim AI (eng) | email | careers@getmaxim.ai | Developer Guides | https://www.getmaxim.ai/careers?utm_medium=Bifrost_Footer |
@@ -263,8 +247,6 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | Mineflow (eng) | email | ryan@mineflow.ai | Senior Software Engineer, Product / Research Scientist, Computer Visi… | https://mineflow.ai/careers |
 | Minicor (eng) | email | connect@minicor.com |  | https://minicor.com/careers |
 | Minimal AI (eng) | email | founders@gominimal.ai | Growth Lead (Content & Meta) / Founder's Associate | https://gominimal.ai/careers |
-| Miso Labs (eng) | email | careers@misolabs.ai | Research Scientist speech synthesis · speech-to-speech → / Research S… | https://www.misolabs.ai/careers |
-| Mixmax (eng) | email | careers@mixmax.com | Recruiter call / Solutions Engineer / Senior Growth Product Manager /… | https://www.mixmax.com/careers |
 | Mobile Reality (eng) | email | career@mobilereality.pl | Fullstack Developer (Vue/Node) / Frontend Developer / Backend Develop… | https://themobilereality.com/careers/ |
 | Mobius Materials (eng) | email | hiring+salesdirector@mobiusmaterials.com | Sell Side Account Executive / Director of Sales | https://www.mobiusmaterials.com/jobs |
 | Moderne (eng) | email | careers@moderne.io |  | https://moderne.ai/careers |
@@ -282,12 +264,10 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | Nhost (eng) | email | careers@nhost.io | Senior Software Engineer, Backend & Operations | https://nhost.io/careers |
 | Nimble (eng) | email | hello@hirenimble.com | Scaled Customer Success Manager / Senior Contract Software Engineer (… | https://www.hirenimble.com/careers |
 | Nodus Compute (eng) | email | pranav@nodus-compute.ai | Intern of Research Staff / RL Research Engineer / Inference Research … | https://careers.nodus-compute.ai/ |
-| Nous Research (eng) | email | recruiting@nousresearch.com | Office Manager / Machine Learning Engineer, Evals / Software Engineer… | https://nousresearch.com/careers |
 | Nuage (eng) | email | careers@nuagebiz.tech |  | https://nuagebiz.tech/careers/ |
 | Nuvocargo (eng) | email | peopleops@nuvocargo.com | Jim Keating Chief Operating Officer / Oscar Oliva Head of Research & … | https://www.nuvocargo.com/careers.html |
 | OctaveWealth (eng) | email | jobs@octavewealth.com |  | https://octavewealth.com/jobs |
 | OKESTRO (eng) | email | recruit@okestro.com |  | https://career.okestro.com/ko/home |
-| Okta (eng) | email | greenhouse@okta.com | Developer Center ↗ / Sales Development Representative / Senior Sales … | https://www.okta.com/company/careers/ |
 | Olympian Motors (eng) | email | careers@olympianmotors.com | Intern - Content & Social Media Talent / Internship / Intern - Growth… | https://olympianmotors.com/careers |
 | Omnistrate (eng) | email | careers@omnistrate.com | Developer / Sales Development Representative / Account Executive / Pl… | https://omnistrate.com/careers |
 | OmniTI (eng) | email | careers@omniti.com | Director of Business Development / PostgreSQL Consultant / Site Relia… | https://omniti.com/is/hiring.html |
@@ -303,18 +283,16 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | OpenSRE (eng) | email | careers@tracer.cloud |  | https://www.opensre.com/careers |
 | OpenUnit (eng) | email | jobs@openunit.com | Senior Software Engineer / Software Engineer | https://www.openunit.com/jobs |
 | OpenWhispr (eng) | email | careers@openwhispr.com | Founding Engineering Lead / Founding Engineer | https://openwhispr.com/careers |
-| Orca Aerospace (eng) | email | founders@orcaaerospace.com | Founding Flight Software Engineer | https://orcaaerospace.com/join.html |
 | Orchid (eng) | email | work@orchid.ai | Software Engineer, Product / Software Engineer, Infrastructure / Prod… | https://orchid.ai/careers |
 | Origami Therapeutics, Inc. (eng) | email | careers@origamitherapeutics.com; info@origamitherapeutics.c… |  | https://origamitherapeutics.com/careers/ |
 | Overheard (eng) | email | tyler@withoverheard.com | Founding AI Engineer / Founding GTM Lead | https://withoverheard.com/careers |
 | Oway (eng) | email | jobs@oway.io | Staff Engineer, IOI Protocol / Senior Full-Stack Engineer, IOI Applic… | https://www.oway.io/careers/ |
 | Pagepro (eng) | email | hello@pagepro.co | Freelance NextJS Developer Quality / Freelance NextJS Developer / Exp… | https://pagepro.co/career |
-| PagerDuty (eng) | email | accommodation@pagerduty.com | Take the lead / HR Infrastructure & Operations Manager / Senior HRIS … | https://careers.pagerduty.com/home |
 | Pairio (eng) | email | careers@pairio.com | 01 Engineering Senior AI Engineer Exploratory conversation + / Senior… | https://pairio.com/careers/ |
 | Palitronica Inc (eng) | email | recruiting@palitronica.com |  | https://www.palitronica.com/careers |
 | Pandio (eng) | email | resumes@pandio.com | Sr. Software Engineer / Technical Project Manager / Systems Architect | https://pandio.com/careers/ |
 | Panoptive (eng) | email | careers@panoptive.health | QA automation / Product Clinical Operations Lead Remote Full-time / C… | https://panoptive.com/company |
-| ParadeDB (eng) | email | accommodations@paradedb.com; founders@paradedb.com | Stu Hood (Head of Engineering — prev. Twitter, Toolchain) / Mohammad … | https://www.paradedb.com/careers |
+| ParadeDB (eng) | email | founders@paradedb.com | Stu Hood (Head of Engineering — prev. Twitter, Toolchain) / Mohammad … | https://www.paradedb.com/careers |
 | Pave (eng) | email | careers@paveai.com; team@paveai.com | Data Scientist - San Francisco/Remote (US-only) / Demonstrated expert… | https://www.paveai.com/careers |
 | Penciled (eng) | email | careers@penciled.com | Field Sales Engineer | https://www.penciled.com/join-us |
 | Per Diem (eng) | email | jobs@tryperdiem.com | QA Engineer / View QA Engineer role / Product Manager / View Product … | https://tryperdiem.com/careers |
@@ -322,10 +300,8 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | Pibit.ai (eng) | email | socials@pibit.ai | Director of Sales | https://pibit.ai/career |
 | Pinch (eng) | email | careers@startpinch.com | Developer API Endpoints, auth and the quickstart / Founding Audio Res… | https://startpinch.com/careers |
 | Pingo (eng) | email | hiring@pingo.ai |  | https://pingo.ai/careers |
-| Plane (eng) | email | careers@plane.so | Product Marketing Manager Full Time India Apply now / Account Executi… | https://plane.so/careers |
 | Plasmic (eng) | email | hiring@plasmic.app | Senior Developer Advocate / Senior Product Designer / Senior Software… | https://www.plasmic.app/careers |
 | Positiwise (eng) | email | hr@positiwise.com | Software Testing & QA / Azure DevOps / Sr. System Administrator / Cus… | https://positiwise.com/careers |
-| Poth Labs (eng) | email | contact@pothlabs.com |  | https://pothlabs.com/careers |
 | Prescience, Inc. (eng) | email | careers@getprescience.com |  | https://careers.getprescience.com/ |
 | Preset (eng) | email | careers@preset.io | Preset Certified Superset Deploy QA-approved Superset on any infrastr… | https://preset.io/careers/ |
 | PRINCEPS (eng) | email | careers@princeps.dev | FOUNDING ENGINEER | https://www.princeps.dev/careers |
@@ -333,13 +309,11 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | Probo (eng) | email | careers@probo.com | Compliance Officer Service Expert-led compliance, end to end / Founde… | https://www.probo.com/careers |
 | ProcIndex (eng) | email | team@procindex.com | Founding Sales Development Representative / Software Engineer | https://procindex.com/careers |
 | PromptArmor (eng) | email | careers@promptarmor.com | Platform Engineer San Francisco · Full-time · On-site / Platform Engi… | https://www.promptarmor.com/careers |
-| Proton (eng) | email | careers@proton.ch | Password manager Proton Pass / Business password manager Proton Pass … | https://proton.me/careers |
 | ProvenMetal (eng) | email | founders@provenmetal.com | Founding Engineer | https://provenmetal.com/careers |
 | Proxmox (eng) | email | jobs-pna@proxmox.com; jobs@proxmox.com | Proxmox Datacenter Manager Overview Benefits Features / Proxmox Datac… | https://www.proxmox.com/en/about/about-us/careers |
 | Pydantic (eng) | email | careers@pydantic.dev | Building the best developer experience on planet earth / Build develo… | https://pydantic.dev/about |
 | Quickchat AI (eng) | email | contact@quickchat.ai | Sales & Lead Generation Qualify leads and recommend products / Sales … | https://quickchat.ai/careers |
 | Quill Bills (eng) | email | info@quillbills.com | Founding Software Engineer | https://quillbills.com/careers.html |
-| Quippy (eng) | email | hello@quippyapp.com | Founding Product Engineer Engineering Full-time View / Founding Marke… | https://quippyapp.com/careers |
 | Radical (eng) | email | info@radicalaero.com | Flight Test Lead [US/UK] / StratoSat Technician [US] / Software Devel… | https://www.radicalaero.com/careers |
 | Ragas (eng) | email | jobs@vibrantlabs.com | Applied Research Engineer / Open Source Software Engineer / Product E… | https://www.ragas.io/careers |
 | Ralo (eng) | email | careers@ralo.com | Loan Officer Engineer | https://www.ralo.com/careers |
@@ -364,11 +338,9 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | River Markets (eng) | email | careers@rivermarkets.com | Software Engineer / Customer Success Manager | https://www.rivermarkets.com/careers.html |
 | Roark (eng) | email | careers@roark.ai | Founding Account Executive / Founding Software Engineer — Product / F… | https://roark.ai/careers |
 | Robusta (eng) | email | info@robusta.dev; maayan@robusta.dev | Full Stack Engineer - Build AI Agents and Generative User Interfaces … | https://home.robusta.dev/careers |
-| Runway (eng) | email | hiring@runway.team | Mobile developer experience Reduce developer burden / Mobile develope… | https://www.runway.team/careers |
 | SALT (eng) | email | careers@salt.pe |  | https://www.salt.pe/careers |
 | SAMMY Labs (eng) | email | careers@sammylabs.com | PhD / Applied AI Engineer, Mechanistic Interpretability / 03 Legal En… | https://www.sammylabs.com/careers |
 | Sapient Intelligence (eng) | email | careers@sapient.inc | Senior Multi-Agent Systems Engineer / Research Engineer, LLM Pre-trai… | https://sapient.inc/en/careers |
-| Sapling.ai (eng) | email | careers@sapling.ai | Full-stack engineer / Data / ML / NLP engineer | https://sapling.ai/careers |
 | Sardina Systems (eng) | email | jobs@sardinasystems.com | FishOS Workload Manager / Back-end Developer / Software Developer / Q… | https://www.sardinasystems.com/about-us/careers/ |
 | Scape (eng) | email | careers@scape.app | Founding Designer Stockholm • Full time / Software Engineer Stockholm… | https://scape.app/careers |
 | Sciloop (eng) | email | team@sciloop.dev |  | https://www.sciloop.dev/experts/join |
@@ -394,13 +366,11 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | Speko (eng) | email | bek@speko.ai |  | https://careers.speko.ai/ |
 | Spoqa, Inc. (eng) | email | recruit@spoqa.com | Tom / QA Engineer | https://spoqa.co.kr/careers/#recruit |
 | Squid (eng) | email | join@squid.energy |  | https://www.squid.energy/jobs |
-| Stable (eng) | email | careers@usestable.com | Mail Processing Specialist (Independent Contractor) 🏠 New York City, … | https://www.usestable.com/careers |
 | Standout (eng) | email | come@standout.work | Founding AI Product Engineer Full-time San Francisco, CA / Founding A… | https://standout.work/companies/standout |
 | Stoke Space (eng) | email | careers@stokespace.com; info@stokespace.com | ELAT Program (Entry-Level Aerospace Technician) → | https://www.stokespace.com/careers |
 | Strac (eng) | email | job@dark.com | UI / UX Design Lead / Senior React Developer | https://darktemplate.webflow.io/career/ui-ux-design-lead |
 | Stralis Aircraft (eng) | email | careers@stralis.aero | Electric Propulsion Engineer / Aerospace/Mechanical Engineer / Electr… | https://www.stralis.aero/contact |
 | Strikingly (eng) | email | jobs@strikingly.com | Happiness Officer / Product Designer / QA Engineer / DevOps Engineer … | https://www.strikingly.com/s/careers |
-| Stripe (eng) | email | candidatefeedback-applications@stripe.com; accommodations@s… | Developer blog / AEO and GEO Marketing Manager Marketing Remote in Ca… | https://stripe.com/careers |
 | Strive Math (eng) | email | hello@strivemath.com; teach@strivemath.com |  | https://www.strivemath.com/other/careers |
 | Structured AI (eng) | email | info@getstructured.ai | Senior Software Architect New York, US · Full-time View Role / Senior… | https://getstructured.ai/careers/ |
 | SunFarmer (eng) | email | hr@sunfarmer.org; info@sunfarmer.org | Internship / ADMINISTRATION & FINANCE ASSOCIATE / INSTITUTIONAL PROJE… | https://www.sunfarmer.org/career |
@@ -408,8 +378,6 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | superglue (eng) | email | hiring@superglue.ai | Founding Product Engineer Engineering · Munich · Full-time | https://superglue.ai/careers/ |
 | Surevine (eng) | email | jobs@surevine.com | Junior Software Engineer / Security Engineer / Software Engineer | https://surevine.com/careers |
 | Surge (eng) | email | recruiting@surge.app | AI developer guide | https://surge.app/careers/ |
-| Switchboard (eng) | email | contact@onswitchboard.com | Sales Support Associate / User Support Technician / Developer API | https://www.onswitchboard.com/careers |
-| Symphony (eng) | email | mitch@getsymphony.co | Founding Senior Software Engineer | https://www.getsymphony.co/careers |
 | Synadia (eng) | email | jobs@synadia.com | Product Marketing Manager | https://www.synadia.com/careers |
 | Synthefy (eng) | email | hiring@synthefy.com | Founding Product Manager / Founding Machine Learning Engineer | https://www.synthefy.com/careers |
 | Tabula (eng) | email | jobs@tabula.de | GTM Manager Berlin · Full-time / GTM Manager / Account Executive / Fo… | https://tabula.de/jobs |
@@ -421,13 +389,45 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | Terrateam (eng) | email | hello@stategraph.com |  | https://stategraph.com/careers |
 | Text Blaze (eng) | email | hiring@blaze.today | Product Marketing Manager / Full Stack Engineer / Machine Learning En… | https://blaze.today/hiring/ |
 | TheoremOne (eng) | email | info@theoremone.co | Program Manager Packet / Product Designer Packet / Product Manager Pa… | https://www.theoremone.co/careers |
-| Thunder Compute (eng) | email | careers@thundercompute.com |  | https://www.thundercompute.com/careers |
 | Tipe (eng) | email | jobs@tipe.io |  | https://tipe.io/jobs |
-| Toast (eng) | email | candidateaccommodations@toasttab.com | We lead with humility / Intern / Senior Program Manager, Employer Bra… | https://careers.toasttab.com/ |
+| Tolemi (eng) | email | careers@tolemi.com | Our Internship Program | https://www.tolemi.com/careers |
+| Tolgee (eng) | email | career@tolgee.io | Senior Full-Stack Engineer with a Focus on Frontend | https://tolgee.io/career |
+| Tonbo IO (eng) | email | hiring@tonbo.io | Product Engineer / Database Engineer / Role Type: Full-time, Early En… | https://tonbo.io/careers |
+| Topkey (eng) | email | darren@topkey.io; jon@topkey.io | Senior Sales Development Representative (SDR) / Customer Success Asso… | https://topkey.io/careers |
+| Traces (eng) | email | careers@traces.ai |  | https://www.traces.ai/careers |
+| Traefik Labs (eng) | email | jobs@traefik.io | Technical Product Manager / EMEA Solutions Architect / Enterprise Acc… | https://traefik.io/careers |
+| Treehouse (eng) | email | jobs@teamtreehouse.com | UX Designer / Product Manager / Front End Developer / Full Stack Deve… | https://teamtreehouse.com/jobs |
+| Truewind (eng) | email | hiring@trytruewind.com | Sales Development Representative | https://www.truewind.ai/careers |
+| Tumult (eng) | email | jobs@tumult.com | Software Engineer / Expert Cocoa/Objective-C developer, Mac experienc… | https://tumult.com/jobs/ |
+| Tuta (eng) | email | jobs@tutao.de | Software Engineer (Full Stack) on-site in Hannover / Software Enginee… | https://tuta.com/jobs |
+| Twilio (eng) | email | import@twilio.com | Lead alerts / Developer Hub An icon of a right chevron / Khushbu Shai… | https://jobs.twilio.com/careers |
+| Umbrel (eng) | email | jobs@umbrel.com | How we engineer | https://umbrel.com/careers |
+| Univention (eng) | email | jobs@univention.de |  | https://www.univention.com/about-us/careers/ |
+| Unkey (eng) | email | jobs@unkey.com | Site Reliability Engineer / / Site Reliability Engineer / Your perspe… | https://www.unkey.com/careers |
+| Upstash (eng) | email | jobs@upstash.com | Mid/Senior Software Engineer - Cloud/SRE / Software Engineer - Core /… | https://upstash.com/careers |
+| Vahan (eng) | email | hr@vahan.ai | Business Development Manager - Lucknow / Key Account Manager (Supply)… | https://www.vahan.co:443/careers/ |
+| VedaBio (eng) | email | careers@vedabio.com | Research Associate II / Senior Research Associate / Scientist / Sr. S… | https://www.vedabio.com/careers |
+| VeloDB (eng) | email | hr@velodb.io | K8s Operator A one-stop database cluster management tool / K8s Operat… | https://www.velodb.io/join-us |
+| Velt (eng) | email | careers@velt.dev | Admin Console / Task Manager / Founding Test Automation Engineer / Fo… | https://velt.dev/careers |
+| Verdun (eng) | email | tung@verdun.ai | Applied AI / Evals Engineer / Staff / Senior ML & CV Engineer - Groun… | https://verdun.ai/careers |
+| Version Story Compare (eng) | email | careers@versionstory.com | Product Marketing Lead / DevOps Engineer / Compliance Program Manager | https://www.versionstory.com/company/careers |
+| Vesence (eng) | email | careers@vesence.com | Growth Engineer / Apply for Growth Engineer in San Francisco / Intern… | https://www.vesence.com/careers |
+| Visibl Semiconductors (eng) | email | founders@visiblsemi.com | Senior Digital IC Engineer — RTL Design & Verification / Analog & Mix… | https://www.visiblsemi.com/careers |
+| Vybe (eng) | email | careers@vybe.build |  | https://www.vybe.build/careers |
+| WalletHub (eng) | email | jobs@wallethub.com | Writer / Freelance Online Writer / Front-End Engineer / Software Engi… | https://wallethub.com/jobs/ |
+| Wanderlog (eng) | email | founders@wanderlog.com | Full-Stack Engineer | https://wanderlog.com/blog/jobs/?eventToTrackOnLoad=Click%20jobs%20link%20on%20… |
+| Wavedash (eng) | email | jobs@wavedash.com | Developer | https://wavedash.com/jobs |
+| Webkul (eng) | email | jobs@webkul.com | Cloud and DevOps / Hire Odoo Developer / Hire Laravel Developer / Hir… | https://webkul.com/careers/ |
+| Webrunners GmbH (eng) | email | jobs@webrunners.de; hello@webrunners.de |  | https://www.webrunners.de/jobs/ |
+| WeReno (eng) | email | careers@wereno.com; hello@wereno.com | Managing a Developer’s Vision for a $20M Custom Home Build | https://wereno.com/about-us |
+| Whereobots (eng) | email | careers@wherobots.com | Wherobots SQL Operator | https://wherobots.com/careers/ |
+| Whitespace (eng) | email | founders@whitespacehq.ai; team@whitespacehq.ai | Founding Engineer London, in person → / Founding Engineer / Apply by … | https://www.whitespacehq.ai/careers |
+| WikiHow (eng) | email | jobs@wikihow.com |  | https://www.wikihow.com/wikiHow:Jobs |
+| Windmill (eng) | email | jobs@windmill.dev |  | https://www.windmill.dev/careers |
 
-…and 272 more in the CSV.
+…and 226 more in the CSV.
 
-## Check by hand (1119)
+## Check by hand (1129)
 
 Careers pages where the apply route wasn't in the page HTML (often built with JavaScript): [data/check_by_hand.csv](data/check_by_hand.csv).
 

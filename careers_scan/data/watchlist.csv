@@ -1,6 +1,5 @@
 domain,name,url,category
 10up.com,10up,https://10up.com/careers/,email
-90seconds.com,90 Seconds,https://90seconds.com/about/careers/,email
 abelpolice.com,Abel Police,https://abelpolice.com/careers,email
 adentris.com,Adentris,https://www.adentris.com/careers,email
 adialante.com,Adialante,https://adialante.com/careers,email
@@ -22,7 +21,6 @@ artifact.engineer,Artifact,https://www.artifact.engineer/careers,email
 societies.ai,Artificial Societies,https://societies.ai/company,email
 arzana.com,Arzana,https://www.arzana.com/careers/,email
 assemble.ai,Assemble,https://www.assemble.ai/careers,email
-astronomer.io,Astronomer,https://www.astronomer.io/careers/,email
 atrisa.ai,Atrisa,https://atrisa.ai/careers,email
 autumnlabs.io,Autumn Labs,https://autumnlabs.io/careers,email
 getavora.ai,Avora,https://getavora.ai/careers,email
@@ -41,7 +39,6 @@ bios.health,BIOS Health,https://www.bios.health/careers,email
 bird.com,Bird,https://bird.com/careers,email
 bitdrift.io,Bitdrift,https://bitdrift.io/careers,email
 bfl.ai,Black Forest Labs,https://bfl.ai/careers,email
-bloomapp.com,Bloom,https://bloomapp.com/careers,email
 browser-use.com,Browser Use,https://browser-use.com/careers,email
 builder.io,Builder.io,https://www.builder.io/about,email
 calamari.io,Calamari,https://www.calamari.pl/kariera,email
@@ -57,16 +54,11 @@ cashfree.com,Cashfree Payments,https://www.cashfree.com/careers/,email
 catchbackcards.com,CatchBack Cards,https://catchbackcards.com/careers,email
 cerbos.dev,Cerbos,https://www.cerbos.dev/join-us,email
 trychert.com,Chert,https://www.trychert.com/careers,email
-trychroma.com,Chroma,https://www.trychroma.com/careers,email
 chrt.com,chrt,https://chrt.com/hiring,email
 clastix.io,Clastix,https://clastix.io/careers/,email
-clear.ml,ClearML,https://clear.ml/careers,email
-clickup.com,ClickUp,https://clickup.com/careers,email
 cloudification.io,Cloudification,https://cloudification.io/careers/,email
-cockroachlabs.com,Cockroach Labs,https://www.cockroachlabs.com/careers/,email
 cocoindex.io,Coco Index,https://cocoindex.io/careers/,email
 coingape.com,Coingape,https://coingape.com/careers/,email
-colabsoftware.com,CoLab,https://www.colabsoftware.com/careers,email
 confident-ai.com,Confident AI,https://www.confident-ai.com/careers,email
 constructable.ai,Constructable,https://constructable.ai/careers,email
 trycontour.com,Contour,https://trycontour.com/careers,email
@@ -91,15 +83,13 @@ demandsphere.com,DemandSphere,https://www.demandsphere.com/careers/,email
 denki.ai,Denki,https://denki.ai/careers,email
 depict.ai,Depict,https://careers.depict.ai/,email
 dify.ai,Dify,https://join.dify.ai/,email
-digitalocean.com,DigitalOcean,https://www.digitalocean.com/careers,email
 directshifts.com,DirectShifts,https://www.directshifts.com/careers,email
-dittowords.com,Ditto,https://www.dittowords.com/careers,email
-doe.so,Doe,https://doe.so/careers,email
 ducklabs.com,DuckLabs,https://ducklabs.com/jobs/,email
 getdynamiq.ai,Dynamiq,https://www.getdynamiq.ai/careers,email
 dyspatch.io,Dyspatch,https://www.dyspatch.io/about/careers/,email
 edenrobotics.ai,Eden Robotics,https://edenrobotics.ai/about/careers,email
 edgee.cloud,Edgee,https://github.com/edgee-ai/careers,email
+edviroenergy.com,Edviro,https://edviroenergy.com/careers/,email
 efference.ai,Efference,https://efference.ai/careers/,email
 elastic.co,Elastic,https://www.elastic.co/careers,email
 electroneek.com,ElectroNeek,https://electroneek.com/careers/,email
@@ -124,7 +114,6 @@ finaldose.ai,FinalDose,https://www.finaldose.ai/careers/,email
 firstdelivery.com,FIRST,https://firstdelivery.com/careers/,email
 firstwave.com,FirstWave,https://firstwave.com/careers/,email
 flagsmith.com,Flagsmith,https://www.flagsmith.com/jobs,email
-flintk12.com,Flint,https://flintk12.com/careers,email
 floweq.com,FlowEQ,https://www.floweq.com/company/careers,email
 fluxauto.ai,Flux Auto,https://fluxauto.ai/careers.html,email
 gofmx.com,FMX,https://www.gofmx.com/careers/,email
@@ -150,9 +139,9 @@ groundcover.com,groundcover,https://www.groundcover.com/careers,email
 happenstance.ai,Happenstance,https://happenstance.ai/careers,email
 harrisconsultium.com,Harris Consult,http://harrisconsultium.com/career.html,email
 hashex.org,Hashex,https://hashex.org/company/careers/,email
-headway.io,Headway,https://www.headway.io/careers,email
 healiahealth.com,Healia,https://healiahealth.com/careers,email
 joinhealthspark.com,HealthSpark,https://joinhealthspark.com/careers,email
+tryhelium.com,Helium,https://careers.tryhelium.com:443/,email
 heo-robotics.com,HEO Robotics,https://www.heospace.com/resources/careers,email
 heru.app,Heru,https://www.heru.app/careers/,email
 hestus.co,"Hestus, Inc.",https://www.hestus.co/careers,email
@@ -164,14 +153,11 @@ hudson-labs.com,Hudson Labs (formerly Bedrock AI),https://www.hudson-labs.com/ca
 humanbehavior.co,Human Behavior,https://www.humanbehavior.co/careers,email
 humanegenomics.com,Humane Genomics,https://humanegenomics.com/jobs.php,email
 hyperbrowser.ai,Hyperbrowser,https://www.hyperbrowser.ai/careers,email
-hypergiant.com,Hypergiant,https://www.hypergiant.com/careers/,email
 inbuild.ai,inBuild,https://www.inbuild.ai/careers,email
 industrialnext.ai,Industrial Next,https://industrialnext.ai/careers,email
-infinite.net,Infinite,https://infinite.net/company/careers,email
 infiuss.com,Infiuss Health,https://infiuss.com/careers,email
 infracloud.io,InfraCloud,https://www.improving.com/careers/,email
 inpharmd.com,InpharmD,https://inpharmd.com/careers,email
-inter.link,Inter.link,https://inter.link/about-interlink/careers/,email
 intuit.com,Intuit Inc.,https://www.intuit.com/careers/,email
 invertix.ai,Invertix,https://www.invertix.ai/careers,email
 invitris.com,Invitris,https://www.invitris.com/careers,email
@@ -180,7 +166,6 @@ isengardindustries.com,Isengard Industries Inc,https://isengardindustries.com/ca
 ivy.homes,Ivy Homes,https://ivy.homes/career,email
 jaaz.app,Jaaz,https://www.jaaz.app/careers,email
 jarmin.ai,Jarmin,https://www.jarmin.ai/careers,email
-jeevyfabrication.com,Jeevy Fabrication,https://www.jeevyfabrication.com/careers,email
 withjoy.com,Joy,https://withjoy.com/careers/,email
 joyent.com,Joyent,https://www.joyent.com/careers/,email
 jutsoo.com,Jutsoo,https://www.jutsoo.com/careers,email
@@ -223,7 +208,6 @@ magicloops.dev,Magic Loops,https://magicloops.dev/careers,email
 mahaana.com,Mahaana Wealth,https://www.mahaana.com/careers,email
 marsauto.com,Mars Auto,https://marsauto.com/careers,email
 marsbased.com,MarsBased,https://marsbased.com/jobs,email
-materialize.com,Materialize,https://materialize.com/careers/,email
 mathos.ai,Mathos,https://info.mathos.ai/jobs,email
 maxicus.com,Maxicus,https://maxicus.com/careers/,email
 getmaxim.ai,Maxim AI,https://www.getmaxim.ai/careers?utm_medium=Bifrost_Footer,email
@@ -238,8 +222,6 @@ microsoft.com,Microsoft,https://careers.microsoft.com/v2/global/en/home.html,ema
 mineflow.ai,Mineflow,https://mineflow.ai/careers,email
 minicor.com,Minicor,https://minicor.com/careers,email
 gominimal.ai,Minimal AI,https://gominimal.ai/careers,email
-misolabs.ai,Miso Labs,https://www.misolabs.ai/careers,email
-mixmax.com,Mixmax,https://www.mixmax.com/careers,email
 themobilereality.com,Mobile Reality,https://themobilereality.com/careers/,email
 mobiusmaterials.com,Mobius Materials,https://www.mobiusmaterials.com/jobs,email
 moderne.ai,Moderne,https://moderne.ai/careers,email
@@ -257,12 +239,10 @@ nextcloud.com,Nextcloud,https://nextcloud.com/jobs/,email
 nhost.io,Nhost,https://nhost.io/careers,email
 hirenimble.com,Nimble,https://www.hirenimble.com/careers,email
 nodus-compute.ai,Nodus Compute,https://careers.nodus-compute.ai/,email
-nousresearch.com,Nous Research,https://nousresearch.com/careers,email
 nuagebiz.tech,Nuage,https://nuagebiz.tech/careers/,email
 nuvocargo.com,Nuvocargo,https://www.nuvocargo.com/careers.html,email
 octavewealth.com,OctaveWealth,https://octavewealth.com/jobs,email
 okestro.com,OKESTRO,https://career.okestro.com/ko/home,email
-okta.com,Okta,https://www.okta.com/company/careers/,email
 olympianmotors.com,Olympian Motors,https://olympianmotors.com/careers,email
 omnistrate.com,Omnistrate,https://omnistrate.com/careers,email
 omniti.com,OmniTI,https://omniti.com/is/hiring.html,email
@@ -278,13 +258,11 @@ openfoundry.ai,OpenFoundry,https://withoverheard.com/careers,email
 opensre.com,OpenSRE,https://www.opensre.com/careers,email
 openunit.com,OpenUnit,https://www.openunit.com/jobs,email
 openwhispr.com,OpenWhispr,https://openwhispr.com/careers,email
-orcaaerospace.com,Orca Aerospace,https://orcaaerospace.com/join.html,email
 orchid.ai,Orchid,https://orchid.ai/careers,email
 origamitherapeutics.com,"Origami Therapeutics, Inc.",https://origamitherapeutics.com/careers/,email
 withoverheard.com,Overheard,https://withoverheard.com/careers,email
 oway.io,Oway,https://www.oway.io/careers/,email
 pagepro.co,Pagepro,https://pagepro.co/career,email
-pagerduty.com,PagerDuty,https://careers.pagerduty.com/home,email
 pairio.com,Pairio,https://pairio.com/careers/,email
 palitronica.com,Palitronica Inc,https://www.palitronica.com/careers,email
 pandio.com,Pandio,https://pandio.com/careers/,email
@@ -297,10 +275,8 @@ pervices.com,Per Vices,https://www.pervices.com/careers/,email
 pibit.ai,Pibit.ai,https://pibit.ai/career,email
 startpinch.com,Pinch,https://startpinch.com/careers,email
 pingo.ai,Pingo,https://pingo.ai/careers,email
-plane.so,Plane,https://plane.so/careers,email
 plasmic.app,Plasmic,https://www.plasmic.app/careers,email
 positiwise.com,Positiwise,https://positiwise.com/careers,email
-pothlabs.com,Poth Labs,https://pothlabs.com/careers,email
 getprescience.com,"Prescience, Inc.",https://careers.getprescience.com/,email
 preset.io,Preset,https://preset.io/careers/,email
 princeps.dev,PRINCEPS,https://www.princeps.dev/careers,email
@@ -308,13 +284,11 @@ getprobo.com,Probo,https://www.probo.com/careers,email
 probo.com,Probo,https://www.probo.com/careers,email
 procindex.com,ProcIndex,https://procindex.com/careers,email
 promptarmor.com,PromptArmor,https://www.promptarmor.com/careers,email
-proton.me,Proton,https://proton.me/careers,email
 provenmetal.com,ProvenMetal,https://provenmetal.com/careers,email
 proxmox.com,Proxmox,https://www.proxmox.com/en/about/about-us/careers,email
 pydantic.dev,Pydantic,https://pydantic.dev/about,email
 quickchat.ai,Quickchat AI,https://quickchat.ai/careers,email
 quillbills.com,Quill Bills,https://quillbills.com/careers.html,email
-quippyapp.com,Quippy,https://quippyapp.com/careers,email
 radicalaero.com,Radical,https://www.radicalaero.com/careers,email
 ragas.io,Ragas,https://www.ragas.io/careers,email
 ralo.com,Ralo,https://www.ralo.com/careers,email
@@ -339,11 +313,9 @@ risely.ai,Risely AI,https://www.risely.ai/careers,email
 rivermarkets.com,River Markets,https://www.rivermarkets.com/careers.html,email
 roark.ai,Roark,https://roark.ai/careers,email
 robusta.dev,Robusta,https://home.robusta.dev/careers,email
-runway.team,Runway,https://www.runway.team/careers,email
 salt.pe,SALT,https://www.salt.pe/careers,email
 sammylabs.com,SAMMY Labs,https://www.sammylabs.com/careers,email
 sapient.inc,Sapient Intelligence,https://sapient.inc/en/careers,email
-sapling.ai,Sapling.ai,https://sapling.ai/careers,email
 sardinasystems.com,Sardina Systems,https://www.sardinasystems.com/about-us/careers/,email
 scape.app,Scape,https://scape.app/careers,email
 sciloop.dev,Sciloop,https://www.sciloop.dev/experts/join,email
@@ -369,13 +341,11 @@ specific.dev,Specific,https://specific.dev/careers,email
 speko.ai,Speko,https://careers.speko.ai/,email
 spoqa.co.kr,"Spoqa, Inc.",https://spoqa.co.kr/careers/#recruit,email
 squid.energy,Squid,https://www.squid.energy/jobs,email
-usestable.com,Stable,https://www.usestable.com/careers,email
 standout.work,Standout,https://standout.work/companies/standout,email
 stokespace.com,Stoke Space,https://www.stokespace.com/careers,email
 strac.io,Strac,https://darktemplate.webflow.io/career/ui-ux-design-lead,email
 stralis.aero,Stralis Aircraft,https://www.stralis.aero/contact,email
 strikingly.com,Strikingly,https://www.strikingly.com/s/careers,email
-stripe.com,Stripe,https://stripe.com/careers,email
 strivemath.com,Strive Math,https://www.strivemath.com/other/careers,email
 getstructured.ai,Structured AI,https://getstructured.ai/careers/,email
 sunfarmer.org,SunFarmer,https://www.sunfarmer.org/career,email
@@ -383,8 +353,6 @@ superbar.ai,Superbar,https://superbar.ai/careers,email
 superglue.ai,superglue,https://superglue.ai/careers/,email
 surevine.com,Surevine,https://surevine.com/careers,email
 surge.app,Surge,https://surge.app/careers/,email
-onswitchboard.com,Switchboard,https://www.onswitchboard.com/careers,email
-getsymphony.co,Symphony,https://www.getsymphony.co/careers,email
 synadia.com,Synadia,https://www.synadia.com/careers,email
 synthefy.com,Synthefy,https://www.synthefy.com/careers,email
 tabula.de,Tabula,https://tabula.de/jobs,email
@@ -396,9 +364,7 @@ heytenor.com,Tenor,https://www.heytenor.com/careers/,email
 terrateam.io,Terrateam,https://stategraph.com/careers,email
 blaze.today,Text Blaze,https://blaze.today/hiring/,email
 theoremone.co,TheoremOne,https://www.theoremone.co/careers,email
-thundercompute.com,Thunder Compute,https://www.thundercompute.com/careers,email
 tipe.io,Tipe,https://tipe.io/jobs,email
-toasttab.com,Toast,https://careers.toasttab.com/,email
 tolemi.com,Tolemi,https://www.tolemi.com/careers,email
 tolgee.io,Tolgee,https://tolgee.io/career,email
 tonbo.io,Tonbo IO,https://tonbo.io/careers,email
@@ -406,9 +372,6 @@ topkey.io,Topkey,https://topkey.io/careers,email
 traces.ai,Traces,https://www.traces.ai/careers,email
 traefik.io,Traefik Labs,https://traefik.io/careers,email
 teamtreehouse.com,Treehouse,https://teamtreehouse.com/jobs,email
-trellistech.com,Trellis,https://www.trellistech.com/careers,email
-runtrellis.com,Trellis AI,https://careers.runtrellis.com/,email
-truefoundry.com,TrueFoundry,https://www.truefoundry.com/careers,email
 trytruewind.com,Truewind,https://www.truewind.ai/careers,email
 tumult.com,Tumult,https://tumult.com/jobs/,email
 tuta.com,Tuta,https://tuta.com/jobs,email
@@ -422,16 +385,13 @@ vedabio.com,VedaBio,https://www.vedabio.com/careers,email
 velodb.io,VeloDB,https://www.velodb.io/join-us,email
 velt.dev,Velt,https://velt.dev/careers,email
 verdun.ai,Verdun,https://verdun.ai/careers,email
-veriff.com,Veriff,https://www.veriff.com/careers,email
 versionstory.com,Version Story Compare,https://www.versionstory.com/company/careers,email
 vesence.com,Vesence,https://www.vesence.com/careers,email
-virtru.com,Virtru,https://www.virtru.com/careers,email
 visiblsemi.com,Visibl Semiconductors,https://www.visiblsemi.com/careers,email
 vybe.build,Vybe,https://www.vybe.build/careers,email
 wallethub.com,WalletHub,https://wallethub.com/jobs/,email
 wanderlog.com,Wanderlog,https://wanderlog.com/blog/jobs/?eventToTrackOnLoad=Click%20jobs%20link%20on%20marketing%20page,email
 wavedash.com,Wavedash,https://wavedash.com/jobs,email
-weaviate.io,Weaviate,https://weaviate.io/company/careers,email
 webkul.com,Webkul,https://webkul.com/careers/,email
 webrunners.de,Webrunners GmbH,https://www.webrunners.de/jobs/,email
 wereno.com,WeReno,https://wereno.com/about-us,email
@@ -442,12 +402,9 @@ windmill.dev,Windmill,https://www.windmill.dev/careers,email
 wingmanlaw.com,Wingman Law,https://www.wingmanlaw.com/careers,email
 wirefuture.com,WireFuture,https://wirefuture.com/careers,email
 weflywright.com,Wright Electric,https://www.weflywright.com/company/careers,email
-wyvern.space,Wyvern,https://www.wyvern.space/company/join-us,email
 xgenomes.com,XGenomes,https://www.xgenomes.com/careers,email
-ycombinator.com,Y Combinator,https://www.ycombinator.com/jobs,email
 urlaunched.com,You are launched,https://www.urlaunched.com/join-us,email
 yuma.ai,Yuma AI,https://yuma.ai/work-at-yuma,email
-zed.dev,Zed Industries,https://zed.dev/jobs,email
 zentail.com,Zentail,https://www.zentail.com/careers,email
 zscc.ai,Zettascale Computing,https://zscc.ai/careers,email
 zibralabs.ai,Zibra Labs,https://zibralabs.ai/careers/,email
@@ -472,7 +429,6 @@ cashbook.in,CashBook,https://cashbook.in/,email
 consumerfinance.gov,Consumer Financial Protection Bureau,https://www.consumerfinance.gov/about-us/careers/current-openings/,email
 datlo.com,Datlo,https://www.datlo.com/carreiras/,email
 getdiana.com,Diana,https://www.getdiana.com/careers,email
-dispatch.space,Dispatch,https://dispatch.space/careers,email
 earendil.com,Earendil Works,https://earendil.com/join/,email
 edencaremedical.com,Eden Care,https://www.edencaremedical.com/company/careers,email
 fidocure.com,FidoCure®,https://fidocure.com/careers/,email
@@ -500,14 +456,12 @@ openactuation.com,Open Actuation,https://openactuation.com/careers,email
 osseus.ai,Osseus,https://www.osseus.ai/join-us,email
 overshoot.ai,Overshoot,https://overshoot.ai/,email
 pandai.org,Pandai,https://my.pandai.org/en/about/career/,email
-parallel.bio,Parallel Bio,https://www.parallel.bio/careers,email
 parasma.com,Parasma,https://parasma.com/careers.html,email
 petcube.com,Petcube,https://petcube.com/careers/,email
 heyplura.com,Plura (formerly Bloom Community),https://heyplura.com/careers,email
 polotab.com,PoloTab,https://polotab.com/,email
 preseen.com,Preseen,https://preseen.com/,email
 letsrecover.com,Recover,https://www.letsrecover.com/jobs-1,email
-renofi.com,RenoFi,https://www.renofi.com/careers/,email
 reneespace.com,Renée Space,https://www.reneespace.com/careers,email
 riften.ai,Riften,https://riften.ai/careers/,email
 seabound.co,Seabound,https://seabound.co/,email
@@ -523,7 +477,6 @@ studysoup.com,StudySoup,https://studysoup.com/apply,email
 tilt.bike,Tilt,https://www.tilt.bike/careers,email
 in-unison.com,UNISON,https://www.in-unison.com/,email
 vendo.run,Vendo,https://vendo.run/careers,email
-vidyard.com,Vidyard,https://www.vidyard.com/careers/,email
 yhangry.com,yhangry,https://yhangry.com/work-with-us/,email
 yonedalabs.com,Yoneda Labs,https://www.yonedalabs.com/careers/,email
 zeonsystems.ai,Zeon Systems,https://www.zeonsystems.ai/careers,email
@@ -619,6 +572,7 @@ lunavo.ai,Lunavo,https://www.lunavo.ai/careers,doc
 naftiko.io,Naftiko,https://naftiko.io/company/careers/,doc
 getnao.io,nao Labs,https://getnao.io/careers,doc
 ourworldindata.org,Our World in Data,https://ourworldindata.org/jobs,doc
+pagerduty.com,PagerDuty,https://careers.pagerduty.com/home,doc
 getplutto.com,Plutto,https://getplutto.com/nosotros/vacantes/,doc
 proximitty.ai,Proximitty,https://www.proximitty.ai/company,doc
 pumpgtm.com,PumpGTM,https://pumpgtm.com/solutions/hiring-signals,doc
@@ -664,7 +618,7 @@ superb-ai.com,Superb AI,https://careers.superb-ai.com/,doc
 tagmango.com,TagMango,https://tagmango.com/careers,doc
 teamflowhq.com,Teamflow,https://www.teamflowhq.com/,doc
 teamout.com,TeamOut,https://careers.teamout.com/independent-trip-designer,doc
-thejuggernaut.com,The Juggernaut,https://www.thejuggernaut.com/jobs.html,doc
+thejuggernaut.com,The Juggernaut,https://www.thejuggernaut.com/,doc
 theatrejs.com,Theatre.js,https://www.theatrejs.com/,doc
 truemetrics.io,truemetrics,https://www.truemetrics.io/,doc
 upflow.io,Upflow,https://upflow.io/,doc
@@ -794,6 +748,7 @@ designarena.ai,Design Arena,https://www.intelligence.ai/careers,careers_page_unc
 devcycle.com,DevCycle,https://www.dynatrace.com/careers/,careers_page_unclear
 devtron.ai,Devtron,https://devtron.ai/career,careers_page_unclear
 dexto.ai,Dexto,https://www.dexto.ai/careers,careers_page_unclear
+digitalocean.com,DigitalOcean,https://www.digitalocean.com/careers,careers_page_unclear
 dipolelabs.com,Dipole Labs,https://dipolelabs.com/careers,careers_page_unclear
 directus.io,Directus,https://directus.com/careers,careers_page_unclear
 disclo.com,Disclo,https://www.disclo.com/careers,careers_page_unclear
@@ -868,7 +823,6 @@ guesty.com,Guesty,https://www.guesty.com/careers/,careers_page_unclear
 buildhabu.com,HABU,https://www.buildhabu.com/careers,careers_page_unclear
 hackreactor.com,Hack Reactor Remote,https://www.hackreactor.com/learn-to-code/coding-careers/,careers_page_unclear
 handle.com,Handle,https://www.handle.com/careers/,careers_page_unclear
-happyrobot.ai,HappyRobot,https://www.happyrobot.ai/careers,careers_page_unclear
 hatchet.run,Hatchet,https://hatchet.run/use-cases/background-tasks,careers_page_unclear
 heapanalytics.com,Heap,https://www.heap.io/careers,careers_page_unclear
 hedera.com,Hedera,https://hedera.com/careers/,careers_page_unclear
@@ -885,6 +839,7 @@ honeybadger.io,Honeybadger,https://www.honeybadger.io/careers/,careers_page_uncl
 hubspot.com,Hubspot,https://www.hubspot.com/careers/jobs?hubs_signup-url=www.hubspot.com%2Fcareers%2Fremote&hubs_signup-cta=careers-location-hero&page=1,careers_page_unclear
 hylight.aero,HyLight,https://hylight.aero/careers,careers_page_unclear
 hyperdesk.com,Hyperdesk,https://hyperdesk.com/compare/hyperdesk-vs-in-house,careers_page_unclear
+hypergiant.com,Hypergiant,https://www.hypergiant.com/careers/,careers_page_unclear
 hyperiondev.com,Hyperion Development South Africa,https://www.hyperiondev.com/jobs/,careers_page_unclear
 ibm.com,IBM,https://www.ibm.com/careers,careers_page_unclear
 igalia.com,Igalia,https://www.igalia.com/jobs/,careers_page_unclear
@@ -909,6 +864,7 @@ kake.co,Kake,https://kake.co/jobs,careers_page_unclear
 karakeep.app,Karakeep,https://karakeep.com/careers,careers_page_unclear
 trykarat.com,Karat Financial,https://www.trykarat.com/about/careers,careers_page_unclear
 kelaitech.com,KelAI,https://kelaitech.com/careers,careers_page_unclear
+kentik.com,Kentik Technologies Inc.,https://www.kentik.com/careers/,careers_page_unclear
 kestral.ai,Kestral,https://kestral.ai/careers,careers_page_unclear
 kinro.com,Kinro,https://kinro.com/join-us,careers_page_unclear
 kiprosh.com,Kiprosh,https://kiprosh.com/careers,careers_page_unclear
@@ -927,6 +883,7 @@ lightberry.com,Lightberry,https://lightberry.com/careers,careers_page_unclear
 lightly.ai,Lightly,https://lightly.ai/careers,careers_page_unclear
 linuxfoundation.org,Linux Foundation,https://www.linuxfoundation.org/careers,careers_page_unclear
 livelyme.com,"Lively, Inc.",https://livelyme.com/careers,careers_page_unclear
+liveperson.com,LivePerson,https://www.liveperson.com/company/careers/,careers_page_unclear
 logica.cloud,Logica,https://logica.cloud/careers/,careers_page_unclear
 logisticsos.com,LogisticsOS,https://www.logisticsos.com/careers,careers_page_unclear
 loopfour.com,loopfour,https://loopfour.ai/careers,careers_page_unclear
@@ -991,6 +948,7 @@ onefin.in,OneFin,https://www.onefin.in/careers,careers_page_unclear
 onesignal.com,OneSignal,https://onesignal.com/careers,careers_page_unclear
 onetriangle.ai,OneTriangle,https://onetriangle.ai/careers,careers_page_unclear
 onfinity.io,Onfinity,https://onfinity.io/us/about-us.php,careers_page_unclear
+onshore.com,Onshore,https://careers.kula.ai/onshore,careers_page_unclear
 openmercato.com,Open Mercato,https://www.openmercato.com/careers,careers_page_unclear
 openlayer.com,Openlayer,https://www.openlayer.com/careers,careers_page_unclear
 opennms.com,OpenNMS,https://www.opennms.com/careers/,careers_page_unclear
@@ -1030,6 +988,7 @@ polygon.technology,Polygon,https://polygon.technology/careers,careers_page_uncle
 pops.fyi,Pops,https://pops.fyi/careers,careers_page_unclear
 port.io,Port.io,https://www.port.io/careers,careers_page_unclear
 postiz.com,Postiz,https://postiz.com/hiring,careers_page_unclear
+pothlabs.com,Poth Labs,https://pothlabs.com/careers,careers_page_unclear
 pragma.co,Pragma,https://www.pragma.co/es/carrera/vacantes/,careers_page_unclear
 precisionnutrition.com,Precision Nutrition,https://www.precisionnutrition.com/jobs,careers_page_unclear
 predictleads.com,PredictLeads,https://predictleads.com/job_openings,careers_page_unclear
@@ -1103,6 +1062,7 @@ stackbill.com,Stackbill Private Limited,https://www.stackbill.com/company/career
 stardex.com,Stardex,https://jobs.stardex.com/stardex-ai,careers_page_unclear
 stellarsleep.com,Stellar Sleep,https://stellarsleep.com/careers,careers_page_unclear
 stempad.com,Stempad,https://www.stempad.com/careers,careers_page_unclear
+stirlingpdf.com,Stirling PDF,https://www.stirling.com/careers,careers_page_unclear
 strapi.io,Strapi,https://strapi.io/careers,careers_page_unclear
 struct.ai,Struct,https://struct.ai/careers,careers_page_unclear
 suiteness.com,Suiteness,https://www.suiteness.com/careers,careers_page_unclear
@@ -1192,6 +1152,7 @@ wideframe.com,Wideframe,https://try.wideframe.com/careers,careers_page_unclear
 dabba.com,"Wifi Dabba, Inc.",https://careers.dabba.com/,careers_page_unclear
 willings.co.jp,Willings Inc,https://willings-inc.com/en/join-us,careers_page_unclear
 wyeworks.com,Wyeworks,https://www.wyeworks.com/careers/,careers_page_unclear
+wyvern.space,Wyvern,https://www.wyvern.space/company/join-us,careers_page_unclear
 x-team.com,X-Team,https://x-team.com/careers,careers_page_unclear
 xapo.com,Xapo,https://www.xapobank.com/en/careers,careers_page_unclear
 xpaycheckout.com,xPay,https://www.xpaycheckout.com/careers,careers_page_unclear
@@ -1304,7 +1265,6 @@ cuanto.app,Cuanto,https://web.cuanto.app/careers,careers_page_unclear
 culdesac.com,Culdesac,https://culdesac.com/careers/,careers_page_unclear
 dagworks.io,"Dagworks, Inc.",https://www.dagworks.io/careers,careers_page_unclear
 dappradar.com,DappRadar,https://dappradar.com/careers,careers_page_unclear
-darecode.com,darecode,https://darecode.com/careers,careers_page_unclear
 darkgrade.com,Darkgrade,https://notion.darkgrade.com/,careers_page_unclear
 dsbrigade.com,Data Science Brigade,https://dsbrigade.com/careers,careers_page_unclear
 datrics.ai,Datrics,https://datrics.ai/careers,careers_page_unclear
@@ -1313,7 +1273,6 @@ dayra.co,Dayra,https://dayra.co/careers,careers_page_unclear
 decisional.com,Decisional AI,https://www.decisional.com/industries/roofing,careers_page_unclear
 decuff.ai,decuff,https://decuff.ai/careers,careers_page_unclear
 deep24.com,Deep24,https://deep24.com/careers,careers_page_unclear
-deepchecks.com,Deepchecks,https://www.deepchecks.com/careers,careers_page_unclear
 deepseek.com,DeepSeek,https://www.deepseek.com/jobs.html,careers_page_unclear
 democracy.earth,Democracy Earth,https://democracy.earth/careers,careers_page_unclear
 dench.com,Dench.com,https://www.dench.com/careers,careers_page_unclear
@@ -1359,6 +1318,7 @@ expanse.sh,Expanse,https://expanse.sh/careers,careers_page_unclear
 expectedparrot.com,Expected Parrot,https://www.expectedparrot.com/careers,careers_page_unclear
 explorex.co,Explorex,https://explorex.co/careers,careers_page_unclear
 extern.com,Extern,https://www.extern.com/the-edge-newsletter/join,careers_page_unclear
+eyeo.com,Eyeo,https://eyeo.com/careers/,careers_page_unclear
 ezeit.ai,Eze,https://www.ezeit.ai/careers,careers_page_unclear
 fdte.org.br,FDTE,https://www.fdte.org.br/vagas/,careers_page_unclear
 fed10.ai,Fed10,https://www.fed10.ai/careers,careers_page_unclear
@@ -1422,6 +1382,7 @@ julep.ai,Julep AI,https://julep.ai/careers,careers_page_unclear
 kanopy-ai.com,Kanopy,https://www.kanopy-ai.com/careers,careers_page_unclear
 karboncard.com,Karbon Card,https://www.karboncard.com/about,careers_page_unclear
 khatabook.com,Khatabook,https://khatabook.com/hiring/,careers_page_unclear
+kite.video,Kite,https://kite.video/careers,careers_page_unclear
 konkurenta.com,Konkurenta,https://konkurenta.com/jobs,careers_page_unclear
 getkosh.com,Kosh,https://getkosh.com/careers,careers_page_unclear
 koyal.ai,Koyal,https://koyal.ai/careers,careers_page_unclear
@@ -1433,6 +1394,7 @@ latted.com,Latted,https://www.latted.com/careers,careers_page_unclear
 laylo.com,Laylo,https://laylo.com/careers,careers_page_unclear
 ledgerinvesting.com,Ledger Investing,https://www.ledgerinvesting.com/careers,careers_page_unclear
 lfcarry.com,LFcarry,https://lfcarry.com/d2/join-as-pro,careers_page_unclear
+lightricks.com,Lightricks,https://careers.lightricks.com/,careers_page_unclear
 lighttwist.com,LightTwist,https://lighttwist.com/careers,careers_page_unclear
 link11.com,Link11,https://www.link11.com/en/careers/,careers_page_unclear
 linklane.ai,LinkLane,https://app.linklane.ai/carrier/join,careers_page_unclear
@@ -1603,7 +1565,7 @@ superdesign.dev,Superdesign.dev,https://superdesign.dev/careers,careers_page_unc
 superlog.sh,Superlog,https://superlog.sh/careers,careers_page_unclear
 sureformhq.com,Sureform,https://www.sureformhq.com/careers,careers_page_unclear
 surtrdefense.com,Surtr Defense Systems,https://surtrdefense.com/careers,careers_page_unclear
-swadesiway.com,Swadesi Way,https://swadesiway.com/explore,careers_page_unclear
+swadesiway.com,Swadesi Way,https://swadesiway.com/explore/,careers_page_unclear
 swiggy.com,Swiggy,https://careers.swiggy.in:443/#/,careers_page_unclear
 synaraops.com,Synara,https://careers.synaraops.com/,careers_page_unclear
 syncly.app,Syncly,https://syncly.app/careers,careers_page_unclear
@@ -1614,7 +1576,6 @@ taan.ai,Taan.ai,https://taan.ai/careers,careers_page_unclear
 talc.ai,Talc,https://talc.ai/careers,careers_page_unclear
 tappityapp.com,Tappity,https://www.tappityapp.com/careers,careers_page_unclear
 tasker.ai,Tasker AI,https://www.tasker.ai/careers,careers_page_unclear
-teamnoteapp.com,TeamNote,https://teamnoteapp.com/careers,careers_page_unclear
 teleport.org,Teleport,https://teleport.org/careers,careers_page_unclear
 terapify.com,Terapify,https://www.terapify.com/careers,careers_page_unclear
 tryterracotta.com,Terracotta AI,https://tryterracotta.com/careers,careers_page_unclear
@@ -1625,7 +1586,6 @@ theankler.com,The Ankler,https://theankler.com/careers-at-the-ankler/,careers_pa
 theessential.com,The Essential,https://theessential.com/pages/join,careers_page_unclear
 publisherdesk.com,The Publisher Desk,https://www.publisherdesk.com/careers/,careers_page_unclear
 thethirdplace.is,The Third Place,https://thethirdplace.is/careers,careers_page_unclear
-thirdiron.com,Third Iron,https://thirdiron.com/careers,careers_page_unclear
 madebythomas.ai,Thomas,https://madebythomas.ai/careers,careers_page_unclear
 ticketwallet.com,Ticket Wallet,https://ticketwallet.com/careers,careers_page_unclear
 tiendacrypto.com,Tienda Crypto,https://tiendacrypto.com/careers,careers_page_unclear
@@ -1652,12 +1612,14 @@ upsolve.org,Upsolve,https://upsolve.org/careers/,careers_page_unclear
 valctrl.com,ValCtrl,https://valctrl.com/careers,careers_page_unclear
 varos.com,Varos,https://varos.com/careers,careers_page_unclear
 vaultpay.io,VaultPay,https://www.vaultpay.io/careers,careers_page_unclear
+flyvaya.com,Vaya,https://flyvaya.com/careers,careers_page_unclear
 vendra.io,Vendra,https://vendra.io/careers,careers_page_unclear
 venue.ink,Venue.ink,https://venue.ink/join-us,careers_page_unclear
 verdictmachine.com,Verdict Machine,https://verdictmachine.com/careers,careers_page_unclear
 vespin.dev,Vespin,https://vespin.dev/careers,careers_page_unclear
 vetnio.com,Vetnio,https://vetnio.com/career,careers_page_unclear
 vetrec.io,VetRec,https://vetrec.io/careers,careers_page_unclear
+vidyard.com,Vidyard,https://www.vidyard.com/careers/,careers_page_unclear
 villagelabs.app,Village Labs,https://www.villagelabs.com/careers,careers_page_unclear
 vincoed.com,Vinco,https://www.vincoed.com/empleos,careers_page_unclear
 vivo.com.br,Vivo,https://vivo.gupy.io/,careers_page_unclear
@@ -1756,12 +1718,14 @@ superplane.com,SuperPlane,https://superplane.com/careers/,no_openings
 supertokens.com,SuperTokens,https://supertokens.com/careers,no_openings
 tella.com,Tella,https://www.tella.com/careers,no_openings
 termii.com,Termii,https://termii.com/careers,no_openings
+toasttab.com,Toast,https://careers.toasttab.com/,no_openings
 webdevstudios.com,WebDevStudios,https://webdevstudios.com/careers/,no_openings
 weweb.io,weweb.io,https://www.weweb.io/careers,no_openings
 wildbit.com,Wildbit,https://www.wildbit.com/jobs,no_openings
 zenml.io,ZenML,https://www.zenml.io/careers,no_openings
 ziffyhomes.com,ZiffyHomes,https://www.ziffyhomes.com/about,no_openings
 agentrelay.com,Agent Relay,https://agentrelay.com/careers,no_openings
+bandzoogle.com,Bandzoogle,https://bandzoogle.com/jobs,no_openings
 blindpay.com,BlindPay,https://blindpay.com/careers,no_openings
 calii.com,Calii,https://careers.calii.com/,no_openings
 canix.com,Canix,https://app.trinethire.com/companies/170847-canix/jobs,no_openings
