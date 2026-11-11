@@ -141,13 +141,37 @@ class Rules:
     alert_threshold: int = 45
     max_post_age_days: int = 14
     block_alerts_if_years_at_least: int = 7
+    # ---- optional, used by profiles that match on job-text evidence (see profiles/*/config.yaml)
+    wide: list[re.Pattern] = field(default_factory=list)        # generic titles: kept only with skills evidence
+    wide_focus: list[re.Pattern] = field(default_factory=list)  # same, but only on the profile's own employer list
+    stretch: list[re.Pattern] = field(default_factory=list)     # titles a level above the candidate
+    boost: list[re.Pattern] = field(default_factory=list)       # titles naming the candidate's specialty
+    skills: list[tuple[str, re.Pattern, int]] = field(default_factory=list)  # (name, pattern, weight)
+    wide_min_weight: int = 6
+    untitled_min_weight: int = 9
+    core_min_weight: int = 0        # target titles whose text shows less than this are set aside
+    mode: str = "entry"             # entry (early-career scoring) | experienced
+    years_experience: int = 0
+    home: list[re.Pattern] = field(default_factory=list)        # locations that get a small bonus
+    stale_after_days: int = 60
 
     @classmethod
     def from_config(cls, cfg: dict) -> "Rules":
         def comp(xs):
             return [re.compile(x, re.I) for x in xs or []]
         t, d, s = cfg["titles"], cfg["description"], cfg.get("scoring", {})
+        sk = cfg.get("skills") or {}
+        skills = [(name, re.compile(pat, re.I), weight)
+                  for group, weight in (("strong", 3), ("medium", 2), ("weak", 1))
+                  for name, pat in (sk.get(group) or {}).items()]
         return cls(
+            wide=comp(t.get("wide")), wide_focus=comp(t.get("wide_focus")), stretch=comp(t.get("stretch")),
+            boost=comp(t.get("boost")), skills=skills,
+            wide_min_weight=int(sk.get("wide_min_weight", 6)),
+            untitled_min_weight=int(sk.get("untitled_min_weight", 9)),
+            core_min_weight=int(sk.get("core_min_weight", 0)),
+            mode=str(s.get("mode", "entry")), years_experience=int(s.get("years_experience", 0)),
+            home=comp(s.get("home_locations")), stale_after_days=int(s.get("stale_after_days", 60)),
             core=comp(t["core"]), bridge=comp(t["bridge"]), exclude=comp(t["exclude"]),
             entry=comp(t["entry"]), blockers=comp(d["blockers"]),
             blocker_exceptions=comp(d.get("blocker_exceptions")),
@@ -165,16 +189,61 @@ def _any(patterns, text) -> bool:
     return any(p.search(text) for p in patterns)
 
 
-def title_category(title: str, rules: Rules) -> str | None:
-    """'core', 'bridge' or None (not a match or excluded)."""
-    t = " " + (title or "").replace("–", "-").replace("—", "-") + " "
+def _norm_title(title: str) -> str:
+    return " " + (title or "").replace("–", "-").replace("—", "-") + " "
+
+
+def title_category(title: str, rules: Rules, focus: bool = False, searched: bool = False) -> str | None:
+    """'core', 'bridge', 'wide' or None (not a match or excluded).
+
+    'wide' is a generic title (or a keyword-search hit) that is kept only if the job text shows enough of
+    the candidate's skills; profiles without a `skills` section never produce it."""
+    t = _norm_title(title)
     if _any(rules.exclude, t):
         return None
     if _any(rules.core, t):
         return "core"
     if _any(rules.bridge, t):
         return "bridge"
+    if not rules.skills:
+        return None
+    if _any(rules.wide, t) or (focus and _any(rules.wide_focus, t)) or searched:
+        return "wide"
     return None
+
+
+def skill_hits(text: str, rules: Rules) -> tuple[int, int, list[str]]:
+    """(total weight, number of strong skills, skill names) found in a job's title + description."""
+    weight, strong, names = 0, 0, []
+    for name, pat, w in rules.skills:
+        if pat.search(text or ""):
+            weight += w
+            strong += w >= 3
+            names.append(name)
+    return weight, strong, names
+
+
+def has_evidence(text: str, rules: Rules, minimum: int | None = None) -> bool:
+    """Enough of the candidate's tools in the text to keep a generically titled job."""
+    weight, strong, _ = skill_hits(text, rules)
+    return strong >= 1 and weight >= (rules.wide_min_weight if minimum is None else minimum)
+
+
+def job_category(job: Job, board: Board, rules: Rules) -> str | None:
+    """Category of a job from its title, how it was found and (on focus boards) its text."""
+    cat = title_category(job.title, rules, focus=board.focus, searched=bool(job.found_by))
+    if cat is None and board.focus and rules.skills and job.description and not _any(rules.exclude, _norm_title(job.title)):
+        weight, strong, _ = skill_hits(f"{job.title}\n{job.description}", rules)
+        if strong >= 2 and weight >= rules.untitled_min_weight:
+            cat = "wide"
+    return cat
+
+
+def row_still_fits(row: dict, rules: Rules) -> bool:
+    """Does a saved match still fit after the title rules changed?"""
+    if row.get("category") == "wide" and rules.skills:
+        return not _any(rules.exclude, _norm_title(row.get("title", "")))  # kept on job-text evidence
+    return title_category(row.get("title", ""), rules, focus=True) is not None
 
 
 _YEARS = re.compile(
@@ -232,6 +301,8 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
     title = job.title or ""
     desc = job.description or ""
     loc_class = classify_location(job.location, job.countries)
+    if rules.mode == "experienced":
+        return _assess_experienced(job, board, rules, category, now, loc_class)
 
     score = 45 if category == "core" else 30
     if _any(rules.entry, " " + title + " "):
@@ -301,6 +372,97 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
         flags.append(f"needs: {blocker[:40]}")
     elif loc_class == "non_us":
         status = "old"  # never reported; caller normally filters these out earlier
+    elif years is not None and years >= rules.block_alerts_if_years_at_least:
+        status = "quiet"
+    elif score >= rules.alert_threshold:
+        status = "alert"
+    else:
+        status = "quiet"
+    return Assessment(category=category, location_class=loc_class, score=score, status=status,
+                      flags=flags, years=years, blocker=blocker)
+
+
+def _assess_experienced(job: Job, board: Board, rules: Rules, category: str, now: datetime,
+                        loc_class: str) -> Assessment:
+    """Scoring for a candidate with a few years of experience: fit is mostly how many of their tools
+    the job text names; senior titles are fine, staff/principal ones are a flagged stretch."""
+    flags: list[str] = []
+    title = job.title or ""
+    desc = job.description or ""
+    t = _norm_title(title)
+    score = {"core": 40, "bridge": 34}.get(category, 28)
+
+    weight, _strong, names = skill_hits(f"{title}\n{desc}", rules)
+    if names:
+        score += min(28, round(weight * 1.4))
+        flags.append("tools: " + ", ".join(names[:8]) + (f" +{len(names) - 8}" if len(names) > 8 else ""))
+    if not desc:
+        flags.append("description not read")
+    if _any(rules.boost, t):
+        score += 8
+    if _any(rules.stretch, t):
+        score -= 10
+        flags.append("stretch: senior-level title")
+    elif _any(rules.entry, t):
+        score -= 4
+        flags.append("entry-level title")
+
+    exp = rules.years_experience
+    years = required_years(desc) if desc else None
+    if years is not None:
+        if years <= exp + 1:
+            score += 8
+        elif years <= exp + 3:
+            score -= 6
+        else:
+            score -= 20
+        flags.append(f"{years}+ yrs exp" if years else "no experience minimum")
+
+    age_days = None
+    if job.posted_at:
+        age_days = max(0.0, (now - job.posted_at).total_seconds() / 86400)
+        if age_days <= 1:
+            score += 10
+        elif age_days <= 3:
+            score += 6
+        elif age_days <= 7:
+            score += 3
+        elif age_days > rules.stale_after_days:
+            score -= 5
+            flags.append(f"open {int(age_days)} days")
+
+    if _any(rules.home, job.location or ""):
+        score += 5
+    if loc_class == "unknown":
+        score -= 5
+        flags.append("location unclear")
+    if desc and _any(rules.e_verify, desc):
+        flags.append("E-Verify")
+    if desc and _any(rules.sponsors, desc):
+        score += 4
+        flags.append("sponsors visas")
+    elif desc and _any(rules.no_sponsorship, desc):
+        score -= 4
+        flags.append("no visa sponsorship")
+    if board.priority:
+        score += 5
+        flags.append("priority company")
+    if _any(rules.staffing, job.company or board.company or ""):
+        score -= 5
+        flags.append("staffing/consulting firm")
+
+    score = max(0, min(100, score))
+    blocker = blocker_hit(" ".join([title, desc]), rules)
+    if age_days is not None and age_days > rules.max_post_age_days:
+        status = "old"
+    elif blocker:
+        status = "blocked"
+        flags.append(f"needs: {blocker[:40]}")
+    elif loc_class == "non_us":
+        status = "old"
+    elif desc and rules.core_min_weight and skill_hits(desc, rules)[0] < rules.core_min_weight:
+        status = "blocked"
+        flags.append("none of your tools in the job text")
     elif years is not None and years >= rules.block_alerts_if_years_at_least:
         status = "quiet"
     elif score >= rules.alert_threshold:

@@ -245,6 +245,39 @@ def sfrmk_list(b: Board) -> list[Job]:
     return jobs[:MAX_JOBS]
 
 
+def sfrmk_search(b: Board, search: str, max_pages: int = 3) -> list[Job]:
+    """The career site's own keyword search (title and description). Big sites list thousands of jobs
+    worldwide, more than the sitemap reader keeps, so searching is how their US jobs are all reached."""
+    from bs4 import BeautifulSoup
+    host = b.board
+    jobs, seen = [], set()
+    for page in range(max_pages):
+        html = _page(f"https://{host}/search/", params={"q": search, "locationsearch": "", "startrow": page * 25})
+        soup = BeautifulSoup(html, "html.parser")
+        rows = soup.select("tr.data-row") or soup.select("li.job-tile, div.job-tile")
+        new = 0
+        for row in rows:
+            a = row.select_one("a.jobTitle-link") or row.select_one('a[href*="/job/"]')
+            if not a or not a.get("href"):
+                continue
+            url = urljoin(f"https://{host}/", a["href"])
+            m = _RMK_JOB.search(urlsplit(url).path)
+            if not m or m.group(2) in seen:
+                continue
+            seen.add(m.group(2))
+            new += 1
+            loc_el = row.select_one(".jobLocation")
+            loc, countries = rmk_location(loc_el.get_text(" ", strip=True)) if loc_el else ("", [])
+            date_el = row.select_one(".jobDate")
+            jobs.append(_job(b, job_id=m.group(2), title=a.get_text(" ", strip=True) or slug_words(m.group(1)),
+                             url=url.split("?")[0], location=loc, countries=countries,
+                             posted_at=parse_when(date_el.get_text(" ", strip=True)) if date_el else None,
+                             needs_detail=True, detail_ref=url.split("?")[0], found_by=search))
+        if not new or len(rows) < 25:
+            break
+    return jobs
+
+
 def rmk_location(text: str) -> tuple[str, list[str]]:
     """SuccessFactors writes 'City, Region, CC, Zip' (e.g. 'Muenchen, DE' or 'Tampa, FL, US, 33605').
     The last letters-only part is the country code, so 'DE' is Germany here, not Delaware."""
@@ -424,16 +457,16 @@ def _phenom_body(**kw) -> dict:
             "siteType": "external", "global": True, "selected_fields": {}, "locationData": {}, **kw}
 
 
-def phenom_list(b: Board, size: int = 100, max_pages: int = 4) -> list[Job]:
+def phenom_list(b: Board, size: int = 100, max_pages: int = 4, search: str = "") -> list[Job]:
     host, _, locale = b.board.partition("|")
     locale = locale or "us/en"
     url = f"https://{host}/widgets"
     robots.check(url)
     jobs, seen = [], set()
     for page in range(max_pages):
-        data = post_json(url, _phenom_body(ddoKey="refineSearch", sortBy="Most recent", subsearch="",
+        data = post_json(url, _phenom_body(ddoKey="refineSearch", sortBy="" if search else "Most recent", subsearch="",
                                            jobs=True, counts=False, all_fields=[], size=size, clearAll=False,
-                                           jdsource="facets", isSliderEnable=False, keywords="",
+                                           jdsource="facets", isSliderEnable=False, keywords=search,
                                            **{"from": page * size}))
         rs = (data.get("refineSearch") or {})
         rows = ((rs.get("data") or {}).get("jobs")) or []
@@ -449,7 +482,7 @@ def phenom_list(b: Board, size: int = 100, max_pages: int = 4) -> list[Job]:
                              countries=[j["country"]] if j.get("country") else [],
                              workplace=_wp(j.get("workplaceType") or j.get("remote")),
                              description=html_to_text(j.get("descriptionTeaser") or ""),
-                             needs_detail=True, detail_ref=seq))
+                             needs_detail=True, detail_ref=seq, found_by=search))
         total = rs.get("totalHits") or 0
         if not rows or len(seen) >= total:
             break
@@ -469,7 +502,7 @@ def phenom_detail(job: Job) -> None:
 
 # ------------------------------------------------------------------ Eightfold
 
-def eightfold_list(b: Board, num: int = 100) -> list[Job]:
+def eightfold_list(b: Board, num: int = 100, search: str = "") -> list[Job]:
     sub, _, domain = b.board.partition("|")
     host = sub if "." in sub else f"{sub}.eightfold.ai"
     domain = domain or (sub.split(".")[0] + ".com")
@@ -479,8 +512,8 @@ def eightfold_list(b: Board, num: int = 100) -> list[Job]:
         robots.check(url)
         seen = set()
         for start in range(0, num, 10):
-            data = get_json(url, params={"domain": domain, "query": "", "location": "", "start": start,
-                                         "sort_by": "timestamp"})
+            data = get_json(url, params={"domain": domain, "query": search, "location": "", "start": start,
+                                         "sort_by": "relevance" if search else "timestamp"})
             rows = (data.get("data") or {}).get("positions") or []
             for p in rows:
                 pid = str(p.get("id") or "")
@@ -492,7 +525,7 @@ def eightfold_list(b: Board, num: int = 100) -> list[Job]:
                                  url=urljoin(f"https://{host}", p.get("positionUrl") or f"/careers/job/{pid}?domain={domain}"),
                                  location="; ".join(map(str, locs[:4])),
                                  posted_at=parse_when(p.get("postedTs") or p.get("creationTs")),
-                                 workplace=_wp(p.get("workLocationOption")),
+                                 workplace=_wp(p.get("workLocationOption")), found_by=search,
                                  needs_detail=True, detail_ref=f"https://{host}/api/apply/v2/jobs/{pid}?domain={domain}"))
             if len(rows) < 10 or len(seen) >= int((data.get("data") or {}).get("count") or 10 ** 6):
                 break
@@ -502,7 +535,8 @@ def eightfold_list(b: Board, num: int = 100) -> list[Job]:
             raise
     url = f"https://{host}/api/apply/v2/jobs"
     robots.check(url)
-    data = get_json(url, params={"domain": domain, "start": 0, "num": num, "sort_by": "timestamp"})
+    data = get_json(url, params={"domain": domain, "start": 0, "num": num,
+                                 **({"query": search, "sort_by": "relevance"} if search else {"sort_by": "timestamp"})})
     for p in data.get("positions") or []:
         pid = str(p.get("id") or "")
         if not pid:
@@ -511,7 +545,7 @@ def eightfold_list(b: Board, num: int = 100) -> list[Job]:
                          url=p.get("canonicalPositionUrl") or f"https://{host}/careers/job/{pid}?domain={domain}",
                          location="; ".join(map(str, (p.get("locations") or [p.get("location")])[:4])),
                          posted_at=parse_when(p.get("t_create")),
-                         workplace=_wp(p.get("work_location_option")),
+                         workplace=_wp(p.get("work_location_option")), found_by=search,
                          needs_detail=True, detail_ref=f"https://{host}/api/apply/v2/jobs/{pid}?domain={domain}"))
     return jobs
 

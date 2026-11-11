@@ -4,10 +4,12 @@ Usage:
     python -m radar.main                 # normal run (used by GitHub Actions)
     python -m radar.main --dry-run       # no notifications
     python -m radar.main --only greenhouse --limit 20
+    python -m radar.main --profile automotive   # another search with its own rules and files (radar/profile.py)
 """
 from __future__ import annotations
 
 import argparse
+import dataclasses
 import hashlib
 import json
 import logging
@@ -25,7 +27,9 @@ import yaml
 
 from . import ats as ATS
 from .http import FetchError
-from .match import Rules, assess, classify_location, is_excluded_company, title_category
+from .match import (Rules, assess, classify_location, has_evidence, is_excluded_company, job_category,
+                    row_still_fits, title_category)
+from . import deep
 from .models import Board, Job
 from .notify import Notifier
 from .dashboard import build_dashboard, write_dashboard
@@ -33,8 +37,8 @@ from .report import build_report, write_report
 from . import ats_more, robots
 from .ai import Reviewer
 from . import store as _store
-from .store import (ROOT, append_matches, append_rejected, load_boards, load_discovered, load_state, now_utc, prune_seen,
-                    read_matches, save_state, update_matches)
+from .store import (ROOT, append_matches, append_rejected, load_boards, load_discovered, load_focus_boards,
+                    load_state, now_utc, prune_seen, read_matches, save_state, update_matches)
 
 log = logging.getLogger("radar")
 
@@ -48,6 +52,11 @@ for _ats, _n in ats_more.CONCURRENCY.items():
 TIME_BUDGET_SECONDS = 17 * 60
 THROTTLE_LIMIT = 6
 REPORT_URL = "https://github.com/chandrakodali/job-radar/blob/main/REPORT.md"
+CONFIG_PATH = os.path.join(ROOT, "config.yaml")
+FOCUS_PATH = ""   # a profile's own employer list; set by --profile
+# Job systems whose listing is every open job: a saved match missing from it has been taken down.
+COMPLETE_LISTINGS = {"greenhouse", "lever", "ashby"}
+MAX_TEXT_RETRIES = 3
 
 
 def _dupe_key(company: str, title: str, location: str) -> str:
@@ -56,7 +65,7 @@ def _dupe_key(company: str, title: str, location: str) -> str:
 
 
 def load_config() -> dict:
-    with open(os.path.join(ROOT, "config.yaml"), encoding="utf-8") as f:
+    with open(CONFIG_PATH, encoding="utf-8") as f:
         return yaml.safe_load(f)
 
 
@@ -83,8 +92,7 @@ def resolve_auto_boards(boards: list[Board], state: dict, today: str) -> list[Bo
             state["resolved"][b.board] = rec
             log.info("auto-resolve %s -> %s", b.board, rec["ats"] or "not found")
         if rec.get("ats"):
-            out.append(Board(ats=rec["ats"], board=b.board, company=b.company,
-                             priority=b.priority, cap_exempt=b.cap_exempt))
+            out.append(dataclasses.replace(b, ats=rec["ats"]))
     return out
 
 
@@ -110,6 +118,10 @@ def run(args) -> int:
     tz = ZoneInfo(tz_name)
     now = now_utc()
     today = now.date().isoformat()
+    prof = cfg.get("profile") or {}
+    label = prof.get("label", "Job Radar")
+    report_url = prof.get("report_url", REPORT_URL)
+    budget = int(cfg.get("run", {}).get("time_budget_minutes", TIME_BUDGET_SECONDS // 60)) * 60
     state = load_state()
     bootstrap = not state.get("bootstrapped")
     notifier = Notifier(state, dry_run=args.dry_run or bootstrap)
@@ -117,16 +129,34 @@ def run(args) -> int:
     if bootstrap:
         log.info("First run: building the baseline quietly (no per-job alerts)")
 
-    boards = [b for b in load_boards() if not is_excluded_company(b, rules)]
+    general = bool(cfg.get("boards", {}).get("include_general", True))
+    boards = [b for b in (load_boards() if general else []) if not is_excluded_company(b, rules)]
+    focus = [b for b in load_focus_boards(FOCUS_PATH) if not is_excluded_company(b, rules)]
+    if focus:  # the profile's own employers come first and replace the same board in the general list
+        focus_keys = {b.key.lower() for b in focus}
+        boards = focus + [b for b in boards if b.key.lower() not in focus_keys]
     boards = resolve_auto_boards(boards, state, today)
     if args.only:
         boards = [b for b in boards if b.ats in args.only]
     known_keys = {b.key.lower() for b in boards}
-    found = [b for b in load_discovered(known_keys) + load_discovered(known_keys, _store.CAREERS_BOARDS_PATH, named=True)
+    found = [b for b in (load_discovered(known_keys) + load_discovered(known_keys, _store.CAREERS_BOARDS_PATH, named=True)
+                         if general else [])
              if not is_excluded_company(b, rules)]
     if args.only:
         found = [b for b in found if b.ats in args.only]
     total_boards = len(boards) + len(found)
+
+    # Keyword searches of the focus boards' full job text. A full sweep on the first run (or on request);
+    # otherwise a rotating slice of the keywords, so every keyword is searched every few runs.
+    search_cfg = cfg.get("search", {})
+    all_terms = [str(t) for t in search_cfg.get("terms") or []]
+    per_run = int(search_cfg.get("terms_per_run", 0)) or len(all_terms)
+    if all_terms and not (bootstrap or args.full_sweep) and per_run < len(all_terms):
+        start = int(state.get("term_cursor", 0)) % len(all_terms)
+        terms = (all_terms + all_terms)[start:start + per_run]
+        state["term_cursor"] = (start + per_run) % len(all_terms)
+    else:
+        terms = all_terms
 
     wd_cfg = cfg.get("workday", {})
     shards = int(wd_cfg.get("shards", 4))
@@ -135,7 +165,7 @@ def run(args) -> int:
     for b in boards:
         if board_disabled(state, b, today):
             continue
-        if b.ats == "workday" and not args.all_shards and workday_shard_of(b, shards) != slot:
+        if b.ats == "workday" and not b.focus and not args.all_shards and workday_shard_of(b, shards) != slot:
             continue
         selected.append(b)
     # Discovered boards: a rotating slice each run, so all of them are checked every few hours.
@@ -158,6 +188,9 @@ def run(args) -> int:
         selected = lim
     log.info("Boards: %d total (%d discovered), %d this run (workday slot %d/%d). Notifications: %s",
              total_boards, len(found), len(selected), slot, shards, notifier.describe())
+    if focus:
+        log.info("Focus boards: %d, each searched for %d of %d keywords this run",
+                 sum(1 for b in selected if b.focus), len(terms), len(all_terms))
 
     robot = robots.Robots(state.setdefault("robots", {}), today)
     robots.install(robot)
@@ -165,7 +198,7 @@ def run(args) -> int:
     dsems = {k: threading.Semaphore(v) for k, v in DETAIL_CONCURRENCY.items()}
     stats = Counter()
     errors = Counter()
-    deadline = t0 + TIME_BUDGET_SECONDS
+    deadline = t0 + budget
 
     throttled = Counter()  # 429s per ATS this run; past the limit we stop asking that ATS
 
@@ -178,7 +211,9 @@ def run(args) -> int:
             if throttled[b.ats] >= THROTTLE_LIMIT:
                 return b, None, "skipped (rate limited)"
             try:
-                if b.ats == "workday":
+                if b.focus:
+                    jobs = deep.deep_list(b, terms, search_cfg, stats)
+                elif b.ats == "workday":
                     jobs = ATS.workday_list(b, max_pages=int(wd_cfg.get("max_pages", 5)))
                 else:
                     jobs = ATS.LISTERS[b.ats](b)
@@ -192,6 +227,8 @@ def run(args) -> int:
                 return b, None, FetchError(f"{type(e).__name__}: {e}"[:80])
 
     candidates: list[tuple[Job, Board, str, bool]] = []
+    live: dict[str, set[str]] = {}   # board key -> every job it lists right now (complete listings only)
+    track_closed = bool(cfg.get("report", {}).get("track_closed"))
     newly_baselined: set[str] = set()
     pool = ThreadPoolExecutor(max_workers=40)
     futures = {pool.submit(fetch_board, b): b for b in selected}
@@ -217,10 +254,14 @@ def run(args) -> int:
             first_time = b.key not in state["baselined"]
             if first_time:
                 newly_baselined.add(b.key)
+            if track_closed and b.ats in COMPLETE_LISTINGS and jobs:
+                live[b.key] = {j.uid for j in jobs}
             for j in jobs:
                 stats["jobs_scanned"] += 1
-                cat = title_category(j.title, rules)
-                if not cat or j.uid in state["seen"]:
+                if j.uid in state["seen"]:
+                    continue
+                cat = job_category(j, b, rules)
+                if not cat:
                     continue
                 if j.posted_at and (now - j.posted_at).days > rules.max_post_age_days:
                     continue
@@ -233,7 +274,18 @@ def run(args) -> int:
         log.warning("Stopped waiting for %d slow boards: %s", sum(stuck.values()), dict(stuck))
     finally:
         pool.shutdown(wait=False, cancel_futures=True)
-    log.info("Scanned %d jobs; %d new title matches to check", stats["jobs_scanned"], len(candidates))
+    # Generic titles need their description read before we know if they fit. Cap how many we read per
+    # run; the rest stay unseen and are picked up by the next runs (focus boards and search hits first).
+    wide_cap = int(cfg.get("scoring", {}).get("max_wide_per_run", 0))
+    if wide_cap:
+        wide = [c for c in candidates if c[2] == "wide" and not c[0].description]
+        if len(wide) > wide_cap:
+            wide.sort(key=lambda c: (not c[1].focus, not c[0].found_by))
+            later = {id(c[0]) for c in wide[wide_cap:]}
+            candidates = [c for c in candidates if id(c[0]) not in later]
+            stats["deferred"] = len(later)
+    log.info("Scanned %d jobs; %d new title matches to check%s", stats["jobs_scanned"], len(candidates),
+             f" ({stats['deferred']} more left for the next runs)" if stats["deferred"] else "")
 
     def detail(item):
         j = item[0]
@@ -262,7 +314,7 @@ def run(args) -> int:
     rules_sig = hashlib.sha1(json.dumps(cfg.get("titles", {}), sort_keys=True).encode()).hexdigest()[:12]
     if state.get("title_rules") != rules_sig and not args.no_write:
         old = read_matches()
-        gone = [r for r in old if not title_category(r["title"], rules)
+        gone = [r for r in old if not row_still_fits(r, rules)
                 or (r.get("ats") == "sfrmk" and classify_location(*ats_more.rmk_location(r["location"])) == "non_us")]
         if gone:
             update_matches({}, {r["uid"] for r in gone})
@@ -275,11 +327,24 @@ def run(args) -> int:
                    for r in read_matches(since=now - timedelta(days=14))}
 
     new_rows, rejected_rows, queued = [], [], []
+    retries = state.setdefault("text_retries", {}) if rules.skills else {}
     for j, b, cat, first_time in detailed:
         if getattr(j, "title_guess", False):  # the listing only had a URL slug; judge the real title
-            cat = title_category(j.title, rules)
+            cat = job_category(j, b, rules)
             if not cat:
                 state["seen"][j.uid] = today
+                continue
+        if rules.skills:
+            # Fit is judged on the job text. If it could not be read this run, try again next run
+            # (a few times) instead of deciding without it.
+            if not j.description and j.ats in ATS.DETAILERS and retries.get(j.uid, 0) < MAX_TEXT_RETRIES:
+                retries[j.uid] = retries.get(j.uid, 0) + 1
+                stats["retry_later"] += 1
+                continue
+            retries.pop(j.uid, None)
+            if cat == "wide" and not has_evidence(f"{j.title}\n{j.description}", rules):
+                state["seen"][j.uid] = today
+                stats["wide_dropped"] += 1
                 continue
         a = assess(j, b, rules, cat, now=now)
         state["seen"][j.uid] = today
@@ -309,7 +374,10 @@ def run(args) -> int:
                        "q": now.isoformat()})
 
     # ---- AI review (when a key is configured): only kept jobs reach the CSV and the phone
-    reviewer = Reviewer(max_requests=int(cfg.get("ai", {}).get("max_requests_per_run", 12)))
+    ai_cfg = cfg.get("ai", {})
+    reviewer = Reviewer(max_requests=int(ai_cfg.get("max_requests_per_run", 12)), system=ai_cfg.get("system"),
+                        roles=ai_cfg.get("roles"), keep_senior=bool(ai_cfg.get("keep_senior")),
+                        max_min_years=int(ai_cfg.get("max_min_years", 5)))
     alerts = []
     threshold = rules.alert_threshold
 
@@ -383,6 +451,20 @@ def run(args) -> int:
         append_matches(new_rows)
         append_rejected(rejected_rows)
 
+    # Saved matches that a complete listing no longer shows have been taken down; ones that show up
+    # again are reopened. Kept in state so the report and page can leave closed jobs out.
+    closed = state.setdefault("closed", {}) if track_closed else {}
+    if track_closed and live:
+        for r in read_matches(since=now - timedelta(days=rules.max_post_age_days + 30)):
+            key = r["uid"].rsplit(":", 1)[0]
+            if key not in live:
+                continue
+            if r["uid"] in live[key]:
+                closed.pop(r["uid"], None)
+            elif r["uid"] not in closed and r["uid"] not in {x["uid"] for x in new_rows}:
+                closed[r["uid"]] = today
+                stats["closed"] += 1
+
     # ---- notifications
     alerts.sort(key=lambda m: -m["score"])
     max_alerts = int(cfg.get("scoring", {}).get("max_alerts_per_run", 15))
@@ -390,7 +472,8 @@ def run(args) -> int:
         for m in alerts[:max_alerts]:
             notifier.send_job(m)
         if len(alerts) > max_alerts:
-            notifier.send_text(f"{len(alerts) - max_alerts} more new matches are in the report.", click=REPORT_URL)
+            notifier.send_text(f"{len(alerts) - max_alerts} more new matches are in the report.", title=label,
+                               click=report_url)
 
     local_now = now.astimezone(tz)
     digest_hour = int(cfg.get("notify", {}).get("daily_digest_hour_local", 8))
@@ -398,12 +481,13 @@ def run(args) -> int:
     channels = notifier.describe()
     if notifier.configured and not args.dry_run and state.get("channels") != channels:
         week = [r for r in read_matches(since=now - timedelta(days=7)) if r["status"] in ("alert", "quiet")]
-        live = Notifier(state, dry_run=False)
-        live.send_text(
-            f"Job Radar is connected ({channels}). Watching {total_boards:,} job boards. "
+        first = Notifier(state, dry_run=False)
+        first.send_text(
+            f"{label} is connected ({channels}). Watching {total_boards:,} job boards. "
             f"{len(week)} matching US jobs are in this week's report. New strong matches will reach you "
-            "here within about 30 minutes of posting, plus a daily digest.",
-            click=REPORT_URL,
+            + ("here within about 30 minutes of posting, plus a daily digest." if not prof
+               else "here after each scan, plus a daily digest."),
+            title=label, click=report_url,
         )
         state["channels"] = channels
         state["last_digest"] = local_today
@@ -418,7 +502,7 @@ def run(args) -> int:
                + (f". Top picks:\n{top}" if top else ".")
                + f"\nRadar health: {total_boards:,} boards, {failing} with temporary errors.")
         if notifier.configured and not args.dry_run:
-            notifier.send_text(msg, click=REPORT_URL)
+            notifier.send_text(msg, title=label, click=report_url)
         else:
             log.info("digest: %s", msg.replace("\n", " | "))
         state["last_digest"] = local_today
@@ -428,8 +512,9 @@ def run(args) -> int:
     state["bootstrapped"] = True
     if not args.no_write:
         save_state(state)
-        write_report(build_report(tz_name, total_boards, now=now))
-        write_dashboard(build_dashboard(tz_name, total_boards, reviewer.describe(), now=now))
+        write_report(build_report(tz_name, total_boards, now=now, profile=prof, closed=set(closed)))
+        write_dashboard(build_dashboard(tz_name, total_boards, reviewer.describe(), now=now, profile=prof,
+                                        closed=set(closed)))
 
     elapsed = time.monotonic() - t0
     ok = {k[3:]: v for k, v in stats.items() if k.startswith("ok_")}
@@ -443,11 +528,18 @@ def run(args) -> int:
         f"AI review: {reviewer.describe()}; reviewed {stats['ai_reviewed']}, rejected {stats['ai_rejected']}, "
         f"backfilled {stats['ai_backfilled']}, waiting {len(state.get('ai_queue', []))}."
     )
+    if rules.skills:
+        summary += (
+            f" Keyword searches: {stats['searches']} run ({stats['search_failed']} failed), "
+            f"{stats['search_hits']} results. Generic titles dropped for lack of matching tools: "
+            f"{stats['wide_dropped']}; left for the next run: {stats['deferred']}; "
+            f"text not read yet: {stats['retry_later']}; taken down: {stats['closed']}."
+        )
     log.info(summary)
     step_summary = os.environ.get("GITHUB_STEP_SUMMARY")
     if step_summary:
         with open(step_summary, "a", encoding="utf-8") as f:
-            f.write(f"### Job Radar run\n\n{summary}\n\n")
+            f.write(f"### {label} run\n\n{summary}\n\n")
             if new_rows:
                 f.write("| Score | Status | Role | Company | Location |\n|---:|---|---|---|---|\n")
                 for r in sorted(new_rows, key=lambda r: -r["score"])[:40]:
@@ -462,14 +554,26 @@ def main(argv=None) -> int:
     p.add_argument("--only", nargs="*", help="only these ATS types")
     p.add_argument("--limit", type=int, default=0, help="max boards per ATS (testing)")
     p.add_argument("--all-shards", action="store_true", help="check every Workday board this run")
+    p.add_argument("--profile", default="", help="run another search: profiles/<name>/config.yaml")
+    p.add_argument("--full-sweep", action="store_true", help="search focus boards for every keyword this run")
     p.add_argument("-v", "--verbose", action="store_true")
     args = p.parse_args(argv)
     logging.basicConfig(level=logging.DEBUG if args.verbose else logging.INFO,
                         format="%(asctime)s %(levelname)s %(name)s: %(message)s", stream=sys.stdout)
     logging.getLogger("urllib3").setLevel(logging.WARNING)
+    if args.profile:
+        from . import profile
+        global CONFIG_PATH, FOCUS_PATH
+        paths = profile.activate(args.profile)
+        CONFIG_PATH, FOCUS_PATH = paths["config"], paths["focus"]
     rc = run(args)
-    # A worker stuck on a slow server must not keep the process (and the Actions job) alive.
-    if any(t.is_alive() and not t.daemon for t in threading.enumerate() if t is not threading.main_thread()):
+    # A worker stuck on a slow server must not keep the process (and the Actions job) alive. Workers
+    # that are merely finishing up get a moment first, so a normal run returns instead of hard-exiting.
+    workers = [t for t in threading.enumerate() if t is not threading.main_thread() and not t.daemon]
+    give_up = time.monotonic() + 3
+    for t in workers:
+        t.join(max(0.0, give_up - time.monotonic()))
+    if any(t.is_alive() for t in workers):
         log.warning("Exiting with slow requests still open")
         sys.stdout.flush()
         os._exit(rc)

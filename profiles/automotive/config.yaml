@@ -1,0 +1,328 @@
+# Auto Radar: automotive embedded software roles in the US.
+# Built from the resume: ~4 years at a steering Tier-1 (EPS, Steer-by-Wire, ADAS features), model-based
+# development in MATLAB/Simulink/Stateflow, Embedded Coder and TargetLink code generation, AUTOSAR with
+# DaVinci, Polyspace, MISRA C, ISO 26262, ASPICE, MIL/SIL testing, CAN, DOORS, Jenkins, Git.
+#
+# Patterns are case-insensitive regular expressions. Title patterns are matched against the job TITLE,
+# skill patterns against the title + description.
+
+profile:
+  name: automotive
+  label: 'Auto Radar'
+  report_url: 'https://github.com/chandrakodali/job-radar/blob/main/REPORT_AUTOMOTIVE.md'
+  matches_file: 'data/automotive/matches.csv'
+  report_days: 60          # the report lists open matches found in the last N days
+  report_rows: 400
+  hidden_rows: 100
+  watching: >-
+    for automotive embedded software roles in the US: embedded and controls software, model-based
+    development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive
+    employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles
+    are found too.
+  score_note: >-
+    Score is 0–100: mostly how many of the resume's tools the job text names (listed under Notes), then
+    years required, freshness and location.
+  hidden_note: >-
+    Jobs that need a security clearance, US citizenship or ITAR status, jobs whose text names none of the
+    resume's tools, and jobs the AI reviewer (if enabled) judged off-target. The reason is in the Notes
+    column. Listed so nothing is dropped silently.
+  refresh_note: 'Refreshes every few hours.'
+  chips:   # which notes show red / green / amber on the page
+    bad: 'no visa sponsorship|clearance|citizen|itar|stretch|staffing|open \d+ days|([89]|1\d)\+ yrs|none of your tools'
+    good: '^tools:|sponsors visas|e-verify|priority'
+    warn: '[67]\+ yrs|repost|unclear|entry-level|not read'
+
+boards:
+  include_general: true    # also scan every board the DevOps radar watches (by title)
+
+run:
+  time_budget_minutes: 22
+
+report:
+  track_closed: true       # drop matches whose posting has been taken down (Greenhouse, Lever, Ashby)
+
+# Keyword searches of the full job text on the automotive employers' boards (Workday, SmartRecruiters,
+# Oracle, Eightfold, Phenom, SuccessFactors). Every hit is then checked against `skills` below.
+search:
+  terms:
+    - 'AUTOSAR'
+    - 'Simulink'
+    - 'Stateflow'
+    - 'TargetLink'
+    - 'Embedded Coder'
+    - 'Polyspace'
+    - 'MISRA'
+    - 'ISO 26262'
+    - 'ASPICE'
+    - 'model-based'
+    - 'software-in-the-loop'
+    - 'HIL'
+    - 'steer-by-wire'
+    - 'steering'
+    - 'ADAS'
+    - 'functional safety'
+    - 'dSPACE'
+    - 'CANoe'
+    - 'DaVinci'
+    - 'MATLAB'
+    - 'embedded software'
+    - 'embedded controls'
+    - 'controls software'
+    - 'firmware'
+    - 'ECU'
+  terms_per_run: 9         # the first run searches all of them; later runs rotate through
+  search_pages: 3          # result pages per keyword per board
+  list_max_pages: 10       # how far back the ordinary newest-first listing is read
+  list_max_age_days: 30
+
+titles:
+  # Clearly the target role: kept when the description names at least one tool (or could not be read).
+  core:
+    - '^(?=.*\bembedded\b)(?=.*\b(software|firmware|sw|systems?|controls?|engineer|developer|programmer|linux)\b)'
+    - '\bfirmware\b'
+    - '\bautosar\b'
+    - '\bmodel[\s-]*based\b'
+    - '\bmbd\b'
+    - '\b(matlab|simulink|stateflow|targetlink|dspace)\b'
+    - '\bcontrols?\b.{0,25}\b(software|firmware|algorithms?)\b'
+    - '\b(software|firmware|algorithms?)\b.{0,25}\bcontrols?\b'
+    - '\b(adas|autonomous driving|automated driving|active safety|driver assistance)\b.{0,40}\b(software|controls?|algorithms?|features?|systems?|integration|functions?)\b'
+    - '\b(software|controls?|algorithms?|features?|systems?|integration)\b.{0,40}\b(adas|automated driving|active safety|driver assistance)\b'
+    - '\b(steering|steer[\s-]by[\s-]wire|eps)\b.{0,50}\b(engineer|software|controls?|systems?|developer|algorithms?)\b'
+    - '\b(engineer|software|controls?|developer|algorithms?)\b.{0,50}\b(steering|steer[\s-]by[\s-]wire)\b'
+    - '\b(hil|sil|mil|pil)\b.{0,30}\b(engineer|test|testing|validation|verification|simulation|developer|bench|systems?)\b'
+    - '\b(hardware|software|model|processor)[\s-]in[\s-](the[\s-])?loop\b'
+    - '\b(vehicle|automotive|powertrain|chassis|propulsion|body|bms|battery|motor|inverter|ecu|drive ?unit|e-?drive|brakes?|braking|suspension|thermal|infotainment|cockpit|transmission|driveline|electrification|traction|vcu|domain controller|zonal)\b.{0,30}\b(controls?|software|firmware|algorithms?)\b'
+    - '\b(software|controls?|firmware|algorithms?)\b.{0,30}\b(vehicle|automotive|powertrain|chassis|propulsion|ecu|motor controls?|vehicle dynamics|bms|battery management|inverter|e-?drive|drive ?unit|brakes?|braking|electrification)\b'
+    - '\b(engine|vehicle|chassis|powertrain|propulsion|battery|thermal|transmission|brake|suspension|motor)\s+controls?\b'
+    - '\b(bsw|basic software|base software|mcal|boot ?loader|bsp|board support|device drivers?|low[\s-]level software|bare[\s-]metal)\b'
+    - '\b(real[\s-]time|safety[\s-]critical)\b.{0,15}\b(software|embedded|systems?)\b'
+    - '\b(microcontrollers?|mcu|rtos)\b'
+    - '\becus?\b'
+    - '\b(auto(matic)?[\s-]?code|code)[\s-]generation\b'
+    - '\bfunctional safety\b.{0,30}\bsoftware\b'
+    - '\bsoftware\b.{0,30}\bfunctional safety\b'
+  bridge: []
+
+  # Generic titles, on any board: kept only when the description shows the resume's tools
+  # (at least one "strong" skill and a total weight of skills.wide_min_weight).
+  wide:
+    - '\bcontrols?\b.{0,20}\b(engineer|developer|scientist|specialist)\b'
+    - '\b(engineer|developer)\b.{0,10}\bcontrols?\b'
+    - '\bcontrol systems?\b'
+    - '\balgorithms?\b.{0,20}\b(engineer|developer)\b'
+    - '\b(functional safety|fusa|system safety)\b'
+    - '\b(iso[\s-]*)?26262\b'
+    - '\bmechatronics?\b'
+    - '\b(simulation|modell?ing)\b.{0,20}\b(engineer|developer)\b'
+    - '\brobotics?\b.{0,25}\b(software|controls?|firmware)\b'
+    - '\b(flight controls?|avionics|gnc|guidance,? navigation)\b'
+    - '\bc\+\+|\bc/c\+\+|\bc (programmer|developer|engineer|software)\b'
+    - '\bsoftware\b.{0,40}\b(hardware|robot(ics)?|devices?|avionics|flight|real[\s-]time|low[\s-]level|sensors?|electronics|machines?|equipment|instruments?)\b'
+    - '\bsystems? software\b'
+    - '\brequirements? engineer\b'
+    - '\b(software|sw|systems?)\s+(integration|verification|validation|v&v)\b'
+    - '\b(electrification|e-?mobility|powertrain|chassis|propulsion|adas|autonomy|autonomous|vehicle|automotive)\b.{0,40}\bengineer'
+    - '\bengineer\b.{0,40}\b(electrification|e-?mobility|powertrain|chassis|propulsion|adas|autonomy|vehicle|automotive)\b'
+
+  # Even more generic titles, only on the automotive employers' boards (profiles/automotive/companies.csv).
+  wide_focus:
+    - '\bsoftware\b'
+    - '\b(developer|programmer)\b'
+    - '\bsystems?\b.{0,25}\b(engineer|architect|integration|design|developer)\b'
+    - '\b(test|validation|verification|integration|calibration|diagnostics?|safety|electrical|electronics?|hardware|r&d|research|development|applications?|features?|functions?|product|project|design|performance|tools?|technical|engineering|simulation)\b.{0,20}\b(engineer|developer|specialist|lead)\b'
+    - '\bengineer\b'
+
+  # Never a fit: management, non-engineering work, other engineering disciplines, other software fields.
+  exclude:
+    - '\bmanager\b|\bmgr\b|\bmanger\b|\bsupervisor\b'
+    - '\bdirector\b|\bhead of\b|\bvp\b|vice president|\bchief\b|\bpresident\b'
+    - '\bdistinguished\b|\bfellow\b'
+    - '\bintern(ship)?s?\b|\bco-?ops?\b|\bsummer\b|\bapprentice|\btrainee\b|working student|\bwerkstudent'
+    - '\btechnicians?\b|\bmechanic\b|\bassembler\b|\boperator\b|\bmachinist\b|\bwelder\b|\belectrician\b'
+    - '\bsales\b|account (executive|manager)|\brecruit|\bmarketing\b|\bbuyer\b|purchasing|procurement'
+    - '\bfinance\b|\bfinancial\b|\baccount(ant|ing)\b|attorney|\bcounsel\b|paralegal|\blegal\b'
+    - 'customer (success|support|service)|help ?desk|desktop support|technical writer|documentation'
+    - 'professor|lecturer|faculty|\bteacher\b|\binstructor\b|\btrainer\b'
+    - '\b(m/w/d|w/m/d|m/f/d|f/m/d|m/f/x|f/h|h/f)\b|\bing[ée]nieur|\bstage\b|alternance'
+    - 'embedded (finance|payments?|analytics|insurance|banking|lending|bi|wallets?|fintech|commerce|checkout|partner|clinical|consultant|pharmacist|therapist|counselor|coach)\b'
+    - '\b(quality|document|internal|access|inventory|production|financial|project|cost|pest|traffic|export|change|materials?|process|infection|sox|noise|emissions?|pollution|flow|version|source|credit|risk|trade|budget|stock|program|business|it|security|building|lighting|climate|irrigation)\s+controls?\b'
+    - '\bmechanical\b.{0,20}\bengineer|\bmanufacturing\b|\bindustrial engineer|\bprocess engineer|supplier quality|(?<!software )\bquality engineer'
+    - 'design (and|&)? ?release|\bcae\b|\bnvh\b|\bcrash\b|\bmaterials?\b.{0,10}engineer|\btooling\b|\bmaintenance\b|facilit(y|ies)|\bcost engineer|\bpackaging\b|\bcivil\b|\bchemical\b|\bplant\b|\bwarehouse\b'
+    - 'full[\s-]?stack|front[\s-]?end|back[\s-]?end|\bweb\b|\bcloud\b|dev\s*ops|\bsre\b|site reliability|\bsalesforce\b|servicenow|\bsap\b|\bworkday\b|\bnetwork (engineer|administrator)|data cent(er|re)|\bios\b|\bandroid\b.{0,10}(app|developer)|\bmobile app'
+    - 'data (scientist|analyst|engineer)|business (analyst|intelligence)|\bux\b|\bui\b.{0,10}designer|\bproduct designer|scrum master|product owner'
+    - '\bclearance\b|\bts/sci\b|\btop secret\b|\bclassified\b'
+    - '\bplc\b|\bscada\b|building automation|\bbms technician'
+
+  # A level above ~4 years of experience: kept, flagged as a stretch and scored lower.
+  stretch:
+    - '\bprincipal\b'
+    - '\bstaff\b'
+    - '\barchitect\b'
+    - '\blead\b'
+    - '\bexpert\b'
+    - '\b(iv|v)\b'
+    - '\b(level|lvl)\s*[4-9]\b'
+
+  # Titles naming the resume's specialty: small bonus.
+  boost:
+    - '\bsteer|\beps\b'
+    - '\bautosar\b'
+    - '\bmodel[\s-]*based\b|\bmbd\b|\bsimulink\b|\bmatlab\b'
+    - '\badas\b|driver assistance|active safety'
+    - '\bembedded\b.{0,25}\bcontrols?\b|\bcontrols?\b.{0,25}\b(software|embedded)\b'
+    - '\b(mil|sil)\b|in[\s-](the[\s-])?loop'
+
+  entry:
+    - '\bjunior\b'
+    - '\bjr\.?\b'
+    - '\bassociate\b'
+    - '\bentry\b'
+    - 'new grad'
+    - '\bgraduate\b'
+    - 'early career'
+    - 'university (grad|graduate|hire|program|recruit)'
+    - '\b(engineer|developer|analyst|specialist)\s+(i|1)\b'
+    - '\b(level|lvl)\s*1\b'
+
+# The resume's tools and methods, looked for in each job's title + description.
+# strong = 3 points, medium = 2, weak = 1. The names are what the report shows under Notes.
+skills:
+  wide_min_weight: 6        # generic titles need this many points AND at least one strong skill
+  untitled_min_weight: 9    # titles matching nothing (found via text only) need this AND two strong skills
+  core_min_weight: 2        # target titles whose text names fewer points than this go to the hidden list
+  strong:
+    AUTOSAR: '\bautosar\b'
+    Simulink: '\bsimulink\b'
+    Stateflow: '\bstateflow\b'
+    Embedded Coder: '\bembedded\s*coder\b|\breal[\s-]*time workshop\b'
+    TargetLink: '\btarget\s*link\b'
+    Polyspace: '\bpolyspace\b'
+    DaVinci: '\bda\s?vinci\b(?!\s+resolve)'
+    MISRA: '\bmisra\b'
+    ISO 26262: '\b26262\b|\basil(\s*-?\s*[a-d])?\b'
+    ASPICE: '\ba-?spice\b|\bautomotive spice\b'
+    Model-based design: '\bmodel[\s-]*based\s+(design|development|software|engineering|controls?|approach|methods?)\b|\bmbd\b'
+    MIL/SIL/HIL: '\b(mil|sil|hil|pil)\b\s*(/|,|&|and|or|test|bench|sim|valid|verif|rig|setup|environment)|\b(model|software|hardware|processor)[\s-]*in[\s-]*(the[\s-]*)?loop\b'
+    Steering/EPS: '\belectric power steering\b|\bsteer[\s-]*by[\s-]*wire\b|\bsteering (systems?|controls?|software|features?|gear|column|actuator)\b|\beps\b'
+    ADAS: '\badas\b|\blane (keep|centering|departure)|\badvanced driver'
+    Functional safety: '\bfunctional safety\b|\bfusa\b'
+    Reactis/MXAM/MAAB: '\breactis\b|\bmxam\b|\bmaab\b|\bmodel advisor\b'
+    dSPACE: '\bdspace\b'
+    CANoe/CANalyzer: '\bcan(oe|alyzer|ape)\b|\bvector tools?\b'
+  medium:
+    MATLAB: '\bmatlab\b'
+    Embedded software: '\bembedded\s+(c\b|c/c\+\+|software|systems?|firmware|controls?|development|programming|applications?)'
+    CAN: '\bcan\s*(bus|fd|/|,|protocol|network|communication|and lin)|\bcan[\s-]*(bus|fd)\b|\b(lin|flexray)\s*(bus|,|/|protocol|and)|\bj1939\b'
+    ECU: '\becus?\b|\belectronic control units?\b'
+    DOORS: '(?-i:\bDOORS\b)|\b(ibm|rational)\s+doors\b|\bdoors\s*(ng|next)\b|\bdng\b'
+    Code generation: '\b(auto(matic)?|production)[\s-]*code[\s-]*generation\b|\bauto[\s-]*cod(e|ing)\b|\bcode generation\b'
+    Automotive: '\bautomotive\b|\bvehicle (software|controls?|dynamics|systems?)\b|\boems?\b'
+    V-model: '\bv[\s-]*(model|cycle)\b'
+    Diagnostics: '\buds\b|\bobd\b|\b14229\b|\bdiagnostic (trouble|services)'
+    RTOS/microcontrollers: '\brtos\b|\bmicro[\s-]*controllers?\b|\bmcus?\b'
+    Static analysis: '\bstatic (code )?analysis\b|\bcode coverage\b|\bmc/dc\b'
+    Controls: '\bcontrols? (algorithms?|software|theory|strategy|strategies|design)\b|\bstate[\s-]machines?\b|\bfeedback control\b'
+    Requirements: '\brequirements? (engineering|management|development|traceability|analysis)\b'
+  weak:
+    C/C++: '\bc/c\+\+|\bc\+\+|\bembedded c\b|\bc (programming|language|code)\b|\bansi c\b'
+    Python: '\bpython\b'
+    Jenkins/CI: '\bjenkins\b|\bci/cd\b|\bcontinuous integration\b'
+    Git: '\bgit\b'
+    Unit testing: '\bunit[\s-]*test'
+
+description:
+  # Listed separately in the report instead of alerting.
+  blockers:
+    - '(security|secret|top secret|ts/sci|ts|sci|dod|public trust)\s+clearance'
+    - 'clearance (is |will be )?required'
+    - 'active (secret|top secret|ts/sci|ts)\b'
+    - 'ability to (obtain|maintain) (a |an )?(\w+ )?(security )?clearance'
+    - 'must (be|hold) (a |an )?(u\.?s\.?|united states) citizen'
+    - '(u\.?s\.?|united states) citizenship (is )?(required|is a requirement|needed)'
+    - 'requires? (u\.?s\.?|united states) citizenship'
+    - '(must be|only) (a )?(u\.?s\.?|us) persons?'
+    - '\bitar\b'
+    - 'export control.{0,80}(u\.?s\.? person|citizen)'
+  blocker_exceptions:
+    - 'no (security )?clearance (is )?required'
+    - 'clearance (is )?not required'
+    - 'does not require (a |an )?(security )?clearance'
+  no_sponsorship:
+    - '(not|unable to|cannot|can.t|will not|won.t|does not|do not|is not able to)\s+(provide |offer |support )?(employment |work )?(visa )?sponsor'
+    - 'sponsorship (is )?(not|un)available'
+    - 'without (the )?(need for )?(current or future |now or in the future )?(employer |visa )?sponsorship'
+    - 'now or in the future.{0,60}sponsor'
+  sponsors:
+    - 'visa sponsorship (is )?available'
+    - 'will sponsor'
+    - 'sponsorship (is )?available'
+    - 'open to sponsor'
+  e_verify:
+    - 'e-?verify'
+
+staffing_company_patterns:
+  - 'consult'
+  - 'staffing'
+  - 'recruit'
+  - 'talent'
+  - 'infotech'
+  - '\bit solutions\b'
+  - 'technologies llc'
+  - 'systems llc'
+
+scoring:
+  mode: experienced           # senior titles are fine; fit is judged on the tools in the job text
+  years_experience: 4
+  alert_threshold: 60         # "strong" matches (phone alerts, if set up) at or above this score
+  max_alerts_per_run: 15
+  max_post_age_days: 150      # postings open longer than this are ignored
+  stale_after_days: 60        # ...and ones open longer than this are flagged
+  block_alerts_if_years_at_least: 9
+  max_wide_per_run: 3000      # generic-title descriptions read per run; the rest wait for the next run
+  home_locations:             # small bonus
+    - '\bmichigan\b'
+    - ',\s*MI\b'
+
+big_companies: []
+
+# Skipped entirely: the current employer.
+exclude_companies:
+  - 'nexteer'
+
+workday:
+  shards: 4
+  max_pages: 5
+
+notify:
+  daily_digest_hour_local: 8
+  timezone: 'America/Detroit'
+
+# Optional AI check (turns on when an AI key secret exists; see radar/ai.py).
+ai:
+  max_requests_per_run: 6
+  keep_senior: true
+  max_min_years: 8
+  roles: [embedded, controls, mbd, autosar, adas, test, systems, related, other]
+  system: |
+    You screen job postings for one candidate and answer only with JSON.
+    Candidate: automotive embedded software engineer in Michigan, USA, about 4 years of experience at a
+    steering Tier-1 supplier (Electric Power Steering, Steer-by-Wire, ADAS lane-keeping features).
+    Skills: C, C++, basic Python, model-based development in MATLAB/Simulink/Stateflow, Embedded Coder and
+    TargetLink code generation, AUTOSAR (DaVinci Developer/Configurator), Polyspace, MISRA C, ISO 26262,
+    ASPICE, MIL/SIL testing (Reactis), CAN, IBM DOORS, Jenkins, Git.
+    Wanted roles: embedded software / firmware, controls software and algorithms, model-based development,
+    AUTOSAR, ADAS / chassis / steering / powertrain / battery / motor-control software, software
+    integration, MIL/SIL/HIL test and verification, and closely related work in automotive, trucks,
+    off-highway, aerospace, robotics or other safety-critical embedded products.
+    NOT wanted: web / cloud / IT / data roles, mechanical, manufacturing or quality roles, PLC / industrial
+    automation, management, sales, technician jobs, internships.
+    Rules: "fit" is "yes" for a wanted role, "related" for a closely related role, "no" otherwise.
+    "level" is entry (0-2 yrs), mid (3-7 yrs) or senior (8+ yrs, or staff/principal). "min_years" is the
+    smallest number of years the posting requires (null if not stated). "sponsor" is "yes" if it offers
+    visa sponsorship, "no" if it says no sponsorship, else "unknown". "clearance" is true if it needs a
+    security clearance or US citizenship. "score" 0-100 = how well the candidate's tools and experience
+    match what the posting asks for. "why" = at most 14 words.
+
+discovery:
+  boards_per_run: 3000

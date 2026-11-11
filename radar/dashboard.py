@@ -5,6 +5,7 @@ Decisions (saved / applied / skipped) are kept in the viewer's browser (localSto
 """
 from __future__ import annotations
 
+import html
 import json
 import os
 from datetime import datetime, timedelta, timezone
@@ -23,11 +24,17 @@ def _slim(r: dict, extra=()) -> dict:
     return {k: r.get(k, "") for k in KEEP + tuple(extra)}
 
 
-def build_dashboard(tz_name: str, boards_total: int, ai_status: str, now: datetime | None = None) -> str:
+def build_dashboard(tz_name: str, boards_total: int, ai_status: str, now: datetime | None = None,
+                    profile: dict | None = None, closed: set[str] = frozenset()) -> str:
+    """`profile` (the `profile:` section of a profile's config) changes the page's name, how far back it
+    looks and where the viewer's marks are stored; `closed` holds matches whose postings were taken down."""
     now = now or datetime.now(timezone.utc)
     tz = ZoneInfo(tz_name)
-    jobs = [_slim(r) for r in read_matches(since=now - timedelta(days=30)) if r.get("status") in ("alert", "quiet")]
-    hidden = [_slim(r, ("reject_reason",)) for r in read_rejected(since=now - timedelta(days=7))]
+    p = profile or {}
+    days = int(p.get("report_days", 7))
+    jobs = [_slim(r) for r in read_matches(since=now - timedelta(days=max(30, days)))
+            if r.get("status") in ("alert", "quiet") and r["uid"] not in closed]
+    hidden = [_slim(r, ("reject_reason",)) for r in read_rejected(since=now - timedelta(days=days))]
     meta = {
         "updated": now.isoformat(),
         "updated_local": now.astimezone(tz).strftime("%a %b %-d, %-I:%M %p %Z"),
@@ -36,7 +43,28 @@ def build_dashboard(tz_name: str, boards_total: int, ai_status: str, now: dateti
     }
     data = json.dumps({"meta": meta, "jobs": jobs, "hidden": hidden}, separators=(",", ":"))
     data = data.replace("</", "<\\/")
-    return TEMPLATE.replace("/*DATA*/null", data)
+    page = TEMPLATE
+    if p:
+        label = html.escape(p.get("label", "Job Radar"))
+        page = page.replace("<title>Job Radar</title>", f"<title>{label}</title>")
+        page = page.replace("<h1>Job Radar</h1>", f"<h1>{label}</h1>")
+        page = page.replace('"jobradar.marks.v1"', json.dumps(f"jobradar.{p.get('name', 'profile')}.marks.v1"))
+        page = page.replace('"Refreshes about every 30 minutes."', json.dumps(p.get("refresh_note", "Refreshes every few hours.")))
+        if days > 7:  # this page is a list of open jobs, not only this week's new ones
+            page = page.replace('<option value="7" selected>Last 7 days</option><option value="30">Last 30 days</option>',
+                                f'<option value="7">Last 7 days</option><option value="30">Last 30 days</option>'
+                                '<option value="3650" selected>All open</option>')
+            page = page.replace("to review (7 days)", "to review").replace("< 7 * 24 * H).length", "< 3650 * 24 * H).length")
+            page = page.replace("hrs > 3 ?", "hrs > 9 ?")
+        if p.get("chips"):  # which note chips are red / green / amber for this candidate
+            c = p["chips"]
+            old = page[page.index("function chipClass(f)"):page.index("const mark = uid")]
+            new = ("function chipClass(f) { f = f.toLowerCase();\n"
+                   f"  if (new RegExp({json.dumps(c.get('bad', '$^'))}).test(f)) return \"b\";\n"
+                   f"  if (new RegExp({json.dumps(c.get('good', '$^'))}).test(f)) return \"g\";\n"
+                   f"  if (new RegExp({json.dumps(c.get('warn', '$^'))}).test(f)) return \"w\"; return \"\"; }}\n")
+            page = page.replace(old, new)
+    return page.replace("/*DATA*/null", data)
 
 
 def write_dashboard(html: str) -> None:

@@ -66,6 +66,25 @@ def load_boards() -> list[Board]:
     return list(boards.values())
 
 
+def load_focus_boards(path: str) -> list[Board]:
+    """A profile's own employer list (profiles/<name>/companies.csv): scanned in depth every run."""
+    out: dict[str, Board] = {}
+    if not path or not os.path.exists(path):
+        return []
+    with open(path, newline="", encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            ats = (row.get("ats") or "").strip().lower()
+            board = (row.get("board") or "").strip()
+            if not board or ats.startswith("#") or ats not in VALID_ATS:
+                continue
+            company = (row.get("company") or "").strip() or board
+            b = Board(ats=ats, board=board, company=company, focus=True,
+                      priority=_truthy(row.get("priority")),
+                      cap_exempt=bool(CAP_EXEMPT_RE.search(company)) and not NOT_CAP_EXEMPT_RE.search(company))
+            out[b.key.lower()] = b
+    return list(out.values())
+
+
 def load_discovered(known: set[str], path: str | None = None, named: bool = False) -> list[Board]:
     """discovered.csv (found automatically by scripts/discover_boards.py), minus boards already listed.
 

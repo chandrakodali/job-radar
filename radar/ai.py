@@ -65,7 +65,14 @@ def _config():
 
 
 class Reviewer:
-    def __init__(self, max_requests: int = 12, batch: int = 5):
+    def __init__(self, max_requests: int = 12, batch: int = 5, system: str | None = None,
+                 roles: list[str] | None = None, keep_senior: bool = False, max_min_years: int = 5):
+        """`system`, `roles`, `keep_senior` and `max_min_years` let a profile describe another candidate
+        (see the `ai:` section of profiles/<name>/config.yaml); the defaults are the DevOps radar's."""
+        self.system = (system or SYSTEM).strip()
+        self.roles = tuple(roles or ROLES)
+        self.keep_senior = keep_senior
+        self.max_min_years = max_min_years
         self.cfg = _config()
         self.max_requests = max_requests
         self.batch = batch
@@ -88,7 +95,7 @@ class Reviewer:
         if c["kind"] == "anthropic":
             r = requests.post(c["url"], timeout=90, headers={
                 "x-api-key": c["key"], "anthropic-version": "2023-06-01", "content-type": "application/json"},
-                json={"model": c["model"], "max_tokens": 1500, "system": SYSTEM,
+                json={"model": c["model"], "max_tokens": 1500, "system": self.system,
                       "messages": [{"role": "user", "content": prompt}]})
             if r.status_code != 200:
                 raise RuntimeError(f"HTTP {r.status_code}: {r.text[:200]}")
@@ -97,7 +104,7 @@ class Reviewer:
         if "openrouter" in c["url"]:
             headers["X-Title"] = "job-radar"
         body = {"model": c["model"], "temperature": 0,
-                "messages": [{"role": "system", "content": SYSTEM}, {"role": "user", "content": prompt}]}
+                "messages": [{"role": "system", "content": self.system}, {"role": "user", "content": prompt}]}
         r = requests.post(c["url"], timeout=90, headers=headers, json=body)
         if r.status_code in (400, 404) and "model" in r.text.lower() and self._autopick():
             body["model"] = self.cfg["model"]
@@ -141,7 +148,7 @@ class Reviewer:
                              f"Radar notes: {it.get('flags') or 'none'}\nDescription: {desc or '(not available)'}")
             prompt = ("Review these jobs. Answer with a JSON object {\"jobs\": [...]} holding one entry per job, "
                       "in order, each {\"i\": n, \"fit\", \"role\", \"level\", \"min_years\", \"sponsor\", "
-                      "\"clearance\", \"score\", \"why\"} where role is one of " + ", ".join(ROLES) + ".\n\n"
+                      "\"clearance\", \"score\", \"why\"} where role is one of " + ", ".join(self.roles) + ".\n\n"
                       + "\n\n".join(lines))
             self.requests += 1
             try:
@@ -163,7 +170,7 @@ class Reviewer:
                 except (TypeError, ValueError):
                     continue
                 if 0 <= n < len(chunk):
-                    out[chunk[n]["uid"]] = _clean(v)
+                    out[chunk[n]["uid"]] = _clean(v, self.roles, self.keep_senior, self.max_min_years)
             time.sleep(1.5)
         return out
 
@@ -180,7 +187,7 @@ def _parse(text: str) -> list[dict]:
     return [d for d in data if isinstance(d, dict)]
 
 
-def _clean(v: dict) -> dict:
+def _clean(v: dict, roles=ROLES, keep_senior: bool = False, max_min_years: int = 5) -> dict:
     def num(x, lo, hi):
         try:
             return max(lo, min(hi, int(float(x))))
@@ -192,16 +199,17 @@ def _clean(v: dict) -> dict:
     clearance = v.get("clearance") in (True, "true", "yes", 1)
     min_years = num(v.get("min_years"), 0, 30)
     score = num(v.get("score"), 0, 100)
-    keep = fit in ("yes", "related") and level != "senior" and not clearance and not (min_years is not None and min_years >= 5)
+    too_senior = (level == "senior" and not keep_senior) or (min_years is not None and min_years >= max_min_years)
+    keep = fit in ("yes", "related") and not too_senior and not clearance
     reasons = []
     if fit not in ("yes", "related"):
         reasons.append("not a target role")
-    if level == "senior" or (min_years is not None and min_years >= 5):
+    if too_senior:
         reasons.append("too senior")
     if clearance:
         reasons.append("clearance/citizenship")
     return {
-        "keep": keep, "fit": fit, "role": role if role in ROLES else "other", "level": level,
+        "keep": keep, "fit": fit, "role": role if role in roles else "other", "level": level,
         "min_years": min_years, "sponsor": str(v.get("sponsor") or "unknown").lower(),
         "clearance": clearance, "score": score if score is not None else 0,
         "why": re.sub(r"\s+", " ", str(v.get("why") or ""))[:140],

@@ -1,0 +1,94 @@
+name: radar-auto
+
+# Auto Radar: automotive embedded software roles (profiles/automotive). Separate rules, state and
+# report from the DevOps radar; see the "Auto Radar" section of the README.
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Test run: no notifications, nothing saved to the repository (results are attached to the run)'
+        type: boolean
+        default: false
+      full_sweep:
+        description: 'Search the automotive boards for every keyword this run (slower)'
+        type: boolean
+        default: false
+      only:
+        description: 'Only these job systems (space-separated), blank for all'
+        required: false
+        default: ''
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-auto
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Tests
+        if: github.event_name == 'push'
+        run: python -m pytest -q
+
+      - name: Run Auto Radar
+        env:
+          # Use separate NTFY_TOPIC_AUTO / TELEGRAM_*_AUTO secrets to send these alerts somewhere else.
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN_AUTO || secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID_AUTO || secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC_AUTO || secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          AI_MODEL: ${{ vars.AI_MODEL || secrets.AI_MODEL }}
+          DRY_RUN: ${{ inputs.dry_run }}
+          FULL_SWEEP: ${{ inputs.full_sweep }}
+          ONLY: ${{ inputs.only }}
+        run: |
+          ARGS=""
+          if [ "$DRY_RUN" = "true" ]; then ARGS="--dry-run"; fi
+          if [ "$FULL_SWEEP" = "true" ]; then ARGS="$ARGS --full-sweep"; fi
+          if [ -n "$ONLY" ]; then ARGS="$ARGS --only $ONLY"; fi
+          python -m radar.main --profile automotive $ARGS
+
+      # A test run saves nothing to the repository; its results are attached to the run instead.
+      - name: Attach test-run results
+        if: ${{ inputs.dry_run == true }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: auto-radar-test-run
+          path: |
+            data/automotive
+            REPORT_AUTOMOTIVE.md
+
+      - name: Save results
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/automotive REPORT_AUTOMOTIVE.md docs/automotive
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+            exit 0
+          fi
+          git commit -m "Auto Radar update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 7
+          done
+          echo "Could not push results" && exit 1

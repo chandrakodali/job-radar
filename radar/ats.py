@@ -8,6 +8,7 @@ from __future__ import annotations
 import html
 import re
 from datetime import datetime, timedelta, timezone
+from urllib.parse import quote
 
 from .http import FetchError, get_json, post_json
 from .models import Board, Job
@@ -68,14 +69,19 @@ def _split_eu(board: str) -> tuple[bool, str]:
 
 # ---------------------------------------------------------------- Greenhouse
 
-def greenhouse_list(b: Board) -> list[Job]:
+def greenhouse_list(b: Board, content: bool = False) -> list[Job]:
+    """`content=True` asks for every job's description in the same call (one bigger response instead of
+    one request per job), so all jobs can be judged on their text."""
     _, slug = _split_eu(b.board)  # EU-hosted boards are served by the same API host
     host = "boards-api.greenhouse.io"
-    data = get_json(f"https://{host}/v1/boards/{slug}/jobs")
+    data = get_json(f"https://{host}/v1/boards/{slug}/jobs", params={"content": "true"} if content else None)
     jobs = []
     for j in data.get("jobs") or []:
         loc = ((j.get("location") or {}).get("name") or "").strip()
+        offices = [o.get("name") or "" for o in j.get("offices") or []]
         jobs.append(Job(
+            description=html_to_text(j.get("content")) if content else "",
+            countries=[o for o in offices if o] if content else [],
             ats="greenhouse", board=b.board, job_id=str(j.get("id")),
             company=b.company or j.get("company_name") or slug,
             title=(j.get("title") or "").strip(), location=loc,
@@ -157,12 +163,15 @@ def ashby_list(b: Board) -> list[Job]:
 
 # ---------------------------------------------------------------- SmartRecruiters
 
-def smartrecruiters_list(b: Board, max_pages: int = 5, max_age_days: int = 45) -> list[Job]:
+def smartrecruiters_list(b: Board, max_pages: int = 5, max_age_days: int = 45, search: str = "") -> list[Job]:
+    """`search` runs the board's own full-text search (title and description) instead of listing by date."""
     jobs = []
     now = datetime.now(timezone.utc)
     for page in range(max_pages):
-        data = get_json(f"https://api.smartrecruiters.com/v1/companies/{b.board}/postings",
-                        params={"limit": 100, "offset": page * 100, "country": "us"})
+        params = {"limit": 100, "offset": page * 100, "country": "us"}
+        if search:
+            params["q"] = search
+        data = get_json(f"https://api.smartrecruiters.com/v1/companies/{b.board}/postings", params=params)
         content = data.get("content") or []
         for p in content:
             loc = p.get("location") or {}
@@ -176,13 +185,13 @@ def smartrecruiters_list(b: Board, max_pages: int = 5, max_age_days: int = 45) -
                 url=f"https://jobs.smartrecruiters.com/{ident}/{p.get('id')}",
                 posted_at=parse_iso(p.get("releasedDate")),
                 workplace=wp, countries=[loc["country"]] if loc.get("country") else [],
-                needs_detail=True,
+                needs_detail=True, found_by=search,
                 detail_ref=p.get("ref") or f"https://api.smartrecruiters.com/v1/companies/{b.board}/postings/{p.get('id')}",
             ))
         if len(content) < 100:
             break
         last = parse_iso(content[-1].get("releasedDate"))
-        if last and (now - last).days > max_age_days:
+        if not search and last and (now - last).days > max_age_days:
             break
     return jobs
 
@@ -233,14 +242,16 @@ def _wd_hosts(board: str) -> tuple[str, str]:
             f"https://{tenant}.{wd}.myworkdayjobs.com/{site}")
 
 
-def workday_list(b: Board, max_pages: int = 5, max_age_days: int = 7) -> list[Job]:
+def workday_list(b: Board, max_pages: int = 5, max_age_days: int = 7, search: str = "") -> list[Job]:
+    """`search` runs the board's own full-text search (title and description); results come back by
+    relevance, so the age cut-off that ends a newest-first listing is not applied."""
     tenant, wd, site = _wd_parts(b.board)
     base, public = _wd_hosts(b.board)
     now = datetime.now(timezone.utc)
     jobs = []
     seen_paths = set()
     for page in range(max_pages):
-        data = post_json(f"{base}/jobs", {"appliedFacets": {}, "limit": 20, "offset": page * 20, "searchText": ""})
+        data = post_json(f"{base}/jobs", {"appliedFacets": {}, "limit": 20, "offset": page * 20, "searchText": search})
         postings = data.get("jobPostings") or []
         for p in postings:
             path = p.get("externalPath") or ""
@@ -257,12 +268,12 @@ def workday_list(b: Board, max_pages: int = 5, max_age_days: int = 7) -> list[Jo
                 url=f"{public}{path}",
                 posted_at=(now - timedelta(days=days)) if days is not None else None,
                 workplace=workplace_from_text(p.get("locationsText") or ""),
-                needs_detail=True, detail_ref=f"{base}{path}",
+                needs_detail=True, detail_ref=f"{base}{path}", found_by=search,
             ))
         if len(postings) < 20:
             break
         last_days = workday_days_ago(postings[-1].get("postedOn"))
-        if last_days is not None and last_days > max_age_days:
+        if not search and last_days is not None and last_days > max_age_days:
             break
     return jobs
 
@@ -334,14 +345,17 @@ def _oracle_parts(board: str) -> tuple[str, str]:
     return host, site
 
 
-def oracle_list(b: Board, max_pages: int = 4, max_age_days: int = 7) -> list[Job]:
+def oracle_list(b: Board, max_pages: int = 4, max_age_days: int = 7, search: str = "") -> list[Job]:
+    """`search` runs the site's own keyword search (title and description) instead of listing by date."""
     host, site = _oracle_parts(b.board)
     base = f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
     now = datetime.now(timezone.utc)
     jobs, seen = [], set()
+    keyword = f"keyword=%22{quote(search)}%22," if search else ""
     for page in range(max_pages):
         url = (f"{base}?onlyData=true&expand=requisitionList.secondaryLocations"
-               f"&finder=findReqs;siteNumber={site},limit=25,offset={page * 25},sortBy=POSTING_DATES_DESC")
+               f"&finder=findReqs;siteNumber={site},{keyword}limit=25,offset={page * 25},"
+               f"sortBy={'RELEVANCY' if search else 'POSTING_DATES_DESC'}")
         data = get_json(url)
         items = (data.get("items") or [{}])[0].get("requisitionList") or []
         for r in items:
@@ -358,14 +372,14 @@ def oracle_list(b: Board, max_pages: int = 4, max_age_days: int = 7) -> list[Job
                 posted_at=parse_iso(r.get("PostedDate")),
                 workplace={"remote": "remote", "hybrid": "hybrid", "onsite": "onsite"}.get(wp, workplace_from_text(*locs)),
                 countries=[r["PrimaryLocationCountry"]] if r.get("PrimaryLocationCountry") else [],
-                needs_detail=True,
+                needs_detail=True, found_by=search,
                 detail_ref=(f"https://{host}/hcmRestApi/resources/latest/recruitingCEJobRequisitionDetails"
                             f"?expand=all&onlyData=true&finder=ById;Id=%22{rid}%22,siteNumber={site}"),
             ))
         if len(items) < 25:
             break
         last = parse_iso(items[-1].get("PostedDate"))
-        if last and (now - last).days > max_age_days:
+        if not search and last and (now - last).days > max_age_days:
             break
     return jobs
 

@@ -39,12 +39,18 @@ def _table(rows: list[dict], tz: ZoneInfo) -> list[str]:
     return out
 
 
-def build_report(tz_name: str, boards_total: int, now: datetime | None = None) -> str:
+def build_report(tz_name: str, boards_total: int, now: datetime | None = None, profile: dict | None = None,
+                 closed: set[str] = frozenset()) -> str:
+    """`profile` (the `profile:` section of a profile's config) changes the wording and how far back the
+    report looks; `closed` holds matches whose postings have been taken down."""
     tz = ZoneInfo(tz_name)
     now = now or datetime.now(timezone.utc)
-    rows = read_matches(since=now - timedelta(days=7))
+    p = profile or {}
+    days = int(p.get("report_days", 7))
+    span = "this week" if days == 7 else f"in the last {days} days"
+    rows = [r for r in read_matches(since=now - timedelta(days=days)) if r["uid"] not in closed]
     visible = [r for r in rows if r["status"] in ("alert", "quiet")]
-    blocked = [r for r in rows if r["status"] == "blocked"] + read_rejected(since=now - timedelta(days=7))
+    blocked = [r for r in rows if r["status"] == "blocked"] + read_rejected(since=now - timedelta(days=days))
     def when(r):  # posting time when the job board gives it, otherwise when the radar first saw it
         try:
             d = datetime.fromisoformat(r["posted"]) if r.get("posted") else r["_first_seen"]
@@ -61,27 +67,33 @@ def build_report(tz_name: str, boards_total: int, now: datetime | None = None) -
     last_new = max((r["_first_seen"] for r in rows), default=None)
 
     lines = [
-        "# Job Radar: latest matches",
+        f"# {p.get('label', 'Job Radar')}: latest matches",
         "",
-        f"Watching **{boards_total:,} company job boards** every 30 minutes for entry-friendly "
-        "DevOps, SRE, cloud, platform and infrastructure roles in the US.",
+        f"Watching **{boards_total:,} company job boards** " + p.get(
+            "watching", "every 30 minutes for entry-friendly DevOps, SRE, cloud, platform and infrastructure "
+                        "roles in the US."),
         "",
         f"Last new match: **{last_new.astimezone(tz).strftime('%a %b %d, %I:%M %p %Z') if last_new else 'none yet'}**. "
-        "Score is 0–100 (higher = better fit for an early-career candidate on OPT). "
-        "Full history: [data/matches.csv](data/matches.csv).",
+        + p.get("score_note", "Score is 0–100 (higher = better fit for an early-career candidate on OPT).")
+        + f" Full history: [{p.get('matches_file', 'data/matches.csv')}]({p.get('matches_file', 'data/matches.csv')}).",
         "",
         f"## Posted in the last 24 hours ({len(day)})",
         "",
     ]
-    lines += _table(day[:80], tz) if day else ["Nothing posted in the last 24 hours."]
-    lines += ["", f"## Found this week, posted earlier ({len(week)})", ""]
-    lines += _table(week[:150], tz) if week else ["No other matches this week."]
+    max_rows = int(p.get("report_rows", 150))
+    lines += _table(day[:max(80, max_rows)], tz) if day else ["Nothing posted in the last 24 hours."]
+    lines += ["", f"## Found {span}, posted earlier ({len(week)})", ""]
+    if len(week) > max_rows:
+        lines += [f"Showing the {max_rows} best of {len(week)}; the rest are in the full history file.", ""]
+    lines += _table(week[:max_rows], tz) if week else [f"No other matches {span}."]
     lines += [
         "",
-        f"## Hidden from alerts: clearance/citizenship or rejected by the AI check ({len(blocked)} this week)",
+        f"## Hidden from alerts: clearance/citizenship or rejected by the AI check ({len(blocked)} {span})",
         "",
-        "Clearance, US citizenship or ITAR requirements (which F-1/OPT holders can't meet), or jobs the AI reviewer "
-        "judged off-target or too senior. The reason is in the flags column. Listed so you can double-check.",
+        p.get("hidden_note",
+              "Clearance, US citizenship or ITAR requirements (which F-1/OPT holders can't meet), or jobs the AI "
+              "reviewer judged off-target or too senior. The reason is in the flags column. Listed so you can "
+              "double-check."),
         "",
     ]
     if blocked:
@@ -89,9 +101,9 @@ def build_report(tz_name: str, boards_total: int, now: datetime | None = None) -
             if r.get("reject_reason"):
                 r["flags"] = r["reject_reason"]
         blocked.sort(key=key)
-        lines += _table(blocked[:40], tz)
+        lines += _table(blocked[:int(p.get("hidden_rows", 40))], tz)
     else:
-        lines.append("None this week.")
+        lines.append(f"None {span}.")
     lines.append("")
     return "\n".join(lines)
 
