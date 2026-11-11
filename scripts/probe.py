@@ -32,12 +32,12 @@ def one(line: str) -> str:
     parts = line.split(None, 2)
     kind = parts[0].upper()
     try:
-        if kind == "WD":
+        if kind in ("WD", "WDX"):
             t = parts[1]
             out = []
-            for n in DCS:
+            for n in (DCS if kind == "WD" else [2, 4, 6, 7, 8, 9, 11, 13, 14, 15, 101, 104, 106, 110, 111, 112, 201, 202, 203, 204]):
                 try:
-                    r = requests.get(f"https://{t}.wd{n}.myworkdayjobs.com/robots.txt", headers=H, timeout=(5, 10), allow_redirects=False)
+                    r = requests.get(f"https://{t}.wd{n}.myworkdayjobs.com/robots.txt", headers=H, timeout=(3, 8), allow_redirects=False)
                 except Exception:
                     continue
                 if r.status_code == 200:
