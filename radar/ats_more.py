@@ -228,7 +228,10 @@ def jobvite_detail(job: Job) -> None:
 _RMK_JOB = re.compile(r"/job/([^/]+)/(\d{5,})/?$")
 
 
-def sfrmk_list(b: Board) -> list[Job]:
+_RMK_US_SLUG = re.compile(r"-[A-Z]{2}-\d{5}(-\d{4})?$")   # "...-Engineer-MI-48326": a US state and ZIP code
+
+
+def sfrmk_list(b: Board, max_jobs: int = MAX_JOBS) -> list[Job]:
     host = b.board
     try:
         urls = _sitemap_urls(f"https://{host}/job_sitemap.xml", lambda u: "/job/" in u)
@@ -243,8 +246,11 @@ def sfrmk_list(b: Board) -> list[Job]:
             continue
         seen.add(m.group(2))
         jobs.append(_job(b, job_id=m.group(2), title=slug_words(m.group(1)), url=u, title_guess=True,
-                         posted_at=parse_when(lastmod), needs_detail=True, detail_ref=u))
-    return jobs[:MAX_JOBS]
+                         posted_at=parse_when(lastmod), needs_detail=True, detail_ref=u,
+                         countries=["US"] if _RMK_US_SLUG.search(m.group(1)) else []))
+    if len(jobs) > max_jobs:   # worldwide sites: keep the jobs whose address looks American first
+        jobs.sort(key=lambda j: not j.countries)
+    return jobs[:max_jobs]
 
 
 def sfrmk_search(b: Board, search: str, max_pages: int = 3) -> list[Job]:

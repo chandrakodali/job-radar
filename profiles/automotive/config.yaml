@@ -74,6 +74,7 @@ search:
   search_pages: 5          # result pages per keyword per board (US results only where the board can filter)
   list_max_pages: 10       # how far back the ordinary newest-first listing is read
   list_max_age_days: 30
+  sitemap_max_jobs: 5000   # worldwide SuccessFactors sites list every job; US-looking ones are kept first
 
 titles:
   # Clearly the target role: kept when the description names at least one tool (or could not be read).
@@ -145,6 +146,7 @@ titles:
     - 'customer (success|support|service)|help ?desk|desktop support|technical writer|documentation'
     - 'professor|lecturer|faculty|\bteacher\b|\binstructor\b|\btrainer\b'
     - '\b(m/w/d|w/m/d|m/f/d|f/m/d|m/f/x|f/h|h/f)\b|\bing[ée]nieur|\bstage\b|alternance'
+    - '\b[mwf] [mwf] [dx]\b|\b(wmx|mwd|mfd)\b|praktik|werkstudent|abschlussarbeit|\bthesis\b|ingenieur|entwickler|\bleiter|mitarbeiter|ausbildung|duales studium|stagiaire|becari[oa]|practicante|pasant[ei]|estagi|inżynier|vývoj|operador|operat(or|ör)\b'
     - 'embedded (finance|payments?|analytics|insurance|banking|lending|bi|wallets?|fintech|commerce|checkout|partner|clinical|consultant|pharmacist|therapist|counselor|coach)\b'
     - '\b(quality|document|internal|access|inventory|production|financial|project|cost|pest|traffic|export|change|materials?|process|infection|sox|noise|emissions?|pollution|flow|version|source|credit|risk|trade|budget|stock|program|business|it|security|building|lighting|climate|irrigation)\s+controls?\b'
     - '\bmechanical\b.{0,20}\bengineer|\bmanufacturing\b|\bindustrial engineer|\bprocess engineer|supplier quality|(?<!software )\bquality engineer'

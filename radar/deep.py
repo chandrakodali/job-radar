@@ -51,6 +51,8 @@ def base_list(b: Board, opts: dict) -> list[Job]:
         return ATS.greenhouse_list(b, content=True)
     if b.ats == "jibe":
         return ats_more.jibe_list(b, max_pages=max(3, pages // 2))
+    if b.ats == "sfrmk":
+        return ats_more.sfrmk_list(b, max_jobs=int(opts.get("sitemap_max_jobs", ats_more.MAX_JOBS)))
     return ATS.LISTERS[b.ats](b)
 
 
