@@ -9,10 +9,6 @@ on:
         description: 'Only re-check companies.csv (skip looking for new boards)'
         type: boolean
         default: false
-      probe:
-        description: 'Run scripts/probe.py instead'
-        type: boolean
-        default: false
   schedule:
     - cron: '47 11 * * 3'   # Wednesdays
 
@@ -30,18 +26,13 @@ jobs:
           python-version: '3.12'
           cache: pip
       - run: pip install -r requirements.txt
-      - name: Probe
-        if: ${{ inputs.probe == true }}
-        run: python scripts/probe.py
       - name: Check boards
-        if: ${{ inputs.probe != true }}
         run: |
           ARGS=""
           if [ "${{ inputs.check_only }}" = "true" ]; then ARGS="--check"; fi
           python scripts/find_auto_boards.py --profile automotive $ARGS | tee boards.md
           { echo '### Automotive boards'; echo; sed -n '/^## Boards/,$p' boards.md; } >> "$GITHUB_STEP_SUMMARY"
       - uses: actions/upload-artifact@v4
-        if: ${{ inputs.probe != true }}
         with:
           name: boards-report
           path: profiles/automotive/boards_report.csv

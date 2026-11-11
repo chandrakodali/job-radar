@@ -1,6 +1,0 @@
-SNIP https://jobs.bmwgroup.com/job/Ulm-Embedded-Software-Graphic-Infrastructure-Expert-%28fmx%29-BW-89081/1377533733/ (application/ld\+json|itemprop="description"|class="jobdescription|job-description|jobDescription|unify)
-SNIP https://careers.te.com/job/Harrisburg-Embedded-Software-Test-Engineer-PA-17111/1399329000/ (application/ld\+json|itemprop="description"|class="jobdescription|job-description|jobDescription|unify)
-SNIP https://komatsu.jobs/job/Tucson-Vehicle-Control-Support-Engineer-AZ-85706/1365857800/ (application/ld\+json|itemprop="description"|class="jobdescription|job-description|jobDescription|unify)
-SNIP https://join.cnh.com/job/System-Integration-Engineering-Intern/5488-en_US (application/ld\+json|itemprop="description"|class="jobdescription|job-description|jobDescription|unify)
-GET https://careers.te.com/robots.txt
-GET https://careers.te.com/services/recruiting/v1/jobs/143900?locale=en_US

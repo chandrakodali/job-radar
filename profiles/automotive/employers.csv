@@ -1,108 +1,33 @@
 name,kind,value
-# Employers whose job board still has to be found or confirmed. scripts/find_auto_boards.py reads the
-# careers pages (kind=page) for job-board links and tries the guesses (kind=guess, "ats:board").
-Stellantis,page,https://careers.stellantis.com/
-Stellantis,page,https://www.stellantis.com/en/careers
-Honda,page,https://careers.honda.com/us/en
-Honda,page,https://www.honda.com/careers
-Honda Research Institute,page,https://usa.honda-ri.com/careers
-Hyundai Motor America,page,https://careers.hyundaiusa.com/
-Hyundai America Technical Center,page,https://www.hatci.com/careers
-Hyundai Mobis,page,https://www.mobis-usa.com/careers
-Kia,page,https://www.kia.com/us/en/careers
-Supernal,guess,greenhouse:supernal
-Mazda,page,https://www.mazdausa.com/careers
-Mercedes-Benz USA,page,https://www.mbusa.com/en/careers
-Volkswagen Group of America,page,https://www.vw.com/en/careers.html
-Volkswagen Group of America,guess,smartrecruiters:VolkswagenGroupOfAmerica
-Volvo Cars,page,https://jobs.volvocars.com/
-Volvo Group,page,https://jobs.volvogroup.com/
-Volvo Group,page,https://www.volvogroup.com/en/careers.html
-Polestar,page,https://www.polestar.com/us/careers/
-VinFast,page,https://vinfastauto.us/careers
-Karma Automotive,page,https://www.karmaautomotive.com/careers
-Harley-Davidson,page,https://www.harley-davidson.com/us/en/about-us/careers.html
-BRP,page,https://www.brp.com/en/careers.html
-International Motors,page,https://careers.international.com/
-International Motors,page,https://www.international.com/careers
-CNH,page,https://www.cnh.com/careers
-Kubota,page,https://www.kubotausa.com/careers
-Komatsu,page,https://www.komatsu.com/en/careers/
-Doosan Bobcat,page,https://www.bobcat.com/na/en/company/careers
-ZF,guess,sfrmk:jobs.zf.com
-ZF,page,https://www.zf.com/mobile/en/careers/careers.html
-Bosch,guess,smartrecruiters:BoschGroup
-Schaeffler,guess,sfrmk:jobs.schaeffler.com
-Continental,page,https://jobs.continental.com/en/
-Aumovio,page,https://www.aumovio.com/en/career.html
-Aumovio,guess,smartrecruiters:Aumovio
-JTEKT,page,https://www.jtekt-na.com/careers
-NSK,page,https://www.nskamericas.com/en/company/careers.html
-thyssenkrupp,guess,sfrmk:jobs.thyssenkrupp.com
-thyssenkrupp,page,https://www.thyssenkrupp-automotive-technology.com/en/career
-HL Mando,page,https://www.hlmando.com/en/career/recruit.do
-Aisin,page,https://www.aisinworld.com/careers/
-Autoliv,page,https://www.autoliv.com/careers
-Visteon,page,https://www.visteon.com/careers/
+# Employers with no board in companies.csv yet (see COVERAGE.md). scripts/find_auto_boards.py reads the
+# careers pages (kind=page) for job-board links and tries the guesses (kind=guess, "ats:board"); the
+# weekly auto-boards run prints what it finds. Move an employer to companies.csv once its board answers.
+Mercedes-Benz,page,https://jobs.mercedes-benz.com/
+Mercedes-Benz R&D North America,guess,lever:mbrdna
+Visteon,page,https://www.visteon.com/careers/join-us/default.aspx
+HARMAN,guess,workday:harman|wd3|HARMAN
 Forvia,guess,sfrmk:jobs.forvia.com
-Forvia,page,https://www.forvia.com/en/careers
-Hella,page,https://www.hella.com/hella-com/en/Career-50.html
-Marelli,page,https://www.marelli.com/careers/
-Yazaki,page,https://www.yazaki-na.com/careers
 Mahle,guess,sfrmk:jobs.mahle.com
 Brose,page,https://www.brose.com/us-en/career/
-Webasto,page,https://www.webasto-group.com/en/career/
-Dana,page,https://www.dana.com/careers/
-American Axle,page,https://www.aam.com/careers
-Tenneco,page,https://www.tenneco.com/careers
-PHINIA,page,https://www.phinia.com/careers
-Garrett Motion,page,https://www.garrettmotion.com/careers/
-Gentherm,page,https://gentherm.com/careers/
-Stoneridge,page,https://www.stoneridge.com/careers/
-Methode Electronics,page,https://www.methode.com/careers
-TE Connectivity,page,https://careers.te.com/
-Bendix,page,https://www.bendix.com/en/careers/
-Wabtec,page,https://www.wabteccorp.com/careers
-Mitsubishi Electric Automotive America,page,https://www.meaa-mea.com/careers
-Panasonic Automotive,page,https://na.panasonic.com/us/careers
-Goodyear,page,https://jobs.goodyear.com/
-Hanon Systems,page,https://www.hanonsystems.com/En/Careers
-Preh,page,https://www.preh.com/en/career
-Elektrobit,guess,smartrecruiters:Elektrobit
-Elektrobit,page,https://www.elektrobit.com/careers/
-Vector,page,https://www.vector.com/us/en/company/careers/
-dSPACE,page,https://www.dspace.com/en/inc/home/company/career.cfm
-MathWorks,page,https://www.mathworks.com/company/jobs/opportunities/search
-Waymo,guess,greenhouse:waymo
-Nuro,guess,greenhouse:nuro
-Motional,guess,greenhouse:motional
-Plus,guess,greenhouse:plusai
-Plus,guess,lever:plus
-Stack AV,guess,ashby:stackav
-Stack AV,guess,greenhouse:stackav
+Aisin,page,https://www.aisinworld.com/careers/
+American Axle,page,https://careers.dauch.com/en
+Gentherm,page,https://gentherm.com/en/careers/
+Marelli,page,https://www.marelli.com/en/careers.html
+Kia America,page,https://www.kiacareers.com/
+Harley-Davidson,page,https://www.harley-davidson.com/us/en/about-us/careers.html
+VinFast,page,https://vinfastauto.us/careers
+Karma Automotive,page,https://www.karmaautomotive.com/careers
 Mobileye,page,https://careers.mobileye.com/
-Luminar,guess,greenhouse:luminartech
-Aeva,guess,greenhouse:aeva
-Aeva,guess,lever:aeva
-Ouster,guess,greenhouse:ouster
-Outrider,guess,greenhouse:outrider
-Helm.ai,guess,lever:helm.ai
-Infineon,page,https://jobs.infineon.com/
-STMicroelectronics,page,https://www.st.com/content/st_com/en/about/careers.html
-Marvell,page,https://www.marvell.com/company/careers.html
-Allegro MicroSystems,page,https://www.allegromicro.com/en/about-allegro/careers
-indie Semiconductor,page,https://www.indiesemi.com/careers
-KPIT,page,https://www.kpit.com/careers/
+IAV,page,https://www.iav.com/career/
+KPIT,page,https://www.kpit.com/careers-overview/
 L&T Technology Services,page,https://www.ltts.com/careers
-Tata Technologies,page,https://www.tatatechnologies.com/us/careers/
-FEV,page,https://www.fev.com/en/careers
-AVL,guess,sfrmk:jobs.avl.com
-AVL,page,https://www.avl.com/en-us/careers
-IAV,page,https://www.iav.com/en/careers/
-Ricardo,page,https://careers.ricardo.com/
-Joby Aviation,guess,greenhouse:jobyaviation
+Tata Elxsi,page,https://www.tataelxsi.com/careers
+EDAG,page,https://www.edag.com/en/career
+Ricardo,page,https://www.ricardo.com/careers
+Preh,page,https://www.preh.com/en/career/job-offers
+Dorleco,page,https://dorleco.com/careers-at-dorleco/
+Helm.ai,guess,ashby:helm-ai
+Helm.ai,guess,ashby:helmai
+Supernal,guess,greenhouse:supernal
 BETA Technologies,guess,greenhouse:betatechnologies
-BETA Technologies,guess,lever:beta
 Our Next Energy,guess,greenhouse:ournextenergy
-Brunswick,page,https://www.brunswick.com/careers
-Garmin,page,https://careers.garmin.com/
