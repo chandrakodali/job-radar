@@ -154,6 +154,7 @@ jobs:
       - name: Merge results
         run: |
           python -m careers_scan.merge --companies careers_scan/data/companies.csv --shards-dir out --shards 10
+          python -m careers_scan.radar_link   # tracking-system boards the radar doesn't watch yet
           head -n 60 careers_scan/SUMMARY.md >> "$GITHUB_STEP_SUMMARY"
 
       - name: Show results in the log

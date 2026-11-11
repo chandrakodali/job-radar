@@ -16,6 +16,8 @@ MATCHES_PATH = os.path.join(DATA, "matches.csv")
 COMPANIES_PATH = os.path.join(ROOT, "companies.csv")
 CUSTOM_PATH = os.path.join(ROOT, "companies_custom.csv")
 DISCOVERED_PATH = os.path.join(ROOT, "discovered.csv")
+# Job boards of companies found by careers_scan (company websites -> their tracking system).
+CAREERS_BOARDS_PATH = os.path.join(ROOT, "careers_scan", "data", "radar_boards.csv")
 
 REJECTED_PATH = os.path.join(DATA, "rejected.csv")
 
@@ -64,19 +66,23 @@ def load_boards() -> list[Board]:
     return list(boards.values())
 
 
-def load_discovered(known: set[str]) -> list[Board]:
-    """discovered.csv (found automatically by scripts/discover_boards.py), minus boards already listed."""
+def load_discovered(known: set[str], path: str | None = None, named: bool = False) -> list[Board]:
+    """discovered.csv (found automatically by scripts/discover_boards.py), minus boards already listed.
+
+    `path` reads another list in the same format (e.g. careers_scan's radar_boards.csv); `known` is
+    updated so a board listed in several files is scanned once."""
     out = []
-    if not os.path.exists(DISCOVERED_PATH):
+    path = path or DISCOVERED_PATH
+    if not os.path.exists(path):
         return out
-    with open(DISCOVERED_PATH, newline="", encoding="utf-8") as f:
+    with open(path, newline="", encoding="utf-8") as f:
         for row in csv.DictReader(f):
             ats = (row.get("ats") or "").strip().lower()
             board = (row.get("board") or "").strip()
             if not board or ats not in VALID_ATS or ats == "auto":
                 continue
             company = (row.get("company") or "").strip() or board
-            b = Board(ats=ats, board=board, company=company, named=False, tier="found",
+            b = Board(ats=ats, board=board, company=company, named=named, tier="found",
                       cap_exempt=bool(CAP_EXEMPT_RE.search(company)) and not NOT_CAP_EXEMPT_RE.search(company))
             if b.key.lower() not in known:
                 known.add(b.key.lower())

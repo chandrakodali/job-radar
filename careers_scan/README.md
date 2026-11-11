@@ -5,7 +5,7 @@ Some companies post jobs as plain text on their own website and ask you to email
 applicant tracking systems, so they never see these roles. This folder finds those companies and
 watches their careers pages.
 
-**[Latest results →](SUMMARY.md)** · **[Today's careers page changes →](CHANGES.md)**
+**[Roles to apply for now →](ROLES.md)** · [Companies found →](SUMMARY.md) · [Careers page changes →](CHANGES.md)
 
 ## How it works
 
@@ -30,14 +30,24 @@ watches their careers pages.
    | `careers_page_unclear` / `no_openings` | Careers page found, apply route not in its HTML / says no openings |
    | `no_careers_page`, `js_only`, `blocked`, `parked`, `unreachable`, `robots_disallowed`, `no_website` | Could not tell, and why |
 
-3. **Watch** (`watch.py`, daily). Re-reads the careers pages of every `email`, `form`, `doc`, `no_openings` and
-   `careers_page_unclear` company, compares the text with yesterday's, writes the new lines to `CHANGES.md` and
-   sends a phone alert (same Telegram / ntfy secrets as the radar) when a new role title or apply email appears.
+3. **Hand-off to the radar** (`radar_link.py`, after each scan). Companies that turn out to use Greenhouse, Lever,
+   Ashby, Workable, Workday and other systems the radar reads, and that the radar didn't know, go into
+   `data/radar_boards.csv`. The radar checks those boards on its usual rotation, so their DevOps / SRE roles show
+   up in [REPORT.md](../REPORT.md) and your alerts with the same filters and scores.
+4. **Roles from no-job-board pages** (`watch.py` + `roles.py` + `apply_list.py`, twice a day). Re-reads the careers
+   page of every `email`, `form`, `doc`, `no_openings` and `careers_page_unclear` company, picks out the job
+   titles, keeps the cloud / DevOps / SRE / platform / infrastructure ones using the radar's title rules in
+   [config.yaml](../config.yaml), opens each role's own page, and scores it with the radar's checks (years of
+   experience, visa sponsorship, clearance, US location). The result is [ROLES.md](ROLES.md): one table with an
+   ✉ link per role that opens an email to the hiring address with the subject filled in. A phone alert goes out
+   for each new matching role (never on the first run). Page changes are still logged in `CHANGES.md`.
 
 ## Files
 
 | File | What it is |
 | --- | --- |
+| `ROLES.md`, `data/roles.csv` | Open cloud / DevOps / SRE / platform / infra roles at no-job-board companies, with apply links |
+| `data/radar_boards.csv` | Tracking-system boards handed to the radar |
 | `SUMMARY.md` | Counts per category and the no-job-board list (engineering pages first) |
 | `data/no_job_board.csv` | Companies that hire by email, form or document, with apply addresses and roles seen |
 | `data/check_by_hand.csv` | Careers pages whose apply route wasn't visible (often built with JavaScript) |
@@ -50,7 +60,7 @@ watches their careers pages.
 
 - Whole scan: **Actions → careers-scan → Run workflow** (about an hour; 10 parallel shards).
   Set *limit* to e.g. `20` for a quick test, and untick *save* to keep results out of the repo.
-- Watcher: **Actions → careers-watch → Run workflow** (runs daily on its own).
+- Roles and watcher: **Actions → careers-watch → Run workflow** (runs twice a day on its own).
 - Locally: `pip install -r careers_scan/requirements.txt`, then
   `python -m careers_scan.scan --companies careers_scan/data/companies.csv --out /tmp/out.jsonl --limit 20`.
   Tests: `python -m pytest careers_scan/tests -q`.
@@ -60,7 +70,9 @@ watches their careers pages.
 - It is polite: it reads `robots.txt` and skips what it disallows, sends at most one request per second to a
   site, looks at no more than 12 pages per company, and identifies itself in its User-Agent.
 - It reads HTML only (no browser), so careers pages built entirely with JavaScript end up in
-  `check_by_hand.csv` rather than being guessed.
+  `check_by_hand.csv` rather than being guessed, and their roles can't be listed.
+- Which titles count, and which are skipped as too senior, comes from the radar's `config.yaml`: change it there
+  and both lists follow.
 - Addresses are taken only from careers and job pages, or when they're clearly hiring inboxes (careers@, jobs@,
   hr@…). A generic address (info@, hello@) counts only when the text around it mentions applying, a CV or a résumé.
 - No list can be complete: companies outside these datasets are found only if you add them to

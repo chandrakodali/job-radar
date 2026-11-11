@@ -32,6 +32,7 @@ from .dashboard import build_dashboard, write_dashboard
 from .report import build_report, write_report
 from . import ats_more, robots
 from .ai import Reviewer
+from . import store as _store
 from .store import (ROOT, append_matches, append_rejected, load_boards, load_discovered, load_state, now_utc, prune_seen,
                     read_matches, save_state, update_matches)
 
@@ -120,7 +121,9 @@ def run(args) -> int:
     boards = resolve_auto_boards(boards, state, today)
     if args.only:
         boards = [b for b in boards if b.ats in args.only]
-    found = [b for b in load_discovered({b.key.lower() for b in boards}) if not is_excluded_company(b, rules)]
+    known_keys = {b.key.lower() for b in boards}
+    found = [b for b in load_discovered(known_keys) + load_discovered(known_keys, _store.CAREERS_BOARDS_PATH, named=True)
+             if not is_excluded_company(b, rules)]
     if args.only:
         found = [b for b in found if b.ats in args.only]
     total_boards = len(boards) + len(found)

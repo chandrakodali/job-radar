@@ -22,6 +22,7 @@ from urllib.parse import urlsplit, urlunsplit
 
 from .detect import CAREER_PATH_SEGMENTS, CAREER_TEXT_RE, analyze, match_vendor, slug_matches, vendor_slug, _alnum
 from .fetch import Fetcher, Page
+from .radar_link import radar_board
 from .urls import canon, host_of, normalize_website, registrable_domain
 
 log = logging.getLogger("careers_scan")
@@ -363,7 +364,9 @@ class Scanner:
         row["apply_phrase"] = ev.apply_phrase
         if ev.ats:
             row["ats"] = ", ".join(sorted({n for n, _, _ in ev.ats}))
-            row["ats_url"] = ev.ats[0][1]
+            # Prefer a URL that names the company's board (script snippets often hold bare API hosts).
+            named = [u for _, u, _ in ev.ats if radar_board(u)] or [u for _, u, _ in ev.ats if vendor_slug(u)]
+            row["ats_url"] = (named or [ev.ats[0][1]])[0]
         if ev.forms:
             row["form_url"] = ev.forms[0][1]
         if ev.docs:

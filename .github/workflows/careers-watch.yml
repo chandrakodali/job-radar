@@ -1,9 +1,10 @@
 name: careers-watch
 
-# Checks the no-job-board careers pages found by careers-scan once a day and alerts on new postings.
+# Twice a day: re-reads the no-job-board careers pages found by careers-scan, lists their cloud / DevOps /
+# SRE / platform / infrastructure roles in careers_scan/ROLES.md, and alerts on new ones.
 on:
   schedule:
-    - cron: '41 13 * * *'   # daily, 13:41 UTC (7:41 AM US Central)
+    - cron: '41 1,13 * * *'   # 01:41 and 13:41 UTC (7:41 PM and 7:41 AM US Central)
   workflow_dispatch:
     inputs:
       dry_run:
@@ -44,20 +45,22 @@ jobs:
           ARGS=""
           if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="--dry-run"; fi
           python -m careers_scan.watch $ARGS
+          if [ -f careers_scan/ROLES.md ]; then head -n 70 careers_scan/ROLES.md >> "$GITHUB_STEP_SUMMARY"; fi
 
       - name: Save results
         if: ${{ inputs.dry_run != true }}
         run: |
           git config user.name "job-radar-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for p in careers_scan/snapshots careers_scan/data/watch_state.json careers_scan/data/changes_log.csv careers_scan/CHANGES.md; do
+          for p in careers_scan/snapshots careers_scan/data/watch_state.json careers_scan/data/changes_log.csv \
+                   careers_scan/CHANGES.md careers_scan/ROLES.md careers_scan/data/roles.csv careers_scan/data/roles_state.json; do
             if [ -e "$p" ]; then git add -A -- "$p"; fi
           done
           if git diff --cached --quiet; then
             echo "No changes to save."
             exit 0
           fi
-          git commit -m "Careers watch $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git commit -m "Careers watch and roles $(date -u +'%Y-%m-%d %H:%M UTC')"
           for i in 1 2 3 4 5; do
             git pull --rebase origin main && git push origin HEAD:main && exit 0
             sleep $((i * 5))

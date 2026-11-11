@@ -1,10 +1,12 @@
-"""Daily check of careers pages that have no job board: report new lines (likely new postings).
+"""Twice-daily check of the careers pages that have no job board.
 
     python -m careers_scan.watch [--dry-run] [--limit N]
 
-Reads careers_scan/data/watchlist.csv, keeps one text snapshot per company in careers_scan/snapshots/,
-writes careers_scan/CHANGES.md and appends to careers_scan/data/changes_log.csv. Sends phone alerts through
-the radar's Telegram / ntfy settings when they are configured.
+For every page in careers_scan/data/watchlist.csv it:
+- compares the text with the last snapshot (careers_scan/snapshots/) -> CHANGES.md, data/changes_log.csv
+- reads the job titles, keeps cloud / DevOps / SRE / platform / infrastructure roles (the radar's rules),
+  opens each role's page and scores it -> ROLES.md, data/roles.csv (see apply_list.py)
+- sends a phone alert for each new matching role (radar's Telegram / ntfy settings), never on the first run
 """
 from __future__ import annotations
 
@@ -20,6 +22,8 @@ from datetime import datetime, timezone
 
 from .detect import APPLY_BY_EMAIL_RE, EMAIL_RE, ROLE_RE, _soup, visible_text
 from .fetch import Fetcher
+from . import apply_list
+from .roles import extract_roles, is_careers_url
 
 log = logging.getLogger("careers_scan.watch")
 ROOT = "careers_scan"
@@ -76,6 +80,13 @@ def check_one(fetcher: Fetcher, item: dict, state: dict) -> dict:
         st["fails"] = int(st.get("fails", 0)) + 1
         res["status"] = f"failed ({pg.error or 'HTTP ' + str(pg.status)})"
         return res
+    res["final_url"] = pg.url
+    res["roles"] = []
+    if is_careers_url(pg.url):
+        try:
+            res["roles"] = extract_roles(pg.text, pg.url)
+        except Exception as e:  # noqa: BLE001 - a strange page must not stop the run
+            log.warning("role extraction failed for %s: %s", url, type(e).__name__)
     lines = page_lines(pg.text)
     if sum(len(x) for x in lines) < MIN_TEXT:
         st["fails"] = int(st.get("fails", 0)) + 1
@@ -135,10 +146,18 @@ def main(argv=None) -> int:
     log.info("checked %s pages: %s baseline, %s changed (%s look like new postings), %s same, %s failing",
              len(results), sum(r["status"] == "baseline" for r in results), len(changed), len(interesting),
              sum(r["status"] == "same" for r in results), len(failing))
+    role_rows, new_roles, had_roles = apply_list.build(results, fetcher, ROOT)
+    listed = [x for x in role_rows if x["status"] in ("alert", "quiet")]
+    log.info("roles: %s cloud/DevOps/SRE/platform/infra roles (%s US or unstated), %s new since last run",
+             len(role_rows), len(listed), len(new_roles))
     if args.dry_run:
         for r in interesting:
             log.info("[dry-run] %s: +%s lines, e.g. %s", r["domain"], len(r["added"]), r["added"][:3])
+        for x in listed[:40]:
+            log.info("[dry-run] role %s | %s | %s | %s | %s", x["score"], x["title"], x["company"], x["location"],
+                     x["apply"])
         return 0
+    apply_list.save(role_rows, ROOT)
 
     os.makedirs(os.path.join(ROOT, "snapshots"), exist_ok=True)
     for r in results:
@@ -175,18 +194,23 @@ def main(argv=None) -> int:
             w.writerow([now, r["domain"], r["name"], r["url"], len(r["added"]), len(r["removed"]),
                         "yes" if r in interesting else "", " | ".join(r["added"][:3])[:300]])
 
-    if interesting:
+    # Phone alerts: new matching roles only (page changes stay in CHANGES.md). The first run only records
+    # what is already open, so you aren't flooded.
+    to_alert = [x for x in new_roles if x["status"] == "alert"] if had_roles else []
+    if to_alert:
         try:
             from radar.notify import Notifier
             n = Notifier({}, dry_run=False)
             if n.configured:
-                for r in interesting[:MAX_ALERTS]:
-                    roles = [x for x in r["added"] if len(x) <= 100 and ROLE_RE.search(x)][:3]
-                    body = "New on careers page: " + ("; ".join(roles) if roles else "; ".join(r["added"][:2]))
-                    n.send_text(body[:500], title=f"{r['name'] or r['domain']} (no job board)", click=r["url"])
-                if len(interesting) > MAX_ALERTS:
-                    n.send_text(f"{len(interesting) - MAX_ALERTS} more careers pages changed; see careers_scan/CHANGES.md",
-                                title="Careers pages")
+                for x in to_alert[:MAX_ALERTS]:
+                    how = f"Apply by email: {x['apply']}" if x["apply_kind"] == "email" else f"Apply: {x['apply']}"
+                    body = f"{x['title']} at {x['company']} ({x['location'] or 'location not stated'}). {how}"
+                    if x["flags"]:
+                        body += f" [{x['flags']}]"
+                    n.send_text(body[:600], title=f"No-job-board role: {x['title']}"[:120], click=x["job_url"])
+                if len(to_alert) > MAX_ALERTS:
+                    n.send_text(f"{len(to_alert) - MAX_ALERTS} more new roles; see careers_scan/ROLES.md",
+                                title="No-job-board roles")
         except Exception as e:  # noqa: BLE001 - alerts are optional
             log.warning("alerts not sent: %s", type(e).__name__)
     return 0

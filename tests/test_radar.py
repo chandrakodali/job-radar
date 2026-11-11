@@ -22,6 +22,12 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NOW = datetime(2026, 11, 7, 18, 0, tzinfo=timezone.utc)
 
 
+@pytest.fixture(autouse=True)
+def _no_careers_boards(tmp_path, monkeypatch):
+    """Runs read careers_scan's board list too; tests use an empty one unless they write it."""
+    monkeypatch.setattr(S, "CAREERS_BOARDS_PATH", str(tmp_path / "careers_radar_boards.csv"))
+
+
 @pytest.fixture(scope="module")
 def rules():
     with open(os.path.join(ROOT, "config.yaml")) as f:
@@ -244,7 +250,7 @@ def test_full_run(tmp_path, monkeypatch):
     boards = [Board("greenhouse", "acme", "Acme"), Board("lever", "beta", "Beta"),
               Board("greenhouse", "gone", "Gone"), Board("greenhouse", "rtx", "RTX")]
     monkeypatch.setattr(M, "load_boards", lambda: boards)
-    monkeypatch.setattr(M, "load_discovered", lambda known: [])
+    monkeypatch.setattr(M, "load_discovered", lambda known, *a, **k: [])
     now = datetime.now(timezone.utc)
     state = {"jobs": [
         _job(job_id="1", title="Associate DevOps Engineer", posted_at=now - timedelta(hours=2), needs_detail=True,
@@ -419,7 +425,7 @@ def test_ai_review_in_run(tmp_path, monkeypatch):
     monkeypatch.setattr(ai.time, "sleep", lambda s: None)
     now = datetime.now(timezone.utc)
     monkeypatch.setattr(M, "load_boards", lambda: [Board("greenhouse", "acme", "Acme")])
-    monkeypatch.setattr(M, "load_discovered", lambda known: [])
+    monkeypatch.setattr(M, "load_discovered", lambda known, *a, **k: [])
     monkeypatch.setitem(ATS.LISTERS, "greenhouse", lambda b: [
         _job(job_id="1", title="DevOps Engineer", posted_at=now - timedelta(hours=1), description="1 year of experience"),
         _job(job_id="2", title="Cloud Engineer", posted_at=now - timedelta(hours=1), description="Help desk tickets")])
@@ -478,3 +484,14 @@ def test_country_codes_are_not_us_states():
     loc, ctry, _ = jobposting_location({"jobLocation": [{"address": {"addressLocality": "Austin", "addressRegion": "TX",
                                                                       "addressCountry": "US"}}]})
     assert classify_location(loc, ctry) == "us"
+
+
+def test_careers_scan_boards_are_loaded_once(tmp_path, monkeypatch):
+    (tmp_path / "discovered.csv").write_text("ats,board,company,us_tech_jobs,jobs,checked\nlever,shared,Shared,1,1,2026-11-08\n")
+    (tmp_path / "careers_radar_boards.csv").write_text("ats,board,company,domain\n"
+                                                       "lever,shared,Shared,shared.com\nashby,Newco,NewCo,newco.ai\n"
+                                                       "greenhouse,known,Known,known.com\nnotanats,x,X,x.com\n")
+    monkeypatch.setattr(S, "DISCOVERED_PATH", str(tmp_path / "discovered.csv"))
+    known = {"greenhouse:known"}
+    found = S.load_discovered(known) + S.load_discovered(known, S.CAREERS_BOARDS_PATH, named=True)
+    assert [(b.ats, b.board, b.named) for b in found] == [("lever", "shared", False), ("ashby", "Newco", True)]

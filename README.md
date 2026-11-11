@@ -57,8 +57,10 @@ Turn it on by adding **one** repository secret (Settings → Secrets and variabl
 ## Companies that hire without a job board
 
 Some companies only post jobs on their own website and ask for a CV by email, so the radar can't see them.
-[`careers_scan/`](careers_scan/README.md) finds those companies once a month across ~6,000 startups, checks
-their careers pages every day, and alerts you to new roles. Results: [careers_scan/SUMMARY.md](careers_scan/SUMMARY.md).
+[`careers_scan/`](careers_scan/README.md) finds those companies once a month across ~6,000 startups, reads
+their careers pages twice a day, and lists their cloud / DevOps / SRE / platform / infrastructure roles with
+one-click email apply links in [careers_scan/ROLES.md](careers_scan/ROLES.md) (alerts for new ones). Companies
+from those lists that use a tracking system the radar didn't know are added to the radar automatically.
 
 ## Files
 
