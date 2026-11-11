@@ -26,7 +26,7 @@ profile:
     Jobs that need a security clearance, US citizenship or ITAR status, jobs whose text names none of the
     resume's tools, and jobs the AI reviewer (if enabled) judged off-target. The reason is in the Notes
     column. Listed so nothing is dropped silently.
-  refresh_note: 'Refreshes every few hours.'
+  refresh_note: 'Refreshes every 3 hours.'
   chips:   # which notes show red / green / amber on the page
     bad: 'no visa sponsorship|clearance|citizen|itar|stretch|staffing|open \d+ days|([89]|1\d)\+ yrs|none of your tools'
     good: '^tools:|sponsors visas|e-verify|priority'

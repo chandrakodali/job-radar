@@ -3,6 +3,8 @@ name: radar-auto
 # Auto Radar: automotive embedded software roles (profiles/automotive). Separate rules, state and
 # report from the DevOps radar; see the "Auto Radar" section of the README.
 on:
+  schedule:
+    - cron: '17 */3 * * *'   # every 3 hours
   workflow_dispatch:
     inputs:
       dry_run:
@@ -40,7 +42,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Tests
-        if: github.event_name == 'push'
         run: python -m pytest -q
 
       - name: Run Auto Radar
