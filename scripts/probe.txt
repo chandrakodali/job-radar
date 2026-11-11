@@ -1,8 +1,6 @@
-PKEYS https://join.cnh.com/services/recruiting/v1/jobs {"locale":"en_US","pageNumber":1,"sortBy":"","keywords":"embedded","location":"","facetFilters":{},"brand":"","skills":[],"categoryId":0,"alertId":"","rcmCandidateId":""}
-PKEYS https://careers.te.com/services/recruiting/v1/jobs {"locale":"en_US","pageNumber":0,"sortBy":"","keywords":"embedded software","location":"United States","facetFilters":{},"brand":"","skills":[],"categoryId":0,"alertId":"","rcmCandidateId":""}
-PKEYS https://nxp.myworkdayjobs.com/wday/cxs/nxp/careers/jobs {"appliedFacets":{},"limit":1,"offset":20,"searchText":"embedded"}
-PKEYS https://generalmotors.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs {"appliedFacets":{},"limit":1,"offset":0,"searchText":"embedded"}
-PKEYS https://harman.myworkdayjobs.com/wday/cxs/harman/HARMAN/jobs {"appliedFacets":{},"limit":1,"offset":0,"searchText":""}
-GET https://jobsapi-internal.m-cloud.io/api/job?Organization=2016&Limit=2&Offset=801
-GET https://jobsapi-internal.m-cloud.io/api/job?Organization=2016&Limit=1&Offset=1&facet=primary_country:US
-SNIP https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm?fuseaction=einzel&jid=38016 (<h1|Wixom)
+SNIP https://jobs.bmwgroup.com/job/Ulm-Embedded-Software-Graphic-Infrastructure-Expert-%28fmx%29-BW-89081/1377533733/ (application/ld\+json|itemprop="description"|class="jobdescription|job-description|jobDescription|unify)
+SNIP https://careers.te.com/job/Harrisburg-Embedded-Software-Test-Engineer-PA-17111/1399329000/ (application/ld\+json|itemprop="description"|class="jobdescription|job-description|jobDescription|unify)
+SNIP https://komatsu.jobs/job/Tucson-Vehicle-Control-Support-Engineer-AZ-85706/1365857800/ (application/ld\+json|itemprop="description"|class="jobdescription|job-description|jobDescription|unify)
+SNIP https://join.cnh.com/job/System-Integration-Engineering-Intern/5488-en_US (application/ld\+json|itemprop="description"|class="jobdescription|job-description|jobDescription|unify)
+GET https://careers.te.com/robots.txt
+GET https://careers.te.com/services/recruiting/v1/jobs/143900?locale=en_US
