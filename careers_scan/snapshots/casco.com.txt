@@ -20,4 +20,4 @@ Growth • San Francisco, CA • Full-time
 Don't see a perfect fit?
 We're always looking for exceptional talent. Send us your resume and tell us how you can contribute to our mission.
 Get in Touch
-Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-124179
+Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-96280
