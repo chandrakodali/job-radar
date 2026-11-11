@@ -280,3 +280,15 @@ def test_real_false_positives_from_first_role_run():
 def test_looks_like_location(text, ok):
     from careers_scan.roles import looks_like_location
     assert looks_like_location(text) is ok
+
+
+def test_company_document_link_is_not_used_for_other_roles(tmp_path, monkeypatch):
+    monkeypatch.chdir(ROOT_DIR)
+    root = str(tmp_path)
+    _write_classified(root, [{"domain": "daytona.io", "name": "Daytona",
+                              "doc_url": "https://daytonaio.notion.site/Digital-Community-Manager-1",
+                              "form_url": ""}])
+    results = [{"domain": "daytona.io", "name": "Daytona", "url": "https://daytona.io/careers",
+                "roles": extract_roles("<h3>Infrastructure Engineer</h3>", "https://daytona.io/careers")}]
+    rows, _, _ = apply_list.build(results, Pages({}), root, now=NOW)
+    assert rows[0]["apply_kind"] == "page" and rows[0]["apply"] == "https://daytona.io/careers"

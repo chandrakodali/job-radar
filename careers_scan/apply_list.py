@@ -94,7 +94,9 @@ def build(results: list[dict], fetcher: Fetcher, root: str, now: datetime | None
         a = assess_role(rules, company, domain, r.title, cat, location, d.get("description", ""), r.url, now=now)
         emails = list(dict.fromkeys(r.emails + d.get("emails", []) +
                                     [e.strip() for e in (info.get("apply_emails") or "").split(";") if e.strip()]))
-        form = r.apply_url or d.get("apply_url", "") or info.get("form_url", "") or info.get("doc_url", "")
+        # The company-wide fallback is its application form only: a company's document link is usually
+        # one specific job's post (often a different role).
+        form = r.apply_url or d.get("apply_url", "") or info.get("form_url", "")
         if emails:
             apply, kind = emails[0], "email"
         elif form:
