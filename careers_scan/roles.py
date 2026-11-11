@@ -31,6 +31,7 @@ NOT_TITLE_RE = re.compile(
     r"announcing|case study|customer|for|as|subject|re|experience|knowledge|deep|strong|solid|proficien\w*|"
     r"familiar\w*|understanding|credibility|ability|hands-on|excellent|good|working|bachelor\w*|degree|"
     r"certified|grab|tips|new announcement)\b"
+    r"|\b(is|are) now\b|open[- ]source|\blaunch(es|ed)?\b|\breleased?\b|\bintroduc\w+"
     r"|\b(we|our|you|your|us|my|their|experience|years?|certified|certification|award|winner|show|"
     r"webinar|podcast|conference|summit|tips|blog)\b"
     r"|\b(19|20)\d{2}\b|[?!;]|\.$|:|https?://|@",
@@ -45,11 +46,68 @@ PERSON_NOUN_RE = re.compile(
 SEPARATORS_RE = re.compile(r"\s+(?:[-–—|·•]|\bat\b|@)\s+")
 TRAILING_JUNK_RE = re.compile(r"\s*(?:[→»›>]+|\b(apply( now)?|learn more|read more|view( job| role)?|details|new)\b)\s*$",
                               re.I)
-LOCATION_LINE_RE = re.compile(
-    r"^(remote|hybrid|on-?site|onsite|in-?office|anywhere|worldwide|global)\b.{0,50}$"
-    r"|^[A-Z][A-Za-z .'\-]{1,30},\s*([A-Z]{2}|[A-Z][a-z]+(?: [A-Z][a-z]+){0,2})(\s*\(.{1,20}\))?$"
-    r"|^(united states|usa|us|u\.s\.|canada|united kingdom|uk|europe|emea|india|germany|france|spain|"
-    r"netherlands|poland|portugal|brazil|mexico|singapore|australia|israel)\b.{0,40}$",
+US_STATES = ("alabama|alaska|arizona|arkansas|california|colorado|connecticut|delaware|florida|georgia|hawaii|"
+             "idaho|illinois|indiana|iowa|kansas|kentucky|louisiana|maine|maryland|massachusetts|michigan|"
+             "minnesota|mississippi|missouri|montana|nebraska|nevada|new hampshire|new jersey|new mexico|new york|"
+             "north carolina|north dakota|ohio|oklahoma|oregon|pennsylvania|rhode island|south carolina|"
+             "south dakota|tennessee|texas|utah|vermont|virginia|washington|west virginia|wisconsin|wyoming|"
+             "district of columbia")
+STATE_CODES = ("AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|"
+               "NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC")
+PLACES = (r"united states( of america)?|usa|us|u\.s\.a?\.?|north america|americas|canada|mexico|"
+          r"united kingdom|uk|england|ireland|europe|emea|apac|latam|india|germany|france|spain|italy|netherlands|"
+          r"belgium|switzerland|austria|sweden|norway|denmark|finland|poland|portugal|romania|ukraine|greece|"
+          r"czech( republic)?|hungary|estonia|lithuania|latvia|serbia|croatia|bulgaria|turkey|israel|uae|"
+          r"brazil|argentina|chile|colombia|peru|uruguay|singapore|australia|new zealand|japan|korea|china|"
+          r"hong kong|taiwan|vietnam|philippines|indonesia|malaysia|thailand|pakistan|nigeria|kenya|"
+          r"south africa|egypt|worldwide|anywhere|global|" + US_STATES)
+WORKPLACE_WORDS = r"remote|hybrid|on-?site|onsite|in[- ]?office|in[- ]person"
+_FILLER = re.compile(r"\b(in|within|from|only|ok|okay|friendly|preferred|based|first|or|and|the|time ?zones?|"
+                     r"possible|available|position|role|option|optional|eligible|across|any(where)?|location|"
+                     r"locations|full[- ]?time|part[- ]?time|contract)\b|[,;:/()\-–—&|.+]", re.I)
+_CITY_STATE = re.compile(rf"^[A-Z][A-Za-z .'\-]{{1,30}},\s*(({STATE_CODES})\b|(?i:{PLACES})\b).{{0,25}}$")
+_NOT_PLACE = re.compile(r"\b(cloud|multi|kubernetes|team|teams|work|culture|data|ai|platform|engineering|product|"
+                        r"staff|technical|member|manager|engineer|devops|infrastructure|security|software)\b", re.I)
+_PLACE_ONLY = re.compile(rf"^(({PLACES})\b|({STATE_CODES})\b)", re.I)
+
+
+def looks_like_location(s: str) -> bool:
+    """'Remote (US)', 'Austin, TX', 'Berlin, Germany', 'Hybrid - New York' yes; 'Kubernetes, Cloud' no."""
+    s = " ".join((s or "").split()).strip(" .")
+    if not (2 <= len(s) <= 70):
+        return False
+    if _NOT_PLACE.search(s):
+        return False
+    if _CITY_STATE.match(s):
+        return True
+    rest = re.sub(rf"^((fully|100%|full)\s+)?({WORKPLACE_WORDS})\b", "", s, flags=re.I).strip()
+    had_workplace = rest != s
+    words = [w for w in _FILLER.sub(" ", rest).split() if w]
+    if not words:
+        return had_workplace
+    remainder = " ".join(words)
+    if _CITY_STATE.match(rest) or re.fullmatch(rf"(({PLACES})|({STATE_CODES}))( ({PLACES}|{STATE_CODES}))*",
+                                               remainder, re.I):
+        return True
+    # "Hybrid - New York": workplace word plus a capitalised place name
+    return had_workplace and bool(re.fullmatch(r"([A-Z][a-z]+)( [A-Z][a-z]+){0,2}", remainder))
+
+
+class _LocRE:
+    """Keeps the old `LOCATION_LINE_RE.match(x)` call sites working with the stricter check."""
+
+    @staticmethod
+    def match(s: str):
+        return looks_like_location(s) or None
+
+
+LOCATION_LINE_RE = _LocRE()
+# A role whose link leads to product or marketing pages is a menu item, not a job.
+PRODUCT_LINK_RE = re.compile(
+    r"/(solutions?|use-?cases?|by-role|roles?-we-serve|for-(teams|devops|sre|engineers|developers)|services?|"
+    r"industries|products?|features?|integrations?|ai-operations|hire|hire-\w+|hiring-solutions|talent-solutions|"
+    r"blog|news|docs?|documentation|customers|case-stud(y|ies)|pricing|resources|webinars?|events?|"
+    r"partners?|platform-overview|technology)(/|$)|[?&]hire=",
     re.I,
 )
 LOCATION_LABEL_RE = re.compile(r"\blocation\s*[:\-–]\s*([^\n]{3,70})", re.I)
@@ -80,7 +138,7 @@ def _clean_title(text: str) -> tuple[str, str]:
     title, loc = parts[0].strip(), ""
     for extra in parts[1:]:
         extra = extra.strip()
-        if LOCATION_LINE_RE.match(extra) or WORKPLACE_RE.search(extra):
+        if looks_like_location(extra):
             loc = loc or extra
     return title, loc
 
@@ -117,9 +175,9 @@ def _link_for(el, page_url: str) -> tuple[str, str]:
     return "", ""
 
 
-def _card_text(el, other_titles: set[str]) -> str:
-    """Text of the largest block around a title that holds no other job title (its job card)."""
-    best = el.get_text("\n")
+def _card(el, other_titles: set[str]):
+    """The largest block around a title that holds no other job title (its job card): (element, text)."""
+    best_el, best = el, el.get_text("\n")
     node = el
     for _ in range(5):
         node = node.parent
@@ -129,15 +187,15 @@ def _card_text(el, other_titles: set[str]) -> str:
         flat = " ".join(txt.split()).lower()
         if len(txt) > 800 or any(t in flat for t in other_titles):
             break
-        best = txt
-    return best
+        best_el, best = node, txt
+    return best_el, best
 
 
 def location_from_lines(lines: list[str]) -> str:
     for ln in lines[:60]:
         ln = " ".join(ln.split())
         m = LOCATION_LABEL_RE.search(ln)
-        if m:
+        if m and looks_like_location(m.group(1).strip(" .")):
             return m.group(1).strip(" .")
     for ln in lines[:60]:
         ln = " ".join(ln.split())
@@ -182,7 +240,7 @@ def extract_roles(html: str, page_url: str) -> list[PageRole]:
     for el, title, loc in found:
         key = re.sub(r"[^a-z0-9]+", " ", title.lower()).strip()
         link, mail = _link_for(el, page_url)
-        card = _card_text(el, flat_titles - {" ".join(title.split()).lower()})
+        card_el, card = _card(el, flat_titles - {" ".join(title.split()).lower()})
         card_lines = [x for x in (" ".join(l.split()) for l in card.splitlines()) if x and x != title]
         loc = loc or location_from_lines(card_lines)
         if not loc:  # "<h3>Title</h3><p>Berlin, Germany</p>" with no wrapping card
@@ -208,9 +266,13 @@ def extract_roles(html: str, page_url: str) -> list[PageRole]:
                 apply_url = link
             elif registrable_domain(link) == base_rd and \
                     link.split("#")[0].rstrip("/") != page_url.split("#")[0].rstrip("/"):
+                if PRODUCT_LINK_RE.search(urlsplit(link).path + ("?" + urlsplit(link).query if urlsplit(link).query else "")):
+                    continue  # a menu link to a product page that happens to be named like a role
                 url = link
-        if not apply_url:  # a form link elsewhere in the same card ("Apply" button)
-            for a in (el.parent.find_all("a", href=True, limit=6) if el.parent is not None else []):
+        if PRODUCT_LINK_RE.search(urlsplit(page_url).path + ("?" + urlsplit(page_url).query if urlsplit(page_url).query else "")):
+            continue  # the "careers page" itself is a product page
+        if not apply_url and card_el is not el:  # a form link in the same card ("Apply" button)
+            for a in card_el.find_all("a", href=True, limit=8):
                 u = absolute(page_url, a["href"])
                 v = match_vendor(u) if u else None
                 if v and v.kind in ("form", "doc"):

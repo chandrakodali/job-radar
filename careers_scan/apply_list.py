@@ -16,6 +16,7 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 
 from .fetch import Fetcher
+from .detect import match_vendor
 from .roles import assess_role, infra_category, load_rules, mailto, read_job_page, role_key
 from .urls import registrable_domain
 
@@ -97,7 +98,8 @@ def build(results: list[dict], fetcher: Fetcher, root: str, now: datetime | None
         if emails:
             apply, kind = emails[0], "email"
         elif form:
-            apply, kind = form, "form"
+            v = match_vendor(form)
+            apply, kind = form, (v.kind if v and v.kind in ("form", "doc") else "link")
         else:
             apply, kind = r.url or res.get("final_url") or res["url"], "page"
         if a.location_class == "non_us":
@@ -156,7 +158,11 @@ def _apply_cell(x: dict) -> str:
     if x["apply_kind"] == "email":
         return f"[✉ {_md(x['apply'], 40)}]({mailto(x['apply'], x['title'], x['company'])})"
     if x["apply_kind"] == "form":
-        return f"[Form]({x['apply']})"
+        return f"[Apply form]({x['apply']})"
+    if x["apply_kind"] == "doc":
+        return f"[Job post]({x['apply']})"
+    if x["apply_kind"] == "link":
+        return f"[Apply]({x['apply']})"
     return f"[Careers page]({x['apply']})"
 
 

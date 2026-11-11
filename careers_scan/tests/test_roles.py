@@ -248,3 +248,35 @@ def test_radar_link_build_skips_known_and_duplicates():
             {"category": "ats", "ats_url": "https://20210212011927_km2w.applytojob.com/apply", "name": "J", "domain": "j.com"}]
     out = radar_link.build(rows, {"lever:acme"})
     assert [(x["ats"], x["board"]) for x in out] == [("ashby", "newco")]
+
+
+def test_real_false_positives_from_first_role_run():
+    page = """<html><body><h1>Careers</h1>
+    <div class="card"><h3>DevOps Engineer</h3><p>Kubernetes, Cloud</p><a href="https://acme.notion.site/DevOps-1">Read</a></div>
+    <div class="card"><h3>Digital Community Manager</h3><a href="https://acme.notion.site/Community-2">Read</a></div>
+    <div class="card"><h3>Infrastructure Engineer</h3><p>Hybrid &amp; Multi-Cloud</p></div>
+    <ul class="menu"><li><a href="/solutions/by-role/devops--sre">DevOps / SRE</a></li>
+    <li><a href="/cybersecurity-solutions/?hire=Site%20Reliability%20Engineers">Site Reliability Engineers (SRE)</a></li></ul>
+    <h2>OpenSRE's SRE Agent is now Open Source</h2>
+    </body></html>"""
+    roles = {r.title: r for r in extract_roles(page, "https://acme.com/careers")}
+    assert "DevOps / SRE" not in roles and "Site Reliability Engineers (SRE)" not in roles
+    assert not any("Open Source" in t for t in roles)
+    assert roles["DevOps Engineer"].location == ""            # "Kubernetes, Cloud" is not a place
+    assert roles["DevOps Engineer"].apply_url == "https://acme.notion.site/DevOps-1"
+    assert roles["Infrastructure Engineer"].location == ""
+    assert roles["Infrastructure Engineer"].apply_url == ""   # not the community manager's link
+    # a product page passed as the careers page yields nothing
+    assert extract_roles("<h3>DevOps Engineer</h3>", "https://acme.com/solutions/devops") == []
+
+
+@pytest.mark.parametrize("text, ok", [
+    ("Remote (US)", True), ("Austin, TX", True), ("Berlin, Germany", True), ("London, United Kingdom", True),
+    ("Hybrid - New York", True), ("On-site in San Diego, CA", True), ("Seattle, WA, USA (Remote ok)", True),
+    ("Fully remote", True), ("Remote within the US", True), ("Remote - EMEA", True),
+    ("Kubernetes, Cloud", False), ("Hybrid & Multi-Cloud", False), ("Member of Technical Staff, In", False),
+    ("Program manager, engineering", False), ("Platform Engineer", False), ("", False),
+])
+def test_looks_like_location(text, ok):
+    from careers_scan.roles import looks_like_location
+    assert looks_like_location(text) is ok
