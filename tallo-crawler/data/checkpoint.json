@@ -18,16 +18,6 @@
   "core_remaining": 0,
   "pending": [
     {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ny/nanuet",
-      "label": "Nanuet",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ny/sunnyside",
-      "label": "Sunnyside",
-      "count": 1
-    },
-    {
       "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ny/tuckahoe",
       "label": "Tuckahoe",
       "count": 1
@@ -2867,6 +2857,18 @@
     {
       "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ny/marietta",
       "label": "Marietta",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ny/nanuet",
+      "label": "Nanuet",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ny/sunnyside",
+      "label": "Sunnyside",
       "count": 1,
       "deferred_once": true
     }
