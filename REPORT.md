@@ -2,9 +2,9 @@
 
 Watching **7,552 company job boards** every 30 minutes for entry-friendly DevOps, SRE, cloud, platform and infrastructure roles in the US.
 
-Last new match: **Tue Nov 10, 07:51 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
+Last new match: **Wed Nov 11, 03:14 AM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
 
-## Posted in the last 24 hours (23)
+## Posted in the last 24 hours (22)
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
@@ -23,16 +23,15 @@ Last new match: **Tue Nov 10, 07:51 PM CST**. Score is 0–100 (higher = better 
 | 57 | [Software Engineer - DevOps - Bitnomial](https://jobs.ashbyhq.com/kraken.com/6d3b6e08-97ec-4eda-b3ad-bbf5fd955840) | Kraken Com | United States; Brazil; United Arab Emir… (remote) | Nov 10 | 3+ yrs exp |
 | 55 | [Software Engineer, Cloud Infrastructure](https://app.dover.com/apply/weaverobotics/5b7bf24e-a8dc-40a3-86a7-5ff4e929b49c) | Weave Robotics | San Francisco, CA (onsite) | Nov 10 |  |
 | 55 | [Linux Engineer](https://boards.greenhouse.io/cloudflare/jobs/8368421?gh_jid=8368421) | Cloudflare | Hybrid (hybrid) | Nov 10 | location unclear; no future H-1B sponsorship; priority company |
+| 55 | [Deployment Engineer](https://jobs.ashbyhq.com/sieve/b8a87691-3b2a-4960-aa0e-cda34894039c) | Sieve | San Francisco (onsite) | Nov 10 |  |
 | 52 | [Evergreen Posting: DevSecOps Engineer](https://coforma.pinpointhq.com/en/postings/bd95e9e4-564a-4f23-a28d-380f43d98e8f) | Coforma | Remote (select US states) (remote) | Nov 10 | E-Verify |
 | 50 | [Infrastructure Engineer](https://jobs.ashbyhq.com/harmattan-ai/3ee9867d-699f-400c-af16-0ceb0d1dbcac) | Harmattan Ai | Austin (onsite) | Nov 10 | 7+ yrs exp |
-| 47 | [IT Infrastructure Managers: Interview on Desktop Provisioning Strateg…](https://jobs.ashbyhq.com/terac/905ccd00-8971-4b83-aad4-957e6526199c) | Terac | United States (remote) | Nov 09 |  |
 | 47 | [Linux Systems Administrator (3rd Shift)](https://jobs.ashbyhq.com/Vultr/24c3445f-27b2-40fb-870e-e59b71305787) | Vultr | Remote - United States (remote) | Nov 10 |  |
-| 45 | [Integration Build Engineer](https://boards.greenhouse.io/vast/jobs/4728490006?gh_jid=4728490006) | VAST | Long Beach, California, United States | Nov 09 | 4+ yrs exp; repost |
 | 45 | [Business Systems Administrator](https://job-boards.greenhouse.io/monsterenergy/jobs/4485188009) | Monster Energy | USA - Corona, CA | Nov 10 | 3+ yrs exp |
 | 40 | [1000000870.NETWORK ENGINEER II.INFO TECH - OPERATIONS](https://fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26000568) | Dallas County | Dallas, TX, United States | Nov 10 | 4+ yrs exp |
 | 35 | [Integration & Release Engineer - Infotainment and Connectivity](https://jobs.ashbyhq.com/rivianvw.tech/9bd6180e-9847-4ecc-abc9-a9b0da48da62) | Rivian and Volkswagen Group T… | Palo Alto, California (hybrid) | Nov 10 | 8+ yrs exp |
 
-## Found this week, posted earlier (451)
+## Found this week, posted earlier (456)
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
@@ -172,6 +171,7 @@ Last new match: **Tue Nov 10, 07:51 PM CST**. Score is 0–100 (higher = better 
 | 53 | [FLS Production Engineer - Optical Alignment & Metrology Competency (D…](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/FLS-Production-Engineer---Optical-Alignment---Metrology-Competency--Days-_J-00348173) | ASML | Wilton, CT, USA | Nov 09 | 2+ yrs exp |
 | 53 | [Production Engineer - NXE](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineer---NXE_J-00349079) | ASML | Wilton, CT, USA | Nov 09 | 2+ yrs exp |
 | 53 | [NXE Production Engineer First Line Support](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/NXE-Production-Engineer-First-Line-Support_J-00353192) | ASML | Wilton, CT, USA | Nov 09 | 2+ yrs exp |
+| 53 | [Network Engineer](https://extremenetworks.wd503.myworkdayjobs.com/Extreme_Networks/job/Salem-NH-USA/Network-Engineer_JR100307) | Extreme Networks | Salem, NH USA | Nov 09 | 2+ yrs exp |
 | 52 | [Site Reliability Engineer II](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Site-Reliability-Engineer-II_JR6069-1) | Etsy | Brooklyn, New York (remote) | Oct 28 | 2+ yrs exp |
 | 52 | [Azure Operations Engineer](https://job-boards.greenhouse.io/bpcs/jobs/8367696) | Blueprint Technologies | Remote (remote) | Nov 09 | 3+ yrs exp; location unclear |
 | 50 | [Dev Ops Engineer (2026-0131)](https://acclaimtechnicalservices.applytojob.com/apply/cy8dflIrzs/Dev-Ops-Engineer-20260131) | Acclaim Technical Services | Bethesda, MD | Nov 08 |  |
@@ -185,9 +185,8 @@ Last new match: **Tue Nov 10, 07:51 PM CST**. Score is 0–100 (higher = better 
 | 50 | [Cloud System Administrator](https://petersontechnologies.applytojob.com/apply/Ob4PxBpD7A/Cloud-System-Administrator) | Peterson Technologies | Annapolis Junction, MD | Nov 08 |  |
 | 50 | [Site Reliability Engineer](https://foxconnassemblyllc.applytojob.com/apply/E0O1xyL5jx/Site-Reliability-Engineer) | Foxconn Industrial Internet | San Jose, CA | Nov 08 |  |
 | 50 | [GCP GEN-AI Engineer](https://crackajackdigitalsolutionsllc.applytojob.com/apply/fOBVBHxHSf/GCP-GENAI-Engineer) | CrackaJack Digital Solutions … | Phoenix, AZ | Nov 08 |  |
-| 50 | [Network Infrastructure Engineer](https://crackajackdigitalsolutionsllc.applytojob.com/apply/e4aCbhwy6u/Network-Infrastructure-Engineer) | CrackaJack Digital Solutions … | Jackson, MS | Nov 08 |  |
 
-## Hidden from alerts: clearance/citizenship or rejected by the AI check (396 this week)
+## Hidden from alerts: clearance/citizenship or rejected by the AI check (397 this week)
 
 Clearance, US citizenship or ITAR requirements (which F-1/OPT holders can't meet), or jobs the AI reviewer judged off-target or too senior. The reason is in the flags column. Listed so you can double-check.
 
