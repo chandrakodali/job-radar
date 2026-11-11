@@ -260,7 +260,7 @@ def test_sfrmk_search_page(monkeypatch):
 def test_deep_list_merges_searches_and_survives_failures(monkeypatch):
     b = Board("workday", "gm|wd5|Careers", "GM", focus=True)
 
-    def fake(board, max_pages=5, max_age_days=7, search=""):
+    def fake(board, max_pages=5, max_age_days=7, search="", us_only=False):
         if search == "boom":
             raise ATS.FetchError("HTTP 500", 500)
         ids = {"": ["1", "2"], "AUTOSAR": ["2", "3"], "Simulink": ["3", "4"]}[search]
@@ -276,7 +276,7 @@ def test_deep_list_merges_searches_and_survives_failures(monkeypatch):
 def test_deep_list_stops_searching_when_rate_limited(monkeypatch):
     calls = []
 
-    def fake(board, max_pages=5, max_age_days=7, search=""):
+    def fake(board, max_pages=5, max_age_days=7, search="", us_only=False):
         calls.append(search)
         if search:
             raise ATS.FetchError("rate limited", 429)
@@ -355,7 +355,7 @@ def test_full_profile_run(tmp_path, monkeypatch):
     recent = now - timedelta(days=2)
     searched = []
 
-    def wd(board, max_pages=5, max_age_days=7, search=""):
+    def wd(board, max_pages=5, max_age_days=7, search="", us_only=False):
         searched.append(search)
         def j(i, title, **kw):
             return Job("workday", board.board, i, "OEM Motors", title, location="Warren, Michigan, United States",
@@ -452,3 +452,89 @@ def test_wide_cap_defers_instead_of_dropping(tmp_path, monkeypatch):
     for expected in (2, 4, 5):
         assert M.main(["--dry-run"]) == 0
         assert len(list(csv.DictReader(open(tmp_path / "matches.csv")))) == expected
+
+
+# ------------------------------------------------------------------ readers added for more employers
+
+def test_workday_switches_to_us_results_when_a_board_has_too_many(monkeypatch):
+    calls = []
+    facets = [{"facetParameter": "locationMainGroup", "values": [
+        {"facetParameter": "Location_Country", "descriptor": "Country",
+         "values": [{"descriptor": "India", "id": "in1"}, {"descriptor": "United States of America", "id": "us1"}]}]}]
+
+    def fake_post(url, payload, **kw):
+        calls.append(payload)
+        us = payload["appliedFacets"] == {"Location_Country": ["us1"]}
+        where = "Troy, MI" if us else "Bangalore, India"
+        n = 25 if us else 500
+        start = payload["offset"]
+        rows = [{"title": f"Engineer {i}", "externalPath": f"/job/x/E_{where[:2]}_{i}", "postedOn": "Posted Today",
+                 "bulletFields": [f"{where[:2]}{i}"], "locationsText": where} for i in range(start, min(n, start + 20))]
+        return {"total": n if start == 0 else 0, "jobPostings": rows, "facets": facets if start == 0 else []}
+    monkeypatch.setattr(ATS, "post_json", fake_post)
+    b = Board("workday", "aptiv|wd5|APTIV_CAREERS", "Aptiv")
+    us = ATS.workday_list(b, max_pages=3, search="software", us_only=True)
+    assert len(us) == 25 and all(j.location == "Troy, MI" for j in us)       # all US results, none skipped
+    assert calls[0]["appliedFacets"] == {} and calls[1]["appliedFacets"] == {"Location_Country": ["us1"]}
+    calls.clear()
+    plain = ATS.workday_list(b, max_pages=3, search="software")              # the DevOps radar is unchanged
+    assert len(plain) == 60 and all(c["appliedFacets"] == {} for c in calls)
+    assert ATS.workday_us_facet([{"facetParameter": "jobFamilyGroup", "values": [{"descriptor": "IT", "id": "1"}]}]) is None
+    assert ATS._wd_hosts("nxp||careers")[0] == "https://nxp.myworkdayjobs.com/wday/cxs/nxp/careers"
+
+
+def test_newer_successfactors_sites_are_searched_through_their_json_service(monkeypatch):
+    monkeypatch.setattr(ats_more.robots, "check", lambda url: None)
+    monkeypatch.setattr(ats_more, "get_text", lambda url, **kw: "<body class='unify'>j2w.SearchResultsUnify.x()</body>")
+    posts = []
+
+    def fake_post(url, payload, **kw):
+        posts.append((url, payload))
+        if payload["pageNumber"]:
+            return {"jobSearchResult": [], "totalJobs": 1}
+        return {"totalJobs": 1, "jobSearchResult": [{"response": {
+            "id": "5488", "unifiedStandardTitle": "Embedded Controls Engineer", "urlTitle": "Embedded-Controls-Engineer",
+            "jobLocationShort": ["Fargo, ND, USA, "], "country_obj": ["United States"], "unifiedStandardStart": "9/1/26"}}]}
+    monkeypatch.setattr(ats_more, "post_json", fake_post)
+    jobs = ats_more.sfrmk_search(Board("sfrmk", "join.cnh.com", "CNH"), "Simulink")
+    assert posts[0][0] == "https://join.cnh.com/services/recruiting/v1/jobs" and posts[0][1]["keywords"] == "Simulink"
+    j = jobs[0]
+    assert (j.title, j.location, j.countries, j.found_by) == ("Embedded Controls Engineer", "Fargo, ND, USA",
+                                                              ["United States"], "Simulink")
+    assert j.url == "https://join.cnh.com/job/Embedded-Controls-Engineer/5488-en_US" and j.posted_at.year == 2026
+
+
+def test_mcloud_dspace_and_jibe_readers(monkeypatch):
+    monkeypatch.setattr(ats_more.robots, "check", lambda url: None)
+    seen = []
+
+    def fake_get(url, params=None, **kw):
+        seen.append((url, params))
+        if "m-cloud" in url:
+            return {"totalHits": 1, "queryResult": [{
+                "id": 24112984, "title": "Software Architect - Safety Embedded", "entity_status": "Open",
+                "primary_city": "Auburn Hills", "primary_state": "MI", "primary_country": "US",
+                "open_date": "2026-11-05T10:02:21.587Z", "description": "<p>AUTOSAR and ISO 26262</p>",
+                "url": "https://careers.stellantis.com/job/24112984/software-architect"}]}
+        return {"totalCount": 1, "jobs": [{"data": {"slug": "34042", "title": "Staff Embedded Software Engineer",
+                                                     "full_location": "Palo Alto, California", "country_code": "US",
+                                                     "description": "<p>RTOS</p>", "posted_date": "2026-11-01"}}]}
+    monkeypatch.setattr(ats_more, "get_json", fake_get)
+    st = ats_more.mcloud_list(Board("mcloud", "2016|careers.stellantis.com", "Stellantis"), search="AUTOSAR")
+    assert seen[-1][1]["SearchText"] == "AUTOSAR" and seen[-1][1]["facet"] == "primary_country:US"
+    assert st[0].location == "Auburn Hills, MI, US" and "ISO 26262" in st[0].description and st[0].found_by == "AUTOSAR"
+    rv = ats_more.jibe_list(Board("jibe", "careers.rivian.com", "Rivian"), search="RTOS")
+    assert seen[-1][1]["keywords"] == "RTOS" and "sortBy" not in seen[-1][1] and rv[0].found_by == "RTOS"
+    assert {"jibe", "mcloud"} <= set(deep.SEARCHERS)
+
+    page = ('[{"filterterms":["term-ort-4"],"href":"/en/inc/home/career/jobfinder/stellen.cfm?fuseaction=einzel&jid=38016&t=x",'
+            '"popularity":0,"timestamp":"0","location":"Wixom, MI","code":"INC-ADSE",'
+            '"title":"Embedded Software Developer - Automated Driving","description":"INC"},'
+            '{"filterterms":[],"href":"/en/inc/x.cfm?fuseaction=einzel&jid=1&t=y","location":"Paderborn","code":"P",'
+            '"title":"Softwareentwickler","description":""}]')
+    monkeypatch.setattr(ats_more, "get_text", lambda url, **kw: page)
+    ds = ats_more.dspace_list(Board("dspace", "www.dspace.com|en/inc/home/career/jobfinder/stellen.cfm", "dSPACE"))
+    assert [(j.job_id, j.title, j.location, j.countries) for j in ds] == [
+        ("38016", "Embedded Software Developer - Automated Driving", "Wixom, MI", ["US"]),
+        ("1", "Softwareentwickler", "Paderborn", [])]
+    assert ds[0].url.startswith("https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm?fuseaction=einzel&jid=38016")

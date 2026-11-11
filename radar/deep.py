@@ -26,13 +26,14 @@ def _count(stats, key: str, n: int = 1) -> None:
 
 # Job systems with a keyword search of the full job text: ats -> search(board, term, pages).
 SEARCHERS = {
-    "workday": lambda b, term, pages: ATS.workday_list(b, max_pages=pages, search=term),
+    "workday": lambda b, term, pages: ATS.workday_list(b, max_pages=pages, search=term, us_only=True),
     "smartrecruiters": lambda b, term, pages: ATS.smartrecruiters_list(b, max_pages=max(1, pages // 2), search=term),
     "oracle": lambda b, term, pages: ATS.oracle_list(b, max_pages=pages, search=term),
     "eightfold": lambda b, term, pages: ats_more.eightfold_list(b, num=pages * 10, search=term),
     "phenom": lambda b, term, pages: ats_more.phenom_list(b, max_pages=1, search=term),
     "sfrmk": lambda b, term, pages: ats_more.sfrmk_search(b, term, max_pages=pages),
     "jibe": lambda b, term, pages: ats_more.jibe_list(b, max_pages=pages, search=term),
+    "mcloud": lambda b, term, pages: ats_more.mcloud_list(b, max_pages=pages, search=term),
 }
 
 
@@ -41,7 +42,7 @@ def base_list(b: Board, opts: dict) -> list[Job]:
     days = int(opts.get("list_max_age_days", 30))
     pages = int(opts.get("list_max_pages", 10))
     if b.ats == "workday":
-        return ATS.workday_list(b, max_pages=pages, max_age_days=days)
+        return ATS.workday_list(b, max_pages=pages, max_age_days=days, us_only=True)
     if b.ats == "smartrecruiters":
         return ATS.smartrecruiters_list(b, max_pages=pages, max_age_days=max(days, 120))
     if b.ats == "oracle":

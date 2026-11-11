@@ -36,7 +36,7 @@ boards:
   include_general: true    # also scan every board the DevOps radar watches (by title)
 
 run:
-  time_budget_minutes: 22
+  time_budget_minutes: 30
 
 report:
   track_closed: true       # drop matches whose posting has been taken down (Greenhouse, Lever, Ashby)
@@ -71,7 +71,7 @@ search:
     - 'firmware'
     - 'ECU'
   terms_per_run: 9         # the first run searches all of them; later runs rotate through
-  search_pages: 3          # result pages per keyword per board
+  search_pages: 5          # result pages per keyword per board (US results only where the board can filter)
   list_max_pages: 10       # how far back the ordinary newest-first listing is read
   list_max_age_days: 30
 
