@@ -173,7 +173,6 @@ juxt.pro,JUXT,https://www.juxt.pro/careers/,email
 kaagaz.app,Kaagaz,https://kaagaz.app/joinus,email
 withkairos.co,Kairos,https://withkairos.co/careers,email
 kairoxsys.com,Kairox Systems,https://www.kairoxsys.com/careers,email
-karalabs.ai,Kara,https://www.karalabs.ai/careers,email
 kaufland-ecommerce.com,Kaufland e-commerce,https://kaufland-ecommerce.com/en/careers/,email
 khotan.com,Khotan (formerly Pollinate),https://www.khotan.com/careers,email
 kita.ai,Kita,https://www.kita.ai/careers,email
@@ -440,6 +439,7 @@ hanzo.co,Hanzo Archives,https://hanzo.co/careers/,email
 husldigital.com,HUSL Digital,https://husldigital.com/careers/,email
 imicrobes.com,Industrial Microbes,https://www.imicrobes.com/careers,email
 isabl.io,Isabl,https://www.isabl.io/careers,email
+karalabs.ai,Kara,https://www.karalabs.ai/careers,email
 levelframes.com,Level Frames,https://www.levelframes.com/join,email
 machine26.com,Machine26,https://www.machine26.com/careers,email
 mantisbiotech.com,Mantis,https://mantisbiotech.com/careers.html,email
@@ -708,7 +708,7 @@ carmatec.com,Carmatec,https://www.carmatec.com/careers/,careers_page_unclear
 cashflowportal.com,Cash Flow Portal,https://www.cashflowportal.com/hiring,careers_page_unclear
 chargelab.co,ChargeLab,https://chargelab.co/jobs,careers_page_unclear
 charm.land,Charm,https://charm.land/careers,careers_page_unclear
-chef.io,Chef Software,https://www.chef.io/careers,careers_page_unclear
+chef.io,Chef Software,https://www.chef.io/careers/,careers_page_unclear
 chess.com,Chess,https://www.chess.com/jobs,careers_page_unclear
 chonkie.ai,Chonkie,https://usefeyn.com/interest/,careers_page_unclear
 circuitlab.com,CircuitLab,https://www.circuitlab.com/about/careers/,careers_page_unclear
@@ -1382,7 +1382,6 @@ julep.ai,Julep AI,https://julep.ai/careers,careers_page_unclear
 kanopy-ai.com,Kanopy,https://www.kanopy-ai.com/careers,careers_page_unclear
 karboncard.com,Karbon Card,https://www.karboncard.com/about,careers_page_unclear
 khatabook.com,Khatabook,https://khatabook.com/hiring/,careers_page_unclear
-kite.video,Kite,https://kite.video/careers,careers_page_unclear
 konkurenta.com,Konkurenta,https://konkurenta.com/jobs,careers_page_unclear
 getkosh.com,Kosh,https://getkosh.com/careers,careers_page_unclear
 koyal.ai,Koyal,https://koyal.ai/careers,careers_page_unclear
@@ -1565,7 +1564,7 @@ superdesign.dev,Superdesign.dev,https://superdesign.dev/careers,careers_page_unc
 superlog.sh,Superlog,https://superlog.sh/careers,careers_page_unclear
 sureformhq.com,Sureform,https://www.sureformhq.com/careers,careers_page_unclear
 surtrdefense.com,Surtr Defense Systems,https://surtrdefense.com/careers,careers_page_unclear
-swadesiway.com,Swadesi Way,https://swadesiway.com/explore/,careers_page_unclear
+swadesiway.com,Swadesi Way,https://swadesiway.com/explore,careers_page_unclear
 swiggy.com,Swiggy,https://careers.swiggy.in:443/#/,careers_page_unclear
 synaraops.com,Synara,https://careers.synaraops.com/,careers_page_unclear
 syncly.app,Syncly,https://syncly.app/careers,careers_page_unclear
@@ -1675,6 +1674,7 @@ employmenthero.com,Employment Hero,https://employmenthero.com/jobs/,no_openings
 evilmartians.com,Evil Martians,https://evilmartians.com/careers,no_openings
 flower.ai,Flower,https://flower.ai/work-with-us,no_openings
 forge-robotics.com,Forge Robotics,https://forge-robotics.com/about,no_openings
+giantswarm.io,Giant Swarm,https://www.giantswarm.io/careers#open-positions,no_openings
 golem.cloud,Golem Cloud,https://golem.cloud/careers/,no_openings
 getharvest.com,Harvest,https://www.getharvest.com/careers,no_openings
 icinga.com,Icinga,https://icinga.com/company/careers/,no_openings
@@ -1706,6 +1706,7 @@ userank.com,Rank (formerly Moni),https://www.userank.com/careers,no_openings
 redapto.com,Redapto,https://www.redapto.com/careers,no_openings
 red-gate.com,Redgate Software,https://www.red-gate.com/our-company/careers/current-opportunities/,no_openings
 repacket.com,Repacket,https://www.repacket.com/careers,no_openings
+ruvo.com,Ruvo,https://ruvo.com/careers,no_openings
 scrapegraphai.com,ScrapeGraphAI,https://scrapegraphai.com/careers,no_openings
 snowplow.io,Snowplow,https://snowplow.io/careers,no_openings
 speedscale.com,Speedscale,https://speedscale.com/careers/,no_openings
@@ -1731,6 +1732,7 @@ calii.com,Calii,https://careers.calii.com/,no_openings
 canix.com,Canix,https://app.trinethire.com/companies/170847-canix/jobs,no_openings
 cartstack.com,CartStack,https://www.cartstack.com/careers,no_openings
 cleargene.com,Clear Gene,https://cleargene.com/jobs,no_openings
+crowdsec.net,CrowdSec,https://www.crowdsec.net/join-our-team,no_openings
 cueup.io,Cueup,https://cueup.io/jobs,no_openings
 datoric.com,Datoric,https://www.datoric.com/careers,no_openings
 dialoguslabs.com,Dialogus,https://www.dialoguslabs.com/careers,no_openings

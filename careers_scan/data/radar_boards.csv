@@ -190,6 +190,7 @@ ashby,Junction,Junction,junction.com
 ashby,kestra,Kestra,kestra.io
 ashby,kindred,Kindred,livekindred.com
 ashby,Kingdom,Kingdom,kingdomsuperculture.com
+ashby,kite,Kite,kite.video
 ashby,kivo-health,Kivo Health,kivohealth.com
 ashby,kiwi,Kiwi,withkiwi.ai
 ashby,klarify,Klarify,klarify.ca
@@ -294,7 +295,7 @@ ashby,polar,Polar,polar.sh
 ashby,popl,Popl,popl.co
 ashby,posh,Posh,poshenergy.com
 ashby,posthog,PostHog,posthog.com
-ashby,posting-api,Envoy,envoy.com
+ashby,posting-api,CircuitHub,circuithub.com
 ashby,powerus,PowerUs,powerus.de
 ashby,prefect,Prefect,prefect.io
 ashby,primer.io,Primer,primer.io
@@ -508,6 +509,7 @@ gem,buildtrayd-com,Trayd,buildtrayd.com
 gem,cellbyte,Cellbyte,cellbyte.com
 gem,cloudanix-com,Cloudanix,cloudanix.com
 gem,converge,Converge,runconverge.com
+gem,fifthdoor-com,Fifth Door,fifthdoor.com
 gem,gem,Ocient,ocient.com
 gem,letter-ai,Letter AI,letter.ai
 gem,lunajoy,LunaJoy Health,hellolunajoy.com
@@ -589,7 +591,6 @@ greenhouse,intelluminc,Intellum,intellum.com
 greenhouse,jfrog,JFrog,jfrog.com
 greenhouse,kernalbio,Kernal Biologics,kernalbio.com
 greenhouse,knack,Knack,knack.com
-greenhouse,laika,LAIKA,laika.com.co
 greenhouse,limrun,Limrun,lim.run
 greenhouse,lob,Lob,lob.com
 greenhouse,ltse,Long Term Stock Exchange,ltse.com
@@ -611,6 +612,7 @@ greenhouse,newton,Newton,joinnewton.com
 greenhouse,nexttrucking,NEXT,nexttrucking.com
 greenhouse,niraenergy,Nira Energy,niraenergy.com
 greenhouse,nirmata,Nirmata,nirmata.com
+greenhouse,noredink,NoRedInk,noredink.com
 greenhouse,novacredit,Nova Credit,novacredit.com
 greenhouse,novisto78,Minimum,minimum.com
 greenhouse,nuharborsecurity,Nuharbor Security,nuharborsecurity.com
@@ -660,6 +662,7 @@ greenhouse,retrofit,Retrofit,retrofit.shop
 greenhouse,rocketchat,Rocket.Chat,rocket.chat
 greenhouse,roofr,Roofr,roofr.com
 greenhouse,rosebud,Rosebud AI,rosebud.ai
+greenhouse,rstudio,Posit,posit.co
 greenhouse,sadapay,SadaPay,sadapay.pk
 greenhouse,saltsecurity,Salt Security,salt.security
 greenhouse,scandit,Scandit,scandit.com
@@ -677,7 +680,6 @@ greenhouse,soloioinc,Solo.io,solo.io
 greenhouse,sourcegraph91,Sourcegraph,sourcegraph.com
 greenhouse,spotlight,Spotlight Realty,spotlight.realty
 greenhouse,starbursttalentcommunity,Starburst Data,starburst.io
-greenhouse,stitchfix,Stitch Fix,stitchfix.com
 greenhouse,storyblok,Storyblok,storyblok.com
 greenhouse,streamnative,StreamNative,streamnative.io
 greenhouse,sumologic,Sensu,sensu.io
@@ -723,6 +725,7 @@ jazzhr,turbot,Turbot,turbot.com
 jazzhr,zenflow,Zenflow,zenflow.com
 jobvite,__assets__,Opentrons,opentrons.com
 jobvite,crowdstrike,Crowdstrike,crowdstrike.com
+jobvite,imagine-learning,Imagine Learning,imaginelearning.com
 jobvite,liferay,Liferay,liferay.com
 jobvite,liquidweb,Modern Tribe,tri.be
 jobvite,oreilly-media,O'Reilly Media,oreilly.com
@@ -762,6 +765,7 @@ lever,emilabs,Emi Labs,emilabs.ai
 lever,envato-2,Envato,envato.com
 lever,epsilon3,Epsilon3,epsilon3.io
 lever,fampay,FamPay,fampay.in
+lever,finch,Finch,tryfinch.com
 lever,findem,Findem,findem.ai
 lever,finn,Finn,getfinn.us
 lever,fintual,Fintual,fintual.com
@@ -841,7 +845,6 @@ recruitee,aikidosecurity,Aikido Security,aikido.dev
 recruitee,bigcartel,Big Cartel,bigcartel.com
 recruitee,claranetitalia,Flowing,flowing.it
 recruitee,crazygames,CrazyGames,crazygames.com
-recruitee,crowdsec,CrowdSec,crowdsec.net
 recruitee,intent,Intent,withintent.com
 recruitee,kodify,Kodify,kodify.io
 recruitee,madewithlove,madewithlove,madewithlove.com
@@ -889,8 +892,10 @@ smartrecruiters,SeaplaneIOInc,Seaplane,seaplane.io
 teamtailor,bamboo,Bamboo,investbamboo.com
 teamtailor,encuadrado,Encuadrado,encuadrado.com
 teamtailor,moto,Superlinked,superlinked.com
+teamtailor,opennebula,OpenNebula,opennebula.io
 teamtailor,sullyai,Sully,sully.ai
 teamtailor,thecasumolimited,Casumo,casumo.com
+teamtailor,tt,Cerrion,cerrion.com
 teamtailor,unleash-amby,Unleash,getunleash.io
 teamtailor,varnish-software,Varnish Software,varnish-software.com
 teamtailor,xataio-1680192386,Xata,xata.io
@@ -912,6 +917,7 @@ workable,mixcloud-limited,Mixcloud,mixcloud.com
 workable,mtailor,MTailor,mtailor.com
 workable,nalamoney,NALA,nala.com
 workable,netguru,Netguru,netguru.com
+workable,open-252,Open,open.cx
 workable,ottimate,Plate IQ,plateiq.com
 workable,platzi,Platzi,platzi.com
 workable,portainer,Portainer,portainer.io
@@ -936,6 +942,7 @@ workable,whitespectre,Whitespectre,whitespectre.com
 workable,workbrew,Workbrew,workbrew.com
 workable,wp-media,WP-Media,wp-media.me
 workable,writesonic,Writesonic,writesonic.com
+workable,zyte,Scrapinghub,scrapinghub.com
 workday,browserstack|wd3|External,Requestly,requestly.com
 workday,cloudera|wd5|External_Career,Cloudera,cloudera.com
 workday,communitybrands|wd1|Momentive_External_Careers,Core-Apps,core-apps.com

@@ -1,22 +1,22 @@
 # Companies that hire without a job board
 
-Updated 2026-11-10 20:37 UTC. 6264 companies checked; 6264 scanned in this run.
+Updated 2026-11-11 01:43 UTC. 6264 companies checked; 6264 scanned in this run.
 
 | How they hire | Companies |
 | --- | ---: |
 | Apply by email | 481 |
 | Apply through a form | 70 |
 | Jobs posted as a document (Notion, Google Docs) | 75 |
-| Applicant tracking system | 1245 |
-| Tracking system found through its API | 344 |
-| Only on LinkedIn / Wellfound / YC / Indeed | 338 |
-| Careers page, apply route not visible | 1024 |
-| Careers page says no openings | 105 |
-| No careers page found | 2150 |
+| Applicant tracking system | 1243 |
+| Tracking system found through its API | 343 |
+| Only on LinkedIn / Wellfound / YC / Indeed | 340 |
+| Careers page, apply route not visible | 1023 |
+| Careers page says no openings | 108 |
+| No careers page found | 2149 |
 | Site needs JavaScript | 56 |
-| Blocked by bot protection | 106 |
-| Unreachable | 198 |
-| robots.txt disallows | 72 |
+| Blocked by bot protection | 105 |
+| Unreachable | 203 |
+| robots.txt disallows | 68 |
 
 ## No job board (626)
 
@@ -198,7 +198,6 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | Kaagaz (eng) | email | hello@kaagaz.app; work@kaagaz.app |  | https://kaagaz.app/joinus |
 | Kairos (eng) | email | careers@withkairos.co; team@withkairos.co | Applied AI Engineer | https://withkairos.co/careers |
 | Kairox Systems (eng) | email | info@kairoxsys.com | Mechanical Engineering Micro-Intern Engineering Apply / Embedded Engi… | https://www.kairoxsys.com/careers |
-| Kara (eng) | email | founders@karalabs.ai | We engineer diamond | https://www.karalabs.ai/careers |
 | Kaufland e-commerce (eng) | email | jobs@kaufland-ecom.com | (Senior) Business Automation Developer / (Junior) Tech Recruiter / (f… | https://kaufland-ecommerce.com/en/careers/ |
 | Khotan (formerly Pollinate) (eng) | email | careers@khotan.com | A representative month / Forward-Deployed Engineer Remote (US / EU ti… | https://www.khotan.com/careers |
 | Kita (eng) | email | founders@kita.ai | Founding Engineer Engineering · San Francisco → / AI Credit Officer | https://www.kita.ai/careers |
@@ -424,10 +423,11 @@ Engineering-related careers pages first. Full list: [data/no_job_board.csv](data
 | Whitespace (eng) | email | founders@whitespacehq.ai; team@whitespacehq.ai | Founding Engineer London, in person → / Founding Engineer / Apply by … | https://www.whitespacehq.ai/careers |
 | WikiHow (eng) | email | jobs@wikihow.com |  | https://www.wikihow.com/wikiHow:Jobs |
 | Windmill (eng) | email | jobs@windmill.dev |  | https://www.windmill.dev/careers |
+| Wingman Law (eng) | email | hello@wingmanlaw.com | Legal Operations Engineer | https://www.wingmanlaw.com/careers |
 
 …and 226 more in the CSV.
 
-## Check by hand (1129)
+## Check by hand (1131)
 
 Careers pages where the apply route wasn't in the page HTML (often built with JavaScript): [data/check_by_hand.csv](data/check_by_hand.csv).
 
