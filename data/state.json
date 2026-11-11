@@ -66,28 +66,42 @@
   "ashby:Gamma": "2026-11-09",
   "ashby:Gardens": "2026-11-09",
   "ashby:GigaML": "2026-11-09",
+  "ashby:GitBook": "2026-11-11",
   "ashby:GoVenti": "2026-11-09",
+  "ashby:GovEagle": "2026-11-11",
   "ashby:GovSignals": "2026-11-07",
   "ashby:GravityClimate": "2026-11-09",
+  "ashby:Gruntwork": "2026-11-11",
   "ashby:Harmonic": "2026-11-09",
   "ashby:Hatch": "2026-11-09",
+  "ashby:Healthtech-1": "2026-11-11",
   "ashby:Hippocratic AI": "2026-11-07",
+  "ashby:Hyperbound": "2026-11-11",
   "ashby:Hyperscience": "2026-11-09",
   "ashby:Inclined": "2026-11-07",
+  "ashby:Influxdata": "2026-11-11",
+  "ashby:InscribeAI": "2026-11-11",
   "ashby:Intellistack": "2026-11-09",
+  "ashby:Junction": "2026-11-11",
   "ashby:KAYAK": "2026-11-07",
+  "ashby:Kingdom": "2026-11-11",
   "ashby:Kognitos": "2026-11-07",
   "ashby:Lance": "2026-11-07",
   "ashby:Lapel": "2026-11-09",
+  "ashby:LatchBio": "2026-11-11",
   "ashby:Levelpath": "2026-11-09",
   "ashby:Lightfield": "2026-11-07",
   "ashby:Lunon": "2026-11-07",
   "ashby:MUBI": "2026-11-07",
   "ashby:Marathon Fusion": "2026-11-07",
+  "ashby:Mastra": "2026-11-11",
   "ashby:MaticRobots": "2026-11-07",
   "ashby:Mintlify": "2026-11-07",
   "ashby:Molg": "2026-11-09",
+  "ashby:MotherDuck": "2026-11-11",
+  "ashby:Mutiny": "2026-11-11",
   "ashby:NPX": "2026-11-07",
+  "ashby:Nango": "2026-11-11",
   "ashby:Nash": "2026-11-07",
   "ashby:Neuromorphic-Labs": "2026-11-09",
   "ashby:Nivoda": "2026-11-09",
@@ -95,13 +109,22 @@
   "ashby:Ohr": "2026-11-09",
   "ashby:Ontic": "2026-11-07",
   "ashby:Opal": "2026-11-09",
+  "ashby:OpenHands": "2026-11-11",
+  "ashby:Oso": "2026-11-11",
   "ashby:PAR Technology": "2026-11-07",
+  "ashby:Paragon": "2026-11-11",
+  "ashby:Pear-VC": "2026-11-11",
   "ashby:Perchwell": "2026-11-07",
   "ashby:Perplexity": "2026-11-07",
+  "ashby:Pharos": "2026-11-11",
   "ashby:PointOne": "2026-11-07",
   "ashby:Preference-Model": "2026-11-07",
   "ashby:PrimeIntellect": "2026-11-07",
+  "ashby:Promise": "2026-11-11",
   "ashby:RWA.xyz": "2026-11-09",
+  "ashby:Raindrop": "2026-11-11",
+  "ashby:Rasa": "2026-11-11",
+  "ashby:Recall": "2026-11-11",
   "ashby:Remedy Scientific": "2026-11-07",
   "ashby:Ridealso": "2026-11-07",
   "ashby:Roadrunner": "2026-11-07",
@@ -118,11 +141,15 @@
   "ashby:Shiftkey": "2026-11-09",
   "ashby:ShortStory": "2026-11-09",
   "ashby:Sierra": "2026-11-07",
+  "ashby:SigNoz": "2026-11-11",
   "ashby:Skip": "2026-11-09",
+  "ashby:Snyk": "2026-11-11",
   "ashby:Solvd": "2026-11-09",
   "ashby:Sona": "2026-11-09",
+  "ashby:Sphinx": "2026-11-11",
   "ashby:Steadily": "2026-11-09",
   "ashby:Stedi": "2026-11-09",
+  "ashby:Stepful": "2026-11-11",
   "ashby:Strava": "2026-11-09",
   "ashby:Suite-Studios": "2026-11-09",
   "ashby:SunnyData": "2026-11-09",
@@ -133,10 +160,12 @@
   "ashby:TaptapSend": "2026-11-09",
   "ashby:TerraFirma-Inc": "2026-11-09",
   "ashby:ThinkingMachines": "2026-11-09",
+  "ashby:Union": "2026-11-11",
   "ashby:Unlearn": "2026-11-09",
   "ashby:Unwrap": "2026-11-09",
   "ashby:Valid": "2026-11-09",
   "ashby:Valon": "2026-11-07",
+  "ashby:Verne": "2026-11-11",
   "ashby:Verne Robotics": "2026-11-07",
   "ashby:Vic.ai": "2026-11-09",
   "ashby:Vidmob": "2026-11-09",
@@ -146,8 +175,10 @@
   "ashby:WRITER": "2026-11-09",
   "ashby:Watershed": "2026-11-07",
   "ashby:Wisdom-AI": "2026-11-09",
+  "ashby:WunderGraph": "2026-11-11",
   "ashby:Zania": "2026-11-09",
   "ashby:Zello": "2026-11-07",
+  "ashby:Zensors": "2026-11-11",
   "ashby:abacum": "2026-11-11",
   "ashby:abby-care": "2026-11-07",
   "ashby:aboon": "2026-11-09",
@@ -707,6 +738,7 @@
   "ashby:fulcrum-inc": "2026-11-09",
   "ashby:fullstory": "2026-11-09",
   "ashby:fundingcircle": "2026-11-07",
+  "ashby:furtherai": "2026-11-11",
   "ashby:futurefitai": "2026-11-09",
   "ashby:gamechanger": "2026-11-07",
   "ashby:garage": "2026-11-09",
@@ -714,6 +746,7 @@
   "ashby:gearset": "2026-11-07",
   "ashby:gecko-robotics": "2026-11-07",
   "ashby:gen-digital": "2026-11-07",
+  "ashby:generalastronautics": "2026-11-11",
   "ashby:generalintuition-medal": "2026-11-07",
   "ashby:generalist": "2026-11-07",
   "ashby:generalmagic": "2026-11-07",
@@ -724,14 +757,19 @@
   "ashby:geniusai": "2026-11-07",
   "ashby:genmd": "2026-11-07",
   "ashby:georgian": "2026-11-07",
+  "ashby:getsquire": "2026-11-11",
   "ashby:gimlet": "2026-11-07",
   "ashby:givebutter": "2026-11-09",
   "ashby:glia": "2026-11-07",
+  "ashby:glimpse": "2026-11-11",
+  "ashby:glitch": "2026-11-11",
   "ashby:goaly": "2026-11-07",
   "ashby:golinks": "2026-11-07",
   "ashby:goodie-ai": "2026-11-09",
   "ashby:goodlord": "2026-11-07",
   "ashby:goody": "2026-11-09",
+  "ashby:goteleport": "2026-11-11",
+  "ashby:govdash": "2026-11-11",
   "ashby:govwell": "2026-11-07",
   "ashby:gradientrobotics": "2026-11-07",
   "ashby:graymatter-robotics": "2026-11-07",
@@ -748,9 +786,13 @@
   "ashby:h3x-technologies": "2026-11-07",
   "ashby:hackerone": "2026-11-09",
   "ashby:hadrian-automation": "2026-11-07",
+  "ashby:halluminate": "2026-11-11",
   "ashby:halobraid": "2026-11-09",
+  "ashby:hamster": "2026-11-11",
   "ashby:handshake": "2026-11-07",
+  "ashby:happl": "2026-11-11",
   "ashby:happyrobot.ai": "2026-11-07",
+  "ashby:harbor": "2026-11-11",
   "ashby:harmattan-ai": "2026-11-09",
   "ashby:harperinsure": "2026-11-07",
   "ashby:harvey": "2026-11-07",
@@ -761,40 +803,60 @@
   "ashby:headway": "2026-11-09",
   "ashby:healf": "2026-11-07",
   "ashby:healthleap": "2026-11-09",
+  "ashby:healthsherpa": "2026-11-11",
+  "ashby:hedge": "2026-11-11",
   "ashby:hedra": "2026-11-07",
   "ashby:heidihealth.com.au": "2026-11-09",
   "ashby:heirloomcarbon": "2026-11-09",
   "ashby:helion": "2026-11-07",
   "ashby:heliux": "2026-11-07",
   "ashby:helogen": "2026-11-09",
+  "ashby:helpscout": "2026-11-11",
+  "ashby:henry.ai": "2026-11-11",
   "ashby:heron-power": "2026-11-07",
+  "ashby:herondata": "2026-11-11",
   "ashby:hex": "2026-11-07",
+  "ashby:hexa": "2026-11-11",
   "ashby:higgsfieldai": "2026-11-09",
   "ashby:higharc": "2026-11-07",
   "ashby:highbeam": "2026-11-07",
   "ashby:highlightai": "2026-11-07",
   "ashby:highlightta": "2026-11-07",
+  "ashby:hightouch-inc": "2026-11-11",
   "ashby:hike-medical": "2026-11-09",
   "ashby:hilberts": "2026-11-07",
+  "ashby:hillclimb": "2026-11-11",
   "ashby:hims-and-hers": "2026-11-09",
   "ashby:hinge-health": "2026-11-07",
   "ashby:hipp": "2026-11-07",
   "ashby:hirehangar": "2026-11-07",
+  "ashby:hive.co": "2026-11-11",
+  "ashby:hivehealth": "2026-11-11",
   "ashby:hiverge": "2026-11-07",
   "ashby:hiya": "2026-11-07",
+  "ashby:hockeystack": "2026-11-11",
   "ashby:homebase": "2026-11-07",
   "ashby:honeydew": "2026-11-09",
   "ashby:hooglee": "2026-11-07",
   "ashby:hopper": "2026-11-09",
+  "ashby:hopper-inference": "2026-11-11",
   "ashby:horizon3ai": "2026-11-07",
+  "ashby:hotplate": "2026-11-11",
   "ashby:hoyoverse": "2026-11-07",
+  "ashby:httpie": "2026-11-11",
   "ashby:hubs.is": "2026-11-07",
+  "ashby:hubstaff": "2026-11-11",
   "ashby:hud": "2026-11-09",
   "ashby:hudson-pacific-properties": "2026-11-07",
+  "ashby:hudu": "2026-11-11",
+  "ashby:humaans": "2026-11-11",
   "ashby:human-computer-lab": "2026-11-07",
+  "ashby:humanarchive": "2026-11-11",
+  "ashby:humanly": "2026-11-11",
   "ashby:humanoid": "2026-11-07",
   "ashby:hume-ai": "2026-11-09",
   "ashby:hyperbolic": "2026-11-09",
+  "ashby:hypercore": "2026-11-11",
   "ashby:hypercubic": "2026-11-07",
   "ashby:hyperexponential": "2026-11-07",
   "ashby:hyphenate": "2026-11-07",
@@ -811,14 +873,22 @@
   "ashby:inferact": "2026-11-07",
   "ashby:infinite": "2026-11-09",
   "ashby:infinity-constellation": "2026-11-09",
+  "ashby:infisical": "2026-11-11",
   "ashby:inherent": "2026-11-07",
+  "ashby:inkeep": "2026-11-11",
+  "ashby:innate": "2026-11-11",
+  "ashby:inngest": "2026-11-11",
   "ashby:insitro": "2026-11-07",
   "ashby:instructure": "2026-11-09",
   "ashby:integrate": "2026-11-07",
   "ashby:interface-ai": "2026-11-07",
+  "ashby:interfere": "2026-11-11",
   "ashby:interplay": "2026-11-07",
   "ashby:intrinsic-safety": "2026-11-09",
+  "ashby:invert": "2026-11-11",
+  "ashby:invopop": "2026-11-11",
   "ashby:inworld-ai": "2026-11-07",
+  "ashby:irbc": "2026-11-11",
   "ashby:ironcladhq": "2026-11-09",
   "ashby:isembard": "2026-11-07",
   "ashby:ispeedtolead": "2026-11-09",
@@ -826,14 +896,19 @@
   "ashby:jampack-ai": "2026-11-07",
   "ashby:jane": "2026-11-09",
   "ashby:january": "2026-11-09",
+  "ashby:jbs-dev": "2026-11-11",
+  "ashby:jeevyfabrication": "2026-11-11",
   "ashby:jellyfish": "2026-11-09",
   "ashby:jerry.ai": "2026-11-07",
+  "ashby:jiga": "2026-11-11",
   "ashby:jigsaw": "2026-11-07",
   "ashby:jito-labs": "2026-11-09",
   "ashby:jobber": "2026-11-09",
   "ashby:join9am": "2026-11-09",
   "ashby:joinpogo": "2026-11-07",
+  "ashby:joor": "2026-11-11",
   "ashby:judgmentlabs": "2026-11-09",
+  "ashby:juicebox": "2026-11-11",
   "ashby:julius": "2026-11-07",
   "ashby:jump-app": "2026-11-09",
   "ashby:junior": "2026-11-07",
@@ -842,25 +917,40 @@
   "ashby:kalshi": "2026-11-09",
   "ashby:kaluza": "2026-11-07",
   "ashby:kastle": "2026-11-07",
+  "ashby:kestra": "2026-11-11",
   "ashby:keyrock": "2026-11-07",
   "ashby:kin": "2026-11-09",
+  "ashby:kindred": "2026-11-11",
   "ashby:kinetic": "2026-11-09",
   "ashby:kineticsystems": "2026-11-07",
   "ashby:kira": "2026-11-07",
   "ashby:kirin": "2026-11-07",
+  "ashby:kite": "2026-11-11",
+  "ashby:kivo-health": "2026-11-11",
+  "ashby:kiwi": "2026-11-11",
+  "ashby:klarify": "2026-11-11",
   "ashby:kled-ai": "2026-11-07",
   "ashby:klue": "2026-11-07",
+  "ashby:knowtex": "2026-11-11",
   "ashby:koahlabs": "2026-11-07",
+  "ashby:kodex": "2026-11-11",
+  "ashby:kombo": "2026-11-11",
   "ashby:kong": "2026-11-07",
   "ashby:kontakt": "2026-11-09",
   "ashby:kos.ai": "2026-11-07",
   "ashby:kraken.com": "2026-11-09",
+  "ashby:krea": "2026-11-11",
   "ashby:krew": "2026-11-07",
+  "ashby:kubermatic": "2026-11-11",
   "ashby:kustomer": "2026-11-07",
+  "ashby:ladder": "2026-11-11",
   "ashby:lambda": "2026-11-07",
   "ashby:laminar-jobs": "2026-11-07",
   "ashby:lancedb": "2026-11-09",
   "ashby:langchain": "2026-11-09",
+  "ashby:langdock": "2026-11-11",
+  "ashby:lap": "2026-11-11",
+  "ashby:lark": "2026-11-11",
   "ashby:latent": "2026-11-09",
   "ashby:latent defense": "2026-11-07",
   "ashby:laurel": "2026-11-09",
@@ -869,12 +959,16 @@
   "ashby:leadbank": "2026-11-09",
   "ashby:leantech": "2026-11-09",
   "ashby:leantechniques": "2026-11-07",
+  "ashby:legionhealth": "2026-11-11",
   "ashby:legora": "2026-11-09",
   "ashby:leland": "2026-11-07",
+  "ashby:lemfi": "2026-11-11",
   "ashby:lemon-io": "2026-11-09",
   "ashby:lendable": "2026-11-07",
+  "ashby:letta": "2026-11-11",
   "ashby:lgads": "2026-11-07",
   "ashby:light-inc": "2026-11-07",
+  "ashby:lightdash": "2026-11-11",
   "ashby:lightning": "2026-11-09",
   "ashby:lightspark": "2026-11-07",
   "ashby:lightspeedhq": "2026-11-09",
@@ -883,81 +977,112 @@
   "ashby:linear": "2026-11-09",
   "ashby:linkup": "2026-11-07",
   "ashby:linqapp": "2026-11-07",
+  "ashby:lio": "2026-11-11",
   "ashby:liquid": "2026-11-07",
   "ashby:liquid-ai": "2026-11-09",
   "ashby:listenlabs": "2026-11-09",
   "ashby:litellm": "2026-11-07",
+  "ashby:litmus": "2026-11-11",
   "ashby:liveflow": "2026-11-07",
   "ashby:livekit": "2026-11-09",
   "ashby:liveview-technologies": "2026-11-07",
+  "ashby:localstack": "2026-11-11",
   "ashby:logiqal": "2026-11-07",
   "ashby:logos-space": "2026-11-07",
   "ashby:longitudelabs": "2026-11-07",
   "ashby:lorikeet": "2026-11-09",
+  "ashby:loula": "2026-11-11",
   "ashby:lovable": "2026-11-07",
   "ashby:loveholidays": "2026-11-07",
   "ashby:lucidcomputing": "2026-11-07",
+  "ashby:lucis": "2026-11-11",
   "ashby:lumaai": "2026-11-09",
   "ashby:lumbermanufactory": "2026-11-09",
   "ashby:luminai": "2026-11-07",
+  "ashby:luminal": "2026-11-11",
   "ashby:luxor": "2026-11-09",
   "ashby:mach9": "2026-11-07",
   "ashby:machinacognita": "2026-11-07",
   "ashby:madhive": "2026-11-07",
+  "ashby:madrone": "2026-11-11",
+  "ashby:magic": "2026-11-11",
+  "ashby:magicpatterns": "2026-11-11",
   "ashby:maigrate": "2026-11-07",
   "ashby:maintainx": "2026-11-09",
   "ashby:makai-labs": "2026-11-07",
+  "ashby:malga": "2026-11-11",
+  "ashby:mangodesk": "2026-11-11",
   "ashby:manifest-os": "2026-11-09",
   "ashby:mapbox": "2026-11-09",
   "ashby:marianaminerals": "2026-11-07",
   "ashby:marqeta-inc": "2026-11-09",
+  "ashby:materialize": "2026-11-11",
   "ashby:materialsecurity": "2026-11-09",
   "ashby:matter-intelligence": "2026-11-09",
   "ashby:matter-labs": "2026-11-09",
   "ashby:matterworks": "2026-11-07",
   "ashby:matx": "2026-11-07",
+  "ashby:maven": "2026-11-11",
   "ashby:maven-agi": "2026-11-09",
   "ashby:maxima": "2026-11-07",
   "ashby:maxinsights": "2026-11-07",
   "ashby:maya-htt": "2026-11-07",
   "ashby:maybern": "2026-11-09",
+  "ashby:mednet": "2026-11-11",
   "ashby:medraai": "2026-11-07",
   "ashby:megazone": "2026-11-07",
   "ashby:melius": "2026-11-07",
   "ashby:melotech": "2026-11-07",
+  "ashby:mem0": "2026-11-11",
+  "ashby:menlo": "2026-11-11",
   "ashby:meow": "2026-11-07",
   "ashby:mercor": "2026-11-07",
+  "ashby:mercura": "2026-11-11",
   "ashby:meridianlink": "2026-11-07",
   "ashby:meshy": "2026-11-07",
   "ashby:metal": "2026-11-09",
+  "ashby:metal.so": "2026-11-11",
   "ashby:metalenz": "2026-11-07",
   "ashby:metamorphic": "2026-11-07",
   "ashby:metaview": "2026-11-07",
   "ashby:meter": "2026-11-07",
+  "ashby:method": "2026-11-11",
   "ashby:meticulous": "2026-11-07",
+  "ashby:metriport": "2026-11-11",
+  "ashby:middesk": "2026-11-11",
   "ashby:midjourney": "2026-11-09",
   "ashby:mimica": "2026-11-09",
   "ashby:mindrobotics": "2026-11-07",
+  "ashby:minerva": "2026-11-11",
   "ashby:miovision": "2026-11-07",
   "ashby:mirage": "2026-11-07",
+  "ashby:misolabs": "2026-11-11",
   "ashby:mistral.ai": "2026-11-07",
   "ashby:mitti": "2026-11-09",
   "ashby:moab": "2026-11-07",
   "ashby:mobi": "2026-11-09",
   "ashby:modal": "2026-11-07",
   "ashby:moderntreasury": "2026-11-09",
+  "ashby:modus": "2026-11-11",
+  "ashby:momentic": "2026-11-11",
   "ashby:monaco": "2026-11-09",
   "ashby:monogram": "2026-11-07",
   "ashby:moonshot": "2026-11-09",
   "ashby:morningconsult": "2026-11-07",
   "ashby:morpho": "2026-11-09",
   "ashby:morse-micro": "2026-11-07",
+  "ashby:mosaic": "2026-11-11",
   "ashby:moss": "2026-11-07",
   "ashby:motorway": "2026-11-07",
+  "ashby:mundo-ai": "2026-11-11",
+  "ashby:mux": "2026-11-11",
   "ashby:n1": "2026-11-07",
   "ashby:n8n": "2026-11-07",
+  "ashby:nabucasa": "2026-11-11",
+  "ashby:nanonets": "2026-11-11",
   "ashby:nascent": "2026-11-07",
   "ashby:nationgraph": "2026-11-07",
+  "ashby:navattic": "2026-11-11",
   "ashby:navi": "2026-11-07",
   "ashby:neara": "2026-11-09",
   "ashby:nectar-social": "2026-11-09",
@@ -967,6 +1092,7 @@
   "ashby:neonredwood": "2026-11-09",
   "ashby:neptune": "2026-11-09",
   "ashby:nerdwallet": "2026-11-09",
+  "ashby:netbird": "2026-11-11",
   "ashby:netboxlabs": "2026-11-09",
   "ashby:netgear": "2026-11-09",
   "ashby:netholabs": "2026-11-10",
@@ -976,124 +1102,188 @@
   "ashby:newtonx": "2026-11-09",
   "ashby:nexttoken": "2026-11-07",
   "ashby:nexus-intelligence": "2026-11-07",
+  "ashby:nexus.xyz": "2026-11-11",
   "ashby:nexxen": "2026-11-07",
   "ashby:niantic-spatial": "2026-11-07",
   "ashby:nidus-technologies": "2026-11-07",
   "ashby:nightfall-ai": "2026-11-09",
   "ashby:niural": "2026-11-07",
   "ashby:noda-ai": "2026-11-09",
+  "ashby:nomic": "2026-11-11",
   "ashby:nooks": "2026-11-07",
   "ashby:norm-ai": "2026-11-09",
   "ashby:normalcomputing": "2026-11-07",
   "ashby:northslope-technologies": "2026-11-07",
   "ashby:nory-co": "2026-11-07",
+  "ashby:notabene": "2026-11-11",
   "ashby:notion": "2026-11-07",
+  "ashby:nousresearch": "2026-11-11",
   "ashby:nova-talent": "2026-11-07",
+  "ashby:novig": "2026-11-11",
   "ashby:novo": "2026-11-09",
+  "ashby:nowadays": "2026-11-11",
   "ashby:nox-metals": "2026-11-07",
   "ashby:ntt-data-aivista": "2026-11-07",
   "ashby:nubank": "2026-11-07",
   "ashby:numeral": "2026-11-07",
   "ashby:numeric": "2026-11-09",
   "ashby:numerixs-quant": "2026-11-07",
+  "ashby:nuna": "2026-11-11",
   "ashby:observable-space": "2026-11-07",
   "ashby:obvio": "2026-11-07",
   "ashby:oceanus": "2026-11-07",
   "ashby:odewithanthropic": "2026-11-09",
   "ashby:odys-aviation": "2026-11-07",
   "ashby:odysseyml": "2026-11-07",
+  "ashby:offdeal": "2026-11-11",
   "ashby:office-hours": "2026-11-09",
+  "ashby:offstream": "2026-11-11",
   "ashby:old-mission-capital": "2026-11-07",
   "ashby:oligo": "2026-11-07",
   "ashby:olix": "2026-11-07",
   "ashby:ollama": "2026-11-09",
+  "ashby:omi": "2026-11-11",
   "ashby:omnea": "2026-11-09",
   "ashby:omni": "2026-11-09",
   "ashby:oneapp": "2026-11-07",
   "ashby:onebrief": "2026-11-09",
+  "ashby:oneleet": "2026-11-11",
   "ashby:onepot": "2026-11-07",
   "ashby:onerobot": "2026-11-07",
+  "ashby:oneschema": "2026-11-11",
   "ashby:onoshealth": "2026-11-09",
   "ashby:ontra": "2026-11-09",
+  "ashby:onyx": "2026-11-11",
   "ashby:openai": "2026-11-07",
   "ashby:openart": "2026-11-07",
+  "ashby:opencall": "2026-11-11",
   "ashby:opengov": "2026-11-07",
   "ashby:openloophealth": "2026-11-07",
   "ashby:openmind": "2026-11-07",
+  "ashby:openobserve-careers": "2026-11-11",
+  "ashby:openrouter": "2026-11-11",
+  "ashby:opsmill": "2026-11-11",
   "ashby:options-it": "2026-11-07",
   "ashby:opusclip": "2026-11-07",
   "ashby:oratomic": "2026-11-07",
   "ashby:orb": "2026-11-07",
   "ashby:orbital": "2026-11-07",
   "ashby:orbitalindustries": "2026-11-07",
+  "ashby:orca": "2026-11-11",
   "ashby:osmo": "2026-11-07",
+  "ashby:oumi": "2026-11-11",
   "ashby:outmarket": "2026-11-07",
   "ashby:outpostnow": "2026-11-07",
   "ashby:output": "2026-11-07",
+  "ashby:outschool": "2026-11-11",
+  "ashby:outset": "2026-11-11",
+  "ashby:overview": "2026-11-11",
   "ashby:overviewenergy": "2026-11-07",
+  "ashby:oyster": "2026-11-11",
   "ashby:packz": "2026-11-07",
+  "ashby:padlet": "2026-11-11",
   "ashby:pangramlabs": "2026-11-07",
   "ashby:paradigm": "2026-11-07",
+  "ashby:paradigmai": "2026-11-11",
+  "ashby:parameter": "2026-11-11",
   "ashby:parasail": "2026-11-07",
   "ashby:pariveda": "2026-11-07",
   "ashby:parker": "2026-11-07",
   "ashby:parspec": "2026-11-07",
   "ashby:patch.io": "2026-11-07",
   "ashby:patreon": "2026-11-07",
+  "ashby:pax-historia": "2026-11-11",
   "ashby:pearlhealth": "2026-11-07",
   "ashby:pebl": "2026-11-07",
   "ashby:pelico": "2026-11-07",
   "ashby:people-culture-talent": "2026-11-07",
+  "ashby:percona": "2026-11-11",
   "ashby:periodic-labs": "2026-11-07",
+  "ashby:permitflow": "2026-11-11",
+  "ashby:permutive": "2026-11-11",
   "ashby:persona": "2026-11-07",
   "ashby:persona.ai": "2026-11-07",
+  "ashby:phasebiolabs": "2026-11-11",
   "ashby:phil": "2026-11-07",
   "ashby:phlair": "2026-11-07",
   "ashby:phoebe-work": "2026-11-07",
+  "ashby:phoenixai": "2026-11-11",
   "ashby:phonely": "2026-11-07",
   "ashby:phonic": "2026-11-07",
+  "ashby:photoroom": "2026-11-11",
   "ashby:physicalintelligence": "2026-11-07",
   "ashby:picogrid": "2026-11-07",
   "ashby:pika": "2026-11-07",
+  "ashby:pirros": "2026-11-11",
   "ashby:pivotrobotics": "2026-11-07",
   "ashby:plaid": "2026-11-07",
+  "ashby:plane": "2026-11-11",
+  "ashby:pleo": "2026-11-11",
   "ashby:plot": "2026-11-07",
+  "ashby:ployai": "2026-11-11",
   "ashby:plsn": "2026-11-07",
   "ashby:pluralis-research": "2026-11-07",
   "ashby:pocket": "2026-11-07",
+  "ashby:polar": "2026-11-11",
   "ashby:polymarket": "2026-11-07",
   "ashby:polymath": "2026-11-07",
+  "ashby:popl": "2026-11-11",
+  "ashby:posh": "2026-11-11",
   "ashby:poshmark": "2026-11-07",
+  "ashby:posthog": "2026-11-11",
   "ashby:powertown": "2026-11-07",
   "ashby:pramaana-labs": "2026-11-07",
+  "ashby:prefect": "2026-11-11",
   "ashby:prelim": "2026-11-07",
   "ashby:pressw": "2026-11-07",
   "ashby:primer": "2026-11-07",
+  "ashby:primer.io": "2026-11-11",
+  "ashby:prism": "2026-11-11",
+  "ashby:probablygenetic": "2026-11-11",
   "ashby:probook": "2026-11-07",
+  "ashby:procurify": "2026-11-11",
+  "ashby:prometheus": "2026-11-11",
+  "ashby:proofofhuman": "2026-11-11",
   "ashby:prosper-ai": "2026-11-07",
+  "ashby:pulse": "2026-11-11",
   "ashby:pureapp": "2026-11-07",
   "ashby:pylon-labs": "2026-11-07",
+  "ashby:qdrant.tech": "2026-11-11",
   "ashby:quadric": "2026-11-07",
   "ashby:quadrillion-labs": "2026-11-07",
   "ashby:qualified-health-pbc": "2026-11-07",
   "ashby:quanta": "2026-11-07",
   "ashby:quantcast": "2026-11-07",
   "ashby:quantexa": "2026-11-07",
+  "ashby:quantstamp": "2026-11-11",
   "ashby:quantum": "2026-11-07",
+  "ashby:quicknode": "2026-11-11",
+  "ashby:quippy": "2026-11-11",
   "ashby:qumulo": "2026-11-07",
+  "ashby:quo": "2026-11-11",
   "ashby:quora": "2026-11-07",
   "ashby:radiant-industries": "2026-11-07",
+  "ashby:radixark": "2026-11-11",
   "ashby:railway": "2026-11-07",
+  "ashby:rallyuxr": "2026-11-11",
   "ashby:ramielcapital": "2026-11-07",
   "ashby:ramp": "2026-11-07",
   "ashby:range": "2026-11-07",
   "ashby:rapdev": "2026-11-07",
+  "ashby:reacher": "2026-11-11",
+  "ashby:readme": "2026-11-11",
+  "ashby:ready": "2026-11-11",
+  "ashby:realitydefender": "2026-11-11",
   "ashby:realmalliance": "2026-11-07",
+  "ashby:recharge": "2026-11-11",
   "ashby:red-gate": "2026-11-07",
   "ashby:redis": "2026-11-07",
+  "ashby:refine": "2026-11-11",
   "ashby:reflect-orbital": "2026-11-07",
   "ashby:reflexrobotics": "2026-11-07",
+  "ashby:reform": "2026-11-11",
   "ashby:regent": "2026-11-07",
+  "ashby:relace": "2026-11-11",
   "ashby:relationrx": "2026-11-07",
   "ashby:relay": "2026-11-07",
   "ashby:relayfi": "2026-11-07",
@@ -1101,7 +1291,12 @@
   "ashby:remarcable-inc": "2026-11-07",
   "ashby:render": "2026-11-07",
   "ashby:replit": "2026-11-07",
+  "ashby:replo": "2026-11-11",
+  "ashby:rerun": "2026-11-11",
+  "ashby:rescale": "2026-11-11",
+  "ashby:resend": "2026-11-11",
   "ashby:resonance": "2026-11-07",
+  "ashby:restate": "2026-11-11",
   "ashby:resurgent-industries": "2026-11-07",
   "ashby:retell-ai": "2026-11-07",
   "ashby:revel": "2026-11-07",
@@ -1112,28 +1307,35 @@
   "ashby:rhoda-ai": "2026-11-07",
   "ashby:rilla": "2026-11-07",
   "ashby:rillet": "2026-11-09",
+  "ashby:river": "2026-11-11",
   "ashby:riveron": "2026-11-07",
   "ashby:rivertechnologies": "2026-11-09",
   "ashby:rivet": "2026-11-07",
+  "ashby:rivia": "2026-11-11",
   "ashby:rivianvw.tech": "2026-11-07",
   "ashby:robco": "2026-11-09",
   "ashby:robin-radar": "2026-11-09",
   "ashby:roboflow": "2026-11-09",
   "ashby:rocketsciencegg": "2026-11-09",
   "ashby:rollout": "2026-11-07",
+  "ashby:rollstack": "2026-11-11",
   "ashby:root-access": "2026-11-09",
   "ashby:rowan": "2026-11-09",
   "ashby:rubie": "2026-11-07",
   "ashby:ruby-labs": "2026-11-09",
   "ashby:rula": "2026-11-09",
+  "ashby:runa": "2026-11-11",
   "ashby:rundoo": "2026-11-07",
   "ashby:runetech": "2026-11-09",
   "ashby:runlayer": "2026-11-09",
   "ashby:runpod": "2026-11-07",
   "ashby:runsybil-jobs": "2026-11-07",
+  "ashby:runtrellis": "2026-11-11",
   "ashby:runway-ml": "2026-11-09",
+  "ashby:rutter": "2026-11-11",
   "ashby:rwazi": "2026-11-09",
   "ashby:rxvantage": "2026-11-09",
+  "ashby:ryvn": "2026-11-11",
   "ashby:sabi": "2026-11-09",
   "ashby:sable": "2026-11-09",
   "ashby:safetykit": "2026-11-09",
@@ -1154,6 +1356,8 @@
   "ashby:sauna.ai": "2026-11-07",
   "ashby:savvy": "2026-11-09",
   "ashby:savvymoney": "2026-11-09",
+  "ashby:sazabi": "2026-11-11",
+  "ashby:scalar": "2026-11-11",
   "ashby:scalemath": "2026-11-09",
   "ashby:scan-com": "2026-11-09",
   "ashby:scarlet": "2026-11-09",
@@ -1166,10 +1370,12 @@
   "ashby:sei-labs": "2026-11-09",
   "ashby:sekai": "2026-11-09",
   "ashby:sela": "2026-11-07",
+  "ashby:seldon": "2026-11-11",
   "ashby:semgrep": "2026-11-07",
   "ashby:semperis": "2026-11-09",
   "ashby:sensor-tower": "2026-11-09",
   "ashby:sentient": "2026-11-09",
+  "ashby:sentient-foundation": "2026-11-11",
   "ashby:sentilink": "2026-11-07",
   "ashby:sentra": "2026-11-07",
   "ashby:sentradel": "2026-11-09",
@@ -1185,6 +1391,7 @@
   "ashby:sewer-ai": "2026-11-07",
   "ashby:sf-tensor": "2026-11-09",
   "ashby:sfcompute": "2026-11-09",
+  "ashby:shadeform": "2026-11-11",
   "ashby:sharedcontextlab": "2026-11-09",
   "ashby:shepherd": "2026-11-09",
   "ashby:siena": "2026-11-09",
@@ -1195,8 +1402,10 @@
   "ashby:siftstack": "2026-11-07",
   "ashby:silnahealth.com": "2026-11-07",
   "ashby:sim": "2026-11-07",
+  "ashby:simetrik": "2026-11-11",
   "ashby:simile": "2026-11-07",
   "ashby:simple-ai": "2026-11-07",
+  "ashby:simplify": "2026-11-11",
   "ashby:simspace-corporation": "2026-11-09",
   "ashby:simular": "2026-11-09",
   "ashby:singular": "2026-11-09",
@@ -1210,8 +1419,11 @@
   "ashby:slate": "2026-11-09",
   "ashby:slingshot-aerospace": "2026-11-09",
   "ashby:slingshotai": "2026-11-07",
+  "ashby:slope": "2026-11-11",
   "ashby:smallstep": "2026-11-09",
   "ashby:smarkets": "2026-11-07",
+  "ashby:snackpass": "2026-11-11",
+  "ashby:snapdocs": "2026-11-11",
   "ashby:snapmagic": "2026-11-09",
   "ashby:snowflake": "2026-11-07",
   "ashby:socket": "2026-11-09",
@@ -1224,13 +1436,16 @@
   "ashby:solink": "2026-11-07",
   "ashby:solstice": "2026-11-09",
   "ashby:solveintelligence": "2026-11-09",
+  "ashby:sorcerer": "2026-11-11",
   "ashby:sourgum": "2026-11-09",
   "ashby:southgeeks": "2026-11-09",
   "ashby:spacial": "2026-11-07",
+  "ashby:spade": "2026-11-11",
   "ashby:spaice-tech": "2026-11-07",
   "ashby:spaitial": "2026-11-07",
   "ashby:span": "2026-11-09",
   "ashby:span.app": "2026-11-09",
+  "ashby:sparrow": "2026-11-11",
   "ashby:speak": "2026-11-09",
   "ashby:speakeasy": "2026-11-09",
   "ashby:spear-ai": "2026-11-09",
@@ -1239,16 +1454,20 @@
   "ashby:spellbook.com": "2026-11-09",
   "ashby:spellbrush": "2026-11-09",
   "ashby:sphere": "2026-11-09",
+  "ashby:spherecast": "2026-11-11",
   "ashby:spiral": "2026-11-09",
   "ashby:spoton": "2026-11-09",
   "ashby:sprig": "2026-11-09",
   "ashby:sprinter-health": "2026-11-09",
+  "ashby:spruce": "2026-11-11",
   "ashby:spruceid": "2026-11-07",
   "ashby:squads": "2026-11-09",
   "ashby:squint.ai": "2026-11-09",
   "ashby:st-labs": "2026-11-09",
   "ashby:stable": "2026-11-09",
   "ashby:stack-ai": "2026-11-09",
+  "ashby:stacker": "2026-11-11",
+  "ashby:stackone": "2026-11-11",
   "ashby:standardbots": "2026-11-09",
   "ashby:standardsubsea": "2026-11-07",
   "ashby:standinsurance": "2026-11-07",
@@ -1258,13 +1477,18 @@
   "ashby:stellar": "2026-11-09",
   "ashby:stellar-health": "2026-11-09",
   "ashby:stellic": "2026-11-09",
+  "ashby:stickermule": "2026-11-11",
+  "ashby:stilta": "2026-11-11",
   "ashby:stradahq": "2026-11-07",
   "ashby:strala-ai": "2026-11-09",
   "ashby:strategic-growth-partners": "2026-11-09",
+  "ashby:stratum-ai": "2026-11-11",
+  "ashby:stream": "2026-11-11",
   "ashby:strella": "2026-11-09",
   "ashby:strider-technologies": "2026-11-09",
   "ashby:strix": "2026-11-09",
   "ashby:stuut-ai": "2026-11-09",
+  "ashby:subsets": "2026-11-11",
   "ashby:substack": "2026-11-09",
   "ashby:subtotal": "2026-11-07",
   "ashby:subzero": "2026-11-09",
@@ -1282,8 +1506,11 @@
   "ashby:svix": "2026-11-09",
   "ashby:swarmaero": "2026-11-07",
   "ashby:sweatpals": "2026-11-07",
+  "ashby:sweetspot": "2026-11-11",
+  "ashby:switchboard": "2026-11-11",
   "ashby:sycamore": "2026-11-07",
   "ashby:sydecar": "2026-11-09",
+  "ashby:sygaldry-technologies": "2026-11-11",
   "ashby:sylvan-labs": "2026-11-09",
   "ashby:sylvera": "2026-11-07",
   "ashby:syndica": "2026-11-09",
@@ -1294,10 +1521,12 @@
   "ashby:tabbed": "2026-11-09",
   "ashby:tacit": "2026-11-07",
   "ashby:tailor": "2026-11-09",
+  "ashby:tajir": "2026-11-11",
   "ashby:takt": "2026-11-07",
   "ashby:taktile": "2026-11-09",
   "ashby:talkiatry": "2026-11-09",
   "ashby:tamarindbio": "2026-11-09",
+  "ashby:tank-payments": "2026-11-11",
   "ashby:tapcart": "2026-11-07",
   "ashby:tavily": "2026-11-09",
   "ashby:tavrn": "2026-11-09",
@@ -1306,11 +1535,14 @@
   "ashby:teamworks": "2026-11-07",
   "ashby:techtorch": "2026-11-09",
   "ashby:tekion": "2026-11-09",
+  "ashby:tekton-dynamics": "2026-11-11",
   "ashby:teleskope": "2026-11-07",
+  "ashby:telli": "2026-11-11",
   "ashby:telus-digital": "2026-11-07",
   "ashby:temper": "2026-11-09",
   "ashby:tempo-io": "2026-11-07",
   "ashby:tempo-xyz": "2026-11-09",
+  "ashby:temporal": "2026-11-11",
   "ashby:tenex": "2026-11-09",
   "ashby:tenexlabs": "2026-11-09",
   "ashby:tennr": "2026-11-09",
@@ -1322,26 +1554,34 @@
   "ashby:terranova": "2026-11-07",
   "ashby:tessera-labs": "2026-11-07",
   "ashby:tesslcareers": "2026-11-09",
+  "ashby:testgorilla": "2026-11-11",
   "ashby:tetrix": "2026-11-09",
   "ashby:teya": "2026-11-07",
   "ashby:teza-technologies": "2026-11-07",
+  "ashby:tfc": "2026-11-11",
   "ashby:thatgamecompany": "2026-11-09",
   "ashby:the browser company": "2026-11-07",
   "ashby:the-exploration-company": "2026-11-07",
   "ashby:the-robotics-company": "2026-11-07",
+  "ashby:the-token-company": "2026-11-11",
   "ashby:thebotcompany": "2026-11-09",
+  "ashby:theo": "2026-11-11",
   "ashby:thera": "2026-11-09",
+  "ashby:thndr": "2026-11-11",
   "ashby:thorin": "2026-11-09",
   "ashby:thought-machine": "2026-11-09",
   "ashby:thread-ai": "2026-11-09",
   "ashby:thumbtack": "2026-11-07",
+  "ashby:thundercompute": "2026-11-11",
   "ashby:tigerdata": "2026-11-09",
   "ashby:tilthq": "2026-11-09",
+  "ashby:timely": "2026-11-11",
   "ashby:tiny-health": "2026-11-09",
   "ashby:titan": "2026-11-09",
   "ashby:titan-msp": "2026-11-09",
   "ashby:tldr.tech": "2026-11-09",
   "ashby:tldraw": "2026-11-07",
+  "ashby:toku": "2026-11-11",
   "ashby:tolmo": "2026-11-09",
   "ashby:tonal": "2026-11-07",
   "ashby:topline-pro": "2026-11-09",
@@ -1360,20 +1600,27 @@
   "ashby:tremendous": "2026-11-09",
   "ashby:trener-robotics": "2026-11-09",
   "ashby:tribe-ai": "2026-11-09",
+  "ashby:tribe-xyz": "2026-11-11",
   "ashby:triedge-investments": "2026-11-09",
+  "ashby:triggerdev": "2026-11-11",
   "ashby:trilitech": "2026-11-09",
   "ashby:triomics": "2026-11-09",
   "ashby:triumph-arcade": "2026-11-07",
   "ashby:trm-labs": "2026-11-07",
   "ashby:trovy": "2026-11-07",
+  "ashby:truelinkfinancial": "2026-11-11",
   "ashby:truelogic": "2026-11-09",
   "ashby:trulioo": "2026-11-07",
   "ashby:trunk tools": "2026-11-07",
   "ashby:trust-wallet": "2026-11-09",
   "ashby:trustly": "2026-11-09",
   "ashby:tryalma": "2026-11-09",
+  "ashby:trychroma": "2026-11-11",
   "ashby:tryroam": "2026-11-07",
+  "ashby:tsenta": "2026-11-11",
+  "ashby:tuesday-labs": "2026-11-11",
   "ashby:tunnl": "2026-11-07",
+  "ashby:turion-space": "2026-11-11",
   "ashby:turn-river": "2026-11-07",
   "ashby:turquoise-health": "2026-11-09",
   "ashby:twelve": "2026-11-09",
@@ -1395,10 +1642,12 @@
   "ashby:unto-labs": "2026-11-09",
   "ashby:upchurch": "2026-11-09",
   "ashby:upguard": "2026-11-09",
+  "ashby:uplane": "2026-11-11",
   "ashby:upside": "2026-11-09",
   "ashby:upvest": "2026-11-07",
   "ashby:usekernel": "2026-11-09",
   "ashby:usul": "2026-11-07",
+  "ashby:vClusterLabs": "2026-11-11",
   "ashby:valency": "2026-11-07",
   "ashby:valeriehealth": "2026-11-09",
   "ashby:valinor": "2026-11-07",
@@ -1408,6 +1657,7 @@
   "ashby:vanta": "2026-11-07",
   "ashby:vantage": "2026-11-07",
   "ashby:vapi": "2026-11-09",
+  "ashby:variance": "2026-11-11",
   "ashby:varick-agents": "2026-11-07",
   "ashby:vastai": "2026-11-09",
   "ashby:vector": "2026-11-09",
@@ -1415,17 +1665,22 @@
   "ashby:veeda-ai": "2026-11-07",
   "ashby:vega": "2026-11-07",
   "ashby:vendelux": "2026-11-07",
+  "ashby:verahealth": "2026-11-11",
+  "ashby:verge-labs": "2026-11-11",
   "ashby:veritus": "2026-11-07",
   "ashby:versemedical": "2026-11-09",
   "ashby:verticalsemi": "2026-11-09",
+  "ashby:verto": "2026-11-11",
   "ashby:vesta": "2026-11-09",
   "ashby:vetcove": "2026-11-09",
+  "ashby:vibe": "2026-11-11",
   "ashby:videa.ai": "2026-11-09",
   "ashby:vidrush": "2026-11-09",
   "ashby:viggle": "2026-11-07",
   "ashby:villagesql": "2026-11-09",
   "ashby:virtahealth": "2026-11-09",
   "ashby:virtuous": "2026-11-09",
+  "ashby:vitable": "2026-11-11",
   "ashby:vital-lyfe": "2026-11-07",
   "ashby:vitalize": "2026-11-09",
   "ashby:vizcom": "2026-11-09",
@@ -1444,6 +1699,7 @@
   "ashby:vynca": "2026-11-09",
   "ashby:wafer": "2026-11-09",
   "ashby:wagmo": "2026-11-09",
+  "ashby:wallbit": "2026-11-11",
   "ashby:walrusfi": "2026-11-07",
   "ashby:warp": "2026-11-09",
   "ashby:watney": "2026-11-07",
@@ -1451,8 +1707,12 @@
   "ashby:wealth-com": "2026-11-07",
   "ashby:wealthsimple": "2026-11-07",
   "ashby:weave": "2026-11-07",
+  "ashby:weave-os": "2026-11-11",
+  "ashby:weaviate": "2026-11-11",
   "ashby:webai": "2026-11-09",
+  "ashby:webflow": "2026-11-11",
   "ashby:webfx": "2026-11-07",
+  "ashby:weekend": "2026-11-11",
   "ashby:welltheory": "2026-11-09",
   "ashby:westmag": "2026-11-07",
   "ashby:whetstoneresearch": "2026-11-09",
@@ -1464,11 +1724,13 @@
   "ashby:wispr-flow": "2026-11-09",
   "ashby:with-fulcrum": "2026-11-09",
   "ashby:withclutch": "2026-11-09",
+  "ashby:withflex": "2026-11-11",
   "ashby:within.ai": "2026-11-07",
   "ashby:withpace": "2026-11-07",
   "ashby:withpulley": "2026-11-09",
   "ashby:withwisdom": "2026-11-09",
   "ashby:witnessai": "2026-11-09",
+  "ashby:wonderly": "2026-11-11",
   "ashby:wordsmith": "2026-11-09",
   "ashby:workos": "2026-11-09",
   "ashby:workshop-hiring": "2026-11-09",
@@ -1489,6 +1751,7 @@
   "ashby:xona-space": "2026-11-09",
   "ashby:xterra ai": "2026-11-07",
   "ashby:yadda": "2026-11-09",
+  "ashby:yazio": "2026-11-11",
   "ashby:ycombinator": "2026-11-09",
   "ashby:yendo": "2026-11-09",
   "ashby:yobi": "2026-11-09",
@@ -1498,10 +1761,12 @@
   "ashby:zed": "2026-11-09",
   "ashby:zeely": "2026-11-09",
   "ashby:zefr": "2026-11-07",
+  "ashby:zeit-ai": "2026-11-11",
   "ashby:zenos": "2026-11-09",
   "ashby:zero": "2026-11-09",
   "ashby:zeromark": "2026-11-07",
   "ashby:zettabyte-space": "2026-11-07",
+  "ashby:ziina": "2026-11-11",
   "ashby:zilch": "2026-11-07",
   "ashby:zip": "2026-11-07",
   "ashby:zippymh": "2026-11-09",
@@ -1527,59 +1792,138 @@
   "bamboohr:alkira": "2026-11-08",
   "bamboohr:alleghenycounty": "2026-11-08",
   "bamboohr:apollomce": "2026-11-08",
+  "bamboohr:aras": "2026-11-11",
   "bamboohr:armstrongfluidtechnology": "2026-11-08",
   "bamboohr:asuresoftware": "2026-11-08",
   "bamboohr:berkshiregrey": "2026-11-08",
   "bamboohr:bga": "2026-11-08",
   "bamboohr:binsentry": "2026-11-08",
   "bamboohr:bravebison": "2026-11-08",
+  "bamboohr:budibase": "2026-11-11",
   "bamboohr:calpionplutus": "2026-11-08",
+  "bamboohr:chowdeck": "2026-11-11",
+  "bamboohr:clockworklabs": "2026-11-11",
   "bamboohr:conetec": "2026-11-08",
   "bamboohr:contentguru": "2026-11-08",
   "bamboohr:dcbel": "2026-11-08",
+  "bamboohr:dribbble": "2026-11-11",
   "bamboohr:dubak": "2026-11-08",
+  "bamboohr:duplo": "2026-11-11",
   "bamboohr:eposnowgroup": "2026-11-08",
   "bamboohr:euna": "2026-11-08",
   "bamboohr:expedock": "2026-11-08",
+  "bamboohr:flutterwavego": "2026-11-11",
+  "bamboohr:fourkitchens": "2026-11-11",
   "bamboohr:fullbay": "2026-11-08",
   "bamboohr:geospectrum": "2026-11-08",
+  "bamboohr:getjusto": "2026-11-11",
+  "bamboohr:grey": "2026-11-11",
   "bamboohr:ihlgroup": "2026-11-08",
   "bamboohr:lexical": "2026-11-08",
+  "bamboohr:luminatemedical": "2026-11-11",
   "bamboohr:lunaroutpost": "2026-11-08",
   "bamboohr:marqueebrands": "2026-11-08",
+  "bamboohr:masonamerica": "2026-11-11",
+  "bamboohr:mrelief": "2026-11-11",
   "bamboohr:mujin": "2026-11-08",
+  "bamboohr:netbeez": "2026-11-11",
   "bamboohr:nexthopai": "2026-11-08",
   "bamboohr:nomadgcs": "2026-11-08",
+  "bamboohr:noorahealth": "2026-11-11",
+  "bamboohr:onelocal": "2026-11-11",
   "bamboohr:optionsit": "2026-11-08",
+  "bamboohr:palantir": "2026-11-11",
+  "bamboohr:passbolt": "2026-11-11",
   "bamboohr:pencor": "2026-11-08",
   "bamboohr:phihong": "2026-11-08",
   "bamboohr:pictonmahoney": "2026-11-08",
   "bamboohr:profoundmedical": "2026-11-08",
   "bamboohr:psware": "2026-11-08",
   "bamboohr:quiktrakcontractor": "2026-11-08",
+  "bamboohr:remi": "2026-11-11",
   "bamboohr:ruekertmielke": "2026-11-08",
   "bamboohr:safransed": "2026-11-08",
+  "bamboohr:seattlefoodtech": "2026-11-11",
   "bamboohr:selectorsoftware": "2026-11-08",
+  "bamboohr:semaphore": "2026-11-11",
+  "bamboohr:sequencebio": "2026-11-11",
+  "bamboohr:silverstripe": "2026-11-11",
+  "bamboohr:slite": "2026-11-11",
   "bamboohr:specteraerospace": "2026-11-08",
   "bamboohr:subseacraft": "2026-11-08",
+  "bamboohr:supernova": "2026-11-11",
   "bamboohr:tggaccounting": "2026-11-08",
   "bamboohr:tnuck": "2026-11-08",
+  "bamboohr:toughcommerce": "2026-11-11",
   "bamboohr:unitedsmarttech": "2026-11-08",
+  "bamboohr:upequity": "2026-11-11",
   "bamboohr:upike": "2026-11-08",
   "bamboohr:versafile1": "2026-11-08",
   "bamboohr:vestalcorporation": "2026-11-08",
+  "breezy:arpio": "2026-11-11",
+  "breezy:aviron": "2026-11-11",
+  "breezy:boldare": "2026-11-11",
+  "breezy:cal-com": "2026-11-11",
+  "breezy:cofactor-genomics": "2026-11-11",
+  "breezy:cognition-ip": "2026-11-11",
+  "breezy:deako": "2026-11-11",
+  "breezy:driver-ai-inc": "2026-11-11",
+  "breezy:embraer": "2026-11-11",
   "breezy:forge-nano": "2026-11-09",
+  "breezy:gaggle": "2026-11-11",
+  "breezy:harper": "2026-11-11",
+  "breezy:hioperator": "2026-11-11",
+  "breezy:infinyon": "2026-11-11",
   "breezy:jnd-inc": "2026-11-09",
+  "breezy:kaipod-learning": "2026-11-11",
   "breezy:lumerate": "2026-11-09",
+  "breezy:manara": "2026-11-11",
   "breezy:navaide": "2026-11-09",
+  "breezy:new-incentives": "2026-11-11",
   "breezy:north-wind-group": "2026-11-09",
   "breezy:nucleusteq": "2026-11-09",
+  "breezy:nursing-float-health": "2026-11-11",
   "breezy:pyrovio": "2026-11-09",
+  "breezy:rechat-inc": "2026-11-11",
+  "breezy:sinai": "2026-11-11",
+  "breezy:solugen": "2026-11-11",
+  "breezy:stacklet": "2026-11-11",
   "breezy:transact-campus": "2026-11-09",
   "breezy:vetsez": "2026-11-09",
+  "breezy:votingworks": "2026-11-11",
   "dayforce:otg|CANDIDATEPORTAL": "2026-11-09",
   "dayforce:texasfarm|CANDIDATEPORTAL": "2026-11-09",
+  "dover:Cardda": "2026-11-11",
+  "dover:Orthogonal": "2026-11-11",
+  "dover:abalonebio": "2026-11-11",
+  "dover:activeloop": "2026-11-11",
+  "dover:agilemd": "2026-11-11",
+  "dover:autostep": "2026-11-11",
+  "dover:azalearobotics": "2026-11-11",
+  "dover:castle": "2026-11-11",
+  "dover:chasi": "2026-11-11",
+  "dover:codingal": "2026-11-11",
+  "dover:conduit": "2026-11-11",
+  "dover:dots": "2026-11-11",
+  "dover:draftwise": "2026-11-11",
+  "dover:duranium": "2026-11-11",
+  "dover:flowglad": "2026-11-11",
+  "dover:fondo": "2026-11-11",
+  "dover:iomete": "2026-11-11",
+  "dover:loombotic": "2026-11-11",
+  "dover:metalware": "2026-11-11",
+  "dover:mindfi": "2026-11-11",
   "dover:mindsmith": "2026-11-09",
+  "dover:mixrank": "2026-11-11",
+  "dover:prohost": "2026-11-11",
+  "dover:rabbet": "2026-11-11",
+  "dover:redbarnrobotics": "2026-11-11",
+  "dover:taiv": "2026-11-11",
+  "dover:vendora": "2026-11-11",
+  "dover:videogen": "2026-11-11",
+  "dover:volantio": "2026-11-11",
+  "dover:weaverobotics": "2026-11-11",
+  "dover:zinc": "2026-11-11",
   "eightfold:bostonscientific|bostonscientific.com": "2026-11-09",
   "eightfold:eaton|eaton.com": "2026-11-09",
   "eightfold:johndeere|johndeere.com": "2026-11-09",
@@ -1588,6 +1932,40 @@
   "eightfold:ralliant|ralliant.com": "2026-11-09",
   "eightfold:starbucks|starbucks.com": "2026-11-09",
   "gem:albacore": "2026-11-09",
+  "gem:allia-health": "2026-11-11",
+  "gem:astroforge-io": "2026-11-11",
+  "gem:aviary": "2026-11-11",
+  "gem:blueonion-ai": "2026-11-11",
+  "gem:bluesky": "2026-11-11",
+  "gem:boost-robotics": "2026-11-11",
+  "gem:buildtrayd-com": "2026-11-11",
+  "gem:cellbyte": "2026-11-11",
+  "gem:cloudanix-com": "2026-11-11",
+  "gem:converge": "2026-11-11",
+  "gem:fifthdoor-com": "2026-11-11",
+  "gem:gem": "2026-11-11",
+  "gem:letter-ai": "2026-11-11",
+  "gem:lunajoy": "2026-11-11",
+  "gem:menten-ai": "2026-11-11",
+  "gem:nabla-bio": "2026-11-11",
+  "gem:nectar": "2026-11-11",
+  "gem:neuron": "2026-11-11",
+  "gem:oxus": "2026-11-11",
+  "gem:paces": "2026-11-11",
+  "gem:promptql": "2026-11-11",
+  "gem:questdb-com": "2026-11-11",
+  "gem:retool": "2026-11-11",
+  "gem:rinsed": "2026-11-11",
+  "gem:roe-ai": "2026-11-11",
+  "gem:rootly": "2026-11-11",
+  "gem:rovihealth": "2026-11-11",
+  "gem:synthio-labs": "2026-11-11",
+  "gem:taxgpt-inc-": "2026-11-11",
+  "gem:theburntapp-com": "2026-11-11",
+  "gem:trata": "2026-11-11",
+  "gem:ultra": "2026-11-11",
+  "gem:wardstone-space": "2026-11-11",
+  "gem:zalos-ai": "2026-11-11",
   "greenhouse:103644278": "2026-11-09",
   "greenhouse:10alabs": "2026-11-07",
   "greenhouse:10beauty": "2026-11-07",
@@ -1619,6 +1997,7 @@
   "greenhouse:aclu": "2026-11-09",
   "greenhouse:acluinternships": "2026-11-07",
   "greenhouse:acog": "2026-11-07",
+  "greenhouse:acquia": "2026-11-11",
   "greenhouse:acryldata": "2026-11-09",
   "greenhouse:acuitymd": "2026-11-07",
   "greenhouse:ada18": "2026-11-07",
@@ -1630,6 +2009,7 @@
   "greenhouse:advancedtechnologyservices": "2026-11-07",
   "greenhouse:adyen": "2026-11-07",
   "greenhouse:aegworldwide": "2026-11-07",
+  "greenhouse:aestudio": "2026-11-11",
   "greenhouse:aevexaerospace": "2026-11-07",
   "greenhouse:aeyeinc": "2026-11-09",
   "greenhouse:affinipay1": "2026-11-09",
@@ -1649,11 +2029,14 @@
   "greenhouse:airspace": "2026-11-09",
   "greenhouse:airtable": "2026-11-07",
   "greenhouse:aisquared": "2026-11-09",
+  "greenhouse:akidolabs": "2026-11-11",
+  "greenhouse:akuity": "2026-11-11",
   "greenhouse:akunacapitaloci": "2026-11-07",
   "greenhouse:alarmcom": "2026-11-07",
   "greenhouse:albedo": "2026-11-07",
   "greenhouse:alertmedia": "2026-11-09",
   "greenhouse:alfredbeneschco": "2026-11-09",
+  "greenhouse:algolia": "2026-11-11",
   "greenhouse:alku": "2026-11-07",
   "greenhouse:allcareers": "2026-11-07",
   "greenhouse:allenintegratedsolutions": "2026-11-09",
@@ -1682,6 +2065,7 @@
   "greenhouse:anteriad": "2026-11-09",
   "greenhouse:anthropic": "2026-11-07",
   "greenhouse:antora": "2026-11-07",
+  "greenhouse:aon3d": "2026-11-11",
   "greenhouse:aottechnologies": "2026-11-09",
   "greenhouse:apartmentiq": "2026-11-09",
   "greenhouse:apcon": "2026-11-07",
@@ -1699,6 +2083,7 @@
   "greenhouse:arborenergy": "2026-11-09",
   "greenhouse:arcanaanalytics": "2026-11-07",
   "greenhouse:arcboatcompany": "2026-11-07",
+  "greenhouse:arceeai": "2026-11-11",
   "greenhouse:arcesiumllc": "2026-11-07",
   "greenhouse:archer56": "2026-11-07",
   "greenhouse:ardentmc": "2026-11-09",
@@ -1736,6 +2121,7 @@
   "greenhouse:attotude": "2026-11-07",
   "greenhouse:atwellgroup": "2026-11-09",
   "greenhouse:audaxgroup": "2026-11-07",
+  "greenhouse:auterion": "2026-11-11",
   "greenhouse:authenticbrandsgroup": "2026-11-07",
   "greenhouse:authenticinsurance": "2026-11-07",
   "greenhouse:automatticcareers": "2026-11-09",
@@ -1744,6 +2130,8 @@
   "greenhouse:aviatrix": "2026-11-09",
   "greenhouse:avidxchangeinc": "2026-11-07",
   "greenhouse:avride": "2026-11-07",
+  "greenhouse:axial": "2026-11-11",
+  "greenhouse:axiom": "2026-11-11",
   "greenhouse:axiomtalentplatform": "2026-11-09",
   "greenhouse:axios": "2026-11-09",
   "greenhouse:axle": "2026-11-07",
@@ -1761,6 +2149,7 @@
   "greenhouse:bamboohr17": "2026-11-09",
   "greenhouse:bandwidth": "2026-11-07",
   "greenhouse:barkleyokrp": "2026-11-07",
+  "greenhouse:baubap": "2026-11-11",
   "greenhouse:baublebar": "2026-11-09",
   "greenhouse:bayada": "2026-11-09",
   "greenhouse:bbyo": "2026-11-09",
@@ -1839,6 +2228,7 @@
   "greenhouse:brightai": "2026-11-07",
   "greenhouse:brightcoreenergy": "2026-11-09",
   "greenhouse:britive": "2026-11-09",
+  "greenhouse:browserbaseinc": "2026-11-11",
   "greenhouse:brph": "2026-11-09",
   "greenhouse:brunswickgroup": "2026-11-07",
   "greenhouse:bseglobal": "2026-11-09",
@@ -1848,6 +2238,7 @@
   "greenhouse:budderfly": "2026-11-09",
   "greenhouse:bugcrowd": "2026-11-07",
   "greenhouse:buildkite": "2026-11-09",
+  "greenhouse:buildkite-talent-community": "2026-11-11",
   "greenhouse:buildops": "2026-11-09",
   "greenhouse:burgessniple": "2026-11-09",
   "greenhouse:businessolverinvitationonly": "2026-11-07",
@@ -2754,6 +3145,7 @@
   "greenhouse:niraenergy": "2026-11-11",
   "greenhouse:nirmata": "2026-11-11",
   "greenhouse:nisc": "2026-11-07",
+  "greenhouse:noredink": "2026-11-11",
   "greenhouse:northspyre": "2026-11-07",
   "greenhouse:novacredit": "2026-11-11",
   "greenhouse:novisto78": "2026-11-11",
@@ -2912,6 +3304,7 @@
   "greenhouse:rosebud": "2026-11-11",
   "greenhouse:rotheramarketsllc": "2026-11-07",
   "greenhouse:rothesaygraduates": "2026-11-07",
+  "greenhouse:rstudio": "2026-11-11",
   "greenhouse:rtwinvestments": "2026-11-07",
   "greenhouse:ruggedrobotics": "2026-11-07",
   "greenhouse:sage49": "2026-11-07",
@@ -6918,6 +7311,11 @@
    "n": 1,
    "since": "2026-11-11"
   },
+  "ashby:Gradia": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
+  },
   "ashby:Lynk": {
    "disabled_until": "2026-11-14",
    "err": "HTTP 404",
@@ -7001,6 +7399,11 @@
    "n": 3,
    "since": "2026-11-07"
   },
+  "ashby:hitpayapp.com": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
+  },
   "ashby:inspiration-commerce-group": {
    "disabled_until": "2026-11-14",
    "err": "HTTP 404",
@@ -7031,6 +7434,11 @@
    "n": 3,
    "since": "2026-11-07"
   },
+  "ashby:lucidbots": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
+  },
   "ashby:mach": {
    "disabled_until": "2026-11-14",
    "err": "HTTP 404",
@@ -7055,6 +7463,11 @@
    "n": 3,
    "since": "2026-11-07"
   },
+  "ashby:moonvalley-ai": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
+  },
   "ashby:morrishealthtech": {
    "disabled_until": "2026-11-14",
    "err": "HTTP 404",
@@ -7073,11 +7486,46 @@
    "n": 3,
    "since": "2026-11-07"
   },
+  "ashby:ona": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
+  },
+  "ashby:one-text": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
+  },
+  "ashby:posting-api": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
+  },
+  "ashby:powerus": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
+  },
   "ashby:pryzm": {
    "disabled_until": "2026-11-14",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-07"
+  },
+  "ashby:response": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
+  },
+  "ashby:tensorzero": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
+  },
+  "ashby:toggl": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
   },
   "ashby:tracer": {
    "disabled_until": "2026-11-14",
@@ -7085,11 +7533,21 @@
    "n": 3,
    "since": "2026-11-07"
   },
+  "ashby:truss": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
+  },
   "ashby:veeda-labs": {
    "disabled_until": "2026-11-14",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-07"
+  },
+  "ashby:vellum": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
   },
   "ashby:vidrush": {
    "disabled_until": "2026-11-17",
@@ -7121,6 +7579,36 @@
    "n": 3,
    "since": "2026-11-09"
   },
+  "bamboohr:junocollege": {
+   "err": "invalid JSON",
+   "n": 1,
+   "since": "2026-11-11"
+  },
+  "bamboohr:ycbm": {
+   "err": "invalid JSON",
+   "n": 1,
+   "since": "2026-11-11"
+  },
+  "breezy:assets-cdn": {
+   "err": "invalid JSON",
+   "n": 1,
+   "since": "2026-11-11"
+  },
+  "breezy:connexa": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
+  },
+  "breezy:shipblu": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
+  },
+  "breezy:skillcrush": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
+  },
   "eightfold:aexp|aexp.com": {
    "disabled_until": "2026-11-16",
    "err": "HTTP 404",
@@ -7132,6 +7620,16 @@
    "err": "HTTP 403",
    "n": 3,
    "since": "2026-11-09"
+  },
+  "greenhouse:1910genetics": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
+  },
+  "greenhouse:abodo": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
   },
   "greenhouse:alma": {
    "disabled_until": "2026-11-14",
@@ -7150,6 +7648,11 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-07"
+  },
+  "greenhouse:artlogic": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-11"
   },
   "greenhouse:atlassand": {
    "disabled_until": "2026-11-14",
@@ -7189,12 +7692,12 @@
   },
   "greenhouse:commonpaper": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-11"
   },
   "greenhouse:curative": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-11"
   },
   "greenhouse:debtbook": {
@@ -7217,7 +7720,7 @@
   },
   "greenhouse:embrace": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-11"
   },
   "greenhouse:eu:fuzehealth": {
@@ -7234,7 +7737,7 @@
   },
   "greenhouse:eu:nowcircular": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-11"
   },
   "greenhouse:eu:superbet": {
@@ -7269,7 +7772,7 @@
   },
   "greenhouse:greencanopy": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-11"
   },
   "greenhouse:ibkr": {
@@ -7316,7 +7819,7 @@
   },
   "greenhouse:meltano": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-11"
   },
   "greenhouse:memphismeats": {
@@ -7333,17 +7836,17 @@
   },
   "greenhouse:myshell": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-11"
   },
   "greenhouse:nexttrucking": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-11"
   },
   "greenhouse:pantherlabs": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-11"
   },
   "greenhouse:postman": {
@@ -7378,7 +7881,7 @@
   },
   "greenhouse:sadapay": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-11"
   },
   "greenhouse:scoutai": {
@@ -7961,8 +8464,9 @@
    "since": "2026-11-11"
   },
   "workday:23andme|wd5|23": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 403",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-10"
   },
   "workday:aah|wd5|External": {
@@ -8252,7 +8756,7 @@
    "since": "2026-11-08"
   }
  },
- "found_cursor": 380,
+ "found_cursor": 1880,
  "last_digest": "2026-11-10",
  "resolved": {
   "airbnb": {
@@ -8906,6 +9410,27 @@
    ],
    "t": "2026-11-09"
   },
+  "arpio.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
+  },
   "arrcusinc.applytojob.com": {
    "r": [
     [
@@ -8978,6 +9503,10 @@
    ],
    "t": "2026-11-09"
   },
+  "assets-cdn.breezy.hr": {
+   "r": [],
+   "t": "2026-11-11"
+  },
   "atomdesignservicesllc.applytojob.com": {
    "r": [
     [
@@ -8986,6 +9515,27 @@
     ]
    ],
    "t": "2026-11-09"
+  },
+  "aviron.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
   },
   "axtriainc.applytojob.com": {
    "r": [
@@ -9271,6 +9821,27 @@
    ],
    "t": "2026-11-09"
   },
+  "boldare.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
+  },
   "bookerdimaio.applytojob.com": {
    "r": [
     [
@@ -9429,6 +10000,27 @@
     ]
    ],
    "t": "2026-11-09"
+  },
+  "cal-com.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
   },
   "campus-americas.icims.com": {
    "r": [
@@ -26391,6 +26983,27 @@
    ],
    "t": "2026-11-09"
   },
+  "cofactor-genomics.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
+  },
   "coforma.pinpointhq.com": {
    "r": [
     [
@@ -26404,6 +27017,27 @@
     [
      false,
      "/companies"
+    ]
+   ],
+   "t": "2026-11-11"
+  },
+  "cognition-ip.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
     ]
    ],
    "t": "2026-11-11"
@@ -26433,6 +27067,27 @@
     ]
    ],
    "t": "2026-11-09"
+  },
+  "connexa.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
   },
   "corningjobs.corning.com": {
    "r": [
@@ -26639,6 +27294,27 @@
    ],
    "t": "2026-11-09"
   },
+  "deako.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
+  },
   "defensestorm.applytojob.com": {
    "r": [
     [
@@ -26687,6 +27363,27 @@
   "drhorton.taleo.net": {
    "r": [],
    "t": "2026-11-09"
+  },
+  "driver-ai-inc.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
   },
   "dtprosusa.applytojob.com": {
    "r": [
@@ -26908,6 +27605,27 @@
     ]
    ],
    "t": "2026-11-09"
+  },
+  "embraer.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
   },
   "emergingtech.applytojob.com": {
    "r": [
@@ -27671,6 +28389,27 @@
    ],
    "t": "2026-11-09"
   },
+  "gaggle.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
+  },
   "gainsystems.applytojob.com": {
    "r": [
     [
@@ -28127,6 +28866,27 @@
    ],
    "t": "2026-11-09"
   },
+  "harper.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
+  },
   "hayselectricalservices.applytojob.com": {
    "r": [
     [
@@ -28162,6 +28922,27 @@
     ]
    ],
    "t": "2026-11-09"
+  },
+  "hioperator.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
   },
   "homeoffice-na-urbn.icims.com": {
    "r": [
@@ -28389,6 +29170,27 @@
     ]
    ],
    "t": "2026-11-09"
+  },
+  "infinyon.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
   },
   "innoflightinc.applytojob.com": {
    "r": [
@@ -31089,6 +31891,27 @@
    ],
    "t": "2026-11-09"
   },
+  "kaipod-learning.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
+  },
   "kearney.taleo.net": {
    "r": [],
    "t": "2026-11-09"
@@ -31382,6 +32205,27 @@
     ]
    ],
    "t": "2026-11-09"
+  },
+  "manara.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
   },
   "massanf.taleo.net": {
    "r": [],
@@ -31887,6 +32731,27 @@
    ],
    "t": "2026-11-09"
   },
+  "new-incentives.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
+  },
   "newventurefund.applytojob.com": {
    "r": [
     [
@@ -32079,6 +32944,27 @@
     ]
    ],
    "t": "2026-11-09"
+  },
+  "nursing-float-health.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
   },
   "obsidian.applytojob.com": {
    "r": [
@@ -32559,6 +33445,27 @@
    ],
    "t": "2026-11-09"
   },
+  "rechat-inc.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
+  },
   "resourcedatainc.applytojob.com": {
    "r": [
     [
@@ -32716,6 +33623,27 @@
    ],
    "t": "2026-11-09"
   },
+  "shipblu.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
+  },
   "shopline.applytojob.com": {
    "r": [
     [
@@ -32837,6 +33765,27 @@
    ],
    "t": "2026-11-09"
   },
+  "sinai.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
+  },
   "skanska.avature.net": {
    "r": [
     [
@@ -32910,6 +33859,48 @@
    ],
    "t": "2026-11-09"
   },
+  "skillcrush.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
+  },
+  "solugen.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
+  },
   "solvarus.applytojob.com": {
    "r": [
     [
@@ -32954,6 +33945,27 @@
     ]
    ],
    "t": "2026-11-09"
+  },
+  "stacklet.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
   },
   "staff-emory.icims.com": {
    "r": [
@@ -35127,6 +36139,27 @@
    ],
    "t": "2026-11-09"
   },
+  "votingworks.breezy.hr": {
+   "r": [
+    [
+     false,
+     "/css"
+    ],
+    [
+     false,
+     "/fonts"
+    ],
+    [
+     false,
+     "/stylesheets"
+    ],
+    [
+     false,
+     "/javascripts"
+    ]
+   ],
+   "t": "2026-11-11"
+  },
   "vpitechnology.applytojob.com": {
    "r": [
     [
@@ -35850,6 +36883,7 @@
   "ashby:PointOne:e57df388-58d1-41b5-b388-6b4ad41a6c57": "2026-11-07",
   "ashby:ThinkingMachines:14bef671-162c-4513-bfcf-e679e41e10a8": "2026-11-09",
   "ashby:Vultr:04d58a97-bf6d-4214-8bfd-ccc984fc7e6d": "2026-11-10",
+  "ashby:Vultr:24c3445f-27b2-40fb-870e-e59b71305787": "2026-11-11",
   "ashby:Vultr:f3faf050-f72b-4306-8cd0-7853eab4e558": "2026-11-10",
   "ashby:WRITER:2111a9b4-8dab-4562-9692-ad7cb2c7b968": "2026-11-09",
   "ashby:WRITER:6ac02771-059b-490b-960b-f5616f255b65": "2026-11-09",
@@ -35904,7 +36938,9 @@
   "ashby:hyperbolic:d0d57bcf-8b09-415a-aacd-51b5f50b26de": "2026-11-09",
   "ashby:kastle:7f0955a9-335d-49f7-937f-7f4563a688d1": "2026-11-07",
   "ashby:kraken.com:6d3b6e08-97ec-4eda-b3ad-bbf5fd955840": "2026-11-10",
+  "ashby:kubermatic:8f106095-0eee-492a-b970-4e4a0d77a0a3": "2026-11-11",
   "ashby:kustomer:f5936ba0-85eb-4409-81ae-979c3d978ba4": "2026-11-07",
+  "ashby:luminal:418158ce-9570-43fa-8877-2583c291b3fa": "2026-11-11",
   "ashby:luxor:e45ef8d6-93c9-4e16-b625-6abf89f4c217": "2026-11-09",
   "ashby:mercor:799ecfcc-4258-4075-8b11-12fc64fb2868": "2026-11-07",
   "ashby:mistral.ai:98e96edd-e91f-4558-a248-4e0a2765845b": "2026-11-07",
@@ -35935,6 +36971,7 @@
   "ashby:span.app:00de323d-8842-470f-af05-91643597bb11": "2026-11-09",
   "ashby:supabase:fb0b563a-e541-43fd-8555-9eb6473aaa11": "2026-11-07",
   "ashby:swarmaero:1a5fe194-42ea-48df-ae66-1e3dd4237390": "2026-11-07",
+  "ashby:temporal:372eafe1-5e1d-414b-8e71-56c8b30a78dc": "2026-11-11",
   "ashby:tensorwave:32ed70c4-3ed4-4739-8346-c95bd67a98e6": "2026-11-07",
   "ashby:terac:905ccd00-8971-4b83-aad4-957e6526199c": "2026-11-10",
   "ashby:terranova:ab65c694-e140-4efe-b7f7-abca43e48ba7": "2026-11-07",
@@ -35949,6 +36986,7 @@
   "avature:tql.avature.net|en_US/TQLexternalcareers:18174": "2026-11-09",
   "bamboohr:adidev:25": "2026-11-08",
   "bamboohr:adidev:35": "2026-11-08",
+  "bamboohr:aras:419": "2026-11-11",
   "bamboohr:asuresoftware:1054": "2026-11-09",
   "bamboohr:euna:788": "2026-11-08",
   "bamboohr:euna:808": "2026-11-08",
@@ -35962,7 +37000,15 @@
   "breezy:vetsez:351a8932302701": "2026-11-09",
   "breezy:vetsez:6a8de9a0ef8101": "2026-11-09",
   "breezy:vetsez:c78e9d90197b01": "2026-11-09",
+  "dover:weaverobotics:5b7bf24e-a8dc-40a3-86a7-5ff4e929b49c": "2026-11-11",
   "eightfold:eaton|eaton.com:687239541052": "2026-11-09",
+  "gem:converge:am9icG9zdDrTnQZ7B1fSVbLWJg39Aktr": "2026-11-11",
+  "gem:nabla-bio:am9icG9zdDoA8CiE8OU6Z5HZSl6XVtSD": "2026-11-11",
+  "gem:retool:4618972005": "2026-11-11",
+  "gem:retool:am9icG9zdDov1g1UQjQKXdoNuSmbN_E5": "2026-11-11",
+  "gem:rinsed:am9icG9zdDpQx5-06bP7wYuNUtxstmbf": "2026-11-11",
+  "gem:rootly:am9icG9zdDqumdi-xwVZZc-B09Kg5nav": "2026-11-11",
+  "gem:ultra:am9icG9zdDoxL4WbltdD6-2PCU53a0ry": "2026-11-11",
   "greenhouse:accenturefederalservices:4721006006": "2026-11-09",
   "greenhouse:accenturefederalservices:4724740006": "2026-11-07",
   "greenhouse:accenturefederalservices:4725223006": "2026-11-07",
