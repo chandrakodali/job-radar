@@ -23,12 +23,12 @@ profile:
     Score is 0–100: mostly how many of the resume's tools the job text names (listed under Notes), then
     years required, freshness and location.
   hidden_note: >-
-    Jobs that need a security clearance, US citizenship or ITAR status, jobs whose text names none of the
-    resume's tools, and jobs the AI reviewer (if enabled) judged off-target. The reason is in the Notes
-    column. Listed so nothing is dropped silently.
+    Jobs that need a security clearance, US citizenship or ITAR status, jobs asking for 10+ years of
+    experience, jobs whose text names none of the resume's tools, and jobs the AI reviewer (if enabled)
+    judged off-target. The reason is in the Notes column. Listed so nothing is dropped silently.
   refresh_note: 'Refreshes every 3 hours.'
   chips:   # which notes show red / green / amber on the page
-    bad: 'no visa sponsorship|clearance|citizen|itar|stretch|staffing|open \d+ days|([89]|1\d)\+ yrs|none of your tools'
+    bad: 'no visa sponsorship|clearance|citizen|itar|stretch|staffing|open \d+ days|([89]|1\d)\+ yrs|none of your tools|asks for \d+\+ years'
     good: '^tools:|sponsors visas|e-verify|priority'
     warn: '[67]\+ yrs|repost|unclear|entry-level|not read'
 
@@ -155,6 +155,7 @@ titles:
     - 'data (scientist|analyst|engineer)|business (analyst|intelligence)|\bux\b|\bui\b.{0,10}designer|\bproduct designer|scrum master|product owner'
     - '\bclearance\b|\bts/sci\b|\btop secret\b|\bclassified\b'
     - '\bplc\b|\bscada\b|building automation|\bbms technician'
+    - 'control[\s-]plane|data[\s-]plane|mission control|care management|social work|\bnurs|\bclinic|\bpatient|\btherap|\bpostgres|\bkubernetes\b'
 
   # A level above ~4 years of experience: kept, flagged as a stretch and scored lower.
   stretch:
@@ -200,7 +201,7 @@ skills:
     Embedded Coder: '\bembedded\s*coder\b|\breal[\s-]*time workshop\b'
     TargetLink: '\btarget\s*link\b'
     Polyspace: '\bpolyspace\b'
-    DaVinci: '\bda\s?vinci\b(?!\s+resolve)'
+    DaVinci: '(?-i:\bDaVinci\b)(?!\s+Resolve)|\bda\s?vinci\s+(developer|configurator)\b'   # not the "da Vinci" surgical robot
     MISRA: '\bmisra\b'
     ISO 26262: '\b26262\b|\basil(\s*-?\s*[a-d])?\b'
     ASPICE: '\ba-?spice\b|\bautomotive spice\b'
@@ -281,7 +282,8 @@ scoring:
   max_post_age_days: 150      # postings open longer than this are ignored
   stale_after_days: 60        # ...and ones open longer than this are flagged
   block_alerts_if_years_at_least: 9
-  max_wide_per_run: 3000      # generic-title descriptions read per run; the rest wait for the next run
+  hide_if_years_at_least: 10  # postings asking for 10+ years go to the hidden list at the bottom of the report
+  max_wide_per_run: 8000      # generic-title descriptions read per run; the rest wait for the next run
   home_locations:             # small bonus
     - '\bmichigan\b'
     - ',\s*MI\b'

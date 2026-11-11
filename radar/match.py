@@ -70,12 +70,20 @@ NON_US = re.compile(
     r"shenzhen|hangzhou|chengdu|suzhou|nanjing|wuhan|xian|xi.an|guangzhou|kowloon|yokohama|"
     r"busan|penang|cebu|ho chi minh|hanoi|da nang|auckland|wellington|christchurch|"
     r"curitiba|porto alegre|belo horizonte|rio de janeiro|campinas|florianopolis|cordoba|rosario|"
-    r"mexico city|ciudad de mexico|cdmx|tijuana|queretaro|puebla|leon, gto|zapopan)\b",
+    r"mexico city|ciudad de mexico|cdmx|tijuana|queretaro|puebla|leon, gto|zapopan|"
+    r"king abdullah|jeddah|veneto|padua|turin|torino|piedmont|lviv|vantaa|espoo|hsinchu|brno|roznov|surry hills|"
+    r"quezon|indaiatuba|bohemia|stuttgart|ingolstadt|wolfsburg|regensburg|ulm|friedrichshafen|"
+    r"timisoara|sibiu|chihuahua|juarez|saltillo|san luis potosi|windsor, on|oshawa|markham)\b",
     re.I,
 )
 _ABBR_RE = re.compile(r"(?:,|-|–)\s*(" + "|".join(US_ABBR) + r")\b(?!\s*[a-z])")
 # State abbreviations that are also common country codes (CA=Canada, IN=India, DE=Germany, ...)
 _AMBIG_ABBR = {"CA", "IN", "DE", "IL", "MA", "CO", "AR", "ID", "PA", "MT", "AL", "GA", "MD", "ME", "MN", "MO", "SC", "SD", "TN"}
+# "Padua, Veneto, IT" / "Acuña, COA, MX": a trailing country code that is not also a US state.
+_FOREIGN_TAIL = re.compile(
+    r",\s*(IT|FI|UA|BR|CZ|MX|TW|RO|PH|JP|KR|CN|FR|ES|PL|SE|NL|BE|CH|AT|HU|PT|GR|TR|IE|GB|UK|AU|AUS|NZ|SG|MY|TH|VN|ZA|"
+    r"AE|SA|EG|RS|BG|HR|SK|SI|LT|LV|EE|NO|DK|CL|PE|CR|UY|EC|DEU|IND|CHN|JPN|KOR|MEX|BRA|GBR|FRA|ITA|ESP|POL)\s*(;|$)")
+_CJK = re.compile(r"[\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af]")
 _US_COUNTRY_CODES = {"us", "usa", "united states", "united states of america", "u.s.", "u.s.a."}
 
 
@@ -99,6 +107,8 @@ def classify_location(text: str, countries: list[str] | None = None) -> str:
         return "non_us"
     if _ABBR_RE.search(t):
         return "us"
+    if _FOREIGN_TAIL.search(t) or _CJK.search(t):
+        return "non_us"
     return "unknown"
 
 
@@ -141,6 +151,7 @@ class Rules:
     alert_threshold: int = 45
     max_post_age_days: int = 14
     block_alerts_if_years_at_least: int = 7
+    hide_if_years_at_least: int = 0   # experienced mode: postings asking this many years go to the hidden list
     # ---- optional, used by profiles that match on job-text evidence (see profiles/*/config.yaml)
     wide: list[re.Pattern] = field(default_factory=list)        # generic titles: kept only with skills evidence
     wide_focus: list[re.Pattern] = field(default_factory=list)  # same, but only on the profile's own employer list
@@ -182,6 +193,7 @@ class Rules:
             alert_threshold=int(s.get("alert_threshold", 45)),
             max_post_age_days=int(s.get("max_post_age_days", 14)),
             block_alerts_if_years_at_least=int(s.get("block_alerts_if_years_at_least", 7)),
+            hide_if_years_at_least=int(s.get("hide_if_years_at_least", 0)),
         )
 
 
@@ -460,9 +472,12 @@ def _assess_experienced(job: Job, board: Board, rules: Rules, category: str, now
         flags.append(f"needs: {blocker[:40]}")
     elif loc_class == "non_us":
         status = "old"
-    elif desc and rules.core_min_weight and skill_hits(desc, rules)[0] < rules.core_min_weight:
+    elif desc and rules.core_min_weight and weight < rules.core_min_weight:
         status = "blocked"
         flags.append("none of your tools in the job text")
+    elif years is not None and rules.hide_if_years_at_least and years >= rules.hide_if_years_at_least:
+        status = "blocked"
+        flags.append(f"asks for {years}+ years of experience")
     elif years is not None and years >= rules.block_alerts_if_years_at_least:
         status = "quiet"
     elif score >= rules.alert_threshold:

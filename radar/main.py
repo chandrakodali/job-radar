@@ -349,9 +349,13 @@ def run(args) -> int:
                     continue
             retries.pop(j.uid, None)
             if cat == "wide" and not has_evidence(f"{j.title}\n{j.description}", rules):
-                state["seen"][j.uid] = today
-                stats["wide_dropped"] += 1
-                continue
+                # No evidence in the text: dropped, unless the text could not be read at all and the
+                # title is one of the likely ones. Those are listed (marked "description not read").
+                if j.description or title_category(j.title, rules) != "wide":
+                    state["seen"][j.uid] = today
+                    stats["wide_dropped"] += 1
+                    continue
+                stats["unread_kept"] += 1
         a = assess(j, b, rules, cat, now=now)
         state["seen"][j.uid] = today
         if a.location_class == "non_us" or a.status == "old":

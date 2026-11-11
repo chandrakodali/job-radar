@@ -171,13 +171,19 @@ def test_years_required_against_four_years_of_experience(rules):
     def score(years):
         return assess(_job(description=RESUME_JOB.replace("3+ years", f"{years}+ years")), b, rules, "core", now=NOW)
     assert score(5).score > score(7).score > score(8).score
-    assert score(10).status == "quiet"
+    assert score(9).status == "quiet"                       # too senior to alert on, still listed
+    hidden = score(10)                                      # 10+ years: moved to the hidden list, with the reason
+    assert hidden.status == "blocked" and "asks for 10+ years of experience" in hidden.flags
 
 
 def test_target_title_without_any_tool_is_set_aside(rules):
-    a = assess(_job(title="Embedded Software Engineer", description="Join our fintech platform team. Benefits."),
+    a = assess(_job(title="Senior Software Engineer, Embedded", description="Join our fintech platform team. Benefits."),
                Board("greenhouse", "acme", "Acme"), rules, "core", now=NOW)
     assert a.status == "blocked" and "none of your tools in the job text" in a.flags
+    # A plainly embedded title counts as evidence itself, so a thin posting is listed, not hidden.
+    thin = assess(_job(title="Embedded Software Engineer 1", description="Write C++ for our devices. Benefits."),
+                  Board("jibe", "careers.garmin.com", "Garmin"), rules, "core", now=NOW)
+    assert thin.status in ("alert", "quiet")
     unread = assess(_job(description=""), Board("greenhouse", "acme", "Acme"), rules, "core", now=NOW)
     assert unread.status in ("alert", "quiet") and "description not read" in unread.flags
 
@@ -538,3 +544,31 @@ def test_mcloud_dspace_and_jibe_readers(monkeypatch):
         ("38016", "Embedded Software Developer - Automated Driving", "Wixom, MI", ["US"]),
         ("1", "Softwareentwickler", "Paderborn", [])]
     assert ds[0].url.startswith("https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm?fuseaction=einzel&jid=38016")
+
+
+def test_review_fixes_davinci_foreign_places_and_unreadable_pages(rules, monkeypatch):
+    # "da Vinci" the surgical robot is not Vector DaVinci
+    assert "DaVinci" not in skill_hits("Work on the da Vinci surgical system in embedded C.", rules)[2]
+    assert "DaVinci" in skill_hits("AUTOSAR configuration with DaVinci Developer and CANoe.", rules)[2]
+    assert "DaVinci" in skill_hits("Experience with da Vinci Configurator.", rules)[2]
+    from radar.match import classify_location
+    for place in ("Padua, Veneto, IT", "King Abdullah Economic City, 02", "東京都中央区", "Acuña, COA, MX", "Vantaa, Uusimaa, FI"):
+        assert classify_location(place) == "non_us", place
+    for place in ("Auburn Hills, MI", "Columbus, IN", "Troy, Michigan, US", "PA 17111, United States"):
+        assert classify_location(place) == "us", place
+    for t in ("Staff Software Engineer - Postgres Control Plane", "Care Management Assistant II - BSW - Reidsville"):
+        assert title_category(t, rules, focus=True) is None, t
+
+    # SuccessFactors sitemap: a US state + ZIP in the address marks a US job; a German state + postcode does not
+    assert ats_more._rmk_slug_place("Harrisburg-Embedded-Software-Test-Engineer-PA-17111") == ("PA 17111, United States", ["US"])
+    assert ats_more._rmk_slug_place("Ulm-Embedded-Software-Expert-BW-89081") == ("", [])
+
+    # A job page whose text is filled in by script: title from the page head, text left unread (not the menus)
+    monkeypatch.setattr(ats_more.robots, "check", lambda url: None)
+    page = ("<html><head><title>Embedded Software Test Engineer Job Details | TE Connectivity</title></head>"
+            "<body class='unify'><div id='header'>Careers Home Search Jobs AUTOSAR Simulink menu</div></body></html>")
+    monkeypatch.setattr(ats_more, "get_text", lambda url, **kw: page)
+    j = Job(ats="sfrmk", board="careers.te.com", job_id="1", company="TE", title="Harrisburg Embedded Software Test Engineer PA 17111",
+            title_guess=True, detail_ref="https://careers.te.com/job/x/1/", needs_detail=True)
+    ats_more.sfrmk_detail(j)
+    assert j.title == "Embedded Software Test Engineer" and j.description == ""

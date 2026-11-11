@@ -228,7 +228,15 @@ def jobvite_detail(job: Job) -> None:
 _RMK_JOB = re.compile(r"/job/([^/]+)/(\d{5,})/?$")
 
 
-_RMK_US_SLUG = re.compile(r"-[A-Z]{2}-\d{5}(-\d{4})?$")   # "...-Engineer-MI-48326": a US state and ZIP code
+# "...-Engineer-MI-48326": a US state and ZIP code ("BW-89081" is Baden-Württemberg, so the state is checked)
+_RMK_US_SLUG = re.compile(
+    r"-(AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|"
+    r"OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC)-(\d{5})(-\d{4})?$")
+
+
+def _rmk_slug_place(slug: str) -> tuple[str, list[str]]:
+    m = _RMK_US_SLUG.search(slug)
+    return (f"{m.group(1)} {m.group(2)}, United States", ["US"]) if m else ("", [])
 
 
 def sfrmk_list(b: Board, max_jobs: int = MAX_JOBS) -> list[Job]:
@@ -245,9 +253,10 @@ def sfrmk_list(b: Board, max_jobs: int = MAX_JOBS) -> list[Job]:
         if not m or m.group(2) in seen:
             continue
         seen.add(m.group(2))
+        place, countries = _rmk_slug_place(m.group(1))
         jobs.append(_job(b, job_id=m.group(2), title=slug_words(m.group(1)), url=u, title_guess=True,
                          posted_at=parse_when(lastmod), needs_detail=True, detail_ref=u,
-                         countries=["US"] if _RMK_US_SLUG.search(m.group(1)) else []))
+                         location=place, countries=countries))
     if len(jobs) > max_jobs:   # worldwide sites: keep the jobs whose address looks American first
         jobs.sort(key=lambda j: not j.countries)
     return jobs[:max_jobs]
@@ -351,8 +360,9 @@ def sfrmk_detail(job: Job) -> None:
     from bs4 import BeautifulSoup
     soup = BeautifulSoup(page, "html.parser")
     t = soup.select_one('[itemprop="title"]') or soup.find("h1")
-    if t:
+    if t and t.get_text(strip=True):
         job.title = t.get_text(" ", strip=True)
+        job.title_guess = False
     loc = soup.select_one(".jobGeoLocation") or soup.select_one('[data-careersite-propertyid="location"]')
     if loc and loc.get_text(strip=True):
         job.location, job.countries = rmk_location(loc.get_text(" ", strip=True))
@@ -367,7 +377,19 @@ def sfrmk_detail(job: Job) -> None:
     if dp:
         job.posted_at = parse_when(dp.get("content") or dp.get_text(strip=True)) or job.posted_at
     d = soup.select_one('[itemprop="description"], .jobdescription, .job-description')
-    job.description = (d or soup).get_text("\n", strip=True)[:20000]
+    if d:
+        job.description = d.get_text("\n", strip=True)[:20000]
+        return
+    # Newer career sites fill the job text in with JavaScript from a service their robots.txt closes to
+    # automated readers. Take the title from the page head and leave the text unread rather than
+    # mistaking the page's menus and footer for it.
+    if job.title_guess:
+        head = soup.select_one('meta[property="og:title"]')
+        text = (head.get("content") if head else "") or (soup.title.get_text(" ", strip=True) if soup.title else "")
+        text = re.split(r"\s+(?:Job Details|Stellendetails)\b|\s+\|\s+", text.strip())[0].strip()
+        if text:
+            job.title = text
+            job.title_guess = False
 
 
 # ------------------------------------------------------------------ Paylocity
