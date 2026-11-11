@@ -24,6 +24,8 @@ Board formats (the `board` column):
   manatal      acme                             (careers-page.com/acme)
   hireology    acme                             (careers.hireology.com/acme)
   oorwin       acme                             (acme.oorwin.com)
+  mcloud       2016|careers.acme.com            (Symphony Talent org number|careers site)
+  dspace       www.dspace.com|en/inc/home/career/jobfinder/stellen.cfm   (dSPACE's own job finder)
 """
 from __future__ import annotations
 
@@ -226,7 +228,18 @@ def jobvite_detail(job: Job) -> None:
 _RMK_JOB = re.compile(r"/job/([^/]+)/(\d{5,})/?$")
 
 
-def sfrmk_list(b: Board) -> list[Job]:
+# "...-Engineer-MI-48326": a US state and ZIP code ("BW-89081" is Baden-Württemberg, so the state is checked)
+_RMK_US_SLUG = re.compile(
+    r"-(AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|OH|OK|"
+    r"OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC)-(\d{5})(-\d{4})?$")
+
+
+def _rmk_slug_place(slug: str) -> tuple[str, list[str]]:
+    m = _RMK_US_SLUG.search(slug)
+    return (f"{m.group(1)} {m.group(2)}, United States", ["US"]) if m else ("", [])
+
+
+def sfrmk_list(b: Board, max_jobs: int = MAX_JOBS) -> list[Job]:
     host = b.board
     try:
         urls = _sitemap_urls(f"https://{host}/job_sitemap.xml", lambda u: "/job/" in u)
@@ -240,9 +253,13 @@ def sfrmk_list(b: Board) -> list[Job]:
         if not m or m.group(2) in seen:
             continue
         seen.add(m.group(2))
+        place, countries = _rmk_slug_place(m.group(1))
         jobs.append(_job(b, job_id=m.group(2), title=slug_words(m.group(1)), url=u, title_guess=True,
-                         posted_at=parse_when(lastmod), needs_detail=True, detail_ref=u))
-    return jobs[:MAX_JOBS]
+                         posted_at=parse_when(lastmod), needs_detail=True, detail_ref=u,
+                         location=place, countries=countries))
+    if len(jobs) > max_jobs:   # worldwide sites: keep the jobs whose address looks American first
+        jobs.sort(key=lambda j: not j.countries)
+    return jobs[:max_jobs]
 
 
 def sfrmk_search(b: Board, search: str, max_pages: int = 3) -> list[Job]:
@@ -253,6 +270,8 @@ def sfrmk_search(b: Board, search: str, max_pages: int = 3) -> list[Job]:
     jobs, seen = [], set()
     for page in range(max_pages):
         html = _page(f"https://{host}/search/", params={"q": search, "locationsearch": "", "startrow": page * 25})
+        if page == 0 and "SearchResultsUnify" in html and "data-row" not in html:
+            return sfrmk_search_unify(b, search, max_pages=max_pages * 3)
         soup = BeautifulSoup(html, "html.parser")
         rows = soup.select("tr.data-row") or soup.select("li.job-tile, div.job-tile")
         new = 0
@@ -278,6 +297,50 @@ def sfrmk_search(b: Board, search: str, max_pages: int = 3) -> list[Job]:
     return jobs
 
 
+def _unify_date(text) -> "datetime | None":
+    """'9/1/26' (month/day/2-digit year), as the newer career sites write posting dates."""
+    m = re.fullmatch(r"\s*(\d{1,2})/(\d{1,2})/(\d{2}|\d{4})\s*", str(text or ""))
+    if not m:
+        return parse_when(text)
+    from datetime import datetime
+    year = int(m.group(3))
+    try:
+        return datetime(year + 2000 if year < 100 else year, int(m.group(1)), int(m.group(2)), tzinfo=timezone.utc)
+    except ValueError:
+        return None
+
+
+def sfrmk_search_unify(b: Board, search: str, max_pages: int = 9) -> list[Job]:
+    """Keyword search on the newer SuccessFactors career sites, whose search page is filled in by
+    JavaScript from a JSON service (10 results a page)."""
+    host = b.board
+    url = f"https://{host}/services/recruiting/v1/jobs"
+    robots.check(url)
+    jobs, seen = [], set()
+    for page in range(max_pages):
+        data = post_json(url, {"locale": "en_US", "pageNumber": page, "sortBy": "", "keywords": search,
+                               "location": "", "facetFilters": {}, "brand": "", "skills": [], "categoryId": 0,
+                               "alertId": "", "rcmCandidateId": ""})
+        rows = data.get("jobSearchResult") or []
+        for row in rows:
+            r = row.get("response") or {}
+            jid = str(r.get("id") or "")
+            if not jid or jid in seen:
+                continue
+            seen.add(jid)
+            slug = r.get("urlTitle") or r.get("unifiedUrlTitle") or "job"
+            locs = [str(x).strip(" ,") for x in (r.get("jobLocationShort") or []) if str(x).strip(" ,")]
+            page_url = f"https://{host}/job/{quote(slug)}/{jid}-en_US"
+            jobs.append(_job(b, job_id=jid, title=(r.get("unifiedStandardTitle") or slug_words(slug)).strip(),
+                             url=page_url, location="; ".join(locs[:4]),
+                             countries=[str(c) for c in (r.get("country_obj") or [])][:4],
+                             posted_at=_unify_date(r.get("unifiedStandardStart")),
+                             needs_detail=True, detail_ref=page_url, found_by=search))
+        if len(rows) < 10 or len(seen) >= int(data.get("totalJobs") or 0):
+            break
+    return jobs
+
+
 def rmk_location(text: str) -> tuple[str, list[str]]:
     """SuccessFactors writes 'City, Region, CC, Zip' (e.g. 'Muenchen, DE' or 'Tampa, FL, US, 33605').
     The last letters-only part is the country code, so 'DE' is Germany here, not Delaware."""
@@ -297,8 +360,9 @@ def sfrmk_detail(job: Job) -> None:
     from bs4 import BeautifulSoup
     soup = BeautifulSoup(page, "html.parser")
     t = soup.select_one('[itemprop="title"]') or soup.find("h1")
-    if t:
+    if t and t.get_text(strip=True):
         job.title = t.get_text(" ", strip=True)
+        job.title_guess = False
     loc = soup.select_one(".jobGeoLocation") or soup.select_one('[data-careersite-propertyid="location"]')
     if loc and loc.get_text(strip=True):
         job.location, job.countries = rmk_location(loc.get_text(" ", strip=True))
@@ -313,7 +377,19 @@ def sfrmk_detail(job: Job) -> None:
     if dp:
         job.posted_at = parse_when(dp.get("content") or dp.get_text(strip=True)) or job.posted_at
     d = soup.select_one('[itemprop="description"], .jobdescription, .job-description')
-    job.description = (d or soup).get_text("\n", strip=True)[:20000]
+    if d:
+        job.description = d.get_text("\n", strip=True)[:20000]
+        return
+    # Newer career sites fill the job text in with JavaScript from a service their robots.txt closes to
+    # automated readers. Take the title from the page head and leave the text unread rather than
+    # mistaking the page's menus and footer for it.
+    if job.title_guess:
+        head = soup.select_one('meta[property="og:title"]')
+        text = (head.get("content") if head else "") or (soup.title.get_text(" ", strip=True) if soup.title else "")
+        text = re.split(r"\s+(?:Job Details|Stellendetails)\b|\s+\|\s+", text.strip())[0].strip()
+        if text:
+            job.title = text
+            job.title_guess = False
 
 
 # ------------------------------------------------------------------ Paylocity
@@ -560,14 +636,16 @@ def eightfold_detail(job: Job) -> None:
 
 # ------------------------------------------------------------------ Jibe (iCIMS Attract)
 
-def jibe_list(b: Board, limit: int = 100, max_pages: int = 3) -> list[Job]:
+def jibe_list(b: Board, limit: int = 100, max_pages: int = 3, search: str = "") -> list[Job]:
+    """`search` runs the site's own keyword search (title and description) instead of listing by date."""
     host = b.board
     url = f"https://{host}/api/jobs"
     robots.check(url)
     jobs, seen = [], set()
     for page in range(1, max_pages + 1):
-        data = get_json(url, params={"page": page, "limit": limit, "sortBy": "posted_date", "descending": "true",
-                                     "internal": "false"})
+        params = {"page": page, "limit": limit, "internal": "false"}
+        params.update({"keywords": search} if search else {"sortBy": "posted_date", "descending": "true"})
+        data = get_json(url, params=params)
         rows = data.get("jobs") or []
         for row in rows:
             j = row.get("data") or row
@@ -581,6 +659,7 @@ def jibe_list(b: Board, limit: int = 100, max_pages: int = 3) -> list[Job]:
                              countries=[j["country_code"]] if j.get("country_code") else ([j["country"]] if j.get("country") else []),
                              posted_at=parse_when(j.get("posted_date") or j.get("create_date")),
                              workplace=_wp(j.get("location_type") or ""),
+                             found_by=search,
                              description=html_to_text(j.get("description") or "") +
                                          "\n" + html_to_text(j.get("qualifications") or "")))
         if not rows or len(seen) >= int(data.get("totalCount") or 0):
@@ -939,21 +1018,81 @@ def oorwin_list(b: Board) -> list[Job]:
     return jobs
 
 
+# ------------------------------------------------------------------ Symphony Talent "m-cloud" career sites
+
+def mcloud_list(b: Board, limit: int = 100, max_pages: int = 8, search: str = "") -> list[Job]:
+    """Career sites built on Symphony Talent (e.g. careers.stellantis.com). The listing carries the full
+    description. Only US jobs are asked for; `search` is the site's keyword search."""
+    org, _, site = b.board.partition("|")
+    url = "https://jobsapi-internal.m-cloud.io/api/job"
+    jobs, seen = [], set()
+    for page in range(max_pages):
+        params = {"Organization": org, "Limit": limit, "Offset": page * limit + 1, "facet": "primary_country:US"}
+        if search:
+            params["SearchText"] = search
+        data = get_json(url, params=params)
+        rows = data.get("queryResult") or []
+        for r in rows:
+            jid = str(r.get("id") or "")
+            if not jid or jid in seen or str(r.get("entity_status") or "Open").lower() != "open":
+                continue
+            seen.add(jid)
+            link = r.get("url") or ""
+            if site and site not in link:
+                link = f"https://{site}/job/{jid}/"
+            jobs.append(_job(b, job_id=jid, title=(r.get("title") or "").strip(), url=link,
+                             location=_loc(r.get("primary_city"), r.get("primary_state"), r.get("primary_country")),
+                             countries=[r["primary_country"]] if r.get("primary_country") else [],
+                             posted_at=parse_when(r.get("open_date")), found_by=search,
+                             description=html_to_text(r.get("description") or "")))
+        if len(rows) < limit or page * limit + len(rows) >= int(data.get("totalHits") or 0):
+            break
+    return jobs
+
+
+# ------------------------------------------------------------------ dSPACE (own job finder)
+
+def dspace_list(b: Board) -> list[Job]:
+    host, _, path = b.board.partition("|")
+    page = _page(f"https://{host}/{path}")
+    jobs, seen = [], set()
+    for m in re.finditer(r'"href":"([^"]*?jid=(\d+)[^"]*)"(.{0,400}?)"title":"((?:[^"\\]|\\.)*)"', page, re.S):
+        href, jid, mid, title = m.groups()
+        if jid in seen:
+            continue
+        seen.add(jid)
+        loc = re.search(r'"location":"((?:[^"\\]|\\.)*)"', mid)
+        link = urljoin(f"https://{host}/", href.replace("\\/", "/"))
+        location = htmllib.unescape(loc.group(1)) if loc else ""
+        jobs.append(_job(b, job_id=jid, title=htmllib.unescape(title).replace("\\/", "/").strip(), url=link,
+                         location=location, countries=["US"] if re.search(r",\s*[A-Z]{2}$", location) else [],
+                         needs_detail=True, detail_ref=link))
+    return jobs
+
+
+def dspace_detail(job: Job) -> None:
+    from bs4 import BeautifulSoup
+    soup = BeautifulSoup(_page(job.detail_ref), "html.parser")
+    blocks = soup.select("div.ds-textblock") or [soup.body or soup]
+    job.description = "\n".join(x.get_text("\n", strip=True) for x in blocks)[:20000]
+
+
 LISTERS = {
     "icims": icims_list, "jazzhr": jazzhr_list, "jobvite": jobvite_list, "sfrmk": sfrmk_list,
     "paylocity": paylocity_list, "taleo": taleo_list, "avature": avature_list, "phenom": phenom_list,
     "eightfold": eightfold_list, "jibe": jibe_list, "breezy": breezy_list, "pinpoint": pinpoint_list,
     "teamtailor": teamtailor_list, "dover": dover_list, "gem": gem_list, "ukg": ukg_list,
     "dayforce": dayforce_list, "adp": adp_list, "manatal": manatal_list,
-    "hireology": hireology_list, "oorwin": oorwin_list,
+    "hireology": hireology_list, "oorwin": oorwin_list, "mcloud": mcloud_list, "dspace": dspace_list,
 }
 DETAILERS = {
     "icims": icims_detail, "jazzhr": _ld_detail, "jobvite": jobvite_detail, "sfrmk": sfrmk_detail,
     "paylocity": paylocity_detail, "taleo": taleo_detail, "avature": avature_detail, "phenom": phenom_detail,
     "eightfold": eightfold_detail, "breezy": _ld_detail, "dover": dover_detail, "gem": gem_detail,
-    "ukg": ukg_detail, "adp": adp_detail,
+    "ukg": ukg_detail, "adp": adp_detail, "dspace": dspace_detail,
 }
 # Listers whose detail call only fills gaps can skip it when the listing already had a description.
 CONCURRENCY = {"icims": 6, "jazzhr": 6, "jobvite": 3, "sfrmk": 4, "paylocity": 4, "taleo": 3, "avature": 3,
                "phenom": 3, "eightfold": 3, "jibe": 4, "breezy": 6, "pinpoint": 4, "teamtailor": 4, "dover": 3,
-               "gem": 3, "ukg": 4, "ukgready": 3, "dayforce": 2, "adp": 3, "manatal": 3, "hireology": 3, "oorwin": 2}
+               "gem": 3, "ukg": 4, "ukgready": 3, "dayforce": 2, "adp": 3, "manatal": 3, "hireology": 3, "oorwin": 2,
+               "mcloud": 2, "dspace": 2}

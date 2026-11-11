@@ -3,6 +3,8 @@ name: radar-auto
 # Auto Radar: automotive embedded software roles (profiles/automotive). Separate rules, state and
 # report from the DevOps radar; see the "Auto Radar" section of the README.
 on:
+  schedule:
+    - cron: '17 */3 * * *'   # every 3 hours
   workflow_dispatch:
     inputs:
       dry_run:
@@ -27,7 +29,7 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 55
     steps:
       - uses: actions/checkout@v5
 
@@ -40,7 +42,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Tests
-        if: github.event_name == 'push'
         run: python -m pytest -q
 
       - name: Run Auto Radar
@@ -88,7 +89,7 @@ jobs:
           fi
           git commit -m "Auto Radar update $(date -u +'%Y-%m-%d %H:%M UTC')"
           for i in 1 2 3 4 5; do
-            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME" && exit 0
             sleep 7
           done
           echo "Could not push results" && exit 1

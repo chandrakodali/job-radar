@@ -41,6 +41,7 @@ class Job:
     title_guess: bool = False              # title read from a URL slug; the detail page gives the real one
     company_guess: bool = False            # company is a guess; the detail page may name it
     found_by: str = ""                     # keyword whose full-text search of the board returned this job
+    detail_tried: bool = False             # the single-job endpoint was asked this run (it may have failed)
 
     @property
     def uid(self) -> str:

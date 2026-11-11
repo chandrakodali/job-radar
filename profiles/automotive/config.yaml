@@ -23,12 +23,12 @@ profile:
     Score is 0–100: mostly how many of the resume's tools the job text names (listed under Notes), then
     years required, freshness and location.
   hidden_note: >-
-    Jobs that need a security clearance, US citizenship or ITAR status, jobs whose text names none of the
-    resume's tools, and jobs the AI reviewer (if enabled) judged off-target. The reason is in the Notes
-    column. Listed so nothing is dropped silently.
-  refresh_note: 'Refreshes every few hours.'
+    Jobs that need a security clearance, US citizenship or ITAR status, jobs asking for 10+ years of
+    experience, jobs whose text names none of the resume's tools, and jobs the AI reviewer (if enabled)
+    judged off-target. The reason is in the Notes column. Listed so nothing is dropped silently.
+  refresh_note: 'Refreshes every 3 hours.'
   chips:   # which notes show red / green / amber on the page
-    bad: 'no visa sponsorship|clearance|citizen|itar|stretch|staffing|open \d+ days|([89]|1\d)\+ yrs|none of your tools'
+    bad: 'no visa sponsorship|clearance|citizen|itar|stretch|staffing|open \d+ days|([89]|1\d)\+ yrs|none of your tools|asks for \d+\+ years'
     good: '^tools:|sponsors visas|e-verify|priority'
     warn: '[67]\+ yrs|repost|unclear|entry-level|not read'
 
@@ -36,7 +36,7 @@ boards:
   include_general: true    # also scan every board the DevOps radar watches (by title)
 
 run:
-  time_budget_minutes: 22
+  time_budget_minutes: 30
 
 report:
   track_closed: true       # drop matches whose posting has been taken down (Greenhouse, Lever, Ashby)
@@ -71,9 +71,10 @@ search:
     - 'firmware'
     - 'ECU'
   terms_per_run: 9         # the first run searches all of them; later runs rotate through
-  search_pages: 3          # result pages per keyword per board
+  search_pages: 5          # result pages per keyword per board (US results only where the board can filter)
   list_max_pages: 10       # how far back the ordinary newest-first listing is read
   list_max_age_days: 30
+  sitemap_max_jobs: 5000   # worldwide SuccessFactors sites list every job; US-looking ones are kept first
 
 titles:
   # Clearly the target role: kept when the description names at least one tool (or could not be read).
@@ -145,6 +146,7 @@ titles:
     - 'customer (success|support|service)|help ?desk|desktop support|technical writer|documentation'
     - 'professor|lecturer|faculty|\bteacher\b|\binstructor\b|\btrainer\b'
     - '\b(m/w/d|w/m/d|m/f/d|f/m/d|m/f/x|f/h|h/f)\b|\bing[ée]nieur|\bstage\b|alternance'
+    - '\b[mwf] [mwf] [dx]\b|\b(wmx|mwd|mfd)\b|praktik|werkstudent|abschlussarbeit|\bthesis\b|ingenieur|entwickler|\bleiter|mitarbeiter|ausbildung|duales studium|stagiaire|becari[oa]|practicante|pasant[ei]|estagi|inżynier|vývoj|operador|operat(or|ör)\b'
     - 'embedded (finance|payments?|analytics|insurance|banking|lending|bi|wallets?|fintech|commerce|checkout|partner|clinical|consultant|pharmacist|therapist|counselor|coach)\b'
     - '\b(quality|document|internal|access|inventory|production|financial|project|cost|pest|traffic|export|change|materials?|process|infection|sox|noise|emissions?|pollution|flow|version|source|credit|risk|trade|budget|stock|program|business|it|security|building|lighting|climate|irrigation)\s+controls?\b'
     - '\bmechanical\b.{0,20}\bengineer|\bmanufacturing\b|\bindustrial engineer|\bprocess engineer|supplier quality|(?<!software )\bquality engineer'
@@ -153,6 +155,7 @@ titles:
     - 'data (scientist|analyst|engineer)|business (analyst|intelligence)|\bux\b|\bui\b.{0,10}designer|\bproduct designer|scrum master|product owner'
     - '\bclearance\b|\bts/sci\b|\btop secret\b|\bclassified\b'
     - '\bplc\b|\bscada\b|building automation|\bbms technician'
+    - 'control[\s-]plane|data[\s-]plane|mission control|care management|social work|\bnurs|\bclinic|\bpatient|\btherap|\bpostgres|\bkubernetes\b'
 
   # A level above ~4 years of experience: kept, flagged as a stretch and scored lower.
   stretch:
@@ -198,7 +201,7 @@ skills:
     Embedded Coder: '\bembedded\s*coder\b|\breal[\s-]*time workshop\b'
     TargetLink: '\btarget\s*link\b'
     Polyspace: '\bpolyspace\b'
-    DaVinci: '\bda\s?vinci\b(?!\s+resolve)'
+    DaVinci: '(?-i:\bDaVinci\b)(?!\s+Resolve)|\bda\s?vinci\s+(developer|configurator)\b'   # not the "da Vinci" surgical robot
     MISRA: '\bmisra\b'
     ISO 26262: '\b26262\b|\basil(\s*-?\s*[a-d])?\b'
     ASPICE: '\ba-?spice\b|\bautomotive spice\b'
@@ -279,7 +282,8 @@ scoring:
   max_post_age_days: 150      # postings open longer than this are ignored
   stale_after_days: 60        # ...and ones open longer than this are flagged
   block_alerts_if_years_at_least: 9
-  max_wide_per_run: 3000      # generic-title descriptions read per run; the rest wait for the next run
+  hide_if_years_at_least: 10  # postings asking for 10+ years go to the hidden list at the bottom of the report
+  max_wide_per_run: 8000      # generic-title descriptions read per run; the rest wait for the next run
   home_locations:             # small bonus
     - '\bmichigan\b'
     - ',\s*MI\b'

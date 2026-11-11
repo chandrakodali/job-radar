@@ -232,27 +232,59 @@ def _wd_parts(board: str) -> tuple[str, str, str]:
 
 
 def _wd_hosts(board: str) -> tuple[str, str]:
-    """(API base, public job-page base). Boards starting with '@' use the myworkdaysite.com host."""
+    """(API base, public job-page base). Boards starting with '@' use the myworkdaysite.com host; an
+    empty data centre ("nxp||careers") uses the tenant's plain myworkdayjobs.com host."""
     tenant, wd, site = _wd_parts(board)
     if tenant.startswith("@"):
         tenant = tenant[1:]
         return (f"https://{wd}.myworkdaysite.com/wday/cxs/{tenant}/{site}",
                 f"https://{wd}.myworkdaysite.com/recruiting/{tenant}/{site}")
-    return (f"https://{tenant}.{wd}.myworkdayjobs.com/wday/cxs/{tenant}/{site}",
-            f"https://{tenant}.{wd}.myworkdayjobs.com/{site}")
+    host = f"{tenant}.{wd}.myworkdayjobs.com" if wd else f"{tenant}.myworkdayjobs.com"
+    return f"https://{host}/wday/cxs/{tenant}/{site}", f"https://{host}/{site}"
 
 
-def workday_list(b: Board, max_pages: int = 5, max_age_days: int = 7, search: str = "") -> list[Job]:
+_WD_US = re.compile(r"(?i)^\s*(united states( of america)?|usa?|u\.s\.(a\.)?)\s*$")
+
+
+def workday_us_facet(facets) -> tuple[str, str] | None:
+    """(facet name, value id) that narrows a Workday board to US jobs. The facet is named differently
+    on every board (Location_Country, Country, locationCountry...) and can sit inside a group."""
+    stack = list(facets or [])
+    while stack:
+        f = stack.pop(0)
+        param = f.get("facetParameter") or ""
+        for v in f.get("values") or []:
+            if v.get("values"):
+                stack.append(v)
+            elif param and v.get("id") and _WD_US.match(v.get("descriptor") or ""):
+                return param, v["id"]
+    return None
+
+
+def workday_list(b: Board, max_pages: int = 5, max_age_days: int = 7, search: str = "",
+                 us_only: bool = False) -> list[Job]:
     """`search` runs the board's own full-text search (title and description); results come back by
-    relevance, so the age cut-off that ends a newest-first listing is not applied."""
+    relevance, so the age cut-off that ends a newest-first listing is not applied.
+    `us_only`: when the board has more results than `max_pages` reaches and offers a country filter,
+    read the US results instead, so jobs elsewhere do not crowd US ones out."""
     tenant, wd, site = _wd_parts(b.board)
     base, public = _wd_hosts(b.board)
     now = datetime.now(timezone.utc)
     jobs = []
     seen_paths = set()
-    for page in range(max_pages):
-        data = post_json(f"{base}/jobs", {"appliedFacets": {}, "limit": 20, "offset": page * 20, "searchText": search})
+    facets: dict = {}
+    total = None
+    page = 0
+    while page < max_pages:
+        data = post_json(f"{base}/jobs", {"appliedFacets": facets, "limit": 20, "offset": page * 20, "searchText": search})
         postings = data.get("jobPostings") or []
+        if page == 0:
+            total = int(data.get("total") or 0)   # only the first page carries the total
+            if us_only and not facets and total > max_pages * 20:
+                us = workday_us_facet(data.get("facets"))
+                if us:
+                    facets = {us[0]: [us[1]]}
+                    continue                       # start again, US only
         for p in postings:
             path = p.get("externalPath") or ""
             if not path or path in seen_paths:
@@ -270,7 +302,8 @@ def workday_list(b: Board, max_pages: int = 5, max_age_days: int = 7, search: st
                 workplace=workplace_from_text(p.get("locationsText") or ""),
                 needs_detail=True, detail_ref=f"{base}{path}", found_by=search,
             ))
-        if len(postings) < 20:
+        page += 1
+        if len(postings) < 20 or (total and page * 20 >= total):
             break
         last_days = workday_days_ago(postings[-1].get("postedOn"))
         if not search and last_days is not None and last_days > max_age_days:

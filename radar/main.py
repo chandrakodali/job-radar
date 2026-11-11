@@ -280,7 +280,8 @@ def run(args) -> int:
     if wide_cap:
         wide = [c for c in candidates if c[2] == "wide" and not c[0].description]
         if len(wide) > wide_cap:
-            wide.sort(key=lambda c: (not c[1].focus, not c[0].found_by))
+            wide.sort(key=lambda c: (not c[1].focus, not c[0].found_by,
+                                     classify_location(c[0].location, c[0].countries) != "us"))
             later = {id(c[0]) for c in wide[wide_cap:]}
             candidates = [c for c in candidates if id(c[0]) not in later]
             stats["deferred"] = len(later)
@@ -291,6 +292,7 @@ def run(args) -> int:
         j = item[0]
         if j.needs_detail and j.ats in ATS.DETAILERS and time.monotonic() < deadline + 120:
             with dsems[j.ats]:
+                j.detail_tried = True
                 try:
                     ATS.DETAILERS[j.ats](j)
                 except Exception as e:  # keep going; assess with what we have
@@ -337,15 +339,23 @@ def run(args) -> int:
         if rules.skills:
             # Fit is judged on the job text. If it could not be read this run, try again next run
             # (a few times) instead of deciding without it.
-            if not j.description and j.ats in ATS.DETAILERS and retries.get(j.uid, 0) < MAX_TEXT_RETRIES:
-                retries[j.uid] = retries.get(j.uid, 0) + 1
-                stats["retry_later"] += 1
-                continue
+            if not j.description and j.needs_detail and j.ats in ATS.DETAILERS:
+                if not j.detail_tried:           # the run ended before its turn came: not a failed read
+                    stats["retry_later"] += 1
+                    continue
+                if retries.get(j.uid, 0) < MAX_TEXT_RETRIES:
+                    retries[j.uid] = retries.get(j.uid, 0) + 1
+                    stats["retry_later"] += 1
+                    continue
             retries.pop(j.uid, None)
             if cat == "wide" and not has_evidence(f"{j.title}\n{j.description}", rules):
-                state["seen"][j.uid] = today
-                stats["wide_dropped"] += 1
-                continue
+                # No evidence in the text: dropped, unless the text could not be read at all and the
+                # title is one of the likely ones. Those are listed (marked "description not read").
+                if j.description or title_category(j.title, rules) != "wide":
+                    state["seen"][j.uid] = today
+                    stats["wide_dropped"] += 1
+                    continue
+                stats["unread_kept"] += 1
         a = assess(j, b, rules, cat, now=now)
         state["seen"][j.uid] = today
         if a.location_class == "non_us" or a.status == "old":

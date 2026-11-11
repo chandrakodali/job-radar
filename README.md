@@ -16,6 +16,38 @@ Finds new **entry-friendly DevOps, SRE, cloud, platform and infrastructure jobs 
 - It also sends a **daily digest** at 8 AM Central time.
 - The company list refreshes every Monday from the public SimplifyJobs new-grad and internship datasets, so companies that start hiring early-career people get added automatically.
 
+## Auto Radar: automotive embedded software jobs
+
+A second search runs from this repo for **automotive embedded software roles in the US**, built from the
+resume: embedded and controls software, model-based development (MATLAB / Simulink / Stateflow, Embedded Coder,
+TargetLink), AUTOSAR (DaVinci), Polyspace and MISRA C, ISO 26262, ASPICE, MIL / SIL / HIL testing, CAN, and
+steering / ADAS features.
+
+**[Open the Auto Radar report →](REPORT_AUTOMOTIVE.md)** · page: `https://chandrakodali.github.io/job-radar/automotive/`
+
+- It scans **137 automotive employers' own job boards** in depth ([the list](profiles/automotive/companies.csv)):
+  OEMs, truck and off-highway makers, Tier-1 suppliers, automated-driving companies, automotive chip and tool
+  vendors, plus every board the DevOps radar already watches.
+- On those boards it does more than read titles: it **searches the full job text** for 25 keywords from the
+  resume (AUTOSAR, Simulink, TargetLink, Polyspace, ISO 26262, steer-by-wire, HIL...), so a job titled
+  "Engineer II" that asks for Simulink and AUTOSAR is found.
+- Every candidate job's description is read and scored on how many of the resume's tools it names. Generic
+  titles are kept only when the text shows those tools. The Notes column lists the tools found.
+- Senior titles are kept; Staff / Principal / Architect are kept but marked as a stretch. Internships,
+  management, technician, manufacturing, mechanical and web / cloud roles are left out.
+- Jobs needing a clearance, US citizenship or ITAR status are listed separately at the bottom, not dropped.
+- Nexteer (current employer) is skipped.
+- It runs every 3 hours. A job whose text could not be read in one run waits for the next run instead of
+  being judged without it.
+
+**What it cannot see** is listed in [profiles/automotive/COVERAGE.md](profiles/automotive/COVERAGE.md), with a
+link to each of those employers' careers pages. Tesla and MathWorks, for example, block automated readers.
+
+Change the rules in [`profiles/automotive/config.yaml`](profiles/automotive/config.yaml); add an employer by
+adding a row to `profiles/automotive/companies.csv`. **Actions → auto-boards** re-checks every board weekly.
+Alerts go to the same phone channel as the DevOps radar unless you add `NTFY_TOPIC_AUTO` (or
+`TELEGRAM_BOT_TOKEN_AUTO` / `TELEGRAM_CHAT_ID_AUTO`) secrets.
+
 ## Get alerts on your phone (pick one, about 3 minutes)
 
 ### Option A: ntfy (easiest, no account)
@@ -72,6 +104,8 @@ from those lists that use a tracking system the radar didn't know are added to t
 | `companies.csv` | Auto-built list of company job boards (rebuilt weekly) |
 | `companies_custom.csv` | Your own companies (never overwritten) |
 | `config.yaml` | Matching and scoring rules |
+| `profiles/automotive/` | Auto Radar: its rules, employer boards and coverage notes |
+| `REPORT_AUTOMOTIVE.md`, `data/automotive/` | Auto Radar report, match history and state |
 
 ## Notes
 
