@@ -45,7 +45,7 @@ def one(line: str) -> str:
                     out.append(f"wd{n} sites={sites}")
             return f"WD {t}: " + (" | ".join(out) or "-")
         url = parts[1]
-        if kind == "POST":
+        if kind in ("POST", "PKEYS"):
             r = requests.post(url, json=json.loads(parts[2]) if len(parts) > 2 else {}, headers=H, timeout=(8, 25))
         else:
             r = get(url)
@@ -63,6 +63,14 @@ def one(line: str) -> str:
                                 r"glassdoor|indeed|wikipedia|maps|fonts|analytics|tagmanager|optimizely|qualtrics", h, re.I)})[:30]
             title = re.search(r"<title[^>]*>(.*?)</title>", text, re.S | re.I)
             return f"{head}\n   title={re.sub(r'\\s+', ' ', title.group(1))[:80] if title else ''}\n   hints={hints}\n   hosts={hosts}"
+        if kind in ("KEYS", "PKEYS"):
+            def shape(x, d=0):
+                if isinstance(x, dict):
+                    return {k: shape(v, d + 1) for k, v in list(x.items())[:60]} if d < 3 else "{..}"
+                if isinstance(x, list):
+                    return [shape(x[0], d + 1), f"len={len(x)}"] if x else []
+                return str(x)[:70]
+            return head + "\n   " + json.dumps(shape(r.json()), ensure_ascii=False)[:2600]
         if kind == "SNIP":
             pat = re.compile(parts[2], re.I | re.S)
             flat = re.sub(r"\s+", " ", text)

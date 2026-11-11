@@ -1,59 +1,14 @@
-GET https://nxp.myworkdayjobs.com/careers
-WDX nxp
-WDX harman
-WDX honda
-WDX hyundai
-WDX kia
-WDX garmin
-WDX tenneco
-WDX marelli
-WDX harleydavidson
-HOSTS https://careers-americas.hyundai.com/
-HOSTS https://komatsu.jobs/
-HOSTS https://jobs.doosan.com/
-HOSTS https://jobs.mercedes-benz.com/
-HOSTS https://jobs.volkswagen-group.com/
-HOSTS https://careers.harman.com/
-GET https://careers.garmin.com/api/jobs?limit=1&page=1
-HOSTS https://brp.phenompro.com/
-HOSTS https://careers.brp.com/
-SNIP https://jobs.bmwgroup.com/search/?q=embedded&locationsearch= (jobTitle|job-tile|data-row|search-results|noresults|no-results)
-SNIP https://careers.te.com/search/?q=embedded&locationsearch= (jobTitle|job-tile|data-row|search-results|noresults|no-results)
-SNIP https://join.cnh.com/search/?q=embedded&locationsearch= (jobTitle|job-tile|data-row|noresults|no-results)
-POST https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs {"appliedFacets":{"locationCountry":["bc33aa3152ec42d4995f4791a106ed09"]},"limit":20,"offset":0,"searchText":"AUTOSAR"}
-POST https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs {"appliedFacets":{},"limit":20,"offset":0,"searchText":"AUTOSAR"}
-POST https://aptiv.wd5.myworkdayjobs.com/wday/cxs/aptiv/APTIV_CAREERS/jobs {"appliedFacets":{"locationCountry":["bc33aa3152ec42d4995f4791a106ed09"]},"limit":20,"offset":0,"searchText":"AUTOSAR"}
-POST https://valeo.wd3.myworkdayjobs.com/wday/cxs/valeo/valeo_jobs/jobs {"appliedFacets":{"locationCountry":["bc33aa3152ec42d4995f4791a106ed09"]},"limit":20,"offset":0,"searchText":"software"}
-POST https://wd3.myworkdaysite.com/wday/cxs/magna/Magna/jobs {"appliedFacets":{"locationCountry":["bc33aa3152ec42d4995f4791a106ed09"]},"limit":20,"offset":0,"searchText":"software"}
-POST https://nidec.wd1.myworkdayjobs.com/wday/cxs/nidec/nidec/jobs {"appliedFacets":{"locationCountry":["bc33aa3152ec42d4995f4791a106ed09"]},"limit":20,"offset":0,"searchText":"software"}
-POST https://stellantis.wd3.myworkdayjobs.com/wday/cxs/stellantis/External_Career_Site_ID01/jobs {"appliedFacets":{},"limit":20,"offset":0,"searchText":"embedded"}
-POST https://fca.wd3.myworkdayjobs.com/wday/cxs/fca/FCA_Careers/jobs {"appliedFacets":{},"limit":20,"offset":0,"searchText":"embedded"}
-GET https://jobsapi-google.m-cloud.io/api/job?Organization=2016&limit=2&offset=1&SearchText=AUTOSAR
-GET https://jobsapi-internal.m-cloud.io/api/job?Organization=2016&Limit=2&Offset=1&SearchText=AUTOSAR
-SNIP https://careers.stellantis.com/job-search-results/ (jobsapi_search_url|jobsapi_job_url|jobsapi_job_params)
-SNIP https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm (jobfinder/stellen/[^"]+)
-HOSTS https://careers.marelli.com/
-HOSTS https://jobs.tenneco.com/
-HOSTS https://careers.harley-davidson.com/
-HOSTS https://careers.mobileye.com/
-HOSTS https://careers.ltts.com/
-HOSTS https://careers.ricardo.com/
-HOSTS https://www.fev.com/en/career/job-offers.html
-HOSTS https://careers.international.com/
-HOSTS https://www.vinfastauto.us/careers
-HOSTS https://jobs.panasonic.com/
-HOSTS https://careers.na.panasonic.com/
-HOSTS https://www.mobis.com/en/careers
-HOSTS https://careers.adient.com/
-HOSTS https://careers.aumovio.com/
-HOSTS https://careers.hyundaimobis.com/
-HOSTS https://www.etas.com/ww/en/careers/
-HOSTS https://www.tesla.com/careers/search/?query=embedded
-HOSTS https://www.mathworks.com/company/jobs/opportunities/search?q=simulink
-HOSTS https://jobs.apple.com/en-us/search?search=embedded
-HOSTS https://careers.kia.com/
-HOSTS https://www.kiacareers.com/
-HOSTS https://www.lhpes.com/
-HOSTS https://www.danlawinc.com/
-HOSTS https://www.dorleco.com/careers/
-HOSTS https://ev.careers/
+KEYS https://jobsapi-internal.m-cloud.io/api/job?Organization=2016&Limit=1&Offset=1&SearchText=AUTOSAR
+KEYS https://jobsapi-internal.m-cloud.io/api/job?Organization=2016&Limit=1&Offset=1&SortField=open_date&SortDir=desc
+PKEYS https://nxp.myworkdayjobs.com/wday/cxs/nxp/careers/jobs {"appliedFacets":{},"limit":20,"offset":0,"searchText":"embedded"}
+PKEYS https://join.cnh.com/services/recruiting/v1/jobs {"locale":"en_US","pageNumber":0,"sortBy":"","keywords":"embedded","location":"","facetFilters":{},"brand":"","skills":[],"categoryId":0,"alertId":"","rcmCandidateId":""}
+PKEYS https://jobs.bmwgroup.com/services/recruiting/v1/jobs {"locale":"en_US","pageNumber":0,"sortBy":"","keywords":"embedded","location":"","facetFilters":{},"brand":"","skills":[],"categoryId":0,"alertId":"","rcmCandidateId":""}
+PKEYS https://careers.te.com/services/recruiting/v1/jobs {"locale":"en_US","pageNumber":0,"sortBy":"","keywords":"embedded","location":"","facetFilters":{},"brand":"","skills":[],"categoryId":0,"alertId":"","rcmCandidateId":""}
+SNIP https://jobs.bmwgroup.com/search/?q=embedded&locationsearch= (<body.{0,200}|services/recruiting|searchresults|job-results)
+SNIP https://careers.te.com/search/?q=embedded&locationsearch= (services/recruiting|searchresults|job-results|<main)
+SNIP https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm (stellen/|Wixom)
+HOSTS https://www.harman.com/careers
+HOSTS https://careers.honda.com/us/en/search-results?keywords=embedded
+PKEYS https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs {"appliedFacets":{},"limit":1,"offset":0,"searchText":"software"}
+PKEYS https://wd3.myworkdaysite.com/wday/cxs/magna/Magna/jobs {"appliedFacets":{},"limit":1,"offset":0,"searchText":"software"}
+PKEYS https://aptiv.wd5.myworkdayjobs.com/wday/cxs/aptiv/APTIV_CAREERS/jobs {"appliedFacets":{},"limit":1,"offset":0,"searchText":"software"}

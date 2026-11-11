@@ -560,14 +560,16 @@ def eightfold_detail(job: Job) -> None:
 
 # ------------------------------------------------------------------ Jibe (iCIMS Attract)
 
-def jibe_list(b: Board, limit: int = 100, max_pages: int = 3) -> list[Job]:
+def jibe_list(b: Board, limit: int = 100, max_pages: int = 3, search: str = "") -> list[Job]:
+    """`search` runs the site's own keyword search (title and description) instead of listing by date."""
     host = b.board
     url = f"https://{host}/api/jobs"
     robots.check(url)
     jobs, seen = [], set()
     for page in range(1, max_pages + 1):
-        data = get_json(url, params={"page": page, "limit": limit, "sortBy": "posted_date", "descending": "true",
-                                     "internal": "false"})
+        params = {"page": page, "limit": limit, "internal": "false"}
+        params.update({"keywords": search} if search else {"sortBy": "posted_date", "descending": "true"})
+        data = get_json(url, params=params)
         rows = data.get("jobs") or []
         for row in rows:
             j = row.get("data") or row
@@ -581,6 +583,7 @@ def jibe_list(b: Board, limit: int = 100, max_pages: int = 3) -> list[Job]:
                              countries=[j["country_code"]] if j.get("country_code") else ([j["country"]] if j.get("country") else []),
                              posted_at=parse_when(j.get("posted_date") or j.get("create_date")),
                              workplace=_wp(j.get("location_type") or ""),
+                             found_by=search,
                              description=html_to_text(j.get("description") or "") +
                                          "\n" + html_to_text(j.get("qualifications") or "")))
         if not rows or len(seen) >= int(data.get("totalCount") or 0):

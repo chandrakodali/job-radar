@@ -32,6 +32,7 @@ SEARCHERS = {
     "eightfold": lambda b, term, pages: ats_more.eightfold_list(b, num=pages * 10, search=term),
     "phenom": lambda b, term, pages: ats_more.phenom_list(b, max_pages=1, search=term),
     "sfrmk": lambda b, term, pages: ats_more.sfrmk_search(b, term, max_pages=pages),
+    "jibe": lambda b, term, pages: ats_more.jibe_list(b, max_pages=pages, search=term),
 }
 
 
@@ -47,6 +48,8 @@ def base_list(b: Board, opts: dict) -> list[Job]:
         return ATS.oracle_list(b, max_pages=pages, max_age_days=days)
     if b.ats == "greenhouse":
         return ATS.greenhouse_list(b, content=True)
+    if b.ats == "jibe":
+        return ats_more.jibe_list(b, max_pages=max(3, pages // 2))
     return ATS.LISTERS[b.ats](b)
 
 
