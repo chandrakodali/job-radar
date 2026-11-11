@@ -17,6 +17,7 @@ log = logging.getLogger("careers_scan.radar_link")
 ROOT = "careers_scan"
 OUT = os.path.join(ROOT, "data", "radar_boards.csv")
 RADAR_LISTS = ("companies.csv", "companies_custom.csv", "discovered.csv")
+SUBDOMAIN_ATS = {"recruitee", "bamboohr", "breezy", "pinpoint", "jazzhr", "teamtailor"}  # board = x in x.vendor.com
 
 
 def _segs(path: str) -> list[str]:
@@ -123,6 +124,8 @@ def build(classified: list[dict], known: set[str]) -> list[dict]:
         key = f"{ats}:{board}".lower()
         if key in known or key in seen or not re.fullmatch(r"(eu:|@)?[\w.\-|@]+", board):
             continue
+        if ats in SUBDOMAIN_ATS and not re.fullmatch(r"[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?", board.lower()):
+            continue  # not a valid host label (e.g. JazzHR's temporary "20210212011927_x" ids)
         seen.add(key)
         out.append({"ats": ats, "board": board, "company": r.get("name") or board, "domain": r.get("domain", "")})
     out.sort(key=lambda x: (x["ats"], x["board"].lower()))

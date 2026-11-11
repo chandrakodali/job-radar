@@ -488,6 +488,7 @@ dover,loombotic,Loombotic,loombotic.com
 dover,metalware,Metalware,metalware.com
 dover,mindfi,MindFi,mindfi.co
 dover,mixrank,MixRank,mixrank.com
+dover,Orthogonal,Orthogonal,orthogonal.com
 dover,prohost,ProhostAI,prohost.ai
 dover,rabbet,Rabbet,rabbet.com
 dover,redbarnrobotics,Red Barn Robotics,redbarnrobotics.com
@@ -496,6 +497,7 @@ dover,vendora,Vendora,vendora.io
 dover,videogen,VideoGen,videogen.io
 dover,volantio,Volantio,volantio.com
 dover,weaverobotics,Weave Robotics,weaverobotics.com
+dover,zinc,Zinc,zinc.com
 gem,allia-health,Allia Health,allia.health
 gem,astroforge-io,AstroForge,astroforge.io
 gem,aviary,AviaryAI,helloaviary.ai
@@ -706,7 +708,6 @@ greenhouse,wizeline,Wizeline,wizeline.com
 greenhouse,zbioticscompany,ZBiotics,zbiotics.com
 greenhouse,zerocater,Zerocater,zerocater.com
 greenhouse,zupinnovation,Zup,zup.com.br
-jazzhr,20210212011927_km2wepjdtq3fzqjf,SweetRush,sweetrush.com
 jazzhr,afriexinc,Afriex,afriexapp.com
 jazzhr,arangodb,ArangoDB,arangodb.com
 jazzhr,bitovi,Bitovi,bitovi.com
@@ -726,6 +727,7 @@ jobvite,liferay,Liferay,liferay.com
 jobvite,liquidweb,Modern Tribe,tri.be
 jobvite,oreilly-media,O'Reilly Media,oreilly.com
 jobvite,reveal,Onna,onna.com
+lever,15five,15Five,15five.com
 lever,90seconds,90 Seconds,90seconds.com
 lever,activecampaign,activecampaign,activecampaign.com
 lever,aerostrat,Aerostrat,aerostratsoftware.com
@@ -738,10 +740,12 @@ lever,arraylabs.io,Array Labs,arraylabs.io
 lever,articulate,Articulate,articulate.com
 lever,bazaarvoice,addstructure,bazaarvoice.com
 lever,bloom,Bloom,bloomapp.com
+lever,BloomTech,Bloom Institute of Technology,bloomtech.com
 lever,blue,Blue,heyblue.com
 lever,bluecatnetworks,BlueCat Networks,bluecatnetworks.com
 lever,bounteous,Bounteous,bounteous.com
 lever,britecore,BriteCore,britecore.com
+lever,captivateiq,CaptivateIQ,captivateiq.com
 lever,charitywater,charity: water,charitywater.org
 lever,Cofactr,Cofactr,cofactr.com
 lever,collabora,Collabora,collabora.com
@@ -771,6 +775,7 @@ lever,Instrumentl,Instrumentl,instrumentl.com
 lever,jitxinc,JITX,jitx.com
 lever,joingerald,"Gerald Technologies, Inc",joingerald.com
 lever,kinsta,Kinsta,kinsta.com
+lever,leverdemo,Rill Data,rilldata.com
 lever,lifen,Lifen,lifen.health
 lever,logrocket,LogRocket,logrocket.com
 lever,marcopolo,Marco Polo,marcopolo.me
@@ -787,6 +792,7 @@ lever,picktrace,PickTrace,picktrace.com
 lever,polleverywhere,Poll Everywhere,polleverywhere.com
 lever,postera,PostEra,postera.ai
 lever,prominentedge,Prominent Edge,prominentedge.com
+lever,quartzy,Quartzy,quartzy.com
 lever,rainforest,Rainforest,rainforestqa.com
 lever,ramenvr,Ramen VR,ramenvr.com
 lever,reachpower,Reach,reachpower.com
@@ -815,6 +821,7 @@ lever,toptal,Adeva,adevait.com
 lever,tovala,Tovala,tovala.com
 lever,trela,Trela,trela.com.br
 lever,trellis,Trellis,trellistech.com
+lever,tryjeeves,Jeeves,tryjeeves.com
 lever,twodots,Two Dots,twodots.com
 lever,vergesense,VergeSense,vergesense.com
 lever,verifiable,Verifiable,verifiable.com
@@ -929,3 +936,18 @@ workable,whitespectre,Whitespectre,whitespectre.com
 workable,workbrew,Workbrew,workbrew.com
 workable,wp-media,WP-Media,wp-media.me
 workable,writesonic,Writesonic,writesonic.com
+workday,browserstack|wd3|External,Requestly,requestly.com
+workday,cloudera|wd5|External_Career,Cloudera,cloudera.com
+workday,communitybrands|wd1|Momentive_External_Careers,Core-Apps,core-apps.com
+workday,extremenetworks|wd503|Extreme_Networks,Extreme Networks,extremenetworks.com
+workday,flowable|wd502|Flowable,Flowable,flowable.com
+workday,modsquad|wd5|ModSquad_Contractor,MODSQUAD,modsquad.com
+workday,rackspace|wd1|External,Rackspace,rackspace.com
+workday,rakuten|wd1|RakutenTravelXchange,Rakuten Travel Xchange,rakuten.com
+workday,rappi|wd12|es,Rappi,rappi.com
+workday,redhat|wd5|jobs,CoreOS,coreos.com
+workday,safeguardglobal|wd3|External_Careers,Safeguard Global,safeguardglobal.com
+workday,salesforce|wd1|External_Career_Site,Salesforce,salesforce.com
+workday,suse|wd3|Jobsatsuse,SUSE,suse.com
+workday,theplanetgroup|wd504|TPGCareers,The Planet Group,theplanetgroup.com
+workday,wonder|wd1|Grubhub_Careers,Grubhub,grubhub.com

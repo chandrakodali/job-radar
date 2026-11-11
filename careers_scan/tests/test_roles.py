@@ -244,6 +244,7 @@ def test_radar_link_build_skips_known_and_duplicates():
             {"category": "ats_probe", "ats_url": "https://jobs.ashbyhq.com/newco", "name": "NewCo", "domain": "newco.ai"},
             {"category": "ats", "ats_url": "https://jobs.ashbyhq.com/NewCo", "name": "NewCo", "domain": "newco.ai"},
             {"category": "email", "ats_url": "https://jobs.lever.co/zzz", "name": "Z", "domain": "z.com"},
-            {"category": "ats", "ats_url": "https://grnh.se/abc", "name": "Short", "domain": "s.com"}]
+            {"category": "ats", "ats_url": "https://grnh.se/abc", "name": "Short", "domain": "s.com"},
+            {"category": "ats", "ats_url": "https://20210212011927_km2w.applytojob.com/apply", "name": "J", "domain": "j.com"}]
     out = radar_link.build(rows, {"lever:acme"})
     assert [(x["ats"], x["board"]) for x in out] == [("ashby", "newco")]
