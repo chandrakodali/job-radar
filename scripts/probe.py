@@ -66,7 +66,7 @@ def one(line: str) -> str:
         if kind in ("KEYS", "PKEYS"):
             def shape(x, d=0):
                 if isinstance(x, dict):
-                    return {k: shape(v, d + 1) for k, v in list(x.items())[:60]} if d < 3 else "{..}"
+                    return {k: shape(v, d + 1) for k, v in list(x.items())[:60]} if d < 6 else "{..}"
                 if isinstance(x, list):
                     return [shape(x[0], d + 1), f"len={len(x)}"] if x else []
                 return str(x)[:70]

@@ -1,14 +1,8 @@
-KEYS https://jobsapi-internal.m-cloud.io/api/job?Organization=2016&Limit=1&Offset=1&SearchText=AUTOSAR
-KEYS https://jobsapi-internal.m-cloud.io/api/job?Organization=2016&Limit=1&Offset=1&SortField=open_date&SortDir=desc
-PKEYS https://nxp.myworkdayjobs.com/wday/cxs/nxp/careers/jobs {"appliedFacets":{},"limit":20,"offset":0,"searchText":"embedded"}
-PKEYS https://join.cnh.com/services/recruiting/v1/jobs {"locale":"en_US","pageNumber":0,"sortBy":"","keywords":"embedded","location":"","facetFilters":{},"brand":"","skills":[],"categoryId":0,"alertId":"","rcmCandidateId":""}
-PKEYS https://jobs.bmwgroup.com/services/recruiting/v1/jobs {"locale":"en_US","pageNumber":0,"sortBy":"","keywords":"embedded","location":"","facetFilters":{},"brand":"","skills":[],"categoryId":0,"alertId":"","rcmCandidateId":""}
-PKEYS https://careers.te.com/services/recruiting/v1/jobs {"locale":"en_US","pageNumber":0,"sortBy":"","keywords":"embedded","location":"","facetFilters":{},"brand":"","skills":[],"categoryId":0,"alertId":"","rcmCandidateId":""}
-SNIP https://jobs.bmwgroup.com/search/?q=embedded&locationsearch= (<body.{0,200}|services/recruiting|searchresults|job-results)
-SNIP https://careers.te.com/search/?q=embedded&locationsearch= (services/recruiting|searchresults|job-results|<main)
-SNIP https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm (stellen/|Wixom)
-HOSTS https://www.harman.com/careers
-HOSTS https://careers.honda.com/us/en/search-results?keywords=embedded
-PKEYS https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs {"appliedFacets":{},"limit":1,"offset":0,"searchText":"software"}
-PKEYS https://wd3.myworkdaysite.com/wday/cxs/magna/Magna/jobs {"appliedFacets":{},"limit":1,"offset":0,"searchText":"software"}
-PKEYS https://aptiv.wd5.myworkdayjobs.com/wday/cxs/aptiv/APTIV_CAREERS/jobs {"appliedFacets":{},"limit":1,"offset":0,"searchText":"software"}
+PKEYS https://join.cnh.com/services/recruiting/v1/jobs {"locale":"en_US","pageNumber":1,"sortBy":"","keywords":"embedded","location":"","facetFilters":{},"brand":"","skills":[],"categoryId":0,"alertId":"","rcmCandidateId":""}
+PKEYS https://careers.te.com/services/recruiting/v1/jobs {"locale":"en_US","pageNumber":0,"sortBy":"","keywords":"embedded software","location":"United States","facetFilters":{},"brand":"","skills":[],"categoryId":0,"alertId":"","rcmCandidateId":""}
+PKEYS https://nxp.myworkdayjobs.com/wday/cxs/nxp/careers/jobs {"appliedFacets":{},"limit":1,"offset":20,"searchText":"embedded"}
+PKEYS https://generalmotors.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs {"appliedFacets":{},"limit":1,"offset":0,"searchText":"embedded"}
+PKEYS https://harman.myworkdayjobs.com/wday/cxs/harman/HARMAN/jobs {"appliedFacets":{},"limit":1,"offset":0,"searchText":""}
+GET https://jobsapi-internal.m-cloud.io/api/job?Organization=2016&Limit=2&Offset=801
+GET https://jobsapi-internal.m-cloud.io/api/job?Organization=2016&Limit=1&Offset=1&facet=primary_country:US
+SNIP https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm?fuseaction=einzel&jid=38016 (<h1|Wixom)
