@@ -17,10 +17,9 @@ We’ve worked at leading companies like Jane Street, Citadel, Google, and Micro
 Open Roles
 We’re a small team that is growing fast, and we’re hiring across all levels: early-career engineers, senior researchers, and managers. If this sounds exciting to you, apply here .
 OSS Ecosystem Lead
-$180K–370K + generous equity
-Work with open source maintainers, foundations, and security teams to coordinate responsible disclosure at unprecedented scale.
-Systems Engineer
 $200K–500K + generous equity
+Work with open source maintainers, foundations, and security teams to coordinate responsible disclosure at unprecedented scale. Help develop Theorem’s open source strategy.
+Systems Engineer
 We’re hiring for engineers who have deep expertise across one or more of: systems, security, formal verification, compilers, computer architecture, high performance computing, or hardware acceleration.
 ML Researcher
 Teach models to tackle software problems that take more than a human lifetime to solve.

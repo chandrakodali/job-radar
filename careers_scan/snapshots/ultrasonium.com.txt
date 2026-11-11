@@ -19,15 +19,9 @@ We are looking for a Computational Modeling and Simulation Specialist to develop
 Electrical Engineering Intern
 Electrical Engineering Full-time or part-time Woburn or Cambridge, MA Current student or recent graduate 2 positions
 We are looking for a motivated Electrical Engineering Intern to help design, assemble, and test the electronic systems that power our platform.
-Mechanical Engineer
-Mechanical Engineering Full-time or part-time Woburn or Cambridge, MA 1–5 years 1 position
-We are looking for a Mechanical Engineer to design and develop the mechanical systems for our platform.
-Mechanical Engineering Intern
-Mechanical Engineering Full-time or part-time Woburn or Cambridge, MA Current student or recent graduate 2 positions
-We are looking for a motivated Mechanical Engineering Intern to help design and develop the mechanical systems for our platform.
-Robotics Engineer
-Robotics Engineering Full-time or part-time Woburn or Cambridge, MA 1–5 years 1 position
-We are looking for a Robotics Engineer to help develop the next generation of our platform.
+Junior Software Engineer
+Software Engineering Full-time Woburn or Cambridge, MA 0–2 years 1 position
+We are looking for a Junior Software Engineer to build and operate the web applications and services that support our platform, and to help the other engineering teams with software and firmware.
 Administrative Assistant
 Operations Full-time Woburn or Cambridge, MA 2+ years 1 position
 We are looking for a highly organized, proactive Administrative Assistant to support the founding team and broader operations at Ultrasonium.

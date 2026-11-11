@@ -41,7 +41,7 @@ Live public job posts. You can also pull the same signal into your own tools thr
 Who does it contact, the recruiter or the manager?
 Whoever you choose. Most teams pick the manager the role reports to, since they own the problem.
 Will it get my LinkedIn account flagged?
-PumpGTM sends from your own account at a human pace, inside working hours and well under LinkedIn's weekly limits. You approve the people and the messages before anything goes out.
+PumpGTM sends from your own account at a human pace, inside working hours, under a daily cap you set of up to 30 connection requests a day. You approve the people and the messages before anything goes out.
 Which channels does it send on?
 LinkedIn, email and X, from accounts you connect yourself. One lead list sits behind every channel, so nobody gets contacted twice, and follow-ups stop the moment someone replies.
 Keep reading

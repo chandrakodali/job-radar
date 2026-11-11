@@ -25,4 +25,5 @@ services
 Fractional CTO Frontend Development Backend Development AI Enablement Marketing Systems
 INDUSTRIES
 Parts & Manufacturing B2B & Wholesale Retail & Homegoods Food & Beverage
+Terms and Conditions
 Ambaum is a hands-on Shopify Premier Partner agency built by merchants for merchants, providing strategy, development, and senior-level leadership and support for complex eCommerce brands in parts and manufacutring, wholesale and B2B, retail, and food and beverage.

@@ -1,102 +1,106 @@
-In the following sections, we will shed some light on our general philosophy with regard to
-team-members, work and rewards. It is a summary of what you can expect from us and what we expect
+In the following sections, we shed some light on our general philosophy with regard to
+team members, work and rewards. It is a summary of what you can expect from us and what we expect
 from you. Parts of it may, of course, evolve over time, but this best reflects our current views.
-Division of Work
+Division of work
 The Transloadit team works with a single GitHub project board of ideas, "The Board", which is shared
-internally. All team-members are welcome to refine and contribute to these ideas as we go along.
-We encourage team-members pick the ideas they want to work on, based on what interests them.
-Transloadit is currently in a great spot, with the founders still actively contributing to projects.
-This means that unless there is some critical issue, we want our team-members to work on things that
-genuinely excite them.
-We believe that this approach creates a sound work environment, in which happy team-members can
+internally. All team members are welcome to refine and contribute to these ideas as we go along.
+We encourage team members to pick the ideas they want to work on, based on what interests them.
+Transloadit is currently in a great spot, with both founders actively contributing to projects.
+This means that, unless there is some critical issue, we want our team members to work on things
+that genuinely excite them.
+We believe that this approach creates a sound work environment, in which happy team members can
 focus on developing excellent products. Outstanding products ⏩ satisfied customers ⏩ more
-customers ⏩ successful company. It's no rocket science, everyone wins. 🚀
-To keep our entire team involved with our customers, we do ask that everyone is capable of answering
-customer questions to a reasonable degree. The reason behind this request is our desire to keep
-everyone working at Transloadit in touch with the hand that feeds us, and to offer customers help
-directly from the experts.
+customers ⏩ successful company. It's not rocket science, everyone wins. 🚀
+To keep our entire team involved with our customers, we do expect everyone to be capable of
+answering customer questions to a reasonable degree. The reason behind this request is our desire
+to keep everyone working at Transloadit in touch with the hand that feeds us, and to offer
+customers help directly from the experts.
 Pay
-Why Are You Disclosing Salaries Along With Job Openings?
-We like transparency. We dislike making money off the back of team-members who happen to be poor
-negotiators. The pay that is advertised is what we can afford to spend on the position at that time.
-Your negotiating skills and our biases should not be a factor in determining the compensation for
-your work.
+Why are you disclosing salaries along with job openings?
+We like transparency. We dislike making money off the back of team members who don't happen to be
+hawkish negotiators. The pay that is advertised is what we can afford to spend on the position at
+that time. Your negotiating skills and our biases should not be a factor in determining the
+compensation for your work.
 🚨 Should you choose to take the job, this means that people who have read the vacancy could deduce
-how much money you are making (minus taxes, bonuses, raises). We are sorry about this side-effect,
-but we feel transparency is the best way for you to be sure that the same applies to all candidates
-for the same position and that there is nothing shady going on.
-Can I Buy a Rolex?
-Our pay is not yet on par with some of the well-funded VC-backed Bay Area companies. So if you are
+how much money you are making (minus taxes, bonuses, raises). We are sorry about this side effect,
+but we feel transparency is the best way. With this information out in the open, you can be sure
+that the same applies to all candidates for the same position, and that there is nothing shady
+going on.
+Can I buy a Rolex?
+Our pay is not yet on par with some of the well-funded VC-backed Bay Area companies. If you are
 intent on buying that Rolex very soon, you should not apply at Transloadit. We are bootstrapped and
 100% VC-free . ✅
-We do however seek to give everyone involved fair compensation for their time invested in
-Transloadit. It should also be noted that not being beholden to shareholders value allows us to
-optimize for goals other than "5X return in 5 years" without caring too much what's left behind when
-that is achieved. Goals such as employee satisfaction.
-What Are the Perks Besides Pay?
-As a Developer: Mainly (or fully) working on open source projects
-Working remotely
-Flexible working hours
-Picking your projects based on interest
-A transparent, open-minded and distraction-free work environment
-Being part of a great team of skilled and passionate people
-Time to improve your skills and explore your interests
-Company-sponsored trips and conference passes
+We do, however, seek to give everyone involved fair compensation for their time invested in
+Transloadit. It should also be noted that not being beholden to shareholder value allows us to
+optimize for goals other than “quintuple returns in five years”, without caring too much about
+what's left behind when this is achieved.
+One key goal we prefer to optimize for instead is employee satisfaction.
+What are the perks besides pay?
+as a developer: mainly (or fully) working on open-source projects
+working remotely
+flexible working hours
+picking your projects based on interest
+a transparent, open-minded and distraction-free work environment
+being part of a great team of skilled and passionate people
+time to improve your skills and explore your interests
+company-sponsored trips and conference passes
 Kindles with an unlimited book budget (fair use policy applies)
 Machine-purchasing budget for near-fulltimers
 Billable time to play video games with the team
-Will There Be Raises?
+Will there be raises?
 Yes. As people pick up more skills, become more proficient, and as Transloadit generates more
-profit, there will be corresponding raises. They are transparent internally upon request.
-Will There Be Bonuses?
-Besides christmas gifts, we haven't given out Bonuses. If we decide to do so in the future, they
+profit, there will be corresponding raises. These are transparent internally upon request.
+Will there be bonuses?
+Besides Christmas gifts, we haven't given out bonuses. If we decide to do so in the future, they
 will be transparent internally upon request.
-Off-time
+Time off
 Our founder Kevin has experienced burnout first-hand, making us exceptionally mindful towards
-life/work boundaries. We all still have the brain that we had 50,000 years ago, but we are using it
-in radically more demanding ways today. It is good to be aware of the
+life/work boundaries. We all still have the brain that we had fifty thousand years ago, but we are
+using it in radically more demanding ways today. It is good to be aware of the
 harmful side effects that this can have. We all work
 hard and make a dent, but consider unwinding to be as important as eating or sleeping.
 We want to make sure nobody at Transloadit is being overworked. To illustrate this point: we
 regularly go sporting during office hours or spend some time with our kids. As long as you are
-serious about getting something done at some point, you should be doing the same. 9-to-5 has
-outlived its relevance. Is the wind good now ? Just give us the heads up, and go kite. Your project
-will wait and we can cover for you.
-We had initially thought to let our team-members take as many vacation days as they needed, but that
-turned out to sometimes
+serious about getting something done at some point, you should be doing the same. ‘Nine to five’ has
+outlived its relevance. Is the wind good now ? Just give us the heads up, and go fly your kite.
+Your project will wait and we can cover for you.
+We had initially thought to let our team members take as many vacation days as they needed, but it
+turns out that such a policy is prone to
 backfire in an
 unexpected way. For that reason, we have since settled on a minimum of 30 days off per year for a
-full-time position, out of which the first 30 are paid for by Transloadit. And off means off.
+full-time position. The first 30 days are paid for by Transloadit. And off means off.
 This is far from selfless devotion. We believe that this will benefit us greatly in the long run.
 Transloadit's most important asset is a genuinely happy team, healthy and energized.
-Working Remotely
+Working remotely
 There is no office. *waves hand*
-The two co-founders live in Berlin and Amsterdam, that's a six hour train ride apart. The rest of
+The two co-founders live in Berlin and Amsterdam. That's a six-hour train ride apart. The rest of
 the team is spread across the globe 🌏
 This means that we do not have a shared office space, outside of the virtual one that is powered by
 Slack and GitHub. So you can work from anywhere in the world (although for
 some roles a CET ±4h worktime overlap is required). Compared to remote work, where some employees
-work from an office, having no office puts everone on equal footing, you won't be missing out on
-parties, inside jokes, quick discussions at the watercooler. Everything happens digitally,
-transparently, remotely, and can for most part be followed in async.
-We do all meet up in alternating founder cities for company-sponsored drinks & hacks in real
-life about once a year, pandemics allowing. In addition we have smaller more focused meetups where
+work from an office, having no office puts everyone on equal footing. You won't be missing out on
+parties, inside jokes, or quick discussions at the watercooler. Everything happens digitally,
+transparently, remotely – and can for the most part be followed asynchronously.
+We do all meet up for company-sponsored get-togethers & hacking
+sessions in real life about once a year. In addition, we have smaller, more focused meetups where
 it makes sense. This usually means finding some place central, visiting a conference together or
-going to each other's cities . If your area has decent food
-and Wi-Fi there's a good chance we'll be visiting! 😄
-Mandatory AOEII Fridays
-Just kidding! Feel free to skip, but since Transloadit's team is spread across continents 🌍 we
-don’t see each other in person very often. To compensate, there are weekly gaming sessions on Friday
-🕹 — we all get online, voice chat and play some
-Age of Empires
-(through PlayOnMac on macOS and Steam Play Proton on Linux). Gaming should be fun so nothing is
-mandatory about it. Founders just provide the platform, games, billable time — and who joins
-joins, who doesn't doesn't.
+visiting each other’s cities . If your area has decent food
+and Wi-Fi, there's a good chance we'll be visiting! 😄
+Mandatory Age of Empires II Fridays
+Just kidding! Feel free to skip.
+Since Transloadit's team is spread across continents 🌍 we don’t see each other in person very often.
+To compensate, there are weekly gaming sessions on Friday 🕹 — we all get online, voice chat and play
+some
+Age of Empires II
+(through PlayOnMac on macOS and Steam Play Proton on Linux). Gaming should be fun, so nothing is
+mandatory about it. Founders just provide the platform, games, billable time. Who joins joins, who
+doesn't doesn't.
 Protip: use ethernet when possible.
-It's tricky to find games that A) have an engaging multiplayer B) work well across platforms C)
-tolerate high pings. Other games we're so far having fun with are
+It's tricky to find games that a) have an engaging multiplayer, b) work well across platforms, and
+c) tolerate high pings. Other games we're so far having fun with are:
 Rocket League ,
-Krunker , Among Us , skribbl , and
+Krunker , Among Us ,
+skribbl , and
 Don't Starve Together .
 Expectations
 Take the lead. Communicate. Be curious. Be pleasant. Set your own todos/reminders.
@@ -107,16 +111,16 @@ others overwork themselves. If this happens, we will notice and step in. It migh
 used to. That's fine.
 However, if you already know beforehand that you are someone who thrives by having clear boundaries,
 targets, deadlines and face-to-face contact (which is totally valid), Transloadit may not be the
-right choice for you. If we continuously find ourselves 'managing' you, we'll let you know, and
-ultimately, we'll have to part ways, as that is just not the type of company that we can, nor want
+right choice for you. If we continuously find ourselves 'managing' you, we'll let you know.
+Ultimately, we'll have to part ways, as that is simply not the type of company that we can, nor want
 to be.
 Communication
 We are relaxed about pretty much everything, so long as you contribute and communicate. The one
 thing, however, we try not to compromise on is our weekly team call on Monday. Besides that, whether
 you're going out swimming or booked a last-minute getaway – just let us know when you know, and
 enjoy!
-Offline focus windows are encouraged. Other moments you work for us, be present in Slack. This lets
-us stay connected.
+When you are doing work for us, and your focus allows for it, we ask that you be present in Slack.
+This lets us stay connected. Offline focus time is highly encouraged, however.
 Use the most public channel possible for your conversations. We value transparency and everyone
 should be able to follow what's going on if they wanted. DMs are reserved for billing and sensitive
 matters.
@@ -126,25 +130,25 @@ genuine effort to excel. When mistakes are made, we look forward to see what we 
 and prevent them.
 Behavior
 We want Transloadit to breathe a welcoming atmosphere. That is why we keep a close watch on any of
-these unacceptable forms of behavior, adapted from the
+the following unacceptable forms of behavior, adapted from the
 Contributor Covenant 1.2.0 :
-The use of sexualized language or imagery
-Personal attacks
-Trolling or insulting/derogatory comments
-Public or private harassment
-Publishing other's private information, such as physical or electronic addresses, without explicit
+the use of sexualized language or imagery
+personal attacks
+trolling or insulting/derogatory comments
+public or private harassment
+publishing others' private information, such as physical or electronic addresses, without explicit
 permission
-Other unethical or unprofessional conduct
-We strive to be excellent ourselves and we do our best to demonstrate that in our hiring policy as
+other unethical or unprofessional conduct
+We strive to be excellent ourselves and we do our best to demonstrate this in our hiring policy as
 well. Because of this, you should initially always assume good intent on behalf of the other party
 involved. However, when boundaries are clearly overstepped, report it to the founders so we can put
 an end to it immediately. Founders are of course held to the same standards.
 Stack
-As far as tools go we only have one request, which is that your workstation runs Linux or macOS/BSD.
-We rely heavily on tailor-made CLI automation and feel that porting our internal guides and scripts,
+As far as tools go, we only have one request: your workstation should run Linux or macOS/BSD. We
+rely heavily on tailor-made CLI automation and feel that porting our internal guides and scripts,
 or going heavy on VMs, would slow us down more than getting you on a compatible machine. Hence, we
-offer (near-)fulltimers (>=32h a week) who can commit to working one year for us, $2500 to spend on
-a fast Linux/macOS machine.
+offer (near-)fulltimers (>=32h a week) who can commit to working for us for the period of one year,
+$2500 to spend on a fast Linux/macOS machine.
 As Transloadit grows, it will become more feasible to become more inclusive towards other operating
 systems.
 Outside of that limitation, please use any tool you are comfortable with, and let us know if we can

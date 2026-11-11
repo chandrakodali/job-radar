@@ -1,0 +1,334 @@
+{
+ "anchore.com|platform engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "anjuna.io|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "brainstormforce.com|devops engineer wordpress hosting": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "browser-use.com|infrastructure engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "carmatec.com|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "carmatec.com|linux system administrator": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "clevertech.biz|aws devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "closure-intel.com|founding infrastructure wizard sre": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "cloudbase.it|cloud developer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "cloudbase.it|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "cloudglue.dev|founding engineer infrastructure": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "cocoindex.io|founding infrastructure engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "comma.ai|infrastructure engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "container-registry.com|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "coredge.io|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "coredge.io|devops sre": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "cortexrobot.ai|software engineer internal tooling and infrastructure": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "databend.com|databend cloud platform engineer remote": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "daytona.io|infrastructure engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "devtron.ai|agentic sre": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "dipolelabs.com|ai and data infrastructure engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "efference.ai|embedded linux engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "efference.ai|machine learning infrastructure engineer kernel optimization": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "efference.ai|machine learning infrastructure engineer orchestration": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "efference.ai|network systems engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "efference.ai|robotics software engineer infrastructure": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "ehl.markets|infrastructure engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "estuary.dev|site reliability engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "etleap.com|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "freestyle.sh|infrastructure reliability engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "freestyle.sh|platform engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "getdynamiq.ai|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "getreliancehealth.com|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "giveffect.com|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "iopipe.com|site reliability engineer sre engineering": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "isengardindustries.com|it infrastructure engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "isengardindustries.com|production engineer european cell": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "joyent.com|infrastructure software engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "linbit.com|linux software engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "linewise.io|agentic data infrastructure engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "meduzzen.com|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "meteorops.com|hpc network engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "meteorops.com|hpc platform engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "meteorops.com|hpc storage engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "meteorops.com|sre freelance projects": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "moderne.ai|platform engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "movingatoms.ai|infrastructure engineer 3d data": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "ndea.com|applied research platform engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "omnistrate.com|platform engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "omniti.com|site reliability engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "openrelay.inc|infrastructure engineer argentina": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "opensre.com|opensre s sre agent is now open source": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "orchid.ai|software engineer infrastructure": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "outsourcingdev.com|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "pally.com|founding devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "paradedb.com|platform engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "pola.rs|platform engineer rust": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "previousnext.com.au|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "promptarmor.com|platform engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "pydantic.dev|agent infrastructure engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "ravn.com|cloud devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "red-gate.com|infrastructure engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "remotemore.com|site reliability engineers sre": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "rendrhq.com|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "rhodecode.com|site reliability engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "rimward.ai|platform engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "rimward.ai|security iot deployment engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "sapient.inc|systems engineer ai infrastructure": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "sardinasystems.com|cloud operations developer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "sardinasystems.com|sysops cloud system engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "shiraz.ai|robot deployment engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "strikingly.com|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "thirdlayer.inc|platform engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "traefik.io|platform engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "tyk.io|site reliability engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "unkey.com|site reliability engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "versionstory.com|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "wazuh.com|cloud cost optimization specialist": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "wazuh.com|cloud devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "wazuh.com|cloud full stack developer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "wazuh.com|cloud ops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "wazuh.com|devops engineer": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ },
+ "zabbix.com|system administrator": {
+  "first_seen": "2026-11-11T01:48+00:00",
+  "last_seen": "2026-11-11T01:48+00:00"
+ }
+}

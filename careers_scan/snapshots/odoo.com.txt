@@ -29,9 +29,9 @@ Human Resources 2
 Content & Learning 1
 Direct Sales 5
 Finance 1
+Direct Customer Success 4
 Partnership Recruitment 4
 Indirect Customer Success 2
-Direct Customer Success 4
 Marketing 1
 Business Services 1
 Business Support 1
@@ -64,9 +64,9 @@ Human Resources
 Content & Learning
 Direct Sales
 Finance
+Direct Customer Success
 Partnership Recruitment
 Indirect Customer Success
-Direct Customer Success
 Marketing
 Business Services
 Business Support
@@ -98,15 +98,14 @@ Senior Accountant
 Administration / Finance
 Account Executive (Spanish)
 Our Sales Team is seeking an enthusiastic Account Executive to take charge of the entire sales cycle and analyze client business operations all across Latin America. Apply now!
-Partner Account Executive, French
-Sales / Partnership Recruitment
-Develop, grow, and maintain our network of implementation partners in North America!
-Partner Account Executive, Dutch
-Customer Success Manager, Indirect
-Sales / Indirect Customer Success
+Customer Care Associate (Spanish)
+Sales / Direct Customer Success
 Build and maintain relationships with multiple customers! We’ll train you on Odoo’s diverse applications, and you’ll use your business understanding to drive adoption and expand your client base.
 Customer Success Manager, Direct
-Sales / Direct Customer Success
+Partner Account Executive, Dutch
+Sales / Partnership Recruitment
+Develop, grow, and maintain our network of implementation partners in North America!
+Partner Account Executive, French
 Job Events
 Discover and discuss the open positions at Odoo.
 Next events

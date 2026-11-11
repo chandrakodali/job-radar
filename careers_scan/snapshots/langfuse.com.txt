@@ -1,4 +1,4 @@
-Langfuse launches AI Gateway · Read more
+Langfuse launches AI Gateway Learn more
 Building Langfuse
 Join the team building the leading open-source AI engineering platform, now part of ClickHouse
 Teams building AI applications need to monitor and evaluate them continuously to get them into production and keep improving them. Langfuse is the open-source platform for that workflow. Read about our mission .
@@ -8,7 +8,7 @@ If you want to build great developer tools, or get developers to love them, we'd
 Why join Langfuse
 We're winning the category through open source
 Langfuse is the most used open-source AI engineering platform , with the largest distribution in our space. See the public metrics .
-Langfuse is the most widely adopted LLM Engineering platform, used by 50,000+ companies , with 37,263 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 of the Fortune 50 and 129 of the Fortune 500 companies.
+Langfuse is the most widely adopted LLM Engineering platform, used by 50,000+ companies , with 37,267 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 of the Fortune 50 and 129 of the Fortune 500 companies.
 AI-native companies and large enterprises
 AI-native companies like Ramp run on Langfuse, and so do very large enterprises. See more companies building with Langfuse .
 Read story
@@ -141,23 +141,13 @@ San Francisco July 2024
 Founders at YC
 Y Combinator April 2023
 Further reading
-ClickHouse
-AI is redrawing the database market
-Tanya Bragin on how AI is changing analytics, warehousing, and observability.
-ClickHouse blog
-Why I joined ClickHouse at a $15B valuation
-Jon Natkins on making that career bet.
-Substack
-ClickHouse raises a $400M Series D
-Led by Dragoneer. The same round acquired Langfuse.
-Langfuse joins ClickHouse
-What stays the same, and why the teams are building together.
-Langfuse blog
-Aaron Katz on 20VC
-ClickHouse's CEO on AI, product, and building the company.
-20VC
 Videos and podcasts
 Real Time: Peter Fenton on founders, open source, and the AI boom
+AI is redrawing the database market
+Why I joined ClickHouse at a $15B valuation
+ClickHouse raises a $400M Series D
+Langfuse joins ClickHouse
+Aaron Katz on 20VC
 A Day in the Life of a Technical Support Engineer at Langfuse
 Typescript AI Conf: AI Observability Panel
 Launch Week 4: Demos of new features
