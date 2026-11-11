@@ -7325,18 +7325,21 @@
  "bootstrapped": true,
  "fails": {
   "ashby:Airweave": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:Deno": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:Gradia": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:Lynk": {
@@ -7376,8 +7379,9 @@
    "since": "2026-11-07"
   },
   "ashby:blaxel": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:chainlink-labs": {
@@ -7423,8 +7427,9 @@
    "since": "2026-11-07"
   },
   "ashby:hitpayapp.com": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:inspiration-commerce-group": {
@@ -7458,8 +7463,9 @@
    "since": "2026-11-07"
   },
   "ashby:lucidbots": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:mach": {
@@ -7487,8 +7493,9 @@
    "since": "2026-11-07"
   },
   "ashby:moonvalley-ai": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:morrishealthtech": {
@@ -7510,23 +7517,27 @@
    "since": "2026-11-07"
   },
   "ashby:ona": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:one-text": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:posting-api": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:powerus": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:pryzm": {
@@ -7536,18 +7547,21 @@
    "since": "2026-11-07"
   },
   "ashby:response": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:tensorzero": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:toggl": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:tracer": {
@@ -7557,8 +7571,9 @@
    "since": "2026-11-07"
   },
   "ashby:truss": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:veeda-labs": {
@@ -7568,8 +7583,9 @@
    "since": "2026-11-07"
   },
   "ashby:vellum": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "ashby:vidrush": {
@@ -7604,32 +7620,35 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "breezy:shipblu": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "breezy:skillcrush": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "eightfold:aexp|aexp.com": {
@@ -7645,13 +7664,15 @@
    "since": "2026-11-09"
   },
   "greenhouse:1910genetics": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "greenhouse:abodo": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "greenhouse:alma": {
@@ -7673,8 +7694,9 @@
    "since": "2026-11-07"
   },
   "greenhouse:artlogic": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "greenhouse:atlassand": {
@@ -8521,8 +8543,9 @@
    "since": "2026-11-08"
   },
   "workable:view": {
+   "disabled_until": "2026-11-18",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-11"
   },
   "workday:23andme|wd5|23": {
@@ -8605,7 +8628,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 7,
+   "n": 8,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -8748,7 +8771,7 @@
   },
   "workday:rappi|wd12|es": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-11"
   },
   "workday:redbulltechnology|wd3|RB_Racing": {
@@ -8765,7 +8788,7 @@
   },
   "workday:salesforce|wd1|External_Career_Site": {
    "err": "HTTP 422",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-11"
   },
   "workday:sallie-mae|wd5|Careers": {
@@ -8841,7 +8864,7 @@
    "since": "2026-11-08"
   }
  },
- "found_cursor": 2399,
+ "found_cursor": 1447,
  "last_digest": "2026-11-11",
  "resolved": {
   "airbnb": {
@@ -36998,6 +37021,7 @@
   "ashby:ThinkingMachines:14bef671-162c-4513-bfcf-e679e41e10a8": "2026-11-09",
   "ashby:Vultr:04d58a97-bf6d-4214-8bfd-ccc984fc7e6d": "2026-11-10",
   "ashby:Vultr:24c3445f-27b2-40fb-870e-e59b71305787": "2026-11-11",
+  "ashby:Vultr:5b025636-0501-45c9-a413-831d7c4be8d2": "2026-11-11",
   "ashby:Vultr:f3faf050-f72b-4306-8cd0-7853eab4e558": "2026-11-10",
   "ashby:WRITER:2111a9b4-8dab-4562-9692-ad7cb2c7b968": "2026-11-09",
   "ashby:WRITER:6ac02771-059b-490b-960b-f5616f255b65": "2026-11-09",
@@ -37084,6 +37108,7 @@
   "ashby:saronic:b458ec5f-4fbd-4454-8fd3-0003ed87a913": "2026-11-07",
   "ashby:sieve:b8a87691-3b2a-4960-aa0e-cda34894039c": "2026-11-11",
   "ashby:siftstack:28db223c-b2ce-4b40-b515-32d96062e6fa": "2026-11-07",
+  "ashby:siftstack:a13a8413-86e4-46b3-a073-2a1f54bf689c": "2026-11-11",
   "ashby:socure:e3e43ef3-f08e-46c0-8a76-05c0987e8b7f": "2026-11-07",
   "ashby:solveintelligence:228325a6-6cdf-4213-a798-92ae0d7ed783": "2026-11-09",
   "ashby:span.app:00de323d-8842-470f-af05-91643597bb11": "2026-11-09",
@@ -37203,6 +37228,7 @@
   "greenhouse:caredxinc:4459548009": "2026-11-09",
   "greenhouse:celonis:8190831003": "2026-11-10",
   "greenhouse:chaosindustries:5280067007": "2026-11-07",
+  "greenhouse:chicagotrading:4751594005": "2026-11-11",
   "greenhouse:clarityinnovates:5281619007": "2026-11-07",
   "greenhouse:cloudflare:8311376": "2026-11-07",
   "greenhouse:cloudflare:8317751": "2026-11-09",
@@ -37318,6 +37344,7 @@
   "greenhouse:verkada:5283655007": "2026-11-07",
   "greenhouse:vestwell:8196645003": "2026-11-09",
   "greenhouse:vialogic:5466911008": "2026-11-09",
+  "greenhouse:voyagertechnologiesinc:4484594009": "2026-11-11",
   "greenhouse:whitewatermidstream:5277071007": "2026-11-09",
   "greenhouse:whitewatermidstream:5284618007": "2026-11-07",
   "greenhouse:xai:5286282007": "2026-11-07",
@@ -37862,6 +37889,7 @@
   "oracle:edel.fa.us2.oraclecloud.com|CX_2001:21683": "2026-11-08",
   "oracle:edel.fa.us2.oraclecloud.com|CX_2001:21684": "2026-11-08",
   "oracle:edel.fa.us2.oraclecloud.com|CX_2001:21761": "2026-11-08",
+  "oracle:eedu.fa.em3.oraclecloud.com|CX_1003:202607088": "2026-11-11",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:346427": "2026-11-08",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:346429": "2026-11-08",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:349184": "2026-11-10",
@@ -38309,6 +38337,7 @@
   "workable:credence:BEA93CA48A": "2026-11-09",
   "workable:cwill-us:B2199498C1": "2026-11-10",
   "workable:flexion-robotics:60F67D4D1C": "2026-11-09",
+  "workable:it1:388541F155": "2026-11-11",
   "workable:msr-fsr:FDE4C3C599": "2026-11-11",
   "workable:neurohire-dot-a-i:DE1A8F35F5": "2026-11-08",
   "workable:neurohire-dot-a-i:E4787CF2DF": "2026-11-08",
@@ -38394,10 +38423,14 @@
   "workday:bristolmyerssquibb|wd5|bms:R1608233": "2026-11-08",
   "workday:buildertrend|wd108|External_Careers:JR-000519": "2026-11-08",
   "workday:cadence|wd1|External_Careers:R56413": "2026-11-11",
+  "workday:cae|wd3|career:124409": "2026-11-11",
+  "workday:cae|wd3|career:124411": "2026-11-11",
   "workday:cai|wd5|computer_aid:R8753": "2026-11-08",
   "workday:cai|wd5|computer_aid:R8855": "2026-11-09",
   "workday:cai|wd5|computer_aid:R8880": "2026-11-08",
+  "workday:cai|wd5|computer_aid:R8934": "2026-11-11",
   "workday:campbellsoup|wd5|externalcareers_globalsite:Req-69137": "2026-11-10",
+  "workday:capitalone|wd12|Capital_One:R1003663": "2026-11-11",
   "workday:cat|wd5|caterpillarcareers:R0000398323": "2026-11-10",
   "workday:cdk|wd1|CDK:JR9403": "2026-11-07",
   "workday:cdw|wd5|careers:R26_00002985": "2026-11-08",
@@ -38446,9 +38479,14 @@
   "workday:equinix|wd1|External:JR-164372": "2026-11-11",
   "workday:etsy|wd5|Etsy_Careers:JR6069": "2026-11-11",
   "workday:evonik|wd3|External_Careers:R51684": "2026-11-08",
+  "workday:exelixis|wd1|exel:JR7119": "2026-11-11",
   "workday:exelixis|wd1|exel:JR7197": "2026-11-08",
   "workday:extremenetworks|wd503|Extreme_Networks:JR100307": "2026-11-11",
+  "workday:factset|wd108|FactSetCareers:R32233": "2026-11-11",
+  "workday:factset|wd108|FactSetCareers:R32484": "2026-11-11",
+  "workday:fanniemae|wd1|FannieMaeCareers:JR3020": "2026-11-11",
   "workday:fanniemae|wd1|FannieMaeCareers:JR3046": "2026-11-08",
+  "workday:ferguson|wd1|Ferguson_Experienced:R-141717": "2026-11-11",
   "workday:fgcu|wd5|eaglejobs:R0007966": "2026-11-08",
   "workday:fis|wd5|searchjobs:JR0310687": "2026-11-11",
   "workday:fmr|wd1|fidelitycareers:2137674": "2026-11-07",
@@ -38456,6 +38494,7 @@
   "workday:freight|wd108|FXF_External_Career_Site:RC6112": "2026-11-07",
   "workday:freudenberg|wd3|freudenberg-group:System-Engineer-Infrastructure-Design---Operations--f-m-d-_R_00086925": "2026-11-11",
   "workday:genesys|wd1|Genesys:JR112904": "2026-11-07",
+  "workday:gevernova|wd5|vernova_externalsite:R5048915": "2026-11-11",
   "workday:gfs|wd5|usjobs-gen-gfs:R-59672": "2026-11-11",
   "workday:goosehead|wd503|Careers:JR104903": "2026-11-10",
   "workday:halma|wd3|Halma:JR26_000880": "2026-11-07",
@@ -38466,7 +38505,11 @@
   "workday:howard|wd1|HU:JR108799": "2026-11-11",
   "workday:hpe|wd5|acjobsite:1215300": "2026-11-08",
   "workday:hpe|wd5|acjobsite:1216526": "2026-11-08",
+  "workday:hpe|wd5|acjobsite:1216872": "2026-11-11",
+  "workday:hpe|wd5|acjobsite:1217883": "2026-11-11",
   "workday:hpe|wd5|jobsathpe:1215300": "2026-11-08",
+  "workday:hpe|wd5|jobsathpe:1216872": "2026-11-11",
+  "workday:hpe|wd5|jobsathpe:1217883": "2026-11-11",
   "workday:hp|wd5|EXTEU-AC-CareerSite:3170598": "2026-11-07",
   "workday:hss|wd1|HSS_Careers:JR2026-106661": "2026-11-07",
   "workday:humana|wd5|humana_external_career_site:R-434482": "2026-11-08",
@@ -38493,7 +38536,16 @@
   "workday:kyndryl|wd5|KyndrylProfessionalCareers:R-71259": "2026-11-07",
   "workday:kyndryl|wd5|KyndrylProfessionalCareers:R-71569": "2026-11-09",
   "workday:lbg|wd3|LBG_Careers:157946": "2026-11-07",
+  "workday:levistraussandco|wd5|external:R-0158453": "2026-11-11",
   "workday:levistraussandco|wd5|external:R-0158466": "2026-11-08",
+  "workday:levistraussandco|wd5|external:R-0158468": "2026-11-11",
+  "workday:levistraussandco|wd5|external:R-0158473": "2026-11-11",
+  "workday:levistraussandco|wd5|external:R-0158474": "2026-11-11",
+  "workday:levistraussandco|wd5|external:R-0158475": "2026-11-11",
+  "workday:levistraussandco|wd5|external:R-0158476": "2026-11-11",
+  "workday:levistraussandco|wd5|external:R-0158478": "2026-11-11",
+  "workday:levistraussandco|wd5|external:R-0158479": "2026-11-11",
+  "workday:levistraussandco|wd5|external:R-0158480": "2026-11-11",
   "workday:levistraussandco|wd5|external:R-0158482": "2026-11-08",
   "workday:lplfinancial|wd1|External:R-053355": "2026-11-07",
   "workday:lplfinancial|wd1|External:R-054427": "2026-11-07",
@@ -38523,15 +38575,18 @@
   "workday:nationwide|wd1|Nationwide_Career:Ohio - Columbus, Three Nationwide Plaza": "2026-11-08",
   "workday:ncr|wd1|ext_us:R0158645": "2026-11-08",
   "workday:ncr|wd1|ext_us:R0158768": "2026-11-08",
+  "workday:neogen|wd5|neogencareers:REQ-11196": "2026-11-11",
   "workday:newperkinelmer|wd1|External:REQ-058459": "2026-11-08",
   "workday:ntrs|wd1|northerntrust:R162679": "2026-11-08",
   "workday:ntrs|wd1|northerntrust:R162714": "2026-11-08",
+  "workday:ntrs|wd1|northerntrust:R162951": "2026-11-11",
   "workday:ntst|wd1|careers:R015968": "2026-11-11",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2014178": "2026-11-07",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2025037": "2026-11-08",
   "workday:nwis|wd12|NW:JR102238": "2026-11-10",
   "workday:okgov|wd1|okgovjobs:JR67736": "2026-11-11",
   "workday:oregon|wd5|sor_external_career_site:Permanent": "2026-11-08",
+  "workday:pae|wd1|amentum_careers:R0174508": "2026-11-11",
   "workday:paloaltonetworks|wd5|panwexternalcareers:JR-023971": "2026-11-10",
   "workday:peak6group|wd1|apexfintechsolutions:JR105329": "2026-11-10",
   "workday:poet|wd1|POET:R101889": "2026-11-10",
@@ -38554,7 +38609,11 @@
   "workday:remitly|wd5|Remitly_Careers:R_107105": "2026-11-09",
   "workday:resolvetech|wd1|rts:R1284": "2026-11-08",
   "workday:roche|wd3|roche-ext:202610-126910": "2026-11-11",
+  "workday:rockwellautomation|wd1|External_Rockwell_Automation:R26-6685": "2026-11-11",
   "workday:rollsroyce|wd3|Intern_Graduate:JR6160756": "2026-11-07",
+  "workday:rollsroyce|wd3|professional:JR6153700": "2026-11-11",
+  "workday:rollsroyce|wd3|professional:JR6161235": "2026-11-11",
+  "workday:salesforce|wd12|External_Career_Site:JR338172": "2026-11-11",
   "workday:salesforce|wd12|External_Career_Site:JR366303": "2026-11-08",
   "workday:sandvik|wd3|sandvik-jobs:R0097782": "2026-11-09",
   "workday:santander|wd3|SantanderCareers:Req1576052": "2026-11-08",
@@ -38570,6 +38629,7 @@
   "workday:spgi|wd5|SPGI_Careers:330730": "2026-11-11",
   "workday:spinmaster|wd3|SpinMaster_Careers:R5173": "2026-11-11",
   "workday:statestreet|wd1|Global:R-798461": "2026-11-08",
+  "workday:statestreet|wd1|Global:R-800933": "2026-11-11",
   "workday:statestreet|wd1|equest:R-799259": "2026-11-08",
   "workday:sunlife|wd3|Experienced-Jobs:JR00128852": "2026-11-08",
   "workday:symbotic|wd504|Symbotic:R8424": "2026-11-07",
@@ -38580,6 +38640,7 @@
   "workday:tamus|wd1|System-wide_External:R-098560": "2026-11-10",
   "workday:tamus|wd1|System-wide_External:R-098648": "2026-11-08",
   "workday:tamus|wd1|TAMU_External:R-098648": "2026-11-08",
+  "workday:tamus|wd1|TARLETON_External:R-098560": "2026-11-11",
   "workday:thales|wd3|Careers:Regular Employee": "2026-11-07",
   "workday:thomsonreuters|wd5|External_Career_Site:Eagan": "2026-11-11",
   "workday:tmobile|wd1|External:REQ366253": "2026-11-10",
@@ -38610,6 +38671,7 @@
   "workday:unisys|wd5|External:REQ576964": "2026-11-11",
   "workday:upbound|wd501|Upbound:R-100846": "2026-11-08",
   "workday:upbound|wd501|Upbound:R-100847": "2026-11-08",
+  "workday:usaa|wd1|USAAJOBSWD:R0120575": "2026-11-11",
   "workday:usbank|wd1|US_Bank_Careers:2026-0033596": "2026-11-08",
   "workday:utaustin|wd1|UTstaff:R_00049931": "2026-11-11",
   "workday:utaustin|wd1|UTstaff:R_00049932": "2026-11-11",
