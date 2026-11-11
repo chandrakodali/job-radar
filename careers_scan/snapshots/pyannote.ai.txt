@@ -1,17 +1,31 @@
-Precision-3
-Try it now!
+Startup program
+Apply now
+M a k e s e v e r y c o n v e r s a t i o n u n d e r s t a n d a b l e
 M a k e s e v e r y c o n v e r s a t i o n
 u n d e r s t a n d a b l e
 Diarization, speaker ID, speaker separation, and STT orchestration in one framework, ready today. Open source, on API, or your own infrastructure.
 Try for free
 Contact Sales
-No credit card required
-Choose a sample audio
-Or upload your audio
-Choose file
-MP3, WAV, M4A, MP4, or OGG · Up to 250 MB and 1 hour.
-See when each speaker talks
-Choose a sample or file, then press Run to see speaker turns.
+Up to 52% lower transcription error
+1B+ open-source downloads
+375k+ developers
+00:04-00:08
+Happy
+00:13-00:15
+Confident
+00:25-00:31
+Enthusiasm
+Speaker 1
+Mark
+00:07-00:12
+Worried
+00:18-00:24
+Stress
+00:17-00:18
+00:33-00:34
+Relief
+Speaker 2
+Stephany
 AI Video
 AI Transcription
 Voice AI
@@ -56,7 +70,7 @@ Open source since 2016
 GDPR-native
 On-prem available
 No lock-in
-Get Started
+Book a demo
 Product
 Speaker platform
 Speaker diarization
@@ -75,7 +89,6 @@ About us
 Customer Story
 Benchmarks
 Demo
-Startup program
 Data & Security
 Blog
 Careers

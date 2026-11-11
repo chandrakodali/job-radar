@@ -1,61 +1,81 @@
 # Careers page changes
 
-Checked 2026-11-11 01:56 UTC: 1757 pages, 5 changed, 2 look like new postings.
+Checked 2026-11-11 02:02 UTC: 1757 pages, 7 changed, 2 look like new postings.
 
-## [Gridium](https://gridium.com/about/working-at-gridium/)
+## [pyannoteAI](https://www.pyannote.ai/)
 
-- added: Manage Consent
-- added: Functional
-- added: Always active
-- added: The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of ca
-- added: Preferences
-- added: The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
-- added: Statistics
-- added: The technical storage or access that is used exclusively for statistical purposes.
-- added: The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional recor
-- added: Marketing
-- added: The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
-- added: Manage options
-- added: Manage services
-- added: Manage {vendor_count} vendors
-- added: Read more about these purposes
+- added: Apply now
+- added: M a k e s e v e r y c o n v e r s a t i o n u n d e r s t a n d a b l e
+- added: Up to 52% lower transcription error
+- added: 1B+ open-source downloads
+- added: 375k+ developers
+- added: 00:04-00:08
+- added: Happy
+- added: 00:13-00:15
+- added: Confident
+- added: 00:25-00:31
+- added: Enthusiasm
+- added: Speaker 1
+- added: Mark
+- added: 00:07-00:12
+- added: Worried
+- removed: Precision-3
+- removed: Try it now!
+- removed: No credit card required
+- removed: Choose a sample audio
+- removed: Or upload your audio
 
 ## [Upworthy](https://www.upworthy.com/jobs-that-pay-well-people-dont-realize/)
 
-- added: Michael Jordan made a beloved high school staffer’s final wish come true while she lay in hospice
-- added: The psychological trick behind why personality tests like Myers-Briggs always ‘work’
-- added: Scientists think humans developed right-handedness thanks to these 2 factors
-- added: Skills
-- added: After the death of his wife, C.S. Lewis shared exactly how he dealt with grief
-- added: A Sacramento ‘food desert’ is getting a transformative, first-of-its-kind public market
-- added: George Washington offered wise advice on why friendships should develop like ‘a plant of slow growth’
-- added: Emily Shiffer
-- added: Scientists finally uncover why old buildings feel creepy, and it has nothing to do with haunted spirits
-- added: 15 years ago pro bowler Tom Daugherty was humiliated. He turned it into the sport’s greatest comeback story.
-- added: Evan Porter
-- added: Generations
-- added: Someone asked Gen X for their version of ‘OK Boomer.’ Here are the 8 best answers.
-- added: Cecily Knobler
-- removed: Fascinating new research finally explains humans’ ‘morbid curiosity’
-- removed: Communication
-- removed: People around the world reveal the English language words that are near impossible to pronounce
-- removed: The world’s smallest Costco is in Juneau, Alaska. Tour the ‘tiny but legendary’ location.
-- removed: Stop struggling with self-doubt by using this simple ‘care less’ practice
+- added: Fascinating new research finally explains humans’ ‘morbid curiosity’
+- added: Communication
+- added: People around the world reveal the English language words that are near impossible to pronounce
+- added: The world’s smallest Costco is in Juneau, Alaska. Tour the ‘tiny but legendary’ location.
+- added: Stop struggling with self-doubt by using this simple ‘care less’ practice
+- added: Life Hacks
+- added: 11 sneaky ways to save money on gas when ‘drive less’ just isn’t an option
+- added: Colorado elementary school puts on 75-minute Phish musical, and it was delightfully epic
+- added: A seemingly innocent painting of a farmer and family member caused outrage in 1930
+- added: toddp
+- added: Uncategorized
+- added: Thimbles, sapphires, and other things that served as engagement rings long before the diamond reigned supreme
+- added: heather
+- added: Pianist stuns by using every part of his piano to perform ‘Africa’ by Toto
+- added: Tod Perry & Upworthy Staff
+- removed: Michael Jordan made a beloved high school staffer’s final wish come true while she lay in hospice
+- removed: The psychological trick behind why personality tests like Myers-Briggs always ‘work’
+- removed: Scientists think humans developed right-handedness thanks to these 2 factors
+- removed: Skills
+- removed: After the death of his wife, C.S. Lewis shared exactly how he dealt with grief
 
 ## [Asha Health](https://careers.asha.health/) (minor change)
 
-- added: {"message":"I am alive","env":"production","timestamp":"2026-11-11T01:55:17.933Z"}
-- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-11T01:47:30.426Z"}
+- added: {"message":"I am alive","env":"production","timestamp":"2026-11-11T02:01:09.001Z"}
+- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-11T01:55:17.933Z"}
 
 ## [Casco](https://casco.com/careers) (minor change)
 
-- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-96280
-- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-124179
+- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-114406
+- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-96280
 
 ## [DappRadar](https://dappradar.com/careers) (minor change)
 
-- added: H $0.0338 -28.13% BTW $1.15 +15.77% ZEC $1.03k -12.02% RAIN $0.0₂399 -11.73% LIT $3.49 +10.12% VVV $19.45 -9.17% HASH $0.0₂679 -8.85% PEARL $1.49 -8.36% PI $0.0709 +7.85% GRAM $1.13 +7.84% STABLE $0.0
-- removed: H $0.0339 -27.78% BTW $1.15 +16.06% RAIN $0.0₂398 -11.78% ZEC $1.03k -11.35% LIT $3.48 +10.00% HASH $0.0₂677 -9.11% VVV $19.62 -8.57% ICP $2.60 +8.44% PEARL $1.49 -8.32% GRAM $1.13 +8.18% PI $0.0712 +
+- added: H $0.0333 -29.02% BTW $1.15 +15.93% ZEC $1.02k -12.52% RAIN $0.0₂400 -11.41% LIT $3.50 +10.53% VVV $19.42 -9.32% HASH $0.0₂677 -8.96% PEARL $1.48 -8.81% PI $0.0708 +8.03% GRAM $1.13 +7.62% STABLE $0.0
+- removed: H $0.0338 -28.13% BTW $1.15 +15.77% ZEC $1.03k -12.02% RAIN $0.0₂399 -11.73% LIT $3.49 +10.12% VVV $19.45 -9.17% HASH $0.0₂679 -8.85% PEARL $1.49 -8.36% PI $0.0709 +7.85% GRAM $1.13 +7.84% STABLE $0.0
+
+## [Evrone](https://evrone.com/hiring) (minor change)
+
+- added: +49 176 24514399
+- added: Kemperplatz 1, 10785 Berlin
+- removed: +1 415 425 2526
+- removed: 44 Tehama St, San Francisco, CA 94105
+
+## [Saleor](https://saleor.io/) (minor change)
+
+- added: 15 hours ago 3.23.48
+- added: 3.23.48 15 hours ago
+- removed: 14 hours ago 3.23.48
+- removed: 3.23.48 14 hours ago
 
 ## Pages failing for 3+ checks
 
