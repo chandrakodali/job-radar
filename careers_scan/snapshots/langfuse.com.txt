@@ -8,7 +8,7 @@ If you want to build great developer tools, or get developers to love them, we'd
 Why join Langfuse
 We're winning the category through open source
 Langfuse is the most used open-source AI engineering platform , with the largest distribution in our space. See the public metrics .
-Langfuse is the most widely adopted LLM Engineering platform, used by 50,000+ companies , with 37,267 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 of the Fortune 50 and 129 of the Fortune 500 companies.
+Langfuse is the most widely adopted LLM Engineering platform, used by 50,000+ companies , with 37,278 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 of the Fortune 50 and 129 of the Fortune 500 companies.
 AI-native companies and large enterprises
 AI-native companies like Ramp run on Langfuse, and so do very large enterprises. See more companies building with Langfuse .
 Read story

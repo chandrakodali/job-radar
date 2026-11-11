@@ -80,7 +80,6 @@ Senior Software Development Engineer in Test - Database Automation
 Technical Program Manager, Security
 Senior Software Engineer - Orchestration
 Senior Staff Site Reliability Engineer
-Senior Software Development Engineer in Test
 Senior Staff Software Engineer - SAP Connectors
 Amsterdam, North Holland, Netherlands, EMEA
 Manager Software Engineering

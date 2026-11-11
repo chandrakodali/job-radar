@@ -1,7 +1,7 @@
 Want to have an impact while having fun ?
 Your next adventure starts below!
 Countries
-All Countries 190
+All Countries 189
 India 15
 Kenya 10
 United Arab Emirates 16
@@ -17,7 +17,7 @@ United States 23
 Indonesia 14
 Luxembourg 2
 Mexico 8
-Hong Kong 16
+Hong Kong 15
 Offices
 All Offices 23
 Odoo Inc. 21
@@ -30,15 +30,15 @@ Content & Learning 1
 Direct Sales 5
 Finance 1
 Direct Customer Success 4
-Partnership Recruitment 4
 Indirect Customer Success 2
+Partnership Recruitment 4
 Marketing 1
 Business Services 1
 Business Support 1
 Job position
 Filters
 All Countries
-190
+189
 India
 Kenya
 United Arab Emirates
@@ -65,8 +65,8 @@ Content & Learning
 Direct Sales
 Finance
 Direct Customer Success
-Partnership Recruitment
 Indirect Customer Success
+Partnership Recruitment
 Marketing
 Business Services
 Business Support
@@ -101,11 +101,10 @@ Our Sales Team is seeking an enthusiastic Account Executive to take charge of th
 Customer Care Associate (Spanish)
 Sales / Direct Customer Success
 Build and maintain relationships with multiple customers! We’ll train you on Odoo’s diverse applications, and you’ll use your business understanding to drive adoption and expand your client base.
+Customer Care Associate, French
 Customer Success Manager, Direct
-Partner Account Executive, Dutch
-Sales / Partnership Recruitment
-Develop, grow, and maintain our network of implementation partners in North America!
-Partner Account Executive, French
+Customer Success Manager, Indirect
+Sales / Indirect Customer Success
 Job Events
 Discover and discuss the open positions at Odoo.
 Next events

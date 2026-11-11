@@ -14,16 +14,16 @@ Nov 9
 # community
 # productivity
 # career
-125 reactions
-65 comments
+133 reactions
+72 comments
 8 min read
 How did you end up in tech, and are you staying?
 Features a LEGO robotics plot twist
 Maame Afua A. P. Fordjour
 # beginners
 # watercooler
-96 reactions
-34 comments
+99 reactions
+38 comments
 3 min read
 Kent C. Dodds Hasn't Looked at His Code All Year
 Kara Silverman
@@ -33,50 +33,45 @@ Nov 11
 # agents
 Add Comment
 17 min read
-Your README Is the Interview You Don't Know You're Giving
+Your README proves the work. It doesn't prove what it felt like before it worked.
+Qwerta
+2 min read
+Plan Stamping Is Right About the Signature. It's Missing the Invoice.
 AheadKit
 # programming
-# github
 1 reaction
 4 min read
-The fear of being a drop in the ocean (and why I keep building anyway)
-Forge of Galion
-# motivation
-# indiehackers
-2 min read
-When the Model Writes the First Draft, Who Still Owns the Reasoning?
-Romain Bailleul
-Nov 10
-1 comment
-6 min read
-The Scarcest Resource in Your Stack Is Human Attention
-Bella
-The 2 Hours After Midnight Are Doing All the Work
-Your Code Can Be Perfect...
-Leon Martin
-# computerscience
-# softwareengineering
-How to Write an Incident Update in English: Templates and Examples for IT Teams
-Kognixr
-# english
-# devops
-# communication
-7 Follow-Up Email Templates for When Nobody Replies (Copy-Paste)
-NhatMinh
-# email
-# writing
-How do you handle PII in AI systems?
-Valenx
+Negotiating Level From Evidence: Mapping Proof to Staff vs Senior
+Muhammad Ali Mughal
 # interview
-# rag
-AI Maturity Is a Lagging Indicator of Engineering Maturity
-Karun Japhet
-9 min read
-Day 1+ n of getting into SWE
-fadou
-# learning
-Why Developers Should Read (and Write) Weird Fiction: Lessons From an Outsider Superman
-John Mathew
+# resume
+# leadership
+• After a layoff and divorce, I built an app studio at my kitchen table
+shivaya
+# indiedev
+# startup
+# buildinpublic
+One Evening, One Job Posting: A Test Plan for AI Resume Builders
+AI Finder Plus
+I Counted This Week's 10 Most-Commented Career Posts. Half of Them Are About AI Taking the Job.
+Your First Bug-Fix Job on Upwork or Fiverr: Reading the Post, Getting Access Safely and Quoting a Fix You Haven't Seen Yet
+Abid Ali
+# freelancing
+# webdev
+Your README Is the Interview You Don't Know You're Giving
+# github
+Most Resume Builders Start With a Template. Mine Starts With an Experience Library.
+# showdev
+5 min read
+Before You Solve Another Interview Question, Try This 45 Minute Mock
+Emily Woods
+Is AI Changing What It Means to Be a Software Developer in 2026?
+Kevin James
+# softwaredevelopment
+# softwareengineering
+1 min read
+From Senior Engineer to Tech Lead: Skills You Need
+Muhammad Uzair
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Free AWS Certification for Students: The Complete Step-by-Step Guide
 How I Feel about the Grace Hopper Celebration Getting Cancelled

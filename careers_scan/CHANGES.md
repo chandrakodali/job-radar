@@ -1,81 +1,280 @@
 # Careers page changes
 
-Checked 2026-11-11 02:02 UTC: 1757 pages, 7 changed, 2 look like new postings.
+Checked 2026-11-11 08:28 UTC: 1757 pages, 29 changed, 12 look like new postings.
+
+## [Cognizant](https://careers.cognizant.com/india-en/)
+
+- added: ICM Training Analyst
+- removed: System Engineer
+
+## [Employment Hero](https://employmenthero.com/jobs/)
+
+- added: Events Coordinator
+- added: Royal Motor Yacht Club Broken Bay NSW
+- added: Newport, New South Wales 2106
+- added: Posted 48 minutes ago
+- added: Sales & Operations Coordinator
+- added: Fremantle Football Club
+- added: Cockburn Central, Western Australia 6164
+- added: Posted 52 minutes ago
+- added: Fixed Plant Mechanical Fitter
+- added: Aurenne Group Mining
+- added: Perth, Western Australia 6000
+- added: Trade
+- added: Posted 57 minutes ago
+- added: Electrical Engineer
+- added: OPEC SYSTEMS PTY LTD
+- removed: Retail Sales Assistant – Chirnside
+- removed: Ugg Express Pty Ltd
+- removed: Chirnside Park, Victoria 3116
+- removed: • A$35 – A$36
+- removed: Casual
+
+## [Forem](https://dev.to/t/career)
+
+- added: 133 reactions
+- added: 72 comments
+- added: 99 reactions
+- added: 38 comments
+- added: Your README proves the work. It doesn't prove what it felt like before it worked.
+- added: Qwerta
+- added: Plan Stamping Is Right About the Signature. It's Missing the Invoice.
+- added: Negotiating Level From Evidence: Mapping Proof to Staff vs Senior
+- added: Muhammad Ali Mughal
+- added: # resume
+- added: # leadership
+- added: • After a layoff and divorce, I built an app studio at my kitchen table
+- added: shivaya
+- added: # indiedev
+- added: # startup
+- removed: 125 reactions
+- removed: 65 comments
+- removed: 96 reactions
+- removed: 34 comments
+- removed: The fear of being a drop in the ocean (and why I keep building anyway)
+
+## [Kara](https://www.karalabs.ai/careers)
+
+- added: Extraordinary possibilities begin with carbon.
+- added: KARA LABS
+- added: The next leap in computing
+- added: begins with the material.
+- added: Discuss your application ↗
+- removed: [email protected]
+- removed: An artistic carbon atom with an enlarged nucleus and flowing electron clouds becomes one of many atoms. They settle into a diamond crystal with four-neighbor bonds. A red wave across nearby atoms illu
+- removed: The next leap in computing begins with the material.
+- removed: Backed by
+- removed: As seen in
+
+## [Kaufland e-commerce](https://kaufland-ecommerce.com/en/careers/)
+
+- added: Product Analyst | Mobile App
+- added: JOB OFFERS: 16
+- removed: JOB OFFERS: 15
+
+## [Luxoft](https://career.luxoft.com/)
+
+- added: Calypso Business Analyst - Back Office
+- added: Singapore, Singapore
+- added: Calypso
+- added: Python Developer with MongoDB
+- added: Gurugram, India
+- added: Python
+- removed: Senior Java Full-Stack developer
+- removed: London, United Kingdom of Great Britain and Northern Ireland
+- removed: Java
+- removed: Senior Java Developer with Azure & DevOps
+- removed: Wroclaw, Poland
+
+## [Odoo](https://www.odoo.com/jobs)
+
+- added: All Countries 189
+- added: Hong Kong 15
+- added: 189
+- added: Customer Care Associate, French
+- added: Customer Success Manager, Indirect
+- added: Sales / Indirect Customer Success
+- removed: All Countries 190
+- removed: Hong Kong 16
+- removed: 190
+- removed: Partner Account Executive, Dutch
+- removed: Sales / Partnership Recruitment
 
 ## [pyannoteAI](https://www.pyannote.ai/)
 
-- added: Apply now
-- added: M a k e s e v e r y c o n v e r s a t i o n u n d e r s t a n d a b l e
-- added: Up to 52% lower transcription error
-- added: 1B+ open-source downloads
-- added: 375k+ developers
-- added: 00:04-00:08
-- added: Happy
-- added: 00:13-00:15
-- added: Confident
-- added: 00:25-00:31
-- added: Enthusiasm
-- added: Speaker 1
-- added: Mark
-- added: 00:07-00:12
-- added: Worried
-- removed: Precision-3
-- removed: Try it now!
-- removed: No credit card required
-- removed: Choose a sample audio
-- removed: Or upload your audio
+- added: Precision-3
+- added: Try it now!
+- added: No credit card required
+- added: Choose a sample audio
+- added: Or upload your audio
+- added: Choose file
+- added: MP3, WAV, M4A, MP4, or OGG · Up to 250 MB and 1 hour.
+- added: See when each speaker talks
+- added: Choose a sample or file, then press Run to see speaker turns.
+- added: Get Started
+- removed: Apply now
+- removed: M a k e s e v e r y c o n v e r s a t i o n u n d e r s t a n d a b l e
+- removed: Up to 52% lower transcription error
+- removed: 1B+ open-source downloads
+- removed: 375k+ developers
+
+## [Saleor](https://saleor.io/)
+
+- added: 465,288
+- added: 21 hours ago 3.23.48
+- added: 8 days ago 3.22.77
+- added: 3.23.48 21 hours ago
+- added: 3.22.77 8 days ago
+- removed: 670,437
+- removed: 15 hours ago 3.23.48
+- removed: 7 days ago 3.22.77
+- removed: 3.23.48 15 hours ago
+- removed: 3.22.77 7 days ago
+
+## [Turing College](https://www.turingcollege.com/data-analytics)
+
+- added: Explore two optional modules, one on machine learning and one on cohorts, funnels and customer value (CLV/RFM), or an independent capstone project. Apply your skills to product use, campaign performan
+- added: Tailor your learning journey to your goals and interests. Enhance the core curriculum with two optional modules: Other Analysis Types Part I (machine learning) and Part II (cohorts, funnels, CLV/RFM).
+- added: Graduates across all our programmes and countries
+- added: Living in the UK? Check UK programmes Living in Germany? Check Bildungsgutschein funding
+- added: Reviews relate to Turing College and its international programmes, not only our German AZAV-certified ones.
+- removed: Explore optional modules in product analytics and marketing analytics, or an independent capstone project. Apply your skills to product use, campaign performance or a question from an industry that in
+- removed: Tailor your learning journey to align with your specific goals and interests. Enhance the core curriculum by exploring specialisations such as product or marketing analytics. Boost your job search pro
 
 ## [Upworthy](https://www.upworthy.com/jobs-that-pay-well-people-dont-realize/)
 
-- added: Fascinating new research finally explains humans’ ‘morbid curiosity’
-- added: Communication
-- added: People around the world reveal the English language words that are near impossible to pronounce
-- added: The world’s smallest Costco is in Juneau, Alaska. Tour the ‘tiny but legendary’ location.
-- added: Stop struggling with self-doubt by using this simple ‘care less’ practice
-- added: Life Hacks
-- added: 11 sneaky ways to save money on gas when ‘drive less’ just isn’t an option
-- added: Colorado elementary school puts on 75-minute Phish musical, and it was delightfully epic
-- added: A seemingly innocent painting of a farmer and family member caused outrage in 1930
-- added: toddp
-- added: Uncategorized
-- added: Thimbles, sapphires, and other things that served as engagement rings long before the diamond reigned supreme
-- added: heather
-- added: Pianist stuns by using every part of his piano to perform ‘Africa’ by Toto
-- added: Tod Perry & Upworthy Staff
-- removed: Michael Jordan made a beloved high school staffer’s final wish come true while she lay in hospice
-- removed: The psychological trick behind why personality tests like Myers-Briggs always ‘work’
-- removed: Scientists think humans developed right-handedness thanks to these 2 factors
-- removed: Skills
-- removed: After the death of his wife, C.S. Lewis shared exactly how he dealt with grief
+- added: Watch on
+- added: Art prodigy sold $7 million worth of paintings before she was even 14-years-old
+- added: A man found a strange egg and incubated it. 28 days later, it hatched and changed his life.
+- added: Nature
+- added: Wildlife researchers discover tigers doing something we previously thought went against their very nature
+- added: Education
+- added: Teacher lists the 10 basic skills she says third graders no longer have, and it’s eye-opening
+- added: 12 seemingly ‘awkward’ behaviors that might just mean you’re highly intelligent
+- added: A stranded traveler stepped outside O’Hare for a cigar. He came back with a kitten and a problem.
+- added: Adam Albright-Hanna
+- added: Nostalgia
+- added: This unforgettable December 1964 performance from The Seekers is two minutes of musical perfection
+- added: Cecily Knobler
+- added: Generations
+- added: Model Paulina Porizkova asks us to imagine a world where ‘older beauty’ is admired and respected
+- removed: In Partnership With Operation Smile →
+- removed: An Operation Smile volunteer reverses an oxygen mask so a child with a cleft condition can blow a bubble for the first time in Guadalajara, Mexico. (Operation Smile Photos)
+- removed: Family , Science
+- removed: How Bubbles Help Kids with Cleft Conditions
+- removed: For thousands of children born with cleft conditions, Operation Smile provides simple, playful tools—like bubbles—to strengthen the skills they need to speak and thrive.
+
+## [Zeit.io](https://zeit.io/en/blog)
+
+- added: Subscribe to new articles in your feed reader: RSS feed , Atom feed or JSON Feed .
+- added: 113 articles found
+- added: Automatic payment reminders for unpaid invoices
+- added: Automatic payment reminders in ZEIT.IO: reminders go out on the days you choose, with the invoice attached as an e-invoice – ZUGFeRD (EN 16931) by default, XRechnung on request. Dunning stops once the
+- added: Robert Reiz | November 11, 2026 - 06:54 UTC
+- removed: 112 articles found
+- removed: Auto-invoices: non-billable hours as an optional timesheet
+- removed: New in ZEIT.IO: auto-invoices can optionally attach a second timesheet with all non-billable hours of the period – in the PDF and in the XRechnung. Your customer sees the work behind the flat fee.
+- removed: Robert Reiz | September 28, 2026 - 06:08 UTC
 
 ## [Asha Health](https://careers.asha.health/) (minor change)
 
-- added: {"message":"I am alive","env":"production","timestamp":"2026-11-11T02:01:09.001Z"}
-- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-11T01:55:17.933Z"}
+- added: {"message":"I am alive","env":"production","timestamp":"2026-11-11T08:26:32.538Z"}
+- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-11T02:01:09.001Z"}
+
+## [Bacula Systems](https://www.baculasystems.com/company/careers/) (minor change)
+
+- added: windows server backup solutions
+- added: ransomware backup strategy
+- added: cohesity competitors
+- removed: bare metal restore
+- removed: azure backup on premise
+- removed: backup encryption
 
 ## [Casco](https://casco.com/careers) (minor change)
 
-- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-114406
-- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-96280
+- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-121885
+- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-114406
 
 ## [DappRadar](https://dappradar.com/careers) (minor change)
 
-- added: H $0.0333 -29.02% BTW $1.15 +15.93% ZEC $1.02k -12.52% RAIN $0.0₂400 -11.41% LIT $3.50 +10.53% VVV $19.42 -9.32% HASH $0.0₂677 -8.96% PEARL $1.48 -8.81% PI $0.0708 +8.03% GRAM $1.13 +7.62% STABLE $0.0
-- removed: H $0.0338 -28.13% BTW $1.15 +15.77% ZEC $1.03k -12.02% RAIN $0.0₂399 -11.73% LIT $3.49 +10.12% VVV $19.45 -9.17% HASH $0.0₂679 -8.85% PEARL $1.49 -8.36% PI $0.0709 +7.85% GRAM $1.13 +7.84% STABLE $0.0
+- added: A7A5 $0.0119 +191.48% H $0.0336 -22.17% PEARL $1.40 -15.73% ZEC $992.12 -13.10% BTW $1.12 +13.02% VVV $19.12 -10.44% LIT $3.44 +9.37% CPOOL $0.0258 -8.83% UNI $6.43 -8.43% HASH $0.0₂684 -7.53% QNT $17
+- removed: H $0.0333 -29.02% BTW $1.15 +15.93% ZEC $1.02k -12.52% RAIN $0.0₂400 -11.41% LIT $3.50 +10.53% VVV $19.42 -9.32% HASH $0.0₂677 -8.96% PEARL $1.48 -8.81% PI $0.0708 +8.03% GRAM $1.13 +7.62% STABLE $0.0
+
+## [dbt Labs](https://www.getdbt.com/about-us/careers) (minor change)
+
+- removed: Senior Software Development Engineer in Test
 
 ## [Evrone](https://evrone.com/hiring) (minor change)
 
-- added: +49 176 24514399
-- added: Kemperplatz 1, 10785 Berlin
-- removed: +1 415 425 2526
-- removed: 44 Tehama St, San Francisco, CA 94105
+- added: +1 415 425 2526
+- added: 44 Tehama St, San Francisco, CA 94105
+- removed: +49 176 24514399
+- removed: Kemperplatz 1, 10785 Berlin
 
-## [Saleor](https://saleor.io/) (minor change)
+## [Healia](https://healiahealth.com/careers) (minor change)
 
-- added: 15 hours ago 3.23.48
-- added: 3.23.48 15 hours ago
-- removed: 14 hours ago 3.23.48
-- removed: 3.23.48 14 hours ago
+- added: Questions about your employer’s Total Care Option (TCO)? Call our enrollment experts at (844) 507-5799.
+- removed: Healia Raises $18M to Fix Health Benefits for Families
+
+## [Jcode](https://jcode.sh/careers) (minor change)
+
+- added: 2026-10-24 · 18d ago
+- added: 2026-10-22 · 20d ago
+- removed: 2026-10-24 · 17d ago
+- removed: 2026-10-22 · 19d ago
+
+## [Jinba](https://jinba.io/careers) (minor change)
+
+- added: 55°F
+- removed: 54°F
+- removed: 63°F
+
+## [Langfuse](https://langfuse.com/careers) (minor change)
+
+- added: Langfuse is the most widely adopted LLM Engineering platform, used by 50,000+ companies , with 37,278 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 of the Fortune
+- removed: Langfuse is the most widely adopted LLM Engineering platform, used by 50,000+ companies , with 37,267 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 of the Fortune
+
+## [Mineflow](https://mineflow.ai/careers) (minor change)
+
+- removed: Maintenance in progress. Some Mineflow features may be slow or briefly unavailable. Thanks for your patience. Expect brief outages.
+
+## [Ollie Order](https://ollieorder.com/) (minor change)
+
+- added: Most reviewed craft beverage management software and ERP as of November 11, 2026
+- removed: Most reviewed craft beverage management software and ERP as of November 10, 2026
+
+## [Swadesi Way](https://swadesiway.com/explore) (minor change)
+
+- added: Showing 1–12 of 145 results
+- added: Organic Ginger
+- added: Organic Ginger quantity
+- removed: Showing 1–12 of 146 results
+- removed: Organic Red Dragon Fruit (2-3 pcs/kg)
+- removed: Price range: ₹140.00 through ₹1,050.00
+- removed: 1 pc (300-350g)
+- removed: Organic Red Dragon Fruit (2-3 pcs/kg) quantity
+
+## [The Centre for Effective Altruism](https://www.effectivealtruism.org/careers) (minor change)
+
+- added: 108 subscribed today
+- removed: 94 subscribed today
+
+## [VideoLingo](https://videolingo.io/careers.html) (minor change)
+
+- added: 19166 Stars
+- removed: 19153 Stars
+
+## [Vivo](https://vivo.gupy.io/) (minor change)
+
+- added: 77 jobs found for 0 filters applied
+- added: Job for Full-time employee: Analista Telecom Júnior
+- removed: 81 jobs found for 0 filters applied
+- removed: Job for Full-time employee: Advogado(a) Sênior - Assuntos Jurídico (Regulatório)
+
+## [WikiHow](https://www.wikihow.com/wikiHow:Jobs) (minor change)
+
+- added: 173
+- removed: 172
 
 ## Pages failing for 3+ checks
 

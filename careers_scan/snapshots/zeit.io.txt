@@ -2,10 +2,14 @@ Index
 2FA AI Accounting CRM Controlling CreditNotes DMS DPA DataPrivacy E-Invoice E-Rechnung EN16931 Factur-X GDPR HR Integrations Newsletter Offers Professional liability insurance Recruiting Scheinselbststaendigkeit Security SickNotes Supplier contracts Teams Teamwork TimeRecording VacationManagement XRechnung ZUGFeRD
 Blog - Latest articles on time tracking & e-invoices
 Discover exciting articles and current updates on time tracking, e-invoicing, controlling, and HR. Dive into our blog!
-112 articles found
+Subscribe to new articles in your feed reader: RSS feed , Atom feed or JSON Feed .
+113 articles found
+Automatic payment reminders for unpaid invoices
+Automatic payment reminders in ZEIT.IO: reminders go out on the days you choose, with the invoice attached as an e-invoice – ZUGFeRD (EN 16931) by default, XRechnung on request. Dunning stops once the invoice is paid.
+EN16931 XRechnung ZUGFeRD
+Robert Reiz | November 11, 2026 - 06:54 UTC
 SEPA direct debit in your e-invoices – now with the right data
 ZEIT.IO fixes SEPA direct debit in e-invoices: your customer's IBAN instead of your own, plus creditor ID and mandate reference in new fields. Your customer's accounting can match every debit to the right invoice.
-EN16931 XRechnung ZUGFeRD
 Robert Reiz | November 10, 2026 - 08:16 UTC
 Two letters that decide whether your e-invoice gets paid
 ZEIT.IO completes VAT IDs with the correct country prefix across forms, API and imports, and rejects mismatches. Your own EU VAT ID is also checked against the EU's VIES service, so e-invoices no longer bounce over a missing prefix.
@@ -89,6 +93,3 @@ Robert Reiz | September 29, 2026 - 08:37 UTC
 Import supplier contracts from CSV
 Supplier contracts can now be imported from CSV in the format of the CSV export – project contracts 1:1 included, with their project. Contracts are created as drafts, duplicates are detected. Also new: API endpoint POST /api/v1/org/contracts/suppliers.
 Robert Reiz | September 29, 2026 - 05:19 UTC
-Auto-invoices: non-billable hours as an optional timesheet
-New in ZEIT.IO: auto-invoices can optionally attach a second timesheet with all non-billable hours of the period – in the PDF and in the XRechnung. Your customer sees the work behind the flat fee.
-Robert Reiz | September 28, 2026 - 06:08 UTC

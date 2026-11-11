@@ -223,7 +223,7 @@ Get Jcode Desktop
 Changelog
 Releases and changelog . Full history on GitHub releases .
 Unreleased
-2026-10-24 · 17d ago
+2026-10-24 · 18d ago
 Changes since v0.99.1
 Automatically listed from commit messages.
 fix name the cause when a view is rejected, document table cell types
@@ -316,7 +316,7 @@ test create remote fixtures inside their reactor
 fix keep search cancellation within safety guardrails (refs #1932)
 fix pin bounded cancellable agentgrep searches (fixes #1932)
 v0.99.1
-2026-10-22 · 19d ago
+2026-10-22 · 20d ago
 OpenAI request fix and stability
 Release highlights.
 highlight Fix OpenAI models failing every turn with invalidrequesterror due to a rejected tool schema

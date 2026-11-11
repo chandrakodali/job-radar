@@ -18,7 +18,7 @@ Work through projects that connect data to decisions. Investigate a problem, ide
 Improve your work with expert feedback
 Get personalised feedback from an experienced data analyst on each project. Strengthen your analysis, question your assumptions and practise explaining how you reached your conclusions.
 Develop a focus that fits your goals
-Explore optional modules in product analytics and marketing analytics, or an independent capstone project. Apply your skills to product use, campaign performance or a question from an industry that interests you.
+Explore two optional modules, one on machine learning and one on cohorts, funnels and customer value (CLV/RFM), or an independent capstone project. Apply your skills to product use, campaign performance or a question from an industry that interests you.
 The tools you’ll work with
 Spreadsheets and databases
 Excel or Google Sheets
@@ -44,7 +44,7 @@ In this module, we’ll look at the main analysis types as they relate to four d
 Python for data analytics
 In this module, we'll take you on a journey through Python, even if you have no prior experience with Python or coding. Through hands-on projects and real-world examples, you'll gain the skills to tackle complex data challenges. From mastering the fundamentals of programming to working with libraries like Pandas, you'll learn how to process, analyse, and visualise data in ways that drive meaningful insights.
 Optional modules
-Tailor your learning journey to align with your specific goals and interests. Enhance the core curriculum by exploring specialisations such as product or marketing analytics. Boost your job search prospects by completing an optional capstone project. Here, you’ll create a distinctive portfolio piece that showcases your acquired knowledge.
+Tailor your learning journey to your goals and interests. Enhance the core curriculum with two optional modules: Other Analysis Types Part I (machine learning) and Part II (cohorts, funnels, CLV/RFM). Boost your job search prospects by completing an optional capstone project. Here, you’ll create a distinctive portfolio piece that showcases your acquired knowledge.
 Get full syllabus
 Our mentors bring first-hand experience from companies and universities such as:
 The companies and institutions mentioned have no institutional affiliation or official partnership with Turing College.
@@ -83,6 +83,7 @@ We don’t make empty job promises. Instead, we focus on what actually works: re
 Self-paced career module: job search strategy, CV and LinkedIn
 HR and technical mock interviews
 Career Guidance Hub and career support chat
+Graduates across all our programmes and countries
 A unique learning experience powered by technology
 Online learning is tough when you’re left on your own. That’s why we built Intra, our learning platform that combines the best of both worlds: human support and smart structure. We’ve also built adaptive AI features that personalise your learning even further, so your journey adjusts closely to your pace, needs, and progress.
 Learn more
@@ -132,6 +133,7 @@ Learners who prefer to split self-payment into monthly instalments
 Top 5% high-potential learners
 €270 x 12 months
 15+ h per week, special conditions may apply
+Living in the UK? Check UK programmes Living in Germany? Check Bildungsgutschein funding
 We have limited seats. Apply now!
 Our graduates have achieved life changing growth. You can too.
 4.9/5
@@ -155,6 +157,7 @@ Edvard Sivickij
 Founder @ condense.chat
 Drag to browse Swipe to browse
 More on Coursereport
+Reviews relate to Turing College and its international programmes, not only our German AZAV-certified ones.
 FAQ
 Do I need coding experience to study data analytics?
 You don’t need previous Python experience. The programme begins with spreadsheets and SQL, then introduces Python fundamentals and how to use it for analysis.

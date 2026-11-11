@@ -1,37 +1,7 @@
 Skip animation
-[email protected]
-An artistic carbon atom with an enlarged nucleus and flowing electron clouds becomes one of many atoms. They settle into a diamond crystal with four-neighbor bonds. A red wave across nearby atoms illustrates a lattice vibration, then the structure resolves into a diamond wafer. This is a visual explanation, not a simulation of diamond growth or a measured Kara product.
-The next leap in computing begins with the material.
+Extraordinary possibilities begin with carbon.
+KARA LABS
+The next leap in computing
+begins with the material.
 Kara makes diamond wafers and heat spreaders for advanced hardware.
-Backed by
-As seen in
-Enter the material
-One atom becomes many.
-Carbon gathers into an ordered structure.
-Four bonds. A diamond lattice.
-Vibration moves through the crystal.
-Engineered diamond. A foundation for more capable systems.
-More computation.
-Less room for heat.
-High-grade diamond’s thermal conductivity
-2,000 +
-W/m·K Published material value; varies by grade. Source ↗
-Heat concentrates where computation happens. Diamond’s extraordinary heat transport offers a way to spread it across a larger area.
-At the material
-interface.
-Diamond wafers, heat spreaders and custom components. Kara engineers the material where advanced devices meet their limits, building toward diamond semiconductors.
-What it makes possible.
-AI & compute
-Dense processors concentrate heat in a small area. Diamond heat spreaders offer a material path away from those hot spots.
-Thermal management
-Spread concentrated heat from active components through diamond plates, submounts and integrated thermal interfaces.
-Power electronics
-An ultra-wide bandgap and exceptional heat transport make diamond a compelling material for research into high-power devices.
-Photonics & optics
-Broad optical transmission and heat transport support windows, laser components and photonic structures.
-Quantum sensing
-Precisely controlled defects, including nitrogen-vacancy centers, enable optical detection of magnetic fields.
-Build what
-comes next.
-Start with the demands of your device.
-Discuss your application
+Discuss your application ↗
