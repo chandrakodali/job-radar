@@ -35,7 +35,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
+      # The branch's latest commit, not the one the run was queued at, so a run that waited starts from the
+      # results the previous run saved (otherwise saving can fail on a conflict).
       - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-python@v6
         with:
