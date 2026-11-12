@@ -310,7 +310,7 @@ notify:
 # again, best first, until all have a verdict.
 ai:
   mode: resume
-  providers: [nvidia, gemini, groq, mistral, openrouter]
+  providers: [gemini, groq, nvidia, mistral, openrouter]
   time_budget_minutes: 15     # time per run for AI checks
   backlog_per_run: 400        # saved matches (without an AI verdict) to check per run, best first
   desc_chars: 12000           # how much of each job description is sent

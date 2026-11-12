@@ -38,7 +38,7 @@ def reviewer(env, **cfg):
 
 def test_only_services_with_keys_are_used_in_order(no_wait):
     r = reviewer({"GROQ_API_KEY": "g", "NVIDIA_API_KEY": "n"})
-    assert [p.name for p in r.providers] == ["nvidia", "groq"]
+    assert [p.name for p in r.providers] == ["groq", "nvidia"]
     assert reviewer({}).cfg_ok is False and reviewer({}).describe().startswith("off")
 
 
@@ -65,7 +65,7 @@ def test_daily_limit_moves_on_to_the_next_service(monkeypatch, no_wait):
         return ok()
     monkeypatch.setattr(ai_fit.requests, "post", post)
     monkeypatch.setattr(ai_fit.requests, "get", lambda *a, **k: Resp(200, {"data": []}))
-    r = reviewer({"NVIDIA_API_KEY": "n", "GEMINI_API_KEY": "g"})
+    r = reviewer({"NVIDIA_API_KEY": "n", "GEMINI_API_KEY": "g"}, providers=["nvidia", "gemini"])
     out = r.check_many([dict(JOB, uid=f"u{i}") for i in range(4)], 30)
     assert len(out) == 4
     assert all(v["service"].startswith("gemini/") for v in out.values())

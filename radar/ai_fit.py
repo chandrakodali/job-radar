@@ -35,8 +35,8 @@ log = logging.getLogger("radar.ai_fit")
 PROVIDERS = {
     "nvidia": ("NVIDIA_API_KEY", "https://integrate.api.nvidia.com/v1/chat/completions",
                "https://integrate.api.nvidia.com/v1/models",
-               ["deepseek-ai/deepseek-v4.1-flash", "z-ai/glm-5.3-flash", "minimaxai/minimax-m3.1-flash",
-                "google/gemma-4-31b-it", "openai/gpt-oss-20b", "mistralai/mistral-large-2-instruct"],
+               ["openai/gpt-oss-20b", "google/gemma-4-31b-it", "nvidia/llama-3.1-nemotron-70b-instruct",
+                "mistralai/mistral-large-2-instruct", "deepseek-ai/deepseek-v4.1-flash", "z-ai/glm-5.3-flash"],
                r"deepseek-v\d|glm-\d|minimax-m|gemma-4|kimi-k|mistral-large|gpt-oss|nemotron-70b", 2.0),
     "gemini": ("GEMINI_API_KEY", "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
                "https://generativelanguage.googleapis.com/v1beta/openai/models",
@@ -56,7 +56,7 @@ PROVIDERS = {
                    "https://openrouter.ai/api/v1/models", ["openrouter/free"], r":free$", 4.0),
 }
 # GitHub Models stopped answering in 2026 (it replies "OK"); it is kept only for a token set by hand.
-DEFAULT_ORDER = ["nvidia", "gemini", "groq", "mistral", "openrouter", "github"]
+DEFAULT_ORDER = ["gemini", "groq", "nvidia", "mistral", "openrouter", "github"]
 
 INSTRUCTIONS = """You check one job posting against one candidate's resume and answer only with a JSON object.
 
@@ -217,7 +217,7 @@ class FitReviewer:
         if p.name == "groq" and "gpt-oss" in p.model:
             body["reasoning_effort"] = "low"
         self.calls += 1
-        r = requests.post(p.url, headers=p.headers(), json=body, timeout=60 if p.name == "nvidia" else 90)
+        r = requests.post(p.url, headers=p.headers(), json=body, timeout=90)
         if r.status_code == 200:
             try:
                 data = r.json()
