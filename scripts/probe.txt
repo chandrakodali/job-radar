@@ -1,7 +1,0 @@
-SNIP https://jobs.workable.com/robots.txt user-agent
-SNIP https://jobs.lever.co/robots.txt condition
-SNIP https://apply.workable.com/robots.txt user-agent
-SNIP https://builtin.com/robots.txt user-agent: \*
-SNIP https://wellfound.com/robots.txt user-agent
-SNIP https://www.dice.com/robots.txt user-agent
-SNIP https://hiringcafe.com/robots.txt user-agent
