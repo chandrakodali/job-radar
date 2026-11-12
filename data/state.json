@@ -7620,17 +7620,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 7,
+   "n": 8,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 7,
+   "n": 8,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 7,
+   "n": 8,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -8879,8 +8879,9 @@
    "since": "2026-11-08"
   }
  },
- "found_cursor": 2243,
+ "found_cursor": 1318,
  "last_digest": "2026-11-12",
+ "missing_once": {},
  "resolved": {
   "airbnb": {
    "ats": "greenhouse",
@@ -37108,6 +37109,7 @@
   "ashby:openai:33acf0e2-5c11-46d7-9dc9-417f5537139b": "2026-11-07",
   "ashby:openai:4f2d9849-ad00-48d5-a22f-0cb943723999": "2026-11-07",
   "ashby:openai:9f7371c4-e306-4a45-a400-aa2843fabd85": "2026-11-07",
+  "ashby:openai:e70a2b94-17d7-4083-a028-943bae53d126": "2026-11-12",
   "ashby:openloophealth:d1e8a8c6-8205-4057-8e5d-597c9df3f724": "2026-11-07",
   "ashby:options-it:dc5f0094-f6b8-422c-9773-577a519ef269": "2026-11-07",
   "ashby:orbital:34a2f3a7-011f-4d9d-9eb7-3d7e0b3377d5": "2026-11-07",

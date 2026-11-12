@@ -2,9 +2,9 @@
 
 Watching **7,552 company job boards** every 30 minutes for entry-friendly DevOps, SRE, cloud, platform and infrastructure roles in the US.
 
-Last new match: **Thu Nov 12, 02:11 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
+Last new match: **Thu Nov 12, 02:20 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
 
-## Posted in the last 24 hours (40)
+## Posted in the last 24 hours (41)
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
@@ -20,6 +20,7 @@ Last new match: **Thu Nov 12, 02:11 PM CST**. Score is 0–100 (higher = better 
 | 70 | [Infrastructure Support Engineer](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41266) | Nokia | United States (onsite) | Nov 12 |  |
 | 70 | [Application Security Engineer](https://jobs.ashbyhq.com/langchain/5095871a-9af2-4521-8c63-ff0d852f7354) | Langchain | San Francisco, CA (onsite) | Nov 12 |  |
 | 70 | [Associate Agentic Search Infrastructure Engineer - Moveworks](https://jobs.smartrecruiters.com/ServiceNow/744000161349929-associate-agentic-search-infrastructure-engineer-moveworks-) | ServiceNow | Mountain View, CALIFORNIA, United States | Nov 12 | entry-level title |
+| 70 | [Business Platform Engineer](https://jobs.ashbyhq.com/openai/e70a2b94-17d7-4083-a028-943bae53d126) | OpenAI | San Francisco (hybrid) | Nov 12 |  |
 | 65 | [Mobile Platform Engineer](https://apply.workable.com/raydar/j/DA7CCE0A05/) | Raydar | San Francisco, California, United States | Nov 11 |  |
 | 65 | [Software Engineer, Infrastructure](https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/New-York-NY/Software-Engineer--Infrastructure_R0035440) | Epiq Systems | New York, NY; CAN-Toronto-ON-390 Bay St… (hybrid) | Nov 11 | 3+ yrs exp |
 | 60 | [DevOps / Reliability Engineer](https://careers.quality-ai.com/job/Ciudad-de-M%C3%A9xico-DevOps-Reliability-Engineer/61504344/) | Qualitest |  | Nov 11 | location unclear |
