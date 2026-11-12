@@ -19,8 +19,13 @@ on:
         description: 'Only these job systems (space-separated), blank for all'
         required: false
         default: ''
+      ai_check:
+        description: 'Only test the AI keys with one sample job (no scan, nothing saved)'
+        type: boolean
+        default: false
 permissions:
   contents: write
+  models: read      # GitHub Models, one of the free AI services for the resume check
 
 concurrency:
   group: radar-auto
@@ -29,7 +34,7 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 55
+    timeout-minutes: 70
     steps:
       - uses: actions/checkout@v5
 
@@ -44,19 +49,32 @@ jobs:
       - name: Tests
         run: python -m pytest -q
 
+      - name: Test the AI keys
+        if: ${{ inputs.ai_check == true }}
+        env:
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GITHUB_MODELS_TOKEN: ${{ github.token }}
+        run: python -m radar.ai_fit --check --profile automotive
+
       - name: Run Auto Radar
+        if: ${{ inputs.ai_check != true }}
         env:
           # Use separate NTFY_TOPIC_AUTO / TELEGRAM_*_AUTO secrets to send these alerts somewhere else.
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN_AUTO || secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID_AUTO || secrets.TELEGRAM_CHAT_ID }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC_AUTO || secrets.NTFY_TOPIC }}
           NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+          # Free AI services for the resume check of each job (radar/ai_fit.py); any that are set are used.
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          AI_MODEL: ${{ vars.AI_MODEL || secrets.AI_MODEL }}
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GITHUB_MODELS_TOKEN: ${{ github.token }}
           DRY_RUN: ${{ inputs.dry_run }}
           FULL_SWEEP: ${{ inputs.full_sweep }}
           ONLY: ${{ inputs.only }}
@@ -69,7 +87,7 @@ jobs:
 
       # A test run saves nothing to the repository; its results are attached to the run instead.
       - name: Attach test-run results
-        if: ${{ inputs.dry_run == true }}
+        if: ${{ inputs.dry_run == true && inputs.ai_check != true }}
         uses: actions/upload-artifact@v4
         with:
           name: auto-radar-test-run
@@ -78,7 +96,7 @@ jobs:
             REPORT_AUTOMOTIVE.md
 
       - name: Save results
-        if: ${{ inputs.dry_run != true }}
+        if: ${{ inputs.dry_run != true && inputs.ai_check != true }}
         run: |
           git config user.name "job-radar-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

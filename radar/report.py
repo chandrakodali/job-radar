@@ -28,14 +28,27 @@ def _when(iso: str, tz: ZoneInfo) -> str:
 
 
 def _table(rows: list[dict], tz: ZoneInfo) -> list[str]:
-    out = ["| Score | Role | Company | Location | Posted | Notes |", "|---:|---|---|---|---|---|"]
+    ai = any(str(r.get("ai_score", "")).strip() for r in rows)
+    if ai:   # a resume check ran: show its score and reason next to the radar's notes
+        out = ["| Score | AI | Role | Company | Location | Posted | AI check | Notes |",
+               "|---:|---:|---|---|---|---|---|---|"]
+    else:
+        out = ["| Score | Role | Company | Location | Posted | Notes |", "|---:|---|---|---|---|---|"]
     for r in rows:
         title = _cell(r["title"], 70).replace("[", "(").replace("]", ")")
         loc = _cell(r["location"], 40) + (f" ({r['workplace']})" if r.get("workplace") else "")
-        out.append(
-            f"| {r['score']} | [{title}]({r['url']}) | {_cell(r['company'], 30)} | {loc} | "
-            f"{_when(r.get('posted') or r['first_seen'], tz)} | {_cell(r.get('flags', ''), 70)} |"
-        )
+        when = _when(r.get("posted") or r["first_seen"], tz)
+        if ai:
+            ai_score = str(r.get("ai_score", "")).strip() or "–"
+            out.append(
+                f"| {r['score']} | {ai_score} | [{title}]({r['url']}) | {_cell(r['company'], 30)} | {loc} | {when} | "
+                f"{_cell(r.get('ai_why', ''), 160)} | {_cell(r.get('flags', ''), 70)} |"
+            )
+        else:
+            out.append(
+                f"| {r['score']} | [{title}]({r['url']}) | {_cell(r['company'], 30)} | {loc} | "
+                f"{when} | {_cell(r.get('flags', ''), 70)} |"
+            )
     return out
 
 

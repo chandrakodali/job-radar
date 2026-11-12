@@ -454,7 +454,7 @@ def _assess_experienced(job: Job, board: Board, rules: Rules, category: str, now
         score += 4
         flags.append("sponsors visas")
     elif desc and _any(rules.no_sponsorship, desc):
-        score -= 4
+        score -= 2           # only a small nudge: sponsorship is noted, not held against the job
         flags.append("no visa sponsorship")
     if board.priority:
         score += 5

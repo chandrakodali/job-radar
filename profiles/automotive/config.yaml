@@ -20,12 +20,14 @@ profile:
     employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles
     are found too.
   score_note: >-
-    Score is 0–100: mostly how many of the resume's tools the job text names (listed under Notes), then
-    years required, freshness and location.
+    Score is 0–100. Where the AI column is filled, an AI read the full job description against the resume:
+    the score is 60% the AI's score and 40% the radar's keyword score, and "AI check" lists the resume
+    skills the job asks for ("has") and what it asks for that the resume lacks ("missing"). Jobs without an
+    AI score are checked on later runs. Visa sponsorship does not lower the AI score.
   hidden_note: >-
     Jobs that need a security clearance, US citizenship or ITAR status, jobs asking for 10+ years of
-    experience, jobs whose text names none of the resume's tools, and jobs the AI reviewer (if enabled)
-    judged off-target. The reason is in the Notes column. Listed so nothing is dropped silently.
+    experience, jobs whose text names none of the resume's tools, and jobs the AI check of the full
+    description against the resume judged a different kind of job. The reason is in the Notes column. Listed so nothing is dropped silently.
   refresh_note: 'Refreshes every 3 hours.'
   chips:   # which notes show red / green / amber on the page
     bad: 'no visa sponsorship|clearance|citizen|itar|stretch|staffing|open \d+ days|([89]|1\d)\+ yrs|none of your tools|asks for \d+\+ years'
@@ -302,31 +304,36 @@ notify:
   daily_digest_hour_local: 8
   timezone: 'America/Detroit'
 
-# Optional AI check (turns on when an AI key secret exists; see radar/ai.py).
+# AI check of every match's full job description against the resume (radar/ai_fit.py). Turns on when
+# at least one key secret exists: NVIDIA_API_KEY, GEMINI_API_KEY, GROQ_API_KEY (and the workflow's own
+# GitHub Models token). Services are used in this order; when one is busy or out of free requests for the
+# day, the next one takes over. Matches saved before the AI check are checked as their boards list them
+# again, best first, until all have a verdict.
 ai:
-  max_requests_per_run: 6
-  keep_senior: true
-  max_min_years: 8
-  roles: [embedded, controls, mbd, autosar, adas, test, systems, related, other]
-  system: |
-    You screen job postings for one candidate and answer only with JSON.
-    Candidate: automotive embedded software engineer in Michigan, USA, about 4 years of experience at a
-    steering Tier-1 supplier (Electric Power Steering, Steer-by-Wire, ADAS lane-keeping features).
-    Skills: C, C++, basic Python, model-based development in MATLAB/Simulink/Stateflow, Embedded Coder and
-    TargetLink code generation, AUTOSAR (DaVinci Developer/Configurator), Polyspace, MISRA C, ISO 26262,
-    ASPICE, MIL/SIL testing (Reactis), CAN, IBM DOORS, Jenkins, Git.
-    Wanted roles: embedded software / firmware, controls software and algorithms, model-based development,
-    AUTOSAR, ADAS / chassis / steering / powertrain / battery / motor-control software, software
-    integration, MIL/SIL/HIL test and verification, and closely related work in automotive, trucks,
-    off-highway, aerospace, robotics or other safety-critical embedded products.
-    NOT wanted: web / cloud / IT / data roles, mechanical, manufacturing or quality roles, PLC / industrial
-    automation, management, sales, technician jobs, internships.
-    Rules: "fit" is "yes" for a wanted role, "related" for a closely related role, "no" otherwise.
-    "level" is entry (0-2 yrs), mid (3-7 yrs) or senior (8+ yrs, or staff/principal). "min_years" is the
-    smallest number of years the posting requires (null if not stated). "sponsor" is "yes" if it offers
-    visa sponsorship, "no" if it says no sponsorship, else "unknown". "clearance" is true if it needs a
-    security clearance or US citizenship. "score" 0-100 = how well the candidate's tools and experience
-    match what the posting asks for. "why" = at most 14 words.
+  mode: resume
+  providers: [nvidia, gemini, github, groq, mistral, openrouter]
+  time_budget_minutes: 15     # time per run for AI checks
+  backlog_per_run: 400        # saved matches (without an AI verdict) to check per run, best first
+  desc_chars: 12000           # how much of each job description is sent
+  score_weight: 0.6           # final score = 60% AI score + 40% the radar's keyword score
+  max_min_years: 10           # the AI hides jobs that ask for this many years or more
+  # Sent with every check instead of the resume file: skills and experience only (no name or contact
+  # details). Visa sponsorship is not part of the score.
+  resume: |
+    Automotive embedded software engineer in Michigan, USA, about 4 years of experience (Dec 2022 to now)
+    at a Tier-1 steering supplier, on 9+ Electric Power Steering (EPS) and Steer-by-Wire programs.
+    Work: Lane Keeping Assist and ADAS arbitration models in MATLAB/Simulink; 20+ model-based design (MBD)
+    models in Simulink, Stateflow and TargetLink following MAAB and ISO 26262; EPS models for dual-ECU and
+    Steer-by-Wire systems across 6 OEM platforms; requirements for TX/RX communication modules from
+    interface specifications; AUTOSAR component XML with Vector DaVinci Developer/Configurator; automatic
+    code generation (Embedded Coder, TargetLink, autosar.tlc) plus hand-written C modules; Polyspace static
+    analysis in the code generation pipeline (99.8% MISRA C compliance); MIL/SIL testing against
+    requirements with Reactis and Simulink test harnesses (100% coverage); MXAM model checks; unit testing.
+    Skills: C, C++, basic Python; MATLAB, Simulink, Stateflow, Embedded Coder, TargetLink, Reactis,
+    DaVinci Developer and Configurator, Polyspace, MXAM; IBM DOORS/DNG, Jenkins CI/CD, Git; MAAB,
+    MISRA C, V-Model, ISO 26262, ASPICE, AUTOSAR, CAN.
+    Education: MS Computer Science; BTech Electronics and Communication Engineering.
+    No hands-on HIL bench, dSPACE hardware, embedded Linux, RTOS driver or PCB hardware experience shown.
 
 discovery:
   boards_per_run: 3000

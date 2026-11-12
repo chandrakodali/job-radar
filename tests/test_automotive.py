@@ -344,7 +344,8 @@ def _point_at_tmp(tmp_path, monkeypatch):
     monkeypatch.setattr(D, "PAGE_PATH", str(tmp_path / "docs" / "index.html"))
     monkeypatch.setattr(M, "CONFIG_PATH", os.path.join(AUTO, "config.yaml"))
     for var in ("TELEGRAM_BOT_TOKEN", "TELEGRAM_CHAT_ID", "NTFY_TOPIC", "GEMINI_API_KEY", "OPENROUTER_API_KEY",
-                "GROQ_API_KEY", "OPENAI_API_KEY", "ANTHROPIC_API_KEY"):
+                "GROQ_API_KEY", "OPENAI_API_KEY", "ANTHROPIC_API_KEY", "NVIDIA_API_KEY", "GITHUB_MODELS_TOKEN",
+                "MISTRAL_API_KEY"):
         monkeypatch.delenv(var, raising=False)
 
 
@@ -458,6 +459,58 @@ def test_wide_cap_defers_instead_of_dropping(tmp_path, monkeypatch):
     for expected in (2, 4, 5):
         assert M.main(["--dry-run"]) == 0
         assert len(list(csv.DictReader(open(tmp_path / "matches.csv")))) == expected
+
+
+def test_ai_resume_check_reviews_new_jobs_and_saved_ones(tmp_path, monkeypatch):
+    from radar import ai_fit
+    _point_at_tmp(tmp_path, monkeypatch)
+    monkeypatch.setattr(M, "FOCUS_PATH", "")
+    monkeypatch.setattr(M, "load_boards", lambda: [Board("greenhouse", "robo", "Robo")])
+    monkeypatch.setattr(M, "load_discovered", lambda known, *a, **k: [])
+    monkeypatch.setattr(ai_fit, "PROVIDERS", {k: v[:5] + (0.0,) for k, v in ai_fit.PROVIDERS.items()})
+    now = datetime.now(timezone.utc)
+    names = ["A", "B", "C"]
+    monkeypatch.setitem(ATS.LISTERS, "greenhouse", lambda b: [
+        Job("greenhouse", "robo", n, "Robo", f"Controls Engineer {n}", location="Detroit, MI", url=f"https://r/{n}",
+            posted_at=now - timedelta(days=1), needs_detail=True, detail_ref=n) for n in names])
+    monkeypatch.setitem(ATS.DETAILERS, "greenhouse", lambda j: setattr(j, "description", RESUME_JOB))
+
+    # no AI key yet: matches are saved unchecked
+    assert M.main(["--dry-run"]) == 0
+    rows = list(csv.DictReader(open(tmp_path / "matches.csv")))
+    assert len(rows) == 3 and not any(r["ai"] for r in rows)
+
+    sent = []
+
+    def post(url, json=None, **kw):
+        user = json["messages"][1]["content"]
+        sent.append(user)
+        bad = "Engineer C" in user
+        answer = {"fit": "no" if bad else "yes", "score": 15 if bad else 90, "matched": ["Simulink"],
+                  "missing": [], "min_years": 3, "level": "mid", "clearance": False, "sponsor": "no",
+                  "role": "controls", "why": "web job" if bad else "steering controls", "evidence": "x"}
+        class R:
+            status_code, headers, text = 200, {}, ""
+            def json(self):
+                return {"choices": [{"message": {"content": __import__("json").dumps(answer)}}]}
+        return R()
+    monkeypatch.setattr(ai_fit.requests, "post", post)
+    monkeypatch.setenv("NVIDIA_API_KEY", "test")
+    names.append("D")   # a new job, checked as it is found
+    assert M.main(["--dry-run"]) == 0
+    rows = {r["uid"].split(":")[-1]: r for r in csv.DictReader(open(tmp_path / "matches.csv"))}
+    assert set(rows) == {"A", "B", "D"}                       # C moved to the hidden list by the AI
+    assert all(r["ai"] == "keep" and r["ai_score"] == "90" for r in rows.values())
+    assert "has: Simulink" in rows["A"]["ai_why"] and len(sent) == 4
+    rejected = list(csv.DictReader(open(tmp_path / "rejected.csv")))
+    assert [r["reject_reason"] for r in rejected if r["uid"].endswith(":C")] == ["AI: not this kind of job (web job)"]
+    report = (tmp_path / "REPORT_AUTOMOTIVE.md").read_text()
+    assert "| AI |" in report and "steering controls" in report
+
+    # third run: nothing left to check, nothing sent again
+    sent.clear()
+    assert M.main(["--dry-run"]) == 0
+    assert sent == []
 
 
 # ------------------------------------------------------------------ readers added for more employers

@@ -40,6 +40,18 @@ steering / ADAS features.
 - It runs every 3 hours. A job whose text could not be read in one run waits for the next run instead of
   being judged without it.
 
+**AI check against the resume.** Each match's full job description is also read by a free AI model next to a
+summary of the resume (skills and experience only, no name or contact details). It gives a 0–100 fit score,
+the resume skills the job asks for ("has"), what the job requires that the resume lacks ("missing"), and a
+short reason, shown in the report's **AI** and **AI check** columns. The final score is 60% the AI's score and
+40% the keyword score. Jobs the AI judges a different kind of work, or that need a clearance/citizenship or 10+
+years, move to the hidden list with the reason. Visa sponsorship does not lower the AI score. It uses every key
+it finds and moves to the next service when one runs out of free requests for the day:
+`NVIDIA_API_KEY` (build.nvidia.com), `GEMINI_API_KEY` (aistudio.google.com), `GROQ_API_KEY` (console.groq.com),
+and GitHub Models through the workflow's own token (no key). Matches found before the AI check are checked over
+the next runs, best first. **Actions → radar-auto → Run workflow → "Only test the AI keys"** shows which keys
+work. The DevOps radar does not use AI.
+
 **What it cannot see** is listed in [profiles/automotive/COVERAGE.md](profiles/automotive/COVERAGE.md), with a
 link to each of those employers' careers pages. Tesla and MathWorks, for example, block automated readers.
 
@@ -71,6 +83,9 @@ Turn it on once: **Settings → Pages → Build and deployment → Source: Deplo
 It then lives at `https://chandrakodali.github.io/job-radar/`.
 
 ## AI check (optional, free)
+
+Currently switched off for the DevOps radar: its workflow passes no AI keys (they are used by the Auto Radar
+only). To turn it back on, add the key lines back to `.github/workflows/radar.yml`.
 
 Each new match can be reviewed by an AI model before it is saved or sent to your phone: it drops roles that
 aren't DevOps / SRE / platform / cloud / infrastructure / DevSecOps (or close), drops 5+ year roles and
@@ -104,7 +119,8 @@ from those lists that use a tracking system the radar didn't know are added to t
 | `companies.csv` | Auto-built list of company job boards (rebuilt weekly) |
 | `companies_custom.csv` | Your own companies (never overwritten) |
 | `config.yaml` | Matching and scoring rules |
-| `profiles/automotive/` | Auto Radar: its rules, employer boards and coverage notes |
+| `profiles/automotive/` | Auto Radar: its rules, employer boards, coverage notes and the resume summary for the AI check |
+| `radar/ai_fit.py` | Auto Radar's AI check of each job description against the resume |
 | `REPORT_AUTOMOTIVE.md`, `data/automotive/` | Auto Radar report, match history and state |
 
 ## Notes
