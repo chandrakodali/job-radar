@@ -26,10 +26,16 @@ jobs:
         if: ${{ inputs.lca == true }}
         run: |
           pip install openpyxl
-          for f in media/LCA_Disclosure_Data_FY2026_Q3.xlsx sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx; do
-            curl -sSL --retry 2 -A "Mozilla/5.0 (job-radar; public data)" -o "/tmp/$(basename $f)" "https://www.dol.gov/$f" || true
-            ls -la "/tmp/$(basename $f)"; file "/tmp/$(basename $f)"
-          done
+          python - <<'PY'
+          import requests, sys
+          sys.path.insert(0, ".")
+          from radar.http import USER_AGENT
+          for f in ["media/LCA_Disclosure_Data_FY2026_Q3.xlsx",
+                    "sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx"]:
+              r = requests.get("https://www.dol.gov/" + f, headers={"User-Agent": USER_AGENT}, timeout=300)
+              open("/tmp/" + f.rsplit("/", 1)[-1], "wb").write(r.content)
+              print(f, r.status_code, len(r.content))
+          PY
           python scripts/lca_employers.py /tmp/LCA_Disclosure_Data_*.xlsx
           head -60 profiles/automotive/lca_employers.csv
       - uses: actions/upload-artifact@v4
