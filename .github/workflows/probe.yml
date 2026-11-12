@@ -37,7 +37,7 @@ jobs:
               print(f, r.status_code, len(r.content))
           PY
           python scripts/lca_employers.py /tmp/LCA_Disclosure_Data_*.xlsx
-          head -60 profiles/automotive/lca_employers.csv
+          echo "=====LCA====="; cat profiles/automotive/lca_employers.csv
       - uses: actions/upload-artifact@v4
         if: ${{ inputs.lca == true }}
         with:
