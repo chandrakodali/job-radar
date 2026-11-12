@@ -53,6 +53,9 @@ def one(line: str) -> str:
     try:
         if kind == "BOARD":
             return board_check(parts[1], parts[2] if len(parts) > 2 else "")
+        if kind == "AUTO":      # which of Greenhouse / Ashby / Lever hosts these slugs
+            from radar import ats as ATS
+            return "AUTO " + " ".join(f"{sl}={ATS.resolve_auto(sl)}" for sl in parts[1:] + (parts[2].split() if len(parts) > 2 else [])[:0])
         if kind in ("WD", "WDX"):
             t = parts[1]
             out = []
