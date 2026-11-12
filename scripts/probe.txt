@@ -1,8 +1,7 @@
-GET https://jobs.workable.com/robots.txt
-GET https://jobs.lever.co/robots.txt
-GET https://apply.workable.com/robots.txt
-GET https://builtin.com/robots.txt
-GET https://wellfound.com/robots.txt
-GET https://www.dice.com/robots.txt
-GET https://hiring.cafe/robots.txt
-GET https://www.simplyhired.com/robots.txt
+SNIP https://jobs.workable.com/robots.txt user-agent
+SNIP https://jobs.lever.co/robots.txt condition
+SNIP https://apply.workable.com/robots.txt user-agent
+SNIP https://builtin.com/robots.txt user-agent: \*
+SNIP https://wellfound.com/robots.txt user-agent
+SNIP https://www.dice.com/robots.txt user-agent
+SNIP https://hiringcafe.com/robots.txt user-agent
