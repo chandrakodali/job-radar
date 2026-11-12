@@ -47,8 +47,8 @@ short reason, shown in the report's **AI** and **AI check** columns. The final s
 40% the keyword score. Jobs the AI judges a different kind of work, or that need a clearance/citizenship or 10+
 years, move to the hidden list with the reason. Visa sponsorship does not lower the AI score. It uses every key
 it finds and moves to the next service when one runs out of free requests for the day:
-`NVIDIA_API_KEY` (build.nvidia.com), `GEMINI_API_KEY` (aistudio.google.com), `GROQ_API_KEY` (console.groq.com),
-and GitHub Models through the workflow's own token (no key). Matches found before the AI check are checked over
+`NVIDIA_API_KEY` (build.nvidia.com), `GEMINI_API_KEY` (aistudio.google.com) and `GROQ_API_KEY` (console.groq.com;
+`GROK_API_KEY` works too). Matches found before the AI check are checked over
 the next runs, best first. **Actions → radar-auto → Run workflow → "Only test the AI keys"** shows which keys
 work. The DevOps radar does not use AI.
 

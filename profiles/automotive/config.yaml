@@ -305,13 +305,12 @@ notify:
   timezone: 'America/Detroit'
 
 # AI check of every match's full job description against the resume (radar/ai_fit.py). Turns on when
-# at least one key secret exists: NVIDIA_API_KEY, GEMINI_API_KEY, GROQ_API_KEY (and the workflow's own
-# GitHub Models token). Services are used in this order; when one is busy or out of free requests for the
+# at least one key secret exists: NVIDIA_API_KEY, GEMINI_API_KEY, GROQ_API_KEY (also read as GROK_API_KEY). Services are used in this order; when one is busy or out of free requests for the
 # day, the next one takes over. Matches saved before the AI check are checked as their boards list them
 # again, best first, until all have a verdict.
 ai:
   mode: resume
-  providers: [nvidia, gemini, github, groq, mistral, openrouter]
+  providers: [nvidia, gemini, groq, mistral, openrouter]
   time_budget_minutes: 15     # time per run for AI checks
   backlog_per_run: 400        # saved matches (without an AI verdict) to check per run, best first
   desc_chars: 12000           # how much of each job description is sent

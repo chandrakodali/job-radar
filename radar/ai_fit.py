@@ -5,7 +5,6 @@ moves to the next one when a service is busy or out of free requests for the day
 
   NVIDIA_API_KEY        build.nvidia.com (free, about 40 requests a minute)
   GEMINI_API_KEY        Google AI Studio (Flash-Lite models, a few hundred requests a day each)
-  GITHUB_MODELS_TOKEN   GitHub Models, the workflow's own token (about 150 requests a day)
   GROQ_API_KEY          Groq (about 50 full job checks a day per model)
   MISTRAL_API_KEY, OPENROUTER_API_KEY   used too if present
 
@@ -36,12 +35,12 @@ log = logging.getLogger("radar.ai_fit")
 PROVIDERS = {
     "nvidia": ("NVIDIA_API_KEY", "https://integrate.api.nvidia.com/v1/chat/completions",
                "https://integrate.api.nvidia.com/v1/models",
-               ["openai/gpt-oss-120b", "nvidia/nemotron-3-super-120b-a12b", "qwen/qwen3-next-80b-a3b-instruct",
-                "meta/llama-4-maverick-17b-128e-instruct"],
-               r"gpt-oss-120b|nemotron-3-super|qwen3.*instruct|llama-4-maverick|deepseek-v3", 2.0),
+               ["deepseek-ai/deepseek-v4.1-flash", "z-ai/glm-5.3-flash", "minimaxai/minimax-m3.1-flash",
+                "google/gemma-4-31b-it", "openai/gpt-oss-20b", "mistralai/mistral-large-2-instruct"],
+               r"deepseek-v\d|glm-\d|minimax-m|gemma-4|kimi-k|mistral-large|gpt-oss|nemotron-70b", 2.0),
     "gemini": ("GEMINI_API_KEY", "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
                "https://generativelanguage.googleapis.com/v1beta/openai/models",
-               ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite", "gemini-flash-lite-latest"],
+               ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite", "gemma-4-31b-it", "gemma-4-26b-a4b-it"],
                r"gemini-[\d.]+-flash-lite$", 4.5),
     "github": ("GITHUB_MODELS_TOKEN", "https://models.github.ai/inference/chat/completions",
                "https://models.github.ai/catalog/models",
@@ -56,7 +55,8 @@ PROVIDERS = {
     "openrouter": ("OPENROUTER_API_KEY", "https://openrouter.ai/api/v1/chat/completions",
                    "https://openrouter.ai/api/v1/models", ["openrouter/free"], r":free$", 4.0),
 }
-DEFAULT_ORDER = ["nvidia", "gemini", "github", "groq", "mistral", "openrouter"]
+# GitHub Models stopped answering in 2026 (it replies "OK"); it is kept only for a token set by hand.
+DEFAULT_ORDER = ["nvidia", "gemini", "groq", "mistral", "openrouter", "github"]
 
 INSTRUCTIONS = """You check one job posting against one candidate's resume and answer only with a JSON object.
 
@@ -220,7 +220,9 @@ class FitReviewer:
             try:
                 data = r.json()
             except ValueError:
-                raise ValueError(f"reply is not JSON ({r.headers.get('content-type', '?')}): {r.text[:150]!r}")
+                p.last_error = f"reply is not JSON ({r.headers.get('content-type', '?')}): {r.text[:80]!r}"
+                p.dead = "service does not answer properly"
+                raise _Retry()
             msg = ((data.get("choices") or [{}])[0].get("message") or {})
             content = msg.get("content") or ""
             if not content.strip():
@@ -291,11 +293,14 @@ class FitReviewer:
 
     def check(self, item: dict, deadline: float) -> dict | None:
         chars = self.desc_chars
-        for _attempt in range(5):
+        attempts = 0
+        while attempts < 5:
             p = self._take(deadline)
             if p is None:
                 return None
             wait = 0.0
+            before = (p.model_i, p.dead)
+            attempts += 1
             try:
                 verdict = clean(parse(self._post(p, self.prompt(item, chars))), self.max_min_years)
                 p.fails = 0
@@ -304,6 +309,8 @@ class FitReviewer:
                 return verdict
             except _Retry as e:
                 wait = float(e.args[0]) if e.args else 0.0
+                if (p.model_i, p.dead) != before:
+                    attempts -= 1     # a service or model ran out: not this job's fault, try the next one
             except ValueError as e:   # unreadable answer or text too long
                 if "too long" in str(e):
                     chars = max(3000, chars // 2)
