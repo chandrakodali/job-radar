@@ -18,61 +18,6 @@
   "core_remaining": 0,
   "pending": [
     {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ny/tuckahoe",
-      "label": "Tuckahoe",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ny/valhalla",
-      "label": "Valhalla",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/oh/brooklyn-heights",
-      "label": "Brooklyn Heights",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/oh/gahanna",
-      "label": "Gahanna",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/oh/lancaster",
-      "label": "Lancaster",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/oh/millersport",
-      "label": "Millersport",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/oh/reynoldsburg",
-      "label": "Reynoldsburg",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ok/empire-city",
-      "label": "Empire City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ok/pryor",
-      "label": "Pryor",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/or/wilsonville",
-      "label": "Wilsonville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/audubon",
-      "label": "Audubon",
-      "count": 1
-    },
-    {
       "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/bethel-park",
       "label": "Bethel Park",
       "count": 1
@@ -2869,6 +2814,30 @@
     {
       "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ny/sunnyside",
       "label": "Sunnyside",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ny/tuckahoe",
+      "label": "Tuckahoe",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/oh/reynoldsburg",
+      "label": "Reynoldsburg",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/or/wilsonville",
+      "label": "Wilsonville",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/audubon",
+      "label": "Audubon",
       "count": 1,
       "deferred_once": true
     }
