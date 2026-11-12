@@ -2,12 +2,13 @@
 
 Watching **7,552 company job boards** every 30 minutes for entry-friendly DevOps, SRE, cloud, platform and infrastructure roles in the US.
 
-Last new match: **Thu Nov 12, 12:24 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
+Last new match: **Thu Nov 12, 12:34 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
 
-## Posted in the last 24 hours (30)
+## Posted in the last 24 hours (35)
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
+| 85 | [AI Platform Engineer I](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Irving-TX/AI-Platform-Engineer-I_REQ_84369) | Signet Jewelers | Support Center - Irving, TX; Support Ce… | Nov 11 | entry-level title; 1+ yrs exp |
 | 80 | [Customer Reliability Engineer - Pipeline](https://jobs.smartrecruiters.com/SmithsGroup2/744000161358249-customer-reliability-engineer-pipeline-) | Smiths Detection Group | Pasadena, TX, United States | Nov 12 | 2+ yrs exp; sponsors visas; repost |
 | 72 | [ML Infrastructure and Performance Engineer, AI Expert (Remote)](https://apply.workable.com/weekday-1/j/F5C8A4D324/) | Weekday AI | United States (remote) | Nov 11 | 2+ yrs exp |
 | 70 | [Software Engineer-Infrastructure](https://job-boards.greenhouse.io/newrelic/jobs/5479397008) | New Relic | Austin, Texas, USA; Chicago, Illinois, … | Nov 11 | 3+ yrs exp; priority company |
@@ -15,8 +16,10 @@ Last new match: **Thu Nov 12, 12:24 PM CST**. Score is 0–100 (higher = better 
 | 70 | [Software Platform Engineer I (Power Apps & RPA Developer)](https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-I-Power-Apps-RPA-Developer/21587) | MetLife |  | Nov 11 | entry-level title; location unclear |
 | 70 | [Infrastructure Engineer - Labs](https://jobs.ashbyhq.com/Etched/b4ad6323-3d69-4881-a2db-e3967afbae65) | Etched | San Jose (onsite) | Nov 11 |  |
 | 70 | [Infrastructure Support Engineer](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41266) | Nokia | United States (onsite) | Nov 12 |  |
+| 70 | [Application Security Engineer](https://jobs.ashbyhq.com/langchain/5095871a-9af2-4521-8c63-ff0d852f7354) | Langchain | San Francisco, CA (onsite) | Nov 12 |  |
 | 70 | [Associate Agentic Search Infrastructure Engineer - Moveworks](https://jobs.smartrecruiters.com/ServiceNow/744000161349929-associate-agentic-search-infrastructure-engineer-moveworks-) | ServiceNow | Mountain View, CALIFORNIA, United States | Nov 12 | entry-level title |
 | 65 | [Mobile Platform Engineer](https://apply.workable.com/raydar/j/DA7CCE0A05/) | Raydar | San Francisco, California, United States | Nov 11 |  |
+| 65 | [Software Engineer, Infrastructure](https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/New-York-NY/Software-Engineer--Infrastructure_R0035440) | Epiq Systems | New York, NY; CAN-Toronto-ON-390 Bay St… (hybrid) | Nov 11 | 3+ yrs exp |
 | 60 | [Infrastructure Engineer](https://jobs.ashbyhq.com/simple-ai/1dbaca6f-92cd-4ad9-ac3f-8fe6dce7e20c) | Simple AI | San Francisco (onsite) | Nov 12 | 4+ yrs exp; no future H-1B sponsorship |
 | 60 | [NVIDIA Infrastructure Engineer — NVIDIA V100 or A100](https://jobs.smartrecruiters.com/SyncreonConsulting/744000161314262-nvidia-infrastructure-engineer-nvidia-v100-or-a100-) | Syncreon Consulting | New York, NY, United States | Nov 12 | staffing/consulting firm: verify it's real; repost |
 | 60 | [Data Observability Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628930) | Sherwin-Williams | Cleveland, OH, United States | Nov 12 | 3+ yrs exp |
@@ -36,12 +39,14 @@ Last new match: **Thu Nov 12, 12:24 PM CST**. Score is 0–100 (higher = better 
 | 45 | [AWS ProServe Platform Engineer](https://careers-dminc.icims.com/jobs/29069/aws-proserve-platform-engineer/job) | DMI | McLean, VA, United States | Nov 11 | 10+ yrs exp |
 | 42 | [Infrastructure Specialist](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/FL-USA/Infrastructure-Specialist_R-70846) | Kyndryl | FL, USA (remote) | Nov 11 | 6+ yrs exp |
 | 42 | [Deployment Engineer, Merchant Solutions](https://apply.workable.com/bask-health-1/j/C2C9E171B9/) | Bask Health 1 | United States (remote) | Nov 11 | 3+ yrs exp |
+| 42 | [DevOps Engineer - FinOps](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09514---California-Remote/DevOps-Sr-Engineer---FinOps_R0478967-1) | DaVita | 09514 - California Remote (remote) | Nov 11 | 5+ yrs exp |
+| 40 | [Engineer II, Systems Reliability Engineering](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Erlanger-Distribution-Center-Erlanger-KY-USA/Engineer-II--Systems-Reliability-Engineering_R-0158469-1) | Levi Strauss & Co. | Erlanger Distribution Center, Erlanger,… | Nov 11 | 6+ yrs exp |
 | 35 | [Network Engineer](https://jobs.jobvite.com/jbs/job/oiO5Afwv) | JBS Foods | Richardson, Texas | Nov 12 |  |
 | 30 | [Network Engineer](https://careers-dartmouth-hitchcock.icims.com/jobs/43307/network-engineer/job) | Dartmouth Health | Bennington, VT, United States | Nov 11 | 5+ yrs exp |
 
-## Found this week, posted earlier (528)
+## Found this week, posted earlier (530)
 
-Showing the 150 best of 528; the rest are in the full history file.
+Showing the 150 best of 530; the rest are in the full history file.
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
@@ -196,7 +201,7 @@ Showing the 150 best of 528; the rest are in the full history file.
 | 53 | [DevOps Engineer](https://wd3.myworkdaysite.com/recruiting/volarisgroup/Volaris/job/United-States---Atlanta-Peachtree-Dunwoody-Rd-GA/DevOps-Engineer_R72031-1) | Volaris Group | United States - Atlanta, Peachtree Dunw… | Nov 03 |  |
 | 53 | [Application Security Engineer](https://apply.workable.com/raydar/j/CEB85BADA5/) | Raydar | San Francisco, California, United States | Nov 03 |  |
 
-## Hidden from alerts: clearance/citizenship or rejected by the AI check (426 this week)
+## Hidden from alerts: clearance/citizenship or rejected by the AI check (430 this week)
 
 Clearance, US citizenship or ITAR requirements (which F-1/OPT holders can't meet), or jobs the AI reviewer judged off-target or too senior. The reason is in the flags column. Listed so you can double-check.
 

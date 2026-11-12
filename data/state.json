@@ -7620,17 +7620,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 5,
+   "n": 6,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 5,
+   "n": 6,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 5,
+   "n": 6,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -8636,7 +8636,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 8,
+   "n": 9,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -8884,7 +8884,7 @@
    "since": "2026-11-08"
   }
  },
- "found_cursor": 168,
+ "found_cursor": 1668,
  "last_digest": "2026-11-12",
  "resolved": {
   "airbnb": {
@@ -37100,6 +37100,7 @@
   "ashby:kraken.com:6d3b6e08-97ec-4eda-b3ad-bbf5fd955840": "2026-11-10",
   "ashby:kubermatic:8f106095-0eee-492a-b970-4e4a0d77a0a3": "2026-11-11",
   "ashby:kustomer:f5936ba0-85eb-4409-81ae-979c3d978ba4": "2026-11-07",
+  "ashby:langchain:5095871a-9af2-4521-8c63-ff0d852f7354": "2026-11-12",
   "ashby:luminal:418158ce-9570-43fa-8877-2583c291b3fa": "2026-11-11",
   "ashby:luxor:e45ef8d6-93c9-4e16-b625-6abf89f4c217": "2026-11-09",
   "ashby:mercor:799ecfcc-4258-4075-8b11-12fc64fb2868": "2026-11-07",
@@ -38216,6 +38217,7 @@
   "sfrmk:careers.capgemini.com:1453480133": "2026-11-09",
   "sfrmk:careers.capgemini.com:1453480833": "2026-11-09",
   "sfrmk:careers.capgemini.com:1453498633": "2026-11-11",
+  "sfrmk:careers.capgemini.com:1453620533": "2026-11-12",
   "sfrmk:careers.capgemini.com:1453794933": "2026-11-09",
   "sfrmk:careers.capgemini.com:1454024533": "2026-11-09",
   "sfrmk:careers.capgemini.com:1454323033": "2026-11-09",
@@ -38566,6 +38568,7 @@
   "workday:customersbank|wd1|customersbankcareers:REQ-2026-1006": "2026-11-10",
   "workday:cw|wd1|external:R342026": "2026-11-08",
   "workday:dallascollege|wd1|Dallas_College_Careers:R14633": "2026-11-08",
+  "workday:davita|wd1|DKC_External:R0478967": "2026-11-12",
   "workday:dedalus|wd3|External:JR108344": "2026-11-11",
   "workday:draper|wd5|Draper_Careers:JR002421": "2026-11-07",
   "workday:draper|wd5|Draper_Careers:JR002644": "2026-11-07",
@@ -38582,6 +38585,7 @@
   "workday:embryriddle|wd1|External:R311749": "2026-11-11",
   "workday:enbridge|wd3|enbridge_careers:73337": "2026-11-11",
   "workday:epicorsoftware|wd5|epicorjobs:US, Bensalem; US, Eau Claire; US, Minneapolis": "2026-11-08",
+  "workday:epiqsystems|wd503|Epiq_Careers:R0035440": "2026-11-12",
   "workday:equifax|wd5|external:J00179360": "2026-11-11",
   "workday:equifax|wd5|external:J00179430": "2026-11-11",
   "workday:equinix|wd1|External:JR-164372": "2026-11-11",
@@ -38606,6 +38610,8 @@
   "workday:gevernova|wd5|vernova_externalsite:R5048915": "2026-11-11",
   "workday:gfs|wd5|usjobs-gen-gfs:R-59672": "2026-11-11",
   "workday:goosehead|wd503|Careers:JR104903": "2026-11-10",
+  "workday:guidehouse|wd1|external:42911": "2026-11-12",
+  "workday:guidehouse|wd1|external:43194": "2026-11-12",
   "workday:halma|wd3|Halma:JR26_000880": "2026-11-07",
   "workday:hastingsdirect|wd3|external_careers:60013763": "2026-11-09",
   "workday:hcsc|wd1|HCSC_External:R0056390": "2026-11-07",
@@ -38624,6 +38630,7 @@
   "workday:humana|wd5|humana_external_career_site:R-430679": "2026-11-11",
   "workday:humana|wd5|humana_external_career_site:R-434482": "2026-11-08",
   "workday:huntington|wd12|HNBcareers:R0076826": "2026-11-08",
+  "workday:hyperiongrp|wd3|Hyperion_External:R0019255": "2026-11-12",
   "workday:hyvee|wd1|HyVeeCareers:R261584": "2026-11-11",
   "workday:iatinsurancegroup|wd1|iat:JR100459": "2026-11-08",
   "workday:ibc|wd5|ibc_careers:R16356": "2026-11-07",
@@ -38652,8 +38659,11 @@
   "workday:lbg|wd3|LBG_Careers:157946": "2026-11-07",
   "workday:lbg|wd3|LBG_Careers:164895": "2026-11-12",
   "workday:levistraussandco|wd5|external:R-0158453": "2026-11-11",
+  "workday:levistraussandco|wd5|external:R-0158465": "2026-11-12",
   "workday:levistraussandco|wd5|external:R-0158466": "2026-11-08",
   "workday:levistraussandco|wd5|external:R-0158468": "2026-11-11",
+  "workday:levistraussandco|wd5|external:R-0158469": "2026-11-12",
+  "workday:levistraussandco|wd5|external:R-0158470": "2026-11-12",
   "workday:levistraussandco|wd5|external:R-0158473": "2026-11-11",
   "workday:levistraussandco|wd5|external:R-0158474": "2026-11-11",
   "workday:levistraussandco|wd5|external:R-0158475": "2026-11-11",
@@ -38662,6 +38672,7 @@
   "workday:levistraussandco|wd5|external:R-0158479": "2026-11-11",
   "workday:levistraussandco|wd5|external:R-0158480": "2026-11-11",
   "workday:levistraussandco|wd5|external:R-0158482": "2026-11-08",
+  "workday:levistraussandco|wd5|external:R-0158483": "2026-11-12",
   "workday:lplfinancial|wd1|External:R-053355": "2026-11-07",
   "workday:lplfinancial|wd1|External:R-054427": "2026-11-07",
   "workday:lthc|wd1|ExcellusBCBSCareers:JR104255": "2026-11-08",
@@ -38704,6 +38715,8 @@
   "workday:okgov|wd1|okgovjobs:JR67736": "2026-11-11",
   "workday:oregon|wd5|sor_external_career_site:Permanent": "2026-11-08",
   "workday:pae|wd1|amentum_careers:R0174508": "2026-11-11",
+  "workday:pae|wd1|amentum_careers:R0175033": "2026-11-12",
+  "workday:pae|wd1|amentum_careers:R0175034": "2026-11-12",
   "workday:paloaltonetworks|wd5|panwexternalcareers:JR-023971": "2026-11-10",
   "workday:peak6group|wd1|apexfintechsolutions:JR105329": "2026-11-10",
   "workday:poet|wd1|POET:R101889": "2026-11-10",
@@ -38746,6 +38759,7 @@
   "workday:sglottery|wd5|ScientificGamesExternalCareers:R505204": "2026-11-08",
   "workday:shi|wd12|shicareers:JR3989": "2026-11-10",
   "workday:sifive|wd1|sifivecareers:Posted 30+ Days Ago": "2026-11-08",
+  "workday:signetjewelers|wd1|SignetCorporateCareers:REQ_84369": "2026-11-12",
   "workday:situsamc|wd1|SitusAMC:JR02900": "2026-11-11",
   "workday:situsamc|wd1|SitusAMC:JR03287": "2026-11-11",
   "workday:spgi|wd5|SPGI_Careers:330730": "2026-11-11",
