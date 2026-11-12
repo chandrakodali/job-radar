@@ -8035,6 +8035,11 @@
    "n": 3,
    "since": "2026-11-09"
   },
+  "icims:careers-cotiviti.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-12"
+  },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-16",
    "err": "robots.txt disallows /jobs/search",
@@ -8636,7 +8641,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 10,
+   "n": 11,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -8879,7 +8884,7 @@
    "since": "2026-11-08"
   }
  },
- "found_cursor": 1318,
+ "found_cursor": 393,
  "last_digest": "2026-11-12",
  "missing_once": {},
  "resolved": {
@@ -37976,6 +37981,7 @@
   "oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:394997": "2026-11-08",
   "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:234148": "2026-11-08",
   "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41266": "2026-11-12",
+  "oracle:fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:3373": "2026-11-12",
   "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4629": "2026-11-08",
   "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:5085": "2026-11-08",
   "oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com|CX_26:1450": "2026-11-10",
@@ -38626,6 +38632,7 @@
   "workday:hpe|wd5|acjobsite:1216526": "2026-11-08",
   "workday:hpe|wd5|acjobsite:1216872": "2026-11-11",
   "workday:hpe|wd5|acjobsite:1217883": "2026-11-11",
+  "workday:hpe|wd5|jobsathpe:1214980": "2026-11-12",
   "workday:hpe|wd5|jobsathpe:1215300": "2026-11-08",
   "workday:hpe|wd5|jobsathpe:1216872": "2026-11-11",
   "workday:hpe|wd5|jobsathpe:1217883": "2026-11-11",
@@ -38721,6 +38728,7 @@
   "workday:pae|wd1|amentum_careers:R0174508": "2026-11-11",
   "workday:pae|wd1|amentum_careers:R0175033": "2026-11-12",
   "workday:pae|wd1|amentum_careers:R0175034": "2026-11-12",
+  "workday:pae|wd1|amentum_careers:R0175356": "2026-11-12",
   "workday:paloaltonetworks|wd5|panwexternalcareers:JR-023971": "2026-11-10",
   "workday:peak6group|wd1|apexfintechsolutions:JR105329": "2026-11-10",
   "workday:poet|wd1|POET:R101889": "2026-11-10",

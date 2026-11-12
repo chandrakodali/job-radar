@@ -2,9 +2,9 @@
 
 Watching **7,552 company job boards** every 30 minutes for entry-friendly DevOps, SRE, cloud, platform and infrastructure roles in the US.
 
-Last new match: **Thu Nov 12, 02:20 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
+Last new match: **Thu Nov 12, 02:31 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
 
-## Posted in the last 24 hours (41)
+## Posted in the last 24 hours (42)
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
@@ -23,6 +23,7 @@ Last new match: **Thu Nov 12, 02:20 PM CST**. Score is 0–100 (higher = better 
 | 70 | [Business Platform Engineer](https://jobs.ashbyhq.com/openai/e70a2b94-17d7-4083-a028-943bae53d126) | OpenAI | San Francisco (hybrid) | Nov 12 |  |
 | 65 | [Mobile Platform Engineer](https://apply.workable.com/raydar/j/DA7CCE0A05/) | Raydar | San Francisco, California, United States | Nov 11 |  |
 | 65 | [Software Engineer, Infrastructure](https://epiqsystems.wd503.myworkdayjobs.com/Epiq_Careers/job/New-York-NY/Software-Engineer--Infrastructure_R0035440) | Epiq Systems | New York, NY; CAN-Toronto-ON-390 Bay St… (hybrid) | Nov 11 | 3+ yrs exp |
+| 65 | [Cloud Developer II](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Cloud-Developer-II_1214980) | Hewlett Packard Enterprise | San Jose, California, United States of … | Nov 11 | 2+ yrs exp |
 | 60 | [DevOps / Reliability Engineer](https://careers.quality-ai.com/job/Ciudad-de-M%C3%A9xico-DevOps-Reliability-Engineer/61504344/) | Qualitest |  | Nov 11 | location unclear |
 | 60 | [Infrastructure Engineer](https://jobs.ashbyhq.com/simple-ai/1dbaca6f-92cd-4ad9-ac3f-8fe6dce7e20c) | Simple AI | San Francisco (onsite) | Nov 12 | 4+ yrs exp; no future H-1B sponsorship |
 | 60 | [NVIDIA Infrastructure Engineer — NVIDIA V100 or A100](https://jobs.smartrecruiters.com/SyncreonConsulting/744000161314262-nvidia-infrastructure-engineer-nvidia-v100-or-a100-) | Syncreon Consulting | New York, NY, United States | Nov 12 | staffing/consulting firm: verify it's real; repost |
@@ -207,12 +208,13 @@ Showing the 150 best of 531; the rest are in the full history file.
 | 53 | [Software Reliability Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8929426002) | Atoms | Pittsburgh, PA | Nov 03 |  |
 | 53 | [DevOps Engineer](https://wd3.myworkdaysite.com/recruiting/volarisgroup/Volaris/job/United-States---Atlanta-Peachtree-Dunwoody-Rd-GA/DevOps-Engineer_R72031-1) | Volaris Group | United States - Atlanta, Peachtree Dunw… | Nov 03 |  |
 
-## Hidden from alerts: clearance/citizenship or rejected by the AI check (431 this week)
+## Hidden from alerts: clearance/citizenship or rejected by the AI check (433 this week)
 
 Clearance, US citizenship or ITAR requirements (which F-1/OPT holders can't meet), or jobs the AI reviewer judged off-target or too senior. The reason is in the flags column. Listed so you can double-check.
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
+| 95 | [Engineer I - Cloud Infrastructure and Security](https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3373) | University of Maine System | Orono, ME, United States (onsite) | Nov 12 | rules: entry-level title; 1+ yrs exp; likely H-1B cap-exempt (verify)… |
 | 85 | [DevOps Engineer I](https://jobs.smartrecruiters.com/SpringVentureGroup1/744000160958169-devops-engineer-i) | Spring Venture Group | Kansas City, MO, United States (hybrid) | Nov 10 | rules: entry-level title; 1+ yrs exp; no future H-1B sponsorship; nee… |
 | 85 | [Junior Platform Engineer](https://careers-lmi.icims.com/jobs/14864/junior-platform-engineer/job) | LMI | Colorado Springs, CO, United States | Nov 11 | rules: entry-level title; 1+ yrs exp; needs: security clearance |
 | 85 | [Junior Platform Engineer](https://careers-lmi.icims.com/jobs/14863/junior-platform-engineer/job) | LMI | Remote, United States | Nov 11 | rules: entry-level title; 1+ yrs exp; needs: security clearance |
@@ -252,4 +254,3 @@ Clearance, US citizenship or ITAR requirements (which F-1/OPT holders can't meet
 | 58 | [Cloud Operations Support Specialist (Tier 2)](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8160102003) | Dark Wolf Solutions | Ogden, UT | Nov 02 | 2+ yrs exp; needs: security clearance |
 | 58 | [Power Platform Developer](https://job-boards.greenhouse.io/datasystemsanalystsinc/jobs/5470469008) | Data Systems Analysts | Arlington, VA | Nov 02 | rules: E-Verify; needs: secret clearance |
 | 58 | [Network Operations Engineer I](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-I_R0018282) | Astreya | Denver, CO | Nov 02 | rules: role no longer in the target list |
-| 58 | [DevOps Engineer](https://jobs.lever.co/hatchit/0f8ce440-1324-4cc1-85d0-f0c95cf587cc) | Hatch IT | Washington, DC (hybrid) | Nov 04 | needs: security clearance |
