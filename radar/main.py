@@ -696,6 +696,16 @@ def run(args) -> int:
         from .calibrate import handled_uids
         handled = handled_uids(os.path.dirname(CONFIG_PATH)) if FOCUS_PATH else set()
         write_report(build_report(tz_name, total_boards, now=now, profile=prof, closed=set(closed), handled=handled))
+        if rules.ranker is not None:      # SKILLS_<PROFILE>.md next to the report
+            import radar.report as _report
+            current = [r for r in read_matches(since=now - timedelta(days=int(prof.get("report_days", 60))))
+                       if r["uid"] not in closed]
+            md = _rank.skills_report(rules.ranker, [(r["title"], texts.get(r["uid"])) for r in current], label)
+            if md:
+                path = os.path.join(os.path.dirname(_report.REPORT_PATH),
+                                    os.path.basename(_report.REPORT_PATH).replace("REPORT", "SKILLS", 1))
+                with open(path, "w", encoding="utf-8") as f:
+                    f.write(md)
         write_dashboard(build_dashboard(tz_name, total_boards, ai_desc, now=now, profile=prof,
                                         closed=set(closed)))
 

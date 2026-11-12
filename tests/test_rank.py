@@ -215,3 +215,11 @@ def test_coverage_file_and_broken_board_warning(tmp_path, monkeypatch):
     rows = list(csv.DictReader(open(tmp_path / "coverage.csv")))
     assert {r["company"]: r["jobs_listed"] for r in rows} == {"Alpha": "120", "Beta": "0"}
     assert len(warn) == 1 and "Beta" in warn[0] and state["coverage_prev"]["workday:a|wd1|x"] == 120
+
+
+def test_skills_report_counts_required_and_missing(ranker):
+    md = rank.skills_report(ranker, [("Embedded Software Engineer", GOOD), ("BSP Engineer", LINUX), ("x", "")], "Auto Radar")
+    assert "**2 current matches**" in md
+    have, lack = md.split("## Skills the resume does not show")
+    assert "| Simulink | 1 jobs (50%)" in have and "| ISO 26262 |" in have
+    assert "| Embedded Linux/kernel | 1 jobs (50%) | 1 (50%) |" in lack and "HIL testing" not in lack  # only "preferred"

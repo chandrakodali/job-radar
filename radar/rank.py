@@ -458,3 +458,47 @@ class TextStore:
                 continue
             if (datetime.fromisoformat(today) - d).days > self.keep_days:
                 os.remove(os.path.join(self.folder, name))
+
+
+# ---------------------------------------------------------------- skills report
+
+def skills_report(ranker: "Ranker", jobs: list[tuple[str, str]], label: str = "") -> str:
+    """Markdown: how often each skill is asked for (required or main duties) across the given jobs
+    [(title, text)], split into skills the resume shows and skills it does not."""
+    asked: Counter = Counter()
+    required: Counter = Counter()
+    n = 0
+    for title, text in jobs:
+        if not text:
+            continue
+        n += 1
+        sec = sections(text)
+        for sk in ranker.skills:
+            if sk.rx.search(sec["required"]) or sk.rx.search(title or ""):
+                required[sk.name] += 1
+                asked[sk.name] += 1
+            elif sk.rx.search(sec["duties"]) or sk.rx.search(sec["other"]):
+                asked[sk.name] += 1
+    if not n:
+        return ""
+    by_name = {s.name: s for s in ranker.skills}
+
+    def table(names):
+        rows = ["| Skill | Asked for in | Required in |", "|---|---:|---:|"]
+        for name in names:
+            rows.append(f"| {name} | {asked[name]} jobs ({asked[name] / n:.0%}) | {required[name]} ({required[name] / n:.0%}) |")
+        return rows
+
+    have = [k for k, _ in asked.most_common() if by_name[k].have >= 0.5][:25]
+    lack = [k for k, _ in asked.most_common() if by_name[k].have < 0.5][:20]
+    lines = [f"# {label or 'Skills'}: what the matching jobs ask for", "",
+             f"Counted over the job descriptions of **{n} current matches** (boilerplate left out). "
+             "\"Asked for\" = named in the requirements or the main duties; \"Required\" = named under "
+             "required/basic qualifications or in the title.", "",
+             "## Skills the resume shows, most asked first", "",
+             "Make sure each of these is written on the resume in the words employers use: recruiters' "
+             "screening software matches words.", "", *table(have), "",
+             "## Skills the resume does not show, most asked first", "",
+             "If you have one of these, add it to the resume (and to profiles/automotive/skills.yaml as "
+             "`have: 1`). If not, these are the ones worth learning first.", "", *table(lack), ""]
+    return "\n".join(lines)
