@@ -36,7 +36,7 @@ VALID_ATS = {"greenhouse", "lever", "ashby", "smartrecruiters", "workday", "orac
              "bamboohr", "recruitee", "auto",
              "icims", "jazzhr", "jobvite", "sfrmk", "paylocity", "taleo", "avature", "phenom", "eightfold", "jibe",
              "breezy", "pinpoint", "teamtailor", "dover", "gem", "ukg", "dayforce", "adp", "manatal", "hireology",
-             "oorwin", "mcloud", "dspace", "ldsite"}
+             "oorwin", "mcloud", "dspace", "ldsite", "ukgready"}
 
 
 def _truthy(v) -> bool:

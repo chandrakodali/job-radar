@@ -1,18 +1,5 @@
-BOARD phenom careers.quest-global.com|global/en
-BOARD phenom careers.teksystems.com|us/en
-BOARD icims expleo-jobs-us-en.icims.com
-BOARD icims careers-expleo-jobs.icims.com
-BOARD adp e7b68190-d64b-4649-81ca-3ffb914ba1fe|19000101_000001
+GET https://www.dol.gov/media/LCA_Disclosure_Data_FY2026_Q3.xlsx
+GET https://www.dol.gov//media/LCA_Disclosure_Data_FY2026_Q3.xlsx
+GET https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx
+HOSTS https://careers.cyient.com/
 BOARD ukgready secure3.entertimeonline.com|6119018
-BOARD ldsite careers.dauch.com/sitemap.xml|/job/.+/(\d+)/?$
-GET https://careers.dauch.com/sitemap.xml
-HOSTS https://www.cyient.careers/
-HOSTS https://www.kforce.com/find-work/search-jobs/
-HOSTS https://www.randstadusa.com/jobs/
-HOSTS https://www.roberthalf.com/us/en/jobs
-HOSTS https://www.insightglobal.com/jobs/
-HOSTS https://www.motionrecruitment.com/tech-jobs
-HOSTS https://www.collabera.com/job-search/
-HOSTS https://www.yoh.com/job-search
-HOSTS https://www.cybercoders.com/search/
-HOSTS https://www.modis.com/en-us/job-seekers/

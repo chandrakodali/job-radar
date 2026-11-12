@@ -1109,7 +1109,7 @@ LISTERS = {
     "icims": icims_list, "jazzhr": jazzhr_list, "jobvite": jobvite_list, "sfrmk": sfrmk_list,
     "paylocity": paylocity_list, "taleo": taleo_list, "avature": avature_list, "phenom": phenom_list,
     "eightfold": eightfold_list, "jibe": jibe_list, "breezy": breezy_list, "pinpoint": pinpoint_list,
-    "teamtailor": teamtailor_list, "dover": dover_list, "gem": gem_list, "ukg": ukg_list,
+    "teamtailor": teamtailor_list, "dover": dover_list, "gem": gem_list, "ukg": ukg_list, "ukgready": ukgready_list,
     "dayforce": dayforce_list, "adp": adp_list, "manatal": manatal_list,
     "hireology": hireology_list, "oorwin": oorwin_list, "mcloud": mcloud_list, "dspace": dspace_list,
 }
