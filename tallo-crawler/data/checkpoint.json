@@ -18,1356 +18,6 @@
   "core_remaining": 0,
   "pending": [
     {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/bethel-park",
-      "label": "Bethel Park",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/fairfield",
-      "label": "Fairfield",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/langhorne",
-      "label": "Langhorne",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/manchester",
-      "label": "Manchester",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/oak-park",
-      "label": "Oak Park",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/palmerton",
-      "label": "Palmerton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/plymouth-meeting",
-      "label": "Plymouth Meeting",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/sharon",
-      "label": "Sharon",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ri/north-providence",
-      "label": "North Providence",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/sc/beaufort",
-      "label": "Beaufort",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/sc/carnes-crossroads",
-      "label": "Carnes Crossroads",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/sc/lancaster",
-      "label": "Lancaster",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/sd/ellsworth-air-force-base",
-      "label": "Ellsworth Air Force Base",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/sd/wetonka",
-      "label": "Wetonka",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/tn/maryville",
-      "label": "Maryville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/tx/josephine",
-      "label": "Josephine",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/tx/murphy",
-      "label": "Murphy",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/tx/nederland",
-      "label": "Nederland",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/tx/new-braunfels",
-      "label": "New Braunfels",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/tx/north-richland-hills",
-      "label": "North Richland Hills",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/tx/tomball",
-      "label": "Tomball",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/tx/winnsboro",
-      "label": "Winnsboro",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ut/herriman",
-      "label": "Herriman",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/va/broadlands",
-      "label": "Broadlands",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/va/burke",
-      "label": "Burke",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/va/hanover",
-      "label": "Hanover",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/va/woodbridge",
-      "label": "Woodbridge",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/vt/brattleboro",
-      "label": "Brattleboro",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/wa/ellensburg",
-      "label": "Ellensburg",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/wa/home",
-      "label": "Home",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/wi/columbus",
-      "label": "Columbus",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/wi/cottage-grove",
-      "label": "Cottage Grove",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/wi/sheboygan",
-      "label": "Sheboygan",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ak/hoonah",
-      "label": "Hoonah",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/al/bay-minette",
-      "label": "Bay Minette",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/al/burkville",
-      "label": "Burkville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/al/pell-city",
-      "label": "Pell City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/al/phenix-city",
-      "label": "Phenix City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ar/conway",
-      "label": "Conway",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ar/sherwood",
-      "label": "Sherwood",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/az/lake-havasu-city",
-      "label": "Lake Havasu City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/az/luke-air-force-base",
-      "label": "Luke Air Force Base",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/alameda",
-      "label": "Alameda",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/arcadia",
-      "label": "Arcadia",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/benicia",
-      "label": "Benicia",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/clovis",
-      "label": "Clovis",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/coalinga",
-      "label": "Coalinga",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/colusa",
-      "label": "Colusa",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/cypress",
-      "label": "Cypress",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/desert-hot-springs",
-      "label": "Desert Hot Springs",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/el-centro",
-      "label": "El Centro",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/garden-grove",
-      "label": "Garden Grove",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/hughson",
-      "label": "Hughson",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/los-altos-hills",
-      "label": "Los Altos Hills",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/nevada-city",
-      "label": "Nevada City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/nipomo",
-      "label": "Nipomo",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/pinole",
-      "label": "Pinole",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/pomona",
-      "label": "Pomona",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/rancho-santa-fe",
-      "label": "Rancho Santa Fe",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/san-ramon",
-      "label": "San Ramon",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/santa-cruz",
-      "label": "Santa Cruz",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/vallejo",
-      "label": "Vallejo",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/co/cherry-hills-village",
-      "label": "Cherry Hills Village",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/co/copper-mountain",
-      "label": "Copper Mountain",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/co/garcia",
-      "label": "Garcia",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ct/derby",
-      "label": "Derby",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ct/weston",
-      "label": "Weston",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/altamonte-springs",
-      "label": "Altamonte Springs",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/arcadia",
-      "label": "Arcadia",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/aventura",
-      "label": "Aventura",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/barefoot-beach",
-      "label": "Barefoot Beach",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/dayt-bch-sh",
-      "label": "Dayt Bch Sh",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/medley",
-      "label": "Medley",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/wellington",
-      "label": "Wellington",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/wesley-chapel",
-      "label": "Wesley Chapel",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/winter-garden",
-      "label": "Winter Garden",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/winter-park",
-      "label": "Winter Park",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ga/cumming",
-      "label": "Cumming",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ga/fayetteville",
-      "label": "Fayetteville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ga/gainesville",
-      "label": "Gainesville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ga/lavonia",
-      "label": "Lavonia",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ga/moreland",
-      "label": "Moreland",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ga/unadilla",
-      "label": "Unadilla",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/hi/hilo",
-      "label": "Hilo",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ia/bettendorf",
-      "label": "Bettendorf",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ia/clive",
-      "label": "Clive",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ia/cresco",
-      "label": "Cresco",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ia/johnston",
-      "label": "Johnston",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ia/sheldon",
-      "label": "Sheldon",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/id/headquarters",
-      "label": "Headquarters",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/id/kuna",
-      "label": "Kuna",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/id/orofino",
-      "label": "Orofino",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/darien",
-      "label": "Darien",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/glendale-heights",
-      "label": "Glendale Heights",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/granite-city",
-      "label": "Granite City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/hanover-park",
-      "label": "Hanover Park",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/hillside",
-      "label": "Hillside",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/mettawa",
-      "label": "Mettawa",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/oakbrook-terrace",
-      "label": "Oakbrook Terrace",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/ottawa",
-      "label": "Ottawa",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/roselle",
-      "label": "Roselle",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/wauconda",
-      "label": "Wauconda",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/wheeling",
-      "label": "Wheeling",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/in/clarksville",
-      "label": "Clarksville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/in/greenwood",
-      "label": "Greenwood",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/in/hammond",
-      "label": "Hammond",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/in/jasper",
-      "label": "Jasper",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/in/mishawaka",
-      "label": "Mishawaka",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/in/newburgh",
-      "label": "Newburgh",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/in/saint-john",
-      "label": "Saint John",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ks/columbus",
-      "label": "Columbus",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ks/mcconnell-air-force-base",
-      "label": "McConnell Air Force Base",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ks/zurich",
-      "label": "Zurich",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ky/flemingsburg",
-      "label": "Flemingsburg",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ky/hopkinsville",
-      "label": "Hopkinsville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ky/murray",
-      "label": "Murray",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ky/williamsburg",
-      "label": "Williamsburg",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/la/belle-chasse",
-      "label": "Belle Chasse",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/la/broussard",
-      "label": "Broussard",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/la/kinder",
-      "label": "Kinder",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ma/arlington",
-      "label": "Arlington",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ma/brockton",
-      "label": "Brockton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ma/hanover",
-      "label": "Hanover",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ma/maynard",
-      "label": "Maynard",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ma/stoughton",
-      "label": "Stoughton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ma/westborough",
-      "label": "Westborough",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ma/westport",
-      "label": "Westport",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/md/fort-washington",
-      "label": "Fort Washington",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/md/garrett-park",
-      "label": "Garrett Park",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/md/greenbelt",
-      "label": "Greenbelt",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/md/hyattsville",
-      "label": "Hyattsville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/md/oxon-hill",
-      "label": "Oxon Hill",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/md/severn",
-      "label": "Severn",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/md/sparrows-point",
-      "label": "Sparrows Point",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/me/caribou",
-      "label": "Caribou",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/me/orono",
-      "label": "Orono",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/me/presque-isle",
-      "label": "Presque Isle",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mi/cassopolis",
-      "label": "Cassopolis",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mi/clinton-township",
-      "label": "Clinton Township",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mi/dimondale",
-      "label": "Dimondale",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mi/ferndale",
-      "label": "Ferndale",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mi/hudsonville",
-      "label": "Hudsonville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mi/lyon-charter-township",
-      "label": "Lyon Charter Township",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mi/marshall",
-      "label": "Marshall",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mi/okemos",
-      "label": "Okemos",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mi/rochester",
-      "label": "Rochester",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mn/cokato",
-      "label": "Cokato",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mn/crookston",
-      "label": "Crookston",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mn/dilworth",
-      "label": "Dilworth",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mn/inver-grove-heights",
-      "label": "Inver Grove Heights",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mn/pine-springs",
-      "label": "Pine Springs",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mn/saint-james",
-      "label": "Saint James",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mo/asbury",
-      "label": "Asbury",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mo/battlefield",
-      "label": "Battlefield",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mo/malden",
-      "label": "Malden",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mo/pacific",
-      "label": "Pacific",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mo/warrenton",
-      "label": "Warrenton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ms/cleveland",
-      "label": "Cleveland",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ms/petal",
-      "label": "Petal",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mt/superior",
-      "label": "Superior",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nc/clayton",
-      "label": "Clayton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nc/jamestown",
-      "label": "Jamestown",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nc/oxford",
-      "label": "Oxford",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nc/trinity",
-      "label": "Trinity",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nc/washington",
-      "label": "Washington",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nc/winton",
-      "label": "Winton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nc/yanceyville",
-      "label": "Yanceyville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nd/fort-yates",
-      "label": "Fort Yates",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ne/hastings",
-      "label": "Hastings",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ne/valley",
-      "label": "Valley",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nh/greenland",
-      "label": "Greenland",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/east-windsor",
-      "label": "East Windsor",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/edgewater",
-      "label": "Edgewater",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/egg-harbor-township",
-      "label": "Egg Harbor Township",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/fair-haven",
-      "label": "Fair Haven",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/fairfield",
-      "label": "Fairfield",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/gloucester-city",
-      "label": "Gloucester City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/short-hills",
-      "label": "Short Hills",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/springfield-township",
-      "label": "Springfield Township",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nm/anthony",
-      "label": "Anthony",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nm/espa-ola",
-      "label": "Española",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nm/holloman-air-force-base",
-      "label": "Holloman Air Force Base",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nv/fernley",
-      "label": "Fernley",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nv/mercury",
-      "label": "Mercury",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/amherst",
-      "label": "Amherst",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/argyle",
-      "label": "Argyle",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/blodgett-mills",
-      "label": "Blodgett Mills",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/brentwood",
-      "label": "Brentwood",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/cooperstown",
-      "label": "Cooperstown",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/dewitt",
-      "label": "DeWitt",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/elmhurst",
-      "label": "Elmhurst",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/endicott",
-      "label": "Endicott",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/far-rockaway",
-      "label": "Far Rockaway",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/holbrook",
-      "label": "Holbrook",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/holtsville",
-      "label": "Holtsville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/huntingtn-sta",
-      "label": "Huntingtn Sta",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/islandia",
-      "label": "Islandia",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/loudonville",
-      "label": "Loudonville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/lynbrook",
-      "label": "Lynbrook",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/mahopac",
-      "label": "Mahopac",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/morrisville",
-      "label": "Morrisville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/nesconset",
-      "label": "Nesconset",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/queensbury",
-      "label": "Queensbury",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/ridge",
-      "label": "Ridge",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/rye-brook",
-      "label": "Rye Brook",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/south-glens-falls",
-      "label": "South Glens Falls",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/spring-valley",
-      "label": "Spring Valley",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/alliance",
-      "label": "Alliance",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/boardman",
-      "label": "Boardman",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/canton",
-      "label": "Canton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/clayton",
-      "label": "Clayton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/cuyahoga-falls",
-      "label": "Cuyahoga Falls",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/gahanna",
-      "label": "Gahanna",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/jeffersonville",
-      "label": "Jeffersonville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/london",
-      "label": "London",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/moraine",
-      "label": "Moraine",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/north-randall",
-      "label": "North Randall",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/perry",
-      "label": "Perry",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/piketon",
-      "label": "Piketon",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/saint-johns",
-      "label": "Saint Johns",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/wpafb",
-      "label": "Wpafb",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ok/ada",
-      "label": "Ada",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ok/bristow",
-      "label": "Bristow",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ok/claremore",
-      "label": "Claremore",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/or/albany",
-      "label": "Albany",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/charleroi",
-      "label": "Charleroi",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/clearfield",
-      "label": "Clearfield",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/crescent",
-      "label": "Crescent",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/horsham",
-      "label": "Horsham",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/lehighton",
-      "label": "Lehighton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/plymouth-mtng",
-      "label": "Plymouth Mtng",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/pottsville",
-      "label": "Pottsville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/spring-city",
-      "label": "Spring City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/strabane",
-      "label": "Strabane",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/sunbury",
-      "label": "Sunbury",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/west-chester",
-      "label": "West Chester",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/sc/goose-creek",
-      "label": "Goose Creek",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/sc/oakland",
-      "label": "Oakland",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/sd/mitchell",
-      "label": "Mitchell",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tn/clinton",
-      "label": "Clinton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tn/lebanon",
-      "label": "Lebanon",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tn/stanton",
-      "label": "Stanton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/bridge-city",
-      "label": "Bridge City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/burkburnett",
-      "label": "Burkburnett",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/corsicana",
-      "label": "Corsicana",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/edgewood",
-      "label": "Edgewood",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/elgin",
-      "label": "Elgin",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/florence",
-      "label": "Florence",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/flower-mound",
-      "label": "Flower Mound",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/lucas",
-      "label": "Lucas",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/lytle",
-      "label": "Lytle",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/rockwall",
-      "label": "Rockwall",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/shenandoah",
-      "label": "Shenandoah",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/sherman",
-      "label": "Sherman",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/silsbee",
-      "label": "Silsbee",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/socorro",
-      "label": "Socorro",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/southlake",
-      "label": "Southlake",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/sulphur-springs",
-      "label": "Sulphur Springs",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/sunnyvale",
-      "label": "Sunnyvale",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/sweetwater",
-      "label": "Sweetwater",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/waxahachie",
-      "label": "Waxahachie",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/whitehouse",
-      "label": "Whitehouse",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ut/cedar-city",
-      "label": "Cedar City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ut/clinton",
-      "label": "Clinton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ut/kamas",
-      "label": "Kamas",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ut/oakley",
-      "label": "Oakley",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/va/elkwood",
-      "label": "Elkwood",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/va/north-springfield",
-      "label": "North Springfield",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/va/oakton",
-      "label": "Oakton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/va/oilville",
-      "label": "Oilville",
-      "count": 1
-    },
-    {
       "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/va/paeonian-springs",
       "label": "Paeonian Springs",
       "count": 1
@@ -2838,6 +1488,522 @@
     {
       "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/audubon",
       "label": "Audubon",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/bethel-park",
+      "label": "Bethel Park",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/oak-park",
+      "label": "Oak Park",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/palmerton",
+      "label": "Palmerton",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/plymouth-meeting",
+      "label": "Plymouth Meeting",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/pa/sharon",
+      "label": "Sharon",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ri/north-providence",
+      "label": "North Providence",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/sd/wetonka",
+      "label": "Wetonka",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/tx/josephine",
+      "label": "Josephine",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/tx/nederland",
+      "label": "Nederland",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/tx/new-braunfels",
+      "label": "New Braunfels",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/tx/winnsboro",
+      "label": "Winnsboro",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/ut/herriman",
+      "label": "Herriman",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/va/burke",
+      "label": "Burke",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/va/hanover",
+      "label": "Hanover",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-engineer-or-architect/wa/home",
+      "label": "Home",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/al/bay-minette",
+      "label": "Bay Minette",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/al/phenix-city",
+      "label": "Phenix City",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/az/luke-air-force-base",
+      "label": "Luke Air Force Base",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/coalinga",
+      "label": "Coalinga",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/colusa",
+      "label": "Colusa",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/nevada-city",
+      "label": "Nevada City",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/pinole",
+      "label": "Pinole",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ca/rancho-santa-fe",
+      "label": "Rancho Santa Fe",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/co/copper-mountain",
+      "label": "Copper Mountain",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ct/derby",
+      "label": "Derby",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ct/weston",
+      "label": "Weston",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/fl/wellington",
+      "label": "Wellington",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ga/cumming",
+      "label": "Cumming",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ga/moreland",
+      "label": "Moreland",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ia/cresco",
+      "label": "Cresco",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ia/johnston",
+      "label": "Johnston",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ia/sheldon",
+      "label": "Sheldon",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/hanover-park",
+      "label": "Hanover Park",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/hillside",
+      "label": "Hillside",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/oakbrook-terrace",
+      "label": "Oakbrook Terrace",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/ottawa",
+      "label": "Ottawa",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/il/wheeling",
+      "label": "Wheeling",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/in/clarksville",
+      "label": "Clarksville",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/in/hammond",
+      "label": "Hammond",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/in/saint-john",
+      "label": "Saint John",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ky/murray",
+      "label": "Murray",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/md/oxon-hill",
+      "label": "Oxon Hill",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/me/presque-isle",
+      "label": "Presque Isle",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mi/clinton-township",
+      "label": "Clinton Township",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mi/ferndale",
+      "label": "Ferndale",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/mn/saint-james",
+      "label": "Saint James",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nc/oxford",
+      "label": "Oxford",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nc/yanceyville",
+      "label": "Yanceyville",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ne/hastings",
+      "label": "Hastings",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ne/valley",
+      "label": "Valley",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/edgewater",
+      "label": "Edgewater",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/fair-haven",
+      "label": "Fair Haven",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/gloucester-city",
+      "label": "Gloucester City",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nj/short-hills",
+      "label": "Short Hills",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nm/anthony",
+      "label": "Anthony",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/nv/mercury",
+      "label": "Mercury",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/argyle",
+      "label": "Argyle",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/brentwood",
+      "label": "Brentwood",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/cooperstown",
+      "label": "Cooperstown",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/dewitt",
+      "label": "DeWitt",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/holbrook",
+      "label": "Holbrook",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/huntingtn-sta",
+      "label": "Huntingtn Sta",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/islandia",
+      "label": "Islandia",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/loudonville",
+      "label": "Loudonville",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/mahopac",
+      "label": "Mahopac",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/morrisville",
+      "label": "Morrisville",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/nesconset",
+      "label": "Nesconset",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ny/south-glens-falls",
+      "label": "South Glens Falls",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/alliance",
+      "label": "Alliance",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/boardman",
+      "label": "Boardman",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/oh/gahanna",
+      "label": "Gahanna",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ok/claremore",
+      "label": "Claremore",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/crescent",
+      "label": "Crescent",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/horsham",
+      "label": "Horsham",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/pa/strabane",
+      "label": "Strabane",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/sc/oakland",
+      "label": "Oakland",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/bridge-city",
+      "label": "Bridge City",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/burkburnett",
+      "label": "Burkburnett",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/edgewood",
+      "label": "Edgewood",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/elgin",
+      "label": "Elgin",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/florence",
+      "label": "Florence",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/tx/southlake",
+      "label": "Southlake",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ut/cedar-city",
+      "label": "Cedar City",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/ut/clinton",
+      "label": "Clinton",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/va/oakton",
+      "label": "Oakton",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/va/oilville",
+      "label": "Oilville",
       "count": 1,
       "deferred_once": true
     }
