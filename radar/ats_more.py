@@ -112,6 +112,33 @@ def _sitemap_urls(start: str, want=lambda u: True, max_children: int = 12) -> li
     return out
 
 
+# ------------------------------------------------------------------ any career site with a job sitemap
+
+def ldsite_list(b: Board, max_jobs: int = 4000) -> list[Job]:
+    """A career site that lists its jobs in a sitemap and describes each job with schema.org JobPosting
+    data (made for Google Jobs; Radancy/TalentBrew and many custom sites do). Board: "sitemap URL|regex"
+    where the regex picks the job pages (and may capture the job id as its first group)."""
+    sm, _, rx = b.board.partition("|")
+    sm = sm if sm.startswith("http") else "https://" + sm
+    pat = re.compile(rx or r"/jobs?/", re.I)
+    jobs, seen = [], set()
+    for u, lastmod in _sitemap_urls(sm, lambda u: bool(pat.search(u)), max_children=20):
+        m = pat.search(u)
+        jid = (m.group(1) if m and m.groups() and m.group(1) else
+               re.sub(r"\W+", "-", urlsplit(u).path.strip("/"))[-60:])
+        if jid in seen:
+            continue
+        seen.add(jid)
+        slug = urlsplit(u).path.rstrip("/").rsplit("/", 1)[-1]
+        if re.fullmatch(r"[\d-]+", slug):          # .../job/<title-slug>/<id>: the title is one step up
+            slug = urlsplit(u).path.rstrip("/").rsplit("/", 2)[-2]
+        jobs.append(_job(b, job_id=jid, title=slug_words(slug), url=u, title_guess=True,
+                         posted_at=parse_when(lastmod), needs_detail=True, detail_ref=u))
+        if len(jobs) >= max_jobs:
+            break
+    return jobs
+
+
 # ------------------------------------------------------------------ iCIMS
 
 _ICIMS_JOB = re.compile(r"/jobs/(\d+)/([^/?#]+)/job", re.I)
@@ -1078,6 +1105,7 @@ def dspace_detail(job: Job) -> None:
 
 
 LISTERS = {
+    "ldsite": ldsite_list,
     "icims": icims_list, "jazzhr": jazzhr_list, "jobvite": jobvite_list, "sfrmk": sfrmk_list,
     "paylocity": paylocity_list, "taleo": taleo_list, "avature": avature_list, "phenom": phenom_list,
     "eightfold": eightfold_list, "jibe": jibe_list, "breezy": breezy_list, "pinpoint": pinpoint_list,
@@ -1086,6 +1114,7 @@ LISTERS = {
     "hireology": hireology_list, "oorwin": oorwin_list, "mcloud": mcloud_list, "dspace": dspace_list,
 }
 DETAILERS = {
+    "ldsite": _ld_detail,
     "icims": icims_detail, "jazzhr": _ld_detail, "jobvite": jobvite_detail, "sfrmk": sfrmk_detail,
     "paylocity": paylocity_detail, "taleo": taleo_detail, "avature": avature_detail, "phenom": phenom_detail,
     "eightfold": eightfold_detail, "breezy": _ld_detail, "dover": dover_detail, "gem": gem_detail,
@@ -1095,4 +1124,4 @@ DETAILERS = {
 CONCURRENCY = {"icims": 6, "jazzhr": 6, "jobvite": 3, "sfrmk": 4, "paylocity": 4, "taleo": 3, "avature": 3,
                "phenom": 3, "eightfold": 3, "jibe": 4, "breezy": 6, "pinpoint": 4, "teamtailor": 4, "dover": 3,
                "gem": 3, "ukg": 4, "ukgready": 3, "dayforce": 2, "adp": 3, "manatal": 3, "hireology": 3, "oorwin": 2,
-               "mcloud": 2, "dspace": 2}
+               "mcloud": 2, "dspace": 2, "ldsite": 3}

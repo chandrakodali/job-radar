@@ -1,0 +1,99 @@
+# board checks: zero-match employers
+BOARD workday @mazdausa|wd5|Mazda
+BOARD greenhouse mitsubishimotorsna
+BOARD sfrmk jobs.volvocars.com
+BOARD workday polestar|wd3|Careers
+BOARD phenom careers.brp.com|global/en
+BOARD oracle hcal.fa.us2.oraclecloud.com|CX_1001
+BOARD greenhouse faradayfuture
+BOARD taleo textron|textron
+BOARD workday terex|wd1|terexcareers
+BOARD greenhouse gillig
+BOARD sfrmk jobs.lear.com
+BOARD oracle hcwt.fa.us2.oraclecloud.com|CX
+BOARD smartrecruiters continental
+BOARD smartrecruiters kostalgroup
+BOARD jobvite sews
+BOARD workday sensata|wd1|Sensata-Careers
+BOARD workday michelinhr|wd3|Michelin
+BOARD greenhouse lgelectronics
+BOARD jazzhr hyundaiautoeveramerica
+BOARD ukg recruiting.ultipro.com|VIS1004VIST|6ea71e1c-667f-4ddc-9024-5966baaa3256
+BOARD teamtailor careerunitedstates.autoliv.com
+BOARD sfrmk jobs.thyssenkrupp.com
+BOARD sfrmk jobs.tenneco.com
+BOARD workday phinia|wd5|PHINIA_Careers
+BOARD workable pony-dot-ai
+BOARD lever weride
+BOARD lever tri
+BOARD workday wisk|wd108|Wisk_Careers
+BOARD lever apex-ai
+BOARD icims careers-jobyaviation.icims.com
+BOARD workday allegromicro|wd5|AllegroCareers
+BOARD smartrecruiters Elektrobit
+# career pages: which job system
+HOSTS https://www.marelli.com/en/careers.html
+HOSTS https://www.kiacareers.com/
+HOSTS https://careers.harley-davidson.com/
+HOSTS https://vinfastauto.us/careers
+HOSTS https://careers.mobileye.com/
+HOSTS https://www.kpit.com/careers-overview/
+HOSTS https://www.ltts.com/careers
+HOSTS https://www.tataelxsi.com/careers
+HOSTS https://www.edag.com/en/career
+HOSTS https://www.ricardo.com/en/careers
+HOSTS https://www.tatatechnologies.com/careers/
+HOSTS https://www.cyient.com/careers
+HOSTS https://www.quest-global.com/careers/
+HOSTS https://www.capgemini.com/us-en/careers/
+HOSTS https://www.akkodis.com/en-us/careers
+HOSTS https://www.belcan.com/careers/
+HOSTS https://www.segulatechnologies.com/en/careers/
+HOSTS https://www.bertrandt.com/en/career
+HOSTS https://www.fev.com/en/careers.html
+HOSTS https://www.iav.com/en/career/
+HOSTS https://expleo.com/global/en/careers/
+HOSTS https://career.luxoft.com/
+HOSTS https://www.globallogic.com/careers/
+HOSTS https://www.hcltech.com/careers
+HOSTS https://www.actalentservices.com/en/jobs
+HOSTS https://www.kellyservices.us/us/careers/
+HOSTS https://www.aerotek.com/en/jobs
+HOSTS https://careers.teksystems.com/us/en
+HOSTS https://www.rgbsi.com/careers/
+HOSTS https://www.lhpes.com/careers
+HOSTS https://www.danlawinc.com/careers/
+HOSTS https://neweagle.net/careers/
+HOSTS https://www.etas.com/en/company/careers.php
+HOSTS https://www.yazaki-na.com/careers
+HOSTS https://www.mobisna.com/careers
+HOSTS https://hlmandoamerica.com/careers
+HOSTS https://www.hanonsystems.com/En/Careers
+HOSTS https://careers.webasto.com/
+HOSTS https://www.nskamericas.com/en/about-nsk/careers.html
+HOSTS https://www.meaa.mea.com/careers
+HOSTS https://karmaautomotive.com/careers/
+HOSTS https://innoviz.tech/careers
+HOSTS https://www.aisinworld.com/careers/
+HOSTS https://careers.dauch.com/en
+HOSTS https://gentherm.com/en/careers/
+HOSTS https://www.preh.com/en/career/job-offers
+HOSTS https://www.harman.com/careers
+HOSTS https://jobs.mitalent.org/
+HOSTS https://www.bosch.us/careers/
+HOSTS https://www.magna.com/careers
+HOSTS https://www.mitsubishielectric.com/en/careers/
+HOSTS https://www.dana.com/careers/
+HOSTS https://www.nexteer.com/careers/
+# robots of a few job sites
+GET https://jobs.mitalent.org/robots.txt
+GET https://jobs.apple.com/robots.txt
+GET https://jobs.mercedes-benz.com/robots.txt
+WD harman
+WD aisin
+WD marelli
+WD kia
+WD gentherm
+WD aam
+# DOL LCA disclosure files
+SNIP https://www.dol.gov/agencies/eta/foreign-labor/performance LCA_Disclosure_Data[^"' ]*
