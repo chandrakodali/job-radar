@@ -7620,7 +7620,7 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
@@ -8342,7 +8342,7 @@
   },
   "lever:trio": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-12"
   },
   "lever:wandb": {
@@ -8682,7 +8682,7 @@
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
    "err": "HTTP 403",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-11"
   },
   "workday:milestone|wd1|Milestone_External": {
@@ -8878,8 +8878,8 @@
    "since": "2026-11-08"
   }
  },
- "found_cursor": 2018,
- "last_digest": "2026-11-11",
+ "found_cursor": 1093,
+ "last_digest": "2026-11-12",
  "resolved": {
   "airbnb": {
    "ats": "greenhouse",
@@ -37124,6 +37124,7 @@
   "ashby:sieve:b8a87691-3b2a-4960-aa0e-cda34894039c": "2026-11-11",
   "ashby:siftstack:28db223c-b2ce-4b40-b515-32d96062e6fa": "2026-11-07",
   "ashby:siftstack:a13a8413-86e4-46b3-a073-2a1f54bf689c": "2026-11-11",
+  "ashby:simple-ai:1dbaca6f-92cd-4ad9-ac3f-8fe6dce7e20c": "2026-11-12",
   "ashby:socure:e3e43ef3-f08e-46c0-8a76-05c0987e8b7f": "2026-11-07",
   "ashby:solveintelligence:228325a6-6cdf-4213-a798-92ae0d7ed783": "2026-11-09",
   "ashby:span.app:00de323d-8842-470f-af05-91643597bb11": "2026-11-09",
@@ -37341,6 +37342,7 @@
   "greenhouse:stripe:8328323": "2026-11-07",
   "greenhouse:strivehealth:4726499006": "2026-11-09",
   "greenhouse:telnyx54:8189221003": "2026-11-09",
+  "greenhouse:tenet3:8939443002": "2026-11-12",
   "greenhouse:tenstorrent:5283701007": "2026-11-10",
   "greenhouse:trace3:8328853": "2026-11-07",
   "greenhouse:trace3:8346702": "2026-11-07",
@@ -37407,6 +37409,9 @@
   "icims:careers-apogeeusa.icims.com:2220": "2026-11-09",
   "icims:careers-apogeeusa.icims.com:2238": "2026-11-10",
   "icims:careers-axway.icims.com:9031": "2026-11-09",
+  "icims:careers-barrios.icims.com:2957": "2026-11-12",
+  "icims:careers-barrios.icims.com:2958": "2026-11-12",
+  "icims:careers-barrios.icims.com:2959": "2026-11-12",
   "icims:careers-bcore.icims.com:3035": "2026-11-09",
   "icims:careers-bcore.icims.com:3066": "2026-11-09",
   "icims:careers-bcore.icims.com:3080": "2026-11-09",
@@ -37583,6 +37588,8 @@
   "icims:careers-lmi.icims.com:13778": "2026-11-09",
   "icims:careers-lmi.icims.com:14801": "2026-11-09",
   "icims:careers-lmi.icims.com:14802": "2026-11-09",
+  "icims:careers-lmi.icims.com:14863": "2026-11-12",
+  "icims:careers-lmi.icims.com:14864": "2026-11-12",
   "icims:careers-lynker.icims.com:1663": "2026-11-09",
   "icims:careers-lynker.icims.com:1717": "2026-11-09",
   "icims:careers-lynker.icims.com:1728": "2026-11-09",
@@ -37672,6 +37679,7 @@
   "icims:careers-svclnk.icims.com:3678": "2026-11-09",
   "icims:careers-tatitlek.icims.com:2701": "2026-11-09",
   "icims:careers-tatitlek.icims.com:2767": "2026-11-09",
+  "icims:careers-tatitlek.icims.com:2771": "2026-11-12",
   "icims:careers-tatitlek.icims.com:2779": "2026-11-09",
   "icims:careers-tatitlek.icims.com:2781": "2026-11-09",
   "icims:careers-teksynap.icims.com:6376": "2026-11-09",
@@ -37689,6 +37697,7 @@
   "icims:careers-teksynap.icims.com:9746": "2026-11-09",
   "icims:careers-teksynap.icims.com:9754": "2026-11-09",
   "icims:careers-teksynap.icims.com:9765": "2026-11-09",
+  "icims:careers-teksynap.icims.com:9768": "2026-11-12",
   "icims:careers-tierpoint.icims.com:3074": "2026-11-09",
   "icims:careers-vch.icims.com:166216": "2026-11-09",
   "icims:careers-westernsouthern.icims.com:24023": "2026-11-09",
@@ -37927,6 +37936,7 @@
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:72825": "2026-11-08",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73087": "2026-11-08",
   "oracle:egua.fa.us2.oraclecloud.com|CX_1:24210": "2026-11-08",
+  "oracle:ejhp.fa.us6.oraclecloud.com|CX_2:2628930": "2026-11-12",
   "oracle:ejko.fa.us2.oraclecloud.com|CX_5:15063": "2026-11-08",
   "oracle:emdz.fa.us2.oraclecloud.com|CX_2001:6368": "2026-11-08",
   "oracle:emje.fa.us6.oraclecloud.com|CX_1001:22636": "2026-11-09",
@@ -37934,6 +37944,7 @@
   "oracle:ewvl.fa.us8.oraclecloud.com|CX_1:2232": "2026-11-08",
   "oracle:ewvl.fa.us8.oraclecloud.com|CX_1:2238": "2026-11-08",
   "oracle:ewvl.fa.us8.oraclecloud.com|CX_1:2239": "2026-11-08",
+  "oracle:ewvl.fa.us8.oraclecloud.com|CX_1:2244": "2026-11-12",
   "oracle:fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com|CSXCareers:54828": "2026-11-09",
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27141": "2026-11-08",
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27309": "2026-11-08",
@@ -37943,6 +37954,7 @@
   "oracle:fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com|CX_1001:26000810": "2026-11-10",
   "oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:394997": "2026-11-08",
   "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:234148": "2026-11-08",
+  "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41266": "2026-11-12",
   "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4629": "2026-11-08",
   "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:5085": "2026-11-08",
   "oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com|CX_26:1450": "2026-11-10",
@@ -37953,6 +37965,7 @@
   "oracle:hcor.fa.us2.oraclecloud.com|CX_1:4812": "2026-11-08",
   "oracle:hdde.fa.us2.oraclecloud.com|CX:4543": "2026-11-08",
   "oracle:iawmqy.fa.ocs.oraclecloud.com|careers:299132": "2026-11-08",
+  "oracle:iawmqy.fa.ocs.oraclecloud.com|careers:300012": "2026-11-12",
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:147707": "2026-11-10",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210762543": "2026-11-10",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210780218": "2026-11-10",
@@ -38209,6 +38222,7 @@
   "sfrmk:careers.pge.com:1448721600": "2026-11-09",
   "sfrmk:careers.quality-ai.com:60890244": "2026-11-09",
   "sfrmk:careers.quality-ai.com:60891644": "2026-11-09",
+  "sfrmk:careers.quality-ai.com:61496744": "2026-11-12",
   "sfrmk:careers.safran-dsi.com:1448369700": "2026-11-09",
   "sfrmk:careers.westinghousenuclear.com:1360658600": "2026-11-09",
   "sfrmk:careers.westinghousenuclear.com:1361384200": "2026-11-09",
@@ -38362,6 +38376,7 @@
   "smartrecruiters:syncreonconsulting:744000160637865": "2026-11-09",
   "smartrecruiters:syncreonconsulting:744000160899339": "2026-11-10",
   "smartrecruiters:syncreonconsulting:744000161099709": "2026-11-11",
+  "smartrecruiters:syncreonconsulting:744000161314262": "2026-11-12",
   "smartrecruiters:thewonderfulcompany:744000159249441": "2026-11-07",
   "smartrecruiters:wellmarkinc:744000159474969": "2026-11-07",
   "smartrecruiters:wellmarkinc:744000159479389": "2026-11-07",
