@@ -8636,7 +8636,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 12,
+   "n": 13,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -8879,7 +8879,7 @@
    "since": "2026-11-08"
   }
  },
- "found_cursor": 1893,
+ "found_cursor": 968,
  "last_digest": "2026-11-12",
  "missing_once": {},
  "resolved": {
@@ -37647,6 +37647,8 @@
   "icims:careers-persistentsystems.icims.com:2221": "2026-11-09",
   "icims:careers-persistentsystems.icims.com:2226": "2026-11-09",
   "icims:careers-persistentsystems.icims.com:2308": "2026-11-09",
+  "icims:careers-persistentsystems.icims.com:2558": "2026-11-12",
+  "icims:careers-persistentsystems.icims.com:2559": "2026-11-12",
   "icims:careers-powerschool.icims.com:53101": "2026-11-09",
   "icims:careers-primecontrols.icims.com:2315": "2026-11-09",
   "icims:careers-rambus.icims.com:23097": "2026-11-09",
@@ -37992,6 +37994,7 @@
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210762543": "2026-11-10",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210780218": "2026-11-10",
   "oracle:tulane-ibqejb.fa.ocs.oraclecloud.com|CX_1:2295": "2026-11-10",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2025650EXTERNALENGLOBAL": "2026-11-12",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026031EXTERNALENGLOBAL": "2026-11-12",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026313EXTERNALENGLOBAL": "2026-11-10",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029199EXTERNALENGLOBAL": "2026-11-09",

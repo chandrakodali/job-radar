@@ -2,9 +2,9 @@
 
 Watching **7,552 company job boards** every 30 minutes for entry-friendly DevOps, SRE, cloud, platform and infrastructure roles in the US.
 
-Last new match: **Thu Nov 12, 02:31 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
+Last new match: **Thu Nov 12, 02:46 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
 
-## Posted in the last 24 hours (41)
+## Posted in the last 24 hours (42)
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
@@ -35,6 +35,7 @@ Last new match: **Thu Nov 12, 02:31 PM CST**. Score is 0–100 (higher = better 
 | 55 | [Systems Reliability Engineer](https://jobs.jobvite.com/nutanix/job/osn3Afwc) | Nutanix |  | Nov 12 | 2+ yrs exp; location unclear |
 | 55 | [24364 - DevOps Engineer](https://careers.quality-ai.com/job/Petach-_-Tikva-24364-DevOps-Engineer/61496744/) | Qualitest |  | Nov 11 | 3+ yrs exp; location unclear |
 | 55 | [AI Infrastructure Technical Systems Engineer Hybrid](https://careers.cisco.com/global/en/job/CISCISGLOBAL2026031EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | Nov 11 | 3+ yrs exp |
+| 55 | [Software Engineer – Cloud Platform- Splunk](https://careers.cisco.com/global/en/job/CISCISGLOBAL2025650EXTERNALENGLOBAL) | Cisco | San Jose, California, United States of … | Nov 11 | 4+ yrs exp |
 | 55 | [Site Reliability Engineer 2](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348476) | Oracle | Nashville, TN, United States; United St… | Nov 12 |  |
 | 55 | [Core Infrastructure Engineer 2](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342848) | Oracle | Nashville, TN, United States | Nov 12 |  |
 | 52 | [Network Administrator](https://apply.workable.com/softheon/j/7E50EC2B7D/) | Softheon | New York, United States (remote) | Nov 11 | 2+ yrs exp; no future H-1B sponsorship |
@@ -207,7 +208,7 @@ Showing the 150 best of 532; the rest are in the full history file.
 | 53 | [Software Reliability Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8929426002) | Atoms | Pittsburgh, PA | Nov 03 |  |
 | 53 | [DevOps Engineer](https://wd3.myworkdaysite.com/recruiting/volarisgroup/Volaris/job/United-States---Atlanta-Peachtree-Dunwoody-Rd-GA/DevOps-Engineer_R72031-1) | Volaris Group | United States - Atlanta, Peachtree Dunw… | Nov 03 |  |
 
-## Hidden from alerts: clearance/citizenship or rejected by the AI check (433 this week)
+## Hidden from alerts: clearance/citizenship or rejected by the AI check (435 this week)
 
 Clearance, US citizenship or ITAR requirements (which F-1/OPT holders can't meet), or jobs the AI reviewer judged off-target or too senior. The reason is in the flags column. Listed so you can double-check.
 
