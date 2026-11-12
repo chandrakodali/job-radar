@@ -120,6 +120,30 @@ search:
   full_max_age_days: 150
   sitemap_max_jobs: 5000   # worldwide SuccessFactors sites list every job; US-looking ones are kept first
 
+# Jobs from outside the employers' boards (radar/sources.py). Each turns on when its secrets exist.
+sources:
+  email_alerts: true       # JOB_ALERTS_EMAIL + JOB_ALERTS_APP_PASSWORD: LinkedIn/Indeed/Dice/ZipRecruiter/Glassdoor alert emails
+  email_days: 4
+  adzuna:                  # ADZUNA_APP_ID + ADZUNA_APP_KEY (free key at developer.adzuna.com)
+    calls_per_run: 10      # 8 runs a day = 80 calls, inside the free 2,500 a month
+    max_days_old: 7
+    terms:
+      - 'AUTOSAR'
+      - 'Simulink'
+      - 'model-based design automotive'
+      - 'embedded software automotive'
+      - 'ISO 26262'
+      - 'ADAS software engineer'
+      - 'steering software'
+      - 'embedded controls engineer'
+      - 'controls software engineer'
+      - 'HIL engineer automotive'
+      - 'functional safety software'
+      - 'TargetLink'
+      - 'CANoe'
+      - 'ECU software'
+      - 'vehicle software engineer'
+
 titles:
   # Clearly the target role: kept when the description names at least one tool (or could not be read).
   core:

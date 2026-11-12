@@ -39,6 +39,7 @@ from . import ats_more, robots
 from .ai import Reviewer
 from . import ai_fit
 from . import rank as _rank
+from . import sources as _sources
 from . import store as _store
 from .store import (ROOT, append_matches, append_rejected, load_boards, load_discovered, load_focus_boards,
                     load_state, now_utc, prune_seen, read_matches, read_rejected, remove_rejected, save_state,
@@ -53,6 +54,9 @@ DETAIL_CONCURRENCY = {"greenhouse": 8, "smartrecruiters": 4, "workday": 8, "orac
 for _ats, _n in ats_more.CONCURRENCY.items():
     LIST_CONCURRENCY.setdefault(_ats, _n)
     DETAIL_CONCURRENCY.setdefault(_ats, _n)
+DETAIL_CONCURRENCY.setdefault("adzuna", 3)     # Adzuna links lead to the original posting (read via JSON-LD)
+DETAIL_CONCURRENCY.setdefault("email", 1)
+ATS.DETAILERS.setdefault("adzuna", ats_more._ld_detail)
 TIME_BUDGET_SECONDS = 17 * 60
 THROTTLE_LIMIT = 6
 REPORT_URL = "https://github.com/chandrakodali/job-radar/blob/main/REPORT.md"
@@ -260,6 +264,9 @@ def run(args) -> int:
                 return b, None, FetchError(f"{type(e).__name__}: {e}"[:80])
 
     candidates: list[tuple[Job, Board, str, bool]] = []
+    src_cfg = cfg.get("sources") or {}
+    want_sources = bool(src_cfg)
+    scanned_keys: set[str] = set()   # company + title of every job the boards list (to skip the same job from alerts)
     coverage: dict[str, dict] = {}   # focus board -> jobs it listed this run (or its error)
     live: dict[str, set[str]] = {}   # board key -> every job it lists right now (complete listings only)
     track_closed = bool(cfg.get("report", {}).get("track_closed"))
@@ -296,6 +303,8 @@ def run(args) -> int:
                 coverage[b.key] = {"listed": len(jobs), "complete": bool(getattr(jobs, "complete", False))}
             for j in jobs:
                 stats["jobs_scanned"] += 1
+                if want_sources:
+                    scanned_keys.add(_sources.norm_key(j.company, j.title))
                 if j.uid in state["seen"]:
                     if j.uid in pending and j.uid not in backlog_seen:
                         backlog_seen.add(j.uid)
@@ -315,6 +324,38 @@ def run(args) -> int:
         log.warning("Stopped waiting for %d slow boards: %s", sum(stuck.values()), dict(stuck))
     finally:
         pool.shutdown(wait=False, cancel_futures=True)
+    # Jobs from job-alert emails and Adzuna: kept only when the employer's own board did not list them.
+    if want_sources:
+        extra: list[Job] = []
+        if src_cfg.get("email_alerts", True):
+            got = _sources.read_alert_emails(state, days=int(src_cfg.get("email_days", 4)))
+            stats["source_email"] = len(got)
+            extra += got
+        if src_cfg.get("adzuna"):
+            got = _sources.adzuna_jobs(state, src_cfg["adzuna"], now, stats=stats)
+            stats["source_adzuna"] = len(got)
+            extra += got
+        saved_keys = {_sources.norm_key(r["company"], r["title"]) for r in read_matches(since=now - timedelta(days=60))}
+        taken = set()
+        for j in extra:
+            k = _sources.norm_key(j.company, j.title)
+            if k in scanned_keys or k in saved_keys or k in taken:
+                stats["source_dupes"] += 1
+                continue
+            taken.add(k)
+            if j.uid in state["seen"] or is_excluded_company(Board(j.ats, j.board, j.company), rules):
+                continue
+            cat = title_category(j.title, rules)
+            # no job text in an alert email: only clear target titles; Adzuna's snippet may show the tools
+            if cat == "wide" and not (j.description and has_evidence(f"{j.title}\n{j.description}", rules)):
+                cat = None
+            if not cat or classify_location(j.location, j.countries) == "non_us":
+                continue
+            if j.posted_at and (now - j.posted_at).days > rules.max_post_age_days:
+                continue
+            candidates.append((j, _sources.source_board(j), cat, False))
+            stats["source_candidates"] += 1
+
     # Generic titles need their description read before we know if they fit. Cap how many we read per
     # run; the rest stay unseen and are picked up by the next runs (focus boards and search hits first).
     wide_cap = int(cfg.get("scoring", {}).get("max_wide_per_run", 0))
@@ -682,6 +723,10 @@ def run(args) -> int:
             f"{stats['wide_dropped']}; left for the next run: {stats['deferred']}; "
             f"text not read yet: {stats['retry_later']}; taken down: {stats['closed']}."
         )
+    if want_sources:
+        summary += (f" Other sources: {stats['source_email']} jobs from alert emails, {stats['source_adzuna']} from "
+                    f"Adzuna ({stats['adzuna_calls']} calls), {stats['source_dupes']} already on employer boards, "
+                    f"{stats['source_candidates']} new candidates.")
     if focus:
         summary += (f" Employer boards: {len(coverage)} read, {stats['focus_full']} read completely, "
                     f"{stats['focus_zero']} listed nothing or failed (see coverage.csv).")

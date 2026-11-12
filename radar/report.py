@@ -133,6 +133,8 @@ def build_report(tz_name: str, boards_total: int, now: datetime | None = None, p
         lines += _table(blocked[:int(p.get("hidden_rows", 40))], tz)
     else:
         lines.append(f"None {span}.")
+    if any(r.get("ats") == "adzuna" for r in rows):
+        lines += ["", "Some listings: [Jobs by Adzuna](https://www.adzuna.com)."]
     lines.append("")
     return "\n".join(lines)
 
