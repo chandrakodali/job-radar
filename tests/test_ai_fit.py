@@ -108,3 +108,19 @@ def test_blend_and_row_fields():
     assert ai_fit.blend(40, 90, 0.6) == 70
     f = ai_fit.row_fields(ai_fit.clean(GOOD))
     assert f["ai"] == "keep" and f["ai_score"] == 88 and "missing: HIL" in f["ai_why"]
+
+
+def test_groq_key_saved_as_grok_is_used_but_an_xai_key_is_not(no_wait):
+    assert [p.name for p in reviewer({"GROK_API_KEY": "gsk_abc"}).providers] == ["groq"]
+    assert reviewer({"GROK_API_KEY": "xai-abc"}).providers == []
+
+
+def test_retired_model_moves_to_the_next_one(monkeypatch, no_wait):
+    used = []
+
+    def post(url, json=None, **kw):
+        used.append(json["model"])
+        return Resp(410, text="model has reached its end of life") if len(used) == 1 else ok()
+    monkeypatch.setattr(ai_fit.requests, "post", post)
+    v = reviewer({"NVIDIA_API_KEY": "n"}).check(JOB, time.monotonic() + 30)
+    assert v and used[0] != used[1]

@@ -36,8 +36,9 @@ log = logging.getLogger("radar.ai_fit")
 PROVIDERS = {
     "nvidia": ("NVIDIA_API_KEY", "https://integrate.api.nvidia.com/v1/chat/completions",
                "https://integrate.api.nvidia.com/v1/models",
-               ["meta/llama-3.3-70b-instruct", "qwen/qwen3-next-80b-a3b-instruct", "nvidia/nemotron-3-super-120b-a12b"],
-               r"llama-3\.3-70b-instruct$|llama-4-maverick|nemotron-3-super|qwen3.*instruct$", 2.0),
+               ["openai/gpt-oss-120b", "nvidia/nemotron-3-super-120b-a12b", "qwen/qwen3-next-80b-a3b-instruct",
+                "meta/llama-4-maverick-17b-128e-instruct"],
+               r"gpt-oss-120b|nemotron-3-super|qwen3.*instruct|llama-4-maverick|deepseek-v3", 2.0),
     "gemini": ("GEMINI_API_KEY", "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
                "https://generativelanguage.googleapis.com/v1beta/openai/models",
                ["gemini-3.5-flash-lite", "gemini-3.1-flash-lite", "gemini-flash-lite-latest"],
@@ -105,6 +106,7 @@ class _Provider:
     picked: bool = False
     done: int = 0
     tried: list[str] = field(default_factory=list)
+    last_error: str = ""
 
     @property
     def model(self) -> str:
@@ -124,13 +126,26 @@ class _Retry(Exception):
     """The job can be tried again (on this or another service)."""
 
 
+def _key(name: str, envvar: str, env) -> str:
+    key = (env.get(envvar) or "").strip()
+    if not key and name == "groq":
+        # A Groq key saved under the name GROK_API_KEY. (A key from xAI's Grok starts with "xai-": that
+        # service is not free, so it is not used.)
+        alt = (env.get("GROK_API_KEY") or "").strip()
+        if alt.startswith("xai-"):
+            log.warning("GROK_API_KEY is an xAI (Grok) key, not a Groq key; xAI is not free, so it is not used")
+        elif alt:
+            key = alt
+    return key
+
+
 def _providers(order: list[str] | None = None, env=os.environ) -> list[_Provider]:
     out = []
     for name in order or DEFAULT_ORDER:
         if name not in PROVIDERS:
             continue
         envvar, url, murl, models, pref, interval = PROVIDERS[name]
-        key = (env.get(envvar) or "").strip()
+        key = _key(name, envvar, env)
         if not key:
             continue
         override = (env.get(f"{name.upper()}_MODEL") or "").strip()
@@ -193,20 +208,24 @@ class FitReviewer:
 
     # ---- one request
     def _post(self, p: _Provider, prompt: str) -> str:
-        body = {"model": p.model, "temperature": 0, "max_tokens": 900,
+        body = {"model": p.model, "temperature": 0, "max_tokens": 2000,
                 "messages": [{"role": "system", "content": self.system}, {"role": "user", "content": prompt}]}
         if p.json_mode:
             body["response_format"] = {"type": "json_object"}
         if p.name == "groq" and "gpt-oss" in p.model:
             body["reasoning_effort"] = "low"
-            body["max_tokens"] = 2000
         self.calls += 1
         r = requests.post(p.url, headers=p.headers(), json=body, timeout=120)
         if r.status_code == 200:
             msg = ((r.json().get("choices") or [{}])[0].get("message") or {})
-            return msg.get("content") or ""
+            content = msg.get("content") or ""
+            if not content.strip():
+                raise ValueError("empty answer")
+            return content
         text = r.text[:400]
         low = text.lower()
+        p.last_error = f"HTTP {r.status_code}: {re.sub(r'\s+', ' ', text)[:200]}"
+        log.info("AI %s/%s: %s", p.name, p.model, p.last_error)
         if r.status_code == 429:
             p.rate_hits += 1
             per_minute = re.search(r"minute|per_?min|rpm|tpm|too many requests in", low)
@@ -222,7 +241,8 @@ class FitReviewer:
         if r.status_code in (400, 422) and p.json_mode and "response_format" in low:
             p.json_mode = False
             raise _Retry(0.1)
-        if r.status_code in (400, 404, 422) and re.search(r"model|not found|does not exist|unknown", low):
+        if r.status_code == 410 or (r.status_code in (400, 404, 422)
+                                    and re.search(r"model|not found|does not exist|unknown", low)):
             self._next_model(p, f"model {p.model} not available")
             raise _Retry(0.1)
         if r.status_code in (400, 413) and re.search(r"too long|too large|context|maximum|tokens", low):
@@ -283,7 +303,8 @@ class FitReviewer:
             except ValueError as e:   # unreadable answer or text too long
                 if "too long" in str(e):
                     chars = max(3000, chars // 2)
-                log.debug("AI %s: %s", p.name, e)
+                p.last_error = f"unusable answer: {e}"
+                log.info("AI %s/%s: %s", p.name, p.model, p.last_error)
             except Exception as e:     # network trouble or a server error
                 p.fails += 1
                 wait = 15.0
@@ -418,19 +439,21 @@ def _check_cli(argv=None) -> int:
     cfg = yaml.safe_load(open(profile.paths(args.profile)["config"], encoding="utf-8"))
     ai_cfg = cfg.get("ai") or {}
     names = [p.name for p in _providers(ai_cfg.get("providers"))]
+    print("Keys found for: " + (", ".join(names) or "none") + ".  (GROQ_API_KEY set: "
+          + str(bool(os.environ.get("GROQ_API_KEY"))) + ", GROK_API_KEY set: " + str(bool(os.environ.get("GROK_API_KEY"))) + ")")
     if not names:
         print("No AI key found in the environment.")
         return 1
     ok = 0
     for name in names:
         r = FitReviewer({**ai_cfg, "providers": [name]})
-        v = r.check(SAMPLE, time.monotonic() + 150)
+        v = r.check(SAMPLE, time.monotonic() + 240)
         p = r.providers[0]
         if v:
             ok += 1
             print(f"OK    {name:10s} {v['service']:40s} fit={v['fit']} score={v['score']} | {v['note'][:120]}")
         else:
-            print(f"FAIL  {name:10s} {p.model:40s} {p.dead or 'no usable answer'}")
+            print(f"FAIL  {name:10s} {p.model:40s} {p.dead or 'no usable answer'} | last error: {p.last_error}")
     summary = os.environ.get("GITHUB_STEP_SUMMARY")
     if summary:
         with open(summary, "a", encoding="utf-8") as f:
