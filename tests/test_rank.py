@@ -160,3 +160,58 @@ def test_ai_off_ignores_ai_keys(tmp_path, monkeypatch):
     monkeypatch.setattr(ai_fit.requests, "post", lambda *a, **k: called.append(1))
     assert M.main(["--dry-run"]) == 0
     assert called == [] and len(list(csv.DictReader(open(tmp_path / "matches.csv")))) == 1
+
+
+def test_calibration_agreement_and_tuning(tmp_path):
+    from radar import calibrate
+    (tmp_path / "labels.csv").write_text("label,uid\napply,a\nno,b\nmaybe,c\n,d\n")
+    (tmp_path / "marks.json").write_text('{"e": {"s": "applied"}, "f": {"s": "skipped"}, "g": {"s": "saved"}}')
+    labels = calibrate.load_labels(str(tmp_path))
+    assert labels == {"a": 1.0, "b": 0.0, "c": 0.5, "e": 1.0, "f": 0.0, "g": 1.0}
+    assert calibrate.handled_uids(str(tmp_path)) == {"b", "e", "f"}
+    assert calibrate.concordance([(90, 1.0), (50, 0.0), (70, 0.5)]) == 1.0
+    assert calibrate.concordance([(50, 1.0), (90, 0.0)]) == 0.0
+    # verdicts that follow the title, not the skills: tuning should move weight to the title
+    pl = [({"skills": 0.9, "title": t, "experience": 0.8, "domain": 0.8, "similarity": 0.5, "logistics": 0.7}, t)
+          for t in (0.0, 0.2, 0.5, 0.8, 1.0)] * 3
+    pl += [({"skills": 0.2, "title": 1.0, "experience": 0.8, "domain": 0.8, "similarity": 0.5, "logistics": 0.7}, 1.0)]
+    w, q = calibrate.tune(pl, dict(rank.DEFAULT_WEIGHTS), tries=1500)
+    assert q > calibrate.concordance([(rank.combine(p, rank.DEFAULT_WEIGHTS), v) for p, v in pl])
+
+
+def test_full_workday_read_is_complete_and_skips_searches(monkeypatch):
+    from radar import ats as ATS
+    from radar import deep
+    from radar.models import Board
+    calls = []
+
+    def fake_post(url, payload, **kw):
+        calls.append(payload)
+        start, n = payload["offset"], 45
+        rows = [{"title": f"Engineer {i}", "externalPath": f"/job/x/E_{i}", "postedOn": "Posted 30+ Days Ago",
+                 "bulletFields": [f"R{i}"], "locationsText": "Troy, MI"} for i in range(start, min(n, start + 20))]
+        return {"total": n if start == 0 else 0, "jobPostings": rows, "facets": []}
+    monkeypatch.setattr(ATS, "post_json", fake_post)
+    b = Board("workday", "oem|wd5|Careers", "OEM", focus=True)
+    jobs = deep.deep_list(b, ["AUTOSAR", "Simulink"], {"full_list": ["workday"], "full_max_pages": 150})
+    assert len(jobs) == 45 and jobs.complete
+    assert all(p["searchText"] == "" for p in calls)          # no keyword searches after a full read
+    # without full reading: old jobs end the listing and keyword searches run
+    calls.clear()
+    jobs = deep.deep_list(b, ["AUTOSAR"], {"list_max_pages": 10, "list_max_age_days": 30})
+    assert not jobs.complete and any(p["searchText"] == "AUTOSAR" for p in calls)
+
+
+def test_coverage_file_and_broken_board_warning(tmp_path, monkeypatch):
+    from radar import main as M
+    from radar import store as S
+    from radar.models import Board
+    monkeypatch.setattr(S, "MATCHES_PATH", str(tmp_path / "m.csv"))
+    focus = [Board("workday", "a|wd1|x", "Alpha", focus=True), Board("lever", "b", "Beta", focus=True)]
+    state = {"coverage_prev": {"lever:b": 40}}
+    warn = M.write_coverage(str(tmp_path / "coverage.csv"), focus,
+                            {"workday:a|wd1|x": {"listed": 120, "complete": True}, "lever:b": {"listed": 0}},
+                            state, NOW, 60)
+    rows = list(csv.DictReader(open(tmp_path / "coverage.csv")))
+    assert {r["company"]: r["jobs_listed"] for r in rows} == {"Alpha": "120", "Beta": "0"}
+    assert len(warn) == 1 and "Beta" in warn[0] and state["coverage_prev"]["workday:a|wd1|x"] == 120

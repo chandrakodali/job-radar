@@ -261,12 +261,20 @@ def workday_us_facet(facets) -> tuple[str, str] | None:
     return None
 
 
+class Listing(list):
+    """A board's jobs. `complete` is True when every job the board lists was read, so a saved job missing
+    from it has been taken down."""
+    complete = False
+
+
 def workday_list(b: Board, max_pages: int = 5, max_age_days: int = 7, search: str = "",
-                 us_only: bool = False) -> list[Job]:
+                 us_only: bool = False, full: bool = False) -> list[Job]:
     """`search` runs the board's own full-text search (title and description); results come back by
     relevance, so the age cut-off that ends a newest-first listing is not applied.
     `us_only`: when the board has more results than `max_pages` reaches and offers a country filter,
-    read the US results instead, so jobs elsewhere do not crowd US ones out."""
+    read the US results instead, so jobs elsewhere do not crowd US ones out.
+    `full`: read every (US) job the board lists, whatever its age; a page that fails part-way ends the
+    reading with what was read so far (marked incomplete)."""
     tenant, wd, site = _wd_parts(b.board)
     base, public = _wd_hosts(b.board)
     now = datetime.now(timezone.utc)
@@ -275,12 +283,18 @@ def workday_list(b: Board, max_pages: int = 5, max_age_days: int = 7, search: st
     facets: dict = {}
     total = None
     page = 0
+    complete = False
     while page < max_pages:
-        data = post_json(f"{base}/jobs", {"appliedFacets": facets, "limit": 20, "offset": page * 20, "searchText": search})
+        try:
+            data = post_json(f"{base}/jobs", {"appliedFacets": facets, "limit": 20, "offset": page * 20, "searchText": search})
+        except FetchError:
+            if full and page > 0:
+                break
+            raise
         postings = data.get("jobPostings") or []
         if page == 0:
             total = int(data.get("total") or 0)   # only the first page carries the total
-            if us_only and not facets and total > max_pages * 20:
+            if us_only and not facets and (full or total > max_pages * 20):
                 us = workday_us_facet(data.get("facets"))
                 if us:
                     facets = {us[0]: [us[1]]}
@@ -304,11 +318,14 @@ def workday_list(b: Board, max_pages: int = 5, max_age_days: int = 7, search: st
             ))
         page += 1
         if len(postings) < 20 or (total and page * 20 >= total):
+            complete = True
             break
         last_days = workday_days_ago(postings[-1].get("postedOn"))
-        if not search and last_days is not None and last_days > max_age_days:
+        if not search and not full and last_days is not None and last_days > max_age_days:
             break
-    return jobs
+    out = Listing(jobs)
+    out.complete = bool(full and complete and not search)
+    return out
 
 
 def workday_detail(job: Job) -> None:

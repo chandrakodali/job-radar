@@ -161,14 +161,16 @@ def run(args) -> int:
     # Keyword searches of the focus boards' full job text. A full sweep on the first run (or on request);
     # otherwise a rotating slice of the keywords, so every keyword is searched every few runs.
     search_cfg = cfg.get("search", {})
-    all_terms = [str(t) for t in search_cfg.get("terms") or []]
+    core_terms = [str(t) for t in search_cfg.get("terms_core") or []]      # searched every run
+    all_terms = [str(t) for t in search_cfg.get("terms") or [] if str(t) not in core_terms]
     per_run = int(search_cfg.get("terms_per_run", 0)) or len(all_terms)
     if all_terms and not (bootstrap or args.full_sweep) and per_run < len(all_terms):
         start = int(state.get("term_cursor", 0)) % len(all_terms)
-        terms = (all_terms + all_terms)[start:start + per_run]
+        terms = core_terms + (all_terms + all_terms)[start:start + per_run]
         state["term_cursor"] = (start + per_run) % len(all_terms)
     else:
-        terms = all_terms
+        terms = core_terms + all_terms
+    all_terms = core_terms + all_terms
 
     wd_cfg = cfg.get("workday", {})
     shards = int(wd_cfg.get("shards", 4))
@@ -258,6 +260,7 @@ def run(args) -> int:
                 return b, None, FetchError(f"{type(e).__name__}: {e}"[:80])
 
     candidates: list[tuple[Job, Board, str, bool]] = []
+    coverage: dict[str, dict] = {}   # focus board -> jobs it listed this run (or its error)
     live: dict[str, set[str]] = {}   # board key -> every job it lists right now (complete listings only)
     track_closed = bool(cfg.get("report", {}).get("track_closed"))
     newly_baselined: set[str] = set()
@@ -272,6 +275,8 @@ def run(args) -> int:
                 log.info("progress: %d/%d boards done, %d jobs scanned", done_n, len(futures), stats["jobs_scanned"])
             b, jobs, err = fut.result()
             if err is not None:
+                if b.focus:
+                    coverage[b.key] = {"listed": 0, "error": str(err)[:80]}
                 if isinstance(err, FetchError):
                     record_failure(state, b, err, today)
                     errors[b.ats] += 1
@@ -285,8 +290,10 @@ def run(args) -> int:
             first_time = b.key not in state["baselined"]
             if first_time:
                 newly_baselined.add(b.key)
-            if track_closed and b.ats in COMPLETE_LISTINGS and jobs:
+            if track_closed and jobs and (b.ats in COMPLETE_LISTINGS or getattr(jobs, "complete", False)):
                 live[b.key] = {j.uid for j in jobs}
+            if b.focus:
+                coverage[b.key] = {"listed": len(jobs), "complete": bool(getattr(jobs, "complete", False))}
             for j in jobs:
                 stats["jobs_scanned"] += 1
                 if j.uid in state["seen"]:
@@ -572,6 +579,7 @@ def run(args) -> int:
     # Saved matches that a complete listing no longer shows have been taken down; ones that show up
     # again are reopened. Kept in state so the report and page can leave closed jobs out.
     closed = state.setdefault("closed", {}) if track_closed else {}
+    missing_once = state.setdefault("missing_once", {})
     if track_closed and live:
         for r in read_matches(since=now - timedelta(days=rules.max_post_age_days + 30)):
             key = r["uid"].rsplit(":", 1)[0]
@@ -579,9 +587,16 @@ def run(args) -> int:
                 continue
             if r["uid"] in live[key]:
                 closed.pop(r["uid"], None)
+                missing_once.pop(r["uid"], None)
             elif r["uid"] not in closed and r["uid"] not in {x["uid"] for x in new_rows}:
-                closed[r["uid"]] = today
-                stats["closed"] += 1
+                # Greenhouse/Lever/Ashby list every job in one answer: one miss means taken down. A long
+                # paged read (Workday) must miss it twice in a row first.
+                if r.get("ats") in COMPLETE_LISTINGS or missing_once.get(r["uid"]):
+                    closed[r["uid"]] = today
+                    missing_once.pop(r["uid"], None)
+                    stats["closed"] += 1
+                else:
+                    missing_once[r["uid"]] = today
 
     # ---- notifications
     alerts.sort(key=lambda m: -m["score"])
@@ -626,12 +641,20 @@ def run(args) -> int:
         state["last_digest"] = local_today
 
     ai_desc = fit.describe() if fit_mode else reviewer.describe()
+    board_warnings = []
+    if focus and not args.no_write:
+        board_warnings = write_coverage(os.path.join(_store.DATA, "coverage.csv"), focus, coverage, state, now,
+                                        int(prof.get("report_days", 60)))
+        stats["focus_zero"] = sum(1 for c in coverage.values() if not c.get("listed"))
+        stats["focus_full"] = sum(1 for c in coverage.values() if c.get("complete"))
     pruned = prune_seen(state)
     robot.prune()
     state["bootstrapped"] = True
     if not args.no_write:
         save_state(state)
-        write_report(build_report(tz_name, total_boards, now=now, profile=prof, closed=set(closed)))
+        from .calibrate import handled_uids
+        handled = handled_uids(os.path.dirname(CONFIG_PATH)) if FOCUS_PATH else set()
+        write_report(build_report(tz_name, total_boards, now=now, profile=prof, closed=set(closed), handled=handled))
         write_dashboard(build_dashboard(tz_name, total_boards, ai_desc, now=now, profile=prof,
                                         closed=set(closed)))
 
@@ -659,16 +682,59 @@ def run(args) -> int:
             f"{stats['wide_dropped']}; left for the next run: {stats['deferred']}; "
             f"text not read yet: {stats['retry_later']}; taken down: {stats['closed']}."
         )
+    if focus:
+        summary += (f" Employer boards: {len(coverage)} read, {stats['focus_full']} read completely, "
+                    f"{stats['focus_zero']} listed nothing or failed (see coverage.csv).")
     log.info(summary)
+    for w in board_warnings:
+        log.warning("Board may be broken: %s", w)
     step_summary = os.environ.get("GITHUB_STEP_SUMMARY")
     if step_summary:
         with open(step_summary, "a", encoding="utf-8") as f:
             f.write(f"### {label} run\n\n{summary}\n\n")
+            if board_warnings:
+                f.write("**Boards that suddenly list nothing (a reader may be broken):**\n\n"
+                        + "".join(f"- {w}\n" for w in board_warnings) + "\n")
             if new_rows:
                 f.write("| Score | Status | Role | Company | Location |\n|---:|---|---|---|---|\n")
                 for r in sorted(new_rows, key=lambda r: -r["score"])[:40]:
                     f.write(f"| {r['score']} | {r['status']} | [{r['title']}]({r['url']}) | {r['company']} | {r['location']} |\n")
     return 0
+
+
+def write_coverage(path: str, focus: list[Board], coverage: dict, state: dict, now: datetime,
+                   report_days: int) -> list[str]:
+    """One row per employer board of the profile: jobs it listed this run, whether every job was read,
+    errors, and saved matches. Returns warnings for boards that suddenly list nothing."""
+    import csv as _csv
+    prev = state.setdefault("coverage_prev", {})
+    open_matches = Counter(r["uid"].rsplit(":", 1)[0].lower() for r in read_matches(since=now - timedelta(days=report_days)))
+    warnings, rows = [], []
+    for b in focus:
+        key = b.key.lower()
+        c = coverage.get(b.key)
+        listed = c.get("listed", 0) if c else None
+        before = prev.get(key)
+        note = ""
+        if c is None:
+            note = "not reached this run"
+        elif c.get("error"):
+            note = "error: " + c["error"]
+        if c is not None and listed == 0 and before and before >= 10:
+            note = (note + "; " if note else "") + f"lists nothing now (listed {before} before)"
+            warnings.append(f"{b.company} ({b.key}): {note}")
+        if listed:
+            prev[key] = listed
+        rows.append({"company": b.company, "ats": b.ats, "board": b.board,
+                     "jobs_listed": "" if listed is None else listed,
+                     "read_completely": "yes" if c and c.get("complete") else "",
+                     "open_matches": open_matches.get(key, 0), "note": note})
+    rows.sort(key=lambda r: (r["open_matches"] > 0, r["company"].lower()))
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        w = _csv.DictWriter(f, fieldnames=list(rows[0]) if rows else ["company"])
+        w.writeheader()
+        w.writerows(rows)
+    return warnings
 
 
 def _row_job(r: dict, text: str) -> tuple[Job, str]:

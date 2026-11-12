@@ -47,36 +47,77 @@ report:
 # Keyword searches of the full job text on the automotive employers' boards (Workday, SmartRecruiters,
 # Oracle, Eightfold, Phenom, SuccessFactors). Every hit is then checked against `skills` below.
 search:
-  terms:
+  # Searched on every run.
+  terms_core:
     - 'AUTOSAR'
     - 'Simulink'
     - 'Stateflow'
     - 'TargetLink'
     - 'Embedded Coder'
-    - 'Polyspace'
+    - 'model-based'
     - 'MISRA'
     - 'ISO 26262'
-    - 'ASPICE'
-    - 'model-based'
-    - 'software-in-the-loop'
-    - 'HIL'
-    - 'steer-by-wire'
+    - 'embedded software'
     - 'steering'
     - 'ADAS'
+    - 'HIL'
+  # Searched in turn, terms_per_run at a time (all of them every few runs).
+  terms:
+    - 'Polyspace'
+    - 'ASPICE'
+    - 'software-in-the-loop'
+    - 'model-in-the-loop'
+    - 'steer-by-wire'
     - 'functional safety'
     - 'dSPACE'
     - 'CANoe'
+    - 'CAPL'
     - 'DaVinci'
     - 'MATLAB'
-    - 'embedded software'
     - 'embedded controls'
     - 'controls software'
     - 'firmware'
     - 'ECU'
-  terms_per_run: 9         # the first run searches all of them; later runs rotate through
-  search_pages: 5          # result pages per keyword per board (US results only where the board can filter)
+    - 'BSW'
+    - 'MCAL'
+    - 'RTE'
+    - 'bootloader'
+    - 'UDS'
+    - 'J1939'
+    - 'CAN bus'
+    - 'SOTIF'
+    - 'ISO 21434'
+    - 'VectorCAST'
+    - 'LDRA'
+    - 'Polarion'
+    - 'DOORS'
+    - 'calibration'
+    - 'INCA'
+    - 'motor control'
+    - 'BMS'
+    - 'inverter'
+    - 'brake controls'
+    - 'chassis controls'
+    - 'powertrain controls'
+    - 'vehicle dynamics'
+    - 'lane keeping'
+    - 'Reactis'
+    - 'MXAM'
+    - 'code generation'
+    - 'embedded C'
+    - 'RTOS'
+    - 'AUTOSAR Adaptive'
+    - 'vehicle software'
+    - 'software integration'
+    - 'feature development'
+    - 'V-model'
+  terms_per_run: 10
+  search_pages: 4          # result pages per keyword per board (US results only where the board can filter)
   list_max_pages: 10       # how far back the ordinary newest-first listing is read
   list_max_age_days: 30
+  full_list: [workday]     # these job systems: read every US job each run (then keyword searches are skipped)
+  full_max_pages: 150      # up to 3,000 US jobs per employer
+  full_max_age_days: 150
   sitemap_max_jobs: 5000   # worldwide SuccessFactors sites list every job; US-looking ones are kept first
 
 titles:

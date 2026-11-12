@@ -66,7 +66,7 @@ def _table(rows: list[dict], tz: ZoneInfo) -> list[str]:
 
 
 def build_report(tz_name: str, boards_total: int, now: datetime | None = None, profile: dict | None = None,
-                 closed: set[str] = frozenset()) -> str:
+                 closed: set[str] = frozenset(), handled: set[str] = frozenset()) -> str:
     """`profile` (the `profile:` section of a profile's config) changes the wording and how far back the
     report looks; `closed` holds matches whose postings have been taken down."""
     tz = ZoneInfo(tz_name)
@@ -75,6 +75,8 @@ def build_report(tz_name: str, boards_total: int, now: datetime | None = None, p
     days = int(p.get("report_days", 7))
     span = "this week" if days == 7 else f"in the last {days} days"
     rows = [r for r in read_matches(since=now - timedelta(days=days)) if r["uid"] not in closed]
+    done = [r for r in rows if r["uid"] in handled]
+    rows = [r for r in rows if r["uid"] not in handled]
     visible = [r for r in rows if r["status"] in ("alert", "quiet")]
     blocked = [r for r in rows if r["status"] == "blocked"] + read_rejected(since=now - timedelta(days=days))
     def when(r):  # posting time when the job board gives it, otherwise when the radar first saw it
@@ -103,6 +105,7 @@ def build_report(tz_name: str, boards_total: int, now: datetime | None = None, p
         + p.get("score_note", "Score is 0–100 (higher = better fit for an early-career candidate on OPT).")
         + f" Full history: [{p.get('matches_file', 'data/matches.csv')}]({p.get('matches_file', 'data/matches.csv')}).",
         "",
+        *( [f"{len(done)} jobs you marked as applied or not interested are left out.", ""] if done else []),
         f"## Posted in the last 24 hours ({len(day)})",
         "",
     ]

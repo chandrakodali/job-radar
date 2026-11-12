@@ -356,9 +356,11 @@ class Ranker:
         detail = (f"skills {skills_part:.2f} (covers {coverage:.0%} of what it asks) · title {title_part:.2f} · "
                   f"experience {exp_part:.2f} · industry {domain_part:.2f} · overlap {sim_part:.2f} · "
                   f"freshness/place {logistics:.2f}")
+        parts = {"skills": skills_part, "title": title_part, "experience": exp_part, "domain": domain_part,
+                 "similarity": sim_part, "logistics": logistics}
         return Fit(score=score, has=has, missing=missing, years=yrs, years_note=ynote, coverage=coverage,
                    got=got, asked=asked, stretch=stretch, junior=junior, phd=phd, contract=contract,
-                   detail=detail, common=common)
+                   detail=detail, common=common, parts=parts)
 
 
 DEFAULT_WEIGHTS = {"skills": 0.42, "title": 0.15, "experience": 0.15, "domain": 0.10, "similarity": 0.08,
@@ -381,6 +383,15 @@ class Fit:
     contract: bool
     detail: str
     common: list[str]
+    parts: dict = field(default_factory=dict)
+
+
+PARTS = ("skills", "title", "experience", "domain", "similarity", "logistics")
+
+
+def combine(parts: dict, weights: dict) -> float:
+    total = sum(weights[k] for k in PARTS) or 1.0
+    return 100.0 * sum(weights[k] * parts.get(k, 0.0) for k in PARTS) / total
 
 
 # ---------------------------------------------------------------- stored job texts

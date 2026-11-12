@@ -38,11 +38,15 @@ SEARCHERS = {
 
 
 def base_list(b: Board, opts: dict) -> list[Job]:
-    """The board's ordinary listing, reaching further back than the every-30-minutes radar needs to."""
-    days = int(opts.get("list_max_age_days", 30))
-    pages = int(opts.get("list_max_pages", 10))
+    """The board's ordinary listing, reaching further back than the every-30-minutes radar needs to.
+    With `full_list`, every US job the board lists is read whatever its age (Workday, Oracle,
+    SmartRecruiters), so no job is missed because no keyword happened to find it."""
+    fl = opts.get("full_list") or []
+    full = b.ats in fl if isinstance(fl, (list, tuple)) else bool(fl)
+    days = int(opts.get("full_max_age_days", 150)) if full else int(opts.get("list_max_age_days", 30))
+    pages = int(opts.get("full_max_pages", 150)) if full else int(opts.get("list_max_pages", 10))
     if b.ats == "workday":
-        return ATS.workday_list(b, max_pages=pages, max_age_days=days, us_only=True)
+        return ATS.workday_list(b, max_pages=pages, max_age_days=days, us_only=True, full=full)
     if b.ats == "smartrecruiters":
         return ATS.smartrecruiters_list(b, max_pages=pages, max_age_days=max(days, 120))
     if b.ats == "oracle":
@@ -59,8 +63,11 @@ def base_list(b: Board, opts: dict) -> list[Job]:
 def deep_list(b: Board, terms: list[str], opts: dict, stats=None) -> list[Job]:
     """Ordinary listing plus one keyword search per term, merged. A search that fails is skipped (the
     listing and the other searches still count); a rate-limit answer ends the searches for this board."""
+    complete = False
     try:
-        jobs = {j.uid: j for j in base_list(b, opts)}
+        listing = base_list(b, opts)
+        complete = bool(getattr(listing, "complete", False))
+        jobs = {j.uid: j for j in listing}
         listed = True
     except FetchError as e:
         # Some big sites refuse the plain listing but answer searches; fail only if both do.
@@ -68,6 +75,9 @@ def deep_list(b: Board, terms: list[str], opts: dict, stats=None) -> list[Job]:
             raise
         jobs, listed, first_error = {}, False, e
     search = SEARCHERS.get(b.ats)
+    if complete:            # every job on the board was read: keyword searches would add nothing
+        _count(stats, "full_lists")
+        search = None
     ok = 0
     if search:
         pages = int(opts.get("search_pages", 3))
@@ -91,4 +101,6 @@ def deep_list(b: Board, terms: list[str], opts: dict, stats=None) -> list[Job]:
                     have.found_by = term
     if not listed and not ok:
         raise first_error
-    return list(jobs.values())
+    out = ATS.Listing(jobs.values())
+    out.complete = complete
+    return out

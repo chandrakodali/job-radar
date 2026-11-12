@@ -266,7 +266,7 @@ def test_sfrmk_search_page(monkeypatch):
 def test_deep_list_merges_searches_and_survives_failures(monkeypatch):
     b = Board("workday", "gm|wd5|Careers", "GM", focus=True)
 
-    def fake(board, max_pages=5, max_age_days=7, search="", us_only=False):
+    def fake(board, max_pages=5, max_age_days=7, search="", us_only=False, full=False):
         if search == "boom":
             raise ATS.FetchError("HTTP 500", 500)
         ids = {"": ["1", "2"], "AUTOSAR": ["2", "3"], "Simulink": ["3", "4"]}[search]
@@ -282,7 +282,7 @@ def test_deep_list_merges_searches_and_survives_failures(monkeypatch):
 def test_deep_list_stops_searching_when_rate_limited(monkeypatch):
     calls = []
 
-    def fake(board, max_pages=5, max_age_days=7, search="", us_only=False):
+    def fake(board, max_pages=5, max_age_days=7, search="", us_only=False, full=False):
         calls.append(search)
         if search:
             raise ATS.FetchError("rate limited", 429)
@@ -362,7 +362,7 @@ def test_full_profile_run(tmp_path, monkeypatch):
     recent = now - timedelta(days=2)
     searched = []
 
-    def wd(board, max_pages=5, max_age_days=7, search="", us_only=False):
+    def wd(board, max_pages=5, max_age_days=7, search="", us_only=False, full=False):
         searched.append(search)
         def j(i, title, **kw):
             return Job("workday", board.board, i, "OEM Motors", title, location="Warren, Michigan, United States",
@@ -408,7 +408,8 @@ def test_full_profile_run(tmp_path, monkeypatch):
     rows = {r["uid"].split(":")[-1]: r for r in csv.DictReader(open(tmp_path / "matches.csv"))}
     st = json.loads((tmp_path / "state.json").read_text())
     # first run searched every keyword on the Workday focus board
-    cfg_terms = yaml.safe_load(open(os.path.join(AUTO, "config.yaml")))["search"]["terms"]
+    scfg = yaml.safe_load(open(os.path.join(AUTO, "config.yaml")))["search"]
+    cfg_terms = scfg["terms_core"] + scfg["terms"]
     assert sorted(searched) == sorted([""] + cfg_terms)
     assert set(rows) == {"W3", "L1", "L2", "G2"}
     assert rows["W3"]["category"] == "wide" and "AUTOSAR Classic" in rows["W3"]["has"]
@@ -430,7 +431,9 @@ def test_full_profile_run(tmp_path, monkeypatch):
     rows = {r["uid"].split(":")[-1]: r for r in csv.DictReader(open(tmp_path / "matches.csv"))}
     st = json.loads((tmp_path / "state.json").read_text())
     assert "W1" in rows and rows["W1"]["category"] == "core" and st["text_retries"] == {}
-    assert len(searched) == 1 + 9 and st["term_cursor"] == 9
+    assert len(searched) == 1 + len(scfg["terms_core"]) + scfg["terms_per_run"]
+    assert st["term_cursor"] == scfg["terms_per_run"]
+    assert set(scfg["terms_core"]) <= set(searched)
     assert st["closed"] == {"lever:tier1:L1": now.date().isoformat()}
     report = (tmp_path / "REPORT_AUTOMOTIVE.md").read_text()
     assert "Steering Software Engineer" not in report and "Embedded Controls Engineer" in report
