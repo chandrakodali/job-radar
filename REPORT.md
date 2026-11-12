@@ -2,14 +2,15 @@
 
 Watching **7,552 company job boards** every 30 minutes for entry-friendly DevOps, SRE, cloud, platform and infrastructure roles in the US.
 
-Last new match: **Thu Nov 12, 12:34 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
+Last new match: **Thu Nov 12, 12:45 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
 
-## Posted in the last 24 hours (35)
+## Posted in the last 24 hours (36)
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
 | 85 | [AI Platform Engineer I](https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Irving-TX/AI-Platform-Engineer-I_REQ_84369) | Signet Jewelers | Support Center - Irving, TX; Support Ce… | Nov 11 | entry-level title; 1+ yrs exp |
 | 80 | [Customer Reliability Engineer - Pipeline](https://jobs.smartrecruiters.com/SmithsGroup2/744000161358249-customer-reliability-engineer-pipeline-) | Smiths Detection Group | Pasadena, TX, United States | Nov 12 | 2+ yrs exp; sponsors visas; repost |
+| 75 | [AWS Cloud Engineer](https://job-boards.greenhouse.io/tenon/jobs/8383699) | Tenon | Indianapolis, IN | Nov 12 | 2+ yrs exp |
 | 72 | [ML Infrastructure and Performance Engineer, AI Expert (Remote)](https://apply.workable.com/weekday-1/j/F5C8A4D324/) | Weekday AI | United States (remote) | Nov 11 | 2+ yrs exp |
 | 70 | [Software Engineer-Infrastructure](https://job-boards.greenhouse.io/newrelic/jobs/5479397008) | New Relic | Austin, Texas, USA; Chicago, Illinois, … | Nov 11 | 3+ yrs exp; priority company |
 | 70 | [Software Platform Engineer I (AI Engineer)](https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-I-AI-Engineer/21476) | MetLife |  | Nov 11 | entry-level title; location unclear |

@@ -8364,6 +8364,11 @@
    "n": 3,
    "since": "2026-11-07"
   },
+  "oracle:ehzq.fa.us2.oraclecloud.com|CX_1": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-12"
+  },
   "pinpoint:interactsoftware": {
    "disabled_until": "2026-11-16",
    "err": "robots.txt disallows /postings.json",
@@ -8636,7 +8641,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 9,
+   "n": 10,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -8884,7 +8889,7 @@
    "since": "2026-11-08"
   }
  },
- "found_cursor": 1668,
+ "found_cursor": 743,
  "last_digest": "2026-11-12",
  "resolved": {
   "airbnb": {
@@ -37357,6 +37362,7 @@
   "greenhouse:strivehealth:4726499006": "2026-11-09",
   "greenhouse:telnyx54:8189221003": "2026-11-09",
   "greenhouse:tenet3:8939443002": "2026-11-12",
+  "greenhouse:tenon:8383699": "2026-11-12",
   "greenhouse:tenstorrent:5283701007": "2026-11-10",
   "greenhouse:trace3:8328853": "2026-11-07",
   "greenhouse:trace3:8346702": "2026-11-07",
