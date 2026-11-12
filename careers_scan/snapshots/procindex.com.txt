@@ -1,29 +1,26 @@
-Why work here
-Ownership over tickets
-Everyone here works directly with the founders and owns real problems end to end. No handoffs, no waiting for a playbook.
-Ship fast, close to customers
-We build with early customers in the loop and get real accounting workflows into production, not demos.
-Small team, big surface area
-We're a lean, fast-growing team built around high ownership. Your work shows up in the product and in front of customers immediately.
+How we work
+You work with the founders and own a problem from the first customer call to production. The team is small, so what you ship is in front of customers the same week.
 Open roles
-Every application is handled through our Work at a Startup listing. Click through to apply and the founders will see it directly.
-Go-to-Market San Francisco, CA Full-time · On-site
+Applications go through our Work at a Startup listing. The founders read every one.
+Go-to-Market San Francisco, CA Full-time, on-site
 Founding Sales Development Representative
-$70K-$150K base + OTE · US work authorization required
-Our first sales hire. Build pipeline from scratch - no region cap, no inbound queue, no playbook handed to you. Own the full outbound cycle from prospecting through demos and hand qualified discovery calls to the founders every week.
+$70K to $150K base plus OTE
+US work authorization required
+Our first sales hire. You build the pipeline from scratch. There is no region cap, no inbound queue, and no playbook. You own the outbound cycle from prospecting through demos and hand qualified discovery calls to the founders every week.
 Own the complete outbound cycle: cold email, calls, LinkedIn, networking
-Run discovery calls that uncover CFO / Controller / AP pain
-2-4 yrs B2B outbound to mid-market/enterprise; fluent in AP, AR, ERP, month-end close
-SF-based, comfortable with minimal structure and high accountability
+Run discovery calls with CFOs, controllers, and AP managers to learn where their close and payables work gets stuck
+Two to four years of B2B outbound to mid-market or enterprise, fluent in AP, AR, ERP, and month-end close
+Based in San Francisco. You set your own week and are measured on qualified meetings booked
 Apply on Work at a Startup
 Engineering Remote (India) Full-time
 Software Engineer
-₹15-20 LPA · Prior backend experience required
-A high-ownership backend role working directly with the founders. Ship fast, solve real customer problems, and build the AI agent workflows behind invoices, approvals, matching, and reconciliation. Not a ticket-only job.
+₹15 to 20 LPA
+Prior backend experience required
+A backend role working directly with the founders. You ship fast, solve real customer problems, and build the AI agent workflows behind invoices, approvals, matching, and reconciliation. The work is not limited to tickets.
 Build backend services, APIs, and ERP / email / third-party integrations
 Design AI agent workflows with guardrails, retries, logging, and fallbacks
-Strong TypeScript/Node.js, PostgreSQL, async workflows and queues
-Comfortable with startup speed, ambiguity, and independent execution
-Don't see your role?
-We're always looking for exceptional people who care about accounting, AI agents, and building fast. Tell us what you'd want to own.
+Strong TypeScript and Node.js, PostgreSQL, async workflows, and queues
+You scope and ship your own work, often from a one-line customer problem rather than a written spec
+Open application
+If neither role fits, tell us what you would want to own.
 Email team@procindex.com

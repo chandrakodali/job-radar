@@ -16,6 +16,9 @@ Ser la cara técnica de Plutto con los clientes. Entender lo que cada uno necesi
 📈 Account Executive
 Ventas
 Liderar el crecimiento comercial de Plutto, gestionando un pipeline de clientes midmarket y corporativos. Construyes y presentas casos de negocio que muestran el impacto de Plutto en reducción de riesgos y eficiencia, y abres y cierras oportunidades con empresas de alto potencial.
+⭐ Customer Success Engineer
+Customer Success
+Ser el puente entre Plutto y sus clientes, asegurando que obtengan el máximo valor de la plataforma y mantengan una relación sólida y duradera. Combina soporte, capacitación y visión comercial, apoyándose en IA y automatización para impulsar adopción, retención y crecimiento de cuentas existentes.
 ¿Ninguna vacante te calza, pero igual te interesa Plutto?
 Escríbenos de todas formas. Cuéntanos quién eres, qué te interesa y qué te gustaría construir.
 Postular

@@ -41,12 +41,12 @@ Security-One-27B
 security-one-27b scores security events and returns probabilities your application can use to route decisions.
 Superagent connects with your integrations — the tools, coding agents, and delivery workflows you already run.
 changelog
-2026-11-03 (HEAD -> main) import application inventory from cloudflare
+2026-11-11 (HEAD -> main) security graph
+Explore connected security findings in the dashboard and give agents shared memory of evidence, comments, and review decisions through MCP.
+2026-11-03 import application inventory from cloudflare
 Import domains and subdomains from Cloudflare DNS, keep inventory in sync, and review hosts for red teaming.
 2026-11-02 dependency validation
 Check whether dependency vulnerabilities affect your application and verify fixes on Dependabot and Renovate security pull requests.
-2026-10-21 completed status for red-team reports
-Red-team reports automatically complete when all findings are resolved, with a status dropdown to manage review manually.
 full changelog →
 customer quotes
 “ When it comes to PRs or agents running in production, we are confident that Superagent is there to protect us all the way. ”

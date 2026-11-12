@@ -11,6 +11,8 @@ Sales
 Business Development Representative
 New York
 Customer Success
+Business Program Manager
+Australia
 Customer Success Manager
 USA
 Customer Success Team Lead
@@ -37,7 +39,6 @@ Sweden
 Market Manager - Spain
 Spain
 Professional Service Consultant
-Professional Services Project Manager
 Engineering
 Senior AI Platform Engineer
 Shield Program Lead

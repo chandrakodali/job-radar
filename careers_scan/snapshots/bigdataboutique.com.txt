@@ -1,6 +1,5 @@
-ClickHouse Monitoring & Optimization Tips
-Read More
-RAG with OpenSearch: A Crash Course for Building RAG Applications 📺
+Meet us at AWS re:Invent
+See our events
 Careers at BigData Boutique
 At BigData Boutique, we believe in empowering talented individuals to tackle unique challenges with data platforms at scale. We’re looking for passionate experts like you to join our world-class team and make a real impact.
 By joining us, you'll have the opportunity to work on diverse projects, from data warehouses and search engines to streaming analytics and complex distributed systems. You'll collaborate with Fortune 100 companies and innovative startups, solving extreme challenges and building cutting-edge solutions.

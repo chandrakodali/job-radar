@@ -1,7 +1,7 @@
 New Spline Arena
-Your team and agents ,
-building and shipping in 3D
-Create interactive 3D for your websites and apps with AI.
+The 3D design tool for
+your team and agents
+Free, in your browser. Create interactive 3D for your websites and apps with AI.
 launch-hero
 Agent Objects Assets v12
 Type or use / for commands
@@ -50,12 +50,12 @@ Mars Rover
 A Mars game with two rovers to drive across the dunes.
 Make your own
 Editor
-Everything you need to build in 3D
+Everything you need for 3D design
 Model Primitives, booleans, sculpting and 3D generation .
 Materials and light Layered materials, lights and post-processing.
 Animation and interaction States, keyframes, events and physics.
 Performance High-performance real-time 3D.
-Or ask an agent, in the editor or over MCP .
+Or ask an agent, in the editor or over MCP . See everything in the 3D editor .
 Collaboration
 Agents build. Designers refine.
 The agent gets the scene to a first version fast. Your team picks it up in the same file and takes it the rest of the way.

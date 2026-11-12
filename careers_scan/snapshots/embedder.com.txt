@@ -1,33 +1,69 @@
-About us
-Legal name
-Embedder Tech Inc.
-Founded
-2025
-Who we serve
-Semiconductor, IoT, medical device, automotive, aerospace & defense, industrial automation, and consumer electronics teams.
-Where we are
-Built in collaboration with software engineers across the United States and Europe.
-Reach us
-[email protected] for partnership and press, [email protected] for product support.
-Leadership
-Ethan Gibbs
-Chief Executive Officer
-Ethan studied computer engineering at the University of Michigan and is a Y Combinator alum. Prior to founding Embedder, he worked as a software engineer for multiple YC-backed startups.
-Bob Wei
-Chief Technology Officer
-Bob studied computer engineering at the University of Michigan and is a Y Combinator alum. Prior to founding Embedder, he worked as a vehicle firmware engineer at Tesla.
-Raul Vergara
-Chief Commercial Officer
-Raul brings more than 25 years of commercial leadership, including roles at Arm, SAP, Edge Impulse (acq. Qualcomm), and Thistle Technologies.
-Amir Sherman
-Head of Global Business Development
-Amir brings more than 25 years of experience in the semiconductor industry, leading sales, business development, and engineering at Arrow Electronics.
-Backed by
-Open roles
-Founding Software Engineer Apply →
-Founding Forward-Deployed Engineer Apply →
-Founding Account Executive Apply →
-Business Development Representative Apply →
+The Enterprise AI Platform For
+Embedded Software Teams
+Embedder AIP helps your engineering team accomplish more across silicon platforms and product variants, shortening development cycles and accelerating time to market.
+TRY FREE Book Demo
+Embedder is an AI platform for firmware that solves board bring-up, hardware debugging, HIL testing, platform migrations, and performance optimization.
+ECOSYSTEM
+AI connected to the physical world
+Our semiconductor and integration partners help connect Embedder to the chips, instruments, and systems that power the physical world.
+Supported MCU Ecosystems
+View Full List (opens in a new tab)
+Rapid Prototyping
+Working firmware in days, not weeks
+Embedder reads your datasheet and schematic, drafts a cited implementation plan, writes part-specific drivers, and validates them on your hardware and existing bench equipment—cutting weeks of bring-up work down to days.
+Datasheet Intelligence
+Every register value, cited to the manual
+Embedder reads the entire reference manual, from register maps to clock trees to errata, and cites the section behind every value it writes.
+Schematic Ingestion
+Drivers that match the board you built
+Embedder resolves your netlist against the datasheet: pin muxing, pull-ups, bus addresses, errata workarounds. Nothing is assumed from the vendor's dev kit. Every driver is grounded in your actual design.
+Hardware Debugging & RCA
+Hardware evidence attached to every conclusion
+Embedder investigates firmware bugs across code, schematics, and live hardware. It drives the bench, tests hypotheses, and attaches hardware evidence—serial traces, register dumps, and schematic context—to every root-cause conclusion.
+Serial & Debug
+Diagnosed against what the chip did
+Embedder reads serial output and drives GDB sessions, stepping breakpoints, inspecting registers and memory, and correlating runtime state with the code under review. Failures get diagnosed against what the chip actually did.
+Signal Observation
+Signals as reviewable evidence
+Embedder turns logic analyzer captures and oscilloscope waveforms into structured data. Timing violations, protocol errors, and signal integrity issues surface as reviewable evidence, grounding firmware changes in electrical behavior.
+Power Profiling
+Every microamp traced to a line of code
+Embedder drives power profilers to capture current draw across a workload, correlates the high-draw windows back to what the firmware was doing, and proves every low-power change by re-measuring on real silicon.
+Automated Testing
+Catch regressions before they hit the field
+Embedder generates tests from your hardware docs, runs them on real probes and instruments, and diagnoses failures against firmware and live signals. It proposes a fix, then reruns the test on silicon.
+Parallel Testing Agents
+Divide test work across specialized agents
+Embedder splits a firmware test campaign across specialized agents that run cases concurrently and merge pass/fail results.
+Closed-Loop Validation
+Build, flash, test, and fix autonomously
+The orchestrator chains compilation, flashing, runtime observation, and code repair into a tight loop. When a test fails the agent diagnoses the fault, patches the source, and re-validates without human intervention.
+ENTERPRISE
+Built for the enterprise
+Roll Embedder out across every firmware team, with the controls your admins need and the security posture your reviewers expect.
+Admin & Governance
+Run every team from one workspace. Admins see usage across the organization, set spend limits per member, and share bench hardware with the teams that need it.
+Usage Analytics
+Every team's usage in one view
+Active time, tokens, and credits for every team, member, and session, with the trend behind each number.
+Spend Limits
+Credit limits for every member
+Give everyone a default allowance, then set custom daily, weekly, or monthly limits for the people who need more.
+Shared Bridges
+Lab hardware, shared across teams
+Bridges put bench machines and HIL racks on Embedder, so the teams you grant access can use their probes and flash tools from anywhere.
+Security & IP Protection
+Embedder operates on your most sensitive IP: schematics, source code, and live bench access. It is built to clear security review, and it runs wherever your policy requires.
+Audited Controls
+SOC 2 Type II
+Independently attested security, availability, and confidentiality controls across our infrastructure, code, and customer data handling.
+Certified & Compliant
+ISO 27001
+A formal ISMS covering risk, access, and incident response, with data minimization and DPA support.
+Custom Deployments
+On-Prem / BYOC
+Run Embedder fully on-premise or bring your own cloud. Ensure your IP, schematics, and source code never leave infrastructure you control.
 Meet Embedder, your team's
 autonomous firmware engineer
-TRY FREE Book Demo
+Latest updates View all →
+Embedder Launches the Arduino UNO Q Build Challenge with Arduino and Qualcomm → Embedder Joins RISC-V International as a Strategic Member → Embedder Launches Embedder Free, Bringing Hardware-Aware AI to Every Embedded Developer →

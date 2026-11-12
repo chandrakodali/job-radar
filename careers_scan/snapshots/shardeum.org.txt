@@ -1,3 +1,4 @@
+Shardeum Mainnet v1.2.0 Upgrade in Progress
 Tokenize Real-World Assets & Rights
 An EVM-compatible Layer 1 enabling developers to build, businesses to tokenize, and investors to access programmable real world value.
 Start Building
@@ -155,11 +156,20 @@ Find Your Tribe
 33,000+ Attendees
 22 Countries
 Shardeum in the News
+October 27, 2026
+BlockFirms
+From Consumer to Creator: The Missing Step in India’s [...]
+In this opinion piece, Nischal Shetty explains why India's global leadership in crypto adoption has yet to translate into widespread on-chain...
+Written By
+Nischal Shetty
+October 5, 2026
+Alexa Blockchain
+RWAs Won’t Go Mainstream Until They Feel Like Crypto
+Tokenized real-world assets have surpassed $30 billion, drawing BlackRock, JPMorgan and Franklin Templeton. But access, liquidity and usability remain major...
 August 31, 2026
 Blockwind News
 Opinion: RWAs Could Be Crypto’s Bridge to the Real Economy
 Nischal Shetty explains how real-world assets could connect crypto capital with SMEs, private credit, global markets, and real economic...
-Written By
 Nicole Nicole
 July 16, 2026
 Analytics Insight
@@ -172,10 +182,8 @@ The Next Tech War Won’t Be AI vs Blockchain, It Will Be [...]
 Nischal Shetty, co-founder of Shardeum and CEO of WazirX, believes that AI and blockchain are complementary rather than competing...
 Jesper Leong
 May 19, 2026
-Alexa Blockchain
 Meme Coins Are Cultural Assets First, Financial Assets [...]
 Learn why financial analysts misunderstand meme coins by overlooking their role as cultural assets in today's...
-Nischal Shetty
 April 22, 2026
 Bitcoin Insider
 Interview: memecoins a gateway, not end goal, says Nischal [...]
@@ -343,14 +351,17 @@ Next
 LISTED ON
 Product Screenshots
 Blogs
+November 11, 2026
+Announcements
+Shardeum Mainnet v1.2.0 Upgrade: Cosmos EVM Security Fixes
+Get details on the upgrade schedule, governance voting, and validator requirements as Shardeum mainnet v1.2.0 introduces Cosmos EVM v0.6.4 security...
+Shardeum Developer Relations Team
+OCC Shardeum News
+Shardeum Monthly Marketing Report – October 2026
+Explore Shardeum's key marketing metrics and growth highlights for October 2026, including community stats, engagement data, and campaign...
+Shardeum Marketing Team
 November 10, 2026
 Ecosystem SHM Token
 Sikka.fun Trading Contest 43 is Live – 24 Hr. [...]
 Trading Contest 43 is live on Sikka.fun. Trade and compete for a share of the 2.5 Million SHM reward pool. Rewards are available to the Top 10...
 Shardeum Content Team
-November 5, 2026
-Sikka.fun Trading Contest 42 is Live – 24 Hr. [...]
-Trading Contest 42 is live on Sikka.fun. Trade and compete for a share of the 2.5 Million SHM reward pool. Rewards are available to the Top 10...
-November 3, 2026
-Sikka.fun Trading Contest 41 is Live
-Trading Contest 41 is live on Sikka.fun. Trade and compete for a share of the 9 Million SHM reward pool. Rewards are available to the Top 30...

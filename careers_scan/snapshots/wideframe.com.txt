@@ -1,33 +1,46 @@
-Editors bring Wideframe the work they hate to do on every shoot.
-It works the way a good assistant editor would once you teach it your workflows. It watches all of your footage and delivers bins and edit-ready timelines linked to your original media. The creative edit stays with you.
-What editors do with Wideframe
-WORKFLOWS 1.0–4.0
-1.0
-Find any moment
-Search every interview and shot by what was said or what’s on screen. Results come back as markers in your sequence.
-Find soundbites Keyword markers
 “I was blown away at how it analyzed the footage, told me what scenes were missing from the producer’s initial shot list, and even what scenes only had one-camera coverage versus two.”
 Dylan Tuba Tuba Time Creative
-Andy profile Project
-Files andy_profile_interviews
-andy_profile_interviews 1:14:20 · 3840×2160 · 23.976 Comments 9 Share
-0:21:50:12 / 1:14:20:00
-Comment
-Gave notice Telling his manager A year later
-0:00 10:00 20:00 30:00 40:00 50:00 1:00:00 1:10:00
-ANDY_INT_A001 ANDY_INT_A002 ANDY_INT_A003
-ANDY_LAV.WAV
-Find every time Andy talks about leaving his old job. Mark them in the interview sequence.
-Worked for 38s · 4 steps ›
-Found 9 moments across 3 interviews and marked them in andy_profile_interviews :
-04:12, “I gave notice the week the studio closed”
-09:37, telling his manager over lunch
-21:50, “I didn’t have a plan, I had a deadline”
-38:14, looking back a year later
-Want them strung out in story order?
-Yes, and keep each one under 20 seconds
-Skills Andy profile
-2.0
+“Where it was the most useful was just saying something like, ‘I need a sound bite from Andy, and I need it to be emotional.’ In those moments, it was pretty helpful.”
+Bryan Mir Director, Make Believe Pictures
+“I have at least 10 long-form art classes I had banked, and this product is going to make it possible for me to finally launch these.”
+Luz Donahue Wideframe customer
+Tell your assistant editor what to do
+Pick a job to see what comes back.
+Find every time Andy talks about leaving his old job.
+Searching 3 interview transcripts
+Adding markers
+Found 9 moments across 3 interviews
+Marked in the interview sequence.
+Start 7-day free trial
+How Wideframe helps editors
+Prep Premiere projects from raw footage
+Drop in a shoot. Get back a Premiere project with synced cameras and organized bins, linked to your original media.
+Bring in footage Organize bins Export to Premiere
+Holiday shoot Project
+Files interview_stringout
+Holiday shoot All files
+Name Kind Length Date modified
+source 186
+Folder Today
+A_CAM 74
+B_CAM 68
+DRONE 31
+AUDIO 13
+premiere 1
+holiday_shoot.prproj
+Premiere project Today
+shot_log.md
+Markdown Today
+2 folders · 188 items
+Get the holiday shoot ready to cut in Premiere.
+Worked for 7m 20s · 4 steps
+Watched 186 clips (5h 40m)
+Transcribed 7 interviews
+Synced A and B cams to the lav
+Wrote holiday_shoot.prproj
+Ready to cut: bins, 7 multicams and an interview string-out, linked to your original media. Open holiday_shoot.prproj in Premiere.
+Add a bin of the best drone shots
+Skills Holiday shoot
 Sync cameras and sound
 Line up every camera with the separate audio, even when a camera rolled without sound. Get a multicam for each setup.
 Multicam sync Label speakers
@@ -35,6 +48,7 @@ Saturday shoot Project
 Files andy_multicam_01 andy_multicam_02
 andy_multicam_01 18:42 · 3840×2160 · 23.976 Comments 0 Share
 0:07:31:20 / 0:18:42:00
+Comment
 Synced to ZOOM0004.WAV C-cam matched by transcript
 0:00 3:00 6:00 9:00 12:00 15:00
 C001_C002.MP4 · C-cam
@@ -42,25 +56,23 @@ B001_C003.MOV · B-cam
 A001_C003.MOV · A-cam
 ZOOM0004.WAV
 Sync Saturday’s three cameras with the Zoom audio and build a multicam per interview.
-Worked for 1m 52s · 4 steps
+Worked for 1m 52s · 3 steps
 Matched waveforms to ZOOM0004.WAV
-Matched C-cam by transcript (no camera audio)
-Built 6 multicam sequences
-Labeled speakers ANDY and INTERVIEWER
+Matched C-cam by transcript
+Built 6 multicams and labeled speakers
 212 clips synced. Every angle lines up within a frame. Open saturday_multicams.prproj in Premiere.
 Name each multicam after the interviewee
 Skills Saturday shoot
-3.0
 Pull selects and build string-outs
 Describe the piece and get the selects laid out as a string-out you can watch in one pass, in transcript order or story order.
 Pull selects Interview string-out
-“Where it was the most useful was just saying something like, ‘I need a sound bite from Andy, and I need it to be emotional.’ In those moments, it was pretty helpful.”
-Bryan Mir Director, Make Believe Pictures
+Andy profile Project
 Files andy_profile_interviews andy_profile_selects
 andy_profile_selects 11:40 · 3840×2160 · 23.976 Comments 0 Share
 0:05:08:03 / 0:11:40:00
 Setup The leap The hard year Where he is now
 0:00 2:00 4:00 6:00 8:00 10:00
+ANDY_LAV.WAV
 Pull the emotional soundbites from Andy’s interview and string them out in story order.
 Worked for 1m 06s · 3 steps
 Read 2h 04m of transcript
@@ -68,12 +80,10 @@ Scored 61 candidate soundbites
 Assembled andy_profile_selects
 23 selects, 11m 40s, ordered as setup, the leap, the hard year and where he is now. Each section starts with a marker. Open andy_profile_selects.prproj in Premiere.
 Now cut a 90-second version for the trailer
-4.0
+Skills Andy profile
 Turn each episode into clips
 Find the moments worth clipping, reframe them for vertical and caption them in your style. Save the format and run it on next week’s episode.
 Social clips Reframe
-“I have at least 10 long-form art classes I had banked, and this product is going to make it possible for me to finally launch these.”
-Luz Donahue Wideframe customer
 Podcast Project
 Files ep42_clip03 ep42_clip04
 ep42_clip03 0:51 · 1080×1920 · 29.97 Comments 2 Share
@@ -90,33 +100,46 @@ Reframed to 9:16 and added captions
 6 clips ready, with the same caption style and end card as episode 41. Sequences are in ep42_clips.prproj , renders in exports .
 Make square versions for LinkedIn too
 Skills Podcast
-Built for professionals to automate repeat work
-Set a job up once, then run it on every shoot, episode or client.
-PRODUCTIONS
-/social-clips episode 43, same as last week
-Worked for 12s · 2 steps ›
-Transcribing episode 43 first, then I’ll pick the moments the way I did for episode 42.
-Finding moments in 1h 02m of conversation · 8s ›
-Use the guest’s full name in the lower thirds
-Files ep42_clips
-Podcast All
+Render finished videos ready to post
+Not every job needs Premiere. Wideframe cuts, captions and reframes the video, then renders an MP4 you can post.
+Captions Render MP4
+New chat
+Projects
+Chats
+Cut a 20-second reel
+Podcast
+Clips for episode 42 Yesterday
+Holiday shoot 3
+Best export preset for Premiere? Oct 30
+Summarize this client brief Sep 28
+Settings
+Cut a 20-second reel from the bake-off footage. Captions in our style, 9:16, end on the logo card.
+Worked for 3m 10s · 4 steps
+Picked 11 shots from 42 min of b-roll
+Added captions from caption_style.md
+Reframed to 9:16 and added the end card
+Make a 1:1 version for the feed
 Name Folder Length Date modified
-ep43_full.mp4
-episode 43 1:02:10 Today
-ep42_full.mp4
-episode 42 58:12 Last week
-ep42_clip01.mp4
-clips 0:42 Last week
-ep42_clip02.mp4
-clips 0:37 Last week
-ep42_clip03.mp4
-clips 0:51 Last week
-captions_style.md
+BAKEOFF_B012.MOV
+b-roll 0:42 Today
+BAKEOFF_B015.MOV
+b-roll 1:10 Today
+BAKEOFF_B021.MOV
+b-roll 0:58 Today
+BAKEOFF_B027.MOV
+b-roll 0:36 Today
+music 0:30 Oct 30
+caption_style.md
 docs Oct 2
-6 files in Podcast, across 4 folders
-Same format every week A saved skill cuts the clips the way you did last time.
-Picks up where you left off Sessions keep the episode, the workspace and the files you mentioned.
-Runs while you edit Transcription and analysis keep going in the background.
+0:00:06:12 / 0:00:20:00
+Hook lands here Price on screen End card
+0:00 0:04 0:08 0:12 0:16
+Render video… MP4 · 1080×1920 · 29.97 · to renders
+Export to Premiere Pro… Project with linked media
+Upload render to
+Frame.io Connected
+Google Drive Connected
+Dropbox Connect…
 Where your footage goes
 Wideframe analyzes your footage in the cloud to transcribe it and describe each shot. Your original files stay on your drives, and the Premiere projects it writes link back to them. Ask us anything about how your media is handled at [email protected] .
 Questions
@@ -140,5 +163,4 @@ Free trial
 Start a 7-day free trial
 Full access for 7 days, then $100 a month. Cancel anytime.
 Start 7-day free trial No charge today
-Start 7-day free trial
 7 days free, then $100 a month

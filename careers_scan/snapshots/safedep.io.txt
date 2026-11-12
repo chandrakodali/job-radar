@@ -1,5 +1,5 @@
-New Blog: Compromised bee-js and Swarm Desktop Steal Swarm Wallet Keys
-9 Nov 2026
+New Blog: wfx GitHub Actions Credential Stealer Hits 8,000 Repos
+12 Nov 2026
 SafeDep Threat Intel is live Threat Intel is live Explore
 Your biggest AppSec blind spot is the code you never wrote.
 Attackers don't target your code. They target what you install: packages, MCP servers, IDE and agent extensions. SafeDep blocks malicious packages at every entry point, before they run.
@@ -134,15 +134,15 @@ Works across your stack
 Latest from SafeDep
 Threat research from the supply chain frontline
 Read the blog
+Malware Nov 12, 2026
+wfx: GitHub Actions Credential Stealer Hits 8,000 Repos
+Since November 10, 2026, an attacker has used stolen GitHub tokens to push a credential stealer into more than 8,000 repositories. It runs once in GitHub Actions or on npm install, sends secrets and cloud credentials to the attacker, and leaves cloud backdoors. Then the attacker reverts the commit.
+Malware Updated Nov 11, 2026
+Compromised bee-js and Swarm Desktop Steal Swarm Wallet Keys
+Version 13.3.0 of @ethersphere/bee-js, the JavaScript client for Swarm, added a postinstall hook that steals the Swarm node wallet key and installs a remote-access backdoor. Swarm Desktop 0.56.2 shipped the same loader.
 Malware Nov 10, 2026
 Backdoored PyPI Package fragment-api-py 14.4.2 Drains TON Wallets on Startup
 Version 14.4.2 of fragment-api-py, a PyPI client for Telegram Fragment, sends all TON and USDT from the user wallet to an attacker wallet when the client opens. The release is the old 13.0.0 code with a backdoor and a new version number.
-Malware Nov 9, 2026
-Compromised bee-js and Swarm Desktop Steal Swarm Wallet Keys
-Version 13.3.0 of @ethersphere/bee-js, the JavaScript client for Swarm, added a postinstall hook that steals the Swarm node wallet key and installs a remote-access backdoor. Swarm Desktop 0.56.2 shipped the same loader.
-Malware Updated Nov 9, 2026
-testmetest npm Packages Carry a Miasma-Family Worm
-19 npm packages carry a Miasma-family worm that steals credentials, spreads to other packages and installs a wiper. The latest wave plants instructions in GitHub repositories that tell AI coding agents to run the worm.
 Ship code.
 Not malware.
 Start free with open source tools on your machine.

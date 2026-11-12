@@ -49,8 +49,6 @@ Cyprus or Remote
 Backend Developer
 Muse Hub Growth
 Engineering
-Business Analyst
-Production
 Business Operating Model & AI Lead
 COO office
 C++ Developer
@@ -61,6 +59,7 @@ Product Management
 Remote
 Full Stack Producer (Music Notation, Audio ML)
 Global Commodity Buyer, Indirect Materials
+Production
 Europe, Remote
 Global Commodity Buyer, Musical Instruments
 Global Finance Lead

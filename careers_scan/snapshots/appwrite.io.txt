@@ -1,6 +1,3 @@
-Just launched
-MCP1 by Appwrite is live MCP1 by Appwrite: one URL for every MCP server _
-Try MCP1
 Unleashing creativity and innovation in every creator _
 Software development transforms our everyday lives, shaped by the creativity and innovation of developers and the AI agents they work with. At Appwrite, we enable them to build products the world loves by removing technical barriers with our backend platform.
 Our mission

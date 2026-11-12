@@ -73,27 +73,42 @@ Work in the same chat
 Bring Claude Code, Codex or Cursor
 Roles and permissions for people and agents
 Start free. Grow when it's working.
-Free usage to get started. Go further with your own keys or ChatGPT plan, and add credits when you want more.
+Build on Free for as long as you like. Try Plus free for 7 days when you want every model and more Auto each week.
 Free
 $0 / month
 Put agents to work from one persistent workspace.
-New users signing up with Google or GitHub receive a one-time $5 usage credit per verified email.
-Free usage, refreshing every week
-A persistent cloud computer for agent work, on credits
-Projects with chats, instructions, skills and apps
-50+ integrations and custom MCP connections
-Your ChatGPT plan, or OpenAI and Anthropic keys, for more models
-Image, video and audio generation, on credits
+Free weekly usage on Auto, the model Dexto picks for you
+Your ChatGPT or Claude plan, or your own keys, for more models
+Cloud computers on credits, 1 running at a time
+3 Loops and 1 GB of storage
+Skills, apps and 50+ integrations
 Start free
+Plus
+Most popular
+$20 / month
+Billed monthly
+Every model unlocked, more Auto each week, credits included.
+Everything in Free
+Every model unlocked: Claude, GPT, Gemini and more, on credits, fast mode too
+5× the weekly Auto usage of Free
+$10 in credits every month for computers and media
+3 computers at a time, 20 Loops, 10 GB of storage
+Try Plus free for 7 days
+Pro
+$100 / month
+For people who run agents all day.
+Everything in Plus
+20× the weekly Auto usage of Free
+$50 in credits every month
+10 computers at a time, unlimited Loops, 100 GB of storage
+Get Pro
 Enterprise
 Custom
 Dexto for your whole company, on your terms.
 Usage and models sized for your team
 Deploy privately in your cloud
 Hands-on setup and ongoing support
-Custom models and agent harnesses built from your data
-Measure and improve your critical workflows
-Identity, governance and security set with your team
+Identity, governance and security set with you
 Talk to us
 Need more? Top up credits any time, from $ 5 . See full pricing
 Be more ambitious.

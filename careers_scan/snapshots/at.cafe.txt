@@ -44,14 +44,14 @@ Increase Productivity
 Build Social Cohesion
 Boost Cross-Collaboration
 Users talk about Café
-Café was instrumental in our transitioning to a hybrid organization. It was super simple to set up and all our teammates adopted the app from day one.
-Jacques-Edouard Sabatier
-Co-founder & CEO
-JOW
 The adoption was quick and easy. Say goodbye to the multiple conversations on Slack - we saved time and gained visibility!
 Aurélie de Raphélis Soissan
 Head of People
 Gymlib
+The choice of Café was made in a context of return to office context and positive reinforcement. Using Café has enabled us to improve employee engagement by offering more visibility and social moments.
+Julien Mangeard
+Chief Technology Officer
+Veepee
 Reliable. Secure. Compliant.
 Access with Single Sign-On
 Give employees access through your identity provider using SAML-based single sign-on (SSO).
@@ -67,18 +67,18 @@ Get Café for Free
 Blog Customer Stories TechCrunch Story LinkedIn Press We are hiring! Contact
 Features
 Regional Hubs
-Event Management
-Profiles
-ERGs & Communities
-Space Booking
 Flex Scheduling
+Profiles
 Polls & Surveys
-Workplace Knowledge
 Directory
+Space Booking
+Workplace Knowledge
+Event Management
+ERGs & Communities
 Use Cases
 Retain Talent
 Analytics
-Policy Compliance
 Workplace Usage
+Policy Compliance
 Social & Events
 Legal

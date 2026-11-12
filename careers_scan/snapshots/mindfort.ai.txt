@@ -1,25 +1,18 @@
 Build the future of autonomous security.
-Join a team of security experts and AI researchers building a platform for deploying AI agents against live applications. We're backed by Y Combinator and top investors.
-View Open Roles →
-Join us in building something meaningful
-Mission-Driven
-We’re solving a real problem — making enterprise-grade security accessible to every company.
-Early Stage
-Join at the ground floor. Your work will directly shape the product and company direction.
-World-Class Team
-Work alongside security engineers and AI researchers from top companies and institutions.
+Join the security experts and AI researchers building swarms that test live software. We are backed by Y Combinator and top investors.
+View Open Roles
+Why MindFort
+Mission-driven
+We are solving a real problem: making enterprise-grade security available to every company.
+Early stage
+Join at the ground floor. Your work will shape the product and the company.
+World-class team
+Work with security engineers and AI researchers from top companies and institutions.
 Join our growing team
 We're looking for talented individuals to help us build the future of AI-powered application security. If you're passionate about security, AI, and building great products, we want to hear from you.
 Don't see your perfect role?
 Send us your resume and tell us why you'd be a great fit for MindFort.
 Contact Us →
-Put your security on autopilot
-First Deployment
-15 min
-Agents Running
-24/7
-More Coverage
-100x
-Hours Saved
-1,000+
+Put your security on autopilot.
+Book a Demo Sign In
 No UI needed We have a full MCP that controls our entire platform without a UI.

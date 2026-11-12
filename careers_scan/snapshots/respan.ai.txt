@@ -1,6 +1,6 @@
 L a u n c h i n g t h e o p e n - s o u r c e g a t e w a y
 Join us to build what AI runs on
-We're a 10-person team building the next generation agent infra stack. We care about craft and move fast.
+We're a 17-person team building the next generation agent infra stack. We care about craft and move fast.
 See open roles on YC About us
 How we work
 We're building developer tools at one of the most interesting moments in computing history. LLMs are changing how software is built, and the teams that ship AI in production need a whole new class of tooling.

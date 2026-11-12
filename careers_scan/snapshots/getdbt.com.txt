@@ -21,7 +21,7 @@ Loading...
 Learn what's new across dbt with virtual sessions on November 17th or 18th. Register today.
 Fivetran named a Leader in the 2026 Gartner® Magic Quadrant™ for Data Integration Tools
 Watch every dbt Summit keynote and breakout session on-demand.
-Big news! 🎉 Fivetran and dbt Labs have merged to deliver the data infrastructure for agents you trust
+Fivetran + dbt Labs is now Fivetran. The dbt brand, products, and open-source community remain central to the company’s future.
 The State of Analytics Engineering survey is open! Make your voice heard and take the survey now.
 Alliances Department
 Global Alliance Lead, Capgemini
@@ -46,6 +46,8 @@ Customer Solutions Architect (Denver)
 Denver, Colorado, United States, AMER
 Customer Solutions Architect (NYC)
 USA - New York (dbt)
+Manager, Account Management
+Denver, Colorado, United States, AMER; USA - Austin (dbt)
 Customer Support Department
 Manager, Customer Support Engineering
 Remote, Australia, APAC
@@ -179,3 +181,4 @@ Sr. Staff Technical Product Manager – Customer Support
 Senior Staff Software Engineer
 Senior Staff Systems Engineer, Data & Integrations
 Senior Systems Engineer - Data and Integrations
+Systems Engineer II - R&D Business Systems

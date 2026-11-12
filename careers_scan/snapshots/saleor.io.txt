@@ -1,12 +1,12 @@
 Saleor Commerce Cloud
 API Calls Hourly
-465,288
+435,473
 24h peak
-842,568
+856,507
 Handling 1B+ requests a month
 Transacting 400k orders a month
 Open Source
-23.5k
+23.6k
 Docs
 Start Start w/ Saleor
 GraphQL API
@@ -16,15 +16,15 @@ Extensible
 NEW
 Paper Storefront
 Latest Releases
-21 hours ago 3.23.48
-8 days ago 3.22.77
+2 days ago 3.23.48
+9 days ago 3.22.77
 2 months ago 3.21.71
 Your store's vitals → Your store's vitals, now in Saleor →
 Cloud Activity Hourly
 API Calls
 Latest releases
-3.23.48 21 hours ago
-3.22.77 8 days ago
+3.23.48 2 days ago
+3.22.77 9 days ago
 3.21.71 2 months ago
 Vision Three ways to build commerce →
 You sell. We make your ecommerce platform work.

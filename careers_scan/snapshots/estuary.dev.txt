@@ -88,51 +88,6 @@ Community
 We offer perks including team happy hours, weekly lunches, and quarterly off-sites. With our rapid growth, now's an exciting time to come aboard.
 Know somebody who would be a good fit? We offer a $2,500 referral bonus.
 Get in touch to apply
-Head of Product Marketing
-Location: New York, NY / Remote
-Department: Marketing
-Reports to: CEO & Co-founder
-Compensation: Base + Equity + Benefits
-About Estuary
-Estuary is reshaping how the world moves data. Our platform unifies CDC, batch, and streaming into one dependable system, so data teams can power analytics, operations, and AI without stitching together fragmented ETL and replication tools.
-We are also one of the first data infrastructure companies shipping into the AI agent stack. Our skills library plugs directly into Claude, Cursor, and other assistants, turning Estuary into a tool agents can actually use. Telling that story to data teams is part of why this role exists.
-Backed by top investors and led by experienced repeat founders in data infrastructure, we recently raised a $17M Series A led by M13.
-As organizations shift toward real-time architectures, the market is moving fast, and we are too. We are looking for a Head of Product Marketing who can define what we stand for, sharpen how we sell, and build the connective tissue between product, sales, and the enterprise data community.
-The Role
-This is Estuary's first product marketing leadership hire. The role owns product marketing end to end, from strategy and positioning to the messaging, battle cards, and launches themselves. Working directly with our founders, Head of Sales, and product and engineering leadership, you'll turn a technical platform into a story data teams want to buy and champions can repeat without us in the room.
-The scope covers competitive intelligence, sales enablement, launches, partner marketing, case studies, and buyer research, and it shapes how Estuary wins against Fivetran, Airbyte, Confluent, and the broader modern data stack.
-This is a hands-on leadership role. You'll set the direction and do the work: writing the messaging, building the battle cards, and running the launches yourself. We're building the playbook, not executing an existing one, so strong opinions, clear technical writing, and the discipline to ship fast all matter.
-What You'll Do
-Set the product marketing strategy, tied to revenue goals, and measure its impact on pipeline and win rates.
-Own positioning and messaging for the platform and key use cases (CDC, real-time analytics, AI pipelines, data warehouse modernization), with narratives tailored to data engineers, data architects, and data platform leaders.
-Run buyer research through customer interviews, call transcript analysis, and win/loss, and bring those insights into roadmap, pricing, and packaging decisions.
-Lead product launches with Product and Engineering, owning the messaging, assets, and go-to-market sequencing.
-Build the competitive program across the data integration, CDC, and streaming space, including battle cards and field-ready talk tracks.
-Drive sales enablement with our Head of Sales, AEs, and Sales Engineers, including narratives, objection handling, and customer case studies that help close deals.
-Lead partner marketing with Snowflake, Databricks, and cloud providers, owning joint positioning and co-marketing.
-What You Bring
-7+ years of B2B product marketing experience at a data infrastructure, dev tools, or modern data stack company. Experience with ETL, CDC, streaming, or data integration platforms is strongly preferred.
-Product marketing leadership: you've owned product marketing for a company or major product line, and you can defend a point of view with founders, the board, and technical buyers.
-Fluency in the modern data stack: you understand batch ETL, ELT, CDC, and streaming well enough to hold your own with a data engineer or platform lead.
-Strong writing and editorial judgment: you still do the work yourself, producing one-pagers, launch blogs, battle cards, and sales narratives that need little editing, and you push back on jargon and hype.
-Customer and sales instinct: you've run buyer interviews or win/loss research, and you build enablement that AEs and SEs actually use.
-AI fluency: you use AI tools (Claude, ChatGPT, Perplexity, Notion AI, etc.) day to day to speed up research, drafting, and competitive work.
-Bonus Points If You
-Have shipped a launch at a data infrastructure or dev tools company that materially moved pipeline.
-Have worked closely with technically focused buyers at larger organizations and understand how technical evaluation cycles actually unfold.
-Have experience supporting partner ecosystems (Snowflake, Databricks, AWS, GCP, Azure, or similar).
-Have built a competitive program from scratch, including primary research, win/loss, and battle card systems.
-Why Estuary
-Head of Product Marketing seat: you will define the function and set its direction.
-A seat at the leadership table, working directly with our founders and Head of Sales.
-A category that is moving: the modern data stack is being rebuilt around real-time and AI, and we are positioned at the center of it.
-Remote-first culture with offsites in cities like Miami, Austin, Boulder, and New Orleans.
-Competitive base, equity, and full benefits.
-Work Location & Travel
-Estuary operates as a remote-first company. While the role is open to candidates across the US, we are prioritizing candidates based in the New York City area to support in-person collaboration with the founders and leadership team.
-Travel is estimated at ~10–15% for customer meetings, partner events, and company offsites.
-How to Apply
-Send a resume and a short note about a recent piece of PMM work you are proud of (what it was, what it changed, and what you would do differently) to careers@estuary.dev .
 Location: United Kingdom / Ireland
 As a Solutions Engineer at Estuary, you’ll work directly with our founding team to help companies unlock the power of their real-time data. Your work will directly shape how users harness their real-time data, driving our product's development and creating seamless user experiences.
 Working at the intersection of engineering, product, and customers, this role offers the unique opportunity to influence Estuary’s product roadmap while ensuring a smooth and impactful experience for our users.
@@ -168,12 +123,20 @@ Team offsite meetings in fun locations like Miami, Boulder, and Austin. Getting 
 Competitive salary, equity, and benefits package.
 If you’re passionate about solving complex problems, helping customers succeed, and building for scale, we’d love to hear from you!
 Head of Marketing
+Location: New York, NY / Remote
+Department: Marketing
+Reports to: CEO & Co-founder
+Compensation: Base + Equity + Benefits
+About Estuary
 Estuary is reshaping how the world moves data. Our platform unifies CDC, batch, and streaming into one dependable system, so data teams stop stitching together fragmented ETL, replication, and streaming tools.
 Teams use Estuary to power analytics, operations, and AI, with control over cost, latency, and where their data runs: our cloud, a private deployment, or their own.
 We are also one of the first data infrastructure companies shipping into the AI agent stack, with skills that let Claude, Cursor, and other assistants build and run pipelines.
+Backed by top investors and led by experienced repeat founders in data infrastructure, we recently raised a $17M Series A led by M13.
+The Role
 We’re hiring a Head of Marketing to make Estuary the first name data teams think of when they need to move data.
 Estuary grows from the bottom up: engineers sign up, build their first pipeline in minutes, and bring us into their companies. Your job is to turn that self-serve momentum into a repeatable engine that reaches more teams and converts them into enterprise deals.
 You’ll report to our CEO, own positioning, demand, content, community, and partners, and shape how the team grows from here.
+What You'll Do
 Positioning and narrative: own Estuary's story and category narrative, and keep it current as the product moves
 Pipeline: own the marketing plan, budget, and qualified pipeline number
 Funnels: build the path from free signup to activated pipeline to sales conversation, for both self-serve and enterprise buyers
@@ -186,6 +149,7 @@ Brand and website: keep our voice and visual identity sharp across every touchpo
 Marketing ops and attribution: own the tracking so every dollar and signup is measurable
 Developer relations: partner closely with DevRel to make Estuary a trusted name among data engineers through technical content, tutorials, and open source
 Team and partners: lead and hire the marketing team, and direct agencies and contractors
+What You Bring
 8+ years in B2B marketing, with 3+ leading a team at a data infrastructure or dev tools company
 Fluency in the modern data stack (ETL, ELT, CDC, streaming) and credibility with engineers
 A track record of building an early-stage marketing function that produced pipeline
@@ -194,14 +158,17 @@ Strong positioning, writing, and editing skills
 Comfort owning a funnel model, budget, and metrics (HubSpot or similar)
 A leader technical teams want to work for
 Uses AI to move faster, but brings original ideas and judgement AI can’t supplyu
+Bonus Points If You
 Have led marketing at a CDC, ETL, streaming, or database company
 Have open-source, developer community, or DevRel experience
 Have partner or marketplace experience with Snowflake, Databricks, AWS, GCP, or Azure
+Why Estuary
 Report directly to the CEO and help shape company strategy
 Build the marketing function your way
 Small, low-ego team: low process, high ownership
 100% employee healthcare coverage, 401k, equity, and unlimited vacation
 Company offsites in places like Miami, Austin, Boulder, and New Orleans
+How to Apply
 Send your resume and a short note to careers@estuary.dev about a marketing function or campaign you built: what you started with, what it produced, and what you'd do differently.
 Sales Engineer
 Location: New York, NY / Remote within United States
@@ -235,6 +202,7 @@ Ability to whiteboard and reason through distributed data system design
 Nice to have:
 Experience with CDC or replication technologies
 Exposure to tools in the broader ecosystem (e.g., Fivetran, Airbyte, or Confluent)
+Work Location & Travel
 While Estuary operates as a remote-first company, we are prioritizing candidates based in the New York City area for this role.
 Travel is estimated at ~15% for customer meetings and company events.
 Technical Writer / Project Based
@@ -483,6 +451,39 @@ Remote-first, Slack-centric, async-friendly with VCs as needed.
 Global team with a skew towards east-coast working hours.
 Compensation & leveling
 Market‑competitive cash + equity.
+Head of Product Marketing
+Estuary is reshaping how the world moves data. Our platform unifies CDC, batch, and streaming into one dependable system, so data teams can power analytics, operations, and AI without stitching together fragmented ETL and replication tools.
+We are also one of the first data infrastructure companies shipping into the AI agent stack. Our skills library plugs directly into Claude, Cursor, and other assistants, turning Estuary into a tool agents can actually use. Telling that story to data teams is part of why this role exists.
+As organizations shift toward real-time architectures, the market is moving fast, and we are too. We are looking for a Head of Product Marketing who can define what we stand for, sharpen how we sell, and build the connective tissue between product, sales, and the enterprise data community.
+This is Estuary's first product marketing leadership hire. The role owns product marketing end to end, from strategy and positioning to the messaging, battle cards, and launches themselves. Working directly with our founders, Head of Sales, and product and engineering leadership, you'll turn a technical platform into a story data teams want to buy and champions can repeat without us in the room.
+The scope covers competitive intelligence, sales enablement, launches, partner marketing, case studies, and buyer research, and it shapes how Estuary wins against Fivetran, Airbyte, Confluent, and the broader modern data stack.
+This is a hands-on leadership role. You'll set the direction and do the work: writing the messaging, building the battle cards, and running the launches yourself. We're building the playbook, not executing an existing one, so strong opinions, clear technical writing, and the discipline to ship fast all matter.
+Get hands-on with the product . Build pipelines and sit in on engineering and SE conversations so your messaging is grounded in how the platform actually works.
+Set the product marketing strategy, tied to revenue goals, and measure its impact on pipeline and win rates.
+Own positioning and messaging for the platform and key use cases (CDC, real-time analytics, AI pipelines, data warehouse modernization), with narratives tailored to data engineers, data architects, and data platform leaders.
+Run buyer research through customer interviews, call transcript analysis, and win/loss, and bring those insights into roadmap, pricing, and packaging decisions.
+Lead product launches with Product and Engineering, owning the messaging, assets, and go-to-market sequencing.
+Build the competitive program across the data integration, CDC, and streaming space, including battle cards and field-ready talk tracks.
+Drive sales enablement with our Head of Sales, AEs, and Sales Engineers, including narratives, objection handling, and customer case studies that help close deals.
+Lead partner marketing with Snowflake, Databricks, and cloud providers, owning joint positioning and co-marketing.
+7+ years in technical B2B roles , with meaningful time owning product marketing at a data infrastructure, dev tools, or modern data stack company. Backgrounds in sales engineering, solutions engineering, data engineering, or developer relations are a strong plus.
+Product marketing leadership: you've owned product marketing for a company or major product line, and you can defend a point of view with founders, the board, and technical buyers.
+Fluency in the modern data stack: you understand batch ETL, ELT, CDC, and streaming well enough to hold your own with a data engineer or platform lead.
+Strong writing and editorial judgment: you still do the work yourself, producing one-pagers, launch blogs, battle cards, and sales narratives that need little editing, and you push back on jargon and hype.
+Customer and sales instinct: you've run buyer interviews or win/loss research, and you build enablement that AEs and SEs actually use.
+AI fluency: you use AI tools like Claude and ChatGPT daily, and be opinionated around how AI is reshaping the modern data stack, from AI pipelines to agents that use data tools directly.
+Have shipped a launch at a data infrastructure or dev tools company that materially moved pipeline.
+Have worked closely with technically focused buyers at larger organizations and understand how technical evaluation cycles actually unfold.
+Have experience supporting partner ecosystems (Snowflake, Databricks, AWS, GCP, Azure, or similar).
+Have built a competitive program from scratch, including primary research, win/loss, and battle card systems.
+Head of Product Marketing seat: you will define the function and set its direction.
+A seat at the leadership table, working directly with our founders and Head of Sales.
+A category that is moving: the modern data stack is being rebuilt around real-time and AI, and we are positioned at the center of it.
+Remote-first culture with offsites in cities like Miami, Austin, Boulder, and New Orleans.
+Competitive base, equity, and full benefits.
+Estuary operates as a remote-first company. While the role is open to candidates across the US, we are prioritizing candidates based in the New York City area to support in-person collaboration with the founders and leadership team.
+Travel is estimated at ~10–15% for customer meetings, partner events, and company offsites.
+Send a resume and a short note about a recent piece of PMM work you are proud of (what it was, what it changed, and what you would do differently to careers@estuary.dev .
 Let's talk about your data
 Have a specific question or comment? Send us a note and a team member will reach out to you shortly.
 If you don't see the form, please click here to open it in a new tab.

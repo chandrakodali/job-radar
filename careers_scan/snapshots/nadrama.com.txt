@@ -32,10 +32,11 @@ succinctly.
 We’re remote-first and offer competitive compensation. We hire, recognise, and reward on merit.
 Our tech stack aligns to the SolidTech.Guide and includes a lot of Linux/Kubernetes/CNCF/Open Source infrastructure and tooling, which runs on the major cloud providers.
 If you’re interested in joining Nadrama, please email your CV to careers at nadrama (dot com). We’re not hiring right now and we’re a small team, so we may not reply - but we’ll do our best to review every CV and reply when possible.
-Ship Better Software, Faster.
-Secure Agent Automation. Zero Lock-In.
+GitHub Actions & Buildkite runners.
+In your AWS or Google Cloud account.
 About
 Contact
 Careers
+Agent Sandboxes
 Privacy
 Terms

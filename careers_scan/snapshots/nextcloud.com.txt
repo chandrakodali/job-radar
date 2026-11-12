@@ -19,8 +19,32 @@ We would like to especially encourage applications by people from underrepresent
 As a very international, distributed company with employees in over 30 countries and on most continents, our company language is English, most of us work from home or a local co-working space and working hours are very flexible. We try to bring everyone in the company together for a week 2-3 times a year, with once being our yearly conference in Berlin. The teams also organize their own, separate meetings throughout the year as working together is fun and productive!
 Open positions
 At Nextcloud we help our users achieve a safe home for all their data, secure, under your control, and developed in an open, transparent, and trustworthy way. We work remotely, and our work culture is shaped by mutual trust, enthusiasm, and a strong belief in the principles of open source.
-We are looking for a hands-on Event & Trade Show Manager to join our Events team and take ownership of a portfolio of B2B trade shows and external industry events. You will be responsible from the initial event strategy and campaign planning to booth production, on-site execution, and post-event follow-up, with a focus on visibility, engagement, and business impact.
+We’re looking for an engineer who has built Nextcloud apps to join our Developer Relations team and help grow the Nextcloud app ecosystem!
 Responsibilities
+Growing the number of apps in the Nextcloud App Store.
+Creating and improving educational materials for app developers (tutorials, courses, documentation).
+Reviewing apps from commercial app development partners and supporting them.
+Onboarding commercial app development partners to ensure a successful product offering and customer support.
+Representing Nextcloud by giving talks and workshops at open-source conferences around the world. Regular travel is required.
+Testing and reviewing community apps for release highlights.
+Contributing to technical customer support as part of the Engineering department.
+Requirements
+Proven experience developing Nextcloud apps (add a link to your code in your application).
+Technical experience with PHP or Python (both is a plus).
+The following experience is a plus: a bit of HTML, CSS, JavaScript, one or more frontend frameworks such as VueJS, React, Angular, or Svelte, and understanding of containerization (Docker).
+Strong written and spoken English; comfortable teaching, presenting and writing documentation.
+Experience with public speaking (if available, add links to recordings of your talks in your application).
+Knowledge about open source technology and communities (experience in Developer Relations or a track record of contributing to other open source projects is a plus).
+Ability to prioritise and work effectively within time constraints.
+Reliability and an independent, self-reliant working style.
+What we offer
+A distributed, open team with a passion for working on and within the open source community.
+Developing a product which pushes the boundaries of technology with a global user and contributor community.
+A competitive salary.
+Flexibility for a healthy work-life balance.
+Time for personal growth and education.
+Contact us at jobs@nextcloud.com with your resume and a link to a Nextcloud app you developed if you are interested in this role.
+We are looking for a hands-on Event & Trade Show Manager to join our Events team and take ownership of a portfolio of B2B trade shows and external industry events. You will be responsible from the initial event strategy and campaign planning to booth production, on-site execution, and post-event follow-up, with a focus on visibility, engagement, and business impact.
 Own and execute our international B2B event participation end-to-end: from proposing opportunities and planning through execution and post-event reporting
 Define clear objectives for each event in collaboration with Sales and Marketing, focussing on visibility, engagement, lead generation, and business impact
 Develop and coordinate pre-event, on-site, and post-event campaigns to maximise Nextcloud’s visibility and presence
@@ -28,7 +52,6 @@ Manage booth production, logistics, and external stakeholders, while coordinatin
 Attend selected events and take an active role on-site, coordinating the Nextcloud presence and supporting the Sales team
 Manage event budgets and performance, track success metrics, analyse feedback and results, and make recommendations to improve future events
 Build strong relationships with event organisers, partners, suppliers, and internal stakeholders
-Requirements
 3+ years of experience in event management, ideally within a global B2B or technology environment
 Hands-on experience managing B2B events and trade shows
 Strong project management skills and the ability to coordinate multiple events, stakeholders, and deliverables
@@ -63,7 +86,6 @@ Experience with M&A, shareholder transactions, due diligence and company sale pr
 Commercially minded, pragmatic and execution-oriented
 German and English language skills are both essential
 Ideally located in either Stuttgart or Berlin
-What we offer
 A distributed, open, and enthusiastic team with a passion for working for and within the open source community
 A product that pushes the boundaries of technology with a global user and contributor community
 Flexibility for a healthy work-life balance
@@ -95,9 +117,7 @@ German and English language skills essential
 A distributed, open, and enthusiastic team with a passion for working for and within the open source community.
 A fun and diverse team.
 A product that pushes the boundaries of technology with a global user and contributor community.
-A competitive salary.
 Remote work and flexibility for a healthy work-life balance.
-Time for personal growth and education.
 We are looking for somebody with ambition and drive who would like to grow and learn. We especially encourage applications from people from underrepresented groups.
 At Nextcloud we help our users achieve a safe home for all their data. Secure, under your control, and developed in an open, transparent, and trustworthy way. Our team of >170 is distributed across 30 countries worldwide. We work remotely, and our work culture is shaped by mutual trust, enthusiasm, and a strong belief in the principles of open source.
 As we keep growing internationally, we’re looking for a Sales Operations Manager to own the quality, consistency, and continuous improvement of our sales organization’s operations, processes, and capabilities — combining Sales Operations, Revenue Operations, Sales Process Design, Sales Training, and Onboarding into a cohesive function that is the backbone of our sales department.

@@ -141,7 +141,7 @@ Full run history
 Pause any automation
 Audit trail on every action
 Role-based access control
-Encrypted end to end
+Encrypted in transit and at rest
 FAQs
 Frequently
 Asked Questions

@@ -1,14 +1,14 @@
 Want to have an impact while having fun ?
 Your next adventure starts below!
 Countries
-All Countries 189
+All Countries 186
 India 15
 Kenya 10
 United Arab Emirates 16
 Italy 4
 Australia 3
 Belgium 42
-Philippines 10
+Philippines 7
 Spain 8
 Germany 7
 France 5
@@ -38,7 +38,7 @@ Business Support 1
 Job position
 Filters
 All Countries
-189
+186
 India
 Kenya
 United Arab Emirates
@@ -91,18 +91,18 @@ Marketing / Content & Learning
 Account Executive, French
 Sales / Direct Sales
 Our Sales Team is seeking an enthusiastic Account Executive to take charge of the entire sales cycle and analyze client business operations. Apply now!
-GTM Account Executive, North America
-Our Sales Team is seeking an enthusiastic Account Executive to take charge of the entire sales cycle and analyze client business operations all across North America. Apply now!
 Account Executive
+Our Sales Team is seeking an enthusiastic Account Executive to take charge of the entire sales cycle and analyze client business operations all across North America. Apply now!
+GTM Account Executive, North America
 Senior Accountant
 Administration / Finance
 Account Executive (Spanish)
 Our Sales Team is seeking an enthusiastic Account Executive to take charge of the entire sales cycle and analyze client business operations all across Latin America. Apply now!
-Customer Care Associate (Spanish)
+Customer Care Associate, French
 Sales / Direct Customer Success
 Build and maintain relationships with multiple customers! We’ll train you on Odoo’s diverse applications, and you’ll use your business understanding to drive adoption and expand your client base.
-Customer Care Associate, French
 Customer Success Manager, Direct
+Customer Care Associate (Spanish)
 Customer Success Manager, Indirect
 Sales / Indirect Customer Success
 Job Events
