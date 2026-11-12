@@ -129,9 +129,9 @@ def ldsite_list(b: Board, max_jobs: int = 4000) -> list[Job]:
         if jid in seen:
             continue
         seen.add(jid)
-        slug = urlsplit(u).path.rstrip("/").rsplit("/", 1)[-1]
-        if re.fullmatch(r"[\d-]+", slug):          # .../job/<title-slug>/<id>: the title is one step up
-            slug = urlsplit(u).path.rstrip("/").rsplit("/", 2)[-2]
+        # the title is the last part of the address that is not a number (.../job/<city>/<title>/<org>/<id>)
+        parts = [x for x in urlsplit(u).path.split("/") if x and not re.fullmatch(r"[\d_-]+", x)]
+        slug = parts[-1] if parts else ""
         jobs.append(_job(b, job_id=jid, title=slug_words(slug), url=u, title_guess=True,
                          posted_at=parse_when(lastmod), needs_detail=True, detail_ref=u))
         if len(jobs) >= max_jobs:
