@@ -164,7 +164,13 @@ def posted_time(r: dict) -> datetime:
         except ValueError:
             d = None
     d = d or r["_first_seen"]
-    return d if d.tzinfo else d.replace(tzinfo=timezone.utc)
+    d = d if d.tzinfo else d.replace(tzinfo=timezone.utc)
+    u = d.astimezone(timezone.utc)
+    if r.get("posted") and (u.hour, u.minute, u.second, u.microsecond) == (0, 0, 0, 0):
+        # the board gives the date only (Workday and others): keep it on that date in US time
+        d = u.replace(hour=17)
+        r["_date_only"] = True
+    return d
 
 
 def collapse(rows: list[dict]) -> tuple[list[dict], int]:
@@ -196,7 +202,8 @@ def _day_table(rows: list[dict], tz: ZoneInfo) -> list[str]:
     for r in rows:
         title = _cell(r["title"], 70).replace("[", "(").replace("]", ")")
         loc = _cell(r["location"], 40) + (f" ({r['workplace']})" if r.get("workplace") else "")
-        t = r["_t"].astimezone(tz).strftime("%-I:%M %p") + ("" if r.get("posted") else " (seen)")
+        t = "date only" if r.get("_date_only") else \
+            r["_t"].astimezone(tz).strftime("%-I:%M %p") + ("" if r.get("posted") else " (seen)")
         out.append(f"| {t} | [{title}]({r['url']}) | {_cell(r['company'], 30)} | {loc} | {r['score']} | "
                    f"{_cell(r.get('flags', ''), 70)} |")
     return out
@@ -236,7 +243,8 @@ def build_newest_report(tz_name: str, boards_total: int, now: datetime | None = 
         "",
         v.get("note", "US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an "
                       "adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "
-                      "\"(seen)\" means the board gives no posting time, so the time the radar first saw it is shown."),
+                      "\"(seen)\" means the board gives no posting time, so the time the radar first saw it is shown; "
+                      "\"date only\" means the board gives the day but not the time."),
         "",
     ]
     if merged:
