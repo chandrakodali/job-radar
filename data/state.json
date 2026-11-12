@@ -7639,17 +7639,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 12,
+   "n": 13,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 12,
+   "n": 13,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 12,
+   "n": 13,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -7750,7 +7750,7 @@
   },
   "greenhouse:classpass": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-12"
   },
   "greenhouse:climateai": {
@@ -8660,7 +8660,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 16,
+   "n": 17,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -37341,6 +37341,7 @@
   "greenhouse:boxinc:8318473": "2026-11-12",
   "greenhouse:bpcs:8367696": "2026-11-10",
   "greenhouse:bugcrowd:8334498": "2026-11-07",
+  "greenhouse:buzzsolutions:5480959008": "2026-11-12",
   "greenhouse:c3el:5291035007": "2026-11-10",
   "greenhouse:captivation:5466472008": "2026-11-07",
   "greenhouse:captivation:5467642008": "2026-11-07",
