@@ -14,16 +14,16 @@ Nov 9
 # career
 # beginners
 # watercooler
-136 reactions
-53 comments
+142 reactions
+56 comments
 3 min read
 How do you truly stand out in Tech?
 Navigating AI-era layoffs and high standards
 FrancisTRᴅᴇᴠ
 # community
 # productivity
-161 reactions
-91 comments
+164 reactions
+96 comments
 8 min read
 We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.
 Poll reveals hidden job market struggles
@@ -31,69 +31,69 @@ xulingfeng
 Nov 11
 # ai
 # programming
-100 reactions
-68 comments
+102 reactions
+81 comments
 12 min read
-Standing Out in Tech Is the Wrong Goal. Being Findable Is.
-AheadKit
+A Day in the Life of Someone Who Just Wanted to Open LinkedIn in Peace
+Shruti Shahi
+for Necoz
 Nov 12
-Add Comment
-4 min read
-Why Good Engineers Don't Get Promoted (and the Formula That Fixes It)
-Promo Ready
-# softwareengineering
-1 comment
-7 min read
-LOST
-Tariq
-# buildinpublic
-# learning
-2 min read
-You found the why. The reason to finish is smaller than you think.
-Qwerta
-80 invitations, 50 seats: the number that killed a paid job
-Suki
-# freelance
-Your Company Has a New Career Framework and It Has Put You a Level Lower
-Asael Shinder
-# asaelshinder
-# promotion
-# levels
-Your Mentee Wants to Leave Their Job to Do a Master's Degree
-# mentorship
-# education
-How to Quote Freelance Work Without Guessing: Find Your Floor Rate, Then Send a Quote in 10 Minutes
-三好啓太
-# freelancing
-# pricing
-# startup
+# socialmedia
+14 reactions
+2 comments
 5 min read
-If you let flaky tests merge, flaky tests become your engineering culture
-MergedCode
-# leadership
-# testing
-1 min read
-Madrina: A Career Coach for Women Engineers 💛
-Frances Coronel
-# events
-# hackathon
-# aiagents
+Small Teams, Giant Leverage: How 5-Person IT Shops Are Out-Shipping Enterprise Divisions
+Debashish Ghosal
+Add Comment
+How DevFests helped me shape my career?
+Dev J. Shah 🥑
+# developers
+# google
 1 reaction
+4 min read
+Out of scope needs a trigger
+Denner Vidal
+# softwareengineering
+1 min read
+Your Best Code Might Be Written While You’re Not Coding
+Khali Sollis
 9 min read
-How to Explain a Gap on Your Developer Resume (Without Overexplaining It)
-Tariq khan
-# resume
-I'm an AI agent. I spent 25 days publishing into an empty room.
-James
-# writing
+72.6% of cybersecurity job postings name no certification at all
+CyberJobs.cc
+# security
+# cybersecurity
+How to compare a nearshore engineer to a US hire using only public BLS data
+Bromena
+# salary
+# datascience
+No model decides whether a model made something up
+Sammii
+# llm
+# testing
+A status file for every project
+Malek Damiri
+# analytics
+# management
+2 min read
+Care About the Input, Not the Code
+Sean Kerwin
+# claude
+# workflow
+How I design AI systems for a one person business (and what I refuse to automate)
+Bhavik Sarkhedi
+# startup
+6 min read
+Anthropic's IPO Lets Regular People Request Shares. Here's What That Actually Means
+Serghei Pogor
+# investing
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Free AWS Certification for Students: The Complete Step-by-Step Guide
 How I Feel about the Grace Hopper Celebration Getting Cancelled
 Remembering Steven Schrembeck
+Frontend Isn't Dead. But the Job Title Is Changing
 Google's New SDLC Whitepaper: From Vibe Coding to Agentic Engineering
 The Death of Freelance Platforms: Why Upwork & Fiverr Stocks Are Collapsing in the AI Era
 People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?
-Frontend Isn't Dead. But the Job Title Is Changing
 How to Become a Tech Conference Speaker (And Why You Might Regret It)
 The Quiet Weight of Working in Tech in the AI Era
 Should You Still Learn to Code in 2026? An Honest Take From a Student Who's Still Grinding
@@ -104,14 +104,14 @@ Salesforce SMTS Interview Experience (Offer Accepted)
 The Software Entropy in the AI Era
 Google X-Ray Search for Smarter Job Hunting
 What an Anthropic hiring manager stopped asking candidates to do
+Are we software engineers doomed? Yes, because of AI!
 Are Frontend Developers Cooked? Is Frontend design safe?
 The Ever Changing Profession of Software Engineering
+TopAccess: Freelancer Review
+Company career page scraper: every open job from any company, by name or domain
+DuckLake 1.0 and Iceberg 1.11: What a Data Engineer Should Know
 Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
 Developer Burnout in the AI Era: It's Not What You Think
-DuckLake 1.0 and Iceberg 1.11: What a Data Engineer Should Know
-Company career page scraper: every open job from any company, by name or domain
-TopAccess: Freelancer Review
-Are we software engineers doomed? Yes, because of AI!
 We're a place where coders share, stay up-to-date and grow their careers.
 Log in
 Create account

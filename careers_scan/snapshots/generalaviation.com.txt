@@ -1,10 +1,8 @@
-General Aviation
-Careers
-Email us at jobs@generalaviation.com with a resume and a description of something you've built that you're proud of.
-Open roles
+Join the team
 Mechanical Engineer
-Lead mechanical design for our remote tower and controller station (overall configuration, enclosures, and site-specific considerations).
-Apply
+Lead mechanical design for our remote tower and controller station: overall configuration, enclosures and site-specific considerations.
+Apply — Mechanical Engineer
 Software Engineer
-Build core software systems for our remote tower (C++/Python) and controller station. Elixir knowledge preferred but not required.
-General Application
+Build core software systems for our remote tower (C++/ Python) and controller station. Elixir knowledge preferred but not required.
+Apply — Software Engineer
+Email us at jobs@generalaviation.com with a resume and a description of something you’ve built that you’re proud of.

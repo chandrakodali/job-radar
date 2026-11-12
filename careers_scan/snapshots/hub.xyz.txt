@@ -1,24 +1,34 @@
-Careers at Hub
-Build the real-world data behind embodied AI.
-Robot foundation models learn physical behavior from human demonstration, and real-world data is the bottleneck. Join a small team working directly with the founders to remove it.
-View open roles →
-Email us →
+Backed by YC (Spring 26) Hub Labs→ Become an operator→ Deploy with Hub→
+Careers
+Born just in time to solve embodied AGI.
+We reach real workplaces, record how people do the work, train the operators who run robots, and put robots to work, fast. Join the small team building deployment velocity for physical AI.
+View open roles
+Meet Hub
 Open roles
 0 open roles
 No open roles right now.
-Capturing physical experience for embodied AI
-Our mission is to bring embodied AGI closer through real-world data and research. We provide training data to frontier AI labs and robotics companies: egocentric RGB-D, teleoperation, hand-tracking and tactile datasets, captured, enriched, annotated and quality-checked in-house, end to end.
-Our global network includes 150,000+ active contributors and 730+ commercial sites across 150 countries, running on platforms we build ourselves rather than assembled SaaS. We are based in San Francisco, backed by Y Combinator, and our team is spread across SF and Europe.
-We keep our core team small by design. You will work directly with the founders and own systems, deals or operations end to end. Compensation, location and language requirements differ by role and are listed on each job.
+Hub Deploy / Hub Labs
+Data, operators and robots, in the real world.
+Robot foundation models learn physical behavior from human demonstration, and real-world data is the bottleneck. Through Hub Deploy, we provide that data to AI and robotics companies, drawing on 7,300+ verified commercial sites across 100+ industries, more than 860K KYC'd unique operators and 680+ catalogued tasks. We also train operators and deploy robots on real sites, from warehouses and kitchens to retail floors and workshops.
+Hub Labs studies which data, and which deployments, make robots learn fastest. We run collection, processing, QA and annotation in-house, on platforms we build ourselves. We are backed by Y Combinator (Spring 26) and headquartered in San Francisco.
+7,300+
+Verified commercial sites
+860K+
+KYC'd unique operators
+680+
+Catalogued tasks
+The team
+The people behind Hub.
+Our field operators, reviewers, engineers and researchers work across San Francisco, France and LATAM. The core team is small by design, and you work directly with the founders. Compensation, location and language requirements differ by role and are listed on each job. Some roles are remote-friendly, while others require in-person work in San Francisco or Toulouse.
 Own it end to end
-Every role owns its domain completely, whether that is deals, features, accounts, campaigns or processes. Accountability is high, and so is the room to shape how things are done.
+Every role owns its domain - deals, features, accounts, campaigns or processes - with full accountability for the outcome.
 Tokenmaxxing
-Uncapped frontier models and fleets of agents let a small team produce the output of a much larger org. Everyone, not just engineers, runs agentic workflows daily, with shared skills and a knowledge base.
+With uncapped frontier models, fleets of agents, shared skills and a knowledge base, a small team produces the output of a much larger org. Everyone, not just engineers, runs agentic workflows daily.
 No black boxes
-We communicate constantly and proactively through Slack, huddles and short stand-ups. Urgent issues get handled immediately, not when it is convenient.
+We communicate constantly and proactively through Slack, huddles and short stand-ups. Urgent issues get handled immediately, not when it's convenient.
 A higher bar
-We blend Y Combinator and SF high-performance culture with European roots, and we hold ourselves to a higher bar than anyone else would set for us.
-Careers
-Help us build the data layer for physical AI.
-Browse our open roles in engineering, sales, marketing and operations, and apply to the one where you can own the most.
-See open roles →
+We hold ourselves to a higher standard than anyone else would set for us.
+Stay connected
+Build what comes next.
+Check back here for new openings. If you want to record real-world work with us, you can also become an operator.
+Become an operator

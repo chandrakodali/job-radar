@@ -1,0 +1,58 @@
+The risk platform for digital assets,
+built around your organization.
+Verdict Machine maps your organization on-chain, analyzes your risk as things change, and creates protections tailored to how you operate.
+Request a demo See how it works
+Backed by Y Combinator
+Customers
+See what your organization has on-chain, understand the risk, and put the right protections in place.
+On-chain visibility
+Verdict Machine maps your organization on-chain, so you can see what you have and what it depends on.
+Organizational wallet and smart contract graph
+On-chain flow of funds
+External and vendor dependencies
+Real-time risk analysis
+Verdict Machine investigates your environment and explains where the risk is.
+Cyber: smart contracts and oracles
+Financial: concentration, fees and liquidation
+Operational: authority and governance
+Tailored protections
+Verdict Machine’s AI creates tailored policies based on your organization’s context, activities, and workflows. Your team approves the policies before activation.
+Transaction screening: evaluate transactions in real time. Co-sign on-chain or via API.
+Alerts: changes to ownership or roles, admin actions, oracle price feed age.
+Your AI risk team, on demand.
+Built around your organization and ready to investigate your questions. Get clear answers about your assets, risks and latest activity, with supporting evidence and tailored recommendations.
+See any organization mapped out.
+Ask any question and get answers based on your current risk and latest activity.
+Get every finding with an auditable explanation.
+What this means for your team.
+Scale safely.
+Launch new products, add new protocols and onboard new vendors, knowing what each one adds to your risk before you commit.
+Move quickly.
+Verdict Machine already knows your organization, so each new decision starts from a current picture instead of a blank page.
+Decide with evidence.
+Every finding is weighed against your organization and comes with the evidence behind it, ready for your risk committee, auditor or regulator.
+Use cases
+Built around the problems financial institutions face.
+Your organization
+Know when your risk changes. Fix before anything happens.
+Know when ownership, roles or dependencies change across your environment, and what the change means for your risk.
+Before
+Periodic reviews
+After
+Changes flagged as they happen
+External organizations
+Understand the organizations you invest in, trade with, or depend on.
+Assess protocols, vaults, counterparties, and vendors before you deploy capital or approve a deal, with findings, evidence, and recommended actions.
+Scattered across multiple sources
+One assessment, with evidence
+Transaction screening
+Check every transaction against your own policies.
+Policies tailored to your organization and approved by your team, evaluated in real time. Co-sign on-chain or via API.
+Generic rules
+Policies built around you
+Talk to a founder
+Your demo is with Liran Kogan
+Co-founder, Verdict Machine
+Request a demo.
+Tell us about your organization. We’ll email you to arrange a time for a demo with Liran.
+Prefer email? founders@verdictmachine.com

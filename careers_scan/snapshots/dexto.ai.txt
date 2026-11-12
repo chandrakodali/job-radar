@@ -79,7 +79,7 @@ $0 / month
 Put agents to work from one persistent workspace.
 Free weekly usage on Auto, the model Dexto picks for you
 Your ChatGPT or Claude plan, or your own keys, for more models
-Cloud computers on credits, 1 running at a time
+Cloud computers on credits, 5 running at a time
 3 Loops and 1 GB of storage
 Skills, apps and 50+ integrations
 Start free
@@ -92,7 +92,7 @@ Everything in Free
 Every model unlocked: Claude, GPT, Gemini and more, on credits, fast mode too
 5× the weekly Auto usage of Free
 $10 in credits every month for computers and media
-3 computers at a time, 20 Loops, 10 GB of storage
+20 computers at a time, 20 Loops, 10 GB of storage
 Try Plus free for 7 days
 Pro
 $100 / month
@@ -100,7 +100,7 @@ For people who run agents all day.
 Everything in Plus
 20× the weekly Auto usage of Free
 $50 in credits every month
-10 computers at a time, unlimited Loops, 100 GB of storage
+50 computers at a time, unlimited Loops, 100 GB of storage
 Get Pro
 Enterprise
 Custom

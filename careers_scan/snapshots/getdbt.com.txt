@@ -32,9 +32,8 @@ Partner Sales Manager
 Remote, Japan, APAC
 Senior Partner Manager
 Analytics Department
-Senior Marketing Analyst
-Oakland, California, United States, AMER
 Senior Product Analyst
+Oakland, California, United States, AMER
 Business Intelligence Department
 Sr. Principal AI Systems Architect
 Principal Product Designer
@@ -91,6 +90,7 @@ Novi Sad, South Bačka, Serbia, EMEA
 Senior Site Reliability Engineer
 Lead Full Stack Engineer
 Senior Full Stack Engineer
+Staff Program Manager - Knowledge Management
 Finance Department
 Senior Manager, Accounts Receivable & Billing
 Tax Manager
@@ -106,10 +106,13 @@ Senior Internal Communications Manager
 Remote, Texas, United States, AMER
 Remote, Pennsylvania, United States, AMER
 Remote, Washington, United States, AMER
+VP, Total Rewards and People Operations
+Remote, Massachusetts, United States, AMER
+Remote, Illinois, United States, AMER
+Remote, Georgia, United States, AMER
 IT & Sec Department
 Manager Security Engineer, Operations
 GRC Staff Engineer
-Remote, Massachusetts, United States, AMER
 Legal Department
 Senior Commercial Counsel
 USA - Philadelphia (dbt)
@@ -119,6 +122,9 @@ Director, Content Marketing
 Lifecycle Marketing Manager
 Enterprise Demand Generation Lead — North America
 Senior Marketing Manager, Commercial
+Enterprise Growth Marketing Lead, EMEA
+London, England, United Kingdom
+Dublin, Dublin, Ireland
 Product Department
 Product Manager - Integrations
 Staff Product Manager, Connectors
@@ -147,16 +153,16 @@ Senior Sales Engineer, Enterprise - German Speaking
 Remote, Ireland, EMEA
 Remote, United Kingdom, EMEA
 Commercial Sales Director (Benelux)
-Enterprise Account Executive
 Business Development Representative (Austin)
 Account Executive, Commercial (Austin)
 Senior Solutions Architect, Enterprise
 Regional Director
 Remote, Illinois, United States, AMER; Remote, Indiana, United States, AMER; Remote, Michigan, United States, AMER; Remote, Ohio, United States, AMER
 Sales Director
+Enterprise Account Executive
 Remote, Minnesota, United States, AMER
 Senior Solutions Architect
-London, England, United Kingdom
+Remote, Arizona, United States, AMER
 Remote, Any, Sweden
 Business Development Representative (Sydney)
 Sydney, New South Wales, Australia, APAC

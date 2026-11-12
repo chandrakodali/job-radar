@@ -1,0 +1,43 @@
+Get Started for Free
+PRODUCT Markets Signals How it works FAQ
+COMPANY Careers Ambassadors Contact
+X Discord LinkedIn
+Open Roles
+Both roles work directly with the founders.
+Engineering, Full stack
+Founding Engineer
+As a Founding Engineer, you will work directly with the founders to build production-grade multi-agent systems, backend infrastructure, and financial data systems that power research and live trading.
+Apply
+Full-time San Francisco, CA, US $90K - $210K 0.50% - 2.00% equity Any (new grads ok) Visa: Will sponsor
+What You’ll Do
+Technical Development – Design and ship new features, MVPs, and scalable solutions that deliver direct value to customers
+Full Stack Development – Develop backend systems with a focus on scalability & improve infrastructure across AWS, databases, and containerized services
+AI/ML Applications – Develop agentic systems that power financial research and trading workflows
+Data Engineering – Build and improve financial data pipelines powering research and trading systems, working with large financial datasets
+Qualifications & Experience
+Experience with AWS infrastructure: ECS ALBs, S3, RDS
+Experience building backend systems: concurrency, multithreading, or asynchronous programming
+Experience building production-grade agentic systems
+Experience with application security, system reliability, and performance fundamentals
+Strong PostgreSQL fundamentals: schema design, indexing, query optimization, and connection pooling
+Experience with Docker, Git-based workflows, and CI/CD automation using GitHub Actions or an equivalent platform
+Experience with machine learning
+Understanding of financial markets, trading strategies, or financial datasets
+Previous experience at a hedge fund, proprietary trading firm, asset manager, fintech company, market data provider, or quantitative research group is a plus, but not required.
+Engineering, Backend
+Quantitative Engineer
+As a Quantitative Engineer, you will work directly with the founders to build the trading and backtesting systems that power Conviction. You’ll develop quantitative strategies, work with large financial datasets, and turn trading ideas that can be tested and deployed in production.
+Execution & Trading Systems – Develop trade-generation and execution logic, with a focus on low-latency systems
+Backtesting – Build and improve backtesting systems that measure historical strategy performance
+Strategy Development – Build multi-agent systems that translate trading ideas into deployed, production-ready strategies
+Quantitative Research – Research, develop, and evaluate systematic trading strategies across equities, options, futures, and other financial markets
+Market Data – Work with large historical and real-time financial datasets, including prices, fundamentals, news, and alternative data
+Strong Python and quantitative programming skills
+Experience building or researching systematic trading strategies
+Strong understanding of statistics, probability, and quantitative methods
+Experience working with large financial or time-series datasets
+Experience designing and evaluating backtests
+Understanding of common sources of backtest error, including look-ahead bias, survivorship bias, overfitting, transaction costs, and data leakage
+Understanding of financial markets, order types, market structure, and trade execution
+Experience with data analysis libraries and quantitative research tooling
+We’re especially interested in people who have worked in quantitative finance, trading, machine learning, or financial markets. Previous experience at a hedge fund, proprietary trading firm, asset manager, fintech company, market data provider, or quantitative research group is a plus.

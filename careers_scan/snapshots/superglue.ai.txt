@@ -3,6 +3,8 @@ Work at superglue
 We are building self-driving ERP implementations. Each of us owns a large part of the product, works directly with customers and ships to production every day.
 Open roles
 Founding Product Engineer Engineering · Munich · Full-time
+Founding Account Executive Sales · US (remote) or Munich · Full-time
+Founding Forward Deployed Engineer Deployment · US (remote) or Munich · Full-time
 Is your role not listed? Send an open application .
 From the founders
 We started superglue in 2024 as an open-source tool that connects AI agents to any API, and we went through Y Combinator in the Winter 2025 batch. Our customers kept using it for the same work: moving data and setting up systems in ERP implementations. These projects take months of manual work, and most of it follows the same steps every time. So we decided to automate the whole implementation.

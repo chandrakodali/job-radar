@@ -17,10 +17,10 @@ Monthly downloads
 60k+
 GitHub stars
 Across our open-source projects
-Pydantic 28.4k
-Pydantic AI 18.9k
-Monty 8.0k
-Logfire 4.4k
+Pydantic 29.4k
+Pydantic AI 21.1k
+Monty 8.9k
+Logfire 4.5k
 The Pydantic Open Source Fund
 For too long the open source ecosystem has been taken for granted. We're proud to be part of the movement to change that. Pydantic is a member
 of the Open Source Pledge and supports individuals whose work the whole ecosystem depends on.
@@ -65,3 +65,15 @@ Email us
 Explore Logfire.
 Sign up
 Explore our open source packages
+Get started with Logfire for free
+Sign up today and see your first trace in under 2 minutes
+01 Install
+$ uv add logfire
+Resolved 7 packages in 128ms
+Installed 7 packages in 89ms
++ logfire
+02 Instrument
+import logfire
+logfire.configure()
+logfire.info( 'Hello {name}' , name= 'world' )
+Free up to 10m records per month No credit card needed

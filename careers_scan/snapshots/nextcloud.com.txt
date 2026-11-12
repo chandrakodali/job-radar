@@ -119,25 +119,6 @@ A fun and diverse team.
 A product that pushes the boundaries of technology with a global user and contributor community.
 Remote work and flexibility for a healthy work-life balance.
 We are looking for somebody with ambition and drive who would like to grow and learn. We especially encourage applications from people from underrepresented groups.
-At Nextcloud we help our users achieve a safe home for all their data. Secure, under your control, and developed in an open, transparent, and trustworthy way. Our team of >170 is distributed across 30 countries worldwide. We work remotely, and our work culture is shaped by mutual trust, enthusiasm, and a strong belief in the principles of open source.
-As we keep growing internationally, we’re looking for a Sales Operations Manager to own the quality, consistency, and continuous improvement of our sales organization’s operations, processes, and capabilities — combining Sales Operations, Revenue Operations, Sales Process Design, Sales Training, and Onboarding into a cohesive function that is the backbone of our sales department.
-Sales & Revenue Operations: Own and administer Odoo CRM/ERP for the sales organization, ensuring data integrity, adoption, and proper configuration across pipelines, reporting, and automation; own the sales forecasting process.
-Build and maintain dashboards and reports on pipeline health, conversion rates, quota attainment, forecast accuracy, and revenue metrics (ARR, churn, win rates, etc.).
-Identify bottlenecks and inefficiencies in the sales cycle and take initiative to fix them.
-Establish and enforce sales methodology and playbooks (qualification criteria, deal stages, sales cadences, etc.).
-Create and maintain standard operating procedures (SOPs) for all sales workflows.
-Sales enablement: Design and deliver training programs for Sales (sales methodology, product knowledge, Odoo/CRM usage, negotiation, objection handling, etc.).
-Onboard new Sales hires, ensuring quality, consistency, and productivity.
-Collaborate with Marketing on lead scoring, MQL/SQL definitions, and lead quality.
-Experience in sales operations, revenue operations, sales enablement, or a related role — ideally combining several of these.
-Hands-on experience with Odoo (CRM/ERP) or strong experience with a comparable CRM/ERP platform, with the willingness and ability to become the internal Odoo expert for Sales.
-Experience designing or improving sales processes and training programs.
-Excellent communication and facilitation skills — this role trains and influences the entire sales organization.
-Background in a B2B sales environment.
-Familiarity with sales methodologies (MEDDIC, SPIN, Sandler, etc.).
-Attention to detail, particularly around CRM data quality and process consistency.
-Strong analytical skills; comfortable turning data into actionable insights.
-Ownership mentality.
 At Nextcloud we help our users achieve a safe home for all their data. Secure, under your control and developed in an open, transparent and trustworthy way. Our Team of 170 is distributed in 30 countries worldwide.
 We work remotely and our work culture is shaped by mutual trust, enthusiasm and a strong belief in the principles of open source.
 We are seeking a proactive, detail-oriented Accountant / Finance Executive Assistant to join our team and play a crucial role in our financial operations. In this position, you will work closely with our financial executives, providing them with the support they need to drive our company’s success.

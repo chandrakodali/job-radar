@@ -1,4 +1,4 @@
-Going to KubeCon NA? Join the groundcover Birthday Party at Booth #111. Join the party
+Going to AWS re:Invent? Join the groundcover Birthday Party at Booth #1852. Join the party
 Redefining
 observability Together.
 Building something extraordinary starts with the right people. Join a team of passionate and curious individuals who are here to change the rules of the game.
@@ -35,7 +35,6 @@ Observability
 for what comes next.
 Start in minutes. No migrations. No data leaving your infrastructure. No surprises on the bill.
 Start Free
-Start free
 Learn more
 Launch Playground
 Book a demo

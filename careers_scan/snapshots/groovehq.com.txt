@@ -32,8 +32,8 @@ And we're using it ourselves.
 We didn't build Helply around demos or hypothetical workflows. Our support operation became its first proving ground.
 At our peak, 6 full-time people supported 1,400 customers. Today, 2 people support that same customer base. Most importantly: we do not plan to add another support person as we add our next 1,000 customers.
 This isn't about replacing support teams. It's about giving every person more capacity.
-That's why every plan from Team up includes unlimited view-only seats.
-Bring in Product, Engineering, Customer Success, and leadership to read conversations and leave notes, with AI credits pooled across your workspace.
+That's why every plan includes the Assist and Support Agents.
+We price plans by human agents, the people on your team who reply to customers, with AI credits pooled across your workspace.
 What we believe
 Humans should direct more of the work.
 AI agents can gather context, investigate, follow processes and take action. People should spend more of their time setting direction, exercising judgment and handling the moments that need them.
@@ -71,7 +71,7 @@ How Helply works
 Book a demo or start a free trial.
 Start with a 14-day free trial that needs no card, or book a demo to see Helply against your own workflows. No sales gate stands between you and the product.
 Migrate from your current help desk.
-Bring your history over from Zendesk, Intercom, Freshdesk, Help Scout, Front, or Groove. Enterprise plans include dedicated migration, and every plan connects your knowledge, customer data, and tools so agents have context from day one.
+Bring your history over from Zendesk, Intercom, Freshdesk, Help Scout, Front, or Groove. Team and up include free migration, with white-glove migration on Pro and Growth. Every plan connects your knowledge, customer data, and tools so agents have context from day one.
 Meet customers where they already are.
 Helply handles email, live chat, Slack, Microsoft Teams, WhatsApp, Discord, Telegram, and phone and SMS from one shared workspace, so every conversation lands in the same place.
 Your team directs, the agents do the work.
@@ -92,9 +92,9 @@ helply.com
 Core offering
 A full help desk (shared inbox, messaging, knowledge base, analytics, workflows) with AI agents built into every part
 Pricing
-Starter is $79 a seat a month for up to 3 seats. Team, Pro and Growth are $499, $999 and $1,999 a month, with seats and AI credits included. See current pricing.
+Starter is $99 a month billed yearly for up to 2 human agents. Plus, Team, Pro and Growth are $199, $499, $999 and $1,999 a month, with agents and AI credits included. See current pricing.
 Contract terms
-Month-to-month; Enterprise is billed annually. 14-day free trial with no card.
+Month-to-month or yearly; paying yearly saves 15%. 14-day free trial with no card.
 Services
 Support Agent, Assist Agent, Background Agents, shared inbox & ticketing, messaging & live chat, knowledge base, analytics, workflows
 Communication
@@ -117,7 +117,7 @@ Helply is an AI-native customer support platform: a full help desk (shared inbox
 Is Helply the same company as Groove?
 Yes. Helply is made by the team behind Groove, which launched in 2011. Groove is now Helply, rebuilt around AI agents.
 How is Helply priced?
-Starter costs $79 a seat a month for up to 3 seats, with 500 AI credits per seat. Team, Pro and Growth cost $499, $999 and $1,999 a month and include seats, unlimited view-only seats and AI credits. See helply.com/pricing for current numbers.
+Helply plans start at $99 a month billed yearly (Starter, up to 2 human agents and 2,500 AI credits). Plus is $199 for up to 5 agents, Team $499 for 10, Pro $999 for 25 and Growth $1,999 for 50, each with pooled AI credits. See helply.com/pricing for current numbers.
 How is Helply different from Zendesk and Intercom?
 Helply is built around AI agents from the ground up instead of adding AI features to a legacy help desk. It charges for AI work in pooled credits rather than per resolution. It replaces Zendesk, Intercom, Freshdesk, Front, Help Scout, Pylon, and Plain rather than integrating with them.
 Does Helply replace my support team?

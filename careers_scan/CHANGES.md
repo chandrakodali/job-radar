@@ -1,843 +1,644 @@
 # Careers page changes
 
-Checked 2026-11-12 08:54 UTC: 1757 pages, 82 changed, 42 look like new postings.
-
-## [Aqua Security](https://www.aquasec.com/about-us/careers/)
-
-- added: Hyderabad, India Engineering Technical Writer
-- added: Aqua Security is looking for a talented and motivated Technical Writer to join our team!In this role, you will:Documentation Ownership: Design, Write, edit, and maintain comprehensive end-user guides,
-
-## [Brikl](https://www.brikl.com/jobs)
-
-- added: Corporate merchandise Branded stores All segments
-- added: Branded stores and bulk orders from one platform, built for scale. Wholesale prices, no inventory.
-- added: Brikl is the on-demand platform that promotional product distributors run their branded merch on. One login for sourcing, bulk orders, on-demand storefronts, artwork and payment. Source 8,000+ decorat
-- added: Nothing upfront — no platform setup fee, no monthly subscription, no per-seat charge. Brikl takes a 3.5% commission on each transaction. Full details on the pricing page.
-- added: Start selling the same day.
-- removed: Company stores Branded stores All segments
-- removed: Run bulk orders and branded online stores from one platform, at wholesale prices, produced on demand, with no inventory risk.
-- removed: Brikl is the on-demand platform that promotional product distributors run their branded merch on. One login for sourcing, bulk orders, on-demand storefronts, artwork and payment. Source 8,000+ decorat
-- removed: Nothing upfront — no setup fee, no monthly subscription, no per-seat charge. Brikl takes a 3.5% commission on each transaction. Full details on the pricing page.
-- removed: Start selling in minutes.
-
-## [Café](https://at.cafe/)
-
-- added: The choice of Café was made in a context of return to office context and positive reinforcement. Using Café has enabled us to improve employee engagement by offering more visibility and social moments
-- added: Julien Mangeard
-- added: Chief Technology Officer
-- added: Veepee
-- removed: Café was instrumental in our transitioning to a hybrid organization. It was super simple to set up and all our teammates adopted the app from day one.
-- removed: Jacques-Edouard Sabatier
-- removed: Co-founder & CEO
-- removed: JOW
+Checked 2026-11-12 21:10 UTC: 1757 pages, 66 changed, 31 look like new postings.
 
 ## [Cognizant](https://careers.cognizant.com/india-en/)
 
-- added: MSPP + Copilot Studio
-- added: Test Lead
-- added: SPE-Claims HC
-- added: SME-Order Management-Voice
-- added: SPE-Product info & MDM
-- removed: ICM Training Analyst
-- removed: BANGALORE, Karnataka, India
-- removed: Java Fullstack Developer with AWS & React
-- removed: Tosca Test Automation
-- removed: Business Analyst
-
-## [Contour](https://trycontour.com/careers)
-
-- added: We’re not hiring at the moment, but if you think you’d be a good fit, we’d still like to hear from you. Write to careers@trycontour.com .
-- removed: We’re not hiring at the moment, but if you think you’d be a good fit, we’d still like to hear from you. Write to [email protected] .
+- added: Director, Portfolio Marketing - Enterprise Platforms
+- added: Noida, Uttar Pradesh, India
+- added: Work from Home
+- added: Corporate
+- added: Executive - Accounts Payable
+- added: Jr. Executive - Accounts Payable
+- added: SPE-AR Management HC
+- added: Hyderabad, Telangana, India
+- removed: MSPP + Copilot Studio
+- removed: Test Lead
+- removed: SPE-Claims HC
+- removed: SME-Order Management-Voice
+- removed: SPE-Product info & MDM
 
 ## [dbt Labs](https://www.getdbt.com/about-us/careers)
 
-- added: Fivetran + dbt Labs is now Fivetran. The dbt brand, products, and open-source community remain central to the company’s future.
-- added: Manager, Account Management
-- added: Denver, Colorado, United States, AMER; USA - Austin (dbt)
-- added: Systems Engineer II - R&D Business Systems
-- removed: Big news! 🎉 Fivetran and dbt Labs have merged to deliver the data infrastructure for agents you trust
+- added: Staff Program Manager - Knowledge Management
+- added: VP, Total Rewards and People Operations
+- added: Remote, Illinois, United States, AMER
+- added: Remote, Georgia, United States, AMER
+- added: Enterprise Growth Marketing Lead, EMEA
+- added: Dublin, Dublin, Ireland
+- added: Remote, Arizona, United States, AMER
+- removed: Senior Marketing Analyst
 
-## [Dexto](https://www.dexto.ai/careers)
+## [Dojah Inc](https://dojah.io/careers)
 
-- added: Build on Free for as long as you like. Try Plus free for 7 days when you want every model and more Auto each week.
-- added: Free weekly usage on Auto, the model Dexto picks for you
-- added: Your ChatGPT or Claude plan, or your own keys, for more models
-- added: Cloud computers on credits, 1 running at a time
-- added: 3 Loops and 1 GB of storage
-- added: Skills, apps and 50+ integrations
-- added: Plus
-- added: Most popular
-- added: $20 / month
-- added: Billed monthly
-- added: Every model unlocked, more Auto each week, credits included.
-- added: Everything in Free
-- added: Every model unlocked: Claude, GPT, Gemini and more, on credits, fast mode too
-- added: 5× the weekly Auto usage of Free
-- added: $10 in credits every month for computers and media
-- removed: Free usage to get started. Go further with your own keys or ChatGPT plan, and add credits when you want more.
-- removed: New users signing up with Google or GitHub receive a one-time $5 usage credit per verified email.
-- removed: Free usage, refreshing every week
-- removed: A persistent cloud computer for agent work, on credits
-- removed: Projects with chats, instructions, skills and apps
+- added: Media Production Associate
+- added: Brand Designer
+- removed: Senior Product Manager
+- removed: Associate Product Manager
+- removed: Senior Software Engineer & AI Solutions Architect
 
-## [Edgerun](https://www.edgerun.com/careers)
+## [Fieldproxy](https://www.fieldproxy.ai/solutions/recurring-jobs)
 
-- added: Brand & Marketing Lead
-- removed: Content Lead
-
-## [Embedder](https://embedder.com/company)
-
-- added: The Enterprise AI Platform For
-- added: Embedded Software Teams
-- added: Embedder AIP helps your engineering team accomplish more across silicon platforms and product variants, shortening development cycles and accelerating time to market.
-- added: Embedder is an AI platform for firmware that solves board bring-up, hardware debugging, HIL testing, platform migrations, and performance optimization.
-- added: ECOSYSTEM
-- added: AI connected to the physical world
-- added: Our semiconductor and integration partners help connect Embedder to the chips, instruments, and systems that power the physical world.
-- added: Supported MCU Ecosystems
-- added: View Full List (opens in a new tab)
-- added: Rapid Prototyping
-- added: Working firmware in days, not weeks
-- added: Embedder reads your datasheet and schematic, drafts a cited implementation plan, writes part-specific drivers, and validates them on your hardware and existing bench equipment—cutting weeks of bring-u
-- added: Datasheet Intelligence
-- added: Every register value, cited to the manual
-- added: Embedder reads the entire reference manual, from register maps to clock trees to errata, and cites the section behind every value it writes.
-- removed: About us
-- removed: Legal name
-- removed: Embedder Tech Inc.
-- removed: Founded
-- removed: 2025
-
-## [Employment Hero](https://employmenthero.com/jobs/)
-
-- added: Autoglazier
-- added: NWG ADAS & Windscreens
-- added: Alice Springs, Northern Territory 0870
-- added: • A$67.5k – A$77k
-- added: Mid-level Senior
-- added: Posted 44 minutes ago
-- added: Air Conditioning Apprentice
-- added: Ruttley Services Pty Ltd
-- added: Chatswood, New South Wales 2067
-- added: Posted 56 minutes ago
-- added: Cafe Allrounder/Shift Supervisor
-- added: Employee Service Portal
-- added: Toowoomba, Queensland 4350
-- added: Casual
-- added: Posted 58 minutes ago
-- removed: Events Coordinator
-- removed: Royal Motor Yacht Club Broken Bay NSW
-- removed: Newport, New South Wales 2106
-- removed: Posted 48 minutes ago
-- removed: Sales & Operations Coordinator
-
-## [Estuary](https://estuary.dev/about/)
-
-- added: Get hands-on with the product . Build pipelines and sit in on engineering and SE conversations so your messaging is grounded in how the platform actually works.
-- added: 7+ years in technical B2B roles , with meaningful time owning product marketing at a data infrastructure, dev tools, or modern data stack company. Backgrounds in sales engineering, solutions engineeri
-- added: AI fluency: you use AI tools like Claude and ChatGPT daily, and be opinionated around how AI is reshaping the modern data stack, from AI pipelines to agents that use data tools directly.
-- added: Send a resume and a short note about a recent piece of PMM work you are proud of (what it was, what it changed, and what you would do differently to careers@estuary.dev .
-- removed: 7+ years of B2B product marketing experience at a data infrastructure, dev tools, or modern data stack company. Experience with ETL, CDC, streaming, or data integration platforms is strongly preferred
-- removed: AI fluency: you use AI tools (Claude, ChatGPT, Perplexity, Notion AI, etc.) day to day to speed up research, drafting, and competitive work.
-- removed: Send a resume and a short note about a recent piece of PMM work you are proud of (what it was, what it changed, and what you would do differently) to careers@estuary.dev .
-
-## [Etsy](https://careers.etsy.com/)
-
-- added: Senior Business Operations & Program Manager (Customer Support)
-- added: MSTS Enablement
-- removed: Product Manager
+- added: Ahead
+- added: Visits created on cadence
+- added: AutoPay
+- added: Contracts bill themselves
+- added: Alerts
+- added: When a visit slips
+- added: Worked example
+- added: How preventive maintenance contracts schedule themselves
+- added: A contractor has quarterly HVAC maintenance across dozens of commercial sites and an annual plan for homeowners. Here is how a year of visits is created, booked, done and billed.
+- added: The contract sets the cadence
+- added: Riverside Plaza is on a Gold agreement: quarterly HVAC PPM, a four-hour response time and included filter changes. The agreement holds the sites, the units and the terms.
+- added: Visits are created ahead
+- added: The year's visits are generated with their dates and slotted into existing capacity, assigned to the technician or crew who usually covers the site.
+- added: A visit slips, and someone is told
+- added: A Q4 visit at Harbour Point is three days overdue. A rule watching every cadence alerts the office, and the visit is rebooked with the cadence kept.
+- removed: +32%
+- removed: Contract attach rate
+- removed: 60%
+- removed: Revenue recurring
+- removed: Zero
 
 ## [Forem](https://dev.to/t/career)
 
-- added: 136 reactions
-- added: 53 comments
-- added: 161 reactions
-- added: 91 comments
-- added: We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.
-- added: Poll reveals hidden job market struggles
-- added: xulingfeng
-- added: 100 reactions
-- added: 68 comments
-- added: 12 min read
-- added: Standing Out in Tech Is the Wrong Goal. Being Findable Is.
-- added: Nov 12
-- added: Why Good Engineers Don't Get Promoted (and the Formula That Fixes It)
-- added: Promo Ready
-- added: 1 comment
-- removed: 133 reactions
-- removed: 72 comments
-- removed: 99 reactions
-- removed: 38 comments
-- removed: Kent C. Dodds Hasn't Looked at His Code All Year
+- added: 142 reactions
+- added: 56 comments
+- added: 164 reactions
+- added: 96 comments
+- added: 102 reactions
+- added: 81 comments
+- added: A Day in the Life of Someone Who Just Wanted to Open LinkedIn in Peace
+- added: Shruti Shahi
+- added: for Necoz
+- added: # socialmedia
+- added: 14 reactions
+- added: 2 comments
+- added: Small Teams, Giant Leverage: How 5-Person IT Shops Are Out-Shipping Enterprise Divisions
+- added: Debashish Ghosal
+- added: How DevFests helped me shape my career?
+- removed: 136 reactions
+- removed: 53 comments
+- removed: 161 reactions
+- removed: 91 comments
+- removed: 100 reactions
 
-## [Golpo](https://video.golpoai.com/careers)
+## [General Aviation Company](https://www.generalaviation.com/careers)
 
-- added: Remote
-- added: Global team
-- added: Remote · Global sales Full-time
-- added: Sales Lead – [Your Name]
-- added: Remote · Global growth Full-time
-- added: Growth Marketing Lead – [Your Name]
-- removed: India
-- removed: Remote team
-- removed: India · Remote · Global sales Full-time
-- removed: Sales Lead – India – [Your Name]
-- removed: India · Remote · Global growth Full-time
+- added: Join the team
+- added: Lead mechanical design for our remote tower and controller station: overall configuration, enclosures and site-specific considerations.
+- added: Apply — Mechanical Engineer
+- added: Build core software systems for our remote tower (C++/ Python) and controller station. Elixir knowledge preferred but not required.
+- added: Apply — Software Engineer
+- added: Email us at jobs@generalaviation.com with a resume and a description of something you’ve built that you’re proud of.
+- removed: General Aviation
+- removed: Careers
+- removed: Email us at jobs@generalaviation.com with a resume and a description of something you've built that you're proud of.
+- removed: Open roles
+- removed: Lead mechanical design for our remote tower and controller station (overall configuration, enclosures, and site-specific considerations).
 
-## [Guesty](https://www.guesty.com/careers/)
+## [Groove HQ](https://helply.com/about#hiring)
 
-- added: Business Program Manager
-- added: Australia
-- removed: Professional Services Project Manager
+- added: That's why every plan includes the Assist and Support Agents.
+- added: We price plans by human agents, the people on your team who reply to customers, with AI credits pooled across your workspace.
+- added: Bring your history over from Zendesk, Intercom, Freshdesk, Help Scout, Front, or Groove. Team and up include free migration, with white-glove migration on Pro and Growth. Every plan connects your know
+- added: Starter is $99 a month billed yearly for up to 2 human agents. Plus, Team, Pro and Growth are $199, $499, $999 and $1,999 a month, with agents and AI credits included. See current pricing.
+- added: Month-to-month or yearly; paying yearly saves 15%. 14-day free trial with no card.
+- added: Helply plans start at $99 a month billed yearly (Starter, up to 2 human agents and 2,500 AI credits). Plus is $199 for up to 5 agents, Team $499 for 10, Pro $999 for 25 and Growth $1,999 for 50, each 
+- removed: That's why every plan from Team up includes unlimited view-only seats.
+- removed: Bring in Product, Engineering, Customer Success, and leadership to read conversations and leave notes, with AI credits pooled across your workspace.
+- removed: Bring your history over from Zendesk, Intercom, Freshdesk, Help Scout, Front, or Groove. Enterprise plans include dedicated migration, and every plan connects your knowledge, customer data, and tools 
+- removed: Starter is $79 a seat a month for up to 3 seats. Team, Pro and Growth are $499, $999 and $1,999 a month, with seats and AI credits included. See current pricing.
+- removed: Month-to-month; Enterprise is billed annually. 14-day free trial with no card.
 
-## [Humane Genomics](https://humanegenomics.com/jobs.php)
+## [Hub](https://standout.work/careers/hub)
 
-- added: This is a key leadership role that will make major contributions to the company and position it for future success. You will report directly to the CEO and work closely with our Chief Science Officer.
-- added: Research Associate PD
-- added: The Research Associate will support the design, execution, scale-up, and tech transfer of upstream and downstream bioprocesses for our oncolytic virus pipeline. Operating in an agile, early-stage star
+- added: Backed by YC (Spring 26) Hub Labs→ Become an operator→ Deploy with Hub→
+- added: Born just in time to solve embodied AGI.
+- added: We reach real workplaces, record how people do the work, train the operators who run robots, and put robots to work, fast. Join the small team building deployment velocity for physical AI.
+- added: View open roles
+- added: Meet Hub
+- added: Hub Deploy / Hub Labs
+- added: Data, operators and robots, in the real world.
+- added: Robot foundation models learn physical behavior from human demonstration, and real-world data is the bottleneck. Through Hub Deploy, we provide that data to AI and robotics companies, drawing on 7,300
+- added: Hub Labs studies which data, and which deployments, make robots learn fastest. We run collection, processing, QA and annotation in-house, on platforms we build ourselves. We are backed by Y Combinator
+- added: 7,300+
+- added: Verified commercial sites
+- added: 860K+
+- added: KYC'd unique operators
+- added: 680+
+- added: Catalogued tasks
+- removed: Careers at Hub
+- removed: Build the real-world data behind embodied AI.
+- removed: Robot foundation models learn physical behavior from human demonstration, and real-world data is the bottleneck. Join a small team working directly with the founders to remove it.
+- removed: View open roles →
+- removed: Email us →
+
+## [Kake](https://kake.co/jobs)
+
+- added: Senior Data Analyst
+- added: Power BI Snowflake SQL Python DAX Microsoft Fabric ETL Azure Synapse
+- removed: QA Engineer
+- removed: QA Automation Manual QA accessibility
 
 ## [Kaufland e-commerce](https://kaufland-ecommerce.com/en/careers/)
 
-- added: Engineering Manager | Mobile Engineering
-- added: JOB OFFERS: 17
-- removed: JOB OFFERS: 16
-- removed: 3 open jobs
-
-## [Leena AI](https://leena.ai/careers)
-
-- added: Webinar Live on Nov 19: The AI Is Ready. Your Company Isn’t. What’s the First Thing to Fix?
-- added: 00 Days
-- added: 00 Hrs
-- added: 00 Min
-- added: 00 Sec
-- added: Save my seat
-- added: Live on Nov 19: The AI Is Ready. Your Company Isn’t. What’s the First Thing to Fix?
-- removed: Playbook How CHRISTUS Health drove AI adoption across 51,000 employees Download now
-- removed: How CHRISTUS Health drove AI adoption across 51,000 employees Download now
-
-## [Lexi](https://www.getlexi.io/careers)
-
-- added: Join Us
-- added: We're building the operating system for legal work. Join us to solve hard problems at the intersection of AI, law,
-- added: and product, and shape how an entire profession works.
-- added: See open roles
-- added: A consequential problem.
-- added: A new set of possibilities.
-- added: Legal work is complex and high-stakes, but AI can transform how it gets done. At Lexi, we’re rethinking legal workflows to solve meaningful problems and shape the future of legal work.
-- added: How we work
-- added: High standards. Clear ownership.
-- added: Think clearly.
-- added: Get to the heart of difficult problems. Question assumptions, seek evidence, and make the complex understandable.
-- added: Move with intent.
-- added: Make thoughtful decisions, act on what you learn, and keep progress moving without compromising quality.
-- added: Raise the standard.
-- added: Care about the details, welcome direct feedback, and keep improving the quality of the work.
-- removed: CAREERS
-- removed: Revolutionising how legal work gets done.
-- removed: AI legal associates are inevitable. We're building the company that defines what that looks like.
-- removed: WHY NOW
-- removed: A shift that happens once.
+- added: Senior Product Designer
+- added: JOB OFFERS: 18
+- added: 5 open jobs
+- removed: (Junior) Tech Recruiter | (für ein Jahr befristet)
+- removed: JOB OFFERS: 17
 
 ## [Luxoft](https://career.luxoft.com/)
 
-- added: Senior Business Analyst – Trade Regulatory Reporting
-- added: Business Analysis
-- added: Murex Production Support (Market Risk +EOD)
-- added: Riyadh, Saudi Arabia
-- added: Murex ERM
-- added: Automotive Test Rig & Vehicle Integration Engineer
-- added: Gothenburg, Sweden
-- added: Manual Testing
-- removed: Calypso Business Analyst - Back Office
-- removed: Singapore, Singapore
-- removed: Calypso
-- removed: Python Developer with MongoDB
-- removed: Python
+- added: Delivery Manager with Business Analyst Experience
+- added: Singapore, Singapore
+- added: Delivery Project Management
+- added: Remote India, India
+- removed: Senior Business Analyst – Trade Regulatory Reporting
+- removed: Gurugram, India
+- removed: Business Analysis
+- removed: Murex Production Support (Market Risk +EOD)
+- removed: Riyadh, Saudi Arabia
 
-## [MindFort](https://www.mindfort.ai/careers)
+## [MailerLite](https://www.mailerlite.com/jobs)
 
-- added: Join the security experts and AI researchers building swarms that test live software. We are backed by Y Combinator and top investors.
-- added: View Open Roles
-- added: Why MindFort
-- added: Mission-driven
-- added: We are solving a real problem: making enterprise-grade security available to every company.
-- added: Early stage
-- added: Join at the ground floor. Your work will shape the product and the company.
-- added: World-class team
-- added: Work with security engineers and AI researchers from top companies and institutions.
-- added: Put your security on autopilot.
-- added: Book a Demo Sign In
-- removed: Join a team of security experts and AI researchers building a platform for deploying AI agents against live applications. We're backed by Y Combinator and top investors.
-- removed: View Open Roles →
-- removed: Join us in building something meaningful
-- removed: Mission-Driven
-- removed: We’re solving a real problem — making enterprise-grade security accessible to every company.
+- added: Senior Technical Recruiter
 
 ## [Muzz](https://muzz.com/us/en/careers/)
 
-- added: Currently hiring 13 roles in engineering & marketing
-- added: Platform / DevOps Engineer
-- added: £45,000 - £75,000 + equity
-- removed: Currently hiring 12 roles in engineering & marketing
+- added: Currently hiring 14 roles in engineering & marketing
+- added: Jamaa Growth Marketer
+- added: Fixed-term contract - 12 months
+- added: £45,000 - £65,000
+- removed: Currently hiring 13 roles in engineering & marketing
 
-## [Nextcloud](https://nextcloud.com/jobs/)
+## [Odoo](https://www.odoo.com/jobs)
 
-- added: We’re looking for an engineer who has built Nextcloud apps to join our Developer Relations team and help grow the Nextcloud app ecosystem!
-- added: Growing the number of apps in the Nextcloud App Store.
-- added: Creating and improving educational materials for app developers (tutorials, courses, documentation).
-- added: Reviewing apps from commercial app development partners and supporting them.
-- added: Onboarding commercial app development partners to ensure a successful product offering and customer support.
-- added: Representing Nextcloud by giving talks and workshops at open-source conferences around the world. Regular travel is required.
-- added: Testing and reviewing community apps for release highlights.
-- added: Contributing to technical customer support as part of the Engineering department.
-- added: Proven experience developing Nextcloud apps (add a link to your code in your application).
-- added: Technical experience with PHP or Python (both is a plus).
-- added: The following experience is a plus: a bit of HTML, CSS, JavaScript, one or more frontend frameworks such as VueJS, React, Angular, or Svelte, and understanding of containerization (Docker).
-- added: Strong written and spoken English; comfortable teaching, presenting and writing documentation.
-- added: Experience with public speaking (if available, add links to recordings of your talks in your application).
-- added: Knowledge about open source technology and communities (experience in Developer Relations or a track record of contributing to other open source projects is a plus).
-- added: Ability to prioritise and work effectively within time constraints.
-
-## [Onshore](https://careers.kula.ai/onshore)
-
-- added: Finance Associate
-- added: Finance • New York, United States • Full time • On-Site
+- added: All Countries 185
+- added: United Arab Emirates 15
+- added: 185
+- added: Partner Account Executive, Dutch
+- added: Sales / Partnership Recruitment
+- added: Develop, grow, and maintain our network of implementation partners in North America!
+- removed: All Countries 186
+- removed: United Arab Emirates 16
+- removed: 186
+- removed: Customer Success Manager, Direct
 
 ## [ownCloud](https://owncloud.com/career/)
 
-- added: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1794398148 uolcn 1794398148 wo@kr 1794398148 
-- added: Please send us your application via e-mail to moc.d 1794398148 uolcn 1794398148 wo@kr 1794398148 ow 1794398148 – We will get back to you as soon as possible.
-- removed: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1794308768 uolcn 1794308768 wo@kr 1794308768 
-- removed: Please send us your application via e-mail to moc.d 1794308768 uolcn 1794308768 wo@kr 1794308768 ow 1794308768 – We will get back to you as soon as possible.
-
-## [Plutto](https://getplutto.com/nosotros/vacantes/)
-
-- added: ⭐ Customer Success Engineer
-- added: Customer Success
-- added: Ser el puente entre Plutto y sus clientes, asegurando que obtengan el máximo valor de la plataforma y mantengan una relación sólida y duradera. Combina soporte, capacitación y visión comercial, apoyán
-
-## [ProcIndex](https://procindex.com/careers)
-
-- added: How we work
-- added: You work with the founders and own a problem from the first customer call to production. The team is small, so what you ship is in front of customers the same week.
-- added: Applications go through our Work at a Startup listing. The founders read every one.
-- added: Go-to-Market San Francisco, CA Full-time, on-site
-- added: $70K to $150K base plus OTE
-- added: US work authorization required
-- added: Our first sales hire. You build the pipeline from scratch. There is no region cap, no inbound queue, and no playbook. You own the outbound cycle from prospecting through demos and hand qualified disco
-- added: Run discovery calls with CFOs, controllers, and AP managers to learn where their close and payables work gets stuck
-- added: Two to four years of B2B outbound to mid-market or enterprise, fluent in AP, AR, ERP, and month-end close
-- added: Based in San Francisco. You set your own week and are measured on qualified meetings booked
-- added: ₹15 to 20 LPA
-- added: Prior backend experience required
-- added: A backend role working directly with the founders. You ship fast, solve real customer problems, and build the AI agent workflows behind invoices, approvals, matching, and reconciliation. The work is n
-- added: Strong TypeScript and Node.js, PostgreSQL, async workflows, and queues
-- added: You scope and ship your own work, often from a one-line customer problem rather than a written spec
-- removed: Why work here
-- removed: Ownership over tickets
-- removed: Everyone here works directly with the founders and owns real problems end to end. No handoffs, no waiting for a playbook.
-- removed: Ship fast, close to customers
-- removed: We build with early customers in the loop and get real accounting workflows into production, not demos.
+- added: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1794488632 uolcn 1794488632 wo@kr 1794488632 
+- added: Please send us your application via e-mail to moc.d 1794488632 uolcn 1794488632 wo@kr 1794488632 ow 1794488632 – We will get back to you as soon as possible.
+- removed: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1794398148 uolcn 1794398148 wo@kr 1794398148 
+- removed: Please send us your application via e-mail to moc.d 1794398148 uolcn 1794398148 wo@kr 1794398148 ow 1794398148 – We will get back to you as soon as possible.
 
 ## [pyannoteAI](https://www.pyannote.ai/)
 
-- added: Apply now
-- added: M a k e s e v e r y c o n v e r s a t i o n u n d e r s t a n d a b l e
-- added: Up to 52% lower transcription error
-- added: 1B+ open-source downloads
-- added: 375k+ developers
-- added: 00:04-00:08
-- added: Happy
-- added: 00:13-00:15
-- added: Confident
-- added: 00:25-00:31
-- added: Enthusiasm
-- added: Speaker 1
-- added: Mark
-- added: 00:07-00:12
-- added: Worried
-- removed: Precision-3
-- removed: Try it now!
-- removed: No credit card required
-- removed: Choose a sample audio
-- removed: Or upload your audio
+- added: Precision-3
+- added: Try it now!
+- added: No credit card required
+- added: Choose a sample audio
+- added: Or upload your audio
+- added: Choose file
+- added: MP3, WAV, M4A, MP4, or OGG · Up to 250 MB and 1 hour.
+- added: See when each speaker talks
+- added: Choose a sample or file, then press Run to see speaker turns.
+- added: Get Started
+- removed: Apply now
+- removed: M a k e s e v e r y c o n v e r s a t i o n u n d e r s t a n d a b l e
+- removed: Up to 52% lower transcription error
+- removed: 1B+ open-source downloads
+- removed: 375k+ developers
 
-## [Revyl](https://revyl.com/company/careers/)
+## [Pydantic](https://pydantic.dev/about)
 
-- added: Build the systems that let AI operate software
-- added: Apply now Meet Revyl
-- added: 4 open roles
-- added: San Francisco, CA
-- added: From the founding team
-- added: The hard part is understanding, operating and trusting software
-- added: Revyl is building the runtime for that next loop, where people and agents build real apps and verify every change with evidence.
-- added: We’re a small San Francisco team. We built DragonCrawl at Uber AI and are backed by Felicis, General Catalyst, and Y Combinator. Come build with us.
-- added: The Revyl Team , San Francisco, CA
-- added: We’re hiring now
-- added: Staff Infrastructure Engineer — Device Cloud Own the technical strategy and systems that scale the device cloud and distributed compute platform behind Revyl.
-- added: Team
-- added: Engineering, Infrastructure
-- added: Location
-- added: San Francisco, CA, US · Remote (US)
-- removed: Build the systems that let AI operate software.
-- removed: Apply now Meet Revyl ↗
-- removed: runtime.capture
-- removed: Code is becoming abundant. The constraint is shifting from producing software to
-- removed: understanding, operating, and trusting it.
+- added: Pydantic 29.4k
+- added: Pydantic AI 21.1k
+- added: Monty 8.9k
+- added: Logfire 4.5k
+- added: Get started with Logfire for free
+- added: Sign up today and see your first trace in under 2 minutes
+- added: 01 Install
+- added: $ uv add logfire
+- added: Resolved 7 packages in 128ms
+- added: Installed 7 packages in 89ms
+- added: + logfire
+- added: 02 Instrument
+- added: import logfire
+- added: logfire.configure()
+- added: logfire.info( 'Hello {name}' , name= 'world' )
+- removed: Pydantic 28.4k
+- removed: Pydantic AI 18.9k
+- removed: Monty 8.0k
+- removed: Logfire 4.4k
 
-## [SafeDep](https://safedep.io/)
+## [ScrapingBee](https://www.scrapingbee.com/scrapers/google-jobs-scraper-api/)
 
-- added: New Blog: wfx GitHub Actions Credential Stealer Hits 8,000 Repos
-- added: 12 Nov 2026
-- added: Malware Nov 12, 2026
-- added: wfx: GitHub Actions Credential Stealer Hits 8,000 Repos
-- added: Since November 10, 2026, an attacker has used stolen GitHub tokens to push a credential stealer into more than 8,000 repositories. It runs once in GitHub Actions or on npm install, sends secrets and c
-- added: Malware Updated Nov 11, 2026
-- removed: New Blog: Compromised bee-js and Swarm Desktop Steal Swarm Wallet Keys
-- removed: 9 Nov 2026
-- removed: Malware Nov 9, 2026
-- removed: Malware Updated Nov 9, 2026
-- removed: testmetest npm Packages Carry a Miasma-Family Worm
+- added: 54 min read
+- added: 18 Best Web Scraping Tools in 2026
+- added: The best web scraping tools in 2026: scraping APIs, AI scrapers, no-code apps and open-source libraries compared, with 8 APIs tested on the same pages.
+- added: Kevin Sahin
+- added: 10 November 2026
+- removed: 18 min read
+- removed: The Real Cost of DIY vs. Buying Scraping Infrastructure (2026)
+- removed: Compare the hidden costs of building web scraping infrastructure vs. buying a managed API. Breakdown of proxies, maintenance, headless browsers, and pricing.
+- removed: 30 October 2026
 
-## [Saleor](https://saleor.io/)
+## [SeaweedFS](https://seaweedfs.com/careers)
 
-- added: 435,473
-- added: 856,507
-- added: 23.6k
-- added: 2 days ago 3.23.48
-- added: 9 days ago 3.22.77
-- added: 3.23.48 2 days ago
-- added: 3.22.77 9 days ago
-- removed: 465,288
-- removed: 842,568
-- removed: 23.5k
-- removed: 21 hours ago 3.23.48
-- removed: 8 days ago 3.22.77
+- added: SeaweedFS Enterprise
+- added: One cluster.
+- added: Objects, tables,
+- added: vectors, and files.
+- added: Fast distributed storage, with the protection and control your production data needs.
+- added: Serve S3 objects, Iceberg tables, vector search, and POSIX workloads from the same engine. Add recovery, storage efficiency, and operational tools to the open-source core.
+- added: Get started Explore Enterprise
+- added: Free for development and testing under 25TB.
+- added: One storage platform
+- added: 01 S3 Objects
+- added: 02 Iceberg Tables
+- added: 03 Vectors Embeddings
+- added: 04 POSIX Files
+- added: SeaweedFS One distributed storage engine
+- added: Metadata Namespace & catalog
+- removed: Store billions of files, and serve them fast!
+- removed: Fast, simple, scalable storage
+- removed: that protects your data
+- removed: SeaweedFS Enterprise adds recovery from human mistakes, cost-saving erasure
+- removed: coding, and priority support to the open-source distributed store you already
 
-## [Shardeum](https://shardeum.org/)
+## [Snowplow](https://snowplow.io/careers)
 
-- added: Shardeum Mainnet v1.2.0 Upgrade in Progress
-- added: October 27, 2026
-- added: BlockFirms
-- added: From Consumer to Creator: The Missing Step in India’s [...]
-- added: In this opinion piece, Nischal Shetty explains why India's global leadership in crypto adoption has yet to translate into widespread on-chain...
-- added: October 5, 2026
-- added: RWAs Won’t Go Mainstream Until They Feel Like Crypto
-- added: Tokenized real-world assets have surpassed $30 billion, drawing BlackRock, JPMorgan and Franklin Templeton. But access, liquidity and usability remain major...
-- added: November 11, 2026
-- added: Announcements
-- added: Shardeum Mainnet v1.2.0 Upgrade: Cosmos EVM Security Fixes
-- added: Get details on the upgrade schedule, governance voting, and validator requirements as Shardeum mainnet v1.2.0 introduces Cosmos EVM v0.6.4 security...
-- added: Shardeum Developer Relations Team
-- added: OCC Shardeum News
-- added: Shardeum Monthly Marketing Report – October 2026
-- removed: November 5, 2026
-- removed: Sikka.fun Trading Contest 42 is Live – 24 Hr. [...]
-- removed: Trading Contest 42 is live on Sikka.fun. Trade and compete for a share of the 2.5 Million SHM reward pool. Rewards are available to the Top 10...
-- removed: November 3, 2026
-- removed: Sikka.fun Trading Contest 41 is Live
+- added: Applied AI Engineer, Applied AI CTO Office Massachusetts, United States · Remote
+- added: Senior Sales Engineer Customer Success Management United Kingdom · Hybrid
+- removed: Applied AI Engineer CTO Office Massachusetts, United States · Remote
+- removed: Sales Engineer Customer Success Management United Kingdom · Hybrid
+- removed: Growth Associate Marketing Massachusetts, United States · Hybrid
+- removed: Senior Account Manager Sales New York, United States · Remote
 
-## [Spline](https://spline.design/)
+## [superglue](https://superglue.ai/careers/)
 
-- added: The 3D design tool for
-- added: your team and agents
-- added: Free, in your browser. Create interactive 3D for your websites and apps with AI.
-- added: Everything you need for 3D design
-- added: Or ask an agent, in the editor or over MCP . See everything in the 3D editor .
-- removed: Your team and agents ,
-- removed: building and shipping in 3D
-- removed: Create interactive 3D for your websites and apps with AI.
-- removed: Everything you need to build in 3D
-- removed: Or ask an agent, in the editor or over MCP .
+- added: Founding Account Executive Sales · US (remote) or Munich · Full-time
+- added: Founding Forward Deployed Engineer Deployment · US (remote) or Munich · Full-time
 
 ## [Swadesi Way](https://swadesiway.com/explore)
 
-- added: Showing 1–12 of 123 results
-- added: ₹ 330.00
-- added: Shop
-- added: Chat
-- added: Cart
-- added: YOUR CART
-- added: No products in the cart.
-- added: Subtotal:
-- added: ₹ 0.00
-- added: CHECKOUT
-- added: BEST SELLING PRODUCTS
-- removed: Showing 1–12 of 145 results
-- removed: Fresh Fruits (Delhi NCR)
-- removed: Organic Guava (Fresh Taiwan Pink variety) (Skin has Spots)
-- removed: Price range: ₹100.00 through ₹300.00
-- removed: Organic Guava (Fresh Taiwan Pink variety) (Skin has Spots) quantity
+- added: Showing 1–12 of 142 results
+- added: Organic Orange
+- added: Price range: ₹130.00 through ₹280.00
+- added: Organic Orange quantity
+- added: Organic Desi Amla
+- added: Organic Desi Amla quantity
+- added: Organic Lehsun/Garlic
+- added: ₹ 40.00
+- added: Organic Lehsun/Garlic quantity
+- added: Organic Desi Coriander (Dhaniya)
+- added: ₹ 30.00
+- added: Organic Desi Coriander (Dhaniya) quantity
+- added: Desi Spinach (Palak) (with little holes & spots)
+- added: Price range: ₹35.00 through ₹60.00
+- added: Desi Spinach (Palak) (with little holes & spots) quantity
+- removed: Showing 1–12 of 123 results
+- removed: ₹ 330.00
+- removed: Diwali Collection
+- removed: Diwali Noor Candles (Set of 2)
+- removed: ₹ 950.00
+
+## [Tractian](https://careers.tractian.com/)
+
+- added: 103 result(s)
+- added: Senior GTM Enablement Lead
+- removed: 101 result(s)
+
+## [TrustGraph](https://trustgraph.ai/careers)
+
+- added: NEW TrustGraph 2.10: SHACL-AF policy filtering for every graph query Read the changelog →
+- added: Open-source ontology runtime
+- added: Your ontology. Your agents. Your rules.
+- added: The open-source ontology runtime for AI agents. Turn all your data, from documents and structured records to images, into ontology-grounded knowledge, and govern what every agent can see, on W3C stand
+- added: Quickstart Star on GitHub
+- added: Or try it in the hosted Playground
+- added: RDF
+- added: SHACL-AF
+- added: SPARQL 1.1
+- added: MCP
+- added: TrustGraph pipeline: an ontology file and a contract PDF feed three stages. 1, Extract: triples such as Supplier hasContract C-104 that match the ontology. 2, Ground: each fact is linked with prov:was
+- added: 01 The problem
+- added: Every platform now sells you an ontology.
+- added: In 2026 Palantir, Microsoft, Databricks and Snowflake all launched ontologies. Each one lives inside its own platform: built on a vendor object model, fed mostly from that vendor's tables, and governe
+- added: Platform ontology
+- removed: NEW Determinism is All You Need for AI Agents Watch the Video →
+- removed: The AI Governance Platform
+- removed: Business meaning in the graph. Business authority in the runtime.
+- removed: TrustGraph captures what your business means and governs what your AI agents do , so every automated decision is grounded, enforced, provable and most importantly defensible .
+- removed: 01 · context graph
 
 ## [Tyk](https://tyk.io/tyk-current-vacancies/)
 
-- added: Developer Relations Advocate
-- removed: Customer Success Engineer Pod Lead (AMER)
-- removed: Growth Marketing Manager
-- removed: Principal Support Engineer
-- removed: Junior Developer Relations Advocate
+- added: Freelance Visual Designer
+- added: Senior Customer Success Engineer – EMEA
+- added: Senior Customer Success Engineer – AMER
 
 ## [Unsiloed AI](https://www.unsiloed.ai/careers)
 
-- added: ▚▙▞▟▙▒▟▟ ▓▞▓░▓▚ ▚▚▒▓░▞▚▚
-- added: ▙▙▚█▞▒▒░▚ ▚▟█ ▟▒▟░░░
-- added: ▒█▟▚▟▞▟ ▒▞▟▞█░█▓▞▒▒▓░
-- added: ▞▚▟▓▟▒▚ ▚
-- added: ▒▚█▞▒▚ ▒▟░█ ▟█▒▚ ▞▓█ ▚░▓ █▚▒▚ ▞▙█▙▙▚▙▟
-- added: ▙▙▒▓█▒ ▚▒▞▞ █▞▟█ ░▙░ ▞█▓ ▒▙▞▒ ▞▟▞▞▞▒░▚
-- added: ▓░▚▚▒▓ ░▓▓█ ▙▓▒▓ ▟▚▞ █▚▓ ▟█▒░ ▞█▙▓██░
-- added: ░▓▞▚▞▒ ▙░▟▒ ▒▓▟▞ ▚░▓ ▞▙▚ ▙▟▙▚ ▚▒▓▓▚█▟
-- added: ▒▚▟█▙▚ ░▒░▟ █▚▟▞ ▙▟█ ▓█░ ▓▒▙▙ ▙▞▙▟▟▒▚▚
-- added: ▓▞▒▟▚▓ ▙▙▚░ ██░█ ▒░▓ ▙▟▙ ▚▙▒▒ ▒▙▚▙▒▚░█
-- added: ▞░▚░▓▞ ██▒░ ▞░█░ ▓▚▓ █▚░ ▙▒██ ▚▞▒░▙
-- added: ▟▟█▟▙▚░█▙▒ ▚
-- added: ▟▙▚▚▒▓█ ▞▓▟░▚░ ▚░▒▒▟▒ ▟▓▞▒▒
-- added: ▓▓▓█▟▟ ▓▓▙█▞█ ▙▞▓█
-- removed: ▒░▓▒█▒▓▟ ▒░▞█▚▙ ▟█▟▙▟▙▒▟
-- removed: ▙░░▞░█▟▚▚ ▟█▚ ▞▙█▓▙▓
-- removed: ▚▒▟▙▓█░ ▓▒▞▚▒░█▓█▙▟▚█
-- removed: ░▞▓▟▚▒░ ░
-- removed: ▙▚▒▓█░ ▙▓▚▒ ▙▞█▚ █▞▓ ██▙ ░▞▓▙ ▒░▞█▓▞▞▒
+- added: █▚▓▟█▟▓▒ ░░▓▚▒░ ▚▓▞▟▞▚▞▟
+- added: ▞▙▟█▙░▚░█ ▙▞▟ ▞▚▟▒▙▚
+- added: ▚░▞▒▚░▞ ▚▓▓▓█▚▞▟▙▓▓▞░
+- added: ▟█▙▚▓▟▒ ▚
+- added: ▞▚█▓░▚ ▚█▞▓ ▚▙█▞ ▙░▞ ▙▙▞ ░█░░ ▞▚▟▓▞▙░▟
+- added: ▚▞▞▒▙▚ ░░▓█ ▙▚▟▞ ▟▞▓ ▚▞▚ ▟█▚█ ▞▙▞▚▞▓▓░
+- added: ▚░██▓█ ▟▙▙▚ ▞▞▒▒ ▙▓▙ ▟▞▒ ▙▙▒▓ ▞▒▞▚▞▟▚
+- added: █▓█▓█▒ ▓▙█░ ▟▟▞▙ ░▓▟ ▒█▟ ▓░▓▞ ░▓░▓▞▞▙
+- added: ▞▚▒▞▙▚ ▓░█▙ ▞▒▚▒ ▟▞▓ ▓▙░ ░▙▞▞ ▞▒█▚▓▟▞▞
+- added: ▙▟░▓▙▞ ▚▒░▒ ▟▚░▟ ▙▞▓ ▞▙▞ ▞█▓▟ ▓▒▓▓▟▙█▞
+- added: ▒▚▟░▓▞ ░▒█▚ ▟▙██ ▙▓▒ ░▓▙ ▙▙░▚ ▚▙█▓▞
+- added: ▒█▒█░▒▓▞▟▟ ▚
+- added: ▚░▙▓▙░█ ▒▒█▒▚▓ ░▙▚░░▓ ▙▒▞▟▞
+- added: ▚▒▟▞█▒ ▚▓▟▒░█ ▒▓██
+- removed: ▚▙▞▟▙▒▟▟ ▓▞▓░▓▚ ▚▚▒▓░▞▚▚
+- removed: ▙▙▚█▞▒▒░▚ ▚▟█ ▟▒▟░░░
+- removed: ▒█▟▚▟▞▟ ▒▞▟▞█░█▓▞▒▒▓░
+- removed: ▞▚▟▓▟▒▚ ▚
+- removed: ▒▚█▞▒▚ ▒▟░█ ▟█▒▚ ▞▓█ ▚░▓ █▚▒▚ ▞▙█▙▙▚▙▟
 
 ## [Upworthy](https://www.upworthy.com/jobs-that-pay-well-people-dont-realize/)
 
-- added: In Partnership With Operation Smile →
-- added: An Operation Smile volunteer reverses an oxygen mask so a child with a cleft condition can blow a bubble for the first time in Guadalajara, Mexico. (Operation Smile Photos)
-- added: Family , Science
-- added: How Bubbles Help Kids with Cleft Conditions
-- added: For thousands of children born with cleft conditions, Operation Smile provides simple, playful tools—like bubbles—to strengthen the skills they need to speak and thrive.
-- added: Sarah Watts
-- added: 5/11/2026
-- added: While a bottle of bubbles might seem out of place in a hospital setting, you might be surprised to learn that, for thousands of children around the world born with cleft lip and palate, they can be a 
-- added: As a toddler, Lilia underwent two surgeries to treat cleft lip and palate with Operation Smile’s surgical program in Puebla, Mexico. Because of Operation Smile’s comprehensive care, it wasn’t long bef
-- added: Lilia is now a healthy five-year-old, with the same cheerful attitude and boundless energy. Her progress is the result of care at every level, from surgery to speech therapy to ongoing support at home
-- added: Lilia at age 1, before surgery, and at age 5, 4 years post-surgery
-- added: Cleft Conditions: A Global Problem
-- added: Since 1982, Operation Smile has provided cleft lip and cleft palate surgeries to more than 500,000 patients worldwide with the help of generous volunteers and donors. Cleft conditions are congenital c
-- added: Surgery is a vital step in treating cleft conditions, but it’s also just one part of a much larger solution. Organizations like Operation Smile emphasize the importance of multi-disciplinary teams tha
-- added: Marie, 11 months, with her mother at Operation Smile Madagascar before her cleft surgery (Operation Smile Photos)
-- removed: Watch on
-- removed: Art prodigy sold $7 million worth of paintings before she was even 14-years-old
-- removed: A man found a strange egg and incubated it. 28 days later, it hatched and changed his life.
-- removed: Nature
-- removed: Wildlife researchers discover tigers doing something we previously thought went against their very nature
+- added: Watch on
+- added: Actor Kaia Gerber shares 11 books on grief helping her heal after brother’s passing
+- added: Experts explain 3 ways to apply ‘Hanlon’s Razor’ in everyday life. It might be a game-changer.
+- added: Making Sense of Science
+- added: Archaeologists cracked the code on a 400-year-old lock found in Ann Francis shipwreck
+- added: Archaeology student found a lost Maya city on page 16 of a Google search
+- added: Identity
+- added: Psychologist explains 7 personality traits of people who walk fast
+- added: The classic ‘two envelope problem’ riddle pits math against psychology
+- added: Evan Porter
+- added: A birth mother called to reject an adoption. Their answering machine greeting changed her mind.
+- added: Adam Albright-Hanna
+- added: Generations
+- added: A 1991 Wisconsin news report didn’t have high hopes for Gen X youth. We proved them wrong.
+- added: Cecily Knobler
+- removed: In Partnership With Operation Smile →
+- removed: An Operation Smile volunteer reverses an oxygen mask so a child with a cleft condition can blow a bubble for the first time in Guadalajara, Mexico. (Operation Smile Photos)
+- removed: Family , Science
+- removed: How Bubbles Help Kids with Cleft Conditions
+- removed: For thousands of children born with cleft conditions, Operation Smile provides simple, playful tools—like bubbles—to strengthen the skills they need to speak and thrive.
 
-## [Vivo](https://vivo.gupy.io/)
+## [Wyvern](https://www.wyvern.space/company/join-us)
 
-- added: 74 jobs found for 0 filters applied
-- added: Job for Full-time employee: Analista Faturamento Jr - Exclusiva para Pessoas Pretas e Pardas
-- added: Job for Full-time employee: Analista Telecom Júnior - Formato de Trabalho: Híbrido - São Paulo
-- added: Job for Talent pool: Assistente Tecnico(a) - Exclusiva para Pessoa com Deficiência - Campo Belo e Vila Mariana
-- added: Talent pool
-- removed: 77 jobs found for 0 filters applied
-- removed: Job for Full-time employee: Almoxarife | Jardim Mariliza - SP (Vaga 100% presencial)
-- removed: Job for Full-time employee: Almoxarife | Santo André - SP (Vaga 100% presencial)
-- removed: Santo André - SP
-- removed: Job for Full-time employee: Almoxarife | Santos - SP (Vaga 100% presencial)
+- added: Space Tech Testing Intern
+- added: Edmonton, AB
+- removed: Space Operations Intern
+- removed: Remote • Edmonton, AB
 
-## [Wideframe](https://try.wideframe.com/careers)
+## [Yummy Future](https://yummy-future.com/careers)
 
-- added: Tell your assistant editor what to do
-- added: Pick a job to see what comes back.
-- added: Find every time Andy talks about leaving his old job.
-- added: Searching 3 interview transcripts
-- added: Adding markers
-- added: Found 9 moments across 3 interviews
-- added: Marked in the interview sequence.
-- added: How Wideframe helps editors
-- added: Prep Premiere projects from raw footage
-- added: Drop in a shoot. Get back a Premiere project with synced cameras and organized bins, linked to your original media.
-- added: Bring in footage Organize bins Export to Premiere
-- added: Holiday shoot Project
-- added: Files interview_stringout
-- added: Holiday shoot All files
-- added: Name Kind Length Date modified
-- removed: Editors bring Wideframe the work they hate to do on every shoot.
-- removed: It works the way a good assistant editor would once you teach it your workflows. It watches all of your footage and delivers bins and edit-ready timelines linked to your original media. The creative e
-- removed: What editors do with Wideframe
-- removed: WORKFLOWS 1.0–4.0
-- removed: 1.0
+- added: Prefer email? Send your resume to hiring@yummy-future.com .
 
-## [Yassir](https://yassir.com/career/)
+## [Zeit.io](https://zeit.io/en/blog)
 
-- added: Head Of Growth -Financial Services-
-- removed: Account Executive - Marketplace
-- removed: Operations
-- removed: Johannesburg, South Africa
-
-## [You are launched](https://www.urlaunched.com/join-us)
-
-- added: Android Developer
+- added: 114 articles found
+- added: VIES VAT number check: no waiting, no gaps
+- added: ZEIT.IO re-checks every day the VAT IDs that VIES couldn't check when you saved. If one doesn't exist, the freelancer or the organisation's admins get an email – and so do clients with a running suppl
+- added: Accounting Controlling E-Invoice EN16931
+- added: Robert Reiz | November 12, 2026 - 09:34 UTC
+- removed: 113 articles found
+- removed: Import supplier contracts from CSV
+- removed: Supplier contracts can now be imported from CSV in the format of the CSV export – project contracts 1:1 included, with their project. Contracts are created as drafts, duplicates are detected. Also new
+- removed: Robert Reiz | September 29, 2026 - 05:19 UTC
 
 ## [Zidisha](https://www.zidisha.org/careers.html)
 
-- added: 309,637
-- added: $21,483,524
-- added: 463,978
-- added: 1 % raised · $622 to go
-- added: Natural products for health and beauty care
-- added: Dar Es Salaam, Tanzania
-- added: By Labi Martin Beauty
-- added: Fashion shoes kitale kenya
-- added: Kitale, Kenya
-- added: By Eliya Clothing Sales
-- added: 1 % raised · $51 to go
-- added: Website hosting, security and expansion
-- added: Eldoret, Kenya
-- added: By Edwin Online freelancing
-- added: 0 % raised · $64 to go
-- removed: 309,633
-- removed: $21,482,211
-- removed: 463,957
-- removed: 37 % raised · $236 to go
-- removed: Lilly house of beauty
-
-## [Appwrite](https://appwrite.io/company) (minor change)
-
-- removed: Just launched
-- removed: MCP1 by Appwrite is live MCP1 by Appwrite: one URL for every MCP server _
-- removed: Try MCP1
+- added: 309,644
+- added: $21,485,083
+- added: 464,002
+- added: 0 % raised · $24 to go
+- added: To expand my shop
+- added: Copper Belt, Zambia
+- added: By George Mobile Phone
+- removed: 309,637
+- removed: $21,483,524
+- removed: 463,978
+- removed: 56 % raised · $40 to go
+- removed: Procurement of a phone for my business
 
 ## [Asha Health](https://careers.asha.health/) (minor change)
 
-- added: {"message":"I am alive","env":"production","timestamp":"2026-11-12T08:52:47.156Z"}
-- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-11T08:26:32.538Z"}
+- added: {"message":"I am alive","env":"production","timestamp":"2026-11-12T21:09:10.988Z"}
+- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-12T08:52:47.156Z"}
 
 ## [Bacula Systems](https://www.baculasystems.com/company/careers/) (minor change)
 
-- added: network backup
-- added: data center backup
-- added: veeam vs zerto
-- removed: windows server backup solutions
-- removed: ransomware backup strategy
-- removed: cohesity competitors
-
-## [BigData Boutique](https://bigdataboutique.com/careers) (minor change)
-
-- added: Meet us at AWS re:Invent
-- added: See our events
-- removed: ClickHouse Monitoring & Optimization Tips
-- removed: Read More
-- removed: RAG with OpenSearch: A Crash Course for Building RAG Applications 📺
+- added: tape backup
+- added: active directory backup and recovery
+- removed: data center backup
+- removed: veeam vs zerto
 
 ## [Casco](https://casco.com/careers) (minor change)
 
-- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-126642
-- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-121885
+- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-59624
+- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-126642
+
+## [Cityfurnish](https://cityfurnish.com/pages/careers) (minor change)
+
+- added: Code UPFRONT30
+- removed: Code DIWALI30
+
+## [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/careers/current-openings/) (minor change)
+
+- added: Attorney-Advisor (General)
+- added: 51, 52, 53
+- added: 60, 71
 
 ## [DappRadar](https://dappradar.com/careers) (minor change)
 
-- added: A7A5 $0.0₂411 -65.77% H $0.0261 -20.53% AKE $0.0₂311 +18.71% RAIN $0.0₂378 -13.74% PEPE $0.0₅448 -12.75% BTW $0.9973 -12.01% HASH $0.0₂740 +8.33% INJ $7.42 -8.29% NIGHT $0.0473 +8.09% PYTH $0.063 -7.9
-- removed: A7A5 $0.0119 +191.48% H $0.0336 -22.17% PEARL $1.40 -15.73% ZEC $992.12 -13.10% BTW $1.12 +13.02% VVV $19.12 -10.44% LIT $3.44 +9.37% CPOOL $0.0258 -8.83% UNI $6.43 -8.43% HASH $0.0₂684 -7.53% QNT $17
+- added: H $0.0227 -19.17% HASH $0.0₂653 -12.01% AKE $0.0₂274 +11.63% PEARL $1.37 -10.39% STX $0.2838 -10.27% QNT $162.29 -9.01% SPX $0.3429 -7.70% GT $9.20 -7.70% UNI $6.04 -7.67% NEAR $3.43 -7.38% AAVE $114.
+- removed: A7A5 $0.0₂411 -65.77% H $0.0261 -20.53% AKE $0.0₂311 +18.71% RAIN $0.0₂378 -13.74% PEPE $0.0₅448 -12.75% BTW $0.9973 -12.01% HASH $0.0₂740 +8.33% INJ $7.42 -8.29% NIGHT $0.0473 +8.09% PYTH $0.063 -7.9
+
+## [Dexto](https://www.dexto.ai/careers) (minor change)
+
+- added: Cloud computers on credits, 5 running at a time
+- added: 20 computers at a time, 20 Loops, 10 GB of storage
+- added: 50 computers at a time, unlimited Loops, 100 GB of storage
+- removed: Cloud computers on credits, 1 running at a time
+- removed: 3 computers at a time, 20 Loops, 10 GB of storage
+- removed: 10 computers at a time, unlimited Loops, 100 GB of storage
 
 ## [Draftbit](https://draftbit.com/jobs.html) (minor change)
 
-- added: Build games in Draftbit, starting from 39 templates
-- removed: See your next screen before it's built, and ship fixes without a store review
+- added: Build web and mobile apps, websites, and games with AI agents, full visual control,
+- added: and human experts when you need them.
+- removed: Build web and mobile apps with AI agents, full visual control, and human experts when
+- removed: you need them.
 
-## [Evrone](https://evrone.com/hiring) (minor change)
+## [Gemnote](https://www.gemnote.com/careers) (minor change)
 
-- added: +49 176 24514399
-- added: Kemperplatz 1, 10785 Berlin
-- removed: +1 415 425 2526
-- removed: 44 Tehama St, San Francisco, CA 94105
+- added: Gemma
+- added: Your AI Product Assistant
+- removed: start a project
+- removed: start a project now
+- removed: Your ultimate source for the best merch, swag and packaging.
+- removed: SHOP
+- removed: Lookbook
 
-## [Fire Engine Red](https://www.carnegiehighered.com/about/careers/) (minor change)
+## [Gerencianet](https://sejaefi.gupy.io/) (minor change)
 
-- removed: Assistant Director, Paid Search
-- removed: Learn More : Assistant Director, Paid Search
-- removed: Director, Paid Search
-- removed: Learn More : Director, Paid Search
+- added: 4 jobs found for 0 filters applied
+- removed: 5 jobs found for 0 filters applied
+- removed: Job for Full-time employee: Especialista de ALM & Investimentos
 
-## [GMBapi](https://gmbapi.com/vacancies/) (minor change)
+## [groundcover](https://www.groundcover.com/careers) (minor change)
 
-- added: Explore our demo → Contact us
-- added: Contact us
-- removed: EXPLORE OUR DEMO CONTACT US
-- removed: Our Transparent Pricing
-- removed: EXPLORE PLANS
-- removed: How Our Clients Keep Winning
-- removed: SUCCESS STORIES
+- added: Going to AWS re:Invent? Join the groundcover Birthday Party at Booth #1852. Join the party
+- removed: Going to KubeCon NA? Join the groundcover Birthday Party at Booth #111. Join the party
+- removed: Start free
 
-## [Helicone](https://www.helicone.ai/) (minor change)
+## [HENRY](https://www.soyhenry.com/work-with-us) (minor change)
 
-- added: Helicone is now part of Experiential Labs . Details to come soon.
-- removed: Helicone is no longer part of Mintlify. Details to come soon.
-
-## [Hub](https://standout.work/careers/hub) (minor change)
-
-- added: 0 open roles
-- added: No open roles right now.
-- removed: 2 open roles
-- removed: Robot Learning Engineer Engineering San Francisco, CA · Toulouse, France Full-time €80K - €100K EUR 0.1% equity Senior Research Scientist, Robot Learning Engineering San Francisco, CA · Toulouse, Fran
-
-## [InfraCloud](https://www.improving.com/careers/) (minor change)
-
-- added: AI Agent Dispatcher Patterns To Survive the Model Swapping
-- added: The dispatcher pattern picks the right AI model for each task, so your agents keep working when providers change. Here is how it works, and when to use it.
-- removed: Role-Based AI Training for Employees That Drives Adoption
-- removed: Learn how to design AI training for employees around roles, practice, and measured adoption.
+- added: Instructor Especializaciones Google Cloud (B2B GCP)
 
 ## [Jcode](https://jcode.sh/careers) (minor change)
 
-- added: 2026-10-24 · 19d ago
-- added: 2026-10-22 · 21d ago
-- removed: 2026-10-24 · 18d ago
-- removed: 2026-10-22 · 20d ago
+- added: 7,592
+- removed: 9,531
 
 ## [Jinba](https://jinba.io/careers) (minor change)
 
-- added: 59°F
+- added: 46°F
+- added: 70°F
+- removed: 59°F
+- removed: 55°F
 
-## [Kairox Systems](https://www.kairoxsys.com/careers) (minor change)
+## [Kino AI](https://kino.ai/careers) (minor change)
 
-- added: Summer Internships Engineering Apply
-
-## [Karat Financial](https://www.trykarat.com/about/careers) (minor change)
-
-- removed: Risk Operations Analyst
-- removed: Review business onboarding, investigate card and payment fraud, and improve day-to-day risk operations.
-- removed: Remote (US)
-- removed: $65,000 to $90,000
+- added: Loading...
 
 ## [Langfuse](https://langfuse.com/careers) (minor change)
 
-- added: Langfuse is the most widely adopted LLM Engineering platform, used by 50,000+ companies , with 37,336 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 of the Fortune
-- removed: Langfuse is the most widely adopted LLM Engineering platform, used by 50,000+ companies , with 37,278 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 of the Fortune
+- added: Langfuse is the most widely adopted open-source LLM engineering platform , used by 50,000+ companies , with 37,360 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 o
+- added: It has the largest distribution in our space. See the public metrics .
+- removed: Langfuse is the most used open-source AI engineering platform , with the largest distribution in our space. See the public metrics .
+- removed: Langfuse is the most widely adopted LLM Engineering platform, used by 50,000+ companies , with 37,336 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 of the Fortune
 
-## [Light Anchor](https://lightanchor.ai/hiring) (minor change)
+## [Legora](https://legora.com/careers) (minor change)
 
-- added: $120,000-$180,000 ( US-based )
-- removed: $120,000-$180,000
+- added: Frequently asked questions
+- removed: FAQ
 
-## [Lucebox](https://www.lucebox.com/careers) (minor change)
+## [LifestyleRx](https://lifestylerx.io/join-our-team) (minor change)
 
-- added: The engine is Apache 2.0 and has 70+ contributors. Every benchmark goes on the blog with its setup.
-- removed: The engine is Apache 2.0 and has 65+ contributors. Every benchmark goes on the blog with its setup.
+- added: Team of 201 MDs across Canada
+- added: Our team consists of 201 specialists, family physicians, and registered dietitians, all working collaboratively to deliver the best possible care.
+- removed: Team of 200 MDs across Canada
+- removed: Our team consists of 200 specialists, family physicians, and registered dietitians, all working collaboratively to deliver the best possible care.
 
-## [Lumeria](https://lumeria.com/careers) (minor change)
+## [MindFort](https://www.mindfort.ai/careers) (minor change)
 
-- added: Black Friday Special · $ 249 $ 329 · Limited time only · 20 days left · 1 month Premium free · Ships January 2027 Black Friday Special · $ 249 $ 329 · Limited time only · 20 days left · 1 month Premiu
-- added: Black Friday Special · $ 249 $ 329 · Limited time only · 20 days left
-- removed: ★ Black Friday Special · $ 249 $ 329 · 1 month Premium free · Ships January 2027 ★ Black Friday Special · $ 249 $ 329 · 1 month Premium free · Ships January 2027 ★ Black Friday Special · $ 249 $ 329 ·
-- removed: ★ Black Friday Special · $ 249 $ 329 · Ships January 2027
+- added: Book a Demo Get Started
+- removed: Book a Demo Sign In
 
-## [Modern](https://www.getmodern.ai/automations/) (minor change)
+## [Netdata](https://www.netdata.cloud/join-us/) (minor change)
 
-- added: Encrypted in transit and at rest
-- removed: Encrypted end to end
+- added: Digital Experience Monitoring
 
-## [Modular](https://www.modular.com/company/careers) (minor change)
+## [Nextcloud](https://nextcloud.com/jobs/) (minor change)
 
-- removed: MiniMax M3.1 Flash - Day 0! Try it now ➔
+- removed: At Nextcloud we help our users achieve a safe home for all their data. Secure, under your control, and developed in an open, transparent, and trustworthy way. Our team of >170 is distributed across 30
+- removed: As we keep growing internationally, we’re looking for a Sales Operations Manager to own the quality, consistency, and continuous improvement of our sales organization’s operations, processes, and capa
+- removed: Sales & Revenue Operations: Own and administer Odoo CRM/ERP for the sales organization, ensuring data integrity, adoption, and proper configuration across pipelines, reporting, and automation; own the
+- removed: Build and maintain dashboards and reports on pipeline health, conversion rates, quota attainment, forecast accuracy, and revenue metrics (ARR, churn, win rates, etc.).
+- removed: Identify bottlenecks and inefficiencies in the sales cycle and take initiative to fix them.
 
-## [MOVEdot](https://www.movedot.ai/careers) (minor change)
+## [Nozbe](https://nozbe.com/job) (minor change)
 
-- added: Your privacy choices
-
-## [Muse Group](https://www.mu.se/vacancies) (minor change)
-
-- removed: Business Analyst
-
-## [Nadrama](https://nadrama.com/careers) (minor change)
-
-- added: GitHub Actions & Buildkite runners.
-- added: In your AWS or Google Cloud account.
-- added: Agent Sandboxes
-- removed: Ship Better Software, Faster.
-- removed: Secure Agent Automation. Zero Lock-In.
-
-## [Odoo](https://www.odoo.com/jobs) (minor change)
-
-- added: All Countries 186
-- added: Philippines 7
-- added: 186
-- removed: All Countries 189
-- removed: Philippines 10
-- removed: 189
-
-## [Ollie Order](https://ollieorder.com/) (minor change)
-
-- added: Most reviewed craft beverage management software and ERP as of November 12, 2026
-- removed: Most reviewed craft beverage management software and ERP as of November 11, 2026
+- added: Currently we don’t have any open positions.
+- removed: Interested? Contact us!
+- removed: If you’re interested in working with us, please email your CV and cover letter in English to careers@nozbe.com
+- removed: We will contact only the selected candidates.
+- removed: Currently we don't have any open positions but we are always open for talented people. Feel free to drop us a line.
 
 ## [On The Go Systems](https://onthegosystems.com/jobs/) (minor change)
 
-- added: LnRiLWdyaWQsLnRiLWdyaWQ+LmJsb2NrLWVkaXRvci1pbm5lci1ibG9ja3M+LmJsb2NrLWVkaXRvci1ibG9jay1saXN0X19sYXlvdXR7ZGlzcGxheTpncmlkO2dyaWQtcm93LWdhcDoyNXB4O2dyaWQtY29sdW1uLWdhcDoyNXB4fS50Yi1ncmlkLWl0ZW17YmFja2dy
+- added: At OnTheGoSystems, we're looking for experienced professionals who take ownership of their work, think independently, and turn ideas into results.
+- added: Our products are used by hundreds of thousands of people worldwide. We value colleagues who solve problems and use AI and automation to find smarter and more effective ways of working.
+- added: You'll join an international, fully remote team where collaboration, continuous learning, and personal responsibility matter. You'll have the tools and opportunities to take initiative, improve how th
 - removed: LnRiLWdyaWQsLnRiLWdyaWQ+LmJsb2NrLWVkaXRvci1pbm5lci1ibG9ja3M+LmJsb2NrLWVkaXRvci1ibG9jay1saXN0X19sYXlvdXR7ZGlzcGxheTpncmlkO2dyaWQtcm93LWdhcDoyNXB4O2dyaWQtY29sdW1uLWdhcDoyNXB4fS50Yi1ncmlkLWl0ZW17YmFja2dy
+- removed: LnRiLWZpZWxke21hcmdpbi1ib3R0b206MC43NmVtfS50Yi1maWVsZC0tbGVmdHt0ZXh0LWFsaWduOmxlZnR9LnRiLWZpZWxkLS1jZW50ZXJ7dGV4dC1hbGlnbjpjZW50ZXJ9LnRiLWZpZWxkLS1yaWdodHt0ZXh0LWFsaWduOnJpZ2h0fS50Yi1maWVsZF9fc2t5cGVf
+- removed: LnRiLWhlYWRpbmcuaGFzLWJhY2tncm91bmR7cGFkZGluZzowfQ==
+- removed: OnTheGoSystems is looking for outstanding people to join our various teams, including WPML , the Private Translation Cloud (PTC) , the Advanced Translation Editor (ATE) , and our Systems team .
+- removed: If you have what it takes to build software that reaches millions, we want you. We’ll provide you with the opportunities, tools, and support to grow your skills and advance your career along the way.
 
-## [Port.io](https://www.port.io/careers) (minor change)
+## [Plivo](https://www.plivo.com/jobs/) (minor change)
 
-- added: 7 Offices
-- added: Located in New York, Boston, San Francisco, Austin, London, Tel Aviv & Sydney.
-- added: Top 15 startups 2026 on LinkedIn.
-- removed: 6 Offices
-- removed: Located in New York, Boston, Austin, London, Tel Aviv & Sydney.
-- removed: Top 15 startups 2024 on LinkedIn.
+- added: ~/plivo 18:26:49
+- removed: ~/plivo 12:51:02
 
 ## [Redgate Software](https://www.red-gate.com/our-company/careers/current-opportunities/) (minor change)
 
-- added: Cambridge ( 6 )
-- removed: Cambridge ( 7 )
-- removed: People
-- removed: People Partner (Tech & Product)
+- added: Cambridge ( 5 )
+- removed: Cambridge ( 6 )
+- removed: Marketing
+- removed: ABM Manager – Fixed Term Contract
 
-## [Respan](https://www.respan.ai/careers) (minor change)
+## [Saleor](https://saleor.io/) (minor change)
 
-- added: We're a 17-person team building the next generation agent infra stack. We care about craft and move fast.
-- removed: We're a 10-person team building the next generation agent infra stack. We care about craft and move fast.
+- added: 783,476
+- added: 798,138
+- removed: 435,473
+- removed: 856,507
 
-## [Spine](https://www.joinspine.ai/platform/multi-state-tax) (minor change)
+## [Shardeum](https://shardeum.org/) (minor change)
 
-- removed: New The Spine app is now live for your team Download it now
-- removed: Compliance · Multi-state
-- removed: Multi-state tax & hiring.
-- removed: All 50 states.
-- removed: Registration, withholding, filings, new hire reporting, handled across every state your team is in. Hire anywhere; we get you compliant before day one.
+- removed: Shardeum Mainnet v1.2.0 Upgrade in Progress
 
-## [Superagent](https://careers.superagent.sh/) (minor change)
+## [Spree Commerce](https://spreecommerce.org/join-us-in-new-york-city-on-june-28-29th-for-opencommerce-conf-2016/) (minor change)
 
-- added: 2026-11-11 (HEAD -> main) security graph
-- added: Explore connected security findings in the dashboard and give agents shared memory of evidence, comments, and review decisions through MCP.
-- added: 2026-11-03 import application inventory from cloudflare
-- removed: 2026-11-03 (HEAD -> main) import application inventory from cloudflare
-- removed: 2026-10-21 completed status for red-team reports
-- removed: Red-team reports automatically complete when all findings are resolved, with a status dropdown to manage review manually.
+- added: Sales Channels in Spree Commerce: Sell Everywhere From One Backend
+- removed: The Spree Commerce CLI: Get More Done With Less Busywork
+
+## [Synder](https://synder.com/careers/) (minor change)
+
+- added: Don’t see the right role yet?
+- added: Leave your CV anyway.
+- added: Join the talent pool
+
+## [Telmai](https://www.telm.ai/careers/) (minor change)
+
+- added: What The Purview Data Governance Retirement Means For Your Data Quality
+- added: Nov 12, 2026
+- removed: The Context Layer That AI Agents Need Most Is the One Enterprises Have Not Built Yet
+- removed: Apr 21, 2026
 
 ## [The Centre for Effective Altruism](https://www.effectivealtruism.org/careers) (minor change)
 
-- added: 27 subscribed today
-- removed: 108 subscribed today
-
-## [The Juggernaut](https://www.thejuggernaut.com/) (minor change)
-
-- added: Gen Z’s Ultimate Style Icon? A TV Villain from 2001.
-- added: Komolika’s huge bindis, strapless blouses, and bold makeup once signaled a “bad woman.” Now, she’s the blueprint.
-- added: Isha Banerjee
-- removed: Our parents chose them. But what happens when we’ve outgrown the gossip, grudges, and obligations?
-- removed: Sadaf Ahsan
-- removed: Politics
-- removed: ‘100 Days’: When Bollywood Dared to Scare
-
-## [Turing College](https://www.turingcollege.com/data-analytics) (minor change)
-
-- added: Living in the UK? Check UK programmes Living in Germany? Check funded programmes
-- removed: Living in the UK? Check UK programmes Living in Germany? Check Bildungsgutschein funding
+- added: 29 subscribed today
+- removed: 27 subscribed today
 
 ## [VideoLingo](https://videolingo.io/careers.html) (minor change)
 
-- added: 19207 Stars
-- removed: 19166 Stars
+- added: 19218 Stars
+- removed: 19207 Stars
 
-## [WeReno](https://wereno.com/about-us) (minor change)
+## [Vivo](https://vivo.gupy.io/) (minor change)
 
-- added: Everything $1B+ in renovations taught us, in the palm of your hand. Our $1B+ playbook, in your palm
-- removed: $1B+ in renovations taught us how to run a job. Now it’s a text away: Clickpad . Our $1B+ playbook, by text
+- added: 79 jobs found for 0 filters applied
+- added: Job for Full-time employee: Analista Gestão Vendas Jr | Campinas/SP
+- added: Campinas - SP and Hybrid
+- removed: 74 jobs found for 0 filters applied
+- removed: Job for Talent pool: Assistente Tecnico(a) - Exclusiva para Pessoa com Deficiência - Campo Belo e Vila Mariana
+- removed: São Paulo - SP
+- removed: Talent pool
 
 ## [WikiHow](https://www.wikihow.com/wikiHow:Jobs) (minor change)
 
-- added: 206
-- removed: 173
+- added: 239
+- removed: 206
+
+## [Xapo](https://www.xapobank.com/en/careers) (minor change)
+
+- added: Stack while you spend: Introducing 2% cashback in Bitcoin
+- removed: Idle or earning: where Bitcoiners keep cash while they wait to buy
 
 ## Pages failing for 3+ checks
 
@@ -849,6 +650,7 @@ Checked 2026-11-12 08:54 UTC: 1757 pages, 82 changed, 42 look like new postings.
 - icepanel.io: no readable text (JavaScript page?)
 - darsel.tech: no readable text (JavaScript page?)
 - outtalent.com: no readable text (JavaScript page?)
+- item.app: failed (HTTP 404)
 - revoy.com: no readable text (JavaScript page?)
 - aiosmedical.notion.site: no readable text (JavaScript page?)
 - gojob.com: no readable text (JavaScript page?)
@@ -916,7 +718,6 @@ Checked 2026-11-12 08:54 UTC: 1757 pages, 82 changed, 42 look like new postings.
 - cofia.ai: no readable text (JavaScript page?)
 - cohesionplatform.com: no readable text (JavaScript page?)
 - conntour.com: no readable text (JavaScript page?)
-- convictiontrade.ai: no readable text (JavaScript page?)
 - coodesh.com: no readable text (JavaScript page?)
 - corgilabs.ai: no readable text (JavaScript page?)
 - cosmic-chimps.com: no readable text (JavaScript page?)
@@ -1153,6 +954,7 @@ Checked 2026-11-12 08:54 UTC: 1757 pages, 82 changed, 42 look like new postings.
 - tradexapp.co: no readable text (JavaScript page?)
 - transastra.com: no readable text (JavaScript page?)
 - trapezehealth.com: no readable text (JavaScript page?)
+- hellotrepo.com: failed (HTTP 404)
 - triply.co: no readable text (JavaScript page?)
 - true3d.com: no readable text (JavaScript page?)
 - trynearby.com: no readable text (JavaScript page?)
@@ -1162,7 +964,6 @@ Checked 2026-11-12 08:54 UTC: 1757 pages, 82 changed, 42 look like new postings.
 - vaultpay.io: no readable text (JavaScript page?)
 - vendra.io: failed (HTTP 404)
 - venue.ink: no readable text (JavaScript page?)
-- verdictmachine.com: no readable text (JavaScript page?)
 - vespin.dev: no readable text (JavaScript page?)
 - vetrec.io: no readable text (JavaScript page?)
 - vidyard.com: no readable text (JavaScript page?)

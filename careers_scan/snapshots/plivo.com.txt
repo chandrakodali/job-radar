@@ -36,7 +36,7 @@ Don't see a role that fits?
 We're always looking for talented individuals. Reach out and tell us how you'd contribute.
 Sign up for free Talk to sales
 › no credit card › free credits › cancel anytime
-~/plivo 12:51:02
+~/plivo 18:26:49
 $ brew install plivo/tap/plivo
 plivo cli · 4 steps quickstart →
 Learn more

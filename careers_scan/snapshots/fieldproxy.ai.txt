@@ -71,12 +71,12 @@ MRR reporting
 Monthly recurring revenue, expansion, and churn tracked live.
 See it built around how your team already works.
 Get Demo
-+32%
-Contract attach rate
-60%
-Revenue recurring
-Zero
-Missed cadences
+Ahead
+Visits created on cadence
+AutoPay
+Contracts bill themselves
+Alerts
+When a visit slips
 Shaped to your trade
 Your business doesn't run like the template. Neither does Fieldproxy.
 HVAC
@@ -110,6 +110,61 @@ Makes the renewal and reminder calls on schedule, and the re-book call after a c
 Watcher Agent
 Flags the missed visit, the contract running out of included hours, and the renewal ninety days out, counted from the date on the record, not from someone's calendar.
 Explore all AI agents →
+Worked example
+How preventive maintenance contracts schedule themselves
+A contractor has quarterly HVAC maintenance across dozens of commercial sites and an annual plan for homeowners. Here is how a year of visits is created, booked, done and billed.
+The contract sets the cadence
+Riverside Plaza is on a Gold agreement: quarterly HVAC PPM, a four-hour response time and included filter changes. The agreement holds the sites, the units and the terms.
+Visits are created ahead
+The year's visits are generated with their dates and slotted into existing capacity, assigned to the technician or crew who usually covers the site.
+A visit slips, and someone is told
+A Q4 visit at Harbour Point is three days overdue. A rule watching every cadence alerts the office, and the visit is rebooked with the cadence kept.
+Billing follows the contract
+The agreement bills monthly by AutoPay. Visits beyond what is included are invoiced separately.
+Renewal is prepared
+Ninety days before the renewal date, a renewal is drafted and sent, counted from the date on the contract so it fires even if nobody opens it.
+No maintenance visit is silently dropped, and the contract shows billed to date, cost to serve and margin as the year goes on.
+Names and figures in this example are demo data.
+Screens from our demo account
+Next maintenance due on every unit
+The customer sees the plan and next visit
+What you can change, and how
+Cadences
+Weekly to annual, seasonal, or after a set number of run-hours.
+Tiers
+Platinum, Gold and Silver plans (or your own names) with different SLAs, visit counts and pricing.
+Billing
+Prepaid, per visit or a mix, with AutoPay.
+Rules
+Overdue alerts, renewal timing and warranty reminders counted from dates on the record.
+Visit forms
+Fields every visit must capture, such as serial and filter size.
+How it connects to the rest of Fieldproxy
+Asset records
+Visits are tied to the units on the contract.
+Job checklists
+Each visit carries its maintenance checklist.
+Invoices
+Agreements bill on schedule with AutoPay.
+Dispatch board
+Recurring visits fit around reactive work.
+When this is not the right fit
+If you have only a handful of repeat customers, a calendar reminder may be enough.
+Recurring visits are scheduled against your capacity; if the team is already full, the schedule will show the clash rather than hide it.
+Moving existing contracts in needs the start dates, cadence and sites for each. We do the import during setup.
+Questions
+Straight answers.
+What is preventive maintenance software for service companies?
+It holds your maintenance agreements, creates the visits on the right cadence, schedules them, records the work and bills the contract. Fieldproxy does this alongside your reactive jobs on one schedule.
+Can visits be created automatically from a contract?
+Yes. Visits are generated ahead of time from the cadence and fitted into your capacity.
+What happens when a maintenance visit is missed?
+A rule watches every cadence and alerts the office when a visit is overdue, so it can be rebooked.
+Can we run membership or care plans?
+Yes. Tiered plans with different SLAs, visit counts and pricing, billed by AutoPay, with renewals drafted ahead of time.
+Can we see if a contract is profitable?
+Yes. Each agreement shows billed to date, cost to serve and margin.
+Part of Fieldproxy's field service management software →
 Recurring revenue, without the recurring grind.
 30-minute demo on your contract base. We'll schedule a month of visits in seconds.
 Get Demo See pricing

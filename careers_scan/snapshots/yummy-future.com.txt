@@ -70,6 +70,7 @@ Design parts for 3D printing
 Set the tools, materials and processes our robots are built and serviced with
 Track down mechanical problems and fix them
 A mechanical or robotics degree. Comfortable with CAD (Fusion 360 or SolidWorks), CNC/CAM, sheet metal, and some PCB design.
+Prefer email? Send your resume to hiring@yummy-future.com .
 Open application →
 See it before
 you apply .

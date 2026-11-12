@@ -1,16 +1,11 @@
 Shop
+About Us
 Capabilities
 Products
 Software
 Industries
 Our Work
 Pricing
-start a project
-start a project now
-Your ultimate source for the best merch, swag and packaging.
-SHOP
-Lookbook
-Login
 Careers
 We’re a group of go-getters and problem-solvers, working hard to help businesses connect better with their employees, clients and customers.
 We’re a global, remote team
@@ -48,8 +43,6 @@ Learning is at the heart of our culture. We regularly invite experts to help us 
 Take a look at our current openings:
 (TEAM)
 Operations
-(1) Active roles:
-Customer Service Associate Customer Success Manager Sales Development Rep
 San Leandro, CA, Full-Time (Hourly)
 Fulfillment Specialist
 We’re looking for a reliable, detail-oriented Fulfillment Specialist to support daily warehouse operations and ensure orders are accurately prepared, packed, and shipped. This hands-on role is ideal for someone who is organized, proactive, and comfortable managing inventory, shipments, kitting projects, and multiple priorities in a fast-paced environment.
@@ -68,34 +61,5 @@ You're a good fit if you're eager and excellent work ethic appropriate for a fas
 Buying
 Project Coordinator
 You’re a good fit if you’re eager and have an excellent work ethic appropriate for a fast-paced, growing startup. High degree of accuracy, attention to detail and strong organizational skills. Good verbal and written communication skills. Ability to handle multiple projects simultaneously.
-TEAM
-Operations / Merchandising
-Active roles:
-Gift Fulfillment Specialist
-Full time role / Remote
-You’re a good fit if you’re eager and excellent work ethic appropriate for a fast-paced, growing startup. High degree of accuracy, attention to detail and strong organizational skills. Demonstrated proficiency in Microsoft Excel/Google Sheets. Good verbal and written communication skills. Ability to handle packages from small envelopes to boxes ranging up to 50 pounds
-Sales / Customer Success
-Customer Success Associate
-Brand Design
-Junior Designer
-Finance/Accounting
-Junior Accountant
-Our Company
-Services
-About Us
-Who We Are Our Work Shop Pricing Sustainability Careers Help Center Our Blog Terms & Conditions Products Directory
-Connect
-Instagram Pinterest LinkedIn
-Design Customization Packaging Distribution
-Direct Ship Swag Store Redemptions Pages E-Commerce Store Shopify Store Integration
-MERCHANDISE
-Employee Swag New Hire Kits PR & Influencer Kits Event & Conference Giveaways E-commerce Shop Merchandise
-PACKAGING
-Rigid Boxes Mailer Boxes Corrugated Shipping Boxes Box Strays & Accesories
-Tech & AI Beauty & Wellness Media & Entertainment Healthcare Finance & Legal Travel & Hospitality Fashion & Retail
-Who We Are Our Work Shop Pricing Sustanability Careers Help Center Our Blog Terms & Conditions Product Directory
-connect
-capabilities
-Direct Ship Swag Store Redemptions Pages E-Commerce Store Shopify Integration
-Our work
-Made by Gemnote 2026
+Gemma
+Your AI Product Assistant

@@ -1,6 +1,6 @@
 # Cloud, DevOps, SRE, platform and infrastructure roles (no job board)
 
-Updated 2026-11-12 08:54 UTC. **73 open roles** at 57 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
+Updated 2026-11-12 21:10 UTC. **73 open roles** at 57 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
 
 **Apply:** the ✉ link opens an email to the company's hiring address with the subject filled in; attach your résumé. Scores and notes use the radar's rules (config.yaml): higher is a better early-career fit; "location unclear" means the page didn't say, so check it. 🆕 = first seen in the last 2 days.
 
@@ -60,9 +60,9 @@ Updated 2026-11-12 08:54 UTC. **73 open roles** at 57 companies that post jobs o
 | 42 | [HPC Platform Engineer](https://meteorops.com/job/hpc-platform-engineer) 🆕 | MeteorOps | Remote | [Careers page](https://meteorops.com/job/hpc-platform-engineer) | Nov 11 | location unclear |
 | 42 | [Software Engineer, Infrastructure](https://orchid.ai/careers/software-engineer-infrastructure) 🆕 | Orchid | Remote | [✉ work@orchid.ai](mailto:work@orchid.ai?subject=Application%3A%20Software%20Engineer%2C%20Infrastructure%20%E2%80%93%20Orchid) | Nov 11 | location unclear |
 | 42 | [DevOps Engineer](https://www.outsourcingdev.com/careers/) 🆕 | OutsourcingDev | Remote | [Careers page](https://www.outsourcingdev.com/careers/) | Nov 11 | location unclear |
-| 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) 🆕 | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
 | 42 | [Cloud Full-Stack Developer](https://wazuh.com/job/full-stack-developer-cloud/) 🆕 | Wazuh | Remote | [Careers page](https://wazuh.com/job/full-stack-developer-cloud/) | Nov 11 | location unclear |
 | 42 | [Cloud Ops Engineer](https://wazuh.com/job/cloud-ops-engineer/) 🆕 | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-ops-engineer/) | Nov 11 | location unclear |
+| 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) 🆕 | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
 | 37 | [Databend Cloud Platform Engineer (Remote)](https://www.databend.com/jobs/databend-cloud-platform-engineer) 🆕 | Databend | Remote | [✉ hr@databend.com](mailto:hr@databend.com?subject=Application%3A%20Databend%20Cloud%20Platform%20Engineer%20%28Remote%29%20%E2%80%93%20Databend) | Nov 11 | 3+ yrs exp; location unclear |
 | 37 | [Cloud DevOps Engineer](https://www.ravn.com/jobs/0c0134c9-c594-4582-9df8-e652680d027c) 🆕 | Ravn | Remote | [Careers page](https://www.ravn.com/jobs/0c0134c9-c594-4582-9df8-e652680d027c) | Nov 11 | 3+ yrs exp; location unclear |
 | 35 | [Embedded Linux Engineer](https://efference.ai/careers/embedded-linux-engineer/) 🆕 | Efference | On-site | [✉ team@efference.ai](mailto:team@efference.ai?subject=Application%3A%20Embedded%20Linux%20Engineer%20%E2%80%93%20Efference) | Nov 11 | location unclear |

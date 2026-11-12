@@ -7,6 +7,9 @@ If you're unsure or don't see a specific role that fits your mold quite yet,
 we encourage you to apply regardless as we've always got things cooking!
 Loading jobs…
 Enter the skill(s) that fit your interests and background
+Senior Data Analyst
+Timezone: GMT-5
+Power BI Snowflake SQL Python DAX Microsoft Fabric ETL Azure Synapse
 Senior FullStack (Go/TypeScript) Engineer
 Timezone: GMT-6
 Go Golang TypeScript FullStack (Golang/TypeScript)
@@ -16,7 +19,6 @@ Go Apache Kafka SQS Apache Airflow MongoDB Snowflake React Next.js GraphQL
 Senior Backend Engineer (Golang)
 Go Apache Kafka Apache Airflow Snowflake MongoDB SQS
 Senior React Native Engineer
-Timezone: GMT-5
 React Native iOS Android TypeScript Redux CI/CD Fintech
 Senior Fullstack Engineer (Node/Python + React)
 React TypeScript CI/CD AWS Python Node.js Docker Terraform LLM Claude Code
@@ -38,8 +40,6 @@ Senior Machine Learning Engineer
 Machine Learning Python TensorFlow PyTorch SQL AWS Azure GCP
 Senior Data Engineer (AI/ML & Azure)
 Azure Data Factory Python LLM Azure Azure Machine Learning Microsoft Fabric Generative AI
-QA Engineer
-QA Automation Manual QA accessibility
 Senior SEO/GEO Software Engineer
 SEO GEO Python JavaScript Google Search Console Semrush
 Senior Golang Engineer - Remote

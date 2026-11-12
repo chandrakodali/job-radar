@@ -1,131 +1,137 @@
-NEW Determinism is All You Need for AI Agents Watch the Video →
-The AI Governance Platform
-Business meaning in the graph. Business authority in the runtime.
-TrustGraph captures what your business means and governs what your AI agents do , so every automated decision is grounded, enforced, provable and most importantly defensible .
-01 · context graph
-Business meaning modeled with your own or domain-standard ontologies, W3C-compliant from end to end.
-02 · Agent runtime
-Semantic policy enforced on every agent action: allow, pause or deny, with the evidence recorded.
-Book a demo Deploy the open-source core
-W3C RDF 1.2
-OWL
-SHACL
-PROV-O
+NEW TrustGraph 2.10: SHACL-AF policy filtering for every graph query Read the changelog →
+Open-source ontology runtime
+Your ontology. Your agents. Your rules.
+The open-source ontology runtime for AI agents. Turn all your data, from documents and structured records to images, into ontology-grounded knowledge, and govern what every agent can see, on W3C standards you own.
+Quickstart Star on GitHub
+Or try it in the hosted Playground
 Apache 2.0
-DECISION · PAY-4471 ALLOW
-Supplier payment · $48,200
-✓ Active supplier relationship
-✓ Contract covers invoice INV-2209
-✓ Within delegated authority
-policy v14 · executed · PROV-O record saved
-01 What is TrustGraph?
-An context graph and a policy runtime, connected.
-TrustGraph is an open-source AI Governance Platform that turns enterprise knowledge, systems, and logic into an ontology-grounded context graph, then uses that graph to govern AI agents at the moment they act. Every proposed action is checked against business meaning, authority and evidence, and is allowed, paused or denied before it executes.
-Each decision is stored with the exact evidence and policy version behind it, as W3C PROV-O provenance you can query later.
-02 The problem
-Agents have credentials. They don't have context or limits.
-How the business works is scattered
-It lives across documents, systems and people. Turning it into a governed, ontology-grounded graph is slow, manual and stale on arrival.
-Nothing governs the moment of action
-An agent with API credentials can execute regardless of contract, authority or evidence. Guardrails filter text; they don't decide whether a payment should go out.
-Enterprises need both, connected : a living graph of how the business operates, and a runtime that enforces it on every agent action.
-03 How it works
-The semantic layer sits inside the execution loop
-Agents can reason probabilistically. Their actions are decided deterministically.
-Business knowledge
-Ontologies and facts in a graph
-Agent proposes
-An LLM plans an action
-Semantic policy check
-Meaning, authority, evidence
-Decision
-ALLOW PAUSE DENY
-Controlled execution
-Integrations honor the decision
-Evidence record
-W3C PROV-O provenance
-Pause loops back: fetch fresher evidence, clarify or request approval, then re-evaluate.
-Every decision is stored with its evidence and policy version as queryable knowledge.
-The LLM proposes. TrustGraph decides whether it may act.
-04 In practice
-One business action: a supplier payment
-The agent holds credentials for the payment API. Business policy also requires:
-An active supplier relationship
-A valid contract covering the invoice
-A verified beneficiary account
-An amount within delegated authority
-Extra approval above a set threshold
-Policy evaluation policy v14
-Supplier Contract Invoice Beneficiary Approver
-PROPOSED Payment
-ALLOW compliant
-PAUSE needs approval
-DENY prohibited
-The result: the agent cannot execute the payment when the rules are unsatisfied.
-05 The platform
-From business understanding to controlled action
-Understand
-Build an ontology-grounded graph from your documents and systems that ties every action to the policies it touches.
-Govern
-Apply explicit rules across authority, scope, risk, uncertainty, time and value before execution, not after the incident.
-Verify
-Preserve the evidence and policy version behind every decision, so any outcome can be reproduced and explained.
-06 Open source · Open standards
-Run it anywhere. Own your intelligence.
-Built on W3C RDF 1.2, OWL, SHACL and PROV-O, so your ontologies, policies and provenance stay portable. Deploy with Docker Compose or Kubernetes, on every major cloud or on-prem, with hosted LLM APIs or open-weight models on your own accelerators.
+RDF
+OWL
+SHACL-AF
+PROV-O
+SPARQL 1.1
+MCP
+TrustGraph pipeline: an ontology file and a contract PDF feed three stages. 1, Extract: triples such as Supplier hasContract C-104 that match the ontology. 2, Ground: each fact is linked with prov:wasDerivedFrom to its source chunk. 3, Govern: each query result is Allowed, Filtered or a Violation.
+01 The problem
+Every platform now sells you an ontology.
+In 2026 Palantir, Microsoft, Databricks and Snowflake all launched ontologies. Each one lives inside its own platform: built on a vendor object model, fed mostly from that vendor's tables, and governed by that vendor's permissions. The model of your business becomes the hardest thing to move.
+Platform ontology
+Everything flows in. The ontology, and what you learned building it, stays inside one vendor.
+TrustGraph open
+Your ontology is a W3C file you own. Take it, and the knowledge built on it, anywhere.
+Comparison. Platform ontology: the ontology sits inside a single vendor platform; data, apps and users flow in and nothing flows out. TrustGraph: the ontology is an ontology.ttl file that can run on any cloud, any model and any RDF store, and can be exported with the tg-graph-to-turtle and tg-export-workspace commands.
+TrustGraph is the one you own.
+Your ontology and the knowledge built on it are standard W3C data, not rows in a vendor's object model. Move them to any RDF store, any cloud or any model, with no lock-in.
+02 How it works
+Extract. Ground. Govern.
+1 · Extract
+OntologyRAG
+Triples that match your ontology, validated against domain, range and subclass constraints.
+Read the docs
+2 · Ground
+Context Graph
+RDF in named graphs, with PROV-O lineage to every source chunk.
+3 · Govern
+SHACL-AF Policies
+Every query evaluated node by node: Allowed, Filtered or Violation.
+03 Open by design
+Standards you own, not a platform you rent.
+TrustGraph compared with platform ontologies
+Aspect
+TrustGraph
+Platform ontologies
+Data model
+W3C RDF and OWL
+Vendor object model
+Where it runs
+Any cloud, on-prem, self-hosted models
+Inside one vendor's data estate
+Knowledge source
+All data: documents, structured data and images
+Mostly warehouse tables
+Access control
+SHACL-AF policies on every graph query
+Platform permissions
+Audit trail
+PROV-O in queryable named graphs
+Platform logs
+Models
+All major LLM APIs, or self-hosted open models
+Platform's choice
+License
+Commercial
+04 The standards stack
+W3C from storage to agent.
+Every layer is an open standard, so every layer is portable.
+MCP · REST · SPARQL 1.1 how agents ask
+SHACL-AF what they may see
+PROV-O why they got that answer
+OWL / RDFS what things mean
+RDF (+ RDF-star) how knowledge is stored
+05 Use cases
+Built for teams where decisions carry real risk
+FIBO
+Financial services
+Counterparties, contracts and obligations extracted against the Financial Industry Business Ontology.
+Explore Drug-safety ontology
+Pharmacovigilance
+Adverse-event reports linked to products and evidence, with lineage to every source document.
+Explore Threat-intel ontology
+Threat intelligence
+Threat, event and log intelligence unified in one policy-filtered graph.
+Explore W3C SSN/SOSA
+Sensor intelligence
+Sensors, observations and platforms modeled on the W3C Semantic Sensor Network ontology.
+Explore
+06 Release
+What's new in 2.10
+Full changelog
+SHACL-AF policy filtering
+Allowed, Filtered or Violation for every query, with policy.evaluation audit events.
+Guided Graph Traversal
+Steer GraphRAG with grounding seeds, graph seeds, language filters and per-hop instructions.
+Decision Scoring
+A fast, structured decision service: about 35 ms per call.
+Cloze Classification
+Auto-trains a masked language model from your labeled examples, with confidence scores.
+07 Start small
+One question, a few classes, value in a day.
+Pick one question your agents need to answer. Model the handful of classes it touches, load your data, and see grounded, policy-filtered answers the same day. Grow the ontology as the questions grow.
 Hosted LLMs
 Anthropic OpenAI Google Mistral
 Open models
 vLLM LM Studio llama.cpp Ollama on NVIDIA, AMD or Intel acceleration
 Clouds
 AWS Azure Google Cloud OVHcloud Scaleway and on-prem
+Stores
+Cassandra (graph) Qdrant (vector)
 Deploy
 Docker Compose Kubernetes
-Built-in inference stack. Run open-weight models on TrustGraph's own LLM inferencing stack, alongside the context graph and agent runtime, so the whole system can operate inside your environment. The AI factory
-Open the config builder Read the docs
 $ npx @trustgraph/config
-? LLM provider Anthropic
-? Deploy target Docker Compose
-✓ Generated docker-compose.yaml
-$ docker compose up -d
-✓ TrustGraph is running
-07 Why teams switch
-What teams replace with TrustGraph
-context graph vs. property graphs
-No native ontology enforcement, provenance has to be hand-modeled, and there's no policy runtime for agent actions.
-Graph vs. context graph
-W3C ontologies vs. closed ontologies
-Proprietary ontologies lock business logic inside one vendor. Enterprises want to own their intelligence.
-Why open ontologies
-Defensible agent execution vs. agent frameworks
-Agent frameworks orchestrate model calls and leave the outcome to the LLM. TrustGraph decides every action deterministically against policy and records the evidence, so each outcome can be explained and defended.
-What is determinism for AI?
-Open source, W3C standards and enforcement at the point of action, deployable anywhere.
-08 Use cases
-Built for teams where actions carry real risk
-Finance and banking
-Payments, approvals and delegated authority enforced on every agent action.
-Explore
-Agentic threat intelligence
-Unify threat, event and log intelligence in one governed graph.
-Pharmacovigilance
-Traceable drug-safety workflows with evidence behind every decision.
-Aerospace, defense and telecom
-High-assurance agents where decisions must be auditable and reproducible.
-09 FAQ
+? Platform, stores, LLM provider…
+✓ deploy.zip
+✓ INSTALLATION.md
+Run the wizard, then follow the generated INSTALLATION.md . Prefer a browser? The configuration terminal builds the same bundle. CLI docs
+Quickstart Configuration terminal GitHub
+Nothing to install Request access to the hosted Playground
+08 FAQ
 Questions, answered
 More in the glossary and guides .
 What is TrustGraph?
-TrustGraph is an open-source AI Governance Platform: a context graph with a deterministic agent runtime. It builds an ontology-grounded knowledge graph of how a business operates, then checks every action an AI agent proposes against that graph, returning allow, pause or deny with recorded evidence.
+For enterprises deploying AI agents where decisions carry real risk, TrustGraph is the open-source ontology runtime that turns all your data, including documents, structured data and images, into ontology-grounded knowledge, and governs what every agent and user can see from it. Unlike platform ontologies from Palantir, Microsoft, Databricks and Snowflake, TrustGraph is built on W3C standards (RDF, OWL, SHACL, PROV-O) and Apache 2.0, so your ontology, your knowledge and your audit trail stay yours.
+How is this different from Palantir's Ontology?
+Palantir's Ontology is proprietary and lives inside Foundry. TrustGraph uses W3C standards, is Apache 2.0, and runs anywhere; you can export your ontology and knowledge as Turtle.
+Do I need an existing ontology?
+No. Start with a handful of classes for one question, or begin with schema-free GraphRAG and add an ontology later.
 What is a context graph?
-A context graph connects business entities, relationships, policies and evidence so AI systems act with the full meaning of a request. Thoughtworks uses TrustGraph as its definition of a context graph.
+A context graph connects business entities, relationships and evidence so AI agents retrieve knowledge with its full meaning and its source. TrustGraph builds context graphs, the technique Thoughtworks' Technology Radar recommends assessing for agentic AI.
 How is this different from AI guardrails?
-Guardrails filter what a model says. TrustGraph governs what an agent does: it resolves the business entities an action affects and evaluates authority, scope, risk, uncertainty, time and value before execution.
+Guardrails filter what a model says after it has seen the data. TrustGraph's SHACL-AF policies filter what an agent or user can see in the first place: every graph query is evaluated node by node and each result is Allowed, Filtered or a Violation, with the evaluation recorded.
 Which standards does TrustGraph use?
-W3C RDF 1.2, OWL, SHACL and PROV-O. Your ontologies, policies and decision records stay portable with no lock-in.
+W3C RDF (with RDF-star), OWL, SHACL-AF, PROV-O and SPARQL 1.1, plus MCP for agent access. Your ontologies, policies and provenance stay portable with no lock-in.
 Is TrustGraph open source?
-Yes, the core is open source. Enterprise add-ons cover knowledge-based access controls and IAM, an attestation engine, temporal knowledge management and the deterministic agent runtime, with engineering support for production deployments.
-10 See it in action
-Put your business rules between agents and action.
-See a governed agent block, pause and resume a real workflow in 30 minutes.
+Yes, the core is Apache 2.0. Enterprise add-ons cover knowledge-based access controls and IAM, an attestation engine and temporal knowledge management, with engineering support for production deployments.
+09 See it on your domain
+See your ontology govern your agents.
+A 30-minute technical walkthrough with the TrustGraph team, built around your data.
 Book a demo Star on GitHub

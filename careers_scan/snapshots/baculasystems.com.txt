@@ -137,8 +137,8 @@ Why not be part of this dynamic organization that provides you an optimal place 
 Positions currently open:
 You may also be interested in:
 network backup
-data center backup
-veeam vs zerto
+tape backup
+active directory backup and recovery
 Trademark Guidelines
 Legal Notice
 Sitemap

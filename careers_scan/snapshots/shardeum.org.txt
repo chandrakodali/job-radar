@@ -1,4 +1,3 @@
-Shardeum Mainnet v1.2.0 Upgrade in Progress
 Tokenize Real-World Assets & Rights
 An EVM-compatible Layer 1 enabling developers to build, businesses to tokenize, and investors to access programmable real world value.
 Start Building

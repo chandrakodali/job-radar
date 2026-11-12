@@ -268,6 +268,7 @@ From install to "what broke and why" in under five minutes—no queries, no gues
 LLM Monitoring
 Infrastructure Monitoring
 Container Monitoring
+Digital Experience Monitoring
 Synthetic Checks
 Application Performance
 Database Monitoring

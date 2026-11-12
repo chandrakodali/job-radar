@@ -1,8 +1,8 @@
 Open main menu
 Theme
 Turn your ideas into apps with full visual control
-Build web and mobile apps with AI agents, full visual control, and human experts when
-you need them.
+Build web and mobile apps, websites, and games with AI agents, full visual control,
+and human experts when you need them.
 Build for web, iOS & Android
 Use your own Claude & OpenAI accounts
 Live preview as you build
