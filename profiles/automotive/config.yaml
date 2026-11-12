@@ -30,6 +30,7 @@ profile:
     experience, jobs whose text names none of the resume's tools, and jobs the AI check of the full
     description against the resume judged a different kind of job. The reason is in the Notes column. Listed so nothing is dropped silently.
   refresh_note: 'Refreshes every 3 hours.'
+  score_colors: [78, 60]   # page: green at or above the first, amber at or above the second
   chips:   # which notes show red / green / amber on the page
     bad: 'clearance|citizen|itar|stretch|open \d+ days|([89]|1\d)\+ yrs|none of your tools|asks for \d+\+ years|PhD required'
     good: '^tools:|sponsors visas|e-verify|priority|MS path'
@@ -345,7 +346,7 @@ staffing_company_patterns:
 scoring:
   mode: experienced           # senior titles are fine; fit is judged on the tools in the job text
   years_experience: 4
-  alert_threshold: 60         # "strong" matches (phone alerts, if set up) at or above this score
+  alert_threshold: 78         # "strong" matches (phone alerts, if set up) at or above this score (about the top 15%)
   max_alerts_per_run: 15
   max_post_age_days: 150      # postings open longer than this are ignored
   stale_after_days: 60        # ...and ones open longer than this are flagged

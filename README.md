@@ -25,32 +25,68 @@ steering / ADAS features.
 
 **[Open the Auto Radar report →](REPORT_AUTOMOTIVE.md)** · page: `https://chandrakodali.github.io/job-radar/automotive/`
 
-- It scans **137 automotive employers' own job boards** in depth ([the list](profiles/automotive/companies.csv)):
+- It scans **142 automotive employers' own job boards** in depth ([the list](profiles/automotive/companies.csv)):
   OEMs, truck and off-highway makers, Tier-1 suppliers, automated-driving companies, automotive chip and tool
-  vendors, plus every board the DevOps radar already watches.
-- On those boards it does more than read titles: it **searches the full job text** for 25 keywords from the
-  resume (AUTOSAR, Simulink, TargetLink, Polyspace, ISO 26262, steer-by-wire, HIL...), so a job titled
-  "Engineer II" that asks for Simulink and AUTOSAR is found.
-- Every candidate job's description is read and scored on how many of the resume's tools it names. Generic
-  titles are kept only when the text shows those tools. The Notes column lists the tools found.
+  vendors, engineering-service firms, plus every board the DevOps radar already watches (about 6,600).
+- **Workday employers (GM, Ford, Magna, BorgWarner, Cummins, Oshkosh and 35 more) are read completely**: every
+  US job they list, whatever its age. Other employers' boards are read newest-first **and searched by keyword
+  in the full job text** (12 core keywords every run, 48 more in rotation: AUTOSAR, Simulink, TargetLink,
+  Polyspace, ISO 26262, CAPL, BSW, MCAL, UDS, SOTIF, VectorCAST...), so a job titled "Engineer II" that asks
+  for Simulink and AUTOSAR is found.
 - Senior titles are kept; Staff / Principal / Architect are kept but marked as a stretch. Internships,
-  management, technician, manufacturing, mechanical and web / cloud roles are left out.
-- Jobs needing a clearance, US citizenship or ITAR status are listed separately at the bottom, not dropped.
-- Nexteer (current employer) is skipped.
+  management, technician, manufacturing, mechanical and web / cloud roles are left out. Jobs needing a
+  clearance, US citizenship or ITAR status are listed separately at the bottom, not dropped. Nexteer (current
+  employer) is skipped.
 - It runs every 3 hours. A job whose text could not be read in one run waits for the next run instead of
   being judged without it.
 
-**AI check against the resume.** Each match's full job description is also read by a free AI model next to a
-summary of the resume (skills and experience only, no name or contact details). It gives a 0–100 fit score,
-the resume skills the job asks for ("has"), what the job requires that the resume lacks ("missing"), and a
-short reason, shown in the report's **AI** and **AI check** columns. The final score is 60% the AI's score and
-40% the keyword score. Jobs the AI judges a different kind of work, or that need a clearance/citizenship or 10+
-years, move to the hidden list with the reason. Visa sponsorship does not lower the AI score. It uses every key
-it finds and moves to the next service when one runs out of free requests for the day:
-`NVIDIA_API_KEY` (build.nvidia.com), `GEMINI_API_KEY` (aistudio.google.com) and `GROQ_API_KEY` (console.groq.com;
-`GROK_API_KEY` works too). Matches found before the AI check are checked over
-the next runs, best first. **Actions → radar-auto → Run workflow → "Only test the AI keys"** shows which keys
-work. The DevOps radar does not use AI.
+### How jobs are scored (no AI)
+
+Each job's full description is read the way a recruiter's screening software reads it
+([radar/rank.py](radar/rank.py)):
+
+1. Boilerplate (about the company, benefits, equal-opportunity text) is dropped, and the rest is split into
+   **required**, **preferred** and **responsibilities**. A skill under "required" counts fully, under
+   "preferred" half.
+2. A dictionary of ~150 skills ([profiles/automotive/skills.yaml](profiles/automotive/skills.yaml)) includes
+   the ones the resume does **not** have (Linux kernel, FPGA, HIL hardware, CAPL, UDS...). The score is about
+   how much of what the job requires the resume covers, so a job that wants Simulink *and* kernel drivers
+   *and* FPGA ranks below one that wants Simulink and AUTOSAR. The report shows **Has** (the resume's skills
+   the job asks for) and **Missing** (required skills the resume does not show).
+3. Years of experience are read as written: "BS + 5 years or MS + 3 years" means 3 for this resume.
+4. Title grade, industry, word overlap with the resume (words rare across all postings count most),
+   freshness and location make up the rest. Visa sponsorship moves the score by 2 points at most.
+
+Scores of **78+** are "strong" (about the top 15%). Every saved job's text is kept, so when the dictionary or
+the weights change, the whole history is rescored on the next run. **[SKILLS_AUTOMOTIVE.md](SKILLS_AUTOMOTIVE.md)**
+lists the skills the current matches ask for most, split into the ones the resume shows and the ones it does
+not (what to add to the resume, or learn).
+
+**Teach the score your taste.** Open [`profiles/automotive/labels.csv`](profiles/automotive/labels.csv) on
+GitHub (pencil icon), write `apply`, `maybe` or `no` in the first column for as many of the 60 jobs as you
+like, and commit. Then `python -m radar.calibrate --profile automotive --tune` shows how well the score agrees
+with you and the weights that would agree best. Jobs you mark `no` (and jobs marked Applied or Skipped on the
+page, if you paste the page's marks into `profiles/automotive/marks.json`) are left out of the report.
+
+An optional AI check (`ai: mode: resume` in the config, with free Gemini / Groq / NVIDIA keys) is switched off;
+the DevOps radar does not use AI.
+
+### More sources: job-alert emails and Adzuna
+
+**Job-alert emails** bring in jobs that appear only on LinkedIn, Indeed, Dice, ZipRecruiter or Glassdoor
+(common for small suppliers and engineering-service firms), without scraping those sites:
+
+1. Create a new Gmail account used only for job alerts, turn on 2-Step Verification, then create an app
+   password at https://myaccount.google.com/apppasswords.
+2. On LinkedIn, Indeed, Dice etc., create job alerts (e.g. "AUTOSAR", "Simulink", "embedded software
+   automotive", "controls engineer", Michigan or United States) sent to that Gmail address.
+3. Add repository secrets `JOB_ALERTS_EMAIL` (the address) and `JOB_ALERTS_APP_PASSWORD` (the app password).
+
+Each run reads the new alert emails (read-only), skips jobs the employer's own board already lists, and keeps
+clear target titles, marked "description not read" (the sites behind the links cannot be read).
+
+**Adzuna**, a job search engine with a free official API: register at https://developer.adzuna.com and add
+`ADZUNA_APP_ID` and `ADZUNA_APP_KEY` as secrets. The radar makes about 80 calls a day, inside the free limits.
 
 **What it cannot see** is listed in [profiles/automotive/COVERAGE.md](profiles/automotive/COVERAGE.md), with a
 link to each of those employers' careers pages. Tesla and MathWorks, for example, block automated readers.
@@ -119,8 +155,11 @@ from those lists that use a tracking system the radar didn't know are added to t
 | `companies.csv` | Auto-built list of company job boards (rebuilt weekly) |
 | `companies_custom.csv` | Your own companies (never overwritten) |
 | `config.yaml` | Matching and scoring rules |
-| `profiles/automotive/` | Auto Radar: its rules, employer boards, coverage notes and the resume summary for the AI check |
-| `radar/ai_fit.py` | Auto Radar's AI check of each job description against the resume |
+| `profiles/automotive/` | Auto Radar: rules, skills dictionary, employer boards, coverage notes, labeling list, employers from DOL filings |
+| `radar/rank.py`, `radar/calibrate.py` | Auto Radar's rule-based fit score and its calibration against your labels |
+| `radar/sources.py` | Job-alert emails and Adzuna |
+| `radar/ai_fit.py` | Optional AI check of each job description against the resume (off) |
+| `SKILLS_AUTOMOTIVE.md`, `data/automotive/coverage.csv` | Skills the matching jobs ask for; jobs listed per employer board |
 | `REPORT_AUTOMOTIVE.md`, `data/automotive/` | Auto Radar report, match history and state |
 
 ## Notes

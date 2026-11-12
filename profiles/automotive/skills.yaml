@@ -27,7 +27,7 @@ skills:
     DaVinci Developer/Configurator: {re: '(?-i:\bDaVinci\b)(?!\s+Resolve)|\bda\s?vinci\s+(developer|configurator)\b', weight: 2.5, have: 1}
     SWC/RTE design: {re: '\b(software components?|swcs?)\b|\brte\b|\barxml\b|\bsender[\s/-]*receiver\b|\bclient[\s/-]*server interfaces?\b', weight: 2, have: 0.8}
     BSW/MCAL configuration: {re: '\bbsw\b|\bbasic software\b|\bmcal\b|\bcomplex device drivers?\b|\bcdd\b|\bautosar (os|com|stack|configuration)\b|\bcomstack\b', weight: 2.5, have: 0.3}
-    Other AUTOSAR tools (EB tresos/ISOLAR): {re: '\btresos\b|\bisolar\b|\betas rta\b', weight: 2, have: 0.4}
+    Other AUTOSAR tools (EB tresos/ISOLAR): {re: '\btresos\b|\bisolar\b|\betas rta\b', weight: 2, have: 0.5}
 
   verification:
     MIL testing: {re: '\b(mil|model[\s-]*in[\s-]*(the[\s-]*)?loop)\b', weight: 2.5, have: 1}

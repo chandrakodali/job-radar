@@ -45,6 +45,8 @@ def build_dashboard(tz_name: str, boards_total: int, ai_status: str, now: dateti
     data = json.dumps({"meta": meta, "jobs": jobs, "hidden": hidden}, separators=(",", ":"))
     data = data.replace("</", "<\\/")
     page = TEMPLATE
+    hi, mid = ((p or {}).get("score_colors") or [60, 45])[:2]
+    page = page.replace('s >= 60 ? "s-hi" : s >= 45 ? "s-mid"', f's >= {int(hi)} ? "s-hi" : s >= {int(mid)} ? "s-mid"')
     if p:
         label = html.escape(p.get("label", "Job Radar"))
         page = page.replace("<title>Job Radar</title>", f"<title>{label}</title>")
