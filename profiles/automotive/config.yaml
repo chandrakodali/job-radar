@@ -330,7 +330,7 @@ ai:
     requirements with Reactis and Simulink test harnesses (100% coverage); MXAM model checks; unit testing.
     Skills: C, C++, basic Python; MATLAB, Simulink, Stateflow, Embedded Coder, TargetLink, Reactis,
     DaVinci Developer and Configurator, Polyspace, MXAM; IBM DOORS/DNG, Jenkins CI/CD, Git; MAAB,
-    MISRA C, V-Model, ISO 26262, ASPICE, AUTOSAR, CAN.
+    MISRA C, V-Model, ISO 26262, ASPICE, AUTOSAR, CAN bus communication (TX/RX module requirements).
     Education: MS Computer Science; BTech Electronics and Communication Engineering.
     No hands-on HIL bench, dSPACE hardware, embedded Linux, RTOS driver or PCB hardware experience shown.
 

@@ -29,6 +29,7 @@ def ok(answer=GOOD):
 @pytest.fixture
 def no_wait(monkeypatch):
     monkeypatch.setattr(ai_fit, "PROVIDERS", {k: v[:5] + (0.0,) for k, v in ai_fit.PROVIDERS.items()})
+    monkeypatch.setattr(ai_fit.FitReviewer, "ERROR_WAIT", 0.0)
 
 
 def reviewer(env, **cfg):
@@ -124,3 +125,19 @@ def test_retired_model_moves_to_the_next_one(monkeypatch, no_wait):
     monkeypatch.setattr(ai_fit.requests, "post", post)
     v = reviewer({"NVIDIA_API_KEY": "n"}).check(JOB, time.monotonic() + 30)
     assert v and used[0] != used[1]
+
+
+def test_slow_model_moves_to_the_next_model(monkeypatch, no_wait):
+    used = []
+
+    def post(url, json=None, **kw):
+        used.append(json["model"])
+        if len(used) <= 2:
+            raise ai_fit.requests.exceptions.ReadTimeout("read timed out")
+        return ok()
+    monkeypatch.setattr(ai_fit.requests, "post", post)
+    monkeypatch.setattr(ai_fit.time, "sleep", lambda s: None)
+    r = reviewer({"NVIDIA_API_KEY": "n"})
+    r.providers[0].next_ok = 0
+    v = r.check(JOB, time.monotonic() + 60)
+    assert v and used[0] == used[1] != used[2]

@@ -100,7 +100,7 @@ class _Provider:
     next_ok: float = 0.0
     busy: bool = False
     dead: str = ""                 # why it is out for this run ("" = usable)
-    fails: int = 0
+    fails: int = 0                 # errors in a row on the current model
     rate_hits: int = 0
     json_mode: bool = True
     picked: bool = False
@@ -155,6 +155,8 @@ def _providers(order: list[str] | None = None, env=os.environ) -> list[_Provider
 
 
 class FitReviewer:
+    ERROR_WAIT = 15.0   # seconds a service rests after an error
+
     def __init__(self, ai_cfg: dict, env=os.environ):
         self.cfg = ai_cfg or {}
         self.resume = re.sub(r"[ \t]+", " ", str(self.cfg.get("resume") or "")).strip()
@@ -215,7 +217,7 @@ class FitReviewer:
         if p.name == "groq" and "gpt-oss" in p.model:
             body["reasoning_effort"] = "low"
         self.calls += 1
-        r = requests.post(p.url, headers=p.headers(), json=body, timeout=120)
+        r = requests.post(p.url, headers=p.headers(), json=body, timeout=60 if p.name == "nvidia" else 90)
         if r.status_code == 200:
             try:
                 data = r.json()
@@ -258,6 +260,7 @@ class FitReviewer:
     def _next_model(self, p: _Provider, why: str) -> None:
         p.tried.append(p.model)
         p.rate_hits = 0
+        p.fails = 0
         if p.model_i + 1 < len(p.models):
             log.info("AI %s: %s; trying %s", p.name, why, p.models[p.model_i + 1])
             p.model_i += 1
@@ -316,12 +319,15 @@ class FitReviewer:
                     chars = max(3000, chars // 2)
                 p.last_error = f"unusable answer: {e}"
                 log.info("AI %s/%s: %s", p.name, p.model, p.last_error)
-            except Exception as e:     # network trouble or a server error
+            except Exception as e:     # slow, overloaded or broken: two in a row moves to the next model
                 p.fails += 1
-                wait = 15.0
-                log.warning("AI %s failed: %s", p.name, str(e)[:160])
-                if p.fails >= 3:
-                    p.dead = "repeated errors"
+                wait = self.ERROR_WAIT
+                p.last_error = str(e)[:200]
+                log.warning("AI %s/%s failed: %s", p.name, p.model, str(e)[:160])
+                if p.fails >= 2:
+                    with self.lock:
+                        self._next_model(p, "slow or failing")
+                attempts -= 1 if (p.model_i, p.dead) != before else 0
             finally:
                 self._give_back(p, wait)
         return None
