@@ -35,7 +35,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 70
     steps:
+      # The branch's latest commit, not the one the run was queued at: a run that waited behind another
+      # must start from the results that run saved.
       - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
 
       - uses: actions/setup-python@v6
         with:
