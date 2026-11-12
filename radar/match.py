@@ -168,6 +168,8 @@ class Rules:
     ranker: object = None           # radar.rank.Ranker: rule-based fit score from the full job text
     senior: list[re.Pattern] = field(default_factory=list)      # senior-level titles: kept when years allow
     bridge_evidence: list[re.Pattern] = field(default_factory=list)  # adjacent titles must name these tools
+    strong: list[re.Pattern] = field(default_factory=list)       # unmistakable target titles (e.g. SRE) ...
+    hard_exclude: list[re.Pattern] = field(default_factory=list) # ... that only these exclusions can drop
     bridge_min: int = 2
     years_by_section: bool = False  # read years from required/duties text only, degree-aware ("BS+5 or MS+3")
     degree: str = "master"          # the degree path that applies when a posting gives several
@@ -202,6 +204,7 @@ class Rules:
             hide_if_years_at_least=int(s.get("hide_if_years_at_least", 0)),
             senior=comp(t.get("senior")), years_by_section=bool(s.get("years_by_section")),
             bridge_evidence=comp(s.get("bridge_evidence")), bridge_min=int(s.get("bridge_min", 2)),
+            strong=comp(t.get("strong")), hard_exclude=comp(t.get("hard_exclude")),
             degree=str(s.get("degree", "master")),
         )
 
@@ -220,6 +223,10 @@ def title_category(title: str, rules: Rules, focus: bool = False, searched: bool
     'wide' is a generic title (or a keyword-search hit) that is kept only if the job text shows enough of
     the candidate's skills; profiles without a `skills` section never produce it."""
     t = _norm_title(title)
+    # Unmistakable target titles ("Site Reliability Engineer - Voice Platform", "SRE, SAP Cloud") are not
+    # dropped by the broad word exclusions; only seniority, internships, clearance and the like apply.
+    if rules.strong and _any(rules.strong, t):
+        return None if _any(rules.hard_exclude, t) else "core"
     if _any(rules.exclude, t):
         return None
     if _any(rules.core, t):

@@ -202,3 +202,40 @@ def test_newest_report(tmp_path, monkeypatch):
     assert "SRE](" not in md                                  # 9 days old
     assert "## Left out" in md and "asks for 7+ years" in md and "Coverage check" in md
     assert "Jobs by Adzuna" in md
+
+
+# ------------------------------------------------------------------ SRE titles
+
+SRE_TITLES = {
+    "Site Reliability Engineer": "core", "SRE II": "core", "Senior SRE": "core", "SREs - Cloud Platform": "core",
+    "Site Reliability Engineer - Voice Platform": "core", "Site-Reliability Engineer": "core",
+    "Site Reliability Engineer, SAP Cloud": "core", "SRE - Manufacturing Systems": "core",
+    "Software Engineer, Site Reliability": "core", "Software Engineer - Reliability": "core",
+    "Reliability Engineer, Cloud Infrastructure": "core", "Infrastructure Reliability Engineer": "core",
+    "Application Reliability Engineer": "core", "GPU Reliability Engineer": "core",
+    "Database Reliability Engineer": "core", "Systems Development Engineer, AWS": "core",
+    "Production Engineer, Infrastructure": "core", "Systems Engineer - SRE": "core",
+    "Cloud Resiliency Engineer": "core", "DevOps/SRE Engineer": "core",
+    "Reliability Engineer": "bridge", "Production Engineer": "bridge", "Technical Operations Engineer": "bridge",
+    "TechOps Engineer": "bridge", "NOC Engineer": "bridge", "Monitoring Engineer": "bridge",
+    "Staff Site Reliability Engineer": None, "SRE Lead": None, "Principal SRE": None, "SRE Intern": None,
+    "Site Reliability Engineer IV": None, "SRE Manager": None, "Site Reliability Engineer - TS/SCI": None,
+    "Mechanical Reliability Engineer": None, "Equipment Reliability Engineer, Manufacturing": None,
+    "Reliability Technician": None,
+}
+
+
+def test_sre_titles():
+    rules = Rules.from_config(load_config())
+    assert {t: title_category(t, rules) for t in SRE_TITLES} == SRE_TITLES
+
+
+def test_plain_reliability_engineer_needs_sre_work():
+    rules = Rules.from_config(load_config())
+    b = Board("greenhouse", "acme", "Acme")
+    plant = ("Lead root cause analysis on rotating equipment, improve uptime, vibration analysis, CMMS, "
+             "on-call rotation for plant outages, preventive maintenance with SAP PM. ") * 4
+    assert assess(_job(title="Reliability Engineer", description=plant), b, rules, "bridge", now=NOW).status == "blocked"
+    sre = ("Own SLOs and error budgets for our services on Kubernetes, write postmortems, "
+           "automate with Python and Terraform on AWS. ") * 4
+    assert assess(_job(title="Reliability Engineer", description=sre), b, rules, "bridge", now=NOW).status != "blocked"

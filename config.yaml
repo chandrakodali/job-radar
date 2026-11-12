@@ -2,8 +2,37 @@
 # Patterns are case-insensitive regular expressions matched against the job TITLE.
 
 titles:
+  # Unmistakable SRE / DevOps titles. These are always kept unless `hard_exclude` matches (so a word like
+  # "voice", "manufacturing", "SAP" or "maintenance" elsewhere in the title can't drop them).
+  strong:
+    - 'site\s*-?\s*reliability'
+    - '\bs\.?r\.?e\.?s?\b'
+    - 'dev\s*-?\s*(sec\s*)?ops'
+    - '\b(systems?|software|production|platform|cloud|infrastructure|service|services|database|network|data|application|app|web|api|ml|ai|gpu|compute|storage|kubernetes|container|edge|cdn|devops|it|operations|technical|tech|reliability) reliability engineer'
+    - '\bsystems development engineer\b'   # Amazon's name for its SRE-style infrastructure engineers
+    - '\bchaos engineer'
+  # Exclusions that still apply to the titles above.
+  hard_exclude:
+    - '\b(staff|principal|lead|manager|director|head of|vp|vice president|architect|distinguished|fellow|chief)\b'
+    - '\b(iv|v|vi)\b'
+    - '\b(level|lvl)\s*[4-9]\b'
+    - '\b[4-9]\b\s*$'
+    - '\b(intern(ship)?|co-?op|summer|phd|apprenticeship program)\b'
+    - '\b(clearance|ts/sci|top secret|classified)\b'
+    - '\b(sales|pre-?sales|recruit\w*|marketing|teacher|instructor|trainer)\b'
+    - '\b(m/w/d|w/m/d|m/f/d|f/h|h/f)\b'
+    - '\bmgr\b'
+
   # Direct targets: score +45
   core:
+    - '\b(software|systems?|infrastructure|cloud|platform|production|kubernetes|services?)\b.{0,40}\breliability\b'
+    - '\breliability\b.{0,40}\b(software|infrastructure|cloud|platform|kubernetes|services?|sre|devops|production systems)\b'
+    - 'production engineer.{0,30}\b(software|infrastructure|cloud|systems|platform|network|linux|services?)\b'
+    - '\b(software|infrastructure|systems|platform|cloud|network) production engineer'
+    - '\b(resilience|resiliency) engineer.{0,30}\b(cloud|platform|infrastructure|software|technology|it|sre)\b'
+    - '\b(cloud|platform|infrastructure|technology|software|it|sre) (resilience|resiliency) engineer'
+    - 'on-?call engineer'
+    - 'incident (management|response) engineer.{0,30}\b(cloud|platform|infrastructure|sre|production|services?)\b' 
     - 'dev\s*ops'
     - 'dev\s*sec\s*ops'
     - 'sec\s*dev\s*ops'
@@ -25,6 +54,15 @@ titles:
     - '\bterraform\b'
   # Closely related roles that lead into DevOps/SRE/cloud: score +30
   bridge:
+    # Kept only when the job text names DevOps/SRE work (see scoring.bridge_evidence):
+    - '\breliability engineer'                 # also a manufacturing / mechanical title
+    - '\b(resilience|resiliency) engineer'
+    - 'production (operations|support|systems) engineer'
+    - '\b(technical|tech|systems?|site|service|production|saas|web|it|network) operations engineer'
+    - '\btech\s*ops\b'
+    - '\b(monitoring|telemetry|performance and reliability|capacity) engineer'
+    - '\bnoc engineer'
+    - 'application support engineer'
     - 'systems? administrator'
     - '\bsys\s*admin\b'
     - '\b(linux|unix)\b.{0,20}\b(administrator|admin|engineer|systems)\b'
@@ -213,6 +251,10 @@ scoring:
     - '\b(python|bash|shell scripting|powershell|golang)\b'
     - '\b(infrastructure as code|iac)\b'
     - '\b(helm|istio|service mesh|hashicorp vault)\b'
+    - '\b(slos?|slis?|slas?|error budgets?|service level objectives?)\b'
+    - '\b(post-?mortems?|pager ?duty|opsgenie|incident\.io|blameless)\b'
+    - '\blinux\b'
+    - '\b(high availability|disaster recovery|fault[- ]toleran\w+|load balanc\w+|distributed systems)\b'
   # jobs asking for 5+ years go to the hidden list
   block_alerts_if_years_at_least: 5
 
