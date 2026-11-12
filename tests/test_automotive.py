@@ -411,7 +411,7 @@ def test_full_profile_run(tmp_path, monkeypatch):
     cfg_terms = yaml.safe_load(open(os.path.join(AUTO, "config.yaml")))["search"]["terms"]
     assert sorted(searched) == sorted([""] + cfg_terms)
     assert set(rows) == {"W3", "L1", "L2", "G2"}
-    assert rows["W3"]["category"] == "wide" and rows["W3"]["flags"].startswith("tools: AUTOSAR")
+    assert rows["W3"]["category"] == "wide" and "AUTOSAR Classic" in rows["W3"]["has"]
     assert rows["L1"]["category"] == "core" and rows["L1"]["status"] == "alert" and int(rows["L1"]["score"]) >= 80
     assert rows["L1"]["company"] == "Tier One"                       # the focus list's row replaced the general one
     assert rows["L2"]["category"] == "wide" and rows["G2"]["category"] == "core"
@@ -465,6 +465,9 @@ def test_ai_resume_check_reviews_new_jobs_and_saved_ones(tmp_path, monkeypatch):
     from radar import ai_fit
     _point_at_tmp(tmp_path, monkeypatch)
     monkeypatch.setattr(M, "FOCUS_PATH", "")
+    real = M.load_config()
+    real["ai"]["mode"] = "resume"
+    monkeypatch.setattr(M, "load_config", lambda: real)
     monkeypatch.setattr(M, "load_boards", lambda: [Board("greenhouse", "robo", "Robo")])
     monkeypatch.setattr(M, "load_discovered", lambda known, *a, **k: [])
     monkeypatch.setattr(ai_fit, "PROVIDERS", {k: v[:5] + (0.0,) for k, v in ai_fit.PROVIDERS.items()})
@@ -505,7 +508,7 @@ def test_ai_resume_check_reviews_new_jobs_and_saved_ones(tmp_path, monkeypatch):
     rejected = list(csv.DictReader(open(tmp_path / "rejected.csv")))
     assert [r["reject_reason"] for r in rejected if r["uid"].endswith(":C")] == ["AI: not this kind of job (web job)"]
     report = (tmp_path / "REPORT_AUTOMOTIVE.md").read_text()
-    assert "| AI |" in report and "steering controls" in report
+    assert "| Has |" in report and "steering controls" in rows["A"]["ai_why"]
 
     # third run: nothing left to check, nothing sent again
     sent.clear()

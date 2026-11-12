@@ -165,6 +165,7 @@ class Rules:
     years_experience: int = 0
     home: list[re.Pattern] = field(default_factory=list)        # locations that get a small bonus
     stale_after_days: int = 60
+    ranker: object = None           # radar.rank.Ranker: rule-based fit score from the full job text
 
     @classmethod
     def from_config(cls, cfg: dict) -> "Rules":
@@ -301,6 +302,9 @@ class Assessment:
     flags: list[str] = field(default_factory=list)
     years: int | None = None
     blocker: str | None = None
+    has: list[str] = field(default_factory=list)       # resume skills the job asks for (ranker)
+    missing: list[str] = field(default_factory=list)   # required skills the resume does not show (ranker)
+    detail: str = ""                                    # how the score was made up (ranker)
 
 
 def is_excluded_company(board: Board, rules: Rules) -> bool:
@@ -313,6 +317,8 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
     title = job.title or ""
     desc = job.description or ""
     loc_class = classify_location(job.location, job.countries)
+    if rules.mode == "experienced" and rules.ranker is not None:
+        return _assess_ranked(job, board, rules, category, now, loc_class)
     if rules.mode == "experienced":
         return _assess_experienced(job, board, rules, category, now, loc_class)
 
@@ -486,3 +492,69 @@ def _assess_experienced(job: Job, board: Board, rules: Rules, category: str, now
         status = "quiet"
     return Assessment(category=category, location_class=loc_class, score=score, status=status,
                       flags=flags, years=years, blocker=blocker)
+
+
+def _assess_ranked(job: Job, board: Board, rules: Rules, category: str, now: datetime, loc_class: str) -> Assessment:
+    """Experienced-candidate scoring from radar.rank: skills required vs. on the resume, title, years
+    (degree-aware), industry, word overlap, freshness and place. Sponsorship moves the score by 2 at most."""
+    title, desc = job.title or "", job.description or ""
+    fit = rules.ranker.score(title, desc, location=job.location or "", loc_class=loc_class, posted=job.posted_at,
+                             now=now, focus=board.focus, company=job.company or board.company or "")
+    score = fit.score
+    flags: list[str] = []
+    if not desc:
+        flags.append("description not read")
+    if fit.years_note:
+        flags.append(fit.years_note)
+    if fit.phd:
+        flags.append("PhD required")
+    if fit.stretch:
+        flags.append("stretch: senior-level title")
+    elif fit.junior:
+        flags.append("entry-level title")
+    age_days = (now - job.posted_at).total_seconds() / 86400 if job.posted_at else None
+    if age_days is not None and age_days > rules.stale_after_days:
+        flags.append(f"open {int(age_days)} days")
+    if loc_class == "unknown":
+        flags.append("location unclear")
+    if fit.contract:
+        score -= 3
+        flags.append("contract")
+    if desc and _any(rules.e_verify, desc):
+        flags.append("E-Verify")
+    if desc and _any(rules.sponsors, desc):
+        score += 2
+        flags.append("sponsors visas")
+    elif desc and _any(rules.no_sponsorship, desc):
+        score -= 2
+        flags.append("no visa sponsorship")
+    if board.priority:
+        score += 3
+        flags.append("priority company")
+    if _any(rules.staffing, job.company or board.company or ""):
+        score -= 3
+        flags.append("staffing/consulting firm")
+    score = max(0, min(100, round(score)))
+    years = fit.years
+    blocker = blocker_hit(" ".join([title, desc]), rules)
+    if age_days is not None and age_days > rules.max_post_age_days:
+        status = "old"
+    elif blocker:
+        status = "blocked"
+        flags.append(f"needs: {blocker[:40]}")
+    elif loc_class == "non_us":
+        status = "old"
+    elif desc and fit.got <= 0:
+        status = "blocked"
+        flags.append("none of your tools in the job text")
+    elif years is not None and rules.hide_if_years_at_least and years >= rules.hide_if_years_at_least:
+        status = "blocked"
+        flags.append(f"asks for {years}+ years of experience")
+    elif years is not None and years >= rules.block_alerts_if_years_at_least:
+        status = "quiet"
+    elif score >= rules.alert_threshold:
+        status = "alert"
+    else:
+        status = "quiet"
+    return Assessment(category=category, location_class=loc_class, score=score, status=status, flags=flags,
+                      years=years, blocker=blocker, has=fit.has[:10], missing=fit.missing[:6], detail=fit.detail)

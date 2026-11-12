@@ -28,7 +28,20 @@ def _when(iso: str, tz: ZoneInfo) -> str:
 
 
 def _table(rows: list[dict], tz: ZoneInfo) -> list[str]:
-    ai = any(str(r.get("ai_score", "")).strip() for r in rows)
+    fit = any(r.get("has") or r.get("missing") for r in rows)
+    ai = not fit and any(str(r.get("ai_score", "")).strip() for r in rows)
+    if fit:   # rule-based fit score: what the job asks that the resume has, and what it lacks
+        out = ["| Score | Role | Company | Location | Posted | Has | Missing | Notes |",
+               "|---:|---|---|---|---|---|---|---|"]
+        for r in rows:
+            title = _cell(r["title"], 70).replace("[", "(").replace("]", ")")
+            loc = _cell(r["location"], 40) + (f" ({r['workplace']})" if r.get("workplace") else "")
+            out.append(
+                f"| {r['score']} | [{title}]({r['url']}) | {_cell(r['company'], 30)} | {loc} | "
+                f"{_when(r.get('posted') or r['first_seen'], tz)} | {_cell(r.get('has', ''), 90)} | "
+                f"{_cell(r.get('missing', ''), 60) or '–'} | {_cell(r.get('flags', ''), 70)} |"
+            )
+        return out
     if ai:   # a resume check ran: show its score and reason next to the radar's notes
         out = ["| Score | AI | Role | Company | Location | Posted | AI check | Notes |",
                "|---:|---:|---|---|---|---|---|---|"]

@@ -23,7 +23,7 @@ REJECTED_PATH = os.path.join(DATA, "rejected.csv")
 
 MATCH_FIELDS = ["first_seen", "posted", "score", "status", "category", "company", "title",
                 "location", "workplace", "flags", "url", "ats", "uid",
-                "ai", "ai_score", "ai_role", "ai_level", "ai_sponsor", "ai_why"]
+                "ai", "ai_score", "ai_role", "ai_level", "ai_sponsor", "ai_why", "has", "missing", "detail"]
 REJECTED_FIELDS = MATCH_FIELDS + ["reject_reason"]
 
 CAP_EXEMPT_RE = re.compile(r"universit|\bcollege\b|institute of technology|school of medicine|national lab", re.I)
@@ -241,3 +241,10 @@ def read_matches(since: datetime | None = None) -> list[dict]:
 
 def now_utc() -> datetime:
     return datetime.now(timezone.utc).replace(microsecond=0)
+
+
+def remove_rejected(uids: set[str]) -> None:
+    """Take jobs off the hidden list (they fit again after a rules change)."""
+    if not uids or not os.path.exists(REJECTED_PATH):
+        return
+    _rewrite(REJECTED_PATH, REJECTED_FIELDS, [r for r in _read_all(REJECTED_PATH) if r.get("uid") not in uids])

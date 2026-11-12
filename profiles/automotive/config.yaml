@@ -20,19 +20,20 @@ profile:
     employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles
     are found too.
   score_note: >-
-    Score is 0–100. Where the AI column is filled, an AI read the full job description against the resume:
-    the score is 60% the AI's score and 40% the radar's keyword score, and "AI check" lists the resume
-    skills the job asks for ("has") and what it asks for that the resume lacks ("missing"). Jobs without an
-    AI score are checked on later runs. Visa sponsorship does not lower the AI score.
+    Score is 0–100 and uses no AI: the full job text is read section by section. "Has" lists the resume's
+    skills the job asks for; "Missing" lists skills the job requires that the resume does not show. The
+    score weighs how much of what the job asks the resume covers, the title, years required (the MS path
+    counts), the industry, word overlap with the resume, freshness and location. Visa sponsorship moves it
+    by 2 points at most.
   hidden_note: >-
     Jobs that need a security clearance, US citizenship or ITAR status, jobs asking for 10+ years of
     experience, jobs whose text names none of the resume's tools, and jobs the AI check of the full
     description against the resume judged a different kind of job. The reason is in the Notes column. Listed so nothing is dropped silently.
   refresh_note: 'Refreshes every 3 hours.'
   chips:   # which notes show red / green / amber on the page
-    bad: 'no visa sponsorship|clearance|citizen|itar|stretch|staffing|open \d+ days|([89]|1\d)\+ yrs|none of your tools|asks for \d+\+ years'
-    good: '^tools:|sponsors visas|e-verify|priority'
-    warn: '[67]\+ yrs|repost|unclear|entry-level|not read'
+    bad: 'clearance|citizen|itar|stretch|open \d+ days|([89]|1\d)\+ yrs|none of your tools|asks for \d+\+ years|PhD required'
+    good: '^tools:|sponsors visas|e-verify|priority|MS path'
+    warn: '[67]\+ yrs|repost|unclear|entry-level|not read|contract|staffing|no visa sponsorship'
 
 boards:
   include_general: true    # also scan every board the DevOps radar watches (by title)
@@ -304,12 +305,28 @@ notify:
   daily_digest_hour_local: 8
   timezone: 'America/Detroit'
 
+# Rule-based fit score (radar/rank.py), no AI: the full job text against the skills dictionary in
+# skills.yaml (what the job requires, what the resume shows, what is missing), title grade, years of
+# experience (degree-aware: the MS path applies), industry, word overlap with the resume, freshness, place.
+ranking:
+  taxonomy: skills.yaml
+  degree: master              # highest degree on the resume: decides "BS + 5 years or MS + 3 years"
+  backlog_per_run: 1500       # saved matches without a kept job text: read again per run, best first
+  keep_text_days: 150
+  weights:                    # parts of the score; they are scaled to add up to 100
+    skills: 0.42
+    title: 0.15
+    experience: 0.15
+    domain: 0.10
+    similarity: 0.08
+    logistics: 0.10
+
 # AI check of every match's full job description against the resume (radar/ai_fit.py). Turns on when
 # at least one key secret exists: NVIDIA_API_KEY, GEMINI_API_KEY, GROQ_API_KEY (also read as GROK_API_KEY). Services are used in this order; when one is busy or out of free requests for the
 # day, the next one takes over. Matches saved before the AI check are checked as their boards list them
 # again, best first, until all have a verdict.
 ai:
-  mode: resume
+  mode: 'off'                 # off | resume. The rule-based score below replaces it; set "resume" to add an AI check.
   providers: [gemini, groq, nvidia, mistral, openrouter]
   time_budget_minutes: 15     # time per run for AI checks
   backlog_per_run: 400        # saved matches (without an AI verdict) to check per run, best first

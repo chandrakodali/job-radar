@@ -38,9 +38,11 @@ from .report import build_report, write_report
 from . import ats_more, robots
 from .ai import Reviewer
 from . import ai_fit
+from . import rank as _rank
 from . import store as _store
 from .store import (ROOT, append_matches, append_rejected, load_boards, load_discovered, load_focus_boards,
-                    load_state, now_utc, prune_seen, read_matches, save_state, update_matches)
+                    load_state, now_utc, prune_seen, read_matches, read_rejected, remove_rejected, save_state,
+                    update_matches)
 
 log = logging.getLogger("radar")
 
@@ -125,6 +127,13 @@ def run(args) -> int:
     report_url = prof.get("report_url", REPORT_URL)
     budget = int(cfg.get("run", {}).get("time_budget_minutes", TIME_BUDGET_SECONDS // 60)) * 60
     state = load_state()
+    # Rule-based fit score from the full job text (profiles with a skills.yaml). Job texts are kept so every
+    # saved match can be scored again whenever the rules change.
+    texts = _rank.TextStore(os.path.join(_store.DATA, "texts"),
+                            keep_days=int((cfg.get("ranking") or {}).get("keep_text_days", 150)))
+    if os.path.exists(os.path.join(os.path.dirname(CONFIG_PATH), (cfg.get("ranking") or {}).get("taxonomy", "skills.yaml"))):
+        texts.load()
+        rules.ranker = _rank.Ranker.load(cfg, os.path.dirname(CONFIG_PATH), texts.texts.values())
     bootstrap = not state.get("bootstrapped")
     notifier = Notifier(state, dry_run=args.dry_run or bootstrap)
     state.setdefault("baselined", {})
@@ -134,6 +143,7 @@ def run(args) -> int:
     general = bool(cfg.get("boards", {}).get("include_general", True))
     boards = [b for b in (load_boards() if general else []) if not is_excluded_company(b, rules)]
     focus = [b for b in load_focus_boards(FOCUS_PATH) if not is_excluded_company(b, rules)]
+    focus_boards_map = {b.key.lower(): b for b in focus}
     if focus:  # the profile's own employers come first and replace the same board in the general list
         focus_keys = {b.key.lower() for b in focus}
         boards = focus + [b for b in boards if b.key.lower() not in focus_keys]
@@ -198,12 +208,17 @@ def run(args) -> int:
     # are checked when their board lists them again, so the whole history gets checked over a few runs.
     ai_cfg = cfg.get("ai", {}) or {}
     fit_mode = ai_cfg.get("mode") == "resume"
+    ai_off = str(ai_cfg.get("mode", "")).lower() in ("off", "false", "none")
     fit = ai_fit.FitReviewer(ai_cfg) if fit_mode else None
+    # Saved matches still missing their job text (ranker) or an AI verdict: read again when listed again.
     pending: dict[str, dict] = {}
-    if fit is not None and fit.cfg_ok:
+    want_ai = fit is not None and fit.cfg_ok
+    if rules.ranker is not None or want_ai:
         closed_before = state.get("closed", {})
         for r in read_matches(since=now - timedelta(days=int(prof.get("report_days", 60)))):
-            if not r.get("ai") and r["status"] in ("alert", "quiet") and r["uid"] not in closed_before:
+            if r["status"] not in ("alert", "quiet") or r["uid"] in closed_before:
+                continue
+            if (rules.ranker is not None and not texts.get(r["uid"])) or (want_ai and not r.get("ai")):
                 pending[r["uid"]] = r
     ai_backlog: list[tuple] = []
     backlog_seen: set[str] = set()
@@ -321,7 +336,8 @@ def run(args) -> int:
 
     # Saved matches waiting for the AI check: best first, as many as one run can check.
     ai_backlog.sort(key=lambda c: -int(pending[c[0].uid]["score"]))
-    ai_backlog = ai_backlog[:int(ai_cfg.get("backlog_per_run", 400))]
+    ai_backlog = ai_backlog[:int((cfg.get("ranking") or {}).get("backlog_per_run", 0)
+                                 or ai_cfg.get("backlog_per_run", 400))]
     candidates = candidates + ai_backlog
     dpool = ThreadPoolExecutor(max_workers=24)
     dfutures = [dpool.submit(detail, c) for c in candidates]
@@ -335,6 +351,10 @@ def run(args) -> int:
     # unfinished details: assess with what the listing gave
     detailed = [f.result() if f.done() and not f.cancelled() else c for f, c in zip(dfutures, candidates)]
     ai_back = [c for c in detailed if c[2] == "_ai"]
+    for j, _b, _c, _f in ai_back:
+        if j.description:
+            texts.put(j.uid, j.description)
+            stats["texts_backfilled"] += 1
     detailed = [c for c in detailed if c[2] != "_ai"]
     candidates = [c for c in candidates if c[2] != "_ai"]
 
@@ -386,6 +406,8 @@ def run(args) -> int:
         state["seen"][j.uid] = today
         if a.location_class == "non_us" or a.status == "old":
             continue
+        if rules.ranker is not None and j.description:
+            texts.put(j.uid, j.description)
         age_hours = (now - j.posted_at).total_seconds() / 3600 if j.posted_at else None
         dkey = _dupe_key(j.company, j.title, j.location)
         is_dupe = dkey in recent_keys
@@ -401,6 +423,7 @@ def run(args) -> int:
             "score": a.score, "status": status, "category": cat, "company": j.company,
             "title": j.title, "location": j.location, "workplace": j.workplace,
             "flags": "; ".join(a.flags), "url": j.url, "ats": j.ats, "uid": j.uid,
+            "has": ", ".join(a.has), "missing": ", ".join(a.missing), "detail": a.detail,
         }
         if status == "blocked":
             rejected_rows.append({**row, "reject_reason": "rules: " + "; ".join(a.flags)})
@@ -414,6 +437,8 @@ def run(args) -> int:
     reviewer = Reviewer(max_requests=int(ai_cfg.get("max_requests_per_run", 12)), system=ai_cfg.get("system"),
                         roles=ai_cfg.get("roles"), keep_senior=bool(ai_cfg.get("keep_senior")),
                         max_min_years=int(ai_cfg.get("max_min_years", 5)))
+    if ai_off:
+        reviewer.cfg = None     # the profile switched AI off (keys may still be set for other uses)
     alerts = []
     threshold = rules.alert_threshold
 
@@ -538,6 +563,11 @@ def run(args) -> int:
     if not args.no_write:
         append_matches(new_rows)
         append_rejected(rejected_rows)
+        if rules.ranker is not None:
+            texts.save(today)
+            rescored = rescore_saved(rules, texts, now, focus_boards_map, int(prof.get("report_days", 60)),
+                                     blend_ai=weight if fit_mode else None)
+            stats.update(rescored)
 
     # Saved matches that a complete listing no longer shows have been taken down; ones that show up
     # again are reopened. Kept in state so the report and page can leave closed jobs out.
@@ -618,6 +648,10 @@ def run(args) -> int:
         f"saved matches checked {stats['ai_backfilled']}, "
         f"waiting {stats['ai_waiting'] if fit_mode else len(state.get('ai_queue', []))}."
     )
+    if rules.ranker is not None:
+        summary += (f" Rule-based fit score: {len(texts.texts)} job texts kept ({stats['texts_backfilled']} added for "
+                    f"saved matches); rescored {stats['rescored']}, moved to hidden {stats['rescore_hidden']}, "
+                    f"back from hidden {stats['rescore_restored']}, still without text {stats['text_missing']}.")
     if rules.skills:
         summary += (
             f" Keyword searches: {stats['searches']} run ({stats['search_failed']} failed), "
@@ -635,6 +669,88 @@ def run(args) -> int:
                 for r in sorted(new_rows, key=lambda r: -r["score"])[:40]:
                     f.write(f"| {r['score']} | {r['status']} | [{r['title']}]({r['url']}) | {r['company']} | {r['location']} |\n")
     return 0
+
+
+def _row_job(r: dict, text: str) -> tuple[Job, str]:
+    """A saved match as a Job again (for rescoring). The board id sits between the job system and the job id."""
+    uid, ats = r["uid"], r.get("ats") or r["uid"].split(":", 1)[0]
+    board = uid[len(ats) + 1: uid.rfind(":")]
+    posted = None
+    if r.get("posted"):
+        try:
+            posted = datetime.fromisoformat(r["posted"])
+        except ValueError:
+            posted = None
+    return Job(ats=ats, board=board, job_id=uid.rsplit(":", 1)[-1], company=r.get("company", ""),
+               title=r.get("title", ""), location=r.get("location", ""), url=r.get("url", ""), posted_at=posted,
+               workplace=r.get("workplace", ""), description=text), board
+
+
+def rescore_saved(rules: Rules, texts, now: datetime, focus_map: dict, days: int, blend_ai: float | None = None) -> Counter:
+    """Score every saved match (and every job hidden by the rules) again from its kept text, so a change to
+    the rules or the skills dictionary applies to the whole history at once. Jobs that no longer fit move to
+    the hidden list; hidden jobs that fit now come back."""
+    stats = Counter()
+    since = now - timedelta(days=days)
+
+    def again(r: dict, text: str):
+        job, board = _row_job(r, text)
+        b = focus_map.get(f"{job.ats}:{board}".lower()) or Board(job.ats, board, job.company)
+        return assess(job, b, rules, r.get("category") or "wide", now=now)
+
+    ups, drop, hidden_rows = {}, set(), []
+    matches = read_matches(since=since)
+    have = {r["uid"] for r in matches}
+    for r in matches:
+        text = texts.get(r["uid"])
+        if not text:
+            stats["text_missing"] += 1
+            continue
+        a = again(r, text)
+        if a.status == "old" or a.location_class == "non_us":
+            continue
+        flags = a.flags + (["repost"] if "repost" in (r.get("flags") or "") else [])
+        score = a.score
+        if blend_ai is not None and str(r.get("ai_score", "")).strip():
+            score = ai_fit.blend(score, int(r["ai_score"]), blend_ai)
+        fields = {"score": score, "flags": "; ".join(flags), "has": ", ".join(a.has),
+                  "missing": ", ".join(a.missing), "detail": a.detail}
+        if a.status == "blocked":
+            drop.add(r["uid"])
+            clean = {k: v for k, v in r.items() if not k.startswith("_")}
+            hidden_rows.append({**clean, **fields, "status": "blocked", "reject_reason": "rules: " + fields["flags"]})
+            stats["rescore_hidden"] += 1
+            continue
+        status = r["status"]
+        if a.status == "alert" and "repost" not in flags:
+            status = "alert"
+        elif a.status == "quiet":
+            status = "quiet"
+        fields["status"] = status
+        if any(str(r.get(k, "")) != str(v) for k, v in fields.items()):
+            ups[r["uid"]] = fields
+            stats["rescored"] += 1
+    back, restored = [], set()
+    for r in read_rejected(since=since):
+        uid = r["uid"]
+        if uid in have or uid in restored or not (r.get("reject_reason") or "").startswith("rules:"):
+            continue
+        text = texts.get(uid)
+        if not text:
+            continue
+        a = again(r, text)
+        if a.status in ("alert", "quiet") and a.location_class != "non_us":
+            clean = {k: v for k, v in r.items() if not k.startswith("_") and k != "reject_reason"}
+            back.append({**clean, "score": a.score, "status": "quiet", "flags": "; ".join(a.flags),
+                         "has": ", ".join(a.has), "missing": ", ".join(a.missing), "detail": a.detail})
+            restored.add(uid)
+    stats["rescore_restored"] = len(restored)
+    update_matches(ups, drop)
+    append_rejected(hidden_rows)
+    if restored:
+        _store.remove_rejected(restored)
+        append_matches(back)
+    return stats
 
 
 def main(argv=None) -> int:

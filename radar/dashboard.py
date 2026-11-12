@@ -17,7 +17,8 @@ DOCS = os.path.join(ROOT, "docs")
 PAGE_PATH = os.path.join(DOCS, "index.html")
 
 KEEP = ("first_seen", "posted", "score", "status", "category", "company", "title", "location", "workplace",
-        "flags", "url", "ats", "uid", "ai", "ai_score", "ai_role", "ai_level", "ai_sponsor", "ai_why")
+        "flags", "url", "ats", "uid", "ai", "ai_score", "ai_role", "ai_level", "ai_sponsor", "ai_why", "has", "missing",
+        "detail")
 
 
 def _slim(r: dict, extra=()) -> dict:
@@ -110,7 +111,7 @@ main{max-width:860px;margin:0 auto;padding:10px 12px 60px}
 .t{font-weight:650;font-size:15.5px;color:var(--ink);text-decoration:none;display:block}.t:hover{text-decoration:underline}
 .co{font-size:13.5px;margin-top:1px}.co b{font-weight:600}
 .meta{color:var(--mute);font-size:12.5px;margin-top:2px}
-.why{font-size:13px;margin-top:5px;color:var(--ink)}.why i{color:var(--mute);font-style:normal}
+.why{font-size:13px;margin-top:5px;color:var(--ink)}.why i{color:var(--mute);font-style:normal}.miss{color:#b45309}
 .chips{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
 .chip{font-size:11.5px;padding:2px 7px;border-radius:999px;background:var(--chip);color:var(--mute)}
 .chip.g{background:var(--goodbg);color:var(--good)}.chip.w{background:var(--warnbg);color:var(--warn)}.chip.b{background:var(--badbg);color:var(--bad)}
@@ -200,7 +201,9 @@ function card(j) {
   if (j.reject_reason) flags.unshift(j.reject_reason);
   const fresh = !m && now - j.seen < 24 * H && tab !== "hidden";
   const posted = j.posted ? "posted " + ago(j.t) : "found " + ago(j.seen);
-  const why = j.ai_why ? `<div class="why"><i>AI:</i> ${esc(j.ai_why)}${j.ai_score != null ? ` <i>(${j.ai_score})</i>` : ""}</div>` : "";
+  const why = j.has || j.missing ?
+    `<div class="why" title="${esc(j.detail || "")}">${j.has ? `<i>Has:</i> ${esc(j.has)}` : ""}${j.missing ? `<br><i>Missing:</i> <span class="miss">${esc(j.missing)}</span>` : ""}</div>` :
+    j.ai_why ? `<div class="why"><i>AI:</i> ${esc(j.ai_why)}${j.ai_score != null ? ` <i>(${j.ai_score})</i>` : ""}</div>` : "";
   const btn = (k, label) => `<button class="btn ${m === k ? "on" : ""}" data-u="${esc(j.uid)}" data-m="${k}">${label}</button>`;
   return `<div class="card ${m === "skipped" || m === "applied" ? "done" : ""}">
     <div class="score ${cls}" title="Match score">${s}</div>
