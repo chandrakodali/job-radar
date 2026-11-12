@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**316 jobs**, newest first. Updated Thu Nov 12, 3:51 PM CST from 7,552 company job boards and other sources.
+**316 jobs**, newest first. Updated Thu Nov 12, 4:12 PM CST from 7,552 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown.
 
@@ -8,7 +8,7 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 37 matching jobs that job sites and feeds listed this week, 9 (24%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 12 (47)](#thursday-nov-12-47) · [Wed 11 (38)](#wednesday-nov-11-38) · [Tue 10 (56)](#tuesday-nov-10-56) · [Mon 9 (63)](#monday-nov-9-63) · [Sun 8 (49)](#sunday-nov-8-49) · [Sat 7 (3)](#saturday-nov-7-3) · [Fri 6 (28)](#friday-nov-6-28) · [Thu 5 (32)](#thursday-nov-5-32)
+Jump to: [Thu 12 (47)](#thursday-nov-12-47) · [Wed 11 (39)](#wednesday-nov-11-39) · [Tue 10 (56)](#tuesday-nov-10-56) · [Mon 9 (63)](#monday-nov-9-63) · [Sun 8 (49)](#sunday-nov-8-49) · [Sat 7 (3)](#saturday-nov-7-3) · [Fri 6 (28)](#friday-nov-6-28) · [Thu 5 (31)](#thursday-nov-5-31)
 
 ## Thursday, Nov 12 (47)
 
@@ -62,7 +62,7 @@ Jump to: [Thu 12 (47)](#thursday-nov-12-47) · [Wed 11 (38)](#wednesday-nov-11-3
 | 1:00 AM (seen) | [Network Engineer](https://jobs.jobvite.com/jbs/job/oiO5Afwv) | JBS Foods | Richardson, Texas | 35 |  |
 | 1:00 AM (seen) | [Systems Reliability Engineer](https://jobs.jobvite.com/nutanix/job/osn3Afwc) | Nutanix |  | 55 | 2+ yrs exp; location unclear |
 
-## Wednesday, Nov 11 (38)
+## Wednesday, Nov 11 (39)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -94,6 +94,7 @@ Jump to: [Thu 12 (47)](#thursday-nov-12-47) · [Wed 11 (38)](#wednesday-nov-11-3
 | 6:00 PM | [Site Reliability Engineer, Reuters](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Site-Reliability-Engineer--Reuters_JREQ204669) | Thomson Reuters | United States of America, New York, New… (remote) | 62 |  |
 | 6:00 PM | [Senior Application Security Engineer](https://unitytech.wd1.myworkdayjobs.com/Unity/job/San-Francisco-CA-USA/Senior-Application-Security-Engineer_JOBREQ-2616715) | Unity | San Francisco, CA, USA +1 more | 55 | senior title, years not stated |
 | 6:00 PM | [Software engineer 1 – AI/ML Engineer (MLOps)](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Software-engineer-1---AI-ML-Engineer--Generative-AI-_2026-0027055) | U.S. Bank | Chicago, IL; Cupertino, CA; Irving, TX;… | 80 | entry-level title; E-Verify |
+| 6:00 PM | [ML Ops Engineer (R37)](https://r1rcm.wd1.myworkdayjobs.com/R1RCM/job/Remote-USA/Software-Engineer---ML-Ops--R37-_R260000007542) | R1 RCM | Remote, USA; R37 (remote) | 62 |  |
 | 4:13 PM | [Senior Software Engineer - Infrastructure Security Platform](https://job-boards.greenhouse.io/cssmerge/jobs/8938601002) | Atoms | Seattle, WA +1 more | 55 | senior title, years not stated; repost |
 | 2:45 PM | [DevOps Engineer](https://jobs.workable.com/view/ctLT2M6tHcohHg4nJWyFy7/hybrid-devops-engineer-in-minneapolis-at-accurant-international) | Accurant International | Minneapolis, Minnesota (hybrid) | 63 |  |
 | 2:34 PM | [Network Engineer](https://jobs.smartrecruiters.com/NBCUniversal3/744000161163099-network-engineer) | NBCUniversal | New York, NEW YORK, United States (hybrid) | 50 | 3+ yrs exp |
@@ -329,7 +330,7 @@ Jump to: [Thu 12 (47)](#thursday-nov-12-47) · [Wed 11 (38)](#wednesday-nov-11-3
 | 1:23 AM | [Senior Platform Engineer, Cloud (Xora Portfolio Company)](https://jobs.workable.com/view/9wkxkMzEo8BZKbNZdNu4bx/hybrid-senior-platform-engineer%2C-cloud-(xora-portfolio-company)-in-san-diego-at-xora-innovation) | Xora Innovation | San Diego, California (hybrid) | 48 | senior title, years not stated |
 | 1:23 AM | [Senior Data & ML Infrastructure Engineer (Xora Portfolio Company)](https://jobs.workable.com/view/2VHqNEh9pX2qhGhF33enqJ/hybrid-senior-data-%26-ml-infrastructure-engineer-(xora-portfolio-company)-in-san-diego-at-xora-innovation) | Xora Innovation | San Diego, California (hybrid) | 48 | senior title, years not stated |
 
-## Thursday, Nov 5 (32)
+## Thursday, Nov 5 (31)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -364,14 +365,15 @@ Jump to: [Thu 12 (47)](#thursday-nov-12-47) · [Wed 11 (38)](#wednesday-nov-11-3
 | 6:00 PM | [IT Platform Engineer Senior](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/IT-Platform-Engineer-Senior_JR105368) | University of Maryland - Coll… | University of Maryland College Park | 48 | 4+ yrs exp; senior title; no future H-1B sponsorship; likely H-1B cap… |
 | 5:45 PM | [Platform Engineer Sr. - AWS / Airflow](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8336965) | Thoughtworks | Chicago, Illinois, USA | 38 | senior title, years not stated; no future H-1B sponsorship |
 | 4:37 PM | [Junior Systems Administrator](https://job-boards.greenhouse.io/clarityinnovates/jobs/5281619007) | Clarity Innovations | Herndon, VA | 53 | entry-level title |
-| 4:08 PM | [Infrastructure Operations Engineer / SRE](https://job-boards.greenhouse.io/tenstorrent/jobs/5283701007) | Tenstorrent | Austin, Texas, United States; Santa Cla… | 53 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (594)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (597)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 4:10 PM | [Deployment Engineer (Field Operations)](https://jobs.ashbyhq.com/base-power/61564fba-61a0-4fe3-a71d-1c3325514e35) | Base Power | Austin, TX (onsite) | 55 | rules: adjacent title, little DevOps/cloud work in the text |
+| 3:56 PM | [Site Reliability Engineer](https://jobs.ashbyhq.com/blitzy/389140b3-d7f1-4891-8a7b-15952a66f15d) | Blitzy | Cambridge, MA (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 3:51 PM (seen) | [Senior Cloud Engineer / Req#4692](https://jobs.jobvite.com/actionet/job/oO9IAfwZ) | ActioNet | Remote, United States | 30 | rules: 7+ yrs exp; senior title; needs: security clearance |
 | 3:51 PM (seen) | [DevSecOps Engineer/Linux Administrator (Senior) / Req#4749](https://jobs.jobvite.com/actionet/job/odLYAfwg) | ActioNet | Remote, United States | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 3:51 PM (seen) | [Senior Cloud Engineer II / Req#4716](https://jobs.jobvite.com/actionet/job/oNWPAfwS) | ActioNet | Suitland, Maryland | 25 | rules: 8+ yrs exp; senior title; needs: U.S. Citizenship is required |
@@ -770,8 +772,6 @@ Jump to: [Thu 12 (47)](#thursday-nov-12-47) · [Wed 11 (38)](#wednesday-nov-11-3
 | 6:00 PM | [Senior Software Engineer, Platform Engineering](https://columbiasportswearcompany.wd5.myworkdayjobs.com/Columbia_Career_Site/job/Portland-Oregon-United-States-of-America/Senior-Software-Engineer--Platform-Engineering_R-027216-1) | Columbia Sportswear Company | Portland, Oregon, United States of Amer… | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 6:00 PM | [Senior Network Engineer, Product Software](https://equinix.wd1.myworkdayjobs.com/External/job/Dallas-Infomart-Office-DAI/Senior-Staff-Engineer--Product-Software_JR-163862) | Equinix | Dallas Infomart Office DAI (hybrid) | 20 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 6:00 PM | [Senior DevOps Platform Engineer](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-DevOps-Platform-Engineer_R-434335) | Humana | Louisville, KY; Charlotte, NC; Arlingto… | 30 | rules: 7+ yrs exp; senior title; needs: requires U.S. citizenship |
-| 6:00 PM | [Linux Systems Administrator – Dream Chaser Mission Systems (Sr System…](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Systems-Engineer-III---Mission-Systems_R25300) | Sierra Space | Louisville, CO | 25 | rules: senior title, years not stated; needs: Security Clearance |
-| 6:00 PM | [Senior Web Platform Engineer](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Senior-Web-Platform-Engineer_JR35651-1) | University of Chicago | Chicago, IL (hybrid) | 40 | rules: 5+ yrs exp; senior title; likely H-1B cap-exempt (verify); ask… |
 
 </details>
 
