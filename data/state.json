@@ -7620,17 +7620,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -8364,11 +8364,6 @@
    "n": 3,
    "since": "2026-11-07"
   },
-  "oracle:ehzq.fa.us2.oraclecloud.com|CX_1": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-12"
-  },
   "pinpoint:interactsoftware": {
    "disabled_until": "2026-11-16",
    "err": "robots.txt disallows /postings.json",
@@ -8662,11 +8657,6 @@
    "n": 3,
    "since": "2026-11-08"
   },
-  "workday:iqvia|wd1|IQVIA": {
-   "err": "HTTP 520",
-   "n": 1,
-   "since": "2026-11-12"
-  },
   "workday:kohls|wd1|kohlscareers": {
    "disabled_until": "2026-11-15",
    "err": "HTTP 422",
@@ -8889,7 +8879,7 @@
    "since": "2026-11-08"
   }
  },
- "found_cursor": 743,
+ "found_cursor": 2243,
  "last_digest": "2026-11-12",
  "resolved": {
   "airbnb": {
@@ -37075,6 +37065,7 @@
   "ashby:clera:ee2d16b1-fb2a-4b38-9eba-258efd4a6dc3": "2026-11-09",
   "ashby:codes-health:d92bc97b-bf23-4e3b-a045-2554581de297": "2026-11-11",
   "ashby:cohere:735f26a3-9456-49e2-8f84-23804534cfe4": "2026-11-07",
+  "ashby:cohere:dc881634-ca66-46e5-90ff-43ad83080de2": "2026-11-12",
   "ashby:creatoriq:e88a2ed2-52d8-45c7-9c6c-e372fec21cfb": "2026-11-09",
   "ashby:cursor:359cb8e6-77e8-4a77-be67-a39eb46d2c10": "2026-11-10",
   "ashby:cursor:39386c17-568f-4f9c-b8de-e641c092deaa": "2026-11-10",
@@ -37898,6 +37889,7 @@
   "jobvite:altamiracorps:o6PQAfw5": "2026-11-09",
   "jobvite:altamiracorps:o9O3Afwk": "2026-11-09",
   "jobvite:altamiracorps:oMc3Afwl": "2026-11-09",
+  "jobvite:altamiracorps:oO26Afwg": "2026-11-12",
   "jobvite:altamiracorps:oPnSAfwo": "2026-11-09",
   "jobvite:jbs:oiO5Afwv": "2026-11-12",
   "jobvite:liferay:opHyAfwY": "2026-11-11",
@@ -37948,6 +37940,7 @@
   "oracle:edel.fa.us2.oraclecloud.com|CX_2001:21684": "2026-11-08",
   "oracle:edel.fa.us2.oraclecloud.com|CX_2001:21761": "2026-11-08",
   "oracle:eedu.fa.em3.oraclecloud.com|CX_1003:202607088": "2026-11-11",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342848": "2026-11-12",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:346427": "2026-11-08",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:346429": "2026-11-08",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:348476": "2026-11-12",
@@ -38263,6 +38256,7 @@
   "sfrmk:careers.quality-ai.com:60890244": "2026-11-09",
   "sfrmk:careers.quality-ai.com:60891644": "2026-11-09",
   "sfrmk:careers.quality-ai.com:61496744": "2026-11-12",
+  "sfrmk:careers.quality-ai.com:61504344": "2026-11-12",
   "sfrmk:careers.safran-dsi.com:1448369700": "2026-11-09",
   "sfrmk:careers.westinghousenuclear.com:1360658600": "2026-11-09",
   "sfrmk:careers.westinghousenuclear.com:1361384200": "2026-11-09",
@@ -38404,6 +38398,7 @@
   "smartrecruiters:intuitive:744000158094960": "2026-11-07",
   "smartrecruiters:intuitive:744000160278219": "2026-11-07",
   "smartrecruiters:linkedin3:744000158161003": "2026-11-07",
+  "smartrecruiters:linkedin3:744000161375119": "2026-11-12",
   "smartrecruiters:nbcuniversal3:744000158379625": "2026-11-07",
   "smartrecruiters:nbcuniversal3:744000161163099": "2026-11-11",
   "smartrecruiters:prosidianconsulting:744000160287399": "2026-11-09",
@@ -38622,6 +38617,7 @@
   "workday:hastingsdirect|wd3|external_careers:60013763": "2026-11-09",
   "workday:hcsc|wd1|HCSC_External:R0056390": "2026-11-07",
   "workday:hendrick|wd5|HMSCareers:R-84180": "2026-11-08",
+  "workday:highmarkhealth|wd1|highmark:J286297": "2026-11-12",
   "workday:highmarkhealth|wd1|highmark:J290565": "2026-11-10",
   "workday:howard|wd1|HU:JR108799": "2026-11-11",
   "workday:hpe|wd5|acjobsite:1215300": "2026-11-08",
