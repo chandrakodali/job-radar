@@ -160,9 +160,9 @@ def test_workday_days(text, days):
     ("DevOps Engineer", "core"), ("Associate Site Reliability Engineer", "core"), ("SRE - New Grad", "core"),
     ("Cloud Support Engineer", "core"), ("Platform Engineer II", "core"), ("Linux Systems Administrator", "bridge"),
     ("NOC Technician", None), ("Data Center Technician", None), ("Production Engineer", "bridge"),
-    ("Senior DevOps Engineer", None), ("Sr. SRE", None), ("Staff Platform Engineer", None),
+    ("Senior DevOps Engineer", "core"), ("Sr. SRE", "core"), ("Staff Platform Engineer", None),
     ("DevOps Engineer Intern", None), ("Software Engineer", None), ("Systems Engineer (Missile Defense)", None),
-    ("Infrastructure Engineer, TS/SCI", None), ("Platform Engineering Manager", None), ("Cloud Engineer 3", None),
+    ("Infrastructure Engineer, TS/SCI", None), ("Platform Engineering Manager", None), ("Cloud Engineer 3", "core"), ("Cloud Engineer 4", None),
     ("Solutions Architect - DevOps", None), ("Embedded Systems Engineer", None),
     ("Associate, Corporate Paralegal - Global Infrastructure", None), ("Maintenance Reliability Engineer", None),
     ("Power panels - Design Release Engineer", None), ("Test Infrastructure Technician I", None),
@@ -225,7 +225,15 @@ def test_assess_old_and_senior_years(rules):
     b = Board("greenhouse", "acme", "Acme")
     assert assess(_job(posted_at=NOW - timedelta(days=40)), b, rules, "core", now=NOW).status == "old"
     a = assess(_job(description="8+ years of experience with Kubernetes"), b, rules, "core", now=NOW)
-    assert a.status == "quiet" and a.years == 8
+    assert a.status == "blocked" and a.years == 8 and "asks for 8+ years of experience" in a.flags
+    # under 5 years is kept; a "5+ years preferred" line does not count; ranges count by their low end
+    a = assess(_job(description="Requirements: 3+ years of experience with Linux.\nPreferred: 5+ years of experience in SRE."),
+               b, rules, "core", now=NOW)
+    assert a.status != "blocked" and a.years == 3
+    assert assess(_job(description="3-5 years of experience in DevOps"), b, rules, "core", now=NOW).years == 3
+    # senior titles: kept; marked when the text states no years
+    a = assess(_job(title="Senior DevOps Engineer", description="Build CI/CD pipelines on AWS."), b, rules, "core", now=NOW)
+    assert a.status != "blocked" and "senior title, years not stated" in a.flags
 
 
 def test_assess_no_sponsorship_flag(rules):
@@ -281,16 +289,16 @@ def test_full_run(tmp_path, monkeypatch):
     assert M.main(["--dry-run"]) == 0
     st = json.loads((tmp_path / "state.json").read_text())
     assert st["bootstrapped"] and "greenhouse:acme:1" in st["seen"] and "lever:beta:L1" in st["seen"]
-    assert "greenhouse:acme:2" not in st["seen"]          # senior title never stored
+    assert "greenhouse:acme:2" in st["seen"]              # senior titles are judged on the years asked
     assert st["fails"]["greenhouse:gone"]["n"] == 1
     rows = list(csv.DictReader(open(tmp_path / "matches.csv")))
     by = {r["uid"]: r for r in rows}
-    assert set(by) == {"greenhouse:acme:1"}
-    assert by["greenhouse:acme:1"]["status"] == "alert"
+    assert set(by) == {"greenhouse:acme:1", "greenhouse:acme:2"}
+    assert by["greenhouse:acme:1"]["status"] == "alert" and "senior title" in by["greenhouse:acme:2"]["flags"]
     rej = list(csv.DictReader(open(tmp_path / "rejected.csv")))
     assert [r["uid"] for r in rej] == ["lever:beta:L1"] and rej[0]["reject_reason"].startswith("rules:")
     rep = (tmp_path / "REPORT.md").read_text()
-    assert "Associate DevOps Engineer" in rep and "Hidden from alerts" in rep
+    assert "Associate DevOps Engineer" in rep and "## Left out" in rep and "newest first" in rep
     page = (tmp_path / "docs" / "index.html").read_text()
     assert "Associate DevOps Engineer" in page and "const DATA = {" in page and "/*DATA*/" not in page
 
@@ -304,7 +312,7 @@ def test_full_run(tmp_path, monkeypatch):
     assert M.main([]) == 0
     assert sent == ["greenhouse:acme:4"]
     rows = list(csv.DictReader(open(tmp_path / "matches.csv")))
-    assert len(rows) == 2   # nothing duplicated
+    assert len(rows) == 3   # nothing duplicated (1, 2 and 4)
 
     # third run: three 404s disable the dead board
     M.main(["--dry-run"])
@@ -423,6 +431,8 @@ def test_ai_review_in_run(tmp_path, monkeypatch):
         monkeypatch.delenv(var, raising=False)
     monkeypatch.setenv("GEMINI_API_KEY", "test")
     monkeypatch.setattr(ai.time, "sleep", lambda s: None)
+    real_load = M.load_config      # the DevOps profile turns the AI check off; turn it on for this test
+    monkeypatch.setattr(M, "load_config", lambda *a, **k: {**real_load(*a, **k), "ai": {"max_requests_per_run": 6}})
     now = datetime.now(timezone.utc)
     monkeypatch.setattr(M, "load_boards", lambda: [Board("greenhouse", "acme", "Acme")])
     monkeypatch.setattr(M, "load_discovered", lambda known, *a, **k: [])

@@ -212,6 +212,38 @@ class CC:
                         continue
 
 
+# ------------------------------------------------------------------ employers seen on other sources
+
+SLUG_SYSTEMS = ("greenhouse", "lever", "ashby", "workable", "smartrecruiters")
+_SUFFIX = re.compile(r"\b(inc|llc|ltd|corp(oration)?|co|company|group|holdings|technologies|usa|us)\b\.?", re.I)
+
+
+def missed_company_slugs(known: set[str]):
+    names = set()
+    for path in (os.path.join(ROOT, "data", "state.json"), os.path.join(ROOT, "data", "automotive", "state.json")):
+        try:
+            with open(path, encoding="utf-8") as f:
+                names |= set((json.load(f).get("missed_companies") or {}).keys())
+        except (OSError, ValueError):
+            continue
+    lca = []    # employers that filed for DevOps/SRE/cloud titles (scripts/lca_employers.py --devops)
+    path = os.path.join(ROOT, "lca_employers_devops.csv")
+    if os.path.exists(path):
+        with open(path, newline="", encoding="utf-8") as f:
+            lca = [r["employer"] for r in csv.DictReader(f) if not r.get("watched")][:2000]
+    for name, systems in [(n, SLUG_SYSTEMS) for n in sorted(names)] + [(n, SLUG_SYSTEMS[:3]) for n in lca]:
+        base = re.sub(r"[^a-z0-9 ]+", " ", _SUFFIX.sub(" ", name.lower())).split()
+        if not base:
+            continue
+        slugs = ["".join(base), "-".join(base)] if systems is SLUG_SYSTEMS else ["".join(base)]
+        for slug in dict.fromkeys(slugs):
+            if len(slug) < 3:
+                continue
+            for ats in systems:
+                if f"{ats}:{slug}" not in known:
+                    yield ats, slug
+
+
 # ------------------------------------------------------------------ validation
 
 def known_keys() -> set[str]:
@@ -259,12 +291,17 @@ def main(argv=None) -> int:
     args = ap.parse_args(argv)
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     only = {x.strip() for x in args.only.split(",") if x.strip()}
-    cc = CC(args.crawls, args.max_pages, args.budget_min * 60 * 0.5)
+    index_budget = args.budget_min * 60 * 0.45
+    index_end = time.monotonic() + index_budget
+    cc = CC(args.crawls, args.max_pages, index_budget)
     known = known_keys()
     found: dict[str, set[str]] = defaultdict(set)
-    for ats, patterns, ex in SOURCES:
-        if only and ats not in only:
-            continue
+    systems = [s for s in SOURCES if not only or s[0] in only]
+    # Each system gets an equal share of the index time (unused time passes to the next), so a slow
+    # system can no longer use it all up and leave the others unread.
+    for i, (ats, patterns, ex) in enumerate(systems):
+        cc.deadline = time.monotonic() + max(0.0, index_end - time.monotonic()) / (len(systems) - i)
+        cc.failures_in_row = 0
         seen_lower = set()
         try:
             for pat in patterns:
@@ -277,10 +314,14 @@ def main(argv=None) -> int:
                         seen_lower.add(b.lower())
                         found[ats].add(b)
         except TimeoutError as e:
-            log.warning("Index phase stopped at %s: %s", ats, e)
-            log.info("%s: %d new candidate boards", ats, len(found[ats]))
-            break
+            log.warning("Index phase for %s stopped: %s", ats, e)
         log.info("%s: %d new candidate boards", ats, len(found[ats]))
+
+    # Employers other job sources listed whose own board the radar does not read yet (kept by the radar
+    # in its state files): try their name as a board on the systems that use plain company slugs.
+    for ats, b in missed_company_slugs(known):
+        found[ats].add(b)
+    log.info("Candidates from employers seen on other job sources: %d", sum(1 for _ in missed_company_slugs(known)))
 
     # Check each candidate once with the radar's own reader.
     sems = defaultdict(lambda: threading.Semaphore(6))
@@ -296,11 +337,14 @@ def main(argv=None) -> int:
                 time.sleep(1.5)
             return ats, check(ats, board)
 
-    todo = []
+    lists = []
     for ats, boards in found.items():
         boards = sorted(boards)
         random.shuffle(boards)
-        todo += [(ats, b) for b in boards[: args.max_new]]
+        lists.append([(ats, b) for b in boards[: args.max_new]])
+    todo = []    # round-robin across systems, so every system gets checked before time runs out
+    for i in range(max((len(x) for x in lists), default=0)):
+        todo += [x[i] for x in lists if i < len(x)]
     kept, stats = [], Counter()
     with ThreadPoolExecutor(max_workers=24) as pool:
         for fut in as_completed([pool.submit(run, a, b) for a, b in todo]):

@@ -34,7 +34,7 @@ from . import deep
 from .models import Board, Job
 from .notify import Notifier
 from .dashboard import build_dashboard, write_dashboard
-from .report import build_report, write_report
+from .report import build_newest_report, build_report, write_report
 from . import ats_more, robots
 from .ai import Reviewer
 from . import ai_fit
@@ -265,6 +265,7 @@ def run(args) -> int:
 
     candidates: list[tuple[Job, Board, str, bool]] = []
     src_cfg = cfg.get("sources") or {}
+    missed_companies: Counter = Counter()   # employers other sources list whose own board we don't read
     want_sources = bool(src_cfg)
     scanned_keys: set[str] = set()   # company + title of every job the boards list (to skip the same job from alerts)
     coverage: dict[str, dict] = {}   # focus board -> jobs it listed this run (or its error)
@@ -335,10 +336,41 @@ def run(args) -> int:
             got = _sources.adzuna_jobs(state, src_cfg["adzuna"], now, stats=stats)
             stats["source_adzuna"] = len(got)
             extra += got
+        more = [("workable_search", lambda c: _sources.workable_search_jobs(c, now, stats=stats)),
+                ("hn", lambda c: _sources.hn_jobs(c, lambda t: title_category(t, rules) in ("core", "bridge"), now)),
+                ("remoteok", lambda c: _sources.remoteok_jobs(c, now)),
+                ("wwr", lambda c: _sources.wwr_jobs(c, now)),
+                ("usajobs", lambda c: _sources.usajobs_jobs(c, stats=stats))]
+        last_read = state.setdefault("source_last", {})
+        for name, fetch in more:
+            c = src_cfg.get(name)
+            if not c or time.monotonic() > deadline + 60:
+                continue
+            every = int(c.get("every_minutes", 0)) if isinstance(c, dict) else 0
+            if every and last_read.get(name) and \
+                    now - datetime.fromisoformat(last_read[name]) < timedelta(minutes=every - 5):
+                continue
+            last_read[name] = now.isoformat()
+            if True:
+                try:
+                    got = fetch(src_cfg[name])
+                except Exception as e:  # one odd source must not stop the run
+                    log.warning("Source %s failed: %s", name, str(e)[:120])
+                    got = []
+                stats[f"source_{name}"] = len(got)
+                extra += got
         saved_keys = {_sources.norm_key(r["company"], r["title"]) for r in read_matches(since=now - timedelta(days=60))}
         taken = set()
         for j in extra:
             k = _sources.norm_key(j.company, j.title)
+            relevant = title_category(j.title, rules) in ("core", "bridge") and \
+                classify_location(j.location, j.countries) != "non_us"
+            if relevant:        # how many of the jobs other sources list the employer boards already had
+                stats["recall_total"] += 1
+                if k in scanned_keys:
+                    stats["recall_on_boards"] += 1
+                else:
+                    missed_companies[j.company] += 1
             if k in scanned_keys or k in saved_keys or k in taken:
                 stats["source_dupes"] += 1
                 continue
@@ -688,6 +720,26 @@ def run(args) -> int:
                                         int(prof.get("report_days", 60)))
         stats["focus_zero"] = sum(1 for c in coverage.values() if not c.get("listed"))
         stats["focus_full"] = sum(1 for c in coverage.values() if c.get("complete"))
+    # Board recall over the last 7 days: of the matching jobs other sources listed, how many the employer
+    # boards had too. Employers missed are kept so the board finder can look for their boards.
+    report_extra: list[str] = []
+    if want_sources:
+        rec = state.setdefault("recall", {})
+        on, tot = rec.get(today, [0, 0])
+        rec[today] = [on + stats["recall_on_boards"], tot + stats["recall_total"]]
+        for d in [d for d in rec if d < (now - timedelta(days=7)).date().isoformat()]:
+            del rec[d]
+        w_on, w_tot = sum(v[0] for v in rec.values()), sum(v[1] for v in rec.values())
+        miss = state.setdefault("missed_companies", {})
+        for c in missed_companies:
+            if c and c.strip():
+                miss[c.strip()] = today
+        for c in [c for c, d in miss.items() if d < (now - timedelta(days=45)).date().isoformat()]:
+            del miss[c]
+        if w_tot:
+            report_extra = [f"Coverage check: of {w_tot:,} matching jobs that job sites and feeds listed this week, "
+                            f"{w_on:,} ({100 * w_on // w_tot}%) were already found on the employers' own boards; "
+                            f"the rest are listed from those sources.", ""]
     pruned = prune_seen(state)
     robot.prune()
     state["bootstrapped"] = True
@@ -695,7 +747,12 @@ def run(args) -> int:
         save_state(state)
         from .calibrate import handled_uids
         handled = handled_uids(os.path.dirname(CONFIG_PATH)) if FOCUS_PATH else set()
-        write_report(build_report(tz_name, total_boards, now=now, profile=prof, closed=set(closed), handled=handled))
+        view = cfg.get("report") or {}
+        if view.get("order") == "newest":
+            write_report(build_newest_report(tz_name, total_boards, now=now, view=view, closed=set(closed),
+                                             extra_lines=report_extra))
+        else:
+            write_report(build_report(tz_name, total_boards, now=now, profile=prof, closed=set(closed), handled=handled))
         if rules.ranker is not None:      # SKILLS_<PROFILE>.md next to the report
             import radar.report as _report
             current = [r for r in read_matches(since=now - timedelta(days=int(prof.get("report_days", 60))))
@@ -707,7 +764,7 @@ def run(args) -> int:
                 with open(path, "w", encoding="utf-8") as f:
                     f.write(md)
         write_dashboard(build_dashboard(tz_name, total_boards, ai_desc, now=now, profile=prof,
-                                        closed=set(closed)))
+                                        closed=set(closed), newest=view.get("order") == "newest"))
 
     elapsed = time.monotonic() - t0
     ok = {k[3:]: v for k, v in stats.items() if k.startswith("ok_")}
@@ -735,8 +792,11 @@ def run(args) -> int:
         )
     if want_sources:
         summary += (f" Other sources: {stats['source_email']} jobs from alert emails, {stats['source_adzuna']} from "
-                    f"Adzuna ({stats['adzuna_calls']} calls), {stats['source_dupes']} already on employer boards, "
-                    f"{stats['source_candidates']} new candidates.")
+                    f"Adzuna ({stats['adzuna_calls']} calls), {stats['source_workable_search']} from Workable search, "
+                    f"{stats['source_hn']} from HN, {stats['source_remoteok']} from Remote OK, {stats['source_wwr']} "
+                    f"from WWR, {stats['source_usajobs']} from USAJOBS; {stats['source_dupes']} already known, "
+                    f"{stats['source_candidates']} new candidates. Board recall: {stats['recall_on_boards']}/"
+                    f"{stats['recall_total']} matching jobs from other sources were already on employer boards.")
     if focus:
         summary += (f" Employer boards: {len(coverage)} read, {stats['focus_full']} read completely, "
                     f"{stats['focus_zero']} listed nothing or failed (see coverage.csv).")

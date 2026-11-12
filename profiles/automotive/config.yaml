@@ -126,7 +126,8 @@ sources:
   email_alerts: true       # JOB_ALERTS_EMAIL + JOB_ALERTS_APP_PASSWORD: LinkedIn/Indeed/Dice/ZipRecruiter/Glassdoor alert emails
   email_days: 4
   adzuna:                  # ADZUNA_APP_ID + ADZUNA_APP_KEY (free key at developer.adzuna.com)
-    calls_per_run: 10      # 8 runs a day = 80 calls, inside the free 2,500 a month
+    calls_per_run: 4       # 8 runs a day = 32 calls; the free key is shared with the DevOps radar
+    limits: {d: 40, w: 230, m: 1000}
     max_days_old: 7
     terms:
       - 'AUTOSAR'

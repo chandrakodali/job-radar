@@ -21,9 +21,11 @@ import imaplib
 import logging
 import os
 import re
+import time
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 
-from .http import FetchError, get_json
+from .http import FetchError, get_json, get_text
 from .models import Board, Job
 
 log = logging.getLogger("radar.sources")
@@ -142,6 +144,7 @@ def read_alert_emails(state: dict, days: int = 4, max_messages: int = 200, env=o
 
 ADZUNA = "https://api.adzuna.com/v1/api/jobs/us/search/{page}"
 LIMITS = {"d": 240, "w": 950, "m": 2400}     # under Adzuna's free 250 / 1,000 / 2,500
+# Two profiles share one free key, so each profile's config sets its own part, e.g. limits: {d: 50, w: 350, m: 1400}
 
 
 def _budget(state: dict, now: datetime) -> dict:
@@ -165,12 +168,14 @@ def adzuna_jobs(state: dict, cfg: dict, now: datetime | None = None, env=os.envi
     if not terms:
         return []
     per_run = int(cfg.get("calls_per_run", 10))
+    lim = {**LIMITS, **{k: int(v) for k, v in (cfg.get("limits") or {}).items() if k in LIMITS}}
+    lim = {k: min(v, LIMITS[k]) for k, v in lim.items()}
     c = _budget(state, now)
     start = int(state.get("adzuna_cursor", 0)) % len(terms)
     out: dict[str, Job] = {}
     calls = 0
     for i in range(len(terms)):
-        if calls >= per_run or c["d"] >= LIMITS["d"] or c["w"] >= LIMITS["w"] or c["m"] >= LIMITS["m"]:
+        if calls >= per_run or c["d"] >= lim["d"] or c["w"] >= lim["w"] or c["m"] >= lim["m"]:
             break
         term = terms[(start + i) % len(terms)]
         try:
@@ -223,3 +228,285 @@ def norm_key(company: str, title: str) -> str:
 def source_board(job: Job) -> Board:
     names = {"adzuna": "Jobs by Adzuna"}
     return Board(ats=job.ats, board=job.board, company=job.company or names.get(job.ats, job.board.title() + " alert"))
+
+
+# ---------------------------------------------------------------- shared helpers
+
+def _iso(s) -> datetime | None:
+    try:
+        d = datetime.fromisoformat(str(s).replace("Z", "+00:00"))
+    except (TypeError, ValueError):
+        return None
+    return d if d.tzinfo else d.replace(tzinfo=timezone.utc)
+
+
+def _fresh(d: datetime | None, now: datetime, days: int) -> bool:
+    return d is None or now - d <= timedelta(days=days)
+
+
+# ---------------------------------------------------------------- Workable job search (all Workable employers)
+# jobs.workable.com is Workable's public job search across every company that uses it; its robots.txt
+# disallows only /search?, not this API. One query returns jobs in order of relevance, so each query is
+# read to the end (or `max_pages`) and kept to jobs created in the last `days`.
+
+WORKABLE_SEARCH = "https://jobs.workable.com/api/v1/jobs"
+
+
+def workable_search_jobs(cfg: dict, now: datetime | None = None, stats=None) -> list[Job]:
+    now = now or datetime.now(timezone.utc)
+    days = int(cfg.get("days", 7))
+    out: dict[str, Job] = {}
+    for term in cfg.get("terms") or []:
+        token, pages, first_ids = None, 0, set()
+        while pages < int(cfg.get("max_pages", 40)):
+            params = {"query": term, "location": "United States"}
+            if token:
+                params["pageToken"] = token
+            try:
+                data = get_json(WORKABLE_SEARCH, params=params)
+            except FetchError as e:
+                log.warning("Workable search %r: %s", term, e)
+                break
+            pages += 1
+            if stats is not None:
+                stats["workable_search_calls"] += 1
+            jobs = data.get("jobs") or []
+            ids = {str(r.get("id")) for r in jobs}
+            if not jobs or ids <= first_ids:      # the token was ignored: stop instead of looping
+                break
+            first_ids |= ids
+            for r in jobs:
+                created = _iso(r.get("created"))
+                if not _fresh(created, now, days):
+                    continue
+                loc = r.get("location") or {}
+                if (loc.get("countryName") or "United States") != "United States":
+                    continue
+                place = ", ".join(x for x in (loc.get("city"), loc.get("subregion")) if x)
+                remote = "TELECOMMUTE" in (r.get("locations") or []) or r.get("workplace") == "remote"
+                desc = _text(" ".join(str(r.get(k) or "") for k in ("description", "requirementsSection", "benefitsSection")))
+                jid = str(r.get("id"))
+                out[jid] = Job(ats="workable_search", board="all", job_id=jid,
+                               company=((r.get("company") or {}).get("title") or "")[:80],
+                               title=_text(r.get("title") or "")[:150],
+                               location=(place + (" (remote)" if remote and place else "") or ("Remote, US" if remote else "")),
+                               url=r.get("url") or "", posted_at=created, description=desc,
+                               countries=["United States"],
+                               workplace={"remote": "remote", "hybrid": "hybrid", "on_site": "onsite"}.get(r.get("workplace") or "", ""),
+                               found_by=term)
+            token = data.get("nextPageToken")
+            if not token:
+                break
+            time.sleep(0.3)
+    return list(out.values())
+
+
+# ---------------------------------------------------------------- Hacker News "Who is hiring?"
+# The monthly thread by the whoishiring account, read through the official Algolia HN API. Each top-level
+# comment is one employer's post: "Company | Role(s) | Location | Remote/Onsite | ...". Only comments from
+# the last `days` days are read.
+
+HN_SEARCH = "https://hn.algolia.com/api/v1/search_by_date"
+HN_ITEM = "https://hn.algolia.com/api/v1/items/{id}"
+
+
+def hn_jobs(cfg: dict, title_ok, now: datetime | None = None) -> list[Job]:
+    """`title_ok(text) -> bool` says whether a role name is one we want."""
+    now = now or datetime.now(timezone.utc)
+    days = int(cfg.get("days", 7))
+    try:
+        stories = get_json(HN_SEARCH, params={"tags": "story,author_whoishiring", "hitsPerPage": 6}).get("hits") or []
+    except FetchError as e:
+        log.warning("HN search: %s", e)
+        return []
+    out = []
+    for st in stories:
+        if "who is hiring" not in (st.get("title") or "").lower():
+            continue
+        if now - (_iso(st.get("created_at")) or now) > timedelta(days=40):
+            continue
+        try:
+            item = get_json(HN_ITEM.format(id=st["objectID"]))
+        except FetchError as e:
+            log.warning("HN thread: %s", e)
+            continue
+        for c in item.get("children") or []:
+            posted = _iso(c.get("created_at"))
+            if not c.get("text") or not _fresh(posted, now, days):
+                continue
+            out.extend(_hn_post(c, posted, title_ok))
+    return out
+
+
+_ROLE_SPLIT = re.compile(r"\s*(?:;|,|/| - | – |\band\b|&)\s*", re.I)
+
+
+def _hn_post(c: dict, posted, title_ok) -> list[Job]:
+    paras = [_text(p) for p in re.split(r"<p>|<br\s*/?>", c["text"])]
+    paras = [p for p in paras if p]
+    if not paras:
+        return []
+    first, text = paras[0], "\n".join(paras)
+    parts = [p.strip() for p in first.split("|") if p.strip()]
+    if len(parts) < 2:
+        return []
+    company = re.sub(r"\s*\(.*?\)", "", parts[0])[:80]
+    loc_part = next((p for p in parts[1:] if re.search(r"\b(remote|onsite|on-site|hybrid|us|usa|united states|"
+                                                         r"[A-Z][a-z]+,\s*[A-Z]{2}|new york|nyc|sf|san francisco|"
+                                                         r"seattle|austin|boston|chicago)\b", p, re.I)), "")
+    roles = []
+    for p in parts[1:]:
+        if not title_ok(p):
+            continue
+        pieces = [r.strip() for r in _ROLE_SPLIT.split(p) if r.strip()]
+        good = [r for r in pieces if title_ok(r) and len(r) <= 90]
+        roles += good or ([p] if len(p) <= 90 else [])
+    if not roles:   # roles listed further down ("We're hiring: - SRE ...")
+        for line in paras[1:25]:
+            line = re.sub(r"^[\s*•\-–]+", "", line).strip()
+            if 4 <= len(line) <= 90 and title_ok(line):
+                roles.append(line)
+    jobs = []
+    for i, r in enumerate(dict.fromkeys(roles)):
+        jobs.append(Job(ats="hn", board="whoishiring", job_id=f"{c['id']}-{i}", company=company, title=r[:150],
+                        location=loc_part[:80], url=f"https://news.ycombinator.com/item?id={c['id']}",
+                        posted_at=posted, description=text[:20000],
+                        workplace="remote" if re.search(r"\bremote\b", loc_part, re.I) else ""))
+    return jobs
+
+
+# ---------------------------------------------------------------- Remote OK
+# Public API; its terms ask for a link back to Remote OK and a mention of it as the source (both in the
+# report). The first element of the list is the legal notice, not a job.
+
+REMOTEOK = "https://remoteok.com/api"
+_WORLDWIDE = re.compile(r"worldwide|anywhere|global|remote|united states|\busa?\b|north america|americas|\bus[- ]only", re.I)
+
+
+def _remote_place(loc: str) -> str:
+    """'' when a remote job is not open to people in the US; otherwise a location the US filter accepts."""
+    loc = (loc or "").strip()
+    if not loc or _WORLDWIDE.search(loc):
+        return f"Remote, US ({loc})" if loc and not re.search(r"\bus|usa|united states", loc, re.I) else (loc or "Remote, US")
+    return loc
+
+
+def remoteok_jobs(cfg: dict, now: datetime | None = None) -> list[Job]:
+    now = now or datetime.now(timezone.utc)
+    days = int(cfg.get("days", 7))
+    try:
+        data = get_json(REMOTEOK, params={"tag": cfg["tag"]} if cfg.get("tag") else None)
+    except FetchError as e:
+        log.warning("Remote OK: %s", e)
+        return []
+    out = []
+    for r in data if isinstance(data, list) else []:
+        if not isinstance(r, dict) or not r.get("id") or not r.get("position"):
+            continue
+        posted = _iso(r.get("date"))
+        if not _fresh(posted, now, days):
+            continue
+        out.append(Job(ats="remoteok", board="remoteok", job_id=str(r["id"]), company=(r.get("company") or "")[:80],
+                       title=_text(r.get("position"))[:150], location=_remote_place(r.get("location") or ""),
+                       url=r.get("url") or f"https://remoteok.com/remote-jobs/{r['id']}", posted_at=posted,
+                       description=_text(r.get("description") or "") + "\nTags: " + ", ".join(r.get("tags") or []),
+                       workplace="remote"))
+    return out
+
+
+# ---------------------------------------------------------------- We Work Remotely (RSS)
+# The category RSS feed; each item links back to We Work Remotely, which is credited in the report.
+
+def wwr_jobs(cfg: dict, now: datetime | None = None) -> list[Job]:
+    now = now or datetime.now(timezone.utc)
+    days = int(cfg.get("days", 7))
+    out = []
+    for feed in cfg.get("feeds") or ["https://weworkremotely.com/categories/remote-devops-sysadmin-jobs.rss"]:
+        try:
+            root = ET.fromstring(get_text(feed, accept="application/rss+xml, application/xml, text/xml"))
+        except (FetchError, ET.ParseError) as e:
+            log.warning("We Work Remotely feed: %s", e)
+            continue
+        for it in root.iter("item"):
+            g = lambda tag: (it.findtext(tag) or "").strip()
+            posted = None
+            try:
+                posted = email.utils.parsedate_to_datetime(g("pubDate"))
+            except (TypeError, ValueError):
+                pass
+            if not _fresh(posted, now, days):
+                continue
+            company, _, title = g("title").partition(":")
+            if not title:
+                company, title = "", company
+            link = g("link") or g("guid")
+            jid = hashlib.sha1(link.encode()).hexdigest()[:16]
+            out.append(Job(ats="wwr", board="weworkremotely", job_id=jid, company=company.strip()[:80],
+                           title=title.strip()[:150], location=_remote_place(g("region")), url=link,
+                           posted_at=posted, description=_text(g("description")), workplace="remote"))
+    return out
+
+
+# ---------------------------------------------------------------- USAJOBS (federal jobs)
+# Official API with a free key (developer.usajobs.gov). Secrets: USAJOBS_API_KEY and USAJOBS_EMAIL (the
+# email the key was requested with; sent as the User-Agent, as the API requires). Most federal jobs require
+# US citizenship; who may apply and the clearance are added to the job text so the usual citizenship and
+# clearance rules leave those out.
+
+USAJOBS = "https://data.usajobs.gov/api/search"
+
+
+def usajobs_jobs(cfg: dict, env=os.environ, stats=None) -> list[Job]:
+    key, mail = (env.get("USAJOBS_API_KEY") or "").strip(), (env.get("USAJOBS_EMAIL") or "").strip()
+    if not key or not mail:
+        return []
+    headers = {"Host": "data.usajobs.gov", "User-Agent": mail, "Authorization-Key": key}
+    out: dict[str, Job] = {}
+    queries = [{"Keyword": k} for k in cfg.get("keywords") or []]
+    if cfg.get("series"):
+        queries.append({"JobCategoryCode": ";".join(str(x) for x in cfg["series"])})
+    for q in queries:
+        page = 1
+        while page <= 5:
+            try:
+                data = get_json(USAJOBS, params={**q, "DatePosted": int(cfg.get("days", 7)), "ResultsPerPage": 500,
+                                                 "Page": page}, headers=headers)
+            except FetchError as e:
+                log.warning("USAJOBS %s: %s", q, e)
+                break
+            if stats is not None:
+                stats["usajobs_calls"] += 1
+            res = (data.get("SearchResult") or {})
+            items = res.get("SearchResultItems") or []
+            for it in items:
+                d = it.get("MatchedObjectDescriptor") or {}
+                pid = str(d.get("PositionID") or it.get("MatchedObjectId") or "")
+                if not pid:
+                    continue
+                locs = d.get("PositionLocation") or []
+                if locs and not any((l.get("CountryCode") or "").lower() in ("united states", "us", "usa") or
+                                    (l.get("CountrySubDivisionCode") or "") for l in locs):
+                    continue
+                det = (d.get("UserArea") or {}).get("Details") or {}
+                who = (det.get("WhoMayApply") or {}).get("Name") or ""
+                clearance = str(det.get("SecurityClearance") or "")
+                hiring = ", ".join(det.get("HiringPath") or [])
+                extra = []
+                if re.search(r"citizen|public", f"{who} {hiring}", re.I) and not re.search(r"non-?citizen", who, re.I):
+                    extra.append("Requires U.S. citizenship.")
+                if clearance and not re.search(r"not (required|applicable)|^none$|^$", clearance, re.I):
+                    extra.append(f"Requires a {clearance} security clearance.")
+                desc = _text(" ".join([*extra, f"Who may apply: {who}.", f"Hiring paths: {hiring}.",
+                                       str(det.get("MajorDuties") or ""), str(d.get("QualificationSummary") or ""),
+                                       str(det.get("Requirements") or ""), str(det.get("Education") or "")]))
+                place = d.get("PositionLocationDisplay") or ""
+                out[pid] = Job(ats="usajobs", board="federal", job_id=pid,
+                               company=(d.get("OrganizationName") or d.get("DepartmentName") or "")[:80],
+                               title=_text(d.get("PositionTitle") or "")[:150], location=place[:120],
+                               url=d.get("PositionURI") or "", posted_at=_iso(d.get("PublicationStartDate")),
+                               description=desc, countries=["United States"])
+            total = int(res.get("SearchResultCountAll") or 0)
+            if page * 500 >= total or not items:
+                break
+            page += 1
+    return list(out.values())

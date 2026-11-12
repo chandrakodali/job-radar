@@ -33,7 +33,7 @@ concurrency:
 jobs:
   scan:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 40
     steps:
       # The branch's latest commit, not the one the run was queued at, so a run that waited starts from the
       # results the previous run saved (otherwise saving can fail on a conflict).
@@ -59,6 +59,14 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+          # Optional extra job sources (each turns on when its secrets exist; see radar/sources.py)
+          JOB_ALERTS_EMAIL: ${{ secrets.JOB_ALERTS_EMAIL }}
+          JOB_ALERTS_APP_PASSWORD: ${{ secrets.JOB_ALERTS_APP_PASSWORD }}
+          JOB_ALERTS_IMAP_HOST: ${{ secrets.JOB_ALERTS_IMAP_HOST }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
         run: |
           ARGS=""
           if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="--dry-run --no-write"; fi

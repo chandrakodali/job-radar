@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import os
+import re
 from datetime import datetime, timedelta, timezone
 from zoneinfo import ZoneInfo
 
@@ -137,6 +138,149 @@ def build_report(tz_name: str, boards_total: int, now: datetime | None = None, p
         lines += ["", "Some listings: [Jobs by Adzuna](https://www.adzuna.com)."]
     lines.append("")
     return "\n".join(lines)
+
+
+# ------------------------------------------------------------------ newest-first weekly view
+
+_LEVEL = re.compile(r"[^a-z0-9+#]+")
+
+
+def dup_key(r: dict) -> str:
+    """Same company and same title: one row, however many places or sources list it."""
+    c = re.sub(r"\b(inc|llc|ltd|corp(oration)?|co|company|group)\b\.?", " ", (r.get("company") or "").lower())
+    t = re.sub(r"\(.*?\)|\[.*?\]|\s[-–|]\s.*$", " ", (r.get("title") or "").lower())
+    return _LEVEL.sub(" ", c).strip() + "|" + _LEVEL.sub(" ", t).strip()
+
+
+AGGREGATORS = ("adzuna", "alert", "workable_search", "hn", "remoteok", "wwr", "usajobs")
+
+
+def posted_time(r: dict) -> datetime:
+    """When the job was posted; when the board doesn't say, when the radar first saw it."""
+    d = None
+    if r.get("posted"):
+        try:
+            d = datetime.fromisoformat(r["posted"])
+        except ValueError:
+            d = None
+    d = d or r["_first_seen"]
+    return d if d.tzinfo else d.replace(tzinfo=timezone.utc)
+
+
+def collapse(rows: list[dict]) -> tuple[list[dict], int]:
+    """Merge rows that are the same job (one company, one title) listed in several places or on several
+    sources. The company's own board wins over an aggregator; the newest posting time is kept; the other
+    places are added to the location. Returns the rows and how many were merged away."""
+    groups: dict[str, list[dict]] = {}
+    for r in rows:
+        groups.setdefault(dup_key(r), []).append(r)
+    out = []
+    for g in groups.values():
+        g.sort(key=lambda r: (str(r.get("ats", "")).startswith(AGGREGATORS), -posted_time(r).timestamp()))
+        keep = dict(g[0])
+        keep["_t"] = max(posted_time(r) for r in g)
+        places = []
+        for r in g:
+            loc = (r.get("location") or "").strip()
+            if loc and loc not in places:
+                places.append(loc)
+        if len(places) > 1:
+            keep["location"] = places[0] + f" +{len(places) - 1} more"
+        keep["_dups"] = len(g) - 1
+        out.append(keep)
+    return out, sum(r["_dups"] for r in out)
+
+
+def _day_table(rows: list[dict], tz: ZoneInfo) -> list[str]:
+    out = ["| Posted | Role | Company | Location | Score | Notes |", "|---|---|---|---|---:|---|"]
+    for r in rows:
+        title = _cell(r["title"], 70).replace("[", "(").replace("]", ")")
+        loc = _cell(r["location"], 40) + (f" ({r['workplace']})" if r.get("workplace") else "")
+        t = r["_t"].astimezone(tz).strftime("%-I:%M %p") + ("" if r.get("posted") else " (seen)")
+        out.append(f"| {t} | [{title}]({r['url']}) | {_cell(r['company'], 30)} | {loc} | {r['score']} | "
+                   f"{_cell(r.get('flags', ''), 70)} |")
+    return out
+
+
+def build_newest_report(tz_name: str, boards_total: int, now: datetime | None = None, view: dict | None = None,
+                        closed: set[str] = frozenset(), extra_lines: list[str] = ()) -> str:
+    """Every match posted in the last `days` days, newest first, one section per day (local time)."""
+    tz = ZoneInfo(tz_name)
+    now = now or datetime.now(timezone.utc)
+    v = view or {}
+    days = int(v.get("days", 7))
+    start = now - timedelta(days=days)
+    rows = [r for r in read_matches(since=start - timedelta(days=1)) if r["uid"] not in closed]
+    hide = int(v.get("hide_years", 0))
+    for r in rows:   # rows saved before the years rule existed
+        m = re.search(r"(\d+)\+ yrs exp", r.get("flags") or "")
+        if hide and m and int(m.group(1)) >= hide and r["status"] in ("alert", "quiet"):
+            r["status"] = "blocked"
+            r["flags"] = f"asks for {m.group(1)}+ years of experience; " + r["flags"]
+    visible = [r for r in rows if r["status"] in ("alert", "quiet") and posted_time(r) >= start]
+    visible, merged = collapse(visible)
+    visible.sort(key=lambda r: r["_t"], reverse=True)
+    blocked = [r for r in rows if r["status"] == "blocked" and posted_time(r) >= start]
+    for r in read_rejected(since=start):
+        r["flags"] = r.get("reject_reason") or r.get("flags", "")
+        blocked.append(r)
+    blocked, _ = collapse(blocked)
+    blocked.sort(key=lambda r: r["_t"], reverse=True)
+
+    lines = [
+        f"# {v.get('label', 'DevOps / SRE / Cloud / Platform jobs in the US')}: posted in the last {days} days",
+        "",
+        f"**{len(visible)} jobs**, newest first. Updated "
+        f"{now.astimezone(tz).strftime('%a %b %-d, %-I:%M %p %Z')} from {boards_total:,} company job boards"
+        + (" and other sources" if any(str(r.get("ats", "")).startswith(AGGREGATORS) for r in rows) else "") + ".",
+        "",
+        v.get("note", "US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an "
+                      "adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "
+                      "\"(seen)\" means the board gives no posting time, so the time the radar first saw it is shown."),
+        "",
+    ]
+    if merged:
+        lines += [f"{merged} repeat listings (same company and title in another place or on another source) "
+                  f"are merged into one row.", ""]
+    lines += list(extra_lines)
+    by_day: dict[str, list[dict]] = {}
+    for r in visible:
+        by_day.setdefault(r["_t"].astimezone(tz).strftime("%A, %b %-d"), []).append(r)
+    if by_day:
+        lines += ["Jump to: " + " · ".join(
+            f"[{d.split(',')[0][:3]} {d.split(' ')[-1]} ({len(rs)})](#{_anchor(d, len(rs))})"
+            for d, rs in by_day.items()), ""]
+    for d, rs in by_day.items():
+        lines += [f"## {d} ({len(rs)})", ""] + _day_table(rs, tz) + [""]
+    if not by_day:
+        lines += [f"No matches posted in the last {days} days.", ""]
+    lines += [f"## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work ({len(blocked)})", ""]
+    if blocked:
+        lines += ["<details><summary>Show</summary>", ""] + _day_table(blocked[:int(v.get("hidden_rows", 400))], tz) \
+                 + ["", "</details>"]
+    else:
+        lines.append("None.")
+    srcs = {str(r.get("ats", "")) for r in rows}
+    credits = []
+    if "adzuna" in srcs:
+        credits.append("[Jobs by Adzuna](https://www.adzuna.com)")
+    if "remoteok" in srcs:
+        credits.append("Remote jobs from [Remote OK](https://remoteok.com)")
+    if "wwr" in srcs:
+        credits.append("Remote jobs from [We Work Remotely](https://weworkremotely.com)")
+    if "usajobs" in srcs:
+        credits.append("Federal jobs from [USAJOBS](https://www.usajobs.gov)")
+    if "hn" in srcs:
+        credits.append("Posts from Hacker News \"Who is hiring?\"")
+    if credits:
+        lines += ["", "Sources: " + " · ".join(credits) + "."]
+    lines.append("")
+    return "\n".join(lines)
+
+
+def _anchor(day: str, n: int) -> str:
+    """GitHub's heading anchor for "## Thursday, Nov 12 (45)"."""
+    return re.sub(r"[^a-z0-9 -]", "", f"{day} ({n})".lower()).replace(" ", "-")
 
 
 def write_report(text: str) -> None:

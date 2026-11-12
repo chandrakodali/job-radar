@@ -166,6 +166,11 @@ class Rules:
     home: list[re.Pattern] = field(default_factory=list)        # locations that get a small bonus
     stale_after_days: int = 60
     ranker: object = None           # radar.rank.Ranker: rule-based fit score from the full job text
+    senior: list[re.Pattern] = field(default_factory=list)      # senior-level titles: kept when years allow
+    bridge_evidence: list[re.Pattern] = field(default_factory=list)  # adjacent titles must name these tools
+    bridge_min: int = 2
+    years_by_section: bool = False  # read years from required/duties text only, degree-aware ("BS+5 or MS+3")
+    degree: str = "master"          # the degree path that applies when a posting gives several
 
     @classmethod
     def from_config(cls, cfg: dict) -> "Rules":
@@ -195,6 +200,9 @@ class Rules:
             max_post_age_days=int(s.get("max_post_age_days", 14)),
             block_alerts_if_years_at_least=int(s.get("block_alerts_if_years_at_least", 7)),
             hide_if_years_at_least=int(s.get("hide_if_years_at_least", 0)),
+            senior=comp(t.get("senior")), years_by_section=bool(s.get("years_by_section")),
+            bridge_evidence=comp(s.get("bridge_evidence")), bridge_min=int(s.get("bridge_min", 2)),
+            degree=str(s.get("degree", "master")),
         )
 
 
@@ -317,6 +325,8 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
     title = job.title or ""
     desc = job.description or ""
     loc_class = classify_location(job.location, job.countries)
+    if loc_class == "unknown" and desc:          # "Remote", blank, etc.: the job text often says where
+        loc_class = location_from_text(desc)
     if rules.mode == "experienced" and rules.ranker is not None:
         return _assess_ranked(job, board, rules, category, now, loc_class)
     if rules.mode == "experienced":
@@ -331,7 +341,10 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
     else:
         score += 5
 
-    years = required_years(desc) if desc else None
+    if rules.years_by_section and desc:
+        years = years_from_text(desc, rules.degree)
+    else:
+        years = required_years(desc) if desc else None
     if years is not None:
         if years <= 2:
             score += 10
@@ -340,6 +353,12 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
         else:
             score -= 20
         flags.append("0-2 yrs exp" if years == 0 else f"{years}+ yrs exp")
+    if _any(rules.senior, " " + title + " "):
+        if years is None:
+            score -= 10
+            flags.append("senior title, years not stated")
+        else:
+            flags.append("senior title")
 
     age_days = None
     if job.posted_at:
@@ -380,6 +399,10 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
         score -= 5
         flags.append("staffing/consulting firm: verify it's real")
 
+    thin_bridge = False
+    if category == "bridge" and rules.bridge_evidence and len(desc) > 300:
+        named = sum(1 for p in rules.bridge_evidence if p.search(desc))
+        thin_bridge = named < rules.bridge_min
     score = max(0, min(100, score))
     blocker = blocker_hit(" ".join([title, desc]), rules)
 
@@ -390,6 +413,12 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
         flags.append(f"needs: {blocker[:40]}")
     elif loc_class == "non_us":
         status = "old"  # never reported; caller normally filters these out earlier
+    elif years is not None and rules.hide_if_years_at_least and years >= rules.hide_if_years_at_least:
+        status = "blocked"
+        flags.append(f"asks for {years}+ years of experience")
+    elif thin_bridge:
+        status = "blocked"
+        flags.append("adjacent title, little DevOps/cloud work in the text")
     elif years is not None and years >= rules.block_alerts_if_years_at_least:
         status = "quiet"
     elif score >= rules.alert_threshold:
@@ -558,3 +587,28 @@ def _assess_ranked(job: Job, board: Board, rules: Rules, category: str, now: dat
         status = "quiet"
     return Assessment(category=category, location_class=loc_class, score=score, status=status, flags=flags,
                       years=years, blocker=blocker, has=fit.has[:10], missing=fit.missing[:6], detail=fit.detail)
+
+
+def years_from_text(desc: str, degree: str = "master") -> int | None:
+    """Years of experience a posting requires, read from its required / duties / other text only (a
+    "5+ years preferred" line does not count), with degree paths and ranges handled by radar.rank."""
+    from . import rank
+    sec = rank.sections(desc)
+    body = "\n".join(sec[k] for k in ("required", "duties", "other"))
+    years, _ = rank.years_required(body, degree)
+    return years
+
+
+def location_from_text(desc: str) -> str:
+    """'us' / 'non_us' / 'unknown' from a job's text, for postings whose location field is blank or just
+    "Remote". Only clear one-sided signals count."""
+    head = (desc or "")[:4000]
+    us = _text_says_us(head) or bool(re.search(
+        r"\b(anywhere in the (us|u\.s\.|united states)|us[- ]based|based in the (us|u\.s\.|united states)|"
+        r"remote[^.\n]{0,20}\b(us|usa|u\.s\.)\b|eligible to work in the (us|u\.s\.|united states))", head, re.I))
+    foreign = bool(NON_US.search(head)) or bool(re.search(r"\b(emea|apac|latam|europe|european union)\b", head, re.I))
+    if us and not foreign:
+        return "us"
+    if foreign and not us:
+        return "non_us"
+    return "unknown"

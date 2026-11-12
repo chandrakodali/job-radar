@@ -6,15 +6,20 @@ Finds new **entry-friendly DevOps, SRE, cloud, platform and infrastructure jobs 
 
 ## What it does
 
-- Every 30 minutes, GitHub Actions checks about **3,800 company job boards** on Greenhouse, Lever, Ashby, SmartRecruiters and Workday. These are the feeds the companies' own careers pages use, so jobs show up here before they're buried on LinkedIn.
-- It keeps only US roles whose titles fit you: DevOps, SRE, platform, cloud, infrastructure (main targets), plus bridge roles such as Linux admin, NOC, cloud/technical support and data center technician.
-- It skips senior titles (Senior, Staff, Lead, Manager, Architect, III and up) and internships.
-- It reads each new job's description and:
-  - **hides** jobs that need a security clearance, US citizenship or ITAR (F-1/OPT holders can't meet these). They're still listed at the bottom of the report.
-  - flags **E-Verify** (needed for STEM OPT), **"no sponsorship"** wording, years of experience required, and likely **H-1B cap-exempt** employers (universities).
-- It scores each job 0–100 (title fit, entry-level signals, years required, freshness, on-site/hybrid, E-Verify, your priority companies) and alerts you on strong matches (score 45+).
-- It also sends a **daily digest** at 8 AM Central time.
-- The company list refreshes every Monday from the public SimplifyJobs new-grad and internship datasets, so companies that start hiring early-career people get added automatically.
+- Every 30 minutes, GitHub Actions reads **about 6,700 company job boards** (Greenhouse, Lever, Ashby, SmartRecruiters, Workday, Workable, Oracle and more): every board, every run, including every Workday board back 7 days. These are the feeds the companies' own careers pages use.
+- It also reads other job sources through allowed routes, and lists a job from them only when the employer's own board didn't already have it:
+  - **Workable's public job search** (every company on Workable), every 3 hours
+  - **Adzuna** (free API key, shared with the Auto Radar; credited "Jobs by Adzuna")
+  - **USAJOBS** federal jobs (free API key); jobs needing US citizenship or a clearance are left out
+  - **Hacker News "Who is hiring?"**, **Remote OK** and **We Work Remotely** (credited and linked back)
+  - **job-alert emails** from LinkedIn, Indeed, Dice, ZipRecruiter, Glassdoor (you set up the alerts; nothing is scraped)
+- It keeps only US roles whose titles fit: DevOps, SRE, platform, cloud, infrastructure, plus adjacent titles (sysadmin, network, systems, production, build/release engineer) **only when the job text names real DevOps/cloud work** (at least two of Kubernetes, Docker, Terraform, Ansible, CI/CD, AWS/Azure/GCP, monitoring, scripting...).
+- **Years of experience** are read from the job's requirements section (a "preferred" 5+ years doesn't count; "BS + 5 or MS + 3" counts as 3; ranges count by their low end). Jobs asking for **5+ years** are left out.
+- **Senior titles** (Senior, Sr., III, level 3) are kept when they ask for under 5 years, and listed with the note "senior title, years not stated" when the text gives no number. Staff, Principal, Lead, Manager, Architect and level IV+ are skipped.
+- Jobs needing a **security clearance or US citizenship** are left out (listed at the bottom of the report). "No sponsorship" jobs are **kept** and flagged. Contract and staffing-firm jobs are kept and flagged.
+- **[REPORT.md](REPORT.md)** lists every match **posted in the last 7 days, newest first, one section per day**. The same job listed in several cities or on several sources is one row. A coverage line shows how many of the jobs other sources listed were already found on employer boards.
+- Employers seen on other sources but not yet watched, and employers that filed H-1B LCAs for DevOps/SRE/cloud titles (public DOL data), are tried as new boards by the weekly board finder.
+- It alerts you on strong matches and sends a **daily digest** at 8 AM Central time. No AI is used for this radar.
 
 ## Auto Radar: automotive embedded software jobs
 

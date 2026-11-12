@@ -106,7 +106,8 @@ def test_devops_profile_never_produces_wide(devops_rules):
     assert title_category("Software Engineer", devops_rules, focus=True, searched=True) is None
     assert title_category("DevOps Engineer", devops_rules) == "core"
     assert row_still_fits({"title": "DevOps Engineer", "category": "core"}, devops_rules)
-    assert not row_still_fits({"title": "Senior DevOps Engineer", "category": "core"}, devops_rules)
+    assert row_still_fits({"title": "Senior DevOps Engineer", "category": "core"}, devops_rules)
+    assert not row_still_fits({"title": "Staff DevOps Engineer", "category": "core"}, devops_rules)
 
 
 # ------------------------------------------------------------------ skills evidence

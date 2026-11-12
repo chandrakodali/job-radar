@@ -9,6 +9,9 @@ engineering-service firms that are easy to miss.
 
     python scripts/lca_employers.py LCA_Disclosure_Data_FY2026_Q3.xlsx [more files...]
 writes profiles/automotive/lca_employers.csv: employer, filings, states, sample titles, already watched?
+    python scripts/lca_employers.py --devops FILE.xlsx
+writes lca_employers_devops.csv (DevOps/SRE/cloud/platform titles); the weekly board finder tries the
+unwatched employers in it as company boards.
 """
 from __future__ import annotations
 
@@ -28,6 +31,12 @@ TITLE = re.compile(
     r"\bbms\b|battery (controls?|management|software)|motor control|inverter|propulsion|autonomous|"
     r"automotive|electrification|brake|infotainment|telematics|\becu\b|diagnostics engineer",
     re.I)
+# --profile devops: infrastructure, DevOps, SRE, cloud and platform work
+TITLE_DEVOPS = re.compile(
+    r"dev\s*ops|site reliability|\bsre\b|cloud (engineer|developer|architect|operations|infrastructure|platform)|"
+    r"platform engineer|infrastructure engineer|kubernetes|build (and|&) release|release engineer|"
+    r"systems? reliability|production engineer|ci/?cd|automation engineer.*(cloud|infra)|terraform", re.I)
+NOT_DEVOPS = re.compile(r"\b(sales|marketing|finance|account|nurse|teacher|salesforce)\b", re.I)
 NOT = re.compile(r"\b(sales|marketing|finance|account|data scientist|business analyst|nurse|teacher|"
                  r"salesforce|sap\b|web|front[\s-]?end|full[\s-]?stack|cloud|devops|mechanical design)\b", re.I)
 
@@ -55,7 +64,7 @@ def norm(name: str) -> str:
 def watched_names() -> set[str]:
     names = set()
     for path in (os.path.join(ROOT, "profiles", "automotive", "companies.csv"), os.path.join(ROOT, "companies.csv"),
-                 os.path.join(ROOT, "companies_custom.csv")):
+                 os.path.join(ROOT, "companies_custom.csv"), os.path.join(ROOT, "discovered.csv")):
         if os.path.exists(path):
             for r in csv.DictReader(l for l in open(path, encoding="utf-8") if not l.startswith("#")):
                 if r.get("company"):
@@ -64,6 +73,10 @@ def watched_names() -> set[str]:
 
 
 def main(paths: list[str]) -> int:
+    devops = bool(paths) and paths[0] == "--devops"
+    if devops:
+        paths = paths[1:]
+    title, not_ = (TITLE_DEVOPS, NOT_DEVOPS) if devops else (TITLE, NOT)
     count, states, titles = Counter(), defaultdict(Counter), defaultdict(Counter)
     display = {}
     for p in paths:
@@ -71,7 +84,7 @@ def main(paths: list[str]) -> int:
             if not str(r["CASE_STATUS"] or "").lower().startswith("certified"):
                 continue
             t = str(r["JOB_TITLE"] or "")
-            if not TITLE.search(t) or NOT.search(t):
+            if not title.search(t) or not_.search(t):
                 continue
             key = norm(str(r["EMPLOYER_NAME"] or ""))
             if not key:
@@ -81,7 +94,8 @@ def main(paths: list[str]) -> int:
             states[key][str(r["WORKSITE_STATE"] or "")] += 1
             titles[key][t.strip().title()] += 1
     watched = watched_names()
-    out = os.path.join(ROOT, "profiles", "automotive", "lca_employers.csv")
+    out = os.path.join(ROOT, "lca_employers_devops.csv") if devops else \
+        os.path.join(ROOT, "profiles", "automotive", "lca_employers.csv")
     with open(out, "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["employer", "filings", "top_states", "sample_titles", "watched"])

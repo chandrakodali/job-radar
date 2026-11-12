@@ -26,7 +26,7 @@ def _slim(r: dict, extra=()) -> dict:
 
 
 def build_dashboard(tz_name: str, boards_total: int, ai_status: str, now: datetime | None = None,
-                    profile: dict | None = None, closed: set[str] = frozenset()) -> str:
+                    profile: dict | None = None, closed: set[str] = frozenset(), newest: bool = False) -> str:
     """`profile` (the `profile:` section of a profile's config) changes the page's name, how far back it
     looks and where the viewer's marks are stored; `closed` holds matches whose postings were taken down."""
     now = now or datetime.now(timezone.utc)
@@ -47,6 +47,9 @@ def build_dashboard(tz_name: str, boards_total: int, ai_status: str, now: dateti
     page = TEMPLATE
     hi, mid = ((p or {}).get("score_colors") or [60, 45])[:2]
     page = page.replace('s >= 60 ? "s-hi" : s >= 45 ? "s-mid"', f's >= {int(hi)} ? "s-hi" : s >= {int(mid)} ? "s-mid"')
+    if newest:  # list newest first by default
+        page = page.replace('<option value="score">Best match</option><option value="new">Newest</option>',
+                            '<option value="new" selected>Newest</option><option value="score">Best match</option>')
     if p:
         label = html.escape(p.get("label", "Job Radar"))
         page = page.replace("<title>Job Radar</title>", f"<title>{label}</title>")

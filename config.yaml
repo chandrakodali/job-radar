@@ -42,10 +42,17 @@ titles:
     - 'configuration management'
     - '\bit infrastructure\b'
 
-  # Titles containing any of these are skipped (too senior, or not a fit for F-1/OPT).
-  exclude:
+  # Senior-level titles are KEPT when the job text asks for under 5 years (or states no years: then they
+  # are listed and marked "senior title, years not stated"). Jobs asking for 5+ years go to the hidden list.
+  senior:
     - '\bsenior\b'
     - '\bsr\.?\b'
+    - '\biii\b'
+    - '\b(level|lvl)\s*3\b'
+    - '\b3\s*$'
+
+  # Titles containing any of these are skipped (well above 5 years, or not this kind of job).
+  exclude:
     - '\bstaff\b'
     - '\bprincipal\b'
     - '\blead\b'
@@ -58,9 +65,9 @@ titles:
     - '\bdistinguished\b'
     - '\bfellow\b'
     - '\bchief\b'
-    - '\b(iii|iv|v)\b'
-    - '\b(level|lvl)\s*[3-9]\b'
-    - '\b[3-9]\b\s*$'
+    - '\b(iv|v|vi)\b'
+    - '\b(level|lvl)\s*[4-9]\b'
+    - '\b[4-9]\b\s*$'
     - '\bsales\b'
     - 'account executive'
     - 'account manager'
@@ -188,8 +195,26 @@ staffing_company_patterns:
 scoring:
   alert_threshold: 45        # phone alerts only at or above this score
   max_alerts_per_run: 15     # the rest go into one summary message
-  max_post_age_days: 14      # ignore jobs posted longer ago than this
-  block_alerts_if_years_at_least: 7
+  max_post_age_days: 10      # ignore jobs posted longer ago than this (the report shows the last 7 days)
+  years_by_section: true     # years read from required/duties text, ranges by their low end, "preferred" ignored
+  degree: master             # "BS + 5 years or MS + 3 years" counts as 3
+  hide_if_years_at_least: 5
+  # Adjacent titles (sysadmin, network, production, systems engineer...) are kept only when the job text
+  # names at least `bridge_min` of these DevOps/cloud tool groups; the rest go to the "left out" list.
+  bridge_min: 2
+  bridge_evidence:
+    - '\b(kubernetes|k8s|eks|aks|gke|openshift)\b'
+    - '\b(docker|containers?|podman)\b'
+    - '\b(terraform|cloudformation|pulumi|bicep|cdk)\b'
+    - '\b(ansible|puppet|chef|saltstack)\b'
+    - '\b(ci/?cd|jenkins|github actions|gitlab|circleci|argo ?cd|azure devops|teamcity|bamboo)\b'
+    - '\b(aws|amazon web services|azure|gcp|google cloud)\b'
+    - '\b(prometheus|grafana|datadog|splunk|elk|elasticsearch|new relic|observability)\b'
+    - '\b(python|bash|shell scripting|powershell|golang)\b'
+    - '\b(infrastructure as code|iac)\b'
+    - '\b(helm|istio|service mesh|hashicorp vault)\b'
+  # jobs asking for 5+ years go to the hidden list
+  block_alerts_if_years_at_least: 5
 
 # Large employers get a small penalty (more applicants). Matched against company name.
 big_companies:
@@ -259,19 +284,76 @@ exclude_companies:
   - 'los alamos'
   - 'national security'
 
-# Workday boards are checked in rotation (each one every N runs) to stay polite.
+# Every Workday board is read every run, newest jobs first, until its jobs are older than 7 days
+# (or `max_pages` x 20 jobs).
 workday:
-  shards: 4
-  max_pages: 5
+  shards: 1
+  max_pages: 15
 
 notify:
   daily_digest_hour_local: 8      # send a daily summary at this hour
   timezone: 'America/Chicago'
 
-# Optional AI check of every new match (turns on when an AI key secret exists; see radar/ai.py).
+# No AI check for this profile.
 ai:
-  max_requests_per_run: 6   # 5 jobs per request; keeps well inside free-tier daily limits
+  mode: off
 
-# Boards found automatically (discovered.csv, refreshed weekly) are checked on a rotation.
+# Boards found automatically (discovered.csv, refreshed weekly): all of them are read every run.
 discovery:
-  boards_per_run: 1500
+  boards_per_run: 100000
+
+run:
+  time_budget_minutes: 22
+
+# REPORT.md and the page: every match posted in the last 7 days, newest first, grouped by day.
+report:
+  order: newest
+  days: 7
+  hide_years: 5           # also hides older saved rows that ask for 5+ years
+  track_closed: true       # leave out jobs whose posting was taken down (boards that list every job)
+  label: 'DevOps / SRE / Cloud / Platform jobs in the US'
+
+# Jobs from outside the employers' own boards (radar/sources.py). A job already found on an employer's
+# board is not listed twice. Each source is read at most every `every_minutes`.
+sources:
+  email_alerts: true       # JOB_ALERTS_EMAIL + JOB_ALERTS_APP_PASSWORD (alert emails from LinkedIn, Indeed, Dice...)
+  email_days: 4
+  adzuna:                  # ADZUNA_APP_ID + ADZUNA_APP_KEY; the free key is shared with the automotive radar
+    calls_per_run: 1       # 48 runs a day
+    limits: {d: 45, w: 300, m: 1300}
+    max_days_old: 7
+    terms:
+      - 'devops engineer'
+      - 'site reliability engineer'
+      - 'cloud engineer'
+      - 'platform engineer'
+      - 'infrastructure engineer'
+      - 'kubernetes engineer'
+      - 'devsecops engineer'
+      - 'cloud operations engineer'
+      - 'build and release engineer'
+      - 'aws engineer'
+      - 'azure engineer'
+      - 'linux systems engineer'
+  workable_search:         # Workable's public search across every company that uses Workable
+    every_minutes: 180
+    days: 7
+    max_pages: 40
+    terms: ['devops', 'site reliability', 'cloud engineer', 'platform engineer', 'infrastructure engineer', 'kubernetes']
+  hn:                      # Hacker News "Who is hiring?" (official API)
+    every_minutes: 360
+    days: 7
+  remoteok:                # credited and linked back in the report
+    every_minutes: 120
+    days: 7
+    tag: devops
+  wwr:                     # We Work Remotely RSS; credited and linked back in the report
+    every_minutes: 60
+    days: 7
+    feeds:
+      - 'https://weworkremotely.com/categories/remote-devops-sysadmin-jobs.rss'
+  usajobs:                 # USAJOBS_API_KEY + USAJOBS_EMAIL; jobs needing citizenship/clearance are left out
+    every_minutes: 180
+    days: 7
+    keywords: ['devops', 'site reliability', 'cloud engineer', 'platform engineer', 'kubernetes']
+    series: ['2210']       # IT management (most federal IT jobs)
