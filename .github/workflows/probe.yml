@@ -1,0 +1,39 @@
+name: probe
+# Temporary helper while adding employers: runs scripts/probe.py on GitHub's servers (job sites are not
+# reachable from where the radar is developed). Removed once the employer list is settled.
+on:
+  workflow_dispatch:
+    inputs:
+      lca:
+        description: 'Also build the employer list from the Department of Labor filings'
+        type: boolean
+        default: false
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python scripts/probe.py
+      - name: Employers from Department of Labor filings
+        if: ${{ inputs.lca == true }}
+        run: |
+          pip install openpyxl
+          for f in media/LCA_Disclosure_Data_FY2026_Q3.xlsx sites/dolgov/files/ETA/oflc/pdfs/LCA_Disclosure_Data_FY2025_Q4.xlsx; do
+            curl -sSL --retry 2 -A "Mozilla/5.0 (job-radar; public data)" -o "/tmp/$(basename $f)" "https://www.dol.gov/$f" || true
+            ls -la "/tmp/$(basename $f)"; file "/tmp/$(basename $f)"
+          done
+          python scripts/lca_employers.py /tmp/LCA_Disclosure_Data_*.xlsx
+          head -60 profiles/automotive/lca_employers.csv
+      - uses: actions/upload-artifact@v4
+        if: ${{ inputs.lca == true }}
+        with:
+          name: lca-employers
+          path: profiles/automotive/lca_employers.csv
