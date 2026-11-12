@@ -22,6 +22,8 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: python scripts/probe.py
+        env:
+          PROBE_SHOW: '2500'
       - name: Employers from Department of Labor filings
         if: ${{ inputs.lca == true }}
         run: |
