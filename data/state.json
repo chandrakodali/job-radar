@@ -7620,17 +7620,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 8,
+   "n": 9,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 8,
+   "n": 9,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 8,
+   "n": 9,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -8034,11 +8034,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-09"
-  },
-  "icims:careers-cotiviti.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-12"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-16",
@@ -8641,7 +8636,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 11,
+   "n": 12,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -8884,7 +8879,7 @@
    "since": "2026-11-08"
   }
  },
- "found_cursor": 393,
+ "found_cursor": 1893,
  "last_digest": "2026-11-12",
  "missing_once": {},
  "resolved": {

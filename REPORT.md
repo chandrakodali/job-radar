@@ -4,7 +4,7 @@ Watching **7,552 company job boards** every 30 minutes for entry-friendly DevOps
 
 Last new match: **Thu Nov 12, 02:31 PM CST**. Score is 0–100 (higher = better fit for an early-career candidate on OPT). Full history: [data/matches.csv](data/matches.csv).
 
-## Posted in the last 24 hours (42)
+## Posted in the last 24 hours (41)
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
@@ -41,7 +41,6 @@ Last new match: **Thu Nov 12, 02:31 PM CST**. Score is 0–100 (higher = better 
 | 52 | [Network Administrator](https://apply.workable.com/softheon/j/7E50EC2B7D/) | Softheon | New Jersey, United States (remote) | Nov 11 | 2+ yrs exp; no future H-1B sponsorship |
 | 52 | [Network Administrator](https://apply.workable.com/softheon/j/7E50EC2B7D/) | Softheon | Connecticut, United States (remote) | Nov 11 | 2+ yrs exp; no future H-1B sponsorship |
 | 52 | [Network Administrator](https://apply.workable.com/softheon/j/7E50EC2B7D/) | Softheon | Colorado, United States (remote) | Nov 11 | 2+ yrs exp; no future H-1B sponsorship |
-| 50 | [Network Engineer](https://jobs.smartrecruiters.com/NBCUniversal3/744000161163099-network-engineer) | NBCUniversal | New York, NEW YORK, United States (hybrid) | Nov 11 | 3+ yrs exp |
 | 50 | [Network Administrator](https://jobs.smartrecruiters.com/AECOM2/744000161351219-network-administrator) | AECOM | Miami, FL, United States | Nov 12 |  |
 | 45 | [AWS ProServe Platform Engineer](https://careers-dminc.icims.com/jobs/29069/aws-proserve-platform-engineer/job) | DMI | McLean, VA, United States | Nov 11 | 10+ yrs exp |
 | 42 | [Infrastructure Specialist](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/FL-USA/Infrastructure-Specialist_R-70846) | Kyndryl | FL, USA (remote) | Nov 11 | 6+ yrs exp |
@@ -51,9 +50,9 @@ Last new match: **Thu Nov 12, 02:31 PM CST**. Score is 0–100 (higher = better 
 | 35 | [Network Engineer](https://jobs.jobvite.com/jbs/job/oiO5Afwv) | JBS Foods | Richardson, Texas | Nov 12 |  |
 | 30 | [Network Engineer](https://careers-dartmouth-hitchcock.icims.com/jobs/43307/network-engineer/job) | Dartmouth Health | Bennington, VT, United States | Nov 11 | 5+ yrs exp |
 
-## Found this week, posted earlier (531)
+## Found this week, posted earlier (532)
 
-Showing the 150 best of 531; the rest are in the full history file.
+Showing the 150 best of 532; the rest are in the full history file.
 
 | Score | Role | Company | Location | Posted | Notes |
 |---:|---|---|---|---|---|
