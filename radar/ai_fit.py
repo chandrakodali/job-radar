@@ -217,7 +217,11 @@ class FitReviewer:
         self.calls += 1
         r = requests.post(p.url, headers=p.headers(), json=body, timeout=120)
         if r.status_code == 200:
-            msg = ((r.json().get("choices") or [{}])[0].get("message") or {})
+            try:
+                data = r.json()
+            except ValueError:
+                raise ValueError(f"reply is not JSON ({r.headers.get('content-type', '?')}): {r.text[:150]!r}")
+            msg = ((data.get("choices") or [{}])[0].get("message") or {})
             content = msg.get("content") or ""
             if not content.strip():
                 raise ValueError("empty answer")
@@ -444,6 +448,16 @@ def _check_cli(argv=None) -> int:
     if not names:
         print("No AI key found in the environment.")
         return 1
+    for p in _providers(ai_cfg.get("providers")):   # what each service offers right now
+        if p.models_url:
+            try:
+                r = requests.get(p.models_url, headers=p.headers(), timeout=30)
+                data = r.json()
+                items = data.get("data", data) if isinstance(data, dict) else data
+                ids = sorted(str(m.get("id", "")) for m in items if isinstance(m, dict))
+                print(f"MODELS {p.name} ({len(ids)}): " + ", ".join(ids)[:3000])
+            except Exception as e:
+                print(f"MODELS {p.name}: could not list ({str(e)[:100]})")
     ok = 0
     for name in names:
         r = FitReviewer({**ai_cfg, "providers": [name]})
