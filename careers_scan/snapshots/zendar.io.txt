@@ -1,16 +1,48 @@
-Build the Future of Perception
-What We're Building
-Zendar builds a radar-centric autonomy stack which makes any vehicle - from cars to robots - autonomous in any environment. With our deep radar DNA, we have architected our solution to put RF sensing at the core of all perception. The result is a system that handles long range, high speeds, and bad weather not as edge cases but as a core strength of the autonomy stack.
-Because radars naturally measure both 3D position and velocity for every object in the environment, radar-centric autonomy is extremely compute- and data-efficient. Our autonomous vehicle needs only a few thousand dollars of hardware to make it completely autonomous, making this the cheapest way to build an autonomous vehicle by far.
-To develop this capability we had to build the entire stack in house - from radar sensor hardware to signal processing to multi-modal perception foundation models and path and trajectory planning. As part of a small team, you will have a front-row seat to seeing how a complete autonomy stack is architected and how your engineering decisions improve the ability to navigate autonomously in the real world.
-Join Us
-Help define the future of physical AI.
-Who Thrives Here
-Work at the cutting edge of autonomous mobility and robotics, advancing foundation models that will power the next generation of physical AI systems.
-Our team brings together deep expertise across hardware, signal processing, machine learning, and software engineering, with decades of experience in sensing and perception. We are a global team with offices in Berkeley, Lindau (Germany), and Paris (France). Zendar is well-funded by leading Tier-1 venture capital firms and has established strong industry partnerships.
-Job Openings
-Loading...
-Analytics
-Helps us understand which pages and content actually help people.
-Marketing
-Lets us measure ad campaigns and personalize content for return visits.
+Missions
+How we work with you
+Technology
+Company
+Careers
+Contact
+Request a site walk
+Build Physical AI for Enterprise Sites.
+We build general navigation and put it to work in robots and shuttles that run at real sites. Join a small team that owns the whole stack, from sensors and perception to planning, AI and the robots in the field.
+See open roles
+Drag to turn
+What we’re building
+One stack, from the road to the rounds.
+General navigation
+Zensight: one stack from a wheeled robot to a campus shuttle. Low data, low compute.
+Robots on real sites
+Autonomous robots that inspect, count, patrol and move goods and people on campuses, in buildings and across yards.
+AI that acts
+Turning what robots see into incidents, records and work orders that site teams use every day.
+Who thrives here
+Builders who ship to the field.
+You want your work running on real robots at real sites, not only in simulation.
+You enjoy working across the stack: hardware, signal processing, ML and software.
+You care about cost and efficiency; automotive taught us that every component counts.
+You like owning problems end to end in a small team.
+Teams
+Where we’re hiring
+01 Robotics & autonomy
+Perception, path planning, control and robot software.
+02 AI & data
+Models and pipelines that turn robot data into answers.
+03 Field operations
+Deploying, running and maintaining robots on customer sites.
+04 Product
+Defining missions and what each round delivers to site teams.
+Job openings
+Open roles
+Role
+Team
+Location
+Apply
+See all open roles on our careers site →
+Don’t see your role? Write to us, including your resume (opens in a new tab)
+Locations
+Berkeley · Lindau · Paris
+Headquartered in Berkeley, California, with development centers in Lindau, Germany and Paris, France.
+Analytics Helps us understand which pages and content actually help people.
+Marketing Lets us measure ad campaigns and personalize content for return visits.

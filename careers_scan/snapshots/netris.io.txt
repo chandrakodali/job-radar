@@ -6,16 +6,16 @@ See open roles
 About Netris
 Open Positions
 Filter By:
-Network Architect (Datacenter & EVPN/VXLAN)
-Hybrid
-Solutions Engineering / Pre-Sales
-Read More
-Networking Solutions Architect – EMEA Region
-Remote, EMEA
-Networking Solutions Architect – APAC Region
-Remote, APAC
 Networking Solutions Architect
 Remote, US
+Solutions Engineering / Pre-Sales
+Read More
+Network Architect (Datacenter & EVPN/VXLAN)
+Hybrid
+Networking Solutions Architect – APAC Region
+Remote, APAC
+Networking Solutions Architect – EMEA Region
+Remote, EMEA
 Account Manager — Singapore & Southeast Asia
 Remote, Singapore
 Sales
@@ -27,29 +27,28 @@ Network Automation Engineer
 Technical Training & Enablement Manager
 Product
 Product Architect
-Senior Marketing Designer
-Marketing
-Senior Marketing Operations Manager
-Senior Technical Product Marketing Manager – GTM and Sales Enablement
-Senior Technical Product Marketing Manager – Partner Ecosystem and Customer Advocacy
 Event Marketing Manager
+Marketing
+Senior Marketing Designer
+Senior Technical Product Marketing Manager – Partner Ecosystem and Customer Advocacy
+Senior Technical Product Marketing Manager – GTM and Sales Enablement
+Senior Marketing Operations Manager
 Contracts Manager
 Legal
-IT Operations Administrator
 Data Center Lab Engineer
+IT Operations Administrator
 Senior Accountant
 Finance
-VP of Engineering
-Engineering
-Senior DevOps/Integration Engineer – AI Infrastructure Platform
-Lead Software Engineer – Infrastructure Agents (Go/Linux Networking)
-Senior / Staff Backend Engineer – Distributed Systems & Network Automation
 Software Architect
+Engineering
+Staff Software Engineer – Network Automation & Distributed Systems
+Network Architect – Arista EOS & SONiC
+Network Architect – Linux & XDP Dataplane
+Senior DevOps/Integration Engineer – AI Infrastructure Platform
 Senior Software Engineer
 Remote, Armenia
-Network Architect – Linux & XDP Dataplane
-Network Architect – Arista EOS & SONiC
-Senior DevOps Engineer
-Customer Success
+VP of Engineering
 Senior Network Engineer
-Next »
+Customer Success
+Senior DevOps Engineer
+Senior Network Engineer (Channels/Partners)

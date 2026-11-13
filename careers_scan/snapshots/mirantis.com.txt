@@ -1,4 +1,4 @@
-Introducing Mirantis Agent Platform. Read Now
+Introducing Mirantis Agent Platform: Any agent. Under your rules. EXPLORE
 Contact Us
 Docs
 Store
@@ -92,9 +92,7 @@ Mirantis Employee Value
 Mirantis is a global open source infrastructure company that challenges the market. Our team is bold and focused using cutting edge technology to create value for our customers. We are contributors and experts in many open source projects and communities, including OpenStack and Kubernetes.
 We solve problems for the world’s most successful companies by empowering curiously intelligent minds.
 VIEW OPEN POSITIONS
-Foundational NVIDIA AI Cloud ISV Partner
-Omdia Universe Leader, Container Management Products
-Winner, Pinnacle Award for Human Resources
+undefined
 900 E Hamilton Avenue
 Suite 650
 Campbell, CA 95008

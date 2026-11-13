@@ -41,9 +41,9 @@ The technology partner for carriers and MGAs
 South San Francisco, CA, 94080,
 United States
 Products
-Intake & clearance Extraction & research Triaging & risk analysis Rating & pricing Quote & bind Portfolio management
+Intake & clearance Extraction & research Triage & risk analysis Rating & pricing Quote & bind Portfolio management
 Resources
-Platform Blogs and articles Events Case studies
+Underwriting OS Blogs and articles Events Case studies
 Solutions
 Carriers MGAs MGA aggregators Mutuals
 Company

@@ -20,11 +20,11 @@ Localized News
 Get ultra-granular, location-focused news
 RESOURCES
 Case Studies
-Dive into case studies showcasing how our API powers innovation across industries
+How teams use NewsCatcher in production
 About Us
 Who we are, what drives us, and how we measure success
 Blog
-We cover the tech stories that matter
+Guides, benchmarks, and use cases for AI builders
 Company
 Careers
 Explore roles with responsibility, growth, and real impact

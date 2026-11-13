@@ -1,28 +1,19 @@
-Showing 1–12 of 144 results
+Showing 1–12 of 134 results
 Fruits & Veggies (Delhi NCR)
-Organic Golden Custard Apple
+Organic Golden Custard Apple (Semi Ripe)
 Price range: ₹180.00 through ₹340.00
 Add Item
 This product has multiple variants. The options may be chosen on the product page
 500 g
 1 kg
-Organic Golden Custard Apple quantity
-Organic Orange
-Price range: ₹130.00 through ₹280.00
-2 kg
-Organic Orange quantity
-Organic Kiwi
-Price range: ₹135.00 through ₹300.00
-3 pcs (220-280 gm)
-6 pcs (450 - 550 gm)
-9 pcs (700 - 800 gm)
-Organic Kiwi quantity
+Organic Golden Custard Apple (Semi Ripe) quantity
 Organic Desi Amla
 ₹ 45.00
 250 g
 Organic Desi Amla quantity
 Organic Big Apples from Upper Kinnaur (5 pcs/ kg)
 Price range: ₹450.00 through ₹1,230.00
+2 kg
 3 kg
 Organic Big Apples from Upper Kinnaur (5 pcs/ kg) quantity
 Organic Small Royal Delicious Apples from Upper Kinnaur (11-13 pcs/ kg)
@@ -36,9 +27,6 @@ Frozen Alphonso Mango Pulp (100% Pure & Natural) quantity
 Frozen Mango Pulp (100% Pure & Natural)
 Price range: ₹350.00 through ₹800.00
 Frozen Mango Pulp (100% Pure & Natural) quantity
-Organic Potato
-₹ 75.00
-Organic Potato quantity
 Organic Lehsun/Garlic
 ₹ 40.00
 100 g
@@ -49,14 +37,9 @@ Organic Desi Coriander (Dhaniya) quantity
 Desi Spinach (Palak) (with little holes & spots)
 Price range: ₹35.00 through ₹60.00
 Desi Spinach (Palak) (with little holes & spots) quantity
-Organic Curry Leaves (Kadi Patta)
-1 Bunch (10 twigs)
-Organic Curry Leaves (Kadi Patta) quantity
 Desi Methi Leaves (with holes & spots)
-Price range: ₹45.00 through ₹75.00
+₹ 75.00
 Desi Methi Leaves (with holes & spots) quantity
-Desi Moringa Fresh Leaves
-Desi Moringa Fresh Leaves quantity
 Desi Radish / Mooli
 Price range: ₹45.00 through ₹80.00
 Desi Radish / Mooli quantity
@@ -69,14 +52,9 @@ Organic Bhindi/Okra quantity
 Organic Cauliflower (Gobhi)
 Price range: ₹50.00 through ₹90.00
 Organic Cauliflower (Gobhi) quantity
-Organic French Beans
-Price range: ₹50.00 through ₹80.00
-Organic French Beans quantity
 Organic Mustard Leaves – Sarson Saag (with little holes & spots)
+₹ 60.00
 Organic Mustard Leaves - Sarson Saag (with little holes & spots) quantity
-Organic Kumbhkat Lemon
-200 g
-Organic Kumbhkat Lemon quantity
 Organic Karela/Bitter Gourd
 ₹ 65.00
 Organic Karela/Bitter Gourd quantity
@@ -85,20 +63,18 @@ Organic Red Bell Pepper
 Organic Red Bell Pepper quantity
 Organic Yellow Bell Pepper
 Organic Yellow Bell Pepper quantity
-Organic Big Round Brinjal
-Organic Big Round Brinjal quantity
 Organic Brinjal – Small
 ₹ 55.00
 Organic Brinjal - Small quantity
 Organic Broccoli
-Price range: ₹160.00 through ₹300.00
+₹ 300.00
 Organic Broccoli quantity
 Organic Celery
 Price range: ₹90.00 through ₹250.00
 750 g
 Organic Celery quantity
 Organic Green Peas – Matar
-Price range: ₹150.00 through ₹280.00
+₹ 280.00
 Organic Green Peas - Matar quantity
 Organic Green Lettuce
 Price range: ₹80.00 through ₹150.00
@@ -106,12 +82,6 @@ Organic Green Lettuce quantity
 Organic Iceberg Lettuce
 Price range: ₹170.00 through ₹330.00
 Organic Iceberg Lettuce quantity
-Desi Raw Papaya (Green)
-₹ 60.00
-Desi Raw Papaya (Green) quantity
-Desi Red Radish
-₹ 90.00
-Desi Red Radish quantity
 Organic Raw Banana
 Organic Raw Banana quantity
 Organic Desi Kachchi Haldi
@@ -126,6 +96,7 @@ Price range: ₹180.00 through ₹850.00
 Stone Ground Khapli Whole Wheat Flour quantity
 Moringa Leaves Powder
 Price range: ₹100.00 through ₹340.00
+200 g
 200 g x 2
 Moringa Leaves Powder quantity
 Chingrihuli Red Rice
@@ -294,6 +265,7 @@ Cumin Seeds/Jeera
 Price range: ₹170.00 through ₹320.00
 Cumin Seeds/Jeera quantity
 Fennel Seeds/Saunf
+Price range: ₹160.00 through ₹300.00
 Fennel Seeds/Saunf quantity
 Mustard Seeds/Rai (Small)
 Price range: ₹65.00 through ₹130.00
@@ -456,3 +428,6 @@ Price range: ₹1,230.00 through ₹2,328.00
 Uncategorized
 About Us
 Login
+Shop
+Chat
+Cart

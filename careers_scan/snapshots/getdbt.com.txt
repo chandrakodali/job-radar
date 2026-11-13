@@ -92,7 +92,6 @@ Lead Full Stack Engineer
 Senior Full Stack Engineer
 Staff Program Manager - Knowledge Management
 Finance Department
-Senior Manager, Accounts Receivable & Billing
 Tax Manager
 Senior Financial Systems Analyst
 Senior International Accountant
@@ -101,6 +100,7 @@ Denver, Colorado, United States, AMER; Oakland, California, United States, AMER
 Director, SOX Compliance & Internal Controls
 Sales Compensation Manager Systems and Analytics
 USA - New York
+Technical Revenue Accounting Lead
 HR Department
 Senior Internal Communications Manager
 Remote, Texas, United States, AMER
@@ -179,7 +179,6 @@ IRL - Dublin (dbt)
 Sales Development Representative, German Speaking
 Strategy & Operations Department
 GTM Strategy & Planning Manager
-Junior Deal Desk Analyst, EMEA
 Revenue Operations Manager
 Global Head of Deal Strategy and Operations
 Systems Engineering Department

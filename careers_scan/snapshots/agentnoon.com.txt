@@ -78,7 +78,6 @@ AI at Dayforce
 Our Technology
 Compliance
 Customer Stories
-Strategic Workforce Planning
 Company Size
 12,000+ employees
 1,000 - 12,000 employees
@@ -90,18 +89,17 @@ Financial Services
 Public Sector
 Professional & Business Services
 Sports Entertainment
-Dayforce
+Agentic HCM Platform
 HR Software
 Payroll
 Workforce Management
 Talent
 Reporting & Analytics
-Centralize Contingent Labor and Spend
-Plan smarter, act with confidence
+Contingent Workforce Management
+Strategic Workforce Planning
 Services & Support
 Overview
 Implementation
-Dayforce Accelerate
 Dayforce Integration Studio
 Training & Education
 Value-Added Services

@@ -1,7 +1,50 @@
-Maintenance Agreements & Memberships
-Maintenance agreements, memberships and recurring visits, on your cadence.
-Service agreements with planned visits, billing and profitability, care plans and memberships with renewals, and recurring visits that create themselves. Recurring work that runs on your cadence, not a preset: maintenance contracts, seasonal schedules, and auto-billed recurring visits, built to your exact cadence and rules, not the ones your last tool forced on you. Change a template or a rule in plain English and it goes live instantly, no rebuild.
+Preventive Maintenance & Service Agreements
+Preventive maintenance and service agreement software, on your cadence.
+Preventive maintenance for every unit and site you service, service agreements that hold the visits, billing and profit, and memberships that renew. Visits are created ahead from the cadence, fitted around your reactive work and billed by the agreement, set up to your own plans and rules. Change a cadence or a rule in plain English and it is live, no rebuild.
 Get Demo See it change live
+The whole topic
+Preventive maintenance and service agreements, end to end
+Recurring work is several jobs at once: knowing what equipment you look after, promising visits, creating them on time, doing them properly, billing for them and renewing the promise. This page covers all of it at a summary level and links to the deeper page for each part.
+The agreement is the source of truth
+A service agreement holds the sites and equipment covered, the visits included, response times, what is billed and when it renews. Everything else on this page is driven from it. If you are writing your first one, the service agreement template walkthrough shows how a paper template becomes a live agreement, and the guide to managing customer service agreements covers terms, pricing and renewals in depth.
+Visits that create themselves
+Each agreement creates its next visits ahead of time from the cadence, so nobody keys them in from a spreadsheet. How that works for a quarterly contract is answered step by step in contracts that create the next visit .
+Equipment and its history
+Preventive maintenance is planned per unit as well as per site: its type, age, warranty, run-hours and every visit, part and photo. The asset management page covers the equipment register and QR codes, and equipment history tracking explains what to record on each visit and why.
+Maintenance work orders and the backlog
+Planned visits sit next to requests from customers and repairs from failed inspection items. If your work is mostly maintaining equipment across many sites, maintenance management software goes deeper on maintenance work orders, PM completion and backlog by site, and how this compares with a CMMS.
+Routes, crews and capacity
+Recurring visits land on the same schedule as reactive work and are grouped by area so a week is not overloaded. Teams that run weekly rounds can plan weekly maintenance runs from a job list .
+Billing, memberships and renewals
+Agreements bill up front, monthly, quarterly or per visit, with AutoPay, and care plans for homeowners renew ahead of time. Invoices, payment links and accounting sync are covered on estimates and invoicing .
+What the customer sees
+Customers can see their plan, their next visit, past reports and what they owe in the customer portal , so the office is not asked when the next service is due.
+Agents that watch the contracts
+The Scheduler agent proposes dates for the visits that are due and the Watcher agent flags the missed visit, the contract running out of included hours and the renewal coming up. Changes wait for a person to approve them.
+Preventive maintenance scheduling
+Preventive maintenance by site and equipment, not by memory.
+Every unit you service and every site you cover carries its own maintenance plan. The visits are created ahead of time, land on the same schedule as your reactive work, and are recorded against the equipment they were for.
+A cadence per unit or site
+Weekly to annual, seasonal, or after a set number of run-hours. The cadence can come from the equipment type, its age or the customer's agreement.
+PM due in one list
+Preventive maintenance that is due, by site and equipment, so the office sees what is coming before it is missed.
+Created ahead, fitted to capacity
+Visits are generated from the cadence and slotted into existing capacity, assigned to the technician or crew who usually covers the site.
+The right checklist on every visit
+Each visit carries its maintenance checklist and the fields it must capture, such as serial number, filter size or a meter reading.
+Scan the unit on site
+A QR code on each site and asset opens its record on the technician's phone: every visit, part, photo and technician.
+Readings that raise a flag
+A rule you set on a meter reading or the unit's condition, such as a run-hours limit, puts the unit into a review queue for repair or replacement.
+Missed visits are loud
+A rule watches every cadence and alerts the office when a visit is overdue, so it is rebooked with the cadence kept.
+Warranty before the quote
+Warranty and agreement coverage dates sit on every asset, so the office checks them before anyone quotes a repair.
+History that stays with the equipment
+Work, parts and readings from each visit are stored on the unit, and customers can see them in their portal if you choose.
+Next maintenance due on every unit.
+Recurring visits on the schedule.
+Equipment and asset tracking Maintenance checklists Scheduling and dispatch
 Maintenance agreements
 Agreements with the visits, the billing and the profit on one page.
 A service agreement holds what you promised: the planned visits, how it is billed, and whether it is making money.
@@ -35,7 +78,7 @@ Schedule, recurring visits.
 SLA tracking Invoices and payments
 Plain English
 Describe the change. It goes live.
-Maintenance Agreements & Memberships Plain English
+Preventive Maintenance & Service Agreements Plain English
 2 fields added
 Serial + filter size on every visit form
 Pushed to all recurring templates
@@ -148,22 +191,153 @@ Invoices
 Agreements bill on schedule with AutoPay.
 Dispatch board
 Recurring visits fit around reactive work.
+Quotes from findings
+A fault found on a maintenance visit becomes a quote, at the member or contract price, instead of a note in the report.
+Parts and van stock
+Filters, belts and other parts used on visits come off the van or warehouse stock, so restocking keeps up with the maintenance season.
+Customer portal
+Customers see their plan, next visit, reports and invoices.
+QuickBooks, Xero and Sage
+Agreement invoices and payments sync two-way, so the books match the contracts.
 When this is not the right fit
 If you have only a handful of repeat customers, a calendar reminder may be enough.
+If you maintain only your own building or plant with an in-house team and never bill a customer, a CMMS built for that may suit you better.
 Recurring visits are scheduled against your capacity; if the team is already full, the schedule will show the clash rather than hide it.
 Moving existing contracts in needs the start dates, cadence and sites for each. We do the import during setup.
+Worked example: a homeowner membership
+How a residential care plan runs for a year
+The worked example above is a commercial contract. This one is a homeowner on a two-visit HVAC care plan, the most common membership in residential heating and cooling. It shows how the plan is sold, scheduled, billed and renewed.
+Sold at the end of a repair
+A technician finishes a furnace repair for Melissa Coleman and offers the Comfort plan on the phone at checkout: a spring cooling tune-up, an autumn heating tune-up, priority booking and a member discount on repairs. She signs on the phone and her card is kept on file for AutoPay.
+The plan creates two visits
+Joining the plan creates the spring and autumn visits for the year with their target months. Both carry the tune-up checklist for her equipment, so the technician records readings, filter size and condition the same way every time.
+Booked inside the window
+When the spring window opens, the visit is proposed on a day when a technician is already working nearby. The booking message waits for the office to send it, and Melissa confirms the time from her text or portal.
+The visit is done and recorded
+The technician opens the visit, scans the QR label on the outdoor unit, works through the checklist and adds photos. A worn capacitor is found. Because she is a member, the repair quote shows her member price and she approves it on the spot.
+Billing runs without a person
+The monthly plan payment is taken by AutoPay. The capacitor repair is invoiced separately at member pricing and paid with Tap to Pay before the technician leaves.
+Renewal is prepared ahead
+Ninety days before the anniversary, the renewal is drafted from the plan, counted from the date on the record.
+The membership, both visits, the repair and every payment sit on Melissa's record. The plan shows visits used and remaining, and the care plans screen shows members, renewals due and visits due across every customer.
+The settings you control on a maintenance agreement
+Every agreement is set up from your own plans and rules during setup, and any of these can be changed later from the office or by asking in plain English. Past visits and invoices keep the terms they were created under.
+Setting
+What you choose
+Example
+Cadence
+Weekly, monthly, quarterly, twice a year, yearly, seasonal, or after a set number of run-hours or a meter reading.
+Quarterly PM on rooftop units; generator test every 500 run-hours.
+Visit window
+How far ahead visits are created and how many days either side of the due date counts as on time.
+Created a quarter ahead; on time within 10 days of the due date.
+Coverage
+The sites and units on the agreement, what is included and what is billed as extra.
+Filters and belts included; refrigerant and compressor work billed.
+Response times
+Response, arrival and completion targets, counted in your business hours, with pauses while waiting on the customer.
+Gold tier: 4-hour response on emergencies.
+Your own plan names, each with its own visits, response times, discounts and price.
+Bronze, Silver and Gold, or Comfort and Comfort Plus.
+Up front, monthly, quarterly, annual or per visit, with AutoPay, and how extras are invoiced.
+Monthly AutoPay; extra visits invoiced on completion.
+Checklist and fields
+The checklist each visit carries and the fields it must capture before it can be closed.
+Serial number, filter size, refrigerant pressures, photo of the condenser.
+Assignment
+The technician or crew who usually covers a site, and the skills a visit needs.
+Riverside Plaza always goes to the commercial crew.
+Alerts and renewals
+When the office is told about overdue visits, renewals and warranties, counted from dates on the record.
+Overdue after 3 days; renewal drafted 90 days out; warranty ending in 30 days.
+Customer view
+Which parts of the agreement appear in the portal: plan, next visit, reports, invoices.
+Commercial clients see reports per site; homeowners see their next visit.
+How typical tools handle preventive maintenance and agreements
+Search results for preventive maintenance software mix two kinds of product: CMMS tools for an in-house team maintaining its own building or plant, and field service tools for companies that sell maintenance to customers. This is how a typical tool of each kind compares with Fieldproxy on the points buyers ask about.
+Question
+Typical tools
+Fieldproxy
+Who it is built for
+CMMS tools assume you own the equipment. Many field service tools treat maintenance as a repeating calendar entry.
+Built for maintenance you sell: customers, sites and units, with the agreement, the visits and the billing joined up.
+Where agreements live
+Often a separate module or a higher plan, and sometimes a spreadsheet next to the scheduling tool.
+Agreements, memberships and recurring visits are part of the same records as jobs, quotes and invoices.
+Creating visits
+Repeat jobs copied on a fixed date, whether or not the week has room.
+Visits created ahead from the cadence and placed into real capacity, with the change proposed for a person to approve.
+Missed visits
+Found when the customer complains or at quarter end.
+A rule watches every cadence and tells the office when a visit is overdue.
+Is the contract profitable?
+Revenue is visible; the labour and parts used against it usually are not.
+Each agreement shows billed to date, cost to serve and margin.
+Fitting your process
+A fixed template; changes wait for the vendor's roadmap.
+Your own stages, fields and checklists, changed by asking in plain English, live within a day.
+Users
+Per-seat pricing is common, so office staff and part-time technicians get rationed logins.
+One price per company with unlimited users.
+Typical tools here means the common pattern across the products that rank for these searches, not any one product. Check any tool, including ours, against your own contracts in a demo.
+Questions to ask any maintenance software vendor
+Bring one of your real contracts to the demo and ask these. The answers show quickly whether the tool fits the way you sell maintenance.
+Can one agreement cover several sites and units, each with its own cadence?
+Are visits created ahead and fitted to capacity, or copied onto fixed dates?
+Can a visit be triggered by run-hours or a meter reading, not just the calendar?
+What happens, and who is told, when a visit goes overdue?
+Can I see what a contract cost to serve against what it billed?
+Can commercial clients get one invoice per period across their sites? (See one invoice for many sites .)
+How are my existing contracts, start dates and equipment moved in, and who does it?
+Can I change a plan's cadence or price without breaking past visits and invoices?
+Moving your contracts over
+Most companies arrive with contracts in a spreadsheet or in another tool. Migration is free and assisted.
+1 . Send what you have
+Your customer list, sites, equipment and the agreements with start dates, cadence and billing terms, from a spreadsheet or an export of your current tool.
+2 . We map it to your plans
+Plans, tiers, checklists and alert rules are set up the way you sell maintenance today, not a template.
+3 . Live within a day
+Agreements are loaded, the next visits are created and the schedule shows what is due. You check a few contracts against your records before anyone relies on it.
+4 . Run from the AI assistant you use
+Through Fieldproxy's MCP server , you can ask Claude, ChatGPT or Copilot which visits are due next week or which contracts renew this quarter, and make changes with a confirm step.
 Questions
 Straight answers.
 What is preventive maintenance software for service companies?
 It holds your maintenance agreements, creates the visits on the right cadence, schedules them, records the work and bills the contract. Fieldproxy does this alongside your reactive jobs on one schedule.
+What is service agreement software?
+It holds what you promised each customer: the sites and equipment covered, the visits included, response times, how it is billed and when it renews. In Fieldproxy the agreement creates its own visits, bills on its schedule and shows billed to date, cost to serve and margin.
 Can visits be created automatically from a contract?
 Yes. Visits are generated ahead of time from the cadence and fitted into your capacity.
+Can preventive maintenance be scheduled per piece of equipment?
+Yes. Each unit can carry its own cadence, set by its type, its age or the customer's agreement, or triggered after a set number of run-hours. The work from each visit is stored on the unit.
 What happens when a maintenance visit is missed?
 A rule watches every cadence and alerts the office when a visit is overdue, so it can be rebooked.
 Can we run membership or care plans?
 Yes. Tiered plans with different SLAs, visit counts and pricing, billed by AutoPay, with renewals drafted ahead of time.
 Can we see if a contract is profitable?
 Yes. Each agreement shows billed to date, cost to serve and margin.
+What is the difference between preventive maintenance software and a CMMS?
+A CMMS is usually built for an in-house team maintaining equipment it owns in one building or plant. Preventive maintenance software for field service is built for companies that maintain other people's equipment at many sites, so it also handles the customer, the agreement, the travel and the invoice. Fieldproxy is the second kind.
+What is maintenance agreement software?
+It records the maintenance you have sold to each customer and runs it: the visits included, response times, billing and renewal. In Fieldproxy the agreement creates its own visits, bills on its schedule and shows whether it is profitable.
+Is there HVAC maintenance software that handles both commercial contracts and homeowner plans?
+Yes. Fieldproxy runs commercial agreements with sites, units and response times and residential care plans with members, visits due and renewals, on the same schedule and records.
+Can preventive maintenance be triggered by run-hours or meter readings?
+Yes. A cadence can be set by the calendar or by run-hours, and a rule on a meter reading can flag a unit for review.
+Can one commercial customer have many sites on one agreement?
+Yes. An agreement can cover several sites and the units at each, with a cadence per site or unit.
+Can technicians see the maintenance history before they arrive?
+Yes. The visit opens on the technician's phone with the site, the units and their history, and scanning the QR code on a unit opens its record.
+How do we move existing service agreements into Fieldproxy?
+Send your agreements, sites and equipment from a spreadsheet or your current tool. Migration is free and assisted, and Fieldproxy is live within a day.
+Is Fieldproxy priced per user?
+No. Fieldproxy is one price per company with unlimited users, so every technician and office person can use it.
+Can a maintenance visit find a repair and turn it into a quote?
+Yes. A failed checklist item or a fault found on the visit becomes a quote line, at the member or contract price where one applies, and the customer can approve it on the spot or from a link.
+Can we bill a commercial client once for all the PM visits across their sites?
+Yes. Visits can close per site and bill on one invoice per client and period, with each line linked to that site's report.
+Can I manage maintenance contracts from ChatGPT or Claude?
+Yes. Fieldproxy's MCP server lets you ask Claude, ChatGPT or Copilot about due visits, renewals and contracts, and make changes with a confirm step before anything is saved.
 Part of Fieldproxy's field service management software →
 Recurring revenue, without the recurring grind.
 30-minute demo on your contract base. We'll schedule a month of visits in seconds.

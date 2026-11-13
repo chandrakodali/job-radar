@@ -3,7 +3,11 @@ Index
 Blog - Latest articles on time tracking & e-invoices
 Discover exciting articles and current updates on time tracking, e-invoicing, controlling, and HR. Dive into our blog!
 Subscribe to new articles in your feed reader: RSS feed , Atom feed or JSON Feed .
-114 articles found
+115 articles found
+Upload a signed timesheet without counting hours twice
+Freelancers now attach the signed timesheet right when they submit. Organisations assign booked time records afterwards – even to approved timesheets, with an exact check of duration and amount.
+CreditNotes TimeRecording
+Robert Reiz | November 13, 2026 - 09:52 UTC
 VIES VAT number check: no waiting, no gaps
 ZEIT.IO re-checks every day the VAT IDs that VIES couldn't check when you saved. If one doesn't exist, the freelancer or the organisation's admins get an email – and so do clients with a running supplier contract.
 Accounting Controlling E-Invoice EN16931
@@ -91,6 +95,3 @@ Robert Reiz | September 30, 2026 - 06:08 UTC
 Project permissions: every tab now needs its own permission
 Project permissions alone no longer unlock financial data: invoices, credit notes, offers, expenses, timesheets and automatic invoicing in the project now require the same permission as their overview pages.
 Robert Reiz | September 29, 2026 - 10:38 UTC
-Cancellation: who reads the reason – and who hears about it
-New cancellation email for timesheets and expenses: freelancer, submitter and all approvers receive the reason. The cancellation page now points out that the reason is also published as a comment visible to everyone with read access.
-Robert Reiz | September 29, 2026 - 08:37 UTC

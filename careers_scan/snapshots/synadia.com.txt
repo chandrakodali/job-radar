@@ -1,6 +1,6 @@
-On-demand workshops: Disaster recovery with NATS JetStream
-Adding an enterprise backbone above MQTT
-Leaving TIBCO or Solace for NATS
+New
+Synadia Agent Fabric is in public preview
+Request access
 Build the future of
 connectivity
 At Synadia we are pioneering a new way for digital systems to connect

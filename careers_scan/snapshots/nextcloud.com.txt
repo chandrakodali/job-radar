@@ -119,28 +119,6 @@ A fun and diverse team.
 A product that pushes the boundaries of technology with a global user and contributor community.
 Remote work and flexibility for a healthy work-life balance.
 We are looking for somebody with ambition and drive who would like to grow and learn. We especially encourage applications from people from underrepresented groups.
-At Nextcloud we help our users achieve a safe home for all their data. Secure, under your control and developed in an open, transparent and trustworthy way. Our Team of 170 is distributed in 30 countries worldwide.
-We work remotely and our work culture is shaped by mutual trust, enthusiasm and a strong belief in the principles of open source.
-We are seeking a proactive, detail-oriented Accountant / Finance Executive Assistant to join our team and play a crucial role in our financial operations. In this position, you will work closely with our financial executives, providing them with the support they need to drive our company’s success.
-Receivables management
-Notification of reportable foreign payments
-Dunning process
-Account clarification/reconciliation
-Contact person for customers/ debtors (regarding payment modalities)
-Manage and process accounts payable (AP), accounts receivable (AR), and general ledger entries
-Prepare and submit VAT returns and other statutory financial filings on time
-Assist in preparing monthly, quarterly, and annual financial statements in accordance with the German Commercial Code (HGB)
-Monitor daily cash flow, process payments, and oversee credit control and debt collection processes
-Bachelor’s or Master’s degree in Accounting, Finance, or Business Administration
-Minimum of 3 years of professional experience in accounting or finance
-Experience in customer receivables management
-Experience with reportable foreign payments
-Experience in financial planning
-Commercial training, ideally education in financial accounting
-Fluent in English, ideally German speaker
-Reliability, excellent attention to detail
-Ability to work in a team and independently
-We are looking for somebody with ambition and drive who would like to grow and learn. Send your resume to jobs@nextcloud.com if you are interested in this role. We especially encourage applications by people from under-represented groups.
 We are seeking a passionate Account Manager to focus on cultivating and maintaining long-term relationships with our existing customers, ensuring their continued success and satisfaction with our solutions.
 Your responsibilities will center around nurturing these relationships, connecting with key business executives and stakeholders, and acting as the primary point of contact for your assigned customers. You will work closely with cross-functional internal teams to ensure the timely and successful delivery of solutions that meet our customers’ needs.
 Act as the lead point of contact for all matters specific to existing customers
@@ -275,6 +253,7 @@ The opportunity to grow into a leadership role in the near future
 Remote first strategy – but you are welcome in our offices in Stuttgart or Berlin, if you like!
 Send your CV to jobs@nextcloud.com , if you are interested in this role.
 At Nextcloud we help our users achieve a safe home for all their data. Secure, under your control and developed in an open, transparent and trustworthy way. Our Team of >170 is distributed in 30 countries worldwide.
+We work remotely and our work culture is shaped by mutual trust, enthusiasm and a strong belief in the principles of open source.
 We are looking for a well organized International Marketing Manager, to help grow and multiply our marketing efforts globally. Your responsibilities would include implementing marketing campaigns, putting together promotional materials and organizing or attending events.
 Conduct market analysis to understand the preferences, and trends within the global markets
 Create, implement and measure marketing campaigns and content targeted at the B2B market across various formats such as social media
@@ -288,6 +267,7 @@ Ability to represent Nextcloud at events (self organized or attending)
 Strong analytical skills to interpret data and guide strategic decisions
 Excellent communication skills to effectively collaborate with team members, stakeholders, and external partners
 Language proficiency in English, Spanish and / or either Nordic language essential
+We are looking for somebody with ambition and drive who would like to grow and learn. Send your resume to jobs@nextcloud.com if you are interested in this role. We especially encourage applications by people from under-represented groups.
 We are looking for a well organized Marketing Manager, to help grow and multiply our marketing efforts in the German language regions. Your responsibilities would include implementing marketing campaigns, putting together promotional materials and organizing or attending events.
 Conduct market analysis to understand the preferences, and trends within the German-speaking markets
 Create, implement and measure marketing campaigns and content targeted at the B2B market in the German speaking regions, across various formats such as social media

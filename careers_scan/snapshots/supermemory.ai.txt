@@ -61,16 +61,32 @@ We build all the critical infrastructure ourselves. Which means we can deploy it
 Talk to us for your deployment requirements
 In your data center
 001
+Scale and Enterprise, air-gapped on Enterprise
 In your VPC
 002
+Scale and Enterprise
 On your laptop
 003
+supermemory local: free, up to 10,000 stored documents
 Enterprise security.
 supermemory is SOC 2 Type II certified, with a HIPAA BAA on Scale and Enterprise and GDPR compliance. We will sign your contracts and DPA, and deploy air-gapped where the data cannot leave at all.
 Security and compliance Trust center Self-hosting in the docs
 Running memory in production?
 If your agents already depend on it, they should be running on the engine the benchmarks and the numbers above describe. Any model, any harness, through our API, plugins and MCP.
 Build with supermemory
+Questions
+What is supermemory?
+supermemory is a memory API for AI agents and apps. It gives any model long-term memory: it extracts memories from conversations, documents and files, keeps a profile for each user, and brings the right context back when the model needs it. It is available as an API with TypeScript and Python SDKs, as plugins for coding agents, and as an MCP server.
+How is agent memory different from RAG or a vector database?
+A vector database stores embeddings and returns the nearest ones; what to store, update and delete is left to you. supermemory manages the memories themselves: it extracts facts, updates them when they change, forgets what has expired and keeps a profile for each user. It also does retrieval over your documents (SuperRAG), so there is no vector database to run.
+Which models, agents and frameworks does supermemory work with?
+Any model. There are SDKs for TypeScript and Python and a REST API; plugins for Claude Code, Cursor, Codex, OpenCode, OpenClaw and Hermes; an MCP server for Claude, ChatGPT and other MCP clients; and integrations for the Vercel AI SDK, LangChain, LangGraph, CrewAI, the OpenAI SDK, Mastra, Pipecat, LiveKit, Zapier and n8n.
+Can I self-host supermemory?
+Yes. supermemory local is a free self-hosted binary for up to 10,000 stored documents; it runs on your machine and is not open source. Running supermemory in your own cloud or on a dedicated instance is available on Scale and Enterprise, and Enterprise also supports fully air-gapped deployments, where LLM inference may be the only outbound call, or none at all.
+Is supermemory open source?
+Partly. The main GitHub repository, including the MCP server, and the plugins are MIT, and the TypeScript and Python SDKs are Apache 2.0. The memory engine is not open source: it runs in our cloud, as the free supermemory local binary, or in your own infrastructure on Scale and Enterprise.
+How much does supermemory cost?
+The Free plan includes $5 of credits every month. Paid plans start at $19 a month, and usage is billed at the same rates on every plan.
 Writing
 01 How we built insanely good memory for grok bot (by making it a teammate instead)
 02 We dug into Claude Code's memory. Here's exactly how it works

@@ -1,2 +1,2 @@
-New Permit Nexus PDP benchmarks: 5.6 ms P99 on RBAC checks, measured server-side Nexus PDP: 5.6 ms P99 RBAC checks See the benchmarks
+New Introducing Software Factory Security: identity, policy, approval, and audit for fleets of AI coding agents New: Software Factory Security Learn more
 Loading

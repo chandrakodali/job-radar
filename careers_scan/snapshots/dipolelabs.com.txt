@@ -1,17 +1,13 @@
 Careers
-We're hiring
 Join the team.
-We are hiring in Lausanne and San Francisco. If you're eager to work with a fast-moving team of engineers and scientists and make an impact in the world, we want to hear from you!
-Process Engineer
-Full-time · On site, Lausanne
-Lead Process Engineer
-Lead Photonics Engineer
-Full-time · On site, Lausanne / San Francisco
-Optical Test and Characterization Engineer
-Photonics Device Physicist
-Sr. Optical Systems Engineer
-Full-time · On site, San Francisco
-Sr. Electrical Engineer
-Lead Network and Product Systems Engineer
-Sr. Optomechanical Engineer
-AI and Data Infrastructure Engineer
+We are hiring in San Francisco and Lausanne. If you're eager to work with a fast-moving team of engineers and scientists and make an impact in the world, we want to hear from you!
+Process Engineer Lausanne Full-time · On-site
+Photonics Engineer Lausanne / San Francisco Full-time · On-site
+Optical Test and Characterization Engineer Lausanne Full-time · On-site
+Photonics Device Physicist Lausanne / San Francisco Full-time · On-site
+Sr. Optical Systems Engineer San Francisco Full-time · On-site
+Sr. Electrical Engineer San Francisco Full-time · On-site
+Lead Network and Product Systems Engineer San Francisco Full-time · On-site
+Sr. Optomechanical Engineer San Francisco Full-time · On-site
+AI and Data Infrastructure Engineer San Francisco Full-time · On-site
+Don't see your role? Tell us what you would build.

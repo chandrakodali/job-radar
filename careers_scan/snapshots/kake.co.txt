@@ -7,14 +7,20 @@ If you're unsure or don't see a specific role that fits your mold quite yet,
 we encourage you to apply regardless as we've always got things cooking!
 Loading jobs…
 Enter the skill(s) that fit your interests and background
-Senior Data Analyst
+Senior Web & Video Player Engineer
 Timezone: GMT-5
-Power BI Snowflake SQL Python DAX Microsoft Fabric ETL Azure Synapse
+JavaScript HLS Video Player live streaming Senior Web Player Engineer
+Senior Forward Deployed Engineer (Backend-leaning)
+Timezone: GMT-8
+FDE TypeScript Python Fast API Node.js Express.js LLM AI AI Native Product PostgreSQL GCP Functions Jobs React
+Senior Data Analyst
+Power BI Snowflake SQL Python DAX Microsoft Fabric ETL Azure Synapse DBT
+Senior Rust Engineer
+Rust Senior Rust Engineer Tokio CI/CD
 Senior FullStack (Go/TypeScript) Engineer
 Timezone: GMT-6
 Go Golang TypeScript FullStack (Golang/TypeScript)
 Senior Fullstack Engineer (Golang/React)
-Timezone: GMT-8
 Go Apache Kafka SQS Apache Airflow MongoDB Snowflake React Next.js GraphQL
 Senior Backend Engineer (Golang)
 Go Apache Kafka Apache Airflow Snowflake MongoDB SQS
@@ -48,8 +54,6 @@ Technical Lead - Legacy Financial System
 Technical Lead .Net Backend Architecture Java Kubernetes Integration Architecture HIPAA BAA
 Pipeline Developer
 Unreal Engine Python C++ VFX
-Senior Forward Deployed Engineer (Backend-leaning)
-FDE TypeScript Python Fast API Node.js Express.js LLM AI AI Native Product PostgreSQL GCP Functions Jobs React
 Senior Android Engineer
 Timezone: GMT-3
 Android Java Kotlin Jetpack MVVM Kotlin Coroutines
@@ -57,16 +61,12 @@ Forward Deployed Engineer
 LLM Engineering AI Python Cloud Network
 Senior React Native Engineer (Mobile)
 React Mobile React Native Redux MobX
-Senior Rust Engineer
-Rust Senior Rust Engineer Tokio CI/CD
 Senior Data Engineer (Analyst/Scientist)
 Data Engineering Data Science SQL Python R Tableau Power BI looker
 Senior Android Video Player Engineer
 Android Kotlin Java ExoPlayer Senior Android Video Player Engineer live streaming HLS
 Partner Success/Operations Support
 Customer Success
-Senior Web & Video Player Engineer
-JavaScript HLS Video Player live streaming Senior Web Player Engineer
 Senior Backend Engineer (TypeScript/Python/C#)
 Backend (TypeScript/Node) C# Python REST API AWS Azure GCP TypeScript
 Senior iOS Video Player Engineer

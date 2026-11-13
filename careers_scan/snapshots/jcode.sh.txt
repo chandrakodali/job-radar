@@ -3,7 +3,7 @@ High performance coding agents, written in Rust.
 Built for demanding development workflows with many agents working in parallel.
 curl -fsSL https://jcode.sh/install | bash
 macOS Linux Windows Desktop app beta
-Pricing · Enterprise · justrust · GitHub · Discord
+iPhone beta · Pricing · Enterprise · justrust · GitHub · Discord
 Inline image rendering
 Resume menu
 LaTeX rendering
@@ -205,7 +205,7 @@ Default coding tools
 gpt-5.6-sol code mode, local core (Linux)
 4,982
 CLI build / Claude Sonnet / Linux bash
-7,592
+7,352
 Default Linux session; simultaneously exposed tools
 Claude Code : not measured. Third-party leaked source lacks a verified default build/profile and pinned schema serializer.
 Normalized native tool definitions only · o200k_base · no MCP server tools or provider framing · method · data

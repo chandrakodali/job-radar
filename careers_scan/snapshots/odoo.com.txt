@@ -1,7 +1,7 @@
 Want to have an impact while having fun ?
 Your next adventure starts below!
 Countries
-All Countries 184
+All Countries 185
 India 15
 Kenya 10
 United Arab Emirates 14
@@ -10,12 +10,12 @@ Australia 3
 Belgium 42
 Philippines 7
 Spain 8
-Germany 7
+Germany 8
 France 5
-Brazil 7
 United States 23
-Indonesia 14
+Brazil 7
 Luxembourg 2
+Indonesia 14
 Mexico 8
 Hong Kong 15
 Offices
@@ -29,16 +29,16 @@ Human Resources 2
 Content & Learning 1
 Direct Sales 5
 Finance 1
-Direct Customer Success 4
-Partnership Recruitment 4
 Indirect Customer Success 2
+Partnership Recruitment 4
+Direct Customer Success 4
 Marketing 1
 Business Services 1
 Business Support 1
 Job position
 Filters
 All Countries
-184
+185
 India
 Kenya
 United Arab Emirates
@@ -49,10 +49,10 @@ Philippines
 Spain
 Germany
 France
-Brazil
 United States
-Indonesia
+Brazil
 Luxembourg
+Indonesia
 Mexico
 Hong Kong
 All Offices
@@ -64,9 +64,9 @@ Human Resources
 Content & Learning
 Direct Sales
 Finance
-Direct Customer Success
-Partnership Recruitment
 Indirect Customer Success
+Partnership Recruitment
+Direct Customer Success
 Marketing
 Business Services
 Business Support
@@ -98,14 +98,15 @@ Senior Accountant
 Administration / Finance
 Account Executive (Spanish)
 Our Sales Team is seeking an enthusiastic Account Executive to take charge of the entire sales cycle and analyze client business operations all across Latin America. Apply now!
-Customer Care Associate (Spanish)
-Sales / Direct Customer Success
+Customer Success Manager, Indirect
+Sales / Indirect Customer Success
 Build and maintain relationships with multiple customers! We’ll train you on Odoo’s diverse applications, and you’ll use your business understanding to drive adoption and expand your client base.
-Customer Success Manager, Direct
-Partner Account Executive, French
+Partner Account Executive, Dutch
 Sales / Partnership Recruitment
 Develop, grow, and maintain our network of implementation partners in North America!
-Customer Care Associate, French
+Customer Success Manager, Direct
+Sales / Direct Customer Success
+Partner Account Executive, French
 Job Events
 Discover and discuss the open positions at Odoo.
 Next events

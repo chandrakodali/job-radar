@@ -32,8 +32,8 @@ Jack Hickman is Client Strategy Lead at Artificial Societies, specialising in co
 Product Engineer
 Egor Vert
 Egor Vert is a Product Engineer at Artificial Societies. He develops the company’s products and led the engineering of its new website. Before AS he worked at Brightside AI, a Swiss cybersecurity startup, where he led the development of their voice phishing platform.
-Edoardo Chidichimo
-Edoardo Chidichimo works on the application and evaluation of social simulations as a Forward Deployed Engineer at Artificial Societies. His research spans computational neuroscience and information theory, with a particular interest in the beliefs and behaviours that structure human sociality. He holds an MPhil and BA from the University of Cambridge, where he founded the Cambridge Journal of Human Behaviour, and has since completed his doctoral research at Oxford University.
+Dr Edoardo Chidichimo
+Dr Edoardo Chidichimo works on the application and evaluation of social simulations as a Forward Deployed Engineer at Artificial Societies. His research spans computational neuroscience and information theory, with a particular interest in the beliefs and behaviours that structure human sociality. He holds an MPhil and BA from the University of Cambridge, where he founded the Cambridge Journal of Human Behaviour, and has since completed his doctoral research at Oxford University.
 Peter Tiborcz
 Peter Tiborcz develops and deploys simulation technology as a Forward Deployed Engineer at Artificial Societies. He holds an MSc in Applied Social Data Science from the London School of Economics, and his experience includes building data pipelines, analytics systems and AI applications. At AS, he works across the technical stages of a project, from defining requirements to delivering a working product.
 Creative Director

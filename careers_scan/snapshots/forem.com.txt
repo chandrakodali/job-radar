@@ -6,79 +6,79 @@ Related tags include #resume and #portfolio as resources to enhance your #career
 Older #career posts
 … 75
 … 100
-How did you end up in tech, and are you staying?
-Features a LEGO robotics plot twist
-Maame Afua A. P. Fordjour
-Nov 9
-# discuss
-# career
-# beginners
-# watercooler
-146 reactions
-57 comments
-3 min read
-How do you truly stand out in Tech?
-Navigating AI-era layoffs and high standards
-FrancisTRᴅᴇᴠ
-# community
-# productivity
-174 reactions
-101 comments
-8 min read
 Four Applications and One Ask. Guess Which One Scared Me.
 Building in public makes reference asks effortless
 Earl Grey
 Nov 12
+# discuss
 # ai
+# career
 # womenintech
-17 reactions
-9 comments
+26 reactions
+19 comments
 4 min read
-The Question I Never Asked
-AheadKit
-Nov 13
-# programming
-1 reaction
-Add Comment
-7 min read
-Senior Devs Don't Have Better Memory. They Have Bigger Chunks.
+How did you end up in tech, and are you staying?
+Features a LEGO robotics plot twist
+Maame Afua A. P. Fordjour
+Nov 9
+# beginners
+# watercooler
+147 reactions
+61 comments
+3 min read
+Why You Blank on Easy Commands During an Outage (Your Brain Has a Stress Switch)
 Spartan Rich
+Nov 13
+# productivity
 # learning
+# devops
+Add Comment
 6 min read
-Should Junior Developers Learn to Code Without AI First?
-Rimon Nassory
-# softwareengineering
-Securing AI is now a job market: what 226 open AI security roles ask for and pay
-CyberJobs.cc
+The Diff I Will Stop Reading
+Remus Lazar
+# codereview
+9 min read
+My Second Dance with Hacktoberfest (2026)
+Hotragn Pettugani
+# hacktoberfest
+# opensource
+5 min read
+Your side project doesn’t have to make money
+She Builds Within
+# sideprojects
+1 comment
+Learning DSA in Public, Week 2: Running Totals, Train Engines and Two Pointers
+Victor Ogbonna
+# python
+# algorithms
+AI Gave Everyone a Red Team. It Did Not Give Anyone Judgment.
+Harrison Guo
 # security
-# llm
-A number told me my prose was alive. A reader lost track on line four.
-Qwerta
-# writing
-Is Claude Certified Architect worth it? Jobs and demand in 2026
-Szymon Paluch
+# programming
+CCAO-F: the biggest domain isn't prompting. 6 traps that cost people points
+Skillmarked
 # claude
 # certification
-A Tech recruiter's 5-level framework to write your resume bullet points
-Emmanuel Gendre
-# resume
-A gap is better than a guess
-Matt Cockayne
-# agents
-# testing
-AI made practice tools cheaper. So why is deliberate practice still so rare?
-Thiago Longo Moraes
-Databricks Data Engineer Associate vs Professional
-Sajeev PS
-# databricks
-# dataengineering
-5 min read
-AWS CLF-C02 vs AIF-C01: Which Foundational Exam First?
-# aws
-How to Become a Better Engineering Leader: 15 Practical Skills
-Naveed Ahmed
+Team Working Agreements: Template and Workshop
+Sascha Mirow-Stanitzok
+# management
+11 min read
+The Question I Never Asked
+AheadKit
+1 reaction
+7 min read
+Digital Footprint Check: Hidden Gem or Hard to Ignore?
+Marian Kamenistak
 # leadership
-# devops
+Senior Devs Don't Have Better Memory. They Have Bigger Chunks.
+Customer academies and certificates: real proof of skill, or a badge nobody asked for?
+Wbcom Designs 💡
+# saas
+# elearning
+Seven design scenarios for interviewing AI and data engineers, and what a pass looks like
+Bromena
+# machinelearning
+# hiring
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Free AWS Certification for Students: The Complete Step-by-Step Guide
 How I Feel about the Grace Hopper Celebration Getting Cancelled
