@@ -25,6 +25,7 @@ on:
 
 permissions:
   contents: write
+  actions: write      # lets a run start the next one (scripts/next_run.py)
 
 concurrency:
   group: radar
@@ -89,3 +90,16 @@ jobs:
             sleep 5
           done
           echo "Could not push results" && exit 1
+
+  # GitHub's schedule often skips runs, so each run starts the next one on time (and the Auto Radar
+  # every 3 hours). The cron schedules above stay on as a backup.
+  next-run:
+    needs: scan
+    if: ${{ always() && github.ref_name == 'main' && inputs.dry_run != true }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v5
+      - run: pip install requests && python scripts/next_run.py
+        env:
+          GH_TOKEN: ${{ github.token }}

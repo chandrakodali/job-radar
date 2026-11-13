@@ -121,7 +121,9 @@ You'll get a "Job Radar is connected" message on the next run (within 30 minutes
 Every run rewrites `docs/index.html`: a phone-friendly page with every match, filters (date, work type,
 sponsor-friendly, strong only), and Save / Applied / Skip buttons that remember your choices in your browser.
 
-Turn it on once: **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main`, folder `/docs` → Save.**
+GitHub's own schedule often skips runs on busy days, so each DevOps run ends by waiting for the next half-hour slot and starting the next run itself (`scripts/next_run.py`), and starts the Auto Radar every 3 hours; the schedules stay on as a backup.
+
+Turn the page on once: **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main`, folder `/docs` → Save.**
 It then lives at `https://chandrakodali.github.io/job-radar/`.
 
 ## AI check (optional, free)
