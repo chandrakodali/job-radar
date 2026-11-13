@@ -7659,17 +7659,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 21,
+   "n": 22,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 21,
+   "n": 22,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 21,
+   "n": 22,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -8613,6 +8613,11 @@
    "n": 3,
    "since": "2026-11-08"
   },
+  "workday:allina|wd5|external": {
+   "err": "invalid JSON",
+   "n": 1,
+   "since": "2026-11-13"
+  },
   "workday:amplify|wd1|Amplify_Careers": {
    "disabled_until": "2026-11-14",
    "err": "HTTP 403",
@@ -8681,7 +8686,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 25,
+   "n": 26,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -8725,6 +8730,11 @@
    "err": "HTTP 403",
    "n": 3,
    "since": "2026-11-08"
+  },
+  "workday:magellanhealth|wd5|magellan_health_careers": {
+   "err": "HTTP 401",
+   "n": 1,
+   "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
    "disabled_until": "2026-11-19",
@@ -8959,7 +8969,7 @@
   ],
   "2026-11-13": [
    31,
-   149
+   153
   ]
  },
  "resolved": {
@@ -38376,6 +38386,7 @@
   "jobvite:nutanix:oI7QAfwZ": "2026-11-09",
   "jobvite:nutanix:ofXPzfwk": "2026-11-13",
   "jobvite:nutanix:olfIAfwC": "2026-11-09",
+  "jobvite:nutanix:os7SAfwL": "2026-11-13",
   "jobvite:nutanix:osn3Afwc": "2026-11-12",
   "jobvite:reveal:ojnXAfwX": "2026-11-11",
   "jobvite:sews:oYXKAfwZ": "2026-11-12",
@@ -38445,6 +38456,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:349447": "2026-11-08",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:349613": "2026-11-12",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:349973": "2026-11-12",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350114": "2026-11-13",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350510": "2026-11-12",
   "oracle:eexs.fa.us2.oraclecloud.com|GreenwoodVillageSouth:41612": "2026-11-08",
   "oracle:eexs.fa.us2.oraclecloud.com|GreenwoodVillageSouth:41613": "2026-11-08",
@@ -38641,6 +38653,7 @@
   "sfrmk:careers.capgemini.com:1198502201": "2026-11-09",
   "sfrmk:careers.capgemini.com:1198758001": "2026-11-12",
   "sfrmk:careers.capgemini.com:1201140401": "2026-11-10",
+  "sfrmk:careers.capgemini.com:1201147601": "2026-11-13",
   "sfrmk:careers.capgemini.com:1207390801": "2026-11-11",
   "sfrmk:careers.capgemini.com:1212496501": "2026-11-09",
   "sfrmk:careers.capgemini.com:1213078301": "2026-11-09",
@@ -38682,6 +38695,7 @@
   "sfrmk:careers.capgemini.com:1377082633": "2026-11-11",
   "sfrmk:careers.capgemini.com:1377093233": "2026-11-11",
   "sfrmk:careers.capgemini.com:1378157633": "2026-11-09",
+  "sfrmk:careers.capgemini.com:1378413733": "2026-11-13",
   "sfrmk:careers.capgemini.com:1378851033": "2026-11-09",
   "sfrmk:careers.capgemini.com:1379335933": "2026-11-13",
   "sfrmk:careers.capgemini.com:1379537733": "2026-11-10",
@@ -38710,6 +38724,9 @@
   "sfrmk:careers.capgemini.com:1410986333": "2026-11-13",
   "sfrmk:careers.capgemini.com:1411705833": "2026-11-09",
   "sfrmk:careers.capgemini.com:1411727433": "2026-11-09",
+  "sfrmk:careers.capgemini.com:1413042533": "2026-11-13",
+  "sfrmk:careers.capgemini.com:1413265033": "2026-11-13",
+  "sfrmk:careers.capgemini.com:1414880533": "2026-11-13",
   "sfrmk:careers.capgemini.com:1415004833": "2026-11-12",
   "sfrmk:careers.capgemini.com:1416234433": "2026-11-10",
   "sfrmk:careers.capgemini.com:1417632833": "2026-11-10",
@@ -38734,6 +38751,9 @@
   "sfrmk:careers.capgemini.com:1433108233": "2026-11-12",
   "sfrmk:careers.capgemini.com:1433240833": "2026-11-13",
   "sfrmk:careers.capgemini.com:1433475533": "2026-11-09",
+  "sfrmk:careers.capgemini.com:1433943733": "2026-11-13",
+  "sfrmk:careers.capgemini.com:1433947833": "2026-11-13",
+  "sfrmk:careers.capgemini.com:1434389533": "2026-11-13",
   "sfrmk:careers.capgemini.com:1434538333": "2026-11-10",
   "sfrmk:careers.capgemini.com:1434889333": "2026-11-09",
   "sfrmk:careers.capgemini.com:1434906933": "2026-11-09",
@@ -38774,7 +38794,9 @@
   "sfrmk:careers.capgemini.com:1443552033": "2026-11-12",
   "sfrmk:careers.capgemini.com:1443940533": "2026-11-09",
   "sfrmk:careers.capgemini.com:1444127933": "2026-11-09",
+  "sfrmk:careers.capgemini.com:1444269933": "2026-11-13",
   "sfrmk:careers.capgemini.com:1444434033": "2026-11-13",
+  "sfrmk:careers.capgemini.com:1444751433": "2026-11-13",
   "sfrmk:careers.capgemini.com:1444872033": "2026-11-09",
   "sfrmk:careers.capgemini.com:1444920633": "2026-11-12",
   "sfrmk:careers.capgemini.com:1444936633": "2026-11-09",
@@ -38795,6 +38817,7 @@
   "sfrmk:careers.capgemini.com:1447857633": "2026-11-11",
   "sfrmk:careers.capgemini.com:1447992933": "2026-11-11",
   "sfrmk:careers.capgemini.com:1448689333": "2026-11-13",
+  "sfrmk:careers.capgemini.com:1449099733": "2026-11-13",
   "sfrmk:careers.capgemini.com:1449665233": "2026-11-09",
   "sfrmk:careers.capgemini.com:1449974633": "2026-11-12",
   "sfrmk:careers.capgemini.com:1449975233": "2026-11-12",
@@ -38807,7 +38830,10 @@
   "sfrmk:careers.capgemini.com:1451538333": "2026-11-09",
   "sfrmk:careers.capgemini.com:1451576833": "2026-11-10",
   "sfrmk:careers.capgemini.com:1451600433": "2026-11-09",
+  "sfrmk:careers.capgemini.com:1451945733": "2026-11-13",
+  "sfrmk:careers.capgemini.com:1451947233": "2026-11-13",
   "sfrmk:careers.capgemini.com:1452047133": "2026-11-09",
+  "sfrmk:careers.capgemini.com:1452174333": "2026-11-13",
   "sfrmk:careers.capgemini.com:1452234533": "2026-11-09",
   "sfrmk:careers.capgemini.com:1452280233": "2026-11-12",
   "sfrmk:careers.capgemini.com:1452495733": "2026-11-12",
@@ -38834,6 +38860,7 @@
   "sfrmk:careers.capgemini.com:1454478333": "2026-11-12",
   "sfrmk:careers.capgemini.com:1454602433": "2026-11-13",
   "sfrmk:careers.capgemini.com:1454796133": "2026-11-11",
+  "sfrmk:careers.capgemini.com:1454818633": "2026-11-13",
   "sfrmk:careers.capgemini.com:1454891033": "2026-11-11",
   "sfrmk:careers.capgemini.com:1454982233": "2026-11-13",
   "sfrmk:careers.capgemini.com:1454983033": "2026-11-11",
@@ -38852,6 +38879,7 @@
   "sfrmk:careers.capgemini.com:1456741533": "2026-11-12",
   "sfrmk:careers.capgemini.com:1456859333": "2026-11-12",
   "sfrmk:careers.capgemini.com:1456990433": "2026-11-13",
+  "sfrmk:careers.capgemini.com:1457017333": "2026-11-13",
   "sfrmk:careers.chsinc.com:1447299800": "2026-11-09",
   "sfrmk:careers.consumersenergy.com:1444391400": "2026-11-13",
   "sfrmk:careers.consumersenergy.com:1449386900": "2026-11-10",
@@ -39519,6 +39547,7 @@
   "workday:jll|wd1|jllcareers:REQ547175": "2026-11-12",
   "workday:jll|wd1|jllcareers:REQ547463": "2026-11-08",
   "workday:jll|wd1|jllcareers:REQ547712": "2026-11-08",
+  "workday:jm|wd103|External:R26_2045": "2026-11-13",
   "workday:kainos|wd3|kainos:JR_17658": "2026-11-12",
   "workday:kainos|wd3|kainos:JR_18054": "2026-11-12",
   "workday:kemper|wd5|kemper_careers:R-26-0039000": "2026-11-07",
@@ -39690,6 +39719,7 @@
   "workday:pwc|wd3|US_Experienced_Careers:762871WD": "2026-11-12",
   "workday:pwc|wd3|US_Experienced_Careers:763604WD": "2026-11-11",
   "workday:pwc|wd3|US_Experienced_Careers:765108WD": "2026-11-10",
+  "workday:pwc|wd3|US_Experienced_Careers:769836WD": "2026-11-13",
   "workday:pwc|wd3|US_Experienced_Careers:773181WD": "2026-11-12",
   "workday:pwc|wd3|US_Experienced_Careers:773193WD": "2026-11-12",
   "workday:pwc|wd3|US_Experienced_Careers:773194WD": "2026-11-10",
@@ -39736,6 +39766,7 @@
   "workday:salesforce|wd12|External_Career_Site:JR338172": "2026-11-11",
   "workday:salesforce|wd12|External_Career_Site:JR364969": "2026-11-12",
   "workday:salesforce|wd12|External_Career_Site:JR366303": "2026-11-08",
+  "workday:salesforce|wd12|External_Career_Site:JR368302": "2026-11-13",
   "workday:sandvik|wd3|sandvik-jobs:R0097782": "2026-11-09",
   "workday:santander|wd3|SantanderCareers:Req1576052": "2026-11-08",
   "workday:santander|wd3|SantanderCareers:Req1628428": "2026-11-08",
@@ -39882,10 +39913,10 @@
  },
  "source_last": {
   "hn": "2026-11-13T18:29:14+00:00",
-  "remoteok": "2026-11-13T18:29:14+00:00",
+  "remoteok": "2026-11-13T20:37:21+00:00",
   "usajobs": "2026-11-13T18:29:14+00:00",
   "workable_search": "2026-11-13T18:29:14+00:00",
-  "wwr": "2026-11-13T19:37:14+00:00"
+  "wwr": "2026-11-13T20:37:21+00:00"
  },
  "title_rules": "40fbd1858c98",
  "version": 1
