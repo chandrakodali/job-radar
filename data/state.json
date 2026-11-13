@@ -7659,17 +7659,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 19,
+   "n": 20,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 19,
+   "n": 20,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 19,
+   "n": 20,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -8613,6 +8613,11 @@
    "n": 3,
    "since": "2026-11-08"
   },
+  "workday:abbott|wd5|abbottcareers2": {
+   "err": "HTTP 520",
+   "n": 1,
+   "since": "2026-11-13"
+  },
   "workday:amplify|wd1|Amplify_Careers": {
    "disabled_until": "2026-11-14",
    "err": "HTTP 403",
@@ -8681,7 +8686,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 23,
+   "n": 24,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -8959,7 +8964,7 @@
   ],
   "2026-11-13": [
    31,
-   145
+   149
   ]
  },
  "resolved": {
@@ -37211,6 +37216,7 @@
   "ashby:horizon3ai:fb9e23ad-f91e-45b9-a876-1b404c2bd0ce": "2026-11-12",
   "ashby:hyperbolic:d0d57bcf-8b09-415a-aacd-51b5f50b26de": "2026-11-09",
   "ashby:kastle:7f0955a9-335d-49f7-937f-7f4563a688d1": "2026-11-07",
+  "ashby:kira:a9f0c04c-a091-426c-b0c1-0ec93d3ad824": "2026-11-13",
   "ashby:kraken.com:6d3b6e08-97ec-4eda-b3ad-bbf5fd955840": "2026-11-10",
   "ashby:kubermatic:17fd4787-ca5f-444c-ab72-2a5d4a671280": "2026-11-12",
   "ashby:kubermatic:8f106095-0eee-492a-b970-4e4a0d77a0a3": "2026-11-11",
@@ -38512,6 +38518,7 @@
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2025650EXTERNALENGLOBAL": "2026-11-12",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026031EXTERNALENGLOBAL": "2026-11-12",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026313EXTERNALENGLOBAL": "2026-11-10",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028160EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029199EXTERNALENGLOBAL": "2026-11-09",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029200EXTERNALENGLOBAL": "2026-11-09",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029203EXTERNALENGLOBAL": "2026-11-09",
@@ -39130,6 +39137,7 @@
   "taleo:aarcorp|aar_mobile:18411": "2026-11-10",
   "taleo:massanf|ex:260007U4": "2026-11-09",
   "taleo:mtstatejobs|200:26142784": "2026-11-09",
+  "taleo:utsw|2:987781": "2026-11-13",
   "teamtailor:sullyai:8718634": "2026-11-12",
   "workable:accurant:E9A36F1643": "2026-11-11",
   "workable:alphax:74C2A57C78": "2026-11-08",
@@ -39137,6 +39145,7 @@
   "workable:aretum:D5ED1AF1E2": "2026-11-09",
   "workable:bask-health-1:13309AA1F8": "2026-11-12",
   "workable:bask-health-1:3383A36B1B": "2026-11-12",
+  "workable:bask-health-1:7F759A6119": "2026-11-13",
   "workable:bask-health-1:C2C9E171B9": "2026-11-12",
   "workable:bask-health-1:D5336F02A9": "2026-11-11",
   "workable:bci-brands:30337410C8": "2026-11-08",
@@ -39852,6 +39861,7 @@
   "workday:waystar|wd1|Waystar:Regular": "2026-11-12",
   "workday:westernunion|wd5|WesternUnionJobs:JR0132092": "2026-11-12",
   "workday:westlake|wd1|westlake:R33099": "2026-11-12",
+  "workday:williams|wd5|External:R113047": "2026-11-13",
   "workday:wisconsin|wd1|UW_Comprehensives:Application Deadline:": "2026-11-08",
   "workday:wonder|wd1|Grubhub_Careers:JR101458": "2026-11-11",
   "workday:wonder|wd1|WG:JR101458": "2026-11-08",
@@ -39872,7 +39882,7 @@
   "remoteok": "2026-11-13T18:29:14+00:00",
   "usajobs": "2026-11-13T18:29:14+00:00",
   "workable_search": "2026-11-13T18:29:14+00:00",
-  "wwr": "2026-11-13T18:29:14+00:00"
+  "wwr": "2026-11-13T19:37:14+00:00"
  },
  "title_rules": "40fbd1858c98",
  "version": 1
