@@ -1,19 +1,24 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**322 jobs**, newest first. Updated Fri Nov 13, 3:07 PM CST from 7,552 company job boards and other sources.
+**326 jobs**, newest first. Updated Fri Nov 13, 3:37 PM CST from 7,552 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 33 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 193 matching jobs that job sites and feeds listed this week, 40 (20%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 229 matching jobs that job sites and feeds listed this week, 46 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 13 (36)](#friday-nov-13-36) · [Thu 12 (84)](#thursday-nov-12-84) · [Wed 11 (40)](#wednesday-nov-11-40) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (44)](#monday-nov-9-44) · [Sun 8 (35)](#sunday-nov-8-35) · [Sat 7 (6)](#saturday-nov-7-6) · [Fri 6 (7)](#friday-nov-6-7)
+Jump to: [Fri 13 (41)](#friday-nov-13-41) · [Thu 12 (84)](#thursday-nov-12-84) · [Wed 11 (40)](#wednesday-nov-11-40) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (44)](#monday-nov-9-44) · [Sun 8 (35)](#sunday-nov-8-35) · [Sat 7 (6)](#saturday-nov-7-6) · [Fri 6 (6)](#friday-nov-6-6)
 
-## Friday, Nov 13 (36)
+## Friday, Nov 13 (41)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 3:20 PM | [Senior Security Platform Engineer - Secure Delivery](https://jobs.ashbyhq.com/Ashby/9225e1fa-66aa-45d2-bf92-2ac653744434) | Ashby | Remote - US; Remote - Canada (remote) | 52 | senior title, years not stated |
+| 3:19 PM | [Senior DevSecOps Engineer](https://jobs.ashbyhq.com/Ashby/238c230f-3dc6-455c-98fd-81872a12d34c) | Ashby | Remote - US; Remote - Canada (remote) | 52 | senior title, years not stated |
+| 3:17 PM | [IT Systems Engineer - Voleon Securities](https://jobs.ashbyhq.com/voleon/d2e5725d-3cb3-4d7d-b7d6-34659659fd24) | The Voleon Group | Remote, United States; New York City, N… (remote) | 47 |  |
+| 3:14 PM | [Software Engineer - Infrastructure & Platform (Bay Area)](https://jobs.workable.com/view/nRY3pdwe1BQdmNRkvUV8Yv/hybrid-software-engineer---infrastructure-%26-platform-(bay-area)-in-santa-clara-at-fortanix) | Fortanix | Santa Clara, California (hybrid) | 65 | no future H-1B sponsorship |
+| 3:07 PM | [Project Engineer II - Mining Infrastructure](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11890) | Sundt | Prescott, AZ, United States (onsite) | 60 | 3+ yrs exp |
 | 2:52 PM | [Associate Cloud Engineer L1](https://ats.rippling.com/redesigncareers/jobs/71ec625d-45a8-4c1f-9374-857ccdd97d82) | The Redesign Group | Remote (United States) (remote) | 77 | entry-level title; E-Verify |
 | 1:28 PM | [Software Engineer (Backend, Infrastructure Focus)](https://jobs.ashbyhq.com/kira/a9f0c04c-a091-426c-b0c1-0ec93d3ad824) | Kira | New York or San Francisco (hybrid) | 65 | 3+ yrs exp |
 | 12:43 PM | [Senior Software Engineer, ML Infrastructure](https://boards.greenhouse.io/gatikaiinc/jobs/4729497006?gh_jid=4729497006) | Gatikaiinc | Santa Clara, CA | 65 | 3+ yrs exp; senior title; E-Verify |
@@ -360,7 +365,7 @@ Jump to: [Fri 13 (36)](#friday-nov-13-36) · [Thu 12 (84)](#thursday-nov-12-84) 
 | date only | [Senior Software Engineer, System Validation - EDA Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Next-Generation-Architecture---EDA-Infrastructure_JR2014880) | NVIDIA | US, CA, Santa Clara; US, MA, Westford; … (remote) | 35 | senior title, years not stated |
 | 2:00 AM | [Cloud Engineer III](https://jobs.mcdonalds.com/job/Chicago-Cloud-Engineer-III-IL-60607/1408247300/) | McDonald's | Chicago, IL, United States | 48 | 3+ yrs exp; senior title |
 
-## Friday, Nov 6 (7)
+## Friday, Nov 6 (6)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -370,7 +375,6 @@ Jump to: [Fri 13 (36)](#friday-nov-13-36) · [Thu 12 (84)](#thursday-nov-12-84) 
 | 6:54 PM | [IT Systems Engineer](https://job-boards.greenhouse.io/icarus/jobs/5476156008) | Icarus | El Segundo | 33 | 3+ yrs exp; location unclear |
 | 4:20 PM | [Senior Site Reliability Engineer](https://job-boards.greenhouse.io/taskrabbit/jobs/8318477) | Taskrabbit | San Francisco, California, United States | 43 | 3+ yrs exp; senior title; no future H-1B sponsorship |
 | 4:17 PM | [Senior Security Engineer, Infrastructure Security](https://jobs.ashbyhq.com/clickup/f919c7fa-88b9-4c7d-9990-153cd26e014f) | ClickUp | United States (remote) | 35 | senior title, years not stated; no future H-1B sponsorship |
-| 3:09 PM | [Customer Reliability Engineer or Technical Specialist](https://jobs.smartrecruiters.com/SmithsGroup2/744000160300379-customer-reliability-engineer-or-technical-specialist) | Smiths Detection Group | Swedesboro, NJ, United States | 58 |  |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (692)
 
