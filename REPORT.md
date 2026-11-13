@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**322 jobs**, newest first. Updated Fri Nov 13, 4:37 PM CST from 7,552 company job boards and other sources.
+**322 jobs**, newest first. Updated Fri Nov 13, 5:07 PM CST from 7,552 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -372,12 +372,13 @@ Jump to: [Fri 13 (41)](#friday-nov-13-41) · [Thu 12 (84)](#thursday-nov-12-84) 
 | 8:00 PM | [SYSTEM ADMINISTRATOR](https://www.careers.zurich.com/job/S%C3%A3o-Paulo-SYSTEM-ADMINISTRATOR/1364291557/) | Zurich Insurance |  | 38 | location unclear |
 | 6:54 PM | [IT Systems Engineer](https://job-boards.greenhouse.io/icarus/jobs/5476156008) | Icarus | El Segundo | 33 | 3+ yrs exp; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (696)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (698)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 4:37 PM | [Network Administrator-Senior](https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8434) | UTHealth Houston | San Antonio, TX, United States (hybrid) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 4:30 PM | [Senior Engineer, Workplace Platform Engineering](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21015334) | Kroll | Atlanta, GA, United States; Nashville, … | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 3:00 PM | [Financial Systems Analyst and Systems Administrator](https://job-boards.greenhouse.io/aclu/jobs/8941758002) | Aclu | New York, New York, United States | 50 | rules: adjacent title, little DevOps/cloud work in the text |
 | 2:59 PM | [Cloud Operations Engineer](https://job-boards.greenhouse.io/impact/jobs/8464788002) | impact.com | Columbus, OH | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -420,6 +421,7 @@ Jump to: [Fri 13 (41)](#friday-nov-13-41) · [Thu 12 (84)](#thursday-nov-12-84) 
 | date only | [Network Engineer, Expert](https://careers.chsinc.com/job/Inver-Grove-Heights-Network-Engineer%2C-Expert-MN-55077-1721/1450744600/) | CHS | Inver Grove Heights, MN, United States | 30 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [Sr Reliability Engineer](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-Reliability-Engineer_R82108-1) | Medtronic | Lafayette, Colorado, United States of A… (onsite) | 65 | rules: 2+ yrs exp; senior title; adjacent title, little DevOps/cloud … |
 | date only | [Azure Cloud Reliability Engineer](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Site-Reliability-Engineer_R57303) | Trimble | US - CO, Westminster; US - NH, Portsmou… (onsite) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
+| date only | [Network Engineer II](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605841&lang=en) | D.R. Horton | TX-Arlington | 45 | rules: adjacent title, little DevOps/cloud work in the text |
 | 10:49 AM | [Senior Site Reliability Engineer](https://job-boards.greenhouse.io/beaconbiosignals/jobs/4506672009) | Beaconbiosignals | Boston, MA / Remote (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 9:55 AM | [Cleared Systems Administrator](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4729338006) | STR | Woburn,MA | 45 | rules: 3+ yrs exp; needs: security clearance |
 | 9:34 AM | [System Administrator – Platform Engineer](https://job-boards.greenhouse.io/electrosoft/jobs/4506532009) | Electrosoft | Atlanta, GA | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
@@ -776,8 +778,6 @@ Jump to: [Fri 13 (41)](#friday-nov-13-41) · [Thu 12 (84)](#thursday-nov-12-84) 
 | date only | [Cloud Solutions Engineer](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Cloud-Solutions-Engineer_R-434482) | Humana | Remote Kentucky; Remote North Carolina;… (remote) | 35 | rules: role no longer in the target list |
 | date only | [Network Operations Engineer](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Network-Operations-Engineer_R-26-20882) | Moog | Buffalo, NY (hybrid) | 48 | rules: role no longer in the target list |
 | date only | [Pharmacy Automation Systems Administrator - Pharmacy Technician - FT …](https://memorialhealthcare.wd1.myworkdayjobs.com/MHS_Careers/job/Memorial-Regional-Hospital-South/Pharmacy-Automation-Systems-Administrator---Pharmacy-Technician---FT---Days---MRHS_JR-25046-1) | Memorial Healthcare System | Memorial Regional Hospital South (onsite) | 43 | rules: role no longer in the target list |
-| date only | [Analyst, Application Support Engineer](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/REMOTE---Wisconsin/Sr-Specialist--Application-Development_Req1628428) | Santander | REMOTE - Wisconsin (remote) | 35 | rules: role no longer in the target list |
-| date only | [IT Operations Support I](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/IT-Operations-Support-I_R-098648-1) | Texas A&M University - Colleg… | College Station, TX | 48 | rules: role no longer in the target list |
 
 </details>
 
