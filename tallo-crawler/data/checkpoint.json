@@ -18,16 +18,6 @@
   "core_remaining": 0,
   "pending": [
     {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ky/newport",
-      "label": "Newport",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/la/port-allen",
-      "label": "Port Allen",
-      "count": 1
-    },
-    {
       "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ma/hanscom-air-force-base",
       "label": "Hanscom Air Force Base",
       "count": 1
@@ -1844,6 +1834,18 @@
     {
       "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ky/dayton",
       "label": "Dayton",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ky/newport",
+      "label": "Newport",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/la/port-allen",
+      "label": "Port Allen",
       "count": 1,
       "deferred_once": true
     }
