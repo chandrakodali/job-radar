@@ -1,19 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**322 jobs**, newest first. Updated Fri Nov 13, 5:07 PM CST from 7,552 company job boards and other sources.
+**324 jobs**, newest first. Updated Fri Nov 13, 5:37 PM CST from 7,552 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 33 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 233 matching jobs that job sites and feeds listed this week, 46 (19%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 237 matching jobs that job sites and feeds listed this week, 46 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 13 (41)](#friday-nov-13-41) · [Thu 12 (84)](#thursday-nov-12-84) · [Wed 11 (40)](#wednesday-nov-11-40) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (42)](#monday-nov-9-42) · [Sun 8 (35)](#sunday-nov-8-35) · [Sat 7 (6)](#saturday-nov-7-6) · [Fri 6 (4)](#friday-nov-6-4)
+Jump to: [Fri 13 (43)](#friday-nov-13-43) · [Thu 12 (84)](#thursday-nov-12-84) · [Wed 11 (40)](#wednesday-nov-11-40) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (42)](#monday-nov-9-42) · [Sun 8 (35)](#sunday-nov-8-35) · [Sat 7 (6)](#saturday-nov-7-6) · [Fri 6 (4)](#friday-nov-6-4)
 
-## Friday, Nov 13 (41)
+## Friday, Nov 13 (43)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:41 PM | [Senior Software Engineer, Release Engineering](https://www.agilityrobotics.com/about/job-post?gh_jid=6237014004) | Agilityrobotics | Hybrid- Any Office (Fremont, CA, Salem,… (hybrid) | 45 | senior title, years not stated |
+| 5:17 PM | [Senior Systems Administrator](https://jobs.ashbyhq.com/qumulo/d60cca8b-7c6a-4883-bcae-a67dd958e2e1) | Qumulo | Seattle (hybrid) (hybrid) | 45 | senior title, years not stated |
 | 3:20 PM | [Senior Security Platform Engineer - Secure Delivery](https://jobs.ashbyhq.com/Ashby/9225e1fa-66aa-45d2-bf92-2ac653744434) | Ashby | Remote - US; Remote - Canada (remote) | 52 | senior title, years not stated |
 | 3:19 PM | [Senior DevSecOps Engineer](https://jobs.ashbyhq.com/Ashby/238c230f-3dc6-455c-98fd-81872a12d34c) | Ashby | Remote - US; Remote - Canada (remote) | 52 | senior title, years not stated |
 | 3:17 PM | [IT Systems Engineer - Voleon Securities](https://jobs.ashbyhq.com/voleon/d2e5725d-3cb3-4d7d-b7d6-34659659fd24) | The Voleon Group | Remote, United States; New York City, N… (remote) | 47 |  |
