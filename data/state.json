@@ -7659,17 +7659,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 18,
+   "n": 19,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 18,
+   "n": 19,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 18,
+   "n": 19,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -8681,7 +8681,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 22,
+   "n": 23,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -8689,11 +8689,6 @@
    "err": "HTTP 403",
    "n": 3,
    "since": "2026-11-08"
-  },
-  "workday:hitachi|wd1|hitachi": {
-   "err": "invalid JSON",
-   "n": 1,
-   "since": "2026-11-13"
   },
   "workday:idexx|wd1|IDEXX": {
    "disabled_until": "2026-11-14",
@@ -37494,6 +37489,7 @@
   "greenhouse:galaxydigitalservices:6237795004": "2026-11-07",
   "greenhouse:gardacp:6251084004": "2026-11-07",
   "greenhouse:gatikaiinc:4728758006": "2026-11-13",
+  "greenhouse:gatikaiinc:4729497006": "2026-11-13",
   "greenhouse:gatikaiinc:4729499006": "2026-11-13",
   "greenhouse:gcmgrosvenor:8035872003": "2026-11-07",
   "greenhouse:givecampus:4479171009": "2026-11-09",
@@ -37524,6 +37520,7 @@
   "greenhouse:lightfeatheriollc:5478705008": "2026-11-10",
   "greenhouse:lightningai:8199518003": "2026-11-10",
   "greenhouse:lightningai:8202728003": "2026-11-12",
+  "greenhouse:lilasciences:4505109009": "2026-11-13",
   "greenhouse:m9solutions:5275458007": "2026-11-09",
   "greenhouse:m9solutions:5275517007": "2026-11-09",
   "greenhouse:m9solutions:5281393007": "2026-11-09",
@@ -37563,6 +37560,7 @@
   "greenhouse:relativity:8918048002": "2026-11-09",
   "greenhouse:rocketlab:8165893003": "2026-11-12",
   "greenhouse:rocketlab:8200829003": "2026-11-10",
+  "greenhouse:samsara:8374813": "2026-11-13",
   "greenhouse:schonfeld:8345840": "2026-11-12",
   "greenhouse:singlestore:8329211": "2026-11-09",
   "greenhouse:singlestore:8329227": "2026-11-09",
@@ -37596,6 +37594,7 @@
   "greenhouse:usconec:4478726009": "2026-11-07",
   "greenhouse:usenourish:5471124008": "2026-11-12",
   "greenhouse:vardaspace:8200518003": "2026-11-12",
+  "greenhouse:vardaspace:8203760003": "2026-11-13",
   "greenhouse:vast:4726228006": "2026-11-07",
   "greenhouse:vast:4728490006": "2026-11-10",
   "greenhouse:verisign:8010830003": "2026-11-09",
@@ -38465,6 +38464,7 @@
   "oracle:ewvl.fa.us8.oraclecloud.com|CX_1:2239": "2026-11-08",
   "oracle:ewvl.fa.us8.oraclecloud.com|CX_1:2244": "2026-11-12",
   "oracle:fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com|CSXCareers:54828": "2026-11-09",
+  "oracle:fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com|CSXCareers:55054": "2026-11-13",
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27141": "2026-11-08",
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27309": "2026-11-08",
   "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10005943": "2026-11-13",
@@ -39307,6 +39307,7 @@
   "workday:buildertrend|wd108|External_Careers:JR-000519": "2026-11-08",
   "workday:cadence|wd1|External_Careers:R54243": "2026-11-12",
   "workday:cadence|wd1|External_Careers:R56413": "2026-11-11",
+  "workday:cadence|wd1|External_Careers:R56415": "2026-11-13",
   "workday:cae|wd3|career:124409": "2026-11-11",
   "workday:cae|wd3|career:124411": "2026-11-11",
   "workday:cai|wd5|computer_aid:R8753": "2026-11-08",
@@ -39524,6 +39525,7 @@
   "workday:kyndryl|wd5|KyndrylProfessionalCareers:R-71569": "2026-11-09",
   "workday:kyndryl|wd5|KyndrylProfessionalCareers:R-71679": "2026-11-13",
   "workday:kyndryl|wd5|KyndrylProfessionalCareers:R-72268": "2026-11-13",
+  "workday:kyndryl|wd5|KyndrylProfessionalCareers:R-72270": "2026-11-13",
   "workday:lbg|wd3|LBG_Careers:157946": "2026-11-07",
   "workday:lbg|wd3|LBG_Careers:159071": "2026-11-12",
   "workday:lbg|wd3|LBG_Careers:159076": "2026-11-12",
@@ -39597,6 +39599,7 @@
   "workday:ncr|wd1|ext_us:R0159249": "2026-11-12",
   "workday:ncsecu|wd1|secu:JR-16721": "2026-11-12",
   "workday:ncsecu|wd1|secu:JR-16763": "2026-11-12",
+  "workday:ncsecu|wd1|secu:JR-16851": "2026-11-13",
   "workday:nebraskablue|wd1|BCBSNE:JR101474": "2026-11-12",
   "workday:nebraskablue|wd1|BCBSNE:JR101482": "2026-11-12",
   "workday:nelnet|wd1|MyNelnet:R22860": "2026-11-12",
