@@ -140,7 +140,8 @@ details.bk{margin-top:18px;font-size:13px;color:var(--mute)}details.bk textarea{
   <div class="bar">
     <input type="search" id="q" placeholder="Search title, company, location">
     <select id="when"><option value="1">Last 24h</option><option value="3">Last 3 days</option><option value="7" selected>Last 7 days</option><option value="30">Last 30 days</option></select>
-    <select id="sort"><option value="score">Best match</option><option value="new">Newest</option></select>
+    <select id="sort" title="Sort by"><option value="score">Best match</option><option value="new">Newest</option><option value="mix">Best + newest</option><option value="years">Fewest years asked</option><option value="company">Company A–Z</option><option value="old">Oldest first</option></select>
+    <select id="yrs" title="Years asked"><option value="">Any years</option><option value="1">0–1 years</option><option value="2">Up to 2 years</option><option value="3">Up to 3 years</option><option value="4">Up to 4 years</option></select>
     <select id="wp"><option value="">Any work type</option><option value="onsite">On-site</option><option value="hybrid">Hybrid</option><option value="remote">Remote</option></select>
     <label class="ck"><input type="checkbox" id="spon"> Sponsor-friendly</label>
     <label class="ck"><input type="checkbox" id="strong"> Strong only</label>
@@ -195,8 +196,17 @@ function filtered() {
     if (wp && j.workplace !== wp) return false;
     if ($("spon").checked && !sponsorish(j)) return false;
     if ($("strong").checked && j.status !== "alert") return false;
+    if ($("yrs").value && yearsOf(j) > +$("yrs").value) return false;
     return true; });
-  out.sort($("sort").value === "new" ? (a, b) => (b.t || b.seen) - (a.t || a.seen) : (a, b) => b.score - a.score || (b.t || 0) - (a.t || 0));
+  const sorts = {
+    new: (a, b) => (b.t || b.seen) - (a.t || a.seen),
+    old: (a, b) => (a.t || a.seen) - (b.t || b.seen),
+    score: (a, b) => b.score - a.score || (b.t || b.seen) - (a.t || a.seen),
+    mix: (a, b) => mixScore(b) - mixScore(a),   // score, minus 1 point for every 6 hours since posting
+    years: (a, b) => yearsOf(a) - yearsOf(b) || (b.t || b.seen) - (a.t || a.seen),
+    company: (a, b) => (a.company || "").localeCompare(b.company || "") || (b.t || b.seen) - (a.t || a.seen),
+  };
+  out.sort(sorts[$("sort").value] || sorts.score);
   return out;
 }
 function card(j) {
@@ -222,6 +232,11 @@ function card(j) {
       `<div class="acts"><a class="btn p" href="${esc(j.url)}" target="_blank" rel="noopener">Apply ↗</a>${btn("saved", "★ Save")}${btn("applied", "✓ Applied")}${btn("skipped", "✕ Skip")}</div>`}
     </div></div>`;
 }
+function yearsOf(j) {   // years the job asks for, from its notes; unknown sorts after the stated ones
+  const f = j.flags || "", m = f.match(/(\d+)\+ (yrs exp|years)/);
+  return /0-2 yrs/.test(f) ? 0 : m ? +m[1] : 50;
+}
+function mixScore(j) { return j.score - (now - (j.t || j.seen)) / (6 * H); }
 function render() {
   renderTabs();
   const list = filtered();
@@ -245,7 +260,17 @@ document.addEventListener("click", e => {
     saveMarks(); header(); render(); return; }
   if (e.target.id === "more") { shown += 60; render(); }
 });
-["q", "when", "sort", "wp", "spon", "strong"].forEach(id => $(id).addEventListener("input", () => { shown = 60; render(); }));
+// Sort and filters: from the link (?sort=new&yrs=1) or as last chosen on this browser.
+try {
+  const qs = new URLSearchParams(location.search), keep = JSON.parse(localStorage.getItem("radarView:" + location.pathname) || "{}");
+  ["sort", "yrs", "when", "wp"].forEach(id => { const v = qs.get(id) ?? keep[id];
+    if (v != null && [...$(id).options].some(o => o.value === v)) $(id).value = v; });
+} catch (e) {}
+["q", "when", "sort", "wp", "spon", "strong", "yrs"].forEach(id => $(id).addEventListener("input", () => {
+  shown = 60; render();
+  try { localStorage.setItem("radarView:" + location.pathname, JSON.stringify(
+    {sort: $("sort").value, yrs: $("yrs").value, when: $("when").value, wp: $("wp").value})); } catch (e) {}
+}));
 $("bk").addEventListener("focus", () => { $("bk").value = JSON.stringify(marks); });
 $("bkcopy").onclick = async () => { $("bk").value = JSON.stringify(marks); try { await navigator.clipboard.writeText($("bk").value); $("bkmsg").textContent = "Copied."; } catch (e) { $("bk").select(); $("bkmsg").textContent = "Select and copy the text."; } };
 $("bkload").onclick = () => { try { const m = JSON.parse($("bk").value); if (typeof m !== "object" || !m) throw 0; Object.assign(marks, m); saveMarks(); header(); render(); $("bkmsg").textContent = "Loaded."; } catch (e) { $("bkmsg").textContent = "That text isn't a marks backup."; } };
