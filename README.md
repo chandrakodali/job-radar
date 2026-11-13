@@ -22,6 +22,23 @@ Finds new **entry-friendly DevOps, SRE, cloud, platform and infrastructure jobs 
 - Employers seen on other sources but not yet watched, and employers that filed H-1B LCAs for DevOps/SRE/cloud titles (public DOL data), are tried as new boards by the weekly board finder.
 - It alerts you on strong matches and sends a **daily digest** at 8 AM Central time. No AI is used for this radar.
 
+## IT Entry-Level Radar
+
+**[Open the report →](REPORT_FRESHERS.md)** · page: `https://chandrakodali.github.io/job-radar/freshers/`
+
+Every IT job in the US for **freshers and up to 1 year of experience**, in any area of IT: software, web/mobile,
+data/BI/analytics, ML/AI, QA/test, IT support/help desk, network, systems, security/SOC, cloud/DevOps, DBA,
+ERP/CRM (SAP, Salesforce, ServiceNow...), business/systems analyst, implementation and support engineers.
+It reads the same 7,500+ employer boards as the DevOps radar (so it finds jobs that are never advertised on
+job sites), plus Workable's job search and your job-alert emails, and runs every hour.
+
+- A job is listed only when it **shows it's entry level**: an entry-level title (junior, associate, new grad,
+  graduate, trainee, I/1...), entry-level wording in the text ("new grads", "entry-level", "0-2 years",
+  "class of 2026"...), or 0–1 years asked. A plain "Software Engineer" with no sign of level is not listed.
+- Asking **2+ years**, senior/lead/II+ titles, internships, and jobs needing a clearance or US citizenship are
+  left out. Non-IT jobs (mechanical, nursing, sales, finance...) are skipped.
+- Settings: `profiles/freshers/config.yaml`. Results: `data/freshers/`.
+
 ## Auto Radar: automotive embedded software jobs
 
 A second search runs from this repo for **automotive embedded software roles in the US**, built from the

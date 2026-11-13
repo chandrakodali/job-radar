@@ -1,7 +1,7 @@
 """Keep the radars on time. GitHub's own schedule (cron) often skips runs on busy days, so at the end of
 each DevOps radar run this waits for the next half-hour slot and starts the next run itself, using the
-run's own GITHUB_TOKEN (allowed to start workflow_dispatch runs). It also starts the Auto Radar when that
-one hasn't run for about 3 hours. The cron schedules stay on as a backup that restarts the chain.
+run's own GITHUB_TOKEN (allowed to start workflow_dispatch runs). It also starts the Auto Radar every ~3 hours
+and the IT Entry-Level Radar every ~hour. The cron schedules stay on as a backup that restarts the chain.
 
     python scripts/next_run.py          needs GH_TOKEN and GITHUB_REPOSITORY
 """
@@ -17,6 +17,7 @@ import requests
 API = "https://api.github.com"
 SLOTS = (7, 37)            # minutes past the hour for the DevOps radar (same as its cron)
 AUTO_EVERY = timedelta(hours=3)
+FRESHERS_EVERY = timedelta(hours=1)
 
 
 def gh(method: str, path: str, **kw):
@@ -51,9 +52,10 @@ def dispatch(repo: str, workflow: str) -> None:
 def main() -> int:
     repo = os.environ["GITHUB_REPOSITORY"]
     now = datetime.now(timezone.utc)
-    auto = last_started(repo, "radar-auto.yml")
-    if auto is None or now - auto > AUTO_EVERY - timedelta(minutes=10):
-        dispatch(repo, "radar-auto.yml")
+    for workflow, every in (("radar-auto.yml", AUTO_EVERY), ("radar-freshers.yml", FRESHERS_EVERY)):
+        last = last_started(repo, workflow)
+        if last is None or now - last > every - timedelta(minutes=10):
+            dispatch(repo, workflow)
     t = next_slot(now)
     print(f"Next DevOps run at {t:%H:%M} UTC; waiting {int((t - now).total_seconds() // 60)} min")
     time.sleep(max(0.0, (t - datetime.now(timezone.utc)).total_seconds()))

@@ -28,7 +28,7 @@ import yaml
 
 from . import ats as ATS
 from .http import FetchError
-from .match import (Rules, assess, classify_location, has_evidence, is_excluded_company, job_category,
+from .match import (_any, Rules, assess, classify_location, has_evidence, is_excluded_company, job_category,
                     row_still_fits, title_category)
 from . import deep
 from .models import Board, Job
@@ -399,6 +399,9 @@ def run(args) -> int:
             later = {id(c[0]) for c in wide[wide_cap:]}
             candidates = [c for c in candidates if id(c[0]) not in later]
             stats["deferred"] = len(later)
+    if rules.require_entry:   # entry-level titles and the newest jobs get their text read first
+        candidates.sort(key=lambda c: (not _any(rules.entry, " " + c[0].title + " "),
+                                       -(c[0].posted_at.timestamp() if c[0].posted_at else 0)))
     log.info("Scanned %d jobs; %d new title matches to check%s", stats["jobs_scanned"], len(candidates),
              f" ({stats['deferred']} more left for the next runs)" if stats["deferred"] else "")
 
@@ -482,6 +485,10 @@ def run(args) -> int:
                     stats["wide_dropped"] += 1
                     continue
                 stats["unread_kept"] += 1
+        if rules.require_entry and not j.description and j.needs_detail and j.ats in ATS.DETAILERS \
+                and not j.detail_tried:
+            stats["retry_later"] += 1      # the run ended before its text was read: judge it next run
+            continue
         a = assess(j, b, rules, cat, now=now)
         state["seen"][j.uid] = today
         if a.location_class == "non_us" or a.status == "old":

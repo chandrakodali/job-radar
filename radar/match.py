@@ -169,6 +169,9 @@ class Rules:
     senior: list[re.Pattern] = field(default_factory=list)      # senior-level titles: kept when years allow
     bridge_evidence: list[re.Pattern] = field(default_factory=list)  # adjacent titles must name these tools
     strong: list[re.Pattern] = field(default_factory=list)       # unmistakable target titles (e.g. SRE) ...
+    require_entry: bool = False     # keep only jobs that show they are entry level (title, years or text)
+    max_years: int = 1              # with require_entry: stated years up to this count as entry level
+    entry_text: list[re.Pattern] = field(default_factory=list)   # entry-level phrases in the job text
     hard_exclude: list[re.Pattern] = field(default_factory=list) # ... that only these exclusions can drop
     bridge_min: int = 2
     years_by_section: bool = False  # read years from required/duties text only, degree-aware ("BS+5 or MS+3")
@@ -205,6 +208,8 @@ class Rules:
             senior=comp(t.get("senior")), years_by_section=bool(s.get("years_by_section")),
             bridge_evidence=comp(s.get("bridge_evidence")), bridge_min=int(s.get("bridge_min", 2)),
             strong=comp(t.get("strong")), hard_exclude=comp(t.get("hard_exclude")),
+            require_entry=bool(s.get("require_entry")), max_years=int(s.get("max_years", 1)),
+            entry_text=comp(s.get("entry_text")),
             degree=str(s.get("degree", "master")),
         )
 
@@ -360,6 +365,18 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
         else:
             score -= 20
         flags.append("0-2 yrs exp" if years == 0 else f"{years}+ yrs exp")
+    not_entry = False
+    if rules.require_entry:
+        entry_title = _any(rules.entry, " " + title + " ")
+        entry_words = bool(desc) and _any(rules.entry_text, desc[:20000])
+        if years is not None and years > rules.max_years:
+            pass                                   # left out below by hide_if_years_at_least
+        elif entry_title or entry_words or (years is not None and years <= rules.max_years):
+            if entry_words and not entry_title:
+                flags.append("entry level (from the text)")
+                score += 10
+        else:
+            not_entry = True                       # nothing shows it's an entry-level job: not listed
     if _any(rules.senior, " " + title + " "):
         if years is None:
             score -= 10
@@ -413,7 +430,9 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
     score = max(0, min(100, score))
     blocker = blocker_hit(" ".join([title, desc]), rules)
 
-    if age_days is not None and age_days > rules.max_post_age_days:
+    if not_entry:
+        status = "old"
+    elif age_days is not None and age_days > rules.max_post_age_days:
         status = "old"
     elif blocker:
         status = "blocked"

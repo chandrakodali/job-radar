@@ -1,0 +1,213 @@
+# IT Entry-Level Radar: every IT job in the US for freshers and up to 1 year of experience, in any area
+# of IT (software, data, QA, support, network, security, cloud, DevOps, DBA, analyst...). Reads the same
+# employer boards as the DevOps radar. A job is kept only when it shows it's entry level: an entry-level
+# title, entry-level wording in the text, or 0-1 years asked; 2+ years is left out.
+profile:
+  name: freshers
+  label: IT Entry-Level Radar
+  report_url: https://github.com/chandrakodali/job-radar/blob/main/REPORT_FRESHERS.md
+  matches_file: data/freshers/matches.csv
+  watching: for entry-level IT jobs in the US (freshers and up to 1 year of experience), in any area of IT.
+  refresh_note: Refreshes every hour.
+  score_colors:
+  - 70
+  - 55
+  chips:
+    bad: clearance|citizen|itar|asks for \d+\+ years
+    good: entry-level title|entry level \(from the text\)|0-2 yrs|sponsors visas|e-verify
+    warn: 1\+ yrs|repost|unclear|contract|staffing|no visa sponsorship
+boards:
+  include_general: true
+titles:
+  strong: []
+  hard_exclude: []
+  senior: []
+  core:
+  - \b(software|application|applications|web|mobile|ios|android|front[- ]?end|back[- ]?end|full[- ]?stack|game|embedded|firmware|systems?|platform|cloud|data|ml|ai|machine learning|devops|integration|automation|api|java|python|\.net|c\+\+|c#|javascript|react|node|salesforce|servicenow|sap|erp|crm|bi|etl|qa|test|database|db|network|security|cyber
+    ?security|infrastructure|it|computer|technical|technology|solutions?|support|implementation|blockchain|rpa|power bi|tableau|sql|unix|linux|windows|identity|iam|gis|ux|ui|analytics|reporting|edi|mainframe|cobol|dynamics|workday|oracle|tech)\b.{0,30}\b(engineer|engineering|developer|development|programmer|analyst|administrator|admin|specialist|technician|consultant|scientist|tester|associate)\b
+  - \b(developer|programmer|coder)\b
+  - \b(sde|swe|sdet)\b
+  - \b(data|business intelligence|bi|business systems?|systems|programmer|technology|it|technical|business|reporting|product data) analyst\b
+  - \bdata (engineer|scientist)\b
+  - help ?desk|service ?desk|desktop support|end[- ]user (support|computing)|\bit support\b|technical support|tech support|deskside
+  - \b(soc|noc) (analyst|engineer|technician|operator)\b
+  - quality assurance|\bqa\b|\btester\b|test automation|software test
+  - \bdba\b|database administrator
+  - cyber ?security|information security|\binfosec\b|security operations
+  - dev\s*ops|site reliability|\bsre\b|\bcloud\b
+  - systems? (engineer|administrator|analyst)
+  - machine learning|\b(ml|ai|llm) (engineer|developer|scientist)\b|deep learning|computer vision|\bnlp\b
+  - (application|production|product|technical|customer) support (engineer|analyst|specialist)
+  - implementation (engineer|specialist|consultant|analyst)
+  - solutions? (engineer|developer|analyst|consultant)
+  - data cent(er|re) (technician|engineer|operations)
+  - computer (operator|technician|support)
+  - technology (associate|analyst|consultant|rotation|program)
+  - (early career|new grad|graduate|rotational) (program|engineer|developer|analyst)
+  - \b(associate|junior|jr\.?|entry[- ]level) (consultant|engineer|developer|analyst|programmer)\b
+  bridge: []
+  exclude:
+  - \b(senior|sr\.?|staff|principal|lead|manager|management|director|head of|vp|vice president|chief|distinguished|fellow|supervisor|executive)\b
+  - \barchitect\b(?! associate)
+  - \b(ii|iii|iv|v|vi)\b
+  - \b(level|lvl|grade)\s*[2-9]\b
+  - \b[2-9]\s*$
+  - \b[2-9]\)\s*$
+  - \b(eng|engineer|developer|analyst)\s*[2-9]\b
+  - \b(intern|internship|co-?op|summer|phd|postdoc|post-doc|faculty|professor|lecturer|teacher|instructor|tutor)\b
+  - \b(clearance|ts/sci|top secret|classified|polygraph)\b
+  - \b(sales|pre-?sales|account executive|account manager|business development|recruit\w*|marketing|talent)\b
+  - \b(mechanical|electrical|civil|chemical|structural|manufacturing|process engineer|industrial|hvac|construction|plumb\w*|welding|machining|machinist|mechanic)\b
+  - \b(nurse|nursing|clinical|pharmac\w+|medical assistant|physician|therap\w+|dental|veterinar\w+)\b
+  - \b(warehouse|driver|cdl|forklift|retail|cashier|barista|cook|janitor|custodian|security officer|security guard)\b
+  - \b(customer service|customer success|call cent(er|re)|collections|claims)\b
+  - \b(financial|finance|credit|accounting|accountant|actuar\w+|tax|audit(or)?|underwrit\w+|investment|equity|portfolio|loan|mortgage)\b(?!.*\b(software|developer|data|systems|it|technology|engineer)\b)
+  - \b(m/w/d|w/m/d|m/f/d|f/h|h/f)\b
+  - \bing[ée]nieur|\bwerkstudent|alternance
+  - \b(rf|antenna|analog|asic|fpga|pcb|hardware design|silicon|layout) (engineer|designer)\b
+  entry:
+  - \bjunior\b
+  - \bjr\.?\b
+  - \bassociate\b
+  - \bentry\b
+  - new (college )?grad
+  - \bgraduate\b
+  - early[- ]career
+  - university (grad|graduate|hire|program|recruit)
+  - \bapprentice
+  - \btrainee\b
+  - \bfresher
+  - campus
+  - \b(engineer|administrator|technician|analyst|specialist|developer|programmer|scientist|consultant|tester)\s+(i|1)\b
+  - \b(level|lvl)\s*(1|i)\b
+  - \b(i|1)\s*$
+  - \bresiden(t|cy) program\b
+  - \brotational\b
+  - \b202[6-8] (start|grad)
+description:
+  blockers:
+  - (security|secret|top secret|ts/sci|ts|sci|dod|public trust)\s+clearance
+  - clearance (is |will be )?required
+  - active (secret|top secret|ts/sci|ts)\b
+  - ability to (obtain|maintain) (a |an )?(\w+ )?(security )?clearance
+  - must (be|hold) (a |an )?(u\.?s\.?|united states) citizen
+  - (u\.?s\.?|united states) citizenship (is )?(required|is a requirement|needed)
+  - requires? (u\.?s\.?|united states) citizenship
+  - (must be|only) (a )?(u\.?s\.?|us) persons?
+  - \bitar\b
+  - export control.{0,80}(u\.?s\.? person|citizen)
+  blocker_exceptions:
+  - no (security )?clearance (is )?required
+  - clearance (is )?not required
+  - does not require (a |an )?(security )?clearance
+  no_sponsorship:
+  - (not|unable to|cannot|can.t|will not|won.t|does not|do not|is not able to)\s+(provide |offer |support )?(employment |work )?(visa )?sponsor
+  - sponsorship (is )?(not|un)available
+  - without (the )?(need for )?(current or future |now or in the future )?(employer |visa )?sponsorship
+  - now or in the future.{0,60}sponsor
+  sponsors:
+  - visa sponsorship (is )?available
+  - will sponsor
+  - sponsorship (is )?available
+  - open to sponsor
+  e_verify:
+  - e-?verify
+staffing_company_patterns:
+- consult
+- staffing
+- recruit
+- talent
+- infotech
+- \bit solutions\b
+- technologies llc
+- systems llc
+scoring:
+  alert_threshold: 60
+  max_alerts_per_run: 10
+  max_post_age_days: 10
+  years_by_section: true
+  degree: bachelor
+  require_entry: true
+  max_years: 1
+  hide_if_years_at_least: 2
+  block_alerts_if_years_at_least: 2
+  entry_text:
+  - \b(new|recent|college|university) grad(uate)?s?\b
+  - \bentry[- ]level\b
+  - \bearly[- ]career\b
+  - \bno (prior |previous |professional )?(work )?experience (is )?(required|necessary|needed)\b
+  - \b0\s*(-|–|to)\s*[12]\+?\s*(years?|yrs)\b
+  - \bless than (one|1|two|2) years?\b
+  - \bup to (one|1) years?\b
+  - \bclass of 202[5-8]\b
+  - \bgraduat(ing|ed|e) (in |by |between )?(fall |spring |summer |winter |may |june |december )?202[5-8]\b
+  - \b(fresher|campus hire|graduate program|rotational program|apprenticeship)\b
+  - \b(0|zero|one|1)\s*(\+)?\s*(years?|yrs) (of )?(professional |relevant |work |industry )?experience\b
+big_companies: []
+exclude_companies:
+- \brtx\b
+- raytheon
+- northrop
+- lockheed
+- general dynamics
+- bae systems
+- l3harris
+- leidos
+- \bcaci\b
+- \bsaic\b
+- science applications
+- booz allen
+- \bkbr\b
+- peraton
+- mantech
+- parsons
+- huntington ingalls
+- spacex
+- aerospace corporation
+- torch technologies
+- \bmitre\b
+- anduril
+- sierra nevada
+- textron
+- lawrence livermore
+- sandia
+- los alamos
+- national security
+workday:
+  shards: 1
+  max_pages: 15
+notify:
+  daily_digest_hour_local: 8
+  timezone: America/Chicago
+ai:
+  mode: 'off'
+discovery:
+  boards_per_run: 100000
+run:
+  time_budget_minutes: 28
+report:
+  order: newest
+  days: 7
+  hide_years: 2
+  track_closed: true
+  label: IT entry-level jobs in the US (0–1 year, any area of IT)
+  note: 'US jobs only, any area of IT, kept only when they show they''re entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs
+    asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.'
+sources:
+  email_alerts: true
+  email_days: 4
+  workable_search:
+    every_minutes: 180
+    days: 7
+    max_pages: 40
+    terms:
+    - entry level
+    - junior
+    - new grad
+    - graduate
+    - associate engineer
+    - associate developer
+    - it support
+    - help desk
+    - data analyst
+    - qa engineer

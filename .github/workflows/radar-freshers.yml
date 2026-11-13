@@ -1,0 +1,70 @@
+name: radar-freshers
+
+# IT Entry-Level Radar (profiles/freshers): every IT job in the US for freshers and up to 1 year of
+# experience, any area of IT. Started every hour by the DevOps radar (scripts/next_run.py); the schedule
+# below is a backup.
+on:
+  schedule:
+    - cron: '47 */2 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Test run: no notifications, nothing saved to the repository'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-freshers
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Run IT Entry-Level Radar
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN_FRESHERS || secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID_FRESHERS || secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC_FRESHERS || secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+          JOB_ALERTS_EMAIL: ${{ secrets.JOB_ALERTS_EMAIL }}
+          JOB_ALERTS_APP_PASSWORD: ${{ secrets.JOB_ALERTS_APP_PASSWORD }}
+          JOB_ALERTS_IMAP_HOST: ${{ secrets.JOB_ALERTS_IMAP_HOST }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          ARGS=""
+          if [ "$DRY_RUN" = "true" ]; then ARGS="--dry-run"; fi
+          python -m radar.main --profile freshers $ARGS
+
+      - name: Save results
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/freshers REPORT_FRESHERS.md docs/freshers
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+            exit 0
+          fi
+          git commit -m "IT Entry-Level Radar update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME" && exit 0
+            sleep 7
+          done
+          echo "Could not push results" && exit 1
