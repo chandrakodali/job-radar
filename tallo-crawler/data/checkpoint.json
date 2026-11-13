@@ -18,256 +18,6 @@
   "core_remaining": 0,
   "pending": [
     {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/va/paeonian-springs",
-      "label": "Paeonian Springs",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wa/deer-park",
-      "label": "Deer Park",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wa/fircrest",
-      "label": "Fircrest",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wa/medina",
-      "label": "Medina",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/algoma",
-      "label": "Algoma",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/antigo",
-      "label": "Antigo",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/dale",
-      "label": "Dale",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/greendale",
-      "label": "Greendale",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/greenville",
-      "label": "Greenville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/hortonville",
-      "label": "Hortonville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/monroe",
-      "label": "Monroe",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/port-washington",
-      "label": "Port Washington",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/saint-francis",
-      "label": "Saint Francis",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/shorewood",
-      "label": "Shorewood",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/watertown",
-      "label": "Watertown",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/wauwatosa",
-      "label": "Wauwatosa",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/west-salem",
-      "label": "West Salem",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/winnebago",
-      "label": "Winnebago",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wv/buffalo",
-      "label": "Buffalo",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wy/laramie",
-      "label": "Laramie",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wy/warren-air-force-base",
-      "label": "Warren Air Force Base",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/al/lanett",
-      "label": "Lanett",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ar/hot-springs",
-      "label": "Hot Springs",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ar/morrilton",
-      "label": "Morrilton",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/az/peoria",
-      "label": "Peoria",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ca/adelanto",
-      "label": "Adelanto",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ca/el-segundo",
-      "label": "El Segundo",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ca/menlo-park",
-      "label": "Menlo Park",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ca/planada",
-      "label": "Planada",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ct/danbury",
-      "label": "Danbury",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/fl/azalea-park",
-      "label": "Azalea Park",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/fl/cape-coral",
-      "label": "Cape Coral",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/fl/dade-city",
-      "label": "Dade City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/fl/deland",
-      "label": "DeLand",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/fl/kennedy-sp-ct",
-      "label": "Kennedy Sp Ct",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/fl/odessa",
-      "label": "Odessa",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/fl/west-melbourne",
-      "label": "West Melbourne",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ga/cartersville",
-      "label": "Cartersville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ga/garden-city",
-      "label": "Garden City",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ga/johns-creek",
-      "label": "Johns Creek",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/hi/schofield-barracks",
-      "label": "Schofield Barracks",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/il/bensenville",
-      "label": "Bensenville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/il/evanston",
-      "label": "Evanston",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/in/evansville",
-      "label": "Evansville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/in/new-carlisle",
-      "label": "New Carlisle",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/in/warsaw",
-      "label": "Warsaw",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/in/west-lafayette",
-      "label": "West Lafayette",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ks/clearwater",
-      "label": "Clearwater",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ks/coffeyville",
-      "label": "Coffeyville",
-      "count": 1
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ky/dayton",
-      "label": "Dayton",
-      "count": 1
-    },
-    {
       "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ky/newport",
       "label": "Newport",
       "count": 1
@@ -2004,6 +1754,96 @@
     {
       "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/va/oilville",
       "label": "Oilville",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/va/paeonian-springs",
+      "label": "Paeonian Springs",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wa/medina",
+      "label": "Medina",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/greenville",
+      "label": "Greenville",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/monroe",
+      "label": "Monroe",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/port-washington",
+      "label": "Port Washington",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/saint-francis",
+      "label": "Saint Francis",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/watertown",
+      "label": "Watertown",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/computer-support-specialist/wi/west-salem",
+      "label": "West Salem",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/fl/odessa",
+      "label": "Odessa",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/fl/west-melbourne",
+      "label": "West Melbourne",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ga/cartersville",
+      "label": "Cartersville",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ga/johns-creek",
+      "label": "Johns Creek",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/il/bensenville",
+      "label": "Bensenville",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ks/coffeyville",
+      "label": "Coffeyville",
+      "count": 1,
+      "deferred_once": true
+    },
+    {
+      "url": "https://tallo.com/talent/job/browse/technology/network-or-systems-support-specialist/ky/dayton",
+      "label": "Dayton",
       "count": 1,
       "deferred_once": true
     }
