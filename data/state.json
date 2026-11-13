@@ -7659,17 +7659,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 20,
+   "n": 21,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 20,
+   "n": 21,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 20,
+   "n": 21,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -8613,11 +8613,6 @@
    "n": 3,
    "since": "2026-11-08"
   },
-  "workday:abbott|wd5|abbottcareers2": {
-   "err": "HTTP 520",
-   "n": 1,
-   "since": "2026-11-13"
-  },
   "workday:amplify|wd1|Amplify_Careers": {
    "disabled_until": "2026-11-14",
    "err": "HTTP 403",
@@ -8686,7 +8681,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 24,
+   "n": 25,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -37277,6 +37272,7 @@
   "ashby:supabase:fb0b563a-e541-43fd-8555-9eb6473aaa11": "2026-11-07",
   "ashby:swarmaero:1a5fe194-42ea-48df-ae66-1e3dd4237390": "2026-11-07",
   "ashby:temporal:372eafe1-5e1d-414b-8e71-56c8b30a78dc": "2026-11-11",
+  "ashby:tennr:b888c69f-2bce-4231-82af-3d55a36ac244": "2026-11-13",
   "ashby:tensorwave:32ed70c4-3ed4-4739-8346-c95bd67a98e6": "2026-11-07",
   "ashby:terac:905ccd00-8971-4b83-aad4-957e6526199c": "2026-11-10",
   "ashby:terranova:ab65c694-e140-4efe-b7f7-abca43e48ba7": "2026-11-07",
@@ -37753,6 +37749,7 @@
   "icims:careers-decisionpointcorp.icims.com:4167": "2026-11-12",
   "icims:careers-decisionpointcorp.icims.com:4308": "2026-11-12",
   "icims:careers-decisionpointcorp.icims.com:4309": "2026-11-09",
+  "icims:careers-dewberry.icims.com:16686": "2026-11-13",
   "icims:careers-dminc.icims.com:28798": "2026-11-09",
   "icims:careers-dminc.icims.com:28799": "2026-11-09",
   "icims:careers-dminc.icims.com:28800": "2026-11-12",
@@ -38407,6 +38404,7 @@
   "lever:infraservices:2269b2b1-e311-4c97-b90d-c2476a6bd658": "2026-11-07",
   "lever:infraservices:ece57c78-13df-49ff-9ec5-7ad623d47c89": "2026-11-07",
   "lever:kgroupcompanies:4901c9c4-730d-493e-b5d1-a80f95837249": "2026-11-07",
+  "lever:loftorbital:5febb779-717c-40d6-9a4d-a261fe2fca09": "2026-11-13",
   "lever:loftorbital:7a06a11c-32ea-4fd2-a0bc-4f96561218a0": "2026-11-12",
   "lever:magnetforensics:1aeef597-5f34-4cfa-b913-dd1c302eb9da": "2026-11-07",
   "lever:pingwind:9667df85-c6c2-46ce-b3d7-18e1a12d1f0d": "2026-11-07",
@@ -38473,6 +38471,7 @@
   "oracle:fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com|CSXCareers:55054": "2026-11-13",
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27141": "2026-11-08",
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27309": "2026-11-08",
+  "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10005497": "2026-11-13",
   "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10005943": "2026-11-13",
   "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:105202": "2026-11-13",
   "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:105893": "2026-11-13",
@@ -39333,6 +39332,7 @@
   "workday:cat|wd5|caterpillarcareers:R0000398323": "2026-11-10",
   "workday:cat|wd5|caterpillarcareers:R0000404783": "2026-11-12",
   "workday:cccis|wd1|broadbean_external:0015031": "2026-11-12",
+  "workday:cccis|wd1|broadbean_external:0015040": "2026-11-13",
   "workday:cdk|wd1|CDK:JR9403": "2026-11-07",
   "workday:cdw|wd5|careers:R26_00001202": "2026-11-12",
   "workday:cdw|wd5|careers:R26_00002985": "2026-11-08",
@@ -39440,6 +39440,7 @@
   "workday:fmr|wd1|fidelitycareers:2137630": "2026-11-12",
   "workday:fmr|wd1|fidelitycareers:2137648": "2026-11-13",
   "workday:fmr|wd1|fidelitycareers:2137674": "2026-11-07",
+  "workday:fmr|wd1|targeted:2137307": "2026-11-13",
   "workday:fox|wd1|Domestic:R50025362": "2026-11-08",
   "workday:fox|wd1|Domestic:R50033931": "2026-11-12",
   "workday:freddiemac|wd5|External:JR17721": "2026-11-12",
@@ -39837,6 +39838,8 @@
   "workday:usaa|wd1|USAAJOBSWD:R0120021": "2026-11-12",
   "workday:usaa|wd1|USAAJOBSWD:R0120575": "2026-11-11",
   "workday:usaa|wd1|USAAJOBSWD:R0121942": "2026-11-12",
+  "workday:usaa|wd1|USAAJOBSWD:R0122257": "2026-11-13",
+  "workday:usbank|wd1|US_Bank_Careers:2026-0017824": "2026-11-13",
   "workday:usbank|wd1|US_Bank_Careers:2026-0027055": "2026-11-12",
   "workday:usbank|wd1|US_Bank_Careers:2026-0033596": "2026-11-08",
   "workday:usbank|wd1|US_Bank_Careers:2026-0035449": "2026-11-12",
