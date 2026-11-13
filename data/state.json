@@ -7325,6 +7325,7 @@
  "bootstrapped": true,
  "closed": {
   "ashby:Etched:13ee168b-41a8-4612-b4c7-15cfe9f9a3ac": "2026-11-12",
+  "ashby:Vultr:f3faf050-f72b-4306-8cd0-7853eab4e558": "2026-11-13",
   "ashby:clera:00983741-6f9e-4b8d-80c9-8252bc481d10": "2026-11-13",
   "ashby:clera:63b61af1-cd10-4499-8da3-eab9e9ce2cad": "2026-11-12",
   "ashby:clera:a3ddbed5-14b8-4192-8f94-124b8cebb549": "2026-11-12",
@@ -7658,17 +7659,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 17,
+   "n": 18,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 17,
+   "n": 18,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 17,
+   "n": 18,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -8680,7 +8681,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 21,
+   "n": 22,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -8689,7 +8690,7 @@
    "n": 3,
    "since": "2026-11-08"
   },
-  "workday:guidehouse|wd1|external": {
+  "workday:hitachi|wd1|hitachi": {
    "err": "invalid JSON",
    "n": 1,
    "since": "2026-11-13"
@@ -37493,6 +37494,7 @@
   "greenhouse:galaxydigitalservices:6237795004": "2026-11-07",
   "greenhouse:gardacp:6251084004": "2026-11-07",
   "greenhouse:gatikaiinc:4728758006": "2026-11-13",
+  "greenhouse:gatikaiinc:4729499006": "2026-11-13",
   "greenhouse:gcmgrosvenor:8035872003": "2026-11-07",
   "greenhouse:givecampus:4479171009": "2026-11-09",
   "greenhouse:gofasti:6250585004": "2026-11-09",
@@ -38466,6 +38468,7 @@
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27141": "2026-11-08",
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27309": "2026-11-08",
   "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10005943": "2026-11-13",
+  "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:105202": "2026-11-13",
   "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:105893": "2026-11-13",
   "oracle:fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:701849": "2026-11-08",
   "oracle:fa-etum-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:42290": "2026-11-12",
@@ -39226,6 +39229,7 @@
   "workday:alteryx|wd108|AlteryxCareers:R12576": "2026-11-12",
   "workday:amfam|wd1|Careers:R39797": "2026-11-12",
   "workday:analogdevices|wd1|External:R268212": "2026-11-07",
+  "workday:aoins|wd5|AutoOwners:R_13968": "2026-11-13",
   "workday:appliedis|wd5|ais_careers:JR2026001405": "2026-11-10",
   "workday:appliedis|wd5|ais_careers:JR2026001422": "2026-11-09",
   "workday:appliedis|wd5|ais_careers:JR2026001425": "2026-11-07",
@@ -39827,6 +39831,7 @@
   "workday:utaustin|wd1|UTstaff:R_00049797": "2026-11-12",
   "workday:utaustin|wd1|UTstaff:R_00049931": "2026-11-11",
   "workday:utaustin|wd1|UTstaff:R_00049932": "2026-11-11",
+  "workday:utaustin|wd1|UTstaff:R_00049996": "2026-11-13",
   "workday:vanguard|wd5|vanguard_external:182776": "2026-11-11",
   "workday:vanguard|wd5|vanguard_external:183455": "2026-11-11",
   "workday:vantagedc|wd1|Vantage:R25177": "2026-11-08",
