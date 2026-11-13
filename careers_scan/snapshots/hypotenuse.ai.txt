@@ -3,7 +3,7 @@ Book Demo
 Double click into the component to add or edit the content inside.
 The displayed links are best to edit here as it is shared with the mobile and desktop function.
 The system of intelligence behind ecommerce product information
-An AI-first PIM for ecommerce. Runs product data enrichment across your catalog, writes on-brand descriptions and perfects catalog images for SEO and GEO.
+The AI-first PIM for ecommerce. Runs product data enrichment across your catalog, writes on-brand descriptions and perfects catalog images for SEO and GEO.
 Book demo
 Trusted by leading global brands and Fortune 500 ecommerce teams
 what we do

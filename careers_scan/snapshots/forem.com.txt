@@ -14,78 +14,71 @@ Nov 9
 # career
 # beginners
 # watercooler
-142 reactions
-56 comments
+146 reactions
+57 comments
 3 min read
 How do you truly stand out in Tech?
 Navigating AI-era layoffs and high standards
 FrancisTRᴅᴇᴠ
 # community
 # productivity
-164 reactions
-96 comments
+174 reactions
+101 comments
 8 min read
-We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.
-Poll reveals hidden job market struggles
-xulingfeng
-Nov 11
-# ai
-# programming
-102 reactions
-81 comments
-12 min read
-A Day in the Life of Someone Who Just Wanted to Open LinkedIn in Peace
-Shruti Shahi
-for Necoz
+Four Applications and One Ask. Guess Which One Scared Me.
+Building in public makes reference asks effortless
+Earl Grey
 Nov 12
-# socialmedia
-14 reactions
-2 comments
-5 min read
-Small Teams, Giant Leverage: How 5-Person IT Shops Are Out-Shipping Enterprise Divisions
-Debashish Ghosal
-Add Comment
-How DevFests helped me shape my career?
-Dev J. Shah 🥑
-# developers
-# google
-1 reaction
+# ai
+# womenintech
+17 reactions
+9 comments
 4 min read
-Out of scope needs a trigger
-Denner Vidal
+The Question I Never Asked
+AheadKit
+Nov 13
+# programming
+1 reaction
+Add Comment
+7 min read
+Senior Devs Don't Have Better Memory. They Have Bigger Chunks.
+Spartan Rich
+# learning
+6 min read
+Should Junior Developers Learn to Code Without AI First?
+Rimon Nassory
 # softwareengineering
-1 min read
-Your Best Code Might Be Written While You’re Not Coding
-Khali Sollis
-9 min read
-72.6% of cybersecurity job postings name no certification at all
+Securing AI is now a job market: what 226 open AI security roles ask for and pay
 CyberJobs.cc
 # security
-# cybersecurity
-How to compare a nearshore engineer to a US hire using only public BLS data
-Bromena
-# salary
-# datascience
-No model decides whether a model made something up
-Sammii
 # llm
-# testing
-A status file for every project
-Malek Damiri
-# analytics
-# management
-2 min read
-Care About the Input, Not the Code
-Sean Kerwin
+A number told me my prose was alive. A reader lost track on line four.
+Qwerta
+# writing
+Is Claude Certified Architect worth it? Jobs and demand in 2026
+Szymon Paluch
 # claude
-# workflow
-How I design AI systems for a one person business (and what I refuse to automate)
-Bhavik Sarkhedi
-# startup
-6 min read
-Anthropic's IPO Lets Regular People Request Shares. Here's What That Actually Means
-Serghei Pogor
-# investing
+# certification
+A Tech recruiter's 5-level framework to write your resume bullet points
+Emmanuel Gendre
+# resume
+A gap is better than a guess
+Matt Cockayne
+# agents
+# testing
+AI made practice tools cheaper. So why is deliberate practice still so rare?
+Thiago Longo Moraes
+Databricks Data Engineer Associate vs Professional
+Sajeev PS
+# databricks
+# dataengineering
+5 min read
+AWS CLF-C02 vs AIF-C01: Which Foundational Exam First?
+# aws
+How to Become a Better Engineering Leader: 15 Practical Skills
+Naveed Ahmed
+# leadership
+# devops
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Free AWS Certification for Students: The Complete Step-by-Step Guide
 How I Feel about the Grace Hopper Celebration Getting Cancelled
@@ -99,19 +92,19 @@ The Quiet Weight of Working in Tech in the AI Era
 Should You Still Learn to Code in 2026? An Honest Take From a Student Who's Still Grinding
 Don't Be a Proxy Between Me and Your AI
 My AI-assisted coding interview was a lesson in reading unfamiliar code
-A Simple Guide to Passing the Claude Certified Developer Exam
 Salesforce SMTS Interview Experience (Offer Accepted)
+A Simple Guide to Passing the Claude Certified Developer Exam
 The Software Entropy in the AI Era
 Google X-Ray Search for Smarter Job Hunting
 What an Anthropic hiring manager stopped asking candidates to do
 Are we software engineers doomed? Yes, because of AI!
 Are Frontend Developers Cooked? Is Frontend design safe?
 The Ever Changing Profession of Software Engineering
+No Human Will Ever Write Code Better Than LLMs? Better at What?
 TopAccess: Freelancer Review
-Company career page scraper: every open job from any company, by name or domain
-DuckLake 1.0 and Iceberg 1.11: What a Data Engineer Should Know
 Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
-Developer Burnout in the AI Era: It's Not What You Think
+Company career page scraper: every open job from any company, by name or domain
+Emotional Deadlocks: When Two People Wait for Each Other to Change First
 We're a place where coders share, stay up-to-date and grow their careers.
 Log in
 Create account

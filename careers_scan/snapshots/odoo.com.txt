@@ -1,10 +1,10 @@
 Want to have an impact while having fun ?
 Your next adventure starts below!
 Countries
-All Countries 185
+All Countries 184
 India 15
 Kenya 10
-United Arab Emirates 15
+United Arab Emirates 14
 Italy 4
 Australia 3
 Belgium 42
@@ -12,10 +12,10 @@ Philippines 7
 Spain 8
 Germany 7
 France 5
-United States 23
 Brazil 7
-Luxembourg 2
+United States 23
 Indonesia 14
+Luxembourg 2
 Mexico 8
 Hong Kong 15
 Offices
@@ -30,15 +30,15 @@ Content & Learning 1
 Direct Sales 5
 Finance 1
 Direct Customer Success 4
-Indirect Customer Success 2
 Partnership Recruitment 4
+Indirect Customer Success 2
 Marketing 1
 Business Services 1
 Business Support 1
 Job position
 Filters
 All Countries
-185
+184
 India
 Kenya
 United Arab Emirates
@@ -49,10 +49,10 @@ Philippines
 Spain
 Germany
 France
-United States
 Brazil
-Luxembourg
+United States
 Indonesia
+Luxembourg
 Mexico
 Hong Kong
 All Offices
@@ -65,8 +65,8 @@ Content & Learning
 Direct Sales
 Finance
 Direct Customer Success
-Indirect Customer Success
 Partnership Recruitment
+Indirect Customer Success
 Marketing
 Business Services
 Business Support
@@ -98,15 +98,14 @@ Senior Accountant
 Administration / Finance
 Account Executive (Spanish)
 Our Sales Team is seeking an enthusiastic Account Executive to take charge of the entire sales cycle and analyze client business operations all across Latin America. Apply now!
-Customer Care Associate, French
+Customer Care Associate (Spanish)
 Sales / Direct Customer Success
 Build and maintain relationships with multiple customers! We’ll train you on Odoo’s diverse applications, and you’ll use your business understanding to drive adoption and expand your client base.
-Customer Success Manager, Indirect
-Sales / Indirect Customer Success
-Partner Account Executive, Dutch
+Customer Success Manager, Direct
+Partner Account Executive, French
 Sales / Partnership Recruitment
 Develop, grow, and maintain our network of implementation partners in North America!
-Customer Care Associate (Spanish)
+Customer Care Associate, French
 Job Events
 Discover and discuss the open positions at Odoo.
 Next events

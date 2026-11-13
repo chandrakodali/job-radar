@@ -9,7 +9,7 @@ Images
 Upload image
 Tap an image to put it on the pack. You can also drop or paste images anywhere.
 Chase items
-Live hits
+Live pulls
 Featured packs
 Leaderboard
 1 pack

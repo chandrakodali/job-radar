@@ -42,12 +42,13 @@ Submit your resume and tell us what you're looking for. We'll keep your informat
 LATEST BLOGS
 Find Out What's Happening At Improving
 Want to learn what it's like to work for Improving? Discover some of our blogs that showcase the company culture.
+Agile
+The Complete Guide to Choosing a Business Agility Partner
+This guide helps enterprise leaders compare business agility firms and choose a partner based on coaching depth, framework fit, and measurable results.
 AI Agent Dispatcher Patterns To Survive the Model Swapping
 The dispatcher pattern picks the right AI model for each task, so your agents keep working when providers change. Here is how it works, and when to use it.
 MLOps Best Practices to Keep Your Machine Learning Models From Dying
 MLOps best practices for the period after launch: six ways models degrade in production and a quality gate that blocks silent decline before customers notice.
-Top Custom AI/ML Development Companies for Production-Ready Models
-This buyer's guide compares leading custom AI and machine learning firms and explains how to choose a partner that moves models into production.
 FAQS
 Popular Questions About Working at Improving
 Still have questions about working at Improving? Below, we answer some of the most common inquiries we receive. If you still can't find what you’re looking for, feel free to reach out using the form below and our team will be happy to help.

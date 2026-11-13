@@ -3,6 +3,7 @@ Compute
 Inference
 Pricing
 Inference Pricing
+Sandbox Pricing
 Compare Providers
 Pricing Calculator
 LLM Cost Calculator

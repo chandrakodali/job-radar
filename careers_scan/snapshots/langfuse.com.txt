@@ -7,7 +7,7 @@ If you want to build great developer tools, or get developers to love them, we'd
 – Marc , Clemens , Max and the Langfuse team
 Why join Langfuse
 We're winning the category through open source
-Langfuse is the most widely adopted open-source LLM engineering platform , used by 50,000+ companies , with 37,360 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 of the Fortune 50 and 129 of the Fortune 500 companies.
+Langfuse is the most widely adopted open-source LLM engineering platform , used by 50,000+ companies , with 37,372 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 of the Fortune 50 and 129 of the Fortune 500 companies.
 It has the largest distribution in our space. See the public metrics .
 AI-native companies and large enterprises
 AI-native companies like Ramp run on Langfuse, and so do very large enterprises. See more companies building with Langfuse .

@@ -1,4 +1,4 @@
-Announcing Medusa Search: A built-in search engine for your Medusa store
+Announcing Medusa Security: Instant protection of your Medusa store
 Medusa Admin Explore our commerce merchant dashboard
 Medusa Cloud Explore our batteries-included hosting platform
 Start for free

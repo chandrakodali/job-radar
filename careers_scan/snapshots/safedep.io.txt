@@ -134,15 +134,15 @@ Works across your stack
 Latest from SafeDep
 Threat research from the supply chain frontline
 Read the blog
+Engineering Nov 13, 2026
+The Rules That Moved safedep.io from Astro to Next.js 16
+Lint before code, useEffect banned, complexity capped at 15, clicks 2.4× faster, and an interactive guide to choosing your Next.js caching setup.
 Malware Nov 12, 2026
 wfx: GitHub Actions Credential Stealer Hits 8,000 Repos
 Since November 10, 2026, an attacker has used stolen GitHub tokens to push a credential stealer into more than 8,000 repositories. It runs once in GitHub Actions or on npm install, sends secrets and cloud credentials to the attacker, and leaves cloud backdoors. Then the attacker reverts the commit.
 Malware Updated Nov 11, 2026
 Compromised bee-js and Swarm Desktop Steal Swarm Wallet Keys
 Version 13.3.0 of @ethersphere/bee-js, the JavaScript client for Swarm, added a postinstall hook that steals the Swarm node wallet key and installs a remote-access backdoor. Swarm Desktop 0.56.2 shipped the same loader.
-Malware Nov 10, 2026
-Backdoored PyPI Package fragment-api-py 14.4.2 Drains TON Wallets on Startup
-Version 14.4.2 of fragment-api-py, a PyPI client for Telegram Fragment, sends all TON and USDT from the user wallet to an attacker wallet when the client opens. The release is the old 13.0.0 code with a backdoor and a new version number.
 Ship code.
 Not malware.
 Start free with open source tools on your machine.

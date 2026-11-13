@@ -1,45 +1,43 @@
 Now hiring
 Join Rimward
-We’re hiring across deployment, platform and perception to build security software for solar sites. Explore each role’s location and focus below.
-Paris, France · Full-time · IoT & network security · Platform engineering · Computer vision
+We’re hiring across deployment and platform to build security software for solar sites.
+Paris, France · Full-time
 What the work is actually like
-Four things shape every role here
-Outdoor sites, not datacentres
-Cameras on masts, perimeter fences, mud and weather. What you ship gets installed somewhere with nobody around.
-The device is not on your desk
-Once an edge box is in a cabinet in a field, every fix has to land remotely, and land first time.
-Bandwidth is a budget
-Some links are thin and metered. Where connectivity calls for it, an on-site gateway processes video locally.
-A missed event is the failure
-Green dashboards are easy. Catching the one intrusion at 03:00 is the bar the whole system is judged on.
-Priority roles
+Outdoor sites, not datacentres Masts, fences, mud and weather, with nobody around.
+The device is not on your desk Every fix lands remotely, and first time.
+Bandwidth is a budget Thin, metered links; video processed on site when needed.
+A missed event is the failure The bar is the one intrusion at 03:00.
 Current openings
-IoT & network Paris, France · Full-time
+IoT & network
 Security / IoT deployment engineer
-Linux, networking, CCTV/VMS integration, and on-site deployments.
+Bring every camera on a new site online and keep it reporting, from the first visit to the last fix.
 Linux · Networking · CCTV / VMS · Field work
 Apply
-Platform Paris, France · Full-time
+Platform
 Platform engineer
-Infrastructure, reliability, tooling, and hands-on production operations.
+Keep the platform up and every site’s data flowing, from the edge box to the alert.
 Infrastructure · Reliability · Tooling · Production ops
-Computer vision Paris, France · Full-time
-Perception engineer (computer vision)
-Computer vision, evaluation loops, and edge deployment constraints.
-Computer vision · Eval loops · Edge deployment
 Role applications are handled on Y Combinator’s job board.
+F-G Fernandez
+Founder · YC S23
+Why Rimward
+From wildfires to solar sites
+I co-founded Pyronear : open-source wildfire detection on cameras already in place. Some of the sites we watched were solar plants, and their owners kept raising another problem: theft, on sites where nobody is around.
+Rimward starts there. First, detection and anticipation that hold up on remote sites. Next, faster response when something happens.
+You’d be the first hire: a whole part of the system to own, and direct work with me.
+Pyronear in figures
+48 remote sites
+9 French fire services
+5 countries
+More on our YC page
 How hiring works
 Four steps, no surprises
-Step 01
 Intro call
 What you have built, what you want to own next, and what the role actually covers.
-Step 02
 Technical deep dive
 One real problem from our domain, discussed the way we would discuss it on the team.
-Step 03
 Meet the team
 The people you would work with, plus a walk through a live site setup.
-Step 04
 Decision
 A clear yes or no with the reasoning, whichever way it goes.
 Open application

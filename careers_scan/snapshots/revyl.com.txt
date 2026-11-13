@@ -1,5 +1,5 @@
 Build the systems that let AI operate software
-Join the founding team building AI agents, device infrastructure, and the reliability platform for iOS, Android, and web.
+Join the founding team building the runtime where agents build, run and verify every change on cloud devices and Macs.
 Apply now Meet Revyl
 4 open roles
 San Francisco, CA
@@ -20,7 +20,7 @@ Full-time
 Software Engineer Build the AI agent loop, device infrastructure, workflow orchestration, and product surfaces of the platform.
 Engineering, Full stack
 San Francisco, CA, US
-Engineering Intern Ship production work across agent systems, mobile infrastructure, and product with high ownership alongside the founders.
+Engineering Intern Ship production work across agent systems, device and Mac infrastructure, and product with high ownership alongside the founders.
 Internship
 GTM Intern Create content, talk to customers, and ship projects that grow the business alongside the founders.
 Growth and marketing
@@ -57,6 +57,6 @@ Question 01
 What do you think the future of software development looks like, and what are most people missing about it?
 02 Show us how you build Share a project, problem, or artifact that shows how you think, learn, and turn ambiguity into something real.
 03 Start the conversation Apply on our Y Combinator page with the role, your answer, and links to work you are proud of.
-Build the reliability platform for an AI-native world
+Build the runtime for cloud agents
 Apply on Y Combinator with the role you’re interested in, your answer to the question above, and links to your work.
 Apply now hiring@revyl.ai

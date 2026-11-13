@@ -27,7 +27,7 @@ Don't see your role? Write to info@getstructured.ai and tell us what you'd build
 Reach us directly
 info@getstructured.ai
 Navigation
-Features Integrations Revit plugin AutoCAD plugin Compare About Careers Book a demo
+Features Integrations Revit plugin AutoCAD and Civil 3D plugin Compare About Careers Book a demo
 Resources
 Knowledge Base Blog Events FAQ User Guide
 Library

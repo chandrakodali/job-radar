@@ -1,4 +1,4 @@
-Join our Community Call: Ephemeral Graphs on Demand: Meshtastic Mesh Topology With ClickHouse and Memgraph →
+Join our Community Call: Introducing Memgraph Lore: The Graph Intelligence Workspace →
 Get a demo
 Get started
 Careers
