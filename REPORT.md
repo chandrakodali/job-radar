@@ -1,14 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**335 jobs**, newest first. Updated Fri Nov 13, 1:41 AM CST from 7,552 company job boards and other sources.
+**334 jobs**, newest first. Updated Fri Nov 13, 4:50 AM CST from 7,552 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 33 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 111 matching jobs that job sites and feeds listed this week, 25 (22%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 144 matching jobs that job sites and feeds listed this week, 33 (22%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 12 (85)](#thursday-nov-12-85) · [Wed 11 (40)](#wednesday-nov-11-40) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (46)](#monday-nov-9-46) · [Sun 8 (35)](#sunday-nov-8-35) · [Sat 7 (7)](#saturday-nov-7-7) · [Fri 6 (52)](#friday-nov-6-52)
+Jump to: [Thu 12 (85)](#thursday-nov-12-85) · [Wed 11 (40)](#wednesday-nov-11-40) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (46)](#monday-nov-9-46) · [Sun 8 (35)](#sunday-nov-8-35) · [Sat 7 (7)](#saturday-nov-7-7) · [Fri 6 (51)](#friday-nov-6-51)
 
 ## Thursday, Nov 12 (85)
 
@@ -323,7 +323,7 @@ Jump to: [Thu 12 (85)](#thursday-nov-12-85) · [Wed 11 (40)](#wednesday-nov-11-4
 | date only | [Senior Software Engineer, System Validation - EDA Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Next-Generation-Architecture---EDA-Infrastructure_JR2014880) | NVIDIA | US, CA, Santa Clara; US, MA, Westford; … (remote) | 35 | senior title, years not stated |
 | 2:00 AM | [Cloud Engineer III](https://jobs.mcdonalds.com/job/Chicago-Cloud-Engineer-III-IL-60607/1408247300/) | McDonald's | Chicago, IL, United States | 48 | 3+ yrs exp; senior title |
 
-## Friday, Nov 6 (52)
+## Friday, Nov 6 (51)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -378,7 +378,6 @@ Jump to: [Thu 12 (85)](#thursday-nov-12-85) · [Wed 11 (40)](#wednesday-nov-11-4
 | 7:50 AM | [Platform Engineer - SCON](https://boards.greenhouse.io/accenturefederalservices/jobs/4727887006?gh_jid=4727887006) | Accenture | Washington, DC | 48 | no future H-1B sponsorship |
 | 5:18 AM | [Kubernetes Software Engineer - Go (f/m/d)](https://jobs.ashbyhq.com/kubermatic/8f106095-0eee-492a-b970-4e4a0d77a0a3) | Kubermatic | Remote CET ±4hrs (remote) | 40 | location unclear |
 | 5:13 AM | [Senior Kubernetes - Go Software Engineer (f/m/d)](https://jobs.ashbyhq.com/kubermatic/17fd4787-ca5f-444c-ab72-2a5d4a671280) | Kubermatic | Remote CET ±4hrs (remote) | 35 | 3+ yrs exp; senior title; location unclear |
-| 1:45 AM | [Azure Intune Engineer](https://news.ycombinator.com/item?id=50389352) | iCallidus | Denver, US | 53 |  |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (650)
 
@@ -386,6 +385,7 @@ Jump to: [Thu 12 (85)](#thursday-nov-12-85) · [Wed 11 (40)](#wednesday-nov-11-4
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Network Operations Engineer II](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-II_R0018410) | Astreya | Denver, CO | 25 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 1:41 AM (seen) | [SRE II (L3 Tech Support+Virtualization) 4-12yrs Pune](https://jobs.jobvite.com/nutanix/job/ofXPzfwk) | Nutanix |  | 20 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
 | 10:35 PM | [Government Cloud Security Engineer](https://job-boards.greenhouse.io/xai/jobs/5294116007) | xAI | Austin, TX; New York, NY; Palo Alto, CA… | 60 | rules: 3+ yrs exp; needs: security clearance |
 | 8:36 PM | [Associate DevSecOps Engineer (Python, CI/CD)](https://jobs.workable.com/view/wWC2HAKP4r2FzxF3Yv95M5/hybrid-associate-devsecops-engineer-(python%2C-ci%2Fcd)-in-washington-at-opendatajobs) | OpenDataJobs | Washington, District of Columbia (hybrid) | 80 | rules: entry-level title; needs: requires United States citizenship |
@@ -487,7 +487,6 @@ Jump to: [Thu 12 (85)](#thursday-nov-12-85) · [Wed 11 (40)](#wednesday-nov-11-4
 | date only | [Infrastructure Engineer](https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary/job/Lyndhurst-NJ/Infrastructure-Engineer_104049) | Memorial Sloan Kettering Canc… | Lyndhurst, NJ (hybrid) | 50 | asks for 5+ years of experience; 5+ yrs exp |
 | date only | [EXE Production Engineer](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/EXE-Production-Engineer_J-00354641) | ASML | Wilton, CT, USA | 23 | asks for 5+ years of experience; 5+ yrs exp |
 | date only | [Audio Production Engineer](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Audio-Production-Engineer_R_00049797) | University of Texas at Austin | UT MAIN CAMPUS | 28 | asks for 5+ years of experience; 5+ yrs exp; E-Verify; no future H-1B… |
-| date only | [Network Operations Engineer II](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-II_R0018262) | Astreya | Denver, CO | 18 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Client Systems Administrator](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Client-Systems-Administrator_HR102567) | Radiance Technologies | Beavercreek, OH | 30 | rules: 10+ yrs exp; needs: Secret clearance |
 | date only | [Experienced Systems Engineer - Cloud-Based Systems](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Experienced-Systems-Engineer---Cloud-Based-Systems_JR2026526337) | The Boeing Company | USA - Daytona Beach, FL (onsite) | 45 | rules: 4+ yrs exp; E-Verify; no future H-1B sponsorship; needs: Secur… |
 | date only | [Platform Engineer / DevSecOps Engineer](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Platform-Engineer---DevSecOps-Engineer_42911) | Guidehouse | US - VA, McLean | 38 | rules: 5+ yrs exp; needs: security clearance |

@@ -7538,7 +7538,7 @@
   },
   "ashby:offstream": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-13"
   },
   "ashby:ona": {
@@ -7579,7 +7579,7 @@
   },
   "ashby:tavily": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-13"
   },
   "ashby:tensorzero": {
@@ -7650,17 +7650,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 15,
+   "n": 16,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 15,
+   "n": 16,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 15,
+   "n": 16,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -8672,7 +8672,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 19,
+   "n": 20,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -8947,8 +8947,8 @@
    40
   ],
   "2026-11-13": [
-   16,
-   71
+   24,
+   104
   ]
  },
  "resolved": {
@@ -38660,6 +38660,7 @@
   "sfrmk:careers.capgemini.com:1421451533": "2026-11-09",
   "sfrmk:careers.capgemini.com:1422386533": "2026-11-12",
   "sfrmk:careers.capgemini.com:1422928833": "2026-11-10",
+  "sfrmk:careers.capgemini.com:1423029433": "2026-11-13",
   "sfrmk:careers.capgemini.com:1427225233": "2026-11-09",
   "sfrmk:careers.capgemini.com:1427418333": "2026-11-13",
   "sfrmk:careers.capgemini.com:1428293833": "2026-11-11",
@@ -38923,6 +38924,7 @@
   "sfrmk:jobs.atos.net:1449089733": "2026-11-09",
   "sfrmk:jobs.atos.net:1452216733": "2026-11-09",
   "sfrmk:jobs.atos.net:1454591233": "2026-11-12",
+  "sfrmk:jobs.atos.net:1457139133": "2026-11-13",
   "sfrmk:jobs.bmwgroup.com:1427039333": "2026-11-09",
   "sfrmk:jobs.bmwgroup.com:1427500333": "2026-11-12",
   "sfrmk:jobs.cmc.com:1415909600": "2026-11-09",
@@ -39202,6 +39204,10 @@
   "workday:astreya|wd5|life-at-astreya-opportunities:R0018279": "2026-11-08",
   "workday:astreya|wd5|life-at-astreya-opportunities:R0018282": "2026-11-08",
   "workday:astreya|wd5|life-at-astreya-opportunities:R0018309": "2026-11-08",
+  "workday:astreya|wd5|life-at-astreya-opportunities:R0018410": "2026-11-13",
+  "workday:astreya|wd5|life-at-astreya-opportunities:R0018411": "2026-11-13",
+  "workday:astreya|wd5|life-at-astreya-opportunities:R0018412": "2026-11-13",
+  "workday:astreya|wd5|life-at-astreya-opportunities:R0018413": "2026-11-13",
   "workday:atcllc|wd5|atcllc:R0003051": "2026-11-12",
   "workday:athene|wd5|athene_careers:R255291": "2026-11-12",
   "workday:avav|wd1|avav:8756": "2026-11-09",
@@ -39296,6 +39302,7 @@
   "workday:davita|wd1|DKC_External:R0478967": "2026-11-12",
   "workday:db|wd3|DBWebsite:R0458277": "2026-11-12",
   "workday:dedalus|wd3|External:JR108344": "2026-11-11",
+  "workday:dentsuaegis|wd3|DAN_GLOBAL:R1132553": "2026-11-13",
   "workday:dimensional|wd5|dfa_careers:2026-8763": "2026-11-12",
   "workday:dimensional|wd5|dfa_careers:2026-8985": "2026-11-12",
   "workday:dimensional|wd5|dfa_careers:2026-9085": "2026-11-12",
@@ -39324,6 +39331,7 @@
   "workday:enbridge|wd3|enbridge_careers:73337": "2026-11-11",
   "workday:epicorsoftware|wd5|epicorjobs:US, Bensalem; US, Eau Claire; US, Minneapolis": "2026-11-08",
   "workday:epiqsystems|wd503|Epiq_Careers:R0035440": "2026-11-12",
+  "workday:equifax|wd5|external:J00179329": "2026-11-13",
   "workday:equifax|wd5|external:J00179360": "2026-11-11",
   "workday:equifax|wd5|external:J00179430": "2026-11-11",
   "workday:equinix|wd1|External:JR-163862": "2026-11-12",
@@ -39772,10 +39780,10 @@
  },
  "source_last": {
   "hn": "2026-11-13T07:41:42+00:00",
-  "remoteok": "2026-11-13T07:41:42+00:00",
-  "usajobs": "2026-11-13T07:41:42+00:00",
-  "workable_search": "2026-11-13T07:41:42+00:00",
-  "wwr": "2026-11-13T07:41:42+00:00"
+  "remoteok": "2026-11-13T10:50:38+00:00",
+  "usajobs": "2026-11-13T10:50:38+00:00",
+  "workable_search": "2026-11-13T10:50:38+00:00",
+  "wwr": "2026-11-13T10:50:38+00:00"
  },
  "title_rules": "40fbd1858c98",
  "version": 1
