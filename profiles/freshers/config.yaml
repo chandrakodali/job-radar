@@ -65,6 +65,9 @@ titles:
   - \b(m/w/d|w/m/d|m/f/d|f/h|h/f)\b
   - \bing[ée]nieur|\bwerkstudent|alternance
   - \b(rf|antenna|analog|asic|fpga|pcb|hardware design|silicon|layout) (engineer|designer)\b
+  - \b(first|second|third|night|weekend|1st|2nd|3rd) shift\b
+  - \b(qa|qc|quality (control|assurance)|lab|laboratory|food safety) (technician|inspector|tech)\b
+  - \bsignals? (design|engineer)\b
   entry:
   - \bjunior\b
   - \bjr\.?\b
