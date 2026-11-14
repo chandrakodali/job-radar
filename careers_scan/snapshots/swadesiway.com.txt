@@ -7,10 +7,12 @@ This product has multiple variants. The options may be chosen on the product pag
 500 g
 1 kg
 Organic Golden Custard Apple (Semi Ripe) quantity
-Organic Desi Amla
-₹ 45.00
-250 g
-Organic Desi Amla quantity
+Organic Kiwi
+Price range: ₹135.00 through ₹300.00
+3 pcs (220-280 gm)
+6 pcs (450 - 550 gm)
+9 pcs (700 - 800 gm)
+Organic Kiwi quantity
 Organic Big Apples from Upper Kinnaur (5 pcs/ kg)
 Price range: ₹450.00 through ₹1,230.00
 2 kg
@@ -19,14 +21,14 @@ Organic Big Apples from Upper Kinnaur (5 pcs/ kg) quantity
 Organic Small Royal Delicious Apples from Upper Kinnaur (11-13 pcs/ kg)
 Price range: ₹180.00 through ₹650.00
 Organic Small Royal Delicious Apples from Upper Kinnaur (11-13 pcs/ kg) quantity
-Frozen Alphonso Mango Pulp (100% Pure & Natural)
-Price range: ₹550.00 through ₹1,250.00
-500 g x 2
-500 g x 5
-Frozen Alphonso Mango Pulp (100% Pure & Natural) quantity
 Frozen Mango Pulp (100% Pure & Natural)
 Price range: ₹350.00 through ₹800.00
+500 g x 2
+500 g x 5
 Frozen Mango Pulp (100% Pure & Natural) quantity
+Organic Potato
+₹ 75.00
+Organic Potato quantity
 Organic Lehsun/Garlic
 ₹ 40.00
 100 g
@@ -34,32 +36,31 @@ Organic Lehsun/Garlic quantity
 Organic Desi Coriander (Dhaniya)
 ₹ 30.00
 Organic Desi Coriander (Dhaniya) quantity
-Desi Spinach (Palak) (with little holes & spots)
-Price range: ₹35.00 through ₹60.00
-Desi Spinach (Palak) (with little holes & spots) quantity
 Desi Radish / Mooli
-Price range: ₹45.00 through ₹80.00
+₹ 45.00
 Desi Radish / Mooli quantity
-Organic Bhindi/Okra
+Desi Lauki (Bottle Gourd)
 ₹ 50.00
+600 g
+Desi Lauki (Bottle Gourd) quantity
+Organic Bhindi/Okra
 Organic Bhindi/Okra quantity
 Organic Cauliflower (Gobhi)
+₹ 90.00
 Organic Cauliflower (Gobhi) quantity
+Organic Kumbhkat Lemon
+200 g
+Organic Kumbhkat Lemon quantity
 Organic Yellow Bell Pepper
 ₹ 120.00
+250 g
 Organic Yellow Bell Pepper quantity
-Organic Brinjal – Small
-₹ 55.00
-Organic Brinjal - Small quantity
-Organic Broccoli
-₹ 300.00
-Organic Broccoli quantity
 Organic Celery
 Price range: ₹90.00 through ₹250.00
 750 g
 Organic Celery quantity
 Organic Green Peas – Matar
-₹ 280.00
+Price range: ₹150.00 through ₹280.00
 Organic Green Peas - Matar quantity
 Organic Green Lettuce
 Price range: ₹80.00 through ₹150.00
@@ -77,7 +78,6 @@ Price range: ₹180.00 through ₹850.00
 Stone Ground Khapli Whole Wheat Flour quantity
 Moringa Leaves Powder
 Price range: ₹100.00 through ₹340.00
-200 g
 200 g x 2
 Moringa Leaves Powder quantity
 Chingrihuli Red Rice
@@ -199,6 +199,9 @@ Unpolished Dhuli Dal Pack quantity
 Whole Soyabean
 Price range: ₹80.00 through ₹140.00
 Whole Soyabean quantity
+Premium Whole Peanuts
+Price range: ₹160.00 through ₹300.00
+Premium Whole Peanuts quantity
 Unpolished White Kabuli Chana | Chole
 Unpolished White Kabuli Chana | Chole quantity
 Unpolished Kala Chana
@@ -247,7 +250,6 @@ Cumin Seeds/Jeera
 Price range: ₹170.00 through ₹320.00
 Cumin Seeds/Jeera quantity
 Fennel Seeds/Saunf
-Price range: ₹160.00 through ₹300.00
 Fennel Seeds/Saunf quantity
 Mustard Seeds/Rai (Small)
 Price range: ₹65.00 through ₹130.00
@@ -259,6 +261,7 @@ Dry Mango Powder/Amchur
 ₹ 85.00
 Dry Mango Powder/Amchur quantity
 Whole Nutmeg
+₹ 55.00
 Whole Nutmeg quantity
 Handpicked Green Cardamom Whole
 Handpicked Green Cardamom Whole quantity

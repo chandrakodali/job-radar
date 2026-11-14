@@ -1,6 +1,6 @@
 {
  "100x.bot": {
-  "fails": 10
+  "fails": 11
  },
  "10by10.io": {
   "checked": "2026-11-14",
@@ -11,7 +11,7 @@
   "fails": 0
  },
  "10xscience.com": {
-  "fails": 10
+  "fails": 11
  },
  "1849.bio": {
   "checked": "2026-11-14",
@@ -50,7 +50,7 @@
   "fails": 0
  },
  "a1base.com": {
-  "fails": 10
+  "fails": 11
  },
  "abelpolice.com": {
   "checked": "2026-11-14",
@@ -109,7 +109,7 @@
   "fails": 0
  },
  "agentphone.ai": {
-  "fails": 10
+  "fails": 11
  },
  "agentrelay.com": {
   "checked": "2026-11-14",
@@ -136,7 +136,7 @@
   "fails": 0
  },
  "aiosmedical.notion.site": {
-  "fails": 10
+  "fails": 11
  },
  "airfordable.com": {
   "checked": "2026-11-14",
@@ -187,14 +187,14 @@
   "fails": 0
  },
  "alemhealth.com": {
-  "fails": 10
+  "fails": 11
  },
  "algorand.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "algouniversity.com": {
-  "fails": 10
+  "fails": 11
  },
  "aliceplatform.com": {
   "checked": "2026-11-14",
@@ -209,17 +209,17 @@
   "fails": 0
  },
  "alt-x.co": {
-  "fails": 10
+  "fails": 11
  },
  "altair-health.com": {
-  "fails": 10
+  "fails": 11
  },
  "altur.io": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "alude.com.br": {
-  "fails": 10
+  "fails": 11
  },
  "amazon.jobs": {
   "checked": "2026-11-14",
@@ -254,10 +254,10 @@
   "fails": 0
  },
  "andtiny.com": {
-  "fails": 10
+  "fails": 11
  },
  "andustry.com": {
-  "fails": 10
+  "fails": 11
  },
  "angstrom-ai.com": {
   "checked": "2026-11-14",
@@ -272,7 +272,7 @@
   "fails": 0
  },
  "antgroup.com": {
-  "fails": 10
+  "fails": 11
  },
  "anto.bio": {
   "checked": "2026-11-14",
@@ -280,7 +280,7 @@
  },
  "antropi.world": {
   "checked": "2026-11-14",
-  "fails": 0
+  "fails": 1
  },
  "anylist.com": {
   "checked": "2026-11-14",
@@ -307,24 +307,24 @@
   "fails": 0
  },
  "aptdeco.com": {
-  "fails": 10
+  "fails": 11
  },
  "aquasec.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "archangelhealth.ai": {
-  "fails": 10
+  "fails": 11
  },
  "archform.com": {
-  "fails": 10
+  "fails": 11
  },
  "arcprize.org": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "aren.com": {
-  "fails": 10
+  "fails": 11
  },
  "aresindustries.com": {
   "checked": "2026-11-14",
@@ -419,7 +419,7 @@
   "fails": 0
  },
  "astroenergy.ai": {
-  "fails": 10
+  "fails": 11
  },
  "asynchronics.com": {
   "checked": "2026-11-14",
@@ -434,7 +434,7 @@
   "fails": 0
  },
  "atopile.io": {
-  "fails": 10
+  "fails": 11
  },
  "atrisa.ai": {
   "checked": "2026-11-14",
@@ -449,10 +449,10 @@
   "fails": 0
  },
  "attunement.ai": {
-  "fails": 10
+  "fails": 11
  },
  "atuin.sh": {
-  "fails": 10
+  "fails": 11
  },
  "audun.co": {
   "checked": "2026-11-14",
@@ -480,7 +480,7 @@
  },
  "autositu.com": {
   "checked": "2026-11-14",
-  "fails": 0
+  "fails": 1
  },
  "autumnlabs.io": {
   "checked": "2026-11-14",
@@ -507,10 +507,10 @@
   "fails": 0
  },
  "axionorbital.space": {
-  "fails": 10
+  "fails": 11
  },
  "axisanalysis.com": {
-  "fails": 10
+  "fails": 11
  },
  "baculasystems.com": {
   "checked": "2026-11-14",
@@ -525,7 +525,7 @@
   "fails": 0
  },
  "bandcamp.com": {
-  "fails": 10
+  "fails": 11
  },
  "bandzoogle.com": {
   "checked": "2026-11-14",
@@ -540,7 +540,7 @@
   "fails": 0
  },
  "basalt.space": {
-  "fails": 10
+  "fails": 11
  },
  "basecamp.com": {
   "checked": "2026-11-14",
@@ -555,10 +555,10 @@
   "fails": 0
  },
  "bayesline.com": {
-  "fails": 10
+  "fails": 11
  },
  "beanstalk.farm": {
-  "fails": 10
+  "fails": 11
  },
  "bebanjo.com": {
   "checked": "2026-11-14",
@@ -581,7 +581,7 @@
   "fails": 0
  },
  "bespokesoftwaredevelopment.com": {
-  "fails": 10
+  "fails": 11
  },
  "bestpractical.com": {
   "checked": "2026-11-14",
@@ -592,7 +592,7 @@
   "fails": 0
  },
  "beyondcompany.com.br": {
-  "fails": 10
+  "fails": 11
  },
  "bfl.ai": {
   "checked": "2026-11-14",
@@ -607,7 +607,7 @@
   "fails": 0
  },
  "bilanc.co": {
-  "fails": 10
+  "fails": 11
  },
  "bilsteingroup.com": {
   "checked": "2026-11-14",
@@ -630,8 +630,8 @@
   "fails": 0
  },
  "bitrise.io": {
-  "checked": "2026-11-13",
-  "fails": 2
+  "checked": "2026-11-14",
+  "fails": 0
  },
  "bitzesty.com": {
   "checked": "2026-11-14",
@@ -658,21 +658,21 @@
   "fails": 0
  },
  "blink.new": {
-  "fails": 10
+  "fails": 11
  },
  "blitznocode.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "blockscope.co": {
-  "fails": 10
+  "fails": 11
  },
  "bluespark.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "boletomovil.com": {
-  "fails": 10
+  "fails": 11
  },
  "bolsterbuilt.com": {
   "checked": "2026-11-14",
@@ -699,10 +699,10 @@
   "fails": 0
  },
  "bottomless.com": {
-  "fails": 10
+  "fails": 11
  },
  "boxes.dev": {
-  "fails": 10
+  "fails": 11
  },
  "brainkey.ai": {
   "checked": "2026-11-14",
@@ -749,10 +749,10 @@
   "fails": 0
  },
  "bucket.bot": {
-  "fails": 10
+  "fails": 11
  },
  "buf.build": {
-  "fails": 10
+  "fails": 11
  },
  "buildbuddy.io": {
   "checked": "2026-11-14",
@@ -783,7 +783,7 @@
   "fails": 0
  },
  "buypower.ng": {
-  "fails": 10
+  "fails": 11
  },
  "byteask.ai": {
   "checked": "2026-11-14",
@@ -846,7 +846,7 @@
   "fails": 0
  },
  "capgemini.com": {
-  "fails": 10
+  "fails": 11
  },
  "capital-placement.com": {
   "checked": "2026-11-14",
@@ -857,7 +857,7 @@
   "fails": 0
  },
  "carbonblack.com": {
-  "fails": 10
+  "fails": 11
  },
  "cardsagainsthumanity.com": {
   "checked": "2026-11-14",
@@ -912,20 +912,20 @@
   "fails": 0
  },
  "celltype.com": {
-  "fails": 10
+  "fails": 11
  },
  "centauri-ai.tech": {
-  "fails": 10
+  "fails": 11
  },
  "cerbos.dev": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "cercli.com": {
-  "fails": 10
+  "fails": 11
  },
  "cero.ai": {
-  "fails": 10
+  "fails": 11
  },
  "certainlyhealth.com": {
   "checked": "2026-11-14",
@@ -956,7 +956,7 @@
   "fails": 0
  },
  "cherry-ai.com": {
-  "fails": 10
+  "fails": 11
  },
  "chess.com": {
   "checked": "2026-11-14",
@@ -967,14 +967,14 @@
   "fails": 0
  },
  "chowcentral.com": {
-  "fails": 10
+  "fails": 11
  },
  "chrt.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "chunkr.ai": {
-  "fails": 10
+  "fails": 11
  },
  "circuitlab.com": {
   "checked": "2026-11-14",
@@ -1049,17 +1049,17 @@
   "fails": 0
  },
  "codeboarding.org": {
-  "fails": 10
+  "fails": 11
  },
  "codecombat.com": {
-  "fails": 10
+  "fails": 11
  },
  "codefresh.io": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "codelikeagirl.com": {
-  "fails": 10
+  "fails": 11
  },
  "codenow.org": {
   "checked": "2026-11-14",
@@ -1074,17 +1074,17 @@
   "fails": 0
  },
  "codingcops.com": {
-  "fails": 10
+  "fails": 11
  },
  "cofia.ai": {
-  "fails": 10
+  "fails": 11
  },
  "cognizant.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "cohesionplatform.com": {
-  "fails": 10
+  "fails": 11
  },
  "coingape.com": {
   "checked": "2026-11-14",
@@ -1127,7 +1127,7 @@
   "fails": 0
  },
  "conntour.com": {
-  "fails": 10
+  "fails": 11
  },
  "constructable.ai": {
   "checked": "2026-11-14",
@@ -1158,7 +1158,7 @@
   "fails": 0
  },
  "coodesh.com": {
-  "fails": 10
+  "fails": 11
  },
  "copilotkit.ai": {
   "checked": "2026-11-14",
@@ -1177,14 +1177,14 @@
   "fails": 0
  },
  "corgilabs.ai": {
-  "fails": 10
+  "fails": 11
  },
  "cortexrobot.ai": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "cosmic-chimps.com": {
-  "fails": 10
+  "fails": 11
  },
  "cosmicstack.ai": {
   "checked": "2026-11-14",
@@ -1203,7 +1203,7 @@
   "fails": 0
  },
  "coze.com": {
-  "fails": 10
+  "fails": 11
  },
  "crabnebula.dev": {
   "checked": "2026-11-14",
@@ -1214,7 +1214,7 @@
   "fails": 0
  },
  "craniometrix.com": {
-  "fails": 10
+  "fails": 11
  },
  "cranston.ai": {
   "checked": "2026-11-14",
@@ -1237,7 +1237,7 @@
   "fails": 0
  },
  "crossover.com": {
-  "fails": 10
+  "fails": 11
  },
  "crowdsec.net": {
   "checked": "2026-11-14",
@@ -1276,7 +1276,7 @@
   "fails": 0
  },
  "dagworks.io": {
-  "fails": 10
+  "fails": 11
  },
  "daily.co": {
   "checked": "2026-11-14",
@@ -1295,14 +1295,14 @@
   "fails": 0
  },
  "darkgrade.com": {
-  "fails": 10
+  "fails": 11
  },
  "darrow.ai": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "darsel.tech": {
-  "fails": 10
+  "fails": 11
  },
  "databend.com": {
   "checked": "2026-11-14",
@@ -1357,14 +1357,14 @@
   "fails": 0
  },
  "datrics.ai": {
-  "fails": 10
+  "fails": 11
  },
  "dayflow.so": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "dayra.co": {
-  "fails": 10
+  "fails": 11
  },
  "daytona.io": {
   "checked": "2026-11-14",
@@ -1375,7 +1375,7 @@
   "fails": 0
  },
  "decisional.com": {
-  "fails": 10
+  "fails": 11
  },
  "deciso.com": {
   "checked": "2026-11-14",
@@ -1383,17 +1383,17 @@
  },
  "decuff.ai": {
   "checked": "2026-11-11",
-  "fails": 5
+  "fails": 6
  },
  "deep24.com": {
-  "fails": 10
+  "fails": 11
  },
  "deepreach.ai": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "deepseek.com": {
-  "fails": 10
+  "fails": 11
  },
  "deepsource.com": {
   "checked": "2026-11-14",
@@ -1408,17 +1408,17 @@
   "fails": 0
  },
  "democracy.earth": {
-  "fails": 10
+  "fails": 11
  },
  "dench.com": {
-  "fails": 10
+  "fails": 11
  },
  "denki.ai": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "depict.ai": {
-  "fails": 10
+  "fails": 11
  },
  "deployrobotics.co": {
   "checked": "2026-11-14",
@@ -1429,7 +1429,7 @@
   "fails": 0
  },
  "deskpass.com": {
-  "fails": 10
+  "fails": 11
  },
  "detroitwaterproject.org": {
   "checked": "2026-11-14",
@@ -1460,17 +1460,17 @@
   "fails": 0
  },
  "digipals.app": {
-  "fails": 10
+  "fails": 11
  },
  "digitalocean.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "dimely.com": {
-  "fails": 10
+  "fails": 11
  },
  "dinesafe.org": {
-  "fails": 10
+  "fails": 11
  },
  "dipolelabs.com": {
   "checked": "2026-11-14",
@@ -1501,7 +1501,7 @@
   "fails": 0
  },
  "docmost.com": {
-  "fails": 10
+  "fails": 11
  },
  "documenso.com": {
   "checked": "2026-11-14",
@@ -1560,16 +1560,16 @@
   "fails": 0
  },
  "dramadrama.ai": {
-  "fails": 10
+  "fails": 11
  },
  "dreamcraft.com": {
-  "fails": 10
+  "fails": 11
  },
  "dreamrp.com": {
-  "fails": 10
+  "fails": 11
  },
  "dripcapital.com": {
-  "fails": 10
+  "fails": 11
  },
  "droidrun.ai": {
   "checked": "2026-11-14",
@@ -1580,7 +1580,7 @@
   "fails": 0
  },
  "dsbrigade.com": {
-  "fails": 10
+  "fails": 11
  },
  "dub.co": {
   "checked": "2026-11-14",
@@ -1595,10 +1595,10 @@
   "fails": 0
  },
  "durioo.com": {
-  "fails": 10
+  "fails": 11
  },
  "dylibso.com": {
-  "fails": 10
+  "fails": 11
  },
  "dyspatch.io": {
   "checked": "2026-11-14",
@@ -1614,7 +1614,7 @@
  },
  "earthly.dev": {
   "checked": "2026-11-14",
-  "fails": 0
+  "fails": 1
  },
  "easol.com": {
   "checked": "2026-11-14",
@@ -1629,7 +1629,7 @@
   "fails": 0
  },
  "eatstreet.com": {
-  "fails": 10
+  "fails": 11
  },
  "ecomp.so": {
   "checked": "2026-11-14",
@@ -1653,7 +1653,7 @@
  },
  "edgetrace.ai": {
   "checked": "2026-11-11",
-  "fails": 5
+  "fails": 6
  },
  "edurev.in": {
   "checked": "2026-11-14",
@@ -1676,7 +1676,7 @@
   "fails": 0
  },
  "eggnog.ai": {
-  "fails": 10
+  "fails": 11
  },
  "egoai.com": {
   "checked": "2026-11-14",
@@ -1715,14 +1715,14 @@
   "fails": 0
  },
  "elythea.org": {
-  "fails": 10
+  "fails": 11
  },
  "embedder.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "emcie.co": {
-  "fails": 10
+  "fails": 11
  },
  "emotenow.com": {
   "checked": "2026-11-14",
@@ -1753,7 +1753,7 @@
   "fails": 0
  },
  "ente.io": {
-  "fails": 10
+  "fails": 11
  },
  "entocycle.com": {
   "checked": "2026-11-14",
@@ -1768,7 +1768,7 @@
   "fails": 0
  },
  "epam.com": {
-  "fails": 10
+  "fails": 11
  },
  "epilocal.com": {
   "checked": "2026-11-14",
@@ -1787,10 +1787,10 @@
   "fails": 0
  },
  "erad.co": {
-  "fails": 10
+  "fails": 11
  },
  "estoca.com.br": {
-  "fails": 10
+  "fails": 11
  },
  "estuary.dev": {
   "checked": "2026-11-14",
@@ -1833,14 +1833,14 @@
   "fails": 0
  },
  "excalidraw.com": {
-  "fails": 10
+  "fails": 11
  },
  "excepgen.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "exonic.ai": {
-  "fails": 10
+  "fails": 11
  },
  "exosat.com": {
   "checked": "2026-11-14",
@@ -1851,17 +1851,17 @@
   "fails": 0
  },
  "expanse.sh": {
-  "fails": 10
+  "fails": 11
  },
  "expectedparrot.com": {
-  "fails": 10
+  "fails": 11
  },
  "experiment.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "explorex.co": {
-  "fails": 10
+  "fails": 11
  },
  "extern.com": {
   "checked": "2026-11-14",
@@ -1872,7 +1872,7 @@
   "fails": 0
  },
  "ezeit.ai": {
-  "fails": 10
+  "fails": 11
  },
  "f4.dev": {
   "checked": "2026-11-14",
@@ -1907,7 +1907,7 @@
   "fails": 0
  },
  "fed10.ai": {
-  "fails": 10
+  "fails": 11
  },
  "femaleinvest.com": {
   "checked": "2026-11-14",
@@ -1926,10 +1926,10 @@
   "fails": 0
  },
  "fetii.com": {
-  "fails": 10
+  "fails": 11
  },
  "ffwagency.com": {
-  "fails": 10
+  "fails": 11
  },
  "fiberplane.com": {
   "checked": "2026-11-14",
@@ -1980,7 +1980,7 @@
   "fails": 0
  },
  "fithub.com.co": {
-  "fails": 10
+  "fails": 11
  },
  "fivexl.io": {
   "checked": "2026-11-14",
@@ -2003,7 +2003,7 @@
   "fails": 0
  },
  "flick.art": {
-  "fails": 10
+  "fails": 11
  },
  "flightaware.com": {
   "checked": "2026-11-14",
@@ -2014,7 +2014,7 @@
   "fails": 0
  },
  "flockjay.com": {
-  "fails": 10
+  "fails": 11
  },
  "flocksafety.com": {
   "checked": "2026-11-14",
@@ -2049,7 +2049,7 @@
   "fails": 0
  },
  "fogbender.com": {
-  "fails": 10
+  "fails": 11
  },
  "fohandboh.com": {
   "checked": "2026-11-14",
@@ -2072,14 +2072,14 @@
   "fails": 0
  },
  "forgeautomation.ca": {
-  "fails": 10
+  "fails": 11
  },
  "formbricks.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "forum.market": {
-  "fails": 10
+  "fails": 11
  },
  "fountain.com": {
   "checked": "2026-11-14",
@@ -2102,7 +2102,7 @@
   "fails": 0
  },
  "freeletics.com": {
-  "fails": 10
+  "fails": 11
  },
  "freeportmarkets.com": {
   "checked": "2026-11-14",
@@ -2153,7 +2153,7 @@
   "fails": 0
  },
  "galini.ai": {
-  "fails": 10
+  "fails": 11
  },
  "gbatteries.com": {
   "checked": "2026-11-14",
@@ -2176,7 +2176,7 @@
   "fails": 0
  },
  "general-instinct.com": {
-  "fails": 10
+  "fails": 11
  },
  "generalaviation.com": {
   "checked": "2026-11-14",
@@ -2187,7 +2187,7 @@
   "fails": 0
  },
  "generaltrajectory.com": {
-  "fails": 10
+  "fails": 11
  },
  "geo-jobe.com": {
   "checked": "2026-11-14",
@@ -2214,7 +2214,7 @@
   "fails": 0
  },
  "getbluma.com": {
-  "fails": 10
+  "fails": 11
  },
  "getcabal.com": {
   "checked": "2026-11-14",
@@ -2265,14 +2265,14 @@
   "fails": 0
  },
  "getironleap.io": {
-  "fails": 10
+  "fails": 11
  },
  "getjust.ai": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "getkosh.com": {
-  "fails": 10
+  "fails": 11
  },
  "getlago.com": {
   "checked": "2026-11-14",
@@ -2335,7 +2335,7 @@
   "fails": 0
  },
  "getspine.ai": {
-  "fails": 10
+  "fails": 11
  },
  "getspokn.com": {
   "checked": "2026-11-14",
@@ -2362,7 +2362,7 @@
   "fails": 0
  },
  "gitbutler.com": {
-  "fails": 10
+  "fails": 11
  },
  "gitmcp.io": {
   "checked": "2026-11-14",
@@ -2429,10 +2429,10 @@
   "fails": 0
  },
  "gojabu.com": {
-  "fails": 10
+  "fails": 11
  },
  "gojob.com": {
-  "fails": 10
+  "fails": 11
  },
  "golem.cloud": {
   "checked": "2026-11-14",
@@ -2451,14 +2451,14 @@
   "fails": 0
  },
  "gosats.io": {
-  "fails": 10
+  "fails": 11
  },
  "gotlanded.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "govguard.com": {
-  "fails": 10
+  "fails": 11
  },
  "grafbase.com": {
   "checked": "2026-11-14",
@@ -2481,7 +2481,7 @@
   "fails": 0
  },
  "greypointindustries.com": {
-  "fails": 10
+  "fails": 11
  },
  "gridium.com": {
   "checked": "2026-11-14",
@@ -2508,7 +2508,7 @@
   "fails": 0
  },
  "gullak.money": {
-  "fails": 10
+  "fails": 11
  },
  "gupy.io": {
   "checked": "2026-11-14",
@@ -2547,14 +2547,14 @@
   "fails": 0
  },
  "headforwards.com": {
-  "fails": 10
+  "fails": 11
  },
  "healiahealth.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "healthharbor.co": {
-  "fails": 10
+  "fails": 11
  },
  "heapanalytics.com": {
   "checked": "2026-11-14",
@@ -2573,7 +2573,7 @@
   "fails": 0
  },
  "helixnano.com": {
-  "fails": 10
+  "fails": 11
  },
  "hellocozmo.ai": {
   "checked": "2026-11-14",
@@ -2581,7 +2581,7 @@
  },
  "hellotrepo.com": {
   "checked": "2026-11-11",
-  "fails": 6
+  "fails": 7
  },
  "hemut.com": {
   "checked": "2026-11-14",
@@ -2664,14 +2664,14 @@
   "fails": 0
  },
  "hlaboratories.com": {
-  "fails": 10
+  "fails": 11
  },
  "hogaru.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "holaos.ai": {
-  "fails": 10
+  "fails": 11
  },
  "honeybadger.io": {
   "checked": "2026-11-14",
@@ -2686,7 +2686,7 @@
   "fails": 0
  },
  "hotglue.com": {
-  "fails": 10
+  "fails": 11
  },
  "hub.xyz": {
   "checked": "2026-11-14",
@@ -2717,7 +2717,7 @@
   "fails": 0
  },
  "humandx.org": {
-  "fails": 10
+  "fails": 11
  },
  "humanegenomics.com": {
   "checked": "2026-11-14",
@@ -2768,14 +2768,14 @@
   "fails": 0
  },
  "icepanel.io": {
-  "fails": 10
+  "fails": 11
  },
  "icinga.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "idonethis.com": {
-  "fails": 10
+  "fails": 11
  },
  "ifsight.com": {
   "checked": "2026-11-14",
@@ -2790,7 +2790,7 @@
   "fails": 0
  },
  "illumelabs.ai": {
-  "fails": 10
+  "fails": 11
  },
  "imicrobes.com": {
   "checked": "2026-11-14",
@@ -2849,10 +2849,10 @@
   "fails": 0
  },
  "inpharmd.com": {
-  "fails": 10
+  "fails": 11
  },
  "inputright.com": {
-  "fails": 10
+  "fails": 11
  },
  "inquery.ai": {
   "checked": "2026-11-14",
@@ -2867,7 +2867,7 @@
   "fails": 0
  },
  "instacrops.com": {
-  "fails": 10
+  "fails": 11
  },
  "instantdb.com": {
   "checked": "2026-11-14",
@@ -2878,14 +2878,14 @@
   "fails": 0
  },
  "interaapps.de": {
-  "fails": 10
+  "fails": 11
  },
  "interfaze.ai": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "intheroom.social": {
-  "fails": 10
+  "fails": 11
  },
  "intuit.com": {
   "checked": "2026-11-14",
@@ -2932,11 +2932,11 @@
   "fails": 0
  },
  "issen.com": {
-  "fails": 10
+  "fails": 11
  },
  "item.app": {
   "checked": "2026-11-11",
-  "fails": 6
+  "fails": 7
  },
  "ivy.homes": {
   "checked": "2026-11-14",
@@ -2959,10 +2959,10 @@
   "fails": 0
  },
  "jestor.com": {
-  "fails": 10
+  "fails": 11
  },
  "jetadmin.io": {
-  "fails": 10
+  "fails": 11
  },
  "jinba.io": {
   "checked": "2026-11-14",
@@ -2985,7 +2985,7 @@
   "fails": 0
  },
  "joinplanbase.com": {
-  "fails": 10
+  "fails": 11
  },
  "joinreframeapp.com": {
   "checked": "2026-11-14",
@@ -3004,7 +3004,7 @@
   "fails": 0
  },
  "julep.ai": {
-  "fails": 10
+  "fails": 11
  },
  "jupiterone.com": {
   "checked": "2026-11-14",
@@ -3023,7 +3023,7 @@
   "fails": 0
  },
  "kaagaz.app": {
-  "fails": 10
+  "fails": 11
  },
  "kairoxsys.com": {
   "checked": "2026-11-14",
@@ -3034,7 +3034,7 @@
   "fails": 0
  },
  "kanopy-ai.com": {
-  "fails": 10
+  "fails": 11
  },
  "karakeep.app": {
   "checked": "2026-11-14",
@@ -3046,7 +3046,7 @@
  },
  "karboncard.com": {
   "checked": "2026-11-13",
-  "fails": 2
+  "fails": 3
  },
  "kaufland-ecommerce.com": {
   "checked": "2026-11-14",
@@ -3057,7 +3057,7 @@
   "fails": 0
  },
  "kelaitech.com": {
-  "fails": 10
+  "fails": 11
  },
  "kentik.com": {
   "checked": "2026-11-14",
@@ -3100,7 +3100,7 @@
   "fails": 0
  },
  "klic.studio": {
-  "fails": 10
+  "fails": 11
  },
  "kodezi.com": {
   "checked": "2026-11-14",
@@ -3131,14 +3131,14 @@
   "fails": 0
  },
  "koyal.ai": {
-  "fails": 10
+  "fails": 11
  },
  "kravemart.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "kredi.mx": {
-  "fails": 10
+  "fails": 11
  },
  "kubeshop.io": {
   "checked": "2026-11-14",
@@ -3189,10 +3189,10 @@
   "fails": 0
  },
  "latted.com": {
-  "fails": 10
+  "fails": 11
  },
  "laylo.com": {
-  "fails": 10
+  "fails": 11
  },
  "leadbay.ai": {
   "checked": "2026-11-14",
@@ -3239,7 +3239,7 @@
   "fails": 0
  },
  "lfcarry.com": {
-  "fails": 10
+  "fails": 11
  },
  "lifeat.com": {
   "checked": "2026-11-14",
@@ -3278,7 +3278,7 @@
   "fails": 0
  },
  "lighttwist.com": {
-  "fails": 10
+  "fails": 11
  },
  "ligo.bio": {
   "checked": "2026-11-14",
@@ -3337,20 +3337,20 @@
   "fails": 0
  },
  "lizza.link": {
-  "fails": 10
+  "fails": 11
  },
  "logica.cloud": {
-  "fails": 10
+  "fails": 11
  },
  "logical.io": {
-  "fails": 10
+  "fails": 11
  },
  "logisticsos.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "logseq.com": {
-  "fails": 10
+  "fails": 11
  },
  "loopfour.com": {
   "checked": "2026-11-14",
@@ -3373,7 +3373,7 @@
   "fails": 0
  },
  "lucenthq.com": {
-  "fails": 10
+  "fails": 11
  },
  "lucidic.ai": {
   "checked": "2026-11-14",
@@ -3404,14 +3404,14 @@
   "fails": 0
  },
  "lynks.com": {
-  "fails": 10
+  "fails": 11
  },
  "machine26.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "madebythomas.ai": {
-  "fails": 10
+  "fails": 11
  },
  "madethis.com": {
   "checked": "2026-11-14",
@@ -3430,7 +3430,7 @@
   "fails": 0
  },
  "magnaplay.com": {
-  "fails": 10
+  "fails": 11
  },
  "magnetictax.com": {
   "checked": "2026-11-14",
@@ -3457,14 +3457,14 @@
   "fails": 0
  },
  "mangomedical.io": {
-  "fails": 10
+  "fails": 11
  },
  "mantisbiotech.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "mantys.io": {
-  "fails": 10
+  "fails": 11
  },
  "marimo.io": {
   "checked": "2026-11-14",
@@ -3483,14 +3483,14 @@
   "fails": 0
  },
  "martini.film": {
-  "fails": 10
+  "fails": 11
  },
  "massivepixel.io": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "materee.id": {
-  "fails": 10
+  "fails": 11
  },
  "materialdepot.in": {
   "checked": "2026-11-14",
@@ -3509,7 +3509,7 @@
   "fails": 0
  },
  "mayvue.com": {
-  "fails": 10
+  "fails": 11
  },
  "mbodi.ai": {
   "checked": "2026-11-14",
@@ -3528,7 +3528,7 @@
   "fails": 0
  },
  "medpiper.com": {
-  "fails": 10
+  "fails": 11
  },
  "medplum.com": {
   "checked": "2026-11-14",
@@ -3547,7 +3547,7 @@
   "fails": 0
  },
  "meitre.com": {
-  "fails": 10
+  "fails": 11
  },
  "memberful.com": {
   "checked": "2026-11-14",
@@ -3562,7 +3562,7 @@
   "fails": 0
  },
  "mendelia.com": {
-  "fails": 10
+  "fails": 11
  },
  "mentalhappy.com": {
   "checked": "2026-11-14",
@@ -3625,24 +3625,24 @@
   "fails": 0
  },
  "mintplexlabs.com": {
-  "fails": 10
+  "fails": 11
  },
  "mirantis.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "mirurobotics.com": {
-  "fails": 10
+  "fails": 11
  },
  "miso.kr": {
-  "fails": 10
+  "fails": 11
  },
  "miyagilabs.ai": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "mobileboost.io": {
-  "fails": 10
+  "fails": 11
  },
  "mobiusmaterials.com": {
   "checked": "2026-11-14",
@@ -3701,7 +3701,7 @@
   "fails": 0
  },
  "multica.ai": {
-  "fails": 10
+  "fails": 11
  },
  "multifactor.com": {
   "checked": "2026-11-14",
@@ -3712,7 +3712,7 @@
   "fails": 0
  },
  "musicarena.io": {
-  "fails": 10
+  "fails": 11
  },
  "muzz.com": {
   "checked": "2026-11-14",
@@ -3727,10 +3727,10 @@
   "fails": 0
  },
  "myeazipay.com": {
-  "fails": 10
+  "fails": 11
  },
  "myunowallet.com": {
-  "fails": 10
+  "fails": 11
  },
  "myvendy.com": {
   "checked": "2026-11-14",
@@ -3765,7 +3765,7 @@
   "fails": 0
  },
  "nestjs.com": {
-  "fails": 10
+  "fails": 11
  },
  "nestorup.com": {
   "checked": "2026-11-14",
@@ -3784,10 +3784,10 @@
   "fails": 0
  },
  "neuromorphic.vision": {
-  "fails": 10
+  "fails": 11
  },
  "nevamind.ai": {
-  "fails": 10
+  "fails": 11
  },
  "newsblur.com": {
   "checked": "2026-11-14",
@@ -3806,7 +3806,7 @@
   "fails": 0
  },
  "nexu.mx": {
-  "fails": 10
+  "fails": 11
  },
  "ngt.academy": {
   "checked": "2026-11-14",
@@ -3837,7 +3837,7 @@
   "fails": 0
  },
  "noso.so": {
-  "fails": 10
+  "fails": 11
  },
  "novu.co": {
   "checked": "2026-11-14",
@@ -3856,14 +3856,14 @@
   "fails": 0
  },
  "ntfy.sh": {
-  "fails": 10
+  "fails": 11
  },
  "nuagebiz.tech": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "numen.com": {
-  "fails": 10
+  "fails": 11
  },
  "numero.ai": {
   "checked": "2026-11-14",
@@ -3891,7 +3891,7 @@
  },
  "nuvocargo.com": {
   "checked": "2026-11-12",
-  "fails": 3
+  "fails": 4
  },
  "nuvola.tech": {
   "checked": "2026-11-14",
@@ -3922,7 +3922,7 @@
   "fails": 0
  },
  "odastudio.ai": {
-  "fails": 10
+  "fails": 11
  },
  "odoo.com": {
   "checked": "2026-11-14",
@@ -3937,7 +3937,7 @@
   "fails": 0
  },
  "oliolabs.co": {
-  "fails": 10
+  "fails": 11
  },
  "ollieorder.com": {
   "checked": "2026-11-14",
@@ -3976,7 +3976,7 @@
   "fails": 0
  },
  "onefin.in": {
-  "fails": 10
+  "fails": 11
  },
  "onehash.ai": {
   "checked": "2026-11-14",
@@ -4027,17 +4027,17 @@
   "fails": 0
  },
  "openebs.io": {
-  "fails": 10
+  "fails": 11
  },
  "openfoundry.ai": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "openintake.ai": {
-  "fails": 10
+  "fails": 11
  },
  "openlakehq.com": {
-  "fails": 10
+  "fails": 11
  },
  "openlayer.com": {
   "checked": "2026-11-14",
@@ -4052,14 +4052,14 @@
   "fails": 0
  },
  "openpipe.ai": {
-  "fails": 10
+  "fails": 11
  },
  "openrelay.inc": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "opensaas.sh": {
-  "fails": 10
+  "fails": 11
  },
  "opensrcsec.com": {
   "checked": "2026-11-14",
@@ -4074,14 +4074,14 @@
   "fails": 0
  },
  "openviking.ai": {
-  "fails": 10
+  "fails": 11
  },
  "openwhispr.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "operatechnologies.com": {
-  "fails": 10
+  "fails": 11
  },
  "operonsolutions.com": {
   "checked": "2026-11-14",
@@ -4096,14 +4096,14 @@
   "fails": 0
  },
  "orbio.earth": {
-  "fails": 10
+  "fails": 11
  },
  "orchid.ai": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "orchid.health": {
-  "fails": 10
+  "fails": 11
  },
  "ordermentum.com": {
   "checked": "2026-11-14",
@@ -4118,10 +4118,10 @@
   "fails": 0
  },
  "ornadyne.com": {
-  "fails": 10
+  "fails": 11
  },
  "osism.tech": {
-  "fails": 10
+  "fails": 11
  },
  "osium.ai": {
   "checked": "2026-11-14",
@@ -4148,7 +4148,7 @@
   "fails": 0
  },
  "outtalent.com": {
-  "fails": 10
+  "fails": 11
  },
  "overshoot.ai": {
   "checked": "2026-11-14",
@@ -4180,7 +4180,7 @@
  },
  "palettelabs.com": {
   "checked": "2026-11-13",
-  "fails": 1
+  "fails": 2
  },
  "palitronica.com": {
   "checked": "2026-11-14",
@@ -4199,7 +4199,7 @@
   "fails": 0
  },
  "pangea.app": {
-  "fails": 10
+  "fails": 11
  },
  "pango.ai": {
   "checked": "2026-11-14",
@@ -4234,10 +4234,10 @@
   "fails": 0
  },
  "parrotapp.com": {
-  "fails": 10
+  "fails": 11
  },
  "parsagon.io": {
-  "fails": 10
+  "fails": 11
  },
  "parse.bot": {
   "checked": "2026-11-14",
@@ -4264,14 +4264,14 @@
   "fails": 0
  },
  "pave-robotics.com": {
-  "fails": 10
+  "fails": 11
  },
  "paveai.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "paylocity.com": {
-  "fails": 10
+  "fails": 11
  },
  "paywithlocus.com": {
   "checked": "2026-11-14",
@@ -4326,7 +4326,7 @@
   "fails": 0
  },
  "petrarch.co": {
-  "fails": 10
+  "fails": 11
  },
  "pex.com": {
   "checked": "2026-11-14",
@@ -4341,7 +4341,7 @@
   "fails": 0
  },
  "philon.ai": {
-  "fails": 10
+  "fails": 11
  },
  "photoprism.app": {
   "checked": "2026-11-14",
@@ -4352,20 +4352,20 @@
   "fails": 0
  },
  "pickle.com": {
-  "fails": 10
+  "fails": 11
  },
  "picknik.ai": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "pidedirecto.mx": {
-  "fails": 10
+  "fails": 11
  },
  "pigeondocuments.com": {
-  "fails": 10
+  "fails": 11
  },
  "pillar.io": {
-  "fails": 10
+  "fails": 11
  },
  "pineparkhealth.com": {
   "checked": "2026-11-14",
@@ -4380,13 +4380,13 @@
   "fails": 0
  },
  "pipekit.io": {
-  "fails": 10
+  "fails": 11
  },
  "pirislabs.io": {
-  "fails": 10
+  "fails": 11
  },
  "pirsch.io": {
-  "fails": 10
+  "fails": 11
  },
  "plakar.io": {
   "checked": "2026-11-14",
@@ -4405,10 +4405,10 @@
   "fails": 0
  },
  "playdreamworld.com": {
-  "fails": 10
+  "fails": 11
  },
  "plena.health": {
-  "fails": 10
+  "fails": 11
  },
  "plex.tv": {
   "checked": "2026-11-14",
@@ -4471,14 +4471,14 @@
   "fails": 0
  },
  "powerrouter.io": {
-  "fails": 10
+  "fails": 11
  },
  "pragma.co": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "pragmaticleaders.io": {
-  "fails": 10
+  "fails": 11
  },
  "precip.ai": {
   "checked": "2026-11-14",
@@ -4493,10 +4493,10 @@
   "fails": 0
  },
  "predictmobile.com": {
-  "fails": 10
+  "fails": 11
  },
  "prembly.com": {
-  "fails": 10
+  "fails": 11
  },
  "prenda.com": {
   "checked": "2026-11-14",
@@ -4535,7 +4535,7 @@
   "fails": 0
  },
  "prized.dev": {
-  "fails": 10
+  "fails": 11
  },
  "probo.com": {
   "checked": "2026-11-14",
@@ -4562,7 +4562,7 @@
   "fails": 0
  },
  "prooftrading.com": {
-  "fails": 10
+  "fails": 11
  },
  "propexo.com": {
   "checked": "2026-11-14",
@@ -4581,7 +4581,7 @@
   "fails": 0
  },
  "provenskincare.com": {
-  "fails": 10
+  "fails": 11
  },
  "provision.com": {
   "checked": "2026-11-14",
@@ -4612,7 +4612,7 @@
   "fails": 0
  },
  "puter.com": {
-  "fails": 10
+  "fails": 11
  },
  "pyannote.ai": {
   "checked": "2026-11-14",
@@ -4623,10 +4623,10 @@
   "fails": 0
  },
  "pyrls.com": {
-  "fails": 10
+  "fails": 11
  },
  "qfex.com": {
-  "fails": 10
+  "fails": 11
  },
  "qovery.com": {
   "checked": "2026-11-14",
@@ -4637,10 +4637,10 @@
   "fails": 0
  },
  "quadrant.health": {
-  "fails": 10
+  "fails": 11
  },
  "quant-ux.com": {
-  "fails": 10
+  "fails": 11
  },
  "quickchat.ai": {
   "checked": "2026-11-14",
@@ -4655,10 +4655,10 @@
   "fails": 0
  },
  "quikpago.com": {
-  "fails": 10
+  "fails": 11
  },
  "quill.co": {
-  "fails": 10
+  "fails": 11
  },
  "quillbills.com": {
   "checked": "2026-11-14",
@@ -4677,21 +4677,21 @@
   "fails": 0
  },
  "raga.ai": {
-  "fails": 10
+  "fails": 11
  },
  "ragas.io": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "rainbow.me": {
-  "fails": 10
+  "fails": 11
  },
  "ralo.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "randomlabs.ai": {
-  "fails": 10
+  "fails": 11
  },
  "ranenetwork.com": {
   "checked": "2026-11-14",
@@ -4722,7 +4722,7 @@
   "fails": 0
  },
  "rct.ai": {
-  "fails": 10
+  "fails": 11
  },
  "reactiveops.com": {
   "checked": "2026-11-14",
@@ -4741,7 +4741,7 @@
   "fails": 0
  },
  "reasonblocks.com": {
-  "fails": 10
+  "fails": 11
  },
  "rebill.com": {
   "checked": "2026-11-14",
@@ -4756,10 +4756,10 @@
   "fails": 0
  },
  "recurrency.com": {
-  "fails": 10
+  "fails": 11
  },
  "recurse.com": {
-  "fails": 10
+  "fails": 11
  },
  "red-gate.com": {
   "checked": "2026-11-14",
@@ -4770,7 +4770,7 @@
   "fails": 0
  },
  "redbrickai.com": {
-  "fails": 10
+  "fails": 11
  },
  "reditus.space": {
   "checked": "2026-11-14",
@@ -4789,7 +4789,7 @@
   "fails": 0
  },
  "reducer.co.uk": {
-  "fails": 10
+  "fails": 11
  },
  "refresh.dev": {
   "checked": "2026-11-14",
@@ -4804,7 +4804,7 @@
   "fails": 0
  },
  "rejoyhealth.com": {
-  "fails": 10
+  "fails": 11
  },
  "rekursiv.ai": {
   "checked": "2026-11-14",
@@ -4819,11 +4819,11 @@
   "fails": 0
  },
  "relvy.ai": {
-  "fails": 10
+  "fails": 11
  },
  "remedial.health": {
   "checked": "2026-11-14",
-  "fails": 0
+  "fails": 1
  },
  "remotemore.com": {
   "checked": "2026-11-14",
@@ -4882,14 +4882,14 @@
   "fails": 0
  },
  "revoy.com": {
-  "fails": 10
+  "fails": 11
  },
  "revyl.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "rgilabs.com": {
-  "fails": 10
+  "fails": 11
  },
  "rhodecode.com": {
   "checked": "2026-11-14",
@@ -4908,7 +4908,7 @@
   "fails": 0
  },
  "rio.dev": {
-  "fails": 10
+  "fails": 11
  },
  "rippling.com": {
   "checked": "2026-11-14",
@@ -4919,7 +4919,7 @@
   "fails": 0
  },
  "riverbank.sh": {
-  "fails": 10
+  "fails": 11
  },
  "rivermarkets.com": {
   "checked": "2026-11-14",
@@ -4946,30 +4946,30 @@
   "fails": 0
  },
  "rocketable.com": {
-  "fails": 10
+  "fails": 11
  },
  "roomstorm.com": {
-  "fails": 10
+  "fails": 11
  },
  "roserocket.com": {
-  "fails": 10
+  "fails": 11
  },
  "roundabout.tech": {
-  "fails": 10
+  "fails": 11
  },
  "routant.ai": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "rowboatlabs.com": {
-  "fails": 10
+  "fails": 11
  },
  "rowflow.ai": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "rownd.ai": {
-  "fails": 10
+  "fails": 11
  },
  "rtcamp.com": {
   "checked": "2026-11-14",
@@ -4980,7 +4980,7 @@
   "fails": 0
  },
  "runlocal.ai": {
-  "fails": 10
+  "fails": 11
  },
  "runparagon.com": {
   "checked": "2026-11-14",
@@ -5015,17 +5015,17 @@
   "fails": 0
  },
  "safetywing.com": {
-  "fails": 10
+  "fails": 11
  },
  "sagaland.ai": {
-  "fails": 10
+  "fails": 11
  },
  "sakneen.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "salarybook.co.in": {
-  "fails": 10
+  "fails": 11
  },
  "saleor.io": {
   "checked": "2026-11-14",
@@ -5044,10 +5044,10 @@
   "fails": 0
  },
  "sandra-ai.com": {
-  "fails": 10
+  "fails": 11
  },
  "sanifu.ai": {
-  "fails": 10
+  "fails": 11
  },
  "santehq.com": {
   "checked": "2026-11-14",
@@ -5062,7 +5062,7 @@
   "fails": 0
  },
  "saudara.ai": {
-  "fails": 10
+  "fails": 11
  },
  "sayr.io": {
   "checked": "2026-11-14",
@@ -5077,7 +5077,7 @@
   "fails": 0
  },
  "schemeflow.com": {
-  "fails": 10
+  "fails": 11
  },
  "sciloop.dev": {
   "checked": "2026-11-14",
@@ -5096,10 +5096,10 @@
   "fails": 0
  },
  "screenshottocode.com": {
-  "fails": 10
+  "fails": 11
  },
  "scrimba.com": {
-  "fails": 10
+  "fails": 11
  },
  "scylladb.com": {
   "checked": "2026-11-14",
@@ -5126,7 +5126,7 @@
   "fails": 0
  },
  "selfin.app": {
-  "fails": 10
+  "fails": 11
  },
  "sellraze.com": {
   "checked": "2026-11-14",
@@ -5137,28 +5137,28 @@
   "fails": 0
  },
  "sennu.ai": {
-  "fails": 10
+  "fails": 11
  },
  "sensible.bio": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "senso.ai": {
-  "fails": 10
+  "fails": 11
  },
  "seoinc.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "sequinai.com": {
-  "fails": 10
+  "fails": 11
  },
  "serenedb.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "sero.so": {
-  "fails": 10
+  "fails": 11
  },
  "serpapi.com": {
   "checked": "2026-11-14",
@@ -5166,7 +5166,7 @@
  },
  "serra.io": {
   "checked": "2026-11-11",
-  "fails": 5
+  "fails": 6
  },
  "serveaiglobal.com": {
   "checked": "2026-11-14",
@@ -5182,7 +5182,7 @@
  },
  "shardeum.org": {
   "checked": "2026-11-13",
-  "fails": 2
+  "fails": 3
  },
  "sharetribe.com": {
   "checked": "2026-11-14",
@@ -5193,7 +5193,7 @@
   "fails": 0
  },
  "sharpe.sh": {
-  "fails": 10
+  "fails": 11
  },
  "sheetjs.com": {
   "checked": "2026-11-14",
@@ -5248,7 +5248,7 @@
   "fails": 0
  },
  "siphoxhealth.com": {
-  "fails": 10
+  "fails": 11
  },
  "sitefire.ai": {
   "checked": "2026-11-14",
@@ -5256,7 +5256,7 @@
  },
  "sketch.com": {
   "checked": "2026-11-14",
-  "fails": 0
+  "fails": 1
  },
  "skill-lync.com": {
   "checked": "2026-11-14",
@@ -5271,7 +5271,7 @@
   "fails": 0
  },
  "slashy.com": {
-  "fails": 10
+  "fails": 11
  },
  "slint.dev": {
   "checked": "2026-11-14",
@@ -5314,7 +5314,7 @@
   "fails": 0
  },
  "sonatoria.com": {
-  "fails": 10
+  "fails": 11
  },
  "soniahealth.com": {
   "checked": "2026-11-14",
@@ -5325,7 +5325,7 @@
   "fails": 0
  },
  "soriaanalytics.com": {
-  "fails": 10
+  "fails": 11
  },
  "soshace.com": {
   "checked": "2026-11-14",
@@ -5348,7 +5348,7 @@
   "fails": 0
  },
  "spennyapp.com": {
-  "fails": 10
+  "fails": 11
  },
  "spice.ai": {
   "checked": "2026-11-14",
@@ -5391,10 +5391,10 @@
   "fails": 0
  },
  "stafbook.com": {
-  "fails": 10
+  "fails": 11
  },
  "stakpak.dev": {
-  "fails": 10
+  "fails": 11
  },
  "standardmachines.com": {
   "checked": "2026-11-14",
@@ -5421,7 +5421,7 @@
   "fails": 0
  },
  "stayflexi.com": {
-  "fails": 10
+  "fails": 11
  },
  "stellarsleep.com": {
   "checked": "2026-11-14",
@@ -5440,14 +5440,14 @@
   "fails": 0
  },
  "stockunlock.com": {
-  "fails": 10
+  "fails": 11
  },
  "stokespace.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "stormy.ai": {
-  "fails": 10
+  "fails": 11
  },
  "strac.io": {
   "checked": "2026-11-14",
@@ -5474,7 +5474,7 @@
   "fails": 0
  },
  "strongcompute.com": {
-  "fails": 10
+  "fails": 11
  },
  "struct.ai": {
   "checked": "2026-11-14",
@@ -5482,10 +5482,10 @@
  },
  "studysoup.com": {
   "checked": "2026-11-12",
-  "fails": 4
+  "fails": 5
  },
  "studystream.live": {
-  "fails": 10
+  "fails": 11
  },
  "suitecrm.com": {
   "checked": "2026-11-14",
@@ -5500,7 +5500,7 @@
   "fails": 0
  },
  "sunlightapi.com": {
-  "fails": 10
+  "fails": 11
  },
  "superagent.sh": {
   "checked": "2026-11-14",
@@ -5515,14 +5515,14 @@
   "fails": 0
  },
  "superdesign.dev": {
-  "fails": 10
+  "fails": 11
  },
  "superglue.ai": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "superlog.sh": {
-  "fails": 10
+  "fails": 11
  },
  "supermemory.ai": {
   "checked": "2026-11-14",
@@ -5537,7 +5537,7 @@
   "fails": 0
  },
  "sureformhq.com": {
-  "fails": 10
+  "fails": 11
  },
  "surevine.com": {
   "checked": "2026-11-14",
@@ -5560,7 +5560,7 @@
   "fails": 0
  },
  "swiggy.com": {
-  "fails": 10
+  "fails": 11
  },
  "syde.com": {
   "checked": "2026-11-14",
@@ -5579,7 +5579,7 @@
   "fails": 0
  },
  "synaraops.com": {
-  "fails": 10
+  "fails": 11
  },
  "sync.so": {
   "checked": "2026-11-14",
@@ -5594,7 +5594,7 @@
   "fails": 0
  },
  "synnada.ai": {
-  "fails": 10
+  "fails": 11
  },
  "synphony.co": {
   "checked": "2026-11-14",
@@ -5625,14 +5625,14 @@
   "fails": 0
  },
  "tagmango.com": {
-  "fails": 10
+  "fails": 11
  },
  "taigabilling.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "talc.ai": {
-  "fails": 10
+  "fails": 11
  },
  "talentpluto.com": {
   "checked": "2026-11-14",
@@ -5643,14 +5643,14 @@
   "fails": 0
  },
  "tappityapp.com": {
-  "fails": 10
+  "fails": 11
  },
  "taskade.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "tasker.ai": {
-  "fails": 10
+  "fails": 11
  },
  "tasklet.ai": {
   "checked": "2026-11-14",
@@ -5705,17 +5705,17 @@
   "fails": 0
  },
  "terapify.com": {
-  "fails": 10
+  "fails": 11
  },
  "termii.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "terrakotta.ai": {
-  "fails": 10
+  "fails": 11
  },
  "terranox.ai": {
-  "fails": 10
+  "fails": 11
  },
  "terrateam.io": {
   "checked": "2026-11-14",
@@ -5726,7 +5726,7 @@
   "fails": 0
  },
  "tether.to": {
-  "fails": 10
+  "fails": 11
  },
  "thealttex.com": {
   "checked": "2026-11-14",
@@ -5753,7 +5753,7 @@
   "fails": 0
  },
  "theliva.ai": {
-  "fails": 10
+  "fails": 11
  },
  "themobilereality.com": {
   "checked": "2026-11-14",
@@ -5772,7 +5772,7 @@
   "fails": 0
  },
  "thethirdplace.is": {
-  "fails": 10
+  "fails": 11
  },
  "thirdlayer.inc": {
   "checked": "2026-11-14",
@@ -5787,7 +5787,7 @@
   "fails": 0
  },
  "ticketwallet.com": {
-  "fails": 10
+  "fails": 11
  },
  "tiendacrypto.com": {
   "checked": "2026-11-14",
@@ -5818,7 +5818,7 @@
   "fails": 0
  },
  "toasttab.com": {
-  "fails": 10
+  "fails": 11
  },
  "tolemi.com": {
   "checked": "2026-11-14",
@@ -5833,17 +5833,17 @@
   "fails": 0
  },
  "toothy.ai": {
-  "fails": 10
+  "fails": 11
  },
  "topkey.io": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "topship.africa": {
-  "fails": 10
+  "fails": 11
  },
  "tornyol.com": {
-  "fails": 10
+  "fails": 11
  },
  "touchandpay.me": {
   "checked": "2026-11-14",
@@ -5862,7 +5862,7 @@
   "fails": 0
  },
  "tradexapp.co": {
-  "fails": 10
+  "fails": 11
  },
  "traefik.io": {
   "checked": "2026-11-14",
@@ -5873,7 +5873,7 @@
   "fails": 0
  },
  "transastra.com": {
-  "fails": 10
+  "fails": 11
  },
  "transfeera.com": {
   "checked": "2026-11-14",
@@ -5884,7 +5884,7 @@
   "fails": 0
  },
  "trapezehealth.com": {
-  "fails": 10
+  "fails": 11
  },
  "treez.io": {
   "checked": "2026-11-14",
@@ -5899,10 +5899,10 @@
   "fails": 0
  },
  "triply.co": {
-  "fails": 10
+  "fails": 11
  },
  "true3d.com": {
-  "fails": 10
+  "fails": 11
  },
  "truemetrics.io": {
   "checked": "2026-11-14",
@@ -5913,7 +5913,7 @@
   "fails": 0
  },
  "tryalchemize.com": {
-  "fails": 10
+  "fails": 11
  },
  "trychert.com": {
   "checked": "2026-11-14",
@@ -5924,17 +5924,17 @@
   "fails": 0
  },
  "trydock.ai": {
-  "fails": 10
+  "fails": 11
  },
  "tryhelium.com": {
-  "fails": 10
+  "fails": 11
  },
  "trykarat.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "trykura.com": {
-  "fails": 10
+  "fails": 11
  },
  "trymaximal.com": {
   "checked": "2026-11-14",
@@ -5945,10 +5945,10 @@
   "fails": 0
  },
  "trynearby.com": {
-  "fails": 10
+  "fails": 11
  },
  "tryoctapulse.com": {
-  "fails": 10
+  "fails": 11
  },
  "tryopentag.com": {
   "checked": "2026-11-14",
@@ -5959,21 +5959,21 @@
   "fails": 0
  },
  "tryrote.com": {
-  "fails": 10
+  "fails": 11
  },
  "trystratify.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "trysummon.com": {
-  "fails": 10
+  "fails": 11
  },
  "tryterra.co": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "tryterracotta.com": {
-  "fails": 10
+  "fails": 11
  },
  "trytruewind.com": {
   "checked": "2026-11-14",
@@ -6060,7 +6060,7 @@
   "fails": 0
  },
  "unum.cloud": {
-  "fails": 10
+  "fails": 11
  },
  "upcall.com": {
   "checked": "2026-11-14",
@@ -6119,7 +6119,7 @@
   "fails": 0
  },
  "usefr.com": {
-  "fails": 10
+  "fails": 11
  },
  "useocular.com": {
   "checked": "2026-11-14",
@@ -6142,7 +6142,7 @@
   "fails": 0
  },
  "usereframe.ai": {
-  "fails": 10
+  "fails": 11
  },
  "useterse.ai": {
   "checked": "2026-11-14",
@@ -6169,14 +6169,14 @@
   "fails": 0
  },
  "varos.com": {
-  "fails": 10
+  "fails": 11
  },
  "vates.tech": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "vaultpay.io": {
-  "fails": 10
+  "fails": 11
  },
  "vectorlegal.com": {
   "checked": "2026-11-14",
@@ -6211,14 +6211,14 @@
   "fails": 0
  },
  "vendra.io": {
-  "fails": 10
+  "fails": 11
  },
  "vendure.io": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "venue.ink": {
-  "fails": 10
+  "fails": 11
  },
  "verdictmachine.com": {
   "checked": "2026-11-14",
@@ -6249,14 +6249,14 @@
   "fails": 0
  },
  "vespin.dev": {
-  "fails": 10
+  "fails": 11
  },
  "vetnio.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "vetrec.io": {
-  "fails": 10
+  "fails": 11
  },
  "vibeflow.ai": {
   "checked": "2026-11-14",
@@ -6271,10 +6271,10 @@
   "fails": 0
  },
  "vidyard.com": {
-  "fails": 10
+  "fails": 11
  },
  "villagelabs.app": {
-  "fails": 10
+  "fails": 11
  },
  "vincoed.com": {
   "checked": "2026-11-14",
@@ -6293,7 +6293,7 @@
   "fails": 0
  },
  "vmware.com": {
-  "fails": 10
+  "fails": 11
  },
  "vocode.dev": {
   "checked": "2026-11-14",
@@ -6304,7 +6304,7 @@
   "fails": 0
  },
  "vorflux.ai": {
-  "fails": 10
+  "fails": 11
  },
  "vshn.ch": {
   "checked": "2026-11-14",
@@ -6359,7 +6359,7 @@
   "fails": 0
  },
  "watsi.org": {
-  "fails": 10
+  "fails": 11
  },
  "wave.com": {
   "checked": "2026-11-14",
@@ -6382,7 +6382,7 @@
   "fails": 0
  },
  "wealor.ai": {
-  "fails": 10
+  "fails": 11
  },
  "webdevstudios.com": {
   "checked": "2026-11-14",
@@ -6425,7 +6425,7 @@
   "fails": 0
  },
  "wherobots.com": {
-  "fails": 10
+  "fails": 11
  },
  "whitecapseo.com": {
   "checked": "2026-11-14",
@@ -6464,7 +6464,7 @@
   "fails": 0
  },
  "windwalk.com": {
-  "fails": 10
+  "fails": 11
  },
  "wingmanlaw.com": {
   "checked": "2026-11-14",
@@ -6511,14 +6511,14 @@
   "fails": 0
  },
  "wordware.ai": {
-  "fails": 10
+  "fails": 11
  },
  "workflow86.com": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "wren.co": {
-  "fails": 10
+  "fails": 11
  },
  "wyeworks.com": {
   "checked": "2026-11-14",
@@ -6545,10 +6545,10 @@
   "fails": 0
  },
  "xulux.ai": {
-  "fails": 10
+  "fails": 11
  },
  "y0n3da.xyz": {
-  "fails": 10
+  "fails": 11
  },
  "yahooinc.com": {
   "checked": "2026-11-14",
@@ -6603,7 +6603,7 @@
   "fails": 0
  },
  "zaymo.com": {
-  "fails": 10
+  "fails": 11
  },
  "zeit.io": {
   "checked": "2026-11-14",
@@ -6626,7 +6626,7 @@
   "fails": 0
  },
  "zenysis.com": {
-  "fails": 10
+  "fails": 11
  },
  "zeonsystems.ai": {
   "checked": "2026-11-14",
@@ -6641,10 +6641,10 @@
   "fails": 0
  },
  "zeptonow.com": {
-  "fails": 10
+  "fails": 11
  },
  "zeroheight.com": {
-  "fails": 10
+  "fails": 11
  },
  "zeropath.com": {
   "checked": "2026-11-14",
@@ -6663,17 +6663,17 @@
   "fails": 0
  },
  "zignaly.io": {
-  "fails": 10
+  "fails": 11
  },
  "zolar.de": {
   "checked": "2026-11-14",
   "fails": 0
  },
  "zolvo.com": {
-  "fails": 10
+  "fails": 11
  },
  "zootools.co": {
-  "fails": 10
+  "fails": 11
  },
  "zscc.ai": {
   "checked": "2026-11-14",

@@ -19,16 +19,16 @@ As part of our Y Combinator-backed startup, you’ll work alongside a passionate
 Didn't find a role you are looking for?
 Don’t worry, share your resume with us at [email protected] . We’ll consider it whenever we hire for a suitable role.
 Smarter Decisions Start Here
+November 13, 2026
+Case Study: Your battery is earning revenue. What is it spending to get there?
+Predictive Analytics , BESS , Data , AI
 November 3, 2026
 Reliable state-of-charge estimation for utility-scale BESS
-Technical Paper , BESS
+BESS , Technical Paper
 October 19, 2026
 Case Study: What vegetation and shading reveal about solar plant performance
-Faults , Data , AI , Predictive Analytics
+AI , Predictive Analytics , Faults , Data
 October 14, 2026
 SmartHelio at RE+ 2026: Meet us in Las Vegas
 News
-October 13, 2026
-Italy’s Solar Curtailment: Challenges and the Role of BESS
-Article , BESS , AI
 Explore Resources & Expert Insights

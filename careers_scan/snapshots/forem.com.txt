@@ -14,74 +14,77 @@ Nov 12
 # ai
 # career
 # womenintech
-27 reactions
-24 comments
+30 reactions
+28 comments
 4 min read
-Is WordPress Still a Good Choice for a New Client Site in 2026? Be Honest.
-Hannan Shoukat
+I kept forgetting what I actually told companies… so I built this
+Saikat Chakrabortty
 Nov 14
-# wordpress
-# webdev
-Add Comment
-2 min read
-Auto-applying to jobs: the hard part wasn't CAPTCHAs, it was select fields
-Rodrigo Araujo
-# typescript
-# automation
-3 min read
-Python Day 7 – The / and * in Function Definitions
-sridhar n
-# python
-# function
-# arguments
-Promotions at One Employer: How ATS Parses Stacked Roles
-Muhammad Ali Mughal
-# resume
-# jobs
 # productivity
-8 min read
-Why You Blank on Easy Commands During an Outage (Your Brain Has a Stress Switch)
-Spartan Rich
-Nov 13
-# learning
-# devops
-6 min read
-The Diff I Will Stop Reading
-Remus Lazar
-# codereview
-9 min read
-My Second Dance with Hacktoberfest (2026)
-Hotragn Pettugani
-# hacktoberfest
-# opensource
-5 min read
-New Hampshire's Mini-WARN Act — 60 Days' Notice, a Lower Layoff Trigger, and a Law With No Public Filings
-Layoff Atlas
-# news
-# data
-# hiring
-You’re Not an “Investor” — You’re an “Exit Door”
-HybridGlitch
-# web3
-1 comment
-VCA Files a WARN Notice 66 Days After the Layoffs Took Effect
-# california
-As AI Begins Optimizing Programming Languages Themselves, Do We Still Need to Know How to Code?
-adversarial-rl
-# coding
-# security
-The client-facing incident summary I'd send after an outage, and the house rules the second one has to keep
-Maildoer Team
 # showdev
-# writing
-Learning DSA in Public, Week 2: Running Totals, Train Engines and Two Pointers
-Victor Ogbonna
+3 reactions
+5 comments
+2 min read
+Find the Salesforce fields, flows and validation rules only your senior can explain
+Juan Manuel Garrido
+# salesforce
+# python
+# documentation
+Add Comment
+3 min read
+What Worked and What Didn't Building a Design Engineering Function
+James Coombs
+# leadership
+# webdev
+5 min read
+A green graph is not a résumé — so we built a GitHub contribution filler you can undo
+RetroFill
+# github
 # beginners
-# algorithms
-Saw a notice at work about an H-1B filing? What it is, and what it is not
-TalentOp Systems LLC
-# h1b
+How to Land Your First Freelance Client as a Student (With No Experience)
+Prayush Adhikari
+# freelance
+7 min read
+Seu app feito no Lovable parou em 80%? O problema não é falta de função, é o que ninguém verificou
+Youngjun Yoon
+# braziliandevs
+"Same as last week, but…": a standing report spec for recurring analysis requests
+Maildoer Team
+# datascience
+I stopped winging interviews and started scoring answers like a rubric
+LXSAIHUB
+I Was the Only IT Person for 3 Years: The Documentation I Wish I'd Written
+Jonne Riepponen
+# sysadmin
+# knowledgemanagement
+1 reaction
+1 comment
+8 min read
+15 English phrases for your daily standup (and a few common slips)
+bắc hồ
+# remote
+# softwaredevelopment
+F-1 Student, Two Campus Jobs, Over 20 Hours by Mistake: What the Rules Say and What to Do Next
+ByteBridge Talent LLC
 # immigration
+# f1visa
+# students
+Writing Before Building: How I Think on Paper First
+Sami Ullah
+# writing
+# motivation
+# startup
+A free API for searching 6,000+ dated remote job leads
+WFH Alert
+# api
+# javascript
+Bus factor 1 is the default: per-language ownership in 195 popular repos
+Raghav Chamadiya
+for repowise
+# opensource
+# programming
+2 reactions
+6 min read
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Free AWS Certification for Students: The Complete Step-by-Step Guide
 How I Feel about the Grace Hopper Celebration Getting Cancelled

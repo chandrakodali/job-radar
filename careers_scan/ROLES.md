@@ -1,6 +1,6 @@
 # Cloud, DevOps, SRE, platform and infrastructure roles (no job board)
 
-Updated 2026-11-14 08:04 UTC. **98 open roles** at 75 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
+Updated 2026-11-14 18:55 UTC. **98 open roles** at 75 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
 
 **Apply:** the ✉ link opens an email to the company's hiring address with the subject filled in; attach your résumé. Scores and notes use the radar's rules (config.yaml): higher is a better early-career fit; "location unclear" means the page didn't say, so check it. 🆕 = first seen in the last 2 days.
 
@@ -45,7 +45,7 @@ Updated 2026-11-14 08:04 UTC. **98 open roles** at 75 companies that post jobs o
 | 45 | [Infrastructure Engineer](https://www.ehl.markets/careers.html) | Event Horizon Labs | ? | [✉ careers@ehl.markets](mailto:careers@ehl.markets?subject=Application%3A%20Infrastructure%20Engineer%20%E2%80%93%20Event%20Horizon%20Labs) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer](https://www.giveffect.com/careers) | Giveffect | ? | [✉ careers@giveffect.com](mailto:careers@giveffect.com?subject=Application%3A%20DevOps%20Engineer%20%E2%80%93%20Giveffect) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer](https://meduzzen.com/careers/) | Meduzzen | ? | [Careers page](https://meduzzen.com/careers/) | Nov 11 | location unclear |
-| 45 | [Platform / DevOps Engineer](https://muzz.com/us/en/careers/) 🆕 | Muzz | ? | [✉ careers@muzz.com](mailto:careers@muzz.com?subject=Application%3A%20Platform%20/%20DevOps%20Engineer%20%E2%80%93%20Muzz) | Nov 12 | location unclear |
+| 45 | [Platform / DevOps Engineer](https://muzz.com/us/en/careers/) | Muzz | ? | [✉ careers@muzz.com](mailto:careers@muzz.com?subject=Application%3A%20Platform%20/%20DevOps%20Engineer%20%E2%80%93%20Muzz) | Nov 12 | location unclear |
 | 45 | [Site Reliability Engineer](https://omniti.com/is/hiring/site-reliability-engineer.html) | OmniTI | ? | [✉ careers@omniti.com](mailto:careers@omniti.com?subject=Application%3A%20Site%20Reliability%20Engineer%20%E2%80%93%20OmniTI) | Nov 11 | location unclear |
 | 45 | [Platform Engineer](https://www.paradedb.com/careers/platform-engineer) | ParadeDB | ? | [✉ founders@paradedb.com](mailto:founders@paradedb.com?subject=Application%3A%20Platform%20Engineer%20%E2%80%93%20ParadeDB) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer](https://www.previousnext.com.au/about/careers) | PreviousNext | ? | [Careers page](https://www.previousnext.com.au/about/careers) | Nov 11 | location unclear |
@@ -65,8 +65,8 @@ Updated 2026-11-14 08:04 UTC. **98 open roles** at 75 companies that post jobs o
 | 42 | [DevOps Engineer](https://www.outsourcingdev.com/careers/) | OutsourcingDev | Remote | [Careers page](https://www.outsourcingdev.com/careers/) | Nov 11 | location unclear |
 | 42 | [Agent Infrastructure Engineer](https://pydantic.dev/jobs/agent-infrastructure-engineer) | Pydantic | Fully remote | [✉ careers@pydantic.dev](mailto:careers@pydantic.dev?subject=Application%3A%20Agent%20Infrastructure%20Engineer%20%E2%80%93%20Pydantic) | Nov 11 | location unclear |
 | 42 | [Cloud Full-Stack Developer](https://wazuh.com/job/full-stack-developer-cloud/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/full-stack-developer-cloud/) | Nov 11 | location unclear |
-| 42 | [Cloud Ops Engineer](https://wazuh.com/job/cloud-ops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-ops-engineer/) | Nov 11 | location unclear |
 | 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
+| 42 | [Cloud Ops Engineer](https://wazuh.com/job/cloud-ops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-ops-engineer/) | Nov 11 | location unclear |
 | 40 | [Senior DevOps Engineer](https://broadleafcommerce.com/senior-devops-engineer/) 🆕 | Broadleaf Commerce | ? | [✉ careers@broadleafcostg.wpenginepowered.…](mailto:careers@broadleafcostg.wpenginepowered.com?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20Broadleaf%20Commerce) | Nov 13 | 3+ yrs exp; senior title; location unclear |
 | 40 | [Senior Backend / ML Ops Engineer](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) 🆕 | Drafted | In person | [Careers page](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Nov 13 | senior title, years not stated |
 | 40 | [Network Systems Engineer](https://efference.ai/careers/wireless-networking-engineer/) | Efference | On-site | [✉ team@efference.ai](mailto:team@efference.ai?subject=Application%3A%20Network%20Systems%20Engineer%20%E2%80%93%20Efference) | Nov 11 |  |
