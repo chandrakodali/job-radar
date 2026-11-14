@@ -97,7 +97,20 @@ def _wp(text) -> str:
 
 
 def _ld_detail(job: Job) -> None:
-    _apply_ld(job, _page(job.detail_ref or job.url))
+    page = _page(job.detail_ref or job.url)
+    if not _apply_ld(job, page) or not job.description:
+        # no schema.org data on the page: take the page's own text (JazzHR, CATS, Zoho job pages)
+        job.description = _page_text(page)
+
+
+_DROP_BLOCKS = re.compile(r"<(script|style|noscript|svg|nav|header|footer|form|select)\b.*?</\1>", re.S | re.I)
+
+
+def _page_text(page: str, limit: int = 20000) -> str:
+    """The readable text of a job page, without scripts, menus, headers and footers."""
+    body = re.search(r"<main\b.*?</main>", page, re.S | re.I) or re.search(r"<body\b.*?</body>", page, re.S | re.I)
+    html = _DROP_BLOCKS.sub(" ", body.group(0) if body else page)
+    return html_to_text(html)[:limit]
 
 
 def _sitemap_urls(start: str, want=lambda u: True, max_children: int = 12) -> list[tuple[str, str]]:

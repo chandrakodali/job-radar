@@ -112,3 +112,13 @@ def test_board_finder_patterns():
     }
     for url, (ats, want) in cases.items():
         assert fns[ats](urlsplit(url)) == want, url
+
+
+def test_job_page_without_structured_data_uses_page_text(monkeypatch):
+    from radar.models import Job
+    page = ("<html><body><nav>Jobs Home</nav><main><h1>Java Developer</h1><h2>Requirements</h2>"
+            "<p>3+ years of Java and Spring Boot</p></main><footer>Privacy</footer></body></html>")
+    monkeypatch.setattr(M, "_page", lambda url, **k: page)
+    j = Job(ats="jazzhr", board="acme", job_id="1", company="Acme", title="Java Developer", location="", url="u")
+    M._ld_detail(j)
+    assert "3+ years of Java" in j.description and "Privacy" not in j.description and "Jobs Home" not in j.description
