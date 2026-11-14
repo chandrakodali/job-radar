@@ -20,8 +20,10 @@
   "adp:0655c20d-f878-4e56-9c6b-a3e48a1b5717|19000101_000001": "2026-11-14",
   "adp:06e8462a-bdce-4e42-b8ed-8adec4f0424c|1586553101862011_1979": "2026-11-14",
   "adp:06ec3714-79b1-4967-99a2-e96fbbbde2d0|19000101_000001": "2026-11-14",
+  "adp:06f7e303-2ac6-4787-bb76-3a23edc80e6a|19000101_000001": "2026-11-14",
   "adp:07299349-a3c4-4907-95a8-134329e452f8": "2026-11-14",
   "adp:072ac661-78b4-4259-913b-1cf1df7f40b4": "2026-11-14",
+  "adp:07a0ee07-3f74-462b-ae89-ff976e804f36|19000101_000001": "2026-11-14",
   "adp:07b7fd5f-50f4-4fe1-9182-f452c378becd|19000101_000001": "2026-11-14",
   "adp:0885b537-c9f5-47f8-aa4f-0ad7bbebf412|9200900703747_2": "2026-11-14",
   "adp:08d4c38c-d278-4717-8f2c-7829194ce351": "2026-11-14",
@@ -56,6 +58,7 @@
   "adp:1b4164c0-a7ce-4c7b-8525-41e0f23310d4": "2026-11-14",
   "adp:1b50a554-ed4a-4219-a358-aa3cbeea1e70": "2026-11-14",
   "adp:1b9312ef-f8ad-43d2-926b-12997288c359": "2026-11-14",
+  "adp:1b9ea04c-142e-4aa7-8d21-45439ca5b76b|19000101_000001": "2026-11-14",
   "adp:1d9ccec1-d6da-412b-ab38-cabbc1bf7ddb": "2026-11-14",
   "adp:1e91abd5-1792-441f-a40a-9a4e07f3f772": "2026-11-14",
   "adp:1fee27e8-b345-49b9-95f2-58dd60ce03ef": "2026-11-14",
@@ -72,6 +75,7 @@
   "adp:277235cd-c389-4a09-8ebf-663c98a924c6": "2026-11-14",
   "adp:27ed468a-cd1b-44c2-bdaa-45dde014af03": "2026-11-14",
   "adp:28e46921-174b-4b03-ba7b-40eb5a3c0fa6|19000101_000003": "2026-11-14",
+  "adp:2a76e3c6-9f65-40ea-afe8-07caf310155c": "2026-11-14",
   "adp:2a9a53c7-700a-4b99-91dd-7b87413d8b5a": "2026-11-14",
   "adp:2b91bf50-3a50-41f0-a6c4-489fe5d999f7|9201086727724_3": "2026-11-14",
   "adp:2bfe379d-80e6-4626-8130-326b27dddfe6|9202825858348_2": "2026-11-14",
@@ -114,6 +118,7 @@
   "adp:47319cd5-5177-4288-85d2-d8661c094339|19000101_000001": "2026-11-14",
   "adp:47ca55a0-9f2d-484e-8a7c-a79dd814449b|9201328560586_2": "2026-11-14",
   "adp:4a36d242-d4a9-415f-a153-ae92243ed1f3|19000101_000001": "2026-11-14",
+  "adp:4a63a361-7dad-4122-98c5-c5e948f6d913|9200116054819_2": "2026-11-14",
   "adp:4aad6ff8-f078-4009-9c60-a05e5489cec6": "2026-11-14",
   "adp:4ab5cf12-22e4-443e-947d-24b517b6ad82|19000101_000001": "2026-11-14",
   "adp:4b01b1ef-1960-4219-8f3f-6c0652a81377|19000101_000001": "2026-11-14",
@@ -146,8 +151,13 @@
   "adp:546615a2-d5a4-4c8a-bfc8-a873e0819689": "2026-11-14",
   "adp:54c3bc18-8c9d-4097-b3ba-a19eaa582989|19000101_000001": "2026-11-14",
   "adp:553b3b64-bbe3-4ed0-b7c0-bdb1b328dc09|9200659465994_2": "2026-11-14",
+  "adp:55888d88-cf09-47e9-99b5-cdf86a66592a": "2026-11-14",
   "adp:55f9c57b-cdfc-4081-8a5a-d8102543d4aa": "2026-11-14",
   "adp:55f9c57b-cdfc-4081-8a5a-d8102543d4aa|19000101_000001": "2026-11-14",
+  "adp:55ff8ebe-355a-415f-9596-85eb1fdb3e8c": "2026-11-14",
+  "adp:562ad1b1-8950-4d30-831c-5e0d165d3d28|19000101_000001": "2026-11-14",
+  "adp:567e686e-7575-49d9-b29f-985e7365f987|19000101_000001": "2026-11-14",
+  "adp:56cc03b7-d58a-4ac9-8391-390840ad8e7e": "2026-11-14",
   "amazon:us": "2026-11-14",
   "apple:usa": "2026-11-14",
   "ashby:0g": "2026-11-09",
@@ -2747,6 +2757,7 @@
   "dover:agencyanalytics": "2026-11-14",
   "dover:agilemd": "2026-11-11",
   "dover:akeshya": "2026-11-14",
+  "dover:akomi": "2026-11-14",
   "dover:aktivate": "2026-11-14",
   "dover:alapaiglobal": "2026-11-14",
   "dover:aldego": "2026-11-14",
@@ -2770,11 +2781,13 @@
   "dover:autochek": "2026-11-14",
   "dover:autostep": "2026-11-11",
   "dover:avary-ai": "2026-11-14",
+  "dover:aviaryrobotics": "2026-11-14",
   "dover:aviso-edge-inc": "2026-11-14",
   "dover:avy": "2026-11-14",
   "dover:azalearobotics": "2026-11-11",
   "dover:backbone": "2026-11-14",
   "dover:band": "2026-11-14",
+  "dover:beakpointinsights": "2026-11-14",
   "dover:castle": "2026-11-11",
   "dover:chasi": "2026-11-11",
   "dover:codingal": "2026-11-11",
@@ -6749,9 +6762,13 @@
   "paylocity:02ffafc6-8014-4798-b296-cecacc0dc986": "2026-11-14",
   "paylocity:030d20cc-6443-4d57-ae17-8dd3f58e11f8": "2026-11-14",
   "paylocity:031092c6-135e-4ac0-a86a-6ebb8f6c0a79": "2026-11-14",
+  "paylocity:031133dc-c4a4-4cc9-898e-7d5cd52f5ee5": "2026-11-14",
+  "paylocity:04927b97-13ba-41c8-afe1-ac78a8acf450": "2026-11-14",
   "paylocity:05a8347a-7060-4310-b2be-d19fa27a6518": "2026-11-14",
+  "paylocity:0721fa6f-20b1-48a9-9a2a-7da813f88a10": "2026-11-14",
   "paylocity:07314255-f13e-4c20-b80c-2b4022218dc8": "2026-11-14",
   "paylocity:076ee35d-2815-45ca-a6dc-38be74644a87": "2026-11-14",
+  "paylocity:0844bcbc-bc5c-45ed-8674-5fe440c4e57a": "2026-11-14",
   "paylocity:08628d28-fa0d-4893-b85a-43b78653901b": "2026-11-14",
   "paylocity:086af4d0-3dbe-4019-87ba-444c7e2661ac": "2026-11-14",
   "paylocity:08741992-5802-4419-a6eb-fbb58d6ac948": "2026-11-14",
@@ -6768,12 +6785,31 @@
   "paylocity:133a9a75-e44a-4f7e-b954-9af8522b1acb": "2026-11-14",
   "paylocity:1345d48b-d589-40d9-80b2-dc0a2be1e8f0": "2026-11-14",
   "paylocity:1348ee46-2e26-420e-81d3-93bc6ddb2a43": "2026-11-14",
+  "paylocity:13e96a8e-caac-4140-9f25-57c06081fbd4": "2026-11-14",
+  "paylocity:14147534-47d1-4e80-af71-635a7d67cac1": "2026-11-14",
   "paylocity:14223a8b-d10c-4985-b077-944a16d2fea3": "2026-11-14",
   "paylocity:142c9c7e-4192-4bef-9adf-86db6d8f712c": "2026-11-14",
   "paylocity:144df5a8-264d-4a35-9139-e420cb899b95": "2026-11-14",
   "paylocity:1457d9fd-ff47-44b7-b56a-13fa323378cd": "2026-11-14",
   "paylocity:146a3a13-476a-4520-a409-2d46af632aba": "2026-11-14",
   "paylocity:146c5804-5603-4f3b-a61c-c9046e8a6402": "2026-11-14",
+  "paylocity:14a2c663-08c2-4749-a338-1b08bb553b1b": "2026-11-14",
+  "paylocity:14bb98e5-6efc-4bd8-b6d7-b899ea185e15": "2026-11-14",
+  "paylocity:14d6aeae-9baa-4185-89ad-d560e1f995b5": "2026-11-14",
+  "paylocity:14feca87-1841-4117-9aeb-924b0e905c19": "2026-11-14",
+  "paylocity:151cf0dc-bb18-4bc1-aed7-ede5fa8751d7": "2026-11-14",
+  "paylocity:1522b41d-3314-412e-b7bb-e5a496819a0c": "2026-11-14",
+  "paylocity:15382744-2999-4398-9009-4518be8ab530": "2026-11-14",
+  "paylocity:15429871-4587-40f2-97cb-c556d2c7da74": "2026-11-14",
+  "paylocity:15cbcdb0-27a1-4c58-b90c-243eeed7637d": "2026-11-14",
+  "paylocity:15fcedf0-0123-4940-9e8d-d1e2a1d84a32": "2026-11-14",
+  "paylocity:166807f1-aa37-437d-850d-574006357319": "2026-11-14",
+  "paylocity:16992380-c2cc-4aba-9ba5-ab99675f1db4": "2026-11-14",
+  "paylocity:1727f1da-4aa6-43f9-aa64-4e2a909a537d": "2026-11-14",
+  "paylocity:174aac10-2bd9-46d5-8e65-6c908166d57a": "2026-11-14",
+  "paylocity:17713721-eeb1-49c8-a8fe-8a7ec37f0088": "2026-11-14",
+  "paylocity:180866a7-157b-4668-9e4e-986aeaf7cd51": "2026-11-14",
+  "paylocity:18f41eec-1ff4-4233-9762-c1ee64cafa3b": "2026-11-14",
   "personio:1komma5grad.jobs.personio.de": "2026-11-14",
   "personio:360t.jobs.personio.de": "2026-11-14",
   "personio:420pharma.jobs.personio.de": "2026-11-14",
@@ -9883,17 +9919,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 67,
+   "n": 68,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 67,
+   "n": 68,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 67,
+   "n": 68,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -10634,8 +10670,9 @@
    "since": "2026-11-07"
   },
   "pinpoint:heapy": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /postings.json",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "pinpoint:interactsoftware": {
@@ -12362,7 +12399,7 @@
   },
   "workday:calibercollision|wd1|protech": {
    "err": "invalid JSON",
-   "n": 33,
+   "n": 34,
    "since": "2026-11-14"
   },
   "workday:cambiahealth|wd1|External": {
@@ -12370,11 +12407,6 @@
    "err": "HTTP 422",
    "n": 3,
    "since": "2026-11-11"
-  },
-  "workday:cardinalhealth|wd1|EXT": {
-   "err": "HTTP 520",
-   "n": 1,
-   "since": "2026-11-14"
   },
   "workday:cff|wd1|explore-career-opportunities": {
    "disabled_until": "2026-11-15",
@@ -12426,7 +12458,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 67,
+   "n": 68,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12473,7 +12505,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 39,
+   "n": 40,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -12580,12 +12612,12 @@
   },
   "workday:pru|wd5|Careers": {
    "err": "invalid JSON",
-   "n": 38,
+   "n": 39,
    "since": "2026-11-13"
   },
   "workday:pru|wd5|pgim_careers": {
    "err": "invalid JSON",
-   "n": 37,
+   "n": 38,
    "since": "2026-11-13"
   },
   "workday:rappi|wd12|es": {
@@ -12608,7 +12640,7 @@
   },
   "workday:regions|wd5|regions_careers": {
    "err": "invalid JSON",
-   "n": 38,
+   "n": 39,
    "since": "2026-11-13"
   },
   "workday:ryan|wd1|Students-Graduates": {
@@ -12619,7 +12651,7 @@
   },
   "workday:ryder|wd5|RyderCareers": {
    "err": "invalid JSON",
-   "n": 38,
+   "n": 39,
    "since": "2026-11-13"
   },
   "workday:salesforce|wd1|External_Career_Site": {
@@ -12648,7 +12680,7 @@
   },
   "workday:target|wd5|targetcareers": {
    "err": "invalid JSON",
-   "n": 38,
+   "n": 39,
    "since": "2026-11-13"
   },
   "workday:usicinc|wd5|USICCareers": {
