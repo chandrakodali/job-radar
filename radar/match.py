@@ -174,6 +174,11 @@ class Rules:
     entry_text: list[re.Pattern] = field(default_factory=list)   # entry-level phrases in the job text
     hard_exclude: list[re.Pattern] = field(default_factory=list) # ... that only these exclusions can drop
     bridge_min: int = 2
+    bridge_required: list[re.Pattern] = field(default_factory=list)  # each must be in the requirements section
+    bridge_required_count: int = 3     # ... or be named this many times anywhere in the text
+    bridge_needs_text: bool = False    # an adjacent title with no job text can't qualify
+    bridge_drop: bool = False          # adjacent titles that don't qualify are dropped, not listed as "left out"
+    bridge_flag: str = "adjacent title, little DevOps/cloud work in the text"
     years_by_section: bool = False  # read years from required/duties text only, degree-aware ("BS+5 or MS+3")
     degree: str = "master"          # the degree path that applies when a posting gives several
 
@@ -207,6 +212,10 @@ class Rules:
             hide_if_years_at_least=int(s.get("hide_if_years_at_least", 0)),
             senior=comp(t.get("senior")), years_by_section=bool(s.get("years_by_section")),
             bridge_evidence=comp(s.get("bridge_evidence")), bridge_min=int(s.get("bridge_min", 2)),
+            bridge_required=comp(s.get("bridge_required")),
+            bridge_required_count=int(s.get("bridge_required_count", 3)),
+            bridge_needs_text=bool(s.get("bridge_needs_text")), bridge_drop=bool(s.get("bridge_drop")),
+            bridge_flag=s.get("bridge_flag") or "adjacent title, little DevOps/cloud work in the text",
             strong=comp(t.get("strong")), hard_exclude=comp(t.get("hard_exclude")),
             require_entry=bool(s.get("require_entry")), max_years=int(s.get("max_years", 1)),
             entry_text=comp(s.get("entry_text")),
@@ -424,13 +433,23 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
         flags.append("staffing/consulting firm: verify it's real")
 
     thin_bridge = False
-    if category == "bridge" and rules.bridge_evidence and len(desc) > 300:
-        named = sum(1 for p in rules.bridge_evidence if p.search(desc))
-        thin_bridge = named < rules.bridge_min
+    if category == "bridge" and (rules.bridge_evidence or rules.bridge_required):
+        if len(desc) > 300:
+            named = sum(1 for p in rules.bridge_evidence if p.search(desc))
+            thin_bridge = named < rules.bridge_min
+            if rules.bridge_required and not thin_bridge:
+                from .rank import sections
+                req = sections(desc).get("required", "")
+                thin_bridge = not all(p.search(req) or len(p.findall(desc)) >= rules.bridge_required_count
+                                      for p in rules.bridge_required)
+        elif rules.bridge_needs_text:
+            thin_bridge = True
+        if rules.bridge_required and not thin_bridge:
+            flags.append(rules.bridge_flag)       # e.g. "requires Java": the title doesn't say it, the text does
     score = max(0, min(100, score))
     blocker = blocker_hit(" ".join([title, desc]), rules)
 
-    if not_entry:
+    if not_entry or (thin_bridge and rules.bridge_drop):
         status = "old"
     elif age_days is not None and age_days > rules.max_post_age_days:
         status = "old"
@@ -444,7 +463,7 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
         flags.append(f"asks for {years}+ years of experience")
     elif thin_bridge:
         status = "blocked"
-        flags.append("adjacent title, little DevOps/cloud work in the text")
+        flags.append(rules.bridge_flag)
     elif years is not None and years >= rules.block_alerts_if_years_at_least:
         status = "quiet"
     elif score >= rules.alert_threshold:

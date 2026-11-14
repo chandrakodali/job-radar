@@ -418,6 +418,8 @@ def run(args) -> int:
             later = {id(c[0]) for c in wide[wide_cap:]}
             candidates = [c for c in candidates if id(c[0]) not in later]
             stats["deferred"] = len(later)
+    if rules.bridge_needs_text:   # direct titles first, then the newest adjacent titles
+        candidates.sort(key=lambda c: (c[2] != "core", -(c[0].posted_at.timestamp() if c[0].posted_at else 0)))
     if rules.require_entry:   # entry-level titles and the newest jobs get their text read first
         candidates.sort(key=lambda c: (not _any(rules.entry, " " + c[0].title + " "),
                                        -(c[0].posted_at.timestamp() if c[0].posted_at else 0)))
@@ -504,8 +506,8 @@ def run(args) -> int:
                     stats["wide_dropped"] += 1
                     continue
                 stats["unread_kept"] += 1
-        if rules.require_entry and not j.description and j.needs_detail and j.ats in ATS.DETAILERS \
-                and not j.detail_tried:
+        if (rules.require_entry or (rules.bridge_needs_text and cat == "bridge")) and not j.description \
+                and j.needs_detail and j.ats in ATS.DETAILERS and not j.detail_tried:
             stats["retry_later"] += 1      # the run ended before its text was read: judge it next run
             continue
         a = assess(j, b, rules, cat, now=now)

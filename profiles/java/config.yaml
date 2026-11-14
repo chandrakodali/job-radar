@@ -1,0 +1,344 @@
+# Java Developer Radar: Java developer jobs in the US posted in the last 7 days, under 5 years asked.
+# Same rules as the DevOps radar (US only; 5+ years, clearance or citizenship left out; senior titles kept
+# when they ask under 5 years; no-sponsorship and staffing jobs kept and flagged). Titles with Java (not
+# JavaScript) are direct matches; backend/software/full-stack titles count only when the requirements need
+# Java. Reads the same employer boards as the DevOps radar.
+titles:
+  strong:
+  - \bjava\b(?!\s*-?\s*script)
+  - \bj2ee\b|\bjee\b|jakarta ee|java ee
+  - \bspring( |-)?boot\b.{0,30}\b(developer|engineer|programmer)\b
+  - \b(developer|engineer|programmer)\b.{0,30}\bspring( |-)?boot\b
+  - \bjvm\b.{0,30}\b(developer|engineer)\b
+  hard_exclude:
+  - \b(staff|principal|lead|manager|director|head of|vp|vice president|architect|distinguished|fellow|chief|supervisor)\b
+  - \b(iv|v|vi)\b
+  - \b(level|lvl)\s*[4-9]\b
+  - \b[4-9]\b\s*$
+  - \b(intern(ship)?|co-?op|summer|phd|apprenticeship program)\b
+  - \b(clearance|ts/sci|top secret|classified|polygraph)\b
+  - \b(sales|pre-?sales|recruit\w*|marketing|teacher|instructor|trainer|tutor|professor|faculty|course)\b
+  - \b(m/w/d|w/m/d|m/f/d|f/h|h/f)\b
+  - \bmgr\b
+  - \b(barista|coffee|cafe|caf[ée])\b
+  - \b(qa|test|testing|tester|sdet|automation tester|quality)\b(?!.*\b(developer|software engineer)\b)
+  senior:
+  - \bsenior\b
+  - \bsr\.?\b
+  - \biii\b
+  - \b(level|lvl)\s*3\b
+  - \b3\s*$
+  core: []
+  bridge:
+  - \b(software|backend|back[- ]end|server[- ]side|full[- ]?stack|application|applications|api|platform|integration|middleware|microservices?|enterprise|web)\b.{0,25}\b(developer|engineer|programmer|engineering)\b
+  - \bsoftware (developer|engineer|programmer)\b
+  - \b(sde|swe)\b
+  - \bprogrammer analyst\b
+  - \bkotlin\b.{0,25}\b(developer|engineer)\b
+  - \bscala\b.{0,25}\b(developer|engineer)\b
+  exclude:
+  - \bstaff\b
+  - \bprincipal\b
+  - \blead\b
+  - \bmanager\b
+  - \bdirector\b
+  - \bhead of\b
+  - \bvp\b
+  - vice president
+  - \barchitect\b
+  - \bdistinguished\b
+  - \bfellow\b
+  - \bchief\b
+  - \b(iv|v|vi)\b
+  - \b(level|lvl)\s*[4-9]\b
+  - \b[4-9]\b\s*$
+  - \bsales\b
+  - account executive
+  - account manager
+  - \brecruit
+  - \bmarketing\b
+  - \bintern(ship)?\b
+  - \bco-?op\b
+  - \bsummer\b
+  - \bphd\b
+  - \bclearance\b
+  - \bts/sci\b
+  - \btop secret\b
+  - electrical
+  - electrician
+  - mechanical
+  - civil
+  - construction
+  - facilit(y|ies)
+  - \bhvac\b
+  - physical security
+  - paralegal
+  - \blegal\b
+  - \bcounsel\b
+  - attorney
+  - documentation
+  - technical writer
+  - maintenance
+  - design release
+  - casting
+  - manufacturing
+  - welding
+  - machining
+  - \bmechanic
+  - test (infrastructure )?technician
+  - \baccount(ant|ing)\b
+  - \bfinance\b
+  - \bmgr\b
+  - \bavp\b
+  - \bmanger\b
+  - professor|lecturer|faculty
+  - \bclassified\b
+  - \b(m/w/d|w/m/d|m/f/d|f/h|h/f)\b
+  - \bing[ée]nieur|\bstage\b|alternance|\bwerkstudent
+  - design (and|&) release
+  - \b(billing|payroll|cmms|membership|pacs|gainsight|customer success|crm|hris|lms|epic|maestro|erp|hr) systems? administrator
+  - \b(billing|payroll|cmms|membership|pacs|gainsight|crm|hris|lms|epic|erp)\b.{0,20}administrator
+  - \bassembly\b
+  - broadcast
+  - energy storage|battery|charging|\bev\b|sustainability|electrical infrastructure|power systems
+  - power platform
+  - \bi&c\b|instrumentation
+  - \bsalesforce\b
+  - servicenow
+  - \bsap\b
+  - \bworkday\b
+  - \b(dynamics|netsuite|oracle (ebs|fusion|apps))\b
+  - help ?desk
+  - desktop support
+  - \bdata cent(er|re) technician
+  - \btechnician\b
+  - customer support
+  - \bvoice\b
+  - \bpre-?sales\b
+  - solutions? engineer
+  - field engineer
+  - \bteacher\b|\binstructor\b|\btrainer\b
+  - \b(android|ios|mobile|embedded|firmware|frontend|front[- ]end|ui|ux|react native|flutter|game|unity|salesforce|sap|servicenow|data scientist|machine learning|ml|ai|hardware|silicon|asic|fpga|verification|validation|test|qa|sdet|quality)\b
+  - \b(\.net|c#|php|ruby|golang|python|node(\.js)?|javascript|typescript|c\+\+|rust|swift|cobol)\b(?!.*\bjava\b)
+  entry:
+  - \bjunior\b
+  - \bjr\.?\b
+  - \bassociate\b
+  - \bentry\b
+  - new grad
+  - \bgraduate\b
+  - early career
+  - university (grad|graduate|hire|program|recruit)
+  - \bapprentice
+  - \b(engineer|administrator|technician|analyst|specialist|developer)\s+(i|1)\b
+  - \b(level|lvl)\s*1\b
+description:
+  blockers:
+  - (security|secret|top secret|ts/sci|ts|sci|dod|public trust)\s+clearance
+  - clearance (is |will be )?required
+  - active (secret|top secret|ts/sci|ts)\b
+  - ability to (obtain|maintain) (a |an )?(\w+ )?(security )?clearance
+  - must (be|hold) (a |an )?(u\.?s\.?|united states) citizen
+  - (u\.?s\.?|united states) citizenship (is )?(required|is a requirement|needed)
+  - requires? (u\.?s\.?|united states) citizenship
+  - (must be|only) (a )?(u\.?s\.?|us) persons?
+  - \bitar\b
+  - export control.{0,80}(u\.?s\.? person|citizen)
+  blocker_exceptions:
+  - no (security )?clearance (is )?required
+  - clearance (is )?not required
+  - does not require (a |an )?(security )?clearance
+  no_sponsorship:
+  - (not|unable to|cannot|can.t|will not|won.t|does not|do not|is not able to)\s+(provide |offer |support )?(employment |work )?(visa )?sponsor
+  - sponsorship (is )?(not|un)available
+  - without (the )?(need for )?(current or future |now or in the future )?(employer |visa )?sponsorship
+  - now or in the future.{0,60}sponsor
+  sponsors:
+  - visa sponsorship (is )?available
+  - will sponsor
+  - sponsorship (is )?available
+  - open to sponsor
+  e_verify:
+  - e-?verify
+staffing_company_patterns:
+- consult
+- staffing
+- recruit
+- talent
+- infotech
+- \bit solutions\b
+- technologies llc
+- systems llc
+scoring:
+  alert_threshold: 45
+  max_alerts_per_run: 15
+  max_post_age_days: 10
+  years_by_section: true
+  degree: master
+  hide_if_years_at_least: 5
+  bridge_min: 2
+  bridge_evidence:
+  - \bjava\b(?!\s*-?\s*script)
+  - \bspring( |-)?(boot|framework|mvc|cloud|batch|security|data)?\b
+  - \b(j2ee|jee|jakarta ee|java ee|servlets?|jsp|ejb)\b
+  - \b(hibernate|jpa|jdbc|mybatis)\b
+  - \b(maven|gradle|ant)\b
+  - \b(junit|mockito|testng)\b
+  - \b(microservices?|rest(ful)? apis?|kafka|tomcat|jboss|wildfly|weblogic|websphere)\b
+  - \b(jvm|kotlin|scala|groovy|quarkus|micronaut|vert\.x)\b
+  block_alerts_if_years_at_least: 5
+  bridge_required:
+  - \bjava\b(?!\s*-?\s*script)
+  bridge_required_count: 3
+  bridge_needs_text: true
+  bridge_drop: true
+  bridge_flag: requires Java
+big_companies:
+- nvidia
+- \bintel\b
+- boeing
+- general motors
+- micron
+- applied materials
+- qualcomm
+- servicenow
+- \bibm\b
+- oracle
+- salesforce
+- cisco
+- adobe
+- dell
+- hewlett
+- \bhp\b
+- jpmorgan
+- capital one
+- wells fargo
+- bank of america
+- walmart
+- target
+- deloitte
+- accenture
+- pwc
+- pricewaterhouse
+- ernst
+- kpmg
+- tesla
+- uber
+- doordash
+- nike
+- visa\b
+- mastercard
+exclude_companies:
+- \brtx\b
+- raytheon
+- northrop
+- lockheed
+- general dynamics
+- bae systems
+- l3harris
+- leidos
+- \bcaci\b
+- \bsaic\b
+- science applications
+- booz allen
+- \bkbr\b
+- peraton
+- mantech
+- parsons
+- huntington ingalls
+- spacex
+- aerospace corporation
+- torch technologies
+- \bmitre\b
+- anduril
+- sierra nevada
+- textron
+- lawrence livermore
+- sandia
+- los alamos
+- national security
+workday:
+  shards: 1
+  max_pages: 15
+  search_terms:
+  - java
+  - java developer
+  - spring boot
+  - j2ee
+  - backend engineer
+  - software engineer java
+  search_pages: 3
+notify:
+  daily_digest_hour_local: 8
+  timezone: America/Chicago
+ai:
+  mode: 'off'
+discovery:
+  boards_per_run: 100000
+run:
+  time_budget_minutes: 28
+report:
+  order: newest
+  days: 7
+  hide_years: 5
+  track_closed: true
+  label: Java developer jobs in the US
+  note: 'US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship,
+    are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.'
+sources:
+  email_alerts: true
+  email_days: 4
+  workable_search:
+    every_minutes: 180
+    days: 7
+    max_pages: 40
+    terms:
+    - java developer
+    - java engineer
+    - java
+    - spring boot
+    - j2ee
+    - backend engineer java
+  hn:
+    every_minutes: 360
+    days: 7
+  remoteok:
+    every_minutes: 120
+    days: 7
+    tag: java
+  wwr:
+    every_minutes: 60
+    days: 7
+    feeds:
+    - https://weworkremotely.com/categories/remote-back-end-programming-jobs.rss
+    - https://weworkremotely.com/categories/remote-full-stack-programming-jobs.rss
+  usajobs:
+    every_minutes: 180
+    days: 7
+    keywords:
+    - java developer
+    - java
+    - software developer java
+    series: []
+  yc:
+    every_minutes: 180
+    roles:
+    - software-engineer
+    - backend
+    - full-stack
+profile:
+  name: java
+  label: Java Developer Radar
+  report_url: https://github.com/chandrakodali/job-radar/blob/main/REPORT_JAVA.md
+  matches_file: data/java/matches.csv
+  watching: for Java developer jobs in the US (Java in the title, or backend/software roles that require Java) asking under 5 years.
+  refresh_note: Refreshes every hour.
+  score_colors:
+  - 70
+  - 55
+  chips:
+    bad: clearance|citizen|itar|asks for \d+\+ years
+    good: entry-level title|0-2 yrs|sponsors visas|e-verify|java in the title
+    warn: senior title|repost|unclear|contract|staffing|no visa sponsorship|requires java
+boards:
+  include_general: true
