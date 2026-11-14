@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**492 jobs**, newest first. Updated Sat Nov 14, 5:42 AM CST from 7,552 company job boards and other sources.
+**492 jobs**, newest first. Updated Sat Nov 14, 6:43 AM CST from 7,552 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -542,7 +542,7 @@ Jump to: [Sat 14 (4)](#saturday-nov-14-4) · [Fri 13 (134)](#friday-nov-13-134) 
 | date only | [Technology Analyst](https://jobs.adidas-group.com/job/Portland-Technology-Analyst-OR/1456564133/) | Adidas |  | 73 | 1+ yrs exp; entry level (from the text) |
 | date only | [MX Remote Work FBS Mexico Associate Analytics Engineer USFITFU](https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-Associate-Analytics-Engineer-%28USFITFU%29/1377529157/) | Farmers Insurance |  | 58 | entry-level title; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2197)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2198)
 
 <details><summary>Show</summary>
 
@@ -550,6 +550,7 @@ Jump to: [Sat 14 (4)](#saturday-nov-14-4) · [Fri 13 (134)](#friday-nov-13-134) 
 |---|---|---|---|---:|---|
 | date only | [Founding Backend Software Engineer](https://apply.workable.com/raydar/j/D311E320DC/) | Raydar | New York, New York, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Machine Learning Research Engineer](https://apply.workable.com/raydar/j/513FBA0DB3/) | Raydar | New York, New York, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| date only | [Data Scientist](https://mckesson.wd3.myworkdayjobs.com/Sourcer_On_Req/job/USA-Remote/Data-Scientist_JR0152158-2) | McKesson | USA, Remote (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 12:05 AM | [Network Security and Firewall Engineer - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4391) | City of Oklahoma City | Oklahoma  City, OK, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 9:58 PM | [InfoSec Engineer (Risk and Compliance)](https://jobs.ashbyhq.com/Rox-Data-Corp/88122e39-b638-49b5-8e25-6b2483c47155) | Rox Data Corp | San Francisco (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 7:34 PM | [Machine Learning Engineer](https://jobs.ashbyhq.com/arena/2a58c588-e577-447b-9e48-be73a796415d) | Arena | SF Bay Area (hybrid) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
@@ -947,6 +948,5 @@ Jump to: [Sat 14 (4)](#saturday-nov-14-4) · [Fri 13 (134)](#friday-nov-13-134) 
 | 2:00 AM | [Software Engineer - Cloud Engineering (C++)](https://jobs.netapp.com/job/Morrisville-Software-Engineer-Cloud-Engineering-%28C%2B%2B%29-NC-27560/1410829800/) | NetApp | Morrisville, NC, United States +3 more | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:00 AM | [Application Engineer](https://jobs.supermicro.com/job/San-Jose-Application-Engineer-Cali/1420736900/) | Super Micro Computer | San Jose, California, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 2:00 AM | [Information Security Engineer](https://jobs.supermicro.com/job/San-Jose-Information-Security-Engineer-Cali/1420676300/) | Super Micro Computer | San Jose, California, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 2:00 AM | [Data Center Engineer](https://jobs.supermicro.com/job/Kansas-City-Data-Center-Engineer-Miss/1385421300/) | Super Micro Computer | Kansas City, Missouri, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
