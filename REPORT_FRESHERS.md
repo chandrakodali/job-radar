@@ -1,12 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**492 jobs**, newest first. Updated Sat Nov 14, 7:43 AM CST from 7,552 company job boards and other sources.
+**492 jobs**, newest first. Updated Sat Nov 14, 8:43 AM CST from 7,552 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 79 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 466 matching jobs that job sites and feeds listed this week, 77 (16%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 544 matching jobs that job sites and feeds listed this week, 89 (16%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 14 (4)](#saturday-nov-14-4) · [Fri 13 (134)](#friday-nov-13-134) · [Thu 12 (98)](#thursday-nov-12-98) · [Wed 11 (98)](#wednesday-nov-11-98) · [Tue 10 (76)](#tuesday-nov-10-76) · [Mon 9 (70)](#monday-nov-9-70) · [Sun 8 (7)](#sunday-nov-8-7) · [Sat 7 (5)](#saturday-nov-7-5)
 
@@ -542,7 +542,7 @@ Jump to: [Sat 14 (4)](#saturday-nov-14-4) · [Fri 13 (134)](#friday-nov-13-134) 
 | date only | [Technology Analyst](https://jobs.adidas-group.com/job/Portland-Technology-Analyst-OR/1456564133/) | Adidas |  | 73 | 1+ yrs exp; entry level (from the text) |
 | date only | [MX Remote Work FBS Mexico Associate Analytics Engineer USFITFU](https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-Associate-Analytics-Engineer-%28USFITFU%29/1377529157/) | Farmers Insurance |  | 58 | entry-level title; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2198)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2200)
 
 <details><summary>Show</summary>
 
@@ -552,6 +552,8 @@ Jump to: [Sat 14 (4)](#saturday-nov-14-4) · [Fri 13 (134)](#friday-nov-13-134) 
 | date only | [Machine Learning Research Engineer](https://apply.workable.com/raydar/j/513FBA0DB3/) | Raydar | New York, New York, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Data Scientist](https://mckesson.wd3.myworkdayjobs.com/Sourcer_On_Req/job/USA-Remote/Data-Scientist_JR0152158-2) | McKesson | USA, Remote (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 12:05 AM | [Network Security and Firewall Engineer - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4391) | City of Oklahoma City | Oklahoma  City, OK, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 11:00 PM | [Mulesoft Developer](https://careers-steampunk.icims.com/jobs/8404/mulesoft-developer/job) | Steampunk | McLean, VA, United States | 65 | rules: 3+ yrs exp; E-Verify; needs: Secret Clearance |
+| 11:00 PM | [ServiceNow Developer](https://careers-steampunk.icims.com/jobs/8419/servicenow-developer/job) | Steampunk | McLean, VA, United States | 50 | rules: 5+ yrs exp; E-Verify; needs: Security clearance |
 | 9:58 PM | [InfoSec Engineer (Risk and Compliance)](https://jobs.ashbyhq.com/Rox-Data-Corp/88122e39-b638-49b5-8e25-6b2483c47155) | Rox Data Corp | San Francisco (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 7:34 PM | [Machine Learning Engineer](https://jobs.ashbyhq.com/arena/2a58c588-e577-447b-9e48-be73a796415d) | Arena | SF Bay Area (hybrid) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 6:42 PM | [Workplace Security Analyst Trainee (9910) - Department of Public Heal…](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016859665-workplace-security-analyst-trainee-9910-department-of-public-health-exempt) | City and County of San Franci… | San Francisco, CA, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
@@ -912,6 +914,7 @@ Jump to: [Sat 14 (4)](#saturday-nov-14-4) · [Fri 13 (134)](#friday-nov-13-134) 
 | date only | [Robotics - Automation - Bid and Proposals Specialist](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Robotics---Automation---Bid-and-Proposals-Specialist_JR00050031) | ABB | USA, MI, Auburn Hills | 38 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [CPU Integration & 3DIC CAD Engineer](https://qualcomm.eightfold.ai/careers/job/446721106923) | Qualcomm | Santa Clara, CA, US (onsite) | 43 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Data Center Engineering - Post Silicon Power and Performance Engineer](https://qualcomm.eightfold.ai/careers/job/446721293506) | Qualcomm | Austin, TX, US; Santa Clara, CA, US (onsite) | 58 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| date only | [Overhead Contact System (OCS) Engineer](https://stvinc.wd5.myworkdayjobs.com/stv/job/Philadelphia-Pennsylvania/Overhead-Contact-System--OCS--Engineer_JR6519) | STV | Philadelphia, Pennsylvania | 38 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 10:58 AM | [Embedded Platform Diagnostics Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74088) | Ford Motor Company | Allen Park, MI, United States (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 10:40 AM | [Business Analyst/Domain Specialist](https://jobs.workable.com/view/4CTKyCUddg62o1WdrfjuV2/remote-business-analyst%2Fdomain-specialist-in-united-states-at-v4c.ai) | V4C.ai | Remote, US (remote) | 42 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:33 AM | [System Analyst, Remote IT Operations](https://jobs.smartrecruiters.com/NBCUniversal3/744000161533282-system-analyst-remote-it-operations) | NBCUniversal | Monroe, Connecticut, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -945,8 +948,5 @@ Jump to: [Sat 14 (4)](#saturday-nov-14-4) · [Fri 13 (134)](#friday-nov-13-134) 
 | 2:00 AM | [Technical Support Analyst](https://careers.acuityinc.com/job/Technical-Support-Analyst/1440324200/) | Acuity |  | 60 | rules: 3+ yrs exp; location unclear; E-Verify; asks for 3+ years of e… |
 | 2:00 AM | [Software Engineer, Robotics](https://careers.acuityinc.com/job/Software-Engineer%2C-Robotics/1440408100/) | Acuity |  | 60 | rules: 3+ yrs exp; location unclear; E-Verify; asks for 3+ years of e… |
 | 2:00 AM | [Site Reliability Engineer](https://careers.acuityinc.com/job/Site-Reliability-Engineer/1440440500/) | Acuity |  | 45 | rules: 5+ yrs exp; location unclear; E-Verify; asks for 5+ years of e… |
-| 2:00 AM | [Software Engineer - Cloud Engineering (C++)](https://jobs.netapp.com/job/Morrisville-Software-Engineer-Cloud-Engineering-%28C%2B%2B%29-NC-27560/1410829800/) | NetApp | Morrisville, NC, United States +3 more | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:00 AM | [Application Engineer](https://jobs.supermicro.com/job/San-Jose-Application-Engineer-Cali/1420736900/) | Super Micro Computer | San Jose, California, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 2:00 AM | [Information Security Engineer](https://jobs.supermicro.com/job/San-Jose-Information-Security-Engineer-Cali/1420676300/) | Super Micro Computer | San Jose, California, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 
 </details>
