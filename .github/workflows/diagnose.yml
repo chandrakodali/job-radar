@@ -1,0 +1,25 @@
+name: diagnose
+
+# Re-judges every job for one profile without saving anything, and logs where the title matches end up.
+on:
+  workflow_dispatch:
+    inputs:
+      profile:
+        description: 'Profile (empty = DevOps)'
+        default: 'java'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Diagnose
+        env:
+          RADAR_FRESH: '1'
+        run: python -m radar.main --dry-run --no-write ${{ inputs.profile && format('--profile {0}', inputs.profile) || '' }}

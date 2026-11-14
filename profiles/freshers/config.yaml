@@ -47,6 +47,7 @@ titles:
   - \b(associate|junior|jr\.?|entry[- ]level) (consultant|engineer|developer|analyst|programmer)\b
   bridge: []
   exclude:
+  - '\b(fs|ci|full[- ]?scope|lifestyle|counter[- ]?intelligence)\s*[-/]?\s*poly(graph)?\b|\bts/sci\b|\bpoly\b'
   - \b(senior|sr\.?|staff|principal|lead|manager|management|director|head of|vp|vice president|chief|distinguished|fellow|supervisor|executive)\b
   - \barchitect\b(?! associate)
   - \b(ii|iii|iv|v|vi)\b

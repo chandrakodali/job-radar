@@ -114,8 +114,15 @@ _ABOUT_ROLE = re.compile(r"^about (?:the|this) (?:role|job|position|team|opportu
 
 # ---------------------------------------------------------------- years of experience
 
-_YEARS = re.compile(r"(?:at least|minimum(?: of)?|min\.?)?\s*\(?(\d{1,2})\)?\s*(?:\+|plus)?\s*"
+_YEARS = re.compile(r"(?:at least|minimum(?: of)?|min\.?)?\s*\(?(\d{1,2})\)?\s*(?:\+|plus|or more|or greater)?\s*"
                     r"(?:(?:-|–|to)\s*(\d{1,2})\s*)?\+?\s*(?:years?|yrs?)\b(?:'s)?", re.I)
+_WORD_NUM = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7, "eight": 8, "nine": 9,
+             "ten": 10, "eleven": 11, "twelve": 12}
+_WORD_YEARS = re.compile(r"\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)\b"
+                         r"(?=\s*(?:\(\d{1,2}\)\s*)?(?:\+|plus|or more)?\s*(?:-|–|to)?\s*(?:\d{1,2}\s*)?(?:years?|yrs?)\b)", re.I)
+# "years of / in / with / developing ..." right after the number: experience, unless it's an age or history
+_YEARS_OF = re.compile(r"\s*(?:of|in|with|working|developing|building|designing|programming|coding|using|doing|"
+                       r"writing|supporting|administering|managing|as an?|on)\b", re.I)
 _DEG = [
     ("phd", re.compile(r"\bph\.?\s?d\b|\bdoctora(?:te|l)\b", re.I)),
     ("master", re.compile(r"\bmaster'?s?\b|\bm\.?\s?s\.?(?=[\s,;)/])|\bmsc\b|\bm\.?\s?eng\b|\bmsee\b|\bmsme\b|"
@@ -129,11 +136,13 @@ _EXP_WORD = re.compile(r"experience|exp\b|working|work in|industry|professional|
 def years_required(text: str, degree: str = "master") -> tuple[int | None, str]:
     """(years the candidate must have, note). `degree` is the candidate's highest degree."""
     found: list[tuple[int, str]] = []
-    for m in _YEARS.finditer(text or ""):
+    text = _WORD_YEARS.sub(lambda m: str(_WORD_NUM[m.group(1).lower()]), text or "")
+    for m in _YEARS.finditer(text):
         n = int(m.group(1))
         after = text[m.end(): m.end() + 70]
         before = text[max(0, m.start() - 40): m.start()]
-        if n > 15 or not (_EXP_WORD.search(after) or _EXP_WORD.search(before)):
+        # a range ("3-5 years Java") or "years of/in/developing ..." is experience even without the word
+        if n > 15 or not (_EXP_WORD.search(after) or _EXP_WORD.search(before) or m.group(2) or _YEARS_OF.match(after)):
             continue
         if re.match(r"\s*(?:old|of age|ago|warranty|in business|history)", after, re.I):
             continue

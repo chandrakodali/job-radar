@@ -37,6 +37,25 @@ automated reading). Skipped for now: Keka and Factorial (careers API not public 
 TalentReef (hourly retail and restaurant jobs), Notion job pages (no structured job data), Remote Rocketship
 (re-lists jobs from company boards the radar already reads).
 
+## Java Developer Radar
+
+**[Open the report →](REPORT_JAVA.md)** · page: `https://chandrakodali.github.io/job-radar/java/`
+
+Java developer jobs in the US posted in the last 7 days, newest first, with the same rules as the DevOps radar:
+US only; jobs asking **5+ years** or needing a **clearance or US citizenship** are left out; **senior titles** are
+kept when they ask under 5 years (marked when they state no years); **no-sponsorship** and **staffing/contract**
+jobs are kept and flagged. Runs every hour over the same 8,000+ employer boards plus Workable search, Y Combinator
+startup jobs, HN, Remote OK, We Work Remotely, USAJOBS and your alert emails.
+
+- **Java in the title** (Java Developer, Java Full Stack, Java/J2EE, Spring Boot Developer, "Software Engineer -
+  Java"...) is a direct match. **JavaScript** is never mistaken for Java.
+- **Backend / software / full-stack / API titles** count only when the **requirements section needs Java** (or the
+  text names Java at least 3 times, with Spring, J2EE, Hibernate, Maven, JUnit...); these are marked
+  "requires Java". Java only as a nice-to-have doesn't count.
+- Skipped: Architect, Lead, Staff, Principal, Manager, level IV+, internships, trainers; Android, front-end, QA,
+  data/ML roles.
+- Settings: `profiles/java/config.yaml`. Results: `data/java/`.
+
 ## IT Entry-Level Radar
 
 **[Open the report →](REPORT_FRESHERS.md)** · page: `https://chandrakodali.github.io/job-radar/freshers/`

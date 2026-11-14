@@ -13,6 +13,7 @@ titles:
     - '\bchaos engineer'
   # Exclusions that still apply to the titles above.
   hard_exclude:
+    - '\b(fs|ci|full[- ]?scope|lifestyle|counter[- ]?intelligence)\s*[-/]?\s*poly(graph)?\b|\bts/sci\b|\bpoly\b'
     - '\b(staff|principal|lead|manager|director|head of|vp|vice president|architect|distinguished|fellow|chief)\b'
     - '\b(iv|v|vi)\b'
     - '\b(level|lvl)\s*[4-9]\b'
@@ -91,6 +92,7 @@ titles:
 
   # Titles containing any of these are skipped (well above 5 years, or not this kind of job).
   exclude:
+    - '\b(fs|ci|full[- ]?scope|lifestyle|counter[- ]?intelligence)\s*[-/]?\s*poly(graph)?\b|\bts/sci\b|\bpoly\b'
     - '\bstaff\b'
     - '\bprincipal\b'
     - '\blead\b'
@@ -364,7 +366,7 @@ sources:
   email_days: 4
   adzuna:                  # ADZUNA_APP_ID + ADZUNA_APP_KEY; the free key is shared with the automotive radar
     calls_per_run: 1       # 48 runs a day
-    limits: {d: 45, w: 300, m: 1300}
+    limits: {d: 30, w: 200, m: 850}   # free key shared by DevOps, Auto and Java radars
     max_days_old: 7
     terms:
       - 'devops engineer'

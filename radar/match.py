@@ -87,6 +87,26 @@ _CJK = re.compile(r"[\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af]")
 _US_COUNTRY_CODES = {"us", "usa", "united states", "united states of america", "u.s.", "u.s.a."}
 
 
+# Country and city names in their own languages (boards outside the US often write them this way).
+NON_US_LOCAL = re.compile(
+    r"\b(brasil|s[ãa]o paulo|rio de janeiro|belo horizonte|curitiba|florian[óo]polis|(?<!new )m[ée]xico|ciudad de|"
+    r"guadalajara|monterrey|deutschland|m[üu]nchen|k[öo]ln|d[üu]sseldorf|espa[ñn]a|[öo]sterreich|wien|schweiz|suisse|"
+    r"svizzera|z[üu]rich|gen[èe]ve|italia|milano|roma|torino|polska|warszawa|krak[óo]w|wroc[łl]aw|pozna[ńn]|gda[ńn]sk|"
+    r"nederland|belgi[qëe]u?e?|sverige|g[öo]teborg|danmark|k[øo]benhavn|norge|suomi|t[üu]rkiye|[čc]esk[oáa]|praha|"
+    r"rom[âa]nia|bucure[şșs]ti|cluj|magyarorsz[áa]g|per[úu]|bogot[áa]|medell[íi]n|lisboa|qu[ée]bec|montr[ée]al|"
+    r"h[ồo] ch[íi] minh|h[àa] n[ộo]i|latam|latin america|emea|apac)\b", re.I)
+
+
+# US cities named after foreign ones, written with a state code that is also a country code ("Dublin, CA").
+_US_TWINS = re.compile(
+    r"\b(dublin|pleasanton|san ramon),\s*ca\b|\b(rome|athens|columbus|albany|milan|vienna|berlin|dublin),\s*ga\b|"
+    r"\b(cambridge|manchester|plymouth|berlin|lexington|andover|bedford|lincoln|salem),\s*ma\b|"
+    r"\b(birmingham|florence|athens|madrid|dublin|london|berlin|naples|vienna|lima|hamburg|paris|geneva|toledo|"
+    r"moscow|cairo|warsaw|lisbon|belgrade|odessa|alexandria|stockholm|oxford|frankfort|versailles|delhi|"
+    r"dresden|hanover|bristol|valencia|amsterdam|rotterdam|copenhagen|holland|london),\s*(al|ga|id|pa|"
+    r"me|mn|mo|sc|sd|tn|co|ar|mt|md)\b", re.I)
+
+
 def classify_location(text: str, countries: list[str] | None = None) -> str:
     """Return 'us', 'non_us' or 'unknown'."""
     countries = [c.strip().lower() for c in (countries or []) if c and c.strip()]
@@ -95,15 +115,15 @@ def classify_location(text: str, countries: list[str] | None = None) -> str:
             return "us"
         # Greenhouse "offices" can be cities/regions rather than countries; only trust clear signals.
         joined = "; ".join(countries)
-        if NON_US.search(joined) or all(len(c) == 2 for c in countries):
+        if NON_US.search(joined) or NON_US_LOCAL.search(joined) or all(len(c) == 2 for c in countries):
             if not _text_says_us(text):
                 return "non_us"
     t = text or ""
-    if _text_says_us(t):
+    if _text_says_us(t) or _US_TWINS.search(t):
         return "us"
     if any(a not in _AMBIG_ABBR for a in _ABBR_RE.findall(t)):
         return "us"  # e.g. "Lebanon, NH", "Paris, TX", "Panama City, FL"
-    if NON_US.search(t):
+    if NON_US.search(t) or NON_US_LOCAL.search(t):
         return "non_us"
     if _ABBR_RE.search(t):
         return "us"
@@ -174,6 +194,11 @@ class Rules:
     entry_text: list[re.Pattern] = field(default_factory=list)   # entry-level phrases in the job text
     hard_exclude: list[re.Pattern] = field(default_factory=list) # ... that only these exclusions can drop
     bridge_min: int = 2
+    bridge_required: list[re.Pattern] = field(default_factory=list)  # each must be in the requirements section
+    bridge_required_count: int = 3     # ... or be named this many times anywhere in the text
+    bridge_needs_text: bool = False    # an adjacent title with no job text can't qualify
+    bridge_drop: bool = False          # adjacent titles that don't qualify are dropped, not listed as "left out"
+    bridge_flag: str = "adjacent title, little DevOps/cloud work in the text"
     years_by_section: bool = False  # read years from required/duties text only, degree-aware ("BS+5 or MS+3")
     degree: str = "master"          # the degree path that applies when a posting gives several
 
@@ -207,6 +232,10 @@ class Rules:
             hide_if_years_at_least=int(s.get("hide_if_years_at_least", 0)),
             senior=comp(t.get("senior")), years_by_section=bool(s.get("years_by_section")),
             bridge_evidence=comp(s.get("bridge_evidence")), bridge_min=int(s.get("bridge_min", 2)),
+            bridge_required=comp(s.get("bridge_required")),
+            bridge_required_count=int(s.get("bridge_required_count", 3)),
+            bridge_needs_text=bool(s.get("bridge_needs_text")), bridge_drop=bool(s.get("bridge_drop")),
+            bridge_flag=s.get("bridge_flag") or "adjacent title, little DevOps/cloud work in the text",
             strong=comp(t.get("strong")), hard_exclude=comp(t.get("hard_exclude")),
             require_entry=bool(s.get("require_entry")), max_years=int(s.get("max_years", 1)),
             entry_text=comp(s.get("entry_text")),
@@ -424,13 +453,26 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
         flags.append("staffing/consulting firm: verify it's real")
 
     thin_bridge = False
-    if category == "bridge" and rules.bridge_evidence and len(desc) > 300:
-        named = sum(1 for p in rules.bridge_evidence if p.search(desc))
-        thin_bridge = named < rules.bridge_min
+    if category == "bridge" and (rules.bridge_evidence or rules.bridge_required):
+        if len(desc) > 300:
+            named = sum(1 for p in rules.bridge_evidence if p.search(desc))
+            thin_bridge = named < rules.bridge_min
+            if rules.bridge_required and not thin_bridge:
+                from .rank import sections
+                sec = sections(desc)
+                # part of the job: named in the requirements, the duties or the tech stack, not only as a
+                # nice-to-have (or named often enough anywhere)
+                core_text = " ".join(sec.get(k, "") for k in ("required", "duties", "other"))
+                thin_bridge = not all(p.search(core_text) or len(p.findall(desc)) >= rules.bridge_required_count
+                                      for p in rules.bridge_required)
+        elif rules.bridge_needs_text:
+            thin_bridge = True
+        if rules.bridge_required and not thin_bridge:
+            flags.append(rules.bridge_flag)       # e.g. "requires Java": the title doesn't say it, the text does
     score = max(0, min(100, score))
     blocker = blocker_hit(" ".join([title, desc]), rules)
 
-    if not_entry:
+    if not_entry or (thin_bridge and rules.bridge_drop):
         status = "old"
     elif age_days is not None and age_days > rules.max_post_age_days:
         status = "old"
@@ -444,7 +486,7 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
         flags.append(f"asks for {years}+ years of experience")
     elif thin_bridge:
         status = "blocked"
-        flags.append("adjacent title, little DevOps/cloud work in the text")
+        flags.append(rules.bridge_flag)
     elif years is not None and years >= rules.block_alerts_if_years_at_least:
         status = "quiet"
     elif score >= rules.alert_threshold:

@@ -49,6 +49,8 @@ log = logging.getLogger("radar")
 
 LIST_CONCURRENCY = {"greenhouse": 8, "lever": 6, "ashby": 6, "smartrecruiters": 4, "workday": 10,
                     "oracle": 8, "workable": 2, "rippling": 6, "bamboohr": 6, "recruitee": 4}
+FRESH = os.environ.get("RADAR_FRESH") == "1"   # diagnostics: judge every job again, ignoring what was seen
+
 DETAIL_CONCURRENCY = {"yc": 2, "greenhouse": 8, "smartrecruiters": 4, "workday": 8, "oracle": 6, "workable": 4,
                       "rippling": 6, "bamboohr": 6}
 for _ats, _n in ats_more.CONCURRENCY.items():
@@ -283,7 +285,9 @@ def run(args) -> int:
 
     candidates: list[tuple[Job, Board, str, bool]] = []
     src_cfg = cfg.get("sources") or {}
-    missed_companies: Counter = Counter()   # employers other sources list whose own board we don't read
+    missed_companies: Counter = Counter()
+    # employers other sources list whose own board we don't read; where title matches end up (logged at the end)
+    funnel: Counter = Counter()
     want_sources = bool(src_cfg)
     scanned_keys: set[str] = set()   # company + title of every job the boards list (to skip the same job from alerts)
     coverage: dict[str, dict] = {}   # focus board -> jobs it listed this run (or its error)
@@ -324,7 +328,7 @@ def run(args) -> int:
                 stats["jobs_scanned"] += 1
                 if want_sources:
                     scanned_keys.add(_sources.norm_key(j.company, j.title))
-                if j.uid in state["seen"]:
+                if j.uid in state["seen"] and not FRESH:
                     if j.uid in pending and j.uid not in backlog_seen:
                         backlog_seen.add(j.uid)
                         ai_backlog.append((j, b, "_ai", False))
@@ -332,9 +336,12 @@ def run(args) -> int:
                 cat = job_category(j, b, rules)
                 if not cat:
                     continue
+                funnel[f"{cat}: title matches"] += 1
                 if j.posted_at and (now - j.posted_at).days > rules.max_post_age_days:
+                    funnel[f"{cat}: posted over {rules.max_post_age_days} days ago"] += 1
                     continue
                 if classify_location(j.location, j.countries) == "non_us":
+                    funnel[f"{cat}: outside the US"] += 1
                     continue
                 candidates.append((j, b, cat, first_time))
     except FuturesTimeout:
@@ -418,6 +425,8 @@ def run(args) -> int:
             later = {id(c[0]) for c in wide[wide_cap:]}
             candidates = [c for c in candidates if id(c[0]) not in later]
             stats["deferred"] = len(later)
+    if rules.bridge_needs_text:   # direct titles first, then the newest adjacent titles
+        candidates.sort(key=lambda c: (c[2] != "core", -(c[0].posted_at.timestamp() if c[0].posted_at else 0)))
     if rules.require_entry:   # entry-level titles and the newest jobs get their text read first
         candidates.sort(key=lambda c: (not _any(rules.entry, " " + c[0].title + " "),
                                        -(c[0].posted_at.timestamp() if c[0].posted_at else 0)))
@@ -504,11 +513,24 @@ def run(args) -> int:
                     stats["wide_dropped"] += 1
                     continue
                 stats["unread_kept"] += 1
-        if rules.require_entry and not j.description and j.needs_detail and j.ats in ATS.DETAILERS \
-                and not j.detail_tried:
+        if (rules.require_entry or (rules.bridge_needs_text and cat == "bridge")) and not j.description \
+                and j.needs_detail and j.ats in ATS.DETAILERS and not j.detail_tried:
             stats["retry_later"] += 1      # the run ended before its text was read: judge it next run
+            funnel[f"{cat}: text not read yet (next run)"] += 1
             continue
         a = assess(j, b, rules, cat, now=now)
+        why = a.status
+        if a.status == "old":
+            why = ("dropped: " + (rules.bridge_flag.replace("requires", "text doesn't require") if cat == "bridge"
+                                  and rules.bridge_required else "not entry level / too old")
+                   + ("" if j.description else " (no job text)"))
+        elif a.status == "blocked":
+            why = "left out: " + ("5+ years" if a.years is not None and rules.hide_if_years_at_least
+                                  and a.years >= rules.hide_if_years_at_least else
+                                  "clearance/citizenship" if a.blocker else "other")
+        funnel[f"{cat}: {why}"] += 1
+        if a.status == "old" and not j.description:
+            funnel[f"{cat}: no text from {j.ats}"] += 1
         state["seen"][j.uid] = today
         if a.location_class == "non_us" or a.status == "old":
             continue
@@ -776,7 +798,7 @@ def run(args) -> int:
         view = cfg.get("report") or {}
         if view.get("order") == "newest":
             write_report(build_newest_report(tz_name, total_boards, now=now, view=view, closed=set(closed),
-                                             extra_lines=report_extra))
+                                             extra_lines=report_extra, rules=rules))
         else:
             write_report(build_report(tz_name, total_boards, now=now, profile=prof, closed=set(closed), handled=handled))
         if rules.ranker is not None:      # SKILLS_<PROFILE>.md next to the report
@@ -828,6 +850,8 @@ def run(args) -> int:
         summary += (f" Employer boards: {len(coverage)} read, {stats['focus_full']} read completely, "
                     f"{stats['focus_zero']} listed nothing or failed (see coverage.csv).")
     log.info(summary)
+    if funnel:
+        log.info("Funnel (title matches this run): " + "; ".join(f"{k} {v}" for k, v in sorted(funnel.items())))
     for w in board_warnings:
         log.warning("Board may be broken: %s", w)
     step_summary = os.environ.get("GITHUB_STEP_SUMMARY")
