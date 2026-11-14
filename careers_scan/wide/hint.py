@@ -8,12 +8,27 @@ import re
 import time
 from datetime import datetime, timezone
 
-from ..detect import analyze, match_vendor
+from ..detect import APPLY_BY_EMAIL_RE, _soup, analyze, match_vendor
 from ..fetch import Page, decode_body
 from ..scan import FIELDS, Company, Evidence, Scanner
 from ..urls import canon, registrable_domain
 
 BLOCK_STATUS = (401, 403, 429, 503)
+_EMAIL_ACTION = re.compile(
+    r"\b(?:email|e-mail|send|submit|forward|mail)\b.{0,90}"
+    r"\b(?:résumé|resume|c\.?v\.?|application|cover letter|portfolio|documents?|your work|showreel)\b"
+    r"|\b(?:to apply|applications? (?:to|by)|apply by email)\b",
+    re.I,
+)
+_FORM_UPLOAD = re.compile(r"\b(?:resume|résumé|c\.?v\.?|cover letter|application documents)\b", re.I)
+
+
+def employment_form(html: str) -> bool:
+    for form in _soup(html).find_all("form"):
+        if form.find("input", type="file") and _FORM_UPLOAD.search(form.get_text(" ", strip=True)):
+            return True
+    return False
+
 # Job titles in IT / software / infrastructure (decides which sites are re-read daily).
 TECH_RE = re.compile(
     r"\b(software|developer|devops|sre|site reliability|platform engineer|infrastructure|cloud|sysadmin|"
@@ -27,6 +42,14 @@ class HintScanner(Scanner):
     """Build with HintScanner(fetcher, probe=False). `fetcher` needs .page(url) -> Page, like fetch.Fetcher."""
     max_pages = 5      # page fetches per site (robots.txt not counted)
     max_detail = 2     # single-job pages opened when the listing shows no apply route
+
+    def _take_page(self, ev: Evidence, info, careers_page: bool, where: str,
+                   domains: set[str] | None = None) -> None:
+        # A general HR/contact inbox on a careers page does not establish an application route.
+        info.emails = [(email, kind, snippet) for email, kind, snippet in info.emails
+                       if _EMAIL_ACTION.search(snippet)
+                       or (APPLY_BY_EMAIL_RE.search(snippet) and "application documents" not in snippet.lower())]
+        super()._take_page(ev, info, careers_page, where, domains)
 
     def scan_hint(self, domain: str, url: str, alt_url: str = "", name: str = "") -> tuple[dict, dict]:
         """-> (row with scan.FIELDS, page) where page = url/html/title/text of the careers page that was read."""
@@ -89,6 +112,8 @@ class HintScanner(Scanner):
                 if not page["html"]:
                     page.update(url=pg.url, html=pg.text, title=info.title, text=info.text)
             self._take_vendor_links(ev, info, c, domains, True, where)
+            if "<form" in pg.text.lower() and employment_form(pg.text):
+                ev.add_vendor("form", "employer_form", pg.url, where)
             self._take_page(ev, info, True, where, domains)
             for score, link in info.careers_links[:2]:  # "See open roles" on a landing page
                 if not link.vendor and registrable_domain(link.url) in domains:
@@ -102,6 +127,9 @@ class HintScanner(Scanner):
                         queue.append((link.url, True))
         row = self._finish(row, ev, pages, c=c, domain=domain, home_info=first_info, home_error=first_error,
                            blocked_home=blocked)
+        # Preserve a recognized alternative application route even when the page gives an email option.
+        if row["category"] == "email" and (ev.forms or ev.boards):
+            row["category"] = "form" if ev.forms else "external_board"
         return row, page
 
 

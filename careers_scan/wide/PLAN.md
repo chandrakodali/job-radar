@@ -304,7 +304,10 @@ Two files, modelled on `careers-scan.yml` (same action versions, same commit-ret
 Real Parquet uses a timezone-aware timestamp. Cast it to text in DuckDB before fetching Python rows.
 The initial smoke artifact contained one email-classified domain. Its page did give email application
 instructions, but described a Toronto clinic that was marked location-unknown. Explicit Canadian city
-location phrases now count as non-US when the page has no US signal.
+location phrases now count as non-US when the page has no US signal. A supplementary sample of
+30 email classifications from eight index files exposed general contact addresses and employer-hosted
+application forms. Email classification now requires application wording near the address and gives
+recognized alternative application routes precedence.
 
 Add `.github/workflows/wide-smoke.yml`, triggered by `pull_request` on `careers_scan/wide/**` and
 `.github/workflows/wide-*.yml`, plus `workflow_dispatch`. One job, about 15 minutes, writes nothing to the release:

@@ -137,7 +137,7 @@ def test_hint_other_outcomes():
 
 
 def test_archive_copy_and_signals():
-    html = "<title>Careers</title><p>Email jobs@acme.com — café</p>".encode()
+    html = "<title>Careers</title><p>Email your CV to jobs@acme.com — café</p>".encode()
     http = b"HTTP/1.1 200 OK\r\nContent-Type: text/html; charset=utf-8\r\n\r\n" + html
     rec = b"WARC/1.0\r\nWARC-Type: response\r\nWARC-Target-URI: https://acme.com/careers\r\n\r\n" + http + b"\r\n\r\n"
     text = hint.parse_warc_record(gzip.compress(rec))
@@ -149,10 +149,23 @@ def test_archive_copy_and_signals():
     assert hint.us_class("123 Main St, Austin, TX 78701. Call (512) 555-1212. Equal Opportunity Employer.") == "us"
     assert hint.us_class("Acme Ltd, London, United Kingdom. Salary £40,000. +44 20 7946 0000") == "non_us"
     assert hint.us_class("We are a physiotherapy clinic in Toronto. Email your resume.") == "non_us"
-    assert hint.us_class("Our US office is in Austin, TX, with a team in Toronto.") == "us"
+    assert hint.us_class("Our United States office is in Austin, TX, with a team in Toronto.") == "us"
     assert hint.us_class("We build software.") == "unknown"
     g = hint.guess_name
     assert g('<meta property="og:site_name" content="RANE Network">', "RANE Careers", "ranenetwork.com") == "RANE Network"
     assert g("", "Careers | Acme Corp", "acme.com") == "Acme Corp" and g("", "Jobs at Initech", "initech.com") == "Initech"
     assert g("", "Careers", "blue-sky.io") == "Blue Sky"
     assert hint.TECH_RE.search("Junior DevOps Engineer") and not hint.TECH_RE.search("Enterprise Account Manager")
+
+
+
+def test_hint_requires_application_evidence_and_labels_alternative_form():
+    url = "https://acme.com/careers"
+    inbox = "<title>Careers</title><h1>Open positions</h1><p>Questions? hr@acme.com</p>"
+    row, _, _ = scan({url: inbox}, "acme.com", url)
+    assert row["category"] == "careers_page_unclear" and not row["apply_emails"]
+    email = "<title>Jobs</title><p>Send your résumé to hr@acme.com</p>"
+    form = '<form method="post"><label>Upload your CV<input type="file"></label></form>'
+    row, _, _ = scan({url: email + form}, "acme.com", url)
+    assert row["category"] == "form"
+    assert row["apply_emails"] == "hr@acme.com" and row["form_url"] == url
