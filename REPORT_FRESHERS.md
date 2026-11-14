@@ -1,12 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**488 jobs**, newest first. Updated Fri Nov 13, 10:12 PM CST from 7,552 company job boards and other sources.
+**488 jobs**, newest first. Updated Fri Nov 13, 11:13 PM CST from 7,552 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-78 repeat listings (same company and title in another place or on another source) are merged into one row.
+79 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 231 matching jobs that job sites and feeds listed this week, 40 (17%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 310 matching jobs that job sites and feeds listed this week, 53 (17%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 13 (134)](#friday-nov-13-134) · [Thu 12 (98)](#thursday-nov-12-98) · [Wed 11 (98)](#wednesday-nov-11-98) · [Tue 10 (76)](#tuesday-nov-10-76) · [Mon 9 (70)](#monday-nov-9-70) · [Sun 8 (7)](#sunday-nov-8-7) · [Sat 7 (5)](#saturday-nov-7-5)
 
@@ -14,7 +14,7 @@ Jump to: [Fri 13 (134)](#friday-nov-13-134) · [Thu 12 (98)](#thursday-nov-12-98
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
-| 5:43 PM | [Gallery Housekeeping Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/42118) | RH | Detroit, MI, United States +4 more | 75 | entry-level title |
+| 10:09 PM | [Gallery Housekeeping Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/42206) | RH | Charlotte, NC, United States +5 more | 75 | entry-level title |
 | 5:30 PM | [Administrative Support Team Associate, Poughkeepsie Galleria - Part T…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825033) | Macy's | Poughkeepsie, NY, United States | 85 | entry-level title; 1+ yrs exp |
 | 5:30 PM | [Seasonal Fulfillment and Receiving Support Associate, Pembroke Lakes](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825017) | Macy's | Pembroke Pines, FL, United States | 75 | entry-level title |
 | 5:28 PM | [Seasonal Fulfillment and Receiving Support Associate, Stonebriar Cent…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_824903) | Macy's | Frisco, TX, United States | 75 | entry-level title |
