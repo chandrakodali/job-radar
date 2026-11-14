@@ -1,18 +1,17 @@
-import sys, os, time
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from radar import ats as A
-from radar.models import Board
-
-from radar.match import classify_location
-for ats, board in [("amazon","us"),("apple","usa"),("ibm","us"),("tiktok","us")]:
-    t=time.time()
+import requests, json, re
+s=requests.Session(); s.headers["User-Agent"]="job-radar/1.0 (personal job search tool; +https://github.com/chandrakodali/job-radar)"
+U="https://www-api.ibm.com/search/api/v2"
+src=["_id","title","url","description","field_keyword_17","field_keyword_18","field_keyword_19","field_keyword_05","field_keyword_08","field_date_01","field_text_01"]
+def q(label, body):
+    r=s.post(U,json=body,timeout=30)
     try:
-        jobs=A.LISTERS[ats](Board(ats=ats,board=board,company=""))
-        us=sum(1 for j in jobs if classify_location(j.location,j.countries)!="non_us")
-        print("BIG",ats,"jobs",len(jobs),"us",us,"secs",round(time.time()-t),"| sample:",[(j.title,j.location,str(j.posted_at)[:10],j.company,len(j.description or "")) for j in jobs[:3]])
-        if ats=="ibm" and jobs:
-            A.DETAILERS["ibm"](jobs[0]); print("   ibm detail:",jobs[0].posted_at,len(jobs[0].description or ""))
-    except Exception as e: print("BIG",ats,"ERR",type(e).__name__,str(e)[:300])
-try:
-    from radar.store import load_boards; c=[b for b in load_boards() if b.ats in ("amazon","apple","ibm","tiktok")]; print("LOADED",[(b.ats,b.board) for b in c])
-except Exception as e: print("LOAD ERR",e)
+        d=r.json(); h=d.get("hits",{}); hh=h.get("hits",[])
+        print("IBM",label,r.status_code,"total",h.get("total"),"n",len(hh),"|",[ (x["_source"].get("title"),x["_source"].get("field_keyword_19")) for x in hh[:3]], "| keys", list((hh[0]["_source"] if hh else {}).items())[:12])
+    except Exception: print("IBM",label,r.status_code,r.text[:300])
+base={"appId":"careers","scopes":["careers2"],"lang":"zz","_source":src,"sort":[{"_score":"desc"},{"pageviews":"desc"}]}
+sq=lambda t: {"bool":{"must":[{"simple_query_string":{"query":t,"fields":["keywords^1","body^1","url^2","description^2","h1s_content^2","title^3","field_text_01"]}}]}}
+q("eng100", {**base,"query":sq("engineer"),"size":100,"sm":{"query":"engineer","lang":"zz"}})
+q("eng100from100", {**base,"query":sq("engineer"),"size":100,"from":100,"sm":{"query":"engineer","lang":"zz"}})
+q("star", {**base,"query":sq("*"),"size":100,"sm":{"query":"*","lang":"zz"}})
+q("matchall_sm", {**base,"query":{"bool":{"must":[{"match_all":{}}]}},"size":100,"sm":{"query":"","lang":"zz"}})
+q("us_filter", {**base,"query":{"bool":{"must":[{"simple_query_string":{"query":"engineer","fields":["title^3","description^2"]}}],"filter":[{"match_phrase":{"field_keyword_05":"United States"}}]}},"size":100,"sm":{"query":"engineer","lang":"zz"}})

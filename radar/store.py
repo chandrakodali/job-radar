@@ -37,6 +37,12 @@ VALID_ATS = {"greenhouse", "lever", "ashby", "smartrecruiters", "workday", "orac
              "icims", "jazzhr", "jobvite", "sfrmk", "paylocity", "taleo", "avature", "phenom", "eightfold", "jibe",
              "breezy", "pinpoint", "teamtailor", "dover", "gem", "ukg", "dayforce", "adp", "manatal", "hireology",
              "oorwin", "mcloud", "dspace", "ldsite", "ukgready"}
+# every system the radar can read (radar/ats.py and radar/ats_more.py), plus "auto"
+try:
+    from .ats import LISTERS as _L
+    VALID_ATS = VALID_ATS | set(_L)
+except ImportError:  # pragma: no cover
+    pass
 
 
 def _truthy(v) -> bool:
