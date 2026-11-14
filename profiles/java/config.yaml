@@ -37,6 +37,7 @@ titles:
   - \bkotlin\b.{0,25}\b(developer|engineer)\b
   - \bscala\b.{0,25}\b(developer|engineer)\b
   exclude:
+  - \b(leader|leadership)\b
   - \bstaff\b
   - \bprincipal\b
   - \blead\b
