@@ -1,16 +1,16 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**679 jobs**, newest first. Updated Sat Nov 14, 4:19 PM CST from 10,713 company job boards and other sources.
+**680 jobs**, newest first. Updated Sat Nov 14, 5:20 PM CST from 10,713 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 201 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 715 matching jobs that job sites and feeds listed this week, 124 (17%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 731 matching jobs that job sites and feeds listed this week, 127 (17%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sat 14 (133)](#saturday-nov-14-133) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (111)](#wednesday-nov-11-111) · [Tue 10 (88)](#tuesday-nov-10-88) · [Mon 9 (79)](#monday-nov-9-79) · [Sun 8 (9)](#sunday-nov-8-9) · [Sat 7 (1)](#saturday-nov-7-1)
+Jump to: [Sat 14 (134)](#saturday-nov-14-134) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (111)](#wednesday-nov-11-111) · [Tue 10 (88)](#tuesday-nov-10-88) · [Mon 9 (79)](#monday-nov-9-79) · [Sun 8 (9)](#sunday-nov-8-9) · [Sat 7 (1)](#saturday-nov-7-1)
 
-## Saturday, Nov 14 (133)
+## Saturday, Nov 14 (134)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -143,6 +143,7 @@ Jump to: [Sat 14 (133)](#saturday-nov-14-133) · [Fri 13 (148)](#friday-nov-13-1
 | 2:10 PM (seen) | [Software Engineer, Ads Data](https://lifeattiktok.com/search/7555651631808858375) | TikTok | San Jose, California, United States of … | 60 | 1+ yrs exp |
 | 2:10 PM (seen) | [Software Engineer, Global CRM Platform](https://lifeattiktok.com/search/7281061641377106234) | TikTok | San Jose, California, United States of … | 70 | 1+ yrs exp; entry level (from the text) |
 | 2:10 PM (seen) | [SW Developer / AI Center of Excellence - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131165) | IBM | Austin, United States (hybrid) | 65 | entry level (from the text) |
+| date only | [Front End Associate](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Fair-Oaks-CA-95628/Front-End-Associate_REQ176782-1) | TJX | Fair Oaks, CA 95628 | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Cherry Creek](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825116) | Macy's | Denver, CO, United States | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Town Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825084) | Macy's | Kennesaw, GA, United States | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Trumbull](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825085) | Macy's | Trumbull, CT, United States | 75 | entry-level title |
@@ -729,13 +730,14 @@ Jump to: [Sat 14 (133)](#saturday-nov-14-133) · [Fri 13 (148)](#friday-nov-13-1
 |---|---|---|---|---:|---|
 | 10:57 PM | [Support Engineer, PAYGO](https://jobs.ashbyhq.com/exa/f4dd7ae8-cf72-4634-b708-742601b9061c) | Exa | Remote (remote) | 60 | entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2749)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2753)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 6:38 PM | [SATCOM Systems Engineer (Hybrid- Aberdeen Proving Ground)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9312ef-f8ad-43d2-926b-12997288c359&ccId=19000101_000001&jobId=9201590872782_1&lang=en_US) | 1B9312Ef F8Ad 43D2 926B 12997… | US;  US;  US;  US;  US;  US; Middletown… | 45 | rules: 5+ yrs exp; needs: Secret clearance |
+| 5:20 PM (seen) | [Backend Developer](https://app.dover.com/apply/agencyanalytics/e16f027a-c786-476f-b4ff-1a50d5b0e8d2) | Agencyanalytics |  (onsite) | 30 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
 | 4:19 PM (seen) | [Software Engineer](https://app.dover.com/apply/atomic-invest/536f1a4a-901c-4b29-a4e0-3b96ea99ddac) | Atomic Invest | New York City, NY; United States (hybrid) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 3:12 PM | [Software Engineer, iOS](https://jobs.ashbyhq.com/mirage/d9805fdf-950e-45ec-b9be-be18f1cb6b5e) | Mirage | Union Square, New York City | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 3:12 PM | [Software Engineer, Backend](https://jobs.ashbyhq.com/mirage/5de29162-c5ca-41ad-b8fa-e4bfa8a2b145) | Mirage | Union Square, New York City | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -868,9 +870,10 @@ Jump to: [Sat 14 (133)](#saturday-nov-14-133) · [Fri 13 (148)](#friday-nov-13-1
 | date only | [Data Scientist, Dynamic Pricing](https://turo.wd12.myworkdayjobs.com/Turo_careers/job/San-Francisco/Data-Scientist--Dynamic-Pricing_R-102761) | Turo | San Francisco | 80 | rules: 2+ yrs exp; E-Verify; asks for 2+ years of experience |
 | date only | [Software Development Engineer, AWS](https://www.amazon.jobs/en/jobs/10605142/software-development-engineer-aws) | Amazon.com Services LLC | Seattle, Washington, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Business Analyst, Listing Analytics](https://www.amazon.jobs/en/jobs/10605139/business-analyst-listing-analytics) | Amazon.com Services LLC | Seattle, Washington, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [Software Engineer, Data Systems](https://nvidia.eightfold.ai/careers/job/893398445696) | Nvidia | Santa Clara, CA, US; Austin, TX, US (onsite) | 50 | rules: 12+ yrs exp; asks for 12+ years of experience |
-| date only | [Software Engineer, Performance Instrumentation](https://nvidia.eightfold.ai/careers/job/893398445710) | Nvidia | Santa Clara, CA, US; Austin, TX, US (onsite) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| date only | [Software Engineer, ML Performance](https://nvidia.eightfold.ai/careers/job/893398445721) | Nvidia | Santa Clara, CA, US; Austin, TX, US (onsite) | 50 | rules: 12+ yrs exp; asks for 12+ years of experience |
+| date only | [Software Engineer, Data Systems](https://nvidia.eightfold.ai/careers/job/893398445696) | Nvidia | Santa Clara, CA, US; Austin, TX, US +1 … (onsite) | 50 | rules: 12+ yrs exp; asks for 12+ years of experience |
+| date only | [Software Engineer, Performance Instrumentation](https://nvidia.eightfold.ai/careers/job/893398445710) | Nvidia | Santa Clara, CA, US; Austin, TX, US +1 … (onsite) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| date only | [Software Engineer, ML Performance](https://nvidia.eightfold.ai/careers/job/893398445721) | Nvidia | Santa Clara, CA, US; Austin, TX, US +1 … (onsite) | 50 | rules: 12+ yrs exp; asks for 12+ years of experience |
+| date only | [Production Test Lab Engineer, Amazon Leo, Space Simulation Lab](https://www.amazon.jobs/en/jobs/10605423/production-test-lab-engineer-amazon-leo-space-simulation-lab) | Amazon Kuiper Manufacturing E… | Kirkland, Washington, USA | 75 | rules: 2+ yrs exp; needs: must be a U.S. citizen |
 | 5:28 AM | [Space Planner Technology Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016861926-space-planner-technology-specialist) | Cityofnewyork | New York City, NY, United States | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 5:26 AM | [Junior Engineer (Design)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016861836-junior-engineer-design-) | Cityofnewyork | New York City, NY, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
 | 12:05 AM | [Network Security and Firewall Engineer - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4391) | City of Oklahoma City | Oklahoma  City, OK, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -1133,7 +1136,5 @@ Jump to: [Sat 14 (133)](#saturday-nov-14-133) · [Fri 13 (148)](#friday-nov-13-1
 | date only | [Reporting Specialist](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Reporting-Specialist_R0055954-1) | HCSC | IL - Chicago | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [Systems Engineer](https://harriscomputer.wd3.myworkdayjobs.com/1/job/New-Jersey-United-States/Expert-Systems-Engineer_R0045715) | Harris Computer | New Jersey, United States +1 more | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [AI Solutions Engineer](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Tennessee-United-States/AI-Solutions-Engineer_R0047498-4) | Harris Computer | Tennessee, United States; Remote - Mich… (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [Data Scientist](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Data-Scientist_46470) | Guidehouse | US - VA, Arlington | 45 | rules: 5+ yrs exp; needs: security clearance |
-| date only | [Leadership Support Specialist](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Leadership-Support-Specialist_46399) | Guidehouse | US - VA, Arlington | 60 | rules: 3+ yrs exp; needs: security clearance |
 
 </details>

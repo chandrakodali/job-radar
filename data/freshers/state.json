@@ -5,17 +5,23 @@
   "adp:00f2efdd-7a27-4b0b-af2a-2e4da1695f31|19000101_000001": "2026-11-14",
   "adp:02835ad7-1b2e-4eb2-9773-3454d03b1a3e|19000101_000001": "2026-11-14",
   "adp:0330dee1-d933-49d0-805d-d480b2ad35af": "2026-11-14",
+  "adp:03c2f092-b213-42ad-98be-1a01f1276c5d|19000101_000001": "2026-11-14",
   "adp:041a8516-be7e-4672-aab7-91b78e278f9c": "2026-11-14",
   "adp:051afe4b-f534-4720-b472-7300b0723581|19000101_000001": "2026-11-14",
   "adp:05e5e948-9a00-4598-9208-3bda34dbb84a": "2026-11-14",
   "adp:0607f7e2-b2c8-4bd9-9db0-502820edc413|19000101_000001": "2026-11-14",
+  "adp:06472eab-d22b-49e9-a347-2042e7031d01|19000101_000001": "2026-11-14",
   "adp:0655c20d-f878-4e56-9c6b-a3e48a1b5717|19000101_000001": "2026-11-14",
   "adp:06e8462a-bdce-4e42-b8ed-8adec4f0424c|1586553101862011_1979": "2026-11-14",
   "adp:06ec3714-79b1-4967-99a2-e96fbbbde2d0|19000101_000001": "2026-11-14",
   "adp:06f7e303-2ac6-4787-bb76-3a23edc80e6a|19000101_000001": "2026-11-14",
+  "adp:07299349-a3c4-4907-95a8-134329e452f8": "2026-11-14",
   "adp:072ac661-78b4-4259-913b-1cf1df7f40b4": "2026-11-14",
   "adp:07a0ee07-3f74-462b-ae89-ff976e804f36|19000101_000001": "2026-11-14",
   "adp:0885b537-c9f5-47f8-aa4f-0ad7bbebf412|9200900703747_2": "2026-11-14",
+  "adp:08d4c38c-d278-4717-8f2c-7829194ce351": "2026-11-14",
+  "adp:08f195f0-beb6-4255-a019-dbc8691ab8e8|9200570872864_2": "2026-11-14",
+  "adp:09cf6c26-5d02-479b-a160-3d90e1991813|19000101_000001": "2026-11-14",
   "adp:09dede8a-c0c9-4db8-a7e5-418d9ef9deb1|19000101_000001": "2026-11-14",
   "adp:0ac9c872-8815-465b-b05a-caa90545c4d1|19000101_000001": "2026-11-14",
   "adp:0b279ef4-70b5-43b5-9b1c-ebf799fd2e4c": "2026-11-14",
@@ -2747,7 +2753,9 @@
   "dover:adept-scientific": "2026-11-14",
   "dover:aergility": "2026-11-14",
   "dover:agency": "2026-11-14",
+  "dover:agencyanalytics": "2026-11-14",
   "dover:agilemd": "2026-11-13",
+  "dover:akeshya": "2026-11-14",
   "dover:akomi": "2026-11-14",
   "dover:aktivate": "2026-11-14",
   "dover:alapaiglobal": "2026-11-14",
@@ -2761,9 +2769,11 @@
   "dover:anyday": "2026-11-14",
   "dover:apparatusai": "2026-11-14",
   "dover:arctrs": "2026-11-14",
+  "dover:arlo": "2026-11-14",
   "dover:aroramktg": "2026-11-14",
   "dover:askelephant": "2026-11-14",
   "dover:atomic-invest": "2026-11-14",
+  "dover:atomic13": "2026-11-14",
   "dover:audacyinc": "2026-11-14",
   "dover:augment-markets": "2026-11-14",
   "dover:authorclimb": "2026-11-14",
@@ -6742,9 +6752,20 @@
   "paylocity:031092c6-135e-4ac0-a86a-6ebb8f6c0a79": "2026-11-14",
   "paylocity:031133dc-c4a4-4cc9-898e-7d5cd52f5ee5": "2026-11-14",
   "paylocity:04927b97-13ba-41c8-afe1-ac78a8acf450": "2026-11-14",
+  "paylocity:05a8347a-7060-4310-b2be-d19fa27a6518": "2026-11-14",
   "paylocity:06144481-7908-457c-9312-51cf7b58cf01": "2026-11-14",
   "paylocity:06b3cfd5-88b3-498c-847c-9e1687852028": "2026-11-14",
   "paylocity:07314255-f13e-4c20-b80c-2b4022218dc8": "2026-11-14",
+  "paylocity:076ee35d-2815-45ca-a6dc-38be74644a87": "2026-11-14",
+  "paylocity:08628d28-fa0d-4893-b85a-43b78653901b": "2026-11-14",
+  "paylocity:086af4d0-3dbe-4019-87ba-444c7e2661ac": "2026-11-14",
+  "paylocity:08741992-5802-4419-a6eb-fbb58d6ac948": "2026-11-14",
+  "paylocity:08c3bc4f-8161-4d98-b8f9-9289db30f8a1": "2026-11-14",
+  "paylocity:093ed2b1-ab2f-4a60-9277-0def6b949b65": "2026-11-14",
+  "paylocity:0a5e3ff1-7892-4cad-8ae3-5be8d4fb306a": "2026-11-14",
+  "paylocity:0a72dcd6-2616-4d0e-9946-d3a182c43706": "2026-11-14",
+  "paylocity:0a7d4d9a-bc92-4826-8481-a7946feb088e": "2026-11-14",
+  "paylocity:0b0e65d8-0e53-499c-b510-583fa42f82ed": "2026-11-14",
   "paylocity:1078af34-40eb-4989-83a3-3a2138324f69": "2026-11-14",
   "paylocity:10c8ea62-0f5a-43ec-9ac1-4863af798914": "2026-11-14",
   "paylocity:10d74e65-36ac-49d3-bd03-22487604cb5e": "2026-11-14",
@@ -6762,10 +6783,19 @@
   "paylocity:144df5a8-264d-4a35-9139-e420cb899b95": "2026-11-14",
   "paylocity:1457d9fd-ff47-44b7-b56a-13fa323378cd": "2026-11-14",
   "paylocity:146a3a13-476a-4520-a409-2d46af632aba": "2026-11-14",
+  "paylocity:146c5804-5603-4f3b-a61c-c9046e8a6402": "2026-11-14",
   "paylocity:14724750-0d96-417c-acb1-743bcf1738b7": "2026-11-14",
   "paylocity:14a2c663-08c2-4749-a338-1b08bb553b1b": "2026-11-14",
   "paylocity:14bb98e5-6efc-4bd8-b6d7-b899ea185e15": "2026-11-14",
+  "paylocity:14d6aeae-9baa-4185-89ad-d560e1f995b5": "2026-11-14",
   "paylocity:14feca87-1841-4117-9aeb-924b0e905c19": "2026-11-14",
+  "paylocity:151cf0dc-bb18-4bc1-aed7-ede5fa8751d7": "2026-11-14",
+  "paylocity:1522b41d-3314-412e-b7bb-e5a496819a0c": "2026-11-14",
+  "paylocity:15382744-2999-4398-9009-4518be8ab530": "2026-11-14",
+  "paylocity:15429871-4587-40f2-97cb-c556d2c7da74": "2026-11-14",
+  "paylocity:15fcedf0-0123-4940-9e8d-d1e2a1d84a32": "2026-11-14",
+  "paylocity:166807f1-aa37-437d-850d-574006357319": "2026-11-14",
+  "paylocity:16cc662c-21d1-4ff2-b5fd-a9de53f5b71a": "2026-11-14",
   "personio:1komma5grad.jobs.personio.de": "2026-11-14",
   "personio:360t.jobs.personio.de": "2026-11-14",
   "personio:420pharma.jobs.personio.de": "2026-11-14",
@@ -9843,17 +9873,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 27,
+   "n": 28,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 27,
+   "n": 28,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 27,
+   "n": 28,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -10577,8 +10607,9 @@
    "since": "2026-11-13"
   },
   "pinpoint:heapy": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /postings.json",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "pinpoint:interactsoftware": {
@@ -11223,16 +11254,16 @@
    "n": 3,
    "since": "2026-11-13"
   },
+  "workday:bdo|wd3|BDO": {
+   "err": "HTTP 401",
+   "n": 1,
+   "since": "2026-11-14"
+  },
   "workday:boarshead|wd1|BHC": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 403",
    "n": 3,
    "since": "2026-11-13"
-  },
-  "workday:calibercollision|wd1|protech": {
-   "err": "invalid JSON",
-   "n": 19,
-   "since": "2026-11-14"
   },
   "workday:cambiahealth|wd1|External": {
    "disabled_until": "2026-11-20",
@@ -11290,7 +11321,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 25,
+   "n": 26,
    "since": "2026-11-13"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11337,7 +11368,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 22,
+   "n": 23,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -11438,12 +11469,12 @@
   },
   "workday:pru|wd5|Careers": {
    "err": "invalid JSON",
-   "n": 20,
+   "n": 21,
    "since": "2026-11-13"
   },
   "workday:pru|wd5|pgim_careers": {
    "err": "invalid JSON",
-   "n": 20,
+   "n": 21,
    "since": "2026-11-13"
   },
   "workday:rappi|wd12|es": {
@@ -11464,21 +11495,11 @@
    "n": 3,
    "since": "2026-11-13"
   },
-  "workday:regions|wd5|regions_careers": {
-   "err": "invalid JSON",
-   "n": 21,
-   "since": "2026-11-13"
-  },
   "workday:ryan|wd1|Students-Graduates": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
    "n": 16,
    "since": "2026-11-14"
-  },
-  "workday:ryder|wd5|RyderCareers": {
-   "err": "invalid JSON",
-   "n": 20,
-   "since": "2026-11-13"
   },
   "workday:salesforce|wd1|External_Career_Site": {
    "disabled_until": "2026-11-20",
@@ -11506,7 +11527,7 @@
   },
   "workday:target|wd5|targetcareers": {
    "err": "invalid JSON",
-   "n": 21,
+   "n": 22,
    "since": "2026-11-13"
   },
   "workday:usicinc|wd5|USICCareers": {
@@ -11584,6 +11605,7 @@
   "Kraft & Kennedy": "2026-11-14",
   "Manac Trailers USA Inc": "2026-11-14",
   "Medplum": "2026-11-14",
+  "Method Financial": "2026-11-14",
   "Multi Media LLC": "2026-11-14",
   "Neal R Gross & Co": "2026-11-14",
   "Neuberger Berman": "2026-11-14",
@@ -11613,8 +11635,8 @@
    154
   ],
   "2026-11-14": [
-   97,
-   561
+   100,
+   577
   ]
  },
  "resolved": {
@@ -54066,7 +54088,9 @@
   }
  },
  "seen": {
+  "adp:03c2f092-b213-42ad-98be-1a01f1276c5d|19000101_000001:9201243989919_1": "2026-11-14",
   "adp:05e5e948-9a00-4598-9208-3bda34dbb84a:9201923568112_26": "2026-11-14",
+  "adp:08f195f0-beb6-4255-a019-dbc8691ab8e8|9200570872864_2:9201114529551_7": "2026-11-14",
   "adp:0bb77723-5db8-455b-a01c-54257189f090|19000101_000001:9205256171045_3": "2026-11-14",
   "adp:13265e28-926d-49ea-89e4-e9dff2a17b49|19000101_000003:9207504996607_37": "2026-11-14",
   "adp:18688a6c-b976-480c-a7a7-a0c92ecf44f2:9207421535459_5": "2026-11-14",
@@ -54293,6 +54317,7 @@
   "amazon:us:10605103": "2026-11-14",
   "amazon:us:10605139": "2026-11-14",
   "amazon:us:10605142": "2026-11-14",
+  "amazon:us:10605423": "2026-11-14",
   "apple:usa:200555687": "2026-11-14",
   "apple:usa:200607680": "2026-11-14",
   "apple:usa:200637194": "2026-11-14",
@@ -56673,6 +56698,7 @@
   "dover:activeloop:333760f0-d8cc-4d90-b762-8a686020c3e9": "2026-11-13",
   "dover:aergility:8d9e8cb3-9e9f-42df-b27a-c93d2fc5ded2": "2026-11-14",
   "dover:agency:f96e29e8-3b63-4739-99a7-45d376246750": "2026-11-14",
+  "dover:agencyanalytics:e16f027a-c786-476f-b4ff-1a50d5b0e8d2": "2026-11-14",
   "dover:akomi:81fd0ebb-8f22-4a0d-a7dc-16f85df57e6e": "2026-11-14",
   "dover:aldego:51f88339-de3a-4754-b139-3c01393a6aca": "2026-11-14",
   "dover:alex:9fd26ab4-7d37-4dce-96d9-7a269cc0ff1e": "2026-11-14",
@@ -56780,6 +56806,7 @@
   "eightfold:mercadolibre:45520009": "2026-11-14",
   "eightfold:micron:39786384": "2026-11-14",
   "eightfold:micron:45500268": "2026-11-14",
+  "eightfold:micron:45500814": "2026-11-14",
   "eightfold:morganstanley:549794721569": "2026-11-14",
   "eightfold:morganstanley:549797565648": "2026-11-14",
   "eightfold:morganstanley:549800008226": "2026-11-14",
@@ -61792,6 +61819,7 @@
   "paylocity:02c4e8fd-ffb0-47a3-9727-3c58348dd80d:4606751": "2026-11-14",
   "paylocity:030d20cc-6443-4d57-ae17-8dd3f58e11f8:1495204": "2026-11-14",
   "paylocity:031092c6-135e-4ac0-a86a-6ebb8f6c0a79:4660873": "2026-11-14",
+  "paylocity:05a8347a-7060-4310-b2be-d19fa27a6518:4599421": "2026-11-14",
   "paylocity:07314255-f13e-4c20-b80c-2b4022218dc8:4642461": "2026-11-14",
   "paylocity:1457d9fd-ff47-44b7-b56a-13fa323378cd:4632453": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL1443405EXTERNALENGLOBAL": "2026-11-13",
@@ -66810,6 +66838,9 @@
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2028307": "2026-11-13",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2028887": "2026-11-13",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2028908": "2026-11-13",
+  "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2028978": "2026-11-14",
+  "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2028979": "2026-11-14",
+  "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2028980": "2026-11-14",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2029586": "2026-11-13",
   "workday:nwis|wd12|NW:01677525": "2026-11-13",
   "workday:nwis|wd12|NW:JR100873": "2026-11-13",
@@ -67417,6 +67448,7 @@
   "workday:tjx|wd1|tjx_external:REQ146769": "2026-11-13",
   "workday:tjx|wd1|tjx_external:REQ156915": "2026-11-14",
   "workday:tjx|wd1|tjx_external:REQ176307": "2026-11-13",
+  "workday:tjx|wd1|tjx_external:REQ176782": "2026-11-14",
   "workday:tmobile|wd1|External:REQ361398": "2026-11-14",
   "workday:tmobile|wd1|External:REQ366253": "2026-11-13",
   "workday:tmobile|wd1|External:REQ375195": "2026-11-14",
@@ -67768,6 +67800,7 @@
   "workday:zoom|wd5|zoom:R19815": "2026-11-13",
   "workday:zoom|wd5|zoom:R19851": "2026-11-13",
   "yc:workatastartup:111719": "2026-11-14",
+  "yc:workatastartup:116014": "2026-11-14",
   "yc:workatastartup:116108": "2026-11-14",
   "yc:workatastartup:119086": "2026-11-14",
   "yc:workatastartup:120006": "2026-11-14",
@@ -67885,7 +67918,7 @@
  },
  "source_last": {
   "workable_search": "2026-11-14T20:59:07+00:00",
-  "yc": "2026-11-14T20:10:55+00:00"
+  "yc": "2026-11-14T23:20:13+00:00"
  },
  "title_rules": "6b5ea35ba28d",
  "version": 1
