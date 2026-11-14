@@ -18,7 +18,7 @@ import re
 import sys
 import threading
 import time
-from collections import Counter
+from collections import defaultdict, Counter
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from concurrent.futures import TimeoutError as FuturesTimeout
 from datetime import date, datetime, timedelta, timezone
@@ -49,7 +49,7 @@ log = logging.getLogger("radar")
 
 LIST_CONCURRENCY = {"greenhouse": 8, "lever": 6, "ashby": 6, "smartrecruiters": 4, "workday": 10,
                     "oracle": 8, "workable": 2, "rippling": 6, "bamboohr": 6, "recruitee": 4}
-DETAIL_CONCURRENCY = {"greenhouse": 8, "smartrecruiters": 4, "workday": 8, "oracle": 6, "workable": 4,
+DETAIL_CONCURRENCY = {"yc": 2, "greenhouse": 8, "smartrecruiters": 4, "workday": 8, "oracle": 6, "workable": 4,
                       "rippling": 6, "bamboohr": 6}
 for _ats, _n in ats_more.CONCURRENCY.items():
     LIST_CONCURRENCY.setdefault(_ats, _n)
@@ -231,8 +231,9 @@ def run(args) -> int:
 
     robot = robots.Robots(state.setdefault("robots", {}), today)
     robots.install(robot)
-    sems = {k: threading.Semaphore(v) for k, v in LIST_CONCURRENCY.items()}
-    dsems = {k: threading.Semaphore(v) for k, v in DETAIL_CONCURRENCY.items()}
+    # any system or source missing from the tables gets a small default instead of crashing the run
+    sems = defaultdict(lambda: threading.Semaphore(2), {k: threading.Semaphore(v) for k, v in LIST_CONCURRENCY.items()})
+    dsems = defaultdict(lambda: threading.Semaphore(2), {k: threading.Semaphore(v) for k, v in DETAIL_CONCURRENCY.items()})
     stats = Counter()
     errors = Counter()
     deadline = t0 + budget
