@@ -2788,8 +2788,33 @@
   "dover:backbone": "2026-11-14",
   "dover:band": "2026-11-14",
   "dover:beakpointinsights": "2026-11-14",
+  "dover:belfry": "2026-11-14",
+  "dover:belva-ai": "2026-11-14",
+  "dover:betriax": "2026-11-14",
+  "dover:beyondlabs-cf291676": "2026-11-14",
+  "dover:biztechjobs": "2026-11-14",
+  "dover:blue-voice-inc": "2026-11-14",
+  "dover:blueharlan": "2026-11-14",
+  "dover:bontuteur": "2026-11-14",
+  "dover:brinc-drones": "2026-11-14",
+  "dover:bubblesortrecruiting": "2026-11-14",
+  "dover:buildontimbercareers": "2026-11-14",
+  "dover:buildplaybooks": "2026-11-14",
+  "dover:c-gen-ai": "2026-11-14",
+  "dover:capitol": "2026-11-14",
+  "dover:careerflow": "2026-11-14",
+  "dover:carusoneconstruction": "2026-11-14",
+  "dover:casaphq": "2026-11-14",
   "dover:castle": "2026-11-11",
+  "dover:centurainc": "2026-11-14",
   "dover:chasi": "2026-11-11",
+  "dover:cherrymoss": "2026-11-14",
+  "dover:cicero": "2026-11-14",
+  "dover:clad": "2026-11-14",
+  "dover:clarahealth": "2026-11-14",
+  "dover:cloudforgesoftware": "2026-11-14",
+  "dover:cloudwaveinc": "2026-11-14",
+  "dover:codeclimate": "2026-11-14",
   "dover:codingal": "2026-11-11",
   "dover:conduit": "2026-11-11",
   "dover:dots": "2026-11-11",
@@ -6773,6 +6798,10 @@
   "paylocity:086af4d0-3dbe-4019-87ba-444c7e2661ac": "2026-11-14",
   "paylocity:08741992-5802-4419-a6eb-fbb58d6ac948": "2026-11-14",
   "paylocity:08eac160-0a1e-4180-8eb0-8381757e63b5": "2026-11-14",
+  "paylocity:0ebade6c-b3ec-4b29-900b-5303ca374b90": "2026-11-14",
+  "paylocity:0eed7c03-694e-454b-8e29-7abbbc8e65b5": "2026-11-14",
+  "paylocity:0f3ed00e-4291-47c3-99cb-5d052bd19190": "2026-11-14",
+  "paylocity:0fe25160-2fdc-4463-8886-028a240c27a0": "2026-11-14",
   "paylocity:1078af34-40eb-4989-83a3-3a2138324f69": "2026-11-14",
   "paylocity:10c8ea62-0f5a-43ec-9ac1-4863af798914": "2026-11-14",
   "paylocity:10d74e65-36ac-49d3-bd03-22487604cb5e": "2026-11-14",
@@ -9919,17 +9948,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 68,
+   "n": 69,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 68,
+   "n": 69,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 68,
+   "n": 69,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12397,11 +12426,6 @@
    "n": 3,
    "since": "2026-11-11"
   },
-  "workday:calibercollision|wd1|protech": {
-   "err": "invalid JSON",
-   "n": 34,
-   "since": "2026-11-14"
-  },
   "workday:cambiahealth|wd1|External": {
    "disabled_until": "2026-11-18",
    "err": "HTTP 422",
@@ -12458,7 +12482,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 68,
+   "n": 69,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12505,7 +12529,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 40,
+   "n": 41,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -12612,12 +12636,12 @@
   },
   "workday:pru|wd5|Careers": {
    "err": "invalid JSON",
-   "n": 39,
+   "n": 40,
    "since": "2026-11-13"
   },
   "workday:pru|wd5|pgim_careers": {
    "err": "invalid JSON",
-   "n": 38,
+   "n": 39,
    "since": "2026-11-13"
   },
   "workday:rappi|wd12|es": {
@@ -12640,7 +12664,7 @@
   },
   "workday:regions|wd5|regions_careers": {
    "err": "invalid JSON",
-   "n": 39,
+   "n": 40,
    "since": "2026-11-13"
   },
   "workday:ryan|wd1|Students-Graduates": {
@@ -12651,7 +12675,7 @@
   },
   "workday:ryder|wd5|RyderCareers": {
    "err": "invalid JSON",
-   "n": 39,
+   "n": 40,
    "since": "2026-11-13"
   },
   "workday:salesforce|wd1|External_Career_Site": {
@@ -12680,7 +12704,7 @@
   },
   "workday:target|wd5|targetcareers": {
    "err": "invalid JSON",
-   "n": 39,
+   "n": 40,
    "since": "2026-11-13"
   },
   "workday:usicinc|wd5|USICCareers": {
@@ -12779,8 +12803,8 @@
    197
   ],
   "2026-11-14": [
-   45,
-   314
+   46,
+   318
   ]
  },
  "resolved": {
@@ -55950,6 +55974,7 @@
   "dayforce:twh|CANDIDATEPORTAL:3879": "2026-11-14",
   "dayforce:ultimus|CANDIDATEPORTAL:6780": "2026-11-14",
   "dayforce:ultimus|CANDIDATEPORTAL:6782": "2026-11-14",
+  "dover:c-gen-ai:2ddc9bab-82c0-4554-bc2e-7b023e3bc5d9": "2026-11-14",
   "dover:weaverobotics:5b7bf24e-a8dc-40a3-86a7-5ff4e929b49c": "2026-11-11",
   "eightfold:dsm:562949978859630": "2026-11-14",
   "eightfold:eaton|eaton.com:687239541052": "2026-11-09",
@@ -57376,6 +57401,7 @@
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210804903": "2026-11-13",
   "oracle:tulane-ibqejb.fa.ocs.oraclecloud.com|CX_1:2295": "2026-11-10",
   "paylocity:05a8347a-7060-4310-b2be-d19fa27a6518:4599421": "2026-11-14",
+  "paylocity:0f3ed00e-4291-47c3-99cb-5d052bd19190:4648212": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2019204EXTERNALENGLOBAL": "2026-11-12",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2025650EXTERNALENGLOBAL": "2026-11-12",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026031EXTERNALENGLOBAL": "2026-11-12",
@@ -58912,12 +58938,12 @@
  },
  "source_last": {
   "hn": "2026-11-14T20:37:21+00:00",
-  "remoteok": "2026-11-14T20:37:21+00:00",
+  "remoteok": "2026-11-14T22:37:14+00:00",
   "usajobs": "2026-11-14T20:37:21+00:00",
   "workable_search": "2026-11-14T20:37:21+00:00",
-  "wwr": "2026-11-14T21:37:20+00:00",
+  "wwr": "2026-11-14T22:37:14+00:00",
   "yc": "2026-11-14T20:37:21+00:00"
  },
- "title_rules": "40fbd1858c98",
+ "title_rules": "15160d40994f",
  "version": 1
 }
