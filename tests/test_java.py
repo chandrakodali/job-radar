@@ -63,3 +63,17 @@ def test_job_text(title, cat, desc, want):
     assert ("keep" if a.status in ("alert", "quiet") else a.status) == want, a.flags
     if want == "keep" and cat == "bridge":
         assert "requires Java" in a.flags
+
+
+from radar.match import classify_location  # noqa: E402
+
+
+@pytest.mark.parametrize("place,want", [
+    ("Brasil", "non_us"), ("São Paulo, Brasil", "non_us"), ("Ciudad de México", "non_us"), ("München", "non_us"),
+    ("España", "non_us"), ("Zürich", "non_us"), ("Warszawa", "non_us"), ("Montréal", "non_us"), ("Remote, LATAM", "non_us"),
+    ("Berlin, DE", "non_us"), ("Toronto, CA", "non_us"), ("Delhi, IN", "non_us"),
+    ("Dublin, CA", "us"), ("Rome, GA", "us"), ("Birmingham, AL", "us"), ("Paris, TX", "us"), ("New Mexico", "us"),
+    ("Albuquerque, New Mexico", "us"), ("Austin, TX", "us"), ("Remote - US", "us"),
+])
+def test_locations(place, want):
+    assert classify_location(place, []) == want

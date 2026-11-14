@@ -87,6 +87,26 @@ _CJK = re.compile(r"[\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af]")
 _US_COUNTRY_CODES = {"us", "usa", "united states", "united states of america", "u.s.", "u.s.a."}
 
 
+# Country and city names in their own languages (boards outside the US often write them this way).
+NON_US_LOCAL = re.compile(
+    r"\b(brasil|s[ãa]o paulo|rio de janeiro|belo horizonte|curitiba|florian[óo]polis|(?<!new )m[ée]xico|ciudad de|"
+    r"guadalajara|monterrey|deutschland|m[üu]nchen|k[öo]ln|d[üu]sseldorf|espa[ñn]a|[öo]sterreich|wien|schweiz|suisse|"
+    r"svizzera|z[üu]rich|gen[èe]ve|italia|milano|roma|torino|polska|warszawa|krak[óo]w|wroc[łl]aw|pozna[ńn]|gda[ńn]sk|"
+    r"nederland|belgi[qëe]u?e?|sverige|g[öo]teborg|danmark|k[øo]benhavn|norge|suomi|t[üu]rkiye|[čc]esk[oáa]|praha|"
+    r"rom[âa]nia|bucure[şșs]ti|cluj|magyarorsz[áa]g|per[úu]|bogot[áa]|medell[íi]n|lisboa|qu[ée]bec|montr[ée]al|"
+    r"h[ồo] ch[íi] minh|h[àa] n[ộo]i|latam|latin america|emea|apac)\b", re.I)
+
+
+# US cities named after foreign ones, written with a state code that is also a country code ("Dublin, CA").
+_US_TWINS = re.compile(
+    r"\b(dublin|pleasanton|san ramon),\s*ca\b|\b(rome|athens|columbus|albany|milan|vienna|berlin|dublin),\s*ga\b|"
+    r"\b(cambridge|manchester|plymouth|berlin|lexington|andover|bedford|lincoln|salem),\s*ma\b|"
+    r"\b(birmingham|florence|athens|madrid|dublin|london|berlin|naples|vienna|lima|hamburg|paris|geneva|toledo|"
+    r"moscow|cairo|warsaw|lisbon|belgrade|odessa|alexandria|stockholm|oxford|frankfort|versailles|delhi|"
+    r"dresden|hanover|bristol|valencia|amsterdam|rotterdam|copenhagen|holland|london),\s*(al|ga|id|pa|"
+    r"me|mn|mo|sc|sd|tn|co|ar|mt|md)\b", re.I)
+
+
 def classify_location(text: str, countries: list[str] | None = None) -> str:
     """Return 'us', 'non_us' or 'unknown'."""
     countries = [c.strip().lower() for c in (countries or []) if c and c.strip()]
@@ -95,15 +115,15 @@ def classify_location(text: str, countries: list[str] | None = None) -> str:
             return "us"
         # Greenhouse "offices" can be cities/regions rather than countries; only trust clear signals.
         joined = "; ".join(countries)
-        if NON_US.search(joined) or all(len(c) == 2 for c in countries):
+        if NON_US.search(joined) or NON_US_LOCAL.search(joined) or all(len(c) == 2 for c in countries):
             if not _text_says_us(text):
                 return "non_us"
     t = text or ""
-    if _text_says_us(t):
+    if _text_says_us(t) or _US_TWINS.search(t):
         return "us"
     if any(a not in _AMBIG_ABBR for a in _ABBR_RE.findall(t)):
         return "us"  # e.g. "Lebanon, NH", "Paris, TX", "Panama City, FL"
-    if NON_US.search(t):
+    if NON_US.search(t) or NON_US_LOCAL.search(t):
         return "non_us"
     if _ABBR_RE.search(t):
         return "us"

@@ -217,7 +217,9 @@ def build_newest_report(tz_name: str, boards_total: int, now: datetime | None = 
     v = view or {}
     days = int(v.get("days", 7))
     start = now - timedelta(days=days)
-    rows = [r for r in read_matches(since=start - timedelta(days=1)) if r["uid"] not in closed]
+    from .match import classify_location
+    rows = [r for r in read_matches(since=start - timedelta(days=1)) if r["uid"] not in closed
+            and classify_location(r.get("location") or "", []) != "non_us"]   # saved before a location fix
     hide = int(v.get("hide_years", 0))
     for r in rows:   # rows saved before the years rule existed
         m = re.search(r"(\d+)\+ yrs exp", r.get("flags") or "")
