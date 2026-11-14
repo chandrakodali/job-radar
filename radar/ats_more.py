@@ -1335,14 +1335,15 @@ def apple_list(b: Board, max_pages: int = 25, max_age_days: int = 10) -> list[Jo
     return jobs
 
 
-def ibm_list(b: Board, size: int = 100, max_pages: int = 30) -> list[Job]:
+def ibm_list(b: Board, size: int = 100, max_pages: int = 45) -> list[Job]:
     url = "https://www-api.ibm.com/search/api/v2"
     jobs, seen = [], set()
     for page in range(max_pages):
         data = post_json(url, {
             "appId": "careers", "scopes": ["careers2"], "size": size, "from": page * size, "lang": "zz",
-            "query": {"bool": {"must": [{"match_all": {}}]}}, "sort": [{"_score": "desc"}],
-            "_source": ["_id", "title", "url", "description", "field_keyword_17", "field_keyword_18", "field_keyword_19"]})
+            "query": {"bool": {"must": [{"simple_query_string": {"query": "*", "fields": ["title^3", "description^2"]}}]}},
+            "sm": {"query": "*", "lang": "zz"}, "sort": [{"_score": "desc"}, {"pageviews": "desc"}],
+            "_source": ["_id", "title", "url", "description", "field_keyword_05", "field_keyword_17", "field_keyword_19"]})
         hits = ((data.get("hits") or {}).get("hits")) or []
         for h in hits:
             src = h.get("_source") or {}
@@ -1350,7 +1351,7 @@ def ibm_list(b: Board, size: int = 100, max_pages: int = 30) -> list[Job]:
             m = re.search(r"jobId=(\d+)", u)
             jid = m.group(1) if m else h.get("_id", "")
             loc = src.get("field_keyword_19") or ""
-            if not jid or jid in seen or not re.search(r"(,\s*US$|United States)", loc):
+            if not jid or jid in seen or (src.get("field_keyword_05") or "") != "United States":
                 continue
             seen.add(jid)
             jobs.append(_job(b, job_id=jid, title=(src.get("title") or "").strip(), company="IBM",

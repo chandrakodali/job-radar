@@ -22,6 +22,21 @@ Finds new **entry-friendly DevOps, SRE, cloud, platform and infrastructure jobs 
 - Employers seen on other sources but not yet watched, and employers that filed H-1B LCAs for DevOps/SRE/cloud titles (public DOL data), are tried as new boards by the weekly board finder.
 - It alerts you on strong matches and sends a **daily digest** at 8 AM Central time. No AI is used for this radar.
 
+## Where the jobs come from
+
+| | Read directly | Notes |
+|---|---|---|
+| **Main career sites** | Greenhouse, Lever, Ashby, Workable, SmartRecruiters, Workday | every board every run; Workday back 7 days, with search on very large boards |
+| **More hiring systems** | iCIMS, JazzHR, Jobvite, Pinpoint, Breezy HR, Recruitee, Rippling, Teamtailor, Homerun, Gem, Dover, Paylocity, Zoho Recruit, Personio, JOIN, Dayforce, Avature, Oracle Cloud, ADP, CATS, CareerPuck, BambooHR, SAP SuccessFactors, Taleo, Phenom, Eightfold, UKG, Manatal, Hireology | the weekly board finder looks for new company boards on all of them (Common Crawl index) |
+| **Company career pages** | Amazon, Apple, IBM, TikTok; any site with a job sitemap + schema.org JobPosting data | |
+| **Job sites and feeds** | Workable job search, Y Combinator startup jobs (Work at a Startup), Adzuna, USAJOBS, Hacker News "Who is hiring?", Remote OK, We Work Remotely | a job is listed once, from the employer's own board when it has it |
+| **Through your job-alert emails** | LinkedIn, Indeed, Glassdoor, Dice, ZipRecruiter, Built In, Wellfound | their terms or robots.txt don't allow automated reading |
+
+Not read, by their own rules: Trakstar Hire, Microsoft, Netflix, Google and Uber careers (robots.txt blocks
+automated reading). Skipped for now: Keka and Factorial (careers API not public / site errors), TriNet Hire,
+TalentReef (hourly retail and restaurant jobs), Notion job pages (no structured job data), Remote Rocketship
+(re-lists jobs from company boards the radar already reads).
+
 ## IT Entry-Level Radar
 
 **[Open the report →](REPORT_FRESHERS.md)** · page: `https://chandrakodali.github.io/job-radar/freshers/`
