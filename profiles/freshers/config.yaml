@@ -179,6 +179,8 @@ exclude_companies:
 workday:
   shards: 1
   max_pages: 15
+  search_terms: ['junior', 'associate', 'entry level', 'new grad', 'early career', 'graduate', 'engineer I']   # big boards: also search these
+  search_pages: 2
 notify:
   daily_digest_hour_local: 8
   timezone: America/Chicago

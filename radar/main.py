@@ -251,7 +251,24 @@ def run(args) -> int:
                 if b.focus:
                     jobs = deep.deep_list(b, terms, search_cfg, stats)
                 elif b.ats == "workday":
-                    jobs = ATS.workday_list(b, max_pages=int(wd_cfg.get("max_pages", 5)))
+                    mp = int(wd_cfg.get("max_pages", 5))
+                    jobs = ATS.workday_list(b, max_pages=mp, us_only=True)
+                    # A big employer posts more in a week than the pages reach: also run the board's own
+                    # search for the profile's terms, so matching jobs aren't crowded out.
+                    if len(jobs) >= mp * 20 * 0.95 and wd_cfg.get("search_terms"):
+                        have = {j.uid for j in jobs}
+                        stats["workday_capped"] += 1
+                        for term in wd_cfg["search_terms"]:
+                            try:
+                                more = ATS.workday_list(b, max_pages=int(wd_cfg.get("search_pages", 3)),
+                                                        search=term, us_only=True)
+                            except FetchError:
+                                break
+                            for j in more:
+                                if j.uid not in have:
+                                    have.add(j.uid)
+                                    j.found_by = ""
+                                    jobs.append(j)
                 else:
                     jobs = ATS.LISTERS[b.ats](b)
                 return b, jobs, None

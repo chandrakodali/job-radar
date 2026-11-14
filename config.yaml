@@ -331,6 +331,8 @@ exclude_companies:
 workday:
   shards: 1
   max_pages: 15
+  search_terms: ['devops', 'site reliability', 'sre', 'cloud engineer', 'platform engineer', 'infrastructure engineer', 'kubernetes', 'systems development engineer']   # big boards: also search these
+  search_pages: 3
 
 notify:
   daily_digest_hour_local: 8      # send a daily summary at this hour
