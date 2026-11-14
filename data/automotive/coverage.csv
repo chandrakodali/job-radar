@@ -1,35 +1,35 @@
 company,ats,board,jobs_listed,read_completely,open_matches,note
-Adient,workday,adient|wd3|External,0,,0,error: invalid JSON; lists nothing now (listed 87 before)
-Allegro MicroSystems,workday,allegromicro|wd5|AllegroCareers,0,,0,error: HTTP 521; lists nothing now (listed 11 before)
+Adient,workday,adient|wd3|External,87,yes,0,
+Allegro MicroSystems,workday,allegromicro|wd5|AllegroCareers,0,,0,error: invalid JSON; lists nothing now (listed 11 before)
 Apex.AI,lever,apex-ai,7,,0,
 Autoliv,teamtailor,careerunitedstates.autoliv.com,59,,0,
 BRP,phenom,careers.brp.com|global/en,280,,0,
 Continental,smartrecruiters,continental,86,,0,
-Denso,oracle,hcwt.fa.us2.oraclecloud.com|CX,92,,0,
+Denso,oracle,hcwt.fa.us2.oraclecloud.com|CX,79,,0,
 Elektrobit,smartrecruiters,Elektrobit,0,,0,
 Faraday Future,greenhouse,faradayfuture,74,,0,
 GILLIG,greenhouse,gillig,0,,0,
 Hyundai AutoEver America,jazzhr,hyundaiautoeveramerica,78,,0,
 Joby Aviation,icims,careers-jobyaviation.icims.com,157,,0,
-Komatsu,sfrmk,komatsu.jobs,0,,0,error: HTTP 404; lists nothing now (listed 298 before)
+Komatsu,sfrmk,komatsu.jobs,297,,0,
 KOSTAL,smartrecruiters,kostalgroup,6,,0,
 Lear,sfrmk,jobs.lear.com,298,,0,
 LG Electronics,greenhouse,lgelectronics,130,,0,
-Mazda,workday,@mazdausa|wd5|Mazda,13,yes,0,
-Michelin,workday,michelinhr|wd3|Michelin,0,,0,error: invalid JSON; lists nothing now (listed 110 before)
+Mazda,workday,@mazdausa|wd5|Mazda,0,,0,error: invalid JSON; lists nothing now (listed 13 before)
+Michelin,workday,michelinhr|wd3|Michelin,110,yes,0,
 Mitsubishi Motors North America,greenhouse,mitsubishimotorsna,8,,0,
 New Eagle,adp,e7b68190-d64b-4649-81ca-3ffb914ba1fe|19000101_000001,4,,0,
-PHINIA,workday,phinia|wd5|PHINIA_Careers,0,,0,error: HTTP 521; lists nothing now (listed 17 before)
-Polestar,workday,polestar|wd3|Careers,0,,0,error: invalid JSON
+PHINIA,workday,phinia|wd5|PHINIA_Careers,0,,0,error: invalid JSON; lists nothing now (listed 17 before)
+Polestar,workday,polestar|wd3|Careers,0,yes,0,
 Pony.ai,workable,pony-dot-ai,9,,0,
-Sensata,workday,sensata|wd1|Sensata-Careers,0,,0,error: HTTP 521; lists nothing now (listed 39 before)
-Subaru,oracle,hcal.fa.us2.oraclecloud.com|CX_1001,36,,0,
+Sensata,workday,sensata|wd1|Sensata-Careers,0,,0,error: invalid JSON; lists nothing now (listed 39 before)
+Subaru,oracle,hcal.fa.us2.oraclecloud.com|CX_1001,28,,0,
 Sumitomo Electric Wiring Systems,jobvite,sews,48,,0,
-Tenneco,sfrmk,jobs.tenneco.com,0,,0,error: HTTP 404; lists nothing now (listed 253 before)
-Terex,workday,terex|wd1|terexcareers,0,,0,error: HTTP 521; lists nothing now (listed 463 before)
+Tenneco,sfrmk,jobs.tenneco.com,253,,0,
+Terex,workday,terex|wd1|terexcareers,0,,0,error: invalid JSON; lists nothing now (listed 463 before)
 Textron,taleo,textron|textron,75,,0,
 thyssenkrupp,sfrmk,jobs.thyssenkrupp.com,817,,0,
-Toyota,workday,toyota|wd503|tmna,110,yes,0,
+Toyota,workday,toyota|wd503|tmna,109,yes,0,
 Toyota Research Institute,lever,tri,42,,0,
 Visteon,ukg,recruiting.ultipro.com|VIS1004VIST|6ea71e1c-667f-4ddc-9024-5966baaa3256,,,0,not reached this run
 Volkswagen Group of America,smartrecruiters,VolkswagenGroupOfAmerica,0,,0,
@@ -37,13 +37,13 @@ Volvo Cars,sfrmk,jobs.volvocars.com,48,,0,
 WeRide,lever,weride,12,,0,
 Wisk,workday,wisk|wd108|Wisk_Careers,0,yes,0,
 Aeva,lever,aeva,46,,3,
-AGCO,sfrmk,careers.agcocorp.com,0,,1,error: HTTP 404; lists nothing now (listed 333 before)
-Allison Transmission,workday,allisontransmission|wd1|ATI-External,0,,1,error: HTTP 521; lists nothing now (listed 14 before)
+AGCO,sfrmk,careers.agcocorp.com,333,,1,
+Allison Transmission,workday,allisontransmission|wd1|ATI-External,0,,1,error: invalid JSON; lists nothing now (listed 14 before)
 ALTEN Technology USA,greenhouse,altentechnologyusa,226,,29,
 Ambarella,workday,ambarella|wd108|ambarella,46,yes,1,
-Analog Devices,workday,analogdevices|wd1|External,0,,17,error: HTTP 521; lists nothing now (listed 309 before)
+Analog Devices,workday,analogdevices|wd1|External,0,,17,error: invalid JSON; lists nothing now (listed 309 before)
 Applied Intuition,ashby,applied,325,,24,
-Aptiv,workday,aptiv|wd5|aptiv_careers,0,,12,error: HTTP 521
+Aptiv,workday,aptiv|wd5|aptiv_careers,0,,12,error: invalid JSON
 Archer Aviation,greenhouse,archer56,82,,2,
 Astemo,workday,astemo|wd102|Global_Career_Site,365,yes,7,
 Aumovio,smartrecruiters,Aumovio,15,,1,
@@ -51,70 +51,70 @@ Aurora Innovation,ashby,aurora-operations-inc,83,,5,
 AVL,sfrmk,jobs.avl.com,211,,3,
 Bendix (Knorr-Bremse),sfrmk,careers.knorr-bremse.com,389,,3,
 BMW Group,sfrmk,jobs.bmwgroup.com,754,,3,
-BorgWarner,workday,borgwarner|wd5|BorgWarner_Careers,0,,10,error: HTTP 521; lists nothing now (listed 163 before)
+BorgWarner,workday,borgwarner|wd5|BorgWarner_Careers,0,,10,error: invalid JSON; lists nothing now (listed 163 before)
 Bosch,smartrecruiters,BoschGroup,352,,19,
 Bose,phenom,careers.bose.com|us/en,101,,8,
 Bot Auto,greenhouse,botauto,22,,1,
-Brunswick (Mercury Marine),workday,brunswick|wd1|search,0,,1,error: HTTP 521; lists nothing now (listed 327 before)
-Capgemini,sfrmk,careers.capgemini.com,5070,,20,
-Carrier,workday,carrier|wd5|jobs,0,,6,error: HTTP 521; lists nothing now (listed 401 before)
-Caterpillar,workday,cat|wd5|caterpillarcareers,0,,40,error: HTTP 521; lists nothing now (listed 495 before)
+Brunswick (Mercury Marine),workday,brunswick|wd1|search,0,,1,error: invalid JSON; lists nothing now (listed 327 before)
+Capgemini,sfrmk,careers.capgemini.com,5049,,20,
+Carrier,workday,carrier|wd5|jobs,0,,6,error: invalid JSON; lists nothing now (listed 401 before)
+Caterpillar,workday,cat|wd5|caterpillarcareers,0,,40,error: invalid JSON; lists nothing now (listed 495 before)
 CNH,sfrmk,join.cnh.com,1988,,19,
-Crown Equipment,sfrmk,us-careers.crown.com,0,,6,error: HTTP 404; lists nothing now (listed 532 before)
-Cummins,oracle,fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,465,,8,
-Daimler Truck North America,workday,dtna|wd5|dtna_external,0,,2,error: HTTP 521; lists nothing now (listed 74 before)
-Dana,sfrmk,jobs.dana.com,0,,3,error: HTTP 404; lists nothing now (listed 347 before)
+Crown Equipment,sfrmk,us-careers.crown.com,531,,6,
+Cummins,oracle,fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,337,,8,
+Daimler Truck North America,workday,dtna|wd5|dtna_external,0,,2,error: invalid JSON; lists nothing now (listed 74 before)
+Dana,sfrmk,jobs.dana.com,347,,3,
 Dauch (American Axle),ldsite,careers.dauch.com/sitemap.xml|/job/.+/(\d+)/?$,375,,1,
-Doosan Bobcat,sfrmk,jobs.doosan.com,0,,1,error: HTTP 404; lists nothing now (listed 184 before)
+Doosan Bobcat,sfrmk,jobs.doosan.com,184,,1,
 dSPACE,dspace,www.dspace.com|en/inc/home/career/jobfinder/stellen.cfm,61,,4,
-Eaton,eightfold,eaton|eaton.com,402,,15,
+Eaton,eightfold,eaton|eaton.com,338,,15,
 Expleo (US),icims,expleo-jobs-us-en.icims.com,11,,2,
-Ford Motor Company,oracle,efds.fa.em5.oraclecloud.com|CX_1,449,,90,
+Ford Motor Company,oracle,efds.fa.em5.oraclecloud.com|CX_1,404,,90,
 Garmin,jibe,careers.garmin.com,448,,8,
-Garrett Motion,oracle,ehth.fa.em2.oraclecloud.com|CX_2001,59,,1,
+Garrett Motion,oracle,ehth.fa.em2.oraclecloud.com|CX_2001,53,,1,
 Gatik,greenhouse,gatikaiinc,67,,10,
-GE Aerospace,workday,geaerospace|wd5|GE_ExternalSite,0,,2,error: HTTP 521; lists nothing now (listed 591 before)
-General Motors,workday,generalmotors|wd5|Careers_GM,0,,60,error: HTTP 521; lists nothing now (listed 575 before)
-Gentex,workday,gentex|wd5|Gentex,0,,3,error: HTTP 521; lists nothing now (listed 63 before)
+GE Aerospace,workday,geaerospace|wd5|GE_ExternalSite,0,,2,error: invalid JSON; lists nothing now (listed 591 before)
+General Motors,workday,generalmotors|wd5|Careers_GM,0,,60,error: invalid JSON; lists nothing now (listed 575 before)
+Gentex,workday,gentex|wd5|Gentex,0,,3,error: invalid JSON; lists nothing now (listed 63 before)
 Harbinger Motors,greenhouse,harbingermotors,86,,8,
-Hitachi,workday,hitachi|wd1|hitachi,0,,3,error: HTTP 521; lists nothing now (listed 701 before)
-Honda,phenom,careers.honda.com|us/en,318,,8,
-Hyundai Motor Group (HATCI / Hyundai / Genesis),sfrmk,careers-americas.hyundai.com,0,,29,error: HTTP 404; lists nothing now (listed 258 before)
-Infineon,eightfold,infineon|infineon.com,340,,13,
+Hitachi,workday,hitachi|wd1|hitachi,0,,3,error: invalid JSON; lists nothing now (listed 701 before)
+Honda,phenom,careers.honda.com|us/en,313,,8,
+Hyundai Motor Group (HATCI / Hyundai / Genesis),sfrmk,careers-americas.hyundai.com,258,,29,
+Infineon,eightfold,infineon|infineon.com,345,,13,
 International Motors,jibe,careers.international.com,169,,1,
-John Deere,eightfold,johndeere|johndeere.com,176,,18,
+John Deere,eightfold,johndeere|johndeere.com,207,,18,
 JTEKT,dayforce,jtekt|candidateportal,50,,1,
 Kodiak Robotics,greenhouse,kodiak,49,,1,
 Kubota,dayforce,kubota|candidateportal,50,,2,
-Littelfuse,workday,littelfuse|wd1|Littelfuse-Careers,0,,1,error: HTTP 521; lists nothing now (listed 21 before)
+Littelfuse,workday,littelfuse|wd1|Littelfuse-Careers,0,,1,error: invalid JSON; lists nothing now (listed 21 before)
 Lucid Motors,greenhouse,lucidmotors,477,,37,
-Magna,workday,@magna|wd3|Magna,0,,11,error: invalid JSON; lists nothing now (listed 596 before)
-Marvell,workday,marvell|wd1|MarvellCareers,0,,8,error: HTTP 521; lists nothing now (listed 173 before)
+Magna,workday,@magna|wd3|Magna,595,yes,11,
+Marvell,workday,marvell|wd1|MarvellCareers,0,,8,error: invalid JSON; lists nothing now (listed 173 before)
 May Mobility,greenhouse,maymobility,36,,6,
-Methode Electronics,workday,methode|wd5|methode,0,,1,error: HTTP 521; lists nothing now (listed 32 before)
-Microchip Technology,workday,@microchiphr|wd5|External,237,yes,2,
-Moog,workday,moog|wd5|moog_external_career_site,0,,3,error: HTTP 521; lists nothing now (listed 479 before)
+Methode Electronics,workday,methode|wd5|methode,0,,1,error: invalid JSON; lists nothing now (listed 32 before)
+Microchip Technology,workday,@microchiphr|wd5|External,0,,2,error: invalid JSON; lists nothing now (listed 237 before)
+Moog,workday,moog|wd5|moog_external_career_site,0,,3,error: invalid JSON; lists nothing now (listed 479 before)
 Motional,greenhouse,motional,78,,9,
 New Flyer,workable,new-flyer,68,,1,
-Nidec,workday,nidec|wd1|nidec,0,,2,error: HTTP 521; lists nothing now (listed 366 before)
-Nissan,workday,alliance|wd3|nissanjobs,0,,1,error: invalid JSON; lists nothing now (listed 152 before)
+Nidec,workday,nidec|wd1|nidec,0,,2,error: invalid JSON; lists nothing now (listed 366 before)
+Nissan,workday,alliance|wd3|nissanjobs,152,yes,1,
 Nuro,greenhouse,nuro,100,,8,
-NVIDIA,workday,nvidia|wd5|NVIDIAExternalCareerSite,0,,52,error: HTTP 521; lists nothing now (listed 1402 before)
+NVIDIA,workday,nvidia|wd5|NVIDIAExternalCareerSite,0,,52,error: invalid JSON; lists nothing now (listed 1402 before)
 NXP Semiconductors,workday,nxp||careers,167,yes,5,
-onsemi,oracle,hctz.fa.us2.oraclecloud.com|CX_1001,375,,1,
-Oshkosh,workday,oshkoshcorporation|wd5|Oshkosh,0,,14,error: HTTP 521; lists nothing now (listed 508 before)
+onsemi,oracle,hctz.fa.us2.oraclecloud.com|CX_1001,302,,1,
+Oshkosh,workday,oshkoshcorporation|wd5|Oshkosh,0,,14,error: invalid JSON; lists nothing now (listed 508 before)
 Ouster,jazzhr,ouster,29,,4,
 Outrider,greenhouse,outrider,9,,3,
 PACCAR,sfrmk,jobs.paccar.com,323,,27,
 Panasonic North America,jibe,careers.na.panasonic.com,439,,2,
 Plus,lever,plus-2,45,,3,
-Polaris,workday,polaris|wd5|PolarisJobs,0,,2,error: HTTP 521; lists nothing now (listed 90 before)
-Qualcomm,eightfold,qualcomm|qualcomm.com,414,,43,
-Quest Global,phenom,careers.quest-global.com|global/en,628,,10,
+Polaris,workday,polaris|wd5|PolarisJobs,0,,2,error: invalid JSON; lists nothing now (listed 90 before)
+Qualcomm,eightfold,qualcomm|qualcomm.com,429,,43,
+Quest Global,phenom,careers.quest-global.com|global/en,577,,10,
 Renesas Electronics,smartrecruiters,renesaselectronics,216,,8,
-Rivian,jibe,careers.rivian.com,793,,39,
+Rivian,jibe,careers.rivian.com,856,,39,
 Rivian and Volkswagen Group Technologies,ashby,rivianvw.tech,182,,41,
-Rockwell Automation,workday,rockwellautomation|wd1|External_Rockwell_Automation,0,,4,error: HTTP 521; lists nothing now (listed 152 before)
+Rockwell Automation,workday,rockwellautomation|wd1|External_Rockwell_Automation,0,,4,error: invalid JSON; lists nothing now (listed 152 before)
 ROUSH,jazzhr,roush,64,,2,
 Schaeffler,sfrmk,jobs.schaeffler.com,683,,1,
 Scout Motors,greenhouse,scoutmotors,201,,8,
@@ -123,20 +123,20 @@ Slate Auto,workday,recar|wd108|SLATEcareers,118,yes,4,
 Sonatus,greenhouse,sonatus,17,,2,
 Stack AV,greenhouse,stackav,14,,3,
 Stellantis,mcloud,2016|careers.stellantis.com,454,,92,
-Stoneridge,workday,stoneridge|wd5|Careers,0,,2,error: HTTP 521
-TE Connectivity,sfrmk,careers.te.com,0,,1,error: HTTP 404; lists nothing now (listed 2418 before)
-TEKsystems,phenom,careers.teksystems.com|us/en,496,,1,
-Texas Instruments,oracle,edbz.fa.us2.oraclecloud.com|CX,417,,4,
+Stoneridge,workday,stoneridge|wd5|Careers,0,,2,error: invalid JSON
+TE Connectivity,sfrmk,careers.te.com,2417,,1,
+TEKsystems,phenom,careers.teksystems.com|us/en,436,,1,
+Texas Instruments,oracle,edbz.fa.us2.oraclecloud.com|CX,330,,4,
 Torc Robotics,greenhouse,torcrobotics,45,,10,
-Valeo,workday,valeo|wd3|valeo_jobs,0,,4,error: invalid JSON; lists nothing now (listed 91 before)
+Valeo,workday,valeo|wd3|valeo_jobs,91,yes,4,
 Vector North America,workable,vectornorthamerica,6,,1,
 Volkswagen Group,sfrmk,jobs.volkswagen-group.com,1078,,1,
-Volvo Group (Volvo Trucks / Mack),sfrmk,jobs.volvogroup.com,721,,1,
+Volvo Group (Volvo Trucks / Mack),sfrmk,jobs.volvogroup.com,723,,1,
 Waabi,lever,waabi,86,,8,
 Wabtec,smartrecruiters,Wabtec,335,,9,
 Waymo,greenhouse,waymo,373,,3,
 Wayve,ashby,wayve,167,,11,
-Woodward,workday,woodward|wd5|woodward,0,,1,error: HTTP 521; lists nothing now (listed 86 before)
+Woodward,workday,woodward|wd5|woodward,0,,1,error: invalid JSON; lists nothing now (listed 86 before)
 Woven by Toyota,lever,woven-by-toyota,136,,12,
 Xos Trucks,greenhouse,xosinc,13,,1,
 ZF,sfrmk,jobs.zf.com,771,,4,
