@@ -159,6 +159,7 @@ def main(argv=None):
     parser.add_argument("--profiles", default=PROFILE_PATHS)
     parser.add_argument("--max-detail", type=int, default=1500)
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--alerts-out", type=Path, help="write pending alerts for a publishing workflow")
     args = parser.parse_args(argv)
     if args.max_detail < 0:
         parser.error("--max-detail must be nonnegative")
@@ -168,6 +169,8 @@ def main(argv=None):
     with closing(connect(args.db)) as db:
         rows, alerts = assess(db, profiles, WideFetcher(), args.max_detail, now)
         write_reports(db, OUTPUT, rows, now, Path("wide-email-companies.csv.gz"))
+    if args.alerts_out:
+        args.alerts_out.write_text(json.dumps(alerts), encoding="utf-8")
     if not args.dry_run:
         send_alerts(alerts)
 
