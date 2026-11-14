@@ -1,0 +1,60 @@
+name: wide-smoke
+on:
+  pull_request:
+    paths:
+      - 'careers_scan/wide/**'
+      - 'careers_scan/tests/test_wide*.py'
+      - '.github/workflows/wide-*.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 22
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: pip install -r careers_scan/wide/requirements.txt -r requirements.txt
+      - run: python -m pytest careers_scan/tests -q
+      - name: Verify RANE email application
+        run: |
+          mkdir -p smoke
+          printf 'domain,url\nranenetwork.com,https://www.ranenetwork.com/about/career-page\n' > smoke/rane.csv
+          python -m careers_scan.wide.triage --worklist smoke/rane.csv --shard 0 --shards 1 --out smoke/rane.jsonl.gz
+          python - <<'PY'
+          import gzip
+          import json
+
+          with gzip.open("smoke/rane.jsonl.gz", "rt") as fh:
+              result = json.loads(fh.readline())
+          assert result["category"] == "email", result
+          assert "careers@ranenetwork.com" in result["apply_emails"].split(";"), result
+          PY
+      - name: Sweep one index file and triage up to 300 sites
+        run: |
+          python -m careers_scan.wide.ccindex paths --crawl latest --out smoke/paths.txt
+          python -m careers_scan.wide.ccindex sweep --paths smoke/paths.txt --shards 300 --shard 0 \
+            --limit-files 1 --deadline-minutes 8 --out smoke/cc.csv.gz
+          python -m careers_scan.wide.state candidates --db smoke/state.sqlite --csv smoke/cc.csv.gz --src smoke
+          python -m careers_scan.wide.state worklist --db smoke/state.sqlite --out smoke/worklist.csv --max 300
+          start=$SECONDS
+          python -m careers_scan.wide.triage --worklist smoke/worklist.csv --shard 0 --shards 1 \
+            --deadline-minutes 5 --out smoke/triage-0.jsonl.gz
+          elapsed=$(( SECONDS - start ))
+          python -m careers_scan.wide.state apply --db smoke/state.sqlite --results smoke
+          python -m careers_scan.wide.report --db smoke/state.sqlite --dry-run --max-detail 0
+          cp careers_scan/wide/{ROLES,SUMMARY}.md smoke/
+          cp careers_scan/wide/data/*.csv smoke/
+          {
+            echo "Sites in index file: $(gzip -dc smoke/cc.csv.gz | wc -l | awk '{print $1-1}')"
+            echo "Sites triaged per minute: $(gzip -dc smoke/triage-0.jsonl.gz | wc -l | awk -v t="$elapsed" '{printf "%.1f", $1*60/(t>0?t:1)}')"
+            cat smoke/SUMMARY.md
+          } >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: wide-smoke
+          path: smoke/

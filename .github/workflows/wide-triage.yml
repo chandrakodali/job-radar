@@ -1,0 +1,164 @@
+name: wide-triage
+on:
+  workflow_dispatch:
+    inputs:
+      max_sites:
+        description: Maximum sites to read
+        type: number
+        default: 60000
+      shards:
+        description: Number of matrix jobs
+        type: number
+        default: 4
+      dry_run:
+        description: Generate artifacts without publishing or sending alerts
+        type: boolean
+        default: false
+  schedule:
+    - cron: '29 3 * * *'
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: careers-wide
+  cancel-in-progress: false
+env:
+  GH_TOKEN: ${{ github.token }}
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      ready: ${{ steps.work.outputs.ready }}
+      shards: ${{ steps.work.outputs.shards }}
+      count: ${{ steps.work.outputs.count }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: pip install -r careers_scan/wide/requirements.txt -r requirements.txt
+      - id: work
+        env:
+          MAX_SITES: ${{ inputs.max_sites || 60000 }}
+          SHARDS: ${{ inputs.shards || 4 }}
+        run: |
+          if ! gh release view wide-data >/dev/null; then
+            echo "::notice::No wide sweep release yet"
+            exit 0
+          fi
+          assets=$(gh release view wide-data --json assets --jq '.assets[].name')
+          if ! grep -Fxq wide-state.sqlite.gz <<< "$assets"; then
+            echo "::notice::No wide state yet"
+            exit 0
+          fi
+          gh release download wide-data --pattern wide-state.sqlite.gz
+          gunzip wide-state.sqlite.gz
+          [[ "$SHARDS" =~ ^[1-9][0-9]*$ && "$SHARDS" -le 256 ]]
+          python -m careers_scan.wide.state worklist --db wide-state.sqlite --out worklist.csv --max "$MAX_SITES"
+          [[ $(wc -l < worklist.csv) -gt 1 ]] || exit 0
+          matrix=$(python -c 'import json,sys; print(json.dumps(list(range(int(sys.argv[1])))))' "$SHARDS")
+          printf 'ready=true\nshards=%s\ncount=%s\n' "$matrix" "$SHARDS" >> "$GITHUB_OUTPUT"
+      - uses: actions/upload-artifact@v4
+        if: steps.work.outputs.ready == 'true'
+        with:
+          name: wide-worklist
+          path: worklist.csv
+  triage:
+    needs: plan
+    if: needs.plan.outputs.ready == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 345
+    strategy:
+      fail-fast: false
+      max-parallel: 10
+      matrix:
+        shard: ${{ fromJSON(needs.plan.outputs.shards) }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: pip install -r careers_scan/wide/requirements.txt -r requirements.txt
+      - uses: actions/download-artifact@v4
+        with:
+          name: wide-worklist
+      - env:
+          S: ${{ matrix.shard }}
+          N: ${{ needs.plan.outputs.count }}
+        run: |
+          pids=()
+          for k in 0 1 2; do
+            python -m careers_scan.wide.triage --worklist worklist.csv --shard $((S + N*k)) --shards $((N*3)) \
+              --deadline-minutes 320 --out "out/triage-$S-$k.jsonl.gz" &
+            pids+=("$!")
+          done
+          failed=0
+          for pid in "${pids[@]}"; do wait "$pid" || failed=1; done
+          exit "$failed"
+      - uses: actions/upload-artifact@v4
+        if: success() || failure()
+        with:
+          name: triage-${{ matrix.shard }}
+          path: out/
+  merge:
+    needs: [plan, triage]
+    if: always() && !cancelled() && needs.plan.outputs.ready == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 50
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: pip install -r careers_scan/wide/requirements.txt -r requirements.txt
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: triage-*
+          path: out
+          merge-multiple: true
+      - env:
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          gh release download wide-data --pattern wide-state.sqlite.gz
+          gunzip wide-state.sqlite.gz
+          compgen -G 'out/triage-*.jsonl.gz' >/dev/null
+          python -m careers_scan.wide.state apply --db wide-state.sqlite --results out
+          python -m careers_scan.wide.report --db wide-state.sqlite --dry-run --alerts-out wide-alerts.json
+          cat careers_scan/wide/SUMMARY.md >> "$GITHUB_STEP_SUMMARY"
+          if [[ "$DRY_RUN" == true ]]; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add careers_scan/wide/ROLES.md careers_scan/wide/SUMMARY.md careers_scan/wide/data/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update wide careers reports'
+            pushed=false
+            for attempt in 1 2 3 4 5; do
+              if git pull --rebase -X theirs origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME"; then
+                pushed=true
+                break
+              fi
+              git rebase --abort 2>/dev/null || true
+              sleep $((attempt * 5))
+            done
+            [[ "$pushed" == true ]]
+          fi
+          gzip wide-state.sqlite
+          gh release upload wide-data wide-state.sqlite.gz wide-email-companies.csv.gz --clobber
+      - if: inputs.dry_run != true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+        run: |
+          python -c 'import json; from careers_scan.wide.report import send_alerts; send_alerts(json.load(open("wide-alerts.json")))'
+      - uses: actions/upload-artifact@v4
+        if: inputs.dry_run == true
+        with:
+          name: wide-triage-preview
+          path: |
+            careers_scan/wide/ROLES.md
+            careers_scan/wide/SUMMARY.md
+            careers_scan/wide/data/

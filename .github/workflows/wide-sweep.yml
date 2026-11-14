@@ -1,0 +1,135 @@
+name: wide-sweep
+on:
+  workflow_dispatch:
+    inputs:
+      crawl:
+        description: Common Crawl snapshot ID or latest
+        default: latest
+      limit_files:
+        description: Maximum files per shard (0 for all)
+        type: number
+        default: 0
+  schedule:
+    - cron: '17 6 6 * *'
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: careers-wide
+  cancel-in-progress: false
+env:
+  GH_TOKEN: ${{ github.token }}
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      crawl: ${{ steps.paths.outputs.crawl }}
+      skip: ${{ steps.paths.outputs.skip }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: pip install -r careers_scan/wide/requirements.txt -r requirements.txt
+      - run: python -m pytest careers_scan/tests -q
+      - id: paths
+        env:
+          CRAWL: ${{ inputs.crawl || 'latest' }}
+        run: |
+          [[ "$CRAWL" == latest || "$CRAWL" =~ ^CC-MAIN-[0-9]{4}-[0-9]{2}$ ]]
+          crawl=$(python -m careers_scan.wide.ccindex paths --crawl "$CRAWL" --out paths.txt)
+          gh release view wide-data || gh release create wide-data --target "$GITHUB_SHA" --title "Wide sweep data" --notes "Generated files of the US-wide careers sweep."
+          skip=false
+          if [[ "$GITHUB_EVENT_NAME" == schedule ]] && gh release view wide-data --json assets --jq '.assets[].name' | grep -Fxq "cc-complete-$crawl.txt"; then
+            skip=true
+          fi
+          printf 'crawl=%s\nskip=%s\n' "$crawl" "$skip" >> "$GITHUB_OUTPUT"
+      - uses: actions/upload-artifact@v4
+        if: steps.paths.outputs.skip == 'false'
+        with:
+          name: wide-index-paths
+          path: paths.txt
+  index:
+    needs: plan
+    if: needs.plan.outputs.skip == 'false'
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      max-parallel: 8
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: pip install -r careers_scan/wide/requirements.txt -r requirements.txt
+      - uses: actions/download-artifact@v4
+        with:
+          name: wide-index-paths
+      - env:
+          SHARD: ${{ matrix.shard }}
+          LIMIT: ${{ inputs.limit_files || 0 }}
+        run: |
+          python -m careers_scan.wide.ccindex sweep --paths paths.txt --shard "$SHARD" --shards 12 \
+            --limit-files "$LIMIT" --deadline-minutes 270 --out "out/cc-$SHARD.csv.gz"
+      - uses: actions/upload-artifact@v4
+        if: success() || failure()
+        with:
+          name: cc-${{ matrix.shard }}
+          path: out/
+          retention-days: 5
+  collect:
+    needs: [plan, index]
+    if: always() && !cancelled() && needs.plan.result == 'success' && needs.plan.outputs.skip == 'false'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: pip install -r careers_scan/wide/requirements.txt -r requirements.txt
+      - uses: actions/download-artifact@v4
+        with:
+          name: wide-index-paths
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: cc-*
+          path: out/
+      - env:
+          CRAWL: ${{ needs.plan.outputs.crawl }}
+          LIMIT: ${{ inputs.limit_files || 0 }}
+        run: |
+          candidates="cc-candidates-$CRAWL.csv.gz"
+          read_count=$(find out -name '*.done' -exec cat {} + | sort -u | wc -l | tr -d ' ')
+          total=$(wc -l < paths.txt | tr -d ' ')
+          echo "Index files read: $read_count of $total" >> "$GITHUB_STEP_SUMMARY"
+          if [[ "$LIMIT" != 0 ]]; then
+            python -m careers_scan.wide.ccindex merge --inputs out --out "preview/$candidates"
+            exit 0
+          fi
+          if [[ "$read_count" != "$total" || "$total" == 0 ]]; then
+            echo "Sweep was incomplete. Shard artifacts are available for review." >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          python -m careers_scan.wide.ccindex merge --inputs out --out "$candidates"
+          canary=$(python -m careers_scan.wide.state canary --csv "$candidates" --known careers_scan/data/no_job_board.csv)
+          echo "$canary" >> "$GITHUB_STEP_SUMMARY"
+          assets=$(gh release view wide-data --json assets --jq '.assets[].name')
+          if grep -Fxq wide-state.sqlite.gz <<< "$assets"; then
+            gh release download wide-data --pattern wide-state.sqlite.gz
+            gunzip wide-state.sqlite.gz
+          fi
+          python -m careers_scan.wide.state candidates --db wide-state.sqlite --csv "$candidates" \
+            --src "cc:$CRAWL" --skip-csv careers_scan/data/classified.csv --canary "$canary"
+          gzip wide-state.sqlite
+          gh release upload wide-data wide-state.sqlite.gz "$candidates" --clobber
+          printf '%s\n' "$read_count" > "cc-complete-$CRAWL.txt"
+          gh release upload wide-data "cc-complete-$CRAWL.txt" --clobber
+          gh workflow run wide-triage.yml --ref "$GITHUB_REF_NAME" -f max_sites=400000 -f shards=10
+      - uses: actions/upload-artifact@v4
+        if: inputs.limit_files > 0
+        with:
+          name: wide-index-preview
+          path: preview/

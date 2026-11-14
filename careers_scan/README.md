@@ -77,3 +77,8 @@ watches their careers pages.
   hr@…). A generic address (info@, hello@) counts only when the text around it mentions applying, a CV or a résumé.
 - No list can be complete: companies outside these datasets are found only if you add them to
   `companies_extra.csv`.
+
+## Wide careers sweep
+
+The [wide sweep](wide/README.md) uses Common Crawl to find employer careers pages beyond the company lists.
+See the [wide roles report](wide/ROLES.md) and [coverage summary](wide/SUMMARY.md) after triage.
