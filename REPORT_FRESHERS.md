@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**687 jobs**, newest first. Updated Sat Nov 14, 2:59 PM CST from 10,713 company job boards and other sources.
+**679 jobs**, newest first. Updated Sat Nov 14, 4:19 PM CST from 10,713 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,14 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 715 matching jobs that job sites and feeds listed this week, 124 (17%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (111)](#wednesday-nov-11-111) · [Tue 10 (88)](#tuesday-nov-10-88) · [Mon 9 (79)](#monday-nov-9-79) · [Sun 8 (9)](#sunday-nov-8-9) · [Sat 7 (1)](#saturday-nov-7-1)
+Jump to: [Sat 14 (133)](#saturday-nov-14-133) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (111)](#wednesday-nov-11-111) · [Tue 10 (88)](#tuesday-nov-10-88) · [Mon 9 (79)](#monday-nov-9-79) · [Sun 8 (9)](#sunday-nov-8-9) · [Sat 7 (1)](#saturday-nov-7-1)
 
-## Saturday, Nov 14 (141)
+## Saturday, Nov 14 (133)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 4:19 PM (seen) | [Junior Robotics Software Engineer](https://app.dover.com/apply/alpha1robotics/7f098d3e-3028-4522-bec7-4d5c16220a92) | Alpha1Robotics | Dallas, TX (onsite) | 75 | entry-level title; 1+ yrs exp |
+| 4:19 PM (seen) | [Associate Data Scientist](https://app.dover.com/apply/apparatusai/f15799cd-36af-406c-9296-2f3f158c3b71) | Apparatusai | International (remote) | 62 | entry-level title; 0-2 yrs exp; location unclear |
 | 2:59 PM (seen) | [Entry level Hardware Developer - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=136985) | IBM | Austin, United States +1 more (hybrid) | 65 | entry-level title; repost |
 | 2:59 PM (seen) | [Associate Application Developer 2027- ServiceNow](https://careers.ibm.com/careers/JobDetail?jobId=128753) | IBM | BATON ROUGE, United States (hybrid) | 65 | entry-level title |
 | 2:59 PM (seen) | [Entry Level Compliance EMC HW Developer - Rochester, MN - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131991) | IBM | ROCHESTER, United States (hybrid) | 65 | entry-level title |
@@ -32,16 +34,6 @@ Jump to: [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-1
 | 2:59 PM (seen) | [Associate Engineer Packaging](https://3kc.catsone.com/careers/2010-General/jobs/16377060-Associate-Engineer-Packaging-JP12188/) | 3Kc |  | 55 | entry-level title; location unclear |
 | 2:59 PM (seen) | [Associate Engineer Biotech Packaging](https://3kc.catsone.com/careers/2010-General/jobs/16213537-Associate-Engineer-Biotech-Packaging--JP11531/) | 3Kc |  | 55 | entry-level title; location unclear |
 | 2:59 PM (seen) | [Quality Assurance Associate Biopharma Medical Device](https://3kc.catsone.com/careers/2010-General/jobs/14882695-Quality-Assurance-Associate-Biopharma-Medical-Device-JP9524/) | 3Kc |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Software Engineer 1 Java Angular up to 200K FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16846171-Software-Engineer-1-Java-Angular--up-to-200K--FS-Poly/) | 33704Placement |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Software Engineer 1 Java AWS up to 220K FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16845672-Software-Engineer-1-Java-AWS--up-to-220K--FS-Poly/) | 33704Placement |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Software Engineer 1 Python LLMs up to 195K FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16845616-Software-Engineer-1-Python-LLMs--up-to-195K--FS-Poly/) | 33704Placement |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Software Engineer 1 Partial Telework FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16822335-Software-Engineer-1--Partial-Telework--FS-Poly/) | 33704Placement |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Software Engineer 1 Python Partial Telework FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16822317-Software-Engineer-1-Python--Partial-Telework--FS-Poly/) | 33704Placement |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [CNO Developer 1 PRIME Contract FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16809363-CNO-Developer-1--PRIME-Contract--FS-Poly/) | 33704Placement |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [System Administrator 1 FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16799976-System-Administrator-1--FS-Poly/) | 33704Placement |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Jr Data Scientist to 120k FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16779676-Jr-Data-Scientist-to-120k--FS-Poly/) | 33704Placement |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Software Engineer 1 FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16721124-Software-Engineer-1--FS-Poly/) | 33704Placement |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Jr Java Developer FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16721096-Jr-Java-Developer--FS-Poly/) | 33704Placement |  | 55 | entry-level title; location unclear |
 | 2:59 PM (seen) | [Systems Support Engineer I](https://fusionhcr.catsone.com/careers/43293-General/jobs/16842941-Systems-Support-Engineer-I/) | Fusionhcr |  | 55 | entry-level title; location unclear |
 | 2:59 PM (seen) | [Cloud System Administrator 1 Cleared](https://scdinformationtechnology.catsone.com/careers/101945-SCD-Information-Technology/jobs/16354813-Cloud-System-Administrator-1-Cleared/) | Scdinformationtechnology |  | 55 | entry-level title; location unclear |
 | 2:59 PM (seen) | [Associate Engineer PE Land Development](https://techoundsllc.catsone.com/careers/118121-General/jobs/16621168-Associate-Engineer-PE--Land-Development/) | Techoundsllc |  | 55 | entry-level title; location unclear |
@@ -737,13 +729,18 @@ Jump to: [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-1
 |---|---|---|---|---:|---|
 | 10:57 PM | [Support Engineer, PAYGO](https://jobs.ashbyhq.com/exa/f4dd7ae8-cf72-4634-b708-742601b9061c) | Exa | Remote (remote) | 60 | entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2727)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2749)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 6:38 PM | [SATCOM Systems Engineer (Hybrid- Aberdeen Proving Ground)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9312ef-f8ad-43d2-926b-12997288c359&ccId=19000101_000001&jobId=9201590872782_1&lang=en_US) | 1B9312Ef F8Ad 43D2 926B 12997… | US;  US;  US;  US;  US;  US; Middletown… | 45 | rules: 5+ yrs exp; needs: Secret clearance |
+| 4:19 PM (seen) | [Software Engineer](https://app.dover.com/apply/atomic-invest/536f1a4a-901c-4b29-a4e0-3b96ea99ddac) | Atomic Invest | New York City, NY; United States (hybrid) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 3:12 PM | [Software Engineer, iOS](https://jobs.ashbyhq.com/mirage/d9805fdf-950e-45ec-b9be-be18f1cb6b5e) | Mirage | Union Square, New York City | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 3:12 PM | [Software Engineer, Backend](https://jobs.ashbyhq.com/mirage/5de29162-c5ca-41ad-b8fa-e4bfa8a2b145) | Mirage | Union Square, New York City | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 3:11 PM | [Software Engineer, AI Developer Platform](https://jobs.ashbyhq.com/mirage/894f89d9-8687-462f-8040-9ac535214885) | Mirage | Union Square, New York City | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 3:11 PM | [Software Engineer, Agents](https://jobs.ashbyhq.com/mirage/e3ea3be5-779b-4488-813b-7debc6996c45) | Mirage | Union Square, New York City | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:59 PM (seen) | [Firmware Engineer](https://app.careerpuck.com/job-board/butterflymx/job/sNigvuqz) | Butterflymx | Irvine Office/Warehouse (onsite) | 35 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 2:59 PM (seen) | [Implementation Specialist - Payer Operations](https://app.careerpuck.com/job-board/color-health/job/Ms0rNw6w) | Color Health | South San Francisco, California, Remote… (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 2:59 PM (seen) | [IT Support Technician](https://app.careerpuck.com/job-board/blinkhealth/job/fAsnsd2x) | Blinkhealth | St. Louis, MO | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -795,6 +792,16 @@ Jump to: [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-1
 | 2:59 PM (seen) | [Community Support Specialist ERE](https://compasshealthnetwork.pinpointhq.com/en/postings/22e05450-4722-44f6-8d2e-2fc3032b3228) | Compasshealthnetwork | Jefferson City - 227 Metro Drive +1 more (onsite) | 50 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 2:59 PM (seen) | [Community Support Specialist School-Based](https://compasshealthnetwork.pinpointhq.com/en/postings/061afef7-4c68-42bf-8f6a-cc439ec1e8fa) | Compasshealthnetwork | Arnold - Municipal Drive (onsite) | 50 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 2:59 PM (seen) | [Community Support Specialist ACT TAY](https://compasshealthnetwork.pinpointhq.com/en/postings/52fda442-3847-4dc2-bbb2-412867eb0b79) | Compasshealthnetwork | Rolla - W 6th Street (onsite) | 50 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 2:59 PM (seen) | [Software Engineer 1 Java Angular up to 200K FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16846171-Software-Engineer-1-Java-Angular--up-to-200K--FS-Poly/) | 33704Placement |  | 55 | rules: role or location no longer in the target list |
+| 2:59 PM (seen) | [Software Engineer 1 Java AWS up to 220K FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16845672-Software-Engineer-1-Java-AWS--up-to-220K--FS-Poly/) | 33704Placement |  | 55 | rules: role or location no longer in the target list |
+| 2:59 PM (seen) | [Software Engineer 1 Python LLMs up to 195K FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16845616-Software-Engineer-1-Python-LLMs--up-to-195K--FS-Poly/) | 33704Placement |  | 55 | rules: role or location no longer in the target list |
+| 2:59 PM (seen) | [Software Engineer 1 Partial Telework FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16822335-Software-Engineer-1--Partial-Telework--FS-Poly/) | 33704Placement |  | 55 | rules: role or location no longer in the target list |
+| 2:59 PM (seen) | [Software Engineer 1 Python Partial Telework FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16822317-Software-Engineer-1-Python--Partial-Telework--FS-Poly/) | 33704Placement |  | 55 | rules: role or location no longer in the target list |
+| 2:59 PM (seen) | [CNO Developer 1 PRIME Contract FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16809363-CNO-Developer-1--PRIME-Contract--FS-Poly/) | 33704Placement |  | 55 | rules: role or location no longer in the target list |
+| 2:59 PM (seen) | [System Administrator 1 FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16799976-System-Administrator-1--FS-Poly/) | 33704Placement |  | 55 | rules: role or location no longer in the target list |
+| 2:59 PM (seen) | [Jr Data Scientist to 120k FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16779676-Jr-Data-Scientist-to-120k--FS-Poly/) | 33704Placement |  | 55 | rules: role or location no longer in the target list |
+| 2:59 PM (seen) | [Software Engineer 1 FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16721124-Software-Engineer-1--FS-Poly/) | 33704Placement |  | 55 | rules: role or location no longer in the target list |
+| 2:59 PM (seen) | [Jr Java Developer FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16721096-Jr-Java-Developer--FS-Poly/) | 33704Placement |  | 55 | rules: role or location no longer in the target list |
 | 2:10 PM (seen) | [Governance Strategy and Analytics Associate](https://lifeattiktok.com/search/7684280001904249093) | TikTok | San Jose, California, United States of … | 40 | rules: entry-level title; 5+ yrs exp; asks for 5+ years of experience |
 | 2:10 PM (seen) | [Central Strategy & Analytics Associate, North America Monetization St…](https://lifeattiktok.com/search/7686144868796467461) | TikTok | San Jose, California, United States of … | 55 | rules: entry-level title; 3+ yrs exp; asks for 3+ years of experience |
 | 2:10 PM (seen) | [Software Engineer Graduate (Data Ecosystem) - 2027 Start](https://lifeattiktok.com/search/7685769994391832837) | TikTok | San Jose, California, United States of … | 55 | rules: entry-level title; 3+ yrs exp; asks for 3+ years of experience |
@@ -861,6 +868,9 @@ Jump to: [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-1
 | date only | [Data Scientist, Dynamic Pricing](https://turo.wd12.myworkdayjobs.com/Turo_careers/job/San-Francisco/Data-Scientist--Dynamic-Pricing_R-102761) | Turo | San Francisco | 80 | rules: 2+ yrs exp; E-Verify; asks for 2+ years of experience |
 | date only | [Software Development Engineer, AWS](https://www.amazon.jobs/en/jobs/10605142/software-development-engineer-aws) | Amazon.com Services LLC | Seattle, Washington, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Business Analyst, Listing Analytics](https://www.amazon.jobs/en/jobs/10605139/business-analyst-listing-analytics) | Amazon.com Services LLC | Seattle, Washington, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Software Engineer, Data Systems](https://nvidia.eightfold.ai/careers/job/893398445696) | Nvidia | Santa Clara, CA, US; Austin, TX, US (onsite) | 50 | rules: 12+ yrs exp; asks for 12+ years of experience |
+| date only | [Software Engineer, Performance Instrumentation](https://nvidia.eightfold.ai/careers/job/893398445710) | Nvidia | Santa Clara, CA, US; Austin, TX, US (onsite) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| date only | [Software Engineer, ML Performance](https://nvidia.eightfold.ai/careers/job/893398445721) | Nvidia | Santa Clara, CA, US; Austin, TX, US (onsite) | 50 | rules: 12+ yrs exp; asks for 12+ years of experience |
 | 5:28 AM | [Space Planner Technology Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016861926-space-planner-technology-specialist) | Cityofnewyork | New York City, NY, United States | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 5:26 AM | [Junior Engineer (Design)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016861836-junior-engineer-design-) | Cityofnewyork | New York City, NY, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
 | 12:05 AM | [Network Security and Firewall Engineer - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4391) | City of Oklahoma City | Oklahoma  City, OK, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -869,6 +879,7 @@ Jump to: [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-1
 | 11:00 PM | [Mulesoft Developer](https://careers-steampunk.icims.com/jobs/8404/mulesoft-developer/job) | Steampunk | McLean, VA, United States | 65 | rules: 3+ yrs exp; E-Verify; needs: Secret Clearance |
 | 11:00 PM | [ServiceNow Developer](https://careers-steampunk.icims.com/jobs/8419/servicenow-developer/job) | Steampunk | McLean, VA, United States | 50 | rules: 5+ yrs exp; E-Verify; needs: Security clearance |
 | 9:58 PM | [InfoSec Engineer (Risk and Compliance)](https://jobs.ashbyhq.com/Rox-Data-Corp/88122e39-b638-49b5-8e25-6b2483c47155) | Rox Data Corp | San Francisco (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 9:10 PM | [Assistant Catalog & Data Specialist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4606751) | DMA Industries, LLC | Loris, SC, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 7:34 PM | [Machine Learning Engineer](https://jobs.ashbyhq.com/arena/2a58c588-e577-447b-9e48-be73a796415d) | Arena | SF Bay Area (hybrid) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 6:42 PM | [Workplace Security Analyst Trainee (9910) - Department of Public Heal…](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016859665-workplace-security-analyst-trainee-9910-department-of-public-health-exempt) | City and County of San Franci… | San Francisco, CA, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
 | 6:27 PM | [Backend Engineer](https://jobs.ashbyhq.com/quindar/e0f9e400-95e5-4ff1-ba05-67f57a56ba9f) | Quindar | Denver, CO (hybrid) | 65 | rules: 3+ yrs exp; needs: security clearance |
@@ -1124,24 +1135,5 @@ Jump to: [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-1
 | date only | [AI Solutions Engineer](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Tennessee-United-States/AI-Solutions-Engineer_R0047498-4) | Harris Computer | Tennessee, United States; Remote - Mich… (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Data Scientist](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Data-Scientist_46470) | Guidehouse | US - VA, Arlington | 45 | rules: 5+ yrs exp; needs: security clearance |
 | date only | [Leadership Support Specialist](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Leadership-Support-Specialist_46399) | Guidehouse | US - VA, Arlington | 60 | rules: 3+ yrs exp; needs: security clearance |
-| date only | [Automation Product Support Specialist](https://genpt.wd1.myworkdayjobs.com/Careers/job/USA-MOT-SE-Group-ASC-NC67/Automation-Product-Support-Specialist_R26_0000037385) | Genuine Parts Company | USA MOT SE Group ASC NC67 (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [System Integration Engineer](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/System-Integration-Engineer_JR-202623500) | General Motors | Milford, Michigan, United States of Ame… (onsite) | 45 | rules: 5+ yrs exp; no future H-1B sponsorship; asks for 5+ years of e… |
-| date only | [Military Materials Application Engineer - Advanced Coatings](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Military-Materials-Application-Engineer---Advanced-Coatings_R5042380-1) | GE Aerospace | Evendale | 45 | rules: 5+ yrs exp; needs: Security Clearance |
-| date only | [AI Software Development Engineer fluent in Spanish](https://fiserv.wd5.myworkdayjobs.com/EXT/job/Coral-Springs-Florida/AI-Engineering-Specialist_R-10400656) | Fiserv | Coral Springs, Florida (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Cloud Engineer, Atlas Platform](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Merrimack-NH/Cloud-Engineer--Atlas-Platform_2137648) | Fidelity Investments | Merrimack, NH | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Advisor-Software Engineer](https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Advisor-Software-Engineer_RC5248) | FedEx Freight | FXF-US/USA/FXFMHQ/Memphis Headquarters | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [Platform Developer / OES](https://mydpr.wd5.myworkdayjobs.com/11212017/job/Dallas-TX/Platform-Developer---OES_JR-18123) | DPR Family of Companies | Dallas, TX; San Diego, CA; Sacramento, … | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [Software Development Engineer (Angular/Java)](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Software-Development-Engineer--Angular-Java-_R1101788) | CVS Health | IL - Work from home (hybrid) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| date only | [Automation Engineer](https://cw.wd1.myworkdayjobs.com/External/job/Client-Site---USA---CA---Turlock---3200-Fulkerth-Road/Automation-Engineer_R343268) | Cushman & Wakefield | Client Site - USA - CA - Turlock - 3200… (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [Mobile Maintenance Technician](https://cw.wd1.myworkdayjobs.com/External/job/Client-Site---USA---OH---Maumee---6001-Monclova-Rd/Maintenance-Technician_R329737) | Cushman & Wakefield | Client Site - USA - OH - Maumee - 6001 … (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Test & Assembly Technician](https://curtisswright.wd1.myworkdayjobs.com/CW_External_Career_Site/job/US-TX-Round-Rock-Nuclear/Test---Assembly-Technician_JR13896) | Curtiss-Wright Corporation | US-TX-Round Rock (Nuclear) | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Implementation Specialist - Time Deposits & Safe Deposit Box (50% Tra…](https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Remote-USA/Implementation-Specialist---Time-Deposits---Safe-Deposit-Box--50--Travel-_R-100741) | CSI | Remote, USA (remote) | 67 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
-| date only | [Systems Support Specialist  (Onsite)](https://cornell.wd1.myworkdayjobs.com/CornellPositions/job/Ithaca-Main-Campus/IT-Support-Specialist--Systems-Administrator-III----College-of-Arts---Sciences---IT--Physics-LASSP-_WDR-00062149-2) | Cornell University | Ithaca (Main Campus) (onsite) | 75 | rules: 3+ yrs exp; sponsors visas; likely H-1B cap-exempt (verify); a… |
-| date only | [Compliance & Reporting Specialist](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-SC/Compliance---Reporting-Specialist_1675637) | Centene | Remote-SC; Remote-VA; Remote-MO; Remote… (remote) | 67 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
-| date only | [Business Technical Analyst](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Business-Technical-Analyst_1675878) | Centene | Remote-MO; Remote-TN; Remote-NE; Remote… (remote) | 52 | rules: 3+ yrs exp; no future H-1B sponsorship; asks for 3+ years of e… |
-| date only | [Forward Deployed Robotics & Systems Engineer](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Forward-Deployed-Robotics---Systems-Engineer_R0000404741) | Caterpillar Inc. | Irving, Texas | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| date only | [Information Security Advisor](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Information-Security-Advisor_JR208160) | CareBridge | IN-INDIANAPOLIS, 220 VIRGINIA AVE; IL-C… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [Technical Solution Consultant](https://candescent.wd501.myworkdayjobs.com/Hiring/job/US---Georgia---Virtual/Technical-Solution-Consultant_R0002447) | Candescent | US - Georgia - Virtual | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [Database Administrator](https://cai.wd5.myworkdayjobs.com/Computer_Aid/job/FL-CLIENT-STATE/Database-Administrator_R8963) | CAI | FL-CLIENT-STATE (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
