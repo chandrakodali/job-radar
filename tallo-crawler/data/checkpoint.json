@@ -18,18 +18,6 @@
   "core_remaining": 0,
   "pending": [
     {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/mi/royal-oak",
-      "label": "Royal Oak",
-      "count": 3,
-      "deferred_once": true
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/pa/fort-washington",
-      "label": "Fort Washington",
-      "count": 3,
-      "deferred_once": true
-    },
-    {
       "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/wa/liberty-lake",
       "label": "Liberty Lake",
       "count": 3,
