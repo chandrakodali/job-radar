@@ -156,6 +156,7 @@
   "adp:55f9c57b-cdfc-4081-8a5a-d8102543d4aa|19000101_000001": "2026-11-14",
   "adp:55ff8ebe-355a-415f-9596-85eb1fdb3e8c": "2026-11-14",
   "adp:562ad1b1-8950-4d30-831c-5e0d165d3d28|19000101_000001": "2026-11-14",
+  "adp:567e686e-7575-49d9-b29f-985e7365f987": "2026-11-14",
   "adp:567e686e-7575-49d9-b29f-985e7365f987|19000101_000001": "2026-11-14",
   "adp:56cc03b7-d58a-4ac9-8391-390840ad8e7e": "2026-11-14",
   "amazon:us": "2026-11-14",
@@ -6836,6 +6837,7 @@
   "paylocity:1457d9fd-ff47-44b7-b56a-13fa323378cd": "2026-11-14",
   "paylocity:146a3a13-476a-4520-a409-2d46af632aba": "2026-11-14",
   "paylocity:146c5804-5603-4f3b-a61c-c9046e8a6402": "2026-11-14",
+  "paylocity:14724750-0d96-417c-acb1-743bcf1738b7": "2026-11-14",
   "paylocity:14a2c663-08c2-4749-a338-1b08bb553b1b": "2026-11-14",
   "paylocity:14bb98e5-6efc-4bd8-b6d7-b899ea185e15": "2026-11-14",
   "paylocity:14d6aeae-9baa-4185-89ad-d560e1f995b5": "2026-11-14",
@@ -6848,6 +6850,7 @@
   "paylocity:15fcedf0-0123-4940-9e8d-d1e2a1d84a32": "2026-11-14",
   "paylocity:166807f1-aa37-437d-850d-574006357319": "2026-11-14",
   "paylocity:16992380-c2cc-4aba-9ba5-ab99675f1db4": "2026-11-14",
+  "paylocity:16cc662c-21d1-4ff2-b5fd-a9de53f5b71a": "2026-11-14",
   "paylocity:1727f1da-4aa6-43f9-aa64-4e2a909a537d": "2026-11-14",
   "paylocity:174aac10-2bd9-46d5-8e65-6c908166d57a": "2026-11-14",
   "paylocity:17713721-eeb1-49c8-a8fe-8a7ec37f0088": "2026-11-14",
@@ -9966,17 +9969,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 70,
+   "n": 71,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 70,
+   "n": 71,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 70,
+   "n": 71,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12440,7 +12443,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12505,7 +12508,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 70,
+   "n": 71,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12552,7 +12555,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 42,
+   "n": 43,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -12659,12 +12662,12 @@
   },
   "workday:pru|wd5|Careers": {
    "err": "invalid JSON",
-   "n": 41,
+   "n": 42,
    "since": "2026-11-13"
   },
   "workday:pru|wd5|pgim_careers": {
    "err": "invalid JSON",
-   "n": 40,
+   "n": 41,
    "since": "2026-11-13"
   },
   "workday:rappi|wd12|es": {
@@ -12684,11 +12687,6 @@
    "err": "HTTP 403",
    "n": 34,
    "since": "2026-11-07"
-  },
-  "workday:regions|wd5|regions_careers": {
-   "err": "invalid JSON",
-   "n": 41,
-   "since": "2026-11-13"
   },
   "workday:ryan|wd1|Students-Graduates": {
    "disabled_until": "2026-11-21",
@@ -12722,7 +12720,7 @@
   },
   "workday:target|wd5|targetcareers": {
    "err": "invalid JSON",
-   "n": 41,
+   "n": 42,
    "since": "2026-11-13"
   },
   "workday:usicinc|wd5|USICCareers": {
@@ -12821,8 +12819,8 @@
    197
   ],
   "2026-11-14": [
-   46,
-   318
+   68,
+   356
   ]
  },
  "resolved": {
@@ -58958,10 +58956,10 @@
  "source_last": {
   "hn": "2026-11-14T20:37:21+00:00",
   "remoteok": "2026-11-14T22:37:14+00:00",
-  "usajobs": "2026-11-14T20:37:21+00:00",
-  "workable_search": "2026-11-14T20:37:21+00:00",
-  "wwr": "2026-11-14T22:37:14+00:00",
-  "yc": "2026-11-14T20:37:21+00:00"
+  "usajobs": "2026-11-14T23:37:14+00:00",
+  "workable_search": "2026-11-14T23:37:14+00:00",
+  "wwr": "2026-11-14T23:37:14+00:00",
+  "yc": "2026-11-14T23:37:14+00:00"
  },
  "title_rules": "15160d40994f",
  "version": 1
