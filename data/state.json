@@ -6790,6 +6790,8 @@
   "paylocity:031133dc-c4a4-4cc9-898e-7d5cd52f5ee5": "2026-11-14",
   "paylocity:04927b97-13ba-41c8-afe1-ac78a8acf450": "2026-11-14",
   "paylocity:05a8347a-7060-4310-b2be-d19fa27a6518": "2026-11-14",
+  "paylocity:06144481-7908-457c-9312-51cf7b58cf01": "2026-11-14",
+  "paylocity:06b3cfd5-88b3-498c-847c-9e1687852028": "2026-11-14",
   "paylocity:0721fa6f-20b1-48a9-9a2a-7da813f88a10": "2026-11-14",
   "paylocity:07314255-f13e-4c20-b80c-2b4022218dc8": "2026-11-14",
   "paylocity:076ee35d-2815-45ca-a6dc-38be74644a87": "2026-11-14",
@@ -6797,7 +6799,19 @@
   "paylocity:08628d28-fa0d-4893-b85a-43b78653901b": "2026-11-14",
   "paylocity:086af4d0-3dbe-4019-87ba-444c7e2661ac": "2026-11-14",
   "paylocity:08741992-5802-4419-a6eb-fbb58d6ac948": "2026-11-14",
+  "paylocity:087d8277-967a-4bb5-8fe3-3dc85caedf66": "2026-11-14",
   "paylocity:08eac160-0a1e-4180-8eb0-8381757e63b5": "2026-11-14",
+  "paylocity:091968f2-bfa6-405c-9111-bc12c6ab6d3a": "2026-11-14",
+  "paylocity:093ed2b1-ab2f-4a60-9277-0def6b949b65": "2026-11-14",
+  "paylocity:0a25e82f-b947-4f8e-ba92-cd428be483f8": "2026-11-14",
+  "paylocity:0a5e3ff1-7892-4cad-8ae3-5be8d4fb306a": "2026-11-14",
+  "paylocity:0a72dcd6-2616-4d0e-9946-d3a182c43706": "2026-11-14",
+  "paylocity:0a905d5c-8e08-4ccd-a89d-45d8f8bb18b0": "2026-11-14",
+  "paylocity:0ae74d27-4bee-496d-876c-85c8734845c9": "2026-11-14",
+  "paylocity:0b0e65d8-0e53-499c-b510-583fa42f82ed": "2026-11-14",
+  "paylocity:0b6cc596-ce53-4e9d-9b26-b235ed9830c6": "2026-11-14",
+  "paylocity:0bf68f9e-dbb5-4e2b-8a58-44410086ba23": "2026-11-14",
+  "paylocity:0c6e953e-969a-4bb6-a5ec-6ca8b1ad0436": "2026-11-14",
   "paylocity:0ebade6c-b3ec-4b29-900b-5303ca374b90": "2026-11-14",
   "paylocity:0eed7c03-694e-454b-8e29-7abbbc8e65b5": "2026-11-14",
   "paylocity:0f3ed00e-4291-47c3-99cb-5d052bd19190": "2026-11-14",
@@ -6839,6 +6853,10 @@
   "paylocity:17713721-eeb1-49c8-a8fe-8a7ec37f0088": "2026-11-14",
   "paylocity:180866a7-157b-4668-9e4e-986aeaf7cd51": "2026-11-14",
   "paylocity:18f41eec-1ff4-4233-9762-c1ee64cafa3b": "2026-11-14",
+  "paylocity:1a004cdc-6bd0-4304-af0c-ffb4d3c3b5cb": "2026-11-14",
+  "paylocity:1a0be996-c080-4348-9253-eaa72a660ff1": "2026-11-14",
+  "paylocity:1a12da52-a185-495d-9e82-83e9eb874c54": "2026-11-14",
+  "paylocity:1a76b2be-1ba0-447b-9883-3b17ff92c2d7": "2026-11-14",
   "personio:1komma5grad.jobs.personio.de": "2026-11-14",
   "personio:360t.jobs.personio.de": "2026-11-14",
   "personio:420pharma.jobs.personio.de": "2026-11-14",
@@ -9948,17 +9966,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 69,
+   "n": 70,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 69,
+   "n": 70,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 69,
+   "n": 70,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12420,6 +12438,11 @@
    "n": 4,
    "since": "2026-11-07"
   },
+  "workday:bdo|wd3|BDO": {
+   "err": "HTTP 401",
+   "n": 1,
+   "since": "2026-11-14"
+  },
   "workday:boarshead|wd1|BHC": {
    "disabled_until": "2026-11-18",
    "err": "HTTP 403",
@@ -12482,7 +12505,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 69,
+   "n": 70,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12529,7 +12552,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 41,
+   "n": 42,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -12636,12 +12659,12 @@
   },
   "workday:pru|wd5|Careers": {
    "err": "invalid JSON",
-   "n": 40,
+   "n": 41,
    "since": "2026-11-13"
   },
   "workday:pru|wd5|pgim_careers": {
    "err": "invalid JSON",
-   "n": 39,
+   "n": 40,
    "since": "2026-11-13"
   },
   "workday:rappi|wd12|es": {
@@ -12664,18 +12687,13 @@
   },
   "workday:regions|wd5|regions_careers": {
    "err": "invalid JSON",
-   "n": 40,
+   "n": 41,
    "since": "2026-11-13"
   },
   "workday:ryan|wd1|Students-Graduates": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
    "n": 33,
-   "since": "2026-11-13"
-  },
-  "workday:ryder|wd5|RyderCareers": {
-   "err": "invalid JSON",
-   "n": 40,
    "since": "2026-11-13"
   },
   "workday:salesforce|wd1|External_Career_Site": {
@@ -12704,7 +12722,7 @@
   },
   "workday:target|wd5|targetcareers": {
    "err": "invalid JSON",
-   "n": 40,
+   "n": 41,
    "since": "2026-11-13"
   },
   "workday:usicinc|wd5|USICCareers": {
@@ -57402,6 +57420,7 @@
   "oracle:tulane-ibqejb.fa.ocs.oraclecloud.com|CX_1:2295": "2026-11-10",
   "paylocity:05a8347a-7060-4310-b2be-d19fa27a6518:4599421": "2026-11-14",
   "paylocity:0f3ed00e-4291-47c3-99cb-5d052bd19190:4648212": "2026-11-14",
+  "paylocity:1a0be996-c080-4348-9253-eaa72a660ff1:4234139": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2019204EXTERNALENGLOBAL": "2026-11-12",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2025650EXTERNALENGLOBAL": "2026-11-12",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026031EXTERNALENGLOBAL": "2026-11-12",
