@@ -1,5 +1,7 @@
 {
  "baselined": {
+  "amazon:us": "2026-11-14",
+  "apple:usa": "2026-11-14",
   "ashby:0g": "2026-11-13",
   "ashby:0x": "2026-11-13",
   "ashby:1password": "2026-11-13",
@@ -3751,6 +3753,7 @@
   "greenhouse:zscaler": "2026-11-13",
   "greenhouse:zupinnovation": "2026-11-13",
   "greenhouse:zyngacareers": "2026-11-13",
+  "ibm:us": "2026-11-14",
   "icims:americas-cookmedical.icims.com": "2026-11-13",
   "icims:analystcareers-analysisgroup.icims.com": "2026-11-13",
   "icims:bowheadcareers-uicalaska.icims.com": "2026-11-13",
@@ -5399,6 +5402,7 @@
   "teamtailor:unleash-amby": "2026-11-13",
   "teamtailor:varnish-software": "2026-11-13",
   "teamtailor:xataio-1680192386": "2026-11-13",
+  "tiktok:us": "2026-11-14",
   "workable:1kosmos": "2026-11-13",
   "workable:3e": "2026-11-13",
   "workable:a2e-technologies-1": "2026-11-13",
@@ -7622,17 +7626,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 24,
+   "n": 25,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 24,
+   "n": 25,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 24,
+   "n": 25,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -8991,21 +8995,11 @@
    "n": 3,
    "since": "2026-11-13"
   },
-  "workday:amgen|wd1|careers": {
-   "err": "invalid JSON",
-   "n": 18,
-   "since": "2026-11-14"
-  },
   "workday:amplify|wd1|Amplify_Careers": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 403",
    "n": 3,
    "since": "2026-11-13"
-  },
-  "workday:aspendental|wd1|careers_aspen_dental": {
-   "err": "invalid JSON",
-   "n": 18,
-   "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
    "disabled_until": "2026-11-20",
@@ -9015,7 +9009,7 @@
   },
   "workday:calibercollision|wd1|protech": {
    "err": "invalid JSON",
-   "n": 17,
+   "n": 18,
    "since": "2026-11-14"
   },
   "workday:cambiahealth|wd1|External": {
@@ -9026,18 +9020,13 @@
   },
   "workday:cccis|wd1|broadbean_external": {
    "err": "invalid JSON",
-   "n": 18,
+   "n": 19,
    "since": "2026-11-14"
   },
   "workday:cff|wd1|explore-career-opportunities": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 422",
    "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:chipotle|wd5|ChipotleCareers": {
-   "err": "invalid JSON",
-   "n": 20,
    "since": "2026-11-13"
   },
   "workday:cliftonlarsonallen|wd1|CLA": {
@@ -9070,26 +9059,11 @@
    "n": 3,
    "since": "2026-11-13"
   },
-  "workday:cw|wd1|external": {
-   "err": "invalid JSON",
-   "n": 17,
-   "since": "2026-11-14"
-  },
   "workday:dell|wd1|External": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 422",
    "n": 3,
    "since": "2026-11-13"
-  },
-  "workday:elevancehealth|wd1|ANT": {
-   "err": "invalid JSON",
-   "n": 18,
-   "since": "2026-11-14"
-  },
-  "workday:elevancehealth|wd1|ELV-ET": {
-   "err": "invalid JSON",
-   "n": 18,
-   "since": "2026-11-14"
   },
   "workday:fragomen|wd1|FragomenCareers": {
    "disabled_until": "2026-11-20",
@@ -9097,45 +9071,20 @@
    "n": 3,
    "since": "2026-11-13"
   },
-  "workday:generalmotors|wd5|careers_gm": {
-   "err": "invalid JSON",
-   "n": 20,
-   "since": "2026-11-13"
-  },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 23,
+   "n": 24,
    "since": "2026-11-13"
+  },
+  "workday:gsknch|wd3|GSKCareers": {
+   "err": "HTTP 520",
+   "n": 1,
+   "since": "2026-11-14"
   },
   "workday:gtsgbu|wd3|Careers": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 403",
    "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:hitachi|wd1|hitachi": {
-   "err": "invalid JSON",
-   "n": 18,
-   "since": "2026-11-14"
-  },
-  "workday:hpe|wd5|acjobsite": {
-   "err": "invalid JSON",
-   "n": 19,
-   "since": "2026-11-13"
-  },
-  "workday:hpe|wd5|jobsathpe": {
-   "err": "invalid JSON",
-   "n": 19,
-   "since": "2026-11-13"
-  },
-  "workday:hp|wd5|EXTEU-AC-CareerSite": {
-   "err": "invalid JSON",
-   "n": 19,
-   "since": "2026-11-13"
-  },
-  "workday:hp|wd5|externalcareersite": {
-   "err": "invalid JSON",
-   "n": 20,
    "since": "2026-11-13"
   },
   "workday:idexx|wd1|IDEXX": {
@@ -9148,16 +9097,6 @@
    "disabled_until": "2026-11-20",
    "err": "HTTP 422",
    "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:iqvia|wd1|IQVIA": {
-   "err": "invalid JSON",
-   "n": 18,
-   "since": "2026-11-14"
-  },
-  "workday:kemper|wd5|kemper_careers": {
-   "err": "invalid JSON",
-   "n": 19,
    "since": "2026-11-13"
   },
   "workday:kohls|wd1|kohlscareers": {
@@ -9186,7 +9125,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 20,
+   "n": 21,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -9200,11 +9139,6 @@
    "err": "HTTP 422",
    "n": 3,
    "since": "2026-11-13"
-  },
-  "workday:mmc|wd1|MMC": {
-   "err": "invalid JSON",
-   "n": 18,
-   "since": "2026-11-14"
   },
   "workday:montrose|wd1|meg": {
    "disabled_until": "2026-11-20",
@@ -9292,12 +9226,12 @@
   },
   "workday:pru|wd5|Careers": {
    "err": "invalid JSON",
-   "n": 18,
+   "n": 19,
    "since": "2026-11-13"
   },
   "workday:pru|wd5|pgim_careers": {
    "err": "invalid JSON",
-   "n": 18,
+   "n": 19,
    "since": "2026-11-13"
   },
   "workday:rappi|wd12|es": {
@@ -9320,7 +9254,7 @@
   },
   "workday:regions|wd5|regions_careers": {
    "err": "invalid JSON",
-   "n": 19,
+   "n": 20,
    "since": "2026-11-13"
   },
   "workday:ryan|wd1|Students-Graduates": {
@@ -9331,7 +9265,7 @@
   },
   "workday:ryder|wd5|RyderCareers": {
    "err": "invalid JSON",
-   "n": 18,
+   "n": 19,
    "since": "2026-11-13"
   },
   "workday:salesforce|wd1|External_Career_Site": {
@@ -9345,11 +9279,6 @@
    "err": "HTTP 422",
    "n": 3,
    "since": "2026-11-13"
-  },
-  "workday:sentara|wd1|SCS": {
-   "err": "invalid JSON",
-   "n": 17,
-   "since": "2026-11-14"
   },
   "workday:ssmh|wd5|ssmhealth": {
    "disabled_until": "2026-11-20",
@@ -9365,18 +9294,8 @@
   },
   "workday:target|wd5|targetcareers": {
    "err": "invalid JSON",
-   "n": 19,
+   "n": 20,
    "since": "2026-11-13"
-  },
-  "workday:truist|wd1|Careers": {
-   "err": "invalid JSON",
-   "n": 17,
-   "since": "2026-11-14"
-  },
-  "workday:usaa|wd1|USAAJOBSWD": {
-   "err": "invalid JSON",
-   "n": 17,
-   "since": "2026-11-14"
   },
   "workday:usicinc|wd5|USICCareers": {
    "disabled_until": "2026-11-20",
@@ -9433,35 +9352,47 @@
   "AG Consulting Partners, Inc.": "2026-11-14",
   "American Consumer Credit Counseling": "2026-11-14",
   "Bask Health": "2026-11-14",
+  "Bountiful": "2026-11-14",
   "Briljent": "2026-11-14",
+  "Candid Health": "2026-11-14",
   "Centric Fiber Op Co, LLC": "2026-11-14",
+  "Coris": "2026-11-14",
   "D-ploy": "2026-11-14",
   "DLN Consulting Group": "2026-11-14",
   "Dean Dorton": "2026-11-14",
   "Delaware Nation Industries": "2026-11-14",
   "Diversified Services Network, Inc.": "2026-11-13",
   "Geeks on Site": "2026-11-14",
+  "GoGoGrandparent": "2026-11-14",
   "Impact Life": "2026-11-14",
   "J-Mack Technologies": "2026-11-14",
   "Jiffy": "2026-11-14",
+  "Julius": "2026-11-14",
+  "Karat Financial": "2026-11-14",
   "Kraft & Kennedy": "2026-11-14",
   "Manac Trailers USA Inc": "2026-11-14",
+  "Medplum": "2026-11-14",
   "Multi Media LLC": "2026-11-14",
   "Neal R Gross & Co": "2026-11-14",
   "Neuberger Berman": "2026-11-14",
+  "Numeral": "2026-11-14",
   "OpenDataJobs": "2026-11-14",
   "Partner One Software Inc": "2026-11-14",
+  "Per Diem": "2026-11-14",
+  "Polymath Robotics": "2026-11-14",
   "Prime Robotics": "2026-11-14",
   "Rockford": "2026-11-14",
   "Sand Cherry Associates": "2026-11-14",
   "Senseye": "2026-11-14",
+  "SiPhox Health": "2026-11-14",
   "TRE Industries dba ProHealth": "2026-11-14",
   "The Trustees of Reservations": "2026-11-14",
   "Theranica USA, Inc.": "2026-11-14",
   "USA Clinics Group": "2026-11-14",
   "University of Mount Saint Vincent": "2026-11-14",
   "V4C.ai": "2026-11-14",
-  "XMSTART": "2026-11-14"
+  "XMSTART": "2026-11-14",
+  "erad": "2026-11-14"
  },
  "missing_once": {},
  "recall": {
@@ -9470,8 +9401,8 @@
    154
   ],
   "2026-11-14": [
-   76,
-   468
+   80,
+   484
   ]
  },
  "resolved": {
@@ -24960,6 +24891,483 @@
    ],
    "t": "2026-11-13"
   },
+  "careers.ibm.com": {
+   "r": [
+    [
+     true,
+     "/$"
+    ],
+    [
+     true,
+     "/careers"
+    ],
+    [
+     false,
+     "/careers/*qtvc="
+    ],
+    [
+     true,
+     "/*/careers"
+    ],
+    [
+     false,
+     "/*/careers/*qtvc="
+    ],
+    [
+     true,
+     "/hiringmanager"
+    ],
+    [
+     false,
+     "/hiringmanager/*qtvc="
+    ],
+    [
+     true,
+     "/timeslots"
+    ],
+    [
+     false,
+     "/timeslots/*qtvc="
+    ],
+    [
+     true,
+     "/*/timeslots"
+    ],
+    [
+     false,
+     "/*/timeslots/*qtvc="
+    ],
+    [
+     true,
+     "/globalform"
+    ],
+    [
+     false,
+     "/globalform/*qtvc="
+    ],
+    [
+     true,
+     "/*/globalform"
+    ],
+    [
+     false,
+     "/*/globalform/*qtvc="
+    ],
+    [
+     true,
+     "/internalmobility"
+    ],
+    [
+     false,
+     "/internalmobility/*qtvc="
+    ],
+    [
+     true,
+     "/*/internalmobility"
+    ],
+    [
+     false,
+     "/*/internalmobility/*qtvc="
+    ],
+    [
+     true,
+     "/consultingassociatepartner"
+    ],
+    [
+     false,
+     "/consultingassociatepartner/*qtvc="
+    ],
+    [
+     true,
+     "/*/consultingassociatepartner"
+    ],
+    [
+     false,
+     "/*/consultingassociatepartner/*qtvc="
+    ],
+    [
+     true,
+     "/accelerate"
+    ],
+    [
+     false,
+     "/accelerate/*qtvc="
+    ],
+    [
+     true,
+     "/*/accelerate"
+    ],
+    [
+     false,
+     "/*/accelerate/*qtvc="
+    ],
+    [
+     true,
+     "/ptechprogram"
+    ],
+    [
+     false,
+     "/ptechprogram/*qtvc="
+    ],
+    [
+     true,
+     "/*/ptechprogram"
+    ],
+    [
+     false,
+     "/*/ptechprogram/*qtvc="
+    ],
+    [
+     true,
+     "/veterans"
+    ],
+    [
+     false,
+     "/veterans/*qtvc="
+    ],
+    [
+     true,
+     "/*/veterans"
+    ],
+    [
+     false,
+     "/*/veterans/*qtvc="
+    ],
+    [
+     true,
+     "/buddyreferral"
+    ],
+    [
+     false,
+     "/buddyreferral/*qtvc="
+    ],
+    [
+     true,
+     "/*/buddyreferral"
+    ],
+    [
+     false,
+     "/*/buddyreferral/*qtvc="
+    ],
+    [
+     true,
+     "/entrylevelold"
+    ],
+    [
+     false,
+     "/entrylevelold/*qtvc="
+    ],
+    [
+     true,
+     "/*/entrylevelold"
+    ],
+    [
+     false,
+     "/*/entrylevelold/*qtvc="
+    ],
+    [
+     true,
+     "/usentrylevelevents"
+    ],
+    [
+     false,
+     "/usentrylevelevents/*qtvc="
+    ],
+    [
+     true,
+     "/*/usentrylevelevents"
+    ],
+    [
+     false,
+     "/*/usentrylevelevents/*qtvc="
+    ],
+    [
+     true,
+     "/accelerateaplicationform"
+    ],
+    [
+     false,
+     "/accelerateaplicationform/*qtvc="
+    ],
+    [
+     true,
+     "/*/accelerateaplicationform"
+    ],
+    [
+     false,
+     "/*/accelerateaplicationform/*qtvc="
+    ],
+    [
+     true,
+     "/agency"
+    ],
+    [
+     false,
+     "/agency/*qtvc="
+    ],
+    [
+     true,
+     "/*/agency"
+    ],
+    [
+     false,
+     "/*/agency/*qtvc="
+    ],
+    [
+     true,
+     "/docusignIBMSigner"
+    ],
+    [
+     false,
+     "/docusignIBMSigner/*qtvc="
+    ],
+    [
+     true,
+     "/*/docusignIBMSigner"
+    ],
+    [
+     false,
+     "/*/docusignIBMSigner/*qtvc="
+    ],
+    [
+     true,
+     "/careersint"
+    ],
+    [
+     false,
+     "/careersint/*qtvc="
+    ],
+    [
+     true,
+     "/*/careersint"
+    ],
+    [
+     false,
+     "/*/careersint/*qtvc="
+    ],
+    [
+     true,
+     "/docusign"
+    ],
+    [
+     false,
+     "/docusign/*qtvc="
+    ],
+    [
+     true,
+     "/*/docusign"
+    ],
+    [
+     false,
+     "/*/docusign/*qtvc="
+    ],
+    [
+     true,
+     "/videointerview"
+    ],
+    [
+     false,
+     "/videointerview/*qtvc="
+    ],
+    [
+     true,
+     "/docusignIBMonly"
+    ],
+    [
+     false,
+     "/docusignIBMonly/*qtvc="
+    ],
+    [
+     true,
+     "/*/docusignIBMonly"
+    ],
+    [
+     false,
+     "/*/docusignIBMonly/*qtvc="
+    ],
+    [
+     true,
+     "/referral"
+    ],
+    [
+     false,
+     "/referral/*qtvc="
+    ],
+    [
+     true,
+     "/*/referral"
+    ],
+    [
+     false,
+     "/*/referral/*qtvc="
+    ],
+    [
+     true,
+     "/alumni"
+    ],
+    [
+     false,
+     "/alumni/*qtvc="
+    ],
+    [
+     true,
+     "/*/alumni"
+    ],
+    [
+     false,
+     "/*/alumni/*qtvc="
+    ],
+    [
+     true,
+     "/IBMbassador"
+    ],
+    [
+     false,
+     "/IBMbassador/*qtvc="
+    ],
+    [
+     true,
+     "/*/IBMbassador"
+    ],
+    [
+     false,
+     "/*/IBMbassador/*qtvc="
+    ],
+    [
+     true,
+     "/ibmjapanform"
+    ],
+    [
+     false,
+     "/ibmjapanform/*qtvc="
+    ],
+    [
+     true,
+     "/*/ibmjapanform"
+    ],
+    [
+     false,
+     "/*/ibmjapanform/*qtvc="
+    ],
+    [
+     true,
+     "/closedjob"
+    ],
+    [
+     false,
+     "/closedjob/*qtvc="
+    ],
+    [
+     true,
+     "/*/closedjob"
+    ],
+    [
+     false,
+     "/*/closedjob/*qtvc="
+    ],
+    [
+     true,
+     "/eventlisting"
+    ],
+    [
+     false,
+     "/eventlisting/*qtvc="
+    ],
+    [
+     true,
+     "/engagement"
+    ],
+    [
+     false,
+     "/engagement/*qtvc="
+    ],
+    [
+     true,
+     "/*/engagement"
+    ],
+    [
+     false,
+     "/*/engagement/*qtvc="
+    ],
+    [
+     true,
+     "/examplePathName"
+    ],
+    [
+     false,
+     "/examplePathName/*qtvc="
+    ],
+    [
+     true,
+     "/*/examplePathName"
+    ],
+    [
+     false,
+     "/*/examplePathName/*qtvc="
+    ],
+    [
+     true,
+     "/Oa620252026"
+    ],
+    [
+     false,
+     "/Oa620252026/*qtvc="
+    ],
+    [
+     true,
+     "/*/Oa620252026"
+    ],
+    [
+     false,
+     "/*/Oa620252026/*qtvc="
+    ],
+    [
+     true,
+     "/entrylevel"
+    ],
+    [
+     false,
+     "/entrylevel/*qtvc="
+    ],
+    [
+     true,
+     "/*/entrylevel"
+    ],
+    [
+     false,
+     "/*/entrylevel/*qtvc="
+    ],
+    [
+     true,
+     "/anderon"
+    ],
+    [
+     false,
+     "/anderon/*qtvc="
+    ],
+    [
+     true,
+     "/*/anderon"
+    ],
+    [
+     false,
+     "/*/anderon/*qtvc="
+    ],
+    [
+     true,
+     "/favicon.ico"
+    ],
+    [
+     true,
+     "/sitemap.xml"
+    ],
+    [
+     true,
+     "/"
+    ]
+   ],
+   "t": "2026-11-14"
+  },
   "careers.itw.com": {
    "r": [
     [
@@ -30711,6 +31119,10 @@
     ]
    ],
    "t": "2026-11-13"
+  },
+  "jobs.apple.com": {
+   "r": [],
+   "t": "2026-11-14"
   },
   "jobs.arjo.com": {
    "r": [
@@ -37027,6 +37439,59 @@
    ],
    "t": "2026-11-13"
   },
+  "www.amazon.jobs": {
+   "r": [
+    [
+     false,
+     "/internal"
+    ],
+    [
+     false,
+     "/en/internal"
+    ],
+    [
+     false,
+     "/en-gb/internal"
+    ],
+    [
+     false,
+     "/cs/internal"
+    ],
+    [
+     false,
+     "/de/internal"
+    ],
+    [
+     false,
+     "/es/internal"
+    ],
+    [
+     false,
+     "/fr/internal"
+    ],
+    [
+     false,
+     "/it/internal"
+    ],
+    [
+     false,
+     "/jp/internal"
+    ],
+    [
+     false,
+     "/pl/internal"
+    ],
+    [
+     false,
+     "/pt/internal"
+    ],
+    [
+     false,
+     "/zh/internal"
+    ]
+   ],
+   "t": "2026-11-14"
+  },
   "www.careerprofile.epiroc.com": {
    "r": [
     [
@@ -37419,6 +37884,35 @@
    ],
    "t": "2026-11-13"
   },
+  "www.ycombinator.com": {
+   "r": [
+    [
+     false,
+     "/verify/*"
+    ],
+    [
+     false,
+     "/library?categories=*&*"
+    ],
+    [
+     true,
+     "/library?categories=*"
+    ],
+    [
+     false,
+     "/library?*"
+    ],
+    [
+     false,
+     "/companies?*"
+    ],
+    [
+     true,
+     "/"
+    ]
+   ],
+   "t": "2026-11-14"
+  },
   "www.yelp.careers": {
    "r": [
     [
@@ -37628,6 +38122,327 @@
   }
  },
  "seen": {
+  "amazon:us:10590854": "2026-11-14",
+  "amazon:us:10591972": "2026-11-14",
+  "amazon:us:10593632": "2026-11-14",
+  "amazon:us:10594794": "2026-11-14",
+  "amazon:us:10595528": "2026-11-14",
+  "amazon:us:10595562": "2026-11-14",
+  "amazon:us:10595564": "2026-11-14",
+  "amazon:us:10595778": "2026-11-14",
+  "amazon:us:10596150": "2026-11-14",
+  "amazon:us:10596877": "2026-11-14",
+  "amazon:us:10596878": "2026-11-14",
+  "amazon:us:10597316": "2026-11-14",
+  "amazon:us:10597320": "2026-11-14",
+  "amazon:us:10597665": "2026-11-14",
+  "amazon:us:10597677": "2026-11-14",
+  "amazon:us:10597708": "2026-11-14",
+  "amazon:us:10597786": "2026-11-14",
+  "amazon:us:10597790": "2026-11-14",
+  "amazon:us:10597803": "2026-11-14",
+  "amazon:us:10597835": "2026-11-14",
+  "amazon:us:10597836": "2026-11-14",
+  "amazon:us:10598014": "2026-11-14",
+  "amazon:us:10598019": "2026-11-14",
+  "amazon:us:10598021": "2026-11-14",
+  "amazon:us:10598123": "2026-11-14",
+  "amazon:us:10598152": "2026-11-14",
+  "amazon:us:10598162": "2026-11-14",
+  "amazon:us:10598213": "2026-11-14",
+  "amazon:us:10598223": "2026-11-14",
+  "amazon:us:10598228": "2026-11-14",
+  "amazon:us:10598274": "2026-11-14",
+  "amazon:us:10598285": "2026-11-14",
+  "amazon:us:10598335": "2026-11-14",
+  "amazon:us:10598371": "2026-11-14",
+  "amazon:us:10598403": "2026-11-14",
+  "amazon:us:10598425": "2026-11-14",
+  "amazon:us:10598426": "2026-11-14",
+  "amazon:us:10598432": "2026-11-14",
+  "amazon:us:10598681": "2026-11-14",
+  "amazon:us:10598770": "2026-11-14",
+  "amazon:us:10598803": "2026-11-14",
+  "amazon:us:10598896": "2026-11-14",
+  "amazon:us:10598899": "2026-11-14",
+  "amazon:us:10598901": "2026-11-14",
+  "amazon:us:10598904": "2026-11-14",
+  "amazon:us:10598905": "2026-11-14",
+  "amazon:us:10598928": "2026-11-14",
+  "amazon:us:10598939": "2026-11-14",
+  "amazon:us:10599071": "2026-11-14",
+  "amazon:us:10599088": "2026-11-14",
+  "amazon:us:10599140": "2026-11-14",
+  "amazon:us:10599154": "2026-11-14",
+  "amazon:us:10599200": "2026-11-14",
+  "amazon:us:10599226": "2026-11-14",
+  "amazon:us:10599227": "2026-11-14",
+  "amazon:us:10599272": "2026-11-14",
+  "amazon:us:10599325": "2026-11-14",
+  "amazon:us:10599326": "2026-11-14",
+  "amazon:us:10599327": "2026-11-14",
+  "amazon:us:10599328": "2026-11-14",
+  "amazon:us:10599329": "2026-11-14",
+  "amazon:us:10599427": "2026-11-14",
+  "amazon:us:10599505": "2026-11-14",
+  "amazon:us:10599517": "2026-11-14",
+  "amazon:us:10599518": "2026-11-14",
+  "amazon:us:10599519": "2026-11-14",
+  "amazon:us:10599520": "2026-11-14",
+  "amazon:us:10599820": "2026-11-14",
+  "amazon:us:10599888": "2026-11-14",
+  "amazon:us:10599912": "2026-11-14",
+  "amazon:us:10599966": "2026-11-14",
+  "amazon:us:10600248": "2026-11-14",
+  "amazon:us:10600252": "2026-11-14",
+  "amazon:us:10600288": "2026-11-14",
+  "amazon:us:10600289": "2026-11-14",
+  "amazon:us:10600297": "2026-11-14",
+  "amazon:us:10600460": "2026-11-14",
+  "amazon:us:10600467": "2026-11-14",
+  "amazon:us:10600471": "2026-11-14",
+  "amazon:us:10600530": "2026-11-14",
+  "amazon:us:10600535": "2026-11-14",
+  "amazon:us:10600537": "2026-11-14",
+  "amazon:us:10600549": "2026-11-14",
+  "amazon:us:10600561": "2026-11-14",
+  "amazon:us:10600616": "2026-11-14",
+  "amazon:us:10600642": "2026-11-14",
+  "amazon:us:10600646": "2026-11-14",
+  "amazon:us:10600652": "2026-11-14",
+  "amazon:us:10600664": "2026-11-14",
+  "amazon:us:10600733": "2026-11-14",
+  "amazon:us:10600808": "2026-11-14",
+  "amazon:us:10600811": "2026-11-14",
+  "amazon:us:10600812": "2026-11-14",
+  "amazon:us:10600836": "2026-11-14",
+  "amazon:us:10601102": "2026-11-14",
+  "amazon:us:10601141": "2026-11-14",
+  "amazon:us:10601215": "2026-11-14",
+  "amazon:us:10601329": "2026-11-14",
+  "amazon:us:10601501": "2026-11-14",
+  "amazon:us:10601502": "2026-11-14",
+  "amazon:us:10601540": "2026-11-14",
+  "amazon:us:10601546": "2026-11-14",
+  "amazon:us:10601553": "2026-11-14",
+  "amazon:us:10601769": "2026-11-14",
+  "amazon:us:10601775": "2026-11-14",
+  "amazon:us:10601816": "2026-11-14",
+  "amazon:us:10601842": "2026-11-14",
+  "amazon:us:10601854": "2026-11-14",
+  "amazon:us:10601898": "2026-11-14",
+  "amazon:us:10601925": "2026-11-14",
+  "amazon:us:10601926": "2026-11-14",
+  "amazon:us:10601938": "2026-11-14",
+  "amazon:us:10601939": "2026-11-14",
+  "amazon:us:10601945": "2026-11-14",
+  "amazon:us:10601956": "2026-11-14",
+  "amazon:us:10601959": "2026-11-14",
+  "amazon:us:10601960": "2026-11-14",
+  "amazon:us:10601961": "2026-11-14",
+  "amazon:us:10601978": "2026-11-14",
+  "amazon:us:10601979": "2026-11-14",
+  "amazon:us:10601986": "2026-11-14",
+  "amazon:us:10602007": "2026-11-14",
+  "amazon:us:10602229": "2026-11-14",
+  "amazon:us:10602351": "2026-11-14",
+  "amazon:us:10602358": "2026-11-14",
+  "amazon:us:10602474": "2026-11-14",
+  "amazon:us:10602535": "2026-11-14",
+  "amazon:us:10602555": "2026-11-14",
+  "amazon:us:10602610": "2026-11-14",
+  "amazon:us:10602611": "2026-11-14",
+  "amazon:us:10602612": "2026-11-14",
+  "amazon:us:10602613": "2026-11-14",
+  "amazon:us:10602614": "2026-11-14",
+  "amazon:us:10602663": "2026-11-14",
+  "amazon:us:10602664": "2026-11-14",
+  "amazon:us:10602674": "2026-11-14",
+  "amazon:us:10602698": "2026-11-14",
+  "amazon:us:10602707": "2026-11-14",
+  "amazon:us:10602715": "2026-11-14",
+  "amazon:us:10602716": "2026-11-14",
+  "amazon:us:10602731": "2026-11-14",
+  "amazon:us:10602773": "2026-11-14",
+  "amazon:us:10602785": "2026-11-14",
+  "amazon:us:10602805": "2026-11-14",
+  "amazon:us:10602900": "2026-11-14",
+  "amazon:us:10602901": "2026-11-14",
+  "amazon:us:10602907": "2026-11-14",
+  "amazon:us:10602942": "2026-11-14",
+  "amazon:us:10602950": "2026-11-14",
+  "amazon:us:10603038": "2026-11-14",
+  "amazon:us:10603157": "2026-11-14",
+  "amazon:us:10603260": "2026-11-14",
+  "amazon:us:10603380": "2026-11-14",
+  "amazon:us:10603409": "2026-11-14",
+  "amazon:us:10603476": "2026-11-14",
+  "amazon:us:10603523": "2026-11-14",
+  "amazon:us:10603659": "2026-11-14",
+  "amazon:us:10603660": "2026-11-14",
+  "amazon:us:10603815": "2026-11-14",
+  "amazon:us:10603822": "2026-11-14",
+  "amazon:us:10603879": "2026-11-14",
+  "amazon:us:10603880": "2026-11-14",
+  "amazon:us:10603911": "2026-11-14",
+  "amazon:us:10603912": "2026-11-14",
+  "amazon:us:10603920": "2026-11-14",
+  "amazon:us:10603921": "2026-11-14",
+  "amazon:us:10603988": "2026-11-14",
+  "amazon:us:10604047": "2026-11-14",
+  "amazon:us:10604105": "2026-11-14",
+  "amazon:us:10604195": "2026-11-14",
+  "amazon:us:10604217": "2026-11-14",
+  "amazon:us:10604309": "2026-11-14",
+  "amazon:us:10604479": "2026-11-14",
+  "amazon:us:10604591": "2026-11-14",
+  "amazon:us:10604594": "2026-11-14",
+  "amazon:us:10604661": "2026-11-14",
+  "amazon:us:10604684": "2026-11-14",
+  "amazon:us:10604727": "2026-11-14",
+  "amazon:us:10604833": "2026-11-14",
+  "amazon:us:10604860": "2026-11-14",
+  "amazon:us:10604881": "2026-11-14",
+  "amazon:us:10604889": "2026-11-14",
+  "amazon:us:10604911": "2026-11-14",
+  "amazon:us:10604920": "2026-11-14",
+  "amazon:us:10604922": "2026-11-14",
+  "amazon:us:10604932": "2026-11-14",
+  "amazon:us:10604939": "2026-11-14",
+  "amazon:us:10604961": "2026-11-14",
+  "amazon:us:10604967": "2026-11-14",
+  "amazon:us:10604970": "2026-11-14",
+  "amazon:us:10604977": "2026-11-14",
+  "amazon:us:10605005": "2026-11-14",
+  "amazon:us:10605024": "2026-11-14",
+  "amazon:us:10605028": "2026-11-14",
+  "amazon:us:10605040": "2026-11-14",
+  "amazon:us:10605095": "2026-11-14",
+  "amazon:us:10605103": "2026-11-14",
+  "amazon:us:10605139": "2026-11-14",
+  "amazon:us:10605142": "2026-11-14",
+  "apple:usa:200555687": "2026-11-14",
+  "apple:usa:200607680": "2026-11-14",
+  "apple:usa:200637194": "2026-11-14",
+  "apple:usa:200649481": "2026-11-14",
+  "apple:usa:200657328": "2026-11-14",
+  "apple:usa:200657329": "2026-11-14",
+  "apple:usa:200665281": "2026-11-14",
+  "apple:usa:200675289": "2026-11-14",
+  "apple:usa:200676774": "2026-11-14",
+  "apple:usa:200682498": "2026-11-14",
+  "apple:usa:200682520": "2026-11-14",
+  "apple:usa:200682611": "2026-11-14",
+  "apple:usa:200686682": "2026-11-14",
+  "apple:usa:200687778": "2026-11-14",
+  "apple:usa:200687791": "2026-11-14",
+  "apple:usa:200690352": "2026-11-14",
+  "apple:usa:200690525": "2026-11-14",
+  "apple:usa:200690606": "2026-11-14",
+  "apple:usa:200690608": "2026-11-14",
+  "apple:usa:200691102": "2026-11-14",
+  "apple:usa:200691165": "2026-11-14",
+  "apple:usa:200691326": "2026-11-14",
+  "apple:usa:200691404": "2026-11-14",
+  "apple:usa:200691413": "2026-11-14",
+  "apple:usa:200691617": "2026-11-14",
+  "apple:usa:200691707": "2026-11-14",
+  "apple:usa:200692246": "2026-11-14",
+  "apple:usa:200692268": "2026-11-14",
+  "apple:usa:200692689": "2026-11-14",
+  "apple:usa:200692995": "2026-11-14",
+  "apple:usa:200693202": "2026-11-14",
+  "apple:usa:200693249": "2026-11-14",
+  "apple:usa:200693280": "2026-11-14",
+  "apple:usa:200693289": "2026-11-14",
+  "apple:usa:200693291": "2026-11-14",
+  "apple:usa:200693292": "2026-11-14",
+  "apple:usa:200693293": "2026-11-14",
+  "apple:usa:200693294": "2026-11-14",
+  "apple:usa:200693295": "2026-11-14",
+  "apple:usa:200693492": "2026-11-14",
+  "apple:usa:200693547": "2026-11-14",
+  "apple:usa:200693583": "2026-11-14",
+  "apple:usa:200693606": "2026-11-14",
+  "apple:usa:200693613": "2026-11-14",
+  "apple:usa:200693652": "2026-11-14",
+  "apple:usa:200693704": "2026-11-14",
+  "apple:usa:200693720": "2026-11-14",
+  "apple:usa:200693736": "2026-11-14",
+  "apple:usa:200693742": "2026-11-14",
+  "apple:usa:200693785": "2026-11-14",
+  "apple:usa:200693797": "2026-11-14",
+  "apple:usa:200693803": "2026-11-14",
+  "apple:usa:200693890": "2026-11-14",
+  "apple:usa:200693892": "2026-11-14",
+  "apple:usa:200693896": "2026-11-14",
+  "apple:usa:200693908": "2026-11-14",
+  "apple:usa:200693928": "2026-11-14",
+  "apple:usa:200693933": "2026-11-14",
+  "apple:usa:200693935": "2026-11-14",
+  "apple:usa:200693964": "2026-11-14",
+  "apple:usa:200694101": "2026-11-14",
+  "apple:usa:200694108": "2026-11-14",
+  "apple:usa:200694120": "2026-11-14",
+  "apple:usa:200694124": "2026-11-14",
+  "apple:usa:200694125": "2026-11-14",
+  "apple:usa:200694128": "2026-11-14",
+  "apple:usa:200694130": "2026-11-14",
+  "apple:usa:200694131": "2026-11-14",
+  "apple:usa:200694134": "2026-11-14",
+  "apple:usa:200694167": "2026-11-14",
+  "apple:usa:200694227": "2026-11-14",
+  "apple:usa:200694312": "2026-11-14",
+  "apple:usa:200694334": "2026-11-14",
+  "apple:usa:200694339": "2026-11-14",
+  "apple:usa:200694359": "2026-11-14",
+  "apple:usa:200694375": "2026-11-14",
+  "apple:usa:200694377": "2026-11-14",
+  "apple:usa:200694378": "2026-11-14",
+  "apple:usa:200694379": "2026-11-14",
+  "apple:usa:200694380": "2026-11-14",
+  "apple:usa:200694381": "2026-11-14",
+  "apple:usa:200694390": "2026-11-14",
+  "apple:usa:200694398": "2026-11-14",
+  "apple:usa:200694405": "2026-11-14",
+  "apple:usa:200694408": "2026-11-14",
+  "apple:usa:200694411": "2026-11-14",
+  "apple:usa:200694412": "2026-11-14",
+  "apple:usa:200694416": "2026-11-14",
+  "apple:usa:200694418": "2026-11-14",
+  "apple:usa:200694470": "2026-11-14",
+  "apple:usa:200694513": "2026-11-14",
+  "apple:usa:200694519": "2026-11-14",
+  "apple:usa:200694530": "2026-11-14",
+  "apple:usa:200694561": "2026-11-14",
+  "apple:usa:200694578": "2026-11-14",
+  "apple:usa:200694588": "2026-11-14",
+  "apple:usa:200694620": "2026-11-14",
+  "apple:usa:200694656": "2026-11-14",
+  "apple:usa:200694740": "2026-11-14",
+  "apple:usa:200694741": "2026-11-14",
+  "apple:usa:200694753": "2026-11-14",
+  "apple:usa:200694768": "2026-11-14",
+  "apple:usa:200694769": "2026-11-14",
+  "apple:usa:200694773": "2026-11-14",
+  "apple:usa:200694829": "2026-11-14",
+  "apple:usa:200694831": "2026-11-14",
+  "apple:usa:200694832": "2026-11-14",
+  "apple:usa:200694842": "2026-11-14",
+  "apple:usa:200694852": "2026-11-14",
+  "apple:usa:200694936": "2026-11-14",
+  "apple:usa:200694942": "2026-11-14",
+  "apple:usa:200694953": "2026-11-14",
+  "apple:usa:200694954": "2026-11-14",
+  "apple:usa:200694963": "2026-11-14",
+  "apple:usa:200694967": "2026-11-14",
+  "apple:usa:200694969": "2026-11-14",
+  "apple:usa:200694977": "2026-11-14",
+  "apple:usa:200694985": "2026-11-14",
+  "apple:usa:200695036": "2026-11-14",
+  "apple:usa:200695045": "2026-11-14",
+  "apple:usa:200695049": "2026-11-14",
+  "apple:usa:200695051": "2026-11-14",
   "ashby:1password:13200311-77c5-49ed-a3ce-8460d5c72d91": "2026-11-13",
   "ashby:1password:15658971-e4f4-490b-97fe-5e716ddab770": "2026-11-13",
   "ashby:42dot:26f79b07-2ffc-44a3-9d92-36111d18fb34": "2026-11-13",
@@ -37934,6 +38749,7 @@
   "ashby:kraken.com:6d3b6e08-97ec-4eda-b3ad-bbf5fd955840": "2026-11-13",
   "ashby:kraken.com:decc0dbd-51f7-4fee-9635-130211623f07": "2026-11-13",
   "ashby:kubermatic:8f106095-0eee-492a-b970-4e4a0d77a0a3": "2026-11-13",
+  "ashby:lambda:08addfcf-1466-4bea-a72e-07fb5b29fb97": "2026-11-14",
   "ashby:langchain:5095871a-9af2-4521-8c63-ff0d852f7354": "2026-11-13",
   "ashby:legora:3a211507-00bc-4fd1-8850-bed7c9c9d86a": "2026-11-13",
   "ashby:linear:b4df9dbe-618e-4a3b-874c-c9abf87ca5c0": "2026-11-13",
@@ -38000,6 +38816,7 @@
   "ashby:people-culture-talent:555aac85-9640-4c91-af92-a16887f4c705": "2026-11-13",
   "ashby:persona.ai:215079e9-cd30-4eb0-abce-01011a0eee29": "2026-11-13",
   "ashby:persona.ai:bf7d9341-e4cd-4bd9-be47-dc420dcd09b2": "2026-11-13",
+  "ashby:physicalintelligence:16bfcb45-4056-4e8d-b1d7-7411fffeb5a1": "2026-11-14",
   "ashby:pika:b075e6fb-df01-4eac-9437-1c1db97ea881": "2026-11-13",
   "ashby:pirros:cb094c2d-2391-44f9-b209-37b1af30c206": "2026-11-13",
   "ashby:pocket:08382d72-a35f-4c4c-a5c2-de8fafb5147d": "2026-11-13",
@@ -38986,6 +39803,89 @@
   "greenhouse:zone5technologies:5481034008": "2026-11-13",
   "greenhouse:zscaler:5239098007": "2026-11-13",
   "greenhouse:zscaler:5239707007": "2026-11-13",
+  "ibm:us:109736": "2026-11-14",
+  "ibm:us:118292": "2026-11-14",
+  "ibm:us:120562": "2026-11-14",
+  "ibm:us:124198": "2026-11-14",
+  "ibm:us:127927": "2026-11-14",
+  "ibm:us:127929": "2026-11-14",
+  "ibm:us:128546": "2026-11-14",
+  "ibm:us:128608": "2026-11-14",
+  "ibm:us:128732": "2026-11-14",
+  "ibm:us:128743": "2026-11-14",
+  "ibm:us:128766": "2026-11-14",
+  "ibm:us:128778": "2026-11-14",
+  "ibm:us:128812": "2026-11-14",
+  "ibm:us:128927": "2026-11-14",
+  "ibm:us:129114": "2026-11-14",
+  "ibm:us:129123": "2026-11-14",
+  "ibm:us:129127": "2026-11-14",
+  "ibm:us:129429": "2026-11-14",
+  "ibm:us:129654": "2026-11-14",
+  "ibm:us:129888": "2026-11-14",
+  "ibm:us:129918": "2026-11-14",
+  "ibm:us:130070": "2026-11-14",
+  "ibm:us:130369": "2026-11-14",
+  "ibm:us:130874": "2026-11-14",
+  "ibm:us:131165": "2026-11-14",
+  "ibm:us:132703": "2026-11-14",
+  "ibm:us:132721": "2026-11-14",
+  "ibm:us:132722": "2026-11-14",
+  "ibm:us:132979": "2026-11-14",
+  "ibm:us:133673": "2026-11-14",
+  "ibm:us:133797": "2026-11-14",
+  "ibm:us:134057": "2026-11-14",
+  "ibm:us:134449": "2026-11-14",
+  "ibm:us:134653": "2026-11-14",
+  "ibm:us:134973": "2026-11-14",
+  "ibm:us:134987": "2026-11-14",
+  "ibm:us:135004": "2026-11-14",
+  "ibm:us:135005": "2026-11-14",
+  "ibm:us:135007": "2026-11-14",
+  "ibm:us:135008": "2026-11-14",
+  "ibm:us:135009": "2026-11-14",
+  "ibm:us:135178": "2026-11-14",
+  "ibm:us:135182": "2026-11-14",
+  "ibm:us:135184": "2026-11-14",
+  "ibm:us:135187": "2026-11-14",
+  "ibm:us:135269": "2026-11-14",
+  "ibm:us:135522": "2026-11-14",
+  "ibm:us:135558": "2026-11-14",
+  "ibm:us:135833": "2026-11-14",
+  "ibm:us:136982": "2026-11-14",
+  "ibm:us:137080": "2026-11-14",
+  "ibm:us:137277": "2026-11-14",
+  "ibm:us:137406": "2026-11-14",
+  "ibm:us:137410": "2026-11-14",
+  "ibm:us:137412": "2026-11-14",
+  "ibm:us:137427": "2026-11-14",
+  "ibm:us:137527": "2026-11-14",
+  "ibm:us:137578": "2026-11-14",
+  "ibm:us:137600": "2026-11-14",
+  "ibm:us:137683": "2026-11-14",
+  "ibm:us:137694": "2026-11-14",
+  "ibm:us:137701": "2026-11-14",
+  "ibm:us:137709": "2026-11-14",
+  "ibm:us:137780": "2026-11-14",
+  "ibm:us:137919": "2026-11-14",
+  "ibm:us:138185": "2026-11-14",
+  "ibm:us:138220": "2026-11-14",
+  "ibm:us:138550": "2026-11-14",
+  "ibm:us:138604": "2026-11-14",
+  "ibm:us:138647": "2026-11-14",
+  "ibm:us:138780": "2026-11-14",
+  "ibm:us:138943": "2026-11-14",
+  "ibm:us:138957": "2026-11-14",
+  "ibm:us:139663": "2026-11-14",
+  "ibm:us:139664": "2026-11-14",
+  "ibm:us:139841": "2026-11-14",
+  "ibm:us:139842": "2026-11-14",
+  "ibm:us:141129": "2026-11-14",
+  "ibm:us:141688": "2026-11-14",
+  "ibm:us:142026": "2026-11-14",
+  "ibm:us:142039": "2026-11-14",
+  "ibm:us:142049": "2026-11-14",
+  "ibm:us:73787": "2026-11-14",
   "icims:americas-cookmedical.icims.com:19198": "2026-11-13",
   "icims:americas-cookmedical.icims.com:20874": "2026-11-13",
   "icims:bowheadcareers-uicalaska.icims.com:24250": "2026-11-13",
@@ -42320,6 +43220,7 @@
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2027138EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2027165EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2027792EXTERNALENGLOBAL": "2026-11-13",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2027857EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2027991EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028784EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028942EXTERNALENGLOBAL": "2026-11-13",
@@ -44670,6 +45571,275 @@
   "taleo:mtstatejobs|200:26142804": "2026-11-13",
   "taleo:mtstatejobs|200:26142807": "2026-11-13",
   "taleo:utsw|2:986569": "2026-11-13",
+  "tiktok:us:6787509516708612366": "2026-11-14",
+  "tiktok:us:6834621814993242376": "2026-11-14",
+  "tiktok:us:6834664619631741192": "2026-11-14",
+  "tiktok:us:6843942799873329416": "2026-11-14",
+  "tiktok:us:6846876125122349325": "2026-11-14",
+  "tiktok:us:7063498472644856078": "2026-11-14",
+  "tiktok:us:7104433489986734350": "2026-11-14",
+  "tiktok:us:7112323404073847053": "2026-11-14",
+  "tiktok:us:7112323775379343623": "2026-11-14",
+  "tiktok:us:7117084434700110094": "2026-11-14",
+  "tiktok:us:7122225825806076190": "2026-11-14",
+  "tiktok:us:7153294049829849351": "2026-11-14",
+  "tiktok:us:7176798113583024444": "2026-11-14",
+  "tiktok:us:7184879550440950076": "2026-11-14",
+  "tiktok:us:7194899225464080698": "2026-11-14",
+  "tiktok:us:7199804834424359227": "2026-11-14",
+  "tiktok:us:7231665935751940413": "2026-11-14",
+  "tiktok:us:7236829563632257337": "2026-11-14",
+  "tiktok:us:7237232071835158841": "2026-11-14",
+  "tiktok:us:7237271025020504380": "2026-11-14",
+  "tiktok:us:7249891331191212349": "2026-11-14",
+  "tiktok:us:7255730378546481464": "2026-11-14",
+  "tiktok:us:7255824380130609445": "2026-11-14",
+  "tiktok:us:7269820284705524023": "2026-11-14",
+  "tiktok:us:7272596770227538213": "2026-11-14",
+  "tiktok:us:7272850627067480375": "2026-11-14",
+  "tiktok:us:7276262058998368572": "2026-11-14",
+  "tiktok:us:7278068779270408508": "2026-11-14",
+  "tiktok:us:7281061641377106234": "2026-11-14",
+  "tiktok:us:7317393782285256969": "2026-11-14",
+  "tiktok:us:7317741501873490227": "2026-11-14",
+  "tiktok:us:7320145236901808394": "2026-11-14",
+  "tiktok:us:7321895068121221426": "2026-11-14",
+  "tiktok:us:7322993115722336538": "2026-11-14",
+  "tiktok:us:7322998235886389513": "2026-11-14",
+  "tiktok:us:7329694180132489482": "2026-11-14",
+  "tiktok:us:7332024640350587174": "2026-11-14",
+  "tiktok:us:7332027205470636315": "2026-11-14",
+  "tiktok:us:7333382269098395931": "2026-11-14",
+  "tiktok:us:7337454748909455666": "2026-11-14",
+  "tiktok:us:7338295549920545074": "2026-11-14",
+  "tiktok:us:7349801857319045402": "2026-11-14",
+  "tiktok:us:7356029573374757146": "2026-11-14",
+  "tiktok:us:7356377079648487731": "2026-11-14",
+  "tiktok:us:7356469949676046618": "2026-11-14",
+  "tiktok:us:7359084648250493210": "2026-11-14",
+  "tiktok:us:7359367460887382281": "2026-11-14",
+  "tiktok:us:7390162697800648969": "2026-11-14",
+  "tiktok:us:7418237689608292635": "2026-11-14",
+  "tiktok:us:7449447195910359304": "2026-11-14",
+  "tiktok:us:7450396732770928914": "2026-11-14",
+  "tiktok:us:7464840513293912327": "2026-11-14",
+  "tiktok:us:7475441025546471698": "2026-11-14",
+  "tiktok:us:7483343729630202130": "2026-11-14",
+  "tiktok:us:7488399042070956296": "2026-11-14",
+  "tiktok:us:7488405096855046407": "2026-11-14",
+  "tiktok:us:7494051296631752978": "2026-11-14",
+  "tiktok:us:7496763358990993672": "2026-11-14",
+  "tiktok:us:7515161004087625991": "2026-11-14",
+  "tiktok:us:7519243940139403528": "2026-11-14",
+  "tiktok:us:7524450749414443272": "2026-11-14",
+  "tiktok:us:7525740914134272264": "2026-11-14",
+  "tiktok:us:7531062634398681352": "2026-11-14",
+  "tiktok:us:7534981143928998151": "2026-11-14",
+  "tiktok:us:7538573630772726034": "2026-11-14",
+  "tiktok:us:7540175526969166087": "2026-11-14",
+  "tiktok:us:7551574702218627335": "2026-11-14",
+  "tiktok:us:7553768729650743560": "2026-11-14",
+  "tiktok:us:7553813426717313287": "2026-11-14",
+  "tiktok:us:7555651631808858375": "2026-11-14",
+  "tiktok:us:7556401143531424018": "2026-11-14",
+  "tiktok:us:7559487394932590856": "2026-11-14",
+  "tiktok:us:7566033079273326853": "2026-11-14",
+  "tiktok:us:7571203452282505525": "2026-11-14",
+  "tiktok:us:7576817735755516213": "2026-11-14",
+  "tiktok:us:7581961685168245045": "2026-11-14",
+  "tiktok:us:7585315976846543157": "2026-11-14",
+  "tiktok:us:7586803947446503685": "2026-11-14",
+  "tiktok:us:7594625211345979701": "2026-11-14",
+  "tiktok:us:7594626946647492917": "2026-11-14",
+  "tiktok:us:7595416370108533045": "2026-11-14",
+  "tiktok:us:7595445244009138485": "2026-11-14",
+  "tiktok:us:7600582133919189253": "2026-11-14",
+  "tiktok:us:7601028768589826357": "2026-11-14",
+  "tiktok:us:7603315698139744517": "2026-11-14",
+  "tiktok:us:7603317198921074997": "2026-11-14",
+  "tiktok:us:7604908702463314181": "2026-11-14",
+  "tiktok:us:7605339679789091125": "2026-11-14",
+  "tiktok:us:7605339679789844789": "2026-11-14",
+  "tiktok:us:7605340871604586757": "2026-11-14",
+  "tiktok:us:7605364355308964101": "2026-11-14",
+  "tiktok:us:7615352357392697653": "2026-11-14",
+  "tiktok:us:7619081961436924213": "2026-11-14",
+  "tiktok:us:7619157841027598597": "2026-11-14",
+  "tiktok:us:7621693567735810357": "2026-11-14",
+  "tiktok:us:7623465908673202485": "2026-11-14",
+  "tiktok:us:7626968373985429765": "2026-11-14",
+  "tiktok:us:7628304546007320837": "2026-11-14",
+  "tiktok:us:7628834530694416693": "2026-11-14",
+  "tiktok:us:7629005205206288645": "2026-11-14",
+  "tiktok:us:7629038970903644469": "2026-11-14",
+  "tiktok:us:7629413068283808053": "2026-11-14",
+  "tiktok:us:7630969539807185205": "2026-11-14",
+  "tiktok:us:7631492502735735045": "2026-11-14",
+  "tiktok:us:7639120600807508277": "2026-11-14",
+  "tiktok:us:7639632990934960389": "2026-11-14",
+  "tiktok:us:7641220240684468533": "2026-11-14",
+  "tiktok:us:7642384968602962181": "2026-11-14",
+  "tiktok:us:7642388016937568517": "2026-11-14",
+  "tiktok:us:7646480749625624885": "2026-11-14",
+  "tiktok:us:7646684538269632821": "2026-11-14",
+  "tiktok:us:7646695339021715717": "2026-11-14",
+  "tiktok:us:7647101516500093237": "2026-11-14",
+  "tiktok:us:7647268188226160901": "2026-11-14",
+  "tiktok:us:7647270216692697349": "2026-11-14",
+  "tiktok:us:7647286388741507333": "2026-11-14",
+  "tiktok:us:7650428332778948869": "2026-11-14",
+  "tiktok:us:7652143855625652533": "2026-11-14",
+  "tiktok:us:7652727866048448821": "2026-11-14",
+  "tiktok:us:7652731061008992517": "2026-11-14",
+  "tiktok:us:7654730223138654469": "2026-11-14",
+  "tiktok:us:7662516728223615285": "2026-11-14",
+  "tiktok:us:7663028952600807733": "2026-11-14",
+  "tiktok:us:7663032057264244997": "2026-11-14",
+  "tiktok:us:7663036952090347829": "2026-11-14",
+  "tiktok:us:7663042453461600517": "2026-11-14",
+  "tiktok:us:7663060793474926853": "2026-11-14",
+  "tiktok:us:7663389745178757429": "2026-11-14",
+  "tiktok:us:7664533229944178949": "2026-11-14",
+  "tiktok:us:7664978367107713333": "2026-11-14",
+  "tiktok:us:7665797203155896581": "2026-11-14",
+  "tiktok:us:7665986019233958197": "2026-11-14",
+  "tiktok:us:7665989305914984709": "2026-11-14",
+  "tiktok:us:7665991852209932597": "2026-11-14",
+  "tiktok:us:7665994926854555909": "2026-11-14",
+  "tiktok:us:7665994926887291189": "2026-11-14",
+  "tiktok:us:7667344113001384197": "2026-11-14",
+  "tiktok:us:7667346543553710389": "2026-11-14",
+  "tiktok:us:7667349591747758341": "2026-11-14",
+  "tiktok:us:7667632457230960949": "2026-11-14",
+  "tiktok:us:7667634690129201461": "2026-11-14",
+  "tiktok:us:7668066625135921413": "2026-11-14",
+  "tiktok:us:7668376903708281141": "2026-11-14",
+  "tiktok:us:7668384123840514309": "2026-11-14",
+  "tiktok:us:7668550561096665397": "2026-11-14",
+  "tiktok:us:7668554579301124357": "2026-11-14",
+  "tiktok:us:7668557209047894325": "2026-11-14",
+  "tiktok:us:7668561079544154373": "2026-11-14",
+  "tiktok:us:7668566347702569269": "2026-11-14",
+  "tiktok:us:7668569995571726597": "2026-11-14",
+  "tiktok:us:7668578318295386373": "2026-11-14",
+  "tiktok:us:7668582086900680965": "2026-11-14",
+  "tiktok:us:7668582542044072245": "2026-11-14",
+  "tiktok:us:7668592348941273349": "2026-11-14",
+  "tiktok:us:7668592494649690421": "2026-11-14",
+  "tiktok:us:7668629846058223877": "2026-11-14",
+  "tiktok:us:7668660365135808821": "2026-11-14",
+  "tiktok:us:7668662545059023157": "2026-11-14",
+  "tiktok:us:7668663594419374341": "2026-11-14",
+  "tiktok:us:7668693662561634613": "2026-11-14",
+  "tiktok:us:7668700671828707589": "2026-11-14",
+  "tiktok:us:7668701361741007109": "2026-11-14",
+  "tiktok:us:7668701834807101749": "2026-11-14",
+  "tiktok:us:7668717356843977013": "2026-11-14",
+  "tiktok:us:7668724383120804149": "2026-11-14",
+  "tiktok:us:7668824169648097541": "2026-11-14",
+  "tiktok:us:7668827379083823413": "2026-11-14",
+  "tiktok:us:7668827381435517237": "2026-11-14",
+  "tiktok:us:7668828193675036981": "2026-11-14",
+  "tiktok:us:7668843238309824773": "2026-11-14",
+  "tiktok:us:7668855346857019701": "2026-11-14",
+  "tiktok:us:7668879883938203957": "2026-11-14",
+  "tiktok:us:7669691374918011141": "2026-11-14",
+  "tiktok:us:7669698543896054069": "2026-11-14",
+  "tiktok:us:7669700358734170373": "2026-11-14",
+  "tiktok:us:7669702699627661573": "2026-11-14",
+  "tiktok:us:7669709290431236357": "2026-11-14",
+  "tiktok:us:7669711968024430853": "2026-11-14",
+  "tiktok:us:7669910326745434421": "2026-11-14",
+  "tiktok:us:7669913085331409205": "2026-11-14",
+  "tiktok:us:7669957922422507781": "2026-11-14",
+  "tiktok:us:7670276769459456309": "2026-11-14",
+  "tiktok:us:7670282906426476853": "2026-11-14",
+  "tiktok:us:7670285495593273605": "2026-11-14",
+  "tiktok:us:7670285949553707317": "2026-11-14",
+  "tiktok:us:7670288355678177589": "2026-11-14",
+  "tiktok:us:7670292836050422021": "2026-11-14",
+  "tiktok:us:7670367152357673221": "2026-11-14",
+  "tiktok:us:7670384219637664053": "2026-11-14",
+  "tiktok:us:7670387719826786565": "2026-11-14",
+  "tiktok:us:7670472039307987253": "2026-11-14",
+  "tiktok:us:7670558992960358661": "2026-11-14",
+  "tiktok:us:7670685495206857013": "2026-11-14",
+  "tiktok:us:7670686314588801333": "2026-11-14",
+  "tiktok:us:7670835209797650693": "2026-11-14",
+  "tiktok:us:7670876337129425205": "2026-11-14",
+  "tiktok:us:7671038093061572869": "2026-11-14",
+  "tiktok:us:7672517471946000645": "2026-11-14",
+  "tiktok:us:7672518398222387461": "2026-11-14",
+  "tiktok:us:7672530785573980421": "2026-11-14",
+  "tiktok:us:7672532275557583157": "2026-11-14",
+  "tiktok:us:7672532801686571317": "2026-11-14",
+  "tiktok:us:7672544569011964213": "2026-11-14",
+  "tiktok:us:7672654026594093317": "2026-11-14",
+  "tiktok:us:7672821148211530037": "2026-11-14",
+  "tiktok:us:7672880386574338309": "2026-11-14",
+  "tiktok:us:7672882500030138629": "2026-11-14",
+  "tiktok:us:7672911151560296709": "2026-11-14",
+  "tiktok:us:7672915427278457141": "2026-11-14",
+  "tiktok:us:7672976491146004741": "2026-11-14",
+  "tiktok:us:7673215338318367029": "2026-11-14",
+  "tiktok:us:7673284715407886597": "2026-11-14",
+  "tiktok:us:7673409179353139461": "2026-11-14",
+  "tiktok:us:7673667938889009461": "2026-11-14",
+  "tiktok:us:7673669198965278981": "2026-11-14",
+  "tiktok:us:7673672141010815237": "2026-11-14",
+  "tiktok:us:7673674249270839557": "2026-11-14",
+  "tiktok:us:7673674252889246005": "2026-11-14",
+  "tiktok:us:7673802858366535989": "2026-11-14",
+  "tiktok:us:7674023327725373701": "2026-11-14",
+  "tiktok:us:7674025781001062709": "2026-11-14",
+  "tiktok:us:7674029284265838853": "2026-11-14",
+  "tiktok:us:7675084972638046517": "2026-11-14",
+  "tiktok:us:7675145117074606389": "2026-11-14",
+  "tiktok:us:7675484418022181173": "2026-11-14",
+  "tiktok:us:7675510156642142469": "2026-11-14",
+  "tiktok:us:7675645998912112949": "2026-11-14",
+  "tiktok:us:7675829388634392837": "2026-11-14",
+  "tiktok:us:7675843332462872885": "2026-11-14",
+  "tiktok:us:7675844938504702213": "2026-11-14",
+  "tiktok:us:7675877203024775477": "2026-11-14",
+  "tiktok:us:7675989682099538181": "2026-11-14",
+  "tiktok:us:7676253726624024837": "2026-11-14",
+  "tiktok:us:7678060214174157061": "2026-11-14",
+  "tiktok:us:7678120538997098805": "2026-11-14",
+  "tiktok:us:7678145401619237173": "2026-11-14",
+  "tiktok:us:7679156878833682693": "2026-11-14",
+  "tiktok:us:7680411766715959605": "2026-11-14",
+  "tiktok:us:7680987768009754885": "2026-11-14",
+  "tiktok:us:7681126649950505221": "2026-11-14",
+  "tiktok:us:7681779180341709109": "2026-11-14",
+  "tiktok:us:7684280001904249093": "2026-11-14",
+  "tiktok:us:7684427309076400437": "2026-11-14",
+  "tiktok:us:7685743882289858869": "2026-11-14",
+  "tiktok:us:7685769994391832837": "2026-11-14",
+  "tiktok:us:7686144868796467461": "2026-11-14",
+  "tiktok:us:7686152618382854405": "2026-11-14",
+  "tiktok:us:7686155364187474181": "2026-11-14",
+  "tiktok:us:7686220455414106421": "2026-11-14",
+  "tiktok:us:7686222200290380085": "2026-11-14",
+  "tiktok:us:7686539143537461509": "2026-11-14",
+  "tiktok:us:7686851879855638789": "2026-11-14",
+  "tiktok:us:7686999927260105013": "2026-11-14",
+  "tiktok:us:7687813753283332357": "2026-11-14",
+  "tiktok:us:7687814085886527797": "2026-11-14",
+  "tiktok:us:7688332636746320133": "2026-11-14",
+  "tiktok:us:7690792271319943429": "2026-11-14",
+  "tiktok:us:7691471850422487301": "2026-11-14",
+  "tiktok:us:7691471990758738181": "2026-11-14",
+  "tiktok:us:7691473773610830085": "2026-11-14",
+  "tiktok:us:7694054165508557109": "2026-11-14",
+  "tiktok:us:7694055448622647557": "2026-11-14",
+  "tiktok:us:7694352871949682997": "2026-11-14",
+  "tiktok:us:7694353236283935029": "2026-11-14",
+  "tiktok:us:7694403848487799093": "2026-11-14",
+  "tiktok:us:7694416687067777285": "2026-11-14",
+  "tiktok:us:7695052983529179445": "2026-11-14",
+  "tiktok:us:7695058405471602997": "2026-11-14",
+  "tiktok:us:7696779797359233333": "2026-11-14",
   "workable:accurant:E9A36F1643": "2026-11-13",
   "workable:ace-it-careers-1:649D50A2B8": "2026-11-13",
   "workable:ajaia:056588AA24": "2026-11-13",
@@ -45698,6 +46868,7 @@
   "workday:cvshealth|wd1|cvs_health_careers:R1094134": "2026-11-13",
   "workday:cvshealth|wd1|cvs_health_careers:R1101788": "2026-11-13",
   "workday:cw|wd1|external:R329737": "2026-11-13",
+  "workday:cw|wd1|external:R339020": "2026-11-14",
   "workday:cw|wd1|external:R340530": "2026-11-13",
   "workday:cw|wd1|external:R341654": "2026-11-13",
   "workday:cw|wd1|external:R342788": "2026-11-13",
@@ -46181,6 +47352,7 @@
   "workday:highmarkhealth|wd1|highmark:J291648": "2026-11-13",
   "workday:hiscox|wd3|Hiscox_External_Site:Permanent": "2026-11-13",
   "workday:hitachi|wd1|hitachi:R0123357": "2026-11-13",
+  "workday:hitachi|wd1|hitachi:R0123487": "2026-11-14",
   "workday:hitachi|wd1|hitachi:R0135239": "2026-11-13",
   "workday:hitachi|wd1|hitachi:R0143961": "2026-11-13",
   "workday:hitachi|wd1|hitachi:R0149792": "2026-11-13",
@@ -47465,6 +48637,9 @@
   "workday:troweprice|wd5|TRowePrice:84200": "2026-11-13",
   "workday:troweprice|wd5|TRowePrice:84415": "2026-11-13",
   "workday:truist|wd1|Careers:R0117796": "2026-11-13",
+  "workday:truist|wd1|Careers:R0118957": "2026-11-14",
+  "workday:truist|wd1|Careers:R0118984": "2026-11-14",
+  "workday:truist|wd1|Careers:R0118988": "2026-11-14",
   "workday:truist|wd1|Careers:R0119306": "2026-11-13",
   "workday:truist|wd1|Careers:R0119364": "2026-11-13",
   "workday:truist|wd1|Careers:R0119379": "2026-11-13",
@@ -47490,6 +48665,7 @@
   "workday:truist|wd1|Careers:R0121320": "2026-11-13",
   "workday:truist|wd1|Careers:R0121425": "2026-11-13",
   "workday:truist|wd1|Careers:R0121452": "2026-11-13",
+  "workday:truist|wd1|Careers:R0121546": "2026-11-14",
   "workday:truist|wd1|Careers:R0121622": "2026-11-13",
   "workday:truist|wd1|Careers:R0121623": "2026-11-13",
   "workday:truist|wd1|Careers:R0121625": "2026-11-13",
@@ -47521,6 +48697,7 @@
   "workday:tti|wd1|tti_pe:R78551": "2026-11-13",
   "workday:tti|wd1|tti_pe:R78552": "2026-11-13",
   "workday:tucsonaz|wd1|Tucson_Talent:JR-1003623": "2026-11-13",
+  "workday:turo|wd12|Turo_careers:R-102761": "2026-11-14",
   "workday:tutorperini|wd12|external:Tutor Perini Corporation": "2026-11-13",
   "workday:tysonfoods|wd5|TSN:R0495375": "2026-11-13",
   "workday:tysonfoods|wd5|TSN:R0495702": "2026-11-13",
@@ -47772,10 +48949,23 @@
   "workday:zoom|wd5|zoom:R19747": "2026-11-13",
   "workday:zoom|wd5|zoom:R19774": "2026-11-13",
   "workday:zoom|wd5|zoom:R19815": "2026-11-13",
-  "workday:zoom|wd5|zoom:R19851": "2026-11-13"
+  "workday:zoom|wd5|zoom:R19851": "2026-11-13",
+  "yc:workatastartup:111719": "2026-11-14",
+  "yc:workatastartup:116108": "2026-11-14",
+  "yc:workatastartup:119086": "2026-11-14",
+  "yc:workatastartup:120006": "2026-11-14",
+  "yc:workatastartup:120168": "2026-11-14",
+  "yc:workatastartup:53662": "2026-11-14",
+  "yc:workatastartup:59310": "2026-11-14",
+  "yc:workatastartup:59403": "2026-11-14",
+  "yc:workatastartup:71011": "2026-11-14",
+  "yc:workatastartup:78968": "2026-11-14",
+  "yc:workatastartup:89677": "2026-11-14",
+  "yc:workatastartup:93234": "2026-11-14"
  },
  "source_last": {
-  "workable_search": "2026-11-14T17:45:49+00:00"
+  "workable_search": "2026-11-14T17:45:49+00:00",
+  "yc": "2026-11-14T20:10:55+00:00"
  },
  "title_rules": "944154301937",
  "version": 1
