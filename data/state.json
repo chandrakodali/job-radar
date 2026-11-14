@@ -1,5 +1,7 @@
 {
  "baselined": {
+  "amazon:us": "2026-11-14",
+  "apple:usa": "2026-11-14",
   "ashby:0g": "2026-11-09",
   "ashby:0x": "2026-11-09",
   "ashby:1password": "2026-11-07",
@@ -3763,6 +3765,7 @@
   "greenhouse:zscaler": "2026-11-07",
   "greenhouse:zupinnovation": "2026-11-11",
   "greenhouse:zyngacareers": "2026-11-09",
+  "ibm:us": "2026-11-14",
   "icims:americas-cookmedical.icims.com": "2026-11-09",
   "icims:analystcareers-analysisgroup.icims.com": "2026-11-09",
   "icims:bowheadcareers-uicalaska.icims.com": "2026-11-09",
@@ -5418,6 +5421,7 @@
   "teamtailor:unleash-amby": "2026-11-11",
   "teamtailor:varnish-software": "2026-11-11",
   "teamtailor:xataio-1680192386": "2026-11-11",
+  "tiktok:us": "2026-11-14",
   "workable:1kosmos": "2026-11-09",
   "workable:3e": "2026-11-09",
   "workable:a2e-technologies-1": "2026-11-09",
@@ -7673,17 +7677,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 64,
+   "n": 65,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 64,
+   "n": 65,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 64,
+   "n": 65,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -8093,6 +8097,16 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-09"
+  },
+  "icims:careers-cotiviti.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-14"
+  },
+  "icims:careers-eyesouthpartners.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-14"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-16",
@@ -10133,21 +10147,11 @@
    "n": 3,
    "since": "2026-11-08"
   },
-  "workday:amgen|wd1|careers": {
-   "err": "invalid JSON",
-   "n": 35,
-   "since": "2026-11-14"
-  },
   "workday:amplify|wd1|Amplify_Careers": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 403",
    "n": 4,
    "since": "2026-11-07"
-  },
-  "workday:aspendental|wd1|careers_aspen_dental": {
-   "err": "invalid JSON",
-   "n": 31,
-   "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
    "disabled_until": "2026-11-18",
@@ -10173,7 +10177,7 @@
   },
   "workday:cccis|wd1|broadbean_external": {
    "err": "invalid JSON",
-   "n": 35,
+   "n": 36,
    "since": "2026-11-14"
   },
   "workday:cff|wd1|explore-career-opportunities": {
@@ -10181,11 +10185,6 @@
    "err": "HTTP 422",
    "n": 3,
    "since": "2026-11-08"
-  },
-  "workday:chipotle|wd5|ChipotleCareers": {
-   "err": "invalid JSON",
-   "n": 39,
-   "since": "2026-11-13"
   },
   "workday:cliftonlarsonallen|wd1|CLA": {
    "disabled_until": "2026-11-18",
@@ -10227,11 +10226,6 @@
    "err": "HTTP 422",
    "n": 19,
    "since": "2026-11-07"
-  },
-  "workday:elevancehealth|wd1|ANT": {
-   "err": "invalid JSON",
-   "n": 35,
-   "since": "2026-11-14"
   },
   "workday:elevancehealth|wd1|ELV-ET": {
    "err": "invalid JSON",
@@ -10596,6 +10590,7 @@
  "missed_companies": {
   "Accurant International": "2026-11-14",
   "Bask Health": "2026-11-14",
+  "Coris": "2026-11-14",
   "Diversified Services Network, Inc.": "2026-11-14",
   "EdgeQ Technologies Private Limited": "2026-11-14",
   "Edgewater Federal Solutions, Inc.": "2026-11-14",
@@ -10617,6 +10612,7 @@
   "WorldVia": "2026-11-14",
   "Xora Innovation": "2026-11-14",
   "Zipdev": "2026-11-14",
+  "erad": "2026-11-14",
   "iCallidus": "2026-11-13"
  },
  "missing_once": {},
@@ -10630,8 +10626,8 @@
    197
   ],
   "2026-11-14": [
-   38,
-   270
+   44,
+   310
   ]
  },
  "resolved": {
@@ -26140,6 +26136,483 @@
    ],
    "t": "2026-11-09"
   },
+  "careers.ibm.com": {
+   "r": [
+    [
+     true,
+     "/$"
+    ],
+    [
+     true,
+     "/careers"
+    ],
+    [
+     false,
+     "/careers/*qtvc="
+    ],
+    [
+     true,
+     "/*/careers"
+    ],
+    [
+     false,
+     "/*/careers/*qtvc="
+    ],
+    [
+     true,
+     "/hiringmanager"
+    ],
+    [
+     false,
+     "/hiringmanager/*qtvc="
+    ],
+    [
+     true,
+     "/timeslots"
+    ],
+    [
+     false,
+     "/timeslots/*qtvc="
+    ],
+    [
+     true,
+     "/*/timeslots"
+    ],
+    [
+     false,
+     "/*/timeslots/*qtvc="
+    ],
+    [
+     true,
+     "/globalform"
+    ],
+    [
+     false,
+     "/globalform/*qtvc="
+    ],
+    [
+     true,
+     "/*/globalform"
+    ],
+    [
+     false,
+     "/*/globalform/*qtvc="
+    ],
+    [
+     true,
+     "/internalmobility"
+    ],
+    [
+     false,
+     "/internalmobility/*qtvc="
+    ],
+    [
+     true,
+     "/*/internalmobility"
+    ],
+    [
+     false,
+     "/*/internalmobility/*qtvc="
+    ],
+    [
+     true,
+     "/consultingassociatepartner"
+    ],
+    [
+     false,
+     "/consultingassociatepartner/*qtvc="
+    ],
+    [
+     true,
+     "/*/consultingassociatepartner"
+    ],
+    [
+     false,
+     "/*/consultingassociatepartner/*qtvc="
+    ],
+    [
+     true,
+     "/accelerate"
+    ],
+    [
+     false,
+     "/accelerate/*qtvc="
+    ],
+    [
+     true,
+     "/*/accelerate"
+    ],
+    [
+     false,
+     "/*/accelerate/*qtvc="
+    ],
+    [
+     true,
+     "/ptechprogram"
+    ],
+    [
+     false,
+     "/ptechprogram/*qtvc="
+    ],
+    [
+     true,
+     "/*/ptechprogram"
+    ],
+    [
+     false,
+     "/*/ptechprogram/*qtvc="
+    ],
+    [
+     true,
+     "/veterans"
+    ],
+    [
+     false,
+     "/veterans/*qtvc="
+    ],
+    [
+     true,
+     "/*/veterans"
+    ],
+    [
+     false,
+     "/*/veterans/*qtvc="
+    ],
+    [
+     true,
+     "/buddyreferral"
+    ],
+    [
+     false,
+     "/buddyreferral/*qtvc="
+    ],
+    [
+     true,
+     "/*/buddyreferral"
+    ],
+    [
+     false,
+     "/*/buddyreferral/*qtvc="
+    ],
+    [
+     true,
+     "/entrylevelold"
+    ],
+    [
+     false,
+     "/entrylevelold/*qtvc="
+    ],
+    [
+     true,
+     "/*/entrylevelold"
+    ],
+    [
+     false,
+     "/*/entrylevelold/*qtvc="
+    ],
+    [
+     true,
+     "/usentrylevelevents"
+    ],
+    [
+     false,
+     "/usentrylevelevents/*qtvc="
+    ],
+    [
+     true,
+     "/*/usentrylevelevents"
+    ],
+    [
+     false,
+     "/*/usentrylevelevents/*qtvc="
+    ],
+    [
+     true,
+     "/accelerateaplicationform"
+    ],
+    [
+     false,
+     "/accelerateaplicationform/*qtvc="
+    ],
+    [
+     true,
+     "/*/accelerateaplicationform"
+    ],
+    [
+     false,
+     "/*/accelerateaplicationform/*qtvc="
+    ],
+    [
+     true,
+     "/agency"
+    ],
+    [
+     false,
+     "/agency/*qtvc="
+    ],
+    [
+     true,
+     "/*/agency"
+    ],
+    [
+     false,
+     "/*/agency/*qtvc="
+    ],
+    [
+     true,
+     "/docusignIBMSigner"
+    ],
+    [
+     false,
+     "/docusignIBMSigner/*qtvc="
+    ],
+    [
+     true,
+     "/*/docusignIBMSigner"
+    ],
+    [
+     false,
+     "/*/docusignIBMSigner/*qtvc="
+    ],
+    [
+     true,
+     "/careersint"
+    ],
+    [
+     false,
+     "/careersint/*qtvc="
+    ],
+    [
+     true,
+     "/*/careersint"
+    ],
+    [
+     false,
+     "/*/careersint/*qtvc="
+    ],
+    [
+     true,
+     "/docusign"
+    ],
+    [
+     false,
+     "/docusign/*qtvc="
+    ],
+    [
+     true,
+     "/*/docusign"
+    ],
+    [
+     false,
+     "/*/docusign/*qtvc="
+    ],
+    [
+     true,
+     "/videointerview"
+    ],
+    [
+     false,
+     "/videointerview/*qtvc="
+    ],
+    [
+     true,
+     "/docusignIBMonly"
+    ],
+    [
+     false,
+     "/docusignIBMonly/*qtvc="
+    ],
+    [
+     true,
+     "/*/docusignIBMonly"
+    ],
+    [
+     false,
+     "/*/docusignIBMonly/*qtvc="
+    ],
+    [
+     true,
+     "/referral"
+    ],
+    [
+     false,
+     "/referral/*qtvc="
+    ],
+    [
+     true,
+     "/*/referral"
+    ],
+    [
+     false,
+     "/*/referral/*qtvc="
+    ],
+    [
+     true,
+     "/alumni"
+    ],
+    [
+     false,
+     "/alumni/*qtvc="
+    ],
+    [
+     true,
+     "/*/alumni"
+    ],
+    [
+     false,
+     "/*/alumni/*qtvc="
+    ],
+    [
+     true,
+     "/IBMbassador"
+    ],
+    [
+     false,
+     "/IBMbassador/*qtvc="
+    ],
+    [
+     true,
+     "/*/IBMbassador"
+    ],
+    [
+     false,
+     "/*/IBMbassador/*qtvc="
+    ],
+    [
+     true,
+     "/ibmjapanform"
+    ],
+    [
+     false,
+     "/ibmjapanform/*qtvc="
+    ],
+    [
+     true,
+     "/*/ibmjapanform"
+    ],
+    [
+     false,
+     "/*/ibmjapanform/*qtvc="
+    ],
+    [
+     true,
+     "/closedjob"
+    ],
+    [
+     false,
+     "/closedjob/*qtvc="
+    ],
+    [
+     true,
+     "/*/closedjob"
+    ],
+    [
+     false,
+     "/*/closedjob/*qtvc="
+    ],
+    [
+     true,
+     "/eventlisting"
+    ],
+    [
+     false,
+     "/eventlisting/*qtvc="
+    ],
+    [
+     true,
+     "/engagement"
+    ],
+    [
+     false,
+     "/engagement/*qtvc="
+    ],
+    [
+     true,
+     "/*/engagement"
+    ],
+    [
+     false,
+     "/*/engagement/*qtvc="
+    ],
+    [
+     true,
+     "/examplePathName"
+    ],
+    [
+     false,
+     "/examplePathName/*qtvc="
+    ],
+    [
+     true,
+     "/*/examplePathName"
+    ],
+    [
+     false,
+     "/*/examplePathName/*qtvc="
+    ],
+    [
+     true,
+     "/Oa620252026"
+    ],
+    [
+     false,
+     "/Oa620252026/*qtvc="
+    ],
+    [
+     true,
+     "/*/Oa620252026"
+    ],
+    [
+     false,
+     "/*/Oa620252026/*qtvc="
+    ],
+    [
+     true,
+     "/entrylevel"
+    ],
+    [
+     false,
+     "/entrylevel/*qtvc="
+    ],
+    [
+     true,
+     "/*/entrylevel"
+    ],
+    [
+     false,
+     "/*/entrylevel/*qtvc="
+    ],
+    [
+     true,
+     "/anderon"
+    ],
+    [
+     false,
+     "/anderon/*qtvc="
+    ],
+    [
+     true,
+     "/*/anderon"
+    ],
+    [
+     false,
+     "/*/anderon/*qtvc="
+    ],
+    [
+     true,
+     "/favicon.ico"
+    ],
+    [
+     true,
+     "/sitemap.xml"
+    ],
+    [
+     true,
+     "/"
+    ]
+   ],
+   "t": "2026-11-14"
+  },
   "careers.itw.com": {
    "r": [
     [
@@ -31892,6 +32365,10 @@
     ]
    ],
    "t": "2026-11-09"
+  },
+  "jobs.apple.com": {
+   "r": [],
+   "t": "2026-11-14"
   },
   "jobs.arjo.com": {
    "r": [
@@ -38176,6 +38653,59 @@
    ],
    "t": "2026-11-09"
   },
+  "www.amazon.jobs": {
+   "r": [
+    [
+     false,
+     "/internal"
+    ],
+    [
+     false,
+     "/en/internal"
+    ],
+    [
+     false,
+     "/en-gb/internal"
+    ],
+    [
+     false,
+     "/cs/internal"
+    ],
+    [
+     false,
+     "/de/internal"
+    ],
+    [
+     false,
+     "/es/internal"
+    ],
+    [
+     false,
+     "/fr/internal"
+    ],
+    [
+     false,
+     "/it/internal"
+    ],
+    [
+     false,
+     "/jp/internal"
+    ],
+    [
+     false,
+     "/pl/internal"
+    ],
+    [
+     false,
+     "/pt/internal"
+    ],
+    [
+     false,
+     "/zh/internal"
+    ]
+   ],
+   "t": "2026-11-14"
+  },
   "www.careerprofile.epiroc.com": {
    "r": [
     [
@@ -38568,6 +39098,35 @@
    ],
    "t": "2026-11-09"
   },
+  "www.ycombinator.com": {
+   "r": [
+    [
+     false,
+     "/verify/*"
+    ],
+    [
+     false,
+     "/library?categories=*&*"
+    ],
+    [
+     true,
+     "/library?categories=*"
+    ],
+    [
+     false,
+     "/library?*"
+    ],
+    [
+     false,
+     "/companies?*"
+    ],
+    [
+     true,
+     "/"
+    ]
+   ],
+   "t": "2026-11-14"
+  },
   "www.yelp.careers": {
    "r": [
     [
@@ -38777,6 +39336,65 @@
   }
  },
  "seen": {
+  "amazon:us:10593216": "2026-11-14",
+  "amazon:us:10593217": "2026-11-14",
+  "amazon:us:10597672": "2026-11-14",
+  "amazon:us:10597677": "2026-11-14",
+  "amazon:us:10598370": "2026-11-14",
+  "amazon:us:10598371": "2026-11-14",
+  "amazon:us:10598859": "2026-11-14",
+  "amazon:us:10598900": "2026-11-14",
+  "amazon:us:10598930": "2026-11-14",
+  "amazon:us:10599325": "2026-11-14",
+  "amazon:us:10599326": "2026-11-14",
+  "amazon:us:10599327": "2026-11-14",
+  "amazon:us:10599328": "2026-11-14",
+  "amazon:us:10599824": "2026-11-14",
+  "amazon:us:10600289": "2026-11-14",
+  "amazon:us:10600294": "2026-11-14",
+  "amazon:us:10600297": "2026-11-14",
+  "amazon:us:10600422": "2026-11-14",
+  "amazon:us:10600526": "2026-11-14",
+  "amazon:us:10600646": "2026-11-14",
+  "amazon:us:10600664": "2026-11-14",
+  "amazon:us:10600832": "2026-11-14",
+  "amazon:us:10601041": "2026-11-14",
+  "amazon:us:10601366": "2026-11-14",
+  "amazon:us:10601540": "2026-11-14",
+  "amazon:us:10601546": "2026-11-14",
+  "amazon:us:10601939": "2026-11-14",
+  "amazon:us:10602007": "2026-11-14",
+  "amazon:us:10602314": "2026-11-14",
+  "amazon:us:10602358": "2026-11-14",
+  "amazon:us:10602405": "2026-11-14",
+  "amazon:us:10602716": "2026-11-14",
+  "amazon:us:10603038": "2026-11-14",
+  "amazon:us:10603260": "2026-11-14",
+  "amazon:us:10603316": "2026-11-14",
+  "amazon:us:10603394": "2026-11-14",
+  "amazon:us:10603823": "2026-11-14",
+  "amazon:us:10603855": "2026-11-14",
+  "amazon:us:10604217": "2026-11-14",
+  "amazon:us:10604594": "2026-11-14",
+  "amazon:us:10605146": "2026-11-14",
+  "apple:usa:200657320": "2026-11-14",
+  "apple:usa:200674782": "2026-11-14",
+  "apple:usa:200684228": "2026-11-14",
+  "apple:usa:200684809": "2026-11-14",
+  "apple:usa:200687215": "2026-11-14",
+  "apple:usa:200690525": "2026-11-14",
+  "apple:usa:200691629": "2026-11-14",
+  "apple:usa:200693083": "2026-11-14",
+  "apple:usa:200693202": "2026-11-14",
+  "apple:usa:200693205": "2026-11-14",
+  "apple:usa:200693241": "2026-11-14",
+  "apple:usa:200693928": "2026-11-14",
+  "apple:usa:200694149": "2026-11-14",
+  "apple:usa:200694182": "2026-11-14",
+  "apple:usa:200694942": "2026-11-14",
+  "apple:usa:200694969": "2026-11-14",
+  "apple:usa:200694981": "2026-11-14",
+  "apple:usa:200694982": "2026-11-14",
   "ashby:AeroVect:49403b08-400b-43e7-91f8-709c965bda54": "2026-11-07",
   "ashby:AeroVect:91db7309-415c-498b-a033-373af6546a68": "2026-11-12",
   "ashby:AfterQuery:99afbbe0-5ad1-4f25-a00a-049f14428ac6": "2026-11-12",
@@ -38915,6 +39533,7 @@
   "ashby:options-it:dc5f0094-f6b8-422c-9773-577a519ef269": "2026-11-07",
   "ashby:orbital:34a2f3a7-011f-4d9d-9eb7-3d7e0b3377d5": "2026-11-07",
   "ashby:people-culture-talent:555aac85-9640-4c91-af92-a16887f4c705": "2026-11-11",
+  "ashby:physicalintelligence:16bfcb45-4056-4e8d-b1d7-7411fffeb5a1": "2026-11-14",
   "ashby:plsn:c422866f-657e-4510-9c05-872a8f8e0ad6": "2026-11-07",
   "ashby:prefect:6bc102cc-112f-441f-adc8-d53dc83a93ec": "2026-11-12",
   "ashby:qumulo:d60cca8b-7c6a-4883-bcae-a67dd958e2e1": "2026-11-13",
@@ -39307,6 +39926,15 @@
   "hn:whoishiring:50389352-0": "2026-11-12",
   "hn:whoishiring:50429861-0": "2026-11-12",
   "hn:whoishiring:50447035-0": "2026-11-12",
+  "ibm:us:131516": "2026-11-14",
+  "ibm:us:134653": "2026-11-14",
+  "ibm:us:137275": "2026-11-14",
+  "ibm:us:137412": "2026-11-14",
+  "ibm:us:137705": "2026-11-14",
+  "ibm:us:138604": "2026-11-14",
+  "ibm:us:138784": "2026-11-14",
+  "ibm:us:138957": "2026-11-14",
+  "ibm:us:139663": "2026-11-14",
   "icims:bowheadcareers-uicalaska.icims.com:24320": "2026-11-12",
   "icims:bowheadcareers-uicalaska.icims.com:25350": "2026-11-09",
   "icims:bowheadcareers-uicalaska.icims.com:25639": "2026-11-09",
@@ -40877,6 +41505,41 @@
   "taleo:mtstatejobs|200:26142784": "2026-11-09",
   "taleo:utsw|2:987781": "2026-11-13",
   "teamtailor:sullyai:8718634": "2026-11-12",
+  "tiktok:us:6834621814993242376": "2026-11-14",
+  "tiktok:us:7199807043455961381": "2026-11-14",
+  "tiktok:us:7237271025020504380": "2026-11-14",
+  "tiktok:us:7255730378546481464": "2026-11-14",
+  "tiktok:us:7255824380130609445": "2026-11-14",
+  "tiktok:us:7272596770227538213": "2026-11-14",
+  "tiktok:us:7317393782285256969": "2026-11-14",
+  "tiktok:us:7317741501873490227": "2026-11-14",
+  "tiktok:us:7320145236901808394": "2026-11-14",
+  "tiktok:us:7322993115722336538": "2026-11-14",
+  "tiktok:us:7322998235886389513": "2026-11-14",
+  "tiktok:us:7329694180132489482": "2026-11-14",
+  "tiktok:us:7418237689608292635": "2026-11-14",
+  "tiktok:us:7494051296631752978": "2026-11-14",
+  "tiktok:us:7576817735755516213": "2026-11-14",
+  "tiktok:us:7576821074423286021": "2026-11-14",
+  "tiktok:us:7595445244009138485": "2026-11-14",
+  "tiktok:us:7600582133919189253": "2026-11-14",
+  "tiktok:us:7604905572195371269": "2026-11-14",
+  "tiktok:us:7604908702463314181": "2026-11-14",
+  "tiktok:us:7605339679789091125": "2026-11-14",
+  "tiktok:us:7605339679789844789": "2026-11-14",
+  "tiktok:us:7619157841027598597": "2026-11-14",
+  "tiktok:us:7647268188226160901": "2026-11-14",
+  "tiktok:us:7647270216692697349": "2026-11-14",
+  "tiktok:us:7665989305914984709": "2026-11-14",
+  "tiktok:us:7668700671828707589": "2026-11-14",
+  "tiktok:us:7668701361741007109": "2026-11-14",
+  "tiktok:us:7668879883938203957": "2026-11-14",
+  "tiktok:us:7670876337129425205": "2026-11-14",
+  "tiktok:us:7672821148211530037": "2026-11-14",
+  "tiktok:us:7673284715407886597": "2026-11-14",
+  "tiktok:us:7681126649950505221": "2026-11-14",
+  "tiktok:us:7686220455414106421": "2026-11-14",
+  "tiktok:us:7686222200290380085": "2026-11-14",
   "workable:accurant:E9A36F1643": "2026-11-11",
   "workable:alphax:74C2A57C78": "2026-11-08",
   "workable:aravo:405A735D89": "2026-11-09",
@@ -41040,6 +41703,7 @@
   "workday:barclays|wd3|External_Career_Site_Barclays:JR-0000082433": "2026-11-08",
   "workday:barclays|wd3|External_Career_Site_Barclays:JR-0000133159": "2026-11-12",
   "workday:baxter|wd1|baxter:JR - 209939": "2026-11-12",
+  "workday:bbinsurance|wd1|careers:R26_0000003083": "2026-11-14",
   "workday:bdo|wd3|BDO:JR7341": "2026-11-10",
   "workday:bdo|wd3|BDO:JR7342": "2026-11-10",
   "workday:biamp|wd12|Biamp:JR100451": "2026-11-07",
@@ -41659,14 +42323,17 @@
   "wwr:weworkremotely:3c4d883fab7c025c": "2026-11-12",
   "wwr:weworkremotely:a7270715b385cea8": "2026-11-12",
   "wwr:weworkremotely:d73a5b9b475c68da": "2026-11-13",
-  "wwr:weworkremotely:e489577f656b98b2": "2026-11-12"
+  "wwr:weworkremotely:e489577f656b98b2": "2026-11-12",
+  "yc:workatastartup:116108": "2026-11-14",
+  "yc:workatastartup:120168": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-14T12:37:13+00:00",
-  "remoteok": "2026-11-14T16:37:15+00:00",
-  "usajobs": "2026-11-14T15:37:14+00:00",
-  "workable_search": "2026-11-14T15:37:14+00:00",
-  "wwr": "2026-11-14T17:37:26+00:00"
+  "hn": "2026-11-14T20:37:21+00:00",
+  "remoteok": "2026-11-14T20:37:21+00:00",
+  "usajobs": "2026-11-14T20:37:21+00:00",
+  "workable_search": "2026-11-14T20:37:21+00:00",
+  "wwr": "2026-11-14T20:37:21+00:00",
+  "yc": "2026-11-14T20:37:21+00:00"
  },
  "title_rules": "40fbd1858c98",
  "version": 1
