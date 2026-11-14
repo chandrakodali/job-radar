@@ -148,6 +148,8 @@ def test_archive_copy_and_signals():
     assert hint.archived_page(None, "bad") == ""
     assert hint.us_class("123 Main St, Austin, TX 78701. Call (512) 555-1212. Equal Opportunity Employer.") == "us"
     assert hint.us_class("Acme Ltd, London, United Kingdom. Salary £40,000. +44 20 7946 0000") == "non_us"
+    assert hint.us_class("We are a physiotherapy clinic in Toronto. Email your resume.") == "non_us"
+    assert hint.us_class("Our US office is in Austin, TX, with a team in Toronto.") == "us"
     assert hint.us_class("We build software.") == "unknown"
     g = hint.guess_name
     assert g('<meta property="og:site_name" content="RANE Network">', "RANE Careers", "ranenetwork.com") == "RANE Network"

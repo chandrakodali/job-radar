@@ -145,6 +145,10 @@ def archived_page(session, warc: str, timeout: float = 30) -> str:
 
 _ABBR = ("AL|AK|AZ|AR|CA|CO|CT|DE|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|NM|NY|NC|ND|"
          "OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY|DC")
+_CANADIAN_CITY = re.compile(
+    r"\b(?:in|located in|based in|clinic in|office in)\s+(?:Toronto|Vancouver|Montréal|Montreal|Calgary|Ottawa)\b",
+    re.I,
+)
 _US_POS = (
     re.compile(rf"\b[A-Z][A-Za-z.' -]{{2,25}},\s*(?:{_ABBR})\b"),                      # Austin, TX
     re.compile(r"\(\d{3}\)\s?\d{3}[-.\s]\d{4}|\b\d{3}[-.]\d{3}[-.]\d{4}\b"),           # (512) 555-1212
@@ -169,7 +173,7 @@ def us_class(text: str) -> str:
     neg = sum(1 for p in _US_NEG if p.search(t))
     if pos and pos > neg:
         return "us"
-    if neg >= 2 and not pos:
+    if not pos and (neg >= 2 or _CANADIAN_CITY.search(t)):
         return "non_us"
     return "unknown"
 

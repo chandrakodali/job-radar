@@ -27,7 +27,7 @@ button, no tracking system, only "email your CV to careers@...". Long run times 
 
 `careers_scan/` already does this for about 6,264 startups taken from three GitHub lists (481 apply-by-email
 companies found, RANE among them) and lists matching roles twice a day in `careers_scan/ROLES.md`. Its limit is
-the company list. This work removes that limit by finding careers pages across the whole web.
+the company list. The wide sweep searches careers pages in Common Crawl beyond those lists.
 
 Limits to state plainly in the docs (WP8), because no system can find literally every such job:
 
@@ -99,8 +99,10 @@ daily    wide-triage  state.py work list (due sites, biggest backlog first)
   | 5 | `blocked`, `unreachable`, `js_only`, `robots_disallowed` | 30 days, 180 once `fails` >= 3 |
   | 9 | never read | now |
 
-- **Estimates, not measured** (replace with real numbers after WP5): 0.5-1.5 million candidate sites per crawl;
-  5-20% of careers pages are apply-by-email; triage speed 20,000+ sites per job-hour.
+- **WP5 smoke measurements, CC-MAIN-2026-43:** the first of 300 index files yielded 54 candidate domains.
+  GitHub triaged all 54 in about 28 seconds (roughly 116 sites per minute). One site was classified as
+  email and 18 sites were classified from archive copies. The one-file sample cannot establish total
+  crawl coverage, email share, or sustained throughput. Measure those in WP6.
 
 ## 4. Status
 
@@ -270,7 +272,7 @@ Two files, modelled on `careers-scan.yml` (same action versions, same commit-ret
 1. `plan`: run the tests; `crawl=$(python -m careers_scan.wide.ccindex paths --crawl "$CRAWL" --out paths.txt)`;
    create the release if missing (`gh release view wide-data || gh release create wide-data --title "Wide sweep
    data" --notes "Generated files of the US-wide careers sweep."`); output `skip=true` on a scheduled run when
-   the asset `cc-candidates-$crawl.csv.gz` already exists; upload `paths.txt` as an artifact.
+   a completion marker for that crawl already exists; upload `paths.txt` as an artifact.
 2. `index` (needs plan, skipped when `skip`): matrix `shard: [0..11]`, `fail-fast: false`, `max-parallel: 8`,
    `timeout-minutes: 300`: `python -m careers_scan.wide.ccindex sweep --paths paths.txt --shard S --shards 12
    --limit-files "$LIMIT" --deadline-minutes 270 --out out/cc-S.csv.gz`; upload `out/` (retention 5 days).
@@ -280,6 +282,7 @@ Two files, modelled on `careers-scan.yml` (same action versions, same commit-ret
    exists; `state candidates ... --src cc:$CRAWL --skip-csv careers_scan/data/classified.csv`; gzip and
    `gh release upload wide-data wide-state.sqlite.gz cc-candidates-$CRAWL.csv.gz --clobber`;
    then `gh workflow run wide-triage.yml -f max_sites=400000 -f shards=10`.
+   Publish only a complete sweep. A limited run uploads a candidate preview artifact.
 
 `.github/workflows/wide-triage.yml`: `workflow_dispatch` (inputs `max_sites` default `60000`, `shards` default
 `4`, `dry_run` boolean) and `schedule: cron '29 3 * * *'`.
@@ -297,6 +300,11 @@ Two files, modelled on `careers-scan.yml` (same action versions, same commit-ret
    `data/` with the repo's rebase-retry loop.
 
 ### WP5 - Smoke test on GitHub (first contact with the real services)
+
+Real Parquet uses a timezone-aware timestamp. Cast it to text in DuckDB before fetching Python rows.
+The initial smoke artifact contained one email-classified domain. Its page did give email application
+instructions, but described a Toronto clinic that was marked location-unknown. Explicit Canadian city
+location phrases now count as non-US when the page has no US signal.
 
 Add `.github/workflows/wide-smoke.yml`, triggered by `pull_request` on `careers_scan/wide/**` and
 `.github/workflows/wide-*.yml`, plus `workflow_dispatch`. One job, about 15 minutes, writes nothing to the release:
