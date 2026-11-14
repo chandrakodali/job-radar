@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**321 jobs**, newest first. Updated Fri Nov 13, 11:37 PM CST from 7,552 company job boards and other sources.
+**322 jobs**, newest first. Updated Sat Nov 14, 12:07 AM CST from 7,552 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,13 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 327 matching jobs that job sites and feeds listed this week, 59 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 13 (46)](#friday-nov-13-46) · [Thu 12 (83)](#thursday-nov-12-83) · [Wed 11 (39)](#wednesday-nov-11-39) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (42)](#monday-nov-9-42) · [Sun 8 (35)](#sunday-nov-8-35) · [Sat 7 (6)](#saturday-nov-7-6)
+Jump to: [Fri 13 (47)](#friday-nov-13-47) · [Thu 12 (83)](#thursday-nov-12-83) · [Wed 11 (39)](#wednesday-nov-11-39) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (42)](#monday-nov-9-42) · [Sun 8 (35)](#sunday-nov-8-35) · [Sat 7 (6)](#saturday-nov-7-6)
 
-## Friday, Nov 13 (46)
+## Friday, Nov 13 (47)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:47 PM | [Sr. Software Engineer, Machine Learning & Data Infrastructure](https://job-boards.greenhouse.io/okx/jobs/8187582003) | OKX | San Jose, California, United States | 55 | senior title, years not stated |
 | 7:13 PM | [Software Engineer, Cloud Platform](https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0) | Baseten | San Francisco; Remote; Toronto; New Yor… (hybrid) | 70 |  |
 | 7:01 PM | [Senior Network Engineer - DR25 Network Engineering team](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350444) | Oracle | Seattle, WA, United States; Santa Clara… | 35 | senior title, years not stated |
 | 6:47 PM | [Senior Software Engineer, Core Infrastructure](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343019) | Oracle | Nashville, TN, United States | 50 | senior title, years not stated |
