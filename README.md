@@ -185,6 +185,9 @@ their careers pages twice a day, and lists their cloud / DevOps / SRE / platform
 one-click email apply links in [careers_scan/ROLES.md](careers_scan/ROLES.md) (alerts for new ones). Companies
 from those lists that use a tracking system the radar didn't know are added to the radar automatically.
 
+The [wide careers sweep](careers_scan/wide/README.md) uses Common Crawl to discover more employer sites.
+See the [wide roles report](careers_scan/wide/ROLES.md) and [coverage summary](careers_scan/wide/SUMMARY.md).
+
 ## Files
 
 | File | What it is |

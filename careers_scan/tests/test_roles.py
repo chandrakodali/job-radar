@@ -51,9 +51,12 @@ def test_extract_roles_keeps_titles_and_their_own_details(rules):
     assert c.location == "New York, NY" and c.emails == ["jobs@acme.com"] and c.url == "https://acme.com/careers"
     assert roles["Junior Platform Engineer"].apply_url == "https://forms.gle/abc"
     assert roles["Associate SRE"].emails == ["hiring@acme.com"]
-    # the radar's rules decide which are infrastructure roles (and drop "Senior" for this user)
+    # The radar classifies senior infrastructure titles before checking experience.
     infra = {t for t in roles if infra_category(t, rules)}
-    assert infra == {"DevOps Engineer", "Cloud Infrastructure Engineer", "Junior Platform Engineer", "Associate SRE"}
+    assert infra == {
+        "DevOps Engineer", "Senior Site Reliability Engineer", "Cloud Infrastructure Engineer",
+        "Junior Platform Engineer", "Associate SRE",
+    }
 
 
 @pytest.mark.parametrize("text, ok", [
@@ -151,7 +154,10 @@ def test_build_and_save_apply_list(tmp_path, monkeypatch):
     assert by[("Acme", "Junior Platform Engineer")]["apply_kind"] == "email"         # company email beats form
     assert by[("Euro GmbH", "DevOps Engineer")]["status"] == "outside_us"
     assert by[("GovCo", "Cloud Engineer")]["status"] == "blocked"
-    assert ("Acme", "Senior Site Reliability Engineer") not in by and ("Acme", "Marketing Manager") not in by
+    senior = by[("Acme", "Senior Site Reliability Engineer")]
+    assert senior["status"] in ("alert", "quiet")
+    assert "senior title, years not stated" in senior["flags"]
+    assert ("Acme", "Marketing Manager") not in by
     assert "https://acme.com/careers/devops-engineer" in pages.calls  # job page was opened
 
     apply_list.save(rows, root, now=NOW)
