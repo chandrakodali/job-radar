@@ -47,5 +47,5 @@ What should the interface between humans and autonomous organizations look like?
 As a Design Engineer, you answer this question by owning the user experience of Pion . You obsess over design and craft, and take ideas all the way from design to implementation.
 You’re also comfortable building features in our backend. Our tech stack is a SvelteKit
 frontend, with a Python backend and Postgres database.
-Compensation: $120k–$180k salary and $300k–$900k in equity.
+Compensation: $120k–$230k salary and $300k–$900k in equity.
 We're based in San Francisco (in-person only).

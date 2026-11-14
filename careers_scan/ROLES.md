@@ -1,6 +1,6 @@
 # Cloud, DevOps, SRE, platform and infrastructure roles (no job board)
 
-Updated 2026-11-13 20:43 UTC. **98 open roles** at 75 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
+Updated 2026-11-14 08:04 UTC. **98 open roles** at 75 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
 
 **Apply:** the ✉ link opens an email to the company's hiring address with the subject filled in; attach your résumé. Scores and notes use the radar's rules (config.yaml): higher is a better early-career fit; "location unclear" means the page didn't say, so check it. 🆕 = first seen in the last 2 days.
 
@@ -64,11 +64,11 @@ Updated 2026-11-13 20:43 UTC. **98 open roles** at 75 companies that post jobs o
 | 42 | [Software Engineer, Infrastructure](https://orchid.ai/careers/software-engineer-infrastructure) | Orchid | Remote | [✉ work@orchid.ai](mailto:work@orchid.ai?subject=Application%3A%20Software%20Engineer%2C%20Infrastructure%20%E2%80%93%20Orchid) | Nov 11 | location unclear |
 | 42 | [DevOps Engineer](https://www.outsourcingdev.com/careers/) | OutsourcingDev | Remote | [Careers page](https://www.outsourcingdev.com/careers/) | Nov 11 | location unclear |
 | 42 | [Agent Infrastructure Engineer](https://pydantic.dev/jobs/agent-infrastructure-engineer) | Pydantic | Fully remote | [✉ careers@pydantic.dev](mailto:careers@pydantic.dev?subject=Application%3A%20Agent%20Infrastructure%20Engineer%20%E2%80%93%20Pydantic) | Nov 11 | location unclear |
-| 42 | [Cloud Ops Engineer](https://wazuh.com/job/cloud-ops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-ops-engineer/) | Nov 11 | location unclear |
 | 42 | [Cloud Full-Stack Developer](https://wazuh.com/job/full-stack-developer-cloud/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/full-stack-developer-cloud/) | Nov 11 | location unclear |
+| 42 | [Cloud Ops Engineer](https://wazuh.com/job/cloud-ops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-ops-engineer/) | Nov 11 | location unclear |
 | 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
 | 40 | [Senior DevOps Engineer](https://broadleafcommerce.com/senior-devops-engineer/) 🆕 | Broadleaf Commerce | ? | [✉ careers@broadleafcostg.wpenginepowered.…](mailto:careers@broadleafcostg.wpenginepowered.com?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20Broadleaf%20Commerce) | Nov 13 | 3+ yrs exp; senior title; location unclear |
-| 40 | [Senior Backend / ML Ops Engineer](https://www.drafted.ai/learn/careers/senior-backend-ml-ops-engineer) 🆕 | Drafted | In person | [Careers page](https://www.drafted.ai/learn/careers/senior-backend-ml-ops-engineer) | Nov 13 | senior title, years not stated |
+| 40 | [Senior Backend / ML Ops Engineer](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) 🆕 | Drafted | In person | [Careers page](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Nov 13 | senior title, years not stated |
 | 40 | [Network Systems Engineer](https://efference.ai/careers/wireless-networking-engineer/) | Efference | On-site | [✉ team@efference.ai](mailto:team@efference.ai?subject=Application%3A%20Network%20Systems%20Engineer%20%E2%80%93%20Efference) | Nov 11 |  |
 | 40 | [Senior Software Engineer, Infrastructure](https://lightsprint.ai/careers/senior-software-engineer) 🆕 | LightSprint | ? | [✉ founders@lightsprint.ai](mailto:founders@lightsprint.ai?subject=Application%3A%20Senior%20Software%20Engineer%2C%20Infrastructure%20%E2%80%93%20LightSprint) | Nov 13 | senior title, years not stated |
 | 37 | [Senior Site Reliability Engineer](https://www.buildbuddy.io/jobs/senior-site-reliability-engineer) 🆕 | BuildBuddy | Remote Execution | [Careers page](https://www.buildbuddy.io/jobs/senior-site-reliability-engineer) | Nov 13 | senior title, years not stated |
@@ -129,7 +129,7 @@ Updated 2026-11-13 20:43 UTC. **98 open roles** at 75 companies that post jobs o
 | 25 | [Senior Infrastructure Engineer](https://www.zabbix.com/career/senior_infrastructure_engineer) 🆕 | Zabbix | ? | [✉ hr@zabbix.com](mailto:hr@zabbix.com?subject=Application%3A%20Senior%20Infrastructure%20Engineer%20%E2%80%93%20Zabbix) | Nov 13 | 5+ yrs exp; senior title; location unclear; asks for 5+ yea… |
 | 22 | [SRE Freelance Projects](https://meteorops.com/work/sre-freelance-projects) | MeteorOps | Remote | [Careers page](https://meteorops.com/work/sre-freelance-projects) | Nov 11 | 5+ yrs exp; location unclear; asks for 5+ years of experien… |
 | 22 | [Platform Engineer](https://moderne.ai/careers/platform-engineer) | Moderne | Remote | [✉ careers@moderne.io](mailto:careers@moderne.io?subject=Application%3A%20Platform%20Engineer%20%E2%80%93%20Moderne) | Nov 11 | 10+ yrs exp; location unclear; asks for 10+ years of experi… |
-| 22 | [Cloud Cost Optimization Specialist](https://wazuh.com/job/cloud-cost-optimization-specialist/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-cost-optimization-specialist/) | Nov 11 | 5+ yrs exp; location unclear; asks for 5+ years of experien… |
 | 22 | [DevOps Engineer](https://wazuh.com/job/devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/devops-engineer/) | Nov 11 | 5+ yrs exp; location unclear; asks for 5+ years of experien… |
+| 22 | [Cloud Cost Optimization Specialist](https://wazuh.com/job/cloud-cost-optimization-specialist/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-cost-optimization-specialist/) | Nov 11 | 5+ yrs exp; location unclear; asks for 5+ years of experien… |
 
 Full data: [data/roles.csv](data/roles.csv).

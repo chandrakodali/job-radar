@@ -1,6 +1,6 @@
 Careers at Vesence
 We are long humans.
-See open roles 12 roles in San Francisco and Stockholm
+See open roles 11 roles in San Francisco and Stockholm
 I . Why we build
 We live in an age of infinite leverage.
 We believe humans will direct hundreds of agents each.
@@ -17,8 +17,8 @@ Vesence at law firms
 Client matters, transactions, and legal work.
 Vesence in finance
 Commercial and investment banking teams.
-Vesence at investment firms
-Private equity, venture capital, and asset managers.
+Vesence at startups
+Founders and small teams running the whole company.
 IV . Who's backing us
 Backed by people who have built the future before.
 We're backed by Emergence, Creandum, Y Combinator and 20VC, and by the founders of Y Combinator, Lovable and Ironclad.
@@ -36,7 +36,7 @@ The best work comes from people who move between disciplines. A love of art, lit
 We are former AI engineers , musicians and athletes , lawyers and management consultants , building the future of work.
 VI . Open roles
 Come build it with us.
-12 roles across go-to-market, engineering and operations, in Stockholm and San Francisco. We're early, and everyone who joins now shapes what Vesence becomes.
+11 roles across go-to-market, engineering and operations, in Stockholm and San Francisco. We're early, and everyone who joins now shapes what Vesence becomes.
 San Francisco
 United States · 4 roles
 Founding GTM
@@ -53,7 +53,13 @@ Intern
 Work beside the founding team as we open the US market: research the firms we sell to, help run outreach and events, and see a startup from the inside.
 Apply for Intern in San Francisco
 Stockholm
-Sweden · 8 roles
+Sweden · 7 roles
+GTM
+Lead go-to-market across the Nordics and Europe: build the team, own the pipeline and the playbook, and turn first customers into firm-wide rollouts.
+Apply for GTM in Stockholm
+BDR
+Find the firms across the Nordics and Europe that need Vesence most, and open the conversations that turn them into customers.
+Apply for BDR in Stockholm
 Founding GTM Finance
 Lead our work with banks and investment firms, from the first meeting to rollout, and shape how Vesence serves finance teams.
 Apply for Founding GTM Finance in Stockholm
@@ -64,22 +70,13 @@ Member of Technical Staff
 Build Vesence end to end: the agents, the desktop they work in, and the review that makes their work easy to judge.
 Engineering
 Apply for Member of Technical Staff in Stockholm
-BDR
-Find the firms across the Nordics and Europe that need Vesence most, and open the conversations that turn them into customers.
-Apply for BDR in Stockholm
 Head of Marketing
 Own how Vesence shows up in the world, from brand and launches to films, content and events.
 Apply for Head of Marketing in Stockholm
-GTM Lead
-Lead go-to-market across the Nordics and Europe: build the team, own the pipeline and the playbook, and turn first customers into firm-wide rollouts.
-Apply for GTM Lead in Stockholm
 Founder’s Associate
 Work directly with the founders on whatever matters most that week, from hiring and fundraising to deals and launches.
 Operations
 Apply for Founder’s Associate in Stockholm
-Growth and Operations Intern
-Help us grow and keep the company running: research prospects, run outreach, and build the processes that let a small team move fast.
-Apply for Growth and Operations Intern in Stockholm
 VII . How to apply
 No forms. Just write to us.
 Choose a role

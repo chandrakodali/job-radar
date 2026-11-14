@@ -20,9 +20,7 @@ We use, sponsor, and collaborate extensively with open source projects
 Open Positions
 Title
 Location
-Software Engineer — DBA
-US Remote
-View Job
-Details
 Infrastructure Software Engineer - Topology and Observability
 Mountain View, CA or Remote
+View Job
+Details
