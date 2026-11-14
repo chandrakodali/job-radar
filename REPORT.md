@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**324 jobs**, newest first. Updated Fri Nov 13, 7:37 PM CST from 7,552 company job boards and other sources.
+**323 jobs**, newest first. Updated Fri Nov 13, 8:07 PM CST from 7,552 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 279 matching jobs that job sites and feeds listed this week, 53 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 13 (46)](#friday-nov-13-46) · [Thu 12 (83)](#thursday-nov-12-83) · [Wed 11 (39)](#wednesday-nov-11-39) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (42)](#monday-nov-9-42) · [Sun 8 (35)](#sunday-nov-8-35) · [Sat 7 (6)](#saturday-nov-7-6) · [Fri 6 (3)](#friday-nov-6-3)
+Jump to: [Fri 13 (46)](#friday-nov-13-46) · [Thu 12 (83)](#thursday-nov-12-83) · [Wed 11 (39)](#wednesday-nov-11-39) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (42)](#monday-nov-9-42) · [Sun 8 (35)](#sunday-nov-8-35) · [Sat 7 (6)](#saturday-nov-7-6) · [Fri 6 (2)](#friday-nov-6-2)
 
 ## Friday, Nov 13 (46)
 
@@ -366,15 +366,14 @@ Jump to: [Fri 13 (46)](#friday-nov-13-46) · [Thu 12 (83)](#thursday-nov-12-83) 
 | date only | [Senior Software Engineer, System Validation - EDA Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Next-Generation-Architecture---EDA-Infrastructure_JR2014880) | NVIDIA | US, CA, Santa Clara; US, MA, Westford; … (remote) | 35 | senior title, years not stated |
 | 2:00 AM | [Cloud Engineer III](https://jobs.mcdonalds.com/job/Chicago-Cloud-Engineer-III-IL-60607/1408247300/) | McDonald's | Chicago, IL, United States | 48 | 3+ yrs exp; senior title |
 
-## Friday, Nov 6 (3)
+## Friday, Nov 6 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 10:54 PM | [Cloud Systems Administrator](https://job-boards.greenhouse.io/oneimaging/jobs/4484490009) | OneImaging | Remote (remote) | 42 | location unclear |
 | 8:22 PM | [Cloud Inference Engineer](https://jobs.ashbyhq.com/luminal/418158ce-9570-43fa-8877-2583c291b3fa) | Luminal | San Francisco (onsite) | 58 |  |
-| 8:00 PM | [SYSTEM ADMINISTRATOR](https://www.careers.zurich.com/job/S%C3%A3o-Paulo-SYSTEM-ADMINISTRATOR/1364291557/) | Zurich Insurance |  | 38 | location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (698)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (699)
 
 <details><summary>Show</summary>
 
@@ -425,6 +424,7 @@ Jump to: [Fri 13 (46)](#friday-nov-13-46) · [Thu 12 (83)](#thursday-nov-12-83) 
 | date only | [Sr Reliability Engineer](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-Reliability-Engineer_R82108-1) | Medtronic | Lafayette, Colorado, United States of A… (onsite) | 65 | rules: 2+ yrs exp; senior title; adjacent title, little DevOps/cloud … |
 | date only | [Azure Cloud Reliability Engineer](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Site-Reliability-Engineer_R57303) | Trimble | US - CO, Westminster; US - NH, Portsmou… (onsite) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [Network Engineer II](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605841&lang=en) | D.R. Horton | TX-Arlington | 45 | rules: adjacent title, little DevOps/cloud work in the text |
+| date only | [Senior Full Stack Software Engineer – CAD Infrastructure Team](https://qualcomm.eightfold.ai/careers/job/446719899052) | Qualcomm | Santa Clara, CA, US; Folsom, CA, US (onsite) | 38 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 10:49 AM | [Senior Site Reliability Engineer](https://job-boards.greenhouse.io/beaconbiosignals/jobs/4506672009) | Beaconbiosignals | Boston, MA / Remote (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 9:55 AM | [Cleared Systems Administrator](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4729338006) | STR | Woburn,MA | 45 | rules: 3+ yrs exp; needs: security clearance |
 | 9:34 AM | [System Administrator – Platform Engineer](https://job-boards.greenhouse.io/electrosoft/jobs/4506532009) | Electrosoft | Atlanta, GA | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
@@ -779,7 +779,6 @@ Jump to: [Fri 13 (46)](#friday-nov-13-46) · [Thu 12 (83)](#thursday-nov-12-83) 
 | date only | [Developer Support Engineer, Open API](https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Developer-Support-Engineer--Open-API_JR-000519) | Buildertrend | Omaha, NE (remote) | 40 | rules: role no longer in the target list |
 | date only | [Cloud Solutions Engineer](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Cloud-Solutions-Engineer_R-434482) | Humana | Remote Kentucky; Remote North Carolina;… (remote) | 35 | rules: role no longer in the target list |
 | date only | [Network Operations Engineer](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Network-Operations-Engineer_R-26-20882) | Moog | Buffalo, NY (hybrid) | 48 | rules: role no longer in the target list |
-| date only | [Pharmacy Automation Systems Administrator - Pharmacy Technician - FT …](https://memorialhealthcare.wd1.myworkdayjobs.com/MHS_Careers/job/Memorial-Regional-Hospital-South/Pharmacy-Automation-Systems-Administrator---Pharmacy-Technician---FT---Days---MRHS_JR-25046-1) | Memorial Healthcare System | Memorial Regional Hospital South (onsite) | 43 | rules: role no longer in the target list |
 
 </details>
 
