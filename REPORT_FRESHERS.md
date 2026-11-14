@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**488 jobs**, newest first. Updated Fri Nov 13, 9:13 PM CST from 7,552 company job boards and other sources.
+**488 jobs**, newest first. Updated Fri Nov 13, 10:12 PM CST from 7,552 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -533,7 +533,7 @@ Jump to: [Fri 13 (134)](#friday-nov-13-134) · [Thu 12 (98)](#thursday-nov-12-98
 | date only | [Technology Analyst](https://jobs.adidas-group.com/job/Portland-Technology-Analyst-OR/1456564133/) | Adidas |  | 73 | 1+ yrs exp; entry level (from the text) |
 | date only | [MX Remote Work FBS Mexico Associate Analytics Engineer USFITFU](https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-Associate-Analytics-Engineer-%28USFITFU%29/1377529157/) | Farmers Insurance |  | 58 | entry-level title; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2195)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2196)
 
 <details><summary>Show</summary>
 
@@ -541,6 +541,7 @@ Jump to: [Fri 13 (134)](#friday-nov-13-134) · [Thu 12 (98)](#thursday-nov-12-98
 |---|---|---|---|---:|---|
 | date only | [Founding Backend Software Engineer](https://apply.workable.com/raydar/j/D311E320DC/) | Raydar | New York, New York, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Machine Learning Research Engineer](https://apply.workable.com/raydar/j/513FBA0DB3/) | Raydar | New York, New York, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 9:58 PM | [InfoSec Engineer (Risk and Compliance)](https://jobs.ashbyhq.com/Rox-Data-Corp/88122e39-b638-49b5-8e25-6b2483c47155) | Rox Data Corp | San Francisco (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 7:34 PM | [Machine Learning Engineer](https://jobs.ashbyhq.com/arena/2a58c588-e577-447b-9e48-be73a796415d) | Arena | SF Bay Area (hybrid) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 6:42 PM | [Workplace Security Analyst Trainee (9910) - Department of Public Heal…](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016859665-workplace-security-analyst-trainee-9910-department-of-public-health-exempt) | City and County of San Franci… | San Francisco, CA, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
 | 6:23 PM | [QA Engineer (6-month contract)](https://jobs.ashbyhq.com/centerfield/4b10b054-b8ab-463f-8250-81393dfeb128) | Centerfield | Los Angeles, California (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -938,6 +939,5 @@ Jump to: [Fri 13 (134)](#friday-nov-13-134) · [Thu 12 (98)](#thursday-nov-12-98
 | 2:00 AM | [Information Security Engineer](https://jobs.supermicro.com/job/San-Jose-Information-Security-Engineer-Cali/1420676300/) | Super Micro Computer | San Jose, California, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 2:00 AM | [Data Center Engineer](https://jobs.supermicro.com/job/Kansas-City-Data-Center-Engineer-Miss/1385421300/) | Super Micro Computer | Kansas City, Missouri, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:00 AM | [Business Analyst](https://careers.leggett.com/job/High-Point-Business-Analyst-NC/1440493500/) | Leggett & Platt | High Point, NC, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:00 AM | [Fiber Optic Field Support Specialist Part-Time CA or NV](https://corningjobs.corning.com/job/California-Fiber-Optic-Field-Support-Specialist-Part-Time-CA-or-NV-CA/1331801300/) | Corning | California, CA, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
