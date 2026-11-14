@@ -1,43 +1,37 @@
-import requests, json, time, re
-UA="job-radar/1.0 (personal job search tool; +https://github.com/chandrakodali/job-radar)"
-s=requests.Session(); s.headers["User-Agent"]=UA
-def get(url, **kw):
+import sys, os, time, re, json
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from radar import ats as A
+from radar.models import Board
+from radar import sources as S
+import requests
+def t(ats, board, detail=True):
+    b=Board(ats=ats, board=board, company="")
     try:
-        r=s.get(url,timeout=30,**kw); return r
-    except Exception as e: print("ERR",url,e); return None
-def around(t, pats, w=500, k=3):
-    for p in pats:
-        for m in list(re.finditer(p, t))[:k]:
-            print("   ~",p,":",re.sub(r"\s+"," ",t[max(0,m.start()-150):m.start()+w]))
-def show(url, pats=(), n=600, **kw):
-    r=get(url, **kw)
-    if r is None: return None
-    t=r.text; print("GET",url,r.status_code,r.headers.get("content-type","")[:40],len(t),"|",re.sub(r"\s+"," ",t[:n]))
-    around(t, pats); return r
-# Zoho
-r=show("https://3rtalent.zohorecruit.com/jobs/Careers", [r'id="jobs"', r'jobs\s*[:=]\s*\[', r'Job_Opening_Name', r'"Posting_Title"', r'application/ld\+json'], 200)
-show("https://agileengine.zohorecruit.com/jobs/Careers", [r'Posting_Title', r'id="jobs"'], 200)
-# CATS
-r=show("https://3kc.catsone.com/careers/2010", [r'__NEXT_DATA__', r'"jobs"\s*:', r'"title"\s*:', r'/careers/2010-'], 200)
-show("https://sitemap.catsone.com/index.php?m=sitemap&a=sitemap&siteID=6149", [r'<loc>'], 600)
-# Keka
-show("https://acuitilabs.keka.com/careers", [r'embedjobs', r'api/', r'careers/api'], 300)
-show("https://acuitilabs.keka.com/robots.txt", [], 400)
-show("https://3scsolution.keka.com/careers/api/embedjobs/6f255cd1-b94d-4a2e-a30c-6c75aced8f3a", [], 1200)
-# Homerun
-show("https://acato.homerun.co/", [r'application/ld\+json', r'__NEXT_DATA__', r'window\.__', r'"vacancies"', r'"jobs"'], 300)
-show("https://acato.homerun.co/robots.txt", [], 300)
-# Factorial
-show("https://avvoka.factorialhr.com/", [r'job_posting', r'application/ld\+json', r'__NEXT_DATA__', r'"job_postings"'], 300)
-show("https://avvoka.factorialhr.com/robots.txt", [], 300)
-# CareerPuck
-show("https://app.careerpuck.com/job-board/academia", [r'__NEXT_DATA__', r'api\.careerpuck', r'"jobs"', r'"title"'], 300)
-for u in ["https://api.careerpuck.com/v1/public/job-boards/academia","https://app.careerpuck.com/api/public/job-boards/academia","https://app.careerpuck.com/api/job-board/academia"]:
-    show(u, [], 500)
-# JOIN
-show("https://join.com/companies/02100", [r'__NEXT_DATA__', r'"jobs"\s*:', r'"title"\s*:'], 100)
-# TriNet
-show("https://app.trinethire.com/", [r'href="[^"]*companies', r'careers'], 300)
-# YC jobs
-r=show("https://www.ycombinator.com/jobs", [r'data-page=', r'"jobPostings"', r'"title"\s*:', r'/companies/[a-z0-9-]+/jobs/'], 100)
-show("https://www.ycombinator.com/jobs/role/software-engineer", [r'data-page=', r'"jobPostings"'], 100)
+        jobs=A.LISTERS[ats](b)
+        j=jobs[0] if jobs else None
+        print("READER",ats,board,"jobs",len(jobs),"| first:",(j.title,j.location,j.posted_at,j.url,j.company) if j else None)
+        if j and detail and ats in A.DETAILERS:
+            A.DETAILERS[ats](j); print("   detail:",j.title,"|",j.location,"|",j.posted_at,"|",(j.description or "")[:160].replace("\n"," "))
+    except Exception as e: print("READER",ats,board,"ERR",type(e).__name__,str(e)[:200])
+t("zoho","agileengine"); t("zoho","3rtalent")
+t("personio","1komma5grad.jobs.personio.de")
+t("catsone","3kc")
+t("careerpuck","academia")
+t("join","02100")
+t("homerun","acato")
+t("eightfold","apply.careers.microsoft.com|microsoft.com")
+t("eightfold","explore.jobs.netflix.net|netflix.com")
+try:
+    yc=S.yc_jobs({"roles":["software-engineer","devops"]}); print("YC",len(yc), [(j.company,j.title,j.location,j.url) for j in yc[:3]])
+    if yc: A.DETAILERS["yc"](yc[0]); print("   yc detail:", yc[0].posted_at, (yc[0].description or "")[:200].replace("\n"," "))
+except Exception as e: print("YC ERR",e)
+s=requests.Session(); s.headers["User-Agent"]="job-radar/1.0 (personal job search tool; +https://github.com/chandrakodali/job-radar)"
+for h in ["www.amazon.jobs","jobs.apple.com","www.metacareers.com","careers.ibm.com","lifeattiktok.com","apply.careers.microsoft.com","explore.jobs.netflix.net"]:
+    try:
+        r=s.get(f"https://{h}/robots.txt",timeout=20); lines=[l for l in r.text.splitlines() if l.lower().startswith(("disallow","user-agent"))]
+        print("ROBOTS",h,r.status_code,"|"," ; ".join(lines[:25])[:900])
+    except Exception as e: print("ROBOTS",h,e)
+try:
+    r=s.get("https://www.amazon.jobs/en/search.json",params={"base_query":"devops","country":"USA","sort":"recent","result_limit":10},timeout=30)
+    d=r.json(); print("AMAZON",r.status_code,d.get("hits"),[ (j.get("title"),j.get("posted_date"),j.get("location")) for j in d.get("jobs",[])[:3]])
+except Exception as e: print("AMAZON ERR",e)

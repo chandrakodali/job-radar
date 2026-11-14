@@ -510,3 +510,45 @@ def usajobs_jobs(cfg: dict, env=os.environ, stats=None) -> list[Job]:
                 break
             page += 1
     return list(out.values())
+
+
+# ---------------------------------------------------------------- Y Combinator startup jobs (Work at a Startup)
+# ycombinator.com/jobs lists the jobs YC companies post on Work at a Startup (robots.txt allows /jobs).
+# Each role page carries its listings as JSON in a data-page attribute.
+
+YC_JOBS = "https://www.ycombinator.com/jobs/role/{role}"
+
+
+def yc_jobs(cfg: dict, now: datetime | None = None) -> list[Job]:
+    import html as htmllib
+    import json
+    out: dict[str, Job] = {}
+    for role in cfg.get("roles") or ["software-engineer"]:
+        try:
+            page = get_text(YC_JOBS.format(role=role))
+        except FetchError as e:
+            log.warning("YC jobs %s: %s", role, e)
+            continue
+        for m in re.finditer(r'data-page="([^"]+)"', page):
+            try:
+                props = json.loads(htmllib.unescape(m.group(1))).get("props") or {}
+            except ValueError:
+                continue
+            for r in props.get("jobPostings") or []:
+                jid, title, path = str(r.get("id") or ""), (r.get("title") or "").strip(), r.get("url") or ""
+                if not jid or not title or jid in out:
+                    continue
+                slug = (re.search(r"/companies/([^/]+)/", path) or [None, ""])[1]
+                co = r.get("company")
+                company = r.get("companyName") or (co.get("name") if isinstance(co, dict) else co) or \
+                    slug.replace("-", " ").title()
+                url = "https://www.ycombinator.com" + path if path.startswith("/") else path
+                loc = r.get("location") or ""
+                out[jid] = Job(ats="yc", board="workatastartup", job_id=jid, company=(company or "")[:80],
+                               title=title[:150], location=loc, url=url,
+                               posted_at=_iso(r.get("createdAt") or r.get("publishedAt")),
+                               description=" ".join(str(r.get(k) or "") for k in ("roleSpecificType", "type", "salaryRange", "minExperience")),
+                               workplace="remote" if re.search(r"\bremote\b", loc, re.I) else "",
+                               needs_detail=True, detail_ref=url)
+        time.sleep(1)
+    return list(out.values())

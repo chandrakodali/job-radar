@@ -133,6 +133,141 @@ def ex_workday(u):
     return f"{m.group(1)}|{m.group(2)}|{s}"
 
 
+def _sub_any(u, domain, skip=()):
+    sub = _sub(u, domain)
+    return sub if sub and sub not in skip else None
+
+
+def ex_jazzhr(u):
+    sub = _sub_any(u, "applytojob.com")
+    return sub.lower() if sub and not re.match(r"^\d{8,}", sub) else None
+
+
+def ex_jobvite(u):
+    if u.netloc.lower() != "jobs.jobvite.com":
+        return None
+    s = _seg(u.path)
+    return s.lower() if _ok_slug(s) and s.lower() not in ("careers", "api", "static", "jobs", "search", "assets") else None
+
+
+def ex_icims(u):
+    host = u.netloc.lower().split(":")[0]
+    if not host.endswith(".icims.com") or re.match(r"^(www\d*|cdn|media|developer|community|login|ats)\.", host):
+        return None
+    return host if u.path.lower().startswith("/jobs") else None
+
+
+def ex_pinpoint(u):
+    return _sub_any(u, "pinpointhq.com", {"developers", "support"})
+
+
+def ex_breezy(u):
+    return _sub_any(u, "breezy.hr", {"marketing", "attract", "developer"})
+
+
+def ex_teamtailor(u):
+    return _sub_any(u, "teamtailor.com", {"career", "app-eu", "app-na", "partner"})
+
+
+def ex_gem(u):
+    if u.netloc.lower() != "jobs.gem.com":
+        return None
+    s = _seg(u.path)
+    return s if _ok_slug(s) and s.lower() not in ("api", "static", "assets") else None
+
+
+def ex_dover(u):
+    if u.netloc.lower() != "app.dover.com" or _seg(u.path) != "jobs":
+        return None
+    s = _seg(u.path, 1)
+    return s if _ok_slug(s) else None
+
+
+def ex_dayforce(u):
+    if u.netloc.lower() != "jobs.dayforcehcm.com":
+        return None
+    parts = [p for p in u.path.split("/") if p]
+    if parts and LOCALE.match(parts[0]):
+        parts = parts[1:]
+    if len(parts) < 2 or not _ok_slug(parts[0]) or not _ok_slug(parts[1]) or parts[0].lower() == "api":
+        return None
+    return f"{parts[0]}|{parts[1]}"
+
+
+def ex_avature(u):
+    host = u.netloc.lower()
+    if not host.endswith(".avature.net") or host.startswith("www."):
+        return None
+    parts = [p for p in u.path.split("/") if p]
+    if parts and re.fullmatch(r"[a-z]{2}_[A-Z]{2}", parts[0]):
+        parts = parts[1:]
+    if not parts or not _ok_slug(parts[0]) or parts[0].lower() in ("docusign", "error", "static", "portal"):
+        return None
+    return f"{host}|{parts[0]}"
+
+
+def ex_eightfold(u):
+    return _sub_any(u, "eightfold.ai", {"docs", "learn", "trust", "careers", "events", "engage"})
+
+
+def ex_paylocity(u):
+    if u.netloc.lower() != "recruiting.paylocity.com":
+        return None
+    m = re.search(r"/recruiting/jobs/(?:all|list)/([0-9a-f-]{36})", u.path, re.I)
+    return m.group(1).lower() if m else None
+
+
+def ex_oracle(u):
+    host = u.netloc.lower()
+    m = re.search(r"/hcmUI/CandidateExperience/[a-z]{2}(?:-[A-Z]{2})?/sites/([A-Za-z0-9_]+)", u.path)
+    return f"{host}|{m.group(1)}" if m and host.endswith(".oraclecloud.com") else None
+
+
+def ex_adp(u):
+    if u.netloc.lower() != "workforcenow.adp.com":
+        return None
+    q = parse_qs(u.query)
+    cid = (q.get("cid") or [""])[0]
+    if not re.fullmatch(r"[0-9a-f-]{36}", cid or "", re.I):
+        return None
+    cc = (q.get("ccId") or q.get("ccid") or [""])[0]
+    return f"{cid}|{cc}" if cc else cid
+
+
+def ex_zoho(u):
+    return _sub_any(u, "zohorecruit.com")
+
+
+def ex_personio(u):
+    host = u.netloc.lower().split(":")[0]
+    m = re.fullmatch(r"([a-z0-9-]+)\.jobs\.personio\.(de|com)", host)
+    return host if m and m.group(1) not in SKIP_SUB else None
+
+
+def ex_catsone(u):
+    return _sub_any(u, "catsone.com", {"sitemap", "cp", "secure"})
+
+
+def ex_careerpuck(u):
+    if u.netloc.lower() != "app.careerpuck.com" or _seg(u.path) != "job-board":
+        return None
+    s = _seg(u.path, 1)
+    return s if _ok_slug(s) else None
+
+
+def ex_join(u):
+    if u.netloc.lower() not in ("join.com", "www.join.com") or _seg(u.path) != "companies":
+        return None
+    s = _seg(u.path, 1)
+    return s if _ok_slug(s) else None
+
+
+def ex_homerun(u):
+    return _sub_any(u, "homerun.co", {"feedback", "academy"})
+
+
+ORACLE_REGIONS = ["us2", "us6", "us3", "us1", "us4", "em2", "em3", "em5", "ca2", "ca3", "ap1", "ocs"]
+
 SOURCES = [
     ("greenhouse", ["boards.greenhouse.io/*", "job-boards.greenhouse.io/*"], ex_greenhouse),
     ("lever", ["jobs.lever.co/*"], ex_lever),
@@ -143,6 +278,26 @@ SOURCES = [
     ("bamboohr", ["*.bamboohr.com"], ex_bamboohr),
     ("recruitee", ["*.recruitee.com"], ex_recruitee),
     ("workday", ["*.myworkdayjobs.com"], ex_workday),
+    ("jazzhr", ["*.applytojob.com"], ex_jazzhr),
+    ("jobvite", ["jobs.jobvite.com/*"], ex_jobvite),
+    ("icims", ["*.icims.com"], ex_icims),
+    ("pinpoint", ["*.pinpointhq.com"], ex_pinpoint),
+    ("breezy", ["*.breezy.hr"], ex_breezy),
+    ("teamtailor", ["*.teamtailor.com"], ex_teamtailor),
+    ("gem", ["jobs.gem.com/*"], ex_gem),
+    ("dover", ["app.dover.com/jobs/*"], ex_dover),
+    ("dayforce", ["jobs.dayforcehcm.com/*"], ex_dayforce),
+    ("avature", ["*.avature.net"], ex_avature),
+    ("eightfold", ["*.eightfold.ai"], ex_eightfold),
+    ("paylocity", ["recruiting.paylocity.com/recruiting/jobs/*"], ex_paylocity),
+    ("oracle", [f"*.fa.{r}.oraclecloud.com" for r in ORACLE_REGIONS], ex_oracle),
+    ("adp", ["workforcenow.adp.com/mascsr/*"], ex_adp),
+    ("zoho", ["*.zohorecruit.com"], ex_zoho),
+    ("personio", ["*.jobs.personio.de", "*.jobs.personio.com"], ex_personio),
+    ("catsone", ["*.catsone.com"], ex_catsone),
+    ("careerpuck", ["app.careerpuck.com/job-board/*"], ex_careerpuck),
+    ("join", ["join.com/companies/*"], ex_join),
+    ("homerun", ["*.homerun.co"], ex_homerun),
 ]
 
 
@@ -327,6 +482,8 @@ def main(argv=None) -> int:
     sems = defaultdict(lambda: threading.Semaphore(6))
     sems["workable"] = threading.Semaphore(1)
     sems["workday"] = threading.Semaphore(4)
+    for slow in ("jobvite", "avature", "eightfold", "dayforce", "adp", "oracle", "join", "zoho", "catsone", "homerun"):
+        sems[slow] = threading.Semaphore(3)
     deadline = time.monotonic() + args.budget_min * 60 * 0.45
 
     def run(ats, board):

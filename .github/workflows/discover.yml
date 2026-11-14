@@ -24,7 +24,7 @@ concurrency:
 jobs:
   discover:
     runs-on: ubuntu-latest
-    timeout-minutes: 110
+    timeout-minutes: 330
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v6
@@ -36,7 +36,7 @@ jobs:
         continue-on-error: true
         run: python scripts/fetch_lca.py /tmp/lca.xlsx && python scripts/lca_employers.py --devops /tmp/lca.xlsx
       - name: Find and check new boards
-        run: python scripts/discover_boards.py --budget-min 90 --max-pages "${{ inputs.max_pages || '30' }}" --only "${{ inputs.only }}"
+        run: python scripts/discover_boards.py --budget-min 300 --max-pages "${{ inputs.max_pages || '30' }}" --only "${{ inputs.only }}"
       - name: Save
         run: |
           git config user.name "job-radar-bot"

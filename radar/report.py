@@ -152,7 +152,7 @@ def dup_key(r: dict) -> str:
     return _LEVEL.sub(" ", c).strip() + "|" + _LEVEL.sub(" ", t).strip()
 
 
-AGGREGATORS = ("adzuna", "alert", "workable_search", "hn", "remoteok", "wwr", "usajobs")
+AGGREGATORS = ("adzuna", "alert", "workable_search", "hn", "remoteok", "wwr", "usajobs", "yc")
 
 
 def posted_time(r: dict) -> datetime:

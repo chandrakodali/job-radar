@@ -396,6 +396,9 @@ sources:
     days: 7
     feeds:
       - 'https://weworkremotely.com/categories/remote-devops-sysadmin-jobs.rss'
+  yc:                      # Y Combinator startup jobs (Work at a Startup), ycombinator.com/jobs
+    every_minutes: 180
+    roles: ['software-engineer', 'devops', 'backend', 'full-stack']
   usajobs:                 # USAJOBS_API_KEY + USAJOBS_EMAIL; jobs needing citizenship/clearance are left out
     every_minutes: 180
     days: 7

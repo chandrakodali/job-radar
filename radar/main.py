@@ -357,7 +357,8 @@ def run(args) -> int:
                 ("hn", lambda c: _sources.hn_jobs(c, lambda t: title_category(t, rules) in ("core", "bridge"), now)),
                 ("remoteok", lambda c: _sources.remoteok_jobs(c, now)),
                 ("wwr", lambda c: _sources.wwr_jobs(c, now)),
-                ("usajobs", lambda c: _sources.usajobs_jobs(c, stats=stats))]
+                ("usajobs", lambda c: _sources.usajobs_jobs(c, stats=stats)),
+                ("yc", lambda c: _sources.yc_jobs(c, now))]
         last_read = state.setdefault("source_last", {})
         for name, fetch in more:
             c = src_cfg.get(name)
@@ -818,7 +819,8 @@ def run(args) -> int:
         summary += (f" Other sources: {stats['source_email']} jobs from alert emails, {stats['source_adzuna']} from "
                     f"Adzuna ({stats['adzuna_calls']} calls), {stats['source_workable_search']} from Workable search, "
                     f"{stats['source_hn']} from HN, {stats['source_remoteok']} from Remote OK, {stats['source_wwr']} "
-                    f"from WWR, {stats['source_usajobs']} from USAJOBS; {stats['source_dupes']} already known, "
+                    f"from WWR, {stats['source_usajobs']} from USAJOBS, {stats['source_yc']} from YC startups; "
+                    f"{stats['source_dupes']} already known, "
                     f"{stats['source_candidates']} new candidates. Board recall: {stats['recall_on_boards']}/"
                     f"{stats['recall_total']} matching jobs from other sources were already on employer boards.")
     if focus:

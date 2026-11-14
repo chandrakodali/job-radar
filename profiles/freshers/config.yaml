@@ -216,3 +216,6 @@ sources:
     - help desk
     - data analyst
     - qa engineer
+  yc:
+    every_minutes: 180
+    roles: ['software-engineer', 'backend', 'full-stack', 'frontend', 'devops', 'data-science', 'machine-learning', 'ios', 'android']

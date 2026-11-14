@@ -1104,6 +1104,150 @@ def dspace_detail(job: Job) -> None:
     job.description = "\n".join(x.get_text("\n", strip=True) for x in blocks)[:20000]
 
 
+# ------------------------------------------------------------------ Zoho Recruit
+# The careers page carries every published opening as JSON in a hidden input (id="jobs").
+
+def zoho_list(b: Board) -> list[Job]:
+    import json
+    host = b.board if "." in b.board else f"{b.board}.zohorecruit.com"
+    page = _page(f"https://{host}/jobs/Careers")
+    m = re.search(r'<input[^>]*value="([^"]*)"[^>]*id="jobs"', page) or re.search(r'id="jobs"[^>]*value="([^"]*)"', page)
+    if not m:
+        return []
+    try:
+        rows = json.loads(htmllib.unescape(m.group(1)))
+    except ValueError:
+        return []
+    jobs = []
+    for r in rows if isinstance(rows, list) else []:
+        jid = str(r.get("id") or "")
+        title = (r.get("Posting_Title") or r.get("Job_Opening_Name") or "").strip()
+        if not jid or not title or r.get("Publish") is False:
+            continue
+        country = r.get("Country") or ""
+        loc = _loc(r.get("City"), r.get("State"), country)
+        url = f"https://{host}/jobs/Careers/{jid}/{re.sub(r'[^A-Za-z0-9]+', '-', title).strip('-')}"
+        jobs.append(_job(b, job_id=jid, title=title, url=url, location=loc,
+                         countries=[country_name(country)] if country else [],
+                         posted_at=parse_when(r.get("Date_Opened") or r.get("Created_Time")),
+                         workplace="remote" if r.get("Remote_Job") else "",
+                         needs_detail=True, detail_ref=url))
+    return jobs
+
+
+# ------------------------------------------------------------------ Personio (XML feed)
+
+def personio_list(b: Board) -> list[Job]:
+    import xml.etree.ElementTree as ET
+    host = b.board if "." in b.board else f"{b.board}.jobs.personio.de"
+    try:
+        root = ET.fromstring(_page(f"https://{host}/xml", accept="application/xml,text/xml,*/*;q=0.5"))
+    except ET.ParseError:
+        return []
+    jobs = []
+    for p in root.iter("position"):
+        g = lambda tag: (p.findtext(tag) or "").strip()
+        jid, title = g("id"), g("name")
+        if not jid or not title:
+            continue
+        offices = [g("office")] + [(o.text or "").strip() for o in p.findall("additionalOffices/office")]
+        desc = "\n".join(html_to_text(d.findtext("value") or "") for d in p.findall("jobDescriptions/jobDescription"))
+        jobs.append(_job(b, job_id=jid, title=title, url=f"https://{host}/job/{jid}",
+                         location="; ".join(o for o in offices if o), posted_at=parse_when(g("createdAt")),
+                         description=desc[:20000], workplace=_wp(" ".join(offices))))
+    return jobs
+
+
+# ------------------------------------------------------------------ CATS (catsone.com)
+# Each careers site lists its job pages in a sitemap named in its robots.txt.
+
+def catsone_list(b: Board) -> list[Job]:
+    host = b.board if "." in b.board else f"{b.board}.catsone.com"
+    sm = re.search(r"(?im)^sitemap:\s*(\S+)", _page(f"https://{host}/robots.txt", accept="text/plain,*/*"))
+    if not sm:
+        return []
+    jobs, seen = [], set()
+    for u, lastmod in _sitemap_urls(sm.group(1), lambda u: "/jobs/" in u):
+        m = re.search(r"/jobs/(\d+)-([^/?#]*)", u)
+        if not m or m.group(1) in seen:
+            continue
+        seen.add(m.group(1))
+        jobs.append(_job(b, job_id=m.group(1), title=slug_words(re.sub(r"-[A-Z]{1,4}\d+$", "", m.group(2))), url=u,
+                         title_guess=True, posted_at=parse_when(lastmod), needs_detail=True, detail_ref=u))
+    return jobs
+
+
+# ------------------------------------------------------------------ CareerPuck (public job board API)
+
+def careerpuck_list(b: Board) -> list[Job]:
+    data = get_json(f"https://api.careerpuck.com/v1/public/job-boards/{b.board}")
+    jobs = []
+    for r in data.get("jobs") or []:
+        jid = str(r.get("permalink") or r.get("id") or "")
+        title = (r.get("title") or "").strip()
+        if not jid or not title or (r.get("status") and r.get("status") != "public"):
+            continue
+        locs = r.get("locations") or ([r.get("location")] if r.get("location") else [])
+        loc = "; ".join(_loc(l.get("city"), l.get("state") or l.get("region"), l.get("country")) if isinstance(l, dict)
+                        else str(l) for l in locs)
+        jobs.append(_job(b, job_id=jid, title=title, url=f"https://app.careerpuck.com/job-board/{b.board}/job/{jid}",
+                         location=loc, description=html_to_text(htmllib.unescape(r.get("content") or ""))[:20000],
+                         posted_at=parse_when(r.get("publishedAt") or r.get("createdAt") or r.get("updatedAt")),
+                         workplace=_wp(r.get("workplaceType") or r.get("remote") or loc)))
+    return jobs
+
+
+# ------------------------------------------------------------------ JOIN (join.com company pages)
+
+def join_list(b: Board, max_pages: int = 10) -> list[Job]:
+    jobs, seen = [], set()
+    for page in range(1, max_pages + 1):
+        html = _page(f"https://join.com/companies/{b.board}" + (f"?page={page}" if page > 1 else ""))
+        data = bracket_json(html, 'id="__NEXT_DATA__"', "{", "}") or {}
+        pd = ((data.get("props") or {}).get("pageProps") or {}).get("pageData") or {}
+        block = pd.get("jobs") or {}
+        company = (pd.get("company") or {}).get("name") or b.company
+        for r in block.get("items") or []:
+            jid = str(r.get("id") or r.get("idParam") or "")
+            if not jid or jid in seen:
+                continue
+            seen.add(jid)
+            city = r.get("city") or {}
+            loc = _loc(city.get("cityName") if isinstance(city, dict) else city,
+                       (r.get("country") or {}).get("name") if isinstance(r.get("country"), dict) else r.get("country"))
+            j = _job(b, job_id=jid, title=(r.get("title") or "").strip(), location=loc,
+                     url=f"https://join.com/companies/{b.board}/{r.get('idParam') or jid}",
+                     posted_at=parse_when(r.get("createdAt") or r.get("publishedAt")),
+                     workplace=_wp(r.get("workplaceType") or r.get("remoteType") or ""),
+                     needs_detail=True, detail_ref=f"https://join.com/companies/{b.board}/{r.get('idParam') or jid}")
+            if company and j.company_guess:
+                j.company = company
+            jobs.append(j)
+        pg = block.get("pagination") or {}
+        if page >= int(pg.get("pageCount") or 1):
+            break
+    return jobs
+
+
+# ------------------------------------------------------------------ Homerun (company.homerun.co)
+
+def homerun_list(b: Board) -> list[Job]:
+    host = b.board if "." in b.board else f"{b.board}.homerun.co"
+    jobs, seen = [], set()
+    for u, lastmod in _sitemap_urls(f"https://{host}/sitemap.xml"):
+        path = [x for x in urlsplit(u).path.split("/") if x]
+        if not path or path[-1] in ("apply", "nl", "en", "de") and len(path) < 2:
+            continue
+        slug = path[0]
+        if slug in seen or slug in ("opensollicitatie", "open-application", "privacy", "apply"):
+            continue
+        seen.add(slug)
+        url = f"https://{host}/{slug}"
+        jobs.append(_job(b, job_id=slug, title=slug_words(slug), url=url, title_guess=True,
+                         posted_at=parse_when(lastmod), needs_detail=True, detail_ref=url))
+    return jobs
+
+
 LISTERS = {
     "ldsite": ldsite_list,
     "icims": icims_list, "jazzhr": jazzhr_list, "jobvite": jobvite_list, "sfrmk": sfrmk_list,
@@ -1112,6 +1256,8 @@ LISTERS = {
     "teamtailor": teamtailor_list, "dover": dover_list, "gem": gem_list, "ukg": ukg_list, "ukgready": ukgready_list,
     "dayforce": dayforce_list, "adp": adp_list, "manatal": manatal_list,
     "hireology": hireology_list, "oorwin": oorwin_list, "mcloud": mcloud_list, "dspace": dspace_list,
+    "zoho": zoho_list, "personio": personio_list, "catsone": catsone_list, "careerpuck": careerpuck_list,
+    "join": join_list, "homerun": homerun_list,
 }
 DETAILERS = {
     "ldsite": _ld_detail,
@@ -1119,9 +1265,11 @@ DETAILERS = {
     "paylocity": paylocity_detail, "taleo": taleo_detail, "avature": avature_detail, "phenom": phenom_detail,
     "eightfold": eightfold_detail, "breezy": _ld_detail, "dover": dover_detail, "gem": gem_detail,
     "ukg": ukg_detail, "adp": adp_detail, "dspace": dspace_detail,
+    "zoho": _ld_detail, "catsone": _ld_detail, "join": _ld_detail, "homerun": _ld_detail, "yc": _ld_detail,
 }
 # Listers whose detail call only fills gaps can skip it when the listing already had a description.
 CONCURRENCY = {"icims": 6, "jazzhr": 6, "jobvite": 3, "sfrmk": 4, "paylocity": 4, "taleo": 3, "avature": 3,
                "phenom": 3, "eightfold": 3, "jibe": 4, "breezy": 6, "pinpoint": 4, "teamtailor": 4, "dover": 3,
                "gem": 3, "ukg": 4, "ukgready": 3, "dayforce": 2, "adp": 3, "manatal": 3, "hireology": 3, "oorwin": 2,
-               "mcloud": 2, "dspace": 2, "ldsite": 3}
+               "mcloud": 2, "dspace": 2, "ldsite": 3, "zoho": 3, "personio": 4, "catsone": 3, "careerpuck": 4,
+               "join": 2, "homerun": 3}
