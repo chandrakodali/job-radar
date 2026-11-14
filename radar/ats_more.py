@@ -76,7 +76,9 @@ def _apply_ld(job: Job, page: str) -> bool:
 
 
 def _job(b: Board, **kw) -> Job:
-    return Job(ats=b.ats, board=b.board, company=b.company, company_guess=not b.named, **kw)
+    kw.setdefault("company", b.company)
+    kw.setdefault("company_guess", not b.named)
+    return Job(ats=b.ats, board=b.board, **kw)
 
 
 def _loc(*parts) -> str:
@@ -1248,6 +1250,154 @@ def homerun_list(b: Board) -> list[Job]:
     return jobs
 
 
+# ------------------------------------------------------------------ big employers' own career sites
+# Each reads the company's public job search (robots.txt allows it), US jobs only, newest first, and
+# stops at jobs older than `max_age_days`.
+
+def amazon_list(b: Board, max_pages: int = 40, max_age_days: int = 10) -> list[Job]:
+    from datetime import datetime, timedelta
+    url = "https://www.amazon.jobs/en/search.json"
+    robots.check(url)
+    now = datetime.now(timezone.utc)
+    jobs, seen = [], set()
+    for page in range(max_pages):
+        data = get_json(url, params={"base_query": "", "country": "USA", "sort": "recent",
+                                     "result_limit": 100, "offset": page * 100})
+        rows = data.get("jobs") or []
+        old = 0
+        for r in rows:
+            jid = str(r.get("id_icims") or r.get("id") or "")
+            if not jid or jid in seen:
+                continue
+            seen.add(jid)
+            posted = parse_when(r.get("posted_date"))
+            if posted and now - posted > timedelta(days=max_age_days):
+                old += 1
+                continue
+            desc = "\n".join(str(r.get(k) or "") for k in ("description", "basic_qualifications", "preferred_qualifications"))
+            desc = desc.replace("Basic Qualifications", "").strip()
+            jobs.append(_job(b, job_id=jid, title=(r.get("title") or "").strip(),
+                             company=r.get("company_name") or "Amazon",
+                             location=r.get("normalized_location") or r.get("location") or "",
+                             countries=["United States"], posted_at=posted,
+                             url="https://www.amazon.jobs" + (r.get("job_path") or f"/en/jobs/{jid}"),
+                             description=("Requirements:\n" + str(r.get("basic_qualifications") or "") +
+                                          "\nPreferred:\n" + str(r.get("preferred_qualifications") or "") +
+                                          "\n" + str(r.get("description") or ""))[:20000]))
+        if len(rows) < 100 or old >= len(rows) * 0.8:
+            break
+    for j in jobs:
+        j.company_guess = False
+    return jobs
+
+
+def apple_list(b: Board, max_pages: int = 25, max_age_days: int = 10) -> list[Job]:
+    from datetime import datetime, timedelta
+    import requests as _rq
+    from .http import USER_AGENT
+    robots.check("https://jobs.apple.com/api/v1/search")
+    s = _rq.Session()
+    s.headers.update({"User-Agent": USER_AGENT, "Origin": "https://jobs.apple.com",
+                      "Referer": "https://jobs.apple.com/en-us/search"})
+    tok = s.get("https://jobs.apple.com/api/v1/CSRFToken", timeout=30).headers.get("X-Apple-CSRF-Token", "")
+    now = datetime.now(timezone.utc)
+    jobs, seen = [], set()
+    for page in range(1, max_pages + 1):
+        r = s.post("https://jobs.apple.com/api/v1/search", timeout=40, headers={"x-apple-csrf-token": tok},
+                   json={"query": "", "filters": {"locations": ["postLocation-USA"]}, "page": page, "locale": "en-us",
+                         "sort": "newest", "format": {"longDate": "MMMM D, YYYY", "mediumDate": "MMM D, YYYY"}})
+        if r.status_code != 200:
+            raise FetchError(f"HTTP {r.status_code}", status=r.status_code)
+        rows = ((r.json().get("res") or {}).get("searchResults")) or []
+        old = 0
+        for x in rows:
+            pid = str(x.get("positionId") or x.get("id") or "")
+            if not pid or pid in seen:
+                continue
+            seen.add(pid)
+            posted = parse_when(x.get("postDateInGMT") or x.get("postingDate"))
+            if posted and now - posted > timedelta(days=max_age_days):
+                old += 1
+                continue
+            locs = x.get("locations") or []
+            loc = "; ".join(_loc(l.get("city"), l.get("stateProvince"), l.get("countryName")) for l in locs
+                            if isinstance(l, dict)) or "United States"
+            slug = x.get("transformedPostingTitle") or re.sub(r"[^a-z0-9]+", "-", (x.get("postingTitle") or "").lower())
+            jobs.append(_job(b, job_id=pid, title=(x.get("postingTitle") or "").strip(), company="Apple",
+                             location=loc, countries=["United States"], posted_at=posted,
+                             url=f"https://jobs.apple.com/en-us/details/{pid}/{slug}",
+                             description=str(x.get("jobSummary") or "")[:20000],
+                             workplace="remote" if x.get("homeOffice") else ""))
+        if len(rows) < 20 or old >= max(1, len(rows)) * 0.8:
+            break
+    for j in jobs:
+        j.company_guess = False
+    return jobs
+
+
+def ibm_list(b: Board, size: int = 100, max_pages: int = 30) -> list[Job]:
+    url = "https://www-api.ibm.com/search/api/v2"
+    jobs, seen = [], set()
+    for page in range(max_pages):
+        data = post_json(url, {
+            "appId": "careers", "scopes": ["careers2"], "size": size, "from": page * size, "lang": "zz",
+            "query": {"bool": {"must": [{"match_all": {}}]}}, "sort": [{"_score": "desc"}],
+            "_source": ["_id", "title", "url", "description", "field_keyword_17", "field_keyword_18", "field_keyword_19"]})
+        hits = ((data.get("hits") or {}).get("hits")) or []
+        for h in hits:
+            src = h.get("_source") or {}
+            u = src.get("url") or ""
+            m = re.search(r"jobId=(\d+)", u)
+            jid = m.group(1) if m else h.get("_id", "")
+            loc = src.get("field_keyword_19") or ""
+            if not jid or jid in seen or not re.search(r"(,\s*US$|United States)", loc):
+                continue
+            seen.add(jid)
+            jobs.append(_job(b, job_id=jid, title=(src.get("title") or "").strip(), company="IBM",
+                             location=loc.replace(", US", ", United States"), countries=["United States"], url=u,
+                             description=src.get("description") or "", workplace=_wp(src.get("field_keyword_17")),
+                             needs_detail=True, detail_ref=u))
+        if len(hits) < size:
+            break
+    for j in jobs:
+        j.company_guess = False
+    return jobs
+
+
+def tiktok_list(b: Board, limit: int = 100, max_pages: int = 30) -> list[Job]:
+    url = "https://api.lifeattiktok.com/api/v1/public/supplier/search/job/posts"
+    jobs, seen = [], set()
+    for page in range(max_pages):
+        data = post_json(url, {"recruitment_id_list": [], "job_category_id_list": [], "subject_id_list": [],
+                               "location_code_list": [], "keyword": "", "limit": limit, "offset": page * limit},
+                         headers={"website-path": "tiktok", "Origin": "https://lifeattiktok.com",
+                                  "Referer": "https://lifeattiktok.com/"})
+        rows = ((data.get("data") or {}).get("job_post_list")) or []
+        for r in rows:
+            jid = str(r.get("id") or "")
+            city = r.get("city_info") or {}
+            names = []
+            c = city
+            while isinstance(c, dict) and c:
+                names.append(c.get("en_name") or c.get("name") or "")
+                c = c.get("parent")
+            loc = ", ".join(n for n in names if n)
+            if not jid or jid in seen or not re.search(r"United States|\bUSA?\b", loc):
+                continue
+            seen.add(jid)
+            desc = "\n".join(str(r.get(k) or "") for k in ("description", "requirement"))
+            jobs.append(_job(b, job_id=jid, title=(r.get("title") or "").strip(), company="TikTok", location=loc,
+                             countries=["United States"], url=f"https://lifeattiktok.com/search/{jid}",
+                             posted_at=parse_when(r.get("publish_time") or r.get("create_time")),
+                             description=("Requirements:\n" + str(r.get("requirement") or "") + "\n" +
+                                          str(r.get("description") or ""))[:20000]))
+        if len(rows) < limit:
+            break
+    for j in jobs:
+        j.company_guess = False
+    return jobs
+
+
 LISTERS = {
     "ldsite": ldsite_list,
     "icims": icims_list, "jazzhr": jazzhr_list, "jobvite": jobvite_list, "sfrmk": sfrmk_list,
@@ -1258,6 +1408,7 @@ LISTERS = {
     "hireology": hireology_list, "oorwin": oorwin_list, "mcloud": mcloud_list, "dspace": dspace_list,
     "zoho": zoho_list, "personio": personio_list, "catsone": catsone_list, "careerpuck": careerpuck_list,
     "join": join_list, "homerun": homerun_list,
+    "amazon": amazon_list, "apple": apple_list, "ibm": ibm_list, "tiktok": tiktok_list,
 }
 DETAILERS = {
     "ldsite": _ld_detail,
@@ -1266,10 +1417,11 @@ DETAILERS = {
     "eightfold": eightfold_detail, "breezy": _ld_detail, "dover": dover_detail, "gem": gem_detail,
     "ukg": ukg_detail, "adp": adp_detail, "dspace": dspace_detail,
     "zoho": _ld_detail, "catsone": _ld_detail, "join": _ld_detail, "homerun": _ld_detail, "yc": _ld_detail,
+    "ibm": _ld_detail,
 }
 # Listers whose detail call only fills gaps can skip it when the listing already had a description.
 CONCURRENCY = {"icims": 6, "jazzhr": 6, "jobvite": 3, "sfrmk": 4, "paylocity": 4, "taleo": 3, "avature": 3,
                "phenom": 3, "eightfold": 3, "jibe": 4, "breezy": 6, "pinpoint": 4, "teamtailor": 4, "dover": 3,
                "gem": 3, "ukg": 4, "ukgready": 3, "dayforce": 2, "adp": 3, "manatal": 3, "hireology": 3, "oorwin": 2,
                "mcloud": 2, "dspace": 2, "ldsite": 3, "zoho": 3, "personio": 4, "catsone": 3, "careerpuck": 4,
-               "join": 2, "homerun": 3}
+               "join": 2, "homerun": 3, "amazon": 1, "apple": 1, "ibm": 1, "tiktok": 1}
