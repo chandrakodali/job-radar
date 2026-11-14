@@ -1,19 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**324 jobs**, newest first. Updated Fri Nov 13, 6:37 PM CST from 7,552 company job boards and other sources.
+**323 jobs**, newest first. Updated Fri Nov 13, 7:07 PM CST from 7,552 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-33 repeat listings (same company and title in another place or on another source) are merged into one row.
+35 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 275 matching jobs that job sites and feeds listed this week, 53 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 13 (43)](#friday-nov-13-43) · [Thu 12 (84)](#thursday-nov-12-84) · [Wed 11 (40)](#wednesday-nov-11-40) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (42)](#monday-nov-9-42) · [Sun 8 (35)](#sunday-nov-8-35) · [Sat 7 (6)](#saturday-nov-7-6) · [Fri 6 (4)](#friday-nov-6-4)
+Jump to: [Fri 13 (45)](#friday-nov-13-45) · [Thu 12 (83)](#thursday-nov-12-83) · [Wed 11 (39)](#wednesday-nov-11-39) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (42)](#monday-nov-9-42) · [Sun 8 (35)](#sunday-nov-8-35) · [Sat 7 (6)](#saturday-nov-7-6) · [Fri 6 (3)](#friday-nov-6-3)
 
-## Friday, Nov 13 (43)
+## Friday, Nov 13 (45)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 7:01 PM | [Senior Network Engineer - DR25 Network Engineering team](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350444) | Oracle | Seattle, WA, United States; Santa Clara… | 35 | senior title, years not stated |
+| 6:47 PM | [Senior Software Engineer, Core Infrastructure](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343019) | Oracle | Nashville, TN, United States | 50 | senior title, years not stated |
 | 5:41 PM | [Senior Software Engineer, Release Engineering](https://www.agilityrobotics.com/about/job-post?gh_jid=6237014004) | Agilityrobotics | Hybrid- Any Office (Fremont, CA, Salem,… (hybrid) | 45 | senior title, years not stated |
 | 5:17 PM | [Senior Systems Administrator](https://jobs.ashbyhq.com/qumulo/d60cca8b-7c6a-4883-bcae-a67dd958e2e1) | Qumulo | Seattle (hybrid) (hybrid) | 45 | senior title, years not stated |
 | 3:20 PM | [Senior Security Platform Engineer - Secure Delivery](https://jobs.ashbyhq.com/Ashby/9225e1fa-66aa-45d2-bf92-2ac653744434) | Ashby | Remote - US; Remote - Canada (remote) | 52 | senior title, years not stated |
@@ -58,7 +60,7 @@ Jump to: [Fri 13 (43)](#friday-nov-13-43) · [Thu 12 (84)](#thursday-nov-12-84) 
 | 6:15 AM | [Infrastructure Engineer III - AWS Cloud Infrastructure & SecOps Engin…](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803198) | JP Morgan Chase | Plano, TX, United States | 60 | 3+ yrs exp; senior title |
 | 5:02 AM | [Langfuse - Senior Cloud Infra Engineer](https://jobs.ashbyhq.com/clickhouse/39e42a38-1cbf-40c7-b373-717b4cdddbac) | ClickHouse | New York (remote) | 52 | senior title, years not stated |
 
-## Thursday, Nov 12 (84)
+## Thursday, Nov 12 (83)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -140,19 +142,17 @@ Jump to: [Fri 13 (43)](#friday-nov-13-43) · [Thu 12 (84)](#thursday-nov-12-84) 
 | 9:28 AM | [Infrastructure Support Engineer](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41266) | Nokia | United States (onsite) | 70 |  |
 | 9:22 AM | [DevOps Engineer - Hybrid](https://job-boards.greenhouse.io/tenet3/jobs/8939443002) | Tenet3 | Dayton, Ohio | 60 | 3+ yrs exp |
 | 8:43 AM | [Data Observability Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628930) | Sherwin-Williams | Cleveland, OH, United States | 60 | 3+ yrs exp |
-| 7:26 AM | [Senior Network Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349973) | Oracle | Santa Clara, CA, United States; Seattle… | 35 | senior title, years not stated |
 | 4:17 AM | [Infrastructure Engineer](https://jobs.ashbyhq.com/simple-ai/1dbaca6f-92cd-4ad9-ac3f-8fe6dce7e20c) | Simple AI | San Francisco (onsite) | 60 | 4+ yrs exp; no future H-1B sponsorship |
 | 2:00 AM | [Sr. Cloud Engineer](https://careers.mohawkind.com/mohawk/job/Kennesaw-Sr_-Cloud-Engineer-Geor-30144/1372243900/) | Mohawk | Kennesaw, Georgia, United States | 60 | 4+ yrs exp; senior title |
 | 2:00 AM | [Senior IT Programmer Analyst - Cloud DevOps](https://jobs.nexteraenergy.com/job/Juno-Beach-Senior-IT-Programmer-Analyst-Cloud-DevOps-FL-33408/1440011500/) | NextEra Energy | Juno Beach, FL, United States | 60 | 4+ yrs exp; senior title |
 | 1:00 AM (seen) | [Network Engineer](https://jobs.jobvite.com/jbs/job/oiO5Afwv) | JBS Foods | Richardson, Texas | 35 |  |
 | 1:00 AM (seen) | [Systems Reliability Engineer](https://jobs.jobvite.com/nutanix/job/osn3Afwc) | Nutanix |  | 55 | 2+ yrs exp; location unclear |
 
-## Wednesday, Nov 11 (40)
+## Wednesday, Nov 11 (39)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 7:35 PM | [Infrastructure Engineer - Labs](https://jobs.ashbyhq.com/Etched/b4ad6323-3d69-4881-a2db-e3967afbae65) | Etched | San Jose (onsite) | 70 |  |
-| 7:13 PM | [Senior Software Engineer, Core Infrastructure(Hybrid)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344707) | Oracle | Nashville, TN, United States | 55 | 4+ yrs exp; senior title |
 | 2:50 PM | [Application Support Engineer - Market Data](https://jobs.smartrecruiters.com/Talan/744000161165829-application-support-engineer-market-data) | Talan | New York, , United States (hybrid) | 38 | 3+ yrs exp; no future H-1B sponsorship |
 | 2:45 PM | [DevOps Engineer](https://jobs.workable.com/view/ctLT2M6tHcohHg4nJWyFy7/hybrid-devops-engineer-in-minneapolis-at-accurant-international) | Accurant International | Minneapolis, Minnesota (hybrid) | 63 |  |
 | 2:34 PM | [Network Engineer](https://jobs.smartrecruiters.com/NBCUniversal3/744000161163099-network-engineer) | NBCUniversal | New York, NEW YORK, United States (hybrid) | 50 | 3+ yrs exp |
@@ -365,16 +365,15 @@ Jump to: [Fri 13 (43)](#friday-nov-13-43) · [Thu 12 (84)](#thursday-nov-12-84) 
 | date only | [Senior Software Engineer, System Validation - EDA Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Next-Generation-Architecture---EDA-Infrastructure_JR2014880) | NVIDIA | US, CA, Santa Clara; US, MA, Westford; … (remote) | 35 | senior title, years not stated |
 | 2:00 AM | [Cloud Engineer III](https://jobs.mcdonalds.com/job/Chicago-Cloud-Engineer-III-IL-60607/1408247300/) | McDonald's | Chicago, IL, United States | 48 | 3+ yrs exp; senior title |
 
-## Friday, Nov 6 (4)
+## Friday, Nov 6 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 10:54 PM | [Cloud Systems Administrator](https://job-boards.greenhouse.io/oneimaging/jobs/4484490009) | OneImaging | Remote (remote) | 42 | location unclear |
 | 8:22 PM | [Cloud Inference Engineer](https://jobs.ashbyhq.com/luminal/418158ce-9570-43fa-8877-2583c291b3fa) | Luminal | San Francisco (onsite) | 58 |  |
 | 8:00 PM | [SYSTEM ADMINISTRATOR](https://www.careers.zurich.com/job/S%C3%A3o-Paulo-SYSTEM-ADMINISTRATOR/1364291557/) | Zurich Insurance |  | 38 | location unclear |
-| 6:54 PM | [IT Systems Engineer](https://job-boards.greenhouse.io/icarus/jobs/5476156008) | Icarus | El Segundo | 33 | 3+ yrs exp; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (699)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (698)
 
 <details><summary>Show</summary>
 
@@ -765,7 +764,6 @@ Jump to: [Fri 13 (43)](#friday-nov-13-43) · [Thu 12 (84)](#thursday-nov-12-84) 
 | 8:00 PM | [Ingénieur Production Applicative / DevOps (F/H)](https://jobs.atos.net/job/Aix-en-Provence-Ing%C3%A9nieur-Production-Applicative-DevOps-%28FH%29/1365781633/) | Atos | Aix en Provence, FR | 53 | rules: role or location no longer in the target list |
 | 8:00 PM | [NETWORK ENGINEER](https://jobs.atos.net/job/Amstelveen-NETWORK-ENGINEER/1265792201/) | Atos | Amstelveen, NL | 38 | rules: role or location no longer in the target list |
 | 8:00 PM | [Sr. AWS IAM Engineer](https://careers.capgemini.com/job/Santa-Clara%2C-CA-Sr_-AWS-IAM-Engineer-CA-95050/1415004833/) | Capgemini | Santa Clara, CA, United States | 33 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 6:40 PM | [Infrastructure Engineer](https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6368) | Rice University | United States (hybrid) | 48 | asks for 5+ years of experience; 5+ yrs exp; likely H-1B cap-exempt (… |
 | 4:44 PM | [Jr. Data Center Technician](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/234148) | BGIS | South Jordan, UT, United States | 63 | rules: role no longer in the target list |
 | 3:39 PM | [Customer Support Engineer - Level 1](https://jobs.lever.co/kgroupcompanies/4901c9c4-730d-493e-b5d1-a80f95837249) | K Group | Grand Rapids, Michigan (onsite) | 53 | rules: role no longer in the target list |
 | 2:54 PM | [Sr DevOps Engineer](https://jobs.ashbyhq.com/artosai/faa4c742-2a0b-4623-b054-a36e874c5e83) | Artos | San Francisco (onsite) | 38 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
@@ -780,6 +778,7 @@ Jump to: [Fri 13 (43)](#friday-nov-13-43) · [Thu 12 (84)](#thursday-nov-12-84) 
 | date only | [Developer Support Engineer, Open API](https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Developer-Support-Engineer--Open-API_JR-000519) | Buildertrend | Omaha, NE (remote) | 40 | rules: role no longer in the target list |
 | date only | [Cloud Solutions Engineer](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Cloud-Solutions-Engineer_R-434482) | Humana | Remote Kentucky; Remote North Carolina;… (remote) | 35 | rules: role no longer in the target list |
 | date only | [Network Operations Engineer](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Network-Operations-Engineer_R-26-20882) | Moog | Buffalo, NY (hybrid) | 48 | rules: role no longer in the target list |
+| date only | [Pharmacy Automation Systems Administrator - Pharmacy Technician - FT …](https://memorialhealthcare.wd1.myworkdayjobs.com/MHS_Careers/job/Memorial-Regional-Hospital-South/Pharmacy-Automation-Systems-Administrator---Pharmacy-Technician---FT---Days---MRHS_JR-25046-1) | Memorial Healthcare System | Memorial Regional Hospital South (onsite) | 43 | rules: role no longer in the target list |
 
 </details>
 
