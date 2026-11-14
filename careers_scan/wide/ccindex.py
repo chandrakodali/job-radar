@@ -73,7 +73,7 @@ def sql_for(parquet_path: str, cols: set[str]) -> str:
     tlds = ",".join(f"'{t}'" for t in CC_TLDS_OK)
     p = parquet_path.replace("'", "''")
     return f"""
-      SELECT url, url_host_name AS host, {dom} AS dom, lower(url_path) AS path, fetch_time,
+      SELECT url, url_host_name AS host, {dom} AS dom, lower(url_path) AS path, CAST(fetch_time AS VARCHAR) AS fetch_time,
              warc_filename, warc_record_offset, warc_record_length
       FROM read_parquet('{p}')
       WHERE fetch_status = 200

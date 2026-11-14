@@ -1,6 +1,6 @@
 """US-wide sweep: Common Crawl index query, careers-URL scoring, hint scanner, archive copy, page signals."""
 import gzip
-from datetime import datetime
+from datetime import datetime, timezone
 from urllib.parse import urlsplit
 
 import pytest
@@ -14,7 +14,7 @@ def R(url, lang="eng", status=200, mime="text/html", query=None):
     u = urlsplit(url)
     host = u.hostname
     dom = registrable_domain(host)
-    return (url, host, host.rsplit(".", 1)[-1], dom, dom, u.path or "/", query, datetime(2026, 10, 20, 12, 0, 0),
+    return (url, host, host.rsplit(".", 1)[-1], dom, dom, u.path or "/", query, datetime(2026, 10, 20, 12, 0, 0, tzinfo=timezone.utc),
             status, mime, lang, "crawl-data/x.warc.gz", 100, 200)
 
 
@@ -33,7 +33,7 @@ def test_sweep_file_finds_one_careers_page_per_site(tmp_path):
     con = duckdb.connect()
     con.execute("CREATE TABLE t (url VARCHAR, url_host_name VARCHAR, url_host_tld VARCHAR, "
                 "url_host_registered_domain VARCHAR, url_host_private_domain VARCHAR, url_path VARCHAR, "
-                "url_query VARCHAR, fetch_time TIMESTAMP, fetch_status SMALLINT, content_mime_detected VARCHAR, "
+                "url_query VARCHAR, fetch_time TIMESTAMPTZ, fetch_status SMALLINT, content_mime_detected VARCHAR, "
                 "content_languages VARCHAR, warc_filename VARCHAR, warc_record_offset INTEGER, "
                 "warc_record_length INTEGER)")
     con.executemany("INSERT INTO t VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)", rows)
