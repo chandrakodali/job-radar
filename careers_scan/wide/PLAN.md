@@ -134,10 +134,11 @@ daily    wide-triage  state.py work list (due sites, biggest backlog first)
 
 1. Install and run the tests. Expect exactly two failures, both in `test_roles.py`:
    `test_extract_roles_keeps_titles_and_their_own_details` and `test_build_and_save_apply_list`.
-2. Cause: both expect "Senior Site Reliability Engineer" to be dropped, but `config.yaml` now keeps senior titles
-   (`titles.senior`; the README says senior titles are kept when under 5 years). Fix the test expectations, not
-   the config. This matters beyond this project: `careers-scan.yml` runs these tests before the monthly scan, so
-   while they fail the scan on the 1st of the month cannot run.
+2. Cause: both expect "Senior Site Reliability Engineer" to be dropped, but title classification keeps it as
+   an infrastructure role. The experience check happens later. As documented in the README, senior roles are
+   kept when they ask for under 5 years. When experience is unstated, as in this test fixture, the role is
+   listed with the flag "senior title, years not stated". Fix the test expectations, not the config.
+   `careers-scan.yml` runs these tests before the monthly scan, so failures block the scan on the 1st.
 
 Done when: `python -m pytest careers_scan/tests -q` passes completely.
 
