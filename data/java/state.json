@@ -26,6 +26,8 @@
   "adp:09dede8a-c0c9-4db8-a7e5-418d9ef9deb1|19000101_000001": "2026-11-14",
   "adp:0ac9c872-8815-465b-b05a-caa90545c4d1|19000101_000001": "2026-11-14",
   "adp:0b279ef4-70b5-43b5-9b1c-ebf799fd2e4c": "2026-11-14",
+  "adp:0bb77723-5db8-455b-a01c-54257189f090|19000101_000001": "2026-11-14",
+  "adp:0c096a49-ac0e-4b90-8f39-6c8a8fb92e87|9200981764020_2": "2026-11-14",
   "adp:0c34e38f-a634-4066-88b8-ddce3a8a2a39": "2026-11-14",
   "adp:0d35cdee-8f25-492a-b86e-938916b084d5|19000101_000001": "2026-11-14",
   "adp:0e233cf2-b351-4554-82c4-1cae94614927|19000101_000001": "2026-11-14",
@@ -44,6 +46,8 @@
   "adp:143ad7a2-63a5-4e78-bb9e-f11b63c50548": "2026-11-14",
   "adp:16fcfcf1-c694-4006-a6ae-e0b8a1803bb5": "2026-11-14",
   "adp:176d5db1-da68-4a36-b4e3-b17b4e8ef976": "2026-11-14",
+  "adp:179176a5-5729-4711-ae32-82b8acb4ba6f": "2026-11-14",
+  "adp:18688a6c-b976-480c-a7a7-a0c92ecf44f2": "2026-11-14",
   "adp:1a8b6b26-6223-476f-ae42-6285460ab72f": "2026-11-14",
   "adp:1b4164c0-a7ce-4c7b-8525-41e0f23310d4": "2026-11-14",
   "adp:1b50a554-ed4a-4219-a358-aa3cbeea1e70": "2026-11-14",
@@ -60,9 +64,11 @@
   "adp:257f4767-9bbd-46c7-b723-eb1e0c727b3a|1684781626_2117": "2026-11-14",
   "adp:2645b8ca-2593-4dd4-b66d-219366406667": "2026-11-14",
   "adp:267cfc8f-e6d3-499b-8a38-c6abe8ee3d82": "2026-11-14",
+  "adp:270cde4b-cc14-4dc5-9a7c-227061a80e8c": "2026-11-14",
   "adp:277235cd-c389-4a09-8ebf-663c98a924c6": "2026-11-14",
   "adp:27ed468a-cd1b-44c2-bdaa-45dde014af03": "2026-11-14",
   "adp:28e46921-174b-4b03-ba7b-40eb5a3c0fa6|19000101_000003": "2026-11-14",
+  "adp:2a76e3c6-9f65-40ea-afe8-07caf310155c": "2026-11-14",
   "adp:2a9a53c7-700a-4b99-91dd-7b87413d8b5a": "2026-11-14",
   "adp:2b91bf50-3a50-41f0-a6c4-489fe5d999f7|9201086727724_3": "2026-11-14",
   "adp:2bfe379d-80e6-4626-8130-326b27dddfe6|9202825858348_2": "2026-11-14",
@@ -155,6 +161,9 @@
   "adp:59c7b8d0-6bc4-4af3-a1e6-f133756c844b": "2026-11-14",
   "adp:59fca267-6469-44e2-baa7-9b240075615b": "2026-11-14",
   "adp:5a22940c-3629-44d9-813a-0ccee8ac9aac": "2026-11-14",
+  "adp:5a22940c-3629-44d9-813a-0ccee8ac9aac|19000101_000001": "2026-11-14",
+  "adp:5a9ff4f3-2581-4b04-9c3e-f70955822456|19000101_000001": "2026-11-14",
+  "adp:5b362fba-f53e-4789-bc85-d104f0b9a79c|19000101_000001": "2026-11-14",
   "amazon:us": "2026-11-14",
   "apple:usa": "2026-11-14",
   "ashby:0g": "2026-11-14",
@@ -2765,10 +2774,14 @@
   "dover:avy": "2026-11-14",
   "dover:backbone": "2026-11-14",
   "dover:band": "2026-11-14",
+  "dover:beakpointinsights": "2026-11-14",
+  "dover:beehive": "2026-11-14",
   "dover:belfry": "2026-11-14",
   "dover:belva-ai": "2026-11-14",
   "dover:betriax": "2026-11-14",
   "dover:beyondlabs-cf291676": "2026-11-14",
+  "dover:codeclimate": "2026-11-14",
+  "dover:codeday": "2026-11-14",
   "dover:mindsmith": "2026-11-14",
   "eightfold:al-ghurair": "2026-11-14",
   "eightfold:amdocs": "2026-11-14",
@@ -6707,9 +6720,12 @@
   "paylocity:02ffafc6-8014-4798-b296-cecacc0dc986": "2026-11-14",
   "paylocity:030d20cc-6443-4d57-ae17-8dd3f58e11f8": "2026-11-14",
   "paylocity:031092c6-135e-4ac0-a86a-6ebb8f6c0a79": "2026-11-14",
+  "paylocity:031133dc-c4a4-4cc9-898e-7d5cd52f5ee5": "2026-11-14",
+  "paylocity:05a8347a-7060-4310-b2be-d19fa27a6518": "2026-11-14",
   "paylocity:06b3cfd5-88b3-498c-847c-9e1687852028": "2026-11-14",
   "paylocity:0721fa6f-20b1-48a9-9a2a-7da813f88a10": "2026-11-14",
   "paylocity:07314255-f13e-4c20-b80c-2b4022218dc8": "2026-11-14",
+  "paylocity:076ee35d-2815-45ca-a6dc-38be74644a87": "2026-11-14",
   "paylocity:0844bcbc-bc5c-45ed-8674-5fe440c4e57a": "2026-11-14",
   "paylocity:086af4d0-3dbe-4019-87ba-444c7e2661ac": "2026-11-14",
   "paylocity:08741992-5802-4419-a6eb-fbb58d6ac948": "2026-11-14",
@@ -6730,6 +6746,8 @@
   "paylocity:12149a26-ab34-4619-be4d-3aea2dd218ee": "2026-11-14",
   "paylocity:12e25827-bf2d-4260-9e2c-5850b67ab5e5": "2026-11-14",
   "paylocity:12e83903-cf1c-4c46-b31b-648adbadbfbf": "2026-11-14",
+  "paylocity:133a9a75-e44a-4f7e-b954-9af8522b1acb": "2026-11-14",
+  "paylocity:1345d48b-d589-40d9-80b2-dc0a2be1e8f0": "2026-11-14",
   "paylocity:1348ee46-2e26-420e-81d3-93bc6ddb2a43": "2026-11-14",
   "paylocity:14223a8b-d10c-4985-b077-944a16d2fea3": "2026-11-14",
   "paylocity:142c9c7e-4192-4bef-9adf-86db6d8f712c": "2026-11-14",
@@ -6738,6 +6756,8 @@
   "paylocity:146a3a13-476a-4520-a409-2d46af632aba": "2026-11-14",
   "paylocity:146c5804-5603-4f3b-a61c-c9046e8a6402": "2026-11-14",
   "paylocity:14724750-0d96-417c-acb1-743bcf1738b7": "2026-11-14",
+  "paylocity:14a2c663-08c2-4749-a338-1b08bb553b1b": "2026-11-14",
+  "paylocity:14bb98e5-6efc-4bd8-b6d7-b899ea185e15": "2026-11-14",
   "paylocity:14d6aeae-9baa-4185-89ad-d560e1f995b5": "2026-11-14",
   "paylocity:14feca87-1841-4117-9aeb-924b0e905c19": "2026-11-14",
   "paylocity:151cf0dc-bb18-4bc1-aed7-ede5fa8751d7": "2026-11-14",
@@ -9505,1048 +9525,1252 @@
  "closed": {},
  "fails": {
   "ashby:Airweave": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:Deno": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:Gradia": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:Lynk": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:Tempo": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:amigo": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:arch.co": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:atomicsemi": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:beaconsoftware": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:blaxel": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:chainlink-labs": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:egra": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:evenup": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:firetiger": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:fractional-ai": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:fundamentalresearchlabs": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:hiive": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:hilberts": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:hitpayapp.com": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:inspiration-commerce-group": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:kinetic": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:klarity-ai": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:latitude": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:levels": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:lindy": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:lucidbots": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:mach": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:maximor": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:mentis": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:mintmcp": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:moonvalley-ai": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:morrishealthtech": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:mtesting.ai": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:odin-dynamics": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:offstream": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:ona": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:one-text": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:posting-api": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:powerus": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:pryzm": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:response": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:tavily": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:tensorzero": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:toggl": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:tracer": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:truss": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:veeda-labs": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:vellum": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:vidrush": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:whatnot": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "ashby:withcherry": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "avature:skanska.avature.net|careers": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /careers/sitemap_index.xml",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "avature:travisperkins.avature.net|careers": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /careers/sitemap_index.xml",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "breezy:shipblu": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "breezy:skillcrush": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "eightfold:aexp|aexp.com": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "eightfold:zebra|zebra.com": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 403",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:1910genetics": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:abodo": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:alma": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:appliedintuition": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:arine": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:artlogic": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:atlassand": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:breezeairways": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:buyersedgeplatformrecruiting": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:campusopportunities": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:capitalrx": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:classpass": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:climateai": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:commonpaper": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:curative": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:debtbook": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:designmehair": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:dustyrobotics": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:embrace": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:eu:fuzehealth": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:eu:letsgetchecked": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:eu:nowcircular": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:eu:superbet": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:fireworksai": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:glossgenius": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:greencanopy": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:ibkr": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:iherb": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:instabase": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:liveviewtechnologiesinc": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:loop": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:maintainx": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:matx": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:meltano": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:memphismeats": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:mqreferrals": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:myshell": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:nexttrucking": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:pantherlabs": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:postman": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:pretiuminternships2027": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:qualifiedhealth": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:rdccareers": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:reach": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:sadapay": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:scoutai": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:segmed": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:shyftsolutionsllc": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:smartersorting": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:swiftsku": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:threatlocker": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:transcarent": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:underdogfantasy": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:uplifter": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:users": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:visiersolutionsinc": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "greenhouse:withumsmithbrown": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:canadacareers-amd.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:career-schwab.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:careers-additionalrovisysopportunities.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:careers-biorad.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:careers-goldbeltapex.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:careers-hrblock.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:careers-ice.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:careers-itcfederal.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:careers-kimley-horn.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:careers-nv5.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:careers-publicisgroupetest.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:careers-rcm.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:careers-revolutioncompany.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:careers-se.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:careers-sev1tech.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:careers-sharpusa.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:careers-sig.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:external-careers-friedkin.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:field-careers-gmr.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:jobs-legrand.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:returners-hrblock.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:studentemployment-stthomas.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:university-uber.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:uscareers-pepsico.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "icims:woodplc-tradecraft-us-external-qa.icims.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:BloomTech": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:aifund": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:aircall": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:aofl": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:aprio": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:autoroboto": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:bestegg": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:calstart": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:cesiumastro": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:conduktor": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:energyvault": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:farcast": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:grid": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:inductiveautomation": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:joingerald": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:lifen": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:machinalabs": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:mbrdna": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:njstateofficeofinnovation": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:nomagic": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:oaknorth.ai": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:quantumworkplace": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:rainforest": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:regalvoice": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:run-alloy": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:saronic": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:simberobotics": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:talentwerx.io": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:trend-health-partners": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:trio": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:wandb": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:welocalize": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "lever:xpansiv": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "pinpoint:heapy": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /postings.json",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "pinpoint:interactsoftware": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /postings.json",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "pinpoint:pica8": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /postings.json",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "pinpoint:surrealdb": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /postings.json",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "pinpoint:wolve": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /postings.json",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "recruitee:1x": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "recruitee:qatium": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "rippling:acretrader-jobs": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "rippling:elevationcapital": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "rippling:en-CA": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "rippling:en-GB": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "rippling:eternal": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "rippling:etg": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "rippling:firehydrant": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "rippling:general": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "rippling:gitar-careers": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "rippling:groundcontrol": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "rippling:harness-careers": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "rippling:praos-smart-security": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "rippling:sennos": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "rippling:tempo": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "sfrmk:careers.qualitestgroup.com": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /job_sitemap.xml",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "taleo:aa243|ex": {
+   "disabled_until": "2026-11-21",
    "err": "Taleo portal number not found",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "taleo:energytransfer|etp_ext": {
+   "disabled_until": "2026-11-21",
    "err": "Taleo portal number not found",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "taleo:jacobs|ex3": {
+   "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /careersection/ex3/jobsearch.ftl",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "taleo:kearney|01": {
+   "disabled_until": "2026-11-21",
    "err": "Taleo portal number not found",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "taleo:kp|external": {
+   "disabled_until": "2026-11-21",
    "err": "Taleo portal number not found",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "taleo:vulcanmat|2": {
+   "disabled_until": "2026-11-21",
    "err": "Taleo portal number not found",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "teamtailor:encuadrado": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "teamtailor:tt": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workable:currier-plastics": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-14"
   },
   "workable:view": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-14"
   },
   "workday:23andme|wd5|23": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 403",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:aah|wd5|External": {
@@ -10555,53 +10779,68 @@
    "since": "2026-11-14"
   },
   "workday:amplify|wd1|Amplify_Careers": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 403",
-   "n": 2,
+   "n": 3,
+   "since": "2026-11-14"
+  },
+  "workday:bdo|wd3|BDO": {
+   "err": "HTTP 401",
+   "n": 1,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 403",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:cambiahealth|wd1|External": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:cff|wd1|explore-career-opportunities": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:cliftonlarsonallen|wd1|CLA": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:cmu|wd5|cmu": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:comcast|wd5|Comcast_Careers": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:condenast|wd5|CondeCareers": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:cspire-telapex|wd12|external-careers": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:dell|wd1|External": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:fragomen|wd1|FragomenCareers": {
@@ -10690,23 +10929,27 @@
    "since": "2026-11-14"
   },
   "workday:osv-amerisure|wd5|Amerisure": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:osv-cci|wd1|CCICareers": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:osv-cfainstitute|wd5|Careers": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:osv-chegg|wd5|Chegg": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:osv-enterprise|wd1|EnterpriseBankTrust_Jobs": {
@@ -10805,8 +11048,9 @@
    "since": "2026-11-14"
   },
   "workday:vca|wd1|antechcareers": {
+   "disabled_until": "2026-11-21",
    "err": "HTTP 422",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:vhr-epri|wd1|epricareers": {
@@ -10877,7 +11121,7 @@
  "recall": {
   "2026-11-14": [
    17,
-   62
+   65
   ]
  },
  "resolved": {
@@ -54449,6 +54693,8 @@
   "dover:avy:3fd51e6e-a76c-45b6-9af1-1780f24d5a0b": "2026-11-14",
   "dover:backbone:09dd01dd-08dc-4baf-9937-81967d6e48b9": "2026-11-14",
   "dover:band:d3d25fc2-392e-4721-aa75-42fe39f88737": "2026-11-14",
+  "dover:beakpointinsights:9fbe1505-ad04-4a5b-afe4-acd74bd197d9": "2026-11-14",
+  "dover:beehive:da960048-440f-49e2-8b54-f595727e26ef": "2026-11-14",
   "dover:belfry:4755ded9-7163-4c92-ae4b-110e5def5c9b": "2026-11-14",
   "dover:belva-ai:788f7e87-76e5-463c-b893-5a7b7eebf848": "2026-11-14",
   "dover:betriax:2cccfcf3-aee8-4002-b25d-d9de06c4bb40": "2026-11-14",
@@ -54458,6 +54704,7 @@
   "eightfold:appliedmaterials:790317634510": "2026-11-14",
   "eightfold:appliedmaterials:790319443699": "2026-11-14",
   "eightfold:autodesk:1443153771161": "2026-11-14",
+  "eightfold:autodesk:1443153804251": "2026-11-14",
   "eightfold:autodesk:1443154478110": "2026-11-14",
   "eightfold:citi:859038804776": "2026-11-14",
   "eightfold:eaton:687239497094": "2026-11-14",
@@ -57852,10 +58099,10 @@
  },
  "source_last": {
   "hn": "2026-11-14T21:51:02+00:00",
-  "remoteok": "2026-11-14T21:51:02+00:00",
+  "remoteok": "2026-11-14T23:49:44+00:00",
   "usajobs": "2026-11-14T21:51:02+00:00",
   "workable_search": "2026-11-14T21:51:02+00:00",
-  "wwr": "2026-11-14T22:50:09+00:00",
+  "wwr": "2026-11-14T23:49:44+00:00",
   "yc": "2026-11-14T21:51:02+00:00"
  },
  "title_rules": "72f554d20a7f",
