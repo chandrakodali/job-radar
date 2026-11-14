@@ -7419,6 +7419,7 @@
   "workday:generalmotors|wd5|Careers_GM:JR-202608944": "2026-11-12",
   "workday:generalmotors|wd5|Careers_GM:JR-202620074": "2026-11-13",
   "workday:moog|wd5|moog_external_career_site:R-26-19509": "2026-11-13",
+  "workday:rockwellautomation|wd1|External_Rockwell_Automation:R26-6526": "2026-11-14",
   "workday:rockwellautomation|wd1|External_Rockwell_Automation:R26-8618": "2026-11-12",
   "workday:woodward|wd5|woodward:JR112166": "2026-11-12"
  },
@@ -7432,10 +7433,10 @@
   "dayforce:jtekt|candidateportal": 50,
   "dayforce:kubota|candidateportal": 50,
   "dspace:www.dspace.com|en/inc/home/career/jobfinder/stellen.cfm": 61,
-  "eightfold:eaton|eaton.com": 408,
-  "eightfold:infineon|infineon.com": 365,
-  "eightfold:johndeere|johndeere.com": 177,
-  "eightfold:qualcomm|qualcomm.com": 342,
+  "eightfold:eaton|eaton.com": 333,
+  "eightfold:infineon|infineon.com": 302,
+  "eightfold:johndeere|johndeere.com": 171,
+  "eightfold:qualcomm|qualcomm.com": 336,
   "greenhouse:altentechnologyusa": 226,
   "greenhouse:archer56": 82,
   "greenhouse:botauto": 22,
@@ -7465,9 +7466,9 @@
   "jibe:careers.garmin.com": 448,
   "jibe:careers.international.com": 169,
   "jibe:careers.na.panasonic.com": 439,
-  "jibe:careers.rivian.com": 800,
+  "jibe:careers.rivian.com": 903,
   "jobvite:sews": 48,
-  "ldsite:careers.dauch.com/sitemap.xml|/job/.+/(\\d+)/?$": 375,
+  "ldsite:careers.dauch.com/sitemap.xml|/job/.+/(\\d+)/?$": 374,
   "lever:aeva": 46,
   "lever:apex-ai": 7,
   "lever:plus-2": 45,
@@ -7477,23 +7478,23 @@
   "lever:woven-by-toyota": 136,
   "lever:zoox": 241,
   "mcloud:2016|careers.stellantis.com": 454,
-  "oracle:edbz.fa.us2.oraclecloud.com|cx": 350,
-  "oracle:efds.fa.em5.oraclecloud.com|cx_1": 479,
+  "oracle:edbz.fa.us2.oraclecloud.com|cx": 347,
+  "oracle:efds.fa.em5.oraclecloud.com|cx_1": 483,
   "oracle:ehth.fa.em2.oraclecloud.com|cx_2001": 60,
-  "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|cx_1": 463,
-  "oracle:hcal.fa.us2.oraclecloud.com|cx_1001": 28,
-  "oracle:hctz.fa.us2.oraclecloud.com|cx_1001": 340,
-  "oracle:hcwt.fa.us2.oraclecloud.com|cx": 83,
+  "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|cx_1": 378,
+  "oracle:hcal.fa.us2.oraclecloud.com|cx_1001": 31,
+  "oracle:hctz.fa.us2.oraclecloud.com|cx_1001": 329,
+  "oracle:hcwt.fa.us2.oraclecloud.com|cx": 80,
   "phenom:careers.bose.com|us/en": 101,
-  "phenom:careers.brp.com|global/en": 279,
+  "phenom:careers.brp.com|global/en": 280,
   "phenom:careers.honda.com|us/en": 313,
-  "phenom:careers.quest-global.com|global/en": 710,
-  "phenom:careers.teksystems.com|us/en": 438,
+  "phenom:careers.quest-global.com|global/en": 704,
+  "phenom:careers.teksystems.com|us/en": 457,
   "sfrmk:careers-americas.hyundai.com": 258,
   "sfrmk:careers.agcocorp.com": 333,
-  "sfrmk:careers.capgemini.com": 5063,
+  "sfrmk:careers.capgemini.com": 5107,
   "sfrmk:careers.knorr-bremse.com": 389,
-  "sfrmk:careers.te.com": 2417,
+  "sfrmk:careers.te.com": 2421,
   "sfrmk:jobs.avl.com": 211,
   "sfrmk:jobs.bmwgroup.com": 754,
   "sfrmk:jobs.dana.com": 347,
@@ -7527,17 +7528,17 @@
   "workday:adient|wd3|external": 87,
   "workday:allegromicro|wd5|allegrocareers": 11,
   "workday:alliance|wd3|nissanjobs": 152,
-  "workday:allisontransmission|wd1|ati-external": 14,
+  "workday:allisontransmission|wd1|ati-external": 95,
   "workday:ambarella|wd108|ambarella": 46,
   "workday:analogdevices|wd1|external": 309,
-  "workday:aptiv|wd5|aptiv_careers": 5,
+  "workday:aptiv|wd5|aptiv_careers": 126,
   "workday:astemo|wd102|global_career_site": 365,
-  "workday:borgwarner|wd5|borgwarner_careers": 163,
-  "workday:brunswick|wd1|search": 327,
-  "workday:carrier|wd5|jobs": 401,
+  "workday:borgwarner|wd5|borgwarner_careers": 161,
+  "workday:brunswick|wd1|search": 326,
+  "workday:carrier|wd5|jobs": 405,
   "workday:cat|wd5|caterpillarcareers": 495,
-  "workday:dtna|wd5|dtna_external": 74,
-  "workday:geaerospace|wd5|ge_externalsite": 591,
+  "workday:dtna|wd5|dtna_external": 73,
+  "workday:geaerospace|wd5|ge_externalsite": 588,
   "workday:generalmotors|wd5|careers_gm": 575,
   "workday:gentex|wd5|gentex": 63,
   "workday:hitachi|wd1|hitachi": 701,
@@ -7545,21 +7546,21 @@
   "workday:marvell|wd1|marvellcareers": 173,
   "workday:methode|wd5|methode": 32,
   "workday:michelinhr|wd3|michelin": 110,
-  "workday:moog|wd5|moog_external_career_site": 479,
+  "workday:moog|wd5|moog_external_career_site": 480,
   "workday:nidec|wd1|nidec": 366,
   "workday:nvidia|wd5|nvidiaexternalcareersite": 1402,
   "workday:nxp||careers": 167,
-  "workday:oshkoshcorporation|wd5|oshkosh": 508,
+  "workday:oshkoshcorporation|wd5|oshkosh": 511,
   "workday:phinia|wd5|phinia_careers": 17,
-  "workday:polaris|wd5|polarisjobs": 90,
+  "workday:polaris|wd5|polarisjobs": 121,
   "workday:recar|wd108|slatecareers": 118,
   "workday:rockwellautomation|wd1|external_rockwell_automation": 152,
   "workday:sensata|wd1|sensata-careers": 39,
   "workday:stoneridge|wd5|careers": 5,
-  "workday:terex|wd1|terexcareers": 463,
+  "workday:terex|wd1|terexcareers": 462,
   "workday:toyota|wd503|tmna": 109,
   "workday:valeo|wd3|valeo_jobs": 91,
-  "workday:woodward|wd5|woodward": 86
+  "workday:woodward|wd5|woodward": 88
  },
  "fails": {
   "ashby:Airweave": {
@@ -7684,7 +7685,7 @@
   },
   "ashby:kinetic": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-14"
   },
   "ashby:klarity-ai": {
@@ -7881,17 +7882,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 17,
+   "n": 18,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 17,
+   "n": 18,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 17,
+   "n": 18,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -8404,11 +8405,6 @@
    "n": 3,
    "since": "2026-11-11"
   },
-  "icims:us-erac.icims.com": {
-   "err": "HTTP 520",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "icims:uscareers-pepsico.icims.com": {
    "disabled_until": "2026-11-19",
    "err": "robots.txt disallows /jobs/search",
@@ -8655,301 +8651,11 @@
    "n": 3,
    "since": "2026-11-11"
   },
-  "rippling:4ag": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:aalyria-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:aapd-jobs": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
   "rippling:acretrader-jobs": {
    "disabled_until": "2026-11-19",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-11"
-  },
-  "rippling:adelaide": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:advocate-technologies-inc": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:agilitypr": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:agora": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:amika-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:ampersand-biomedicines": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:ampliwork-inc": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:anaconda": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:analog-bits-inc": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:anthony-sylvan-pools": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:apexanalytix-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:argyle": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:ascentt": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:atlas-data-storage": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:bloomgrowth": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:blue-robotics": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:bonsairoboticsmain": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:boom-supersonic": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:briowt": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:bronco-ai": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:buxtoncocareers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:caddy": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:camlin-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:capacity": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:cardamom": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:cintal": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:citylogix": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:closinglock": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:cloud-synapps-inc": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:colheli": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:collieraerospace": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:community-phone-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:comp-ai": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:conceptplus": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:core-sound-imaging": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:cozey-internships": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:createmusicgroup": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:critical-response-group": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:cruiseplanners": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:d-wave-quantum": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:democratic-national-committee": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:denari": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:dext-capital-llc": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:dgrsystems": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:dialogue-en": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:dialogue-fr": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:dlb-associates": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:dlsengineering": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:door": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:door-controls-usa": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:duku-ai": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:dynamo-ai": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:edgehog-trading": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:ega-job-board": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:electrosonic-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
   },
   "rippling:elevationcapital": {
    "disabled_until": "2026-11-19",
@@ -8969,26 +8675,6 @@
    "n": 3,
    "since": "2026-11-11"
   },
-  "rippling:encore-auctions": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:energycap-external-career-page": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:enludio-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:eridu-ai": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
   "rippling:eternal": {
    "disabled_until": "2026-11-19",
    "err": "HTTP 404",
@@ -9001,66 +8687,11 @@
    "n": 3,
    "since": "2026-11-11"
   },
-  "rippling:expo": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:external-job-board": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:facereality": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:fieldpulse": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
   "rippling:firehydrant": {
    "disabled_until": "2026-11-19",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-11"
-  },
-  "rippling:flexai": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:fluidai-medical-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:foundation-robotics": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:fragile": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:free-market-health": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:functionofbeauty": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:gaiias-open-positions": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
   },
   "rippling:general": {
    "disabled_until": "2026-11-19",
@@ -9068,41 +8699,11 @@
    "n": 3,
    "since": "2026-11-11"
   },
-  "rippling:genlogs-corporation": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
   "rippling:gitar-careers": {
    "disabled_until": "2026-11-19",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-11"
-  },
-  "rippling:glass-roots-construction-llc": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:gofishdigital": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:golden": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:govly-inc": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:greengas": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
   },
   "rippling:groundcontrol": {
    "disabled_until": "2026-11-19",
@@ -9116,371 +8717,11 @@
    "n": 3,
    "since": "2026-11-11"
   },
-  "rippling:hearth-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:hunterstrategy": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:inflection-space": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:intelliguard": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:intersection": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:ip-house": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:jitsu": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:jobs-at-tuesday-health": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:joinroot": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:just-appraised-jobs": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:kielo": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:kraken-robotics-inc": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:labric": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:legitscript-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:les-olson-it": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:lightguide": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:linea-energy": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:lineleap": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:linenmaster": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:logicbroker-inc": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:longevity-holdings": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:loop-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:lynx-software-technologies": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:lyte": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:mei-employment": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:memryx": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:mile-marker": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:mindstate-design-labs": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:momentumcareers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:moon": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:msm": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:mytra": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:naxo": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:neosigma": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:nerdio-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:nesto": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:nestocloud": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:netwrix-corporation": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:north-cloud": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:noviam": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:nucleus-biologics-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:nws": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:octasic-inc": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:omnis-corporation": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:onware": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:opiniion": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:orderco": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:overland-ai": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:oxbridge-health": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:ozmocareers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:pathos": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:patientnow": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:pcmi": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:peakhealth-ai": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:pendulum-intelligence-jobs": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:petfolk": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:plmrcareers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:popstroke-job-board-1924": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:positron": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
   "rippling:praos-smart-security": {
    "disabled_until": "2026-11-19",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-11"
-  },
-  "rippling:proper-voltage": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:prowler": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:purefacts_jobs": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:raptor-maps-inc": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:redesigncareers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:rev-robotics": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:reverb-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:riot-platforms-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:rippling": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:routeware-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:rudderstack-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:rugsusa": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:scentbird": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
   },
   "rippling:sennos": {
    "disabled_until": "2026-11-19",
@@ -9488,151 +8729,11 @@
    "n": 3,
    "since": "2026-11-11"
   },
-  "rippling:shadowdragon": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:sightmachine": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:singularity-defense": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:skytrac": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:sperry-rail-inc": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:spreeai": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:stag-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:studyfetch": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:supernova-technology": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:supper": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:swoopishiring": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:t1d-exchange-career-center": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:talent-101-inc": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:tavernresearch": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
   "rippling:tempo": {
    "disabled_until": "2026-11-19",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-11"
-  },
-  "rippling:theguarantors-open-positions": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:tive-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:topdoglaw": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:torus": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:truepointcareers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:uhin-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:usare": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:veryable-careers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:vortex-companies-llc": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:wdscareers": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:whc": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:xwp": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:zededa": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "rippling:zuckerman-investment-group": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-14"
   },
   "sfrmk:careers.qualitestgroup.com": {
    "disabled_until": "2026-11-19",
@@ -9717,11 +8818,6 @@
    "n": 3,
    "since": "2026-11-11"
   },
-  "workday:@avnet|wd1|External": {
-   "err": "invalid JSON",
-   "n": 1,
-   "since": "2026-11-14"
-  },
   "workday:@chewy|wd5|External": {
    "err": "invalid JSON",
    "n": 1,
@@ -9732,32 +8828,7 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:@mazdausa|wd5|Mazda": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:@microchiphr|wd5|External": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:@oatey|wd5|Oatey_External_": {
-   "err": "invalid JSON",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:@rlicorp|wd1|RLI_Corp_Careers": {
-   "err": "invalid JSON",
-   "n": 1,
-   "since": "2026-11-14"
-  },
   "workday:@sysco|wd5|syscocareers": {
-   "err": "invalid JSON",
-   "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:@upenn|wd1|Wharton": {
    "err": "invalid JSON",
    "n": 1,
    "since": "2026-11-14"
@@ -9774,7 +8845,7 @@
   },
   "workday:@wf|wd1|WellsFargoJobs": {
    "err": "invalid JSON",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-14"
   },
   "workday:aaaie|wd1|csaacareers": {
@@ -9788,11 +8859,6 @@
    "n": 3,
    "since": "2026-11-12"
   },
-  "workday:abbott|wd5|abbottcareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:abbott|wd5|abbottcareers2": {
    "err": "invalid JSON",
    "n": 2,
@@ -9804,16 +8870,6 @@
    "since": "2026-11-14"
   },
   "workday:abcsupply|wd1|abcsupplycareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:abglobal|wd1|abcampuscareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:academy|wd1|careers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -9848,16 +8904,6 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:adobe|wd5|external_experienced": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:advanceauto|wd5|advanceexternalcareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:advisorgroup|wd1|advisor_career_site": {
    "err": "HTTP 521",
    "n": 1,
@@ -9871,16 +8917,6 @@
   "workday:aero|wd5|external": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:aes|wd1|AES_US": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:aes|wd1|aes_clean_energy": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:agilent|wd5|Agilent_Student_Careers": {
@@ -9913,21 +8949,6 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:albanymed|wd5|albany_med": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:albemarle|wd5|ketjenexternal": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:alcoa|wd5|Careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:alcon|wd5|careers_alcon": {
    "err": "HTTP 521",
    "n": 1,
@@ -9943,24 +8964,9 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:allegromicro|wd5|AllegroCareers": {
-   "err": "invalid JSON",
-   "n": 5,
-   "since": "2026-11-14"
-  },
-  "workday:alliancedata|wd5|breadfinancial_us": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:allisontransmission|wd1|ATI-External": {
-   "err": "invalid JSON",
-   "n": 4,
-   "since": "2026-11-14"
-  },
   "workday:allstate|wd5|sourcing_event": {
    "err": "invalid JSON",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:alston|wd1|ExternalCareer": {
@@ -9988,11 +8994,6 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:amerch|wd1|amerchcareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:ameren|wd1|External": {
    "err": "invalid JSON",
    "n": 2,
@@ -10002,11 +9003,6 @@
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:americanfidelity|wd5|External": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:american|wd1|au": {
    "err": "HTTP 521",
@@ -10030,7 +9026,7 @@
   },
   "workday:amgen|wd1|careers": {
    "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:amplify|wd1|Amplify_Careers": {
@@ -10039,36 +9035,6 @@
    "since": "2026-11-12"
   },
   "workday:amynta|wd5|global": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:analogdevices|wd1|External": {
-   "err": "invalid JSON",
-   "n": 5,
-   "since": "2026-11-14"
-  },
-  "workday:aoins|wd5|AutoOwners": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:apacheip|wd1|apache_careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:applebank|wd5|applebankcareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:aptiv|wd5|aptiv_careers": {
-   "err": "invalid JSON",
-   "n": 5,
-   "since": "2026-11-14"
-  },
-  "workday:aramsco|wd1|aramscocareers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -10083,11 +9049,6 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:archwellessentials|wd1|modercareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:aresmgmt|wd1|External": {
    "err": "invalid JSON",
    "n": 2,
@@ -10098,22 +9059,7 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:arkbluecross|wd1|abcbs_external_careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:arrowstreetcapital|wd5|Campus_Careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:arrow|wd1|ac": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:ascensushr|wd1|ascensuscareers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -10125,7 +9071,7 @@
   },
   "workday:aspendental|wd1|careers_aspen_dental": {
    "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:aspentech|wd5|aspentech": {
@@ -10188,29 +9134,14 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:att|wd1|attcollege": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:auroragov|wd1|careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:austalusa|wd1|austal": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:austincc|wd1|external": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
   },
   "workday:autodesk|wd1|Ext": {
    "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:autonation|wd5|Careers": {
@@ -10218,19 +9149,9 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:availity|wd1|availity_careers_us": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:aviva|wd1|External": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:avnet|wd1|external": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:axalta|wd1|axalta": {
@@ -10248,22 +9169,12 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:axiscapital|wd1|axiscareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:axos|wd5|Axos": {
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
   },
   "workday:bah|wd1|bah_jobs": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:baincapital|wd1|External_Public": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -10303,11 +9214,6 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:bankeasy|wd5|bank-easy-job-openings": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:barnard|wd1|Staff": {
    "err": "HTTP 521",
    "n": 1,
@@ -10324,11 +9230,6 @@
    "since": "2026-11-14"
   },
   "workday:basspro|wd1|careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:bbinsurance|wd1|careers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -10358,19 +9259,9 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:bcbst|wd1|External": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:bdx|wd1|EXTERNAL_CAREER_SITE_USA": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:bdx|wd1|US_EARLY_TALENT_SITE": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:becu|wd1|External": {
@@ -10381,11 +9272,6 @@
   "workday:beigene|wd5|beigene": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:benefis|wd1|bhs": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:betmgminc|wd5|BetMGM": {
@@ -10406,11 +9292,6 @@
   "workday:biotechne|wd5|Biotechne": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:bjswholesaleclub|wd1|BJsCareers": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:blackrock|wd1|BlackRock_Early_Careers_Program": {
@@ -10450,22 +9331,12 @@
   },
   "workday:boeing|wd1|external_subsidiary": {
    "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:bonterra|wd1|bonterratech": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:borgwarner|wd5|BorgWarner_Careers": {
-   "err": "invalid JSON",
-   "n": 6,
-   "since": "2026-11-13"
-  },
-  "workday:bostondynamics|wd1|Boston_Dynamics": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:boydgroup|wd1|boydcareers": {
@@ -10477,11 +9348,6 @@
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:braunintertec|wd5|brauninterteccareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:brinks|wd5|brinkscareersus": {
    "err": "invalid JSON",
@@ -10503,11 +9369,6 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:brookfield|wd5|bpandc": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:brookfield|wd5|brookfield": {
    "err": "HTTP 521",
    "n": 1,
@@ -10517,16 +9378,6 @@
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:brunswick|wd1|search": {
-   "err": "invalid JSON",
-   "n": 5,
-   "since": "2026-11-14"
-  },
-  "workday:burlington|wd5|BurlingtonCareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:bydeluxe|wd5|Deluxe_External": {
    "err": "invalid JSON",
@@ -10558,11 +9409,6 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:cadence|wd1|Univ_Careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:cadence|wd1|University_CST": {
    "err": "HTTP 521",
    "n": 1,
@@ -10577,11 +9423,6 @@
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:cai|wd5|computer_aid": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:calibercollision|wd1|protech": {
    "err": "invalid JSON",
@@ -10598,32 +9439,12 @@
    "n": 3,
    "since": "2026-11-12"
   },
-  "workday:cambiumlearning|wd1|camb": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:cambria|wd1|cambria_careers": {
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:cambridgeassociates|wd5|Cambridge_Associates": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:campaignmonitor|wd5|marigold": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:capgroup|wd1|capitalgroupcareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:capitalhealth|wd1|CapitalHealthCareers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -10633,54 +9454,24 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:cardinalhealth|wd1|EXT": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:carmax|wd1|External": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:carrier|wd5|jobs": {
-   "err": "invalid JSON",
-   "n": 6,
-   "since": "2026-11-13"
-  },
-  "workday:carters|wd1|CartersCareers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
   },
   "workday:cat|wd5|caterpillarcareers": {
    "err": "invalid JSON",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-13"
   },
   "workday:cat|wd5|solarturbines": {
    "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:cboe|wd1|External_Career_CBOE": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:cbrands|wd5|CBI_External_Careers": {
-   "err": "invalid JSON",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cccis|wd1|broadbean_external": {
    "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:ccf|wd1|ClevelandClinicCareers": {
-   "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:cdw|wd5|careers": {
@@ -10702,11 +9493,6 @@
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:centerstone|wd5|centerstonecareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:centific|wd1|Centific_Global": {
    "err": "HTTP 521",
@@ -10736,33 +9522,13 @@
   },
   "workday:chipotle|wd5|ChipotleCareers": {
    "err": "invalid JSON",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
-  },
-  "workday:choicehotels|wd5|External": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:chordenergy|wd1|external": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
   },
   "workday:chrobinson|wd5|CHRobinson": {
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:ciena|wd5|Careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:cigna|wd5|cignacareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:cincinnatichildrens|wd5|careersatcincinnatichildrens": {
    "err": "HTTP 521",
@@ -10819,16 +9585,6 @@
    "n": 3,
    "since": "2026-11-12"
   },
-  "workday:clorox|wd1|InviteClorox": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:cloudera|wd5|External_Career": {
-   "err": "invalid JSON",
-   "n": 6,
-   "since": "2026-11-13"
-  },
   "workday:clr|wd5|CLR_Careers": {
    "err": "HTTP 521",
    "n": 1,
@@ -10854,11 +9610,6 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:collectorsuniverse|wd1|collectors": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:columbiasportswearcompany|wd5|CSC_Careers": {
    "err": "HTTP 521",
    "n": 1,
@@ -10874,24 +9625,9 @@
    "n": 2,
    "since": "2026-11-12"
   },
-  "workday:communitybrands|wd1|Momentive_External_Careers": {
-   "err": "invalid JSON",
-   "n": 5,
-   "since": "2026-11-14"
-  },
-  "workday:compassion|wd5|compassioncareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:comscore|wd5|External": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:conagrabrands|wd1|Careers_US": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:condenast|wd5|CondeCareers": {
@@ -10900,24 +9636,9 @@
    "n": 3,
    "since": "2026-11-12"
   },
-  "workday:connect|wd1|ztsystemscareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:conocophillips|wd1|External": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:cooperstandard|wd1|CooperStandard": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:coorstek|wd1|CoorsTekCareers": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:copeland|wd5|copeland_external_careers_page": {
@@ -10945,11 +9666,6 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:costar|wd1|CoStarCareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:countryfinancial|wd5|COUNTRYCorporateExternal": {
    "err": "invalid JSON",
    "n": 2,
@@ -10969,11 +9685,6 @@
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:cranecompany|wd5|Careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:creationtech|wd1|Creation": {
    "err": "HTTP 521",
@@ -11018,12 +9729,7 @@
   },
   "workday:cw|wd1|external": {
    "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:daikinapplied|wd1|Daikin-Careers": {
-   "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:dallascollege|wd1|Dallas_College_Careers": {
@@ -11041,20 +9747,10 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:davidyurman|wd1|DavidYurmanCareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:davita|wd1|DKC_External": {
    "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:dealertire|wd5|4710": {
-   "err": "invalid JSON",
    "n": 3,
-   "since": "2026-11-13"
+   "since": "2026-11-14"
   },
   "workday:dealertire|wd5|DealerTireLLC-Careers": {
    "err": "invalid JSON",
@@ -11071,25 +9767,10 @@
    "n": 2,
    "since": "2026-11-12"
   },
-  "workday:deluxe|wd5|USA_CAN": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:denverhealth|wd1|DHHA-Main": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:denver|wd1|CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs": {
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:dfwairport|wd5|External": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:dickssportinggoods|wd1|DSG": {
    "err": "HTTP 521",
@@ -11110,11 +9791,6 @@
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:disney|wd5|disneycareerdc": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:dmainc|wd5|dma": {
    "err": "HTTP 521",
@@ -11151,35 +9827,15 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:dtna|wd5|dtna_external": {
-   "err": "invalid JSON",
-   "n": 6,
-   "since": "2026-11-13"
-  },
   "workday:duboischemicals|wd1|external": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:dutchbros|wd1|DBShops": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:earlywarning|wd5|earlywarningcareers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:ebi|wd5|ebadcareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:ebi|wd5|ebicareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:echo|wd1|Echo_Logistics": {
    "err": "HTTP 521",
@@ -11190,11 +9846,6 @@
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:edwards|wd5|edwardscareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:elanco|wd5|External_Career": {
    "err": "HTTP 521",
@@ -11236,21 +9887,6 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:envista|wd1|envistacareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:eosenergystorage|wd1|eos": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:epicorsoftware|wd5|epicorjobs": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:equifax|wd5|external": {
    "err": "HTTP 521",
    "n": 1,
@@ -11270,16 +9906,6 @@
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:essex|wd5|essexcareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:etsy|wd5|Depop_Careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:etsy|wd5|Etsy_Careers": {
    "err": "HTTP 521",
@@ -11311,22 +9937,7 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:exelixis|wd1|exel": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:extraspace|wd5|ESS_External": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:faithtechnologies|wd1|fti": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:fanniemae|wd1|FannieMaeCareers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -11341,40 +9952,15 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:ferguson|wd1|Ferguson_Experienced": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:fermilab|wd5|FermilabCareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:ffin|wd1|First_Financial_Bank": {
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:ffive|wd5|f5jobs": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:fgcu|wd5|eaglejobs": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:fhlbi|wd1|FHLBI_Careers": {
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:fifththird|wd5|53careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:firstam|wd1|firstamericancareers": {
    "err": "invalid JSON",
@@ -11408,7 +9994,7 @@
   },
   "workday:fmr|wd1|targeted": {
    "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:formfactor|wd1|FFI-Careers": {
@@ -11426,11 +10012,6 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:fox|wd1|Domestic": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:fragomen|wd1|FragomenCareers": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 422",
@@ -11442,25 +10023,10 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:franklintempleton|wd5|invitation-only": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:freddiemac|wd5|External": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:freese|wd1|Freese_Nichols_External": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:frostbank|wd5|External": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:gafsgi|wd5|GAF_Careers": {
    "err": "invalid JSON",
@@ -11482,20 +10048,10 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:geaerospace|wd5|GE_ExternalSite": {
-   "err": "invalid JSON",
-   "n": 6,
-   "since": "2026-11-13"
-  },
   "workday:geha|wd5|GEHACareers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:gehc|wd5|GEHC_ExternalSite": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:geico|wd1|External": {
    "err": "HTTP 521",
@@ -11504,12 +10060,12 @@
   },
   "workday:geisinger|wd5|geisingerexternal": {
    "err": "invalid JSON",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:generalmotors|wd5|Careers_GM": {
    "err": "invalid JSON",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-13"
   },
   "workday:genpt|wd1|Careers": {
@@ -11518,24 +10074,14 @@
    "since": "2026-11-14"
   },
   "workday:gensler|wd1|genslercareers": {
-   "err": "invalid JSON",
-   "n": 6,
+   "err": "HTTP 401",
+   "n": 7,
    "since": "2026-11-12"
-  },
-  "workday:gentex|wd5|Gentex": {
-   "err": "invalid JSON",
-   "n": 6,
-   "since": "2026-11-13"
   },
   "workday:gen|wd1|careers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:gevernova|wd5|vernova_externalsite": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:gfs|wd5|usjobs-gen-gfs": {
    "err": "HTTP 521",
@@ -11547,29 +10093,9 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:ghr|wd1|us-emplsv": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:gia|wd1|GIA": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:gilead|wd1|gileadcareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:gilead|wd1|kitepharmacareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:gi|wd1|Global_Infrastructure": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:globalfoundries|wd1|External": {
@@ -11586,16 +10112,6 @@
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:godirect|wd5|voya_jobs": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:goodwinprocter|wd5|External_Careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:goto|wd5|GoToCareers": {
    "err": "invalid JSON",
@@ -11628,35 +10144,10 @@
    "n": 3,
    "since": "2026-11-11"
   },
-  "workday:gtweed|wd1|Careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:guardianlife|wd5|guardian-life-careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:guidehouse|wd1|external": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:guidestone|wd1|guidestone": {
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:hbfuller|wd1|Careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:hcad|wd5|HCADCareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:hcpss|wd1|hcpss": {
    "err": "HTTP 521",
@@ -11668,20 +10159,10 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:hendrick|wd5|HMSCareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:henryschein|wd1|External_Careers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:hilbgroup|wd5|HG-Careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:hindscc|wd1|HCCExternalCareersSite": {
    "err": "invalid JSON",
@@ -11690,17 +10171,7 @@
   },
   "workday:hitachi|wd1|hitachi": {
    "err": "invalid JSON",
-   "n": 5,
-   "since": "2026-11-14"
-  },
-  "workday:hl|wd1|Campus": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:hntb|wd5|hntb_university_careers": {
-   "err": "invalid JSON",
-   "n": 2,
+   "n": 6,
    "since": "2026-11-14"
   },
   "workday:homedepot|wd5|CareerDepotCanada": {
@@ -11720,12 +10191,12 @@
   },
   "workday:hpe|wd5|acjobsite": {
    "err": "invalid JSON",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:hpe|wd5|jobsathpe": {
    "err": "invalid JSON",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:hp|wd5|externalcareersite": {
@@ -11748,22 +10219,12 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:huron|wd1|huroncareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:hysteryale|wd1|hyster-yalecareers": {
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
   },
   "workday:hyvee|wd1|HyVeeCareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:iatinsurancegroup|wd1|iat": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -11782,11 +10243,6 @@
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:iheartmedia|wd5|External_iHM": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:ijm|wd5|careers-ijm": {
    "err": "HTTP 521",
@@ -11808,36 +10264,16 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:insitu|wd1|careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:insmed|wd5|EXTERNAL": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 422",
    "n": 3,
    "since": "2026-11-11"
   },
-  "workday:insulet|wd5|insuletcareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:integer|wd1|External": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:integralife|wd1|careers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:interdigital|wd5|InterDigital_Career": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:interdigital|wd5|InterDigital_Intern": {
    "err": "invalid JSON",
@@ -11879,11 +10315,6 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:itron|wd5|Early_Careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:ivytech|wd1|ivy_tech_careers": {
    "err": "invalid JSON",
    "n": 2,
@@ -11904,17 +10335,7 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:jadeglobal|wd5|jade_careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:jainglobal|wd5|ExternalSite": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:jcrew|wd1|FriendsFamilyCareers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -11934,42 +10355,12 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:jdgroupnam|wd1|JDFL_Corporate_Careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:jeffersonhealth|wd5|ThomasJeffersonExternal": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:jefferson|wd5|external": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:jll|wd1|jllcareers": {
    "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:johngore|wd1|Careers": {
-   "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:jpi|wd1|jpicareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:kansashealthsystem|wd1|careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:kauai|wd1|Kauai_External_Career_Site": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -11993,11 +10384,6 @@
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:keybank|wd5|External_Career_Site": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:kith|wd1|kith_external_careers": {
    "err": "HTTP 521",
@@ -12024,11 +10410,6 @@
    "err": "HTTP 422",
    "n": 3,
    "since": "2026-11-11"
-  },
-  "workday:kokosing|wd5|Kokosing_External_Career_Site": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:kslaw|wd1|careers": {
    "err": "invalid JSON",
@@ -12065,16 +10446,6 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:lennar|wd1|Lennar_Jobs": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:levistraussandco|wd5|external": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:lifefitness|wd1|searchLFN": {
    "err": "HTTP 521",
    "n": 1,
@@ -12096,21 +10467,11 @@
    "n": 3,
    "since": "2026-11-11"
   },
-  "workday:linklogistics|wd5|Link": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:lithia|wd5|LithiaCareers": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 422",
    "n": 3,
    "since": "2026-11-11"
-  },
-  "workday:littelfuse|wd1|Littelfuse-Careers": {
-   "err": "invalid JSON",
-   "n": 5,
-   "since": "2026-11-14"
   },
   "workday:liveoakbancshares|wd1|Live_Oak": {
    "err": "invalid JSON",
@@ -12124,11 +10485,6 @@
    "since": "2026-11-12"
   },
   "workday:livingspaces|wd5|ls": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:lmcu|wd5|lmcucareersite": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -12163,11 +10519,6 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:lumentum|wd5|LITE": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:luriechildrens|wd1|externalportal": {
    "err": "HTTP 521",
    "n": 1,
@@ -12178,14 +10529,9 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:macfound|wd1|MAC_FOUND_EXT_CAREERS": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:magellanhealth|wd5|magellan_health_careers": {
-   "err": "invalid JSON",
-   "n": 3,
+   "err": "HTTP 401",
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:maricopa|wd1|jb_external": {
@@ -12214,34 +10560,9 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:marvell|wd1|MarvellCareers": {
-   "err": "invalid JSON",
-   "n": 5,
-   "since": "2026-11-14"
-  },
-  "workday:marvell|wd1|MarvellCareers2": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:masco|wd1|Masco": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:masco|wd1|deltafaucet": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:massgeneralbrigham|wd1|mgbexternal": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:massmutual|wd1|MMAscendCareers": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:massmutual|wd1|MMCareers": {
@@ -12304,11 +10625,6 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:methode|wd5|methode": {
-   "err": "invalid JSON",
-   "n": 6,
-   "since": "2026-11-13"
-  },
   "workday:mfs|wd1|MFS-Careers": {
    "err": "HTTP 521",
    "n": 1,
@@ -12316,33 +10632,13 @@
   },
   "workday:mgmresorts|wd5|MGMCareers": {
    "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:mhs|wd1|careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:miamioh|wd5|miamioh-staff": {
-   "err": "invalid JSON",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:micron|wd1|External": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:midlandsb|wd1|msbcareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:mii|wd5|MiTek": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:milestone|wd1|Milestone_External": {
    "err": "HTTP 521",
@@ -12352,16 +10648,6 @@
   "workday:millerknoll|wd1|MillerKnoll": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:mizuho|wd1|mizuhoamericas": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:mjhlifesciences|wd1|Careers": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:mksinst|wd1|MKSCareersUniversity": {
@@ -12384,30 +10670,10 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:modsquad|wd5|ModSquad_Contractor": {
-   "err": "invalid JSON",
-   "n": 6,
-   "since": "2026-11-13"
-  },
-  "workday:montage|wd1|Montage_International": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:montrose|wd1|meg": {
    "err": "HTTP 422",
    "n": 2,
    "since": "2026-11-12"
-  },
-  "workday:moog|wd5|moog_external_career_site": {
-   "err": "invalid JSON",
-   "n": 5,
-   "since": "2026-11-14"
-  },
-  "workday:morningstar|wd5|Americas": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
   },
   "workday:morningstar|wd5|MorningstarDBRS": {
    "err": "invalid JSON",
@@ -12417,11 +10683,6 @@
   "workday:motorolasolutions|wd5|Careers": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:mpc|wd1|MPCCareers": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:msiexpress|wd5|MSI_Express_External_Careers": {
@@ -12444,27 +10705,12 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:mtb|wd5|wtexternal": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:multco|wd1|multco_jobs": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:mydpr|wd5|11212017": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
   },
   "workday:myhrabc|wd5|Global": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:myhrhome|wd1|OneMainCareers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -12491,12 +10737,7 @@
   },
   "workday:nationwide|wd1|Nationwide_Career": {
    "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:nb|wd1|NBCareers": {
-   "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:ncino|wd5|nCinoCareers": {
@@ -12515,17 +10756,7 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:ncr|wd1|ext_non_us": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:ncr|wd1|ext_us": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:ncsecu|wd1|secu": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -12540,27 +10771,7 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:neogen|wd5|neogencareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:newbalance|wd1|careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:newperkinelmer|wd1|External": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:newrez|wd1|NRZ": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:newschool|wd1|external": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -12574,21 +10785,6 @@
    "err": "HTTP 521",
    "n": 3,
    "since": "2026-11-12"
-  },
-  "workday:niagarawater|wd5|niagara": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:nidec|wd1|nidec": {
-   "err": "invalid JSON",
-   "n": 5,
-   "since": "2026-11-14"
-  },
-  "workday:nike|wd1|nke": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
   },
   "workday:nio|wd3|NIO_Careers": {
    "disabled_until": "2026-11-21",
@@ -12616,22 +10812,12 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:nrel|wd5|NLR": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:nshe|wd1|UNR-external": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
   },
   "workday:nshe|wd1|unlv-external": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:ntrs|wd1|northerntrust": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -12648,7 +10834,7 @@
   },
   "workday:nvidia|wd5|NVIDIAExternalCareerSite": {
    "err": "invalid JSON",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-13"
   },
   "workday:nxp|wd3|careers": {
@@ -12692,25 +10878,10 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:oregon|wd5|sor_external_career_site": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:oreillyauto|wd1|oreilly": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:orionadvisor|wd1|Orion_Careers": {
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:oshkoshcorporation|wd5|Oshkosh": {
-   "err": "invalid JSON",
-   "n": 6,
-   "since": "2026-11-13"
   },
   "workday:osu|wd1|OSUCareers": {
    "err": "invalid JSON",
@@ -12761,17 +10932,7 @@
    "n": 3,
    "since": "2026-11-12"
   },
-  "workday:oumedicine|wd5|OUHealthCareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:ouryahoo|wd5|careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:overlakemedicalcenter|wd5|overlake_external_career_site": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -12796,17 +10957,7 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:pae|wd1|amentum_careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:paloaltonetworks|wd5|panwexternalcareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:papajohns|wd1|papajohnscareers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -12830,31 +10981,6 @@
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:pewtrusts|wd5|CenterExternal": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:pfizer|wd1|PfizerCareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:phinia|wd5|PHINIA_Careers": {
-   "err": "invalid JSON",
-   "n": 6,
-   "since": "2026-11-13"
-  },
-  "workday:pillsburylaw|wd5|External": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:pimacounty|wd5|pimacareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:pimco|wd1|pimco-careers": {
    "err": "HTTP 521",
@@ -12891,16 +11017,6 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:point32health|wd5|THP": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:polaris|wd5|PolarisJobs": {
-   "err": "invalid JSON",
-   "n": 5,
-   "since": "2026-11-14"
-  },
   "workday:powerdesigninc|wd5|PDI": {
    "err": "HTTP 521",
    "n": 1,
@@ -12914,11 +11030,6 @@
   "workday:pra|wd1|PRA_Careers": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:premierinc|wd1|external_professional": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:pretiumenterpriseservices|wd1|Selene": {
@@ -12936,25 +11047,10 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:primetherapeutics|wd1|PrimeTherapeuticsCareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:primient|wd1|External_Careers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:printpack|wd1|printpackcareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:proofpoint|wd5|proofpointcareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:psu|wd1|PSU_Academic": {
    "err": "HTTP 521",
@@ -12976,20 +11072,10 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:q2ebanking|wd5|Q2": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:qtsdatacenters|wd5|qts": {
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:quickenloans|wd5|rocket_careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:r1rcm|wd1|R1RCM": {
    "err": "HTTP 521",
@@ -12999,26 +11085,6 @@
   "workday:racetrac|wd5|ssc": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:rackspace|wd1|External": {
-   "err": "invalid JSON",
-   "n": 5,
-   "since": "2026-11-14"
-  },
-  "workday:rakuten|wd1|Kobo": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:rakuten|wd1|RakutenAmericas": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:rakuten|wd1|RakutenTravelXchange": {
-   "err": "invalid JSON",
-   "n": 5,
    "since": "2026-11-14"
   },
   "workday:rangersmlb|wd5|Rangers": {
@@ -13031,11 +11097,6 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-11"
-  },
-  "workday:raymondjames|wd1|RaymondJamesCareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
   },
   "workday:raymondjames|wd1|RaymondJamesEarlyCareers": {
    "err": "HTTP 521",
@@ -13058,11 +11119,6 @@
    "n": 2,
    "since": "2026-11-12"
   },
-  "workday:redhat|wd5|jobs": {
-   "err": "invalid JSON",
-   "n": 6,
-   "since": "2026-11-13"
-  },
   "workday:regalrexnord|wd1|careers": {
    "err": "HTTP 521",
    "n": 1,
@@ -13081,11 +11137,6 @@
   "workday:reliaquest|wd5|ReliaQuest_Careers": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:resolvetech|wd1|rts": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:restauranttechnologies|wd5|RT": {
@@ -13118,21 +11169,6 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:rochester|wd5|UR_Staff": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:rockwellautomation|wd1|External-Rockwell-Automation-Early-Careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:rockwellautomation|wd1|External_Rockwell_Automation": {
-   "err": "invalid JSON",
-   "n": 5,
-   "since": "2026-11-14"
-  },
   "workday:rogersbh|wd1|rbhcareer": {
    "err": "HTTP 521",
    "n": 1,
@@ -13148,29 +11184,20 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:rsm|wd1|RSMCareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:ryancompanies|wd5|ryancompanies": {
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:ryan|wd1|RyanCareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:ryan|wd1|Students-Graduates": {
-   "err": "invalid JSON",
-   "n": 2,
+   "disabled_until": "2026-11-21",
+   "err": "HTTP 404",
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:ryder|wd5|RyderCareers": {
    "err": "invalid JSON",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:saabusa|wd1|saab_careers": {
@@ -13181,11 +11208,6 @@
   "workday:sailpoint|wd1|SailPoint": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:saintlukes|wd1|saintlukeshealthcareers": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:salesforce|wd1|External_Career_Site": {
@@ -13215,16 +11237,6 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:sbasite|wd5|SBA_Communications_Careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:sbdinc|wd1|Stanley_Black_Decker_Career_Site": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:sci|wd5|sci": {
    "err": "HTTP 521",
    "n": 1,
@@ -13243,11 +11255,6 @@
   "workday:semtech|wd1|SemtechCareers": {
    "err": "invalid JSON",
    "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:sensata|wd1|Sensata-Careers": {
-   "err": "invalid JSON",
-   "n": 5,
    "since": "2026-11-14"
   },
   "workday:sentara|wd1|SCS": {
@@ -13270,24 +11277,9 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:shakeshack|wd5|External": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:sierraspace|wd1|Sierra_Space_External_Career_Site": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:sifive|wd1|sifivecareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:signetjewelers|wd1|SignetCorporateCareers": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:signetjewelers|wd1|bluenile": {
@@ -13305,32 +11297,12 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:simmonsbank|wd5|SimmonsCareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:simonsfoundation|wd1|simonsfoundationcareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:situsamc|wd1|SitusAMC": {
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
   },
   "workday:skechers|wd5|One-career-site": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:slu|wd5|Careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:smithfieldfoods|wd1|Careers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -13355,16 +11327,6 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:sonoco|wd1|CorporateCareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:sonyglobal|wd1|SonyGlobalCareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:sonyglobal|wd1|Sony_Europe_Careers": {
    "err": "HTTP 521",
    "n": 1,
@@ -13382,13 +11344,8 @@
   },
   "workday:spectrumhealth|wd5|CorewellHealthCareers": {
    "err": "invalid JSON",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
-  },
-  "workday:spellmanhv|wd1|SpellmanHVCareers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
   },
   "workday:spe|wd1|SonyPicturesEntertainment": {
    "err": "HTTP 521",
@@ -13404,11 +11361,6 @@
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:spgi|wd5|aM_Careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:sprinklr|wd1|careers": {
    "err": "HTTP 521",
@@ -13430,11 +11382,6 @@
    "n": 2,
    "since": "2026-11-12"
   },
-  "workday:statestreet|wd1|Global": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:statestreet|wd1|equest": {
    "err": "invalid JSON",
    "n": 2,
@@ -13455,20 +11402,10 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:stewart|wd1|External": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:stjude|wd1|stjude": {
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:stoneridge|wd5|Careers": {
-   "err": "invalid JSON",
-   "n": 6,
-   "since": "2026-11-13"
   },
   "workday:strayer|wd1|SEI": {
    "err": "invalid JSON",
@@ -13483,11 +11420,6 @@
   "workday:strongtie|wd1|External": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:stryker|wd1|StrykerCareers": {
-   "err": "invalid JSON",
-   "n": 2,
    "since": "2026-11-14"
   },
   "workday:sumitomopharma|wd5|smpa": {
@@ -13546,32 +11478,7 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:tamus|wd1|TAMIU_Student_Employment": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:tamus|wd1|TAMUCC_External": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:tamus|wd1|TAMU_External": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:tamus|wd1|TARLETON_External": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:tamus|wd1|TTI_External": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:tamus|wd1|pvamu_external": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -13596,11 +11503,6 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:tcbrands|wd1|callaway-careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:tdwilliamson|wd1|TDWCareers": {
    "err": "invalid JSON",
    "n": 2,
@@ -13611,30 +11513,15 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:tencent|wd1|OA_Huoshui_Platform": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:tencent|wd1|Tencent_Careers": {
    "err": "HTTP 521",
    "n": 1,
-   "since": "2026-11-14"
-  },
-  "workday:terex|wd1|terexcareers": {
-   "err": "invalid JSON",
-   "n": 5,
    "since": "2026-11-14"
   },
   "workday:theclaremontcolleges|wd1|CMC_Staff": {
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:thecsp|wd5|CSP": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:thehartford|wd5|Careers_External": {
    "err": "HTTP 521",
@@ -13650,16 +11537,6 @@
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:therapybrands|wd1|EnsoraHealth": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:thermofisher|wd5|ThermoFisherCareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:thinkbrg|wd5|BRG_External_Career_Site": {
    "err": "invalid JSON",
@@ -13703,7 +11580,7 @@
   },
   "workday:tmobile|wd1|contractorconversion": {
    "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:topcon|wd1|TopconPositioningCareers": {
@@ -13737,11 +11614,6 @@
    "since": "2026-11-14"
   },
   "workday:travelers|wd5|External": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:treehouse|wd1|TreeHouseCareers": {
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
@@ -13781,16 +11653,6 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:ttc|wd1|Toro_External_Careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:tti|wd1|Milwaukee": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:tti|wd1|tti_pe": {
    "err": "HTTP 521",
    "n": 1,
@@ -13805,11 +11667,6 @@
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:tysonfoods|wd5|TSN": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:uasys|wd5|uasys": {
    "err": "HTTP 521",
@@ -13898,7 +11755,7 @@
   },
   "workday:usaa|wd1|USAAJOBSWD": {
    "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:usacs|wd1|usacscareers": {
@@ -13944,12 +11801,7 @@
   },
   "workday:utaustin|wd1|utstudent": {
    "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:uva|wd1|uvastudentjobs": {
-   "err": "invalid JSON",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:valmont|wd1|ValmontCareers": {
@@ -13977,11 +11829,6 @@
    "n": 3,
    "since": "2026-11-12"
   },
-  "workday:venerable|wd5|venerablecareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:verabradley|wd5|vbcareers": {
    "err": "HTTP 521",
    "n": 1,
@@ -13996,11 +11843,6 @@
    "err": "invalid JSON",
    "n": 2,
    "since": "2026-11-14"
-  },
-  "workday:vfc|wd5|northface_careers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:vfc|wd5|vfc_careers": {
    "err": "HTTP 521",
@@ -14033,11 +11875,6 @@
    "err": "HTTP 521",
    "n": 3,
    "since": "2026-11-12"
-  },
-  "workday:viatris|wd5|External": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:visa|wd5|Visa": {
    "err": "HTTP 521",
@@ -14090,16 +11927,6 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:wattswater|wd5|external": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:wawa|wd1|careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:waystar|wd1|Waystar": {
    "err": "HTTP 521",
    "n": 1,
@@ -14119,11 +11946,6 @@
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:wfscorp|wd5|wfscareers": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:wgl|wd5|altagas": {
    "err": "invalid JSON",
@@ -14145,11 +11967,6 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:williams|wd5|External": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:winlandfoods|wd1|external": {
    "err": "invalid JSON",
    "n": 2,
@@ -14170,21 +11987,6 @@
    "n": 2,
    "since": "2026-11-14"
   },
-  "workday:wonder|wd1|Grubhub_Careers": {
-   "err": "invalid JSON",
-   "n": 5,
-   "since": "2026-11-14"
-  },
-  "workday:wonder|wd1|WG": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:woodward|wd5|woodward": {
-   "err": "invalid JSON",
-   "n": 6,
-   "since": "2026-11-13"
-  },
   "workday:workday|wd5|Workday_Early_Career": {
    "err": "invalid JSON",
    "n": 2,
@@ -14199,11 +12001,6 @@
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:woundedwarriorproject|wd5|wwp": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:wpi|wd5|WPI_External_Career_Site": {
    "err": "invalid JSON",
@@ -14225,21 +12022,6 @@
    "n": 1,
    "since": "2026-11-14"
   },
-  "workday:wwecorp|wd5|tko": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:xcelenergy|wd1|External": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:xenergy|wd5|X-energyUS": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "workday:yale|wd1|terminated_layoff_external_career_site": {
    "err": "invalid JSON",
    "n": 2,
@@ -14254,11 +12036,6 @@
    "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-14"
-  },
-  "workday:zoll|wd5|ZOLLMedicalCorp": {
-   "err": "invalid JSON",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "workday:zoom|wd5|zoom": {
    "err": "HTTP 521",
@@ -14275,8 +12052,7 @@
  "last_digest": "2026-11-14",
  "missed_companies": {},
  "missing_once": {
-  "workday:generalmotors|wd5|Careers_GM:JR-202619592": "2026-11-13",
-  "workday:rockwellautomation|wd1|External_Rockwell_Automation:R26-6526": "2026-11-13"
+  "workday:generalmotors|wd5|Careers_GM:JR-202619592": "2026-11-13"
  },
  "recall": {
   "2026-11-13": [
@@ -49789,6 +47565,7 @@
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73762": "2026-11-13",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73772": "2026-11-11",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73781": "2026-11-13",
+  "oracle:efds.fa.em5.oraclecloud.com|CX_1:73803": "2026-11-14",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73804": "2026-11-11",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73865": "2026-11-11",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73866": "2026-11-11",
@@ -51998,6 +49775,8 @@
   "sfrmk:careers.capgemini.com:1447544333": "2026-11-11",
   "sfrmk:careers.capgemini.com:1447545133": "2026-11-11",
   "sfrmk:careers.capgemini.com:1447558633": "2026-11-11",
+  "sfrmk:careers.capgemini.com:1447570633": "2026-11-14",
+  "sfrmk:careers.capgemini.com:1447614733": "2026-11-14",
   "sfrmk:careers.capgemini.com:1447633433": "2026-11-11",
   "sfrmk:careers.capgemini.com:1447636833": "2026-11-11",
   "sfrmk:careers.capgemini.com:1447663033": "2026-11-11",
@@ -52024,6 +49803,7 @@
   "sfrmk:careers.capgemini.com:1448054133": "2026-11-11",
   "sfrmk:careers.capgemini.com:1448064233": "2026-11-11",
   "sfrmk:careers.capgemini.com:1448088833": "2026-11-11",
+  "sfrmk:careers.capgemini.com:1448092333": "2026-11-14",
   "sfrmk:careers.capgemini.com:1448105033": "2026-11-11",
   "sfrmk:careers.capgemini.com:1448117333": "2026-11-11",
   "sfrmk:careers.capgemini.com:1448155533": "2026-11-11",
@@ -52504,6 +50284,7 @@
   "sfrmk:careers.capgemini.com:1457285233": "2026-11-14",
   "sfrmk:careers.capgemini.com:1457313433": "2026-11-13",
   "sfrmk:careers.capgemini.com:1457329633": "2026-11-14",
+  "sfrmk:careers.capgemini.com:1457330433": "2026-11-14",
   "sfrmk:careers.capgemini.com:1457342433": "2026-11-14",
   "sfrmk:careers.dominionenergy.com:1447264200": "2026-11-12",
   "sfrmk:careers.dominionenergy.com:1449181100": "2026-11-12",
@@ -53192,6 +50973,9 @@
   "sfrmk:careers.te.com:1450113100": "2026-11-12",
   "sfrmk:careers.te.com:1450433200": "2026-11-13",
   "sfrmk:careers.te.com:1450447900": "2026-11-13",
+  "sfrmk:careers.te.com:1450778600": "2026-11-14",
+  "sfrmk:careers.te.com:1450778700": "2026-11-14",
+  "sfrmk:careers.te.com:1450778800": "2026-11-14",
   "sfrmk:careers.thehersheycompany.com:1406735200": "2026-11-12",
   "sfrmk:careers.thehersheycompany.com:1417715600": "2026-11-12",
   "sfrmk:careers.thehersheycompany.com:1438107700": "2026-11-12",
@@ -53533,6 +51317,7 @@
   "sfrmk:jobs.dana.com:1450253700": "2026-11-12",
   "sfrmk:jobs.dana.com:986983800": "2026-11-11",
   "sfrmk:jobs.dana.com:986989500": "2026-11-11",
+  "sfrmk:jobs.doosan.com:1290699400": "2026-11-14",
   "sfrmk:jobs.doosan.com:1357183200": "2026-11-11",
   "sfrmk:jobs.doosan.com:1388980000": "2026-11-11",
   "sfrmk:jobs.doosan.com:1391049600": "2026-11-11",
@@ -54634,12 +52419,14 @@
   "sfrmk:jobs.zf.com:1451437933": "2026-11-12",
   "sfrmk:jobs.zf.com:1451658733": "2026-11-11",
   "sfrmk:jobs.zf.com:1451706033": "2026-11-11",
+  "sfrmk:jobs.zf.com:1451893633": "2026-11-14",
   "sfrmk:jobs.zf.com:1451900233": "2026-11-11",
   "sfrmk:jobs.zf.com:1452099633": "2026-11-11",
   "sfrmk:jobs.zf.com:1452306033": "2026-11-11",
   "sfrmk:jobs.zf.com:1452556733": "2026-11-11",
   "sfrmk:jobs.zf.com:1452673333": "2026-11-11",
   "sfrmk:jobs.zf.com:1452742033": "2026-11-11",
+  "sfrmk:jobs.zf.com:1453098833": "2026-11-14",
   "sfrmk:jobs.zf.com:1453262533": "2026-11-11",
   "sfrmk:jobs.zf.com:1453441033": "2026-11-11",
   "sfrmk:jobs.zf.com:1453653233": "2026-11-11",
@@ -55807,6 +53594,7 @@
   "workable:pony-dot-ai:EF5F79EB04": "2026-11-11",
   "workable:raydar:0093C570BB": "2026-11-13",
   "workable:raydar:4063A3BEC3": "2026-11-12",
+  "workable:raydar:46296DC04A": "2026-11-14",
   "workable:raydar:69354E1C00": "2026-11-11",
   "workable:raydar:98D13276EE": "2026-11-12",
   "workable:raydar:A808D47D18": "2026-11-11",
@@ -59715,6 +57503,7 @@
   "workday:sierraspace|wd1|Sierra_Space_External_Career_Site:R26520": "2026-11-13",
   "workday:sifive|wd1|sifivecareers:Posted 16 Days Ago": "2026-11-12",
   "workday:sifive|wd1|sifivecareers:Posted 17 Days Ago": "2026-11-13",
+  "workday:sifive|wd1|sifivecareers:Posted 18 Days Ago": "2026-11-14",
   "workday:silgancontainers|wd1|silgan:R8526": "2026-11-12",
   "workday:slihrms|wd3|careers:R-171024": "2026-11-13",
   "workday:spectris|wd3|PMS_Careers:17039": "2026-11-11",
@@ -59910,6 +57699,7 @@
   "workday:trimble|wd1|TrimbleCareers:R57836": "2026-11-11",
   "workday:tsc|wd12|TSC-Careers:JR2901": "2026-11-12",
   "workday:tsc|wd12|TSC-Careers:JR2939": "2026-11-12",
+  "workday:ttc|wd1|Toro_External_Careers:JR17884": "2026-11-14",
   "workday:tutorperini|wd12|external:Frontier-Kemper Constructors, Inc.": "2026-11-14",
   "workday:ucf|wd1|careers:R114378": "2026-11-12",
   "workday:ufpi|wd503|ufpi:R22711": "2026-11-12",
@@ -60015,7 +57805,7 @@
   "workday:zekelman|wd12|Careers:JR002871": "2026-11-12"
  },
  "source_last": {},
- "term_cursor": 35,
+ "term_cursor": 45,
  "text_retries": {
   "avature:harmanglobal.avature.net|en_US/careers:32516": 2,
   "avature:harmanglobal.avature.net|en_US/careers:32940": 2,
