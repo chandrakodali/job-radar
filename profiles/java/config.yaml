@@ -11,7 +11,7 @@ titles:
   - \b(developer|engineer|programmer)\b.{0,30}\bspring( |-)?boot\b
   - \bjvm\b.{0,30}\b(developer|engineer)\b
   hard_exclude:
-  - \b(staff|principal|lead|manager|director|head of|vp|vice president|architect|distinguished|fellow|chief|supervisor)\b
+  - \b(staff|principal|lead|leader|manager|director|head of|vp|vice president|architect|distinguished|fellow|chief|supervisor)\b
   - \b(iv|v|vi)\b
   - \b(level|lvl)\s*[4-9]\b
   - \b[4-9]\b\s*$
