@@ -11,6 +11,7 @@ titles:
   - \b(developer|engineer|programmer)\b.{0,30}\bspring( |-)?boot\b
   - \bjvm\b.{0,30}\b(developer|engineer)\b
   hard_exclude:
+  - '\b(fs|ci|full[- ]?scope|lifestyle|counter[- ]?intelligence)\s*[-/]?\s*poly(graph)?\b|\bts/sci\b|\bpoly\b'
   - \b(staff|principal|lead|leader|manager|director|head of|vp|vice president|architect|distinguished|fellow|chief|supervisor)\b
   - \b(iv|v|vi)\b
   - \b(level|lvl)\s*[4-9]\b
@@ -37,6 +38,7 @@ titles:
   - \bkotlin\b.{0,25}\b(developer|engineer)\b
   - \bscala\b.{0,25}\b(developer|engineer)\b
   exclude:
+  - '\b(fs|ci|full[- ]?scope|lifestyle|counter[- ]?intelligence)\s*[-/]?\s*poly(graph)?\b|\bts/sci\b|\bpoly\b'
   - \b(leader|leadership)\b
   - \bstaff\b
   - \bprincipal\b

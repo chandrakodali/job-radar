@@ -798,7 +798,7 @@ def run(args) -> int:
         view = cfg.get("report") or {}
         if view.get("order") == "newest":
             write_report(build_newest_report(tz_name, total_boards, now=now, view=view, closed=set(closed),
-                                             extra_lines=report_extra))
+                                             extra_lines=report_extra, rules=rules))
         else:
             write_report(build_report(tz_name, total_boards, now=now, profile=prof, closed=set(closed), handled=handled))
         if rules.ranker is not None:      # SKILLS_<PROFILE>.md next to the report

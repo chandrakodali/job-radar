@@ -13,6 +13,7 @@ titles:
     - '\bchaos engineer'
   # Exclusions that still apply to the titles above.
   hard_exclude:
+    - '\b(fs|ci|full[- ]?scope|lifestyle|counter[- ]?intelligence)\s*[-/]?\s*poly(graph)?\b|\bts/sci\b|\bpoly\b'
     - '\b(staff|principal|lead|manager|director|head of|vp|vice president|architect|distinguished|fellow|chief)\b'
     - '\b(iv|v|vi)\b'
     - '\b(level|lvl)\s*[4-9]\b'
@@ -91,6 +92,7 @@ titles:
 
   # Titles containing any of these are skipped (well above 5 years, or not this kind of job).
   exclude:
+    - '\b(fs|ci|full[- ]?scope|lifestyle|counter[- ]?intelligence)\s*[-/]?\s*poly(graph)?\b|\bts/sci\b|\bpoly\b'
     - '\bstaff\b'
     - '\bprincipal\b'
     - '\blead\b'

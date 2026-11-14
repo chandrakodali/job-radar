@@ -210,7 +210,7 @@ def _day_table(rows: list[dict], tz: ZoneInfo) -> list[str]:
 
 
 def build_newest_report(tz_name: str, boards_total: int, now: datetime | None = None, view: dict | None = None,
-                        closed: set[str] = frozenset(), extra_lines: list[str] = ()) -> str:
+                        closed: set[str] = frozenset(), extra_lines: list[str] = (), rules=None) -> str:
     """Every match posted in the last `days` days, newest first, one section per day (local time)."""
     tz = ZoneInfo(tz_name)
     now = now or datetime.now(timezone.utc)
@@ -220,6 +220,9 @@ def build_newest_report(tz_name: str, boards_total: int, now: datetime | None = 
     from .match import classify_location
     rows = [r for r in read_matches(since=start - timedelta(days=1)) if r["uid"] not in closed
             and classify_location(r.get("location") or "", []) != "non_us"]   # saved before a location fix
+    if rules is not None:   # saved before a title-rule fix
+        from .match import title_category
+        rows = [r for r in rows if title_category(r.get("title") or "", rules)]
     hide = int(v.get("hide_years", 0))
     for r in rows:   # rows saved before the years rule existed
         m = re.search(r"(\d+)\+ yrs exp", r.get("flags") or "")

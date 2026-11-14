@@ -206,6 +206,7 @@ titles:
 
   # Never a fit: management, non-engineering work, other engineering disciplines, other software fields.
   exclude:
+    - '\b(fs|ci|full[- ]?scope|lifestyle|counter[- ]?intelligence)\s*[-/]?\s*poly(graph)?\b|\bts/sci\b|\bpoly\b'
     - '\bmanager\b|\bmgr\b|\bmanger\b|\bsupervisor\b'
     - '\bdirector\b|\bhead of\b|\bvp\b|vice president|\bchief\b|\bpresident\b'
     - '\bdistinguished\b|\bfellow\b'
