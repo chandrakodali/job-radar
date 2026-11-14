@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**322 jobs**, newest first. Updated Fri Nov 13, 10:37 PM CST from 7,552 company job boards and other sources.
+**321 jobs**, newest first. Updated Fri Nov 13, 11:07 PM CST from 7,552 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 323 matching jobs that job sites and feeds listed this week, 59 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 13 (46)](#friday-nov-13-46) · [Thu 12 (83)](#thursday-nov-12-83) · [Wed 11 (39)](#wednesday-nov-11-39) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (42)](#monday-nov-9-42) · [Sun 8 (35)](#sunday-nov-8-35) · [Sat 7 (6)](#saturday-nov-7-6) · [Fri 6 (1)](#friday-nov-6-1)
+Jump to: [Fri 13 (46)](#friday-nov-13-46) · [Thu 12 (83)](#thursday-nov-12-83) · [Wed 11 (39)](#wednesday-nov-11-39) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (42)](#monday-nov-9-42) · [Sun 8 (35)](#sunday-nov-8-35) · [Sat 7 (6)](#saturday-nov-7-6)
 
 ## Friday, Nov 13 (46)
 
@@ -365,12 +365,6 @@ Jump to: [Fri 13 (46)](#friday-nov-13-46) · [Thu 12 (83)](#thursday-nov-12-83) 
 | date only | [Senior AI Infrastructure & Frontier Model Engineer (f/m/x)](https://jobs.bmwgroup.com/job/M%C3%BCnchen-Senior-AI-Infrastructure-&-Frontier-Model-Engineer-%28fmx%29-BY-80809/1427500333/) | Rolls-Royce Motorcars |  | 38 | senior title, years not stated; location unclear |
 | date only | [Senior Software Engineer, System Validation - EDA Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Next-Generation-Architecture---EDA-Infrastructure_JR2014880) | NVIDIA | US, CA, Santa Clara; US, MA, Westford; … (remote) | 35 | senior title, years not stated |
 | 2:00 AM | [Cloud Engineer III](https://jobs.mcdonalds.com/job/Chicago-Cloud-Engineer-III-IL-60607/1408247300/) | McDonald's | Chicago, IL, United States | 48 | 3+ yrs exp; senior title |
-
-## Friday, Nov 6 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 10:54 PM | [Cloud Systems Administrator](https://job-boards.greenhouse.io/oneimaging/jobs/4484490009) | OneImaging | Remote (remote) | 42 | location unclear |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (699)
 
