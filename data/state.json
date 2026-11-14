@@ -7371,39 +7371,39 @@
    "since": "2026-11-11"
   },
   "ashby:Lynk": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:Tempo": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:amigo": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:arch.co": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:atomicsemi": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:beaconsoftware": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:blaxel": {
@@ -7413,45 +7413,45 @@
    "since": "2026-11-11"
   },
   "ashby:chainlink-labs": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:egra": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:evenup": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:firetiger": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:fractional-ai": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:fundamentalresearchlabs": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:hiive": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:hitpayapp.com": {
@@ -7461,33 +7461,33 @@
    "since": "2026-11-11"
   },
   "ashby:inspiration-commerce-group": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:klarity-ai": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:latitude": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:levels": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:lindy": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:lucidbots": {
@@ -7497,27 +7497,27 @@
    "since": "2026-11-11"
   },
   "ashby:mach": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:maximor": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:mentis": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:mintmcp": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:moonvalley-ai": {
@@ -7527,21 +7527,21 @@
    "since": "2026-11-11"
   },
   "ashby:morrishealthtech": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:mtesting.ai": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:odin-dynamics": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:offstream": {
@@ -7575,9 +7575,9 @@
    "since": "2026-11-11"
   },
   "ashby:pryzm": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:response": {
@@ -7605,9 +7605,9 @@
    "since": "2026-11-11"
   },
   "ashby:tracer": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:truss": {
@@ -7617,9 +7617,9 @@
    "since": "2026-11-11"
   },
   "ashby:veeda-labs": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:vellum": {
@@ -7635,15 +7635,15 @@
    "since": "2026-11-09"
   },
   "ashby:whatnot": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "ashby:withcherry": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "avature:skanska.avature.net|careers": {
@@ -7660,17 +7660,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 28,
+   "n": 29,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 28,
+   "n": 29,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 28,
+   "n": 29,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -7716,21 +7716,21 @@
    "since": "2026-11-11"
   },
   "greenhouse:alma": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:appliedintuition": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:arine": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:artlogic": {
@@ -7740,33 +7740,33 @@
    "since": "2026-11-11"
   },
   "greenhouse:atlassand": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:breezeairways": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:buyersedgeplatformrecruiting": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:campusopportunities": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:capitalrx": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:classpass": {
@@ -7776,9 +7776,9 @@
    "since": "2026-11-12"
   },
   "greenhouse:climateai": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:commonpaper": {
@@ -7794,21 +7794,21 @@
    "since": "2026-11-11"
   },
   "greenhouse:debtbook": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:designmehair": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:dustyrobotics": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:embrace": {
@@ -7818,15 +7818,15 @@
    "since": "2026-11-11"
   },
   "greenhouse:eu:fuzehealth": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:eu:letsgetchecked": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:eu:nowcircular": {
@@ -7836,15 +7836,15 @@
    "since": "2026-11-11"
   },
   "greenhouse:eu:superbet": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:fireworksai": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:focusfinancialpartners": {
@@ -7860,9 +7860,9 @@
    "since": "2026-11-07"
   },
   "greenhouse:glossgenius": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:greencanopy": {
@@ -7872,45 +7872,45 @@
    "since": "2026-11-11"
   },
   "greenhouse:ibkr": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:iherb": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:instabase": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:liveviewtechnologiesinc": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:loop": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:maintainx": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:matx": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:meltano": {
@@ -7920,15 +7920,15 @@
    "since": "2026-11-11"
   },
   "greenhouse:memphismeats": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:mqreferrals": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:myshell": {
@@ -7950,33 +7950,33 @@
    "since": "2026-11-11"
   },
   "greenhouse:postman": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:pretiuminternships2027": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:qualifiedhealth": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:rdccareers": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:reach": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:sadapay": {
@@ -7986,9 +7986,9 @@
    "since": "2026-11-11"
   },
   "greenhouse:scoutai": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:segmed": {
@@ -7998,9 +7998,9 @@
    "since": "2026-11-11"
   },
   "greenhouse:shyftsolutionsllc": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:smartersorting": {
@@ -8016,27 +8016,27 @@
    "since": "2026-11-11"
   },
   "greenhouse:threatlocker": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:transcarent": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:underdogfantasy": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:uplifter": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:users": {
@@ -8046,15 +8046,15 @@
    "since": "2026-11-11"
   },
   "greenhouse:visiersolutionsinc": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "greenhouse:withumsmithbrown": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "icims:canadacareers-amd.icims.com": {
@@ -8213,51 +8213,51 @@
    "since": "2026-11-11"
   },
   "lever:aifund": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:aircall": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:aofl": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:aprio": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:autoroboto": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:bestegg": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:calstart": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:cesiumastro": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:color": {
@@ -8273,27 +8273,27 @@
    "since": "2026-11-11"
   },
   "lever:energyvault": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:farcast": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:grid": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:inductiveautomation": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:joingerald": {
@@ -8309,39 +8309,39 @@
    "since": "2026-11-11"
   },
   "lever:machinalabs": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:mbrdna": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:njstateofficeofinnovation": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:nomagic": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:oaknorth.ai": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:quantumworkplace": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:rainforest": {
@@ -8351,9 +8351,9 @@
    "since": "2026-11-11"
   },
   "lever:regalvoice": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:run-alloy": {
@@ -8363,27 +8363,27 @@
    "since": "2026-11-11"
   },
   "lever:saronic": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:simberobotics": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:talentwerx.io": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:trend-health-partners": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:trio": {
@@ -8399,15 +8399,15 @@
    "since": "2026-11-11"
   },
   "lever:welocalize": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "lever:xpansiv": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "pinpoint:interactsoftware": {
@@ -8736,37 +8736,37 @@
   },
   "workday:aamc|wd5|aamc": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:abbott|wd5|abbottcareers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:abbott|wd5|abbottcareers2": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:abcfinancial|wd5|abcfinancialservices": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:accuray|wd5|external": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:ace|wd5|careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:acs|wd5|acscareers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:acuityinternational|wd5|external": {
@@ -8791,12 +8791,12 @@
   },
   "workday:advanceauto|wd5|advanceexternalcareers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:agilent|wd5|Agilent_Careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:agilent|wd5|Agilent_Student_Careers": {
@@ -8806,7 +8806,7 @@
   },
   "workday:agiliti|wd5|careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:airproducts|wd5|AP0001": {
@@ -8816,7 +8816,7 @@
   },
   "workday:albanymed|wd5|albany_med": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:albemarle|wd5|External": {
@@ -8831,7 +8831,7 @@
   },
   "workday:alcoa|wd5|Careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:alcon|wd5|careers_alcon": {
@@ -8856,12 +8856,12 @@
   },
   "workday:alliancedata|wd5|breadfinancial_us": {
    "err": "HTTP 521",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-13"
   },
   "workday:allina|wd5|external": {
    "err": "HTTP 521",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-13"
   },
   "workday:allstate|wd5|allstate_careers": {
@@ -8876,168 +8876,163 @@
   },
   "workday:amcor|wd5|amcor_external_career_site": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:ameresco|wd5|Ameresco": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:americancentury|wd5|AmericanCenturyInvestments": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:americanfidelity|wd5|External": {
    "err": "HTTP 521",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-13"
   },
   "workday:ameriprise|wd5|Ameriprise": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:amplify|wd1|Amplify_Careers": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 403",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "workday:amynta|wd5|global": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:ankura|wd5|ankura": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:antares|wd5|antares": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:aoins|wd5|AutoOwners": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:applebank|wd5|applebankcareers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:appliedis|wd5|ais_careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:aptiv|wd5|aptiv_careers": {
    "err": "HTTP 521",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:arbella|wd5|Arbella": {
-   "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:arienscompany|wd5|external": {
    "err": "HTTP 521",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-13"
   },
   "workday:arrowstreetcapital|wd5|Campus_Careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:aspentech|wd5|aspentech": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:assetmark|wd5|AssetMark_Careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:astreya|wd5|life-at-astreya-opportunities": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:asuep|wd5|ASUEP": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:asuep|wd5|ASUFoundation": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:asurion|wd5|asurioncareers_us": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:atcllc|wd5|atcllc": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:athene|wd5|Apollo_Careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:athene|wd5|athene_careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:atriumhospitality|wd5|atriumhospitality": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:austintexas|wd5|COA_Careers": {
    "err": "HTTP 521",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-13"
   },
   "workday:autonation|wd5|Careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:axiomspace|wd5|External_Career_Site": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:axos|wd5|Axos": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:badgermeter|wd5|US_CareerSite": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:bakerhughes|wd5|BakerHughes": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:bakertilly|wd5|BTCareers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:bankeasy|wd5|bank-easy-job-openings": {
@@ -9047,37 +9042,37 @@
   },
   "workday:bbh|wd5|BBH": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:bcidaho|wd5|BCI": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:beigene|wd5|beigene": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:betmgminc|wd5|BetMGM": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:biotechne|wd5|Biotechne": {
    "err": "HTTP 521",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-13"
   },
   "workday:blueorigin|wd5|blueorigin": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:bluescopenac|wd5|BNACareers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:boarshead|wd1|BHC": {
@@ -9088,62 +9083,62 @@
   },
   "workday:borgwarner|wd5|BorgWarner_Careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:brambles|wd5|Brambles_Careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:braunintertec|wd5|brauninterteccareers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:brinks|wd5|brinkscareersus": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:bristolmyerssquibb|wd5|bms": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:broadridge|wd5|careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:brookfield|wd5|bpandc": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:brookfield|wd5|brookfield": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:brown|wd5|staff-careers-brown": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:burlington|wd5|BurlingtonCareers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:bydeluxe|wd5|Deluxe_External": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cai|wd5|computer_aid": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cambiahealth|wd1|External": {
@@ -9154,12 +9149,12 @@
   },
   "workday:cambridgeassociates|wd5|Cambridge_Associates": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cambridgeassociates|wd5|Handshake": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:campaignmonitor|wd5|marigold": {
@@ -9174,12 +9169,12 @@
   },
   "workday:canadiansolar|wd5|CanadianSolar": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cat|wd5|caterpillarcareers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cat|wd5|solarturbines": {
@@ -9189,42 +9184,37 @@
   },
   "workday:cbrands|wd5|CBI_External_Careers": {
    "err": "HTTP 521",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-13"
   },
   "workday:cdw|wd5|careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cecentertainment|wd5|CEC_Careers": {
    "err": "HTTP 521",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:cengage|wd5|CengageNorthAmericaCareers": {
-   "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cenhud|wd5|cenhud": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:centene|wd5|Centene_External": {
    "err": "HTTP 521",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-13"
   },
   "workday:centerstone|wd5|centerstonecareers": {
    "err": "HTTP 521",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-13"
   },
   "workday:cerence|wd5|Cerence": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cff|wd1|explore-career-opportunities": {
@@ -9235,67 +9225,67 @@
   },
   "workday:chartermfg|wd5|Charter_Careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:chevron|wd5|University": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:chipotle|wd5|ChipotleCareers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:choicehotels|wd5|External": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:chrobinson|wd5|CHRobinson": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:ciena|wd5|Careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cigna|wd5|cignacareers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cincinnatichildrens|wd5|careersatcincinnatichildrens": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cisco|wd5|cisco_careers": {
    "err": "HTTP 521",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-13"
   },
   "workday:citi|wd5|2": {
    "err": "HTTP 521",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-13"
   },
   "workday:citi|wd5|Citi_Early_Careers_Events_Site": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cityofvancouver|wd5|COV": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:clarios|wd5|clarioscareers": {
    "err": "HTTP 521",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-13"
   },
   "workday:cliftonlarsonallen|wd1|CLA": {
@@ -9311,7 +9301,7 @@
   },
   "workday:clr|wd5|CLR_Careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cmu|wd5|cmu": {
@@ -9322,33 +9312,38 @@
   },
   "workday:cnoinc|wd5|Careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cohesity|wd5|Cohesity_Careers": {
    "err": "HTTP 521",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-13"
   },
   "workday:columbiasportswearcompany|wd5|CSC_Careers": {
    "err": "HTTP 521",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-13"
   },
   "workday:columbiasportswearcompany|wd5|Columbia_Career_Site": {
    "err": "HTTP 521",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-13"
   },
   "workday:comcast|wd5|Comcast_Careers": {
    "disabled_until": "2026-11-14",
-   "err": "HTTP 422",
-   "n": 3,
+   "err": "HTTP 521",
+   "n": 4,
    "since": "2026-11-07"
+  },
+  "workday:compassion|wd5|compassioncareers": {
+   "err": "HTTP 521",
+   "n": 1,
+   "since": "2026-11-14"
   },
   "workday:comscore|wd5|External": {
    "err": "HTTP 521",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-13"
   },
   "workday:condenast|wd5|CondeCareers": {
@@ -9359,42 +9354,42 @@
   },
   "workday:copeland|wd5|copeland_external_careers_page": {
    "err": "HTTP 521",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-13"
   },
   "workday:corteva|wd5|corteva": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:corteva|wd5|ctp": {
    "err": "HTTP 521",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-13"
   },
   "workday:countryfinancial|wd5|COUNTRYCorporateExternal": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:countryfinancial|wd5|COUNTRYCorporateInternships": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:coxhealth|wd5|CoxHealth_External": {
    "err": "HTTP 521",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-13"
   },
   "workday:cranecompany|wd5|Careers": {
    "err": "HTTP 521",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-13"
   },
   "workday:crowdstrike|wd5|crowdstrikecareers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:cspire-telapex|wd12|external-careers": {
@@ -9405,17 +9400,17 @@
   },
   "workday:dealertire|wd5|4710": {
    "err": "HTTP 521",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-13"
   },
   "workday:dealertire|wd5|DealerTireLLC-Careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:deckers|wd5|Deckers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:dell|wd1|External": {
@@ -9426,12 +9421,12 @@
   },
   "workday:deluxe|wd5|USA_CAN": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:dfwairport|wd5|External": {
    "err": "HTTP 521",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-13"
   },
   "workday:dimensional|wd5|dfa_careers": {
@@ -9466,12 +9461,12 @@
   },
   "workday:dtna|wd5|dtna_affiliate": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:dtna|wd5|dtna_external": {
    "err": "HTTP 521",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-13"
   },
   "workday:earlywarning|wd5|earlywarningcareers": {
@@ -9546,7 +9541,7 @@
   },
   "workday:etsy|wd5|Depop_Careers": {
    "err": "HTTP 521",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-13"
   },
   "workday:etsy|wd5|Etsy_Careers": {
@@ -9833,7 +9828,7 @@
   },
   "workday:humana|wd5|centerwell_external_career_site": {
    "err": "HTTP 521",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-13"
   },
   "workday:humana|wd5|humana_external_career_site": {
@@ -9879,7 +9874,7 @@
   },
   "workday:ilitch|wd5|detroit-tigers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:ilitch|wd5|lc": {
@@ -9975,7 +9970,7 @@
   },
   "workday:jda|wd5|JDA_Careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:jeffersonhealth|wd5|ThomasJeffersonExternal": {
@@ -10267,7 +10262,7 @@
   },
   "workday:myhrabc|wd5|Global": {
    "err": "HTTP 521",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-13"
   },
   "workday:mymvw|wd5|hvocareers": {
@@ -10412,9 +10407,9 @@
    "since": "2026-11-08"
   },
   "workday:osv-cci|wd1|CCICareers": {
-   "disabled_until": "2026-11-14",
+   "disabled_until": "2026-11-21",
    "err": "HTTP 422",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-07"
   },
   "workday:osv-cfainstitute|wd5|Careers": {
@@ -10699,7 +10694,7 @@
   },
   "workday:rhsc|wd5|delta_dental_of_michigan": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:rochester|wd5|UR_Staff": {
@@ -10836,7 +10831,7 @@
   },
   "workday:spectrumhealth|wd5|CorewellHealthCareers": {
    "err": "HTTP 521",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-13"
   },
   "workday:spgi|wd5|Kensho_Careers": {
@@ -10851,7 +10846,7 @@
   },
   "workday:spgi|wd5|aM_Careers": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:ssmh|wd5|ssmhealth": {
@@ -10958,7 +10953,7 @@
   },
   "workday:thinkbrg|wd5|BRG_External_Career_Site": {
    "err": "HTTP 521",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "workday:thomsonreuters|wd5|External_Career_Site": {
@@ -11363,6 +11358,10 @@
   "2026-11-13": [
    37,
    197
+  ],
+  "2026-11-14": [
+   0,
+   0
   ]
  },
  "resolved": {
@@ -11388,7 +11387,7 @@
   },
   "chronosphere": {
    "ats": null,
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   "circleci": {
    "ats": "greenhouse",
@@ -11400,7 +11399,7 @@
   },
   "confluent": {
    "ats": null,
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   "coreweave": {
    "ats": "greenhouse",
@@ -11416,7 +11415,7 @@
   },
   "dbtlabsinc": {
    "ats": null,
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   "digitalocean98": {
    "ats": "greenhouse",
@@ -11452,7 +11451,7 @@
   },
   "flyio": {
    "ats": null,
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   "gitlab": {
    "ats": "greenhouse",
@@ -11460,7 +11459,7 @@
   },
   "grammarly": {
    "ats": null,
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   "gusto": {
    "ats": "greenhouse",
@@ -11468,7 +11467,7 @@
   },
   "harness": {
    "ats": null,
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   "harnessinc": {
    "ats": "greenhouse",
@@ -11480,7 +11479,7 @@
   },
   "hubspot": {
    "ats": null,
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   "instacart": {
    "ats": "greenhouse",
@@ -11548,11 +11547,11 @@
   },
   "retool": {
    "ats": null,
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   "rippling": {
    "ats": null,
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   "samsara": {
    "ats": "greenhouse",
@@ -11560,11 +11559,11 @@
   },
   "soloio": {
    "ats": null,
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   "sourcegraph": {
    "ats": null,
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   "sourcegraph91": {
    "ats": "greenhouse",
@@ -11596,11 +11595,11 @@
   },
   "teleport": {
    "ats": null,
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   "temporaltechnologies": {
    "ats": null,
-   "checked": "2026-11-07"
+   "checked": "2026-11-14"
   },
   "toast": {
    "ats": "greenhouse",
@@ -40876,6 +40875,7 @@
   "oracle:elar.fa.us2.oraclecloud.com|CX_1:690304": "2026-11-12",
   "oracle:emdz.fa.us2.oraclecloud.com|CX_2001:6368": "2026-11-08",
   "oracle:emje.fa.us6.oraclecloud.com|CX_1001:22636": "2026-11-09",
+  "oracle:eoje.fa.us2.oraclecloud.com|CX_1001:7099": "2026-11-14",
   "oracle:eppr.fa.us2.oraclecloud.com|CX_2:195028": "2026-11-13",
   "oracle:ertr.fa.us2.oraclecloud.com|CX_3001:117567": "2026-11-12",
   "oracle:ewvl.fa.us8.oraclecloud.com|CX_1:2230": "2026-11-08",

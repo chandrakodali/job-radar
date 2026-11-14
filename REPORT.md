@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**324 jobs**, newest first. Updated Fri Nov 13, 5:37 PM CST from 7,552 company job boards and other sources.
+**324 jobs**, newest first. Updated Fri Nov 13, 6:07 PM CST from 7,552 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -374,12 +374,13 @@ Jump to: [Fri 13 (43)](#friday-nov-13-43) · [Thu 12 (84)](#thursday-nov-12-84) 
 | 8:00 PM | [SYSTEM ADMINISTRATOR](https://www.careers.zurich.com/job/S%C3%A3o-Paulo-SYSTEM-ADMINISTRATOR/1364291557/) | Zurich Insurance |  | 38 | location unclear |
 | 6:54 PM | [IT Systems Engineer](https://job-boards.greenhouse.io/icarus/jobs/5476156008) | Icarus | El Segundo | 33 | 3+ yrs exp; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (698)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (699)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 6:00 PM | [Sr Network Engineer](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7099) | Black Box | United States | 30 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | 4:37 PM | [Network Administrator-Senior](https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8434) | UTHealth Houston | San Antonio, TX, United States (hybrid) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 4:30 PM | [Senior Engineer, Workplace Platform Engineering](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21015334) | Kroll | Atlanta, GA, United States; Nashville, … | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 3:00 PM | [Financial Systems Analyst and Systems Administrator](https://job-boards.greenhouse.io/aclu/jobs/8941758002) | Aclu | New York, New York, United States | 50 | rules: adjacent title, little DevOps/cloud work in the text |
@@ -779,7 +780,6 @@ Jump to: [Fri 13 (43)](#friday-nov-13-43) · [Thu 12 (84)](#thursday-nov-12-84) 
 | date only | [Developer Support Engineer, Open API](https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Developer-Support-Engineer--Open-API_JR-000519) | Buildertrend | Omaha, NE (remote) | 40 | rules: role no longer in the target list |
 | date only | [Cloud Solutions Engineer](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Cloud-Solutions-Engineer_R-434482) | Humana | Remote Kentucky; Remote North Carolina;… (remote) | 35 | rules: role no longer in the target list |
 | date only | [Network Operations Engineer](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Network-Operations-Engineer_R-26-20882) | Moog | Buffalo, NY (hybrid) | 48 | rules: role no longer in the target list |
-| date only | [Pharmacy Automation Systems Administrator - Pharmacy Technician - FT …](https://memorialhealthcare.wd1.myworkdayjobs.com/MHS_Careers/job/Memorial-Regional-Hospital-South/Pharmacy-Automation-Systems-Administrator---Pharmacy-Technician---FT---Days---MRHS_JR-25046-1) | Memorial Healthcare System | Memorial Regional Hospital South (onsite) | 43 | rules: role no longer in the target list |
 
 </details>
 
