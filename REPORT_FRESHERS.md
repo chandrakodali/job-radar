@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**490 jobs**, newest first. Updated Fri Nov 13, 6:13 PM CST from 7,552 company job boards and other sources.
+**488 jobs**, newest first. Updated Fri Nov 13, 7:05 PM CST from 7,552 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 154 matching jobs that job sites and feeds listed this week, 27 (17%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 13 (134)](#friday-nov-13-134) · [Thu 12 (98)](#thursday-nov-12-98) · [Wed 11 (97)](#wednesday-nov-11-97) · [Tue 10 (76)](#tuesday-nov-10-76) · [Mon 9 (70)](#monday-nov-9-70) · [Sun 8 (7)](#sunday-nov-8-7) · [Sat 7 (5)](#saturday-nov-7-5) · [Fri 6 (3)](#friday-nov-6-3)
+Jump to: [Fri 13 (134)](#friday-nov-13-134) · [Thu 12 (98)](#thursday-nov-12-98) · [Wed 11 (97)](#wednesday-nov-11-97) · [Tue 10 (76)](#tuesday-nov-10-76) · [Mon 9 (70)](#monday-nov-9-70) · [Sun 8 (7)](#sunday-nov-8-7) · [Sat 7 (5)](#saturday-nov-7-5) · [Fri 6 (1)](#friday-nov-6-1)
 
 ## Friday, Nov 13 (134)
 
@@ -532,15 +532,13 @@ Jump to: [Fri 13 (134)](#friday-nov-13-134) · [Thu 12 (98)](#thursday-nov-12-98
 | date only | [Technology Analyst](https://jobs.adidas-group.com/job/Portland-Technology-Analyst-OR/1456564133/) | Adidas |  | 73 | 1+ yrs exp; entry level (from the text) |
 | date only | [MX Remote Work FBS Mexico Associate Analytics Engineer USFITFU](https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-Associate-Analytics-Engineer-%28USFITFU%29/1377529157/) | Farmers Insurance |  | 58 | entry-level title; location unclear |
 
-## Friday, Nov 6 (3)
+## Friday, Nov 6 (1)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 7:25 PM | [Associate Software Engineer I](https://jobs.smartrecruiters.com/AbbVie/3743990016715126-associate-software-engineer-i) | AbbVie | North Chicago, IL, United States (hybrid) | 68 | entry-level title |
-| 6:49 PM | [Associate Engineer, Technology I](https://jobs.smartrecruiters.com/AbbVie/3743990016714871-associate-engineer-technology-i) | AbbVie | North Chicago, IL, United States (hybrid) | 68 | entry-level title |
-| 6:23 PM | [Software Engineer I - Internal Tools (New Grad) - R6052](https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902) | Shield AI | Seattle, Washington | 63 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2189)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2192)
 
 <details><summary>Show</summary>
 
@@ -548,6 +546,8 @@ Jump to: [Fri 13 (134)](#friday-nov-13-134) · [Thu 12 (98)](#thursday-nov-12-98
 |---|---|---|---|---:|---|
 | date only | [Founding Backend Software Engineer](https://apply.workable.com/raydar/j/D311E320DC/) | Raydar | New York, New York, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Machine Learning Research Engineer](https://apply.workable.com/raydar/j/513FBA0DB3/) | Raydar | New York, New York, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 6:42 PM | [Workplace Security Analyst Trainee (9910) - Department of Public Heal…](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016859665-workplace-security-analyst-trainee-9910-department-of-public-health-exempt) | City and County of San Franci… | San Francisco, CA, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
+| 6:23 PM | [QA Engineer (6-month contract)](https://jobs.ashbyhq.com/centerfield/4b10b054-b8ab-463f-8250-81393dfeb128) | Centerfield | Los Angeles, California (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 5:34 PM | [Application Engineer (Water Technologies)](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000161594159-application-engineer-water-technologies-) | Veolia | Cary, NC, United States +1 more (hybrid) | 60 | rules: 3+ yrs exp; no future H-1B sponsorship; asks for 3+ years of e… |
 | 5:28 PM | [ML Engineer, Developer Ecosystem](https://jobs.ashbyhq.com/TensorWave/ae435bd5-fe8e-49c7-9d64-53034dc0ff45) | TensorWave | Remote (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 5:20 PM | [ML Performance Engineer](https://jobs.ashbyhq.com/TensorWave/e0ca2ee5-4419-4e7f-b7d6-e90996970809) | TensorWave | Las Vegas, Nevada (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -901,6 +901,7 @@ Jump to: [Fri 13 (134)](#friday-nov-13-134) · [Thu 12 (98)](#thursday-nov-12-98
 | date only | [Network Engineer, Expert](https://careers.chsinc.com/job/Inver-Grove-Heights-Network-Engineer%2C-Expert-MN-55077-1721/1450744600/) | CHS | Inver Grove Heights, MN, United States | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [Quality Assurance Engineering Specialist](https://asrinternationalcorp.applytojob.com/apply/6U1xaymlUF/Quality-Assurance-Engineering-Specialist) | ASR INTERNATIONAL | Pasadena, TX | 60 | rules: 3+ yrs exp; needs: security clearance |
 | date only | [Residential QA&QC Specialist](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/White-Plains-NY---Main-Street/Residential-QA-QC-Specialist_R0018368) | CLEAResult | White Plains, NY - Main Street | 48 | rules: 4+ yrs exp; no future H-1B sponsorship; asks for 4+ years of e… |
+| date only | [Robotics - Automation - Bid and Proposals Specialist](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Robotics---Automation---Bid-and-Proposals-Specialist_JR00050031) | ABB | USA, MI, Auburn Hills | 38 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:58 AM | [Embedded Platform Diagnostics Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74088) | Ford Motor Company | Allen Park, MI, United States (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 10:40 AM | [Business Analyst/Domain Specialist](https://jobs.workable.com/view/4CTKyCUddg62o1WdrfjuV2/remote-business-analyst%2Fdomain-specialist-in-united-states-at-v4c.ai) | V4C.ai | Remote, US (remote) | 42 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:33 AM | [System Analyst, Remote IT Operations](https://jobs.smartrecruiters.com/NBCUniversal3/744000161533282-system-analyst-remote-it-operations) | NBCUniversal | Monroe, Connecticut, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -943,8 +944,5 @@ Jump to: [Fri 13 (134)](#friday-nov-13-134) · [Thu 12 (98)](#thursday-nov-12-98
 | 11:59 PM | [Gallery Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/42200) | RH | San Francisco, CA, United States +1 more | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
 | 11:00 PM | [Software Engineer I](https://jobs-bylight.icims.com/jobs/12239/software-engineer-i/job) | By Light Professional IT Serv… | Orlando, FL, United States | 85 | rules: entry-level title; 1+ yrs exp; needs: Security Clearance |
 | 11:00 PM | [Tech Support Engineer, MI - 1](https://uscareers-fujifilm.icims.com/jobs/39231/tech-support-engineer%2c-mi---1/job) | Fujifilm | Remote, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
-| 11:00 PM | [Cyber Security Analyst](https://bowheadcareers-uicalaska.icims.com/jobs/26665/cyber-security-analyst/job) | Bowhead | Vicksburg, MS, United States | 45 | rules: 5+ yrs exp; needs: SECURITY CLEARANCE |
-| 11:00 PM | [Cloud Developer, Mid](https://careers-cayuseholdings.icims.com/jobs/4794/cloud-developer%2c-mid/job) | Cayuse Holdings | Washington, DC, United States | 45 | rules: 5+ yrs exp; needs: Security Clearance |
-| 11:00 PM | [Personal Computer Technician](https://careers-framatome.icims.com/jobs/3533/personal-computer-technician/job) | Framatome | Lynchburg, VA, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 
 </details>
