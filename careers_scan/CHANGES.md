@@ -1,290 +1,213 @@
 # Careers page changes
 
-Checked 2026-11-14 08:04 UTC: 1757 pages, 31 changed, 10 look like new postings.
-
-## [dbt Labs](https://www.getdbt.com/about-us/careers)
-
-- added: Senior Partner Operations Manager
-
-## [Employment Hero](https://employmenthero.com/jobs/)
-
-- added: Business Development Manager
-- added: Employee Service Portal
-- added: Richmond, Victoria 3121
-- added: Posted 4 hours ago
-- added: Oral Health Therapist
-- added: CFP/Allied Dental
-- added: East Victoria Park, Western Australia 6101
-- added: • A$70 – A$85
-- added: Barista / Allrounder
-- added: ALFRESCO EMPORIUM
-- added: Collaroy, New South Wales 2097
-- added: • A$33 – A$46
-- added: Posted 8 hours ago
-- added: Project Engineer
-- added: BAM BAM Pile Driving NZ Limited
-- removed: Casual Retail Warehouse Storeperson – Canberra
-- removed: Focus on Furniture
-- removed: Canberra, Australian Capital Territory 2600
-- removed: Entry Level
-- removed: Posted 39 minutes ago
+Checked 2026-11-14 18:55 UTC: 1757 pages, 24 changed, 7 look like new postings.
 
 ## [Forem](https://dev.to/t/career)
 
-- added: 27 reactions
-- added: 24 comments
-- added: Is WordPress Still a Good Choice for a New Client Site in 2026? Be Honest.
-- added: Hannan Shoukat
-- added: Nov 14
-- added: # wordpress
-- added: # webdev
-- added: 2 min read
-- added: Auto-applying to jobs: the hard part wasn't CAPTCHAs, it was select fields
-- added: Rodrigo Araujo
-- added: # typescript
-- added: # automation
-- added: Python Day 7 – The / and * in Function Definitions
-- added: sridhar n
-- added: # function
-- removed: 26 reactions
-- removed: 19 comments
-- removed: How did you end up in tech, and are you staying?
-- removed: Features a LEGO robotics plot twist
-- removed: Maame Afua A. P. Fordjour
+- added: 30 reactions
+- added: 28 comments
+- added: I kept forgetting what I actually told companies… so I built this
+- added: Saikat Chakrabortty
+- added: 3 reactions
+- added: 5 comments
+- added: Find the Salesforce fields, flows and validation rules only your senior can explain
+- added: Juan Manuel Garrido
+- added: # salesforce
+- added: # documentation
+- added: What Worked and What Didn't Building a Design Engineering Function
+- added: James Coombs
+- added: # leadership
+- added: A green graph is not a résumé — so we built a GitHub contribution filler you can undo
+- added: RetroFill
+- removed: 27 reactions
+- removed: 24 comments
+- removed: Is WordPress Still a Good Choice for a New Client Site in 2026? Be Honest.
+- removed: Hannan Shoukat
+- removed: # wordpress
 
-## [JustAI](https://www.getjust.ai/careers)
+## [Golpo](https://video.golpoai.com/careers)
 
-- added: Join our team.
 - added: View open roles
-- added: Go-to-market
-- added: Account Executive, Enterprise
-- added: $150K–$350K 0.10%–0.50% equity San Francisco, FiDi · On site, 5 days a week · 3–5 years · Up to 30% travel View role
-- added: About JustAI
-- added: JustAI is a full-stack agentic marketing platform. We help growth & marketing teams run hyper-personalized marketing using AI. JustAI learns what works for each person, gets better on its own, and sho
-- added: The role
-- added: You’ll own revenue from first outreach to signed contract, working directly with our CEO. This is a hands-on seat for a builder: you’ll run the full sales motion while shaping the playbook the rest of
-- added: What you’ll do
-- added: Run full sales cycles: prospecting, discovery, demos, negotiation and close
-- added: Sell to CMOs, VPs of Growth and lifecycle leaders at high-growth consumer brands
-- added: Build your own pipeline through outbound, inbound follow-up and events
-- added: Lead pricing, contract and deal-structure conversations
-- added: Bring what you hear from customers back to product and marketing
-- removed: our agents write for
-- removed: Coursera Notion ClickUp Lemonade Mercury Outschool Pinterest Namecheap Better Handshake Experian Coursera Notion ClickUp Lemonade Mercury Outschool Pinterest Namecheap Better Handshake Experian
-- removed: now hiring
-- removed: We taught machines to market.
-- removed: now we need humans.
+- added: Use the application form to share your résumé, top skills, and top experiences. Prefer email? Write to career@golpoai.com with the subject:
+- added: Strong applications include:
+- added: Learn more about Golpo
+- removed: View open roles career@golpoai.com
+- removed: Apply now
+- removed: Email your résumé and a brief results summary to career@golpoai.com . Use the subject:
+- removed: Please include:
+- removed: Apply for Sales Lead
 
-## [Lucidic AI](https://lucidic.ai/careers/)
+## [ownCloud](https://owncloud.com/career/)
 
-- added: Applied Research San Francisco, CA Full-time On-site
-- added: Join Lucidic AI as a Founding Applied Research Engineer to develop and deploy cutting-edge optimization algorithms for enterprise AI agents. You will work directly with customers to understand their a
-- added: Product San Francisco, CA Full-time On-site
-- added: We're looking for a Product Engineer to own the end-to-end development of Lucidic's optimization platform. You will build intuitive interfaces that help enterprise teams measure, improve, and deploy t
-- added: Other San Francisco, CA Full-time On-site
-- added: Don't see a role that fits? We're always looking for exceptional people who are excited about building the future of AI agent optimization. Tell us about yourself and how you'd like to contribute to L
-- removed: LUCIDIC AI
-- removed: How It Works
-- removed: Case Studies
-- removed: Research
-- removed: Careers
+- added: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1794668410 uolcn 1794668410 wo@kr 1794668410 
+- added: Please send us your application via e-mail to moc.d 1794668410 uolcn 1794668410 wo@kr 1794668410 ow 1794668410 – We will get back to you as soon as possible.
+- removed: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1794580534 uolcn 1794580534 wo@kr 1794580534 
+- removed: Please send us your application via e-mail to moc.d 1794580534 uolcn 1794580534 wo@kr 1794580534 ow 1794580534 – We will get back to you as soon as possible.
 
-## [Odoo](https://www.odoo.com/jobs)
+## [Skill-lync](https://skill-lync.com/recent-placements)
 
-- added: All Countries 186
-- added: Mexico 9
-- added: 186
-- added: Customer Care Associate, French
-- removed: All Countries 185
-- removed: Mexico 8
-- removed: 185
-- removed: Partner Account Executive, French
+- added: Associate Mechanical
+- added: Naresh K. PG · Hybrid Electric Vehicle Design and Analysis
+- removed: Diwali Every Diwali, we upgrade something. This year, upgrade your career. ₹ 60,000 Diwali Scholarship 52 seats left Offer ends Sun, 8 Nov, 11:59 pm IST.
+- removed: Diwali Scholarship
+- removed: Every Diwali, we upgrade something. This year, upgrade your career.
+- removed: Get a ₹ 60,000 Diwali Scholarship on our PG programs with IIT Jammu and IIT Roorkee. 12-month programs, IIT certificate and 100% placement assistance.
+- removed: Only 52 seats left. Offer ends Sun, 8 Nov, 11:59 pm IST
 
-## [Saleor](https://saleor.io/)
+## [SmartHelio](https://smarthelio.com/careers/)
 
-- added: 432,034
-- added: 877,115
-- added: 2 days ago 3.23.49
-- added: 11 days ago 3.22.77
-- added: 3.23.49 2 days ago
-- added: 3.22.77 11 days ago
-- removed: 861,518
-- removed: 1 day ago 3.23.49
-- removed: 10 days ago 3.22.77
-- removed: 3.23.49 1 day ago
-- removed: 3.22.77 10 days ago
+- added: November 13, 2026
+- added: Case Study: Your battery is earning revenue. What is it spending to get there?
+- added: Predictive Analytics , BESS , Data , AI
+- added: BESS , Technical Paper
+- added: AI , Predictive Analytics , Faults , Data
+- removed: Technical Paper , BESS
+- removed: Faults , Data , AI , Predictive Analytics
+- removed: October 13, 2026
+- removed: Italy’s Solar Curtailment: Challenges and the Role of BESS
+- removed: Article , BESS , AI
 
-## [Truewind](https://www.truewind.ai/careers)
+## [Swadesi Way](https://swadesiway.com/explore)
 
-- added: Partnership Lead
+- added: Organic Kiwi
+- added: Price range: ₹135.00 through ₹300.00
+- added: 3 pcs (220-280 gm)
+- added: 6 pcs (450 - 550 gm)
+- added: 9 pcs (700 - 800 gm)
+- added: Organic Kiwi quantity
+- added: Organic Potato
+- added: ₹ 75.00
+- added: Organic Potato quantity
+- added: Desi Lauki (Bottle Gourd)
+- added: 600 g
+- added: Desi Lauki (Bottle Gourd) quantity
+- added: ₹ 90.00
+- added: Organic Kumbhkat Lemon
+- added: Organic Kumbhkat Lemon quantity
+- removed: Organic Desi Amla
+- removed: Organic Desi Amla quantity
+- removed: Frozen Alphonso Mango Pulp (100% Pure & Natural)
+- removed: Price range: ₹550.00 through ₹1,250.00
+- removed: Frozen Alphonso Mango Pulp (100% Pure & Natural) quantity
 
 ## [Upworthy](https://www.upworthy.com/jobs-that-pay-well-people-dont-realize/)
 
-- added: In Partnership With Operation Smile →
-- added: An Operation Smile volunteer reverses an oxygen mask so a child with a cleft condition can blow a bubble for the first time in Guadalajara, Mexico. (Operation Smile Photos)
-- added: Family , Science
-- added: How Bubbles Help Kids with Cleft Conditions
-- added: For thousands of children born with cleft conditions, Operation Smile provides simple, playful tools—like bubbles—to strengthen the skills they need to speak and thrive.
-- added: Sarah Watts
-- added: 5/11/2026
-- added: While a bottle of bubbles might seem out of place in a hospital setting, you might be surprised to learn that, for thousands of children around the world born with cleft lip and palate, they can be a 
-- added: As a toddler, Lilia underwent two surgeries to treat cleft lip and palate with Operation Smile’s surgical program in Puebla, Mexico. Because of Operation Smile’s comprehensive care, it wasn’t long bef
-- added: Lilia is now a healthy five-year-old, with the same cheerful attitude and boundless energy. Her progress is the result of care at every level, from surgery to speech therapy to ongoing support at home
-- added: Lilia at age 1, before surgery, and at age 5, 4 years post-surgery
-- added: Cleft Conditions: A Global Problem
-- added: Since 1982, Operation Smile has provided cleft lip and cleft palate surgeries to more than 500,000 patients worldwide with the help of generous volunteers and donors. Cleft conditions are congenital c
-- added: Surgery is a vital step in treating cleft conditions, but it’s also just one part of a much larger solution. Organizations like Operation Smile emphasize the importance of multi-disciplinary teams tha
-- added: Marie, 11 months, with her mother at Operation Smile Madagascar before her cleft surgery (Operation Smile Photos)
-- removed: Watch on
-- removed: Life Hacks
-- removed: The classic ‘two envelope problem’ riddle pits math against psychology
-- removed: A birth mother called to reject an adoption. Their answering machine greeting changed her mind.
-- removed: A 1991 Wisconsin news report didn’t have high hopes for Gen X youth. We proved them wrong.
-
-## [Vesence](https://www.vesence.com/careers)
-
-- added: See open roles 11 roles in San Francisco and Stockholm
-- added: Vesence at startups
-- added: Founders and small teams running the whole company.
-- added: 11 roles across go-to-market, engineering and operations, in Stockholm and San Francisco. We're early, and everyone who joins now shapes what Vesence becomes.
-- added: Sweden · 7 roles
-- added: GTM
-- added: Apply for GTM in Stockholm
-- removed: See open roles 12 roles in San Francisco and Stockholm
-- removed: Vesence at investment firms
-- removed: Private equity, venture capital, and asset managers.
-- removed: 12 roles across go-to-market, engineering and operations, in Stockholm and San Francisco. We're early, and everyone who joins now shapes what Vesence becomes.
-- removed: Sweden · 8 roles
-
-## [Andon Labs](https://andonlabs.com/join) (minor change)
-
-- added: Compensation: $120k–$230k salary and $300k–$900k in equity.
-- removed: Compensation: $120k–$180k salary and $300k–$900k in equity.
+- added: Watch on
+- added: Experts say this belief makes facing death more comforting than believing in an afterlife
+- added: Scientists studied thousands of conversations and found the repeatable pattern behind ‘chemistry’
+- added: Mental Health
+- added: Goldie Hawn says this simple happiness habit helps keep her depression at bay
+- added: A satellite image revealed a Roman villa beneath his family’s field and a Trojan War mystery
+- added: From Cyndi Lauper to Michael Jackson, talented singer impersonates nearly ‘We Are the World’ artist
+- added: Education
+- added: ‘Frozen’ animator launches an interactive ASL learning app and vows to keep it free forever
+- added: Evan Porter & Upworthy Staff
+- added: Finally, someone explains why everyone needs subtitles when watching TV
+- added: Jacalyn Wetzel & Upworthy Staff
+- added: Under or over? There actually is a ‘right’ way to hang a toilet paper roll.
+- added: Annie Reneau & Upworthy Staff
+- added: American orders Olive Garden-style chicken parm in Italy and the waiter’s response is perfect
+- removed: In Partnership With Operation Smile →
+- removed: An Operation Smile volunteer reverses an oxygen mask so a child with a cleft condition can blow a bubble for the first time in Guadalajara, Mexico. (Operation Smile Photos)
+- removed: Family , Science
+- removed: How Bubbles Help Kids with Cleft Conditions
+- removed: For thousands of children born with cleft conditions, Operation Smile provides simple, playful tools—like bubbles—to strengthen the skills they need to speak and thrive.
 
 ## [Asha Health](https://careers.asha.health/) (minor change)
 
-- added: {"message":"I am alive","env":"production","timestamp":"2026-11-14T08:03:04.435Z"}
-- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-13T20:42:19.035Z"}
+- added: {"message":"I am alive","env":"production","timestamp":"2026-11-14T18:54:17.106Z"}
+- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-14T08:03:04.435Z"}
 
 ## [Bacula Systems](https://www.baculasystems.com/company/careers/) (minor change)
 
-- added: network backup
-- added: docker volume backup
-- added: mariadb backup
-- removed: sybase backup
-- removed: cdp backup
-- removed: hpc data center
+- added: ndmp backup
+- added: sybase backup
+- added: mssql backup
+- removed: network backup
+- removed: docker volume backup
+- removed: mariadb backup
 
 ## [Casco](https://casco.com/careers) (minor change)
 
-- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-84761
-- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-128128
+- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-112359
+- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-84761
+
+## [Cognizant](https://careers.cognizant.com/india-en/) (minor change)
+
+- added: SAP Vistex Functional
+- removed: Senior Service Designer
+- removed: Director, Portfolio Marketing - Enterprise Platforms
+- removed: Noida, Uttar Pradesh, India
+- removed: Work from Home
+- removed: Corporate
 
 ## [DappRadar](https://dappradar.com/careers) (minor change)
 
-- added: AKE $0.0127 +180.00% H $0.02 -20.00% PONS $0.134 -18.16% BTW $0.7714 -16.31% PEARL $1.55 +15.50% ETHFI $0.5602 -9.63% INJ $7.99 +7.63% ENA $0.1275 -7.22% ICP $2.41 -7.19% FIL $0.6817 -6.91% PYTH $0.06
-- removed: AKE $0.0125 +366.74% BTW $0.7598 -23.42% INJ $8.15 +9.88% PEARL $1.54 +9.66% AERO $0.4755 -9.17% VELVET $0.0534 +8.27% ETHFI $0.5781 -7.49% SKYAI $0.0373 +6.75% BEAT $0.0815 +5.72% FLR $0.0₂505 -3.96%
+- added: H $0.0178 -24.00% PONS $0.1177 -18.13% PENGU $0.0₂511 -17.09% PUMP $0.0₂295 -15.55% UNI $4.94 -14.82% ETHFI $0.498 -14.09% LAB $0.0335 -13.44% APT $0.4718 -13.40% ENA $0.1185 -13.38% VIRTUAL $0.4544 -
+- removed: AKE $0.0127 +180.00% H $0.02 -20.00% PONS $0.134 -18.16% BTW $0.7714 -16.31% PEARL $1.55 +15.50% ETHFI $0.5602 -9.63% INJ $7.99 +7.63% ENA $0.1275 -7.22% ICP $2.41 -7.19% FIL $0.6817 -6.91% PYTH $0.06
 
-## [Data Science Dojo](https://datasciencedojo.com/about/careers/) (minor change)
+## [Entocycle](https://entocycle.com/careers) (minor change)
 
-- added: 2 Open roles
-- added: 2 roles · 2 teams
-- removed: 3 Open roles
-- removed: 3 roles · 2 teams
-- removed: Engineering Software Engineer - Infrastructure Remote · Full-Time
-
-## [Evrone](https://evrone.com/hiring) (minor change)
-
-- added: +1 415 425 2526
-- added: 44 Tehama St, San Francisco, CA 94105
-- removed: +49 176 24514399
-- removed: Kemperplatz 1, 10785 Berlin
-
-## [Jcode](https://jcode.sh/careers) (minor change)
-
-- added: 2026-10-24 · 21d ago
-- added: 2026-10-22 · 23d ago
-- removed: 2026-10-24 · 20d ago
-- removed: 2026-10-22 · 22d ago
+- removed: “If you want to play a positive part in the future of our planet, look no further than Entocycle”
+- removed: Escape The City
+- removed: Open Roles
+- removed: Available Roles:
 
 ## [Jinba](https://jinba.io/careers) (minor change)
 
-- added: 61°F
-- added: 54°F
-- removed: 52°F
-- removed: 57°F
+- added: 52°F
+- added: 59°F
+- removed: 61°F
+- removed: 54°F
 
-## [Joyent](https://www.joyent.com/careers/) (minor change)
+## [Kotzilla](https://kotzilla.io/) (minor change)
 
-- removed: Software Engineer — DBA
-- removed: US Remote
+- added: European Solution
 
 ## [Langfuse](https://langfuse.com/careers) (minor change)
 
-- added: Langfuse is the most widely adopted open-source LLM engineering platform , used by 50,000+ companies , with 37,407 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 o
-- removed: Langfuse is the most widely adopted open-source LLM engineering platform , used by 50,000+ companies , with 37,393 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 o
+- added: Langfuse is the most widely adopted open-source LLM engineering platform , used by 50,000+ companies , with 37,426 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 o
+- removed: Langfuse is the most widely adopted open-source LLM engineering platform , used by 50,000+ companies , with 37,407 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 o
 
-## [Ollie Order](https://ollieorder.com/) (minor change)
+## [PumpGTM](https://pumpgtm.com/solutions/hiring-signals) (minor change)
 
-- added: Most reviewed craft beverage management software and ERP as of November 14, 2026
-- removed: Most reviewed craft beverage management software and ERP as of November 13, 2026
+- added: Backed by Y Combinator
+- added: Backed by Entrepreneurs First
 
-## [Qovery](https://www.qovery.com/careers) (minor change)
+## [Redgate Software](https://www.red-gate.com/our-company/careers/current-opportunities/) (minor change)
 
-- added: Nov 17, live webinar: ECS to EKS without freezing the roadmap for a quarter
-- added: Register
-- removed: Nov 12, Paris: Agents in production, beyond the demo. An evening at Alan with Qovery and AWS
-- removed: Save your seat
+- removed: Redgate’s email systems are impacted by the Microsoft outage. If you are trying to get in touch with Redgate and your message is urgent, click here to contact us .
 
-## [Swadesi Way](https://swadesiway.com/explore) (minor change)
+## [Saleor](https://saleor.io/) (minor change)
 
-- added: Showing 1–12 of 127 results
-- removed: Showing 1–12 of 134 results
-- removed: Desi Methi Leaves (with holes & spots)
-- removed: ₹ 75.00
-- removed: Desi Methi Leaves (with holes & spots) quantity
-- removed: Desi Lauki (Bottle Gourd)
-
-## [Synphony](https://www.synphony.co/careers) (minor change)
-
-- added: Lower your costs. Scale production. Maximize uptime. Transform your industry. Synphony Robotics builds robots that take on physical jobs inside real facilities.
-- removed: Lower your costs. Get more done. Transform your industry. Synphony Robotics builds robots that take on physical jobs inside real facilities.
+- added: 773,912
+- removed: 432,034
 
 ## [The Centre for Effective Altruism](https://www.effectivealtruism.org/careers) (minor change)
 
-- added: 12 subscribed today
-- removed: 21 subscribed today
-
-## [The Essential](https://theessential.com/pages/join) (minor change)
-
-- added: Lounge Chairs 21% Off
-- removed: Buy One Lamp Get One 50% Off
+- added: 14 subscribed today
+- removed: 12 subscribed today
 
 ## [VideoLingo](https://videolingo.io/careers.html) (minor change)
 
-- added: 19246 Stars
-- removed: 19239 Stars
-
-## [Vivo](https://vivo.gupy.io/) (minor change)
-
-- added: 69 jobs found for 0 filters applied
-- added: Job for Full-time employee: Analista de Trade Marketing Pleno | Campinas/SP
-- removed: 76 jobs found for 0 filters applied
-- removed: Job for Full-time employee: Analista Telecom Júnior
+- added: 19251 Stars
+- removed: 19246 Stars
 
 ## [Wazuh](https://wazuh.com/careers/) (minor change)
 
-- added: Content Team
+- removed: Content Team
+
+## [WikiHow](https://www.wikihow.com/wikiHow:Jobs) (minor change)
+
+- added: 217
+- removed: 186
 
 ## [Zidisha](https://www.zidisha.org/careers.html) (minor change)
 
-- added: 1 % raised · $177 to go
-- added: Grain storage business
-- added: Abuja, Nigeria
-- added: By Oluwaseun Food Retail
-- removed: 7 % raised · $59 to go
-- removed: Joy beauty products
-- removed: By Joyce Beauty
+- added: 86 % raised · $7 to go
+- added: 16 % raised · $104 to go
+- removed: 40 % raised · $31 to go
+- removed: 0 % raised · $124 to go
 
 ## Pages failing for 3+ checks
 
@@ -298,6 +221,7 @@ Checked 2026-11-14 08:04 UTC: 1757 pages, 31 changed, 10 look like new postings.
 - icepanel.io: no readable text (JavaScript page?)
 - darsel.tech: no readable text (JavaScript page?)
 - outtalent.com: no readable text (JavaScript page?)
+- shardeum.org: failed (robots)
 - item.app: failed (HTTP 404)
 - revoy.com: no readable text (JavaScript page?)
 - aiosmedical.notion.site: no readable text (JavaScript page?)
@@ -448,6 +372,7 @@ Checked 2026-11-14 08:04 UTC: 1757 pages, 31 changed, 10 look like new postings.
 - jestor.com: no readable text (JavaScript page?)
 - julep.ai: no readable text (JavaScript page?)
 - kanopy-ai.com: no readable text (JavaScript page?)
+- karboncard.com: failed (ssl)
 - getkosh.com: no readable text (JavaScript page?)
 - koyal.ai: no readable text (JavaScript page?)
 - kredi.mx: no readable text (JavaScript page?)
