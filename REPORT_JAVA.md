@@ -1,23 +1,21 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**176 jobs**, newest first. Updated Sat Nov 14, 3:51 PM CST from 10,713 company job boards and other sources.
+**174 jobs**, newest first. Updated Sat Nov 14, 4:50 PM CST from 10,713 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 128 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 59 matching jobs that job sites and feeds listed this week, 17 (28%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 62 matching jobs that job sites and feeds listed this week, 17 (27%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sat 14 (78)](#saturday-nov-14-78) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (18)](#tuesday-nov-10-18) · [Mon 9 (11)](#monday-nov-9-11) · [Sun 8 (3)](#sunday-nov-8-3)
+Jump to: [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (18)](#tuesday-nov-10-18) · [Mon 9 (11)](#monday-nov-9-11) · [Sun 8 (3)](#sunday-nov-8-3)
 
-## Saturday, Nov 14 (78)
+## Saturday, Nov 14 (76)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 3:51 PM (seen) | [Java Gen AI  Engineer](https://crackajackdigitalsolutionsllc.applytojob.com/apply/Vj6oFeCVt3/Java-Gen-AI-Engineer) | CrackaJack Digital Solutions … | Remote | 55 | 1+ yrs exp; location unclear |
 | 3:51 PM (seen) | [Application Developer-Java & Web Technologies](https://careers.ibm.com/careers/JobDetail?jobId=135181) | IBM | Multiple Cities (hybrid) | 50 |  |
-| 3:51 PM (seen) | [Jr Java Developer FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16721096-Jr-Java-Developer--FS-Poly/) | 33704Placement |  | 55 | entry-level title; 4+ yrs exp |
-| 3:51 PM (seen) | [FullStack Software Engineer Java FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16721068-FullStack-Software-Engineer-Java--FS-Poly/) | 33704Placement |  | 45 | location unclear |
 | 3:51 PM (seen) | [Sr Java Application Developer](https://jpc.catsone.com/careers/6988-General/jobs/16873387-Sr-Java-Application-Developer/) | Jpc |  | 35 | senior title, years not stated; location unclear |
 | 3:51 PM (seen) | [Senior Java Developer](https://jpc.catsone.com/careers/6988-General/jobs/16824232-Senior-Java-Developer/) | Jpc |  | 35 | senior title, years not stated; location unclear |
 | 3:51 PM (seen) | [Senior Software Engineer Java Kotlin](https://robertsrecruiting.catsone.com/careers/33035-General/jobs/13182001-Senior-Software-Engineer-Java-Kotlin/) | Robertsrecruiting |  | 35 | senior title, years not stated; staffing/consulting firm: verify it's… |
@@ -221,7 +219,7 @@ Jump to: [Sat 14 (78)](#saturday-nov-14-78) · [Fri 13 (20)](#friday-nov-13-20) 
 | date only | [2027 Technology Development Program - Software Engineering (Enterpris…](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035) | M&T Bank | Buffalo, NY (hybrid) | 43 | requires Java |
 | 2:00 AM | [Software Developer Engineer II](https://www.optimumcareers.com/job/Bethpage-Software-Developer-Engineer-II-NY-11714/1429221300/) | Altice USA | Bethpage, NY, United States | 23 | 3+ yrs exp; no future H-1B sponsorship; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (274)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (276)
 
 <details><summary>Show</summary>
 
@@ -363,6 +361,8 @@ Jump to: [Sat 14 (78)](#saturday-nov-14-78) · [Fri 13 (20)](#friday-nov-13-20) 
 | 3:51 PM (seen) | [Pricefx Integration Engineer](https://canidium.catsone.com/careers/736-General/jobs/16855489-Pricefx-Integration-Engineer-P2/) | Canidium |  | 15 | rules: 5+ yrs exp; requires Java; asks for 5+ years of experience |
 | 3:51 PM (seen) | [Software Engineer Fulltime Huntsville AL DK](https://cbsinfosys.catsone.com/careers/4147-Central-Business-Solutions-Inc/jobs/16831257-Software-Engineer--Fulltime--Huntsville-AL--DK/) | Cbsinfosys |  | 35 | rules: requires Java; needs: Secret Clearance |
 | 3:51 PM (seen) | [Software Developer](https://trinityesllc.applytojob.com/apply/MsFccRFeBh/Software-Developer) | Trinityesllc | Herndon, VA | 35 | rules: requires Java; needs: TS clearance |
+| 3:51 PM (seen) | [Jr Java Developer FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16721096-Jr-Java-Developer--FS-Poly/) | 33704Placement |  | 55 | rules: role or location no longer in the target list |
+| 3:51 PM (seen) | [FullStack Software Engineer Java FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16721068-FullStack-Software-Engineer-Java--FS-Poly/) | 33704Placement |  | 45 | rules: role or location no longer in the target list |
 | 8:00 PM | [Full Stack Developer - Java/ React](https://careers.capgemini.com/job/Atlanta-Full-Stack-Developer-Java-React-GA-30301/1428050933/) | Capgemini | Atlanta, United States +1 more | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:00 PM | [Java Full Stack Engineer](https://careers.capgemini.com/job/Dallas%2C-TX-Java-Full-Stack-Engineer-TX-75201/1448560233/) | Capgemini | Dallas, TX, United States | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 5:05 PM | [Sr Software Engineer I - Java - Ace Studio Platform](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008913) | American Express | Sunrise, FL, United States (hybrid) | 60 | rules: entry-level title; 10+ yrs exp; senior title; asks for 10+ yea… |
