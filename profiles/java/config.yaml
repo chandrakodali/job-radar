@@ -289,6 +289,11 @@ report:
 sources:
   email_alerts: true
   email_days: 4
+  adzuna:
+    calls_per_run: 2
+    limits: {d: 25, w: 160, m: 700}   # free key shared by DevOps, Auto and Java radars
+    max_days_old: 7
+    terms: ['java developer', 'java software engineer', 'java engineer', 'java full stack developer', 'spring boot developer', 'j2ee developer', 'backend java developer', 'java microservices']
   workable_search:
     every_minutes: 180
     days: 7

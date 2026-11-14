@@ -459,8 +459,11 @@ def assess(job: Job, board: Board, rules: Rules, category: str, now: datetime | 
             thin_bridge = named < rules.bridge_min
             if rules.bridge_required and not thin_bridge:
                 from .rank import sections
-                req = sections(desc).get("required", "")
-                thin_bridge = not all(p.search(req) or len(p.findall(desc)) >= rules.bridge_required_count
+                sec = sections(desc)
+                # part of the job: named in the requirements, the duties or the tech stack, not only as a
+                # nice-to-have (or named often enough anywhere)
+                core_text = " ".join(sec.get(k, "") for k in ("required", "duties", "other"))
+                thin_bridge = not all(p.search(core_text) or len(p.findall(desc)) >= rules.bridge_required_count
                                       for p in rules.bridge_required)
         elif rules.bridge_needs_text:
             thin_bridge = True

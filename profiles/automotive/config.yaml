@@ -127,7 +127,7 @@ sources:
   email_days: 4
   adzuna:                  # ADZUNA_APP_ID + ADZUNA_APP_KEY (free key at developer.adzuna.com)
     calls_per_run: 4       # 8 runs a day = 32 calls; the free key is shared with the DevOps radar
-    limits: {d: 40, w: 230, m: 1000}
+    limits: {d: 25, w: 160, m: 700}   # free key shared by DevOps, Auto and Java radars
     max_days_old: 7
     terms:
       - 'AUTOSAR'

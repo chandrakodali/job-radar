@@ -364,7 +364,7 @@ sources:
   email_days: 4
   adzuna:                  # ADZUNA_APP_ID + ADZUNA_APP_KEY; the free key is shared with the automotive radar
     calls_per_run: 1       # 48 runs a day
-    limits: {d: 45, w: 300, m: 1300}
+    limits: {d: 30, w: 200, m: 850}   # free key shared by DevOps, Auto and Java radars
     max_days_old: 7
     terms:
       - 'devops engineer'

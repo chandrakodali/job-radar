@@ -529,6 +529,8 @@ def run(args) -> int:
                                   and a.years >= rules.hide_if_years_at_least else
                                   "clearance/citizenship" if a.blocker else "other")
         funnel[f"{cat}: {why}"] += 1
+        if a.status == "old" and not j.description:
+            funnel[f"{cat}: no text from {j.ats}"] += 1
         state["seen"][j.uid] = today
         if a.location_class == "non_us" or a.status == "old":
             continue
