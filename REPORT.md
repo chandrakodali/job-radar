@@ -1,19 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**318 jobs**, newest first. Updated Sat Nov 14, 11:07 AM CST from 7,552 company job boards and other sources.
+**324 jobs**, newest first. Updated Sat Nov 14, 11:37 AM CST from 7,552 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 35 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 503 matching jobs that job sites and feeds listed this week, 84 (16%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 507 matching jobs that job sites and feeds listed this week, 84 (16%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sat 14 (2)](#saturday-nov-14-2) · [Fri 13 (47)](#friday-nov-13-47) · [Thu 12 (83)](#thursday-nov-12-83) · [Wed 11 (39)](#wednesday-nov-11-39) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (42)](#monday-nov-9-42) · [Sun 8 (35)](#sunday-nov-8-35)
+Jump to: [Sat 14 (4)](#saturday-nov-14-4) · [Fri 13 (47)](#friday-nov-13-47) · [Thu 12 (83)](#thursday-nov-12-83) · [Wed 11 (39)](#wednesday-nov-11-39) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (46)](#monday-nov-9-46) · [Sun 8 (35)](#sunday-nov-8-35)
 
-## Saturday, Nov 14 (2)
+## Saturday, Nov 14 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:32 AM | [DevOps Security Engineer](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013709) | Emerson Electric | Shakopee, MN, United States (hybrid) | 60 | 3+ yrs exp; no future H-1B sponsorship |
+| 11:09 AM | [Founding Engineer, Infrastructure](https://jobs.ashbyhq.com/Clera/bf0c74e8-63ef-4b00-8319-5dc1d61ba083) | Clera | San Francisco (onsite) | 75 | sponsors visas; repost |
 | date only | [Machine Learning Infrastructure Engineer](https://apply.workable.com/raydar/j/A0FB08A1A8/) | Raydar | San Francisco, California, United States | 65 | repost |
 | date only | [Senior Cloud Infrastructure Engineer](https://apply.workable.com/raydar/j/6D4A3A5075/) | Raydar | United States (remote) | 52 | senior title, years not stated |
 
@@ -276,7 +278,7 @@ Jump to: [Sat 14 (2)](#saturday-nov-14-2) · [Fri 13 (47)](#friday-nov-13-47) ·
 | 2:00 AM | [Sr. Cloud Software Engineer](https://jobs.supermicro.com/job/San-Jose-Sr_-Cloud-Software-Engineer-Cali/1439207800/) | Super Micro Computer | San Jose, California, United States | 48 | senior title, years not stated |
 | 2:00 AM | [Sr Platform Engineer](https://careers.thehersheycompany.com/job/Dallas-Sr-Platform-Engineer-TX-75201/1438643100/) | Hershey | Dallas, TX, US | 53 | 3+ yrs exp; senior title |
 
-## Monday, Nov 9 (42)
+## Monday, Nov 9 (46)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -318,6 +320,10 @@ Jump to: [Sat 14 (2)](#saturday-nov-14-2) · [Fri 13 (47)](#friday-nov-13-47) ·
 | date only | [Sr. Software Engineer, DNS and Cloud Infrastructure](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Sr-Software-Engineer--DNS-and-Cloud-Infrastructure_JR364969) | Salesforce | Washington - Bellevue; California - San… | 38 | senior title, years not stated |
 | date only | [Trading Application Support Engineer, Senior Associate](https://statestreet.wd1.myworkdayjobs.com/eQuest/job/Boston-Massachusetts/Application-Support--Senior-Associate_R-790785) | State Street | Boston, Massachusetts | 38 | entry-level title; senior title, years not stated |
 | date only | [Monitoring Engineer](https://unisys.wd5.myworkdayjobs.com/External/job/USA-CT-Remote/Monitoring-Engineer_REQ576953) | Unisys | USA CT Remote (remote) | 30 | 3+ yrs exp |
+| date only | [Data Platform Engineer, Cybersecurity  Operations](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Data-Platform-Engineer--Cybersecurity--Operations_26997079) | Citi | Irving Texas United States (hybrid) | 58 |  |
+| date only | [Data Center Capacity Engineer II  (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Center-Capacity-Engineer-II---Remote-_R30720) | Crowdstrike | USA - Remote (remote) | 35 | E-Verify |
+| date only | [Senior Customer Reliability Engineer](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Sao-Paulo/Senior-Customer-Reliability-Engineer_R5058445) | GE Vernova | Sao Paulo; Remote; Atlanta; Toronto; Me… (remote) | 40 | senior title, years not stated |
+| date only | [AI Platform Engineer](https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/San-Francisco-CA/Senior-AI-Platform-Engineer_R46524-1) | SS&C | San Francisco, CA | 48 | 3+ yrs exp |
 | 10:57 AM | [(1120051) Cloud Infrastructure Engineer](https://jobs.workable.com/view/wyKzVqFVT9iTsibefcq9cU/hybrid-(1120051)-cloud-infrastructure-engineer-in-broomfield-at-diversified-services-network%2C-inc.) | Diversified Services Network,… | Broomfield, Colorado (hybrid) | 58 |  |
 | 10:42 AM | [Software Engineer, Web Infrastructure](https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042) | Notion | San Francisco, California; New York, Ne… (hybrid) | 70 |  |
 | 9:17 AM | [Systems Reliability Engineer - All Levels](https://jobs.ashbyhq.com/allen-control-systems/3075ceee-6a85-4170-9ffc-3e2f11697db7) | Allen Control Systems | Austin, TX | 65 |  |
@@ -363,12 +369,13 @@ Jump to: [Sat 14 (2)](#saturday-nov-14-2) · [Fri 13 (47)](#friday-nov-13-47) ·
 | 4:32 PM | [Software Automation & Platform Engineer — Federal Health IT](https://job-boards.greenhouse.io/rackner/jobs/4752573005) | Rackner | Remote — United States (remote) | 62 |  |
 | date only | [Senior Cloud Security Engineer](https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-Cloud-Security-Engineer_R03389) | Altera | San Jose, California, United States | 43 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (697)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (708)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:20 AM | [Platform Engineer, Kubernetes](https://jobs.ashbyhq.com/Clera/dd57a8f6-ca07-43cc-8191-5ebc413d810e) | Clera | San Francisco (onsite) | 55 | rules: 5+ yrs exp; sponsors visas; asks for 5+ years of experience |
 | 6:00 PM | [Sr Network Engineer](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7099) | Black Box | United States | 30 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | 4:37 PM | [Network Administrator-Senior](https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8434) | UTHealth Houston | San Antonio, TX, United States (hybrid) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 4:30 PM | [Senior Engineer, Workplace Platform Engineering](https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21015334) | Kroll | Atlanta, GA, United States; Nashville, … | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
@@ -415,6 +422,7 @@ Jump to: [Sat 14 (2)](#saturday-nov-14-2) · [Fri 13 (47)](#friday-nov-13-47) ·
 | date only | [Azure Cloud Reliability Engineer](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Site-Reliability-Engineer_R57303) | Trimble | US - CO, Westminster; US - NH, Portsmou… (onsite) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [Network Engineer II](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605841&lang=en) | D.R. Horton | TX-Arlington | 45 | rules: adjacent title, little DevOps/cloud work in the text |
 | date only | [Senior Full Stack Software Engineer – CAD Infrastructure Team](https://qualcomm.eightfold.ai/careers/job/446719899052) | Qualcomm | Santa Clara, CA, US; Folsom, CA, US (onsite) | 38 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
+| date only | [Reliability Engineer](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Richmond-Virginia-United-States/Reliability-Engineer_R-180293) | Mondelez International | Richmond, Virginia, United States | 53 | rules: 2+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | 10:49 AM | [Senior Site Reliability Engineer](https://job-boards.greenhouse.io/beaconbiosignals/jobs/4506672009) | Beaconbiosignals | Boston, MA / Remote (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 9:55 AM | [Cleared Systems Administrator](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4729338006) | STR | Woburn,MA | 45 | rules: 3+ yrs exp; needs: security clearance |
 | 9:34 AM | [System Administrator – Platform Engineer](https://job-boards.greenhouse.io/electrosoft/jobs/4506532009) | Electrosoft | Atlanta, GA | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
@@ -556,6 +564,7 @@ Jump to: [Sat 14 (2)](#saturday-nov-14-2) · [Fri 13 (47)](#friday-nov-13-47) ·
 | date only | [Reliability Engineer](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Tar-Heel-NC/Reliability-Engineer_R-2026-15910) | Smithfield Foods | Tar Heel, NC (onsite) | 58 | rules: 2+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | date only | [Reliability Engineer (Hellmann's Mayo Factory)](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Chicago-IL/Reliability-Lead_R-1186348) | Unilever | Chicago, IL | 38 | rules: 4+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | date only | [Mainframe Reliability Engineer 2](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Mainframe-Reliability-Engineer-2_2026-0035449) | U.S. Bank | Hopkins, MN; Gresham, OR; Cincinnati, O… | 43 | rules: E-Verify; adjacent title, little DevOps/cloud work in the text |
+| date only | [Senior DevOps Engineer](https://lseg.wd3.myworkdayjobs.com/Careers/job/St-Loui-Missouri/Senior-DevOps-Engineer_R0124420) | LSEG | St. Loui, Missouri | 33 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 10:38 AM | [Site Reliability Engineer, Mistral Cloud](https://jobs.ashbyhq.com/mistral.ai/fe471824-c80a-4ea4-9625-2217f81c52ae) | Mistral AI | New York | 45 | asks for 5+ years of experience; 5+ yrs exp |
 | 10:10 AM | [Senior Network Engineer](https://careers.akima.com/jobs/27701?lang=en-us) | Akima | Hurlburt Field, Florida | 33 | rules: senior title, years not stated; needs: Active TS/SCI |
 | 10:06 AM | [Systems Administrator](https://careers.akima.com/jobs/27659?lang=en-us) | Akima | Norfolk, Virginia | 30 | rules: 10+ yrs exp; needs: Secret clearance |
@@ -634,6 +643,7 @@ Jump to: [Sat 14 (2)](#saturday-nov-14-2) · [Fri 13 (47)](#friday-nov-13-47) ·
 | date only | [Senior Software Platform Engineer, MLOps](https://apply.workable.com/tetrascience/j/9CA82FE870/) | TetraScience | Cambridge, Massachusetts, United States… | 43 | rules: 7+ yrs exp; senior title; sponsors visas; asks for 7+ years of… |
 | date only | [Quality/Reliability Engineer II](https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Quality-Reliability-Engineer-II_R79324) | Milwaukee Tool | Brookfield, WI | 48 | rules: 2+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | date only | [Lab Tech Ops](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Branchburg/Lab-Tech-Ops_202610-127860-1) | Roche | Branchburg | 43 | rules: adjacent title, little DevOps/cloud work in the text |
+| date only | [Sr. Full Stack Engineer - Infrastructure Team (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer--Infrastructure--Remote-_R30380) | Crowdstrike | USA - Remote (remote) | 35 | rules: 5+ yrs exp; senior title; E-Verify; needs: Must be a US Citizen |
 | 10:31 AM | [Senior Space Build Reliability Engineer, Hardware](https://job-boards.greenhouse.io/vardaspace/jobs/8200518003) | Varda Space | El Segundo, California, United States | 43 | rules: 5+ yrs exp; senior title; E-Verify; needs: ITAR |
 | 10:22 AM (seen) | [IT Systems Administrator](https://careers-sonalysts.icims.com/jobs/2485/it-systems-administrator/job) | Sonalysts | Waterford, CT, United States | 15 | rules: 5+ yrs exp; needs: security clearance |
 | 10:11 AM | [Application Support Engineering Senior Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214781) | DTCC | Dallas, TX, United States; Tampa, FL, U… | 33 | rules: entry-level title; 8+ yrs exp; senior title; asks for 8+ years… |
@@ -704,6 +714,9 @@ Jump to: [Sat 14 (2)](#saturday-nov-14-2) · [Fri 13 (47)](#friday-nov-13-47) ·
 | date only | [Reliability Engineer](https://oceanspray.wd5.myworkdayjobs.com/OceanSprayJobs/job/Lakeville-MA/Reliability-Engineer_R5509) | Ocean Spray | Lakeville, MA (remote) | 15 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Superintendent, Reliability Engineering](https://wd3.myworkdaysite.com/recruiting/riotinto/RioTinto_Careers/job/Salt-Lake-City/Superintendent--Reliability-Engineering_R67258) | Rio Tinto | Salt Lake City | 38 | rules: adjacent title, little DevOps/cloud work in the text |
 | date only | [Senior Utilities Reliability Engineer](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Senior-Utilities-Reliability-Engineer_R-2026-15820) | Smithfield Foods | Smithfield, VA; Wichita, KS; Sioux City… (onsite) | 23 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| date only | [NPC Build Engineer(E3)- Heterogenous Integration](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/NPC-Build-Engineer-E3---Heterogenous-Integration_R2632466) | Applied Materials | Austin,TX | 28 | rules: 4+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
+| date only | [NPC 2nd shift Build Engineer(E3)- Heterogenous Integration](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/NPC-2nd-shift-Build-Engineer-E3---Heterogenous-Integration_R2632468) | Applied Materials | Austin,TX | 28 | rules: 4+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
+| date only | [Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897) | Crowdstrike | USA - Remote (remote) | 35 | rules: 5+ yrs exp; senior title; E-Verify; asks for 5+ years of exper… |
 | 10:45 AM | [Cloud Adoption Engineer — Oracle Government, Defense & Intelligence](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349184) | Oracle | Reston, VA, United States; Washington, … | 60 | rules: needs: Must be a U.S. citizen |
 | 10:06 AM | [Senior Site Reliability Engineer](https://jobs.smartrecruiters.com/AbbVie/3743990016729946-senior-site-reliability-engineer) | AbbVie | Atlanta, GA, United States (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 9:35 AM | [Hardware Reliability Engineer](https://jobs.ashbyhq.com/Skip/dc2bfc5f-b716-4712-b8d0-f9c15ddc44d7) | Skip | San Francisco (hybrid) | 23 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -762,13 +775,6 @@ Jump to: [Sat 14 (2)](#saturday-nov-14-2) · [Fri 13 (47)](#friday-nov-13-47) ·
 | 12:38 PM | [Technical Support Engineer 2](https://jobs.smartrecruiters.com/Intuitive/744000160278219-technical-support-engineer-2) | Intuitive Surgical | Dallas, TX, United States (remote) | 35 | rules: role no longer in the target list |
 | 11:33 AM | [Senior Platform Engineer](https://jobs.workable.com/view/onFd6mQiL9HDzCWFyKBe3o/hybrid-senior-platform-engineer-in-san-francisco-at-foresight-works-ltd) | Foresight Works Ltd | San Francisco, California (hybrid) | 38 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:21 AM | [DevSecOps Engineer](https://job-boards.greenhouse.io/oddball/jobs/8197757003) | Oddball | Remote (remote) | 45 | rules: location unclear; needs: security clearance |
-| date only | [Specialist, Automation Engineer (Onsite)](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Specialist--Automation-Engineer--Onsite-_R422525-2) | Merck | USA - New Jersey - Rahway | 38 | rules: role no longer in the target list |
-| date only | [Technology Operations Analyst - IT Operations & Support](https://seminolehardrock.wd503.myworkdayjobs.com/seminolehardrockcareers/job/Support-Services-Headquarters-Building/Technology-Operations-Analyst---IT-Operations---Support_R17159) | Seminole Hard Rock | Support Services Headquarters Building (onsite) | 48 | rules: role no longer in the target list |
-| date only | [Developer Support Engineer, Open API](https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Developer-Support-Engineer--Open-API_JR-000519) | Buildertrend | Omaha, NE (remote) | 40 | rules: role no longer in the target list |
-| date only | [Cloud Solutions Engineer](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Cloud-Solutions-Engineer_R-434482) | Humana | Remote Kentucky; Remote North Carolina;… (remote) | 35 | rules: role no longer in the target list |
-| date only | [Network Operations Engineer](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Network-Operations-Engineer_R-26-20882) | Moog | Buffalo, NY (hybrid) | 48 | rules: role no longer in the target list |
-| date only | [Pharmacy Automation Systems Administrator - Pharmacy Technician - FT …](https://memorialhealthcare.wd1.myworkdayjobs.com/MHS_Careers/job/Memorial-Regional-Hospital-South/Pharmacy-Automation-Systems-Administrator---Pharmacy-Technician---FT---Days---MRHS_JR-25046-1) | Memorial Healthcare System | Memorial Regional Hospital South (onsite) | 43 | rules: role no longer in the target list |
-| date only | [Analyst, Application Support Engineer](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/REMOTE---Wisconsin/Sr-Specialist--Application-Development_Req1628428) | Santander | REMOTE - Wisconsin (remote) | 35 | rules: role no longer in the target list |
 
 </details>
 
