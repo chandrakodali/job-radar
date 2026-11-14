@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**323 jobs**, newest first. Updated Sat Nov 14, 10:37 AM CST from 7,552 company job boards and other sources.
+**318 jobs**, newest first. Updated Sat Nov 14, 11:07 AM CST from 7,552 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 503 matching jobs that job sites and feeds listed this week, 84 (16%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sat 14 (2)](#saturday-nov-14-2) · [Fri 13 (47)](#friday-nov-13-47) · [Thu 12 (83)](#thursday-nov-12-83) · [Wed 11 (39)](#wednesday-nov-11-39) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (42)](#monday-nov-9-42) · [Sun 8 (35)](#sunday-nov-8-35) · [Sat 7 (5)](#saturday-nov-7-5)
+Jump to: [Sat 14 (2)](#saturday-nov-14-2) · [Fri 13 (47)](#friday-nov-13-47) · [Thu 12 (83)](#thursday-nov-12-83) · [Wed 11 (39)](#wednesday-nov-11-39) · [Tue 10 (70)](#tuesday-nov-10-70) · [Mon 9 (42)](#monday-nov-9-42) · [Sun 8 (35)](#sunday-nov-8-35)
 
 ## Saturday, Nov 14 (2)
 
@@ -363,17 +363,7 @@ Jump to: [Sat 14 (2)](#saturday-nov-14-2) · [Fri 13 (47)](#friday-nov-13-47) ·
 | 4:32 PM | [Software Automation & Platform Engineer — Federal Health IT](https://job-boards.greenhouse.io/rackner/jobs/4752573005) | Rackner | Remote — United States (remote) | 62 |  |
 | date only | [Senior Cloud Security Engineer](https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-Cloud-Security-Engineer_R03389) | Altera | San Jose, California, United States | 43 | senior title, years not stated |
 
-## Saturday, Nov 7 (5)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| date only | [M nchen AI Infrastructure Engineer fmx BY 80809](https://jobs.bmwgroup.com/job/M%C3%BCnchen-AI-Infrastructure-Engineer-%28fmx%29-BY-80809/1427039333/) | Rolls-Royce Motorcars |  | 53 | location unclear |
-| date only | [Site Reliability Engineering (SRE)](https://jobs.adidas-group.com/job/Bogota-Site-Reliability-Engineering-%28SRE%29-Dist/1435959833/) | Adidas |  | 48 | location unclear |
-| date only | [Site Reliability Engineer (SRE)](https://jobs.adidas-group.com/job/Zaragoza-Site-Reliability-Engineer-%28SRE%29-Aragon/1426975233/) | Adidas |  | 43 | 3+ yrs exp; location unclear |
-| date only | [Senior AI Infrastructure & Frontier Model Engineer (f/m/x)](https://jobs.bmwgroup.com/job/M%C3%BCnchen-Senior-AI-Infrastructure-&-Frontier-Model-Engineer-%28fmx%29-BY-80809/1427500333/) | Rolls-Royce Motorcars |  | 38 | senior title, years not stated; location unclear |
-| date only | [Senior Software Engineer, System Validation - EDA Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Next-Generation-Architecture---EDA-Infrastructure_JR2014880) | NVIDIA | US, CA, Santa Clara; US, MA, Westford; … (remote) | 35 | senior title, years not stated |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (699)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (697)
 
 <details><summary>Show</summary>
 
@@ -753,8 +743,6 @@ Jump to: [Sat 14 (2)](#saturday-nov-14-2) · [Fri 13 (47)](#friday-nov-13-47) ·
 | 8:00 PM | [Cloud Engineer (w/m/d)](https://careers.capgemini.com/job/Muenchen-Cloud-Engineer-%28wmd%29/1266471301/) | Capgemini | Muenchen, DE | 65 | rules: role or location no longer in the target list |
 | 8:00 PM | [Ingénieure / Ingénieur DevOps Infrastructure](https://careers.capgemini.com/job/Cesson-Sevigne-Ing%C3%A9nieure-Ing%C3%A9nieur-DevOps-Infrastructure/1190743701/) | Capgemini | Cesson Sevigne, FR | 60 | rules: role or location no longer in the target list |
 | 8:00 PM | [AWS DevOps Engineer  - Glasgow, UK](https://careers.capgemini.com/job/Glasgow-AWS-DevOps-Engineer-Glasgow%2C-UK/1436167633/) | Capgemini | Glasgow, GB | 60 | rules: role or location no longer in the target list |
-| date only | [Platform Engineer](https://jobs.adidas-group.com/job/Zaragoza-Platform-Engineer-Aragon/1388892233/) | Adidas |  | 28 | asks for 5+ years of experience; 5+ yrs exp; location unclear |
-| date only | [Platform & Site Reliability Engineer](https://jobs.adidas-group.com/job/Woodbridge-Platform-&-Site-Reliability-Engineer/1444981133/) | Adidas |  | 28 | asks for 5+ years of experience; 5+ yrs exp; location unclear |
 | date only | [Application Support Engineer](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Application--Infastructure-and-Service-Management_R-798461) | State Street | Burlington Massachusetts | 43 | rules: role no longer in the target list |
 | date only | [Senior Platform Engineer - Distribution Center Connectivity (m/f/d)](https://jobs.adidas-group.com/job/Herzogenaurach-Senior-Platform-Engineer-Distribution-Center-Connectivity-%28mfd%29-BY/1447549933/) | Adidas |  | 28 | rules: 10+ yrs exp; senior title; location unclear; asks for 10+ year… |
 | date only | [Senior Deep Learning Software Infrastructure Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Software-Infrastructure-Engineer_JR2027872) | NVIDIA | US, CA, Santa Clara | 28 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
@@ -779,6 +767,8 @@ Jump to: [Sat 14 (2)](#saturday-nov-14-2) · [Fri 13 (47)](#friday-nov-13-47) ·
 | date only | [Developer Support Engineer, Open API](https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Developer-Support-Engineer--Open-API_JR-000519) | Buildertrend | Omaha, NE (remote) | 40 | rules: role no longer in the target list |
 | date only | [Cloud Solutions Engineer](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Cloud-Solutions-Engineer_R-434482) | Humana | Remote Kentucky; Remote North Carolina;… (remote) | 35 | rules: role no longer in the target list |
 | date only | [Network Operations Engineer](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Network-Operations-Engineer_R-26-20882) | Moog | Buffalo, NY (hybrid) | 48 | rules: role no longer in the target list |
+| date only | [Pharmacy Automation Systems Administrator - Pharmacy Technician - FT …](https://memorialhealthcare.wd1.myworkdayjobs.com/MHS_Careers/job/Memorial-Regional-Hospital-South/Pharmacy-Automation-Systems-Administrator---Pharmacy-Technician---FT---Days---MRHS_JR-25046-1) | Memorial Healthcare System | Memorial Regional Hospital South (onsite) | 43 | rules: role no longer in the target list |
+| date only | [Analyst, Application Support Engineer](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/REMOTE---Wisconsin/Sr-Specialist--Application-Development_Req1628428) | Santander | REMOTE - Wisconsin (remote) | 35 | rules: role no longer in the target list |
 
 </details>
 
