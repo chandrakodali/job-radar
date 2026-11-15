@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**692 jobs**, newest first. Updated Sat Nov 14, 8:07 PM CST from 10,713 company job boards and other sources.
+**692 jobs**, newest first. Updated Sat Nov 14, 8:37 PM CST from 10,713 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 193 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 601 matching jobs that job sites and feeds listed this week, 116 (19%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 641 matching jobs that job sites and feeds listed this week, 138 (21%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (90)](#thursday-nov-12-90) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (79)](#tuesday-nov-10-79) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (37)](#sunday-nov-8-37)
 
@@ -791,6 +791,7 @@ Jump to: [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (63)](#friday-nov-13-63
 | 2:37 PM (seen) | [Software Engineer, Recommendation Infrastructure](https://lifeattiktok.com/search/7322993115722336538) | TikTok | San Jose, California, United States of … | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:53 AM | [IT Operations Engineer](https://jobs.ashbyhq.com/physicalintelligence/16bfcb45-4056-4e8d-b1d7-7411fffeb5a1) | Physical Intelligence | San Francisco (onsite) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:20 AM | [Platform Engineer, Kubernetes](https://jobs.ashbyhq.com/Clera/dd57a8f6-ca07-43cc-8191-5ebc413d810e) | Clera | San Francisco (onsite) | 55 | rules: 5+ yrs exp; sponsors visas; asks for 5+ years of experience |
+| date only | [Senior Site Reliability Engineer - Kubernetes Platform](https://nvidia.eightfold.ai/careers/job/893393669632) | Nvidia | Santa Clara, CA, US; Durham, NC, US; Au… (onsite) | 38 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Software Engineer - Distributed Systems Engineer, EDA Infrastr…](https://nvidia.eightfold.ai/careers/job/893397487444) | Nvidia | WA,US; Austin, TX, US; Westford, MA, US… (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Network Reliability Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893395121939) | Nvidia | Santa Clara, CA, US; US +1 more (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior AI Infrastructure Engineer - EDA Infrastructure](https://nvidia.eightfold.ai/careers/job/893397486935) | Nvidia | CA,US; Austin, TX, US; Westford, MA, US… (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
@@ -1097,7 +1098,6 @@ Jump to: [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (63)](#friday-nov-13-63
 | date only | [Senior Cloud Developer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Senior-Cloud-Developer_1217196-2) | Hewlett Packard Enterprise | Ft. Collins, Colorado, United States of… | 33 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | date only | [LTG - Sr Network Engineer](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/LTG---Sr-Network-Engineer_R26_0000004808) | Lennar Corporation | Miami, FL (Job Posting Location) | 23 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | date only | [Sr Platform Engineer II](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Sr-Platform-Engineer-II_R16726) | Pacific Life | Newport Beach CA-700 | 33 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| date only | [Senior Site Reliability Engineer - Kubernetes Platform](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Site-Reliability-Engineer---HPC_JR2013271) | NVIDIA | US, CA, Santa Clara; US, TX, Austin; US… | 33 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Cloud Software Engineer, DGXC Data Services](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGXC-Data-Services_JR2003389) | NVIDIA | US, CA, Santa Clara; US, Remote (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Software Engineer, Platform Engineering - EDA Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Remote/Senior-Software-Engineer--Platform-Engineering---EDA-Infrastructure_JR2029683) | NVIDIA | US, WA, Remote; US, MA, Westford; US, T… (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Storage Infrastructure Software Engineer - EDA Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Storage-Infrastructure-Software-Engineer_JR2026658) | NVIDIA | US, CA, Santa Clara; US, CO, Remote; US… (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |

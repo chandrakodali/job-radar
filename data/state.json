@@ -9987,17 +9987,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 76,
+   "n": 77,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 76,
+   "n": 77,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 76,
+   "n": 77,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12449,7 +12449,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 7,
+   "n": 8,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12514,7 +12514,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 76,
+   "n": 77,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12561,7 +12561,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 47,
+   "n": 48,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -12772,31 +12772,31 @@
  "found_cursor": 968,
  "last_digest": "2026-11-14",
  "missed_companies": {
-  "Accurant International": "2026-11-14",
-  "Bask Health": "2026-11-14",
-  "Coris": "2026-11-14",
-  "Diversified Services Network, Inc.": "2026-11-14",
+  "Accurant International": "2026-11-15",
+  "Bask Health": "2026-11-15",
+  "Coris": "2026-11-15",
+  "Diversified Services Network, Inc.": "2026-11-15",
   "EdgeQ Technologies Private Limited": "2026-11-15",
   "Edgewater Federal Solutions, Inc.": "2026-11-15",
-  "Essnova Solutions, Inc.": "2026-11-14",
+  "Essnova Solutions, Inc.": "2026-11-15",
   "Foresight Works Ltd": "2026-11-13",
   "Fortanix": "2026-11-14",
-  "GEM Technologies": "2026-11-14",
+  "GEM Technologies": "2026-11-15",
   "Halcyon": "2026-11-14",
   "Knack": "2026-11-15",
-  "Odin": "2026-11-14",
+  "Odin": "2026-11-15",
   "OpenDataJobs": "2026-11-14",
   "PGTEK": "2026-11-14",
   "PIMCO": "2026-11-14",
-  "Partner One Software Inc": "2026-11-14",
+  "Partner One Software Inc": "2026-11-15",
   "Runware": "2026-11-14",
   "Salvo Software": "2026-11-14",
-  "Stealth Health-Tech Startup": "2026-11-14",
-  "Systems Engineering Solutions Corporation": "2026-11-14",
-  "WorldVia": "2026-11-14",
+  "Stealth Health-Tech Startup": "2026-11-15",
+  "Systems Engineering Solutions Corporation": "2026-11-15",
+  "WorldVia": "2026-11-15",
   "Xora Innovation": "2026-11-14",
   "Zipdev": "2026-11-14",
-  "erad": "2026-11-14",
+  "erad": "2026-11-15",
   "iCallidus": "2026-11-13"
  },
  "missing_once": {},
@@ -12814,8 +12814,8 @@
    356
   ],
   "2026-11-15": [
-   2,
-   8
+   24,
+   48
   ]
  },
  "resolved": {
@@ -55997,6 +55997,7 @@
   "eightfold:ngc:1340075297270": "2026-11-14",
   "eightfold:ngc:1340075298595": "2026-11-14",
   "eightfold:ngc:1340075310658": "2026-11-14",
+  "eightfold:nvidia:893393669632": "2026-11-15",
   "eightfold:nvidia:893394115789": "2026-11-14",
   "eightfold:nvidia:893394241567": "2026-11-14",
   "eightfold:nvidia:893395121939": "2026-11-15",
@@ -58956,12 +58957,12 @@
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-14T20:37:21+00:00",
-  "remoteok": "2026-11-15T00:37:16+00:00",
-  "usajobs": "2026-11-14T23:37:14+00:00",
-  "workable_search": "2026-11-14T23:37:14+00:00",
-  "wwr": "2026-11-15T01:37:20+00:00",
-  "yc": "2026-11-14T23:37:14+00:00"
+  "hn": "2026-11-15T02:37:15+00:00",
+  "remoteok": "2026-11-15T02:37:15+00:00",
+  "usajobs": "2026-11-15T02:37:15+00:00",
+  "workable_search": "2026-11-15T02:37:15+00:00",
+  "wwr": "2026-11-15T02:37:15+00:00",
+  "yc": "2026-11-15T02:37:15+00:00"
  },
  "title_rules": "15160d40994f",
  "version": 1
