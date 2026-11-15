@@ -9856,6 +9856,11 @@
    "n": 3,
    "since": "2026-11-14"
   },
+  "ashby:sharedcontextlab": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-15"
+  },
   "ashby:tavily": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -9930,17 +9935,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 11,
+   "n": 12,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 11,
+   "n": 12,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 11,
+   "n": 12,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -9986,8 +9991,9 @@
    "since": "2026-11-14"
   },
   "greenhouse:aisquared": {
+   "disabled_until": "2026-11-22",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-15"
   },
   "greenhouse:alma": {
@@ -10880,7 +10886,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 9,
+   "n": 10,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11228,8 +11234,8 @@
    65
   ],
   "2026-11-15": [
-   34,
-   125
+   51,
+   179
   ]
  },
  "resolved": {
@@ -56564,7 +56570,9 @@
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2025041EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2027857EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028674EXTERNALENGLOBAL": "2026-11-14",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028744EXTERNALENGLOBAL": "2026-11-15",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028784EXTERNALENGLOBAL": "2026-11-14",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028825EXTERNALENGLOBAL": "2026-11-15",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2030298EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2030555EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2031593EXTERNALENGLOBAL": "2026-11-14",
@@ -58250,10 +58258,10 @@
  "source_last": {
   "hn": "2026-11-15T04:49:36+00:00",
   "remoteok": "2026-11-15T05:52:10+00:00",
-  "usajobs": "2026-11-15T04:49:36+00:00",
-  "workable_search": "2026-11-15T04:49:36+00:00",
-  "wwr": "2026-11-15T06:48:41+00:00",
-  "yc": "2026-11-15T04:49:36+00:00"
+  "usajobs": "2026-11-15T07:46:30+00:00",
+  "workable_search": "2026-11-15T07:46:30+00:00",
+  "wwr": "2026-11-15T07:46:30+00:00",
+  "yc": "2026-11-15T07:46:30+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
