@@ -1,10 +1,10 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**689 jobs**, newest first. Updated Sat Nov 14, 6:18 PM CST from 10,713 company job boards and other sources.
+**689 jobs**, newest first. Updated Sat Nov 14, 7:19 PM CST from 10,713 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-205 repeat listings (same company and title in another place or on another source) are merged into one row.
+206 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 810 matching jobs that job sites and feeds listed this week, 144 (17%) were already found on the employers' own boards; the rest are listed from those sources.
 
@@ -151,7 +151,7 @@ Jump to: [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (148)](#friday-nov-13-1
 | 2:10 PM (seen) | [Software Engineer, Global CRM Platform](https://lifeattiktok.com/search/7281061641377106234) | TikTok | San Jose, California, United States of … | 70 | 1+ yrs exp; entry level (from the text) |
 | 2:10 PM (seen) | [SW Developer / AI Center of Excellence - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131165) | IBM | Austin, United States (hybrid) | 65 | entry level (from the text) |
 | date only | [Front End Associate](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Fair-Oaks-CA-95628/Front-End-Associate_REQ176782-1) | TJX | Fair Oaks, CA 95628 | 75 | entry-level title |
-| date only | [Deep Learning Framework Communications Engineer - New College Grad 20…](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | NVIDIA | US, CA, Santa Clara | 68 | entry-level title |
+| date only | [Deep Learning Framework Communications Engineer - New College Grad 20…](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | NVIDIA | US, CA, Santa Clara +1 more | 68 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Cherry Creek](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825116) | Macy's | Denver, CO, United States | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Town Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825084) | Macy's | Kennesaw, GA, United States | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Trumbull](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825085) | Macy's | Trumbull, CT, United States | 75 | entry-level title |
@@ -739,13 +739,14 @@ Jump to: [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (148)](#friday-nov-13-1
 |---|---|---|---|---:|---|
 | 10:57 PM | [Support Engineer, PAYGO](https://jobs.ashbyhq.com/exa/f4dd7ae8-cf72-4634-b708-742601b9061c) | Exa | Remote (remote) | 60 | entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2755)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2756)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 6:38 PM | [SATCOM Systems Engineer (Hybrid- Aberdeen Proving Ground)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9312ef-f8ad-43d2-926b-12997288c359&ccId=19000101_000001&jobId=9201590872782_1&lang=en_US) | 1B9312Ef F8Ad 43D2 926B 12997… | US;  US;  US;  US;  US;  US; Middletown… | 45 | rules: 5+ yrs exp; needs: Secret clearance |
+| 6:36 PM | [Firmware Engineer - San Francisco](https://jobs.ashbyhq.com/Plaud/29e0664c-9fb9-4e5f-96ba-6ae5708219ec) | Plaud | San Francisco, CA (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:20 PM (seen) | [Backend Developer](https://app.dover.com/apply/agencyanalytics/e16f027a-c786-476f-b4ff-1a50d5b0e8d2) | Agencyanalytics |  (onsite) | 30 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
 | 4:19 PM (seen) | [Software Engineer](https://app.dover.com/apply/atomic-invest/536f1a4a-901c-4b29-a4e0-3b96ea99ddac) | Atomic Invest | New York City, NY; United States (hybrid) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 3:12 PM | [Software Engineer, iOS](https://jobs.ashbyhq.com/mirage/d9805fdf-950e-45ec-b9be-be18f1cb6b5e) | Mirage | Union Square, New York City | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -1144,6 +1145,5 @@ Jump to: [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (148)](#friday-nov-13-1
 | date only | [IT Analyst](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Michigan-City-Indiana-United-States/IT-Analyst_R0152223) | Hitachi | Michigan City, Indiana, United States (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Reporting Specialist](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Reporting-Specialist_R0055954-1) | HCSC | IL - Chicago | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [Systems Engineer](https://harriscomputer.wd3.myworkdayjobs.com/1/job/New-Jersey-United-States/Expert-Systems-Engineer_R0045715) | Harris Computer | New Jersey, United States +1 more | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [AI Solutions Engineer](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Tennessee-United-States/AI-Solutions-Engineer_R0047498-4) | Harris Computer | Tennessee, United States; Remote - Mich… (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>

@@ -3,6 +3,7 @@
   "adp:000c0490-cc55-4888-9ce3-84bc24843c60|19000101_000001": "2026-11-14",
   "adp:00a315c7-e5f5-4392-94c9-185170c8222a": "2026-11-14",
   "adp:00f2efdd-7a27-4b0b-af2a-2e4da1695f31|19000101_000001": "2026-11-14",
+  "adp:02161b08-cb15-42c3-bce4-f772c36f668c|19000101_000001": "2026-11-15",
   "adp:02307472-7039-4ed3-bacb-7c30eec440ed": "2026-11-15",
   "adp:02835ad7-1b2e-4eb2-9773-3454d03b1a3e|19000101_000001": "2026-11-14",
   "adp:0330dee1-d933-49d0-805d-d480b2ad35af": "2026-11-14",
@@ -6758,6 +6759,7 @@
   "paylocity:05a8347a-7060-4310-b2be-d19fa27a6518": "2026-11-14",
   "paylocity:06144481-7908-457c-9312-51cf7b58cf01": "2026-11-14",
   "paylocity:06b3cfd5-88b3-498c-847c-9e1687852028": "2026-11-14",
+  "paylocity:0721fa6f-20b1-48a9-9a2a-7da813f88a10": "2026-11-15",
   "paylocity:07314255-f13e-4c20-b80c-2b4022218dc8": "2026-11-14",
   "paylocity:076ee35d-2815-45ca-a6dc-38be74644a87": "2026-11-14",
   "paylocity:08628d28-fa0d-4893-b85a-43b78653901b": "2026-11-14",
@@ -9878,17 +9880,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 29,
+   "n": 30,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 29,
+   "n": 30,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 29,
+   "n": 30,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -11261,7 +11263,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11326,7 +11328,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 27,
+   "n": 28,
    "since": "2026-11-13"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11373,7 +11375,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 24,
+   "n": 25,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -54465,6 +54467,7 @@
   "ashby:PAR Technology:80372521-1177-4885-ba71-dc5eb2eb1a10": "2026-11-13",
   "ashby:Parkade:d49351d6-466d-436d-a85c-9de6863916f8": "2026-11-14",
   "ashby:Plaud:284468e5-ef86-4c8a-b458-2ba68bff17d2": "2026-11-14",
+  "ashby:Plaud:29e0664c-9fb9-4e5f-96ba-6ae5708219ec": "2026-11-15",
   "ashby:Plaud:c4b99f9b-1436-458b-809f-fdfe3fa1bd14": "2026-11-14",
   "ashby:PointOne:bb42f37c-8a7c-434d-aae8-089820a7171d": "2026-11-13",
   "ashby:PointOne:e57df388-58d1-41b5-b388-6b4ad41a6c57": "2026-11-13",
@@ -56824,6 +56827,7 @@
   "eightfold:ngc:1340075298595": "2026-11-14",
   "eightfold:ngc:1340075310658": "2026-11-14",
   "eightfold:ngc:1340075316237": "2026-11-14",
+  "eightfold:nvidia:893397742060": "2026-11-15",
   "eightfold:nvidia:893398445696": "2026-11-14",
   "eightfold:nvidia:893398445710": "2026-11-14",
   "eightfold:nvidia:893398445721": "2026-11-14",
