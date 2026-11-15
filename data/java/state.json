@@ -36,6 +36,7 @@
   "adp:0ac9c872-8815-465b-b05a-caa90545c4d1|19000101_000001": "2026-11-14",
   "adp:0b279ef4-70b5-43b5-9b1c-ebf799fd2e4c": "2026-11-14",
   "adp:0bb77723-5db8-455b-a01c-54257189f090|19000101_000001": "2026-11-14",
+  "adp:0bfa83fc-36cf-46f4-adac-b27bef86285c|19000101_000003": "2026-11-15",
   "adp:0c096a49-ac0e-4b90-8f39-6c8a8fb92e87|9200981764020_2": "2026-11-14",
   "adp:0c34e38f-a634-4066-88b8-ddce3a8a2a39": "2026-11-14",
   "adp:0d35cdee-8f25-492a-b86e-938916b084d5|19000101_000001": "2026-11-14",
@@ -11545,17 +11546,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 27,
+   "n": 28,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 27,
+   "n": 28,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 27,
+   "n": 28,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12502,7 +12503,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 25,
+   "n": 26,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12567,7 +12568,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 22,
+   "n": 23,
    "since": "2026-11-14"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -64017,6 +64018,40 @@
   "avature:bravura.avature.net|careers:3258": "2026-11-15",
   "avature:deloittecm.avature.net|careers:11132": "2026-11-14",
   "avature:deloittecm.avature.net|careers:11134": "2026-11-14",
+  "avature:deloitteus.avature.net|careers:350393": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:359694": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:359699": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:361418": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:363298": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:365585": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:365805": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:366971": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:367848": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:368406": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:368973": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:368975": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:369293": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:369413": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:369415": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:369428": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:369605": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:371706": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:371854": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:372155": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:372394": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:372539": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:372647": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:373411": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:373557": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:373559": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:373709": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:374020": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:374032": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:375040": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:375102": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:375211": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:375303": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:375419": "2026-11-15",
   "avature:dth.avature.net|careers:27769": "2026-11-15",
   "avature:dth.avature.net|careers:27789": "2026-11-15",
   "avature:forvis.avature.net|experiencedcareers:15801": "2026-11-15",

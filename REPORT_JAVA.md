@@ -1,6 +1,6 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**178 jobs**, newest first. Updated Sun Nov 15, 4:23 PM CST from 12,526 company job boards and other sources.
+**178 jobs**, newest first. Updated Sun Nov 15, 4:51 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
@@ -228,7 +228,7 @@ Jump to: [Sun 15 (4)](#sunday-nov-15-4) · [Sat 14 (76)](#saturday-nov-14-76) ·
 |---|---|---|---|---:|---|
 | 11:00 PM | [Senior Software Engineer](https://careers-cotiviti.icims.com/jobs/20898/senior-software-engineer/job) | Cotiviti | Remote, United States | 33 | 4+ yrs exp; senior title; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (289)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (290)
 
 <details><summary>Show</summary>
 
@@ -429,6 +429,7 @@ Jump to: [Sun 15 (4)](#sunday-nov-15-4) · [Sat 14 (76)](#saturday-nov-14-76) ·
 | date only | [Senior Full stack Hands on Engineer](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-Full-stack-Hands-on-Engineer_261008696) | Citi | Irving Texas United States (hybrid) | 28 | rules: 6+ yrs exp; senior title; requires Java; asks for 6+ years of … |
 | date only | [Senior Software Engineer](https://cai.wd5.myworkdayjobs.com/Computer_Aid/job/MD-CLIENT-STATE/Senior-Software-Engineer_R8760) | CAI | MD-CLIENT-STATE (hybrid) | 28 | rules: 12+ yrs exp; senior title; requires Java; asks for 12+ years o… |
 | date only | [Software Engineer II](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States--Madison--1-Exact-Lane/Software-Engineer-II_31165032) | Abbott | United States > Madison : 1 Exact Lane | 18 | rules: 5+ yrs exp; requires Java; asks for 5+ years of experience |
+| date only | [US E- GPS Consulting Services- Project, Software Engineer III- Custom…](https://apply.deloitte.com/en_US/careers/JobDetail/Project-Software-Engineer-III/375303) | Deloitte US |  | 8 | rules: 5+ yrs exp; senior title; no future H-1B sponsorship; requires… |
 | 10:23 AM | [Software Engineer](https://job-boards.greenhouse.io/grvty/jobs/4505117009) | GRVTY | Chantilly, Virginia, United States | 43 | rules: requires Java; needs: Active TS/SCI |
 | date only | [Associate Software Engineer](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Albuquerque-NM/Associate-Software-Engineer_JR2026528420) | The Boeing Company | USA - Albuquerque, NM; USA - El Segundo… (onsite) | 28 | rules: entry-level title; 10+ yrs exp; E-Verify; no future H-1B spons… |
 | date only | [Sr Software Engineer, Supply Chain Systems](https://qvc.wd5.myworkdayjobs.com/QRG/job/Pennsylvania-Remote/Sr-Software-Engineer--Supply-Chain-Systems_R83326) | QVC Group | Pennsylvania Remote; QVC (remote) | 15 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
