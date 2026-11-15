@@ -163,6 +163,7 @@
   "adp:57e416fc-e295-436e-9896-7c7fef546c5d": "2026-11-15",
   "adp:582157cb-34cb-4bca-8237-ec7c1f3fd8d1|19000101_000001": "2026-11-15",
   "adp:582157cb-34cb-4bca-8237-ec7c1f3fd8d1|9200454803053_2": "2026-11-15",
+  "adp:5a22940c-3629-44d9-813a-0ccee8ac9aac": "2026-11-15",
   "amazon:us": "2026-11-14",
   "apple:usa": "2026-11-14",
   "ashby:0g": "2026-11-09",
@@ -10314,17 +10315,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 99,
+   "n": 100,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 99,
+   "n": 100,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 99,
+   "n": 100,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -10734,6 +10735,11 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-09"
+  },
+  "icims:careers-eyesouthpartners.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-15"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-16",
@@ -12782,12 +12788,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 11,
+   "n": 12,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 30,
+   "n": 31,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12852,7 +12858,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 96,
+   "n": 97,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12899,7 +12905,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 67,
+   "n": 68,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -13108,7 +13114,7 @@
   }
  },
  "found_cursor": 968,
- "last_digest": "2026-11-14",
+ "last_digest": "2026-11-15",
  "missed_companies": {
   "Accurant International": "2026-11-15",
   "Bask Health": "2026-11-15",
