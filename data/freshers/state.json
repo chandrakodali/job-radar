@@ -2798,6 +2798,8 @@
   "dover:belfry": "2026-11-14",
   "dover:belva-ai": "2026-11-14",
   "dover:betriax": "2026-11-15",
+  "dover:beyondlabs-cf291676": "2026-11-15",
+  "dover:bildbot": "2026-11-15",
   "dover:brinc-drones": "2026-11-15",
   "dover:castle": "2026-11-13",
   "dover:chasi": "2026-11-13",
@@ -9948,17 +9950,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 40,
+   "n": 41,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 40,
+   "n": 41,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 40,
+   "n": 41,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -11337,12 +11339,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 13,
+   "n": 14,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11407,7 +11409,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 36,
+   "n": 37,
    "since": "2026-11-13"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11454,7 +11456,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 33,
+   "n": 34,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -11710,8 +11712,8 @@
    577
   ],
   "2026-11-15": [
-   77,
-   374
+   98,
+   475
   ]
  },
  "resolved": {
@@ -54538,6 +54540,7 @@
   "ashby:GovSignals:fc4ea180-ff90-4c11-b92d-dcaed8b6a8ee": "2026-11-13",
   "ashby:HUMAN:2ef78102-b19a-440b-8876-3bbc52c7f216": "2026-11-14",
   "ashby:HUMAN:4cee05ca-901d-4179-87d5-70e38395a289": "2026-11-14",
+  "ashby:HUMAN:88e6c632-09cf-4929-b77b-3ca05f178cd6": "2026-11-15",
   "ashby:Injective:52b699ee-cbfc-470b-9c31-6323f08ed63d": "2026-11-14",
   "ashby:KAYAK:85165d45-de15-444d-8a5e-b7fdb8f3cf1e": "2026-11-13",
   "ashby:LatchBio:94892560-21eb-4c16-b838-114037eb42c9": "2026-11-13",
@@ -56815,6 +56818,7 @@
   "dover:belva-ai:87662450-23af-4b06-8be3-21a927402016": "2026-11-14",
   "dover:betriax:2cccfcf3-aee8-4002-b25d-d9de06c4bb40": "2026-11-15",
   "dover:betriax:a6667987-1880-497f-9e0c-2df1f8a22fb1": "2026-11-15",
+  "dover:beyondlabs-cf291676:3b55b80d-ede9-4c4a-b072-bd29681b8d93": "2026-11-15",
   "dover:cicero:2b6bf715-ccdf-4b4d-ac5f-a89f3df3044c": "2026-11-15",
   "dover:cicero:c270ce27-1470-4621-accc-f0bcce5e92ca": "2026-11-15",
   "dover:conduit:ff655ee4-e65c-4f7b-bc81-dfb6c8ffb838": "2026-11-13",
@@ -56907,6 +56911,9 @@
   "eightfold:mercadolibre:45513459": "2026-11-14",
   "eightfold:mercadolibre:45520009": "2026-11-14",
   "eightfold:micron:39786384": "2026-11-14",
+  "eightfold:micron:44144084": "2026-11-15",
+  "eightfold:micron:44509981": "2026-11-15",
+  "eightfold:micron:44509996": "2026-11-15",
   "eightfold:micron:45500268": "2026-11-14",
   "eightfold:micron:45500814": "2026-11-14",
   "eightfold:morganstanley:549794721569": "2026-11-14",
@@ -65006,6 +65013,7 @@
   "workable_search:all:2f23c4d9-014d-40a1-8718-ddc52dd152ec": "2026-11-13",
   "workable_search:all:306c1604-11c4-4189-bc8e-e6f5431fadcd": "2026-11-13",
   "workable_search:all:30b3c8d0-17d1-42e5-9e81-c0e7a5c441c6": "2026-11-13",
+  "workable_search:all:33173d78-4abc-43f5-a7b8-3c325203ace9": "2026-11-15",
   "workable_search:all:34758f3d-2ace-4acd-9799-ab64f3d8e5b6": "2026-11-14",
   "workable_search:all:38480613-7dba-4b6b-bedf-5c9f319d0b4f": "2026-11-13",
   "workable_search:all:467c44f3-3fc4-448a-84e7-a6cf7bc8cb0e": "2026-11-13",
@@ -68122,8 +68130,8 @@
   "zoho:virtualcolleague:805869000004420928": "2026-11-14"
  },
  "source_last": {
-  "workable_search": "2026-11-15T09:20:22+00:00",
-  "yc": "2026-11-15T09:20:22+00:00"
+  "workable_search": "2026-11-15T12:18:59+00:00",
+  "yc": "2026-11-15T12:18:59+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
