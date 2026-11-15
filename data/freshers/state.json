@@ -10068,17 +10068,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 47,
+   "n": 48,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 47,
+   "n": 48,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 47,
+   "n": 48,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -10807,11 +10807,6 @@
    "n": 3,
    "since": "2026-11-13"
   },
-  "phenom:careers.hellofresh.com|global/en": {
-   "err": "HTTP 403",
-   "n": 1,
-   "since": "2026-11-15"
-  },
   "pinpoint:heapy": {
    "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /postings.json",
@@ -11462,7 +11457,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 20,
+   "n": 21,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11527,7 +11522,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 43,
+   "n": 44,
    "since": "2026-11-13"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11574,7 +11569,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 40,
+   "n": 41,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -11831,8 +11826,8 @@
    577
   ],
   "2026-11-15": [
-   119,
-   576
+   140,
+   677
   ]
  },
  "resolved": {
@@ -68279,8 +68274,8 @@
   "zoho:virtualcolleague:805869000004420928": "2026-11-14"
  },
  "source_last": {
-  "workable_search": "2026-11-15T15:20:52+00:00",
-  "yc": "2026-11-15T15:20:52+00:00"
+  "workable_search": "2026-11-15T18:18:51+00:00",
+  "yc": "2026-11-15T18:18:51+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
