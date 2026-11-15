@@ -11603,6 +11603,11 @@
   "greenhouse:yipitdata:8329263": "2026-11-12"
  },
  "fails": {
+  "apple:usa": {
+   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
+   "n": 1,
+   "since": "2026-11-15"
+  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-18",
    "err": "HTTP 404",
@@ -11929,17 +11934,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 118,
+   "n": 119,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 118,
+   "n": 119,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 118,
+   "n": 119,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14768,8 +14773,8 @@
    356
   ],
   "2026-11-15": [
-   167,
-   338
+   188,
+   376
   ]
  },
  "resolved": {
@@ -69505,10 +69510,10 @@
  "source_last": {
   "hn": "2026-11-15T20:37:14+00:00",
   "remoteok": "2026-11-15T22:37:16+00:00",
-  "usajobs": "2026-11-15T20:37:14+00:00",
-  "workable_search": "2026-11-15T20:37:14+00:00",
-  "wwr": "2026-11-15T22:37:16+00:00",
-  "yc": "2026-11-15T20:37:14+00:00"
+  "usajobs": "2026-11-15T23:37:16+00:00",
+  "workable_search": "2026-11-15T23:37:16+00:00",
+  "wwr": "2026-11-15T23:37:16+00:00",
+  "yc": "2026-11-15T23:37:16+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
