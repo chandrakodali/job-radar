@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**695 jobs**, newest first. Updated Sun Nov 15, 10:19 AM CST from 10,713 company job boards and other sources.
+**695 jobs**, newest first. Updated Sun Nov 15, 11:19 AM CST from 10,713 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -745,12 +745,14 @@ Jump to: [Sun 15 (9)](#sunday-nov-15-9) · [Sat 14 (143)](#saturday-nov-14-143) 
 | 8:00 PM | [Patient Support Associate](https://jobs.workable.com/view/1QiEY1djgFwruuycQq9WDi/remote-patient-support-associate-in-united-states-at-theranica-usa%2C-inc.) | Theranica USA, Inc. | Remote, US (remote) | 60 | entry-level title |
 | 3:04 PM | [Groundskeeper Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/41230) | RH | Newport Beach, CA, United States | 63 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2793)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2795)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:12 AM | [Mid-Level AI Engineer](https://jobs.ashbyhq.com/Clera/41abd2dc-cca2-4369-8e13-44f40c0cb9ac) | Clera | San Francisco (onsite) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| 11:09 AM | [Founding Applied AI Engineer](https://jobs.ashbyhq.com/Clera/321b13c0-4622-4ca3-ba2d-0d696d0f13fc) | Clera | San Francisco (onsite) | 70 | rules: 3+ yrs exp; sponsors visas; asks for 3+ years of experience |
 | date only | [Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2028825EXTERNALENGLOBAL) | Cisco | Milpitas, California, United States of … | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [IT Technical Specialist](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/IT-Technical-Specialist_R0173102-11) | Amentum | US-TX-Houston (onsite) | 65 | rules: 3+ yrs exp; needs: security clearance |
 | date only | [Quality Assurance Specialist - Spring Valley, IL](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Spring-Valley-IL/Quality-Assurance-Specialist---Spring-Valley--IL_JR0000045259) | Marmon Holdings | Spring Valley, IL | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -1149,7 +1151,5 @@ Jump to: [Sun 15 (9)](#sunday-nov-15-9) · [Sat 14 (143)](#saturday-nov-14-143) 
 | date only | [Analysis Technology Engineer](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Analysis-Technology-Engineer_R122216) | Samsung | 1530 FM 973 Taylor, TX, USA (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Workplace Experience Support Specialist](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Charlotte/Workplace-Experience-Support-Specialist_JR122420) | RSM | Charlotte | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Field Applications Scientist (Chromatography)](https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Remote---Massachusetts/Field-Applications-Scientist--Chromatography-_R-933-1) | Repligen | Remote - Massachusetts (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [Cloud Data Engineer - AI Platform](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Cloud-Data-Engineer---AI-Platform_R106825) | Regions Bank | Hoover, AL - Riverchase Operations Cent… | 40 | rules: 6+ yrs exp; no future H-1B sponsorship; asks for 6+ years of e… |
-| date only | [Technology Infrastructure Analyst (Communication Services)](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Technology-Infrastructure-Analyst--Communication-Services-_R-0013874) | Raymond James Financial | Saint Petersburg, Florida - United Stat… | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>

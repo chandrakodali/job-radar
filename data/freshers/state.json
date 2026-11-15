@@ -6796,6 +6796,13 @@
   "paylocity:0b0e65d8-0e53-499c-b510-583fa42f82ed": "2026-11-14",
   "paylocity:0b639416-fcca-4152-8802-c07fe7dab59b": "2026-11-15",
   "paylocity:0b6cc596-ce53-4e9d-9b26-b235ed9830c6": "2026-11-15",
+  "paylocity:0ba946fa-bf1f-4728-a713-4bfe119c1d36": "2026-11-15",
+  "paylocity:0c6e953e-969a-4bb6-a5ec-6ca8b1ad0436": "2026-11-15",
+  "paylocity:0d0cdb98-ced2-44b9-b079-e37b2ae9a19b": "2026-11-15",
+  "paylocity:0db36655-7ae1-4ba3-8904-f48848360b5a": "2026-11-15",
+  "paylocity:0db44b81-4269-44e5-9d68-47ba1208c6d1": "2026-11-15",
+  "paylocity:0ebade6c-b3ec-4b29-900b-5303ca374b90": "2026-11-15",
+  "paylocity:0f3ed00e-4291-47c3-99cb-5d052bd19190": "2026-11-15",
   "paylocity:1078af34-40eb-4989-83a3-3a2138324f69": "2026-11-14",
   "paylocity:10c8ea62-0f5a-43ec-9ac1-4863af798914": "2026-11-14",
   "paylocity:10d74e65-36ac-49d3-bd03-22487604cb5e": "2026-11-14",
@@ -6861,6 +6868,7 @@
   "paylocity:20d81393-dec0-47cb-8c95-d959dc946c11": "2026-11-15",
   "paylocity:20e02e5e-d00f-4182-a3a1-8c8a2ea68208": "2026-11-15",
   "paylocity:20edfbd6-2afa-4ae8-b72d-a3c33859b62c": "2026-11-15",
+  "paylocity:2154eef0-21a4-4904-85d8-0b840d9287fc": "2026-11-15",
   "paylocity:22085c9a-af87-41a8-9daa-331dbbf3e809": "2026-11-15",
   "paylocity:22857e96-d8ad-440b-adfe-d254d80c8b71": "2026-11-15",
   "paylocity:22986638-0364-4c8e-8789-ec4e983854d6": "2026-11-15",
@@ -9955,17 +9963,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 45,
+   "n": 46,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 45,
+   "n": 46,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 45,
+   "n": 46,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -11344,7 +11352,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 18,
+   "n": 19,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11409,7 +11417,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 41,
+   "n": 42,
    "since": "2026-11-13"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11456,7 +11464,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 38,
+   "n": 39,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -54707,9 +54715,11 @@
   "ashby:claylabs:f8d2a754-8ac4-4ba8-9c36-ed56184132a7": "2026-11-14",
   "ashby:clera:19f1c181-17c0-45ce-981b-cf62240b95d9": "2026-11-15",
   "ashby:clera:2c6c8b86-2068-4ff1-95e0-3c0025cbb17b": "2026-11-13",
+  "ashby:clera:321b13c0-4622-4ca3-ba2d-0d696d0f13fc": "2026-11-15",
   "ashby:clera:3400f3f7-331b-4711-b7a4-b3bbf6280a51": "2026-11-13",
   "ashby:clera:35cdb96a-67bd-48d8-ba87-ea8603f2c347": "2026-11-13",
   "ashby:clera:37ee14c8-272b-4f9e-9958-981429d7aef2": "2026-11-14",
+  "ashby:clera:41abd2dc-cca2-4369-8e13-44f40c0cb9ac": "2026-11-15",
   "ashby:clera:5046284d-39c1-4e2e-b58c-481a25ff09e8": "2026-11-13",
   "ashby:clera:60a97037-c0af-46d2-a89d-5cf45e36d861": "2026-11-13",
   "ashby:clera:6b643d0f-3ab6-4e6f-a382-eab9d166aeea": "2026-11-13",
@@ -61982,6 +61992,7 @@
   "paylocity:05a8347a-7060-4310-b2be-d19fa27a6518:4599421": "2026-11-14",
   "paylocity:07314255-f13e-4c20-b80c-2b4022218dc8:4642461": "2026-11-14",
   "paylocity:0a25e82f-b947-4f8e-ba92-cd428be483f8:4611213": "2026-11-15",
+  "paylocity:0f3ed00e-4291-47c3-99cb-5d052bd19190:4648212": "2026-11-15",
   "paylocity:14147534-47d1-4e80-af71-635a7d67cac1:4321466": "2026-11-15",
   "paylocity:14147534-47d1-4e80-af71-635a7d67cac1:4321791": "2026-11-15",
   "paylocity:14147534-47d1-4e80-af71-635a7d67cac1:4342495": "2026-11-15",
@@ -62289,6 +62300,7 @@
   "recruitee:aikidosecurity:2419509": "2026-11-13",
   "recruitee:aikidosecurity:2793094": "2026-11-13",
   "recruitee:hardrockdigital:2823560": "2026-11-13",
+  "rippling:aalyria-careers:27e9f512-e14b-4ba4-aefb-0f05a63fa21a": "2026-11-15",
   "rippling:aalyria-careers:8a76a852-0e19-4b7b-9dbe-56f840e760b6": "2026-11-13",
   "rippling:aalyria-careers:a433e35d-c3ff-435b-9ee8-46b89c54ac21": "2026-11-13",
   "rippling:aalyria-careers:c8c3ebca-c203-47fd-a4af-f72727ade02c": "2026-11-13",
@@ -66235,6 +66247,7 @@
   "workday:geaerospace|wd5|ge_externalsite:R5042380": "2026-11-13",
   "workday:geaerospace|wd5|ge_externalsite:R5042834": "2026-11-13",
   "workday:geaerospace|wd5|ge_externalsite:R5042846": "2026-11-13",
+  "workday:gehc|wd5|GEHC_ExternalSite:R4046250": "2026-11-15",
   "workday:gehc|wd5|GEHC_ExternalSite:R4048458": "2026-11-13",
   "workday:gehc|wd5|GEHC_ExternalSite:R4049191": "2026-11-13",
   "workday:gehc|wd5|GEHC_ExternalSite:R4049222": "2026-11-13",
