@@ -7936,6 +7936,7 @@
   "paylocity:0ebade6c-b3ec-4b29-900b-5303ca374b90": "2026-11-15",
   "paylocity:0eed7c03-694e-454b-8e29-7abbbc8e65b5": "2026-11-15",
   "paylocity:0f3ed00e-4291-47c3-99cb-5d052bd19190": "2026-11-15",
+  "paylocity:0f4100f7-a201-4dd8-8bbd-f7ba075b6f43": "2026-11-15",
   "paylocity:0fe25160-2fdc-4463-8886-028a240c27a0": "2026-11-15",
   "paylocity:1078af34-40eb-4989-83a3-3a2138324f69": "2026-11-14",
   "paylocity:10b0b146-d7a9-4bb1-ae55-69733ad6c623": "2026-11-15",
@@ -11542,17 +11543,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 25,
+   "n": 26,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 25,
+   "n": 26,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 25,
+   "n": 26,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12294,8 +12295,9 @@
    "since": "2026-11-14"
   },
   "pinpoint:mountainwarehouse": {
+   "disabled_until": "2026-11-22",
    "err": "robots.txt disallows /postings.json",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-15"
   },
   "pinpoint:pica8": {
@@ -12498,7 +12500,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 23,
+   "n": 24,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12563,7 +12565,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 20,
+   "n": 21,
    "since": "2026-11-14"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12610,7 +12612,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 20,
+   "n": 21,
    "since": "2026-11-14"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -12847,8 +12849,8 @@
    65
   ],
   "2026-11-15": [
-   98,
-   372
+   111,
+   422
   ]
  },
  "resolved": {
@@ -63923,6 +63925,7 @@
   "ashby:obviant:832bb3da-4497-4a53-baa7-d3b66cfdf0fd": "2026-11-14",
   "ashby:obviant:d825a3b6-f76f-4ab0-87c6-feb9004fc7ff": "2026-11-14",
   "ashby:obvio:2fb2cb96-828e-4faa-a940-549a8efbdb3c": "2026-11-14",
+  "ashby:openai:2320fe69-df26-4d1d-ada6-d1a46c0e68a1": "2026-11-15",
   "ashby:openai:26cfb873-f30a-4a13-b7b6-52833ea48ec9": "2026-11-14",
   "ashby:openai:783704d7-5afa-45aa-899b-1d6799f73004": "2026-11-14",
   "ashby:openai:80c40695-5cd7-4206-96b6-873158a8e696": "2026-11-14",
@@ -68477,10 +68480,10 @@
  "source_last": {
   "hn": "2026-11-15T17:13:24+00:00",
   "remoteok": "2026-11-15T20:19:04+00:00",
-  "usajobs": "2026-11-15T18:18:52+00:00",
-  "workable_search": "2026-11-15T18:18:52+00:00",
-  "wwr": "2026-11-15T20:19:04+00:00",
-  "yc": "2026-11-15T18:18:52+00:00"
+  "usajobs": "2026-11-15T21:24:55+00:00",
+  "workable_search": "2026-11-15T21:24:55+00:00",
+  "wwr": "2026-11-15T21:24:55+00:00",
+  "yc": "2026-11-15T21:24:55+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
