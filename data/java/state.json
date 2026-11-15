@@ -9937,17 +9937,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 18,
+   "n": 19,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 18,
+   "n": 19,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 18,
+   "n": 19,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -10888,12 +10888,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 16,
+   "n": 17,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -10950,11 +10950,6 @@
    "n": 3,
    "since": "2026-11-14"
   },
-  "workday:fmr|wd1|fidelitycareers": {
-   "err": "invalid JSON",
-   "n": 1,
-   "since": "2026-11-15"
-  },
   "workday:fragomen|wd1|FragomenCareers": {
    "disabled_until": "2026-11-22",
    "err": "HTTP 422",
@@ -10963,7 +10958,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 15,
+   "n": 16,
    "since": "2026-11-14"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11010,7 +11005,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 15,
+   "n": 16,
    "since": "2026-11-14"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -11207,7 +11202,7 @@
   }
  },
  "found_cursor": 0,
- "last_digest": "2026-11-14",
+ "last_digest": "2026-11-15",
  "missed_companies": {
   "*Confidential Healthcare AI Startup": "2026-11-15",
   "Bask Health": "2026-11-15",
@@ -11246,8 +11241,8 @@
    65
   ],
   "2026-11-15": [
-   68,
-   250
+   85,
+   304
   ]
  },
  "resolved": {
@@ -57954,6 +57949,7 @@
   "workday:nidec|wd1|nidec:R0018195": "2026-11-14",
   "workday:nidec|wd1|nidec:R0018531": "2026-11-14",
   "workday:northwesternmutual|wd5|corporate-careers:JR-46279": "2026-11-14",
+  "workday:novanta|wd5|Novanta-Careers:R009421": "2026-11-15",
   "workday:ntrs|wd1|northerntrust:R162951": "2026-11-14",
   "workday:ntst|wd1|careers:R015405": "2026-11-14",
   "workday:nvent|wd5|nVent:R24104": "2026-11-14",
@@ -58003,6 +57999,7 @@
   "workday:oclc|wd1|OCLC_Careers:R0003962": "2026-11-14",
   "workday:oclc|wd1|OCLC_Careers:R0003972": "2026-11-14",
   "workday:onehealthineers|wd3|SHSJB:R-31935": "2026-11-14",
+  "workday:onehealthineers|wd3|SHSJB:R-31956": "2026-11-15",
   "workday:oneoncology|wd1|OneOncology:R-0000025774": "2026-11-14",
   "workday:osu|wd1|OSUCareers:R162113": "2026-11-14",
   "workday:osu|wd1|OSUCareers:R162221": "2026-11-14",
@@ -58274,10 +58271,10 @@
  "source_last": {
   "hn": "2026-11-15T11:16:15+00:00",
   "remoteok": "2026-11-15T13:19:29+00:00",
-  "usajobs": "2026-11-15T11:16:15+00:00",
-  "workable_search": "2026-11-15T11:16:15+00:00",
-  "wwr": "2026-11-15T13:19:29+00:00",
-  "yc": "2026-11-15T11:16:15+00:00"
+  "usajobs": "2026-11-15T14:20:26+00:00",
+  "workable_search": "2026-11-15T14:20:26+00:00",
+  "wwr": "2026-11-15T14:20:26+00:00",
+  "yc": "2026-11-15T14:20:26+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
