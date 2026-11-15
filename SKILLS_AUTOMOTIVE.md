@@ -1,6 +1,6 @@
 # Auto Radar: what the matching jobs ask for
 
-Counted over the job descriptions of **1515 current matches** (boilerplate left out). "Asked for" = named in the requirements or the main duties; "Required" = named under required/basic qualifications or in the title.
+Counted over the job descriptions of **1540 current matches** (boilerplate left out). "Asked for" = named in the requirements or the main duties; "Required" = named under required/basic qualifications or in the title.
 
 ## Skills the resume shows, most asked first
 
@@ -8,30 +8,30 @@ Make sure each of these is written on the resume in the words employers use: rec
 
 | Skill | Asked for in | Required in |
 |---|---:|---:|
-| Embedded software | 795 jobs (52%) | 559 (37%) |
-| C++ | 699 jobs (46%) | 448 (30%) |
-| Python | 623 jobs (41%) | 380 (25%) |
-| C | 500 jobs (33%) | 322 (21%) |
-| Controls/algorithms | 496 jobs (33%) | 241 (16%) |
-| CAN/CAN FD | 456 jobs (30%) | 245 (16%) |
-| Functional safety | 402 jobs (27%) | 169 (11%) |
-| Requirements engineering | 335 jobs (22%) | 108 (7%) |
-| MATLAB | 317 jobs (21%) | 178 (12%) |
-| Requirements-based testing | 281 jobs (19%) | 43 (3%) |
-| Automotive software | 277 jobs (18%) | 105 (7%) |
-| Simulink | 272 jobs (18%) | 146 (10%) |
-| Git | 258 jobs (17%) | 149 (10%) |
-| Jenkins/CI | 236 jobs (16%) | 102 (7%) |
-| Agile/Scrum/Jira | 222 jobs (15%) | 100 (7%) |
+| Embedded software | 816 jobs (53%) | 579 (38%) |
+| C++ | 714 jobs (46%) | 462 (30%) |
+| Python | 627 jobs (41%) | 384 (25%) |
+| C | 519 jobs (34%) | 339 (22%) |
+| Controls/algorithms | 497 jobs (32%) | 242 (16%) |
+| CAN/CAN FD | 458 jobs (30%) | 247 (16%) |
+| Functional safety | 409 jobs (27%) | 174 (11%) |
+| Requirements engineering | 338 jobs (22%) | 110 (7%) |
+| MATLAB | 321 jobs (21%) | 182 (12%) |
+| Requirements-based testing | 281 jobs (18%) | 43 (3%) |
+| Automotive software | 278 jobs (18%) | 105 (7%) |
+| Simulink | 274 jobs (18%) | 148 (10%) |
+| Git | 263 jobs (17%) | 152 (10%) |
+| Jenkins/CI | 238 jobs (15%) | 102 (7%) |
+| Agile/Scrum/Jira | 224 jobs (15%) | 101 (7%) |
+| Software integration/build/release | 222 jobs (14%) | 103 (7%) |
 | ADAS | 219 jobs (14%) | 92 (6%) |
-| Software integration/build/release | 219 jobs (14%) | 103 (7%) |
-| Code reviews | 212 jobs (14%) | 40 (3%) |
-| ISO 26262 | 208 jobs (14%) | 104 (7%) |
-| ECU software | 205 jobs (14%) | 64 (4%) |
-| SIL testing | 182 jobs (12%) | 53 (3%) |
+| Code reviews | 216 jobs (14%) | 40 (3%) |
+| ISO 26262 | 213 jobs (14%) | 109 (7%) |
+| ECU software | 205 jobs (13%) | 64 (4%) |
+| SIL testing | 183 jobs (12%) | 54 (4%) |
 | Model-based design | 122 jobs (8%) | 62 (4%) |
-| Vehicle dynamics/chassis | 114 jobs (8%) | 50 (3%) |
-| SWC/RTE design | 112 jobs (7%) | 14 (1%) |
+| SWC/RTE design | 114 jobs (7%) | 14 (1%) |
+| Vehicle dynamics/chassis | 114 jobs (7%) | 50 (3%) |
 | Unit testing | 108 jobs (7%) | 27 (2%) |
 
 ## Skills the resume does not show, most asked first
@@ -40,23 +40,23 @@ If you have one of these, add it to the resume (and to profiles/automotive/skill
 
 | Skill | Asked for in | Required in |
 |---|---:|---:|
-| HIL testing | 419 jobs (28%) | 145 (10%) |
-| Hardware design (FPGA/PCB/analog) | 326 jobs (22%) | 171 (11%) |
-| Debugging hardware (Lauterbach/JTAG/scope) | 301 jobs (20%) | 181 (12%) |
-| RTOS | 270 jobs (18%) | 168 (11%) |
-| Test automation scripting | 270 jobs (18%) | 118 (8%) |
-| Vehicle/bench testing | 254 jobs (17%) | 73 (5%) |
-| Microcontrollers | 251 jobs (17%) | 122 (8%) |
-| Device drivers/BSP | 241 jobs (16%) | 145 (10%) |
-| Perception/computer vision | 197 jobs (13%) | 85 (6%) |
+| HIL testing | 421 jobs (27%) | 146 (9%) |
+| Hardware design (FPGA/PCB/analog) | 330 jobs (21%) | 173 (11%) |
+| Debugging hardware (Lauterbach/JTAG/scope) | 306 jobs (20%) | 186 (12%) |
+| RTOS | 281 jobs (18%) | 178 (12%) |
+| Test automation scripting | 273 jobs (18%) | 119 (8%) |
+| Microcontrollers | 255 jobs (17%) | 126 (8%) |
+| Vehicle/bench testing | 254 jobs (16%) | 73 (5%) |
+| Device drivers/BSP | 250 jobs (16%) | 151 (10%) |
+| Perception/computer vision | 198 jobs (13%) | 85 (6%) |
 | Vector CANoe/CANalyzer | 187 jobs (12%) | 104 (7%) |
-| Multicore/concurrency | 174 jobs (11%) | 96 (6%) |
+| Embedded Linux/kernel | 180 jobs (12%) | 110 (7%) |
+| Multicore/concurrency | 176 jobs (11%) | 98 (6%) |
 | Powertrain/engine/transmission | 172 jobs (11%) | 83 (5%) |
-| Embedded Linux/kernel | 172 jobs (11%) | 103 (7%) |
-| Cybersecurity (ISO 21434) | 152 jobs (10%) | 59 (4%) |
+| Cybersecurity (ISO 21434) | 155 jobs (10%) | 62 (4%) |
 | Calibration (XCP/INCA/CANape) | 140 jobs (9%) | 93 (6%) |
 | LIN | 131 jobs (9%) | 57 (4%) |
 | Inverter/power electronics | 127 jobs (8%) | 74 (5%) |
-| Motor control | 111 jobs (7%) | 54 (4%) |
+| Motor control | 112 jobs (7%) | 55 (4%) |
 | Automotive Ethernet/SOME-IP | 107 jobs (7%) | 52 (3%) |
 | UDS/diagnostics | 106 jobs (7%) | 56 (4%) |
