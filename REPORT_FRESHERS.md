@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**726 jobs**, newest first. Updated Sun Nov 15, 1:23 PM CST from 12,526 company job boards and other sources.
+**729 jobs**, newest first. Updated Sun Nov 15, 2:19 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,13 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 1,408 matching jobs that job sites and feeds listed this week, 267 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (18)](#sunday-nov-15-18) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (150)](#friday-nov-13-150) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (92)](#tuesday-nov-10-92) · [Mon 9 (84)](#monday-nov-9-84) · [Sun 8 (7)](#sunday-nov-8-7)
+Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (92)](#tuesday-nov-10-92) · [Mon 9 (84)](#monday-nov-9-84) · [Sun 8 (7)](#sunday-nov-8-7)
 
-## Sunday, Nov 15 (18)
+## Sunday, Nov 15 (19)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 1:38 PM | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/netic/178a50d3-f3e8-4031-829f-ce6d6f3ed245) | Cybernetic Labs | San Francisco (onsite) | 80 | 1+ yrs exp |
 | 1:23 PM (seen) | [Associate Robotic Process Automation Developer](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Associate-Robotic-Process-Automation-Developer/5551) | Tql Avature Net |  | 55 | entry-level title; location unclear |
 | 1:23 PM (seen) | [Data Analyst I](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Data-Analyst-I/5506) | Tql Avature Net |  | 55 | entry-level title; location unclear |
 | 1:23 PM (seen) | [Logistics Support Associate I](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Logistics-Support-Associate-I/5525) | Tql Avature Net |  | 55 | entry-level title; location unclear |
@@ -181,7 +182,7 @@ Jump to: [Sun 15 (18)](#sunday-nov-15-18) · [Sat 14 (143)](#saturday-nov-14-143
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Trumbull](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825085) | Macy's | Trumbull, CT, United States | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Serramonte](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825080) | Macy's | Daly City, CA, United States | 75 | entry-level title |
 
-## Friday, Nov 13 (150)
+## Friday, Nov 13 (152)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -311,6 +312,8 @@ Jump to: [Sun 15 (18)](#sunday-nov-15-18) · [Sat 14 (143)](#saturday-nov-14-143
 | date only | [Data Specialist I](https://chghealthcare.wd1.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Data-Specialist-I_JR104670) | Chghealthcare | Salt Lake City, UT; Remote (remote) | 65 | entry-level title |
 | date only | [Junior Developer](https://citi.eightfold.ai/careers/job/859038817328) | Citi | Mississauga, ON, CA (hybrid) | 83 | entry-level title; 1+ yrs exp |
 | date only | [IT Support Technician - Data Technician (Entry Level)](https://apply.workable.com/j-mack/j/9F8E682BC1/) | J Mack | United States (remote) | 65 | entry-level title |
+| date only | [Study Support Technician I – Aquatics (Temp-to-Hire) (Multiple Positi…](https://hhmi.wd1.myworkdayjobs.com/External/job/Janelia-Research-Campus/Study-Support-Technician-I---Aquatics--Temp-to-Hire---Multiple-Positions-_R-4525) | Hhmi | Janelia Research Campus | 73 | entry-level title; E-Verify |
+| date only | [Vivarium Support Technician (Temp-to-Hire)](https://hhmi.wd1.myworkdayjobs.com/External/job/Janelia-Research-Campus/Vivarium-Support-Technician--Temp-to-Hire--2_R-4538) | Hhmi | Janelia Research Campus | 73 | 1+ yrs exp; E-Verify |
 | 10:57 AM | [Customer Support Engineer - Level 1](https://jobs.lever.co/kgroupcompanies/b49d56fd-7003-424d-8724-800241a5e2d0) | K Group | Grand Rapids, Michigan (onsite) | 75 | entry-level title; no future H-1B sponsorship |
 | 10:53 AM | [Internal Platform Engineer](https://jobs.ashbyhq.com/bland/b9784fd8-1cc7-44fc-8fb7-78792c24e9f5) | Bland AI | San Francisco | 75 | 1+ yrs exp |
 | 10:51 AM | [IT Specialist, Information Technology](https://avantus.com/careers?gh_jid=8940029002) | Avantus | (Onsite) San Diego, CA, USA (onsite) | 73 | 1+ yrs exp |
@@ -776,7 +779,7 @@ Jump to: [Sun 15 (18)](#sunday-nov-15-18) · [Sat 14 (143)](#saturday-nov-14-143
 | 8:00 PM | [Patient Support Associate](https://jobs.workable.com/view/1QiEY1djgFwruuycQq9WDi/remote-patient-support-associate-in-united-states-at-theranica-usa%2C-inc.) | Theranica USA, Inc. | Remote, US (remote) | 60 | entry-level title |
 | 3:04 PM | [Groundskeeper Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/41230) | RH | Newport Beach, CA, United States | 63 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2964)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2978)
 
 <details><summary>Show</summary>
 
