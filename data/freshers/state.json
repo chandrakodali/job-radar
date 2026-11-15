@@ -3,8 +3,10 @@
   "adp:000c0490-cc55-4888-9ce3-84bc24843c60|19000101_000001": "2026-11-14",
   "adp:00a315c7-e5f5-4392-94c9-185170c8222a": "2026-11-14",
   "adp:00f2efdd-7a27-4b0b-af2a-2e4da1695f31|19000101_000001": "2026-11-14",
+  "adp:02307472-7039-4ed3-bacb-7c30eec440ed": "2026-11-15",
   "adp:02835ad7-1b2e-4eb2-9773-3454d03b1a3e|19000101_000001": "2026-11-14",
   "adp:0330dee1-d933-49d0-805d-d480b2ad35af": "2026-11-14",
+  "adp:035c77cb-5b5c-4e48-b858-605ab1663076|19000101_000001": "2026-11-15",
   "adp:03c2f092-b213-42ad-98be-1a01f1276c5d|19000101_000001": "2026-11-14",
   "adp:041a8516-be7e-4672-aab7-91b78e278f9c": "2026-11-14",
   "adp:051afe4b-f534-4720-b472-7300b0723581|19000101_000001": "2026-11-14",
@@ -18,6 +20,7 @@
   "adp:07299349-a3c4-4907-95a8-134329e452f8": "2026-11-14",
   "adp:072ac661-78b4-4259-913b-1cf1df7f40b4": "2026-11-14",
   "adp:07a0ee07-3f74-462b-ae89-ff976e804f36|19000101_000001": "2026-11-14",
+  "adp:07b7fd5f-50f4-4fe1-9182-f452c378becd|19000101_000001": "2026-11-15",
   "adp:0885b537-c9f5-47f8-aa4f-0ad7bbebf412|9200900703747_2": "2026-11-14",
   "adp:08d4c38c-d278-4717-8f2c-7829194ce351": "2026-11-14",
   "adp:08f195f0-beb6-4255-a019-dbc8691ab8e8|9200570872864_2": "2026-11-14",
@@ -6778,6 +6781,8 @@
   "paylocity:133a9a75-e44a-4f7e-b954-9af8522b1acb": "2026-11-14",
   "paylocity:1345d48b-d589-40d9-80b2-dc0a2be1e8f0": "2026-11-14",
   "paylocity:1348ee46-2e26-420e-81d3-93bc6ddb2a43": "2026-11-14",
+  "paylocity:13e96a8e-caac-4140-9f25-57c06081fbd4": "2026-11-15",
+  "paylocity:14147534-47d1-4e80-af71-635a7d67cac1": "2026-11-15",
   "paylocity:14223a8b-d10c-4985-b077-944a16d2fea3": "2026-11-14",
   "paylocity:142c9c7e-4192-4bef-9adf-86db6d8f712c": "2026-11-14",
   "paylocity:144df5a8-264d-4a35-9139-e420cb899b95": "2026-11-14",
@@ -9873,17 +9878,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 28,
+   "n": 29,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 28,
+   "n": 29,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 28,
+   "n": 29,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -11256,7 +11261,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11321,7 +11326,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 26,
+   "n": 27,
    "since": "2026-11-13"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11368,7 +11373,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 23,
+   "n": 24,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -11467,16 +11472,6 @@
    "n": 3,
    "since": "2026-11-13"
   },
-  "workday:pru|wd5|Careers": {
-   "err": "invalid JSON",
-   "n": 21,
-   "since": "2026-11-13"
-  },
-  "workday:pru|wd5|pgim_careers": {
-   "err": "invalid JSON",
-   "n": 21,
-   "since": "2026-11-13"
-  },
   "workday:rappi|wd12|es": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 404",
@@ -11523,11 +11518,6 @@
    "disabled_until": "2026-11-20",
    "err": "HTTP 422",
    "n": 3,
-   "since": "2026-11-13"
-  },
-  "workday:target|wd5|targetcareers": {
-   "err": "invalid JSON",
-   "n": 22,
    "since": "2026-11-13"
   },
   "workday:usicinc|wd5|USICCareers": {
@@ -11582,50 +11572,50 @@
  "found_cursor": 0,
  "last_digest": "2026-11-14",
  "missed_companies": {
-  "AG Consulting Partners, Inc.": "2026-11-14",
+  "AG Consulting Partners, Inc.": "2026-11-15",
   "American Consumer Credit Counseling": "2026-11-14",
-  "Bask Health": "2026-11-14",
+  "Bask Health": "2026-11-15",
   "Bountiful": "2026-11-14",
-  "Briljent": "2026-11-14",
+  "Briljent": "2026-11-15",
   "Candid Health": "2026-11-14",
   "Centric Fiber Op Co, LLC": "2026-11-14",
   "Coris": "2026-11-14",
-  "D-ploy": "2026-11-14",
-  "DLN Consulting Group": "2026-11-14",
-  "Dean Dorton": "2026-11-14",
-  "Delaware Nation Industries": "2026-11-14",
+  "D-ploy": "2026-11-15",
+  "DLN Consulting Group": "2026-11-15",
+  "Dean Dorton": "2026-11-15",
+  "Delaware Nation Industries": "2026-11-15",
   "Diversified Services Network, Inc.": "2026-11-13",
-  "Geeks on Site": "2026-11-14",
+  "Geeks on Site": "2026-11-15",
   "GoGoGrandparent": "2026-11-14",
-  "Impact Life": "2026-11-14",
-  "J-Mack Technologies": "2026-11-14",
-  "Jiffy": "2026-11-14",
+  "Impact Life": "2026-11-15",
+  "J-Mack Technologies": "2026-11-15",
+  "Jiffy": "2026-11-15",
   "Julius": "2026-11-14",
   "Karat Financial": "2026-11-14",
-  "Kraft & Kennedy": "2026-11-14",
-  "Manac Trailers USA Inc": "2026-11-14",
+  "Kraft & Kennedy": "2026-11-15",
+  "Manac Trailers USA Inc": "2026-11-15",
   "Medplum": "2026-11-14",
   "Method Financial": "2026-11-14",
-  "Multi Media LLC": "2026-11-14",
-  "Neal R Gross & Co": "2026-11-14",
+  "Multi Media LLC": "2026-11-15",
+  "Neal R Gross & Co": "2026-11-15",
   "Neuberger Berman": "2026-11-14",
   "Numeral": "2026-11-14",
   "OpenDataJobs": "2026-11-14",
-  "Partner One Software Inc": "2026-11-14",
+  "Partner One Software Inc": "2026-11-15",
   "Per Diem": "2026-11-14",
   "Polymath Robotics": "2026-11-14",
-  "Prime Robotics": "2026-11-14",
-  "Rockford": "2026-11-14",
-  "Sand Cherry Associates": "2026-11-14",
-  "Senseye": "2026-11-14",
+  "Prime Robotics": "2026-11-15",
+  "Rockford": "2026-11-15",
+  "Sand Cherry Associates": "2026-11-15",
+  "Senseye": "2026-11-15",
   "SiPhox Health": "2026-11-14",
-  "TRE Industries dba ProHealth": "2026-11-14",
-  "The Trustees of Reservations": "2026-11-14",
-  "Theranica USA, Inc.": "2026-11-14",
-  "USA Clinics Group": "2026-11-14",
-  "University of Mount Saint Vincent": "2026-11-14",
-  "V4C.ai": "2026-11-14",
-  "XMSTART": "2026-11-14",
+  "TRE Industries dba ProHealth": "2026-11-15",
+  "The Trustees of Reservations": "2026-11-15",
+  "Theranica USA, Inc.": "2026-11-15",
+  "USA Clinics Group": "2026-11-15",
+  "University of Mount Saint Vincent": "2026-11-15",
+  "V4C.ai": "2026-11-15",
+  "XMSTART": "2026-11-15",
   "erad": "2026-11-14"
  },
  "missing_once": {},
@@ -11637,6 +11627,10 @@
   "2026-11-14": [
    100,
    577
+  ],
+  "2026-11-15": [
+   17,
+   79
   ]
  },
  "resolved": {
@@ -54344,6 +54338,7 @@
   "apple:usa:200691413": "2026-11-14",
   "apple:usa:200691617": "2026-11-14",
   "apple:usa:200691707": "2026-11-14",
+  "apple:usa:200692239": "2026-11-15",
   "apple:usa:200692246": "2026-11-14",
   "apple:usa:200692268": "2026-11-14",
   "apple:usa:200692689": "2026-11-14",
@@ -55068,6 +55063,18 @@
   "avature:tmf.avature.net|careersmarketplace:46420": "2026-11-14",
   "avature:totalenergies.avature.net|careers:85972": "2026-11-14",
   "avature:totalenergies.avature.net|careers:86227": "2026-11-14",
+  "avature:tql.avature.net|en_US/TQLexternalcareers:18730": "2026-11-15",
+  "avature:tql.avature.net|en_US/TQLexternalcareers:5506": "2026-11-15",
+  "avature:tql.avature.net|en_US/TQLexternalcareers:5507": "2026-11-15",
+  "avature:tql.avature.net|en_US/TQLexternalcareers:5525": "2026-11-15",
+  "avature:tql.avature.net|en_US/TQLexternalcareers:5526": "2026-11-15",
+  "avature:tql.avature.net|en_US/TQLexternalcareers:5527": "2026-11-15",
+  "avature:tql.avature.net|en_US/TQLexternalcareers:5528": "2026-11-15",
+  "avature:tql.avature.net|en_US/TQLexternalcareers:5531": "2026-11-15",
+  "avature:tql.avature.net|en_US/TQLexternalcareers:5543": "2026-11-15",
+  "avature:tql.avature.net|en_US/TQLexternalcareers:5545": "2026-11-15",
+  "avature:tql.avature.net|en_US/TQLexternalcareers:5551": "2026-11-15",
+  "avature:tql.avature.net|en_US/TQLexternalcareers:5562": "2026-11-15",
   "bamboohr:35n:56": "2026-11-14",
   "bamboohr:a3:576": "2026-11-14",
   "bamboohr:a3:584": "2026-11-14",
@@ -61469,6 +61476,8 @@
   "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825084": "2026-11-14",
   "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825085": "2026-11-14",
   "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825116": "2026-11-14",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825375": "2026-11-15",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825413": "2026-11-15",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX_1:213560": "2026-11-13",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX_1:214456": "2026-11-13",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX_1:214463": "2026-11-13",
@@ -61821,6 +61830,11 @@
   "paylocity:031092c6-135e-4ac0-a86a-6ebb8f6c0a79:4660873": "2026-11-14",
   "paylocity:05a8347a-7060-4310-b2be-d19fa27a6518:4599421": "2026-11-14",
   "paylocity:07314255-f13e-4c20-b80c-2b4022218dc8:4642461": "2026-11-14",
+  "paylocity:14147534-47d1-4e80-af71-635a7d67cac1:4321466": "2026-11-15",
+  "paylocity:14147534-47d1-4e80-af71-635a7d67cac1:4321791": "2026-11-15",
+  "paylocity:14147534-47d1-4e80-af71-635a7d67cac1:4342495": "2026-11-15",
+  "paylocity:14147534-47d1-4e80-af71-635a7d67cac1:4385899": "2026-11-15",
+  "paylocity:14147534-47d1-4e80-af71-635a7d67cac1:4616960": "2026-11-15",
   "paylocity:1457d9fd-ff47-44b7-b56a-13fa323378cd:4632453": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL1443405EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2018635EXTERNALENGLOBAL": "2026-11-13",
@@ -66833,6 +66847,7 @@
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2023977": "2026-11-13",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2024804": "2026-11-13",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2025037": "2026-11-13",
+  "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2026129": "2026-11-15",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2026556": "2026-11-13",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2027412": "2026-11-13",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2028307": "2026-11-13",
@@ -67363,6 +67378,7 @@
   "workday:target|wd5|targetcareers:R0000479794": "2026-11-13",
   "workday:target|wd5|targetcareers:R0000479990": "2026-11-13",
   "workday:target|wd5|targetcareers:R0000480097": "2026-11-13",
+  "workday:target|wd5|targetcareers:R0000480120": "2026-11-15",
   "workday:target|wd5|targetcareers:R0000480175": "2026-11-13",
   "workday:target|wd5|targetcareers:R0000480191": "2026-11-13",
   "workday:target|wd5|targetcareers:R0000480199": "2026-11-13",
@@ -67372,6 +67388,7 @@
   "workday:target|wd5|targetcareers:R0000480274": "2026-11-13",
   "workday:target|wd5|targetcareers:R0000480276": "2026-11-13",
   "workday:target|wd5|targetcareers:R0000480283": "2026-11-13",
+  "workday:target|wd5|targetcareers:R0000480294": "2026-11-15",
   "workday:target|wd5|targetcareers:R0000480295": "2026-11-13",
   "workday:target|wd5|targetcareers:R0000480302": "2026-11-13",
   "workday:target|wd5|targetcareers:R0000480313": "2026-11-13",
@@ -67917,7 +67934,7 @@
   "zoho:virtualcolleague:805869000004420928": "2026-11-14"
  },
  "source_last": {
-  "workable_search": "2026-11-14T20:59:07+00:00",
+  "workable_search": "2026-11-15T00:18:03+00:00",
   "yc": "2026-11-14T23:20:13+00:00"
  },
  "title_rules": "6b5ea35ba28d",

@@ -1,19 +1,26 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**680 jobs**, newest first. Updated Sat Nov 14, 5:20 PM CST from 10,713 company job boards and other sources.
+**689 jobs**, newest first. Updated Sat Nov 14, 6:18 PM CST from 10,713 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-201 repeat listings (same company and title in another place or on another source) are merged into one row.
+205 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 731 matching jobs that job sites and feeds listed this week, 127 (17%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 810 matching jobs that job sites and feeds listed this week, 144 (17%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sat 14 (134)](#saturday-nov-14-134) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (111)](#wednesday-nov-11-111) · [Tue 10 (88)](#tuesday-nov-10-88) · [Mon 9 (79)](#monday-nov-9-79) · [Sun 8 (9)](#sunday-nov-8-9) · [Sat 7 (1)](#saturday-nov-7-1)
+Jump to: [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (111)](#wednesday-nov-11-111) · [Tue 10 (88)](#tuesday-nov-10-88) · [Mon 9 (80)](#monday-nov-9-80) · [Sun 8 (9)](#sunday-nov-8-9) · [Sat 7 (1)](#saturday-nov-7-1)
 
-## Saturday, Nov 14 (134)
+## Saturday, Nov 14 (142)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 6:18 PM (seen) | [Associate Robotic Process Automation Developer](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Associate-Robotic-Process-Automation-Developer/5551) | Total Quality Logistics |  | 55 | entry-level title; location unclear |
+| 6:18 PM (seen) | [Data Analyst I](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Data-Analyst-I/5506) | Total Quality Logistics |  | 55 | entry-level title; location unclear |
+| 6:18 PM (seen) | [Logistics Support Associate I](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Logistics-Support-Associate-I/5525) | Total Quality Logistics |  | 55 | entry-level title; location unclear |
+| 6:18 PM (seen) | [Security Operations Center Analyst I](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Security-Operations-Center-Analyst-I/5543) | Total Quality Logistics |  | 55 | entry-level title; location unclear |
+| 6:18 PM (seen) | [Software Developer I](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Software-Developer-I/5545) | Total Quality Logistics |  | 55 | entry-level title; location unclear |
+| 5:28 PM | [Seasonal Fulfillment and Receiving Support Associate, Yakima Valley M…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825413) | Macy's | Union Gap, WA, United States | 75 | entry-level title |
+| 5:27 PM | [Seasonal Fulfillment and Receiving Support Associate, Orland Square](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825375) | Macy's | Orland Park, IL, United States | 75 | entry-level title |
 | 4:19 PM (seen) | [Junior Robotics Software Engineer](https://app.dover.com/apply/alpha1robotics/7f098d3e-3028-4522-bec7-4d5c16220a92) | Alpha1Robotics | Dallas, TX (onsite) | 75 | entry-level title; 1+ yrs exp |
 | 4:19 PM (seen) | [Associate Data Scientist](https://app.dover.com/apply/apparatusai/f15799cd-36af-406c-9296-2f3f158c3b71) | Apparatusai | International (remote) | 62 | entry-level title; 0-2 yrs exp; location unclear |
 | 2:59 PM (seen) | [Entry level Hardware Developer - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=136985) | IBM | Austin, United States +1 more (hybrid) | 65 | entry-level title; repost |
@@ -144,6 +151,7 @@ Jump to: [Sat 14 (134)](#saturday-nov-14-134) · [Fri 13 (148)](#friday-nov-13-1
 | 2:10 PM (seen) | [Software Engineer, Global CRM Platform](https://lifeattiktok.com/search/7281061641377106234) | TikTok | San Jose, California, United States of … | 70 | 1+ yrs exp; entry level (from the text) |
 | 2:10 PM (seen) | [SW Developer / AI Center of Excellence - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131165) | IBM | Austin, United States (hybrid) | 65 | entry level (from the text) |
 | date only | [Front End Associate](https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Fair-Oaks-CA-95628/Front-End-Associate_REQ176782-1) | TJX | Fair Oaks, CA 95628 | 75 | entry-level title |
+| date only | [Deep Learning Framework Communications Engineer - New College Grad 20…](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | NVIDIA | US, CA, Santa Clara | 68 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Cherry Creek](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825116) | Macy's | Denver, CO, United States | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Town Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825084) | Macy's | Kennesaw, GA, United States | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Trumbull](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825085) | Macy's | Trumbull, CT, United States | 75 | entry-level title |
@@ -626,7 +634,7 @@ Jump to: [Sat 14 (134)](#saturday-nov-14-134) · [Fri 13 (148)](#friday-nov-13-1
 | 5:00 AM | [Associate Solution Consultant](https://jobs.ashbyhq.com/socure/f2330d9e-1c1d-493e-adb7-e7602efc789f) | Socure | Hub - New York; Hub - San Francisco; Hu… (hybrid) | 68 | entry-level title |
 | 12:00 AM | [Cyber Security Associate (Contract)](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9185) | Hightower | Chicago, IL, US | 63 | entry-level title |
 
-## Monday, Nov 9 (79)
+## Monday, Nov 9 (80)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -698,6 +706,7 @@ Jump to: [Sat 14 (134)](#saturday-nov-14-134) · [Fri 13 (148)](#friday-nov-13-1
 | date only | [Full Stack AI Engineer](https://lunaroutpost.bamboohr.com/careers/408) | Lunar Outpost | Golden, Colorado | 63 | 1+ yrs exp |
 | date only | [Operations Data Analyst](https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Greenwood-MS/Operations-Data-Analyst_R79129) | Milwaukee Tool | Greenwood, MS | 63 | 0-2 yrs exp |
 | date only | [Network Deploy Technician , Global Network Delivery (GND)](https://www.amazon.jobs/en/jobs/10600652/network-deploy-technician-global-network-delivery-gnd) | Amazon Data Services, Inc. | Hilliard, Ohio, USA | 58 | 1+ yrs exp; no future H-1B sponsorship |
+| date only | [Android Engineer - Flagship Mobile App](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Android-Engineer---Flagship-Mobile-App_R0000480120) | Target | 7000 Target Pkwy N,NCD-0375 Brooklyn Pa… | 63 | entry level (from the text) |
 | 10:57 AM | [Transportation Planner I/GIS Specialist](https://jobs.smartrecruiters.com/AECOM2/744000160673309-transportation-planner-i-gis-specialist) | AECOM | Franklin, TN, United States (hybrid) | 68 | entry level (from the text) |
 | 10:31 AM | [Web Developer - Entry Level](https://jobs.smartrecruiters.com/HardinDesign/744000160661857-web-developer-entry-level) | Hardin Design | Madison, WI, United States | 58 | entry-level title; no future H-1B sponsorship |
 | 9:58 AM | [Documentum Developer, Jr](https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22659) | Southern Company | Birmingham, AL, United States | 63 | entry-level title |
@@ -730,7 +739,7 @@ Jump to: [Sat 14 (134)](#saturday-nov-14-134) · [Fri 13 (148)](#friday-nov-13-1
 |---|---|---|---|---:|---|
 | 10:57 PM | [Support Engineer, PAYGO](https://jobs.ashbyhq.com/exa/f4dd7ae8-cf72-4634-b708-742601b9061c) | Exa | Remote (remote) | 60 | entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2753)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2755)
 
 <details><summary>Show</summary>
 
