@@ -1,6 +1,6 @@
 # Auto Radar: what the matching jobs ask for
 
-Counted over the job descriptions of **1541 current matches** (boilerplate left out). "Asked for" = named in the requirements or the main duties; "Required" = named under required/basic qualifications or in the title.
+Counted over the job descriptions of **1543 current matches** (boilerplate left out). "Asked for" = named in the requirements or the main duties; "Required" = named under required/basic qualifications or in the title.
 
 ## Skills the resume shows, most asked first
 
@@ -10,7 +10,7 @@ Make sure each of these is written on the resume in the words employers use: rec
 |---|---:|---:|
 | Embedded software | 817 jobs (53%) | 580 (38%) |
 | C++ | 713 jobs (46%) | 462 (30%) |
-| Python | 630 jobs (41%) | 388 (25%) |
+| Python | 632 jobs (41%) | 390 (25%) |
 | C | 520 jobs (34%) | 340 (22%) |
 | Controls/algorithms | 496 jobs (32%) | 241 (16%) |
 | CAN/CAN FD | 458 jobs (30%) | 247 (16%) |
@@ -21,14 +21,14 @@ Make sure each of these is written on the resume in the words employers use: rec
 | Automotive software | 278 jobs (18%) | 104 (7%) |
 | Simulink | 274 jobs (18%) | 148 (10%) |
 | Git | 262 jobs (17%) | 151 (10%) |
-| Jenkins/CI | 238 jobs (15%) | 102 (7%) |
+| Jenkins/CI | 240 jobs (16%) | 104 (7%) |
 | Agile/Scrum/Jira | 224 jobs (15%) | 101 (7%) |
 | Software integration/build/release | 221 jobs (14%) | 102 (7%) |
 | ADAS | 218 jobs (14%) | 91 (6%) |
 | Code reviews | 216 jobs (14%) | 40 (3%) |
 | ISO 26262 | 213 jobs (14%) | 109 (7%) |
 | ECU software | 205 jobs (13%) | 64 (4%) |
-| SIL testing | 183 jobs (12%) | 54 (4%) |
+| SIL testing | 183 jobs (12%) | 54 (3%) |
 | Model-based design | 122 jobs (8%) | 62 (4%) |
 | Vehicle dynamics/chassis | 114 jobs (7%) | 50 (3%) |
 | SWC/RTE design | 113 jobs (7%) | 14 (1%) |
@@ -55,7 +55,7 @@ If you have one of these, add it to the resume (and to profiles/automotive/skill
 | Powertrain/engine/transmission | 172 jobs (11%) | 83 (5%) |
 | Cybersecurity (ISO 21434) | 155 jobs (10%) | 62 (4%) |
 | Calibration (XCP/INCA/CANape) | 140 jobs (9%) | 93 (6%) |
-| LIN | 131 jobs (9%) | 57 (4%) |
+| LIN | 131 jobs (8%) | 57 (4%) |
 | Inverter/power electronics | 127 jobs (8%) | 74 (5%) |
 | Motor control | 112 jobs (7%) | 55 (4%) |
 | Automotive Ethernet/SOME-IP | 107 jobs (7%) | 52 (3%) |

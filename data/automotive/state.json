@@ -6921,23 +6921,41 @@
   "paylocity:02ffafc6-8014-4798-b296-cecacc0dc986": "2026-11-14",
   "paylocity:030d20cc-6443-4d57-ae17-8dd3f58e11f8": "2026-11-14",
   "paylocity:031092c6-135e-4ac0-a86a-6ebb8f6c0a79": "2026-11-14",
+  "paylocity:031133dc-c4a4-4cc9-898e-7d5cd52f5ee5": "2026-11-15",
   "paylocity:04927b97-13ba-41c8-afe1-ac78a8acf450": "2026-11-14",
   "paylocity:05a8347a-7060-4310-b2be-d19fa27a6518": "2026-11-14",
   "paylocity:06144481-7908-457c-9312-51cf7b58cf01": "2026-11-14",
   "paylocity:06b3cfd5-88b3-498c-847c-9e1687852028": "2026-11-15",
+  "paylocity:0721fa6f-20b1-48a9-9a2a-7da813f88a10": "2026-11-15",
   "paylocity:07314255-f13e-4c20-b80c-2b4022218dc8": "2026-11-15",
   "paylocity:076ee35d-2815-45ca-a6dc-38be74644a87": "2026-11-14",
   "paylocity:0844bcbc-bc5c-45ed-8674-5fe440c4e57a": "2026-11-14",
   "paylocity:08628d28-fa0d-4893-b85a-43b78653901b": "2026-11-15",
   "paylocity:086af4d0-3dbe-4019-87ba-444c7e2661ac": "2026-11-15",
+  "paylocity:08741992-5802-4419-a6eb-fbb58d6ac948": "2026-11-15",
+  "paylocity:087d8277-967a-4bb5-8fe3-3dc85caedf66": "2026-11-15",
   "paylocity:08c3bc4f-8161-4d98-b8f9-9289db30f8a1": "2026-11-15",
   "paylocity:08eac160-0a1e-4180-8eb0-8381757e63b5": "2026-11-15",
   "paylocity:091968f2-bfa6-405c-9111-bc12c6ab6d3a": "2026-11-15",
   "paylocity:093ed2b1-ab2f-4a60-9277-0def6b949b65": "2026-11-15",
   "paylocity:0a25e82f-b947-4f8e-ba92-cd428be483f8": "2026-11-15",
   "paylocity:0a5e3ff1-7892-4cad-8ae3-5be8d4fb306a": "2026-11-15",
+  "paylocity:0a72dcd6-2616-4d0e-9946-d3a182c43706": "2026-11-15",
   "paylocity:0a7d4d9a-bc92-4826-8481-a7946feb088e": "2026-11-15",
   "paylocity:0ae74d27-4bee-496d-876c-85c8734845c9": "2026-11-15",
+  "paylocity:0b0e65d8-0e53-499c-b510-583fa42f82ed": "2026-11-15",
+  "paylocity:0b639416-fcca-4152-8802-c07fe7dab59b": "2026-11-15",
+  "paylocity:0b6cc596-ce53-4e9d-9b26-b235ed9830c6": "2026-11-15",
+  "paylocity:0ba946fa-bf1f-4728-a713-4bfe119c1d36": "2026-11-15",
+  "paylocity:0c6e953e-969a-4bb6-a5ec-6ca8b1ad0436": "2026-11-15",
+  "paylocity:0cc1c035-08e6-453e-8096-abb5d3303a99": "2026-11-15",
+  "paylocity:0cdcd78d-79e0-4a6b-a633-b39f86b88bf9": "2026-11-15",
+  "paylocity:0d0cdb98-ced2-44b9-b079-e37b2ae9a19b": "2026-11-15",
+  "paylocity:0db36655-7ae1-4ba3-8904-f48848360b5a": "2026-11-15",
+  "paylocity:0db44b81-4269-44e5-9d68-47ba1208c6d1": "2026-11-15",
+  "paylocity:0ebade6c-b3ec-4b29-900b-5303ca374b90": "2026-11-15",
+  "paylocity:0eed7c03-694e-454b-8e29-7abbbc8e65b5": "2026-11-15",
+  "paylocity:0f3ed00e-4291-47c3-99cb-5d052bd19190": "2026-11-15",
   "paylocity:1078af34-40eb-4989-83a3-3a2138324f69": "2026-11-15",
   "paylocity:10c8ea62-0f5a-43ec-9ac1-4863af798914": "2026-11-15",
   "paylocity:10d74e65-36ac-49d3-bd03-22487604cb5e": "2026-11-15",
@@ -9834,10 +9852,10 @@
   "dayforce:jtekt|candidateportal": 50,
   "dayforce:kubota|candidateportal": 50,
   "dspace:www.dspace.com|en/inc/home/career/jobfinder/stellen.cfm": 61,
-  "eightfold:eaton|eaton.com": 356,
-  "eightfold:infineon|infineon.com": 331,
-  "eightfold:johndeere|johndeere.com": 172,
-  "eightfold:qualcomm|qualcomm.com": 306,
+  "eightfold:eaton|eaton.com": 353,
+  "eightfold:infineon|infineon.com": 322,
+  "eightfold:johndeere|johndeere.com": 171,
+  "eightfold:qualcomm|qualcomm.com": 417,
   "greenhouse:altentechnologyusa": 225,
   "greenhouse:archer56": 82,
   "greenhouse:botauto": 22,
@@ -9866,8 +9884,8 @@
   "jazzhr:roush": 64,
   "jibe:careers.garmin.com": 447,
   "jibe:careers.international.com": 169,
-  "jibe:careers.na.panasonic.com": 439,
-  "jibe:careers.rivian.com": 771,
+  "jibe:careers.na.panasonic.com": 437,
+  "jibe:careers.rivian.com": 873,
   "jobvite:sews": 48,
   "ldsite:careers.dauch.com/sitemap.xml|/job/.+/(\\d+)/?$": 372,
   "lever:aeva": 46,
@@ -9879,21 +9897,21 @@
   "lever:woven-by-toyota": 136,
   "lever:zoox": 241,
   "mcloud:2016|careers.stellantis.com": 453,
-  "oracle:edbz.fa.us2.oraclecloud.com|cx": 338,
-  "oracle:efds.fa.em5.oraclecloud.com|cx_1": 466,
-  "oracle:ehth.fa.em2.oraclecloud.com|cx_2001": 64,
-  "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|cx_1": 419,
-  "oracle:hcal.fa.us2.oraclecloud.com|cx_1001": 28,
-  "oracle:hctz.fa.us2.oraclecloud.com|cx_1001": 314,
+  "oracle:edbz.fa.us2.oraclecloud.com|cx": 397,
+  "oracle:efds.fa.em5.oraclecloud.com|cx_1": 460,
+  "oracle:ehth.fa.em2.oraclecloud.com|cx_2001": 63,
+  "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|cx_1": 416,
+  "oracle:hcal.fa.us2.oraclecloud.com|cx_1001": 31,
+  "oracle:hctz.fa.us2.oraclecloud.com|cx_1001": 358,
   "oracle:hcwt.fa.us2.oraclecloud.com|cx": 83,
   "phenom:careers.bose.com|us/en": 101,
   "phenom:careers.brp.com|global/en": 280,
   "phenom:careers.honda.com|us/en": 313,
-  "phenom:careers.quest-global.com|global/en": 665,
-  "phenom:careers.teksystems.com|us/en": 433,
+  "phenom:careers.quest-global.com|global/en": 650,
+  "phenom:careers.teksystems.com|us/en": 523,
   "sfrmk:careers-americas.hyundai.com": 258,
   "sfrmk:careers.agcocorp.com": 333,
-  "sfrmk:careers.capgemini.com": 5081,
+  "sfrmk:careers.capgemini.com": 5109,
   "sfrmk:careers.knorr-bremse.com": 389,
   "sfrmk:careers.te.com": 2423,
   "sfrmk:jobs.avl.com": 211,
@@ -9947,7 +9965,7 @@
   "workday:marvell|wd1|marvellcareers": 173,
   "workday:methode|wd5|methode": 32,
   "workday:michelinhr|wd3|michelin": 110,
-  "workday:moog|wd5|moog_external_career_site": 482,
+  "workday:moog|wd5|moog_external_career_site": 481,
   "workday:nidec|wd1|nidec": 364,
   "workday:nvidia|wd5|nvidiaexternalcareersite": 1405,
   "workday:nxp||careers": 167,
@@ -10212,7 +10230,7 @@
   },
   "ashby:sharedcontextlab": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-15"
   },
   "ashby:tavily": {
@@ -10289,17 +10307,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 23,
+   "n": 24,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 23,
+   "n": 24,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 23,
+   "n": 24,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -10345,8 +10363,9 @@
    "since": "2026-11-11"
   },
   "greenhouse:aisquared": {
+   "disabled_until": "2026-11-22",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-15"
   },
   "greenhouse:alma": {
@@ -10702,16 +10721,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-11"
-  },
-  "icims:careers-cotiviti.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-15"
-  },
-  "icims:careers-eyesouthpartners.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-15"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-19",
@@ -11258,6 +11267,11 @@
    "n": 2,
    "since": "2026-11-15"
   },
+  "workday:bdo|wd3|BDO": {
+   "err": "HTTP 401",
+   "n": 1,
+   "since": "2026-11-15"
+  },
   "workday:boarshead|wd1|BHC": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 403",
@@ -11472,16 +11486,6 @@
    "n": 4,
    "since": "2026-11-12"
   },
-  "workday:pru|wd5|Careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
-  "workday:pru|wd5|pgim_careers": {
-   "err": "invalid JSON",
-   "n": 2,
-   "since": "2026-11-14"
-  },
   "workday:rappi|wd12|es": {
    "disabled_until": "2026-11-19",
    "err": "HTTP 404",
@@ -11584,7 +11588,7 @@
    "since": "2026-11-11"
   }
  },
- "found_cursor": 1701,
+ "found_cursor": 4701,
  "last_digest": "2026-11-15",
  "missed_companies": {},
  "missing_once": {},
@@ -57265,6 +57269,8 @@
   "dspace:www.dspace.com|en/inc/home/career/jobfinder/stellen.cfm:38016": "2026-11-11",
   "dspace:www.dspace.com|en/inc/home/career/jobfinder/stellen.cfm:38172": "2026-11-11",
   "eightfold:appliedmaterials:790319286476": "2026-11-15",
+  "eightfold:autodesk:1443154273961": "2026-11-15",
+  "eightfold:autodesk:1443154273963": "2026-11-15",
   "eightfold:autodesk:1443154273964": "2026-11-14",
   "eightfold:bostonscientific:563602813905941": "2026-11-15",
   "eightfold:bostonscientific|bostonscientific.com:563602813905941": "2026-11-11",
@@ -57637,10 +57643,12 @@
   "eightfold:micron:43573323": "2026-11-15",
   "eightfold:micron:45379454": "2026-11-15",
   "eightfold:ngc:1340074886554": "2026-11-14",
+  "eightfold:ngc:1340075310893": "2026-11-15",
   "eightfold:ngc:1340075315049": "2026-11-14",
   "eightfold:ngc:1340075315052": "2026-11-14",
   "eightfold:ngc:1340075316479": "2026-11-14",
   "eightfold:ngc:1340075316588": "2026-11-14",
+  "eightfold:ngc:1340075317257": "2026-11-15",
   "eightfold:nvidia:893382124964": "2026-11-15",
   "eightfold:nvidia:893383265925": "2026-11-14",
   "eightfold:nvidia:893394115789": "2026-11-14",
@@ -66550,6 +66558,7 @@
   "sfrmk:jobs.volvogroup.com:1376484255": "2026-11-11",
   "sfrmk:jobs.volvogroup.com:1376489555": "2026-11-11",
   "sfrmk:jobs.volvogroup.com:1376491055": "2026-11-11",
+  "sfrmk:jobs.volvogroup.com:1376504655": "2026-11-15",
   "sfrmk:jobs.volvogroup.com:1376506855": "2026-11-11",
   "sfrmk:jobs.volvogroup.com:1376516755": "2026-11-11",
   "sfrmk:jobs.volvogroup.com:1376523455": "2026-11-12",
@@ -72187,7 +72196,7 @@
   "zoho:stackand:311383000018775968": "2026-11-15"
  },
  "source_last": {},
- "term_cursor": 39,
+ "term_cursor": 1,
  "text_retries": {
   "adp:133c28d6-67f7-47dc-9ec7-13b0d7e56158:9201507900269_1": 3,
   "avature:harmanglobal.avature.net|en_US/careers:32516": 2,
