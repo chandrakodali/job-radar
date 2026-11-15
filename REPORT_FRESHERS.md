@@ -1,14 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**729 jobs**, newest first. Updated Sun Nov 15, 2:19 PM CST from 12,526 company job boards and other sources.
+**728 jobs**, newest first. Updated Sun Nov 15, 3:24 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-219 repeat listings (same company and title in another place or on another source) are merged into one row.
+218 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,408 matching jobs that job sites and feeds listed this week, 267 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,510 matching jobs that job sites and feeds listed this week, 288 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (92)](#tuesday-nov-10-92) · [Mon 9 (84)](#monday-nov-9-84) · [Sun 8 (7)](#sunday-nov-8-7)
+Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (92)](#tuesday-nov-10-92) · [Mon 9 (84)](#monday-nov-9-84) · [Sun 8 (6)](#sunday-nov-8-6)
 
 ## Sunday, Nov 15 (19)
 
@@ -186,7 +186,7 @@ Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
-| 10:09 PM | [Gallery Housekeeping Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/42206) | RH | Charlotte, NC, United States +5 more | 75 | entry-level title |
+| 10:09 PM | [Gallery Housekeeping Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/42206) | RH | Charlotte, NC, United States +4 more | 75 | entry-level title |
 | 5:50 PM | [Service Desk Engineer (M-F 3pm to Midnight PST)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=567e686e-7575-49d9-b29f-985e7365f987&ccId=19000101_000001&jobId=9202916632446_104&lang=en_US) | 567E686E 7575 49D9 B29F 985E7… | USA, Remote | 80 | 1+ yrs exp; E-Verify |
 | 5:30 PM | [Administrative Support Team Associate, Poughkeepsie Galleria - Part T…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825033) | Macy's | Poughkeepsie, NY, United States | 85 | entry-level title; 1+ yrs exp |
 | 5:30 PM | [Seasonal Fulfillment and Receiving Support Associate, Pembroke Lakes](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825017) | Macy's | Pembroke Pines, FL, United States | 75 | entry-level title |
@@ -767,7 +767,7 @@ Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143
 | 4:25 AM | [Support Engineer, PAYGO](https://jobs.lever.co/jobgether/6ba9dce0-97e9-470f-a59b-06b6c673fcf2) | Jobgether | US (remote) | 60 | entry level (from the text) |
 | 12:00 AM | [Mergers and Acquisitions Integration Associate](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9183) | Hightower | Chicago, IL, US | 63 | entry-level title |
 
-## Sunday, Nov 8 (7)
+## Sunday, Nov 8 (6)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -777,9 +777,8 @@ Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143
 | 11:00 PM | [Data Center Facility Technician - DFW](https://jobs.dayforcehcm.com/en-US/edc/candidateportaledc/jobs/965) | Edc | Irving, TX, US | 63 | 1+ yrs exp |
 | 10:47 PM | [Data Operations Specialist (Contractor)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4d6d36b1-bedf-4c57-88e7-3817e50bbf21&ccId=19000101_000001&jobId=9202611212108_8&lang=en_US) | 4D6D36B1 Bedf 4C57 88E7 3817E… | Waltham, MA; NY; Chicago, IL | 63 | entry level (from the text) |
 | 8:00 PM | [Patient Support Associate](https://jobs.workable.com/view/1QiEY1djgFwruuycQq9WDi/remote-patient-support-associate-in-united-states-at-theranica-usa%2C-inc.) | Theranica USA, Inc. | Remote, US (remote) | 60 | entry-level title |
-| 3:04 PM | [Groundskeeper Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/41230) | RH | Newport Beach, CA, United States | 63 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2978)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2980)
 
 <details><summary>Show</summary>
 
@@ -831,6 +830,8 @@ Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143
 | date only | [Associate or Mid-level Ground Systems Engineer for MILSATCOM Program](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Associate-or-Mid-level-Ground-Systems-Engineer-for-MILSATCOM-Program_JR2026523943-1) | The Boeing Company | USA - El Segundo, CA; USA - Seal Beach,… (onsite) | 60 | rules: entry-level title; 5+ yrs exp; E-Verify; no future H-1B sponso… |
 | date only | [Mid-level Ground Systems Engineer for MILSATCOM Program](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Mid-level-Ground-Systems-Engineer-for-MILSATCOM-Program_JR2026507793) | The Boeing Company | USA - El Segundo, CA (onsite) | 50 | rules: 10+ yrs exp; E-Verify; no future H-1B sponsorship; needs: Secu… |
 | date only | [24295 - Manual QA Engineer](https://careers.quality-ai.com/job/Petach-_-Tikva-24295-Manual-QA-Engineer/61538544/) | Qualitest |  | 70 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
+| date only | [Digital Solutions and Platform Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2022135EXTERNALENGLOBAL) | Cisco | Maynard, Massachusetts, United States o… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| date only | [Software Development Engineer, Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10604856/software-development-engineer-agentic-ai-velocity-labs) | Amazon Development Center U.S… | New York, New York, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 9:03 AM | [Physical AI Data Collection Associate](https://jobs.ashbyhq.com/Clera/19f1c181-17c0-45ce-981b-cf62240b95d9) | Clera | remote | 50 | rules: entry-level title; 5+ yrs exp; location unclear; asks for 5+ y… |
 | 7:19 AM (seen) | [HPC & MLOps Engineer](https://app.dover.com/apply/c-gen-ai/2ddc9bab-82c0-4554-bc2e-7b023e3bc5d9) | C Gen Ai | United States; United Kingdom; Turkey; … (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 6:49 AM | [IT Support Specialist](https://jobs.workable.com/view/7iddeEL1x5FBHxsHzDPBvd/it-support-specialist-in-petersburg-at-tomorrow-hire) | TOMORROW HIRE | Petersburg, Virginia (onsite) | 75 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
@@ -1183,7 +1184,5 @@ Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143
 | 11:24 AM | [Customer Support Specialist](https://jobs.ashbyhq.com/junipersquare/7709b4cf-5732-46a7-982c-06ab475fc9e7) | Junipersquare | Americas (USA or Canada) (remote) | 65 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 11:18 AM | [Full Stack Engineer (Python / Cloud / React)](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21234) | EXL | Hartford, Connecticut, United States (hybrid) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 11:17 AM | [BIM Application Specialist](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99428) | WSP | Irvine, CA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 11:17 AM | [Product Engineer (Software Engineer)](https://jobs.ashbyhq.com/Clera/eb3c7369-7c47-4654-a151-8434430f0f38) | Clera | San Francisco (onsite) | 70 | rules: 3+ yrs exp; sponsors visas; asks for 3+ years of experience |
-| 11:17 AM | [Data Protection Specialist](https://jobs.smartrecruiters.com/AbbVie/3743990016845806-data-protection-specialist) | AbbVie | Branchburg, NJ, United States +5 more (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>

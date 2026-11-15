@@ -7941,9 +7941,12 @@
   "paylocity:0d0cdb98-ced2-44b9-b079-e37b2ae9a19b": "2026-11-15",
   "paylocity:0db36655-7ae1-4ba3-8904-f48848360b5a": "2026-11-15",
   "paylocity:0db44b81-4269-44e5-9d68-47ba1208c6d1": "2026-11-15",
+  "paylocity:0df15ebe-60fa-4965-b80a-61ee78181310": "2026-11-15",
+  "paylocity:0eb7cb65-ba5e-4694-a74f-130dbd3a7e32": "2026-11-15",
   "paylocity:0ebade6c-b3ec-4b29-900b-5303ca374b90": "2026-11-15",
   "paylocity:0eed7c03-694e-454b-8e29-7abbbc8e65b5": "2026-11-15",
   "paylocity:0f3ed00e-4291-47c3-99cb-5d052bd19190": "2026-11-15",
+  "paylocity:0f4100f7-a201-4dd8-8bbd-f7ba075b6f43": "2026-11-15",
   "paylocity:0fe25160-2fdc-4463-8886-028a240c27a0": "2026-11-15",
   "paylocity:1078af34-40eb-4989-83a3-3a2138324f69": "2026-11-14",
   "paylocity:10c8ea62-0f5a-43ec-9ac1-4863af798914": "2026-11-14",
@@ -11663,17 +11666,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 50,
+   "n": 51,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 50,
+   "n": 51,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 50,
+   "n": 51,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12415,8 +12418,9 @@
    "since": "2026-11-13"
   },
   "pinpoint:mountainwarehouse": {
+   "disabled_until": "2026-11-22",
    "err": "robots.txt disallows /postings.json",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-15"
   },
   "pinpoint:pica8": {
@@ -13057,7 +13061,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 23,
+   "n": 24,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -13122,7 +13126,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 45,
+   "n": 46,
    "since": "2026-11-13"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -13169,7 +13173,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 42,
+   "n": 43,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -13426,8 +13430,8 @@
    577
   ],
   "2026-11-15": [
-   140,
-   677
+   161,
+   779
   ]
  },
  "resolved": {
@@ -64377,6 +64381,7 @@
   "amazon:us:10604684": "2026-11-14",
   "amazon:us:10604727": "2026-11-14",
   "amazon:us:10604833": "2026-11-14",
+  "amazon:us:10604856": "2026-11-15",
   "amazon:us:10604860": "2026-11-14",
   "amazon:us:10604881": "2026-11-14",
   "amazon:us:10604889": "2026-11-14",
@@ -65151,6 +65156,11 @@
   "avature:mccannwg.avature.net|careersinternal:6994": "2026-11-15",
   "avature:mccannwg.avature.net|careersinternal:7019": "2026-11-15",
   "avature:mccannwg.avature.net|careersinternal:7040": "2026-11-15",
+  "avature:mercadona.avature.net|Careers:314123": "2026-11-15",
+  "avature:mercadona.avature.net|Careers:314140": "2026-11-15",
+  "avature:mercadona.avature.net|Careers:314561": "2026-11-15",
+  "avature:mercadona.avature.net|Careers:324466": "2026-11-15",
+  "avature:mercadona.avature.net|Careers:324818": "2026-11-15",
   "avature:metlife.avature.net|en_US/ml:21375": "2026-11-13",
   "avature:metlife.avature.net|en_US/ml:21418": "2026-11-13",
   "avature:metlife.avature.net|en_US/ml:21470": "2026-11-13",
@@ -67400,6 +67410,7 @@
   "eightfold:ford:563568453866179": "2026-11-14",
   "eightfold:ford:563568454040019": "2026-11-14",
   "eightfold:ford:563568454081748": "2026-11-14",
+  "eightfold:ford:563568454084931": "2026-11-15",
   "eightfold:ford:563568454093634": "2026-11-14",
   "eightfold:ford:563568454116599": "2026-11-14",
   "eightfold:ford:563568454133683": "2026-11-14",
@@ -72492,6 +72503,7 @@
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:71157": "2026-11-13",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:72414": "2026-11-13",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:72939": "2026-11-13",
+  "oracle:efds.fa.em5.oraclecloud.com|CX_1:73114": "2026-11-15",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73264": "2026-11-13",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73520": "2026-11-13",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73928": "2026-11-13",
@@ -72823,6 +72835,7 @@
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2020605EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2021048EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2021976EXTERNALENGLOBAL": "2026-11-13",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2022135EXTERNALENGLOBAL": "2026-11-15",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2022348EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2022501EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2022542EXTERNALENGLOBAL": "2026-11-13",
@@ -79204,8 +79217,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-15T18:18:51+00:00",
-  "yc": "2026-11-15T18:18:51+00:00"
+  "workable_search": "2026-11-15T21:24:54+00:00",
+  "yc": "2026-11-15T21:24:54+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
