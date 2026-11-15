@@ -9954,17 +9954,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 42,
+   "n": 43,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 42,
+   "n": 43,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 42,
+   "n": 43,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -11343,12 +11343,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 5,
+   "n": 6,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 15,
+   "n": 16,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11413,7 +11413,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 38,
+   "n": 39,
    "since": "2026-11-13"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11460,7 +11460,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 35,
+   "n": 36,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -11657,7 +11657,7 @@
   }
  },
  "found_cursor": 0,
- "last_digest": "2026-11-14",
+ "last_digest": "2026-11-15",
  "missed_companies": {
   "AG Consulting Partners, Inc.": "2026-11-15",
   "American Consumer Credit Counseling": "2026-11-14",
