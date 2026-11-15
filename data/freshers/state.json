@@ -3597,6 +3597,7 @@
   "dover:clad": "2026-11-15",
   "dover:cloudforgesoftware": "2026-11-15",
   "dover:cloudwaveinc": "2026-11-15",
+  "dover:codeclimate": "2026-11-15",
   "dover:codingal": "2026-11-13",
   "dover:cointelligencelabs": "2026-11-15",
   "dover:column": "2026-11-15",
@@ -11671,17 +11672,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 52,
+   "n": 53,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 52,
+   "n": 53,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 52,
+   "n": 53,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -66776,6 +66777,7 @@
   "catsone:geniusroad:16863938": "2026-11-14",
   "catsone:geniusroad:16864126": "2026-11-14",
   "catsone:geniusroad:16866864": "2026-11-14",
+  "catsone:geniusroad:16873657": "2026-11-15",
   "catsone:hartmanresumes:16868220": "2026-11-14",
   "catsone:hartmanresumes:16870322": "2026-11-14",
   "catsone:headhuntinginc:16759887": "2026-11-14",
@@ -72425,6 +72427,7 @@
   "oracle:ecge.fa.us2.oraclecloud.com|CX:20262276": "2026-11-15",
   "oracle:ecge.fa.us2.oraclecloud.com|CX_1003:20261361": "2026-11-13",
   "oracle:ecge.fa.us2.oraclecloud.com|CX_1003:20261998": "2026-11-13",
+  "oracle:ecge.fa.us2.oraclecloud.com|CX_1003:20262183": "2026-11-15",
   "oracle:ecge.fa.us2.oraclecloud.com|CX_1003:20262276": "2026-11-13",
   "oracle:eckb.fa.us2.oraclecloud.com|CX_1001:103424": "2026-11-14",
   "oracle:eckb.fa.us2.oraclecloud.com|CX_1020:103424": "2026-11-14",
