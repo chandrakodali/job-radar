@@ -1,12 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**689 jobs**, newest first. Updated Sat Nov 14, 11:23 PM CST from 10,713 company job boards and other sources.
+**689 jobs**, newest first. Updated Sun Nov 15, 12:19 AM CST from 10,713 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 207 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 904 matching jobs that job sites and feeds listed this week, 164 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,005 matching jobs that job sites and feeds listed this week, 183 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 14 (144)](#saturday-nov-14-144) · [Fri 13 (147)](#friday-nov-13-147) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (111)](#wednesday-nov-11-111) · [Tue 10 (88)](#tuesday-nov-10-88) · [Mon 9 (80)](#monday-nov-9-80) · [Sun 8 (9)](#sunday-nov-8-9)
 
@@ -734,12 +734,13 @@ Jump to: [Sat 14 (144)](#saturday-nov-14-144) · [Fri 13 (147)](#friday-nov-13-1
 | 2:00 AM | [Specialist Growth & Transformation Software Engineering BUILD Program](https://careers.acuityinc.com/job/Atlanta-Specialist-Growth-&-Transformation-Software-Engineering-BUILD-Program-GA-30309/1429282700/) | Acuity | Atlanta, GA, US | 78 | 0-2 yrs exp; entry level (from the text); E-Verify |
 | 2:00 AM | [Specialist Firmware Engineering BUILD Program (July)](https://careers.acuityinc.com/job/Atlanta-Specialist-Firmware-Engineering-BUILD-Program-%28July%29-GA-30309/1428876800/) | Acuity | Atlanta, GA, US | 63 | entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2779)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2780)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [IT Technical Specialist](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/IT-Technical-Specialist_R0173102-11) | Amentum | US-TX-Houston (onsite) | 65 | rules: 3+ yrs exp; needs: security clearance |
 | 10:23 PM | [RVP, Solutions Engineering, Enterprise](https://jobs.ashbyhq.com/factory/b553864f-79f2-4b45-9e66-550c31cf0e1c) | Factory | San Francisco, CA | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:19 PM (seen) | [ITOPS Engineer – Logistics & Shipping](https://crackajackdigitalsolutionsllc.applytojob.com/apply/jIVIswjKI1/ITOPS-Engineer-Logistics-Shipping) | CrackaJack Digital Solutions … | Houston, TX | 30 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:19 PM (seen) | [DevSecOps Engineer - JobID-0331](https://idtus.pinpointhq.com/en/postings/b542c38e-8f15-4abc-b9c8-302d09b8a21d) | Innovative Defense Technologi… | Arlington, VA +3 more (hybrid) | 35 | rules: 5+ yrs exp; needs: Security Clearance |
@@ -1139,6 +1140,5 @@ Jump to: [Sat 14 (144)](#saturday-nov-14-144) · [Fri 13 (147)](#friday-nov-13-1
 | date only | [Global Security Operations Center (GSOC) Operator](https://newbalance.wd1.myworkdayjobs.com/Careers/job/Boston-MA-Headquarters---NB/Global-Security-Operations-Center--GSOC--Operator_R41723-1) | New Balance | Boston, MA Headquarters - (NB) | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Global Security Operations Center (GSOC) Analyst](https://newbalance.wd1.myworkdayjobs.com/Careers/job/Boston-MA-Headquarters---NB/Global-Security-Operations-Center--GSOC--Analyst_R41721) | New Balance | Boston, MA Headquarters - (NB) | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Technical Support Analyst (Hybrid)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Technical-Support-Specialist--Hybrid-_R66641) | Motorola | Allen, TX (TX139) | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [ONCOLOGY PHARM TECH SPECIALIST- IDS](https://moffitt.wd108.myworkdayjobs.com/Moffitt/job/Magnolia-Hospital/ONCOLOGY-PHARM-TECH-SPECIALIST--IDS_R-3909) | Moffitt Cancer Center | Magnolia Hospital (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 
 </details>

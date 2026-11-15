@@ -9940,17 +9940,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 34,
+   "n": 35,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 34,
+   "n": 35,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 34,
+   "n": 35,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -9994,6 +9994,11 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-13"
+  },
+  "greenhouse:aisquared": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-15"
   },
   "greenhouse:alma": {
    "disabled_until": "2026-11-20",
@@ -11323,7 +11328,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 7,
+   "n": 8,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11660,7 +11665,7 @@
   "Method Financial": "2026-11-15",
   "Multi Media LLC": "2026-11-15",
   "Neal R Gross & Co": "2026-11-15",
-  "Neuberger Berman": "2026-11-14",
+  "Neuberger Berman": "2026-11-15",
   "Numeral": "2026-11-15",
   "OpenDataJobs": "2026-11-14",
   "Partner One Software Inc": "2026-11-15",
@@ -11691,8 +11696,8 @@
    577
   ],
   "2026-11-15": [
-   37,
-   173
+   56,
+   274
   ]
  },
  "resolved": {
@@ -65007,6 +65012,7 @@
   "workable_search:all:deeacb15-0f39-49f3-a686-8cc9f52e8107": "2026-11-13",
   "workable_search:all:df514fb4-98f8-489e-b283-3e42fd16177d": "2026-11-13",
   "workable_search:all:efe03d7a-51f8-496d-b53d-a90927392297": "2026-11-13",
+  "workable_search:all:f46aa1e7-e758-41f7-8915-1e54145b6884": "2026-11-15",
   "workable_search:all:f58786a0-78d0-4923-8828-f3fd026fc574": "2026-11-13",
   "workable_search:all:f6a887a0-abd5-445a-8c1d-11d7fa3eb42f": "2026-11-13",
   "workable_search:all:fd9df2b9-cd87-41eb-8044-a50e4be5fc2d": "2026-11-13",
@@ -67052,6 +67058,7 @@
   "workday:pae|wd1|amentum_careers:R0171936": "2026-11-14",
   "workday:pae|wd1|amentum_careers:R0172308": "2026-11-14",
   "workday:pae|wd1|amentum_careers:R0172780": "2026-11-14",
+  "workday:pae|wd1|amentum_careers:R0173102": "2026-11-15",
   "workday:pae|wd1|amentum_careers:R0174508": "2026-11-13",
   "workday:pae|wd1|amentum_careers:R0174637": "2026-11-13",
   "workday:pae|wd1|amentum_careers:R0174727": "2026-11-14",
@@ -68082,8 +68089,8 @@
   "zoho:virtualcolleague:805869000004420928": "2026-11-14"
  },
  "source_last": {
-  "workable_search": "2026-11-15T03:19:43+00:00",
-  "yc": "2026-11-15T03:19:43+00:00"
+  "workable_search": "2026-11-15T06:19:11+00:00",
+  "yc": "2026-11-15T06:19:11+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
