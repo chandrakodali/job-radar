@@ -10314,17 +10314,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 91,
+   "n": 92,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 91,
+   "n": 92,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 91,
+   "n": 92,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -10734,6 +10734,16 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-09"
+  },
+  "icims:careers-cotiviti.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "icims:careers-eyesouthpartners.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-15"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-16",
@@ -12782,12 +12792,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 22,
+   "n": 23,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12852,7 +12862,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 90,
+   "n": 91,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12899,7 +12909,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 61,
+   "n": 62,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
