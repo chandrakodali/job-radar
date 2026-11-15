@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**689 jobs**, newest first. Updated Sat Nov 14, 7:19 PM CST from 10,713 company job boards and other sources.
+**689 jobs**, newest first. Updated Sat Nov 14, 8:11 PM CST from 10,713 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -739,7 +739,7 @@ Jump to: [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (148)](#friday-nov-13-1
 |---|---|---|---|---:|---|
 | 10:57 PM | [Support Engineer, PAYGO](https://jobs.ashbyhq.com/exa/f4dd7ae8-cf72-4634-b708-742601b9061c) | Exa | Remote (remote) | 60 | entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2756)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2758)
 
 <details><summary>Show</summary>
 
