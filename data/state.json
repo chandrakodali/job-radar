@@ -9970,17 +9970,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 72,
+   "n": 73,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 72,
+   "n": 73,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 72,
+   "n": 73,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -10384,6 +10384,16 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-09"
+  },
+  "icims:careers-cotiviti.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "icims:careers-eyesouthpartners.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-15"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-16",
@@ -12432,7 +12442,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12495,14 +12505,9 @@
    "n": 4,
    "since": "2026-11-08"
   },
-  "workday:gehc|wd5|GEHC_ExternalSite": {
-   "err": "HTTP 520",
-   "n": 1,
-   "since": "2026-11-15"
-  },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 72,
+   "n": 73,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12510,6 +12515,11 @@
    "err": "HTTP 403",
    "n": 4,
    "since": "2026-11-08"
+  },
+  "workday:hubinternational|wd1|HUBInternational": {
+   "err": "invalid JSON",
+   "n": 1,
+   "since": "2026-11-15"
   },
   "workday:idexx|wd1|IDEXX": {
    "disabled_until": "2026-11-21",
@@ -12549,7 +12559,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 44,
+   "n": 45,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -12654,16 +12664,6 @@
    "n": 3,
    "since": "2026-11-11"
   },
-  "workday:pru|wd5|Careers": {
-   "err": "invalid JSON",
-   "n": 43,
-   "since": "2026-11-13"
-  },
-  "workday:pru|wd5|pgim_careers": {
-   "err": "invalid JSON",
-   "n": 42,
-   "since": "2026-11-13"
-  },
   "workday:rappi|wd12|es": {
    "disabled_until": "2026-11-18",
    "err": "HTTP 404",
@@ -12713,9 +12713,9 @@
    "since": "2026-11-08"
   },
   "workday:usicinc|wd5|USICCareers": {
-   "disabled_until": "2026-11-15",
+   "disabled_until": "2026-11-22",
    "err": "HTTP 422",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-08"
   },
   "workday:vca|wd1|antechcareers": {
@@ -12761,9 +12761,9 @@
    "since": "2026-11-08"
   },
   "workday:walmart|wd5|WalmartExternal": {
-   "disabled_until": "2026-11-15",
+   "disabled_until": "2026-11-22",
    "err": "HTTP 422",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-08"
   }
  },
@@ -12774,14 +12774,14 @@
   "Bask Health": "2026-11-14",
   "Coris": "2026-11-14",
   "Diversified Services Network, Inc.": "2026-11-14",
-  "EdgeQ Technologies Private Limited": "2026-11-14",
-  "Edgewater Federal Solutions, Inc.": "2026-11-14",
+  "EdgeQ Technologies Private Limited": "2026-11-15",
+  "Edgewater Federal Solutions, Inc.": "2026-11-15",
   "Essnova Solutions, Inc.": "2026-11-14",
   "Foresight Works Ltd": "2026-11-13",
   "Fortanix": "2026-11-14",
   "GEM Technologies": "2026-11-14",
   "Halcyon": "2026-11-14",
-  "Knack": "2026-11-14",
+  "Knack": "2026-11-15",
   "Odin": "2026-11-14",
   "OpenDataJobs": "2026-11-14",
   "PGTEK": "2026-11-14",
@@ -12812,8 +12812,8 @@
    356
   ],
   "2026-11-15": [
-   0,
-   0
+   1,
+   4
   ]
  },
  "resolved": {
@@ -58950,10 +58950,10 @@
  },
  "source_last": {
   "hn": "2026-11-14T20:37:21+00:00",
-  "remoteok": "2026-11-14T22:37:14+00:00",
+  "remoteok": "2026-11-15T00:37:16+00:00",
   "usajobs": "2026-11-14T23:37:14+00:00",
   "workable_search": "2026-11-14T23:37:14+00:00",
-  "wwr": "2026-11-14T23:37:14+00:00",
+  "wwr": "2026-11-15T00:37:16+00:00",
   "yc": "2026-11-14T23:37:14+00:00"
  },
  "title_rules": "15160d40994f",
