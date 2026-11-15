@@ -1,10 +1,10 @@
 # Cloud, DevOps, SRE, platform and infrastructure roles (no job board)
 
-Updated 2026-11-14 18:55 UTC. **98 open roles** at 75 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
+Updated 2026-11-15 08:31 UTC. **96 open roles** at 73 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
 
 **Apply:** the ✉ link opens an email to the company's hiring address with the subject filled in; attach your résumé. Scores and notes use the radar's rules (config.yaml): higher is a better early-career fit; "location unclear" means the page didn't say, so check it. 🆕 = first seen in the last 2 days.
 
-## US or location not stated (98)
+## US or location not stated (96)
 
 | Score | Role | Company | Location | Apply | Since | Notes |
 |---:|---|---|---|---|---|---|
@@ -19,17 +19,13 @@ Updated 2026-11-14 18:55 UTC. **98 open roles** at 75 companies that post jobs o
 | 50 | [Platform Engineer](https://www.freestyle.sh/careers) | Freestyle | San Francisco, CA | [✉ jobs@freestyle.sh](mailto:jobs@freestyle.sh?subject=Application%3A%20Platform%20Engineer%20%E2%80%93%20Freestyle) | Nov 11 |  |
 | 50 | [Infrastructure & Reliability Engineer](https://www.freestyle.sh/careers) | Freestyle | San Francisco, CA | [✉ jobs@freestyle.sh](mailto:jobs@freestyle.sh?subject=Application%3A%20Infrastructure%20%26%20Reliability%20Engineer%20%E2%80%93%20Freestyle) | Nov 11 |  |
 | 50 | [IT Infrastructure Engineer](https://isengardindustries.com/careers.html) | Isengard Industries Inc | St. Petersburg, FL · Full-time | [✉ hello@isengardindustries.com](mailto:hello@isengardindustries.com?subject=Application%3A%20IT%20Infrastructure%20Engineer%20%E2%80%93%20Isengard%20Industries%20Inc) | Nov 11 |  |
-| 50 | [Agentic data infrastructure engineer](https://linewise.io/careers/agentic-data-infrastructure-engineer/) | Linewise | ? | [✉ info@linewise.io](mailto:info@linewise.io?subject=Application%3A%20Agentic%20data%20infrastructure%20engineer%20%E2%80%93%20Linewise) | Nov 11 |  |
 | 50 | [Infrastructure Engineer, 3D Data](https://movingatoms.ai/careers/infrastructure-engineer-3d-data/) | Moving Atoms | ? | [✉ founders@movingatoms.ai](mailto:founders@movingatoms.ai?subject=Application%3A%20Infrastructure%20Engineer%2C%203D%20Data%20%E2%80%93%20Moving%20Atoms) | Nov 11 |  |
-| 50 | [Founding DevOps Engineer](https://pally.com/careers/1006) | Pally | San Francisco, CA · Full-time… | [Careers page](https://pally.com/careers/1006) | Nov 11 |  |
 | 50 | [Platform Engineer (Rust)](https://pola.rs/careers/) | Polars | Hybrid | [Careers page](https://pola.rs/careers/) | Nov 11 | location unclear |
 | 50 | [Platform Engineer](https://www.promptarmor.com/careers/platform-engineer) | PromptArmor | ? | [✉ careers@promptarmor.com](mailto:careers@promptarmor.com?subject=Application%3A%20Platform%20Engineer%20%E2%80%93%20PromptArmor) | Nov 11 |  |
-| 50 | [Systems Engineer, AI Infrastructure](https://sapient.inc/en/careers/systems-engineer-ai-infrastructure) | Sapient Intelligence | On-Site or Hybrid | [✉ careers@sapient.inc](mailto:careers@sapient.inc?subject=Application%3A%20Systems%20Engineer%2C%20AI%20Infrastructure%20%E2%80%93%20Sapient%20Intelligence) | Nov 11 | location unclear |
 | 50 | [Platform Engineer](https://www.thirdlayer.inc/careers/platform-engineer) | Thirdlayer | San Francisco, CA, USA | [Careers page](https://www.thirdlayer.inc/careers/platform-engineer) | Nov 11 |  |
 | 50 | [DevOps Engineer](https://www.versionstory.com/company/careers) | Version Story Compare | New York | [✉ careers@versionstory.com](mailto:careers@versionstory.com?subject=Application%3A%20DevOps%20Engineer%20%E2%80%93%20Version%20Story%20Compare) | Nov 11 |  |
 | 47 | [Platform Engineer](https://anchore.com/wp-content/uploads/2026/10/Platform-Engineer-Job-Description-v.09_2026-1.pdf) | Anchore | Remote US | [✉ hr@anchore.com](mailto:hr@anchore.com?subject=Application%3A%20Platform%20Engineer%20%E2%80%93%20Anchore) | Nov 11 |  |
 | 47 | [Site Reliability Engineer (SRE) ( Engineering )](https://www.iopipe.com/jobs/) | IOpipe | Remote (US Only) | [Careers page](https://www.iopipe.com/jobs/) | Nov 11 |  |
-| 47 | [Infrastructure Software Engineer](https://www.joyent.com/careers/infrastructure-software-engineer-topology-and-observability) | Joyent | Mountain View, CA or Remote | [✉ jobs@joyent.com](mailto:jobs@joyent.com?subject=Application%3A%20Infrastructure%20Software%20Engineer%20%E2%80%93%20Joyent) | Nov 11 |  |
 | 47 | [Applied Research Platform Engineer](https://ndea.com/jobs/applied-research-platform-engineer) | Ndea | Seattle, WA, USA (Remote ok) | [✉ future@ndea.com](mailto:future@ndea.com?subject=Application%3A%20Applied%20Research%20Platform%20Engineer%20%E2%80%93%20Ndea) | Nov 11 |  |
 | 45 | [DevOps Engineer](https://www.anjuna.io/careers) | Anjuna | ? | [Careers page](https://www.anjuna.io/careers) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer (WordPress & Hosting)](https://brainstormforce.com/join/) | Brainstorm Force | ? | [Careers page](https://brainstormforce.com/join/) | Nov 11 | location unclear |
@@ -47,12 +43,14 @@ Updated 2026-11-14 18:55 UTC. **98 open roles** at 75 companies that post jobs o
 | 45 | [DevOps Engineer](https://meduzzen.com/careers/) | Meduzzen | ? | [Careers page](https://meduzzen.com/careers/) | Nov 11 | location unclear |
 | 45 | [Platform / DevOps Engineer](https://muzz.com/us/en/careers/) | Muzz | ? | [✉ careers@muzz.com](mailto:careers@muzz.com?subject=Application%3A%20Platform%20/%20DevOps%20Engineer%20%E2%80%93%20Muzz) | Nov 12 | location unclear |
 | 45 | [Site Reliability Engineer](https://omniti.com/is/hiring/site-reliability-engineer.html) | OmniTI | ? | [✉ careers@omniti.com](mailto:careers@omniti.com?subject=Application%3A%20Site%20Reliability%20Engineer%20%E2%80%93%20OmniTI) | Nov 11 | location unclear |
+| 45 | [Founding DevOps Engineer](https://pally.com/careers/1006) | Pally | San Francisco, CA · Full-time… | [Careers page](https://pally.com/careers/1006) | Nov 11 | 4+ yrs exp |
 | 45 | [Platform Engineer](https://www.paradedb.com/careers/platform-engineer) | ParadeDB | ? | [✉ founders@paradedb.com](mailto:founders@paradedb.com?subject=Application%3A%20Platform%20Engineer%20%E2%80%93%20ParadeDB) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer](https://www.previousnext.com.au/about/careers) | PreviousNext | ? | [Careers page](https://www.previousnext.com.au/about/careers) | Nov 11 | location unclear |
 | 45 | [Infrastructure Engineer](https://www.red-gate.com/our-company/careers/current-opportunities/infrastructure-engineer-6) | Redgate Software | ? | [Apply](https://jobs.ashbyhq.com/red-gate/fc9ce65b-d75d-4f7b-bd1b-2fb1fec77944/application) | Nov 11 | location unclear |
 | 45 | [Devops engineer](https://www.rendrhq.com/about) | Rendr Software Group | ? | [✉ jobs@rendr.io](mailto:jobs@rendr.io?subject=Application%3A%20Devops%20engineer%20%E2%80%93%20Rendr%20Software%20Group) | Nov 11 | location unclear |
 | 45 | [Site Reliability Engineer](https://rhodecode.com/careers/) | RhodeCode | ? | [✉ jobs@rhodecode.com](mailto:jobs@rhodecode.com?subject=Application%3A%20Site%20Reliability%20Engineer%20%E2%80%93%20RhodeCode) | Nov 11 | location unclear |
 | 45 | [Platform engineer](https://rimward.ai/careers/) | Rimward | ? | [✉ careers@rimward.ai](mailto:careers@rimward.ai?subject=Application%3A%20Platform%20engineer%20%E2%80%93%20Rimward) | Nov 11 | location unclear |
+| 45 | [Systems Engineer, AI Infrastructure](https://sapient.inc/en/careers/systems-engineer-ai-infrastructure) | Sapient Intelligence | On-Site or Hybrid | [✉ careers@sapient.inc](mailto:careers@sapient.inc?subject=Application%3A%20Systems%20Engineer%2C%20AI%20Infrastructure%20%E2%80%93%20Sapient%20Intelligence) | Nov 11 | 3+ yrs exp; location unclear |
 | 45 | [SysOps / Cloud System Engineer](https://www.sardinasystems.com/about-us/careers/) | Sardina Systems | ? | [✉ jobs@sardinasystems.com](mailto:jobs@sardinasystems.com?subject=Application%3A%20SysOps%20/%20Cloud%20System%20Engineer%20%E2%80%93%20Sardina%20Systems) | Nov 11 | location unclear |
 | 45 | [Cloud Operations Developer](https://www.sardinasystems.com/about-us/careers/) | Sardina Systems | ? | [✉ jobs@sardinasystems.com](mailto:jobs@sardinasystems.com?subject=Application%3A%20Cloud%20Operations%20Developer%20%E2%80%93%20Sardina%20Systems) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer](https://www.strikingly.com/s/careers) | Strikingly | ? | [✉ jobs@strikingly.com](mailto:jobs@strikingly.com?subject=Application%3A%20DevOps%20Engineer%20%E2%80%93%20Strikingly) | Nov 11 | location unclear |
@@ -65,8 +63,8 @@ Updated 2026-11-14 18:55 UTC. **98 open roles** at 75 companies that post jobs o
 | 42 | [DevOps Engineer](https://www.outsourcingdev.com/careers/) | OutsourcingDev | Remote | [Careers page](https://www.outsourcingdev.com/careers/) | Nov 11 | location unclear |
 | 42 | [Agent Infrastructure Engineer](https://pydantic.dev/jobs/agent-infrastructure-engineer) | Pydantic | Fully remote | [✉ careers@pydantic.dev](mailto:careers@pydantic.dev?subject=Application%3A%20Agent%20Infrastructure%20Engineer%20%E2%80%93%20Pydantic) | Nov 11 | location unclear |
 | 42 | [Cloud Full-Stack Developer](https://wazuh.com/job/full-stack-developer-cloud/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/full-stack-developer-cloud/) | Nov 11 | location unclear |
-| 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
 | 42 | [Cloud Ops Engineer](https://wazuh.com/job/cloud-ops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-ops-engineer/) | Nov 11 | location unclear |
+| 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
 | 40 | [Senior DevOps Engineer](https://broadleafcommerce.com/senior-devops-engineer/) 🆕 | Broadleaf Commerce | ? | [✉ careers@broadleafcostg.wpenginepowered.…](mailto:careers@broadleafcostg.wpenginepowered.com?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20Broadleaf%20Commerce) | Nov 13 | 3+ yrs exp; senior title; location unclear |
 | 40 | [Senior Backend / ML Ops Engineer](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) 🆕 | Drafted | In person | [Careers page](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Nov 13 | senior title, years not stated |
 | 40 | [Network Systems Engineer](https://efference.ai/careers/wireless-networking-engineer/) | Efference | On-site | [✉ team@efference.ai](mailto:team@efference.ai?subject=Application%3A%20Network%20Systems%20Engineer%20%E2%80%93%20Efference) | Nov 11 |  |
@@ -116,15 +114,16 @@ Updated 2026-11-14 18:55 UTC. **98 open roles** at 75 companies that post jobs o
 | 50 | [Software Engineer, Internal Tooling and Infrastructure](https://cortexrobot.ai/careers/software-engineer-internal-tooling-and-infrastructure/) | Cortex AI | Singapore | [✉ jobs@cortexrobot.ai](mailto:jobs@cortexrobot.ai?subject=Application%3A%20Software%20Engineer%2C%20Internal%20Tooling%20and%20Infrastructure%20%E2%80%93%20Cortex%20AI) | Nov 11 |  |
 | 50 | [Platform Engineer](https://omnistrate.com/careers) | Omnistrate | India only | [✉ careers@omnistrate.com](mailto:careers@omnistrate.com?subject=Application%3A%20Platform%20Engineer%20%E2%80%93%20Omnistrate) | Nov 11 |  |
 | 50 | [DevOps Engineer](https://getreliancehealth.com/careers/) | Reliance Health | Nigeria | [Careers page](https://getreliancehealth.com/careers/) | Nov 11 |  |
-| 50 | [Site Reliability Engineer](https://tyk.io/jobs/sre/) | Tyk | APAC | [Apply](https://apply.workable.com/tyk-technologies/j/A0C7C4347A/apply/) | Nov 11 |  |
+| 45 | [Site Reliability Engineer](https://tyk.io/jobs/sre/) | Tyk | APAC | [Apply](https://apply.workable.com/tyk-technologies/j/A0C7C4347A/apply/) | Nov 11 | 3+ yrs exp |
 | 30 | [Senior AI Platform Engineer](https://www.guesty.com/careers-open-positions/co/israel/D2.374/senior-ai-platform-engineer/) 🆕 | Guesty | Israel | [Careers page](https://www.guesty.com/careers-open-positions/co/israel/D2.374/senior-ai-platform-engineer/) | Nov 13 | 5+ yrs exp; senior title |
 
-## Need a clearance or US citizenship (8)
+## Need a clearance or US citizenship (9)
 
 | Score | Role | Company | Location | Apply | Since | Notes |
 |---:|---|---|---|---|---|---|
 | 40 | [Embedded Linux Engineer](https://efference.ai/careers/embedded-linux-engineer/) | Efference | On-site | [✉ team@efference.ai](mailto:team@efference.ai?subject=Application%3A%20Embedded%20Linux%20Engineer%20%E2%80%93%20Efference) | Nov 11 | adjacent title, little DevOps/cloud work in the text |
-| 30 | [Senior DevOps Engineer](https://wallethub.com/jobs/devops-engineer/) 🆕 | WalletHub | ? | [✉ jobs@wallethub.com](mailto:jobs@wallethub.com?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20WalletHub) | Nov 13 | 7+ yrs exp; senior title; asks for 7+ years of experience |
+| 30 | [Agentic data infrastructure engineer](https://linewise.io/careers/agentic-data-infrastructure-engineer/) | Linewise | ? | [✉ info@linewise.io](mailto:info@linewise.io?subject=Application%3A%20Agentic%20data%20infrastructure%20engineer%20%E2%80%93%20Linewise) | Nov 11 | 5+ yrs exp; asks for 5+ years of experience |
+| 27 | [Infrastructure Software Engineer](https://www.joyent.com/careers/infrastructure-software-engineer-topology-and-observability) | Joyent | Mountain View, CA or Remote | [✉ jobs@joyent.com](mailto:jobs@joyent.com?subject=Application%3A%20Infrastructure%20Software%20Engineer%20%E2%80%93%20Joyent) | Nov 11 | 5+ yrs exp; asks for 5+ years of experience |
 | 27 | [Senior Cloud Engineer](https://careers.tractian.com/jobs/am9icG9zdDouKyx3EhjyHyhlgfKqczDb) 🆕 | Tractian | Remote | [Careers page](https://careers.tractian.com/jobs/am9icG9zdDouKyx3EhjyHyhlgfKqczDb) | Nov 13 | 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 25 | [Senior Infrastructure Engineer](https://www.zabbix.com/career/senior_infrastructure_engineer) 🆕 | Zabbix | ? | [✉ hr@zabbix.com](mailto:hr@zabbix.com?subject=Application%3A%20Senior%20Infrastructure%20Engineer%20%E2%80%93%20Zabbix) | Nov 13 | 5+ yrs exp; senior title; location unclear; asks for 5+ yea… |
 | 22 | [SRE Freelance Projects](https://meteorops.com/work/sre-freelance-projects) | MeteorOps | Remote | [Careers page](https://meteorops.com/work/sre-freelance-projects) | Nov 11 | 5+ yrs exp; location unclear; asks for 5+ years of experien… |

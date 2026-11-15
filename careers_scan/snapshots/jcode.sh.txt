@@ -190,11 +190,11 @@ Prime Agent
 core + usage + opinionated; no model extras
 Core instructions only, excluding tool schemas and runtime context · o200k_base · pinned sources · method . GitHub Copilot CLI, Cursor Agent, and Antigravity CLI are omitted because no verified reproducible core prompt source is available in this benchmark.
 Tool schema.
-Built-in tools exposed together in a default Linux session, not every registered alternative. Opt-in integrations and external MCP tools are excluded; provider and session settings can change the list.
+Built-in tools exposed together in a default Linux session. Rarely used tools are deferred: their definitions stay out of context until load_tools loads them.
 Built-in tool snapshot
 Loading the built-in tool snapshot…
 Tool schema size comparison
-The tool definitions sent alongside the prompt. Tool counts and capabilities differ.
+The tool definitions in context alongside the prompt. Tool counts and capabilities differ.
 Schema tokens
 Tools
 166
@@ -203,10 +203,13 @@ Default Python kernel entry point
 Default coding tools
 3,638
 gpt-5.6-sol code mode, local core (Linux)
+4,193
+Default Linux session; tools in context up front, 13 more deferred
 4,982
 CLI build / Claude Sonnet / Linux bash
-7,352
-Default Linux session; simultaneously exposed tools
+Jcode, all loaded
+7,033
+Same session after loading every deferred tool
 Claude Code : not measured. Third-party leaked source lacks a verified default build/profile and pinned schema serializer.
 Normalized native tool definitions only · o200k_base · no MCP server tools or provider framing · method · data
 Guide to running more agents
@@ -223,7 +226,7 @@ Get Jcode Desktop
 Changelog
 Releases and changelog . Full history on GitHub releases .
 Unreleased
-2026-10-24 · 21d ago
+2026-10-24 · 22d ago
 Changes since v0.99.1
 Automatically listed from commit messages.
 fix name the cause when a view is rejected, document table cell types
@@ -316,7 +319,7 @@ test create remote fixtures inside their reactor
 fix keep search cancellation within safety guardrails (refs #1932)
 fix pin bounded cancellable agentgrep searches (fixes #1932)
 v0.99.1
-2026-10-22 · 23d ago
+2026-10-22 · 24d ago
 OpenAI request fix and stability
 Release highlights.
 highlight Fix OpenAI models failing every turn with invalidrequesterror due to a rejected tool schema

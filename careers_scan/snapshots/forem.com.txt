@@ -6,87 +6,72 @@ Related tags include #resume and #portfolio as resources to enhance your #career
 Older #career posts
 … 75
 … 100
-Four Applications and One Ask. Guess Which One Scared Me.
-Building in public makes reference asks effortless
-Earl Grey
-Nov 12
-# discuss
-# ai
+Going from W-2 to 1099 as a developer: the tax math nobody puts in the offer
+Brandon Sooknanan
+Nov 15
 # career
-# womenintech
-30 reactions
-28 comments
-4 min read
-I kept forgetting what I actually told companies… so I built this
-Saikat Chakrabortty
-Nov 14
+# freelance
 # productivity
-# showdev
-3 reactions
-5 comments
-2 min read
-Find the Salesforce fields, flows and validation rules only your senior can explain
-Juan Manuel Garrido
-# salesforce
-# python
-# documentation
+# beginners
 Add Comment
 3 min read
-What Worked and What Didn't Building a Design Engineering Function
-James Coombs
-# leadership
-# webdev
+15 embedded interview questions that trip up strong candidates
+Firmware Prep
+# embedded
+# c
+# interview
+4 min read
+I'm a Corporate Lawyer Who Can't Read Code. I Built a Production-Grade Information System with AI in 3 Months. Here's My Method.
+FEET GREET
+Nov 14
+# ai
 5 min read
-A green graph is not a résumé — so we built a GitHub contribution filler you can undo
-RetroFill
-# github
-# beginners
-How to Land Your First Freelance Client as a Student (With No Experience)
-Prayush Adhikari
-# freelance
-7 min read
-Seu app feito no Lovable parou em 80%? O problema não é falta de função, é o que ninguém verificou
-Youngjun Yoon
-# braziliandevs
-"Same as last week, but…": a standing report spec for recurring analysis requests
-Maildoer Team
-# datascience
-I stopped winging interviews and started scoring answers like a rubric
-LXSAIHUB
-I Was the Only IT Person for 3 Years: The Documentation I Wish I'd Written
-Jonne Riepponen
-# sysadmin
-# knowledgemanagement
-1 reaction
+Voyager 1 Hits One Light-Day From Earth: Lessons From the Oldest Production System We Run
+Serghei Pogor
+# space
+# programming
+# engineering
+I built interview prep games where you write real CSS and JavaScript
+Muhammad Minhaj Wahid
+# webdev
+# css
+# javascript
+6 min read
+Code Is Cheap Now. Judgment Isn't: The Review Bottleneck and the Vanishing Apprenticeship
+Mirella
+# discuss
+10 reactions
 1 comment
 8 min read
-15 English phrases for your daily standup (and a few common slips)
-bắc hồ
-# remote
-# softwaredevelopment
-F-1 Student, Two Campus Jobs, Over 20 Hours by Mistake: What the Rules Say and What to Do Next
-ByteBridge Talent LLC
-# immigration
-# f1visa
-# students
-Writing Before Building: How I Think on Paper First
-Sami Ullah
-# writing
-# motivation
-# startup
-A free API for searching 6,000+ dated remote job leads
-WFH Alert
-# api
-# javascript
-Bus factor 1 is the default: per-language ownership in 195 popular repos
-Raghav Chamadiya
-for repowise
-# opensource
-# programming
-2 reactions
-6 min read
+You can't hire judgment later
+Ketu Shah
+AWS Shipped a Product No Human Reviewed. A Team Lead's Honest Reaction
+# aws
+# codereview
+The voice that says "not ready" is older than your new job
+Qwerta
+# mentalhealth
+wtfe: Claims About Engineering Culture by Country, Each One Sourced and Rated
+# showdev
+# culture
+# astro
+How to Tailor Your Resume With AI
+Momin Aziz
+# resume
+# jobsearch
+A Routine Friday Upgrade Grounded Every Flight in the US. Here's What Every Team Should Take From It
+# devops
+# incidents
+# leadership
+Software Engineer Resume Keywords That Actually Get You Found
+Mohamed Laghbar
+What Worked and What Didn't Building a Design Engineering Function
+James Coombs
+🤝 Why "Customer-Facing" Matters: Building Software That Meets People Where They Are
+Said Olano
+# java
+# architecture
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
-Free AWS Certification for Students: The Complete Step-by-Step Guide
 How I Feel about the Grace Hopper Celebration Getting Cancelled
 Remembering Steven Schrembeck
 Frontend Isn't Dead. But the Job Title Is Changing
@@ -105,12 +90,13 @@ What an Anthropic hiring manager stopped asking candidates to do
 Are we software engineers doomed? Yes, because of AI!
 Are Frontend Developers Cooked? Is Frontend design safe?
 The Ever Changing Profession of Software Engineering
-Company career page scraper: every open job from any company, by name or domain
-Emotional Deadlocks: When Two People Wait for Each Other to Change First
 No Human Will Ever Write Code Better Than LLMs? Better at What?
-Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
-TopAccess: Freelancer Review
 DuckLake 1.0 and Iceberg 1.11: What a Data Engineer Should Know
+Emotional Deadlocks: When Two People Wait for Each Other to Change First
+TopAccess: Freelancer Review
+Company career page scraper: every open job from any company, by name or domain
+Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
+AI Made Coding Cheaper. So Why Is Building Software Still So Expensive?
 We're a place where coders share, stay up-to-date and grow their careers.
 Log in
 Create account
