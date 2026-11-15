@@ -20,7 +20,8 @@ KEEP = ["Software Engineer", "Junior Software Engineer", "Software Engineer I", 
         "Web Developer", "Full Stack Developer", "iOS Developer", "Machine Learning Engineer", "Salesforce Developer",
         "SAP Consultant", "Application Support Analyst", "Implementation Specialist", "Technology Analyst",
         "Data Center Technician", "Systems Administrator", "BI Developer", "Technical Support Engineer",
-        "Associate Consultant - Technology", "Graduate Software Engineer", "Financial Systems Analyst"]
+        "Associate Consultant - Technology", "Graduate Software Engineer", "Financial Systems Analyst",
+        "Associate DevSecOps Engineer (Python, CI/CD)", "Junior MLOps Engineer", "DataOps Engineer", "SysOps Administrator"]
 DROP = ["Software Engineer II", "Senior Software Engineer", "Sr. Data Analyst", "Lead Developer", "IT Manager",
         "Software Engineering Intern", "Mechanical Engineer", "Electrical Engineer I", "Registered Nurse",
         "Sales Engineer", "Financial Analyst", "Accountant", "Warehouse Associate", "Customer Service Representative",

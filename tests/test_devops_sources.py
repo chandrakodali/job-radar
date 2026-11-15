@@ -216,6 +216,8 @@ SRE_TITLES = {
     "Database Reliability Engineer": "core", "Systems Development Engineer, AWS": "core",
     "Production Engineer, Infrastructure": "core", "Systems Engineer - SRE": "core",
     "Cloud Resiliency Engineer": "core", "DevOps/SRE Engineer": "core",
+    "Associate DevSecOps Engineer (Python, CI/CD)": "core", "MLOps Engineer": "core", "GitOps Engineer": "core",
+    "SysOps Administrator": "core", "FinOps Engineer": "bridge", "Staff MLOps Engineer": None,
     "Reliability Engineer": "bridge", "Production Engineer": "bridge", "Technical Operations Engineer": "bridge",
     "TechOps Engineer": "bridge", "NOC Engineer": "bridge", "Monitoring Engineer": "bridge",
     "Staff Site Reliability Engineer": None, "SRE Lead": None, "Principal SRE": None, "SRE Intern": None,

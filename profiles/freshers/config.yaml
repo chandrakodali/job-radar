@@ -23,6 +23,7 @@ titles:
   hard_exclude: []
   senior: []
   core:
+  - '\b(dev\s*-?\s*(sec\s*-?\s*)?ops|devsecops|secops|mlops|llmops|aiops|dataops|gitops|finops|sysops|netops|netdevops|itops|it\s+ops|cloud\s*ops|platform\s*ops)\b'
   - \b(software|application|applications|web|mobile|ios|android|front[- ]?end|back[- ]?end|full[- ]?stack|game|embedded|firmware|systems?|platform|cloud|data|ml|ai|machine learning|devops|integration|automation|api|java|python|\.net|c\+\+|c#|javascript|react|node|salesforce|servicenow|sap|erp|crm|bi|etl|qa|test|database|db|network|security|cyber
     ?security|infrastructure|it|computer|technical|technology|solutions?|support|implementation|blockchain|rpa|power bi|tableau|sql|unix|linux|windows|identity|iam|gis|ux|ui|analytics|reporting|edi|mainframe|cobol|dynamics|workday|oracle|tech)\b.{0,30}\b(engineer|engineering|developer|development|programmer|analyst|administrator|admin|specialist|technician|consultant|scientist|tester|associate)\b
   - \b(developer|programmer|coder)\b

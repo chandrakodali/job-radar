@@ -11,6 +11,7 @@ titles:
     - '\b(systems?|software|production|platform|cloud|infrastructure|service|services|database|network|data|application|app|web|api|ml|ai|gpu|compute|storage|kubernetes|container|edge|cdn|devops|it|operations|technical|tech|reliability) reliability engineer'
     - '\bsystems development engineer\b'   # Amazon's name for its SRE-style infrastructure engineers
     - '\bchaos engineer'
+    - '\b(gitops|aiops|sysops|cloud\s*ops|mlops|llmops|dataops|platform\s*ops)\b'
   # Exclusions that still apply to the titles above.
   hard_exclude:
     - '\b(fs|ci|full[- ]?scope|lifestyle|counter[- ]?intelligence)\s*[-/]?\s*poly(graph)?\b|\bts/sci\b|\bpoly\b'
@@ -57,6 +58,7 @@ titles:
   bridge:
     # Kept only when the job text names DevOps/SRE work (see scoring.bridge_evidence):
     - '\breliability engineer'                 # also a manufacturing / mechanical title
+    - '\b(finops|it\s*ops|itops|netops|netdevops)\b'
     - '\b(resilience|resiliency) engineer'
     - 'production (operations|support|systems) engineer'
     - '\b(technical|tech|systems?|site|service|production|saas|web|it|network) operations engineer'
