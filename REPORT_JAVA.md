@@ -1,14 +1,14 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**175 jobs**, newest first. Updated Sun Nov 15, 1:46 AM CST from 10,713 company job boards and other sources.
+**174 jobs**, newest first. Updated Sun Nov 15, 2:49 AM CST from 10,713 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 128 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 244 matching jobs that job sites and feeds listed this week, 68 (27%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 247 matching jobs that job sites and feeds listed this week, 68 (27%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (1)](#sunday-nov-15-1) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (18)](#tuesday-nov-10-18) · [Mon 9 (11)](#monday-nov-9-11) · [Sun 8 (3)](#sunday-nov-8-3)
+Jump to: [Sun 15 (1)](#sunday-nov-15-1) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (18)](#tuesday-nov-10-18) · [Mon 9 (11)](#monday-nov-9-11) · [Sun 8 (2)](#sunday-nov-8-2)
 
 ## Sunday, Nov 15 (1)
 
@@ -217,13 +217,12 @@ Jump to: [Sun 15 (1)](#sunday-nov-15-1) · [Sat 14 (76)](#saturday-nov-14-76) ·
 | date only | [Software Engineer](https://paypal.eightfold.ai/careers/job/274923336364) | PayPal | Scottsdale, AZ, US (onsite) | 33 | 3+ yrs exp; no future H-1B sponsorship; requires Java |
 | date only | [Associate, Software Engineer](https://morganstanley.eightfold.ai/careers/job/549800008226) | Morganstanley | Alpharetta, GA, US (onsite) | 48 | entry-level title; 3+ yrs exp; requires Java |
 
-## Sunday, Nov 8 (3)
+## Sunday, Nov 8 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:00 PM | [Senior Software Engineer](https://careers-cotiviti.icims.com/jobs/20898/senior-software-engineer/job) | Cotiviti | Remote, United States | 33 | 4+ yrs exp; senior title; requires Java |
 | date only | [2027 Technology Development Program - Software Engineering (Enterpris…](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035) | M&T Bank | Buffalo, NY (hybrid) | 43 | requires Java |
-| 2:00 AM | [Software Developer Engineer II](https://www.optimumcareers.com/job/Bethpage-Software-Developer-Engineer-II-NY-11714/1429221300/) | Altice USA | Bethpage, NY, United States | 23 | 3+ yrs exp; no future H-1B sponsorship; requires Java |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (279)
 
