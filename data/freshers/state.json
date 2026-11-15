@@ -9868,7 +9868,7 @@
   },
   "ashby:sharedcontextlab": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-15"
   },
   "ashby:tavily": {
@@ -9945,17 +9945,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 36,
+   "n": 37,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 36,
+   "n": 37,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 36,
+   "n": 37,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -10001,8 +10001,9 @@
    "since": "2026-11-13"
   },
   "greenhouse:aisquared": {
+   "disabled_until": "2026-11-22",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-15"
   },
   "greenhouse:alma": {
@@ -11333,7 +11334,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 9,
+   "n": 10,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
