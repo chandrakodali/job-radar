@@ -9,22 +9,22 @@ Make sure each of these is written on the resume in the words employers use: rec
 | Skill | Asked for in | Required in |
 |---|---:|---:|
 | Embedded software | 816 jobs (53%) | 579 (38%) |
-| C++ | 714 jobs (46%) | 462 (30%) |
-| Python | 627 jobs (41%) | 384 (25%) |
+| C++ | 713 jobs (46%) | 461 (30%) |
+| Python | 629 jobs (41%) | 386 (25%) |
 | C | 519 jobs (34%) | 339 (22%) |
-| Controls/algorithms | 497 jobs (32%) | 242 (16%) |
+| Controls/algorithms | 496 jobs (32%) | 241 (16%) |
 | CAN/CAN FD | 458 jobs (30%) | 247 (16%) |
 | Functional safety | 409 jobs (27%) | 174 (11%) |
-| Requirements engineering | 338 jobs (22%) | 110 (7%) |
+| Requirements engineering | 337 jobs (22%) | 110 (7%) |
 | MATLAB | 321 jobs (21%) | 182 (12%) |
-| Requirements-based testing | 281 jobs (18%) | 43 (3%) |
-| Automotive software | 278 jobs (18%) | 105 (7%) |
+| Requirements-based testing | 280 jobs (18%) | 43 (3%) |
+| Automotive software | 278 jobs (18%) | 104 (7%) |
 | Simulink | 274 jobs (18%) | 148 (10%) |
-| Git | 263 jobs (17%) | 152 (10%) |
+| Git | 262 jobs (17%) | 151 (10%) |
 | Jenkins/CI | 238 jobs (15%) | 102 (7%) |
 | Agile/Scrum/Jira | 224 jobs (15%) | 101 (7%) |
 | Software integration/build/release | 222 jobs (14%) | 103 (7%) |
-| ADAS | 219 jobs (14%) | 92 (6%) |
+| ADAS | 218 jobs (14%) | 91 (6%) |
 | Code reviews | 216 jobs (14%) | 40 (3%) |
 | ISO 26262 | 213 jobs (14%) | 109 (7%) |
 | ECU software | 205 jobs (13%) | 64 (4%) |
@@ -44,11 +44,11 @@ If you have one of these, add it to the resume (and to profiles/automotive/skill
 | Hardware design (FPGA/PCB/analog) | 330 jobs (21%) | 173 (11%) |
 | Debugging hardware (Lauterbach/JTAG/scope) | 306 jobs (20%) | 186 (12%) |
 | RTOS | 281 jobs (18%) | 178 (12%) |
-| Test automation scripting | 273 jobs (18%) | 119 (8%) |
+| Test automation scripting | 274 jobs (18%) | 119 (8%) |
 | Microcontrollers | 255 jobs (17%) | 126 (8%) |
 | Vehicle/bench testing | 254 jobs (16%) | 73 (5%) |
-| Device drivers/BSP | 250 jobs (16%) | 151 (10%) |
-| Perception/computer vision | 198 jobs (13%) | 85 (6%) |
+| Device drivers/BSP | 249 jobs (16%) | 150 (10%) |
+| Perception/computer vision | 197 jobs (13%) | 85 (6%) |
 | Vector CANoe/CANalyzer | 187 jobs (12%) | 104 (7%) |
 | Embedded Linux/kernel | 180 jobs (12%) | 110 (7%) |
 | Multicore/concurrency | 176 jobs (11%) | 98 (6%) |
