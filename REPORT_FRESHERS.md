@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**690 jobs**, newest first. Updated Sat Nov 14, 10:19 PM CST from 10,713 company job boards and other sources.
+**689 jobs**, newest first. Updated Sat Nov 14, 11:23 PM CST from 10,713 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 904 matching jobs that job sites and feeds listed this week, 164 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sat 14 (144)](#saturday-nov-14-144) · [Fri 13 (147)](#friday-nov-13-147) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (111)](#wednesday-nov-11-111) · [Tue 10 (88)](#tuesday-nov-10-88) · [Mon 9 (80)](#monday-nov-9-80) · [Sun 8 (9)](#sunday-nov-8-9) · [Sat 7 (1)](#saturday-nov-7-1)
+Jump to: [Sat 14 (144)](#saturday-nov-14-144) · [Fri 13 (147)](#friday-nov-13-147) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (111)](#wednesday-nov-11-111) · [Tue 10 (88)](#tuesday-nov-10-88) · [Mon 9 (80)](#monday-nov-9-80) · [Sun 8 (9)](#sunday-nov-8-9)
 
 ## Saturday, Nov 14 (144)
 
@@ -734,13 +734,7 @@ Jump to: [Sat 14 (144)](#saturday-nov-14-144) · [Fri 13 (147)](#friday-nov-13-1
 | 2:00 AM | [Specialist Growth & Transformation Software Engineering BUILD Program](https://careers.acuityinc.com/job/Atlanta-Specialist-Growth-&-Transformation-Software-Engineering-BUILD-Program-GA-30309/1429282700/) | Acuity | Atlanta, GA, US | 78 | 0-2 yrs exp; entry level (from the text); E-Verify |
 | 2:00 AM | [Specialist Firmware Engineering BUILD Program (July)](https://careers.acuityinc.com/job/Atlanta-Specialist-Firmware-Engineering-BUILD-Program-%28July%29-GA-30309/1428876800/) | Acuity | Atlanta, GA, US | 63 | entry level (from the text) |
 
-## Saturday, Nov 7 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 10:57 PM | [Support Engineer, PAYGO](https://jobs.ashbyhq.com/exa/f4dd7ae8-cf72-4634-b708-742601b9061c) | Exa | Remote (remote) | 60 | entry level (from the text) |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2778)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2779)
 
 <details><summary>Show</summary>
 
@@ -895,6 +889,7 @@ Jump to: [Sat 14 (144)](#saturday-nov-14-144) · [Fri 13 (147)](#friday-nov-13-1
 | date only | [Software Engineer, ML Performance](https://nvidia.eightfold.ai/careers/job/893398445721) | Nvidia | Santa Clara, CA, US; Austin, TX, US +1 … (onsite) | 50 | rules: 12+ yrs exp; asks for 12+ years of experience |
 | date only | [Production Test Lab Engineer, Amazon Leo, Space Simulation Lab](https://www.amazon.jobs/en/jobs/10605423/production-test-lab-engineer-amazon-leo-space-simulation-lab) | Amazon Kuiper Manufacturing E… | Kirkland, Washington, USA | 75 | rules: 2+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Associate Technical Solutions Consultant](https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Jacksonville-FL/Associate-Technical-Solutions-Consultant_R45900) | SS&C | Jacksonville, FL | 78 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
+| date only | [Site Reliability Engineer](https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Boston-MA---One-Post-Office-Square/Site-Reliability-Engineer_R46365) | SS&C | Boston MA - One Post Office Square; Wal… | 38 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:28 AM | [Space Planner Technology Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016861926-space-planner-technology-specialist) | Cityofnewyork | New York City, NY, United States | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 5:26 AM | [Junior Engineer (Design)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016861836-junior-engineer-design-) | Cityofnewyork | New York City, NY, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
 | 12:05 AM | [Network Security and Firewall Engineer - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4391) | City of Oklahoma City | Oklahoma  City, OK, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -1145,6 +1140,5 @@ Jump to: [Sat 14 (144)](#saturday-nov-14-144) · [Fri 13 (147)](#friday-nov-13-1
 | date only | [Global Security Operations Center (GSOC) Analyst](https://newbalance.wd1.myworkdayjobs.com/Careers/job/Boston-MA-Headquarters---NB/Global-Security-Operations-Center--GSOC--Analyst_R41721) | New Balance | Boston, MA Headquarters - (NB) | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Technical Support Analyst (Hybrid)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Technical-Support-Specialist--Hybrid-_R66641) | Motorola | Allen, TX (TX139) | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [ONCOLOGY PHARM TECH SPECIALIST- IDS](https://moffitt.wd108.myworkdayjobs.com/Moffitt/job/Magnolia-Hospital/ONCOLOGY-PHARM-TECH-SPECIALIST--IDS_R-3909) | Moffitt Cancer Center | Magnolia Hospital (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Spclst , Technical Support](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Spclst---Technical-Support_R416886-2) | Merck | USA - Pennsylvania - West Point | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>

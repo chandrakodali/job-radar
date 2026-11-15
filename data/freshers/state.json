@@ -3,6 +3,7 @@
   "adp:000c0490-cc55-4888-9ce3-84bc24843c60|19000101_000001": "2026-11-14",
   "adp:00a315c7-e5f5-4392-94c9-185170c8222a": "2026-11-14",
   "adp:00f2efdd-7a27-4b0b-af2a-2e4da1695f31|19000101_000001": "2026-11-14",
+  "adp:02161b08-cb15-42c3-bce4-f772c36f668c": "2026-11-15",
   "adp:02161b08-cb15-42c3-bce4-f772c36f668c|19000101_000001": "2026-11-15",
   "adp:02307472-7039-4ed3-bacb-7c30eec440ed": "2026-11-15",
   "adp:02835ad7-1b2e-4eb2-9773-3454d03b1a3e|19000101_000001": "2026-11-14",
@@ -6768,6 +6769,7 @@
   "paylocity:0721fa6f-20b1-48a9-9a2a-7da813f88a10": "2026-11-15",
   "paylocity:07314255-f13e-4c20-b80c-2b4022218dc8": "2026-11-14",
   "paylocity:076ee35d-2815-45ca-a6dc-38be74644a87": "2026-11-14",
+  "paylocity:0844bcbc-bc5c-45ed-8674-5fe440c4e57a": "2026-11-15",
   "paylocity:08628d28-fa0d-4893-b85a-43b78653901b": "2026-11-14",
   "paylocity:086af4d0-3dbe-4019-87ba-444c7e2661ac": "2026-11-14",
   "paylocity:08741992-5802-4419-a6eb-fbb58d6ac948": "2026-11-14",
@@ -9938,17 +9940,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 33,
+   "n": 34,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 33,
+   "n": 34,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 33,
+   "n": 34,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -11321,7 +11323,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11386,7 +11388,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 31,
+   "n": 32,
    "since": "2026-11-13"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11433,7 +11435,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 28,
+   "n": 29,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -67441,6 +67443,7 @@
   "workday:ssctech|wd1|ssctechnologies:R44674": "2026-11-14",
   "workday:ssctech|wd1|ssctechnologies:R45900": "2026-11-15",
   "workday:ssctech|wd1|ssctechnologies:R46098": "2026-11-15",
+  "workday:ssctech|wd1|ssctechnologies:R46365": "2026-11-15",
   "workday:ssctech|wd1|ssctechnologies:R46524": "2026-11-14",
   "workday:ssctech|wd1|ssctechnologies:R46709": "2026-11-14",
   "workday:ssctech|wd1|ssctechnologies:R46896": "2026-11-14",
