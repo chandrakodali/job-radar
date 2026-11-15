@@ -2,55 +2,59 @@
 
 Updated 2026-11-15.
 
-Crawls swept: CC-MAIN-2026-43.
+Crawls swept: CC-MAIN-2026-39, CC-MAIN-2026-43.
 
-sweep found 189 of 481 known apply-by-email sites (39.3%)
+sweep found 188 of 481 known apply-by-email sites (39.1%)
 
 ## By tier
 
-- 1: 15199
-- 2: 59556
-- 3: 170300
-- 4: 55962
-- 5: 19317
-- 9: 80602
+- 1: 23861
+- 2: 99967
+- 3: 281596
+- 4: 89590
+- 5: 29755
+- 9: 130525
 
 ## By category
 
-- unknown: 80602
-- ats: 27873
-- blocked: 1487
-- careers_page_unclear: 158205
-- doc: 770
-- email: 30761
-- external_board: 4048
-- form: 43224
-- js_only: 219
-- no_careers_page: 24041
-- no_openings: 12095
-- robots_disallowed: 4710
-- unreachable: 12901
+- unknown: 130525
+- ats: 40480
+- blocked: 2548
+- careers_page_unclear: 261763
+- doc: 1250
+- email: 51217
+- external_board: 6722
+- form: 71361
+- js_only: 451
+- no_careers_page: 42388
+- no_openings: 19833
+- robots_disallowed: 7858
+- unreachable: 18898
 
 ## By us
 
-- unknown: 80602
-- non_us: 20944
-- unknown: 165924
-- us: 133466
+- unknown: 130525
+- non_us: 33946
+- unknown: 273151
+- us: 217672
 
 ## By via
 
-- unknown: 80602
-- archive: 24650
-- live: 295684
+- unknown: 130525
+- archive: 40918
+- live: 483851
 
 ## Tier 1 sites
 
 - ! Join PRT's team! (prtspa.com)
+- #1 Rated Cincinnati IT Services Company (lktech.tech)
+- #archpodnet (archaeologypodcastnetwork.com)
 - #ToTheJupiter (legit-blockchain-ai.company)
 - $04 Error Page (hravailable.com)
+- %siteName (springloaded.co)
 - %sitename% (betwisedaily.com)
 - %sitename% (castleshelfhouse.com)
+- %sitename% (dicegamblersdeal.com)
 - %sitename% (fmboffroad.com)
 - %sitename% (foodmealtrail.com)
 - %sitename% (freshcharmfab.com)
@@ -58,42 +62,60 @@ sweep found 189 of 481 known apply-by-email sites (39.3%)
 - %sitename% (gamblegiftgrit.com)
 - %sitename% (gambletodaysmart.com)
 - %sitename% (gamblewinsdaily.com)
+- %sitename% (gsctechnologik.com)
+- %sitename% (hypesuchsports.com)
 - %sitename% (jackpotjoyfully.com)
 - %sitename% (megagamingnation.com)
+- %sitename% (otvpmobile.com)
 - %sitename% (petpalplaybook.com)
 - %sitename% (plangaminghacks.com)
+- %sitename% (pmwgamestation.com)
 - %sitename% (powergamerstrategyhub.com)
 - %sitename% (progamblegenius.com)
 - %sitename% (toppercryptopath.com)
 - %sitename% (virtualecholab.com)
+- & College Promise (stanly.edu)
 - & Grow With Us (cureayurvedic.com)
 - & Growth Opportunities (greycrust.com)
+- & In Facilities (revivecaring.com)
 - & Listings (pfisd.net)
+- & Opportunities (armaautomotive.com)
 - & Opportunities (classicrefrigeration.com)
+- & Opportunities (nirmalacp.org)
 - & Other Opportunities (teachpsych.org)
 - & Technical Education (columbiak12.com)
+- & Technical Education (stmaryk12.net)
 - & Trades Resources (acementorla.org)
 - & volunteer opportunities (reusemn.org)
 - & Volunteering (balibrary.org)
+- '58 Foundations & Waterproofing (58foundations.com)
 - (301) 882-3200 (mercedestranscription.com)
 - +91 90871 16687 (mdsdigitalhub.com)
+- - Call us: 021 120 33 32 (neocruit.com)
+- . (mcmastermse.com)
 - . KB-12 (kb-12.com)
 - . Oppurtunities in Tech, Consulting & Digital. (datamatics.com)
 - ... And We Were Heard (andwewereheard.org)
+- .:. Algo Brainz .:. (nvdatla.com)
 - .:. GenuineIT LLC .:. (genuineitllc.com)
+- .:: KSoft ::. (ksoftglobal.com)
 - .:: RnD4U ::. Ideas become reality (rnd4u.com)
+- .::. PowerWeb IT (powerwebit.com)
 - .Guide (job.guide)
 - .JUWI.com (juwi.com)
 - .NOW (jobs.now)
 - /careers/IrisCX./ (iriscx.com)
+- 10 Pillars Solutions (10pillarssolutions.com)
 - 10 stars property management (10starshomes.com)
 - 10-8 Systems (10-8systems.com)
+- 100 NUMBERY.COM (100numbery.com)
 - 100% Free GST Billing Software For Every Businesses (gogstbill.com)
 - 101 Technologies (101tech.us)
 - 1040 Abroad (1040abroad.com)
 - 105.7 Lite FM (1057litefm.com)
 - 10bits / Software Development Company Texas (10bits.com)
 - 10Fold (10fold.com)
+- 10Pie (10pie.com)
 - 10th Judicial Circuit Court (flcourts.org)
 - 10X ERP (10xerp.com)
 - 10xDS (10xds.com)
@@ -101,13 +123,20 @@ sweep found 189 of 481 known apply-by-email sites (39.3%)
 - 10zyme (10zyme.com)
 - 11woods (11woods.com)
 - 123AceTheTest (123acethetest.com)
+- 12nets Inc (12nets.com)
 - 14K Business Solutions (14kbsol.com)
 - 16th Street Baptist Church (16thstreetbaptist.org)
+- 1702Digital (1702digital.com)
 - 1800Esupply (1800esupply.com)
 - 1903 Design Studio (1903designstudio.com)
+- 1A First Alternative (1afa.com)
 - 1BENMU Millwork + Contracting (1benmu.com)
 - 1Datagroup (1datagroup.com)
+- 1FACE SKIN CLINIC (1faceskinclinic.com)
+- 1Link Solution (1linksolution.com)
 - 1Money (1money.com)
+- 1Plan (1plan.com)
+- 1stkings Ltd (1st-kings.com)
 - 1Trooper (1trooper.com)
 - 1xBet (1xbetcasinoca.com)
 - 2 EFFE ENGINEERING (2effe.com)
@@ -116,9 +145,17 @@ sweep found 189 of 481 known apply-by-email sites (39.3%)
 - 2002 - Bonta/Burnam - Lakeland Hearing Care (lakelandhearingcare.com)
 - 2021 Eight Legged Media (eightleggedmedia.com)
 - 2022cc (cambodiacurtain.com)
+- 2026 (tennantcanal.wales)
+- 2026 Womens Wellness Mastermind in Italy (tonibearedd.com)
 - 20med (20medtx.com)
 - 21Twelve Interactive (21twelveinteractive.com)
+- 23361 (cosmobotics.org)
 - 24 DATA, Inc. (24data.com)
+- 24-7 Restoration and Roofing - Best Roofing Contractor In M… (247roofingsolutions.com)
+- 24/7 Pest Control Service 718 300 7943 (247pestcontrolservices.com)
+- 247 MEP Estimating (247mepestimating.com)
+- 24Bitgames (24bitgames.com)
+- 24HourBusiness.org (24houreconomy.org)
 - 26 Lines of Code (26loc.com)
 - 26concepts.com - (26concepts.com)
 - 2am.tech (2am.tech)
@@ -126,9 +163,11 @@ sweep found 189 of 481 known apply-by-email sites (39.3%)
 - 2D Soft (2dsoft.com)
 - 2iSolutions (2isolutions.com)
 - 2muchcoffee (2muchcoffee.com)
+- 2PCS Solutions GmbH (2pcs-solutions.com)
 - 2Ring (2ring.com)
 - 2RW / Mechanical, Electrical, Plumbing and Fire Protection … (2rw.com)
 - 2Wtrade (2wtrade.com)
+- 3 Bigs - (3bigs.com)
 - 3 Day Weekends 4 L 1 (mastercourseportal.wixsite.com)
 - 3 Percent Media (3percentmedia.com)
 - 3 Square Technolgoy (3squaredtechnology.com)
@@ -138,27 +177,49 @@ sweep found 189 of 481 known apply-by-email sites (39.3%)
 - 30K (30k.com)
 - 314e (314e.com)
 - 31C (31c.io)
+- 350NH Action (350nhaction.org)
 - 360 Med Care (360med.care)
+- 360 Medical (360medical.net)
 - 360 Translations (360translations.com)
 - 360 Wealth Management (360wealthmanagement.com)
+- 360digitmg.com (360digitmg.com)
+- 360PropertySourcing (360propertysourcing.com)
 - 360Signum (360signum.com)
+- 360Solved.com (360solved.com)
 - 361˚ Marketing (361degreesmarketing.com)
 - 39 AI (39-ai.com)
 - 3AT Dev (3atdev.com)
+- 3C Websites & Marketing Services (3cxconsulting.com)
 - 3CX Phone System (ippbxhost.com)
+- 3D Architectural Visualization (yantramstudio.com)
 - 3D PLUS (3d-plus.com)
+- 3D Productions (3d-productions.net)
+- 3D Rendering Services: #1 Architectural Visualization Compa… (render3dquick.com)
+- 3Di Systems - 3Di Systems (3disystems.com)
+- 3DII Industrial Imaging (3dii.net)
 - 3E Tech Corporation . . . Everybody Educates Everybody (3eweb.com)
+- 3Edgeusa (3edgeusa.com)
 - 3F Labs (3f.xyz)
 - 3hicm (3hicm.com)
+- 3in1-entertainment.com (3in1-entertainment.com)
 - 3Is (3is.co)
 - 3IS, Inc. (3iscorp.com)
 - 3KeyLogic (3keylogic.com)
 - 3LittleBirdsInteractive (3littlebirdsinteractive.com)
 - 3Lopez (3lopez.com)
+- 3n Strategy │ (3nstrategy.com)
 - 3P Technology (3ptechnology.com)
+- 3PL Systems (3plsystems.com)
+- 3rd Element Consulting (3rdelementconsulting.com)
 - 3RI Technologies Pvt Ltd (3ritechnologies.com)
+- 3SCube Engineering Consultants (3scube.com)
+- 3T Pro Inc. (3tpro.com)
+- 3T Worldwide-260826 (3tworldwide.com)
 - 3West (3west.group)
+- 3XCODE (3xcode.com)
+- 4 Bilingual STEM & AI Roles in Utah (clubability.org)
 - 4 Peaks Business Solution / (4peaksbs.com)
+- 4 S.T.E.L Engineering (4steleng.com)
 - 406 Pride (406pride.org)
 - 42 milligrams (42mg.com)
 - 42 milligrams (42milligrams.com)
@@ -166,83 +227,22 @@ sweep found 189 of 481 known apply-by-email sites (39.3%)
 - 42Gears (42gears.com)
 - 4411 Inn & Suites (4411innandsuites.com)
 - 45 Experts & Growing (novadip.com)
+- 48Taxi & Limo - (48taxi.co)
 - 4A (4adist.com)
 - 4Axis (4axis.com)
+- 4baseCare (4basecare.com)
 - 4bytesolutions.com - Empowering Business Byte - by- Byte (4bytesolutions.com)
 - 4castplus (4castplus.com)
 - 4cgroup.com (4cgroup.com)
+- 4Dsc (4dsc.us)
+- 4dviz Studio (4dviz.com)
 - 4Excelsior (4excelsior.com)
 - 4Geeks (4geeks.io)
 - 4Geeks (aldryn.io)
 - 4GL Solutions (4glsol.com)
+- 4K Visuals (4kvfx.com)
 - 4Leet (4leet.xyz)
 - 4Leet - Managed IT Services (4leet.com)
 - 4Les Subsea (4lessubsea.com)
+- 4M Career (4mcareer.com)
 - 4M INDUSTRIES INC. (4mindustries.com)
-- 4Matic Valve – (4maticvalves.com)
-- 4Property (4property.com)
-- 4Science (4science.com)
-- 4Sight Group (4sight.group)
-- 4Team Corporation (4team.biz)
-- 4Trz (4trz.net)
-- 5 Values (weare5values.com)
-- 504 on the Precision Federal Bench (precisionfederal.com)
-- 504ENSICS Labs (504ensics.com)
-- 5Exceptions (5exceptions.com)
-- 5ironCyber - (5ironcyber.com)
-- 5xUP Venture Builder (5xup.com)
-- 6/4 Studios (64studiosllc.com)
-- 62px (62px.com)
-- 630Aerospace (630aerospace.com)
-- 651 Carpets+ (651carpets.com)
-- 67 Bits (67bits.com)
-- 67 Digital (67.digital)
-- 702 Print & Marketing (print702.com)
-- 77SPARX Studio (77sparx.com)
-- 7B Engineering (7bengineering.com)
-- 7D Food Factory / Number One Digital Agency (7dfood.com)
-- 7F Technology Partners (7f-tp.com)
-- 7Sdtravel (7sdtravel.com)
-- 7Sigma (7sigma.com)
-- 7Sign Group (7signgroup.com)
-- 7taps Microlearning (7taps.com)
-- 7th Media Digital Studios (7thmedia.com)
-- 8 EDEC (8-dec.com)
-- 85Inches (85inches.com)
-- 88Dent (88dent.com)
-- 8th Layer Technologies (8ltech.com)
-- 98thPercentile (98thpercentile.com)
-- 99 APP Technologies Pvt Ltd (99apptechnologies.com)
-- 99Plus IT Solutions (99plusitsolutions.com)
-- 99webdesigns (99webdesigns.net)
-- 99WebSol (99websol.com)
-- 9:24 Group (924group.com)
-- 9Qubes - Your Digital Growth Partner (9qubes.com)
-- 9to5 software (9to5.software)
-- <!-- --> (yourstorebox.com)
-- <cargonerds> (cargonerds.com)
-- @ ATLATL (dopple.io)
-- @ Aviato Consulting (aviato.consulting)
-- @ Cloud Nexus (cloud-nexus.net)
-- @ CommandDot (commanddot.com)
-- @ Divya Technology Pvt. Ltd. (divyat.com)
-- @ HansaWorld (hansaworld.com)
-- @ REDtone (redtone.com)
-- @ Scottech (scottech.net)
-- @ Tensor (tensor.auto)
-- @Asia Insurance (asiainsurance.net)
-- @DataWeave (dataweave.com)
-- @HostnetIndia (hostnetindia.com)
-- @hydro-clean-duct (hydro-cleanducts.com)
-- @solutionanalysts, @solutionanalysts (solutionanalysts.com)
-- @Website.Name (processbd.com)
-- _defyThemAll Blog (defythemall.com)
-- _GOOD-ARK (goodark.com)
-- A BETTER SIGN (abettersign.com)
-- A Custom Software Solution based in Republic of Kosovo (spinp.tech)
-- A Factory (a-factory.com)
-- A Future with Silas Simmons, LLP (silassimmons.com)
-- A G Equipment Company (agequipmentcompany.com)
-- A Global Platform to Hire Agencies (vurks.com)
-- A Good Place (agoodplacetherapy.com)
-- A Great Place to Work (telcor.com)
