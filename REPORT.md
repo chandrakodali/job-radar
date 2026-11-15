@@ -1,19 +1,20 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**730 jobs**, newest first. Updated Sun Nov 15, 2:07 PM CST from 12,526 company job boards and other sources.
+**730 jobs**, newest first. Updated Sun Nov 15, 2:37 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-205 repeat listings (same company and title in another place or on another source) are merged into one row.
+206 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 883 matching jobs that job sites and feeds listed this week, 258 (29%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 923 matching jobs that job sites and feeds listed this week, 279 (30%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (11)](#sunday-nov-15-11) · [Sat 14 (326)](#saturday-nov-14-326) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (98)](#thursday-nov-12-98) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57) · [Sun 8 (37)](#sunday-nov-8-37)
+Jump to: [Sun 15 (12)](#sunday-nov-15-12) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (98)](#thursday-nov-12-98) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57) · [Sun 8 (37)](#sunday-nov-8-37)
 
-## Sunday, Nov 15 (11)
+## Sunday, Nov 15 (12)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 2:37 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265317735/Senior-FinOps-Analyst-ID94366) | Agileengine | Jacksonville, United States +9 more | 25 | senior title, years not stated |
 | 1:38 PM | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/netic/178a50d3-f3e8-4031-829f-ce6d6f3ed245) | Cybernetic Labs | San Francisco (onsite) | 80 | 1+ yrs exp |
 | 1:07 PM (seen) | [Senior Production Engineer](https://santos.avature.net/internalCareer/JobDetail/Senior-Production-Engineer/82288) | Santos Avature Net |  | 20 | senior title, years not stated; location unclear |
 | 1:07 PM (seen) | [Boomi Systems Administrator](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Boomi-Systems-Administrator/5562) | Tql Avature Net |  | 30 | location unclear |
@@ -26,12 +27,11 @@ Jump to: [Sun 15 (11)](#sunday-nov-15-11) · [Sat 14 (326)](#saturday-nov-14-326
 | date only | [Azure DevOps Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Azure-DevOps-Engineer/373104) | Deloitte US |  | 55 | location unclear |
 | 8:37 AM (seen) | [AWS Data Engineer](https://app.dover.com/apply/comsparkint/6bf1aa8d-7982-43b1-9af1-2e94c7bfdc7f) | Comsparkint | Irvine, CA (onsite) | 55 |  |
 
-## Saturday, Nov 14 (326)
+## Saturday, Nov 14 (325)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 10:37 PM (seen) | [LLM AIOps Development Engineer - Data Center Networking](https://lifeattiktok.com/search/7605333525314685237) | TikTok | Seattle, Washington, United States of A… | 50 |  |
-| 10:37 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265319349/Senior-FinOps-Analyst-ID94366) | Agileengine | Fort Lauderdale, United States +8 more | 25 | senior title, years not stated |
 | 6:07 PM (seen) | [Boomi Systems Administrator](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Boomi-Systems-Administrator/5562) | Total Quality Logistics |  | 30 | location unclear |
 | 4:37 PM (seen) | [HPC & MLOps Engineer](https://app.dover.com/apply/c-gen-ai/2ddc9bab-82c0-4554-bc2e-7b023e3bc5d9) | C Gen Ai | United States; United Kingdom; Turkey; … (hybrid) | 50 | 3+ yrs exp |
 | 3:07 PM (seen) | [Senior IT Systems Engineer](https://app.careerpuck.com/job-board/color-health/job/V20dLcJN) | Color Health | South San Francisco, California (hybrid) | 35 | 3+ yrs exp; senior title |
@@ -780,7 +780,7 @@ Jump to: [Sun 15 (11)](#sunday-nov-15-11) · [Sat 14 (326)](#saturday-nov-14-326
 | 6:52 PM (seen) | [IT Systems Administrator](https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26142784&lang=en) | State of Montana | Helena | 35 | location unclear; E-Verify |
 | 4:32 PM | [Software Automation & Platform Engineer — Federal Health IT](https://job-boards.greenhouse.io/rackner/jobs/4752573005) | Rackner | Remote — United States (remote) | 62 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (787)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (786)
 
 <details><summary>Show</summary>
 
