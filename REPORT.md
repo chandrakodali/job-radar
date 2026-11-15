@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**688 jobs**, newest first. Updated Sat Nov 14, 5:37 PM CST from 10,713 company job boards and other sources.
+**690 jobs**, newest first. Updated Sat Nov 14, 6:07 PM CST from 10,713 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,13 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 593 matching jobs that job sites and feeds listed this week, 114 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sat 14 (318)](#saturday-nov-14-318) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (90)](#thursday-nov-12-90) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (79)](#tuesday-nov-10-79) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (37)](#sunday-nov-8-37)
+Jump to: [Sat 14 (319)](#saturday-nov-14-319) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (90)](#thursday-nov-12-90) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (79)](#tuesday-nov-10-79) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (37)](#sunday-nov-8-37)
 
-## Saturday, Nov 14 (318)
+## Saturday, Nov 14 (319)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 6:07 PM (seen) | [Boomi Systems Administrator](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Boomi-Systems-Administrator/5562) | Total Quality Logistics |  | 30 | location unclear |
 | 4:37 PM (seen) | [HPC & MLOps Engineer](https://app.dover.com/apply/c-gen-ai/2ddc9bab-82c0-4554-bc2e-7b023e3bc5d9) | C Gen Ai | United States; United Kingdom; Turkey; … (hybrid) | 50 | 3+ yrs exp |
 | 3:07 PM (seen) | [Senior IT Systems Engineer](https://app.careerpuck.com/job-board/color-health/job/V20dLcJN) | Color Health | South San Francisco, California (hybrid) | 35 | 3+ yrs exp; senior title |
 | 3:07 PM (seen) | [Senior Site Reliability Engineer II](https://app.careerpuck.com/job-board/blinkhealth/job/KnuUiS8A) | Blinkhealth | Pittsburgh, PA, Seattle, WA, New York, … | 35 | senior title, years not stated |
@@ -333,12 +334,13 @@ Jump to: [Sat 14 (318)](#saturday-nov-14-318) · [Fri 13 (62)](#friday-nov-13-62
 | date only | [Senior Cloud Infrastructure Engineer](https://apply.workable.com/raydar/j/6D4A3A5075/) | Raydar | United States (remote) | 52 | senior title, years not stated |
 | 7:47 AM | [Systems Software Developer, CAD Infrastructure](https://jobs.apple.com/en-us/details/200694942/systems-software-developer-cad-infrastructure) | Apple | United States of America | 65 |  |
 
-## Friday, Nov 13 (62)
+## Friday, Nov 13 (63)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:47 PM | [Sr. Software Engineer, Machine Learning & Data Infrastructure](https://job-boards.greenhouse.io/okx/jobs/8187582003) | OKX | San Jose, California, United States | 55 | senior title, years not stated |
 | 11:01 PM | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/rainmaker/c7372b90-e7b3-4620-a6c1-d4ffd24c14e1) | Rainmaker | El Segundo, CA | 70 | E-Verify |
+| 11:00 PM | [Senior Solution Consultant, Cloud Platform](https://careers-americas.icims.com/jobs/27928/senior-solution-consultant%2c-cloud-platform/job) | Atlassian | Austin, TX, United States; New York, NY… (remote) | 52 | senior title, years not stated |
 | 7:13 PM | [Software Engineer, Cloud Platform](https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0) | Baseten | San Francisco; Remote; Toronto; New Yor… (hybrid) | 70 |  |
 | 7:01 PM | [Senior Network Engineer - DR25 Network Engineering team](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350444) | Oracle | Seattle, WA, United States; Santa Clara… | 35 | senior title, years not stated |
 | 7:01 PM | [Senior Network Engineer - DR25 Network Engineering team](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/350444) | Eeho Fa Us2 Oraclecloud Com | Seattle, WA, United States; Santa Clara… | 55 | 2+ yrs exp; senior title |
