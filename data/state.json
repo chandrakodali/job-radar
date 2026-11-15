@@ -10314,17 +10314,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 93,
+   "n": 94,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 93,
+   "n": 94,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 93,
+   "n": 94,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12782,12 +12782,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 5,
+   "n": 6,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 24,
+   "n": 25,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
