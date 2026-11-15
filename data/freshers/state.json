@@ -2801,12 +2801,16 @@
   "dover:beyondlabs-cf291676": "2026-11-15",
   "dover:bildbot": "2026-11-15",
   "dover:brinc-drones": "2026-11-15",
+  "dover:c-gen-ai": "2026-11-15",
+  "dover:capitol": "2026-11-15",
   "dover:castle": "2026-11-13",
   "dover:chasi": "2026-11-13",
   "dover:churchilltechnologies": "2026-11-15",
   "dover:cicero": "2026-11-15",
   "dover:clad": "2026-11-15",
   "dover:codingal": "2026-11-13",
+  "dover:cointelligencelabs": "2026-11-15",
+  "dover:column": "2026-11-15",
   "dover:conduit": "2026-11-13",
   "dover:dots": "2026-11-13",
   "dover:draftwise": "2026-11-13",
@@ -9950,17 +9954,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 41,
+   "n": 42,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 41,
+   "n": 42,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 41,
+   "n": 42,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -11339,12 +11343,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 14,
+   "n": 15,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11409,7 +11413,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 37,
+   "n": 38,
    "since": "2026-11-13"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11456,7 +11460,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 34,
+   "n": 35,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -56819,8 +56823,11 @@
   "dover:betriax:2cccfcf3-aee8-4002-b25d-d9de06c4bb40": "2026-11-15",
   "dover:betriax:a6667987-1880-497f-9e0c-2df1f8a22fb1": "2026-11-15",
   "dover:beyondlabs-cf291676:3b55b80d-ede9-4c4a-b072-bd29681b8d93": "2026-11-15",
+  "dover:c-gen-ai:2ddc9bab-82c0-4554-bc2e-7b023e3bc5d9": "2026-11-15",
   "dover:cicero:2b6bf715-ccdf-4b4d-ac5f-a89f3df3044c": "2026-11-15",
   "dover:cicero:c270ce27-1470-4621-accc-f0bcce5e92ca": "2026-11-15",
+  "dover:cointelligencelabs:4ef34030-cd76-4c84-9a34-dbfa58993e6f": "2026-11-15",
+  "dover:cointelligencelabs:ffa69088-df2b-4237-aa71-b504e5187d93": "2026-11-15",
   "dover:conduit:ff655ee4-e65c-4f7b-bc81-dfb6c8ffb838": "2026-11-13",
   "dover:dots:143285f8-5826-4b67-9221-d1409e0ec473": "2026-11-13",
   "dover:draftwise:3dfc51ea-ae72-4b93-947d-73ef8f5cfaec": "2026-11-13",
@@ -61883,6 +61890,7 @@
   "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:120511": "2026-11-13",
   "oracle:hcbo.fa.us2.oraclecloud.com|CX_1:302828": "2026-11-14",
   "oracle:hccz.fa.em3.oraclecloud.com|CX_2:26452": "2026-11-13",
+  "oracle:hccz.fa.em3.oraclecloud.com|CX_2:26496": "2026-11-15",
   "oracle:hccz.fa.em3.oraclecloud.com|CX_2:26589": "2026-11-13",
   "oracle:hccz.fa.em3.oraclecloud.com|CX_2:26590": "2026-11-13",
   "oracle:hccz.fa.em3.oraclecloud.com|CX_2:26622": "2026-11-13",
@@ -63302,6 +63310,7 @@
   "sfrmk:careers.quality-ai.com:61504344": "2026-11-13",
   "sfrmk:careers.quality-ai.com:61504844": "2026-11-13",
   "sfrmk:careers.quality-ai.com:61528444": "2026-11-14",
+  "sfrmk:careers.quality-ai.com:61538544": "2026-11-15",
   "sfrmk:careers.safran-dsi.com:1420257100": "2026-11-13",
   "sfrmk:careers.safran-dsi.com:1448369700": "2026-11-13",
   "sfrmk:careers.thehersheycompany.com:1436484600": "2026-11-13",

@@ -1,19 +1,21 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**693 jobs**, newest first. Updated Sun Nov 15, 6:18 AM CST from 10,713 company job boards and other sources.
+**694 jobs**, newest first. Updated Sun Nov 15, 7:19 AM CST from 10,713 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-207 repeat listings (same company and title in another place or on another source) are merged into one row.
+208 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 1,206 matching jobs that job sites and feeds listed this week, 225 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (6)](#sunday-nov-15-6) · [Sat 14 (144)](#saturday-nov-14-144) · [Fri 13 (147)](#friday-nov-13-147) · [Thu 12 (111)](#thursday-nov-12-111) · [Wed 11 (111)](#wednesday-nov-11-111) · [Tue 10 (88)](#tuesday-nov-10-88) · [Mon 9 (80)](#monday-nov-9-80) · [Sun 8 (6)](#sunday-nov-8-6)
+Jump to: [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (147)](#friday-nov-13-147) · [Thu 12 (111)](#thursday-nov-12-111) · [Wed 11 (111)](#wednesday-nov-11-111) · [Tue 10 (88)](#tuesday-nov-10-88) · [Mon 9 (80)](#monday-nov-9-80) · [Sun 8 (6)](#sunday-nov-8-6)
 
-## Sunday, Nov 15 (6)
+## Sunday, Nov 15 (8)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 7:19 AM (seen) | [Junior Full Stack Engineer](https://app.dover.com/apply/cointelligencelabs/4ef34030-cd76-4c84-9a34-dbfa58993e6f) | Cointelligencelabs | Austin, TX (onsite) | 65 | entry-level title |
+| 6:36 AM | [Test Center Administrator (Springfield, IL)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26496) | Pearson | Springfield, IL, United States +5 more (onsite) | 80 | 1+ yrs exp |
 | 3:28 AM | [Seasonal Fulfillment and Receiving Support Associate, Castleton](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825672) | Macy's | Indianapolis, IN, United States | 75 | entry-level title |
 | 3:28 AM | [Administrative Support Team Associate, Pasadena Plaza on Lake Avenue …](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825641) | Macy's | Pasadena, CA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:28 AM | [Administrative Support Team Associate, Castleton - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825545) | Macy's | Indianapolis, IN, United States | 85 | entry-level title; 1+ yrs exp |
@@ -21,12 +23,11 @@ Jump to: [Sun 15 (6)](#sunday-nov-15-6) · [Sat 14 (144)](#saturday-nov-14-144) 
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Stanford Shoppi…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825475) | Macy's | Palo Alto, CA, United States | 75 | entry-level title |
 | 3:27 AM | [Administrative Support Team Associate, Glendale Galleria - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825453) | Macy's | Glendale, CA, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Saturday, Nov 14 (144)
+## Saturday, Nov 14 (143)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 10:19 PM (seen) | [Azure FinOps Consultant - PR](https://bluemantis.pinpointhq.com/en/postings/8c49363d-92ee-43d7-b7b9-7f6997fefec0) | Bluemantis | Remote (remote) | 52 | 1+ yrs exp; location unclear |
-| 8:59 PM | [Test Center Administrator (Chattanooga, TN)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26684) | Pearson | Chattanooga, TN, United States +4 more (onsite) | 80 | 1+ yrs exp |
 | 6:18 PM (seen) | [Associate Robotic Process Automation Developer](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Associate-Robotic-Process-Automation-Developer/5551) | Total Quality Logistics |  | 55 | entry-level title; location unclear |
 | 6:18 PM (seen) | [Data Analyst I](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Data-Analyst-I/5506) | Total Quality Logistics |  | 55 | entry-level title; location unclear |
 | 6:18 PM (seen) | [Logistics Support Associate I](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Logistics-Support-Associate-I/5525) | Total Quality Logistics |  | 55 | entry-level title; location unclear |
@@ -743,7 +744,7 @@ Jump to: [Sun 15 (6)](#sunday-nov-15-6) · [Sat 14 (144)](#saturday-nov-14-144) 
 | 8:00 PM | [Patient Support Associate](https://jobs.workable.com/view/1QiEY1djgFwruuycQq9WDi/remote-patient-support-associate-in-united-states-at-theranica-usa%2C-inc.) | Theranica USA, Inc. | Remote, US (remote) | 60 | entry-level title |
 | 3:04 PM | [Groundskeeper Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/41230) | RH | Newport Beach, CA, United States | 63 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2789)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2791)
 
 <details><summary>Show</summary>
 
@@ -756,6 +757,8 @@ Jump to: [Sun 15 (6)](#sunday-nov-15-6) · [Sat 14 (144)](#saturday-nov-14-144) 
 | date only | [Machine Learning Engineer, CreativeFlux, AI Studios](https://www.amazon.jobs/en/jobs/10605453/machine-learning-engineer-creativeflux-ai-studios) | Amazon.com Services LLC | New York, New York, USA | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Associate or Mid-level Ground Systems Engineer for MILSATCOM Program](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Associate-or-Mid-level-Ground-Systems-Engineer-for-MILSATCOM-Program_JR2026523943-1) | The Boeing Company | USA - El Segundo, CA; USA - Seal Beach,… (onsite) | 60 | rules: entry-level title; 5+ yrs exp; E-Verify; no future H-1B sponso… |
 | date only | [Mid-level Ground Systems Engineer for MILSATCOM Program](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Mid-level-Ground-Systems-Engineer-for-MILSATCOM-Program_JR2026507793) | The Boeing Company | USA - El Segundo, CA (onsite) | 50 | rules: 10+ yrs exp; E-Verify; no future H-1B sponsorship; needs: Secu… |
+| date only | [24295 - Manual QA Engineer](https://careers.quality-ai.com/job/Petach-_-Tikva-24295-Manual-QA-Engineer/61538544/) | Qualitest |  | 70 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
+| 7:19 AM (seen) | [HPC & MLOps Engineer](https://app.dover.com/apply/c-gen-ai/2ddc9bab-82c0-4554-bc2e-7b023e3bc5d9) | C Gen Ai | United States; United Kingdom; Turkey; … (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 6:18 AM (seen) | [Wordpress Developer](https://app.dover.com/apply/beyondlabs-cf291676/3b55b80d-ede9-4c4a-b072-bd29681b8d93) | Beyondlabs Cf291676 | International (remote) | 37 | rules: 4+ yrs exp; location unclear; asks for 4+ years of experience |
 | 6:04 AM | [Cyber Security Data Researcher (EST)](https://jobs.ashbyhq.com/HUMAN/88e6c632-09cf-4929-b77b-3ca05f178cd6) | Human | United States; New York, NY (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 10:23 PM | [RVP, Solutions Engineering, Enterprise](https://jobs.ashbyhq.com/factory/b553864f-79f2-4b45-9e66-550c31cf0e1c) | Factory | San Francisco, CA | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
@@ -1147,7 +1150,5 @@ Jump to: [Sun 15 (6)](#sunday-nov-15-6) · [Sat 14 (144)](#saturday-nov-14-144) 
 | date only | [Technology Infrastructure Analyst (Communication Services)](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Technology-Infrastructure-Analyst--Communication-Services-_R-0013874) | Raymond James Financial | Saint Petersburg, Florida - United Stat… | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Engineer](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12953) | Q2 | Austin, TX | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
 | date only | [Automotive Mobile Diagnostic Technician](https://calibercollision.wd1.myworkdayjobs.com/Protech/job/Indianapolis-IN/Automotive-Mobile-Diagnostic-Technician_R0228040) | Protech Automotive Solutions | Indianapolis, IN +8 more | 80 | rules: 2+ yrs exp; E-Verify; asks for 2+ years of experience |
-| date only | [Business Analyst – Workday People Technology](https://powerdesigninc.wd5.myworkdayjobs.com/PDI/job/FL-St-Petersburg/Business-Analyst---Workday-People-Technology_R12997-1) | Power Design, Inc | FL St Petersburg | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Employee Data Analyst](https://powerdesigninc.wd5.myworkdayjobs.com/PDI/job/FL-St-Petersburg/People-Operations-Coordinator_R12814) | Power Design, Inc | FL St Petersburg | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 
 </details>
