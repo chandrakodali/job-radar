@@ -2827,6 +2827,7 @@
   "dover:codingal": "2026-11-11",
   "dover:cointelligencelabs": "2026-11-15",
   "dover:column": "2026-11-15",
+  "dover:comsparkint": "2026-11-15",
   "dover:concourse": "2026-11-15",
   "dover:conduit": "2026-11-11",
   "dover:dots": "2026-11-11",
@@ -10315,17 +10316,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 100,
+   "n": 101,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 100,
+   "n": 101,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 100,
+   "n": 101,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -10735,11 +10736,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-09"
-  },
-  "icims:careers-eyesouthpartners.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-15"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-16",
@@ -12788,12 +12784,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 12,
+   "n": 13,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 31,
+   "n": 32,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -13131,7 +13127,7 @@
   "Odin": "2026-11-15",
   "OpenDataJobs": "2026-11-14",
   "PGTEK": "2026-11-14",
-  "PIMCO": "2026-11-14",
+  "PIMCO": "2026-11-15",
   "Partner One Software Inc": "2026-11-15",
   "Runware": "2026-11-14",
   "Salvo Software": "2026-11-14",
@@ -13158,8 +13154,8 @@
    356
   ],
   "2026-11-15": [
-   98,
-   196
+   119,
+   236
   ]
  },
  "resolved": {
@@ -56333,6 +56329,9 @@
   "dayforce:ultimus|CANDIDATEPORTAL:6780": "2026-11-14",
   "dayforce:ultimus|CANDIDATEPORTAL:6782": "2026-11-14",
   "dover:c-gen-ai:2ddc9bab-82c0-4554-bc2e-7b023e3bc5d9": "2026-11-14",
+  "dover:comsparkint:369667b8-a59d-44dc-ad8d-d1b1bd949678": "2026-11-15",
+  "dover:comsparkint:6bf1aa8d-7982-43b1-9af1-2e94c7bfdc7f": "2026-11-15",
+  "dover:comsparkint:d9ac491b-255d-4804-8118-073561933268": "2026-11-15",
   "dover:weaverobotics:5b7bf24e-a8dc-40a3-86a7-5ff4e929b49c": "2026-11-11",
   "eightfold:appliedmaterials:790318496424": "2026-11-15",
   "eightfold:dsm:562949978859630": "2026-11-14",
@@ -59347,12 +59346,12 @@
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-15T08:37:13+00:00",
-  "remoteok": "2026-11-15T12:37:13+00:00",
-  "usajobs": "2026-11-15T11:37:16+00:00",
-  "workable_search": "2026-11-15T11:37:16+00:00",
-  "wwr": "2026-11-15T13:37:12+00:00",
-  "yc": "2026-11-15T11:37:16+00:00"
+  "hn": "2026-11-15T14:37:16+00:00",
+  "remoteok": "2026-11-15T14:37:16+00:00",
+  "usajobs": "2026-11-15T14:37:16+00:00",
+  "workable_search": "2026-11-15T14:37:16+00:00",
+  "wwr": "2026-11-15T14:37:16+00:00",
+  "yc": "2026-11-15T14:37:16+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1

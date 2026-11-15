@@ -1,21 +1,22 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**702 jobs**, newest first. Updated Sun Nov 15, 8:07 AM CST from 10,713 company job boards and other sources.
+**703 jobs**, newest first. Updated Sun Nov 15, 8:37 AM CST from 10,713 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 204 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 789 matching jobs that job sites and feeds listed this week, 212 (26%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 829 matching jobs that job sites and feeds listed this week, 233 (28%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (2)](#sunday-nov-15-2) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (93)](#thursday-nov-12-93) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (80)](#tuesday-nov-10-80) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (37)](#sunday-nov-8-37)
+Jump to: [Sun 15 (3)](#sunday-nov-15-3) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (93)](#thursday-nov-12-93) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (80)](#tuesday-nov-10-80) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (37)](#sunday-nov-8-37)
 
-## Sunday, Nov 15 (2)
+## Sunday, Nov 15 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Developer Platform Engineer (Financial Cloud)](https://intellipro.applytojob.com/apply/gLbwG8aDGS/Developer-Platform-Engineer-Financial-Cloud) | IntelliPro Group Inc. | Palo Alto, CA | 65 |  |
 | date only | [24371 - Senior IT Infrastructure Integrator](https://careers.quality-ai.com/job/Petach-_-Tikva-24371-Senior-IT-Infrastructure-Integrator/61538444/) | Qualitest |  | 40 | 3+ yrs exp; senior title; location unclear |
+| 8:37 AM (seen) | [AWS Data Engineer](https://app.dover.com/apply/comsparkint/6bf1aa8d-7982-43b1-9af1-2e94c7bfdc7f) | Comsparkint | Irvine, CA (onsite) | 55 |  |
 
 ## Saturday, Nov 14 (325)
 
@@ -752,13 +753,15 @@ Jump to: [Sun 15 (2)](#sunday-nov-15-2) · [Sat 14 (325)](#saturday-nov-14-325) 
 | 1:06 PM | [Security Engineer (Research Infrastructure)](https://jobs.ashbyhq.com/resolution/d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b) | Resolution | Berkeley, California; Remote (hybrid) | 58 |  |
 | date only | [Senior Cloud Security Engineer](https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-Cloud-Security-Engineer_R03389) | Altera | San Jose, California, United States | 43 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (738)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (740)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Senior Cloud Network Engineer](https://appliedmaterials.eightfold.ai/careers/job/790318496424) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 50 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
+| 8:37 AM (seen) | [Senior GCP Data Engineer](https://app.dover.com/apply/comsparkint/d9ac491b-255d-4804-8118-073561933268) | Comsparkint | Sunnyvale, CA (onsite) | 35 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
+| 8:37 AM (seen) | [Senior Server and Patching Infrastructure Management Specialist](https://app.dover.com/apply/comsparkint/369667b8-a59d-44dc-ad8d-d1b1bd949678) | Comsparkint | Downey, CA (onsite) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 10:37 PM (seen) | [ITOPS Engineer – Logistics & Shipping](https://crackajackdigitalsolutionsllc.applytojob.com/apply/jIVIswjKI1/ITOPS-Engineer-Logistics-Shipping) | CrackaJack Digital Solutions … | Houston, TX | 15 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 3:07 PM (seen) | [Senior Network Engineer II](https://app.careerpuck.com/job-board/blinkhealth/job/r1X8_8Qp) | Blinkhealth | New York, NY; Pittsburgh, PA | 10 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 3:07 PM (seen) | [DevOps Release Engineer](https://app.careerpuck.com/job-board/avalara/job/hP0fejut) | Avalara | Remote, United States (remote) | 27 | rules: 8+ yrs exp; asks for 8+ years of experience |
@@ -1156,8 +1159,6 @@ Jump to: [Sun 15 (2)](#sunday-nov-15-2) · [Sat 14 (325)](#saturday-nov-14-325) 
 | 2:00 AM | [Sr Production Engineer](https://careers.mohawkind.com/mohawk/job/Thomasville-Sr-Production-Engineer-Nort-27360/1439186600/) | Mohawk | Thomasville, North Carolina, United Sta… | 38 | rules: 4+ yrs exp; senior title; adjacent title, little DevOps/cloud … |
 | 2:00 AM | [Senior Engineer, Site Reliability, IP](https://www.optimumcareers.com/job/Plano-Senior-Engineer%2C-Site-Reliability%2C-IP-TX-75024/1401177300/) | Altice USA | Plano, TX, United States | 33 | rules: 6+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
 | 12:51 AM | [Infrastructure Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4488058009) | Mach Industries | Huntington Beach, California, United St… | 60 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; needs: ITAR |
-| 12:46 AM | [AI Platform Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4488055009) | Mach Industries | Huntington Beach, California, United St… | 60 | rules: 4+ yrs exp; E-Verify; no future H-1B sponsorship; needs: ITAR |
-| 12:41 AM | [Senior Infrastructure Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4488051009) | Mach Industries | Huntington Beach, California, United St… | 38 | rules: 6+ yrs exp; senior title; E-Verify; no future H-1B sponsorship… |
 
 </details>
 
