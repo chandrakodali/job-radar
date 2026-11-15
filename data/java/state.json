@@ -6824,6 +6824,7 @@
   "paylocity:1a76b2be-1ba0-447b-9883-3b17ff92c2d7": "2026-11-15",
   "paylocity:1c3b5350-7443-4970-8ba6-ea980243eb17": "2026-11-15",
   "paylocity:1c5570ce-162e-4f5c-980b-2b0ab44d0a7c": "2026-11-15",
+  "paylocity:1ca6e21b-05e4-4ea7-96a8-e7c653b166e0": "2026-11-15",
   "paylocity:1cff5ce9-dab2-438c-be4a-bb02f4e9b2cb": "2026-11-15",
   "paylocity:1d806205-e411-49a1-be73-702909af61eb": "2026-11-15",
   "paylocity:1dad124e-9b25-49bd-b0b4-30bb6e1b1931": "2026-11-15",
@@ -9907,17 +9908,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -10852,7 +10853,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -10917,7 +10918,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 5,
+   "n": 6,
    "since": "2026-11-14"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -10964,7 +10965,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 5,
+   "n": 6,
    "since": "2026-11-14"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -56516,6 +56517,7 @@
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210795450": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210803303": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210804903": "2026-11-14",
+  "paylocity:1ca6e21b-05e4-4ea7-96a8-e7c653b166e0:4275642": "2026-11-15",
   "paylocity:1e7cdaa1-4aaf-417f-be26-c3800bce510b:4559639": "2026-11-15",
   "phenom:careers.cargurus.com|us/en:CABCARUS8204313EXTERNALENUS": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2018635EXTERNALENGLOBAL": "2026-11-14",

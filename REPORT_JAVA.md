@@ -1,6 +1,6 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**174 jobs**, newest first. Updated Sat Nov 14, 7:57 PM CST from 10,713 company job boards and other sources.
+**174 jobs**, newest first. Updated Sat Nov 14, 8:50 PM CST from 10,713 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
@@ -219,7 +219,7 @@ Jump to: [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (20)](#friday-nov-13-20) 
 | date only | [2027 Technology Development Program - Software Engineering (Enterpris…](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035) | M&T Bank | Buffalo, NY (hybrid) | 43 | requires Java |
 | 2:00 AM | [Software Developer Engineer II](https://www.optimumcareers.com/job/Bethpage-Software-Developer-Engineer-II-NY-11714/1429221300/) | Altice USA | Bethpage, NY, United States | 23 | 3+ yrs exp; no future H-1B sponsorship; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (276)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (277)
 
 <details><summary>Show</summary>
 
@@ -500,6 +500,7 @@ Jump to: [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (20)](#friday-nov-13-20) 
 | date only | [Senior Software Engineer](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Senior-Software-Engineer_J00179040) | Equifax | USA - Georgia - Alpharetta - 30005 | 15 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
 | 10:39 AM | [Senior Software Engineer](https://graviteetopcoltd.teamtailor.com/jobs/8675964-senior-software-engineer) | Graviteetopcoltd | Denver, United States (hybrid) | 20 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 9:52 AM | [Senior Java Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4727559006?gh_jid=4727559006) | Accenture | Arlington, VA | 30 | rules: senior title, years not stated; no future H-1B sponsorship; ne… |
+| 9:23 AM | [Senior Software Engineer II](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4275642) | 1Ca6E21B 05E4 4Ea7 96A8 E7C65… | USA | 10 | rules: 8+ yrs exp; senior title; requires Java; asks for 8+ years of … |
 | 11:00 PM | [Full Stack Developer, EVAAS](https://careers-sas.icims.com/jobs/42601/full-stack-developer%2c-evaas/job) | SAS | Cary HQ, NC, United States | 10 | rules: 5+ yrs exp; no future H-1B sponsorship; requires Java; asks fo… |
 
 </details>
