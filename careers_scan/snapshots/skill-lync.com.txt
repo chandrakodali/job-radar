@@ -1,12 +1,12 @@
 Placements
 3,905 engineers
 placed.
-At 1,276 companies. Every number below is a recorded offer: company, role and CTC.
+At 1,277 companies. Every number below is a recorded offer: company, role and CTC.
 Browse all offers By domain
 Placed
 3,905
 Hiring companies
-1,276
+1,277
 Average CTC
 3.9 LPA
 Top 10%
@@ -77,7 +77,7 @@ Belcan CAE Engineer 9 LPA 2026
 03 · Electric & hybrid vehicles
 Battery packs, motors, powertrain sizing and vehicle-level simulation for EV and HEV teams.
 641
-214
+215
 4.2 LPA
 86%
 MBD Engineer

@@ -1,7 +1,7 @@
 people
 4 people
 languages
-39 languages
+24 languages
 win rate over ElevenLabs
 78% win rate over ElevenLabs
 to first audio

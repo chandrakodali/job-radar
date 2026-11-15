@@ -21,8 +21,8 @@ What the customer sees
 Customers can see their plan, their next visit, past reports and what they owe in the customer portal , so the office is not asked when the next service is due.
 Agents that watch the contracts
 The Scheduler agent proposes dates for the visits that are due and the Watcher agent flags the missed visit, the contract running out of included hours and the renewal coming up. Changes wait for a person to approve them.
-Preventive maintenance scheduling
-Preventive maintenance by site and equipment, not by memory.
+Preventive maintenance software
+Preventive maintenance scheduling by site and equipment, not by memory.
 Every unit you service and every site you cover carries its own maintenance plan. The visits are created ahead of time, land on the same schedule as your reactive work, and are recorded against the equipment they were for.
 A cadence per unit or site
 Weekly to annual, seasonal, or after a set number of run-hours. The cadence can come from the equipment type, its age or the customer's agreement.
@@ -302,6 +302,12 @@ Agreements are loaded, the next visits are created and the schedule shows what i
 Through Fieldproxy's MCP server , you can ask Claude, ChatGPT or Copilot which visits are due next week or which contracts renew this quarter, and make changes with a confirm step.
 Questions
 Straight answers.
+What is preventive maintenance software?
+Preventive maintenance software plans and tracks the routine servicing of equipment before it fails. It holds every unit and site you look after, the cadence each one needs (by date, season or run-hours), and the checklist for each visit, then creates the visits ahead of time and records what was done against the equipment. In Fieldproxy the same system also runs your reactive jobs, quotes and invoices, so PM is not a separate tool.
+What is the difference between preventive maintenance software and maintenance scheduling software?
+Maintenance scheduling software decides when and who: it puts the visits on the calendar and assigns technicians. Preventive maintenance software also decides what is due and why, from each unit's cadence, readings and agreement, and keeps the history. Fieldproxy does both: the PM plan generates the visits and the dispatch board fits them around reactive work.
+How do I choose the best preventive maintenance software for a service company?
+If you maintain equipment at customer sites, pick software that ties each PM visit to the customer's agreement and bills it, not only a plant-floor CMMS. Check that cadences can run by date and by meter, that the technician app works offline and scans asset QR codes, that a missed visit alerts someone, and that customers can see their service history. Then make the vendor set up your real plans in the demo.
 What is preventive maintenance software for service companies?
 It holds your maintenance agreements, creates the visits on the right cadence, schedules them, records the work and bills the contract. Fieldproxy does this alongside your reactive jobs on one schedule.
 What is service agreement software?

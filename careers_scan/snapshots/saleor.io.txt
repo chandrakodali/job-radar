@@ -1,8 +1,7 @@
 Saleor Commerce Cloud
 API Calls Hourly
-425,075
+870,451
 24h peak
-837,152
 Handling 1B+ requests a month
 Transacting 400k orders a month
 Open Source
