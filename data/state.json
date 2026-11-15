@@ -9987,17 +9987,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 78,
+   "n": 79,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 78,
+   "n": 79,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 78,
+   "n": 79,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12449,7 +12449,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 9,
+   "n": 10,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12814,8 +12814,8 @@
    356
   ],
   "2026-11-15": [
-   24,
-   48
+   25,
+   52
   ]
  },
  "resolved": {
@@ -55998,6 +55998,7 @@
   "eightfold:ngc:1340075298595": "2026-11-14",
   "eightfold:ngc:1340075310658": "2026-11-14",
   "eightfold:nvidia:893393669632": "2026-11-15",
+  "eightfold:nvidia:893393995133": "2026-11-15",
   "eightfold:nvidia:893394115789": "2026-11-14",
   "eightfold:nvidia:893394241567": "2026-11-14",
   "eightfold:nvidia:893395121939": "2026-11-15",
@@ -58961,7 +58962,7 @@
   "remoteok": "2026-11-15T02:37:15+00:00",
   "usajobs": "2026-11-15T02:37:15+00:00",
   "workable_search": "2026-11-15T02:37:15+00:00",
-  "wwr": "2026-11-15T02:37:15+00:00",
+  "wwr": "2026-11-15T03:37:16+00:00",
   "yc": "2026-11-15T02:37:15+00:00"
  },
  "title_rules": "15160d40994f",

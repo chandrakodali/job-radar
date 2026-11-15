@@ -1,16 +1,16 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**692 jobs**, newest first. Updated Sat Nov 14, 9:07 PM CST from 10,713 company job boards and other sources.
+**693 jobs**, newest first. Updated Sat Nov 14, 9:37 PM CST from 10,713 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 193 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 641 matching jobs that job sites and feeds listed this week, 138 (21%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 645 matching jobs that job sites and feeds listed this week, 139 (21%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (90)](#thursday-nov-12-90) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (79)](#tuesday-nov-10-79) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (37)](#sunday-nov-8-37)
+Jump to: [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (90)](#thursday-nov-12-90) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (79)](#tuesday-nov-10-79) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (37)](#sunday-nov-8-37)
 
-## Saturday, Nov 14 (321)
+## Saturday, Nov 14 (322)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -334,6 +334,7 @@ Jump to: [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (63)](#friday-nov-13-63
 | date only | [Senior Cloud Infrastructure Engineer](https://apply.workable.com/raydar/j/6D4A3A5075/) | Raydar | United States (remote) | 52 | senior title, years not stated |
 | date only | [Senior Network Security Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893396402568) | Nvidia | Santa Clara, CA, US; US (remote) | 40 | senior title, years not stated |
 | date only | [Senior Production Engineer, Object Store - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893396422329) | Nvidia | Santa Clara, CA, US; US (remote) | 40 | senior title, years not stated |
+| date only | [HPC Operations Engineer - EDA Infrastructure](https://nvidia.eightfold.ai/careers/job/893393995133) | Nvidia | Santa Clara, CA, US; Durham, NC, US; Au… (onsite) | 68 | 2+ yrs exp |
 | 7:47 AM | [Systems Software Developer, CAD Infrastructure](https://jobs.apple.com/en-us/details/200694942/systems-software-developer-cad-infrastructure) | Apple | United States of America | 65 |  |
 
 ## Friday, Nov 13 (63)
@@ -737,7 +738,7 @@ Jump to: [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (63)](#friday-nov-13-63
 | 1:06 PM | [Security Engineer (Research Infrastructure)](https://jobs.ashbyhq.com/resolution/d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b) | Resolution | Berkeley, California; Remote (hybrid) | 58 |  |
 | date only | [Senior Cloud Security Engineer](https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-Cloud-Security-Engineer_R03389) | Altera | San Jose, California, United States | 43 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (753)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (736)
 
 <details><summary>Show</summary>
 
