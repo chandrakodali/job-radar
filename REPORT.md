@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**702 jobs**, newest first. Updated Sun Nov 15, 12:07 PM CST from 10,713 company job boards and other sources.
+**702 jobs**, newest first. Updated Sun Nov 15, 12:37 PM CST from 10,713 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 204 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 875 matching jobs that job sites and feeds listed this week, 256 (29%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 879 matching jobs that job sites and feeds listed this week, 257 (29%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sun 15 (3)](#sunday-nov-15-3) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (93)](#thursday-nov-12-93) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (80)](#tuesday-nov-10-80) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (36)](#sunday-nov-8-36)
 
@@ -752,7 +752,7 @@ Jump to: [Sun 15 (3)](#sunday-nov-15-3) · [Sat 14 (325)](#saturday-nov-14-325) 
 | 4:32 PM | [Software Automation & Platform Engineer — Federal Health IT](https://job-boards.greenhouse.io/rackner/jobs/4752573005) | Rackner | Remote — United States (remote) | 62 |  |
 | 1:06 PM | [Security Engineer (Research Infrastructure)](https://jobs.ashbyhq.com/resolution/d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b) | Resolution | Berkeley, California; Remote (hybrid) | 58 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (741)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (740)
 
 <details><summary>Show</summary>
 
