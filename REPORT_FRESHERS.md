@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**686 jobs**, newest first. Updated Sun Nov 15, 3:20 AM CST from 10,713 company job boards and other sources.
+**692 jobs**, newest first. Updated Sun Nov 15, 3:57 AM CST from 10,713 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,18 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 1,105 matching jobs that job sites and feeds listed this week, 204 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sat 14 (144)](#saturday-nov-14-144) · [Fri 13 (147)](#friday-nov-13-147) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (111)](#wednesday-nov-11-111) · [Tue 10 (88)](#tuesday-nov-10-88) · [Mon 9 (80)](#monday-nov-9-80) · [Sun 8 (6)](#sunday-nov-8-6)
+Jump to: [Sun 15 (6)](#sunday-nov-15-6) · [Sat 14 (144)](#saturday-nov-14-144) · [Fri 13 (147)](#friday-nov-13-147) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (111)](#wednesday-nov-11-111) · [Tue 10 (88)](#tuesday-nov-10-88) · [Mon 9 (80)](#monday-nov-9-80) · [Sun 8 (6)](#sunday-nov-8-6)
+
+## Sunday, Nov 15 (6)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| 3:28 AM | [Seasonal Fulfillment and Receiving Support Associate, Castleton](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825672) | Macy's | Indianapolis, IN, United States | 75 | entry-level title |
+| 3:28 AM | [Administrative Support Team Associate, Pasadena Plaza on Lake Avenue …](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825641) | Macy's | Pasadena, CA, United States | 85 | entry-level title; 1+ yrs exp |
+| 3:28 AM | [Administrative Support Team Associate, Castleton - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825545) | Macy's | Indianapolis, IN, United States | 85 | entry-level title; 1+ yrs exp |
+| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Bay Plaza](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825513) | Macy's | Bronx, NY, United States | 75 | entry-level title |
+| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Stanford Shoppi…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825475) | Macy's | Palo Alto, CA, United States | 75 | entry-level title |
+| 3:27 AM | [Administrative Support Team Associate, Glendale Galleria - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825453) | Macy's | Glendale, CA, United States | 85 | entry-level title; 1+ yrs exp |
 
 ## Saturday, Nov 14 (144)
 

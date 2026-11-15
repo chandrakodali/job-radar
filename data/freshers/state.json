@@ -3,6 +3,7 @@
   "adp:000c0490-cc55-4888-9ce3-84bc24843c60|19000101_000001": "2026-11-14",
   "adp:00a315c7-e5f5-4392-94c9-185170c8222a": "2026-11-14",
   "adp:00f2efdd-7a27-4b0b-af2a-2e4da1695f31|19000101_000001": "2026-11-14",
+  "adp:02042b6e-73c8-47ff-ad23-1b112ded7538|19000101_000001": "2026-11-15",
   "adp:02161b08-cb15-42c3-bce4-f772c36f668c": "2026-11-15",
   "adp:02161b08-cb15-42c3-bce4-f772c36f668c|19000101_000001": "2026-11-15",
   "adp:02307472-7039-4ed3-bacb-7c30eec440ed": "2026-11-15",
@@ -9947,17 +9948,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 38,
+   "n": 39,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 38,
+   "n": 39,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 38,
+   "n": 39,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -11336,12 +11337,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 11,
+   "n": 12,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11406,7 +11407,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 34,
+   "n": 35,
    "since": "2026-11-13"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11453,7 +11454,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 31,
+   "n": 32,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -61605,6 +61606,12 @@
   "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825116": "2026-11-14",
   "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825375": "2026-11-15",
   "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825413": "2026-11-15",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825453": "2026-11-15",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825475": "2026-11-15",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825513": "2026-11-15",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825545": "2026-11-15",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825641": "2026-11-15",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825672": "2026-11-15",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX_1:213560": "2026-11-13",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX_1:214456": "2026-11-13",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX_1:214463": "2026-11-13",
