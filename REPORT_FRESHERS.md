@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**728 jobs**, newest first. Updated Sun Nov 15, 3:24 PM CST from 12,526 company job boards and other sources.
+**728 jobs**, newest first. Updated Sun Nov 15, 4:24 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -778,12 +778,13 @@ Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143
 | 10:47 PM | [Data Operations Specialist (Contractor)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4d6d36b1-bedf-4c57-88e7-3817e50bbf21&ccId=19000101_000001&jobId=9202611212108_8&lang=en_US) | 4D6D36B1 Bedf 4C57 88E7 3817E… | Waltham, MA; NY; Chicago, IL | 63 | entry level (from the text) |
 | 8:00 PM | [Patient Support Associate](https://jobs.workable.com/view/1QiEY1djgFwruuycQq9WDi/remote-patient-support-associate-in-united-states-at-theranica-usa%2C-inc.) | Theranica USA, Inc. | Remote, US (remote) | 60 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2980)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2982)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 4:27 PM | [Security Intelligence Analyst, Consultant](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262183) | Ecge Fa Us2 Oraclecloud Com | Oakland, CA, United States | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 1:23 PM (seen) | [Personnel Security Analyst / Adjudicator – Junior with FSP](https://jobs.jobvite.com/xceleratesolutions/job/o0MUAfw0) | Xceleratesolutions | Hybrid Remote , McLean, Virginia | 70 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
 | 1:23 PM (seen) | [Junior Developer / Req#4505](https://jobs.jobvite.com/actionet-review/job/ofYQzfwm) | Actionet Review | Rosslyn, Virginia | 40 | rules: entry-level title; 8+ yrs exp; asks for 8+ years of experience |
 | 1:23 PM (seen) | [Junior Service Desk Technician / Req#4709](https://jobs.jobvite.com/actionet-review/job/oNXNAfwR) | Actionet Review | Washington, DC | 70 | rules: entry-level title; 1+ yrs exp; needs: Public Trust Clearance |
@@ -832,6 +833,7 @@ Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143
 | date only | [24295 - Manual QA Engineer](https://careers.quality-ai.com/job/Petach-_-Tikva-24295-Manual-QA-Engineer/61538544/) | Qualitest |  | 70 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | date only | [Digital Solutions and Platform Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2022135EXTERNALENGLOBAL) | Cisco | Maynard, Massachusetts, United States o… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Software Development Engineer, Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10604856/software-development-engineer-agentic-ai-velocity-labs) | Amazon Development Center U.S… | New York, New York, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Mid-Level Software Engineer – UI/API Application Development](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Mid-Level-Software-Engineer---UI-API-Application-Development_R0121105) | USAA | San Antonio Home Office I | 55 | rules: 4+ yrs exp; no future H-1B sponsorship; asks for 4+ years of e… |
 | 9:03 AM | [Physical AI Data Collection Associate](https://jobs.ashbyhq.com/Clera/19f1c181-17c0-45ce-981b-cf62240b95d9) | Clera | remote | 50 | rules: entry-level title; 5+ yrs exp; location unclear; asks for 5+ y… |
 | 7:19 AM (seen) | [HPC & MLOps Engineer](https://app.dover.com/apply/c-gen-ai/2ddc9bab-82c0-4554-bc2e-7b023e3bc5d9) | C Gen Ai | United States; United Kingdom; Turkey; … (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 6:49 AM | [IT Support Specialist](https://jobs.workable.com/view/7iddeEL1x5FBHxsHzDPBvd/it-support-specialist-in-petersburg-at-tomorrow-hire) | TOMORROW HIRE | Petersburg, Virginia (onsite) | 75 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
@@ -1182,7 +1184,5 @@ Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143
 | 11:36 AM | [Security Systems / IT Security Specialist](https://careers.akima.com/jobs/27790?lang=en-us) | Akima | Lorton, Virginia | 45 | rules: 7+ yrs exp; needs: U.S. Citizenship required |
 | 11:35 AM | [Remote Support Engineer, Deployment](https://jobs.ashbyhq.com/contoro/68192423-05e1-40fa-aa2b-f40ced4cb87b) | Contoro | Austin, TX (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 11:24 AM | [Customer Support Specialist](https://jobs.ashbyhq.com/junipersquare/7709b4cf-5732-46a7-982c-06ab475fc9e7) | Junipersquare | Americas (USA or Canada) (remote) | 65 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 11:18 AM | [Full Stack Engineer (Python / Cloud / React)](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/21234) | EXL | Hartford, Connecticut, United States (hybrid) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| 11:17 AM | [BIM Application Specialist](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99428) | WSP | Irvine, CA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>

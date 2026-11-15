@@ -11,6 +11,7 @@
   "adp:02835ad7-1b2e-4eb2-9773-3454d03b1a3e|19000101_000001": "2026-11-14",
   "adp:0330dee1-d933-49d0-805d-d480b2ad35af": "2026-11-14",
   "adp:035c77cb-5b5c-4e48-b858-605ab1663076|19000101_000001": "2026-11-15",
+  "adp:0363f4b4-0274-4945-a384-b8a74a6d4033|424053531_1563": "2026-11-15",
   "adp:03c2f092-b213-42ad-98be-1a01f1276c5d|19000101_000001": "2026-11-14",
   "adp:03db93ed-1b1c-4447-805d-a674958c23e6|19000101_000003": "2026-11-15",
   "adp:041a8516-be7e-4672-aab7-91b78e278f9c": "2026-11-14",
@@ -174,6 +175,7 @@
   "adp:3ce7d096-dd18-44f1-a229-80ef77be1b4a|5220137_3142": "2026-11-15",
   "adp:3db3d6a8-1de1-4ffc-bf60-68f204d46c0a": "2026-11-14",
   "adp:3db3d6a8-1de1-4ffc-bf60-68f204d46c0a|19000101_000001": "2026-11-14",
+  "adp:3e6ca021-42cf-48c4-bacd-c2313ac68105|19000101_000001": "2026-11-15",
   "adp:3eae78e2-5e1e-4eeb-8dbb-ee9858f862f5|19000101_000001": "2026-11-14",
   "adp:3eee3616-edb4-4d43-8c71-5a633d0d0022": "2026-11-14",
   "adp:3f9a06ac-149d-4032-b017-463a09ae61d7|19000101_000001": "2026-11-15",
@@ -7938,6 +7940,7 @@
   "paylocity:0b6cc596-ce53-4e9d-9b26-b235ed9830c6": "2026-11-15",
   "paylocity:0ba946fa-bf1f-4728-a713-4bfe119c1d36": "2026-11-15",
   "paylocity:0c6e953e-969a-4bb6-a5ec-6ca8b1ad0436": "2026-11-15",
+  "paylocity:0cdcd78d-79e0-4a6b-a633-b39f86b88bf9": "2026-11-15",
   "paylocity:0d0cdb98-ced2-44b9-b079-e37b2ae9a19b": "2026-11-15",
   "paylocity:0db36655-7ae1-4ba3-8904-f48848360b5a": "2026-11-15",
   "paylocity:0db44b81-4269-44e5-9d68-47ba1208c6d1": "2026-11-15",
@@ -7949,6 +7952,7 @@
   "paylocity:0f4100f7-a201-4dd8-8bbd-f7ba075b6f43": "2026-11-15",
   "paylocity:0fe25160-2fdc-4463-8886-028a240c27a0": "2026-11-15",
   "paylocity:1078af34-40eb-4989-83a3-3a2138324f69": "2026-11-14",
+  "paylocity:10b0b146-d7a9-4bb1-ae55-69733ad6c623": "2026-11-15",
   "paylocity:10c8ea62-0f5a-43ec-9ac1-4863af798914": "2026-11-14",
   "paylocity:10d74e65-36ac-49d3-bd03-22487604cb5e": "2026-11-14",
   "paylocity:10dddce7-8ab8-484d-8acf-3754d32ec78d": "2026-11-14",
@@ -7988,6 +7992,7 @@
   "paylocity:16cc662c-21d1-4ff2-b5fd-a9de53f5b71a": "2026-11-14",
   "paylocity:1727f1da-4aa6-43f9-aa64-4e2a909a537d": "2026-11-15",
   "paylocity:174aac10-2bd9-46d5-8e65-6c908166d57a": "2026-11-15",
+  "paylocity:17529fbd-9afd-49ba-b923-6cec2a75a303": "2026-11-15",
   "paylocity:17713721-eeb1-49c8-a8fe-8a7ec37f0088": "2026-11-15",
   "paylocity:180866a7-157b-4668-9e4e-986aeaf7cd51": "2026-11-15",
   "paylocity:18300151-3b4d-4044-912d-501cebb26321": "2026-11-15",
@@ -11666,17 +11671,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 51,
+   "n": 52,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 51,
+   "n": 52,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 51,
+   "n": 52,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -13061,7 +13066,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 24,
+   "n": 25,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -13126,7 +13131,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 46,
+   "n": 47,
    "since": "2026-11-13"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -13173,7 +13178,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 43,
+   "n": 44,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -72416,6 +72421,8 @@
   "oracle:ebxr.fa.us2.oraclecloud.com|CX_1:215220": "2026-11-15",
   "oracle:ebxs.fa.us2.oraclecloud.com|CX_2:310170": "2026-11-13",
   "oracle:ecge.fa.us2.oraclecloud.com|CX:20261361": "2026-11-14",
+  "oracle:ecge.fa.us2.oraclecloud.com|CX:20262183": "2026-11-15",
+  "oracle:ecge.fa.us2.oraclecloud.com|CX:20262276": "2026-11-15",
   "oracle:ecge.fa.us2.oraclecloud.com|CX_1003:20261361": "2026-11-13",
   "oracle:ecge.fa.us2.oraclecloud.com|CX_1003:20261998": "2026-11-13",
   "oracle:ecge.fa.us2.oraclecloud.com|CX_1003:20262276": "2026-11-13",
@@ -78910,6 +78917,7 @@
   "workday:unisys|wd5|External:REQ577016": "2026-11-13",
   "workday:unum|wd1|external:834367": "2026-11-13",
   "workday:unum|wd1|external:836724": "2026-11-13",
+  "workday:usaa|wd1|USAAJOBSWD:R0121105": "2026-11-15",
   "workday:usacs|wd1|usacscareers:R0002404": "2026-11-13",
   "workday:usbank|wd1|US_Bank_Careers:2026-0019721": "2026-11-13",
   "workday:usbank|wd1|US_Bank_Careers:2026-0025433": "2026-11-13",
