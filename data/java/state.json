@@ -9926,17 +9926,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 8,
+   "n": 9,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 8,
+   "n": 9,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 8,
+   "n": 9,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -10871,7 +10871,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -10936,7 +10936,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 7,
+   "n": 8,
    "since": "2026-11-14"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -10983,7 +10983,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 7,
+   "n": 8,
    "since": "2026-11-14"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -11182,20 +11182,20 @@
  "found_cursor": 0,
  "last_digest": "2026-11-14",
  "missed_companies": {
-  "*Confidential Healthcare AI Startup": "2026-11-14",
+  "*Confidential Healthcare AI Startup": "2026-11-15",
   "Bask Health": "2026-11-15",
   "Beacons": "2026-11-15",
   "Bountiful": "2026-11-15",
   "Candid Health": "2026-11-15",
-  "Collabify": "2026-11-14",
-  "Early-stage Startup": "2026-11-14",
+  "Collabify": "2026-11-15",
+  "Early-stage Startup": "2026-11-15",
   "EdgeQ Technologies Private Limited": "2026-11-15",
   "Fathom Robotics": "2026-11-15",
   "GoGoGrandparent": "2026-11-15",
   "HelloGov AI": "2026-11-15",
   "Jiffy": "2026-11-15",
   "Julius": "2026-11-15",
-  "Kroo": "2026-11-14",
+  "Kroo": "2026-11-15",
   "Medplum": "2026-11-15",
   "Method Financial": "2026-11-15",
   "Mindful Support Services": "2026-11-15",
@@ -11205,7 +11205,7 @@
   "Polymath Robotics": "2026-11-15",
   "Rockstar": "2026-11-15",
   "Sapsol Technologies Inc": "2026-11-15",
-  "Stealth Health-Tech Startup": "2026-11-14",
+  "Stealth Health-Tech Startup": "2026-11-15",
   "Symmetrio": "2026-11-15",
   "True Talent Solutions Partners": "2026-11-15",
   "Turing Labs Inc.": "2026-11-15",
@@ -11219,8 +11219,8 @@
    65
   ],
   "2026-11-15": [
-   17,
-   60
+   34,
+   119
   ]
  },
  "resolved": {
@@ -54876,10 +54876,14 @@
   "eightfold:nvidia:893398699855": "2026-11-14",
   "eightfold:nvidia:893398699884": "2026-11-14",
   "eightfold:nvidia:893398728115": "2026-11-14",
+  "eightfold:paypal:274922508777": "2026-11-15",
+  "eightfold:paypal:274922654826": "2026-11-15",
   "eightfold:paypal:274923300117": "2026-11-14",
   "eightfold:paypal:274923300658": "2026-11-14",
   "eightfold:paypal:274923336364": "2026-11-14",
   "eightfold:paypal:274923348283": "2026-11-14",
+  "eightfold:paypal|paypal.com:274922508777": "2026-11-15",
+  "eightfold:paypal|paypal.com:274922654826": "2026-11-15",
   "eightfold:paypal|paypal.com:274923300117": "2026-11-14",
   "eightfold:paypal|paypal.com:274923300658": "2026-11-14",
   "eightfold:paypal|paypal.com:274923336364": "2026-11-14",
@@ -56125,6 +56129,7 @@
   "jazzhr:intellipro:OZkpOH1Out": "2026-11-14",
   "jazzhr:intellipro:QJefkbDsQk": "2026-11-14",
   "jazzhr:intellipro:QjkChi00CK": "2026-11-14",
+  "jazzhr:intellipro:gLbwG8aDGS": "2026-11-15",
   "jazzhr:intellipro:huWQihf62L": "2026-11-14",
   "jazzhr:lentechinc:777gZsWJzb": "2026-11-14",
   "jazzhr:lentechinc:7YJewQx3zg": "2026-11-14",
@@ -58229,12 +58234,12 @@
   "zoho:virtualcolleague:805869000004420928": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-14T21:51:02+00:00",
+  "hn": "2026-11-15T04:49:36+00:00",
   "remoteok": "2026-11-15T03:43:51+00:00",
-  "usajobs": "2026-11-15T00:51:00+00:00",
-  "workable_search": "2026-11-15T00:51:00+00:00",
-  "wwr": "2026-11-15T03:43:51+00:00",
-  "yc": "2026-11-15T00:51:00+00:00"
+  "usajobs": "2026-11-15T04:49:36+00:00",
+  "workable_search": "2026-11-15T04:49:36+00:00",
+  "wwr": "2026-11-15T04:49:36+00:00",
+  "yc": "2026-11-15T04:49:36+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
