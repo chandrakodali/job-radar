@@ -2824,6 +2824,8 @@
   "dover:cloudwaveinc": "2026-11-14",
   "dover:codeclimate": "2026-11-14",
   "dover:codingal": "2026-11-11",
+  "dover:cointelligencelabs": "2026-11-15",
+  "dover:column": "2026-11-15",
   "dover:concourse": "2026-11-15",
   "dover:conduit": "2026-11-11",
   "dover:dots": "2026-11-11",
@@ -10312,17 +10314,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 89,
+   "n": 90,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 89,
+   "n": 90,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 89,
+   "n": 90,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12780,12 +12782,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 20,
+   "n": 21,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12850,7 +12852,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 88,
+   "n": 89,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12897,7 +12899,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 59,
+   "n": 60,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {

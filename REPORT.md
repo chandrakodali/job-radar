@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**701 jobs**, newest first. Updated Sun Nov 15, 2:37 AM CST from 10,713 company job boards and other sources.
+**701 jobs**, newest first. Updated Sun Nov 15, 3:07 AM CST from 10,713 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -751,7 +751,7 @@ Jump to: [Sun 15 (1)](#sunday-nov-15-1) · [Sat 14 (325)](#saturday-nov-14-325) 
 | 1:06 PM | [Security Engineer (Research Infrastructure)](https://jobs.ashbyhq.com/resolution/d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b) | Resolution | Berkeley, California; Remote (hybrid) | 58 |  |
 | date only | [Senior Cloud Security Engineer](https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-Cloud-Security-Engineer_R03389) | Altera | San Jose, California, United States | 43 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (746)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (737)
 
 <details><summary>Show</summary>
 
