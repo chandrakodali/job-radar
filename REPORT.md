@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**693 jobs**, newest first. Updated Sat Nov 14, 9:37 PM CST from 10,713 company job boards and other sources.
+**694 jobs**, newest first. Updated Sat Nov 14, 10:07 PM CST from 10,713 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,9 +8,9 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 645 matching jobs that job sites and feeds listed this week, 139 (21%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (90)](#thursday-nov-12-90) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (79)](#tuesday-nov-10-79) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (37)](#sunday-nov-8-37)
+Jump to: [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (90)](#thursday-nov-12-90) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (79)](#tuesday-nov-10-79) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (37)](#sunday-nov-8-37)
 
-## Saturday, Nov 14 (322)
+## Saturday, Nov 14 (323)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -335,6 +335,7 @@ Jump to: [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (63)](#friday-nov-13-63
 | date only | [Senior Network Security Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893396402568) | Nvidia | Santa Clara, CA, US; US (remote) | 40 | senior title, years not stated |
 | date only | [Senior Production Engineer, Object Store - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893396422329) | Nvidia | Santa Clara, CA, US; US (remote) | 40 | senior title, years not stated |
 | date only | [HPC Operations Engineer - EDA Infrastructure](https://nvidia.eightfold.ai/careers/job/893393995133) | Nvidia | Santa Clara, CA, US; Durham, NC, US; Au… (onsite) | 68 | 2+ yrs exp |
+| date only | [Deployment Engineer (Tuesday-Saturday workweek)](https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Dallas-TX/Deployment-Engineer_R44680) | SS&C | Dallas, TX; Kansas City, MO | 53 | 2+ yrs exp |
 | 7:47 AM | [Systems Software Developer, CAD Infrastructure](https://jobs.apple.com/en-us/details/200694942/systems-software-developer-cad-infrastructure) | Apple | United States of America | 65 |  |
 
 ## Friday, Nov 13 (63)
@@ -738,7 +739,7 @@ Jump to: [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (63)](#friday-nov-13-63
 | 1:06 PM | [Security Engineer (Research Infrastructure)](https://jobs.ashbyhq.com/resolution/d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b) | Resolution | Berkeley, California; Remote (hybrid) | 58 |  |
 | date only | [Senior Cloud Security Engineer](https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-Cloud-Security-Engineer_R03389) | Altera | San Jose, California, United States | 43 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (736)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (734)
 
 <details><summary>Show</summary>
 
@@ -890,6 +891,7 @@ Jump to: [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (63)](#friday-nov-13-63
 | 11:00 PM | [DevOps Developer](https://jobs.dayforcehcm.com/en-US/kgs/candidateportal/jobs/16305) | Kgs | Vienna, VA, US | 53 | rules: 3+ yrs exp; needs: security clearance |
 | 10:56 PM | [Senior Platform Engineer (Crossplane)](https://jobs.lever.co/jobgether/f9328e2b-6ac0-4031-a139-ee42142f59b1) | Jobgether | US (remote) | 35 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 10:35 PM | [Government Cloud Security Engineer](https://job-boards.greenhouse.io/xai/jobs/5294116007) | xAI | Austin, TX; New York, NY; Palo Alto, CA… | 60 | rules: 3+ yrs exp; needs: security clearance |
+| 9:55 PM | [Data Platform Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4559639) | CHRIST PANOS FOOD CORPORATION | Itasca, IL, United States | 38 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:44 PM | [Senior Site Reliability Engineer](https://jobs.ashbyhq.com/airbyte/5930fed9-c4f6-43c3-87be-3402c2c46489) | Airbyte | San Francisco (hybrid) | 60 | rules: 7+ yrs exp; senior title; priority company; asks for 7+ years … |
 | 6:11 PM | [Site Reliability Engineer, Data Platform](https://jobs.ashbyhq.com/revel/a7801a26-a562-423f-9cc1-6e3f3fa69430) | Revel | North America / Los Angeles / San Franc… (onsite) | 70 | rules: needs: ITAR |
 | 5:50 PM | [AI Platform Engineer](https://jobs.ashbyhq.com/polygon-labs/ec7277f7-4757-4863-967c-eecaee0d0740) | Polygon Labs | EMEA - Remote; USA - Remote (remote) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -1143,7 +1145,6 @@ Jump to: [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (63)](#friday-nov-13-63
 | 7:47 PM | [Cloud Security Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4728481006?gh_jid=4728481006) | Accenture | Chantilly, VA | 35 | rules: 11+ yrs exp; no future H-1B sponsorship; needs: Security clear… |
 | 7:23 PM | [Build Engineer](https://jobs.ashbyhq.com/hadrian-automation/32bc8210-18d8-4f8f-99a8-702dcf59326f) | Hadrian | Los Angeles, CA (onsite) | 35 | rules: 5+ yrs exp; needs: must be a U.S. citizen |
 | 7:20 PM | [DevSecOps Engineer](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8199769003) | Dark Wolf Solutions | Colorado Springs, CO | 65 | rules: needs: security clearance |
-| 7:05 PM | [Test Infrastructure/Integration Engineer](https://jobs.ashbyhq.com/xona-space/47de67f1-f131-425f-9385-9374b84cf938) | Xona Space | Burlingame, California (onsite) | 70 | rules: needs: Security Clearance |
 
 </details>
 
