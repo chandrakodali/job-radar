@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**692 jobs**, newest first. Updated Sun Nov 15, 3:57 AM CST from 10,713 company job boards and other sources.
+**692 jobs**, newest first. Updated Sun Nov 15, 5:16 AM CST from 10,713 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -742,7 +742,7 @@ Jump to: [Sun 15 (6)](#sunday-nov-15-6) · [Sat 14 (144)](#saturday-nov-14-144) 
 | 8:00 PM | [Patient Support Associate](https://jobs.workable.com/view/1QiEY1djgFwruuycQq9WDi/remote-patient-support-associate-in-united-states-at-theranica-usa%2C-inc.) | Theranica USA, Inc. | Remote, US (remote) | 60 | entry-level title |
 | 3:04 PM | [Groundskeeper Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/41230) | RH | Newport Beach, CA, United States | 63 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2785)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2786)
 
 <details><summary>Show</summary>
 
