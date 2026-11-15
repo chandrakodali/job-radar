@@ -10333,17 +10333,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 107,
+   "n": 108,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 107,
+   "n": 108,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 107,
+   "n": 108,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12801,7 +12801,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 38,
+   "n": 39,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12864,9 +12864,14 @@
    "n": 4,
    "since": "2026-11-08"
   },
+  "workday:gartner|wd5|EXT": {
+   "err": "invalid JSON",
+   "n": 1,
+   "since": "2026-11-15"
+  },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 102,
+   "n": 103,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12913,7 +12918,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 73,
+   "n": 74,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -57774,6 +57779,7 @@
   "oracle:hdjq.fa.us2.oraclecloud.com|CX_1:26013709": "2026-11-14",
   "oracle:iawmqy.fa.ocs.oraclecloud.com|careers:292859": "2026-11-12",
   "oracle:iawmqy.fa.ocs.oraclecloud.com|careers:299132": "2026-11-08",
+  "oracle:iawmqy.fa.ocs.oraclecloud.com|careers:300006": "2026-11-15",
   "oracle:iawmqy.fa.ocs.oraclecloud.com|careers:300012": "2026-11-12",
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:147707": "2026-11-10",
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:304217": "2026-11-12",

@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**702 jobs**, newest first. Updated Sun Nov 15, 11:37 AM CST from 10,713 company job boards and other sources.
+**702 jobs**, newest first. Updated Sun Nov 15, 12:07 PM CST from 10,713 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -758,6 +758,7 @@ Jump to: [Sun 15 (3)](#sunday-nov-15-3) · [Sat 14 (325)](#saturday-nov-14-325) 
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:50 AM | [Deployment Engineer - Federal Customer](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300006) | Dell Technologies | VA, United States | 25 | rules: 12+ yrs exp; needs: Active TS/SCI |
 | date only | [Senior Cloud Network Engineer](https://appliedmaterials.eightfold.ai/careers/job/790318496424) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 50 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | date only | [Digital Solutions and Platform Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2022135EXTERNALENGLOBAL) | Cisco | Maynard, Massachusetts, United States o… | 40 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:37 AM (seen) | [Senior GCP Data Engineer](https://app.dover.com/apply/comsparkint/d9ac491b-255d-4804-8118-073561933268) | Comsparkint | Sunnyvale, CA (onsite) | 35 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
@@ -998,7 +999,6 @@ Jump to: [Sun 15 (3)](#sunday-nov-15-3) · [Sat 14 (325)](#saturday-nov-14-325) 
 | 10:06 AM | [Cloud Software Engineer (Full-Stack and AI) - Junior Level](https://jobs.lever.co/redhorsecorp/be90f883-2ec0-460f-8d20-241e4c54951f) | Redhorse | Gainesville, VA (onsite) | 80 | rules: entry-level title; needs: Top Secret clearance |
 | 9:29 AM | [Infrastructure  Administrator, Systems](https://job-boards.greenhouse.io/raft/jobs/6253695004) | Raft | Colorado Springs, Co | 60 | rules: 4+ yrs exp; needs: security clearance |
 | 9:24 AM | [Senior Cloud Infrastructure Engineer (Azure / Terraform)](https://job-boards.greenhouse.io/chaosindustries/jobs/5293433007) | CHAOS Industries | San Francisco, CA | 55 | rules: senior title, years not stated; needs: security clearance |
-| 8:15 AM | [Deployment Engineer - Federal Customer](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300012) | Dell Technologies | VA, United States | 25 | rules: 12+ yrs exp; needs: Active TS/SCI |
 | 6:12 AM | [Associate Systems Administrator](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2244) | Savannah River National Labor… | Aiken, SC, United States | 45 | rules: entry-level title; 8+ yrs exp; likely H-1B cap-exempt (verify)… |
 | 2:00 AM | [Sr. Network Engineer](https://jobs.supermicro.com/job/San-Jose-Sr_-Network-Engineer-Cali/1420359300/) | Super Micro Computer | San Jose, California, United States | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 11:00 PM | [Network Engineer](https://careers-dartmouth-hitchcock.icims.com/jobs/43307/network-engineer/job) | Dartmouth Health | Bennington, VT, United States | 30 | asks for 5+ years of experience; 5+ yrs exp |
