@@ -10314,17 +10314,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 97,
+   "n": 98,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 97,
+   "n": 98,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 97,
+   "n": 98,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12782,12 +12782,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 9,
+   "n": 10,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 28,
+   "n": 29,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12852,7 +12852,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 94,
+   "n": 95,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12899,7 +12899,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 65,
+   "n": 66,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -58215,6 +58215,7 @@
   "sfrmk:careers.quality-ai.com:61494544": "2026-11-12",
   "sfrmk:careers.quality-ai.com:61496744": "2026-11-12",
   "sfrmk:careers.quality-ai.com:61504344": "2026-11-12",
+  "sfrmk:careers.quality-ai.com:61538444": "2026-11-15",
   "sfrmk:careers.safran-dsi.com:1448369700": "2026-11-09",
   "sfrmk:careers.thehersheycompany.com:1438643100": "2026-11-12",
   "sfrmk:careers.westinghousenuclear.com:1360658600": "2026-11-09",
