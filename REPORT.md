@@ -1,14 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**700 jobs**, newest first. Updated Sat Nov 14, 11:07 PM CST from 10,713 company job boards and other sources.
+**701 jobs**, newest first. Updated Sat Nov 14, 11:37 PM CST from 10,713 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 204 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 649 matching jobs that job sites and feeds listed this week, 140 (21%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 687 matching jobs that job sites and feeds listed this week, 162 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (1)](#sunday-nov-15-1) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (80)](#tuesday-nov-10-80) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (37)](#sunday-nov-8-37)
+Jump to: [Sun 15 (1)](#sunday-nov-15-1) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (93)](#thursday-nov-12-93) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (80)](#tuesday-nov-10-80) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (37)](#sunday-nov-8-37)
 
 ## Sunday, Nov 15 (1)
 
@@ -414,7 +414,7 @@ Jump to: [Sun 15 (1)](#sunday-nov-15-1) · [Sat 14 (325)](#saturday-nov-14-325) 
 | 5:02 AM | [Langfuse - Senior Cloud Infra Engineer](https://jobs.ashbyhq.com/clickhouse/39e42a38-1cbf-40c7-b373-717b4cdddbac) | ClickHouse | New York (remote) | 52 | senior title, years not stated |
 | 1:07 AM | [Full-Stack Software Engineer (Infrastructure Focus)](https://jobs.lever.co/jobgether/c12ad43a-3c7b-4d0b-adde-d3509813970d) | Jobgether | US (remote) | 55 |  |
 
-## Thursday, Nov 12 (92)
+## Thursday, Nov 12 (93)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -500,6 +500,7 @@ Jump to: [Sun 15 (1)](#sunday-nov-15-1) · [Sat 14 (325)](#saturday-nov-14-325) 
 | 9:28 AM | [Infrastructure Support Engineer](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41266) | Nokia | United States (onsite) | 70 |  |
 | 9:22 AM | [DevOps Engineer - Hybrid](https://job-boards.greenhouse.io/tenet3/jobs/8939443002) | Tenet3 | Dayton, Ohio | 60 | 3+ yrs exp |
 | 9:15 AM | [Data Platform Engineer](https://jobs.ashbyhq.com/rain/5074d899-f321-4eb2-be3a-f33f849f98a2) | Rain | San Juan, Puerto Rico; New York, NY; Di… (onsite) | 58 | 4+ yrs exp |
+| 8:46 AM | [AIOps Software Engineer - Strategic Data Solutions](https://jobs.apple.com/en-us/details/200693736/aiops-software-engineer-strategic-data-solutions) | Apple | United States of America | 58 |  |
 | 8:43 AM | [Data Observability Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628930) | Sherwin-Williams | Cleveland, OH, United States | 60 | 3+ yrs exp |
 | 4:49 AM | [Founding Infrastructure Engineer](https://jobs.lever.co/jobgether/7f612467-c5a6-46d0-9e01-7bf055856e74) | Jobgether | US (remote) | 55 |  |
 | 4:32 AM | [Genesys Cloud - Operations Engineer](https://jobs.lever.co/jobgether/01f7311c-288a-4580-a8e5-4e1ef8118827) | Jobgether | US (remote) | 50 | 3+ yrs exp |
