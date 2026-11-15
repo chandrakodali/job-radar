@@ -10314,17 +10314,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 92,
+   "n": 93,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 92,
+   "n": 93,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 92,
+   "n": 93,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -10734,16 +10734,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-09"
-  },
-  "icims:careers-cotiviti.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-15"
-  },
-  "icims:careers-eyesouthpartners.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-15"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-16",
@@ -12792,12 +12782,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 23,
+   "n": 24,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -13162,8 +13152,8 @@
    356
   ],
   "2026-11-15": [
-   73,
-   146
+   74,
+   150
   ]
  },
  "resolved": {
@@ -59350,10 +59340,10 @@
  },
  "source_last": {
   "hn": "2026-11-15T08:37:13+00:00",
-  "remoteok": "2026-11-15T08:37:13+00:00",
+  "remoteok": "2026-11-15T10:37:15+00:00",
   "usajobs": "2026-11-15T08:37:13+00:00",
   "workable_search": "2026-11-15T08:37:13+00:00",
-  "wwr": "2026-11-15T09:37:14+00:00",
+  "wwr": "2026-11-15T10:37:15+00:00",
   "yc": "2026-11-15T08:37:13+00:00"
  },
  "title_rules": "c323075b4d70",
