@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**701 jobs**, newest first. Updated Sun Nov 15, 5:07 AM CST from 10,713 company job boards and other sources.
+**701 jobs**, newest first. Updated Sun Nov 15, 5:37 AM CST from 10,713 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 204 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 743 matching jobs that job sites and feeds listed this week, 188 (25%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 781 matching jobs that job sites and feeds listed this week, 210 (26%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sun 15 (1)](#sunday-nov-15-1) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (93)](#thursday-nov-12-93) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (80)](#tuesday-nov-10-80) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (37)](#sunday-nov-8-37)
 
@@ -751,12 +751,13 @@ Jump to: [Sun 15 (1)](#sunday-nov-15-1) · [Sat 14 (325)](#saturday-nov-14-325) 
 | 1:06 PM | [Security Engineer (Research Infrastructure)](https://jobs.ashbyhq.com/resolution/d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b) | Resolution | Berkeley, California; Remote (hybrid) | 58 |  |
 | date only | [Senior Cloud Security Engineer](https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-Cloud-Security-Engineer_R03389) | Altera | San Jose, California, United States | 43 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (737)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (738)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Senior Cloud Network Engineer](https://appliedmaterials.eightfold.ai/careers/job/790318496424) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 50 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 10:37 PM (seen) | [ITOPS Engineer – Logistics & Shipping](https://crackajackdigitalsolutionsllc.applytojob.com/apply/jIVIswjKI1/ITOPS-Engineer-Logistics-Shipping) | CrackaJack Digital Solutions … | Houston, TX | 15 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 3:07 PM (seen) | [Senior Network Engineer II](https://app.careerpuck.com/job-board/blinkhealth/job/r1X8_8Qp) | Blinkhealth | New York, NY; Pittsburgh, PA | 10 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 3:07 PM (seen) | [DevOps Release Engineer](https://app.careerpuck.com/job-board/avalara/job/hP0fejut) | Avalara | Remote, United States (remote) | 27 | rules: 8+ yrs exp; asks for 8+ years of experience |
@@ -1156,7 +1157,6 @@ Jump to: [Sun 15 (1)](#sunday-nov-15-1) · [Sat 14 (325)](#saturday-nov-14-325) 
 | 12:51 AM | [Infrastructure Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4488058009) | Mach Industries | Huntington Beach, California, United St… | 60 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; needs: ITAR |
 | 12:46 AM | [AI Platform Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4488055009) | Mach Industries | Huntington Beach, California, United St… | 60 | rules: 4+ yrs exp; E-Verify; no future H-1B sponsorship; needs: ITAR |
 | 12:41 AM | [Senior Infrastructure Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4488051009) | Mach Industries | Huntington Beach, California, United St… | 38 | rules: 6+ yrs exp; senior title; E-Verify; no future H-1B sponsorship… |
-| 12:29 AM | [Cyber Systems Administrator/Control Systems Cybersecurity - DLA](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4654017) | NEMEAN SOLUTIONS LLC | Columbus, OH, United States | 38 | rules: needs: security clearance |
 
 </details>
 

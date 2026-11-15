@@ -10314,17 +10314,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 94,
+   "n": 95,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 94,
+   "n": 95,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 94,
+   "n": 95,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12782,12 +12782,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 25,
+   "n": 26,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12852,7 +12852,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 91,
+   "n": 92,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12899,7 +12899,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 62,
+   "n": 63,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -13152,8 +13152,8 @@
    356
   ],
   "2026-11-15": [
-   74,
-   150
+   96,
+   188
   ]
  },
  "resolved": {
@@ -56328,6 +56328,7 @@
   "dayforce:ultimus|CANDIDATEPORTAL:6782": "2026-11-14",
   "dover:c-gen-ai:2ddc9bab-82c0-4554-bc2e-7b023e3bc5d9": "2026-11-14",
   "dover:weaverobotics:5b7bf24e-a8dc-40a3-86a7-5ff4e929b49c": "2026-11-11",
+  "eightfold:appliedmaterials:790318496424": "2026-11-15",
   "eightfold:dsm:562949978859630": "2026-11-14",
   "eightfold:eaton|eaton.com:687239541052": "2026-11-09",
   "eightfold:ford:563568454116722": "2026-11-14",
@@ -59341,10 +59342,10 @@
  "source_last": {
   "hn": "2026-11-15T08:37:13+00:00",
   "remoteok": "2026-11-15T10:37:15+00:00",
-  "usajobs": "2026-11-15T08:37:13+00:00",
-  "workable_search": "2026-11-15T08:37:13+00:00",
-  "wwr": "2026-11-15T10:37:15+00:00",
-  "yc": "2026-11-15T08:37:13+00:00"
+  "usajobs": "2026-11-15T11:37:16+00:00",
+  "workable_search": "2026-11-15T11:37:16+00:00",
+  "wwr": "2026-11-15T11:37:16+00:00",
+  "yc": "2026-11-15T11:37:16+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
