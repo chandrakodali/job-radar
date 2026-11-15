@@ -9610,11 +9610,6 @@
  "bootstrapped": true,
  "closed": {},
  "fails": {
-  "apple:usa": {
-   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
-   "n": 1,
-   "since": "2026-11-15"
-  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -9862,8 +9857,9 @@
    "since": "2026-11-14"
   },
   "ashby:sharedcontextlab": {
+   "disabled_until": "2026-11-22",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-15"
   },
   "ashby:tavily": {
@@ -9940,17 +9936,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 13,
+   "n": 14,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 13,
+   "n": 14,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 13,
+   "n": 14,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -10891,12 +10887,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 11,
+   "n": 12,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -10961,7 +10957,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 10,
+   "n": 11,
    "since": "2026-11-14"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11008,7 +11004,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 10,
+   "n": 11,
    "since": "2026-11-14"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -58155,6 +58151,7 @@
   "workday:veteransunited|wd1|VUHL:R6006": "2026-11-14",
   "workday:veteransunited|wd1|VUHL:R6283": "2026-11-14",
   "workday:visa|wd5|Visa:REF080663W": "2026-11-14",
+  "workday:visa|wd5|Visa:REF082600W": "2026-11-15",
   "workday:visa|wd5|Visa:REF088460W": "2026-11-14",
   "workday:visa|wd5|Visa:REF088549W": "2026-11-14",
   "workday:visa|wd5|Visa:REF089580W": "2026-11-14",
