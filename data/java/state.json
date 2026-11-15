@@ -9611,11 +9611,6 @@
  "bootstrapped": true,
  "closed": {},
  "fails": {
-  "apple:usa": {
-   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
-   "n": 1,
-   "since": "2026-11-15"
-  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -9942,17 +9937,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 20,
+   "n": 21,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 20,
+   "n": 21,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 20,
+   "n": 21,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -10891,14 +10886,9 @@
    "n": 3,
    "since": "2026-11-14"
   },
-  "workday:bacardi|wd3|Jobs_Bacardi": {
-   "err": "HTTP 401",
-   "n": 8,
-   "since": "2026-11-15"
-  },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 18,
+   "n": 19,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -10963,7 +10953,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 16,
+   "n": 17,
    "since": "2026-11-14"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11010,7 +11000,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 16,
+   "n": 17,
    "since": "2026-11-14"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -11169,6 +11159,11 @@
    "n": 3,
    "since": "2026-11-14"
   },
+  "workday:vfc|wd5|vfc_careers": {
+   "err": "HTTP 400",
+   "n": 1,
+   "since": "2026-11-15"
+  },
   "workday:vhr-epri|wd1|epricareers": {
    "disabled_until": "2026-11-22",
    "err": "HTTP 422",
@@ -11247,7 +11242,7 @@
   ],
   "2026-11-15": [
    85,
-   307
+   310
   ]
  },
  "resolved": {
@@ -58279,7 +58274,7 @@
   "remoteok": "2026-11-15T15:20:55+00:00",
   "usajobs": "2026-11-15T14:20:26+00:00",
   "workable_search": "2026-11-15T14:20:26+00:00",
-  "wwr": "2026-11-15T15:20:55+00:00",
+  "wwr": "2026-11-15T16:19:22+00:00",
   "yc": "2026-11-15T14:20:26+00:00"
  },
  "title_rules": "72f554d20a7f",
