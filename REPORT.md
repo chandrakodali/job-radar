@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**729 jobs**, newest first. Updated Sun Nov 15, 4:37 PM CST from 12,526 company job boards and other sources.
+**729 jobs**, newest first. Updated Sun Nov 15, 5:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -779,12 +779,13 @@ Jump to: [Sun 15 (12)](#sunday-nov-15-12) · [Sat 14 (325)](#saturday-nov-14-325
 | 6:52 PM (seen) | [ML/AI Data and Cloud Engineer](https://jobs.jobvite.com/tylertech/job/oBQjAfw4) | Tyler Technologies | 2 Locations | 40 | 3+ yrs exp; location unclear |
 | 6:52 PM (seen) | [IT Systems Administrator](https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26142784&lang=en) | State of Montana | Helena | 35 | location unclear; E-Verify |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (786)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (787)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:07 PM (seen) | [Linux Systems Administrator DOD Secret IAT Level III](https://vertucom.catsone.com/careers/65909-Associates-Systems-LLC/jobs/16717697-Linux-Systems-Administrator-DOD-Secret--IAT-Level-III/) | Vertucom |  | 15 | rules: 7+ yrs exp; senior title; needs: security clearance |
 | 1:07 PM (seen) | [Senior Cloud Engineer II](https://jobs.jobvite.com/actionet-review/job/oNWPAfwS) | Actionet Review |  | 25 | rules: 8+ yrs exp; senior title; needs: U.S. Citizenship is required |
 | 1:07 PM (seen) | [System Administrator / Req#4319](https://jobs.jobvite.com/actionet-review/job/o8xLzfwJ) | Actionet Review | Guam, Guam | 10 | rules: 12+ yrs exp; location unclear; needs: Secret Clearance |
 | 1:07 PM (seen) | [Sr. Network Engineer / Req#4694](https://jobs.jobvite.com/actionet-review/job/owtIAfw1) | Actionet Review | Honolulu, Hawaii | 25 | rules: senior title, years not stated; needs: TS/SCI clearance |
@@ -797,6 +798,7 @@ Jump to: [Sun 15 (12)](#sunday-nov-15-12) · [Sat 14 (325)](#saturday-nov-14-325
 | 1:07 PM (seen) | [Full Stack Cloud Developer / Req#4695](https://jobs.jobvite.com/actionet-review/job/oRvIAfwo) | Actionet Review | Suitland, Maryland | 30 | rules: 7+ yrs exp; needs: public trust clearance |
 | 1:07 PM (seen) | [Network Operations Engineer Tier 3 SR / Req#4604](https://jobs.jobvite.com/actionet-review/job/o2q9AfwV) | Actionet Review | Vienna, Virginia | 15 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 11:50 AM | [Deployment Engineer - Federal Customer](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300006) | Dell Technologies | VA, United States | 25 | rules: 12+ yrs exp; needs: Active TS/SCI |
+| date only | [Senior Compute Platform Engineer, LSF - EDA Infrastructure](https://nvidia.eightfold.ai/careers/job/893397231867) | Nvidia | CA,US; Austin, TX, US; US +1 more (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Cloud Network Engineer](https://appliedmaterials.eightfold.ai/careers/job/790318496424) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 50 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | date only | [Digital Solutions and Platform Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2022135EXTERNALENGLOBAL) | Cisco | Maynard, Massachusetts, United States o… | 40 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Cloud Security Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Cloud-Security-Engineer/369679) | Deloitte US |  | 30 | rules: 5+ yrs exp; location unclear; no future H-1B sponsorship; asks… |
@@ -1183,8 +1185,6 @@ Jump to: [Sun 15 (12)](#sunday-nov-15-12) · [Sat 14 (325)](#saturday-nov-14-325
 | date only | [Senior DevOps Engineer](https://freddiemac.wd5.myworkdayjobs.com/External/job/Dallas-TX/Senior-Data-Engineer_JR17721) | Freddie Mac | Dallas, TX | 38 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Machine Learning Platform Engineer](https://wd5.myworkdaysite.com/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Senior-AI-ML-Platform-Engineer_JR_14836) | Guidewire | United States - San Mateo, CA (hybrid) | 43 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | date only | [Senior Windows System Engineer](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Senior-Windows-System-Engineer_3168557-1) | Hewlett Packard (HP) | Spring, Texas, United States of America… | 18 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
-| date only | [Senior Cloud Developer](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Senior-Cloud-Developer_1217196-2) | Hewlett Packard Enterprise | Ft. Collins, Colorado, United States of… | 33 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
-| date only | [LTG - Sr Network Engineer](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/LTG---Sr-Network-Engineer_R26_0000004808) | Lennar Corporation | Miami, FL (Job Posting Location) | 23 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 
 </details>
 

@@ -11929,17 +11929,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 117,
+   "n": 118,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 117,
+   "n": 118,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 117,
+   "n": 118,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -66323,6 +66323,7 @@
   "catsone:vertucom:16717689": "2026-11-14",
   "catsone:vertucom:16717693": "2026-11-14",
   "catsone:vertucom:16717695": "2026-11-14",
+  "catsone:vertucom:16717697": "2026-11-15",
   "catsone:vertucom:16717700": "2026-11-14",
   "catsone:vertucom:16731087": "2026-11-14",
   "catsone:vertucom:16775689": "2026-11-14",
@@ -66383,6 +66384,7 @@
   "eightfold:nvidia:893395121939": "2026-11-15",
   "eightfold:nvidia:893396402568": "2026-11-15",
   "eightfold:nvidia:893396422329": "2026-11-15",
+  "eightfold:nvidia:893397231867": "2026-11-15",
   "eightfold:nvidia:893397232031": "2026-11-14",
   "eightfold:nvidia:893397486935": "2026-11-14",
   "eightfold:nvidia:893397487444": "2026-11-15",
