@@ -6808,6 +6808,7 @@
   "paylocity:0a25e82f-b947-4f8e-ba92-cd428be483f8": "2026-11-14",
   "paylocity:0a5e3ff1-7892-4cad-8ae3-5be8d4fb306a": "2026-11-14",
   "paylocity:0a72dcd6-2616-4d0e-9946-d3a182c43706": "2026-11-14",
+  "paylocity:0a7d4d9a-bc92-4826-8481-a7946feb088e": "2026-11-15",
   "paylocity:0a905d5c-8e08-4ccd-a89d-45d8f8bb18b0": "2026-11-14",
   "paylocity:0ae74d27-4bee-496d-876c-85c8734845c9": "2026-11-14",
   "paylocity:0b0e65d8-0e53-499c-b510-583fa42f82ed": "2026-11-14",
@@ -9965,11 +9966,131 @@
    "n": 4,
    "since": "2026-11-07"
   },
+  "avature:astellasjapan.avature.net|careers": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:baufest.avature.net|jobs": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:bloomberg.avature.net|careers": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:bloomberg.avature.net|internalcareers": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:bradyplus.avature.net|careersmarketplace": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:broadinstitute.avature.net|careers": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:broadinstitute.avature.net|internalCareers": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:bupaanz.avature.net|careersau": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:bupaanz.avature.net|careersnz": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:cicor.avature.net|careers": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:cicor.avature.net|careersmarketplace": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:cyclecarriage.avature.net|careers": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:deloittecm.avature.net|careers": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:nva.avature.net|careers": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:nva.avature.net|jobs": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:platinion.avature.net|CareersDe": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:platinion.avature.net|CareersDeEn": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:primero.avature.net|careers": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:qatarairways.avature.net|internalmobility": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:sandboxcredicorpats.avature.net|careersmarketplace": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
   "avature:skanska.avature.net|careers": {
    "disabled_until": "2026-11-16",
    "err": "robots.txt disallows /careers/sitemap_index.xml",
    "n": 3,
    "since": "2026-11-09"
+  },
+  "avature:tennet.avature.net|tobedeleted1": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:tescoinsuranceandmoneyservices.avature.net|careers": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:tmf.avature.net|careersmarketplace": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:totalenergies.avature.net|careers": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
   },
   "avature:travisperkins.avature.net|careers": {
    "disabled_until": "2026-11-16",
@@ -9977,19 +10098,44 @@
    "n": 3,
    "since": "2026-11-09"
   },
+  "avature:uatashfieldhealthcare.avature.net|careers": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:uclahealth.avature.net|careers": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:unifi.avature.net|careers": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:unifi.avature.net|ukcareersmarketplace": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "avature:vanoord.avature.net|careersmarketplace": {
+   "err": "HTTP 406",
+   "n": 1,
+   "since": "2026-11-15"
+  },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 74,
+   "n": 75,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 74,
+   "n": 75,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 74,
+   "n": 75,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12441,7 +12587,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 5,
+   "n": 6,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12506,7 +12652,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 74,
+   "n": 75,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12806,8 +12952,8 @@
    356
   ],
   "2026-11-15": [
-   1,
-   4
+   2,
+   8
   ]
  },
  "resolved": {
@@ -55992,6 +56138,8 @@
   "eightfold:nvidia:893394115789": "2026-11-14",
   "eightfold:nvidia:893394241567": "2026-11-14",
   "eightfold:nvidia:893395121939": "2026-11-15",
+  "eightfold:nvidia:893396402568": "2026-11-15",
+  "eightfold:nvidia:893396422329": "2026-11-15",
   "eightfold:nvidia:893397232031": "2026-11-14",
   "eightfold:nvidia:893397486935": "2026-11-14",
   "eightfold:nvidia:893397528298": "2026-11-14",
@@ -58948,7 +59096,7 @@
   "remoteok": "2026-11-15T00:37:16+00:00",
   "usajobs": "2026-11-14T23:37:14+00:00",
   "workable_search": "2026-11-14T23:37:14+00:00",
-  "wwr": "2026-11-15T00:37:16+00:00",
+  "wwr": "2026-11-15T01:37:20+00:00",
   "yc": "2026-11-14T23:37:14+00:00"
  },
  "title_rules": "15160d40994f",

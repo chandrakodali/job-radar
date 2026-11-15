@@ -1,16 +1,16 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**690 jobs**, newest first. Updated Sat Nov 14, 7:07 PM CST from 10,713 company job boards and other sources.
+**692 jobs**, newest first. Updated Sat Nov 14, 7:37 PM CST from 10,713 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 193 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 597 matching jobs that job sites and feeds listed this week, 115 (19%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 601 matching jobs that job sites and feeds listed this week, 116 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sat 14 (319)](#saturday-nov-14-319) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (90)](#thursday-nov-12-90) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (79)](#tuesday-nov-10-79) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (37)](#sunday-nov-8-37)
+Jump to: [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (90)](#thursday-nov-12-90) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (79)](#tuesday-nov-10-79) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (37)](#sunday-nov-8-37)
 
-## Saturday, Nov 14 (319)
+## Saturday, Nov 14 (321)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -332,6 +332,8 @@ Jump to: [Sat 14 (319)](#saturday-nov-14-319) · [Fri 13 (63)](#friday-nov-13-63
 | 11:09 AM | [Founding Engineer, Infrastructure](https://jobs.ashbyhq.com/Clera/bf0c74e8-63ef-4b00-8319-5dc1d61ba083) | Clera | San Francisco (onsite) | 75 | sponsors visas; repost |
 | date only | [Machine Learning Infrastructure Engineer](https://apply.workable.com/raydar/j/A0FB08A1A8/) | Raydar | San Francisco, California, United States | 65 | repost |
 | date only | [Senior Cloud Infrastructure Engineer](https://apply.workable.com/raydar/j/6D4A3A5075/) | Raydar | United States (remote) | 52 | senior title, years not stated |
+| date only | [Senior Network Security Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893396402568) | Nvidia | Santa Clara, CA, US; US (remote) | 40 | senior title, years not stated |
+| date only | [Senior Production Engineer, Object Store - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893396422329) | Nvidia | Santa Clara, CA, US; US (remote) | 40 | senior title, years not stated |
 | 7:47 AM | [Systems Software Developer, CAD Infrastructure](https://jobs.apple.com/en-us/details/200694942/systems-software-developer-cad-infrastructure) | Apple | United States of America | 65 |  |
 
 ## Friday, Nov 13 (63)
