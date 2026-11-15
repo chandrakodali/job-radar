@@ -6767,6 +6767,7 @@
   "paylocity:08628d28-fa0d-4893-b85a-43b78653901b": "2026-11-14",
   "paylocity:086af4d0-3dbe-4019-87ba-444c7e2661ac": "2026-11-14",
   "paylocity:08741992-5802-4419-a6eb-fbb58d6ac948": "2026-11-14",
+  "paylocity:087d8277-967a-4bb5-8fe3-3dc85caedf66": "2026-11-15",
   "paylocity:08c3bc4f-8161-4d98-b8f9-9289db30f8a1": "2026-11-14",
   "paylocity:08eac160-0a1e-4180-8eb0-8381757e63b5": "2026-11-15",
   "paylocity:091968f2-bfa6-405c-9111-bc12c6ab6d3a": "2026-11-15",
@@ -6779,6 +6780,7 @@
   "paylocity:0ae74d27-4bee-496d-876c-85c8734845c9": "2026-11-15",
   "paylocity:0b0e65d8-0e53-499c-b510-583fa42f82ed": "2026-11-14",
   "paylocity:0b639416-fcca-4152-8802-c07fe7dab59b": "2026-11-15",
+  "paylocity:0b6cc596-ce53-4e9d-9b26-b235ed9830c6": "2026-11-15",
   "paylocity:1078af34-40eb-4989-83a3-3a2138324f69": "2026-11-14",
   "paylocity:10c8ea62-0f5a-43ec-9ac1-4863af798914": "2026-11-14",
   "paylocity:10d74e65-36ac-49d3-bd03-22487604cb5e": "2026-11-14",
@@ -6815,6 +6817,7 @@
   "paylocity:16cc662c-21d1-4ff2-b5fd-a9de53f5b71a": "2026-11-14",
   "paylocity:1727f1da-4aa6-43f9-aa64-4e2a909a537d": "2026-11-15",
   "paylocity:174aac10-2bd9-46d5-8e65-6c908166d57a": "2026-11-15",
+  "paylocity:17713721-eeb1-49c8-a8fe-8a7ec37f0088": "2026-11-15",
   "paylocity:180866a7-157b-4668-9e4e-986aeaf7cd51": "2026-11-15",
   "paylocity:18300151-3b4d-4044-912d-501cebb26321": "2026-11-15",
   "paylocity:18f41eec-1ff4-4233-9762-c1ee64cafa3b": "2026-11-15",
@@ -6825,6 +6828,7 @@
   "paylocity:1a76b2be-1ba0-447b-9883-3b17ff92c2d7": "2026-11-15",
   "paylocity:1c3b5350-7443-4970-8ba6-ea980243eb17": "2026-11-15",
   "paylocity:1c5570ce-162e-4f5c-980b-2b0ab44d0a7c": "2026-11-15",
+  "paylocity:1ca6e21b-05e4-4ea7-96a8-e7c653b166e0": "2026-11-15",
   "paylocity:1cff5ce9-dab2-438c-be4a-bb02f4e9b2cb": "2026-11-15",
   "paylocity:1d806205-e411-49a1-be73-702909af61eb": "2026-11-15",
   "paylocity:1dad124e-9b25-49bd-b0b4-30bb6e1b1931": "2026-11-15",
@@ -6842,6 +6846,17 @@
   "paylocity:20d81393-dec0-47cb-8c95-d959dc946c11": "2026-11-15",
   "paylocity:20e02e5e-d00f-4182-a3a1-8c8a2ea68208": "2026-11-15",
   "paylocity:20edfbd6-2afa-4ae8-b72d-a3c33859b62c": "2026-11-15",
+  "paylocity:22085c9a-af87-41a8-9daa-331dbbf3e809": "2026-11-15",
+  "paylocity:22857e96-d8ad-440b-adfe-d254d80c8b71": "2026-11-15",
+  "paylocity:22986638-0364-4c8e-8789-ec4e983854d6": "2026-11-15",
+  "paylocity:229b24a5-150d-4425-ba84-824f84a93e6a": "2026-11-15",
+  "paylocity:22b675be-f765-4d77-82ee-f6d8bc74ecab": "2026-11-15",
+  "paylocity:2313e751-d99d-49c6-8156-28200d4eb7e6": "2026-11-15",
+  "paylocity:2334fdfb-67ac-4ecb-99f3-c1b81372370e": "2026-11-15",
+  "paylocity:2356f726-5eed-45e0-aa58-ab75e8a2045b": "2026-11-15",
+  "paylocity:235fe811-e309-4cf4-8059-918b1bb45387": "2026-11-15",
+  "paylocity:236328a4-2f3f-4a97-a204-7105075de961": "2026-11-15",
+  "paylocity:239d220e-9df1-4dcf-a60a-ad861866bd26": "2026-11-15",
   "personio:1komma5grad.jobs.personio.de": "2026-11-14",
   "personio:360t.jobs.personio.de": "2026-11-14",
   "personio:420pharma.jobs.personio.de": "2026-11-14",
@@ -9919,17 +9934,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 31,
+   "n": 32,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 31,
+   "n": 32,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 31,
+   "n": 32,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -11302,7 +11317,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11367,7 +11382,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 29,
+   "n": 30,
    "since": "2026-11-13"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11414,7 +11429,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 26,
+   "n": 27,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -11616,40 +11631,40 @@
   "AG Consulting Partners, Inc.": "2026-11-15",
   "American Consumer Credit Counseling": "2026-11-14",
   "Bask Health": "2026-11-15",
-  "Bountiful": "2026-11-14",
+  "Bountiful": "2026-11-15",
   "Briljent": "2026-11-15",
-  "Candid Health": "2026-11-14",
+  "Candid Health": "2026-11-15",
   "Centric Fiber Op Co, LLC": "2026-11-14",
-  "Coris": "2026-11-14",
+  "Coris": "2026-11-15",
   "D-ploy": "2026-11-15",
   "DLN Consulting Group": "2026-11-15",
   "Dean Dorton": "2026-11-15",
   "Delaware Nation Industries": "2026-11-15",
   "Diversified Services Network, Inc.": "2026-11-13",
   "Geeks on Site": "2026-11-15",
-  "GoGoGrandparent": "2026-11-14",
+  "GoGoGrandparent": "2026-11-15",
   "Impact Life": "2026-11-15",
   "J-Mack Technologies": "2026-11-15",
   "Jiffy": "2026-11-15",
-  "Julius": "2026-11-14",
-  "Karat Financial": "2026-11-14",
+  "Julius": "2026-11-15",
+  "Karat Financial": "2026-11-15",
   "Kraft & Kennedy": "2026-11-15",
   "Manac Trailers USA Inc": "2026-11-15",
-  "Medplum": "2026-11-14",
-  "Method Financial": "2026-11-14",
+  "Medplum": "2026-11-15",
+  "Method Financial": "2026-11-15",
   "Multi Media LLC": "2026-11-15",
   "Neal R Gross & Co": "2026-11-15",
   "Neuberger Berman": "2026-11-14",
-  "Numeral": "2026-11-14",
+  "Numeral": "2026-11-15",
   "OpenDataJobs": "2026-11-14",
   "Partner One Software Inc": "2026-11-15",
-  "Per Diem": "2026-11-14",
-  "Polymath Robotics": "2026-11-14",
+  "Per Diem": "2026-11-15",
+  "Polymath Robotics": "2026-11-15",
   "Prime Robotics": "2026-11-15",
   "Rockford": "2026-11-15",
   "Sand Cherry Associates": "2026-11-15",
   "Senseye": "2026-11-15",
-  "SiPhox Health": "2026-11-14",
+  "SiPhox Health": "2026-11-15",
   "TRE Industries dba ProHealth": "2026-11-15",
   "The Trustees of Reservations": "2026-11-15",
   "Theranica USA, Inc.": "2026-11-15",
@@ -11657,7 +11672,7 @@
   "University of Mount Saint Vincent": "2026-11-15",
   "V4C.ai": "2026-11-15",
   "XMSTART": "2026-11-15",
-  "erad": "2026-11-14"
+  "erad": "2026-11-15"
  },
  "missing_once": {},
  "recall": {
@@ -11670,8 +11685,8 @@
    577
   ],
   "2026-11-15": [
-   17,
-   79
+   37,
+   173
   ]
  },
  "resolved": {
@@ -61404,6 +61419,7 @@
   "lever:jobgether:83673846-fb86-4b15-95a5-32e97b88a6cc": "2026-11-14",
   "lever:jobgether:8798b19b-45c5-449b-ac7a-d173892ccfa2": "2026-11-14",
   "lever:jobgether:8ade2af9-9c81-4235-a22f-10613a438d8f": "2026-11-14",
+  "lever:jobgether:8e4f6c21-6df6-4fa6-ac1e-e1e3341bdbd5": "2026-11-15",
   "lever:jobgether:8ff47a5b-ca95-4fa8-a528-4b8bb0f84240": "2026-11-14",
   "lever:jobgether:93366ec2-7f96-4383-9349-a115981a59b7": "2026-11-14",
   "lever:jobgether:93becab2-354f-4708-9250-ad696b98bb70": "2026-11-14",
@@ -61793,6 +61809,7 @@
   "oracle:hccz.fa.em3.oraclecloud.com|CX_2:26637": "2026-11-13",
   "oracle:hccz.fa.em3.oraclecloud.com|CX_2:26678": "2026-11-13",
   "oracle:hccz.fa.em3.oraclecloud.com|CX_2:26682": "2026-11-13",
+  "oracle:hccz.fa.em3.oraclecloud.com|CX_2:26684": "2026-11-15",
   "oracle:hccz.fa.em3.oraclecloud.com|CX_2:26685": "2026-11-13",
   "oracle:hccz.fa.em3.oraclecloud.com|CX_2:26697": "2026-11-13",
   "oracle:hcfa.fa.us2.oraclecloud.com|AmnealCareers:9521": "2026-11-14",
@@ -61885,6 +61902,7 @@
   "paylocity:1727f1da-4aa6-43f9-aa64-4e2a909a537d:4452773": "2026-11-15",
   "paylocity:1727f1da-4aa6-43f9-aa64-4e2a909a537d:4452779": "2026-11-15",
   "paylocity:1727f1da-4aa6-43f9-aa64-4e2a909a537d:4452805": "2026-11-15",
+  "paylocity:17713721-eeb1-49c8-a8fe-8a7ec37f0088:4661645": "2026-11-15",
   "paylocity:1a0be996-c080-4348-9253-eaa72a660ff1:4234139": "2026-11-15",
   "paylocity:1a0be996-c080-4348-9253-eaa72a660ff1:4234148": "2026-11-15",
   "paylocity:1e7cdaa1-4aaf-417f-be26-c3800bce510b:4559639": "2026-11-15",
@@ -67892,6 +67910,7 @@
   "zoho:agileengine:248544000264801459": "2026-11-14",
   "zoho:agileengine:248544000264801465": "2026-11-14",
   "zoho:agileengine:248544000264801473": "2026-11-14",
+  "zoho:agileengine:248544000264804303": "2026-11-15",
   "zoho:agileengine:248544000264804321": "2026-11-14",
   "zoho:agileengine:248544000264806171": "2026-11-14",
   "zoho:agileengine:248544000264808379": "2026-11-14",
@@ -67988,8 +68007,8 @@
   "zoho:virtualcolleague:805869000004420928": "2026-11-14"
  },
  "source_last": {
-  "workable_search": "2026-11-15T00:18:03+00:00",
-  "yc": "2026-11-14T23:20:13+00:00"
+  "workable_search": "2026-11-15T03:19:43+00:00",
+  "yc": "2026-11-15T03:19:43+00:00"
  },
  "title_rules": "6b5ea35ba28d",
  "version": 1

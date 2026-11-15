@@ -1,19 +1,20 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**689 jobs**, newest first. Updated Sat Nov 14, 8:11 PM CST from 10,713 company job boards and other sources.
+**689 jobs**, newest first. Updated Sat Nov 14, 9:19 PM CST from 10,713 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-206 repeat listings (same company and title in another place or on another source) are merged into one row.
+207 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 810 matching jobs that job sites and feeds listed this week, 144 (17%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 904 matching jobs that job sites and feeds listed this week, 164 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (111)](#wednesday-nov-11-111) · [Tue 10 (88)](#tuesday-nov-10-88) · [Mon 9 (80)](#monday-nov-9-80) · [Sun 8 (9)](#sunday-nov-8-9) · [Sat 7 (1)](#saturday-nov-7-1)
+Jump to: [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (147)](#friday-nov-13-147) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (111)](#wednesday-nov-11-111) · [Tue 10 (88)](#tuesday-nov-10-88) · [Mon 9 (80)](#monday-nov-9-80) · [Sun 8 (9)](#sunday-nov-8-9) · [Sat 7 (1)](#saturday-nov-7-1)
 
-## Saturday, Nov 14 (142)
+## Saturday, Nov 14 (143)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 8:59 PM | [Test Center Administrator (Chattanooga, TN)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26684) | Pearson | Chattanooga, TN, United States +4 more (onsite) | 80 | 1+ yrs exp |
 | 6:18 PM (seen) | [Associate Robotic Process Automation Developer](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Associate-Robotic-Process-Automation-Developer/5551) | Total Quality Logistics |  | 55 | entry-level title; location unclear |
 | 6:18 PM (seen) | [Data Analyst I](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Data-Analyst-I/5506) | Total Quality Logistics |  | 55 | entry-level title; location unclear |
 | 6:18 PM (seen) | [Logistics Support Associate I](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Logistics-Support-Associate-I/5525) | Total Quality Logistics |  | 55 | entry-level title; location unclear |
@@ -157,7 +158,7 @@ Jump to: [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (148)](#friday-nov-13-1
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Trumbull](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825085) | Macy's | Trumbull, CT, United States | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Serramonte](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825080) | Macy's | Daly City, CA, United States | 75 | entry-level title |
 
-## Friday, Nov 13 (148)
+## Friday, Nov 13 (147)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -215,7 +216,6 @@ Jump to: [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (148)](#friday-nov-13-1
 | 1:17 PM | [Fraud Support Analyst](https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27220) | Conduent | Remote US, United States (remote) | 72 | entry level (from the text) |
 | 12:34 PM | [* Seasonal Fulfillment and Receiving Support Associate, Augusta Mall](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_823465) | Macy's | Augusta, GA, United States | 75 | entry-level title |
 | 12:30 PM | [IT Engineer,Software,Entry](https://jobs.keysight.com/jobs/56558?lang=en-us) | Keysight Technologies | Colorado Springs, Colorado | 85 | entry-level title; 0-2 yrs exp |
-| 12:01 PM | [Test Center Administrator (Kenosha, WI)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26697) | Pearson | Kenosha, WI, United States +3 more (onsite) | 80 | 1+ yrs exp |
 | 11:37 AM | [Support Engineer 1](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346395) | Oracle | United States | 75 | entry-level title |
 | 11:37 AM | [Support Engineer 1](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/346395) | Eeho Fa Us2 Oraclecloud Com | United States | 68 | entry-level title |
 | 11:27 AM | [Advanced Associate, Content Quality Assurance - Hourly](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26590) | Pearson | United States (remote) | 72 | entry-level title |
@@ -739,7 +739,7 @@ Jump to: [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (148)](#friday-nov-13-1
 |---|---|---|---|---:|---|
 | 10:57 PM | [Support Engineer, PAYGO](https://jobs.ashbyhq.com/exa/f4dd7ae8-cf72-4634-b708-742601b9061c) | Exa | Remote (remote) | 60 | entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2758)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2759)
 
 <details><summary>Show</summary>
 
