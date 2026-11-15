@@ -2796,6 +2796,7 @@
   "dover:beehive": "2026-11-14",
   "dover:belfry": "2026-11-14",
   "dover:belva-ai": "2026-11-14",
+  "dover:betriax": "2026-11-15",
   "dover:brinc-drones": "2026-11-15",
   "dover:castle": "2026-11-13",
   "dover:chasi": "2026-11-13",
@@ -9867,8 +9868,9 @@
    "since": "2026-11-13"
   },
   "ashby:sharedcontextlab": {
+   "disabled_until": "2026-11-22",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-15"
   },
   "ashby:tavily": {
@@ -9945,17 +9947,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 37,
+   "n": 38,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 37,
+   "n": 38,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 37,
+   "n": 38,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -11332,9 +11334,14 @@
    "n": 3,
    "since": "2026-11-13"
   },
+  "workday:bacardi|wd3|Jobs_Bacardi": {
+   "err": "HTTP 401",
+   "n": 1,
+   "since": "2026-11-15"
+  },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 10,
+   "n": 11,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11399,7 +11406,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 33,
+   "n": 34,
    "since": "2026-11-13"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11446,7 +11453,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 30,
+   "n": 31,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -11702,8 +11709,8 @@
    577
   ],
   "2026-11-15": [
-   56,
-   274
+   77,
+   374
   ]
  },
  "resolved": {
@@ -54666,6 +54673,7 @@
   "ashby:bjakcareer:eb3d4cbb-2ae6-44b9-a6ab-a567498294bb": "2026-11-13",
   "ashby:bjakcareer:ec9fd0e9-483a-480e-b325-b7bc6798ba3a": "2026-11-13",
   "ashby:bjakcareer:f684110f-9ef8-4966-83d3-02ed58cf11f7": "2026-11-13",
+  "ashby:black-forest-labs:f83d3aee-d270-4ef6-b7a4-845a38afb3aa": "2026-11-15",
   "ashby:blacksmith:8aee4647-2e8a-4ff3-b805-2e4e8cb49de3": "2026-11-13",
   "ashby:bland:b9784fd8-1cc7-44fc-8fb7-78792c24e9f5": "2026-11-13",
   "ashby:blitzy:0ae1bf4e-5be7-4792-a49c-e79201b244f1": "2026-11-13",
@@ -56804,6 +56812,8 @@
   "dover:band:d3d25fc2-392e-4721-aa75-42fe39f88737": "2026-11-15",
   "dover:beehive:da960048-440f-49e2-8b54-f595727e26ef": "2026-11-14",
   "dover:belva-ai:87662450-23af-4b06-8be3-21a927402016": "2026-11-14",
+  "dover:betriax:2cccfcf3-aee8-4002-b25d-d9de06c4bb40": "2026-11-15",
+  "dover:betriax:a6667987-1880-497f-9e0c-2df1f8a22fb1": "2026-11-15",
   "dover:cicero:2b6bf715-ccdf-4b4d-ac5f-a89f3df3044c": "2026-11-15",
   "dover:cicero:c270ce27-1470-4621-accc-f0bcce5e92ca": "2026-11-15",
   "dover:conduit:ff655ee4-e65c-4f7b-bc81-dfb6c8ffb838": "2026-11-13",
@@ -65470,6 +65480,7 @@
   "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026507547": "2026-11-13",
   "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026507771": "2026-11-13",
   "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026507776": "2026-11-13",
+  "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026507793": "2026-11-15",
   "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026509553": "2026-11-14",
   "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026511462": "2026-11-14",
   "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026512463": "2026-11-13",
@@ -65487,6 +65498,7 @@
   "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026523046": "2026-11-13",
   "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026523364": "2026-11-13",
   "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026523431": "2026-11-13",
+  "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026523943": "2026-11-15",
   "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026524131": "2026-11-13",
   "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026524536": "2026-11-14",
   "workday:boeing|wd1|EXTERNAL_CAREERS:JR2026524784": "2026-11-14",
@@ -65535,6 +65547,7 @@
   "workday:boeing|wd1|external_subsidiary:JR2026504403": "2026-11-13",
   "workday:boeing|wd1|external_subsidiary:JR2026505581": "2026-11-13",
   "workday:boeing|wd1|external_subsidiary:JR2026507547": "2026-11-13",
+  "workday:boeing|wd1|external_subsidiary:JR2026507793": "2026-11-15",
   "workday:boeing|wd1|external_subsidiary:JR2026512463": "2026-11-13",
   "workday:boeing|wd1|external_subsidiary:JR2026512681": "2026-11-13",
   "workday:boeing|wd1|external_subsidiary:JR2026512722": "2026-11-13",
@@ -65546,6 +65559,7 @@
   "workday:boeing|wd1|external_subsidiary:JR2026523046": "2026-11-13",
   "workday:boeing|wd1|external_subsidiary:JR2026523364": "2026-11-13",
   "workday:boeing|wd1|external_subsidiary:JR2026523431": "2026-11-13",
+  "workday:boeing|wd1|external_subsidiary:JR2026523943": "2026-11-15",
   "workday:boeing|wd1|external_subsidiary:JR2026524131": "2026-11-13",
   "workday:boeing|wd1|external_subsidiary:JR2026525287": "2026-11-13",
   "workday:boeing|wd1|external_subsidiary:JR2026525431": "2026-11-13",
@@ -68100,8 +68114,8 @@
   "zoho:virtualcolleague:805869000004420928": "2026-11-14"
  },
  "source_last": {
-  "workable_search": "2026-11-15T06:19:11+00:00",
-  "yc": "2026-11-15T06:19:11+00:00"
+  "workable_search": "2026-11-15T09:20:22+00:00",
+  "yc": "2026-11-15T09:20:22+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
