@@ -3,6 +3,7 @@
   "adp:000c0490-cc55-4888-9ce3-84bc24843c60|19000101_000001": "2026-11-14",
   "adp:00a315c7-e5f5-4392-94c9-185170c8222a": "2026-11-14",
   "adp:00f2efdd-7a27-4b0b-af2a-2e4da1695f31|19000101_000001": "2026-11-14",
+  "adp:02042b6e-73c8-47ff-ad23-1b112ded7538|19000101_000001": "2026-11-15",
   "adp:02161b08-cb15-42c3-bce4-f772c36f668c": "2026-11-14",
   "adp:02161b08-cb15-42c3-bce4-f772c36f668c|19000101_000001": "2026-11-14",
   "adp:02307472-7039-4ed3-bacb-7c30eec440ed": "2026-11-14",
@@ -2742,6 +2743,7 @@
   "dayforce:yagroup|CANDIDATEPORTAL": "2026-11-14",
   "dayforce:zahgroup|CANDIDATEPORTAL": "2026-11-14",
   "dover:3hrsome": "2026-11-14",
+  "dover:Cardda": "2026-11-15",
   "dover:abalonebio": "2026-11-14",
   "dover:aconomy": "2026-11-14",
   "dover:activeloop": "2026-11-14",
@@ -2788,8 +2790,31 @@
   "dover:betriax": "2026-11-14",
   "dover:beyondlabs-cf291676": "2026-11-14",
   "dover:biztechjobs": "2026-11-15",
+  "dover:blue-voice-inc": "2026-11-15",
+  "dover:bontuteur": "2026-11-15",
+  "dover:brellium": "2026-11-15",
+  "dover:brinc-drones": "2026-11-15",
+  "dover:bubblesortrecruiting": "2026-11-15",
+  "dover:buildontimbercareers": "2026-11-15",
+  "dover:buildplaybooks": "2026-11-15",
+  "dover:c-gen-ai": "2026-11-15",
+  "dover:capitol": "2026-11-15",
+  "dover:carusoneconstruction": "2026-11-15",
+  "dover:casaphq": "2026-11-15",
+  "dover:castle": "2026-11-15",
+  "dover:chasi": "2026-11-15",
+  "dover:cherrymoss": "2026-11-15",
+  "dover:churchilltechnologies": "2026-11-15",
+  "dover:cicero": "2026-11-15",
+  "dover:clad": "2026-11-15",
+  "dover:clarahealth": "2026-11-15",
+  "dover:cloudwaveinc": "2026-11-15",
   "dover:codeclimate": "2026-11-14",
   "dover:codeday": "2026-11-14",
+  "dover:cointelligencelabs": "2026-11-15",
+  "dover:column": "2026-11-15",
+  "dover:concourse": "2026-11-15",
+  "dover:conduit": "2026-11-15",
   "dover:mindsmith": "2026-11-14",
   "eightfold:al-ghurair": "2026-11-14",
   "eightfold:amdocs": "2026-11-14",
@@ -6749,6 +6774,9 @@
   "paylocity:0a7d4d9a-bc92-4826-8481-a7946feb088e": "2026-11-14",
   "paylocity:0a905d5c-8e08-4ccd-a89d-45d8f8bb18b0": "2026-11-14",
   "paylocity:0b0e65d8-0e53-499c-b510-583fa42f82ed": "2026-11-14",
+  "paylocity:0b639416-fcca-4152-8802-c07fe7dab59b": "2026-11-15",
+  "paylocity:0ba946fa-bf1f-4728-a713-4bfe119c1d36": "2026-11-15",
+  "paylocity:0bf68f9e-dbb5-4e2b-8a58-44410086ba23": "2026-11-15",
   "paylocity:1078af34-40eb-4989-83a3-3a2138324f69": "2026-11-14",
   "paylocity:10c8ea62-0f5a-43ec-9ac1-4863af798914": "2026-11-14",
   "paylocity:10d74e65-36ac-49d3-bd03-22487604cb5e": "2026-11-14",
@@ -9879,17 +9907,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 5,
+   "n": 6,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 5,
+   "n": 6,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 5,
+   "n": 6,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -10824,7 +10852,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -10889,7 +10917,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-14"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -10936,7 +10964,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-14"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -11173,7 +11201,7 @@
   ],
   "2026-11-15": [
    17,
-   54
+   57
   ]
  },
  "resolved": {
@@ -53613,6 +53641,7 @@
   }
  },
  "seen": {
+  "adp:02042b6e-73c8-47ff-ad23-1b112ded7538|19000101_000001:9200912144700_1": "2026-11-15",
   "adp:24e7d80d-26d8-4462-8cde-9f67f19162b6|2745295041_4470:9201872664075_1": "2026-11-14",
   "adp:2e99fbf7-fb35-4e23-a3e9-d325f3ed4e7f:9205257525708_38": "2026-11-14",
   "adp:4c9a1f1d-ff7a-41e9-9b4a-aecb5ca84ec4:9201688926723_1": "2026-11-14",
@@ -54753,6 +54782,20 @@
   "dover:belva-ai:788f7e87-76e5-463c-b893-5a7b7eebf848": "2026-11-14",
   "dover:betriax:2cccfcf3-aee8-4002-b25d-d9de06c4bb40": "2026-11-14",
   "dover:biztechjobs:cffcf78d-a217-4673-a208-607446b5660c": "2026-11-15",
+  "dover:brellium:2473a9b4-0f04-4fc1-8205-98d8ededd9f9": "2026-11-15",
+  "dover:bubblesortrecruiting:6806f818-a9d0-47c8-bff5-b9fe4ea8f133": "2026-11-15",
+  "dover:bubblesortrecruiting:9097e584-145b-4a9e-93d1-9993a5db8d47": "2026-11-15",
+  "dover:buildplaybooks:6fe0cfe2-8398-4639-bb40-02ff242a3504": "2026-11-15",
+  "dover:c-gen-ai:1cb316de-bcf5-4b60-bc09-a847c630a5e1": "2026-11-15",
+  "dover:casaphq:9e0aea12-21fa-476b-8d28-ec7abbaf4f9f": "2026-11-15",
+  "dover:chasi:34f74441-51aa-4d85-9c94-462335df6420": "2026-11-15",
+  "dover:cherrymoss:35d9c1c6-0272-4f96-94d4-cf26b90ac67e": "2026-11-15",
+  "dover:cicero:c270ce27-1470-4621-accc-f0bcce5e92ca": "2026-11-15",
+  "dover:cointelligencelabs:4ef34030-cd76-4c84-9a34-dbfa58993e6f": "2026-11-15",
+  "dover:cointelligencelabs:ffa69088-df2b-4237-aa71-b504e5187d93": "2026-11-15",
+  "dover:column:3cacdbb6-546c-4e3e-9500-6b52828131f5": "2026-11-15",
+  "dover:column:f1059c5c-99ae-4799-af6e-b58095c07815": "2026-11-15",
+  "dover:conduit:ff655ee4-e65c-4f7b-bc81-dfb6c8ffb838": "2026-11-15",
   "dover:mindsmith:2ed39fd6-938f-4902-8cb0-da12f51f38f3": "2026-11-14",
   "eightfold:amdocs:563431014761485": "2026-11-14",
   "eightfold:amdocs:563431014762353": "2026-11-14",
@@ -54793,6 +54836,7 @@
   "eightfold:ngc:1340075293681": "2026-11-14",
   "eightfold:nvidia:893382124964": "2026-11-15",
   "eightfold:nvidia:893394241567": "2026-11-14",
+  "eightfold:nvidia:893396117673": "2026-11-15",
   "eightfold:nvidia:893396953463": "2026-11-14",
   "eightfold:nvidia:893397145203": "2026-11-14",
   "eightfold:nvidia:893397487444": "2026-11-15",
@@ -57852,6 +57896,7 @@
   "workday:ntrs|wd1|northerntrust:R162951": "2026-11-14",
   "workday:ntst|wd1|careers:R015405": "2026-11-14",
   "workday:nvent|wd5|nVent:R24104": "2026-11-14",
+  "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR1996987": "2026-11-15",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR1997186": "2026-11-14",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR1997214": "2026-11-14",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2001098": "2026-11-14",
@@ -57859,6 +57904,7 @@
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2007944": "2026-11-14",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2015235": "2026-11-14",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2015287": "2026-11-14",
+  "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2020844": "2026-11-15",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2022552": "2026-11-14",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2022959": "2026-11-14",
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2023525": "2026-11-14",
@@ -58164,7 +58210,7 @@
   "remoteok": "2026-11-15T01:44:52+00:00",
   "usajobs": "2026-11-15T00:51:00+00:00",
   "workable_search": "2026-11-15T00:51:00+00:00",
-  "wwr": "2026-11-15T00:51:00+00:00",
+  "wwr": "2026-11-15T01:57:02+00:00",
   "yc": "2026-11-15T00:51:00+00:00"
  },
  "title_rules": "72f554d20a7f",
