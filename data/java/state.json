@@ -9937,17 +9937,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 21,
+   "n": 22,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 21,
+   "n": 22,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 21,
+   "n": 22,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -10888,7 +10888,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 19,
+   "n": 20,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -10953,7 +10953,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 17,
+   "n": 18,
    "since": "2026-11-14"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11000,7 +11000,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 17,
+   "n": 18,
    "since": "2026-11-14"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -11159,11 +11159,6 @@
    "n": 3,
    "since": "2026-11-14"
   },
-  "workday:vfc|wd5|vfc_careers": {
-   "err": "HTTP 400",
-   "n": 1,
-   "since": "2026-11-15"
-  },
   "workday:vhr-epri|wd1|epricareers": {
    "disabled_until": "2026-11-22",
    "err": "HTTP 422",
@@ -11222,6 +11217,7 @@
   "Method Financial": "2026-11-15",
   "Mindful Support Services": "2026-11-15",
   "Multi Media LLC": "2026-11-15",
+  "New Product": "2026-11-15",
   "Pavago": "2026-11-15",
   "Pine Park Health": "2026-11-15",
   "Polymath Robotics": "2026-11-15",
@@ -11242,7 +11238,7 @@
   ],
   "2026-11-15": [
    85,
-   310
+   316
   ]
  },
  "resolved": {
@@ -55517,6 +55513,7 @@
   "hn:whoishiring:50460238-0": "2026-11-14",
   "hn:whoishiring:50484305-0": "2026-11-14",
   "hn:whoishiring:50500910-0": "2026-11-14",
+  "hn:whoishiring:50508598-0": "2026-11-15",
   "homerun:quanza:software-engineer": "2026-11-14",
   "homerun:trustoo:full-stack-developer-marketplace": "2026-11-14",
   "homerun:withthegrid:platform-devops-engineer": "2026-11-14",
@@ -58270,7 +58267,7 @@
   "zoho:virtualcolleague:805869000004420928": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-15T11:16:15+00:00",
+  "hn": "2026-11-15T17:13:24+00:00",
   "remoteok": "2026-11-15T15:20:55+00:00",
   "usajobs": "2026-11-15T14:20:26+00:00",
   "workable_search": "2026-11-15T14:20:26+00:00",
