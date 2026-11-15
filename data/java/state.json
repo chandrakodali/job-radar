@@ -9611,6 +9611,11 @@
  "bootstrapped": true,
  "closed": {},
  "fails": {
+  "apple:usa": {
+   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
+   "n": 1,
+   "since": "2026-11-15"
+  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -9937,17 +9942,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 19,
+   "n": 20,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 19,
+   "n": 20,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 19,
+   "n": 20,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -10888,12 +10893,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 7,
+   "n": 8,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 17,
+   "n": 18,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11242,7 +11247,7 @@
   ],
   "2026-11-15": [
    85,
-   304
+   307
   ]
  },
  "resolved": {
@@ -57477,6 +57482,7 @@
   "workday:allegion|wd5|careers:JR38204": "2026-11-14",
   "workday:allegromicro|wd5|allegrocareers:R6556": "2026-11-14",
   "workday:alliedsolutions|wd501|Allied_External:R-011184": "2026-11-14",
+  "workday:allstate|wd5|allstate_careers:R35894": "2026-11-15",
   "workday:allstate|wd5|sourcing_event:R36697": "2026-11-14",
   "workday:altera|wd1|altera:R02976": "2026-11-14",
   "workday:altera|wd1|altera:R03177": "2026-11-14",
@@ -58270,10 +58276,10 @@
  },
  "source_last": {
   "hn": "2026-11-15T11:16:15+00:00",
-  "remoteok": "2026-11-15T13:19:29+00:00",
+  "remoteok": "2026-11-15T15:20:55+00:00",
   "usajobs": "2026-11-15T14:20:26+00:00",
   "workable_search": "2026-11-15T14:20:26+00:00",
-  "wwr": "2026-11-15T14:20:26+00:00",
+  "wwr": "2026-11-15T15:20:55+00:00",
   "yc": "2026-11-15T14:20:26+00:00"
  },
  "title_rules": "72f554d20a7f",
