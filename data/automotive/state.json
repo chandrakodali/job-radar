@@ -3827,8 +3827,25 @@
   "dover:beehive": "2026-11-15",
   "dover:belfry": "2026-11-14",
   "dover:belva-ai": "2026-11-14",
+  "dover:betriax": "2026-11-15",
+  "dover:beyondlabs-cf291676": "2026-11-15",
+  "dover:bildbot": "2026-11-15",
+  "dover:birda": "2026-11-15",
+  "dover:blue-voice-inc": "2026-11-15",
+  "dover:bontuteur": "2026-11-15",
+  "dover:brellium": "2026-11-15",
+  "dover:bubblesortrecruiting": "2026-11-15",
+  "dover:bud-discovery": "2026-11-15",
+  "dover:buildontimbercareers": "2026-11-15",
+  "dover:buildplaybooks": "2026-11-15",
+  "dover:c-gen-ai": "2026-11-15",
+  "dover:capitol": "2026-11-15",
   "dover:careerflow": "2026-11-14",
+  "dover:carusoneconstruction": "2026-11-15",
+  "dover:casaphq": "2026-11-15",
   "dover:castle": "2026-11-11",
+  "dover:centurainc": "2026-11-15",
+  "dover:certive": "2026-11-15",
   "dover:chasi": "2026-11-11",
   "dover:codeclimate": "2026-11-14",
   "dover:codeday": "2026-11-14",
@@ -3893,9 +3910,19 @@
   "eightfold:on": "2026-11-14",
   "eightfold:paypal": "2026-11-14",
   "eightfold:paypal|paypal.com": "2026-11-11",
+  "eightfold:plexus": "2026-11-15",
+  "eightfold:qualcomm": "2026-11-15",
   "eightfold:qualcomm|qualcomm.com": "2026-11-11",
+  "eightfold:ralliant": "2026-11-15",
   "eightfold:ralliant|ralliant.com": "2026-11-11",
+  "eightfold:slb": "2026-11-15",
+  "eightfold:starbucks-staging": "2026-11-15",
   "eightfold:starbucks|starbucks.com": "2026-11-11",
+  "eightfold:telekom-growthhub": "2026-11-15",
+  "eightfold:trinet": "2026-11-15",
+  "eightfold:ukg": "2026-11-15",
+  "eightfold:vodafone": "2026-11-15",
+  "eightfold:whirlpool": "2026-11-15",
   "gem:11x-ai": "2026-11-14",
   "gem:43north": "2026-11-14",
   "gem:a16z-speedrun": "2026-11-14",
@@ -3968,8 +3995,11 @@
   "gem:buildtrayd-com": "2026-11-11",
   "gem:bull-moose-xyz": "2026-11-14",
   "gem:butcher-power-products": "2026-11-14",
+  "gem:caddy": "2026-11-15",
   "gem:caelumresearch": "2026-11-14",
+  "gem:callibrity-solutions": "2026-11-15",
   "gem:callibrity-solutions-1": "2026-11-14",
+  "gem:candoriq": "2026-11-15",
   "gem:careers-myrrsgroup": "2026-11-14",
   "gem:careers-readyon": "2026-11-14",
   "gem:caretria": "2026-11-14",
@@ -3978,59 +4008,90 @@
   "gem:casap": "2026-11-14",
   "gem:caseguild": "2026-11-14",
   "gem:cellbyte": "2026-11-11",
+  "gem:characterquilt": "2026-11-15",
   "gem:chasi-ai": "2026-11-14",
   "gem:chef-robotics": "2026-11-14",
   "gem:chiri": "2026-11-14",
   "gem:citydetect": "2026-11-14",
   "gem:civrobotics-com": "2026-11-14",
+  "gem:claimhealth-ai": "2026-11-15",
+  "gem:clarinet": "2026-11-15",
   "gem:clearchecks-com-ats": "2026-11-14",
   "gem:clipster": "2026-11-14",
   "gem:cloudanix-com": "2026-11-11",
+  "gem:cloudx": "2026-11-15",
   "gem:codegen": "2026-11-14",
   "gem:codesignal-ats": "2026-11-14",
+  "gem:collectwise-com": "2026-11-15",
   "gem:constellation-institute": "2026-11-14",
   "gem:constrafor": "2026-11-14",
   "gem:contactout": "2026-11-14",
+  "gem:continualresearch": "2026-11-15",
   "gem:converge": "2026-11-11",
   "gem:coupa-software-inc-ats-1": "2026-11-14",
+  "gem:coverwatch": "2026-11-15",
   "gem:cox-exponential": "2026-11-14",
   "gem:crabi-robotics-com": "2026-11-14",
   "gem:craniometrix-com": "2026-11-14",
+  "gem:createdbyhumans-ai": "2026-11-15",
+  "gem:crosby": "2026-11-15",
+  "gem:data-masters": "2026-11-15",
+  "gem:dataprana-io": "2026-11-15",
   "gem:datasqrl": "2026-11-14",
   "gem:daxko": "2026-11-14",
   "gem:deep-infra": "2026-11-14",
+  "gem:deepline-com": "2026-11-15",
+  "gem:deeptempo": "2026-11-15",
   "gem:deform": "2026-11-14",
   "gem:denali-advanced-integration": "2026-11-14",
   "gem:detections-ai": "2026-11-14",
+  "gem:distill-fyi": "2026-11-15",
   "gem:doowii": "2026-11-14",
+  "gem:dragme": "2026-11-15",
   "gem:dragonfly-careers": "2026-11-14",
   "gem:dropbox-ats": "2026-11-14",
   "gem:edgetrace-ai": "2026-11-14",
+  "gem:eliza": "2026-11-15",
   "gem:elloe-ai": "2026-11-14",
   "gem:elm-ai-com": "2026-11-14",
   "gem:emerge-career": "2026-11-14",
+  "gem:emil-ibrishimovgmail-com": "2026-11-15",
+  "gem:empathic": "2026-11-15",
   "gem:engineering--codified": "2026-11-14",
   "gem:excelity-careers": "2026-11-14",
   "gem:expedition-technology": "2026-11-14",
+  "gem:exponent": "2026-11-15",
   "gem:ezraailabs-tech": "2026-11-14",
   "gem:fabrichealth": "2026-11-14",
+  "gem:faraday": "2026-11-15",
   "gem:farmers-business-network": "2026-11-14",
   "gem:felix": "2026-11-14",
   "gem:fetch": "2026-11-14",
+  "gem:fetch-ats": "2026-11-15",
   "gem:fifthdoor-com": "2026-11-11",
+  "gem:fireflies-ats": "2026-11-15",
   "gem:firestorm": "2026-11-14",
   "gem:firm": "2026-11-14",
+  "gem:formal": "2026-11-15",
+  "gem:fragment": "2026-11-15",
   "gem:fridayharbor-ai": "2026-11-14",
   "gem:fulton-river-partners": "2026-11-14",
   "gem:function-health": "2026-11-14",
+  "gem:fuzebox-ai": "2026-11-15",
   "gem:galaxyventures": "2026-11-14",
   "gem:gbh": "2026-11-14",
   "gem:gem": "2026-11-11",
+  "gem:gem-gabs-sandbox": "2026-11-15",
   "gem:gem-oats-sandbox": "2026-11-14",
   "gem:gem-smb": "2026-11-14",
+  "gem:genesisdigital-co": "2026-11-15",
+  "gem:geodnet": "2026-11-15",
   "gem:gerra": "2026-11-14",
+  "gem:getcedar-ai-ats": "2026-11-15",
   "gem:giwx": "2026-11-14",
+  "gem:glassfactory": "2026-11-15",
   "gem:go-cadre": "2026-11-14",
+  "gem:gomomentum-tech": "2026-11-15",
   "gem:goodbill": "2026-11-14",
   "gem:gpt-nexus": "2026-11-14",
   "gem:granger-construction": "2026-11-14",
@@ -4042,9 +4103,11 @@
   "gem:hacktron": "2026-11-14",
   "gem:happydance-partnership-integration": "2026-11-14",
   "gem:haulvana": "2026-11-14",
+  "gem:hayla": "2026-11-15",
   "gem:heavy-construction-systems-specialists-llc": "2026-11-14",
   "gem:helix": "2026-11-14",
   "gem:hellobabs-ai": "2026-11-14",
+  "gem:hellotrade": "2026-11-15",
   "gem:helm-health": "2026-11-14",
   "gem:imagen-technologies": "2026-11-14",
   "gem:imagen-technologies-ats": "2026-11-14",
@@ -4053,17 +4116,25 @@
   "gem:informed-k12": "2026-11-14",
   "gem:inspiresemi-com": "2026-11-14",
   "gem:instrumental-inc-": "2026-11-14",
+  "gem:insummary-com": "2026-11-15",
   "gem:integrationsandboxbrighthire-ai": "2026-11-14",
+  "gem:integrationscaptain": "2026-11-15",
   "gem:ironsite-ai": "2026-11-14",
   "gem:jetty-careers": "2026-11-14",
   "gem:jobma": "2026-11-14",
+  "gem:joinanvil-com": "2026-11-15",
   "gem:juneapp-ai": "2026-11-14",
   "gem:kanu-ai": "2026-11-14",
+  "gem:karumi-ai": "2026-11-15",
   "gem:kaufman-lynn-construction": "2026-11-14",
+  "gem:kerrigan-robotics": "2026-11-15",
+  "gem:ketchtalent": "2026-11-15",
   "gem:key-to-web3": "2026-11-14",
   "gem:kindredminds-com": "2026-11-14",
   "gem:kinetic": "2026-11-14",
+  "gem:kita": "2026-11-15",
   "gem:kombo-dev": "2026-11-14",
+  "gem:kynygroup-org": "2026-11-15",
   "gem:laylo-com": "2026-11-14",
   "gem:letter-ai": "2026-11-11",
   "gem:level": "2026-11-14",
@@ -4077,11 +4148,18 @@
   "gem:lunos-ai": "2026-11-14",
   "gem:lutra": "2026-11-14",
   "gem:lyacollective-com": "2026-11-14",
+  "gem:macro-corporation": "2026-11-15",
+  "gem:magnetic": "2026-11-15",
+  "gem:mason": "2026-11-15",
   "gem:massman-construction-co-": "2026-11-14",
   "gem:match2-recruiters": "2026-11-14",
   "gem:matrix": "2026-11-14",
+  "gem:maximahq-com": "2026-11-15",
+  "gem:medallion-fm": "2026-11-15",
   "gem:meettie-com": "2026-11-14",
   "gem:menten-ai": "2026-11-11",
+  "gem:merge-sandbox": "2026-11-15",
+  "gem:microsoft-demo-gem-com": "2026-11-15",
   "gem:midwestern-interactive": "2026-11-14",
   "gem:mimicrobotics-com": "2026-11-14",
   "gem:mixbook": "2026-11-14",
@@ -4102,22 +4180,30 @@
   "gem:noon": "2026-11-14",
   "gem:ntop": "2026-11-14",
   "gem:nuvo": "2026-11-14",
+  "gem:nuvo-gem": "2026-11-15",
+  "gem:nyne-ai": "2026-11-15",
   "gem:oats-testing": "2026-11-14",
   "gem:obin-ai": "2026-11-14",
   "gem:ocient-inc-": "2026-11-14",
   "gem:ofone": "2026-11-14",
   "gem:onesignal": "2026-11-14",
   "gem:onesignal-ats": "2026-11-14",
+  "gem:onfrontiers": "2026-11-15",
   "gem:openreqstaffing": "2026-11-14",
   "gem:opine": "2026-11-14",
+  "gem:ora-so": "2026-11-15",
   "gem:ornn": "2026-11-14",
+  "gem:ovatechnologies": "2026-11-15",
   "gem:overlay": "2026-11-14",
   "gem:overmind": "2026-11-14",
   "gem:overwatch": "2026-11-14",
   "gem:oxus": "2026-11-11",
   "gem:paces": "2026-11-11",
   "gem:pally": "2026-11-14",
+  "gem:pantheon": "2026-11-15",
+  "gem:parcell": "2026-11-15",
   "gem:photon": "2026-11-14",
+  "gem:pin": "2026-11-15",
   "gem:piqenergy": "2026-11-14",
   "gem:plentitude-io": "2026-11-14",
   "gem:plixai": "2026-11-14",
@@ -4246,6 +4332,7 @@
   "gem:transluce": "2026-11-14",
   "gem:trashlab": "2026-11-14",
   "gem:trata": "2026-11-11",
+  "gem:treehouselabs-ai": "2026-11-15",
   "gem:tristero": "2026-11-14",
   "gem:trojan-trading": "2026-11-14",
   "gem:tryastraea-com": "2026-11-14",
@@ -4255,6 +4342,7 @@
   "gem:turbotest-ai": "2026-11-14",
   "gem:twentyfour7-dev": "2026-11-14",
   "gem:ultra": "2026-11-11",
+  "gem:unboundsecurity-ai": "2026-11-15",
   "gem:unsiloed-ai": "2026-11-14",
   "gem:untolabs-com": "2026-11-14",
   "gem:usetrellis-co": "2026-11-14",
@@ -4273,6 +4361,7 @@
   "gem:webflow-ats-sandbox": "2026-11-14",
   "gem:weeatbig-com": "2026-11-14",
   "gem:whatconverts": "2026-11-14",
+  "gem:xyloplan-com": "2026-11-15",
   "gem:y-combinator-sandbox": "2026-11-14",
   "gem:yext-ats": "2026-11-14",
   "gem:yondu-ai": "2026-11-14",
@@ -8112,6 +8201,7 @@
   "paylocity:0721fa6f-20b1-48a9-9a2a-7da813f88a10": "2026-11-15",
   "paylocity:07314255-f13e-4c20-b80c-2b4022218dc8": "2026-11-15",
   "paylocity:076ee35d-2815-45ca-a6dc-38be74644a87": "2026-11-14",
+  "paylocity:082071a4-c0e5-4c0b-9817-db0f2a85655b": "2026-11-15",
   "paylocity:0844bcbc-bc5c-45ed-8674-5fe440c4e57a": "2026-11-14",
   "paylocity:08628d28-fa0d-4893-b85a-43b78653901b": "2026-11-15",
   "paylocity:086af4d0-3dbe-4019-87ba-444c7e2661ac": "2026-11-15",
@@ -8147,6 +8237,8 @@
   "paylocity:10c8ea62-0f5a-43ec-9ac1-4863af798914": "2026-11-15",
   "paylocity:10d74e65-36ac-49d3-bd03-22487604cb5e": "2026-11-15",
   "paylocity:10dddce7-8ab8-484d-8acf-3754d32ec78d": "2026-11-15",
+  "paylocity:11276fa1-77af-49e1-afad-a5aeb5475e83": "2026-11-15",
+  "paylocity:11359dc9-0569-4758-b5b3-d5a8ad7e47d0": "2026-11-15",
   "paylocity:118a9cc5-0ce7-4927-9e59-0b911a0cdcfe": "2026-11-15",
   "paylocity:11a8b0a1-486f-4a2f-9b61-2448bcebf645": "2026-11-14",
   "paylocity:12149a26-ab34-4619-be4d-3aea2dd218ee": "2026-11-14",
@@ -8158,9 +8250,11 @@
   "paylocity:13e96a8e-caac-4140-9f25-57c06081fbd4": "2026-11-15",
   "paylocity:14147534-47d1-4e80-af71-635a7d67cac1": "2026-11-14",
   "paylocity:14223a8b-d10c-4985-b077-944a16d2fea3": "2026-11-14",
+  "paylocity:142ac08d-1ed6-4708-869e-ff077b893977": "2026-11-15",
   "paylocity:142c9c7e-4192-4bef-9adf-86db6d8f712c": "2026-11-14",
   "paylocity:144df5a8-264d-4a35-9139-e420cb899b95": "2026-11-14",
   "paylocity:1457d9fd-ff47-44b7-b56a-13fa323378cd": "2026-11-14",
+  "paylocity:145d874d-6cee-4a51-b8b4-a7ae061cd97f": "2026-11-15",
   "paylocity:146a3a13-476a-4520-a409-2d46af632aba": "2026-11-14",
   "paylocity:146c5804-5603-4f3b-a61c-c9046e8a6402": "2026-11-14",
   "paylocity:14724750-0d96-417c-acb1-743bcf1738b7": "2026-11-14",
@@ -11458,6 +11552,7 @@
   "greenhouse:vast:4723899006": "2026-11-13",
   "greenhouse:vast:4726904006": "2026-11-12",
   "lever:aeva:406de9fa-2ec5-4aa4-a0d0-438ec3d92615": "2026-11-12",
+  "lever:jobgether:490c9d39-3017-48f1-b748-d4a90e218119": "2026-11-15",
   "lever:shieldai:1f75db58-5185-48ce-888a-ae0074214b63": "2026-11-13",
   "lever:shieldai:68a9b3cd-6c74-4cd7-a69f-36f1b92bb623": "2026-11-13",
   "lever:shieldai:bfa00574-c549-48fb-9065-2840c4d17cfc": "2026-11-13",
@@ -11494,10 +11589,10 @@
   "dayforce:jtekt|candidateportal": 50,
   "dayforce:kubota|candidateportal": 50,
   "dspace:www.dspace.com|en/inc/home/career/jobfinder/stellen.cfm": 61,
-  "eightfold:eaton|eaton.com": 397,
-  "eightfold:infineon|infineon.com": 389,
-  "eightfold:johndeere|johndeere.com": 198,
-  "eightfold:qualcomm|qualcomm.com": 445,
+  "eightfold:eaton|eaton.com": 410,
+  "eightfold:infineon|infineon.com": 353,
+  "eightfold:johndeere|johndeere.com": 174,
+  "eightfold:qualcomm|qualcomm.com": 368,
   "greenhouse:altentechnologyusa": 225,
   "greenhouse:archer56": 82,
   "greenhouse:botauto": 22,
@@ -11521,13 +11616,13 @@
   "greenhouse:xosinc": 13,
   "icims:careers-jobyaviation.icims.com": 157,
   "icims:expleo-jobs-us-en.icims.com": 11,
-  "jazzhr:hyundaiautoeveramerica": 78,
+  "jazzhr:hyundaiautoeveramerica": 77,
   "jazzhr:ouster": 29,
   "jazzhr:roush": 64,
   "jibe:careers.garmin.com": 447,
   "jibe:careers.international.com": 169,
   "jibe:careers.na.panasonic.com": 439,
-  "jibe:careers.rivian.com": 869,
+  "jibe:careers.rivian.com": 798,
   "jobvite:sews": 48,
   "ldsite:careers.dauch.com/sitemap.xml|/job/.+/(\\d+)/?$": 372,
   "lever:aeva": 46,
@@ -11538,24 +11633,24 @@
   "lever:weride": 12,
   "lever:woven-by-toyota": 136,
   "lever:zoox": 241,
-  "mcloud:2016|careers.stellantis.com": 454,
-  "oracle:edbz.fa.us2.oraclecloud.com|cx": 376,
-  "oracle:efds.fa.em5.oraclecloud.com|cx_1": 422,
-  "oracle:ehth.fa.em2.oraclecloud.com|cx_2001": 57,
-  "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|cx_1": 383,
-  "oracle:hcal.fa.us2.oraclecloud.com|cx_1001": 31,
-  "oracle:hctz.fa.us2.oraclecloud.com|cx_1001": 329,
+  "mcloud:2016|careers.stellantis.com": 452,
+  "oracle:edbz.fa.us2.oraclecloud.com|cx": 349,
+  "oracle:efds.fa.em5.oraclecloud.com|cx_1": 472,
+  "oracle:ehth.fa.em2.oraclecloud.com|cx_2001": 59,
+  "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|cx_1": 448,
+  "oracle:hcal.fa.us2.oraclecloud.com|cx_1001": 28,
+  "oracle:hctz.fa.us2.oraclecloud.com|cx_1001": 341,
   "oracle:hcwt.fa.us2.oraclecloud.com|cx": 82,
   "phenom:careers.bose.com|us/en": 101,
   "phenom:careers.brp.com|global/en": 280,
   "phenom:careers.honda.com|us/en": 313,
-  "phenom:careers.quest-global.com|global/en": 610,
-  "phenom:careers.teksystems.com|us/en": 483,
-  "sfrmk:careers-americas.hyundai.com": 256,
+  "phenom:careers.quest-global.com|global/en": 627,
+  "phenom:careers.teksystems.com|us/en": 444,
+  "sfrmk:careers-americas.hyundai.com": 257,
   "sfrmk:careers.agcocorp.com": 334,
-  "sfrmk:careers.capgemini.com": 5062,
+  "sfrmk:careers.capgemini.com": 5065,
   "sfrmk:careers.knorr-bremse.com": 389,
-  "sfrmk:careers.te.com": 2423,
+  "sfrmk:careers.te.com": 2421,
   "sfrmk:jobs.avl.com": 211,
   "sfrmk:jobs.bmwgroup.com": 754,
   "sfrmk:jobs.dana.com": 347,
@@ -13231,7 +13326,7 @@
    "since": "2026-11-11"
   }
  },
- "found_cursor": 3315,
+ "found_cursor": 6315,
  "last_digest": "2026-11-15",
  "missed_companies": {},
  "missing_once": {},
@@ -55519,6 +55614,67 @@
    "r": [],
    "t": "2026-11-14"
   },
+  "plexus.eightfold.ai": {
+   "r": [
+    [
+     false,
+     "/"
+    ],
+    [
+     true,
+     "/$"
+    ],
+    [
+     true,
+     "/careers"
+    ],
+    [
+     true,
+     "/api/apply"
+    ],
+    [
+     true,
+     "/api/pcsx"
+    ],
+    [
+     true,
+     "/candidate/login"
+    ],
+    [
+     true,
+     "/login"
+    ],
+    [
+     true,
+     "/events/candidate"
+    ],
+    [
+     true,
+     "/events/open"
+    ],
+    [
+     true,
+     "/api/events"
+    ],
+    [
+     true,
+     "/careerhub/explore/jobs"
+    ],
+    [
+     true,
+     "/api/career_hub"
+    ],
+    [
+     true,
+     "/static/gen"
+    ],
+    [
+     true,
+     "/gen"
+    ]
+   ],
+   "t": "2026-11-15"
+  },
   "pmx.jobs.personio.de": {
    "r": [
     [
@@ -57916,6 +58072,67 @@
    ],
    "t": "2026-11-15"
   },
+  "slb.eightfold.ai": {
+   "r": [
+    [
+     false,
+     "/"
+    ],
+    [
+     true,
+     "/$"
+    ],
+    [
+     true,
+     "/careers"
+    ],
+    [
+     true,
+     "/api/apply"
+    ],
+    [
+     true,
+     "/api/pcsx"
+    ],
+    [
+     true,
+     "/candidate/login"
+    ],
+    [
+     true,
+     "/login"
+    ],
+    [
+     true,
+     "/events/candidate"
+    ],
+    [
+     true,
+     "/events/open"
+    ],
+    [
+     true,
+     "/api/events"
+    ],
+    [
+     true,
+     "/careerhub/explore/jobs"
+    ],
+    [
+     true,
+     "/api/career_hub"
+    ],
+    [
+     true,
+     "/static/gen"
+    ],
+    [
+     true,
+     "/gen"
+    ]
+   ],
+   "t": "2026-11-15"
+  },
   "slhs.avature.net": {
    "r": [
     [
@@ -58852,6 +59069,67 @@
   "stager.homerun.co": {
    "r": [],
    "t": "2026-11-14"
+  },
+  "starbucks-staging.eightfold.ai": {
+   "r": [
+    [
+     false,
+     "/"
+    ],
+    [
+     true,
+     "/$"
+    ],
+    [
+     true,
+     "/careers"
+    ],
+    [
+     true,
+     "/api/apply"
+    ],
+    [
+     true,
+     "/api/pcsx"
+    ],
+    [
+     true,
+     "/candidate/login"
+    ],
+    [
+     true,
+     "/login"
+    ],
+    [
+     true,
+     "/events/candidate"
+    ],
+    [
+     true,
+     "/events/open"
+    ],
+    [
+     true,
+     "/api/events"
+    ],
+    [
+     true,
+     "/careerhub/explore/jobs"
+    ],
+    [
+     true,
+     "/api/career_hub"
+    ],
+    [
+     true,
+     "/static/gen"
+    ],
+    [
+     true,
+     "/gen"
+    ]
+   ],
+   "t": "2026-11-15"
   },
   "starbucks.eightfold.ai": {
    "r": [
@@ -60122,6 +60400,67 @@
   "teklaresearch.catsone.com": {
    "r": [],
    "t": "2026-11-14"
+  },
+  "telekom-growthhub.eightfold.ai": {
+   "r": [
+    [
+     false,
+     "/"
+    ],
+    [
+     true,
+     "/$"
+    ],
+    [
+     true,
+     "/careers"
+    ],
+    [
+     true,
+     "/api/apply"
+    ],
+    [
+     true,
+     "/api/pcsx"
+    ],
+    [
+     true,
+     "/candidate/login"
+    ],
+    [
+     true,
+     "/login"
+    ],
+    [
+     true,
+     "/events/candidate"
+    ],
+    [
+     true,
+     "/events/open"
+    ],
+    [
+     true,
+     "/api/events"
+    ],
+    [
+     true,
+     "/careerhub/explore/jobs"
+    ],
+    [
+     true,
+     "/api/career_hub"
+    ],
+    [
+     true,
+     "/static/gen"
+    ],
+    [
+     true,
+     "/gen"
+    ]
+   ],
+   "t": "2026-11-15"
   },
   "tennet.avature.net": {
    "r": [
@@ -61990,6 +62329,67 @@
    ],
    "t": "2026-11-15"
   },
+  "trinet.eightfold.ai": {
+   "r": [
+    [
+     false,
+     "/"
+    ],
+    [
+     true,
+     "/$"
+    ],
+    [
+     true,
+     "/careers"
+    ],
+    [
+     true,
+     "/api/apply"
+    ],
+    [
+     true,
+     "/api/pcsx"
+    ],
+    [
+     true,
+     "/candidate/login"
+    ],
+    [
+     true,
+     "/login"
+    ],
+    [
+     true,
+     "/events/candidate"
+    ],
+    [
+     true,
+     "/events/open"
+    ],
+    [
+     true,
+     "/api/events"
+    ],
+    [
+     true,
+     "/careerhub/explore/jobs"
+    ],
+    [
+     true,
+     "/api/career_hub"
+    ],
+    [
+     true,
+     "/static/gen"
+    ],
+    [
+     true,
+     "/gen"
+    ]
+   ],
+   "t": "2026-11-15"
+  },
   "trinityesllc.applytojob.com": {
    "r": [
     [
@@ -62762,6 +63162,67 @@
     ]
    ],
    "t": "2026-11-14"
+  },
+  "ukg.eightfold.ai": {
+   "r": [
+    [
+     false,
+     "/"
+    ],
+    [
+     true,
+     "/$"
+    ],
+    [
+     true,
+     "/careers"
+    ],
+    [
+     true,
+     "/api/apply"
+    ],
+    [
+     true,
+     "/api/pcsx"
+    ],
+    [
+     true,
+     "/candidate/login"
+    ],
+    [
+     true,
+     "/login"
+    ],
+    [
+     true,
+     "/events/candidate"
+    ],
+    [
+     true,
+     "/events/open"
+    ],
+    [
+     true,
+     "/api/events"
+    ],
+    [
+     true,
+     "/careerhub/explore/jobs"
+    ],
+    [
+     true,
+     "/api/career_hub"
+    ],
+    [
+     true,
+     "/static/gen"
+    ],
+    [
+     true,
+     "/gen"
+    ]
+   ],
+   "t": "2026-11-15"
   },
   "unifi.avature.net": {
    "r": [
@@ -64284,6 +64745,67 @@
    ],
    "t": "2026-11-11"
   },
+  "vodafone.eightfold.ai": {
+   "r": [
+    [
+     false,
+     "/"
+    ],
+    [
+     true,
+     "/$"
+    ],
+    [
+     true,
+     "/careers"
+    ],
+    [
+     true,
+     "/api/apply"
+    ],
+    [
+     true,
+     "/api/pcsx"
+    ],
+    [
+     true,
+     "/candidate/login"
+    ],
+    [
+     true,
+     "/login"
+    ],
+    [
+     true,
+     "/events/candidate"
+    ],
+    [
+     true,
+     "/events/open"
+    ],
+    [
+     true,
+     "/api/events"
+    ],
+    [
+     true,
+     "/careerhub/explore/jobs"
+    ],
+    [
+     true,
+     "/api/career_hub"
+    ],
+    [
+     true,
+     "/static/gen"
+    ],
+    [
+     true,
+     "/gen"
+    ]
+   ],
+   "t": "2026-11-15"
+  },
   "votingworks.breezy.hr": {
    "r": [
     [
@@ -64498,6 +65020,67 @@
     ]
    ],
    "t": "2026-11-11"
+  },
+  "whirlpool.eightfold.ai": {
+   "r": [
+    [
+     false,
+     "/"
+    ],
+    [
+     true,
+     "/$"
+    ],
+    [
+     true,
+     "/careers"
+    ],
+    [
+     true,
+     "/api/apply"
+    ],
+    [
+     true,
+     "/api/pcsx"
+    ],
+    [
+     true,
+     "/candidate/login"
+    ],
+    [
+     true,
+     "/login"
+    ],
+    [
+     true,
+     "/events/candidate"
+    ],
+    [
+     true,
+     "/events/open"
+    ],
+    [
+     true,
+     "/api/events"
+    ],
+    [
+     true,
+     "/careerhub/explore/jobs"
+    ],
+    [
+     true,
+     "/api/career_hub"
+    ],
+    [
+     true,
+     "/static/gen"
+    ],
+    [
+     true,
+     "/gen"
+    ]
+   ],
+   "t": "2026-11-15"
   },
   "wholesale-harborfoods.icims.com": {
    "r": [
@@ -67173,6 +67756,10 @@
   "eightfold:nvidia:893398361937": "2026-11-14",
   "eightfold:nvidia:893398361968": "2026-11-15",
   "eightfold:nvidia:893398699884": "2026-11-14",
+  "eightfold:qualcomm:446719161124": "2026-11-15",
+  "eightfold:qualcomm:446720361953": "2026-11-15",
+  "eightfold:qualcomm:446721549250": "2026-11-15",
+  "eightfold:qualcomm:446722040680": "2026-11-15",
   "eightfold:qualcomm|qualcomm.com:446704809279": "2026-11-14",
   "eightfold:qualcomm|qualcomm.com:446714464766": "2026-11-14",
   "eightfold:qualcomm|qualcomm.com:446714967451": "2026-11-13",
@@ -67484,6 +68071,7 @@
   "eightfold:qualcomm|qualcomm.com:446722117808": "2026-11-13",
   "eightfold:qualcomm|qualcomm.com:446722118827": "2026-11-13",
   "eightfold:qualcomm|qualcomm.com:446722120000": "2026-11-14",
+  "eightfold:whirlpool:34403983962": "2026-11-15",
   "gem:albacore:am9icG9zdDoCYGU2vQoNk5ZQBQO4lsDW": "2026-11-11",
   "gem:andrenam:am9icG9zdDpVZP5iX-f_bJlIbprLB2Gc": "2026-11-14",
   "gem:arc:am9icG9zdDpXwDAnWShObb27KNiykDHJ": "2026-11-14",
@@ -72642,6 +73230,7 @@
   "sfrmk:careers-americas.hyundai.com:1449853300": "2026-11-11",
   "sfrmk:careers-americas.hyundai.com:1450480700": "2026-11-13",
   "sfrmk:careers-americas.hyundai.com:1450755400": "2026-11-14",
+  "sfrmk:careers-americas.hyundai.com:1450803400": "2026-11-15",
   "sfrmk:careers.acuityinc.com:1428876800": "2026-11-11",
   "sfrmk:careers.acuityinc.com:1440408100": "2026-11-12",
   "sfrmk:careers.agcocorp.com:1313780500": "2026-11-11",
@@ -81857,7 +82446,7 @@
   "zoho:stackand:311383000018775968": "2026-11-15"
  },
  "source_last": {},
- "term_cursor": 21,
+ "term_cursor": 31,
  "text_retries": {
   "adp:12c50d6c-1baa-481b-a7ac-bc6c1aeda42a|19000101_000001:9201296214545_1": 1,
   "adp:143ad7a2-63a5-4e78-bb9e-f11b63c50548|19000101_000001:9201092315530_1": 1,
