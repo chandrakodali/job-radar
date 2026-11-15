@@ -1,12 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**175 jobs**, newest first. Updated Sat Nov 14, 10:49 PM CST from 10,713 company job boards and other sources.
+**175 jobs**, newest first. Updated Sat Nov 14, 11:52 PM CST from 10,713 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 128 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 184 matching jobs that job sites and feeds listed this week, 51 (27%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 187 matching jobs that job sites and feeds listed this week, 51 (27%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sun 15 (1)](#sunday-nov-15-1) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (18)](#tuesday-nov-10-18) · [Mon 9 (11)](#monday-nov-9-11) · [Sun 8 (3)](#sunday-nov-8-3)
 
@@ -225,7 +225,7 @@ Jump to: [Sun 15 (1)](#sunday-nov-15-1) · [Sat 14 (76)](#saturday-nov-14-76) ·
 | date only | [2027 Technology Development Program - Software Engineering (Enterpris…](https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Enterprise---Wealth-Application-Development-_R92035) | M&T Bank | Buffalo, NY (hybrid) | 43 | requires Java |
 | 2:00 AM | [Software Developer Engineer II](https://www.optimumcareers.com/job/Bethpage-Software-Developer-Engineer-II-NY-11714/1429221300/) | Altice USA | Bethpage, NY, United States | 23 | 3+ yrs exp; no future H-1B sponsorship; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (278)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (279)
 
 <details><summary>Show</summary>
 
@@ -370,6 +370,7 @@ Jump to: [Sun 15 (1)](#sunday-nov-15-1) · [Sat 14 (76)](#saturday-nov-14-76) ·
 | 3:51 PM (seen) | [Jr Java Developer FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16721096-Jr-Java-Developer--FS-Poly/) | 33704Placement |  | 55 | rules: role or location no longer in the target list |
 | 3:51 PM (seen) | [FullStack Software Engineer Java FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16721068-FullStack-Software-Engineer-Java--FS-Poly/) | 33704Placement |  | 45 | rules: role or location no longer in the target list |
 | date only | [Sr Software Engineer - Backend (Java)](https://paypal.eightfold.ai/careers/job/274922508777) | PayPal | Scottsdale, AZ, US (hybrid) | 43 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| date only | [Senior Software Engineer - SS&C EVOLV](https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Remote---Virginia-US/Senior-Software-Engineer---SS-C-EVOLV_R46067) | SS&C | Remote - Virginia, US (remote) | 20 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 8:00 PM | [Full Stack Developer - Java/ React](https://careers.capgemini.com/job/Atlanta-Full-Stack-Developer-Java-React-GA-30301/1428050933/) | Capgemini | Atlanta, United States +1 more | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:00 PM | [Java Full Stack Engineer](https://careers.capgemini.com/job/Dallas%2C-TX-Java-Full-Stack-Engineer-TX-75201/1448560233/) | Capgemini | Dallas, TX, United States | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 5:05 PM | [Sr Software Engineer I - Java - Ace Studio Platform](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008913) | American Express | Sunrise, FL, United States (hybrid) | 60 | rules: entry-level title; 10+ yrs exp; senior title; asks for 10+ yea… |

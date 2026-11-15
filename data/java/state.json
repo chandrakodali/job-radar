@@ -6765,6 +6765,7 @@
   "paylocity:08628d28-fa0d-4893-b85a-43b78653901b": "2026-11-15",
   "paylocity:086af4d0-3dbe-4019-87ba-444c7e2661ac": "2026-11-14",
   "paylocity:08741992-5802-4419-a6eb-fbb58d6ac948": "2026-11-14",
+  "paylocity:087d8277-967a-4bb5-8fe3-3dc85caedf66": "2026-11-15",
   "paylocity:08c3bc4f-8161-4d98-b8f9-9289db30f8a1": "2026-11-15",
   "paylocity:08eac160-0a1e-4180-8eb0-8381757e63b5": "2026-11-14",
   "paylocity:091968f2-bfa6-405c-9111-bc12c6ab6d3a": "2026-11-14",
@@ -6782,8 +6783,11 @@
   "paylocity:0bf68f9e-dbb5-4e2b-8a58-44410086ba23": "2026-11-15",
   "paylocity:0c6e953e-969a-4bb6-a5ec-6ca8b1ad0436": "2026-11-15",
   "paylocity:0cdcd78d-79e0-4a6b-a633-b39f86b88bf9": "2026-11-15",
+  "paylocity:0d0cdb98-ced2-44b9-b079-e37b2ae9a19b": "2026-11-15",
   "paylocity:0db44b81-4269-44e5-9d68-47ba1208c6d1": "2026-11-15",
   "paylocity:0ebade6c-b3ec-4b29-900b-5303ca374b90": "2026-11-15",
+  "paylocity:0eed7c03-694e-454b-8e29-7abbbc8e65b5": "2026-11-15",
+  "paylocity:0f3ed00e-4291-47c3-99cb-5d052bd19190": "2026-11-15",
   "paylocity:0fe25160-2fdc-4463-8886-028a240c27a0": "2026-11-15",
   "paylocity:1078af34-40eb-4989-83a3-3a2138324f69": "2026-11-14",
   "paylocity:10c8ea62-0f5a-43ec-9ac1-4863af798914": "2026-11-14",
@@ -9926,17 +9930,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 9,
+   "n": 10,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 9,
+   "n": 10,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 9,
+   "n": 10,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -9980,6 +9984,11 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
+  },
+  "greenhouse:aisquared": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-15"
   },
   "greenhouse:alma": {
    "disabled_until": "2026-11-21",
@@ -10334,6 +10343,16 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-14"
+  },
+  "icims:careers-cotiviti.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-15"
+  },
+  "icims:careers-eyesouthpartners.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-15"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-21",
@@ -10871,7 +10890,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 7,
+   "n": 8,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -10936,7 +10955,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 8,
+   "n": 9,
    "since": "2026-11-14"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -10983,7 +11002,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 8,
+   "n": 9,
    "since": "2026-11-14"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -11220,7 +11239,7 @@
   ],
   "2026-11-15": [
    34,
-   119
+   122
   ]
  },
  "resolved": {
@@ -56541,6 +56560,8 @@
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210795450": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210803303": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210804903": "2026-11-14",
+  "paylocity:0eed7c03-694e-454b-8e29-7abbbc8e65b5:4646633": "2026-11-15",
+  "paylocity:0eed7c03-694e-454b-8e29-7abbbc8e65b5:4646636": "2026-11-15",
   "paylocity:1ca6e21b-05e4-4ea7-96a8-e7c653b166e0:4275642": "2026-11-15",
   "paylocity:1e7cdaa1-4aaf-417f-be26-c3800bce510b:4559639": "2026-11-15",
   "phenom:careers.cargurus.com|us/en:CABCARUS8204313EXTERNALENUS": "2026-11-14",
@@ -58048,6 +58069,8 @@
   "workday:snapfinance|wd1|snap_external_careers:R-2983": "2026-11-14",
   "workday:son|wd108|NebraskaStateCareers:JR2026-00030103": "2026-11-14",
   "workday:spectris|wd3|HBK_Careers:18997": "2026-11-14",
+  "workday:ssctech|wd1|ssctechnologies:R46067": "2026-11-15",
+  "workday:ssctech|wd1|ssctechnologies:R46427": "2026-11-15",
   "workday:statestreet|wd1|Global:R-790785": "2026-11-14",
   "workday:statestreet|wd1|Global:R-798461": "2026-11-14",
   "workday:statestreet|wd1|Global:R-800933": "2026-11-14",
@@ -58235,10 +58258,10 @@
  },
  "source_last": {
   "hn": "2026-11-15T04:49:36+00:00",
-  "remoteok": "2026-11-15T03:43:51+00:00",
+  "remoteok": "2026-11-15T05:52:10+00:00",
   "usajobs": "2026-11-15T04:49:36+00:00",
   "workable_search": "2026-11-15T04:49:36+00:00",
-  "wwr": "2026-11-15T04:49:36+00:00",
+  "wwr": "2026-11-15T05:52:10+00:00",
   "yc": "2026-11-15T04:49:36+00:00"
  },
  "title_rules": "72f554d20a7f",
