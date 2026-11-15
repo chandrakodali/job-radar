@@ -10303,17 +10303,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 83,
+   "n": 84,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 83,
+   "n": 84,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 83,
+   "n": 84,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -10357,6 +10357,11 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-11"
+  },
+  "greenhouse:aisquared": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-15"
   },
   "greenhouse:alma": {
    "disabled_until": "2026-11-21",
@@ -10789,11 +10794,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-09"
-  },
-  "icims:expleo-jobs-gb-en.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-15"
   },
   "icims:external-careers-friedkin.icims.com": {
    "disabled_until": "2026-11-16",
@@ -12770,7 +12770,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 14,
+   "n": 15,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12835,7 +12835,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 82,
+   "n": 83,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12882,7 +12882,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 53,
+   "n": 54,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -58969,10 +58969,12 @@
   "workday:medimpact|wd5|medimpact:JR102972": "2026-11-09",
   "workday:medtronic|wd1|MedtronicCareers:R63958": "2026-11-12",
   "workday:medtronic|wd1|MedtronicCareers:R68509": "2026-11-12",
+  "workday:medtronic|wd1|MedtronicCareers:R80589": "2026-11-15",
   "workday:medtronic|wd1|MedtronicCareers:R81529": "2026-11-12",
   "workday:medtronic|wd1|MedtronicCareers:R81875": "2026-11-12",
   "workday:medtronic|wd1|redeploymentmedtroniccareers:R63958": "2026-11-12",
   "workday:medtronic|wd1|redeploymentmedtroniccareers:R68509": "2026-11-12",
+  "workday:medtronic|wd1|redeploymentmedtroniccareers:R80589": "2026-11-15",
   "workday:medtronic|wd1|redeploymentmedtroniccareers:R81529": "2026-11-12",
   "workday:medtronic|wd1|redeploymentmedtroniccareers:R81827": "2026-11-12",
   "workday:medtronic|wd1|redeploymentmedtroniccareers:R81875": "2026-11-12",
