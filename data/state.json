@@ -9703,6 +9703,11 @@
   "greenhouse:yipitdata:8329263": "2026-11-12"
  },
  "fails": {
+  "apple:usa": {
+   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
+   "n": 1,
+   "since": "2026-11-15"
+  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-18",
    "err": "HTTP 404",
@@ -10023,17 +10028,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 80,
+   "n": 81,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 80,
+   "n": 81,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 80,
+   "n": 81,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12485,7 +12490,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 11,
+   "n": 12,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12550,7 +12555,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 79,
+   "n": 80,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12597,7 +12602,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 50,
+   "n": 51,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -12850,8 +12855,8 @@
    356
   ],
   "2026-11-15": [
-   25,
-   52
+   26,
+   56
   ]
  },
  "resolved": {
@@ -55633,6 +55638,7 @@
   "catsone:33704placement:16864523": "2026-11-14",
   "catsone:3kc:16799942": "2026-11-14",
   "catsone:3kc:16837383": "2026-11-14",
+  "catsone:alteo:16543886": "2026-11-15",
   "catsone:alteo:16809278": "2026-11-14",
   "catsone:alteo:16810889": "2026-11-14",
   "catsone:alteo:16813050": "2026-11-14",
@@ -56036,6 +56042,7 @@
   "eightfold:nvidia:893393669632": "2026-11-15",
   "eightfold:nvidia:893393995133": "2026-11-15",
   "eightfold:nvidia:893394115789": "2026-11-14",
+  "eightfold:nvidia:893394206119": "2026-11-15",
   "eightfold:nvidia:893394241567": "2026-11-14",
   "eightfold:nvidia:893395121939": "2026-11-15",
   "eightfold:nvidia:893396402568": "2026-11-15",
@@ -56326,6 +56333,7 @@
   "greenhouse:hearst:4466291009": "2026-11-07",
   "greenhouse:hearst:4466333009": "2026-11-07",
   "greenhouse:hearst:4478841009": "2026-11-07",
+  "greenhouse:hearst:4504175009": "2026-11-15",
   "greenhouse:hp:6251120004": "2026-11-07",
   "greenhouse:hubspotjobs:8256969": "2026-11-13",
   "greenhouse:icarus:5476156008": "2026-11-09",
@@ -56470,6 +56478,7 @@
   "icims:bowheadcareers-uicalaska.icims.com:26573": "2026-11-09",
   "icims:bowheadcareers-uicalaska.icims.com:26579": "2026-11-09",
   "icims:bowheadcareers-uicalaska.icims.com:26656": "2026-11-12",
+  "icims:bowheadcareers-uicalaska.icims.com:26666": "2026-11-15",
   "icims:careers-aluminumdynamics.icims.com:8075": "2026-11-09",
   "icims:careers-americansystems.icims.com:4527": "2026-11-12",
   "icims:careers-americansystems.icims.com:4529": "2026-11-12",
@@ -56913,6 +56922,7 @@
   "icims:careers-steampunk.icims.com:8389": "2026-11-12",
   "icims:careers-steeldynamics.icims.com:8343": "2026-11-09",
   "icims:careers-stifel.icims.com:8624": "2026-11-12",
+  "icims:careers-stifel.icims.com:9745": "2026-11-15",
   "icims:careers-stifel.icims.com:9794": "2026-11-09",
   "icims:careers-stifel.icims.com:9795": "2026-11-09",
   "icims:careers-stonex.icims.com:16602": "2026-11-09",
@@ -56998,6 +57008,9 @@
   "icims:jobs-bylight.icims.com:10978": "2026-11-12",
   "icims:jobs-bylight.icims.com:11057": "2026-11-09",
   "icims:jobs-bylight.icims.com:11154": "2026-11-09",
+  "icims:jobs-bylight.icims.com:11176": "2026-11-15",
+  "icims:jobs-bylight.icims.com:11177": "2026-11-15",
+  "icims:jobs-bylight.icims.com:11178": "2026-11-15",
   "icims:jobs-bylight.icims.com:11180": "2026-11-09",
   "icims:jobs-bylight.icims.com:11181": "2026-11-12",
   "icims:jobs-bylight.icims.com:11223": "2026-11-09",
@@ -57052,6 +57065,7 @@
   "jazzhr:crackajackdigitalsolutionsllc:C84nE7Kocj": "2026-11-12",
   "jazzhr:crackajackdigitalsolutionsllc:e4aCbhwy6u": "2026-11-09",
   "jazzhr:crackajackdigitalsolutionsllc:fOBVBHxHSf": "2026-11-09",
+  "jazzhr:crackajackdigitalsolutionsllc:jIVIswjKI1": "2026-11-15",
   "jazzhr:ctcgroup:5DJzv4jgeM": "2026-11-09",
   "jazzhr:ctcgroup:HSWlbuyJIP": "2026-11-10",
   "jazzhr:ctcgroup:LDHsuXjHJF": "2026-11-09",
@@ -57136,6 +57150,7 @@
   "jazzhr:intellipro:KooqaTqcwJ": "2026-11-09",
   "jazzhr:intellipro:QJefkbDsQk": "2026-11-09",
   "jazzhr:intellipro:R4PfTsWHf3": "2026-11-09",
+  "jazzhr:intellipro:gLbwG8aDGS": "2026-11-15",
   "jazzhr:intellisensesystemsinc:QtqxKKuOAd": "2026-11-13",
   "jazzhr:ketkentuckyeducationaltelevision:vz6bGjb10L": "2026-11-09",
   "jazzhr:lentechinc:EnHNePgiVI": "2026-11-09",
@@ -58164,6 +58179,8 @@
   "tiktok:us:7600582133919189253": "2026-11-14",
   "tiktok:us:7604905572195371269": "2026-11-14",
   "tiktok:us:7604908702463314181": "2026-11-14",
+  "tiktok:us:7605333093151885621": "2026-11-15",
+  "tiktok:us:7605333525314685237": "2026-11-15",
   "tiktok:us:7605339679789091125": "2026-11-14",
   "tiktok:us:7605339679789844789": "2026-11-14",
   "tiktok:us:7619157841027598597": "2026-11-14",
@@ -58357,6 +58374,7 @@
   "workday:biamp|wd12|Biamp:JR100451": "2026-11-07",
   "workday:blackbaud|wd1|ExternalCareers:R0014783": "2026-11-14",
   "workday:blackline|wd108|BlackLineCareers:001423": "2026-11-12",
+  "workday:blackline|wd108|BlackLineCareers:001579": "2026-11-15",
   "workday:blueorigin|wd5|blueorigin:R72869": "2026-11-12",
   "workday:blueorigin|wd5|blueorigin:R75571": "2026-11-12",
   "workday:bluescopenac|wd5|BNACareers:REQ-3486": "2026-11-11",
@@ -58540,6 +58558,7 @@
   "workday:guidehouse|wd1|external:43194": "2026-11-12",
   "workday:guidewire|wd5|external:JR_14836": "2026-11-12",
   "workday:halma|wd3|Halma:JR26_000880": "2026-11-07",
+  "workday:hargreaveslansdown|wd3|hargreaveslansdown:R9716": "2026-11-15",
   "workday:hastingsdirect|wd3|external_careers:60013763": "2026-11-09",
   "workday:hcsc|wd1|HCSC_External:R0056390": "2026-11-07",
   "workday:hcsc|wd1|HCSC_External:R0056467": "2026-11-12",
@@ -58583,6 +58602,7 @@
   "workday:idexcorp|wd5|idex_careers:R-10255": "2026-11-07",
   "workday:ing|wd3|icsgblcor:REQ-10120531": "2026-11-12",
   "workday:intapp|wd1|Intapp:R2025433": "2026-11-07",
+  "workday:intapp|wd1|Intapp:R2025481": "2026-11-15",
   "workday:integritymarketing|wd1|Integrity:JR5054": "2026-11-07",
   "workday:invenergyllc|wd1|invenergycareers:R10401": "2026-11-12",
   "workday:invenergyllc|wd1|invenergycareers:R10729": "2026-11-12",
@@ -58986,6 +59006,15 @@
   "zoho:agileengine:248544000264434696": "2026-11-14",
   "zoho:agileengine:248544000264434702": "2026-11-14",
   "zoho:agileengine:248544000264434705": "2026-11-14",
+  "zoho:agileengine:248544000265311677": "2026-11-15",
+  "zoho:agileengine:248544000265312641": "2026-11-15",
+  "zoho:agileengine:248544000265314519": "2026-11-15",
+  "zoho:agileengine:248544000265314522": "2026-11-15",
+  "zoho:agileengine:248544000265316516": "2026-11-15",
+  "zoho:agileengine:248544000265319349": "2026-11-15",
+  "zoho:agileengine:248544000265319355": "2026-11-15",
+  "zoho:agileengine:248544000265319358": "2026-11-15",
+  "zoho:agileengine:248544000265319361": "2026-11-15",
   "zoho:aspire:503306000044665015": "2026-11-14",
   "zoho:blackswansearch:247146000000590084": "2026-11-14",
   "zoho:donweb:694925000009547001": "2026-11-14",
@@ -58997,12 +59026,12 @@
  },
  "source_last": {
   "hn": "2026-11-15T02:37:15+00:00",
-  "remoteok": "2026-11-15T02:37:15+00:00",
+  "remoteok": "2026-11-15T04:37:12+00:00",
   "usajobs": "2026-11-15T02:37:15+00:00",
   "workable_search": "2026-11-15T02:37:15+00:00",
-  "wwr": "2026-11-15T03:37:16+00:00",
+  "wwr": "2026-11-15T04:37:12+00:00",
   "yc": "2026-11-15T02:37:15+00:00"
  },
- "title_rules": "15160d40994f",
+ "title_rules": "c323075b4d70",
  "version": 1
 }
