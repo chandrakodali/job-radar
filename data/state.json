@@ -2812,6 +2812,7 @@
   "dover:bontuteur": "2026-11-14",
   "dover:brinc-drones": "2026-11-14",
   "dover:bubblesortrecruiting": "2026-11-14",
+  "dover:bud-discovery": "2026-11-15",
   "dover:buildontimbercareers": "2026-11-14",
   "dover:buildplaybooks": "2026-11-14",
   "dover:c-gen-ai": "2026-11-14",
@@ -2824,6 +2825,7 @@
   "dover:certive": "2026-11-15",
   "dover:chasi": "2026-11-11",
   "dover:cherrymoss": "2026-11-14",
+  "dover:churchilltechnologies": "2026-11-15",
   "dover:cicero": "2026-11-14",
   "dover:clad": "2026-11-14",
   "dover:clarahealth": "2026-11-14",
@@ -2836,6 +2838,15 @@
   "dover:comsparkint": "2026-11-15",
   "dover:concourse": "2026-11-15",
   "dover:conduit": "2026-11-11",
+  "dover:conveyor": "2026-11-15",
+  "dover:cosmic": "2026-11-15",
+  "dover:createbase": "2026-11-15",
+  "dover:crewful": "2026-11-15",
+  "dover:culture-impact": "2026-11-15",
+  "dover:daedaline": "2026-11-15",
+  "dover:danellc": "2026-11-15",
+  "dover:daydream-a787b547": "2026-11-15",
+  "dover:deepreel": "2026-11-15",
   "dover:dots": "2026-11-11",
   "dover:draftwise": "2026-11-11",
   "dover:duranium": "2026-11-11",
@@ -10322,17 +10333,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 106,
+   "n": 107,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 106,
+   "n": 107,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 106,
+   "n": 107,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12790,7 +12801,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 37,
+   "n": 38,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -13155,8 +13166,8 @@
    356
   ],
   "2026-11-15": [
-   121,
-   244
+   142,
+   282
   ]
  },
  "resolved": {
@@ -57792,6 +57803,7 @@
   "paylocity:59868e90-ae4e-4efd-9c7a-1eb8b9e09613:4661248": "2026-11-15",
   "paylocity:6166aed4-af42-4762-99e4-5d67a7cf6baa:4663035": "2026-11-15",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2019204EXTERNALENGLOBAL": "2026-11-12",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2022135EXTERNALENGLOBAL": "2026-11-15",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2025650EXTERNALENGLOBAL": "2026-11-12",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026031EXTERNALENGLOBAL": "2026-11-12",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026313EXTERNALENGLOBAL": "2026-11-10",
@@ -59349,10 +59361,10 @@
  "source_last": {
   "hn": "2026-11-15T14:37:16+00:00",
   "remoteok": "2026-11-15T16:37:16+00:00",
-  "usajobs": "2026-11-15T14:37:16+00:00",
-  "workable_search": "2026-11-15T14:37:16+00:00",
-  "wwr": "2026-11-15T16:37:16+00:00",
-  "yc": "2026-11-15T14:37:16+00:00"
+  "usajobs": "2026-11-15T17:37:20+00:00",
+  "workable_search": "2026-11-15T17:37:20+00:00",
+  "wwr": "2026-11-15T17:37:20+00:00",
+  "yc": "2026-11-15T17:37:20+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1

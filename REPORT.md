@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**702 jobs**, newest first. Updated Sun Nov 15, 11:07 AM CST from 10,713 company job boards and other sources.
+**702 jobs**, newest first. Updated Sun Nov 15, 11:37 AM CST from 10,713 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 204 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 837 matching jobs that job sites and feeds listed this week, 235 (28%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 875 matching jobs that job sites and feeds listed this week, 256 (29%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sun 15 (3)](#sunday-nov-15-3) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (93)](#thursday-nov-12-93) · [Wed 11 (47)](#wednesday-nov-11-47) · [Tue 10 (80)](#tuesday-nov-10-80) · [Mon 9 (55)](#monday-nov-9-55) · [Sun 8 (36)](#sunday-nov-8-36)
 
@@ -752,13 +752,14 @@ Jump to: [Sun 15 (3)](#sunday-nov-15-3) · [Sat 14 (325)](#saturday-nov-14-325) 
 | 4:32 PM | [Software Automation & Platform Engineer — Federal Health IT](https://job-boards.greenhouse.io/rackner/jobs/4752573005) | Rackner | Remote — United States (remote) | 62 |  |
 | 1:06 PM | [Security Engineer (Research Infrastructure)](https://jobs.ashbyhq.com/resolution/d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b) | Resolution | Berkeley, California; Remote (hybrid) | 58 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (740)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (741)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Senior Cloud Network Engineer](https://appliedmaterials.eightfold.ai/careers/job/790318496424) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 50 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
+| date only | [Digital Solutions and Platform Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2022135EXTERNALENGLOBAL) | Cisco | Maynard, Massachusetts, United States o… | 40 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:37 AM (seen) | [Senior GCP Data Engineer](https://app.dover.com/apply/comsparkint/d9ac491b-255d-4804-8118-073561933268) | Comsparkint | Sunnyvale, CA (onsite) | 35 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
 | 8:37 AM (seen) | [Senior Server and Patching Infrastructure Management Specialist](https://app.dover.com/apply/comsparkint/369667b8-a59d-44dc-ad8d-d1b1bd949678) | Comsparkint | Downey, CA (onsite) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 10:37 PM (seen) | [ITOPS Engineer – Logistics & Shipping](https://crackajackdigitalsolutionsllc.applytojob.com/apply/jIVIswjKI1/ITOPS-Engineer-Logistics-Shipping) | CrackaJack Digital Solutions … | Houston, TX | 15 | rules: 8+ yrs exp; asks for 8+ years of experience |
@@ -1157,7 +1158,6 @@ Jump to: [Sun 15 (3)](#sunday-nov-15-3) · [Sat 14 (325)](#saturday-nov-14-325) 
 | 4:34 AM | [Senior Payments Infrastructure Engineer — Crypto, Wallets & Blockchain](https://jobs.lever.co/jobgether/dfcf2cf4-e337-419a-8d67-0128bd84d2a1) | Jobgether | US (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 2:00 AM | [Sr Production Engineer](https://careers.mohawkind.com/mohawk/job/Thomasville-Sr-Production-Engineer-Nort-27360/1439186600/) | Mohawk | Thomasville, North Carolina, United Sta… | 38 | rules: 4+ yrs exp; senior title; adjacent title, little DevOps/cloud … |
 | 2:00 AM | [Senior Engineer, Site Reliability, IP](https://www.optimumcareers.com/job/Plano-Senior-Engineer%2C-Site-Reliability%2C-IP-TX-75024/1401177300/) | Altice USA | Plano, TX, United States | 33 | rules: 6+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
-| 12:51 AM | [Infrastructure Engineer](https://job-boards.greenhouse.io/machindustries/jobs/4488058009) | Mach Industries | Huntington Beach, California, United St… | 60 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; needs: ITAR |
 
 </details>
 
