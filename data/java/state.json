@@ -9930,17 +9930,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 10,
+   "n": 11,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 10,
+   "n": 11,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 10,
+   "n": 11,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -9987,7 +9987,7 @@
   },
   "greenhouse:aisquared": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-15"
   },
   "greenhouse:alma": {
@@ -10343,16 +10343,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-14"
-  },
-  "icims:careers-cotiviti.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-15"
-  },
-  "icims:careers-eyesouthpartners.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-15"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-21",
@@ -10890,7 +10880,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 8,
+   "n": 9,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11239,7 +11229,7 @@
   ],
   "2026-11-15": [
    34,
-   122
+   125
   ]
  },
  "resolved": {
@@ -53830,6 +53820,7 @@
   "amazon:us:10605044": "2026-11-14",
   "amazon:us:10605105": "2026-11-14",
   "amazon:us:10605142": "2026-11-14",
+  "amazon:us:10605448": "2026-11-15",
   "apple:usa:200555687": "2026-11-14",
   "apple:usa:200665281": "2026-11-14",
   "apple:usa:200666022": "2026-11-14",
@@ -58261,7 +58252,7 @@
   "remoteok": "2026-11-15T05:52:10+00:00",
   "usajobs": "2026-11-15T04:49:36+00:00",
   "workable_search": "2026-11-15T04:49:36+00:00",
-  "wwr": "2026-11-15T05:52:10+00:00",
+  "wwr": "2026-11-15T06:48:41+00:00",
   "yc": "2026-11-15T04:49:36+00:00"
  },
  "title_rules": "72f554d20a7f",
