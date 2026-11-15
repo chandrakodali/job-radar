@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**692 jobs**, newest first. Updated Sat Nov 14, 7:37 PM CST from 10,713 company job boards and other sources.
+**692 jobs**, newest first. Updated Sat Nov 14, 8:07 PM CST from 10,713 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -737,7 +737,7 @@ Jump to: [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (63)](#friday-nov-13-63
 | 1:06 PM | [Security Engineer (Research Infrastructure)](https://jobs.ashbyhq.com/resolution/d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b) | Resolution | Berkeley, California; Remote (hybrid) | 58 |  |
 | date only | [Senior Cloud Security Engineer](https://altera.wd1.myworkdayjobs.com/Altera/job/San-Jose-California-United-States/Senior-Cloud-Security-Engineer_R03389) | Altera | San Jose, California, United States | 43 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (772)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (753)
 
 <details><summary>Show</summary>
 
@@ -791,10 +791,12 @@ Jump to: [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (63)](#friday-nov-13-63
 | 2:37 PM (seen) | [Software Engineer, Recommendation Infrastructure](https://lifeattiktok.com/search/7322993115722336538) | TikTok | San Jose, California, United States of … | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:53 AM | [IT Operations Engineer](https://jobs.ashbyhq.com/physicalintelligence/16bfcb45-4056-4e8d-b1d7-7411fffeb5a1) | Physical Intelligence | San Francisco (onsite) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:20 AM | [Platform Engineer, Kubernetes](https://jobs.ashbyhq.com/Clera/dd57a8f6-ca07-43cc-8191-5ebc413d810e) | Clera | San Francisco (onsite) | 55 | rules: 5+ yrs exp; sponsors visas; asks for 5+ years of experience |
+| date only | [Senior Software Engineer - Distributed Systems Engineer, EDA Infrastr…](https://nvidia.eightfold.ai/careers/job/893397487444) | Nvidia | WA,US; Austin, TX, US; Westford, MA, US… (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Network Reliability Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893395121939) | Nvidia | Santa Clara, CA, US; US +1 more (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior AI Infrastructure Engineer - EDA Infrastructure](https://nvidia.eightfold.ai/careers/job/893397486935) | Nvidia | CA,US; Austin, TX, US; Westford, MA, US… (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Azure DevOps & Cloud Platform Engineer](https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Plano-TX-USA/Senior-Azure-DevOps---Cloud-Platform-Engineer_R26_0000003083) | Brown & Brown Insurance | Plano, TX, USA (hybrid) | 50 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | date only | [Sr. Aerospace Hardware Reliability Engineer, Prime Air](https://www.amazon.jobs/en/jobs/10605146/sr-aerospace-hardware-reliability-engineer-prime-air) | Amazon.com Services LLC | Seattle, Washington, USA | 30 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
+| date only | [Senior Network Security Engineer - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Security-Engineer---DGX-Cloud_JR2021512) | NVIDIA | US, CA, Santa Clara; US, Remote (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 6:00 PM | [Sr Network Engineer](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7099) | Black Box | United States | 30 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | 5:31 PM | [Systems Administrator](https://jobs.gem.com/firestorm/am9icG9zdDoOPrANoDSyqF4O069_DzWX) | Firestorm | San Diego, CA (onsite) | 35 | rules: 6+ yrs exp; needs: must be a U.S. citizen |
 | 4:37 PM | [Network Administrator-Senior](https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8434) | UTHealth Houston | San Antonio, TX, United States (hybrid) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
@@ -818,10 +820,10 @@ Jump to: [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (63)](#friday-nov-13-63
 | 12:03 PM | [Senior Storage Engineer](https://jobs.ashbyhq.com/Lambda/afc20b2c-92c5-4f3e-9284-82eba19b4738) | Lambda | San Jose Office (Zanker); San Jose Offi… (hybrid) | 45 | rules: 8+ yrs exp; senior title; priority company; asks for 8+ years … |
 | 11:40 AM | [Network Systems Engineer](https://careers.akima.com/jobs/27791?lang=en-us) | Akima | Lorton, Virginia | 45 | rules: 3+ yrs exp; needs: U.S. citizenship required |
 | 11:35 AM | [OT Network Engineer 1/2/3/Sr](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005943) | Berkshire Hathaway Energy | Omaha, NE, United States (onsite) | 45 | rules: entry-level title; 6+ yrs exp; senior title; asks for 6+ years… |
-| date only | [Network Operations Engineer II](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-II_R0018410) | Astreya | Denver, CO | 25 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Senior DevOps Platform Engineer](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-DevOps-Platform-Engineer_R-429469) | Humana | Louisville, KY; Charlotte, NC; Oak Broo… | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | date only | [Senior Infrastructure Automation Engineer, Compute Platform - EDA Inf…](https://nvidia.eightfold.ai/careers/job/893397232031) | Nvidia | NC,US; Austin, TX, US; US +1 more (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Systems Software Engineer- EDA Infrastructure](https://nvidia.eightfold.ai/careers/job/893397528298) | Nvidia | CA,US; Austin, TX, US; Westford, MA, US… (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
+| date only | [Network Operations Engineer II](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-II_R0018410) | Astreya | Denver, CO | 25 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [CI/CD and Infrastructure Engineer](https://apply.workable.com/opendatajobs/j/26D781EC2B/) | Opendatajobs | Washington, District of Columbia, Unite… | 58 | rules: needs: requires United States citizenship |
 | date only | [Associate DevSecOps Engineer (Python, CI/CD)](https://apply.workable.com/opendatajobs/j/8D66E46940/) | Opendatajobs | Washington, District of Columbia, Unite… | 68 | rules: entry-level title; needs: requires United States citizenship |
 | date only | [*AI & Cloud Native Full Stack Developer](https://www.careers.zurich.com/job/Schaumburg-AI-&-Cloud-Native-Full-Stack-Developer-IL-60159/1377504957/) | Zurich Insurance | Schaumburg, IL, US | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
@@ -1099,7 +1101,6 @@ Jump to: [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (63)](#friday-nov-13-63
 | date only | [Senior Cloud Software Engineer, DGXC Data Services](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--DGXC-Data-Services_JR2003389) | NVIDIA | US, CA, Santa Clara; US, Remote (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Software Engineer, Platform Engineering - EDA Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Remote/Senior-Software-Engineer--Platform-Engineering---EDA-Infrastructure_JR2029683) | NVIDIA | US, WA, Remote; US, MA, Westford; US, T… (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Storage Infrastructure Software Engineer - EDA Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Storage-Infrastructure-Software-Engineer_JR2026658) | NVIDIA | US, CA, Santa Clara; US, CO, Remote; US… (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| date only | [Senior Software Engineer - Distributed Systems Engineer, EDA Infrastr…](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Remote/Senior-Software-Engineer---Distributed-Systems-Engineer--EDA-Infrastructure_JR2024825-1) | NVIDIA | US, WA, Remote; US, MA, Westford; US, T… (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Network Deployment Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Deployment-Engineer_JR2029430-1) | NVIDIA | US, CA, Santa Clara; US, TX, Remote; US… (remote) | 15 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
 | date only | [Senior Storage Production Engineer - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Storage-Production-Engineer---DGX-Cloud_JR2019643) | NVIDIA | US, CA, Santa Clara; US, Remote (remote) | 15 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Sr. ADAS Release Engineer](https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Sr-ADAS-Release-Engineer_JR101337) | Slate Auto | Troy, Michigan | 28 | rules: senior title, years not stated; no future H-1B sponsorship; ad… |
@@ -1142,7 +1143,6 @@ Jump to: [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (63)](#friday-nov-13-63
 | 7:23 PM | [Build Engineer](https://jobs.ashbyhq.com/hadrian-automation/32bc8210-18d8-4f8f-99a8-702dcf59326f) | Hadrian | Los Angeles, CA (onsite) | 35 | rules: 5+ yrs exp; needs: must be a U.S. citizen |
 | 7:20 PM | [DevSecOps Engineer](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8199769003) | Dark Wolf Solutions | Colorado Springs, CO | 65 | rules: needs: security clearance |
 | 7:05 PM | [Test Infrastructure/Integration Engineer](https://jobs.ashbyhq.com/xona-space/47de67f1-f131-425f-9385-9374b84cf938) | Xona Space | Burlingame, California (onsite) | 70 | rules: needs: Security Clearance |
-| 6:48 PM | [Senior SRE, Site Experience](https://job-boards.greenhouse.io/reddit/jobs/8369767) | Reddit | Remote - United States (remote) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 
 </details>
 
