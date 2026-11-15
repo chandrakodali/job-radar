@@ -9990,6 +9990,11 @@
   "greenhouse:yipitdata:8329263": "2026-11-12"
  },
  "fails": {
+  "apple:usa": {
+   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
+   "n": 1,
+   "since": "2026-11-15"
+  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-18",
    "err": "HTTP 404",
@@ -10316,17 +10321,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 103,
+   "n": 104,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 103,
+   "n": 104,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 103,
+   "n": 104,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12784,12 +12789,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 15,
+   "n": 16,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 34,
+   "n": 35,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12854,7 +12859,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 99,
+   "n": 100,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12901,7 +12906,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 70,
+   "n": 71,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
