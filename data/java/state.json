@@ -6771,12 +6771,20 @@
   "paylocity:093ed2b1-ab2f-4a60-9277-0def6b949b65": "2026-11-14",
   "paylocity:0a25e82f-b947-4f8e-ba92-cd428be483f8": "2026-11-14",
   "paylocity:0a5e3ff1-7892-4cad-8ae3-5be8d4fb306a": "2026-11-14",
+  "paylocity:0a72dcd6-2616-4d0e-9946-d3a182c43706": "2026-11-15",
   "paylocity:0a7d4d9a-bc92-4826-8481-a7946feb088e": "2026-11-14",
   "paylocity:0a905d5c-8e08-4ccd-a89d-45d8f8bb18b0": "2026-11-14",
+  "paylocity:0ae74d27-4bee-496d-876c-85c8734845c9": "2026-11-15",
   "paylocity:0b0e65d8-0e53-499c-b510-583fa42f82ed": "2026-11-14",
   "paylocity:0b639416-fcca-4152-8802-c07fe7dab59b": "2026-11-15",
+  "paylocity:0b6cc596-ce53-4e9d-9b26-b235ed9830c6": "2026-11-15",
   "paylocity:0ba946fa-bf1f-4728-a713-4bfe119c1d36": "2026-11-15",
   "paylocity:0bf68f9e-dbb5-4e2b-8a58-44410086ba23": "2026-11-15",
+  "paylocity:0c6e953e-969a-4bb6-a5ec-6ca8b1ad0436": "2026-11-15",
+  "paylocity:0cdcd78d-79e0-4a6b-a633-b39f86b88bf9": "2026-11-15",
+  "paylocity:0db44b81-4269-44e5-9d68-47ba1208c6d1": "2026-11-15",
+  "paylocity:0ebade6c-b3ec-4b29-900b-5303ca374b90": "2026-11-15",
+  "paylocity:0fe25160-2fdc-4463-8886-028a240c27a0": "2026-11-15",
   "paylocity:1078af34-40eb-4989-83a3-3a2138324f69": "2026-11-14",
   "paylocity:10c8ea62-0f5a-43ec-9ac1-4863af798914": "2026-11-14",
   "paylocity:10d74e65-36ac-49d3-bd03-22487604cb5e": "2026-11-14",
@@ -6836,6 +6844,16 @@
   "paylocity:1eb1c718-b8cb-461a-96be-05c9e0d4ea64": "2026-11-15",
   "paylocity:1eb2056f-e8c4-4a8e-b32c-a3f7342ed63c": "2026-11-15",
   "paylocity:1f6646e7-85ad-409e-a5ca-201986d6b243": "2026-11-15",
+  "paylocity:1f710105-5762-4bb6-aea9-fd82219ad163": "2026-11-15",
+  "paylocity:1ff44d16-41c3-42b6-93b9-ee9ef32d5502": "2026-11-15",
+  "paylocity:20c9b648-b2ff-4d0b-a61b-562f1bb835e1": "2026-11-15",
+  "paylocity:20d81393-dec0-47cb-8c95-d959dc946c11": "2026-11-15",
+  "paylocity:20e02e5e-d00f-4182-a3a1-8c8a2ea68208": "2026-11-15",
+  "paylocity:20edfbd6-2afa-4ae8-b72d-a3c33859b62c": "2026-11-15",
+  "paylocity:2154eef0-21a4-4904-85d8-0b840d9287fc": "2026-11-15",
+  "paylocity:22085c9a-af87-41a8-9daa-331dbbf3e809": "2026-11-15",
+  "paylocity:22857e96-d8ad-440b-adfe-d254d80c8b71": "2026-11-15",
+  "paylocity:229b24a5-150d-4425-ba84-824f84a93e6a": "2026-11-15",
   "personio:1komma5grad.jobs.personio.de": "2026-11-14",
   "personio:360t.jobs.personio.de": "2026-11-14",
   "personio:420pharma.jobs.personio.de": "2026-11-14",
@@ -9908,17 +9926,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 7,
+   "n": 8,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 7,
+   "n": 8,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 7,
+   "n": 8,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -10853,7 +10871,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 5,
+   "n": 6,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -10918,7 +10936,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-14"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -10965,7 +10983,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 6,
+   "n": 7,
    "since": "2026-11-14"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -11202,7 +11220,7 @@
   ],
   "2026-11-15": [
    17,
-   57
+   60
   ]
  },
  "resolved": {
@@ -54846,6 +54864,7 @@
   "eightfold:nvidia:893397728741": "2026-11-14",
   "eightfold:nvidia:893397787398": "2026-11-14",
   "eightfold:nvidia:893397891086": "2026-11-14",
+  "eightfold:nvidia:893397913224": "2026-11-15",
   "eightfold:nvidia:893398361937": "2026-11-14",
   "eightfold:nvidia:893398376585": "2026-11-14",
   "eightfold:nvidia:893398397345": "2026-11-14",
@@ -58147,6 +58166,7 @@
   "yc:workatastartup:93346": "2026-11-14",
   "yc:workatastartup:95713": "2026-11-14",
   "zoho:agileengine:248544000264794844": "2026-11-14",
+  "zoho:agileengine:248544000264794856": "2026-11-15",
   "zoho:agileengine:248544000264795993": "2026-11-14",
   "zoho:agileengine:248544000264798874": "2026-11-14",
   "zoho:agileengine:248544000264798889": "2026-11-14",
@@ -58155,6 +58175,7 @@
   "zoho:agileengine:248544000264801459": "2026-11-14",
   "zoho:agileengine:248544000264801465": "2026-11-14",
   "zoho:agileengine:248544000264801473": "2026-11-14",
+  "zoho:agileengine:248544000264804303": "2026-11-15",
   "zoho:agileengine:248544000264804321": "2026-11-14",
   "zoho:agileengine:248544000264806171": "2026-11-14",
   "zoho:agileengine:248544000264808379": "2026-11-14",
@@ -58209,10 +58230,10 @@
  },
  "source_last": {
   "hn": "2026-11-14T21:51:02+00:00",
-  "remoteok": "2026-11-15T01:44:52+00:00",
+  "remoteok": "2026-11-15T03:43:51+00:00",
   "usajobs": "2026-11-15T00:51:00+00:00",
   "workable_search": "2026-11-15T00:51:00+00:00",
-  "wwr": "2026-11-15T01:57:02+00:00",
+  "wwr": "2026-11-15T03:43:51+00:00",
   "yc": "2026-11-15T00:51:00+00:00"
  },
  "title_rules": "72f554d20a7f",
