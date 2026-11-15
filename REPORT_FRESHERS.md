@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**689 jobs**, newest first. Updated Sun Nov 15, 12:19 AM CST from 10,713 company job boards and other sources.
+**689 jobs**, newest first. Updated Sun Nov 15, 1:20 AM CST from 10,713 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -734,13 +734,17 @@ Jump to: [Sat 14 (144)](#saturday-nov-14-144) · [Fri 13 (147)](#friday-nov-13-1
 | 2:00 AM | [Specialist Growth & Transformation Software Engineering BUILD Program](https://careers.acuityinc.com/job/Atlanta-Specialist-Growth-&-Transformation-Software-Engineering-BUILD-Program-GA-30309/1429282700/) | Acuity | Atlanta, GA, US | 78 | 0-2 yrs exp; entry level (from the text); E-Verify |
 | 2:00 AM | [Specialist Firmware Engineering BUILD Program (July)](https://careers.acuityinc.com/job/Atlanta-Specialist-Firmware-Engineering-BUILD-Program-%28July%29-GA-30309/1428876800/) | Acuity | Atlanta, GA, US | 63 | entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2780)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2783)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2028825EXTERNALENGLOBAL) | Cisco | Milpitas, California, United States of … | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [IT Technical Specialist](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/IT-Technical-Specialist_R0173102-11) | Amentum | US-TX-Houston (onsite) | 65 | rules: 3+ yrs exp; needs: security clearance |
+| date only | [Quality Assurance Specialist - Spring Valley, IL](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Spring-Valley-IL/Quality-Assurance-Specialist---Spring-Valley--IL_JR0000045259) | Marmon Holdings | Spring Valley, IL | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Software Development Engineer, Live and Linear Catalog](https://www.amazon.jobs/en/jobs/10605448/software-development-engineer-live-and-linear-catalog) | Amazon.com Services LLC | Seattle, Washington, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Machine Learning Engineer, CreativeFlux, AI Studios](https://www.amazon.jobs/en/jobs/10605453/machine-learning-engineer-creativeflux-ai-studios) | Amazon.com Services LLC | New York, New York, USA | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:23 PM | [RVP, Solutions Engineering, Enterprise](https://jobs.ashbyhq.com/factory/b553864f-79f2-4b45-9e66-550c31cf0e1c) | Factory | San Francisco, CA | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:19 PM (seen) | [ITOPS Engineer – Logistics & Shipping](https://crackajackdigitalsolutionsllc.applytojob.com/apply/jIVIswjKI1/ITOPS-Engineer-Logistics-Shipping) | CrackaJack Digital Solutions … | Houston, TX | 30 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:19 PM (seen) | [DevSecOps Engineer - JobID-0331](https://idtus.pinpointhq.com/en/postings/b542c38e-8f15-4abc-b9c8-302d09b8a21d) | Innovative Defense Technologi… | Arlington, VA +3 more (hybrid) | 35 | rules: 5+ yrs exp; needs: Security Clearance |
@@ -873,7 +877,6 @@ Jump to: [Sat 14 (144)](#saturday-nov-14-144) · [Fri 13 (147)](#friday-nov-13-1
 | 11:20 AM | [Platform Engineer, Kubernetes](https://jobs.ashbyhq.com/Clera/dd57a8f6-ca07-43cc-8191-5ebc413d810e) | Clera | San Francisco (onsite) | 55 | rules: 5+ yrs exp; sponsors visas; asks for 5+ years of experience |
 | 11:16 AM | [Mid-Level Machine Learning Engineer](https://jobs.ashbyhq.com/Clera/e43d448b-9a86-4b2e-998d-a0c84b55ecae) | Clera | San Francisco, United States (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 11:08 AM | [Founding Backend Engineer](https://jobs.ashbyhq.com/Clera/37ee14c8-272b-4f9e-9958-981429d7aef2) | Clera | San Francisco (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| date only | [Software Engineer (Hybrid)](https://careers.cisco.com/global/en/job/CISCISGLOBAL2027857EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | date only | [Founding Backend Software Engineer](https://apply.workable.com/raydar/j/D311E320DC/) | Raydar | New York, New York, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Machine Learning Research Engineer](https://apply.workable.com/raydar/j/513FBA0DB3/) | Raydar | New York, New York, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Data Scientist](https://mckesson.wd3.myworkdayjobs.com/Sourcer_On_Req/job/USA-Remote/Data-Scientist_JR0152158-2) | McKesson | USA, Remote (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
@@ -1137,8 +1140,5 @@ Jump to: [Sat 14 (144)](#saturday-nov-14-144) · [Fri 13 (147)](#friday-nov-13-1
 | date only | [Solutions Consultant](https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Remote---United-Arab-Emirates/XMLNAME--Domain-Consultant---Security-Operations-Transformation--Cortex-_JR-016576) | Palo Alto Networks | Remote - United Arab Emirates +3 more (remote) | 42 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | date only | [Data Integration Developer](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Resource-Planning-Analyst_R162113) | Ohio State University | Columbus Campus (hybrid) | 65 | rules: 4+ yrs exp; no future H-1B sponsorship; likely H-1B cap-exempt… |
 | date only | [Software Engineer](https://northwesternmutual.wd5.myworkdayjobs.com/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/Software-Engineer_JR-46279) | Northwestern Mutual | Milwaukee, WI Corporate | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Global Security Operations Center (GSOC) Operator](https://newbalance.wd1.myworkdayjobs.com/Careers/job/Boston-MA-Headquarters---NB/Global-Security-Operations-Center--GSOC--Operator_R41723-1) | New Balance | Boston, MA Headquarters - (NB) | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Global Security Operations Center (GSOC) Analyst](https://newbalance.wd1.myworkdayjobs.com/Careers/job/Boston-MA-Headquarters---NB/Global-Security-Operations-Center--GSOC--Analyst_R41721) | New Balance | Boston, MA Headquarters - (NB) | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [Technical Support Analyst (Hybrid)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Technical-Support-Specialist--Hybrid-_R66641) | Motorola | Allen, TX (TX139) | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 
 </details>

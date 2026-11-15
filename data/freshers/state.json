@@ -9866,6 +9866,11 @@
    "n": 3,
    "since": "2026-11-13"
   },
+  "ashby:sharedcontextlab": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-15"
+  },
   "ashby:tavily": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 404",
@@ -9940,17 +9945,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 35,
+   "n": 36,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 35,
+   "n": 36,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 35,
+   "n": 36,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -9997,7 +10002,7 @@
   },
   "greenhouse:aisquared": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-15"
   },
   "greenhouse:alma": {
@@ -11328,7 +11333,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 8,
+   "n": 9,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -11393,7 +11398,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 32,
+   "n": 33,
    "since": "2026-11-13"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11440,7 +11445,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 29,
+   "n": 30,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -54379,6 +54384,8 @@
   "amazon:us:10605139": "2026-11-14",
   "amazon:us:10605142": "2026-11-14",
   "amazon:us:10605423": "2026-11-14",
+  "amazon:us:10605448": "2026-11-15",
+  "amazon:us:10605453": "2026-11-15",
   "apple:usa:200555687": "2026-11-14",
   "apple:usa:200607680": "2026-11-14",
   "apple:usa:200637194": "2026-11-14",
@@ -61988,7 +61995,9 @@
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2027792EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2027857EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2027991EXTERNALENGLOBAL": "2026-11-13",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028744EXTERNALENGLOBAL": "2026-11-15",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028784EXTERNALENGLOBAL": "2026-11-13",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028825EXTERNALENGLOBAL": "2026-11-15",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028942EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029037EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029049EXTERNALENGLOBAL": "2026-11-13",
@@ -66743,6 +66752,7 @@
   "workday:manulife|wd3|MFCJH_adminJobs:JR26040049": "2026-11-13",
   "workday:markelcorp|wd5|GlobalCareers:R0024221": "2026-11-13",
   "workday:marmon|wd501|Marmon_Careers:JR0000044624": "2026-11-13",
+  "workday:marmon|wd501|Marmon_Careers:JR0000045259": "2026-11-15",
   "workday:marmon|wd501|Marmon_Careers:JR0000046834": "2026-11-13",
   "workday:marmon|wd501|Marmon_Careers:JR0000047028": "2026-11-13",
   "workday:mars|wd3|external:R171966": "2026-11-13",
