@@ -90,6 +90,8 @@
   "adp:1c7fb0ee-a452-42a0-bb0d-786747fc0bb0|19000101_000001": "2026-11-15",
   "adp:1d9ccec1-d6da-412b-ab38-cabbc1bf7ddb": "2026-11-14",
   "adp:1daa29d0-946c-4cf1-acaa-3b2fd538c885|19000101_000001": "2026-11-15",
+  "adp:1dbdd623-584f-49ff-9c37-77cd8670f636|19000101_000001": "2026-11-15",
+  "adp:1e214623-c126-4ee7-a61f-d40253fd1123|19000101_000001": "2026-11-15",
   "adp:1e91abd5-1792-441f-a40a-9a4e07f3f772": "2026-11-14",
   "adp:1e9da297-cdb2-48e5-b3a9-8c5367547143|19000101_000001": "2026-11-15",
   "adp:1eb23985-07bc-4029-abf7-ea825bdd7416|19000101_000001": "2026-11-15",
@@ -11543,17 +11545,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 26,
+   "n": 27,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 26,
+   "n": 27,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 26,
+   "n": 27,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12500,7 +12502,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 24,
+   "n": 25,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12565,7 +12567,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 21,
+   "n": 22,
    "since": "2026-11-14"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12612,7 +12614,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 21,
+   "n": 22,
    "since": "2026-11-14"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -12850,7 +12852,7 @@
   ],
   "2026-11-15": [
    111,
-   422
+   425
   ]
  },
  "resolved": {
@@ -64025,6 +64027,7 @@
   "avature:justicejobs.avature.net|internalcareers:24118": "2026-11-15",
   "avature:justicejobs.avature.net|internalcareers:24211": "2026-11-15",
   "avature:mccannwg.avature.net|careersinternal:6115": "2026-11-15",
+  "avature:mercadona.avature.net|Careers:314123": "2026-11-15",
   "avature:metlife.avature.net|en_US/ml:21255": "2026-11-14",
   "avature:metlife.avature.net|en_US/ml:21427": "2026-11-14",
   "avature:metlife.avature.net|en_US/ml:21474": "2026-11-14",
@@ -68479,10 +68482,10 @@
  },
  "source_last": {
   "hn": "2026-11-15T17:13:24+00:00",
-  "remoteok": "2026-11-15T20:19:04+00:00",
+  "remoteok": "2026-11-15T22:23:58+00:00",
   "usajobs": "2026-11-15T21:24:55+00:00",
   "workable_search": "2026-11-15T21:24:55+00:00",
-  "wwr": "2026-11-15T21:24:55+00:00",
+  "wwr": "2026-11-15T22:23:58+00:00",
   "yc": "2026-11-15T21:24:55+00:00"
  },
  "title_rules": "72f554d20a7f",
