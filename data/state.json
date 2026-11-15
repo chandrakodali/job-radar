@@ -2813,6 +2813,7 @@
   "dover:casaphq": "2026-11-14",
   "dover:castle": "2026-11-11",
   "dover:centurainc": "2026-11-14",
+  "dover:certive": "2026-11-15",
   "dover:chasi": "2026-11-11",
   "dover:cherrymoss": "2026-11-14",
   "dover:cicero": "2026-11-14",
@@ -2822,6 +2823,7 @@
   "dover:cloudwaveinc": "2026-11-14",
   "dover:codeclimate": "2026-11-14",
   "dover:codingal": "2026-11-11",
+  "dover:concourse": "2026-11-15",
   "dover:conduit": "2026-11-11",
   "dover:dots": "2026-11-11",
   "dover:draftwise": "2026-11-11",
@@ -10229,6 +10231,11 @@
    "n": 3,
    "since": "2026-11-11"
   },
+  "ashby:sharedcontextlab": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-15"
+  },
   "ashby:tavily": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 404",
@@ -10303,17 +10310,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 85,
+   "n": 86,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 85,
+   "n": 86,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 85,
+   "n": 86,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -10359,8 +10366,9 @@
    "since": "2026-11-11"
   },
   "greenhouse:aisquared": {
+   "disabled_until": "2026-11-22",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-15"
   },
   "greenhouse:alma": {
@@ -12770,7 +12778,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 16,
+   "n": 17,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12835,7 +12843,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 84,
+   "n": 85,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12882,7 +12890,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 55,
+   "n": 56,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -13034,6 +13042,11 @@
    "err": "HTTP 422",
    "n": 4,
    "since": "2026-11-08"
+  },
+  "workday:tysonfoods|wd5|TSN": {
+   "err": "invalid JSON",
+   "n": 1,
+   "since": "2026-11-15"
   },
   "workday:usicinc|wd5|USICCareers": {
    "disabled_until": "2026-11-22",
