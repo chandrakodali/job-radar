@@ -2789,6 +2789,7 @@
   "dover:belva-ai": "2026-11-14",
   "dover:betriax": "2026-11-14",
   "dover:beyondlabs-cf291676": "2026-11-14",
+  "dover:bildbot": "2026-11-15",
   "dover:biztechjobs": "2026-11-15",
   "dover:blue-voice-inc": "2026-11-15",
   "dover:bontuteur": "2026-11-15",
@@ -9936,17 +9937,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 15,
+   "n": 16,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 15,
+   "n": 16,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 15,
+   "n": 16,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -10887,12 +10888,12 @@
   },
   "workday:bacardi|wd3|Jobs_Bacardi": {
    "err": "HTTP 401",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-15"
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 13,
+   "n": 14,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -10957,7 +10958,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 12,
+   "n": 13,
    "since": "2026-11-14"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -11004,7 +11005,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 12,
+   "n": 13,
    "since": "2026-11-14"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -11240,8 +11241,8 @@
    65
   ],
   "2026-11-15": [
-   51,
-   185
+   68,
+   244
   ]
  },
  "resolved": {
@@ -54174,6 +54175,7 @@
   "bamboohr:fourkitchens:6": "2026-11-14",
   "bamboohr:fullbay:261": "2026-11-14",
   "bamboohr:geospectrum:298": "2026-11-14",
+  "bamboohr:grey:58": "2026-11-15",
   "bamboohr:grey:83": "2026-11-14",
   "bamboohr:lexical:85": "2026-11-14",
   "bamboohr:lunaroutpost:359": "2026-11-14",
@@ -58264,12 +58266,12 @@
   "zoho:virtualcolleague:805869000004420928": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-15T04:49:36+00:00",
-  "remoteok": "2026-11-15T08:49:58+00:00",
-  "usajobs": "2026-11-15T07:46:30+00:00",
-  "workable_search": "2026-11-15T07:46:30+00:00",
-  "wwr": "2026-11-15T10:21:03+00:00",
-  "yc": "2026-11-15T07:46:30+00:00"
+  "hn": "2026-11-15T11:16:15+00:00",
+  "remoteok": "2026-11-15T11:16:15+00:00",
+  "usajobs": "2026-11-15T11:16:15+00:00",
+  "workable_search": "2026-11-15T11:16:15+00:00",
+  "wwr": "2026-11-15T11:16:15+00:00",
+  "yc": "2026-11-15T11:16:15+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
