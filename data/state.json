@@ -7973,6 +7973,7 @@
   "paylocity:0a905d5c-8e08-4ccd-a89d-45d8f8bb18b0": "2026-11-14",
   "paylocity:0ae74d27-4bee-496d-876c-85c8734845c9": "2026-11-14",
   "paylocity:0b0e65d8-0e53-499c-b510-583fa42f82ed": "2026-11-14",
+  "paylocity:0b111895-0756-4a30-a3cf-9758d57fe9a3": "2026-11-15",
   "paylocity:0b639416-fcca-4152-8802-c07fe7dab59b": "2026-11-15",
   "paylocity:0b6cc596-ce53-4e9d-9b26-b235ed9830c6": "2026-11-14",
   "paylocity:0ba946fa-bf1f-4728-a713-4bfe119c1d36": "2026-11-15",
@@ -11928,17 +11929,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 114,
+   "n": 115,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 114,
+   "n": 115,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 114,
+   "n": 115,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14402,7 +14403,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 44,
+   "n": 45,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -14467,7 +14468,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 107,
+   "n": 108,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -14514,7 +14515,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 78,
+   "n": 79,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -14767,8 +14768,8 @@
    356
   ],
   "2026-11-15": [
-   165,
-   330
+   166,
+   334
   ]
  },
  "resolved": {
@@ -69504,7 +69505,7 @@
   "remoteok": "2026-11-15T20:37:14+00:00",
   "usajobs": "2026-11-15T20:37:14+00:00",
   "workable_search": "2026-11-15T20:37:14+00:00",
-  "wwr": "2026-11-15T20:37:14+00:00",
+  "wwr": "2026-11-15T21:37:25+00:00",
   "yc": "2026-11-15T20:37:14+00:00"
  },
  "title_rules": "c323075b4d70",
