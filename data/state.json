@@ -6801,6 +6801,7 @@
   "paylocity:086af4d0-3dbe-4019-87ba-444c7e2661ac": "2026-11-14",
   "paylocity:08741992-5802-4419-a6eb-fbb58d6ac948": "2026-11-14",
   "paylocity:087d8277-967a-4bb5-8fe3-3dc85caedf66": "2026-11-14",
+  "paylocity:08c3bc4f-8161-4d98-b8f9-9289db30f8a1": "2026-11-15",
   "paylocity:08eac160-0a1e-4180-8eb0-8381757e63b5": "2026-11-14",
   "paylocity:091968f2-bfa6-405c-9111-bc12c6ab6d3a": "2026-11-14",
   "paylocity:093ed2b1-ab2f-4a60-9277-0def6b949b65": "2026-11-14",
@@ -6855,11 +6856,19 @@
   "paylocity:174aac10-2bd9-46d5-8e65-6c908166d57a": "2026-11-14",
   "paylocity:17713721-eeb1-49c8-a8fe-8a7ec37f0088": "2026-11-14",
   "paylocity:180866a7-157b-4668-9e4e-986aeaf7cd51": "2026-11-14",
+  "paylocity:18300151-3b4d-4044-912d-501cebb26321": "2026-11-15",
   "paylocity:18f41eec-1ff4-4233-9762-c1ee64cafa3b": "2026-11-14",
   "paylocity:1a004cdc-6bd0-4304-af0c-ffb4d3c3b5cb": "2026-11-14",
   "paylocity:1a0be996-c080-4348-9253-eaa72a660ff1": "2026-11-14",
   "paylocity:1a12da52-a185-495d-9e82-83e9eb874c54": "2026-11-14",
+  "paylocity:1a2d1905-b2fe-4603-b860-0fd9b80b3177": "2026-11-15",
   "paylocity:1a76b2be-1ba0-447b-9883-3b17ff92c2d7": "2026-11-14",
+  "paylocity:1c3b5350-7443-4970-8ba6-ea980243eb17": "2026-11-15",
+  "paylocity:1c5570ce-162e-4f5c-980b-2b0ab44d0a7c": "2026-11-15",
+  "paylocity:1ca6e21b-05e4-4ea7-96a8-e7c653b166e0": "2026-11-15",
+  "paylocity:1cff5ce9-dab2-438c-be4a-bb02f4e9b2cb": "2026-11-15",
+  "paylocity:1d806205-e411-49a1-be73-702909af61eb": "2026-11-15",
+  "paylocity:1dad124e-9b25-49bd-b0b4-30bb6e1b1931": "2026-11-15",
   "personio:1komma5grad.jobs.personio.de": "2026-11-14",
   "personio:360t.jobs.personio.de": "2026-11-14",
   "personio:420pharma.jobs.personio.de": "2026-11-14",
@@ -9970,17 +9979,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 73,
+   "n": 74,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 73,
+   "n": 74,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 73,
+   "n": 74,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -10384,16 +10393,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-09"
-  },
-  "icims:careers-cotiviti.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-15"
-  },
-  "icims:careers-eyesouthpartners.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-15"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-16",
@@ -12442,7 +12441,7 @@
   },
   "workday:bdo|wd3|BDO": {
    "err": "HTTP 401",
-   "n": 4,
+   "n": 5,
    "since": "2026-11-14"
   },
   "workday:boarshead|wd1|BHC": {
@@ -12507,7 +12506,7 @@
   },
   "workday:gensler|wd1|genslercareers": {
    "err": "HTTP 401",
-   "n": 73,
+   "n": 74,
    "since": "2026-11-08"
   },
   "workday:gtsgbu|wd3|Careers": {
@@ -12515,11 +12514,6 @@
    "err": "HTTP 403",
    "n": 4,
    "since": "2026-11-08"
-  },
-  "workday:hubinternational|wd1|HUBInternational": {
-   "err": "invalid JSON",
-   "n": 1,
-   "since": "2026-11-15"
   },
   "workday:idexx|wd1|IDEXX": {
    "disabled_until": "2026-11-21",
@@ -12559,7 +12553,7 @@
   },
   "workday:magellanhealth|wd5|magellan_health_careers": {
    "err": "HTTP 401",
-   "n": 45,
+   "n": 46,
    "since": "2026-11-13"
   },
   "workday:marmon|wd501|Marmon_MSIP_Internships": {
@@ -55997,6 +55991,7 @@
   "eightfold:ngc:1340075310658": "2026-11-14",
   "eightfold:nvidia:893394115789": "2026-11-14",
   "eightfold:nvidia:893394241567": "2026-11-14",
+  "eightfold:nvidia:893395121939": "2026-11-15",
   "eightfold:nvidia:893397232031": "2026-11-14",
   "eightfold:nvidia:893397486935": "2026-11-14",
   "eightfold:nvidia:893397528298": "2026-11-14",

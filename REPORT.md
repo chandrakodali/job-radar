@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**690 jobs**, newest first. Updated Sat Nov 14, 6:37 PM CST from 10,713 company job boards and other sources.
+**690 jobs**, newest first. Updated Sat Nov 14, 7:07 PM CST from 10,713 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -789,6 +789,7 @@ Jump to: [Sat 14 (319)](#saturday-nov-14-319) · [Fri 13 (63)](#friday-nov-13-63
 | 2:37 PM (seen) | [Software Engineer, Recommendation Infrastructure](https://lifeattiktok.com/search/7322993115722336538) | TikTok | San Jose, California, United States of … | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:53 AM | [IT Operations Engineer](https://jobs.ashbyhq.com/physicalintelligence/16bfcb45-4056-4e8d-b1d7-7411fffeb5a1) | Physical Intelligence | San Francisco (onsite) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:20 AM | [Platform Engineer, Kubernetes](https://jobs.ashbyhq.com/Clera/dd57a8f6-ca07-43cc-8191-5ebc413d810e) | Clera | San Francisco (onsite) | 55 | rules: 5+ yrs exp; sponsors visas; asks for 5+ years of experience |
+| date only | [Senior Network Reliability Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893395121939) | Nvidia | Santa Clara, CA, US; US +1 more (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior AI Infrastructure Engineer - EDA Infrastructure](https://nvidia.eightfold.ai/careers/job/893397486935) | Nvidia | CA,US; Austin, TX, US; Westford, MA, US… (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Azure DevOps & Cloud Platform Engineer](https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Plano-TX-USA/Senior-Azure-DevOps---Cloud-Platform-Engineer_R26_0000003083) | Brown & Brown Insurance | Plano, TX, USA (hybrid) | 50 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | date only | [Sr. Aerospace Hardware Reliability Engineer, Prime Air](https://www.amazon.jobs/en/jobs/10605146/sr-aerospace-hardware-reliability-engineer-prime-air) | Amazon.com Services LLC | Seattle, Washington, USA | 30 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
@@ -1140,7 +1141,6 @@ Jump to: [Sat 14 (319)](#saturday-nov-14-319) · [Fri 13 (63)](#friday-nov-13-63
 | 7:20 PM | [DevSecOps Engineer](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/8199769003) | Dark Wolf Solutions | Colorado Springs, CO | 65 | rules: needs: security clearance |
 | 7:05 PM | [Test Infrastructure/Integration Engineer](https://jobs.ashbyhq.com/xona-space/47de67f1-f131-425f-9385-9374b84cf938) | Xona Space | Burlingame, California (onsite) | 70 | rules: needs: Security Clearance |
 | 6:48 PM | [Senior SRE, Site Experience](https://job-boards.greenhouse.io/reddit/jobs/8369767) | Reddit | Remote - United States (remote) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 6:46 PM | [SoC Silicon Reliability Engineer](https://jobs.apple.com/en-us/details/200657320/soc-silicon-reliability-engineer) | Apple | United States of America | 38 | rules: adjacent title, little DevOps/cloud work in the text |
 
 </details>
 
