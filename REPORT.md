@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**693 jobs**, newest first. Updated Mon Nov 16, 5:37 AM CST from 12,526 company job boards and other sources.
+**692 jobs**, newest first. Updated Mon Nov 16, 6:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 1,151 matching jobs that job sites and feeds listed this week, 384 (33%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (3)](#monday-nov-16-3) · [Sun 15 (15)](#sunday-nov-15-15) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (54)](#monday-nov-9-54)
+Jump to: [Mon 16 (3)](#monday-nov-16-3) · [Sun 15 (15)](#sunday-nov-15-15) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (53)](#monday-nov-9-53)
 
 ## Monday, Nov 16 (3)
 
@@ -684,7 +684,7 @@ Jump to: [Mon 16 (3)](#monday-nov-16-3) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | 2:00 AM | [Sr. Cloud Software Engineer](https://jobs.supermicro.com/job/San-Jose-Sr_-Cloud-Software-Engineer-Cali/1439207800/) | Super Micro Computer | San Jose, California, United States | 48 | senior title, years not stated |
 | 2:00 AM | [Sr Platform Engineer](https://careers.thehersheycompany.com/job/Dallas-Sr-Platform-Engineer-TX-75201/1438643100/) | Hershey | Dallas, TX, US | 53 | 3+ yrs exp; senior title |
 
-## Monday, Nov 9 (54)
+## Monday, Nov 9 (53)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -741,14 +741,16 @@ Jump to: [Mon 16 (3)](#monday-nov-16-3) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | 10:57 AM | [(1120051) Cloud Infrastructure Engineer](https://jobs.workable.com/view/wyKzVqFVT9iTsibefcq9cU/hybrid-(1120051)-cloud-infrastructure-engineer-in-broomfield-at-diversified-services-network%2C-inc.) | Diversified Services Network,… | Broomfield, Colorado (hybrid) | 58 |  |
 | 10:42 AM | [Software Engineer, Web Infrastructure](https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042) | Notion | San Francisco, California; New York, Ne… (hybrid) | 70 |  |
 | 9:17 AM | [Systems Reliability Engineer - All Levels](https://jobs.ashbyhq.com/allen-control-systems/3075ceee-6a85-4170-9ffc-3e2f11697db7) | Allen Control Systems | Austin, TX | 65 |  |
-| 6:02 AM | [Infrastructure Operations Engineer](https://jobs.lever.co/jobgether/0c283a8d-6190-4326-acea-e12a22f0bc12) | Jobgether | US (remote) | 50 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (660)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (663)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:56 AM | [Senior Security Engineer, Product & Platform](https://jobs.lever.co/jobgether/6c3a611f-cbcd-4782-b100-a11df13bcdd3) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
+| 5:53 AM | [Senior DevOps Engineer II](https://www.storyblok.com/job?gh_jid=5036564101) | Storyblok | Remote (remote) | 32 | rules: 9+ yrs exp; senior title; location unclear; asks for 9+ years … |
+| 5:50 AM | [OpenShift Platform Engineer](https://jobs.lever.co/jobgether/6a1d0ed9-1ef9-44bb-902b-e7b4b3868b11) | Jobgether | US (remote) | 42 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 4:58 AM | [Azure IaaS Engineer](https://jobs.lever.co/jobgether/4286ffa5-bae5-4ccc-bf9c-000d74badf2e) | Jobgether | US (remote) | 42 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 1:00 AM | [Senior Systems Administrator II](https://jobs.lever.co/jobgether/71971f7a-ecef-4a58-972c-0cefed41b9c1) | Jobgether | US (remote) | 22 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:45 AM | [Sr Network Engineer](https://jobs.lever.co/jobgether/0e899f97-552a-4ed8-9491-07c4db1805f7) | Jobgether | US (remote) | 27 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
@@ -1146,9 +1148,6 @@ Jump to: [Mon 16 (3)](#monday-nov-16-3) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | date only | [Information Systems Administrator](https://spacedynamicslaboratory.applytojob.com/apply/uXUYmgNNi5/Information-Systems-Administrator) | Space Dynamics Laboratory | Stafford, VA | 30 | rules: 10+ yrs exp; needs: security clearance |
 | date only | [Cloud Computing Engineer I](https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Cloud-Computing-Engineer-I_R114595-2) | University of Central Florida | Orlando, FL (Main Campus) | 80 | rules: entry-level title; 4+ yrs exp; E-Verify; likely H-1B cap-exemp… |
 | date only | [Systems Administrator - IT Professional (NWS 00959)](https://north-wind-group.breezy.hr/p/4fa97be3d382-systems-administrator-it-professional-nws-00959) | North Wind Group | LIVERMORE, CA, United States | 43 | rules: needs: must be a US citizen |
-| date only | [Cloud Engineer - GCP](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ATLANTA-GEORGIA/Cloud-Engineer---GCP_R0076098-1) | Global Payments | ATLANTA, GEORGIA; CINCINNATI, OHIO; DEN… (hybrid) | 58 | rules: 3+ yrs exp; needs: must be a US Citizen |
-| date only | [Network Engineer - Plex](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Network-Engineer---Plex_R26-6685) | Rockwell Automation | Mayfield Heights, Ohio, United States; … (hybrid) | 53 | rules: 2+ yrs exp; no future H-1B sponsorship; needs: must be U.S. pe… |
-| date only | [Systems Administrator 2 (Windows) PART-TIME](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-HI-Waimea/Systems-Administrator-2--Windows--PART-TIME_R0174508) | Amentum | US-HI-Waimea (onsite) | 38 | rules: 4+ yrs exp; needs: Security Clearance |
 
 </details>
 
