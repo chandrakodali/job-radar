@@ -12070,17 +12070,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 162,
+   "n": 163,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 162,
+   "n": 163,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 162,
+   "n": 163,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14937,7 +14937,7 @@
   ],
   "2026-11-16": [
    142,
-   331
+   336
   ]
  },
  "resolved": {
@@ -65707,6 +65707,7 @@
   "amazon:us:10603260": "2026-11-14",
   "amazon:us:10603316": "2026-11-14",
   "amazon:us:10603394": "2026-11-14",
+  "amazon:us:10603806": "2026-11-16",
   "amazon:us:10603823": "2026-11-14",
   "amazon:us:10603855": "2026-11-14",
   "amazon:us:10604217": "2026-11-14",
@@ -65738,6 +65739,7 @@
   "apple:usa:200694981": "2026-11-14",
   "apple:usa:200694982": "2026-11-14",
   "apple:usa:200695127": "2026-11-16",
+  "apple:usa:200695197": "2026-11-16",
   "ashby:AeroVect:49403b08-400b-43e7-91f8-709c965bda54": "2026-11-07",
   "ashby:AeroVect:91db7309-415c-498b-a033-373af6546a68": "2026-11-12",
   "ashby:AfterQuery:99afbbe0-5ad1-4f25-a00a-049f14428ac6": "2026-11-12",
@@ -65894,6 +65896,7 @@
   "ashby:polygon-labs:ec7277f7-4757-4863-967c-eecaee0d0740": "2026-11-14",
   "ashby:posthog:1464036f-94d5-4dbd-aef8-fe99246a26d4": "2026-11-16",
   "ashby:prefect:6bc102cc-112f-441f-adc8-d53dc83a93ec": "2026-11-12",
+  "ashby:protege:7dbd4900-e5fe-4df7-aa13-e7beda6f1595": "2026-11-16",
   "ashby:qumulo:d60cca8b-7c6a-4883-bcae-a67dd958e2e1": "2026-11-13",
   "ashby:quora:dce88e1a-d30f-44e6-a471-cf810fc9a449": "2026-11-16",
   "ashby:radiant-industries:13d25280-e5c4-4401-a65d-c73859ade990": "2026-11-12",
@@ -66905,6 +66908,7 @@
   "greenhouse:eleviassociates:8205860003": "2026-11-16",
   "greenhouse:eleviassociates:8205869003": "2026-11-16",
   "greenhouse:eleviassociates:8205874003": "2026-11-16",
+  "greenhouse:eleviassociates:8206105003": "2026-11-16",
   "greenhouse:epicgames:6250171004": "2026-11-12",
   "greenhouse:epicgames:6257189004": "2026-11-12",
   "greenhouse:esri:5262837007": "2026-11-09",
@@ -68205,6 +68209,7 @@
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210780218": "2026-11-10",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210785588": "2026-11-16",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210803198": "2026-11-13",
+  "oracle:jpmc.fa.oraclecloud.com|CX_1001:210804732": "2026-11-16",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210804903": "2026-11-13",
   "oracle:tulane-ibqejb.fa.ocs.oraclecloud.com|CX_1:2295": "2026-11-10",
   "paylocity:0136e448-2ebc-4615-ba54-adf9d180d4fb:4469078": "2026-11-15",
@@ -69874,10 +69879,10 @@
  },
  "source_last": {
   "hn": "2026-11-16T20:37:19+00:00",
-  "remoteok": "2026-11-16T21:07:18+00:00",
+  "remoteok": "2026-11-16T23:07:14+00:00",
   "usajobs": "2026-11-16T22:07:37+00:00",
   "workable_search": "2026-11-16T22:07:37+00:00",
-  "wwr": "2026-11-16T22:07:37+00:00",
+  "wwr": "2026-11-16T23:07:14+00:00",
   "yc": "2026-11-16T22:07:37+00:00"
  },
  "title_rules": "c323075b4d70",
