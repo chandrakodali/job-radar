@@ -1,14 +1,14 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**180 jobs**, newest first. Updated Mon Nov 16, 5:49 AM CST from 12,526 company job boards and other sources.
+**181 jobs**, newest first. Updated Mon Nov 16, 6:50 AM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 128 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 730 matching jobs that job sites and feeds listed this week, 183 (25%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 733 matching jobs that job sites and feeds listed this week, 183 (24%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (7)](#sunday-nov-15-7) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19) · [Mon 9 (12)](#monday-nov-9-12)
+Jump to: [Sun 15 (7)](#sunday-nov-15-7) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (21)](#friday-nov-13-21) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19) · [Mon 9 (12)](#monday-nov-9-12)
 
 ## Sunday, Nov 15 (7)
 
@@ -103,7 +103,7 @@ Jump to: [Sun 15 (7)](#sunday-nov-15-7) · [Sat 14 (76)](#saturday-nov-14-76) ·
 | date only | [Software Engineer II – Full Stack (Java & React)](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II---Java--Spring-Boot---React_R004300-1) | Entrust | United States - Shakopee, MN (GHQ) | 55 | 3+ yrs exp |
 | date only | [Full-Stack Software Engineer II / Java, React & AWS](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Software-Developer-II---Java---Instant-ID-as-a-Service---Secura_R004285) | Entrust | United States - Shakopee, MN (GHQ) | 55 | 3+ yrs exp |
 
-## Friday, Nov 13 (20)
+## Friday, Nov 13 (21)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -122,6 +122,7 @@ Jump to: [Sun 15 (7)](#sunday-nov-15-7) · [Sat 14 (76)](#saturday-nov-14-76) ·
 | date only | [Software Engineer, Backend – Webex Signaling](https://careers.cisco.com/global/en/job/CISCISGLOBAL2025041EXTERNALENGLOBAL) | Cisco | Seattle, Washington, United States of A… | 38 | requires Java |
 | date only | [Software Engineer, Amazon Foundational Security Services - Identity](https://www.amazon.jobs/en/jobs/10605040/software-engineer-amazon-foundational-security-services-identity) | Amazon.com Services LLC | Seattle, Washington, USA | 38 | 3+ yrs exp; requires Java |
 | date only | [Specialist, Software Engineer – IBM ACE & ETL](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Software-Engineer---IBM-ACE---ETL_100874) | Nationwide | Ohio - Columbus, Three Nationwide Plaza… | 38 | 4+ yrs exp; requires Java |
+| date only | [DESENVOLVIMENTO - Desenvolvedor Baixa Plataforma - Java](https://spassu.zohorecruit.com/jobs/Careers/678402000036827393/DESENVOLVIMENTO-Desenvolvedor-Baixa-Plataforma-Java) | Spassu |  (remote) | 45 | location unclear |
 | 10:37 AM | [Software Developer 2](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350540) | Oracle | Austin, TX, United States | 33 | requires Java |
 | 10:37 AM | [Software Developer 2](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/job/350540) | Eeho Fa Us2 Oraclecloud Com | Austin, TX, United States | 33 | requires Java |
 | 10:08 AM | [Software Engineer](https://jobs.smartrecruiters.com/Intuitive/744000161528139-software-engineer) | Intuitive Surgical | Sunnyvale, CA, United States | 43 | requires Java |
