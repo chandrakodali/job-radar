@@ -1,14 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**729 jobs**, newest first. Updated Sun Nov 15, 6:37 PM CST from 12,526 company job boards and other sources.
+**697 jobs**, newest first. Updated Sun Nov 15, 7:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-206 repeat listings (same company and title in another place or on another source) are merged into one row.
+203 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 973 matching jobs that job sites and feeds listed this week, 303 (31%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (12)](#sunday-nov-15-12) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (98)](#thursday-nov-12-98) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57) · [Sun 8 (36)](#sunday-nov-8-36)
+Jump to: [Sun 15 (12)](#sunday-nov-15-12) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (98)](#thursday-nov-12-98) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57) · [Sun 8 (4)](#sunday-nov-8-4)
 
 ## Sunday, Nov 15 (12)
 
@@ -548,13 +548,13 @@ Jump to: [Sun 15 (12)](#sunday-nov-15-12) · [Sat 14 (325)](#saturday-nov-14-325
 | 12:05 PM | [Infrastructure Operations Installation and Integration Engineer](https://jobs.ashbyhq.com/Vultr/5b025636-0501-45c9-a413-831d7c4be8d2) | Vultr | Remote - United States (remote) | 62 |  |
 | 12:01 PM | [Windows Server Engineer - Infrastructure](https://job-boards.greenhouse.io/chicagotrading/jobs/4751594005) | Chicago Trading Company | Chicago, Illinois, United States | 60 | 3+ yrs exp |
 | 11:17 AM | [Senior Cloud Engineer](https://jobs.smartrecruiters.com/PublicStorage/744000161132829-senior-cloud-engineer) | PublicStorage | Frisco, TX, United States | 43 | senior title, years not stated |
-| date only | [Site Reliability Engineer (G-Project)](https://foxconnassemblyllc.applytojob.com/apply/R2s19hSWdZ/Site-Reliability-Engineer-GProject) | Foxconn Industrial Internet | Houston, TX +1 more | 75 | 0-2 yrs exp |
 | date only | [Production Engineer](https://apply.workable.com/msr-fsr/j/FDE4C3C599/) | MSR-FSR | Chandler, Arizona, United States | 45 | 3+ yrs exp |
 | date only | [Linux Network Engineering Scientist Associate](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Linux-Network-Engineering-Scientist-Associate_R_00049931) | University of Texas at Austin | PICKLE RESEARCH CAMPUS | 70 | entry-level title; E-Verify; likely H-1B cap-exempt (verify) |
 | date only | [Linux Systems Engineering Scientist Associate](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Linux-Systems-Engineering-Scientist-Associate_R_00049932) | University of Texas at Austin | PICKLE RESEARCH CAMPUS | 70 | entry-level title; E-Verify; likely H-1B cap-exempt (verify) |
 | date only | [Production Engineer Tooling Asset Management](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineer-Tooling-Asset-Management_J-00357511) | ASML | Wilton, CT, USA | 50 |  |
 | date only | [Engineer I, Systems Reliability Engineering](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Sky-Harbor-Distribution-Center-Henderson-NV-USA/Engineer-I--Systems-Reliability-Engineering_R-0158468-1) | Levi Strauss & Co. | Sky Harbor Distribution Center, Henders… | 70 | entry-level title; 4+ yrs exp |
 | date only | [Network Engineer II](https://apply.workable.com/it1/j/388541F155/) | It1 | Phoenix, Arizona, United States | 45 |  |
+| date only | [Site Reliability Engineer (G-Project)](https://foxconnassemblyllc.applytojob.com/apply/R2s19hSWdZ/Site-Reliability-Engineer-GProject) | Foxconn Industrial Internet | Houston, TX | 75 | 0-2 yrs exp |
 | date only | [Infrastructure Operations Specialist](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Helpful-Smiles-Technology-Center-HST-James-Street-Grimes-IA/Infrastructure-Operations-Specialist_R261584) | Hy-Vee | Helpful Smiles Technology Center (HST),… | 65 |  |
 | date only | [AWS Security Engineer - Experience Associate](https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/TX-Dallas/AWS-Security-Engineer---Experience-Associate_763604WD-1) | PricewaterhouseCoopers (PwC) | TX-Dallas; FL-Tampa; FL-Miami; GA-Atlan… | 60 | entry-level title; 3+ yrs exp; no future H-1B sponsorship |
 | date only | [Systems Administrator II](https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Systems-Administrator-II_R-098332-2) | Texas A&M University - Colleg… | College Station, TX | 50 | likely H-1B cap-exempt (verify) |
@@ -738,7 +738,7 @@ Jump to: [Sun 15 (12)](#sunday-nov-15-12) · [Sat 14 (325)](#saturday-nov-14-325
 | 4:33 AM | [Infrastructure Engineer, Enterprise AI](https://jobs.lever.co/jobgether/6ee78390-07bc-4e75-a921-511307f32e34) | Jobgether | US (remote) | 50 |  |
 | 4:14 AM | [Systems Administrator II](https://jobs.lever.co/jobgether/727fde91-6dfd-49df-a6ea-3169fa9987a8) | Jobgether | US (remote) | 25 | 4+ yrs exp |
 
-## Sunday, Nov 8 (36)
+## Sunday, Nov 8 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -746,40 +746,8 @@ Jump to: [Sun 15 (12)](#sunday-nov-15-12) · [Sat 14 (325)](#saturday-nov-14-325
 | 11:00 PM | [Cloud Infrastructure Engineer](https://jobs.dayforcehcm.com/en-US/ipg/ipg/jobs/7234) | Ipg | Washington, DC, US; Jacksonville, FL, U… | 48 | 4+ yrs exp |
 | 11:00 PM | [System and Network Administrator](https://jobs.dayforcehcm.com/en-US/authority/CANDIDATEPORTAL/jobs/7530) | Authority | Atlanta, GA, US | 33 | 3+ yrs exp |
 | 11:00 PM | [Network & Infrastructure Security Engineer](https://jobs.dayforcehcm.com/en-US/gleason/CANDIDATEPORTAL/jobs/5881) | Gleason | Rochester, NY, US; Rochester, NY, US | 48 | 3+ yrs exp |
-| 6:52 PM (seen) | [Dev Ops Engineer (2026-0131)](https://acclaimtechnicalservices.applytojob.com/apply/cy8dflIrzs/Dev-Ops-Engineer-20260131) | Acclaim Technical Services | Bethesda, MD | 50 |  |
-| 6:52 PM (seen) | [Production Engineer/ Research Science Specialist (1704)](https://aramcoservices.applytojob.com/apply/kE456nZMrm/Production-Engineer-Research-Science-Specialist-1704) | Aramco Americas | Houston, TX | 35 |  |
-| 6:52 PM (seen) | [Cloud Software Engineer](https://gliacelltechnologies.applytojob.com/apply/baEDGMvNiz/Cloud-Software-Engineer) | GliaCell Technologies | Annapolis Junction, MD | 50 |  |
-| 6:52 PM (seen) | [DevOps Engineer](https://gliacelltechnologies.applytojob.com/apply/brDUtvERaT/DevOps-Engineer) | GliaCell Technologies | Annapolis Junction, MD | 50 |  |
-| 6:52 PM (seen) | [Junior DevOps Engineer](https://gliacelltechnologies.applytojob.com/apply/JQlreBpfqn/Junior-DevOps-Engineer) | GliaCell Technologies | Annapolis Junction, MD or Hanover, MD | 60 | entry-level title |
-| 6:52 PM (seen) | [Mid-Level DevOps Engineer](https://gliacelltechnologies.applytojob.com/apply/JF1aXKgqnB/MidLevel-DevOps-Engineer) | GliaCell Technologies | Columbia, MD | 50 |  |
-| 6:52 PM (seen) | [20218 - System Administrator II (bilingual Korean preferred)](https://hyundaiautoeveramerica.applytojob.com/apply/HkXdQkSE9F/20218-System-Administrator-II-bilingual-Korean-Preferred) | Hyundai AutoEver America | Savannah, Georgia, United States, GA | 30 |  |
-| 6:52 PM (seen) | [Customer Reliability Engineer](https://imanagecom.applytojob.com/apply/WNHmfcXUJE/Customer-Reliability-Engineer) | iManage | Chicago, IL | 50 |  |
-| 6:52 PM (seen) | [Linux System Administrator](https://intelliforceitsolutionsgroup.applytojob.com/apply/fryyEUZ6pX/Linux-System-Administrator) | Intelliforce-IT Solutions Gro… | Annapolis Junction, MD | 30 | staffing/consulting firm: verify it's real |
-| 6:52 PM (seen) | [Cloud SRE Engineer - Mandarin Bilingual](https://intellipro.applytojob.com/apply/R4PfTsWHf3/Cloud-SRE-Engineer-Mandarin-Bilingual) | IntelliPro Group Inc. | Palo Alto, CA | 50 |  |
-| 6:52 PM (seen) | [MLOps Platform Engineer (SageMaker)](https://intellipro.applytojob.com/apply/KnqB60yKhO/MLOps-Platform-Engineer-SageMaker) | IntelliPro Group Inc. | Plano, TX | 50 |  |
-| 6:52 PM (seen) | [Information Technology Systems Administrator](https://ketkentuckyeducationaltelevision.applytojob.com/apply/vz6bGjb10L/Information-Technology-Systems-Administrator) | KET-Kentucky Educational Tele… | Lexington, KY | 35 |  |
-| 6:52 PM (seen) | [SWE1/DevOps Engineer](https://lentechinc.applytojob.com/apply/IDtgSj3C5l/SWE1DevOps-Engineer) | Lentech Inc. | Linthicum, MD | 50 |  |
-| 6:52 PM (seen) | [Cloud System Administrator](https://petersontechnologies.applytojob.com/apply/Ob4PxBpD7A/Cloud-System-Administrator) | Peterson Technologies | Annapolis Junction, MD | 50 |  |
-| 6:52 PM (seen) | [Linux System Administrator](https://petersontechnologies.applytojob.com/apply/dVisLw8EX4/Linux-System-Administrator) | Peterson Technologies | Annapolis Junction, MD | 35 |  |
-| 6:52 PM (seen) | [Shift Watch Officer/Systems Administrator](https://petersontechnologies.applytojob.com/apply/BIfdnplIG1/Shift-Watch-OfficerSystems-Administrator) | Peterson Technologies | Annapolis Junction, MD | 35 |  |
-| 6:52 PM (seen) | [System Administrator](https://petersontechnologies.applytojob.com/apply/g0bFfJLCrF/System-Administrator) | Peterson Technologies | Annapolis Junction, MD | 35 |  |
-| 6:52 PM (seen) | [Systems Administrator](https://petersontechnologies.applytojob.com/apply/xP4IfjuXea/Systems-Administrator) | Peterson Technologies | Annapolis Junction, MD | 35 |  |
-| 6:52 PM (seen) | [Watch Officer/Systems Administrator](https://petersontechnologies.applytojob.com/apply/A5Uk0wqVik/Watch-OfficerSystems-Administrator) | Peterson Technologies | Annapolis Junction, MD | 35 |  |
-| 6:52 PM (seen) | [System Administrator II](https://tapengineering.applytojob.com/apply/JJgltKyP8j/System-Administrator-II) | TAP Engineering | Hanover, MD | 30 |  |
-| 6:52 PM (seen) | [Network Engineer Level II (Firewall) / Req#4543](https://jobs.jobvite.com/actionet/job/oglUzfwO) | ActioNet | Rosslyn, Virginia | 25 | 3+ yrs exp |
-| 6:52 PM (seen) | [Cloud Software Engineer, Level 2](https://independentsoftware.applytojob.com/apply/KOjVyD9urd/Cloud-Software-Engineer-Level-2) | Independent Software | Annapolis Junction, MD | 45 |  |
-| 6:52 PM (seen) | [System Administrator, Level 2](https://independentsoftware.applytojob.com/apply/teYXn9VWGo/System-Administrator-Level-2) | Independent Software | Annapolis Junction, MD | 30 |  |
-| 6:52 PM (seen) | [Service Engineer (DevSecOps) II](https://cloudfitsoftware.applytojob.com/apply/g8DkGtdsrt/Service-Engineer-DevSecOps-II) | CloudFit Software | Lynchburg, VA | 45 |  |
-| 6:52 PM (seen) | [IT System Administrator](https://foxconnassemblyllc.applytojob.com/apply/jz1TFcnfwf/IT-System-Administrator) | Foxconn Industrial Internet | Houston, TX | 35 |  |
-| 6:52 PM (seen) | [System Administrator](https://foxconnassemblyllc.applytojob.com/apply/rCRu9Ii77k/System-Administrator) | Foxconn Industrial Internet | San Jose, CA | 35 |  |
-| 6:52 PM (seen) | [Systems Administrator (Gov't Tech)](https://jobs.jobvite.com/sikichcareers/job/oQ7EAfwV) | Sikich | Washington, District Of Columbia | 30 | 4+ yrs exp |
-| 6:52 PM (seen) | [GCP GEN-AI Engineer](https://crackajackdigitalsolutionsllc.applytojob.com/apply/fOBVBHxHSf/GCP-GENAI-Engineer) | CrackaJack Digital Solutions … | Phoenix, AZ | 50 |  |
-| 6:52 PM (seen) | [Network Infrastructure Engineer](https://crackajackdigitalsolutionsllc.applytojob.com/apply/e4aCbhwy6u/Network-Infrastructure-Engineer) | CrackaJack Digital Solutions … | Jackson, MS | 50 |  |
-| 6:52 PM (seen) | [SRE II Enterprise Tech Support (Virtualization & Networking)](https://jobs.jobvite.com/nutanix/job/olfIAfwC) | Nutanix | 2 Locations | 35 | 4+ yrs exp; location unclear |
-| 6:52 PM (seen) | [ML/AI Data and Cloud Engineer](https://jobs.jobvite.com/tylertech/job/oBQjAfw4) | Tyler Technologies | 2 Locations | 40 | 3+ yrs exp; location unclear |
-| 6:52 PM (seen) | [IT Systems Administrator](https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26142784&lang=en) | State of Montana | Helena | 35 | location unclear; E-Verify |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (769)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (660)
 
 <details><summary>Show</summary>
 
@@ -1055,10 +1023,10 @@ Jump to: [Sun 15 (12)](#sunday-nov-15-12) · [Sat 14 (325)](#saturday-nov-14-325
 | 2:00 AM | [Sr. Network Engineer](https://jobs.supermicro.com/job/San-Jose-Sr_-Network-Engineer-Cali/1420359300/) | Super Micro Computer | San Jose, California, United States | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 11:00 PM | [Network Engineer](https://careers-dartmouth-hitchcock.icims.com/jobs/43307/network-engineer/job) | Dartmouth Health | Bennington, VT, United States | 30 | asks for 5+ years of experience; 5+ yrs exp |
 | 11:00 PM | [AWS ProServe Platform Engineer](https://careers-dminc.icims.com/jobs/29069/aws-proserve-platform-engineer/job) | DMI | McLean, VA, United States | 45 | asks for 10+ years of experience; 10+ yrs exp |
-| 11:00 PM | [Linux Systems Administrator, Mid-Level](https://bowheadcareers-uicalaska.icims.com/jobs/26656/linux-systems-administrator%2c-mid-level/job) | Bowhead | Corona, CA, United States +1 more | 30 | rules: 5+ yrs exp; needs: SECURITY CLEARANCE |
 | 11:00 PM | [Junior Platform Engineer](https://careers-lmi.icims.com/jobs/14864/junior-platform-engineer/job) | LMI | Colorado Springs, CO, United States +1 … | 85 | rules: entry-level title; 1+ yrs exp; needs: security clearance |
 | 11:00 PM | [Network Engineer](https://careers-tatitlek.icims.com/jobs/2771/network-engineer/job) | The Tatitlek Corporation | Fort Worth, TX, United States | 45 | rules: 4+ yrs exp; needs: SECURITY CLEARANCE |
 | 11:00 PM | [HPC Linux System Administrator](https://careers-barrios.icims.com/jobs/2959/hpc-linux-system-administrator/job) | Barrios | Houston, TX, United States | 30 | rules: 15+ yrs exp; needs: Must be a U.S. Citizen |
+| 11:00 PM | [Linux Systems Administrator, Mid-Level](https://bowheadcareers-uicalaska.icims.com/jobs/26656/linux-systems-administrator%2c-mid-level/job) | Bowhead | Corona, CA, United States | 30 | rules: 5+ yrs exp; needs: SECURITY CLEARANCE |
 | 11:00 PM | [Network Operations Center System Administrator](https://careers-persistentsystems.icims.com/jobs/2559/network-operations-center-system-administrator/job) | Persistent Systems | Clearfield, UT, United States | 50 | rules: needs: security clearance |
 | 11:00 PM | [Senior Application Security Engineer](https://careers-powerschool.icims.com/jobs/53179/senior-application-security-engineer---ic3-%28appsec---application-security%29/job) | PowerSchool Group | Plano, TX, United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:00 PM | [Systems Administrator, Senior](https://careers-sentinel.icims.com/jobs/5162/systems-administrator%2c-senior/job) | Sentinel Technologies | Green Bay, WI, United States | 25 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; asks for… |

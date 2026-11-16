@@ -11930,17 +11930,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 121,
+   "n": 122,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 121,
+   "n": 122,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 121,
+   "n": 122,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12376,8 +12376,9 @@
    "since": "2026-11-09"
   },
   "icims:careers-kimley-horn.icims.com": {
+   "disabled_until": "2026-11-23",
    "err": "robots.txt disallows /jobs/search",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-16"
   },
   "icims:careers-nv5.icims.com": {
@@ -13982,8 +13983,9 @@
    "since": "2026-11-14"
   },
   "sfrmk:careers.dovercorporation.com": {
+   "disabled_until": "2026-11-23",
    "err": "robots.txt disallows /job_sitemap.xml",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-16"
   },
   "sfrmk:careers.duke.edu": {
@@ -14405,6 +14407,11 @@
    "err": "HTTP 410",
    "n": 3,
    "since": "2026-11-08"
+  },
+  "workday:amat|wd1|External": {
+   "err": "invalid JSON",
+   "n": 1,
+   "since": "2026-11-16"
   },
   "workday:amplify|wd1|Amplify_Careers": {
    "disabled_until": "2026-11-21",
