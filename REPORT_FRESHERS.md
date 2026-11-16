@@ -1,14 +1,21 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**724 jobs**, newest first. Updated Mon Nov 16, 2:20 AM CST from 12,526 company job boards and other sources.
+**725 jobs**, newest first. Updated Mon Nov 16, 3:19 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-217 repeat listings (same company and title in another place or on another source) are merged into one row.
+219 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 1,812 matching jobs that job sites and feeds listed this week, 342 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (93)](#tuesday-nov-10-93) · [Mon 9 (84)](#monday-nov-9-84)
+Jump to: [Mon 16 (2)](#monday-nov-16-2) · [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (93)](#tuesday-nov-10-93) · [Mon 9 (84)](#monday-nov-9-84)
+
+## Monday, Nov 16 (2)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| date only | [Software Platform Engineer I](https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-I/21584) | MetLife |  | 70 | entry-level title; location unclear |
+| 2:54 AM | [Product Support Specialist](https://jobs.lever.co/jobgether/c4af6e24-4639-43d0-948f-2a01b8935837) | Jobgether | US (remote) | 72 | 1+ yrs exp |
 
 ## Sunday, Nov 15 (20)
 
@@ -340,7 +347,7 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 2:00 AM | [Fluid Systems Engineer](https://careers.westinghousenuclear.com/job/Rock-Hill-Fluid-Systems-Engineer-SC-29730/1440646100/) | Westinghouse Electric Company | Rock Hill, SC, United States | 85 | 1+ yrs exp; entry level (from the text) |
 | 1:00 AM | [Network Engineer I](https://jobs.dayforcehcm.com/en-US/sonifi/CANDIDATEPORTAL/jobs/5902) | Sonifi | Sioux Falls, SD, US | 73 | entry-level title; E-Verify |
 
-## Thursday, Nov 12 (113)
+## Thursday, Nov 12 (112)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -401,7 +408,6 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | date only | [S&T- Delta One Trading Analyst Graduate Program 2027 New York](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/S-T--Delta-One-Trading-Analyst-Graduate-Program-2027-New-York_JR-0000118428) | Barclays | New York, 745 7th Avenue | 68 | entry-level title |
 | date only | [Technical Service Desk Analyst I](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Staffing-Svcs-Mesa-525-W-Brown-Rd/Technical-Service-Desk-Analyst-I_R4460554) | Banner Health | Banner Staffing Svcs Mesa (525 W Brown … | 68 | entry-level title |
 | date only | [Holiday Support Associate](https://standoutforgood.wd12.myworkdayjobs.com/StandOutForGood/job/White-Plains-NY/Holiday-Support-Associate_SOSJ12934) | Altar'd State | White Plains, NY | 68 | entry-level title |
-| date only | [Software Platform Engineer I (AI Engineer)](https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-I-AI-Engineer/21476) | MetLife |  | 63 | entry-level title; location unclear |
 | date only | [Security Team Specialist I, Northeast Youth Service Center](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260007QK&lang=en) | Commonwealth of Massachusetts | Massachusetts-Middleton | 78 | entry-level title; 1+ yrs exp |
 | date only | [Frontend Engineer, New Grad](https://apply.workable.com/bask-health-1/j/95FB1074E4/) | Bask Health 1 | United States (remote) | 65 | entry-level title |
 | date only | [Junior Applied AI Engineer](https://apply.workable.com/bask-health-1/j/B5B71C8A22/) | Bask Health 1 | United States (remote) | 75 | entry-level title; 0-2 yrs exp |
@@ -769,7 +775,7 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 6:39 AM | [Junior AI/ML Engineer](https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393) | Netholabs | San Francisco (onsite) | 68 | entry-level title |
 | 4:25 AM | [Support Engineer, PAYGO](https://jobs.lever.co/jobgether/6ba9dce0-97e9-470f-a59b-06b6c673fcf2) | Jobgether | US (remote) | 60 | entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3011)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3014)
 
 <details><summary>Show</summary>
 
@@ -778,6 +784,9 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | date only | [Engineer, Global Quality Package Design and Development Quality Assur…](https://micron.eightfold.ai/careers/job/45517929) | Micron | SG (onsite) | 60 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | date only | [Software Engineer, Storage](https://nvidia.eightfold.ai/careers/job/893398741679) | Nvidia | Ra'anana, Center District, IL (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [24372 - IT Support Technician (PC Technician)](https://careers.quality-ai.com/job/Petach-_-Tikva-24372-IT-Support-Technician-%28PC-Technician%29/61560044/) | Qualitest |  | 55 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
+| date only | [System Software Engineer, Video Chips](https://nvidia.eightfold.ai/careers/job/893398633653) | Nvidia | Santa Clara, CA, US (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 2:53 AM | [Application Support Engineer](https://jobs.lever.co/jobgether/65a1156a-de46-49fd-8413-39a2b0b92b26) | Jobgether | US (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 2:47 AM | [Software Engineer, Agents for Good](https://jobs.lever.co/jobgether/1f41924b-9c06-4b11-999f-1bc211f2544a) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 2:20 AM (seen) | [Mobile Analyst](https://app.dover.com/apply/comsparkint/3db1f9b6-ffe7-48d4-a0e7-5c462b21cbfb) | Comsparkint | Shakopee, MN (onsite) | 35 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 2:20 AM (seen) | [Vue.js Developer](https://app.dover.com/apply/comsparkint/4dd1452f-6a0e-4bab-9c6e-6338d9d3cfdf) | Comsparkint | Charlotte, NC (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 2:20 AM (seen) | [Workday ERP Specialist with EIB](https://app.dover.com/apply/comsparkint/c62b7284-2b94-4cc3-ad47-ee4813d700f3) | Comsparkint | International (remote) | 22 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
@@ -1172,8 +1181,5 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 1:18 PM (seen) | [Junior Engineer - Signal Design](https://jobs.jobvite.com/metropolitantransportationauthority/job/oHh2Afwk) | Metropolitan Transportation A… | Queens, NY | 60 | rules: role or location no longer in the target list |
 | 1:18 PM (seen) | [QA TECHNICIAN I SECOND SHIFT](https://jobs.jobvite.com/jbs/job/o6t4AfwX) | JBS Foods | Elkhart, Indiana | 60 | rules: role or location no longer in the target list |
 | 1:17 PM | [Implementation Engineer](https://jobs.ashbyhq.com/posh-ai/0a9a694a-d9a1-41c5-ac8a-fbebedaf5744) | Posh Ai | Boston Hybrid; US Remote (hybrid) | 43 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 1:16 PM | [Satellite Power Test Engineer](https://jobs.ashbyhq.com/xona-space/64c3e814-2f96-40e3-8acd-883b4db8e156) | Xona Space | Burlingame, California (onsite) | 80 | rules: 2+ yrs exp; needs: Security Clearance |
-| 1:13 PM | [Automation and Controls Engineer](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45358) | NOV | Navasota, TX, United States (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 12:58 PM | [Support Engineer - Incident](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350549) | Oracle | Nashville, TN, United States; Orlando, … | 60 | rules: 3+ yrs exp; needs: Public Trust Clearance |
 
 </details>

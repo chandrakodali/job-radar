@@ -11682,17 +11682,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 63,
+   "n": 64,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 63,
+   "n": 64,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 63,
+   "n": 64,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -65341,6 +65341,8 @@
   "avature:metlife.avature.net|en_US/ml:21476": "2026-11-13",
   "avature:metlife.avature.net|en_US/ml:21505": "2026-11-13",
   "avature:metlife.avature.net|en_US/ml:21550": "2026-11-13",
+  "avature:metlife.avature.net|en_US/ml:21584": "2026-11-16",
+  "avature:metlife.avature.net|en_US/ml:21585": "2026-11-16",
   "avature:metlife.avature.net|en_US/ml:21587": "2026-11-13",
   "avature:mgl.avature.net|internalcareers:19632": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:22263": "2026-11-15",
@@ -65933,6 +65935,7 @@
   "breezy:north-wind-group:99d1341cab29": "2026-11-13",
   "breezy:pyrovio:270027a63d16": "2026-11-13",
   "breezy:pyrovio:9b9496d5e53d": "2026-11-13",
+  "breezy:social-discovery-ventures:e3e0b88d8c8901": "2026-11-16",
   "breezy:vetsez:04ce64350c6801": "2026-11-13",
   "breezy:vetsez:076f06e9561401": "2026-11-13",
   "breezy:vetsez:15a428edeec001": "2026-11-13",
@@ -67664,6 +67667,7 @@
   "eightfold:nvidia:893398445696": "2026-11-14",
   "eightfold:nvidia:893398445710": "2026-11-14",
   "eightfold:nvidia:893398445721": "2026-11-14",
+  "eightfold:nvidia:893398633653": "2026-11-16",
   "eightfold:nvidia:893398741679": "2026-11-16",
   "eightfold:paypal:274923336364": "2026-11-14",
   "eightfold:paypal:274923348283": "2026-11-14",
@@ -72428,6 +72432,7 @@
   "lever:jobgether:19699243-449b-40c4-a760-2ecfb05b9d8f": "2026-11-14",
   "lever:jobgether:1d3792d3-b84d-4441-994c-b733f22cb0d9": "2026-11-14",
   "lever:jobgether:1e563cf7-02a8-43b0-a8e0-03a4ef5eaf1a": "2026-11-14",
+  "lever:jobgether:1f41924b-9c06-4b11-999f-1bc211f2544a": "2026-11-16",
   "lever:jobgether:21b02f7d-880b-4abd-ad1e-a0ee354a4445": "2026-11-14",
   "lever:jobgether:23e8f6ed-3502-485d-b40d-552db48f89eb": "2026-11-14",
   "lever:jobgether:245f6ecd-50b9-409a-b458-7d2d605c9b5b": "2026-11-14",
@@ -72451,6 +72456,7 @@
   "lever:jobgether:5d0fef63-09b8-4295-bd8c-1325509adaa0": "2026-11-14",
   "lever:jobgether:5df96346-5418-4694-88cc-fe6b4a043509": "2026-11-14",
   "lever:jobgether:5f924f1e-6a55-4bcb-b2c6-55e0e8748441": "2026-11-14",
+  "lever:jobgether:65a1156a-de46-49fd-8413-39a2b0b92b26": "2026-11-16",
   "lever:jobgether:69825357-d47e-494b-861f-d0f7bf0f4d1d": "2026-11-14",
   "lever:jobgether:6b53c42c-d477-46ac-937f-97e117a3d76c": "2026-11-14",
   "lever:jobgether:6b6a90a0-2cf8-4f28-87f2-8e79da2f1ff4": "2026-11-14",
@@ -72495,6 +72501,7 @@
   "lever:jobgether:c2f8cdcc-e863-4e3f-884b-2a63153cc5ae": "2026-11-14",
   "lever:jobgether:c3e6c562-da79-4e0d-8f8c-9daa7b7b5081": "2026-11-14",
   "lever:jobgether:c458c5ea-e3d4-43cb-b091-f6533e1b1a6e": "2026-11-14",
+  "lever:jobgether:c4af6e24-4639-43d0-948f-2a01b8935837": "2026-11-16",
   "lever:jobgether:c6445be2-ca67-4f3f-9e73-ae6bf376ed50": "2026-11-14",
   "lever:jobgether:c70a0291-5fad-4e0c-a62a-cfb3b176e229": "2026-11-14",
   "lever:jobgether:c9534b21-105a-4981-9b07-029f0fc5b9a5": "2026-11-16",
