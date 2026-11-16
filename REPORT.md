@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**692 jobs**, newest first. Updated Mon Nov 16, 6:37 AM CST from 12,526 company job boards and other sources.
+**692 jobs**, newest first. Updated Mon Nov 16, 7:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -742,7 +742,7 @@ Jump to: [Mon 16 (3)](#monday-nov-16-3) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | 10:42 AM | [Software Engineer, Web Infrastructure](https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042) | Notion | San Francisco, California; New York, Ne… (hybrid) | 70 |  |
 | 9:17 AM | [Systems Reliability Engineer - All Levels](https://jobs.ashbyhq.com/allen-control-systems/3075ceee-6a85-4170-9ffc-3e2f11697db7) | Allen Control Systems | Austin, TX | 65 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (665)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (668)
 
 <details><summary>Show</summary>
 
@@ -750,6 +750,9 @@ Jump to: [Mon 16 (3)](#monday-nov-16-3) · [Sun 15 (15)](#sunday-nov-15-15) · [
 |---|---|---|---|---:|---|
 | date only | [Senior DevOps Engineer](https://nvidia.eightfold.ai/careers/job/893398591334) | Nvidia | Yokne'am Illit, North District, IL (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Cloud Platform Engineer - AI Education Systems](https://nvidia.eightfold.ai/careers/job/893398750368) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
+| date only | [Security Tech Operations Engineer II, Amazon Security Hardware](https://www.amazon.jobs/en/jobs/10605797/security-tech-operations-engineer-ii-amazon-security-hardware) | Amazon.com Services LLC | Hebron, Kentucky, USA | 40 | rules: 4+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
+| 7:08 AM | [Infrastructure Engineer](https://jobs.smartrecruiters.com/CieloProjects/744000161803014-infrastructure-engineer) | Cieloprojects | New York, NY, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 7:07 AM (seen) | [Unix Engineer](https://app.dover.com/apply/covetus/fe1c7ccc-6016-40fb-a0b6-aebaa8b19504) | Covetus | United States (remote) | 12 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:56 AM | [Senior Security Engineer, Product & Platform](https://jobs.lever.co/jobgether/6c3a611f-cbcd-4782-b100-a11df13bcdd3) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 5:53 AM | [Senior DevOps Engineer II](https://www.storyblok.com/job?gh_jid=5036564101) | Storyblok | Remote (remote) | 32 | rules: 9+ yrs exp; senior title; location unclear; asks for 9+ years … |
 | 5:50 AM | [OpenShift Platform Engineer](https://jobs.lever.co/jobgether/6a1d0ed9-1ef9-44bb-902b-e7b4b3868b11) | Jobgether | US (remote) | 42 | rules: 6+ yrs exp; asks for 6+ years of experience |
@@ -1145,9 +1148,6 @@ Jump to: [Mon 16 (3)](#monday-nov-16-3) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | date only | [Full-stack Engineer 5 (The Cloud Operations Resilience Engineering) (…](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-5--The-Cloud-Operations-Resilience-Engineering---MEG-_R1003663-1) | Capital One | McLean, VA; Richmond, VA; Chicago, IL; … | 33 | asks for 9+ years of experience; 9+ yrs exp |
 | date only | [Advisor-Cloud & Observability Engineer](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Advisor-Cloud---Observability-Engineer_JR3020) | Fannie Mae | Reston, VA; Plano, TX | 38 | asks for 6+ years of experience; 6+ yrs exp |
 | date only | [GM managed IT Infrastructure and Banking Services](https://fiserv.wd5.myworkdayjobs.com/EXT/job/Berkeley-Heights-New-Jersey/VP-Product-Management_R-10404633) | Fiserv | Berkeley Heights, New Jersey (onsite) | 28 | asks for 15+ years of experience; 15+ yrs exp |
-| date only | [Linux System Administrator](https://ctcgroup.applytojob.com/apply/HSWlbuyJIP/Linux-System-Administrator) | CTC Group | Fort Meade, MD | 30 | rules: 15+ yrs exp; needs: security clearance |
-| date only | [Azure Platform Engineer](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Azure-Platform-Engineer_R2603650) | ICF International | Reston, VA | 65 | rules: needs: U.S. citizenship required |
-| date only | [Information Systems Administrator](https://spacedynamicslaboratory.applytojob.com/apply/uXUYmgNNi5/Information-Systems-Administrator) | Space Dynamics Laboratory | Stafford, VA | 30 | rules: 10+ yrs exp; needs: security clearance |
 
 </details>
 

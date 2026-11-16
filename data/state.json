@@ -3626,6 +3626,7 @@
   "dover:conveyor": "2026-11-15",
   "dover:coquinatech": "2026-11-16",
   "dover:cosmic": "2026-11-15",
+  "dover:covetus": "2026-11-16",
   "dover:createbase": "2026-11-15",
   "dover:crewful": "2026-11-15",
   "dover:culture-impact": "2026-11-15",
@@ -11938,17 +11939,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 145,
+   "n": 146,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 145,
+   "n": 146,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 145,
+   "n": 146,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -65568,6 +65569,7 @@
   "amazon:us:10604217": "2026-11-14",
   "amazon:us:10604594": "2026-11-14",
   "amazon:us:10605146": "2026-11-14",
+  "amazon:us:10605797": "2026-11-16",
   "apple:usa:200657320": "2026-11-14",
   "apple:usa:200674782": "2026-11-14",
   "apple:usa:200684228": "2026-11-14",
@@ -66424,6 +66426,7 @@
   "dover:comsparkint:369667b8-a59d-44dc-ad8d-d1b1bd949678": "2026-11-15",
   "dover:comsparkint:6bf1aa8d-7982-43b1-9af1-2e94c7bfdc7f": "2026-11-15",
   "dover:comsparkint:d9ac491b-255d-4804-8118-073561933268": "2026-11-15",
+  "dover:covetus:fe1c7ccc-6016-40fb-a0b6-aebaa8b19504": "2026-11-16",
   "dover:weaverobotics:5b7bf24e-a8dc-40a3-86a7-5ff4e929b49c": "2026-11-11",
   "eightfold:appliedmaterials:790318496424": "2026-11-15",
   "eightfold:dsm:562949978859630": "2026-11-14",
@@ -67385,6 +67388,7 @@
   "icims:careers-teksynap.icims.com:9754": "2026-11-09",
   "icims:careers-teksynap.icims.com:9765": "2026-11-09",
   "icims:careers-teksynap.icims.com:9768": "2026-11-12",
+  "icims:careers-teksynap.icims.com:9820": "2026-11-16",
   "icims:careers-tierpoint.icims.com:3074": "2026-11-09",
   "icims:careers-tierpoint.icims.com:3087": "2026-11-12",
   "icims:careers-uuhc.icims.com:85188": "2026-11-12",
@@ -68647,6 +68651,7 @@
   "smartrecruiters:bet3651:744000160877785": "2026-11-10",
   "smartrecruiters:boschgroup:744000158534431": "2026-11-09",
   "smartrecruiters:cieloprojects:744000159656404": "2026-11-14",
+  "smartrecruiters:cieloprojects:744000161803014": "2026-11-16",
   "smartrecruiters:cityofnewyork:3743990016716386": "2026-11-14",
   "smartrecruiters:cityofnewyork:3743990016750616": "2026-11-14",
   "smartrecruiters:cityofnewyork:3743990016751836": "2026-11-14",
