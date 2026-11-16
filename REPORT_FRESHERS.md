@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**730 jobs**, newest first. Updated Mon Nov 16, 6:21 AM CST from 12,526 company job boards and other sources.
+**729 jobs**, newest first. Updated Mon Nov 16, 7:18 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,13 +8,14 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 1,906 matching jobs that job sites and feeds listed this week, 360 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (8)](#monday-nov-16-8) · [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (93)](#tuesday-nov-10-93) · [Mon 9 (83)](#monday-nov-9-83)
+Jump to: [Mon 16 (9)](#monday-nov-16-9) · [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (93)](#tuesday-nov-10-93) · [Mon 9 (81)](#monday-nov-9-81)
 
-## Monday, Nov 16 (8)
+## Monday, Nov 16 (9)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Software Platform Engineer I](https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-I/21584) | MetLife |  | 70 | entry-level title; location unclear |
+| 7:18 AM (seen) | [Software Engineer](https://app.dover.com/apply/deepreel/252c8289-f930-47ac-8adf-8d07782e7b09) | Deepreel | International (remote) | 52 | 1+ yrs exp; location unclear |
 | 5:37 AM | [Associate Software Engineer](https://jobs.lever.co/jobgether/f03d7623-1070-43c7-8398-e76ffa3eb3e0) | Jobgether | US (remote) | 82 | entry-level title; 0-2 yrs exp |
 | 5:18 AM (seen) | [Business Analyst - US - Educational Raters](https://app.dover.com/apply/careerflow/348e705d-ebed-43cf-868a-150bd99947be) | Careerflow | International (remote) | 57 | entry level (from the text) |
 | 4:59 AM | [Solutions Delivery Analyst I](https://jobs.lever.co/jobgether/2b7241b1-6f6a-451b-8aca-ca78a004479e) | Jobgether | US (remote) | 82 | entry-level title; 1+ yrs exp |
@@ -692,7 +693,7 @@ Jump to: [Mon 16 (8)](#monday-nov-16-8) · [Sun 15 (20)](#sunday-nov-15-20) · [
 | 5:00 AM | [Associate Solution Consultant](https://jobs.ashbyhq.com/socure/f2330d9e-1c1d-493e-adb7-e7602efc789f) | Socure | Hub - New York; Hub - San Francisco; Hu… (hybrid) | 68 | entry-level title |
 | 12:00 AM | [Cyber Security Associate (Contract)](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9185) | Hightower | Chicago, IL, US | 63 | entry-level title |
 
-## Monday, Nov 9 (83)
+## Monday, Nov 9 (81)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -777,10 +778,8 @@ Jump to: [Mon 16 (8)](#monday-nov-16-8) · [Sun 15 (20)](#sunday-nov-15-20) · [
 | 9:21 AM | [Tools & Automation Engineer — Early Career](https://jobs.apple.com/en-us/details/200692689/tools-automation-engineer-early-career) | Apple | United States of America | 63 | entry-level title |
 | 8:39 AM | [Field Support Technician](https://jobs.workable.com/view/gSCiLEMdq5xq3ZNQ7p5VFN/field-support-technician-in-grand-rapids-at-rockford) | Rockford | Grand Rapids, Michigan (onsite) | 68 | entry level (from the text) |
 | 8:31 AM | [Specialist I, Quality Assurance](https://jobs.smartrecruiters.com/SGS/744000160629115-specialist-i-quality-assurance) | Société Générale de Surveilla… | Fairfield, NJ, United States | 73 | entry-level title; 0-2 yrs exp |
-| 6:48 AM | [Associate Consultant, Environmental Engineer/Geologist](https://jobs.smartrecruiters.com/Ramboll3/744000160606179-associate-consultant-environmental-engineer-geologist) | Ramboll | Houston, Texas, , United States | 63 | entry-level title |
-| 6:39 AM | [Junior AI/ML Engineer](https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393) | Netholabs | San Francisco (onsite) | 68 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3022)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3033)
 
 <details><summary>Show</summary>
 
@@ -794,6 +793,14 @@ Jump to: [Mon 16 (8)](#monday-nov-16-8) · [Sun 15 (20)](#sunday-nov-15-20) · [
 | date only | [SAP PM UAT Test analyst](https://careers.quality-ai.com/job/Bangalore-SAP-PM-UAT-Test-analyst-560045/61570344/) | Qualitest |  | 40 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
 | date only | [Firmware Engineer, Amazon Robotics](https://www.amazon.jobs/en/jobs/10605748/firmware-engineer-amazon-robotics) | Amazon.com Services LLC | North Reading, Massachusetts, USA | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Firmware System Integration Engineer](https://nvidia.eightfold.ai/careers/job/893398750374) | Nvidia | Santa Clara, CA, US (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Business Systems Analyst](https://careers.cisco.com/global/en/job/CISCISGLOBAL2022711EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| date only | [Technical Leader - CX Engineering Productivity](https://careers.cisco.com/global/en/job/CISCISGLOBAL2024739EXTERNALENGLOBAL) | Cisco | San Jose, California, United States of … | 45 | rules: 10+ yrs exp; asks for 10+ years of experience |
+| 7:18 AM (seen) | [Founding Data Engineer](https://app.dover.com/apply/clarahealth/742da307-f870-408e-860c-3fc7a3b645dc) | Clarahealth | San Francisco, CA (onsite) | 40 | rules: 5+ yrs exp; sponsors visas; asks for 5+ years of experience |
+| 7:18 AM (seen) | [AI Native Founding Engineer](https://app.dover.com/apply/coquinatech/e5f661e7-902b-45c7-89f9-3e78151f23d0) | Coquinatech | New York City, NY (onsite) | 50 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 7:18 AM (seen) | [Unix Engineer](https://app.dover.com/apply/covetus/fe1c7ccc-6016-40fb-a0b6-aebaa8b19504) | Covetus | United States (remote) | 27 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 7:18 AM (seen) | [Software Engineer](https://app.dover.com/apply/decisionly/2ac4bf62-f4ce-44c7-b14c-e3130a166470) | Decisionly | North America (remote) | 37 | rules: 3+ yrs exp; no future H-1B sponsorship; asks for 3+ years of e… |
+| 7:14 AM | [IT Infrastructure Engineer](https://jobs.lever.co/jobgether/14040680-3949-47cf-b666-01b3ec6f2f3b) | Jobgether | US (remote) | 37 | rules: 7+ yrs exp; no future H-1B sponsorship; asks for 7+ years of e… |
+| 7:08 AM | [Infrastructure Engineer](https://jobs.smartrecruiters.com/CieloProjects/744000161803014-infrastructure-engineer) | Cieloprojects | New York, NY, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:50 AM | [OpenShift Platform Engineer](https://jobs.lever.co/jobgether/6a1d0ed9-1ef9-44bb-902b-e7b4b3868b11) | Jobgether | US (remote) | 42 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 5:39 AM | [Data Engineer](https://jobs.lever.co/jobgether/dac12f33-a21f-414a-940c-581febb53b93) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:18 AM (seen) | [Data Analyst – Paid Finance Data Project (Remote)](https://app.dover.com/apply/careerflow/167e0d5e-9a2a-4c6c-ba6d-01f8458f610a) | Careerflow | United States (remote) | 57 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -812,6 +819,8 @@ Jump to: [Mon 16 (8)](#monday-nov-16-8) · [Sun 15 (20)](#sunday-nov-15-20) · [
 | 11:45 PM | [QA Automation Engineer](https://jobs.lever.co/jobgether/5acb5dac-e0bd-4822-9345-0c02bcc89a29) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:25 PM | [Data Engineer](https://jobs.ashbyhq.com/first-resonance/326cdc16-c3ee-46ee-a759-a65524f37db2) | First Resonance | Los Angeles (onsite) | 70 | rules: 4+ yrs exp; E-Verify; needs: ITAR |
 | 11:18 PM | [DevOps Engineer](https://jobs.ashbyhq.com/first-resonance/8d6700c8-48be-423e-9d66-fe51816deeab) | First Resonance | Los Angeles (onsite) | 55 | rules: 5+ yrs exp; E-Verify; needs: ITAR |
+| 11:00 PM | [Data Analyst](https://careers-cayuseholdings.icims.com/jobs/4578/data-analyst/job) | Cayuse Holdings | United States (remote) | 72 | rules: 2+ yrs exp; needs: Public Trust Clearance |
+| 11:00 PM | [Systems Security Engineer](https://bowheadcareers-uicalaska.icims.com/jobs/26692/systems-security-engineer/job) | Bowhead | Dahlgren, VA, United States | 60 | rules: 4+ yrs exp; needs: security clearance |
 | 10:27 PM | [Support Engineer](https://ats.rippling.com/button/jobs/6a12b0a7-ce58-4d40-86a9-4acb5574177f) | Button | New York, NY (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:50 PM | [Solutions Engineer](https://jobs.ashbyhq.com/PointOne/ead81d8b-5d51-4d1e-bfe5-63165ad2870d) | PointOne | New York City (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 7:22 PM | [Data Platform Engineer](https://jobs.smartrecruiters.com/Dominos/744000161708269-data-platform-engineer) | Domino's | Ann Arbor, MI, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -1176,15 +1185,5 @@ Jump to: [Mon 16 (8)](#monday-nov-16-8) · [Sun 15 (20)](#sunday-nov-15-20) · [
 | 1:18 PM (seen) | [Spacecraft Integration Technician](https://impulsespace.pinpointhq.com/en/postings/9ab799c8-bed3-493f-bda4-a0d0b7e6069b) | Impulse Space | Redondo Beach (onsite) | 35 | rules: 8+ yrs exp; needs: ITAR |
 | 1:18 PM (seen) | [RF Test Engineer](https://impulsespace.pinpointhq.com/en/postings/aae516da-6fbb-491a-8976-fa52645f355b) | Impulse Space | Redondo Beach (onsite) | 65 | rules: 2+ yrs exp; needs: ITAR |
 | 1:18 PM (seen) | [RF Systems Engineer (All levels)](https://impulsespace.pinpointhq.com/en/postings/161ce333-9c76-496c-b649-347e2bc25bff) | Impulse Space | Redondo Beach (onsite) | 65 | rules: 2+ yrs exp; needs: ITAR |
-| 1:18 PM (seen) | [Development Test Technician](https://impulsespace.pinpointhq.com/en/postings/003124fb-51c3-48d3-85cd-03ed5a7fa8ae) | Impulse Space | Redondo Beach (onsite) | 35 | rules: 5+ yrs exp; needs: ITAR |
-| 1:18 PM (seen) | [Software Engineer, DevEx & Tools](https://impulsespace.pinpointhq.com/en/postings/d81245f6-a6d4-432f-b301-83be3007cebe) | Impulse Space | Redondo Beach (onsite) | 65 | rules: 2+ yrs exp; needs: ITAR |
-| 1:18 PM (seen) | [Network Engineer (Corporate IT)](https://impulsespace.pinpointhq.com/en/postings/5e7c7775-752c-4f21-87a5-0e87a7363301) | Impulse Space | Redondo Beach (onsite) | 30 | rules: 5+ yrs exp; location unclear; needs: ITAR |
-| 1:18 PM (seen) | [Launch Integration Engineer](https://impulsespace.pinpointhq.com/en/postings/6a595402-0f9e-47f2-a892-6b6034e08477) | Impulse Space | Redondo Beach (onsite) | 35 | rules: 8+ yrs exp; needs: ITAR |
-| 1:18 PM (seen) | [IT Service Delivery Technician (AI&T)](https://impulsespace.pinpointhq.com/en/postings/0402ff44-9e4b-4dbe-bf77-7bf39466d720) | Impulse Space | Redondo Beach (onsite) | 50 | rules: 3+ yrs exp; needs: ITAR |
-| 1:18 PM (seen) | [IT Service Delivery Analyst (AI&T)](https://impulsespace.pinpointhq.com/en/postings/ec045182-976a-40b5-a901-cece2cfc4db9) | Impulse Space | Redondo Beach (onsite) | 35 | rules: 5+ yrs exp; needs: ITAR |
-| 1:18 PM (seen) | [Operations Support Specialist](https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26142801&lang=en) | State of Montana | Helena | 60 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 1:18 PM (seen) | [ML Research Consultant (AB2026-101)](https://app.dover.com/apply/abalonebio/2182951e-83c0-4e86-96ed-638de9700b66) | Abalone Bio | United States (remote) | 57 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 1:18 PM (seen) | [Software Engineer](https://app.dover.com/apply/conduit/ff655ee4-e65c-4f7b-bc81-dfb6c8ffb838) | Conduit | San Francisco, CA (hybrid) | 35 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| 1:18 PM (seen) | [Software Engineer, Fullstack](https://app.dover.com/apply/dots/143285f8-5826-4b67-9221-d1409e0ec473) | Dots 💸 | San Francisco, CA (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
