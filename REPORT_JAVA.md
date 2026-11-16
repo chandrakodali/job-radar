@@ -1,20 +1,24 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**184 jobs**, newest first. Updated Mon Nov 16, 8:49 AM CST from 12,526 company job boards and other sources.
+**188 jobs**, newest first. Updated Mon Nov 16, 9:47 AM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-128 repeat listings (same company and title in another place or on another source) are merged into one row.
+132 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 784 matching jobs that job sites and feeds listed this week, 196 (25%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 787 matching jobs that job sites and feeds listed this week, 196 (24%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (2)](#monday-nov-16-2) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (21)](#friday-nov-13-21) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19) · [Mon 9 (12)](#monday-nov-9-12)
+Jump to: [Mon 16 (6)](#monday-nov-16-6) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (21)](#friday-nov-13-21) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19) · [Mon 9 (12)](#monday-nov-9-12)
 
-## Monday, Nov 16 (2)
+## Monday, Nov 16 (6)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Desenvolvedor Pl - Java](https://spassu.zohorecruit.com/jobs/Careers/678402000036055048/Desenvolvedor-Pl-Java) | Spassu |  (remote) | 57 | location unclear |
+| 9:25 AM | [he Core Engineering- Software Engineering - Associate - New York](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/184980) | Goldman Sachs | New York, NY, United States | 55 | entry-level title; 3+ yrs exp; requires Java |
+| 9:25 AM | [he Core Engineering- Software Engineering - Associate - New York](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/184980) | Hdpc Fa Us2 Oraclecloud Com | New York, NY, United States | 50 | entry-level title; 3+ yrs exp; requires Java |
+| 8:59 AM | [Senior Application Software Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349266) | Oracle | United States | 40 | 4+ yrs exp; senior title; requires Java |
+| 8:59 AM | [Senior Application Software Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/349266) | Eeho Fa Us2 Oraclecloud Com | United States | 40 | 4+ yrs exp; senior title; requires Java |
 | 7:28 AM | [1000000554.SOFTWARE ENGINEER II.INFO TECH - APPLICATIONS](https://fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26000592) | Dallas County | Dallas, TX, United States | 40 | 3+ yrs exp; requires Java |
 
 ## Sunday, Nov 15 (8)
