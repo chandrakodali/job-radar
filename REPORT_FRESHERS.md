@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**724 jobs**, newest first. Updated Sun Nov 15, 11:15 PM CST from 12,526 company job boards and other sources.
+**723 jobs**, newest first. Updated Mon Nov 16, 12:18 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 1,710 matching jobs that job sites and feeds listed this week, 324 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (92)](#tuesday-nov-10-92) · [Mon 9 (85)](#monday-nov-9-85)
+Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (92)](#tuesday-nov-10-92) · [Mon 9 (84)](#monday-nov-9-84)
 
 ## Sunday, Nov 15 (20)
 
@@ -679,7 +679,7 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 5:00 AM | [Associate Solution Consultant](https://jobs.ashbyhq.com/socure/f2330d9e-1c1d-493e-adb7-e7602efc789f) | Socure | Hub - New York; Hub - San Francisco; Hu… (hybrid) | 68 | entry-level title |
 | 12:00 AM | [Cyber Security Associate (Contract)](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9185) | Hightower | Chicago, IL, US | 63 | entry-level title |
 
-## Monday, Nov 9 (85)
+## Monday, Nov 9 (84)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -767,9 +767,8 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 6:48 AM | [Associate Consultant, Environmental Engineer/Geologist](https://jobs.smartrecruiters.com/Ramboll3/744000160606179-associate-consultant-environmental-engineer-geologist) | Ramboll | Houston, Texas, , United States | 63 | entry-level title |
 | 6:39 AM | [Junior AI/ML Engineer](https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393) | Netholabs | San Francisco (onsite) | 68 | entry-level title |
 | 4:25 AM | [Support Engineer, PAYGO](https://jobs.lever.co/jobgether/6ba9dce0-97e9-470f-a59b-06b6c673fcf2) | Jobgether | US (remote) | 60 | entry level (from the text) |
-| 12:00 AM | [Mergers and Acquisitions Integration Associate](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9183) | Hightower | Chicago, IL, US | 63 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2996)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3000)
 
 <details><summary>Show</summary>
 
@@ -777,6 +776,10 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 |---|---|---|---|---:|---|
 | date only | [Engineer, Global Quality Package Design and Development Quality Assur…](https://micron.eightfold.ai/careers/job/45517929) | Micron | SG (onsite) | 60 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | date only | [Software Engineer, Storage](https://nvidia.eightfold.ai/careers/job/893398741679) | Nvidia | Ra'anana, Center District, IL (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 12:18 AM (seen) | [Founding Full-Stack Software Engineer Who Has Applied for US Green Ca…](https://app.dover.com/apply/cherrymoss/35d9c1c6-0272-4f96-94d4-cf26b90ac67e) | Cherrymoss | Canada; United States; San Francisco, CA (hybrid) | 70 | rules: 2+ yrs exp; sponsors visas; asks for 2+ years of experience |
+| 11:45 PM | [QA Automation Engineer](https://jobs.lever.co/jobgether/5acb5dac-e0bd-4822-9345-0c02bcc89a29) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 11:25 PM | [Data Engineer](https://jobs.ashbyhq.com/first-resonance/326cdc16-c3ee-46ee-a759-a65524f37db2) | First Resonance | Los Angeles (onsite) | 70 | rules: 4+ yrs exp; E-Verify; needs: ITAR |
+| 11:18 PM | [DevOps Engineer](https://jobs.ashbyhq.com/first-resonance/8d6700c8-48be-423e-9d66-fe51816deeab) | First Resonance | Los Angeles (onsite) | 55 | rules: 5+ yrs exp; E-Verify; needs: ITAR |
 | 10:27 PM | [Support Engineer](https://ats.rippling.com/button/jobs/6a12b0a7-ce58-4d40-86a9-4acb5574177f) | Button | New York, NY (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:50 PM | [Solutions Engineer](https://jobs.ashbyhq.com/PointOne/ead81d8b-5d51-4d1e-bfe5-63165ad2870d) | PointOne | New York City (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 7:22 PM | [Data Platform Engineer](https://jobs.smartrecruiters.com/Dominos/744000161708269-data-platform-engineer) | Domino's | Ann Arbor, MI, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -1171,9 +1174,5 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 12:31 PM | [Associate Engineer - Environmental- Citywide (5207) - (C00476)](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016848906-associate-engineer-environmental-citywide-5207-c00476-) | City and County of San Franci… | San Francisco, CA, United States | 70 | rules: entry-level title; 3+ yrs exp; asks for 3+ years of experience |
 | 12:24 PM | [Business Systems Analyst](https://job-boards.greenhouse.io/kinders/jobs/5481777008) | Kinders | Walnut Creek, CA | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:19 PM | [Voice Product Analytics - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805875) | JP Morgan Chase | Columbus, OH, United States | 70 | rules: entry-level title; 3+ yrs exp; asks for 3+ years of experience |
-| 12:13 PM | [Aircraft Technical Support Representative, Aftermarket](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4505817009) | Betatechnologiesinc | South Burlington, Vermont, United States | 50 | rules: 5+ yrs exp; E-Verify; asks for 5+ years of experience |
-| 12:09 PM | [MDA Test Analyst](https://mobius-llc.com/careers?gh_jid=5294502007) | Mobius | Huntsville, AL | 45 | rules: 5+ yrs exp; needs: Active Secret |
-| 12:09 PM | [Network Field Support Engineer-Contract Position (3 Months)](https://jobs.smartrecruiters.com/Sutherland/744000161550548-network-field-support-engineer-contract-position-3-months-) | Sutherland | Clifton, NJ, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 12:03 PM | [ICS Network/Security Engineer](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45413) | NOV | Houston, TX, United States (hybrid) | 50 | rules: 5+ yrs exp; needs: security clearance |
 
 </details>

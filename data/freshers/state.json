@@ -3593,7 +3593,9 @@
   "dover:c-gen-ai": "2026-11-15",
   "dover:capitol": "2026-11-15",
   "dover:castle": "2026-11-13",
+  "dover:certive": "2026-11-16",
   "dover:chasi": "2026-11-13",
+  "dover:cherrymoss": "2026-11-16",
   "dover:churchilltechnologies": "2026-11-15",
   "dover:cicero": "2026-11-15",
   "dover:clad": "2026-11-15",
@@ -11678,17 +11680,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 59,
+   "n": 60,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 59,
+   "n": 60,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 59,
+   "n": 60,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -64822,6 +64824,8 @@
   "ashby:fal-ai:ea301cfb-6954-4428-9d54-2b9df6048bc1": "2026-11-13",
   "ashby:fieldguide:67ddadf0-19de-418c-9d85-28d562b5042d": "2026-11-13",
   "ashby:fireworks:00d6cb2a-96ed-4478-9200-826104a7d624": "2026-11-13",
+  "ashby:first-resonance:326cdc16-c3ee-46ee-a759-a65524f37db2": "2026-11-16",
+  "ashby:first-resonance:8d6700c8-48be-423e-9d66-fe51816deeab": "2026-11-16",
   "ashby:fluidstack:0189d03c-30ff-453b-b673-a7c14f15fefe": "2026-11-13",
   "ashby:fluidstack:0caa4308-9a09-466d-ba03-b809595e8d41": "2026-11-13",
   "ashby:fluidstack:2ad45104-0c05-45e9-9d76-3c38b2ea623d": "2026-11-13",
@@ -67521,6 +67525,8 @@
   "dover:bontuteur:f6c811c3-ecfe-44e5-ab4f-49c36a238169": "2026-11-16",
   "dover:brellium:2473a9b4-0f04-4fc1-8205-98d8ededd9f9": "2026-11-16",
   "dover:c-gen-ai:2ddc9bab-82c0-4554-bc2e-7b023e3bc5d9": "2026-11-15",
+  "dover:certive:7aeb3a89-6007-4f4d-8564-918b74165a89": "2026-11-16",
+  "dover:cherrymoss:35d9c1c6-0272-4f96-94d4-cf26b90ac67e": "2026-11-16",
   "dover:cicero:2b6bf715-ccdf-4b4d-ac5f-a89f3df3044c": "2026-11-15",
   "dover:cicero:c270ce27-1470-4621-accc-f0bcce5e92ca": "2026-11-15",
   "dover:cloudforgesoftware:b6931c20-96f5-428b-99a4-45607e74f7c8": "2026-11-15",
@@ -72402,6 +72408,7 @@
   "lever:jobgether:08b7dd6a-eb23-458b-9568-dc2c9fee800f": "2026-11-14",
   "lever:jobgether:0c283a8d-6190-4326-acea-e12a22f0bc12": "2026-11-14",
   "lever:jobgether:0ff827f8-e7d6-41fa-8073-c7cf81d996c9": "2026-11-14",
+  "lever:jobgether:135e7cc2-a735-412f-8382-ec84ebbc1135": "2026-11-16",
   "lever:jobgether:19699243-449b-40c4-a760-2ecfb05b9d8f": "2026-11-14",
   "lever:jobgether:1d3792d3-b84d-4441-994c-b733f22cb0d9": "2026-11-14",
   "lever:jobgether:1e563cf7-02a8-43b0-a8e0-03a4ef5eaf1a": "2026-11-14",
@@ -72422,6 +72429,7 @@
   "lever:jobgether:4adde91c-124f-4b1a-ad24-a7f1d5c0bfad": "2026-11-14",
   "lever:jobgether:4c6bcc39-a22c-4a25-a300-00c79bf53526": "2026-11-14",
   "lever:jobgether:59469943-c696-40a4-9abb-0ef564c224e6": "2026-11-14",
+  "lever:jobgether:5acb5dac-e0bd-4822-9345-0c02bcc89a29": "2026-11-16",
   "lever:jobgether:5b9b67ba-c44d-48fa-98ac-4fcc3f6734ec": "2026-11-14",
   "lever:jobgether:5c3908dd-3fb5-4b42-a102-41aed9c3856e": "2026-11-14",
   "lever:jobgether:5d0fef63-09b8-4295-bd8c-1325509adaa0": "2026-11-14",
