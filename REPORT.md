@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**695 jobs**, newest first. Updated Mon Nov 16, 9:37 AM CST from 12,526 company job boards and other sources.
+**695 jobs**, newest first. Updated Mon Nov 16, 10:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -752,6 +752,7 @@ Jump to: [Mon 16 (9)](#monday-nov-16-9) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 1:38 PM | [Senior Platform Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1dbdd623-584f-49ff-9c37-77cd8670f636&ccId=19000101_000001&jobId=9200604026737_6&lang=en_US) | 1Dbdd623 584F 49Ff 9C37 77Cd8… | Glen Burnie, MD | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
+| date only | [Senior Software Engineer - Accelerated Kubernetes Runtime Team](https://nvidia.eightfold.ai/careers/job/893394443076) | Nvidia | WA,US; US +3 more (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Systems Administrator](https://ngc.eightfold.ai/careers/job/1340075351241) | Ngc | Colorado Springs, CO, US (onsite) | 65 | rules: 2+ yrs exp; needs: CLEARANCE REQUIRED |
 | date only | [Senior DevOps Engineer](https://nvidia.eightfold.ai/careers/job/893398591334) | Nvidia | Yokne'am Illit, North District, IL (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Cloud Platform Engineer - AI Education Systems](https://nvidia.eightfold.ai/careers/job/893398750368) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
@@ -759,6 +760,8 @@ Jump to: [Mon 16 (9)](#monday-nov-16-9) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | 10:14 AM | [AWS Databricks Database Engineer](https://jobs.lever.co/jobgether/616e390a-1e5b-4902-aeb5-5f0d6f6eef5d) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 10:12 AM | [Databricks AWS Database Administrator](https://jobs.lever.co/jobgether/d0d0b10a-9ba4-4ce7-997d-3d7db4e759fc) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 10:09 AM | [Cloud Database Administrator](https://jobs.lever.co/jobgether/9dd9f072-6671-4b56-b02c-7c9080f9e8b8) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; needs: Must be a U.S. citizen |
+| 10:03 AM | [IT Systems Engineer](https://jobs.ashbyhq.com/saronic/4b601575-99ba-4a5e-962f-d884bb3a85ac) | Saronic | Austin, TX (onsite) | 50 | rules: 4+ yrs exp; needs: security clearance |
+| 9:50 AM | [Senior Client Platform Engineer](https://boards.greenhouse.io/robinhood/jobs/8354333?t=gh_src=&gh_jid=8354333) | Robinhood | Menlo Park, CA | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 9:07 AM (seen) | [Software Engineer, Infrastructure (C++)](https://app.dover.com/apply/fabri-usa/b87c78ba-9d17-47da-a822-259b1549798f) | Fabri Usa | Billerica, MA (onsite) | 45 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: ITAR |
 | 8:51 AM | [Database Platform Engineer](https://jobs.lever.co/jobgether/41c2eaaf-fd24-4d0f-9938-9b97d6cb238c) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:47 AM | [Senior DataOps Engineer](https://job-boards.greenhouse.io/scoutmotors/jobs/5292680007) | Scout Motors | United States (remote) | 42 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
@@ -776,6 +779,7 @@ Jump to: [Mon 16 (9)](#monday-nov-16-9) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | 12:07 AM (seen) | [Systems Reliability Engineer II (Pune)](https://jobs.jobvite.com/nutanix/job/ohIWAfwf) | Nutanix |  | 20 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
 | 11:18 PM | [DevOps Engineer](https://jobs.ashbyhq.com/first-resonance/8d6700c8-48be-423e-9d66-fe51816deeab) | First Resonance | Los Angeles (onsite) | 55 | rules: 5+ yrs exp; E-Verify; needs: ITAR |
 | 11:00 PM | [Platform Engineer](https://arc-onesolutions.icims.com/jobs/17276/platform-engineer/job) | ARC-One Solutions | United States | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
+| 11:00 PM | [Mid-Level DevSecOps Engineer](https://careers-simventions.icims.com/jobs/1670/mid-level-devsecops-engineer/job) | SimVentions | Dahlgren, VA, United States (remote) | 62 | rules: needs: Secret Clearance |
 | 7:22 PM | [Senior Network Engineer](https://jobs.smartrecruiters.com/Dominos/744000161707674-senior-network-engineer) | Domino's | Ann Arbor, MI, United States | 30 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 7:22 PM | [Data Platform Engineer](https://jobs.smartrecruiters.com/Dominos/744000161708269-data-platform-engineer) | Domino's | Ann Arbor, MI, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:07 PM (seen) | [Linux Systems Administrator DOD Secret IAT Level III](https://vertucom.catsone.com/careers/65909-Associates-Systems-LLC/jobs/16717697-Linux-Systems-Administrator-DOD-Secret--IAT-Level-III/) | Vertucom |  | 15 | rules: 7+ yrs exp; senior title; needs: security clearance |
@@ -848,7 +852,6 @@ Jump to: [Mon 16 (9)](#monday-nov-16-9) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | 11:53 AM | [IT Operations Engineer](https://jobs.ashbyhq.com/physicalintelligence/16bfcb45-4056-4e8d-b1d7-7411fffeb5a1) | Physical Intelligence | San Francisco (onsite) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:20 AM | [Platform Engineer, Kubernetes](https://jobs.ashbyhq.com/Clera/dd57a8f6-ca07-43cc-8191-5ebc413d810e) | Clera | San Francisco (onsite) | 55 | rules: 5+ yrs exp; sponsors visas; asks for 5+ years of experience |
 | date only | [Senior Site Reliability Engineer - Kubernetes Platform](https://nvidia.eightfold.ai/careers/job/893393669632) | Nvidia | Santa Clara, CA, US; Durham, NC, US; Au… (onsite) | 38 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| date only | [Senior Software Engineer - Distributed Systems Engineer, EDA Infrastr…](https://nvidia.eightfold.ai/careers/job/893397487444) | Nvidia | WA,US; Austin, TX, US; Westford, MA, US… (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Network Reliability Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893395121939) | Nvidia | Santa Clara, CA, US; US +1 more (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior AI Infrastructure Engineer - EDA Infrastructure](https://nvidia.eightfold.ai/careers/job/893397486935) | Nvidia | CA,US; Austin, TX, US; Westford, MA, US… (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior HPC Storage Engineer - EDA Infrastructure](https://nvidia.eightfold.ai/careers/job/893394206119) | Nvidia | Santa Clara, CA, US; US +1 more (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
@@ -1148,9 +1151,6 @@ Jump to: [Mon 16 (9)](#monday-nov-16-9) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | 12:30 PM | [1000000901.NETWORK ENGINEER III.INFO TECH - OPERATIONS](https://fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26000785) | Dallas County | Dallas, TX, United States | 23 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:06 PM | [Senior Infrastructure Engineer](https://jobs.ashbyhq.com/Crusoe/9a183c7b-31d0-4814-8f0f-b0beecfd4922) | Crusoe | Sunnyvale, CA - US (onsite) | 53 | rules: 5+ yrs exp; senior title; priority company; asks for 5+ years … |
 | 11:54 AM | [Senior II Site Reliability Engineer](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4267) | Akamai Technologies | United States (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| 11:32 AM | [Senior Application Support Engineer (SRE)](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/213977) | DTCC | Tampa, FL, United States | 38 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
-| 11:32 AM | [Senior Application Support Engineer (SRE)](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/213977) | Ebxr Fa Us2 Oraclecloud Com | Tampa, FL, United States | 28 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
-| date only | [Cloud Security Engineer](https://internaljobs.centurylink.com/job/Remote-Cloud-Security-Engineer/1449413900/) | CenturyLink | Remote, United States | 45 | asks for 6+ years of experience; 6+ yrs exp |
 
 </details>
 
