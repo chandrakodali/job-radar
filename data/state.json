@@ -11938,17 +11938,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 142,
+   "n": 143,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 142,
+   "n": 143,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 142,
+   "n": 143,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14794,8 +14794,8 @@
    376
   ],
   "2026-11-16": [
-   62,
-   143
+   82,
+   182
   ]
  },
  "resolved": {
@@ -65902,6 +65902,7 @@
   "bamboohr:datavizion:125": "2026-11-15",
   "bamboohr:datavizion:127": "2026-11-15",
   "bamboohr:deciphex:400": "2026-11-15",
+  "bamboohr:deciphex:408": "2026-11-16",
   "bamboohr:domusglobal:338": "2026-11-15",
   "bamboohr:dupont:121": "2026-11-15",
   "bamboohr:dupont:139": "2026-11-15",
@@ -69581,10 +69582,10 @@
  "source_last": {
   "hn": "2026-11-16T08:37:32+00:00",
   "remoteok": "2026-11-16T10:37:15+00:00",
-  "usajobs": "2026-11-16T08:37:32+00:00",
-  "workable_search": "2026-11-16T08:37:32+00:00",
-  "wwr": "2026-11-16T10:37:15+00:00",
-  "yc": "2026-11-16T08:37:32+00:00"
+  "usajobs": "2026-11-16T11:37:16+00:00",
+  "workable_search": "2026-11-16T11:37:16+00:00",
+  "wwr": "2026-11-16T11:37:16+00:00",
+  "yc": "2026-11-16T11:37:16+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
