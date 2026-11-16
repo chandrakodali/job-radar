@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**728 jobs**, newest first. Updated Sun Nov 15, 7:17 PM CST from 12,526 company job boards and other sources.
+**727 jobs**, newest first. Updated Sun Nov 15, 8:16 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 1,610 matching jobs that job sites and feeds listed this week, 306 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (92)](#tuesday-nov-10-92) · [Mon 9 (84)](#monday-nov-9-84) · [Sun 8 (6)](#sunday-nov-8-6)
+Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (92)](#tuesday-nov-10-92) · [Mon 9 (84)](#monday-nov-9-84) · [Sun 8 (5)](#sunday-nov-8-5)
 
 ## Sunday, Nov 15 (19)
 
@@ -767,7 +767,7 @@ Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143
 | 4:25 AM | [Support Engineer, PAYGO](https://jobs.lever.co/jobgether/6ba9dce0-97e9-470f-a59b-06b6c673fcf2) | Jobgether | US (remote) | 60 | entry level (from the text) |
 | 12:00 AM | [Mergers and Acquisitions Integration Associate](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9183) | Hightower | Chicago, IL, US | 63 | entry-level title |
 
-## Sunday, Nov 8 (6)
+## Sunday, Nov 8 (5)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -776,15 +776,15 @@ Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143
 | 11:00 PM | [Software Engineer - Digitech - Remote](https://jobs.dayforcehcm.com/en-US/sarnova/CANDIDATEPORTAL/jobs/1909) | Sarnova | US (remote) | 60 | 1+ yrs exp |
 | 11:00 PM | [Data Center Facility Technician - DFW](https://jobs.dayforcehcm.com/en-US/edc/candidateportaledc/jobs/965) | Edc | Irving, TX, US | 63 | 1+ yrs exp |
 | 10:47 PM | [Data Operations Specialist (Contractor)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4d6d36b1-bedf-4c57-88e7-3817e50bbf21&ccId=19000101_000001&jobId=9202611212108_8&lang=en_US) | 4D6D36B1 Bedf 4C57 88E7 3817E… | Waltham, MA; NY; Chicago, IL | 63 | entry level (from the text) |
-| 8:00 PM | [Patient Support Associate](https://jobs.workable.com/view/1QiEY1djgFwruuycQq9WDi/remote-patient-support-associate-in-united-states-at-theranica-usa%2C-inc.) | Theranica USA, Inc. | Remote, US (remote) | 60 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2992)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2993)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Engineer, Global Quality Package Design and Development Quality Assur…](https://micron.eightfold.ai/careers/job/45517929) | Micron | SG (onsite) | 60 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
+| 7:22 PM | [Data Platform Engineer](https://jobs.smartrecruiters.com/Dominos/744000161708269-data-platform-engineer) | Domino's | Ann Arbor, MI, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:12 PM (seen) | [GIS Data Analyst 3445](https://geniusroad.catsone.com/careers/41437-General/jobs/16873657-GIS-Data-Analyst-3445/) | Geniusroad |  | 45 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 4:27 PM | [Security Intelligence Analyst, Consultant](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262183) | Ecge Fa Us2 Oraclecloud Com | Oakland, CA, United States | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 4:27 PM | [Security Intelligence Analyst, Consultant](https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20262183) | Blue Shield of California | Oakland, CA, United States | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
@@ -1183,6 +1183,5 @@ Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143
 | 12:03 PM | [Salesforce Platform Engineer](https://jobs.smartrecruiters.com/AbbVie/3743990016848096-salesforce-platform-engineer) | AbbVie | Mettawa, IL, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:57 AM | [Software Development Engineer - Equipment Control](https://jobs.smartrecruiters.com/Intuitive/744000161547597-software-development-engineer-equipment-control) | Intuitive Surgical | Sunnyvale, CA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:51 AM | [Security Engineer (6389)](https://job-boards.greenhouse.io/itd/jobs/4506875009) | Itd | San Jose, CA | 40 | rules: 7+ yrs exp; no future H-1B sponsorship; asks for 7+ years of e… |
-| 11:49 AM | [Statistical Reporting Analyst (P&C Insurance)](https://job-boards.greenhouse.io/suttonnationalinsurance/jobs/4506824009) | Suttonnationalinsurance | United States - Remote (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>

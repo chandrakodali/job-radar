@@ -11672,17 +11672,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 55,
+   "n": 56,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 55,
+   "n": 56,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 55,
+   "n": 56,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -75607,6 +75607,7 @@
   "smartrecruiters:crowninnovationsinc:744000160600979": "2026-11-13",
   "smartrecruiters:crowninnovationsinc:744000161319429": "2026-11-13",
   "smartrecruiters:dominos:744000161410761": "2026-11-13",
+  "smartrecruiters:dominos:744000161708269": "2026-11-16",
   "smartrecruiters:eataly:744000161212780": "2026-11-13",
   "smartrecruiters:eurofins:744000159464721": "2026-11-13",
   "smartrecruiters:eurofins:744000159522659": "2026-11-13",
