@@ -11554,17 +11554,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 35,
+   "n": 36,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 35,
+   "n": 36,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 35,
+   "n": 36,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -64924,6 +64924,7 @@
   "eightfold:amdocs:563431014762353": "2026-11-14",
   "eightfold:appliedmaterials:790317634510": "2026-11-14",
   "eightfold:appliedmaterials:790319443699": "2026-11-14",
+  "eightfold:astrazeneca:563877691444732": "2026-11-16",
   "eightfold:autodesk:1443152974635": "2026-11-16",
   "eightfold:autodesk:1443153771161": "2026-11-14",
   "eightfold:autodesk:1443153804251": "2026-11-14",
@@ -66579,6 +66580,7 @@
   "lever:jobgether:c6445be2-ca67-4f3f-9e73-ae6bf376ed50": "2026-11-14",
   "lever:jobgether:ce66a95c-1a06-42dc-a28e-5a65d960c1ac": "2026-11-14",
   "lever:jobgether:d007b034-95c9-43ef-b6c9-175773560385": "2026-11-14",
+  "lever:jobgether:e20facbc-c67e-433d-8ebd-d46e0377b2c5": "2026-11-16",
   "lever:jobgether:e77ae819-d598-4d58-8c2a-835267008435": "2026-11-14",
   "lever:jobgether:ec8d9397-22c6-4749-bcbc-e5c8d01316aa": "2026-11-14",
   "lever:jobgether:ec9c4292-142e-4b7c-b019-5802e8388d33": "2026-11-14",
