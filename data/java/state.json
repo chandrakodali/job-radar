@@ -11552,17 +11552,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 29,
+   "n": 30,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 29,
+   "n": 30,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 29,
+   "n": 30,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12821,35 +12821,35 @@
  "last_digest": "2026-11-15",
  "missed_companies": {
   "*Confidential Healthcare AI Startup": "2026-11-15",
-  "Bask Health": "2026-11-15",
-  "Beacons": "2026-11-15",
-  "Bountiful": "2026-11-15",
-  "Candid Health": "2026-11-15",
+  "Bask Health": "2026-11-16",
+  "Beacons": "2026-11-16",
+  "Bountiful": "2026-11-16",
+  "Candid Health": "2026-11-16",
   "Collabify": "2026-11-15",
   "Early-stage Startup": "2026-11-15",
-  "EdgeQ Technologies Private Limited": "2026-11-15",
-  "Fathom Robotics": "2026-11-15",
-  "GoGoGrandparent": "2026-11-15",
-  "HelloGov AI": "2026-11-15",
-  "Jiffy": "2026-11-15",
-  "Julius": "2026-11-15",
+  "EdgeQ Technologies Private Limited": "2026-11-16",
+  "Fathom Robotics": "2026-11-16",
+  "GoGoGrandparent": "2026-11-16",
+  "HelloGov AI": "2026-11-16",
+  "Jiffy": "2026-11-16",
+  "Julius": "2026-11-16",
   "Kroo": "2026-11-15",
-  "Medplum": "2026-11-15",
-  "Method Financial": "2026-11-15",
-  "Mindful Support Services": "2026-11-15",
-  "Multi Media LLC": "2026-11-15",
+  "Medplum": "2026-11-16",
+  "Method Financial": "2026-11-16",
+  "Mindful Support Services": "2026-11-16",
+  "Multi Media LLC": "2026-11-16",
   "New Product": "2026-11-15",
-  "Pavago": "2026-11-15",
-  "Pine Park Health": "2026-11-15",
-  "Polymath Robotics": "2026-11-15",
-  "Rockstar": "2026-11-15",
-  "Sapsol Technologies Inc": "2026-11-15",
+  "Pavago": "2026-11-16",
+  "Pine Park Health": "2026-11-16",
+  "Polymath Robotics": "2026-11-16",
+  "Rockstar": "2026-11-16",
+  "Sapsol Technologies Inc": "2026-11-16",
   "Stealth Health-Tech Startup": "2026-11-15",
-  "Symmetrio": "2026-11-15",
-  "True Talent Solutions Partners": "2026-11-15",
-  "Turing Labs Inc.": "2026-11-15",
-  "WorldVia": "2026-11-15",
-  "eVisit": "2026-11-15"
+  "Symmetrio": "2026-11-16",
+  "True Talent Solutions Partners": "2026-11-16",
+  "Turing Labs Inc.": "2026-11-16",
+  "WorldVia": "2026-11-16",
+  "eVisit": "2026-11-16"
  },
  "missing_once": {},
  "recall": {
@@ -12860,6 +12860,10 @@
   "2026-11-15": [
    111,
    434
+  ],
+  "2026-11-16": [
+   13,
+   50
   ]
  },
  "resolved": {
@@ -68525,11 +68529,11 @@
  },
  "source_last": {
   "hn": "2026-11-15T23:47:42+00:00",
-  "remoteok": "2026-11-15T22:23:58+00:00",
-  "usajobs": "2026-11-15T21:24:55+00:00",
-  "workable_search": "2026-11-15T21:24:55+00:00",
-  "wwr": "2026-11-15T23:47:42+00:00",
-  "yc": "2026-11-15T21:24:55+00:00"
+  "remoteok": "2026-11-16T00:48:53+00:00",
+  "usajobs": "2026-11-16T00:48:53+00:00",
+  "workable_search": "2026-11-16T00:48:53+00:00",
+  "wwr": "2026-11-16T00:48:53+00:00",
+  "yc": "2026-11-16T00:48:53+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
