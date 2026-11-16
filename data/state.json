@@ -11938,17 +11938,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 140,
+   "n": 141,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 140,
+   "n": 141,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 140,
+   "n": 141,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12358,16 +12358,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 4,
    "since": "2026-11-09"
-  },
-  "icims:careers-cotiviti.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-16"
-  },
-  "icims:careers-eyesouthpartners.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-16"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-23",
@@ -14805,7 +14795,7 @@
   ],
   "2026-11-16": [
    62,
-   141
+   143
   ]
  },
  "resolved": {
@@ -69589,10 +69579,10 @@
  },
  "source_last": {
   "hn": "2026-11-16T08:37:32+00:00",
-  "remoteok": "2026-11-16T08:37:32+00:00",
+  "remoteok": "2026-11-16T10:37:15+00:00",
   "usajobs": "2026-11-16T08:37:32+00:00",
   "workable_search": "2026-11-16T08:37:32+00:00",
-  "wwr": "2026-11-16T09:37:23+00:00",
+  "wwr": "2026-11-16T10:37:15+00:00",
   "yc": "2026-11-16T08:37:32+00:00"
  },
  "title_rules": "c323075b4d70",
