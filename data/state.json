@@ -3618,7 +3618,9 @@
   "dover:comsparkint": "2026-11-15",
   "dover:concourse": "2026-11-15",
   "dover:conduit": "2026-11-11",
+  "dover:conduitai": "2026-11-16",
   "dover:conveyor": "2026-11-15",
+  "dover:coquinatech": "2026-11-16",
   "dover:cosmic": "2026-11-15",
   "dover:createbase": "2026-11-15",
   "dover:crewful": "2026-11-15",
@@ -11930,17 +11932,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 123,
+   "n": 124,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 123,
+   "n": 124,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 123,
+   "n": 124,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14403,9 +14405,9 @@
    "since": "2026-11-10"
   },
   "workday:aah|wd5|External": {
-   "disabled_until": "2026-11-16",
+   "disabled_until": "2026-11-23",
    "err": "HTTP 410",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-08"
   },
   "workday:amat|wd1|External": {
