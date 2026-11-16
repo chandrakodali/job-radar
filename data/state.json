@@ -7988,6 +7988,7 @@
   "paylocity:0cc1c035-08e6-453e-8096-abb5d3303a99": "2026-11-15",
   "paylocity:0cdcd78d-79e0-4a6b-a633-b39f86b88bf9": "2026-11-15",
   "paylocity:0d0cdb98-ced2-44b9-b079-e37b2ae9a19b": "2026-11-15",
+  "paylocity:0d7f2bf6-cbfb-412d-991a-873c4dc2bf82": "2026-11-16",
   "paylocity:0d97f108-bcf4-4dae-bc7c-84cd9e6c5137": "2026-11-16",
   "paylocity:0db36655-7ae1-4ba3-8904-f48848360b5a": "2026-11-15",
   "paylocity:0db44b81-4269-44e5-9d68-47ba1208c6d1": "2026-11-15",
@@ -11937,17 +11938,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 138,
+   "n": 139,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 138,
+   "n": 139,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 138,
+   "n": 139,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14794,7 +14795,7 @@
   ],
   "2026-11-16": [
    62,
-   139
+   141
   ]
  },
  "resolved": {
@@ -65849,6 +65850,7 @@
   "avature:santos.avature.net|internalCareer:82288": "2026-11-15",
   "avature:synopsys.avature.net|careers:19556": "2026-11-09",
   "avature:tennet.avature.net|tobedeleted1:115558": "2026-11-14",
+  "avature:tmf.avature.net|careersmarketplace:34159": "2026-11-16",
   "avature:tmf.avature.net|careersmarketplace:35948": "2026-11-14",
   "avature:totalenergies.avature.net|careers:86217": "2026-11-14",
   "avature:tql.avature.net|TQLexternalcareers:5562": "2026-11-15",
@@ -69580,7 +69582,7 @@
   "remoteok": "2026-11-16T08:37:32+00:00",
   "usajobs": "2026-11-16T08:37:32+00:00",
   "workable_search": "2026-11-16T08:37:32+00:00",
-  "wwr": "2026-11-16T08:37:32+00:00",
+  "wwr": "2026-11-16T09:37:23+00:00",
   "yc": "2026-11-16T08:37:32+00:00"
  },
  "title_rules": "c323075b4d70",
