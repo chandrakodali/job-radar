@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**728 jobs**, newest first. Updated Mon Nov 16, 4:38 AM CST from 12,526 company job boards and other sources.
+**729 jobs**, newest first. Updated Mon Nov 16, 5:18 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,13 +8,14 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 1,906 matching jobs that job sites and feeds listed this week, 360 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (6)](#monday-nov-16-6) · [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (93)](#tuesday-nov-10-93) · [Mon 9 (83)](#monday-nov-9-83)
+Jump to: [Mon 16 (7)](#monday-nov-16-7) · [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (93)](#tuesday-nov-10-93) · [Mon 9 (83)](#monday-nov-9-83)
 
-## Monday, Nov 16 (6)
+## Monday, Nov 16 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Software Platform Engineer I](https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-I/21584) | MetLife |  | 70 | entry-level title; location unclear |
+| 5:18 AM (seen) | [Business Analyst - US - Educational Raters](https://app.dover.com/apply/careerflow/348e705d-ebed-43cf-868a-150bd99947be) | Careerflow | International (remote) | 57 | entry level (from the text) |
 | 4:59 AM | [Solutions Delivery Analyst I](https://jobs.lever.co/jobgether/2b7241b1-6f6a-451b-8aca-ca78a004479e) | Jobgether | US (remote) | 82 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Tucson Mall](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825791) | Macy's | Tucson, AZ, United States | 75 | entry-level title |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Oakridge](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825784) | Macy's | San Jose, CA, United States | 75 | entry-level title |
@@ -778,7 +779,7 @@ Jump to: [Mon 16 (6)](#monday-nov-16-6) · [Sun 15 (20)](#sunday-nov-15-20) · [
 | 6:48 AM | [Associate Consultant, Environmental Engineer/Geologist](https://jobs.smartrecruiters.com/Ramboll3/744000160606179-associate-consultant-environmental-engineer-geologist) | Ramboll | Houston, Texas, , United States | 63 | entry-level title |
 | 6:39 AM | [Junior AI/ML Engineer](https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393) | Netholabs | San Francisco (onsite) | 68 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3016)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3019)
 
 <details><summary>Show</summary>
 
@@ -789,7 +790,10 @@ Jump to: [Mon 16 (6)](#monday-nov-16-6) · [Sun 15 (20)](#sunday-nov-15-20) · [
 | date only | [24372 - IT Support Technician (PC Technician)](https://careers.quality-ai.com/job/Petach-_-Tikva-24372-IT-Support-Technician-%28PC-Technician%29/61560044/) | Qualitest |  | 55 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | date only | [System Software Engineer, Video Chips](https://nvidia.eightfold.ai/careers/job/893398633653) | Nvidia | Santa Clara, CA, US (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Development Engineer, Network Fabric Engineering](https://www.amazon.jobs/en/jobs/10599162/software-development-engineer-network-fabric-engineering) | Amazon Data Services, Inc. | Seattle, Washington, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [SAP PM UAT Test analyst](https://careers.quality-ai.com/job/Bangalore-SAP-PM-UAT-Test-analyst-560045/61570344/) | Qualitest |  | 40 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
 | 5:39 AM | [Data Engineer](https://jobs.lever.co/jobgether/dac12f33-a21f-414a-940c-581febb53b93) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 5:18 AM (seen) | [Data Analyst – Paid Finance Data Project (Remote)](https://app.dover.com/apply/careerflow/167e0d5e-9a2a-4c6c-ba6d-01f8458f610a) | Careerflow | United States (remote) | 57 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 5:18 AM (seen) | [Software Engineer](https://app.dover.com/apply/careerflow/c55d41c9-151f-4e75-9e7e-2657466f9e97) | Careerflow | International +1 more (remote) | 37 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | 2:53 AM | [Application Support Engineer](https://jobs.lever.co/jobgether/65a1156a-de46-49fd-8413-39a2b0b92b26) | Jobgether | US (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 2:47 AM | [Software Engineer, Agents for Good](https://jobs.lever.co/jobgether/1f41924b-9c06-4b11-999f-1bc211f2544a) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 2:20 AM (seen) | [Mobile Analyst](https://app.dover.com/apply/comsparkint/3db1f9b6-ffe7-48d4-a0e7-5c462b21cbfb) | Comsparkint | Shakopee, MN (onsite) | 35 | rules: 6+ yrs exp; asks for 6+ years of experience |
@@ -1181,8 +1185,5 @@ Jump to: [Mon 16 (6)](#monday-nov-16-6) · [Sun 15 (20)](#sunday-nov-15-20) · [
 | 1:18 PM (seen) | [Embedded Software Engineer](https://app.dover.com/apply/weaverobotics/7789a852-646a-4d3b-9504-b7b928554c0b) | Weave Robotics | San Francisco, CA (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 1:18 PM (seen) | [Robotics Software Engineer, Simulation](https://app.dover.com/apply/weaverobotics/01382efd-907c-42e0-bbc0-fb59048d2397) | Weave Robotics | San Francisco, CA (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 1:18 PM (seen) | [Robotics Systems Engineer, Triage](https://app.dover.com/apply/weaverobotics/a3f55a63-340a-4b04-941b-86007087f4df) | Weave Robotics | San Francisco, CA (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 1:18 PM (seen) | [Software Engineer, Applications](https://app.dover.com/apply/weaverobotics/ee8b79f8-6a5f-4086-8f47-de934c0fe5e4) | Weave Robotics | San Francisco, CA (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 1:18 PM (seen) | [Systems Software Engineer, Operating Systems](https://app.dover.com/apply/weaverobotics/31120f0d-bd10-4772-82cd-dc3c24c614d0) | Weave Robotics | San Francisco, CA (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 1:18 PM (seen) | [Junior Engineer - Signal Design](https://jobs.jobvite.com/metropolitantransportationauthority/job/oHh2Afwk) | Metropolitan Transportation A… | Queens, NY | 60 | rules: role or location no longer in the target list |
 
 </details>
