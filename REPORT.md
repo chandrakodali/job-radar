@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**694 jobs**, newest first. Updated Mon Nov 16, 12:07 AM CST from 12,526 company job boards and other sources.
+**694 jobs**, newest first. Updated Mon Nov 16, 12:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 209 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,063 matching jobs that job sites and feeds listed this week, 344 (32%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,065 matching jobs that job sites and feeds listed this week, 344 (32%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sun 15 (15)](#sunday-nov-15-15) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (96)](#thursday-nov-12-96) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57)
 
@@ -739,12 +739,14 @@ Jump to: [Sun 15 (15)](#sunday-nov-15-15) · [Sat 14 (325)](#saturday-nov-14-325
 | 4:33 AM | [Infrastructure Engineer, Enterprise AI](https://jobs.lever.co/jobgether/6ee78390-07bc-4e75-a921-511307f32e34) | Jobgether | US (remote) | 50 |  |
 | 4:14 AM | [Systems Administrator II](https://jobs.lever.co/jobgether/727fde91-6dfd-49df-a6ea-3169fa9987a8) | Jobgether | US (remote) | 25 | 4+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (655)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (657)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 12:41 AM | [Senior Site Reliability Engineer](https://jobs.lever.co/jobgether/5cedc112-aefe-4167-8649-8347b8c7b0a9) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| 12:26 AM | [Cloud Developer - CLEARED](https://jobs.lever.co/jobgether/85879f6c-bafc-4c8b-8d60-3a0d5c20be01) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; needs: security clearance |
 | 12:07 AM (seen) | [Systems Reliability Engineer II (Pune)](https://jobs.jobvite.com/nutanix/job/ohIWAfwf) | Nutanix |  | 20 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
 | 11:18 PM | [DevOps Engineer](https://jobs.ashbyhq.com/first-resonance/8d6700c8-48be-423e-9d66-fe51816deeab) | First Resonance | Los Angeles (onsite) | 55 | rules: 5+ yrs exp; E-Verify; needs: ITAR |
 | 7:22 PM | [Senior Network Engineer](https://jobs.smartrecruiters.com/Dominos/744000161707674-senior-network-engineer) | Domino's | Ann Arbor, MI, United States | 30 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
@@ -1143,8 +1145,6 @@ Jump to: [Sun 15 (15)](#sunday-nov-15-15) · [Sat 14 (325)](#saturday-nov-14-325
 | date only | [Senior Systems Administrator](https://sigmadesign.applytojob.com/apply/rVm4qhScSp/Senior-Systems-Administrator) | Sigma Design | Camas, WA | 23 | rules: 5+ yrs exp; senior title; needs: ITAR |
 | date only | [Sr. Cloud Health and Standards Specialist](https://jobdetails.nestle.com/job/St_-Louis-Sr_-Cloud-Health-and-Standards-Specialist-MO-63164/1456154233/) | Nestle | St. Louis, MO, United States | 38 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [1520 - Network Engineer I - III](https://apply.workable.com/sigmadefense/j/A31363004E/) | Sigma Defense | San Diego, California, United States | 33 | rules: entry-level title; 7+ yrs exp; senior title; needs: security c… |
-| date only | [Production Engineering :  Sr Tooling Designer](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineering----Sr-Tooling-Designer_J-00354424) | ASML | Wilton, CT, USA | 33 | rules: senior title, years not stated; adjacent title, little DevOps/… |
-| date only | [Senior Systems Engineer (HPC/Server Farm)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Senior-Systems-Engineer--HPC-Server-Farm-_R54243) | Cadence Design Systems | SAN JOSE | 23 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 
 </details>
 
