@@ -1,11 +1,11 @@
 Applied Research
 Founding Applied Research Engineer
 Applied Research San Francisco, CA Full-time On-site
-Join Lucidic AI as a Founding Applied Research Engineer to develop and deploy cutting-edge optimization algorithms for enterprise AI agents. You will work directly with customers to understand their agent systems and build solutions that measurably improve accuracy, reliability, and performance.
+Join Lucidic as a Founding Applied Research Engineer to develop and deploy cutting-edge optimization algorithms for enterprise AI agents. You will work directly with customers to understand their agent systems and build solutions that measurably improve accuracy, reliability, and performance.
 Product
 Member of Technical Staff
 Product San Francisco, CA Full-time On-site
-We're looking for a Product Engineer to own the end-to-end development of Lucidic's optimization platform. You will build intuitive interfaces that help enterprise teams measure, improve, and deploy their AI agents with confidence.
+We're looking for a Member of Technical Staff to own the end-to-end development of Lucidic's optimization platform. You will build intuitive interfaces that help enterprise teams measure, improve, and deploy their AI agents with confidence.
 Other
 General Application
 Other San Francisco, CA Full-time On-site

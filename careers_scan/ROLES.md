@@ -1,10 +1,10 @@
 # Cloud, DevOps, SRE, platform and infrastructure roles (no job board)
 
-Updated 2026-11-15 19:32 UTC. **96 open roles** at 73 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
+Updated 2026-11-16 08:40 UTC. **95 open roles** at 72 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
 
 **Apply:** the ✉ link opens an email to the company's hiring address with the subject filled in; attach your résumé. Scores and notes use the radar's rules (config.yaml): higher is a better early-career fit; "location unclear" means the page didn't say, so check it. 🆕 = first seen in the last 2 days.
 
-## US or location not stated (96)
+## US or location not stated (95)
 
 | Score | Role | Company | Location | Apply | Since | Notes |
 |---:|---|---|---|---|---|---|
@@ -63,8 +63,8 @@ Updated 2026-11-15 19:32 UTC. **96 open roles** at 73 companies that post jobs o
 | 42 | [DevOps Engineer](https://www.outsourcingdev.com/careers/) | OutsourcingDev | Remote | [Careers page](https://www.outsourcingdev.com/careers/) | Nov 11 | location unclear |
 | 42 | [Agent Infrastructure Engineer](https://pydantic.dev/jobs/agent-infrastructure-engineer) | Pydantic | Fully remote | [✉ careers@pydantic.dev](mailto:careers@pydantic.dev?subject=Application%3A%20Agent%20Infrastructure%20Engineer%20%E2%80%93%20Pydantic) | Nov 11 | location unclear |
 | 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
-| 42 | [Cloud Full-Stack Developer](https://wazuh.com/job/full-stack-developer-cloud/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/full-stack-developer-cloud/) | Nov 11 | location unclear |
 | 42 | [Cloud Ops Engineer](https://wazuh.com/job/cloud-ops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-ops-engineer/) | Nov 11 | location unclear |
+| 42 | [Cloud Full-Stack Developer](https://wazuh.com/job/full-stack-developer-cloud/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/full-stack-developer-cloud/) | Nov 11 | location unclear |
 | 40 | [Senior DevOps Engineer](https://broadleafcommerce.com/senior-devops-engineer/) | Broadleaf Commerce | ? | [✉ careers@broadleafcostg.wpenginepowered.…](mailto:careers@broadleafcostg.wpenginepowered.com?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20Broadleaf%20Commerce) | Nov 13 | 3+ yrs exp; senior title; location unclear |
 | 40 | [Senior Backend / ML Ops Engineer](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Drafted | In person | [Careers page](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Nov 13 | senior title, years not stated |
 | 40 | [Network Systems Engineer](https://efference.ai/careers/wireless-networking-engineer/) | Efference | On-site | [✉ team@efference.ai](mailto:team@efference.ai?subject=Application%3A%20Network%20Systems%20Engineer%20%E2%80%93%20Efference) | Nov 11 |  |
@@ -87,7 +87,6 @@ Updated 2026-11-15 19:32 UTC. **96 open roles** at 73 companies that post jobs o
 | 32 | [Senior DevOps Engineer](https://meteorops.com/job/senior-devops-engineer) | MeteorOps | Remote | [Careers page](https://meteorops.com/job/senior-devops-engineer) | Nov 13 | senior title, years not stated; location unclear |
 | 32 | [Senior Kubernetes Storage Engineer (Rook/Ceph)](https://meteorops.com/job/senior-kubernetes-storage-engineer-rook-ceph) | MeteorOps | Remote | [Careers page](https://meteorops.com/job/senior-kubernetes-storage-engineer-rook-ceph) | Nov 13 | senior title, years not stated; location unclear |
 | 30 | [Linux System Administrator](https://www.carmatec.com/careers/) | Carmatec | ? | [Careers page](https://www.carmatec.com/careers/) | Nov 11 | location unclear |
-| 30 | [Network Engineer L2](https://careers.cognizant.com/india-en/jobs/00068674371/network-engineer-l2-operations-rns/) 🆕 | Cognizant | Americas | [✉ careersindia2@cognizant.com](mailto:careersindia2@cognizant.com?subject=Application%3A%20Network%20Engineer%20L2%20%E2%80%93%20Cognizant) | Nov 13 | location unclear |
 | 30 | [Production Engineer, European Cell](https://isengardindustries.com/careers.html) | Isengard Industries Inc | ? | [✉ hello@isengardindustries.com](mailto:hello@isengardindustries.com?subject=Application%3A%20Production%20Engineer%2C%20European%20Cell%20%E2%80%93%20Isengard%20Industries%20Inc) | Nov 11 | location unclear |
 | 30 | [Linux Software Engineer](https://linbit.com/jobs/) | LINBIT | ? | [Careers page](https://linbit.com/jobs/) | Nov 11 | location unclear |
 | 30 | [Security / IoT deployment engineer](https://rimward.ai/careers/) | Rimward | ? | [✉ careers@rimward.ai](mailto:careers@rimward.ai?subject=Application%3A%20Security%20/%20IoT%20deployment%20engineer%20%E2%80%93%20Rimward) | Nov 11 | location unclear |
@@ -97,7 +96,7 @@ Updated 2026-11-15 19:32 UTC. **96 open roles** at 73 companies that post jobs o
 | 22 | [HPC Storage Engineer](https://meteorops.com/job/hpc-storage-engineer) | MeteorOps | Remote | [Careers page](https://meteorops.com/job/hpc-storage-engineer) | Nov 11 | 3+ yrs exp; location unclear |
 | 22 | [Senior Network Engineer](https://netris.io/careers/) | Netris | Remote, US | [Careers page](https://netris.io/careers/) | Nov 13 | senior title, years not stated |
 | 20 | [Senior Production engineer](https://www.ferveret.com/jobs) | Ferveret | ? | [✉ careers@ferveret.com](mailto:careers@ferveret.com?subject=Application%3A%20Senior%20Production%20engineer%20%E2%80%93%20Ferveret) | Nov 13 | senior title, years not stated; location unclear |
-| 20 | [Senior Network Engineer (Channels/Partners)](https://netris.io/careers/) 🆕 | Netris | ? | [Careers page](https://netris.io/careers/) | Nov 13 | senior title, years not stated; location unclear |
+| 20 | [Senior Network Engineer (Channels/Partners)](https://netris.io/careers/) | Netris | ? | [Careers page](https://netris.io/careers/) | Nov 13 | senior title, years not stated; location unclear |
 | 20 | [Senior Embedded Linux Engineer](https://pantacor.com/careers/) | Pantacor | ? | [Careers page](https://pantacor.com/careers/) | Nov 13 | senior title, years not stated; location unclear |
 | 20 | [Sr. System Administrator](https://positiwise.com/careers) | Positiwise | ? | [✉ hr@positiwise.com](mailto:hr@positiwise.com?subject=Application%3A%20Sr.%20System%20Administrator%20%E2%80%93%20Positiwise) | Nov 13 | senior title, years not stated; location unclear |
 | 20 | [Middle/Senior System Administrator](https://www.sardinasystems.com/about-us/careers/) | Sardina Systems | ? | [✉ jobs@sardinasystems.com](mailto:jobs@sardinasystems.com?subject=Application%3A%20Middle/Senior%20System%20Administrator%20%E2%80%93%20Sardina%20Systems) | Nov 13 | senior title, years not stated; location unclear |

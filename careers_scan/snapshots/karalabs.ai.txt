@@ -1,7 +1,20 @@
 Skip animation
-Extraordinary possibilities begin with carbon.
-KARA LABS
-The next leap in computing
-begins with the material.
-Kara makes diamond wafers and heat spreaders for advanced hardware.
-Discuss your application ↗
+The next era of computing
+will be built on better materials.
+Backed by
+As seen in
+What it makes possible.
+AI & compute
+Dense processors concentrate heat in a small area. Diamond heat spreaders offer a material path away from those hot spots.
+Thermal management
+Spread concentrated heat from active components through diamond plates, submounts and integrated thermal interfaces.
+Power electronics
+An ultra-wide bandgap and exceptional heat transport make diamond a compelling material for research into high-power devices.
+Photonics & optics
+Broad optical transmission and heat transport support windows, laser components and photonic structures.
+Quantum sensing
+Precisely controlled defects, including nitrogen-vacancy centers, enable optical detection of magnetic fields.
+Build what
+comes next.
+Start with the demands of your device.
+Discuss your application

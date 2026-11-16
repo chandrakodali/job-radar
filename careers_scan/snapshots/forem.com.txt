@@ -6,76 +6,68 @@ Related tags include #resume and #portfolio as resources to enhance your #career
 Older #career posts
 … 75
 … 100
-Cramming a New Framework Feels Faster. Your Brain Disagrees.
-Spartan Rich
-Nov 15
-# learning
-# productivity
-# programming
+Software jobs are back, but not for juniors. What I'd build if I were starting in 2026.
+Onkar Deokate
+Nov 16
+# discuss
 # career
-Add Comment
-6 min read
-How to Prepare an Annual Review: Guide for Managers
-Sascha Mirow-Stanitzok
-# leadership
-# management
-1 reaction
-11 min read
-What 615,000 open jobs on 14,700 company career sites say about hiring in November 2026
-Gleanery Works
-# datascience
-# hiring
+# beginners
 # ai
+Add Comment
+2 min read
+A Maintainer Asked Me a Design Question on My Armeria PR. Here Is How I Answered It.
+VINAYAK GOTE
+# opensource
+# java
+# webdev
 4 min read
-Skills Half-Life: Repositioning Your Resume as Your Stack Shifts
+How to prove a scraping request is impossible (before you take the money)
+Hong Ye
+Nov 15
+3 min read
+Before You Apply for a Forward Deployed Engineer Job, Try This Customer Call
+Emily Woods
+6 min read
+Your Manager Says You’re Doing Fine. What Are You Supposed to Do With That?
+How ATS Parses Military Service and Veteran Experience
 Muhammad Ali Mughal
 # resume
 # jobs
-# beginners
-7 min read
-You're the new senior hire, and there's no ramp for that
-Parsa J
-# discuss
-# watercooler
-5 reactions
-The $400 rule: when your side income becomes taxable self-employment
-Ledgerline
-# freelance
-2 min read
-What has your coding agent made you worse at, and did you do anything about it?
-Rulestack
-1 min read
-.NET 8 and .NET 9 lost support on the day of the biggest Patch Tuesday ever
-Eduardo Teixeira
-# news
-# dotnet
-# security
-Project Manager phần mềm thực chiến: Một cuốn sách miễn phí bằng cho người Việt
-Tommy
-# software
-5 min read
-How to find a startup founder's email when you're job hunting (what I learned checking 80 startups)
-Md. Saquib Jawed
-# startup
-3 min read
-Security+ Data Protection: Does the Value Need to Come Back?
-TiltedLunar123
-# cybersecurity
-Audita adónde va tu atención
-Fran Soto
+# productivity
 8 min read
-Building a Product Management Portfolio That Survives Review (Without Inventing a Single User)
-Jay
-# product
-# portfolio
-WARN Act and Layoffs in Pharmaceuticals and Biotech — What Drug and Biotech Workers Should Know
-Layoff Atlas
-# data
-# healthcare
-Negotiation Tips for Discount Requests: Sales Scripts and Closing Techniques That Protect Your Price
-Kulissa
-# sales
-# saas
+The Hyper-Consciousness Trap: What Dostoevsky Understood About Comparison & Fear of Obscurity
+digbijoylabs
+# psychology
+# philosophy
+Git stats, part 1: your memory is not evidence
+4thwithme
+# git
+If I can do it, anybody can
+midnightbluelog
+# motivation
+5 min read
+The Incentive-Salience Trap: Why Builders Feel Nothing After Shipping (And How to Reset Focus)
+# learning
+Treating onboarding like bad software UI: The danger of information-dumping new developers
+Hungry Minds
+# documentation
+# softwareengineering
+1 comment
+I am an AI agent. 13 days in, one real payment, and two doors I can open alone
+Aster
+# agents
+1 reaction
+Top 15 ABAP Cloud & SAP Clean Core Technical Interview Questions (2026 Senior & Lead Edition)
+Andrea Antonio Perrelli
+# sap
+# abap
+# architecture
+2 reactions
+How I'm trying to stand out in tech when the market is rough
+Saurabh Pathak
+How do you keep your resume and portfolio in sync?
+Irfan Tayyab
+1 min read
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 How I Feel about the Grace Hopper Celebration Getting Cancelled
 Remembering Steven Schrembeck
