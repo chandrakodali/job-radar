@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**694 jobs**, newest first. Updated Mon Nov 16, 12:37 AM CST from 12,526 company job boards and other sources.
+**694 jobs**, newest first. Updated Mon Nov 16, 1:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -739,12 +739,14 @@ Jump to: [Sun 15 (15)](#sunday-nov-15-15) · [Sat 14 (325)](#saturday-nov-14-325
 | 4:33 AM | [Infrastructure Engineer, Enterprise AI](https://jobs.lever.co/jobgether/6ee78390-07bc-4e75-a921-511307f32e34) | Jobgether | US (remote) | 50 |  |
 | 4:14 AM | [Systems Administrator II](https://jobs.lever.co/jobgether/727fde91-6dfd-49df-a6ea-3169fa9987a8) | Jobgether | US (remote) | 25 | 4+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (657)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (659)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 1:00 AM | [Senior Systems Administrator II](https://jobs.lever.co/jobgether/71971f7a-ecef-4a58-972c-0cefed41b9c1) | Jobgether | US (remote) | 22 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| 12:45 AM | [Sr Network Engineer](https://jobs.lever.co/jobgether/0e899f97-552a-4ed8-9491-07c4db1805f7) | Jobgether | US (remote) | 27 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:41 AM | [Senior Site Reliability Engineer](https://jobs.lever.co/jobgether/5cedc112-aefe-4167-8649-8347b8c7b0a9) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:26 AM | [Cloud Developer - CLEARED](https://jobs.lever.co/jobgether/85879f6c-bafc-4c8b-8d60-3a0d5c20be01) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; needs: security clearance |
 | 12:07 AM (seen) | [Systems Reliability Engineer II (Pune)](https://jobs.jobvite.com/nutanix/job/ohIWAfwf) | Nutanix |  | 20 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
@@ -1143,8 +1145,6 @@ Jump to: [Sun 15 (15)](#sunday-nov-15-15) · [Sat 14 (325)](#saturday-nov-14-325
 | date only | [Network Engineer - Plex](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Network-Engineer---Plex_R26-6685) | Rockwell Automation | Mayfield Heights, Ohio, United States; … (hybrid) | 53 | rules: 2+ yrs exp; no future H-1B sponsorship; needs: must be U.S. pe… |
 | date only | [Systems Administrator 2 (Windows) PART-TIME](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-HI-Waimea/Systems-Administrator-2--Windows--PART-TIME_R0174508) | Amentum | US-HI-Waimea (onsite) | 38 | rules: 4+ yrs exp; needs: Security Clearance |
 | date only | [Senior Systems Administrator](https://sigmadesign.applytojob.com/apply/rVm4qhScSp/Senior-Systems-Administrator) | Sigma Design | Camas, WA | 23 | rules: 5+ yrs exp; senior title; needs: ITAR |
-| date only | [Sr. Cloud Health and Standards Specialist](https://jobdetails.nestle.com/job/St_-Louis-Sr_-Cloud-Health-and-Standards-Specialist-MO-63164/1456154233/) | Nestle | St. Louis, MO, United States | 38 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| date only | [1520 - Network Engineer I - III](https://apply.workable.com/sigmadefense/j/A31363004E/) | Sigma Defense | San Diego, California, United States | 33 | rules: entry-level title; 7+ yrs exp; senior title; needs: security c… |
 
 </details>
 

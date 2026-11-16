@@ -11936,17 +11936,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 133,
+   "n": 134,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 133,
+   "n": 134,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 133,
+   "n": 134,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12356,6 +12356,16 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 4,
    "since": "2026-11-09"
+  },
+  "icims:careers-cotiviti.icims.com": {
+   "err": "HTTP 521",
+   "n": 1,
+   "since": "2026-11-16"
+  },
+  "icims:careers-eyesouthpartners.icims.com": {
+   "err": "HTTP 521",
+   "n": 1,
+   "since": "2026-11-16"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-23",
@@ -67722,6 +67732,7 @@
   "lever:jobgether:0452a360-4c88-44a6-8b62-dc642799c5c9": "2026-11-14",
   "lever:jobgether:056b4811-7586-4345-a000-f7029c06d835": "2026-11-14",
   "lever:jobgether:0c283a8d-6190-4326-acea-e12a22f0bc12": "2026-11-14",
+  "lever:jobgether:0e899f97-552a-4ed8-9491-07c4db1805f7": "2026-11-16",
   "lever:jobgether:1e563cf7-02a8-43b0-a8e0-03a4ef5eaf1a": "2026-11-14",
   "lever:jobgether:4567bc98-d2e0-45b0-8f61-19f77e7ac416": "2026-11-14",
   "lever:jobgether:490c9d39-3017-48f1-b748-d4a90e218119": "2026-11-14",
@@ -67729,6 +67740,7 @@
   "lever:jobgether:595fc8e8-bafd-4cb9-8bc0-6b19bf6ca8da": "2026-11-14",
   "lever:jobgether:5cedc112-aefe-4167-8649-8347b8c7b0a9": "2026-11-16",
   "lever:jobgether:6ee78390-07bc-4e75-a921-511307f32e34": "2026-11-14",
+  "lever:jobgether:71971f7a-ecef-4a58-972c-0cefed41b9c1": "2026-11-16",
   "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-14",
   "lever:jobgether:73d75c56-c3b4-403f-b49d-93905c180592": "2026-11-14",
   "lever:jobgether:75cf9739-3239-461a-8e00-c12d70468b55": "2026-11-14",
