@@ -7988,6 +7988,7 @@
   "paylocity:0cc1c035-08e6-453e-8096-abb5d3303a99": "2026-11-15",
   "paylocity:0cdcd78d-79e0-4a6b-a633-b39f86b88bf9": "2026-11-15",
   "paylocity:0d0cdb98-ced2-44b9-b079-e37b2ae9a19b": "2026-11-15",
+  "paylocity:0d97f108-bcf4-4dae-bc7c-84cd9e6c5137": "2026-11-16",
   "paylocity:0db36655-7ae1-4ba3-8904-f48848360b5a": "2026-11-15",
   "paylocity:0db44b81-4269-44e5-9d68-47ba1208c6d1": "2026-11-15",
   "paylocity:0df15ebe-60fa-4965-b80a-61ee78181310": "2026-11-15",
@@ -11610,11 +11611,6 @@
   "greenhouse:yipitdata:8329263": "2026-11-12"
  },
  "fails": {
-  "apple:usa": {
-   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
-   "n": 1,
-   "since": "2026-11-16"
-  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-18",
    "err": "HTTP 404",
@@ -11941,17 +11937,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 136,
+   "n": 137,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 136,
+   "n": 137,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 136,
+   "n": 137,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14797,8 +14793,8 @@
    376
   ],
   "2026-11-16": [
-   42,
-   98
+   62,
+   139
   ]
  },
  "resolved": {
@@ -69577,12 +69573,12 @@
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-16T02:37:11+00:00",
-  "remoteok": "2026-11-16T06:37:13+00:00",
-  "usajobs": "2026-11-16T05:37:15+00:00",
-  "workable_search": "2026-11-16T05:37:15+00:00",
-  "wwr": "2026-11-16T07:37:28+00:00",
-  "yc": "2026-11-16T05:37:15+00:00"
+  "hn": "2026-11-16T08:37:32+00:00",
+  "remoteok": "2026-11-16T08:37:32+00:00",
+  "usajobs": "2026-11-16T08:37:32+00:00",
+  "workable_search": "2026-11-16T08:37:32+00:00",
+  "wwr": "2026-11-16T08:37:32+00:00",
+  "yc": "2026-11-16T08:37:32+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
