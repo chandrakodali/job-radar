@@ -11930,17 +11930,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 120,
+   "n": 121,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 120,
+   "n": 121,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 120,
+   "n": 121,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12377,7 +12377,7 @@
   },
   "icims:careers-kimley-horn.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-16"
   },
   "icims:careers-nv5.icims.com": {
@@ -13983,7 +13983,7 @@
   },
   "sfrmk:careers.dovercorporation.com": {
    "err": "robots.txt disallows /job_sitemap.xml",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-16"
   },
   "sfrmk:careers.duke.edu": {
@@ -14741,14 +14741,14 @@
   "Bask Health": "2026-11-15",
   "Coris": "2026-11-15",
   "Diversified Services Network, Inc.": "2026-11-15",
-  "EdgeQ Technologies Private Limited": "2026-11-15",
-  "Edgewater Federal Solutions, Inc.": "2026-11-15",
+  "EdgeQ Technologies Private Limited": "2026-11-16",
+  "Edgewater Federal Solutions, Inc.": "2026-11-16",
   "Essnova Solutions, Inc.": "2026-11-15",
   "Foresight Works Ltd": "2026-11-13",
   "Fortanix": "2026-11-14",
   "GEM Technologies": "2026-11-15",
   "Halcyon": "2026-11-14",
-  "Knack": "2026-11-15",
+  "Knack": "2026-11-16",
   "Odin": "2026-11-15",
   "OpenDataJobs": "2026-11-14",
   "PGTEK": "2026-11-14",
@@ -14783,8 +14783,8 @@
    376
   ],
   "2026-11-16": [
-   0,
-   0
+   1,
+   4
   ]
  },
  "resolved": {
@@ -69547,10 +69547,10 @@
  },
  "source_last": {
   "hn": "2026-11-15T20:37:14+00:00",
-  "remoteok": "2026-11-15T22:37:16+00:00",
+  "remoteok": "2026-11-16T00:37:27+00:00",
   "usajobs": "2026-11-15T23:37:16+00:00",
   "workable_search": "2026-11-15T23:37:16+00:00",
-  "wwr": "2026-11-15T23:37:16+00:00",
+  "wwr": "2026-11-16T00:37:27+00:00",
   "yc": "2026-11-15T23:37:16+00:00"
  },
  "title_rules": "c323075b4d70",
