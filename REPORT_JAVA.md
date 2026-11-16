@@ -1,6 +1,6 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**193 jobs**, newest first. Updated Mon Nov 16, 2:51 PM CST from 12,526 company job boards and other sources.
+**193 jobs**, newest first. Updated Mon Nov 16, 3:46 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,13 @@ US jobs only: Java in the title, or backend/software/full-stack roles whose requ
 
 Coverage check: of 896 matching jobs that job sites and feeds listed this week, 217 (24%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (9)](#sunday-nov-15-9) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (21)](#friday-nov-13-21) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19) · [Mon 9 (1)](#monday-nov-9-1)
+Jump to: [Mon 16 (22)](#monday-nov-16-22) · [Sun 15 (9)](#sunday-nov-15-9) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (21)](#friday-nov-13-21) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19)
 
-## Monday, Nov 16 (21)
+## Monday, Nov 16 (22)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 2:59 PM | [Software Engineer II](https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5480546008) | TeleTracking | Pittsburgh, PA | 40 | 3+ yrs exp; requires Java |
 | 2:47 PM | [Senior Specialist, Full-Stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/76189) | BNY | Pittsburgh, PA, United States | 60 | 2+ yrs exp; senior title; requires Java |
 | 2:47 PM | [Senior Specialist, Full-Stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY/job/76189) | Eofe Fa Us2 Oraclecloud Com | Pittsburgh, PA, United States | 55 | 2+ yrs exp; senior title; requires Java |
 | 1:48 PM | [Software Engineer](https://jobs.workable.com/view/uopgXBUft2orZZLKdqL3oo/remote-software-engineer-in-united-states-at-pavago) | Pavago | Remote, US (remote) | 47 | requires Java |
@@ -237,18 +238,13 @@ Jump to: [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (9)](#sunday-nov-15-9) · [
 | 7:20 AM | [Senior Associate, Full-Stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY/job/80851) | Eofe Fa Us2 Oraclecloud Com | Jersey City, NJ, United States; New Yor… (onsite) | 43 | entry-level title; 3+ yrs exp; senior title; requires Java |
 | 6:50 AM | [Java Fullstack Software Engineer (Spring Boot / Angular)](https://jobs.lever.co/jobgether/ed585bb6-9f21-45ef-b606-7d0a0715d03c) | Jobgether | US (remote) | 45 | 3+ yrs exp |
 
-## Monday, Nov 9 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 3:28 PM | [GTM Applications Engineer](https://jobs.ashbyhq.com/cursor/cddb7c29-39e2-431d-af11-029edd4207c4) | Anysphere | San Francisco, CA; New York, NY (onsite) | 53 | 2+ yrs exp; requires Java |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (302)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (303)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 3:24 PM | [Software Engineer III](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5296641007) | Toshiba Global Commerce | Durham, NC | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:30 PM | [Senior Software Stability & Performance Engineer](https://ford.eightfold.ai/careers/job/563568454189709) | Ford | Palo Alto, CA, US (onsite) | 40 | rules: 5+ yrs exp; senior title; sponsors visas; requires Java; asks … |
 | 1:30 PM | [Senior Software Stability & Performance Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74276) | Ford Motor Company | Palo Alto, CA, United States (hybrid) | 40 | rules: 5+ yrs exp; senior title; sponsors visas; requires Java; asks … |
 | 1:28 PM | [Senior Software Engineer, Query Platform](https://job-boards.greenhouse.io/boxinc/jobs/8393885) | Box | Redwood City, CA, United States | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
