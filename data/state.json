@@ -12037,17 +12037,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 158,
+   "n": 159,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 158,
+   "n": 159,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 158,
+   "n": 159,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14904,7 +14904,7 @@
   ],
   "2026-11-16": [
    122,
-   283
+   288
   ]
  },
  "resolved": {
@@ -65683,6 +65683,7 @@
   "amazon:us:10605882": "2026-11-16",
   "amazon:us:10606386": "2026-11-16",
   "amazon:us:10606475": "2026-11-16",
+  "amazon:us:10606562": "2026-11-16",
   "apple:usa:200657320": "2026-11-14",
   "apple:usa:200674782": "2026-11-14",
   "apple:usa:200684228": "2026-11-14",
@@ -66527,6 +66528,7 @@
   "dayforce:asrcfh|CANDIDATEPORTAL:31457": "2026-11-15",
   "dayforce:asrcfh|CANDIDATEPORTAL:31620": "2026-11-15",
   "dayforce:authority|CANDIDATEPORTAL:7530": "2026-11-15",
+  "dayforce:builders|candidateportal:238014": "2026-11-16",
   "dayforce:cchrpmc|CANDIDATEPORTAL:12751": "2026-11-15",
   "dayforce:cityind|CANDIDATEPORTAL:1976": "2026-11-15",
   "dayforce:corpay|candidateportal:57636": "2026-11-15",
@@ -66856,6 +66858,7 @@
   "greenhouse:epicgames:6257189004": "2026-11-12",
   "greenhouse:esri:5262837007": "2026-11-09",
   "greenhouse:esri:5285478007": "2026-11-12",
+  "greenhouse:eudia:4382015009": "2026-11-16",
   "greenhouse:extrahopnetworks:6238954004": "2026-11-12",
   "greenhouse:federato:5473395008": "2026-11-12",
   "greenhouse:figureai:4728462006": "2026-11-12",
@@ -66923,6 +66926,7 @@
   "greenhouse:natera:6231447004": "2026-11-07",
   "greenhouse:newrelic:5479397008": "2026-11-11",
   "greenhouse:newtonresearch:5474117008": "2026-11-12",
+  "greenhouse:nisc:8394139": "2026-11-16",
   "greenhouse:nscaleoperationsukltd:5027859101": "2026-11-15",
   "greenhouse:oddball:8197757003": "2026-11-11",
   "greenhouse:okx:8187582003": "2026-11-14",
@@ -69804,10 +69808,10 @@
  },
  "source_last": {
   "hn": "2026-11-16T20:37:19+00:00",
-  "remoteok": "2026-11-16T18:51:06+00:00",
+  "remoteok": "2026-11-16T21:07:18+00:00",
   "usajobs": "2026-11-16T18:51:06+00:00",
   "workable_search": "2026-11-16T18:51:06+00:00",
-  "wwr": "2026-11-16T20:07:23+00:00",
+  "wwr": "2026-11-16T21:07:18+00:00",
   "yc": "2026-11-16T18:51:06+00:00"
  },
  "title_rules": "c323075b4d70",
