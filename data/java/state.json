@@ -3575,6 +3575,7 @@
   "dover:betriax": "2026-11-14",
   "dover:beyondlabs-cf291676": "2026-11-14",
   "dover:bildbot": "2026-11-15",
+  "dover:birda": "2026-11-16",
   "dover:biztechjobs": "2026-11-15",
   "dover:blue-voice-inc": "2026-11-15",
   "dover:bontuteur": "2026-11-15",
@@ -11552,17 +11553,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 31,
+   "n": 32,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 31,
+   "n": 32,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 31,
+   "n": 32,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12863,7 +12864,7 @@
   ],
   "2026-11-16": [
    13,
-   53
+   56
   ]
  },
  "resolved": {
@@ -63817,6 +63818,7 @@
   "ashby:ascertain:2360c8b1-7d77-44dc-87be-301804e16932": "2026-11-14",
   "ashby:ashby:9225e1fa-66aa-45d2-bf92-2ac653744434": "2026-11-14",
   "ashby:astera:d10d72c9-34ce-43dc-9e75-24a4b1941fcf": "2026-11-14",
+  "ashby:aureliussystems:500bb2fa-be4a-4bfd-95ca-4feff5da5a83": "2026-11-16",
   "ashby:base-power:02ca6e34-9827-4183-b05c-b73d06038640": "2026-11-14",
   "ashby:base-power:5ea771cb-099f-40e7-a73f-a813494dc037": "2026-11-14",
   "ashby:base-power:71c01bd2-a940-43b1-9522-218204c201be": "2026-11-14",
@@ -64918,6 +64920,7 @@
   "eightfold:amdocs:563431014762353": "2026-11-14",
   "eightfold:appliedmaterials:790317634510": "2026-11-14",
   "eightfold:appliedmaterials:790319443699": "2026-11-14",
+  "eightfold:autodesk:1443152974635": "2026-11-16",
   "eightfold:autodesk:1443153771161": "2026-11-14",
   "eightfold:autodesk:1443153804251": "2026-11-14",
   "eightfold:autodesk:1443153902328": "2026-11-15",
@@ -66352,7 +66355,32 @@
   "jazzhr:stellarscience:SdTxaf41AR": "2026-11-14",
   "jazzhr:stellarscience:ZA8nzl10Cx": "2026-11-14",
   "jazzhr:stellarscience:tiVvt0aK9K": "2026-11-14",
+  "jazzhr:symsstrategicgroup:099xWxUw5t": "2026-11-16",
+  "jazzhr:symsstrategicgroup:3zTIYYKhvu": "2026-11-16",
+  "jazzhr:symsstrategicgroup:772oPaVqDl": "2026-11-16",
+  "jazzhr:symsstrategicgroup:E10kGL6jsY": "2026-11-16",
+  "jazzhr:symsstrategicgroup:E7fMRdF52C": "2026-11-16",
+  "jazzhr:symsstrategicgroup:Glqfo5jdaS": "2026-11-16",
+  "jazzhr:symsstrategicgroup:ImL94ozcXb": "2026-11-16",
+  "jazzhr:symsstrategicgroup:KCtceu3nLn": "2026-11-16",
+  "jazzhr:symsstrategicgroup:MQQGdNhBZW": "2026-11-16",
+  "jazzhr:symsstrategicgroup:U2nEVmdwEX": "2026-11-16",
+  "jazzhr:symsstrategicgroup:WJfqFZZDma": "2026-11-16",
+  "jazzhr:symsstrategicgroup:ZcGYKRchmo": "2026-11-16",
+  "jazzhr:symsstrategicgroup:ZsndXiQwUM": "2026-11-16",
+  "jazzhr:symsstrategicgroup:d8FGNBBOTR": "2026-11-16",
+  "jazzhr:symsstrategicgroup:dZ9JCTPNhK": "2026-11-16",
+  "jazzhr:symsstrategicgroup:e2SyIhkdCA": "2026-11-16",
+  "jazzhr:symsstrategicgroup:j6gAsWnhAe": "2026-11-16",
   "jazzhr:symsstrategicgroup:k7YaUo4dsy": "2026-11-15",
+  "jazzhr:symsstrategicgroup:kLbnzDt0No": "2026-11-16",
+  "jazzhr:symsstrategicgroup:lzJOr0nz0u": "2026-11-16",
+  "jazzhr:symsstrategicgroup:mR6ZXGfLcN": "2026-11-16",
+  "jazzhr:symsstrategicgroup:oQtgM3j4Lu": "2026-11-16",
+  "jazzhr:symsstrategicgroup:qv0oj7Z3px": "2026-11-16",
+  "jazzhr:symsstrategicgroup:woQ2F1oMRB": "2026-11-16",
+  "jazzhr:symsstrategicgroup:yjEJmLxWmh": "2026-11-16",
+  "jazzhr:symsstrategicgroup:yojcdox2mM": "2026-11-16",
   "jazzhr:tapengineering:RZ67gVOMB5": "2026-11-14",
   "jazzhr:tapengineering:ovNdVpdLdV": "2026-11-14",
   "jazzhr:tapengineering:pEvOkP3F22": "2026-11-14",
@@ -68533,10 +68561,10 @@
  },
  "source_last": {
   "hn": "2026-11-15T23:47:42+00:00",
-  "remoteok": "2026-11-16T00:48:53+00:00",
+  "remoteok": "2026-11-16T02:47:15+00:00",
   "usajobs": "2026-11-16T00:48:53+00:00",
   "workable_search": "2026-11-16T00:48:53+00:00",
-  "wwr": "2026-11-16T01:46:00+00:00",
+  "wwr": "2026-11-16T02:47:15+00:00",
   "yc": "2026-11-16T00:48:53+00:00"
  },
  "title_rules": "72f554d20a7f",
