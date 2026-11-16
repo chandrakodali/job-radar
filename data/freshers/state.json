@@ -3606,6 +3606,8 @@
   "dover:codingal": "2026-11-13",
   "dover:cointelligencelabs": "2026-11-15",
   "dover:column": "2026-11-15",
+  "dover:comsparkint": "2026-11-16",
+  "dover:concourse": "2026-11-16",
   "dover:conduit": "2026-11-13",
   "dover:dots": "2026-11-13",
   "dover:draftwise": "2026-11-13",
@@ -11680,17 +11682,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 62,
+   "n": 63,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 62,
+   "n": 63,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 62,
+   "n": 63,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12094,16 +12096,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-13"
-  },
-  "icims:careers-cotiviti.icims.com": {
-   "err": "HTTP 521",
-   "n": 1,
-   "since": "2026-11-16"
-  },
-  "icims:careers-eyesouthpartners.icims.com": {
-   "err": "HTTP 521",
-   "n": 1,
-   "since": "2026-11-16"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-20",
@@ -67547,6 +67539,15 @@
   "dover:cloudwaveinc:4f9520c2-5565-4d65-ae0f-b736e7bf3b8e": "2026-11-15",
   "dover:cointelligencelabs:4ef34030-cd76-4c84-9a34-dbfa58993e6f": "2026-11-15",
   "dover:cointelligencelabs:ffa69088-df2b-4237-aa71-b504e5187d93": "2026-11-15",
+  "dover:comsparkint:2240ec85-3d90-4b75-8c35-3ca2e584b8e1": "2026-11-16",
+  "dover:comsparkint:3aa1a07c-92ae-4baa-84f7-8cd79ffe6c20": "2026-11-16",
+  "dover:comsparkint:3db1f9b6-ffe7-48d4-a0e7-5c462b21cbfb": "2026-11-16",
+  "dover:comsparkint:4dd1452f-6a0e-4bab-9c6e-6338d9d3cfdf": "2026-11-16",
+  "dover:comsparkint:6bf1aa8d-7982-43b1-9af1-2e94c7bfdc7f": "2026-11-16",
+  "dover:comsparkint:6d5efc27-00cf-4b92-993c-ad532db0dce4": "2026-11-16",
+  "dover:comsparkint:89820a4b-d53f-4806-8b12-c274492b5e30": "2026-11-16",
+  "dover:comsparkint:c62b7284-2b94-4cc3-ad47-ee4813d700f3": "2026-11-16",
+  "dover:concourse:09f14da5-cfcc-408d-ab25-072874640068": "2026-11-16",
   "dover:conduit:ff655ee4-e65c-4f7b-bc81-dfb6c8ffb838": "2026-11-13",
   "dover:dots:143285f8-5826-4b67-9221-d1409e0ec473": "2026-11-13",
   "dover:draftwise:3dfc51ea-ae72-4b93-947d-73ef8f5cfaec": "2026-11-13",
@@ -67701,6 +67702,7 @@
   "eightfold:ralliant|ralliant.com:1133916465622": "2026-11-14",
   "eightfold:slb:563499734334147": "2026-11-15",
   "eightfold:telekom-growthhub:563465370416607": "2026-11-15",
+  "eightfold:telekom-growthhub:563465375003909": "2026-11-16",
   "eightfold:ukg:893397682759": "2026-11-15",
   "eightfold:ukg:893397962893": "2026-11-15",
   "eightfold:vodafone:563018698352343": "2026-11-15",
@@ -73060,6 +73062,7 @@
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2025773EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2025877EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026031EXTERNALENGLOBAL": "2026-11-13",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026175EXTERNALENGLOBAL": "2026-11-16",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026234EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026239EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026313EXTERNALENGLOBAL": "2026-11-13",
@@ -74532,6 +74535,9 @@
   "sfrmk:careers.quality-ai.com:61504844": "2026-11-13",
   "sfrmk:careers.quality-ai.com:61528444": "2026-11-14",
   "sfrmk:careers.quality-ai.com:61538544": "2026-11-15",
+  "sfrmk:careers.quality-ai.com:61557744": "2026-11-16",
+  "sfrmk:careers.quality-ai.com:61559644": "2026-11-16",
+  "sfrmk:careers.quality-ai.com:61560044": "2026-11-16",
   "sfrmk:careers.safran-dsi.com:1420257100": "2026-11-13",
   "sfrmk:careers.safran-dsi.com:1448369700": "2026-11-13",
   "sfrmk:careers.thehersheycompany.com:1436484600": "2026-11-13",
@@ -79329,6 +79335,7 @@
   "zoho:agileengine:248544000264812044": "2026-11-14",
   "zoho:aspire:503306000044665015": "2026-11-14",
   "zoho:aspire:503306000044815003": "2026-11-14",
+  "zoho:aspire:503306000044928194": "2026-11-16",
   "zoho:atlasadvisors:109821000008299011": "2026-11-14",
   "zoho:blackswansearch:247146000000373009": "2026-11-14",
   "zoho:blackswansearch:247146000000373015": "2026-11-14",

@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**724 jobs**, newest first. Updated Mon Nov 16, 1:28 AM CST from 12,526 company job boards and other sources.
+**724 jobs**, newest first. Updated Mon Nov 16, 2:20 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -769,7 +769,7 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 6:39 AM | [Junior AI/ML Engineer](https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393) | Netholabs | San Francisco (onsite) | 68 | entry-level title |
 | 4:25 AM | [Support Engineer, PAYGO](https://jobs.lever.co/jobgether/6ba9dce0-97e9-470f-a59b-06b6c673fcf2) | Jobgether | US (remote) | 60 | entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3006)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3011)
 
 <details><summary>Show</summary>
 
@@ -777,6 +777,10 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 |---|---|---|---|---:|---|
 | date only | [Engineer, Global Quality Package Design and Development Quality Assur…](https://micron.eightfold.ai/careers/job/45517929) | Micron | SG (onsite) | 60 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | date only | [Software Engineer, Storage](https://nvidia.eightfold.ai/careers/job/893398741679) | Nvidia | Ra'anana, Center District, IL (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| date only | [24372 - IT Support Technician (PC Technician)](https://careers.quality-ai.com/job/Petach-_-Tikva-24372-IT-Support-Technician-%28PC-Technician%29/61560044/) | Qualitest |  | 55 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
+| 2:20 AM (seen) | [Mobile Analyst](https://app.dover.com/apply/comsparkint/3db1f9b6-ffe7-48d4-a0e7-5c462b21cbfb) | Comsparkint | Shakopee, MN (onsite) | 35 | rules: 6+ yrs exp; asks for 6+ years of experience |
+| 2:20 AM (seen) | [Vue.js Developer](https://app.dover.com/apply/comsparkint/4dd1452f-6a0e-4bab-9c6e-6338d9d3cfdf) | Comsparkint | Charlotte, NC (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 2:20 AM (seen) | [Workday ERP Specialist with EIB](https://app.dover.com/apply/comsparkint/c62b7284-2b94-4cc3-ad47-ee4813d700f3) | Comsparkint | International (remote) | 22 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
 | 1:39 AM | [Cloud Solutions Advisor](https://jobs.lever.co/jobgether/c9534b21-105a-4981-9b07-029f0fc5b9a5) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 1:07 AM | [Power BI Developer / Data Visualization Analyst](https://jobs.lever.co/jobgether/98ddf386-39a4-4ae5-b81c-a67e4798741a) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; needs: Security clearance |
 | 12:55 AM | [AI Engineer](https://jobs.lever.co/jobgether/e9ace1b9-1de8-4993-88f6-03cb19a620e8) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -1171,9 +1175,5 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 1:16 PM | [Satellite Power Test Engineer](https://jobs.ashbyhq.com/xona-space/64c3e814-2f96-40e3-8acd-883b4db8e156) | Xona Space | Burlingame, California (onsite) | 80 | rules: 2+ yrs exp; needs: Security Clearance |
 | 1:13 PM | [Automation and Controls Engineer](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45358) | NOV | Navasota, TX, United States (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:58 PM | [Support Engineer - Incident](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350549) | Oracle | Nashville, TN, United States; Orlando, … | 60 | rules: 3+ yrs exp; needs: Public Trust Clearance |
-| 12:58 PM | [Support Engineer - Incident](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350549) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States; Orlando, … | 53 | rules: 3+ yrs exp; needs: Public Trust Clearance |
-| 12:53 PM | [Fulfillment Automation Solutions Engineer](https://job-boards.greenhouse.io/beaconbiosignals/jobs/4506739009) | Beaconbiosignals | Boston, MA / Remote (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 12:53 PM | [Associate Analyst, Digital Security](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355764) | Waste Management | TX, United States (remote) | 67 | rules: entry-level title; 4+ yrs exp; asks for 4+ years of experience |
-| 12:53 PM | [Associate Analyst, Digital Security](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1011/job/2355764) | Emcm Fa Us2 Oraclecloud Com | TX, United States (remote) | 60 | rules: entry-level title; 4+ yrs exp; asks for 4+ years of experience |
 
 </details>
