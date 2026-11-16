@@ -11554,17 +11554,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 36,
+   "n": 37,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 36,
+   "n": 37,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 36,
+   "n": 37,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12864,8 +12864,8 @@
    434
   ],
   "2026-11-16": [
-   27,
-   118
+   41,
+   168
   ]
  },
  "resolved": {
@@ -67333,6 +67333,7 @@
   "sfrmk:jobs.netapp.com:1446679500": "2026-11-14",
   "sfrmk:jobs.netapp.com:1446715500": "2026-11-14",
   "sfrmk:jobs.netapp.com:1447883200": "2026-11-14",
+  "sfrmk:jobs.netapp.com:1448435000": "2026-11-16",
   "sfrmk:jobs.netapp.com:1448845500": "2026-11-14",
   "sfrmk:jobs.netapp.com:1449234900": "2026-11-14",
   "sfrmk:jobs.netapp.com:1449240000": "2026-11-14",
@@ -68574,11 +68575,11 @@
  },
  "source_last": {
   "hn": "2026-11-16T05:46:19+00:00",
-  "remoteok": "2026-11-16T04:47:54+00:00",
-  "usajobs": "2026-11-16T03:48:13+00:00",
-  "workable_search": "2026-11-16T03:48:13+00:00",
-  "wwr": "2026-11-16T05:46:19+00:00",
-  "yc": "2026-11-16T03:48:13+00:00"
+  "remoteok": "2026-11-16T07:47:43+00:00",
+  "usajobs": "2026-11-16T07:47:43+00:00",
+  "workable_search": "2026-11-16T07:47:43+00:00",
+  "wwr": "2026-11-16T07:47:43+00:00",
+  "yc": "2026-11-16T07:47:43+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
