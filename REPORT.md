@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**694 jobs**, newest first. Updated Sun Nov 15, 11:07 PM CST from 12,526 company job boards and other sources.
+**694 jobs**, newest first. Updated Sun Nov 15, 11:37 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 203 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,023 matching jobs that job sites and feeds listed this week, 324 (31%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,063 matching jobs that job sites and feeds listed this week, 344 (32%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (98)](#thursday-nov-12-98) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57)
 
@@ -739,12 +739,13 @@ Jump to: [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (325)](#saturday-nov-14-325
 | 4:33 AM | [Infrastructure Engineer, Enterprise AI](https://jobs.lever.co/jobgether/6ee78390-07bc-4e75-a921-511307f32e34) | Jobgether | US (remote) | 50 |  |
 | 4:14 AM | [Systems Administrator II](https://jobs.lever.co/jobgether/727fde91-6dfd-49df-a6ea-3169fa9987a8) | Jobgether | US (remote) | 25 | 4+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (661)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (662)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:18 PM | [DevOps Engineer](https://jobs.ashbyhq.com/first-resonance/8d6700c8-48be-423e-9d66-fe51816deeab) | First Resonance | Los Angeles (onsite) | 55 | rules: 5+ yrs exp; E-Verify; needs: ITAR |
 | 7:22 PM | [Senior Network Engineer](https://jobs.smartrecruiters.com/Dominos/744000161707674-senior-network-engineer) | Domino's | Ann Arbor, MI, United States | 30 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 7:22 PM | [Data Platform Engineer](https://jobs.smartrecruiters.com/Dominos/744000161708269-data-platform-engineer) | Domino's | Ann Arbor, MI, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:07 PM (seen) | [Linux Systems Administrator DOD Secret IAT Level III](https://vertucom.catsone.com/careers/65909-Associates-Systems-LLC/jobs/16717697-Linux-Systems-Administrator-DOD-Secret--IAT-Level-III/) | Vertucom |  | 15 | rules: 7+ yrs exp; senior title; needs: security clearance |
@@ -1144,7 +1145,6 @@ Jump to: [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (325)](#saturday-nov-14-325
 | date only | [Production Engineering :  Sr Tooling Designer](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineering----Sr-Tooling-Designer_J-00354424) | ASML | Wilton, CT, USA | 33 | rules: senior title, years not stated; adjacent title, little DevOps/… |
 | date only | [Senior Systems Engineer (HPC/Server Farm)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Senior-Systems-Engineer--HPC-Server-Farm-_R54243) | Cadence Design Systems | SAN JOSE | 23 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | date only | [Sr. Network Engineer](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Virtual-USA/Sr-Network-Engineer_0015031) | CCC Intelligent Solutions | Virtual, USA (remote) | 20 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| date only | [Senior DevOps Engineer](https://freddiemac.wd5.myworkdayjobs.com/External/job/Dallas-TX/Senior-Data-Engineer_JR17721) | Freddie Mac | Dallas, TX | 38 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 
 </details>
 
