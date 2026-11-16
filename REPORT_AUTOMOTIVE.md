@@ -2,12 +2,14 @@
 
 Watching **12,612 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
 
-Last new match: **Sun Nov 15, 11:47 PM EST**. Score is 0–100 and uses no AI: the full job text is read section by section. "Has" lists the resume's skills the job asks for; "Missing" lists skills the job requires that the resume does not show. The score weighs how much of what the job asks the resume covers, the title, years required (the MS path counts), the industry, word overlap with the resume, freshness and location. Visa sponsorship moves it by 2 points at most. Full history: [data/automotive/matches.csv](data/automotive/matches.csv).
+Last new match: **Mon Nov 16, 01:38 AM EST**. Score is 0–100 and uses no AI: the full job text is read section by section. "Has" lists the resume's skills the job asks for; "Missing" lists skills the job requires that the resume does not show. The score weighs how much of what the job asks the resume covers, the title, years required (the MS path counts), the industry, word overlap with the resume, freshness and location. Visa sponsorship moves it by 2 points at most. Full history: [data/automotive/matches.csv](data/automotive/matches.csv).
 
-## Posted in the last 24 hours (3)
+## Posted in the last 24 hours (5)
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
+| 81 | [Simulation Modeling Engineer II](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Simulation-Modeling-Engineer-II_R008211) | Allison Transmission | Indianapolis, IN | Nov 15 | Simulink, MATLAB, MIL testing, SIL testing, C, C++, Unit testing, Controls/algorithms, Si… | Rust | 2+ yrs |
+| 78 | [Staff Functional Safety Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69723) | Ford Motor Company | Long Beach, CA, United States; Palo Alt… (hybrid) | Nov 16 | Functional safety, ISO 26262, ECU software, Embedded software, Controls/algorithms, Agile… | SOTIF (ISO 21448) | 4+ yrs; stretch: senior-level title; sponsors visas |
 | 66 | [Staff Systems Engineer - LV Power Controls Integration](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74191) | Ford Motor Company | Palo Alto, CA, United States (hybrid) | Nov 15 | ISO 26262, Functional safety, Requirements engineering, CAN/CAN FD, ECU software, Embedde… | HIL testing, Automotive Ethernet/SOME-IP, UDS/diagnostics, … | 8+ yrs; stretch: senior-level title; sponsors visas |
 | 62 | [Real Time Systems Development Engineer](https://astonmartinf1.pinpointhq.com/en/postings/09cbb71c-a1d4-4599-a0c7-76fdbffaac18) | Astonmartinf1 | Silverstone (onsite) | Nov 15 | Simulink, MATLAB, C, CAN/CAN FD, ECU software, Controls/algorithms, C++, Simulation and m… | – | location unclear |
 | 54 | [Senior Windows Developer (C++)](https://stackand.zohorecruit.com/jobs/Careers/311383000018775968/Senior-Windows-Developer-C) | Stackand | Limerick | Nov 15 | C++ | – | description not read; location unclear |
