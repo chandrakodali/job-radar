@@ -11552,17 +11552,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 30,
+   "n": 31,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 30,
+   "n": 31,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 30,
+   "n": 31,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12863,7 +12863,7 @@
   ],
   "2026-11-16": [
    13,
-   50
+   53
   ]
  },
  "resolved": {
@@ -63734,6 +63734,7 @@
   "apple:usa:200669232": "2026-11-14",
   "apple:usa:200674782": "2026-11-14",
   "apple:usa:200675289": "2026-11-14",
+  "apple:usa:200677400": "2026-11-16",
   "apple:usa:200682611": "2026-11-14",
   "apple:usa:200687778": "2026-11-14",
   "apple:usa:200687791": "2026-11-14",
@@ -64089,6 +64090,7 @@
   "avature:synopsys.avature.net|careers:19677": "2026-11-14",
   "avature:tesco.avature.net|en_GB/careers:217289": "2026-11-14",
   "avature:tesco.avature.net|en_GB/careers:218374": "2026-11-14",
+  "avature:tesco.avature.net|en_GB/careers:219869": "2026-11-16",
   "avature:tmf.avature.net|careersmarketplace:35948": "2026-11-14",
   "avature:tql.avature.net|TQLexternalcareers:18897": "2026-11-15",
   "avature:tql.avature.net|TQLexternalcareers:18898": "2026-11-15",
@@ -67427,6 +67429,8 @@
   "smartrecruiters:captechconsulting:744000161377929": "2026-11-14",
   "smartrecruiters:cityofnewyork:3743990016861706": "2026-11-14",
   "smartrecruiters:cityofphiladelphia:744000159943569": "2026-11-14",
+  "smartrecruiters:dominos:744000161708269": "2026-11-16",
+  "smartrecruiters:dominos:744000161714848": "2026-11-16",
   "smartrecruiters:hardindesign:744000160661857": "2026-11-14",
   "smartrecruiters:harvarduniversity:3743990016713616": "2026-11-14",
   "smartrecruiters:intuitive:744000161108070": "2026-11-14",
@@ -68532,7 +68536,7 @@
   "remoteok": "2026-11-16T00:48:53+00:00",
   "usajobs": "2026-11-16T00:48:53+00:00",
   "workable_search": "2026-11-16T00:48:53+00:00",
-  "wwr": "2026-11-16T00:48:53+00:00",
+  "wwr": "2026-11-16T01:46:00+00:00",
   "yc": "2026-11-16T00:48:53+00:00"
  },
  "title_rules": "72f554d20a7f",
