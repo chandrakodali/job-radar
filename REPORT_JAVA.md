@@ -1,27 +1,29 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**182 jobs**, newest first. Updated Mon Nov 16, 7:49 AM CST from 12,526 company job boards and other sources.
+**184 jobs**, newest first. Updated Mon Nov 16, 8:49 AM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 128 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 781 matching jobs that job sites and feeds listed this week, 196 (25%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 784 matching jobs that job sites and feeds listed this week, 196 (25%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (7)](#sunday-nov-15-7) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (21)](#friday-nov-13-21) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19) · [Mon 9 (12)](#monday-nov-9-12)
+Jump to: [Mon 16 (2)](#monday-nov-16-2) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (21)](#friday-nov-13-21) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19) · [Mon 9 (12)](#monday-nov-9-12)
 
-## Monday, Nov 16 (1)
+## Monday, Nov 16 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Desenvolvedor Pl - Java](https://spassu.zohorecruit.com/jobs/Careers/678402000036055048/Desenvolvedor-Pl-Java) | Spassu |  (remote) | 57 | location unclear |
 | 7:28 AM | [1000000554.SOFTWARE ENGINEER II.INFO TECH - APPLICATIONS](https://fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26000592) | Dallas County | Dallas, TX, United States | 40 | 3+ yrs exp; requires Java |
 
-## Sunday, Nov 15 (7)
+## Sunday, Nov 15 (8)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:46 PM (seen) | [Java Developer with Banking Exp](https://app.dover.com/apply/comsparkint/3aa1a07c-92ae-4baa-84f7-8cd79ffe6c20) | Comsparkint | Boston, MA; San Francisco, CA (onsite) | 55 |  |
 | 11:00 PM | [Java Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796019) | JP Morgan Chase | Jersey City, NJ, United States | 60 | 3+ yrs exp; senior title |
+| 11:00 PM | [Senior Software Engineer](https://careers-cotiviti.icims.com/jobs/22993/senior-software-engineer/job) | Cotiviti | Remote, United States | 45 | 4+ yrs exp; senior title; requires Java; repost |
 | 7:28 PM | [Delivery Driver(08902) - 1348 suite 103 Java Lane](https://jobs.smartrecruiters.com/Dominos/744000161714848-delivery-driver-08902-1348-suite-103-java-lane) | Domino's | Burlington, NC, United States | 65 |  |
 | 1:23 PM (seen) | [Java 11 changes limited with CWS](https://jobs.jobvite.com/oneco/job/oBEXdfw9) | Oneco | San Mateo, California hello | 50 |  |
 | 1:23 PM (seen) | [Java 11 changes internal](https://jobs.jobvite.com/oneco/job/ozEXdfw7) | Oneco | San Mateo, California hello | 50 |  |
