@@ -3603,6 +3603,7 @@
   "dover:codingal": "2026-11-15",
   "dover:cointelligencelabs": "2026-11-15",
   "dover:column": "2026-11-15",
+  "dover:comsparkint": "2026-11-16",
   "dover:concourse": "2026-11-15",
   "dover:conduit": "2026-11-15",
   "dover:conveyor": "2026-11-15",
@@ -11553,17 +11554,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 34,
+   "n": 35,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 34,
+   "n": 35,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 34,
+   "n": 35,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12821,31 +12822,31 @@
  "found_cursor": 0,
  "last_digest": "2026-11-15",
  "missed_companies": {
-  "*Confidential Healthcare AI Startup": "2026-11-15",
+  "*Confidential Healthcare AI Startup": "2026-11-16",
   "Bask Health": "2026-11-16",
   "Beacons": "2026-11-16",
   "Bountiful": "2026-11-16",
   "Candid Health": "2026-11-16",
-  "Collabify": "2026-11-15",
-  "Early-stage Startup": "2026-11-15",
+  "Collabify": "2026-11-16",
+  "Early-stage Startup": "2026-11-16",
   "EdgeQ Technologies Private Limited": "2026-11-16",
   "Fathom Robotics": "2026-11-16",
   "GoGoGrandparent": "2026-11-16",
   "HelloGov AI": "2026-11-16",
   "Jiffy": "2026-11-16",
   "Julius": "2026-11-16",
-  "Kroo": "2026-11-15",
+  "Kroo": "2026-11-16",
   "Medplum": "2026-11-16",
   "Method Financial": "2026-11-16",
   "Mindful Support Services": "2026-11-16",
   "Multi Media LLC": "2026-11-16",
-  "New Product": "2026-11-15",
+  "New Product": "2026-11-16",
   "Pavago": "2026-11-16",
   "Pine Park Health": "2026-11-16",
   "Polymath Robotics": "2026-11-16",
   "Rockstar": "2026-11-16",
   "Sapsol Technologies Inc": "2026-11-16",
-  "Stealth Health-Tech Startup": "2026-11-15",
+  "Stealth Health-Tech Startup": "2026-11-16",
   "Symmetrio": "2026-11-16",
   "True Talent Solutions Partners": "2026-11-16",
   "Turing Labs Inc.": "2026-11-16",
@@ -12864,7 +12865,7 @@
   ],
   "2026-11-16": [
    27,
-   109
+   118
   ]
  },
  "resolved": {
@@ -64913,6 +64914,7 @@
   "dover:cointelligencelabs:ffa69088-df2b-4237-aa71-b504e5187d93": "2026-11-15",
   "dover:column:3cacdbb6-546c-4e3e-9500-6b52828131f5": "2026-11-15",
   "dover:column:f1059c5c-99ae-4799-af6e-b58095c07815": "2026-11-15",
+  "dover:comsparkint:3aa1a07c-92ae-4baa-84f7-8cd79ffe6c20": "2026-11-16",
   "dover:conduit:ff655ee4-e65c-4f7b-bc81-dfb6c8ffb838": "2026-11-15",
   "dover:conveyor:499e693a-43a0-4e80-be21-ef2da822527c": "2026-11-15",
   "dover:conveyor:5eacf5dc-95bb-479d-b186-f03658548b83": "2026-11-15",
@@ -66766,6 +66768,7 @@
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210787819": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210791686": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210795450": "2026-11-14",
+  "oracle:jpmc.fa.oraclecloud.com|CX_1001:210796019": "2026-11-16",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210803303": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210804903": "2026-11-14",
   "paylocity:0eed7c03-694e-454b-8e29-7abbbc8e65b5:4646633": "2026-11-15",
@@ -68568,11 +68571,11 @@
   "zoho:virtualcolleague:805869000004420928": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-15T23:47:42+00:00",
+  "hn": "2026-11-16T05:46:19+00:00",
   "remoteok": "2026-11-16T04:47:54+00:00",
   "usajobs": "2026-11-16T03:48:13+00:00",
   "workable_search": "2026-11-16T03:48:13+00:00",
-  "wwr": "2026-11-16T04:47:54+00:00",
+  "wwr": "2026-11-16T05:46:19+00:00",
   "yc": "2026-11-16T03:48:13+00:00"
  },
  "title_rules": "72f554d20a7f",

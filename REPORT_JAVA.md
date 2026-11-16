@@ -1,19 +1,21 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**179 jobs**, newest first. Updated Sun Nov 15, 10:47 PM CST from 12,526 company job boards and other sources.
+**180 jobs**, newest first. Updated Sun Nov 15, 11:46 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 128 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 608 matching jobs that job sites and feeds listed this week, 155 (25%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 617 matching jobs that job sites and feeds listed this week, 155 (25%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (5)](#sunday-nov-15-5) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19) · [Mon 9 (12)](#monday-nov-9-12) · [Sun 8 (1)](#sunday-nov-8-1)
+Jump to: [Sun 15 (7)](#sunday-nov-15-7) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19) · [Mon 9 (12)](#monday-nov-9-12)
 
-## Sunday, Nov 15 (5)
+## Sunday, Nov 15 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:46 PM (seen) | [Java Developer with Banking Exp](https://app.dover.com/apply/comsparkint/3aa1a07c-92ae-4baa-84f7-8cd79ffe6c20) | Comsparkint | Boston, MA; San Francisco, CA (onsite) | 55 |  |
+| 11:00 PM | [Java Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796019) | JP Morgan Chase | Jersey City, NJ, United States | 60 | 3+ yrs exp; senior title |
 | 7:28 PM | [Delivery Driver(08902) - 1348 suite 103 Java Lane](https://jobs.smartrecruiters.com/Dominos/744000161714848-delivery-driver-08902-1348-suite-103-java-lane) | Domino's | Burlington, NC, United States | 65 |  |
 | 1:23 PM (seen) | [Java 11 changes limited with CWS](https://jobs.jobvite.com/oneco/job/oBEXdfw9) | Oneco | San Mateo, California hello | 50 |  |
 | 1:23 PM (seen) | [Java 11 changes internal](https://jobs.jobvite.com/oneco/job/ozEXdfw7) | Oneco | San Mateo, California hello | 50 |  |
@@ -222,12 +224,6 @@ Jump to: [Sun 15 (5)](#sunday-nov-15-5) · [Sat 14 (76)](#saturday-nov-14-76) ·
 | date only | [Software Engineer](https://paypal.eightfold.ai/careers/job/274923336364) | PayPal | Scottsdale, AZ, US (onsite) | 33 | 3+ yrs exp; no future H-1B sponsorship; requires Java |
 | date only | [Associate, Software Engineer](https://morganstanley.eightfold.ai/careers/job/549800008226) | Morganstanley | Alpharetta, GA, US (onsite) | 48 | entry-level title; 3+ yrs exp; requires Java |
 | date only | [Senior Java Engineer](https://mgl.avature.net/internalcareers/JobDetail/Senior-Java-Engineer/22776) | Mgl Avature Net |  | 38 | senior title, years not stated; location unclear |
-
-## Sunday, Nov 8 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 11:00 PM | [Senior Software Engineer](https://careers-cotiviti.icims.com/jobs/20898/senior-software-engineer/job) | Cotiviti | Remote, United States | 33 | 4+ yrs exp; senior title; requires Java |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (290)
 
