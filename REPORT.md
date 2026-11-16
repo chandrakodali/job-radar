@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**692 jobs**, newest first. Updated Mon Nov 16, 6:07 AM CST from 12,526 company job boards and other sources.
+**692 jobs**, newest first. Updated Mon Nov 16, 6:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 211 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,151 matching jobs that job sites and feeds listed this week, 384 (33%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,153 matching jobs that job sites and feeds listed this week, 384 (33%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Mon 16 (3)](#monday-nov-16-3) · [Sun 15 (15)](#sunday-nov-15-15) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (53)](#monday-nov-9-53)
 
@@ -742,12 +742,14 @@ Jump to: [Mon 16 (3)](#monday-nov-16-3) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | 10:42 AM | [Software Engineer, Web Infrastructure](https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042) | Notion | San Francisco, California; New York, Ne… (hybrid) | 70 |  |
 | 9:17 AM | [Systems Reliability Engineer - All Levels](https://jobs.ashbyhq.com/allen-control-systems/3075ceee-6a85-4170-9ffc-3e2f11697db7) | Allen Control Systems | Austin, TX | 65 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (663)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (665)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Senior DevOps Engineer](https://nvidia.eightfold.ai/careers/job/893398591334) | Nvidia | Yokne'am Illit, North District, IL (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| date only | [Senior Cloud Platform Engineer - AI Education Systems](https://nvidia.eightfold.ai/careers/job/893398750368) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 5:56 AM | [Senior Security Engineer, Product & Platform](https://jobs.lever.co/jobgether/6c3a611f-cbcd-4782-b100-a11df13bcdd3) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 5:53 AM | [Senior DevOps Engineer II](https://www.storyblok.com/job?gh_jid=5036564101) | Storyblok | Remote (remote) | 32 | rules: 9+ yrs exp; senior title; location unclear; asks for 9+ years … |
 | 5:50 AM | [OpenShift Platform Engineer](https://jobs.lever.co/jobgether/6a1d0ed9-1ef9-44bb-902b-e7b4b3868b11) | Jobgether | US (remote) | 42 | rules: 6+ yrs exp; asks for 6+ years of experience |
@@ -1146,8 +1148,6 @@ Jump to: [Mon 16 (3)](#monday-nov-16-3) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | date only | [Linux System Administrator](https://ctcgroup.applytojob.com/apply/HSWlbuyJIP/Linux-System-Administrator) | CTC Group | Fort Meade, MD | 30 | rules: 15+ yrs exp; needs: security clearance |
 | date only | [Azure Platform Engineer](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Azure-Platform-Engineer_R2603650) | ICF International | Reston, VA | 65 | rules: needs: U.S. citizenship required |
 | date only | [Information Systems Administrator](https://spacedynamicslaboratory.applytojob.com/apply/uXUYmgNNi5/Information-Systems-Administrator) | Space Dynamics Laboratory | Stafford, VA | 30 | rules: 10+ yrs exp; needs: security clearance |
-| date only | [Cloud Computing Engineer I](https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Cloud-Computing-Engineer-I_R114595-2) | University of Central Florida | Orlando, FL (Main Campus) | 80 | rules: entry-level title; 4+ yrs exp; E-Verify; likely H-1B cap-exemp… |
-| date only | [Systems Administrator - IT Professional (NWS 00959)](https://north-wind-group.breezy.hr/p/4fa97be3d382-systems-administrator-it-professional-nws-00959) | North Wind Group | LIVERMORE, CA, United States | 43 | rules: needs: must be a US citizen |
 
 </details>
 
