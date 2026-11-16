@@ -11996,17 +11996,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 150,
+   "n": 151,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 150,
+   "n": 151,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 150,
+   "n": 151,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14853,7 +14853,7 @@
   ],
   "2026-11-16": [
    102,
-   227
+   229
   ]
  },
  "resolved": {
@@ -65629,6 +65629,7 @@
   "amazon:us:10604594": "2026-11-14",
   "amazon:us:10605146": "2026-11-14",
   "amazon:us:10605797": "2026-11-16",
+  "amazon:us:10605882": "2026-11-16",
   "apple:usa:200657320": "2026-11-14",
   "apple:usa:200674782": "2026-11-14",
   "apple:usa:200684228": "2026-11-14",
@@ -65799,6 +65800,7 @@
   "ashby:polygon-labs:ec7277f7-4757-4863-967c-eecaee0d0740": "2026-11-14",
   "ashby:prefect:6bc102cc-112f-441f-adc8-d53dc83a93ec": "2026-11-12",
   "ashby:qumulo:d60cca8b-7c6a-4883-bcae-a67dd958e2e1": "2026-11-13",
+  "ashby:quora:dce88e1a-d30f-44e6-a471-cf810fc9a449": "2026-11-16",
   "ashby:radiant-industries:13d25280-e5c4-4401-a65d-c73859ade990": "2026-11-12",
   "ashby:radiant-industries:28275b5f-edd9-49b7-b244-01402fe5f66a": "2026-11-09",
   "ashby:rain:5074d899-f321-4eb2-be3a-f33f849f98a2": "2026-11-14",
@@ -66946,6 +66948,7 @@
   "ibm:us:139663": "2026-11-14",
   "icims:apac-blackhawknetwork.icims.com:27229": "2026-11-15",
   "icims:arc-onesolutions.icims.com:17204": "2026-11-15",
+  "icims:arc-onesolutions.icims.com:17276": "2026-11-16",
   "icims:argcareers-bridgenext.icims.com:11351": "2026-11-15",
   "icims:bowheadcareers-uicalaska.icims.com:24320": "2026-11-12",
   "icims:bowheadcareers-uicalaska.icims.com:25350": "2026-11-09",
@@ -67098,6 +67101,7 @@
   "icims:careers-edgewaterit.icims.com:4761": "2026-11-09",
   "icims:careers-edgewaterit.icims.com:4773": "2026-11-09",
   "icims:careers-edgewaterit.icims.com:4795": "2026-11-09",
+  "icims:careers-edgewaterit.icims.com:4827": "2026-11-16",
   "icims:careers-edgewaterit.icims.com:4828": "2026-11-09",
   "icims:careers-edgewaterit.icims.com:4851": "2026-11-09",
   "icims:careers-edgewaterit.icims.com:4853": "2026-11-12",
@@ -67814,6 +67818,7 @@
   "lever:jobgether:4d0e9365-5e2d-4992-889a-3a073f97e4e3": "2026-11-14",
   "lever:jobgether:595fc8e8-bafd-4cb9-8bc0-6b19bf6ca8da": "2026-11-14",
   "lever:jobgether:5cedc112-aefe-4167-8649-8347b8c7b0a9": "2026-11-16",
+  "lever:jobgether:616e390a-1e5b-4902-aeb5-5f0d6f6eef5d": "2026-11-16",
   "lever:jobgether:65a1156a-de46-49fd-8413-39a2b0b92b26": "2026-11-16",
   "lever:jobgether:6a1d0ed9-1ef9-44bb-902b-e7b4b3868b11": "2026-11-16",
   "lever:jobgether:6c3a611f-cbcd-4782-b100-a11df13bcdd3": "2026-11-16",
@@ -67827,6 +67832,7 @@
   "lever:jobgether:85879f6c-bafc-4c8b-8d60-3a0d5c20be01": "2026-11-16",
   "lever:jobgether:8ff47a5b-ca95-4fa8-a528-4b8bb0f84240": "2026-11-14",
   "lever:jobgether:9af4cc18-9474-497f-9a90-60aa781922d4": "2026-11-14",
+  "lever:jobgether:9dd9f072-6671-4b56-b02c-7c9080f9e8b8": "2026-11-16",
   "lever:jobgether:a8baa21e-4284-4e3a-8fb7-ee940e4c5604": "2026-11-14",
   "lever:jobgether:ab5f75c4-39fb-4a6e-82b8-75bde1522e10": "2026-11-14",
   "lever:jobgether:b2f47b3f-ed7f-462c-aa02-233b81b05722": "2026-11-14",
@@ -67835,6 +67841,7 @@
   "lever:jobgether:c5a85d4f-04b0-4148-91d6-6b7a2d2b5d0b": "2026-11-14",
   "lever:jobgether:c6445be2-ca67-4f3f-9e73-ae6bf376ed50": "2026-11-14",
   "lever:jobgether:ce66a95c-1a06-42dc-a28e-5a65d960c1ac": "2026-11-14",
+  "lever:jobgether:d0d0b10a-9ba4-4ce7-997d-3d7db4e759fc": "2026-11-16",
   "lever:jobgether:d14583f1-1c76-45b0-9970-c52c5b253cb7": "2026-11-14",
   "lever:jobgether:d5f22995-7c0b-4592-b479-d284090b36b7": "2026-11-14",
   "lever:jobgether:dfcf2cf4-e337-419a-8d67-0128bd84d2a1": "2026-11-14",
@@ -69678,7 +69685,7 @@
   "remoteok": "2026-11-16T14:37:13+00:00",
   "usajobs": "2026-11-16T14:37:13+00:00",
   "workable_search": "2026-11-16T14:37:13+00:00",
-  "wwr": "2026-11-16T14:37:13+00:00",
+  "wwr": "2026-11-16T15:37:15+00:00",
   "yc": "2026-11-16T14:37:13+00:00"
  },
  "title_rules": "c323075b4d70",
