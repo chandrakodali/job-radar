@@ -11948,17 +11948,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 147,
+   "n": 148,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 147,
+   "n": 148,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 147,
+   "n": 148,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14755,7 +14755,7 @@
   }
  },
  "found_cursor": 968,
- "last_digest": "2026-11-15",
+ "last_digest": "2026-11-16",
  "missed_companies": {
   "Accurant International": "2026-11-16",
   "Bask Health": "2026-11-16",
@@ -67398,6 +67398,9 @@
   "icims:careers-teksynap.icims.com:9765": "2026-11-09",
   "icims:careers-teksynap.icims.com:9768": "2026-11-12",
   "icims:careers-teksynap.icims.com:9820": "2026-11-16",
+  "icims:careers-teksynap.icims.com:9826": "2026-11-16",
+  "icims:careers-teksynap.icims.com:9832": "2026-11-16",
+  "icims:careers-teksynap.icims.com:9833": "2026-11-16",
   "icims:careers-tierpoint.icims.com:3074": "2026-11-09",
   "icims:careers-tierpoint.icims.com:3087": "2026-11-12",
   "icims:careers-uuhc.icims.com:85188": "2026-11-12",
@@ -67748,6 +67751,7 @@
   "lever:jobgether:0e899f97-552a-4ed8-9491-07c4db1805f7": "2026-11-16",
   "lever:jobgether:14040680-3949-47cf-b666-01b3ec6f2f3b": "2026-11-16",
   "lever:jobgether:1e563cf7-02a8-43b0-a8e0-03a4ef5eaf1a": "2026-11-14",
+  "lever:jobgether:41c2eaaf-fd24-4d0f-9938-9b97d6cb238c": "2026-11-16",
   "lever:jobgether:4286ffa5-bae5-4ccc-bf9c-000d74badf2e": "2026-11-16",
   "lever:jobgether:4567bc98-d2e0-45b0-8f61-19f77e7ac416": "2026-11-14",
   "lever:jobgether:490c9d39-3017-48f1-b748-d4a90e218119": "2026-11-14",

@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**693 jobs**, newest first. Updated Mon Nov 16, 7:37 AM CST from 12,526 company job boards and other sources.
+**693 jobs**, newest first. Updated Mon Nov 16, 8:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -743,7 +743,7 @@ Jump to: [Mon 16 (6)](#monday-nov-16-6) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | 10:42 AM | [Software Engineer, Web Infrastructure](https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042) | Notion | San Francisco, California; New York, Ne… (hybrid) | 70 |  |
 | 9:17 AM | [Systems Reliability Engineer - All Levels](https://jobs.ashbyhq.com/allen-control-systems/3075ceee-6a85-4170-9ffc-3e2f11697db7) | Allen Control Systems | Austin, TX | 65 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (669)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (670)
 
 <details><summary>Show</summary>
 
@@ -752,6 +752,7 @@ Jump to: [Mon 16 (6)](#monday-nov-16-6) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | date only | [Senior DevOps Engineer](https://nvidia.eightfold.ai/careers/job/893398591334) | Nvidia | Yokne'am Illit, North District, IL (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Cloud Platform Engineer - AI Education Systems](https://nvidia.eightfold.ai/careers/job/893398750368) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Security Tech Operations Engineer II, Amazon Security Hardware](https://www.amazon.jobs/en/jobs/10605797/security-tech-operations-engineer-ii-amazon-security-hardware) | Amazon.com Services LLC | Hebron, Kentucky, USA | 40 | rules: 4+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
+| 8:51 AM | [Database Platform Engineer](https://jobs.lever.co/jobgether/41c2eaaf-fd24-4d0f-9938-9b97d6cb238c) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:14 AM | [IT Infrastructure Engineer](https://jobs.lever.co/jobgether/14040680-3949-47cf-b666-01b3ec6f2f3b) | Jobgether | US (remote) | 37 | rules: 7+ yrs exp; no future H-1B sponsorship; asks for 7+ years of e… |
 | 7:08 AM | [Infrastructure Engineer](https://jobs.smartrecruiters.com/CieloProjects/744000161803014-infrastructure-engineer) | Cieloprojects | New York, NY, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:07 AM (seen) | [Unix Engineer](https://app.dover.com/apply/covetus/fe1c7ccc-6016-40fb-a0b6-aebaa8b19504) | Covetus | United States (remote) | 12 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -1148,7 +1149,6 @@ Jump to: [Mon 16 (6)](#monday-nov-16-6) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | date only | [Systems Administrator](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Systems-Administrator_R107333-1) | Regions Bank | Hoover, AL - Riverchase Operations Cent… | 18 | asks for 10+ years of experience; 10+ yrs exp; no future H-1B sponsor… |
 | date only | [DevSecOps Engineer](https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/DevSecOps-Engineer_JR67736) | Oklahoma State Government | Oklahoma County | 38 | asks for 5+ years of experience; 5+ yrs exp |
 | date only | [Full-stack Engineer 5 (The Cloud Operations Resilience Engineering) (…](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-5--The-Cloud-Operations-Resilience-Engineering---MEG-_R1003663-1) | Capital One | McLean, VA; Richmond, VA; Chicago, IL; … | 33 | asks for 9+ years of experience; 9+ yrs exp |
-| date only | [Advisor-Cloud & Observability Engineer](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Advisor-Cloud---Observability-Engineer_JR3020) | Fannie Mae | Reston, VA; Plano, TX | 38 | asks for 6+ years of experience; 6+ yrs exp |
 
 </details>
 
