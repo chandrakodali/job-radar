@@ -1,14 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**723 jobs**, newest first. Updated Mon Nov 16, 12:18 AM CST from 12,526 company job boards and other sources.
+**724 jobs**, newest first. Updated Mon Nov 16, 1:15 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 217 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,710 matching jobs that job sites and feeds listed this week, 324 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,812 matching jobs that job sites and feeds listed this week, 342 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (92)](#tuesday-nov-10-92) · [Mon 9 (84)](#monday-nov-9-84)
+Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (93)](#tuesday-nov-10-93) · [Mon 9 (84)](#monday-nov-9-84)
 
 ## Sunday, Nov 15 (20)
 
@@ -582,7 +582,7 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 2:00 AM | [Business Data Analyst](https://jobs.dayforcehcm.com/en-US/allianthcm/smsalliant/jobs/44606) | Allianthcm | Omaha, NE, US | 63 | 1+ yrs exp |
 | 1:30 AM | [SAP BASIS Administrator Associate](https://jobs.smartrecruiters.com/O-I/744000161034659-sap-basis-administrator-associate) | O I | Perrysburg, OH, United States (hybrid) | 68 | entry-level title |
 
-## Tuesday, Nov 10 (92)
+## Tuesday, Nov 10 (93)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -597,6 +597,7 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 5:42 PM | [Advanced Data Center Technician](https://job-boards.greenhouse.io/pearceservices/jobs/5478770008) | Pearceservices | United States | 63 | entry level (from the text) |
 | 5:35 PM | [Test Engineer](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11072) | Ralliant | Hollister, CA, United States (onsite) | 73 | 1+ yrs exp |
 | 5:14 PM | [Calibration and Equipment Systems Engineer I](https://jobs.lever.co/penumbrainc/5602dc11-6706-465f-9cfd-b97bbcb496e6) | Penumbra Inc | Alameda, CA (onsite) | 73 | entry-level title |
+| 4:10 PM | [Lien Resolution Support Analyst](https://jobs.workable.com/view/pEM7GHifVcCvpNWR9SKMZj/remote-lien-resolution-support-analyst-in-somerset-at-zipliens) | ZipLiens | Somerset, Kentucky (remote) (remote) | 60 | entry level (from the text) |
 | 4:00 PM | [Embedded Application Developer - Early Career Program, Advanced EV](https://ford.eightfold.ai/careers/job/563568454162303) | Ford | Palo Alto, CA, US (onsite) | 68 | entry-level title |
 | 3:53 PM | [Client Technology Staging Associate](https://abacustechnology.com/about/careers/current-vacancies/?gh_jid=8200978003) | Abacus | Orlando, Florida, United States | 68 | entry-level title |
 | 3:51 PM | [Software Engineer](https://jobs.smartrecruiters.com/WesternDigital/744000160973301-software-engineer) | Western Digital | San Jose, CA, United States | 78 | 0-2 yrs exp; entry level (from the text) |
@@ -768,7 +769,7 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 6:39 AM | [Junior AI/ML Engineer](https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393) | Netholabs | San Francisco (onsite) | 68 | entry-level title |
 | 4:25 AM | [Support Engineer, PAYGO](https://jobs.lever.co/jobgether/6ba9dce0-97e9-470f-a59b-06b6c673fcf2) | Jobgether | US (remote) | 60 | entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3000)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3005)
 
 <details><summary>Show</summary>
 
@@ -776,6 +777,11 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 |---|---|---|---|---:|---|
 | date only | [Engineer, Global Quality Package Design and Development Quality Assur…](https://micron.eightfold.ai/careers/job/45517929) | Micron | SG (onsite) | 60 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | date only | [Software Engineer, Storage](https://nvidia.eightfold.ai/careers/job/893398741679) | Nvidia | Ra'anana, Center District, IL (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 1:39 AM | [Cloud Solutions Advisor](https://jobs.lever.co/jobgether/c9534b21-105a-4981-9b07-029f0fc5b9a5) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 1:07 AM | [Power BI Developer / Data Visualization Analyst](https://jobs.lever.co/jobgether/98ddf386-39a4-4ae5-b81c-a67e4798741a) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; needs: Security clearance |
+| 12:55 AM | [AI Engineer](https://jobs.lever.co/jobgether/e9ace1b9-1de8-4993-88f6-03cb19a620e8) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 12:38 AM | [EMR System Analyst](https://jobs.lever.co/jobgether/cfcbf531-39fa-41f6-9e0f-68bb25da6885) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 12:26 AM | [Cloud Developer - CLEARED](https://jobs.lever.co/jobgether/85879f6c-bafc-4c8b-8d60-3a0d5c20be01) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; needs: security clearance |
 | 12:18 AM (seen) | [Founding Full-Stack Software Engineer Who Has Applied for US Green Ca…](https://app.dover.com/apply/cherrymoss/35d9c1c6-0272-4f96-94d4-cf26b90ac67e) | Cherrymoss | Canada; United States; San Francisco, CA (hybrid) | 70 | rules: 2+ yrs exp; sponsors visas; asks for 2+ years of experience |
 | 11:45 PM | [QA Automation Engineer](https://jobs.lever.co/jobgether/5acb5dac-e0bd-4822-9345-0c02bcc89a29) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:25 PM | [Data Engineer](https://jobs.ashbyhq.com/first-resonance/326cdc16-c3ee-46ee-a759-a65524f37db2) | First Resonance | Los Angeles (onsite) | 70 | rules: 4+ yrs exp; E-Verify; needs: ITAR |
@@ -1169,10 +1175,5 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 12:53 PM | [Fulfillment Automation Solutions Engineer](https://job-boards.greenhouse.io/beaconbiosignals/jobs/4506739009) | Beaconbiosignals | Boston, MA / Remote (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:53 PM | [Associate Analyst, Digital Security](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355764) | Waste Management | TX, United States (remote) | 67 | rules: entry-level title; 4+ yrs exp; asks for 4+ years of experience |
 | 12:53 PM | [Associate Analyst, Digital Security](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1011/job/2355764) | Emcm Fa Us2 Oraclecloud Com | TX, United States (remote) | 60 | rules: entry-level title; 4+ yrs exp; asks for 4+ years of experience |
-| 12:41 PM | [Lab IT/OT Systems Administrator](https://job-boards.greenhouse.io/lilasciences/jobs/4505109009) | Lila Sciences | Cambridge, MA USA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 12:39 PM | [Client Support QA Engineer](https://job-boards.greenhouse.io/coherehealth/jobs/8203571003) | Cohere Health | United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 12:31 PM | [Associate Engineer - Environmental- Citywide (5207) - (C00476)](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016848906-associate-engineer-environmental-citywide-5207-c00476-) | City and County of San Franci… | San Francisco, CA, United States | 70 | rules: entry-level title; 3+ yrs exp; asks for 3+ years of experience |
-| 12:24 PM | [Business Systems Analyst](https://job-boards.greenhouse.io/kinders/jobs/5481777008) | Kinders | Walnut Creek, CA | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 12:19 PM | [Voice Product Analytics - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805875) | JP Morgan Chase | Columbus, OH, United States | 70 | rules: entry-level title; 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
