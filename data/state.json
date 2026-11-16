@@ -11932,17 +11932,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 124,
+   "n": 125,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 124,
+   "n": 125,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 124,
+   "n": 125,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14746,31 +14746,32 @@
  "found_cursor": 968,
  "last_digest": "2026-11-15",
  "missed_companies": {
-  "Accurant International": "2026-11-15",
-  "Bask Health": "2026-11-15",
-  "Coris": "2026-11-15",
-  "Diversified Services Network, Inc.": "2026-11-15",
+  "Accurant International": "2026-11-16",
+  "Bask Health": "2026-11-16",
+  "Coris": "2026-11-16",
+  "Diversified Services Network, Inc.": "2026-11-16",
   "EdgeQ Technologies Private Limited": "2026-11-16",
   "Edgewater Federal Solutions, Inc.": "2026-11-16",
-  "Essnova Solutions, Inc.": "2026-11-15",
+  "Essnova Solutions, Inc.": "2026-11-16",
   "Foresight Works Ltd": "2026-11-13",
   "Fortanix": "2026-11-14",
-  "GEM Technologies": "2026-11-15",
+  "GEM Technologies": "2026-11-16",
   "Halcyon": "2026-11-14",
   "Knack": "2026-11-16",
-  "Odin": "2026-11-15",
+  "Odin": "2026-11-16",
   "OpenDataJobs": "2026-11-14",
   "PGTEK": "2026-11-14",
-  "PIMCO": "2026-11-15",
-  "Partner One Software Inc": "2026-11-15",
+  "PIMCO": "2026-11-16",
+  "Partner One Software Inc": "2026-11-16",
   "Runware": "2026-11-14",
   "Salvo Software": "2026-11-14",
-  "Stealth Health-Tech Startup": "2026-11-15",
-  "Systems Engineering Solutions Corporation": "2026-11-15",
-  "WorldVia": "2026-11-15",
+  "Stealth Health-Tech Startup": "2026-11-16",
+  "Systems Engineering Solutions Corporation": "2026-11-16",
+  "WorldVia": "2026-11-16",
+  "Worth AI": "2026-11-16",
   "Xora Innovation": "2026-11-14",
   "Zipdev": "2026-11-14",
-  "erad": "2026-11-15",
+  "erad": "2026-11-16",
   "iCallidus": "2026-11-13"
  },
  "missing_once": {},
@@ -14792,8 +14793,8 @@
    376
   ],
   "2026-11-16": [
-   2,
-   8
+   22,
+   50
   ]
  },
  "resolved": {
@@ -68773,6 +68774,7 @@
   "workable:zipdev:D129923BE8": "2026-11-14",
   "workable_search:all:0d56bb28-6356-401b-ab00-54aec4e8581c": "2026-11-12",
   "workable_search:all:0f9916d4-27a5-4952-9b79-a44c38df2eb6": "2026-11-12",
+  "workable_search:all:16c50948-9928-4570-8f6d-dd49e8ffb7e0": "2026-11-16",
   "workable_search:all:287dc66f-da3d-4851-8f7e-134b09184427": "2026-11-13",
   "workable_search:all:450576ed-3adb-4188-982d-91e5e29b3dcf": "2026-11-12",
   "workable_search:all:4e52525f-ea98-471d-9f1f-d41378246838": "2026-11-12",
@@ -69557,12 +69559,12 @@
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-15T20:37:14+00:00",
-  "remoteok": "2026-11-16T00:37:27+00:00",
-  "usajobs": "2026-11-15T23:37:16+00:00",
-  "workable_search": "2026-11-15T23:37:16+00:00",
-  "wwr": "2026-11-16T01:37:19+00:00",
-  "yc": "2026-11-15T23:37:16+00:00"
+  "hn": "2026-11-16T02:37:11+00:00",
+  "remoteok": "2026-11-16T02:37:11+00:00",
+  "usajobs": "2026-11-16T02:37:11+00:00",
+  "workable_search": "2026-11-16T02:37:11+00:00",
+  "wwr": "2026-11-16T02:37:11+00:00",
+  "yc": "2026-11-16T02:37:11+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1

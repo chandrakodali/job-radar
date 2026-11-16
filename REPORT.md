@@ -1,19 +1,20 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**697 jobs**, newest first. Updated Sun Nov 15, 8:07 PM CST from 12,526 company job boards and other sources.
+**698 jobs**, newest first. Updated Sun Nov 15, 8:37 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 203 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 977 matching jobs that job sites and feeds listed this week, 304 (31%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,019 matching jobs that job sites and feeds listed this week, 324 (31%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (12)](#sunday-nov-15-12) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (98)](#thursday-nov-12-98) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57) · [Sun 8 (4)](#sunday-nov-8-4)
+Jump to: [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (98)](#thursday-nov-12-98) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57) · [Sun 8 (4)](#sunday-nov-8-4)
 
-## Sunday, Nov 15 (12)
+## Sunday, Nov 15 (13)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 6:51 PM | [Senior DevOps Engineer, Infrastructure & Reliability](https://jobs.workable.com/view/3P5xFJLRF824o6ijeaRqjm/remote-senior-devops-engineer%2C-infrastructure-%26-reliability-in-atlanta-at-worth-ai) | Worth AI | Atlanta, Georgia (remote) (remote) | 52 | senior title, years not stated |
 | 2:37 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265317735/Senior-FinOps-Analyst-ID94366) | Agileengine | Jacksonville, United States +9 more | 25 | senior title, years not stated |
 | 1:38 PM | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/netic/178a50d3-f3e8-4031-829f-ce6d6f3ed245) | Cybernetic Labs | San Francisco (onsite) | 80 | 1+ yrs exp |
 | 1:07 PM (seen) | [Senior Production Engineer](https://santos.avature.net/internalCareer/JobDetail/Senior-Production-Engineer/82288) | Santos Avature Net |  | 20 | senior title, years not stated; location unclear |
