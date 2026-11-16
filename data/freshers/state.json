@@ -3587,6 +3587,8 @@
   "dover:biztechjobs": "2026-11-15",
   "dover:blue-voice-inc": "2026-11-15",
   "dover:blueharlan": "2026-11-15",
+  "dover:bontuteur": "2026-11-16",
+  "dover:brellium": "2026-11-16",
   "dover:brinc-drones": "2026-11-15",
   "dover:c-gen-ai": "2026-11-15",
   "dover:capitol": "2026-11-15",
@@ -11676,17 +11678,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 58,
+   "n": 59,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 58,
+   "n": 59,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 58,
+   "n": 59,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -67516,6 +67518,8 @@
   "dover:biztechjobs:cffcf78d-a217-4673-a208-607446b5660c": "2026-11-15",
   "dover:blue-voice-inc:5460f0aa-ec61-4d6d-9775-819bae38f180": "2026-11-15",
   "dover:blue-voice-inc:a3a5b56f-c4f2-46d0-9bd4-16f314623212": "2026-11-15",
+  "dover:bontuteur:f6c811c3-ecfe-44e5-ab4f-49c36a238169": "2026-11-16",
+  "dover:brellium:2473a9b4-0f04-4fc1-8205-98d8ededd9f9": "2026-11-16",
   "dover:c-gen-ai:2ddc9bab-82c0-4554-bc2e-7b023e3bc5d9": "2026-11-15",
   "dover:cicero:2b6bf715-ccdf-4b4d-ac5f-a89f3df3044c": "2026-11-15",
   "dover:cicero:c270ce27-1470-4621-accc-f0bcce5e92ca": "2026-11-15",
@@ -72788,8 +72792,10 @@
   "oracle:erou.fa.us2.oraclecloud.com|CX_1:5935": "2026-11-15",
   "oracle:erou.fa.us2.oraclecloud.com|CX_1:5940": "2026-11-15",
   "oracle:erou.fa.us2.oraclecloud.com|CX_1:5941": "2026-11-15",
+  "oracle:erqh.fa.us2.oraclecloud.com|CX_1001:33801": "2026-11-16",
   "oracle:erqh.fa.us2.oraclecloud.com|CX_1001:34104": "2026-11-14",
   "oracle:erqh.fa.us2.oraclecloud.com|CX_1001:34339": "2026-11-14",
+  "oracle:erqh.fa.us2.oraclecloud.com|CX_1:33801": "2026-11-16",
   "oracle:erqh.fa.us2.oraclecloud.com|CX_1:34104": "2026-11-14",
   "oracle:erqh.fa.us2.oraclecloud.com|CX_1:34339": "2026-11-14",
   "oracle:ertd.fa.us2.oraclecloud.com|CX_1001:35275": "2026-11-13",
@@ -73376,6 +73382,7 @@
   "rippling:buckeye-power-sales:a99da78a-5873-4bd2-8c21-1d3e2264cc9f": "2026-11-15",
   "rippling:buckeye-power-sales:d520954c-2028-4b82-9247-0b15cb9f48b8": "2026-11-15",
   "rippling:buckeye-power-sales:fe0420c1-1df3-474c-9084-9868f9083cbd": "2026-11-15",
+  "rippling:button:6a12b0a7-ce58-4d40-86a9-4acb5574177f": "2026-11-16",
   "rippling:camlin-careers:cac0bda2-5397-475b-a083-4b16c96997d6": "2026-11-13",
   "rippling:campspot:67d0ee6b-7f5d-4411-a80a-002712cbac5b": "2026-11-15",
   "rippling:careers-at-pearl:c814c1ac-c363-475e-af58-d60f1acdb4e2": "2026-11-15",

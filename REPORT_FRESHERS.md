@@ -1,14 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**728 jobs**, newest first. Updated Sun Nov 15, 10:15 PM CST from 12,526 company job boards and other sources.
+**724 jobs**, newest first. Updated Sun Nov 15, 11:15 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-218 repeat listings (same company and title in another place or on another source) are merged into one row.
+217 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 1,710 matching jobs that job sites and feeds listed this week, 324 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (92)](#tuesday-nov-10-92) · [Mon 9 (84)](#monday-nov-9-84) · [Sun 8 (5)](#sunday-nov-8-5)
+Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (119)](#wednesday-nov-11-119) · [Tue 10 (92)](#tuesday-nov-10-92) · [Mon 9 (85)](#monday-nov-9-85)
 
 ## Sunday, Nov 15 (20)
 
@@ -679,7 +679,7 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 5:00 AM | [Associate Solution Consultant](https://jobs.ashbyhq.com/socure/f2330d9e-1c1d-493e-adb7-e7602efc789f) | Socure | Hub - New York; Hub - San Francisco; Hu… (hybrid) | 68 | entry-level title |
 | 12:00 AM | [Cyber Security Associate (Contract)](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9185) | Hightower | Chicago, IL, US | 63 | entry-level title |
 
-## Monday, Nov 9 (84)
+## Monday, Nov 9 (85)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -704,6 +704,7 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 2:58 PM | [Engineer- Rotational Program](https://jobs.smartrecruiters.com/Wabtec/3743990016742186-engineer-rotational-program) | Wabtec | Cedar Rapids, IA, United States (hybrid) | 63 | entry-level title; no future H-1B sponsorship |
 | 2:28 PM | [IT Job Developer and Career Coach](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=25205963-f9a7-487c-b826-8217781fd8d5&ccId=19000101_000001&jobId=9201967603707_1&lang=en_US) | 25205963 F9A7 487C B826 82177… | Boston, MA | 73 | 1+ yrs exp; entry level (from the text) |
 | 2:25 PM | [Software Engineer I (Backend, Growth)](https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622) | Whoop | Boston, MA (onsite) | 73 | entry-level title; E-Verify |
+| 2:02 PM | [Support Services Associate, Per Diem, Morristown, NJ](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33801) | Erqh Fa Us2 Oraclecloud Com | NJ, United States (onsite) | 68 | entry-level title |
 | 1:50 PM | [Network Infrastructure Engineer](https://jobs.workable.com/view/dQjCixxCNDxRAzJrW5n5d5/network-infrastructure-engineer-in-riverside-at-partner-one-software-inc) | Partner One Software Inc | Riverside, California (onsite) | 68 | entry level (from the text) |
 | 1:04 PM | [Automation & Controls Engineer, Data Center Facilities](https://job-boards.greenhouse.io/xai/jobs/5289470007) | xAI | Southaven, MS; Memphis, TN | 73 | 1+ yrs exp; entry level (from the text) |
 | 12:57 PM | [IT Business Systems Analyst (2027 EDGE Program)](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214456) | DTCC | Jersey City, NJ, United States; Dallas,… | 58 | entry level (from the text); no future H-1B sponsorship |
@@ -768,17 +769,7 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 4:25 AM | [Support Engineer, PAYGO](https://jobs.lever.co/jobgether/6ba9dce0-97e9-470f-a59b-06b6c673fcf2) | Jobgether | US (remote) | 60 | entry level (from the text) |
 | 12:00 AM | [Mergers and Acquisitions Integration Associate](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9183) | Hightower | Chicago, IL, US | 63 | entry-level title |
 
-## Sunday, Nov 8 (5)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 11:00 PM | [Support Services Associate](https://careers-cooperhealth.icims.com/jobs/87067/support-services-associate/job) | Cooper University Health Care | Camden, NJ, United States | 68 | entry-level title; likely H-1B cap-exempt (verify) |
-| 11:00 PM | [Software Engineer I](https://careers-mercuryinsurance.icims.com/jobs/6943/software-engineer-i/job) | Mercury Insurance | Remote, United States | 63 | entry-level title |
-| 11:00 PM | [Software Engineer - Digitech - Remote](https://jobs.dayforcehcm.com/en-US/sarnova/CANDIDATEPORTAL/jobs/1909) | Sarnova | US (remote) | 60 | 1+ yrs exp |
-| 11:00 PM | [Data Center Facility Technician - DFW](https://jobs.dayforcehcm.com/en-US/edc/candidateportaledc/jobs/965) | Edc | Irving, TX, US | 63 | 1+ yrs exp |
-| 10:47 PM | [Data Operations Specialist (Contractor)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4d6d36b1-bedf-4c57-88e7-3817e50bbf21&ccId=19000101_000001&jobId=9202611212108_8&lang=en_US) | 4D6D36B1 Bedf 4C57 88E7 3817E… | Waltham, MA; NY; Chicago, IL | 63 | entry level (from the text) |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2995)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2996)
 
 <details><summary>Show</summary>
 
@@ -786,6 +777,7 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 |---|---|---|---|---:|---|
 | date only | [Engineer, Global Quality Package Design and Development Quality Assur…](https://micron.eightfold.ai/careers/job/45517929) | Micron | SG (onsite) | 60 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | date only | [Software Engineer, Storage](https://nvidia.eightfold.ai/careers/job/893398741679) | Nvidia | Ra'anana, Center District, IL (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 10:27 PM | [Support Engineer](https://ats.rippling.com/button/jobs/6a12b0a7-ce58-4d40-86a9-4acb5574177f) | Button | New York, NY (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:50 PM | [Solutions Engineer](https://jobs.ashbyhq.com/PointOne/ead81d8b-5d51-4d1e-bfe5-63165ad2870d) | PointOne | New York City (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 7:22 PM | [Data Platform Engineer](https://jobs.smartrecruiters.com/Dominos/744000161708269-data-platform-engineer) | Domino's | Ann Arbor, MI, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:12 PM (seen) | [GIS Data Analyst 3445](https://geniusroad.catsone.com/careers/41437-General/jobs/16873657-GIS-Data-Analyst-3445/) | Geniusroad |  | 45 | rules: 4+ yrs exp; asks for 4+ years of experience |
@@ -1183,6 +1175,5 @@ Jump to: [Sun 15 (20)](#sunday-nov-15-20) · [Sat 14 (143)](#saturday-nov-14-143
 | 12:09 PM | [MDA Test Analyst](https://mobius-llc.com/careers?gh_jid=5294502007) | Mobius | Huntsville, AL | 45 | rules: 5+ yrs exp; needs: Active Secret |
 | 12:09 PM | [Network Field Support Engineer-Contract Position (3 Months)](https://jobs.smartrecruiters.com/Sutherland/744000161550548-network-field-support-engineer-contract-position-3-months-) | Sutherland | Clifton, NJ, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 12:03 PM | [ICS Network/Security Engineer](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45413) | NOV | Houston, TX, United States (hybrid) | 50 | rules: 5+ yrs exp; needs: security clearance |
-| 12:03 PM | [Salesforce Platform Engineer](https://jobs.smartrecruiters.com/AbbVie/3743990016848096-salesforce-platform-engineer) | AbbVie | Mettawa, IL, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
