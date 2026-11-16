@@ -11705,7 +11705,10 @@
   "greenhouse:twinstream:5016466101": "2026-11-12",
   "greenhouse:twinstream:5018760101": "2026-11-12",
   "greenhouse:vast:4726228006": "2026-11-12",
-  "greenhouse:yipitdata:8329263": "2026-11-12"
+  "greenhouse:yipitdata:8329263": "2026-11-12",
+  "lever:jobgether:0c283a8d-6190-4326-acea-e12a22f0bc12": "2026-11-16",
+  "lever:jobgether:6ee78390-07bc-4e75-a921-511307f32e34": "2026-11-16",
+  "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-16"
  },
  "fails": {
   "ashby:Airweave": {
@@ -12034,17 +12037,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 157,
+   "n": 158,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 157,
+   "n": 158,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 157,
+   "n": 158,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14901,7 +14904,7 @@
   ],
   "2026-11-16": [
    122,
-   282
+   283
   ]
  },
  "resolved": {
@@ -66502,6 +66505,8 @@
   "catsone:unisityllc:16862496": "2026-11-14",
   "catsone:unisityllc:16868832": "2026-11-14",
   "catsone:unisityllc:16874089": "2026-11-16",
+  "catsone:unisityllc:16874148": "2026-11-16",
+  "catsone:unisityllc:16874149": "2026-11-16",
   "catsone:vertucom:16702140": "2026-11-14",
   "catsone:vertucom:16717689": "2026-11-14",
   "catsone:vertucom:16717693": "2026-11-14",
@@ -66794,6 +66799,7 @@
   "greenhouse:celonis:8173282003": "2026-11-12",
   "greenhouse:celonis:8173340003": "2026-11-12",
   "greenhouse:celonis:8190831003": "2026-11-10",
+  "greenhouse:censys:8932085002": "2026-11-16",
   "greenhouse:chaosindustries:5254839007": "2026-11-12",
   "greenhouse:chaosindustries:5280067007": "2026-11-07",
   "greenhouse:chaosindustries:5289545007": "2026-11-12",
@@ -66910,6 +66916,7 @@
   "greenhouse:machindustries:4488058009": "2026-11-10",
   "greenhouse:mongodb:8352433": "2026-11-12",
   "greenhouse:monsterenergy:4485188009": "2026-11-11",
+  "greenhouse:monsterenergy:4485445009": "2026-11-16",
   "greenhouse:mthreerecruitingportal:4725832006": "2026-11-07",
   "greenhouse:muonspace:5283511007": "2026-11-12",
   "greenhouse:myfitnesspal:8359189": "2026-11-12",
@@ -68169,6 +68176,7 @@
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2031595EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.quest-global.com|global/en:QGRQGAGLOBALP124062EXTERNALENGLOBAL": "2026-11-09",
   "phenom:careers.quest-global.com|global/en:QGRQGAGLOBALP124524EXTERNALENGLOBAL": "2026-11-10",
+  "phenom:careers.united.com|us/en:UAIUADUSDTW00000074EXTERNALENUSTALEO": "2026-11-16",
   "phenom:careers.zimmerbiomet.com|us/en:ZBUZBRUS11058EXTERNALENUS": "2026-11-12",
   "pinpoint:astonmartinf1:566222": "2026-11-15",
   "pinpoint:bluemantis:536384": "2026-11-14",
@@ -69795,7 +69803,7 @@
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-16T14:37:13+00:00",
+  "hn": "2026-11-16T20:37:19+00:00",
   "remoteok": "2026-11-16T18:51:06+00:00",
   "usajobs": "2026-11-16T18:51:06+00:00",
   "workable_search": "2026-11-16T18:51:06+00:00",
