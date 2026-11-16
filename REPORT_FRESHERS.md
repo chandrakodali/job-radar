@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**728 jobs**, newest first. Updated Sun Nov 15, 5:12 PM CST from 12,526 company job boards and other sources.
+**728 jobs**, newest first. Updated Sun Nov 15, 6:17 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -778,7 +778,7 @@ Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143
 | 10:47 PM | [Data Operations Specialist (Contractor)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4d6d36b1-bedf-4c57-88e7-3817e50bbf21&ccId=19000101_000001&jobId=9202611212108_8&lang=en_US) | 4D6D36B1 Bedf 4C57 88E7 3817E… | Waltham, MA; NY; Chicago, IL | 63 | entry level (from the text) |
 | 8:00 PM | [Patient Support Associate](https://jobs.workable.com/view/1QiEY1djgFwruuycQq9WDi/remote-patient-support-associate-in-united-states-at-theranica-usa%2C-inc.) | Theranica USA, Inc. | Remote, US (remote) | 60 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2984)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2991)
 
 <details><summary>Show</summary>
 
@@ -836,6 +836,10 @@ Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143
 | date only | [Digital Solutions and Platform Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2022135EXTERNALENGLOBAL) | Cisco | Maynard, Massachusetts, United States o… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Software Development Engineer, Agentic AI, Velocity Labs](https://www.amazon.jobs/en/jobs/10604856/software-development-engineer-agentic-ai-velocity-labs) | Amazon Development Center U.S… | New York, New York, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Mid-Level Software Engineer – UI/API Application Development](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Mid-Level-Software-Engineer---UI-API-Application-Development_R0121105) | USAA | San Antonio Home Office I | 55 | rules: 4+ yrs exp; no future H-1B sponsorship; asks for 4+ years of e… |
+| date only | [Cloud Engineer, Azure](https://apply.deloitte.com/en_US/careers/JobDetail/Cloud-Engineer-Azure/368427) | Deloitte US |  | 48 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
+| date only | [Global IAM - IGA Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Global-IAM-IGA-Engineer/368450) | Deloitte US |  | 68 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| date only | [Cloud Security Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Cloud-Security-Engineer/369679) | Deloitte US |  | 28 | rules: 5+ yrs exp; location unclear; no future H-1B sponsorship; asks… |
+| date only | [AWS DevOps Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/AWS-DevOps-Engineer/373105) | Deloitte US |  | 33 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
 | 9:03 AM | [Physical AI Data Collection Associate](https://jobs.ashbyhq.com/Clera/19f1c181-17c0-45ce-981b-cf62240b95d9) | Clera | remote | 50 | rules: entry-level title; 5+ yrs exp; location unclear; asks for 5+ y… |
 | 7:19 AM (seen) | [HPC & MLOps Engineer](https://app.dover.com/apply/c-gen-ai/2ddc9bab-82c0-4554-bc2e-7b023e3bc5d9) | C Gen Ai | United States; United Kingdom; Turkey; … (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 6:49 AM | [IT Support Specialist](https://jobs.workable.com/view/7iddeEL1x5FBHxsHzDPBvd/it-support-specialist-in-petersburg-at-tomorrow-hire) | TOMORROW HIRE | Petersburg, Virginia (onsite) | 75 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
@@ -1180,9 +1184,5 @@ Jump to: [Sun 15 (19)](#sunday-nov-15-19) · [Sat 14 (143)](#saturday-nov-14-143
 | 11:51 AM | [Security Engineer (6389)](https://job-boards.greenhouse.io/itd/jobs/4506875009) | Itd | San Jose, CA | 40 | rules: 7+ yrs exp; no future H-1B sponsorship; asks for 7+ years of e… |
 | 11:49 AM | [Statistical Reporting Analyst (P&C Insurance)](https://job-boards.greenhouse.io/suttonnationalinsurance/jobs/4506824009) | Suttonnationalinsurance | United States - Remote (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 11:46 AM | [Software Engineer, Profile & Community, Android](https://careers.airbnb.com/positions/8386083?gh_jid=8386083) | Airbnb | Remote, USA (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 11:40 AM | [Network Systems Engineer](https://careers.akima.com/jobs/27791?lang=en-us) | Akima | Lorton, Virginia | 60 | rules: 3+ yrs exp; needs: U.S. citizenship required |
-| 11:39 AM | [Software Engineer, Profile & Community, Web](https://careers.airbnb.com/positions/8386065?gh_jid=8386065) | Airbnb | Remote, USA (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 11:38 AM | [Software Engineer, Biomolecular Structure Software](https://jobs.ashbyhq.com/astera/d10d72c9-34ce-43dc-9e75-24a4b1941fcf) | Astera | Emeryville HQ (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 11:36 AM | [Security Systems / IT Security Specialist](https://careers.akima.com/jobs/27790?lang=en-us) | Akima | Lorton, Virginia | 45 | rules: 7+ yrs exp; needs: U.S. Citizenship required |
 
 </details>
