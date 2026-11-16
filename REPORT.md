@@ -1,19 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**695 jobs**, newest first. Updated Mon Nov 16, 2:37 AM CST from 12,526 company job boards and other sources.
+**696 jobs**, newest first. Updated Mon Nov 16, 3:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-209 repeat listings (same company and title in another place or on another source) are merged into one row.
+211 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 1,108 matching jobs that job sites and feeds listed this week, 364 (32%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (15)](#sunday-nov-15-15) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (96)](#thursday-nov-12-96) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57)
+Jump to: [Mon 16 (3)](#monday-nov-16-3) · [Sun 15 (15)](#sunday-nov-15-15) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57)
 
-## Monday, Nov 16 (1)
+## Monday, Nov 16 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Software Platform Engineer I](https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-I/21584) | MetLife |  | 70 | entry-level title; location unclear |
+| 2:53 AM | [Application Support Engineer](https://jobs.lever.co/jobgether/65a1156a-de46-49fd-8413-39a2b0b92b26) | Jobgether | US (remote) | 42 | 4+ yrs exp |
 | 2:12 AM (seen) | [Revenue Cloud Developer](https://aspire.zohorecruit.com/jobs/Careers/503306000044928194/Revenue-Cloud-Developer) | Aspire |  (remote) | 42 | location unclear |
 
 ## Sunday, Nov 15 (15)
@@ -438,7 +440,7 @@ Jump to: [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | 5:02 AM | [Langfuse - Senior Cloud Infra Engineer](https://jobs.ashbyhq.com/clickhouse/39e42a38-1cbf-40c7-b373-717b4cdddbac) | ClickHouse | New York (remote) | 52 | senior title, years not stated |
 | 1:07 AM | [Full-Stack Software Engineer (Infrastructure Focus)](https://jobs.lever.co/jobgether/c12ad43a-3c7b-4d0b-adde-d3509813970d) | Jobgether | US (remote) | 55 |  |
 
-## Thursday, Nov 12 (96)
+## Thursday, Nov 12 (95)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -491,7 +493,6 @@ Jump to: [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | 11:53 AM | [Customer Reliability Engineer - Pipeline](https://jobs.smartrecruiters.com/SmithsGroup2/744000161358249-customer-reliability-engineer-pipeline-) | Smiths Detection Group | Pasadena, TX, United States | 80 | 2+ yrs exp; sponsors visas; repost |
 | 11:49 AM | [Deployment Engineer, Merchant Solutions](https://jobs.workable.com/view/vC6q3zLKyLyWNqC53FuzSX/remote-deployment-engineer%2C-merchant-solutions-in-united-states-at-bask-health) | Bask Health | Remote, US (remote) | 42 | 3+ yrs exp |
 | 11:05 AM | [Network Administrator](https://jobs.smartrecruiters.com/AECOM2/744000161351219-network-administrator) | AECOM | Miami, FL, United States | 50 |  |
-| date only | [Software Platform Engineer I (AI Engineer)](https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-I-AI-Engineer/21476) | MetLife |  | 70 | entry-level title; location unclear |
 | date only | [24364 - DevOps Engineer](https://careers.quality-ai.com/job/Petach-_-Tikva-24364-DevOps-Engineer/61496744/) | Qualitest |  | 55 | 3+ yrs exp; location unclear |
 | date only | [AI Infrastructure Technical Systems Engineer Hybrid](https://careers.cisco.com/global/en/job/CISCISGLOBAL2026031EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 55 | 3+ yrs exp |
 | date only | [Mobile Platform Engineer](https://apply.workable.com/raydar/j/DA7CCE0A05/) | Raydar | San Francisco, California, United States | 65 |  |

@@ -11937,17 +11937,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 137,
+   "n": 138,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 137,
+   "n": 138,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 137,
+   "n": 138,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -65838,6 +65838,8 @@
   "avature:metlife.avature.net|en_US/ml:21474": "2026-11-14",
   "avature:metlife.avature.net|en_US/ml:21476": "2026-11-12",
   "avature:metlife.avature.net|en_US/ml:21525": "2026-11-09",
+  "avature:metlife.avature.net|en_US/ml:21584": "2026-11-16",
+  "avature:metlife.avature.net|en_US/ml:21585": "2026-11-16",
   "avature:metlife.avature.net|en_US/ml:21586": "2026-11-12",
   "avature:metlife.avature.net|en_US/ml:21587": "2026-11-12",
   "avature:mgl.avature.net|internalcareers:22542": "2026-11-15",
@@ -67730,6 +67732,7 @@
   "lever:jobgether:4d0e9365-5e2d-4992-889a-3a073f97e4e3": "2026-11-14",
   "lever:jobgether:595fc8e8-bafd-4cb9-8bc0-6b19bf6ca8da": "2026-11-14",
   "lever:jobgether:5cedc112-aefe-4167-8649-8347b8c7b0a9": "2026-11-16",
+  "lever:jobgether:65a1156a-de46-49fd-8413-39a2b0b92b26": "2026-11-16",
   "lever:jobgether:6ee78390-07bc-4e75-a921-511307f32e34": "2026-11-14",
   "lever:jobgether:71971f7a-ecef-4a58-972c-0cefed41b9c1": "2026-11-16",
   "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-14",
