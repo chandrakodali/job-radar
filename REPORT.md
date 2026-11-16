@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**698 jobs**, newest first. Updated Sun Nov 15, 10:37 PM CST from 12,526 company job boards and other sources.
+**694 jobs**, newest first. Updated Sun Nov 15, 11:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 1,023 matching jobs that job sites and feeds listed this week, 324 (31%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (98)](#thursday-nov-12-98) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57) · [Sun 8 (4)](#sunday-nov-8-4)
+Jump to: [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (98)](#thursday-nov-12-98) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57)
 
 ## Sunday, Nov 15 (13)
 
@@ -739,16 +739,7 @@ Jump to: [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (325)](#saturday-nov-14-325
 | 4:33 AM | [Infrastructure Engineer, Enterprise AI](https://jobs.lever.co/jobgether/6ee78390-07bc-4e75-a921-511307f32e34) | Jobgether | US (remote) | 50 |  |
 | 4:14 AM | [Systems Administrator II](https://jobs.lever.co/jobgether/727fde91-6dfd-49df-a6ea-3169fa9987a8) | Jobgether | US (remote) | 25 | 4+ yrs exp |
 
-## Sunday, Nov 8 (4)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 11:00 PM | [Systems Administrator](https://careers-dartmouth-hitchcock.icims.com/jobs/43229/systems-administrator/job) | Dartmouth Health | Bennington, VT, United States | 45 | 3+ yrs exp |
-| 11:00 PM | [Cloud Infrastructure Engineer](https://jobs.dayforcehcm.com/en-US/ipg/ipg/jobs/7234) | Ipg | Washington, DC, US; Jacksonville, FL, U… | 48 | 4+ yrs exp |
-| 11:00 PM | [System and Network Administrator](https://jobs.dayforcehcm.com/en-US/authority/CANDIDATEPORTAL/jobs/7530) | Authority | Atlanta, GA, US | 33 | 3+ yrs exp |
-| 11:00 PM | [Network & Infrastructure Security Engineer](https://jobs.dayforcehcm.com/en-US/gleason/CANDIDATEPORTAL/jobs/5881) | Gleason | Rochester, NY, US; Rochester, NY, US | 48 | 3+ yrs exp |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (662)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (661)
 
 <details><summary>Show</summary>
 

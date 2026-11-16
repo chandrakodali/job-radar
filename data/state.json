@@ -11610,21 +11610,6 @@
   "greenhouse:yipitdata:8329263": "2026-11-12"
  },
  "fails": {
-  "adp:0894d882-3d5f-4cce-b9f2-fa6a17b60eb5|9200336350680_2": {
-   "err": "HTTP 404",
-   "n": 1,
-   "since": "2026-11-16"
-  },
-  "adp:0fc9cdbf-b348-4cad-838d-718989080522|19000101_000001": {
-   "err": "HTTP 404",
-   "n": 1,
-   "since": "2026-11-16"
-  },
-  "adp:1c0d1118-4890-4af1-9d16-f76d2a21915e|19000101_000001": {
-   "err": "HTTP 404",
-   "n": 1,
-   "since": "2026-11-16"
-  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-18",
    "err": "HTTP 404",
@@ -11951,17 +11936,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 129,
+   "n": 130,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 129,
+   "n": 130,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 129,
+   "n": 130,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
