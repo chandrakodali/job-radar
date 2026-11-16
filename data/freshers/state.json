@@ -11682,17 +11682,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 64,
+   "n": 65,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 64,
+   "n": 65,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 64,
+   "n": 65,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -13451,8 +13451,8 @@
    779
   ],
   "2026-11-16": [
-   54,
-   302
+   72,
+   396
   ]
  },
  "resolved": {
@@ -64275,6 +64275,7 @@
   "amazon:us:10599088": "2026-11-14",
   "amazon:us:10599140": "2026-11-14",
   "amazon:us:10599154": "2026-11-14",
+  "amazon:us:10599162": "2026-11-16",
   "amazon:us:10599200": "2026-11-14",
   "amazon:us:10599226": "2026-11-14",
   "amazon:us:10599227": "2026-11-14",
@@ -65356,7 +65357,9 @@
   "avature:mgl.avature.net|internalcareers:24857": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24892": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24894": "2026-11-15",
+  "avature:mgl.avature.net|internalcareers:24935": "2026-11-16",
   "avature:mgl.avature.net|internalcareers:24975": "2026-11-15",
+  "avature:mgl.avature.net|internalcareers:24981": "2026-11-16",
   "avature:mgl.avature.net|internalcareers:25069": "2026-11-15",
   "avature:mt.avature.net|en_US/careers:23598": "2026-11-13",
   "avature:qatarairways.avature.net|internalmobility:28545": "2026-11-14",
@@ -65388,6 +65391,7 @@
   "avature:tesco.avature.net|en_GB/careers:218972": "2026-11-13",
   "avature:tesco.avature.net|en_GB/careers:219845": "2026-11-16",
   "avature:tescoinsuranceandmoneyservices.avature.net|careers:2999": "2026-11-14",
+  "avature:tmf.avature.net|careersmarketplace:34159": "2026-11-16",
   "avature:tmf.avature.net|careersmarketplace:34863": "2026-11-14",
   "avature:tmf.avature.net|careersmarketplace:35948": "2026-11-14",
   "avature:tmf.avature.net|careersmarketplace:36125": "2026-11-14",
@@ -67649,6 +67653,7 @@
   "eightfold:micron:44144084": "2026-11-15",
   "eightfold:micron:44509981": "2026-11-15",
   "eightfold:micron:44509996": "2026-11-15",
+  "eightfold:micron:45449821": "2026-11-16",
   "eightfold:micron:45500268": "2026-11-14",
   "eightfold:micron:45500814": "2026-11-14",
   "eightfold:micron:45517929": "2026-11-16",
@@ -69406,6 +69411,7 @@
   "icims:careers-betterhealthgroup.icims.com:3313": "2026-11-14",
   "icims:careers-beyondsoft.icims.com:10863": "2026-11-13",
   "icims:careers-beyondsoft.icims.com:10940": "2026-11-13",
+  "icims:careers-beyondsoft.icims.com:10950": "2026-11-16",
   "icims:careers-beyondsoft.icims.com:10952": "2026-11-13",
   "icims:careers-beyondsoft.icims.com:10983": "2026-11-13",
   "icims:careers-beyondsoft.icims.com:10994": "2026-11-13",
@@ -72439,6 +72445,7 @@
   "lever:jobgether:25f8ac01-c5a3-495d-b94c-848bcb7f2197": "2026-11-14",
   "lever:jobgether:26da764c-acd0-4260-ad0a-5f5d10f6424a": "2026-11-14",
   "lever:jobgether:293f6992-4f40-47d1-878e-def8a620d7ab": "2026-11-14",
+  "lever:jobgether:2b7241b1-6f6a-451b-8aca-ca78a004479e": "2026-11-16",
   "lever:jobgether:2bfe0dce-e00c-4d4e-a14a-aa627105f8c3": "2026-11-14",
   "lever:jobgether:2c5ef3d3-0dda-423b-83f5-116ddcd57439": "2026-11-14",
   "lever:jobgether:346defdb-af29-4bf4-a1e2-c79bff6d3456": "2026-11-14",
@@ -72511,6 +72518,7 @@
   "lever:jobgether:d6293ec5-4e13-4ff0-8f58-6d2b5432d3bb": "2026-11-14",
   "lever:jobgether:d85e5901-67b6-4807-aa43-4b76e86064b2": "2026-11-14",
   "lever:jobgether:da2366e5-c960-421a-9172-4bebe1c8fcec": "2026-11-14",
+  "lever:jobgether:dac12f33-a21f-414a-940c-581febb53b93": "2026-11-16",
   "lever:jobgether:dd0c5f4a-edac-4da0-946c-1b74be1aa7db": "2026-11-14",
   "lever:jobgether:e061361d-7947-4476-ace6-b0e65b097d13": "2026-11-14",
   "lever:jobgether:e780bc34-5595-46df-b095-3a73cc4a905e": "2026-11-14",
@@ -72617,6 +72625,9 @@
   "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825545": "2026-11-15",
   "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825641": "2026-11-15",
   "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825672": "2026-11-15",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825771": "2026-11-16",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825784": "2026-11-16",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825791": "2026-11-16",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX:213560": "2026-11-15",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX:214456": "2026-11-15",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX:214463": "2026-11-15",
@@ -79333,6 +79344,7 @@
   "zoho:agileengine:248544000264801465": "2026-11-14",
   "zoho:agileengine:248544000264801473": "2026-11-14",
   "zoho:agileengine:248544000264804303": "2026-11-15",
+  "zoho:agileengine:248544000264804309": "2026-11-16",
   "zoho:agileengine:248544000264804321": "2026-11-14",
   "zoho:agileengine:248544000264806171": "2026-11-14",
   "zoho:agileengine:248544000264808379": "2026-11-14",
@@ -79444,8 +79456,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-16T07:15:06+00:00",
-  "yc": "2026-11-16T07:15:06+00:00"
+  "workable_search": "2026-11-16T10:38:53+00:00",
+  "yc": "2026-11-16T10:38:53+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
