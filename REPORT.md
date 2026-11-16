@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**682 jobs**, newest first. Updated Mon Nov 16, 5:07 PM CST from 12,526 company job boards and other sources.
+**684 jobs**, newest first. Updated Mon Nov 16, 5:37 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,15 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 1,305 matching jobs that job sites and feeds listed this week, 444 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (6)](#monday-nov-9-6)
+Jump to: [Mon 16 (50)](#monday-nov-16-50) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (5)](#monday-nov-9-5)
 
-## Monday, Nov 16 (47)
+## Monday, Nov 16 (50)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:19 PM | [Optical Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695000/optical-network-engineer-infrastructure-services) | Apple | United States of America | 65 |  |
+| 5:18 PM | [Senior Engineer, Dev Ops - WWE 2K](https://job-boards.greenhouse.io/2k/jobs/8206136003) | 2K | California, United States | 60 | 3+ yrs exp; senior title |
+| 5:18 PM | [Senior Engineer, Dev Ops - WWE 2K](https://job-boards.greenhouse.io/visualconcepts/jobs/8205804003) | Visualconcepts | California, United States | 60 | 3+ yrs exp; senior title |
 | 4:52 PM | [Retail Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695197/retail-network-engineer-infrastructure-services) | Apple | United States of America | 65 | repost |
 | 4:32 PM | [Site Reliability Engineer II-Production Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804732) | JP Morgan Chase | Chicago, IL, United States | 70 | 2+ yrs exp |
 | 4:28 PM | [Senior Agentic AI Engineer II - Global Infrastructure](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013784) | American Express | New York, NY, United States; Sunrise, F… (hybrid) | 55 | senior title, years not stated |
@@ -721,7 +724,7 @@ Jump to: [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) ·
 | 2:00 AM | [Sr. Cloud Software Engineer](https://jobs.supermicro.com/job/San-Jose-Sr_-Cloud-Software-Engineer-Cali/1439207800/) | Super Micro Computer | San Jose, California, United States | 48 | senior title, years not stated |
 | 2:00 AM | [Sr Platform Engineer](https://careers.thehersheycompany.com/job/Dallas-Sr-Platform-Engineer-TX-75201/1438643100/) | Hershey | Dallas, TX, US | 53 | 3+ yrs exp; senior title |
 
-## Monday, Nov 9 (6)
+## Monday, Nov 9 (5)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -730,7 +733,6 @@ Jump to: [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) ·
 | 9:31 PM | [Integration Build Engineer](https://boards.greenhouse.io/vast/jobs/4728490006?gh_jid=4728490006) | VAST | Long Beach, California, United States | 45 | 4+ yrs exp; repost |
 | 8:24 PM | [IT Infrastructure Managers: Interview on Desktop Provisioning Strateg…](https://jobs.ashbyhq.com/terac/905ccd00-8971-4b83-aad4-957e6526199c) | Terac | United States (remote) | 47 |  |
 | 5:45 PM | [IT Systems Engineer](https://job-boards.greenhouse.io/lightningai/jobs/8199518003) | Lightningai | San Francisco, California, United States | 60 | 2+ yrs exp |
-| 5:27 PM | [Senior Infrastructure Engineer](https://job-boards.greenhouse.io/verramobility/jobs/4725361006) | Verramobility | UK_Southampton_Office | 43 | senior title, years not stated; location unclear |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (713)
 
