@@ -1,10 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**694 jobs**, newest first. Updated Mon Nov 16, 8:37 AM CST from 12,526 company job boards and other sources.
+**694 jobs**, newest first. Updated Mon Nov 16, 9:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-223 repeat listings (same company and title in another place or on another source) are merged into one row.
+222 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 1,196 matching jobs that job sites and feeds listed this week, 404 (33%) were already found on the employers' own boards; the rest are listed from those sources.
 
@@ -744,17 +744,20 @@ Jump to: [Mon 16 (7)](#monday-nov-16-7) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | 10:42 AM | [Software Engineer, Web Infrastructure](https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042) | Notion | San Francisco, California; New York, Ne… (hybrid) | 70 |  |
 | 9:17 AM | [Systems Reliability Engineer - All Levels](https://jobs.ashbyhq.com/allen-control-systems/3075ceee-6a85-4170-9ffc-3e2f11697db7) | Allen Control Systems | Austin, TX | 65 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (671)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (673)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 1:38 PM | [Senior Platform Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1dbdd623-584f-49ff-9c37-77cd8670f636&ccId=19000101_000001&jobId=9200604026737_6&lang=en_US) | 1Dbdd623 584F 49Ff 9C37 77Cd8… | Glen Burnie, MD | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
+| date only | [Systems Administrator](https://ngc.eightfold.ai/careers/job/1340075351241) | Ngc | Colorado Springs, CO, US (onsite) | 65 | rules: 2+ yrs exp; needs: CLEARANCE REQUIRED |
 | date only | [Senior DevOps Engineer](https://nvidia.eightfold.ai/careers/job/893398591334) | Nvidia | Yokne'am Illit, North District, IL (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Cloud Platform Engineer - AI Education Systems](https://nvidia.eightfold.ai/careers/job/893398750368) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Security Tech Operations Engineer II, Amazon Security Hardware](https://www.amazon.jobs/en/jobs/10605797/security-tech-operations-engineer-ii-amazon-security-hardware) | Amazon.com Services LLC | Hebron, Kentucky, USA | 40 | rules: 4+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
+| 9:07 AM (seen) | [Software Engineer, Infrastructure (C++)](https://app.dover.com/apply/fabri-usa/b87c78ba-9d17-47da-a822-259b1549798f) | Fabri Usa | Billerica, MA (onsite) | 45 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: ITAR |
 | 8:51 AM | [Database Platform Engineer](https://jobs.lever.co/jobgether/41c2eaaf-fd24-4d0f-9938-9b97d6cb238c) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 8:47 AM | [Senior DataOps Engineer](https://job-boards.greenhouse.io/scoutmotors/jobs/5292680007) | Scout Motors | United States (remote) | 42 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 7:14 AM | [IT Infrastructure Engineer](https://jobs.lever.co/jobgether/14040680-3949-47cf-b666-01b3ec6f2f3b) | Jobgether | US (remote) | 37 | rules: 7+ yrs exp; no future H-1B sponsorship; asks for 7+ years of e… |
 | 7:08 AM | [Infrastructure Engineer](https://jobs.smartrecruiters.com/CieloProjects/744000161803014-infrastructure-engineer) | Cieloprojects | New York, NY, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:07 AM (seen) | [Unix Engineer](https://app.dover.com/apply/covetus/fe1c7ccc-6016-40fb-a0b6-aebaa8b19504) | Covetus | United States (remote) | 12 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -907,7 +910,6 @@ Jump to: [Mon 16 (7)](#monday-nov-16-7) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | date only | [Reliability Engineer](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Richmond-Virginia-United-States/Reliability-Engineer_R-180293) | Mondelez International | Richmond, Virginia, United States | 53 | rules: 2+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | date only | [Sr. Front-End Engineer, Leo Network Observability, Visibility & Analy…](https://www.amazon.jobs/en/jobs/10603855/sr-front-end-engineer-leo-network-observability-visibility-analytics-team) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 38 | rules: 5+ yrs exp; senior title; needs: must be a U.S. citizen |
 | date only | [ADC Engineer I, Amazon Dedicated Cloud Engineering - Support Engineer…](https://www.amazon.jobs/en/jobs/10603038/adc-engineer-i-amazon-dedicated-cloud-engineering-support-engineering) | Amazon Web Services, Inc. | Arlington, Virginia, USA | 63 | rules: entry-level title; 3+ yrs exp; needs: Security Clearance |
-| date only | [Systems Administrator](https://ngc.eightfold.ai/careers/job/1340075297270) | Ngc | Colorado Springs, CO, US (onsite) | 58 | rules: 0-2 yrs exp; needs: CLEARANCE REQUIRED |
 | date only | [DevOps Engineer](https://ngc.eightfold.ai/careers/job/1340075310658) | Ngc | Wright-Patterson AFB, OH, US (onsite) | 63 | rules: needs: security clearance |
 | date only | [NG Only: Systems Administrator (26-486)](https://ngc.eightfold.ai/careers/job/1340075298595) | Ngc | Colorado Springs, CO, US (onsite) | 48 | rules: needs: security clearance |
 | date only | [Senior DevOps Engineer](https://pemcco.bamboohr.com/careers/293) | Pemcco | North Charleston, South Carolina | 38 | rules: 10+ yrs exp; senior title; needs: Security Clearance |
@@ -1148,8 +1150,6 @@ Jump to: [Mon 16 (7)](#monday-nov-16-7) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | date only | [Data Transmission Infrastructure Engineer](https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/Data-Transmission-Infrastructure-Engineer_R0120705) | Truist Bank | Raleigh, NC; Atlanta, GA; Charlotte, NC | 45 | asks for 5+ years of experience; 5+ yrs exp; E-Verify; no future H-1B… |
 | date only | [Software Engineer--TOW operations--DevOps](https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/Software-Engineer--TOW-operations--DevOps_R0121670) | Truist Bank | Raleigh, NC; Atlanta GA - 303 Peachtree… | 50 | asks for 5+ years of experience; 5+ yrs exp; E-Verify |
 | date only | [Network Engineer](https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Reno-NV/Network-Engineer_R56812) | Hyve Solutions | Reno, NV | 23 | asks for 8+ years of experience; 8+ yrs exp |
-| date only | [Systems Administrator](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Systems-Administrator_R107333-1) | Regions Bank | Hoover, AL - Riverchase Operations Cent… | 18 | asks for 10+ years of experience; 10+ yrs exp; no future H-1B sponsor… |
-| date only | [DevSecOps Engineer](https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/DevSecOps-Engineer_JR67736) | Oklahoma State Government | Oklahoma County | 38 | asks for 5+ years of experience; 5+ yrs exp |
 
 </details>
 
