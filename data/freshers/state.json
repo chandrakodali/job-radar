@@ -11680,17 +11680,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 61,
+   "n": 62,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 61,
+   "n": 62,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 61,
+   "n": 62,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12094,6 +12094,16 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-13"
+  },
+  "icims:careers-cotiviti.icims.com": {
+   "err": "HTTP 521",
+   "n": 1,
+   "since": "2026-11-16"
+  },
+  "icims:careers-eyesouthpartners.icims.com": {
+   "err": "HTTP 521",
+   "n": 1,
+   "since": "2026-11-16"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-20",
@@ -65267,6 +65277,7 @@
   "avature:deloitteus.avature.net|careers:374537": "2026-11-16",
   "avature:deloitteus.avature.net|careers:374557": "2026-11-16",
   "avature:deloitteus.avature.net|careers:374614": "2026-11-16",
+  "avature:deloitteus.avature.net|careers:374647": "2026-11-16",
   "avature:deloitteus.avature.net|careers:374663": "2026-11-16",
   "avature:deloitteus.avature.net|careers:374764": "2026-11-16",
   "avature:deloitteus.avature.net|careers:374908": "2026-11-16",
