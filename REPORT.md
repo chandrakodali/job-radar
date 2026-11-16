@@ -1,20 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**693 jobs**, newest first. Updated Mon Nov 16, 8:07 AM CST from 12,526 company job boards and other sources.
+**694 jobs**, newest first. Updated Mon Nov 16, 8:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 223 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,155 matching jobs that job sites and feeds listed this week, 384 (33%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,196 matching jobs that job sites and feeds listed this week, 404 (33%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (6)](#monday-nov-16-6) · [Sun 15 (15)](#sunday-nov-15-15) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (65)](#friday-nov-13-65) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (53)](#monday-nov-9-53)
+Jump to: [Mon 16 (7)](#monday-nov-16-7) · [Sun 15 (15)](#sunday-nov-15-15) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (65)](#friday-nov-13-65) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (53)](#monday-nov-9-53)
 
-## Monday, Nov 16 (6)
+## Monday, Nov 16 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Software Platform Engineer I](https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Platform-Engineer-I/21584) | MetLife |  | 70 | entry-level title; location unclear |
+| 9:33 AM | [Associate Cloud Engineer L1](https://jobs.lever.co/jobgether/f1b6a65b-f1e0-4ce8-9c26-92731bf054d6) | Jobgether | US (remote) | 82 | entry-level title; 0-2 yrs exp |
 | 8:37 AM | [Professional Services Technical Operations Engineer- Agentic AI](https://jobs.lever.co/jobgether/029f6e21-36a5-42c6-859d-ec5e7c435578) | Jobgether | US (remote) | 47 |  |
 | 7:16 AM | [Senior Software Engineer, Core Infrastructure](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342922) | Oracle | Nashville, TN, United States | 50 | senior title, years not stated; repost |
 | 7:16 AM | [Senior Software Engineer, Core Infrastructure](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/342922) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States | 50 | senior title, years not stated; repost |
@@ -743,12 +744,13 @@ Jump to: [Mon 16 (6)](#monday-nov-16-6) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | 10:42 AM | [Software Engineer, Web Infrastructure](https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042) | Notion | San Francisco, California; New York, Ne… (hybrid) | 70 |  |
 | 9:17 AM | [Systems Reliability Engineer - All Levels](https://jobs.ashbyhq.com/allen-control-systems/3075ceee-6a85-4170-9ffc-3e2f11697db7) | Allen Control Systems | Austin, TX | 65 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (670)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (671)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 1:38 PM | [Senior Platform Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1dbdd623-584f-49ff-9c37-77cd8670f636&ccId=19000101_000001&jobId=9200604026737_6&lang=en_US) | 1Dbdd623 584F 49Ff 9C37 77Cd8… | Glen Burnie, MD | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | date only | [Senior DevOps Engineer](https://nvidia.eightfold.ai/careers/job/893398591334) | Nvidia | Yokne'am Illit, North District, IL (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Cloud Platform Engineer - AI Education Systems](https://nvidia.eightfold.ai/careers/job/893398750368) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Security Tech Operations Engineer II, Amazon Security Hardware](https://www.amazon.jobs/en/jobs/10605797/security-tech-operations-engineer-ii-amazon-security-hardware) | Amazon.com Services LLC | Hebron, Kentucky, USA | 40 | rules: 4+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
@@ -1148,7 +1150,6 @@ Jump to: [Mon 16 (6)](#monday-nov-16-6) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | date only | [Network Engineer](https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Reno-NV/Network-Engineer_R56812) | Hyve Solutions | Reno, NV | 23 | asks for 8+ years of experience; 8+ yrs exp |
 | date only | [Systems Administrator](https://regions.wd5.myworkdayjobs.com/Regions_Careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Systems-Administrator_R107333-1) | Regions Bank | Hoover, AL - Riverchase Operations Cent… | 18 | asks for 10+ years of experience; 10+ yrs exp; no future H-1B sponsor… |
 | date only | [DevSecOps Engineer](https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/DevSecOps-Engineer_JR67736) | Oklahoma State Government | Oklahoma County | 38 | asks for 5+ years of experience; 5+ yrs exp |
-| date only | [Full-stack Engineer 5 (The Cloud Operations Resilience Engineering) (…](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-5--The-Cloud-Operations-Resilience-Engineering---MEG-_R1003663-1) | Capital One | McLean, VA; Richmond, VA; Chicago, IL; … | 33 | asks for 9+ years of experience; 9+ yrs exp |
 
 </details>
 

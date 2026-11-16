@@ -3593,6 +3593,7 @@
   "dover:blue-voice-inc": "2026-11-14",
   "dover:blueharlan": "2026-11-14",
   "dover:bontuteur": "2026-11-14",
+  "dover:brellium": "2026-11-16",
   "dover:brinc-drones": "2026-11-14",
   "dover:bubblesortrecruiting": "2026-11-14",
   "dover:bud-discovery": "2026-11-15",
@@ -3629,8 +3630,11 @@
   "dover:covetus": "2026-11-16",
   "dover:createbase": "2026-11-15",
   "dover:crewful": "2026-11-15",
+  "dover:cultivarium": "2026-11-16",
   "dover:culture-impact": "2026-11-15",
   "dover:daedaline": "2026-11-15",
+  "dover:dalus": "2026-11-16",
+  "dover:dalystrategigrecruiting": "2026-11-16",
   "dover:danellc": "2026-11-15",
   "dover:daydream-a787b547": "2026-11-15",
   "dover:deepreel": "2026-11-15",
@@ -11948,17 +11952,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 148,
+   "n": 149,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 148,
+   "n": 149,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 148,
+   "n": 149,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14804,8 +14808,8 @@
    376
   ],
   "2026-11-16": [
-   82,
-   186
+   102,
+   227
   ]
  },
  "resolved": {
@@ -65532,6 +65536,8 @@
  },
  "seen": {
   "adp:18bcd225-9065-4e78-8585-763a250b6ab5|19000101_000001:9201434705775_1": "2026-11-15",
+  "adp:1dbdd623-584f-49ff-9c37-77cd8670f636|19000101_000001:9200600988094_31": "2026-11-16",
+  "adp:1dbdd623-584f-49ff-9c37-77cd8670f636|19000101_000001:9200604026737_6": "2026-11-16",
   "adp:323dbab0-8c0b-47a9-9a08-10c8d68785a0|19000101_000001:9201245587060_237": "2026-11-15",
   "adp:35054926-66c8-40b9-ad6d-2b10240d7729:9201284599149_139": "2026-11-14",
   "adp:35054926-66c8-40b9-ad6d-2b10240d7729|19000101_000001:9201284599149_139": "2026-11-15",
@@ -67030,6 +67036,7 @@
   "icims:careers-decisionpointcorp.icims.com:4167": "2026-11-12",
   "icims:careers-decisionpointcorp.icims.com:4308": "2026-11-12",
   "icims:careers-decisionpointcorp.icims.com:4309": "2026-11-09",
+  "icims:careers-decisionpointcorp.icims.com:4831": "2026-11-16",
   "icims:careers-dewberry.icims.com:16686": "2026-11-13",
   "icims:careers-dminc.icims.com:28798": "2026-11-09",
   "icims:careers-dminc.icims.com:28799": "2026-11-09",
@@ -67395,10 +67402,12 @@
   "icims:careers-teksynap.icims.com:9748": "2026-11-12",
   "icims:careers-teksynap.icims.com:9749": "2026-11-12",
   "icims:careers-teksynap.icims.com:9754": "2026-11-09",
+  "icims:careers-teksynap.icims.com:9758": "2026-11-16",
   "icims:careers-teksynap.icims.com:9765": "2026-11-09",
   "icims:careers-teksynap.icims.com:9768": "2026-11-12",
   "icims:careers-teksynap.icims.com:9820": "2026-11-16",
   "icims:careers-teksynap.icims.com:9826": "2026-11-16",
+  "icims:careers-teksynap.icims.com:9831": "2026-11-16",
   "icims:careers-teksynap.icims.com:9832": "2026-11-16",
   "icims:careers-teksynap.icims.com:9833": "2026-11-16",
   "icims:careers-tierpoint.icims.com:3074": "2026-11-09",
@@ -67782,6 +67791,7 @@
   "lever:jobgether:d14583f1-1c76-45b0-9970-c52c5b253cb7": "2026-11-14",
   "lever:jobgether:d5f22995-7c0b-4592-b479-d284090b36b7": "2026-11-14",
   "lever:jobgether:dfcf2cf4-e337-419a-8d67-0128bd84d2a1": "2026-11-14",
+  "lever:jobgether:f1b6a65b-f1e0-4ce8-9c26-92731bf054d6": "2026-11-16",
   "lever:jobgether:f58ed2e6-6512-499e-9375-0fd1ee26a27b": "2026-11-14",
   "lever:jobgether:f9328e2b-6ac0-4031-a139-ee42142f59b1": "2026-11-14",
   "lever:kgroupcompanies:4901c9c4-730d-493e-b5d1-a80f95837249": "2026-11-07",
@@ -69617,12 +69627,12 @@
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-16T08:37:32+00:00",
-  "remoteok": "2026-11-16T12:37:15+00:00",
-  "usajobs": "2026-11-16T11:37:16+00:00",
-  "workable_search": "2026-11-16T11:37:16+00:00",
-  "wwr": "2026-11-16T13:37:17+00:00",
-  "yc": "2026-11-16T11:37:16+00:00"
+  "hn": "2026-11-16T14:37:13+00:00",
+  "remoteok": "2026-11-16T14:37:13+00:00",
+  "usajobs": "2026-11-16T14:37:13+00:00",
+  "workable_search": "2026-11-16T14:37:13+00:00",
+  "wwr": "2026-11-16T14:37:13+00:00",
+  "yc": "2026-11-16T14:37:13+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
