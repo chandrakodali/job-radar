@@ -1,6 +1,6 @@
 # Wide sweep summary
 
-Updated 2026-11-15.
+Updated 2026-11-16.
 
 Crawls swept: CC-MAIN-2026-39, CC-MAIN-2026-43.
 
@@ -8,41 +8,41 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 
 ## By tier
 
-- 1: 25663
-- 2: 106169
-- 3: 297341
-- 4: 93618
-- 5: 32058
-- 9: 100445
+- 1: 25198
+- 2: 106838
+- 3: 298945
+- 4: 93923
+- 5: 32186
+- 9: 98204
 
 ## By category
 
-- unknown: 100445
-- ats: 43540
-- blocked: 2752
-- careers_page_unclear: 276472
-- doc: 1317
-- email: 54315
-- external_board: 7151
-- form: 76200
+- unknown: 98204
+- ats: 43772
+- blocked: 2784
+- careers_page_unclear: 277969
+- doc: 1312
+- email: 54406
+- external_board: 7190
+- form: 76318
 - js_only: 460
-- no_careers_page: 42927
-- no_openings: 20869
-- robots_disallowed: 8255
-- unreachable: 20591
+- no_careers_page: 42961
+- no_openings: 20976
+- robots_disallowed: 8279
+- unreachable: 20663
 
 ## By us
 
-- unknown: 100445
-- non_us: 36492
-- unknown: 287625
-- us: 230732
+- unknown: 98204
+- non_us: 36714
+- unknown: 288730
+- us: 231646
 
 ## By via
 
-- unknown: 100445
-- archive: 43136
-- live: 511713
+- unknown: 98204
+- archive: 43058
+- live: 514032
 
 ## Tier 1 sites
 
@@ -106,7 +106,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - .::. PowerWeb IT (powerwebit.com)
 - .Guide (job.guide)
 - .JUWI.com (juwi.com)
-- .NOW (jobs.now)
 - /careers/IrisCX./ (iriscx.com)
 - 01 Synergy (01synergy.com)
 - 032 Ventures (032-ventures.com)
@@ -147,7 +146,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 1xBet (1xbetcasinoca.com)
 - 2 EFFE ENGINEERING (2effe.com)
 - 2 Sodas (2sodas.com)
-- 2 The Point (2thepointinc.com)
 - 2002 - Bonta/Burnam - Lakeland Hearing Care (lakelandhearingcare.com)
 - 2021 Eight Legged Media (eightleggedmedia.com)
 - 2022cc (cambodiacurtain.com)
@@ -194,7 +192,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 360 Wealth Management (360wealthmanagement.com)
 - 360digitmg.com (360digitmg.com)
 - 360PropertySourcing (360propertysourcing.com)
-- 360Signum (360signum.com)
 - 360Solved.com (360solved.com)
 - 361˚ Marketing (361degreesmarketing.com)
 - 39 AI (39-ai.com)
@@ -204,7 +201,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 3D Architectural Visualization (yantramstudio.com)
 - 3D PLUS (3d-plus.com)
 - 3D Productions (3d-productions.net)
-- 3D Rendering Services: #1 Architectural Visualization Compa… (render3dquick.com)
 - 3dEYE (3deye.ai)
 - 3Di Systems - 3Di Systems (3disystems.com)
 - 3DII Industrial Imaging (3dii.net)
@@ -216,7 +212,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 3in1-entertainment.com (3in1-entertainment.com)
 - 3Is (3is.co)
 - 3IS, Inc. (3iscorp.com)
-- 3KeyLogic (3keylogic.com)
 - 3LittleBirdsInteractive (3littlebirdsinteractive.com)
 - 3Lopez (3lopez.com)
 - 3n Strategy │ (3nstrategy.com)
@@ -224,11 +219,9 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 3P Technology (3ptechnology.com)
 - 3PL Systems (3plsystems.com)
 - 3rd Element Consulting (3rdelementconsulting.com)
-- 3RI Technologies Pvt Ltd (3ritechnologies.com)
 - 3SCube Engineering Consultants (3scube.com)
 - 3T Pro Inc. (3tpro.com)
 - 3T Worldwide-260826 (3tworldwide.com)
-- 3West (3west.group)
 - 3XCODE (3xcode.com)
 - 4 Bilingual STEM & AI Roles in Utah (clubability.org)
 - 4 Peaks Business Solution / (4peaksbs.com)
@@ -246,3 +239,10 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 4A (4adist.com)
 - 4Axis (4axis.com)
 - 4baseCare (4basecare.com)
+- 4bytesolutions.com - Empowering Business Byte - by- Byte (4bytesolutions.com)
+- 4castplus (4castplus.com)
+- 4cgroup.com (4cgroup.com)
+- 4Dsc (4dsc.us)
+- 4dviz Studio (4dviz.com)
+- 4Excelsior (4excelsior.com)
+- 4Geeks (4geeks.io)
