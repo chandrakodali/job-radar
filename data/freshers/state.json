@@ -3590,6 +3590,9 @@
   "dover:bontuteur": "2026-11-16",
   "dover:brellium": "2026-11-16",
   "dover:brinc-drones": "2026-11-15",
+  "dover:bubblesortrecruiting": "2026-11-16",
+  "dover:bud-discovery": "2026-11-16",
+  "dover:buildontimbercareers": "2026-11-16",
   "dover:c-gen-ai": "2026-11-15",
   "dover:capitol": "2026-11-15",
   "dover:careerflow": "2026-11-16",
@@ -11701,17 +11704,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 68,
+   "n": 69,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 68,
+   "n": 69,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 68,
+   "n": 69,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -13405,7 +13408,7 @@
   }
  },
  "found_cursor": 0,
- "last_digest": "2026-11-15",
+ "last_digest": "2026-11-16",
  "missed_companies": {
   "AG Consulting Partners, Inc.": "2026-11-16",
   "American Consumer Credit Counseling": "2026-11-14",
@@ -13440,6 +13443,7 @@
   "Per Diem": "2026-11-16",
   "Polymath Robotics": "2026-11-16",
   "Prime Robotics": "2026-11-16",
+  "REVER": "2026-11-16",
   "Rockford": "2026-11-16",
   "Sand Cherry Associates": "2026-11-16",
   "Senseye": "2026-11-16",
@@ -13470,8 +13474,8 @@
    779
   ],
   "2026-11-16": [
-   72,
-   396
+   90,
+   492
   ]
  },
  "resolved": {
@@ -64211,6 +64215,7 @@
   "adp:1c573b0d-dc63-4ebc-b0cf-5a2bf6b285fd|19000101_000001:9201928424491_1": "2026-11-15",
   "adp:1dbdd623-584f-49ff-9c37-77cd8670f636|19000101_000001:9200600934357_19": "2026-11-15",
   "adp:1dbdd623-584f-49ff-9c37-77cd8670f636|19000101_000001:9200600988094_31": "2026-11-15",
+  "adp:1dbdd623-584f-49ff-9c37-77cd8670f636|19000101_000001:9200604025978_5": "2026-11-16",
   "adp:1e214623-c126-4ee7-a61f-d40253fd1123|19000101_000001:679361125_104": "2026-11-15",
   "adp:233d3530-b7bb-4482-a9ef-1796b1762a92|19000101_000001:9201327060618_1": "2026-11-15",
   "adp:24e7d80d-26d8-4462-8cde-9f67f19162b6|2745295041_4470:9201872664075_1": "2026-11-14",
@@ -64566,6 +64571,7 @@
   "apple:usa:200694969": "2026-11-14",
   "apple:usa:200694977": "2026-11-14",
   "apple:usa:200694985": "2026-11-14",
+  "apple:usa:200695019": "2026-11-16",
   "apple:usa:200695036": "2026-11-14",
   "apple:usa:200695045": "2026-11-14",
   "apple:usa:200695049": "2026-11-14",
@@ -64999,6 +65005,7 @@
   "ashby:parabola-io:6c9c60de-d3c1-43cf-a02c-6833fe47b24b": "2026-11-14",
   "ashby:parabola-io:e866045f-98f4-41e3-b22c-349a7ebed609": "2026-11-14",
   "ashby:patreon:9ab71088-7bd6-4742-9232-4c0345db6081": "2026-11-13",
+  "ashby:patrianna:9d38f9d9-0913-403b-be0f-868e72e991b6": "2026-11-16",
   "ashby:people-culture-talent:555aac85-9640-4c91-af92-a16887f4c705": "2026-11-13",
   "ashby:percepta:1fc82cd3-03a4-4f24-8d2a-d4715c152862": "2026-11-14",
   "ashby:persona.ai:215079e9-cd30-4eb0-abce-01011a0eee29": "2026-11-13",
@@ -67482,6 +67489,7 @@
   "dayforce:kgs|candidateportal:16259": "2026-11-14",
   "dayforce:kgs|candidateportal:16305": "2026-11-14",
   "dayforce:kindeva|CANDIDATEPORTAL:16746": "2026-11-15",
+  "dayforce:lakesidebook|CANDIDATEPORTAL:23001": "2026-11-16",
   "dayforce:medmetrix|candidateportal:11621": "2026-11-14",
   "dayforce:medplast|CANDIDATEPORTAL:31720": "2026-11-15",
   "dayforce:medplast|CANDIDATEPORTAL:31724": "2026-11-15",
@@ -67560,6 +67568,9 @@
   "dover:blue-voice-inc:a3a5b56f-c4f2-46d0-9bd4-16f314623212": "2026-11-15",
   "dover:bontuteur:f6c811c3-ecfe-44e5-ab4f-49c36a238169": "2026-11-16",
   "dover:brellium:2473a9b4-0f04-4fc1-8205-98d8ededd9f9": "2026-11-16",
+  "dover:bubblesortrecruiting:6806f818-a9d0-47c8-bff5-b9fe4ea8f133": "2026-11-16",
+  "dover:bubblesortrecruiting:9097e584-145b-4a9e-93d1-9993a5db8d47": "2026-11-16",
+  "dover:bud-discovery:72341ba2-91df-441e-94f9-879380844260": "2026-11-16",
   "dover:c-gen-ai:2ddc9bab-82c0-4554-bc2e-7b023e3bc5d9": "2026-11-15",
   "dover:careerflow:0e18f699-7967-47ac-b9c5-6ebe41f23a85": "2026-11-16",
   "dover:careerflow:10d2f962-3b46-43a0-83b5-18400feded61": "2026-11-16",
@@ -67671,6 +67682,7 @@
   "eightfold:ford:563568454173162": "2026-11-14",
   "eightfold:ford:563568454174453": "2026-11-14",
   "eightfold:ford:563568454203832": "2026-11-14",
+  "eightfold:fortive:893398716191": "2026-11-16",
   "eightfold:globalfoundries:563980770505814": "2026-11-14",
   "eightfold:globalfoundries:563980770505953": "2026-11-14",
   "eightfold:globalfoundries:563980770835351": "2026-11-16",
@@ -68445,6 +68457,7 @@
   "greenhouse:c5miinsightllc:4479831009": "2026-11-13",
   "greenhouse:c5miinsightllc:4479842009": "2026-11-13",
   "greenhouse:calahealth:6251147004": "2026-11-13",
+  "greenhouse:canonical:8379825": "2026-11-16",
   "greenhouse:canopytax:4480530009": "2026-11-13",
   "greenhouse:canopytax:4506140009": "2026-11-13",
   "greenhouse:capco:8353951": "2026-11-13",
@@ -68804,6 +68817,7 @@
   "greenhouse:oura:4478021009": "2026-11-13",
   "greenhouse:overwatch:4434364009": "2026-11-13",
   "greenhouse:pallet:5282402007": "2026-11-13",
+  "greenhouse:pathrobotics:8944480002": "2026-11-16",
   "greenhouse:pearceservices:5478770008": "2026-11-15",
   "greenhouse:pendartechnologies:5475948008": "2026-11-13",
   "greenhouse:perryellisinternational:4724029006": "2026-11-13",
@@ -68859,6 +68873,7 @@
   "greenhouse:samsara:8360093": "2026-11-13",
   "greenhouse:samsara:8372624": "2026-11-13",
   "greenhouse:scopely:5476480008": "2026-11-13",
+  "greenhouse:scoutmotors:5292657007": "2026-11-16",
   "greenhouse:selffinancial:6252143004": "2026-11-13",
   "greenhouse:selffinancial:6255478004": "2026-11-13",
   "greenhouse:sharkninjaoperatingllc:4724153006": "2026-11-13",
@@ -68913,6 +68928,7 @@
   "greenhouse:tailscale:4750594005": "2026-11-13",
   "greenhouse:tailscale:4754084005": "2026-11-13",
   "greenhouse:tegnainc:5290253007": "2026-11-13",
+  "greenhouse:tegnainc:5292004007": "2026-11-16",
   "greenhouse:tekmetric:6255788004": "2026-11-13",
   "greenhouse:telixus:4727728006": "2026-11-14",
   "greenhouse:telnyx54:8189221003": "2026-11-13",
@@ -70978,6 +70994,7 @@
   "icims:careers-teksynap.icims.com:9770": "2026-11-13",
   "icims:careers-teksynap.icims.com:9819": "2026-11-13",
   "icims:careers-teksynap.icims.com:9820": "2026-11-16",
+  "icims:careers-teksynap.icims.com:9827": "2026-11-16",
   "icims:careers-thesilverlining.icims.com:3818": "2026-11-13",
   "icims:careers-tierpoint.icims.com:3062": "2026-11-13",
   "icims:careers-tierpoint.icims.com:3074": "2026-11-13",
@@ -72489,6 +72506,7 @@
   "lever:ion:541086b5-9de1-4f65-8038-f9690100b442": "2026-11-13",
   "lever:istaridigital.ai:0d1e644b-1977-438d-b78f-a0d280eb3cf2": "2026-11-13",
   "lever:jobgether:01f7311c-288a-4580-a8e5-4e1ef8118827": "2026-11-14",
+  "lever:jobgether:029f6e21-36a5-42c6-859d-ec5e7c435578": "2026-11-16",
   "lever:jobgether:0779e90f-400b-4145-badf-021026ef08c7": "2026-11-14",
   "lever:jobgether:08b7dd6a-eb23-458b-9568-dc2c9fee800f": "2026-11-14",
   "lever:jobgether:0c283a8d-6190-4326-acea-e12a22f0bc12": "2026-11-14",
@@ -72513,9 +72531,12 @@
   "lever:jobgether:35a948cc-510a-497f-a379-d69a3fe0bd61": "2026-11-14",
   "lever:jobgether:373f8aff-6b57-4ea6-afe1-00ce5ad02a46": "2026-11-14",
   "lever:jobgether:37ab3f74-0aea-42f5-b3d7-2357257b7876": "2026-11-14",
+  "lever:jobgether:3d7363a9-6abd-46e6-a90e-79d98e3ae646": "2026-11-16",
+  "lever:jobgether:41c2eaaf-fd24-4d0f-9938-9b97d6cb238c": "2026-11-16",
   "lever:jobgether:43824833-9e89-45ab-9f0a-3b318cb45fdd": "2026-11-14",
   "lever:jobgether:4adde91c-124f-4b1a-ad24-a7f1d5c0bfad": "2026-11-14",
   "lever:jobgether:4c6bcc39-a22c-4a25-a300-00c79bf53526": "2026-11-14",
+  "lever:jobgether:5491b452-de23-4b55-8766-da119b9abf16": "2026-11-16",
   "lever:jobgether:59469943-c696-40a4-9abb-0ef564c224e6": "2026-11-14",
   "lever:jobgether:5acb5dac-e0bd-4822-9345-0c02bcc89a29": "2026-11-16",
   "lever:jobgether:5b9b67ba-c44d-48fa-98ac-4fcc3f6734ec": "2026-11-14",
@@ -72526,6 +72547,7 @@
   "lever:jobgether:65a1156a-de46-49fd-8413-39a2b0b92b26": "2026-11-16",
   "lever:jobgether:69825357-d47e-494b-861f-d0f7bf0f4d1d": "2026-11-14",
   "lever:jobgether:6a1d0ed9-1ef9-44bb-902b-e7b4b3868b11": "2026-11-16",
+  "lever:jobgether:6af5c01c-dbc2-4bcd-8b61-950592dc49ee": "2026-11-16",
   "lever:jobgether:6b53c42c-d477-46ac-937f-97e117a3d76c": "2026-11-14",
   "lever:jobgether:6b6a90a0-2cf8-4f28-87f2-8e79da2f1ff4": "2026-11-14",
   "lever:jobgether:6ba9dce0-97e9-470f-a59b-06b6c673fcf2": "2026-11-14",
@@ -72842,6 +72864,7 @@
   "oracle:ehzq.fa.us2.oraclecloud.com|GrantThorntonGibraltar:116337": "2026-11-14",
   "oracle:ejcu.fa.us6.oraclecloud.com|CX_1033:1000374": "2026-11-13",
   "oracle:ejcu.fa.us6.oraclecloud.com|CX_1033:1000435": "2026-11-13",
+  "oracle:ejcu.fa.us6.oraclecloud.com|CX_1033:1000463": "2026-11-16",
   "oracle:ejhp.fa.us6.oraclecloud.com|CX_2:2628930": "2026-11-13",
   "oracle:ejko.fa.us2.oraclecloud.com|CX_2:15019": "2026-11-14",
   "oracle:ejko.fa.us2.oraclecloud.com|CX_3:14633": "2026-11-13",
@@ -73325,6 +73348,7 @@
   "pinpoint:compasshealthnetwork:619628": "2026-11-14",
   "pinpoint:compasshealthnetwork:619725": "2026-11-14",
   "pinpoint:compasshealthnetwork:619786": "2026-11-14",
+  "pinpoint:compasshealthnetwork:620156": "2026-11-16",
   "pinpoint:confluence:541180": "2026-11-13",
   "pinpoint:confluence:545924": "2026-11-13",
   "pinpoint:crcna:285174": "2026-11-14",
@@ -75646,6 +75670,8 @@
   "smartrecruiters:Endava:744000159678409": "2026-11-14",
   "smartrecruiters:Equus:744000159885690": "2026-11-14",
   "smartrecruiters:Equus:744000160933550": "2026-11-14",
+  "smartrecruiters:HenryFordHealth1:3743990016871256": "2026-11-16",
+  "smartrecruiters:HenryFordHealth1:3743990016871301": "2026-11-16",
   "smartrecruiters:JackLinksProteinSnacks:744000161385019": "2026-11-15",
   "smartrecruiters:Kronospan:744000159723559": "2026-11-15",
   "smartrecruiters:LGCGroup:744000160277179": "2026-11-15",
@@ -79391,6 +79417,7 @@
   "yc:workatastartup:59310": "2026-11-14",
   "yc:workatastartup:59403": "2026-11-14",
   "yc:workatastartup:71011": "2026-11-14",
+  "yc:workatastartup:78494": "2026-11-16",
   "yc:workatastartup:78968": "2026-11-14",
   "yc:workatastartup:89677": "2026-11-14",
   "yc:workatastartup:93234": "2026-11-14",
@@ -79524,8 +79551,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-16T10:38:53+00:00",
-  "yc": "2026-11-16T10:38:53+00:00"
+  "workable_search": "2026-11-16T14:19:49+00:00",
+  "yc": "2026-11-16T14:19:49+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
