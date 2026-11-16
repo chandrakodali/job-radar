@@ -12034,17 +12034,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 156,
+   "n": 157,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 156,
+   "n": 157,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 156,
+   "n": 157,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12318,8 +12318,9 @@
    "since": "2026-11-11"
   },
   "greenhouse:orbisoperations": {
+   "disabled_until": "2026-11-23",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-16"
   },
   "greenhouse:pantherlabs": {
@@ -14900,7 +14901,7 @@
   ],
   "2026-11-16": [
    122,
-   277
+   282
   ]
  },
  "resolved": {
@@ -65716,6 +65717,8 @@
   "ashby:PointOne:e57df388-58d1-41b5-b388-6b4ad41a6c57": "2026-11-07",
   "ashby:Skip:dc2bfc5f-b716-4712-b8d0-f9c15ddc44d7": "2026-11-12",
   "ashby:ThinkingMachines:14bef671-162c-4513-bfcf-e679e41e10a8": "2026-11-09",
+  "ashby:ThinkingMachines:5b2ee0dc-0fe5-4c5d-806d-e171187e460e": "2026-11-16",
+  "ashby:ThinkingMachines:ec5f88b6-e221-499c-bc8f-a27b66213b87": "2026-11-16",
   "ashby:Valon:71dcb68c-302d-4f8c-80cf-c1bd5ac106d5": "2026-11-16",
   "ashby:Vultr:04d58a97-bf6d-4214-8bfd-ccc984fc7e6d": "2026-11-10",
   "ashby:Vultr:24c3445f-27b2-40fb-870e-e59b71305787": "2026-11-11",
@@ -65832,6 +65835,7 @@
   "ashby:mistral.ai:98e96edd-e91f-4558-a248-4e0a2765845b": "2026-11-07",
   "ashby:mistral.ai:fe471824-c80a-4ea4-9625-2217f81c52ae": "2026-11-11",
   "ashby:netic:178a50d3-f3e8-4031-829f-ce6d6f3ed245": "2026-11-15",
+  "ashby:newlantern:adce896c-3fbe-4345-875d-ead3b48e6cef": "2026-11-16",
   "ashby:niantic-spatial:038011fd-5fe3-4b7f-863c-919b2af28597": "2026-11-07",
   "ashby:notion:06c2599d-4dd5-4f97-843f-7194b546f042": "2026-11-10",
   "ashby:nubank:40f50e46-8f43-4460-99ee-a6de0a128079": "2026-11-12",
@@ -65915,6 +65919,7 @@
   "avature:deloitteus.avature.net|careers:354981": "2026-11-15",
   "avature:deloitteus.avature.net|careers:356285": "2026-11-15",
   "avature:deloitteus.avature.net|careers:359167": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:365424": "2026-11-16",
   "avature:deloitteus.avature.net|careers:365499": "2026-11-16",
   "avature:deloitteus.avature.net|careers:365752": "2026-11-15",
   "avature:deloitteus.avature.net|careers:367848": "2026-11-15",
@@ -66394,6 +66399,7 @@
   "catsone:erias:16873245": "2026-11-14",
   "catsone:erias:16873447": "2026-11-14",
   "catsone:erias:16873453": "2026-11-14",
+  "catsone:erias:16874138": "2026-11-16",
   "catsone:fusionhcr:16792209": "2026-11-14",
   "catsone:fusionhcr:16792210": "2026-11-14",
   "catsone:fusionhcr:16810415": "2026-11-14",
@@ -67360,6 +67366,7 @@
   "icims:careers-magaero.icims.com:8322": "2026-11-09",
   "icims:careers-magaero.icims.com:8400": "2026-11-09",
   "icims:careers-magaero.icims.com:8430": "2026-11-12",
+  "icims:careers-magaero.icims.com:8458": "2026-11-16",
   "icims:careers-markon.icims.com:8516": "2026-11-12",
   "icims:careers-markon.icims.com:8525": "2026-11-09",
   "icims:careers-markon.icims.com:8541": "2026-11-09",
@@ -68076,6 +68083,7 @@
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27309": "2026-11-08",
   "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10005497": "2026-11-13",
   "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10005943": "2026-11-13",
+  "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:104851": "2026-11-16",
   "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:105202": "2026-11-13",
   "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:105893": "2026-11-13",
   "oracle:fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:701849": "2026-11-08",
@@ -68148,6 +68156,7 @@
   "paylocity:69387653-2ac0-48e3-b0d4-5b10a4d51a46:4343911": "2026-11-16",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2019204EXTERNALENGLOBAL": "2026-11-12",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2022135EXTERNALENGLOBAL": "2026-11-15",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2023710EXTERNALENGLOBAL": "2026-11-16",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2025650EXTERNALENGLOBAL": "2026-11-12",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026031EXTERNALENGLOBAL": "2026-11-12",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026313EXTERNALENGLOBAL": "2026-11-10",
@@ -69757,6 +69766,7 @@
   "zoho:agileengine:248544000264428990": "2026-11-14",
   "zoho:agileengine:248544000264430673": "2026-11-14",
   "zoho:agileengine:248544000264433516": "2026-11-14",
+  "zoho:agileengine:248544000264433519": "2026-11-16",
   "zoho:agileengine:248544000264433525": "2026-11-14",
   "zoho:agileengine:248544000264434696": "2026-11-14",
   "zoho:agileengine:248544000264434702": "2026-11-14",
@@ -69789,7 +69799,7 @@
   "remoteok": "2026-11-16T18:51:06+00:00",
   "usajobs": "2026-11-16T18:51:06+00:00",
   "workable_search": "2026-11-16T18:51:06+00:00",
-  "wwr": "2026-11-16T18:51:06+00:00",
+  "wwr": "2026-11-16T20:07:23+00:00",
   "yc": "2026-11-16T18:51:06+00:00"
  },
  "title_rules": "c323075b4d70",
