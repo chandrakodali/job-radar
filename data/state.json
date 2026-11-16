@@ -12070,17 +12070,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 161,
+   "n": 162,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 161,
+   "n": 162,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 161,
+   "n": 162,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -65866,6 +65866,7 @@
   "ashby:lambda:afc20b2c-92c5-4f3e-9284-82eba19b4738": "2026-11-13",
   "ashby:langchain:5095871a-9af2-4521-8c63-ff0d852f7354": "2026-11-12",
   "ashby:litellm:27d65520-70ac-49c3-9224-66e2965259c0": "2026-11-12",
+  "ashby:logos-space:4356cf65-7ac7-4b43-9b4a-791b07dff7c1": "2026-11-16",
   "ashby:luminal:418158ce-9570-43fa-8877-2583c291b3fa": "2026-11-11",
   "ashby:luxor:e45ef8d6-93c9-4e16-b625-6abf89f4c217": "2026-11-09",
   "ashby:makai-labs:d563ac6e-31b0-4fb9-967b-f6cda3660034": "2026-11-12",
@@ -66438,6 +66439,8 @@
   "catsone:erias:16873447": "2026-11-14",
   "catsone:erias:16873453": "2026-11-14",
   "catsone:erias:16874138": "2026-11-16",
+  "catsone:erias:16874176": "2026-11-16",
+  "catsone:erias:16874181": "2026-11-16",
   "catsone:fusionhcr:16792209": "2026-11-14",
   "catsone:fusionhcr:16792210": "2026-11-14",
   "catsone:fusionhcr:16810415": "2026-11-14",
@@ -66979,6 +66982,7 @@
   "greenhouse:oddball:8197757003": "2026-11-11",
   "greenhouse:okx:8187582003": "2026-11-14",
   "greenhouse:oneimaging:4484490009": "2026-11-07",
+  "greenhouse:oscar:8382174": "2026-11-16",
   "greenhouse:pathrobotics:8939588002": "2026-11-12",
   "greenhouse:penninteractive:6241510004": "2026-11-12",
   "greenhouse:physicsx:5035380101": "2026-11-15",
@@ -68128,6 +68132,8 @@
   "oracle:egoh.fa.us2.oraclecloud.com|CX_1001:32568": "2026-11-16",
   "oracle:egoh.fa.us2.oraclecloud.com|CX_1001:33134": "2026-11-16",
   "oracle:egua.fa.us2.oraclecloud.com|CX_1:24210": "2026-11-08",
+  "oracle:egug.fa.us2.oraclecloud.com|CX:26013784": "2026-11-16",
+  "oracle:egug.fa.us2.oraclecloud.com|CX_1:26013784": "2026-11-16",
   "oracle:egup.fa.us2.oraclecloud.com|CX:20283963": "2026-11-12",
   "oracle:ejhp.fa.us6.oraclecloud.com|CX_2:2628658": "2026-11-16",
   "oracle:ejhp.fa.us6.oraclecloud.com|CX_2:2628930": "2026-11-12",
