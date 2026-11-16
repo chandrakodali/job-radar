@@ -12070,17 +12070,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 160,
+   "n": 161,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 160,
+   "n": 161,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 160,
+   "n": 161,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14936,8 +14936,8 @@
    376
   ],
   "2026-11-16": [
-   122,
-   288
+   142,
+   331
   ]
  },
  "resolved": {
@@ -65717,6 +65717,7 @@
   "amazon:us:10606386": "2026-11-16",
   "amazon:us:10606475": "2026-11-16",
   "amazon:us:10606562": "2026-11-16",
+  "amazon:us:10606633": "2026-11-16",
   "apple:usa:200657320": "2026-11-14",
   "apple:usa:200674782": "2026-11-14",
   "apple:usa:200684228": "2026-11-14",
@@ -66900,6 +66901,7 @@
   "greenhouse:eleviassociates:8194847003": "2026-11-09",
   "greenhouse:eleviassociates:8205860003": "2026-11-16",
   "greenhouse:eleviassociates:8205869003": "2026-11-16",
+  "greenhouse:eleviassociates:8205874003": "2026-11-16",
   "greenhouse:epicgames:6250171004": "2026-11-12",
   "greenhouse:epicgames:6257189004": "2026-11-12",
   "greenhouse:esri:5262837007": "2026-11-09",
@@ -67017,6 +67019,7 @@
   "greenhouse:storyblok:5036564101": "2026-11-16",
   "greenhouse:stripe:8328323": "2026-11-07",
   "greenhouse:strivehealth:4726499006": "2026-11-09",
+  "greenhouse:swiftsolar:5483714008": "2026-11-16",
   "greenhouse:synerg:6254094004": "2026-11-16",
   "greenhouse:systemstechnologyresearch:4729338006": "2026-11-13",
   "greenhouse:taskrabbit:8318477": "2026-11-12",
@@ -68033,6 +68036,7 @@
   "oracle:edyy.fa.us2.oraclecloud.com|CX_2002:17617": "2026-11-12",
   "oracle:eedu.fa.em3.oraclecloud.com|CX_1003:202607088": "2026-11-11",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:340135": "2026-11-16",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:342815": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:342848": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:342921": "2026-11-16",
@@ -68044,6 +68048,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX:349973": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:350444": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:340135": "2026-11-16",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342815": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342848": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342921": "2026-11-16",
@@ -68055,6 +68060,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:349973": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:350444": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:340135": "2026-11-16",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342815": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342848": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342921": "2026-11-16",
@@ -68067,6 +68073,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:350444": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:340135": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:340915": "2026-11-12",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342815": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342848": "2026-11-12",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342921": "2026-11-16",
@@ -68087,6 +68094,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350444": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350510": "2026-11-12",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:340135": "2026-11-16",
+  "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342815": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342848": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342921": "2026-11-16",
@@ -68098,6 +68106,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:349973": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:350444": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:340135": "2026-11-16",
+  "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342815": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342848": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342921": "2026-11-16",
@@ -68204,6 +68213,7 @@
   "paylocity:33704aa8-8475-45e8-b8a8-55e4d6765e36:4653296": "2026-11-15",
   "paylocity:33704aa8-8475-45e8-b8a8-55e4d6765e36:4654017": "2026-11-15",
   "paylocity:33d408c5-a3ae-404d-ad44-272300d2ee21:4556993": "2026-11-15",
+  "paylocity:3986a99a-17ae-446b-835f-782cb565047f:4256360": "2026-11-16",
   "paylocity:3a71f2f7-867e-4733-af77-16b1a4d9e347:4651290": "2026-11-15",
   "paylocity:4d199bb8-07e0-419b-bf53-570c2229319c:4499100": "2026-11-15",
   "paylocity:52a15a03-336d-4dd4-871d-127dbfb89ce6:4062047": "2026-11-15",
@@ -68922,6 +68932,7 @@
   "smartrecruiters:intuitive:744000158094960": "2026-11-07",
   "smartrecruiters:intuitive:744000160278219": "2026-11-07",
   "smartrecruiters:intuitive:744000161384849": "2026-11-12",
+  "smartrecruiters:intuitive:744000161922039": "2026-11-16",
   "smartrecruiters:linkedin3:744000158161003": "2026-11-07",
   "smartrecruiters:linkedin3:744000161375119": "2026-11-12",
   "smartrecruiters:nbcuniversal3:744000158379625": "2026-11-07",
@@ -69858,10 +69869,10 @@
  "source_last": {
   "hn": "2026-11-16T20:37:19+00:00",
   "remoteok": "2026-11-16T21:07:18+00:00",
-  "usajobs": "2026-11-16T18:51:06+00:00",
-  "workable_search": "2026-11-16T18:51:06+00:00",
-  "wwr": "2026-11-16T21:07:18+00:00",
-  "yc": "2026-11-16T18:51:06+00:00"
+  "usajobs": "2026-11-16T22:07:37+00:00",
+  "workable_search": "2026-11-16T22:07:37+00:00",
+  "wwr": "2026-11-16T22:07:37+00:00",
+  "yc": "2026-11-16T22:07:37+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
