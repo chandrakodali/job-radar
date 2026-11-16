@@ -11554,17 +11554,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 38,
+   "n": 39,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 38,
+   "n": 39,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 38,
+   "n": 39,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -11969,6 +11969,16 @@
    "n": 3,
    "since": "2026-11-14"
   },
+  "icims:careers-cotiviti.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-16"
+  },
+  "icims:careers-eyesouthpartners.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-16"
+  },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /jobs/search",
@@ -12028,6 +12038,11 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-14"
+  },
+  "icims:careers-sentinel.icims.com": {
+   "err": "HTTP 521",
+   "n": 1,
+   "since": "2026-11-16"
   },
   "icims:careers-sev1tech.icims.com": {
    "disabled_until": "2026-11-21",
@@ -12865,7 +12880,7 @@
   ],
   "2026-11-16": [
    41,
-   171
+   174
   ]
  },
  "resolved": {
@@ -64985,6 +65000,7 @@
   "eightfold:nvidia:893398397345": "2026-11-14",
   "eightfold:nvidia:893398445696": "2026-11-14",
   "eightfold:nvidia:893398627643": "2026-11-14",
+  "eightfold:nvidia:893398633653": "2026-11-16",
   "eightfold:nvidia:893398684422": "2026-11-14",
   "eightfold:nvidia:893398697666": "2026-11-14",
   "eightfold:nvidia:893398699304": "2026-11-14",
@@ -65766,6 +65782,7 @@
   "icims:careers-berkley.icims.com:14288": "2026-11-14",
   "icims:careers-berkley.icims.com:14307": "2026-11-14",
   "icims:careers-bernhard.icims.com:11613": "2026-11-14",
+  "icims:careers-beyondsoft.icims.com:10950": "2026-11-16",
   "icims:careers-beyondsoft.icims.com:10994": "2026-11-14",
   "icims:careers-bluegracegroup.icims.com:4283": "2026-11-14",
   "icims:careers-bncsystems.icims.com:1231": "2026-11-14",
@@ -68522,6 +68539,7 @@
   "zoho:agileengine:248544000264801465": "2026-11-14",
   "zoho:agileengine:248544000264801473": "2026-11-14",
   "zoho:agileengine:248544000264804303": "2026-11-15",
+  "zoho:agileengine:248544000264804309": "2026-11-16",
   "zoho:agileengine:248544000264804321": "2026-11-14",
   "zoho:agileengine:248544000264806171": "2026-11-14",
   "zoho:agileengine:248544000264808379": "2026-11-14",
@@ -68580,10 +68598,10 @@
  },
  "source_last": {
   "hn": "2026-11-16T05:46:19+00:00",
-  "remoteok": "2026-11-16T07:47:43+00:00",
+  "remoteok": "2026-11-16T09:50:32+00:00",
   "usajobs": "2026-11-16T07:47:43+00:00",
   "workable_search": "2026-11-16T07:47:43+00:00",
-  "wwr": "2026-11-16T08:50:07+00:00",
+  "wwr": "2026-11-16T09:50:32+00:00",
   "yc": "2026-11-16T07:47:43+00:00"
  },
  "title_rules": "72f554d20a7f",
