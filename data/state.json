@@ -11610,6 +11610,11 @@
   "greenhouse:yipitdata:8329263": "2026-11-12"
  },
  "fails": {
+  "apple:usa": {
+   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
+   "n": 1,
+   "since": "2026-11-16"
+  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-18",
    "err": "HTTP 404",
@@ -11936,17 +11941,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 135,
+   "n": 136,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 135,
+   "n": 136,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 135,
+   "n": 136,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -68429,6 +68434,7 @@
   "sfrmk:careers.quality-ai.com:61496744": "2026-11-12",
   "sfrmk:careers.quality-ai.com:61504344": "2026-11-12",
   "sfrmk:careers.quality-ai.com:61538444": "2026-11-15",
+  "sfrmk:careers.quality-ai.com:61559644": "2026-11-16",
   "sfrmk:careers.safran-dsi.com:1448369700": "2026-11-09",
   "sfrmk:careers.thehersheycompany.com:1438643100": "2026-11-12",
   "sfrmk:careers.westinghousenuclear.com:1360658600": "2026-11-09",
@@ -69559,6 +69565,7 @@
   "zoho:agileengine:248544000265319358": "2026-11-15",
   "zoho:agileengine:248544000265319361": "2026-11-15",
   "zoho:aspire:503306000044665015": "2026-11-14",
+  "zoho:aspire:503306000044928194": "2026-11-16",
   "zoho:blackswansearch:247146000000590084": "2026-11-14",
   "zoho:donweb:694925000009547001": "2026-11-14",
   "zoho:endurance-it:644473000013394064": "2026-11-14",

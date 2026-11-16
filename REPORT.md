@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**694 jobs**, newest first. Updated Mon Nov 16, 1:37 AM CST from 12,526 company job boards and other sources.
+**695 jobs**, newest first. Updated Mon Nov 16, 2:12 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,13 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 1,067 matching jobs that job sites and feeds listed this week, 344 (32%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (15)](#sunday-nov-15-15) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (96)](#thursday-nov-12-96) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57)
+Jump to: [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (15)](#sunday-nov-15-15) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (96)](#thursday-nov-12-96) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57)
+
+## Monday, Nov 16 (1)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| 2:12 AM (seen) | [Revenue Cloud Developer](https://aspire.zohorecruit.com/jobs/Careers/503306000044928194/Revenue-Cloud-Developer) | Aspire |  (remote) | 42 | location unclear |
 
 ## Sunday, Nov 15 (15)
 
