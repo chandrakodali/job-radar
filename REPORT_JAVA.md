@@ -1,12 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**180 jobs**, newest first. Updated Mon Nov 16, 4:47 AM CST from 12,526 company job boards and other sources.
+**180 jobs**, newest first. Updated Mon Nov 16, 5:49 AM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 128 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 721 matching jobs that job sites and feeds listed this week, 183 (25%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 730 matching jobs that job sites and feeds listed this week, 183 (25%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sun 15 (7)](#sunday-nov-15-7) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19) · [Mon 9 (12)](#monday-nov-9-12)
 
@@ -225,12 +225,14 @@ Jump to: [Sun 15 (7)](#sunday-nov-15-7) · [Sat 14 (76)](#saturday-nov-14-76) ·
 | date only | [Associate, Software Engineer](https://morganstanley.eightfold.ai/careers/job/549800008226) | Morganstanley | Alpharetta, GA, US (onsite) | 48 | entry-level title; 3+ yrs exp; requires Java |
 | date only | [Senior Java Engineer](https://mgl.avature.net/internalcareers/JobDetail/Senior-Java-Engineer/22776) | Mgl Avature Net |  | 38 | senior title, years not stated; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (290)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (292)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:48 AM | [Senior Software Engineer, Backend - Distributed Systems](https://jobs.lever.co/jobgether/cf103b15-8bed-4260-b881-f1639c0a58ba) | Jobgether | US (remote) | 27 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
+| 5:33 AM | [Senior Software Engineer - Managed Services](https://jobs.lever.co/jobgether/07681a3c-f0c2-4e6f-b380-de581c64b867) | Jobgether | US (remote) | 27 | rules: 10+ yrs exp; senior title; requires Java; asks for 10+ years o… |
 | 1:23 PM (seen) | [Mid-Level Developer (Java/Backend) / Req#4236](https://jobs.jobvite.com/actionet-review/job/ofumzfwo) | Actionet Review | Remote, United States | 45 | rules: 3+ yrs exp; needs: Must be a U.S. Citizen |
 | 1:23 PM (seen) | [Senior Developer (Java/Backend) / Req#4235](https://jobs.jobvite.com/actionet-review/job/o6umzfwf) | Actionet Review | Remote, United States | 30 | rules: 5+ yrs exp; senior title; needs: Must be a U.S. Citizen |
 | 1:23 PM (seen) | [Full Stack Cloud Developer / Req#4695](https://jobs.jobvite.com/actionet-review/job/oRvIAfwo) | Actionet Review | Suitland, Maryland | 15 | rules: 7+ yrs exp; requires Java; needs: public trust clearance |

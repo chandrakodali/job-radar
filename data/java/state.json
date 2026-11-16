@@ -11554,17 +11554,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 40,
+   "n": 41,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 40,
+   "n": 41,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 40,
+   "n": 41,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12865,7 +12865,7 @@
   ],
   "2026-11-16": [
    55,
-   222
+   231
   ]
  },
  "resolved": {
@@ -63789,6 +63789,7 @@
   "apple:usa:200695051": "2026-11-14",
   "ashby:42dot:26f79b07-2ffc-44a3-9d92-36111d18fb34": "2026-11-14",
   "ashby:42dot:4c80af7e-eda8-4a99-9060-7a8a5d6cccb9": "2026-11-14",
+  "ashby:AeroVect:c8437753-a85c-45c8-973c-8e7f1897423f": "2026-11-16",
   "ashby:AfterQuery:99afbbe0-5ad1-4f25-a00a-049f14428ac6": "2026-11-14",
   "ashby:Blossom-Health:ffba9bbf-2576-4f3a-b883-c1ef083811da": "2026-11-14",
   "ashby:C1:3aed66f1-c7a7-40c5-b65a-e37d3269d276": "2026-11-14",
@@ -66551,6 +66552,7 @@
   "jobvite:visionist:oz5SAfwQ": "2026-11-14",
   "join:k-tronik:16914593": "2026-11-14",
   "join:k-tronik:16947962": "2026-11-14",
+  "join:k-tronik:16956087": "2026-11-16",
   "lever:alluxio:52d9bf4e-fe16-46c2-8b97-25f08c878051": "2026-11-14",
   "lever:bluesight:0367870c-ecd0-4b5f-a498-2625664ce859": "2026-11-14",
   "lever:cfsenergy:5aeb4472-1124-474a-a61e-997c74b16e45": "2026-11-14",
@@ -66568,6 +66570,7 @@
   "lever:jobgether:01f9696f-5bed-47de-bd1b-5df239949864": "2026-11-14",
   "lever:jobgether:02601126-bd02-4538-ba32-cf199521bc57": "2026-11-14",
   "lever:jobgether:04204789-6c21-47d1-8f94-d33727ea0ec1": "2026-11-14",
+  "lever:jobgether:07681a3c-f0c2-4e6f-b380-de581c64b867": "2026-11-16",
   "lever:jobgether:1f41924b-9c06-4b11-999f-1bc211f2544a": "2026-11-16",
   "lever:jobgether:25f8ac01-c5a3-495d-b94c-848bcb7f2197": "2026-11-14",
   "lever:jobgether:2629ec48-6b51-43ac-a552-1ffd59f9e82c": "2026-11-14",
@@ -66579,6 +66582,7 @@
   "lever:jobgether:4d0e9365-5e2d-4992-889a-3a073f97e4e3": "2026-11-14",
   "lever:jobgether:59469943-c696-40a4-9abb-0ef564c224e6": "2026-11-14",
   "lever:jobgether:65a1156a-de46-49fd-8413-39a2b0b92b26": "2026-11-16",
+  "lever:jobgether:6a1d0ed9-1ef9-44bb-902b-e7b4b3868b11": "2026-11-16",
   "lever:jobgether:9af4cc18-9474-497f-9a90-60aa781922d4": "2026-11-14",
   "lever:jobgether:9fadc447-59bb-422c-b4ce-6d4a655e09d0": "2026-11-14",
   "lever:jobgether:a82f7076-2322-4ad3-a350-5babe29e934a": "2026-11-14",
@@ -66588,12 +66592,14 @@
   "lever:jobgether:c12ad43a-3c7b-4d0b-adde-d3509813970d": "2026-11-14",
   "lever:jobgether:c6445be2-ca67-4f3f-9e73-ae6bf376ed50": "2026-11-14",
   "lever:jobgether:ce66a95c-1a06-42dc-a28e-5a65d960c1ac": "2026-11-14",
+  "lever:jobgether:cf103b15-8bed-4260-b881-f1639c0a58ba": "2026-11-16",
   "lever:jobgether:d007b034-95c9-43ef-b6c9-175773560385": "2026-11-14",
   "lever:jobgether:e20facbc-c67e-433d-8ebd-d46e0377b2c5": "2026-11-16",
   "lever:jobgether:e77ae819-d598-4d58-8c2a-835267008435": "2026-11-14",
   "lever:jobgether:ec8d9397-22c6-4749-bcbc-e5c8d01316aa": "2026-11-14",
   "lever:jobgether:ec9c4292-142e-4b7c-b019-5802e8388d33": "2026-11-14",
   "lever:jobgether:ed585bb6-9f21-45ef-b606-7d0a0715d03c": "2026-11-14",
+  "lever:jobgether:f03d7623-1070-43c7-8398-e76ffa3eb3e0": "2026-11-16",
   "lever:jobgether:f0fd00ca-2141-4457-8c86-34f1b88df3b4": "2026-11-14",
   "lever:jobgether:f1c66d7c-c9c0-43e1-bbe4-a6cc82b8c894": "2026-11-14",
   "lever:jobgether:f9328e2b-6ac0-4031-a139-ee42142f59b1": "2026-11-14",
@@ -66836,6 +66842,7 @@
   "pinpoint:impulsespace:605157": "2026-11-14",
   "pinpoint:impulsespace:606072": "2026-11-14",
   "pinpoint:impulsespace:606106": "2026-11-14",
+  "pinpoint:indrive:550655": "2026-11-16",
   "pinpoint:intermedia:597418": "2026-11-14",
   "recruitee:aikidosecurity:2793094": "2026-11-14",
   "recruitee:hudsonmanpower:2819095": "2026-11-15",
@@ -68634,11 +68641,11 @@
   "zoho:virtualcolleague:805869000004420928": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-16T05:46:19+00:00",
-  "remoteok": "2026-11-16T09:50:32+00:00",
+  "hn": "2026-11-16T11:49:21+00:00",
+  "remoteok": "2026-11-16T11:49:21+00:00",
   "usajobs": "2026-11-16T10:47:37+00:00",
   "workable_search": "2026-11-16T10:47:37+00:00",
-  "wwr": "2026-11-16T10:47:37+00:00",
+  "wwr": "2026-11-16T11:49:21+00:00",
   "yc": "2026-11-16T10:47:37+00:00"
  },
  "title_rules": "72f554d20a7f",
