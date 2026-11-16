@@ -1,19 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**694 jobs**, newest first. Updated Sun Nov 15, 11:37 PM CST from 12,526 company job boards and other sources.
+**694 jobs**, newest first. Updated Mon Nov 16, 12:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-203 repeat listings (same company and title in another place or on another source) are merged into one row.
+209 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 1,063 matching jobs that job sites and feeds listed this week, 344 (32%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (98)](#thursday-nov-12-98) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57)
+Jump to: [Sun 15 (15)](#sunday-nov-15-15) · [Sat 14 (325)](#saturday-nov-14-325) · [Fri 13 (67)](#friday-nov-13-67) · [Thu 12 (96)](#thursday-nov-12-96) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (57)](#monday-nov-9-57)
 
-## Sunday, Nov 15 (13)
+## Sunday, Nov 15 (15)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:50 PM | [Site Reliability Engineer 2](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340135) | Oracle | Nashville, TN, United States +1 more | 50 | 3+ yrs exp |
+| 11:50 PM | [Site Reliability Engineer 2](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/job/340135) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States +1 more | 50 | 3+ yrs exp |
 | 6:51 PM | [Senior DevOps Engineer, Infrastructure & Reliability](https://jobs.workable.com/view/3P5xFJLRF824o6ijeaRqjm/remote-senior-devops-engineer%2C-infrastructure-%26-reliability-in-atlanta-at-worth-ai) | Worth AI | Atlanta, Georgia (remote) (remote) | 52 | senior title, years not stated |
 | 2:37 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265317735/Senior-FinOps-Analyst-ID94366) | Agileengine | Jacksonville, United States +9 more | 25 | senior title, years not stated |
 | 1:38 PM | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/netic/178a50d3-f3e8-4031-829f-ce6d6f3ed245) | Cybernetic Labs | San Francisco (onsite) | 80 | 1+ yrs exp |
@@ -430,7 +432,7 @@ Jump to: [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (325)](#saturday-nov-14-325
 | 5:02 AM | [Langfuse - Senior Cloud Infra Engineer](https://jobs.ashbyhq.com/clickhouse/39e42a38-1cbf-40c7-b373-717b4cdddbac) | ClickHouse | New York (remote) | 52 | senior title, years not stated |
 | 1:07 AM | [Full-Stack Software Engineer (Infrastructure Focus)](https://jobs.lever.co/jobgether/c12ad43a-3c7b-4d0b-adde-d3509813970d) | Jobgether | US (remote) | 55 |  |
 
-## Thursday, Nov 12 (98)
+## Thursday, Nov 12 (96)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -514,8 +516,6 @@ Jump to: [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (325)](#saturday-nov-14-325
 | date only | [Salesforce Commerce Cloud Dev Ops/Release Engineer](https://jobs.jobvite.com/isoftstone/job/oW86Afwu) | iSoftStone | New York, New York, United States | 53 | no future H-1B sponsorship |
 | date only | [Cloud Infrastructure Engineer](https://mgl.avature.net/internalcareers/JobDetail/Cloud-Infrastructure-Engineer/24892) | Mgl Avature Net |  | 48 | location unclear |
 | 10:59 AM | [Associate Agentic Search Infrastructure Engineer - Moveworks](https://jobs.smartrecruiters.com/ServiceNow/744000161349929-associate-agentic-search-infrastructure-engineer-moveworks-) | ServiceNow | Mountain View, CALIFORNIA, United States | 70 | entry-level title |
-| 10:55 AM | [Site Reliability Engineer 2](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348476) | Oracle | Nashville, TN, United States; United St… | 55 |  |
-| 10:55 AM | [Site Reliability Engineer 2](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/348476) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States; United St… | 48 |  |
 | 10:39 AM | [Application Security Engineer](https://jobs.ashbyhq.com/langchain/5095871a-9af2-4521-8c63-ff0d852f7354) | Langchain | San Francisco, CA (onsite) | 70 |  |
 | 9:59 AM | [Senior Platform Engineer](https://sullyai.teamtailor.com/jobs/8718634-senior-platform-engineer) | Sully | Santa Clara, United States (onsite) | 60 | senior title, years not stated |
 | 9:28 AM | [Infrastructure Support Engineer](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41266) | Nokia | United States (onsite) | 70 |  |
@@ -739,12 +739,13 @@ Jump to: [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (325)](#saturday-nov-14-325
 | 4:33 AM | [Infrastructure Engineer, Enterprise AI](https://jobs.lever.co/jobgether/6ee78390-07bc-4e75-a921-511307f32e34) | Jobgether | US (remote) | 50 |  |
 | 4:14 AM | [Systems Administrator II](https://jobs.lever.co/jobgether/727fde91-6dfd-49df-a6ea-3169fa9987a8) | Jobgether | US (remote) | 25 | 4+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (662)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (655)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 12:07 AM (seen) | [Systems Reliability Engineer II (Pune)](https://jobs.jobvite.com/nutanix/job/ohIWAfwf) | Nutanix |  | 20 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
 | 11:18 PM | [DevOps Engineer](https://jobs.ashbyhq.com/first-resonance/8d6700c8-48be-423e-9d66-fe51816deeab) | First Resonance | Los Angeles (onsite) | 55 | rules: 5+ yrs exp; E-Verify; needs: ITAR |
 | 7:22 PM | [Senior Network Engineer](https://jobs.smartrecruiters.com/Dominos/744000161707674-senior-network-engineer) | Domino's | Ann Arbor, MI, United States | 30 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 7:22 PM | [Data Platform Engineer](https://jobs.smartrecruiters.com/Dominos/744000161708269-data-platform-engineer) | Domino's | Ann Arbor, MI, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -1144,7 +1145,6 @@ Jump to: [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (325)](#saturday-nov-14-325
 | date only | [1520 - Network Engineer I - III](https://apply.workable.com/sigmadefense/j/A31363004E/) | Sigma Defense | San Diego, California, United States | 33 | rules: entry-level title; 7+ yrs exp; senior title; needs: security c… |
 | date only | [Production Engineering :  Sr Tooling Designer](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/Production-Engineering----Sr-Tooling-Designer_J-00354424) | ASML | Wilton, CT, USA | 33 | rules: senior title, years not stated; adjacent title, little DevOps/… |
 | date only | [Senior Systems Engineer (HPC/Server Farm)](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Senior-Systems-Engineer--HPC-Server-Farm-_R54243) | Cadence Design Systems | SAN JOSE | 23 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
-| date only | [Sr. Network Engineer](https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Virtual-USA/Sr-Network-Engineer_0015031) | CCC Intelligent Solutions | Virtual, USA (remote) | 20 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 
 </details>
 
