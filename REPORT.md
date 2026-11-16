@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**693 jobs**, newest first. Updated Mon Nov 16, 4:37 AM CST from 12,526 company job boards and other sources.
+**693 jobs**, newest first. Updated Mon Nov 16, 5:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -743,12 +743,13 @@ Jump to: [Mon 16 (3)](#monday-nov-16-3) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | 9:17 AM | [Systems Reliability Engineer - All Levels](https://jobs.ashbyhq.com/allen-control-systems/3075ceee-6a85-4170-9ffc-3e2f11697db7) | Allen Control Systems | Austin, TX | 65 |  |
 | 6:02 AM | [Infrastructure Operations Engineer](https://jobs.lever.co/jobgether/0c283a8d-6190-4326-acea-e12a22f0bc12) | Jobgether | US (remote) | 50 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (659)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (660)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 4:58 AM | [Azure IaaS Engineer](https://jobs.lever.co/jobgether/4286ffa5-bae5-4ccc-bf9c-000d74badf2e) | Jobgether | US (remote) | 42 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 1:00 AM | [Senior Systems Administrator II](https://jobs.lever.co/jobgether/71971f7a-ecef-4a58-972c-0cefed41b9c1) | Jobgether | US (remote) | 22 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:45 AM | [Sr Network Engineer](https://jobs.lever.co/jobgether/0e899f97-552a-4ed8-9491-07c4db1805f7) | Jobgether | US (remote) | 27 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:41 AM | [Senior Site Reliability Engineer](https://jobs.lever.co/jobgether/5cedc112-aefe-4167-8649-8347b8c7b0a9) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
@@ -1148,7 +1149,6 @@ Jump to: [Mon 16 (3)](#monday-nov-16-3) · [Sun 15 (15)](#sunday-nov-15-15) · [
 | date only | [Cloud Engineer - GCP](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ATLANTA-GEORGIA/Cloud-Engineer---GCP_R0076098-1) | Global Payments | ATLANTA, GEORGIA; CINCINNATI, OHIO; DEN… (hybrid) | 58 | rules: 3+ yrs exp; needs: must be a US Citizen |
 | date only | [Network Engineer - Plex](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Network-Engineer---Plex_R26-6685) | Rockwell Automation | Mayfield Heights, Ohio, United States; … (hybrid) | 53 | rules: 2+ yrs exp; no future H-1B sponsorship; needs: must be U.S. pe… |
 | date only | [Systems Administrator 2 (Windows) PART-TIME](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-HI-Waimea/Systems-Administrator-2--Windows--PART-TIME_R0174508) | Amentum | US-HI-Waimea (onsite) | 38 | rules: 4+ yrs exp; needs: Security Clearance |
-| date only | [Senior Systems Administrator](https://sigmadesign.applytojob.com/apply/rVm4qhScSp/Senior-Systems-Administrator) | Sigma Design | Camas, WA | 23 | rules: 5+ yrs exp; senior title; needs: ITAR |
 
 </details>
 
