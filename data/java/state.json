@@ -11553,17 +11553,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 32,
+   "n": 33,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 32,
+   "n": 33,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 32,
+   "n": 33,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12863,8 +12863,8 @@
    434
   ],
   "2026-11-16": [
-   13,
-   56
+   27,
+   106
   ]
  },
  "resolved": {
@@ -64934,6 +64934,7 @@
   "eightfold:ford:563568454040019": "2026-11-14",
   "eightfold:ford:563568454093634": "2026-11-14",
   "eightfold:globalfoundries:563980770991580": "2026-11-14",
+  "eightfold:globalfoundries:563980771048407": "2026-11-16",
   "eightfold:infineon:563808972336535": "2026-11-14",
   "eightfold:johndeere:137483370937": "2026-11-14",
   "eightfold:johndeere:137483512133": "2026-11-14",
@@ -64956,8 +64957,11 @@
   "eightfold:morganstanley:549801018692": "2026-11-14",
   "eightfold:ngc:1340075293681": "2026-11-14",
   "eightfold:nvidia:893382124964": "2026-11-15",
+  "eightfold:nvidia:893392096810": "2026-11-16",
   "eightfold:nvidia:893394241567": "2026-11-14",
+  "eightfold:nvidia:893396024552": "2026-11-16",
   "eightfold:nvidia:893396117673": "2026-11-15",
+  "eightfold:nvidia:893396451459": "2026-11-16",
   "eightfold:nvidia:893396953463": "2026-11-14",
   "eightfold:nvidia:893397145203": "2026-11-14",
   "eightfold:nvidia:893397231867": "2026-11-15",
@@ -64980,6 +64984,7 @@
   "eightfold:nvidia:893398699855": "2026-11-14",
   "eightfold:nvidia:893398699884": "2026-11-14",
   "eightfold:nvidia:893398728115": "2026-11-14",
+  "eightfold:nvidia:893398741679": "2026-11-16",
   "eightfold:paypal:274922508777": "2026-11-15",
   "eightfold:paypal:274922654826": "2026-11-15",
   "eightfold:paypal:274923300117": "2026-11-14",
@@ -68562,10 +68567,10 @@
  "source_last": {
   "hn": "2026-11-15T23:47:42+00:00",
   "remoteok": "2026-11-16T02:47:15+00:00",
-  "usajobs": "2026-11-16T00:48:53+00:00",
-  "workable_search": "2026-11-16T00:48:53+00:00",
-  "wwr": "2026-11-16T02:47:15+00:00",
-  "yc": "2026-11-16T00:48:53+00:00"
+  "usajobs": "2026-11-16T03:48:13+00:00",
+  "workable_search": "2026-11-16T03:48:13+00:00",
+  "wwr": "2026-11-16T03:48:13+00:00",
+  "yc": "2026-11-16T03:48:13+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
