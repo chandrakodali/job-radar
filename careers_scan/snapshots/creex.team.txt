@@ -4,3 +4,46 @@
 В данный момент у нас нет открытых позиций, но мы всегда рады талантливым специалистам. Отправьте нам свое резюме, и мы свяжемся с вами, когда появится подходящая вакансия.
 Хотите присоединиться к команде?
 Свяжитесь с нами
+DEBUG
+Layout
+Текущий: careers
+Тип: page
+Kind: page
+Страница
+Title: Вакансии - Присоединяйтесь к команде …
+Path: /careers/
+File: careers.ru.md
+Language: ru
+Тип страницы
+IsPage:
+true
+IsHome:
+false
+IsSection:
+Draft:
+Параметры
+author:
+CREEX TEAM
+categories:
+careers
+date:
+2024-01-01 00:00:00 +0000 UTC
+description:
+Вакансии в CREEX TEAM. …
+draft:
+iscjklanguage:
+keywords:
+вакансии, карьера, работа, …
+language:
+lastmod:
+layout:
+publishdate:
+robots:
+index, follow
+tags:
+careers, jobs, vacancies, …
+title:
+Вакансии - Присоединяйтесь к …
+Сайт
+Title: CREEX TEAM
+BaseURL: https://creex.team/

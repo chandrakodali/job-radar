@@ -1,10 +1,10 @@
 Want to have an impact while having fun ?
 Your next adventure starts below!
 Countries
-All Countries 186
+All Countries 185
 India 15
 Kenya 10
-United Arab Emirates 14
+United Arab Emirates 13
 Italy 4
 Australia 3
 Belgium 42
@@ -29,16 +29,16 @@ Human Resources 2
 Content & Learning 1
 Direct Sales 5
 Finance 1
-Partnership Recruitment 4
 Direct Customer Success 4
 Indirect Customer Success 2
+Partnership Recruitment 4
 Marketing 1
 Business Services 1
 Business Support 1
 Job position
 Filters
 All Countries
-186
+185
 India
 Kenya
 United Arab Emirates
@@ -64,9 +64,9 @@ Human Resources
 Content & Learning
 Direct Sales
 Finance
-Partnership Recruitment
 Direct Customer Success
 Indirect Customer Success
+Partnership Recruitment
 Marketing
 Business Services
 Business Support
@@ -91,20 +91,21 @@ Marketing / Content & Learning
 Account Executive, French
 Sales / Direct Sales
 Our Sales Team is seeking an enthusiastic Account Executive to take charge of the entire sales cycle and analyze client business operations. Apply now!
-GTM Account Executive, North America
-Our Sales Team is seeking an enthusiastic Account Executive to take charge of the entire sales cycle and analyze client business operations all across North America. Apply now!
 Account Executive
+Our Sales Team is seeking an enthusiastic Account Executive to take charge of the entire sales cycle and analyze client business operations all across North America. Apply now!
+GTM Account Executive, North America
 Senior Accountant
 Administration / Finance
 Account Executive (Spanish)
 Our Sales Team is seeking an enthusiastic Account Executive to take charge of the entire sales cycle and analyze client business operations all across Latin America. Apply now!
+Customer Care Associate, French
+Sales / Direct Customer Success
+Build and maintain relationships with multiple customers! We’ll train you on Odoo’s diverse applications, and you’ll use your business understanding to drive adoption and expand your client base.
+Customer Success Manager, Indirect
+Sales / Indirect Customer Success
 Partner Account Executive, Dutch
 Sales / Partnership Recruitment
 Develop, grow, and maintain our network of implementation partners in North America!
-Customer Care Associate (Spanish)
-Sales / Direct Customer Success
-Build and maintain relationships with multiple customers! We’ll train you on Odoo’s diverse applications, and you’ll use your business understanding to drive adoption and expand your client base.
-Customer Care Associate, French
 Customer Success Manager, Direct
 Job Events
 Discover and discuss the open positions at Odoo.

@@ -1,9 +1,24 @@
-Careers
-Join us in building the future of automotive AI. We're looking for ambitious people who want to make a real impact.
-Open Positions
-Join the team
-Staff Backend Engineer
+Join Revion
+We're looking for exceptional talent across software, hardware, sales and operations to help build repair intelligence.
+See open roles
+Backed by
+Join one of the most talent-dense startups in NYC
+Backed by 8VC and Y Combinator, Revion is solving the hardest problems in automotive repair with one of the most talent-dense teams in New York.
+Our engineering team includes multiple IMO Medalists and IPhO Medalists who chose this work at Revion because it's harder and more real than quant or big tech. Our team has previously worked at Citadel, SIG, LinkedIn, Amazon, Meta and others.
+Our Operations and Sales teams come from a mix of automotive, IB, investing, and consulting backgrounds (former BCG, Morgan Stanley, Toma).
+Meet the founders
+Zaki GW
+Co-Founder & CEO
+Hanbo Xie
+Co-Founder & CTO
+Office
 New York
-Forward Deployed Engineer
-AI Research Engineer
-London
+Open positions
+Every role works directly with customers and ships to production. Don't see your role? Write to us at careers@revion.inc .
+Engineering
+1 open role
+Founding Engineer New York City & London · Full Time
+GTM
+Founding Sales New York City · Full Time
+Deployment
+Founding Deployment Strategist New York City · Full Time

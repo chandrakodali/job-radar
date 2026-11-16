@@ -1,16 +1,46 @@
-Careers
-Help build the data layer for AI agents
-We are a small, focused team building the data infrastructure that frontier AI labs use to train and evaluate their agent models. If you care about real-world AI performance, not just benchmark scores, we want to talk to you.
-How we work
-Real data over synthetic shortcuts
-We believe the path to capable AI runs through real-world data. We do the hard work of collecting, anonymizing, and structuring data from real companies, no synthetic proxies.
-Research that ships
-We publish what we learn, but everything we build goes to production. We value rigor and pragmatism equally.
-Small team, high trust
-We hire people who take ownership. No micromanagement, no unnecessary process. You will have real impact from day one.
-Intellectual honesty
-We say what we don't know. We question our assumptions. We'd rather be right slowly than wrong quickly.
+Help us shape the next generation of AI
 Open roles
-Browse our open positions and apply directly below, through Y Combinator's Work at a Startup.
+Join the team
+Salary range and experience on every role.
+Engineering
+Head of Engineering Paris €100–130K 11+ years
+Lead ML Engineer Paris €90–120K 6+ years
+Lead Software Engineer Paris €80–100K 6+ years
+Senior Data Engineer Paris €65–95K 3+ years 0.10–0.30% equity
+Senior Software Engineer Paris €55–80K 6+ years 0.10–0.30% equity
+Operations & Data
+Chief of Staff Paris €80–100K 6+ years 0.50–1.00% equity
+Lead Counsel, Data Licensing & Privacy Paris €80–100K 6+ years
+Data Quality Specialist Paris €65–80K 6+ years
+Operations Manager, Data & AI Paris €45–60K 1+ year
+Go-to-market
+Account Executive, Data Partnerships (EU) Paris €55–110K 3+ years
+Product
+Product Manager Paris €70–90K 6+ years
+Key benefits
+Competitive package
+Competitive pay, with equity on top. You help build the company, you own a piece of it.
+Health insurance
+Medical, vision and dental in the US. Alan in France.
+401(k) with company match
+Retirement savings in the US, with an employer match.
+50% of your transport pass
+Half of your public transport pass, covered.
+Daily meals
+Swile card in France.
+Interview process
+How we hire
+Five steps, one decision. We keep the process short and tell you where you stand at every step.
+Intro call
+Thirty minutes with a founder. What you have built, what we are building, whether it is a fit.
+Technical deep-dive
+A conversation about a hard problem from your past work, in depth.
+Work trial or take-home
+A scoped piece of real work on real data, paid. We review it together.
+Team conversation
+Meet the people you would work with, ask them anything.
+Decision
+A written offer with the range, equity and start date, or a clear no with reasons.
 Don't see your role?
-We are always looking for exceptional people. If you are excited about what we are building and think you can contribute, reach out anyway at contact@ooakdata.com .
+We are always looking for exceptional people. Tell us what you would build here.
+Write to careers@ooakdata.com

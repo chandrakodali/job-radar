@@ -17,8 +17,8 @@ Monthly downloads
 60k+
 GitHub stars
 Across our open-source projects
-Pydantic 29.4k
-Pydantic AI 21.1k
+Pydantic 29.5k
+Pydantic AI 21.2k
 Monty 8.9k
 Logfire 4.5k
 The Pydantic Open Source Fund

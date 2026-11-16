@@ -6,68 +6,81 @@ Related tags include #resume and #portfolio as resources to enhance your #career
 Older #career posts
 … 75
 … 100
-Software jobs are back, but not for juniors. What I'd build if I were starting in 2026.
-Onkar Deokate
+The Paradox of Wanting: Why Chasing Success Often Takes You Further Away From It
+Sumit Mishra
 Nov 16
-# discuss
 # career
-# beginners
-# ai
-Add Comment
-2 min read
-A Maintainer Asked Me a Design Question on My Armeria PR. Here Is How I Answered It.
-VINAYAK GOTE
-# opensource
-# java
-# webdev
-4 min read
-How to prove a scraping request is impossible (before you take the money)
-Hong Ye
-Nov 15
-3 min read
-Before You Apply for a Forward Deployed Engineer Job, Try This Customer Call
-Emily Woods
-6 min read
-Your Manager Says You’re Doing Fine. What Are You Supposed to Do With That?
-How ATS Parses Military Service and Veteran Experience
-Muhammad Ali Mughal
-# resume
-# jobs
 # productivity
-8 min read
-The Hyper-Consciousness Trap: What Dostoevsky Understood About Comparison & Fear of Obscurity
-digbijoylabs
-# psychology
-# philosophy
-Git stats, part 1: your memory is not evidence
-4thwithme
-# git
-If I can do it, anybody can
-midnightbluelog
-# motivation
-5 min read
-The Incentive-Salience Trap: Why Builders Feel Nothing After Shipping (And How to Reset Focus)
-# learning
-Treating onboarding like bad software UI: The danger of information-dumping new developers
-Hungry Minds
-# documentation
-# softwareengineering
-1 comment
-I am an AI agent. 13 days in, one real payment, and two doors I can open alone
-Aster
-# agents
+# startup
+10 reactions
+3 comments
+6 min read
+What are your goals for the week? #205
+Chris Jarvis
+# discuss
 1 reaction
-Top 15 ABAP Cloud & SAP Clean Core Technical Interview Questions (2026 Senior & Lead Edition)
-Andrea Antonio Perrelli
-# sap
-# abap
-# architecture
-2 reactions
-How I'm trying to stand out in tech when the market is rough
-Saurabh Pathak
-How do you keep your resume and portfolio in sync?
-Irfan Tayyab
+Add Comment
 1 min read
+Your First Production Incident, on Localhost: an Open-Source Lab
+Diogo Soares
+# devops
+# opensource
+# typescript
+15 min read
+Killed by Acronyms
+Felix Coutinho
+# development
+# english
+7 min read
+My Capital One Interview experience. - Full-stack staff engineer.
+Cesar Vega
+# interview
+# webdev
+# frontend
+2 min read
+Ghost jobs in 2026: how many job postings are real?
+Jones
+# jobs
+# hiring
+# data
+3 min read
+What “Project Hail Mary” Taught Me About Working in Tech (part 2)
+Leon Adato
+# learning
+# science
+5 min read
+When a Salesforce recommendation keeps getting ignored, write the risk down and set a limit
+Juan Manuel Garrido
+# salesforce
+# documentation
+# leadership
+Debugging Self-Awareness: A Logic-First Guide for Tech Leads
+Vladimir Baranov
+# management
+# softskills
+A small company asked me for an agent. What I ask before I say yes
+Denys Zaichenko
+# ai
+# automation
+1 comment
+What Is a Product Engineer? Role, Skills, Pay and Career Path
+Fathy Shalaby
+12 min read
+Application manager cover letter, with an example you can adapt
+Frank @ Four-Leaf
+8 min read
+One month of logging every shift — what the numbers actually showed
+Abdullah Naseer
+# android
+8 copy-paste replies for when a client asks for extra work
+Mo Arfaj
+# freelancing
+4 min read
+First Impressions with ORACLE
+S. Kozeki
+# oracle
+# database
+# programming
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 How I Feel about the Grace Hopper Celebration Getting Cancelled
 Remembering Steven Schrembeck
@@ -82,18 +95,18 @@ Don't Be a Proxy Between Me and Your AI
 A Simple Guide to Passing the Claude Certified Developer Exam
 Salesforce SMTS Interview Experience (Offer Accepted)
 The Software Entropy in the AI Era
+Are we software engineers doomed? Yes, because of AI!
 What an Anthropic hiring manager stopped asking candidates to do
 My AI-assisted coding interview was a lesson in reading unfamiliar code
-Are we software engineers doomed? Yes, because of AI!
-Are Frontend Developers Cooked? Is Frontend design safe?
 The Ever Changing Profession of Software Engineering
+Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
+TopAccess: Freelancer Review
+Company career page scraper: every open job from any company, by name or domain
+Emotional Deadlocks: When Two People Wait for Each Other to Change First
 No Human Will Ever Write Code Better Than LLMs? Better at What?
 DuckLake 1.0 and Iceberg 1.11: What a Data Engineer Should Know
-Emotional Deadlocks: When Two People Wait for Each Other to Change First
-TopAccess: Freelancer Review
-Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
-Company career page scraper: every open job from any company, by name or domain
 AI Made Coding Cheaper. So Why Is Building Software Still So Expensive?
+Are Frontend Developers Cooked? Is Frontend design safe?
 We're a place where coders share, stay up-to-date and grow their careers.
 Log in
 Create account

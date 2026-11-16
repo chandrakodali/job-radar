@@ -106,13 +106,10 @@ Senior Internal Communications Manager
 Remote, Texas, United States, AMER
 Remote, Pennsylvania, United States, AMER
 Remote, Washington, United States, AMER
-VP, Total Rewards and People Operations
-Remote, Massachusetts, United States, AMER
-Remote, Illinois, United States, AMER
-Remote, Georgia, United States, AMER
 IT & Sec Department
 Manager Security Engineer, Operations
 GRC Staff Engineer
+Remote, Massachusetts, United States, AMER
 Legal Department
 Senior Commercial Counsel
 USA - Philadelphia (dbt)
@@ -145,7 +142,6 @@ Senior Technical Instructor (US East)
 Remote, Maryland, United States; Remote, Massachusetts, United States, AMER; Remote, New Jersey, United States, AMER; Remote, New York, United States, AMER; Remote, Pennsylvania, United States, AMER; Remote, Virginia, United States, AMER; Remote, Washington DC, United States, AMER
 Resident Solution Architect
 Sales Department
-Senior Account Executive, Enterprise
 Senior Sales Engineer, Commercial
 Dublin, Dublin, Ireland, EMEA
 Senior Sales Engineer, Enterprise
@@ -161,15 +157,16 @@ Remote, Illinois, United States, AMER; Remote, Indiana, United States, AMER; Rem
 Sales Director
 Enterprise Account Executive
 Remote, Minnesota, United States, AMER
-Senior Solutions Architect
 Remote, Arizona, United States, AMER
+Senior Account Executive, Enterprise
 Remote, Any, Sweden
 Business Development Representative (Sydney)
 Sydney, New South Wales, Australia, APAC
 Business Development Representative (Denver)
 UKI Enterprise Sales AE
+Senior Solutions Architect
 Manager, Sales Engineering Specialists
-Principal Partner Solutions Architect
+Principal Partner Solutions Architect (GSI)
 Sales/Business Development Team
 Business Development Representative
 Business Development Representative - German Speaking
@@ -182,6 +179,8 @@ GTM Strategy & Planning Manager
 Revenue Operations Manager
 Global Head of Deal Strategy and Operations
 Senior Partner Operations Manager
+Remote, Illinois, United States, AMER
+Remote, Georgia, United States, AMER
 Systems Engineering Department
 Sr. Staff Technical Product Manager – Customer Support
 Senior Staff Software Engineer

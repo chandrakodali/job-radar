@@ -1,149 +1,119 @@
-New Blog: wfx GitHub Actions Credential Stealer Hits 8,000 Repos
-12 Nov 2026
-SafeDep Threat Intel is live Threat Intel is live Explore
-Your biggest AppSec blind spot is the code you never wrote.
-Attackers don't target your code. They target what you install: packages, MCP servers, IDE and agent extensions. SafeDep blocks malicious packages at every entry point, before they run.
-Start for Free Talk to a human
-No credit card Free forever for individual use Start with GitHub
-Featured in
+New Blog: wfx GitHub Actions Credential Stealer Hits 8,000 Repos 12 Nov 2026
+For hands-on security engineering teams
+Software supply chain security at machine speed
+Block malicious packages before they run, on developer machines, AI coding agents, code repositories and CI/CD. Every install is checked against real-time threat intel and your policy, managed from the CLI or Git.
+Start Now Talk to a human
+Open core. Free to start: protect your first endpoint or repository, no credit card. SOC 2 Type II · ISO 27001 (SafeDep trust center)
+Prefer your agent?
+Help me roll out SafeDep. Install the SafeDep skill (npx skills add safedep/skills) and learn what SafeDep can do. Then interview me about our setup: developer machines, code repositories, CI/CD, AI coding agents and the tools we already use to manage them. Propose a rollout plan that fits, then carry it out with me. Ask before each change, and tell me which steps need me.
+Our research, as covered by
 TechCrunch
 The Register
-THN (The Hacker News)
-Hacker News
-CSO ONLINE
 Dark Reading
+CSO Online
 tl;dr sec
-Caught in the wild
-This isn't theoretical.
-We find it in real time.
-SafeDep analyzes every package published to the major registries, around the clock. Our research team publishes the breakdown, often before the ecosystem has an advisory.
-2026-05-19 npm Mini Shai-Hulud Strikes Again: 317 npm Packages Compromised One compromised maintainer account published 637 malicious versions. 317 packages
-2026-03-24 PyPI Malicious litellm 1.82.8: Credential Theft and Persistent Backdoor A .pth file triggers credential theft the moment the package installs. AWS + K8s secrets
-2025-11-24 npm Shai-Hulud 2.0 npm Supply Chain Attack Technical Analysis Self-replicating malware in zapier-sdk, @asyncapi, posthog and @postman. 25,000+ repos
-Packages Scanned
-20M+
-Components Analysed
-500K+
-Projects Secured
-5000+
-Avg Detection Lead
-14hr
-Read the threat research
-The problem
-Malicious code doesn't break in.
-It gets installed.
-Third-party code arrives at every hand-off in your pipeline, from a developer's terminal to an org-wide registry. Each arrival is an execution, and none of it was reviewed by anyone on your team.
-Developer machine
-What gets in
-npm / PyPI installs
-IDE extensions
-MCP servers
-AI coding agent
-agent skills
-plugins
-tools it invokes
-Repository / PR
-new dependencies
-transitive deps
-CI/CD pipeline
-build-time pulls
-base images
-Registry / org-wide
-everything pulled
-shared caches
-Five entry points. One unchecked component is enough.
-The answer
-SafeDep guards the same five stages.
-One policy, enforced everywhere the component travels, so it is inspected before it runs, merges, builds or spreads across the org.
-Dev machine
-Blocked on install
-malicious package firewall
-AI agent
-Blocked in-agent
-skills, plugins, MCP vetted
-Repo / PR
-Blocked at PR
-policy check on new deps
-CI/CD
-Blocked at build
-gate before artifacts ship
-Org-wide
-Blocked org-wide
-one policy, every team
-Why SafeDep
-Pick a layer.
-See what SafeDep does there.
-Credential theft, reverse shells, data exfiltration. These are purpose-built attacks, not bugs a vulnerability scanner can match against a database. Every screen below is the real product.
-Block the install, on every machine
-SafeDep sits in front of npm, pnpm, pip, uv, bun and other package managers and blocks malicious packages at install time, before any post-install script runs. Every decision lands in one fleet view, alongside a live feed of what was just blocked and where.
-Refused at install time, not flagged next week
-Laptops, CI runners and servers in one view
-Live feed of blocked packages, per endpoint
-app.safedep.io / endpoints
-Explore developer security
-Every package your agent pulled, with a verdict
-SafeDep MCP checks each package an agent wants before it installs. The advisory trail shows which agent asked for what, so a malicious pull is attributed rather than anonymous.
-A verdict per package, attributed to the agent
-Works with Claude Code, Cursor and Windsurf
-Malicious packages refused, not merely flagged
-app.safedep.io / endpoints / advisor
-Explore the MCP server
-See the AI tooling nobody registered
-vet inventories what each machine actually has loaded: coding agents, MCP servers and CLI tools, with scope and version. None of it appears in a lockfile, so none of it shows up in a repo scan.
-Coding agents, MCP servers and CLI tools discovered
-Scoped per machine, per project and per user
-An inventory snapshot, not your source code
-app.safedep.io / endpoints / inventory events
-Explore AI discovery
-Every dependency reviewed before it merges
-The GitHub App posts a summary on each pull request: malware, vulnerability and license checks, with a verdict per package. It runs as a required check, so nothing reaches main unreviewed.
-Malware, vulnerability and licence in one report
-A verdict per package, posted on the pull request
-A required check, so nothing merges unreviewed
-github.com / acme-org / acme-web-app / pull / 241
-Explore SCA & SBOM
-The build fails before the install lands
-SafeDep runs as a proxy in the pipeline and intercepts every package install. A malicious package is stopped before it reaches the runner, and the job exits non-zero on the policy violation.
-Installs intercepted, not audited after the fact
-Blocked before it ever touches the runner
-Fails the job on any policy violation
-github.com / safedep / example-app / actions
-Explore CI/CD security
-Open core
-Start on your laptop.
-Roll out to the org.
-Every enforcement point is open source and auditable, so there is nothing to take on trust. SafeDep Cloud is what turns those same tools into protection for a whole organization.
+The Hacker News
+A real attack, replayed
+Three real attacks, and the control that stopped each one
+SafeDep checks every install with three controls: threat intel for known threats, a cooldown that holds back fresh releases, and a sandbox for install scripts. Pick an attack to replay it.
+litellm 1.107.0 PyPI · 21 Oct 2026
+Held by the cooldown, then blocked everywhere once SafeDep confirmed it
+Never ran: the payload on every Python start, the credential theft
+SafeDep Cloud · 4 hosts · 3 stopped · 1 needs action Read the analysis
+Everything external
+See, protect and investigate everything your developers and agents bring in
+Visibility Every machine, agent and pipeline reports what it installs from open source.
+Protection Threat intel and your policy check every install at every point. Malicious ones stop there.
+Investigation When an attack makes the news, “Am I affected?” is one query.
+See how it works
+Developer Security
+Secure your developer infrastructure
+It fits the stack you already run, and developers keep their tools.
+Day 0 Protect With the tools you already run
+Rollout
+Developer machines MDM
+AI agents SafeDep MCP
+Repositories GitHub App
+CI/CD GitHub Actions
+protection on by default
+Day 1 See Everything already installed
+Visibility
+AI tools found
+Coding agents 6
+MCP servers 37
+Agent skills 112
+IDE extensions 214
+418 laptops · 62 repos
+Week 1 Tune Your guardrails, managed like code
+Policy
+policy.yaml · merged
+Block known malicious
+Hold releases under 24h old
+Fail pull requests on malware
+live on every point
+Every day Verify Proof it works, on the record
+Investigation
+this week · every point
+Installs checked 12,480
+Stopped at install 9
+Needs your team 0
+Am I affected? No · stopped on all 3 hosts
+ask with SQL or your agent
+threat intel keeps the policy current
+Start Now See how Developer Security works
+Threat Intel
+Stream supply chain threat intel into your SOC
+For security operations teams: the intel that protects SafeDep Cloud customers. Malicious packages, attacker domains, C2 URLs and the campaigns behind them, confirmed by SafeDep research.
+Get Threat Intel for your SOC Browse the public hub
+Recently confirmed by SafeDep Indicators shown defanged.
+Confirmed: 2026-09-23 Type: PyPI Indicator: MemoryOS@2.0.34 Campaign: sckit
+Confirmed: 2026-09-30 Type: URL Indicator: hxxp://198.105.127[.]210:443/boot Campaign: PolinRider
+Confirmed: 2026-09-23 Type: domain Indicator: skyleen[.]fr Campaign: sckit
+Confirmed: 2026-09-23 Type: npm Indicator: @memtensor/memos-cloud-openclaw-plugin@0.1.21 Campaign: sckit
+Confirmed: 2026-09-30 Type: IP Indicator: 23.27.20[.]187 Campaign: PolinRider
+Download a free sample: ioc.csv, 1,053 indicators
 Open source
-For the individual developer
-The command-line tools that do the actual blocking. Free forever, and yours to read.
-brew install safedep/tap/pmg
-Block malicious installs on your own machine
-Scan any repo or pipeline with policy-as-code
-Guardrails for your AI coding agent
-Apache-2.0, no account, no telemetry
-View on GitHub
+Open core.
+A unified platform for your team.
+Every enforcement point is open source. Your security team can read the code, run it on one endpoint today and verify what it does. When you are ready, SafeDep Cloud brings every point under one platform.
+Start with open source · free
+PMG Blocks malicious packages at install, with a sandbox for install scripts.
+vet Finds risky dependencies and inventories AI tools.
+Gryph The security layer for AI coding agents.
+xBom Discovers the AI models and SaaS services your code uses.
+Start with open source · free PMG · vet · Gryph · xBom
+For teams
 SafeDep Cloud
-For the security team
-Everything in the open source tools, plus the org-wide layer: which components exist, who pulled them in, what policy blocked what, and proof for the audit.
-One policy enforced at every entry point
-Org-wide inventory and component lineage
-Exceptions, approvals and audit history
-SSO, tenants and role-based access control
-Start for Free See pricing
-Works across your stack
-Latest from SafeDep
-Threat research from the supply chain frontline
-Read the blog
-Engineering Nov 13, 2026
+Connects the open source enforcement points into one platform your team runs together.
+Inventory of AI tools and packages across machines, repositories, pipelines and agents
+Policy you set once and manage from the CLI or Git
+A record of every install and block, with alerts and evidence for audit
+Real-time threat intel at each enforcement point
+What SafeDep Cloud adds
+See pricing
+Research
+The research behind our threat intel
+We publish what we find, with the code and the indicators.
+2026-11-16
+Malicious wppconnect Release Steals Secrets and WhatsApp Sessions
+Version 2.4.1 of @wppconnect-team/wppconnect and version 2.10.82 of @wppconnect/server shipped a credential stealer that runs on import or server start. It sends environment variables, .env files and WhatsApp session tokens to a Telegram bot. The repository history was then rewritten to hide the code.
+2026-11-13
 The Rules That Moved safedep.io from Astro to Next.js 16
 Lint before code, useEffect banned, complexity capped at 15, clicks 2.4× faster, and an interactive guide to choosing your Next.js caching setup.
-Malware Nov 12, 2026
+2026-11-12
 wfx: GitHub Actions Credential Stealer Hits 8,000 Repos
 Since November 10, 2026, an attacker has used stolen GitHub tokens to push a credential stealer into more than 8,000 repositories. It runs once in GitHub Actions or on npm install, sends secrets and cloud credentials to the attacker, and leaves cloud backdoors. Then the attacker reverts the commit.
-Malware Updated Nov 11, 2026
+2026-11-11
 Compromised bee-js and Swarm Desktop Steal Swarm Wallet Keys
 Version 13.3.0 of @ethersphere/bee-js, the JavaScript client for Swarm, added a postinstall hook that steals the Swarm node wallet key and installs a remote-access backdoor. Swarm Desktop 0.56.2 shipped the same loader.
-Ship code.
-Not malware.
-Start free with open source tools on your machine.
-Scale to a unified platform for your organization.
+2026-11-10
+Backdoored PyPI Package fragment-api-py 14.4.2 Drains TON Wallets on Startup
+Version 14.4.2 of fragment-api-py, a PyPI client for Telegram Fragment, sends all TON and USDT from the user wallet to an attacker wallet when the client opens. The release is the old 13.0.0 code with a backdoor and a new version number.
+All research on the blog
+Ship code. Not malware.
+Start free with your first endpoint or repository, then roll out across your organization at your own pace.
+Start Now Read the docs
+Free to start, no credit card. SOC 2 Type II · ISO 27001 (SafeDep trust center)
+Need help? Talk to a human
+Pricing
+Blog

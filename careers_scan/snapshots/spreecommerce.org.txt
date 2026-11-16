@@ -40,4 +40,4 @@ Stock Reservations and Order Routing in Spree Commerce: Stop Overselling and Shi
 June 26, 2026
 How Ops, Marketing, and Customer Care Do More With AI Agents
 June 24, 2026
-The Spree Commerce CLI: Get More Done With Less Busywork
+Sales Channels in Spree Commerce: Sell Everywhere From One Backend

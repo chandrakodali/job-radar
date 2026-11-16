@@ -1,41 +1,54 @@
-Fountain for Hiring Managers
-Improve your pipeline with a simplified application to hire the right candidates for your business
-Get Started
-Don’t let clunky technology prevent you from hiring quickly.
-You need top talent to start working, fast. But bottlenecks are slowing things down. It doesn’t have to be this way.
-Overwhelming responsibilities
-You need to staff operations quickly to keep customers happy, but hiring isn’t your only job.
-High turnover rates
-High turnover rates for hourly positions leave you constantly filling vacancies and forced to keep a healthy talent pipeline and manage a steady flow of candidates.
-Minimal budget
-You don’t have the time or resources to spend on acquiring (and training) new talent. You need qualified applicants who will show up on day one.
-Time-to-fill is the number of days from when the job requisition opens until the candidate accepts the offer.
-An ATS for hiring hourly workers
-With Fountain, make hiring easy with automation, efficiency, and customization.
-Hire the right people
-Connect with best-fit candidates faster through smart workflows, and ensure you’re only spending time on the most qualified applicants.
-Get workers to day one on the job
-Leverage automation and speed within the hiring process to save organizational time and resources.
-Make fast decisions
-Save time by automating mundane tasks, and spend your energy on high-impact interactions with qualified candidates.
-Simplify your hiring
-Take advantage of a customizable and easy-to-use tool that will increase hiring efficiency and enable you to build the right funnel based on your needs and openings.
-Built for hiring managers
-Fill open roles faster
-Accelerate hiring through the power of automation and AI to find, screen, and schedule interviews with candidates.
-Automate hiring tasks
-Hiring is a never-ending priority, but it’s not your only responsibility. Automate time-intensive tasks so you can stay focused on other mission-critical functions.
-Mobile-first technology
-Screen, interview, and hire applicants in real time on desktop or mobile devices—anywhere, anytime.
-Live and recorded video interviews
-Schedule live interviews or collect pre-recorded interviews to ensure you’re getting the best people for your top customer-facing roles.
-Easy assessments
-Use assessments to measure skills, aptitude, personality, and emotional intelligence to predict culture fit and job performance.
-Customization
-Use Fountain’s drag-and-drop workflow editor to adjust hiring stages as needed and edge out retail competition during busy hiring seasons, like annual holidays.
-Voices driving frontline success
-Within 4 months of using Fountain, Turas Group communicated with more than 10,000 applicants and filled more than 200 positions, while bringing the average time-to-offer from 2 weeks down to 3 days.
-Elevate your recruiting and hiring process with Fountain resources.
-High volume recruitment process: 6 strategies for improvement
-Read
-Turas Group: Decreased time-to-hire by 78%
+Trusted by +500 of the top frontline employers
+Ask it. Run it.
+Fill your open roles with a single prompt. “Fill my three open roles for next week.”
+Get a demo
+The problem
+Hiring shouldn't cost you your shift.
+You need people on the floor, and hiring arrives as forms, follow-ups and a shortlist that misses what the job actually needs. You run the interviews between shifts, the role stays open, and your team covers the gap.
+Cue for hiring managers
+Watch how Cue brings you people ready for a yes.
+From a single prompt, Cue opens the role, screens the applicants and returns a ranked shortlist with interview notes.
+Run your team. Just Ask .
+Fill my three open roles for next week.
+Give me my shortlist for tomorrow’s interviews.
+Who starts on my team Monday?
+Ask anything
+The Fountain Suite
+Every tool your team needs. One platform.
+Gartner®
+Industry recognition that speaks for itself
+Fountain has been recognized in the 2026 Gartner® Magic Quadrant™ for Talent Acquisition (Recruiting) Suites — a testament to our commitment to building the most effective hiring platform for frontline teams.
+Read the report
+Massive impact. Real outcomes.
+View all stories
+48%
+increase in offer acceptance, with a 23% decrease in no-shows
+50%
+improvement in conversion through the interview stage
+16%
+increase in day-one retention
+Meet Your Talent Agents
+Cue deploys AI agents that call, qualify, and resolve automatically.
+See it in action
+Anna, AI Recruiter
+Screens every candidate, 24/7, so you never miss top talent.
+Emma, AI Onboarding Support
+Gets every new hire ready, handling every form and question before day one.
+Sam, AI Retention
+Keeps your team connected and motivated. The result: engage, retain, repeat.
+Powered by Cue
+Your roles don't fill themselves. Cue does it for you.
+Cue takes the request, works the pipeline and comes back with people ready for a yes, so your part of hiring stays a decision.
+Certificated & Compliant
+Fountain holds the certifications your IT and Legal teams require.
+SOC 2
+Audited security controls and role-based access.
+ISO 42001
+Certified AI management. Every action logged.
+GDPR
+Compliant data handling across every region.
+Your tools stay. Cue connects them.
+One prompt runs actions across your stack, from job boards to your workforce management system, with no manual handoff.
+View all integrations
+We'd love to hear from you!
+Fill out the form and a team member will get back to you as quickly as possible.

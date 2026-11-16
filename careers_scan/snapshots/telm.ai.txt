@@ -26,14 +26,14 @@ During the pilot with Telmai, we were impressed with the no-code, low-code and v
 Lisa Wilsson
 Tech lead
 Articles
+What’s New With Telmai – 2026
+Nov 16, 2026
 What The Purview Data Governance Retirement Means For Your Data Quality
 Nov 12, 2026
 Telmai Joins the Apache Ossie Ecosystem to Bring Observed Context to Semantic Models
 Nov 05, 2026
 Bringing Context-Aware Data Observability To Unity Catalog
 Oct 07, 2026
-Telmai on the Google Cloud Lakehouse: A Trust Layer Built for Joint Customers
-Jun 25, 2026
 Join us today
 Apply today
 Learn more about Telmai

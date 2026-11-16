@@ -1,8 +1,8 @@
 Saleor Commerce Cloud
 API Calls Hourly
-426,361
+890,989
 24h peak
-899,768
+1,051,550
 Handling 1B+ requests a month
 Transacting 400k orders a month
 Open Source
@@ -50,7 +50,7 @@ Extensible. Both API and Dashboard UI.
 Efficient. Even with huge datasets.
 02 Unrivalled Extensibility
 Extend Saleor with any stack:
-Automation. Automate you workflows end-to-end. Enable powerful CI/CD, codify and version everything via commits and Configurator CLI tool.
+Automation. Automate your workflows end-to-end. Enable powerful CI/CD, codify and version everything via commits and Configurator CLI tool.
 Modelling. Composable commerce requires precise, structured data. Define products and models dynamically with types, attributes, and metadata .
 Delegation. Extend or override default flows with synchronous callbacks and granular permissions. Integrate seamlessly via OIDC with your existing identity provider.
 Beta
@@ -61,7 +61,7 @@ Omnichannel. Process orders from every channel—web, mobile, retail, agentic, a
 Headless/API-native. Content and context decoupled. Build commerce into any experience.
 Open source. Full control and freedom to scale. No black boxes, no lock-in.
 04 Say goodbye to vendor lock-in
-Own your stack. Control your entire solution and protect the core of your business in a shifting commerce landscape. Say goodbye to the vendor lock-in.
+Own your stack. Your code. Your data. Your choice of what runs where. Replace any part or move to self-hosting without vendor lock-in.
 Moving from a monolithic platform to composable commerce was a bold challenge, but one that was necessary to truly transform our business.
 Rajesh Shanmugasundaram , CTO
 Not a black box. Saleor is available as an open source code—transparent by design.
@@ -72,7 +72,7 @@ No hostages. Never get trapped by a SaaS platform again.
 But let's be honest — not for everyone
 Saleor is for commerce teams that want control and flexibility. More freedom, more power… and yes, a bit more responsibility and commitment. We might not be for you if:
 Love tight coupling
-Your engineers may not want to work in the programming language they're already proficient with, right? They may not either care about the industry standards. And maybe they love all those obscure DSLs to be part of their job.
+Your engineers may not want to work in the programming language they're already proficient with, right? Maybe they don't care about industry standards either. And maybe they love all those obscure DSLs to be part of their job.
 Love proprietary standards
 Who doesn’t!? Well, we don’t. Saleor is for those who prefer loose coupling, flexible service oriented architectures, high degree of independence for individual teams and developers.
 Prefer to go alone
@@ -84,10 +84,10 @@ Read the Merchants Autonomy manifesto →
 Saleor Cloud
 You sell.
 We do your tech.
-Our engineers join your team. The code and the data stay yours. Ship faster and scale smarter working with Saleor engineers. Spent time building advantage, not babysitting infrastructure.
+Our engineers join your team. The code and the data stay yours. Ship faster and scale smarter working with Saleor engineers. Spend time building advantage, not babysitting infrastructure.
 Built for scale. Enterprise-grade infrastructure with guaranteed uptime. SOC 2 , GDPR, PCI-DSS compliant.
 Built for control. Total engineering and creative control. Full stack ownership. Transparent terms, no lock-in.
-CX support. Tailored onboarding by our engineers. Your team ships faster. Your business stays focus on the core.
+Engineer-led onboarding. You don't have to figure it all out yourself. Our engineers help your team launch.
 Core team. Direct access to the people who built Saleor. When you need expertise, you get it straight from the source.
 Beyond hosting →
 Create: Projects, Sandboxes, Snapshots
@@ -101,7 +101,7 @@ Adam Goswell , Head of Digital →
 globally available for click & collect
 £690M
 turnover and growing across digital and in-store
-50 markets selling in different currencies and languages
+Selling in 50 markets in different currencies and languages
 We’ve built and customized over 15 services tailored specifically to our needs, enabling online-to-offline and offline-to-online capabilities that seamlessly bridge our digital and in-store experiences.
 Rajesh Shanmugasundaram , CTO →
 250+ stores blending digital experience with unique character
@@ -110,7 +110,7 @@ All global markets including the non-ecommerce ones
 Join our
 open source
 community
-With over 21.8k stars on GitHub , Saleor is the leading open source MACH ecommerce platform.
+With over 23.6k stars on GitHub , Saleor is a popular open source ecommerce platform.
 Commerce as Code
 Your commerce end-to-end
 codified, versioned, and monitored.
@@ -126,7 +126,7 @@ Get insight into your entire distributed system built with Saleor. Use OpenTelem
 Read more →
 Future-proof your commerce with composable API
 Integrate anything, adapt to everything. Extend merchant experience on top of Saleor administrative Dashboard. Keep everything in sync across the stack with our expressive API and 160+ webhooks.
-Query smarter. Use robust GraphQL for granular control across your all experiences, apps, and services.
+Query smarter. Use robust GraphQL for granular control across all your experiences, apps, and services.
 Dashboard UI Extensions. Plug in your own UI with 45+ flexible mount points. Integrate tools, shortcuts, and custom views directly into Saleor’s dashboard — no forks or hacks required.
 Control payloads. Use subscriptions queries to shape the data you receive. Harden your apps and control the flow of information.
 Add filters. Reduce the noise by getting only the relevant events.

@@ -1,16 +1,20 @@
+📝 Blog Post
+Chris’ Corner: Sourcemaps
+Sourcemaps aren’t new, but they’re still fascinating. Neciu Dan recently wrote a good overview article. The CSS and JavaScript we write are likely processed before they become the CSS and JavaScript sent over the internet to a browser. An obvious one is that you might author TypeScript, which is then processed into JavaScript, then bundled, […]
+Read More
+of the article "Chris’ Corner: Sourcemaps"
+November 16, 2026
+Chris Coyier
+Co-Founder
 🎧 Podcast
 448: CSS Modules is Cool Again
 Shaw and Chris talk CSS Modules, a rather old bit of technology in the CSS-in-JS category. CodePen now supports them, which took a little work because the way they process code is a smidge unusual. We use CodePen Modules (with Sass!) here at CodePen so we knew we wanted to support them, but we got […]
-Read More
 of the article "448: CSS Modules is Cool Again"
 November 10, 2026
-Chris Coyier
-Co-Founder
 447: WebMCP Rules (and We Already Have It)
 Chris & Shaw are chatting this week about the newfangled web technology, WebMCP. It involves new browser APIs like document.modelContext, meaning it needs to be a web standard, and that process is chugging along, but certainly not a done deal. That said, CodePen already has it conditionally implemented for browsers that support it, so you […]
 of the article "447: WebMCP Rules (and We Already Have It)"
 November 7, 2026
-📝 Blog Post
 Chris’ Corner: Doin’ Stuff in CSS
 The float property in CSS is old school. CSS developers used to have to think about it all the time, because it was one of the mechanisms we had for building actual layouts like side-by-side columns and stuff. Those days are gone, but it doesn’t mean float as a property is entirely dead. It remains […]
 of the article "Chris’ Corner: Doin’ Stuff in CSS"
@@ -39,7 +43,4 @@ October 6, 2026
 Stephen and Chris jump on the podcast to talk about our (ahem, super cool) deployment feature. Any Pen can be a website! Well, they kinda are already, but you know what I mean. If you’re a PRO user all you do is click a button and the Pen is instantly deployed at a *.codepen.app website. […]
 of the article "442: Pens are Actually Websites"
 September 30, 2026
-Chris’ Corner: Sweet Typography
-Choosing beautiful and unusual fonts and implementing them in visually compelling ways is certainly a way to stand out in this period of so many websites looking same-y. I figure it’s a good week to send some sweet typography links I’ve saved (in the form of screenshots): Notable to me: Apple has a dedicated icons […]
-of the article "Chris’ Corner: Sweet Typography"
 ← Older posts

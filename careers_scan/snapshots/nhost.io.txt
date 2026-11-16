@@ -35,12 +35,7 @@ A yearly allowance for books, courses, and conferences. We invest in your growth
 Team offsites
 Once or twice a year we meet up in person to ship, plan, and enjoy each other’s company.
 Open positions
-1 open role — find the one that fits.
-Engineering
-Senior Software Engineer, Backend & Operations
-Design highly available, cloud-native systems and ship product features at the intersection of backend and infrastructure operations.
-Remote • Full-time
-View role
+0 open roles — find the one that fits.
 Don't see a role for you?
 We're always interested in talking to exceptional people. If you think you can move the needle here, reach out — tell us what you'd do and what you've built.
 careers@nhost.io

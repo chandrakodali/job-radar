@@ -160,7 +160,7 @@ On-Site Work | Vienna | full-time
 The support team at Proxmox is responsible for providing technical support to clients of our open-source product suites.
 About the Role
 You will diagnose and troubleshoot software and hardware problems and help our clients solve their problems and minimize their downtime.
-You will use email and ticketing systems to provide timely responses to clients and help them keep their IT systems fully functional (no phone support, no 24/7).
+You will use email and ticketing systems to provide timely responses to clients and help them keep their IT systems fully functional (no phone support).
 Software testing and benchmarking are part of your tasks.
 You will provide technical pre-sales support.
 You have patience in repeatedly explaining the same simple or complex solutions.

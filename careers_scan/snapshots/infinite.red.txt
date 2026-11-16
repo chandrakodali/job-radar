@@ -4,7 +4,7 @@ Podcasts
 Talks
 Newsletters
 Chain React Conf
-Building your software. Anywhere it needs to be.
+Building your apps, anywhere they need to be.
 Infinite Red is known world-wide as the U.S.-based software agency
 when you want the highest quality software and top-notch team.
 Our highly skilled software developers (averaging 15 years of professional software development experience) have built hundreds of apps across mobile, web, desktop, and beyond in technologies such as React Native , Expo , Swift , and Kotlin over the last decade, and now are leading the way in agentic coding.
