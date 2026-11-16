@@ -11932,17 +11932,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 125,
+   "n": 126,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 125,
+   "n": 126,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 125,
+   "n": 126,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14409,11 +14409,6 @@
    "err": "HTTP 410",
    "n": 4,
    "since": "2026-11-08"
-  },
-  "workday:amat|wd1|External": {
-   "err": "invalid JSON",
-   "n": 1,
-   "since": "2026-11-16"
   },
   "workday:amplify|wd1|Amplify_Careers": {
    "disabled_until": "2026-11-21",
