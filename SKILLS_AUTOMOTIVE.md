@@ -1,6 +1,6 @@
 # Auto Radar: what the matching jobs ask for
 
-Counted over the job descriptions of **1582 current matches** (boilerplate left out). "Asked for" = named in the requirements or the main duties; "Required" = named under required/basic qualifications or in the title.
+Counted over the job descriptions of **1583 current matches** (boilerplate left out). "Asked for" = named in the requirements or the main duties; "Required" = named under required/basic qualifications or in the title.
 
 ## Skills the resume shows, most asked first
 
@@ -12,7 +12,7 @@ Make sure each of these is written on the resume in the words employers use: rec
 | C++ | 730 jobs (46%) | 477 (30%) |
 | Python | 646 jobs (41%) | 401 (25%) |
 | C | 535 jobs (34%) | 351 (22%) |
-| Controls/algorithms | 519 jobs (33%) | 253 (16%) |
+| Controls/algorithms | 520 jobs (33%) | 253 (16%) |
 | CAN/CAN FD | 464 jobs (29%) | 250 (16%) |
 | Functional safety | 417 jobs (26%) | 178 (11%) |
 | Requirements engineering | 345 jobs (22%) | 114 (7%) |
