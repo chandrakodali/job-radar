@@ -11970,17 +11970,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 51,
+   "n": 52,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 51,
+   "n": 52,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 51,
+   "n": 52,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13294,7 +13294,7 @@
   ],
   "2026-11-16": [
    101,
-   444
+   448
   ]
  },
  "resolved": {
@@ -64176,9 +64176,11 @@
   "amazon:us:10606504": "2026-11-16",
   "amazon:us:10606506": "2026-11-16",
   "amazon:us:10606507": "2026-11-16",
+  "amazon:us:10606509": "2026-11-16",
   "amazon:us:10606546": "2026-11-16",
   "amazon:us:10606633": "2026-11-16",
   "amazon:us:10606680": "2026-11-16",
+  "amazon:us:10606737": "2026-11-16",
   "apple:usa:200555687": "2026-11-14",
   "apple:usa:200665281": "2026-11-14",
   "apple:usa:200666022": "2026-11-14",
@@ -64382,6 +64384,7 @@
   "ashby:horizon3ai:699049f9-b0de-40d1-bee6-2281fffd3d7d": "2026-11-14",
   "ashby:humatahealth:8c835888-2b50-4115-bf6f-a0ed490c6462": "2026-11-14",
   "ashby:imprint:0e6955fb-133f-4d72-a53d-f926e99b531e": "2026-11-16",
+  "ashby:inductive-automation-llc:04db2aa7-6af8-4d99-abf5-c94adb911961": "2026-11-16",
   "ashby:infisical:46541b52-967f-4caf-96ed-9a59f1a80aa8": "2026-11-14",
   "ashby:infisical:a7c8a660-ae2a-467c-91dd-db34cfce29e7": "2026-11-14",
   "ashby:irissoftwaregroup:3e27d866-2eea-40e0-91a5-b7aa38621675": "2026-11-14",
@@ -64390,6 +64393,7 @@
   "ashby:joinpogo:fcac7c25-5320-4c03-907c-d2d40fd0ffaf": "2026-11-14",
   "ashby:kalshi:37afb8e0-2db4-4342-b479-f526bb860e42": "2026-11-14",
   "ashby:kira:a9f0c04c-a091-426c-b0c1-0ec93d3ad824": "2026-11-14",
+  "ashby:knox-systems:9efed247-8c24-4e21-904d-c0cfb349c73a": "2026-11-16",
   "ashby:kraken.com:6d3b6e08-97ec-4eda-b3ad-bbf5fd955840": "2026-11-14",
   "ashby:kraken.com:decc0dbd-51f7-4fee-9635-130211623f07": "2026-11-14",
   "ashby:kubermatic:17fd4787-ca5f-444c-ab72-2a5d4a671280": "2026-11-14",
@@ -65583,6 +65587,7 @@
   "eightfold:qualcomm:446719899052": "2026-11-15",
   "eightfold:qualcomm:446721106923": "2026-11-15",
   "eightfold:qualcomm:446722100582": "2026-11-15",
+  "eightfold:qualcomm:446722159183": "2026-11-16",
   "eightfold:qualcomm|qualcomm.com:446714967451": "2026-11-14",
   "eightfold:qualcomm|qualcomm.com:446719899052": "2026-11-14",
   "eightfold:qualcomm|qualcomm.com:446721106923": "2026-11-14",
@@ -67525,15 +67530,18 @@
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2022348EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2022467EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2022501EXTERNALENGLOBAL": "2026-11-14",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2023422EXTERNALENGLOBAL": "2026-11-16",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2023953EXTERNALENGLOBAL": "2026-11-16",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2025041EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026175EXTERNALENGLOBAL": "2026-11-16",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026779EXTERNALENGLOBAL": "2026-11-16",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2027246EXTERNALENGLOBAL": "2026-11-16",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2027857EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028674EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028744EXTERNALENGLOBAL": "2026-11-15",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028784EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028825EXTERNALENGLOBAL": "2026-11-15",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028885EXTERNALENGLOBAL": "2026-11-16",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029895EXTERNALENGLOBAL": "2026-11-16",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2030298EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2030555EXTERNALENGLOBAL": "2026-11-14",
@@ -69390,10 +69398,10 @@
  },
  "source_last": {
   "hn": "2026-11-16T18:35:35+00:00",
-  "remoteok": "2026-11-16T20:51:33+00:00",
+  "remoteok": "2026-11-16T23:45:59+00:00",
   "usajobs": "2026-11-16T22:45:37+00:00",
   "workable_search": "2026-11-16T22:45:37+00:00",
-  "wwr": "2026-11-16T22:45:37+00:00",
+  "wwr": "2026-11-16T23:45:59+00:00",
   "yc": "2026-11-16T22:45:37+00:00"
  },
  "title_rules": "72f554d20a7f",

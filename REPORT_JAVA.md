@@ -1,19 +1,20 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**193 jobs**, newest first. Updated Mon Nov 16, 4:45 PM CST from 12,526 company job boards and other sources.
+**194 jobs**, newest first. Updated Mon Nov 16, 5:45 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 131 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 943 matching jobs that job sites and feeds listed this week, 229 (24%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 947 matching jobs that job sites and feeds listed this week, 229 (24%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (22)](#monday-nov-16-22) · [Sun 15 (9)](#sunday-nov-15-9) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (21)](#friday-nov-13-21) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19)
+Jump to: [Mon 16 (23)](#monday-nov-16-23) · [Sun 15 (9)](#sunday-nov-15-9) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (21)](#friday-nov-13-21) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19)
 
-## Monday, Nov 16 (22)
+## Monday, Nov 16 (23)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 4:49 PM | [Senior Software Engineer I (Java Security)](https://jobs.ashbyhq.com/inductive-automation-llc/04db2aa7-6af8-4d99-abf5-c94adb911961) | Inductive Automation | United States - Remote (remote) | 67 | entry-level title; 4+ yrs exp; senior title |
 | 2:59 PM | [Software Engineer II](https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5480546008) | TeleTracking | Pittsburgh, PA | 40 | 3+ yrs exp; requires Java |
 | 2:47 PM | [Senior Specialist, Full-Stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/76189) | BNY | Pittsburgh, PA, United States | 60 | 2+ yrs exp; senior title; requires Java |
 | 2:47 PM | [Senior Specialist, Full-Stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY/job/76189) | Eofe Fa Us2 Oraclecloud Com | Pittsburgh, PA, United States | 55 | 2+ yrs exp; senior title; requires Java |
