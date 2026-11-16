@@ -3598,6 +3598,7 @@
   "dover:cloudforgesoftware": "2026-11-15",
   "dover:cloudwaveinc": "2026-11-15",
   "dover:codeclimate": "2026-11-15",
+  "dover:codeday": "2026-11-16",
   "dover:codingal": "2026-11-13",
   "dover:cointelligencelabs": "2026-11-15",
   "dover:column": "2026-11-15",
@@ -11675,17 +11676,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 57,
+   "n": 58,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 57,
+   "n": 58,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 57,
+   "n": 58,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12089,11 +12090,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-13"
-  },
-  "icims:careers-eyesouthpartners.icims.com": {
-   "err": "HTTP 521",
-   "n": 1,
-   "since": "2026-11-16"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-20",
@@ -13419,7 +13415,7 @@
   "Per Diem": "2026-11-16",
   "Polymath Robotics": "2026-11-16",
   "Prime Robotics": "2026-11-16",
-  "Rockford": "2026-11-15",
+  "Rockford": "2026-11-16",
   "Sand Cherry Associates": "2026-11-16",
   "Senseye": "2026-11-16",
   "SiPhox Health": "2026-11-16",
@@ -13448,8 +13444,8 @@
    779
   ],
   "2026-11-16": [
-   18,
-   100
+   36,
+   200
   ]
  },
  "resolved": {
@@ -64581,6 +64577,7 @@
   "ashby:Plaud:c4b99f9b-1436-458b-809f-fdfe3fa1bd14": "2026-11-14",
   "ashby:PointOne:bb42f37c-8a7c-434d-aae8-089820a7171d": "2026-11-13",
   "ashby:PointOne:e57df388-58d1-41b5-b388-6b4ad41a6c57": "2026-11-13",
+  "ashby:PointOne:ead81d8b-5d51-4d1e-bfe5-63165ad2870d": "2026-11-16",
   "ashby:PrimeIntellect:330bae2f-2f9c-4beb-8cf6-322baa997e55": "2026-11-13",
   "ashby:Promise:7dcb44b6-b8a6-4955-92f3-421f60770f65": "2026-11-13",
   "ashby:Rogo:53360d09-8b16-45ab-b1a4-0575fa3733f1": "2026-11-13",
@@ -65339,6 +65336,7 @@
   "avature:mgl.avature.net|internalcareers:23521": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:23900": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24049": "2026-11-15",
+  "avature:mgl.avature.net|internalcareers:24696": "2026-11-16",
   "avature:mgl.avature.net|internalcareers:24848": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24856": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24857": "2026-11-15",
@@ -67626,6 +67624,7 @@
   "eightfold:micron:45500268": "2026-11-14",
   "eightfold:micron:45500814": "2026-11-14",
   "eightfold:micron:45517929": "2026-11-16",
+  "eightfold:micron:45545701": "2026-11-16",
   "eightfold:morganstanley:549794721569": "2026-11-14",
   "eightfold:morganstanley:549797565648": "2026-11-14",
   "eightfold:morganstanley:549800008226": "2026-11-14",
@@ -68362,6 +68361,7 @@
   "greenhouse:canopytax:4480530009": "2026-11-13",
   "greenhouse:canopytax:4506140009": "2026-11-13",
   "greenhouse:capco:8353951": "2026-11-13",
+  "greenhouse:capco:8386510": "2026-11-16",
   "greenhouse:captivation:5471518008": "2026-11-13",
   "greenhouse:captivation:5471530008": "2026-11-13",
   "greenhouse:captivation:5471546008": "2026-11-13",
@@ -68907,6 +68907,7 @@
   "greenhouse:xai:5289470007": "2026-11-13",
   "greenhouse:xai:5290321007": "2026-11-13",
   "greenhouse:xai:5294116007": "2026-11-13",
+  "greenhouse:xai:5295932007": "2026-11-16",
   "greenhouse:yext:8264517": "2026-11-13",
   "greenhouse:yugabyte:4727959006": "2026-11-13",
   "greenhouse:ziprecruiter:8338245": "2026-11-13",
@@ -79394,8 +79395,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-16T01:17:41+00:00",
-  "yc": "2026-11-16T01:17:41+00:00"
+  "workable_search": "2026-11-16T04:15:41+00:00",
+  "yc": "2026-11-16T04:15:41+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
