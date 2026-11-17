@@ -12092,17 +12092,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 210,
+   "n": 211,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 210,
+   "n": 211,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 210,
+   "n": 211,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12709,11 +12709,6 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
-  },
-  "lever:cgsfederal": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
   },
   "lever:color": {
    "disabled_until": "2026-11-14",
@@ -14977,7 +14972,7 @@
   ],
   "2026-11-17": [
    149,
-   401
+   405
   ]
  },
  "resolved": {
@@ -67051,6 +67046,7 @@
   "greenhouse:jusbrasil:6002659004": "2026-11-12",
   "greenhouse:kairospower:6183616004": "2026-11-07",
   "greenhouse:katalyst:6235311004": "2026-11-07",
+  "greenhouse:life360:8949348002": "2026-11-17",
   "greenhouse:lightfeatheriollc:5476007008": "2026-11-09",
   "greenhouse:lightfeatheriollc:5476011008": "2026-11-09",
   "greenhouse:lightfeatheriollc:5476014008": "2026-11-09",
@@ -69144,6 +69140,7 @@
   "taleo:aarcorp|aar_mobile:18113": "2026-11-09",
   "taleo:aarcorp|aar_mobile:18411": "2026-11-10",
   "taleo:drhorton|2:2605841": "2026-11-13",
+  "taleo:lbl|5:107918": "2026-11-17",
   "taleo:massanf|ex:260007U4": "2026-11-09",
   "taleo:mtstatejobs|200:26142784": "2026-11-09",
   "taleo:utsw|2:987781": "2026-11-13",
@@ -70071,10 +70068,10 @@
  },
  "source_last": {
   "hn": "2026-11-17T20:37:18+00:00",
-  "remoteok": "2026-11-17T21:37:16+00:00",
+  "remoteok": "2026-11-17T23:37:19+00:00",
   "usajobs": "2026-11-17T22:07:19+00:00",
   "workable_search": "2026-11-17T22:07:19+00:00",
-  "wwr": "2026-11-17T22:37:15+00:00",
+  "wwr": "2026-11-17T23:37:19+00:00",
   "yc": "2026-11-17T22:07:19+00:00"
  },
  "title_rules": "c323075b4d70",
