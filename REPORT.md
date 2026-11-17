@@ -1,14 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**634 jobs**, newest first. Updated Tue Nov 17, 4:07 PM CST from 12,526 company job boards and other sources.
+**632 jobs**, newest first. Updated Tue Nov 17, 4:37 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 253 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,702 matching jobs that job sites and feeds listed this week, 593 (34%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,706 matching jobs that job sites and feeds listed this week, 593 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (29)](#tuesday-nov-17-29) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (13)](#tuesday-nov-10-13)
+Jump to: [Tue 17 (29)](#tuesday-nov-17-29) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (11)](#tuesday-nov-10-11)
 
 ## Tuesday, Nov 17 (29)
 
@@ -666,7 +666,7 @@ Jump to: [Tue 17 (29)](#tuesday-nov-17-29) · [Mon 16 (47)](#monday-nov-16-47) �
 | 2:24 AM | [Senior Cloud Security Engineer](https://jobs.lever.co/jobgether/73d75c56-c3b4-403f-b49d-93905c180592) | Jobgether | US (remote) | 45 | 3+ yrs exp; senior title |
 | 2:00 AM | [Senior Engineer Core Infrastructure](https://careers.jetblue.com/job/Long-Island-City-Senior-Engineer-Core-Infrastructure-NY-11101/1389530100/) | JetBlue | Long Island City, NY, United States | 53 | 4+ yrs exp; senior title |
 
-## Tuesday, Nov 10 (13)
+## Tuesday, Nov 10 (11)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -681,10 +681,8 @@ Jump to: [Tue 17 (29)](#tuesday-nov-17-29) · [Mon 16 (47)](#monday-nov-16-47) �
 | 6:00 PM | [Business Systems Administrator](https://job-boards.greenhouse.io/monsterenergy/jobs/4485188009) | Monster Energy | USA - Corona, CA | 45 | 3+ yrs exp |
 | 5:16 PM | [MTS - Infrastructure Engineer, Field](https://jobs.gem.com/ironsite-ai/am9icG9zdDoxr5tMNIZYYGuMvMAxSLR5) | Ironsite Ai | San Francisco (onsite) | 53 | 4+ yrs exp |
 | 5:06 PM | [Linux Systems Administrator (3rd Shift)](https://jobs.ashbyhq.com/Vultr/24c3445f-27b2-40fb-870e-e59b71305787) | Vultr | Remote - United States (remote) | 47 |  |
-| 4:32 PM | [Cloud Engineer](https://weworkremotely.com/remote-jobs/knack-cloud-engineer-1) | Knack | Remote, US (Anywhere in the World) (remote) | 55 |  |
-| 4:14 PM | [Senior Cloud Infra Engineer](https://news.ycombinator.com/item?id=50447035) | Odin | Remote (remote) | 40 | senior title, years not stated; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (738)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (739)
 
 <details><summary>Show</summary>
 
@@ -733,6 +731,7 @@ Jump to: [Tue 17 (29)](#tuesday-nov-17-29) · [Mon 16 (47)](#monday-nov-16-47) �
 | date only | [Sr. Cust. Success Specialist, Security and Observability Customer Suc…](https://www.amazon.jobs/en/jobs/10607429/sr-cust-success-specialist-security-and-observability-customer-success) | Amazon Web Services, Inc. | Bellevue, Washington, USA | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Cloud Engineer (DBRE)](https://careers.cisco.com/global/en/job/CISCISGLOBAL2019819EXTERNALENGLOBAL) | Cisco | Milpitas, California, United States of … | 40 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Sr Prin Cyber Systems Engineer – Cybersecurity Cloud & AI (26-485) AHT](https://ngc.eightfold.ai/careers/job/1340075374142) | Ngc | Colorado Springs, CO, US (onsite) | 35 | rules: 6+ yrs exp; senior title; needs: security clearance |
+| date only | [Robotics Deployment Engineer II, Amazon Robotics - Tech Deployment](https://www.amazon.jobs/en/jobs/10607623/robotics-deployment-engineer-ii-amazon-robotics-tech-deployment) | Amazon.com Services LLC | Bellevue, Washington, USA | 25 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:36 AM | [Senior Network Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8948166002) | Atoms | San Francisco, CA | 40 | rules: senior title, years not stated; adjacent title, little DevOps/… |
 | 10:22 AM | [Senior Network Engineer](https://jobs.ashbyhq.com/kayak/c99cabba-25e3-4888-a54d-38dfaff27fdb) | KAYAK | Concord Office | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 10:03 AM | [Cloud Engineer](https://boards.greenhouse.io/morsecorp/jobs/8207239003?gh_jid=8207239003) | MORSE Corp | Cambridge, MA, Arlington, VA, Seattle, … | 45 | rules: 5+ yrs exp; needs: Security Clearance |
@@ -1089,7 +1088,6 @@ Jump to: [Tue 17 (29)](#tuesday-nov-17-29) · [Mon 16 (47)](#monday-nov-16-47) �
 | date only | [Software Engineer I - DevOps / DevSecOps](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535) | Sierra Space | Louisville, CO; Centennial, CO | 85 | rules: entry-level title; 0-2 yrs exp; needs: Security Clearance |
 | date only | [Quality Assurance Automation Engineer - IT](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Quality-Assurance-Automation-Engineer---IT_R269128-1) | Uline | Pleasant Prairie, WI; Milwaukee, WI; Wa… | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Cloud FinOps Analyst](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Cloud-FinOps-Analyst_R-20260909-0032) | VF | USCA > USA > Colorado > Denver HQ - VFC… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [FBS (Mexico) - Production Support Engineer](https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-Production-Support-Engineer/1377411857/) | Farmers Insurance |  | 40 | rules: 4+ yrs exp; no future H-1B sponsorship; adjacent title, little… |
 
 </details>
 
