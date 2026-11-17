@@ -11970,17 +11970,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 58,
+   "n": 59,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 58,
+   "n": 59,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 58,
+   "n": 59,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12390,16 +12390,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-14"
-  },
-  "icims:careers-cotiviti.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "icims:careers-eyesouthpartners.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-21",
@@ -13309,7 +13299,7 @@
   ],
   "2026-11-17": [
    25,
-   109
+   112
   ]
  },
  "resolved": {
@@ -64197,6 +64187,7 @@
   "amazon:us:10606680": "2026-11-16",
   "amazon:us:10606737": "2026-11-16",
   "apple:usa:200555687": "2026-11-14",
+  "apple:usa:200656816": "2026-11-17",
   "apple:usa:200665281": "2026-11-14",
   "apple:usa:200666022": "2026-11-14",
   "apple:usa:200669232": "2026-11-14",
@@ -64216,6 +64207,7 @@
   "apple:usa:200693162": "2026-11-16",
   "apple:usa:200693202": "2026-11-14",
   "apple:usa:200693226": "2026-11-14",
+  "apple:usa:200693403": "2026-11-17",
   "apple:usa:200693606": "2026-11-14",
   "apple:usa:200693621": "2026-11-14",
   "apple:usa:200693624": "2026-11-14",
@@ -64297,6 +64289,7 @@
   "ashby:adaption:75df104c-b7c0-4337-a324-0d472da34153": "2026-11-14",
   "ashby:airbyte:735d5deb-ba6e-49b2-88ba-5ebdf8d315a0": "2026-11-14",
   "ashby:airbyte:b59bbc91-fb77-4a08-9c47-0fca7f755942": "2026-11-14",
+  "ashby:ambrook:4e463062-c104-4349-b7c4-14825f3cc44b": "2026-11-17",
   "ashby:amplitude:f65ba1d9-f809-442f-88df-453241e8d509": "2026-11-14",
   "ashby:apex-technology-inc:8f4c8b31-10f8-440d-815b-1ec028ba1081": "2026-11-14",
   "ashby:applied:157089b3-4d1f-4e24-b7c9-9909b992640c": "2026-11-14",
@@ -65406,6 +65399,8 @@
   "dayforce:bcbl|CANDIDATEPORTAL:3098": "2026-11-16",
   "dayforce:bcbl|CANDIDATEPORTAL:3106": "2026-11-16",
   "dayforce:ccok|ccok:6498": "2026-11-15",
+  "dayforce:ccok|ccok:6558": "2026-11-17",
+  "dayforce:ccok|ccok:6560": "2026-11-17",
   "dayforce:corpay|candidateportal:57537": "2026-11-15",
   "dayforce:evri|CANDIDATEPORTAL:10204": "2026-11-15",
   "dayforce:hcmportal|CANDIDATEPORTAL:3116": "2026-11-15",
@@ -67263,6 +67258,7 @@
   "lever:goodleap:ce0ecdd6-a0ad-4e25-83f3-58f4ad8ffd8b": "2026-11-14",
   "lever:humble-robotics:9e16da6b-36bc-4443-9bf7-47c54d6e9f66": "2026-11-14",
   "lever:immuta:6e3dad4d-6391-4ad4-af7d-7787c8eefefc": "2026-11-14",
+  "lever:jobgether:017460d4-fe2e-4dad-8871-b690226666d5": "2026-11-17",
   "lever:jobgether:01f9696f-5bed-47de-bd1b-5df239949864": "2026-11-14",
   "lever:jobgether:02601126-bd02-4538-ba32-cf199521bc57": "2026-11-14",
   "lever:jobgether:04204789-6c21-47d1-8f94-d33727ea0ec1": "2026-11-14",
@@ -69462,10 +69458,10 @@
  },
  "source_last": {
   "hn": "2026-11-17T00:47:36+00:00",
-  "remoteok": "2026-11-17T04:18:04+00:00",
+  "remoteok": "2026-11-17T06:19:14+00:00",
   "usajobs": "2026-11-17T05:18:37+00:00",
   "workable_search": "2026-11-17T05:18:37+00:00",
-  "wwr": "2026-11-17T05:18:37+00:00",
+  "wwr": "2026-11-17T06:19:14+00:00",
   "yc": "2026-11-17T05:18:37+00:00"
  },
  "title_rules": "72f554d20a7f",
