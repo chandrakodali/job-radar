@@ -12084,17 +12084,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 194,
+   "n": 195,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 194,
+   "n": 195,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 194,
+   "n": 195,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14962,7 +14962,7 @@
   ],
   "2026-11-17": [
    99,
-   263
+   268
   ]
  },
  "resolved": {
@@ -65698,6 +65698,7 @@
   "adp:4b01b1ef-1960-4219-8f3f-6c0652a81377|19000101_000001:9201310521902_172": "2026-11-14",
   "amazon:us:10593216": "2026-11-14",
   "amazon:us:10593217": "2026-11-14",
+  "amazon:us:10594676": "2026-11-17",
   "amazon:us:10597672": "2026-11-14",
   "amazon:us:10597677": "2026-11-14",
   "amazon:us:10598370": "2026-11-14",
@@ -67471,6 +67472,7 @@
   "icims:careers-lmi.icims.com:13629": "2026-11-09",
   "icims:careers-lmi.icims.com:13778": "2026-11-09",
   "icims:careers-lmi.icims.com:14047": "2026-11-12",
+  "icims:careers-lmi.icims.com:14589": "2026-11-17",
   "icims:careers-lmi.icims.com:14630": "2026-11-12",
   "icims:careers-lmi.icims.com:14739": "2026-11-12",
   "icims:careers-lmi.icims.com:14801": "2026-11-09",
@@ -67627,6 +67629,7 @@
   "icims:careers-tatitlek.icims.com:2781": "2026-11-09",
   "icims:careers-tatitlek.icims.com:2834": "2026-11-13",
   "icims:careers-tatitlek.icims.com:2835": "2026-11-13",
+  "icims:careers-tatitlek.icims.com:2865": "2026-11-17",
   "icims:careers-teksynap.icims.com:6376": "2026-11-09",
   "icims:careers-teksynap.icims.com:6381": "2026-11-09",
   "icims:careers-teksynap.icims.com:7703": "2026-11-12",
@@ -69046,6 +69049,7 @@
   "smartrecruiters:talan:744000161165829": "2026-11-12",
   "smartrecruiters:thewonderfulcompany:744000159249441": "2026-11-07",
   "smartrecruiters:veoliaenvironnementsa:744000160911559": "2026-11-12",
+  "smartrecruiters:veoliaenvironnementsa:744000162106439": "2026-11-17",
   "smartrecruiters:wellmarkinc:744000159474969": "2026-11-07",
   "smartrecruiters:wellmarkinc:744000159479389": "2026-11-07",
   "smartrecruiters:wise:744000159547589": "2026-11-07",
@@ -69952,10 +69956,10 @@
  },
  "source_last": {
   "hn": "2026-11-17T14:37:18+00:00",
-  "remoteok": "2026-11-17T13:37:18+00:00",
+  "remoteok": "2026-11-17T15:37:14+00:00",
   "usajobs": "2026-11-17T13:07:17+00:00",
   "workable_search": "2026-11-17T13:07:17+00:00",
-  "wwr": "2026-11-17T14:37:18+00:00",
+  "wwr": "2026-11-17T15:37:14+00:00",
   "yc": "2026-11-17T13:07:17+00:00"
  },
  "title_rules": "c323075b4d70",
