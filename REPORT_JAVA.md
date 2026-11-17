@@ -1,16 +1,16 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**193 jobs**, newest first. Updated Tue Nov 17, 2:49 PM CST from 12,526 company job boards and other sources.
+**195 jobs**, newest first. Updated Tue Nov 17, 3:48 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 124 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,346 matching jobs that job sites and feeds listed this week, 319 (23%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,349 matching jobs that job sites and feeds listed this week, 319 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (13)](#tuesday-nov-17-13) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (3)](#tuesday-nov-10-3)
+Jump to: [Tue 17 (15)](#tuesday-nov-17-15) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (3)](#tuesday-nov-10-3)
 
-## Tuesday, Nov 17 (13)
+## Tuesday, Nov 17 (15)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -22,6 +22,8 @@ Jump to: [Tue 17 (13)](#tuesday-nov-17-13) · [Mon 16 (26)](#monday-nov-16-26) �
 | date only | [Junior Java Developer](https://mgl.avature.net/internalcareers/JobDetail/Junior-Java-Developer/24252) | Mgl Avature Net |  | 70 | entry-level title; location unclear |
 | date only | [Software Engineer](https://hp.eightfold.ai/careers/job/44925799) | Hp | Austin, TX, US (onsite) | 45 | 3+ yrs exp; requires Java |
 | date only | [Software Engineer (Back-end)](https://careers.cisco.com/global/en/job/CISCISGLOBAL2031561EXTERNALENGLOBAL) | Cisco | Boulder, Colorado, United States of Ame… | 40 | 3+ yrs exp; requires Java |
+| date only | [Java Full Stack Developer - Dallas, TX](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26868) | Photon | United States | 65 |  |
+| date only | [Sr. JAVA Engineer](https://careers.capgemini.com/job/Atlanta%2C-GA-Sr_-JAVA-Engineer-GA-30301/1458219133/) | Capgemini | Atlanta, GA, United States | 55 | senior title, years not stated |
 | 10:17 AM | [Software Developer 3](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350771) | Oracle | Nashville, TN, United States | 40 | 4+ yrs exp; senior title; requires Java |
 | 10:17 AM | [Software Developer 3](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350771) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States | 40 | 4+ yrs exp; senior title; requires Java |
 | 8:12 AM | [Software Engineer III - Java/Kafka/Cloud](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797597) | JP Morgan Chase | Tampa, FL, United States +4 more | 60 | 3+ yrs exp; senior title |
@@ -243,12 +245,14 @@ Jump to: [Tue 17 (13)](#tuesday-nov-17-13) · [Mon 16 (26)](#monday-nov-16-26) �
 | 7:12 PM | [Senior Software Engineer, Metadata Platform](https://job-boards.greenhouse.io/boxinc/jobs/8375923) | Box | Redwood City, CA, United States | 33 | 4+ yrs exp; senior title; requires Java |
 | 5:34 PM | [Software Engineer II](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303784) | Uber | San Francisco, CA, United States; New Y… | 28 | requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (318)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (320)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 3:35 PM | [Sr Software Engineer I](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010196) | American Express | Phoenix, AZ, United States +1 more (hybrid) | 45 | rules: entry-level title; 8+ yrs exp; senior title; requires Java; as… |
+| 3:35 PM | [Sr Software Engineer I](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26010196) | Egug Fa Us2 Oraclecloud Com | Phoenix, AZ, United States +1 more (hybrid) | 40 | rules: entry-level title; 8+ yrs exp; senior title; requires Java; as… |
 | 2:32 PM | [Software Engineer](https://ford.eightfold.ai/careers/job/563568454231302) | Ford | Dearborn, MI, US +1 more (onsite) | 35 | rules: 8+ yrs exp; requires Java; asks for 8+ years of experience |
 | 2:32 PM | [Software Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74543) | Ford Motor Company | Dearborn, MI, United States +1 more (hybrid) | 35 | rules: 8+ yrs exp; requires Java; asks for 8+ years of experience |
 | 12:26 PM | [Software Engineer II - Java Fullstack / AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805861) | JP Morgan Chase | Austin, TX, United States | 70 | rules: 2+ yrs exp; needs: Security Clearance |
@@ -260,6 +264,8 @@ Jump to: [Tue 17 (13)](#tuesday-nov-17-13) · [Mon 16 (26)](#monday-nov-16-26) �
 | 11:13 PM | [Senior Full Stack Engineer, Java & Kubernetes Focus](https://jobs.lever.co/jobgether/6b7d4699-9948-48b8-a57c-079cfb1c3dda) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:00 PM | [Expert Software Developer](https://careers-markon.icims.com/jobs/8858/expert-software-developer/job) | Markon | Chantilly, VA, United States | 30 | rules: 11+ yrs exp; requires Java; needs: TS/SCI clearance |
 | 11:00 PM | [Software Engineer](https://careers-riversideresearch.icims.com/jobs/4529/software-engineer/job) | Riverside Research | Lexington, MA, United States | 30 | rules: 8+ yrs exp; requires Java; needs: Security Clearance |
+| 11:00 PM | [Sr. Full Stack Software Developer](https://careers-markon.icims.com/jobs/8871/sr.-full-stack-software-developer/job) | Markon | Chantilly, VA, United States | 40 | rules: senior title, years not stated; requires Java; needs: TS/SCI c… |
+| 11:00 PM | [Senior Software Developer](https://careers-markon.icims.com/jobs/8863/senior-software-developer/job) | Markon | Chantilly, VA, United States | 40 | rules: senior title, years not stated; requires Java; needs: TS/SCI c… |
 | 10:05 PM | [Sr. Software Engineer, Safety](https://job-boards.greenhouse.io/xai/jobs/5297314007) | xAI | Palo Alto, CA | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 8:54 PM | [Sr. Software Engineer, Ads Serving](https://job-boards.greenhouse.io/xai/jobs/5297207007) | xAI | Palo Alto, CA | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 4:10 PM | [Senior Software Engineer](https://johndeere.eightfold.ai/careers/job/137484016472) | John Deere | Moline, IL, US (onsite) | 35 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
@@ -423,8 +429,6 @@ Jump to: [Tue 17 (13)](#tuesday-nov-17-13) · [Mon 16 (26)](#monday-nov-16-26) �
 | date only | [Senior Software Engineer - SS&C EVOLV](https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Remote---Virginia-US/Senior-Software-Engineer---SS-C-EVOLV_R46067) | SS&C | Remote - Virginia, US (remote) | 20 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 8:00 PM | [Full Stack Developer - Java/ React](https://careers.capgemini.com/job/Atlanta-Full-Stack-Developer-Java-React-GA-30301/1428050933/) | Capgemini | Atlanta, United States +1 more | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:00 PM | [Java Full Stack Engineer](https://careers.capgemini.com/job/Dallas%2C-TX-Java-Full-Stack-Engineer-TX-75201/1448560233/) | Capgemini | Dallas, TX, United States | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
-| 5:05 PM | [Sr Software Engineer I - Java - Ace Studio Platform](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008913) | American Express | Sunrise, FL, United States (hybrid) | 60 | rules: entry-level title; 10+ yrs exp; senior title; asks for 10+ yea… |
-| 5:05 PM | [Sr Software Engineer I - Java - Ace Studio Platform](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26008913) | Egug Fa Us2 Oraclecloud Com | Sunrise, FL, United States (hybrid) | 55 | rules: entry-level title; 10+ yrs exp; senior title; asks for 10+ yea… |
 | 12:51 PM | [Senior Java Developer](https://job-boards.greenhouse.io/assystinc/jobs/4506930009) | ASSYST | Austin, TX | 38 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 11:26 AM | [Software Developer 3 (Contractor) - 529701796R](https://jobs.smartrecruiters.com/RESPECInc/744000161543664-software-developer-3-contractor-529701796r) | RESPEC | Austin, TX, United States (hybrid) | 28 | rules: 8+ yrs exp; requires Java; asks for 8+ years of experience |
 | date only | [Software Engineer – Java / AWS](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Software-Engineer---Java---AWS_R0121814) | Truist Bank | Atlanta, GA | 38 | rules: 7+ yrs exp; E-Verify; no future H-1B sponsorship; asks for 7+ … |
