@@ -1,14 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**683 jobs**, newest first. Updated Mon Nov 16, 10:37 PM CST from 12,526 company job boards and other sources.
+**681 jobs**, newest first. Updated Mon Nov 16, 11:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 234 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,405 matching jobs that job sites and feeds listed this week, 484 (34%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,410 matching jobs that job sites and feeds listed this week, 484 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (51)](#monday-nov-16-51) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (2)](#monday-nov-9-2)
+Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (51)](#monday-nov-16-51) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84)
 
 ## Tuesday, Nov 17 (1)
 
@@ -730,13 +730,6 @@ Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (51)](#monday-nov-16-51) · 
 | 3:43 AM | [DevOps Engineer](https://job-boards.greenhouse.io/dept/jobs/8365231) | Dept | Skopje, Zagreb, Split | 60 | location unclear |
 | 2:00 AM | [Sr. Cloud Software Engineer](https://jobs.supermicro.com/job/San-Jose-Sr_-Cloud-Software-Engineer-Cali/1439207800/) | Super Micro Computer | San Jose, California, United States | 48 | senior title, years not stated |
 | 2:00 AM | [Sr Platform Engineer](https://careers.thehersheycompany.com/job/Dallas-Sr-Platform-Engineer-TX-75201/1438643100/) | Hershey | Dallas, TX, US | 53 | 3+ yrs exp; senior title |
-
-## Monday, Nov 9 (2)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 11:00 PM | [Salesforce DevOps Engineer](https://careers-steampunk.icims.com/jobs/8389/salesforce-devops-engineer/job) | Steampunk | McLean, VA, United States | 58 | 4+ yrs exp; E-Verify |
-| 11:00 PM | [Infrastructure Administrator](https://careers-bancroft.icims.com/jobs/21147/infrastructure-administrator/job) | Bancroft | Cherry Hill, NJ, United States | 63 | 2+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (712)
 
