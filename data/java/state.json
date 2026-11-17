@@ -8351,6 +8351,7 @@
   "paylocity:5b273a87-9d89-4524-a01c-ea292c036c32": "2026-11-16",
   "paylocity:5b6d4827-0481-4f9b-a170-511a1b2eafc7": "2026-11-16",
   "paylocity:5b6fa635-8743-492b-9df3-ee30b90eba49": "2026-11-16",
+  "paylocity:5b82c6f8-9170-4446-a6bb-61e73d9ca9d9": "2026-11-17",
   "paylocity:5bf37f63-92e9-4ad2-94ca-ceae3e679330": "2026-11-16",
   "paylocity:5c00a810-d595-43bc-b82d-734d2daf8f18": "2026-11-16",
   "paylocity:5c109104-7c4d-415c-9ee4-54e3af55f9e7": "2026-11-16",
@@ -11643,7 +11644,8 @@
  },
  "bootstrapped": true,
  "closed": {
-  "ashby:whoop:d31312c2-236a-45f1-8da7-61a7ca8d1622": "2026-11-17"
+  "ashby:whoop:d31312c2-236a-45f1-8da7-61a7ca8d1622": "2026-11-17",
+  "greenhouse:energysolutions:5274064007": "2026-11-17"
  },
  "fails": {
   "ashby:Airweave": {
@@ -11984,17 +11986,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 66,
+   "n": 67,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 66,
+   "n": 67,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 66,
+   "n": 67,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12290,6 +12292,11 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
+  },
+  "greenhouse:quip": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "greenhouse:rdccareers": {
    "disabled_until": "2026-11-21",
@@ -12729,11 +12736,6 @@
    "n": 3,
    "since": "2026-11-14"
   },
-  "paylocity:3135e6de-7548-49c9-925f-6a80f5c95f2e": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-16"
-  },
   "pinpoint:heapy": {
    "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /postings.json",
@@ -12865,16 +12867,6 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
-  },
-  "sfrmk:career.sonepar.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "sfrmk:careers.mann-hummel.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
   },
   "sfrmk:careers.qualitestgroup.com": {
    "disabled_until": "2026-11-21",
@@ -13271,7 +13263,7 @@
   }
  },
  "found_cursor": 0,
- "last_digest": "2026-11-16",
+ "last_digest": "2026-11-17",
  "missed_companies": {
   "*Confidential Healthcare AI Startup": "2026-11-17",
   "Bask Health": "2026-11-17",
@@ -13293,7 +13285,9 @@
   "Mindful Support Services": "2026-11-17",
   "Multi Media LLC": "2026-11-16",
   "New Product": "2026-11-17",
+  "Omnistrate": "2026-11-17",
   "Pavago": "2026-11-17",
+  "PerformYard": "2026-11-17",
   "Pine Park Health": "2026-11-17",
   "Polymath Robotics": "2026-11-16",
   "REVER": "2026-11-17",
@@ -13322,8 +13316,8 @@
    448
   ],
   "2026-11-17": [
-   49,
-   224
+   62,
+   273
   ]
  },
  "resolved": {
@@ -64564,6 +64558,7 @@
   "ashby:zip:c72dacde-b007-45ea-901b-ed9f6d7a4746": "2026-11-14",
   "ashby:zip:e7bcd788-ca5f-4e90-9728-0de7b57026a1": "2026-11-14",
   "avature:baufest.avature.net|jobs:5885": "2026-11-14",
+  "avature:bloomberg.avature.net|careers:46161": "2026-11-17",
   "avature:bloomberg.avature.net|internalcareers:46053": "2026-11-14",
   "avature:bloomberg.avature.net|internalcareers:46071": "2026-11-14",
   "avature:bloomberg.avature.net|internalcareers:46073": "2026-11-14",
@@ -65546,6 +65541,7 @@
   "eightfold:appliedmaterials:790319443365": "2026-11-16",
   "eightfold:appliedmaterials:790319443699": "2026-11-14",
   "eightfold:appliedmaterials:790319543510": "2026-11-17",
+  "eightfold:appliedmaterials:790319544373": "2026-11-17",
   "eightfold:appliedmaterials:790319552123": "2026-11-17",
   "eightfold:astrazeneca:563877691444732": "2026-11-16",
   "eightfold:autodesk:1443152974635": "2026-11-16",
@@ -65556,7 +65552,9 @@
   "eightfold:autodesk:1443154478110": "2026-11-14",
   "eightfold:citi:859038804776": "2026-11-14",
   "eightfold:eaton:687239497094": "2026-11-14",
+  "eightfold:eaton:687240042663": "2026-11-17",
   "eightfold:eaton|eaton.com:687239497094": "2026-11-14",
+  "eightfold:eaton|eaton.com:687240042663": "2026-11-17",
   "eightfold:ericsson:563121776514290": "2026-11-14",
   "eightfold:ericsson:563121777597821": "2026-11-14",
   "eightfold:ford:563568454035390": "2026-11-14",
@@ -65574,11 +65572,13 @@
   "eightfold:johndeere:137483623404": "2026-11-16",
   "eightfold:johndeere:137484016472": "2026-11-16",
   "eightfold:johndeere:137484038362": "2026-11-14",
+  "eightfold:johndeere:137484318471": "2026-11-17",
   "eightfold:johndeere|johndeere.com:137483370937": "2026-11-14",
   "eightfold:johndeere|johndeere.com:137483512133": "2026-11-14",
   "eightfold:johndeere|johndeere.com:137483623404": "2026-11-16",
   "eightfold:johndeere|johndeere.com:137484016472": "2026-11-16",
   "eightfold:johndeere|johndeere.com:137484038362": "2026-11-14",
+  "eightfold:johndeere|johndeere.com:137484318471": "2026-11-17",
   "eightfold:mercadolibre:44601689": "2026-11-14",
   "eightfold:mercadolibre:44605653": "2026-11-14",
   "eightfold:mercadolibre:44633216": "2026-11-14",
@@ -65939,6 +65939,7 @@
   "gem:snout:am9icG9zdDqQjNG0z9Cfaj7woaSEXnLq": "2026-11-14",
   "gem:sofi-technologies-ats:am9icG9zdDojg45ZNmwEuYjJT0x01EQl": "2026-11-14",
   "gem:sphere-semi:am9icG9zdDqg4uUMHJ5jKCEKrB2khqft": "2026-11-14",
+  "gem:ssg:am9icG9zdDqjydWr9BMNCte-B8h_le6B": "2026-11-17",
   "gem:stackyak:am9icG9zdDrS1VXoPwsfjxegCRTHTd2b": "2026-11-14",
   "gem:staffeto-com:am9icG9zdDrqLy_UXKk1bnrgqXShSS6b": "2026-11-14",
   "gem:stuut:am9icG9zdDrSRpA3l37rSamsoCQ_ILPY": "2026-11-14",
@@ -66255,6 +66256,7 @@
   "greenhouse:physicsx:5035380101": "2026-11-15",
   "greenhouse:portalspacesystems:4509326009": "2026-11-16",
   "greenhouse:portalspacesystems:4509543009": "2026-11-17",
+  "greenhouse:purestorage:8179759": "2026-11-17",
   "greenhouse:qualia:8336735": "2026-11-15",
   "greenhouse:qualtrics:8346858": "2026-11-15",
   "greenhouse:qualtrics:8357630": "2026-11-15",
@@ -66345,6 +66347,7 @@
   "greenhouse:verkada:5264711007": "2026-11-14",
   "greenhouse:verkada:5283655007": "2026-11-14",
   "greenhouse:verkada:5296748007": "2026-11-16",
+  "greenhouse:vestmark:8374965": "2026-11-17",
   "greenhouse:vestwell:8196645003": "2026-11-14",
   "greenhouse:weedmaps77:8932538002": "2026-11-14",
   "greenhouse:workato:8930400002": "2026-11-14",
@@ -66428,6 +66431,7 @@
   "icims:careers-americansystems.icims.com:4982": "2026-11-14",
   "icims:careers-americansystems.icims.com:5003": "2026-11-14",
   "icims:careers-americansystems.icims.com:5004": "2026-11-14",
+  "icims:careers-americansystems.icims.com:5291": "2026-11-17",
   "icims:careers-americas.icims.com:25539": "2026-11-14",
   "icims:careers-americas.icims.com:25546": "2026-11-14",
   "icims:careers-americas.icims.com:25558": "2026-11-14",
@@ -66522,6 +66526,7 @@
   "icims:careers-decisionpointcorp.icims.com:4263": "2026-11-14",
   "icims:careers-decisionpointcorp.icims.com:4272": "2026-11-14",
   "icims:careers-dminc.icims.com:28767": "2026-11-14",
+  "icims:careers-dminc.icims.com:29067": "2026-11-17",
   "icims:careers-dminc.icims.com:29069": "2026-11-14",
   "icims:careers-eastpennmanufacturing.icims.com:29622": "2026-11-14",
   "icims:careers-eastpennmanufacturing.icims.com:31002": "2026-11-14",
@@ -67258,6 +67263,7 @@
   "jobvite:visionist:o0UYAfwc": "2026-11-14",
   "jobvite:visionist:o5bYAfwy": "2026-11-14",
   "jobvite:visionist:o7znAfwn": "2026-11-14",
+  "jobvite:visionist:o9W7Afww": "2026-11-17",
   "jobvite:visionist:o9vOAfwM": "2026-11-14",
   "jobvite:visionist:oNvOAfwq": "2026-11-14",
   "jobvite:visionist:oPH0AfwQ": "2026-11-14",
@@ -67294,6 +67300,7 @@
   "lever:firemon:3087af07-30d7-454d-ac2e-e0437532edd8": "2026-11-14",
   "lever:fly:93fa7e55-5cb4-4b59-a4bc-569e3ac9c8ea": "2026-11-14",
   "lever:goodleap:ce0ecdd6-a0ad-4e25-83f3-58f4ad8ffd8b": "2026-11-14",
+  "lever:hatchit:6eeed607-3bd0-412a-8cc9-8a5182e93d4f": "2026-11-17",
   "lever:humble-robotics:9e16da6b-36bc-4443-9bf7-47c54d6e9f66": "2026-11-14",
   "lever:immuta:6e3dad4d-6391-4ad4-af7d-7787c8eefefc": "2026-11-14",
   "lever:jobgether:017460d4-fe2e-4dad-8871-b690226666d5": "2026-11-17",
@@ -67388,6 +67395,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX:339960": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:342418": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX:342726": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:342729": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:342751": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:342795": "2026-11-14",
@@ -67408,6 +67416,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:339960": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342418": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342726": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342729": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342751": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342795": "2026-11-14",
@@ -67428,6 +67437,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:339960": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342418": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342726": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342729": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342751": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342795": "2026-11-14",
@@ -67448,6 +67458,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:339960": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342418": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342726": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342729": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342751": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342795": "2026-11-14",
@@ -67468,6 +67479,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:339960": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342418": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342726": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342729": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342751": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342795": "2026-11-14",
@@ -67488,6 +67500,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:339960": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342418": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342726": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342729": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342751": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342795": "2026-11-14",
@@ -67528,6 +67541,7 @@
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26016262": "2026-11-14",
   "oracle:egup.fa.us2.oraclecloud.com|CX:20279430": "2026-11-14",
   "oracle:ehtl.fa.us6.oraclecloud.com|CX:19854": "2026-11-14",
+  "oracle:ejhp.fa.us6.oraclecloud.com|CX_2:2624433": "2026-11-17",
   "oracle:ekcf.fa.us6.oraclecloud.com|CX_1:7995": "2026-11-16",
   "oracle:emdz.fa.us2.oraclecloud.com|CX_1001:6322": "2026-11-14",
   "oracle:emdz.fa.us2.oraclecloud.com|CX_2001:6322": "2026-11-14",
@@ -67607,12 +67621,15 @@
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210785588": "2026-11-16",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210786436": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210787819": "2026-11-14",
+  "oracle:jpmc.fa.oraclecloud.com|CX_1001:210790526": "2026-11-17",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210791686": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210793180": "2026-11-16",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210795450": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210796019": "2026-11-16",
+  "oracle:jpmc.fa.oraclecloud.com|CX_1001:210797597": "2026-11-17",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210803303": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210804903": "2026-11-14",
+  "oracle:jpmc.fa.oraclecloud.com|CX_1001:210807772": "2026-11-17",
   "paylocity:0cc1c035-08e6-453e-8096-abb5d3303a99:3274171": "2026-11-16",
   "paylocity:0eed7c03-694e-454b-8e29-7abbbc8e65b5:4646633": "2026-11-15",
   "paylocity:0eed7c03-694e-454b-8e29-7abbbc8e65b5:4646636": "2026-11-15",
@@ -67863,6 +67880,7 @@
   "sfrmk:careers.acuityinc.com:1444830000": "2026-11-14",
   "sfrmk:careers.acuityinc.com:1448072400": "2026-11-14",
   "sfrmk:careers.aflac.com:1364809300": "2026-11-14",
+  "sfrmk:careers.aflac.com:1436847900": "2026-11-17",
   "sfrmk:careers.aflac.com:1442379700": "2026-11-14",
   "sfrmk:careers.agcocorp.com:1373601800": "2026-11-14",
   "sfrmk:careers.agcocorp.com:1400175200": "2026-11-14",
@@ -68279,6 +68297,7 @@
   "sfrmk:jobs.netapp.com:1450880300": "2026-11-16",
   "sfrmk:jobs.netapp.com:1450990700": "2026-11-16",
   "sfrmk:jobs.netapp.com:1451277400": "2026-11-17",
+  "sfrmk:jobs.netapp.com:1451338600": "2026-11-17",
   "sfrmk:jobs.nexteraenergy.com:1433113000": "2026-11-14",
   "sfrmk:jobs.nexteraenergy.com:1440011500": "2026-11-14",
   "sfrmk:jobs.nexteraenergy.com:1444759900": "2026-11-14",
@@ -68595,6 +68614,10 @@
   "workable:foresight-works:30424188A1": "2026-11-14",
   "workable:foresight-works:9EF6EB0FAC": "2026-11-14",
   "workable:fortanix:875358F4F4": "2026-11-14",
+  "workable:interimage:0845C3BE9D": "2026-11-17",
+  "workable:interimage:14FE0084AC": "2026-11-17",
+  "workable:interimage:4AEBC9A57E": "2026-11-17",
+  "workable:interimage:89601AD3BE": "2026-11-17",
   "workable:prosync:6ECFBED6E7": "2026-11-14",
   "workable:prosync:D688809AE6": "2026-11-14",
   "workable:raydar:0093C570BB": "2026-11-14",
@@ -68651,6 +68674,7 @@
   "workable_search:all:24b142ce-3d37-46a5-9bdf-226a3b968688": "2026-11-14",
   "workable_search:all:319dc204-76f0-4f1b-8b78-ec1c18e5b200": "2026-11-14",
   "workable_search:all:38480613-7dba-4b6b-bedf-5c9f319d0b4f": "2026-11-14",
+  "workable_search:all:3f3ac26f-d601-4327-9c50-3bd51c124ec9": "2026-11-17",
   "workable_search:all:467c44f3-3fc4-448a-84e7-a6cf7bc8cb0e": "2026-11-14",
   "workable_search:all:4db0aa50-7d67-4065-9631-855748524603": "2026-11-14",
   "workable_search:all:62d925cd-d209-4db2-adef-e6231e30e417": "2026-11-14",
@@ -69454,6 +69478,7 @@
   "yc:workatastartup:59403": "2026-11-14",
   "yc:workatastartup:78494": "2026-11-16",
   "yc:workatastartup:78968": "2026-11-14",
+  "yc:workatastartup:79259": "2026-11-17",
   "yc:workatastartup:93234": "2026-11-14",
   "yc:workatastartup:93346": "2026-11-14",
   "yc:workatastartup:95713": "2026-11-14",
@@ -69531,11 +69556,11 @@
  },
  "source_last": {
   "hn": "2026-11-17T13:30:03+00:00",
-  "remoteok": "2026-11-17T12:48:01+00:00",
-  "usajobs": "2026-11-17T11:31:21+00:00",
-  "workable_search": "2026-11-17T11:31:21+00:00",
-  "wwr": "2026-11-17T12:48:01+00:00",
-  "yc": "2026-11-17T11:31:21+00:00"
+  "remoteok": "2026-11-17T14:50:39+00:00",
+  "usajobs": "2026-11-17T14:50:39+00:00",
+  "workable_search": "2026-11-17T14:50:39+00:00",
+  "wwr": "2026-11-17T14:50:39+00:00",
+  "yc": "2026-11-17T14:50:39+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
