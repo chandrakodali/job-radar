@@ -12039,9 +12039,9 @@
    "since": "2026-11-11"
   },
   "ashby:vidrush": {
-   "disabled_until": "2026-11-17",
+   "disabled_until": "2026-11-24",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-09"
   },
   "ashby:whatnot": {
@@ -12070,17 +12070,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 164,
+   "n": 165,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 164,
+   "n": 165,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 164,
+   "n": 165,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14889,16 +14889,16 @@
   "Bask Health": "2026-11-16",
   "Coris": "2026-11-16",
   "Diversified Services Network, Inc.": "2026-11-16",
-  "EPAM Systems": "2026-11-16",
-  "EdgeQ Technologies Private Limited": "2026-11-16",
+  "EPAM Systems": "2026-11-17",
+  "EdgeQ Technologies Private Limited": "2026-11-17",
   "Edgewater Federal Solutions, Inc.": "2026-11-16",
   "Essnova Solutions, Inc.": "2026-11-16",
   "Foresight Works Ltd": "2026-11-13",
   "Fortanix": "2026-11-14",
   "GEM Technologies": "2026-11-16",
-  "GoMining": "2026-11-16",
+  "GoMining": "2026-11-17",
   "Halcyon": "2026-11-14",
-  "Knack": "2026-11-16",
+  "Knack": "2026-11-17",
   "LaBella Associates": "2026-11-16",
   "Odin": "2026-11-16",
   "OpenDataJobs": "2026-11-14",
@@ -14938,6 +14938,10 @@
   "2026-11-16": [
    142,
    336
+  ],
+  "2026-11-17": [
+   0,
+   5
   ]
  },
  "resolved": {
@@ -36467,7 +36471,7 @@
      "/"
     ]
    ],
-   "t": "2026-11-10"
+   "t": "2026-11-17"
   },
   "careers.owenscorning.com": {
    "r": [
@@ -53092,7 +53096,7 @@
      "/"
     ]
    ],
-   "t": "2026-11-10"
+   "t": "2026-11-17"
   },
   "mtstatejobs.taleo.net": {
    "r": [],
@@ -65927,6 +65931,7 @@
   "ashby:siftstack:28db223c-b2ce-4b40-b515-32d96062e6fa": "2026-11-07",
   "ashby:siftstack:a13a8413-86e4-46b3-a073-2a1f54bf689c": "2026-11-11",
   "ashby:simple-ai:1dbaca6f-92cd-4ad9-ac3f-8fe6dce7e20c": "2026-11-12",
+  "ashby:skydio:e039f6f5-6136-4a24-8a30-f4a2979d1ac7": "2026-11-17",
   "ashby:socure:e3e43ef3-f08e-46c0-8a76-05c0987e8b7f": "2026-11-07",
   "ashby:solveintelligence:228325a6-6cdf-4213-a798-92ae0d7ed783": "2026-11-09",
   "ashby:span.app:00de323d-8842-470f-af05-91643597bb11": "2026-11-09",
@@ -66621,6 +66626,7 @@
   "eightfold:mercadolibre:45520009": "2026-11-14",
   "eightfold:morganstanley:549801018692": "2026-11-14",
   "eightfold:ngc:1340074239588": "2026-11-16",
+  "eightfold:ngc:1340075281013": "2026-11-17",
   "eightfold:ngc:1340075297270": "2026-11-14",
   "eightfold:ngc:1340075298595": "2026-11-14",
   "eightfold:ngc:1340075310658": "2026-11-14",
@@ -66911,6 +66917,8 @@
   "greenhouse:eleviassociates:8205869003": "2026-11-16",
   "greenhouse:eleviassociates:8205874003": "2026-11-16",
   "greenhouse:eleviassociates:8206105003": "2026-11-16",
+  "greenhouse:eleviassociates:8206169003": "2026-11-17",
+  "greenhouse:eleviassociates:8206182003": "2026-11-17",
   "greenhouse:epicgames:6250171004": "2026-11-12",
   "greenhouse:epicgames:6257189004": "2026-11-12",
   "greenhouse:esri:5262837007": "2026-11-09",
@@ -69885,7 +69893,7 @@
   "remoteok": "2026-11-16T23:07:14+00:00",
   "usajobs": "2026-11-16T22:07:37+00:00",
   "workable_search": "2026-11-16T22:07:37+00:00",
-  "wwr": "2026-11-16T23:07:14+00:00",
+  "wwr": "2026-11-17T00:07:19+00:00",
   "yc": "2026-11-16T22:07:37+00:00"
  },
  "title_rules": "c323075b4d70",
