@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**681 jobs**, newest first. Updated Tue Nov 17, 12:37 AM CST from 12,526 company job boards and other sources.
+**681 jobs**, newest first. Updated Tue Nov 17, 1:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 234 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,415 matching jobs that job sites and feeds listed this week, 484 (34%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,457 matching jobs that job sites and feeds listed this week, 504 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (51)](#monday-nov-16-51) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84)
 
@@ -731,13 +731,14 @@ Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (51)](#monday-nov-16-51) · 
 | 2:00 AM | [Sr. Cloud Software Engineer](https://jobs.supermicro.com/job/San-Jose-Sr_-Cloud-Software-Engineer-Cali/1439207800/) | Super Micro Computer | San Jose, California, United States | 48 | senior title, years not stated |
 | 2:00 AM | [Sr Platform Engineer](https://careers.thehersheycompany.com/job/Dallas-Sr-Platform-Engineer-TX-75201/1438643100/) | Hershey | Dallas, TX, US | 53 | 3+ yrs exp; senior title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (713)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (714)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Systems Configuration Management Engineer (Level 3 or 4)](https://ngc.eightfold.ai/careers/job/1340075281013) | Ngc | San Diego, CA, US; Melbourne, FL, US; E… (onsite) | 50 | rules: 3+ yrs exp; senior title; needs: security clearance |
+| 1:00 AM | [Senior Data Platform Engineer](https://jobs.ashbyhq.com/ellipsis-health/8c44835f-2bf7-4976-9004-f3707781cd65) | Ellipsis Health | San Francisco - Hybrid (hybrid) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:13 PM | [Senior Full Stack Engineer, Java & Kubernetes Focus](https://jobs.lever.co/jobgether/6b7d4699-9948-48b8-a57c-079cfb1c3dda) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 9:01 PM | [Software Engineer, Tinker Infrastructure](https://jobs.ashbyhq.com/ThinkingMachines/541c2fcf-e128-4442-94ee-c8298f226756) | ThinkingMachines | San Francisco (onsite) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 7:03 PM | [Senior Network Production Engineer, Operations](https://jobs.ashbyhq.com/Crusoe/042fbe44-edfa-4447-8982-0487c39078d7) | Crusoe | San Francisco, CA - US; Sunnyvale, CA -… (onsite) | 60 | rules: 5+ yrs exp; senior title; priority company; asks for 5+ years … |
@@ -1136,7 +1137,6 @@ Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (51)](#monday-nov-16-51) · 
 | date only | [Senior Platform Engineer, APIs & Workflow Automation](https://apply.workable.com/bask-health-1/j/3383A36B1B/) | Bask Health 1 | United States (remote) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Mainframe Application Support Engineer (COBOL/JCL/DB2)](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Merrimack-NH/Senior-Mainframe-Application-Support-Engineer--COBOL-JCL-DB2-_2137551-1) | Fidelity Investments | Merrimack, NH | 38 | rules: 4+ yrs exp; senior title; adjacent title, little DevOps/cloud … |
 | date only | [System Safety & Reliability Engineer](https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Indianapolis/System-Safety---Reliability-Engineer_JR6158706) | Rolls-Royce | Indianapolis; Novi +1 more | 68 | rules: 1+ yrs exp; needs: must be a US citizen |
-| date only | [Reliability Engineer](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Tar-Heel-NC/Reliability-Engineer_R-2026-15910) | Smithfield Foods | Tar Heel, NC (onsite) | 58 | rules: 2+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 
 </details>
 

@@ -11769,6 +11769,11 @@
    "n": 4,
    "since": "2026-11-07"
   },
+  "ashby:Oso": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "ashby:Tempo": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -11804,6 +11809,11 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-11"
+  },
+  "ashby:browserbase": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "ashby:chainlink-labs": {
    "disabled_until": "2026-11-21",
@@ -12071,17 +12081,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 178,
+   "n": 179,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 178,
+   "n": 179,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 178,
+   "n": 179,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12497,6 +12507,16 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 4,
    "since": "2026-11-09"
+  },
+  "icims:careers-cotiviti.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "icims:careers-eyesouthpartners.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-23",
@@ -14513,6 +14533,11 @@
    "n": 4,
    "since": "2026-11-09"
   },
+  "taleo:rossstores|rstrcs1.1": {
+   "err": "Taleo portal number not found",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "taleo:vulcanmat|2": {
    "disabled_until": "2026-11-23",
    "err": "Taleo portal number not found",
@@ -14941,8 +14966,8 @@
    336
   ],
   "2026-11-17": [
-   40,
-   110
+   60,
+   152
   ]
  },
  "resolved": {
@@ -65837,6 +65862,7 @@
   "ashby:e2b:657ce888-be70-46cf-975f-ca7788694fdc": "2026-11-09",
   "ashby:elevenlabs:750a8325-7ce1-45ea-b0b1-61dab78a456e": "2026-11-07",
   "ashby:elevenlabs:ce3d5a59-fb8c-482b-bc3f-60e44576c5e0": "2026-11-07",
+  "ashby:ellipsis-health:8c44835f-2bf7-4976-9004-f3707781cd65": "2026-11-17",
   "ashby:equip:829ff280-4d61-4b23-a754-af75e1282203": "2026-11-07",
   "ashby:exa:918561fd-6f4b-4b2b-a14d-041109ecf692": "2026-11-07",
   "ashby:exa:f4dd7ae8-cf72-4634-b708-742601b9061c": "2026-11-08",
@@ -69898,11 +69924,11 @@
  },
  "source_last": {
   "hn": "2026-11-17T02:37:14+00:00",
-  "remoteok": "2026-11-17T05:07:28+00:00",
-  "usajobs": "2026-11-17T04:07:15+00:00",
-  "workable_search": "2026-11-17T04:07:15+00:00",
-  "wwr": "2026-11-17T06:07:15+00:00",
-  "yc": "2026-11-17T04:07:15+00:00"
+  "remoteok": "2026-11-17T07:07:13+00:00",
+  "usajobs": "2026-11-17T07:07:13+00:00",
+  "workable_search": "2026-11-17T07:07:13+00:00",
+  "wwr": "2026-11-17T07:07:13+00:00",
+  "yc": "2026-11-17T07:07:13+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
