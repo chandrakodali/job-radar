@@ -12071,17 +12071,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 169,
+   "n": 170,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 169,
+   "n": 170,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 169,
+   "n": 170,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14489,11 +14489,6 @@
    "n": 4,
    "since": "2026-11-09"
   },
-  "taleo:drhorton|2": {
-   "err": "invalid JSON",
-   "n": 1,
-   "since": "2026-11-17"
-  },
   "taleo:energytransfer|etp_ext": {
    "disabled_until": "2026-11-23",
    "err": "Taleo portal number not found",
@@ -14906,7 +14901,7 @@
   "Halcyon": "2026-11-14",
   "Knack": "2026-11-17",
   "LaBella Associates": "2026-11-17",
-  "Odin": "2026-11-16",
+  "Odin": "2026-11-17",
   "OpenDataJobs": "2026-11-14",
   "PGTEK": "2026-11-14",
   "PIMCO": "2026-11-16",
@@ -14947,7 +14942,7 @@
   ],
   "2026-11-17": [
    20,
-   52
+   53
   ]
  },
  "resolved": {
@@ -69896,7 +69891,7 @@
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-16T20:37:19+00:00",
+  "hn": "2026-11-17T02:37:14+00:00",
   "remoteok": "2026-11-17T01:07:30+00:00",
   "usajobs": "2026-11-17T01:07:30+00:00",
   "workable_search": "2026-11-17T01:07:30+00:00",
