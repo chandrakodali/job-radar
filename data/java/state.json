@@ -11986,17 +11986,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 67,
+   "n": 68,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 67,
+   "n": 68,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 67,
+   "n": 68,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12295,7 +12295,7 @@
   },
   "greenhouse:quip": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "greenhouse:rdccareers": {
@@ -13317,7 +13317,7 @@
   ],
   "2026-11-17": [
    62,
-   273
+   276
   ]
  },
  "resolved": {
@@ -64615,6 +64615,7 @@
   "avature:harmanglobal.avature.net|en_US/careers:33277": "2026-11-14",
   "avature:harmanglobal.avature.net|en_US/careers:33333": "2026-11-17",
   "avature:harmanglobal.avature.net|en_US/careers:33337": "2026-11-17",
+  "avature:harmanglobal.avature.net|en_US/careers:33341": "2026-11-17",
   "avature:jrg.avature.net|careers:2070": "2026-11-15",
   "avature:justicejobs.avature.net|careers:24118": "2026-11-15",
   "avature:justicejobs.avature.net|careers:24211": "2026-11-15",
@@ -65585,6 +65586,7 @@
   "eightfold:mercadolibre:45373237": "2026-11-14",
   "eightfold:mercadolibre:45513459": "2026-11-14",
   "eightfold:mercadolibre:45520009": "2026-11-14",
+  "eightfold:mercadolibre:45572877": "2026-11-17",
   "eightfold:micron:39786384": "2026-11-14",
   "eightfold:micron:44144084": "2026-11-14",
   "eightfold:micron:45500814": "2026-11-14",
@@ -65940,6 +65942,7 @@
   "gem:sofi-technologies-ats:am9icG9zdDojg45ZNmwEuYjJT0x01EQl": "2026-11-14",
   "gem:sphere-semi:am9icG9zdDqg4uUMHJ5jKCEKrB2khqft": "2026-11-14",
   "gem:ssg:am9icG9zdDqjydWr9BMNCte-B8h_le6B": "2026-11-17",
+  "gem:ssg:am9icG9zdDryAAWWNbJpelxvOo1tWnrZ": "2026-11-17",
   "gem:stackyak:am9icG9zdDrS1VXoPwsfjxegCRTHTd2b": "2026-11-14",
   "gem:staffeto-com:am9icG9zdDrqLy_UXKk1bnrgqXShSS6b": "2026-11-14",
   "gem:stuut:am9icG9zdDrSRpA3l37rSamsoCQ_ILPY": "2026-11-14",
@@ -66076,6 +66079,8 @@
   "greenhouse:atoms:8885772002": "2026-11-14",
   "greenhouse:atoms:8885781002": "2026-11-14",
   "greenhouse:attentive:4434476009": "2026-11-16",
+  "greenhouse:avidxchangeinc:5264558007": "2026-11-17",
+  "greenhouse:avidxchangeinc:5289259007": "2026-11-17",
   "greenhouse:avride:4483495009": "2026-11-14",
   "greenhouse:axon:7997878003": "2026-11-14",
   "greenhouse:babelstreet:8384370": "2026-11-14",
@@ -66115,6 +66120,7 @@
   "greenhouse:cloudflare:8263016": "2026-11-14",
   "greenhouse:cloudflare:8346149": "2026-11-14",
   "greenhouse:cloudflare:8360609": "2026-11-14",
+  "greenhouse:cloudflare:8383586": "2026-11-17",
   "greenhouse:cloverhealth:8353858": "2026-11-14",
   "greenhouse:cloverhealth:8374561": "2026-11-14",
   "greenhouse:cmt:8385978": "2026-11-14",
@@ -66124,6 +66130,7 @@
   "greenhouse:coinbase:8351163": "2026-11-14",
   "greenhouse:coinbase:8357772": "2026-11-14",
   "greenhouse:coinbase:8368463": "2026-11-16",
+  "greenhouse:coinbase:8395582": "2026-11-17",
   "greenhouse:compasshealthcenter:8200413003": "2026-11-14",
   "greenhouse:compeerfinancial:5474151008": "2026-11-14",
   "greenhouse:consensys:8374566": "2026-11-14",
@@ -66201,6 +66208,7 @@
   "greenhouse:grvty:4508801009": "2026-11-16",
   "greenhouse:gusto:8360497": "2026-11-14",
   "greenhouse:halcyon:6252121004": "2026-11-14",
+  "greenhouse:hearst:4467518009": "2026-11-17",
   "greenhouse:hp:6251120004": "2026-11-14",
   "greenhouse:humaninterest:8360535": "2026-11-14",
   "greenhouse:icapitalnetwork:8919341002": "2026-11-14",
@@ -66629,6 +66637,7 @@
   "icims:careers-lmi.icims.com:14047": "2026-11-14",
   "icims:careers-lmi.icims.com:14574": "2026-11-14",
   "icims:careers-lmi.icims.com:14588": "2026-11-14",
+  "icims:careers-lmi.icims.com:14589": "2026-11-17",
   "icims:careers-lmi.icims.com:14718": "2026-11-14",
   "icims:careers-lmi.icims.com:14802": "2026-11-14",
   "icims:careers-lmi.icims.com:14860": "2026-11-14",
@@ -67229,7 +67238,9 @@
   "jobvite:metropolitantransportationauthority:oTXByfwJ": "2026-11-14",
   "jobvite:metropolitantransportationauthority:oo0Jzfwq": "2026-11-14",
   "jobvite:metropolitantransportationauthority:oufJzfwL": "2026-11-14",
+  "jobvite:mini-circuits-review:oaY7Afwz": "2026-11-17",
   "jobvite:mini-circuits-review:oiF3Afwk": "2026-11-14",
+  "jobvite:mini-circuits:oaY7Afwz": "2026-11-17",
   "jobvite:mini-circuits:oiF3Afwk": "2026-11-15",
   "jobvite:myhrpartnerinc:oOdRAfwc": "2026-11-15",
   "jobvite:ninjaone:oKjFAfw2": "2026-11-14",
@@ -68460,6 +68471,7 @@
   "smartrecruiters:sosi1:3743990016701976": "2026-11-14",
   "smartrecruiters:syncreonconsulting:744000161503774": "2026-11-14",
   "smartrecruiters:syncreonconsulting:744000161858469": "2026-11-16",
+  "smartrecruiters:syncreonconsulting:744000162098510": "2026-11-17",
   "smartrecruiters:talan:744000160959349": "2026-11-14",
   "smartrecruiters:talan:744000161158401": "2026-11-14",
   "smartrecruiters:talan:744000161165829": "2026-11-14",
@@ -68485,6 +68497,7 @@
   "taleo:drhorton|2:2605756": "2026-11-16",
   "teamtailor:graviteetopcoltd:8675964": "2026-11-14",
   "teamtailor:sullyai:8718634": "2026-11-14",
+  "teamtailor:teamviewer:8756713": "2026-11-17",
   "tiktok:us:6843942799873329416": "2026-11-14",
   "tiktok:us:6846876125122349325": "2026-11-14",
   "tiktok:us:7177558710270314807": "2026-11-14",
@@ -69559,7 +69572,7 @@
   "remoteok": "2026-11-17T14:50:39+00:00",
   "usajobs": "2026-11-17T14:50:39+00:00",
   "workable_search": "2026-11-17T14:50:39+00:00",
-  "wwr": "2026-11-17T14:50:39+00:00",
+  "wwr": "2026-11-17T15:48:51+00:00",
   "yc": "2026-11-17T14:50:39+00:00"
  },
  "title_rules": "72f554d20a7f",
