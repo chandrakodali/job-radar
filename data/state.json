@@ -12084,17 +12084,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 195,
+   "n": 196,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 195,
+   "n": 196,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 195,
+   "n": 196,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14961,8 +14961,8 @@
    336
   ],
   "2026-11-17": [
-   99,
-   268
+   116,
+   301
   ]
  },
  "resolved": {
@@ -66159,6 +66159,7 @@
   "bamboohr:pemcco:253": "2026-11-15",
   "bamboohr:pemcco:293": "2026-11-15",
   "bamboohr:pencor:1060": "2026-11-08",
+  "bamboohr:pencor:1197": "2026-11-17",
   "bamboohr:pencor:970": "2026-11-08",
   "bamboohr:safransed:1149": "2026-11-08",
   "breezy:nationsbenefits:22d1a3f20ba2": "2026-11-14",
@@ -66655,6 +66656,7 @@
   "eightfold:eaton|eaton.com:687239541052": "2026-11-09",
   "eightfold:eaton|eaton.com:687240042663": "2026-11-17",
   "eightfold:ford:563568454116722": "2026-11-14",
+  "eightfold:globalfoundries:563980771068234": "2026-11-17",
   "eightfold:hp:44506725": "2026-11-14",
   "eightfold:mercadolibre:45520009": "2026-11-14",
   "eightfold:morganstanley:549801018692": "2026-11-14",
@@ -67025,6 +67027,7 @@
   "greenhouse:mongodb:8352433": "2026-11-12",
   "greenhouse:monsterenergy:4485188009": "2026-11-11",
   "greenhouse:monsterenergy:4485445009": "2026-11-16",
+  "greenhouse:morsecorp:8207239003": "2026-11-17",
   "greenhouse:mthreerecruitingportal:4725832006": "2026-11-07",
   "greenhouse:muonspace:5283511007": "2026-11-12",
   "greenhouse:myfitnesspal:8359189": "2026-11-12",
@@ -67956,6 +67959,7 @@
   "jobvite:isoftstone:obP6zfwp": "2026-11-12",
   "jobvite:jbs:oiO5Afwv": "2026-11-12",
   "jobvite:jobs-gigait:ovu4Afwn": "2026-11-14",
+  "jobvite:kaltire:ogYEAfwc": "2026-11-17",
   "jobvite:liferay:o6DyAfwB": "2026-11-12",
   "jobvite:liferay:opHyAfwY": "2026-11-11",
   "jobvite:ness:oMZZAfw4": "2026-11-15",
@@ -68221,6 +68225,7 @@
   "oracle:fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1002:8434": "2026-11-13",
   "oracle:fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com|CSXCareers:54828": "2026-11-09",
   "oracle:fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com|CSXCareers:55054": "2026-11-13",
+  "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:3022514": "2026-11-17",
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27141": "2026-11-08",
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27309": "2026-11-08",
   "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10005497": "2026-11-13",
@@ -68250,6 +68255,7 @@
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4348": "2026-11-12",
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4387": "2026-11-08",
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4549": "2026-11-17",
+  "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4552": "2026-11-17",
   "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:120413": "2026-11-12",
   "oracle:hcal.fa.us2.oraclecloud.com|CX_1001:2398": "2026-11-12",
   "oracle:hcal.fa.us2.oraclecloud.com|CX_1:2398": "2026-11-14",
@@ -69957,10 +69963,10 @@
  "source_last": {
   "hn": "2026-11-17T14:37:18+00:00",
   "remoteok": "2026-11-17T15:37:14+00:00",
-  "usajobs": "2026-11-17T13:07:17+00:00",
-  "workable_search": "2026-11-17T13:07:17+00:00",
+  "usajobs": "2026-11-17T16:07:16+00:00",
+  "workable_search": "2026-11-17T16:07:16+00:00",
   "wwr": "2026-11-17T15:37:14+00:00",
-  "yc": "2026-11-17T13:07:17+00:00"
+  "yc": "2026-11-17T16:07:16+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1

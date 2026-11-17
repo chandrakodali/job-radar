@@ -1,14 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**678 jobs**, newest first. Updated Tue Nov 17, 9:37 AM CST from 12,526 company job boards and other sources.
+**677 jobs**, newest first. Updated Tue Nov 17, 10:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 235 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,573 matching jobs that job sites and feeds listed this week, 543 (34%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,606 matching jobs that job sites and feeds listed this week, 560 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (50)](#monday-nov-16-50) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (75)](#tuesday-nov-10-75)
+Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (50)](#monday-nov-16-50) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (74)](#tuesday-nov-10-74)
 
 ## Tuesday, Nov 17 (8)
 
@@ -648,7 +648,7 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (50)](#monday-nov-16-50) · 
 | 2:24 AM | [Senior Cloud Security Engineer](https://jobs.lever.co/jobgether/73d75c56-c3b4-403f-b49d-93905c180592) | Jobgether | US (remote) | 45 | 3+ yrs exp; senior title |
 | 2:00 AM | [Senior Engineer Core Infrastructure](https://careers.jetblue.com/job/Long-Island-City-Senior-Engineer-Core-Infrastructure-NY-11101/1389530100/) | JetBlue | Long Island City, NY, United States | 53 | 4+ yrs exp; senior title |
 
-## Tuesday, Nov 10 (75)
+## Tuesday, Nov 10 (74)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -726,9 +726,8 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (50)](#monday-nov-16-50) · 
 | date only | [Platform Engineer (Azure)](https://ascendanalytics.bamboohr.com/careers/39) | Ascendanalytics | Boulder, Colorado | 43 | 4+ yrs exp; no future H-1B sponsorship |
 | 10:31 AM | [(1120620) Senior Kubernetes Platform Engineer](https://jobs.workable.com/view/mHvEkhkGdpTWL5MXUiFjY7/(1120620)-senior-kubernetes-platform-engineer-in-peoria-at-diversified-services-network%2C-inc.) | Diversified Services Network,… | Peoria, Illinois (onsite) | 53 | senior title, years not stated |
 | 10:14 AM | [Senior Software Engineer – Network Observability](https://job-boards.greenhouse.io/clockworksystems/jobs/6254176004) | Clockwork Systems | On Site, Palo Alto, California | 48 | senior title, years not stated |
-| 9:56 AM | [DevOps Engineer - Retail Engineering Apps & Services](https://jobs.apple.com/en-us/details/200693083/devops-engineer-retail-engineering-apps-services) | Apple | United States of America | 53 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (724)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (727)
 
 <details><summary>Show</summary>
 
@@ -740,6 +739,11 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (50)](#monday-nov-16-50) · 
 | date only | [System Administrator Level 2](https://apply.workable.com/interimage/j/4076BA6BC3/) | InterImage | Fort Meade, Maryland, United States | 25 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | date only | [System Administrator Level 3](https://apply.workable.com/interimage/j/9819AE97DA/) | InterImage | Fort Meade, Maryland, United States | 30 | rules: 15+ yrs exp; senior title; asks for 15+ years of experience |
 | date only | [Windows Systems Engineer, RSCI Collaborative Services](https://www.amazon.jobs/en/jobs/10594676/windows-systems-engineer-rsci-collaborative-services) | Amazon Development Center U.S… | Bellevue, Washington, USA | 45 | rules: 3+ yrs exp; needs: Security Clearance |
+| date only | [Network Engineering Supervisor](https://pencor.bamboohr.com/careers/1197) | Pencor Services | Lehighton, Pennsylvania | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| date only | [Senior Reliability Engineer](https://globalfoundries.eightfold.ai/careers/job/563980771068234) | Globalfoundries | Malta, NY, US (onsite) | 45 | rules: senior title, years not stated; adjacent title, little DevOps/… |
+| 10:03 AM | [Cloud Engineer](https://boards.greenhouse.io/morsecorp/jobs/8207239003?gh_jid=8207239003) | MORSE Corp | Cambridge, MA, Arlington, VA, Seattle, … | 45 | rules: 5+ yrs exp; needs: Security Clearance |
+| 9:46 AM | [Senior II Site Reliability Engineer](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4552) | Akamai Technologies | United States (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
+| 9:40 AM | [Cloud Network Engineer](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022514) | ADT | Irving, TX, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 9:26 AM | [Sr. Production Engineer (9/80 work schedule)](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162106439-sr-production-engineer-9-80-work-schedule-) | Veolia | Beaumont, TX, United States | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 9:09 AM | [Senior Infrastructure Engineer](https://jobs.gem.com/firestorm/am9icG9zdDqVPZoDNcp76XtIrqIwAdOj) | Firestorm | San Diego, CA (hybrid) | 50 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 9:02 AM | [Senior Site Reliability Engineer](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4549) | Akamai Technologies | United States (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
@@ -1129,11 +1133,6 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (50)](#monday-nov-16-50) · 
 | 1:11 PM | [IT and Systems Administrator](https://jobs.ashbyhq.com/yondr/24961df5-29c0-412a-8c81-8c3c27764505) | Yondr | Los Angeles, California (hybrid) | 38 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | 12:17 PM | [DevOps Engineer](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607088) | WTW | Salt Lake City, UT, United States; Tamp… | 45 | asks for 5+ years of experience; 5+ yrs exp |
 | 12:01 PM | [System Administrator](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4484594009) | Voyager Technologies | Littleton, CO | 30 | rules: 12+ yrs exp; needs: must be a U.S. Person |
-| 11:50 AM | [Software Engineer, Developer Experience (AI Infrastructure)](https://jobs.ashbyhq.com/siftstack/a13a8413-86e4-46b3-a073-2a1f54bf689c) | SIFT | Marina Del Rey, CA; San Francisco, CA (hybrid) | 50 | rules: 6+ yrs exp; needs: Must be a U.S. citizen |
-| date only | [Associate, Data Platform Engineering](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Associate--Data-Platform-Engineering_R8755) | Ares Management | New York, NY | 55 | asks for 6+ years of experience; entry-level title; 6+ yrs exp; repost |
-| date only | [Genesys Cloud - Operations Engineer](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Cloud-Solutions-Engineer-2_R-430679) | Humana | Remote Nationwide (remote) | 42 | asks for 5+ years of experience; 5+ yrs exp |
-| date only | [Infrastructure Engineer](https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary/job/Lyndhurst-NJ/Infrastructure-Engineer_104049) | Memorial Sloan Kettering Canc… | Lyndhurst, NJ (hybrid) | 50 | asks for 5+ years of experience; 5+ yrs exp |
-| date only | [EXE Production Engineer](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Wilton-CT-USA/EXE-Production-Engineer_J-00354641) | ASML | Wilton, CT, USA | 23 | asks for 5+ years of experience; 5+ yrs exp |
 
 </details>
 
