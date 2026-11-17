@@ -12071,17 +12071,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 176,
+   "n": 177,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 176,
+   "n": 177,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 176,
+   "n": 177,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14942,7 +14942,7 @@
   ],
   "2026-11-17": [
    40,
-   105
+   110
   ]
  },
  "resolved": {
@@ -66655,6 +66655,7 @@
   "eightfold:nvidia:893397913224": "2026-11-14",
   "eightfold:nvidia:893398245783": "2026-11-14",
   "eightfold:nvidia:893398591334": "2026-11-16",
+  "eightfold:nvidia:893398660270": "2026-11-17",
   "eightfold:nvidia:893398699304": "2026-11-14",
   "eightfold:nvidia:893398750368": "2026-11-16",
   "eightfold:qualcomm:446719899052": "2026-11-15",
@@ -69900,7 +69901,7 @@
   "remoteok": "2026-11-17T05:07:28+00:00",
   "usajobs": "2026-11-17T04:07:15+00:00",
   "workable_search": "2026-11-17T04:07:15+00:00",
-  "wwr": "2026-11-17T05:07:28+00:00",
+  "wwr": "2026-11-17T06:07:15+00:00",
   "yc": "2026-11-17T04:07:15+00:00"
  },
  "title_rules": "c323075b4d70",

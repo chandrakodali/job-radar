@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**681 jobs**, newest first. Updated Mon Nov 16, 11:37 PM CST from 12,526 company job boards and other sources.
+**681 jobs**, newest first. Updated Tue Nov 17, 12:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 234 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,410 matching jobs that job sites and feeds listed this week, 484 (34%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,415 matching jobs that job sites and feeds listed this week, 484 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (51)](#monday-nov-16-51) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84)
 
@@ -774,6 +774,7 @@ Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (51)](#monday-nov-16-51) · 
 | 11:17 AM | [Senior DevOps Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/8205573003) | Rocket Lab USA | Littleton, CO | 55 | rules: entry-level title; 5+ yrs exp; senior title; needs: must be a … |
 | 11:07 AM (seen) | [DevOps Automation Engineer](https://app.dover.com/apply/devops-automation-eng/5a6153f8-c989-4998-a826-5fbdae605605) | Devops Automation Eng | McLean, VA (onsite) | 35 | rules: 9+ yrs exp; asks for 9+ years of experience |
 | 11:07 AM (seen) | [DevOps Engineer (Founding Team)](https://app.dover.com/apply/gradientflo/1c0df54b-45f7-4dab-ae4d-82fae8dfb04d) | Gradientflo | Hyderābād, India; San Francisco, CA (onsite) | 35 | rules: 10+ yrs exp; asks for 10+ years of experience |
+| date only | [Senior Software Engineer, Platform Engineering - EDA Infrastructure](https://nvidia.eightfold.ai/careers/job/893398660270) | Nvidia | WA,US; Austin, TX, US; Westford, MA, US… (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Software Engineer - Accelerated Kubernetes Runtime Team](https://nvidia.eightfold.ai/careers/job/893394443076) | Nvidia | WA,US; US +3 more (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Network Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893384025211) | Nvidia | Santa Clara, CA, US; US +1 more (remote) | 15 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Systems Administrator](https://ngc.eightfold.ai/careers/job/1340075351241) | Ngc | Colorado Springs, CO, US (onsite) | 65 | rules: 2+ yrs exp; needs: CLEARANCE REQUIRED |
@@ -1136,7 +1137,6 @@ Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (51)](#monday-nov-16-51) · 
 | date only | [Senior Mainframe Application Support Engineer (COBOL/JCL/DB2)](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Merrimack-NH/Senior-Mainframe-Application-Support-Engineer--COBOL-JCL-DB2-_2137551-1) | Fidelity Investments | Merrimack, NH | 38 | rules: 4+ yrs exp; senior title; adjacent title, little DevOps/cloud … |
 | date only | [System Safety & Reliability Engineer](https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Indianapolis/System-Safety---Reliability-Engineer_JR6158706) | Rolls-Royce | Indianapolis; Novi +1 more | 68 | rules: 1+ yrs exp; needs: must be a US citizen |
 | date only | [Reliability Engineer](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Tar-Heel-NC/Reliability-Engineer_R-2026-15910) | Smithfield Foods | Tar Heel, NC (onsite) | 58 | rules: 2+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
-| date only | [Reliability Engineer (Hellmann's Mayo Factory)](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Chicago-IL/Reliability-Lead_R-1186348) | Unilever | Chicago, IL | 38 | rules: 4+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 
 </details>
 
