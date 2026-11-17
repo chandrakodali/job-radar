@@ -12071,17 +12071,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 168,
+   "n": 169,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 168,
+   "n": 169,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 168,
+   "n": 169,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14489,6 +14489,11 @@
    "n": 4,
    "since": "2026-11-09"
   },
+  "taleo:drhorton|2": {
+   "err": "invalid JSON",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "taleo:energytransfer|etp_ext": {
    "disabled_until": "2026-11-23",
    "err": "Taleo portal number not found",
@@ -14942,7 +14947,7 @@
   ],
   "2026-11-17": [
    20,
-   47
+   52
   ]
  },
  "resolved": {
@@ -69895,7 +69900,7 @@
   "remoteok": "2026-11-17T01:07:30+00:00",
   "usajobs": "2026-11-17T01:07:30+00:00",
   "workable_search": "2026-11-17T01:07:30+00:00",
-  "wwr": "2026-11-17T01:07:30+00:00",
+  "wwr": "2026-11-17T02:07:15+00:00",
   "yc": "2026-11-17T01:07:30+00:00"
  },
  "title_rules": "c323075b4d70",
