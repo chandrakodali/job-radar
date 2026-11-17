@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**703 jobs**, newest first. Updated Mon Nov 16, 10:18 PM CST from 12,526 company job boards and other sources.
+**697 jobs**, newest first. Updated Mon Nov 16, 11:18 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,13 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 2,388 matching jobs that job sites and feeds listed this week, 444 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (59)](#monday-nov-16-59) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (91)](#tuesday-nov-10-91) · [Mon 9 (7)](#monday-nov-9-7)
+Jump to: [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (91)](#tuesday-nov-10-91)
 
-## Monday, Nov 16 (59)
+## Monday, Nov 16 (60)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:00 PM | [Service Desk Technician](https://career-portal-wolfandco.icims.com/jobs/1609/service-desk-technician/job) | Wolf & Company | Boston, MA, United States | 85 | 0-2 yrs exp; entry level (from the text) |
 | 8:40 PM | [Business Applications Analyst I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b00969b-cd4f-46ff-843c-0ca700b59ca3&ccId=19000101_000001&jobId=9200917479411_1&lang=en_US) | 1B00969B Cd4F 46Ff 843C 0Ca70… | San Antonio, TX | 85 | entry-level title; 1+ yrs exp |
 | 8:30 PM | [Fusion Applications AI Agent Adoption Consultant](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350752) | Oracle | United States | 85 | 1+ yrs exp; entry level (from the text) |
 | 8:30 PM | [Fusion Applications AI Agent Adoption Consultant](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/350752) | Eeho Fa Us2 Oraclecloud Com | United States | 85 | 1+ yrs exp; entry level (from the text) |
@@ -741,19 +742,7 @@ Jump to: [Mon 16 (59)](#monday-nov-16-59) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 5:00 AM | [Associate Solution Consultant](https://jobs.ashbyhq.com/socure/f2330d9e-1c1d-493e-adb7-e7602efc789f) | Socure | Hub - New York; Hub - San Francisco; Hu… (hybrid) | 68 | entry-level title |
 | 12:00 AM | [Cyber Security Associate (Contract)](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9185) | Hightower | Chicago, IL, US | 63 | entry-level title |
 
-## Monday, Nov 9 (7)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 11:00 PM | [Security Electronics Engineer I](https://jobs-challp.icims.com/jobs/7935/security-electronics-engineer-i/job) | CHA Consulting | Albany, NY, United States; Syracuse, NY… | 58 | entry-level title; staffing/consulting firm: verify it's real |
-| 11:00 PM | [Software Engineer 1, Full-Stack](https://americas-cookmedical.icims.com/jobs/20874/software-engineer-1%2c-full-stack/job) | Cook Group | Bloomington, IN, United States; West La… | 63 | entry-level title |
-| 11:00 PM | [Data Analyst I Product](https://careers-mercuryinsurance.icims.com/jobs/6955/data-analyst-i-product/job) | Mercury Insurance | Remote, United States | 73 | entry-level title; 1+ yrs exp |
-| 11:00 PM | [AI Developer](https://careers-berkley.icims.com/jobs/14593/ai-developer/job) | W.R. Berkley | Manassas, VA, United States | 73 | 0-2 yrs exp; entry level (from the text) |
-| 11:00 PM | [Penetration Tester](https://career-portal-wolfandco.icims.com/jobs/1605/penetration-tester/job) | Wolf & Company | Boston, MA, United States | 63 | 1+ yrs exp |
-| 11:00 PM | [Traveler Support Center Specialist](https://jobs.dayforcehcm.com/en-US/corpay/candidateportal/jobs/57588) | Corpay | Wichita, KS, US | 63 | 1+ yrs exp |
-| 10:29 PM | [Associate Salesforce Administrator](https://jobs.lever.co/jobgether/23e8f6ed-3502-485d-b40d-552db48f89eb) | Jobgether | US (remote) | 70 | entry-level title; 0-2 yrs exp |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3298)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3301)
 
 <details><summary>Show</summary>
 
@@ -766,7 +755,10 @@ Jump to: [Mon 16 (59)](#monday-nov-16-59) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | date only | [Systems Development Engineer, DC Robotics, Data Center Robotics](https://www.amazon.jobs/en/jobs/10606820/systems-development-engineer-dc-robotics-data-center-robotics) | Amazon Data Services, Inc. | Seattle, Washington, USA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Clearable Data Center Technician, Infraops AG](https://www.amazon.jobs/en/jobs/10604670/clearable-data-center-technician-infraops-ag) | Amazon Data Services, Inc. | Aurora, Colorado, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
 | date only | [Clearable Data Center Technician, Data Center Operations](https://www.amazon.jobs/en/jobs/10597767/clearable-data-center-technician-data-center-operations) | Amazon Web Services, Inc. | Aurora, Colorado, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
+| 11:06 PM | [Data Scientist – Advanced Analytics & Healthcare Research](https://jobs.lever.co/jobgether/a4824d48-5f1c-49a6-9780-2dde57e359cc) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:42 PM | [Practice Support Specialist](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_1&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 55 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
+| 10:34 PM | [Patient Outreach and Support Specialist-Temp](https://job-boards.greenhouse.io/natera/jobs/6263353004) | Natera | US Remote (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 10:22 PM | [Spacecraft Environmental Test Technician](https://jobs.ashbyhq.com/apex-technology-inc/8092a0e6-6c73-474a-a0e6-a116b381eefe) | Apex | Los Angeles | 60 | rules: 3+ yrs exp; needs: ITAR |
 | 9:32 PM | [Software Engineer, Ads Serving](https://job-boards.greenhouse.io/xai/jobs/5297311007) | xAI | Palo Alto, CA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:02 PM | [Software Engineer, Distributed Systems](https://jobs.ashbyhq.com/ThinkingMachines/50f566c8-7fe3-4fe5-a8ca-b42503537a51) | ThinkingMachines | San Francisco; New York (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 9:01 PM | [Software Engineer, Tinker Infrastructure](https://jobs.ashbyhq.com/ThinkingMachines/541c2fcf-e128-4442-94ee-c8298f226756) | ThinkingMachines | San Francisco (onsite) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
@@ -1156,8 +1148,5 @@ Jump to: [Mon 16 (59)](#monday-nov-16-59) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 2:59 PM (seen) | [Enterprise Systems Engineer](https://app.careerpuck.com/job-board/avalara/job/RFYDsOH6) | Avalara | Remote, United States (remote) | 27 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 2:59 PM (seen) | [Product Solution Consultant](https://app.careerpuck.com/job-board/avalara/job/HX4RhtCo) | Avalara | Remote, United States (remote) | 42 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 2:59 PM (seen) | [Software Development Engineer](https://app.careerpuck.com/job-board/avalara/job/-We1DWyv) | Avalara | Remote, United States (remote) | 27 | rules: 6+ yrs exp; asks for 6+ years of experience |
-| 2:59 PM (seen) | [AVP, Data Solutions Engineering](https://app.careerpuck.com/job-board/fortitudegroupholdingsllc/job/d9GA-azZ) | Fortitudegroupholdingsllc | Nashville +2 more | 30 | rules: 7+ yrs exp; asks for 7+ years of experience |
-| 2:59 PM (seen) | [Product Developer & Technician](https://app.careerpuck.com/job-board/outcast-clothing/job/3Hu1nX4m) | Outcast Clothing | Burleigh Heads, Gold Coast (hybrid) | 65 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 2:59 PM (seen) | [Backend Software Engineer, Airports](https://app.careerpuck.com/job-board/lyft/job/Y2nMVEgo) | Lyft | San Francisco, CA | 60 | rules: 2+ yrs exp; asks for 2+ years of experience |
 
 </details>

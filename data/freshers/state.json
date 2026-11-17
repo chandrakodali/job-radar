@@ -11955,17 +11955,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 83,
+   "n": 84,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 83,
+   "n": 84,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 83,
+   "n": 84,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12375,6 +12375,16 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-13"
+  },
+  "icims:careers-cotiviti.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "icims:careers-eyesouthpartners.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-20",
@@ -65002,6 +65012,7 @@
   "ashby:antithesis:914da3e5-43c0-4d97-93af-33213e584a13": "2026-11-13",
   "ashby:apex-technology-inc:227de5a9-a5cd-4608-8dd3-0ada530e508b": "2026-11-13",
   "ashby:apex-technology-inc:7ed56247-2105-4f2f-9d4f-c96f20e7c572": "2026-11-13",
+  "ashby:apex-technology-inc:8092a0e6-6c73-474a-a0e6-a116b381eefe": "2026-11-17",
   "ashby:apex-technology-inc:8baf633d-8e83-4ef1-9d3c-0f52fd1b6540": "2026-11-13",
   "ashby:apex-technology-inc:f228117c-377b-448c-a119-f6ab7a803bf1": "2026-11-13",
   "ashby:applied:157089b3-4d1f-4e24-b7c9-9909b992640c": "2026-11-13",
@@ -69174,6 +69185,8 @@
   "greenhouse:farmersmutualhailinsurancecompany:4484604009": "2026-11-13",
   "greenhouse:fastly:8384124": "2026-11-13",
   "greenhouse:fender:8367779": "2026-11-13",
+  "greenhouse:fictiv:8946572002": "2026-11-17",
+  "greenhouse:fictiv:8946573002": "2026-11-17",
   "greenhouse:figma:6242561004": "2026-11-13",
   "greenhouse:figma:6249978004": "2026-11-13",
   "greenhouse:flagshippioneeringinc:8923519002": "2026-11-13",
@@ -69357,6 +69370,7 @@
   "greenhouse:mxtechnologiesinc:4506948009": "2026-11-13",
   "greenhouse:myriad360:8930382002": "2026-11-13",
   "greenhouse:natera:6252839004": "2026-11-13",
+  "greenhouse:natera:6263353004": "2026-11-17",
   "greenhouse:navapbc:4482367009": "2026-11-14",
   "greenhouse:ncinoinc:4458102009": "2026-11-14",
   "greenhouse:neo4j:4727062006": "2026-11-13",
@@ -69791,6 +69805,7 @@
   "icims:campus-libertymutual.icims.com:226276": "2026-11-13",
   "icims:career-portal-wolfandco.icims.com:1573": "2026-11-13",
   "icims:career-portal-wolfandco.icims.com:1605": "2026-11-13",
+  "icims:career-portal-wolfandco.icims.com:1609": "2026-11-17",
   "icims:careers-alcami.icims.com:1896": "2026-11-13",
   "icims:careers-alcami.icims.com:2201": "2026-11-13",
   "icims:careers-alcami.icims.com:2321": "2026-11-13",
@@ -73237,6 +73252,7 @@
   "lever:jobgether:9dd9f072-6671-4b56-b02c-7c9080f9e8b8": "2026-11-16",
   "lever:jobgether:9fadc447-59bb-422c-b4ce-6d4a655e09d0": "2026-11-14",
   "lever:jobgether:9fd9c450-f807-4b5e-bf0c-9a67cfbbf5e6": "2026-11-14",
+  "lever:jobgether:a4824d48-5f1c-49a6-9780-2dde57e359cc": "2026-11-17",
   "lever:jobgether:a8baa21e-4284-4e3a-8fb7-ee940e4c5604": "2026-11-14",
   "lever:jobgether:ace3fe36-e630-4fb9-a84c-c97a6ce9d37d": "2026-11-14",
   "lever:jobgether:b01674d2-7838-4292-ab20-c26429a1a814": "2026-11-14",
@@ -77222,6 +77238,7 @@
   "workable:tmeic-corporation-americas:F6B7F4946D": "2026-11-13",
   "workable:twocircles:9FA4FB569F": "2026-11-13",
   "workable:vectoratomic:AA7CAB03C0": "2026-11-13",
+  "workable:weekday-1:064EBE04E9": "2026-11-17",
   "workable:weekday-1:2C75505361": "2026-11-13",
   "workable:weekday-1:3365AC7B89": "2026-11-13",
   "workable:weekday-1:82702CC599": "2026-11-13",
