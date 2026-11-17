@@ -12084,17 +12084,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 196,
+   "n": 197,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 196,
+   "n": 197,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 196,
+   "n": 197,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14962,7 +14962,7 @@
   ],
   "2026-11-17": [
    116,
-   301
+   306
   ]
  },
  "resolved": {
@@ -65778,6 +65778,7 @@
   "ashby:Etched:4020db7a-1ec0-48e3-9bbd-f1337c63a403": "2026-11-07",
   "ashby:Etched:b4ad6323-3d69-4881-a2db-e3967afbae65": "2026-11-12",
   "ashby:GovSignals:fc4ea180-ff90-4c11-b92d-dcaed8b6a8ee": "2026-11-07",
+  "ashby:KAYAK:c99cabba-25e3-4888-a54d-38dfaff27fdb": "2026-11-17",
   "ashby:NorthwoodSpace:39d7a585-76f5-4c39-9a5a-b4e8002cdd43": "2026-11-07",
   "ashby:NorthwoodSpace:87bd8fc1-54ea-4bda-90fc-95a956ea92f5": "2026-11-12",
   "ashby:Perplexity:2d510148-8cce-4b67-be25-5784106bbff4": "2026-11-07",
@@ -66842,6 +66843,7 @@
   "greenhouse:atoms:8885772002": "2026-11-12",
   "greenhouse:atoms:8885781002": "2026-11-12",
   "greenhouse:atoms:8901395002": "2026-11-10",
+  "greenhouse:atoms:8948155002": "2026-11-17",
   "greenhouse:avepoint:8325334": "2026-11-07",
   "greenhouse:avepoint:8328263": "2026-11-07",
   "greenhouse:avepoint:8328273": "2026-11-07",
@@ -66932,6 +66934,7 @@
   "greenhouse:cssmerge:8938446002": "2026-11-12",
   "greenhouse:cssmerge:8938601002": "2026-11-12",
   "greenhouse:cssmerge:8940528002": "2026-11-12",
+  "greenhouse:cssmerge:8948166002": "2026-11-17",
   "greenhouse:darkwolfsolutions:8105270003": "2026-11-07",
   "greenhouse:darkwolfsolutions:8160102003": "2026-11-07",
   "greenhouse:darkwolfsolutions:8199769003": "2026-11-10",
@@ -69144,6 +69147,7 @@
   "workable:raydar:CEB85BADA5": "2026-11-09",
   "workable:raydar:DA7CCE0A05": "2026-11-12",
   "workable:raydar:F0A555BA3A": "2026-11-08",
+  "workable:raydar:F988B64D0D": "2026-11-17",
   "workable:runware:AB1A1BB146": "2026-11-14",
   "workable:saalex:B7A2938B90": "2026-11-08",
   "workable:saalex:D74599E6D3": "2026-11-08",
@@ -69965,7 +69969,7 @@
   "remoteok": "2026-11-17T15:37:14+00:00",
   "usajobs": "2026-11-17T16:07:16+00:00",
   "workable_search": "2026-11-17T16:07:16+00:00",
-  "wwr": "2026-11-17T15:37:14+00:00",
+  "wwr": "2026-11-17T16:37:24+00:00",
   "yc": "2026-11-17T16:07:16+00:00"
  },
  "title_rules": "c323075b4d70",
