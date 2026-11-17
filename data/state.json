@@ -12641,6 +12641,11 @@
    "n": 1,
    "since": "2026-11-11"
   },
+  "lever:3pillarglobal": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "lever:BloomTech": {
    "disabled_until": "2026-11-18",
    "err": "HTTP 404",
@@ -12649,27 +12654,27 @@
   },
   "lever:acceldata": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:achievers": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:acronaviation": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:actian": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:aeratechnology": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:aifund": {
@@ -12684,6 +12689,11 @@
    "n": 4,
    "since": "2026-11-07"
   },
+  "lever:algorex": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "lever:aofl": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -12692,7 +12702,7 @@
   },
   "lever:appen": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:aprio": {
@@ -12707,15 +12717,30 @@
    "n": 4,
    "since": "2026-11-07"
   },
+  "lever:bellese": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:bellwetheram-2": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "lever:bestegg": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
   },
-  "lever:callan": {
+  "lever:bhvr": {
    "err": "network error: ConnectionError",
    "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:callan": {
+   "err": "network error: ConnectionError",
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:calstart": {
@@ -12726,32 +12751,32 @@
   },
   "lever:camstex": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:canvasww": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:capricor": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:cascademgt": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:casino-cash-trac": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:catalist": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:cesiumastro": {
@@ -12762,32 +12787,32 @@
   },
   "lever:cfsenergy": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:cgsfederal": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:cimgroup": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:civitech": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:colibrigroup": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:cologix": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:color": {
@@ -12798,7 +12823,7 @@
   },
   "lever:commerce-undergraduate": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:conduktor": {
@@ -12809,87 +12834,117 @@
   },
   "lever:conversica": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:coupa": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:crestoperations": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:crosscountry-consulting": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:crumbl": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:cscgeneration-2": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:cx2": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:datalabusa": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:demiurgestudios": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:dga": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:diversified-automation": {
+   "err": "network error: ConnectionError",
+   "n": 2,
+   "since": "2026-11-17"
+  },
+  "lever:dodmg": {
    "err": "network error: ConnectionError",
    "n": 1,
    "since": "2026-11-17"
   },
   "lever:drivemode": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:dutch": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:dynamiccatholic": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:easystreetcap": {
+   "err": "network error: ConnectionError",
+   "n": 2,
+   "since": "2026-11-17"
+  },
+  "lever:economicmodeling": {
    "err": "network error: ConnectionError",
    "n": 1,
    "since": "2026-11-17"
   },
   "lever:ekimetrics": {
    "err": "network error: ConnectionError",
+   "n": 2,
+   "since": "2026-11-17"
+  },
+  "lever:ekohealth": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:elementsolutions": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:eliyan": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:employ": {
+   "err": "network error: ConnectionError",
    "n": 1,
    "since": "2026-11-17"
   },
   "lever:endpointclinical": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:energyvault": {
@@ -12900,32 +12955,37 @@
   },
   "lever:eqbank": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:erg": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:espace": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:evr": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:evrealty-us": {
+   "err": "network error: ConnectionError",
+   "n": 2,
+   "since": "2026-11-17"
+  },
+  "lever:exowatt": {
    "err": "network error: ConnectionError",
    "n": 1,
    "since": "2026-11-17"
   },
   "lever:extremenetworks": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:farcast": {
@@ -12936,15 +12996,115 @@
   },
   "lever:farfetch": {
    "err": "network error: ConnectionError",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "lever:field-ai": {
+   "err": "network error: ConnectionError",
+   "n": 2,
+   "since": "2026-11-17"
+  },
+  "lever:filevine": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:finquery": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:firemon": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:fireworkhq": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:fiscalnote": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:fluxergy-2": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:foth": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:futo-org": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:galatea-associates": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:genbio": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:geocomply-2": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:girlswhocode": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:glsllc": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:gmo": {
    "err": "network error: ConnectionError",
    "n": 1,
    "since": "2026-11-17"
   },
   "lever:go-cloudforce": {
+   "err": "network error: ConnectionError",
+   "n": 2,
+   "since": "2026-11-17"
+  },
+  "lever:gomaterials": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:gr0": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:grailbio": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:gravie": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:great-gray-group": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:greenlight": {
    "err": "network error: ConnectionError",
    "n": 1,
    "since": "2026-11-17"
@@ -12955,11 +13115,106 @@
    "n": 4,
    "since": "2026-11-07"
   },
+  "lever:gynger": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:h1": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:hatchit": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:hermeus": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:hhaexchange": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:hive": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:hottopic": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:hsag": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:humble-robotics": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:ibility": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:ifm-us": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:immiland-canada-inc": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:immuta": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "lever:inductiveautomation": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
+  },
+  "lever:infraservices": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:intropic": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:ion": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:istaridigital.ai": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:ivo": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:jamcity": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "lever:joingerald": {
    "disabled_until": "2026-11-18",
@@ -12967,11 +13222,101 @@
    "n": 3,
    "since": "2026-11-11"
   },
+  "lever:jupiterintel": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:kabam": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:kepler": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:kgroupcompanies": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:kitware": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:kpler": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:lcbcchurch": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:leantaas": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:lendbuzz": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:level99": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:levelai": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:leversys": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:lexeotx": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:life": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "lever:lifen": {
    "disabled_until": "2026-11-18",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-11"
+  },
+  "lever:lightship": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:loftorbital": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:lumaril-corporation": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:lumotive": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "lever:machinalabs": {
    "disabled_until": "2026-11-21",
@@ -12979,11 +13324,66 @@
    "n": 4,
    "since": "2026-11-07"
   },
+  "lever:magnetforensics": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:margo-group": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:massschoolbuildings": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:matillion": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "lever:mbrdna": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
+  },
+  "lever:meds": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:mendix": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:metergysolutions": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:mirego": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:mulliganfunding": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:multiplylabs": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:mytos": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "lever:njstateofficeofinnovation": {
    "disabled_until": "2026-11-21",
@@ -12996,6 +13396,11 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
+  },
+  "lever:npowermedicine": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "lever:oaknorth.ai": {
    "disabled_until": "2026-11-21",
@@ -13015,6 +13420,11 @@
    "n": 3,
    "since": "2026-11-11"
   },
+  "lever:redsox": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "lever:regalvoice": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -13026,6 +13436,11 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-11"
+  },
+  "lever:runlaminar": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "lever:saronic": {
    "disabled_until": "2026-11-21",
