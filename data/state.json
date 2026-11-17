@@ -11710,6 +11710,7 @@
  "bootstrapped": true,
  "closed": {
   "ashby:Etched:13ee168b-41a8-4612-b4c7-15cfe9f9a3ac": "2026-11-12",
+  "ashby:Etched:4020db7a-1ec0-48e3-9bbd-f1337c63a403": "2026-11-17",
   "ashby:Vultr:f3faf050-f72b-4306-8cd0-7853eab4e558": "2026-11-13",
   "ashby:clera:00983741-6f9e-4b8d-80c9-8252bc481d10": "2026-11-13",
   "ashby:clera:63b61af1-cd10-4499-8da3-eab9e9ce2cad": "2026-11-12",
@@ -12070,17 +12071,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 167,
+   "n": 168,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 167,
+   "n": 168,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 167,
+   "n": 168,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
