@@ -11670,7 +11670,7 @@
   },
   "ashby:Oso": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "ashby:Tempo": {
@@ -11711,7 +11711,7 @@
   },
   "ashby:browserbase": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "ashby:chainlink-labs": {
@@ -11980,17 +11980,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 60,
+   "n": 61,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 60,
+   "n": 61,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 60,
+   "n": 61,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13308,8 +13308,8 @@
    448
   ],
   "2026-11-17": [
-   25,
-   120
+   37,
+   165
   ]
  },
  "resolved": {
@@ -64403,6 +64403,7 @@
   "ashby:granted:cc514efc-3a4d-4ebc-847c-a0aa26774dd6": "2026-11-14",
   "ashby:hadrian-automation:f5d91808-1231-4c2e-94a1-1926116afa6b": "2026-11-16",
   "ashby:headway:6a93f139-1423-48ea-b74d-122b17ee3dd1": "2026-11-16",
+  "ashby:heron-power:86413c3d-8ff7-4884-a6f2-407b74c4447e": "2026-11-17",
   "ashby:hexa:adffbd87-1fad-4084-a8be-3a29c6958705": "2026-11-14",
   "ashby:hike-medical:e11d90bf-9f6a-44be-9b54-cb3c1079c59b": "2026-11-14",
   "ashby:hims-and-hers:f2cec81e-5ba5-46a8-83ba-3e298932f786": "2026-11-14",
@@ -64528,6 +64529,7 @@
   "ashby:spoton:bb2d12c6-859d-459e-96f8-489c2bfd6681": "2026-11-14",
   "ashby:st-labs:60b7ed0f-f89c-4286-9f09-090f0973aff5": "2026-11-14",
   "ashby:standardbots:0f10edc9-c87b-4c9e-b0ab-f6cc5be6af91": "2026-11-16",
+  "ashby:standinsurance:98980cc7-8acb-4987-ba81-ca86844e81d8": "2026-11-17",
   "ashby:starbridge:7a86e5d3-0871-4a1f-a65d-bfadb7be3b4d": "2026-11-16",
   "ashby:talkiatry:4343b2d6-b89f-4534-b208-515963523015": "2026-11-14",
   "ashby:temporal:011bf96a-0e14-4b61-9fb9-b19ef6705a71": "2026-11-14",
@@ -65612,6 +65614,7 @@
   "eightfold:nvidia:893398750087": "2026-11-16",
   "eightfold:nvidia:893398756824": "2026-11-16",
   "eightfold:nvidia:893398757520": "2026-11-16",
+  "eightfold:nvidia:893398765891": "2026-11-17",
   "eightfold:paypal:274921995088": "2026-11-16",
   "eightfold:paypal:274922260545": "2026-11-17",
   "eightfold:paypal:274922508777": "2026-11-15",
@@ -67295,6 +67298,7 @@
   "lever:jobgether:a82f7076-2322-4ad3-a350-5babe29e934a": "2026-11-14",
   "lever:jobgether:b01674d2-7838-4292-ab20-c26429a1a814": "2026-11-14",
   "lever:jobgether:b45aadee-df74-4ad4-8acd-f23de8ee8060": "2026-11-14",
+  "lever:jobgether:bbd011d9-382f-4f14-a2ee-0516f4ac407a": "2026-11-17",
   "lever:jobgether:bd4c8c23-857d-4ee0-b0e0-54738b67bae7": "2026-11-14",
   "lever:jobgether:c12ad43a-3c7b-4d0b-adde-d3509813970d": "2026-11-14",
   "lever:jobgether:c6445be2-ca67-4f3f-9e73-ae6bf376ed50": "2026-11-14",
@@ -67310,6 +67314,7 @@
   "lever:jobgether:f03d7623-1070-43c7-8398-e76ffa3eb3e0": "2026-11-16",
   "lever:jobgether:f0fd00ca-2141-4457-8c86-34f1b88df3b4": "2026-11-14",
   "lever:jobgether:f1c66d7c-c9c0-43e1-bbe4-a6cc82b8c894": "2026-11-14",
+  "lever:jobgether:f4b092a6-63f4-4209-897e-eb386e4aa422": "2026-11-17",
   "lever:jobgether:f9328e2b-6ac0-4031-a139-ee42142f59b1": "2026-11-14",
   "lever:jobgether:f9cbab6a-a696-488a-97c5-7ea690c0d681": "2026-11-14",
   "lever:loftorbital:34f8566b-dd24-42b3-8f34-a395ecb5c2c6": "2026-11-14",
@@ -69472,11 +69477,11 @@
  },
  "source_last": {
   "hn": "2026-11-17T07:17:11+00:00",
-  "remoteok": "2026-11-17T06:19:14+00:00",
-  "usajobs": "2026-11-17T05:18:37+00:00",
-  "workable_search": "2026-11-17T05:18:37+00:00",
-  "wwr": "2026-11-17T07:17:11+00:00",
-  "yc": "2026-11-17T05:18:37+00:00"
+  "remoteok": "2026-11-17T08:16:19+00:00",
+  "usajobs": "2026-11-17T08:16:19+00:00",
+  "workable_search": "2026-11-17T08:16:19+00:00",
+  "wwr": "2026-11-17T08:16:19+00:00",
+  "yc": "2026-11-17T08:16:19+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
