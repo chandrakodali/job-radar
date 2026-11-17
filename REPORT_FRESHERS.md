@@ -1,12 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**696 jobs**, newest first. Updated Tue Nov 17, 12:17 AM CST from 12,526 company job boards and other sources.
+**696 jobs**, newest first. Updated Tue Nov 17, 1:17 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 231 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,388 matching jobs that job sites and feeds listed this week, 444 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,483 matching jobs that job sites and feeds listed this week, 461 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (90)](#tuesday-nov-10-90)
 
@@ -741,7 +741,7 @@ Jump to: [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 5:04 AM | [IT System Engineer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016750616-it-system-engineer) | Cityofnewyork | Bronx, NY, United States | 63 | entry level (from the text) |
 | 5:00 AM | [Associate Solution Consultant](https://jobs.ashbyhq.com/socure/f2330d9e-1c1d-493e-adb7-e7602efc789f) | Socure | Hub - New York; Hub - San Francisco; Hu… (hybrid) | 68 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3305)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3306)
 
 <details><summary>Show</summary>
 
@@ -754,6 +754,7 @@ Jump to: [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | date only | [Systems Development Engineer, DC Robotics, Data Center Robotics](https://www.amazon.jobs/en/jobs/10606820/systems-development-engineer-dc-robotics-data-center-robotics) | Amazon Data Services, Inc. | Seattle, Washington, USA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Clearable Data Center Technician, Infraops AG](https://www.amazon.jobs/en/jobs/10604670/clearable-data-center-technician-infraops-ag) | Amazon Data Services, Inc. | Aurora, Colorado, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
 | date only | [Clearable Data Center Technician, Data Center Operations](https://www.amazon.jobs/en/jobs/10597767/clearable-data-center-technician-data-center-operations) | Amazon Web Services, Inc. | Aurora, Colorado, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
+| 1:13 AM | [Security Operations Engineer](https://jobs.lever.co/jobgether/96149835-6212-4058-887b-c0f304324a2a) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:02 AM | [Network Automation Engineer](https://jobs.lever.co/jobgether/1e1bcbb9-970a-420d-808a-853e8ae7ad7b) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; needs: Public Trust Clearance |
 | 12:01 AM | [AMS Integration Specialist](https://jobs.lever.co/jobgether/a69c5946-a709-4af6-94fb-e1fe8c2dcaed) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:00 AM | [Software Engineering - Delphi Software Engineer 132-2007](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6558) | Ccok | Tulsa, OK, US | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -1146,6 +1147,5 @@ Jump to: [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 2:59 PM (seen) | [IT Support Technician](https://app.careerpuck.com/job-board/blinkhealth/job/fAsnsd2x) | Blinkhealth | St. Louis, MO | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:59 PM (seen) | [Strategic Partnerships & Growth - Cloud & Ecosystem](https://app.careerpuck.com/job-board/truefoundry/job/-tvlkwqU) | Truefoundry | San Francisco, CA | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:59 PM (seen) | [Automation Engineer](https://app.careerpuck.com/job-board/avalara/job/jPD1fWan) | Avalara | Remote, United States (remote) | 27 | rules: 10+ yrs exp; asks for 10+ years of experience |
-| 2:59 PM (seen) | [Business Intelligence Analyst](https://app.careerpuck.com/job-board/avalara/job/vJ1FGYOD) | Avalara | Remote, United States (remote) | 37 | rules: 4+ yrs exp; no future H-1B sponsorship; asks for 4+ years of e… |
 
 </details>

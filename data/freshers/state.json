@@ -11653,6 +11653,11 @@
    "n": 3,
    "since": "2026-11-13"
   },
+  "ashby:Oso": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "ashby:Tempo": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 404",
@@ -11688,6 +11693,11 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-13"
+  },
+  "ashby:browserbase": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "ashby:chainlink-labs": {
    "disabled_until": "2026-11-20",
@@ -11955,17 +11965,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 85,
+   "n": 86,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 85,
+   "n": 86,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 85,
+   "n": 86,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -13750,8 +13760,8 @@
    684
   ],
   "2026-11-17": [
-   34,
-   194
+   51,
+   289
   ]
  },
  "resolved": {
@@ -64881,6 +64891,7 @@
   "apple:usa:200694768": "2026-11-14",
   "apple:usa:200694769": "2026-11-14",
   "apple:usa:200694773": "2026-11-14",
+  "apple:usa:200694779": "2026-11-17",
   "apple:usa:200694829": "2026-11-14",
   "apple:usa:200694831": "2026-11-14",
   "apple:usa:200694832": "2026-11-14",
@@ -65738,6 +65749,7 @@
   "avature:harmanglobal.avature.net|en_US/careers:33279": "2026-11-13",
   "avature:harmanglobal.avature.net|en_US/careers:33301": "2026-11-13",
   "avature:harmanglobal.avature.net|en_US/careers:33317": "2026-11-13",
+  "avature:harmanglobal.avature.net|en_US/careers:33333": "2026-11-17",
   "avature:jrg.avature.net|careers:1881": "2026-11-15",
   "avature:jrg.avature.net|careers:2018": "2026-11-15",
   "avature:justicejobs.avature.net|careers:23921": "2026-11-15",
@@ -73202,6 +73214,7 @@
   "lever:jobgether:4c6bcc39-a22c-4a25-a300-00c79bf53526": "2026-11-14",
   "lever:jobgether:5491b452-de23-4b55-8766-da119b9abf16": "2026-11-16",
   "lever:jobgether:59469943-c696-40a4-9abb-0ef564c224e6": "2026-11-14",
+  "lever:jobgether:5aa445cc-fbad-4d6f-af0e-335a19c78327": "2026-11-17",
   "lever:jobgether:5acb5dac-e0bd-4822-9345-0c02bcc89a29": "2026-11-16",
   "lever:jobgether:5b9b67ba-c44d-48fa-98ac-4fcc3f6734ec": "2026-11-14",
   "lever:jobgether:5c3908dd-3fb5-4b42-a102-41aed9c3856e": "2026-11-14",
@@ -73240,6 +73253,7 @@
   "lever:jobgether:93becab2-354f-4708-9250-ad696b98bb70": "2026-11-14",
   "lever:jobgether:9501773f-06e3-4f88-863e-3269821b23d4": "2026-11-14",
   "lever:jobgether:9575c55d-70e4-47c1-b409-d1660ffd97d4": "2026-11-14",
+  "lever:jobgether:96149835-6212-4058-887b-c0f304324a2a": "2026-11-17",
   "lever:jobgether:97c189cc-119a-4593-9c58-69de27790f03": "2026-11-14",
   "lever:jobgether:98ddf386-39a4-4ae5-b81c-a67e4798741a": "2026-11-16",
   "lever:jobgether:99eb329f-3631-494f-a198-9701dcc612d1": "2026-11-14",
@@ -77238,6 +77252,8 @@
   "workable:weekday-1:064EBE04E9": "2026-11-17",
   "workable:weekday-1:2C75505361": "2026-11-13",
   "workable:weekday-1:3365AC7B89": "2026-11-13",
+  "workable:weekday-1:58F37B4C35": "2026-11-17",
+  "workable:weekday-1:6B6A4781C6": "2026-11-17",
   "workable:weekday-1:82702CC599": "2026-11-13",
   "workable:weekday-1:8B68443AA2": "2026-11-13",
   "workable:weekday-1:F5C8A4D324": "2026-11-13",
@@ -80438,8 +80454,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-17T04:18:04+00:00",
-  "yc": "2026-11-17T04:18:04+00:00"
+  "workable_search": "2026-11-17T07:17:03+00:00",
+  "yc": "2026-11-17T07:17:03+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
