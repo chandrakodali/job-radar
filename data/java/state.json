@@ -11668,6 +11668,11 @@
    "n": 3,
    "since": "2026-11-14"
   },
+  "ashby:Oso": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "ashby:Tempo": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -11703,6 +11708,11 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
+  },
+  "ashby:browserbase": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "ashby:chainlink-labs": {
    "disabled_until": "2026-11-21",
@@ -11970,17 +11980,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 59,
+   "n": 60,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 59,
+   "n": 60,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 59,
+   "n": 60,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13299,7 +13309,7 @@
   ],
   "2026-11-17": [
    25,
-   112
+   120
   ]
  },
  "resolved": {
@@ -64367,6 +64377,7 @@
   "ashby:ditto:32a73ba0-9e46-4871-bea8-d4ceab39ba88": "2026-11-14",
   "ashby:docker:33b629b4-fc3a-437e-b13b-16fef283af68": "2026-11-14",
   "ashby:ellipsis-health:153fa7dd-4d4b-43ca-869b-4ffb834f2456": "2026-11-14",
+  "ashby:ellipsis-health:8c44835f-2bf7-4976-9004-f3707781cd65": "2026-11-17",
   "ashby:ellipsis-health:e2ce6a32-7afa-4c75-9ad4-8cd4e89f4019": "2026-11-14",
   "ashby:eradrive:679a793c-82d0-4ab2-b764-471a39e6e148": "2026-11-14",
   "ashby:ether.fi:d273dd53-48a2-4e6d-9cb3-e3c1b383b049": "2026-11-14",
@@ -64591,6 +64602,7 @@
   "avature:dth.avature.net|careers:27789": "2026-11-15",
   "avature:forvis.avature.net|experiencedcareers:15801": "2026-11-15",
   "avature:harmanglobal.avature.net|en_US/careers:33277": "2026-11-14",
+  "avature:harmanglobal.avature.net|en_US/careers:33333": "2026-11-17",
   "avature:jrg.avature.net|careers:2070": "2026-11-15",
   "avature:justicejobs.avature.net|careers:24118": "2026-11-15",
   "avature:justicejobs.avature.net|careers:24211": "2026-11-15",
@@ -67277,6 +67289,7 @@
   "lever:jobgether:65a1156a-de46-49fd-8413-39a2b0b92b26": "2026-11-16",
   "lever:jobgether:6a1d0ed9-1ef9-44bb-902b-e7b4b3868b11": "2026-11-16",
   "lever:jobgether:6b7d4699-9948-48b8-a57c-079cfb1c3dda": "2026-11-17",
+  "lever:jobgether:985f9970-a66c-41f2-9484-0e1c33d233f3": "2026-11-17",
   "lever:jobgether:9af4cc18-9474-497f-9a90-60aa781922d4": "2026-11-14",
   "lever:jobgether:9fadc447-59bb-422c-b4ce-6d4a655e09d0": "2026-11-14",
   "lever:jobgether:a82f7076-2322-4ad3-a350-5babe29e934a": "2026-11-14",
@@ -67293,6 +67306,7 @@
   "lever:jobgether:ec8d9397-22c6-4749-bcbc-e5c8d01316aa": "2026-11-14",
   "lever:jobgether:ec9c4292-142e-4b7c-b019-5802e8388d33": "2026-11-14",
   "lever:jobgether:ed585bb6-9f21-45ef-b606-7d0a0715d03c": "2026-11-14",
+  "lever:jobgether:ee727b71-350c-400a-9071-74ca4444772b": "2026-11-17",
   "lever:jobgether:f03d7623-1070-43c7-8398-e76ffa3eb3e0": "2026-11-16",
   "lever:jobgether:f0fd00ca-2141-4457-8c86-34f1b88df3b4": "2026-11-14",
   "lever:jobgether:f1c66d7c-c9c0-43e1-bbe4-a6cc82b8c894": "2026-11-14",
@@ -69457,11 +69471,11 @@
   "zoho:virtualcolleague:805869000004420928": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-17T00:47:36+00:00",
+  "hn": "2026-11-17T07:17:11+00:00",
   "remoteok": "2026-11-17T06:19:14+00:00",
   "usajobs": "2026-11-17T05:18:37+00:00",
   "workable_search": "2026-11-17T05:18:37+00:00",
-  "wwr": "2026-11-17T06:19:14+00:00",
+  "wwr": "2026-11-17T07:17:11+00:00",
   "yc": "2026-11-17T05:18:37+00:00"
  },
  "title_rules": "72f554d20a7f",
