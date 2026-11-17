@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**679 jobs**, newest first. Updated Tue Nov 17, 8:07 AM CST from 12,526 company job boards and other sources.
+**679 jobs**, newest first. Updated Tue Nov 17, 8:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 236 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,562 matching jobs that job sites and feeds listed this week, 543 (34%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,568 matching jobs that job sites and feeds listed this week, 543 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 17 (6)](#tuesday-nov-17-6) · [Mon 16 (51)](#monday-nov-16-51) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (77)](#tuesday-nov-10-77)
 
@@ -729,7 +729,7 @@ Jump to: [Tue 17 (6)](#tuesday-nov-17-6) · [Mon 16 (51)](#monday-nov-16-51) · 
 | 9:30 AM | [Software Engineer - Infrastructure](https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003) | Celonis | Remote, US, Massachusetts (remote) | 72 | 2+ yrs exp |
 | 9:18 AM | [Network Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8936251002) | Atoms | San Francisco, CA | 60 | 0-2 yrs exp; repost |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (717)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (720)
 
 <details><summary>Show</summary>
 
@@ -740,6 +740,8 @@ Jump to: [Tue 17 (6)](#tuesday-nov-17-6) · [Mon 16 (51)](#monday-nov-16-51) · 
 | date only | [Virtualization & Systems Engineer](https://arctiq.bamboohr.com/careers/363) | Arctiq | Blue Bell, Pennsylvania | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [System Administrator Level 2](https://apply.workable.com/interimage/j/4076BA6BC3/) | InterImage | Fort Meade, Maryland, United States | 25 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | date only | [System Administrator Level 3](https://apply.workable.com/interimage/j/9819AE97DA/) | InterImage | Fort Meade, Maryland, United States | 30 | rules: 15+ yrs exp; senior title; asks for 15+ years of experience |
+| 8:17 AM | [Infrastructure Engineer III - Compute Hardware Engineering](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808529) | JP Morgan Chase | Jersey City, NJ, United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| 8:10 AM | [Senior Google Workspace Deployment Engineer](https://job-boards.greenhouse.io/66degrees/jobs/6228343004) | 66 Degrees | United States | 25 | rules: 5+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
 | 7:37 AM (seen) | [Clinical Informatics - Vocera Systems Administrator](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=988599&lang=en) | UT Southwestern Medical Center | Texas-Dallas-3000 Pegasus Park | 45 | rules: 2+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | 7:33 AM | [Edge OS Platform Engineer IT Specialist](https://eaton.eightfold.ai/careers/job/687240042663) | Eaton | Irvine, CA, US; Beachwood, OH, US; San … (onsite) | 50 | rules: 14+ yrs exp; needs: must be a U.S. person |
 | 6:57 AM | [Senior Agentic AI Infrastructure Engineer I - Core Platforms](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015149) | American Express | New York, NY, United States; Sunrise, F… (hybrid) | 60 | rules: entry-level title; 5+ yrs exp; senior title; asks for 5+ years… |
@@ -751,6 +753,7 @@ Jump to: [Tue 17 (6)](#tuesday-nov-17-6) · [Mon 16 (51)](#monday-nov-16-51) · 
 | 1:12 AM | [Senior Systems Administrator – UNIX/Linux](https://jobs.lever.co/jobgether/5d54d975-4683-4307-b2eb-8447300a8bd8) | Jobgether | US (remote) | 27 | rules: 10+ yrs exp; senior title; needs: security clearance |
 | 1:00 AM | [Senior Data Platform Engineer](https://jobs.ashbyhq.com/ellipsis-health/8c44835f-2bf7-4976-9004-f3707781cd65) | Ellipsis Health | San Francisco - Hybrid (hybrid) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:13 PM | [Senior Full Stack Engineer, Java & Kubernetes Focus](https://jobs.lever.co/jobgether/6b7d4699-9948-48b8-a57c-079cfb1c3dda) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| 11:00 PM | [Senior DevOps Engineer](https://careers-simventions.icims.com/jobs/1669/senior-devops-engineer/job) | SimVentions | Dahlgren, VA, United States (remote) | 42 | rules: 8+ yrs exp; senior title; needs: Secret Clearance |
 | 9:01 PM | [Software Engineer, Tinker Infrastructure](https://jobs.ashbyhq.com/ThinkingMachines/541c2fcf-e128-4442-94ee-c8298f226756) | ThinkingMachines | San Francisco (onsite) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 7:03 PM | [Senior Network Production Engineer, Operations](https://jobs.ashbyhq.com/Crusoe/042fbe44-edfa-4447-8982-0487c39078d7) | Crusoe | San Francisco, CA - US; Sunnyvale, CA -… (onsite) | 60 | rules: 5+ yrs exp; senior title; priority company; asks for 5+ years … |
 | 5:58 PM | [Network Engineer - Federal](https://job-boards.greenhouse.io/eleviassociates/jobs/8206182003) | Eleviassociates | Chantilly, VA | 50 | rules: needs: TS/SCI Clearance |
@@ -1132,9 +1135,6 @@ Jump to: [Tue 17 (6)](#tuesday-nov-17-6) · [Mon 16 (51)](#monday-nov-16-51) · 
 | date only | [Experienced Systems Engineer - Cloud-Based Systems](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Experienced-Systems-Engineer---Cloud-Based-Systems_JR2026526337) | The Boeing Company | USA - Daytona Beach, FL (onsite) | 45 | rules: 4+ yrs exp; E-Verify; no future H-1B sponsorship; needs: Secur… |
 | date only | [Platform Engineer / DevSecOps Engineer](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Platform-Engineer---DevSecOps-Engineer_42911) | Guidehouse | US - VA, McLean | 38 | rules: 5+ yrs exp; needs: security clearance |
 | date only | [Platform Engineer/DevSecOps](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-McLean/Platform-Engineer-DevSecOps_43194) | Guidehouse | US - VA, McLean | 38 | rules: 5+ yrs exp; needs: security clearance |
-| date only | [10534 - Sr. AWS Network Security Engineer](https://hyundaiautoeveramerica.applytojob.com/apply/I2aCgQpany/10534-Sr-AWS-Network-Security-Engineer) | Hyundai AutoEver America | Irvine, CA | 38 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| date only | [Sr Software Engineer - Core Platform Infrastructure](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Denver-CO/Sr-Software-Engineer---Core-Platform-Infrastructure_R75571) | Blue Origin | Denver, CO | 38 | rules: 8+ yrs exp; senior title; needs: Must be a U.S. citizen |
-| date only | [Software Engineer III - Core Platform Infrastructure](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Software-Engineer-III---Core-Platform-Infrastructure_R72869) | Blue Origin | Greater Seattle Area | 38 | rules: 5+ yrs exp; senior title; needs: Must be a U.S. citizen |
 
 </details>
 

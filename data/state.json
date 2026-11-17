@@ -12084,17 +12084,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 192,
+   "n": 193,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 192,
+   "n": 193,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 192,
+   "n": 193,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12399,7 +12399,7 @@
   },
   "greenhouse:quip": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "greenhouse:rdccareers": {
@@ -14961,7 +14961,7 @@
   ],
   "2026-11-17": [
    99,
-   257
+   263
   ]
  },
  "resolved": {
@@ -66734,6 +66734,7 @@
   "gem:lumalabs-ai:am9icG9zdDogDs0MGNruilpcY5YMWl-O": "2026-11-14",
   "gem:lumalabs-ai:am9icG9zdDqOhdaji2m34B3ibJdoy7Hb": "2026-11-14",
   "gem:lumalabs-ai:e6983d5d-2af9-4512-b27a-442648736363": "2026-11-14",
+  "gem:midwestern-interactive:am9icG9zdDomHXG3jluKnug89gTxP7eN": "2026-11-17",
   "gem:midwestern-interactive:am9icG9zdDqg8ELusTAAFFFS_q2TzDSg": "2026-11-14",
   "gem:modular:am9icG9zdDpH8N-3pUrKj3Gd9GeD5gKn": "2026-11-14",
   "gem:myriad-technology:am9icG9zdDpis4ZNvuK5awSI0HDws8V6": "2026-11-14",
@@ -66798,6 +66799,7 @@
   "greenhouse:2k:8206136003": "2026-11-16",
   "greenhouse:3cloud:8933933002": "2026-11-12",
   "greenhouse:540:8202560003": "2026-11-13",
+  "greenhouse:66degrees:6228343004": "2026-11-17",
   "greenhouse:accenturefederalservices:4721006006": "2026-11-09",
   "greenhouse:accenturefederalservices:4724740006": "2026-11-07",
   "greenhouse:accenturefederalservices:4725223006": "2026-11-07",
@@ -67562,6 +67564,7 @@
   "icims:careers-simventions.icims.com:1585": "2026-11-09",
   "icims:careers-simventions.icims.com:1625": "2026-11-09",
   "icims:careers-simventions.icims.com:1661": "2026-11-09",
+  "icims:careers-simventions.icims.com:1669": "2026-11-17",
   "icims:careers-simventions.icims.com:1670": "2026-11-16",
   "icims:careers-snapon.icims.com:20801": "2026-11-12",
   "icims:careers-sonalysts.icims.com:2485": "2026-11-10",
@@ -68266,6 +68269,7 @@
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210803198": "2026-11-13",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210804732": "2026-11-16",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210804903": "2026-11-13",
+  "oracle:jpmc.fa.oraclecloud.com|CX_1001:210808529": "2026-11-17",
   "oracle:tulane-ibqejb.fa.ocs.oraclecloud.com|CX_1:2295": "2026-11-10",
   "paylocity:0136e448-2ebc-4615-ba54-adf9d180d4fb:4469078": "2026-11-15",
   "paylocity:0136e448-2ebc-4615-ba54-adf9d180d4fb:4653540": "2026-11-15",
@@ -69941,11 +69945,11 @@
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-17T08:37:14+00:00",
+  "hn": "2026-11-17T14:37:18+00:00",
   "remoteok": "2026-11-17T13:37:18+00:00",
   "usajobs": "2026-11-17T13:07:17+00:00",
   "workable_search": "2026-11-17T13:07:17+00:00",
-  "wwr": "2026-11-17T13:37:18+00:00",
+  "wwr": "2026-11-17T14:37:18+00:00",
   "yc": "2026-11-17T13:07:17+00:00"
  },
  "title_rules": "c323075b4d70",
