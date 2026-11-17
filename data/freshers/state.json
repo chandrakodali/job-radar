@@ -11967,17 +11967,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 88,
+   "n": 89,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 88,
+   "n": 89,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 88,
+   "n": 89,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12387,6 +12387,16 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-13"
+  },
+  "icims:careers-cotiviti.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "icims:careers-eyesouthpartners.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-20",
@@ -13762,8 +13772,8 @@
    684
   ],
   "2026-11-17": [
-   51,
-   289
+   68,
+   385
   ]
  },
  "resolved": {
@@ -65561,6 +65571,7 @@
   "avature:bloomberg.avature.net|internalcareers:46122": "2026-11-14",
   "avature:bloomberg.avature.net|internalcareers:46123": "2026-11-14",
   "avature:bloomberg.avature.net|internalcareers:46124": "2026-11-14",
+  "avature:bloomberg.avature.net|internalcareers:46145": "2026-11-17",
   "avature:bloomberg.avature.net|internalcareers:46152": "2026-11-14",
   "avature:bradyplus.avature.net|careersmarketplace:3845": "2026-11-14",
   "avature:bradyplus.avature.net|careersmarketplace:3894": "2026-11-16",
@@ -65753,6 +65764,7 @@
   "avature:harmanglobal.avature.net|en_US/careers:33301": "2026-11-13",
   "avature:harmanglobal.avature.net|en_US/careers:33317": "2026-11-13",
   "avature:harmanglobal.avature.net|en_US/careers:33333": "2026-11-17",
+  "avature:harmanglobal.avature.net|en_US/careers:33337": "2026-11-17",
   "avature:jrg.avature.net|careers:1881": "2026-11-15",
   "avature:jrg.avature.net|careers:2018": "2026-11-15",
   "avature:justicejobs.avature.net|careers:23921": "2026-11-15",
@@ -65843,6 +65855,7 @@
   "avature:tmf.avature.net|careersmarketplace:37501": "2026-11-14",
   "avature:tmf.avature.net|careersmarketplace:37504": "2026-11-16",
   "avature:tmf.avature.net|careersmarketplace:37632": "2026-11-16",
+  "avature:tmf.avature.net|careersmarketplace:37657": "2026-11-17",
   "avature:tmf.avature.net|careersmarketplace:38703": "2026-11-14",
   "avature:tmf.avature.net|careersmarketplace:46420": "2026-11-14",
   "avature:totalenergies.avature.net|careers:85972": "2026-11-14",
@@ -66214,6 +66227,7 @@
   "bamboohr:isostech:272": "2026-11-15",
   "bamboohr:isucreditunion:27": "2026-11-15",
   "bamboohr:itmpowerplc:714": "2026-11-15",
+  "bamboohr:itmpowerplc:745": "2026-11-17",
   "bamboohr:iwconnect:100": "2026-11-15",
   "bamboohr:iwconnect:101": "2026-11-15",
   "bamboohr:iwconnect:119": "2026-11-15",
@@ -73263,6 +73277,7 @@
   "lever:jobgether:85879f6c-bafc-4c8b-8d60-3a0d5c20be01": "2026-11-16",
   "lever:jobgether:8707628c-f384-4edf-bba9-2c0c0a102274": "2026-11-17",
   "lever:jobgether:8798b19b-45c5-449b-ac7a-d173892ccfa2": "2026-11-14",
+  "lever:jobgether:88dd413c-9147-49b2-9bea-d9465d3d02f5": "2026-11-17",
   "lever:jobgether:8ade2af9-9c81-4235-a22f-10613a438d8f": "2026-11-14",
   "lever:jobgether:8e4f6c21-6df6-4fa6-ac1e-e1e3341bdbd5": "2026-11-15",
   "lever:jobgether:8ff47a5b-ca95-4fa8-a528-4b8bb0f84240": "2026-11-14",
@@ -73321,6 +73336,8 @@
   "lever:jobgether:f4b092a6-63f4-4209-897e-eb386e4aa422": "2026-11-17",
   "lever:jobgether:f6f4cd6f-c3c5-4fb1-ba13-ffa9ca957ccd": "2026-11-14",
   "lever:jobgether:f77063fb-ebfd-4842-8f3d-13b1909a92d3": "2026-11-14",
+  "lever:jobgether:fa7c704c-b327-4f4e-ae7b-d69defd2649a": "2026-11-17",
+  "lever:jobgether:fabe766f-e37f-40c8-8184-713224f7123b": "2026-11-17",
   "lever:kgroupcompanies:86c0a0ab-d8a7-4325-8d29-4b14b9fe3d6b": "2026-11-13",
   "lever:kgroupcompanies:b49d56fd-7003-424d-8724-800241a5e2d0": "2026-11-13",
   "lever:kgroupcompanies:b8096fa5-50dd-4147-9caa-744a562c4806": "2026-11-13",
@@ -73435,6 +73452,7 @@
   "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825896": "2026-11-16",
   "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825916": "2026-11-16",
   "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825947": "2026-11-16",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_825956": "2026-11-17",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX:213560": "2026-11-15",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX:214456": "2026-11-15",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX:214463": "2026-11-15",
@@ -76695,6 +76713,7 @@
   "smartrecruiters:harvarduniversity:3743990016835366": "2026-11-13",
   "smartrecruiters:ifs1:744000161158318": "2026-11-13",
   "smartrecruiters:ifs1:744000161383559": "2026-11-13",
+  "smartrecruiters:ifs1:744000162042030": "2026-11-17",
   "smartrecruiters:intuitive:744000159501239": "2026-11-13",
   "smartrecruiters:intuitive:744000159724349": "2026-11-13",
   "smartrecruiters:intuitive:744000160675859": "2026-11-13",
@@ -77342,6 +77361,7 @@
   "workable_search:all:dbdef9c2-9da4-4a2b-905f-eeeaae238de3": "2026-11-13",
   "workable_search:all:deeacb15-0f39-49f3-a686-8cc9f52e8107": "2026-11-13",
   "workable_search:all:df514fb4-98f8-489e-b283-3e42fd16177d": "2026-11-13",
+  "workable_search:all:e0409389-608d-41fa-a05d-d1db278506ca": "2026-11-17",
   "workable_search:all:efe03d7a-51f8-496d-b53d-a90927392297": "2026-11-13",
   "workable_search:all:f46aa1e7-e758-41f7-8915-1e54145b6884": "2026-11-15",
   "workable_search:all:f58786a0-78d0-4923-8828-f3fd026fc574": "2026-11-13",
@@ -80484,8 +80504,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-17T07:17:03+00:00",
-  "yc": "2026-11-17T07:17:03+00:00"
+  "workable_search": "2026-11-17T10:17:53+00:00",
+  "yc": "2026-11-17T10:17:53+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
