@@ -11890,6 +11890,11 @@
    "n": 4,
    "since": "2026-11-07"
   },
+  "ashby:lambda": {
+   "err": "network error: ChunkedEncodingError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "ashby:latitude": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -12084,17 +12089,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 202,
+   "n": 203,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 202,
+   "n": 203,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 202,
+   "n": 203,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14963,7 +14968,7 @@
   ],
   "2026-11-17": [
    131,
-   346
+   351
   ]
  },
  "resolved": {
@@ -65749,6 +65754,7 @@
   "amazon:us:10606633": "2026-11-16",
   "amazon:us:10606820": "2026-11-17",
   "amazon:us:10607408": "2026-11-17",
+  "amazon:us:10607429": "2026-11-17",
   "apple:usa:200657320": "2026-11-14",
   "apple:usa:200674782": "2026-11-14",
   "apple:usa:200684228": "2026-11-14",
@@ -65823,6 +65829,7 @@
   "ashby:aurora-operations-inc:3083054b-aa88-4cd5-86c2-96af5ddf1ee3": "2026-11-07",
   "ashby:base-power:61564fba-61a0-4fe3-a71d-1c3325514e35": "2026-11-12",
   "ashby:baseten:bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0": "2026-11-14",
+  "ashby:benchling:6183438d-1ff6-4389-aff9-a0128ff3a407": "2026-11-17",
   "ashby:bjakcareer:10b34bc8-bdad-4650-a0eb-f3e2cb8a27cf": "2026-11-09",
   "ashby:bjakcareer:543e1620-c9d5-453b-8103-2ddc17e93bc7": "2026-11-09",
   "ashby:bjakcareer:b25dfd2e-b875-4a5a-8c33-77e522cb0d2f": "2026-11-09",
@@ -67044,6 +67051,7 @@
   "greenhouse:machindustries:4488058009": "2026-11-10",
   "greenhouse:metron:5298040007": "2026-11-17",
   "greenhouse:mongodb:8352433": "2026-11-12",
+  "greenhouse:mongodb:8396867": "2026-11-17",
   "greenhouse:monsterenergy:4485188009": "2026-11-11",
   "greenhouse:monsterenergy:4485445009": "2026-11-16",
   "greenhouse:morsecorp:8207239003": "2026-11-17",
@@ -67102,6 +67110,7 @@
   "greenhouse:star-catcher:4480072009": "2026-11-07",
   "greenhouse:storyblok:5036564101": "2026-11-16",
   "greenhouse:stripe:8328323": "2026-11-07",
+  "greenhouse:stripe:8379544": "2026-11-17",
   "greenhouse:strivehealth:4726499006": "2026-11-09",
   "greenhouse:sureify:5485473008": "2026-11-17",
   "greenhouse:swiftsolar:5483714008": "2026-11-16",
@@ -70023,10 +70032,10 @@
  },
  "source_last": {
   "hn": "2026-11-17T14:37:18+00:00",
-  "remoteok": "2026-11-17T17:37:17+00:00",
+  "remoteok": "2026-11-17T19:37:17+00:00",
   "usajobs": "2026-11-17T19:07:19+00:00",
   "workable_search": "2026-11-17T19:07:19+00:00",
-  "wwr": "2026-11-17T18:37:31+00:00",
+  "wwr": "2026-11-17T19:37:17+00:00",
   "yc": "2026-11-17T19:07:19+00:00"
  },
  "title_rules": "c323075b4d70",
