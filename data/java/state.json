@@ -11970,17 +11970,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 55,
+   "n": 56,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 55,
+   "n": 56,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 55,
+   "n": 56,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -66304,6 +66304,7 @@
   "greenhouse:xai:5286971007": "2026-11-14",
   "greenhouse:xai:5290321007": "2026-11-14",
   "greenhouse:xai:5295932007": "2026-11-16",
+  "greenhouse:xai:5297207007": "2026-11-17",
   "greenhouse:zetaglobal:6250064004": "2026-11-14",
   "greenhouse:zinnia:4728784006": "2026-11-14",
   "hn:whoishiring:50428062-0": "2026-11-14",
