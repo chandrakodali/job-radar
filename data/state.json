@@ -12071,17 +12071,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 173,
+   "n": 174,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 173,
+   "n": 174,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 173,
+   "n": 174,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12527,11 +12527,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-16"
-  },
-  "icims:careers-mci2.icims.com": {
-   "err": "HTTP 521",
-   "n": 1,
-   "since": "2026-11-17"
   },
   "icims:careers-nv5.icims.com": {
    "disabled_until": "2026-11-23",
@@ -68195,6 +68190,7 @@
   "oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:394997": "2026-11-08",
   "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:234148": "2026-11-08",
   "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41266": "2026-11-12",
+  "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41673": "2026-11-17",
   "oracle:fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:3373": "2026-11-12",
   "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:22512": "2026-11-16",
   "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4629": "2026-11-08",
