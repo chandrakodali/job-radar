@@ -12083,17 +12083,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 183,
+   "n": 184,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 183,
+   "n": 184,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 183,
+   "n": 184,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12730,6 +12730,11 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
+  },
+  "lever:jobgether": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "lever:joingerald": {
    "disabled_until": "2026-11-18",
@@ -66674,6 +66679,7 @@
   "eightfold:nvidia:893398750368": "2026-11-16",
   "eightfold:qualcomm:446719899052": "2026-11-15",
   "eightfold:qualcomm|qualcomm.com:446719899052": "2026-11-14",
+  "eightfold:telekom-growthhub:563465374992312": "2026-11-17",
   "gem:altara:am9icG9zdDqB6S61MR3u-MiBbzCqg8VE": "2026-11-14",
   "gem:arxtalent:am9icG9zdDpPqYgwI39uN9eHsS4l4zUV": "2026-11-14",
   "gem:arxtalent:am9icG9zdDpybSVGWbiS2qRGwu3IKSg7": "2026-11-14",
