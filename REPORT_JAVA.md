@@ -1,19 +1,20 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**194 jobs**, newest first. Updated Mon Nov 16, 5:45 PM CST from 12,526 company job boards and other sources.
+**195 jobs**, newest first. Updated Mon Nov 16, 6:47 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 131 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 947 matching jobs that job sites and feeds listed this week, 229 (24%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 956 matching jobs that job sites and feeds listed this week, 229 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (23)](#monday-nov-16-23) · [Sun 15 (9)](#sunday-nov-15-9) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (21)](#friday-nov-13-21) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19)
+Jump to: [Mon 16 (24)](#monday-nov-16-24) · [Sun 15 (9)](#sunday-nov-15-9) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (21)](#friday-nov-13-21) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19)
 
-## Monday, Nov 16 (23)
+## Monday, Nov 16 (24)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 6:35 PM | [Software Engineer II (Hybrid - US)](https://job-boards.greenhouse.io/energysolutions/jobs/5274064007) | Energy Solutions | Boston, Massachusetts, United States; C… | 45 | requires Java |
 | 4:49 PM | [Senior Software Engineer I (Java Security)](https://jobs.ashbyhq.com/inductive-automation-llc/04db2aa7-6af8-4d99-abf5-c94adb911961) | Inductive Automation | United States - Remote (remote) | 67 | entry-level title; 4+ yrs exp; senior title |
 | 2:59 PM | [Software Engineer II](https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5480546008) | TeleTracking | Pittsburgh, PA | 40 | 3+ yrs exp; requires Java |
 | 2:47 PM | [Senior Specialist, Full-Stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/76189) | BNY | Pittsburgh, PA, United States | 60 | 2+ yrs exp; senior title; requires Java |
@@ -239,12 +240,13 @@ Jump to: [Mon 16 (23)](#monday-nov-16-23) · [Sun 15 (9)](#sunday-nov-15-9) · [
 | 7:20 AM | [Senior Associate, Full-Stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY/job/80851) | Eofe Fa Us2 Oraclecloud Com | Jersey City, NJ, United States; New Yor… (onsite) | 43 | entry-level title; 3+ yrs exp; senior title; requires Java |
 | 6:50 AM | [Java Fullstack Software Engineer (Spring Boot / Angular)](https://jobs.lever.co/jobgether/ed585bb6-9f21-45ef-b606-7d0a0715d03c) | Jobgether | US (remote) | 45 | 3+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (305)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (306)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Sr. Backend Software Engineer (San Diego)](https://carlsmed.bamboohr.com/careers/267) | Carlsmed | Carlsbad, California | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 4:10 PM | [Senior Software Engineer](https://johndeere.eightfold.ai/careers/job/137484016472) | John Deere | Moline, IL, US (onsite) | 35 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
 | 4:10 PM | [Senior Software Engineer](https://johndeere.eightfold.ai/careers/job/137484016472) | Johndeere | Moline, IL, US (onsite) | 35 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
 | 3:24 PM | [Software Engineer III](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5296641007) | Toshiba Global Commerce | Durham, NC | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |

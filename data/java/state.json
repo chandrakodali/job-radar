@@ -11970,17 +11970,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 52,
+   "n": 53,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 52,
+   "n": 53,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 52,
+   "n": 53,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13249,25 +13249,25 @@
  "found_cursor": 0,
  "last_digest": "2026-11-16",
  "missed_companies": {
-  "*Confidential Healthcare AI Startup": "2026-11-16",
+  "*Confidential Healthcare AI Startup": "2026-11-17",
   "Bask Health": "2026-11-16",
   "Beacons": "2026-11-16",
   "Bountiful": "2026-11-16",
   "Candid Health": "2026-11-16",
   "Collabify": "2026-11-16",
-  "Early-stage Startup": "2026-11-16",
-  "EdgeQ Technologies Private Limited": "2026-11-16",
+  "Early-stage Startup": "2026-11-17",
+  "EdgeQ Technologies Private Limited": "2026-11-17",
   "Fathom Robotics": "2026-11-16",
   "GoGoGrandparent": "2026-11-16",
   "HelloGov AI": "2026-11-16",
   "Jiffy": "2026-11-16",
   "Julius": "2026-11-16",
-  "Kroo": "2026-11-16",
+  "Kroo": "2026-11-17",
   "Medplum": "2026-11-16",
   "Method Financial": "2026-11-16",
   "Mindful Support Services": "2026-11-16",
   "Multi Media LLC": "2026-11-16",
-  "New Product": "2026-11-16",
+  "New Product": "2026-11-17",
   "Pavago": "2026-11-16",
   "Pine Park Health": "2026-11-16",
   "Polymath Robotics": "2026-11-16",
@@ -13276,11 +13276,11 @@
   "Sapsol Technologies Inc": "2026-11-16",
   "Stealth Health-Tech Startup": "2026-11-16",
   "Symmetrio": "2026-11-16",
-  "True Talent Solutions Partners": "2026-11-16",
+  "True Talent Solutions Partners": "2026-11-17",
   "Turing Labs Inc.": "2026-11-16",
   "WorldVia": "2026-11-16",
   "eVisit": "2026-11-16",
-  "outGoing": "2026-11-16"
+  "outGoing": "2026-11-17"
  },
  "missing_once": {},
  "recall": {
@@ -13295,6 +13295,10 @@
   "2026-11-16": [
    101,
    448
+  ],
+  "2026-11-17": [
+   0,
+   9
   ]
  },
  "resolved": {
@@ -64243,6 +64247,7 @@
   "apple:usa:200695051": "2026-11-14",
   "apple:usa:200695206": "2026-11-16",
   "apple:usa:200695212": "2026-11-16",
+  "apple:usa:200695237": "2026-11-17",
   "apple:usa:200695259": "2026-11-16",
   "apple:usa:200695312": "2026-11-16",
   "ashby:42dot:26f79b07-2ffc-44a3-9d92-36111d18fb34": "2026-11-14",
@@ -64361,6 +64366,7 @@
   "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:abea19fb-df2c-4c3b-ae6a-f30db2c33683": "2026-11-14",
   "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:ad864afa-eb47-4f0e-8f0a-fea72f6b1fe3": "2026-11-14",
   "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:c0735824-2b3c-46a2-a888-99e7376a9606": "2026-11-14",
+  "ashby:first-resonance:fdb3fcb7-2575-4fb2-b5d8-945a7aeab427": "2026-11-17",
   "ashby:gamechanger:4b9837dc-85c5-4b16-a07d-bd8c6f8be246": "2026-11-14",
   "ashby:garage:17815e07-5b55-4efd-9aa8-1d33d6ec010f": "2026-11-14",
   "ashby:garage:5119e260-d0e4-4ad1-b264-1951f7dcc3f8": "2026-11-14",
@@ -64645,6 +64651,7 @@
   "bamboohr:brandingbrand:20": "2026-11-15",
   "bamboohr:brandingbrand:22": "2026-11-15",
   "bamboohr:capcade:62": "2026-11-15",
+  "bamboohr:carlsmed:267": "2026-11-17",
   "bamboohr:centaurhealthholdings:120": "2026-11-15",
   "bamboohr:centaurhealthholdings:132": "2026-11-15",
   "bamboohr:cinc:84": "2026-11-15",
@@ -66085,6 +66092,7 @@
   "greenhouse:electrosoft:4506532009": "2026-11-14",
   "greenhouse:eleoshealth:5027822101": "2026-11-14",
   "greenhouse:eleviassociates:8194880003": "2026-11-14",
+  "greenhouse:energysolutions:5274064007": "2026-11-17",
   "greenhouse:epicgames:6250171004": "2026-11-14",
   "greenhouse:epicgames:6254352004": "2026-11-14",
   "greenhouse:epicgames:6254354004": "2026-11-14",
@@ -66167,6 +66175,8 @@
   "greenhouse:neo4j:4727062006": "2026-11-14",
   "greenhouse:netlify:8519325002": "2026-11-14",
   "greenhouse:nexhealth:6253708004": "2026-11-15",
+  "greenhouse:nexhealth:6261759004": "2026-11-17",
+  "greenhouse:nexhealth:6261765004": "2026-11-17",
   "greenhouse:nisc:8394139": "2026-11-16",
   "greenhouse:octanelending:8197643003": "2026-11-15",
   "greenhouse:octanelending:8203601003": "2026-11-15",
@@ -66182,6 +66192,7 @@
   "greenhouse:qualtrics:8357630": "2026-11-15",
   "greenhouse:rackner:4752573005": "2026-11-14",
   "greenhouse:rackner:4752876005": "2026-11-14",
+  "greenhouse:relativity:8945929002": "2026-11-17",
   "greenhouse:renaissancelearning-nam:5473790008": "2026-11-14",
   "greenhouse:robinhood:8346036": "2026-11-14",
   "greenhouse:robinhood:8354333": "2026-11-16",
@@ -69397,11 +69408,11 @@
   "zoho:virtualcolleague:805869000004420928": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-16T18:35:35+00:00",
+  "hn": "2026-11-17T00:47:36+00:00",
   "remoteok": "2026-11-16T23:45:59+00:00",
   "usajobs": "2026-11-16T22:45:37+00:00",
   "workable_search": "2026-11-16T22:45:37+00:00",
-  "wwr": "2026-11-16T23:45:59+00:00",
+  "wwr": "2026-11-17T00:47:36+00:00",
   "yc": "2026-11-16T22:45:37+00:00"
  },
  "title_rules": "72f554d20a7f",
