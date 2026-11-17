@@ -11722,6 +11722,7 @@
   "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:26755e78-f3c2-4ac2-ad2d-a8483bc5c259": "2026-11-13",
   "ashby:fluidstack:f1811455-d414-4630-b22c-58a585163864": "2026-11-16",
   "ashby:openai:e70a2b94-17d7-4083-a028-943bae53d126": "2026-11-13",
+  "ashby:resolution:d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b": "2026-11-17",
   "greenhouse:3cloud:8933933002": "2026-11-17",
   "greenhouse:accenturefederalservices:4725819006": "2026-11-13",
   "greenhouse:accenturefederalservices:4727077006": "2026-11-12",
@@ -12083,17 +12084,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 201,
+   "n": 202,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 201,
+   "n": 202,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 201,
+   "n": 202,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12646,11 +12647,6 @@
    "err": "robots.txt disallows /apply",
    "n": 1,
    "since": "2026-11-11"
-  },
-  "jobvite:liquidweb": {
-   "err": "network error: SSLError",
-   "n": 1,
-   "since": "2026-11-17"
   },
   "lever:BloomTech": {
    "disabled_until": "2026-11-18",
@@ -14935,6 +14931,7 @@
   "Stealth Health-Tech Startup": "2026-11-16",
   "StradIT": "2026-11-17",
   "Systems Engineering Solutions Corporation": "2026-11-16",
+  "TOMORROW HIRE": "2026-11-17",
   "WorldVia": "2026-11-16",
   "Worth AI": "2026-11-17",
   "Xora Innovation": "2026-11-14",
@@ -14965,8 +14962,8 @@
    336
   ],
   "2026-11-17": [
-   116,
-   316
+   131,
+   346
   ]
  },
  "resolved": {
@@ -65751,6 +65748,7 @@
   "amazon:us:10606562": "2026-11-16",
   "amazon:us:10606633": "2026-11-16",
   "amazon:us:10606820": "2026-11-17",
+  "amazon:us:10607408": "2026-11-17",
   "apple:usa:200657320": "2026-11-14",
   "apple:usa:200674782": "2026-11-14",
   "apple:usa:200684228": "2026-11-14",
@@ -67044,10 +67042,12 @@
   "greenhouse:machindustries:4488051009": "2026-11-12",
   "greenhouse:machindustries:4488055009": "2026-11-10",
   "greenhouse:machindustries:4488058009": "2026-11-10",
+  "greenhouse:metron:5298040007": "2026-11-17",
   "greenhouse:mongodb:8352433": "2026-11-12",
   "greenhouse:monsterenergy:4485188009": "2026-11-11",
   "greenhouse:monsterenergy:4485445009": "2026-11-16",
   "greenhouse:morsecorp:8207239003": "2026-11-17",
+  "greenhouse:msfcareers:5485441008": "2026-11-17",
   "greenhouse:mthreerecruitingportal:4725832006": "2026-11-07",
   "greenhouse:muonspace:5283511007": "2026-11-12",
   "greenhouse:myfitnesspal:8359189": "2026-11-12",
@@ -67247,6 +67247,7 @@
   "icims:careers-bcore.icims.com:3205": "2026-11-09",
   "icims:careers-bcore.icims.com:3233": "2026-11-09",
   "icims:careers-bcore.icims.com:3331": "2026-11-17",
+  "icims:careers-bcore.icims.com:3332": "2026-11-17",
   "icims:careers-berkley.icims.com:14487": "2026-11-09",
   "icims:careers-berkley.icims.com:14814": "2026-11-09",
   "icims:careers-beyondsoft.icims.com:11005": "2026-11-09",
@@ -67530,6 +67531,7 @@
   "icims:careers-markon.icims.com:8795": "2026-11-09",
   "icims:careers-markon.icims.com:8827": "2026-11-11",
   "icims:careers-markon.icims.com:8831": "2026-11-11",
+  "icims:careers-markon.icims.com:8855": "2026-11-17",
   "icims:careers-mci2.icims.com:50191": "2026-11-12",
   "icims:careers-mci2.icims.com:50192": "2026-11-12",
   "icims:careers-mci2.icims.com:50193": "2026-11-12",
@@ -68312,6 +68314,7 @@
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210785588": "2026-11-16",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210790526": "2026-11-17",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210803198": "2026-11-13",
+  "oracle:jpmc.fa.oraclecloud.com|CX_1001:210803897": "2026-11-17",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210804732": "2026-11-16",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210804903": "2026-11-13",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210808529": "2026-11-17",
@@ -68330,6 +68333,7 @@
   "paylocity:33d408c5-a3ae-404d-ad44-272300d2ee21:4556993": "2026-11-15",
   "paylocity:3986a99a-17ae-446b-835f-782cb565047f:4256360": "2026-11-16",
   "paylocity:3a71f2f7-867e-4733-af77-16b1a4d9e347:4651290": "2026-11-15",
+  "paylocity:3a71f2f7-867e-4733-af77-16b1a4d9e347:4672372": "2026-11-17",
   "paylocity:4d199bb8-07e0-419b-bf53-570c2229319c:4499100": "2026-11-15",
   "paylocity:52a15a03-336d-4dd4-871d-127dbfb89ce6:4062047": "2026-11-15",
   "paylocity:534cca7e-606a-4a6c-8636-e12a75fd003b:3535115": "2026-11-15",
@@ -69202,6 +69206,7 @@
   "workable_search:all:0f9916d4-27a5-4952-9b79-a44c38df2eb6": "2026-11-12",
   "workable_search:all:16c50948-9928-4570-8f6d-dd49e8ffb7e0": "2026-11-16",
   "workable_search:all:287dc66f-da3d-4851-8f7e-134b09184427": "2026-11-13",
+  "workable_search:all:2b6afb82-126b-4b4b-9f08-cd93bf3f06d7": "2026-11-17",
   "workable_search:all:450576ed-3adb-4188-982d-91e5e29b3dcf": "2026-11-12",
   "workable_search:all:4e52525f-ea98-471d-9f1f-d41378246838": "2026-11-12",
   "workable_search:all:51cee200-db56-4dbb-af36-30dbe615c3bb": "2026-11-16",
@@ -70019,10 +70024,10 @@
  "source_last": {
   "hn": "2026-11-17T14:37:18+00:00",
   "remoteok": "2026-11-17T17:37:17+00:00",
-  "usajobs": "2026-11-17T16:07:16+00:00",
-  "workable_search": "2026-11-17T16:07:16+00:00",
+  "usajobs": "2026-11-17T19:07:19+00:00",
+  "workable_search": "2026-11-17T19:07:19+00:00",
   "wwr": "2026-11-17T18:37:31+00:00",
-  "yc": "2026-11-17T16:07:16+00:00"
+  "yc": "2026-11-17T19:07:19+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1

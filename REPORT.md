@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**638 jobs**, newest first. Updated Tue Nov 17, 12:37 PM CST from 12,526 company job boards and other sources.
+**638 jobs**, newest first. Updated Tue Nov 17, 1:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 252 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,621 matching jobs that job sites and feeds listed this week, 560 (34%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,651 matching jobs that job sites and feeds listed this week, 575 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 17 (22)](#tuesday-nov-17-22) · [Mon 16 (49)](#monday-nov-16-49) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (22)](#tuesday-nov-10-22)
 
@@ -688,17 +688,22 @@ Jump to: [Tue 17 (22)](#tuesday-nov-17-22) · [Mon 16 (49)](#monday-nov-16-49) �
 | 1:13 PM | [DevSecOps Engineering Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215220) | DTCC | Dallas, TX, United States; Tampa, FL, U… | 70 | entry-level title; 4+ yrs exp |
 | 1:13 PM | [DevSecOps Engineering Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/215220) | Ebxr Fa Us2 Oraclecloud Com | Dallas, TX, United States; Tampa, FL, U… | 53 | entry-level title; 4+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (726)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (733)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 6:25 PM | [Information Technology Infrastructure and Security Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4672372) | ACHIEVEMENT CENTER FOR CHILDR… | Westlake, OH, United States | 40 | rules: 5+ yrs exp; no future H-1B sponsorship; asks for 5+ years of e… |
+| 12:47 PM | [Network Engineer](https://job-boards.greenhouse.io/metron/jobs/5298040007) | Metron | Crane, IN | 45 | rules: 3+ yrs exp; needs: security clearance |
 | 12:44 PM | [Cloud Systems Engineer](https://www.netskope.com/company/careers/open-positions/?gh_jid=8396693) | Netskope | United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 12:43 PM | [Senior Azure Engineer](https://job-boards.greenhouse.io/msfcareers/jobs/5485441008) | Doctors Without Borders | New York, New York, United States | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
+| 12:35 PM | [Technology Support III: Merchants Services Production Engineering](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803897) | JP Morgan Chase | Tampa, FL, United States; Plano, TX, Un… | 45 | rules: 3+ yrs exp; senior title; adjacent title, little DevOps/cloud … |
 | 12:19 PM | [Cloud Security Engineer](https://jobs.ashbyhq.com/trm-labs/1167ee73-5d20-40c0-9f0d-cdf6f1e8988f) | TRM Labs | United States (remote) | 62 | rules: needs: U.S. Citizenship Required |
 | 12:11 PM | [Sr DevOps Engineer](https://job-boards.greenhouse.io/sureify/jobs/5485473008) | Sureify | US - Remote (remote) | 42 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 12:11 PM | [Sr. Automation Controls Engineer - Platform Engineering](https://job-boards.greenhouse.io/lottebiologicsusallc/jobs/5476310008) | Lottebiologicsusallc | Syracuse, NY | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:07 PM (seen) | [Enterprise Senior DevOps Engineer Kubernetes Terraform Linux](https://careers.eriasventures.com/careers/89065-Erias-Ventures/jobs/16861440-Enterprise--Senior-DevOps-Engineer--Kubernetes-Terraform-Linux/) | Erias |  | 45 | rules: 3+ yrs exp; senior title; needs: Security Clearance |
+| 11:37 AM | [Senior Azure Infrastructure Engineer](https://jobs.workable.com/view/6mXQPW79KusBSPFX122yPZ/hybrid-senior-azure-infrastructure-engineer-in-mechanicsville-at-tomorrow-hire) | TOMORROW HIRE | Mechanicsville, Virginia (hybrid) | 45 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
 | 11:37 AM (seen) | [Computer Specialist (SW) 1-4 TWU Rep - Cloud Specialist and SW/Databa…](https://jobs.jobvite.com/metropolitantransportationauthority/job/oE21Afw1) | Metropolitan Transportation A… | New York, NY | 30 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 11:33 AM | [Senior Cloud Infrastructure Engineer (AWS & Azure)](https://job-boards.greenhouse.io/valaratomics/jobs/4508690009) | Valaratomics | Torrance, California, United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:09 AM | [Systems Administrator II, AV & OT](https://boards.greenhouse.io/relativity/jobs/8946740002?gh_jid=8946740002) | Relativity Space | Long Beach, California, United States | 45 | rules: adjacent title, little DevOps/cloud work in the text |
@@ -714,6 +719,7 @@ Jump to: [Tue 17 (22)](#tuesday-nov-17-22) · [Mon 16 (49)](#monday-nov-16-49) �
 | date only | [Research Scientist, TechOps](https://www.amazon.jobs/en/jobs/10601368/research-scientist-techops) | Amazon.com Services LLC | Seattle, Washington, USA | 60 | rules: 1+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | date only | [NG Only: Systems Administrator (26-486) AHT](https://ngc.eightfold.ai/careers/job/1340075371130) | Ngc | Colorado Springs, CO, US (onsite) | 65 | rules: 0-2 yrs exp; needs: security clearance |
 | date only | [Window System Administrator (2026-0258)](https://acclaimtechnicalservices.applytojob.com/apply/HIQ8K1oCHm/Window-System-Administrator-20260258) | Acclaim Technical Services | Chantilly, VA | 50 | rules: needs: security clearance |
+| date only | [Senior Software Development Engineer, Specialist AI Tooling, AWS Spec…](https://www.amazon.jobs/en/jobs/10607408/senior-software-development-engineer-specialist-ai-tooling-aws-specialist-technology-team-stt) | Amazon Web Services, Inc. | New York, New York, USA | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 10:36 AM | [Senior Network Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8948166002) | Atoms | San Francisco, CA | 40 | rules: senior title, years not stated; adjacent title, little DevOps/… |
 | 10:22 AM | [Senior Network Engineer](https://jobs.ashbyhq.com/kayak/c99cabba-25e3-4888-a54d-38dfaff27fdb) | KAYAK | Concord Office | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 10:03 AM | [Cloud Engineer](https://boards.greenhouse.io/morsecorp/jobs/8207239003?gh_jid=8207239003) | MORSE Corp | Cambridge, MA, Arlington, VA, Seattle, … | 45 | rules: 5+ yrs exp; needs: Security Clearance |
@@ -739,6 +745,8 @@ Jump to: [Tue 17 (22)](#tuesday-nov-17-22) · [Mon 16 (49)](#monday-nov-16-49) �
 | 11:00 PM | [Senior DevOps Engineer](https://careers-simventions.icims.com/jobs/1669/senior-devops-engineer/job) | SimVentions | Dahlgren, VA, United States (remote) | 42 | rules: 8+ yrs exp; senior title; needs: Secret Clearance |
 | 11:00 PM | [Platform Engineer (AWS / Infra-as-Code)](https://careers-lmi.icims.com/jobs/14589/platform-engineer-%28aws---infra-as-code%29/job) | LMI | Remote, United States | 45 | rules: 6+ yrs exp; needs: security clearance |
 | 11:00 PM | [Systems Administrator](https://careers-bcore.icims.com/jobs/3331/systems-administrator/job) | Bcore | McLean, VA, United States | 30 | rules: 6+ yrs exp; asks for 6+ years of experience |
+| 11:00 PM | [Network Engineer](https://careers-markon.icims.com/jobs/8855/network-engineer/job) | Markon | Herndon, VA, United States | 30 | rules: 11+ yrs exp; needs: TS/SCI clearance |
+| 11:00 PM | [Linux Engineer](https://careers-bcore.icims.com/jobs/3332/linux-engineer/job) | Bcore | McLean, VA, United States | 30 | rules: 11+ yrs exp; asks for 11+ years of experience |
 | 9:01 PM | [Software Engineer, Tinker Infrastructure](https://jobs.ashbyhq.com/ThinkingMachines/541c2fcf-e128-4442-94ee-c8298f226756) | ThinkingMachines | San Francisco (onsite) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 7:03 PM | [Senior Network Production Engineer, Operations](https://jobs.ashbyhq.com/Crusoe/042fbe44-edfa-4447-8982-0487c39078d7) | Crusoe | San Francisco, CA - US; Sunnyvale, CA -… (onsite) | 60 | rules: 5+ yrs exp; senior title; priority company; asks for 5+ years … |
 | 5:58 PM | [Network Engineer - Federal](https://job-boards.greenhouse.io/eleviassociates/jobs/8206182003) | Eleviassociates | Chantilly, VA | 50 | rules: needs: TS/SCI Clearance |
@@ -1086,14 +1094,6 @@ Jump to: [Tue 17 (22)](#tuesday-nov-17-22) · [Mon 16 (49)](#monday-nov-16-49) �
 | 9:29 AM | [Infrastructure  Administrator, Systems](https://job-boards.greenhouse.io/raft/jobs/6253695004) | Raft | Colorado Springs, Co | 60 | rules: 4+ yrs exp; needs: security clearance |
 | 9:24 AM | [Senior Cloud Infrastructure Engineer (Azure / Terraform)](https://job-boards.greenhouse.io/chaosindustries/jobs/5293433007) | CHAOS Industries | San Francisco, CA | 55 | rules: senior title, years not stated; needs: security clearance |
 | 8:54 AM | [Senior DevOps Engineer / AWS AI Platform Engineer](https://hudsonmanpower.recruitee.com/o/senior-devops-engineer-aws-ai-platform-engineer) | Hudsonmanpower | Farmington Hills, Michigan, United Stat… | 33 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| 6:12 AM | [Associate Systems Administrator](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2244) | Savannah River National Labor… | Aiken, SC, United States | 45 | rules: entry-level title; 8+ yrs exp; likely H-1B cap-exempt (verify)… |
-| 2:00 AM | [Sr. Network Engineer](https://jobs.supermicro.com/job/San-Jose-Sr_-Network-Engineer-Cali/1420359300/) | Super Micro Computer | San Jose, California, United States | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| 11:00 PM | [Network Engineer](https://careers-dartmouth-hitchcock.icims.com/jobs/43307/network-engineer/job) | Dartmouth Health | Bennington, VT, United States | 30 | asks for 5+ years of experience; 5+ yrs exp |
-| 11:00 PM | [AWS ProServe Platform Engineer](https://careers-dminc.icims.com/jobs/29069/aws-proserve-platform-engineer/job) | DMI | McLean, VA, United States | 45 | asks for 10+ years of experience; 10+ yrs exp |
-| 11:00 PM | [Junior Platform Engineer](https://careers-lmi.icims.com/jobs/14864/junior-platform-engineer/job) | LMI | Colorado Springs, CO, United States +1 … | 85 | rules: entry-level title; 1+ yrs exp; needs: security clearance |
-| 11:00 PM | [HPC Linux System Administrator](https://careers-barrios.icims.com/jobs/2959/hpc-linux-system-administrator/job) | Barrios | Houston, TX, United States | 30 | rules: 15+ yrs exp; needs: Must be a U.S. Citizen |
-| 11:00 PM | [Linux Systems Administrator, Mid-Level](https://bowheadcareers-uicalaska.icims.com/jobs/26656/linux-systems-administrator%2c-mid-level/job) | Bowhead | Corona, CA, United States | 30 | rules: 5+ yrs exp; needs: SECURITY CLEARANCE |
-| 11:00 PM | [Network Operations Center System Administrator](https://careers-persistentsystems.icims.com/jobs/2559/network-operations-center-system-administrator/job) | Persistent Systems | Clearfield, UT, United States | 50 | rules: needs: security clearance |
 
 </details>
 
