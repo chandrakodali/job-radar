@@ -1,12 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**198 jobs**, newest first. Updated Tue Nov 17, 2:16 AM CST from 12,526 company job boards and other sources.
+**198 jobs**, newest first. Updated Tue Nov 17, 3:16 AM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 131 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,112 matching jobs that job sites and feeds listed this week, 266 (23%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,115 matching jobs that job sites and feeds listed this week, 266 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (9)](#sunday-nov-15-9) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (21)](#friday-nov-13-21) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19)
 
@@ -248,7 +248,7 @@ Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (26)](#monday-nov-16-26) · 
 | 7:20 AM | [Senior Associate, Full-Stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY/job/80851) | Eofe Fa Us2 Oraclecloud Com | Jersey City, NJ, United States; New Yor… (onsite) | 43 | entry-level title; 3+ yrs exp; senior title; requires Java |
 | 6:50 AM | [Java Fullstack Software Engineer (Spring Boot / Angular)](https://jobs.lever.co/jobgether/ed585bb6-9f21-45ef-b606-7d0a0715d03c) | Jobgether | US (remote) | 45 | 3+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (310)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (311)
 
 <details><summary>Show</summary>
 
@@ -270,6 +270,7 @@ Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (26)](#monday-nov-16-26) · 
 | 12:35 PM (seen) | [Software Engineer (Java / Python)](https://app.dover.com/apply/elitetechnical/4f5b038a-e495-4cd8-a836-849c643e9bb4) | Elitetechnical | International (remote) | 27 | rules: 5+ yrs exp; needs: U.S. citizenship is required |
 | 12:35 PM (seen) | [Java Developer](https://app.dover.com/apply/gracehire/22f88061-f8f8-45b5-bb5f-1f82c9b39a00) | Gracehire | Austin, TX (onsite) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:23 PM | [Senior Java Application Developer](https://job-boards.greenhouse.io/devtechnology/jobs/8942249002) | Dev Technology Group | Tysons Corner, VA | 45 | rules: 7+ yrs exp; senior title; needs: Public Trust clearance |
+| date only | [Java Full Stack](https://careers.capgemini.com/job/New-York%2C-NY-Java-Full-Stack-NY-10001/1457787633/) | Capgemini | New York, NY, United States | 38 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 10:39 AM | [Sr. Platform Engineer, Atlassian](https://careers.rivian.com/jobs/36483?lang=en-us) | Rivian | Atlanta, Georgia | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 10:19 AM | [Infrastructure Solutions Engineering (AI & Automation) - Java, Spring…](https://jobs.smartrecruiters.com/SyncreonConsulting/744000161858469--infrastructure-solutions-engineering-ai-automation-java-spring-boot-python-apis) | Syncreon Consulting | New York, NY, United States | 40 | rules: 10+ yrs exp; staffing/consulting firm: verify it's real; asks … |
 | 5:48 AM | [Senior Software Engineer, Backend - Distributed Systems](https://jobs.lever.co/jobgether/cf103b15-8bed-4260-b881-f1639c0a58ba) | Jobgether | US (remote) | 27 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
