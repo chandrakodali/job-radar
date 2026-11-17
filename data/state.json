@@ -11959,8 +11959,9 @@
    "since": "2026-11-07"
   },
   "ashby:nectar-social": {
+   "disabled_until": "2026-11-24",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-17"
   },
   "ashby:odin-dynamics": {
@@ -12091,17 +12092,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 209,
+   "n": 210,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 209,
+   "n": 210,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 209,
+   "n": 210,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12708,6 +12709,11 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
+  },
+  "lever:cgsfederal": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "lever:color": {
    "disabled_until": "2026-11-14",
@@ -65882,6 +65888,8 @@
   "ashby:elevenlabs:ce3d5a59-fb8c-482b-bc3f-60e44576c5e0": "2026-11-07",
   "ashby:ellipsis-health:8c44835f-2bf7-4976-9004-f3707781cd65": "2026-11-17",
   "ashby:equip:829ff280-4d61-4b23-a754-af75e1282203": "2026-11-07",
+  "ashby:everops:3bf39f8d-09c0-4291-8596-2490a0394faa": "2026-11-17",
+  "ashby:everops:a8c193cb-e252-43b8-9a6b-5950276ab25c": "2026-11-17",
   "ashby:exa:918561fd-6f4b-4b2b-a14d-041109ecf692": "2026-11-07",
   "ashby:exa:f4dd7ae8-cf72-4634-b708-742601b9061c": "2026-11-08",
   "ashby:exegy:07ba02f2-06fa-4363-b011-f3c0e145ad8f": "2026-11-12",
@@ -67007,6 +67015,7 @@
   "greenhouse:eudia:4382015009": "2026-11-16",
   "greenhouse:extrahopnetworks:6238954004": "2026-11-12",
   "greenhouse:federato:5473395008": "2026-11-12",
+  "greenhouse:fictiv:8937286002": "2026-11-17",
   "greenhouse:figureai:4728462006": "2026-11-12",
   "greenhouse:fivetran:8007247003": "2026-11-07",
   "greenhouse:fleetio:5283554007": "2026-11-14",

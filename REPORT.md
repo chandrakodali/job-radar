@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**632 jobs**, newest first. Updated Tue Nov 17, 4:37 PM CST from 12,526 company job boards and other sources.
+**631 jobs**, newest first. Updated Tue Nov 17, 5:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 1,706 matching jobs that job sites and feeds listed this week, 593 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (29)](#tuesday-nov-17-29) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (11)](#tuesday-nov-10-11)
+Jump to: [Tue 17 (29)](#tuesday-nov-17-29) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (10)](#tuesday-nov-10-10)
 
 ## Tuesday, Nov 17 (29)
 
@@ -666,7 +666,7 @@ Jump to: [Tue 17 (29)](#tuesday-nov-17-29) · [Mon 16 (47)](#monday-nov-16-47) �
 | 2:24 AM | [Senior Cloud Security Engineer](https://jobs.lever.co/jobgether/73d75c56-c3b4-403f-b49d-93905c180592) | Jobgether | US (remote) | 45 | 3+ yrs exp; senior title |
 | 2:00 AM | [Senior Engineer Core Infrastructure](https://careers.jetblue.com/job/Long-Island-City-Senior-Engineer-Core-Infrastructure-NY-11101/1389530100/) | JetBlue | Long Island City, NY, United States | 53 | 4+ yrs exp; senior title |
 
-## Tuesday, Nov 10 (11)
+## Tuesday, Nov 10 (10)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -680,15 +680,17 @@ Jump to: [Tue 17 (29)](#tuesday-nov-17-29) · [Mon 16 (47)](#monday-nov-16-47) �
 | 6:01 PM | [Senior Cloud Infrastructure Engineer](https://jobs.ashbyhq.com/restate/fe90faab-5417-4034-b915-0770e2477a73) | Restate | United States (remote) | 45 | senior title, years not stated |
 | 6:00 PM | [Business Systems Administrator](https://job-boards.greenhouse.io/monsterenergy/jobs/4485188009) | Monster Energy | USA - Corona, CA | 45 | 3+ yrs exp |
 | 5:16 PM | [MTS - Infrastructure Engineer, Field](https://jobs.gem.com/ironsite-ai/am9icG9zdDoxr5tMNIZYYGuMvMAxSLR5) | Ironsite Ai | San Francisco (onsite) | 53 | 4+ yrs exp |
-| 5:06 PM | [Linux Systems Administrator (3rd Shift)](https://jobs.ashbyhq.com/Vultr/24c3445f-27b2-40fb-870e-e59b71305787) | Vultr | Remote - United States (remote) | 47 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (739)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (742)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 6:25 PM | [Information Technology Infrastructure and Security Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4672372) | ACHIEVEMENT CENTER FOR CHILDR… | Westlake, OH, United States | 40 | rules: 5+ yrs exp; no future H-1B sponsorship; asks for 5+ years of e… |
+| 5:03 PM | [Senior Full Stack & Platform Engineer](https://job-boards.greenhouse.io/fictiv/jobs/8937286002) | Fictiv | Remote - USA (remote) | 52 | rules: senior title, years not stated; needs: must be a US person |
+| 4:59 PM | [Senior DevOps Engineer (AI-Enabled Platform Engineering)](https://jobs.ashbyhq.com/EverOps/3bf39f8d-09c0-4291-8596-2490a0394faa) | Everops | Remote (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| 4:55 PM | [Senior Infrastructure Engineer (Network Infrastructure)](https://jobs.ashbyhq.com/EverOps/a8c193cb-e252-43b8-9a6b-5950276ab25c) | Everops | Remote (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 3:54 PM | [Senior Site Reliability Engineer](https://job-boards.greenhouse.io/wikimedia/jobs/8397050) | Wikimedia Foundation | Remote (remote) | 37 | rules: 6+ yrs exp; senior title; location unclear; asks for 6+ years … |
 | 3:30 PM | [Senior Application Support Engineer](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214412) | DTCC | Tampa, FL, United States; Dallas, TX, U… | 30 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 3:30 PM | [Senior Application Support Engineer](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/214412) | Ebxr Fa Us2 Oraclecloud Com | Tampa, FL, United States; Dallas, TX, U… | 25 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
@@ -1085,9 +1087,6 @@ Jump to: [Tue 17 (29)](#tuesday-nov-17-29) · [Mon 16 (47)](#monday-nov-16-47) �
 | date only | [Site Reliability Engineer](https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Site-Reliability-Engineer_JR67781) | Oklahoma State Government | Oklahoma County | 40 | rules: 5+ yrs exp; no future H-1B sponsorship; asks for 5+ years of e… |
 | date only | [Senior Linux Kernel Systems Software Engineer – CSP Engagements](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Linux-Kernel-Systems-Software-Engineer---CSP-Engagements_JR2015287) | NVIDIA | US, CA, Santa Clara; US, TX, Austin; US… | 25 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | date only | [Senior AWS Software Engineer](https://resmed.wd3.myworkdayjobs.com/ResMed_External_Careers/job/San-Diego-CA-United-States/Senior-AWS-Software-Engineer_JR_055214) | Resmed | San Diego, CA, United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| date only | [Software Engineer I - DevOps / DevSecOps](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535) | Sierra Space | Louisville, CO; Centennial, CO | 85 | rules: entry-level title; 0-2 yrs exp; needs: Security Clearance |
-| date only | [Quality Assurance Automation Engineer - IT](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Quality-Assurance-Automation-Engineer---IT_R269128-1) | Uline | Pleasant Prairie, WI; Milwaukee, WI; Wa… | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [Cloud FinOps Analyst](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Cloud-FinOps-Analyst_R-20260909-0032) | VF | USCA > USA > Colorado > Denver HQ - VFC… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
 
