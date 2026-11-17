@@ -11955,17 +11955,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 84,
+   "n": 85,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 84,
+   "n": 85,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 84,
+   "n": 85,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12375,16 +12375,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-13"
-  },
-  "icims:careers-cotiviti.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "icims:careers-eyesouthpartners.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-20",
@@ -64822,6 +64812,7 @@
   "apple:usa:200693293": "2026-11-14",
   "apple:usa:200693294": "2026-11-14",
   "apple:usa:200693295": "2026-11-14",
+  "apple:usa:200693403": "2026-11-17",
   "apple:usa:200693492": "2026-11-14",
   "apple:usa:200693547": "2026-11-14",
   "apple:usa:200693583": "2026-11-14",
@@ -65006,6 +64997,7 @@
   "ashby:allen-control-systems:4b2fd860-3f4b-4c50-bdaa-5bfe627c91d2": "2026-11-13",
   "ashby:allwyn-corp:28dbf362-0de5-4fbb-bba8-1d9d8cc6b61d": "2026-11-14",
   "ashby:alpha-design-ai-inc:8569a8fb-0ee9-434c-ac61-803ee34c9336": "2026-11-14",
+  "ashby:ambrook:4e463062-c104-4349-b7c4-14825f3cc44b": "2026-11-17",
   "ashby:amplify:4a30a50c-037d-453a-96cf-941a7532c3e4": "2026-11-13",
   "ashby:amplitude:cc52ed40-7eb9-426d-8684-9c124140aab2": "2026-11-13",
   "ashby:andromeda:85dccef8-520e-4087-abc0-ca840b950ed8": "2026-11-13",
@@ -67850,6 +67842,8 @@
   "dayforce:bcbl|CANDIDATEPORTAL:3122": "2026-11-16",
   "dayforce:bhs|CANDIDATEPORTAL:5186": "2026-11-15",
   "dayforce:ccok|ccok:6512": "2026-11-15",
+  "dayforce:ccok|ccok:6558": "2026-11-17",
+  "dayforce:ccok|ccok:6560": "2026-11-17",
   "dayforce:centralins|CANDIDATEPORTAL:7149": "2026-11-15",
   "dayforce:chemelex|CANDIDATEPORTAL:2855": "2026-11-15",
   "dayforce:chromalloy|CANDIDATEPORTAL:40996": "2026-11-15",
@@ -73170,6 +73164,7 @@
   "lever:infraservices:2269b2b1-e311-4c97-b90d-c2476a6bd658": "2026-11-13",
   "lever:ion:541086b5-9de1-4f65-8038-f9690100b442": "2026-11-13",
   "lever:istaridigital.ai:0d1e644b-1977-438d-b78f-a0d280eb3cf2": "2026-11-13",
+  "lever:jobgether:017460d4-fe2e-4dad-8871-b690226666d5": "2026-11-17",
   "lever:jobgether:01f7311c-288a-4580-a8e5-4e1ef8118827": "2026-11-14",
   "lever:jobgether:029f6e21-36a5-42c6-859d-ec5e7c435578": "2026-11-16",
   "lever:jobgether:0779e90f-400b-4145-badf-021026ef08c7": "2026-11-14",
@@ -73180,6 +73175,7 @@
   "lever:jobgether:14040680-3949-47cf-b666-01b3ec6f2f3b": "2026-11-16",
   "lever:jobgether:19699243-449b-40c4-a760-2ecfb05b9d8f": "2026-11-14",
   "lever:jobgether:1d3792d3-b84d-4441-994c-b733f22cb0d9": "2026-11-14",
+  "lever:jobgether:1e1bcbb9-970a-420d-808a-853e8ae7ad7b": "2026-11-17",
   "lever:jobgether:1e563cf7-02a8-43b0-a8e0-03a4ef5eaf1a": "2026-11-14",
   "lever:jobgether:1f41924b-9c06-4b11-999f-1bc211f2544a": "2026-11-16",
   "lever:jobgether:21b02f7d-880b-4abd-ad1e-a0ee354a4445": "2026-11-14",
@@ -73253,6 +73249,7 @@
   "lever:jobgether:9fadc447-59bb-422c-b4ce-6d4a655e09d0": "2026-11-14",
   "lever:jobgether:9fd9c450-f807-4b5e-bf0c-9a67cfbbf5e6": "2026-11-14",
   "lever:jobgether:a4824d48-5f1c-49a6-9780-2dde57e359cc": "2026-11-17",
+  "lever:jobgether:a69c5946-a709-4af6-94fb-e1fe8c2dcaed": "2026-11-17",
   "lever:jobgether:a8baa21e-4284-4e3a-8fb7-ee940e4c5604": "2026-11-14",
   "lever:jobgether:ace3fe36-e630-4fb9-a84c-c97a6ce9d37d": "2026-11-14",
   "lever:jobgether:b01674d2-7838-4292-ab20-c26429a1a814": "2026-11-14",

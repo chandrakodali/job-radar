@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**697 jobs**, newest first. Updated Mon Nov 16, 11:18 PM CST from 12,526 company job boards and other sources.
+**696 jobs**, newest first. Updated Tue Nov 17, 12:17 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 2,388 matching jobs that job sites and feeds listed this week, 444 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (91)](#tuesday-nov-10-91)
+Jump to: [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (90)](#tuesday-nov-10-90)
 
 ## Monday, Nov 16 (60)
 
@@ -646,7 +646,7 @@ Jump to: [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 2:00 AM | [Business Data Analyst](https://jobs.dayforcehcm.com/en-US/allianthcm/smsalliant/jobs/44606) | Allianthcm | Omaha, NE, US | 63 | 1+ yrs exp |
 | 1:30 AM | [SAP BASIS Administrator Associate](https://jobs.smartrecruiters.com/O-I/744000161034659-sap-basis-administrator-associate) | O I | Perrysburg, OH, United States (hybrid) | 68 | entry-level title |
 
-## Tuesday, Nov 10 (91)
+## Tuesday, Nov 10 (90)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -740,9 +740,8 @@ Jump to: [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 7:15 AM | [Network Engineer I](https://jobs.smartrecruiters.com/AshburnConsulting/744000160871860-network-engineer-i) | AshburnConsulting | Arlington, VA, United States | 58 | entry-level title; staffing/consulting firm: verify it's real |
 | 5:04 AM | [IT System Engineer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016750616-it-system-engineer) | Cityofnewyork | Bronx, NY, United States | 63 | entry level (from the text) |
 | 5:00 AM | [Associate Solution Consultant](https://jobs.ashbyhq.com/socure/f2330d9e-1c1d-493e-adb7-e7602efc789f) | Socure | Hub - New York; Hub - San Francisco; Hu… (hybrid) | 68 | entry-level title |
-| 12:00 AM | [Cyber Security Associate (Contract)](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9185) | Hightower | Chicago, IL, US | 63 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3301)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3305)
 
 <details><summary>Show</summary>
 
@@ -755,6 +754,10 @@ Jump to: [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | date only | [Systems Development Engineer, DC Robotics, Data Center Robotics](https://www.amazon.jobs/en/jobs/10606820/systems-development-engineer-dc-robotics-data-center-robotics) | Amazon Data Services, Inc. | Seattle, Washington, USA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Clearable Data Center Technician, Infraops AG](https://www.amazon.jobs/en/jobs/10604670/clearable-data-center-technician-infraops-ag) | Amazon Data Services, Inc. | Aurora, Colorado, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
 | date only | [Clearable Data Center Technician, Data Center Operations](https://www.amazon.jobs/en/jobs/10597767/clearable-data-center-technician-data-center-operations) | Amazon Web Services, Inc. | Aurora, Colorado, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
+| 12:02 AM | [Network Automation Engineer](https://jobs.lever.co/jobgether/1e1bcbb9-970a-420d-808a-853e8ae7ad7b) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; needs: Public Trust Clearance |
+| 12:01 AM | [AMS Integration Specialist](https://jobs.lever.co/jobgether/a69c5946-a709-4af6-94fb-e1fe8c2dcaed) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 12:00 AM | [Software Engineering - Delphi Software Engineer 132-2007](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6558) | Ccok | Tulsa, OK, US | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 11:42 PM | [Full Stack Product Engineer](https://jobs.lever.co/jobgether/017460d4-fe2e-4dad-8871-b690226666d5) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:06 PM | [Data Scientist – Advanced Analytics & Healthcare Research](https://jobs.lever.co/jobgether/a4824d48-5f1c-49a6-9780-2dde57e359cc) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:42 PM | [Practice Support Specialist](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_1&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 55 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | 10:34 PM | [Patient Outreach and Support Specialist-Temp](https://job-boards.greenhouse.io/natera/jobs/6263353004) | Natera | US Remote (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -1144,9 +1147,5 @@ Jump to: [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 2:59 PM (seen) | [Strategic Partnerships & Growth - Cloud & Ecosystem](https://app.careerpuck.com/job-board/truefoundry/job/-tvlkwqU) | Truefoundry | San Francisco, CA | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:59 PM (seen) | [Automation Engineer](https://app.careerpuck.com/job-board/avalara/job/jPD1fWan) | Avalara | Remote, United States (remote) | 27 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 2:59 PM (seen) | [Business Intelligence Analyst](https://app.careerpuck.com/job-board/avalara/job/vJ1FGYOD) | Avalara | Remote, United States (remote) | 37 | rules: 4+ yrs exp; no future H-1B sponsorship; asks for 4+ years of e… |
-| 2:59 PM (seen) | [DevOps Release Engineer](https://app.careerpuck.com/job-board/avalara/job/hP0fejut) | Avalara | Remote, United States (remote) | 27 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| 2:59 PM (seen) | [Enterprise Systems Engineer](https://app.careerpuck.com/job-board/avalara/job/RFYDsOH6) | Avalara | Remote, United States (remote) | 27 | rules: 6+ yrs exp; asks for 6+ years of experience |
-| 2:59 PM (seen) | [Product Solution Consultant](https://app.careerpuck.com/job-board/avalara/job/HX4RhtCo) | Avalara | Remote, United States (remote) | 42 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| 2:59 PM (seen) | [Software Development Engineer](https://app.careerpuck.com/job-board/avalara/job/-We1DWyv) | Avalara | Remote, United States (remote) | 27 | rules: 6+ yrs exp; asks for 6+ years of experience |
 
 </details>
