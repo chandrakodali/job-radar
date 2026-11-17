@@ -11970,17 +11970,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 56,
+   "n": 57,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 56,
+   "n": 57,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 56,
+   "n": 57,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13299,7 +13299,7 @@
   ],
   "2026-11-17": [
    12,
-   59
+   63
   ]
  },
  "resolved": {
@@ -64270,6 +64270,7 @@
   "ashby:NorthwoodSpace:1aff98f5-3a25-47f9-afc4-4f57aa212694": "2026-11-17",
   "ashby:NorthwoodSpace:707d464d-a114-4721-95fd-a00398e04404": "2026-11-14",
   "ashby:NorthwoodSpace:b960b661-e1cc-40d0-bde3-290cd1b58ede": "2026-11-14",
+  "ashby:Pear-VC:7c4a3589-5626-4707-a77d-c9932bbdb306": "2026-11-17",
   "ashby:PointOne:bb42f37c-8a7c-434d-aae8-089820a7171d": "2026-11-14",
   "ashby:PointOne:d9fce9c8-016f-4b9f-b930-08f52a9c9104": "2026-11-14",
   "ashby:Shiftkey:2eeb9906-2ecb-48bf-914e-d976948e04a8": "2026-11-16",
@@ -64277,6 +64278,8 @@
   "ashby:Superhuman Platform Inc:9f17378e-635a-4d92-9941-e38363afab4f": "2026-11-14",
   "ashby:Tabs:27ea130b-d701-4b38-903b-ee18f403c0c6": "2026-11-14",
   "ashby:ThinkingMachines:3882fc2b-6d28-4498-b6e3-ef53e22f8f03": "2026-11-16",
+  "ashby:ThinkingMachines:50f566c8-7fe3-4fe5-a8ca-b42503537a51": "2026-11-17",
+  "ashby:ThinkingMachines:541c2fcf-e128-4442-94ee-c8298f226756": "2026-11-17",
   "ashby:ThinkingMachines:5b2ee0dc-0fe5-4c5d-806d-e171187e460e": "2026-11-16",
   "ashby:ThinkingMachines:ec5f88b6-e221-499c-bc8f-a27b66213b87": "2026-11-16",
   "ashby:Vultr:5b025636-0501-45c9-a413-831d7c4be8d2": "2026-11-14",
@@ -65597,6 +65600,7 @@
   "eightfold:paypal:274923300658": "2026-11-14",
   "eightfold:paypal:274923336364": "2026-11-14",
   "eightfold:paypal:274923348283": "2026-11-14",
+  "eightfold:paypal|paypal.com:274922260545": "2026-11-17",
   "eightfold:paypal|paypal.com:274922508777": "2026-11-15",
   "eightfold:paypal|paypal.com:274922654826": "2026-11-15",
   "eightfold:paypal|paypal.com:274923253759": "2026-11-16",
@@ -66305,6 +66309,9 @@
   "greenhouse:xai:5290321007": "2026-11-14",
   "greenhouse:xai:5295932007": "2026-11-16",
   "greenhouse:xai:5297207007": "2026-11-17",
+  "greenhouse:xai:5297311007": "2026-11-17",
+  "greenhouse:xai:5297314007": "2026-11-17",
+  "greenhouse:xai:5297316007": "2026-11-17",
   "greenhouse:zetaglobal:6250064004": "2026-11-14",
   "greenhouse:zinnia:4728784006": "2026-11-14",
   "hn:whoishiring:50428062-0": "2026-11-14",
@@ -68304,6 +68311,7 @@
   "smartrecruiters:BEUMERGroup1:744000160269098": "2026-11-14",
   "smartrecruiters:ExpertInstitute:744000161575169": "2026-11-14",
   "smartrecruiters:RIVOHoldingsLLC:744000160309698": "2026-11-15",
+  "smartrecruiters:abbvie:3743990016895576": "2026-11-17",
   "smartrecruiters:aecom2:744000159933390": "2026-11-14",
   "smartrecruiters:averydennison:744000160271479": "2026-11-14",
   "smartrecruiters:bet3651:744000159632777": "2026-11-14",
@@ -69438,10 +69446,10 @@
  },
  "source_last": {
   "hn": "2026-11-17T00:47:36+00:00",
-  "remoteok": "2026-11-17T01:47:36+00:00",
+  "remoteok": "2026-11-17T04:18:04+00:00",
   "usajobs": "2026-11-17T01:47:36+00:00",
   "workable_search": "2026-11-17T01:47:36+00:00",
-  "wwr": "2026-11-17T02:46:22+00:00",
+  "wwr": "2026-11-17T04:18:04+00:00",
   "yc": "2026-11-17T01:47:36+00:00"
  },
  "title_rules": "72f554d20a7f",
