@@ -1,19 +1,20 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**199 jobs**, newest first. Updated Tue Nov 17, 10:50 AM CST from 12,526 company job boards and other sources.
+**189 jobs**, newest first. Updated Tue Nov 17, 11:46 AM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-128 repeat listings (same company and title in another place or on another source) are merged into one row.
+123 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,226 matching jobs that job sites and feeds listed this week, 291 (23%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,280 matching jobs that job sites and feeds listed this week, 305 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (7)](#tuesday-nov-17-7) · [Mon 16 (25)](#monday-nov-16-25) · [Sun 15 (9)](#sunday-nov-15-9) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (15)](#tuesday-nov-10-15)
+Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (25)](#monday-nov-16-25) · [Sun 15 (9)](#sunday-nov-15-9) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (4)](#tuesday-nov-10-4)
 
-## Tuesday, Nov 17 (7)
+## Tuesday, Nov 17 (8)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:04 AM | [Senior Software Engineer, Data Platform](https://www.okta.com/company/careers/opportunity/8384001?gh_jid=8384001) | Okta | Bellevue, WA, United States | 45 | 4+ yrs exp; senior title; requires Java |
 | date only | [Junior Java Developer](https://mgl.avature.net/internalcareers/JobDetail/Junior-Java-Developer/24252) | Mgl Avature Net |  | 70 | entry-level title; location unclear |
 | date only | [Software Engineer](https://hp.eightfold.ai/careers/job/44925799) | Hp | Austin, TX, US (onsite) | 45 | 3+ yrs exp; requires Java |
 | 10:17 AM | [Software Developer 3](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350771) | Oracle | Nashville, TN, United States | 40 | 4+ yrs exp; senior title; requires Java |
@@ -156,7 +157,7 @@ Jump to: [Tue 17 (7)](#tuesday-nov-17-7) · [Mon 16 (25)](#monday-nov-16-25) · 
 | 1:28 PM | [Fullstack Senior Software Engineer - Java, SpringBoot, React](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210791686) | JP Morgan Chase | Tampa, FL, United States | 53 | 3+ yrs exp; senior title |
 | date only | [Software Engineer 1 (Java, Spring Boot, APIs)](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Software-Engineer-1---Java-Spring-Boot-Developer_2026-0028523) | U.S. Bank | Hopkins, MN | 68 | entry-level title; 3+ yrs exp; E-Verify |
 | date only | [Software Development Engineer (Angular/Java)](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Software-Development-Engineer--Angular-Java-_R1101788) | CVS Health | IL - Work from home (hybrid) | 58 | 4+ yrs exp |
-| date only | [Full Stack Engineer 4 (Java, AWS)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--GoLang--AWS-_R1003153) | Capital One | McLean, VA +5 more | 43 | 4+ yrs exp; no future H-1B sponsorship |
+| date only | [Full Stack Engineer 4 (Java, AWS)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--GoLang--AWS-_R1003153) | Capital One | McLean, VA +2 more | 43 | 4+ yrs exp; no future H-1B sponsorship |
 | date only | [Software Engineer- Billing Platform](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Software-Engineer--Billing-Platform_REQ361398) | T-Mobile | Overland Park, Kansas; Atlanta, Georgia… | 53 | 1+ yrs exp; requires Java |
 | date only | [Senior System Software Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer_JR2029610) | NVIDIA | US, CA, Santa Clara +1 more | 33 | 3+ yrs exp; senior title; requires Java |
 | date only | [Software Engineer](https://northwesternmutual.wd5.myworkdayjobs.com/CORPORATE-CAREERS/job/Milwaukee-WI-Corporate/Software-Engineer_JR-46279) | Northwestern Mutual | Milwaukee, WI Corporate | 53 | 2+ yrs exp; requires Java |
@@ -229,7 +230,7 @@ Jump to: [Tue 17 (7)](#tuesday-nov-17-7) · [Mon 16 (25)](#monday-nov-16-25) · 
 | 5:30 AM | [Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch](https://jobs.elastic.co/jobs?gh_jid=8378070&gh_jid=8378070) | Elastic | United States | 43 | senior title, years not stated |
 | 2:28 AM | [Senior Software Engineer](https://jobs.lever.co/jobgether/423eec1b-a832-47de-84a5-476f5e085488) | Jobgether | US (remote) | 30 | 4+ yrs exp; senior title; requires Java |
 
-## Tuesday, Nov 10 (15)
+## Tuesday, Nov 10 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -237,17 +238,6 @@ Jump to: [Tue 17 (7)](#tuesday-nov-17-7) · [Mon 16 (25)](#monday-nov-16-25) · 
 | 7:12 PM | [Senior Software Engineer, Metadata Platform](https://job-boards.greenhouse.io/boxinc/jobs/8375923) | Box | Redwood City, CA, United States | 33 | 4+ yrs exp; senior title; requires Java |
 | 5:34 PM | [Software Engineer II](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303784) | Uber | San Francisco, CA, United States; New Y… | 28 | requires Java |
 | 12:20 PM | [Software Engineer II](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26608) | Pearson | Boston, MA, United States (hybrid) | 33 | 3+ yrs exp; requires Java |
-| 11:06 AM | [Application Support Engineering- Second Shift](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214987) | DTCC | TX, United States; Tampa, FL, United St… | 33 | 4+ yrs exp; requires Java |
-| 11:06 AM | [Application Support Engineering- Second Shift](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/214987) | Ebxr Fa Us2 Oraclecloud Com | TX, United States; Tampa, FL, United St… | 28 | 4+ yrs exp; requires Java |
-| date only | [Cloud Software Engineer (Azure / Java)](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineer_JR0151296) | McKesson | USA, TX, Irving (remote) | 40 | 4+ yrs exp; no future H-1B sponsorship |
-| date only | [Software Engineer (MANTL)](https://alkami.wd12.myworkdayjobs.com/Alkami/job/US-Remote/Software-Engineer--MANTL-_JR-000891) | Alkami Technology | US Remote (remote) | 40 | 2+ yrs exp; no future H-1B sponsorship; requires Java |
-| date only | [Associate Software Engineer (Hybrid)](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R) | Vizient | Irving, TX 75062 Vizient Corporate HQ | 58 | entry-level title; 2+ yrs exp; requires Java |
-| date only | [Applications Engineer, Level 3](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Applications-Engineer--Level-3_R0047210-1) | Snap | Los Angeles, California; Palo Alto, Cal… | 48 | 1+ yrs exp; senior title; requires Java |
-| date only | [Software Development Engineer II, Localization](https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-II--Localization_R_107116) | Remitly | Seattle, Washington United States | 33 | 3+ yrs exp; E-Verify; requires Java |
-| date only | [Software Engineer II](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-292582-1) | Mastercard | O'Fallon, Missouri | 28 | requires Java |
-| date only | [Software Engineer II](https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA/Software-Engineer-II_R120431) | LexisNexis Risk Solutions | Alpharetta, GA | 43 | 1+ yrs exp; requires Java |
-| date only | [Senior Platform Engineer, Kafka and Streaming Data](https://tsys.wd1.myworkdayjobs.com/TSYS/job/CINCINNATI-OHIO/Senior-Platform-Engineer--Operational-Data-Store_R0076735) | Global Payments | CINCINNATI, OHIO; ALPHARETTA, GEORGIA (hybrid) | 33 | senior title, years not stated; requires Java |
-| date only | [Sr. Software Engineer](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Sr-Software-Engineer_31164104) | Abbott | United States - Illinois - Abbott Park | 28 | 4+ yrs exp; senior title; no future H-1B sponsorship; requires Java |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (315)
 
