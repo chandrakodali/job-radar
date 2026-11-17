@@ -11982,17 +11982,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 62,
+   "n": 63,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 62,
+   "n": 63,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 62,
+   "n": 63,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12402,6 +12402,16 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-14"
+  },
+  "icims:careers-cotiviti.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "icims:careers-eyesouthpartners.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-21",
@@ -13311,7 +13321,7 @@
   ],
   "2026-11-17": [
    37,
-   168
+   171
   ]
  },
  "resolved": {
@@ -64607,6 +64617,7 @@
   "avature:forvis.avature.net|experiencedcareers:15801": "2026-11-15",
   "avature:harmanglobal.avature.net|en_US/careers:33277": "2026-11-14",
   "avature:harmanglobal.avature.net|en_US/careers:33333": "2026-11-17",
+  "avature:harmanglobal.avature.net|en_US/careers:33337": "2026-11-17",
   "avature:jrg.avature.net|careers:2070": "2026-11-15",
   "avature:justicejobs.avature.net|careers:24118": "2026-11-15",
   "avature:justicejobs.avature.net|careers:24211": "2026-11-15",
@@ -68261,6 +68272,7 @@
   "sfrmk:jobs.paccar.com:1449704333": "2026-11-14",
   "sfrmk:jobs.paccar.com:1452042333": "2026-11-14",
   "sfrmk:jobs.paccar.com:1455347933": "2026-11-14",
+  "sfrmk:jobs.paccar.com:1457943933": "2026-11-17",
   "sfrmk:jobs.pseg.com:1440906900": "2026-11-14",
   "sfrmk:jobs.supermicro.com:1148558300": "2026-11-14",
   "sfrmk:jobs.supermicro.com:1245712900": "2026-11-14",
@@ -69503,10 +69515,10 @@
  },
  "source_last": {
   "hn": "2026-11-17T07:17:11+00:00",
-  "remoteok": "2026-11-17T08:16:19+00:00",
+  "remoteok": "2026-11-17T10:17:51+00:00",
   "usajobs": "2026-11-17T08:16:19+00:00",
   "workable_search": "2026-11-17T08:16:19+00:00",
-  "wwr": "2026-11-17T09:16:13+00:00",
+  "wwr": "2026-11-17T10:17:51+00:00",
   "yc": "2026-11-17T08:16:19+00:00"
  },
  "title_rules": "72f554d20a7f",
