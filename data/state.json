@@ -11771,7 +11771,7 @@
   },
   "ashby:Oso": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "ashby:Tempo": {
@@ -11812,7 +11812,7 @@
   },
   "ashby:browserbase": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "ashby:chainlink-labs": {
@@ -12081,17 +12081,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 179,
+   "n": 180,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 179,
+   "n": 180,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 179,
+   "n": 180,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12507,16 +12507,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 4,
    "since": "2026-11-09"
-  },
-  "icims:careers-cotiviti.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "icims:careers-eyesouthpartners.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-23",
@@ -14532,11 +14522,6 @@
    "err": "Taleo portal number not found",
    "n": 4,
    "since": "2026-11-09"
-  },
-  "taleo:rossstores|rstrcs1.1": {
-   "err": "Taleo portal number not found",
-   "n": 1,
-   "since": "2026-11-17"
   },
   "taleo:vulcanmat|2": {
    "disabled_until": "2026-11-23",
@@ -65968,6 +65953,7 @@
   "ashby:span:da8b0068-82bd-4fea-94b4-a3380cf96fd6": "2026-11-12",
   "ashby:spear-ai:d6a64d47-c3da-4a4a-951d-a9136869bfc8": "2026-11-12",
   "ashby:spoton:bb2d12c6-859d-459e-96f8-489c2bfd6681": "2026-11-12",
+  "ashby:standinsurance:98980cc7-8acb-4987-ba81-ca86844e81d8": "2026-11-17",
   "ashby:supabase:fb0b563a-e541-43fd-8555-9eb6473aaa11": "2026-11-07",
   "ashby:swarmaero:1a5fe194-42ea-48df-ae66-1e3dd4237390": "2026-11-07",
   "ashby:temporal:372eafe1-5e1d-414b-8e71-56c8b30a78dc": "2026-11-11",
@@ -68014,6 +68000,7 @@
   "lever:jobgether:4d0e9365-5e2d-4992-889a-3a073f97e4e3": "2026-11-14",
   "lever:jobgether:595fc8e8-bafd-4cb9-8bc0-6b19bf6ca8da": "2026-11-14",
   "lever:jobgether:5cedc112-aefe-4167-8649-8347b8c7b0a9": "2026-11-16",
+  "lever:jobgether:5d54d975-4683-4307-b2eb-8447300a8bd8": "2026-11-17",
   "lever:jobgether:616e390a-1e5b-4902-aeb5-5f0d6f6eef5d": "2026-11-16",
   "lever:jobgether:65a1156a-de46-49fd-8413-39a2b0b92b26": "2026-11-16",
   "lever:jobgether:6a1d0ed9-1ef9-44bb-902b-e7b4b3868b11": "2026-11-16",

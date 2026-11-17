@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**681 jobs**, newest first. Updated Tue Nov 17, 1:07 AM CST from 12,526 company job boards and other sources.
+**682 jobs**, newest first. Updated Tue Nov 17, 1:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,13 +8,14 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 1,457 matching jobs that job sites and feeds listed this week, 504 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (51)](#monday-nov-16-51) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84)
+Jump to: [Tue 17 (2)](#tuesday-nov-17-2) · [Mon 16 (51)](#monday-nov-16-51) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84)
 
-## Tuesday, Nov 17 (1)
+## Tuesday, Nov 17 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Systems Development Engineer, DC Robotics, Data Center Robotics](https://www.amazon.jobs/en/jobs/10606820/systems-development-engineer-dc-robotics-data-center-robotics) | Amazon Data Services, Inc. | Seattle, Washington, USA | 60 | 4+ yrs exp |
+| 1:26 AM | [Applied Science Platform Engineer](https://jobs.ashbyhq.com/StandInsurance/98980cc7-8acb-4987-ba81-ca86844e81d8) | Stand Insurance | San Francisco (onsite) | 60 | 3+ yrs exp; no future H-1B sponsorship |
 
 ## Monday, Nov 16 (51)
 
@@ -731,13 +732,14 @@ Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (51)](#monday-nov-16-51) · 
 | 2:00 AM | [Sr. Cloud Software Engineer](https://jobs.supermicro.com/job/San-Jose-Sr_-Cloud-Software-Engineer-Cali/1439207800/) | Super Micro Computer | San Jose, California, United States | 48 | senior title, years not stated |
 | 2:00 AM | [Sr Platform Engineer](https://careers.thehersheycompany.com/job/Dallas-Sr-Platform-Engineer-TX-75201/1438643100/) | Hershey | Dallas, TX, US | 53 | 3+ yrs exp; senior title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (714)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (715)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Systems Configuration Management Engineer (Level 3 or 4)](https://ngc.eightfold.ai/careers/job/1340075281013) | Ngc | San Diego, CA, US; Melbourne, FL, US; E… (onsite) | 50 | rules: 3+ yrs exp; senior title; needs: security clearance |
+| 1:12 AM | [Senior Systems Administrator – UNIX/Linux](https://jobs.lever.co/jobgether/5d54d975-4683-4307-b2eb-8447300a8bd8) | Jobgether | US (remote) | 27 | rules: 10+ yrs exp; senior title; needs: security clearance |
 | 1:00 AM | [Senior Data Platform Engineer](https://jobs.ashbyhq.com/ellipsis-health/8c44835f-2bf7-4976-9004-f3707781cd65) | Ellipsis Health | San Francisco - Hybrid (hybrid) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:13 PM | [Senior Full Stack Engineer, Java & Kubernetes Focus](https://jobs.lever.co/jobgether/6b7d4699-9948-48b8-a57c-079cfb1c3dda) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 9:01 PM | [Software Engineer, Tinker Infrastructure](https://jobs.ashbyhq.com/ThinkingMachines/541c2fcf-e128-4442-94ee-c8298f226756) | ThinkingMachines | San Francisco (onsite) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
@@ -1136,7 +1138,6 @@ Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (51)](#monday-nov-16-51) · 
 | date only | [Platform Engineer (Experienced or Senior)](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Platform-Engineer--Experienced-or-Senior-_JR2026524924) | The Boeing Company | USA - Berkeley, MO (onsite) | 53 | rules: 3+ yrs exp; senior title; E-Verify; no future H-1B sponsorship… |
 | date only | [Senior Platform Engineer, APIs & Workflow Automation](https://apply.workable.com/bask-health-1/j/3383A36B1B/) | Bask Health 1 | United States (remote) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Mainframe Application Support Engineer (COBOL/JCL/DB2)](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Merrimack-NH/Senior-Mainframe-Application-Support-Engineer--COBOL-JCL-DB2-_2137551-1) | Fidelity Investments | Merrimack, NH | 38 | rules: 4+ yrs exp; senior title; adjacent title, little DevOps/cloud … |
-| date only | [System Safety & Reliability Engineer](https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Indianapolis/System-Safety---Reliability-Engineer_JR6158706) | Rolls-Royce | Indianapolis; Novi +1 more | 68 | rules: 1+ yrs exp; needs: must be a US citizen |
 
 </details>
 
