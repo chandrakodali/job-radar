@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**706 jobs**, newest first. Updated Mon Nov 16, 6:47 PM CST from 12,526 company job boards and other sources.
+**704 jobs**, newest first. Updated Mon Nov 16, 7:47 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 2,291 matching jobs that job sites and feeds listed this week, 427 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (56)](#monday-nov-16-56) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (91)](#tuesday-nov-10-91) · [Mon 9 (13)](#monday-nov-9-13)
+Jump to: [Mon 16 (56)](#monday-nov-16-56) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (91)](#tuesday-nov-10-91) · [Mon 9 (11)](#monday-nov-9-11)
 
 ## Monday, Nov 16 (56)
 
@@ -738,7 +738,7 @@ Jump to: [Mon 16 (56)](#monday-nov-16-56) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 5:00 AM | [Associate Solution Consultant](https://jobs.ashbyhq.com/socure/f2330d9e-1c1d-493e-adb7-e7602efc789f) | Socure | Hub - New York; Hub - San Francisco; Hu… (hybrid) | 68 | entry-level title |
 | 12:00 AM | [Cyber Security Associate (Contract)](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9185) | Hightower | Chicago, IL, US | 63 | entry-level title |
 
-## Monday, Nov 9 (13)
+## Monday, Nov 9 (11)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -753,17 +753,25 @@ Jump to: [Mon 16 (56)](#monday-nov-16-56) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 9:46 PM | [Data/Document Specialist](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=18688a6c-b976-480c-a7a7-a0c92ecf44f2&ccId=19000101_000001&jobId=9207421535459_5&lang=en_US) | 18688A6C B976 480C A7A7 A0C92… | Oklahoma City, OK | 63 | entry level (from the text) |
 | 9:40 PM | [Implementation Specialist (Remote LATAM or US)](https://jobs.ashbyhq.com/whippy/5dbb50c3-9ca1-4483-b9d9-dc083b911f1b) | Whippy | Remote - Latin America; Remote- United … (remote) | 70 | 0-2 yrs exp; entry level (from the text) |
 | 9:39 PM | [Associate Solutions Engineer, Post-Sale (Remote LATAM or US)](https://jobs.ashbyhq.com/whippy/45a5f2e9-2b18-49e5-b3b0-9b32a5de8052) | Whippy | Remote - Latin America; Remote- United … (remote) | 70 | entry-level title; 0-2 yrs exp |
-| 7:31 PM | [IT Support Specialist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4596764) | Global Data Systems Inc | Lafayette, LA, United States | 63 | 1+ yrs exp |
-| 7:30 PM | [Software Engineer](https://jobs.workable.com/view/fomAmsTZKqLrECgi2haMeT/remote-software-engineer-in-united-states-at-multi-media-llc) | Multi Media LLC | Remote, US (remote) | 60 | entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3271)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3284)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Analytics Engineer, Commercial Systems](https://apply.workable.com/bask-health-1/j/9453F02B71/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [GTM Data Analyst](https://apply.workable.com/bask-health-1/j/8F7C4076E8/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Revenue Analytics Analyst](https://apply.workable.com/bask-health-1/j/F0E9BEC210/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 10:42 PM | [Practice Support Specialist](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_1&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 55 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | 8:44 PM | [Security Specialist Professional - Kwajalein Atoll - 3901](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=24e7d80d-26d8-4462-8cde-9f67f19162b6&ccId=2745295041_4470&jobId=9201928189928_2&lang=en_US) | 24E7D80D 26D8 4462 8Cde 9F67F… | Huntsville, AL; Huntsville, AL | 75 | rules: 2+ yrs exp; needs: Security Clearance |
+| 7:36 PM | [Finance Planning Systems (SAP Analytics Cloud)](https://jobs.smartrecruiters.com/AbbVie/3743990016894246-finance-planning-systems-sap-analytics-cloud-) | AbbVie | Chicago, IL, United States (remote) | 42 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| 7:14 PM | [CNC Programmer](https://boards.greenhouse.io/vast/jobs/4730097006?gh_jid=4730097006) | VAST | Hawthorne, California, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 7:13 PM | [Product Security Engineer, Offensive Security](https://www.coinbase.com/careers/positions/8394654?gh_jid=8394654) | Coinbase | Remote - USA (remote) | 62 | rules: 3+ yrs exp; E-Verify; asks for 3+ years of experience |
+| 7:07 PM | [Research and Reporting Analyst](https://epyz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/19533) | Epyz Fa Us2 Oraclecloud Com | Orlando, FL, United States; Jacksonvill… (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 7:07 PM | [Software Engineer–Infiniium Oscilloscope Software Development](https://jobs.keysight.com/jobs/56642?lang=en-us) | Keysight Technologies | Colorado Springs, Colorado | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 7:05 PM | [Security Engineer - Federal](https://job-boards.greenhouse.io/eleviassociates/jobs/8206225003) | Eleviassociates | Chantilly, VA | 45 | rules: 15+ yrs exp; needs: Active TS/SCI |
+| 7:02 PM | [Founding Full-Stack Engineer](https://jobs.ashbyhq.com/Clera/ea5b2346-51f4-4fd9-800b-5cda50702070) | Clera | New York (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 6:52 PM | [Mission Shore Support Analyst](https://mobius-llc.com/careers?gh_jid=5296672007) | Mobius | Huntsville, AL | 45 | rules: 7+ yrs exp; needs: Security clearance |
 | 6:47 PM | [Software Engineer - API](https://www.nexhealth.com/careers/open-positions?gh_jid=6261765004) | Nexhealth | United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 6:44 PM | [Data Engineer](https://jobs.ashbyhq.com/pocket/565e93c5-4350-44f6-8a41-8fd432fea8f8) | Open Vision Engineering | San Francisco (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -932,6 +940,8 @@ Jump to: [Mon 16 (56)](#monday-nov-16-56) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | date only | [Test Engineer](https://apply.workable.com/raveaerospace/j/73998C61E9/) | RAVE Aerospace | Brea, California, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Systems Engineer , Amazon Leo](https://www.amazon.jobs/en/jobs/10604747/systems-engineer-amazon-leo) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 75 | rules: 2+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Machine Learning Engineer, Medical Imaging](https://carlsmed.bamboohr.com/careers/265) | Carlsmed | Carlsbad, California | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Resource Control Team Software Engineer (Level 1 or 2) - AHT](https://ngc.eightfold.ai/careers/job/1340073866482) | Ngc | Manhattan Beach, CA, US (onsite) | 73 | rules: entry-level title; needs: Secret clearance |
+| date only | [Configurable On-Board Router (COR) Team - Software Engineer (AHT)](https://ngc.eightfold.ai/careers/job/1340073866409) | Ngc | Manhattan Beach, CA, US (onsite) | 73 | rules: entry level (from the text); needs: Secret clearance |
 | 10:57 AM | [Frontend Software Engineer](https://job-boards.greenhouse.io/grvty/jobs/4508719009) | GRVTY | Laurel, Maryland, United States; San An… | 45 | rules: 9+ yrs exp; needs: Secret clearance |
 | 10:57 AM | [Databricks Platform Engineer](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22512) | EXL | New York, United States (hybrid) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:56 AM | [QA Specialist - Data Center](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7117) | Black Box | BOWLING GREEN, OH, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -1150,17 +1160,5 @@ Jump to: [Mon 16 (56)](#monday-nov-16-56) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 2:59 PM (seen) | [Application Customer Support Analyst - 26411](https://jobs.jobvite.com/drillinginfo/job/oawXAfwX) | Drillinginfo |  | 55 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | 2:59 PM (seen) | [Application Support Analyst - 26194](https://jobs.jobvite.com/drillinginfo/job/oDa8zfwe) | Drillinginfo |  | 55 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | 2:59 PM (seen) | [Solar Application Support Analyst - 26194D](https://jobs.jobvite.com/drillinginfo/job/omOWAfwq) | Drillinginfo |  | 55 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
-| 2:59 PM (seen) | [Technical Consultant, AUD - 26412](https://jobs.jobvite.com/drillinginfo/job/okwXAfw7) | Drillinginfo |  | 55 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
-| 2:59 PM (seen) | [Test Automation Engineer (T-Plan Robot) - Distribution Tools - 26-360](https://jobs.jobvite.com/drillinginfo/job/osQKAfwm) | Drillinginfo |  | 25 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
-| 2:59 PM (seen) | [Desktop Support Engineer L1 - PR](https://bluemantis.pinpointhq.com/en/postings/025cdd4a-d5d2-4cb6-b794-03043cab3285) | Bluemantis | Remote (remote) | 52 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
-| 2:59 PM (seen) | [Desktop Support  Engineer - Charlestown MA Office Hybrid](https://bluemantis.pinpointhq.com/en/postings/97230645-bdf9-4f7c-908a-fc5e6fa8de38) | Bluemantis | Hybrid (hybrid) | 45 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
-| 2:59 PM (seen) | [IT EUX Onsite Engineer - Onsite Boston MA Area](https://bluemantis.pinpointhq.com/en/postings/42a726a0-039c-49a0-99e9-800acfba2126) | Bluemantis | Onsite (onsite) | 45 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
-| 2:59 PM (seen) | [IT Network Security Engineer - 100% Remote  US Only](https://bluemantis.pinpointhq.com/en/postings/19ee36ee-2354-4da6-88b9-fb2928aefa8c) | Bluemantis | Remote (remote) | 27 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:59 PM (seen) | [Full Stack Developer (Python & Angular)](https://emergn.pinpointhq.com/en/postings/548bf192-c8a4-423a-92eb-528f2c5da70e) | Emergn | Portugal - Nationwide (remote) | 57 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 2:59 PM (seen) | [Automation Specialist](https://groupo.pinpointhq.com/en/postings/bd66663d-a0ab-4981-ade3-1219440356e2) | Groupo | Fort Worth, Texas (409) (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:59 PM (seen) | [Overhead Cantenary Systems Engineer (OCS)](https://stacywitbeck.pinpointhq.com/en/postings/135db937-8d3a-4295-be5b-83ae3c8dd3f5) | Stacywitbeck | Austin +3 more (onsite) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:59 PM (seen) | [Software Developer (.Net)](https://intermedia.pinpointhq.com/en/postings/7c07980f-4874-4965-b017-154a76dd29c1) | Intermedia | Georgia (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:59 PM (seen) | [Implementation Engineer - Contract](https://intermedia.pinpointhq.com/en/postings/4013f8ad-fb95-4e55-b13a-82e7b69b9cc0) | Intermedia | United States (remote) | 27 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:59 PM (seen) | [Systems Developer (Remote)](https://davies.pinpointhq.com/en/postings/583ea2b6-675c-486c-88cf-de39a45590d6) | Davies | Home United States (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
