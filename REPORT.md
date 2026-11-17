@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**682 jobs**, newest first. Updated Mon Nov 16, 8:37 PM CST from 12,526 company job boards and other sources.
+**682 jobs**, newest first. Updated Mon Nov 16, 9:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 234 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,358 matching jobs that job sites and feeds listed this week, 464 (34%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,363 matching jobs that job sites and feeds listed this week, 464 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Mon 16 (50)](#monday-nov-16-50) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (84)](#tuesday-nov-10-84) · [Mon 9 (3)](#monday-nov-9-3)
 
@@ -732,13 +732,14 @@ Jump to: [Mon 16 (50)](#monday-nov-16-50) · [Sun 15 (14)](#sunday-nov-15-14) ·
 | 11:00 PM | [Infrastructure Administrator](https://careers-bancroft.icims.com/jobs/21147/infrastructure-administrator/job) | Bancroft | Cherry Hill, NJ, United States | 63 | 2+ yrs exp |
 | 9:31 PM | [Integration Build Engineer](https://boards.greenhouse.io/vast/jobs/4728490006?gh_jid=4728490006) | VAST | Long Beach, California, United States | 45 | 4+ yrs exp; repost |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (711)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (712)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Systems Configuration Management Engineer (Level 3 or 4)](https://ngc.eightfold.ai/careers/job/1340075281013) | Ngc | San Diego, CA, US; Melbourne, FL, US; E… (onsite) | 50 | rules: 3+ yrs exp; senior title; needs: security clearance |
+| 9:01 PM | [Software Engineer, Tinker Infrastructure](https://jobs.ashbyhq.com/ThinkingMachines/541c2fcf-e128-4442-94ee-c8298f226756) | ThinkingMachines | San Francisco (onsite) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 7:03 PM | [Senior Network Production Engineer, Operations](https://jobs.ashbyhq.com/Crusoe/042fbe44-edfa-4447-8982-0487c39078d7) | Crusoe | San Francisco, CA - US; Sunnyvale, CA -… (onsite) | 60 | rules: 5+ yrs exp; senior title; priority company; asks for 5+ years … |
 | 5:58 PM | [Network Engineer - Federal](https://job-boards.greenhouse.io/eleviassociates/jobs/8206182003) | Eleviassociates | Chantilly, VA | 50 | rules: needs: TS/SCI Clearance |
 | 5:46 PM | [DevOps Engineer - Federal](https://job-boards.greenhouse.io/eleviassociates/jobs/8206169003) | Eleviassociates | Chantilly, VA | 65 | rules: needs: Active TS/SCI |
@@ -1137,7 +1138,6 @@ Jump to: [Mon 16 (50)](#monday-nov-16-50) · [Sun 15 (14)](#sunday-nov-15-14) ·
 | date only | [Reliability Engineer (Hellmann's Mayo Factory)](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Chicago-IL/Reliability-Lead_R-1186348) | Unilever | Chicago, IL | 38 | rules: 4+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | date only | [Mainframe Reliability Engineer 2](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Mainframe-Reliability-Engineer-2_2026-0035449) | U.S. Bank | Hopkins, MN; Gresham, OR; Cincinnati, O… | 43 | rules: E-Verify; adjacent title, little DevOps/cloud work in the text |
 | date only | [Senior DevOps Engineer](https://lseg.wd3.myworkdayjobs.com/Careers/job/St-Loui-Missouri/Senior-DevOps-Engineer_R0124420) | LSEG | St. Loui, Missouri | 33 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| date only | [Systems Development Engineer, AWS Commerce Platform-ADC](https://www.amazon.jobs/en/jobs/10601939/systems-development-engineer-aws-commerce-platform-adc) | Amazon Development Center U.S… | Denver, Colorado, USA | 53 | rules: needs: security clearance |
 
 </details>
 
