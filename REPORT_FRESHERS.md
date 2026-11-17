@@ -1,14 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**708 jobs**, newest first. Updated Mon Nov 16, 5:45 PM CST from 12,526 company job boards and other sources.
+**706 jobs**, newest first. Updated Mon Nov 16, 6:47 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-228 repeat listings (same company and title in another place or on another source) are merged into one row.
+227 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,194 matching jobs that job sites and feeds listed this week, 410 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,291 matching jobs that job sites and feeds listed this week, 427 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (56)](#monday-nov-16-56) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (91)](#tuesday-nov-10-91) · [Mon 9 (15)](#monday-nov-9-15)
+Jump to: [Mon 16 (56)](#monday-nov-16-56) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (91)](#tuesday-nov-10-91) · [Mon 9 (13)](#monday-nov-9-13)
 
 ## Monday, Nov 16 (56)
 
@@ -250,7 +250,7 @@ Jump to: [Mon 16 (56)](#monday-nov-16-56) · [Sun 15 (23)](#sunday-nov-15-23) ·
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
-| 10:09 PM | [Gallery Housekeeping Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/42206) | RH | Charlotte, NC, United States +4 more | 75 | entry-level title |
+| 10:09 PM | [Gallery Housekeeping Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/42206) | RH | Charlotte, NC, United States +3 more | 75 | entry-level title |
 | 7:04 PM | [Operations Support Associate – Relief $18-20/hr](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4660563) | Cayuga Milk Ingredients, LLC | Auburn, NY, United States | 68 | entry-level title |
 | 5:50 PM | [Service Desk Engineer (M-F 3pm to Midnight PST)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=567e686e-7575-49d9-b29f-985e7365f987&ccId=19000101_000001&jobId=9202916632446_104&lang=en_US) | 567E686E 7575 49D9 B29F 985E7… | USA, Remote | 80 | 1+ yrs exp; E-Verify |
 | 5:30 PM | [Administrative Support Team Associate, Poughkeepsie Galleria - Part T…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825033) | Macy's | Poughkeepsie, NY, United States | 85 | entry-level title; 1+ yrs exp |
@@ -738,7 +738,7 @@ Jump to: [Mon 16 (56)](#monday-nov-16-56) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 5:00 AM | [Associate Solution Consultant](https://jobs.ashbyhq.com/socure/f2330d9e-1c1d-493e-adb7-e7602efc789f) | Socure | Hub - New York; Hub - San Francisco; Hu… (hybrid) | 68 | entry-level title |
 | 12:00 AM | [Cyber Security Associate (Contract)](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9185) | Hightower | Chicago, IL, US | 63 | entry-level title |
 
-## Monday, Nov 9 (15)
+## Monday, Nov 9 (13)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -755,10 +755,8 @@ Jump to: [Mon 16 (56)](#monday-nov-16-56) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 9:39 PM | [Associate Solutions Engineer, Post-Sale (Remote LATAM or US)](https://jobs.ashbyhq.com/whippy/45a5f2e9-2b18-49e5-b3b0-9b32a5de8052) | Whippy | Remote - Latin America; Remote- United … (remote) | 70 | entry-level title; 0-2 yrs exp |
 | 7:31 PM | [IT Support Specialist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4596764) | Global Data Systems Inc | Lafayette, LA, United States | 63 | 1+ yrs exp |
 | 7:30 PM | [Software Engineer](https://jobs.workable.com/view/fomAmsTZKqLrECgi2haMeT/remote-software-engineer-in-united-states-at-multi-media-llc) | Multi Media LLC | Remote, US (remote) | 60 | entry level (from the text) |
-| 5:53 PM | [Associate Data Scientist](https://jobs.ashbyhq.com/Jerry.ai/81fcaf5e-3203-4a9d-88cd-fb01c7edf1ea) | Jerry | New York, New York; Chicago, Illinois; … (remote) | 70 | entry-level title; 1+ yrs exp |
-| 5:52 PM | [Tune Tester](https://boards.greenhouse.io/fender/jobs/8367779?gh_jid=8367779) | Fender | Corona, CA | 63 | 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3266)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3271)
 
 <details><summary>Show</summary>
 
@@ -766,6 +764,11 @@ Jump to: [Mon 16 (56)](#monday-nov-16-56) · [Sun 15 (23)](#sunday-nov-15-23) ·
 |---|---|---|---|---:|---|
 | 10:42 PM | [Practice Support Specialist](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_1&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 55 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | 8:44 PM | [Security Specialist Professional - Kwajalein Atoll - 3901](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=24e7d80d-26d8-4462-8cde-9f67f19162b6&ccId=2745295041_4470&jobId=9201928189928_2&lang=en_US) | 24E7D80D 26D8 4462 8Cde 9F67F… | Huntsville, AL; Huntsville, AL | 75 | rules: 2+ yrs exp; needs: Security Clearance |
+| 6:52 PM | [Mission Shore Support Analyst](https://mobius-llc.com/careers?gh_jid=5296672007) | Mobius | Huntsville, AL | 45 | rules: 7+ yrs exp; needs: Security clearance |
+| 6:47 PM | [Software Engineer - API](https://www.nexhealth.com/careers/open-positions?gh_jid=6261765004) | Nexhealth | United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 6:44 PM | [Data Engineer](https://jobs.ashbyhq.com/pocket/565e93c5-4350-44f6-8a41-8fd432fea8f8) | Open Vision Engineering | San Francisco (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 6:21 PM | [Software Engineer, Frontend/Web App](https://jobs.ashbyhq.com/beaconai/58b0c4e6-4f5c-4833-891f-3d50082a4c39) | Beacon AI | San Carlos  - Hybrid | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; needs: export control … |
+| 6:10 PM | [System Engineer](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4503760009) | Voyager Technologies | San Diego, CA (remote) | 42 | rules: 10+ yrs exp; needs: security clearance |
 | 5:59 PM | [Client Support Analyst](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2e99fbf7-fb35-4e23-a3e9-d325f3ed4e7f&ccId=19000101_000001&jobId=9205261771788_8&lang=en_US) | 2E99Fbf7 Fb35 4E23 A3E9 D325F… | Los Angeles, CA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 5:28 PM | [Facility Security & IT Specialist - Federal](https://job-boards.greenhouse.io/eleviassociates/jobs/8206153003) | Eleviassociates | Chantilly, VA | 60 | rules: 3+ yrs exp; needs: Active TS/SCI |
 | 5:21 PM | [Conference Room & Events Support Engineer](https://lamresearch.eightfold.ai/careers/job/1099556832885) | Lamresearch | Tualatin, OR, US +1 more (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -1040,6 +1043,7 @@ Jump to: [Mon 16 (56)](#monday-nov-16-56) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 11:00 PM | [Linux Systems Engineer](https://everwatch-everwatchsolutions.icims.com/jobs/3702/linux-systems-engineer/job) | Everwatch | Annapolis Junction, MD, United States | 45 | rules: 12+ yrs exp; needs: TS/SCI clearance |
 | 11:00 PM | [Drupal Developer](https://careers-steampunk.icims.com/jobs/8518/drupal-developer/job) | Steampunk | McLean, VA, United States (remote) | 62 | rules: 3+ yrs exp; E-Verify; asks for 3+ years of experience |
 | 11:00 PM | [Desktop Support Technician](https://careers-emcorgroup.icims.com/jobs/55379/desktop-support-technician/job) | EMCOR Group | Tempe, AZ, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 11:00 PM | [RF Test Technician](https://careers-stellantsystems.icims.com/jobs/2290/rf-test-technician/job) | Stellant Systems | Torrance, CA, United States | 45 | rules: 7+ yrs exp; needs: must be a U.S. citizen |
 | 10:27 PM | [Support Engineer](https://ats.rippling.com/button/jobs/6a12b0a7-ce58-4d40-86a9-4acb5574177f) | Button | New York, NY (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:50 PM | [Solutions Engineer](https://jobs.ashbyhq.com/PointOne/ead81d8b-5d51-4d1e-bfe5-63165ad2870d) | PointOne | New York City (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 7:22 PM | [Data Platform Engineer](https://jobs.smartrecruiters.com/Dominos/744000161708269-data-platform-engineer) | Domino's | Ann Arbor, MI, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -1158,11 +1162,5 @@ Jump to: [Mon 16 (56)](#monday-nov-16-56) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 2:59 PM (seen) | [Software Developer (.Net)](https://intermedia.pinpointhq.com/en/postings/7c07980f-4874-4965-b017-154a76dd29c1) | Intermedia | Georgia (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 2:59 PM (seen) | [Implementation Engineer - Contract](https://intermedia.pinpointhq.com/en/postings/4013f8ad-fb95-4e55-b13a-82e7b69b9cc0) | Intermedia | United States (remote) | 27 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:59 PM (seen) | [Systems Developer (Remote)](https://davies.pinpointhq.com/en/postings/583ea2b6-675c-486c-88cf-de39a45590d6) | Davies | Home United States (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:59 PM (seen) | [Information Security Engineer (SOC)](https://tabby.pinpointhq.com/en/postings/4bd77361-7dde-4464-baaf-7afe03865027) | Tabby | KSA (onsite) | 45 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
-| 2:59 PM (seen) | [Risk (Data) Analyst](https://tabby.pinpointhq.com/en/postings/f9bcbce3-dbaf-4f16-b9c8-441efb9735a3) | Tabby | Remote/Georgia (remote) | 57 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 2:59 PM (seen) | [Risk (QA) Engineer](https://tabby.pinpointhq.com/en/postings/4ae1786e-d870-4ba2-a351-ae1a1669d1ce) | Tabby | Remote/Georgia (remote) | 27 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:59 PM (seen) | [ServiceDesk Engineer](https://tabby.pinpointhq.com/en/postings/e6818101-23b2-459d-a3b8-47d049fa1426) | Tabby | Remote (remote) | 52 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
-| 2:59 PM (seen) | [Technical Support Specialist](https://thecoteam.pinpointhq.com/en/postings/2a24fcc9-fb6b-4eec-b4ce-2200bba5ec62) | Thecoteam | Reno, NV (No-IP) (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:59 PM (seen) | [AV Installer & Programmer (Lutron/Savant/C4)](https://thecoteam.pinpointhq.com/en/postings/4111755c-f912-4c1e-b858-ad54d9b06428) | Thecoteam | Houston, TX (Echo) (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
