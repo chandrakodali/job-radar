@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**681 jobs**, newest first. Updated Mon Nov 16, 11:07 PM CST from 12,526 company job boards and other sources.
+**681 jobs**, newest first. Updated Mon Nov 16, 11:37 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -731,13 +731,14 @@ Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (51)](#monday-nov-16-51) · 
 | 2:00 AM | [Sr. Cloud Software Engineer](https://jobs.supermicro.com/job/San-Jose-Sr_-Cloud-Software-Engineer-Cali/1439207800/) | Super Micro Computer | San Jose, California, United States | 48 | senior title, years not stated |
 | 2:00 AM | [Sr Platform Engineer](https://careers.thehersheycompany.com/job/Dallas-Sr-Platform-Engineer-TX-75201/1438643100/) | Hershey | Dallas, TX, US | 53 | 3+ yrs exp; senior title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (712)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (713)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Systems Configuration Management Engineer (Level 3 or 4)](https://ngc.eightfold.ai/careers/job/1340075281013) | Ngc | San Diego, CA, US; Melbourne, FL, US; E… (onsite) | 50 | rules: 3+ yrs exp; senior title; needs: security clearance |
+| 11:13 PM | [Senior Full Stack Engineer, Java & Kubernetes Focus](https://jobs.lever.co/jobgether/6b7d4699-9948-48b8-a57c-079cfb1c3dda) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 9:01 PM | [Software Engineer, Tinker Infrastructure](https://jobs.ashbyhq.com/ThinkingMachines/541c2fcf-e128-4442-94ee-c8298f226756) | ThinkingMachines | San Francisco (onsite) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 7:03 PM | [Senior Network Production Engineer, Operations](https://jobs.ashbyhq.com/Crusoe/042fbe44-edfa-4447-8982-0487c39078d7) | Crusoe | San Francisco, CA - US; Sunnyvale, CA -… (onsite) | 60 | rules: 5+ yrs exp; senior title; priority company; asks for 5+ years … |
 | 5:58 PM | [Network Engineer - Federal](https://job-boards.greenhouse.io/eleviassociates/jobs/8206182003) | Eleviassociates | Chantilly, VA | 50 | rules: needs: TS/SCI Clearance |
@@ -774,6 +775,7 @@ Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (51)](#monday-nov-16-51) · 
 | 11:07 AM (seen) | [DevOps Automation Engineer](https://app.dover.com/apply/devops-automation-eng/5a6153f8-c989-4998-a826-5fbdae605605) | Devops Automation Eng | McLean, VA (onsite) | 35 | rules: 9+ yrs exp; asks for 9+ years of experience |
 | 11:07 AM (seen) | [DevOps Engineer (Founding Team)](https://app.dover.com/apply/gradientflo/1c0df54b-45f7-4dab-ae4d-82fae8dfb04d) | Gradientflo | Hyderābād, India; San Francisco, CA (onsite) | 35 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | date only | [Senior Software Engineer - Accelerated Kubernetes Runtime Team](https://nvidia.eightfold.ai/careers/job/893394443076) | Nvidia | WA,US; US +3 more (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
+| date only | [Senior Network Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893384025211) | Nvidia | Santa Clara, CA, US; US +1 more (remote) | 15 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Systems Administrator](https://ngc.eightfold.ai/careers/job/1340075351241) | Ngc | Colorado Springs, CO, US (onsite) | 65 | rules: 2+ yrs exp; needs: CLEARANCE REQUIRED |
 | date only | [Senior DevOps Engineer](https://nvidia.eightfold.ai/careers/job/893398591334) | Nvidia | Yokne'am Illit, North District, IL (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Cloud Platform Engineer - AI Education Systems](https://nvidia.eightfold.ai/careers/job/893398750368) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
@@ -1135,8 +1137,6 @@ Jump to: [Tue 17 (1)](#tuesday-nov-17-1) · [Mon 16 (51)](#monday-nov-16-51) · 
 | date only | [System Safety & Reliability Engineer](https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Indianapolis/System-Safety---Reliability-Engineer_JR6158706) | Rolls-Royce | Indianapolis; Novi +1 more | 68 | rules: 1+ yrs exp; needs: must be a US citizen |
 | date only | [Reliability Engineer](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Tar-Heel-NC/Reliability-Engineer_R-2026-15910) | Smithfield Foods | Tar Heel, NC (onsite) | 58 | rules: 2+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | date only | [Reliability Engineer (Hellmann's Mayo Factory)](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Chicago-IL/Reliability-Lead_R-1186348) | Unilever | Chicago, IL | 38 | rules: 4+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
-| date only | [Mainframe Reliability Engineer 2](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Mainframe-Reliability-Engineer-2_2026-0035449) | U.S. Bank | Hopkins, MN; Gresham, OR; Cincinnati, O… | 43 | rules: E-Verify; adjacent title, little DevOps/cloud work in the text |
-| date only | [Senior DevOps Engineer](https://lseg.wd3.myworkdayjobs.com/Careers/job/St-Loui-Missouri/Senior-DevOps-Engineer_R0124420) | LSEG | St. Loui, Missouri | 33 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 
 </details>
 
