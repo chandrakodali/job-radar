@@ -11746,6 +11746,11 @@
   "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-16"
  },
  "fails": {
+  "apple:usa": {
+   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-18",
    "err": "HTTP 404",
@@ -11889,11 +11894,6 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
-  },
-  "ashby:lambda": {
-   "err": "network error: ChunkedEncodingError",
-   "n": 1,
-   "since": "2026-11-17"
   },
   "ashby:latitude": {
    "disabled_until": "2026-11-21",
@@ -12089,17 +12089,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 203,
+   "n": 204,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 203,
+   "n": 204,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 203,
+   "n": 204,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -67328,6 +67328,7 @@
   "icims:careers-dminc.icims.com:28810": "2026-11-09",
   "icims:careers-dminc.icims.com:28848": "2026-11-09",
   "icims:careers-dminc.icims.com:29069": "2026-11-12",
+  "icims:careers-dminc.icims.com:29073": "2026-11-17",
   "icims:careers-e2optics.icims.com:3575": "2026-11-09",
   "icims:careers-e2optics.icims.com:3842": "2026-11-09",
   "icims:careers-edgewaterit.icims.com:2368": "2026-11-09",
@@ -67730,6 +67731,7 @@
   "icims:everwatch-everwatchsolutions.icims.com:3669": "2026-11-09",
   "icims:everwatch-everwatchsolutions.icims.com:3671": "2026-11-10",
   "icims:everwatch-everwatchsolutions.icims.com:3702": "2026-11-16",
+  "icims:everwatch-everwatchsolutions.icims.com:3768": "2026-11-17",
   "icims:expleo-jobs-gb-en.icims.com:56704": "2026-11-09",
   "icims:expleo-jobs-gb-en.icims.com:56835": "2026-11-09",
   "icims:global-portal-ttelectronics.icims.com:6332": "2026-11-09",
@@ -69036,6 +69038,7 @@
   "smartrecruiters:AIRCommunities:744000161393439": "2026-11-14",
   "smartrecruiters:ApplaudoStudios:744000159729578": "2026-11-12",
   "smartrecruiters:AshburnConsulting:744000160871860": "2026-11-15",
+  "smartrecruiters:Medfar:744000162160732": "2026-11-17",
   "smartrecruiters:PublicStorage:744000161132829": "2026-11-15",
   "smartrecruiters:PublicStorage:744000161510743": "2026-11-15",
   "smartrecruiters:Xplor:744000161368479": "2026-11-15",
