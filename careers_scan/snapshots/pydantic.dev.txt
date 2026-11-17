@@ -49,13 +49,13 @@ Build developer tools
 We think there's nothing more fun to develop than tools for developers (we hope you agree).
 Open roles
 We're currently hiring for the following roles
+Enterprise Developer Relations Engineer Fully remote Marketing View role
+Senior Technical Product Marketing Manager Fully remote Marketing View role
+Account Executive Fully remote Logfire View role
 Security Operations Engineer Fully remote Operations View role
-Staff Software Engineer, Agent Sandboxes Fully remote Product owner and team lead for Pydantic's agent sandboxes: the Monty interpreter and the managed service that runs it View role
 Senior Growth Marketer Fully remote Marketing View role
 Pre-Sales Solutions Engineer Fully remote Logfire View role
-Principal Product Manager, Observability Experience Fully remote Logfire observability experience View role
 Agent Infrastructure Engineer Fully remote Logfire — AI Agents & Sandboxes View role
-Evals & Continuous Learning Engineer Fully remote Logfire — Evals & Continuous Learning View role
 Observability Experience Product Engineer Fully remote Logfire product engineering View role
 Principal DataFusion Engineer Fully remote Logfire — Data Store View role
 Principal Software Engineer Fully remote Logfire — Observability Ingest View role

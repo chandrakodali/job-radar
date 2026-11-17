@@ -17,7 +17,7 @@ How many people are already working on the problem? Contributing to an overlooke
 Tractability
 How likely is it that we can solve the problem? Is there a realistic path to progress through research, funding, advocacy, or other interventions?
 Already know what you're looking for?
-Search our opportunities board for full- and part-time roles, fellowships, internships, volunteer opportunities, training programs, and events that could help you do more good with your career.
+Search our opportunities board for full-time and part-time roles, fellowships, internships, volunteer opportunities, training programs, and events that could help you do more good with your career.
 High-impact career paths
 You may not need to start from scratch to move into high-impact work. Many organizations working on important problems need professional skills, from software, policy, and research to operations, communications, fundraising, and product
 Whatever your background, there are many ways to use your career to improve the world.
@@ -64,14 +64,14 @@ Books, podcasts, and videos
 Learn more about the ideas behind the effective altruism movement and how people put them into practice.
 Stories
 Meet others who built high-impact careers
-Watch their stories
+Explore their stories
 Effective altruism gave me a sense of hope for the world and an avenue through which I could actually have an impact.
 Kearney Capuano
 Neuroscience student turned EA community builder
-My advice to someone who wants to make an impact: consider for-profit entrepreneurship. It's not for everyone, but if you have a vision of a better wo...
+My advice to someone who wants to make an impact: consider for-profit entrepreneurship.
 Lincoln Quirk
 Tech founder turned financial inclusion pioneer
-Very few things are as meaningful as saving someone else's life.
+Effective altruism is not a set of answers. It's a set of principles. It's a way of approaching the world.
 Marcus Davis
 Volunteer turned thinktank CEO
 Frequently asked questions
@@ -84,7 +84,7 @@ Browse conferences
 Join the effective altruism newsletter
 Monthly ideas, news, and opportunities from across the effective altruism movement, including jobs, events, and courses. Plus a free book when you subscribe.
 60k + subscribers
-32 subscribed today
+37 subscribed today
 Browse past editions
 Subscribe now
 Explore impactful roles

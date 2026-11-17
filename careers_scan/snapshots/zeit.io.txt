@@ -3,7 +3,11 @@ Index
 Blog - Latest articles on time tracking & e-invoices
 Discover exciting articles and current updates on time tracking, e-invoicing, controlling, and HR. Dive into our blog!
 Subscribe to new articles in your feed reader: RSS feed , Atom feed or JSON Feed .
-115 articles found
+116 articles found
+Free e-invoice validator for ZUGFeRD and XRechnung
+The free ZEIT.IO e-invoice validator reads ZUGFeRD and XRechnung, lists errors with their location and deletes the file after the report. The new page also explains, with sources, what applies to issuing e-invoices in Germany from 1 January 2027.
+E-Invoice EN16931 XRechnung ZUGFeRD
+Robert Reiz | November 17, 2026 - 20:06 UTC
 Upload a signed timesheet without counting hours twice
 Freelancers now attach the signed timesheet right when they submit. Organisations assign booked time records afterwards – even to approved timesheets, with an exact check of duration and amount.
 CreditNotes TimeRecording
@@ -92,6 +96,3 @@ Robert Reiz | October 01, 2026 - 04:44 UTC
 Multiple recipients for offers, invoices and payment reminders
 Multiple recipients for offers, invoices and payment reminders: the main recipient can appear with name and position in the PDF address block, while everyone else receives the document in CC.
 Robert Reiz | September 30, 2026 - 06:08 UTC
-Project permissions: every tab now needs its own permission
-Project permissions alone no longer unlock financial data: invoices, credit notes, offers, expenses, timesheets and automatic invoicing in the project now require the same permission as their overview pages.
-Robert Reiz | September 29, 2026 - 10:38 UTC

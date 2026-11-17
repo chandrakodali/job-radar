@@ -4,13 +4,69 @@ GoGo Careers: Work with Us!
 AS SEEN IN
 What We Look For
 Every single person that works here has someone they are building GoGo for. When we add someone to the team, it's because we think they will help our dad, aunt, neighbor or grandma have a better life . Does that sound like you?
-Backend Engineer
-About the role
+Senior Product Manager
 About the Company
 GoGoGrandparent’s (GoGo’s) mission is to help older adults live independently in their home for as long as possible. We do that by tailoring existing on demand apps to the needs of people living with mobility, visual, cognitive and dexterity impairments and letting older adults use them by making a phone call. After ordering, our service becomes a virtual caregiver that monitors the instrumental activities of daily living (mobility, meals, groceries, medication delivery & home management) for tens of thousands of older adults around the United States. We’re profitable, have been around since 2016 & haven’t raised any venture capital financing to date. The company was inspired by the cofounder’s grandmother, who still uses us to this day (she’s turning 95 in March)!
+This is a fully remote position located in the United States
+Job Summary
+The Senior Product Manager will have broad autonomy to design and build solutions across multiple areas of the business, with a focus on improving customer experience, operational efficiency, and profitability.
+The role is responsible for leading product initiatives across multiple business lines from identifying problems and designing solutions through development, launch, and iteration. It involves developing automated solutions, improving internal tools and customer-facing experiences, and identifying opportunities for measurable business impact. This includes working closely with operational teams, designing intuitive user experiences, analyzing data, and running rigorous A/B tests.
+Responsibilities:
+Work closely with Customer Service Representatives and operational teams to understand existing workflows, identify friction points, and develop practical solutions.
+Design and build automated solutions that streamline operational workflows, reduce manual work, and improve efficiency.
+Improve internal tools and proprietary dashboards to streamline complex workflows for faster and more efficient performance.
+Design intuitive customer-facing and internal user experiences by applying strong UI/UX principles to build wireframes that improves usability and performance.
+Improve customer acquisition, engagement, and profitability through product enhancements and CRM initiatives.
+Conduct user research and analyze customer behavior to inform product decisions.
+Collaborate with engineering, operations, marketing, and QA to deliver high-quality product improvements.
+Design, run, and analyze A/B tests to measure the impact of product changes on conversion, efficiency, and profitability.
+Define, own, and track performance metrics to evaluate product success and drive measurable improvements.
+Build an intuitive cost model that takes in inputs (i.e. % of automation) and can produce an estimated average cost per service.
+Identify and prioritize high-impact product opportunities based on business needs, customer insights, and data.
+Own and maintain a prioritized product roadmap, ensuring successful execution and continuous iteration.
+Skills & Qualifications
+Bachelor's degree.
+6+ years of experience in full-cycle product development in a non-managerial role.
+Strong UI/UX skills with experience designing & modeling intuitive interfaces.
+Experience building automation solutions, internal tools, or products that improve operational efficiency.
+Ability to translate business requirements and operational challenges into clear product specifications, user flows, and wireframes.
+Highly competent in writing SQL queries to generate and explore data.
+Strong data analysis skills, including the ability to independently analyze business performance and measure product impact.
+Skilled in designing, running, and analyzing A/B tests.
+Strong business judgment and ability to evaluate product decisions based on customer experience, operational costs, and profitability.
+Comfortable working across multiple product areas, managing competing priorities, and operating with significant autonomy.
+Keen attention to detail, ability to multitask, and ability to work well under pressure.
+Superior project management and interpersonal skills.
+Excellent verbal and written communication skills.
+Benefits
+Healthcare Insurance (Medical, Dental, Vision)
+8 Paid company holidays + 4 Cultural days
+Personal Time-off of 15 days at start
+401k Plan
+Parental leave
+About the interview
+Moving to the next round is contingent upon the results of the previous round.
+Round 1: 20 minute introductory call with Head of People Operations & Administration.
+Round 2: Take home Data Analytics Challenge.
+Round 3: Take home Case Study (1 hour).
+Round 4: Panel interviews with members from product & call center teams (1.5 hours).
+About GoGoGrandparent
+We built GoGo for our own grandparents and were amazed to see it grow to touch the lives of hundreds of thousands of seniors across the United States and Canada. What shocked us then and it still does now, is that between 30 - 40% of our new signups have smartphones. We didn’t understand why. When we called and asked a few, they told us that Uber and Lyft had 'stopped working' for them.
+After puzzling over that for months, we realized what the problem was.
+Managing transportation - on Lyft, Uber, cab companies, etc is not easy. It’s a ‘self-serve’ experience. The ride requester has to be aware of things like the driver cancelling, getting lost, the driver arriving, the driver not-quite-being-lost-just-down-the-street-a-couple-houses.
+Then add the complexities of smartphones: the user has to be on top of updating their own credit card - making sure the pickup pin is in the correct spot - typing in both where they are and where they’re going. All in all, there are about a dozen online and offline "micro steps" ride requesters have to take to get a ride. And god help anyone who needs to remember their Apple iCloud password to update an app.
+We didn't know this when we started, but it turns out that ordering and managing a ride gets more difficult the older you get, almost in the same way that driving a car gets more difficult the older you get.
+What gets us excited now (and what we’re hiring for) is that technically this ‘self-management problem’ doesn’t just stop at rides. There are lots of things that get harder to do as you age. People have known this for a long time and that’s inspired a lot of the solutions that older adults currently have.
+Based a lot on the experiences we’ve had so far, we believe that by becoming the ‘management layer’ for the things that older adults struggle with as they age we have a better chance to offer older citizens independence without having to ask them to move out of their homes.
+Within the next ten years the number of people over the age of 65 will be larger than the number of people under 18 for the first time in history. 11,000,000 people over the age of 75 will stop driving due to age related cognitive or physical decline. When they stop driving, they’ll be forced to rely on friends and family, live in a community, or have caregivers. GoGo is working to make sure that losing your youth doesn’t mean losing your independence.
+Joining us at this time is a really exciting opportunity for folks looking to make meaningful impact on people’s lives. We’re a small team that’s built a profitable and fast-growing business over the last three years. Now we’re looking for partners to join us as we make GoGo a household name.
+Anyone joining GoGo at this phase of the company will have a huge and life changing level of impact on a size-able and growing user base. We want people to have rich and meaningful lives at any age. We’re bringing people freedom and hope, one life at a time.
+Show More
+Apply Now!
+Backend Engineer
+About the role
 Our engineering team is fully remote, tight-knit, and moves fast. You’ll work closely with founders, ship meaningful features weekly, and have real ownership over architecture, reliability, and product direction.
 This is a fully remote position
-Job Summary
 We are seeking a Senior Backend Engineer with strong expertise in Node.js / Typescript to design, build, and maintain scalable backend systems. This role is responsible for delivering high-quality features end-to-end, collaborating closely with product and project managers, and continuously improving the codebase through thoughtful refactoring.
 The ideal candidate takes ownership of their work, writes clean and maintainable code, and contributes to system architecture decisions. They will work across the full development lifecycle—from planning and implementation to testing, deployment, and monitoring—while ensuring reliability and performance in production.
 In addition to execution, this role involves improving engineering processes, reviewing code, mentoring other developers, and helping drive technical standards across the team.
@@ -30,28 +86,19 @@ Tech Stack
 Back-end heavy: Node.js, TypeScript, MySQL, REST + GraphQL
 Front-end: Vue.js (nice to have)
 Deployment: AWS, Docker/Kubernetes (nice to have)
-Skills & Qualifications
 6+ years of professional experience (primarily in Node.js and Vue.js)
 Able to work US timezone or 4+ hours overlap with mainland US
 Able to take ownership and initiative on features / problems
-Benefits
 Fully remote position
 $80k – $180k (based on location, experience and seniority)
 There is a significant quarterly bonus tied to meeting sprint goals
 Paid holidays
-Personal Time-off of 15 days at start
 Engineering team retreat
 US Employees
-Healthcare Insurance (Medical, Dental, Vision)
-401k Plan
 If you're passionate about improving the lives of older adults and people with disabilities, we would love for you to apply!
-About the interview
 2-stage interview process
-Show More
-Apply Now!
 Growth Product Manager
 The Growth Product Manager will have broad autonomy to identify and act on opportunities in expanding our core service, rides. This is our largest and most mature service line, and improving its conversion funnel can have a meaningful impact on the company. The role includes customer research, working closely with phone operators, data analysis, and running rigorous A/B tests.
-Responsibilities:
 Own the ‘Rides’ product funnel end to end, from first touch through registration.
 Identify and prioritize the highest impact opportunities to improve conversion, using data, operator feedback, and customer insights.
 Design, run, and analyze A/B tests on phone and CRM flows to drive measurable improvements.
@@ -63,20 +110,10 @@ Drive continuous iteration on the customer experience to increase conversion and
 Own and maintain a prioritized product roadmap focused on highest impact growth opportunities.
 Bachelors’ degree.
 3+ years of experience in full-cycle product development in a non-managerial role.
-Highly competent in writing SQL queries to generate and explore data.
 Data analysis experience, able to crunch numbers in spreadsheets comfortably to assist with decision making.
 Skilled in running AB tests (pricing, engagement, provider incentives).
 Keen attention to detail, multitask and work well under pressure.
-Superior project management and interpersonal skills.
-Excellent verbal and written communication skills.
-8 Paid company holidays + 4 Cultural days
-Parental leave
-Moving to the next round is contingent upon the results of the previous round.
-Round 1: 20 minute introductory call with Head of People Operations & Administration.
-Round 2: Take home Data Analytics Challenge.
 Round 2.5: Data Analytics Challenge review with hiring manager.
-Round 3: Take home Case Study (1 hour).
-Round 4: Panel interviews with members from product & call center teams (1.5 hours).
 Product Manager
 The Product Manager will own the strategy, roadmap, and execution for GoGoGrandparent’s Home Services department, a strategic bet that could dramatically impact the future of the company. This is a 0 to 1 role where you will have broad autonomy over helping to build this “business within a business”. This role drives the end-to-end product lifecycle, including customer research, market analysis, planning, requirements development, and launch, with the goal of growing adoption, repeat usage, and trust in Home Services.
 Translate customer and business needs into clear product requirements and development roadmaps for Home Services.

@@ -5,7 +5,7 @@ Moderne automates software maintenance and migration at scale. It is built on th
 That means the people we hire help customers escape decades of technical debt , scale OpenRewrite across multi-repository estates, and architect the distributed systems that make mass code change possible.
 We actually run these changes, at enterprise scale, not just describe them. If you want your work to land in production codebases the size of a Fortune 100, this is where it happens.
 Open roles
-11 open roles
+12 open roles
 We’re hiring across engineering, customer success, go-to-market, and design. Most roles are remote; field sales is based in New York, Houston, Atlanta, and London.
 Engineering
 Forward Deployed Engineer (FDE)
@@ -36,6 +36,8 @@ Technical Marketing Manager
 Create clear, accurate, compelling materials that increase awareness of the Moderne platform and help practitioners and sales teams adopt it.
 Sales Operations Specialist
 Own the administration, build-out, and optimization of Salesforce and the broader sales technology stack for a growing go-to-market team.
+Global Field & Events Manager
+Run Moderne's global events program, from the AI Software Factory Summit and roadshows to industry trade shows, and own the pipeline each event creates.
 Remote-first, high-ownership, real impact.
 We’re a small team building deep technology. The work is hard and the surface area is large, which means real ownership from day one, and benefits built for people doing serious work.
 Remote-first

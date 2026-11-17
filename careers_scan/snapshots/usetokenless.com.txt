@@ -2,9 +2,9 @@ We find flaws in RL environments and evals and help you fix them. As models beco
 Our goal is to end reward hacking. Training can amplify small flaws in an environment as models learn to exploit them. These flaws can also make it difficult to distinguish real capability gains from better exploitation. Correcting them makes training more effective, makes model performance easier to interpret, and is crucial to solving the AI alignment problem.
 If you’re training models with RL, building environments, or running agent evals, and want more confidence in your environments, contact us .
 Blog
-FTL: Faster Than Light
+Benchmarking Models on FTL: Faster Than Light
 How well do models supervise dynamic environments?
-Nov 13, 2026
+Nov 17, 2026
 Eval³ 1.1
 Oct 28, 2026
 How good are models at benchmark auditing?

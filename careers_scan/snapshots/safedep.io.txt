@@ -97,9 +97,6 @@ We publish what we find, with the code and the indicators.
 2026-11-16
 Malicious wppconnect Release Steals Secrets and WhatsApp Sessions
 Version 2.4.1 of @wppconnect-team/wppconnect and version 2.10.82 of @wppconnect/server shipped a credential stealer that runs on import or server start. It sends environment variables, .env files and WhatsApp session tokens to a Telegram bot. The repository history was then rewritten to hide the code.
-2026-11-13
-The Rules That Moved safedep.io from Astro to Next.js 16
-Lint before code, useEffect banned, complexity capped at 15, clicks 2.4× faster, and an interactive guide to choosing your Next.js caching setup.
 2026-11-12
 wfx: GitHub Actions Credential Stealer Hits 8,000 Repos
 Since November 10, 2026, an attacker has used stolen GitHub tokens to push a credential stealer into more than 8,000 repositories. It runs once in GitHub Actions or on npm install, sends secrets and cloud credentials to the attacker, and leaves cloud backdoors. Then the attacker reverts the commit.
@@ -109,6 +106,9 @@ Version 13.3.0 of @ethersphere/bee-js, the JavaScript client for Swarm, added a 
 2026-11-10
 Backdoored PyPI Package fragment-api-py 14.4.2 Drains TON Wallets on Startup
 Version 14.4.2 of fragment-api-py, a PyPI client for Telegram Fragment, sends all TON and USDT from the user wallet to an attacker wallet when the client opens. The release is the old 13.0.0 code with a backdoor and a new version number.
+2026-11-09
+testmetest npm Packages Carry a Miasma-Family Worm
+19 npm packages carry a Miasma-family worm that steals credentials, spreads to other packages and installs a wiper. The latest wave plants instructions in GitHub repositories that tell AI coding agents to run the worm.
 All research on the blog
 Ship code. Not malware.
 Start free with your first endpoint or repository, then roll out across your organization at your own pace.

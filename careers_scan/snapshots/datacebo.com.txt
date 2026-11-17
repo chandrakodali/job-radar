@@ -64,3 +64,4 @@ Support
 Licenses
 Release notes
 DataCebo Forum
+Video tutorials

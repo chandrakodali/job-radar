@@ -23,10 +23,6 @@ Fuel our outbound pipeline with targeted prospecting and outreach
 Account Executive
 US only
 Own deals end-to-end and scale our go-to-market motion
-Community Evangelist
-Marketing
-US / Remote
-Champion our developer community and showcase how to eliminate custom control plane engineering
 Platform Engineer
 Engineering
 Help customers seamlessly deploy and operate their applications across any operational environment using Omnistrate

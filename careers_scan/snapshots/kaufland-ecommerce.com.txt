@@ -13,7 +13,7 @@ Product
 Human Resources
 (Junior) Tech Recruiter | (für ein Jahr befristet)
 Senior Product Manager | B2C
-JOB OFFERS: 15
+JOB OFFERS: 14
 Looking for a job
 Job Level
 Department
@@ -32,8 +32,6 @@ Team Lead Performance Marketing I Search
 Senior Full-Stack Engineer | Backend or Frontend Focus
 Staff Search Engineer | Elasticsearch
 Senior DevOps Engineer | Data Platform
-Customer Service
-After Sales Business Developer | Kundenservice
 Marketplace Management
 (Senior) Sales Manager | Dutch Market
 Partner Manager | International
@@ -111,6 +109,7 @@ Click a tile to learn more about our tech and non-tech teams and get a look behi
 Legal, Risk & Compliance
 Direct Sales
 Finance
+Customer Service
 Event Management
 Warehouse and Logistics
 Fulfillment

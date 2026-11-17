@@ -15,4 +15,4 @@ While we have a fabulous office in downtown Seattle, Pulumi cares about the heal
 since March, 2020. We've learned and grown as a company this year, and — unless otherwise specified — all of our open positions are remote. We will
 continue to collaborate and grow from different locations, and are committed to making sure our team is successful from their home offices.
 Open Positions
-The infrastructure as code platform for any cloud.
+The infrastructure platform for humans and agents.

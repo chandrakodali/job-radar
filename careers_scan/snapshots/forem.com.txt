@@ -6,78 +6,86 @@ Related tags include #resume and #portfolio as resources to enhance your #career
 Older #career posts
 … 75
 … 100
-From "It Works" to "I Can Prove It Works": Rethinking My Engineering Workflow
-Matheus Gomes 👨‍💻
-Nov 17
-# softwareengineering
-# career
-# ai
-# productivity
-1 comment
-12 min read
-The Most Overprivileged Account in Our Company Is Mine.
-Dhruv Malaviya
-# security
-# devops
-# cybersecurity
-4 reactions
-2 comments
-4 min read
-How to follow up after an internship application
-Dataford Research
-# internship
-# students
-# beginners
-Add Comment
-3 min read
-How to find internships that mention visa sponsorship
-# international
-How I track internship applications
-You don't have to let AI think for you
-Kevin Alemán
-Nov 16
-# learning
-6 min read
 What are your goals for the week? #205
+Job search tips and community check-in
 Chris Jarvis
+Nov 16
 # discuss
-13 reactions
+# career
+# productivity
+18 reactions
+7 comments
 1 min read
-AI gave me spare time, and sprints don't know what to do with it
-Caio Andrade
-# agile
-How ATS Parses Internships, Co-ops and Part-Time Work
-Muhammad Ali Mughal
-# resume
-# jobs
-8 min read
-Why You Can’t Invert a Tax Bracket Formula (And How a 54-Step Binary Search Solves Contractor Break-Even Rates)
-Muhammad Ahmad
-# typescript
-# javascript
-# algorithms
-Frontend Taught Me to Reinvent Myself. AI Is Next
-Daniel Ferraz
-# frontend
-# webdev
-7 min read
-Why the one-month feature doesn't ship in two days with AI, and what I do about it
-Neilton Rocha
+Could I Still Do This From Scratch?
+Daniel Nwaneri
+Nov 17
+# ai
 # programming
-# architecture
-We measured 1,716 premium-processed OPT cases. USCIS missed its 30-business-day promise 29% of the time.
-opt pulse
-# data
-# analytics
-# immigration
-How to Stop Scope Creep Before It Starts: A 4-Document System for Solo Developers
-Plainwork Studio
-# freelancing
+36 reactions
+3 min read
+Killed by Acronyms
+Felix Coutinho
+# development
+# english
+9 reactions
+2 comments
+7 min read
+The Arrogance of Having Outgrown Arrogance
+Adam - The Developer ✨
+# learning
+20 reactions
+Add Comment
 5 min read
-Indonesia's coders multiplied by eight. Job ads for them fell by two-thirds.
-Kelvin
-# indonesia
+What sort of developer should I be
+Sohail Nasir
+# retrospective
+# reflection
+# life
+8 min read
+I score engineering projects for IEEE. Most of them don't fail on the idea.
+Saifuddin Ahmed
+# engineering
+# community
+4 min read
+A fake recruiter sent me a coding test. The repo was malware
+Guilherme Michels
+# security
+# github
 1 reaction
+IT Support Is More Than Fixing Computers: 5 Skills Every IT Support Specialist Needs
+Christian Ibiebele
+# itsupport
+# technology
+# troubleshooting
+Assemble Parts in Minimum Time: Greedy Min-Heap Solution in Java (Code Interview Problem)
+Moises Gamio
+# java
+# algorithms
+# interview
+6 min read
+Highest paying remote jobs in 2026: real salary ranges from company job postings
+Jones
+# remote
+# salary
+# jobs
+SAP-C03 starts on 17 November: what actually changed
+Jamie Davis
+# aws
+# cloud
+# certification
+2 min read
+When Experience Becomes a Liability: Programming in the Age of AI Agents
+Elisha Sterngold
+for Shipbook
+Japan's Job-Hunting System Is a Parallel Universe
+Yama
+# japan
+# worklife
+How to Get Hired by a Major Company in Japan: An Insider's Map
+How to Run the First 30 Days With a Remote Software Development Partner
+Kapil Singhal
+# softwaredevelopment
+# projectmanagement
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 How I Feel about the Grace Hopper Celebration Getting Cancelled
 Remembering Steven Schrembeck

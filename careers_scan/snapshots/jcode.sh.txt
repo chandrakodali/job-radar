@@ -248,6 +248,17 @@ fix avoid inflated and cross-credential failover capacity
 fix expose code copy shortcuts while streaming
 perf borrow metadata envelopes and count bytes without discarded allocations
 fix preserve optional catalog snapshot without redundant empty fallback
+perf specialize byte-exact twofold RGB thumbnail shrink
+fix retain color space in exact thumbnail shrink
+commit Add isolated single-session server memory profiler
+commit Extend server memory profiler isolation and startup sampling
+perf borrow catalog metadata instead of building a full JSON tree
+perf count complete JSON writes without partial-write loop
+perf count schema Display bytes without building a string
+test preserve pricing parity and require completed refresh in profiles
+docs record headless PSS profiles and watchdog control
+fix distinguish absent numeric types from parse failures
+docs update downloads badge
 v1.0.0
 Swarms, Cloud, and a lighter terminal
 Release highlights.

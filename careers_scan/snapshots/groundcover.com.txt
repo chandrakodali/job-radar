@@ -31,14 +31,6 @@ Global Talent Acquisition Partner
 ”I joined groundcover because this team is fearless about solving real problems in the observability market. Engineering teams shouldn't have to choose between visibility, performance, and cost - and our technology makes that possible”
 Lauren Smith
 Account Executive
-Observability
-for what comes next.
-Start in minutes. No migrations. No data leaving your infrastructure. No surprises on the bill.
-Start Free
-Learn more
-Launch Playground
-Book a demo
-See the platform
 Get started
 with groundcover
 Monitor everything, deploy in minutes.
@@ -57,3 +49,12 @@ Reduce data & growth costs, dramatically.
 See it all. Store what matters. Pay Accordingly.
 Done!
 We'll get in touch with you shortly
+Observability
+for what comes next.
+Start in minutes. No migrations. No data leaving your infrastructure. No surprises on the bill.
+Start Free Learn more
+HaMasger 47, Tel Aviv
+[email protected]
+groundcover is a cloud-native observability platform powered by eBPF that breaks free from the limits of SaaS. Built for modern production environments, it runs entirely in your cloud to deliver full visibility at a fraction of the cost, with no blind spots, no compromises, and no operational overhead.
+Legal Center
+Trust Center
