@@ -11655,7 +11655,7 @@
   },
   "ashby:Oso": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "ashby:Tempo": {
@@ -11696,7 +11696,7 @@
   },
   "ashby:browserbase": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "ashby:chainlink-labs": {
@@ -11965,17 +11965,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 86,
+   "n": 87,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 86,
+   "n": 87,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 86,
+   "n": 87,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -65490,6 +65490,7 @@
   "ashby:st-labs:130945cf-1e78-4211-940e-e639d74e0a3d": "2026-11-13",
   "ashby:st-labs:60b7ed0f-f89c-4286-9f09-090f0973aff5": "2026-11-13",
   "ashby:standardbots:5d49c4d1-3127-4e2b-9da5-ca1ea6c8e5af": "2026-11-16",
+  "ashby:standinsurance:98980cc7-8acb-4987-ba81-ca86844e81d8": "2026-11-17",
   "ashby:starbridge:7a86e5d3-0871-4a1f-a65d-bfadb7be3b4d": "2026-11-16",
   "ashby:strategic-growth-partners:4426f302-c288-42f7-b420-218a5bdadf32": "2026-11-13",
   "ashby:stuut-ai:04251b6f-289a-4b8b-8980-166d9b91d148": "2026-11-13",
@@ -68127,6 +68128,7 @@
   "eightfold:appliedmaterials:790317055706": "2026-11-14",
   "eightfold:appliedmaterials:790318652507": "2026-11-14",
   "eightfold:appliedmaterials:790319443699": "2026-11-14",
+  "eightfold:appliedmaterials:790319484410": "2026-11-17",
   "eightfold:appliedmaterials:790319539014": "2026-11-16",
   "eightfold:appliedmaterials:790319543510": "2026-11-17",
   "eightfold:arcadis:563671533245008": "2026-11-14",
@@ -69761,6 +69763,8 @@
   "icims:artemisarc-aptiveresources.icims.com:3847": "2026-11-15",
   "icims:artemisarc-aptiveresources.icims.com:4469": "2026-11-15",
   "icims:artemisarc-aptiveresources.icims.com:4470": "2026-11-15",
+  "icims:asiacareers-celanese.icims.com:24325": "2026-11-17",
+  "icims:asiacareers-celanese.icims.com:24329": "2026-11-17",
   "icims:bowheadcareers-uicalaska.icims.com:24250": "2026-11-13",
   "icims:bowheadcareers-uicalaska.icims.com:24773": "2026-11-13",
   "icims:bowheadcareers-uicalaska.icims.com:24878": "2026-11-13",
@@ -73185,6 +73189,7 @@
   "lever:jobgether:0ff827f8-e7d6-41fa-8073-c7cf81d996c9": "2026-11-14",
   "lever:jobgether:135e7cc2-a735-412f-8382-ec84ebbc1135": "2026-11-16",
   "lever:jobgether:14040680-3949-47cf-b666-01b3ec6f2f3b": "2026-11-16",
+  "lever:jobgether:14392006-a041-4d52-a5fa-236149b99477": "2026-11-17",
   "lever:jobgether:19699243-449b-40c4-a760-2ecfb05b9d8f": "2026-11-14",
   "lever:jobgether:1d3792d3-b84d-4441-994c-b733f22cb0d9": "2026-11-14",
   "lever:jobgether:1e1bcbb9-970a-420d-808a-853e8ae7ad7b": "2026-11-17",
@@ -73210,6 +73215,7 @@
   "lever:jobgether:3d7363a9-6abd-46e6-a90e-79d98e3ae646": "2026-11-16",
   "lever:jobgether:41c2eaaf-fd24-4d0f-9938-9b97d6cb238c": "2026-11-16",
   "lever:jobgether:43824833-9e89-45ab-9f0a-3b318cb45fdd": "2026-11-14",
+  "lever:jobgether:445398b6-df63-4a12-8f9f-fab2dcb2ebff": "2026-11-17",
   "lever:jobgether:4adde91c-124f-4b1a-ad24-a7f1d5c0bfad": "2026-11-14",
   "lever:jobgether:4c6bcc39-a22c-4a25-a300-00c79bf53526": "2026-11-14",
   "lever:jobgether:5491b452-de23-4b55-8766-da119b9abf16": "2026-11-16",
@@ -73222,6 +73228,7 @@
   "lever:jobgether:5df96346-5418-4694-88cc-fe6b4a043509": "2026-11-14",
   "lever:jobgether:5f924f1e-6a55-4bcb-b2c6-55e0e8748441": "2026-11-14",
   "lever:jobgether:616e390a-1e5b-4902-aeb5-5f0d6f6eef5d": "2026-11-16",
+  "lever:jobgether:6337ff85-7392-47de-9695-47d00d2c9aba": "2026-11-17",
   "lever:jobgether:65a1156a-de46-49fd-8413-39a2b0b92b26": "2026-11-16",
   "lever:jobgether:69825357-d47e-494b-861f-d0f7bf0f4d1d": "2026-11-14",
   "lever:jobgether:6a1d0ed9-1ef9-44bb-902b-e7b4b3868b11": "2026-11-16",
@@ -73269,6 +73276,7 @@
   "lever:jobgether:b01674d2-7838-4292-ab20-c26429a1a814": "2026-11-14",
   "lever:jobgether:b45aadee-df74-4ad4-8acd-f23de8ee8060": "2026-11-14",
   "lever:jobgether:b9103f1b-f449-411d-8750-b9ae81c34d67": "2026-11-14",
+  "lever:jobgether:bbd011d9-382f-4f14-a2ee-0516f4ac407a": "2026-11-17",
   "lever:jobgether:bd763265-759c-4f88-bf0e-819c490842b5": "2026-11-14",
   "lever:jobgether:c12ad43a-3c7b-4d0b-adde-d3509813970d": "2026-11-14",
   "lever:jobgether:c2f8cdcc-e863-4e3f-884b-2a63153cc5ae": "2026-11-14",
@@ -73297,6 +73305,7 @@
   "lever:jobgether:f03d7623-1070-43c7-8398-e76ffa3eb3e0": "2026-11-16",
   "lever:jobgether:f1680b42-eadf-4dea-9cb8-2c98ecb41689": "2026-11-14",
   "lever:jobgether:f1b6a65b-f1e0-4ce8-9c26-92731bf054d6": "2026-11-16",
+  "lever:jobgether:f4b092a6-63f4-4209-897e-eb386e4aa422": "2026-11-17",
   "lever:jobgether:f6f4cd6f-c3c5-4fb1-ba13-ffa9ca957ccd": "2026-11-14",
   "lever:jobgether:f77063fb-ebfd-4842-8f3d-13b1909a92d3": "2026-11-14",
   "lever:kgroupcompanies:86c0a0ab-d8a7-4325-8d29-4b14b9fe3d6b": "2026-11-13",
@@ -73756,6 +73765,7 @@
   "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:234212": "2026-11-13",
   "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:234274": "2026-11-16",
   "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:234312": "2026-11-14",
+  "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com|CX_1029:16481": "2026-11-17",
   "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:39552": "2026-11-13",
   "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41266": "2026-11-13",
   "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41505": "2026-11-13",
