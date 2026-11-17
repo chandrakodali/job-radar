@@ -12070,17 +12070,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 166,
+   "n": 167,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 166,
+   "n": 167,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 166,
+   "n": 167,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14885,21 +14885,21 @@
  "found_cursor": 968,
  "last_digest": "2026-11-16",
  "missed_companies": {
-  "Accurant International": "2026-11-16",
-  "Bask Health": "2026-11-16",
+  "Accurant International": "2026-11-17",
+  "Bask Health": "2026-11-17",
   "Coris": "2026-11-16",
-  "Diversified Services Network, Inc.": "2026-11-16",
+  "Diversified Services Network, Inc.": "2026-11-17",
   "EPAM Systems": "2026-11-17",
   "EdgeQ Technologies Private Limited": "2026-11-17",
   "Edgewater Federal Solutions, Inc.": "2026-11-16",
-  "Essnova Solutions, Inc.": "2026-11-16",
+  "Essnova Solutions, Inc.": "2026-11-17",
   "Foresight Works Ltd": "2026-11-13",
   "Fortanix": "2026-11-14",
-  "GEM Technologies": "2026-11-16",
+  "GEM Technologies": "2026-11-17",
   "GoMining": "2026-11-17",
   "Halcyon": "2026-11-14",
   "Knack": "2026-11-17",
-  "LaBella Associates": "2026-11-16",
+  "LaBella Associates": "2026-11-17",
   "Odin": "2026-11-16",
   "OpenDataJobs": "2026-11-14",
   "PGTEK": "2026-11-14",
@@ -14908,13 +14908,13 @@
   "Runware": "2026-11-14",
   "Salvo Software": "2026-11-14",
   "Stealth Health-Tech Startup": "2026-11-16",
-  "StradIT": "2026-11-16",
+  "StradIT": "2026-11-17",
   "Systems Engineering Solutions Corporation": "2026-11-16",
   "WorldVia": "2026-11-16",
-  "Worth AI": "2026-11-16",
+  "Worth AI": "2026-11-17",
   "Xora Innovation": "2026-11-14",
   "Zipdev": "2026-11-14",
-  "erad": "2026-11-16",
+  "erad": "2026-11-17",
   "iCallidus": "2026-11-13"
  },
  "missing_once": {},
@@ -14940,8 +14940,8 @@
    336
   ],
   "2026-11-17": [
-   0,
-   5
+   20,
+   47
   ]
  },
  "resolved": {
@@ -65823,6 +65823,7 @@
   "ashby:cohere:dc881634-ca66-46e5-90ff-43ad83080de2": "2026-11-12",
   "ashby:conduct:002c7fa7-9c58-401c-a8e8-e51f15830471": "2026-11-14",
   "ashby:creatoriq:e88a2ed2-52d8-45c7-9c6c-e372fec21cfb": "2026-11-09",
+  "ashby:crusoe:042fbe44-edfa-4447-8982-0487c39078d7": "2026-11-17",
   "ashby:crusoe:817b6af3-de5b-4f23-b995-e4aa500bc261": "2026-11-12",
   "ashby:crusoe:9a183c7b-31d0-4814-8f0f-b0beecfd4922": "2026-11-12",
   "ashby:cursor:359cb8e6-77e8-4a77-be67-a39eb46d2c10": "2026-11-10",
@@ -69890,11 +69891,11 @@
  },
  "source_last": {
   "hn": "2026-11-16T20:37:19+00:00",
-  "remoteok": "2026-11-16T23:07:14+00:00",
-  "usajobs": "2026-11-16T22:07:37+00:00",
-  "workable_search": "2026-11-16T22:07:37+00:00",
-  "wwr": "2026-11-17T00:07:19+00:00",
-  "yc": "2026-11-16T22:07:37+00:00"
+  "remoteok": "2026-11-17T01:07:30+00:00",
+  "usajobs": "2026-11-17T01:07:30+00:00",
+  "workable_search": "2026-11-17T01:07:30+00:00",
+  "wwr": "2026-11-17T01:07:30+00:00",
+  "yc": "2026-11-17T01:07:30+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
