@@ -11970,17 +11970,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 57,
+   "n": 58,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 57,
+   "n": 58,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 57,
+   "n": 58,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12390,6 +12390,16 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 3,
    "since": "2026-11-14"
+  },
+  "icims:careers-cotiviti.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "icims:careers-eyesouthpartners.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-21",
@@ -13298,8 +13308,8 @@
    448
   ],
   "2026-11-17": [
-   12,
-   63
+   25,
+   109
   ]
  },
  "resolved": {
@@ -64551,6 +64561,7 @@
   "avature:deloitteus.avature.net|careers:350393": "2026-11-15",
   "avature:deloitteus.avature.net|careers:359694": "2026-11-15",
   "avature:deloitteus.avature.net|careers:359699": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:360278": "2026-11-17",
   "avature:deloitteus.avature.net|careers:361418": "2026-11-15",
   "avature:deloitteus.avature.net|careers:363298": "2026-11-15",
   "avature:deloitteus.avature.net|careers:365585": "2026-11-15",
@@ -64582,6 +64593,7 @@
   "avature:deloitteus.avature.net|careers:375211": "2026-11-15",
   "avature:deloitteus.avature.net|careers:375303": "2026-11-15",
   "avature:deloitteus.avature.net|careers:375419": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:375577": "2026-11-17",
   "avature:dth.avature.net|careers:27769": "2026-11-15",
   "avature:dth.avature.net|careers:27789": "2026-11-15",
   "avature:forvis.avature.net|experiencedcareers:15801": "2026-11-15",
@@ -65582,6 +65594,7 @@
   "eightfold:nvidia:893398445696": "2026-11-14",
   "eightfold:nvidia:893398627643": "2026-11-14",
   "eightfold:nvidia:893398633653": "2026-11-16",
+  "eightfold:nvidia:893398660270": "2026-11-17",
   "eightfold:nvidia:893398684422": "2026-11-14",
   "eightfold:nvidia:893398697666": "2026-11-14",
   "eightfold:nvidia:893398699304": "2026-11-14",
@@ -65593,6 +65606,7 @@
   "eightfold:nvidia:893398756824": "2026-11-16",
   "eightfold:nvidia:893398757520": "2026-11-16",
   "eightfold:paypal:274921995088": "2026-11-16",
+  "eightfold:paypal:274922260545": "2026-11-17",
   "eightfold:paypal:274922508777": "2026-11-15",
   "eightfold:paypal:274922654826": "2026-11-15",
   "eightfold:paypal:274923253759": "2026-11-16",
@@ -67266,6 +67280,7 @@
   "lever:jobgether:59469943-c696-40a4-9abb-0ef564c224e6": "2026-11-14",
   "lever:jobgether:65a1156a-de46-49fd-8413-39a2b0b92b26": "2026-11-16",
   "lever:jobgether:6a1d0ed9-1ef9-44bb-902b-e7b4b3868b11": "2026-11-16",
+  "lever:jobgether:6b7d4699-9948-48b8-a57c-079cfb1c3dda": "2026-11-17",
   "lever:jobgether:9af4cc18-9474-497f-9a90-60aa781922d4": "2026-11-14",
   "lever:jobgether:9fadc447-59bb-422c-b4ce-6d4a655e09d0": "2026-11-14",
   "lever:jobgether:a82f7076-2322-4ad3-a350-5babe29e934a": "2026-11-14",
@@ -68557,6 +68572,7 @@
   "workable:tmeic-corporation-americas:64B2C4A20E": "2026-11-14",
   "workable:tmeic-corporation-americas:73613D79E9": "2026-11-14",
   "workable:tmeic-corporation-americas:F6B7F4946D": "2026-11-14",
+  "workable:weekday-1:064EBE04E9": "2026-11-17",
   "workable:weekday-1:3365AC7B89": "2026-11-14",
   "workable:weekday-1:82702CC599": "2026-11-14",
   "workable:zipdev:E9F3E75D5C": "2026-11-14",
@@ -69447,10 +69463,10 @@
  "source_last": {
   "hn": "2026-11-17T00:47:36+00:00",
   "remoteok": "2026-11-17T04:18:04+00:00",
-  "usajobs": "2026-11-17T01:47:36+00:00",
-  "workable_search": "2026-11-17T01:47:36+00:00",
-  "wwr": "2026-11-17T04:18:04+00:00",
-  "yc": "2026-11-17T01:47:36+00:00"
+  "usajobs": "2026-11-17T05:18:37+00:00",
+  "workable_search": "2026-11-17T05:18:37+00:00",
+  "wwr": "2026-11-17T05:18:37+00:00",
+  "yc": "2026-11-17T05:18:37+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
