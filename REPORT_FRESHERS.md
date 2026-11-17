@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**707 jobs**, newest first. Updated Mon Nov 16, 8:46 PM CST from 12,526 company job boards and other sources.
+**707 jobs**, newest first. Updated Mon Nov 16, 9:14 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -757,7 +757,7 @@ Jump to: [Mon 16 (59)](#monday-nov-16-59) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 9:40 PM | [Implementation Specialist (Remote LATAM or US)](https://jobs.ashbyhq.com/whippy/5dbb50c3-9ca1-4483-b9d9-dc083b911f1b) | Whippy | Remote - Latin America; Remote- United … (remote) | 70 | 0-2 yrs exp; entry level (from the text) |
 | 9:39 PM | [Associate Solutions Engineer, Post-Sale (Remote LATAM or US)](https://jobs.ashbyhq.com/whippy/45a5f2e9-2b18-49e5-b3b0-9b32a5de8052) | Whippy | Remote - Latin America; Remote- United … (remote) | 70 | entry-level title; 0-2 yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3288)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3292)
 
 <details><summary>Show</summary>
 
@@ -768,6 +768,10 @@ Jump to: [Mon 16 (59)](#monday-nov-16-59) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | date only | [Revenue Analytics Analyst](https://apply.workable.com/bask-health-1/j/F0E9BEC210/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Environmental test engineer](https://www.amazon.jobs/en/jobs/10606793/environmental-test-engineer) | KGS LLC | Northridge, California, USA | 60 | rules: 4+ yrs exp; needs: Security Clearance |
 | 10:42 PM | [Practice Support Specialist](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_1&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 55 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
+| 9:02 PM | [Software Engineer, Distributed Systems](https://jobs.ashbyhq.com/ThinkingMachines/50f566c8-7fe3-4fe5-a8ca-b42503537a51) | ThinkingMachines | San Francisco; New York (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 9:01 PM | [Software Engineer, Tinker Infrastructure](https://jobs.ashbyhq.com/ThinkingMachines/541c2fcf-e128-4442-94ee-c8298f226756) | ThinkingMachines | San Francisco (onsite) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
+| 9:00 PM | [Technical & Tools Consultant – Epicor Kinetic (Application Studio, BA…](https://jobs.lever.co/jobgether/8707628c-f384-4edf-bba9-2c0c0a102274) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 8:51 PM | [Salesforce Engineer](https://jobs.ashbyhq.com/vClusterLabs/363a8a20-05c2-4ee8-8b2f-d232589736ea) | vCluster Labs | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 8:44 PM | [Security Specialist Professional - Kwajalein Atoll - 3901](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=24e7d80d-26d8-4462-8cde-9f67f19162b6&ccId=2745295041_4470&jobId=9201928189928_2&lang=en_US) | 24E7D80D 26D8 4462 8Cde 9F67F… | Huntsville, AL; Huntsville, AL | 75 | rules: 2+ yrs exp; needs: Security Clearance |
 | 8:32 PM | [Scientific Solutions Consultant](https://jobs.ashbyhq.com/phylo/ef3c7d80-3984-486f-b899-40f20e2f30fe) | Phylo | US East Coast (ideally Boston metro are… (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:17 PM | [Application Engineer, Expert](https://jobs.keysight.com/jobs/55307?lang=en-us) | Keysight Technologies | Santa Clara, California; Calabasas, Cal… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -1159,9 +1163,5 @@ Jump to: [Mon 16 (59)](#monday-nov-16-59) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 2:59 PM (seen) | [Software Engineer](https://app.careerpuck.com/job-board/lyft/job/Jq3i-6MC) | Lyft | Seattle, WA | 60 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 2:59 PM (seen) | [Kaustav QA Greenhouse Testing Grounds](https://app.careerpuck.com/job-board/smoke-test/job/7-ea1lDa) | Smoke Test | Denver, CO or Remote (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 2:59 PM (seen) | [Frontend Engineer](https://app.careerpuck.com/job-board/puck-ashby-sandbox/job/tWOqDLkx) | Puck Ashby Sandbox | San Francisco (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:59 PM (seen) | [AI Engineer](https://app.dover.com/apply/agency/f96e29e8-3b63-4739-99a7-45d376246750) | Agency | International (remote) | 22 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
-| 2:59 PM (seen) | [Systems Engineer](https://app.dover.com/apply/aergility/8d9e8cb3-9e9f-42df-b27a-c93d2fc5ded2) | Aergility | Dunnellon, FL (onsite) | 35 | rules: 7+ yrs exp; asks for 7+ years of experience |
-| 2:59 PM (seen) | [Founding Software Engineer](https://app.dover.com/apply/akomi/81fd0ebb-8f22-4a0d-a7dc-16f85df57e6e) | Akomi | New York City, NY (hybrid) | 70 | rules: 2+ yrs exp; sponsors visas; asks for 2+ years of experience |
-| 2:59 PM (seen) | [Security Engineer](https://app.dover.com/apply/americancyber/1488fb9d-f891-45bb-8350-d09c09416fe0) | Americancyber | United States (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
