@@ -11723,6 +11723,7 @@
   "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:26755e78-f3c2-4ac2-ad2d-a8483bc5c259": "2026-11-13",
   "ashby:fluidstack:f1811455-d414-4630-b22c-58a585163864": "2026-11-16",
   "ashby:openai:e70a2b94-17d7-4083-a028-943bae53d126": "2026-11-13",
+  "greenhouse:3cloud:8933933002": "2026-11-17",
   "greenhouse:accenturefederalservices:4725819006": "2026-11-13",
   "greenhouse:accenturefederalservices:4727077006": "2026-11-12",
   "greenhouse:accenturefederalservices:4727151006": "2026-11-12",
@@ -12083,17 +12084,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 191,
+   "n": 192,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 191,
+   "n": 192,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 191,
+   "n": 192,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12395,6 +12396,11 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
+  },
+  "greenhouse:quip": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "greenhouse:rdccareers": {
    "disabled_until": "2026-11-21",
@@ -14896,7 +14902,7 @@
   }
  },
  "found_cursor": 968,
- "last_digest": "2026-11-16",
+ "last_digest": "2026-11-17",
  "missed_companies": {
   "Accurant International": "2026-11-17",
   "Bask Health": "2026-11-17",
@@ -66610,6 +66616,7 @@
   "dayforce:kgs|candidateportal:16107": "2026-11-14",
   "dayforce:kgs|candidateportal:16305": "2026-11-14",
   "dayforce:kgs|candidateportal:16315": "2026-11-16",
+  "dayforce:landstar|CANDIDATEPORTAL:11996": "2026-11-17",
   "dayforce:mydayforce|alljobs:104700": "2026-11-14",
   "dayforce:mydayforce|indeedjobs:104701": "2026-11-14",
   "dayforce:onpoint|CANDIDATEPORTAL:6016": "2026-11-14",
@@ -66641,7 +66648,9 @@
   "dover:weaverobotics:5b7bf24e-a8dc-40a3-86a7-5ff4e929b49c": "2026-11-11",
   "eightfold:appliedmaterials:790318496424": "2026-11-15",
   "eightfold:dsm:562949978859630": "2026-11-14",
+  "eightfold:eaton:687240042663": "2026-11-17",
   "eightfold:eaton|eaton.com:687239541052": "2026-11-09",
+  "eightfold:eaton|eaton.com:687240042663": "2026-11-17",
   "eightfold:ford:563568454116722": "2026-11-14",
   "eightfold:hp:44506725": "2026-11-14",
   "eightfold:mercadolibre:45520009": "2026-11-14",
@@ -68253,6 +68262,7 @@
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210777835": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210780218": "2026-11-10",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210785588": "2026-11-16",
+  "oracle:jpmc.fa.oraclecloud.com|CX_1001:210790526": "2026-11-17",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210803198": "2026-11-13",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210804732": "2026-11-16",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210804903": "2026-11-13",
@@ -69093,6 +69103,8 @@
   "workable:flexion-robotics:60F67D4D1C": "2026-11-09",
   "workable:foresight-works:30424188A1": "2026-11-14",
   "workable:fortanix:875358F4F4": "2026-11-14",
+  "workable:interimage:4076BA6BC3": "2026-11-17",
+  "workable:interimage:9819AE97DA": "2026-11-17",
   "workable:it1:388541F155": "2026-11-11",
   "workable:jeffreym-consulting:AA337125DC": "2026-11-12",
   "workable:msr-fsr:FDE4C3C599": "2026-11-11",
