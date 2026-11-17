@@ -1,6 +1,6 @@
 # Wide sweep summary
 
-Updated 2026-11-16.
+Updated 2026-11-17.
 
 Crawls swept: CC-MAIN-2026-39, CC-MAIN-2026-43.
 
@@ -8,41 +8,41 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 
 ## By tier
 
-- 1: 25198
-- 2: 106838
-- 3: 298945
-- 4: 93923
-- 5: 32186
-- 9: 98204
+- 1: 25058
+- 2: 107235
+- 3: 299819
+- 4: 94090
+- 5: 32215
+- 9: 96877
 
 ## By category
 
-- unknown: 98204
-- ats: 43772
-- blocked: 2784
-- careers_page_unclear: 277969
-- doc: 1312
-- email: 54406
-- external_board: 7190
-- form: 76318
+- unknown: 96877
+- ats: 43903
+- blocked: 2787
+- careers_page_unclear: 278784
+- doc: 1310
+- email: 54525
+- external_board: 7216
+- form: 76458
 - js_only: 460
-- no_careers_page: 42961
-- no_openings: 20976
-- robots_disallowed: 8279
-- unreachable: 20663
+- no_careers_page: 42971
+- no_openings: 21035
+- robots_disallowed: 8288
+- unreachable: 20680
 
 ## By us
 
-- unknown: 98204
-- non_us: 36714
-- unknown: 288730
-- us: 231646
+- unknown: 96877
+- non_us: 36832
+- unknown: 289336
+- us: 232249
 
 ## By via
 
-- unknown: 98204
-- archive: 43058
-- live: 514032
+- unknown: 96877
+- archive: 43367
+- live: 515050
 
 ## Tier 1 sites
 
@@ -51,7 +51,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - #archpodnet (archaeologypodcastnetwork.com)
 - #ToTheJupiter (legit-blockchain-ai.company)
 - $04 Error Page (hravailable.com)
-- %siteName (springloaded.co)
 - %sitename% (betwisedaily.com)
 - %sitename% (castleshelfhouse.com)
 - %sitename% (dicegamblersdeal.com)
@@ -76,7 +75,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - %sitename% (virtualecholab.com)
 - & College Promise (stanly.edu)
 - & Grow With Us (cureayurvedic.com)
-- & Grow Your (mountainise.com)
 - & Growth Opportunities (greycrust.com)
 - & In Facilities (revivecaring.com)
 - & Listings (pfisd.net)
@@ -93,6 +91,7 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - '58 Foundations & Waterproofing (58foundations.com)
 - (1SS&C) (1sourcesecurity.com)
 - (301) 882-3200 (mercedestranscription.com)
+- (All) (usvisf.com)
 - +91 90871 16687 (mdsdigitalhub.com)
 - - Call us: 021 120 33 32 (neocruit.com)
 - . (mcmastermse.com)
@@ -104,6 +103,7 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - .:: KSoft ::. (ksoftglobal.com)
 - .:: RnD4U ::. Ideas become reality (rnd4u.com)
 - .::. PowerWeb IT (powerwebit.com)
+- .::WELCOME TO TANA SYSTEMS::. (tanasystems.com)
 - .Guide (job.guide)
 - .JUWI.com (juwi.com)
 - /careers/IrisCX./ (iriscx.com)
@@ -137,7 +137,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 1A First Alternative (1afa.com)
 - 1BENMU Millwork + Contracting (1benmu.com)
 - 1Datagroup (1datagroup.com)
-- 1FACE SKIN CLINIC (1faceskinclinic.com)
 - 1Link Solution (1linksolution.com)
 - 1Money (1money.com)
 - 1Plan (1plan.com)
@@ -246,3 +245,4 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 4dviz Studio (4dviz.com)
 - 4Excelsior (4excelsior.com)
 - 4Geeks (4geeks.io)
+- 4Geeks (aldryn.io)
