@@ -12083,17 +12083,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 189,
+   "n": 190,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 189,
+   "n": 190,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 189,
+   "n": 190,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14914,6 +14914,7 @@
   "Knack": "2026-11-17",
   "LaBella Associates": "2026-11-17",
   "Odin": "2026-11-17",
+  "Omnistrate": "2026-11-17",
   "OpenDataJobs": "2026-11-14",
   "PGTEK": "2026-11-14",
   "PIMCO": "2026-11-16",
@@ -14953,8 +14954,8 @@
    336
   ],
   "2026-11-17": [
-   80,
-   215
+   99,
+   252
   ]
  },
  "resolved": {
@@ -66597,6 +66598,7 @@
   "dayforce:cityind|CANDIDATEPORTAL:1976": "2026-11-15",
   "dayforce:corpay|candidateportal:57636": "2026-11-15",
   "dayforce:eci|candidateportal:861": "2026-11-15",
+  "dayforce:evri|CANDIDATEPORTAL:5889": "2026-11-17",
   "dayforce:gleason|CANDIDATEPORTAL:5881": "2026-11-15",
   "dayforce:herffjones|HERFFJONESCANDIDATEPORTAL:6514": "2026-11-15",
   "dayforce:ipg|ipg:7234": "2026-11-14",
@@ -68174,7 +68176,9 @@
   "oracle:egoh.fa.us2.oraclecloud.com|CX_1001:33134": "2026-11-16",
   "oracle:egua.fa.us2.oraclecloud.com|CX_1:24210": "2026-11-08",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26013784": "2026-11-16",
+  "oracle:egug.fa.us2.oraclecloud.com|CX:26015149": "2026-11-17",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26013784": "2026-11-16",
+  "oracle:egug.fa.us2.oraclecloud.com|CX_1:26015149": "2026-11-17",
   "oracle:egup.fa.us2.oraclecloud.com|CX:20283963": "2026-11-12",
   "oracle:ejhp.fa.us6.oraclecloud.com|CX_2:2628658": "2026-11-16",
   "oracle:ejhp.fa.us6.oraclecloud.com|CX_2:2628930": "2026-11-12",
@@ -69886,6 +69890,7 @@
   "wwr:weworkremotely:ef7d69199a178a8b": "2026-11-16",
   "yc:workatastartup:116108": "2026-11-14",
   "yc:workatastartup:120168": "2026-11-14",
+  "yc:workatastartup:79259": "2026-11-17",
   "zoho:agileengine:248544000264428990": "2026-11-14",
   "zoho:agileengine:248544000264430673": "2026-11-14",
   "zoho:agileengine:248544000264433516": "2026-11-14",
@@ -69922,10 +69927,10 @@
  "source_last": {
   "hn": "2026-11-17T08:37:14+00:00",
   "remoteok": "2026-11-17T11:37:17+00:00",
-  "usajobs": "2026-11-17T10:07:19+00:00",
-  "workable_search": "2026-11-17T10:07:19+00:00",
+  "usajobs": "2026-11-17T13:07:17+00:00",
+  "workable_search": "2026-11-17T13:07:17+00:00",
   "wwr": "2026-11-17T12:37:16+00:00",
-  "yc": "2026-11-17T10:07:19+00:00"
+  "yc": "2026-11-17T13:07:17+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
