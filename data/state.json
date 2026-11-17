@@ -12083,17 +12083,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 186,
+   "n": 187,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 186,
+   "n": 187,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 186,
+   "n": 187,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15599,7 +15599,7 @@
   ],
   "2026-11-17": [
    80,
-   205
+   210
   ]
  },
  "resolved": {
@@ -68969,6 +68969,7 @@
   "pinpoint:impulsespace:606105": "2026-11-09",
   "pinpoint:impulsespace:609979": "2026-11-09",
   "pinpoint:tabby:415749": "2026-11-14",
+  "pinpoint:tabby:620971": "2026-11-17",
   "recruitee:hardrockdigital:2813877": "2026-11-12",
   "recruitee:hardrockdigital:2814859": "2026-11-12",
   "recruitee:hardrockdigital:2823560": "2026-11-12",
@@ -69616,6 +69617,7 @@
   "smartrecruiters:cityofnewyork:3743990016750616": "2026-11-14",
   "smartrecruiters:cityofnewyork:3743990016751836": "2026-11-14",
   "smartrecruiters:cityofnewyork:3743990016787316": "2026-11-14",
+  "smartrecruiters:cityofnewyork:3743990016898476": "2026-11-17",
   "smartrecruiters:dominos:744000161707674": "2026-11-16",
   "smartrecruiters:dominos:744000161708269": "2026-11-16",
   "smartrecruiters:eurofins:744000159966854": "2026-11-07",
@@ -70537,7 +70539,9 @@
   "zoho:agileengine:248544000264434702": "2026-11-14",
   "zoho:agileengine:248544000264434705": "2026-11-14",
   "zoho:agileengine:248544000265311677": "2026-11-15",
+  "zoho:agileengine:248544000265311680": "2026-11-17",
   "zoho:agileengine:248544000265312641": "2026-11-15",
+  "zoho:agileengine:248544000265314513": "2026-11-17",
   "zoho:agileengine:248544000265314519": "2026-11-15",
   "zoho:agileengine:248544000265314522": "2026-11-15",
   "zoho:agileengine:248544000265316516": "2026-11-15",
@@ -70561,10 +70565,10 @@
  },
  "source_last": {
   "hn": "2026-11-17T08:37:14+00:00",
-  "remoteok": "2026-11-17T09:07:17+00:00",
+  "remoteok": "2026-11-17T11:37:17+00:00",
   "usajobs": "2026-11-17T10:07:19+00:00",
   "workable_search": "2026-11-17T10:07:19+00:00",
-  "wwr": "2026-11-17T10:07:19+00:00",
+  "wwr": "2026-11-17T11:37:17+00:00",
   "yc": "2026-11-17T10:07:19+00:00"
  },
  "title_rules": "c323075b4d70",
