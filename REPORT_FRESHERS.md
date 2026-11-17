@@ -1,14 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**702 jobs**, newest first. Updated Tue Nov 17, 6:47 AM CST from 12,526 company job boards and other sources.
+**701 jobs**, newest first. Updated Tue Nov 17, 7:48 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 231 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,579 matching jobs that job sites and feeds listed this week, 478 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,674 matching jobs that job sites and feeds listed this week, 494 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (88)](#tuesday-nov-10-88)
+Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (87)](#tuesday-nov-10-87)
 
 ## Tuesday, Nov 17 (8)
 
@@ -659,7 +659,7 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · 
 | 2:00 AM | [Business Data Analyst](https://jobs.dayforcehcm.com/en-US/allianthcm/smsalliant/jobs/44606) | Allianthcm | Omaha, NE, US | 63 | 1+ yrs exp |
 | 1:30 AM | [SAP BASIS Administrator Associate](https://jobs.smartrecruiters.com/O-I/744000161034659-sap-basis-administrator-associate) | O I | Perrysburg, OH, United States (hybrid) | 68 | entry-level title |
 
-## Tuesday, Nov 10 (88)
+## Tuesday, Nov 10 (87)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -750,14 +750,14 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · 
 | 7:55 AM | [SAS Programmer - Entry Level](https://careers.medpace.com/jobs/11881?lang=en-us) | Medpace, Inc. | Cincinnati, Ohio | 63 | entry-level title |
 | 7:53 AM | [Data Engineer (AI) - Cincinnati](https://careers.medpace.com/jobs/12786?lang=en-us) | Medpace, Inc. | Cincinnati, Ohio | 63 | 1+ yrs exp |
 | 7:51 AM | [AI Engineer](https://careers.medpace.com/jobs/12103?lang=en-us) | Medpace, Inc. | Cincinnati, Ohio | 63 | 1+ yrs exp |
-| 7:15 AM | [Network Engineer I](https://jobs.smartrecruiters.com/AshburnConsulting/744000160871860-network-engineer-i) | AshburnConsulting | Arlington, VA, United States | 58 | entry-level title; staffing/consulting firm: verify it's real |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3322)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3330)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Automation Engineer](https://careers.quality-ai.com/job/Bangalore-Automation-Engineer-560045/61613044/) | Qualitest |  | 55 | rules: 4+ yrs exp; location unclear; asks for 4+ years of experience |
 | date only | [Analytics Engineer, Commercial Systems](https://apply.workable.com/bask-health-1/j/9453F02B71/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [GTM Data Analyst](https://apply.workable.com/bask-health-1/j/8F7C4076E8/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Revenue Analytics Analyst](https://apply.workable.com/bask-health-1/j/F0E9BEC210/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -767,8 +767,15 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · 
 | date only | [Clearable Data Center Technician, Data Center Operations](https://www.amazon.jobs/en/jobs/10597767/clearable-data-center-technician-data-center-operations) | Amazon Web Services, Inc. | Aurora, Colorado, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
 | date only | [AI enabled Device Modeling Engineer](https://globalfoundries.eightfold.ai/careers/job/563980770945694) | Globalfoundries | Austin, TX, US; IL,US (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Validation Engineer](https://nvidia.eightfold.ai/careers/job/893392914910) | Nvidia | Yokne'am Illit, North District, IL (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Software Engineer Level 1](https://apply.workable.com/interimage/j/0845C3BE9D/) | InterImage | Fort Meade, Maryland, United States | 55 | rules: entry-level title; 7+ yrs exp; needs: Security Clearance |
+| date only | [Software Engineer Level 0](https://apply.workable.com/interimage/j/89601AD3BE/) | InterImage | Fort Meade, Maryland, United States | 60 | rules: 4+ yrs exp; needs: Security Clearance |
+| date only | [Full-Stack Software Engineer](https://jobs.jobvite.com/visionist/job/o9W7Afww) | Visionist | Columbia, MD, United States | 45 | rules: 14+ yrs exp; needs: security clearance |
+| date only | [Virtualization & Systems Engineer](https://arctiq.bamboohr.com/careers/363) | Arctiq | Blue Bell, Pennsylvania | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 7:35 AM | [Machine Learning Infrastructure Engineer,  Technology](https://boards.greenhouse.io/point72/jobs/8945315002?gh_jid=8945315002) | Point72 | New York, NY | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 7:00 AM | [Network Field Operations Specialist - IT Tx & Dx Systems and Complian…](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FirstEnergyCareers/job/105921) | FirstEnergy | Reading, PA, United States | 40 | rules: 9+ yrs exp; no future H-1B sponsorship; asks for 9+ years of e… |
 | 6:47 AM (seen) | [Technical Support Engineer (SRE)](https://jobs.jobvite.com/nutanix/job/ohorAfwq) | Nutanix |  | 25 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
 | 6:47 AM | [Integration Associate, Clinic Acquisitions](https://jobs.lever.co/jobgether/ba470345-e179-4914-9640-2a70d208f2b2) | Jobgether | US (remote) | 82 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
+| 6:42 AM | [CX Developer](https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25695) | Conduent | Remote US, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 6:33 AM | [Corporate & Integration Operations Associate](https://jobs.lever.co/jobgether/36aa2690-4e9d-419a-ae9a-2baa8c974bb0) | Jobgether | US (remote) | 82 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
 | 5:31 AM (seen) | [FinOps Associate](https://tabby.pinpointhq.com/en/postings/a527eaeb-dc9d-488e-af8a-090677dcc8e3) | Tabby | KSA (onsite) | 55 | rules: entry-level title; 3+ yrs exp; location unclear; asks for 3+ y… |
 | 5:09 AM | [IAM Engineer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016898347-iam-engineer) | Cityofnewyork | Brooklyn, NY, United States | 65 | rules: 4+ yrs exp; E-Verify; asks for 4+ years of experience |
@@ -787,6 +794,7 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · 
 | 11:42 PM | [Full Stack Product Engineer](https://jobs.lever.co/jobgether/017460d4-fe2e-4dad-8871-b690226666d5) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:06 PM | [Data Scientist – Advanced Analytics & Healthcare Research](https://jobs.lever.co/jobgether/a4824d48-5f1c-49a6-9780-2dde57e359cc) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Information Security Specialist](https://jobs.dayforcehcm.com/en-US/safetytechnology/HumaneticsExtCareerSite/jobs/11022) | Safetytechnology | Farmington Hills, MI, US | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 11:00 PM | [Business Support Specialist](https://uscareers2-asm.icims.com/jobs/443909/business-support-specialist/job) | Advantage Solutions | Matthews, NC, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 10:42 PM | [Practice Support Specialist](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_1&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 55 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | 10:34 PM | [Patient Outreach and Support Specialist-Temp](https://job-boards.greenhouse.io/natera/jobs/6263353004) | Natera | US Remote (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 10:22 PM | [Spacecraft Environmental Test Technician](https://jobs.ashbyhq.com/apex-technology-inc/8092a0e6-6c73-474a-a0e6-a116b381eefe) | Apex | Los Angeles | 60 | rules: 3+ yrs exp; needs: ITAR |
@@ -1149,14 +1157,5 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · 
 | date only | [Cloud Security Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Cloud-Security-Engineer/369679) | Deloitte US |  | 28 | rules: 5+ yrs exp; location unclear; no future H-1B sponsorship; asks… |
 | date only | [AWS DevOps Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/AWS-DevOps-Engineer/373105) | Deloitte US |  | 33 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
 | 9:03 AM | [Physical AI Data Collection Associate](https://jobs.ashbyhq.com/Clera/19f1c181-17c0-45ce-981b-cf62240b95d9) | Clera | remote | 50 | rules: entry-level title; 5+ yrs exp; location unclear; asks for 5+ y… |
-| 7:19 AM (seen) | [HPC & MLOps Engineer](https://app.dover.com/apply/c-gen-ai/2ddc9bab-82c0-4554-bc2e-7b023e3bc5d9) | C Gen Ai | United States; United Kingdom; Turkey; … (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 6:49 AM | [IT Support Specialist](https://jobs.workable.com/view/7iddeEL1x5FBHxsHzDPBvd/it-support-specialist-in-petersburg-at-tomorrow-hire) | TOMORROW HIRE | Petersburg, Virginia (onsite) | 75 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
-| 6:18 AM (seen) | [Wordpress Developer](https://app.dover.com/apply/beyondlabs-cf291676/3b55b80d-ede9-4c4a-b072-bd29681b8d93) | Beyondlabs Cf291676 | International (remote) | 37 | rules: 4+ yrs exp; location unclear; asks for 4+ years of experience |
-| 6:04 AM | [Cyber Security Data Researcher (EST)](https://jobs.ashbyhq.com/HUMAN/88e6c632-09cf-4929-b77b-3ca05f178cd6) | Human | United States; New York, NY (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 10:23 PM | [RVP, Solutions Engineering, Enterprise](https://jobs.ashbyhq.com/factory/b553864f-79f2-4b45-9e66-550c31cf0e1c) | Factory | San Francisco, CA | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| 10:19 PM (seen) | [ITOPS Engineer – Logistics & Shipping](https://crackajackdigitalsolutionsllc.applytojob.com/apply/jIVIswjKI1/ITOPS-Engineer-Logistics-Shipping) | CrackaJack Digital Solutions … | Houston, TX | 30 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| 10:19 PM (seen) | [DevSecOps Engineer - JobID-0331](https://idtus.pinpointhq.com/en/postings/b542c38e-8f15-4abc-b9c8-302d09b8a21d) | Innovative Defense Technologi… | Arlington, VA +3 more (hybrid) | 35 | rules: 5+ yrs exp; needs: Security Clearance |
-| 10:19 PM (seen) | [DevSecOps Engineer TSSCI](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16864523-DevSecOps-Engineer--TSSCI/) | 33704Placement |  | 30 | rules: 9+ yrs exp; needs: active TS/SCI |
-| 10:19 PM (seen) | [DevSecOps Engineer](https://beyondsof.catsone.com/careers/95259-General/jobs/16447812-DevSecOps-Engineer/) | Beyondsof |  | 30 | rules: 6+ yrs exp; needs: TS/SCI Clearance |
 
 </details>

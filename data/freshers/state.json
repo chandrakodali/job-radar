@@ -11622,6 +11622,7 @@
   "ashby:Parkade:d49351d6-466d-436d-a85c-9de6863916f8": "2026-11-16",
   "ashby:clera:87e4356d-ecc4-476c-894c-84a62c566ba5": "2026-11-16",
   "ashby:cursor:164e27cd-289e-4bcd-8aaf-5280e75c5ed6": "2026-11-13",
+  "ashby:whoop:d31312c2-236a-45f1-8da7-61a7ca8d1622": "2026-11-17",
   "greenhouse:avathon:4754539005": "2026-11-16",
   "greenhouse:eplusinc:4486579009": "2026-11-16",
   "greenhouse:kodiaksolutions:4504956009": "2026-11-13",
@@ -11967,17 +11968,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 91,
+   "n": 92,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 91,
+   "n": 92,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 91,
+   "n": 92,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12273,6 +12274,11 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-13"
+  },
+  "greenhouse:quip": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "greenhouse:rdccareers": {
    "disabled_until": "2026-11-20",
@@ -13762,8 +13768,8 @@
    684
   ],
   "2026-11-17": [
-   68,
-   385
+   84,
+   480
   ]
  },
  "resolved": {
@@ -65761,10 +65767,12 @@
   "avature:justicejobs.avature.net|careers:23921": "2026-11-15",
   "avature:justicejobs.avature.net|careers:24017": "2026-11-15",
   "avature:justicejobs.avature.net|careers:24118": "2026-11-15",
+  "avature:justicejobs.avature.net|careers:24274": "2026-11-17",
   "avature:justicejobs.avature.net|internalcareers:23921": "2026-11-15",
   "avature:justicejobs.avature.net|internalcareers:24017": "2026-11-15",
   "avature:justicejobs.avature.net|internalcareers:24118": "2026-11-15",
   "avature:justicejobs.avature.net|internalcareers:24181": "2026-11-15",
+  "avature:justicejobs.avature.net|internalcareers:24274": "2026-11-17",
   "avature:manpowergroupco.avature.net|careers:56274": "2026-11-15",
   "avature:manpowergroupco.avature.net|careers:57449": "2026-11-15",
   "avature:mccannwg.avature.net|careersinternal:6115": "2026-11-15",
@@ -65961,6 +65969,7 @@
   "bamboohr:arctiq:357": "2026-11-15",
   "bamboohr:arctiq:361": "2026-11-15",
   "bamboohr:arctiq:362": "2026-11-15",
+  "bamboohr:arctiq:363": "2026-11-17",
   "bamboohr:ardham:28": "2026-11-15",
   "bamboohr:armstrongfluidtechnology:1058": "2026-11-13",
   "bamboohr:armstrongfluidtechnology:846": "2026-11-13",
@@ -69432,6 +69441,7 @@
   "greenhouse:point72:8919989002": "2026-11-13",
   "greenhouse:point72:8932968002": "2026-11-13",
   "greenhouse:point72:8932969002": "2026-11-13",
+  "greenhouse:point72:8945315002": "2026-11-17",
   "greenhouse:pokemoncareers:8199147003": "2026-11-15",
   "greenhouse:portalspacesystems:4468461009": "2026-11-16",
   "greenhouse:precisionaq:6249837004": "2026-11-13",
@@ -71824,6 +71834,7 @@
   "icims:expleo-jobs-gb-en.icims.com:57086": "2026-11-13",
   "icims:expleo-jobs-gb-en.icims.com:57168": "2026-11-13",
   "icims:expleo-jobs-gb-en.icims.com:57603": "2026-11-13",
+  "icims:expleo-jobs-gb-en.icims.com:58404": "2026-11-17",
   "icims:external-canoncareers.icims.com:34716": "2026-11-13",
   "icims:external-canoncareers.icims.com:34817": "2026-11-13",
   "icims:external-canoncareers.icims.com:34826": "2026-11-13",
@@ -71996,6 +72007,7 @@
   "icims:uscareers2-asm.icims.com:441345": "2026-11-13",
   "icims:uscareers2-asm.icims.com:441369": "2026-11-13",
   "icims:uscareers2-asm.icims.com:442884": "2026-11-13",
+  "icims:uscareers2-asm.icims.com:443909": "2026-11-17",
   "jazzhr:3dblabs:34K0FPaCd5": "2026-11-13",
   "jazzhr:3dblabs:6WIFdzr2oa": "2026-11-13",
   "jazzhr:3dblabs:jceIwvbaqb": "2026-11-13",
@@ -73101,6 +73113,7 @@
   "jobvite:visionist:o0UYAfwc": "2026-11-13",
   "jobvite:visionist:o5bYAfwy": "2026-11-13",
   "jobvite:visionist:o8YRAfwh": "2026-11-13",
+  "jobvite:visionist:o9W7Afww": "2026-11-17",
   "jobvite:visionist:o9vOAfwM": "2026-11-13",
   "jobvite:visionist:oNvOAfwq": "2026-11-13",
   "jobvite:visionist:oPH0AfwQ": "2026-11-13",
@@ -73329,6 +73342,7 @@
   "lever:jobgether:e780bc34-5595-46df-b095-3a73cc4a905e": "2026-11-14",
   "lever:jobgether:e9ace1b9-1de8-4993-88f6-03cb19a620e8": "2026-11-16",
   "lever:jobgether:ebfab6b5-1d5f-423f-a86f-97936867e9a2": "2026-11-16",
+  "lever:jobgether:ec0cfdc9-6fbf-4fd3-a87c-db28b799a705": "2026-11-17",
   "lever:jobgether:ec9c4292-142e-4b7c-b019-5802e8388d33": "2026-11-14",
   "lever:jobgether:ed585bb6-9f21-45ef-b606-7d0a0715d03c": "2026-11-14",
   "lever:jobgether:edbd909c-86e8-4a8f-b276-e4929e28d373": "2026-11-14",
@@ -73613,6 +73627,7 @@
   "oracle:egpy.fa.us2.oraclecloud.com|CX_1:107354": "2026-11-14",
   "oracle:egpy.fa.us2.oraclecloud.com|JoinAbt:107354": "2026-11-14",
   "oracle:egua.fa.us2.oraclecloud.com|CX_1:23022": "2026-11-13",
+  "oracle:egua.fa.us2.oraclecloud.com|CX_1:25695": "2026-11-17",
   "oracle:egua.fa.us2.oraclecloud.com|CX_1:27220": "2026-11-13",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26012796": "2026-11-14",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26013354": "2026-11-14",
@@ -73776,6 +73791,8 @@
   "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:105893": "2026-11-13",
   "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:105910": "2026-11-13",
   "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:105914": "2026-11-16",
+  "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:105921": "2026-11-17",
+  "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:105930": "2026-11-17",
   "oracle:fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:698690": "2026-11-13",
   "oracle:fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:702331": "2026-11-13",
   "oracle:fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:702756": "2026-11-13",
@@ -75546,6 +75563,7 @@
   "sfrmk:careers.quality-ai.com:61560044": "2026-11-16",
   "sfrmk:careers.quality-ai.com:61570344": "2026-11-16",
   "sfrmk:careers.quality-ai.com:61610544": "2026-11-17",
+  "sfrmk:careers.quality-ai.com:61613044": "2026-11-17",
   "sfrmk:careers.safran-dsi.com:1420257100": "2026-11-13",
   "sfrmk:careers.safran-dsi.com:1448369700": "2026-11-13",
   "sfrmk:careers.thehersheycompany.com:1436484600": "2026-11-13",
@@ -77203,7 +77221,9 @@
   "workable:ignite-33:15C79B8EF8": "2026-11-13",
   "workable:ignite-33:2AE97C67FC": "2026-11-13",
   "workable:indiana-hemophiliaand-thrombosis-center:EC32F73EFE": "2026-11-13",
+  "workable:interimage:0845C3BE9D": "2026-11-17",
   "workable:interimage:169E6928BE": "2026-11-13",
+  "workable:interimage:89601AD3BE": "2026-11-17",
   "workable:intetics-2:86C41D4668": "2026-11-13",
   "workable:intetics-2:B67DF08AC5": "2026-11-13",
   "workable:intetics-2:EDAB3B0A0E": "2026-11-13",
@@ -77464,6 +77484,7 @@
   "workday:abb|wd3|external_career_page:JR00053070": "2026-11-17",
   "workday:abb|wd3|external_career_page:JR00053153": "2026-11-14",
   "workday:abb|wd3|external_career_page:JR00053245": "2026-11-13",
+  "workday:abcfinancial|wd5|abcfinancialservices:REQ -1635": "2026-11-17",
   "workday:abinbev|wd1|USA:30103911": "2026-11-13",
   "workday:abinbev|wd1|USA:30105631": "2026-11-13",
   "workday:abinbev|wd1|USA:30105880": "2026-11-13",
@@ -80513,8 +80534,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-17T10:17:53+00:00",
-  "yc": "2026-11-17T10:17:53+00:00"
+  "workable_search": "2026-11-17T13:48:47+00:00",
+  "yc": "2026-11-17T13:48:47+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
