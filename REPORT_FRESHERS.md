@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**702 jobs**, newest first. Updated Tue Nov 17, 5:31 AM CST from 12,526 company job boards and other sources.
+**702 jobs**, newest first. Updated Tue Nov 17, 6:47 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -752,7 +752,7 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · 
 | 7:51 AM | [AI Engineer](https://careers.medpace.com/jobs/12103?lang=en-us) | Medpace, Inc. | Cincinnati, Ohio | 63 | 1+ yrs exp |
 | 7:15 AM | [Network Engineer I](https://jobs.smartrecruiters.com/AshburnConsulting/744000160871860-network-engineer-i) | AshburnConsulting | Arlington, VA, United States | 58 | entry-level title; staffing/consulting firm: verify it's real |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3318)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3322)
 
 <details><summary>Show</summary>
 
@@ -767,6 +767,9 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · 
 | date only | [Clearable Data Center Technician, Data Center Operations](https://www.amazon.jobs/en/jobs/10597767/clearable-data-center-technician-data-center-operations) | Amazon Web Services, Inc. | Aurora, Colorado, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
 | date only | [AI enabled Device Modeling Engineer](https://globalfoundries.eightfold.ai/careers/job/563980770945694) | Globalfoundries | Austin, TX, US; IL,US (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Validation Engineer](https://nvidia.eightfold.ai/careers/job/893392914910) | Nvidia | Yokne'am Illit, North District, IL (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 6:47 AM (seen) | [Technical Support Engineer (SRE)](https://jobs.jobvite.com/nutanix/job/ohorAfwq) | Nutanix |  | 25 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
+| 6:47 AM | [Integration Associate, Clinic Acquisitions](https://jobs.lever.co/jobgether/ba470345-e179-4914-9640-2a70d208f2b2) | Jobgether | US (remote) | 82 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
+| 6:33 AM | [Corporate & Integration Operations Associate](https://jobs.lever.co/jobgether/36aa2690-4e9d-419a-ae9a-2baa8c974bb0) | Jobgether | US (remote) | 82 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
 | 5:31 AM (seen) | [FinOps Associate](https://tabby.pinpointhq.com/en/postings/a527eaeb-dc9d-488e-af8a-090677dcc8e3) | Tabby | KSA (onsite) | 55 | rules: entry-level title; 3+ yrs exp; location unclear; asks for 3+ y… |
 | 5:09 AM | [IAM Engineer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016898347-iam-engineer) | Cityofnewyork | Brooklyn, NY, United States | 65 | rules: 4+ yrs exp; E-Verify; asks for 4+ years of experience |
 | 5:08 AM | [Public Safety Systems Engineer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016898371-public-safety-systems-engineer) | Cityofnewyork | Brooklyn, NY, United States | 50 | rules: 6+ yrs exp; E-Verify; asks for 6+ years of experience |
@@ -783,6 +786,7 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · 
 | 12:00 AM | [Software Engineering - Delphi Software Engineer 132-2007](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6558) | Ccok | Tulsa, OK, US | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 11:42 PM | [Full Stack Product Engineer](https://jobs.lever.co/jobgether/017460d4-fe2e-4dad-8871-b690226666d5) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:06 PM | [Data Scientist – Advanced Analytics & Healthcare Research](https://jobs.lever.co/jobgether/a4824d48-5f1c-49a6-9780-2dde57e359cc) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 11:00 PM | [Information Security Specialist](https://jobs.dayforcehcm.com/en-US/safetytechnology/HumaneticsExtCareerSite/jobs/11022) | Safetytechnology | Farmington Hills, MI, US | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 10:42 PM | [Practice Support Specialist](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_1&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 55 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | 10:34 PM | [Patient Outreach and Support Specialist-Temp](https://job-boards.greenhouse.io/natera/jobs/6263353004) | Natera | US Remote (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 10:22 PM | [Spacecraft Environmental Test Technician](https://jobs.ashbyhq.com/apex-technology-inc/8092a0e6-6c73-474a-a0e6-a116b381eefe) | Apex | Los Angeles | 60 | rules: 3+ yrs exp; needs: ITAR |
@@ -1154,9 +1158,5 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · 
 | 10:19 PM (seen) | [DevSecOps Engineer - JobID-0331](https://idtus.pinpointhq.com/en/postings/b542c38e-8f15-4abc-b9c8-302d09b8a21d) | Innovative Defense Technologi… | Arlington, VA +3 more (hybrid) | 35 | rules: 5+ yrs exp; needs: Security Clearance |
 | 10:19 PM (seen) | [DevSecOps Engineer TSSCI](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16864523-DevSecOps-Engineer--TSSCI/) | 33704Placement |  | 30 | rules: 9+ yrs exp; needs: active TS/SCI |
 | 10:19 PM (seen) | [DevSecOps Engineer](https://beyondsof.catsone.com/careers/95259-General/jobs/16447812-DevSecOps-Engineer/) | Beyondsof |  | 30 | rules: 6+ yrs exp; needs: TS/SCI Clearance |
-| 10:19 PM (seen) | [AI Engineer (Applied Scientist)](https://app.dover.com/apply/cicero/2b6bf715-ccdf-4b4d-ac5f-a89f3df3044c) | Cicero | Palo Alto, CA (onsite) | 40 | rules: 5+ yrs exp; sponsors visas; asks for 5+ years of experience |
-| 10:19 PM (seen) | [Full Stack Software Engineer](https://app.dover.com/apply/cicero/c270ce27-1470-4621-accc-f0bcce5e92ca) | Cicero | Palo Alto, CA (hybrid) | 40 | rules: 5+ yrs exp; sponsors visas; asks for 5+ years of experience |
-| 10:19 PM (seen) | [Evergreen Posting: DevSecOps Engineer](https://coforma.pinpointhq.com/en/postings/bd95e9e4-564a-4f23-a28d-380f43d98e8f) | Coforma | Remote (select US states) (remote) | 47 | rules: 3+ yrs exp; E-Verify; asks for 3+ years of experience |
-| 6:38 PM | [SATCOM Systems Engineer (Hybrid- Aberdeen Proving Ground)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9312ef-f8ad-43d2-926b-12997288c359&ccId=19000101_000001&jobId=9201590872782_1&lang=en_US) | 1B9312Ef F8Ad 43D2 926B 12997… | US;  US;  US;  US;  US;  US; Middletown… | 45 | rules: 5+ yrs exp; needs: Secret clearance |
 
 </details>

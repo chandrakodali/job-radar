@@ -11967,17 +11967,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 90,
+   "n": 91,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 90,
+   "n": 91,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 90,
+   "n": 91,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12514,41 +12514,11 @@
    "n": 3,
    "since": "2026-11-13"
   },
-  "lever:3pillarglobal": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
   "lever:BloomTech": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-13"
-  },
-  "lever:acceldata": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:achievers": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:acronaviation": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:actian": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:aeratechnology": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
   },
   "lever:aifund": {
    "disabled_until": "2026-11-20",
@@ -12568,11 +12538,6 @@
    "n": 3,
    "since": "2026-11-13"
   },
-  "lever:appen": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
   "lever:aprio": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 404",
@@ -12591,46 +12556,11 @@
    "n": 3,
    "since": "2026-11-13"
   },
-  "lever:callan": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
   "lever:calstart": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-13"
-  },
-  "lever:camstex": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:canvasww": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:capricor": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:cascademgt": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:casino-cash-trac": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:catalist": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
   },
   "lever:cesiumastro": {
    "disabled_until": "2026-11-20",
@@ -12638,96 +12568,11 @@
    "n": 3,
    "since": "2026-11-13"
   },
-  "lever:cfsenergy": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:cgsfederal": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:cimgroup": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:civitech": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:colibrigroup": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:cologix": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:commerce-undergraduate": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
   "lever:conduktor": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-13"
-  },
-  "lever:conversica": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:coupa": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:crestoperations": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:crosscountry-consulting": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:crumbl": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:cscgeneration-2": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:cx2": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:datalabusa": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:dga": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:easystreetcap": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
   },
   "lever:energyvault": {
    "disabled_until": "2026-11-20",
@@ -12735,26 +12580,11 @@
    "n": 3,
    "since": "2026-11-13"
   },
-  "lever:erg": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "lever:espace": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
   "lever:farcast": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-13"
-  },
-  "lever:go-cloudforce": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
   },
   "lever:grid": {
    "disabled_until": "2026-11-20",
@@ -65956,6 +65786,7 @@
   "avature:metlife.avature.net|en_US/ml:21476": "2026-11-13",
   "avature:metlife.avature.net|en_US/ml:21505": "2026-11-13",
   "avature:metlife.avature.net|en_US/ml:21550": "2026-11-13",
+  "avature:metlife.avature.net|en_US/ml:21569": "2026-11-17",
   "avature:metlife.avature.net|en_US/ml:21584": "2026-11-16",
   "avature:metlife.avature.net|en_US/ml:21585": "2026-11-16",
   "avature:metlife.avature.net|en_US/ml:21587": "2026-11-13",
@@ -66046,6 +65877,8 @@
   "avature:tql.avature.net|en_US/TQLexternalcareers:5545": "2026-11-15",
   "avature:tql.avature.net|en_US/TQLexternalcareers:5551": "2026-11-15",
   "avature:tql.avature.net|en_US/TQLexternalcareers:5562": "2026-11-15",
+  "avature:transcom.avature.net|careers:14455": "2026-11-17",
+  "avature:transcom.avature.net|careers:14456": "2026-11-17",
   "avature:wilsonhcg.avature.net|ctscareers:181926": "2026-11-15",
   "avature:wilsonhcg.avature.net|ctscareers:182055": "2026-11-15",
   "avature:wilsonhcg.avature.net|ctscareers:182235": "2026-11-17",
@@ -68136,6 +67969,7 @@
   "dayforce:ppcw|CANDIDATEPORTAL:1634": "2026-11-15",
   "dayforce:ptoiad|CANDIDATEPORTAL:4888": "2026-11-14",
   "dayforce:safetytechnology|HumaneticsExtCareerSite:11016": "2026-11-16",
+  "dayforce:safetytechnology|HumaneticsExtCareerSite:11022": "2026-11-17",
   "dayforce:sanitarium|CANDIDATEPORTAL:2604": "2026-11-15",
   "dayforce:sarnova|CANDIDATEPORTAL:1909": "2026-11-14",
   "dayforce:sarnova|CANDIDATEPORTAL:1923": "2026-11-14",
@@ -73173,6 +73007,7 @@
   "jobvite:nutanix:oI7QAfwZ": "2026-11-13",
   "jobvite:nutanix:oO81Afwh": "2026-11-13",
   "jobvite:nutanix:ogDAAfwN": "2026-11-16",
+  "jobvite:nutanix:ohorAfwq": "2026-11-17",
   "jobvite:nutanix:os7SAfwL": "2026-11-13",
   "jobvite:nybg:oyf3Afwa": "2026-11-15",
   "jobvite:nychdc:oeSEAfw4": "2026-11-15",
@@ -73398,6 +73233,7 @@
   "lever:jobgether:351751a9-0f56-437e-8e63-a56f162dec72": "2026-11-16",
   "lever:jobgether:3569b033-b5ff-4357-8775-2340a7411091": "2026-11-14",
   "lever:jobgether:35a948cc-510a-497f-a379-d69a3fe0bd61": "2026-11-14",
+  "lever:jobgether:36aa2690-4e9d-419a-ae9a-2baa8c974bb0": "2026-11-17",
   "lever:jobgether:373f8aff-6b57-4ea6-afe1-00ce5ad02a46": "2026-11-14",
   "lever:jobgether:37ab3f74-0aea-42f5-b3d7-2357257b7876": "2026-11-14",
   "lever:jobgether:3d7363a9-6abd-46e6-a90e-79d98e3ae646": "2026-11-16",
@@ -73467,6 +73303,7 @@
   "lever:jobgether:b45aadee-df74-4ad4-8acd-f23de8ee8060": "2026-11-14",
   "lever:jobgether:b8941cce-1efd-4929-92f4-ad17507a0b58": "2026-11-17",
   "lever:jobgether:b9103f1b-f449-411d-8750-b9ae81c34d67": "2026-11-14",
+  "lever:jobgether:ba470345-e179-4914-9640-2a70d208f2b2": "2026-11-17",
   "lever:jobgether:bbd011d9-382f-4f14-a2ee-0516f4ac407a": "2026-11-17",
   "lever:jobgether:bd763265-759c-4f88-bf0e-819c490842b5": "2026-11-14",
   "lever:jobgether:c12ad43a-3c7b-4d0b-adde-d3509813970d": "2026-11-14",
@@ -73551,6 +73388,7 @@
   "lever:wachter:f10e14b6-6799-4734-9200-913ed73c12ac": "2026-11-13",
   "lever:weloglobal:189616d3-70af-4411-8600-cadb2dd105ac": "2026-11-13",
   "lever:weloglobal:7ec3c363-146f-49af-a2a1-1b7856981f4a": "2026-11-13",
+  "lever:weloglobal:92e9560f-6079-4d00-b5df-9cc8dcf3885e": "2026-11-17",
   "lever:weloglobal:c2274677-926f-467e-bdbf-aa61f6596214": "2026-11-13",
   "lever:woven-by-toyota:57330e8d-5053-4901-95a2-432f68f9bb56": "2026-11-13",
   "lever:zeneducate:9568d0a4-b8be-4e4f-8856-929da38ca84c": "2026-11-13",
@@ -75707,6 +75545,7 @@
   "sfrmk:careers.quality-ai.com:61559644": "2026-11-16",
   "sfrmk:careers.quality-ai.com:61560044": "2026-11-16",
   "sfrmk:careers.quality-ai.com:61570344": "2026-11-16",
+  "sfrmk:careers.quality-ai.com:61610544": "2026-11-17",
   "sfrmk:careers.safran-dsi.com:1420257100": "2026-11-13",
   "sfrmk:careers.safran-dsi.com:1448369700": "2026-11-13",
   "sfrmk:careers.thehersheycompany.com:1436484600": "2026-11-13",
