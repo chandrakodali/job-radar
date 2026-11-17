@@ -11967,17 +11967,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 89,
+   "n": 90,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 89,
+   "n": 90,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 89,
+   "n": 90,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12388,16 +12388,6 @@
    "n": 3,
    "since": "2026-11-13"
   },
-  "icims:careers-cotiviti.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "icims:careers-eyesouthpartners.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-20",
    "err": "robots.txt disallows /jobs/search",
@@ -12524,11 +12514,41 @@
    "n": 3,
    "since": "2026-11-13"
   },
+  "lever:3pillarglobal": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "lever:BloomTech": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-13"
+  },
+  "lever:acceldata": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:achievers": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:acronaviation": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:actian": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:aeratechnology": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "lever:aifund": {
    "disabled_until": "2026-11-20",
@@ -12548,6 +12568,11 @@
    "n": 3,
    "since": "2026-11-13"
   },
+  "lever:appen": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "lever:aprio": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 404",
@@ -12566,11 +12591,46 @@
    "n": 3,
    "since": "2026-11-13"
   },
+  "lever:callan": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "lever:calstart": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-13"
+  },
+  "lever:camstex": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:canvasww": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:capricor": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:cascademgt": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:casino-cash-trac": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:catalist": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "lever:cesiumastro": {
    "disabled_until": "2026-11-20",
@@ -12578,11 +12638,96 @@
    "n": 3,
    "since": "2026-11-13"
   },
+  "lever:cfsenergy": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:cgsfederal": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:cimgroup": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:civitech": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:colibrigroup": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:cologix": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:commerce-undergraduate": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "lever:conduktor": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-13"
+  },
+  "lever:conversica": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:coupa": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:crestoperations": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:crosscountry-consulting": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:crumbl": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:cscgeneration-2": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:cx2": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:datalabusa": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:dga": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:easystreetcap": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "lever:energyvault": {
    "disabled_until": "2026-11-20",
@@ -12590,11 +12735,26 @@
    "n": 3,
    "since": "2026-11-13"
   },
+  "lever:erg": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "lever:espace": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "lever:farcast": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-13"
+  },
+  "lever:go-cloudforce": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "lever:grid": {
    "disabled_until": "2026-11-20",
@@ -65562,6 +65722,7 @@
   "avature:baufest.avature.net|jobs:5910": "2026-11-14",
   "avature:baufest.avature.net|jobs:5917": "2026-11-14",
   "avature:bloomberg.avature.net|careers:46103": "2026-11-14",
+  "avature:bloomberg.avature.net|careers:46145": "2026-11-17",
   "avature:bloomberg.avature.net|careers:46152": "2026-11-14",
   "avature:bloomberg.avature.net|internalcareers:46073": "2026-11-14",
   "avature:bloomberg.avature.net|internalcareers:46075": "2026-11-14",
@@ -65805,6 +65966,7 @@
   "avature:mgl.avature.net|internalcareers:23538": "2026-11-16",
   "avature:mgl.avature.net|internalcareers:23900": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24049": "2026-11-15",
+  "avature:mgl.avature.net|internalcareers:24252": "2026-11-17",
   "avature:mgl.avature.net|internalcareers:24696": "2026-11-16",
   "avature:mgl.avature.net|internalcareers:24848": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24856": "2026-11-15",
@@ -67887,6 +68049,7 @@
   "dayforce:cynosure|CANDIDATEPORTAL:8012": "2026-11-15",
   "dayforce:eci|candidateportal:865": "2026-11-15",
   "dayforce:edc|candidateportaledc:965": "2026-11-15",
+  "dayforce:evri|CANDIDATEPORTAL:6742": "2026-11-17",
   "dayforce:fphny|CANDIDATEPORTAL:3821": "2026-11-15",
   "dayforce:fphny|CANDIDATEPORTAL:3833": "2026-11-15",
   "dayforce:gleason|CANDIDATEPORTAL:5881": "2026-11-15",
@@ -68148,6 +68311,7 @@
   "eightfold:appliedmaterials:790319484410": "2026-11-17",
   "eightfold:appliedmaterials:790319539014": "2026-11-16",
   "eightfold:appliedmaterials:790319543510": "2026-11-17",
+  "eightfold:appliedmaterials:790319552123": "2026-11-17",
   "eightfold:arcadis:563671533245008": "2026-11-14",
   "eightfold:arcadis:563671533389041": "2026-11-14",
   "eightfold:arcadis:563671533429655": "2026-11-16",
@@ -69567,6 +69731,7 @@
   "greenhouse:turing:6255357004": "2026-11-13",
   "greenhouse:twilio:8026199": "2026-11-13",
   "greenhouse:twilio:8131089": "2026-11-16",
+  "greenhouse:twinstream:5039982101": "2026-11-17",
   "greenhouse:twitch:8929545002": "2026-11-13",
   "greenhouse:twitch:8931343002": "2026-11-13",
   "greenhouse:twitch:8931345002": "2026-11-13",
@@ -74321,6 +74486,7 @@
   "pinpoint:tabby:613729": "2026-11-14",
   "pinpoint:tabby:614364": "2026-11-14",
   "pinpoint:tabby:615879": "2026-11-14",
+  "pinpoint:tabby:620971": "2026-11-17",
   "pinpoint:thecoteam:539727": "2026-11-14",
   "pinpoint:thecoteam:556470": "2026-11-14",
   "pinpoint:thecoteam:584417": "2026-11-14",
@@ -76662,6 +76828,10 @@
   "smartrecruiters:cityofnewyork:3743990016861706": "2026-11-14",
   "smartrecruiters:cityofnewyork:3743990016861836": "2026-11-14",
   "smartrecruiters:cityofnewyork:3743990016861926": "2026-11-14",
+  "smartrecruiters:cityofnewyork:3743990016898347": "2026-11-17",
+  "smartrecruiters:cityofnewyork:3743990016898371": "2026-11-17",
+  "smartrecruiters:cityofnewyork:3743990016898466": "2026-11-17",
+  "smartrecruiters:cityofnewyork:3743990016899156": "2026-11-17",
   "smartrecruiters:cityofphiladelphia:744000159941284": "2026-11-13",
   "smartrecruiters:cityofphiladelphia:744000159943569": "2026-11-13",
   "smartrecruiters:cityofphiladelphia:744000160257749": "2026-11-13",
