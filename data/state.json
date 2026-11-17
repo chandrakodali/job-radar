@@ -12084,17 +12084,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 197,
+   "n": 198,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 197,
+   "n": 198,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 197,
+   "n": 198,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12516,6 +12516,16 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 4,
    "since": "2026-11-09"
+  },
+  "icims:careers-cotiviti.icims.com": {
+   "err": "HTTP 521",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "icims:careers-eyesouthpartners.icims.com": {
+   "err": "HTTP 521",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-23",
@@ -65721,6 +65731,7 @@
   "amazon:us:10600832": "2026-11-14",
   "amazon:us:10601041": "2026-11-14",
   "amazon:us:10601366": "2026-11-14",
+  "amazon:us:10601368": "2026-11-17",
   "amazon:us:10601540": "2026-11-14",
   "amazon:us:10601546": "2026-11-14",
   "amazon:us:10601939": "2026-11-14",
@@ -65829,6 +65840,7 @@
   "ashby:brainco:9ea966db-9893-434a-9909-a95efb2a1bf0": "2026-11-07",
   "ashby:buspatrol:1eb4a59b-d4c0-45ff-859f-8cb7fe6d7574": "2026-11-14",
   "ashby:buspatrol:e47215df-7e4e-4751-a090-b14f2340f625": "2026-11-14",
+  "ashby:buspatrol:e5264fb2-c237-4a06-bcba-fd5aeaa31569": "2026-11-17",
   "ashby:cartesia:1a254e7d-54f2-4bee-bfdf-0c49d5e2909e": "2026-11-12",
   "ashby:chainalysis-careers:79370191-233b-4d60-94cc-26914b98f75e": "2026-11-12",
   "ashby:claylabs:041af20f-23db-4dcc-9cf4-c860d34ecf0d": "2026-11-07",
@@ -66667,6 +66679,7 @@
   "eightfold:ngc:1340075298595": "2026-11-14",
   "eightfold:ngc:1340075310658": "2026-11-14",
   "eightfold:ngc:1340075351241": "2026-11-16",
+  "eightfold:ngc:1340075371130": "2026-11-17",
   "eightfold:nvidia:893384025211": "2026-11-17",
   "eightfold:nvidia:893393669632": "2026-11-15",
   "eightfold:nvidia:893393995133": "2026-11-15",
@@ -69139,6 +69152,7 @@
   "workable:pgtek:8D5FBC5B47": "2026-11-14",
   "workable:prosync:AF5DAE0554": "2026-11-08",
   "workable:raydar:2F8F576E57": "2026-11-08",
+  "workable:raydar:3116F3A3A7": "2026-11-17",
   "workable:raydar:6083239DEE": "2026-11-08",
   "workable:raydar:6D4A3A5075": "2026-11-14",
   "workable:raydar:A0FB08A1A8": "2026-11-14",
