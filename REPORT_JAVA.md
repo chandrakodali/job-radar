@@ -1,19 +1,21 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**196 jobs**, newest first. Updated Tue Nov 17, 4:26 PM CST from 12,526 company job boards and other sources.
+**198 jobs**, newest first. Updated Tue Nov 17, 5:19 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 124 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,349 matching jobs that job sites and feeds listed this week, 319 (23%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,352 matching jobs that job sites and feeds listed this week, 319 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (16)](#tuesday-nov-17-16) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (3)](#tuesday-nov-10-3)
+Jump to: [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (3)](#tuesday-nov-10-3)
 
-## Tuesday, Nov 17 (16)
+## Tuesday, Nov 17 (18)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:19 PM | [Software Engineer, Backend (Go)](https://jobs.smartrecruiters.com/Mirantis/744000162186029-software-engineer-backend-go-) | Mirantis | Raleigh, NC, United States (remote) | 47 | requires Java |
+| 4:42 PM | [Junior Java Developer](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021617) | ADT | Irving, TX, United States | 70 | entry-level title; 4+ yrs exp |
 | 4:02 PM | [Software Engineer, Systems and Infrastructure](https://jobs.smartrecruiters.com/LinkedIn3/744000162178160-software-engineer-systems-and-infrastructure-) | LinkedIn | Bellevue, WA, United States (hybrid) | 70 | 1+ yrs exp; E-Verify; requires Java |
 | 2:18 PM | [Senior Software Engineer, Data Platform](https://sofi.com/careers/job/8207529003?gh_jid=8207529003) | Sofi | Seattle, Washington or Salt Lake City, … | 45 | 3+ yrs exp; senior title; requires Java |
 | 12:50 PM (seen) | [Enterprise Software Engineer APIs Java REST](https://careers.eriasventures.com/careers/89065-Erias-Ventures/jobs/16874389-Enterprise--Software-Engineer--APIs-Java-REST/) | Erias |  | 45 | location unclear |

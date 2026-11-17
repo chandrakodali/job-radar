@@ -11861,8 +11861,9 @@
    "since": "2026-11-14"
   },
   "ashby:nectar-social": {
+   "disabled_until": "2026-11-24",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-17"
   },
   "ashby:odin-dynamics": {
@@ -11993,17 +11994,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 75,
+   "n": 76,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 75,
+   "n": 76,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 75,
+   "n": 76,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12876,11 +12877,6 @@
    "n": 3,
    "since": "2026-11-14"
   },
-  "sfrmk:career.sonepar.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
   "sfrmk:careers.qualitestgroup.com": {
    "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /job_sitemap.xml",
@@ -13332,7 +13328,7 @@
   ],
   "2026-11-17": [
    90,
-   402
+   405
   ]
  },
  "resolved": {
@@ -64232,6 +64228,9 @@
   "amazon:us:10607548": "2026-11-17",
   "amazon:us:10607624": "2026-11-17",
   "amazon:us:10607627": "2026-11-17",
+  "amazon:us:10607646": "2026-11-17",
+  "amazon:us:10607665": "2026-11-17",
+  "amazon:us:10607689": "2026-11-17",
   "apple:usa:200555687": "2026-11-14",
   "apple:usa:200656816": "2026-11-17",
   "apple:usa:200665281": "2026-11-14",
@@ -64439,6 +64438,7 @@
   "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:abea19fb-df2c-4c3b-ae6a-f30db2c33683": "2026-11-14",
   "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:ad864afa-eb47-4f0e-8f0a-fea72f6b1fe3": "2026-11-14",
   "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:c0735824-2b3c-46a2-a888-99e7376a9606": "2026-11-14",
+  "ashby:fieldguide:eb8b637c-d9cd-4b98-99e4-ea5113701473": "2026-11-17",
   "ashby:first-resonance:fdb3fcb7-2575-4fb2-b5d8-945a7aeab427": "2026-11-17",
   "ashby:flox:7d38cdf7-cc13-43e1-b276-972e954fc3aa": "2026-11-17",
   "ashby:gamechanger:4b9837dc-85c5-4b16-a07d-bd8c6f8be246": "2026-11-14",
@@ -65722,6 +65722,8 @@
   "eightfold:nvidia:893398757520": "2026-11-16",
   "eightfold:nvidia:893398765891": "2026-11-17",
   "eightfold:nvidia:893398772577": "2026-11-17",
+  "eightfold:nvidia:893398775996": "2026-11-17",
+  "eightfold:nvidia:893398776454": "2026-11-17",
   "eightfold:paypal:274921995088": "2026-11-16",
   "eightfold:paypal:274922260545": "2026-11-17",
   "eightfold:paypal:274922508777": "2026-11-15",
@@ -65743,6 +65745,7 @@
   "eightfold:qualcomm:446719899052": "2026-11-15",
   "eightfold:qualcomm:446721106923": "2026-11-15",
   "eightfold:qualcomm:446722100582": "2026-11-15",
+  "eightfold:qualcomm:446722119778": "2026-11-17",
   "eightfold:qualcomm:446722159183": "2026-11-16",
   "eightfold:qualcomm|qualcomm.com:446714967451": "2026-11-14",
   "eightfold:qualcomm|qualcomm.com:446719899052": "2026-11-14",
@@ -66152,6 +66155,7 @@
   "greenhouse:agilityrobotics:6242669004": "2026-11-14",
   "greenhouse:airbnb:8386065": "2026-11-14",
   "greenhouse:airbnb:8393912": "2026-11-16",
+  "greenhouse:airbnb:8397762": "2026-11-17",
   "greenhouse:akidolabs:4724400006": "2026-11-14",
   "greenhouse:altentechnologyusa:5291820007": "2026-11-14",
   "greenhouse:altentechnologyusa:5291845007": "2026-11-14",
@@ -66274,6 +66278,7 @@
   "greenhouse:extrahopnetworks:6249904004": "2026-11-14",
   "greenhouse:fanduel:8325675": "2026-11-14",
   "greenhouse:fanduel:8348296": "2026-11-14",
+  "greenhouse:fictiv:8937286002": "2026-11-17",
   "greenhouse:fictiv:8946572002": "2026-11-17",
   "greenhouse:fictiv:8946573002": "2026-11-17",
   "greenhouse:figma:6242561004": "2026-11-14",
@@ -66424,6 +66429,9 @@
   "greenhouse:tegnainc:5275134007": "2026-11-14",
   "greenhouse:tegnainc:5286547007": "2026-11-16",
   "greenhouse:tegnainc:5293671007": "2026-11-16",
+  "greenhouse:tegnainc:5296874007": "2026-11-17",
+  "greenhouse:tegnainc:5296896007": "2026-11-17",
+  "greenhouse:tegnainc:5296900007": "2026-11-17",
   "greenhouse:teletrackingtechnologiesinc:5480546008": "2026-11-16",
   "greenhouse:textnowinc:4504529009": "2026-11-14",
   "greenhouse:thenewyorktimes:4752757005": "2026-11-14",
@@ -67717,6 +67725,7 @@
   "oracle:eofe.fa.us2.oraclecloud.com|jobsearch:80850": "2026-11-14",
   "oracle:eofe.fa.us2.oraclecloud.com|jobsearch:80851": "2026-11-14",
   "oracle:fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com|CSXCareers:54954": "2026-11-14",
+  "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:3021617": "2026-11-17",
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:26868": "2026-11-17",
   "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10006010": "2026-11-14",
   "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:3004408": "2026-11-16",
@@ -67766,6 +67775,7 @@
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:304226": "2026-11-17",
   "oracle:ibqbjb.fa.ocs.oraclecloud.com|Honeywell:161747": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210741625": "2026-11-14",
+  "oracle:jpmc.fa.oraclecloud.com|CX_1001:210745587": "2026-11-17",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210777835": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210779159": "2026-11-16",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210784170": "2026-11-14",
@@ -68614,6 +68624,7 @@
   "smartrecruiters:linkedin3:744000162178160": "2026-11-17",
   "smartrecruiters:mirantis:744000161110609": "2026-11-14",
   "smartrecruiters:mirantis:744000161377550": "2026-11-14",
+  "smartrecruiters:mirantis:744000162186029": "2026-11-17",
   "smartrecruiters:nbcuniversal3:744000159511839": "2026-11-14",
   "smartrecruiters:nbcuniversal3:744000159723020": "2026-11-14",
   "smartrecruiters:nbcuniversal3:744000159977020": "2026-11-14",
@@ -69748,10 +69759,10 @@
  },
  "source_last": {
   "hn": "2026-11-17T19:50:53+00:00",
-  "remoteok": "2026-11-17T20:49:14+00:00",
+  "remoteok": "2026-11-17T23:19:58+00:00",
   "usajobs": "2026-11-17T20:49:14+00:00",
   "workable_search": "2026-11-17T20:49:14+00:00",
-  "wwr": "2026-11-17T21:48:22+00:00",
+  "wwr": "2026-11-17T23:19:58+00:00",
   "yc": "2026-11-17T20:49:14+00:00"
  },
  "title_rules": "72f554d20a7f",
