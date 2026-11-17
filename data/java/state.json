@@ -11642,7 +11642,9 @@
   "zoho:yourgesture": "2026-11-15"
  },
  "bootstrapped": true,
- "closed": {},
+ "closed": {
+  "ashby:whoop:d31312c2-236a-45f1-8da7-61a7ca8d1622": "2026-11-17"
+ },
  "fails": {
   "ashby:Airweave": {
    "disabled_until": "2026-11-21",
@@ -11982,17 +11984,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 65,
+   "n": 66,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 65,
+   "n": 66,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 65,
+   "n": 66,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12864,6 +12866,16 @@
    "n": 3,
    "since": "2026-11-14"
   },
+  "sfrmk:career.sonepar.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
+  "sfrmk:careers.mann-hummel.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "sfrmk:careers.qualitestgroup.com": {
    "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /job_sitemap.xml",
@@ -13311,7 +13323,7 @@
   ],
   "2026-11-17": [
    49,
-   219
+   224
   ]
  },
  "resolved": {
@@ -66194,6 +66206,7 @@
   "greenhouse:icapitalnetwork:8920562002": "2026-11-14",
   "greenhouse:icapitalnetwork:8930899002": "2026-11-14",
   "greenhouse:icapitalnetwork:8936222002": "2026-11-14",
+  "greenhouse:icapitalnetwork:8944310002": "2026-11-17",
   "greenhouse:icarus:5482294008": "2026-11-14",
   "greenhouse:iconcareers:6250304004": "2026-11-14",
   "greenhouse:intercom:8371261": "2026-11-14",
@@ -67375,6 +67388,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX:339960": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:342418": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX:342729": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:342751": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:342795": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:342921": "2026-11-16",
@@ -67394,6 +67408,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:339960": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342418": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342729": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342751": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342795": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342921": "2026-11-16",
@@ -67413,6 +67428,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:339960": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342418": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342729": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342751": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342795": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342921": "2026-11-16",
@@ -67432,6 +67448,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:339960": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342418": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342729": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342751": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342795": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342921": "2026-11-16",
@@ -67451,6 +67468,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:339960": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342418": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342729": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342751": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342795": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342921": "2026-11-16",
@@ -67470,6 +67488,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:339960": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342418": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342729": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342751": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342795": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342921": "2026-11-16",
@@ -69511,7 +69530,7 @@
   "zoho:virtualcolleague:805869000004420928": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-17T07:17:11+00:00",
+  "hn": "2026-11-17T13:30:03+00:00",
   "remoteok": "2026-11-17T12:48:01+00:00",
   "usajobs": "2026-11-17T11:31:21+00:00",
   "workable_search": "2026-11-17T11:31:21+00:00",

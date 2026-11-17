@@ -1,14 +1,14 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**199 jobs**, newest first. Updated Tue Nov 17, 6:48 AM CST from 12,526 company job boards and other sources.
+**196 jobs**, newest first. Updated Tue Nov 17, 7:30 AM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-131 repeat listings (same company and title in another place or on another source) are merged into one row.
+123 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,166 matching jobs that job sites and feeds listed this week, 278 (23%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,171 matching jobs that job sites and feeds listed this week, 278 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (2)](#tuesday-nov-17-2) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (9)](#sunday-nov-15-9) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (21)](#friday-nov-13-21) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (19)](#tuesday-nov-10-19)
+Jump to: [Tue 17 (2)](#tuesday-nov-17-2) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (9)](#sunday-nov-15-9) · [Sat 14 (76)](#saturday-nov-14-76) · [Fri 13 (21)](#friday-nov-13-21) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (16)](#tuesday-nov-10-16)
 
 ## Tuesday, Nov 17 (2)
 
@@ -225,7 +225,7 @@ Jump to: [Tue 17 (2)](#tuesday-nov-17-2) · [Mon 16 (26)](#monday-nov-16-26) · 
 | 5:30 AM | [Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch](https://jobs.elastic.co/jobs?gh_jid=8378070&gh_jid=8378070) | Elastic | United States | 43 | senior title, years not stated |
 | 2:28 AM | [Senior Software Engineer](https://jobs.lever.co/jobgether/423eec1b-a832-47de-84a5-476f5e085488) | Jobgether | US (remote) | 30 | 4+ yrs exp; senior title; requires Java |
 
-## Tuesday, Nov 10 (19)
+## Tuesday, Nov 10 (16)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -245,9 +245,6 @@ Jump to: [Tue 17 (2)](#tuesday-nov-17-2) · [Mon 16 (26)](#monday-nov-16-26) · 
 | date only | [Senior Platform Engineer, Kafka and Streaming Data](https://tsys.wd1.myworkdayjobs.com/TSYS/job/CINCINNATI-OHIO/Senior-Platform-Engineer--Operational-Data-Store_R0076735) | Global Payments | CINCINNATI, OHIO; ALPHARETTA, GEORGIA (hybrid) | 33 | senior title, years not stated; requires Java |
 | date only | [Sr. Software Engineer](https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Sr-Software-Engineer_31164104) | Abbott | United States - Illinois - Abbott Park | 28 | 4+ yrs exp; senior title; no future H-1B sponsorship; requires Java |
 | 9:24 AM | [Java Full Stack Engineer - Professional](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/705429) | HEXAWARE | United States | 53 |  |
-| 7:20 AM | [Senior Associate, Full-Stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/80851) | BNY | Jersey City, NJ, United States; New Yor… (onsite) | 48 | entry-level title; 3+ yrs exp; senior title; requires Java; repost |
-| 7:20 AM | [Senior Associate, Full-Stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/BNY/job/80851) | Eofe Fa Us2 Oraclecloud Com | Jersey City, NJ, United States; New Yor… (onsite) | 43 | entry-level title; 3+ yrs exp; senior title; requires Java |
-| 6:50 AM | [Java Fullstack Software Engineer (Spring Boot / Angular)](https://jobs.lever.co/jobgether/ed585bb6-9f21-45ef-b606-7d0a0715d03c) | Jobgether | US (remote) | 45 | 3+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (311)
 
