@@ -1,12 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**192 jobs**, newest first. Updated Tue Nov 17, 12:50 PM CST from 12,526 company job boards and other sources.
+**192 jobs**, newest first. Updated Tue Nov 17, 1:50 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 124 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,283 matching jobs that job sites and feeds listed this week, 305 (23%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,291 matching jobs that job sites and feeds listed this week, 305 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 17 (12)](#tuesday-nov-17-12) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (3)](#tuesday-nov-10-3)
 
@@ -242,7 +242,7 @@ Jump to: [Tue 17 (12)](#tuesday-nov-17-12) · [Mon 16 (26)](#monday-nov-16-26) �
 | 7:12 PM | [Senior Software Engineer, Metadata Platform](https://job-boards.greenhouse.io/boxinc/jobs/8375923) | Box | Redwood City, CA, United States | 33 | 4+ yrs exp; senior title; requires Java |
 | 5:34 PM | [Software Engineer II](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303784) | Uber | San Francisco, CA, United States; New Y… | 28 | requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (316)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (318)
 
 <details><summary>Show</summary>
 
@@ -257,6 +257,8 @@ Jump to: [Tue 17 (12)](#tuesday-nov-17-12) · [Mon 16 (26)](#monday-nov-16-26) �
 | 8:55 AM | [Senior Software Engineer - Austin, TX](https://careers.teamviewer.com/jobs/8756713-senior-software-engineer-austin-tx) | Teamviewer | Austin, United States (hybrid) | 35 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:33 AM | [Senior Software Engineer, Data Solutions](https://jobs.lever.co/jobgether/ee727b71-350c-400a-9071-74ca4444772b) | Jobgether | US (remote) | 27 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 11:13 PM | [Senior Full Stack Engineer, Java & Kubernetes Focus](https://jobs.lever.co/jobgether/6b7d4699-9948-48b8-a57c-079cfb1c3dda) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| 11:00 PM | [Expert Software Developer](https://careers-markon.icims.com/jobs/8858/expert-software-developer/job) | Markon | Chantilly, VA, United States | 30 | rules: 11+ yrs exp; requires Java; needs: TS/SCI clearance |
+| 11:00 PM | [Software Engineer](https://careers-riversideresearch.icims.com/jobs/4529/software-engineer/job) | Riverside Research | Lexington, MA, United States | 30 | rules: 8+ yrs exp; requires Java; needs: Security Clearance |
 | 10:05 PM | [Sr. Software Engineer, Safety](https://job-boards.greenhouse.io/xai/jobs/5297314007) | xAI | Palo Alto, CA | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 8:54 PM | [Sr. Software Engineer, Ads Serving](https://job-boards.greenhouse.io/xai/jobs/5297207007) | xAI | Palo Alto, CA | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 4:10 PM | [Senior Software Engineer](https://johndeere.eightfold.ai/careers/job/137484016472) | John Deere | Moline, IL, US (onsite) | 35 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
