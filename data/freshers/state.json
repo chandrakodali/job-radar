@@ -11654,8 +11654,9 @@
    "since": "2026-11-13"
   },
   "ashby:Oso": {
+   "disabled_until": "2026-11-24",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-17"
   },
   "ashby:Tempo": {
@@ -11695,8 +11696,9 @@
    "since": "2026-11-13"
   },
   "ashby:browserbase": {
+   "disabled_until": "2026-11-24",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-17"
   },
   "ashby:chainlink-labs": {
@@ -11965,17 +11967,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 87,
+   "n": 88,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 87,
+   "n": 88,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 87,
+   "n": 88,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -65784,6 +65786,7 @@
   "avature:metlife.avature.net|en_US/ml:21584": "2026-11-16",
   "avature:metlife.avature.net|en_US/ml:21585": "2026-11-16",
   "avature:metlife.avature.net|en_US/ml:21587": "2026-11-13",
+  "avature:metlife.avature.net|en_US/ml:21680": "2026-11-17",
   "avature:mgl.avature.net|internalcareers:19632": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:22263": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:23521": "2026-11-15",
@@ -68188,6 +68191,7 @@
   "eightfold:globalfoundries:563980770505953": "2026-11-14",
   "eightfold:globalfoundries:563980770506168": "2026-11-17",
   "eightfold:globalfoundries:563980770835351": "2026-11-16",
+  "eightfold:globalfoundries:563980770945694": "2026-11-17",
   "eightfold:globalfoundries:563980770991580": "2026-11-14",
   "eightfold:globalfoundries:563980771018253": "2026-11-14",
   "eightfold:globalfoundries:563980771018265": "2026-11-14",
@@ -68197,6 +68201,7 @@
   "eightfold:hp:45095764": "2026-11-16",
   "eightfold:hp:45394875": "2026-11-14",
   "eightfold:hp:45394878": "2026-11-14",
+  "eightfold:hp:45496791": "2026-11-17",
   "eightfold:infineon:563808971922173": "2026-11-14",
   "eightfold:infineon:563808972336535": "2026-11-14",
   "eightfold:johndeere:137483370937": "2026-11-14",
@@ -68250,6 +68255,7 @@
   "eightfold:ngc:1340075356001": "2026-11-16",
   "eightfold:ngc:1340075356752": "2026-11-16",
   "eightfold:ngc:1340075356770": "2026-11-16",
+  "eightfold:nvidia:893392914910": "2026-11-17",
   "eightfold:nvidia:893396228167": "2026-11-16",
   "eightfold:nvidia:893397444101": "2026-11-16",
   "eightfold:nvidia:893397742060": "2026-11-15",
@@ -69173,6 +69179,7 @@
   "greenhouse:eu:ebury:5024254101": "2026-11-13",
   "greenhouse:eu:ebury:5027392101": "2026-11-13",
   "greenhouse:eu:ebury:5035593101": "2026-11-13",
+  "greenhouse:eu:groupon:5031343101": "2026-11-17",
   "greenhouse:eu:imc:4960533101": "2026-11-13",
   "greenhouse:eu:stubhubinc:5027626101": "2026-11-13",
   "greenhouse:eu:veeamsoftware:5020564101": "2026-11-16",
@@ -73048,6 +73055,7 @@
   "jobvite:sumitomo-electric:oCxmbfwq": "2026-11-15",
   "jobvite:sumitomo-electric:oU3PAfw6": "2026-11-15",
   "jobvite:sumitomo-electric:oe2Rbfw2": "2026-11-15",
+  "jobvite:sumitomo-electric:ogV7AfwC": "2026-11-17",
   "jobvite:sumitomo-electric:ohpuAfwu": "2026-11-15",
   "jobvite:sumitomo-electric:opHSyfwg": "2026-11-15",
   "jobvite:sumitomo-electric:otroAfwC": "2026-11-15",
@@ -73201,6 +73209,7 @@
   "lever:jobgether:245f6ecd-50b9-409a-b458-7d2d605c9b5b": "2026-11-14",
   "lever:jobgether:25f8ac01-c5a3-495d-b94c-848bcb7f2197": "2026-11-14",
   "lever:jobgether:26da764c-acd0-4260-ad0a-5f5d10f6424a": "2026-11-14",
+  "lever:jobgether:28b49937-4e23-403a-ad26-a2781e2340c9": "2026-11-17",
   "lever:jobgether:293f6992-4f40-47d1-878e-def8a620d7ab": "2026-11-14",
   "lever:jobgether:29606d63-708e-48e0-b583-a2d9dbb12a63": "2026-11-16",
   "lever:jobgether:2b7241b1-6f6a-451b-8aca-ca78a004479e": "2026-11-16",
@@ -73227,6 +73236,7 @@
   "lever:jobgether:5d0fef63-09b8-4295-bd8c-1325509adaa0": "2026-11-14",
   "lever:jobgether:5df96346-5418-4694-88cc-fe6b4a043509": "2026-11-14",
   "lever:jobgether:5f924f1e-6a55-4bcb-b2c6-55e0e8748441": "2026-11-14",
+  "lever:jobgether:608facf5-7703-40ab-bf4c-d237a8136871": "2026-11-17",
   "lever:jobgether:616e390a-1e5b-4902-aeb5-5f0d6f6eef5d": "2026-11-16",
   "lever:jobgether:6337ff85-7392-47de-9695-47d00d2c9aba": "2026-11-17",
   "lever:jobgether:65a1156a-de46-49fd-8413-39a2b0b92b26": "2026-11-16",
@@ -73275,6 +73285,7 @@
   "lever:jobgether:ace3fe36-e630-4fb9-a84c-c97a6ce9d37d": "2026-11-14",
   "lever:jobgether:b01674d2-7838-4292-ab20-c26429a1a814": "2026-11-14",
   "lever:jobgether:b45aadee-df74-4ad4-8acd-f23de8ee8060": "2026-11-14",
+  "lever:jobgether:b8941cce-1efd-4929-92f4-ad17507a0b58": "2026-11-17",
   "lever:jobgether:b9103f1b-f449-411d-8750-b9ae81c34d67": "2026-11-14",
   "lever:jobgether:bbd011d9-382f-4f14-a2ee-0516f4ac407a": "2026-11-17",
   "lever:jobgether:bd763265-759c-4f88-bf0e-819c490842b5": "2026-11-14",
@@ -73283,6 +73294,7 @@
   "lever:jobgether:c3e6c562-da79-4e0d-8f8c-9daa7b7b5081": "2026-11-14",
   "lever:jobgether:c458c5ea-e3d4-43cb-b091-f6533e1b1a6e": "2026-11-14",
   "lever:jobgether:c4af6e24-4639-43d0-948f-2a01b8935837": "2026-11-16",
+  "lever:jobgether:c6061570-2bc9-42bc-8daa-92407abafe68": "2026-11-17",
   "lever:jobgether:c6445be2-ca67-4f3f-9e73-ae6bf376ed50": "2026-11-14",
   "lever:jobgether:c70a0291-5fad-4e0c-a62a-cfb3b176e229": "2026-11-14",
   "lever:jobgether:c9534b21-105a-4981-9b07-029f0fc5b9a5": "2026-11-16",
@@ -73295,6 +73307,7 @@
   "lever:jobgether:da2366e5-c960-421a-9172-4bebe1c8fcec": "2026-11-14",
   "lever:jobgether:dac12f33-a21f-414a-940c-581febb53b93": "2026-11-16",
   "lever:jobgether:dd0c5f4a-edac-4da0-946c-1b74be1aa7db": "2026-11-14",
+  "lever:jobgether:df6f9635-23c0-48e6-b325-9eeb0a8727d0": "2026-11-17",
   "lever:jobgether:e061361d-7947-4476-ace6-b0e65b097d13": "2026-11-14",
   "lever:jobgether:e780bc34-5595-46df-b095-3a73cc4a905e": "2026-11-14",
   "lever:jobgether:e9ace1b9-1de8-4993-88f6-03cb19a620e8": "2026-11-16",
@@ -73766,6 +73779,10 @@
   "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:234274": "2026-11-16",
   "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:234312": "2026-11-14",
   "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com|CX_1029:16481": "2026-11-17",
+  "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com|CX_1029:16488": "2026-11-17",
+  "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com|CX_1029:16489": "2026-11-17",
+  "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com|CX_1029:16490": "2026-11-17",
+  "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com|CX_1029:16491": "2026-11-17",
   "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:39552": "2026-11-13",
   "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41266": "2026-11-13",
   "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41505": "2026-11-13",
@@ -77403,6 +77420,7 @@
   "workday:abb|wd3|external_career_page:JR00037681": "2026-11-13",
   "workday:abb|wd3|external_career_page:JR00038014": "2026-11-14",
   "workday:abb|wd3|external_career_page:JR00038145": "2026-11-13",
+  "workday:abb|wd3|external_career_page:JR00039247": "2026-11-17",
   "workday:abb|wd3|external_career_page:JR00043867": "2026-11-13",
   "workday:abb|wd3|external_career_page:JR00044650": "2026-11-13",
   "workday:abb|wd3|external_career_page:JR00047373": "2026-11-14",
@@ -77412,7 +77430,9 @@
   "workday:abb|wd3|external_career_page:JR00050116": "2026-11-13",
   "workday:abb|wd3|external_career_page:JR00050322": "2026-11-13",
   "workday:abb|wd3|external_career_page:JR00050960": "2026-11-14",
+  "workday:abb|wd3|external_career_page:JR00051192": "2026-11-17",
   "workday:abb|wd3|external_career_page:JR00051650": "2026-11-13",
+  "workday:abb|wd3|external_career_page:JR00053070": "2026-11-17",
   "workday:abb|wd3|external_career_page:JR00053153": "2026-11-14",
   "workday:abb|wd3|external_career_page:JR00053245": "2026-11-13",
   "workday:abinbev|wd1|USA:30103911": "2026-11-13",

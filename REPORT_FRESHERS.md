@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**698 jobs**, newest first. Updated Tue Nov 17, 2:16 AM CST from 12,526 company job boards and other sources.
+**700 jobs**, newest first. Updated Tue Nov 17, 3:16 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,14 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 2,483 matching jobs that job sites and feeds listed this week, 461 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (2)](#tuesday-nov-17-2) · [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (90)](#tuesday-nov-10-90)
+Jump to: [Tue 17 (4)](#tuesday-nov-17-4) · [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (90)](#tuesday-nov-10-90)
 
-## Tuesday, Nov 17 (2)
+## Tuesday, Nov 17 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Software Engineer I](https://www.metlifecareers.com/en_US/ml/JobDetail/Software-Engineer-I/21680) | MetLife |  | 70 | entry-level title; location unclear |
+| 3:05 AM | [Technical Support Engineer- Healthcare](https://jobs.lever.co/jobgether/608facf5-7703-40ab-bf4c-d237a8136871) | Jobgether | US (remote) | 72 | 1+ yrs exp |
 | 2:23 AM | [Machine Learning Engineer](https://jobs.lever.co/jobgether/14392006-a041-4d52-a5fa-236149b99477) | Jobgether | US (remote) | 72 | 1+ yrs exp |
 | 1:46 AM | [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://jobs.lever.co/jobgether/f4b092a6-63f4-4209-897e-eb386e4aa422) | Jobgether | US (remote) | 72 | entry-level title |
 
@@ -748,7 +750,7 @@ Jump to: [Tue 17 (2)](#tuesday-nov-17-2) · [Mon 16 (60)](#monday-nov-16-60) · 
 | 5:04 AM | [IT System Engineer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016750616-it-system-engineer) | Cityofnewyork | Bronx, NY, United States | 63 | entry level (from the text) |
 | 5:00 AM | [Associate Solution Consultant](https://jobs.ashbyhq.com/socure/f2330d9e-1c1d-493e-adb7-e7602efc789f) | Socure | Hub - New York; Hub - San Francisco; Hu… (hybrid) | 68 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3308)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3313)
 
 <details><summary>Show</summary>
 
@@ -761,7 +763,12 @@ Jump to: [Tue 17 (2)](#tuesday-nov-17-2) · [Mon 16 (60)](#monday-nov-16-60) · 
 | date only | [Systems Development Engineer, DC Robotics, Data Center Robotics](https://www.amazon.jobs/en/jobs/10606820/systems-development-engineer-dc-robotics-data-center-robotics) | Amazon Data Services, Inc. | Seattle, Washington, USA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Clearable Data Center Technician, Infraops AG](https://www.amazon.jobs/en/jobs/10604670/clearable-data-center-technician-infraops-ag) | Amazon Data Services, Inc. | Aurora, Colorado, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
 | date only | [Clearable Data Center Technician, Data Center Operations](https://www.amazon.jobs/en/jobs/10597767/clearable-data-center-technician-data-center-operations) | Amazon Web Services, Inc. | Aurora, Colorado, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
-| 1:45 AM | [Systems Analyst Consultant](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/16481) | Zachry Group | Houston, TX, United States | 45 | rules: 15+ yrs exp; asks for 15+ years of experience |
+| date only | [AI enabled Device Modeling Engineer](https://globalfoundries.eightfold.ai/careers/job/563980770945694) | Globalfoundries | Austin, TX, US; IL,US (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Software Validation Engineer](https://nvidia.eightfold.ai/careers/job/893392914910) | Nvidia | Yokne'am Illit, North District, IL (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 4:13 AM | [Test Developer](https://jobs.lever.co/jobgether/df6f9635-23c0-48e6-b325-9eeb0a8727d0) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 3:40 AM | [Security Analyst (Cyber Risk & GRC)](https://jobs.lever.co/jobgether/c6061570-2bc9-42bc-8daa-92407abafe68) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 3:07 AM | [Practice Support Specialist](https://jobs.lever.co/jobgether/28b49937-4e23-403a-ad26-a2781e2340c9) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 3:06 AM | [Systems Analyst Consultant](https://fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1029/job/16491) | Zachry Group | Houston, TX, United States | 45 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 1:26 AM | [Applied Science Platform Engineer](https://jobs.ashbyhq.com/StandInsurance/98980cc7-8acb-4987-ba81-ca86844e81d8) | Stand Insurance | San Francisco (onsite) | 60 | rules: 3+ yrs exp; no future H-1B sponsorship; asks for 3+ years of e… |
 | 1:13 AM | [Security Operations Engineer](https://jobs.lever.co/jobgether/96149835-6212-4058-887b-c0f304324a2a) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:02 AM | [Network Automation Engineer](https://jobs.lever.co/jobgether/1e1bcbb9-970a-420d-808a-853e8ae7ad7b) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; needs: Public Trust Clearance |
@@ -1149,10 +1156,5 @@ Jump to: [Tue 17 (2)](#tuesday-nov-17-2) · [Mon 16 (60)](#monday-nov-16-60) · 
 | 4:19 PM (seen) | [Software Engineer](https://app.dover.com/apply/atomic-invest/536f1a4a-901c-4b29-a4e0-3b96ea99ddac) | Atomic Invest | New York City, NY; United States (hybrid) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 3:12 PM | [Software Engineer, iOS](https://jobs.ashbyhq.com/mirage/d9805fdf-950e-45ec-b9be-be18f1cb6b5e) | Mirage | Union Square, New York City | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 3:12 PM | [Software Engineer, Backend](https://jobs.ashbyhq.com/mirage/5de29162-c5ca-41ad-b8fa-e4bfa8a2b145) | Mirage | Union Square, New York City | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 3:11 PM | [Software Engineer, AI Developer Platform](https://jobs.ashbyhq.com/mirage/894f89d9-8687-462f-8040-9ac535214885) | Mirage | Union Square, New York City | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 3:11 PM | [Software Engineer, Agents](https://jobs.ashbyhq.com/mirage/e3ea3be5-779b-4488-813b-7debc6996c45) | Mirage | Union Square, New York City | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:59 PM (seen) | [Firmware Engineer](https://app.careerpuck.com/job-board/butterflymx/job/sNigvuqz) | Butterflymx | Irvine Office/Warehouse (onsite) | 35 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| 2:59 PM (seen) | [Implementation Specialist - Payer Operations](https://app.careerpuck.com/job-board/color-health/job/Ms0rNw6w) | Color Health | South San Francisco, California, Remote… (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:59 PM (seen) | [IT Support Technician](https://app.careerpuck.com/job-board/blinkhealth/job/fAsnsd2x) | Blinkhealth | St. Louis, MO | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
