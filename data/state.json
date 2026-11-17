@@ -11746,11 +11746,6 @@
   "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-16"
  },
  "fails": {
-  "apple:usa": {
-   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
-   "n": 1,
-   "since": "2026-11-17"
-  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-18",
    "err": "HTTP 404",
@@ -12089,17 +12084,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 204,
+   "n": 205,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 204,
+   "n": 205,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 204,
+   "n": 205,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14968,7 +14963,7 @@
   ],
   "2026-11-17": [
    131,
-   351
+   357
   ]
  },
  "resolved": {
@@ -65866,9 +65861,12 @@
   "ashby:cursor:359cb8e6-77e8-4a77-be67-a39eb46d2c10": "2026-11-10",
   "ashby:cursor:39386c17-568f-4f9c-b8de-e641c092deaa": "2026-11-10",
   "ashby:ddn:56e7c934-aab6-46e3-a73f-5accda93f6e2": "2026-11-12",
+  "ashby:delinea:54696b49-9725-45b6-8285-35fbf95839d6": "2026-11-17",
   "ashby:delinea:8f3d5b22-d8d7-492e-ad47-343987f00c7e": "2026-11-12",
   "ashby:dyna-robotics:be2f88d7-bcdf-4b24-9a53-92a93e38e744": "2026-11-12",
+  "ashby:e2b:13bf49f5-f2e8-459b-baa4-d8f844e1f9f5": "2026-11-17",
   "ashby:e2b:657ce888-be70-46cf-975f-ca7788694fdc": "2026-11-09",
+  "ashby:e2b:b183352f-bfbb-42fa-9e8f-a03f42162b74": "2026-11-17",
   "ashby:elevenlabs:750a8325-7ce1-45ea-b0b1-61dab78a456e": "2026-11-07",
   "ashby:elevenlabs:ce3d5a59-fb8c-482b-bc3f-60e44576c5e0": "2026-11-07",
   "ashby:ellipsis-health:8c44835f-2bf7-4976-9004-f3707781cd65": "2026-11-17",
@@ -65902,6 +65900,7 @@
   "ashby:hims-and-hers:f2cec81e-5ba5-46a8-83ba-3e298932f786": "2026-11-12",
   "ashby:horizon3ai:fb9e23ad-f91e-45b9-a876-1b404c2bd0ce": "2026-11-12",
   "ashby:hyperbolic:d0d57bcf-8b09-415a-aacd-51b5f50b26de": "2026-11-09",
+  "ashby:junipersquare:a007ede9-5f10-4882-bbf1-a9db1602ebe3": "2026-11-17",
   "ashby:kastle:7f0955a9-335d-49f7-937f-7f4563a688d1": "2026-11-07",
   "ashby:kira:a9f0c04c-a091-426c-b0c1-0ec93d3ad824": "2026-11-13",
   "ashby:kraken.com:6d3b6e08-97ec-4eda-b3ad-bbf5fd955840": "2026-11-10",
@@ -67151,6 +67150,7 @@
   "greenhouse:verkada:5283655007": "2026-11-07",
   "greenhouse:verramobility:4725361006": "2026-11-12",
   "greenhouse:vestwell:8196645003": "2026-11-09",
+  "greenhouse:veterans:8948974002": "2026-11-17",
   "greenhouse:vialogic:5466911008": "2026-11-09",
   "greenhouse:visualconcepts:8205804003": "2026-11-16",
   "greenhouse:voyagertechnologiesinc:4483519009": "2026-11-12",
@@ -70034,11 +70034,11 @@
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-17T14:37:18+00:00",
+  "hn": "2026-11-17T20:37:18+00:00",
   "remoteok": "2026-11-17T19:37:17+00:00",
   "usajobs": "2026-11-17T19:07:19+00:00",
   "workable_search": "2026-11-17T19:07:19+00:00",
-  "wwr": "2026-11-17T19:37:17+00:00",
+  "wwr": "2026-11-17T20:37:18+00:00",
   "yc": "2026-11-17T19:07:19+00:00"
  },
  "title_rules": "c323075b4d70",
