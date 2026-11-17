@@ -11745,11 +11745,6 @@
   "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-16"
  },
  "fails": {
-  "apple:usa": {
-   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
-   "n": 1,
-   "since": "2026-11-17"
-  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-18",
    "err": "HTTP 404",
@@ -12088,17 +12083,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 200,
+   "n": 201,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 200,
+   "n": 201,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 200,
+   "n": 201,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12651,6 +12646,11 @@
    "err": "robots.txt disallows /apply",
    "n": 1,
    "since": "2026-11-11"
+  },
+  "jobvite:liquidweb": {
+   "err": "network error: SSLError",
+   "n": 1,
+   "since": "2026-11-17"
   },
   "lever:BloomTech": {
    "disabled_until": "2026-11-18",
@@ -14966,7 +14966,7 @@
   ],
   "2026-11-17": [
    116,
-   311
+   316
   ]
  },
  "resolved": {
@@ -65983,6 +65983,7 @@
   "ashby:tessera-labs:f151b0cf-86d6-4176-b018-d4f9b8d34df2": "2026-11-07",
   "ashby:tigerdata:8c701831-c4cf-4cc8-a9f0-0afa30474c08": "2026-11-12",
   "ashby:tractable:4295c443-15c0-4c9e-b195-063f0f52e3f2": "2026-11-12",
+  "ashby:trm-labs:1167ee73-5d20-40c0-9f0d-cdf6f1e8988f": "2026-11-17",
   "ashby:trm-labs:223d83e0-50d4-4d96-b9d9-dd0dbf4cc3b0": "2026-11-13",
   "ashby:turquoise-health:21ccc42d-aa61-47d0-8764-aee7cf6ff7ba": "2026-11-13",
   "ashby:voleon:d2e5725d-3cb3-4d7d-b7d6-34659659fd24": "2026-11-13",
@@ -66784,6 +66785,7 @@
   "gem:sadnaconsulting-com:am9icG9zdDpabJlGOl6FS1YEw-XWKuS4": "2026-11-14",
   "gem:sadnaconsulting-com:am9icG9zdDra9KY8u__ubVU1rl-oD77D": "2026-11-14",
   "gem:santehq-com:am9icG9zdDoNyHH99coMvPMbD6vzCk9q": "2026-11-14",
+  "gem:sauron-systems:am9icG9zdDqJNe9XI1xwfxBYKaFYj9O9": "2026-11-17",
   "gem:shorr-careers:am9icG9zdDqlutdmrtld9K_PhMwHHI9X": "2026-11-14",
   "gem:stackyak:am9icG9zdDol51Q0fZUUabpYWXXbSqok": "2026-11-14",
   "gem:stackyak:am9icG9zdDqNdIFd6zGLLTjMYvNVkYXT": "2026-11-14",
@@ -66948,6 +66950,7 @@
   "greenhouse:cssmerge:8938601002": "2026-11-12",
   "greenhouse:cssmerge:8940528002": "2026-11-12",
   "greenhouse:cssmerge:8948166002": "2026-11-17",
+  "greenhouse:cssmerge:8948543002": "2026-11-17",
   "greenhouse:darkwolfsolutions:8105270003": "2026-11-07",
   "greenhouse:darkwolfsolutions:8160102003": "2026-11-07",
   "greenhouse:darkwolfsolutions:8199769003": "2026-11-10",
@@ -67049,6 +67052,7 @@
   "greenhouse:muonspace:5283511007": "2026-11-12",
   "greenhouse:myfitnesspal:8359189": "2026-11-12",
   "greenhouse:natera:6231447004": "2026-11-07",
+  "greenhouse:netskope:8396693": "2026-11-17",
   "greenhouse:newrelic:5479397008": "2026-11-11",
   "greenhouse:newtonresearch:5474117008": "2026-11-12",
   "greenhouse:nisc:8394139": "2026-11-16",
@@ -67242,6 +67246,7 @@
   "icims:careers-bcore.icims.com:3181": "2026-11-09",
   "icims:careers-bcore.icims.com:3205": "2026-11-09",
   "icims:careers-bcore.icims.com:3233": "2026-11-09",
+  "icims:careers-bcore.icims.com:3331": "2026-11-17",
   "icims:careers-berkley.icims.com:14487": "2026-11-09",
   "icims:careers-berkley.icims.com:14814": "2026-11-09",
   "icims:careers-beyondsoft.icims.com:11005": "2026-11-09",
@@ -68119,6 +68124,7 @@
   "oracle:eckb.fa.us2.oraclecloud.com|CX_2:103753": "2026-11-16",
   "oracle:eckb.fa.us2.oraclecloud.com|CX_2:103755": "2026-11-16",
   "oracle:ecnf.fa.us2.oraclecloud.com|CX:301952": "2026-11-12",
+  "oracle:ecyq.fa.em2.oraclecloud.com|CX_1:7850": "2026-11-17",
   "oracle:edbz.fa.us2.oraclecloud.com|CX:25009540": "2026-11-08",
   "oracle:edbz.fa.us2.oraclecloud.com|CX:25019206": "2026-11-08",
   "oracle:edel.fa.us2.oraclecloud.com|CX_2001:18999": "2026-11-08",
@@ -70015,7 +70021,7 @@
   "remoteok": "2026-11-17T17:37:17+00:00",
   "usajobs": "2026-11-17T16:07:16+00:00",
   "workable_search": "2026-11-17T16:07:16+00:00",
-  "wwr": "2026-11-17T17:37:17+00:00",
+  "wwr": "2026-11-17T18:37:31+00:00",
   "yc": "2026-11-17T16:07:16+00:00"
  },
  "title_rules": "c323075b4d70",
