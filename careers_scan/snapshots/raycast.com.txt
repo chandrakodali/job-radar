@@ -1,4 +1,4 @@
-Store Pro AI iOS Windows Teams Enterprise Blog Pricing
+Store Pro AI iOS Windows Teams Enterprise Blog Guides Pricing
 Log in Download
 Log in
 Help us make work frictionless
@@ -60,130 +60,130 @@ Inclusivity
 We come from different backgrounds and reflect our diverse community. We treat each other as we want to be treated.
 Team
 We’re a team who previously helped build products for millions of people across the internet at Spotify, Facebook, Zoho, Google, HackerOne, Rainbow, Cloudflare, and more.
-John Buckley Software Engineer
-Previously a Software Engineer at Colortrix, Olive Toast Software, and Crocodile Clips.
-Cannot go a single day without marmalade.
-Alicia Merlino Software Engineer
-Previously at Attio.
-Was a pharmacist before becoming an engineer. Enjoys sewing and playing music.
-Inga Hampton Product Designer
-Previously at Reddit.
-I'm starting a micro farm & have two donkeys, Ebenezer & Pablo.
 Petr Nikolaev CTO & Co-Founder
 Previously worked at Meta as a Software Engineer on Spark AR and WhatsApp.
 Was a professional poker player before started a normal job as a developer.
-Thomas Mann CEO & Co-Founder
-Previously worked at Meta, working on Spark AR as a Software Engineer.
-Before Raycast, toured through Europe as a DJ.
-Hugo Cuvillier Software Engineer
-Previously worked at Apple and Meta.
-F1 afficionado, eternal tennis learner - loves racing anything with (or without) an engine.
-Johan Thorell iOS Engineer
-Previously at Reason Studios, Bontouch and others.
-Used to slap the bass 4-5 hours every day, now I just slap my keyboard.
-Sorin Muntean Software Engineer
-Previously a Software Engineer at Ottonova, and Internations.org.
-Used to drive an ambulance for the Red Cross.
-Stephanie Leong Community Manager
-Previously built communities at EyeEm and Pitch.
-Andreas Elia Software Engineer
-Previously a Software Engineer at CACI.
-Enjoys hiking, gaming and cinema.
-AEL
-Grzegorz Krukowski Software Engineer
-Previously worked at Memorado, Goodbeans, and Outfittery as an iOS Developer.
-Has worked in the gaming industry for most of his career.
-Pedro Duarte Hype Lead
-Previously helped create Radix, Stitches, and RainbowKit.
-Used to play harmonica in a Rockabilly band.
-Miguel Caetano Dias Founding GTM
-Previously a Senior Solutions Engineer at Cloudflare.
-A jet lag enthusiast with a micro data center in his home office.
-MCD
-Giedrė Blekaitė Software Engineer
-Previously at Pixelmator and Nord Security.
-Is a sucker for Scandinavian blues rock.
-Mathieu Dutour Software Engineer
-Previously an Engineer at GitBook, Sketch, and Enki.
-Learned how to ski, before knowing how to run.
-Beth Staff Head of Finance
-Formerly Finance at Sylvera and Tessian.
-Enjoys adventuring in nature and delicious food.
-Dianne McEwan Engineering Manager
-Previously worked at Buffer, Prodigy Finance amongst others.
-Competed as a professional triathlete and cyclist. Now a mom, trying to keep fit, enjoying the Swiss outdoor life.
-Dhruv Suthar Community Engineer
-Previously Software Engineer 2 at Codal. Loves video games and cats.
-DSS
-Per Nielsen Tikær Technical Community Manager
-Previously a Software Engineer at Klean.
-An educated truck driver who made his first homepage back in 1997.
-PNT
-Samuel Kraft Design Engineer
-Previously worked at Bitrefill, Tracklib and a few others.
-Tirta Wulandari Technical Support Specialist
-Previously worked at Pitch, CrossEngage, and TrustYou.
-Enjoys sewing and is passionate about fabrics.
-Jordan Amblin Product Designer
-Previously worked at Pitch, MetaLab and a few others.
-Enjoys ascending hills on two wheels.
-João Neves Software Engineer
-Previously at Daily.co, Embark Studios, EA DICE and Klarna.
-Plays beach volleyball and takes pictures (mostly of his cat).
-Bruno Reis Video Producer
-Previously at his own video production company.
-Capybara enthusiast.
-Jac Peregrine-Davies Technical Support Specialist
-Previously a Technical Representative at 1Password.
-Knows way too much about the Eurovision Song Contest.
-JPD
-Dany Castillo Software Engineer
-Previously founding engineer at Rise Calendar.
-Only wears black.
 Michael Nielsen UI Engineer
 Previously at Attio, Trackunit
 Huge film lover, especially Korean/Japanese films
-Nichlas Wærnes Andersen Product Designer
-Previously worked as a freelance designer.
-Is officially Raycast’s first employee.
-NWA
-David Claridge Technical Support Specialist
-Previously at Meta, Fidel API and others.
-Enjoys retro tech and gaming. Has a dog called Random.
-DAC
-Ilia Glushchenko Software Engineer
-Previously a Game Developer, worked on Project Deios, Astroneer and Halo Infinite.
-Boulder bro, born and raised in the coldest region on Earth.
+Dhruv Suthar Community Engineer
+Previously Software Engineer 2 at Codal. Loves video games and cats.
+DSS
+Stephanie Leong Community Manager
+Previously built communities at EyeEm and Pitch.
+Alicia Merlino Software Engineer
+Previously at Attio.
+Was a pharmacist before becoming an engineer. Enjoys sewing and playing music.
 Marcin Naglik Software Engineer
 Previously at DataCamp, AirHelp and a few others.
 Enjoys playing pool and watching snooker.
 MNA
+Miguel Caetano Dias Founding GTM
+Previously a Senior Solutions Engineer at Cloudflare.
+A jet lag enthusiast with a micro data center in his home office.
+MCD
 Andrey Nekrasov Software Engineer
 Previously worked on Microsoft projects and AAA games.
 Loves to cycle and explore nature.
+Mathieu Dutour Software Engineer
+Previously an Engineer at GitBook, Sketch, and Enki.
+Learned how to ski, before knowing how to run.
+Pedro Duarte Hype Lead
+Previously helped create Radix, Stitches, and RainbowKit.
+Used to play harmonica in a Rockabilly band.
+Thomas Mann CEO & Co-Founder
+Previously worked at Meta, working on Spark AR as a Software Engineer.
+Before Raycast, toured through Europe as a DJ.
+Inga Hampton Product Designer
+Previously at Reddit.
+I'm starting a micro farm & have two donkeys, Ebenezer & Pablo.
+Alexander Antonov Product Designer
+Previously at Nansen, several design agencies, and Apple.
+Dog walker of Olly the Shiba Inu.
+Johan Thorell iOS Engineer
+Previously at Reason Studios, Bontouch and others.
+Used to slap the bass 4-5 hours every day, now I just slap my keyboard.
+Hugo Cuvillier Software Engineer
+Previously worked at Apple and Meta.
+F1 afficionado, eternal tennis learner - loves racing anything with (or without) an engine.
+Dianne McEwan Engineering Manager
+Previously worked at Buffer, Prodigy Finance amongst others.
+Competed as a professional triathlete and cyclist. Now a mom, trying to keep fit, enjoying the Swiss outdoor life.
+Pavlo Kovalchuk AI Engineer
+Previously worked as a Machine Learning Engineer at Fenergo and Sentinels.
+Enjoys playing basketball, cooking, and hiking.
+Jordan Amblin Product Designer
+Previously worked at Pitch, MetaLab and a few others.
+Enjoys ascending hills on two wheels.
+Alexandr Subbotin Software Engineer
+Previously CTO at Appbooster, creator of Cerebro app.
+Junior FPV-drone pilot.
+Tirta Wulandari Technical Support Specialist
+Previously worked at Pitch, CrossEngage, and TrustYou.
+Enjoys sewing and is passionate about fabrics.
+Beth Staff Head of Finance
+Formerly Finance at Sylvera and Tessian.
+Enjoys adventuring in nature and delicious food.
+Bruno Reis Video Producer
+Previously at his own video production company.
+Capybara enthusiast.
+David Claridge Technical Support Specialist
+Previously at Meta, Fidel API and others.
+Enjoys retro tech and gaming. Has a dog called Random.
+DAC
 Roy van Rooijen Product Designer
 Previously co-founded Sketch Runner, worked at Pitch, and some others...
 Played baseball for 15 seasons.
 RvR
+Jac Peregrine-Davies Technical Support Specialist
+Previously a Technical Representative at 1Password.
+Knows way too much about the Eurovision Song Contest.
+JPD
+Ilia Glushchenko Software Engineer
+Previously a Game Developer, worked on Project Deios, Astroneer and Halo Infinite.
+Boulder bro, born and raised in the coldest region on Earth.
 Marcos Sánchez-Dehesa Software Engineer
 Previously a Software Engineer at Kitchen Stories, and Relayr.
 Would do anything for a good black paella with alioli.
 MSD
-Pavlo Kovalchuk AI Engineer
-Previously worked as a Machine Learning Engineer at Fenergo and Sentinels.
-Enjoys playing basketball, cooking, and hiking.
-Alexander Antonov Product Designer
-Previously at Nansen, several design agencies, and Apple.
-Dog walker of Olly the Shiba Inu.
 Daniel Sequeira Head of Business Operations
 Previously Engineering Manager at Pento, MessageBird and Bynder.
 Was a roller hockey player for 17 years.
+Grzegorz Krukowski Software Engineer
+Previously worked at Memorado, Goodbeans, and Outfittery as an iOS Developer.
+Has worked in the gaming industry for most of his career.
+Sorin Muntean Software Engineer
+Previously a Software Engineer at Ottonova, and Internations.org.
+Used to drive an ambulance for the Red Cross.
+Giedrė Blekaitė Software Engineer
+Previously at Pixelmator and Nord Security.
+Is a sucker for Scandinavian blues rock.
+Per Nielsen Tikær Technical Community Manager
+Previously a Software Engineer at Klean.
+An educated truck driver who made his first homepage back in 1997.
+PNT
+João Neves Software Engineer
+Previously at Daily.co, Embark Studios, EA DICE and Klarna.
+Plays beach volleyball and takes pictures (mostly of his cat).
 Benoît Grélard UI Software Engineer
 Created and maintained Radix UI at Modulz (acquired) and WorkOS.
 I cycle, play piano (was in a band for 10 years!), drive virtual rally cars, love to cook!
-Alexandr Subbotin Software Engineer
-Previously CTO at Appbooster, creator of Cerebro app.
-Junior FPV-drone pilot.
+Andreas Elia Software Engineer
+Previously a Software Engineer at CACI.
+Enjoys hiking, gaming and cinema.
+AEL
+John Buckley Software Engineer
+Previously a Software Engineer at Colortrix, Olive Toast Software, and Crocodile Clips.
+Cannot go a single day without marmalade.
+Samuel Kraft Design Engineer
+Previously worked at Bitrefill, Tracklib and a few others.
+Nichlas Wærnes Andersen Product Designer
+Previously worked as a freelance designer.
+Is officially Raycast’s first employee.
+NWA
+Dany Castillo Software Engineer
+Previously founding engineer at Rise Calendar.
+Only wears black.
 Folks so far
 Countries
 Raypets
@@ -294,7 +294,7 @@ X/Twitter
 Keep up to date with the latest releases, features and improvements.
 Follow
 Product
-Store Pro Teams Pricing Changelog Browser Extension Developers iOS Windows Raycast 2.0 API Docs Manual Troubleshooting Raycast vs Alfred FAQ
+Store Pro Teams Pricing Changelog Browser Extension Developers iOS Windows Raycast 2.0 API Docs Manual Troubleshooting Guides Raycast vs Alfred FAQ
 Core Features
 Raycast AI Raycast Notes Raycast Focus Clipboard History Window Management Snippets File Search Quicklinks Calculator Calendar System Emoji Picker
 Top Extensions

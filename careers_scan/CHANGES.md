@@ -1,637 +1,475 @@
 # Careers page changes
 
-Checked 2026-11-16 23:06 UTC: 1757 pages, 63 changed, 22 look like new postings.
+Checked 2026-11-17 09:48 UTC: 1757 pages, 47 changed, 18 look like new postings.
 
 ## [Cognizant](https://careers.cognizant.com/india-en/)
 
-- added: Delivery Director (Head of GCC)
-- added: BANGALORE, Karnataka, India
-- added: Corporate
-- added: Functional Specialist (ISG)
-- added: KOLKATA, West Bengal, India
-- added: Solution Architect (ISG)
-- removed: Technical Frontier Educator
-- removed: Chennai, Tamil Nadu, India
-- removed: Senior Technical Frontier Educator
-- removed: SPE-Customer Service HC
-- removed: Pune, Maharashtra, India
-
-## [CREEX TEAM](https://creex.team/careers/)
-
-- added: DEBUG
-- added: Layout
-- added: Текущий: careers
-- added: Тип: page
-- added: Kind: page
-- added: Страница
-- added: Title: Вакансии - Присоединяйтесь к команде …
-- added: Path: /careers/
-- added: File: careers.ru.md
-- added: Language: ru
-- added: Тип страницы
-- added: IsPage:
-- added: true
-- added: IsHome:
-- added: false
+- added: Java Developer -Bangalore
+- added: Lead Quality Engineer
+- added: Hyderabad, Telangana, India
+- added: AI-Augmented Software Engineer
+- added: PE-Accounts Payable
+- added: Pune, Maharashtra, India
+- added: Architect
+- added: CHENNAI, Tamil Nadu, India
+- removed: Delivery Director (Head of GCC)
+- removed: Corporate
+- removed: Functional Specialist (ISG)
+- removed: KOLKATA, West Bengal, India
+- removed: Solution Architect (ISG)
 
 ## [dbt Labs](https://www.getdbt.com/about-us/careers)
 
-- added: Principal Partner Solutions Architect (GSI)
-- removed: VP, Total Rewards and People Operations
-- removed: Principal Partner Solutions Architect
+- added: Senior Escalations Manager
 
-## [Etsy](https://careers.etsy.com/)
+## [Employment Hero](https://employmenthero.com/jobs/)
 
-- added: Senior Manager, Product Design (Seller)
-- added: Product Design
-- added: Senior UX Researcher
-- removed: UX Research IC3
-- removed: Senior Staff Product Manager, Agentic Platform
-- removed: Product Mgmt
-
-## [Fire Engine Red](https://www.carnegiehighered.com/about/careers/)
-
-- added: Slate Enrollment Implementations Strategist
-- added: Learn More : Slate Enrollment Implementations Strategist
-- removed: Senior Slate Enrollment Implementations Strategist
-- removed: Learn More : Senior Slate Enrollment Implementations Strategist
+- added: Coffee Trainer – WA
+- added: Employee Service Portal
+- added: FVP – Groups Program Lead – 6.1 PFT
+- added: Tangentyere Council Aboriginal Corporation
+- added: Alice Springs, Northern Territory 0870
+- added: • A$58 – A$61
+- added: Mid-level Senior
+- added: Posted 34 minutes ago
+- added: Education Manager
+- added: Aurora Expeditions
+- added: Surry Hills, New South Wales 2010
+- added: Manager
+- added: Coordinated Response Service (CRS) Case Worker
+- added: (New) Patricia Giles Centre
+- added: Merriwa, Western Australia 6030
+- removed: RC Driller Offsider
+- removed: Aurenne Group Mining
+- removed: Operations Depot Administrator – Newman (Residential)
+- removed: Northfleet
+- removed: Newman, Western Australia 6753
 
 ## [Forem](https://dev.to/t/career)
 
-- added: The Paradox of Wanting: Why Chasing Success Often Takes You Further Away From It
-- added: Sumit Mishra
-- added: # startup
-- added: 10 reactions
-- added: 3 comments
-- added: What are your goals for the week? #205
-- added: Chris Jarvis
-- added: Your First Production Incident, on Localhost: an Open-Source Lab
-- added: Diogo Soares
-- added: # devops
-- added: # typescript
-- added: 15 min read
-- added: Killed by Acronyms
-- added: Felix Coutinho
-- added: # development
-- removed: Software jobs are back, but not for juniors. What I'd build if I were starting in 2026.
-- removed: Onkar Deokate
-- removed: # beginners
-- removed: A Maintainer Asked Me a Design Question on My Armeria PR. Here Is How I Answered It.
-- removed: VINAYAK GOTE
-
-## [Fountain](https://www.fountain.com/role/hiring-managers)
-
-- added: Trusted by +500 of the top frontline employers
-- added: Ask it. Run it.
-- added: Fill your open roles with a single prompt. “Fill my three open roles for next week.”
-- added: Get a demo
-- added: The problem
-- added: Hiring shouldn't cost you your shift.
-- added: You need people on the floor, and hiring arrives as forms, follow-ups and a shortlist that misses what the job actually needs. You run the interviews between shifts, the role stays open, and your team
-- added: Cue for hiring managers
-- added: Watch how Cue brings you people ready for a yes.
-- added: From a single prompt, Cue opens the role, screens the applicants and returns a ranked shortlist with interview notes.
-- added: Run your team. Just Ask .
-- added: Fill my three open roles for next week.
-- added: Give me my shortlist for tomorrow’s interviews.
-- added: Who starts on my team Monday?
-- added: Ask anything
-- removed: Fountain for Hiring Managers
-- removed: Improve your pipeline with a simplified application to hire the right candidates for your business
-- removed: Get Started
-- removed: Don’t let clunky technology prevent you from hiring quickly.
-- removed: You need top talent to start working, fast. But bottlenecks are slowing things down. It doesn’t have to be this way.
+- added: From "It Works" to "I Can Prove It Works": Rethinking My Engineering Workflow
+- added: Matheus Gomes 👨‍💻
+- added: Nov 17
+- added: # softwareengineering
+- added: The Most Overprivileged Account in Our Company Is Mine.
+- added: Dhruv Malaviya
+- added: # security
+- added: # cybersecurity
+- added: 4 reactions
+- added: 2 comments
+- added: How to follow up after an internship application
+- added: Dataford Research
+- added: # internship
+- added: # students
+- added: # beginners
+- removed: The Paradox of Wanting: Why Chasing Success Often Takes You Further Away From It
+- removed: Sumit Mishra
+- removed: # startup
+- removed: 10 reactions
+- removed: 3 comments
 
 ## [Guesty](https://www.guesty.com/careers/)
 
-- added: 36 open positions
-- added: Personal Assistant to the CEO
-- added: Senior Software Engineer
-- removed: 35 open positions
-- removed: Personal Assistant to the CEO & Office Operations
+- added: 37 open positions
+- added: Sales Training Specialist
+- removed: 36 open positions
+
+## [item](https://item.app/careers)
+
+- added: Two colleagues working side by side at a laptop.
+- added: We’re building for a world where companies run on agents. Come invent it with us.
+- added: The next generation of great companies will run agentically .
+- added: Own the problem and see it through. Move from an idea to something real, take responsibility for the result, and build on what you learn. Everyone here has a part in shaping the company.
+- added: Care about the work, the people using it, and the people building it with you. Bring that care to the big decisions and the small details.
+- added: Raise the bar
+- added: Great craft is everyone’s work. In the product, the code, and every customer conversation, leave the standard higher than you found it.
+- added: We build what’s next
+- added: Build for companies where people and agents work together. Keep asking what becomes possible as agents understand more of the business and can do more of the work.
+- added: Put something real in front of people. Watch how they use it, learn what matters, and make the next version better.
+- added: Build what comes next. Join the team at item
+- added: Help build the company brain and agents that tomorrow’s businesses will run on. If you don’t see the right role, tell us what you could bring. Email
+- added: Do your best work here
+- added: We’re building for the long term. Here’s how we support the people making it happen.
+- added: Flexible exercise (early & extended)
+- removed: Careers
+- removed: Five years from now, every company will run with agents. We’re building the system that makes that possible, and we want you to build it with us.
+- removed: Reimagining
+- removed: Software, Together
+- removed: Every few decades, a small group of people reimagine how software works. We think this is one of those moments. And we're hiring the team to make it happen.
+
+## [Jcode](https://jcode.sh/careers)
+
+- added: 2026-11-17 · today
+- added: Changes since v1.0.0
+- added: perf avoid cloning swarm members for visibility predicates
+- added: test extract swarm predicate suite within module size budget
+- added: perf skip topology queries for sequential message arrays
+- added: perf share payload and metrics in one Arc allocation
+- added: perf remove discarded JSON buffers and redundant image copies
+- added: perf reject unrelated routes before repeated identity parsing
+- added: perf consume byte-identical thumbnail resize results directly
+- added: perf clone thumbnail candidates only after cache admission
+- added: bench count jcode tool uses from role=tool history rows
+- added: fix honor pending new-session routing for transcription
+- added: bench default headless memory benchmark to memory-off jcode
+- added: perf pin allocation-free control checks and shared Rust visibility parsing
+- added: perf skip heavy warmups for temporary daemons
+- removed: 2026-10-24 · 23d ago
+- removed: Changes since v0.99.1
+- removed: fix name the cause when a view is rejected, document table cell types
+- removed: commit Fix auto-poke canceling pending cloud handoffs
+- removed: ci add repeatable Linux cloud acceptance gate
 
 ## [Luxoft](https://career.luxoft.com/)
 
-- added: Regular Software Developer - L2/L3 Networking Protocols
-- added: C Embedded
-- added: Senior Data Engineer
-- added: Wroclaw, Poland
-- added: BigData Development
-- added: Senior Software Developer - Manageability & Security
-- added: Senior Azure Databricks Developer
-- added: Remote Poland, Poland
-- added: Other Consulting
-- removed: Murex MxML developer
-- removed: Murex MxML
-- removed: ATS System Software Developer
-- removed: Remote United States, United States of America
-- removed: Python
+- added: Data Architect
+- added: Analytics Solution Architecture
+- added: Senior Java Developer
+- added: Remote Romania, Romania
+- added: Java
+- added: Senior DevOps / Platform Engineer – GDC/GKE Migration
+- added: Pune, India
+- added: DevOps
+- removed: Regular Software Developer - L2/L3 Networking Protocols
+- removed: C Embedded
+- removed: Senior Data Engineer
+- removed: Wroclaw, Poland
+- removed: BigData Development
 
-## [Odoo](https://www.odoo.com/jobs)
+## [Multifactor](https://multifactor.com/company/careers)
 
-- added: All Countries 185
-- added: United Arab Emirates 13
-- added: 185
-- added: Customer Success Manager, Indirect
-- added: Sales / Indirect Customer Success
-- removed: All Countries 186
-- removed: United Arab Emirates 14
-- removed: 186
-- removed: Customer Care Associate (Spanish)
+- added: Our values
+- added: Our public benefit mission is central to everything we do
+- added: We are committed to building a team that shares our values and our mission.
+- added: We’re scientists at heart. We love exploring new ideas and pursuing challenging problems. We believe that great products begin with great technology, and our team is free to innovate in areas that exc
+- added: Mission-driven
+- added: Our mission is to redefine “zero-trust” through applied post-quantum cryptography research. As a public benefit company, we believe our technology can improve the security and privacy of the modern we
+- added: We’re strong believers in open-source software. We don’t believe in security through obscurity, but in clear and open communication. We hold ourselves accountable for our mistakes, and we learn from t
+- added: Our perks
+- added: We value our team members
+- added: Our perks keep our team happy, healthy and fulfilled inside and outside of work, and empower them to do their best work every day.
+- added: Competitive compensation
+- added: We offer a very competitive total package, where every employee is a major owner of our stock.
+- added: Employees are trusted to take paid time off for personal or sick leave, without prescribed limits.
+- added: Wellbeing perks
+- added: We encourage a healthy work-life balance, and can reimburse employees’ reasonable health expenses.
+- removed: Let's build the future of zero-trust identity security
+- removed: Multifactor is a public benefit company on a mission to redefine zero-trust for the modern web. Learn more about our world-class research team, or reach out to explore working together.
+- removed: Explore Roles Contact Us
+- removed: Our Values
+- removed: Our public benefit mission is central to everything we do. We are committed to building a team that shares our values and is passionate about our mission.
 
-## [Ooak Data](https://ooakdata.com/careers)
+## [Open Actuation](https://openactuation.com/careers)
 
-- added: Help us shape the next generation of AI
-- added: Join the team
-- added: Salary range and experience on every role.
-- added: Engineering
-- added: Head of Engineering Paris €100–130K 11+ years
-- added: Lead ML Engineer Paris €90–120K 6+ years
-- added: Lead Software Engineer Paris €80–100K 6+ years
-- added: Senior Data Engineer Paris €65–95K 3+ years 0.10–0.30% equity
-- added: Senior Software Engineer Paris €55–80K 6+ years 0.10–0.30% equity
-- added: Operations & Data
-- added: Chief of Staff Paris €80–100K 6+ years 0.50–1.00% equity
-- added: Lead Counsel, Data Licensing & Privacy Paris €80–100K 6+ years
-- added: Data Quality Specialist Paris €65–80K 6+ years
-- added: Operations Manager, Data & AI Paris €45–60K 1+ year
-- added: Go-to-market
-- removed: Careers
-- removed: Help build the data layer for AI agents
-- removed: We are a small, focused team building the data infrastructure that frontier AI labs use to train and evaluate their agent models. If you care about real-world AI performance, not just benchmark scores
-- removed: How we work
-- removed: Real data over synthetic shortcuts
-
-## [ownCloud](https://owncloud.com/career/)
-
-- added: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1794847805 uolcn 1794847805 wo@kr 1794847805 
-- added: Please send us your application via e-mail to moc.d 1794847805 uolcn 1794847805 wo@kr 1794847805 ow 1794847805 – We will get back to you as soon as possible.
-- removed: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1794757917 uolcn 1794757917 wo@kr 1794757917 
-- removed: Please send us your application via e-mail to moc.d 1794757917 uolcn 1794757917 wo@kr 1794757917 ow 1794757917 – We will get back to you as soon as possible.
-
-## [PumpGTM](https://pumpgtm.com/solutions/hiring-signals)
-
-- added: Mastra Venture backed
-- added: Venture backed
-- added: Adapt Venture backed
-- added: Orchestrator Open source on GitHub
-- added: Browzer Featured on Product Hunt Open case study
-- removed: Mastra $35M raised
-- removed: $57M raised
-- removed: Adapt $10M raised
-- removed: Orchestrator 12k stars on GitHub
-- removed: Browzer #2 Product of the Day Open case study
+- added: Move with us.
+- added: We are hiring engineers and technicians in LA and Orange County. We don’t care where you went to school or what company you are at. Show us what you have built.
+- added: careers@openactuation.com
+- added: If you’ve done the following, we want to talk.
+- removed: Move with us
+- removed: We're hiring engineers and technicians in LA and Orange County. If you've done the following, we want to talk:
+- removed: Write an email to careers@openactuation.com . We don't care where you went to school or what company you're at. Show us what you've built/done and why you're excited about manufacturing motors in the 
 
 ## [pyannoteAI](https://www.pyannote.ai/)
 
-- added: Apply now
-- added: M a k e s e v e r y c o n v e r s a t i o n u n d e r s t a n d a b l e
-- added: Up to 52% lower transcription error
-- added: 1B+ open-source downloads
-- added: 375k+ developers
-- added: 00:04-00:08
-- added: Happy
-- added: 00:13-00:15
-- added: Confident
-- added: 00:25-00:31
-- added: Enthusiasm
-- added: Speaker 1
-- added: Mark
-- added: 00:07-00:12
-- added: Worried
-- removed: Precision-3
-- removed: Try it now!
-- removed: No credit card required
-- removed: Choose a sample audio
-- removed: Or upload your audio
+- added: Precision-3
+- added: Try it now!
+- added: No credit card required
+- added: Choose a sample audio
+- added: Or upload your audio
+- added: Choose file
+- added: MP3, WAV, M4A, MP4, or OGG · Up to 250 MB and 1 hour.
+- added: See when each speaker talks
+- added: Choose a sample or file, then press Run to see speaker turns.
+- added: Get Started
+- removed: Apply now
+- removed: M a k e s e v e r y c o n v e r s a t i o n u n d e r s t a n d a b l e
+- removed: Up to 52% lower transcription error
+- removed: 1B+ open-source downloads
+- removed: 375k+ developers
 
 ## [Revion](https://revion.inc/careers)
 
-- added: Join Revion
-- added: We're looking for exceptional talent across software, hardware, sales and operations to help build repair intelligence.
-- added: See open roles
-- added: Backed by
-- added: Join one of the most talent-dense startups in NYC
-- added: Backed by 8VC and Y Combinator, Revion is solving the hardest problems in automotive repair with one of the most talent-dense teams in New York.
-- added: Our engineering team includes multiple IMO Medalists and IPhO Medalists who chose this work at Revion because it's harder and more real than quant or big tech. Our team has previously worked at Citade
-- added: Our Operations and Sales teams come from a mix of automotive, IB, investing, and consulting backgrounds (former BCG, Morgan Stanley, Toma).
-- added: Meet the founders
-- added: Zaki GW
-- added: Co-Founder & CEO
-- added: Hanbo Xie
-- added: Co-Founder & CTO
-- added: Office
-- added: Open positions
-- removed: Careers
-- removed: Join us in building the future of automotive AI. We're looking for ambitious people who want to make a real impact.
-- removed: Open Positions
-- removed: Join the team
-- removed: Staff Backend Engineer
-
-## [SafeDep](https://safedep.io/)
-
-- added: New Blog: wfx GitHub Actions Credential Stealer Hits 8,000 Repos 12 Nov 2026
-- added: For hands-on security engineering teams
-- added: Software supply chain security at machine speed
-- added: Block malicious packages before they run, on developer machines, AI coding agents, code repositories and CI/CD. Every install is checked against real-time threat intel and your policy, managed from th
-- added: Start Now Talk to a human
-- added: Open core. Free to start: protect your first endpoint or repository, no credit card. SOC 2 Type II · ISO 27001 (SafeDep trust center)
-- added: Prefer your agent?
-- added: Help me roll out SafeDep. Install the SafeDep skill (npx skills add safedep/skills) and learn what SafeDep can do. Then interview me about our setup: developer machines, code repositories, CI/CD, AI c
-- added: Our research, as covered by
-- added: CSO Online
-- added: The Hacker News
-- added: A real attack, replayed
-- added: Three real attacks, and the control that stopped each one
-- added: SafeDep checks every install with three controls: threat intel for known threats, a cooldown that holds back fresh releases, and a sandbox for install scripts. Pick an attack to replay it.
-- added: litellm 1.107.0 PyPI · 21 Oct 2026
-- removed: New Blog: wfx GitHub Actions Credential Stealer Hits 8,000 Repos
-- removed: 12 Nov 2026
-- removed: SafeDep Threat Intel is live Threat Intel is live Explore
-- removed: Your biggest AppSec blind spot is the code you never wrote.
-- removed: Attackers don't target your code. They target what you install: packages, MCP servers, IDE and agent extensions. SafeDep blocks malicious packages at every entry point, before they run.
+- added: 2 open roles
+- added: Founding Engineer (Swedish-speaking) London & Sweden · Full Time
 
 ## [Saleor](https://saleor.io/)
 
-- added: 890,989
-- added: 1,051,550
-- added: Automation. Automate your workflows end-to-end. Enable powerful CI/CD, codify and version everything via commits and Configurator CLI tool.
-- added: Own your stack. Your code. Your data. Your choice of what runs where. Replace any part or move to self-hosting without vendor lock-in.
-- added: Your engineers may not want to work in the programming language they're already proficient with, right? Maybe they don't care about industry standards either. And maybe they love all those obscure DSL
-- added: Our engineers join your team. The code and the data stay yours. Ship faster and scale smarter working with Saleor engineers. Spend time building advantage, not babysitting infrastructure.
-- added: Engineer-led onboarding. You don't have to figure it all out yourself. Our engineers help your team launch.
-- added: Selling in 50 markets in different currencies and languages
-- added: With over 23.6k stars on GitHub , Saleor is a popular open source ecommerce platform.
-- added: Query smarter. Use robust GraphQL for granular control across all your experiences, apps, and services.
-- removed: 426,361
-- removed: 899,768
-- removed: Automation. Automate you workflows end-to-end. Enable powerful CI/CD, codify and version everything via commits and Configurator CLI tool.
-- removed: Own your stack. Control your entire solution and protect the core of your business in a shifting commerce landscape. Say goodbye to the vendor lock-in.
-- removed: Your engineers may not want to work in the programming language they're already proficient with, right? They may not either care about the industry standards. And maybe they love all those obscure DSL
+- added: 526,921
+- added: 5 days ago 3.23.49
+- added: 14 days ago 3.22.77
+- added: 3.23.49 5 days ago
+- added: 3.22.77 14 days ago
+- removed: 890,989
+- removed: 4 days ago 3.23.49
+- removed: 13 days ago 3.22.77
+- removed: 3.23.49 4 days ago
+- removed: 3.22.77 13 days ago
 
-## [Spott](https://spott.io/careers)
+## [ScrapingBee](https://www.scrapingbee.com/scrapers/google-jobs-scraper-api/)
 
-- added: Account Executive (APAC)
-- added: Own the full sales cycle for recruitment agencies in Australia, building our market from day one with your deals, your territory, and your playbook.
-- removed: UI/UX Product Designer
-- removed: Design
-- removed: Own the design of Spott's AI-native recruitment platform, transforming a $1T industry. Shape the look and feel of a YC-backed product used by 500+ agencies in 30+ countries.
-- removed: Customer Support Specialist
-- removed: Operations
+- added: 54 min read
+- added: A Guide to Python Web Scraping, From Requests to Scrapy | ScrapingBee
+- added: Learn web scraping with Python step by step, from your first Requests script to Playwright, Scrapy and a scraping API.
+- added: Ismail Ajagbe
+- added: 30 min read
+- added: Web Scraping Best Practices: Complete 2026 Developer Guide
+- added: Build polite, reliable scrapers in 2026. Follow RFC 9309 robots.txt rules, handle rate limits, avoid blocks, and validate clean data with Python examples.
+- removed: Google SERP Poisoning: How to Get Relevant Search Results With Fast Search
+- removed: Learn about Google SERP poisoning, how it affects search result scraping, and how ScrapingBee's Fast Search API can help retrieve relevant search results.
+- removed: Ilya Krukowski
+- removed: 09 November 2026
+- removed: 33 min read
 
-## [Swadesi Way](https://swadesiway.com/explore)
+## [Tractian](https://careers.tractian.com/)
 
-- added: Showing 1–12 of 196 results
-- added: Price range: ₹50.00 through ₹80.00
-- added: Out of stock
-- added: Flax Seeds
-- added: Black Wheat Daliya
-- added: Shop
-- added: Chat
-- added: Cart
-- removed: Showing 1–12 of 138 results
-- removed: Organic Guava (Fresh Taiwan Pink variety) (Skin has Spots)
-- removed: Price range: ₹100.00 through ₹300.00
-- removed: Organic Guava (Fresh Taiwan Pink variety) (Skin has Spots) quantity
-- removed: Organic Red Dragon Fruit (2-3 pcs/kg)
-
-## [Unsiloed AI](https://www.unsiloed.ai/careers)
-
-- added: ▙▓▓▟▓█▚▟ ░▞▟▙▚▓ ░▚██░░▟░
-- added: ▟▒▓▙█▒▒▒█ ▓██ ▓▙▟█▚▞
-- added: ░█▟░▙▞▚ ▓█░▞▒▟█▙▟▟█░▒
-- added: █▟▞▚▚▚░ ▚
-- added: ░█░▞░▞ ▞▒▒▒ ▓▞░▚ █░▒ █▞░ █░██ ▒█▒▚▚█▚▒
-- added: ▒▞▞▚▚▞ ▒▒▞▟ ▚▓▓▙ ▙█░ ▞▟░ ▟░▞░ ▓▟▚▒▓░▚▙
-- added: ▟▟▟█▒▚ █▞▚░ ▚▒░▞ ▟▓▓ █▓▒ ▓▚▚▒ ▞░█░▟▒▞
-- added: ░▓▙▚▞▞ ▙▚▞░ ▙░██ ▓░▓ █░▓ ▓░▞▚ ░█▙▟▙░▚
-- added: ▞▚▟▟▟▞ ▟▞▒░ ▓▞▒▞ ▟▚▚ ▚█░ ▟█▟▟ ▞▞▙▞█▚▞▞
-- added: ▞▞█░█▓ ▞▟█▙ ▙▟▒▚ ▓▒▓ ▚▟▓ ░▚░█ ▚▚▞▙▞▙▒█
-- added: █▙▙▚░▚ ▓▓░░ ▟░▟▟ ▙▚░ ▙▙▓ ▒▞▒▚ ▟▓▞█▟
-- added: ▚▚▙▓▙█▞█▒▒ ▓
-- added: ▙▒▟█▚▚▟ ▞▞▟▟▓▒ ░░▙▒░░ ▟█▓▙▞
-- added: ▞█▙▒█▟ ░█▞█▞▚ ▒▒░▙
-- removed: █▚▓▟█▟▓▒ ░░▓▚▒░ ▚▓▞▟▞▚▞▟
-- removed: ▞▙▟█▙░▚░█ ▙▞▟ ▞▚▟▒▙▚
-- removed: ▚░▞▒▚░▞ ▚▓▓▓█▚▞▟▙▓▓▞░
-- removed: ▟█▙▚▓▟▒ ▚
-- removed: ▞▚█▓░▚ ▚█▞▓ ▚▙█▞ ▙░▞ ▙▙▞ ░█░░ ▞▚▟▓▞▙░▟
+- added: 104 result(s)
+- added: Senior Sales Recruiter
+- added: Recruiting
+- removed: 103 result(s)
 
 ## [Upworthy](https://www.upworthy.com/jobs-that-pay-well-people-dont-realize/)
 
-- added: In Partnership With Operation Smile →
-- added: An Operation Smile volunteer reverses an oxygen mask so a child with a cleft condition can blow a bubble for the first time in Guadalajara, Mexico. (Operation Smile Photos)
-- added: Family , Science
-- added: How Bubbles Help Kids with Cleft Conditions
-- added: For thousands of children born with cleft conditions, Operation Smile provides simple, playful tools—like bubbles—to strengthen the skills they need to speak and thrive.
-- added: Sarah Watts
-- added: 5/11/2026
-- added: While a bottle of bubbles might seem out of place in a hospital setting, you might be surprised to learn that, for thousands of children around the world born with cleft lip and palate, they can be a 
-- added: As a toddler, Lilia underwent two surgeries to treat cleft lip and palate with Operation Smile’s surgical program in Puebla, Mexico. Because of Operation Smile’s comprehensive care, it wasn’t long bef
-- added: Lilia is now a healthy five-year-old, with the same cheerful attitude and boundless energy. Her progress is the result of care at every level, from surgery to speech therapy to ongoing support at home
-- added: Lilia at age 1, before surgery, and at age 5, 4 years post-surgery
-- added: Cleft Conditions: A Global Problem
-- added: Since 1982, Operation Smile has provided cleft lip and cleft palate surgeries to more than 500,000 patients worldwide with the help of generous volunteers and donors. Cleft conditions are congenital c
-- added: Surgery is a vital step in treating cleft conditions, but it’s also just one part of a much larger solution. Organizations like Operation Smile emphasize the importance of multi-disciplinary teams tha
-- added: Marie, 11 months, with her mother at Operation Smile Madagascar before her cleft surgery (Operation Smile Photos)
-- removed: Watch on
-- removed: Man’s side-splitting monologue on why ‘women don’t want to date’ is frighteningly accurate
-- removed: Generations
-- removed: A hundred years ago, everyone wore hats. In 1960, they suddenly stopped. Here’s why.
-- removed: Pets
+- added: Watch on
+- added: In 1997, Blur recorded a 2-minute song to prank their record label. It became a ’90s anthem.
+- added: People swear these 15 psychological ‘cheat codes’ improve how you’re treated in social situations
+- added: He lost his job and started mowing lawns for free. Now 2,100 volunteers have joined him.
+- added: A 10-year-old boy’s liver saved her life when she was a baby. She just married his little brother.
+- added: Nature
+- added: Peacock breaks into couple’s house just to look in the mirror. Then he leads entire neighborhood on a weeklong chase.
+- added: Generations
+- added: Gen Z woman who went viral for being burned out after one day at ‘grown-up’ job gets laid off
+- added: Education
+- added: A middle school teacher used students breaking their pencils to teach a brilliant lesson about respect
+- added: Evan Porter & Upworthy Staff
+- added: Gen Z is the first generation less cognitively capable than their parents but Denmark has a solution
+- added: Jacalyn Wetzel & Upworthy Staff
+- added: American shares his 9 realizations about the U.S. after 13 years abroad and it’s eye-opening
+- removed: In Partnership With Operation Smile →
+- removed: An Operation Smile volunteer reverses an oxygen mask so a child with a cleft condition can blow a bubble for the first time in Guadalajara, Mexico. (Operation Smile Photos)
+- removed: Family , Science
+- removed: How Bubbles Help Kids with Cleft Conditions
+- removed: For thousands of children born with cleft conditions, Operation Smile provides simple, playful tools—like bubbles—to strengthen the skills they need to speak and thrive.
+
+## [Zeo Route Planner](https://zeorouteplanner.com/category/job-career-opportunities-in-delivery/)
+
+- added: Route Planner Guide 2026: How to Plan Smarter Routes
+- added: Learn what a route planner is, how optimization works, and how to choose the right tool. Compare free vs. paid options and plan your first route today.
+- added: Nimit Mehra • 8 min • November 17, 2026
+- added: See verifiable delivery optimization success stories, real ROI data, and a 30/60/90-day rollout plan before you switch route software in 2026.
+- added: Nimit Mehra • 12 min • November 16, 2026
+- added: Route Optimization Case Studies: Real SMB Data (2026)
+- added: Real route optimization case studies with verified before/after metrics for small fleets. Plus a free ROI calculator to estimate your own savings.
+- added: Nimit Mehra • 9 min • November 15, 2026
+- removed: Construction Delivery Management: Fix Late Job Site Deliveries
+- removed: Learn construction delivery management essentials: project delivery methods vs. logistics, route optimization tips, software comparisons, and a setup guide.
+- removed: Nimit Mehra • 8 min • November 10, 2026
+- removed: Route Planner Guide 2026: How to Pick the Right Tool
+- removed: Confused by route planner options? Compare free tools, Google Maps, and dedicated software to find the right fit for your team in 2026.
 
 ## [Zidisha](https://www.zidisha.org/careers.html)
 
-- added: 309,655
-- added: $21,487,061
-- added: 464,079
-- added: 0 % raised · $25 to go
-- added: I want to use the funds to expand my dry season farm
-- added: Mubi, Nigeria
-- added: By Mohammed Dauda Farming
-- added: 0 % raised · $143 to go
-- added: Performing arts group
-- added: By Ian Entertainment
-- added: 23 % raised · $111 to go
-- added: 20 % raised · $186 to go
-- added: 3 % raised · $600 to go
-- added: Industrial oven for my bakery
-- added: Keffi, Nigeria
-- removed: 309,653
-- removed: $21,486,161
-- removed: 464,063
-- removed: 17 % raised · $121 to go
-- removed: 1 % raised · $231 to go
+- added: 32 % raised · $17 to go
+- added: 0 % raised · $37 to go
+- added: Fashion shoes kitale kenya
+- added: Kitale, Kenya
+- added: By Eliya Clothing Sales
+- added: 7 % raised · $35 to go
+- added: Layers purchase for my poultry
+- added: Niger, Nigeria
+- added: By Elizabeth Livestock
+- removed: 0 % raised · $25 to go
+- removed: I want to use the funds to expand my dry season farm
+- removed: Mubi, Nigeria
+- removed: By Mohammed Dauda Farming
+- removed: 45 % raised · $13 to go
+
+## [Akiflow](https://akiflow.com/careers) (minor change)
+
+- removed: With plenty of chances to connect and grow
+- removed: You'll join passionate teams turning big ideas into reality
+- removed: Design
+- removed: Customer success
+- removed: Quality assurance
 
 ## [Asha Health](https://careers.asha.health/) (minor change)
 
-- added: {"message":"I am alive","env":"production","timestamp":"2026-11-16T23:05:18.334Z"}
-- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-16T08:38:36.188Z"}
+- added: {"message":"I am alive","env":"production","timestamp":"2026-11-17T09:47:01.000Z"}
+- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-16T23:05:18.334Z"}
 
 ## [Bacula Systems](https://www.baculasystems.com/company/careers/) (minor change)
 
-- added: bare metal backup
-- added: ransomware backup protection
-- added: microsoft 365 backup
-- removed: enterprise backup
-- removed: virtual machine backup solutions
-- removed: backup encryption
+- added: backup database
+- added: backup sql database
+- added: rhev backup
+- removed: bare metal backup
+- removed: ransomware backup protection
+- removed: microsoft 365 backup
 
-## [Balance](https://www.getbalance.com/careers/) (minor change)
+## [Buy Me a Coffee](https://buymeacoffee.com/join) (minor change)
 
-- removed: Account Manager
+- added: Privacy Terms
+- removed: Privacy Terms Report
+
+## [Café](https://at.cafe/) (minor change)
+
+- added: Café was instrumental in our transitioning to a hybrid organization. It was super simple to set up and all our teammates adopted the app from day one.
+- added: Jacques-Edouard Sabatier
+- added: Co-founder & CEO
+- added: JOW
+- removed: The choice of Café was made in a context of return to office context and positive reinforcement. Using Café has enabled us to improve employee engagement by offering more visibility and social moments
+- removed: Julien Mangeard
+- removed: Chief Technology Officer
+- removed: Veepee
 
 ## [Casco](https://casco.com/careers) (minor change)
 
-- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-123006
-- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2024-38795
-
-## [CodePen](https://blog.codepen.io/) (minor change)
-
-- added: Chris’ Corner: Sourcemaps
-- added: Sourcemaps aren’t new, but they’re still fascinating. Neciu Dan recently wrote a good overview article. The CSS and JavaScript we write are likely processed before they become the CSS and JavaScript s
-- added: of the article "Chris’ Corner: Sourcemaps"
-- added: November 16, 2026
-- removed: Chris’ Corner: Sweet Typography
-- removed: Choosing beautiful and unusual fonts and implementing them in visually compelling ways is certainly a way to stand out in this period of so many websites looking same-y. I figure it’s a good week to s
-- removed: of the article "Chris’ Corner: Sweet Typography"
+- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-118498
+- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-123006
 
 ## [DappRadar](https://dappradar.com/careers) (minor change)
 
-- added: RAIN $0.0₂600 +73.89% BTW $0.382 -30.97% HASH $0.0₂749 +17.05% AKE $0.0₂997 -11.84% ICP $2.49 +11.54% JUP $0.2421 -9.50% ASTER $0.5674 +8.56% SKYAI $0.0407 +8.15% H $0.0158 -7.29% CPOOL $0.0248 +7.05%
-- removed: RAIN $0.0₂868 +139.89% BTW $0.4527 -30.44% PEARL $1.67 +10.90% H $0.0163 -10.72% CPOOL $0.0251 +10.60% NIGHT $0.0438 -10.15% LIT $2.70 -8.77% QNT $155.11 +6.79% XDC $0.0297 +6.08% SKY $0.052 -5.94% ZR
+- added: RAIN $0.0₂557 -26.19% HASH $0.0₂749 +16.29% M $0.9079 +11.17% NIGHT $0.0481 +10.34% INJ $7.30 +10.03% LIT $3.01 +9.95% ICP $2.43 +9.44% BTW $0.4639 +9.02% LUNC $0.0₄377 +7.90% VELVET $0.0517 +7.58% AS
+- removed: RAIN $0.0₂600 +73.89% BTW $0.382 -30.97% HASH $0.0₂749 +17.05% AKE $0.0₂997 -11.84% ICP $2.49 +11.54% JUP $0.2421 -9.50% ASTER $0.5674 +8.56% SKYAI $0.0407 +8.15% H $0.0158 -7.29% CPOOL $0.0248 +7.05%
 
-## [Dojah Inc](https://dojah.io/careers) (minor change)
+## [Fleet Device Management](https://fleetdm.com/handbook/company#open-positions) (minor change)
 
-- added: Fraud Awareness Week is here! Discover your hidden fraud risks with Dojah’s free assessments. Review Your Defences
-- removed: Dojah is 5! Explore our journey of building trust infrastructure for Africa. Explore Now 🚀
+- added: Login
 
-## [e2e](https://e2e.com/careers) (minor change)
+## [Hypotenuse AI](https://hypotenuse.ai/) (minor change)
 
-- removed: e2e raised $8m to build the software verification layer for the agentic coding era
-
-## [Evrone](https://evrone.com/hiring) (minor change)
-
-- added: +1 415 425 2526
-- added: 44 Tehama St, San Francisco, CA 94105
-- removed: +49 176 24514399
-- removed: Kemperplatz 1, 10785 Berlin
-
-## [Flock Safety](https://www.flocksafety.com/careers) (minor change)
-
-- added: November 16, 2026
-- added: Desert Hot Springs Police Recover $50,000 Stolen Generator Using Flock
-- added: Flock’s Solved Story Hub Showcases Thousands of Crimes Solved, Missing People Found
-- removed: November 9, 2026
-- removed: Flock Drone as First Responder and License Plate Reader Cameras Give Officers Context When Every Second Counts
-- removed: November 4, 2026
-- removed: What We Heard at IACP 2026: Leadership Feedback Shaping Flock’s Next Steps
-
-## [Gerencianet](https://sejaefi.gupy.io/) (minor change)
-
-- added: 3 jobs found for 0 filters applied
-- added: Job for Full-time employee: Pessoa Administradora de Banco de Dados Sênior/Especialista (DBA)
-- added: Full-time employee
-- removed: 2 jobs found for 0 filters applied
-
-## [Infinite Red](https://infinite.red/) (minor change)
-
-- added: Building your apps, anywhere they need to be.
-- removed: Building your software. Anywhere it needs to be.
+- added: The AI-first PIM for ecommerce
+- added: Runs product data enrichment across your catalog, writes on-brand descriptions and perfects catalog images for SEO and GEO.
+- removed: Ready to harness the power of generative AI for your team?
+- removed: Join 500,000+ ecommerce users on Hypotenuse AI.
 
 ## [InfraCloud](https://www.improving.com/careers/) (minor change)
 
-- added: Newsroom
-- added: Improving Launches Internal AI Certification Program to Standardize Trusted AI Use
-- added: Improving has launched a platform-agnostic AI certification focused on trustworthy, demonstrated capability.
-- removed: MLOps Best Practices to Keep Your Machine Learning Models From Dying
-- removed: MLOps best practices for the period after launch: six ways models degrade in production and a quality gate that blocks silent decline before customers notice.
-
-## [Jcode](https://jcode.sh/careers) (minor change)
-
-- added: 4,259
-- added: Default Linux session; tools in context up front, 12 more deferred
-- added: 7,030
-- removed: 4,193
-- removed: Default Linux session; tools in context up front, 13 more deferred
-- removed: 7,033
+- added: How the Ratchet Pattern Keeps AI Code Quality from Slipping Backward
+- added: Review cannot scale when AI agents triple pull request volume. See how the ratchet pattern moves measurable quality checks out of the human review queue.
+- removed: AI Agent Dispatcher Patterns To Survive the Model Swapping
+- removed: The dispatcher pattern picks the right AI model for each task, so your agents keep working when providers change. Here is how it works, and when to use it.
 
 ## [Jinba](https://jinba.io/careers) (minor change)
 
-- added: 50°F
-- removed: 52°F
+- added: 48°F
+- added: 46°F
+- removed: 50°F
+- removed: 59°F
 
-## [lakeFS](https://lakefs.io/careers/) (minor change)
+## [Kaufland e-commerce](https://kaufland-ecommerce.com/en/careers/) (minor change)
 
-- removed: Director of Product Management
-- removed: Remote – US East Coast, Europe or Israel
+- added: JOB OFFERS: 15
+- removed: JOB OFFERS: 16
+- removed: Partner Integration Manager | International
 
 ## [Langfuse](https://langfuse.com/careers) (minor change)
 
-- added: Langfuse is the most widely adopted open-source LLM engineering platform , used by 50,000+ companies , with 37,485 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 o
-- removed: Langfuse is the most widely adopted open-source LLM engineering platform , used by 50,000+ companies , with 37,471 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 o
+- added: Langfuse is the most widely adopted open-source LLM engineering platform , used by 50,000+ companies , with 37,517 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 o
+- removed: Langfuse is the most widely adopted open-source LLM engineering platform , used by 50,000+ companies , with 37,485 GitHub stars , 65M+ SDK installs per month , and 38 M+ Docker pulls . Trusted by 21 o
 
-## [marketfeed](https://www.marketfeed.com/careers) (minor change)
+## [Odoo](https://www.odoo.com/jobs) (minor change)
 
-- added: 3 open roles across Social Media.
-- added: Short-Form Video Editor - Malayalam
-- removed: 2 open roles across Social Media.
+- added: All Countries 184
+- added: Hong Kong 14
+- added: 184
+- removed: All Countries 185
+- removed: Hong Kong 15
+- removed: 185
 
-## [MeteorOps](https://meteorops.com/careers) (minor change)
+## [Ollie Order](https://ollieorder.com/) (minor change)
 
-- added: Anatoliy D.
-- removed: Arseni K.
+- added: Most reviewed craft beverage management software and ERP as of November 17, 2026
+- removed: Most reviewed craft beverage management software and ERP as of November 16, 2026
 
-## [Mirantis](https://www.mirantis.com/careers/) (minor change)
+## [Output Labs](https://www.outputlabs.ai/careers) (minor change)
 
-- added: Foundational NVIDIA AI Cloud ISV Partner
-- added: Omdia Universe Leader, Container Management Products
-- added: Winner, Pinnacle Award for Human Resources
-- removed: undefined
+- added: Announcing our NeurIPS 2026 Oral on Emergent Biological Capabilities in Bonbon Bonbon · NeurIPS 2026 Oral
+- added: Read the blog
 
-## [Muse Group](https://www.mu.se/vacancies) (minor change)
+## [Overshoot](https://overshoot.ai/) (minor change)
 
-- removed: Recruiter
+- added: Sep 4
+- added: Building linear-attention metadata once per step
+- added: 21.0 → 2.0 ms
 
-## [Nhost](https://nhost.io/careers) (minor change)
+## [Raycast](https://www.raycast.com/careers) (minor change)
 
-- added: 0 open roles — find the one that fits.
-- removed: 1 open role — find the one that fits.
-- removed: Engineering
-- removed: Senior Software Engineer, Backend & Operations
-- removed: Design highly available, cloud-native systems and ship product features at the intersection of backend and infrastructure operations.
-- removed: Remote • Full-time
+- added: Store Pro AI iOS Windows Teams Enterprise Blog Guides Pricing
+- added: Store Pro Teams Pricing Changelog Browser Extension Developers iOS Windows Raycast 2.0 API Docs Manual Troubleshooting Guides Raycast vs Alfred FAQ
+- removed: Store Pro AI iOS Windows Teams Enterprise Blog Pricing
+- removed: Store Pro Teams Pricing Changelog Browser Extension Developers iOS Windows Raycast 2.0 API Docs Manual Troubleshooting Raycast vs Alfred FAQ
 
-## [Pibit.ai](https://pibit.ai/career) (minor change)
+## [Screenleap](https://www.screenleap.com/careers) (minor change)
 
-- added: Why Pibit About us Awards Careers Partners
-- added: Guidewire and the Guidewire logo are trademarks or registered trademarks of Guidewire Software, Inc. Other names and logos belong to their owners.
-- removed: Why Pibit About us Awards Careers
+- added: Having problems?
+- added: Welcome to Careers's meeting room
+- added: Careers is not currently sharing his/her screen. Please try again later, or contact Careers for more information.
+- removed: Pricing & sign up
+- removed: Contact sales
+- removed: careers
+- removed: About
+- removed: Press
 
-## [Plex](https://www.plex.tv/careers/) (minor change)
+## [SerpApi](https://serpapi.com/careers) (minor change)
 
-- removed: Plex Gear
-
-## [Proxmox](https://www.proxmox.com/en/about/about-us/careers) (minor change)
-
-- added: You will use email and ticketing systems to provide timely responses to clients and help them keep their IT systems fully functional (no phone support).
-- removed: You will use email and ticketing systems to provide timely responses to clients and help them keep their IT systems fully functional (no phone support, no 24/7).
-
-## [Pydantic](https://pydantic.dev/about) (minor change)
-
-- added: Pydantic 29.5k
-- added: Pydantic AI 21.2k
-- removed: Pydantic 29.4k
-- removed: Pydantic AI 21.1k
-
-## [Redgate Software](https://www.red-gate.com/our-company/careers/current-opportunities/) (minor change)
-
-- added: PASS Summit 2027: North America and Europe | Register now
-- added: Cambridge ( 5 )
-- added: People
-- added: People Partner (Tech & Product)
-- removed: PASS Summit West 2026, November 9-11 | Register now
-- removed: Cambridge ( 6 )
-- removed: Technical Operations
-- removed: Infrastructure Engineer
-- removed: Senior Software Engineer, Foundry
-
-## [Rubbrband](https://www.rubbrband.com/careers/) (minor change)
-
-- added: Open roles
-- added: A different discipline?
-- added: Send your work to [email protected] .
-- removed: No. Role Location
-- removed: AI Creative Company
-
-## [ScrapingBee](https://www.scrapingbee.com/scrapers/google-jobs-scraper-api/) (minor change)
-
-- added: Web Scraping with Jev: What’s Possible and How to Do It
-- added: Learn how to use Jev for web scraping workflows. Classify, score, and filter scraped data using structured probabilistic outputs with practical Python examples.
-- added: Karthik Devan
-- added: 16 November 2026
-- removed: 18 min read
-- removed: The Real Cost of DIY vs. Buying Scraping Infrastructure (2026)
-- removed: Compare the hidden costs of building web scraping infrastructure vs. buying a managed API. Breakdown of proxies, maintenance, headless browsers, and pricing.
-- removed: 30 October 2026
-
-## [Skill-lync](https://skill-lync.com/recent-placements) (minor change)
-
-- added: Updated 17 Nov 2026
-- removed: Updated 16 Nov 2026
+- removed: PHP Developer Advocate
+- removed: We’re looking for a PHP Developer Advocate to help expand our reach within the PHP community. In this role, you’ll be the bridge between the community and our team—creating useful content, building ex
 
 ## [Spree Commerce](https://spreecommerce.org/join-us-in-new-york-city-on-june-28-29th-for-opencommerce-conf-2016/) (minor change)
 
-- added: Sales Channels in Spree Commerce: Sell Everywhere From One Backend
-- removed: The Spree Commerce CLI: Get More Done With Less Busywork
+- added: The Spree Commerce CLI: Get More Done With Less Busywork
+- removed: Sales Channels in Spree Commerce: Sell Everywhere From One Backend
 
-## [SuperTokens](https://supertokens.com/careers) (minor change)
+## [Swadesi Way](https://swadesiway.com/explore) (minor change)
 
-- added: Know more!
-- added: Read more case studies
-
-## [Telmai](https://www.telm.ai/careers/) (minor change)
-
-- added: What’s New With Telmai – 2026
-- added: Nov 16, 2026
-- removed: Telmai on the Google Cloud Lakehouse: A Trust Layer Built for Joint Customers
-- removed: Jun 25, 2026
+- added: Organic Golden Custard Apple (Semi Ripe)
+- added: Price range: ₹180.00 through ₹340.00
+- added: Organic Golden Custard Apple (Semi Ripe) quantity
+- removed: Organic Lehsun/Garlic
+- removed: ₹ 40.00
+- removed: Organic Lehsun/Garlic quantity
+- removed: Desi Moringa Fresh Leaves
+- removed: ₹ 30.00
 
 ## [The Centre for Effective Altruism](https://www.effectivealtruism.org/careers) (minor change)
 
-- added: 35 subscribed today
-- removed: 23 subscribed today
+- added: 32 subscribed today
+- removed: 35 subscribed today
 
-## [The Juggernaut](https://www.thejuggernaut.com/) (minor change)
+## [The Essential](https://theessential.com/pages/join) (minor change)
 
-- added: The Famine Britain Called an Act of God
-- added: The Madras Famine of 1876-78 killed millions of Indians. Then it disappeared from our collective memory.
-- added: Jever Kohli-Mariwala
-- removed: She married into Sikkim royalty and fought for the region’s autonomy. Then came the allegations she was a CIA honeypot.
-- removed: Isha Banerjee
-- removed: Film & TV
-- removed: Why This Celebrity Marriage Feels So Familiar
+- added: Kubus 25% Off
+- removed: Mirrors & Clocks 19% Off
 
-## [Uhuru](https://uhurunetwork.com/digital-marketing-careers/) (minor change)
+## [Tokenless](https://usetokenless.com/careers) (minor change)
 
-- added: Bahis endÃ¼strisinde ortalama kullanÄ±cÄ± memnuniyet oranÄ± %85 civarÄ±ndadÄ±r, ancak paribahis bu oranÄ± %92â€™ye Ã§Ä±karmÄ±ÅŸtÄ±r.
-
-## [Velontra](https://velontra.com/careers/) (minor change)
-
-- added: Velontra is not currently hiring. If you would like to be considered in the future, please use the application below.
-- removed: Propulsion Responsible Engineer
-- removed: Expand
-- removed: Principal Turbomachinery Engineer
-- removed: Senior Turbomachinery Engineer
-- removed: Turbomachinery Engineer
+- added: FTL: Faster Than Light
+- added: How well do models supervise dynamic environments?
+- added: Nov 13, 2026
 
 ## [VideoLingo](https://videolingo.io/careers.html) (minor change)
 
-- added: 19281 Stars
-- removed: 19277 Stars
+- added: 19289 Stars
+- removed: 19281 Stars
 
 ## [Vivo](https://vivo.gupy.io/) (minor change)
 
-- added: 80 jobs found for 0 filters applied
-- added: Job for Full-time employee: Analista Planejamento Marketing Sr
-- added: Job for Full-time employee: Analista Pricing Marketing Sr
-- removed: 62 jobs found for 0 filters applied
-- removed: Job for Talent pool: Assistente Tecnico(a) - Exclusiva para Pessoa com Deficiência - Campo Belo e Vila Mariana
-- removed: São Paulo - SP
-- removed: Talent pool
-- removed: Job for Full-time employee: Assistente Técnico- Exclusiva para PcD
+- added: 79 jobs found for 0 filters applied
+- added: Job for Talent pool: Assistente Tecnico(a) - Exclusiva para Pessoa com Deficiência - Campo Belo e Vila Mariana
+- added: São Paulo - SP
+- added: Talent pool
+- removed: 80 jobs found for 0 filters applied
+- removed: Job for Full-time employee: Analista Contábil Pleno
+
+## [Wazuh](https://wazuh.com/careers/) (minor change)
+
+- added: CTI Team
+- removed: Content Team
 
 ## [WikiHow](https://www.wikihow.com/wikiHow:Jobs) (minor change)
 
-- added: 200
-- removed: 215
-
-## [Xapo](https://www.xapobank.com/en/careers) (minor change)
-
-- added: Countries
-- added: 50+
-- removed: Global Remote Workforce
-- removed: 50+ countries
+- added: 214
+- removed: 200
 
 ## Pages failing for 3+ checks
 
@@ -647,7 +485,6 @@ Checked 2026-11-16 23:06 UTC: 1757 pages, 63 changed, 22 look like new postings.
 - outtalent.com: no readable text (JavaScript page?)
 - palettelabs.com: failed (HTTP 404)
 - shardeum.org: failed (robots)
-- item.app: failed (HTTP 404)
 - revoy.com: no readable text (JavaScript page?)
 - aiosmedical.notion.site: no readable text (JavaScript page?)
 - gojob.com: no readable text (JavaScript page?)
@@ -655,8 +492,10 @@ Checked 2026-11-16 23:06 UTC: 1757 pages, 63 changed, 22 look like new postings.
 - tagmango.com: no readable text (JavaScript page?)
 - zootools.co: no readable text (JavaScript page?)
 - a1base.com: no readable text (JavaScript page?)
+- advantageclub.co: failed (robots)
 - aren.com: no readable text (JavaScript page?)
 - capgemini.com: no readable text (JavaScript page?)
+- cobbery.com: failed (HTTP 404)
 - dreamcraft.com: no readable text (JavaScript page?)
 - epam.com: no readable text (JavaScript page?)
 - logica.cloud: no readable text (JavaScript page?)
@@ -732,7 +571,7 @@ Checked 2026-11-16 23:06 UTC: 1757 pages, 63 changed, 22 look like new postings.
 - democracy.earth: no readable text (JavaScript page?)
 - dench.com: no readable text (JavaScript page?)
 - deskpass.com: no readable text (JavaScript page?)
-- digipals.app: no readable text (JavaScript page?)
+- digipals.app: failed (HTTP 404)
 - dimely.com: no readable text (JavaScript page?)
 - dinesafe.org: no readable text (JavaScript page?)
 - trydock.ai: no readable text (JavaScript page?)
@@ -797,7 +636,6 @@ Checked 2026-11-16 23:06 UTC: 1757 pages, 63 changed, 22 look like new postings.
 - kanopy-ai.com: no readable text (JavaScript page?)
 - karboncard.com: failed (ssl)
 - getkosh.com: no readable text (JavaScript page?)
-- koyal.ai: no readable text (JavaScript page?)
 - kredi.mx: no readable text (JavaScript page?)
 - klic.studio: no readable text (JavaScript page?)
 - trykura.com: no readable text (JavaScript page?)
@@ -826,7 +664,7 @@ Checked 2026-11-16 23:06 UTC: 1757 pages, 63 changed, 22 look like new postings.
 - miso.kr: no readable text (JavaScript page?)
 - mobileboost.io: no readable text (JavaScript page?)
 - multica.ai: no readable text (JavaScript page?)
-- musicarena.io: no readable text (JavaScript page?)
+- musicarena.io: failed (HTTP 404)
 - neuromorphic.vision: no readable text (JavaScript page?)
 - nevamind.ai: no readable text (JavaScript page?)
 - nexu.mx: no readable text (JavaScript page?)
@@ -847,7 +685,7 @@ Checked 2026-11-16 23:06 UTC: 1757 pages, 63 changed, 22 look like new postings.
 - ornadyne.com: no readable text (JavaScript page?)
 - osism.tech: no readable text (JavaScript page?)
 - pangea.app: no readable text (JavaScript page?)
-- parrotapp.com: no readable text (JavaScript page?)
+- parrotapp.com: failed (HTTP 404)
 - parsagon.io: no readable text (JavaScript page?)
 - pave-robotics.com: no readable text (JavaScript page?)
 - petrarch.co: no readable text (JavaScript page?)

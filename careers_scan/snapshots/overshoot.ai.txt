@@ -37,6 +37,9 @@ Compounding GPU and CPU work on a small model
 Sep 5
 Caching less to serve more requests
 2.6× requests per GPU
+Sep 4
+Building linear-attention metadata once per step
+21.0 → 2.0 ms
 Jun 19
 TCP for server-to-GPU communication
 325 → 72 ms

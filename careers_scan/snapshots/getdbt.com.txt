@@ -50,6 +50,7 @@ Denver, Colorado, United States, AMER; USA - Austin (dbt)
 Customer Support Department
 Manager, Customer Support Engineering
 Remote, Australia, APAC
+Senior Escalations Manager
 Engineering Department
 Staff Site Reliability Engineer
 Bengaluru, Karnataka, India, APAC

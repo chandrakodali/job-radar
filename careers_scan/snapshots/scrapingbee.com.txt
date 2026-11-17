@@ -263,20 +263,19 @@ Simply sign up for your free API key with 1000 free credits. Install our SDK, sp
 Can I integrate this with my recruitment database or ATS?
 Absolutely. Our API returns clean, structured JSON that can be easily integrated with any recruitment database, applicant tracking system, or business intelligence tool. The consistent data format makes integration straightforward for both technical and non-technical teams.
 Related Articles
+54 min read
+A Guide to Python Web Scraping, From Requests to Scrapy | ScrapingBee
+Learn web scraping with Python step by step, from your first Requests script to Playwright, Scrapy and a scraping API.
+Ismail Ajagbe
+16 November 2026
+30 min read
+Web Scraping Best Practices: Complete 2026 Developer Guide
+Build polite, reliable scrapers in 2026. Follow RFC 9309 robots.txt rules, handle rate limits, avoid blocks, and validate clean data with Python examples.
+Federico Trotta
 16 min read
 Web Scraping with Jev: What’s Possible and How to Do It
 Learn how to use Jev for web scraping workflows. Classify, score, and filter scraped data using structured probabilistic outputs with practical Python examples.
 Karthik Devan
-16 November 2026
-Google SERP Poisoning: How to Get Relevant Search Results With Fast Search
-Learn about Google SERP poisoning, how it affects search result scraping, and how ScrapingBee's Fast Search API can help retrieve relevant search results.
-Ilya Krukowski
-09 November 2026
-33 min read
-SERP Monitoring With Python: Step-by-Step Guide
-Learn how to build a Python SERP monitor with ScrapingBee to track rankings, search features, AI Overviews, locations, devices, and meaningful changes.
-Federico Trotta
-05 November 2026
 Explore Web Scraping Blog
 All Available Scrapers
 Browse our complete collection of web scraping APIs

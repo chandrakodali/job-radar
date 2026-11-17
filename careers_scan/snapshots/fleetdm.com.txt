@@ -146,6 +146,7 @@ Sid Sijbrandij (GitLab) , Dylan Field (Figma) , Mike Arpaia (osquery) , Suresh B
 {{link.headingText}}
 Device management
 Software management
+Login
 Documentation
 API
 Release notes

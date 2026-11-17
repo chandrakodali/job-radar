@@ -226,103 +226,32 @@ Get Jcode Desktop
 Changelog
 Releases and changelog . Full history on GitHub releases .
 Unreleased
-2026-10-24 · 23d ago
-Changes since v0.99.1
+2026-11-17 · today
+Changes since v1.0.0
 Automatically listed from commit messages.
-fix name the cause when a view is rejected, document table cell types
-commit Fix auto-poke canceling pending cloud handoffs
-ci add repeatable Linux cloud acceptance gate
-test isolate repeatable cloud migration e2e runs
-test exercise cloud handoffs through real SSH and TUI
-test keep acceptance sockets short and preserve failure evidence
-test require new prompts in cloud continuation evidence
-fix reconcile completed turns before client dispatch
-fix surface reasons for every cloud command failure
-commit Place inline swarm beside pinned todos on wide terminals
-commit Show one pinned lane dot per worker todo item
-fix pass cloud failure context to the next agent turn
+perf avoid cloning swarm members for visibility predicates
+test extract swarm predicate suite within module size budget
+perf skip topology queries for sequential message arrays
+perf share payload and metrics in one Arc allocation
+perf remove discarded JSON buffers and redundant image copies
+perf reject unrelated routes before repeated identity parsing
+perf consume byte-identical thumbnail resize results directly
+perf clone thumbnail candidates only after cache admission
 docs update weekly stars chart
-docs update downloads badge
-fix resolve context budget from routed model catalog
-commit Round inline diff rail corners
-fix wait for history before sending fork startup prompts
-commit Keep scrollbar track invisible outside thumb intersections
-commit Show diff counts once in the inline diff header
-commit Compact diff header paths without wrapping
-commit Move compact diff expansion shortcut to the footer
-ui compact failed background tasks with connected diagnostics
-commit Ensure info widgets have bottom-border text
-commit Guard shortcut chrome against inherited terminal colors
-commit Compact shortcut badges and remove redundant diff hidden counts
-commit Show tool duration alongside token counts
-commit Preserve tool execution duration in live and restored rows
-commit Unify tool failures with normal rows and compact connected reasons
-commit Replace generic widget footers with compact distinct facts
-commit Test public widget footer metadata and narrow rendering
-commit Validate activity footer lifecycle and fix singular client label
-fix preserve source whitespace in inline diffs
-commit Improve expanded inline diff gutters and wrapping
-fix color tool duration independently from token usage
-commit Test expanded diffs through full terminal rendering
-commit Preserve warm OpenAI websocket safely after interrupted responses
-commit Centralize compact tool failure summaries and align error connectors
-commit Simplify compact failure connector to standalone rounded corner
-commit Join compact failure connector directly to reason
-commit Compact successful background tasks and collapse tool image previews
-commit Exercise expanded image geometry in cache reuse regression
-commit Repair interleaved renderer and regression-test hunks
-commit Fix todo add schema rejected by Gemini
-commit Cover todo schema rejection at Gemini request boundary
-commit Track Anthropic OAuth token usage and per-account cost estimates
-commit Refresh local OAuth totals independently of quota cache
-fix unify subscription usage report identity
-commit Remove password-reset restriction from system prompt
-commit Remove blanket password restrictions from browser workflows
-fix retain warm websocket through cancellation recovery
-commit Disable shared turn-end weak-point digest followups
-commit Disable TUI turn-end weak-point digest
-commit Add display-only full todo completion report
-commit Automatically display full todo completion reports
-commit Keep full todo completion reports expanded
-commit Highlight blocked acceptance in todo completion reports
-commit Render todo completion snapshots with pinned cards and full evidence
-commit Style completion reports with pinned todo cards and compact details
-commit Show only recorded turn-end gate findings in todo completion
-cloud add isolated ephemeral machine lifecycle and native attach
-provider keep Jcode model switches on managed subscription transport
-commit Test deployed Sonnet route alongside curated subscription models
-fix accept deployed Sonnet 4.6 model ID
-commit Show only gate categories above completed todo cards
-commit Make aggregate todo gate digest an explicit default-off opt-in
-commit Recognize GPT-6.1 Sol reasoning effort on compatible routes
-commit Hide delivery-state labels from pinned todo cards
-commit Hide per-item confidence labels in todo cards
-commit Verify incomplete todo gates with aggregate digest disabled
-commit Retry unchanged incomplete todos up to three times in TUI
-commit Document three-attempt incomplete todo retry budget
-fix isolate Bedrock test config (fixes #1952)
-fix triage account usage in capability ledger (fixes #1950)
-commit Limit unchanged incomplete todo followups to three attempts
-fix preserve UTF-8 across Responses SSE chunks (fixes #1944)
-fix preserve explicitly enabled Bedrock live-test credentials (fixes #1952)
-commit Avoid redundant final follow-up after delivered response
-test run search safety regressions on Windows (refs #1932)
-fix report Windows working set and private commit (#1932)
-fix abort adopted work when its owner is cancelled
-fix remove redundant completion confidence footer
-refactor extract tests below source size budget
-fix avoid repeating final answers after compaction
-test scope Windows search gate to portable regressions (refs #1932)
-test scope runtime guards after app setup
-fix cancel blocking searches with their async owner
-test create remote fixtures inside their reactor
-fix keep search cancellation within safety guardrails (refs #1932)
-fix pin bounded cancellable agentgrep searches (fixes #1932)
-v0.99.1
-2026-10-22 · 25d ago
-OpenAI request fix and stability
+bench count jcode tool uses from role=tool history rows
+fix honor pending new-session routing for transcription
+bench default headless memory benchmark to memory-off jcode
+perf pin allocation-free control checks and shared Rust visibility parsing
+perf skip heavy warmups for temporary daemons
+chore preserve existing Windows resolutions in search update
+fix avoid inflated and cross-credential failover capacity
+fix expose code copy shortcuts while streaming
+perf borrow metadata envelopes and count bytes without discarded allocations
+fix preserve optional catalog snapshot without redundant empty fallback
+v1.0.0
+Swarms, Cloud, and a lighter terminal
 Release highlights.
-highlight Fix OpenAI models failing every turn with invalidrequesterror due to a rejected tool schema
-highlight Recover the TUI from a vanished or unresponsive server instead of retrying forever
-highlight Native Muse subscription login and Venice AI provider support
+highlight Reworked swarms plan jobs in phases and parallel lanes, automatically start workers as dependencies finish, and show the whole team's progress in one pinned view
+highlight jcode Cloud officially launches: move a session or coordinated swarm to a VM with /cloud, keep working after disconnecting, and bring the conversation and repository back with /local
+highlight A lighter terminal with lower CPU usage, fewer background wakeups, faster transcript rendering, and less rendered-text memory
 in maintenance
