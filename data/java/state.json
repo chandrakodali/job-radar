@@ -11646,7 +11646,8 @@
  "bootstrapped": true,
  "closed": {
   "ashby:whoop:d31312c2-236a-45f1-8da7-61a7ca8d1622": "2026-11-17",
-  "greenhouse:energysolutions:5274064007": "2026-11-17"
+  "greenhouse:energysolutions:5274064007": "2026-11-17",
+  "lever:jobgether:ed585bb6-9f21-45ef-b606-7d0a0715d03c": "2026-11-17"
  },
  "fails": {
   "ashby:Airweave": {
@@ -11987,17 +11988,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 72,
+   "n": 73,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 72,
+   "n": 73,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 72,
+   "n": 73,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13300,6 +13301,7 @@
   "True Talent Solutions Partners": "2026-11-17",
   "Turing Enterprise Inc.": "2026-11-17",
   "Turing Labs Inc.": "2026-11-17",
+  "Voxology, Inc.": "2026-11-17",
   "WorldVia": "2026-11-16",
   "eVisit": "2026-11-16",
   "outGoing": "2026-11-17"
@@ -13319,8 +13321,8 @@
    448
   ],
   "2026-11-17": [
-   76,
-   344
+   90,
+   399
   ]
  },
  "resolved": {
@@ -64210,8 +64212,13 @@
   "amazon:us:10606737": "2026-11-16",
   "amazon:us:10607207": "2026-11-17",
   "amazon:us:10607218": "2026-11-17",
+  "amazon:us:10607230": "2026-11-17",
   "amazon:us:10607403": "2026-11-17",
   "amazon:us:10607477": "2026-11-17",
+  "amazon:us:10607514": "2026-11-17",
+  "amazon:us:10607515": "2026-11-17",
+  "amazon:us:10607536": "2026-11-17",
+  "amazon:us:10607548": "2026-11-17",
   "apple:usa:200555687": "2026-11-14",
   "apple:usa:200656816": "2026-11-17",
   "apple:usa:200665281": "2026-11-14",
@@ -64401,6 +64408,8 @@
   "ashby:ddn:56e7c934-aab6-46e3-a73f-5accda93f6e2": "2026-11-14",
   "ashby:ditto:32a73ba0-9e46-4871-bea8-d4ceab39ba88": "2026-11-14",
   "ashby:docker:33b629b4-fc3a-437e-b13b-16fef283af68": "2026-11-14",
+  "ashby:e2b:98c4b5ca-05c0-4456-9b86-78fa4922d448": "2026-11-17",
+  "ashby:e2b:b183352f-bfbb-42fa-9e8f-a03f42162b74": "2026-11-17",
   "ashby:elevenlabs:ce3d5a59-fb8c-482b-bc3f-60e44576c5e0": "2026-11-17",
   "ashby:elevenlabs:e4e0450f-d139-4f8e-b210-2f326a680d90": "2026-11-17",
   "ashby:ellipsis-health:153fa7dd-4d4b-43ca-869b-4ffb834f2456": "2026-11-14",
@@ -64540,6 +64549,7 @@
   "ashby:rivianvw.tech:422906a1-a70c-4b67-b353-8b78dabda82b": "2026-11-14",
   "ashby:rivianvw.tech:5d9820e0-95f7-43d8-97c4-8de821d65210": "2026-11-14",
   "ashby:rivianvw.tech:9bd6180e-9847-4ecc-abc9-a9b0da48da62": "2026-11-14",
+  "ashby:rivianvw.tech:c0c6846c-aaf7-4923-a25d-19ca3ceaa9b5": "2026-11-17",
   "ashby:ruby-labs:dad7e7c6-3cb6-428f-83ea-332d2e559387": "2026-11-14",
   "ashby:runpod:139e583c-021a-493f-bc65-49d6fdc3a042": "2026-11-14",
   "ashby:sailorhealth:df9dbe7a-995d-4bfb-9bdd-08cab451e61a": "2026-11-14",
@@ -65601,6 +65611,7 @@
   "eightfold:ford:563568454093634": "2026-11-14",
   "eightfold:ford:563568454189709": "2026-11-16",
   "eightfold:ford:563568454226663": "2026-11-17",
+  "eightfold:ford:563568454231302": "2026-11-17",
   "eightfold:fortive:893398716191": "2026-11-16",
   "eightfold:globalfoundries:563980770991580": "2026-11-14",
   "eightfold:globalfoundries:563980771048407": "2026-11-16",
@@ -66260,6 +66271,7 @@
   "greenhouse:gusto:8360497": "2026-11-14",
   "greenhouse:halcyon:6252121004": "2026-11-14",
   "greenhouse:hearst:4467518009": "2026-11-17",
+  "greenhouse:honeycomb:5485706008": "2026-11-17",
   "greenhouse:hp:6251120004": "2026-11-14",
   "greenhouse:humaninterest:8360535": "2026-11-14",
   "greenhouse:icapitalnetwork:8919341002": "2026-11-14",
@@ -66315,6 +66327,7 @@
   "greenhouse:penninteractive:6254105004": "2026-11-14",
   "greenhouse:peoplefinders:5291779007": "2026-11-15",
   "greenhouse:physicsx:5035380101": "2026-11-15",
+  "greenhouse:pokemoncareers:8202793003": "2026-11-17",
   "greenhouse:portalspacesystems:4509326009": "2026-11-16",
   "greenhouse:portalspacesystems:4509543009": "2026-11-17",
   "greenhouse:prove:6256215004": "2026-11-17",
@@ -66354,6 +66367,7 @@
   "greenhouse:selffinancial:6255478004": "2026-11-14",
   "greenhouse:simplisafe:8360284": "2026-11-14",
   "greenhouse:snorkelai:6254291004": "2026-11-14",
+  "greenhouse:sofi:8207529003": "2026-11-17",
   "greenhouse:sonyinteractiveentertainmentglobal:6237581004": "2026-11-14",
   "greenhouse:sonyinteractiveentertainmentglobal:6260703004": "2026-11-14",
   "greenhouse:splitero:5473851008": "2026-11-14",
@@ -66668,6 +66682,7 @@
   "icims:careers-i2xisys.icims.com:15110": "2026-11-14",
   "icims:careers-i2xisys.icims.com:15154": "2026-11-14",
   "icims:careers-i2xisys.icims.com:15787": "2026-11-16",
+  "icims:careers-i2xisys.icims.com:15820": "2026-11-17",
   "icims:careers-i3-corps.icims.com:5218": "2026-11-14",
   "icims:careers-i3-corps.icims.com:5253": "2026-11-14",
   "icims:careers-i3-corps.icims.com:5254": "2026-11-14",
@@ -66682,6 +66697,7 @@
   "icims:careers-ipipeline.icims.com:1741": "2026-11-14",
   "icims:careers-iridium.icims.com:5186": "2026-11-14",
   "icims:careers-iridium.icims.com:5190": "2026-11-14",
+  "icims:careers-iridium.icims.com:5196": "2026-11-17",
   "icims:careers-iridium.icims.com:5200": "2026-11-14",
   "icims:careers-ita-intl.icims.com:4489": "2026-11-14",
   "icims:careers-ita-intl.icims.com:4516": "2026-11-14",
@@ -66752,6 +66768,7 @@
   "icims:careers-markon.icims.com:8833": "2026-11-14",
   "icims:careers-markon.icims.com:8841": "2026-11-14",
   "icims:careers-markon.icims.com:8858": "2026-11-17",
+  "icims:careers-markon.icims.com:8861": "2026-11-17",
   "icims:careers-mci2.icims.com:50029": "2026-11-14",
   "icims:careers-mci2.icims.com:50030": "2026-11-14",
   "icims:careers-mercuryinsurance.icims.com:6766": "2026-11-14",
@@ -66825,6 +66842,7 @@
   "icims:careers-sonalysts.icims.com:2491": "2026-11-14",
   "icims:careers-sri.icims.com:6427": "2026-11-14",
   "icims:careers-sri.icims.com:6518": "2026-11-14",
+  "icims:careers-sri.icims.com:6540": "2026-11-17",
   "icims:careers-sri.icims.com:6541": "2026-11-16",
   "icims:careers-steampunk.icims.com:5220": "2026-11-14",
   "icims:careers-steampunk.icims.com:5226": "2026-11-14",
@@ -66858,6 +66876,7 @@
   "icims:careers-steampunk.icims.com:8394": "2026-11-14",
   "icims:careers-steampunk.icims.com:8395": "2026-11-14",
   "icims:careers-steampunk.icims.com:8410": "2026-11-14",
+  "icims:careers-steeldynamics.icims.com:8717": "2026-11-17",
   "icims:careers-stonex.icims.com:16602": "2026-11-14",
   "icims:careers-strattec.icims.com:8366": "2026-11-14",
   "icims:careers-strattec.icims.com:8386": "2026-11-14",
@@ -67012,6 +67031,7 @@
   "jazzhr:gliacelltechnologies:NqW4WJQQUG": "2026-11-14",
   "jazzhr:gliacelltechnologies:PhTGJ1BWsM": "2026-11-14",
   "jazzhr:gliacelltechnologies:QAdLA563AX": "2026-11-14",
+  "jazzhr:gliacelltechnologies:Qq7pBC3T8R": "2026-11-17",
   "jazzhr:gliacelltechnologies:S8615WRlHy": "2026-11-14",
   "jazzhr:gliacelltechnologies:T2MbU1BbqC": "2026-11-14",
   "jazzhr:gliacelltechnologies:TbHMLzJoZB": "2026-11-14",
@@ -67612,6 +67632,7 @@
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73264": "2026-11-14",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:74276": "2026-11-16",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:74445": "2026-11-17",
+  "oracle:efds.fa.em5.oraclecloud.com|CX_1:74543": "2026-11-17",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26008913": "2026-11-14",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26011764": "2026-11-14",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26012796": "2026-11-14",
@@ -68536,11 +68557,13 @@
   "smartrecruiters:hardindesign:744000160661857": "2026-11-14",
   "smartrecruiters:harvarduniversity:3743990016713616": "2026-11-14",
   "smartrecruiters:harvarduniversity:3743990016909837": "2026-11-17",
+  "smartrecruiters:harvarduniversity:3743990016919976": "2026-11-17",
   "smartrecruiters:intuitive:744000161108070": "2026-11-14",
   "smartrecruiters:intuitive:744000161182029": "2026-11-14",
   "smartrecruiters:intuitive:744000161528139": "2026-11-14",
   "smartrecruiters:intuitive:744000161547597": "2026-11-14",
   "smartrecruiters:intuitive:744000162133129": "2026-11-17",
+  "smartrecruiters:intuitive:744000162164949": "2026-11-17",
   "smartrecruiters:kioxia:744000159509087": "2026-11-14",
   "smartrecruiters:linkedin3:744000161375119": "2026-11-14",
   "smartrecruiters:mirantis:744000161110609": "2026-11-14",
@@ -68759,6 +68782,7 @@
   "workable:raydar:AF48E58236": "2026-11-14",
   "workable:raydar:BB3CEFA193": "2026-11-14",
   "workable:raydar:BF1738F2A8": "2026-11-14",
+  "workable:raydar:C309BF13F9": "2026-11-17",
   "workable:raydar:C62CA2C5D2": "2026-11-14",
   "workable:raydar:CEB85BADA5": "2026-11-14",
   "workable:raydar:D311E320DC": "2026-11-14",
@@ -68784,6 +68808,7 @@
   "workable:zipdev:F3C95028D4": "2026-11-14",
   "workable_search:all:0e31366b-25bb-4fcd-a842-b66696871f26": "2026-11-14",
   "workable_search:all:14b24d91-7255-450b-b448-ea7d08a1be94": "2026-11-14",
+  "workable_search:all:17fe5bd1-05c0-4d94-a13b-f6ce4dc21907": "2026-11-17",
   "workable_search:all:24b142ce-3d37-46a5-9bdf-226a3b968688": "2026-11-14",
   "workable_search:all:319dc204-76f0-4f1b-8b78-ec1c18e5b200": "2026-11-14",
   "workable_search:all:38480613-7dba-4b6b-bedf-5c9f319d0b4f": "2026-11-14",
@@ -69672,11 +69697,11 @@
  },
  "source_last": {
   "hn": "2026-11-17T19:50:53+00:00",
-  "remoteok": "2026-11-17T18:50:09+00:00",
-  "usajobs": "2026-11-17T17:46:31+00:00",
-  "workable_search": "2026-11-17T17:46:31+00:00",
-  "wwr": "2026-11-17T19:50:53+00:00",
-  "yc": "2026-11-17T17:46:31+00:00"
+  "remoteok": "2026-11-17T20:49:14+00:00",
+  "usajobs": "2026-11-17T20:49:14+00:00",
+  "workable_search": "2026-11-17T20:49:14+00:00",
+  "wwr": "2026-11-17T20:49:14+00:00",
+  "yc": "2026-11-17T20:49:14+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
