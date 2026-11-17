@@ -12084,17 +12084,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 193,
+   "n": 194,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 193,
+   "n": 194,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 193,
+   "n": 194,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12398,8 +12398,9 @@
    "since": "2026-11-07"
   },
   "greenhouse:quip": {
+   "disabled_until": "2026-11-24",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-17"
   },
   "greenhouse:rdccareers": {
@@ -66038,6 +66039,7 @@
   "avature:metlife.avature.net|en_US/ml:21585": "2026-11-16",
   "avature:metlife.avature.net|en_US/ml:21586": "2026-11-12",
   "avature:metlife.avature.net|en_US/ml:21587": "2026-11-12",
+  "avature:metlife.avature.net|en_US/ml:21614": "2026-11-17",
   "avature:mgl.avature.net|internalcareers:22542": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24706": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24892": "2026-11-15",
@@ -66715,6 +66717,7 @@
   "gem:fetch:am9icG9zdDoikz60XDeEN_e6KxhNFzkW": "2026-11-14",
   "gem:firestorm:am9icG9zdDoOPrANoDSyqF4O069_DzWX": "2026-11-14",
   "gem:firestorm:am9icG9zdDpnnXQwIV5yObTKeUYzuTRg": "2026-11-14",
+  "gem:firestorm:am9icG9zdDqVPZoDNcp76XtIrqIwAdOj": "2026-11-17",
   "gem:fridayharbor-ai:am9icG9zdDqrQrL-djUe9AZxXYF6nkMA": "2026-11-14",
   "gem:galaxyventures:am9icG9zdDqx3e_H3hQ-WUMkGzoKE17J": "2026-11-14",
   "gem:gomomentum-tech:am9icG9zdDpjFYcy9gISyjcwKMEsJ2O3": "2026-11-15",
@@ -67722,6 +67725,7 @@
   "icims:uscareers-fujifilm.icims.com:37891": "2026-11-09",
   "icims:uscareers-fujifilm.icims.com:38036": "2026-11-09",
   "icims:uscareers-fujifilm.icims.com:39081": "2026-11-12",
+  "icims:uscareers-idemia.icims.com:8737": "2026-11-17",
   "icims:uscareers-lennox.icims.com:54883": "2026-11-12",
   "icims:uscareers-waters.icims.com:26206": "2026-11-12",
   "icims:uscareers-waters.icims.com:27169": "2026-11-12",
@@ -68242,6 +68246,7 @@
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4268": "2026-11-08",
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4348": "2026-11-12",
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4387": "2026-11-08",
+  "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4549": "2026-11-17",
   "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:120413": "2026-11-12",
   "oracle:hcal.fa.us2.oraclecloud.com|CX_1001:2398": "2026-11-12",
   "oracle:hcal.fa.us2.oraclecloud.com|CX_1:2398": "2026-11-14",
@@ -69037,6 +69042,7 @@
   "smartrecruiters:syncreonconsulting:744000161314262": "2026-11-12",
   "smartrecruiters:syncreonconsulting:744000161505843": "2026-11-13",
   "smartrecruiters:syncreonconsulting:744000161858159": "2026-11-16",
+  "smartrecruiters:syncreonconsulting:744000162099059": "2026-11-17",
   "smartrecruiters:talan:744000161165829": "2026-11-12",
   "smartrecruiters:thewonderfulcompany:744000159249441": "2026-11-07",
   "smartrecruiters:veoliaenvironnementsa:744000160911559": "2026-11-12",
