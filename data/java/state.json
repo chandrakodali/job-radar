@@ -11862,7 +11862,7 @@
   },
   "ashby:nectar-social": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "ashby:odin-dynamics": {
@@ -11993,17 +11993,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 74,
+   "n": 75,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 74,
+   "n": 75,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 74,
+   "n": 75,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12876,16 +12876,16 @@
    "n": 3,
    "since": "2026-11-14"
   },
+  "sfrmk:career.sonepar.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "sfrmk:careers.qualitestgroup.com": {
    "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /job_sitemap.xml",
    "n": 3,
    "since": "2026-11-14"
-  },
-  "sfrmk:jobs.atos.net": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
   },
   "taleo:aa243|ex": {
    "disabled_until": "2026-11-21",
@@ -64215,6 +64215,7 @@
   "amazon:us:10606506": "2026-11-16",
   "amazon:us:10606507": "2026-11-16",
   "amazon:us:10606509": "2026-11-16",
+  "amazon:us:10606541": "2026-11-17",
   "amazon:us:10606546": "2026-11-16",
   "amazon:us:10606633": "2026-11-16",
   "amazon:us:10606657": "2026-11-17",
@@ -64229,6 +64230,8 @@
   "amazon:us:10607515": "2026-11-17",
   "amazon:us:10607536": "2026-11-17",
   "amazon:us:10607548": "2026-11-17",
+  "amazon:us:10607624": "2026-11-17",
+  "amazon:us:10607627": "2026-11-17",
   "apple:usa:200555687": "2026-11-14",
   "apple:usa:200656816": "2026-11-17",
   "apple:usa:200665281": "2026-11-14",
@@ -64299,6 +64302,7 @@
   "apple:usa:200695285": "2026-11-17",
   "apple:usa:200695312": "2026-11-16",
   "apple:usa:200695462": "2026-11-17",
+  "apple:usa:200695484": "2026-11-17",
   "ashby:42dot:26f79b07-2ffc-44a3-9d92-36111d18fb34": "2026-11-14",
   "ashby:42dot:4c80af7e-eda8-4a99-9060-7a8a5d6cccb9": "2026-11-14",
   "ashby:AeroVect:85f76a52-86de-43d3-bc0d-db4bf225bb33": "2026-11-16",
@@ -64311,6 +64315,7 @@
   "ashby:Coder:cd346ef3-24dd-4e1f-b863-4af569def480": "2026-11-16",
   "ashby:Commure:039d70f4-a796-453c-9d8b-0926f91f1654": "2026-11-14",
   "ashby:Commure:3e3934a8-ef1e-47bc-84a9-9807b01bc666": "2026-11-14",
+  "ashby:Commure:4781df21-b39e-42a4-8fa6-15e9603b9e3a": "2026-11-17",
   "ashby:GovEagle:15108e53-80a2-4b11-abf7-1ad0812a2027": "2026-11-14",
   "ashby:Hippocratic AI:184f3142-fbd1-4b1e-a421-c4044e9db375": "2026-11-14",
   "ashby:KAYAK:85165d45-de15-444d-8a5e-b7fdb8f3cf1e": "2026-11-14",
@@ -64511,6 +64516,7 @@
   "ashby:openai:1327d083-c932-4aed-aadc-57586521ee60": "2026-11-17",
   "ashby:openai:2320fe69-df26-4d1d-ada6-d1a46c0e68a1": "2026-11-15",
   "ashby:openai:26cfb873-f30a-4a13-b7b6-52833ea48ec9": "2026-11-14",
+  "ashby:openai:7447dd43-9bf5-445f-bb8c-ba57756c8d04": "2026-11-17",
   "ashby:openai:783704d7-5afa-45aa-899b-1d6799f73004": "2026-11-14",
   "ashby:openai:80c40695-5cd7-4206-96b6-873158a8e696": "2026-11-14",
   "ashby:openai:cc1ea124-47ad-4b81-9e4e-0c69e525b62a": "2026-11-14",
@@ -65478,6 +65484,7 @@
   "catsone:websterandwebster:16810552": "2026-11-14",
   "catsone:websterandwebster:16816873": "2026-11-14",
   "catsone:westworksgroupinc:16473546": "2026-11-14",
+  "dayforce:allianthcm|Alliant:44795": "2026-11-17",
   "dayforce:allianthcm|alliantlinkonly:44659": "2026-11-15",
   "dayforce:asrcfh|CANDIDATEPORTAL:31191": "2026-11-15",
   "dayforce:asrcfh|CANDIDATEPORTAL:31209": "2026-11-15",
@@ -65618,6 +65625,7 @@
   "eightfold:citi:859038803970": "2026-11-17",
   "eightfold:citi:859038804482": "2026-11-17",
   "eightfold:citi:859038804776": "2026-11-14",
+  "eightfold:citi:859039019215": "2026-11-17",
   "eightfold:eaton:687239497094": "2026-11-14",
   "eightfold:eaton:687240042663": "2026-11-17",
   "eightfold:eaton|eaton.com:687239497094": "2026-11-14",
@@ -66408,6 +66416,7 @@
   "greenhouse:systemstechnologyresearch:4726994006": "2026-11-14",
   "greenhouse:systemstechnologyresearch:4728422006": "2026-11-14",
   "greenhouse:systemstechnologyresearch:4728527006": "2026-11-14",
+  "greenhouse:systemstechnologyresearch:4730198006": "2026-11-17",
   "greenhouse:tailscale:4733115005": "2026-11-14",
   "greenhouse:tanium:8250447": "2026-11-14",
   "greenhouse:taskrabbit:8354054": "2026-11-17",
@@ -67751,6 +67760,7 @@
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:302541": "2026-11-14",
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:303402": "2026-11-14",
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:303472": "2026-11-14",
+  "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:303492": "2026-11-17",
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:303784": "2026-11-14",
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:304218": "2026-11-14",
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:304226": "2026-11-17",
@@ -67803,6 +67813,7 @@
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026779EXTERNALENGLOBAL": "2026-11-16",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2027246EXTERNALENGLOBAL": "2026-11-16",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2027857EXTERNALENGLOBAL": "2026-11-14",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2027974EXTERNALENGLOBAL": "2026-11-17",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028278EXTERNALENGLOBAL": "2026-11-17",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028674EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2028744EXTERNALENGLOBAL": "2026-11-15",
@@ -68600,6 +68611,7 @@
   "smartrecruiters:intuitive:744000162164949": "2026-11-17",
   "smartrecruiters:kioxia:744000159509087": "2026-11-14",
   "smartrecruiters:linkedin3:744000161375119": "2026-11-14",
+  "smartrecruiters:linkedin3:744000162178160": "2026-11-17",
   "smartrecruiters:mirantis:744000161110609": "2026-11-14",
   "smartrecruiters:mirantis:744000161377550": "2026-11-14",
   "smartrecruiters:nbcuniversal3:744000159511839": "2026-11-14",
