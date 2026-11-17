@@ -2,9 +2,9 @@
 
 Watching **12,612 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
 
-Last new match: **Tue Nov 17, 05:17 AM EST**. Score is 0–100 and uses no AI: the full job text is read section by section. "Has" lists the resume's skills the job asks for; "Missing" lists skills the job requires that the resume does not show. The score weighs how much of what the job asks the resume covers, the title, years required (the MS path counts), the industry, word overlap with the resume, freshness and location. Visa sponsorship moves it by 2 points at most. Full history: [data/automotive/matches.csv](data/automotive/matches.csv).
+Last new match: **Tue Nov 17, 08:19 AM EST**. Score is 0–100 and uses no AI: the full job text is read section by section. "Has" lists the resume's skills the job asks for; "Missing" lists skills the job requires that the resume does not show. The score weighs how much of what the job asks the resume covers, the title, years required (the MS path counts), the industry, word overlap with the resume, freshness and location. Visa sponsorship moves it by 2 points at most. Full history: [data/automotive/matches.csv](data/automotive/matches.csv).
 
-## Posted in the last 24 hours (38)
+## Posted in the last 24 hours (37)
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
@@ -37,7 +37,6 @@ Last new match: **Tue Nov 17, 05:17 AM EST**. Score is 0–100 and uses no AI: t
 | 60 | [Early Careers: Embedded Software Engineer](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24969) | Fortinet | Sunnyvale, CA, United States (hybrid) | Nov 16 | C, Embedded software | Embedded Linux/kernel | entry-level title; no visa sponsorship |
 | 60 | [Early Careers: Embedded Software Engineer](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24969) | Edel Fa Us2 Oraclecloud Com | Sunnyvale, CA, United States (hybrid) | Nov 16 | C, Embedded software | Embedded Linux/kernel | entry-level title; no visa sponsorship |
 | 60 | [Early Careers: Embedded Software Engineer](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/job/24969) | Edel Fa Us2 Oraclecloud Com | Sunnyvale, CA, United States (hybrid) | Nov 16 | C, Embedded software | Embedded Linux/kernel | entry-level title; no visa sponsorship |
-| 59 | [Transmission Calibration Engineer](https://careers.stellantis.com/job/24216171/transmission-calibration-engineer-chelsea-mi/) | Stellantis | Chelsea, MI, US | Nov 16 | MATLAB | Vector CANoe/CANalyzer, Calibration (XCP/INCA/CANape), Powe… | 5+ yrs |
 | 57 | [Senior Firmware Engineer II (AI Native)](https://jobs.lever.co/jobgether/ec9e82e8-27e6-4828-8086-be578574e09d) | Jobgether | US (remote) | Nov 17 | C, Embedded software, C++, Controls/algorithms, Code reviews | Device drivers/BSP, Hardware design (FPGA/PCB/analog), Cybe… | 7+ yrs |
 | 55 | [Senior Staff System Architect – Energy Generation, Storage & Conversi…](https://jobs.smartrecruiters.com/RenesasElectronics/744000161842319-senior-staff-system-architect-energy-generation-storage-conversion) | Renesas Electronics | San Francisco, CA, United States | Nov 16 | Simulink, MATLAB, Embedded software, Agile/Scrum/Jira | Inverter/power electronics | 8+ yrs; stretch: senior-level title |
 | 55 | [Sr R&D Firmware Engineer](https://bostonscientific.eightfold.ai/careers/job/563602813743663) | Boston Scientific | Maple Grove, MN, US (onsite) | Nov 16 | C, C++, Controls/algorithms, Agile/Scrum/Jira | Device drivers/BSP, Aerospace/industrial safety (DO-178C/IE… | 6+ yrs; no visa sponsorship |
@@ -47,9 +46,9 @@ Last new match: **Tue Nov 17, 05:17 AM EST**. Score is 0–100 and uses no AI: t
 | 53 | [Senior Firmware Engineer II (AI Native)](https://job-boards.greenhouse.io/life360/jobs/8945034002) | Life360 | Remote, USA (remote) | Nov 16 | C, Embedded software, C++, Code reviews, Controls/algorithms | – | 7+ yrs |
 | 53 | [Sr. Staff Embedded Applications Engineer, TinyML Lab (Semiconductor I…](https://jobs.smartrecruiters.com/RenesasElectronics/744000161906546-sr-staff-embedded-applications-engineer-tinyml-lab-semiconductor-industry-) | Renesas Electronics | Columbia, MARYLAND, United States (hybrid) | Nov 16 | C, CAN/CAN FD, Embedded software, C++, Agile/Scrum/Jira | Device drivers/BSP, Hardware design (FPGA/PCB/analog), Micr… | 7+ yrs; stretch: senior-level title |
 
-## Found in the last 60 days, posted earlier (1675)
+## Found in the last 60 days, posted earlier (1677)
 
-Showing the 400 best of 1675; the rest are in the full history file.
+Showing the 400 best of 1677; the rest are in the full history file.
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
@@ -358,7 +357,7 @@ Showing the 400 best of 1675; the rest are in the full history file.
 | 74 | [Applications Engineer - Hardware-In-the-Loop (HIL) Systems](https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm?fuseaction=einzel&jid=36982&t=Applications%20Engineer%20%2D%20Hardware%2DIn%2Dthe%2DLoop%20%28HIL%29%20Systems) | dSPACE | Wixom, MI | Nov 11 | Simulink, Model-based design, MATLAB, C, CAN/CAN FD, Embedded software, C++, ECU software… | HIL testing, Vehicle/bench testing, LIN, FlexRay |  |
 | 74 | [Embedded Software Engineer Networking](http://jobportal.websterandwebster.com/careers/26517-General--On-WW-website/jobs/16740995-Embedded-Software-Engineer--Networking/) | Websterandwebster |  | Nov 14 | ISO 26262, Functional safety, C, Embedded software, C++ | Device drivers/BSP, Embedded Linux/kernel, RTOS, Debugging … |  |
 | 74 | [Embedded Software Engineer](http://jobportal.websterandwebster.com/careers/26517-General--On-WW-website/jobs/16740971-Embedded-Software-Engineer/) | Websterandwebster |  | Nov 14 | ISO 26262, Functional safety, C, Embedded software, C++ | Device drivers/BSP, Embedded Linux/kernel, RTOS, Debugging … |  |
-| 74 | [Control Systems Engineer, Advanced Controls and Integration](https://jobs.lever.co/thea.energy/880c534f-1816-452f-a2e1-a9df1138202d) | Thea Energy | Kearny, NJ (onsite) | Jun 21 | Simulink, MATLAB, Controls/algorithms, Simulation and modeling, Python, Git | – | 2+ yrs; open 148 days |
+| 74 | [Control Systems Engineer, Advanced Controls and Integration](https://jobs.lever.co/thea.energy/880c534f-1816-452f-a2e1-a9df1138202d) | Thea Energy | Kearny, NJ (onsite) | Jun 21 | Simulink, MATLAB, Controls/algorithms, Simulation and modeling, Python, Git | – | 2+ yrs; open 149 days |
 | 74 | [Field Application Engineer (PTV)](https://apply.workable.com/vectornorthamerica/j/A1221A51A6/) | Vector North America | Novi, Michigan, United States | Jul 08 | Simulink, AUTOSAR Classic, MIL testing, SIL testing, MATLAB, CAN/CAN FD, ECU software, Em… | HIL testing, NI tools (LabVIEW/TestStand/VeriStand), Vector… | 3+ yrs; open 131 days |
 | 74 | [Robotics Engineer - Embedded Software](https://jobs.ashbyhq.com/TerraFirma-Inc/a952c18c-560f-447f-9733-e11e2e0b3fac) | TerraFirma Inc | Robot Ranch (Austin, TX) (onsite) | Jul 14 | Functional safety, Embedded software, Jenkins/CI | Microcontrollers | 2+ yrs; open 125 days |
 | 74 | [Senior Embedded Controls Engineer – Scanning Systems](https://jobs.lever.co/aeva/288aa800-56ed-4538-9f2b-ec7d50dbf932) | Aeva | Mountain View, CA (onsite) | Aug 11 | Embedded software, MATLAB, C, Controls/algorithms, Vehicle dynamics/chassis, Python | Motor control, Microcontrollers | 3+ yrs; open 98 days |
@@ -454,7 +453,7 @@ Showing the 400 best of 1675; the rest are in the full history file.
 | 73 | [Calibration Assistant – Low Voltage Infrastructure](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Calibration-Assistant---Low-Voltage-Infrastructure_JR-202620271) | General Motors | Milford, Michigan, United States of Ame… (onsite) | Nov 11 | Simulink, SIL testing, MATLAB, CAN/CAN FD, Embedded software, Requirements-based testing,… | HIL testing, Calibration (XCP/INCA/CANape), Test automation… | 5+ yrs; no visa sponsorship |
 | 73 | [Vehicle Dynamics Simulation Engineer](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Vehicle-Dynamics-Simulation-Engineer_JR-202622392-1) | General Motors | Warren, Michigan, United States of Amer… (hybrid) | Nov 12 | Simulink, MATLAB, Jenkins/CI, Controls/algorithms, Vehicle dynamics/chassis, Simulation a… | dSPACE, Vehicle/bench testing | 5+ yrs; no visa sponsorship |
 
-## Hidden from alerts: clearance/citizenship or rejected by the AI check (965 in the last 60 days)
+## Hidden from alerts: clearance/citizenship or rejected by the AI check (966 in the last 60 days)
 
 Jobs that need a security clearance, US citizenship or ITAR status, jobs asking for 10+ years of experience, jobs whose text names none of the resume's tools, and jobs the AI check of the full description against the resume judged a different kind of job. The reason is in the Notes column. Listed so nothing is dropped silently.
 
