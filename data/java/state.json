@@ -11970,17 +11970,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 54,
+   "n": 55,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 54,
+   "n": 55,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 54,
+   "n": 55,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13299,7 +13299,7 @@
   ],
   "2026-11-17": [
    12,
-   55
+   59
   ]
  },
  "resolved": {
@@ -64476,6 +64476,7 @@
   "ashby:quora:dce88e1a-d30f-44e6-a471-cf810fc9a449": "2026-11-16",
   "ashby:radai:1523029c-bf9d-47d9-9fea-19417efed8c5": "2026-11-14",
   "ashby:radai:a335d777-4dbd-4b61-87ac-7ecd9ca3f590": "2026-11-14",
+  "ashby:radiant-industries:36a3f487-01ba-4bff-a838-7eef2a162366": "2026-11-17",
   "ashby:rain-technologies:c1ead410-037e-4f55-bb04-95cfbf66bbdd": "2026-11-14",
   "ashby:rain:5074d899-f321-4eb2-be3a-f33f849f98a2": "2026-11-14",
   "ashby:rainmaker:5cbfa70b-4db3-4153-88b5-3cd1159d5d66": "2026-11-14",
@@ -64498,7 +64499,11 @@
   "ashby:sentilink:dd69100c-8482-4583-9075-e81d4b8f906b": "2026-11-14",
   "ashby:serverobotics:f6d4a77b-7dd6-4d6e-80c5-1335ea08ae11": "2026-11-14",
   "ashby:simple-ai:9a5f5694-e066-4087-9a13-b1a62d8d8025": "2026-11-14",
+  "ashby:simspace-corporation:154d35d2-33ec-4009-9f1b-729f538690fb": "2026-11-17",
+  "ashby:simspace-corporation:194f5480-a030-469c-85ca-5af8c78fb3e6": "2026-11-17",
   "ashby:simspace-corporation:32b19629-efb9-4ba4-8933-4d5a6645b5d6": "2026-11-14",
+  "ashby:simspace-corporation:b4aa8f68-0d05-4a41-87d2-4b54fbdb31d2": "2026-11-17",
+  "ashby:simspace-corporation:b5739839-d590-418a-b32b-e4d221b14563": "2026-11-17",
   "ashby:snowflake:829e9786-6661-4134-b7cd-aef3bed75c1c": "2026-11-16",
   "ashby:snowflake:c03acc32-f60b-40de-9838-e954d3f419b9": "2026-11-14",
   "ashby:snowflake:d699971b-0c25-48e4-8733-7e8bd2328536": "2026-11-14",
@@ -65608,6 +65613,7 @@
   "eightfold:qualcomm|qualcomm.com:446719899052": "2026-11-14",
   "eightfold:qualcomm|qualcomm.com:446721106923": "2026-11-14",
   "eightfold:qualcomm|qualcomm.com:446722100582": "2026-11-14",
+  "eightfold:qualcomm|qualcomm.com:446722159183": "2026-11-17",
   "eightfold:ralliant|ralliant.com:1133916465622": "2026-11-14",
   "eightfold:trinet:45463947": "2026-11-16",
   "gem:11x-ai:am9icG9zdDpN0ovTmygawbCJq-vsmqN2": "2026-11-14",
@@ -66010,6 +66016,7 @@
   "greenhouse:akidolabs:4724400006": "2026-11-14",
   "greenhouse:altentechnologyusa:5291820007": "2026-11-14",
   "greenhouse:altentechnologyusa:5291845007": "2026-11-14",
+  "greenhouse:anthropic:5484171008": "2026-11-17",
   "greenhouse:assystinc:4485426009": "2026-11-14",
   "greenhouse:assystinc:4488129009": "2026-11-14",
   "greenhouse:assystinc:4488190009": "2026-11-14",
@@ -67088,6 +67095,7 @@
   "jibe:githubinc.jibeapply.com:7406": "2026-11-16",
   "jibe:jobs.keysight.com:54704": "2026-11-14",
   "jibe:jobs.keysight.com:55298": "2026-11-14",
+  "jibe:jobs.keysight.com:55307": "2026-11-17",
   "jibe:jobs.keysight.com:56446": "2026-11-14",
   "jibe:jobs.keysight.com:56448": "2026-11-14",
   "jibe:jobs.keysight.com:56642": "2026-11-17",
@@ -69432,7 +69440,7 @@
   "remoteok": "2026-11-17T01:47:36+00:00",
   "usajobs": "2026-11-17T01:47:36+00:00",
   "workable_search": "2026-11-17T01:47:36+00:00",
-  "wwr": "2026-11-17T01:47:36+00:00",
+  "wwr": "2026-11-17T02:46:22+00:00",
   "yc": "2026-11-17T01:47:36+00:00"
  },
  "title_rules": "72f554d20a7f",
