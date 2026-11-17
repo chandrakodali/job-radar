@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**677 jobs**, newest first. Updated Tue Nov 17, 5:37 AM CST from 12,526 company job boards and other sources.
+**677 jobs**, newest first. Updated Tue Nov 17, 6:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -727,13 +727,14 @@ Jump to: [Tue 17 (4)](#tuesday-nov-17-4) · [Mon 16 (50)](#monday-nov-16-50) · 
 | 9:18 AM | [Network Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8936251002) | Atoms | San Francisco, CA | 60 | 0-2 yrs exp; repost |
 | 7:40 AM | [Infrastructure Engineer](https://jobs.smartrecruiters.com/Bet3651/744000160877785-infrastructure-engineer) | bet365 | Denver, Colorado, United States (hybrid) | 70 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (709)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (710)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Systems Configuration Management Engineer (Level 3 or 4)](https://ngc.eightfold.ai/careers/job/1340075281013) | Ngc | San Diego, CA, US; Melbourne, FL, US; E… (onsite) | 50 | rules: 3+ yrs exp; senior title; needs: security clearance |
+| 6:07 AM (seen) | [Technical Support Engineer (SRE)](https://jobs.jobvite.com/nutanix/job/ohorAfwq) | Nutanix |  | 25 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
 | 5:37 AM (seen) | [FinOps Associate](https://tabby.pinpointhq.com/en/postings/a527eaeb-dc9d-488e-af8a-090677dcc8e3) | Tabby | KSA (onsite) | 40 | rules: entry-level title; 3+ yrs exp; location unclear; adjacent titl… |
 | 5:09 AM | [Senior DevOps Engineer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016898476-senior-devops-engineer) | Cityofnewyork | Brooklyn, NY, United States | 50 | rules: 6+ yrs exp; senior title; E-Verify; asks for 6+ years of exper… |
 | 3:48 AM | [Senior Infrastructure Engineer, Infrastructure Integration](https://jobs.lever.co/jobgether/7104d943-10cd-4d2e-a840-bf959e3d7b32) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
@@ -1132,7 +1133,6 @@ Jump to: [Tue 17 (4)](#tuesday-nov-17-4) · [Mon 16 (50)](#monday-nov-16-50) · 
 | date only | [IT Network Engineering III](https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/IT-Network-Engineering-III_RC6193) | FedEx Freight | FXF-US/USA/FXFMHQ/Memphis Headquarters | 23 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior DevOps Engineer - Apache Airflow Platform](https://wd1.myworkdaysite.com/recruiting/fmr/FidelityCareers/job/Merrimack-NH/Senior-DevOps-Engineer---Apache-Airflow-Platform_2137630) | Fidelity Investments | Merrimack, NH | 38 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Linux Systems Engineer - EDA Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Linux-Systems-Engineer---EDA-Infrastructure_JR2025019) | NVIDIA | US, CA, Remote +1 more (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| date only | [Senior Infrastructure Security Engineer – EDA Clusters](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Infrastructure-Security-Engineer---EDA-Clusters_JR2028279) | NVIDIA | US, CA, Remote; US, NC, Remote; US, CO,… (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 
 </details>
 
