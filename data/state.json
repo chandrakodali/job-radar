@@ -11723,6 +11723,7 @@
   "ashby:fluidstack:f1811455-d414-4630-b22c-58a585163864": "2026-11-16",
   "ashby:openai:e70a2b94-17d7-4083-a028-943bae53d126": "2026-11-13",
   "ashby:resolution:d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b": "2026-11-17",
+  "greenhouse:2k:8206136003": "2026-11-17",
   "greenhouse:3cloud:8933933002": "2026-11-17",
   "greenhouse:accenturefederalservices:4725819006": "2026-11-13",
   "greenhouse:accenturefederalservices:4727077006": "2026-11-12",
@@ -11740,6 +11741,7 @@
   "greenhouse:twinstream:5016466101": "2026-11-12",
   "greenhouse:twinstream:5018760101": "2026-11-12",
   "greenhouse:vast:4726228006": "2026-11-12",
+  "greenhouse:visualconcepts:8205804003": "2026-11-17",
   "greenhouse:yipitdata:8329263": "2026-11-12",
   "lever:jobgether:0c283a8d-6190-4326-acea-e12a22f0bc12": "2026-11-16",
   "lever:jobgether:6ee78390-07bc-4e75-a921-511307f32e34": "2026-11-16",
@@ -11956,6 +11958,11 @@
    "n": 4,
    "since": "2026-11-07"
   },
+  "ashby:nectar-social": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-17"
+  },
   "ashby:odin-dynamics": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -12084,17 +12091,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 207,
+   "n": 208,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 207,
+   "n": 208,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 207,
+   "n": 208,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14915,6 +14922,7 @@
   "Essnova Solutions, Inc.": "2026-11-17",
   "Foresight Works Ltd": "2026-11-13",
   "Fortanix": "2026-11-14",
+  "Frontera Space": "2026-11-17",
   "GEM Technologies": "2026-11-17",
   "GoMining": "2026-11-17",
   "Halcyon": "2026-11-14",
@@ -14962,8 +14970,8 @@
    336
   ],
   "2026-11-17": [
-   131,
-   362
+   149,
+   397
   ]
  },
  "resolved": {
@@ -65772,6 +65780,7 @@
   "apple:usa:200695000": "2026-11-16",
   "apple:usa:200695127": "2026-11-16",
   "apple:usa:200695197": "2026-11-16",
+  "apple:usa:200695296": "2026-11-17",
   "apple:usa:200695356": "2026-11-17",
   "ashby:AeroVect:49403b08-400b-43e7-91f8-709c965bda54": "2026-11-07",
   "ashby:AeroVect:91db7309-415c-498b-a033-373af6546a68": "2026-11-12",
@@ -67164,6 +67173,7 @@
   "greenhouse:voyagertechnologiesinc:4484594009": "2026-11-11",
   "greenhouse:whitewatermidstream:5277071007": "2026-11-09",
   "greenhouse:whitewatermidstream:5284618007": "2026-11-07",
+  "greenhouse:wikimedia:8397050": "2026-11-17",
   "greenhouse:xai:5286282007": "2026-11-07",
   "greenhouse:xai:5294116007": "2026-11-13",
   "greenhouse:yipitdata:8329263": "2026-11-09",
@@ -67412,6 +67422,7 @@
   "icims:careers-empowerai.icims.com:9498": "2026-11-12",
   "icims:careers-empowerai.icims.com:9708": "2026-11-09",
   "icims:careers-empowerai.icims.com:9732": "2026-11-09",
+  "icims:careers-empowerai.icims.com:9808": "2026-11-17",
   "icims:careers-entarian.icims.com:10006": "2026-11-09",
   "icims:careers-entarian.icims.com:10022": "2026-11-12",
   "icims:careers-entarian.icims.com:9136": "2026-11-12",
@@ -69080,6 +69091,7 @@
   "smartrecruiters:intuitive:744000161922039": "2026-11-16",
   "smartrecruiters:linkedin3:744000158161003": "2026-11-07",
   "smartrecruiters:linkedin3:744000161375119": "2026-11-12",
+  "smartrecruiters:linkedin3:744000162178160": "2026-11-17",
   "smartrecruiters:nbcuniversal3:744000158379625": "2026-11-07",
   "smartrecruiters:nbcuniversal3:744000160289778": "2026-11-12",
   "smartrecruiters:nbcuniversal3:744000161163099": "2026-11-11",
@@ -69238,6 +69250,7 @@
   "workable_search:all:67ecd7ef-b7ec-4075-9943-d708e84f36d4": "2026-11-12",
   "workable_search:all:88bd6b31-9eaa-491b-8762-e21c1db86a32": "2026-11-13",
   "workable_search:all:9a2128fb-16c5-4439-8180-68c7eb413c63": "2026-11-12",
+  "workable_search:all:9e591820-de7d-4c81-aec9-c6518335d40a": "2026-11-17",
   "workable_search:all:a699668e-35fc-4223-a4fb-45aad50f4768": "2026-11-12",
   "workable_search:all:a7c28c05-02c5-413c-b112-056421be2426": "2026-11-12",
   "workable_search:all:b109e4b0-9b04-4903-9369-3db2ec12fcb1": "2026-11-13",
@@ -70049,10 +70062,10 @@
  "source_last": {
   "hn": "2026-11-17T20:37:18+00:00",
   "remoteok": "2026-11-17T21:37:16+00:00",
-  "usajobs": "2026-11-17T19:07:19+00:00",
-  "workable_search": "2026-11-17T19:07:19+00:00",
+  "usajobs": "2026-11-17T22:07:19+00:00",
+  "workable_search": "2026-11-17T22:07:19+00:00",
   "wwr": "2026-11-17T21:37:16+00:00",
-  "yc": "2026-11-17T19:07:19+00:00"
+  "yc": "2026-11-17T22:07:19+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
