@@ -1,14 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**707 jobs**, newest first. Updated Mon Nov 16, 9:14 PM CST from 12,526 company job boards and other sources.
+**703 jobs**, newest first. Updated Mon Nov 16, 10:18 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 231 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,291 matching jobs that job sites and feeds listed this week, 427 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,388 matching jobs that job sites and feeds listed this week, 444 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Mon 16 (59)](#monday-nov-16-59) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (91)](#tuesday-nov-10-91) · [Mon 9 (11)](#monday-nov-9-11)
+Jump to: [Mon 16 (59)](#monday-nov-16-59) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (91)](#tuesday-nov-10-91) · [Mon 9 (7)](#monday-nov-9-7)
 
 ## Monday, Nov 16 (59)
 
@@ -741,7 +741,7 @@ Jump to: [Mon 16 (59)](#monday-nov-16-59) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 5:00 AM | [Associate Solution Consultant](https://jobs.ashbyhq.com/socure/f2330d9e-1c1d-493e-adb7-e7602efc789f) | Socure | Hub - New York; Hub - San Francisco; Hu… (hybrid) | 68 | entry-level title |
 | 12:00 AM | [Cyber Security Associate (Contract)](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9185) | Hightower | Chicago, IL, US | 63 | entry-level title |
 
-## Monday, Nov 9 (11)
+## Monday, Nov 9 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -752,12 +752,8 @@ Jump to: [Mon 16 (59)](#monday-nov-16-59) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 11:00 PM | [Penetration Tester](https://career-portal-wolfandco.icims.com/jobs/1605/penetration-tester/job) | Wolf & Company | Boston, MA, United States | 63 | 1+ yrs exp |
 | 11:00 PM | [Traveler Support Center Specialist](https://jobs.dayforcehcm.com/en-US/corpay/candidateportal/jobs/57588) | Corpay | Wichita, KS, US | 63 | 1+ yrs exp |
 | 10:29 PM | [Associate Salesforce Administrator](https://jobs.lever.co/jobgether/23e8f6ed-3502-485d-b40d-552db48f89eb) | Jobgether | US (remote) | 70 | entry-level title; 0-2 yrs exp |
-| 9:49 PM | [Quality Assurance Associate](https://telixpharma.com/careers/find-a-job/?region=telixus&gh_jid=4727728006) | Telixus | Angleton | 68 | entry-level title; 1+ yrs exp; location unclear |
-| 9:46 PM | [Data/Document Specialist](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=18688a6c-b976-480c-a7a7-a0c92ecf44f2&ccId=19000101_000001&jobId=9207421535459_5&lang=en_US) | 18688A6C B976 480C A7A7 A0C92… | Oklahoma City, OK | 63 | entry level (from the text) |
-| 9:40 PM | [Implementation Specialist (Remote LATAM or US)](https://jobs.ashbyhq.com/whippy/5dbb50c3-9ca1-4483-b9d9-dc083b911f1b) | Whippy | Remote - Latin America; Remote- United … (remote) | 70 | 0-2 yrs exp; entry level (from the text) |
-| 9:39 PM | [Associate Solutions Engineer, Post-Sale (Remote LATAM or US)](https://jobs.ashbyhq.com/whippy/45a5f2e9-2b18-49e5-b3b0-9b32a5de8052) | Whippy | Remote - Latin America; Remote- United … (remote) | 70 | entry-level title; 0-2 yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3292)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3298)
 
 <details><summary>Show</summary>
 
@@ -767,7 +763,11 @@ Jump to: [Mon 16 (59)](#monday-nov-16-59) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | date only | [GTM Data Analyst](https://apply.workable.com/bask-health-1/j/8F7C4076E8/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Revenue Analytics Analyst](https://apply.workable.com/bask-health-1/j/F0E9BEC210/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Environmental test engineer](https://www.amazon.jobs/en/jobs/10606793/environmental-test-engineer) | KGS LLC | Northridge, California, USA | 60 | rules: 4+ yrs exp; needs: Security Clearance |
+| date only | [Systems Development Engineer, DC Robotics, Data Center Robotics](https://www.amazon.jobs/en/jobs/10606820/systems-development-engineer-dc-robotics-data-center-robotics) | Amazon Data Services, Inc. | Seattle, Washington, USA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| date only | [Clearable Data Center Technician, Infraops AG](https://www.amazon.jobs/en/jobs/10604670/clearable-data-center-technician-infraops-ag) | Amazon Data Services, Inc. | Aurora, Colorado, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
+| date only | [Clearable Data Center Technician, Data Center Operations](https://www.amazon.jobs/en/jobs/10597767/clearable-data-center-technician-data-center-operations) | Amazon Web Services, Inc. | Aurora, Colorado, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
 | 10:42 PM | [Practice Support Specialist](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_1&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 55 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
+| 9:32 PM | [Software Engineer, Ads Serving](https://job-boards.greenhouse.io/xai/jobs/5297311007) | xAI | Palo Alto, CA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:02 PM | [Software Engineer, Distributed Systems](https://jobs.ashbyhq.com/ThinkingMachines/50f566c8-7fe3-4fe5-a8ca-b42503537a51) | ThinkingMachines | San Francisco; New York (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 9:01 PM | [Software Engineer, Tinker Infrastructure](https://jobs.ashbyhq.com/ThinkingMachines/541c2fcf-e128-4442-94ee-c8298f226756) | ThinkingMachines | San Francisco (onsite) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 9:00 PM | [Technical & Tools Consultant – Epicor Kinetic (Application Studio, BA…](https://jobs.lever.co/jobgether/8707628c-f384-4edf-bba9-2c0c0a102274) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -779,6 +779,7 @@ Jump to: [Mon 16 (59)](#monday-nov-16-59) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 7:36 PM | [Finance Planning Systems (SAP Analytics Cloud)](https://jobs.smartrecruiters.com/AbbVie/3743990016894246-finance-planning-systems-sap-analytics-cloud-) | AbbVie | Chicago, IL, United States (remote) | 42 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 7:14 PM | [CNC Programmer](https://boards.greenhouse.io/vast/jobs/4730097006?gh_jid=4730097006) | VAST | Hawthorne, California, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 7:13 PM | [Product Security Engineer, Offensive Security](https://www.coinbase.com/careers/positions/8394654?gh_jid=8394654) | Coinbase | Remote - USA (remote) | 62 | rules: 3+ yrs exp; E-Verify; asks for 3+ years of experience |
+| 7:08 PM | [GTM Data Analyst](https://jobs.workable.com/view/nNMr95fawLmgBi6tKUxr31/remote-gtm-data-analyst-in-united-states-at-bask-health) | Bask Health | Remote, US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 7:07 PM | [Research and Reporting Analyst](https://epyz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/19533) | Epyz Fa Us2 Oraclecloud Com | Orlando, FL, United States; Jacksonvill… (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 7:07 PM | [Software Engineer–Infiniium Oscilloscope Software Development](https://jobs.keysight.com/jobs/56642?lang=en-us) | Keysight Technologies | Colorado Springs, Colorado | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 7:05 PM | [Security Engineer - Federal](https://job-boards.greenhouse.io/eleviassociates/jobs/8206225003) | Eleviassociates | Chantilly, VA | 45 | rules: 15+ yrs exp; needs: Active TS/SCI |
@@ -954,6 +955,7 @@ Jump to: [Mon 16 (59)](#monday-nov-16-59) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | date only | [Machine Learning Engineer, Medical Imaging](https://carlsmed.bamboohr.com/careers/265) | Carlsmed | Carlsbad, California | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Resource Control Team Software Engineer (Level 1 or 2) - AHT](https://ngc.eightfold.ai/careers/job/1340073866482) | Ngc | Manhattan Beach, CA, US (onsite) | 73 | rules: entry-level title; needs: Secret clearance |
 | date only | [Configurable On-Board Router (COR) Team - Software Engineer (AHT)](https://ngc.eightfold.ai/careers/job/1340073866409) | Ngc | Manhattan Beach, CA, US (onsite) | 73 | rules: entry level (from the text); needs: Secret clearance |
+| date only | [US E-Consulting Services-Databricks Data Engineer-AI&E AI&D DE](https://apply.deloitte.com/en_US/careers/JobDetail/Databricks-Data-Engineer/375597) | Deloitte US |  | 48 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | 10:57 AM | [Frontend Software Engineer](https://job-boards.greenhouse.io/grvty/jobs/4508719009) | GRVTY | Laurel, Maryland, United States; San An… | 45 | rules: 9+ yrs exp; needs: Secret clearance |
 | 10:57 AM | [Databricks Platform Engineer](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22512) | EXL | New York, United States (hybrid) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:56 AM | [QA Specialist - Data Center](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7117) | Black Box | BOWLING GREEN, OH, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -1157,11 +1159,5 @@ Jump to: [Mon 16 (59)](#monday-nov-16-59) · [Sun 15 (23)](#sunday-nov-15-23) ·
 | 2:59 PM (seen) | [AVP, Data Solutions Engineering](https://app.careerpuck.com/job-board/fortitudegroupholdingsllc/job/d9GA-azZ) | Fortitudegroupholdingsllc | Nashville +2 more | 30 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 2:59 PM (seen) | [Product Developer & Technician](https://app.careerpuck.com/job-board/outcast-clothing/job/3Hu1nX4m) | Outcast Clothing | Burleigh Heads, Gold Coast (hybrid) | 65 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 2:59 PM (seen) | [Backend Software Engineer, Airports](https://app.careerpuck.com/job-board/lyft/job/Y2nMVEgo) | Lyft | San Francisco, CA | 60 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 2:59 PM (seen) | [Business Systems Engineer](https://app.careerpuck.com/job-board/lyft/job/fbNFrlom) | Lyft | U.S. Anywhere | 45 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:59 PM (seen) | [Data Scientist](https://app.careerpuck.com/job-board/lyft/job/U3UU4A5I) | Lyft | Seattle, WA | 60 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 2:59 PM (seen) | [ML Software Engineer, ETA](https://app.careerpuck.com/job-board/lyft/job/nzmKC_Yy) | Lyft | San Francisco, CA | 45 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:59 PM (seen) | [Software Engineer](https://app.careerpuck.com/job-board/lyft/job/Jq3i-6MC) | Lyft | Seattle, WA | 60 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 2:59 PM (seen) | [Kaustav QA Greenhouse Testing Grounds](https://app.careerpuck.com/job-board/smoke-test/job/7-ea1lDa) | Smoke Test | Denver, CO or Remote (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:59 PM (seen) | [Frontend Engineer](https://app.careerpuck.com/job-board/puck-ashby-sandbox/job/tWOqDLkx) | Puck Ashby Sandbox | San Francisco (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>

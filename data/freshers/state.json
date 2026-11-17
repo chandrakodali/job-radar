@@ -11955,17 +11955,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 82,
+   "n": 83,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 82,
+   "n": 83,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 82,
+   "n": 83,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12699,21 +12699,6 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-13"
-  },
-  "oracle:ecge.fa.us2.oraclecloud.com|CX": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "oracle:efet.fa.us2.oraclecloud.com|CX_1": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
-  },
-  "oracle:eguq.fa.us2.oraclecloud.com|MovingYouForward": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-17"
   },
   "paylocity:500ecd97-3dfb-42c8-b995-8af3be95fcc1": {
    "err": "network error: ConnectionError",
@@ -13710,7 +13695,7 @@
   "Executive Title Agency": "2026-11-17",
   "Geeks on Site": "2026-11-17",
   "GoGoGrandparent": "2026-11-17",
-  "HSI": "2026-11-16",
+  "HSI": "2026-11-17",
   "Impact Life": "2026-11-16",
   "J-Mack Technologies": "2026-11-17",
   "Jiffy": "2026-11-16",
@@ -13765,8 +13750,8 @@
    684
   ],
   "2026-11-17": [
-   17,
-   97
+   34,
+   194
   ]
  },
  "resolved": {
@@ -64560,6 +64545,7 @@
   "amazon:us:10597665": "2026-11-14",
   "amazon:us:10597677": "2026-11-14",
   "amazon:us:10597708": "2026-11-14",
+  "amazon:us:10597767": "2026-11-17",
   "amazon:us:10597786": "2026-11-14",
   "amazon:us:10597790": "2026-11-14",
   "amazon:us:10597803": "2026-11-14",
@@ -64726,6 +64712,7 @@
   "amazon:us:10604591": "2026-11-14",
   "amazon:us:10604594": "2026-11-14",
   "amazon:us:10604661": "2026-11-14",
+  "amazon:us:10604670": "2026-11-17",
   "amazon:us:10604684": "2026-11-14",
   "amazon:us:10604717": "2026-11-16",
   "amazon:us:10604721": "2026-11-16",
@@ -64780,6 +64767,7 @@
   "amazon:us:10606737": "2026-11-16",
   "amazon:us:10606791": "2026-11-17",
   "amazon:us:10606793": "2026-11-17",
+  "amazon:us:10606820": "2026-11-17",
   "apple:usa:200555687": "2026-11-14",
   "apple:usa:200607680": "2026-11-14",
   "apple:usa:200637194": "2026-11-14",
@@ -65594,6 +65582,7 @@
   "avature:deloitteus.avature.net|careers:360141": "2026-11-16",
   "avature:deloitteus.avature.net|careers:360366": "2026-11-16",
   "avature:deloitteus.avature.net|careers:361116": "2026-11-16",
+  "avature:deloitteus.avature.net|careers:362032": "2026-11-17",
   "avature:deloitteus.avature.net|careers:362099": "2026-11-16",
   "avature:deloitteus.avature.net|careers:362517": "2026-11-16",
   "avature:deloitteus.avature.net|careers:362614": "2026-11-16",
@@ -65646,6 +65635,7 @@
   "avature:deloitteus.avature.net|careers:371235": "2026-11-16",
   "avature:deloitteus.avature.net|careers:371308": "2026-11-16",
   "avature:deloitteus.avature.net|careers:371444": "2026-11-16",
+  "avature:deloitteus.avature.net|careers:371556": "2026-11-17",
   "avature:deloitteus.avature.net|careers:371629": "2026-11-16",
   "avature:deloitteus.avature.net|careers:371645": "2026-11-16",
   "avature:deloitteus.avature.net|careers:371680": "2026-11-16",
@@ -65725,6 +65715,7 @@
   "avature:deloitteus.avature.net|careers:375393": "2026-11-16",
   "avature:deloitteus.avature.net|careers:375440": "2026-11-16",
   "avature:deloitteus.avature.net|careers:375483": "2026-11-16",
+  "avature:deloitteus.avature.net|careers:375597": "2026-11-17",
   "avature:dhlconsulting.avature.net|careers:450": "2026-11-15",
   "avature:dhlconsulting.avature.net|careers:625": "2026-11-15",
   "avature:dth.avature.net|careers:27763": "2026-11-15",
@@ -69599,6 +69590,8 @@
   "greenhouse:xai:5290321007": "2026-11-13",
   "greenhouse:xai:5294116007": "2026-11-13",
   "greenhouse:xai:5295932007": "2026-11-16",
+  "greenhouse:xai:5297311007": "2026-11-17",
+  "greenhouse:xai:5297316007": "2026-11-17",
   "greenhouse:yext:8264517": "2026-11-13",
   "greenhouse:yugabyte:4727959006": "2026-11-13",
   "greenhouse:ziprecruiter:8338245": "2026-11-13",
@@ -73741,6 +73734,7 @@
   "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41505": "2026-11-13",
   "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41577": "2026-11-13",
   "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41600": "2026-11-13",
+  "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41673": "2026-11-17",
   "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41810": "2026-11-13",
   "oracle:fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:167415": "2026-11-16",
   "oracle:fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:170986": "2026-11-16",
@@ -77281,6 +77275,7 @@
   "workable_search:all:a51c50d5-f4ab-4507-9526-d27d32fb7ed9": "2026-11-13",
   "workable_search:all:a7371ab9-0835-4244-8083-2f993322e967": "2026-11-16",
   "workable_search:all:aec9f916-6cea-4fe7-96cc-93543bcd8b2e": "2026-11-13",
+  "workable_search:all:b0981fe7-a7a5-4e63-a453-c940baf9f530": "2026-11-17",
   "workable_search:all:b16cd1c9-07e7-4c80-a2f5-b2b707bce96b": "2026-11-13",
   "workable_search:all:b2d02a02-d383-4d76-8b1d-7f88a1ba7855": "2026-11-14",
   "workable_search:all:bfac4181-b8af-4a7a-8512-c6408e190c68": "2026-11-16",
@@ -80429,8 +80424,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-17T00:47:45+00:00",
-  "yc": "2026-11-17T00:47:45+00:00"
+  "workable_search": "2026-11-17T04:18:04+00:00",
+  "yc": "2026-11-17T04:18:04+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
