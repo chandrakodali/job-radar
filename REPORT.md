@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**683 jobs**, newest first. Updated Mon Nov 16, 6:07 PM CST from 12,526 company job boards and other sources.
+**683 jobs**, newest first. Updated Mon Nov 16, 6:37 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -733,7 +733,7 @@ Jump to: [Mon 16 (50)](#monday-nov-16-50) · [Sun 15 (14)](#sunday-nov-15-14) ·
 | 9:31 PM | [Integration Build Engineer](https://boards.greenhouse.io/vast/jobs/4728490006?gh_jid=4728490006) | VAST | Long Beach, California, United States | 45 | 4+ yrs exp; repost |
 | 8:24 PM | [IT Infrastructure Managers: Interview on Desktop Provisioning Strateg…](https://jobs.ashbyhq.com/terac/905ccd00-8971-4b83-aad4-957e6526199c) | Terac | United States (remote) | 47 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (717)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (710)
 
 <details><summary>Show</summary>
 
