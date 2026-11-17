@@ -1,14 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**701 jobs**, newest first. Updated Tue Nov 17, 7:48 AM CST from 12,526 company job boards and other sources.
+**698 jobs**, newest first. Updated Tue Nov 17, 8:02 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-231 repeat listings (same company and title in another place or on another source) are merged into one row.
+230 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 2,674 matching jobs that job sites and feeds listed this week, 494 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (87)](#tuesday-nov-10-87)
+Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (152)](#friday-nov-13-152) · [Thu 12 (113)](#thursday-nov-12-113) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (83)](#tuesday-nov-10-83)
 
 ## Tuesday, Nov 17 (8)
 
@@ -23,11 +23,12 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · 
 | 2:23 AM | [Machine Learning Engineer](https://jobs.lever.co/jobgether/14392006-a041-4d52-a5fa-236149b99477) | Jobgether | US (remote) | 72 | 1+ yrs exp |
 | 1:46 AM | [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://jobs.lever.co/jobgether/f4b092a6-63f4-4209-897e-eb386e4aa422) | Jobgether | US (remote) | 72 | entry-level title |
 
-## Monday, Nov 16 (60)
+## Monday, Nov 16 (61)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:00 PM | [Service Desk Technician](https://career-portal-wolfandco.icims.com/jobs/1609/service-desk-technician/job) | Wolf & Company | Boston, MA, United States | 85 | 0-2 yrs exp; entry level (from the text) |
+| 11:00 PM | [Nuuly - Business Systems Analyst](https://homeoffice-na-urbn.icims.com/jobs/35687/nuuly---business-systems-analyst/job) | URBN | Philadelphia, PA, United States | 75 | 1+ yrs exp |
 | 8:40 PM | [Business Applications Analyst I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b00969b-cd4f-46ff-843c-0ca700b59ca3&ccId=19000101_000001&jobId=9200917479411_1&lang=en_US) | 1B00969B Cd4F 46Ff 843C 0Ca70… | San Antonio, TX | 85 | entry-level title; 1+ yrs exp |
 | 8:30 PM | [Fusion Applications AI Agent Adoption Consultant](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350752) | Oracle | United States | 85 | 1+ yrs exp; entry level (from the text) |
 | 8:30 PM | [Fusion Applications AI Agent Adoption Consultant](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/350752) | Eeho Fa Us2 Oraclecloud Com | United States | 85 | 1+ yrs exp; entry level (from the text) |
@@ -659,7 +660,7 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · 
 | 2:00 AM | [Business Data Analyst](https://jobs.dayforcehcm.com/en-US/allianthcm/smsalliant/jobs/44606) | Allianthcm | Omaha, NE, US | 63 | 1+ yrs exp |
 | 1:30 AM | [SAP BASIS Administrator Associate](https://jobs.smartrecruiters.com/O-I/744000161034659-sap-basis-administrator-associate) | O I | Perrysburg, OH, United States (hybrid) | 68 | entry-level title |
 
-## Tuesday, Nov 10 (87)
+## Tuesday, Nov 10 (83)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -746,12 +747,8 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · 
 | 10:12 AM | [Technical Services Analyst I](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4540) | Rheem | Fort Smith, AR, United States | 63 | entry-level title |
 | 9:18 AM | [Network Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8936251002) | Atoms | San Francisco, CA | 63 | entry level (from the text) |
 | 8:45 AM | [SDET I](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5129) | Verisk | Lehi, UT, United States (hybrid) | 78 | entry-level title; 1+ yrs exp |
-| 7:58 AM | [Information Technology Specialist](https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26053) | Denso | Southfield, MI, United States (onsite) | 68 | 1+ yrs exp |
-| 7:55 AM | [SAS Programmer - Entry Level](https://careers.medpace.com/jobs/11881?lang=en-us) | Medpace, Inc. | Cincinnati, Ohio | 63 | entry-level title |
-| 7:53 AM | [Data Engineer (AI) - Cincinnati](https://careers.medpace.com/jobs/12786?lang=en-us) | Medpace, Inc. | Cincinnati, Ohio | 63 | 1+ yrs exp |
-| 7:51 AM | [AI Engineer](https://careers.medpace.com/jobs/12103?lang=en-us) | Medpace, Inc. | Cincinnati, Ohio | 63 | 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3330)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3332)
 
 <details><summary>Show</summary>
 
@@ -772,6 +769,7 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · 
 | date only | [Full-Stack Software Engineer](https://jobs.jobvite.com/visionist/job/o9W7Afww) | Visionist | Columbia, MD, United States | 45 | rules: 14+ yrs exp; needs: security clearance |
 | date only | [Virtualization & Systems Engineer](https://arctiq.bamboohr.com/careers/363) | Arctiq | Blue Bell, Pennsylvania | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:35 AM | [Machine Learning Infrastructure Engineer,  Technology](https://boards.greenhouse.io/point72/jobs/8945315002?gh_jid=8945315002) | Point72 | New York, NY | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 7:33 AM | [Edge OS Platform Engineer IT Specialist](https://eaton.eightfold.ai/careers/job/687240042663) | Eaton | Irvine, CA, US; Beachwood, OH, US; San … (onsite) | 50 | rules: 14+ yrs exp; needs: must be a U.S. person |
 | 7:00 AM | [Network Field Operations Specialist - IT Tx & Dx Systems and Complian…](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FirstEnergyCareers/job/105921) | FirstEnergy | Reading, PA, United States | 40 | rules: 9+ yrs exp; no future H-1B sponsorship; asks for 9+ years of e… |
 | 6:47 AM (seen) | [Technical Support Engineer (SRE)](https://jobs.jobvite.com/nutanix/job/ohorAfwq) | Nutanix |  | 25 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
 | 6:47 AM | [Integration Associate, Clinic Acquisitions](https://jobs.lever.co/jobgether/ba470345-e179-4914-9640-2a70d208f2b2) | Jobgether | US (remote) | 82 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
@@ -795,6 +793,7 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · 
 | 11:06 PM | [Data Scientist – Advanced Analytics & Healthcare Research](https://jobs.lever.co/jobgether/a4824d48-5f1c-49a6-9780-2dde57e359cc) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Information Security Specialist](https://jobs.dayforcehcm.com/en-US/safetytechnology/HumaneticsExtCareerSite/jobs/11022) | Safetytechnology | Farmington Hills, MI, US | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 11:00 PM | [Business Support Specialist](https://uscareers2-asm.icims.com/jobs/443909/business-support-specialist/job) | Advantage Solutions | Matthews, NC, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 11:00 PM | [GIS Cartographer/Software Engineer](https://careers-americansystems.icims.com/jobs/5291/gis-cartographer-software-engineer/job) | AMERICAN SYSTEMS | Arlington, VA, United States | 45 | rules: 10+ yrs exp; needs: security clearance |
 | 10:42 PM | [Practice Support Specialist](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_1&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 55 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | 10:34 PM | [Patient Outreach and Support Specialist-Temp](https://job-boards.greenhouse.io/natera/jobs/6263353004) | Natera | US Remote (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 10:22 PM | [Spacecraft Environmental Test Technician](https://jobs.ashbyhq.com/apex-technology-inc/8092a0e6-6c73-474a-a0e6-a116b381eefe) | Apex | Los Angeles | 60 | rules: 3+ yrs exp; needs: ITAR |
@@ -1155,7 +1154,5 @@ Jump to: [Tue 17 (8)](#tuesday-nov-17-8) · [Mon 16 (60)](#monday-nov-16-60) · 
 | date only | [Cloud Engineer, Azure](https://apply.deloitte.com/en_US/careers/JobDetail/Cloud-Engineer-Azure/368427) | Deloitte US |  | 48 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | date only | [Global IAM - IGA Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Global-IAM-IGA-Engineer/368450) | Deloitte US |  | 68 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Cloud Security Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Cloud-Security-Engineer/369679) | Deloitte US |  | 28 | rules: 5+ yrs exp; location unclear; no future H-1B sponsorship; asks… |
-| date only | [AWS DevOps Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/AWS-DevOps-Engineer/373105) | Deloitte US |  | 33 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
-| 9:03 AM | [Physical AI Data Collection Associate](https://jobs.ashbyhq.com/Clera/19f1c181-17c0-45ce-981b-cf62240b95d9) | Clera | remote | 50 | rules: entry-level title; 5+ yrs exp; location unclear; asks for 5+ y… |
 
 </details>

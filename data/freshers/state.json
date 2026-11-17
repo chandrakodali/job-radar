@@ -11968,17 +11968,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 92,
+   "n": 93,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 92,
+   "n": 93,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 92,
+   "n": 93,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12277,7 +12277,7 @@
   },
   "greenhouse:quip": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-17"
   },
   "greenhouse:rdccareers": {
@@ -13693,7 +13693,7 @@
   }
  },
  "found_cursor": 0,
- "last_digest": "2026-11-16",
+ "last_digest": "2026-11-17",
  "missed_companies": {
   "AG Consulting Partners, Inc.": "2026-11-17",
   "American Consumer Credit Counseling": "2026-11-14",
@@ -68177,6 +68177,7 @@
   "eightfold:citi:859039011534": "2026-11-16",
   "eightfold:citi:859039017393": "2026-11-16",
   "eightfold:eaton:687239497094": "2026-11-14",
+  "eightfold:eaton:687240042663": "2026-11-17",
   "eightfold:eaton:687240256748": "2026-11-16",
   "eightfold:eaton|eaton.com:687239497094": "2026-11-13",
   "eightfold:eaton|eaton.com:687240256748": "2026-11-16",
@@ -69921,6 +69922,7 @@
   "icims:careers-americansystems.icims.com:5209": "2026-11-13",
   "icims:careers-americansystems.icims.com:5210": "2026-11-13",
   "icims:careers-americansystems.icims.com:5211": "2026-11-13",
+  "icims:careers-americansystems.icims.com:5291": "2026-11-17",
   "icims:careers-americas.icims.com:24970": "2026-11-13",
   "icims:careers-americas.icims.com:25539": "2026-11-13",
   "icims:careers-americas.icims.com:25561": "2026-11-13",
@@ -71860,6 +71862,7 @@
   "icims:gsk-us-earlytalent.icims.com:11241": "2026-11-13",
   "icims:homeoffice-na-urbn.icims.com:30673": "2026-11-13",
   "icims:homeoffice-na-urbn.icims.com:30756": "2026-11-13",
+  "icims:homeoffice-na-urbn.icims.com:35687": "2026-11-17",
   "icims:homeoffice-na-urbn.icims.com:39180": "2026-11-13",
   "icims:iwtcareers-ads-pipe.icims.com:21362": "2026-11-13",
   "icims:iwtcareers-ads-pipe.icims.com:21363": "2026-11-13",
