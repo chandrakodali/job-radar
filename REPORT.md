@@ -1,14 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**681 jobs**, newest first. Updated Tue Nov 17, 3:37 AM CST from 12,526 company job boards and other sources.
+**680 jobs**, newest first. Updated Tue Nov 17, 4:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 234 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,468 matching jobs that job sites and feeds listed this week, 504 (34%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,510 matching jobs that job sites and feeds listed this week, 524 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (3)](#tuesday-nov-17-3) · [Mon 16 (51)](#monday-nov-16-51) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (82)](#tuesday-nov-10-82)
+Jump to: [Tue 17 (3)](#tuesday-nov-17-3) · [Mon 16 (51)](#monday-nov-16-51) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (81)](#tuesday-nov-10-81)
 
 ## Tuesday, Nov 17 (3)
 
@@ -644,7 +644,7 @@ Jump to: [Tue 17 (3)](#tuesday-nov-17-3) · [Mon 16 (51)](#monday-nov-16-51) · 
 | 2:24 AM | [Senior Cloud Security Engineer](https://jobs.lever.co/jobgether/73d75c56-c3b4-403f-b49d-93905c180592) | Jobgether | US (remote) | 45 | 3+ yrs exp; senior title |
 | 2:00 AM | [Senior Engineer Core Infrastructure](https://careers.jetblue.com/job/Long-Island-City-Senior-Engineer-Core-Infrastructure-NY-11101/1389530100/) | JetBlue | Long Island City, NY, United States | 53 | 4+ yrs exp; senior title |
 
-## Tuesday, Nov 10 (82)
+## Tuesday, Nov 10 (81)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -729,7 +729,6 @@ Jump to: [Tue 17 (3)](#tuesday-nov-17-3) · [Mon 16 (51)](#monday-nov-16-51) · 
 | 5:35 AM | [DevOps and Production Support Specialist for the Division of HPD Tech](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016751836-devops-and-production-support-specialist-for-the-division-of-hpd-tech) | Cityofnewyork | New York City, NY, United States | 63 | 2+ yrs exp |
 | 5:04 AM | [IT System Engineer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016750616-it-system-engineer) | Cityofnewyork | Bronx, NY, United States | 38 |  |
 | 4:11 AM | [Senior Storage Engineer](https://jobs.workable.com/view/qEq7wBRzpYPhZXg9Ekrajb/hybrid-senior-storage-engineer-in-palo-alto-at-runware) | Runware | Palo Alto, California (hybrid) | 38 | senior title, years not stated |
-| 3:43 AM | [DevOps Engineer](https://job-boards.greenhouse.io/dept/jobs/8365231) | Dept | Skopje, Zagreb, Split | 60 | location unclear |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (707)
 
