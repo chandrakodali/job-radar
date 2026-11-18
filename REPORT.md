@@ -1,14 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**632 jobs**, newest first. Updated Tue Nov 17, 7:07 PM CST from 12,526 company job boards and other sources.
+**631 jobs**, newest first. Updated Tue Nov 17, 7:37 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 253 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,749 matching jobs that job sites and feeds listed this week, 611 (34%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,753 matching jobs that job sites and feeds listed this week, 611 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (5)](#tuesday-nov-10-5)
+Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (4)](#tuesday-nov-10-4)
 
 ## Wednesday, Nov 18 (2)
 
@@ -677,7 +677,7 @@ Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (33)](#tuesday-nov-17-33) 
 | 2:24 AM | [Senior Cloud Security Engineer](https://jobs.lever.co/jobgether/73d75c56-c3b4-403f-b49d-93905c180592) | Jobgether | US (remote) | 45 | 3+ yrs exp; senior title |
 | 2:00 AM | [Senior Engineer Core Infrastructure](https://careers.jetblue.com/job/Long-Island-City-Senior-Engineer-Core-Infrastructure-NY-11101/1389530100/) | JetBlue | Long Island City, NY, United States | 53 | 4+ yrs exp; senior title |
 
-## Tuesday, Nov 10 (5)
+## Tuesday, Nov 10 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -685,7 +685,6 @@ Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (33)](#tuesday-nov-17-33) 
 | 10:36 PM | [Senior NPI Quality and Reliability Engineer III](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4b01b1ef-1960-4219-8f3f-6c0652a81377&ccId=19000101_000001&jobId=9201310521902_172&lang=en_US) | 4B01B1Ef 1960 4219 8F3F 6C065… | Longmont, CO | 28 | senior title, years not stated |
 | 8:26 PM | [Deployment Engineer](https://jobs.ashbyhq.com/sieve/b8a87691-3b2a-4960-aa0e-cda34894039c) | Sieve | San Francisco (onsite) | 55 |  |
 | 7:51 PM (seen) | [Software Engineer, Cloud Infrastructure](https://app.dover.com/apply/weaverobotics/5b7bf24e-a8dc-40a3-86a7-5ff4e929b49c) | Weave Robotics | San Francisco, CA (onsite) | 55 |  |
-| 7:16 PM (seen) | [Evergreen Posting: DevSecOps Engineer](https://coforma.pinpointhq.com/en/postings/bd95e9e4-564a-4f23-a28d-380f43d98e8f) | Coforma | Remote (select US states) (remote) | 52 | E-Verify |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (747)
 
@@ -693,11 +692,14 @@ Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (33)](#tuesday-nov-17-33) 
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 7:28 PM | [Senior Software Engineer, Cloud Infrastructure](https://jobs.ashbyhq.com/beaconai/c6225eb8-8941-411c-9e28-798c323ee224) | Beacon AI | San Carlos  - Hybrid | 50 | rules: senior title, years not stated; no future H-1B sponsorship; ne… |
+| 7:28 PM | [Network Administrator (Remote)](https://job-boards.greenhouse.io/its/jobs/8202896003) | Its | International (remote) | 22 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
 | 6:55 PM | [Senior QA Automation Engineer (MCP & AI Infrastructure) / Onsite (Dal…](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/27517) | Photon | United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 6:41 PM | [Global Network Engineer III](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261189) | GM financial | Arlington, TX, United States (hybrid) | 35 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 6:25 PM | [Information Technology Infrastructure and Security Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4672372) | ACHIEVEMENT CENTER FOR CHILDR… | Westlake, OH, United States | 40 | rules: 5+ yrs exp; no future H-1B sponsorship; asks for 5+ years of e… |
 | 6:22 PM | [Hardware Reliability Engineer](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5478655008) | K2 Space | Los Angeles, CA | 60 | rules: 1+ yrs exp; needs: ITAR |
 | 6:07 PM (seen) | [Systems Network Administrator](https://triquest.catsone.com/careers/2097-General/jobs/16874528-Systems--Network-Administrator/) | Triquest |  | 35 | rules: adjacent title, little DevOps/cloud work in the text |
+| 5:20 PM | [Senior IT Systems Engineer](https://jobs.ashbyhq.com/river/0dff47b9-8677-4334-bf57-82461a6313b8) | River | Remote - US; New York, NY; Columbus, OH (remote) | 27 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 5:03 PM | [Senior Full Stack & Platform Engineer](https://job-boards.greenhouse.io/fictiv/jobs/8937286002) | Fictiv | Remote - USA (remote) | 52 | rules: senior title, years not stated; needs: must be a US person |
 | 4:59 PM | [Senior DevOps Engineer (AI-Enabled Platform Engineering)](https://jobs.ashbyhq.com/EverOps/3bf39f8d-09c0-4291-8596-2490a0394faa) | Everops | Remote (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 4:55 PM | [Senior Infrastructure Engineer (Network Infrastructure)](https://jobs.ashbyhq.com/EverOps/a8c193cb-e252-43b8-9a6b-5950276ab25c) | Everops | Remote (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
@@ -1090,9 +1092,6 @@ Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (33)](#tuesday-nov-17-33) 
 | date only | [Senior Analyst II - Network Engineer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---IL---ANY-CITY/Senior-Analyst-II-Network-Engineer-Rockford-IL_51594448) | DXC Technology | USA - IL - ANY CITY | 45 | rules: 4+ yrs exp; senior title; E-Verify; needs: only US Persons |
 | date only | [Business System Administrator II](https://faithtechnologies.wd1.myworkdayjobs.com/FTI/job/WI---Menasha/Business-System-Administrator-II_R12922-1) | Faith Technologies | WI - Menasha; KS - Olathe (remote) | 22 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Business System Administrator I](https://faithtechnologies.wd1.myworkdayjobs.com/FTI/job/WI---Menasha/Business-System-Administrator-I_R12931-1) | Faith Technologies | WI - Menasha; KS - Olathe (remote) | 52 | rules: entry-level title; 3+ yrs exp; adjacent title, little DevOps/c… |
-| date only | [Sr. Infrastructure Engineer - Teradata](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/National-Remote/Sr-Infrastructure-Engineer---Teradata_R0056467-1) | HCSC | National Remote (remote) | 42 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| date only | [Technology Engineer, IT Infrastructure](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Senior-IT-Systems-Administrator---Client---Endpoint---End-User-Compute_R10401-1) | Invenergy | Chicago, IL | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
-| date only | [Senior Network Engineer, Zscaler](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Senior-Network-Engineer_00022057) | Marathon Petroleum | San Antonio, Texas; Houston, Texas; Den… | 40 | rules: senior title, years not stated; adjacent title, little DevOps/… |
 
 </details>
 

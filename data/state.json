@@ -12092,17 +12092,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 214,
+   "n": 215,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 214,
+   "n": 215,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 214,
+   "n": 215,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14976,7 +14976,7 @@
   ],
   "2026-11-18": [
    18,
-   39
+   43
   ]
  },
  "resolved": {
@@ -65842,6 +65842,7 @@
   "ashby:aurora-operations-inc:3083054b-aa88-4cd5-86c2-96af5ddf1ee3": "2026-11-07",
   "ashby:base-power:61564fba-61a0-4fe3-a71d-1c3325514e35": "2026-11-12",
   "ashby:baseten:bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0": "2026-11-14",
+  "ashby:beaconai:c6225eb8-8941-411c-9e28-798c323ee224": "2026-11-18",
   "ashby:benchling:6183438d-1ff6-4389-aff9-a0128ff3a407": "2026-11-17",
   "ashby:bjakcareer:10b34bc8-bdad-4650-a0eb-f3e2cb8a27cf": "2026-11-09",
   "ashby:bjakcareer:543e1620-c9d5-453b-8103-2ddc17e93bc7": "2026-11-09",
@@ -65975,6 +65976,7 @@
   "ashby:resolution:d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b": "2026-11-14",
   "ashby:restate:fe90faab-5417-4034-b915-0770e2477a73": "2026-11-12",
   "ashby:revel:a7801a26-a562-423f-9cc1-6e3f3fa69430": "2026-11-13",
+  "ashby:river:0dff47b9-8677-4334-bf57-82461a6313b8": "2026-11-18",
   "ashby:rivianvw.tech:9bd6180e-9847-4ecc-abc9-a9b0da48da62": "2026-11-10",
   "ashby:runpod:f9f9e6f1-4203-4ea9-a9b4-4a108e684372": "2026-11-07",
   "ashby:saronic:0a039ea5-ab58-4ebf-a27c-1f253cdc4815": "2026-11-07",
@@ -67051,6 +67053,7 @@
   "greenhouse:intercom:8371261": "2026-11-11",
   "greenhouse:internationalhouseberkeley:6250187004": "2026-11-09",
   "greenhouse:itd:4506392009": "2026-11-13",
+  "greenhouse:its:8202896003": "2026-11-18",
   "greenhouse:its:8202933003": "2026-11-12",
   "greenhouse:jusbrasil:6002659004": "2026-11-12",
   "greenhouse:k2spacecorporation:5478655008": "2026-11-18",
@@ -70081,10 +70084,10 @@
  },
  "source_last": {
   "hn": "2026-11-17T20:37:18+00:00",
-  "remoteok": "2026-11-17T23:37:19+00:00",
+  "remoteok": "2026-11-18T01:37:14+00:00",
   "usajobs": "2026-11-18T01:07:15+00:00",
   "workable_search": "2026-11-18T01:07:15+00:00",
-  "wwr": "2026-11-18T00:37:16+00:00",
+  "wwr": "2026-11-18T01:37:14+00:00",
   "yc": "2026-11-18T01:07:15+00:00"
  },
  "title_rules": "c323075b4d70",
