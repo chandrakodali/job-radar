@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**628 jobs**, newest first. Updated Wed Nov 18, 2:37 AM CST from 12,526 company job boards and other sources.
+**628 jobs**, newest first. Updated Wed Nov 18, 3:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -678,12 +678,13 @@ Jump to: [Wed 18 (4)](#wednesday-nov-18-4) · [Tue 17 (34)](#tuesday-nov-17-34) 
 | 3:56 AM | [NOC Engineer](https://hardrockdigital.recruitee.com/o/noc-engineer-5) | Hard Rock Digital | United States, Florida, United States (remote) | 50 | 2+ yrs exp |
 | 3:25 AM | [Application Security Engineer](https://job-boards.greenhouse.io/intercom/jobs/8371261) | Fin | Chicago, Illinois | 65 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (750)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (751)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 2:49 AM | [Senior Infrastructure Engineer (Network Infrastructure)](https://jobs.lever.co/jobgether/820564aa-3a17-42b7-8029-20cf32b6302a) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:58 AM | [Data Security Platform Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73382) | Ford Motor Company | United States (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:58 AM | [Data Security Platform Engineer](https://ford.eightfold.ai/careers/job/563568454106691) | Ford | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:38 PM | [Forward Deployment Engineer](https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf) | GrayMatter Robotics | Remote - USA (remote) | 47 | rules: adjacent title, little DevOps/cloud work in the text |
@@ -1083,7 +1084,6 @@ Jump to: [Wed 18 (4)](#wednesday-nov-18-4) · [Tue 17 (34)](#tuesday-nov-17-34) 
 | date only | [Senior Network Engineer](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-MD-Fort-Meade/Senior-Network-Engineer_R0175067) | Amentum | US-MD-Fort Meade (onsite) | 35 | rules: 5+ yrs exp; senior title; needs: Security Clearance |
 | date only | [Flight Network Engineer (Commercial Network) III](https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Flight-Network-Engineer--Commercial-Network--III_JR100888) | Axiom Space | Houston | 40 | rules: senior title, years not stated; needs: ITAR |
 | date only | [Systems Administrator II](https://cni.wd503.myworkdayjobs.com/CNI/job/Ellsworth-AFB-SD/Systems-Administrator-II_R9776) | Chickasaw Nation Industries | Ellsworth AFB, SD | 25 | rules: 9+ yrs exp; asks for 9+ years of experience |
-| date only | [Senior Analyst I - Network Engineer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---IA---CEDAR-RAPIDS/Senior-Analyst-I-Network-Engineer---Cedar-Rapids--IA_51594314) | DXC Technology | USA - IA - CEDAR RAPIDS | 45 | rules: entry-level title; 5+ yrs exp; senior title; E-Verify; needs: … |
 
 </details>
 

@@ -12092,17 +12092,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 229,
+   "n": 230,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 229,
+   "n": 230,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 229,
+   "n": 230,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12257,7 +12257,7 @@
   },
   "greenhouse:engineeringatgigs": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-18"
   },
   "greenhouse:eu:fuzehealth": {
@@ -12298,7 +12298,7 @@
   },
   "greenhouse:gigs": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-18"
   },
   "greenhouse:glossgenius": {
@@ -68141,6 +68141,7 @@
   "lever:jobgether:75cf9739-3239-461a-8e00-c12d70468b55": "2026-11-14",
   "lever:jobgether:7e6e7dc4-04dc-47c8-8a4b-f7f647eece53": "2026-11-14",
   "lever:jobgether:7f612467-c5a6-46d0-9e01-7bf055856e74": "2026-11-14",
+  "lever:jobgether:820564aa-3a17-42b7-8029-20cf32b6302a": "2026-11-18",
   "lever:jobgether:85879f6c-bafc-4c8b-8d60-3a0d5c20be01": "2026-11-16",
   "lever:jobgether:8ff47a5b-ca95-4fa8-a528-4b8bb0f84240": "2026-11-14",
   "lever:jobgether:9af4cc18-9474-497f-9a90-60aa781922d4": "2026-11-14",
