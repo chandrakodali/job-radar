@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**604 jobs**, newest first. Updated Wed Nov 18, 3:37 PM CST from 12,526 company job boards and other sources.
+**604 jobs**, newest first. Updated Wed Nov 18, 4:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 255 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,043 matching jobs that job sites and feeds listed this week, 726 (35%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,079 matching jobs that job sites and feeds listed this week, 746 (35%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 18 (30)](#wednesday-nov-18-30) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (4)](#wednesday-nov-11-4)
 
@@ -654,7 +654,7 @@ Jump to: [Wed 18 (30)](#wednesday-nov-18-30) · [Tue 17 (34)](#tuesday-nov-17-34
 | 7:35 PM | [Infrastructure Engineer - Labs](https://jobs.ashbyhq.com/Etched/b4ad6323-3d69-4881-a2db-e3967afbae65) | Etched | San Jose (onsite) | 70 |  |
 | 5:17 PM | [Senior Software Engineer, Engine Infrastructure](https://careers.roblox.com/jobs/8346849?gh_jid=8346849) | Roblox | San Mateo, CA, United States | 48 | 4+ yrs exp; senior title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (769)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (770)
 
 <details><summary>Show</summary>
 
@@ -685,6 +685,7 @@ Jump to: [Wed 18 (30)](#wednesday-nov-18-30) · [Tue 17 (34)](#tuesday-nov-17-34
 | date only | [Software Development Engineer, Region Reliability Engineering](https://www.amazon.jobs/en/jobs/10608480/software-development-engineer-region-reliability-engineering) | Amazon Development Center U.S… | Denver, Colorado, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
 | date only | [Senior Software Development Engineer, Amazon Leo - Deployment & Relea…](https://www.amazon.jobs/en/jobs/10607729/senior-software-development-engineer-amazon-leo-deployment-release-engineering) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 30 | rules: 5+ yrs exp; senior title; needs: must be a U.S. citizen |
 | date only | [Cloud Identity Engineer III (Entra ID)](https://fenix24.bamboohr.com/careers/176) | Fenix24 | United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| date only | [Infrastructure Cost Engineer-2611260DP02](https://ardmoreroderick.applytojob.com/apply/ATCUHJUDe5/Infrastructure-Cost-Engineer2611260DP02) | Ardmore Roderick | Austin, TX | 50 | rules: 10+ yrs exp; E-Verify; asks for 10+ years of experience |
 | 10:54 AM | [Production Support Engineer](https://jobs.smartrecruiters.com/Wabtec/3743990016939246-production-support-engineer) | Wabtec | Erie, PA, United States | 50 | rules: adjacent title, little DevOps/cloud work in the text |
 | 10:07 AM | [Test Automation Engineer, Robot Platform](https://jobs.lever.co/zoox/c84c90b4-22f2-4d2e-9034-afee385dd0d2) | Zoox | Foster City, CA (onsite) | 35 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 9:59 AM | [Azure AI Platform Engineer III/Senior](https://job-boards.greenhouse.io/eqtcorporation/jobs/5486501008) | EQT Corporation | Remote (remote) | 37 | rules: 6+ yrs exp; senior title; location unclear; asks for 6+ years … |
@@ -1059,7 +1060,6 @@ Jump to: [Wed 18 (30)](#wednesday-nov-18-30) · [Tue 17 (34)](#tuesday-nov-17-34
 | 3:56 PM | [Site Reliability Engineer](https://jobs.ashbyhq.com/blitzy/389140b3-d7f1-4891-8a7b-15952a66f15d) | Blitzy | Cambridge, MA (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 3:51 PM (seen) | [Senior Cloud Engineer / Req#4692](https://jobs.jobvite.com/actionet/job/oO9IAfwZ) | ActioNet | Remote, United States | 30 | rules: 7+ yrs exp; senior title; needs: security clearance |
 | 3:51 PM (seen) | [DevSecOps Engineer/Linux Administrator (Senior) / Req#4749](https://jobs.jobvite.com/actionet/job/odLYAfwg) | ActioNet | Remote, United States | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 3:51 PM (seen) | [Senior Cloud Engineer II / Req#4716](https://jobs.jobvite.com/actionet/job/oNWPAfwS) | ActioNet | Suitland, Maryland | 25 | rules: 8+ yrs exp; senior title; needs: U.S. Citizenship is required |
 
 </details>
 
