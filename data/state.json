@@ -12092,17 +12092,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 215,
+   "n": 216,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 215,
+   "n": 216,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 215,
+   "n": 216,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -65912,6 +65912,7 @@
   "ashby:gecko-robotics:caa400fb-c6bd-4d87-8a7d-b25fa49aa874": "2026-11-07",
   "ashby:generalist:cfe9bb4b-a31c-4be7-b1c6-0d24bf0a1194": "2026-11-07",
   "ashby:goteleport:67257887-5704-479c-92eb-14a89e0d3412": "2026-11-12",
+  "ashby:graymatter-robotics:7f806a1c-2874-4a0b-a64c-d8e8e87822bf": "2026-11-18",
   "ashby:hadrian-automation:32bc8210-18d8-4f8f-99a8-702dcf59326f": "2026-11-10",
   "ashby:harmattan-ai:3ee9867d-699f-400c-af16-0ceb0d1dbcac": "2026-11-10",
   "ashby:harvey:264aac9e-3f8d-402f-a33b-04d2fe1e16be": "2026-11-07",

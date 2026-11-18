@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**631 jobs**, newest first. Updated Tue Nov 17, 7:37 PM CST from 12,526 company job boards and other sources.
+**630 jobs**, newest first. Updated Tue Nov 17, 8:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 1,753 matching jobs that job sites and feeds listed this week, 611 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (4)](#tuesday-nov-10-4)
+Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (3)](#tuesday-nov-10-3)
 
 ## Wednesday, Nov 18 (2)
 
@@ -677,21 +677,21 @@ Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (33)](#tuesday-nov-17-33) 
 | 2:24 AM | [Senior Cloud Security Engineer](https://jobs.lever.co/jobgether/73d75c56-c3b4-403f-b49d-93905c180592) | Jobgether | US (remote) | 45 | 3+ yrs exp; senior title |
 | 2:00 AM | [Senior Engineer Core Infrastructure](https://careers.jetblue.com/job/Long-Island-City-Senior-Engineer-Core-Infrastructure-NY-11101/1389530100/) | JetBlue | Long Island City, NY, United States | 53 | 4+ yrs exp; senior title |
 
-## Tuesday, Nov 10 (4)
+## Tuesday, Nov 10 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 10:38 PM | [Senior Infrastructure Engineer](https://jobs.ashbyhq.com/walrusfi/99365c7e-5d47-463c-a7dd-07389cf2c86d) | Walrus | Remote (US) (remote) | 40 | senior title, years not stated; no future H-1B sponsorship |
 | 10:36 PM | [Senior NPI Quality and Reliability Engineer III](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4b01b1ef-1960-4219-8f3f-6c0652a81377&ccId=19000101_000001&jobId=9201310521902_172&lang=en_US) | 4B01B1Ef 1960 4219 8F3F 6C065… | Longmont, CO | 28 | senior title, years not stated |
 | 8:26 PM | [Deployment Engineer](https://jobs.ashbyhq.com/sieve/b8a87691-3b2a-4960-aa0e-cda34894039c) | Sieve | San Francisco (onsite) | 55 |  |
-| 7:51 PM (seen) | [Software Engineer, Cloud Infrastructure](https://app.dover.com/apply/weaverobotics/5b7bf24e-a8dc-40a3-86a7-5ff4e929b49c) | Weave Robotics | San Francisco, CA (onsite) | 55 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (747)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (748)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 7:38 PM | [Forward Deployment Engineer](https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf) | GrayMatter Robotics | Remote - USA (remote) | 47 | rules: adjacent title, little DevOps/cloud work in the text |
 | 7:28 PM | [Senior Software Engineer, Cloud Infrastructure](https://jobs.ashbyhq.com/beaconai/c6225eb8-8941-411c-9e28-798c323ee224) | Beacon AI | San Carlos  - Hybrid | 50 | rules: senior title, years not stated; no future H-1B sponsorship; ne… |
 | 7:28 PM | [Network Administrator (Remote)](https://job-boards.greenhouse.io/its/jobs/8202896003) | Its | International (remote) | 22 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
 | 6:55 PM | [Senior QA Automation Engineer (MCP & AI Infrastructure) / Onsite (Dal…](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/27517) | Photon | United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
@@ -1091,7 +1091,6 @@ Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (33)](#tuesday-nov-17-33) 
 | date only | [Senior Analyst I - Network Engineer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---IA---CEDAR-RAPIDS/Senior-Analyst-I-Network-Engineer---Cedar-Rapids--IA_51594314) | DXC Technology | USA - IA - CEDAR RAPIDS | 45 | rules: entry-level title; 5+ yrs exp; senior title; E-Verify; needs: … |
 | date only | [Senior Analyst II - Network Engineer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---IL---ANY-CITY/Senior-Analyst-II-Network-Engineer-Rockford-IL_51594448) | DXC Technology | USA - IL - ANY CITY | 45 | rules: 4+ yrs exp; senior title; E-Verify; needs: only US Persons |
 | date only | [Business System Administrator II](https://faithtechnologies.wd1.myworkdayjobs.com/FTI/job/WI---Menasha/Business-System-Administrator-II_R12922-1) | Faith Technologies | WI - Menasha; KS - Olathe (remote) | 22 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [Business System Administrator I](https://faithtechnologies.wd1.myworkdayjobs.com/FTI/job/WI---Menasha/Business-System-Administrator-I_R12931-1) | Faith Technologies | WI - Menasha; KS - Olathe (remote) | 52 | rules: entry-level title; 3+ yrs exp; adjacent title, little DevOps/c… |
 
 </details>
 
