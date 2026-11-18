@@ -11994,17 +11994,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 77,
+   "n": 78,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 77,
+   "n": 78,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 77,
+   "n": 78,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13332,7 +13332,7 @@
   ],
   "2026-11-18": [
    15,
-   56
+   59
   ]
  },
  "resolved": {
@@ -64164,6 +64164,8 @@
   "amazon:us:10603659": "2026-11-14",
   "amazon:us:10603740": "2026-11-14",
   "amazon:us:10603741": "2026-11-16",
+  "amazon:us:10603759": "2026-11-18",
+  "amazon:us:10603760": "2026-11-18",
   "amazon:us:10603765": "2026-11-14",
   "amazon:us:10603766": "2026-11-16",
   "amazon:us:10603768": "2026-11-14",
@@ -64228,6 +64230,7 @@
   "amazon:us:10607477": "2026-11-17",
   "amazon:us:10607514": "2026-11-17",
   "amazon:us:10607515": "2026-11-17",
+  "amazon:us:10607522": "2026-11-18",
   "amazon:us:10607536": "2026-11-17",
   "amazon:us:10607548": "2026-11-17",
   "amazon:us:10607624": "2026-11-17",
@@ -64237,6 +64240,7 @@
   "amazon:us:10607689": "2026-11-17",
   "amazon:us:10607712": "2026-11-18",
   "amazon:us:10607713": "2026-11-18",
+  "amazon:us:10607764": "2026-11-18",
   "apple:usa:200555687": "2026-11-14",
   "apple:usa:200656816": "2026-11-17",
   "apple:usa:200665281": "2026-11-14",
@@ -64383,6 +64387,7 @@
   "ashby:bjakcareer:d9d0e3d9-e6a2-47a3-8816-3dc104860451": "2026-11-14",
   "ashby:bland:b9784fd8-1cc7-44fc-8fb7-78792c24e9f5": "2026-11-14",
   "ashby:blitzy:0ae1bf4e-5be7-4792-a49c-e79201b244f1": "2026-11-14",
+  "ashby:bracket-bot:b93f047b-141b-443e-b14c-53581d0e6f7d": "2026-11-18",
   "ashby:buspatrol:e47215df-7e4e-4751-a090-b14f2340f625": "2026-11-14",
   "ashby:cambium:21d51cec-6990-4a88-82ad-9e9e218d0c86": "2026-11-14",
   "ashby:canals:2d17b027-3f56-40b5-9faf-a464a350c4f9": "2026-11-14",
@@ -64472,6 +64477,7 @@
   "ashby:horizon3ai:699049f9-b0de-40d1-bee6-2281fffd3d7d": "2026-11-14",
   "ashby:hudu:d7176ac7-6324-4ad9-8c17-f37f6b4484fe": "2026-11-18",
   "ashby:humatahealth:8c835888-2b50-4115-bf6f-a0ed490c6462": "2026-11-14",
+  "ashby:iambic-therapeutics:b0cc562c-4890-4a4f-96de-6a23ded5aad0": "2026-11-18",
   "ashby:imprint:0e6955fb-133f-4d72-a53d-f926e99b531e": "2026-11-16",
   "ashby:inductive-automation-llc:04db2aa7-6af8-4d99-abf5-c94adb911961": "2026-11-16",
   "ashby:infisical:46541b52-967f-4caf-96ed-9a59f1a80aa8": "2026-11-14",
@@ -66467,6 +66473,7 @@
   "greenhouse:twitch:8934067002": "2026-11-14",
   "greenhouse:twitch:8937278002": "2026-11-14",
   "greenhouse:twitch:8943553002": "2026-11-14",
+  "greenhouse:twitch:8949388002": "2026-11-18",
   "greenhouse:ultimagenomics:6251156004": "2026-11-14",
   "greenhouse:uniteus:8931724002": "2026-11-14",
   "greenhouse:vannevarlabs:5291502007": "2026-11-14",
@@ -66821,9 +66828,14 @@
   "icims:careers-markon.icims.com:8832": "2026-11-14",
   "icims:careers-markon.icims.com:8833": "2026-11-14",
   "icims:careers-markon.icims.com:8841": "2026-11-14",
+  "icims:careers-markon.icims.com:8857": "2026-11-18",
   "icims:careers-markon.icims.com:8858": "2026-11-17",
+  "icims:careers-markon.icims.com:8860": "2026-11-18",
   "icims:careers-markon.icims.com:8861": "2026-11-17",
   "icims:careers-markon.icims.com:8863": "2026-11-17",
+  "icims:careers-markon.icims.com:8865": "2026-11-18",
+  "icims:careers-markon.icims.com:8869": "2026-11-18",
+  "icims:careers-markon.icims.com:8870": "2026-11-18",
   "icims:careers-markon.icims.com:8871": "2026-11-17",
   "icims:careers-mci2.icims.com:50029": "2026-11-14",
   "icims:careers-mci2.icims.com:50030": "2026-11-14",
@@ -68657,6 +68669,7 @@
   "smartrecruiters:servicenow:744000161585700": "2026-11-14",
   "smartrecruiters:servicenow:744000161596339": "2026-11-14",
   "smartrecruiters:servicenow:744000162158379": "2026-11-17",
+  "smartrecruiters:servicenow:744000162190099": "2026-11-18",
   "smartrecruiters:sosi1:3743990016701976": "2026-11-14",
   "smartrecruiters:syncreonconsulting:744000161503774": "2026-11-14",
   "smartrecruiters:syncreonconsulting:744000161858469": "2026-11-16",
@@ -69775,10 +69788,10 @@
  },
  "source_last": {
   "hn": "2026-11-17T19:50:53+00:00",
-  "remoteok": "2026-11-17T23:19:58+00:00",
+  "remoteok": "2026-11-18T01:19:05+00:00",
   "usajobs": "2026-11-18T00:16:07+00:00",
   "workable_search": "2026-11-18T00:16:07+00:00",
-  "wwr": "2026-11-18T00:16:07+00:00",
+  "wwr": "2026-11-18T01:19:05+00:00",
   "yc": "2026-11-18T00:16:07+00:00"
  },
  "title_rules": "72f554d20a7f",
