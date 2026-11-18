@@ -12096,17 +12096,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 249,
+   "n": 250,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 249,
+   "n": 250,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 249,
+   "n": 250,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12186,6 +12186,11 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
+  },
+  "greenhouse:bayada": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-18"
   },
   "greenhouse:breezeairways": {
    "disabled_until": "2026-11-21",
@@ -12540,6 +12545,11 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 4,
    "since": "2026-11-09"
+  },
+  "icims:careers-brightspring.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-18"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-23",
@@ -14930,6 +14940,7 @@
  "last_digest": "2026-11-18",
  "missed_companies": {
   "Accurant International": "2026-11-18",
+  "AmeriSave": "2026-11-18",
   "Bask Health": "2026-11-18",
   "Coris": "2026-11-16",
   "Diversified Services Network, Inc.": "2026-11-17",
@@ -14946,7 +14957,7 @@
   "Knack": "2026-11-17",
   "LaBella Associates": "2026-11-18",
   "Odin": "2026-11-17",
-  "Omnistrate": "2026-11-17",
+  "Omnistrate": "2026-11-18",
   "OpenDataJobs": "2026-11-14",
   "PGTEK": "2026-11-14",
   "PIMCO": "2026-11-16",
@@ -14957,6 +14968,7 @@
   "StradIT": "2026-11-18",
   "Systems Engineering Solutions Corporation": "2026-11-16",
   "TOMORROW HIRE": "2026-11-18",
+  "Toyota Tsusho Systems": "2026-11-18",
   "WorldVia": "2026-11-16",
   "Worth AI": "2026-11-18",
   "Xora Innovation": "2026-11-14",
@@ -14991,8 +15003,8 @@
    405
   ],
   "2026-11-18": [
-   112,
-   286
+   133,
+   326
   ]
  },
  "resolved": {
@@ -65786,6 +65798,7 @@
   "amazon:us:10607623": "2026-11-17",
   "amazon:us:10608155": "2026-11-18",
   "amazon:us:10608157": "2026-11-18",
+  "amazon:us:10608480": "2026-11-18",
   "apple:usa:200657320": "2026-11-14",
   "apple:usa:200674782": "2026-11-14",
   "apple:usa:200684228": "2026-11-14",
@@ -65857,6 +65870,7 @@
   "ashby:apex-technology-inc:f228117c-377b-448c-a119-f6ab7a803bf1": "2026-11-10",
   "ashby:applied:5215a6e1-540f-4c92-9893-2d5497e19921": "2026-11-12",
   "ashby:applied:87e195d4-951b-4ed4-8b1d-f4b68ca11fc0": "2026-11-07",
+  "ashby:artafinance:fc8e559b-48c3-46ba-b169-2ea808acb860": "2026-11-18",
   "ashby:artosai:faa4c742-2a0b-4623-b054-a36e874c5e83": "2026-11-12",
   "ashby:ashby:238c230f-3dc6-455c-98fd-81872a12d34c": "2026-11-13",
   "ashby:ashby:9225e1fa-66aa-45d2-bf92-2ac653744434": "2026-11-13",
@@ -67148,6 +67162,7 @@
   "greenhouse:point72:8899767002": "2026-11-07",
   "greenhouse:point72:8919989002": "2026-11-07",
   "greenhouse:point72:8945315002": "2026-11-17",
+  "greenhouse:prizepicks:8208519003": "2026-11-18",
   "greenhouse:quberesearchandtechnologies:8902671002": "2026-11-07",
   "greenhouse:quberesearchandtechnologies:8923209002": "2026-11-11",
   "greenhouse:quince:5473801008": "2026-11-07",
@@ -67297,6 +67312,7 @@
   "icims:careers-americansystems.icims.com:5136": "2026-11-09",
   "icims:careers-americansystems.icims.com:5168": "2026-11-09",
   "icims:careers-americansystems.icims.com:5196": "2026-11-13",
+  "icims:careers-americansystems.icims.com:5393": "2026-11-18",
   "icims:careers-americas.icims.com:24970": "2026-11-09",
   "icims:careers-americas.icims.com:27413": "2026-11-12",
   "icims:careers-americas.icims.com:27563": "2026-11-09",
@@ -68488,6 +68504,9 @@
   "pinpoint:bluemantis:595617": "2026-11-14",
   "pinpoint:bluemantis:615647": "2026-11-14",
   "pinpoint:bluemantis:615652": "2026-11-14",
+  "pinpoint:bluemantis:622278": "2026-11-18",
+  "pinpoint:bluemantis:622280": "2026-11-18",
+  "pinpoint:bluemantis:622281": "2026-11-18",
   "pinpoint:coforma:510810": "2026-11-11",
   "pinpoint:gembaadvantage:536782": "2026-11-15",
   "pinpoint:gloryglobal:605161": "2026-11-14",
@@ -69335,12 +69354,14 @@
   "workable_search:all:16c50948-9928-4570-8f6d-dd49e8ffb7e0": "2026-11-16",
   "workable_search:all:287dc66f-da3d-4851-8f7e-134b09184427": "2026-11-13",
   "workable_search:all:2b6afb82-126b-4b4b-9f08-cd93bf3f06d7": "2026-11-17",
+  "workable_search:all:3dee0012-e880-4b3f-9012-9a528af34337": "2026-11-18",
   "workable_search:all:450576ed-3adb-4188-982d-91e5e29b3dcf": "2026-11-12",
   "workable_search:all:4e52525f-ea98-471d-9f1f-d41378246838": "2026-11-12",
   "workable_search:all:51cee200-db56-4dbb-af36-30dbe615c3bb": "2026-11-16",
   "workable_search:all:5cf543e6-52d1-40a5-acfb-eba923aef622": "2026-11-12",
   "workable_search:all:67ecd7ef-b7ec-4075-9943-d708e84f36d4": "2026-11-12",
   "workable_search:all:88bd6b31-9eaa-491b-8762-e21c1db86a32": "2026-11-13",
+  "workable_search:all:8c76ba8f-6518-48dc-9fa2-eea37d87fc3c": "2026-11-18",
   "workable_search:all:9a2128fb-16c5-4439-8180-68c7eb413c63": "2026-11-12",
   "workable_search:all:9e591820-de7d-4c81-aec9-c6518335d40a": "2026-11-17",
   "workable_search:all:a699668e-35fc-4223-a4fb-45aad50f4768": "2026-11-12",
@@ -70155,10 +70176,10 @@
  "source_last": {
   "hn": "2026-11-18T14:37:17+00:00",
   "remoteok": "2026-11-18T17:37:17+00:00",
-  "usajobs": "2026-11-18T16:07:19+00:00",
-  "workable_search": "2026-11-18T16:07:19+00:00",
+  "usajobs": "2026-11-18T19:07:14+00:00",
+  "workable_search": "2026-11-18T19:07:14+00:00",
   "wwr": "2026-11-18T18:37:34+00:00",
-  "yc": "2026-11-18T16:07:19+00:00"
+  "yc": "2026-11-18T19:07:14+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
