@@ -1,19 +1,20 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**631 jobs**, newest first. Updated Tue Nov 17, 6:37 PM CST from 12,526 company job boards and other sources.
+**632 jobs**, newest first. Updated Tue Nov 17, 7:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 253 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,714 matching jobs that job sites and feeds listed this week, 593 (34%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,749 matching jobs that job sites and feeds listed this week, 611 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (5)](#tuesday-nov-10-5)
+Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (5)](#tuesday-nov-10-5)
 
-## Wednesday, Nov 18 (1)
+## Wednesday, Nov 18 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Network Engineer (Cisco ISE, Palo Alto, BGP/OSPF)](https://hyundaiautoeveramerica.applytojob.com/apply/bOSkA8wT1E/Network-Engineer-Cisco-ISE-Palo-Alto-BGPOSPF) | Hyundai AutoEver America | Irvine, CA | 50 |  |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 45 | location unclear |
 
 ## Tuesday, Nov 17 (33)
@@ -686,12 +687,14 @@ Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (33)](#tuesday-nov-17-33) 
 | 7:51 PM (seen) | [Software Engineer, Cloud Infrastructure](https://app.dover.com/apply/weaverobotics/5b7bf24e-a8dc-40a3-86a7-5ff4e929b49c) | Weave Robotics | San Francisco, CA (onsite) | 55 |  |
 | 7:16 PM (seen) | [Evergreen Posting: DevSecOps Engineer](https://coforma.pinpointhq.com/en/postings/bd95e9e4-564a-4f23-a28d-380f43d98e8f) | Coforma | Remote (select US states) (remote) | 52 | E-Verify |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (745)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (747)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 6:55 PM | [Senior QA Automation Engineer (MCP & AI Infrastructure) / Onsite (Dal…](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/27517) | Photon | United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| 6:41 PM | [Global Network Engineer III](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261189) | GM financial | Arlington, TX, United States (hybrid) | 35 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 6:25 PM | [Information Technology Infrastructure and Security Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4672372) | ACHIEVEMENT CENTER FOR CHILDR… | Westlake, OH, United States | 40 | rules: 5+ yrs exp; no future H-1B sponsorship; asks for 5+ years of e… |
 | 6:22 PM | [Hardware Reliability Engineer](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5478655008) | K2 Space | Los Angeles, CA | 60 | rules: 1+ yrs exp; needs: ITAR |
 | 6:07 PM (seen) | [Systems Network Administrator](https://triquest.catsone.com/careers/2097-General/jobs/16874528-Systems--Network-Administrator/) | Triquest |  | 35 | rules: adjacent title, little DevOps/cloud work in the text |
@@ -1090,8 +1093,6 @@ Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (33)](#tuesday-nov-17-33) 
 | date only | [Sr. Infrastructure Engineer - Teradata](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/National-Remote/Sr-Infrastructure-Engineer---Teradata_R0056467-1) | HCSC | National Remote (remote) | 42 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Technology Engineer, IT Infrastructure](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Senior-IT-Systems-Administrator---Client---Endpoint---End-User-Compute_R10401-1) | Invenergy | Chicago, IL | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [Senior Network Engineer, Zscaler](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Senior-Network-Engineer_00022057) | Marathon Petroleum | San Antonio, Texas; Houston, Texas; Den… | 40 | rules: senior title, years not stated; adjacent title, little DevOps/… |
-| date only | [Site Reliability Engineer – DevOps, Azure](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Site-Reliability-Engineer---DevOps--Azure_R91160) | M&T Bank | Buffalo, NY (hybrid) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| date only | [Cloud Video Specialist (Northern California)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/California-Northern-Remote-Work/Cloud-Video-Specialist--Northern-California-_R68174) | Motorola | California Northern Remote Work (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
 

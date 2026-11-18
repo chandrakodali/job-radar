@@ -12092,17 +12092,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 213,
+   "n": 214,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 213,
+   "n": 214,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 213,
+   "n": 214,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14571,9 +14571,9 @@
    "since": "2026-11-11"
   },
   "workday:23andme|wd5|23": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 403",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-10"
   },
   "workday:aah|wd5|External": {
@@ -14913,8 +14913,8 @@
  "found_cursor": 968,
  "last_digest": "2026-11-17",
  "missed_companies": {
-  "Accurant International": "2026-11-17",
-  "Bask Health": "2026-11-17",
+  "Accurant International": "2026-11-18",
+  "Bask Health": "2026-11-18",
   "Coris": "2026-11-16",
   "Diversified Services Network, Inc.": "2026-11-17",
   "EPAM Systems": "2026-11-18",
@@ -14923,12 +14923,12 @@
   "Essnova Solutions, Inc.": "2026-11-17",
   "Foresight Works Ltd": "2026-11-13",
   "Fortanix": "2026-11-14",
-  "Frontera Space": "2026-11-17",
-  "GEM Technologies": "2026-11-17",
+  "Frontera Space": "2026-11-18",
+  "GEM Technologies": "2026-11-18",
   "GoMining": "2026-11-18",
   "Halcyon": "2026-11-14",
   "Knack": "2026-11-17",
-  "LaBella Associates": "2026-11-17",
+  "LaBella Associates": "2026-11-18",
   "Odin": "2026-11-17",
   "Omnistrate": "2026-11-17",
   "OpenDataJobs": "2026-11-14",
@@ -14938,14 +14938,14 @@
   "Runware": "2026-11-14",
   "Salvo Software": "2026-11-14",
   "Stealth Health-Tech Startup": "2026-11-16",
-  "StradIT": "2026-11-17",
+  "StradIT": "2026-11-18",
   "Systems Engineering Solutions Corporation": "2026-11-16",
-  "TOMORROW HIRE": "2026-11-17",
+  "TOMORROW HIRE": "2026-11-18",
   "WorldVia": "2026-11-16",
-  "Worth AI": "2026-11-17",
+  "Worth AI": "2026-11-18",
   "Xora Innovation": "2026-11-14",
   "Zipdev": "2026-11-14",
-  "erad": "2026-11-17",
+  "erad": "2026-11-18",
   "iCallidus": "2026-11-13"
  },
  "missing_once": {},
@@ -14975,8 +14975,8 @@
    405
   ],
   "2026-11-18": [
-   0,
-   4
+   18,
+   39
   ]
  },
  "resolved": {
@@ -67883,6 +67883,7 @@
   "jazzhr:hyundaiautoeveramerica:PScc8wW9Iy": "2026-11-12",
   "jazzhr:hyundaiautoeveramerica:QtN3tyAJL6": "2026-11-12",
   "jazzhr:hyundaiautoeveramerica:XFspaXD4ef": "2026-11-12",
+  "jazzhr:hyundaiautoeveramerica:bOSkA8wT1E": "2026-11-18",
   "jazzhr:hyundaiautoeveramerica:brFUvHVkol": "2026-11-12",
   "jazzhr:hyundaiautoeveramerica:c1gzw6OsMz": "2026-11-12",
   "jazzhr:hyundaiautoeveramerica:dQgbPHwPPW": "2026-11-12",
@@ -68310,6 +68311,7 @@
   "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:3022514": "2026-11-17",
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27141": "2026-11-08",
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27309": "2026-11-08",
+  "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27517": "2026-11-18",
   "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10005497": "2026-11-13",
   "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10005943": "2026-11-13",
   "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:104851": "2026-11-16",
@@ -68339,6 +68341,7 @@
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4549": "2026-11-17",
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4552": "2026-11-17",
   "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:120413": "2026-11-12",
+  "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:261189": "2026-11-18",
   "oracle:hcal.fa.us2.oraclecloud.com|CX_1001:2398": "2026-11-12",
   "oracle:hcal.fa.us2.oraclecloud.com|CX_1:2398": "2026-11-14",
   "oracle:hcbo.fa.us2.oraclecloud.com|CX_1:302772": "2026-11-08",
@@ -70079,10 +70082,10 @@
  "source_last": {
   "hn": "2026-11-17T20:37:18+00:00",
   "remoteok": "2026-11-17T23:37:19+00:00",
-  "usajobs": "2026-11-17T22:07:19+00:00",
-  "workable_search": "2026-11-17T22:07:19+00:00",
+  "usajobs": "2026-11-18T01:07:15+00:00",
+  "workable_search": "2026-11-18T01:07:15+00:00",
   "wwr": "2026-11-18T00:37:16+00:00",
-  "yc": "2026-11-17T22:07:19+00:00"
+  "yc": "2026-11-18T01:07:15+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
