@@ -11994,17 +11994,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 86,
+   "n": 87,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 86,
+   "n": 87,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 86,
+   "n": 87,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12159,7 +12159,7 @@
   },
   "greenhouse:engineeringatgigs": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-18"
   },
   "greenhouse:eu:fuzehealth": {
@@ -12194,7 +12194,7 @@
   },
   "greenhouse:gigs": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-18"
   },
   "greenhouse:glossgenius": {
@@ -13341,8 +13341,8 @@
    405
   ],
   "2026-11-18": [
-   45,
-   196
+   60,
+   252
   ]
  },
  "resolved": {
@@ -64327,8 +64327,11 @@
   "ashby:42dot:26f79b07-2ffc-44a3-9d92-36111d18fb34": "2026-11-14",
   "ashby:42dot:4c80af7e-eda8-4a99-9060-7a8a5d6cccb9": "2026-11-14",
   "ashby:AeroVect:85f76a52-86de-43d3-bc0d-db4bf225bb33": "2026-11-16",
+  "ashby:AeroVect:8b876472-0a45-492d-8879-f494a7bd52d3": "2026-11-18",
   "ashby:AeroVect:9aa029df-2e64-42a4-8822-a7d0bb766c10": "2026-11-16",
   "ashby:AeroVect:c8437753-a85c-45c8-973c-8e7f1897423f": "2026-11-16",
+  "ashby:AeroVect:e7381f39-9df2-464e-b411-b620d035a475": "2026-11-18",
+  "ashby:AeroVect:f7b66879-c7de-4060-b2f0-3ed243635d1a": "2026-11-18",
   "ashby:AfterQuery:99afbbe0-5ad1-4f25-a00a-049f14428ac6": "2026-11-14",
   "ashby:Blossom-Health:ffba9bbf-2576-4f3a-b883-c1ef083811da": "2026-11-14",
   "ashby:C1:3aed66f1-c7a7-40c5-b65a-e37d3269d276": "2026-11-14",
@@ -64722,6 +64725,7 @@
   "avature:metlife.avature.net|en_US/ml:21587": "2026-11-14",
   "avature:metlife.avature.net|en_US/ml:21616": "2026-11-14",
   "avature:metlife.avature.net|en_US/ml:21618": "2026-11-17",
+  "avature:metlife.avature.net|en_US/ml:21659": "2026-11-18",
   "avature:metlife.avature.net|en_US/ml:21680": "2026-11-17",
   "avature:mgl.avature.net|internalcareers:22776": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:23521": "2026-11-15",
@@ -65662,6 +65666,7 @@
   "eightfold:citi:859038804482": "2026-11-17",
   "eightfold:citi:859038804776": "2026-11-14",
   "eightfold:citi:859039019215": "2026-11-17",
+  "eightfold:citi:859039019411": "2026-11-18",
   "eightfold:eaton:687239497094": "2026-11-14",
   "eightfold:eaton:687240042663": "2026-11-17",
   "eightfold:eaton|eaton.com:687239497094": "2026-11-14",
@@ -69845,11 +69850,11 @@
  },
  "source_last": {
   "hn": "2026-11-18T08:46:20+00:00",
-  "remoteok": "2026-11-18T07:18:47+00:00",
-  "usajobs": "2026-11-18T06:15:28+00:00",
-  "workable_search": "2026-11-18T06:15:28+00:00",
-  "wwr": "2026-11-18T08:46:20+00:00",
-  "yc": "2026-11-18T06:15:28+00:00"
+  "remoteok": "2026-11-18T09:47:59+00:00",
+  "usajobs": "2026-11-18T09:47:59+00:00",
+  "workable_search": "2026-11-18T09:47:59+00:00",
+  "wwr": "2026-11-18T09:47:59+00:00",
+  "yc": "2026-11-18T09:47:59+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
