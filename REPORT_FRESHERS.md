@@ -1,14 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**667 jobs**, newest first. Updated Tue Nov 17, 7:47 PM CST from 12,526 company job boards and other sources.
+**665 jobs**, newest first. Updated Tue Nov 17, 8:45 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 222 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,963 matching jobs that job sites and feeds listed this week, 535 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 3,065 matching jobs that job sites and feeds listed this week, 550 (17%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (57)](#tuesday-nov-17-57) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (4)](#tuesday-nov-10-4)
+Jump to: [Tue 17 (57)](#tuesday-nov-17-57) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (2)](#tuesday-nov-10-2)
 
 ## Tuesday, Nov 17 (57)
 
@@ -708,16 +708,14 @@ Jump to: [Tue 17 (57)](#tuesday-nov-17-57) · [Mon 16 (62)](#monday-nov-16-62) �
 | 1:30 AM | [SAP BASIS Administrator Associate](https://jobs.smartrecruiters.com/O-I/744000161034659-sap-basis-administrator-associate) | O I | Perrysburg, OH, United States (hybrid) | 68 | entry-level title |
 | 1:00 AM | [Computer Science Associate - Intellectual Property Consulting](https://jobs.dayforcehcm.com/en-US/twh/CANDIDATEPORTAL/jobs/3893) | Twh | US | 63 | entry-level title |
 
-## Tuesday, Nov 10 (4)
+## Tuesday, Nov 10 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:00 PM | [Test Engineer I](https://careers-nikkiso.icims.com/jobs/4425/test-engineer-i/job) | Nikkiso | North Las Vegas, NV, United States | 68 | entry-level title |
 | 11:00 PM | [IT Technician-ITAM](https://careers-stifel.icims.com/jobs/10211/it-technician-itam/job) | Stifel | Saint Louis, MO, United States | 78 | 1+ yrs exp; entry level (from the text) |
-| 8:01 PM | [C&CA Campus - Associate Application Consultant](https://careers.capgemini.com/job/New-York%2C-NY-C&CA-Campus-Associate-Application-Consultant-NY-10001/1447324633/) | Capgemini | New York, NY, United States | 68 | entry-level title |
-| 8:00 PM | [24024 - Junior System Tester](https://careers.quality-ai.com/job/Petach-_-Tikva-24024-Junior-System-Tester/60644944/) | Qualitest |  | 73 | entry-level title; 1+ yrs exp; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3576)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3579)
 
 <details><summary>Show</summary>
 
@@ -725,7 +723,11 @@ Jump to: [Tue 17 (57)](#tuesday-nov-17-57) · [Mon 16 (62)](#monday-nov-16-62) �
 |---|---|---|---|---:|---|
 | date only | [Professional Fee Coder 2 (Sign on Bonus eligible)](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11720) | UCSF | United States | 70 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 40 | rules: 5+ yrs exp; location unclear; needs: ITAR |
+| 8:29 PM | [Web Developer - Intermediate](https://jobs.lever.co/agile-defense/959c51fa-4c5f-486d-8765-c28257b43b76) | Agile Defense | Fort Huachuca, AZ (onsite) | 80 | rules: 2+ yrs exp; needs: Security Clearance |
 | 8:28 PM | [Java Developer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4673099) | SGI | Indianapolis, IN, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 8:15 PM | [Founding Machine Learning Engineer](https://jobs.ashbyhq.com/Clera/2f031c3a-23e0-4d79-8fde-090fe669cf77) | Clera | San Francisco (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 8:14 PM | [Founding Data Engineer](https://jobs.ashbyhq.com/Clera/96eb46ad-eb7a-4540-afc8-7397d946019f) | Clera | San Francisco (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 8:00 PM | [Software Engineer, iOS/Mobile](https://jobs.ashbyhq.com/beaconai/dcd30454-b8c7-4a13-b0dd-ec590b5632fd) | Beacon AI | San Carlos  - Hybrid | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; needs: export control … |
 | 7:41 PM | [Data Engineer](https://jobs.ashbyhq.com/benchling/c97e5668-29ee-4810-b7cc-35331ac123f5) | Benchling | San Francisco, CA (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 7:28 PM | [Network Administrator (Remote)](https://job-boards.greenhouse.io/its/jobs/8202896003) | Its | International (remote) | 37 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
 | 7:24 PM | [Solutions Engineer - Commercial, Site Security](https://jobs.ashbyhq.com/skydio/90bc9a71-6e4d-438f-af69-ccc522cc144d) | Skydio | US Remote +1 more (remote) | 47 | rules: 5+ yrs exp; E-Verify; asks for 5+ years of experience |
@@ -1117,11 +1119,7 @@ Jump to: [Tue 17 (57)](#tuesday-nov-17-57) · [Mon 16 (62)](#monday-nov-16-62) �
 | 1:28 PM | [Maintenance, Reliability, & Systems Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276730) | Vertiv | Ironton, OH, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 1:18 PM | [Founding Data Scientist](https://jobs.ashbyhq.com/greptile/04ae8c2a-c5a0-4f7c-9ace-c2075dc2453e) | Greptile | San Francisco (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 1:03 PM | [Founding ML Engineer](https://jobs.ashbyhq.com/Clera/a16dcef4-2087-4611-89be-0b8ded9d306c) | Clera | San Francisco (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| 1:02 PM | [Founding Data Engineer](https://jobs.ashbyhq.com/Clera/45a0be14-0f13-4efb-8596-011758aac3f7) | Clera | San Francisco (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 1:02 PM | [Founding AI Engineer, Agents](https://jobs.ashbyhq.com/Clera/2a284b73-08ae-4378-a717-646a74c6240f) | Clera | San Francisco (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 1:01 PM | [Integration & Test Systems Engineer (Epsilon3 Developer)](https://ast-science.com/company/careers/?gh_jid=4753697005) | Astspacemobile | Midland, Texas, United States | 60 | rules: 4+ yrs exp; needs: Must be a U.S. Citizen |
-| 12:57 PM (seen) | [Software Engineer - Infrastructure, TikTok Search Engine](https://lifeattiktok.com/search/7280570149262117179) | TikTok | San Jose, California, United States of … | 60 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 12:57 PM (seen) | [Fullstack Engineer](https://app.dover.com/apply/casaphq/9e0aea12-21fa-476b-8d28-ec7abbaf4f9f) | Casaphq | San Francisco, CA (hybrid) | 40 | rules: 6+ yrs exp; sponsors visas; asks for 6+ years of experience |
-| 12:57 PM (seen) | [Full Stack SWE](https://app.dover.com/apply/createbase/83171b41-eed1-4231-92d8-e341439abcf1) | Createbase | California, USA (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
