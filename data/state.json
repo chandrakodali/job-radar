@@ -12092,17 +12092,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 227,
+   "n": 228,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 227,
+   "n": 228,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 227,
+   "n": 228,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12518,6 +12518,11 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 4,
    "since": "2026-11-09"
+  },
+  "icims:careers-apexservicepartners.icims.com": {
+   "err": "HTTP 521",
+   "n": 1,
+   "since": "2026-11-18"
   },
   "icims:careers-biorad.icims.com": {
    "disabled_until": "2026-11-23",
