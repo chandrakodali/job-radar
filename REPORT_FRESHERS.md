@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**664 jobs**, newest first. Updated Wed Nov 18, 2:46 AM CST from 12,526 company job boards and other sources.
+**674 jobs**, newest first. Updated Wed Nov 18, 3:47 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,22 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 3,261 matching jobs that job sites and feeds listed this week, 579 (17%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (3)](#wednesday-nov-18-3) · [Tue 17 (60)](#tuesday-nov-17-60) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (111)](#wednesday-nov-11-111)
+Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (60)](#tuesday-nov-17-60) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (111)](#wednesday-nov-11-111)
 
-## Wednesday, Nov 18 (3)
+## Wednesday, Nov 18 (13)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Post Merger Integration Associate](https://apply.workable.com/planetart/j/6E4CF4BA40/) | PlanetArt | Calabasas, California, United States | 85 | entry-level title; 1+ yrs exp |
+| date only | [Global Product Support (GPS) Engineer](https://appliedmaterials.eightfold.ai/careers/job/790319569980) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 80 | entry level (from the text) |
+| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Coronado Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826253) | Macy's | Albuquerque, NM, United States | 75 | entry-level title |
+| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Cumberland Mall](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826254) | Macy's | Atlanta, GA, United States | 75 | entry-level title |
+| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Mall Del Norte](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826244) | Macy's | Laredo, TX, United States | 75 | entry-level title |
+| 3:27 AM | [Administrative Support Team Associate, Willowbrook Mall - NJ - Full T…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826206) | Macy's | Wayne, NJ, United States | 85 | entry-level title; 1+ yrs exp |
+| 3:26 AM | [Administrative Support Team Associate, Haywood Mall - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826173) | Macy's | Greenville, SC, United States | 85 | entry-level title; 1+ yrs exp |
+| 3:26 AM | [Administrative Support Team Associate, Broward Mall - Flex](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826174) | Macy's | Plantation, FL, United States | 85 | entry-level title; 1+ yrs exp |
+| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Montebello Town…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826166) | Macy's | Montebello, CA, United States | 75 | entry-level title |
+| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Southland - MI](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826161) | Macy's | Taylor, MI, United States | 75 | entry-level title |
 | 2:19 AM | [Junior Security Engineer](https://jobs.lever.co/jobgether/7d7aae14-b608-463f-82c1-8eda7918b8cd) | Jobgether | US (remote) | 82 | entry-level title; 1+ yrs exp |
 | 12:49 AM | [Online Technical Support Engineer -Campus Hire Program](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040677) | Agilent Technologies | US-DE-Wilmington | 75 | entry-level title |
 | 12:00 AM | [Business Intelligence - Health Data Analyst 133-2022](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6571) | Ccok | Tulsa, OK, US | 75 | 1+ yrs exp |
@@ -714,13 +724,16 @@ Jump to: [Wed 18 (3)](#wednesday-nov-18-3) · [Tue 17 (60)](#tuesday-nov-17-60) 
 | 6:28 AM | [Associate IT Analyst - Jacksonville,  FL](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42298) | GuideWell Mutual | Jacksonville, FL, United States (hybrid) | 83 | entry-level title; 1+ yrs exp |
 | 5:32 AM | [Help Desk Associate, Bureau of Early Intervention](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016787126-help-desk-associate-bureau-of-early-intervention) | Cityofnewyork | Long Island City, NY, United States | 63 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3597)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3599)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Apps Dev Intmd Programmer Analyst - Officer](https://citi.eightfold.ai/careers/job/859039019411) | Citi | Tampa, FL, US +1 more (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Professional Fee Coder 2 (Sign on Bonus eligible)](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11720) | UCSF | United States | 70 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 3:13 AM | [Associate SDET (Software Development Engineer in Test)](https://jobs.lever.co/jobgether/afeb5378-1e6a-46e9-b10f-6bf66779dc04) | Jobgether | US (remote) | 67 | rules: entry-level title; 3+ yrs exp; asks for 3+ years of experience |
+| 2:53 AM | [Information Technology Program Analyst](https://jobs.lever.co/jobgether/145751ca-91db-4f49-92df-1ac5680a7c5e) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; needs: security clearance |
 | 2:37 AM | [Salesforce Support Specialist](https://jobs.lever.co/jobgether/3a0e8808-3d07-4e7a-b76a-e34b4be33d58) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 2:28 AM | [Infrastructure Support Specialist](https://jobs.lever.co/jobgether/16c47193-e372-4376-9293-7163f7e7d474) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 2:04 AM | [Cloud and DevOps Engineer](https://jobs.lever.co/jobgether/3e2d051e-4adc-416b-8f8f-aeb7da090178) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -858,7 +871,6 @@ Jump to: [Wed 18 (3)](#wednesday-nov-18-3) · [Tue 17 (60)](#tuesday-nov-17-60) 
 | 11:02 AM | [Software Development Engineer](https://jobs.smartrecruiters.com/Intuitive/744000162133129-software-development-engineer) | Intuitive Surgical | Sunnyvale, CA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2027974EXTERNALENGLOBAL) | Cisco | Durham, North Carolina, United States o… | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [Automation Engineer](https://careers.quality-ai.com/job/Bangalore-Automation-Engineer-560045/61613044/) | Qualitest |  | 55 | rules: 4+ yrs exp; location unclear; asks for 4+ years of experience |
-| date only | [Apps Dev Intmd Programmer Analyst - C11 - TAMPA](https://citi.eightfold.ai/careers/job/859038803970) | Citi | Tampa, FL, US +1 more (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Technical Leader - Software Development Engineer in Test (SDET), San-…](https://careers.cisco.com/global/en/job/CISCISGLOBAL2028912EXTERNALENGLOBAL) | Cisco | San Francisco, California, United State… | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [2027 Associate Systems Engineer - Rolling Meadows IL](https://ngc.eightfold.ai/careers/job/1340075370527) | Ngc | Rolling Meadows, IL, US +1 more (onsite) | 80 | rules: entry-level title; needs: security clearance |
 | date only | [Analytics Engineer, Commercial Systems](https://apply.workable.com/bask-health-1/j/9453F02B71/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -1118,7 +1130,5 @@ Jump to: [Wed 18 (3)](#wednesday-nov-18-3) · [Tue 17 (60)](#tuesday-nov-17-60) 
 | 2:14 PM | [Full Stack Software Engineer](https://job-boards.greenhouse.io/cpisecurity/jobs/4729982006) | CPI Security | Charlotte, North Carolina, United States | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 2:13 PM | [Data Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286722) | Vertiv | Westerville, OH, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:07 PM | [Firmware Engineer](https://jobs.ashbyhq.com/Molg/6a7a6207-c5fe-470c-838e-0310d1f2ac60) | Molg | Sterling (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:03 PM | [Ops Support Technician I](https://job-boards.greenhouse.io/rocketlab/jobs/8203634003) | Rocket Lab USA | Albuquerque, NM | 75 | rules: entry-level title; needs: must be a U.S. citizen |
-| 2:01 PM | [HR Systems & Operations Analyst](https://www.ixl.com/company/jobs?gh_jid=8944983002) | Ixllearning | San Mateo, CA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
