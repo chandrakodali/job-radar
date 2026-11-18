@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**674 jobs**, newest first. Updated Wed Nov 18, 3:47 AM CST from 12,526 company job boards and other sources.
+**674 jobs**, newest first. Updated Wed Nov 18, 4:48 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -724,7 +724,7 @@ Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (60)](#tuesday-nov-17-60
 | 6:28 AM | [Associate IT Analyst - Jacksonville,  FL](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42298) | GuideWell Mutual | Jacksonville, FL, United States (hybrid) | 83 | entry-level title; 1+ yrs exp |
 | 5:32 AM | [Help Desk Associate, Bureau of Early Intervention](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016787126-help-desk-associate-bureau-of-early-intervention) | Cityofnewyork | Long Island City, NY, United States | 63 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3599)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3601)
 
 <details><summary>Show</summary>
 
@@ -732,6 +732,8 @@ Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (60)](#tuesday-nov-17-60
 |---|---|---|---|---:|---|
 | date only | [Apps Dev Intmd Programmer Analyst - Officer](https://citi.eightfold.ai/careers/job/859039019411) | Citi | Tampa, FL, US +1 more (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Professional Fee Coder 2 (Sign on Bonus eligible)](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11720) | UCSF | United States | 70 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| date only | [Apps Dev Intmd Programmer Analyst -Officer](https://citi.eightfold.ai/careers/job/859039019250) | Citi | Tampa, FL, US (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 4:04 AM | [ML Ops Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6240810004) | PlayStation | United States, San Diego, CA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 3:13 AM | [Associate SDET (Software Development Engineer in Test)](https://jobs.lever.co/jobgether/afeb5378-1e6a-46e9-b10f-6bf66779dc04) | Jobgether | US (remote) | 67 | rules: entry-level title; 3+ yrs exp; asks for 3+ years of experience |
 | 2:53 AM | [Information Technology Program Analyst](https://jobs.lever.co/jobgether/145751ca-91db-4f49-92df-1ac5680a7c5e) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; needs: security clearance |
 | 2:37 AM | [Salesforce Support Specialist](https://jobs.lever.co/jobgether/3a0e8808-3d07-4e7a-b76a-e34b4be33d58) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -1128,7 +1130,5 @@ Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (60)](#tuesday-nov-17-60
 | 2:20 PM | [Platform Software Engineer-Agentic AI Project](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/job/341614) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 2:16 PM | [Software Engineer (Mid-level)](https://jobs.lever.co/pditechnologies/f5ed3143-d632-4edb-bbbe-632f66e03274) | PDI Technologies | Remote US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 2:14 PM | [Full Stack Software Engineer](https://job-boards.greenhouse.io/cpisecurity/jobs/4729982006) | CPI Security | Charlotte, North Carolina, United States | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
-| 2:13 PM | [Data Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286722) | Vertiv | Westerville, OH, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:07 PM | [Firmware Engineer](https://jobs.ashbyhq.com/Molg/6a7a6207-c5fe-470c-838e-0310d1f2ac60) | Molg | Sterling (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>

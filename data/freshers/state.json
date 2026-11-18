@@ -11998,17 +11998,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 114,
+   "n": 115,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 114,
+   "n": 115,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 114,
+   "n": 115,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12162,8 +12162,9 @@
    "since": "2026-11-13"
   },
   "greenhouse:engineeringatgigs": {
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-18"
   },
   "greenhouse:eu:fuzehealth": {
@@ -12197,8 +12198,9 @@
    "since": "2026-11-13"
   },
   "greenhouse:gigs": {
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-18"
   },
   "greenhouse:glossgenius": {
@@ -65731,6 +65733,7 @@
   "avature:deloittecm.avature.net|careers:11169": "2026-11-14",
   "avature:deloittecm.avature.net|careers:11170": "2026-11-14",
   "avature:deloittecm.avature.net|careers:11178": "2026-11-14",
+  "avature:deloittecm.avature.net|careers:11185": "2026-11-18",
   "avature:deloitteus.avature.net|careers:350157": "2026-11-16",
   "avature:deloitteus.avature.net|careers:350195": "2026-11-16",
   "avature:deloitteus.avature.net|careers:350393": "2026-11-16",
@@ -68398,9 +68401,11 @@
   "eightfold:citi:859038918974": "2026-11-16",
   "eightfold:citi:859038920676": "2026-11-16",
   "eightfold:citi:859038949395": "2026-11-17",
+  "eightfold:citi:859038956013": "2026-11-18",
   "eightfold:citi:859039011534": "2026-11-16",
   "eightfold:citi:859039017393": "2026-11-16",
   "eightfold:citi:859039019215": "2026-11-17",
+  "eightfold:citi:859039019250": "2026-11-18",
   "eightfold:citi:859039019411": "2026-11-18",
   "eightfold:eaton:687239497094": "2026-11-14",
   "eightfold:eaton:687240042663": "2026-11-17",
@@ -69832,6 +69837,7 @@
   "greenhouse:sonyinteractiveentertainmentglobal:6181170004": "2026-11-13",
   "greenhouse:sonyinteractiveentertainmentglobal:6233282004": "2026-11-13",
   "greenhouse:sonyinteractiveentertainmentglobal:6233291004": "2026-11-13",
+  "greenhouse:sonyinteractiveentertainmentglobal:6240810004": "2026-11-18",
   "greenhouse:sonyinteractiveentertainmentglobal:6250205004": "2026-11-13",
   "greenhouse:spacekinetic:5479559008": "2026-11-13",
   "greenhouse:sparksoftcorporation:5281686007": "2026-11-13",
