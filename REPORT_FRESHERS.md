@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**666 jobs**, newest first. Updated Tue Nov 17, 6:49 PM CST from 12,526 company job boards and other sources.
+**667 jobs**, newest first. Updated Tue Nov 17, 7:47 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,13 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 2,963 matching jobs that job sites and feeds listed this week, 535 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (56)](#tuesday-nov-17-56) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (4)](#tuesday-nov-10-4)
+Jump to: [Tue 17 (57)](#tuesday-nov-17-57) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (4)](#tuesday-nov-10-4)
 
-## Tuesday, Nov 17 (56)
+## Tuesday, Nov 17 (57)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 7:30 PM | [IT Support Engineer](https://jobs.smartrecruiters.com/RRDonnelley/744000162211529-it-support-engineer-) | RR Donnelley | Logan, UT, United States | 85 | 1+ yrs exp; entry level (from the text) |
 | 6:35 PM | [Software Engineer, Agentic Systems - Moveworks](https://jobs.smartrecruiters.com/ServiceNow/744000162190099-software-engineer-agentic-systems-moveworks) | ServiceNow | Mountain View, CALIFORNIA, United States | 85 | 0-2 yrs exp; entry level (from the text) |
 | 6:30 PM | [Software Engineer I, Commerce](https://job-boards.greenhouse.io/twitch/jobs/8949388002) | Twitch | Seattle, WA +1 more | 75 | entry-level title |
 | 6:01 PM | [Test Center Administrator - Fresno, CA](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26280) | Pearson | Fresno, CA, United States +8 more (onsite) | 80 | 1+ yrs exp |
@@ -716,14 +717,20 @@ Jump to: [Tue 17 (56)](#tuesday-nov-17-56) · [Mon 16 (62)](#monday-nov-16-62) �
 | 8:01 PM | [C&CA Campus - Associate Application Consultant](https://careers.capgemini.com/job/New-York%2C-NY-C&CA-Campus-Associate-Application-Consultant-NY-10001/1447324633/) | Capgemini | New York, NY, United States | 68 | entry-level title |
 | 8:00 PM | [24024 - Junior System Tester](https://careers.quality-ai.com/job/Petach-_-Tikva-24024-Junior-System-Tester/60644944/) | Qualitest |  | 73 | entry-level title; 1+ yrs exp; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3571)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3576)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Professional Fee Coder 2 (Sign on Bonus eligible)](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11720) | UCSF | United States | 70 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 40 | rules: 5+ yrs exp; location unclear; needs: ITAR |
 | 8:28 PM | [Java Developer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4673099) | SGI | Indianapolis, IN, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 7:41 PM | [Data Engineer](https://jobs.ashbyhq.com/benchling/c97e5668-29ee-4810-b7cc-35331ac123f5) | Benchling | San Francisco, CA (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 7:28 PM | [Network Administrator (Remote)](https://job-boards.greenhouse.io/its/jobs/8202896003) | Its | International (remote) | 37 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
+| 7:24 PM | [Solutions Engineer - Commercial, Site Security](https://jobs.ashbyhq.com/skydio/90bc9a71-6e4d-438f-af69-ccc522cc144d) | Skydio | US Remote +1 more (remote) | 47 | rules: 5+ yrs exp; E-Verify; asks for 5+ years of experience |
+| 7:21 PM | [APEX Developer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344970) | Oracle | United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| 7:21 PM | [APEX Developer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/job/344970) | Eeho Fa Us2 Oraclecloud Com | United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 6:44 PM | [Data Analyst](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/15705) | Egln Fa Us2 Oraclecloud Com | Loma Linda, CA, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 6:34 PM | [FINANCIAL SYSTEMS ANALYST 1](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=267cfc8f-e6d3-499b-8a38-c6abe8ee3d82&ccId=19000101_000001&jobId=9207477360376_50&lang=en_US) | 267Cfc8F E6D3 499B 8A38 C6Abe… | White Sands Missile Range, NM | 55 | rules: entry-level title; 5+ yrs exp; needs: Secret Clearance |
 | 6:25 PM | [Information Technology Infrastructure and Security Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4672372) | ACHIEVEMENT CENTER FOR CHILDR… | Westlake, OH, United States | 40 | rules: 5+ yrs exp; no future H-1B sponsorship; asks for 5+ years of e… |
@@ -1116,11 +1123,5 @@ Jump to: [Tue 17 (56)](#tuesday-nov-17-56) · [Mon 16 (62)](#monday-nov-16-62) �
 | 12:57 PM (seen) | [Software Engineer - Infrastructure, TikTok Search Engine](https://lifeattiktok.com/search/7280570149262117179) | TikTok | San Jose, California, United States of … | 60 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 12:57 PM (seen) | [Fullstack Engineer](https://app.dover.com/apply/casaphq/9e0aea12-21fa-476b-8d28-ec7abbaf4f9f) | Casaphq | San Francisco, CA (hybrid) | 40 | rules: 6+ yrs exp; sponsors visas; asks for 6+ years of experience |
 | 12:57 PM (seen) | [Full Stack SWE](https://app.dover.com/apply/createbase/83171b41-eed1-4231-92d8-e341439abcf1) | Createbase | California, USA (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 12:57 PM (seen) | [Machine Learning Engineer - Agentic solutions that move the music ind…](https://app.dover.com/apply/createbase/d89c9376-ec6d-4ee9-b374-4dde9c43e2be) | Createbase | United States (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 12:54 PM | [Security Analyst, Compliance](https://job-boards.greenhouse.io/purestorage/jobs/8383377) | Pure Storage | Lehi, Utah | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 12:54 PM | [Data Scientist - Machine Learning & AI, Intermediate](https://ewvl.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2248) | Savannah River National Labor… | Aiken, SC, United States | 65 | rules: 4+ yrs exp; likely H-1B cap-exempt (verify); needs: security c… |
-| 12:52 PM | [Junior Security Administrator](https://jobs.workable.com/view/6EH64dip7XbRvUZaZatuCY/junior-security-administrator-in-providence-at-charles-it) | Charles IT | Providence, Rhode Island (onsite) | 90 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
-| 12:40 PM | [Data Hall Design Engineer](https://jobs.ashbyhq.com/TensorWave/8f745dff-0683-417f-bced-df06efa797eb) | TensorWave | Remote (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 12:35 PM | [Software Engineer, Backend - Government Products](https://boards.greenhouse.io/robinhood/jobs/8385931?t=gh_src=&gh_jid=8385931) | Robinhood | Menlo Park, CA; New York, NY | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 
 </details>
