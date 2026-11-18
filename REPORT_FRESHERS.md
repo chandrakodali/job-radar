@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**672 jobs**, newest first. Updated Wed Nov 18, 6:45 AM CST from 12,526 company job boards and other sources.
+**674 jobs**, newest first. Updated Wed Nov 18, 7:29 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,17 +8,19 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 3,360 matching jobs that job sites and feeds listed this week, 594 (17%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (60)](#tuesday-nov-17-60) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (109)](#wednesday-nov-11-109)
+Jump to: [Wed 18 (15)](#wednesday-nov-18-15) · [Tue 17 (60)](#tuesday-nov-17-60) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (109)](#wednesday-nov-11-109)
 
-## Wednesday, Nov 18 (13)
+## Wednesday, Nov 18 (15)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Post Merger Integration Associate](https://apply.workable.com/planetart/j/6E4CF4BA40/) | PlanetArt | Calabasas, California, United States | 85 | entry-level title; 1+ yrs exp |
 | date only | [Global Product Support (GPS) Engineer](https://appliedmaterials.eightfold.ai/careers/job/790319569980) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 80 | entry level (from the text) |
+| date only | [Systems Administrator I](https://jobs.jobvite.com/synqor-careers/job/oTi7AfwC) | SynQor | Salem, New Hampshire, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Coronado Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826253) | Macy's | Albuquerque, NM, United States | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Cumberland Mall](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826254) | Macy's | Atlanta, GA, United States | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Mall Del Norte](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826244) | Macy's | Laredo, TX, United States | 75 | entry-level title |
+| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Culver City Cen…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826238) | Macy's | Culver City, CA, United States | 75 | entry-level title |
 | 3:27 AM | [Administrative Support Team Associate, Willowbrook Mall - NJ - Full T…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826206) | Macy's | Wayne, NJ, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Administrative Support Team Associate, Haywood Mall - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826173) | Macy's | Greenville, SC, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Administrative Support Team Associate, Broward Mall - Flex](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826174) | Macy's | Plantation, FL, United States | 85 | entry-level title; 1+ yrs exp |
@@ -722,7 +724,7 @@ Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (60)](#tuesday-nov-17-60
 | 8:49 AM | [WMS Software Engineer (OPERATIONS TECHNOLOGY)](https://careers.hellofresh.com/global/en/job/HELLGLOBAL8334962EXTERNALENGLOBAL) | Hello Fresh | Goodyear, AZ, United States +2 more | 78 | 1+ yrs exp; entry level (from the text) |
 | 7:31 AM | [(US DC) Systems Analyst](https://careers.hellofresh.com/global/en/job/HELLGLOBAL8335726EXTERNALENGLOBAL) | Hello Fresh | Phoenix, AZ, United States +1 more | 78 | 1+ yrs exp; entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3610)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3615)
 
 <details><summary>Show</summary>
 
@@ -733,6 +735,11 @@ Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (60)](#tuesday-nov-17-60
 | date only | [Apps Dev Intmd Programmer Analyst -Officer](https://citi.eightfold.ai/careers/job/859039019250) | Citi | Tampa, FL, US (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [DevOps / SRE Engineer (Kubernetes, Terraform), AI Expert](https://apply.workable.com/weekday-1/j/66FAC02153/) | Weekday AI | United States (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Software Engineer (Python, Java, C++, Go, Rust), AI Expert](https://apply.workable.com/weekday-1/j/A8BEFF11F2/) | Weekday AI | United States (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| date only | [Embedded Field Engineer](https://careers.quest-global.com/global/en/job/QGRQGAGLOBALP124608EXTERNALENGLOBAL) | Quest Global | La Barge, Wyoming, United States | 45 | rules: 10+ yrs exp; asks for 10+ years of experience |
+| date only | [Database Administrator (AHT)](https://ngc.eightfold.ai/careers/job/1340075388613) | Ngc | Beavercreek, OH, US (onsite) | 50 | rules: 6+ yrs exp; needs: security clearance |
+| 7:21 AM | [Data Analyst](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74584) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 6:50 AM | [Backend Software Engineer, ML Inference](https://jobs.ashbyhq.com/prior-labs/8a264570-fc81-4234-9487-f74d27f81601) | Prior Labs | Berlin; Freiburg; New York (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 6:49 AM | [Infrastructure Engineer, GPU Clusters](https://jobs.ashbyhq.com/prior-labs/885bf4f6-e68c-4fc5-8385-e8d3615093fe) | Prior Labs | Berlin; Freiburg; New York (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 6:15 AM | [Software Engineer, Front End](https://jobs.ashbyhq.com/atomic-invest/4c83fd63-1985-43b3-92d1-ce5a98f8a10b) | Atomic Invest (AtomicVest) | United States | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 6:13 AM | [Laboratory Technical Specialist](https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/691690) | Inova | Falls Church, VA, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 6:13 AM | [Laboratory Technical Specialist](https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/691690) | Elar Fa Us2 Oraclecloud Com | Falls Church, VA, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -1123,10 +1130,5 @@ Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (60)](#tuesday-nov-17-60
 | 2:51 PM (seen) | [DevOps Automation Engineer](https://app.dover.com/apply/devops-automation-eng/5a6153f8-c989-4998-a826-5fbdae605605) | Devops Automation Eng | McLean, VA (onsite) | 35 | rules: 9+ yrs exp; asks for 9+ years of experience |
 | 2:51 PM (seen) | [Full Stack Developer](https://app.dover.com/apply/devops-automation-eng/8dfd6db5-c724-4675-a5c6-b90fc659838e) | Devops Automation Eng | Dallas, TX (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 2:51 PM (seen) | [Full-Stack Engineer with Focus on Go](https://app.dover.com/apply/doyen-ai/6cd1293f-b8c0-4483-8cf8-74a055ffc1b9) | Doyen Ai | United States; Boston, MA (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:51 PM (seen) | [Developer Support Specialist (with Content Creation Skills)](https://app.dover.com/apply/easylabs/2899e830-a927-4762-b21a-3f288a9b5674) | Easylabs | International; Minneapolis, MN; Los Ang… (hybrid) | 65 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 2:51 PM (seen) | [Financial Systems/Data Engineer](https://app.dover.com/apply/easylabs/b0a33302-0e88-46ff-9053-fdd02320d75f) | Easylabs | International; New York City, NY; Minne… (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:51 PM (seen) | [Software Engineer](https://app.dover.com/apply/eightfold/613082a6-d443-4df6-b8d2-98cf28a2d114) | Eightfold | San Jose, CA (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:51 PM (seen) | [MicroStrategy - BI Platform Administrator](https://app.dover.com/apply/elitetechnical/68f7328a-74c0-455b-b355-ed78e69f5009) | Elitetechnical | Maryland, USA; Virginia, USA; Washingto… (hybrid) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:51 PM (seen) | [ServiceNow Developer - CSM](https://app.dover.com/apply/elitetechnical/0f8bccc2-a361-4052-baf8-5cc449768eb7) | Elitetechnical | Maryland, USA; Virginia, USA; Washingto… (hybrid) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
