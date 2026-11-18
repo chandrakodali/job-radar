@@ -4,7 +4,7 @@ Watching **12,612 company job boards** for automotive embedded software roles in
 
 Last new match: **Wed Nov 18, 02:18 AM EST**. Score is 0–100 and uses no AI: the full job text is read section by section. "Has" lists the resume's skills the job asks for; "Missing" lists skills the job requires that the resume does not show. The score weighs how much of what the job asks the resume covers, the title, years required (the MS path counts), the industry, word overlap with the resume, freshness and location. Visa sponsorship moves it by 2 points at most. Full history: [data/automotive/matches.csv](data/automotive/matches.csv).
 
-## Posted in the last 24 hours (32)
+## Posted in the last 24 hours (31)
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
@@ -34,16 +34,15 @@ Last new match: **Wed Nov 18, 02:18 AM EST**. Score is 0–100 and uses no AI: t
 | 61 | [Senior Embedded Security Engineer](https://johndeere.eightfold.ai/careers/job/137484483383) | Johndeere | Johnston, IA, US (onsite) | Nov 17 | C, Embedded software, C++, Python | – | 5+ yrs |
 | 61 | [Staff Embedded Software Engineer - 2300](https://jobs.smartrecruiters.com/Kioxia/744000162172849-staff-embedded-software-engineer-2300) | Kioxia | Folsom, CA, United States (hybrid) | Nov 17 | Embedded software, C, C++ | – | 5+ yrs; stretch: senior-level title |
 | 61 | [Senior, Systems Engineer - Functional Safety & Safety Architecture (U…](https://job-boards.greenhouse.io/torcrobotics/jobs/8927585002) | Torc Robotics | Remote - US, Blacksburg, VA (remote) | Nov 17 | Functional safety, Model-based design, IBM DOORS/DNG, Polarion/Jama/codebeamer | – |  |
-| 57 | [Senior Firmware Engineer II (AI Native)](https://jobs.lever.co/jobgether/ec9e82e8-27e6-4828-8086-be578574e09d) | Jobgether | US (remote) | Nov 17 | C, Embedded software, C++, Controls/algorithms, Code reviews | Device drivers/BSP, Hardware design (FPGA/PCB/analog), Cybe… | 7+ yrs |
 | 56 | [Sr. Security Firmware Engineer](https://careers.rivian.com/jobs/36501?lang=en-us) | Rivian | Palo Alto, California | Nov 17 | C | Cybersecurity (ISO 21434), Bootloaders | 5+ yrs |
 | 53 | [HV Battery Validation Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73015) | Ford Motor Company | Dearborn, MI, United States (onsite) | Nov 17 | Python, Agile/Scrum/Jira | Vector CANoe/CANalyzer, Powertrain/engine/transmission, Veh… |  |
 | 50 | [Embedded Engineer](https://app.dover.com/apply/culture-impact/f3263d90-8053-49c0-ae25-9edd27181691) | Culture Impact | United States; Las Vegas, NV (hybrid) | Nov 17 | Embedded software, C++, Jenkins/CI, Unit testing, Code reviews, Software integration/buil… | Device drivers/BSP, Microcontrollers, RTOS, Assembly, Debug… | contract; no visa sponsorship |
 | 49 | [Senior Engineer - Industrial Control Systems Technical Lead](https://ats.rippling.com/type-one-energy-group/jobs/26b9881d-0abb-456c-a111-e891bbf95a6c) | Type One Energy Group | Knoxville, TN (onsite) | Nov 17 | Controls/algorithms | – | description not read; stretch: senior-level title |
 | 37 | [Senior Casting Simulation Engineer](https://ats.rippling.com/beehive-industries/jobs/a4a021ad-4a5b-4d9b-bbb2-3bf5e4c3bc39) | Beehive Industries | Loveland, OH (onsite) | Nov 17 |  | – | description not read |
 
-## Found in the last 60 days, posted earlier (1715)
+## Found in the last 60 days, posted earlier (1716)
 
-Showing the 400 best of 1715; the rest are in the full history file.
+Showing the 400 best of 1716; the rest are in the full history file.
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
@@ -58,7 +57,7 @@ Showing the 400 best of 1715; the rest are in the full history file.
 | 87 | [Senior Software Engineer, ADAS Feature Integration](https://lucidmotors.com/careers/search/5216837007?gh_jid=5216837007) | Lucid Motors | Southfield, MI | Aug 26 | Functional safety, ADAS, SIL testing, C, Requirements engineering, C++, ECU software, Emb… | – | 5+ yrs; open 83 days |
 | 87 | [ADAS Surround View Camera Feature Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71436) | Ford Motor Company | Dearborn, MI, United States (hybrid) | Oct 01 | Simulink, Stateflow, Model-based design, ISO 26262, ADAS, MIL testing, SIL testing, Funct… | HIL testing, Powertrain/engine/transmission, Perception/com… | 3+ yrs |
 | 87 | [Engine Control System Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72782) | Ford Motor Company | Dearborn, MI, United States (hybrid) | Oct 19 | Simulink, Stateflow, Embedded Coder, Model-based design, ISO 26262, MIL testing, SIL test… | HIL testing, UDS/diagnostics, Calibration (XCP/INCA/CANape)… | 1+ yrs |
-| 86 | [Embedded Software Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=275f2b3c-c1d2-4535-aedc-2637a5e2d9c6&ccId=19000101_000001&jobId=9200931715942_1&lang=en_US) | 275F2B3C C1D2 4535 Aedc 2637A… | Kansas City, KS | Sep 16 | ISO 26262, Functional safety, Embedded software, C, CAN/CAN FD, Automotive software, Cont… | – | 2+ yrs; open 62 days |
+| 86 | [Embedded Software Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=275f2b3c-c1d2-4535-aedc-2637a5e2d9c6&ccId=19000101_000001&jobId=9200931715942_1&lang=en_US) | 275F2B3C C1D2 4535 Aedc 2637A… | Kansas City, KS | Sep 16 | ISO 26262, Functional safety, Embedded software, C, CAN/CAN FD, Automotive software, Cont… | – | 2+ yrs; open 63 days |
 | 86 | [Senior Embedded Software Engineer - ADAS / AD](https://lucidmotors.com/careers/search/5254646007?gh_jid=5254646007) | Lucid Motors | Southfield, MI | Oct 05 | AUTOSAR Classic, DaVinci Developer/Configurator, ADAS, C, Embedded software, SWC/RTE desi… | BSW/MCAL configuration, Automotive Ethernet/SOME-IP, UDS/di… | 5+ yrs |
 | 86 | [Functional Safety Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72288) | Ford Motor Company | Dearborn, MI, United States (hybrid) | Oct 16 | Functional safety, Model-based design, ISO 26262, EPS/steering, Steer-by-wire, Requiremen… | Powertrain/engine/transmission, Brakes | 2+ yrs |
 | 86 | [Sr Embedded Automotive Software Engineer/CONTRACT](https://careers.leggett.com/job/Detroit-Sr-Embedded-Automotive-Software-EngineerCONTRACT-MI-48201/1412489200/) | Leggett & Platt | Detroit, MI, United States | Oct 19 | Model-based design, AUTOSAR Classic, ISO 26262, MISRA C, ASPICE, Automotive software, C, … | UDS/diagnostics, LIN | 5+ yrs; contract |
@@ -364,7 +363,7 @@ Showing the 400 best of 1715; the rest are in the full history file.
 | 74 | [Control Systems Engineer, Advanced Controls and Integration](https://jobs.lever.co/thea.energy/880c534f-1816-452f-a2e1-a9df1138202d) | Thea Energy | Kearny, NJ (onsite) | Jun 21 | Simulink, MATLAB, Controls/algorithms, Simulation and modeling, Python, Git | – | 2+ yrs; open 149 days |
 | 74 | [Field Application Engineer (PTV)](https://apply.workable.com/vectornorthamerica/j/A1221A51A6/) | Vector North America | Novi, Michigan, United States | Jul 08 | Simulink, AUTOSAR Classic, MIL testing, SIL testing, MATLAB, CAN/CAN FD, ECU software, Em… | HIL testing, NI tools (LabVIEW/TestStand/VeriStand), Vector… | 3+ yrs; open 132 days |
 | 74 | [Robotics Engineer - Embedded Software](https://jobs.ashbyhq.com/TerraFirma-Inc/a952c18c-560f-447f-9733-e11e2e0b3fac) | TerraFirma Inc | Robot Ranch (Austin, TX) (onsite) | Jul 14 | Functional safety, Embedded software, Jenkins/CI | Microcontrollers | 2+ yrs; open 126 days |
-| 74 | [Senior Embedded Controls Engineer – Scanning Systems](https://jobs.lever.co/aeva/288aa800-56ed-4538-9f2b-ec7d50dbf932) | Aeva | Mountain View, CA (onsite) | Aug 11 | Embedded software, MATLAB, C, Controls/algorithms, Vehicle dynamics/chassis, Python | Motor control, Microcontrollers | 3+ yrs; open 98 days |
+| 74 | [Senior Embedded Controls Engineer – Scanning Systems](https://jobs.lever.co/aeva/288aa800-56ed-4538-9f2b-ec7d50dbf932) | Aeva | Mountain View, CA (onsite) | Aug 11 | Embedded software, MATLAB, C, Controls/algorithms, Vehicle dynamics/chassis, Python | Motor control, Microcontrollers | 3+ yrs; open 99 days |
 | 74 | [Embedded Software Engineer (Firmware) - DoorDash Air](https://job-boards.greenhouse.io/doordashusa/jobs/8122134) | DoorDash | San Francisco, CA | Aug 11 | Functional safety, C, CAN/CAN FD, Embedded software, C++, Vehicle dynamics/chassis | Device drivers/BSP, Microcontrollers | 4+ yrs; open 98 days |
 | 74 | [Senior GNC Engineer](https://jobs.lever.co/espace/2b9dad10-b491-470e-8949-71ebccabc986) | E-Space | Saratoga, CA; Arlington, TX (onsite) | Aug 13 | Simulink, SIL testing, Functional safety, MATLAB, C, C++, Controls/algorithms, Git, Simul… | HIL testing, Perception/computer vision, State estimation (… | 2+ yrs (PhD path); open 96 days |
 | 74 | [Embedded Software Engineer - AI Focus](https://careers.itw.com/global/en/job/ITWITWUSJR9697EXTERNALENUS) | Illinois Tool Works | Appleton, Wisconsin, United States of A… | Aug 25 | C, Embedded software, C++, Unit testing, Jenkins/CI, Controls/algorithms, Code reviews, A… | Hardware design (FPGA/PCB/analog), Motor control, Microcont… | 4+ yrs; open 84 days |
@@ -448,7 +447,7 @@ Showing the 400 best of 1715; the rest are in the full history file.
 | 73 | [Sr. Engineer, Vehicle Dynamics](https://lucidmotors.com/careers/search/5277428007?gh_jid=5277428007) | Lucid Motors | Newark, CA | Nov 04 | Simulink, EPS/steering, MATLAB, C++, Controls/algorithms, Vehicle dynamics/chassis, Python | – | 5+ yrs |
 | 73 | [Systems Engineer - Embedded Firmware](https://sigmadesign.applytojob.com/apply/OzN3LRL1mO/Systems-Engineer-Embedded-Firmware) | Sigma Design | Redmond, WA | Nov 06 | C, CAN/CAN FD, Embedded software, C++, Jenkins/CI, Python | Device drivers/BSP, RTOS, Bootloaders, Test automation scri… | 3+ yrs (MS path) |
 
-## Hidden from alerts: clearance/citizenship or rejected by the AI check (985 in the last 60 days)
+## Hidden from alerts: clearance/citizenship or rejected by the AI check (986 in the last 60 days)
 
 Jobs that need a security clearance, US citizenship or ITAR status, jobs asking for 10+ years of experience, jobs whose text names none of the resume's tools, and jobs the AI check of the full description against the resume judged a different kind of job. The reason is in the Notes column. Listed so nothing is dropped silently.
 
