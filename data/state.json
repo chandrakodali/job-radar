@@ -11718,6 +11718,7 @@
   "ashby:clera:d7270fb0-ae7d-4c92-bd1a-9a1000c0b800": "2026-11-13",
   "ashby:clera:ee2d16b1-fb2a-4b38-9eba-258efd4a6dc3": "2026-11-12",
   "ashby:clera:f9a19ac1-59ba-43ed-8da4-7c0c17c67650": "2026-11-18",
+  "ashby:creatoriq:e88a2ed2-52d8-45c7-9c6c-e372fec21cfb": "2026-11-18",
   "ashby:cursor:359cb8e6-77e8-4a77-be67-a39eb46d2c10": "2026-11-13",
   "ashby:cursor:39386c17-568f-4f9c-b8de-e641c092deaa": "2026-11-13",
   "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:26755e78-f3c2-4ac2-ad2d-a8483bc5c259": "2026-11-13",
@@ -11751,11 +11752,6 @@
   "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-16"
  },
  "fails": {
-  "apple:usa": {
-   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
-   "n": 1,
-   "since": "2026-11-18"
-  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-25",
    "err": "HTTP 404",
@@ -12100,17 +12096,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 248,
+   "n": 249,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 248,
+   "n": 249,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 248,
+   "n": 249,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14996,7 +14992,7 @@
   ],
   "2026-11-18": [
    112,
-   282
+   286
   ]
  },
  "resolved": {
@@ -65734,6 +65730,9 @@
   "amazon:us:10593216": "2026-11-14",
   "amazon:us:10593217": "2026-11-14",
   "amazon:us:10594676": "2026-11-17",
+  "amazon:us:10596008": "2026-11-18",
+  "amazon:us:10596537": "2026-11-18",
+  "amazon:us:10596626": "2026-11-18",
   "amazon:us:10597672": "2026-11-14",
   "amazon:us:10597677": "2026-11-14",
   "amazon:us:10598370": "2026-11-14",
@@ -65807,11 +65806,13 @@
   "apple:usa:200694981": "2026-11-14",
   "apple:usa:200694982": "2026-11-14",
   "apple:usa:200695000": "2026-11-16",
+  "apple:usa:200695030": "2026-11-18",
   "apple:usa:200695127": "2026-11-16",
   "apple:usa:200695197": "2026-11-16",
   "apple:usa:200695296": "2026-11-17",
   "apple:usa:200695356": "2026-11-17",
   "apple:usa:200695546": "2026-11-18",
+  "apple:usa:200695686": "2026-11-18",
   "ashby:AeroVect:49403b08-400b-43e7-91f8-709c965bda54": "2026-11-07",
   "ashby:AeroVect:91db7309-415c-498b-a033-373af6546a68": "2026-11-12",
   "ashby:AfterQuery:99afbbe0-5ad1-4f25-a00a-049f14428ac6": "2026-11-12",
@@ -67089,6 +67090,7 @@
   "greenhouse:itd:4506392009": "2026-11-13",
   "greenhouse:its:8202896003": "2026-11-18",
   "greenhouse:its:8202933003": "2026-11-12",
+  "greenhouse:jensenhughes:5480462008": "2026-11-18",
   "greenhouse:jusbrasil:6002659004": "2026-11-12",
   "greenhouse:k2spacecorporation:5478655008": "2026-11-18",
   "greenhouse:kairospower:6183616004": "2026-11-07",
@@ -68444,6 +68446,7 @@
   "paylocity:33704aa8-8475-45e8-b8a8-55e4d6765e36:4653296": "2026-11-15",
   "paylocity:33704aa8-8475-45e8-b8a8-55e4d6765e36:4654017": "2026-11-15",
   "paylocity:33d408c5-a3ae-404d-ad44-272300d2ee21:4556993": "2026-11-15",
+  "paylocity:375dd214-5f6e-4329-8f4f-024a022eaf32:4564824": "2026-11-18",
   "paylocity:3986a99a-17ae-446b-835f-782cb565047f:4256360": "2026-11-16",
   "paylocity:3a71f2f7-867e-4733-af77-16b1a4d9e347:4651290": "2026-11-15",
   "paylocity:3a71f2f7-867e-4733-af77-16b1a4d9e347:4672372": "2026-11-17",
@@ -68468,6 +68471,7 @@
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029199EXTERNALENGLOBAL": "2026-11-09",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029200EXTERNALENGLOBAL": "2026-11-09",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2029203EXTERNALENGLOBAL": "2026-11-09",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2030555EXTERNALENGLOBAL": "2026-11-18",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2031378EXTERNALENGLOBAL": "2026-11-11",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2031595EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.quest-global.com|global/en:QGRQGAGLOBALP124062EXTERNALENGLOBAL": "2026-11-09",
@@ -70153,7 +70157,7 @@
   "remoteok": "2026-11-18T17:37:17+00:00",
   "usajobs": "2026-11-18T16:07:19+00:00",
   "workable_search": "2026-11-18T16:07:19+00:00",
-  "wwr": "2026-11-18T17:37:17+00:00",
+  "wwr": "2026-11-18T18:37:34+00:00",
   "yc": "2026-11-18T16:07:19+00:00"
  },
  "title_rules": "c323075b4d70",
