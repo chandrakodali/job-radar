@@ -11994,17 +11994,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 81,
+   "n": 82,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 81,
+   "n": 82,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 81,
+   "n": 82,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13332,7 +13332,7 @@
   ],
   "2026-11-18": [
    30,
-   126
+   129
   ]
  },
  "resolved": {
@@ -65747,6 +65747,8 @@
   "eightfold:nvidia:893398772577": "2026-11-17",
   "eightfold:nvidia:893398775996": "2026-11-17",
   "eightfold:nvidia:893398776454": "2026-11-17",
+  "eightfold:nvidia:893398782244": "2026-11-18",
+  "eightfold:nvidia:893398782287": "2026-11-18",
   "eightfold:paypal:274921995088": "2026-11-16",
   "eightfold:paypal:274922260545": "2026-11-17",
   "eightfold:paypal:274922508777": "2026-11-15",
@@ -68071,6 +68073,7 @@
   "sfrmk:assaabloy.jobs2web.com:1451870733": "2026-11-14",
   "sfrmk:assaabloy.jobs2web.com:1455987733": "2026-11-14",
   "sfrmk:assaabloy.jobs2web.com:1456303833": "2026-11-14",
+  "sfrmk:assaabloy.jobs2web.com:1458263333": "2026-11-18",
   "sfrmk:career.sonepar.com:1369989433": "2026-11-14",
   "sfrmk:career.sonepar.com:1393586033": "2026-11-14",
   "sfrmk:careers-us.stulz.com:1326175200": "2026-11-14",
@@ -69822,10 +69825,10 @@
  },
  "source_last": {
   "hn": "2026-11-18T02:15:35+00:00",
-  "remoteok": "2026-11-18T03:16:19+00:00",
+  "remoteok": "2026-11-18T05:18:02+00:00",
   "usajobs": "2026-11-18T03:16:19+00:00",
   "workable_search": "2026-11-18T03:16:19+00:00",
-  "wwr": "2026-11-18T04:18:16+00:00",
+  "wwr": "2026-11-18T05:18:02+00:00",
   "yc": "2026-11-18T03:16:19+00:00"
  },
  "title_rules": "72f554d20a7f",
