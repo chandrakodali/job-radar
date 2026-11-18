@@ -11994,17 +11994,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 85,
+   "n": 86,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 85,
+   "n": 86,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 85,
+   "n": 86,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12157,6 +12157,11 @@
    "n": 3,
    "since": "2026-11-14"
   },
+  "greenhouse:engineeringatgigs": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-18"
+  },
   "greenhouse:eu:fuzehealth": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -12186,6 +12191,11 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
+  },
+  "greenhouse:gigs": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-18"
   },
   "greenhouse:glossgenius": {
    "disabled_until": "2026-11-21",
@@ -13332,7 +13342,7 @@
   ],
   "2026-11-18": [
    45,
-   188
+   196
   ]
  },
  "resolved": {
@@ -67491,6 +67501,7 @@
   "lever:jobgether:423eec1b-a832-47de-84a5-476f5e085488": "2026-11-14",
   "lever:jobgether:4a41391b-d46c-4831-b8ba-edc37c3b65a6": "2026-11-18",
   "lever:jobgether:4adde91c-124f-4b1a-ad24-a7f1d5c0bfad": "2026-11-14",
+  "lever:jobgether:4b7d98ee-6406-46b9-8338-c42204c1dddc": "2026-11-18",
   "lever:jobgether:4c6bcc39-a22c-4a25-a300-00c79bf53526": "2026-11-14",
   "lever:jobgether:4d0e9365-5e2d-4992-889a-3a073f97e4e3": "2026-11-14",
   "lever:jobgether:59469943-c696-40a4-9abb-0ef564c224e6": "2026-11-14",
@@ -69833,11 +69844,11 @@
   "zoho:virtualcolleague:805869000004535565": "2026-11-17"
  },
  "source_last": {
-  "hn": "2026-11-18T02:15:35+00:00",
+  "hn": "2026-11-18T08:46:20+00:00",
   "remoteok": "2026-11-18T07:18:47+00:00",
   "usajobs": "2026-11-18T06:15:28+00:00",
   "workable_search": "2026-11-18T06:15:28+00:00",
-  "wwr": "2026-11-18T07:18:47+00:00",
+  "wwr": "2026-11-18T08:46:20+00:00",
   "yc": "2026-11-18T06:15:28+00:00"
  },
  "title_rules": "72f554d20a7f",
