@@ -11751,6 +11751,11 @@
   "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-16"
  },
  "fails": {
+  "apple:usa": {
+   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
+   "n": 1,
+   "since": "2026-11-18"
+  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-25",
    "err": "HTTP 404",
@@ -12095,17 +12100,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 247,
+   "n": 248,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 247,
+   "n": 248,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 247,
+   "n": 248,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12539,11 +12544,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 4,
    "since": "2026-11-09"
-  },
-  "icims:careers-brightspring.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-18"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-23",
@@ -65785,6 +65785,7 @@
   "amazon:us:10607408": "2026-11-17",
   "amazon:us:10607429": "2026-11-17",
   "amazon:us:10607623": "2026-11-17",
+  "amazon:us:10608155": "2026-11-18",
   "amazon:us:10608157": "2026-11-18",
   "apple:usa:200657320": "2026-11-14",
   "apple:usa:200674782": "2026-11-14",
@@ -67174,6 +67175,7 @@
   "greenhouse:sofitechsolutions:8201653003": "2026-11-15",
   "greenhouse:sonyinteractiveentertainmentglobal:6233282004": "2026-11-09",
   "greenhouse:sonyinteractiveentertainmentglobal:6240810004": "2026-11-18",
+  "greenhouse:sonyinteractiveentertainmentglobal:6254196004": "2026-11-18",
   "greenhouse:spin:4751625005": "2026-11-12",
   "greenhouse:star-catcher:4480072009": "2026-11-07",
   "greenhouse:storyblok:5036564101": "2026-11-16",

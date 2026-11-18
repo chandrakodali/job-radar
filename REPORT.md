@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**599 jobs**, newest first. Updated Wed Nov 18, 11:37 AM CST from 12,526 company job boards and other sources.
+**597 jobs**, newest first. Updated Wed Nov 18, 12:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 1,992 matching jobs that job sites and feeds listed this week, 705 (35%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (15)](#wednesday-nov-18-15) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (93)](#thursday-nov-12-93) · [Wed 11 (11)](#wednesday-nov-11-11)
+Jump to: [Wed 18 (15)](#wednesday-nov-18-15) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (93)](#thursday-nov-12-93) · [Wed 11 (9)](#wednesday-nov-11-9)
 
 ## Wednesday, Nov 18 (15)
 
@@ -633,7 +633,7 @@ Jump to: [Wed 18 (15)](#wednesday-nov-18-15) · [Tue 17 (34)](#tuesday-nov-17-34
 | 1:00 AM (seen) | [Network Engineer](https://jobs.jobvite.com/jbs/job/oiO5Afwv) | JBS Foods | Richardson, Texas | 35 |  |
 | 1:00 AM (seen) | [Systems Reliability Engineer](https://jobs.jobvite.com/nutanix/job/osn3Afwc) | Nutanix |  | 55 | 2+ yrs exp; location unclear |
 
-## Wednesday, Nov 11 (11)
+## Wednesday, Nov 11 (9)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -646,16 +646,16 @@ Jump to: [Wed 18 (15)](#wednesday-nov-18-15) · [Tue 17 (34)](#tuesday-nov-17-34
 | 2:34 PM | [Network Engineer](https://jobs.smartrecruiters.com/NBCUniversal3/744000161163099-network-engineer) | NBCUniversal | New York, NEW YORK, United States (hybrid) | 50 | 3+ yrs exp |
 | 2:17 PM | [IT Operations Engineer](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016803776-it-operations-engineer) | Harvard University | Cambridge, MA, United States (hybrid) | 48 | no future H-1B sponsorship; likely H-1B cap-exempt (verify) |
 | 1:46 PM | [Sr. ESM Platform Engineer](https://jobs.ashbyhq.com/ddn/56e7c934-aab6-46e3-a73f-5accda93f6e2) | Ddn | Santa Clara Office (onsite) | 58 | 3+ yrs exp; senior title |
-| 12:05 PM | [Infrastructure Operations Installation and Integration Engineer](https://jobs.ashbyhq.com/Vultr/5b025636-0501-45c9-a413-831d7c4be8d2) | Vultr | Remote - United States (remote) | 62 |  |
-| 12:01 PM | [Windows Server Engineer - Infrastructure](https://job-boards.greenhouse.io/chicagotrading/jobs/4751594005) | Chicago Trading Company | Chicago, Illinois, United States | 60 | 3+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (762)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (763)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:39 AM | [Senior Platform Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6254196004) | PlayStation | United States, San Mateo, CA | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 11:02 AM | [Production Engineer](https://jobs.ashbyhq.com/saronic/89bb0c2e-5141-49d6-9abe-d88702d36751) | Saronic | Brownsville, TX (onsite) | 55 | rules: adjacent title, little DevOps/cloud work in the text |
+| date only | [Amazon Dedicated Cloud Engineer, Region Reliability Engineering](https://www.amazon.jobs/en/jobs/10608155/amazon-dedicated-cloud-engineer-region-reliability-engineering) | Amazon Development Center U.S… | Bellevue, Washington, USA +1 more | 65 | rules: needs: Security Clearance |
 | date only | [Senior Platform Engineer (Remote)](https://apply.workable.com/hospitable/j/A2091F150C/) | Hospitable | Remote, Oregon, United States (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [System Administrator III](https://hyundaiautoeveramerica.applytojob.com/apply/8FbV6EM8le/System-Administrator-III) | Hyundai AutoEver America | Savannah, GA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Systems Administrator I](https://jobs.jobvite.com/synqor-careers/job/oTi7AfwC) | SynQor | Salem, New Hampshire, United States | 70 | rules: entry-level title; 1+ yrs exp; adjacent title, little DevOps/c… |
@@ -1053,8 +1053,6 @@ Jump to: [Wed 18 (15)](#wednesday-nov-18-15) · [Tue 17 (34)](#tuesday-nov-17-34
 | 1:53 PM | [Reliability Engineer - Plant 5 - Ti-Cast](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120413) | Howmet Aerospace | Whitehall, MI, United States (onsite) | 50 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | 1:26 PM | [Senior Network Engineer](https://jobs.ashbyhq.com/alembic/064fd6b2-ef12-4f22-a910-ecd2466922bc) | Alembic | Atlanta Perimeter (onsite) | 35 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 1:04 PM | [Senior Site Reliability Engineer](https://jobs.smartrecruiters.com/Xplor/744000161368479-senior-site-reliability-engineer) | Xplor | Remote, OR, United States (remote) | 25 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
-| 12:47 PM | [Senior Platform Engineer](https://job-boards.greenhouse.io/akidolabs/jobs/4724400006) | Akido Labs | Remote - United States (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 12:40 PM | [Senior Network Engineer, Edge & Optical Transport](https://job-boards.greenhouse.io/lightningai/jobs/8202728003) | Lightningai | Remote (remote) | 22 | rules: 5+ yrs exp; senior title; location unclear; asks for 5+ years … |
 
 </details>
 
