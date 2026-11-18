@@ -1,16 +1,16 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**630 jobs**, newest first. Updated Wed Nov 18, 10:07 AM CST from 12,526 company job boards and other sources.
+**631 jobs**, newest first. Updated Wed Nov 18, 10:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 253 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,984 matching jobs that job sites and feeds listed this week, 705 (35%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,988 matching jobs that job sites and feeds listed this week, 705 (35%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (94)](#thursday-nov-12-94) · [Wed 11 (43)](#wednesday-nov-11-43)
+Jump to: [Wed 18 (14)](#wednesday-nov-18-14) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (94)](#thursday-nov-12-94) · [Wed 11 (43)](#wednesday-nov-11-43)
 
-## Wednesday, Nov 18 (13)
+## Wednesday, Nov 18 (14)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -18,6 +18,7 @@ Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (33)](#tuesday-nov-17-33
 | date only | [Network Engineer (Cisco ISE, Palo Alto, BGP/OSPF)](https://hyundaiautoeveramerica.applytojob.com/apply/bOSkA8wT1E/Network-Engineer-Cisco-ISE-Palo-Alto-BGPOSPF) | Hyundai AutoEver America | Irvine, CA | 50 |  |
 | date only | [Enterprise Infrastructure Engineer](https://www.metlifecareers.com/en_US/ml/JobDetail/Enterprise-Infrastructure-Engineer/21659) | MetLife |  | 60 | location unclear |
 | date only | [DevOps / SRE Engineer (Kubernetes, Terraform), AI Expert](https://apply.workable.com/weekday-1/j/66FAC02153/) | Weekday AI | United States (remote) | 57 | 4+ yrs exp |
+| 10:17 AM | [Senior Network Engineer - Enterprise Connectivity](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24215) | Montenson | MN, United States | 35 | senior title, years not stated; no future H-1B sponsorship |
 | 8:42 AM | [Software Engineer - Platform Engineering](https://job-boards.greenhouse.io/twilio/jobs/8385593) | Twilio | Remote - US (remote) | 67 | E-Verify |
 | 8:22 AM | [Senior Software Engineer - Cloud Infrastructure - (US Remote)](https://jobs.ashbyhq.com/clickhouse/caf49f06-ed35-4637-9372-f4df114e852f) | ClickHouse | NAMER and LatAm; United States | 55 | senior title, years not stated |
 | 6:49 AM | [Infrastructure Engineer, GPU Clusters](https://jobs.ashbyhq.com/prior-labs/885bf4f6-e68c-4fc5-8385-e8d3615093fe) | Prior Labs | Berlin; Freiburg; New York (onsite) | 65 | 3+ yrs exp |
@@ -680,7 +681,7 @@ Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (33)](#tuesday-nov-17-33
 | date only | [Network Engineer II - Hybrid AZ](https://bestwestern.wd1.myworkdayjobs.com/careers/job/Phoenix-AZ/Network-Engineer-II---Hybrid-AZ_R5154) | Bestwestern | Phoenix, AZ | 28 | 4+ yrs exp |
 | date only | [DevSecOps Engineer (Temporary Position)](https://netrist.zohorecruit.com/jobs/Careers/363984000011632047/DevSecOps-Engineer-Temporary-Position) | Netrist |  (remote) | 45 | location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (765)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (767)
 
 <details><summary>Show</summary>
 
@@ -693,6 +694,8 @@ Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (33)](#tuesday-nov-17-33
 | date only | [Mid-Level Google Cloud Platform Looker Developer](https://apply.workable.com/credence/j/072FAF32A3/) | Credence | Tysons, Virginia, United States | 60 | rules: 4+ yrs exp; needs: Secret clearance |
 | date only | [Configuration Management Analyst (Journeyman)](https://synecsolu.applytojob.com/apply/unMc0EES16/Configuration-Management-Analyst-Journeyman) | Synectic Solutions | Patuxent River, MD | 30 | rules: 5+ yrs exp; needs: security clearance |
 | date only | [Cloud Engineer](https://analyticallc.applytojob.com/apply/x7bxOAoNux/Cloud-Engineer) | Analytica | Washington, DC | 60 | rules: 3+ yrs exp; needs: security clearance |
+| date only | [Network Infrastructure Engineer I, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10608157/network-infrastructure-engineer-i-amazon-dedicated-cloud-nidd) | Amazon Data Services, Inc. | Culpeper, Virginia, USA | 70 | rules: entry-level title; 3+ yrs exp; needs: Security Clearance |
+| date only | [Senior Platform Engineer - Parametric](https://morganstanley.eightfold.ai/careers/job/549800280238) | Morganstanley | Seattle, WA, US (onsite) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 10:07 AM | [Test Automation Engineer, Robot Platform](https://jobs.lever.co/zoox/c84c90b4-22f2-4d2e-9034-afee385dd0d2) | Zoox | Foster City, CA (onsite) | 35 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 9:59 AM | [Azure AI Platform Engineer III/Senior](https://job-boards.greenhouse.io/eqtcorporation/jobs/5486501008) | EQT Corporation | Remote (remote) | 37 | rules: 6+ yrs exp; senior title; location unclear; asks for 6+ years … |
 | 8:39 AM | [DevSecOps Engineer - AWS - Northeast region](https://boards.greenhouse.io/guidepointsecurity/jobs/6264977004?gh_jid=6264977004) | GuidePoint Security | Remote (remote) | 37 | rules: 6+ yrs exp; no future H-1B sponsorship; asks for 6+ years of e… |
@@ -1084,8 +1087,6 @@ Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (33)](#tuesday-nov-17-33
 | 12:20 PM | [Network Engineer](https://job-boards.greenhouse.io/m9solutions/jobs/5293514007) | M9Solutions | Quantico, VA - Top Secret clearance req… | 45 | rules: 3+ yrs exp; needs: Top Secret clearance |
 | 12:20 PM | [Senior Build Engineer, Turbomachinery](https://jobs.ashbyhq.com/radiant-industries/13d25280-e5c4-4401-a65d-c73859ade990) | Radiant | El Segundo, CA (onsite) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:15 PM | [Network Administrator](https://jobs.ashbyhq.com/saronic/d9c5db3f-687c-42f5-92d0-7866feb4163b) | Saronic | Austin, TX (onsite) | 55 | rules: needs: security clearance |
-| 12:15 PM | [Network Engineer](https://jobs.ashbyhq.com/saronic/757b12ba-28da-4662-ae46-7c9f299dba5b) | Saronic | Austin, TX (onsite) | 50 | rules: 3+ yrs exp; needs: security clearance |
-| 11:33 AM | [Cloud Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4726837006?gh_jid=4726837006) | Accenture | Washington, DC | 35 | rules: 5+ yrs exp; no future H-1B sponsorship; needs: Top Secret clea… |
 
 </details>
 

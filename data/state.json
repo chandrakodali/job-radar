@@ -11749,6 +11749,11 @@
   "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-16"
  },
  "fails": {
+  "apple:usa": {
+   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
+   "n": 1,
+   "since": "2026-11-18"
+  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-25",
    "err": "HTTP 404",
@@ -12093,17 +12098,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 244,
+   "n": 245,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 244,
+   "n": 245,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 244,
+   "n": 245,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12741,11 +12746,6 @@
    "n": 4,
    "since": "2026-11-07"
   },
-  "lever:exowatt": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-18"
-  },
   "lever:farcast": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -12763,6 +12763,11 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
+  },
+  "lever:jobgether": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-18"
   },
   "lever:joingerald": {
    "disabled_until": "2026-11-25",
@@ -14994,7 +14999,7 @@
   ],
   "2026-11-18": [
    112,
-   274
+   278
   ]
  },
  "resolved": {
@@ -65783,6 +65788,7 @@
   "amazon:us:10607408": "2026-11-17",
   "amazon:us:10607429": "2026-11-17",
   "amazon:us:10607623": "2026-11-17",
+  "amazon:us:10608157": "2026-11-18",
   "apple:usa:200657320": "2026-11-14",
   "apple:usa:200674782": "2026-11-14",
   "apple:usa:200684228": "2026-11-14",
@@ -66726,6 +66732,7 @@
   "eightfold:globalfoundries:563980771068234": "2026-11-17",
   "eightfold:hp:44506725": "2026-11-14",
   "eightfold:mercadolibre:45520009": "2026-11-14",
+  "eightfold:morganstanley:549800280238": "2026-11-18",
   "eightfold:morganstanley:549801018692": "2026-11-14",
   "eightfold:ngc:1340074239588": "2026-11-16",
   "eightfold:ngc:1340074672055": "2026-11-18",
@@ -68362,6 +68369,7 @@
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27141": "2026-11-08",
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27309": "2026-11-08",
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:27517": "2026-11-18",
+  "oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:24215": "2026-11-18",
   "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10005497": "2026-11-13",
   "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10005943": "2026-11-13",
   "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:104851": "2026-11-16",
@@ -70140,7 +70148,7 @@
   "remoteok": "2026-11-18T15:37:19+00:00",
   "usajobs": "2026-11-18T16:07:19+00:00",
   "workable_search": "2026-11-18T16:07:19+00:00",
-  "wwr": "2026-11-18T15:37:19+00:00",
+  "wwr": "2026-11-18T16:37:19+00:00",
   "yc": "2026-11-18T16:07:19+00:00"
  },
  "title_rules": "c323075b4d70",
