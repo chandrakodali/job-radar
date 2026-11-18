@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**665 jobs**, newest first. Updated Tue Nov 17, 11:49 PM CST from 12,526 company job boards and other sources.
+**666 jobs**, newest first. Updated Wed Nov 18, 12:46 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,13 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 3,164 matching jobs that job sites and feeds listed this week, 564 (17%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (59)](#tuesday-nov-17-59) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (116)](#wednesday-nov-11-116)
+Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (59)](#tuesday-nov-17-59) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (116)](#wednesday-nov-11-116)
+
+## Wednesday, Nov 18 (1)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| 12:49 AM | [Online Technical Support Engineer -Campus Hire Program](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040677) | Agilent Technologies | US-DE-Wilmington | 75 | entry-level title |
 
 ## Tuesday, Nov 17 (59)
 
@@ -710,14 +716,17 @@ Jump to: [Tue 17 (59)](#tuesday-nov-17-59) · [Mon 16 (62)](#monday-nov-16-62) �
 | 1:30 AM | [SAP BASIS Administrator Associate](https://jobs.smartrecruiters.com/O-I/744000161034659-sap-basis-administrator-associate) | O I | Perrysburg, OH, United States (hybrid) | 68 | entry-level title |
 | 1:00 AM | [Computer Science Associate - Intellectual Property Consulting](https://jobs.dayforcehcm.com/en-US/twh/CANDIDATEPORTAL/jobs/3893) | Twh | US | 63 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3587)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3590)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Professional Fee Coder 2 (Sign on Bonus eligible)](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11720) | UCSF | United States | 70 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 12:22 AM | [AI Software Engineer](https://jobs.lever.co/jobgether/a66ccd3d-484d-454e-be89-ab587243010a) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 12:12 AM | [Software Engineer, R&D - IntelliScript](https://jobs.lever.co/jobgether/4a41391b-d46c-4831-b8ba-edc37c3b65a6) | Jobgether | US (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 40 | rules: 5+ yrs exp; location unclear; needs: ITAR |
+| 12:01 AM | [Software Engineer](https://jobs.ashbyhq.com/atlas/8acfd23c-fd87-4322-bed1-4258b7199c3d) | Atlas | San Francisco | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:53 PM | [SAP Security Analyst](https://jobs.lever.co/jobgether/de6ac4cf-11fe-43ff-8958-3d95e52ab79b) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 10:38 PM | [Robotics Systems Engineer](https://jobs.gem.com/overlay/am9icG9zdDpRq67A38Tp8Thdnm8rAf6Z) | Overlay | Oakland, CA (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 9:48 PM (seen) | [Implementation Engineer](https://app.dover.com/apply/flipcx/92f0213a-715f-4cc7-a78f-0959d4f27d91) | Flipcx | Los Angeles, CA (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -1113,8 +1122,5 @@ Jump to: [Tue 17 (59)](#tuesday-nov-17-59) · [Mon 16 (62)](#monday-nov-16-62) �
 | 1:45 PM | [Vehicle Safety and Compliance Integration Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73152) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 1:45 PM | [Software Engineer, Training Infrastructure](https://jobs.ashbyhq.com/ThinkingMachines/5b2ee0dc-0fe5-4c5d-806d-e171187e460e) | ThinkingMachines | San Francisco; New York (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 1:44 PM | [Agentic AI Engineer](https://job-boards.greenhouse.io/defenseunicorns/jobs/5296651007) | Defense Unicorns | Springfield, VA | 75 | rules: 2+ yrs exp; needs: Top Secret clearance |
-| 1:44 PM | [Product Security Engineer](https://jobs.ashbyhq.com/hudu/d542c082-c405-45e3-abe0-7d0bd8f33445) | Hudu | United States (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 1:44 PM | [ServiceNow Application Developer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1dbdd623-584f-49ff-9c37-77cd8670f636&ccId=19000101_000001&jobId=9200604025978_5&lang=en_US) | 1Dbdd623 584F 49Ff 9C37 77Cd8… | Glen Burnie, MD | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 1:42 PM | [Data Engineer - Agentic AI](https://job-boards.greenhouse.io/defenseunicorns/jobs/5296643007) | Defense Unicorns | Springfield, VA | 60 | rules: 3+ yrs exp; needs: TS/SCI clearance |
 
 </details>
