@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**665 jobs**, newest first. Updated Tue Nov 17, 8:45 PM CST from 12,526 company job boards and other sources.
+**667 jobs**, newest first. Updated Tue Nov 17, 9:48 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,14 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 3,065 matching jobs that job sites and feeds listed this week, 550 (17%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (57)](#tuesday-nov-17-57) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (2)](#tuesday-nov-10-2)
+Jump to: [Tue 17 (59)](#tuesday-nov-17-59) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (116)](#wednesday-nov-11-116) · [Tue 10 (2)](#tuesday-nov-10-2)
 
-## Tuesday, Nov 17 (57)
+## Tuesday, Nov 17 (59)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 9:48 PM (seen) | [IT Engineer (Denver)](https://app.dover.com/apply/fieldguide/f9f76425-e4ff-4560-afcc-e276cdfe4958) | Fieldguide | Denver, CO (hybrid) | 65 | 1+ yrs exp |
+| 9:48 PM (seen) | [Backend Engineer](https://app.dover.com/apply/gayafi/d3045511-8f4f-45fd-bafb-f41fd8f6a44b) | Gayafi | International (remote) | 52 | 1+ yrs exp; location unclear |
 | 7:30 PM | [IT Support Engineer](https://jobs.smartrecruiters.com/RRDonnelley/744000162211529-it-support-engineer-) | RR Donnelley | Logan, UT, United States | 85 | 1+ yrs exp; entry level (from the text) |
 | 6:35 PM | [Software Engineer, Agentic Systems - Moveworks](https://jobs.smartrecruiters.com/ServiceNow/744000162190099-software-engineer-agentic-systems-moveworks) | ServiceNow | Mountain View, CALIFORNIA, United States | 85 | 0-2 yrs exp; entry level (from the text) |
 | 6:30 PM | [Software Engineer I, Commerce](https://job-boards.greenhouse.io/twitch/jobs/8949388002) | Twitch | Seattle, WA +1 more | 75 | entry-level title |
@@ -715,7 +717,7 @@ Jump to: [Tue 17 (57)](#tuesday-nov-17-57) · [Mon 16 (62)](#monday-nov-16-62) �
 | 11:00 PM | [Test Engineer I](https://careers-nikkiso.icims.com/jobs/4425/test-engineer-i/job) | Nikkiso | North Las Vegas, NV, United States | 68 | entry-level title |
 | 11:00 PM | [IT Technician-ITAM](https://careers-stifel.icims.com/jobs/10211/it-technician-itam/job) | Stifel | Saint Louis, MO, United States | 78 | 1+ yrs exp; entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3579)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3583)
 
 <details><summary>Show</summary>
 
@@ -723,6 +725,10 @@ Jump to: [Tue 17 (57)](#tuesday-nov-17-57) · [Mon 16 (62)](#monday-nov-16-62) �
 |---|---|---|---|---:|---|
 | date only | [Professional Fee Coder 2 (Sign on Bonus eligible)](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11720) | UCSF | United States | 70 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 40 | rules: 5+ yrs exp; location unclear; needs: ITAR |
+| 9:48 PM (seen) | [Implementation Engineer](https://app.dover.com/apply/flipcx/92f0213a-715f-4cc7-a78f-0959d4f27d91) | Flipcx | Los Angeles, CA (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 9:48 PM (seen) | [Software Developer](https://app.dover.com/apply/fluentstaff/dba5077e-63fa-4906-968e-a5da22fb6f70) | Fluentstaff | United States; Dallas, TX +1 more (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 9:48 PM (seen) | [AI Software Engineer](https://app.dover.com/apply/gayafi/42fe4d23-6dff-48a6-8b49-0891b2d2f324) | Gayafi | International (remote) | 52 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
+| 9:48 PM (seen) | [Frontend Engineer](https://app.dover.com/apply/gayafi/b627f21e-43e4-436e-aca0-0b12ef571ea0) | Gayafi | International (remote) | 37 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | 8:29 PM | [Web Developer - Intermediate](https://jobs.lever.co/agile-defense/959c51fa-4c5f-486d-8765-c28257b43b76) | Agile Defense | Fort Huachuca, AZ (onsite) | 80 | rules: 2+ yrs exp; needs: Security Clearance |
 | 8:28 PM | [Java Developer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4673099) | SGI | Indianapolis, IN, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 8:15 PM | [Founding Machine Learning Engineer](https://jobs.ashbyhq.com/Clera/2f031c3a-23e0-4d79-8fde-090fe669cf77) | Clera | San Francisco (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
@@ -1117,9 +1123,5 @@ Jump to: [Tue 17 (57)](#tuesday-nov-17-57) · [Mon 16 (62)](#monday-nov-16-62) �
 | 1:30 PM | [Software Engineer, Frameworks & Libraries](https://jobs.ashbyhq.com/ThinkingMachines/3882fc2b-6d28-4498-b6e3-ef53e22f8f03) | ThinkingMachines | San Francisco; New York (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 1:28 PM | [System Administrator (Hybrid in Indianapolis, IN)](https://jobs.smartrecruiters.com/Resultant/744000161897069-system-administrator-hybrid-in-indianapolis-in-) | Resultant | Indianapolis, IN, United States (hybrid) | 45 | rules: 6+ yrs exp; no future H-1B sponsorship; asks for 6+ years of e… |
 | 1:28 PM | [Maintenance, Reliability, & Systems Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276730) | Vertiv | Ironton, OH, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 1:18 PM | [Founding Data Scientist](https://jobs.ashbyhq.com/greptile/04ae8c2a-c5a0-4f7c-9ace-c2075dc2453e) | Greptile | San Francisco (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 1:03 PM | [Founding ML Engineer](https://jobs.ashbyhq.com/Clera/a16dcef4-2087-4611-89be-0b8ded9d306c) | Clera | San Francisco (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| 1:02 PM | [Founding AI Engineer, Agents](https://jobs.ashbyhq.com/Clera/2a284b73-08ae-4378-a717-646a74c6240f) | Clera | San Francisco (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| 1:01 PM | [Integration & Test Systems Engineer (Epsilon3 Developer)](https://ast-science.com/company/careers/?gh_jid=4753697005) | Astspacemobile | Midland, Texas, United States | 60 | rules: 4+ yrs exp; needs: Must be a U.S. Citizen |
 
 </details>
