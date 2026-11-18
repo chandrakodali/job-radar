@@ -11748,6 +11748,7 @@
   "greenhouse:vast:4726228006": "2026-11-12",
   "greenhouse:visualconcepts:8205804003": "2026-11-17",
   "greenhouse:yipitdata:8329263": "2026-11-12",
+  "lever:jobgether:0452a360-4c88-44a6-8b62-dc642799c5c9": "2026-11-18",
   "lever:jobgether:0c283a8d-6190-4326-acea-e12a22f0bc12": "2026-11-16",
   "lever:jobgether:6ee78390-07bc-4e75-a921-511307f32e34": "2026-11-16",
   "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-16"
@@ -12097,17 +12098,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 251,
+   "n": 252,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 251,
+   "n": 252,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 251,
+   "n": 252,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -66735,6 +66736,7 @@
   "eightfold:eaton|eaton.com:687240042663": "2026-11-17",
   "eightfold:ford:563568454106691": "2026-11-18",
   "eightfold:ford:563568454116722": "2026-11-14",
+  "eightfold:ford:563568454116934": "2026-11-18",
   "eightfold:ford:563568454126356": "2026-11-17",
   "eightfold:globalfoundries:563980771068234": "2026-11-17",
   "eightfold:hp:44506725": "2026-11-14",
@@ -67305,6 +67307,7 @@
   "icims:careers-americansystems.icims.com:5168": "2026-11-09",
   "icims:careers-americansystems.icims.com:5196": "2026-11-13",
   "icims:careers-americansystems.icims.com:5393": "2026-11-18",
+  "icims:careers-americansystems.icims.com:5422": "2026-11-18",
   "icims:careers-americas.icims.com:24970": "2026-11-09",
   "icims:careers-americas.icims.com:27413": "2026-11-12",
   "icims:careers-americas.icims.com:27563": "2026-11-09",
@@ -68391,6 +68394,7 @@
   "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:105202": "2026-11-13",
   "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:105893": "2026-11-13",
   "oracle:fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:701849": "2026-11-08",
+  "oracle:fa-etum-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41900": "2026-11-18",
   "oracle:fa-etum-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:42290": "2026-11-12",
   "oracle:fa-etum-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:42291": "2026-11-11",
   "oracle:fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com|CX_1001:26000568": "2026-11-10",
@@ -69257,6 +69261,8 @@
   "tiktok:us:7329694180132489482": "2026-11-14",
   "tiktok:us:7418237689608292635": "2026-11-14",
   "tiktok:us:7494051296631752978": "2026-11-14",
+  "tiktok:us:7514815357371959559": "2026-11-18",
+  "tiktok:us:7550948068838689031": "2026-11-18",
   "tiktok:us:7576817735755516213": "2026-11-14",
   "tiktok:us:7576821074423286021": "2026-11-14",
   "tiktok:us:7595445244009138485": "2026-11-14",
