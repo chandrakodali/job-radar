@@ -11994,17 +11994,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 90,
+   "n": 91,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 90,
+   "n": 91,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 90,
+   "n": 91,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12408,6 +12408,11 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
+  },
+  "ibm:us": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-18"
   },
   "icims:canadacareers-amd.icims.com": {
    "disabled_until": "2026-11-21",
@@ -13344,7 +13349,7 @@
   ],
   "2026-11-18": [
    76,
-   315
+   318
   ]
  },
  "resolved": {
@@ -64660,6 +64665,7 @@
   "avature:bloomberg.avature.net|internalcareers:46157": "2026-11-14",
   "avature:bloomberg.avature.net|internalcareers:46168": "2026-11-14",
   "avature:bloomberg.avature.net|internalcareers:46208": "2026-11-17",
+  "avature:bloomberg.avature.net|internalcareers:46228": "2026-11-18",
   "avature:bravura.avature.net|careers:3258": "2026-11-15",
   "avature:deloittecm.avature.net|careers:11132": "2026-11-14",
   "avature:deloittecm.avature.net|careers:11134": "2026-11-14",
@@ -67801,6 +67807,7 @@
   "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:3021617": "2026-11-17",
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:26868": "2026-11-17",
   "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10006010": "2026-11-14",
+  "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10006023": "2026-11-18",
   "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:3004408": "2026-11-16",
   "oracle:fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:698690": "2026-11-14",
   "oracle:fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:704470": "2026-11-14",
@@ -69865,10 +69872,10 @@
  },
  "source_last": {
   "hn": "2026-11-18T08:46:20+00:00",
-  "remoteok": "2026-11-18T11:45:46+00:00",
+  "remoteok": "2026-11-18T13:47:39+00:00",
   "usajobs": "2026-11-18T12:45:41+00:00",
   "workable_search": "2026-11-18T12:45:41+00:00",
-  "wwr": "2026-11-18T12:45:41+00:00",
+  "wwr": "2026-11-18T13:47:39+00:00",
   "yc": "2026-11-18T12:45:41+00:00"
  },
  "title_rules": "72f554d20a7f",
