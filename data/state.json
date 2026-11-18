@@ -12092,17 +12092,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 230,
+   "n": 231,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 230,
+   "n": 231,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 230,
+   "n": 231,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12256,8 +12256,9 @@
    "since": "2026-11-11"
   },
   "greenhouse:engineeringatgigs": {
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-18"
   },
   "greenhouse:eu:fuzehealth": {
@@ -12297,8 +12298,9 @@
    "since": "2026-11-07"
   },
   "greenhouse:gigs": {
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-18"
   },
   "greenhouse:glossgenius": {
@@ -14986,7 +14988,7 @@
   ],
   "2026-11-18": [
    54,
-   140
+   144
   ]
  },
  "resolved": {
@@ -66089,6 +66091,7 @@
   "avature:metlife.avature.net|en_US/ml:21586": "2026-11-12",
   "avature:metlife.avature.net|en_US/ml:21587": "2026-11-12",
   "avature:metlife.avature.net|en_US/ml:21614": "2026-11-17",
+  "avature:metlife.avature.net|en_US/ml:21659": "2026-11-18",
   "avature:mgl.avature.net|internalcareers:22542": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24706": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24892": "2026-11-15",
@@ -70102,10 +70105,10 @@
  },
  "source_last": {
   "hn": "2026-11-18T08:37:15+00:00",
-  "remoteok": "2026-11-18T07:37:16+00:00",
+  "remoteok": "2026-11-18T09:37:14+00:00",
   "usajobs": "2026-11-18T07:07:13+00:00",
   "workable_search": "2026-11-18T07:07:13+00:00",
-  "wwr": "2026-11-18T08:37:15+00:00",
+  "wwr": "2026-11-18T09:37:14+00:00",
   "yc": "2026-11-18T07:07:13+00:00"
  },
  "title_rules": "c323075b4d70",
