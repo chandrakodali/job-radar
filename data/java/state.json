@@ -11646,6 +11646,7 @@
  "bootstrapped": true,
  "closed": {
   "ashby:whoop:d31312c2-236a-45f1-8da7-61a7ca8d1622": "2026-11-17",
+  "greenhouse:energysolutions:5274064007": "2026-11-18",
   "lever:jobgether:ed585bb6-9f21-45ef-b606-7d0a0715d03c": "2026-11-17"
  },
  "fails": {
@@ -11993,17 +11994,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 95,
+   "n": 96,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 95,
+   "n": 96,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 95,
+   "n": 96,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13343,7 +13344,7 @@
   ],
   "2026-11-18": [
    92,
-   386
+   388
   ]
  },
  "resolved": {
@@ -64254,6 +64255,7 @@
   "amazon:us:10607689": "2026-11-17",
   "amazon:us:10607712": "2026-11-18",
   "amazon:us:10607713": "2026-11-18",
+  "amazon:us:10607741": "2026-11-18",
   "amazon:us:10607764": "2026-11-18",
   "amazon:us:10608003": "2026-11-18",
   "amazon:us:10608004": "2026-11-18",
@@ -64263,6 +64265,8 @@
   "amazon:us:10608039": "2026-11-18",
   "amazon:us:10608043": "2026-11-18",
   "amazon:us:10608182": "2026-11-18",
+  "amazon:us:10608273": "2026-11-18",
+  "amazon:us:10608278": "2026-11-18",
   "apple:usa:200555687": "2026-11-14",
   "apple:usa:200656816": "2026-11-17",
   "apple:usa:200665281": "2026-11-14",
@@ -64517,6 +64521,7 @@
   "ashby:humatahealth:8c835888-2b50-4115-bf6f-a0ed490c6462": "2026-11-14",
   "ashby:iambic-therapeutics:b0cc562c-4890-4a4f-96de-6a23ded5aad0": "2026-11-18",
   "ashby:imprint:0e6955fb-133f-4d72-a53d-f926e99b531e": "2026-11-16",
+  "ashby:imprint:59515de7-3866-4b25-a17a-145f967b7a3f": "2026-11-18",
   "ashby:inductive-automation-llc:04db2aa7-6af8-4d99-abf5-c94adb911961": "2026-11-16",
   "ashby:infisical:46541b52-967f-4caf-96ed-9a59f1a80aa8": "2026-11-14",
   "ashby:infisical:a7c8a660-ae2a-467c-91dd-db34cfce29e7": "2026-11-14",
@@ -64632,6 +64637,7 @@
   "ashby:simspace-corporation:32b19629-efb9-4ba4-8933-4d5a6645b5d6": "2026-11-14",
   "ashby:simspace-corporation:b4aa8f68-0d05-4a41-87d2-4b54fbdb31d2": "2026-11-17",
   "ashby:simspace-corporation:b5739839-d590-418a-b32b-e4d221b14563": "2026-11-17",
+  "ashby:snowflake:196f1cca-6ee6-4023-b2e7-9f8ba18d1dae": "2026-11-18",
   "ashby:snowflake:829e9786-6661-4134-b7cd-aef3bed75c1c": "2026-11-16",
   "ashby:snowflake:c03acc32-f60b-40de-9838-e954d3f419b9": "2026-11-14",
   "ashby:snowflake:d699971b-0c25-48e4-8733-7e8bd2328536": "2026-11-14",
@@ -65687,6 +65693,7 @@
   "eightfold:autodesk:1443153804251": "2026-11-14",
   "eightfold:autodesk:1443153902328": "2026-11-15",
   "eightfold:autodesk:1443154478110": "2026-11-14",
+  "eightfold:citi:859038224555": "2026-11-18",
   "eightfold:citi:859038803970": "2026-11-17",
   "eightfold:citi:859038804482": "2026-11-17",
   "eightfold:citi:859038804776": "2026-11-14",
@@ -66383,6 +66390,7 @@
   "greenhouse:grvty:4508801009": "2026-11-16",
   "greenhouse:gusto:8360497": "2026-11-14",
   "greenhouse:halcyon:6252121004": "2026-11-14",
+  "greenhouse:harrys:8399868": "2026-11-18",
   "greenhouse:hearst:4467518009": "2026-11-17",
   "greenhouse:honeycomb:5485706008": "2026-11-17",
   "greenhouse:hp:6251120004": "2026-11-14",
@@ -66413,6 +66421,7 @@
   "greenhouse:m9solutions:5287084007": "2026-11-14",
   "greenhouse:m9solutions:5287633007": "2026-11-14",
   "greenhouse:machindustries:4505286009": "2026-11-14",
+  "greenhouse:mammothbrands:8399870": "2026-11-18",
   "greenhouse:mark43:8360301": "2026-11-18",
   "greenhouse:metron:5289210007": "2026-11-14",
   "greenhouse:mongodb:8348102": "2026-11-14",
@@ -66486,6 +66495,7 @@
   "greenhouse:snorkelai:6254291004": "2026-11-14",
   "greenhouse:sofi:8207529003": "2026-11-17",
   "greenhouse:sonyinteractiveentertainmentglobal:6237581004": "2026-11-14",
+  "greenhouse:sonyinteractiveentertainmentglobal:6254196004": "2026-11-18",
   "greenhouse:sonyinteractiveentertainmentglobal:6260703004": "2026-11-14",
   "greenhouse:splitero:5473851008": "2026-11-14",
   "greenhouse:stackadapt:4509033009": "2026-11-16",
@@ -66548,6 +66558,7 @@
   "greenhouse:vast:4728490006": "2026-11-14",
   "greenhouse:veeamsoftware:4939100101": "2026-11-14",
   "greenhouse:vercel:6195153004": "2026-11-14",
+  "greenhouse:vercel:6264524004": "2026-11-18",
   "greenhouse:verkada:5264711007": "2026-11-14",
   "greenhouse:verkada:5283655007": "2026-11-14",
   "greenhouse:verkada:5296748007": "2026-11-16",
@@ -66770,6 +66781,7 @@
   "icims:careers-empowerai.icims.com:9568": "2026-11-14",
   "icims:careers-empowerai.icims.com:9581": "2026-11-14",
   "icims:careers-empowerai.icims.com:9801": "2026-11-18",
+  "icims:careers-empowerai.icims.com:9802": "2026-11-18",
   "icims:careers-enfra.icims.com:11613": "2026-11-14",
   "icims:careers-entarian.icims.com:10015": "2026-11-14",
   "icims:careers-entarian.icims.com:9611": "2026-11-14",
@@ -68646,6 +68658,7 @@
   "sfrmk:jobs.paccar.com:1452042333": "2026-11-14",
   "sfrmk:jobs.paccar.com:1455347933": "2026-11-14",
   "sfrmk:jobs.paccar.com:1457943933": "2026-11-17",
+  "sfrmk:jobs.paccar.com:1458586333": "2026-11-18",
   "sfrmk:jobs.pseg.com:1440906900": "2026-11-14",
   "sfrmk:jobs.supermicro.com:1148558300": "2026-11-14",
   "sfrmk:jobs.supermicro.com:1245712900": "2026-11-14",
@@ -69933,10 +69946,10 @@
  },
  "source_last": {
   "hn": "2026-11-18T14:47:07+00:00",
-  "remoteok": "2026-11-18T15:48:23+00:00",
+  "remoteok": "2026-11-18T18:17:33+00:00",
   "usajobs": "2026-11-18T15:48:23+00:00",
   "workable_search": "2026-11-18T15:48:23+00:00",
-  "wwr": "2026-11-18T16:48:46+00:00",
+  "wwr": "2026-11-18T18:17:33+00:00",
   "yc": "2026-11-18T15:48:23+00:00"
  },
  "title_rules": "72f554d20a7f",
