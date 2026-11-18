@@ -1,19 +1,20 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**202 jobs**, newest first. Updated Wed Nov 18, 3:18 PM CST from 12,526 company job boards and other sources.
+**203 jobs**, newest first. Updated Wed Nov 18, 4:20 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 128 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,796 matching jobs that job sites and feeds listed this week, 426 (23%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,844 matching jobs that job sites and feeds listed this week, 441 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (25)](#thursday-nov-12-25) · [Wed 11 (8)](#wednesday-nov-11-8)
+Jump to: [Wed 18 (20)](#wednesday-nov-18-20) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (25)](#thursday-nov-12-25) · [Wed 11 (8)](#wednesday-nov-11-8)
 
-## Wednesday, Nov 18 (19)
+## Wednesday, Nov 18 (20)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 3:23 PM | [Full Stack Software Engineer (Java, Spring Boot, React & Angular)](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77381) | Staples | Framingham, MA, United States (onsite) | 65 | 4+ yrs exp |
 | 2:20 PM (seen) | [Backend Software Engineer, TikTok Live Recommendation Infrastructure](https://lifeattiktok.com/search/7550948068838689031) | TikTok | San Jose, California, United States of … | 30 | 3+ yrs exp; requires Java |
 | 1:31 PM | [Software Engineer III - Fullstack, Java, AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803885) | JP Morgan Chase | NY, United States; Plano, TX, United St… | 60 | 3+ yrs exp; senior title |
 | 1:30 PM | [Senior Software Engineer](https://jobs.workable.com/view/nstoksYEj1FNULVoZrVyfo/remote-senior-software-engineer-in-united-states-at-amerisave) | AmeriSave | Remote, US (remote) | 37 | senior title, years not stated; requires Java |
@@ -252,12 +253,13 @@ Jump to: [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (19)](#tuesday-nov-17-19
 | 7:13 PM | [Senior Software Engineer, Core Infrastructure(Hybrid)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344707) | Oracle | Nashville, TN, United States | 33 | 4+ yrs exp; senior title; requires Java |
 | 7:13 PM | [Senior Software Engineer, Core Infrastructure(Hybrid)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/job/344707) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States | 33 | 4+ yrs exp; senior title; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (333)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (334)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 4:08 PM | [Senior Software Engineer, Cloud Payments](https://www.mongodb.com/careers/job/?gh_jid=8397699) | MongoDB | Atlanta; Austin; Boston; Chicago; Dalla… | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:48 PM | [Senior Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162381024-senior-software-engineer) | ServiceNow | Santa Clara, California, United States | 25 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:03 PM | [Java Fullstack Engineer - Dallas, TX](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26524) | Photon | United States | 45 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 11:39 AM | [Senior Platform Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6254196004) | PlayStation | United States, San Mateo, CA | 30 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
