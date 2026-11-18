@@ -1,19 +1,20 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**631 jobs**, newest first. Updated Wed Nov 18, 9:07 AM CST from 12,526 company job boards and other sources.
+**631 jobs**, newest first. Updated Wed Nov 18, 9:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-252 repeat listings (same company and title in another place or on another source) are merged into one row.
+253 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,944 matching jobs that job sites and feeds listed this week, 685 (35%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,948 matching jobs that job sites and feeds listed this week, 685 (35%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (12)](#wednesday-nov-18-12) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (94)](#thursday-nov-12-94) · [Wed 11 (44)](#wednesday-nov-11-44)
+Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (94)](#thursday-nov-12-94) · [Wed 11 (44)](#wednesday-nov-11-44)
 
-## Wednesday, Nov 18 (12)
+## Wednesday, Nov 18 (13)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Senior Devops Engineer I / Lohit](https://www.metlifecareers.com/en_US/ml/JobDetail/Senior-Devops-Engineer-I-Lohit/21704) | MetLife |  | 60 | entry-level title; senior title, years not stated; location unclear |
 | date only | [Network Engineer (Cisco ISE, Palo Alto, BGP/OSPF)](https://hyundaiautoeveramerica.applytojob.com/apply/bOSkA8wT1E/Network-Engineer-Cisco-ISE-Palo-Alto-BGPOSPF) | Hyundai AutoEver America | Irvine, CA | 50 |  |
 | date only | [Enterprise Infrastructure Engineer](https://www.metlifecareers.com/en_US/ml/JobDetail/Enterprise-Infrastructure-Engineer/21659) | MetLife |  | 60 | location unclear |
 | date only | [DevOps / SRE Engineer (Kubernetes, Terraform), AI Expert](https://apply.workable.com/weekday-1/j/66FAC02153/) | Weekday AI | United States (remote) | 57 | 4+ yrs exp |
@@ -27,7 +28,7 @@ Jump to: [Wed 18 (12)](#wednesday-nov-18-12) · [Tue 17 (34)](#tuesday-nov-17-34
 | 2:04 AM | [Cloud and DevOps Engineer](https://jobs.lever.co/jobgether/3e2d051e-4adc-416b-8f8f-aeb7da090178) | Jobgether | US (remote) | 72 | 2+ yrs exp |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 45 | location unclear |
 
-## Tuesday, Nov 17 (34)
+## Tuesday, Nov 17 (33)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -57,7 +58,6 @@ Jump to: [Wed 18 (12)](#wednesday-nov-18-12) · [Tue 17 (34)](#tuesday-nov-17-34
 | 11:11 AM | [Oracle Cloud HCM Security Administrator](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73649) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 70 |  |
 | 11:11 AM | [Oracle Cloud HCM Security Administrator](https://ford.eightfold.ai/careers/job/563568454126356) | Ford | Dearborn, MI, US (onsite) | 70 |  |
 | date only | [Systems Development Engineer, DC Robotics, Data Center Robotics](https://www.amazon.jobs/en/jobs/10606820/systems-development-engineer-dc-robotics-data-center-robotics) | Amazon Data Services, Inc. | Seattle, Washington, USA | 60 | 4+ yrs exp |
-| date only | [Senior Devops Engineer I](https://www.metlifecareers.com/en_US/ml/JobDetail/Senior-Devops-Engineer-I/21614) | MetLife |  | 60 | entry-level title; senior title, years not stated; location unclear |
 | date only | [DevOps Engineer](https://apply.workable.com/raydar/j/F988B64D0D/) | Raydar | New York, New York, United States | 60 | 4+ yrs exp |
 | 10:44 AM | [IT Ops Automation Engineer](https://jobs.ashbyhq.com/buspatrol/e5264fb2-c237-4a06-bcba-fd5aeaa31569) | Buspatrol | Austin, Texas (hybrid) | 55 |  |
 | 9:02 AM | [NVIDIA Infrastructure Engineer — NVIDIA V100 or A100](https://jobs.smartrecruiters.com/SyncreonConsulting/744000162099059-nvidia-infrastructure-engineer-nvidia-v100-or-a100-) | Syncreon Consulting | New York, NY, United States | 60 | staffing/consulting firm: verify it's real; repost |
@@ -681,7 +681,7 @@ Jump to: [Wed 18 (12)](#wednesday-nov-18-12) · [Tue 17 (34)](#tuesday-nov-17-34
 | date only | [DevSecOps Engineer (Temporary Position)](https://netrist.zohorecruit.com/jobs/Careers/363984000011632047/DevSecOps-Engineer-Temporary-Position) | Netrist |  (remote) | 45 | location unclear |
 | 9:45 AM | [Software Engineer – ML Infrastructure](https://jobs.ashbyhq.com/people-culture-talent/555aac85-9640-4c91-af92-a16887f4c705) | People Culture Talent | San Francisco, CA (onsite) | 65 | staffing/consulting firm: verify it's real |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (760)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (762)
 
 <details><summary>Show</summary>
 
@@ -692,12 +692,15 @@ Jump to: [Wed 18 (12)](#wednesday-nov-18-12) · [Tue 17 (34)](#tuesday-nov-17-34
 | date only | [Systems Administrator I](https://jobs.jobvite.com/synqor-careers/job/oTi7AfwC) | SynQor | Salem, New Hampshire, United States | 70 | rules: entry-level title; 1+ yrs exp; adjacent title, little DevOps/c… |
 | date only | [Infrastructure Analyst](https://delawareparkcasinoracing.applytojob.com/apply/nEAKCV6GnA/Infrastructure-Analyst) | Delaware Park Casino & Racing | Wilmington, DE | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Mid-Level Google Cloud Platform Looker Developer](https://apply.workable.com/credence/j/072FAF32A3/) | Credence | Tysons, Virginia, United States | 60 | rules: 4+ yrs exp; needs: Secret clearance |
+| date only | [Configuration Management Analyst (Journeyman)](https://synecsolu.applytojob.com/apply/unMc0EES16/Configuration-Management-Analyst-Journeyman) | Synectic Solutions | Patuxent River, MD | 30 | rules: 5+ yrs exp; needs: security clearance |
 | 8:39 AM | [DevSecOps Engineer - AWS - Northeast region](https://boards.greenhouse.io/guidepointsecurity/jobs/6264977004?gh_jid=6264977004) | GuidePoint Security | Remote (remote) | 37 | rules: 6+ yrs exp; no future H-1B sponsorship; asks for 6+ years of e… |
 | 2:49 AM | [Senior Infrastructure Engineer (Network Infrastructure)](https://jobs.lever.co/jobgether/820564aa-3a17-42b7-8029-20cf32b6302a) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:58 AM | [Data Security Platform Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73382) | Ford Motor Company | United States (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:58 AM | [Data Security Platform Engineer](https://ford.eightfold.ai/careers/job/563568454106691) | Ford | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 11:00 PM | [Network Engineer - Senior](https://careers-markon.icims.com/jobs/8862/network-engineer---senior/job) | Markon | Sterling, VA, United States +1 more | 30 | rules: 6+ yrs exp; senior title; needs: TS/SCI clearance |
 | 11:00 PM | [Senior System Administrator](https://careers-dminc.icims.com/jobs/29072/senior-system-administrator/job) | DMI | Washington, DC, United States | 30 | rules: 8+ yrs exp; senior title; needs: Must be a U.S. Citizen |
 | 11:00 PM | [Human Resources Enterprise Systems Administrator - HR Systems](https://careers-dartmouth-hitchcock.icims.com/jobs/43203/human-resources-enterprise-systems-administrator---hr-systems/job) | Dartmouth Health | Lebanon, NH, United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 11:00 PM | [SME Level Network Engineer](https://careers-markon.icims.com/jobs/8864/sme-level-network-engineer/job) | Markon | Sterling, VA, United States | 50 | rules: needs: TS/SCI clearance |
 | 7:38 PM | [Forward Deployment Engineer](https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf) | GrayMatter Robotics | Remote - USA (remote) | 47 | rules: adjacent title, little DevOps/cloud work in the text |
 | 7:28 PM | [Senior Software Engineer, Cloud Infrastructure](https://jobs.ashbyhq.com/beaconai/c6225eb8-8941-411c-9e28-798c323ee224) | Beacon AI | San Carlos  - Hybrid | 50 | rules: senior title, years not stated; no future H-1B sponsorship; ne… |
 | 7:28 PM | [Network Administrator (Remote)](https://job-boards.greenhouse.io/its/jobs/8202896003) | Its | International (remote) | 22 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
@@ -781,7 +784,6 @@ Jump to: [Wed 18 (12)](#wednesday-nov-18-12) · [Tue 17 (34)](#tuesday-nov-17-34
 | 11:00 PM | [Senior DevOps Engineer](https://careers-simventions.icims.com/jobs/1669/senior-devops-engineer/job) | SimVentions | Dahlgren, VA, United States (remote) | 42 | rules: 8+ yrs exp; senior title; needs: Secret Clearance |
 | 11:00 PM | [Platform Engineer (AWS / Infra-as-Code)](https://careers-lmi.icims.com/jobs/14589/platform-engineer-%28aws---infra-as-code%29/job) | LMI | Remote, United States | 45 | rules: 6+ yrs exp; needs: security clearance |
 | 11:00 PM | [Systems Administrator](https://careers-bcore.icims.com/jobs/3331/systems-administrator/job) | Bcore | McLean, VA, United States | 30 | rules: 6+ yrs exp; asks for 6+ years of experience |
-| 11:00 PM | [Network Engineer](https://careers-markon.icims.com/jobs/8855/network-engineer/job) | Markon | Herndon, VA, United States | 30 | rules: 11+ yrs exp; needs: TS/SCI clearance |
 | 11:00 PM | [Linux Engineer](https://careers-bcore.icims.com/jobs/3332/linux-engineer/job) | Bcore | McLean, VA, United States | 30 | rules: 11+ yrs exp; asks for 11+ years of experience |
 | 11:00 PM | [System Administrator](https://careers-dminc.icims.com/jobs/29073/system-administrator/job) | DMI | Washington, DC, United States | 45 | rules: 3+ yrs exp; needs: Must be a U.S. Citizen |
 | 11:00 PM | [Kubernetes Engineer](https://everwatch-everwatchsolutions.icims.com/jobs/3768/kubernetes-engineer/job) | Everwatch | Annapolis Junction, MD, United States; … (remote) | 42 | rules: 5+ yrs exp; needs: Secret clearance |
@@ -1085,8 +1087,6 @@ Jump to: [Wed 18 (12)](#wednesday-nov-18-12) · [Tue 17 (34)](#tuesday-nov-17-34
 | date only | [Infrastructure Specialist](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/FL-USA/Infrastructure-Specialist_R-70846) | Kyndryl | FL, USA (remote) | 42 | asks for 6+ years of experience; 6+ yrs exp |
 | date only | [DevOps Engineer - FinOps](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09514---California-Remote/DevOps-Sr-Engineer---FinOps_R0478967-1) | DaVita | 09514 - California Remote (remote) | 42 | asks for 5+ years of experience; 5+ yrs exp |
 | date only | [Engineer II, Systems Reliability Engineering](https://levistraussandco.wd5.myworkdayjobs.com/External/job/Erlanger-Distribution-Center-Erlanger-KY-USA/Engineer-II--Systems-Reliability-Engineering_R-0158469-1) | Levi Strauss & Co. | Erlanger Distribution Center, Erlanger,… | 40 | asks for 6+ years of experience; 6+ yrs exp |
-| date only | [Network Engineer](https://appliedis.wd5.myworkdayjobs.com/AIS_Careers/job/Linthicum-Heights-MD/Network-Engineer_JR2026001435) | Applied Information Sciences | Linthicum Heights, MD (onsite) | 35 | rules: 8+ yrs exp; needs: TS clearance |
-| date only | [Systems Administrator - Splunk SME](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-MD-Fort-Meade/Systems-Administrator---Splunk-SME_R0175033) | Amentum | US-MD-Fort Meade (onsite) | 55 | rules: needs: Security Clearance |
 
 </details>
 

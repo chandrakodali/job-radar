@@ -12093,17 +12093,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 242,
+   "n": 243,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 242,
+   "n": 243,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 242,
+   "n": 243,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12764,6 +12764,11 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-11"
+  },
+  "lever:life": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-18"
   },
   "lever:lifen": {
    "disabled_until": "2026-11-25",
@@ -14989,7 +14994,7 @@
   ],
   "2026-11-18": [
    92,
-   234
+   238
   ]
  },
  "resolved": {
@@ -66095,6 +66100,7 @@
   "avature:metlife.avature.net|en_US/ml:21587": "2026-11-12",
   "avature:metlife.avature.net|en_US/ml:21614": "2026-11-17",
   "avature:metlife.avature.net|en_US/ml:21659": "2026-11-18",
+  "avature:metlife.avature.net|en_US/ml:21704": "2026-11-18",
   "avature:mgl.avature.net|internalcareers:22542": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24706": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24892": "2026-11-15",
@@ -67606,6 +67612,8 @@
   "icims:careers-markon.icims.com:8827": "2026-11-11",
   "icims:careers-markon.icims.com:8831": "2026-11-11",
   "icims:careers-markon.icims.com:8855": "2026-11-17",
+  "icims:careers-markon.icims.com:8862": "2026-11-18",
+  "icims:careers-markon.icims.com:8864": "2026-11-18",
   "icims:careers-mci2.icims.com:50191": "2026-11-12",
   "icims:careers-mci2.icims.com:50192": "2026-11-12",
   "icims:careers-mci2.icims.com:50193": "2026-11-12",
@@ -67988,6 +67996,7 @@
   "jazzhr:solvarus:YldyxQgNeH": "2026-11-12",
   "jazzhr:spacedynamicslaboratory:uXUYmgNNi5": "2026-11-10",
   "jazzhr:sunbirdsoftwareinc:Ua0gIGsIYT": "2026-11-09",
+  "jazzhr:synecsolu:unMc0EES16": "2026-11-18",
   "jazzhr:tapengineering:9PcUStppy4": "2026-11-09",
   "jazzhr:tapengineering:9wxqKc7NVI": "2026-11-09",
   "jazzhr:tapengineering:JJgltKyP8j": "2026-11-09",
@@ -68075,6 +68084,7 @@
   "jobvite:nirvc:oplQAfwU": "2026-11-15",
   "jobvite:nutanix:oEJIAfwp": "2026-11-09",
   "jobvite:nutanix:oI7QAfwZ": "2026-11-09",
+  "jobvite:nutanix:oT92zfwn": "2026-11-18",
   "jobvite:nutanix:ofXPzfwk": "2026-11-13",
   "jobvite:nutanix:ohIWAfwf": "2026-11-16",
   "jobvite:nutanix:ohorAfwq": "2026-11-17",
@@ -70124,10 +70134,10 @@
  },
  "source_last": {
   "hn": "2026-11-18T14:37:17+00:00",
-  "remoteok": "2026-11-18T13:37:13+00:00",
+  "remoteok": "2026-11-18T15:37:19+00:00",
   "usajobs": "2026-11-18T13:07:36+00:00",
   "workable_search": "2026-11-18T13:07:36+00:00",
-  "wwr": "2026-11-18T14:37:17+00:00",
+  "wwr": "2026-11-18T15:37:19+00:00",
   "yc": "2026-11-18T13:07:36+00:00"
  },
  "title_rules": "c323075b4d70",
