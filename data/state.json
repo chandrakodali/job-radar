@@ -12092,17 +12092,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 220,
+   "n": 221,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 220,
+   "n": 221,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 220,
+   "n": 221,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14976,7 +14976,7 @@
   ],
   "2026-11-18": [
    36,
-   86
+   90
   ]
  },
  "resolved": {
@@ -68551,6 +68551,7 @@
   "rippling:topdoglaw:eb47df12-fe35-4ed8-9e9f-44f8ac6e54c2": "2026-11-08",
   "rippling:torus:c066d348-26ab-4a41-950a-f81b8c2fc599": "2026-11-09",
   "rippling:torus:c7383e47-b6cd-432e-8519-e8cdac90125c": "2026-11-08",
+  "rippling:vulcanforms:7fdb3ecd-a0c7-434c-a90f-a03eec3e0fe1": "2026-11-18",
   "rippling:vulcanforms:d350007b-8eec-445f-9c67-dbe71d931b93": "2026-11-15",
   "rippling:walden-robotics:96b49560-1ee0-4eb5-8aa5-08bb673ae0b1": "2026-11-15",
   "rippling:webull:4ebf7248-2c86-4f5b-9227-6a1f8662b4bf": "2026-11-15",
@@ -70088,7 +70089,7 @@
   "remoteok": "2026-11-18T03:37:19+00:00",
   "usajobs": "2026-11-18T04:07:16+00:00",
   "workable_search": "2026-11-18T04:07:16+00:00",
-  "wwr": "2026-11-18T03:37:19+00:00",
+  "wwr": "2026-11-18T04:37:13+00:00",
   "yc": "2026-11-18T04:07:16+00:00"
  },
  "title_rules": "c323075b4d70",
