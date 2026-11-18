@@ -11742,6 +11742,7 @@
   "greenhouse:newrelic:5479397008": "2026-11-12",
   "greenhouse:spin:4751625005": "2026-11-13",
   "greenhouse:tenstorrent:5283701007": "2026-11-16",
+  "greenhouse:thoughtworksreferral:8336965": "2026-11-18",
   "greenhouse:twinstream:5016466101": "2026-11-12",
   "greenhouse:twinstream:5018760101": "2026-11-12",
   "greenhouse:vast:4726228006": "2026-11-12",
@@ -12096,17 +12097,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 250,
+   "n": 251,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 250,
+   "n": 251,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 250,
+   "n": 251,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12186,11 +12187,6 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
-  },
-  "greenhouse:bayada": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-18"
   },
   "greenhouse:breezeairways": {
    "disabled_until": "2026-11-21",
@@ -12545,11 +12541,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 4,
    "since": "2026-11-09"
-  },
-  "icims:careers-brightspring.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-18"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-23",
@@ -15004,7 +14995,7 @@
   ],
   "2026-11-18": [
    133,
-   326
+   329
   ]
  },
  "resolved": {
@@ -65825,6 +65816,7 @@
   "apple:usa:200695296": "2026-11-17",
   "apple:usa:200695356": "2026-11-17",
   "apple:usa:200695546": "2026-11-18",
+  "apple:usa:200695672": "2026-11-18",
   "apple:usa:200695686": "2026-11-18",
   "ashby:AeroVect:49403b08-400b-43e7-91f8-709c965bda54": "2026-11-07",
   "ashby:AeroVect:91db7309-415c-498b-a033-373af6546a68": "2026-11-12",
@@ -68356,6 +68348,7 @@
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73087": "2026-11-08",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73382": "2026-11-18",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73528": "2026-11-12",
+  "oracle:efds.fa.em5.oraclecloud.com|CX_1:73540": "2026-11-18",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73649": "2026-11-17",
   "oracle:egoh.fa.us2.oraclecloud.com|CX_1001:32568": "2026-11-16",
   "oracle:egoh.fa.us2.oraclecloud.com|CX_1001:33134": "2026-11-16",
@@ -68375,6 +68368,7 @@
   "oracle:emdz.fa.us2.oraclecloud.com|CX_1001:6368": "2026-11-14",
   "oracle:emdz.fa.us2.oraclecloud.com|CX_2001:6368": "2026-11-08",
   "oracle:emje.fa.us6.oraclecloud.com|CX_1001:22636": "2026-11-09",
+  "oracle:eney.fa.us2.oraclecloud.com|CX_1001:1895": "2026-11-18",
   "oracle:eoje.fa.us2.oraclecloud.com|CX_1001:7099": "2026-11-14",
   "oracle:eppr.fa.us2.oraclecloud.com|CX_2:195028": "2026-11-13",
   "oracle:ertr.fa.us2.oraclecloud.com|CX_3001:117567": "2026-11-12",
@@ -68507,6 +68501,8 @@
   "pinpoint:bluemantis:622278": "2026-11-18",
   "pinpoint:bluemantis:622280": "2026-11-18",
   "pinpoint:bluemantis:622281": "2026-11-18",
+  "pinpoint:bluemantis:622282": "2026-11-18",
+  "pinpoint:bluemantis:622284": "2026-11-18",
   "pinpoint:coforma:510810": "2026-11-11",
   "pinpoint:gembaadvantage:536782": "2026-11-15",
   "pinpoint:gloryglobal:605161": "2026-11-14",
@@ -70175,10 +70171,10 @@
  },
  "source_last": {
   "hn": "2026-11-18T14:37:17+00:00",
-  "remoteok": "2026-11-18T17:37:17+00:00",
+  "remoteok": "2026-11-18T19:37:17+00:00",
   "usajobs": "2026-11-18T19:07:14+00:00",
   "workable_search": "2026-11-18T19:07:14+00:00",
-  "wwr": "2026-11-18T18:37:34+00:00",
+  "wwr": "2026-11-18T19:37:17+00:00",
   "yc": "2026-11-18T19:07:14+00:00"
  },
  "title_rules": "c323075b4d70",
