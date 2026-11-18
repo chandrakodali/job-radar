@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**629 jobs**, newest first. Updated Tue Nov 17, 10:37 PM CST from 12,526 company job boards and other sources.
+**628 jobs**, newest first. Updated Tue Nov 17, 11:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 1,800 matching jobs that job sites and feeds listed this week, 629 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (1)](#tuesday-nov-10-1)
+Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50)
 
 ## Wednesday, Nov 18 (2)
 
@@ -677,12 +677,6 @@ Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (34)](#tuesday-nov-17-34) 
 | 3:25 AM | [Application Security Engineer](https://job-boards.greenhouse.io/intercom/jobs/8371261) | Fin | Chicago, Illinois | 65 |  |
 | 2:24 AM | [Senior Cloud Security Engineer](https://jobs.lever.co/jobgether/73d75c56-c3b4-403f-b49d-93905c180592) | Jobgether | US (remote) | 45 | 3+ yrs exp; senior title |
 | 2:00 AM | [Senior Engineer Core Infrastructure](https://careers.jetblue.com/job/Long-Island-City-Senior-Engineer-Core-Infrastructure-NY-11101/1389530100/) | JetBlue | Long Island City, NY, United States | 53 | 4+ yrs exp; senior title |
-
-## Tuesday, Nov 10 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 10:38 PM | [Senior Infrastructure Engineer](https://jobs.ashbyhq.com/walrusfi/99365c7e-5d47-463c-a7dd-07389cf2c86d) | Walrus | Remote (US) (remote) | 40 | senior title, years not stated; no future H-1B sponsorship |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (748)
 
