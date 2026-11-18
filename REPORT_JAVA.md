@@ -1,20 +1,23 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**201 jobs**, newest first. Updated Wed Nov 18, 1:19 PM CST from 12,526 company job boards and other sources.
+**202 jobs**, newest first. Updated Wed Nov 18, 2:20 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-126 repeat listings (same company and title in another place or on another source) are merged into one row.
+128 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 1,791 matching jobs that job sites and feeds listed this week, 426 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (15)](#wednesday-nov-18-15) · [Tue 17 (20)](#tuesday-nov-17-20) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (9)](#wednesday-nov-11-9)
+Jump to: [Wed 18 (18)](#wednesday-nov-18-18) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (25)](#thursday-nov-12-25) · [Wed 11 (9)](#wednesday-nov-11-9)
 
-## Wednesday, Nov 18 (15)
+## Wednesday, Nov 18 (18)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 2:20 PM (seen) | [Backend Software Engineer, TikTok Live Recommendation Infrastructure](https://lifeattiktok.com/search/7550948068838689031) | TikTok | San Jose, California, United States of … | 30 | 3+ yrs exp; requires Java |
+| 1:31 PM | [Software Engineer III - Fullstack, Java, AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803885) | JP Morgan Chase | NY, United States; Plano, TX, United St… | 60 | 3+ yrs exp; senior title |
 | 1:30 PM | [Senior Software Engineer](https://jobs.workable.com/view/nstoksYEj1FNULVoZrVyfo/remote-senior-software-engineer-in-united-states-at-amerisave) | AmeriSave | Remote, US (remote) | 37 | senior title, years not stated; requires Java |
+| 1:27 PM | [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162380039-software-engineer) | ServiceNow | Santa Clara, CALIFORNIA, United States | 55 | 2+ yrs exp; requires Java; repost |
 | 12:54 PM | [Software Engineer I - Vertx, Spring, Spring Boot, RESTful micro servi…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011281) | American Express | Phoenix, AZ, United States (hybrid) | 90 | entry-level title; 2+ yrs exp |
 | 12:54 PM | [Software Engineer I - Vertx, Spring, Spring Boot, RESTful micro servi…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26011281) | Egug Fa Us2 Oraclecloud Com | Phoenix, AZ, United States (hybrid) | 85 | entry-level title; 2+ yrs exp |
 | 12:35 PM | [Sr. Software Engineer, Data Engineering](https://jobs.ashbyhq.com/poshmark/b71bc1f1-00ad-4b56-9640-555ba550e315) | Poshmark | US California (Redwood City) - Office (hybrid) | 50 | 4+ yrs exp; senior title; requires Java |
@@ -30,7 +33,7 @@ Jump to: [Wed 18 (15)](#wednesday-nov-18-15) · [Tue 17 (20)](#tuesday-nov-17-20
 | 8:09 AM | [Senior Platform Software Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/338589) | Eeho Fa Us2 Oraclecloud Com | Austin, TX, United States; Nashville, T… | 35 | senior title, years not stated; requires Java |
 | 6:08 AM | [Senior Software Engineer - Go SDK - Language Clients](https://jobs.ashbyhq.com/clickhouse/cd764fbe-9455-4d9c-84ee-837b63c1d32d) | ClickHouse | New York; Detroit; Chicago; Atlanta; Bo… (remote) | 37 | senior title, years not stated; requires Java |
 
-## Tuesday, Nov 17 (20)
+## Tuesday, Nov 17 (19)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -51,7 +54,6 @@ Jump to: [Wed 18 (15)](#wednesday-nov-18-15) · [Tue 17 (20)](#tuesday-nov-17-20
 | date only | [Software Engineer II (Full Time) – United States CX Engineering](https://careers.cisco.com/global/en/job/CISCISGLOBAL2032332EXTERNALENGLOBAL) | Cisco | San Jose, California, United States of … | 43 | 0-2 yrs exp; requires Java |
 | 10:17 AM | [Software Developer 3](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350771) | Oracle | Nashville, TN, United States | 40 | 4+ yrs exp; senior title; requires Java |
 | 10:17 AM | [Software Developer 3](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350771) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States | 40 | 4+ yrs exp; senior title; requires Java |
-| 8:12 AM | [Software Engineer III - Java/Kafka/Cloud](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797597) | JP Morgan Chase | Tampa, FL, United States +4 more | 60 | 3+ yrs exp; senior title |
 | 7:51 AM | [AWS Software Engineer II - Full Stack/Java/React](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790526) | JP Morgan Chase | Jersey City, NJ, United States | 70 | 2+ yrs exp |
 | 2:14 AM | [Middle Software Engineer - Backend (Platform)](https://jobs.lever.co/jobgether/bbd011d9-382f-4f14-a2ee-0516f4ac407a) | Jobgether | US (remote) | 47 | requires Java |
 
@@ -206,7 +208,7 @@ Jump to: [Wed 18 (15)](#wednesday-nov-18-15) · [Tue 17 (20)](#tuesday-nov-17-20
 | 7:52 AM | [The Core Engineering- Software Engineering - Associate - Dallas](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/182586) | Goldman Sachs | Dallas, TX, United States | 48 | entry-level title; 3+ yrs exp; requires Java |
 | 7:52 AM | [The Core Engineering- Software Engineering - Associate - Dallas](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/182586) | Hdpc Fa Us2 Oraclecloud Com | Dallas, TX, United States | 43 | entry-level title; 3+ yrs exp; requires Java |
 
-## Thursday, Nov 12 (26)
+## Thursday, Nov 12 (25)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -215,7 +217,6 @@ Jump to: [Wed 18 (15)](#wednesday-nov-18-15) · [Tue 17 (20)](#tuesday-nov-17-20
 | 3:33 PM | [Software Engineer – Backend Engineer – Tax Engineering](https://stripe.com/jobs/search?gh_jid=8384325) | Stripe | Seattle, WA | 38 | 4+ yrs exp; requires Java |
 | 2:12 PM | [Java Developer](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4729268006) | mthree | Boston, MA | 53 | no future H-1B sponsorship |
 | 2:05 PM | [Software Engineer - Systems and Infrastructure](https://jobs.smartrecruiters.com/LinkedIn3/744000161375119-software-engineer-systems-and-infrastructure) | LinkedIn | Mountain View, CA, United States (hybrid) | 63 | 1+ yrs exp; E-Verify; requires Java |
-| 11:22 AM | [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000161353984-software-engineer) | ServiceNow | Santa Clara, CALIFORNIA, United States | 48 | 2+ yrs exp; requires Java |
 | 11:09 AM | [Senior Software Engineer .NET SDK - Langauge Clients](https://jobs.ashbyhq.com/clickhouse/51e77613-18b6-4f36-bc28-a7740198ca44) | ClickHouse | New York; Detroit; Chicago; Atlanta; Bo… (remote) | 30 | senior title, years not stated; requires Java |
 | date only | [Java Developer- API and Microservices](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Java-Developer--API-and-Microservices_R0077546) | Huntington Bancshares | Columbus, OH | 48 | 3+ yrs exp; no future H-1B sponsorship |
 | date only | [Java Developer](https://careers.capgemini.com/job/New-York%2C-NY-Java-Developer-NY-10001/1457014033/) | Capgemini | New York, NY, United States | 53 | 3+ yrs exp |
@@ -257,6 +258,7 @@ Jump to: [Wed 18 (15)](#wednesday-nov-18-15) · [Tue 17 (20)](#tuesday-nov-17-20
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 1:48 PM | [Senior Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162381024-senior-software-engineer) | ServiceNow | Santa Clara, California, United States | 25 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:03 PM | [Java Fullstack Engineer - Dallas, TX](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26524) | Photon | United States | 45 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 11:39 AM | [Senior Platform Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6254196004) | PlayStation | United States, San Mateo, CA | 30 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
 | 10:39 AM | [Senior Software Engineer - CAD](https://mark43.com/list-job/8360301?gh_jid=8360301) | Mark43 | Boston, Massachusetts | 25 | rules: 6+ yrs exp; senior title; no future H-1B sponsorship; requires… |
@@ -549,7 +551,6 @@ Jump to: [Wed 18 (15)](#wednesday-nov-18-15) · [Tue 17 (20)](#tuesday-nov-17-20
 | 11:00 PM | [Sr Software Developer](https://careers-sas.icims.com/jobs/42659/sr-software-developer/job) | SAS | Cary HQ, NC, United States; NC, United … | 13 | rules: 8+ yrs exp; senior title; no future H-1B sponsorship; requires… |
 | 7:04 PM | [Software Engineer III (CMS Sitecore)](https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003622) | GCI | United States | 18 | rules: 6+ yrs exp; senior title; requires Java; asks for 6+ years of … |
 | 5:35 PM | [Software Engineer (Backend-Java)](https://job-boards.greenhouse.io/navapbc/jobs/4482367009) | Navapbc | Remote (remote) | 35 | rules: 5+ yrs exp; E-Verify; needs: security clearance |
-| 4:15 PM | [Senior Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000160737829-senior-software-engineer) | ServiceNow | Santa Clara, California, United States | 13 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:17 PM | [Senior Software Engineer - Platforms](https://jobs.smartrecruiters.com/Versant3/744000160700829-senior-software-engineer-platforms) | Versant | New York, NY, United States +1 more (hybrid) | 23 | rules: 6+ yrs exp; senior title; requires Java; asks for 6+ years of … |
 | 12:25 PM | [Senior Software Engineer](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4939100101) | Veeam Software | San Jose, CA, USA | 18 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 12:25 PM | [Senior Software Engineer](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4939100101) | Veeamsoftware | San Jose, CA, USA | 18 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
