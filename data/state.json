@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 257,
+   "n": 258,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 257,
+   "n": 258,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 257,
+   "n": 258,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -65994,6 +65994,7 @@
   "ashby:options-it:dc5f0094-f6b8-422c-9773-577a519ef269": "2026-11-07",
   "ashby:orbit:ce3ebc6d-f6d6-4c19-92d4-fdcbbd87bead": "2026-11-14",
   "ashby:orbital:34a2f3a7-011f-4d9d-9eb7-3d7e0b3377d5": "2026-11-07",
+  "ashby:paxos:df3b7383-2900-4e72-acb0-eb3c1667573c": "2026-11-18",
   "ashby:people-culture-talent:555aac85-9640-4c91-af92-a16887f4c705": "2026-11-11",
   "ashby:physicalintelligence:16bfcb45-4056-4e8d-b1d7-7411fffeb5a1": "2026-11-14",
   "ashby:plenful:96fbc249-399d-4df4-8abb-8adacbd6c295": "2026-11-14",
@@ -66696,6 +66697,7 @@
   "dayforce:cityind|CANDIDATEPORTAL:1976": "2026-11-15",
   "dayforce:corpay|candidateportal:57636": "2026-11-15",
   "dayforce:eci|candidateportal:861": "2026-11-15",
+  "dayforce:eci|candidateportal:905": "2026-11-18",
   "dayforce:evri|CANDIDATEPORTAL:5889": "2026-11-17",
   "dayforce:gleason|CANDIDATEPORTAL:5881": "2026-11-15",
   "dayforce:herffjones|HERFFJONESCANDIDATEPORTAL:6514": "2026-11-15",
@@ -67235,6 +67237,8 @@
   "greenhouse:usconec:4478726009": "2026-11-07",
   "greenhouse:usenourish:5471124008": "2026-11-12",
   "greenhouse:valaratomics:4508690009": "2026-11-17",
+  "greenhouse:valaratomics:4510605009": "2026-11-18",
+  "greenhouse:valaratomics:4510677009": "2026-11-18",
   "greenhouse:vardaspace:8200518003": "2026-11-12",
   "greenhouse:vardaspace:8203760003": "2026-11-13",
   "greenhouse:vast:4726228006": "2026-11-07",

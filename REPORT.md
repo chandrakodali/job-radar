@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**604 jobs**, newest first. Updated Wed Nov 18, 4:37 PM CST from 12,526 company job boards and other sources.
+**606 jobs**, newest first. Updated Wed Nov 18, 5:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,13 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 2,081 matching jobs that job sites and feeds listed this week, 746 (35%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (30)](#wednesday-nov-18-30) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (4)](#wednesday-nov-11-4)
+Jump to: [Wed 18 (32)](#wednesday-nov-18-32) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (4)](#wednesday-nov-11-4)
 
-## Wednesday, Nov 18 (30)
+## Wednesday, Nov 18 (32)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 4:57 PM | [Senior Application Security Engineer](https://jobs.ashbyhq.com/paxos/df3b7383-2900-4e72-acb0-eb3c1667573c) | Paxos | Remote - United States (remote) | 52 | senior title, years not stated |
 | 3:48 PM | [OT Infrastructure Engineer I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4564824) | Enchanted Rock Management LLC | Houston, TX, United States | 85 | entry-level title; 0-2 yrs exp |
 | 2:49 PM | [Application Support Engineer](https://job-boards.greenhouse.io/cooksys/jobs/5487021008) | Cook Systems | San Antonio, Texas | 50 |  |
 | 2:30 PM | [Site Reliability Specialist II (Linux/AWS/Monitoring)](https://jobs.smartrecruiters.com/Intelerad/744000162388219-site-reliability-specialist-ii-linux-aws-monitoring-) | Intelerad | Remote, UNITED STATES, United States (hybrid) | 60 | 3+ yrs exp |
@@ -43,6 +44,7 @@ Jump to: [Wed 18 (30)](#wednesday-nov-18-30) · [Tue 17 (34)](#tuesday-nov-17-34
 | 4:04 AM | [ML Ops Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6240810004) | PlayStation | United States, San Diego, CA | 60 | 3+ yrs exp |
 | 2:28 AM | [Infrastructure Support Specialist](https://jobs.lever.co/jobgether/16c47193-e372-4376-9293-7163f7e7d474) | Jobgether | US (remote) | 72 | 2+ yrs exp |
 | 2:04 AM | [Cloud and DevOps Engineer](https://jobs.lever.co/jobgether/3e2d051e-4adc-416b-8f8f-aeb7da090178) | Jobgether | US (remote) | 72 | 2+ yrs exp |
+| 2:00 AM | [DevOps](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/905) | Eci | Dallas, TX, US; Chicago, IL, US; New Yo… | 65 |  |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 45 | location unclear |
 
 ## Tuesday, Nov 17 (34)
@@ -654,12 +656,14 @@ Jump to: [Wed 18 (30)](#wednesday-nov-18-30) · [Tue 17 (34)](#tuesday-nov-17-34
 | 7:35 PM | [Infrastructure Engineer - Labs](https://jobs.ashbyhq.com/Etched/b4ad6323-3d69-4881-a2db-e3967afbae65) | Etched | San Jose (onsite) | 70 |  |
 | 5:17 PM | [Senior Software Engineer, Engine Infrastructure](https://careers.roblox.com/jobs/8346849?gh_jid=8346849) | Roblox | San Mateo, CA, United States | 48 | 4+ yrs exp; senior title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (772)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (774)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 4:47 PM | [Senior Infrastructure Security Engineer (Cloud & On-Prem)](https://job-boards.greenhouse.io/valaratomics/jobs/4510605009) | Valaratomics | Torrance, California, United States | 45 | rules: 7+ yrs exp; senior title; needs: Must be a U.S. person |
+| 4:46 PM | [AI Security Engineer (AppSec, Cloud & On-Premises)](https://job-boards.greenhouse.io/valaratomics/jobs/4510677009) | Valaratomics | Torrance, California, United States | 45 | rules: 7+ yrs exp; needs: Must be a U.S. person |
 | 4:28 PM | [Linux Installation Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4730735006?gh_jid=4730735006) | Accenture | San Diego, CA | 35 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: security cleara… |
 | 4:10 PM | [Senior Cloud DevOps Engineer (Hybrid - Houston)](https://jobs.smartrecruiters.com/AECOM2/744000162400439-senior-cloud-devops-engineer-hybrid-houston-) | AECOM | Houston, TX, United States (hybrid) | 50 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 3:20 PM | [Industrial & Production Engineer](https://boards.greenhouse.io/pathrobotics/jobs/8950251002?gh_jid=8950251002) | Path Robotics | Columbus, Ohio | 30 | rules: 10+ yrs exp; needs: ITAR |
@@ -1058,8 +1062,6 @@ Jump to: [Wed 18 (30)](#wednesday-nov-18-30) · [Tue 17 (34)](#tuesday-nov-17-34
 | 4:16 PM | [Senior DataOps Engineer](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4483519009) | Voyager Technologies | Remote - United States (remote) | 42 | rules: 10+ yrs exp; senior title; needs: Secret clearance |
 | 4:15 PM | [Systems Administrator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4661248) | Engage fi | Orlando, FL, United States (remote) | 35 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | 4:10 PM | [Deployment Engineer (Field Operations)](https://jobs.ashbyhq.com/base-power/61564fba-61a0-4fe3-a71d-1c3325514e35) | Base Power | Austin, TX (onsite) | 55 | rules: adjacent title, little DevOps/cloud work in the text |
-| 4:05 PM | [Sr. Linux Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4663035) | 6166Aed4 Af42 4762 99E4 5D67A… | USA | 23 | rules: 6+ yrs exp; senior title; needs: security clearance |
-| 3:56 PM | [Site Reliability Engineer](https://jobs.ashbyhq.com/blitzy/389140b3-d7f1-4891-8a7b-15952a66f15d) | Blitzy | Cambridge, MA (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
 
