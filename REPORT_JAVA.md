@@ -1,12 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**197 jobs**, newest first. Updated Wed Nov 18, 12:15 AM CST from 12,526 company job boards and other sources.
+**197 jobs**, newest first. Updated Wed Nov 18, 1:18 AM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 123 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,537 matching jobs that job sites and feeds listed this week, 364 (23%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,540 matching jobs that job sites and feeds listed this week, 364 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20)
 
@@ -247,12 +247,13 @@ Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (19)](#tuesday-nov-17-19) 
 | 5:30 AM | [Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch](https://jobs.elastic.co/jobs?gh_jid=8378070&gh_jid=8378070) | Elastic | United States | 43 | senior title, years not stated |
 | 2:28 AM | [Senior Software Engineer](https://jobs.lever.co/jobgether/423eec1b-a832-47de-84a5-476f5e085488) | Jobgether | US (remote) | 30 | 4+ yrs exp; senior title; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (323)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (324)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 12:44 AM | [Sr Software Engineer I](https://jobs.lever.co/jobgether/d1c00037-fcc6-421e-86ef-e4c8866b0a42) | Jobgether | US (remote) | 37 | rules: entry-level title; 5+ yrs exp; senior title; requires Java; as… |
 | 3:35 PM | [Sr Software Engineer I](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010196) | American Express | Phoenix, AZ, United States +1 more (hybrid) | 45 | rules: entry-level title; 8+ yrs exp; senior title; requires Java; as… |
 | 3:35 PM | [Sr Software Engineer I](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26010196) | Egug Fa Us2 Oraclecloud Com | Phoenix, AZ, United States +1 more (hybrid) | 40 | rules: entry-level title; 8+ yrs exp; senior title; requires Java; as… |
 | 2:32 PM | [Software Engineer](https://ford.eightfold.ai/careers/job/563568454231302) | Ford | Dearborn, MI, US +1 more (onsite) | 35 | rules: 8+ yrs exp; requires Java; asks for 8+ years of experience |
