@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**605 jobs**, newest first. Updated Wed Nov 18, 2:37 PM CST from 12,526 company job boards and other sources.
+**604 jobs**, newest first. Updated Wed Nov 18, 3:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,13 +8,14 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 2,041 matching jobs that job sites and feeds listed this week, 726 (35%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (29)](#wednesday-nov-18-29) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (6)](#wednesday-nov-11-6)
+Jump to: [Wed 18 (30)](#wednesday-nov-18-30) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (4)](#wednesday-nov-11-4)
 
-## Wednesday, Nov 18 (29)
+## Wednesday, Nov 18 (30)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 3:48 PM | [OT Infrastructure Engineer I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4564824) | Enchanted Rock Management LLC | Houston, TX, United States | 85 | entry-level title; 0-2 yrs exp |
+| 2:49 PM | [Application Support Engineer](https://job-boards.greenhouse.io/cooksys/jobs/5487021008) | Cook Systems | San Antonio, Texas | 50 |  |
 | 2:30 PM | [Site Reliability Specialist II (Linux/AWS/Monitoring)](https://jobs.smartrecruiters.com/Intelerad/744000162388219-site-reliability-specialist-ii-linux-aws-monitoring-) | Intelerad | Remote, UNITED STATES, United States (hybrid) | 60 | 3+ yrs exp |
 | 2:07 PM (seen) | [Software Engineer - Model Infrastructure, TikTok Feeds](https://lifeattiktok.com/search/7514815357371959559) | TikTok | San Jose, California, United States of … | 50 |  |
 | 2:07 PM (seen) | [Backend Software Engineer, TikTok Live Recommendation Infrastructure](https://lifeattiktok.com/search/7550948068838689031) | TikTok | San Jose, California, United States of … | 45 | 3+ yrs exp |
@@ -644,7 +645,7 @@ Jump to: [Wed 18 (29)](#wednesday-nov-18-29) · [Tue 17 (34)](#tuesday-nov-17-34
 | 1:00 AM (seen) | [Network Engineer](https://jobs.jobvite.com/jbs/job/oiO5Afwv) | JBS Foods | Richardson, Texas | 35 |  |
 | 1:00 AM (seen) | [Systems Reliability Engineer](https://jobs.jobvite.com/nutanix/job/osn3Afwc) | Nutanix |  | 55 | 2+ yrs exp; location unclear |
 
-## Wednesday, Nov 11 (6)
+## Wednesday, Nov 11 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -652,10 +653,8 @@ Jump to: [Wed 18 (29)](#wednesday-nov-18-29) · [Tue 17 (34)](#tuesday-nov-17-34
 | 8:35 PM | [Software Engineer - DevOps](https://jobs.lever.co/jobgether/b45aadee-df74-4ad4-8acd-f23de8ee8060) | Jobgether | US (remote) | 50 | 3+ yrs exp |
 | 7:35 PM | [Infrastructure Engineer - Labs](https://jobs.ashbyhq.com/Etched/b4ad6323-3d69-4881-a2db-e3967afbae65) | Etched | San Jose (onsite) | 70 |  |
 | 5:17 PM | [Senior Software Engineer, Engine Infrastructure](https://careers.roblox.com/jobs/8346849?gh_jid=8346849) | Roblox | San Mateo, CA, United States | 48 | 4+ yrs exp; senior title |
-| 2:50 PM | [Application Support Engineer - Market Data](https://jobs.smartrecruiters.com/Talan/744000161165829-application-support-engineer-market-data) | Talan | New York, , United States (hybrid) | 38 | 3+ yrs exp; no future H-1B sponsorship |
-| 2:45 PM | [DevOps Engineer](https://jobs.workable.com/view/ctLT2M6tHcohHg4nJWyFy7/hybrid-devops-engineer-in-minneapolis-at-accurant-international) | Accurant International | Minneapolis, Minnesota (hybrid) | 63 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (766)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (767)
 
 <details><summary>Show</summary>
 
@@ -688,6 +687,7 @@ Jump to: [Wed 18 (29)](#wednesday-nov-18-29) · [Tue 17 (34)](#tuesday-nov-17-34
 | 10:07 AM | [Test Automation Engineer, Robot Platform](https://jobs.lever.co/zoox/c84c90b4-22f2-4d2e-9034-afee385dd0d2) | Zoox | Foster City, CA (onsite) | 35 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 9:59 AM | [Azure AI Platform Engineer III/Senior](https://job-boards.greenhouse.io/eqtcorporation/jobs/5486501008) | EQT Corporation | Remote (remote) | 37 | rules: 6+ yrs exp; senior title; location unclear; asks for 6+ years … |
 | 8:39 AM | [DevSecOps Engineer - AWS - Northeast region](https://boards.greenhouse.io/guidepointsecurity/jobs/6264977004?gh_jid=6264977004) | GuidePoint Security | Remote (remote) | 37 | rules: 6+ yrs exp; no future H-1B sponsorship; asks for 6+ years of e… |
+| 3:00 AM | [Senior Strategic Sourcing Specialist - Rail Infrastructure](https://jobs.dayforcehcm.com/en-US/omnitrax/CANDIDATEPORTAL/jobs/4991) | Omnitrax | Denver, CO, US | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 2:49 AM | [Senior Infrastructure Engineer (Network Infrastructure)](https://jobs.lever.co/jobgether/820564aa-3a17-42b7-8029-20cf32b6302a) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:58 AM | [Data Security Platform Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73382) | Ford Motor Company | United States (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:58 AM | [Data Security Platform Engineer](https://ford.eightfold.ai/careers/job/563568454106691) | Ford | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -1060,7 +1060,6 @@ Jump to: [Wed 18 (29)](#wednesday-nov-18-29) · [Tue 17 (34)](#tuesday-nov-17-34
 | 3:51 PM (seen) | [Senior Cloud Engineer II / Req#4716](https://jobs.jobvite.com/actionet/job/oNWPAfwS) | ActioNet | Suitland, Maryland | 25 | rules: 8+ yrs exp; senior title; needs: U.S. Citizenship is required |
 | 3:51 PM (seen) | [Network Engineer Level III (Firewall) / Req#4542](https://jobs.jobvite.com/actionet/job/oSlUzfwq) | ActioNet | Remote, United States | 15 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 3:51 PM (seen) | [Senior Cloud Ops Engineer](https://jobs.jobvite.com/tylertech/job/o9ToAfwK) | Tyler Technologies | 4 Locations | 25 | rules: 6+ yrs exp; senior title; location unclear; asks for 6+ years … |
-| 3:51 PM (seen) | [Senior IT Infrastructure Engineer - JobID-0239](https://idtus.pinpointhq.com/en/postings/0bf3823b-e64c-4faa-a39a-23bcd058b1f6) | Innovative Defense Technologi… | Arlington, VA (onsite) | 35 | rules: 7+ yrs exp; senior title; needs: Security Clearance |
 
 </details>
 

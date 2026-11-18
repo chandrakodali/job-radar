@@ -11973,7 +11973,7 @@
   },
   "ashby:norm-ai": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-18"
   },
   "ashby:odin-dynamics": {
@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 253,
+   "n": 254,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 253,
+   "n": 254,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 253,
+   "n": 254,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -66709,6 +66709,7 @@
   "dayforce:landstar|CANDIDATEPORTAL:11996": "2026-11-17",
   "dayforce:mydayforce|alljobs:104700": "2026-11-14",
   "dayforce:mydayforce|indeedjobs:104701": "2026-11-14",
+  "dayforce:omnitrax|CANDIDATEPORTAL:4991": "2026-11-18",
   "dayforce:onpoint|CANDIDATEPORTAL:6016": "2026-11-14",
   "dayforce:ppcw|CANDIDATEPORTAL:1634": "2026-11-15",
   "dayforce:sanitarium|CANDIDATEPORTAL:2604": "2026-11-15",
@@ -67021,6 +67022,7 @@
   "greenhouse:cmt:8353881": "2026-11-12",
   "greenhouse:coinbase:8237493": "2026-11-16",
   "greenhouse:compeerfinancial:5474151008": "2026-11-07",
+  "greenhouse:cooksys:5487021008": "2026-11-18",
   "greenhouse:corelight:8369707": "2026-11-16",
   "greenhouse:coreweave:4724129006": "2026-11-12",
   "greenhouse:coreweave:4727033006": "2026-11-07",
