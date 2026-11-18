@@ -11735,6 +11735,7 @@
   "greenhouse:gofasti:6250585004": "2026-11-12",
   "greenhouse:guidepointsecurity:6251376004": "2026-11-12",
   "greenhouse:inspire11:8440233002": "2026-11-12",
+  "greenhouse:its:8202933003": "2026-11-18",
   "greenhouse:newrelic:5479397008": "2026-11-12",
   "greenhouse:spin:4751625005": "2026-11-13",
   "greenhouse:tenstorrent:5283701007": "2026-11-16",
@@ -12092,17 +12093,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 239,
+   "n": 240,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 239,
+   "n": 240,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 239,
+   "n": 240,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14923,7 +14924,7 @@
   }
  },
  "found_cursor": 968,
- "last_digest": "2026-11-17",
+ "last_digest": "2026-11-18",
  "missed_companies": {
   "Accurant International": "2026-11-18",
   "Bask Health": "2026-11-18",
@@ -66720,6 +66721,7 @@
   "eightfold:mercadolibre:45520009": "2026-11-14",
   "eightfold:morganstanley:549801018692": "2026-11-14",
   "eightfold:ngc:1340074239588": "2026-11-16",
+  "eightfold:ngc:1340074672055": "2026-11-18",
   "eightfold:ngc:1340075281013": "2026-11-17",
   "eightfold:ngc:1340075297270": "2026-11-14",
   "eightfold:ngc:1340075298595": "2026-11-14",
