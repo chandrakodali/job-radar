@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**630 jobs**, newest first. Updated Wed Nov 18, 7:07 AM CST from 12,526 company job boards and other sources.
+**630 jobs**, newest first. Updated Wed Nov 18, 7:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 253 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,936 matching jobs that job sites and feeds listed this week, 685 (35%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,940 matching jobs that job sites and feeds listed this week, 685 (35%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 18 (10)](#wednesday-nov-18-10) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (44)](#wednesday-nov-11-44)
 
@@ -680,13 +680,15 @@ Jump to: [Wed 18 (10)](#wednesday-nov-18-10) · [Tue 17 (34)](#tuesday-nov-17-34
 | date only | [DevSecOps Engineer (Temporary Position)](https://netrist.zohorecruit.com/jobs/Careers/363984000011632047/DevSecOps-Engineer-Temporary-Position) | Netrist |  (remote) | 45 | location unclear |
 | 9:45 AM | [Software Engineer – ML Infrastructure](https://jobs.ashbyhq.com/people-culture-talent/555aac85-9640-4c91-af92-a16887f4c705) | People Culture Talent | San Francisco, CA (onsite) | 65 | staffing/consulting firm: verify it's real |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (752)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (754)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Senior Platform Engineer (Remote)](https://apply.workable.com/hospitable/j/A2091F150C/) | Hospitable | Remote, Oregon, United States (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| date only | [System Administrator III](https://hyundaiautoeveramerica.applytojob.com/apply/8FbV6EM8le/System-Administrator-III) | Hyundai AutoEver America | Savannah, GA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| date only | [Systems Administrator I](https://jobs.jobvite.com/synqor-careers/job/oTi7AfwC) | SynQor | Salem, New Hampshire, United States | 70 | rules: entry-level title; 1+ yrs exp; adjacent title, little DevOps/c… |
 | 2:49 AM | [Senior Infrastructure Engineer (Network Infrastructure)](https://jobs.lever.co/jobgether/820564aa-3a17-42b7-8029-20cf32b6302a) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:58 AM | [Data Security Platform Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73382) | Ford Motor Company | United States (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:58 AM | [Data Security Platform Engineer](https://ford.eightfold.ai/careers/job/563568454106691) | Ford | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -1084,8 +1086,6 @@ Jump to: [Wed 18 (10)](#wednesday-nov-18-10) · [Tue 17 (34)](#tuesday-nov-17-34
 | date only | [Senior Network Engineer](https://jobs.jobvite.com/altamiracorps/job/odV6Afwy) | Altamira Technologies | McLean, VA, United States; Chantilly, V… | 45 | rules: 4+ yrs exp; senior title; needs: security clearance |
 | date only | [Senior Linux System Administrator](https://jobs.jobvite.com/altamiracorps/job/o8V6Afwt) | Altamira Technologies | McLean, VA, United States; Chantilly, V… | 40 | rules: senior title, years not stated; needs: security clearance |
 | date only | [24367 - Senior Network Engineer](https://careers.quality-ai.com/job/Petach-_-Tikva-24367-Senior-Network-Engineer/61494544/) | Qualitest |  | 25 | rules: 5+ yrs exp; senior title; location unclear; asks for 5+ years … |
-| date only | [Systems Administrator III](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-DC-Washington/Systems-Administrator-III_R0175168-1) | Amentum | US-DC-Washington (onsite) | 35 | rules: 10+ yrs exp; senior title; needs: Security Clearance |
-| date only | [Senior Network Engineer](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-MD-Fort-Meade/Senior-Network-Engineer_R0175067) | Amentum | US-MD-Fort Meade (onsite) | 35 | rules: 5+ yrs exp; senior title; needs: Security Clearance |
 
 </details>
 

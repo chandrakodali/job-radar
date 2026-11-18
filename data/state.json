@@ -11748,11 +11748,6 @@
   "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-16"
  },
  "fails": {
-  "apple:usa": {
-   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
-   "n": 1,
-   "since": "2026-11-18"
-  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-25",
    "err": "HTTP 404",
@@ -12097,17 +12092,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 238,
+   "n": 239,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 238,
+   "n": 239,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 238,
+   "n": 239,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14993,7 +14988,7 @@
   ],
   "2026-11-18": [
    92,
-   226
+   230
   ]
  },
  "resolved": {
@@ -67901,6 +67896,7 @@
   "jazzhr:harmonytech:2L4Bfgw776": "2026-11-09",
   "jazzhr:harmonytech:qMGVZmouFd": "2026-11-09",
   "jazzhr:hyundaiautoeveramerica:354QU8k7sh": "2026-11-12",
+  "jazzhr:hyundaiautoeveramerica:8FbV6EM8le": "2026-11-18",
   "jazzhr:hyundaiautoeveramerica:BIMsN1O3iQ": "2026-11-09",
   "jazzhr:hyundaiautoeveramerica:HffpLBb5XG": "2026-11-12",
   "jazzhr:hyundaiautoeveramerica:HkXdQkSE9F": "2026-11-09",
@@ -68092,6 +68088,7 @@
   "jobvite:sikichcareers:oQ7EAfwV": "2026-11-09",
   "jobvite:src-inc:olZVAfwz": "2026-11-09",
   "jobvite:sumitomo-electric:oU3PAfw6": "2026-11-15",
+  "jobvite:synqor-careers:oTi7AfwC": "2026-11-18",
   "jobvite:tasekomines:o6bPAfwq": "2026-11-15",
   "jobvite:tylertech:o9ToAfwK": "2026-11-12",
   "jobvite:tylertech:oBQjAfw4": "2026-11-09",
@@ -70118,10 +70115,10 @@
  },
  "source_last": {
   "hn": "2026-11-18T08:37:15+00:00",
-  "remoteok": "2026-11-18T11:37:16+00:00",
+  "remoteok": "2026-11-18T13:37:13+00:00",
   "usajobs": "2026-11-18T13:07:36+00:00",
   "workable_search": "2026-11-18T13:07:36+00:00",
-  "wwr": "2026-11-18T12:37:16+00:00",
+  "wwr": "2026-11-18T13:37:13+00:00",
   "yc": "2026-11-18T13:07:36+00:00"
  },
  "title_rules": "c323075b4d70",
