@@ -7,9 +7,11 @@ If you're unsure or don't see a specific role that fits your mold quite yet,
 we encourage you to apply regardless as we've always got things cooking!
 Loading jobs…
 Enter the skill(s) that fit your interests and background
-Technical Lead (Ruby On Rails/TypeScript/React)
+Senior Fullstack (Ruby On Rails/TypeScript/React) Engineer
 Timezone: GMT-8
 TypeScript React Frontend Ruby on Rails
+Senior Software Engineer (Go/AWS/AWS Connect)
+Go Amazon Connect AWS REST API AWS Lambda Terraform Kubernetes
 Senior Backend Engineer
 Timezone: GMT-5
 Node.js TypeScript NestJS GCP REST API Kubernetes GitHub

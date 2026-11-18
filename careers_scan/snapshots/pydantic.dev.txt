@@ -14,7 +14,7 @@ Years in open source
 Published on PyPI
 1bn+
 Monthly downloads
-60k+
+64k+
 GitHub stars
 Across our open-source projects
 Pydantic 29.5k

@@ -1,4 +1,4 @@
-Tower 18 for Mac – A Better Command Line Experience
+Tower 18.5 for Mac (Beta) – Gitea, Forgejo, and Codeberg Support
 Learn More
 Tower 15 for Windows – Syntax Highlighting
 Thousands of customers like Apple, Google, or eBay use our work on a daily basis.

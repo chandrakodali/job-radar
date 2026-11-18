@@ -72,10 +72,8 @@ Account Executive (UK)
 Own the full sales cycle for UK recruitment agencies, from first demo to signed deal. Work with BDRs and solutions engineers to close and onboard customers.
 Account Executive (German Speaking)
 Own the full sales cycle for German-speaking recruitment agencies, from first demo to signed deal, and help build Spott's playbook in the DACH region.
-Partnership Manager
-Marketing
-Own our events and partnerships to put Spott on the map. You'll scale our partner engine, from events to integrations, driving real conversations with agencies.
 Growth Manager, US
+Marketing
 Own US growth through events, partnerships, and community building, making Spott the go-to AI recruitment platform for agencies.
 Software engineer (Backend)
 Engineering

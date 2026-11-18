@@ -57,7 +57,7 @@ Engineering Department
 Staff Site Reliability Engineer
 Bengaluru, Karnataka, India, APAC
 Senior Software Engineer
-Principal Software Engineer - Data Lakes
+Principal Software Engineer, Data Lakes
 Remote, Germany, EMEA
 Staff Software Engineer
 Toronto, Ontario, Canada
@@ -84,7 +84,7 @@ Senior Software Development Engineer in Test - Database Automation
 Technical Program Manager, Security
 Senior Software Engineer - Orchestration
 Senior Staff Site Reliability Engineer
-Senior Staff Software Engineer - SAP Connectors
+Senior Staff Software Engineer, SAP Connectors
 Amsterdam, North Holland, Netherlands, EMEA
 Manager Software Engineering
 Remote, New York, United States, AMER
@@ -93,7 +93,7 @@ Novi Sad, South Bačka, Serbia, EMEA
 Senior Site Reliability Engineer
 Lead Full Stack Engineer
 Senior Full Stack Engineer
-Staff Program Manager - Knowledge Management
+Staff Program Manager, Knowledge Management
 Finance Department
 Tax Manager
 Senior International Accountant
@@ -115,7 +115,7 @@ Legal Department
 Senior Commercial Counsel
 USA - Philadelphia (dbt)
 Marketing Department
-Principal, Marketing Insights
+Marketing Strategy Insights Lead
 Director, Content Marketing
 Lifecycle Marketing Manager
 Enterprise Demand Generation Lead, North America
@@ -143,18 +143,16 @@ Resident Solution Architect
 Sales Department
 Senior Sales Engineer, Commercial
 Dublin, Dublin, Ireland, EMEA
-Senior Sales Engineer, Enterprise
-Senior Sales Engineer, Enterprise, German Speaking
-Remote, Ireland, EMEA
 Commercial Sales Director (Benelux)
 Business Development Representative (Austin)
 Account Executive, Commercial (Austin)
 Senior Solutions Architect, Enterprise
 Regional Director
-Remote, Illinois, United States, AMER; Remote, Indiana, United States, AMER; Remote, Michigan, United States, AMER; Remote, Ohio, United States, AMER
+Remote, Illinois, United States, AMER
 Sales Director
 Enterprise Account Executive
 Remote, Minnesota, United States, AMER
+Senior Sales Engineer, Enterprise
 Remote, Arizona, United States, AMER
 Senior Account Executive, Enterprise
 Remote, Any, Sweden
@@ -169,7 +167,7 @@ Senior Sales Compensation Analyst
 Senior Value Engineer
 Sales/Business Development Team
 Business Development Representative
-Business Development Representative - German Speaking
+Business Development Representative, German Speaking
 Sales Development Representative - Italian and Spanish Speaker
 IRL - Dublin (dbt)
 Sales Development Representative, German Speaking
@@ -178,11 +176,10 @@ GTM Strategy & Planning Manager
 Revenue Operations Manager
 Global Head of Deal Strategy and Operations
 Senior Partner Operations Manager
-Remote, Illinois, United States, AMER
 Remote, Georgia, United States, AMER
 Systems Engineering Department
-Sr. Staff Technical Product Manager – Customer Support
+Sr. Staff Technical Product Manager, Customer Support
 Senior Staff Software Engineer
 Senior Staff Systems Engineer, Data & Integrations
-Senior Systems Engineer - Data and Integrations
+Senior Systems Engineer, Data and Integrations
 Systems Engineer II - R&D Business Systems

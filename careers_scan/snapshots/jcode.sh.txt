@@ -227,47 +227,45 @@ Changelog
 Releases and changelog . Full history on GitHub releases .
 Unreleased
 2026-11-18 · today
-Changes since v1.0.0
+Changes since v1.0.1
 Automatically listed from commit messages.
-perf avoid cloning swarm members for visibility predicates
-test extract swarm predicate suite within module size budget
-perf skip topology queries for sequential message arrays
-perf share payload and metrics in one Arc allocation
-perf remove discarded JSON buffers and redundant image copies
-perf reject unrelated routes before repeated identity parsing
-perf consume byte-identical thumbnail resize results directly
-perf clone thumbnail candidates only after cache admission
-docs update weekly stars chart
-bench count jcode tool uses from role=tool history rows
-fix honor pending new-session routing for transcription
-bench default headless memory benchmark to memory-off jcode
-perf pin allocation-free control checks and shared Rust visibility parsing
-perf skip heavy warmups for temporary daemons
-chore preserve existing Windows resolutions in search update
-fix avoid inflated and cross-credential failover capacity
-fix expose code copy shortcuts while streaming
-perf borrow metadata envelopes and count bytes without discarded allocations
-fix preserve optional catalog snapshot without redundant empty fallback
-perf specialize byte-exact twofold RGB thumbnail shrink
-fix retain color space in exact thumbnail shrink
-commit Add isolated single-session server memory profiler
-commit Extend server memory profiler isolation and startup sampling
-perf borrow catalog metadata instead of building a full JSON tree
-perf count complete JSON writes without partial-write loop
-perf count schema Display bytes without building a string
-test preserve pricing parity and require completed refresh in profiles
-docs record headless PSS profiles and watchdog control
-fix distinguish absent numeric types from parse failures
-docs update downloads badge
-config retire obsolete swarm strip settings
-commit Retire inline swarm controls from panel navigation
-commit Remove retired bottom swarm agent strip
-commit Route swarm shortcuts directly to dedicated page
-commit Drop obsolete bottom swarm control hints
+docs attribute allocator discrepancy with matched cache controls
+commit Avoid discarded provider-native displays during call input lookup
+commit Avoid cloning rendered tool input solely for image context
+perf move owned histories into response requests
+test clarify serialized uplink fixture locking
+perf fingerprint borrowed canonical fields without payload clones
+perf skip discarded full replay request construction
+docs record optimized ownership acceptance and open gates
+perf move final rendered text buffers
+perf borrow canonical request logging fields
+perf borrow fresh websocket wire payload
+docs validate renderer ownership optimizations in hosted release
+docs integrate optimized owned history and replay evidence
+docs record ownership runtime acceptance and residual profile gate
+perf decode image preflight base64 once
+docs attribute fresh daemon memory before startup optimization
+updater fall back to newest stable release with this platform's asset and checksum
+release async per-platform publish, overlapped CI gate, dry-run mode, faster Intel mac and Linux compat builds
+perf reuse exact Gemini JSON bytes across retries
+test measure isolated image preflight allocations and CPU
+docs record bounded longevity and 32-session runtime acceptance
+perf share identical daemon HTTP client initialization
+docs attribute concurrent request peak to wire buffer capacity
+docs record startup memory controls and reject parser CPU tradeoff
+docs distinguish repeated executable residency from heap savings
+docs collect broader efficiency integration evidence and open gates
+bench reject wire buffer capacity tradeoffs with optimized probe
+docs control executable cache state in startup measurements
+bench measure conditional large wire-buffer shrink tradeoffs
+docs close broader runtime acceptance and measured stopping gates
+v1.0.1
+Model catalog fix
+Release highlights.
+highlight Newly released models such as GPT-6.2 Sol appear in the model picker even when live catalog updates arrive while an agent is busy
 v1.0.0
 2026-11-17 · 1d ago
 Swarms, Cloud, and a lighter terminal
-Release highlights.
 highlight Reworked swarms plan jobs in phases and parallel lanes, automatically start workers as dependencies finish, and show the whole team's progress in one pinned view
 highlight jcode Cloud officially launches: move a session or coordinated swarm to a VM with /cloud, keep working after disconnecting, and bring the conversation and repository back with /local
 highlight A lighter terminal with lower CPU usage, fewer background wakeups, faster transcript rendering, and less rendered-text memory

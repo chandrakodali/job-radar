@@ -1,13 +1,13 @@
 ✨ KMP observability and iOS crash reporting: a step-by-step guide
 ✨ Register for FREE Webinar: How to Access Deep App Performance Insights that Firebase Doesn’t Provide
 ✨ Replay Webinar: How to Access Deep App Performance Insights that Firebase Doesn’t Provide
-Issue Detection is Easy.
-Remediation is Hard.
-We are fixing that.
-The developer observability platform for Android and Kotlin Multiplatform apps . Connect your AI assistant to Kotzilla and detect production issues, diagnose root causes, and apply accurate fixes.
-KMP approved
+Fix slow app startups,
+ANRs and crashes on
+any device.
+Fix slow app startups, ANRs and crashes on any device.
+Bring Claude Code, Cursor or any AI agent production visibility into your Android and Kotlin Multiplatform apps .
 Start for Free
-Explore the sandbox
+Connect Kotzilla
 Trusted by leading companies to speed up issue resolution and reduce downtime
 From Detection to Accurate Remediation
 Other tools collect logs and traces. We map runtime data to your full architecture, every component, every dependency. That's why our AI fixes are accurate, not generic.
@@ -34,6 +34,7 @@ Fix via the MCP Server
 Your AI assistant uses the MCP Server to find root causes and apply accurate fixes
 Validate Fixes & Monitor
 After fixes, Kotzilla tracks runtime data and alerts you if regressions occur.
+Discover the Kotzilla Platform
 Real problems. Real fixes.
 See how teams use Kotzilla.
 Kotzilla gives Android and KMP teams full visibility into production issues and the context to fix them with or without AI
@@ -49,15 +50,16 @@ Full Production Visibility
 Get real-time insights on components, threads, and memory to quickly detect and understand app issues and crashes.
 Fast Root Cause Analysis
 Full session, component, and performance context to quickly resolve production issues and minimize user impact.
--50%
-Lower monitoring costs
-with essential runtime data capture
--90%
-time-to-fix
-Seamless flow from detection to resolution, in your terminal.
-10x
-better accuracy
-We have the Context and the Knowledge Base LLMs need
+faster app startup
+2+ seconds saved on low-memory devices
+Canal+ story →
+80%
+lower ANR rate
+User-perceived ANRs in Android Vitals
+Bankin’ story →
+46%
+faster screen rendering
+Slow screens fixed release after release
 Why Android developers are
 moving beyond Firebase
 Why Kotlin Developers Are Switching from Firebase
@@ -106,41 +108,9 @@ Romain Zanon
 Technical Leader @Canal+
 “Kotzilla helped us improve startup times by over two seconds on some low-memory devices, even after applying Android's Baseline Profiles. We can also monitor multiple applications under the same package name separately, which gives us much clearer insights."
 Partners & Recognitions
-The Kotzilla Platform
-The AI-native observability platform built on Koin. Detect, understand, and fix production issues across Android, Kotlin Multiplatform, and Compose Multiplatform with a single SDK
-Kotzilla MCP Server
-Koin IDE Plugin
-Kotzilla SDK
-Kotzilla Console
-The MCP Server gives Claude Code, Cursor, Windsurf, and other AI plugins the tools and context to find root causes and apply accurate fixes, all in natural language.
-Register your app and configure the SDK automatically
-Analyze app performance and stability across Android and KMP targets
-Compare versions and prioritize issues across multiple apps
-Get root cause analysis with full context, then apply accurate fixes
-Curated knowledge base of Kotlin patterns and antipatterns
-Learn more
-Visualize dependency graphs, navigate your code, detect issues and fix them directly in Android Studio or IntelliJ with your AI coding assistant. Works for both Koin DSL and Koin Annotations usages.
-Visualize Koin dependency graphs
-Detect config errors, performance issues, and crashes before runtime
-Get root causes of crashes and performance issues right in your IDE
-Generate fixes using the Kotzilla MCP Server from your IDE terminal
-Integrate seamlessly with Kotzilla Console for additional analysis
-A lightweight SDK with Koin-level visibility that captures runtime crash and performance data, powering accurate AI-driven fixes with minimal overhead.
-Lightweight and efficient app performance and crash monitoring
-Uses Koin containerization for smart and relevant data collection
-Gathers detailed performance metrics automatically
-Feeds runtime context into the platform for AI-driven remediation
-Minimal integration overhead
-A performance and stability cockpit for your app, connecting high-level KPIs (crash rates, ANR rates, slow screens) to the components and root causes behind them.
-Automatically detects ANRs, crashes, slow screens and components
-Architecture diagrams with runtime data for root cause analysis
-Graphical views for fast investigation and analysis
-Performance and regression analysis reports
-Accelerate root cause analysis and resolution with AI guidance
 Fix crashes, ANRs, frozen screens and slow app startups with Kotzilla
 Built for Koin. Get full visibility and accurate AI-driven fixes through the Kotzilla MCP Server, all in natural language
 No credit card required
-Cancel anytime
 Start Free Trial
 Contact Sales
 The developer observability platform for Android & Kotlin Multiplatform apps. From detection to accurate remediation.

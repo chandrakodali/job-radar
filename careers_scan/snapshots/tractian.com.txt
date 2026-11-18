@@ -72,7 +72,7 @@ The Observability Layer for the Physical World
 YC Root Access · Youtube
 Careers at tractian
 Job Openings
-104 result(s)
+103 result(s)
 Work Type
 Remote
 Hybrid
@@ -92,7 +92,6 @@ São Paulo, SP
 Monterrey, NL
 Account Executive
 Account Executive - Commercial
-Austin, TX
 AI Engineer
 Software Development
 Analytics Intern - GTM
@@ -107,6 +106,7 @@ Enterprise Account Executive
 Mexico City, D.F.
 Sales / Enterprise
 Chicago, IL
+Austin, TX
 San Diego, CA
 Federal Enterprise Account Executive
 Los Angeles, CA

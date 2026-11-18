@@ -1,3 +1,5 @@
+Introducing Pulumi Delivery and Pulumi Agents : Agentic code to production, and back again.
+Read the blog
 Navigation
 25.9K
 Contact us

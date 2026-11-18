@@ -1,3 +1,4 @@
+New B2C Distribution - Try it!
 Product
 Elesto
 Preconfigured B2B setup for manufactures and wholesalers
@@ -119,7 +120,7 @@ Open-source Community Marketing Geek
 Sylius HQ - Poland 🇵🇱
 Wierzbięcice 1B
 61-569 Poznań, Poland
-+48 734 262 301
++48 661 765 408
 [email protected]
 Get a live demo
 Compare Sylius

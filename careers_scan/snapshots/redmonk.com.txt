@@ -31,7 +31,7 @@ Discussing if you should become a RedMonk client “That’s an easy yes.”
 “RedMonk, bridging both academia and industry, brought valuable depth and credibility to our Efficacy of Learning with AI panel at SIGCSE 2025. The session was a hit! RedMonk’s objective third-party insights enriched the discussion, helping to draw a packed audience of 105 attendees with standing room only. The thoughtful questions from the audience underscored the impact of the conversation, making it clear that this topic resonated deeply. RedMonk’s contributions fostered an engaging and enlightening dialogue, reinforcing the importance of AI in education and in supporting educators in this technological revolution.”
 – GitHub
 Recent posts
+The RedMonk Agent Activity Index, Q3 2026
 Frontend Without the Browser–WTH?!?
 The Web Can’t Afford a JavaScript Runtime Monoculture
 How Software Trusts Software: MCP, A2A, & the Registries Agents Use
-The best token is one you don’t use – Spotify on LLM usage as an IO question

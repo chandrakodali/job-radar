@@ -1,3 +1,5 @@
+Introducing Koyal - Plivo's text-to-speech model with audio in under 200 ms at $0.0065/min Learn more Try now
+Introducing Koyal - Plivo's low latency text-to-speech model in 14 languages at ₹0.65/min Learn more Try now
 ~ careers · plivo 100+ team · 2 countries
 Come build the future of Agentic AI with us
 Plivo is redefining customer engagement through intelligent, autonomous conversations at global scale - handling over one billion API requests monthly.
@@ -36,7 +38,7 @@ Don't see a role that fits?
 We're always looking for talented individuals. Reach out and tell us how you'd contribute.
 Sign up for free Talk to sales
 › no credit card › free credits › cancel anytime
-~/plivo 07:23:48
+~/plivo 12:37:15
 $ brew install plivo/tap/plivo
 plivo cli · 4 steps quickstart →
 Learn more

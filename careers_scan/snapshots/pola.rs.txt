@@ -4,7 +4,7 @@ View open roles
 Who we are
 We are Polars
 Polars is built on the foundation of a vibrant, active open-source community, and we run the company the same way. We trust talented people to do their best work without unnecessary constraints. Collaboration matters, but we keep meetings to a minimum to protect focus. As Polars and Nanook continue to set a new standard in data processing, we're looking for like-minded people to join us on that journey.
-downloads 920M+
+downloads 940M+
 GitHub stars 40k+
 community members 5,000+
 Our values

@@ -306,40 +306,6 @@ Own meaningful product surface area from day one
 Small, high-performing team — low process, high ownership
 Remote-first with quarterly offsites in places like Miami, Boulder, and Austin
 Competitive compensation and equity
-Customer Success Manager
-Estuary unifies change data capture, batch pipelines, and streaming into one platform. Teams use us to move and transform data across their stack in real time, without stitching together separate ETL, replication, and streaming tools.
-We work with modern data and platform teams who need reliable pipelines, predictable costs, and flexible deployment options.
-As Estuary's first Customer Success Manager, you'll own the post-sale relationship for our customers: data engineers, platform leads, and the teams who depend on Estuary to keep their pipelines running.
-It's a hybrid role, part relationship owner, part technical problem-solver. You'll be the person customers trust to keep them successful, and technical enough to resolve most issues yourself.
-This is a rare build-it-yourself opportunity. There's no playbook sitting on a shelf waiting for you, because it doesn't exist yet. You'll invent it: how we onboard customers, how we track account health, and how we turn happy customers into champions and expansion revenue.
-You won't just be filling a seat, you'll be laying the foundation of a function you'll grow and lead as we scale.
-• Build our Customer Success function from the ground up: onboarding, health monitoring, and the account management playbook.
-• Own the post-sale customer journey, from onboarding through renewal and expansion.
-• Be the primary point of contact for your accounts, building real relationships and running business reviews that go beyond a status update.
-• Use AI tools to build dashboards and health-monitoring views for account status, usage, and risk.
-• Track key stakeholders at each account and have a plan for onboarding new contacts when roles change.
-• Monitor account health and get ahead of risk before it becomes a churn or renewal problem.
-• Troubleshoot and resolve most technical issues yourself, day-to-day.
-• Know when to loop in Solutions Engineering, and hand off cleanly with the right context.
-• Identify and drive expansion opportunities: new use cases, new teams, new pipelines.
-• Act as the customer's internal advocate, routing feedback to Product and Engineering.
-What You'll Bring
-• Experience in customer success, technical account management, or a similar role, ideally at a SaaS, data infrastructure, or dev tools company.
-• A real builder's instinct. You've either built a CS function or process before, or you're itching to, and you don't need a playbook handed to you to know what good looks like.
-• Genuine comfort with technical concepts: APIs, databases, warehouses, ETL/ELT. Enough to troubleshoot and hold your own in a technical conversation.
-• Comfort using AI tools to build reporting, dashboards, or health-monitoring systems from scratch. You don't need to be an engineer, but you should be resourceful enough to build the tooling you need rather than wait for someone to build it for you.
-• Strong account management instinct: you build trust, spot risk early, and turn happy customers into advocates and expansion opportunities.
-• Strong written and verbal communication, with the ability to translate technical detail into business value.
-• A proactive, ownership-driven approach: you notice risk or opportunity before it's escalated to you.
-• Experience with tools like Snowflake, Databricks, BigQuery, Kafka, Fivetran, or Airbyte.
-• Early-stage startup experience, ideally as an early or first CS hire.
-• Familiarity with CDC or streaming architectures.
-• Build the Customer Success function from the ground up, reporting directly to our CEO, with real potential to grow and lead a team as we scale.
-• Collaborative, high-performing team pushing the envelope in data infrastructure.
-• Early-stage startup: your limit is your imagination, not your job description.
-• Remote-first culture with autonomy.
-• Quarterly offsites in places like Miami, Boulder, and Austin.
-• Competitive salary, equity, and benefits.
 Senior Systems Engineer (Capture & Materializations)
 Experience: 8+ Years
 Estuary is a real-time data integration platform built for both fast-moving developers and large-scale enterprises. We combine change data capture (CDC), stream processing, and declarative configuration into a unified system that simplifies complex data movement. With Estuary, teams build reliable, low-latency pipelines—without the overhead of managing data infrastructure.
@@ -370,42 +336,6 @@ Competitive compensation, equity, and full benefits.
 Flexible remote work with a culture that respects work-life boundaries.
 A high-autonomy environment where your contributions have a direct impact on the product.
 Quarterly team offsites in cities like Miami, Austin, Boulder, and New Orleans to build community and connection.
-Senior Compliance Engineer
-We are looking for a Senior Compliance Engineer to join our security and compliance function. Our SOC 2 and HIPAA programs are mature and audited. Two areas will have your attention from the start: GDPR, where EU enterprise demand keeps raising the bar across our category, and PCI DSS, which this role will lead as customer demand builds. You will drive both, while keeping the established programs running at the standard our customers expect.
-This is a governance role first. You will be the person who designs the control set, automates the evidence, runs the audit cycle, keeps policy current as the company and product change, and answers the hard questions on a customer security call. The role also covers corporate IT, because identity and endpoint management are where a meaningful share of those controls operate day to day.
-Success requires a blend of deep framework expertise and practical systems judgment. You will be translating abstract control language into automation and defaults engineers can work with, rather than policy that sits apart from the work.
-Compliance at Estuary carries commercial weight, not just risk weight. Customers move sensitive data through our platform, and our ability to show exactly how it is protected is part of what earns that. This work is visible to customers in a way compliance often isn't.
-A note on fit. This role spans governance and IT; we are looking for someone who has been the person accountable for a compliance program rather than a contributor to one, and who can also run the systems underneath it. We are not looking for a systems administrator who has been adjacent to audits. If your experience is primarily device and identity administration without program ownership, this is likely not the right role, and we would rather tell you that here than in a fourth interview.
-Governance and Compliance
-Deepen Our GDPR Program: Estuary exists to move customer data across systems, which puts privacy close to the product. Take our GDPR program to the depth EU enterprise buyers' counsel look for across records of processing, lawful basis, DPAs and sub-processor management, cross-border transfer mechanisms, data residency commitments, retention, and DSAR handling.
-Lead Our PCI DSS Effort: Take us to attestation as a service provider, as a planned and resourced program rather than a reaction to one deal. Scope how the platform's role in moving customer data maps to the requirements, run the gap assessment, sequence the remediation, and carry us through attestation.
-Sustain SOC 2 and HIPAA: Run the day to day of two programs with a good audit track record: continuous evidence collection, access reviews, control testing, auditor coordination, BAAs and PHI handling. Both programs are in good standing, and your job is to keep them there as the company and the product surface grow.
-Risk and Assessments: Keep our risk register and system of record current, working with the engineers and leaders who hold each risk. Run vendor and sub-processor assessments, coordinate penetration testing, and keep security awareness training on schedule.
-Keep Compliance Scope Current as the Platform Evolves: As Estuary's architecture, deployment options, and vendor footprint change, the compliance boundary moves with them. You will work out what each change means for scope, controls, and customer commitments, and keep our documentation and customer-facing answers current as it happens.
-Support Enterprise Diligence: Partner with sales on security questionnaires, vendor risk reviews, and customer audits, so buyers get accurate answers quickly. Maintain a trust center and keep our security documentation current.
-Keep Us Incident Ready: Maintain and exercise incident response, business continuity, and disaster recovery plans alongside engineering. Be the calm, organized presence when a plan has to be used.
-The Systems Underneath
-Run Identity and Access: SSO and IdP administration, provisioning and deprovisioning, MFA, and least privilege. Keep extending the automation behind access reviews so they draw directly from system state.
-Run Endpoints and the SaaS Estate: Device management and MDM, endpoint security, onboarding and offboarding, vendor procurement and security review, license hygiene, and full visibility into the SaaS estate.
-Automate the Evidence Path: Extend our compliance automation and evidence collection so controls stay continuously satisfied by default and keep shrinking the set that needs manual effort.
-8+ years in compliance, GRC, or security governance: You have personally carried organizations through audits and come out the other side, at companies where the product was the thing being audited. Program ownership is the requirement here, not audit participation.
-You Have Built, Not Just Maintained: You have stood up at least one compliance program from close to nothing. You know what the first ninety days look like, which gaps matter, and how to sequence remediation when everything is technically a finding.
-SOC 2 Depth: You have run a SOC 2 Type II through a full audit cycle, and you know the difference between a control that passes and a control that works.
-Privacy Fluency: You are genuinely comfortable with GDPR mechanics: data processing agreements, lawful basis, transfer mechanisms, sub-processor management, and data residency. Not just familiar with the acronym.
-Policy and Judgment: You write policy that is precise enough to audit against and practical enough for the team to work with, you can make and document a defensible risk acceptance decision, and you can explain your reasoning to an auditor and stand behind it.
-Hands-On Systems Ownership: You have run identity, device, and SaaS administration for a distributed company yourself. You are as comfortable in an IdP admin console as you are in an audit workbook.
-Systems Thinking: You enjoy detective work: tracing how a system behaves under load, where data moves and who can reach it, and where documented process and lived process diverge.
-Engineering Empathy: You can read a cloud architecture diagram, hold your own with engineers about infrastructure and access controls, and design controls that hold up without slowing delivery.
-Clear Communication: Ability to explain complex compliance trade-offs to both technical and non-technical stakeholders, including a prospect's CISO on a live call.
-Practical Experience: Certifications like CISSP, CISA, or CIPP/E are welcome. What we weigh most heavily is a track record of programs you have run end to end.
-We know that excellence comes in many forms. If you don't meet 100% of these qualifications but have carried a compliance program through a full audit cycle and are excited about what we're building, we encourage you to apply.
-Direct PCI DSS Experience: Hands-on with PCI scoping, cardholder data environments, and the SAQ or ROC process, especially as a service provider rather than a merchant.
-ISO 27001: Experience building toward or maintaining certification, and mapping a shared control set across overlapping frameworks.
-Data Infrastructure Context: Experience supporting a data platform, ETL or CDC vendor, or a similar company where customer data is the product surface.
-Compliance Automation Tooling: Hands-on with platforms like Vanta, Drata, or Secureframe, and clear eyed about where they help and where they don't.
-Public Sector Exposure: Familiarity with FedRAMP, StateRAMP, or NIST 800-53, enough to tell us honestly what that path would demand.
-Startup Grit: Experience in fast-paced environments where you've balanced rapid iteration with durable process.
-Quarterly team offsites in cities like Miami,
 Senior Systems Engineer (Control & Data Plane)
 Location: Remote / USA
 Estuary is a real-time data integration platform built for both fast-moving developers and large-scale enterprises. We combine change data capture (CDC), stream processing, and declarative configuration into a unified system that simplifies complex data movement. With Estuary, teams build reliable, low-latency pipelines — without the overhead of managing data infrastructure.
@@ -484,6 +414,40 @@ Competitive base, equity, and full benefits.
 Estuary operates as a remote-first company. While the role is open to candidates across the US, we are prioritizing candidates based in the New York City area to support in-person collaboration with the founders and leadership team.
 Travel is estimated at ~10–15% for customer meetings, partner events, and company offsites.
 Send a resume and a short note about a recent piece of PMM work you are proud of (what it was, what it changed, and what you would do differently to careers@estuary.dev .
+Security Compliance Manager
+Location: United States
+Estuary is a real-time data integration platform built for both fast-moving developers and large-scale enterprises. We combine change data capture (CDC), stream processing, and declarative configuration into a unified system that simplifies complex data movement. With Estuary, teams build reliable, low-latency pipelines, without the overhead of managing data infrastructure.
+We’re looking for a Security Compliance Manager to join our Security & Compliance team. Our SOC 2 and HIPAA programs are mature and audited, and GDPR and PCI DSS are a growing focus as more enterprise customers rely on us. You’ll work across all of them with our security and engineering teams, keeping each at the standard our customers expect.
+This is a governance role first. You'll run the audit cycle, automate evidence collection, keep policy current as the company and product change, and answer compliance questions on customer security calls.
+Success requires a blend of deep framework expertise and practical systems judgment. You will be translating abstract control language into automation and defaults engineers can work with, rather than policy that sits apart from the work.
+Compliance at Estuary carries commercial weight, not just risk weight. Customers move sensitive data through our platform, and our ability to show exactly how it is protected is part of what earns that. This work is visible to customers in a way compliance often isn't.
+Audits and assessments. Coordinate Estuary’s external audits and assessments, including the annual SOC 2 and HIPAA audit and Google’s CASA assessment. This means keeping the audit schedule, preparing and submitting applications, gathering evidence, acting as the day-to-day contact for auditors and assessors, and recording results and follow-up items. The security team runs the annual penetration test. You will handle its compliance side: filing the report as audit evidence and documenting remediation and retest results.
+Continuous compliance. Maintain the program in our compliance automation platform so controls are monitored and evidence stays current all year, not just during audit periods. Build toward a public trust center where customers can review Estuary’s security and compliance status for themselves.
+Framework expansion. Help Estuary adopt additional frameworks and audit scope as the business needs them, such as PCI DSS, NIST CSF 2.0, and SOC 2 Trust Services Criteria beyond Security. Map existing controls, find the gaps, and work with the relevant teams to close them.
+Privacy and data protection. Maintain Estuary’s GDPR program: records of processing, the subprocessor list, and data processing agreements with customers and vendors, including the cross-border transfer terms behind them. Triage incoming data and account requests, and complete the ones that are data subject requests within their legal deadlines, working with the relevant teams.
+Personnel compliance. Make sure every employee and contractor meets Estuary’s compliance requirements from onboarding through offboarding. This covers security awareness training, policy acknowledgment and background checks. You will run the training program, follow up on anything overdue, and keep the records complete for audit.
+Remediation follow-up. Track security findings from scans, penetration tests, customer reports and audits until they are fixed. Work with engineering teams so fixes are finished within Estuary’s SLAs, and keep a record of each finding until it is closed.
+Risk management. Run the annual risk assessment and maintain the risk register, including treatment plans and periodic reviews.
+Policies. Maintain Estuary’s security and compliance policies. Review them each year and update them when practices change.
+Customer assurance. Complete security questionnaires and due diligence requests from customers and prospects, taking this work off the sales team, and answer compliance questions from staff.
+Vendor management. Run security reviews of new and existing vendors, keep vendor records up to date, and track when vendor assurance documents expire.
+Other security and compliance duties as assigned.
+8+ years in compliance, GRC, or security governance: You have run audits yourself, not just supported them, at a SaaS company whose product was in audit scope.
+SOC 2 experience: You have taken a SOC 2 Type II through at least one full audit cycle, from evidence collection through the final report and follow up items
+Compliance automation: You have run a program on a compliance automation platform and know where it saves work and where you still need to check things by hand
+Compliance Automation Tooling: Hands-on with platforms like Vanta, Drata, or Secureframe, and clear eyed about where they help and where they don't.
+Privacy experience: You are comfortable with GDPR in practice: records of processing, data processing agreements, subprocessor management, transfer mechanisms, and completing data subject requests within their deadlines.
+Customer assurance: You have completed security questionnaires and due diligence requests for enterprise customers, and you can explain how our controls work to a prospect’s security team on a call.
+Follow-through: You keep many recurring tasks on schedule, such as training, policy reviews, vendor reviews and open findings, and you follow up with people until the work is done.
+Working with engineers: You can read a cloud architecture diagram, talk with engineers about infrastructure and access controls, and work with them to get findings fixed.
+Policy and risk judgement: You write policy precise enough to audit against and practical enough to follow, and you can document a risk decision and explain it to an auditor.
+Track record: Certifications like CISSP, CISA, or CIPP/E are welcome. We weigh experience running programs most heavily.
+We know that excellence comes in many forms. If you don't meet 100% of these qualifications but have carried a compliance program through a full audit cycle and are excited about what we're building, we encourage you to apply.
+Direct PCI DSS Experience: Hands-on with PCI scoping, cardholder data environments, and the SAQ or ROC process, especially as a service provider rather than a merchant.
+Data Infrastructure Context: Experience supporting a data platform, ETL or CDC vendor, or a similar company where customer data is the product surface.
+Public Sector Experience: Hands-on experience with FedRAMP, StateRAMP, or NIST 800-53
+Startup Grit: Experience in fast-paced environments where you've balanced rapid iteration with durable process.
+Team offsites in cities like Miami, Austin, Boulder, and New Orleans to build community and connection.
 Let's talk about your data
 Have a specific question or comment? Send us a note and a team member will reach out to you shortly.
 If you don't see the form, please click here to open it in a new tab.

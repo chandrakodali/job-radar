@@ -2,6 +2,7 @@ New Spline Arena
 The 3D design tool for
 your team and agents
 Free, in your browser. Create interactive 3D for your websites and apps with AI.
+Get started for free Set up agent
 launch-hero
 Agent Objects Assets v12
 Type or use / for commands
@@ -83,4 +84,4 @@ Zeh Fernandes Founding Designer, Resend
 Pavel Dergachev Founder & Creative Director, KOJI
 Start building in 3D
 Connect your agent, invite your team and ship your first 3D scene today.
-Start building Connect your agent
+Start building Get started for free Set up agent

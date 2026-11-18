@@ -81,7 +81,6 @@ Ultimate Guitar Core
 Product Owner, Dealer portal
 Project Manager (Production & Warehouse Operations)
 Europe
-Royalty Manager
 Senior Marketing Analyst
 Marketing
 Stock Manager
@@ -107,15 +106,47 @@ Support for your mental health and well-being, including confidential help durin
 FA Q
 What are the Principles of Leadership?
 Results every day
-Leaders focus on daily outcomes. Each day is a small life. Speed and accuracy in planning are the foundation of trust.
-I need dirt
-We consciously embrace imperfection in work for the sake of speed. Perfectionism slows progress, so it’s essential to move quickly and try new things.
+Every day ends with something done and visible to others. Progress is not a result. Each day is a small life: plan, deliver, show.
+Example: end the day with a short note to your team — what is done.
+"I need dirt"
+Ship imperfect work early, under your own name and at your own risk. If you are not scared of how a release will land, you shipped too late. You over-waited, over-prepared, and paid for it with a lost opportunity. That trade does not work for us.
+Every iteration has flaws. That's normal.
+Iterate. "If I feel comfortable with a first release, I did it too late."
+Dirt is for first versions. What must last — see "Create things that will last for years".
 Radical Ownership
-Radical responsibility means taking personal accountability for every aspect of personal and team work, including problems and their solutions. It shifts focus from "we" to "I," where I take full responsibility for the result without blaming external circumstances or other people.
-Go to Eleven
-Follow the founder's principles of persistence and strive for the best results.
-Embrace Venus
-Ask for help when needed and offer it to others.
+You own the result personally. Say "I", not "we". Don't blame circumstances or other people.
+One owner, a plan, a date. Every project has one DRI — the one who owns the decision and the result. Every meaningful discussion ends with an owner and a date. Numbers and links, not general answers.
+My deadlines can be trusted. Name a date and deliver by it. If you will miss it, say so before it passes, with a new date. Don't say "I was doing", say "I did".
+No excuses, only solutions. Anticipate problems and prepare alternatives: if you need a bank account in three days, apply to five banks at once.
+Act by default. If there is no one to consult, use common sense and decide yourself.
+If the team fails, the leader owns it first.
+Disagree with numbers, then commit. Challenge how we execute, not what we decided, and bring data, not opinions. Without numbers it is a battle of arguments; changing a decision takes real evidence. Once decided, you commit fully.
+Deep dive
+Know the details of your area and audit it often. When the metrics and what actually happens don't match, trust what happens and dig.
+Content is more important than form.
+Surface problems early, especially your own.
+Example: the dashboard says retention is up, but support tickets grow — go read the tickets.
+Hands-on
+We don't want managers in the classic sense: people who come to a meeting someone else prepared, without their own document, and leave without written outcomes.
+Come with your own document. Leave with written decisions, owners and dates. A meeting without a decision is a waste.
+"Someone on my team didn’t prepare the data" is not an excuse. If you see it won’t be ready in time, do it yourself or solve it another way — but yourself.
+Example: the report is due tomorrow and the analyst is out — you pull the numbers yourself, or you reframe the question so the data you already have answers it.
+Create things that will last for years
+Fix problems so they stay fixed. Don’t redirect them or pass them down the line.
+A process, ritual or standard you build keeps running when you are not in the room and when people change.
+If it stops when its owner leaves, it was not built — it was carried.
+Example: every month you fix a broken payment report by hand — that is carrying. You fix the source so the report is right on its own — that is building.
+"Go to Eleven"*
+Set the bar higher than feels reasonable, and keep going:
+When everyone says "this is the maximum", that is where we start. Eleven is about ambition — the bar we set and the goals we take on, not about polishing. Aim at eleven, ship dirt early.
+Keep business margins healthy in every decision.
+Knowledge goes out of date. Don't be dogmatic. Be open.
+Find solutions that create time instead of consuming it. Bureaucracy consumes time; automation creates it.
+Sharpen the ax. You won't get unusually good results without changing your approach and trying new things.
+To learn teamwork, first learn to work alone. A strong team is a collective of ones, not zeros.
+*From the film Spinal Tap: the amp that goes to eleven — one step beyond the maximum.
+"Embrace Venus"
+Ask for help when you need it and offer it to others. Venus de Milo is the emblem in our logo; she stands for love, mutual support and assistance. Don't create problems for others — live your life and let others live theirs without being a shithead.
 What's your interview process?
 Initial contact will be made via email by one of our recruiters to better understand your relevant experience, ambitions, and interests that could make you a good fit for Muse.
 The next step is an interview with HR. A recruiter will ask about your relevant skills and experience, as well as what you're looking for in a new opportunity. During the conversation you'll learn more about the role and our culture. Feel free to ask our recruiters any questions you have at this point.

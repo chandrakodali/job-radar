@@ -1,9 +1,9 @@
 New Blog: Microsoft agent-framework Compromised Twice on PyPI 18 Nov 2026
 For hands-on security engineering teams
 Software supply chain security at machine speed
-Block malicious packages before they run, on developer machines, AI coding agents, code repositories and CI/CD. Every install is checked against real-time threat intel and your policy, managed from the CLI or Git.
+Block malicious packages before they run, on developer machines, AI coding agents, code repositories and CI/CD.
 Start Now Talk to a human
-Open core. Free to start: protect your first endpoint or repository, no credit card. SOC 2 Type II · ISO 27001 (SafeDep trust center)
+Free to start, no credit card. SOC 2 Type II · ISO 27001 (SafeDep trust center)
 Prefer your agent?
 Help me roll out SafeDep. Install the SafeDep skill (npx skills add safedep/skills) and learn what SafeDep can do. Then interview me about our setup: developer machines, code repositories, CI/CD, AI coding agents and the tools we already use to manage them. Propose a rollout plan that fits, then carry it out with me. Ask before each change, and tell me which steps need me.
 Our research, as covered by
@@ -15,17 +15,20 @@ tl;dr sec
 The Hacker News
 A real attack, replayed
 Three real attacks, and the control that stopped each one
-SafeDep checks every install with three controls: threat intel for known threats, a cooldown that holds back fresh releases, and a sandbox for install scripts. Pick an attack to replay it.
+Every install passes three controls, so an attack that gets past one is stopped by the next. Pick an attack to replay it.
 litellm 1.107.0 PyPI · 21 Oct 2026
 Held by the cooldown, then blocked everywhere once SafeDep confirmed it
-Never ran: the payload on every Python start, the credential theft
+The payload never ran at Python start, and no credentials were stolen.
 SafeDep Cloud · 4 hosts · 3 stopped · 1 needs action Read the analysis
 Everything external
-See, protect and investigate everything your developers and agents bring in
-Visibility Every machine, agent and pipeline reports what it installs from open source.
-Protection Threat intel and your policy check every install at every point. Malicious ones stop there.
-Investigation When an attack makes the news, “Am I affected?” is one query.
-See how it works
+Discover, protect and investigate
+Every package, extension, MCP server and skill your developers and AI agents bring in, on one platform.
+Visibility
+Every machine, agent and pipeline reports what it installs from open source.
+Protection
+Threat intel and your policy check every install at every point. Malicious ones stop there.
+Investigation
+When an attack makes the news, “Am I affected?” is one query.
 Developer Security
 Secure your developer infrastructure
 It fits the stack you already run, and developers keep their tools.
@@ -36,14 +39,13 @@ AI agents SafeDep MCP
 Repositories GitHub App
 CI/CD GitHub Actions
 protection on by default
-Day 1 See Everything already installed
-Visibility
+Day 1 Discover Everything already installed
 AI tools found
 Coding agents 6
 MCP servers 37
 Agent skills 112
 IDE extensions 214
-418 laptops · 62 repos
+418 machines · 62 repos
 Week 1 Tune Your guardrails, managed like code
 Policy
 policy.yaml · merged
@@ -52,18 +54,16 @@ Hold releases under 24h old
 Fail pull requests on malware
 live on every point
 Every day Verify Proof it works, on the record
-Investigation
 this week · every point
 Installs checked 12,480
 Stopped at install 9
 Needs your team 0
 Am I affected? No · stopped on all 3 hosts
 ask with SQL or your agent
-threat intel keeps the policy current
 Start Now See how Developer Security works
 Threat Intel
 Stream supply chain threat intel into your SOC
-For security operations teams: the intel that protects SafeDep Cloud customers. Malicious packages, attacker domains, C2 URLs and the campaigns behind them, confirmed by SafeDep research.
+The intel that protects SafeDep Cloud customers, human verified and on average 14 hours ahead of public advisories.
 Get Threat Intel for your SOC Browse the public hub
 Recently confirmed by SafeDep Indicators shown defanged.
 Confirmed: 2026-11-18 Type: PyPI Indicator: agent-framework@1.26.1 Campaign:
@@ -73,7 +73,7 @@ Confirmed: 2026-09-23 Type: npm Indicator: @memtensor/memos-cloud-openclaw-plugi
 Confirmed: 2026-09-30 Type: IP Indicator: 23.27.20[.]187 Campaign: PolinRider
 Download a free sample: ioc.csv, 1,066 indicators
 Open source
-Open core.
+Open source you can verify.
 A unified platform for your team.
 Every enforcement point is open source. Your security team can read the code, run it on one endpoint today and verify what it does. When you are ready, SafeDep Cloud brings every point under one platform.
 Start with open source · free
@@ -113,7 +113,6 @@ All research on the blog
 Ship code. Not malware.
 Start free with your first endpoint or repository, then roll out across your organization at your own pace.
 Start Now Read the docs
-Free to start, no credit card. SOC 2 Type II · ISO 27001 (SafeDep trust center)
 Need help? Talk to a human
 Pricing
 Blog

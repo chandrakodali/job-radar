@@ -6,87 +6,81 @@ Related tags include #resume and #portfolio as resources to enhance your #career
 Older #career posts
 … 75
 … 100
+Frontend Developers Are Going to Be Fine... Right?
+Erik Hanchett
+Nov 18
+# webdev
+# frontend
+# ai
+# career
+10 reactions
+1 comment
+4 min read
+I built a game that teaches system design by breaking things
+Umar Shaikh
+# systemdesign
+# beginners
+Add Comment
+3 min read
+The best time to apply for jobs, from 300,000 real job postings
+Jones
+# jobs
+# productivity
+# data
+Stop Endorsing Java Developers. Start Publishing Their Failure Receipts.
+Roveena Dsouza
+# discuss
+# java
+# softwareengineering
+From Freelance Creative Work to Building with Generative AI: My Journey as a Tech Student
+Hasnath Reema
+2 min read
 Could I Still Do This From Scratch?
 Data shows devs are slower with AI
 Daniel Nwaneri
 Nov 17
-# discuss
-# ai
 # programming
-# career
-47 reactions
-22 comments
-3 min read
-Part 6: The Walkthrough That Only Worked on My Machine
-Nnamdi Felix Ibe
-Nov 18
-12 reactions
-Add Comment
-12 min read
-Killed by Acronyms
-Felix Coutinho
-Nov 16
-# development
-# english
-9 reactions
-2 comments
-7 min read
-The Arrogance of Having Outgrown Arrogance
-Adam - The Developer ✨
-# learning
-28 reactions
-1 comment
-5 min read
-Do cybersecurity certifications raise pay? Postings that name one advertise 13.8% less (Nov 2026)
-CyberJobs.cc
-# cybersecurity
-# security
-# datascience
-2 min read
-What Is a Forward Deployed Engineer? Role, Pay and Who Hires
-Szymon Paluch
-# softwareengineering
-# agents
-[백엔드 모의면접] 중복 결제는 어떻게 막을까?
-dev_interview_king
+65 reactions
+35 comments
+You Got Rejected. Don’t Rewrite Your Entire Interview Prep.
+Emily Woods
 # interview
-# backend
-1 min read
-Save us from this hell: how a magazine designer ended up in a Rails shop
-Caio Andrade
-# rails
-# webdev
-# beginners
-4 min read
-The Staff Survey Says It Is Anonymous and Your Team Has Four People
-Asael Shinder
-# asaelshinder
-# feedback
-# workplace
-This 29-Line Contract Failed 18 Checks. A Quick Read Would Have Missed Most of Them.
-Capafy Factory
-# freelance
-# contracts
-# tutorial
+# learning
 6 min read
-A Colleague in Another Team Copies Your Manager Into Every Email to You
-# communication
-# teamwork
-Someone Who Joined After You Got the Promotion You Wanted
-# promotion
-# growth
-Your Mentee's Manager Has Asked You How They Are Getting On
-# mentorship
-# trust
-What Is an "Offer-Holder Mentor"? Japan's Strangest Career-Support Job, Explained
-Yama
-# japan
-# worklife
-I Ran a Client Contract Through a Checker Before Signing. It Found 4 Critical Problems.
+Stop putting your military rank as your job title
+Sarah Mitchell
+# resume
+Data analyst cover letter, with an example you can adapt
+Frank @ Four-Leaf
+7 min read
+Where the hours go: what the research says about looking for your own information
+Juan Pardilla
+# research
+8 min read
+Oct 9. The biggest build day of the portfolio. About 50 commits
+Abdul Wasay Lodhi
+# showdev
+# buildinpublic
+Carnegie Mellon CS Courses Are Free on YouTube. Start With the 2 It Left Off
+Alan West
+# computerscience
+34 PRs abiertos con diálogo activo: el manual de comunicación con mantainers
+Edison Flores
+# opensource
+Pasarela FP Superior a Ingeniería Informática en España (2026/27): convalidaciones ECTS, notas de corte y modelo PAU
+Pablo Cirre
+# opendata
+# spanish
+# education
+How to use a career fair to get an internship
+Dataford Research
+# internship
+# students
+# networking
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
-How I Feel about the Grace Hopper Celebration Getting Cancelled
 Remembering Steven Schrembeck
 Frontend Isn't Dead. But the Job Title Is Changing
+How I Feel about the Grace Hopper Celebration Getting Cancelled
 The Death of Freelance Platforms: Why Upwork & Fiverr Stocks Are Collapsing in the AI Era
 How to Become a Tech Conference Speaker (And Why You Might Regret It)
 People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?
@@ -97,18 +91,18 @@ Salesforce SMTS Interview Experience (Offer Accepted)
 Don't Be a Proxy Between Me and Your AI
 Are we software engineers doomed? Yes, because of AI!
 A Simple Guide to Passing the Claude Certified Developer Exam
-The Software Entropy in the AI Era
 AI Reduced the Cost of Coding. Did It Increase the Cost of Thinking?
-What an Anthropic hiring manager stopped asking candidates to do
 My AI-assisted coding interview was a lesson in reading unfamiliar code
+What an Anthropic hiring manager stopped asking candidates to do
+The Software Entropy in the AI Era
+Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
 The Ever Changing Profession of Software Engineering
-Company career page scraper: every open job from any company, by name or domain
-No Human Will Ever Write Code Better Than LLMs? Better at What?
-Emotional Deadlocks: When Two People Wait for Each Other to Change First
+DuckLake 1.0 and Iceberg 1.11: What a Data Engineer Should Know
 DevOps / SRE Interview Master Guide
 TopAccess: Freelancer Review
-DuckLake 1.0 and Iceberg 1.11: What a Data Engineer Should Know
-Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
+Emotional Deadlocks: When Two People Wait for Each Other to Change First
+No Human Will Ever Write Code Better Than LLMs? Better at What?
+Company career page scraper: every open job from any company, by name or domain
 We're a place where coders share, stay up-to-date and grow their careers.
 Log in
 Create account

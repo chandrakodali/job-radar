@@ -1,0 +1,64 @@
+Grid inspection
+from video
+KanopyAI automates inspection, quoting, and auditing of vegetation and assets along power lines using computer vision and AI.
+How It Works
+From video to actionable insights in four steps
+Upload any video
+Drone or vehicle footage from any standard camera
+Drop video files here
+MP4, MOV, AVI
+Upload Your Video
+Drone, dashcam, or phone — any standard video
+Step 01
+Simply drag and drop your video files to get started
+Generate 3D reconstruction
+AI creates precise 3D models from your video
+Step 02
+Watch as AI transforms 2D footage into detailed 3D point clouds
+Analyze clearances and risk
+Automatic detection of encroachments and hazards
+Step 03
+Automated risk assessment identifies potential issues instantly
+Explore results, plan the work
+Generate compliance documentation instantly
+circuit_report · 18.4 mi · 740 spans
+0.00 mi
+Line within 2 ft
+Trees within 4 ft
+0 spans
+Hold half the risk
+Line by closest vegetation
+< 2 ft 2–4 ft 4–10 ft Clear
+Top spans · line within 2 ft
+Span 0418
+212 ft
+Span 0133
+164 ft
+Span 0271
+131 ft
+Span 0092
+97 ft
+Export PDF CSV GeoJSON Shapefile
+Step 04
+From circuits to spans to individual trees, ranked by risk, then export in one click to PDF, CSV, GeoJSON, and more.
+Video recording guide ↗
+Vegetation management, fully automated.
+Most inspection tools require expensive hardware, extended mobilization and weeks of processing. KanopyAI runs on cameras you already own: dashcams, drones or handheld devices. It turns ordinary footage into LiDAR-grade clearance measurements, hazard flags and GPS-tagged work orders within hours.
+Built for utilities managing thousands of miles of right-of-way, our platform delivers consistent, auditable results at scale. Every drive-by and fly-by becomes an opportunity to refresh the vegetation and asset record.
+Hardware
+No LiDAR
+Or sensors required. Runs on the cameras you already own
+Turnaround
+Hours
+From footage to insights, not weeks
+Clearance accuracy
+2–4 in
+LiDAR-grade measurements from standard video
+Species identification
+Tree health
+High-fidelity species ID with health and growth signals
+Get started
+Ready to transform your vegetation management?
+Already deployed on… 2,936 miles of power line
+Backed by
+Combinator

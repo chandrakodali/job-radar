@@ -1,12 +1,67 @@
 Open positions
 03 roles
-Robotics Researcher
-As a Robotics Researcher at Shiraz AI, you’ll develop models and learning methods that help robots learn new tasks quickly and perform reliably in changing manufacturing environments. You’ll combine research on robot foundation models, imitation learning, and reinforcement learning with hands-on work training and testing policies on physical robots.
-You will design experiments and develop robot foundation models and investigate failures to understand what limits performance. Working closely with our deployment and hardware engineers, you’ll turn research ideas into measurable improvements in adaptability, task success, and reliability, while using challenges from real deployments to guide new research directions.
-Email us your resume at founders@shiraz.ai .
+Research
+Founding Robotics Researcher
+Design experiments, test them on real robots, and figure out why things fail.
+We’re looking for a Founding Robotics Researcher with a deep understanding of robotics and a hands-on approach to research. Someone who likes designing experiments, testing them on real robots, and figuring out why things fail.
+At Shiraz AI, our research is driven by deployment. We’re working to shorten the time it takes to get a robot working reliably on a new task, and what we learn in factories shapes what we work on next.
+If you’re excited about foundation models, robot learning, and making robots work outside a controlled lab, we’d love to meet you.
+I. What you’ll do
+Develop robot foundation models and learning methods that shorten the time it takes to deploy a robot on a new task.
+Train and evaluate policies in simulation and on real robots, using reinforcement learning, imitation learning, and vision-language-action models.
+Design experiments that show why a policy works or fails. Trace failures through the whole system, from model outputs down to control loops and hardware.
+Work closely with our deployment and hardware engineers. Turn failures on the factory floor into research questions.
+Help set Shiraz AI’s research direction as a founding member of the research team.
+II. What we’re looking for
+Strong grounding in both robotics fundamentals and modern AI.
+A track record of original research in robot learning, foundation models, world models, reinforcement learning, or a related area, with experience taking a research question from initial formulation through experimental validation.
+Hands-on experience training policies on real robots, including collecting data, building training pipelines, and debugging failures that only show up on hardware.
+Rigorous experimental habits, including strong baselines, targeted ablations, and honest evaluation.
+Experience with large-scale model training is a plus.
+III. How to apply
+Email founders@shiraz.ai with your resume and an example of your work, such as a paper, a repo, or a video of a robot you got working.
+Apply for this role
+Deployment
 Robot Deployment Engineer
-As a Robot Deployment Engineer at Shiraz AI, you’ll bring our robots into customer factories and make them dependable in everyday production. You’ll work directly with customers and operators to understand their workflows, set up robotic workcells, integrate robots with existing equipment, and validate performance under real production conditions.
-You’ll diagnose problems across software, sensing, controls, and hardware; build tools for testing and monitoring; and drive improvements in task success, throughput, and uptime. You’ll also help collect training data, develop operating and maintenance procedures, and work with researchers and hardware engineers to turn lessons from the factory floor into lasting improvements to our systems.
+Take a robot into a customer’s factory and make it work reliably in everyday production.
+We’re looking for a Robot Deployment Engineer who can take a robot into a customer’s factory and make it work reliably in everyday production. Someone with strong robotics and software skills who likes being on the factory floor, owning the result, and figuring out why things break.
+At Shiraz AI, our research is driven by deployment, and deployment engineers are where that starts. What you see in factories shapes what our researchers and hardware engineers work on next.
+If you’re excited about learning-based robots, complex systems, and making robots work in real manufacturing environments, we’d love to meet you.
+Own robot deployments in customer factories, from workcell setup and integration with existing equipment to commissioning and validation under real production conditions.
+Work directly with customers and operators to understand their workflows and what the robot needs to do.
+Diagnose problems across hardware, software, cameras and perception, and controls to improve task success, throughput, and uptime.
+Build tools for testing and monitoring, and write the operating and maintenance procedures that make each deployment faster than the last.
+Collect training data and work with researchers and hardware engineers to turn lessons from the floor into lasting improvements.
+Excellent debugging skills across hardware and software. You can track down system-level failures that don’t have an obvious cause.
+Strong background in robotics, computer science, electrical engineering, or a related field.
+Hands-on experience integrating, calibrating, and deploying robotic systems, including cameras and perception systems.
+Hands-on electronics skills: wiring, sensors, actuators, and motion control.
+Enough mechanical design to build fixtures, mounts, and simple tooling in CAD.
+Comfort working directly with customers and operators, and turning what you see on their floor into practical fixes.
+You take ownership and work well on your own, including on site.
+Experience in factories, or with PLCs, industrial I/O, robot safety systems, or embedded systems, is a plus.
+Email founders@shiraz.ai with your resume and an example of your work, such as a system you deployed, a tool you built, or a video of a robot you got working.
+Hardware
 Mechanical Engineer
-As a Mechanical Engineer at Shiraz AI, you’ll design and build the hardware that lets our robots take on varied manufacturing tasks. Your work will span robot mechanisms, grippers, fixtures, and workcells, taking ideas from initial concepts and CAD through working prototypes and hardware ready for deployment.
-You’ll select and integrate actuators, sensors, and mechanical components; build and troubleshoot prototypes; and test designs for performance, durability, and ease of maintenance. Working with suppliers and our research and deployment teams, you’ll refine designs for manufacturing and assembly, manage drawings and bills of materials, and develop tooling and build procedures that make our hardware straightforward to reproduce and maintain.
+Design robotic hardware, build it, and make it work reliably on a factory floor.
+We’re looking for a Mechanical Engineer who can design robotic hardware, build it, and make it work reliably on a factory floor. Someone who likes moving fast from CAD to prototype and fixing what breaks.
+At Shiraz AI, our research is driven by deployment. The hardware you build is what lets our robots take on new tasks in real factories, and what we learn there shapes what you design next.
+If you’re excited about robotics, mechanical design, and building hardware that holds up in real manufacturing environments, we’d love to meet you.
+Own the design of robot mechanisms, grippers, end effectors, fixtures, and workcells, from concept through prototypes to hardware ready for deployment.
+Select and integrate actuators, sensors, cameras, and motion components.
+Build and test prototypes for performance, durability, and ease of maintenance.
+Work with suppliers on manufacturing and assembly, and own drawings, bills of materials, and build procedures.
+Work with researchers and deployment engineers to turn problems on the factory floor into better designs.
+Strong background in mechanical engineering, mechatronics, robotics, or a related field.
+Experience designing, prototyping, and testing mechanical or electromechanical systems.
+Proficiency in CAD tools such as SolidWorks, Fusion 360, or Onshape.
+Solid understanding of materials, manufacturing processes, tolerances, and FEA.
+Hands-on fabrication skills, and the ability to figure out why a design fails in the field and fix it.
+A strong sense of ownership.
+Experience designing grippers or end effectors is a plus.
+Email founders@shiraz.ai with your resume and an example of your work, such as a mechanism you designed, a prototype you built, or photos of hardware you shipped.
+Note Open application
+Ready to build the future of robotics?
+If none of these roles fits you exactly but you ship real robots, write to us anyway with your resume and an example of your work.
+founders@shiraz.ai
+Direct to the founders
