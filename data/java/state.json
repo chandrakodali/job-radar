@@ -11994,17 +11994,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 82,
+   "n": 83,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 82,
+   "n": 83,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 82,
+   "n": 83,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13331,8 +13331,8 @@
    405
   ],
   "2026-11-18": [
-   30,
-   129
+   45,
+   185
   ]
  },
  "resolved": {
@@ -64364,6 +64364,7 @@
   "ashby:ashby:9225e1fa-66aa-45d2-bf92-2ac653744434": "2026-11-14",
   "ashby:astera:d10d72c9-34ce-43dc-9e75-24a4b1941fcf": "2026-11-14",
   "ashby:ataraxis-ai:6548cc32-6db1-452c-b0b2-516e042fe8d2": "2026-11-16",
+  "ashby:atlas:8acfd23c-fd87-4322-bed1-4258b7199c3d": "2026-11-18",
   "ashby:aureliussystems:3eeddb2b-b0ab-49c9-8686-7a9e08205023": "2026-11-16",
   "ashby:aureliussystems:500bb2fa-be4a-4bfd-95ca-4feff5da5a83": "2026-11-16",
   "ashby:aurora-operations-inc:30053b24-b166-4ce6-b743-55d4cee7b8dc": "2026-11-16",
@@ -67485,6 +67486,7 @@
   "lever:jobgether:38070733-c917-4ca7-ad7d-f9f646f7b9d4": "2026-11-14",
   "lever:jobgether:41c2eaaf-fd24-4d0f-9938-9b97d6cb238c": "2026-11-16",
   "lever:jobgether:423eec1b-a832-47de-84a5-476f5e085488": "2026-11-14",
+  "lever:jobgether:4a41391b-d46c-4831-b8ba-edc37c3b65a6": "2026-11-18",
   "lever:jobgether:4adde91c-124f-4b1a-ad24-a7f1d5c0bfad": "2026-11-14",
   "lever:jobgether:4c6bcc39-a22c-4a25-a300-00c79bf53526": "2026-11-14",
   "lever:jobgether:4d0e9365-5e2d-4992-889a-3a073f97e4e3": "2026-11-14",
@@ -69826,10 +69828,10 @@
  "source_last": {
   "hn": "2026-11-18T02:15:35+00:00",
   "remoteok": "2026-11-18T05:18:02+00:00",
-  "usajobs": "2026-11-18T03:16:19+00:00",
-  "workable_search": "2026-11-18T03:16:19+00:00",
-  "wwr": "2026-11-18T05:18:02+00:00",
-  "yc": "2026-11-18T03:16:19+00:00"
+  "usajobs": "2026-11-18T06:15:28+00:00",
+  "workable_search": "2026-11-18T06:15:28+00:00",
+  "wwr": "2026-11-18T06:15:28+00:00",
+  "yc": "2026-11-18T06:15:28+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
