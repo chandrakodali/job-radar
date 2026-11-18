@@ -11879,7 +11879,7 @@
  },
  "coverage_prev": {
   "adp:e7b68190-d64b-4649-81ca-3ffb914ba1fe|19000101_000001": 3,
-  "ashby:applied": 334,
+  "ashby:applied": 335,
   "ashby:aurora-operations-inc": 85,
   "ashby:rivianvw.tech": 178,
   "ashby:serverobotics": 22,
@@ -11887,10 +11887,10 @@
   "dayforce:jtekt|candidateportal": 51,
   "dayforce:kubota|candidateportal": 48,
   "dspace:www.dspace.com|en/inc/home/career/jobfinder/stellen.cfm": 62,
-  "eightfold:eaton|eaton.com": 366,
-  "eightfold:infineon|infineon.com": 336,
-  "eightfold:johndeere|johndeere.com": 197,
-  "eightfold:qualcomm|qualcomm.com": 393,
+  "eightfold:eaton|eaton.com": 349,
+  "eightfold:infineon|infineon.com": 323,
+  "eightfold:johndeere|johndeere.com": 192,
+  "eightfold:qualcomm|qualcomm.com": 315,
   "greenhouse:altentechnologyusa": 230,
   "greenhouse:archer56": 77,
   "greenhouse:botauto": 20,
@@ -11910,7 +11910,7 @@
   "greenhouse:sonatus": 16,
   "greenhouse:stackav": 16,
   "greenhouse:torcrobotics": 47,
-  "greenhouse:waymo": 375,
+  "greenhouse:waymo": 374,
   "greenhouse:xosinc": 13,
   "icims:careers-jobyaviation.icims.com": 155,
   "icims:expleo-jobs-us-en.icims.com": 11,
@@ -11920,7 +11920,7 @@
   "jibe:careers.garmin.com": 447,
   "jibe:careers.international.com": 158,
   "jibe:careers.na.panasonic.com": 435,
-  "jibe:careers.rivian.com": 876,
+  "jibe:careers.rivian.com": 803,
   "jobvite:sews": 45,
   "ldsite:careers.dauch.com/sitemap.xml|/job/.+/(\\d+)/?$": 381,
   "lever:aeva": 45,
@@ -11931,52 +11931,52 @@
   "lever:weride": 12,
   "lever:woven-by-toyota": 133,
   "lever:zoox": 242,
-  "mcloud:2016|careers.stellantis.com": 477,
-  "oracle:edbz.fa.us2.oraclecloud.com|cx": 342,
-  "oracle:efds.fa.em5.oraclecloud.com|cx_1": 451,
-  "oracle:ehth.fa.em2.oraclecloud.com|cx_2001": 56,
-  "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|cx_1": 383,
+  "mcloud:2016|careers.stellantis.com": 478,
+  "oracle:edbz.fa.us2.oraclecloud.com|cx": 337,
+  "oracle:efds.fa.em5.oraclecloud.com|cx_1": 479,
+  "oracle:ehth.fa.em2.oraclecloud.com|cx_2001": 66,
+  "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|cx_1": 413,
   "oracle:hcal.fa.us2.oraclecloud.com|cx_1001": 29,
-  "oracle:hctz.fa.us2.oraclecloud.com|cx_1001": 329,
-  "oracle:hcwt.fa.us2.oraclecloud.com|cx": 79,
+  "oracle:hctz.fa.us2.oraclecloud.com|cx_1001": 313,
+  "oracle:hcwt.fa.us2.oraclecloud.com|cx": 82,
   "phenom:careers.bose.com|us/en": 105,
   "phenom:careers.brp.com|global/en": 277,
   "phenom:careers.honda.com|us/en": 326,
-  "phenom:careers.quest-global.com|global/en": 601,
-  "phenom:careers.teksystems.com|us/en": 445,
+  "phenom:careers.quest-global.com|global/en": 653,
+  "phenom:careers.teksystems.com|us/en": 433,
   "sfrmk:careers-americas.hyundai.com": 260,
   "sfrmk:careers.agcocorp.com": 336,
-  "sfrmk:careers.capgemini.com": 5053,
+  "sfrmk:careers.capgemini.com": 5071,
   "sfrmk:careers.knorr-bremse.com": 377,
-  "sfrmk:careers.te.com": 2423,
+  "sfrmk:careers.te.com": 2424,
   "sfrmk:jobs.avl.com": 212,
-  "sfrmk:jobs.bmwgroup.com": 746,
+  "sfrmk:jobs.bmwgroup.com": 747,
   "sfrmk:jobs.dana.com": 350,
   "sfrmk:jobs.doosan.com": 185,
   "sfrmk:jobs.lear.com": 296,
   "sfrmk:jobs.paccar.com": 327,
-  "sfrmk:jobs.schaeffler.com": 675,
-  "sfrmk:jobs.tenneco.com": 258,
+  "sfrmk:jobs.schaeffler.com": 671,
+  "sfrmk:jobs.tenneco.com": 259,
   "sfrmk:jobs.thyssenkrupp.com": 817,
-  "sfrmk:jobs.volkswagen-group.com": 1076,
+  "sfrmk:jobs.volkswagen-group.com": 1075,
   "sfrmk:jobs.volvocars.com": 51,
-  "sfrmk:jobs.volvogroup.com": 728,
-  "sfrmk:jobs.zf.com": 775,
-  "sfrmk:join.cnh.com": 2011,
-  "sfrmk:komatsu.jobs": 289,
+  "sfrmk:jobs.volvogroup.com": 729,
+  "sfrmk:jobs.zf.com": 778,
+  "sfrmk:join.cnh.com": 2023,
+  "sfrmk:komatsu.jobs": 288,
   "sfrmk:us-careers.crown.com": 530,
   "smartrecruiters:aumovio": 18,
   "smartrecruiters:boschgroup": 353,
-  "smartrecruiters:continental": 83,
+  "smartrecruiters:continental": 82,
   "smartrecruiters:kostalgroup": 6,
   "smartrecruiters:renesaselectronics": 222,
-  "smartrecruiters:wabtec": 340,
+  "smartrecruiters:wabtec": 333,
   "taleo:textron|textron": 75,
   "teamtailor:careerunitedstates.autoliv.com": 60,
   "workable:new-flyer": 64,
   "workable:pony-dot-ai": 9,
   "workable:vectornorthamerica": 6,
-  "workday:@magna|wd3|magna": 596,
+  "workday:@magna|wd3|magna": 595,
   "workday:@mazdausa|wd5|mazda": 13,
   "workday:@microchiphr|wd5|external": 237,
   "workday:adient|wd3|external": 87,
@@ -11986,7 +11986,7 @@
   "workday:ambarella|wd108|ambarella": 20,
   "workday:analogdevices|wd1|external": 309,
   "workday:aptiv|wd5|aptiv_careers": 40,
-  "workday:astemo|wd102|global_career_site": 362,
+  "workday:astemo|wd102|global_career_site": 363,
   "workday:borgwarner|wd5|borgwarner_careers": 60,
   "workday:brunswick|wd1|search": 326,
   "workday:carrier|wd5|jobs": 388,
@@ -12012,7 +12012,7 @@
   "workday:sensata|wd1|sensata-careers": 39,
   "workday:stoneridge|wd5|careers": 5,
   "workday:terex|wd1|terexcareers": 459,
-  "workday:toyota|wd503|tmna": 20,
+  "workday:toyota|wd503|tmna": 114,
   "workday:valeo|wd3|valeo_jobs": 88,
   "workday:woodward|wd5|woodward": 84
  },
@@ -12662,8 +12662,9 @@
    "since": "2026-11-11"
   },
   "greenhouse:quip": {
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-17"
   },
   "greenhouse:rdccareers": {
@@ -13237,8 +13238,9 @@
    "since": "2026-11-11"
   },
   "sfrmk:careers.dovercorporation.com": {
+   "disabled_until": "2026-11-25",
    "err": "robots.txt disallows /job_sitemap.xml",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-18"
   },
   "sfrmk:careers.qualitestgroup.com": {
@@ -13652,7 +13654,7 @@
    "since": "2026-11-11"
   }
  },
- "found_cursor": 4241,
+ "found_cursor": 7241,
  "last_digest": "2026-11-17",
  "missed_companies": {},
  "missing_once": {
@@ -14324,7 +14326,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "afterschoolmatters.applytojob.com": {
    "r": [
@@ -15846,7 +15848,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "arc-onesolutions.icims.com": {
    "r": [
@@ -17080,7 +17082,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "bitwise.catsone.com": {
    "r": [],
@@ -42870,7 +42872,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "flitsmeister.homerun.co": {
    "r": [],
@@ -42887,7 +42889,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "flyspaceprod.applytojob.com": {
    "r": [
@@ -44973,7 +44975,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "haleon.eightfold.ai": {
    "r": [
@@ -51515,7 +51517,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "lumerate.breezy.hr": {
    "r": [
@@ -52332,7 +52334,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "mayflower.jobs.personio.de": {
    "r": [
@@ -55618,7 +55620,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "palomarproducts.applytojob.com": {
    "r": [
@@ -57261,7 +57263,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "robertsrecruiting.catsone.com": {
    "r": [],
@@ -60685,7 +60687,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "tehora.zohorecruit.com": {
    "r": [
@@ -62853,7 +62855,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "turkeyanaclinic.zohorecruit.com": {
    "r": [
@@ -66589,7 +66591,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "zgfarchitects.applytojob.com": {
    "r": [
@@ -68402,6 +68404,7 @@
   "eightfold:qualcomm|qualcomm.com:446717767593": "2026-11-11",
   "eightfold:qualcomm|qualcomm.com:446717771033": "2026-11-11",
   "eightfold:qualcomm|qualcomm.com:446717807401": "2026-11-13",
+  "eightfold:qualcomm|qualcomm.com:446717859953": "2026-11-18",
   "eightfold:qualcomm|qualcomm.com:446717888640": "2026-11-11",
   "eightfold:qualcomm|qualcomm.com:446717991860": "2026-11-14",
   "eightfold:qualcomm|qualcomm.com:446718018413": "2026-11-11",
@@ -68445,6 +68448,7 @@
   "eightfold:qualcomm|qualcomm.com:446719670532": "2026-11-11",
   "eightfold:qualcomm|qualcomm.com:446719722595": "2026-11-12",
   "eightfold:qualcomm|qualcomm.com:446719743452": "2026-11-12",
+  "eightfold:qualcomm|qualcomm.com:446719744913": "2026-11-18",
   "eightfold:qualcomm|qualcomm.com:446719823376": "2026-11-11",
   "eightfold:qualcomm|qualcomm.com:446719823591": "2026-11-11",
   "eightfold:qualcomm|qualcomm.com:446719874307": "2026-11-13",
@@ -70223,6 +70227,9 @@
   "greenhouse:ursamajor:4723386005": "2026-11-17",
   "greenhouse:ursamajor:4738882005": "2026-11-12",
   "greenhouse:ursamajor:4755091005": "2026-11-17",
+  "greenhouse:ursamajor:4755588005": "2026-11-18",
+  "greenhouse:ursamajor:4755593005": "2026-11-18",
+  "greenhouse:ursamajor:4755600005": "2026-11-18",
   "greenhouse:valaratomics:4377651009": "2026-11-12",
   "greenhouse:valaratomics:4410274009": "2026-11-12",
   "greenhouse:valaratomics:4410316009": "2026-11-12",
@@ -70887,6 +70894,7 @@
   "icims:expleo-jobs-gb-en.icims.com:56325": "2026-11-12",
   "icims:expleo-jobs-gb-en.icims.com:56407": "2026-11-12",
   "icims:expleo-jobs-gb-en.icims.com:57730": "2026-11-12",
+  "icims:expleo-jobs-gb-en.icims.com:57770": "2026-11-18",
   "icims:expleo-jobs-us-en.icims.com:54847": "2026-11-12",
   "icims:expleo-jobs-us-en.icims.com:55707": "2026-11-12",
   "icims:expleo-jobs-us-en.icims.com:55708": "2026-11-12",
@@ -72816,6 +72824,7 @@
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73326": "2026-11-11",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73329": "2026-11-13",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73352": "2026-11-16",
+  "oracle:efds.fa.em5.oraclecloud.com|CX_1:73382": "2026-11-18",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73392": "2026-11-12",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73408": "2026-11-11",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73410": "2026-11-13",
@@ -72883,6 +72892,7 @@
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73956": "2026-11-12",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73966": "2026-11-16",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73985": "2026-11-16",
+  "oracle:efds.fa.em5.oraclecloud.com|CX_1:73986": "2026-11-18",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:74003": "2026-11-16",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:74041": "2026-11-11",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:74066": "2026-11-13",
@@ -73140,6 +73150,7 @@
   "oracle:hctz.fa.us2.oraclecloud.com|CX_1001:2507111": "2026-11-11",
   "oracle:hctz.fa.us2.oraclecloud.com|CX_1001:2507163": "2026-11-11",
   "oracle:hctz.fa.us2.oraclecloud.com|CX_1001:2507192": "2026-11-17",
+  "oracle:hctz.fa.us2.oraclecloud.com|CX_1001:2507209": "2026-11-18",
   "oracle:hctz.fa.us2.oraclecloud.com|CX_1001:2507216": "2026-11-11",
   "oracle:hctz.fa.us2.oraclecloud.com|CX_1001:2507274": "2026-11-18",
   "oracle:hcwp.fa.us2.oraclecloud.com|CX:2015049": "2026-11-16",
@@ -73372,6 +73383,7 @@
   "phenom:careers.honda.com|us/en:AHMAHMUS13393EXTERNALENUS": "2026-11-17",
   "phenom:careers.honda.com|us/en:AHMAHMUS13406EXTERNALENUS": "2026-11-13",
   "phenom:careers.honda.com|us/en:AHMAHMUS13414EXTERNALENUS": "2026-11-14",
+  "phenom:careers.honda.com|us/en:AHMAHMUS13422EXTERNALENUS": "2026-11-18",
   "phenom:careers.honda.com|us/en:AHMAHMUS1911EXTERNALENUS": "2026-11-12",
   "phenom:careers.honda.com|us/en:AHMAHMUS7409EXTERNALENUS": "2026-11-11",
   "phenom:careers.honda.com|us/en:AHMAHMUS781EXTERNALENUS": "2026-11-13",
@@ -73956,6 +73968,7 @@
   "rippling:cintal:4d3d3a64-a96f-409e-a2f7-02f03cf04214": "2026-11-12",
   "rippling:cintal:504b1282-c849-408f-8be5-6f2b0fa6bd79": "2026-11-12",
   "rippling:cintal:6d2a01a2-a6b0-48df-8c00-5e201170be77": "2026-11-11",
+  "rippling:cintal:7ab266d7-78d2-4291-a3a1-2fe7e8990c38": "2026-11-18",
   "rippling:cintal:9a28d811-03d3-4fde-a3bb-6ddd2b539df4": "2026-11-11",
   "rippling:cintal:a73f739d-5c9b-4b28-9f9f-e9505897deb4": "2026-11-13",
   "rippling:cleo-robotics:951f41f3-9b0e-4299-935b-057bc8947dd1": "2026-11-15",
@@ -74239,6 +74252,7 @@
   "sfrmk:careers.agcocorp.com:1450819000": "2026-11-16",
   "sfrmk:careers.agcocorp.com:1450871800": "2026-11-16",
   "sfrmk:careers.agcocorp.com:1451437400": "2026-11-17",
+  "sfrmk:careers.agcocorp.com:1451672000": "2026-11-18",
   "sfrmk:careers.anglogoldashanti.com:1386685233": "2026-11-12",
   "sfrmk:careers.aps.com:1448125200": "2026-11-12",
   "sfrmk:careers.capgemini.com:1001194901": "2026-11-11",
@@ -75217,6 +75231,7 @@
   "sfrmk:careers.capgemini.com:1446006733": "2026-11-11",
   "sfrmk:careers.capgemini.com:1446073333": "2026-11-18",
   "sfrmk:careers.capgemini.com:1446081033": "2026-11-11",
+  "sfrmk:careers.capgemini.com:1446092733": "2026-11-18",
   "sfrmk:careers.capgemini.com:1446116433": "2026-11-11",
   "sfrmk:careers.capgemini.com:1446127133": "2026-11-11",
   "sfrmk:careers.capgemini.com:1446203933": "2026-11-13",
@@ -75843,6 +75858,7 @@
   "sfrmk:careers.capgemini.com:1457988033": "2026-11-18",
   "sfrmk:careers.capgemini.com:1458105733": "2026-11-18",
   "sfrmk:careers.capgemini.com:1458110033": "2026-11-17",
+  "sfrmk:careers.capgemini.com:1458110533": "2026-11-18",
   "sfrmk:careers.capgemini.com:1458115433": "2026-11-18",
   "sfrmk:careers.capgemini.com:1458119333": "2026-11-18",
   "sfrmk:careers.capgemini.com:1458129733": "2026-11-18",
@@ -76571,6 +76587,7 @@
   "sfrmk:careers.te.com:1451444000": "2026-11-17",
   "sfrmk:careers.te.com:1451477900": "2026-11-17",
   "sfrmk:careers.te.com:1451657400": "2026-11-18",
+  "sfrmk:careers.te.com:1451672900": "2026-11-18",
   "sfrmk:careers.thehersheycompany.com:1406735200": "2026-11-12",
   "sfrmk:careers.thehersheycompany.com:1417715600": "2026-11-12",
   "sfrmk:careers.thehersheycompany.com:1438107700": "2026-11-12",
@@ -77475,6 +77492,7 @@
   "sfrmk:jobs.schaeffler.com:1456379433": "2026-11-11",
   "sfrmk:jobs.schaeffler.com:1456521833": "2026-11-11",
   "sfrmk:jobs.schaeffler.com:1456627233": "2026-11-13",
+  "sfrmk:jobs.schaeffler.com:1456673833": "2026-11-18",
   "sfrmk:jobs.schaeffler.com:1456970133": "2026-11-12",
   "sfrmk:jobs.schaeffler.com:1457130033": "2026-11-13",
   "sfrmk:jobs.schaeffler.com:1457213733": "2026-11-14",
@@ -77573,6 +77591,7 @@
   "sfrmk:jobs.tenneco.com:1450859400": "2026-11-16",
   "sfrmk:jobs.tenneco.com:1450927600": "2026-11-16",
   "sfrmk:jobs.tenneco.com:1451061800": "2026-11-17",
+  "sfrmk:jobs.tenneco.com:1451672200": "2026-11-18",
   "sfrmk:jobs.thyssenkrupp.com:965436": "2026-11-11",
   "sfrmk:jobs.thyssenkrupp.com:965439": "2026-11-11",
   "sfrmk:jobs.thyssenkrupp.com:966178": "2026-11-11",
@@ -78131,6 +78150,7 @@
   "sfrmk:jobs.zf.com:1454167033": "2026-11-11",
   "sfrmk:jobs.zf.com:1454171133": "2026-11-11",
   "sfrmk:jobs.zf.com:1454281333": "2026-11-11",
+  "sfrmk:jobs.zf.com:1454460233": "2026-11-18",
   "sfrmk:jobs.zf.com:1454465733": "2026-11-11",
   "sfrmk:jobs.zf.com:1454477133": "2026-11-11",
   "sfrmk:jobs.zf.com:1454478433": "2026-11-13",
@@ -83511,6 +83531,7 @@
   "workday:toyota|wd503|tmna:10336560": "2026-11-11",
   "workday:toyota|wd503|tmna:10336595": "2026-11-11",
   "workday:toyota|wd503|tmna:10337070": "2026-11-11",
+  "workday:toyota|wd503|tmna:10337197": "2026-11-18",
   "workday:toyota|wd503|tmna:10337252": "2026-11-12",
   "workday:toyota|wd503|tmna:10337412": "2026-11-11",
   "workday:toyota|wd503|tmna:10337700": "2026-11-11",
@@ -83659,7 +83680,7 @@
   "zoho:stackand:311383000018775968": "2026-11-15"
  },
  "source_last": {},
- "term_cursor": 29,
+ "term_cursor": 39,
  "text_retries": {
   "avature:harmanglobal.avature.net|en_US/careers:32516": 2,
   "avature:harmanglobal.avature.net|en_US/careers:32940": 2,
@@ -83669,15 +83690,15 @@
   "catsone:33704placement:16768729": 1,
   "catsone:33704placement:16799955": 1,
   "catsone:33704placement:16845633": 1,
-  "rippling:cintal:7ab266d7-78d2-4291-a3a1-2fe7e8990c38": 3,
-  "rippling:gotenna-inc:fc9a647f-0c45-4110-89a7-e6b8629af697": 1,
+  "rippling:gotenna-inc:fc9a647f-0c45-4110-89a7-e6b8629af697": 2,
   "sfrmk:careers.capgemini.com:1435727933": 2,
   "sfrmk:careers.capgemini.com:1442978133": 1,
   "sfrmk:careers.capgemini.com:1453966633": 1,
   "sfrmk:jobs.bmwgroup.com:1417066133": 2,
-  "sfrmk:jobs.lear.com:1441578133": 1,
+  "sfrmk:jobs.lear.com:1441578133": 2,
   "sfrmk:join.cnh.com:1365730755": 1,
   "sfrmk:join.cnh.com:1365730855": 1,
+  "sfrmk:join.cnh.com:1377417755": 1,
   "sfrmk:seagatecareers.com:1443168000": 3,
   "workday:dtna|wd5|dtna_external:DT-20679": 2,
   "workday:generalmotors|wd5|Careers_GM:JR-202619555": 1,
