@@ -12092,17 +12092,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 235,
+   "n": 236,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 235,
+   "n": 236,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 235,
+   "n": 236,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -68124,6 +68124,7 @@
   "lever:jobgether:14040680-3949-47cf-b666-01b3ec6f2f3b": "2026-11-16",
   "lever:jobgether:16c47193-e372-4376-9293-7163f7e7d474": "2026-11-18",
   "lever:jobgether:1e563cf7-02a8-43b0-a8e0-03a4ef5eaf1a": "2026-11-14",
+  "lever:jobgether:3a413aaa-159b-4f2e-99e0-4d3c78bc4fa4": "2026-11-18",
   "lever:jobgether:3e2d051e-4adc-416b-8f8f-aeb7da090178": "2026-11-18",
   "lever:jobgether:41c2eaaf-fd24-4d0f-9938-9b97d6cb238c": "2026-11-16",
   "lever:jobgether:4286ffa5-bae5-4ccc-bf9c-000d74badf2e": "2026-11-16",

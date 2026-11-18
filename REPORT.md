@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**627 jobs**, newest first. Updated Wed Nov 18, 5:37 AM CST from 12,526 company job boards and other sources.
+**628 jobs**, newest first. Updated Wed Nov 18, 6:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,14 +8,15 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 1,896 matching jobs that job sites and feeds listed this week, 665 (35%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (44)](#wednesday-nov-11-44)
+Jump to: [Wed 18 (8)](#wednesday-nov-18-8) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (44)](#wednesday-nov-11-44)
 
-## Wednesday, Nov 18 (7)
+## Wednesday, Nov 18 (8)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Network Engineer (Cisco ISE, Palo Alto, BGP/OSPF)](https://hyundaiautoeveramerica.applytojob.com/apply/bOSkA8wT1E/Network-Engineer-Cisco-ISE-Palo-Alto-BGPOSPF) | Hyundai AutoEver America | Irvine, CA | 50 |  |
 | date only | [Enterprise Infrastructure Engineer](https://www.metlifecareers.com/en_US/ml/JobDetail/Enterprise-Infrastructure-Engineer/21659) | MetLife |  | 60 | location unclear |
+| 6:09 AM | [Sr. Oracle Integration Cloud (OIC) Developer](https://jobs.lever.co/jobgether/3a413aaa-159b-4f2e-99e0-4d3c78bc4fa4) | Jobgether | US (remote) | 52 | senior title, years not stated |
 | 4:37 AM (seen) | [Senior DevOps Engineer II](https://tabby.pinpointhq.com/en/postings/45b8b691-4607-45e3-8caf-b9644845df08) | Tabby | Remote (remote) | 32 | 3+ yrs exp; senior title; location unclear |
 | 4:04 AM | [ML Ops Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6240810004) | PlayStation | United States, San Diego, CA | 60 | 3+ yrs exp |
 | 2:28 AM | [Infrastructure Support Specialist](https://jobs.lever.co/jobgether/16c47193-e372-4376-9293-7163f7e7d474) | Jobgether | US (remote) | 72 | 2+ yrs exp |
