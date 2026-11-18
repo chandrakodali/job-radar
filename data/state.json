@@ -12093,17 +12093,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 243,
+   "n": 244,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 243,
+   "n": 244,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 243,
+   "n": 244,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12741,6 +12741,11 @@
    "n": 4,
    "since": "2026-11-07"
   },
+  "lever:exowatt": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-18"
+  },
   "lever:farcast": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -12764,11 +12769,6 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-11"
-  },
-  "lever:life": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-18"
   },
   "lever:lifen": {
    "disabled_until": "2026-11-25",
@@ -14993,8 +14993,8 @@
    405
   ],
   "2026-11-18": [
-   92,
-   238
+   112,
+   274
   ]
  },
  "resolved": {
@@ -67041,6 +67041,7 @@
   "greenhouse:eleviassociates:8207700003": "2026-11-17",
   "greenhouse:epicgames:6250171004": "2026-11-12",
   "greenhouse:epicgames:6257189004": "2026-11-12",
+  "greenhouse:eqtcorporation:5486501008": "2026-11-18",
   "greenhouse:esri:5262837007": "2026-11-09",
   "greenhouse:esri:5285478007": "2026-11-12",
   "greenhouse:eudia:4382015009": "2026-11-16",
@@ -67861,6 +67862,7 @@
   "jazzhr:alexandriainsights:ICR0Z1Bv6v": "2026-11-09",
   "jazzhr:alexandriainsights:br5IBRppHI": "2026-11-09",
   "jazzhr:alexandriainsights:u9Z4h0Vo66": "2026-11-09",
+  "jazzhr:analyticallc:x7bxOAoNux": "2026-11-18",
   "jazzhr:aramcoservices:kE456nZMrm": "2026-11-09",
   "jazzhr:arangodb:OXNrXdEqpj": "2026-11-11",
   "jazzhr:arangodb:TotbIfmv4q": "2026-11-11",
@@ -68197,6 +68199,7 @@
   "lever:pointclickcare:dc0d44ce-bc2a-4577-bb0b-a38250bfc971": "2026-11-07",
   "lever:redhorsecorp:be90f883-2ec0-460f-8d20-241e4c54951f": "2026-11-12",
   "lever:steerbridge:e250cb49-fca5-450d-9d3b-f290c0e6f14d": "2026-11-09",
+  "lever:zoox:c84c90b4-22f2-4d2e-9034-afee385dd0d2": "2026-11-18",
   "oracle:cva.fa.us1.oraclecloud.com|CX_3:10418": "2026-11-08",
   "oracle:ebwg.fa.us2.oraclecloud.com|CX:20001": "2026-11-08",
   "oracle:ebwg.fa.us2.oraclecloud.com|CX:20002": "2026-11-12",
@@ -70135,10 +70138,10 @@
  "source_last": {
   "hn": "2026-11-18T14:37:17+00:00",
   "remoteok": "2026-11-18T15:37:19+00:00",
-  "usajobs": "2026-11-18T13:07:36+00:00",
-  "workable_search": "2026-11-18T13:07:36+00:00",
+  "usajobs": "2026-11-18T16:07:19+00:00",
+  "workable_search": "2026-11-18T16:07:19+00:00",
   "wwr": "2026-11-18T15:37:19+00:00",
-  "yc": "2026-11-18T13:07:36+00:00"
+  "yc": "2026-11-18T16:07:19+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
