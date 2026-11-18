@@ -11650,6 +11650,11 @@
   "lever:jobgether:ed585bb6-9f21-45ef-b606-7d0a0715d03c": "2026-11-17"
  },
  "fails": {
+  "apple:usa": {
+   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
+   "n": 1,
+   "since": "2026-11-18"
+  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -11994,17 +11999,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 79,
+   "n": 80,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 79,
+   "n": 80,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 79,
+   "n": 80,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13331,8 +13336,8 @@
    405
   ],
   "2026-11-18": [
-   15,
-   67
+   30,
+   123
   ]
  },
  "resolved": {
@@ -67449,6 +67454,7 @@
   "join:k-tronik:16914593": "2026-11-14",
   "join:k-tronik:16947962": "2026-11-14",
   "join:k-tronik:16956087": "2026-11-16",
+  "lever:agile-defense:959c51fa-4c5f-486d-8765-c28257b43b76": "2026-11-18",
   "lever:alluxio:52d9bf4e-fe16-46c2-8b97-25f08c878051": "2026-11-14",
   "lever:bluesight:0367870c-ecd0-4b5f-a498-2625664ce859": "2026-11-14",
   "lever:bounteous:e042c299-852a-4277-a355-cdb15cd2f190": "2026-11-16",
@@ -68090,10 +68096,12 @@
   "sfrmk:careers.capgemini.com:1001914401": "2026-11-17",
   "sfrmk:careers.capgemini.com:1103984001": "2026-11-16",
   "sfrmk:careers.capgemini.com:1124548701": "2026-11-16",
+  "sfrmk:careers.capgemini.com:1193826601": "2026-11-18",
   "sfrmk:careers.capgemini.com:1195892601": "2026-11-16",
   "sfrmk:careers.capgemini.com:1202064601": "2026-11-16",
   "sfrmk:careers.capgemini.com:1203244701": "2026-11-16",
   "sfrmk:careers.capgemini.com:1204734401": "2026-11-14",
+  "sfrmk:careers.capgemini.com:1208222701": "2026-11-18",
   "sfrmk:careers.capgemini.com:1250443001": "2026-11-14",
   "sfrmk:careers.capgemini.com:1255245701": "2026-11-14",
   "sfrmk:careers.capgemini.com:1259018101": "2026-11-14",
@@ -68140,6 +68148,8 @@
   "sfrmk:careers.capgemini.com:1420000133": "2026-11-14",
   "sfrmk:careers.capgemini.com:1420369433": "2026-11-17",
   "sfrmk:careers.capgemini.com:1420461633": "2026-11-14",
+  "sfrmk:careers.capgemini.com:1421485033": "2026-11-18",
+  "sfrmk:careers.capgemini.com:1421515933": "2026-11-18",
   "sfrmk:careers.capgemini.com:1423572733": "2026-11-14",
   "sfrmk:careers.capgemini.com:1423804433": "2026-11-16",
   "sfrmk:careers.capgemini.com:1424349233": "2026-11-16",
@@ -68163,12 +68173,14 @@
   "sfrmk:careers.capgemini.com:1432660533": "2026-11-14",
   "sfrmk:careers.capgemini.com:1433554833": "2026-11-14",
   "sfrmk:careers.capgemini.com:1434691933": "2026-11-14",
+  "sfrmk:careers.capgemini.com:1435079733": "2026-11-18",
   "sfrmk:careers.capgemini.com:1435109633": "2026-11-16",
   "sfrmk:careers.capgemini.com:1435110133": "2026-11-16",
   "sfrmk:careers.capgemini.com:1435726233": "2026-11-14",
   "sfrmk:careers.capgemini.com:1435860633": "2026-11-14",
   "sfrmk:careers.capgemini.com:1435901533": "2026-11-14",
   "sfrmk:careers.capgemini.com:1436707333": "2026-11-16",
+  "sfrmk:careers.capgemini.com:1436862933": "2026-11-18",
   "sfrmk:careers.capgemini.com:1437044733": "2026-11-16",
   "sfrmk:careers.capgemini.com:1437639033": "2026-11-14",
   "sfrmk:careers.capgemini.com:1437725333": "2026-11-14",
@@ -68185,13 +68197,17 @@
   "sfrmk:careers.capgemini.com:1442069933": "2026-11-14",
   "sfrmk:careers.capgemini.com:1443130333": "2026-11-14",
   "sfrmk:careers.capgemini.com:1444085233": "2026-11-17",
+  "sfrmk:careers.capgemini.com:1444685433": "2026-11-18",
   "sfrmk:careers.capgemini.com:1444869133": "2026-11-17",
   "sfrmk:careers.capgemini.com:1445137533": "2026-11-14",
   "sfrmk:careers.capgemini.com:1445143333": "2026-11-14",
+  "sfrmk:careers.capgemini.com:1445373933": "2026-11-18",
   "sfrmk:careers.capgemini.com:1445384233": "2026-11-16",
   "sfrmk:careers.capgemini.com:1445801833": "2026-11-18",
   "sfrmk:careers.capgemini.com:1445822233": "2026-11-14",
   "sfrmk:careers.capgemini.com:1446127133": "2026-11-17",
+  "sfrmk:careers.capgemini.com:1446218633": "2026-11-18",
+  "sfrmk:careers.capgemini.com:1446220433": "2026-11-18",
   "sfrmk:careers.capgemini.com:1446272333": "2026-11-17",
   "sfrmk:careers.capgemini.com:1446792633": "2026-11-14",
   "sfrmk:careers.capgemini.com:1446817533": "2026-11-14",
@@ -68223,6 +68239,8 @@
   "sfrmk:careers.capgemini.com:1450029333": "2026-11-14",
   "sfrmk:careers.capgemini.com:1450043033": "2026-11-14",
   "sfrmk:careers.capgemini.com:1450043133": "2026-11-14",
+  "sfrmk:careers.capgemini.com:1450224233": "2026-11-18",
+  "sfrmk:careers.capgemini.com:1450232433": "2026-11-18",
   "sfrmk:careers.capgemini.com:1450415233": "2026-11-14",
   "sfrmk:careers.capgemini.com:1450468533": "2026-11-14",
   "sfrmk:careers.capgemini.com:1450471633": "2026-11-14",
@@ -68250,11 +68268,13 @@
   "sfrmk:careers.capgemini.com:1454084433": "2026-11-18",
   "sfrmk:careers.capgemini.com:1454214033": "2026-11-17",
   "sfrmk:careers.capgemini.com:1454225133": "2026-11-17",
+  "sfrmk:careers.capgemini.com:1454290733": "2026-11-18",
   "sfrmk:careers.capgemini.com:1454339433": "2026-11-14",
   "sfrmk:careers.capgemini.com:1454440733": "2026-11-14",
   "sfrmk:careers.capgemini.com:1454475433": "2026-11-14",
   "sfrmk:careers.capgemini.com:1455206633": "2026-11-14",
   "sfrmk:careers.capgemini.com:1455378133": "2026-11-16",
+  "sfrmk:careers.capgemini.com:1455537133": "2026-11-18",
   "sfrmk:careers.capgemini.com:1455841433": "2026-11-16",
   "sfrmk:careers.capgemini.com:1456037233": "2026-11-14",
   "sfrmk:careers.capgemini.com:1456272233": "2026-11-14",
@@ -68265,7 +68285,15 @@
   "sfrmk:careers.capgemini.com:1457278233": "2026-11-14",
   "sfrmk:careers.capgemini.com:1457777433": "2026-11-17",
   "sfrmk:careers.capgemini.com:1457787633": "2026-11-17",
+  "sfrmk:careers.capgemini.com:1457903233": "2026-11-18",
+  "sfrmk:careers.capgemini.com:1457906533": "2026-11-18",
+  "sfrmk:careers.capgemini.com:1457915333": "2026-11-18",
+  "sfrmk:careers.capgemini.com:1458114633": "2026-11-18",
+  "sfrmk:careers.capgemini.com:1458115433": "2026-11-18",
+  "sfrmk:careers.capgemini.com:1458142033": "2026-11-18",
+  "sfrmk:careers.capgemini.com:1458176233": "2026-11-18",
   "sfrmk:careers.capgemini.com:1458219133": "2026-11-17",
+  "sfrmk:careers.capgemini.com:1458227533": "2026-11-18",
   "sfrmk:careers.cintas.com:1436636800": "2026-11-14",
   "sfrmk:careers.cintas.com:1441899100": "2026-11-14",
   "sfrmk:careers.leggett.com:1428266800": "2026-11-14",
@@ -69794,11 +69822,11 @@
  },
  "source_last": {
   "hn": "2026-11-18T02:15:35+00:00",
-  "remoteok": "2026-11-18T01:19:05+00:00",
-  "usajobs": "2026-11-18T00:16:07+00:00",
-  "workable_search": "2026-11-18T00:16:07+00:00",
-  "wwr": "2026-11-18T02:15:35+00:00",
-  "yc": "2026-11-18T00:16:07+00:00"
+  "remoteok": "2026-11-18T03:16:19+00:00",
+  "usajobs": "2026-11-18T03:16:19+00:00",
+  "workable_search": "2026-11-18T03:16:19+00:00",
+  "wwr": "2026-11-18T03:16:19+00:00",
+  "yc": "2026-11-18T03:16:19+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
