@@ -1,14 +1,14 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**196 jobs**, newest first. Updated Tue Nov 17, 9:16 PM CST from 12,526 company job boards and other sources.
+**197 jobs**, newest first. Updated Tue Nov 17, 10:18 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 123 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,475 matching jobs that job sites and feeds listed this week, 349 (23%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,478 matching jobs that job sites and feeds listed this week, 349 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20)
+Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20)
 
 ## Wednesday, Nov 18 (1)
 
@@ -16,7 +16,7 @@ Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (18)](#tuesday-nov-17-18) 
 |---|---|---|---|---:|---|
 | date only | [Software Development Engineer, ROBOTICS -  2027](https://www.amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027) | Amazon.com Services LLC | Austin, Texas, USA | 50 | requires Java |
 
-## Tuesday, Nov 17 (18)
+## Tuesday, Nov 17 (19)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -33,6 +33,7 @@ Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (18)](#tuesday-nov-17-18) 
 | date only | [Software Engineer (Back-end)](https://careers.cisco.com/global/en/job/CISCISGLOBAL2031561EXTERNALENGLOBAL) | Cisco | Boulder, Colorado, United States of Ame… | 40 | 3+ yrs exp; requires Java |
 | date only | [Java Full Stack Developer - Dallas, TX](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26868) | Photon | United States | 65 |  |
 | date only | [Sr. JAVA Engineer](https://careers.capgemini.com/job/Atlanta%2C-GA-Sr_-JAVA-Engineer-GA-30301/1458219133/) | Capgemini | Atlanta, GA, United States | 55 | senior title, years not stated |
+| date only | [Software Engineer II (Full Time) – United States CX Engineering](https://careers.cisco.com/global/en/job/CISCISGLOBAL2032332EXTERNALENGLOBAL) | Cisco | San Jose, California, United States of … | 43 | 0-2 yrs exp; requires Java |
 | 10:17 AM | [Software Developer 3](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350771) | Oracle | Nashville, TN, United States | 40 | 4+ yrs exp; senior title; requires Java |
 | 10:17 AM | [Software Developer 3](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350771) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States | 40 | 4+ yrs exp; senior title; requires Java |
 | 8:12 AM | [Software Engineer III - Java/Kafka/Cloud](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210797597) | JP Morgan Chase | Tampa, FL, United States +4 more | 60 | 3+ yrs exp; senior title |

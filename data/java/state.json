@@ -11650,11 +11650,6 @@
   "lever:jobgether:ed585bb6-9f21-45ef-b606-7d0a0715d03c": "2026-11-17"
  },
  "fails": {
-  "apple:usa": {
-   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
-   "n": 1,
-   "since": "2026-11-18"
-  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -11999,17 +11994,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 80,
+   "n": 81,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 80,
+   "n": 81,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 80,
+   "n": 81,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13337,7 +13332,7 @@
   ],
   "2026-11-18": [
    30,
-   123
+   126
   ]
  },
  "resolved": {
@@ -64284,6 +64279,7 @@
   "apple:usa:200694125": "2026-11-14",
   "apple:usa:200694167": "2026-11-14",
   "apple:usa:200694183": "2026-11-14",
+  "apple:usa:200694196": "2026-11-18",
   "apple:usa:200694338": "2026-11-14",
   "apple:usa:200694381": "2026-11-14",
   "apple:usa:200694390": "2026-11-14",
@@ -64312,6 +64308,7 @@
   "apple:usa:200695206": "2026-11-16",
   "apple:usa:200695212": "2026-11-16",
   "apple:usa:200695237": "2026-11-17",
+  "apple:usa:200695239": "2026-11-18",
   "apple:usa:200695259": "2026-11-16",
   "apple:usa:200695285": "2026-11-17",
   "apple:usa:200695312": "2026-11-16",
@@ -67497,6 +67494,7 @@
   "lever:jobgether:9af4cc18-9474-497f-9a90-60aa781922d4": "2026-11-14",
   "lever:jobgether:9fadc447-59bb-422c-b4ce-6d4a655e09d0": "2026-11-14",
   "lever:jobgether:a82f7076-2322-4ad3-a350-5babe29e934a": "2026-11-14",
+  "lever:jobgether:ac499e06-63c9-4aaa-a031-ec5c6987284c": "2026-11-18",
   "lever:jobgether:b01674d2-7838-4292-ab20-c26429a1a814": "2026-11-14",
   "lever:jobgether:b45aadee-df74-4ad4-8acd-f23de8ee8060": "2026-11-14",
   "lever:jobgether:bbd011d9-382f-4f14-a2ee-0516f4ac407a": "2026-11-17",
@@ -67871,6 +67869,7 @@
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2030555EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2031561EXTERNALENGLOBAL": "2026-11-17",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2031593EXTERNALENGLOBAL": "2026-11-14",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2032332EXTERNALENGLOBAL": "2026-11-18",
   "phenom:careers.hellofresh.com|global/en:HELLGLOBAL8313385EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.hellofresh.com|global/en:HELLGLOBAL8334705EXTERNALENGLOBAL": "2026-11-14",
   "phenom:careers.hellofresh.com|global/en:HELLGLOBAL8334962EXTERNALENGLOBAL": "2026-11-14",
@@ -68184,6 +68183,7 @@
   "sfrmk:careers.capgemini.com:1437044733": "2026-11-16",
   "sfrmk:careers.capgemini.com:1437639033": "2026-11-14",
   "sfrmk:careers.capgemini.com:1437725333": "2026-11-14",
+  "sfrmk:careers.capgemini.com:1439192433": "2026-11-18",
   "sfrmk:careers.capgemini.com:1439468133": "2026-11-14",
   "sfrmk:careers.capgemini.com:1439555933": "2026-11-14",
   "sfrmk:careers.capgemini.com:1439557833": "2026-11-14",
@@ -69825,7 +69825,7 @@
   "remoteok": "2026-11-18T03:16:19+00:00",
   "usajobs": "2026-11-18T03:16:19+00:00",
   "workable_search": "2026-11-18T03:16:19+00:00",
-  "wwr": "2026-11-18T03:16:19+00:00",
+  "wwr": "2026-11-18T04:18:16+00:00",
   "yc": "2026-11-18T03:16:19+00:00"
  },
  "title_rules": "72f554d20a7f",
