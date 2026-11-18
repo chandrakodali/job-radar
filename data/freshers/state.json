@@ -11998,17 +11998,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 115,
+   "n": 116,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 115,
+   "n": 116,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 115,
+   "n": 116,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -13813,8 +13813,8 @@
    769
   ],
   "2026-11-18": [
-   44,
-   298
+   59,
+   397
   ]
  },
  "resolved": {
@@ -67857,6 +67857,7 @@
   "catsone:tangentia:16858929": "2026-11-14",
   "catsone:tangentia:16863156": "2026-11-14",
   "catsone:tangentia:16866709": "2026-11-14",
+  "catsone:tangentia:16874598": "2026-11-18",
   "catsone:techoundsllc:16621168": "2026-11-14",
   "catsone:techoundsllc:16631210": "2026-11-14",
   "catsone:techoundsllc:16639429": "2026-11-14",
@@ -69526,6 +69527,7 @@
   "greenhouse:flexport:8375181": "2026-11-13",
   "greenhouse:flyzipline:8084054003": "2026-11-13",
   "greenhouse:flyzipline:8196248003": "2026-11-13",
+  "greenhouse:flyzipline:8207270003": "2026-11-18",
   "greenhouse:foratravel:5479050008": "2026-11-13",
   "greenhouse:formlabs:8384126": "2026-11-13",
   "greenhouse:freedomconsulting:5284983007": "2026-11-13",
@@ -69994,6 +69996,7 @@
   "homerun:bizzcon:support-engineer": "2026-11-14",
   "homerun:deftpower:net-developer-transactions-team-emobility-saas": "2026-11-14",
   "homerun:deftpower:new-business-developer-dach-emobility-saas": "2026-11-14",
+  "homerun:deftpower:new-platform-operations-engineer-emobility-saas": "2026-11-18",
   "homerun:fabriq:ai-software-engineer-f-h": "2026-11-14",
   "homerun:influentials:ai-gtm-growth-engineer": "2026-11-14",
   "homerun:influentials:full-stack-ai-engineer": "2026-11-14",
@@ -74474,6 +74477,7 @@
   "oracle:ibwujb.fa.ocs.oraclecloud.com|CX_1001:10981": "2026-11-13",
   "oracle:ibwujb.fa.ocs.oraclecloud.com|CX_1001:11072": "2026-11-13",
   "oracle:icbpjb.fa.ocs.oraclecloud.com|LazardProfessionalCareers:6714": "2026-11-13",
+  "oracle:jpmc.fa.oraclecloud.com|CX_1001:210802830": "2026-11-18",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210804485": "2026-11-17",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210805875": "2026-11-13",
   "oracle:tulane-ibqejb.fa.ocs.oraclecloud.com|CX_1:2295": "2026-11-13",
@@ -77252,6 +77256,8 @@
   "smartrecruiters:cityofnewyork:3743990016898371": "2026-11-17",
   "smartrecruiters:cityofnewyork:3743990016898466": "2026-11-17",
   "smartrecruiters:cityofnewyork:3743990016899156": "2026-11-17",
+  "smartrecruiters:cityofnewyork:3743990016929881": "2026-11-18",
+  "smartrecruiters:cityofnewyork:3743990016930006": "2026-11-18",
   "smartrecruiters:cityofphiladelphia:744000159941284": "2026-11-13",
   "smartrecruiters:cityofphiladelphia:744000159943569": "2026-11-13",
   "smartrecruiters:cityofphiladelphia:744000160257749": "2026-11-13",
@@ -81186,8 +81192,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-18T08:46:26+00:00",
-  "yc": "2026-11-18T08:46:26+00:00"
+  "workable_search": "2026-11-18T11:45:59+00:00",
+  "yc": "2026-11-18T11:45:59+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
