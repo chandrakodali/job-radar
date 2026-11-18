@@ -11994,17 +11994,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 89,
+   "n": 90,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 89,
+   "n": 90,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 89,
+   "n": 90,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13343,8 +13343,8 @@
    405
   ],
   "2026-11-18": [
-   60,
-   258
+   76,
+   315
   ]
  },
  "resolved": {
@@ -64434,6 +64434,7 @@
   "ashby:clera:f9a19ac1-59ba-43ed-8da4-7c0c17c67650": "2026-11-14",
   "ashby:clickhouse:51e77613-18b6-4f36-bc28-a7740198ca44": "2026-11-14",
   "ashby:clickhouse:56992f29-17a5-4150-b50b-7a72206c2af6": "2026-11-16",
+  "ashby:clickhouse:cd764fbe-9455-4d9c-84ee-837b63c1d32d": "2026-11-18",
   "ashby:clubhouse:c6ed61ff-5adf-47e4-b06b-37d86097a52b": "2026-11-14",
   "ashby:clubhouse:e189d3c3-149c-4c11-8008-670e89fe4768": "2026-11-14",
   "ashby:code-metal:cdaf3cfe-477a-4194-9d9e-477e5a211e49": "2026-11-14",
@@ -65671,6 +65672,7 @@
   "eightfold:citi:859038804776": "2026-11-14",
   "eightfold:citi:859038956013": "2026-11-18",
   "eightfold:citi:859039019215": "2026-11-17",
+  "eightfold:citi:859039019233": "2026-11-18",
   "eightfold:citi:859039019250": "2026-11-18",
   "eightfold:citi:859039019411": "2026-11-18",
   "eightfold:eaton:687239497094": "2026-11-14",
@@ -67511,6 +67513,7 @@
   "lever:jobgether:2629ec48-6b51-43ac-a552-1ffd59f9e82c": "2026-11-14",
   "lever:jobgether:357d6979-d4f7-4f9e-a648-9790899ce512": "2026-11-14",
   "lever:jobgether:38070733-c917-4ca7-ad7d-f9f646f7b9d4": "2026-11-14",
+  "lever:jobgether:3a413aaa-159b-4f2e-99e0-4d3c78bc4fa4": "2026-11-18",
   "lever:jobgether:41c2eaaf-fd24-4d0f-9938-9b97d6cb238c": "2026-11-16",
   "lever:jobgether:423eec1b-a832-47de-84a5-476f5e085488": "2026-11-14",
   "lever:jobgether:4a41391b-d46c-4831-b8ba-edc37c3b65a6": "2026-11-18",
@@ -67522,6 +67525,7 @@
   "lever:jobgether:65a1156a-de46-49fd-8413-39a2b0b92b26": "2026-11-16",
   "lever:jobgether:6a1d0ed9-1ef9-44bb-902b-e7b4b3868b11": "2026-11-16",
   "lever:jobgether:6b7d4699-9948-48b8-a57c-079cfb1c3dda": "2026-11-17",
+  "lever:jobgether:7ff45725-b98f-4aad-aeb2-d25ba26e2eaa": "2026-11-18",
   "lever:jobgether:9502fd53-8f50-431d-893a-70c091600137": "2026-11-18",
   "lever:jobgether:985f9970-a66c-41f2-9484-0e1c33d233f3": "2026-11-17",
   "lever:jobgether:9af4cc18-9474-497f-9a90-60aa781922d4": "2026-11-14",
@@ -68967,6 +68971,7 @@
   "workable:weekday-1:064EBE04E9": "2026-11-17",
   "workable:weekday-1:3365AC7B89": "2026-11-14",
   "workable:weekday-1:82702CC599": "2026-11-14",
+  "workable:weekday-1:A8BEFF11F2": "2026-11-18",
   "workable:zipdev:E9F3E75D5C": "2026-11-14",
   "workable:zipdev:F3C95028D4": "2026-11-14",
   "workable_search:all:0e31366b-25bb-4fcd-a842-b66696871f26": "2026-11-14",
@@ -69861,10 +69866,10 @@
  "source_last": {
   "hn": "2026-11-18T08:46:20+00:00",
   "remoteok": "2026-11-18T11:45:46+00:00",
-  "usajobs": "2026-11-18T09:47:59+00:00",
-  "workable_search": "2026-11-18T09:47:59+00:00",
-  "wwr": "2026-11-18T11:45:46+00:00",
-  "yc": "2026-11-18T09:47:59+00:00"
+  "usajobs": "2026-11-18T12:45:41+00:00",
+  "workable_search": "2026-11-18T12:45:41+00:00",
+  "wwr": "2026-11-18T12:45:41+00:00",
+  "yc": "2026-11-18T12:45:41+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
