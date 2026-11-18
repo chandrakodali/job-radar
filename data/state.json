@@ -12092,17 +12092,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 212,
+   "n": 213,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 212,
+   "n": 213,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 212,
+   "n": 213,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14917,15 +14917,15 @@
   "Bask Health": "2026-11-17",
   "Coris": "2026-11-16",
   "Diversified Services Network, Inc.": "2026-11-17",
-  "EPAM Systems": "2026-11-17",
-  "EdgeQ Technologies Private Limited": "2026-11-17",
+  "EPAM Systems": "2026-11-18",
+  "EdgeQ Technologies Private Limited": "2026-11-18",
   "Edgewater Federal Solutions, Inc.": "2026-11-16",
   "Essnova Solutions, Inc.": "2026-11-17",
   "Foresight Works Ltd": "2026-11-13",
   "Fortanix": "2026-11-14",
   "Frontera Space": "2026-11-17",
   "GEM Technologies": "2026-11-17",
-  "GoMining": "2026-11-17",
+  "GoMining": "2026-11-18",
   "Halcyon": "2026-11-14",
   "Knack": "2026-11-17",
   "LaBella Associates": "2026-11-17",
@@ -14976,7 +14976,7 @@
   ],
   "2026-11-18": [
    0,
-   0
+   4
   ]
  },
  "resolved": {
@@ -65702,6 +65702,7 @@
   }
  },
  "seen": {
+  "adp:0bb77723-5db8-455b-a01c-54257189f090|19000101_000001:9205261737994_37": "2026-11-18",
   "adp:18bcd225-9065-4e78-8585-763a250b6ab5|19000101_000001:9201434705775_1": "2026-11-15",
   "adp:1dbdd623-584f-49ff-9c37-77cd8670f636|19000101_000001:9200600988094_31": "2026-11-16",
   "adp:1dbdd623-584f-49ff-9c37-77cd8670f636|19000101_000001:9200604026737_6": "2026-11-16",
@@ -67052,6 +67053,7 @@
   "greenhouse:itd:4506392009": "2026-11-13",
   "greenhouse:its:8202933003": "2026-11-12",
   "greenhouse:jusbrasil:6002659004": "2026-11-12",
+  "greenhouse:k2spacecorporation:5478655008": "2026-11-18",
   "greenhouse:kairospower:6183616004": "2026-11-07",
   "greenhouse:katalyst:6235311004": "2026-11-07",
   "greenhouse:life360:8949348002": "2026-11-17",
@@ -70079,7 +70081,7 @@
   "remoteok": "2026-11-17T23:37:19+00:00",
   "usajobs": "2026-11-17T22:07:19+00:00",
   "workable_search": "2026-11-17T22:07:19+00:00",
-  "wwr": "2026-11-17T23:37:19+00:00",
+  "wwr": "2026-11-18T00:37:16+00:00",
   "yc": "2026-11-17T22:07:19+00:00"
  },
  "title_rules": "c323075b4d70",
