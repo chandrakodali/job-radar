@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**631 jobs**, newest first. Updated Tue Nov 17, 5:37 PM CST from 12,526 company job boards and other sources.
+**632 jobs**, newest first. Updated Tue Nov 17, 6:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,15 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 1,710 matching jobs that job sites and feeds listed this week, 593 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (30)](#tuesday-nov-17-30) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (9)](#tuesday-nov-10-9)
+Jump to: [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50) · [Tue 10 (7)](#tuesday-nov-10-7)
 
-## Tuesday, Nov 17 (30)
+## Tuesday, Nov 17 (33)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 6:02 PM | [Site Reliability Engineer II  - AXS](https://job-boards.greenhouse.io/aegworldwide/jobs/8949373002) | AEG | Los Angeles, CA | 50 | 4+ yrs exp; no future H-1B sponsorship |
+| 6:02 PM | [Site Reliability Engineer II](https://job-boards.greenhouse.io/axs/jobs/8949372002) | AXS | Los Angeles, CA | 50 | 4+ yrs exp; no future H-1B sponsorship |
+| 5:53 PM | [Security Site Reliability Engineer - Apple Service Engineering](https://jobs.apple.com/en-us/details/200695546/security-site-reliability-engineer-apple-service-engineering) | Apple | United States of America | 65 |  |
 | 5:39 PM | [Senior Device Reliability Engineer (AI Native)](https://job-boards.greenhouse.io/life360/jobs/8949348002) | Life360 | Fremont, CA | 40 | senior title, years not stated |
 | 4:09 PM | [Site Reliability Engineer — Info Apps](https://jobs.apple.com/en-us/details/200695296/site-reliability-engineer-info-apps) | Apple | United States of America | 65 |  |
 | 4:07 PM | [Cloud AI & Software Engineer](https://jobs.workable.com/view/ky6Wnw19KEoeP8ZWw4m3r9/cloud-ai-%26-software-engineer-in-cedar-park-at-frontera-space) | Frontera Space | Cedar Park, Texas (onsite) | 70 |  |
@@ -667,7 +670,7 @@ Jump to: [Tue 17 (30)](#tuesday-nov-17-30) · [Mon 16 (47)](#monday-nov-16-47) �
 | 2:24 AM | [Senior Cloud Security Engineer](https://jobs.lever.co/jobgether/73d75c56-c3b4-403f-b49d-93905c180592) | Jobgether | US (remote) | 45 | 3+ yrs exp; senior title |
 | 2:00 AM | [Senior Engineer Core Infrastructure](https://careers.jetblue.com/job/Long-Island-City-Senior-Engineer-Core-Infrastructure-NY-11101/1389530100/) | JetBlue | Long Island City, NY, United States | 53 | 4+ yrs exp; senior title |
 
-## Tuesday, Nov 10 (9)
+## Tuesday, Nov 10 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -678,16 +681,15 @@ Jump to: [Tue 17 (30)](#tuesday-nov-17-30) · [Mon 16 (47)](#monday-nov-16-47) �
 | 7:16 PM (seen) | [Evergreen Posting: DevSecOps Engineer](https://coforma.pinpointhq.com/en/postings/bd95e9e4-564a-4f23-a28d-380f43d98e8f) | Coforma | Remote (select US states) (remote) | 52 | E-Verify |
 | 6:28 PM | [Junior Systems Administrator (On Site in Clarksburg, WV)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=18bcd225-9065-4e78-8585-763a250b6ab5&ccId=19000101_000001&jobId=9201434705775_1&lang=en_US) | 18Bcd225 9065 4E78 8585 763A2… | Fairmont, WV; Morgantown, WV | 48 | entry-level title |
 | 6:09 PM | [Reliability Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000160988769-reliability-engineer) | ServiceNow | Santa Clara, CALIFORNIA, United States (hybrid) | 53 | 2+ yrs exp |
-| 6:01 PM | [Senior Cloud Infrastructure Engineer](https://jobs.ashbyhq.com/restate/fe90faab-5417-4034-b915-0770e2477a73) | Restate | United States (remote) | 45 | senior title, years not stated |
-| 6:00 PM | [Business Systems Administrator](https://job-boards.greenhouse.io/monsterenergy/jobs/4485188009) | Monster Energy | USA - Corona, CA | 45 | 3+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (743)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (744)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 6:25 PM | [Information Technology Infrastructure and Security Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4672372) | ACHIEVEMENT CENTER FOR CHILDR… | Westlake, OH, United States | 40 | rules: 5+ yrs exp; no future H-1B sponsorship; asks for 5+ years of e… |
+| 6:07 PM (seen) | [Systems Network Administrator](https://triquest.catsone.com/careers/2097-General/jobs/16874528-Systems--Network-Administrator/) | Triquest |  | 35 | rules: adjacent title, little DevOps/cloud work in the text |
 | 5:03 PM | [Senior Full Stack & Platform Engineer](https://job-boards.greenhouse.io/fictiv/jobs/8937286002) | Fictiv | Remote - USA (remote) | 52 | rules: senior title, years not stated; needs: must be a US person |
 | 4:59 PM | [Senior DevOps Engineer (AI-Enabled Platform Engineering)](https://jobs.ashbyhq.com/EverOps/3bf39f8d-09c0-4291-8596-2490a0394faa) | Everops | Remote (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 4:55 PM | [Senior Infrastructure Engineer (Network Infrastructure)](https://jobs.ashbyhq.com/EverOps/a8c193cb-e252-43b8-9a6b-5950276ab25c) | Everops | Remote (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
@@ -1086,7 +1088,6 @@ Jump to: [Tue 17 (30)](#tuesday-nov-17-30) · [Mon 16 (47)](#monday-nov-16-47) �
 | date only | [Site Reliability Engineer – DevOps, Azure](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Site-Reliability-Engineer---DevOps--Azure_R91160) | M&T Bank | Buffalo, NY (hybrid) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Cloud Video Specialist (Northern California)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/California-Northern-Remote-Work/Cloud-Video-Specialist--Northern-California-_R68174) | Motorola | California Northern Remote Work (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Site Reliability Engineer](https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Site-Reliability-Engineer_JR67781) | Oklahoma State Government | Oklahoma County | 40 | rules: 5+ yrs exp; no future H-1B sponsorship; asks for 5+ years of e… |
-| date only | [Senior Linux Kernel Systems Software Engineer – CSP Engagements](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Linux-Kernel-Systems-Software-Engineer---CSP-Engagements_JR2015287) | NVIDIA | US, CA, Santa Clara; US, TX, Austin; US… | 25 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 
 </details>
 

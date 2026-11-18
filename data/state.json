@@ -11749,21 +11749,21 @@
  },
  "fails": {
   "ashby:Airweave": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:Deno": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:Gradia": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:Lynk": {
@@ -11809,9 +11809,9 @@
    "since": "2026-11-07"
   },
   "ashby:blaxel": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:browserbase": {
@@ -11869,9 +11869,9 @@
    "since": "2026-11-14"
   },
   "ashby:hitpayapp.com": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:inspiration-commerce-group": {
@@ -11911,9 +11911,9 @@
    "since": "2026-11-07"
   },
   "ashby:lucidbots": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:mach": {
@@ -11941,9 +11941,9 @@
    "since": "2026-11-07"
   },
   "ashby:moonvalley-ai": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:morrishealthtech": {
@@ -11977,27 +11977,27 @@
    "since": "2026-11-13"
   },
   "ashby:ona": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:one-text": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:posting-api": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:powerus": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:pryzm": {
@@ -12007,9 +12007,9 @@
    "since": "2026-11-07"
   },
   "ashby:response": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:sharedcontextlab": {
@@ -12025,15 +12025,15 @@
    "since": "2026-11-13"
   },
   "ashby:tensorzero": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:toggl": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:tracer": {
@@ -12043,9 +12043,9 @@
    "since": "2026-11-07"
   },
   "ashby:truss": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:veeda-labs": {
@@ -12055,9 +12055,9 @@
    "since": "2026-11-07"
   },
   "ashby:vellum": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "ashby:vidrush": {
@@ -12092,35 +12092,35 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 211,
+   "n": 212,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 211,
+   "n": 212,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 211,
+   "n": 212,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "breezy:shipblu": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "breezy:skillcrush": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "eightfold:aexp|aexp.com": {
@@ -12136,15 +12136,15 @@
    "since": "2026-11-09"
   },
   "greenhouse:1910genetics": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:abodo": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:aisquared": {
@@ -12172,9 +12172,9 @@
    "since": "2026-11-07"
   },
   "greenhouse:artlogic": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:atlassand": {
@@ -12220,15 +12220,15 @@
    "since": "2026-11-07"
   },
   "greenhouse:commonpaper": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:curative": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:debtbook": {
@@ -12250,9 +12250,9 @@
    "since": "2026-11-07"
   },
   "greenhouse:embrace": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:eu:fuzehealth": {
@@ -12268,9 +12268,9 @@
    "since": "2026-11-07"
   },
   "greenhouse:eu:nowcircular": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:eu:superbet": {
@@ -12298,9 +12298,9 @@
    "since": "2026-11-07"
   },
   "greenhouse:greencanopy": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:ibkr": {
@@ -12346,9 +12346,9 @@
    "since": "2026-11-07"
   },
   "greenhouse:meltano": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:memphismeats": {
@@ -12364,15 +12364,15 @@
    "since": "2026-11-07"
   },
   "greenhouse:myshell": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:nexttrucking": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:orbisoperations": {
@@ -12382,9 +12382,9 @@
    "since": "2026-11-16"
   },
   "greenhouse:pantherlabs": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:postman": {
@@ -12424,9 +12424,9 @@
    "since": "2026-11-07"
   },
   "greenhouse:sadapay": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:scoutai": {
@@ -12436,9 +12436,9 @@
    "since": "2026-11-07"
   },
   "greenhouse:segmed": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:shyftsolutionsllc": {
@@ -12448,15 +12448,15 @@
    "since": "2026-11-07"
   },
   "greenhouse:smartersorting": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:swiftsku": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:threatlocker": {
@@ -12484,9 +12484,9 @@
    "since": "2026-11-07"
   },
   "greenhouse:users": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "greenhouse:visiersolutionsinc": {
@@ -12657,9 +12657,9 @@
    "since": "2026-11-11"
   },
   "lever:BloomTech": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "lever:aifund": {
@@ -12717,9 +12717,9 @@
    "since": "2026-11-07"
   },
   "lever:conduktor": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "lever:energyvault": {
@@ -12747,15 +12747,15 @@
    "since": "2026-11-07"
   },
   "lever:joingerald": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "lever:lifen": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "lever:machinalabs": {
@@ -12795,9 +12795,9 @@
    "since": "2026-11-07"
   },
   "lever:rainforest": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "lever:regalvoice": {
@@ -12807,9 +12807,9 @@
    "since": "2026-11-07"
   },
   "lever:run-alloy": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "lever:saronic": {
@@ -12843,9 +12843,9 @@
    "since": "2026-11-12"
   },
   "lever:wandb": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "lever:welocalize": {
@@ -12879,15 +12879,15 @@
    "since": "2026-11-15"
   },
   "pinpoint:pica8": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "robots.txt disallows /postings.json",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "pinpoint:surrealdb": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "robots.txt disallows /postings.json",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "pinpoint:wolve": {
@@ -12903,9 +12903,9 @@
    "since": "2026-11-08"
   },
   "recruitee:qatium": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "rippling:4ag": {
@@ -13263,15 +13263,15 @@
    "since": "2026-11-08"
   },
   "rippling:en-CA": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "rippling:en-GB": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "rippling:encore-auctions": {
@@ -13335,9 +13335,9 @@
    "since": "2026-11-14"
   },
   "rippling:firehydrant": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "rippling:flexai": {
@@ -13431,9 +13431,9 @@
    "since": "2026-11-14"
   },
   "rippling:groundcontrol": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "rippling:harness-careers": {
@@ -13971,9 +13971,9 @@
    "since": "2026-11-14"
   },
   "rippling:tempo": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "rippling:theguarantors-open-positions": {
@@ -14547,15 +14547,15 @@
    "since": "2026-11-09"
   },
   "teamtailor:encuadrado": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "teamtailor:tt": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "workable:currier-plastics": {
@@ -14565,9 +14565,9 @@
    "since": "2026-11-08"
   },
   "workable:view": {
-   "disabled_until": "2026-11-18",
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-11"
   },
   "workday:23andme|wd5|23": {
@@ -14973,6 +14973,10 @@
   "2026-11-17": [
    149,
    405
+  ],
+  "2026-11-18": [
+   0,
+   0
   ]
  },
  "resolved": {
@@ -15620,7 +15624,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "afterschoolmatters.applytojob.com": {
    "r": [
@@ -17142,7 +17146,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "arc-onesolutions.icims.com": {
    "r": [
@@ -17384,7 +17388,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "arrcusinc.applytojob.com": {
    "r": [
@@ -17737,7 +17741,7 @@
   },
   "assets-cdn.breezy.hr": {
    "r": [],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "assist-digital.homerun.co": {
    "r": [],
@@ -18166,7 +18170,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "avy.homerun.co": {
    "r": [],
@@ -18222,7 +18226,7 @@
      "/jobs/internal/"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "bauer-elektroanlagen.jobs.personio.de": {
    "r": [
@@ -18372,7 +18376,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "bitwise.catsone.com": {
    "r": [],
@@ -19002,7 +19006,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "bonana.homerun.co": {
    "r": [],
@@ -19754,7 +19758,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "campus-americas.icims.com": {
    "r": [
@@ -38831,7 +38835,7 @@
      "/companies"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "causewayconnect.zohorecruit.com": {
    "r": [
@@ -39565,7 +39569,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "cofinity-x-gmbh.jobs.personio.de": {
    "r": [
@@ -39591,7 +39595,7 @@
      "/companies"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "cognition-ip.breezy.hr": {
    "r": [
@@ -39612,7 +39616,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "coligoab.teamtailor.com": {
    "r": [
@@ -39728,7 +39732,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "consileon.jobs.personio.de": {
    "r": [
@@ -40361,7 +40365,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "defensestorm.applytojob.com": {
    "r": [
@@ -41124,7 +41128,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "dsdatasystems.jobs.personio.de": {
    "r": [
@@ -41963,7 +41967,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "emergingtech.applytojob.com": {
    "r": [
@@ -42243,7 +42247,7 @@
   },
   "encuadrado.teamtailor.com": {
    "r": [],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "endurance-it.zohorecruit.com": {
    "r": [
@@ -43017,7 +43021,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "flitsmeister.homerun.co": {
    "r": [],
@@ -43034,7 +43038,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "flyspaceprod.applytojob.com": {
    "r": [
@@ -44053,7 +44057,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "gainsystems.applytojob.com": {
    "r": [
@@ -45112,7 +45116,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "haleon.eightfold.ai": {
    "r": [
@@ -45352,7 +45356,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "hartmanresumes.catsone.com": {
    "r": [],
@@ -45582,7 +45586,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "hiresparks.zohorecruit.com": {
    "r": [
@@ -46399,7 +46403,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "influentials.homerun.co": {
    "r": [],
@@ -50335,7 +50339,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "kb1.jobs.personio.de": {
    "r": [
@@ -50983,7 +50987,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "lumerate.breezy.hr": {
    "r": [
@@ -51051,7 +51055,7 @@
      "/postings/7ac4e1f3-e947-4cc1-8c15-c29fff03e8d6"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "magrathea.jobs.personio.de": {
    "r": [
@@ -51271,7 +51275,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "manpowergroupco.avature.net": {
    "r": [
@@ -51555,7 +51559,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "mayflower.jobs.personio.de": {
    "r": [
@@ -53013,7 +53017,7 @@
      "/jobs/internal/"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "mountainwarehouse.pinpointhq.com": {
    "r": [
@@ -53690,7 +53694,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "newfireglobal.pinpointhq.com": {
    "r": [
@@ -54151,7 +54155,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "nussli.jobs.personio.de": {
    "r": [
@@ -54779,7 +54783,7 @@
      "/jobs/internal/"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "openroadmedia.applytojob.com": {
    "r": [
@@ -54832,7 +54836,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "palomarproducts.applytojob.com": {
    "r": [
@@ -55074,7 +55078,7 @@
      "/"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "pillarcareers-beitzelpillar.icims.com": {
    "r": [
@@ -56066,7 +56070,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "recruiting.paylocity.com": {
    "r": [],
@@ -56450,7 +56454,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "robertsrecruiting.catsone.com": {
    "r": [],
@@ -57296,7 +57300,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "shopline.applytojob.com": {
    "r": [
@@ -57451,7 +57455,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "sitemap.catsone.com": {
    "r": [],
@@ -57549,7 +57553,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "skybrid.zohorecruit.com": {
    "r": [
@@ -58139,7 +58143,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "solvarus.applytojob.com": {
    "r": [
@@ -58554,7 +58558,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "stacywitbeck.pinpointhq.com": {
    "r": [
@@ -58826,7 +58830,7 @@
      "/jobs/internal/"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "sunbirdsoftwareinc.applytojob.com": {
    "r": [
@@ -58853,7 +58857,7 @@
      "/"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "swar.catsone.com": {
    "r": [],
@@ -59874,7 +59878,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "tehora.zohorecruit.com": {
    "r": [
@@ -60426,7 +60430,7 @@
      "/jobs/internal/"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "thecosmos.homerun.co": {
    "r": [],
@@ -62021,7 +62025,7 @@
   },
   "tt.teamtailor.com": {
    "r": [],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "tt4.catsone.com": {
    "r": [],
@@ -62038,7 +62042,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "turkeyanaclinic.zohorecruit.com": {
    "r": [
@@ -63002,7 +63006,7 @@
      "/jobs/internal/"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "unseenstudio.homerun.co": {
    "r": [],
@@ -63961,7 +63965,7 @@
      "/jobs/internal/"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "varo.homerun.co": {
    "r": [],
@@ -64356,7 +64360,7 @@
      "/javascripts"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "vpitechnology.applytojob.com": {
    "r": [
@@ -65358,7 +65362,7 @@
      "/jobs/internal/"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "xnrsolutions.zohorecruit.com": {
    "r": [
@@ -65485,7 +65489,7 @@
      "/companies"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "yourgesture.zohorecruit.com": {
    "r": [
@@ -65681,7 +65685,7 @@
      "/cb"
     ]
    ],
-   "t": "2026-11-11"
+   "t": "2026-11-18"
   },
   "zgfarchitects.applytojob.com": {
    "r": [
@@ -65784,6 +65788,7 @@
   "apple:usa:200695197": "2026-11-16",
   "apple:usa:200695296": "2026-11-17",
   "apple:usa:200695356": "2026-11-17",
+  "apple:usa:200695546": "2026-11-18",
   "ashby:AeroVect:49403b08-400b-43e7-91f8-709c965bda54": "2026-11-07",
   "ashby:AeroVect:91db7309-415c-498b-a033-373af6546a68": "2026-11-12",
   "ashby:AfterQuery:99afbbe0-5ad1-4f25-a00a-049f14428ac6": "2026-11-12",
@@ -66604,6 +66609,7 @@
   "catsone:thelockwoodgroup:16802316": "2026-11-14",
   "catsone:thelockwoodgroup:16867607": "2026-11-14",
   "catsone:triquest:13336247": "2026-11-14",
+  "catsone:triquest:16874528": "2026-11-18",
   "catsone:tt4:13139041": "2026-11-14",
   "catsone:tt4:13692020": "2026-11-14",
   "catsone:unisityllc:16836809": "2026-11-14",
@@ -66863,6 +66869,7 @@
   "greenhouse:accenturefederalservices:4729884006": "2026-11-16",
   "greenhouse:aclu:8941758002": "2026-11-13",
   "greenhouse:advancedtechnologyservices:4727989006": "2026-11-13",
+  "greenhouse:aegworldwide:8949373002": "2026-11-18",
   "greenhouse:aevexaerospace:5460586008": "2026-11-07",
   "greenhouse:agilityrobotics:6236104004": "2026-11-09",
   "greenhouse:agilityrobotics:6237014004": "2026-11-13",
@@ -66888,6 +66895,7 @@
   "greenhouse:axon:8034173003": "2026-11-07",
   "greenhouse:axon:8057401003": "2026-11-07",
   "greenhouse:axon:8195568003": "2026-11-07",
+  "greenhouse:axs:8949372002": "2026-11-18",
   "greenhouse:beaconbiosignals:4506672009": "2026-11-13",
   "greenhouse:betatechnologiesinc:4419983009": "2026-11-09",
   "greenhouse:betatechnologiesinc:4473742009": "2026-11-09",
