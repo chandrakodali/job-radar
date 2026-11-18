@@ -12093,17 +12093,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 240,
+   "n": 241,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 240,
+   "n": 241,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 240,
+   "n": 241,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14989,7 +14989,7 @@
   ],
   "2026-11-18": [
    92,
-   230
+   234
   ]
  },
  "resolved": {
@@ -65882,6 +65882,7 @@
   "ashby:clera:fe223204-19b7-4940-9fb7-6ee132cec528": "2026-11-12",
   "ashby:clickhouse:39e42a38-1cbf-40c7-b373-717b4cdddbac": "2026-11-13",
   "ashby:clickhouse:6b2709a0-ee6b-481a-b72c-87a669acd055": "2026-11-12",
+  "ashby:clickhouse:caf49f06-ed35-4637-9372-f4df114e852f": "2026-11-18",
   "ashby:codes-health:d92bc97b-bf23-4e3b-a045-2554581de297": "2026-11-11",
   "ashby:cohere:735f26a3-9456-49e2-8f84-23804534cfe4": "2026-11-07",
   "ashby:cohere:dc881634-ca66-46e5-90ff-43ad83080de2": "2026-11-12",
@@ -67348,6 +67349,7 @@
   "icims:careers-connection.icims.com:10901": "2026-11-12",
   "icims:careers-constructconnect.icims.com:2267": "2026-11-09",
   "icims:careers-cotiviti.icims.com:20129": "2026-11-12",
+  "icims:careers-dartmouth-hitchcock.icims.com:43203": "2026-11-18",
   "icims:careers-dartmouth-hitchcock.icims.com:43229": "2026-11-10",
   "icims:careers-dartmouth-hitchcock.icims.com:43307": "2026-11-12",
   "icims:careers-decisionpointcorp.icims.com:3056": "2026-11-09",
@@ -67869,6 +67871,7 @@
   "jazzhr:ctcgroup:eoIXJzQpP8": "2026-11-09",
   "jazzhr:ctcgroup:ilgKe3nt9W": "2026-11-09",
   "jazzhr:delawareparkcasinoracing:WZUonilTv9": "2026-11-14",
+  "jazzhr:delawareparkcasinoracing:nEAKCV6GnA": "2026-11-18",
   "jazzhr:dtprosusa:gRBmGmb5cn": "2026-11-09",
   "jazzhr:evertz:bZcBJfDPB8": "2026-11-09",
   "jazzhr:foxconnassemblyllc:5G6MbzcF3f": "2026-11-12",
@@ -70116,11 +70119,11 @@
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-18T08:37:15+00:00",
+  "hn": "2026-11-18T14:37:17+00:00",
   "remoteok": "2026-11-18T13:37:13+00:00",
   "usajobs": "2026-11-18T13:07:36+00:00",
   "workable_search": "2026-11-18T13:07:36+00:00",
-  "wwr": "2026-11-18T13:37:13+00:00",
+  "wwr": "2026-11-18T14:37:17+00:00",
   "yc": "2026-11-18T13:07:36+00:00"
  },
  "title_rules": "c323075b4d70",
