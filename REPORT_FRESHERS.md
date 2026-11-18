@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**667 jobs**, newest first. Updated Tue Nov 17, 9:56 PM CST from 12,526 company job boards and other sources.
+**667 jobs**, newest first. Updated Tue Nov 17, 10:45 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -717,7 +717,7 @@ Jump to: [Tue 17 (59)](#tuesday-nov-17-59) · [Mon 16 (62)](#monday-nov-16-62) �
 | 11:00 PM | [Test Engineer I](https://careers-nikkiso.icims.com/jobs/4425/test-engineer-i/job) | Nikkiso | North Las Vegas, NV, United States | 68 | entry-level title |
 | 11:00 PM | [IT Technician-ITAM](https://careers-stifel.icims.com/jobs/10211/it-technician-itam/job) | Stifel | Saint Louis, MO, United States | 78 | 1+ yrs exp; entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3584)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3585)
 
 <details><summary>Show</summary>
 
@@ -725,6 +725,7 @@ Jump to: [Tue 17 (59)](#tuesday-nov-17-59) · [Mon 16 (62)](#monday-nov-16-62) �
 |---|---|---|---|---:|---|
 | date only | [Professional Fee Coder 2 (Sign on Bonus eligible)](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11720) | UCSF | United States | 70 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 40 | rules: 5+ yrs exp; location unclear; needs: ITAR |
+| 10:38 PM | [Robotics Systems Engineer](https://jobs.gem.com/overlay/am9icG9zdDpRq67A38Tp8Thdnm8rAf6Z) | Overlay | Oakland, CA (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 9:48 PM (seen) | [Implementation Engineer](https://app.dover.com/apply/flipcx/92f0213a-715f-4cc7-a78f-0959d4f27d91) | Flipcx | Los Angeles, CA (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 9:48 PM (seen) | [Software Developer](https://app.dover.com/apply/fluentstaff/dba5077e-63fa-4906-968e-a5da22fb6f70) | Fluentstaff | United States; Dallas, TX +1 more (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 9:48 PM (seen) | [AI Software Engineer](https://app.dover.com/apply/gayafi/42fe4d23-6dff-48a6-8b49-0891b2d2f324) | Gayafi | International (remote) | 52 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
@@ -1122,6 +1123,5 @@ Jump to: [Tue 17 (59)](#tuesday-nov-17-59) · [Mon 16 (62)](#monday-nov-16-62) �
 | 1:42 PM | [Data Engineer - Agentic AI](https://job-boards.greenhouse.io/defenseunicorns/jobs/5296643007) | Defense Unicorns | Springfield, VA | 60 | rules: 3+ yrs exp; needs: TS/SCI clearance |
 | 1:30 PM | [Software Engineer, Frameworks & Libraries](https://jobs.ashbyhq.com/ThinkingMachines/3882fc2b-6d28-4498-b6e3-ef53e22f8f03) | ThinkingMachines | San Francisco; New York (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 1:28 PM | [System Administrator (Hybrid in Indianapolis, IN)](https://jobs.smartrecruiters.com/Resultant/744000161897069-system-administrator-hybrid-in-indianapolis-in-) | Resultant | Indianapolis, IN, United States (hybrid) | 45 | rules: 6+ yrs exp; no future H-1B sponsorship; asks for 6+ years of e… |
-| 1:28 PM | [Maintenance, Reliability, & Systems Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276730) | Vertiv | Ironton, OH, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>

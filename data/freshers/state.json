@@ -11998,17 +11998,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 108,
+   "n": 109,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 108,
+   "n": 109,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 108,
+   "n": 109,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -68895,6 +68895,7 @@
   "gem:openreqstaffing:am9icG9zdDrlWr9MUyfRd9HflG4urlsR": "2026-11-14",
   "gem:ornn:am9icG9zdDowi3QhfvQ5zBlOBCCRzBSp": "2026-11-14",
   "gem:ovatechnologies:am9icG9zdDr1W-guXZpPtXxOlPXJSYpo": "2026-11-15",
+  "gem:overlay:am9icG9zdDpRq67A38Tp8Thdnm8rAf6Z": "2026-11-18",
   "gem:overmind:am9icG9zdDrhlTzd8yBPn-3M2y0dv1UP": "2026-11-14",
   "gem:paces:am9icG9zdDoqaNr382UxXXMW8E7atAmR": "2026-11-13",
   "gem:paces:am9icG9zdDr06BhFJF8FcNCSDqrz-GWw": "2026-11-13",
@@ -75142,6 +75143,7 @@
   "rippling:veefriends-llc:1c6ff427-49ab-4eb4-8d06-ea048a14dc65": "2026-11-15",
   "rippling:veryable-careers:2d1b37b3-9f7b-4441-9e41-d6e1823c606e": "2026-11-13",
   "rippling:vouch-inc:a7099d11-3586-4b85-9d0c-904c9203c8d0": "2026-11-15",
+  "rippling:vulcanforms:7fdb3ecd-a0c7-434c-a90f-a03eec3e0fe1": "2026-11-18",
   "rippling:vurvey-labs-inc:a3f11794-6792-4b44-8fe7-a30d5c538aa5": "2026-11-15",
   "rippling:vurvey-labs-inc:e3907dd1-2500-4fa4-98ca-4aa4f1d7e054": "2026-11-15",
   "rippling:webull:49790f34-6810-4634-9987-84b2207ae3ae": "2026-11-15",
