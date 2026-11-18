@@ -1,6 +1,6 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**203 jobs**, newest first. Updated Wed Nov 18, 4:20 PM CST from 12,526 company job boards and other sources.
+**204 jobs**, newest first. Updated Wed Nov 18, 5:15 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
@@ -8,9 +8,9 @@ US jobs only: Java in the title, or backend/software/full-stack roles whose requ
 
 Coverage check: of 1,844 matching jobs that job sites and feeds listed this week, 441 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (20)](#wednesday-nov-18-20) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (25)](#thursday-nov-12-25) · [Wed 11 (8)](#wednesday-nov-11-8)
+Jump to: [Wed 18 (21)](#wednesday-nov-18-21) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (25)](#thursday-nov-12-25) · [Wed 11 (8)](#wednesday-nov-11-8)
 
-## Wednesday, Nov 18 (20)
+## Wednesday, Nov 18 (21)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -31,6 +31,7 @@ Jump to: [Wed 18 (20)](#wednesday-nov-18-20) · [Tue 17 (19)](#tuesday-nov-17-19
 | date only | [Software Systems Engineer](https://hp.eightfold.ai/careers/job/45062058) | Hp | Spring, TX, US (onsite) | 60 | 2+ yrs exp; requires Java |
 | date only | [NetApp Emerging Talent - Entry Level Software Engineer (Cloud)](https://jobs.netapp.com/job/San-Jose-NetApp-Emerging-Taleng-Entry-Level-Software-Engineer-%28Cloud%29-CA-95128/1451910900/) | NetApp | San Jose, CA, United States | 70 | entry-level title; 2+ yrs exp; requires Java |
 | date only | [Java Backend Developer](https://citi.eightfold.ai/careers/job/859038772002) | Citi | Mississauga, ON, CA (hybrid) | 80 | 2+ yrs exp |
+| date only | [Advanced Engineer-Java Backend](https://jobsearch.harman.com/en_US/careers/JobDetail/Advanced-Engineer-Java-Backend/33352) | HARMAN International |  | 60 | location unclear |
 | 8:09 AM | [Senior Platform Software Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/338589) | Oracle | Austin, TX, United States; Nashville, T… | 35 | senior title, years not stated; requires Java |
 | 8:09 AM | [Senior Platform Software Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/338589) | Eeho Fa Us2 Oraclecloud Com | Austin, TX, United States; Nashville, T… | 35 | senior title, years not stated; requires Java |
 | 6:08 AM | [Senior Software Engineer - Go SDK - Language Clients](https://jobs.ashbyhq.com/clickhouse/cd764fbe-9455-4d9c-84ee-837b63c1d32d) | ClickHouse | New York; Detroit; Chicago; Atlanta; Bo… (remote) | 37 | senior title, years not stated; requires Java |
