@@ -11994,17 +11994,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 87,
+   "n": 88,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 87,
+   "n": 88,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 87,
+   "n": 88,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12158,8 +12158,9 @@
    "since": "2026-11-14"
   },
   "greenhouse:engineeringatgigs": {
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-18"
   },
   "greenhouse:eu:fuzehealth": {
@@ -12193,8 +12194,9 @@
    "since": "2026-11-14"
   },
   "greenhouse:gigs": {
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-18"
   },
   "greenhouse:glossgenius": {
@@ -13342,7 +13344,7 @@
   ],
   "2026-11-18": [
    60,
-   252
+   255
   ]
  },
  "resolved": {
@@ -65665,7 +65667,9 @@
   "eightfold:citi:859038803970": "2026-11-17",
   "eightfold:citi:859038804482": "2026-11-17",
   "eightfold:citi:859038804776": "2026-11-14",
+  "eightfold:citi:859038956013": "2026-11-18",
   "eightfold:citi:859039019215": "2026-11-17",
+  "eightfold:citi:859039019250": "2026-11-18",
   "eightfold:citi:859039019411": "2026-11-18",
   "eightfold:eaton:687239497094": "2026-11-14",
   "eightfold:eaton:687240042663": "2026-11-17",
@@ -66540,6 +66544,8 @@
   "hn:whoishiring:50508598-0": "2026-11-15",
   "hn:whoishiring:50518905-0": "2026-11-16",
   "homerun:quanza:software-engineer": "2026-11-14",
+  "homerun:thefactore:senior-full-stack-developer-java-angular-detachering": "2026-11-18",
+  "homerun:thefactore:senior-java-developer-detachering": "2026-11-18",
   "homerun:trustoo:full-stack-developer-marketplace": "2026-11-14",
   "homerun:withthegrid:platform-devops-engineer": "2026-11-14",
   "ibm:us:106509": "2026-11-14",
@@ -69853,7 +69859,7 @@
   "remoteok": "2026-11-18T09:47:59+00:00",
   "usajobs": "2026-11-18T09:47:59+00:00",
   "workable_search": "2026-11-18T09:47:59+00:00",
-  "wwr": "2026-11-18T09:47:59+00:00",
+  "wwr": "2026-11-18T10:48:40+00:00",
   "yc": "2026-11-18T09:47:59+00:00"
  },
  "title_rules": "72f554d20a7f",
