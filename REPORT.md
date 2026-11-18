@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**604 jobs**, newest first. Updated Wed Nov 18, 4:07 PM CST from 12,526 company job boards and other sources.
+**604 jobs**, newest first. Updated Wed Nov 18, 4:37 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-255 repeat listings (same company and title in another place or on another source) are merged into one row.
+253 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,079 matching jobs that job sites and feeds listed this week, 746 (35%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,081 matching jobs that job sites and feeds listed this week, 746 (35%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 18 (30)](#wednesday-nov-18-30) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (4)](#wednesday-nov-11-4)
 
@@ -557,7 +557,7 @@ Jump to: [Wed 18 (30)](#wednesday-nov-18-30) · [Tue 17 (34)](#tuesday-nov-17-34
 | 5:25 PM | [IT Systems Engineer](https://jobs.ashbyhq.com/cartesia/1a254e7d-54f2-4bee-bfdf-0c49d5e2909e) | Cartesia | *HQ - San Francisco, CA (onsite) | 60 | E-Verify |
 | 5:17 PM (seen) | [Network Operations Engineer Tier 3 SR / Req#4604](https://jobs.jobvite.com/actionet/job/o2q9AfwV) | ActioNet | Vienna, Virginia | 25 | senior title, years not stated |
 | 5:12 PM | [Configuration Management Specialist](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=35054926-66c8-40b9-ad6d-2b10240d7729&ccId=19000101_000001&jobId=9201284599149_139&lang=en_US) | 35054926 66C8 40B9 Ad6D 2B102… | Rock Island, IL | 43 |  |
-| 5:10 PM | [Senior Software Engineer - Transport Infrastructure](https://job-boards.greenhouse.io/cssmerge/jobs/8940528002) | Atoms | San Francisco, CA +1 more | 55 | senior title, years not stated; repost |
+| 5:10 PM | [Senior Software Engineer - Transport Infrastructure](https://job-boards.greenhouse.io/cssmerge/jobs/8940528002) | Atoms | San Francisco, CA | 55 | senior title, years not stated; repost |
 | 5:09 PM | [Site Reliability Engineer - OCI (Start Date: Feb 2027)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350510) | Oracle | Nashville, TN, United States | 60 |  |
 | 4:31 PM | [Software Engineer, Core Infrastructure (Mid-Senior level)](https://jobs.ashbyhq.com/zip/c72dacde-b007-45ea-901b-ed9f6d7a4746) | Zip | San Francisco (hybrid) | 65 | 4+ yrs exp; senior title |
 | 3:59 PM | [Network Operations Engineer — IT Infrastructure](https://job-boards.greenhouse.io/sofitechsolutions/jobs/8201653003) | Sofitechsolutions | San Francisco, California | 68 | 2+ yrs exp |
@@ -654,12 +654,14 @@ Jump to: [Wed 18 (30)](#wednesday-nov-18-30) · [Tue 17 (34)](#tuesday-nov-17-34
 | 7:35 PM | [Infrastructure Engineer - Labs](https://jobs.ashbyhq.com/Etched/b4ad6323-3d69-4881-a2db-e3967afbae65) | Etched | San Jose (onsite) | 70 |  |
 | 5:17 PM | [Senior Software Engineer, Engine Infrastructure](https://careers.roblox.com/jobs/8346849?gh_jid=8346849) | Roblox | San Mateo, CA, United States | 48 | 4+ yrs exp; senior title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (770)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (772)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 4:28 PM | [Linux Installation Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4730735006?gh_jid=4730735006) | Accenture | San Diego, CA | 35 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: security cleara… |
+| 4:10 PM | [Senior Cloud DevOps Engineer (Hybrid - Houston)](https://jobs.smartrecruiters.com/AECOM2/744000162400439-senior-cloud-devops-engineer-hybrid-houston-) | AECOM | Houston, TX, United States (hybrid) | 50 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 3:20 PM | [Industrial & Production Engineer](https://boards.greenhouse.io/pathrobotics/jobs/8950251002?gh_jid=8950251002) | Path Robotics | Columbus, Ohio | 30 | rules: 10+ yrs exp; needs: ITAR |
 | 2:37 PM (seen) | [Computer Specialist (SW) 1-4 TWU Rep - Configuration Management](https://jobs.jobvite.com/metropolitantransportationauthority/job/ow21AfwT) | Metropolitan Transportation A… | New York, NY | 15 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 2:30 PM | [DevOps Track Sr.Engineer](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/704446) | HEXAWARE | United States | 45 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
@@ -1058,8 +1060,6 @@ Jump to: [Wed 18 (30)](#wednesday-nov-18-30) · [Tue 17 (34)](#tuesday-nov-17-34
 | 4:10 PM | [Deployment Engineer (Field Operations)](https://jobs.ashbyhq.com/base-power/61564fba-61a0-4fe3-a71d-1c3325514e35) | Base Power | Austin, TX (onsite) | 55 | rules: adjacent title, little DevOps/cloud work in the text |
 | 4:05 PM | [Sr. Linux Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4663035) | 6166Aed4 Af42 4762 99E4 5D67A… | USA | 23 | rules: 6+ yrs exp; senior title; needs: security clearance |
 | 3:56 PM | [Site Reliability Engineer](https://jobs.ashbyhq.com/blitzy/389140b3-d7f1-4891-8a7b-15952a66f15d) | Blitzy | Cambridge, MA (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 3:51 PM (seen) | [Senior Cloud Engineer / Req#4692](https://jobs.jobvite.com/actionet/job/oO9IAfwZ) | ActioNet | Remote, United States | 30 | rules: 7+ yrs exp; senior title; needs: security clearance |
-| 3:51 PM (seen) | [DevSecOps Engineer/Linux Administrator (Senior) / Req#4749](https://jobs.jobvite.com/actionet/job/odLYAfwg) | ActioNet | Remote, United States | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 
 </details>
 

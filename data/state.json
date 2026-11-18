@@ -11710,7 +11710,6 @@
  "bootstrapped": true,
  "closed": {
   "ashby:Etched:13ee168b-41a8-4612-b4c7-15cfe9f9a3ac": "2026-11-12",
-  "ashby:Etched:4020db7a-1ec0-48e3-9bbd-f1337c63a403": "2026-11-17",
   "ashby:Vultr:f3faf050-f72b-4306-8cd0-7853eab4e558": "2026-11-13",
   "ashby:clera:00983741-6f9e-4b8d-80c9-8252bc481d10": "2026-11-13",
   "ashby:clera:63b61af1-cd10-4499-8da3-eab9e9ce2cad": "2026-11-12",
@@ -12105,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 256,
+   "n": 257,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 256,
+   "n": 257,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 256,
+   "n": 257,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15003,7 +15002,7 @@
   ],
   "2026-11-18": [
    153,
-   369
+   371
   ]
  },
  "resolved": {
@@ -66922,6 +66921,7 @@
   "greenhouse:accenturefederalservices:4728481006": "2026-11-10",
   "greenhouse:accenturefederalservices:4729195006": "2026-11-13",
   "greenhouse:accenturefederalservices:4729884006": "2026-11-16",
+  "greenhouse:accenturefederalservices:4730735006": "2026-11-18",
   "greenhouse:aclu:8941758002": "2026-11-13",
   "greenhouse:advancedtechnologyservices:4727989006": "2026-11-13",
   "greenhouse:aegworldwide:8949373002": "2026-11-18",
@@ -69192,6 +69192,7 @@
   "smartrecruiters:abbvie:3743990016610096": "2026-11-07",
   "smartrecruiters:abbvie:3743990016729946": "2026-11-12",
   "smartrecruiters:aecom2:744000161351219": "2026-11-12",
+  "smartrecruiters:aecom2:744000162400439": "2026-11-18",
   "smartrecruiters:aristanetworks:744000160957819": "2026-11-12",
   "smartrecruiters:bertelsmann-jobs:744000160577350": "2026-11-12",
   "smartrecruiters:bet3651:744000160877785": "2026-11-10",
@@ -70200,7 +70201,7 @@
   "remoteok": "2026-11-18T21:37:19+00:00",
   "usajobs": "2026-11-18T22:07:29+00:00",
   "workable_search": "2026-11-18T22:07:29+00:00",
-  "wwr": "2026-11-18T21:37:19+00:00",
+  "wwr": "2026-11-18T22:37:14+00:00",
   "yc": "2026-11-18T22:07:29+00:00"
  },
  "title_rules": "c323075b4d70",
