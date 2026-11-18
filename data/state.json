@@ -12093,17 +12093,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 241,
+   "n": 242,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 241,
+   "n": 242,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 241,
+   "n": 242,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -67059,6 +67059,7 @@
   "greenhouse:grvty:4482351009": "2026-11-07",
   "greenhouse:grvty:4511359009": "2026-11-17",
   "greenhouse:guidepointsecurity:6251376004": "2026-11-07",
+  "greenhouse:guidepointsecurity:6264977004": "2026-11-18",
   "greenhouse:halcyon:6252121004": "2026-11-14",
   "greenhouse:hearst:4466291009": "2026-11-07",
   "greenhouse:hearst:4466333009": "2026-11-07",
@@ -67186,6 +67187,7 @@
   "greenhouse:trueanomalyinc:5283892007": "2026-11-07",
   "greenhouse:trueanomalyinc:5286836007": "2026-11-12",
   "greenhouse:turing:6234874004": "2026-11-09",
+  "greenhouse:twilio:8385593": "2026-11-18",
   "greenhouse:twinstream:5016466101": "2026-11-09",
   "greenhouse:twinstream:5018760101": "2026-11-09",
   "greenhouse:twosixtechnologies:6237746004": "2026-11-07",
@@ -69245,6 +69247,7 @@
   "workable:bask-health-1:D5336F02A9": "2026-11-11",
   "workable:bci-brands:30337410C8": "2026-11-08",
   "workable:christie-lites-3:26D143E2E2": "2026-11-08",
+  "workable:credence:072FAF32A3": "2026-11-18",
   "workable:credence:BEA93CA48A": "2026-11-09",
   "workable:cwill-us:B2199498C1": "2026-11-10",
   "workable:eagle-seven:04E273F368": "2026-11-12",
@@ -69335,6 +69338,7 @@
   "workday:acrisure|wd1|Acrisure:Georgia; Texas; Virginia": "2026-11-07",
   "workday:acrisure|wd1|Acrisure:Michigan; Georgia; Virginia": "2026-11-12",
   "workday:acrisure|wd1|Acrisure:Texas": "2026-11-07",
+  "workday:acushnetgolf|wd12|ACU:Req#102178": "2026-11-18",
   "workday:aep|wd1|AEPCareerSite:R16828": "2026-11-12",
   "workday:aep|wd1|AEPCareerSite:R18464": "2026-11-08",
   "workday:aep|wd1|AEPCareerSite:R18906": "2026-11-08",
