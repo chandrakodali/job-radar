@@ -6,28 +6,28 @@ Open roles
 Founding Engineer Engineering · Full time Base $180K–$220K Equity 1–2% Apply
 Founding GTM Engineer Go-to-market · Full time Base $140K–$180K Equity 1–2% Apply
 A day at Sherpa
-gym
-8:00 am Most of us start here. Clears your head before the day gets loud.
-standup
-9:00 am Every day we all meet, figure out the highest priority right now, and go knock it out.
-babysitting agents
-10:00 am You've probably got a few agents running by now. Check their work, unblock them, send them back out.
-voicing into your agents
-11:00 am Talking to your agents. We do a lot of things here out loud.
-team lunch
-12:00 pm Hang out and catch up.
-live with a customer
-2:00 pm Watch a customer use Sherpa and improve whatever they need.
-ping pong
-4:00 pm Trust me, these get taken more seriously than they should.
-product review
-6:30 pm Show off what you shipped, get feedback, talk about what's next.
-team dinner
-7:00 pm Still talking about the product, usually.
-deep work
-8:00 pm Headphones on, no meetings. Some of the best stuff ships after dinner.
-last agents of the day
-10:00 pm Wrap up your work and send your agents off on long running tasks, so the work keeps shipping while you sleep.
+8:00 am Gym
+Most of us start here. Clears your head before the day gets loud.
+9:00 am Standup
+Every day we all meet, figure out the highest priority right now, and go knock it out.
+10:00 am Babysitting agents
+You've probably got a few agents running by now. Check their work, unblock them, send them back out.
+11:00 am Voicing into your agents
+Talking to your agents. We do a lot of things here out loud.
+12:00 pm Team lunch
+Hang out and catch up.
+2:00 pm Live with a customer
+Watch a customer use Sherpa and improve whatever they need.
+4:00 pm Ping pong
+Trust me, these get taken more seriously than they should.
+6:30 pm Product review
+Show off what you shipped, get feedback, talk about what's next.
+7:00 pm Team dinner
+Still talking about the product, usually.
+8:00 pm Deep work
+Headphones on, no meetings. Some of the best stuff ships after dinner.
+10:00 pm Last agents of the day
+Wrap up your work and send your agents off on long running tasks, so the work keeps shipping while you sleep.
 agents working
 until 8am
 See your own site on Sherpa.

@@ -100,9 +100,6 @@ Organic Yellow Bell Pepper
 Organic Yellow Bell Pepper quantity
 Organic Big Round Brinjal
 Organic Big Round Brinjal quantity
-Organic Knol Khol (Turnip Cabbage)
-Price range: ₹65.00 through ₹120.00
-Organic Knol Khol (Turnip Cabbage) quantity
 Organic Bok Choy
 Organic Bok Choy quantity
 Organic Brinjal – Small
@@ -131,8 +128,6 @@ Organic Parwal / Pointed Gourd quantity
 Desi Red Radish
 Price range: ₹55.00 through ₹90.00
 Desi Red Radish quantity
-Organic Raw Banana
-Organic Raw Banana quantity
 Organic Desi Kachchi Haldi
 Organic Desi Kachchi Haldi quantity
 Newly Added
@@ -175,12 +170,10 @@ Desi Rathi Cow Ghee | Cream Ghee quantity
 Stone Ground Whole Black Wheat Flour
 Price range: ₹75.00 through ₹135.00
 Stone Ground Whole Black Wheat Flour quantity
-Sridhanya Unpolished Millet Combo
-Price range: ₹426.00 through ₹774.00
-1 kg x 5
-Sridhanya Unpolished Millet Combo quantity
 Out of stock
 Flax Seeds
+Sridhanya Unpolished Millet Combo
+Price range: ₹426.00 through ₹774.00
 Slow Chakki Aata
 Stone Ground Lokwan Whole Wheat Flour
 Price range: ₹90.00 through ₹425.00
@@ -225,6 +218,7 @@ Rice Flour quantity
 Dals & Pulses
 Everyday Whole Pulses Pack
 Price range: ₹563.00 through ₹1,054.00
+1 kg x 5
 Everyday Whole Pulses Pack quantity
 Unpolished Desi Moong Dal Dhuli (Yellow)
 Price range: ₹120.00 through ₹220.00
@@ -401,9 +395,6 @@ Ragi Poha
 Ragi Poha quantity
 Bajra Poha
 Bajra Poha quantity
-Unpolished Barnyard Millet
-Price range: ₹90.00 through ₹160.00
-Unpolished Barnyard Millet quantity
 Unpolished Little Millet
 Unpolished Little Millet quantity
 Unpolished Kodo millet
@@ -413,6 +404,8 @@ Unpolished Foxtail Millet quantity
 Unpolished Proso Millet
 Price range: ₹110.00 through ₹190.00
 Unpolished Proso Millet quantity
+Unpolished Barnyard Millet
+Price range: ₹90.00 through ₹160.00
 Rice
 Desi Brown Rice | Multi-color
 Price range: ₹75.00 through ₹265.00

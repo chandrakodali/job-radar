@@ -1,10 +1,10 @@
 # Cloud, DevOps, SRE, platform and infrastructure roles (no job board)
 
-Updated 2026-11-17 21:59 UTC. **93 open roles** at 71 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
+Updated 2026-11-18 09:11 UTC. **94 open roles** at 72 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
 
 **Apply:** the ✉ link opens an email to the company's hiring address with the subject filled in; attach your résumé. Scores and notes use the radar's rules (config.yaml): higher is a better early-career fit; "location unclear" means the page didn't say, so check it. 🆕 = first seen in the last 2 days.
 
-## US or location not stated (93)
+## US or location not stated (94)
 
 | Score | Role | Company | Location | Apply | Since | Notes |
 |---:|---|---|---|---|---|---|
@@ -39,6 +39,7 @@ Updated 2026-11-17 21:59 UTC. **93 open roles** at 71 companies that post jobs o
 | 45 | [DevOps Engineer](https://www.getdynamiq.ai/careers/devops-engineer) | Dynamiq | ? | [✉ hello@getdynamiq.ai](mailto:hello@getdynamiq.ai?subject=Application%3A%20DevOps%20Engineer%20%E2%80%93%20Dynamiq) | Nov 11 | location unclear |
 | 45 | [Site Reliability Engineer](https://estuary.dev/about/) | Estuary | ? | [✉ careers@estuary.dev](mailto:careers@estuary.dev?subject=Application%3A%20Site%20Reliability%20Engineer%20%E2%80%93%20Estuary) | Nov 11 | location unclear |
 | 45 | [Infrastructure Engineer](https://www.ehl.markets/careers.html) | Event Horizon Labs | ? | [✉ careers@ehl.markets](mailto:careers@ehl.markets?subject=Application%3A%20Infrastructure%20Engineer%20%E2%80%93%20Event%20Horizon%20Labs) | Nov 11 | location unclear |
+| 45 | [DevOps / SRE Interview Master Guide](https://dev.to/jumptotech/devops-sre-interview-master-guide-4kko) 🆕 | Forem | ? | [Careers page](https://dev.to/jumptotech/devops-sre-interview-master-guide-4kko) | Nov 18 | location unclear |
 | 45 | [DevOps Engineer](https://www.giveffect.com/careers) | Giveffect | ? | [✉ careers@giveffect.com](mailto:careers@giveffect.com?subject=Application%3A%20DevOps%20Engineer%20%E2%80%93%20Giveffect) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer](https://meduzzen.com/careers/) | Meduzzen | ? | [Careers page](https://meduzzen.com/careers/) | Nov 11 | location unclear |
 | 45 | [Platform / DevOps Engineer](https://muzz.com/us/en/careers/) | Muzz | ? | [✉ careers@muzz.com](mailto:careers@muzz.com?subject=Application%3A%20Platform%20/%20DevOps%20Engineer%20%E2%80%93%20Muzz) | Nov 12 | location unclear |

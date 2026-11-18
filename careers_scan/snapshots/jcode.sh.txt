@@ -226,7 +226,7 @@ Get Jcode Desktop
 Changelog
 Releases and changelog . Full history on GitHub releases .
 Unreleased
-2026-11-17 · today
+2026-11-18 · today
 Changes since v1.0.0
 Automatically listed from commit messages.
 perf avoid cloning swarm members for visibility predicates
@@ -259,7 +259,13 @@ test preserve pricing parity and require completed refresh in profiles
 docs record headless PSS profiles and watchdog control
 fix distinguish absent numeric types from parse failures
 docs update downloads badge
+config retire obsolete swarm strip settings
+commit Retire inline swarm controls from panel navigation
+commit Remove retired bottom swarm agent strip
+commit Route swarm shortcuts directly to dedicated page
+commit Drop obsolete bottom swarm control hints
 v1.0.0
+2026-11-17 · 1d ago
 Swarms, Cloud, and a lighter terminal
 Release highlights.
 highlight Reworked swarms plan jobs in phases and parallel lanes, automatically start workers as dependencies finish, and show the whole team's progress in one pinned view

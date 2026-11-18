@@ -1,28 +1,29 @@
 Nominations are now live for Crypto Impact Awards 2026
 Nominate Now
 btc
-$75,625
-▼ 5.99%
+$64,682
+▲ 0.16%
 eth
-$2,225
-▼ 7.96%
+$1,814
+▼ 0.76%
 bnb
-$691
-▼ 3.29%
+$592
+▼ 0.04%
 sol
-$90
-▼ 7.33%
+$75
+▲ 3.11%
 xrp
-▼ 10.28%
+$0.9916
+▲ 3.33%
 usdc
 $0.9995
-▼ 0.03%
+▼ 0.01%
 ada
-$0.1835
-▼ 7.88%
+$0.1542
+▲ 0.58%
 doge
-$0.0719
-▼ 6.70%
+$0.0595
+▲ 1.01%
 Buy
 Buy on Binance
 Powered by

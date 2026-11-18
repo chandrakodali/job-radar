@@ -7,14 +7,18 @@ If you're unsure or don't see a specific role that fits your mold quite yet,
 we encourage you to apply regardless as we've always got things cooking!
 Loading jobs…
 Enter the skill(s) that fit your interests and background
-Senior Web & Video Player Engineer
-Timezone: GMT-5
-JavaScript HLS Video Player live streaming Senior Web Player Engineer
-Senior Forward Deployed Engineer (Backend-leaning)
+Technical Lead (Ruby On Rails/TypeScript/React)
 Timezone: GMT-8
-FDE TypeScript Python Fast API Node.js Express.js LLM AI AI Native Product PostgreSQL GCP Functions Jobs React
+TypeScript React Frontend Ruby on Rails
+Senior Backend Engineer
+Timezone: GMT-5
+Node.js TypeScript NestJS GCP REST API Kubernetes GitHub
 Senior Data Analyst
 Power BI Snowflake SQL Python DAX Microsoft Fabric ETL Azure Synapse DBT
+Senior Web & Video Player Engineer
+JavaScript HLS Video Player live streaming Senior Web Player Engineer
+Senior Forward Deployed Engineer (Backend-leaning)
+FDE TypeScript Python Fast API Node.js Express.js LLM AI AI Native Product PostgreSQL GCP Functions Jobs React
 Senior Rust Engineer
 Rust Senior Rust Engineer Tokio CI/CD
 Senior FullStack (Go/TypeScript) Engineer
@@ -116,11 +120,8 @@ Senior Data Engineer (AI/LLM Trainer)
 Python TypeScript PostgreSQL Docker Linux
 Senior Backend Engineer (AI/LLM Trainer)
 Python Fast API Node.js TypeScript Docker Linux
-Senior Backend Engineer
 Node.js TypeScript Python GCP LLM
 Pipelines Android Video streaming
-Senior Fullstack (Ruby On Rails/TypeScript/React) Engineer
-TypeScript React Frontend Ruby on Rails
 Senior Backend Engineer (Node.js/TypeScript)
 Timezone: GMT-7
 Node.js TypeScript MongoDB REST API

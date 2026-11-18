@@ -6,25 +6,26 @@ Related tags include #resume and #portfolio as resources to enhance your #career
 Older #career posts
 … 75
 … 100
-What are your goals for the week? #205
-Job search tips and community check-in
-Chris Jarvis
-Nov 16
-# discuss
-# career
-# productivity
-18 reactions
-7 comments
-1 min read
 Could I Still Do This From Scratch?
+Data shows devs are slower with AI
 Daniel Nwaneri
 Nov 17
+# discuss
 # ai
 # programming
-36 reactions
+# career
+47 reactions
+22 comments
 3 min read
+Part 6: The Walkthrough That Only Worked on My Machine
+Nnamdi Felix Ibe
+Nov 18
+12 reactions
+Add Comment
+12 min read
 Killed by Acronyms
 Felix Coutinho
+Nov 16
 # development
 # english
 9 reactions
@@ -33,59 +34,55 @@ Felix Coutinho
 The Arrogance of Having Outgrown Arrogance
 Adam - The Developer ✨
 # learning
-20 reactions
-Add Comment
+28 reactions
+1 comment
 5 min read
-What sort of developer should I be
-Sohail Nasir
-# retrospective
-# reflection
-# life
-8 min read
-I score engineering projects for IEEE. Most of them don't fail on the idea.
-Saifuddin Ahmed
-# engineering
-# community
-4 min read
-A fake recruiter sent me a coding test. The repo was malware
-Guilherme Michels
+Do cybersecurity certifications raise pay? Postings that name one advertise 13.8% less (Nov 2026)
+CyberJobs.cc
+# cybersecurity
 # security
-# github
-1 reaction
-IT Support Is More Than Fixing Computers: 5 Skills Every IT Support Specialist Needs
-Christian Ibiebele
-# itsupport
-# technology
-# troubleshooting
-Assemble Parts in Minimum Time: Greedy Min-Heap Solution in Java (Code Interview Problem)
-Moises Gamio
-# java
-# algorithms
-# interview
-6 min read
-Highest paying remote jobs in 2026: real salary ranges from company job postings
-Jones
-# remote
-# salary
-# jobs
-SAP-C03 starts on 17 November: what actually changed
-Jamie Davis
-# aws
-# cloud
-# certification
+# datascience
 2 min read
-When Experience Becomes a Liability: Programming in the Age of AI Agents
-Elisha Sterngold
-for Shipbook
-Japan's Job-Hunting System Is a Parallel Universe
+What Is a Forward Deployed Engineer? Role, Pay and Who Hires
+Szymon Paluch
+# softwareengineering
+# agents
+[백엔드 모의면접] 중복 결제는 어떻게 막을까?
+dev_interview_king
+# interview
+# backend
+1 min read
+Save us from this hell: how a magazine designer ended up in a Rails shop
+Caio Andrade
+# rails
+# webdev
+# beginners
+4 min read
+The Staff Survey Says It Is Anonymous and Your Team Has Four People
+Asael Shinder
+# asaelshinder
+# feedback
+# workplace
+This 29-Line Contract Failed 18 Checks. A Quick Read Would Have Missed Most of Them.
+Capafy Factory
+# freelance
+# contracts
+# tutorial
+6 min read
+A Colleague in Another Team Copies Your Manager Into Every Email to You
+# communication
+# teamwork
+Someone Who Joined After You Got the Promotion You Wanted
+# promotion
+# growth
+Your Mentee's Manager Has Asked You How They Are Getting On
+# mentorship
+# trust
+What Is an "Offer-Holder Mentor"? Japan's Strangest Career-Support Job, Explained
 Yama
 # japan
 # worklife
-How to Get Hired by a Major Company in Japan: An Insider's Map
-How to Run the First 30 Days With a Remote Software Development Partner
-Kapil Singhal
-# softwaredevelopment
-# projectmanagement
+I Ran a Client Contract Through a Checker Before Signing. It Found 4 Critical Problems.
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 How I Feel about the Grace Hopper Celebration Getting Cancelled
 Remembering Steven Schrembeck
@@ -101,17 +98,17 @@ Don't Be a Proxy Between Me and Your AI
 Are we software engineers doomed? Yes, because of AI!
 A Simple Guide to Passing the Claude Certified Developer Exam
 The Software Entropy in the AI Era
+AI Reduced the Cost of Coding. Did It Increase the Cost of Thinking?
 What an Anthropic hiring manager stopped asking candidates to do
 My AI-assisted coding interview was a lesson in reading unfamiliar code
 The Ever Changing Profession of Software Engineering
-DuckLake 1.0 and Iceberg 1.11: What a Data Engineer Should Know
-TopAccess: Freelancer Review
 Company career page scraper: every open job from any company, by name or domain
-Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
 No Human Will Ever Write Code Better Than LLMs? Better at What?
 Emotional Deadlocks: When Two People Wait for Each Other to Change First
-AI Made Coding Cheaper. So Why Is Building Software Still So Expensive?
-AI Reduced the Cost of Coding. Did It Increase the Cost of Thinking?
+DevOps / SRE Interview Master Guide
+TopAccess: Freelancer Review
+DuckLake 1.0 and Iceberg 1.11: What a Data Engineer Should Know
+Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
 We're a place where coders share, stay up-to-date and grow their careers.
 Log in
 Create account

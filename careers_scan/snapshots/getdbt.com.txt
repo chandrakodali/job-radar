@@ -88,7 +88,7 @@ Senior Staff Software Engineer - SAP Connectors
 Amsterdam, North Holland, Netherlands, EMEA
 Manager Software Engineering
 Remote, New York, United States, AMER
-Senior Software Engineer - Developer Experience
+Senior Software Engineer, Developer Experience
 Novi Sad, South Bačka, Serbia, EMEA
 Senior Site Reliability Engineer
 Lead Full Stack Engineer
@@ -127,7 +127,6 @@ Product Department
 Product Manager - Integrations
 Staff Product Manager, Connectors
 Staff Product Manager, AI & Developer Experience
-Senior Product Design Manager
 Senior Product Manager - Adapters
 Senior Program Manager
 Program Manager, Growth, Monetization & Strategic Initiatives
@@ -139,13 +138,13 @@ Senior Pricing & Monetization Data Scientist
 Product Designer II
 Professional Services Team
 Senior Technical Instructor (US East)
-Remote, Maryland, United States; Remote, Massachusetts, United States, AMER; Remote, New Jersey, United States, AMER; Remote, New York, United States, AMER; Remote, Pennsylvania, United States, AMER; Remote, Virginia, United States, AMER; Remote, Washington DC, United States, AMER
+Remote, Connecticut, United States, AMER
 Resident Solution Architect
 Sales Department
 Senior Sales Engineer, Commercial
 Dublin, Dublin, Ireland, EMEA
 Senior Sales Engineer, Enterprise
-Senior Sales Engineer, Enterprise - German Speaking
+Senior Sales Engineer, Enterprise, German Speaking
 Remote, Ireland, EMEA
 Commercial Sales Director (Benelux)
 Business Development Representative (Austin)

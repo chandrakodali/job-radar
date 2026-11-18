@@ -1,4 +1,4 @@
-New Blog: wfx GitHub Actions Credential Stealer Hits 8,000 Repos 12 Nov 2026
+New Blog: Microsoft agent-framework Compromised Twice on PyPI 18 Nov 2026
 For hands-on security engineering teams
 Software supply chain security at machine speed
 Block malicious packages before they run, on developer machines, AI coding agents, code repositories and CI/CD. Every install is checked against real-time threat intel and your policy, managed from the CLI or Git.
@@ -66,12 +66,12 @@ Stream supply chain threat intel into your SOC
 For security operations teams: the intel that protects SafeDep Cloud customers. Malicious packages, attacker domains, C2 URLs and the campaigns behind them, confirmed by SafeDep research.
 Get Threat Intel for your SOC Browse the public hub
 Recently confirmed by SafeDep Indicators shown defanged.
-Confirmed: 2026-09-23 Type: PyPI Indicator: MemoryOS@2.0.34 Campaign: sckit
-Confirmed: 2026-09-30 Type: URL Indicator: hxxp://198.105.127[.]210:443/boot Campaign: PolinRider
+Confirmed: 2026-11-18 Type: PyPI Indicator: agent-framework@1.26.1 Campaign:
+Confirmed: 2026-11-18 Type: URL Indicator: hxxps://webhook[.]site/d381fd80-ec62-42ad-8f5c-d1b15103c9bb?t=telemetry Campaign:
 Confirmed: 2026-09-23 Type: domain Indicator: skyleen[.]fr Campaign: sckit
 Confirmed: 2026-09-23 Type: npm Indicator: @memtensor/memos-cloud-openclaw-plugin@0.1.21 Campaign: sckit
 Confirmed: 2026-09-30 Type: IP Indicator: 23.27.20[.]187 Campaign: PolinRider
-Download a free sample: ioc.csv, 1,053 indicators
+Download a free sample: ioc.csv, 1,066 indicators
 Open source
 Open core.
 A unified platform for your team.
@@ -94,11 +94,14 @@ See pricing
 Research
 The research behind our threat intel
 We publish what we find, with the code and the indicators.
+2026-11-18
+Microsoft agent-framework Compromised Twice on PyPI
+Versions 1.26.1 and 1.26.2 of agent-framework, the Microsoft Agent Framework metapackage on PyPI, shipped a credential stealer that runs at every Python start. SafeDep flagged both. The second release went up 33 minutes after the first, with the payload renamed and GitHub Actions OIDC theft added.
 2026-11-16
 Malicious wppconnect Release Steals Secrets and WhatsApp Sessions
 Version 2.4.1 of @wppconnect-team/wppconnect and version 2.10.82 of @wppconnect/server shipped a credential stealer that runs on import or server start. It sends environment variables, .env files and WhatsApp session tokens to a Telegram bot. The repository history was then rewritten to hide the code.
 2026-11-12
-wfx: GitHub Actions Credential Stealer Hits 8,000 Repos
+wfx: GitHub Actions Credential Stealer Hits 8,000 Repositories
 Since November 10, 2026, an attacker has used stolen GitHub tokens to push a credential stealer into more than 8,000 repositories. It runs once in GitHub Actions or on npm install, sends secrets and cloud credentials to the attacker, and leaves cloud backdoors. Then the attacker reverts the commit.
 2026-11-11
 Compromised bee-js and Swarm Desktop Steal Swarm Wallet Keys
@@ -106,9 +109,6 @@ Version 13.3.0 of @ethersphere/bee-js, the JavaScript client for Swarm, added a 
 2026-11-10
 Backdoored PyPI Package fragment-api-py 14.4.2 Drains TON Wallets on Startup
 Version 14.4.2 of fragment-api-py, a PyPI client for Telegram Fragment, sends all TON and USDT from the user wallet to an attacker wallet when the client opens. The release is the old 13.0.0 code with a backdoor and a new version number.
-2026-11-09
-testmetest npm Packages Carry a Miasma-Family Worm
-19 npm packages carry a Miasma-family worm that steals credentials, spreads to other packages and installs a wiper. The latest wave plants instructions in GitHub repositories that tell AI coding agents to run the worm.
 All research on the blog
 Ship code. Not malware.
 Start free with your first endpoint or repository, then roll out across your organization at your own pace.
