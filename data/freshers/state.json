@@ -11998,17 +11998,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 107,
+   "n": 108,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 107,
+   "n": 108,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 107,
+   "n": 108,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -13360,11 +13360,6 @@
    "err": "Taleo portal number not found",
    "n": 3,
    "since": "2026-11-13"
-  },
-  "taleo:zionsbancorp|joinexternalmobile": {
-   "err": "invalid JSON",
-   "n": 1,
-   "since": "2026-11-18"
   },
   "teamtailor:encuadrado": {
    "disabled_until": "2026-11-20",
@@ -68363,6 +68358,7 @@
   "eightfold:astrazeneca:563877691763508": "2026-11-14",
   "eightfold:autodesk:1443152974280": "2026-11-15",
   "eightfold:autodesk:1443152974413": "2026-11-15",
+  "eightfold:autodesk:1443152974937": "2026-11-18",
   "eightfold:autodesk:1443153475673": "2026-11-14",
   "eightfold:autodesk:1443153475765": "2026-11-17",
   "eightfold:autodesk:1443153645461": "2026-11-15",

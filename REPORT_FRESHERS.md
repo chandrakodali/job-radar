@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**667 jobs**, newest first. Updated Tue Nov 17, 9:48 PM CST from 12,526 company job boards and other sources.
+**667 jobs**, newest first. Updated Tue Nov 17, 9:56 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -717,7 +717,7 @@ Jump to: [Tue 17 (59)](#tuesday-nov-17-59) · [Mon 16 (62)](#monday-nov-16-62) �
 | 11:00 PM | [Test Engineer I](https://careers-nikkiso.icims.com/jobs/4425/test-engineer-i/job) | Nikkiso | North Las Vegas, NV, United States | 68 | entry-level title |
 | 11:00 PM | [IT Technician-ITAM](https://careers-stifel.icims.com/jobs/10211/it-technician-itam/job) | Stifel | Saint Louis, MO, United States | 78 | 1+ yrs exp; entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3583)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3584)
 
 <details><summary>Show</summary>
 
