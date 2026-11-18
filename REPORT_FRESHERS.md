@@ -1,22 +1,24 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**666 jobs**, newest first. Updated Wed Nov 18, 12:46 AM CST from 12,526 company job boards and other sources.
+**667 jobs**, newest first. Updated Wed Nov 18, 1:47 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-221 repeat listings (same company and title in another place or on another source) are merged into one row.
+222 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 3,164 matching jobs that job sites and feeds listed this week, 564 (17%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (59)](#tuesday-nov-17-59) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (116)](#wednesday-nov-11-116)
+Jump to: [Wed 18 (3)](#wednesday-nov-18-3) · [Tue 17 (60)](#tuesday-nov-17-60) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (114)](#wednesday-nov-11-114)
 
-## Wednesday, Nov 18 (1)
+## Wednesday, Nov 18 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 2:19 AM | [Junior Security Engineer](https://jobs.lever.co/jobgether/7d7aae14-b608-463f-82c1-8eda7918b8cd) | Jobgether | US (remote) | 82 | entry-level title; 1+ yrs exp |
 | 12:49 AM | [Online Technical Support Engineer -Campus Hire Program](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040677) | Agilent Technologies | US-DE-Wilmington | 75 | entry-level title |
+| 12:00 AM | [Business Intelligence - Health Data Analyst 133-2022](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6571) | Ccok | Tulsa, OK, US | 75 | 1+ yrs exp |
 
-## Tuesday, Nov 17 (59)
+## Tuesday, Nov 17 (60)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -28,6 +30,7 @@ Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (59)](#tuesday-nov-17-59) 
 | 6:01 PM | [Test Center Administrator - Fresno, CA](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26280) | Pearson | Fresno, CA, United States +8 more (onsite) | 80 | 1+ yrs exp |
 | 5:34 PM | [Seasonal Fulfillment and Receiving Support Associate, Mall of Georgia](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826131) | Macy's | Buford, GA, United States | 75 | entry-level title |
 | 5:34 PM | [Seasonal Fulfillment and Receiving Support Associate, Christiana](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826125) | Macy's | Newark, DE, United States | 75 | entry-level title |
+| 5:34 PM | [Seasonal Fulfillment and Receiving Support Associate, Maui](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826101) | Macy's | Kahului, HI, United States | 75 | entry-level title |
 | 5:33 PM | [Seasonal Fulfillment and Receiving Support Associate, Monmouth](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826063) | Macy's | Eatontown, NJ, United States | 75 | entry-level title |
 | 5:32 PM | [Seasonal Fulfillment and Receiving Support Associate, Glenbrook Squar…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826053) | Macy's | Fort Wayne, IN, United States | 75 | entry-level title |
 | 5:22 PM | [Software Engineer I (Factory Platform)](https://boards.greenhouse.io/relativity/jobs/8949325002?gh_jid=8949325002) | Relativity Space | Long Beach, California, United States | 75 | entry-level title |
@@ -595,7 +598,7 @@ Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (59)](#tuesday-nov-17-59) 
 | 12:00 AM | [Technical Support Representative Tier 1](https://jobs.dayforcehcm.com/en-US/k12l/candidateportal/jobs/10918) | K12L | US | 68 | entry-level title |
 | 12:00 AM | [Salesforce FSC Associate (Contractor)](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9203) | Hightower | Chicago, IL, US | 68 | entry-level title |
 
-## Wednesday, Nov 11 (116)
+## Wednesday, Nov 11 (114)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -713,16 +716,18 @@ Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (59)](#tuesday-nov-17-59) 
 | 2:20 AM | [Technical Support Specialist](https://jobs.lever.co/jobgether/7c2a1c12-6082-4456-a741-a49aa1e01196) | Jobgether | US (remote) | 70 | 0-2 yrs exp; entry level (from the text) |
 | 2:00 AM | [Application Engineer](https://jobs.supermicro.com/job/San-Jose-Application-Engineer-Cali/1439784000/) | Super Micro Computer | San Jose, California, United States | 78 | 1+ yrs exp; entry level (from the text) |
 | 2:00 AM | [Business Data Analyst](https://jobs.dayforcehcm.com/en-US/allianthcm/smsalliant/jobs/44606) | Allianthcm | Omaha, NE, US | 63 | 1+ yrs exp |
-| 1:30 AM | [SAP BASIS Administrator Associate](https://jobs.smartrecruiters.com/O-I/744000161034659-sap-basis-administrator-associate) | O I | Perrysburg, OH, United States (hybrid) | 68 | entry-level title |
-| 1:00 AM | [Computer Science Associate - Intellectual Property Consulting](https://jobs.dayforcehcm.com/en-US/twh/CANDIDATEPORTAL/jobs/3893) | Twh | US | 63 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3590)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3594)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Professional Fee Coder 2 (Sign on Bonus eligible)](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11720) | UCSF | United States | 70 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 2:28 AM | [Infrastructure Support Specialist](https://jobs.lever.co/jobgether/16c47193-e372-4376-9293-7163f7e7d474) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 2:04 AM | [Cloud and DevOps Engineer](https://jobs.lever.co/jobgether/3e2d051e-4adc-416b-8f8f-aeb7da090178) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 12:58 AM | [Data Security Platform Engineer](https://ford.eightfold.ai/careers/job/563568454106691) | Ford | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 12:58 AM | [Data Security Platform Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73382) | Ford Motor Company | United States (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:22 AM | [AI Software Engineer](https://jobs.lever.co/jobgether/a66ccd3d-484d-454e-be89-ab587243010a) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:12 AM | [Software Engineer, R&D - IntelliScript](https://jobs.lever.co/jobgether/4a41391b-d46c-4831-b8ba-edc37c3b65a6) | Jobgether | US (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 40 | rules: 5+ yrs exp; location unclear; needs: ITAR |
@@ -1118,9 +1123,5 @@ Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (59)](#tuesday-nov-17-59) 
 | 1:56 PM | [Cyber Security Engineer 812](https://job-boards.greenhouse.io/freedomconsulting/jobs/5296662007) | Freedom Technology Solutions … | Chantilly, VA | 50 | rules: 10+ yrs exp; E-Verify; needs: active TS/SCI |
 | 1:50 PM | [Implementation Analyst, Fee Schedules - Remote](https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/170986) | Community Health Systems | United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 1:46 PM | [E-Trading Application Support Analyst](https://jobs.smartrecruiters.com/Talan/744000161899505-e-trading-application-support-analyst) | Talan | New York, , United States (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 1:45 PM | [Vehicle Safety and Compliance Integration Engineer](https://ford.eightfold.ai/careers/job/563568454085295) | Ford | Dearborn, MI, US (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 1:45 PM | [Vehicle Safety and Compliance Integration Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73152) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 1:45 PM | [Software Engineer, Training Infrastructure](https://jobs.ashbyhq.com/ThinkingMachines/5b2ee0dc-0fe5-4c5d-806d-e171187e460e) | ThinkingMachines | San Francisco; New York (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| 1:44 PM | [Agentic AI Engineer](https://job-boards.greenhouse.io/defenseunicorns/jobs/5296651007) | Defense Unicorns | Springfield, VA | 75 | rules: 2+ yrs exp; needs: Top Secret clearance |
 
 </details>
