@@ -1,19 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**606 jobs**, newest first. Updated Wed Nov 18, 5:07 PM CST from 12,526 company job boards and other sources.
+**607 jobs**, newest first. Updated Wed Nov 18, 5:37 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-253 repeat listings (same company and title in another place or on another source) are merged into one row.
+255 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,081 matching jobs that job sites and feeds listed this week, 746 (35%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,083 matching jobs that job sites and feeds listed this week, 746 (35%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (32)](#wednesday-nov-18-32) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (4)](#wednesday-nov-11-4)
+Jump to: [Wed 18 (35)](#wednesday-nov-18-35) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (3)](#wednesday-nov-11-3)
 
-## Wednesday, Nov 18 (32)
+## Wednesday, Nov 18 (35)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:37 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265309909/Senior-FinOps-Analyst-ID94366) | Agileengine | Tampa, United States +14 more | 25 | senior title, years not stated |
+| 5:18 PM | [Sr Software Engineer - Infrastructure & Platform](https://mercadolibre.eightfold.ai/careers/job/43350162) | Mercadolibre | CABA, CABA, AR (hybrid) | 60 | senior title, years not stated |
 | 4:57 PM | [Senior Application Security Engineer](https://jobs.ashbyhq.com/paxos/df3b7383-2900-4e72-acb0-eb3c1667573c) | Paxos | Remote - United States (remote) | 52 | senior title, years not stated |
 | 3:48 PM | [OT Infrastructure Engineer I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4564824) | Enchanted Rock Management LLC | Houston, TX, United States | 85 | entry-level title; 0-2 yrs exp |
 | 2:49 PM | [Application Support Engineer](https://job-boards.greenhouse.io/cooksys/jobs/5487021008) | Cook Systems | San Antonio, Texas | 50 |  |
@@ -35,6 +37,7 @@ Jump to: [Wed 18 (32)](#wednesday-nov-18-32) · [Tue 17 (34)](#tuesday-nov-17-34
 | date only | [DevOps Machine Learning Infrastructure](https://apply.workable.com/syntiant/j/802EC5CBAB/) | Syntiant | Redwood City, California, United States | 65 |  |
 | date only | [Senior Software Reliability Engineer – Splunk Framework & Runtime Ser…](https://careers.cisco.com/global/en/job/CISCISGLOBAL2030555EXTERNALENGLOBAL) | Cisco | Boulder, Colorado, United States of Ame… | 55 | 4+ yrs exp; senior title |
 | date only | [Oracle Cloud HCM HRIS Analyst Sr](https://eney.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1895) | Eney Fa Us2 Oraclecloud Com | United States (remote) | 52 | senior title, years not stated; E-Verify |
+| date only | [Software Engineer, Robotics Simulation & AI Infrastructure](https://qualcomm.eightfold.ai/careers/job/446722201254) | Qualcomm | San Diego, CA, US (onsite) | 65 |  |
 | 10:17 AM | [Senior Network Engineer - Enterprise Connectivity](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24215) | Montenson | MN, United States | 35 | senior title, years not stated; no future H-1B sponsorship |
 | 8:42 AM | [Software Engineer - Platform Engineering](https://job-boards.greenhouse.io/twilio/jobs/8385593) | Twilio | Remote - US (remote) | 67 | E-Verify |
 | 8:22 AM | [Senior Software Engineer - Cloud Infrastructure - (US Remote)](https://jobs.ashbyhq.com/clickhouse/caf49f06-ed35-4637-9372-f4df114e852f) | ClickHouse | NAMER and LatAm; United States | 55 | senior title, years not stated |
@@ -47,7 +50,7 @@ Jump to: [Wed 18 (32)](#wednesday-nov-18-32) · [Tue 17 (34)](#tuesday-nov-17-34
 | 2:00 AM | [DevOps](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/905) | Eci | Dallas, TX, US; Chicago, IL, US; New Yo… | 65 |  |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 45 | location unclear |
 
-## Tuesday, Nov 17 (34)
+## Tuesday, Nov 17 (33)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -60,7 +63,6 @@ Jump to: [Wed 18 (32)](#wednesday-nov-18-32) · [Tue 17 (34)](#tuesday-nov-17-34
 | 4:09 PM | [Site Reliability Engineer — Info Apps](https://jobs.apple.com/en-us/details/200695296/site-reliability-engineer-info-apps) | Apple | United States of America | 65 |  |
 | 4:07 PM | [Cloud AI & Software Engineer](https://jobs.workable.com/view/ky6Wnw19KEoeP8ZWw4m3r9/cloud-ai-%26-software-engineer-in-cedar-park-at-frontera-space) | Frontera Space | Cedar Park, Texas (onsite) | 70 |  |
 | 4:02 PM | [Software Engineer, Systems and Infrastructure](https://jobs.smartrecruiters.com/LinkedIn3/744000162178160-software-engineer-systems-and-infrastructure-) | LinkedIn | Bellevue, WA, United States (hybrid) | 85 | 1+ yrs exp; E-Verify; repost |
-| 3:37 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265311674/Senior-FinOps-Analyst-ID94366) | Agileengine | Richmond, United States +13 more | 25 | senior title, years not stated |
 | 3:28 PM | [Senior Software Engineer, Reliability](https://jobs.ashbyhq.com/temporal/af8d1e25-14b1-476d-a079-0d72cc5fdcd8) | Temporal | United States (Remote) (remote) | 52 | senior title, years not stated |
 | 2:51 PM | [Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695356/network-engineer-infrastructure-services) | Apple | United States of America | 65 |  |
 | 2:14 PM | [Infrastructure Systems Administrator - Great Neck (NY)](https://jobs.smartrecruiters.com/Medfar/744000162160732--infrastructure-systems-administrator-great-neck-ny-) | Medfar | Great Neck, New York, United States (hybrid) | 70 |  |
@@ -647,14 +649,13 @@ Jump to: [Wed 18 (32)](#wednesday-nov-18-32) · [Tue 17 (34)](#tuesday-nov-17-34
 | 1:00 AM (seen) | [Network Engineer](https://jobs.jobvite.com/jbs/job/oiO5Afwv) | JBS Foods | Richardson, Texas | 35 |  |
 | 1:00 AM (seen) | [Systems Reliability Engineer](https://jobs.jobvite.com/nutanix/job/osn3Afwc) | Nutanix |  | 55 | 2+ yrs exp; location unclear |
 
-## Wednesday, Nov 11 (4)
+## Wednesday, Nov 11 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:24 PM | [CAD Engineer - Signoff Infrastructure](https://jobs.apple.com/en-us/details/200684809/cad-engineer-signoff-infrastructure) | Apple | United States of America | 58 |  |
 | 8:35 PM | [Software Engineer - DevOps](https://jobs.lever.co/jobgether/b45aadee-df74-4ad4-8acd-f23de8ee8060) | Jobgether | US (remote) | 50 | 3+ yrs exp |
 | 7:35 PM | [Infrastructure Engineer - Labs](https://jobs.ashbyhq.com/Etched/b4ad6323-3d69-4881-a2db-e3967afbae65) | Etched | San Jose (onsite) | 70 |  |
-| 5:17 PM | [Senior Software Engineer, Engine Infrastructure](https://careers.roblox.com/jobs/8346849?gh_jid=8346849) | Roblox | San Mateo, CA, United States | 48 | 4+ yrs exp; senior title |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (774)
 

@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 258,
+   "n": 259,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 258,
+   "n": 259,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 258,
+   "n": 259,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15002,7 +15002,7 @@
   ],
   "2026-11-18": [
    153,
-   371
+   373
   ]
  },
  "resolved": {
@@ -66752,6 +66752,7 @@
   "eightfold:ford:563568454126356": "2026-11-17",
   "eightfold:globalfoundries:563980771068234": "2026-11-17",
   "eightfold:hp:44506725": "2026-11-14",
+  "eightfold:mercadolibre:43350162": "2026-11-18",
   "eightfold:mercadolibre:45520009": "2026-11-14",
   "eightfold:morganstanley:549800280238": "2026-11-18",
   "eightfold:morganstanley:549801018692": "2026-11-14",
@@ -66789,7 +66790,9 @@
   "eightfold:nvidia:893398750368": "2026-11-16",
   "eightfold:nvidia:893398768855": "2026-11-17",
   "eightfold:qualcomm:446719899052": "2026-11-15",
+  "eightfold:qualcomm:446722201254": "2026-11-18",
   "eightfold:qualcomm|qualcomm.com:446719899052": "2026-11-14",
+  "eightfold:qualcomm|qualcomm.com:446722201254": "2026-11-18",
   "eightfold:telekom-growthhub:563465374992312": "2026-11-17",
   "gem:altara:am9icG9zdDqB6S61MR3u-MiBbzCqg8VE": "2026-11-14",
   "gem:arxtalent:am9icG9zdDpPqYgwI39uN9eHsS4l4zUV": "2026-11-14",
@@ -67093,6 +67096,7 @@
   "greenhouse:gcmgrosvenor:8035872003": "2026-11-07",
   "greenhouse:givecampus:4479171009": "2026-11-09",
   "greenhouse:gofasti:6250585004": "2026-11-09",
+  "greenhouse:gofasti:6265799004": "2026-11-18",
   "greenhouse:grvty:4482351009": "2026-11-07",
   "greenhouse:grvty:4511359009": "2026-11-17",
   "greenhouse:guidepointsecurity:6251376004": "2026-11-07",
@@ -70151,6 +70155,7 @@
   "zoho:agileengine:248544000264434696": "2026-11-14",
   "zoho:agileengine:248544000264434702": "2026-11-14",
   "zoho:agileengine:248544000264434705": "2026-11-14",
+  "zoho:agileengine:248544000265309909": "2026-11-18",
   "zoho:agileengine:248544000265311674": "2026-11-17",
   "zoho:agileengine:248544000265311677": "2026-11-15",
   "zoho:agileengine:248544000265311680": "2026-11-17",
@@ -70202,10 +70207,10 @@
  },
  "source_last": {
   "hn": "2026-11-18T20:37:34+00:00",
-  "remoteok": "2026-11-18T21:37:19+00:00",
+  "remoteok": "2026-11-18T23:37:24+00:00",
   "usajobs": "2026-11-18T22:07:29+00:00",
   "workable_search": "2026-11-18T22:07:29+00:00",
-  "wwr": "2026-11-18T22:37:14+00:00",
+  "wwr": "2026-11-18T23:37:24+00:00",
   "yc": "2026-11-18T22:07:29+00:00"
  },
  "title_rules": "c323075b4d70",
