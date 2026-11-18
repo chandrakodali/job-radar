@@ -11994,17 +11994,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 88,
+   "n": 89,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 88,
+   "n": 89,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 88,
+   "n": 89,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13344,7 +13344,7 @@
   ],
   "2026-11-18": [
    60,
-   255
+   258
   ]
  },
  "resolved": {
@@ -65477,6 +65477,7 @@
   "catsone:ssa:16846517": "2026-11-14",
   "catsone:talentleaderscanada:16857958": "2026-11-14",
   "catsone:tangentia:16866709": "2026-11-14",
+  "catsone:tangentia:16874598": "2026-11-18",
   "catsone:techoundsllc:16631210": "2026-11-14",
   "catsone:tezzasolutions:16739696": "2026-11-14",
   "catsone:tezzasolutions:16748713": "2026-11-14",
@@ -65544,6 +65545,7 @@
   "dayforce:corpay|candidateportal:57537": "2026-11-15",
   "dayforce:evri|CANDIDATEPORTAL:10204": "2026-11-15",
   "dayforce:evri|CANDIDATEPORTAL:6742": "2026-11-17",
+  "dayforce:evri|CANDIDATEPORTAL:8942": "2026-11-18",
   "dayforce:hcmportal|CANDIDATEPORTAL:3116": "2026-11-15",
   "dayforce:hendersonco|candidateportal:8310": "2026-11-15",
   "dayforce:inframark|CANDIDATEPORTAL:13126": "2026-11-14",
@@ -66543,6 +66545,7 @@
   "hn:whoishiring:50500910-0": "2026-11-14",
   "hn:whoishiring:50508598-0": "2026-11-15",
   "hn:whoishiring:50518905-0": "2026-11-16",
+  "homerun:deftpower:new-platform-operations-engineer-emobility-saas": "2026-11-18",
   "homerun:quanza:software-engineer": "2026-11-14",
   "homerun:thefactore:senior-full-stack-developer-java-angular-detachering": "2026-11-18",
   "homerun:thefactore:senior-java-developer-detachering": "2026-11-18",
@@ -68903,6 +68906,7 @@
   "workable:foresight-works:30424188A1": "2026-11-14",
   "workable:foresight-works:9EF6EB0FAC": "2026-11-14",
   "workable:fortanix:875358F4F4": "2026-11-14",
+  "workable:hospitable:A2091F150C": "2026-11-18",
   "workable:interimage:0845C3BE9D": "2026-11-17",
   "workable:interimage:14FE0084AC": "2026-11-17",
   "workable:interimage:4AEBC9A57E": "2026-11-17",
@@ -69856,10 +69860,10 @@
  },
  "source_last": {
   "hn": "2026-11-18T08:46:20+00:00",
-  "remoteok": "2026-11-18T09:47:59+00:00",
+  "remoteok": "2026-11-18T11:45:46+00:00",
   "usajobs": "2026-11-18T09:47:59+00:00",
   "workable_search": "2026-11-18T09:47:59+00:00",
-  "wwr": "2026-11-18T10:48:40+00:00",
+  "wwr": "2026-11-18T11:45:46+00:00",
   "yc": "2026-11-18T09:47:59+00:00"
  },
  "title_rules": "72f554d20a7f",
