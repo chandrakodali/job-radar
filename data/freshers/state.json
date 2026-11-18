@@ -11998,17 +11998,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 112,
+   "n": 113,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 112,
+   "n": 113,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 112,
+   "n": 113,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12161,6 +12161,11 @@
    "n": 3,
    "since": "2026-11-13"
   },
+  "greenhouse:engineeringatgigs": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-18"
+  },
   "greenhouse:eu:fuzehealth": {
    "disabled_until": "2026-11-20",
    "err": "HTTP 404",
@@ -12190,6 +12195,11 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-13"
+  },
+  "greenhouse:gigs": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-18"
   },
   "greenhouse:glossgenius": {
    "disabled_until": "2026-11-20",
@@ -13801,8 +13811,8 @@
    769
   ],
   "2026-11-18": [
-   29,
-   201
+   44,
+   298
   ]
  },
  "resolved": {
@@ -65300,6 +65310,7 @@
   "ashby:elevenlabs:750a8325-7ce1-45ea-b0b1-61dab78a456e": "2026-11-13",
   "ashby:elevenlabs:ce3d5a59-fb8c-482b-bc3f-60e44576c5e0": "2026-11-13",
   "ashby:elevenlabs:e4e0450f-d139-4f8e-b210-2f326a680d90": "2026-11-13",
+  "ashby:ema:9728a171-9617-4533-9f03-10c14c3b6ca5": "2026-11-18",
   "ashby:embedding-vc:b821e16b-3272-4650-af67-de16eeeb4010": "2026-11-13",
   "ashby:equip:829ff280-4d61-4b23-a754-af75e1282203": "2026-11-13",
   "ashby:eradrive:679a793c-82d0-4ab2-b764-471a39e6e148": "2026-11-13",
@@ -66329,6 +66340,7 @@
   "bamboohr:gupta:211": "2026-11-15",
   "bamboohr:haasf1team:920": "2026-11-15",
   "bamboohr:haasf1team:931": "2026-11-15",
+  "bamboohr:haasf1team:939": "2026-11-18",
   "bamboohr:halifaxfanusa:58": "2026-11-15",
   "bamboohr:heirloom:83": "2026-11-15",
   "bamboohr:heirloom:84": "2026-11-15",
@@ -68357,6 +68369,7 @@
   "eightfold:appliedmaterials:790319539014": "2026-11-16",
   "eightfold:appliedmaterials:790319543510": "2026-11-17",
   "eightfold:appliedmaterials:790319552123": "2026-11-17",
+  "eightfold:appliedmaterials:790319558164": "2026-11-18",
   "eightfold:arcadis:563671533245008": "2026-11-14",
   "eightfold:arcadis:563671533389041": "2026-11-14",
   "eightfold:arcadis:563671533429655": "2026-11-16",
@@ -73654,6 +73667,7 @@
   "lever:jobgether:36aa2690-4e9d-419a-ae9a-2baa8c974bb0": "2026-11-17",
   "lever:jobgether:373f8aff-6b57-4ea6-afe1-00ce5ad02a46": "2026-11-14",
   "lever:jobgether:37ab3f74-0aea-42f5-b3d7-2357257b7876": "2026-11-14",
+  "lever:jobgether:3a0e8808-3d07-4e7a-b76a-e34b4be33d58": "2026-11-18",
   "lever:jobgether:3d7363a9-6abd-46e6-a90e-79d98e3ae646": "2026-11-16",
   "lever:jobgether:3e2d051e-4adc-416b-8f8f-aeb7da090178": "2026-11-18",
   "lever:jobgether:41c2eaaf-fd24-4d0f-9938-9b97d6cb238c": "2026-11-16",
@@ -81150,8 +81164,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-18T05:49:20+00:00",
-  "yc": "2026-11-18T05:49:20+00:00"
+  "workable_search": "2026-11-18T08:46:26+00:00",
+  "yc": "2026-11-18T08:46:26+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1

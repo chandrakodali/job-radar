@@ -1,14 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**667 jobs**, newest first. Updated Wed Nov 18, 1:47 AM CST from 12,526 company job boards and other sources.
+**664 jobs**, newest first. Updated Wed Nov 18, 2:46 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-222 repeat listings (same company and title in another place or on another source) are merged into one row.
+221 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,164 matching jobs that job sites and feeds listed this week, 564 (17%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 3,261 matching jobs that job sites and feeds listed this week, 579 (17%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (3)](#wednesday-nov-18-3) · [Tue 17 (60)](#tuesday-nov-17-60) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (114)](#wednesday-nov-11-114)
+Jump to: [Wed 18 (3)](#wednesday-nov-18-3) · [Tue 17 (60)](#tuesday-nov-17-60) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (111)](#wednesday-nov-11-111)
 
 ## Wednesday, Nov 18 (3)
 
@@ -598,7 +598,7 @@ Jump to: [Wed 18 (3)](#wednesday-nov-18-3) · [Tue 17 (60)](#tuesday-nov-17-60) 
 | 12:00 AM | [Technical Support Representative Tier 1](https://jobs.dayforcehcm.com/en-US/k12l/candidateportal/jobs/10918) | K12L | US | 68 | entry-level title |
 | 12:00 AM | [Salesforce FSC Associate (Contractor)](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9203) | Hightower | Chicago, IL, US | 68 | entry-level title |
 
-## Wednesday, Nov 11 (114)
+## Wednesday, Nov 11 (111)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -713,17 +713,15 @@ Jump to: [Wed 18 (3)](#wednesday-nov-18-3) · [Tue 17 (60)](#tuesday-nov-17-60) 
 | 7:31 AM | [(US DC) Systems Analyst](https://careers.hellofresh.com/global/en/job/HELLGLOBAL8335726EXTERNALENGLOBAL) | Hello Fresh | Phoenix, AZ, United States +1 more | 78 | 1+ yrs exp; entry level (from the text) |
 | 6:28 AM | [Associate IT Analyst - Jacksonville,  FL](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42298) | GuideWell Mutual | Jacksonville, FL, United States (hybrid) | 83 | entry-level title; 1+ yrs exp |
 | 5:32 AM | [Help Desk Associate, Bureau of Early Intervention](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016787126-help-desk-associate-bureau-of-early-intervention) | Cityofnewyork | Long Island City, NY, United States | 63 | entry-level title |
-| 2:20 AM | [Technical Support Specialist](https://jobs.lever.co/jobgether/7c2a1c12-6082-4456-a741-a49aa1e01196) | Jobgether | US (remote) | 70 | 0-2 yrs exp; entry level (from the text) |
-| 2:00 AM | [Application Engineer](https://jobs.supermicro.com/job/San-Jose-Application-Engineer-Cali/1439784000/) | Super Micro Computer | San Jose, California, United States | 78 | 1+ yrs exp; entry level (from the text) |
-| 2:00 AM | [Business Data Analyst](https://jobs.dayforcehcm.com/en-US/allianthcm/smsalliant/jobs/44606) | Allianthcm | Omaha, NE, US | 63 | 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3594)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3597)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Professional Fee Coder 2 (Sign on Bonus eligible)](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11720) | UCSF | United States | 70 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 2:37 AM | [Salesforce Support Specialist](https://jobs.lever.co/jobgether/3a0e8808-3d07-4e7a-b76a-e34b4be33d58) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 2:28 AM | [Infrastructure Support Specialist](https://jobs.lever.co/jobgether/16c47193-e372-4376-9293-7163f7e7d474) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 2:04 AM | [Cloud and DevOps Engineer](https://jobs.lever.co/jobgether/3e2d051e-4adc-416b-8f8f-aeb7da090178) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 12:58 AM | [Data Security Platform Engineer](https://ford.eightfold.ai/careers/job/563568454106691) | Ford | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -936,6 +934,8 @@ Jump to: [Wed 18 (3)](#wednesday-nov-18-3) · [Tue 17 (60)](#tuesday-nov-17-60) 
 | date only | [Security Engineer](https://jobs.jobvite.com/hoar/job/oDf7Afwj) | Hoar | Birmingham, Alabama, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Software Development Engineer, Devices Software & Services](https://www.amazon.jobs/en/jobs/10607712/software-development-engineer-devices-software-services) | Amazon.com Services LLC | Irvine, California, USA | 53 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Engineer, Collective Communication and Network Performance](https://nvidia.eightfold.ai/careers/job/893398782287) | Nvidia | Santa Clara, CA, US; Austin, TX, US (onsite) | 43 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| date only | [Data Scientist - Agentic AI / ML](https://appliedmaterials.eightfold.ai/careers/job/790319558164) | Appliedmaterials | Santa Clara, CA, US (onsite) | 58 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Modern Workplace Solutions Specialist](https://haasf1team.bamboohr.com/careers/939) | Haasf1Team | Banbury, Oxfordshire | 33 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
 | 10:56 AM | [Global Security Investigator - Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804485) | JP Morgan Chase | Tampa, FL, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
 | 10:47 AM | [Advanced Technical Support](https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26099) | Denso | Athens, TN, United States (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:37 AM | [GIS Associate](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250559) | Cantor Fitzgerald | Houston, TX, United States | 50 | rules: entry-level title; 5+ yrs exp; no future H-1B sponsorship; ask… |
@@ -1120,8 +1120,5 @@ Jump to: [Wed 18 (3)](#wednesday-nov-18-3) · [Tue 17 (60)](#tuesday-nov-17-60) 
 | 2:07 PM | [Firmware Engineer](https://jobs.ashbyhq.com/Molg/6a7a6207-c5fe-470c-838e-0310d1f2ac60) | Molg | Sterling (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:03 PM | [Ops Support Technician I](https://job-boards.greenhouse.io/rocketlab/jobs/8203634003) | Rocket Lab USA | Albuquerque, NM | 75 | rules: entry-level title; needs: must be a U.S. citizen |
 | 2:01 PM | [HR Systems & Operations Analyst](https://www.ixl.com/company/jobs?gh_jid=8944983002) | Ixllearning | San Mateo, CA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 1:56 PM | [Cyber Security Engineer 812](https://job-boards.greenhouse.io/freedomconsulting/jobs/5296662007) | Freedom Technology Solutions … | Chantilly, VA | 50 | rules: 10+ yrs exp; E-Verify; needs: active TS/SCI |
-| 1:50 PM | [Implementation Analyst, Fee Schedules - Remote](https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/170986) | Community Health Systems | United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 1:46 PM | [E-Trading Application Support Analyst](https://jobs.smartrecruiters.com/Talan/744000161899505-e-trading-application-support-analyst) | Talan | New York, , United States (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 
 </details>
