@@ -12092,17 +12092,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 225,
+   "n": 226,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 225,
+   "n": 226,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 225,
+   "n": 226,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14975,8 +14975,8 @@
    405
   ],
   "2026-11-18": [
-   36,
-   98
+   54,
+   132
   ]
  },
  "resolved": {
@@ -68106,6 +68106,7 @@
   "lever:jobgether:0e899f97-552a-4ed8-9491-07c4db1805f7": "2026-11-16",
   "lever:jobgether:14040680-3949-47cf-b666-01b3ec6f2f3b": "2026-11-16",
   "lever:jobgether:1e563cf7-02a8-43b0-a8e0-03a4ef5eaf1a": "2026-11-14",
+  "lever:jobgether:3e2d051e-4adc-416b-8f8f-aeb7da090178": "2026-11-18",
   "lever:jobgether:41c2eaaf-fd24-4d0f-9938-9b97d6cb238c": "2026-11-16",
   "lever:jobgether:4286ffa5-bae5-4ccc-bf9c-000d74badf2e": "2026-11-16",
   "lever:jobgether:4567bc98-d2e0-45b0-8f61-19f77e7ac416": "2026-11-14",
@@ -68281,6 +68282,7 @@
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:71905": "2026-11-08",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:72825": "2026-11-08",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73087": "2026-11-08",
+  "oracle:efds.fa.em5.oraclecloud.com|CX_1:73382": "2026-11-18",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73528": "2026-11-12",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73649": "2026-11-17",
   "oracle:egoh.fa.us2.oraclecloud.com|CX_1001:32568": "2026-11-16",
@@ -70087,10 +70089,10 @@
  "source_last": {
   "hn": "2026-11-18T02:37:14+00:00",
   "remoteok": "2026-11-18T05:37:17+00:00",
-  "usajobs": "2026-11-18T04:07:16+00:00",
-  "workable_search": "2026-11-18T04:07:16+00:00",
+  "usajobs": "2026-11-18T07:07:13+00:00",
+  "workable_search": "2026-11-18T07:07:13+00:00",
   "wwr": "2026-11-18T06:37:13+00:00",
-  "yc": "2026-11-18T04:07:16+00:00"
+  "yc": "2026-11-18T07:07:13+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1

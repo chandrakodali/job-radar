@@ -1,20 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**628 jobs**, newest first. Updated Wed Nov 18, 12:37 AM CST from 12,526 company job boards and other sources.
+**629 jobs**, newest first. Updated Wed Nov 18, 1:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 253 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,808 matching jobs that job sites and feeds listed this week, 629 (34%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,842 matching jobs that job sites and feeds listed this week, 647 (35%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50)
+Jump to: [Wed 18 (3)](#wednesday-nov-18-3) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (50)](#wednesday-nov-11-50)
 
-## Wednesday, Nov 18 (2)
+## Wednesday, Nov 18 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Network Engineer (Cisco ISE, Palo Alto, BGP/OSPF)](https://hyundaiautoeveramerica.applytojob.com/apply/bOSkA8wT1E/Network-Engineer-Cisco-ISE-Palo-Alto-BGPOSPF) | Hyundai AutoEver America | Irvine, CA | 50 |  |
+| 2:04 AM | [Cloud and DevOps Engineer](https://jobs.lever.co/jobgether/3e2d051e-4adc-416b-8f8f-aeb7da090178) | Jobgether | US (remote) | 72 | 2+ yrs exp |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 45 | location unclear |
 
 ## Tuesday, Nov 17 (34)
@@ -678,12 +679,13 @@ Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (34)](#tuesday-nov-17-34) 
 | 2:24 AM | [Senior Cloud Security Engineer](https://jobs.lever.co/jobgether/73d75c56-c3b4-403f-b49d-93905c180592) | Jobgether | US (remote) | 45 | 3+ yrs exp; senior title |
 | 2:00 AM | [Senior Engineer Core Infrastructure](https://careers.jetblue.com/job/Long-Island-City-Senior-Engineer-Core-Infrastructure-NY-11101/1389530100/) | JetBlue | Long Island City, NY, United States | 53 | 4+ yrs exp; senior title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (748)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (749)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 12:58 AM | [Data Security Platform Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73382) | Ford Motor Company | United States (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:38 PM | [Forward Deployment Engineer](https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf) | GrayMatter Robotics | Remote - USA (remote) | 47 | rules: adjacent title, little DevOps/cloud work in the text |
 | 7:28 PM | [Senior Software Engineer, Cloud Infrastructure](https://jobs.ashbyhq.com/beaconai/c6225eb8-8941-411c-9e28-798c323ee224) | Beacon AI | San Carlos  - Hybrid | 50 | rules: senior title, years not stated; no future H-1B sponsorship; ne… |
 | 7:28 PM | [Network Administrator (Remote)](https://job-boards.greenhouse.io/its/jobs/8202896003) | Its | International (remote) | 22 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
@@ -1083,7 +1085,6 @@ Jump to: [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (34)](#tuesday-nov-17-34) 
 | date only | [Systems Administrator II](https://cni.wd503.myworkdayjobs.com/CNI/job/Ellsworth-AFB-SD/Systems-Administrator-II_R9776) | Chickasaw Nation Industries | Ellsworth AFB, SD | 25 | rules: 9+ yrs exp; asks for 9+ years of experience |
 | date only | [Senior Analyst I - Network Engineer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---IA---CEDAR-RAPIDS/Senior-Analyst-I-Network-Engineer---Cedar-Rapids--IA_51594314) | DXC Technology | USA - IA - CEDAR RAPIDS | 45 | rules: entry-level title; 5+ yrs exp; senior title; E-Verify; needs: … |
 | date only | [Senior Analyst II - Network Engineer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/USA---IL---ANY-CITY/Senior-Analyst-II-Network-Engineer-Rockford-IL_51594448) | DXC Technology | USA - IL - ANY CITY | 45 | rules: 4+ yrs exp; senior title; E-Verify; needs: only US Persons |
-| date only | [Business System Administrator II](https://faithtechnologies.wd1.myworkdayjobs.com/FTI/job/WI---Menasha/Business-System-Administrator-II_R12922-1) | Faith Technologies | WI - Menasha; KS - Olathe (remote) | 22 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
 
