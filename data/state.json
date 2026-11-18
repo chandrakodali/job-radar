@@ -12092,17 +12092,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 226,
+   "n": 227,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 226,
+   "n": 227,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 226,
+   "n": 227,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14976,7 +14976,7 @@
   ],
   "2026-11-18": [
    54,
-   132
+   136
   ]
  },
  "resolved": {
@@ -66698,6 +66698,7 @@
   "eightfold:eaton:687240042663": "2026-11-17",
   "eightfold:eaton|eaton.com:687239541052": "2026-11-09",
   "eightfold:eaton|eaton.com:687240042663": "2026-11-17",
+  "eightfold:ford:563568454106691": "2026-11-18",
   "eightfold:ford:563568454116722": "2026-11-14",
   "eightfold:ford:563568454126356": "2026-11-17",
   "eightfold:globalfoundries:563980771068234": "2026-11-17",
@@ -67277,6 +67278,7 @@
   "icims:careers-avondale.icims.com:2370": "2026-11-14",
   "icims:careers-axway.icims.com:8963": "2026-11-12",
   "icims:careers-axway.icims.com:9031": "2026-11-09",
+  "icims:careers-axway.icims.com:9153": "2026-11-18",
   "icims:careers-bancroft.icims.com:21147": "2026-11-14",
   "icims:careers-barrios.icims.com:2851": "2026-11-12",
   "icims:careers-barrios.icims.com:2852": "2026-11-12",
@@ -68105,6 +68107,7 @@
   "lever:jobgether:0c283a8d-6190-4326-acea-e12a22f0bc12": "2026-11-14",
   "lever:jobgether:0e899f97-552a-4ed8-9491-07c4db1805f7": "2026-11-16",
   "lever:jobgether:14040680-3949-47cf-b666-01b3ec6f2f3b": "2026-11-16",
+  "lever:jobgether:16c47193-e372-4376-9293-7163f7e7d474": "2026-11-18",
   "lever:jobgether:1e563cf7-02a8-43b0-a8e0-03a4ef5eaf1a": "2026-11-14",
   "lever:jobgether:3e2d051e-4adc-416b-8f8f-aeb7da090178": "2026-11-18",
   "lever:jobgether:41c2eaaf-fd24-4d0f-9938-9b97d6cb238c": "2026-11-16",
@@ -70088,10 +70091,10 @@
  },
  "source_last": {
   "hn": "2026-11-18T02:37:14+00:00",
-  "remoteok": "2026-11-18T05:37:17+00:00",
+  "remoteok": "2026-11-18T07:37:16+00:00",
   "usajobs": "2026-11-18T07:07:13+00:00",
   "workable_search": "2026-11-18T07:07:13+00:00",
-  "wwr": "2026-11-18T06:37:13+00:00",
+  "wwr": "2026-11-18T07:37:16+00:00",
   "yc": "2026-11-18T07:07:13+00:00"
  },
  "title_rules": "c323075b4d70",
