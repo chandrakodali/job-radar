@@ -11748,6 +11748,11 @@
   "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-16"
  },
  "fails": {
+  "apple:usa": {
+   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
+   "n": 1,
+   "since": "2026-11-18"
+  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-25",
    "err": "HTTP 404",
@@ -12092,17 +12097,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 237,
+   "n": 238,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 237,
+   "n": 238,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 237,
+   "n": 238,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14987,8 +14992,8 @@
    405
   ],
   "2026-11-18": [
-   72,
-   190
+   92,
+   226
   ]
  },
  "resolved": {
@@ -65974,6 +65979,7 @@
   "ashby:polygon-labs:ec7277f7-4757-4863-967c-eecaee0d0740": "2026-11-14",
   "ashby:posthog:1464036f-94d5-4dbd-aef8-fe99246a26d4": "2026-11-16",
   "ashby:prefect:6bc102cc-112f-441f-adc8-d53dc83a93ec": "2026-11-12",
+  "ashby:prior-labs:885bf4f6-e68c-4fc5-8385-e8d3615093fe": "2026-11-18",
   "ashby:protege:7dbd4900-e5fe-4df7-aa13-e7beda6f1595": "2026-11-16",
   "ashby:qumulo:d60cca8b-7c6a-4883-bcae-a67dd958e2e1": "2026-11-13",
   "ashby:quora:dce88e1a-d30f-44e6-a471-cf810fc9a449": "2026-11-16",
@@ -67382,6 +67388,7 @@
   "icims:careers-dminc.icims.com:28810": "2026-11-09",
   "icims:careers-dminc.icims.com:28848": "2026-11-09",
   "icims:careers-dminc.icims.com:29069": "2026-11-12",
+  "icims:careers-dminc.icims.com:29072": "2026-11-18",
   "icims:careers-dminc.icims.com:29073": "2026-11-17",
   "icims:careers-e2optics.icims.com:3575": "2026-11-09",
   "icims:careers-e2optics.icims.com:3842": "2026-11-09",
@@ -70112,10 +70119,10 @@
  "source_last": {
   "hn": "2026-11-18T08:37:15+00:00",
   "remoteok": "2026-11-18T11:37:16+00:00",
-  "usajobs": "2026-11-18T10:07:21+00:00",
-  "workable_search": "2026-11-18T10:07:21+00:00",
+  "usajobs": "2026-11-18T13:07:36+00:00",
+  "workable_search": "2026-11-18T13:07:36+00:00",
   "wwr": "2026-11-18T12:37:16+00:00",
-  "yc": "2026-11-18T10:07:21+00:00"
+  "yc": "2026-11-18T13:07:36+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
