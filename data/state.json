@@ -12092,17 +12092,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 228,
+   "n": 229,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 228,
+   "n": 229,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 228,
+   "n": 229,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12255,6 +12255,11 @@
    "n": 4,
    "since": "2026-11-11"
   },
+  "greenhouse:engineeringatgigs": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-18"
+  },
   "greenhouse:eu:fuzehealth": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -12290,6 +12295,11 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-07"
+  },
+  "greenhouse:gigs": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-18"
   },
   "greenhouse:glossgenius": {
    "disabled_until": "2026-11-21",
@@ -12518,11 +12528,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 4,
    "since": "2026-11-09"
-  },
-  "icims:careers-apexservicepartners.icims.com": {
-   "err": "HTTP 521",
-   "n": 1,
-   "since": "2026-11-18"
   },
   "icims:careers-biorad.icims.com": {
    "disabled_until": "2026-11-23",
@@ -14981,7 +14986,7 @@
   ],
   "2026-11-18": [
    54,
-   136
+   140
   ]
  },
  "resolved": {
@@ -70095,11 +70100,11 @@
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-18T02:37:14+00:00",
+  "hn": "2026-11-18T08:37:15+00:00",
   "remoteok": "2026-11-18T07:37:16+00:00",
   "usajobs": "2026-11-18T07:07:13+00:00",
   "workable_search": "2026-11-18T07:07:13+00:00",
-  "wwr": "2026-11-18T07:37:16+00:00",
+  "wwr": "2026-11-18T08:37:15+00:00",
   "yc": "2026-11-18T07:07:13+00:00"
  },
  "title_rules": "c323075b4d70",

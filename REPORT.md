@@ -1,14 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**629 jobs**, newest first. Updated Wed Nov 18, 2:07 AM CST from 12,526 company job boards and other sources.
+**628 jobs**, newest first. Updated Wed Nov 18, 2:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 253 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,846 matching jobs that job sites and feeds listed this week, 647 (35%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,850 matching jobs that job sites and feeds listed this week, 647 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (4)](#wednesday-nov-18-4) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (49)](#wednesday-nov-11-49)
+Jump to: [Wed 18 (4)](#wednesday-nov-18-4) · [Tue 17 (34)](#tuesday-nov-17-34) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (323)](#saturday-nov-14-323) · [Fri 13 (63)](#friday-nov-13-63) · [Thu 12 (95)](#thursday-nov-12-95) · [Wed 11 (48)](#wednesday-nov-11-48)
 
 ## Wednesday, Nov 18 (4)
 
@@ -625,7 +625,7 @@ Jump to: [Wed 18 (4)](#wednesday-nov-18-4) · [Tue 17 (34)](#tuesday-nov-17-34) 
 | 1:00 AM (seen) | [Network Engineer](https://jobs.jobvite.com/jbs/job/oiO5Afwv) | JBS Foods | Richardson, Texas | 35 |  |
 | 1:00 AM (seen) | [Systems Reliability Engineer](https://jobs.jobvite.com/nutanix/job/osn3Afwc) | Nutanix |  | 55 | 2+ yrs exp; location unclear |
 
-## Wednesday, Nov 11 (49)
+## Wednesday, Nov 11 (48)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -677,7 +677,6 @@ Jump to: [Wed 18 (4)](#wednesday-nov-18-4) · [Tue 17 (34)](#tuesday-nov-17-34) 
 | 4:39 AM | [Network Engineer, Jacksonville FL](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42291) | GuideWell Mutual | Jacksonville, FL, United States (onsite) | 50 | 4+ yrs exp |
 | 3:56 AM | [NOC Engineer](https://hardrockdigital.recruitee.com/o/noc-engineer-5) | Hard Rock Digital | United States, Florida, United States (remote) | 50 | 2+ yrs exp |
 | 3:25 AM | [Application Security Engineer](https://job-boards.greenhouse.io/intercom/jobs/8371261) | Fin | Chicago, Illinois | 65 |  |
-| 2:24 AM | [Senior Cloud Security Engineer](https://jobs.lever.co/jobgether/73d75c56-c3b4-403f-b49d-93905c180592) | Jobgether | US (remote) | 45 | 3+ yrs exp; senior title |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (750)
 
