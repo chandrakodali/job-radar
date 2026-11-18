@@ -1,14 +1,14 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**197 jobs**, newest first. Updated Tue Nov 17, 7:19 PM CST from 12,526 company job boards and other sources.
+**196 jobs**, newest first. Updated Tue Nov 17, 8:15 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 123 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,411 matching jobs that job sites and feeds listed this week, 334 (23%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,419 matching jobs that job sites and feeds listed this week, 334 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (1)](#tuesday-nov-10-1)
+Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20)
 
 ## Wednesday, Nov 18 (1)
 
@@ -245,12 +245,6 @@ Jump to: [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (18)](#tuesday-nov-17-18) 
 | 8:49 AM | [WMS Software Engineer (OPERATIONS TECHNOLOGY)](https://careers.hellofresh.com/global/en/job/HELLGLOBAL8334962EXTERNALENGLOBAL) | Hello Fresh | Goodyear, AZ, United States +2 more | 48 | 1+ yrs exp; requires Java |
 | 5:30 AM | [Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch](https://jobs.elastic.co/jobs?gh_jid=8378070&gh_jid=8378070) | Elastic | United States | 43 | senior title, years not stated |
 | 2:28 AM | [Senior Software Engineer](https://jobs.lever.co/jobgether/423eec1b-a832-47de-84a5-476f5e085488) | Jobgether | US (remote) | 30 | 4+ yrs exp; senior title; requires Java |
-
-## Tuesday, Nov 10 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 8:01 PM | [Fullstack Java Developer](https://careers.capgemini.com/job/Chicago%2C-IL-Fullstack-Java-Developer-IL-60290/1446792633/) | Capgemini | Chicago, IL, United States | 53 |  |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (323)
 

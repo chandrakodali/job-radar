@@ -11994,17 +11994,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 78,
+   "n": 79,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 78,
+   "n": 79,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 78,
+   "n": 79,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13274,26 +13274,26 @@
  "found_cursor": 0,
  "last_digest": "2026-11-17",
  "missed_companies": {
-  "*Confidential Healthcare AI Startup": "2026-11-17",
+  "*Confidential Healthcare AI Startup": "2026-11-18",
   "Bask Health": "2026-11-18",
   "Beacons": "2026-11-16",
   "Bountiful": "2026-11-18",
   "Candid Health": "2026-11-18",
   "Collabify": "2026-11-16",
   "D2B Groups": "2026-11-18",
-  "Early-stage Startup": "2026-11-17",
+  "Early-stage Startup": "2026-11-18",
   "EdgeQ Technologies Private Limited": "2026-11-18",
   "Fathom Robotics": "2026-11-18",
   "GoGoGrandparent": "2026-11-18",
   "HelloGov AI": "2026-11-18",
   "Jiffy": "2026-11-16",
   "Julius": "2026-11-18",
-  "Kroo": "2026-11-17",
+  "Kroo": "2026-11-18",
   "Medplum": "2026-11-18",
   "Method Financial": "2026-11-18",
   "Mindful Support Services": "2026-11-18",
   "Multi Media LLC": "2026-11-16",
-  "New Product": "2026-11-17",
+  "New Product": "2026-11-18",
   "Omnistrate": "2026-11-17",
   "Pavago": "2026-11-18",
   "PerformYard": "2026-11-18",
@@ -13310,7 +13310,7 @@
   "Voxology, Inc.": "2026-11-18",
   "WorldVia": "2026-11-16",
   "eVisit": "2026-11-16",
-  "outGoing": "2026-11-17"
+  "outGoing": "2026-11-18"
  },
  "missing_once": {},
  "recall": {
@@ -13332,7 +13332,7 @@
   ],
   "2026-11-18": [
    15,
-   59
+   67
   ]
  },
  "resolved": {
@@ -64375,6 +64375,9 @@
   "ashby:basecamp-research:66faf6c7-aa7d-41bd-b1f1-e8fe1569db27": "2026-11-16",
   "ashby:baseten:bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0": "2026-11-14",
   "ashby:bayesianhealth:3ea2fcfb-9a68-4b8d-a9aa-600a733ef655": "2026-11-14",
+  "ashby:beaconai:6037c4c2-ec33-4d9a-903b-63e3387faa10": "2026-11-18",
+  "ashby:beaconai:ac7be22a-34b0-4811-badc-222e18f7cda2": "2026-11-18",
+  "ashby:beaconai:c6225eb8-8941-411c-9e28-798c323ee224": "2026-11-18",
   "ashby:bedrock-robotics:4e041384-82da-4d7c-84f6-33f46d4421df": "2026-11-14",
   "ashby:bedrock-robotics:f1def984-07a4-4139-8095-dde2b830c3ae": "2026-11-14",
   "ashby:benchling:6183438d-1ff6-4389-aff9-a0128ff3a407": "2026-11-17",
@@ -68186,6 +68189,7 @@
   "sfrmk:careers.capgemini.com:1445137533": "2026-11-14",
   "sfrmk:careers.capgemini.com:1445143333": "2026-11-14",
   "sfrmk:careers.capgemini.com:1445384233": "2026-11-16",
+  "sfrmk:careers.capgemini.com:1445801833": "2026-11-18",
   "sfrmk:careers.capgemini.com:1445822233": "2026-11-14",
   "sfrmk:careers.capgemini.com:1446127133": "2026-11-17",
   "sfrmk:careers.capgemini.com:1446272333": "2026-11-17",
@@ -68205,6 +68209,7 @@
   "sfrmk:careers.capgemini.com:1447385433": "2026-11-14",
   "sfrmk:careers.capgemini.com:1447545133": "2026-11-16",
   "sfrmk:careers.capgemini.com:1447763033": "2026-11-14",
+  "sfrmk:careers.capgemini.com:1447783433": "2026-11-18",
   "sfrmk:careers.capgemini.com:1447806033": "2026-11-14",
   "sfrmk:careers.capgemini.com:1447851733": "2026-11-14",
   "sfrmk:careers.capgemini.com:1447856533": "2026-11-14",
@@ -68242,6 +68247,7 @@
   "sfrmk:careers.capgemini.com:1453839433": "2026-11-16",
   "sfrmk:careers.capgemini.com:1453979933": "2026-11-16",
   "sfrmk:careers.capgemini.com:1454010433": "2026-11-16",
+  "sfrmk:careers.capgemini.com:1454084433": "2026-11-18",
   "sfrmk:careers.capgemini.com:1454214033": "2026-11-17",
   "sfrmk:careers.capgemini.com:1454225133": "2026-11-17",
   "sfrmk:careers.capgemini.com:1454339433": "2026-11-14",
@@ -69787,11 +69793,11 @@
   "zoho:virtualcolleague:805869000004535565": "2026-11-17"
  },
  "source_last": {
-  "hn": "2026-11-17T19:50:53+00:00",
+  "hn": "2026-11-18T02:15:35+00:00",
   "remoteok": "2026-11-18T01:19:05+00:00",
   "usajobs": "2026-11-18T00:16:07+00:00",
   "workable_search": "2026-11-18T00:16:07+00:00",
-  "wwr": "2026-11-18T01:19:05+00:00",
+  "wwr": "2026-11-18T02:15:35+00:00",
   "yc": "2026-11-18T00:16:07+00:00"
  },
  "title_rules": "72f554d20a7f",
