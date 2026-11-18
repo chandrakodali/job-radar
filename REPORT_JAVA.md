@@ -1,14 +1,14 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**198 jobs**, newest first. Updated Tue Nov 17, 5:19 PM CST from 12,526 company job boards and other sources.
+**197 jobs**, newest first. Updated Tue Nov 17, 6:16 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-124 repeat listings (same company and title in another place or on another source) are merged into one row.
+123 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,352 matching jobs that job sites and feeds listed this week, 319 (23%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,408 matching jobs that job sites and feeds listed this week, 334 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (3)](#tuesday-nov-10-3)
+Jump to: [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (20)](#wednesday-nov-11-20) · [Tue 10 (2)](#tuesday-nov-10-2)
 
 ## Tuesday, Nov 17 (18)
 
@@ -240,15 +240,14 @@ Jump to: [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (26)](#monday-nov-16-26) �
 | 5:30 AM | [Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch](https://jobs.elastic.co/jobs?gh_jid=8378070&gh_jid=8378070) | Elastic | United States | 43 | senior title, years not stated |
 | 2:28 AM | [Senior Software Engineer](https://jobs.lever.co/jobgether/423eec1b-a832-47de-84a5-476f5e085488) | Jobgether | US (remote) | 30 | 4+ yrs exp; senior title; requires Java |
 
-## Tuesday, Nov 10 (3)
+## Tuesday, Nov 10 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 8:01 PM | [Fullstack Java Developer](https://careers.capgemini.com/job/Chicago%2C-IL-Fullstack-Java-Developer-IL-60290/1446792633/) | Capgemini | Chicago, IL, United States | 53 |  |
 | 7:12 PM | [Senior Software Engineer, Metadata Platform](https://job-boards.greenhouse.io/boxinc/jobs/8375923) | Box | Redwood City, CA, United States | 33 | 4+ yrs exp; senior title; requires Java |
-| 5:34 PM | [Software Engineer II](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303784) | Uber | San Francisco, CA, United States; New Y… | 28 | requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (320)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (321)
 
 <details><summary>Show</summary>
 
@@ -261,6 +260,7 @@ Jump to: [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (26)](#monday-nov-16-26) �
 | 12:26 PM | [Software Engineer II - Java Fullstack / AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805861) | JP Morgan Chase | Austin, TX, United States | 70 | rules: 2+ yrs exp; needs: Security Clearance |
 | date only | [Sr. Backend Software Engineer (San Diego)](https://carlsmed.bamboohr.com/careers/267) | Carlsmed | Carlsbad, California | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | date only | [Full-Stack Software Engineer](https://jobs.jobvite.com/visionist/job/o9W7Afww) | Visionist | Columbia, MD, United States | 30 | rules: 14+ yrs exp; requires Java; needs: security clearance |
+| date only | [Platform Engineer (KBase Project)](https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107918&lang=en) | Lawrence Berkeley National La… |  | 28 | rules: 5+ yrs exp; likely H-1B cap-exempt (verify); requires Java; as… |
 | 9:02 AM | [Infrastructure Solutions Engineering (AI & Automation) - Java, Spring…](https://jobs.smartrecruiters.com/SyncreonConsulting/744000162098510--infrastructure-solutions-engineering-ai-automation-java-spring-boot-python-apis) | Syncreon Consulting | New York, NY, United States | 40 | rules: 10+ yrs exp; staffing/consulting firm: verify it's real; asks … |
 | 8:55 AM | [Senior Software Engineer - Austin, TX](https://careers.teamviewer.com/jobs/8756713-senior-software-engineer-austin-tx) | Teamviewer | Austin, United States (hybrid) | 35 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:33 AM | [Senior Software Engineer, Data Solutions](https://jobs.lever.co/jobgether/ee727b71-350c-400a-9071-74ca4444772b) | Jobgether | US (remote) | 27 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
