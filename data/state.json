@@ -11751,7 +11751,8 @@
   "lever:jobgether:0452a360-4c88-44a6-8b62-dc642799c5c9": "2026-11-18",
   "lever:jobgether:0c283a8d-6190-4326-acea-e12a22f0bc12": "2026-11-16",
   "lever:jobgether:6ee78390-07bc-4e75-a921-511307f32e34": "2026-11-16",
-  "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-16"
+  "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-16",
+  "lever:jobgether:73d75c56-c3b4-403f-b49d-93905c180592": "2026-11-18"
  },
  "fails": {
   "ashby:Airweave": {
@@ -11970,6 +11971,11 @@
    "n": 3,
    "since": "2026-11-17"
   },
+  "ashby:norm-ai": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-18"
+  },
   "ashby:odin-dynamics": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -12098,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 252,
+   "n": 253,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 252,
+   "n": 253,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 252,
+   "n": 253,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14996,7 +15002,7 @@
   ],
   "2026-11-18": [
    133,
-   329
+   331
   ]
  },
  "resolved": {
@@ -65775,6 +65781,7 @@
   "amazon:us:10603806": "2026-11-16",
   "amazon:us:10603823": "2026-11-14",
   "amazon:us:10603855": "2026-11-14",
+  "amazon:us:10603958": "2026-11-18",
   "amazon:us:10604217": "2026-11-14",
   "amazon:us:10604594": "2026-11-14",
   "amazon:us:10605146": "2026-11-14",
@@ -65788,6 +65795,7 @@
   "amazon:us:10607408": "2026-11-17",
   "amazon:us:10607429": "2026-11-17",
   "amazon:us:10607623": "2026-11-17",
+  "amazon:us:10607729": "2026-11-18",
   "amazon:us:10608155": "2026-11-18",
   "amazon:us:10608157": "2026-11-18",
   "amazon:us:10608480": "2026-11-18",
@@ -67435,6 +67443,7 @@
   "icims:careers-edgewaterit.icims.com:4869": "2026-11-09",
   "icims:careers-edgewaterit.icims.com:4892": "2026-11-12",
   "icims:careers-edgewaterit.icims.com:4894": "2026-11-12",
+  "icims:careers-edgewaterit.icims.com:4960": "2026-11-18",
   "icims:careers-empowerai.icims.com:9112": "2026-11-09",
   "icims:careers-empowerai.icims.com:9165": "2026-11-09",
   "icims:careers-empowerai.icims.com:9210": "2026-11-09",
@@ -67611,6 +67620,7 @@
   "icims:careers-lmi.icims.com:14802": "2026-11-09",
   "icims:careers-lmi.icims.com:14863": "2026-11-12",
   "icims:careers-lmi.icims.com:14864": "2026-11-12",
+  "icims:careers-lmi.icims.com:14876": "2026-11-18",
   "icims:careers-lynker.icims.com:1663": "2026-11-09",
   "icims:careers-lynker.icims.com:1717": "2026-11-09",
   "icims:careers-lynker.icims.com:1728": "2026-11-09",
@@ -68104,6 +68114,7 @@
   "jobvite:liferay:o6DyAfwB": "2026-11-12",
   "jobvite:liferay:opHyAfwY": "2026-11-11",
   "jobvite:metropolitantransportationauthority:oE21Afw1": "2026-11-17",
+  "jobvite:metropolitantransportationauthority:ow21AfwT": "2026-11-18",
   "jobvite:ness:oMZZAfw4": "2026-11-15",
   "jobvite:nirvc:o4WSAfwc": "2026-11-15",
   "jobvite:nirvc:oplQAfwU": "2026-11-15",
@@ -68394,6 +68405,7 @@
   "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:105202": "2026-11-13",
   "oracle:fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com|FirstEnergyCareers:105893": "2026-11-13",
   "oracle:fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:701849": "2026-11-08",
+  "oracle:fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:704446": "2026-11-18",
   "oracle:fa-etum-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41900": "2026-11-18",
   "oracle:fa-etum-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:42290": "2026-11-12",
   "oracle:fa-etum-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:42291": "2026-11-11",
@@ -69189,6 +69201,7 @@
   "smartrecruiters:eurofins:744000159966854": "2026-11-07",
   "smartrecruiters:harvarduniversity:3743990016803776": "2026-11-12",
   "smartrecruiters:intelerad:744000160685339": "2026-11-10",
+  "smartrecruiters:intelerad:744000162388219": "2026-11-18",
   "smartrecruiters:intuitive:744000158094469": "2026-11-07",
   "smartrecruiters:intuitive:744000158094960": "2026-11-07",
   "smartrecruiters:intuitive:744000160278219": "2026-11-07",
@@ -70176,11 +70189,11 @@
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-18T14:37:17+00:00",
+  "hn": "2026-11-18T20:37:34+00:00",
   "remoteok": "2026-11-18T19:37:17+00:00",
   "usajobs": "2026-11-18T19:07:14+00:00",
   "workable_search": "2026-11-18T19:07:14+00:00",
-  "wwr": "2026-11-18T19:37:17+00:00",
+  "wwr": "2026-11-18T20:37:34+00:00",
   "yc": "2026-11-18T19:07:14+00:00"
  },
  "title_rules": "c323075b4d70",
