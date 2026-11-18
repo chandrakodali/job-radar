@@ -11972,8 +11972,9 @@
    "since": "2026-11-17"
   },
   "ashby:norm-ai": {
+   "disabled_until": "2026-11-25",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-18"
   },
   "ashby:odin-dynamics": {
@@ -12104,17 +12105,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 254,
+   "n": 255,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 254,
+   "n": 255,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 254,
+   "n": 255,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15002,7 +15003,7 @@
   ],
   "2026-11-18": [
    133,
-   331
+   333
   ]
  },
  "resolved": {
@@ -66192,6 +66193,7 @@
   "bamboohr:essexvt:178": "2026-11-15",
   "bamboohr:euna:788": "2026-11-08",
   "bamboohr:euna:808": "2026-11-08",
+  "bamboohr:fenix24:176": "2026-11-18",
   "bamboohr:fesslerbowman:954": "2026-11-15",
   "bamboohr:fligoo:130": "2026-11-15",
   "bamboohr:fligoo:186": "2026-11-15",
@@ -67158,6 +67160,7 @@
   "greenhouse:oneimaging:4484490009": "2026-11-07",
   "greenhouse:oscar:8382174": "2026-11-16",
   "greenhouse:pathrobotics:8939588002": "2026-11-12",
+  "greenhouse:pathrobotics:8950251002": "2026-11-18",
   "greenhouse:penninteractive:6241510004": "2026-11-12",
   "greenhouse:physicsx:5035380101": "2026-11-15",
   "greenhouse:picoquantitativetrading:4726680006": "2026-11-07",
@@ -68141,6 +68144,7 @@
   "jobvite:sews:ocNHAfw0": "2026-11-09",
   "jobvite:sikichcareers:oKpWAfwp": "2026-11-09",
   "jobvite:sikichcareers:oQ7EAfwV": "2026-11-09",
+  "jobvite:src-inc:ogh4AfwV": "2026-11-18",
   "jobvite:src-inc:olZVAfwz": "2026-11-09",
   "jobvite:sumitomo-electric:oU3PAfw6": "2026-11-15",
   "jobvite:synqor-careers:oTi7AfwC": "2026-11-18",
@@ -70192,10 +70196,10 @@
  },
  "source_last": {
   "hn": "2026-11-18T20:37:34+00:00",
-  "remoteok": "2026-11-18T19:37:17+00:00",
+  "remoteok": "2026-11-18T21:37:19+00:00",
   "usajobs": "2026-11-18T19:07:14+00:00",
   "workable_search": "2026-11-18T19:07:14+00:00",
-  "wwr": "2026-11-18T20:37:34+00:00",
+  "wwr": "2026-11-18T21:37:19+00:00",
   "yc": "2026-11-18T19:07:14+00:00"
  },
  "title_rules": "c323075b4d70",
