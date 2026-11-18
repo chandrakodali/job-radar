@@ -11993,17 +11993,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 94,
+   "n": 95,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 94,
+   "n": 95,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 94,
+   "n": 95,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12755,11 +12755,6 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
-  },
-  "oracle:fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-18"
   },
   "pinpoint:heapy": {
    "disabled_until": "2026-11-21",
@@ -64226,6 +64221,7 @@
   "amazon:us:10606199": "2026-11-16",
   "amazon:us:10606474": "2026-11-16",
   "amazon:us:10606492": "2026-11-16",
+  "amazon:us:10606497": "2026-11-18",
   "amazon:us:10606501": "2026-11-16",
   "amazon:us:10606502": "2026-11-16",
   "amazon:us:10606503": "2026-11-16",
@@ -64240,6 +64236,7 @@
   "amazon:us:10606680": "2026-11-16",
   "amazon:us:10606737": "2026-11-16",
   "amazon:us:10607207": "2026-11-17",
+  "amazon:us:10607210": "2026-11-18",
   "amazon:us:10607218": "2026-11-17",
   "amazon:us:10607230": "2026-11-17",
   "amazon:us:10607403": "2026-11-17",
@@ -64439,6 +64436,7 @@
   "ashby:clera:782c2049-c72a-4920-a278-e5b1ee6fd2b3": "2026-11-14",
   "ashby:clera:82d78c4d-4efa-4a57-bb7f-caef93bdcedd": "2026-11-16",
   "ashby:clera:87e4356d-ecc4-476c-894c-84a62c566ba5": "2026-11-14",
+  "ashby:clera:8a4702b6-78ec-45a9-8324-0eb530bb49c6": "2026-11-18",
   "ashby:clera:9e35059b-c732-44a8-9da3-dedb1d4ba15f": "2026-11-14",
   "ashby:clera:a8a8723a-d74d-43fa-9260-db44efdc3350": "2026-11-18",
   "ashby:clera:cd456e6a-41d9-48c6-bcf7-f4605937defa": "2026-11-17",
@@ -64678,6 +64676,7 @@
   "avature:bloomberg.avature.net|internalcareers:46168": "2026-11-14",
   "avature:bloomberg.avature.net|internalcareers:46208": "2026-11-17",
   "avature:bloomberg.avature.net|internalcareers:46228": "2026-11-18",
+  "avature:bloomberg.avature.net|internalcareers:46234": "2026-11-18",
   "avature:bravura.avature.net|careers:3258": "2026-11-15",
   "avature:deloittecm.avature.net|careers:11132": "2026-11-14",
   "avature:deloittecm.avature.net|careers:11134": "2026-11-14",
@@ -65708,6 +65707,7 @@
   "eightfold:ford:563568454085295": "2026-11-16",
   "eightfold:ford:563568454093634": "2026-11-14",
   "eightfold:ford:563568454106691": "2026-11-18",
+  "eightfold:ford:563568454173380": "2026-11-18",
   "eightfold:ford:563568454189709": "2026-11-16",
   "eightfold:ford:563568454226663": "2026-11-17",
   "eightfold:ford:563568454231302": "2026-11-17",
@@ -65816,6 +65816,7 @@
   "eightfold:paypal|paypal.com:274923300658": "2026-11-14",
   "eightfold:paypal|paypal.com:274923336364": "2026-11-14",
   "eightfold:paypal|paypal.com:274923348283": "2026-11-14",
+  "eightfold:plexus:1099557200677": "2026-11-18",
   "eightfold:qualcomm:446714967451": "2026-11-15",
   "eightfold:qualcomm:446719899052": "2026-11-15",
   "eightfold:qualcomm:446721106923": "2026-11-15",
@@ -66768,6 +66769,7 @@
   "icims:careers-empowerai.icims.com:9563": "2026-11-14",
   "icims:careers-empowerai.icims.com:9568": "2026-11-14",
   "icims:careers-empowerai.icims.com:9581": "2026-11-14",
+  "icims:careers-empowerai.icims.com:9801": "2026-11-18",
   "icims:careers-enfra.icims.com:11613": "2026-11-14",
   "icims:careers-entarian.icims.com:10015": "2026-11-14",
   "icims:careers-entarian.icims.com:9611": "2026-11-14",
@@ -67792,6 +67794,7 @@
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73152": "2026-11-16",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73264": "2026-11-14",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73382": "2026-11-18",
+  "oracle:efds.fa.em5.oraclecloud.com|CX_1:74073": "2026-11-18",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:74276": "2026-11-16",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:74445": "2026-11-17",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:74543": "2026-11-17",
@@ -67803,6 +67806,7 @@
   "oracle:egug.fa.us2.oraclecloud.com|CX:26013557": "2026-11-14",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26015072": "2026-11-16",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26015325": "2026-11-16",
+  "oracle:egug.fa.us2.oraclecloud.com|CX:26015540": "2026-11-18",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26016262": "2026-11-14",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26008913": "2026-11-14",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26010196": "2026-11-17",
@@ -67812,6 +67816,7 @@
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26013557": "2026-11-14",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26015072": "2026-11-16",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26015325": "2026-11-16",
+  "oracle:egug.fa.us2.oraclecloud.com|CX_1:26015540": "2026-11-18",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26016262": "2026-11-14",
   "oracle:egup.fa.us2.oraclecloud.com|CX:20279430": "2026-11-14",
   "oracle:egup.fa.us2.oraclecloud.com|CX:20285987": "2026-11-18",
@@ -68631,6 +68636,7 @@
   "sfrmk:jobs.netapp.com:1450990700": "2026-11-16",
   "sfrmk:jobs.netapp.com:1451277400": "2026-11-17",
   "sfrmk:jobs.netapp.com:1451338600": "2026-11-17",
+  "sfrmk:jobs.netapp.com:1451852600": "2026-11-18",
   "sfrmk:jobs.nexteraenergy.com:1433113000": "2026-11-14",
   "sfrmk:jobs.nexteraenergy.com:1440011500": "2026-11-14",
   "sfrmk:jobs.nexteraenergy.com:1444759900": "2026-11-14",

@@ -1,6 +1,6 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**202 jobs**, newest first. Updated Wed Nov 18, 10:48 AM CST from 12,526 company job boards and other sources.
+**196 jobs**, newest first. Updated Wed Nov 18, 11:17 AM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,14 @@ US jobs only: Java in the title, or backend/software/full-stack roles whose requ
 
 Coverage check: of 1,738 matching jobs that job sites and feeds listed this week, 411 (23%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (20)](#tuesday-nov-17-20) · [Mon 16 (27)](#monday-nov-16-27) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (17)](#wednesday-nov-11-17)
+Jump to: [Wed 18 (9)](#wednesday-nov-18-9) · [Tue 17 (20)](#tuesday-nov-17-20) · [Mon 16 (27)](#monday-nov-16-27) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (26)](#thursday-nov-12-26) · [Wed 11 (9)](#wednesday-nov-11-9)
 
-## Wednesday, Nov 18 (7)
+## Wednesday, Nov 18 (9)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:00 AM | [Software Engineer III - Java/ Go, RestAPI - GNST](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015540) | American Express | Phoenix, AZ, United States (hybrid) | 60 | senior title, years not stated |
+| 11:00 AM | [Software Engineer III - Java/ Go, RestAPI - GNST](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26015540) | Egug Fa Us2 Oraclecloud Com | Phoenix, AZ, United States (hybrid) | 55 | senior title, years not stated |
 | date only | [Software Development Engineer, ROBOTICS -  2027](https://www.amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027) | Amazon.com Services LLC | Austin, Texas, USA | 50 | requires Java |
 | date only | [Software Engineer (Python, Java, C++, Go, Rust), AI Expert](https://apply.workable.com/weekday-1/j/A8BEFF11F2/) | Weekday AI | United States (remote) | 57 | 4+ yrs exp |
 | date only | [Senior Software Development Engineer](https://dth.avature.net/en_US/careers/JobDetail/Senior-Software-Development-Engineer/27803) | Delta Global Technology Hub |  | 35 | senior title, years not stated; location unclear; requires Java |
@@ -230,7 +232,7 @@ Jump to: [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (20)](#tuesday-nov-17-20) 
 | 9:41 AM | [Developer - Java, Spring Boot](https://careers.united.com/us/en/job/UAIUADUSWHQ00026827EXTERNALENUSTALEO) | United Airlines | Chicago, Illinois, United States | 63 | 2+ yrs exp; no future H-1B sponsorship |
 | 7:11 AM | [Software Developer II](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54954) | CSX | Jacksonville, FL, United States (onsite) | 53 | 2+ yrs exp; requires Java |
 
-## Wednesday, Nov 11 (17)
+## Wednesday, Nov 11 (9)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -243,14 +245,6 @@ Jump to: [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (20)](#tuesday-nov-17-20) 
 | 7:13 PM | [Senior Software Engineer, Core Infrastructure(Hybrid)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344707) | Oracle | Nashville, TN, United States | 33 | 4+ yrs exp; senior title; requires Java |
 | 7:13 PM | [Senior Software Engineer, Core Infrastructure(Hybrid)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/job/344707) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States | 33 | 4+ yrs exp; senior title; requires Java |
 | 3:14 PM | [Senior Software Engineer — Distributed Compute / Spark Systems](https://jobs.ashbyhq.com/granica/68e0b1db-0f03-4ad3-85e9-586aeb46f6c2) | Granica | Bay Area Office (onsite) | 33 | senior title, years not stated; requires Java |
-| date only | [Software Developer, Java](https://jobsearch.harman.com/en_US/careers/JobDetail/Software-Developer-Java/33277) | HARMAN International |  | 48 | location unclear |
-| date only | [Software Engineer (Hybrid Work Model)](https://sentryinsurance.wd1.myworkdayjobs.com/SentryCareers/job/Stevens-Point-WI/Software-Engineer--Hybrid-Work-Model-_JR-142797-1) | Sentry Insurance | Stevens Point, WI | 38 | requires Java |
-| date only | [Software Engineer](https://kcura.wd1.myworkdayjobs.com/External_Career_Site/job/Illinois/Software-Engineer_26-0512) | Relativity | Illinois | 38 | requires Java |
-| date only | [Full Stack Software Engineer](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Work-at-Home---Ohio-USA-WOHA/Full-Stack-Software-Engineer_JR0150756) | McKesson | Work at Home - Ohio, USA (WOHA); The Wo… (remote) | 45 | 2+ yrs exp; requires Java |
-| date only | [Full Stack Developer Senior Specialist (Maternity Leave Replacement)](https://flutterbe.wd3.myworkdayjobs.com/FlutterInt_External/job/Tirana---Rruga-Dritan---40h/Full-Stack-Developer-Senior-Specialist_JR142468-2) | Flutter | Tirana - Rruga Dritan - 40h | 28 | 3+ yrs exp; senior title; location unclear; requires Java |
-| date only | [Software Engineer (December 2026 Grads)](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer--December-2026-Grads-_JR15389) | DraftKings | Boston, MA | 38 | requires Java |
-| date only | [Software Development Engineer, Checkout Applications Team](https://www.amazon.jobs/en/jobs/10602773/software-development-engineer-checkout-applications-team) | Amazon.com Services LLC | Seattle, Washington, USA | 33 | 3+ yrs exp; requires Java |
-| date only | [Software Development Engineer, 3P Measurement Tech](https://www.amazon.jobs/en/jobs/10593632/software-development-engineer-3p-measurement-tech) | Amazon.com Services LLC | New York, New York, USA | 33 | 3+ yrs exp; requires Java |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (329)
 
