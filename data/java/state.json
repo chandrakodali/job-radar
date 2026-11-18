@@ -11994,17 +11994,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 84,
+   "n": 85,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 84,
+   "n": 85,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 84,
+   "n": 85,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -64722,6 +64722,7 @@
   "avature:synopsys.avature.net|careers:19662": "2026-11-14",
   "avature:synopsys.avature.net|careers:19677": "2026-11-14",
   "avature:synopsys.avature.net|careers:19776": "2026-11-17",
+  "avature:synopsys.avature.net|careers:19817": "2026-11-18",
   "avature:tesco.avature.net|en_GB/careers:217289": "2026-11-14",
   "avature:tesco.avature.net|en_GB/careers:218043": "2026-11-16",
   "avature:tesco.avature.net|en_GB/careers:218374": "2026-11-14",
