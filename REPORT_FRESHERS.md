@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**673 jobs**, newest first. Updated Wed Nov 18, 5:45 AM CST from 12,526 company job boards and other sources.
+**672 jobs**, newest first. Updated Wed Nov 18, 6:45 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 3,360 matching jobs that job sites and feeds listed this week, 594 (17%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (60)](#tuesday-nov-17-60) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (110)](#wednesday-nov-11-110)
+Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (60)](#tuesday-nov-17-60) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (23)](#sunday-nov-15-23) · [Sat 14 (142)](#saturday-nov-14-142) · [Fri 13 (151)](#friday-nov-13-151) · [Thu 12 (112)](#thursday-nov-12-112) · [Wed 11 (109)](#wednesday-nov-11-109)
 
 ## Wednesday, Nov 18 (13)
 
@@ -608,7 +608,7 @@ Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (60)](#tuesday-nov-17-60
 | 12:00 AM | [Technical Support Representative Tier 1](https://jobs.dayforcehcm.com/en-US/k12l/candidateportal/jobs/10918) | K12L | US | 68 | entry-level title |
 | 12:00 AM | [Salesforce FSC Associate (Contractor)](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9203) | Hightower | Chicago, IL, US | 68 | entry-level title |
 
-## Wednesday, Nov 11 (110)
+## Wednesday, Nov 11 (109)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -721,9 +721,8 @@ Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (60)](#tuesday-nov-17-60
 | 9:25 AM | [Solutions Engineer (Integrations)](https://jobs.ashbyhq.com/choco/0adad417-869f-4342-8058-51be23f336c9) | Choco | Chicago | 73 | 1+ yrs exp; entry level (from the text); no future H-1B sponsorship |
 | 8:49 AM | [WMS Software Engineer (OPERATIONS TECHNOLOGY)](https://careers.hellofresh.com/global/en/job/HELLGLOBAL8334962EXTERNALENGLOBAL) | Hello Fresh | Goodyear, AZ, United States +2 more | 78 | 1+ yrs exp; entry level (from the text) |
 | 7:31 AM | [(US DC) Systems Analyst](https://careers.hellofresh.com/global/en/job/HELLGLOBAL8335726EXTERNALENGLOBAL) | Hello Fresh | Phoenix, AZ, United States +1 more | 78 | 1+ yrs exp; entry level (from the text) |
-| 6:28 AM | [Associate IT Analyst - Jacksonville,  FL](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42298) | GuideWell Mutual | Jacksonville, FL, United States (hybrid) | 83 | entry-level title; 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3605)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3610)
 
 <details><summary>Show</summary>
 
@@ -732,6 +731,11 @@ Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (60)](#tuesday-nov-17-60
 | date only | [Apps Dev Intmd Programmer Analyst - Officer](https://citi.eightfold.ai/careers/job/859039019411) | Citi | Tampa, FL, US +1 more (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Professional Fee Coder 2 (Sign on Bonus eligible)](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11720) | UCSF | United States | 70 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Apps Dev Intmd Programmer Analyst -Officer](https://citi.eightfold.ai/careers/job/859039019250) | Citi | Tampa, FL, US (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| date only | [DevOps / SRE Engineer (Kubernetes, Terraform), AI Expert](https://apply.workable.com/weekday-1/j/66FAC02153/) | Weekday AI | United States (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| date only | [Software Engineer (Python, Java, C++, Go, Rust), AI Expert](https://apply.workable.com/weekday-1/j/A8BEFF11F2/) | Weekday AI | United States (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 6:15 AM | [Software Engineer, Front End](https://jobs.ashbyhq.com/atomic-invest/4c83fd63-1985-43b3-92d1-ce5a98f8a10b) | Atomic Invest (AtomicVest) | United States | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 6:13 AM | [Laboratory Technical Specialist](https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/691690) | Inova | Falls Church, VA, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 6:13 AM | [Laboratory Technical Specialist](https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/691690) | Elar Fa Us2 Oraclecloud Com | Falls Church, VA, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 5:27 AM | [Systems Analyst](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016930006-systems-analyst) | Cityofnewyork | New York City, NY, United States | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 5:24 AM | [QUALITY ASSURANCE ANALYST](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016929881-quality-assurance-analyst) | Cityofnewyork | New York City, NY, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 5:05 AM | [IT Support Engineer, Côte d'Ivoire](https://www.zipline.com/open-roles/8207270003?gh_jid=8207270003) | Flyzipline | Abidjan, Côte d’Ivoire | 55 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
@@ -1124,10 +1128,5 @@ Jump to: [Wed 18 (13)](#wednesday-nov-18-13) · [Tue 17 (60)](#tuesday-nov-17-60
 | 2:51 PM (seen) | [Software Engineer](https://app.dover.com/apply/eightfold/613082a6-d443-4df6-b8d2-98cf28a2d114) | Eightfold | San Jose, CA (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 2:51 PM (seen) | [MicroStrategy - BI Platform Administrator](https://app.dover.com/apply/elitetechnical/68f7328a-74c0-455b-b355-ed78e69f5009) | Elitetechnical | Maryland, USA; Virginia, USA; Washingto… (hybrid) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:51 PM (seen) | [ServiceNow Developer - CSM](https://app.dover.com/apply/elitetechnical/0f8bccc2-a361-4052-baf8-5cc449768eb7) | Elitetechnical | Maryland, USA; Virginia, USA; Washingto… (hybrid) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:51 PM (seen) | [Data Analyst](https://app.dover.com/apply/emetlab/10e6a610-c457-49e8-bca0-ed8bda87ea24) | Emetlab | International (remote) | 57 | rules: 2+ yrs exp; location unclear; sponsors visas; asks for 2+ year… |
-| 2:34 PM | [Systems Administrator](https://job-boards.greenhouse.io/monsterenergy/jobs/4485445009) | Monster Energy | USA - Corona, CA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:32 PM | [Field Controls Software Technician / Engineer](https://job-boards.greenhouse.io/strategichr/jobs/8205795003) | Strategichr | Cincinnati, Ohio | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:24 PM | [Solution Consultant - Medical](https://jobs.lever.co/veeva/15b54484-bb6b-4966-a64a-49327432b691) | Veeva Systems | Massachusetts - Boston (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| 2:21 PM | [Mission Integration Engineer](https://jobs.ashbyhq.com/quindar/d98a966b-6657-42fc-a360-d2d184a14b04) | Quindar | Denver, CO; Washington, DC (hybrid) | 50 | rules: 8+ yrs exp; needs: Top Secret clearance |
 
 </details>
