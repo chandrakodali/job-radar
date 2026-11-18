@@ -1,6 +1,6 @@
 # Wide sweep summary
 
-Updated 2026-11-17.
+Updated 2026-11-18.
 
 Crawls swept: CC-MAIN-2026-39, CC-MAIN-2026-43.
 
@@ -8,45 +8,44 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 
 ## By tier
 
-- 1: 25058
-- 2: 107235
-- 3: 299819
-- 4: 94090
-- 5: 32215
-- 9: 96877
+- 1: 23885
+- 2: 107458
+- 3: 301336
+- 4: 94205
+- 5: 32243
+- 9: 96167
 
 ## By category
 
-- unknown: 96877
-- ats: 43903
-- blocked: 2787
-- careers_page_unclear: 278784
-- doc: 1310
-- email: 54525
-- external_board: 7216
-- form: 76458
+- unknown: 96167
+- ats: 43967
+- blocked: 2788
+- careers_page_unclear: 280258
+- doc: 1306
+- email: 54151
+- external_board: 7231
+- form: 75886
 - js_only: 460
-- no_careers_page: 42971
-- no_openings: 21035
-- robots_disallowed: 8288
-- unreachable: 20680
+- no_careers_page: 43007
+- no_openings: 21078
+- robots_disallowed: 8295
+- unreachable: 20700
 
 ## By us
 
-- unknown: 96877
-- non_us: 36832
-- unknown: 289336
-- us: 232249
+- unknown: 96167
+- non_us: 36880
+- unknown: 290063
+- us: 232184
 
 ## By via
 
-- unknown: 96877
-- archive: 43367
-- live: 515050
+- unknown: 96167
+- archive: 43204
+- live: 515923
 
 ## Tier 1 sites
 
-- ! Join PRT's team! (prtspa.com)
 - #1 Rated Cincinnati IT Services Company (lktech.tech)
 - #archpodnet (archaeologypodcastnetwork.com)
 - #ToTheJupiter (legit-blockchain-ai.company)
@@ -81,6 +80,7 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - & Opportunities (armaautomotive.com)
 - & Opportunities (classicrefrigeration.com)
 - & Opportunities (nirmalacp.org)
+- & Opportunities in Germany (holzerscientific.com)
 - & Other Opportunities (teachpsych.org)
 - & Recruitment Opportunities (elmex.net)
 - & Technical Education (columbiak12.com)
@@ -90,7 +90,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - & Volunteering (balibrary.org)
 - '58 Foundations & Waterproofing (58foundations.com)
 - (1SS&C) (1sourcesecurity.com)
-- (301) 882-3200 (mercedestranscription.com)
 - (All) (usvisf.com)
 - +91 90871 16687 (mdsdigitalhub.com)
 - - Call us: 021 120 33 32 (neocruit.com)
@@ -99,7 +98,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - . Oppurtunities in Tech, Consulting & Digital. (datamatics.com)
 - ... And We Were Heard (andwewereheard.org)
 - .:. Algo Brainz .:. (nvdatla.com)
-- .:. GenuineIT LLC .:. (genuineitllc.com)
 - .:: KSoft ::. (ksoftglobal.com)
 - .:: RnD4U ::. Ideas become reality (rnd4u.com)
 - .::. PowerWeb IT (powerwebit.com)
@@ -135,7 +133,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 1800Esupply (1800esupply.com)
 - 1903 Design Studio (1903designstudio.com)
 - 1A First Alternative (1afa.com)
-- 1BENMU Millwork + Contracting (1benmu.com)
 - 1Datagroup (1datagroup.com)
 - 1Link Solution (1linksolution.com)
 - 1Money (1money.com)
@@ -154,7 +151,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 21Twelve Interactive (21twelveinteractive.com)
 - 23361 (cosmobotics.org)
 - 24 DATA, Inc. (24data.com)
-- 24-7 Restoration and Roofing - Best Roofing Contractor In M… (247roofingsolutions.com)
 - 24/7 Pest Control Service 718 300 7943 (247pestcontrolservices.com)
 - 247 MEP Estimating (247mepestimating.com)
 - 24Bitgames (24bitgames.com)
@@ -166,7 +162,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 2am.tech (2am.tech)
 - 2B Cloud Solutions (2b-cs.com)
 - 2D Soft (2dsoft.com)
-- 2iSolutions (2isolutions.com)
 - 2muchcoffee (2muchcoffee.com)
 - 2PCS Solutions GmbH (2pcs-solutions.com)
 - 2Ring (2ring.com)
@@ -195,7 +190,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 361˚ Marketing (361degreesmarketing.com)
 - 39 AI (39-ai.com)
 - 3AT Dev (3atdev.com)
-- 3C Websites & Marketing Services (3cxconsulting.com)
 - 3CX Phone System (ippbxhost.com)
 - 3D Architectural Visualization (yantramstudio.com)
 - 3D PLUS (3d-plus.com)
@@ -219,7 +213,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 3PL Systems (3plsystems.com)
 - 3rd Element Consulting (3rdelementconsulting.com)
 - 3SCube Engineering Consultants (3scube.com)
-- 3T Pro Inc. (3tpro.com)
 - 3T Worldwide-260826 (3tworldwide.com)
 - 3XCODE (3xcode.com)
 - 4 Bilingual STEM & AI Roles in Utah (clubability.org)
@@ -246,3 +239,10 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 4Excelsior (4excelsior.com)
 - 4Geeks (4geeks.io)
 - 4Geeks (aldryn.io)
+- 4GL Solutions (4glsol.com)
+- 4K Visuals (4kvfx.com)
+- 4Leet (4leet.xyz)
+- 4Leet - Managed IT Services (4leet.com)
+- 4Les Subsea (4lessubsea.com)
+- 4M Career (4mcareer.com)
+- 4M INDUSTRIES INC. (4mindustries.com)
