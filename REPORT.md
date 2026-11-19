@@ -1,14 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**615 jobs**, newest first. Updated Thu Nov 19, 1:07 AM CST from 12,526 company job boards and other sources.
+**613 jobs**, newest first. Updated Thu Nov 19, 1:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-251 repeat listings (same company and title in another place or on another source) are merged into one row.
+249 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,208 matching jobs that job sites and feeds listed this week, 806 (36%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,210 matching jobs that job sites and feeds listed this week, 806 (36%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (45)](#wednesday-nov-18-45) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (90)](#thursday-nov-12-90)
+Jump to: [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (45)](#wednesday-nov-18-45) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (88)](#thursday-nov-12-88)
 
 ## Thursday, Nov 19 (3)
 
@@ -570,7 +570,7 @@ Jump to: [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (45)](#wednesday-nov-18-45)
 | 5:02 AM | [Langfuse - Senior Cloud Infra Engineer](https://jobs.ashbyhq.com/clickhouse/39e42a38-1cbf-40c7-b373-717b4cdddbac) | ClickHouse | New York (remote) | 52 | senior title, years not stated |
 | 1:07 AM | [Full-Stack Software Engineer (Infrastructure Focus)](https://jobs.lever.co/jobgether/c12ad43a-3c7b-4d0b-adde-d3509813970d) | Jobgether | US (remote) | 55 |  |
 
-## Thursday, Nov 12 (90)
+## Thursday, Nov 12 (88)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -662,8 +662,6 @@ Jump to: [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (45)](#wednesday-nov-18-45)
 | 4:17 AM | [Infrastructure Engineer](https://jobs.ashbyhq.com/simple-ai/1dbaca6f-92cd-4ad9-ac3f-8fe6dce7e20c) | Simple AI | San Francisco (onsite) | 60 | 4+ yrs exp; no future H-1B sponsorship |
 | 2:00 AM | [Sr. Cloud Engineer](https://careers.mohawkind.com/mohawk/job/Kennesaw-Sr_-Cloud-Engineer-Geor-30144/1372243900/) | Mohawk | Kennesaw, Georgia, United States | 60 | 4+ yrs exp; senior title |
 | 2:00 AM | [Senior IT Programmer Analyst - Cloud DevOps](https://jobs.nexteraenergy.com/job/Juno-Beach-Senior-IT-Programmer-Analyst-Cloud-DevOps-FL-33408/1440011500/) | NextEra Energy | Juno Beach, FL, United States | 60 | 4+ yrs exp; senior title |
-| 1:31 AM | [Professional Engineer, Water Infrastructure](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3535115) | Lockwood Andrews & Newnam Inc | Dallas, TX, United States | 53 | 4+ yrs exp |
-| 1:30 AM | [Engineer in Training, Water Infrastructure](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4062531) | Lockwood Andrews & Newnam Inc | Frisco, TX, United States +1 more | 58 |  |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (777)
 
