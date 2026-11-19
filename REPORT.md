@@ -1,19 +1,20 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**614 jobs**, newest first. Updated Wed Nov 18, 11:07 PM CST from 12,526 company job boards and other sources.
+**615 jobs**, newest first. Updated Wed Nov 18, 11:37 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 249 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,167 matching jobs that job sites and feeds listed this week, 786 (36%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,169 matching jobs that job sites and feeds listed this week, 786 (36%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (1)](#wednesday-nov-11-1)
+Jump to: [Wed 18 (46)](#wednesday-nov-18-46) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92)
 
-## Wednesday, Nov 18 (44)
+## Wednesday, Nov 18 (46)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:13 PM | [Senior Site Reliability Engineer](https://job-boards.greenhouse.io/blinkhealth/jobs/8942325002) | Blinkhealth | New York, NY; Pittsburgh, PA; Seattle, … | 55 | senior title, years not stated |
 | 9:02 PM | [Cloud Development Engineering Senior Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215094) | DTCC | Tampa, FL, United States; Dallas, TX, U… | 65 | entry-level title; senior title, years not stated |
 | 9:02 PM | [Cloud Development Engineering Senior Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/215094) | Ebxr Fa Us2 Oraclecloud Com | Tampa, FL, United States; Dallas, TX, U… | 60 | entry-level title; senior title, years not stated |
 | 6:48 PM | [Senior Infrastructure Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016715) | American Express | Phoenix, AZ, United States (hybrid) | 60 | 3+ yrs exp; senior title |
@@ -47,6 +48,7 @@ Jump to: [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33
 | date only | [Senior Software Reliability Engineer – Splunk Framework & Runtime Ser…](https://careers.cisco.com/global/en/job/CISCISGLOBAL2030555EXTERNALENGLOBAL) | Cisco | Boulder, Colorado, United States of Ame… | 55 | 4+ yrs exp; senior title |
 | date only | [Oracle Cloud HCM HRIS Analyst Sr](https://eney.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1895) | Eney Fa Us2 Oraclecloud Com | United States (remote) | 52 | senior title, years not stated; E-Verify |
 | date only | [Software Engineer, Robotics Simulation & AI Infrastructure](https://qualcomm.eightfold.ai/careers/job/446722201254) | Qualcomm | San Diego, CA, US (onsite) | 65 |  |
+| date only | [Platform Engineer](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-7Next-Irving/Platform-Engineer_R26_6523) | 7-Eleven | SSC 7Next Irving | 53 | 3+ yrs exp |
 | 10:17 AM | [Senior Network Engineer - Enterprise Connectivity](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24215) | Montenson | MN, United States | 35 | senior title, years not stated; no future H-1B sponsorship |
 | 8:42 AM | [Software Engineer - Platform Engineering](https://job-boards.greenhouse.io/twilio/jobs/8385593) | Twilio | Remote - US (remote) | 67 | E-Verify |
 | 8:22 AM | [Senior Software Engineer - Cloud Infrastructure - (US Remote)](https://jobs.ashbyhq.com/clickhouse/caf49f06-ed35-4637-9372-f4df114e852f) | ClickHouse | NAMER and LatAm; United States | 55 | senior title, years not stated |
@@ -657,12 +659,6 @@ Jump to: [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33
 | 1:30 AM | [Engineer in Training, Water Infrastructure](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4062531) | Lockwood Andrews & Newnam Inc | Frisco, TX, United States +1 more | 58 |  |
 | 1:00 AM (seen) | [Network Engineer](https://jobs.jobvite.com/jbs/job/oiO5Afwv) | JBS Foods | Richardson, Texas | 35 |  |
 | 1:00 AM (seen) | [Systems Reliability Engineer](https://jobs.jobvite.com/nutanix/job/osn3Afwc) | Nutanix |  | 55 | 2+ yrs exp; location unclear |
-
-## Wednesday, Nov 11 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 11:24 PM | [CAD Engineer - Signoff Infrastructure](https://jobs.apple.com/en-us/details/200684809/cad-engineer-signoff-infrastructure) | Apple | United States of America | 58 |  |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (775)
 
