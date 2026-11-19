@@ -12012,17 +12012,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 134,
+   "n": 135,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 134,
+   "n": 135,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 134,
+   "n": 135,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -64674,6 +64674,7 @@
   "amazon:us:10598904": "2026-11-14",
   "amazon:us:10598905": "2026-11-14",
   "amazon:us:10598928": "2026-11-14",
+  "amazon:us:10598937": "2026-11-19",
   "amazon:us:10598939": "2026-11-14",
   "amazon:us:10599071": "2026-11-14",
   "amazon:us:10599075": "2026-11-18",
@@ -65148,7 +65149,9 @@
   "apple:usa:200695736": "2026-11-18",
   "apple:usa:200695754": "2026-11-18",
   "apple:usa:200695771": "2026-11-18",
+  "apple:usa:200695785": "2026-11-19",
   "apple:usa:200695814": "2026-11-19",
+  "apple:usa:200695877": "2026-11-19",
   "ashby:1password:13200311-77c5-49ed-a3ce-8460d5c72d91": "2026-11-13",
   "ashby:1password:15658971-e4f4-490b-97fe-5e716ddab770": "2026-11-13",
   "ashby:42dot:26f79b07-2ffc-44a3-9d92-36111d18fb34": "2026-11-13",
@@ -65290,6 +65293,7 @@
   "ashby:base-power:6d34e4ff-fd0d-46da-b01a-62be7f1e33e0": "2026-11-13",
   "ashby:base-power:71c01bd2-a940-43b1-9522-218204c201be": "2026-11-13",
   "ashby:base-power:7db510a0-a9be-4eca-a361-702fdc784b32": "2026-11-13",
+  "ashby:base-power:85775865-f676-47b5-85e4-a7b4237f837c": "2026-11-19",
   "ashby:base-power:9ed279a2-a39d-4b75-bbee-bff898b448c3": "2026-11-13",
   "ashby:base-power:a2915462-a9de-49c7-9062-826f3405210f": "2026-11-13",
   "ashby:base-power:a9eeb03c-a1c7-4098-95d9-b8bdf8354fdf": "2026-11-13",

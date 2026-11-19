@@ -1,14 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**618 jobs**, newest first. Updated Wed Nov 18, 10:45 PM CST from 12,526 company job boards and other sources.
+**614 jobs**, newest first. Updated Wed Nov 18, 11:47 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-266 repeat listings (same company and title in another place or on another source) are merged into one row.
+264 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 3,788 matching jobs that job sites and feeds listed this week, 687 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (4)](#wednesday-nov-11-4)
+Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (110)](#thursday-nov-12-110)
 
 ## Thursday, Nov 19 (2)
 
@@ -227,8 +227,8 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
-| 11:00 PM | [Automation Specialist I](https://careers-primecontrols.icims.com/jobs/2432/automation-specialist-i/job) | Prime Controls | Lewisville, TX, United States +1 more | 80 | entry-level title; E-Verify |
 | 11:00 PM | [HRIS System Administrator I](https://careers-stifel.icims.com/jobs/10226/hris-system-administrator-i/job) | Stifel | Saint Louis, MO, United States | 85 | entry-level title; 1+ yrs exp |
+| 11:00 PM | [Automation Specialist I](https://careers-primecontrols.icims.com/jobs/2432/automation-specialist-i/job) | Prime Controls | Lewisville, TX, United States | 80 | entry-level title; E-Verify |
 | 11:00 PM | [Research Support Associate](https://careers-wuxiapptec.icims.com/jobs/14277/research-support-associate/job) | WuXi AppTec | San Diego, CA, United States | 75 | entry-level title |
 | 10:15 PM | [Software Engineer, Super Intelligence](https://job-boards.greenhouse.io/xai/jobs/5295932007) | xAI | Palo Alto, CA | 75 | 1+ yrs exp |
 | 1:38 PM | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/netic/178a50d3-f3e8-4031-829f-ce6d6f3ed245) | Cybernetic Labs | San Francisco (onsite) | 80 | 1+ yrs exp |
@@ -664,16 +664,7 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60)
 | 12:00 AM | [Technical Support Representative Tier 1](https://jobs.dayforcehcm.com/en-US/k12l/candidateportal/jobs/10918) | K12L | US | 68 | entry-level title |
 | 12:00 AM | [Salesforce FSC Associate (Contractor)](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9203) | Hightower | Chicago, IL, US | 68 | entry-level title |
 
-## Wednesday, Nov 11 (4)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 11:00 PM | [Graduate Engineer - Traffic](https://careers-walterpmoore.icims.com/jobs/4367/graduate-engineer---traffic/job) | Walter P Moore | Dallas, TX, United States +1 more | 68 | entry-level title |
-| 11:00 PM | [Business Intelligence Developer - Lumicera](https://careers-navitus.icims.com/jobs/6972/business-intelligence-developer---lumicera/job) | Navitus Health Solutions | United States (remote) | 65 | entry level (from the text) |
-| 11:00 PM | [Help Desk Analyst](https://careers-physiciansmutual.icims.com/jobs/2136/help-desk-analyst/job) | Physicians Mutual | Omaha, NE, United States | 68 | 1+ yrs exp |
-| 11:00 PM | [Community Integration Specialist](https://jobs.dayforcehcm.com/en-US/gwcols/CANDIDATEPORTAL/jobs/12031) | Gwcols | Whitehall, OH, US | 73 | 1+ yrs exp; entry level (from the text) |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3836)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3838)
 
 <details><summary>Show</summary>
 
@@ -682,6 +673,8 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60)
 | date only | [Security Engineer,AWS Security](https://www.amazon.jobs/en/jobs/10608873/security-engineer-aws-security) | Amazon Development Center U.S… | Austin, Texas, USA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [2027 Associate Software Digital Engineer - Rolling Meadows IL  - Roll…](https://ngc.eightfold.ai/careers/job/1340075394894) | Ngc | Rolling Meadows, IL, US (onsite) | 80 | rules: entry-level title; needs: security clearance |
 | date only | [Support Engineer, Amazon Leo Enterprise Customer Support](https://www.amazon.jobs/en/jobs/10608910/support-engineer-amazon-leo-enterprise-customer-support) | Amazon Kuiper Commercial Serv… | Bellevue, Washington, USA | 75 | rules: 1+ yrs exp; needs: must be a U.S. citizen |
+| date only | [Software Development Engineer - AWS OpenSearch, OpenSearch Platform T…](https://www.amazon.jobs/en/jobs/10598937/software-development-engineer-aws-opensearch-opensearch-platform-team) | Amazon Development Center U.S… | Santa Clara, California, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 11:21 PM | [Embedded Software Engineer](https://jobs.ashbyhq.com/base-power/85775865-f676-47b5-85e4-a7b4237f837c) | Base Power | Austin, TX (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:41 PM | [AI Factory Customer Engineer](https://job-boards.greenhouse.io/armada/jobs/5485812008) | Armada | United States (Remote) (remote) | 42 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 10:26 PM | [Product Support Engineer](https://jobs.lever.co/jobgether/7e203dba-97cd-4265-932a-a8e33b61d987) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:25 PM | [Revenue Data Analyst](https://jobs.lever.co/jobgether/266770d8-0df9-48a3-ad14-61c68e7a2312) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -1077,7 +1070,5 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60)
 | date only | [2027 Associate Systems Engineer - Rolling Meadows IL](https://ngc.eightfold.ai/careers/job/1340075370527) | Ngc | Rolling Meadows, IL, US +1 more (onsite) | 80 | rules: entry-level title; needs: security clearance |
 | date only | [Analytics Engineer, Commercial Systems](https://apply.workable.com/bask-health-1/j/9453F02B71/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [GTM Data Analyst](https://apply.workable.com/bask-health-1/j/8F7C4076E8/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [Revenue Analytics Analyst](https://apply.workable.com/bask-health-1/j/F0E9BEC210/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [Environmental test engineer](https://www.amazon.jobs/en/jobs/10606793/environmental-test-engineer) | KGS LLC | Northridge, California, USA | 60 | rules: 4+ yrs exp; needs: Security Clearance |
 
 </details>
