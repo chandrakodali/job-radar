@@ -1,14 +1,14 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**206 jobs**, newest first. Updated Wed Nov 18, 6:24 PM CST from 12,526 company job boards and other sources.
+**202 jobs**, newest first. Updated Wed Nov 18, 7:17 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-134 repeat listings (same company and title in another place or on another source) are merged into one row.
+126 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 1,844 matching jobs that job sites and feeds listed this week, 441 (23%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 1,892 matching jobs that job sites and feeds listed this week, 456 (24%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (23)](#wednesday-nov-18-23) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (25)](#thursday-nov-12-25) · [Wed 11 (8)](#wednesday-nov-11-8)
+Jump to: [Wed 18 (23)](#wednesday-nov-18-23) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (25)](#thursday-nov-12-25) · [Wed 11 (4)](#wednesday-nov-11-4)
 
 ## Wednesday, Nov 18 (23)
 
@@ -243,7 +243,7 @@ Jump to: [Wed 18 (23)](#wednesday-nov-18-23) · [Tue 17 (19)](#tuesday-nov-17-19
 | 9:41 AM | [Developer - Java, Spring Boot](https://careers.united.com/us/en/job/UAIUADUSWHQ00026827EXTERNALENUSTALEO) | United Airlines | Chicago, Illinois, United States | 63 | 2+ yrs exp; no future H-1B sponsorship |
 | 7:11 AM | [Software Developer II](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54954) | CSX | Jacksonville, FL, United States (onsite) | 53 | 2+ yrs exp; requires Java |
 
-## Wednesday, Nov 11 (8)
+## Wednesday, Nov 11 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -251,10 +251,6 @@ Jump to: [Wed 18 (23)](#wednesday-nov-18-23) · [Tue 17 (19)](#tuesday-nov-17-19
 | 8:00 PM | [Java Fullstack Developer](https://careers.capgemini.com/job/Dallas%2C-TX-Java-Fullstack-Developer-TX-75201/1447763033/) | Capgemini | Dallas, TX, United States | 53 | 3+ yrs exp |
 | 8:00 PM | [Java Full Stack  Software Engineer](https://careers.capgemini.com/job/Chicago%2C-IL-Java-Full-Stack-Software-Engineer-IL-60290/1447385433/) | Capgemini | Chicago, IL, United States | 53 | 4+ yrs exp |
 | 8:00 PM | [Software Engineer - Market Risk Technology](https://careers.capgemini.com/job/New-York%2C-NY-Software-Engineer-Market-Risk-Technology-NY-10001/1427071033/) | Capgemini | New York, NY, United States | 43 | requires Java |
-| 7:13 PM | [Senior Software Engineer, Platform(Hybrid)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344566) | Oracle | Nashville, TN, United States | 33 | 4+ yrs exp; senior title; requires Java |
-| 7:13 PM | [Senior Software Engineer, Platform(Hybrid)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/job/344566) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States | 33 | 4+ yrs exp; senior title; requires Java |
-| 7:13 PM | [Senior Software Engineer, Core Infrastructure(Hybrid)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344707) | Oracle | Nashville, TN, United States | 33 | 4+ yrs exp; senior title; requires Java |
-| 7:13 PM | [Senior Software Engineer, Core Infrastructure(Hybrid)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/job/344707) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States | 33 | 4+ yrs exp; senior title; requires Java |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (334)
 
