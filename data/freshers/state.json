@@ -12012,17 +12012,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 136,
+   "n": 137,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 136,
+   "n": 137,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 136,
+   "n": 137,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -74667,10 +74667,13 @@
   "oracle:ehzq.fa.us2.oraclecloud.com|GrantThorntonGibraltar:116334": "2026-11-14",
   "oracle:ehzq.fa.us2.oraclecloud.com|GrantThorntonGibraltar:116336": "2026-11-14",
   "oracle:ehzq.fa.us2.oraclecloud.com|GrantThorntonGibraltar:116337": "2026-11-14",
+  "oracle:eiqg.fa.us2.oraclecloud.com|CX:170848": "2026-11-19",
   "oracle:eiqg.fa.us2.oraclecloud.com|CX:170947": "2026-11-18",
   "oracle:eiqg.fa.us2.oraclecloud.com|CX:173933": "2026-11-16",
+  "oracle:eiqg.fa.us2.oraclecloud.com|CX_1001:170848": "2026-11-19",
   "oracle:eiqg.fa.us2.oraclecloud.com|CX_1001:170947": "2026-11-18",
   "oracle:eiqg.fa.us2.oraclecloud.com|CX_1001:173933": "2026-11-16",
+  "oracle:eiqg.fa.us2.oraclecloud.com|CX_1:170848": "2026-11-19",
   "oracle:eiqg.fa.us2.oraclecloud.com|CX_1:170947": "2026-11-18",
   "oracle:eiqg.fa.us2.oraclecloud.com|CX_1:173933": "2026-11-16",
   "oracle:ejcu.fa.us6.oraclecloud.com|CX_1033:1000374": "2026-11-13",

@@ -1,22 +1,23 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**614 jobs**, newest first. Updated Thu Nov 19, 12:48 AM CST from 12,526 company job boards and other sources.
+**615 jobs**, newest first. Updated Thu Nov 19, 1:45 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-264 repeat listings (same company and title in another place or on another source) are merged into one row.
+266 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 3,866 matching jobs that job sites and feeds listed this week, 707 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (4)](#thursday-nov-19-4) · [Wed 18 (60)](#wednesday-nov-18-60) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (108)](#thursday-nov-12-108)
+Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (60)](#wednesday-nov-18-60) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (108)](#thursday-nov-12-108)
 
-## Thursday, Nov 19 (4)
+## Thursday, Nov 19 (5)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Software Engineer, Commerce](https://www.amazon.jobs/en/jobs/10607724/software-engineer-commerce) | Twitch Interactive, Inc. | Seattle, Washington, USA | 75 | 1+ yrs exp |
 | date only | [Software Engineer I, Commerce](https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce) | Twitch Interactive, Inc. | Seattle, Washington, USA | 85 | entry-level title; 1+ yrs exp |
 | 1:47 AM | [Associate, Cybersecurity & Data Privacy, Compliance](https://jobs.lever.co/jobgether/c998b954-e4b5-4221-9e90-a854a4cab7a1) | Jobgether | US (remote) | 82 | entry-level title; 1+ yrs exp |
+| 1:05 AM | [CMMS Implementation Associate](https://eiqg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/170848) | Eiqg Fa Us2 Oraclecloud Com | GA, United States | 75 | entry-level title |
 | 12:05 AM | [Systems Support Specialist I - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4416) | City of Oklahoma City | Oklahoma  City, OK, United States (onsite) | 80 | entry-level title |
 
 ## Wednesday, Nov 18 (60)
