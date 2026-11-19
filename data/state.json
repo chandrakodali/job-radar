@@ -12114,17 +12114,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 296,
+   "n": 297,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 296,
+   "n": 297,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 296,
+   "n": 297,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14986,6 +14986,7 @@
   "Systems Engineering Solutions Corporation": "2026-11-16",
   "TOMORROW HIRE": "2026-11-19",
   "Toyota Tsusho Systems": "2026-11-19",
+  "Upsun": "2026-11-19",
   "WorldVia": "2026-11-16",
   "Worth AI": "2026-11-19",
   "Xora Innovation": "2026-11-14",
@@ -15024,8 +15025,8 @@
    373
   ],
   "2026-11-19": [
-   120,
-   259
+   123,
+   265
   ]
  },
  "resolved": {
@@ -65817,6 +65818,7 @@
   "amazon:us:10606820": "2026-11-17",
   "amazon:us:10607408": "2026-11-17",
   "amazon:us:10607429": "2026-11-17",
+  "amazon:us:10607438": "2026-11-19",
   "amazon:us:10607623": "2026-11-17",
   "amazon:us:10607729": "2026-11-18",
   "amazon:us:10608155": "2026-11-18",
@@ -65931,6 +65933,7 @@
   "ashby:clera:d7270fb0-ae7d-4c92-bd1a-9a1000c0b800": "2026-11-07",
   "ashby:clera:dd57a8f6-ca07-43cc-8191-5ebc413d810e": "2026-11-14",
   "ashby:clera:ee2d16b1-fb2a-4b38-9eba-258efd4a6dc3": "2026-11-09",
+  "ashby:clera:f4e07f8c-795c-477a-9a10-16d352a42fe9": "2026-11-19",
   "ashby:clera:f9a19ac1-59ba-43ed-8da4-7c0c17c67650": "2026-11-13",
   "ashby:clera:fe223204-19b7-4940-9fb7-6ee132cec528": "2026-11-12",
   "ashby:clickhouse:39e42a38-1cbf-40c7-b373-717b4cdddbac": "2026-11-13",
@@ -66094,6 +66097,7 @@
   "ashby:webflow:17b87b13-474f-4636-9ccc-97f8296eab9e": "2026-11-12",
   "ashby:withpulley:c29ef6f0-20bb-4eaa-88a8-2fa925525593": "2026-11-10",
   "ashby:xona-space:47de67f1-f131-425f-9385-9374b84cf938": "2026-11-10",
+  "ashby:xona-space:5f9603fa-1412-480e-a2bb-f8b85778094f": "2026-11-19",
   "ashby:yondr:24961df5-29c0-412a-8c81-8c3c27764505": "2026-11-15",
   "ashby:zip:c72dacde-b007-45ea-901b-ed9f6d7a4746": "2026-11-12",
   "avature:bloomberg.avature.net|careers:45724": "2026-11-14",
@@ -66299,6 +66303,7 @@
   "careerpuck:blinkhealth:r1X8_8Qp": "2026-11-14",
   "careerpuck:color-health:V20dLcJN": "2026-11-14",
   "careerpuck:earnest:nfg5FcVU": "2026-11-14",
+  "careerpuck:thymecare:8zym2eBE": "2026-11-19",
   "catsone:33704placement:16406375": "2026-11-14",
   "catsone:33704placement:16408418": "2026-11-14",
   "catsone:33704placement:16559737": "2026-11-14",
@@ -66784,6 +66789,7 @@
   "eightfold:eaton:687240042663": "2026-11-17",
   "eightfold:eaton|eaton.com:687239541052": "2026-11-09",
   "eightfold:eaton|eaton.com:687240042663": "2026-11-17",
+  "eightfold:ericsson:563121777586028": "2026-11-19",
   "eightfold:ericsson:563121777600972": "2026-11-19",
   "eightfold:ford:563568454106691": "2026-11-18",
   "eightfold:ford:563568454116722": "2026-11-14",
@@ -69461,6 +69467,10 @@
   "workable:accurant:E9A36F1643": "2026-11-11",
   "workable:alphax:74C2A57C78": "2026-11-08",
   "workable:aravo:405A735D89": "2026-11-09",
+  "workable:aretum:390B4162BB": "2026-11-19",
+  "workable:aretum:66C5EFC702": "2026-11-19",
+  "workable:aretum:85F7B22D15": "2026-11-19",
+  "workable:aretum:85F86C8723": "2026-11-19",
   "workable:aretum:D5ED1AF1E2": "2026-11-09",
   "workable:bask-health-1:13309AA1F8": "2026-11-12",
   "workable:bask-health-1:3383A36B1B": "2026-11-12",
@@ -70290,6 +70300,7 @@
   "workday:zeissgroup|wd3|External:JR_1054737": "2026-11-07",
   "workday:zoom|wd5|zoom:R19820": "2026-11-12",
   "wwr:weworkremotely:3c4d883fab7c025c": "2026-11-12",
+  "wwr:weworkremotely:91dad94267ffb967": "2026-11-19",
   "wwr:weworkremotely:9cf40f8340d6a5bc": "2026-11-16",
   "wwr:weworkremotely:a7270715b385cea8": "2026-11-12",
   "wwr:weworkremotely:d73a5b9b475c68da": "2026-11-13",
@@ -70363,7 +70374,7 @@
   "remoteok": "2026-11-19T17:37:16+00:00",
   "usajobs": "2026-11-19T16:07:23+00:00",
   "workable_search": "2026-11-19T16:07:23+00:00",
-  "wwr": "2026-11-19T17:37:16+00:00",
+  "wwr": "2026-11-19T18:37:17+00:00",
   "yc": "2026-11-19T16:07:23+00:00"
  },
  "title_rules": "c323075b4d70",
