@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**617 jobs**, newest first. Updated Thu Nov 19, 7:48 AM CST from 12,526 company job boards and other sources.
+**618 jobs**, newest first. Updated Thu Nov 19, 7:58 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -8,9 +8,9 @@ US jobs only, any area of IT, kept only when they show they're entry level: an e
 
 Coverage check: of 4,021 matching jobs that job sites and feeds listed this week, 749 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (16)](#thursday-nov-19-16) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (101)](#thursday-nov-12-101)
+Jump to: [Thu 19 (17)](#thursday-nov-19-17) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (101)](#thursday-nov-12-101)
 
-## Thursday, Nov 19 (16)
+## Thursday, Nov 19 (17)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -20,6 +20,7 @@ Jump to: [Thu 19 (16)](#thursday-nov-19-16) · [Wed 18 (58)](#wednesday-nov-18-5
 | date only | [Software QA Engineer, DOCA Host](https://nvidia.eightfold.ai/careers/job/893398811435) | Nvidia | Rawabi; Hebron; Nablus (onsite) | 75 | 1+ yrs exp; location unclear |
 | date only | [Design-for-Test Engineer (2027 New College Graduate)](https://globalfoundries.eightfold.ai/careers/job/563980770505731) | Globalfoundries | Richardson, TX, US (onsite) | 80 | entry-level title |
 | date only | [AI/ML Device Modeling Engineer (2027 New College Graduate)](https://globalfoundries.eightfold.ai/careers/job/563980770945693) | Globalfoundries | Austin, TX, US; IL,US (onsite) | 80 | entry-level title |
+| 7:48 AM | [Administrative Support Team Associate, Riverside Galleria at Tyler - …](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/94871) | Macy's | Riverside, CA, United States | 85 | entry-level title; 1+ yrs exp |
 | 7:48 AM | [Help Desk Technician I](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4730647006) | Jrmconstructionmanagementllc | New York, NY | 85 | entry-level title; 1+ yrs exp |
 | 3:45 AM (seen) | [associate test technician](https://element-ext-row.icims.com/jobs/20128/associate-test-technician/job) | Element Materials Technology |  | 55 | entry-level title; location unclear |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Montebello Town…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826484) | Macy's | Montebello, CA, United States | 75 | entry-level title; repost |
@@ -667,7 +668,7 @@ Jump to: [Thu 19 (16)](#thursday-nov-19-16) · [Wed 18 (58)](#wednesday-nov-18-5
 | 9:28 AM | [Infrastructure Support Engineer](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41266) | Nokia | United States (onsite) | 73 | entry level (from the text) |
 | 8:50 AM | [Junior IT Operations & Support Specialist](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000161319429-junior-it-operations-support-specialist) | Crown Innovations | Arlington, VA, United States | 68 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3860)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3862)
 
 <details><summary>Show</summary>
 
@@ -680,6 +681,8 @@ Jump to: [Thu 19 (16)](#thursday-nov-19-16) · [Wed 18 (58)](#wednesday-nov-18-5
 | date only | [AI enabled PDK Development Engineer](https://globalfoundries.eightfold.ai/careers/job/563980770945695) | Globalfoundries | Malta, NY, US; Essex, VT, US (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Automation Engineer](https://micron.eightfold.ai/careers/job/45606348) | Micron | GJ,IN (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Front End Software Engineer](https://fincons.applytojob.com/apply/ZAGaQvHPv9/Front-End-Software-Engineer) | Fincons Group | Remote (US) (remote) | 42 | rules: 15+ yrs exp; asks for 15+ years of experience |
+| date only | [Junior Software Engineer (Prime)](https://intelliforceitsolutionsgroup.applytojob.com/apply/kocWKm5EhT/Junior-Software-Engineer-Prime) | Intelliforce-IT Solutions Gro… | Annapolis Junction, MD | 60 | rules: entry-level title; 4+ yrs exp; no future H-1B sponsorship; sta… |
+| 7:52 AM | [Infrastructure Engineer Deskside Support](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120595) | Howmet Aerospace | Wichita Falls, TX, United States (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 7:48 AM (seen) | [TikTok Shop - Strategy & Analytics Analyst](https://lifeattiktok.com/search/7621699366710446389) | TikTok | Seattle, Washington, United States of A… | 45 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 7:48 AM (seen) | [Community Support Specialist School-Based](https://compasshealthnetwork.pinpointhq.com/en/postings/a9f7f66f-ab35-4e86-a651-0bcaa67b17cd) | Compasshealthnetwork | Wentzville - 1032 Crosswinds Court +1 m… (onsite) | 50 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 7:16 AM | [Building Automation Systems Engineer](https://job-boards.greenhouse.io/synerg/jobs/6253000004) | Synerg | San Diego, California, United States | 45 | rules: 8+ yrs exp; E-Verify; no future H-1B sponsorship; asks for 8+ … |
@@ -1071,7 +1074,5 @@ Jump to: [Thu 19 (16)](#thursday-nov-19-16) · [Wed 18 (58)](#wednesday-nov-18-5
 | 12:13 PM | [Software Development Engineer / BGP](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25020113) | Edbz Fa Us2 Oraclecloud Com | Santa Clara, CA, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 12:11 PM | [Cloud Platform - ML Robotics Infra Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8948543002) | Atoms | Pittsburgh, PA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 12:05 PM | [System Engineer](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020324) | Texas Instruments | Phoenix, AZ, United States +2 more | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 12:05 PM | [System Engineer](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25020324) | Edbz Fa Us2 Oraclecloud Com | Phoenix, AZ, United States +2 more | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 12:02 PM | [Combustion and Emissions Systems Engineer](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434616) | Cummins | Columbus, IN, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 
 </details>
