@@ -12012,17 +12012,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 132,
+   "n": 133,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 132,
+   "n": 133,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 132,
+   "n": 133,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -68594,6 +68594,7 @@
   "eightfold:appliedmaterials:790315470501": "2026-11-18",
   "eightfold:appliedmaterials:790317055706": "2026-11-14",
   "eightfold:appliedmaterials:790318652507": "2026-11-14",
+  "eightfold:appliedmaterials:790319160024": "2026-11-19",
   "eightfold:appliedmaterials:790319187535": "2026-11-19",
   "eightfold:appliedmaterials:790319443699": "2026-11-14",
   "eightfold:appliedmaterials:790319484410": "2026-11-17",
@@ -74152,6 +74153,7 @@
   "lever:jobgether:7c2a1c12-6082-4456-a741-a49aa1e01196": "2026-11-14",
   "lever:jobgether:7c81d5c2-e701-4d74-926d-092ac167bc6f": "2026-11-14",
   "lever:jobgether:7d7aae14-b608-463f-82c1-8eda7918b8cd": "2026-11-18",
+  "lever:jobgether:7e203dba-97cd-4265-932a-a8e33b61d987": "2026-11-19",
   "lever:jobgether:7f612467-c5a6-46d0-9e01-7bf055856e74": "2026-11-14",
   "lever:jobgether:7fcb45f0-fe08-458f-a8ea-bdbbff723372": "2026-11-14",
   "lever:jobgether:7ff45725-b98f-4aad-aeb2-d25ba26e2eaa": "2026-11-18",
