@@ -1,19 +1,21 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**198 jobs**, newest first. Updated Thu Nov 19, 8:17 AM CST from 12,526 company job boards and other sources.
+**200 jobs**, newest first. Updated Thu Nov 19, 9:18 AM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 126 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,103 matching jobs that job sites and feeds listed this week, 523 (24%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,108 matching jobs that job sites and feeds listed this week, 524 (24%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (1)](#thursday-nov-19-1) · [Wed 18 (23)](#wednesday-nov-18-23) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (24)](#thursday-nov-12-24)
+Jump to: [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (23)](#wednesday-nov-18-23) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (24)](#thursday-nov-12-24)
 
-## Thursday, Nov 19 (1)
+## Thursday, Nov 19 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 8:27 AM | [Sr Software Engineer I - Enterprise Architecture](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016711) | American Express | Sunrise, FL, United States (remote) | 47 | entry-level title; senior title, years not stated; requires Java |
+| 8:27 AM | [Sr Software Engineer I - Enterprise Architecture](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26016711) | Egug Fa Us2 Oraclecloud Com | Sunrise, FL, United States (remote) | 42 | entry-level title; senior title, years not stated; requires Java |
 | 8:03 AM | [API Systems Engineer](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31739) | Navy Federal | Vienna, VA, United States (hybrid) | 50 | no future H-1B sponsorship; requires Java |
 
 ## Wednesday, Nov 18 (23)
