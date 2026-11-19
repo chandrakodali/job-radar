@@ -1,6 +1,6 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**199 jobs**, newest first. Updated Wed Nov 18, 10:20 PM CST from 12,526 company job boards and other sources.
+**198 jobs**, newest first. Updated Wed Nov 18, 11:15 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only: Java in the title, or backend/software/full-stack roles whose requ
 
 Coverage check: of 1,944 matching jobs that job sites and feeds listed this week, 470 (24%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (23)](#wednesday-nov-18-23) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (25)](#thursday-nov-12-25) · [Wed 11 (1)](#wednesday-nov-11-1)
+Jump to: [Wed 18 (23)](#wednesday-nov-18-23) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (25)](#thursday-nov-12-25)
 
 ## Wednesday, Nov 18 (23)
 
@@ -242,12 +242,6 @@ Jump to: [Wed 18 (23)](#wednesday-nov-18-23) · [Tue 17 (19)](#tuesday-nov-17-19
 | 9:49 AM | [Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, E…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26012796) | Egug Fa Us2 Oraclecloud Com | New York, NY, United States (hybrid) | 53 | entry-level title; requires Java |
 | 9:41 AM | [Developer - Java, Spring Boot](https://careers.united.com/us/en/job/UAIUADUSWHQ00026827EXTERNALENUSTALEO) | United Airlines | Chicago, Illinois, United States | 63 | 2+ yrs exp; no future H-1B sponsorship |
 | 7:11 AM | [Software Developer II](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54954) | CSX | Jacksonville, FL, United States (onsite) | 53 | 2+ yrs exp; requires Java |
-
-## Wednesday, Nov 11 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 11:00 PM | [Java Developer - Digitech - Remote](https://jobs.dayforcehcm.com/en-US/sarnova/CANDIDATEPORTAL/jobs/1923) | Sarnova | US (remote) | 50 | 3+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (334)
 

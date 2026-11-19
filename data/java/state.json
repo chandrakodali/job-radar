@@ -12001,17 +12001,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 107,
+   "n": 108,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 107,
+   "n": 108,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 107,
+   "n": 108,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -64389,6 +64389,7 @@
   "apple:usa:200695736": "2026-11-18",
   "apple:usa:200695755": "2026-11-18",
   "apple:usa:200695771": "2026-11-18",
+  "apple:usa:200695814": "2026-11-19",
   "ashby:42dot:26f79b07-2ffc-44a3-9d92-36111d18fb34": "2026-11-14",
   "ashby:42dot:4c80af7e-eda8-4a99-9060-7a8a5d6cccb9": "2026-11-14",
   "ashby:AeroVect:85f76a52-86de-43d3-bc0d-db4bf225bb33": "2026-11-16",
@@ -68561,6 +68562,7 @@
   "sfrmk:careers.capgemini.com:1458619633": "2026-11-18",
   "sfrmk:careers.cintas.com:1436636800": "2026-11-14",
   "sfrmk:careers.cintas.com:1441899100": "2026-11-14",
+  "sfrmk:careers.cintas.com:1451739900": "2026-11-19",
   "sfrmk:careers.dominionenergy.com:1451952000": "2026-11-18",
   "sfrmk:careers.leggett.com:1428266800": "2026-11-14",
   "sfrmk:careers.leggett.com:1428693700": "2026-11-14",
@@ -70127,7 +70129,7 @@
   "remoteok": "2026-11-19T04:20:07+00:00",
   "usajobs": "2026-11-19T04:20:07+00:00",
   "workable_search": "2026-11-19T04:20:07+00:00",
-  "wwr": "2026-11-19T04:20:07+00:00",
+  "wwr": "2026-11-19T05:15:27+00:00",
   "yc": "2026-11-19T04:20:07+00:00"
  },
  "title_rules": "72f554d20a7f",
