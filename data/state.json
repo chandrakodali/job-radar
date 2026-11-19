@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 261,
+   "n": 262,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 261,
+   "n": 262,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 261,
+   "n": 262,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14937,9 +14937,10 @@
  "found_cursor": 968,
  "last_digest": "2026-11-18",
  "missed_companies": {
+  "A2Z Sync": "2026-11-19",
   "Accurant International": "2026-11-18",
-  "AmeriSave": "2026-11-18",
-  "Bask Health": "2026-11-18",
+  "AmeriSave": "2026-11-19",
+  "Bask Health": "2026-11-19",
   "Coris": "2026-11-16",
   "Diversified Services Network, Inc.": "2026-11-17",
   "EPAM Systems": "2026-11-19",
@@ -14948,14 +14949,14 @@
   "Essnova Solutions, Inc.": "2026-11-17",
   "Foresight Works Ltd": "2026-11-13",
   "Fortanix": "2026-11-14",
-  "Frontera Space": "2026-11-18",
-  "GEM Technologies": "2026-11-18",
+  "Frontera Space": "2026-11-19",
+  "GEM Technologies": "2026-11-19",
   "GoMining": "2026-11-18",
   "Halcyon": "2026-11-14",
   "Knack": "2026-11-17",
-  "LaBella Associates": "2026-11-18",
+  "LaBella Associates": "2026-11-19",
   "Odin": "2026-11-17",
-  "Omnistrate": "2026-11-18",
+  "Omnistrate": "2026-11-19",
   "OpenDataJobs": "2026-11-14",
   "PGTEK": "2026-11-14",
   "PIMCO": "2026-11-16",
@@ -14963,12 +14964,12 @@
   "Runware": "2026-11-14",
   "Salvo Software": "2026-11-14",
   "Stealth Health-Tech Startup": "2026-11-16",
-  "StradIT": "2026-11-18",
+  "StradIT": "2026-11-19",
   "Systems Engineering Solutions Corporation": "2026-11-16",
-  "TOMORROW HIRE": "2026-11-18",
-  "Toyota Tsusho Systems": "2026-11-18",
+  "TOMORROW HIRE": "2026-11-19",
+  "Toyota Tsusho Systems": "2026-11-19",
   "WorldVia": "2026-11-16",
-  "Worth AI": "2026-11-18",
+  "Worth AI": "2026-11-19",
   "Xora Innovation": "2026-11-14",
   "Zipdev": "2026-11-14",
   "erad": "2026-11-18",
@@ -15005,8 +15006,8 @@
    373
   ],
   "2026-11-19": [
-   0,
-   2
+   20,
+   39
   ]
  },
  "resolved": {
@@ -65847,6 +65848,7 @@
   "ashby:Perplexity:2d510148-8cce-4b67-be25-5784106bbff4": "2026-11-07",
   "ashby:Plaud:7d8286b2-dbeb-42c6-85bf-dcecbe15c3c8": "2026-11-14",
   "ashby:PointOne:e57df388-58d1-41b5-b388-6b4ad41a6c57": "2026-11-07",
+  "ashby:Sierra:742020b7-5a2a-495d-8ac9-d74d31dc91c6": "2026-11-19",
   "ashby:Skip:dc2bfc5f-b716-4712-b8d0-f9c15ddc44d7": "2026-11-12",
   "ashby:ThinkingMachines:14bef671-162c-4513-bfcf-e679e41e10a8": "2026-11-09",
   "ashby:ThinkingMachines:541c2fcf-e128-4442-94ee-c8298f226756": "2026-11-17",
@@ -68390,10 +68392,14 @@
   "oracle:egua.fa.us2.oraclecloud.com|CX_1:24210": "2026-11-08",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26013784": "2026-11-16",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26015149": "2026-11-17",
+  "oracle:egug.fa.us2.oraclecloud.com|CX:26016351": "2026-11-19",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26016352": "2026-11-17",
+  "oracle:egug.fa.us2.oraclecloud.com|CX:26016715": "2026-11-19",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26013784": "2026-11-16",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26015149": "2026-11-17",
+  "oracle:egug.fa.us2.oraclecloud.com|CX_1:26016351": "2026-11-19",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26016352": "2026-11-17",
+  "oracle:egug.fa.us2.oraclecloud.com|CX_1:26016715": "2026-11-19",
   "oracle:egup.fa.us2.oraclecloud.com|CX:20283963": "2026-11-12",
   "oracle:ejhp.fa.us6.oraclecloud.com|CX_2:2628658": "2026-11-16",
   "oracle:ejhp.fa.us6.oraclecloud.com|CX_2:2628930": "2026-11-12",
@@ -69398,6 +69404,7 @@
   "workable_search:all:5cf543e6-52d1-40a5-acfb-eba923aef622": "2026-11-12",
   "workable_search:all:67ecd7ef-b7ec-4075-9943-d708e84f36d4": "2026-11-12",
   "workable_search:all:88bd6b31-9eaa-491b-8762-e21c1db86a32": "2026-11-13",
+  "workable_search:all:89572e70-86a9-4987-a605-9666f5b9e06c": "2026-11-19",
   "workable_search:all:8c76ba8f-6518-48dc-9fa2-eea37d87fc3c": "2026-11-18",
   "workable_search:all:9a2128fb-16c5-4439-8180-68c7eb413c63": "2026-11-12",
   "workable_search:all:9e591820-de7d-4c81-aec9-c6518335d40a": "2026-11-17",
@@ -70214,10 +70221,10 @@
  "source_last": {
   "hn": "2026-11-18T20:37:34+00:00",
   "remoteok": "2026-11-18T23:37:24+00:00",
-  "usajobs": "2026-11-18T22:07:29+00:00",
-  "workable_search": "2026-11-18T22:07:29+00:00",
+  "usajobs": "2026-11-19T01:07:17+00:00",
+  "workable_search": "2026-11-19T01:07:17+00:00",
   "wwr": "2026-11-19T00:37:18+00:00",
-  "yc": "2026-11-18T22:07:29+00:00"
+  "yc": "2026-11-19T01:07:17+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1

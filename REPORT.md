@@ -1,19 +1,25 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**608 jobs**, newest first. Updated Wed Nov 18, 6:37 PM CST from 12,526 company job boards and other sources.
+**614 jobs**, newest first. Updated Wed Nov 18, 7:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 255 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,085 matching jobs that job sites and feeds listed this week, 746 (35%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,122 matching jobs that job sites and feeds listed this week, 766 (36%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (36)](#wednesday-nov-18-36) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (3)](#wednesday-nov-11-3)
+Jump to: [Wed 18 (42)](#wednesday-nov-18-42) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (3)](#wednesday-nov-11-3)
 
-## Wednesday, Nov 18 (36)
+## Wednesday, Nov 18 (42)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 6:48 PM | [Senior Infrastructure Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016715) | American Express | Phoenix, AZ, United States (hybrid) | 60 | 3+ yrs exp; senior title |
+| 6:48 PM | [Senior Infrastructure Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26016715) | Egug Fa Us2 Oraclecloud Com | Phoenix, AZ, United States (hybrid) | 55 | 3+ yrs exp; senior title |
+| 6:46 PM | [Site Reliability Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016351) | American Express | Phoenix, AZ, United States (hybrid) | 65 |  |
+| 6:46 PM | [Site Reliability Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26016351) | Egug Fa Us2 Oraclecloud Com | Phoenix, AZ, United States (hybrid) | 60 |  |
+| 6:42 PM | [IT Infrastructure Engineer](https://jobs.ashbyhq.com/Sierra/742020b7-5a2a-495d-8ac9-d74d31dc91c6) | Sierra | San Francisco, CA (onsite) | 70 |  |
+| 6:03 PM | [Site Reliability Engineer](https://jobs.workable.com/view/hXDpRpv1682KM8Z5L41upo/remote-site-reliability-engineer-in-denver-at-a2z-sync) | A2Z Sync | Denver, Colorado (remote) (remote) | 57 | 4+ yrs exp |
 | 5:46 PM | [Systems Reliability Engineer](https://job-boards.greenhouse.io/thetradedesk/jobs/5301212007) | The Trade Desk | Boulder | 65 |  |
 | 5:37 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265309909/Senior-FinOps-Analyst-ID94366) | Agileengine | Tampa, United States +14 more | 25 | senior title, years not stated |
 | 5:18 PM | [Sr Software Engineer - Infrastructure & Platform](https://mercadolibre.eightfold.ai/careers/job/43350162) | Mercadolibre | CABA, CABA, AR (hybrid) | 60 | senior title, years not stated |
