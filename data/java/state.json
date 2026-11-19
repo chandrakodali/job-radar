@@ -12001,17 +12001,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 109,
+   "n": 110,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 109,
+   "n": 110,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 109,
+   "n": 110,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12896,11 +12896,6 @@
    "n": 3,
    "since": "2026-11-14"
   },
-  "sfrmk:careers.anglogoldashanti.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-19"
-  },
   "sfrmk:careers.qualitestgroup.com": {
    "disabled_until": "2026-11-21",
    "err": "robots.txt disallows /job_sitemap.xml",
@@ -13364,8 +13359,8 @@
    492
   ],
   "2026-11-19": [
-   30,
-   101
+   45,
+   150
   ]
  },
  "resolved": {
@@ -67665,6 +67660,7 @@
   "lever:jobgether:02601126-bd02-4538-ba32-cf199521bc57": "2026-11-14",
   "lever:jobgether:04204789-6c21-47d1-8f94-d33727ea0ec1": "2026-11-14",
   "lever:jobgether:07681a3c-f0c2-4e6f-b380-de581c64b867": "2026-11-16",
+  "lever:jobgether:0a28d19f-8f47-4c38-a748-4e4e8303aeed": "2026-11-19",
   "lever:jobgether:1f41924b-9c06-4b11-999f-1bc211f2544a": "2026-11-16",
   "lever:jobgether:25f8ac01-c5a3-495d-b94c-848bcb7f2197": "2026-11-14",
   "lever:jobgether:2629ec48-6b51-43ac-a552-1ffd59f9e82c": "2026-11-14",
@@ -69299,6 +69295,7 @@
   "workday:acrisure|wd1|Acrisure:Texas": "2026-11-14",
   "workday:acxiomllc|wd5|AcxiomUSA:JR014681": "2026-11-14",
   "workday:adobe|wd5|external_experienced:R171470": "2026-11-14",
+  "workday:agilent|wd5|Agilent_Careers:4040775": "2026-11-19",
   "workday:aksteel|wd1|careers:R13987": "2026-11-14",
   "workday:aksteel|wd1|careers:R13999": "2026-11-14",
   "workday:alkami|wd12|alkami:JR-000851": "2026-11-14",
@@ -70133,11 +70130,11 @@
  },
  "source_last": {
   "hn": "2026-11-19T03:17:54+00:00",
-  "remoteok": "2026-11-19T04:20:07+00:00",
-  "usajobs": "2026-11-19T04:20:07+00:00",
-  "workable_search": "2026-11-19T04:20:07+00:00",
-  "wwr": "2026-11-19T06:15:05+00:00",
-  "yc": "2026-11-19T04:20:07+00:00"
+  "remoteok": "2026-11-19T07:17:25+00:00",
+  "usajobs": "2026-11-19T07:17:25+00:00",
+  "workable_search": "2026-11-19T07:17:25+00:00",
+  "wwr": "2026-11-19T07:17:25+00:00",
+  "yc": "2026-11-19T07:17:25+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
