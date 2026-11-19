@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 286,
+   "n": 287,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 286,
+   "n": 287,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 286,
+   "n": 287,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15007,7 +15007,7 @@
   ],
   "2026-11-19": [
    100,
-   211
+   213
   ]
  },
  "resolved": {
@@ -68319,6 +68319,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX:348476": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:349973": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:350444": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX:350905": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:340135": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342815": "2026-11-16",
@@ -68331,6 +68332,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:348476": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:349973": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:350444": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:350905": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:340135": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342815": "2026-11-16",
@@ -68343,6 +68345,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:348476": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:349973": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:350444": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_1:350905": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:340135": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:340915": "2026-11-12",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:342348": "2026-11-16",
@@ -68365,6 +68368,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350114": "2026-11-13",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350444": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350510": "2026-11-12",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350905": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:340135": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342815": "2026-11-16",
@@ -68377,6 +68381,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:348476": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:349973": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:350444": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|jobearch:350905": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:340135": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342348": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342815": "2026-11-16",
@@ -68389,6 +68394,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:348476": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:349973": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:350444": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:350905": "2026-11-19",
   "oracle:eewl.fa.us6.oraclecloud.com|CX:11890": "2026-11-13",
   "oracle:eexs.fa.us2.oraclecloud.com|GreenwoodVillageSouth:41612": "2026-11-08",
   "oracle:eexs.fa.us2.oraclecloud.com|GreenwoodVillageSouth:41613": "2026-11-08",
@@ -70238,10 +70244,10 @@
  },
  "source_last": {
   "hn": "2026-11-19T08:37:16+00:00",
-  "remoteok": "2026-11-19T11:37:13+00:00",
+  "remoteok": "2026-11-19T13:37:14+00:00",
   "usajobs": "2026-11-19T13:07:16+00:00",
   "workable_search": "2026-11-19T13:07:16+00:00",
-  "wwr": "2026-11-19T12:37:14+00:00",
+  "wwr": "2026-11-19T13:37:14+00:00",
   "yc": "2026-11-19T13:07:16+00:00"
  },
  "title_rules": "c323075b4d70",

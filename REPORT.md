@@ -1,14 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**610 jobs**, newest first. Updated Thu Nov 19, 7:07 AM CST from 12,526 company job boards and other sources.
+**612 jobs**, newest first. Updated Thu Nov 19, 7:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-249 repeat listings (same company and title in another place or on another source) are merged into one row.
+247 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,294 matching jobs that job sites and feeds listed this week, 846 (36%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,296 matching jobs that job sites and feeds listed this week, 846 (36%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (45)](#wednesday-nov-18-45) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (83)](#thursday-nov-12-83)
+Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (47)](#wednesday-nov-18-47) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (83)](#thursday-nov-12-83)
 
 ## Thursday, Nov 19 (5)
 
@@ -20,7 +20,7 @@ Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (45)](#wednesday-nov-18-45)
 | 1:36 AM | [Cloud System Administrator (Shift C - Night)](https://jobs.lever.co/jobgether/9c2d4dc4-c40b-400c-b0d4-cb0f7d0e65bf) | Jobgether | US (remote) | 62 |  |
 | 12:07 AM (seen) | [Senior Site Reliability Engineer](https://app.careerpuck.com/job-board/blinkhealth/job/75nQcAvf) | Blinkhealth | New York, NY; Pittsburgh, PA; Seattle, … | 40 | senior title, years not stated |
 
-## Wednesday, Nov 18 (45)
+## Wednesday, Nov 18 (47)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -44,6 +44,8 @@ Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (45)](#wednesday-nov-18-45)
 | 2:07 PM (seen) | [Backend Software Engineer, TikTok Live Recommendation Infrastructure](https://lifeattiktok.com/search/7550948068838689031) | TikTok | San Jose, California, United States of … | 45 | 3+ yrs exp |
 | 1:45 PM | [IT Systems Engineer (macOS and iOS Management)](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41900) | GuideWell Mutual | Jacksonville, FL, United States (hybrid) | 50 | 4+ yrs exp |
 | 1:37 PM (seen) | [IT Operations Engineer - Onsite Mt Laurel NJ 2nd Shift](https://bluemantis.pinpointhq.com/en/postings/c32b2d86-12a5-4606-9301-80f5d2feec55) | Bluemantis | Onsite (onsite) | 40 |  |
+| 1:34 PM | [Senior Software Developer / Oracle Database Platform Engineering](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350905) | Oracle | United States | 55 | 3+ yrs exp; senior title |
+| 1:34 PM | [Senior Software Developer / Oracle Database Platform Engineering](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/job/350905) | Eeho Fa Us2 Oraclecloud Com | United States | 55 | 3+ yrs exp; senior title |
 | 1:29 PM | [Software Engineer (Observability Solutions) - Enterprise Technology S…](https://jobs.apple.com/en-us/details/200695672/software-engineer-observability-solutions-enterprise-technology-services) | Apple | United States of America | 65 |  |
 | 1:13 PM | [Cloud Network Engineer](https://jobs.workable.com/view/8DxEbQAEcEbXNSJE589M1T/remote-cloud-network-engineer-in-united-states-at-amerisave) | AmeriSave | Remote, US (remote) | 62 |  |
 | 1:08 PM | [Software Engineer, Data Infrastructure and Performance Metrics](https://jobs.ashbyhq.com/artafinance/fc8e559b-48c3-46ba-b169-2ea808acb860) | Artafinance | Bay Area (hybrid) | 65 | 3+ yrs exp |
