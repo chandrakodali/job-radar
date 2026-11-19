@@ -11737,7 +11737,6 @@
   "greenhouse:guidepointsecurity:6251376004": "2026-11-12",
   "greenhouse:inspire11:8440233002": "2026-11-12",
   "greenhouse:its:8202933003": "2026-11-18",
-  "greenhouse:monsterenergy:4485445009": "2026-11-19",
   "greenhouse:newrelic:5479397008": "2026-11-12",
   "greenhouse:spin:4751625005": "2026-11-13",
   "greenhouse:thoughtworksreferral:8336965": "2026-11-18",
@@ -12114,17 +12113,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 297,
+   "n": 298,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 297,
+   "n": 298,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 297,
+   "n": 298,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15025,8 +15024,8 @@
    373
   ],
   "2026-11-19": [
-   123,
-   265
+   146,
+   304
   ]
  },
  "resolved": {
@@ -66822,6 +66821,7 @@
   "eightfold:nvidia:893394241567": "2026-11-14",
   "eightfold:nvidia:893394443076": "2026-11-16",
   "eightfold:nvidia:893395121939": "2026-11-15",
+  "eightfold:nvidia:893395964724": "2026-11-19",
   "eightfold:nvidia:893396402568": "2026-11-15",
   "eightfold:nvidia:893396422329": "2026-11-15",
   "eightfold:nvidia:893397231867": "2026-11-15",
@@ -67163,6 +67163,7 @@
   "greenhouse:hp:6251120004": "2026-11-07",
   "greenhouse:hubspotjobs:8256969": "2026-11-13",
   "greenhouse:icarus:5476156008": "2026-11-09",
+  "greenhouse:iex:8374119": "2026-11-19",
   "greenhouse:impact:8464788002": "2026-11-13",
   "greenhouse:inspire11:8440233002": "2026-11-09",
   "greenhouse:intercom:8371261": "2026-11-11",
@@ -67244,6 +67245,7 @@
   "greenhouse:relativity:8946740002": "2026-11-17",
   "greenhouse:robinhood:8354333": "2026-11-16",
   "greenhouse:roblox:8283709": "2026-11-15",
+  "greenhouse:roblox:8287516": "2026-11-19",
   "greenhouse:roblox:8346849": "2026-11-15",
   "greenhouse:rocketlab:8165893003": "2026-11-12",
   "greenhouse:rocketlab:8200829003": "2026-11-10",
@@ -68373,6 +68375,7 @@
   "lever:pointclickcare:dc0d44ce-bc2a-4577-bb0b-a38250bfc971": "2026-11-07",
   "lever:prolific-machines:10441e3a-f731-4230-b8d7-f792daf8cd87": "2026-11-19",
   "lever:redhorsecorp:be90f883-2ec0-460f-8d20-241e4c54951f": "2026-11-12",
+  "lever:redwoodcu:69c327df-2541-4395-b14a-2f66d3236bf4": "2026-11-19",
   "lever:steerbridge:e250cb49-fca5-450d-9d3b-f290c0e6f14d": "2026-11-09",
   "lever:zoox:c84c90b4-22f2-4d2e-9034-afee385dd0d2": "2026-11-18",
   "oracle:cva.fa.us1.oraclecloud.com|CX_3:10418": "2026-11-08",
@@ -69471,6 +69474,7 @@
   "workable:aretum:66C5EFC702": "2026-11-19",
   "workable:aretum:85F7B22D15": "2026-11-19",
   "workable:aretum:85F86C8723": "2026-11-19",
+  "workable:aretum:92A2112BE9": "2026-11-19",
   "workable:aretum:D5ED1AF1E2": "2026-11-09",
   "workable:bask-health-1:13309AA1F8": "2026-11-12",
   "workable:bask-health-1:3383A36B1B": "2026-11-12",
@@ -70372,10 +70376,10 @@
  "source_last": {
   "hn": "2026-11-19T14:37:14+00:00",
   "remoteok": "2026-11-19T17:37:16+00:00",
-  "usajobs": "2026-11-19T16:07:23+00:00",
-  "workable_search": "2026-11-19T16:07:23+00:00",
+  "usajobs": "2026-11-19T19:07:15+00:00",
+  "workable_search": "2026-11-19T19:07:15+00:00",
   "wwr": "2026-11-19T18:37:17+00:00",
-  "yc": "2026-11-19T16:07:23+00:00"
+  "yc": "2026-11-19T19:07:15+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
