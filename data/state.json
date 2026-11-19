@@ -11725,7 +11725,6 @@
   "ashby:fluidstack:f1811455-d414-4630-b22c-58a585163864": "2026-11-16",
   "ashby:openai:e70a2b94-17d7-4083-a028-943bae53d126": "2026-11-13",
   "ashby:resolution:d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b": "2026-11-17",
-  "greenhouse:2k:8206136003": "2026-11-17",
   "greenhouse:accenturefederalservices:4725819006": "2026-11-13",
   "greenhouse:accenturefederalservices:4727077006": "2026-11-12",
   "greenhouse:accenturefederalservices:4727151006": "2026-11-12",
@@ -11744,7 +11743,6 @@
   "greenhouse:twinstream:5016466101": "2026-11-12",
   "greenhouse:twinstream:5018760101": "2026-11-12",
   "greenhouse:vast:4726228006": "2026-11-12",
-  "greenhouse:visualconcepts:8205804003": "2026-11-17",
   "greenhouse:yipitdata:8329263": "2026-11-12",
   "lever:jobgether:0452a360-4c88-44a6-8b62-dc642799c5c9": "2026-11-18",
   "lever:jobgether:0c283a8d-6190-4326-acea-e12a22f0bc12": "2026-11-16",
@@ -11826,8 +11824,9 @@
    "since": "2026-11-17"
   },
   "ashby:cedar": {
+   "disabled_until": "2026-11-26",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-19"
   },
   "ashby:chainlink-labs": {
@@ -12114,17 +12113,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 294,
+   "n": 295,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 294,
+   "n": 295,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 294,
+   "n": 295,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15025,7 +15024,7 @@
   ],
   "2026-11-19": [
    120,
-   257
+   259
   ]
  },
  "resolved": {
@@ -65822,6 +65821,7 @@
   "amazon:us:10608155": "2026-11-18",
   "amazon:us:10608157": "2026-11-18",
   "amazon:us:10608480": "2026-11-18",
+  "amazon:us:10609537": "2026-11-19",
   "apple:usa:200657320": "2026-11-14",
   "apple:usa:200674782": "2026-11-14",
   "apple:usa:200684228": "2026-11-14",
@@ -70350,10 +70350,10 @@
  },
  "source_last": {
   "hn": "2026-11-19T14:37:14+00:00",
-  "remoteok": "2026-11-19T15:37:14+00:00",
+  "remoteok": "2026-11-19T17:37:16+00:00",
   "usajobs": "2026-11-19T16:07:23+00:00",
   "workable_search": "2026-11-19T16:07:23+00:00",
-  "wwr": "2026-11-19T16:37:17+00:00",
+  "wwr": "2026-11-19T17:37:16+00:00",
   "yc": "2026-11-19T16:07:23+00:00"
  },
  "title_rules": "c323075b4d70",
