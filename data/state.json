@@ -11726,7 +11726,6 @@
   "ashby:openai:e70a2b94-17d7-4083-a028-943bae53d126": "2026-11-13",
   "ashby:resolution:d803b4b1-4b4a-4ea8-8ded-ae54e1e1107b": "2026-11-17",
   "greenhouse:2k:8206136003": "2026-11-17",
-  "greenhouse:3cloud:8933933002": "2026-11-17",
   "greenhouse:accenturefederalservices:4725819006": "2026-11-13",
   "greenhouse:accenturefederalservices:4727077006": "2026-11-12",
   "greenhouse:accenturefederalservices:4727151006": "2026-11-12",
@@ -11753,6 +11752,11 @@
   "lever:jobgether:73d75c56-c3b4-403f-b49d-93905c180592": "2026-11-18"
  },
  "fails": {
+  "apple:usa": {
+   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
+   "n": 1,
+   "since": "2026-11-19"
+  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-25",
    "err": "HTTP 404",
@@ -11887,7 +11891,7 @@
   },
   "ashby:interface": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-19"
   },
   "ashby:kinetic": {
@@ -12108,17 +12112,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 291,
+   "n": 292,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 291,
+   "n": 292,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 291,
+   "n": 292,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12350,8 +12354,9 @@
    "since": "2026-11-07"
   },
   "greenhouse:kunai": {
+   "disabled_until": "2026-11-26",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-19"
   },
   "greenhouse:liveviewtechnologiesinc": {
@@ -14948,6 +14953,7 @@
  "missed_companies": {
   "A2Z Sync": "2026-11-19",
   "Accurant International": "2026-11-18",
+  "Adept Consulting Services, Inc.": "2026-11-19",
   "AmeriSave": "2026-11-19",
   "Bask Health": "2026-11-19",
   "Coris": "2026-11-16",
@@ -14970,6 +14976,7 @@
   "PGTEK": "2026-11-14",
   "PIMCO": "2026-11-16",
   "Partner One Software Inc": "2026-11-16",
+  "Pavago": "2026-11-19",
   "Runware": "2026-11-14",
   "Salvo Software": "2026-11-14",
   "Stealth Health-Tech Startup": "2026-11-16",
@@ -15015,8 +15022,8 @@
    373
   ],
   "2026-11-19": [
-   100,
-   217
+   120,
+   255
   ]
  },
  "resolved": {
@@ -68075,6 +68082,15 @@
   "jazzhr:solvarus:YldyxQgNeH": "2026-11-12",
   "jazzhr:spacedynamicslaboratory:uXUYmgNNi5": "2026-11-10",
   "jazzhr:sunbirdsoftwareinc:Ua0gIGsIYT": "2026-11-09",
+  "jazzhr:symsstrategicgroup:EOgDE7PEfl": "2026-11-19",
+  "jazzhr:symsstrategicgroup:G3M5zuUvS6": "2026-11-19",
+  "jazzhr:symsstrategicgroup:LlcolPD4NG": "2026-11-19",
+  "jazzhr:symsstrategicgroup:MoQGHgCusq": "2026-11-19",
+  "jazzhr:symsstrategicgroup:PiB8aHWBLj": "2026-11-19",
+  "jazzhr:symsstrategicgroup:feeE3nkiAY": "2026-11-19",
+  "jazzhr:symsstrategicgroup:lUnAsO2Gnj": "2026-11-19",
+  "jazzhr:symsstrategicgroup:sA2RhagTdU": "2026-11-19",
+  "jazzhr:symsstrategicgroup:uNqBDBfMWu": "2026-11-19",
   "jazzhr:synecsolu:unMc0EES16": "2026-11-18",
   "jazzhr:tapengineering:9PcUStppy4": "2026-11-09",
   "jazzhr:tapengineering:9wxqKc7NVI": "2026-11-09",
@@ -68483,6 +68499,7 @@
   "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:41673": "2026-11-17",
   "oracle:fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:3373": "2026-11-12",
   "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:22512": "2026-11-16",
+  "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:22892": "2026-11-19",
   "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4629": "2026-11-08",
   "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:5085": "2026-11-08",
   "oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com|CX_26:1450": "2026-11-10",
@@ -69441,6 +69458,7 @@
   "workable_search:all:287dc66f-da3d-4851-8f7e-134b09184427": "2026-11-13",
   "workable_search:all:2b6afb82-126b-4b4b-9f08-cd93bf3f06d7": "2026-11-17",
   "workable_search:all:3dee0012-e880-4b3f-9012-9a528af34337": "2026-11-18",
+  "workable_search:all:3e3eab28-a821-45fe-b246-2c60648ec389": "2026-11-19",
   "workable_search:all:450576ed-3adb-4188-982d-91e5e29b3dcf": "2026-11-12",
   "workable_search:all:4e52525f-ea98-471d-9f1f-d41378246838": "2026-11-12",
   "workable_search:all:51cee200-db56-4dbb-af36-30dbe615c3bb": "2026-11-16",
@@ -69448,6 +69466,7 @@
   "workable_search:all:67ecd7ef-b7ec-4075-9943-d708e84f36d4": "2026-11-12",
   "workable_search:all:88bd6b31-9eaa-491b-8762-e21c1db86a32": "2026-11-13",
   "workable_search:all:89572e70-86a9-4987-a605-9666f5b9e06c": "2026-11-19",
+  "workable_search:all:89ebff49-4cc7-4182-87a2-d7df6b025cbf": "2026-11-19",
   "workable_search:all:8c76ba8f-6518-48dc-9fa2-eea37d87fc3c": "2026-11-18",
   "workable_search:all:9a2128fb-16c5-4439-8180-68c7eb413c63": "2026-11-12",
   "workable_search:all:9e591820-de7d-4c81-aec9-c6518335d40a": "2026-11-17",
@@ -70254,6 +70273,7 @@
   "zoho:aspire:503306000044928194": "2026-11-16",
   "zoho:blackswansearch:247146000000590084": "2026-11-14",
   "zoho:donweb:694925000009547001": "2026-11-14",
+  "zoho:donweb:694925000009769001": "2026-11-19",
   "zoho:endurance-it:644473000013394064": "2026-11-14",
   "zoho:globalworking:179458000002360105": "2026-11-15",
   "zoho:indigobeam:792375000009305132": "2026-11-15",
@@ -70265,10 +70285,10 @@
  "source_last": {
   "hn": "2026-11-19T14:37:14+00:00",
   "remoteok": "2026-11-19T15:37:14+00:00",
-  "usajobs": "2026-11-19T13:07:16+00:00",
-  "workable_search": "2026-11-19T13:07:16+00:00",
+  "usajobs": "2026-11-19T16:07:23+00:00",
+  "workable_search": "2026-11-19T16:07:23+00:00",
   "wwr": "2026-11-19T15:37:14+00:00",
-  "yc": "2026-11-19T13:07:16+00:00"
+  "yc": "2026-11-19T16:07:23+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
