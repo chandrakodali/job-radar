@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**618 jobs**, newest first. Updated Wed Nov 18, 9:52 PM CST from 12,526 company job boards and other sources.
+**618 jobs**, newest first. Updated Wed Nov 18, 10:45 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -673,7 +673,7 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60)
 | 11:00 PM | [Help Desk Analyst](https://careers-physiciansmutual.icims.com/jobs/2136/help-desk-analyst/job) | Physicians Mutual | Omaha, NE, United States | 68 | 1+ yrs exp |
 | 11:00 PM | [Community Integration Specialist](https://jobs.dayforcehcm.com/en-US/gwcols/CANDIDATEPORTAL/jobs/12031) | Gwcols | Whitehall, OH, US | 73 | 1+ yrs exp; entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3834)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3836)
 
 <details><summary>Show</summary>
 
@@ -682,6 +682,7 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60)
 | date only | [Security Engineer,AWS Security](https://www.amazon.jobs/en/jobs/10608873/security-engineer-aws-security) | Amazon Development Center U.S… | Austin, Texas, USA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [2027 Associate Software Digital Engineer - Rolling Meadows IL  - Roll…](https://ngc.eightfold.ai/careers/job/1340075394894) | Ngc | Rolling Meadows, IL, US (onsite) | 80 | rules: entry-level title; needs: security clearance |
 | date only | [Support Engineer, Amazon Leo Enterprise Customer Support](https://www.amazon.jobs/en/jobs/10608910/support-engineer-amazon-leo-enterprise-customer-support) | Amazon Kuiper Commercial Serv… | Bellevue, Washington, USA | 75 | rules: 1+ yrs exp; needs: must be a U.S. citizen |
+| 10:41 PM | [AI Factory Customer Engineer](https://job-boards.greenhouse.io/armada/jobs/5485812008) | Armada | United States (Remote) (remote) | 42 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 10:26 PM | [Product Support Engineer](https://jobs.lever.co/jobgether/7e203dba-97cd-4265-932a-a8e33b61d987) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:25 PM | [Revenue Data Analyst](https://jobs.lever.co/jobgether/266770d8-0df9-48a3-ad14-61c68e7a2312) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:21 PM | [SOFTWARE ENGINEER](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=267cfc8f-e6d3-499b-8a38-c6abe8ee3d82&ccId=19000101_000001&jobId=9204504110082_1&lang=en_US) | 267Cfc8F E6D3 499B 8A38 C6Abe… | Ventura, CA | 75 | rules: 2+ yrs exp; needs: Secret Clearance |
@@ -796,6 +797,7 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60)
 | date only | [Data Center Technician , DCC Communities](https://www.amazon.jobs/en/jobs/10608622/data-center-technician-dcc-communities) | Amazon Data Services, Inc. | Floydada, Texas, USA +1 more | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
 | date only | [Data Center Technician](https://www.amazon.jobs/en/jobs/10608109/data-center-technician) | Amazon Data Services, Inc. | Wink, Texas, USA +5 more | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
 | date only | [Systems Software Engineer (C++, Python, AWS)](https://pemcco.bamboohr.com/careers/296) | Pemcco | Washington, District of Columbia | 45 | rules: 7+ yrs exp; needs: Security Clearance |
+| date only | [US E - GPS - Consulting Services - Information Technology General Con…](https://apply.deloitte.com/en_US/careers/JobDetail/IT-General-Controls-Consultant-TS-SCI-required/375961) | Deloitte US |  | 63 | rules: 2+ yrs exp; no future H-1B sponsorship; needs: security cleara… |
 | date only | [Professional Fee Coder 2 (Sign on Bonus eligible)](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11720) | UCSF | United States | 70 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Apps Dev Intmd Programmer Analyst -Officer](https://citi.eightfold.ai/careers/job/859039019250) | Citi | Tampa, FL, US (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [DevOps / SRE Engineer (Kubernetes, Terraform), AI Expert](https://apply.workable.com/weekday-1/j/66FAC02153/) | Weekday AI | United States (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
@@ -1077,7 +1079,5 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60)
 | date only | [GTM Data Analyst](https://apply.workable.com/bask-health-1/j/8F7C4076E8/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Revenue Analytics Analyst](https://apply.workable.com/bask-health-1/j/F0E9BEC210/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Environmental test engineer](https://www.amazon.jobs/en/jobs/10606793/environmental-test-engineer) | KGS LLC | Northridge, California, USA | 60 | rules: 4+ yrs exp; needs: Security Clearance |
-| date only | [Systems Development Engineer, DC Robotics, Data Center Robotics](https://www.amazon.jobs/en/jobs/10606820/systems-development-engineer-dc-robotics-data-center-robotics) | Amazon Data Services, Inc. | Seattle, Washington, USA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| date only | [Clearable Data Center Technician, Infraops AG](https://www.amazon.jobs/en/jobs/10604670/clearable-data-center-technician-infraops-ag) | Amazon Data Services, Inc. | Aurora, Colorado, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
 
 </details>

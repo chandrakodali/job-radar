@@ -12012,17 +12012,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 133,
+   "n": 134,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 133,
+   "n": 134,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 133,
+   "n": 134,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -65148,6 +65148,7 @@
   "apple:usa:200695736": "2026-11-18",
   "apple:usa:200695754": "2026-11-18",
   "apple:usa:200695771": "2026-11-18",
+  "apple:usa:200695814": "2026-11-19",
   "ashby:1password:13200311-77c5-49ed-a3ce-8460d5c72d91": "2026-11-13",
   "ashby:1password:15658971-e4f4-490b-97fe-5e716ddab770": "2026-11-13",
   "ashby:42dot:26f79b07-2ffc-44a3-9d92-36111d18fb34": "2026-11-13",
@@ -66067,6 +66068,9 @@
   "avature:deloitteus.avature.net|careers:375597": "2026-11-17",
   "avature:deloitteus.avature.net|careers:375652": "2026-11-17",
   "avature:deloitteus.avature.net|careers:375793": "2026-11-18",
+  "avature:deloitteus.avature.net|careers:375825": "2026-11-19",
+  "avature:deloitteus.avature.net|careers:375961": "2026-11-19",
+  "avature:deloitteus.avature.net|careers:375988": "2026-11-19",
   "avature:dhlconsulting.avature.net|careers:450": "2026-11-15",
   "avature:dhlconsulting.avature.net|careers:625": "2026-11-15",
   "avature:dth.avature.net|careers:27763": "2026-11-15",
@@ -69558,6 +69562,7 @@
   "greenhouse:aquaticcapitalmanagement:8942827002": "2026-11-16",
   "greenhouse:arborenergy:4478804009": "2026-11-13",
   "greenhouse:archer56:8205580003": "2026-11-18",
+  "greenhouse:armada:5485812008": "2026-11-19",
   "greenhouse:assemblyai:4752669005": "2026-11-13",
   "greenhouse:assemblyai:4752670005": "2026-11-13",
   "greenhouse:assystinc:4510146009": "2026-11-18",
