@@ -12012,17 +12012,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 137,
+   "n": 138,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 137,
+   "n": 138,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 137,
+   "n": 138,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -74116,6 +74116,7 @@
   "lever:jobgether:28b49937-4e23-403a-ad26-a2781e2340c9": "2026-11-17",
   "lever:jobgether:293f6992-4f40-47d1-878e-def8a620d7ab": "2026-11-14",
   "lever:jobgether:29606d63-708e-48e0-b583-a2d9dbb12a63": "2026-11-16",
+  "lever:jobgether:2a46c8d4-28e8-49e5-be13-c15bfec4d7d8": "2026-11-19",
   "lever:jobgether:2b7241b1-6f6a-451b-8aca-ca78a004479e": "2026-11-16",
   "lever:jobgether:2bfe0dce-e00c-4d4e-a14a-aa627105f8c3": "2026-11-14",
   "lever:jobgether:2c5ef3d3-0dda-423b-83f5-116ddcd57439": "2026-11-14",
@@ -74137,6 +74138,7 @@
   "lever:jobgether:4a41391b-d46c-4831-b8ba-edc37c3b65a6": "2026-11-18",
   "lever:jobgether:4adde91c-124f-4b1a-ad24-a7f1d5c0bfad": "2026-11-14",
   "lever:jobgether:4c6bcc39-a22c-4a25-a300-00c79bf53526": "2026-11-14",
+  "lever:jobgether:4e527059-085d-4240-bcd3-a813f8c2160d": "2026-11-19",
   "lever:jobgether:5491b452-de23-4b55-8766-da119b9abf16": "2026-11-16",
   "lever:jobgether:59469943-c696-40a4-9abb-0ef564c224e6": "2026-11-14",
   "lever:jobgether:5aa445cc-fbad-4d6f-af0e-335a19c78327": "2026-11-17",
@@ -75500,6 +75502,7 @@
   "recruitee:aikidosecurity:2793094": "2026-11-13",
   "recruitee:deephealth:2819196": "2026-11-15",
   "recruitee:deephealth:2819216": "2026-11-15",
+  "recruitee:emplyfy:2738485": "2026-11-19",
   "recruitee:gsbsolutions1:2824536": "2026-11-15",
   "recruitee:hardrockdigital:2823560": "2026-11-13",
   "recruitee:hudsonmanpower:2819095": "2026-11-15",

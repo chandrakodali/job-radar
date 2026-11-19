@@ -1,14 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**615 jobs**, newest first. Updated Thu Nov 19, 1:45 AM CST from 12,526 company job boards and other sources.
+**613 jobs**, newest first. Updated Thu Nov 19, 2:47 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-266 repeat listings (same company and title in another place or on another source) are merged into one row.
+265 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 3,866 matching jobs that job sites and feeds listed this week, 707 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (60)](#wednesday-nov-18-60) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (108)](#thursday-nov-12-108)
+Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (60)](#wednesday-nov-18-60) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (106)](#thursday-nov-12-106)
 
 ## Thursday, Nov 19 (5)
 
@@ -552,7 +552,7 @@ Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (60)](#wednesday-nov-18-60)
 | 2:00 AM | [Fluid Systems Engineer](https://careers.westinghousenuclear.com/job/Rock-Hill-Fluid-Systems-Engineer-SC-29730/1440646100/) | Westinghouse Electric Company | Rock Hill, SC, United States | 85 | 1+ yrs exp; entry level (from the text) |
 | 1:00 AM | [Network Engineer I](https://jobs.dayforcehcm.com/en-US/sonifi/CANDIDATEPORTAL/jobs/5902) | Sonifi | Sioux Falls, SD, US | 73 | entry-level title; E-Verify |
 
-## Thursday, Nov 12 (108)
+## Thursday, Nov 12 (106)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -662,10 +662,8 @@ Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (60)](#wednesday-nov-18-60)
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Mall in Columbia](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_824648) | Macy's | Columbia, MD, United States | 68 | entry-level title |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Waikiki](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_824626) | Macy's | Honolulu, HI, United States | 68 | entry-level title |
 | 3:16 AM | [Customer Support Associate](https://jobs.lever.co/jobgether/0779e90f-400b-4145-badf-021026ef08c7) | Jobgether | US (remote) | 65 | entry-level title |
-| 2:00 AM | [System Validation Engineer](https://jobs.supermicro.com/job/San-Jose-System-Validation-Engineer-Cali/1430201300/) | Super Micro Computer | San Jose, California, United States | 78 | 0-2 yrs exp; entry level (from the text) |
-| 2:00 AM | [System Planning Engineer](https://careers.westinghousenuclear.com/WECTEC_Staffing/job/OTHER-System-Planning-Engineer-MA-0/1430403700/) | Westinghouse Electric Company | OTHER, MA, United States | 68 | entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3842)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3844)
 
 <details><summary>Show</summary>
 
@@ -677,6 +675,8 @@ Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (60)](#wednesday-nov-18-60)
 | date only | [Software Development Engineer - AWS OpenSearch, OpenSearch Platform T…](https://www.amazon.jobs/en/jobs/10598937/software-development-engineer-aws-opensearch-opensearch-platform-team) | Amazon Development Center U.S… | Santa Clara, California, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [AI enabled PDK Development Engineer](https://globalfoundries.eightfold.ai/careers/job/563980770945695) | Globalfoundries | Malta, NY, US; Essex, VT, US (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Automation Engineer](https://micron.eightfold.ai/careers/job/45606348) | Micron | GJ,IN (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 2:24 AM | [Implementation Engineer – Unified Communications & Contact Center Sol…](https://jobs.lever.co/jobgether/4e527059-085d-4240-bcd3-a813f8c2160d) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 2:20 AM | [Digital UX Specialist](https://jobs.lever.co/jobgether/2a46c8d4-28e8-49e5-be13-c15bfec4d7d8) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 1:45 AM | [Salesforce Experience Cloud Web Developer](https://jobs.lever.co/jobgether/32e65285-8bc8-4641-8828-80f5373e873e) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 12:00 AM | [Information Technology - Azure Administrator 130-2069](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6578) | Ccok | Tulsa, OK, US | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:21 PM | [Embedded Software Engineer](https://jobs.ashbyhq.com/base-power/85775865-f676-47b5-85e4-a7b4237f837c) | Base Power | Austin, TX (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -1069,7 +1069,5 @@ Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (60)](#wednesday-nov-18-60)
 | 11:15 AM | [Software Engineer, Presence](https://jobs.ashbyhq.com/openai/1327d083-c932-4aed-aadc-57586521ee60) | OpenAI | San Francisco | 45 | rules: 9+ yrs exp; asks for 9+ years of experience |
 | 11:11 AM | [Application Calibration Engineer - Airbag ECU and Sensors](https://jobs.smartrecruiters.com/BoschGroup/744000162133814-application-calibration-engineer-airbag-ecu-and-sensors) | Robert Bosch Venture Capital | Plymouth, MI, United States (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 11:02 AM | [Software Development Engineer](https://jobs.smartrecruiters.com/Intuitive/744000162133129-software-development-engineer) | Intuitive Surgical | Sunnyvale, CA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2027974EXTERNALENGLOBAL) | Cisco | Durham, North Carolina, United States o… | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
-| date only | [Automation Engineer](https://careers.quality-ai.com/job/Bangalore-Automation-Engineer-560045/61613044/) | Qualitest |  | 55 | rules: 4+ yrs exp; location unclear; asks for 4+ years of experience |
 
 </details>
