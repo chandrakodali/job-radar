@@ -12001,17 +12001,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 117,
+   "n": 118,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 117,
+   "n": 118,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 117,
+   "n": 118,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13291,7 +13291,7 @@
   }
  },
  "found_cursor": 0,
- "last_digest": "2026-11-18",
+ "last_digest": "2026-11-19",
  "missed_companies": {
   "*Confidential Healthcare AI Startup": "2026-11-19",
   "AmeriSave": "2026-11-19",
@@ -13359,8 +13359,8 @@
    492
   ],
   "2026-11-19": [
-   81,
-   258
+   82,
+   259
   ]
  },
  "resolved": {
@@ -64483,6 +64483,7 @@
   "ashby:clera:0bb25b44-9e01-48be-9db1-a8a26d558d0d": "2026-11-16",
   "ashby:clera:2c6c8b86-2068-4ff1-95e0-3c0025cbb17b": "2026-11-14",
   "ashby:clera:3400f3f7-331b-4711-b7a4-b3bbf6280a51": "2026-11-14",
+  "ashby:clera:34635236-d423-496d-ae05-634735252cc0": "2026-11-19",
   "ashby:clera:37ee14c8-272b-4f9e-9958-981429d7aef2": "2026-11-14",
   "ashby:clera:58c4019a-5d0a-4a85-9139-74c99e788289": "2026-11-19",
   "ashby:clera:5ed6acc6-9fc8-417d-9ecf-fb99af95a9d7": "2026-11-14",
@@ -64497,6 +64498,7 @@
   "ashby:clera:9e35059b-c732-44a8-9da3-dedb1d4ba15f": "2026-11-14",
   "ashby:clera:a8a8723a-d74d-43fa-9260-db44efdc3350": "2026-11-18",
   "ashby:clera:cd456e6a-41d9-48c6-bcf7-f4605937defa": "2026-11-17",
+  "ashby:clera:cdf9651a-0b2b-4d95-8b8e-6a64e7015d12": "2026-11-19",
   "ashby:clera:dd57a8f6-ca07-43cc-8191-5ebc413d810e": "2026-11-14",
   "ashby:clera:e7bb511f-c30f-4218-8343-f7b58b292319": "2026-11-14",
   "ashby:clera:ea5b2346-51f4-4fd9-800b-5cda50702070": "2026-11-17",
@@ -67358,6 +67360,7 @@
   "jazzhr:intelliforceitsolutionsgroup:SURMV65TMd": "2026-11-14",
   "jazzhr:intelliforceitsolutionsgroup:YaCN6QEfHx": "2026-11-14",
   "jazzhr:intelliforceitsolutionsgroup:bNEpG6whK7": "2026-11-14",
+  "jazzhr:intelliforceitsolutionsgroup:kocWKm5EhT": "2026-11-19",
   "jazzhr:intelliforceitsolutionsgroup:l3pUuAyj1o": "2026-11-14",
   "jazzhr:intelliforceitsolutionsgroup:m4C2T7vprK": "2026-11-14",
   "jazzhr:intelliforceitsolutionsgroup:nGwOOR4hdK": "2026-11-14",
@@ -67496,6 +67499,7 @@
   "jazzhr:vivsofttechnologiesfa:hwPUMD2qyI": "2026-11-14",
   "jazzhr:vivsofttechnologiesfa:k5gnmL6NDl": "2026-11-14",
   "jazzhr:wonderbotz:RrI9QanYDY": "2026-11-14",
+  "jibe:careers.akima.com:28915": "2026-11-19",
   "jibe:careers.medpace.com:11967": "2026-11-14",
   "jibe:careers.rivian.com:28244": "2026-11-14",
   "jibe:careers.rivian.com:35301": "2026-11-14",
@@ -67586,6 +67590,7 @@
   "jobvite:leantechio:o1g6AfwH": "2026-11-16",
   "jobvite:leantechio:o3uWAfwN": "2026-11-15",
   "jobvite:lhhcareers:oXUtAfwE": "2026-11-15",
+  "jobvite:mattamyhomes:oKx7AfwI": "2026-11-19",
   "jobvite:metropolitantransportationauthority:oTXByfwJ": "2026-11-14",
   "jobvite:metropolitantransportationauthority:oo0Jzfwq": "2026-11-14",
   "jobvite:metropolitantransportationauthority:oufJzfwL": "2026-11-14",
@@ -68003,6 +68008,7 @@
   "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:26868": "2026-11-17",
   "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10006010": "2026-11-14",
   "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:10006023": "2026-11-18",
+  "oracle:fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com|nfcu:31739": "2026-11-19",
   "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:3004408": "2026-11-16",
   "oracle:fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:698690": "2026-11-14",
   "oracle:fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:704470": "2026-11-14",
@@ -68076,11 +68082,13 @@
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210796019": "2026-11-16",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210797597": "2026-11-17",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210800153": "2026-11-18",
+  "oracle:jpmc.fa.oraclecloud.com|CX_1001:210801089": "2026-11-19",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210803303": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210803885": "2026-11-18",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210804903": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210805861": "2026-11-17",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210807772": "2026-11-17",
+  "oracle:jpmc.fa.oraclecloud.com|CX_1001:210810481": "2026-11-19",
   "paylocity:0bf68f9e-dbb5-4e2b-8a58-44410086ba23:4673099": "2026-11-18",
   "paylocity:0cc1c035-08e6-453e-8096-abb5d3303a99:3274171": "2026-11-16",
   "paylocity:0eed7c03-694e-454b-8e29-7abbbc8e65b5:4646633": "2026-11-15",
@@ -68249,6 +68257,7 @@
   "rippling:lynx-software-technologies:24d080e4-30a9-4f17-aa35-43a24405d5b3": "2026-11-14",
   "rippling:lynx-software-technologies:47fcea06-ff74-4217-9142-7b41c088a8eb": "2026-11-14",
   "rippling:lynx-software-technologies:6ccb15a1-34da-48f6-b158-cc50a6c3c64c": "2026-11-14",
+  "rippling:lynx-software-technologies:cef4a601-fe7d-410b-bb4b-c2bb52e7a069": "2026-11-19",
   "rippling:lynx-software-technologies:e5ca46ee-43fc-4c83-914e-641ddc016d3e": "2026-11-14",
   "rippling:matic:9d54c8f7-675f-4db1-909d-861ea3d51692": "2026-11-15",
   "rippling:mdintegrations:5728cf10-7cff-4073-96cf-a565af49dd87": "2026-11-15",
@@ -68328,6 +68337,7 @@
   "sfrmk:assaabloy.jobs2web.com:1423320033": "2026-11-14",
   "sfrmk:assaabloy.jobs2web.com:1431367433": "2026-11-14",
   "sfrmk:assaabloy.jobs2web.com:1444202833": "2026-11-14",
+  "sfrmk:assaabloy.jobs2web.com:1445326933": "2026-11-19",
   "sfrmk:assaabloy.jobs2web.com:1445966933": "2026-11-14",
   "sfrmk:assaabloy.jobs2web.com:1449296633": "2026-11-14",
   "sfrmk:assaabloy.jobs2web.com:1451870733": "2026-11-14",
@@ -70179,7 +70189,7 @@
   "remoteok": "2026-11-19T13:17:59+00:00",
   "usajobs": "2026-11-19T13:17:59+00:00",
   "workable_search": "2026-11-19T13:17:59+00:00",
-  "wwr": "2026-11-19T13:17:59+00:00",
+  "wwr": "2026-11-19T14:17:16+00:00",
   "yc": "2026-11-19T13:17:59+00:00"
  },
  "title_rules": "72f554d20a7f",
