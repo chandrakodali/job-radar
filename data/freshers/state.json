@@ -12012,17 +12012,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 131,
+   "n": 132,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 131,
+   "n": 132,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 131,
+   "n": 132,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -13764,6 +13764,7 @@
   "Diversified Services Network, Inc.": "2026-11-13",
   "Executive Title Agency": "2026-11-18",
   "Fastbreak AI": "2026-11-19",
+  "Gear Up Sports": "2026-11-19",
   "Geeks on Site": "2026-11-19",
   "GoGoGrandparent": "2026-11-19",
   "HSI": "2026-11-18",
@@ -13781,7 +13782,7 @@
   "Multi Media LLC": "2026-11-17",
   "Neal R Gross & Co": "2026-11-16",
   "Neuberger Berman": "2026-11-19",
-  "Numeral": "2026-11-17",
+  "Numeral": "2026-11-19",
   "Omilia": "2026-11-19",
   "OpenDataJobs": "2026-11-14",
   "Partner One Software Inc": "2026-11-19",
@@ -13835,8 +13836,8 @@
    665
   ],
   "2026-11-19": [
-   21,
-   80
+   41,
+   160
   ]
  },
  "resolved": {
@@ -65400,6 +65401,7 @@
   "ashby:clera:a8a8723a-d74d-43fa-9260-db44efdc3350": "2026-11-18",
   "ashby:clera:ac506f1a-80de-45db-8015-6d70ff90a130": "2026-11-13",
   "ashby:clera:b7f89ca6-7688-409f-9419-c908f80bb156": "2026-11-13",
+  "ashby:clera:c8c50e46-229c-4563-b9a9-1d4713f777c5": "2026-11-19",
   "ashby:clera:cd456e6a-41d9-48c6-bcf7-f4605937defa": "2026-11-17",
   "ashby:clera:dbe2db17-9662-4d1f-8d1e-63224c829a52": "2026-11-16",
   "ashby:clera:dd57a8f6-ca07-43cc-8191-5ebc413d810e": "2026-11-14",
@@ -65877,6 +65879,7 @@
   "avature:bloomberg.avature.net|careers:46103": "2026-11-14",
   "avature:bloomberg.avature.net|careers:46145": "2026-11-17",
   "avature:bloomberg.avature.net|careers:46152": "2026-11-14",
+  "avature:bloomberg.avature.net|careers:46221": "2026-11-19",
   "avature:bloomberg.avature.net|internalcareers:46073": "2026-11-14",
   "avature:bloomberg.avature.net|internalcareers:46075": "2026-11-14",
   "avature:bloomberg.avature.net|internalcareers:46076": "2026-11-14",
@@ -69506,6 +69509,7 @@
   "greenhouse:accenturefederalservices:4730734006": "2026-11-18",
   "greenhouse:accenturefederalservices:4730735006": "2026-11-18",
   "greenhouse:accenturefederalservices:4730746006": "2026-11-18",
+  "greenhouse:accenturefederalservices:4730802006": "2026-11-19",
   "greenhouse:aclu:8941758002": "2026-11-13",
   "greenhouse:acuitymd:6263442004": "2026-11-16",
   "greenhouse:addepar1:8925407002": "2026-11-16",
@@ -74093,6 +74097,7 @@
   "lever:jobgether:23e8f6ed-3502-485d-b40d-552db48f89eb": "2026-11-14",
   "lever:jobgether:245f6ecd-50b9-409a-b458-7d2d605c9b5b": "2026-11-14",
   "lever:jobgether:25f8ac01-c5a3-495d-b94c-848bcb7f2197": "2026-11-14",
+  "lever:jobgether:266770d8-0df9-48a3-ad14-61c68e7a2312": "2026-11-19",
   "lever:jobgether:26da764c-acd0-4260-ad0a-5f5d10f6424a": "2026-11-14",
   "lever:jobgether:28b49937-4e23-403a-ad26-a2781e2340c9": "2026-11-17",
   "lever:jobgether:293f6992-4f40-47d1-878e-def8a620d7ab": "2026-11-14",
@@ -74113,6 +74118,7 @@
   "lever:jobgether:41c2eaaf-fd24-4d0f-9938-9b97d6cb238c": "2026-11-16",
   "lever:jobgether:43824833-9e89-45ab-9f0a-3b318cb45fdd": "2026-11-14",
   "lever:jobgether:445398b6-df63-4a12-8f9f-fab2dcb2ebff": "2026-11-17",
+  "lever:jobgether:468e1d08-9951-4db0-9df7-c2ae1e39096b": "2026-11-19",
   "lever:jobgether:4a41391b-d46c-4831-b8ba-edc37c3b65a6": "2026-11-18",
   "lever:jobgether:4adde91c-124f-4b1a-ad24-a7f1d5c0bfad": "2026-11-14",
   "lever:jobgether:4c6bcc39-a22c-4a25-a300-00c79bf53526": "2026-11-14",
@@ -75182,6 +75188,7 @@
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2030298EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2030426EXTERNALENGLOBAL": "2026-11-16",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2030499EXTERNALENGLOBAL": "2026-11-13",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2030532EXTERNALENGLOBAL": "2026-11-19",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2030630EXTERNALENGLOBAL": "2026-11-16",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2031561EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2031593EXTERNALENGLOBAL": "2026-11-13",
@@ -78586,6 +78593,7 @@
   "workable_search:all:75126f3f-9766-411b-b292-32c467a02620": "2026-11-17",
   "workable_search:all:7857342c-afa5-4f65-8bb1-3c048ba18d47": "2026-11-13",
   "workable_search:all:79cf0924-e29f-43d0-b597-96f80c1c6cb5": "2026-11-13",
+  "workable_search:all:7d2ff17f-7fc2-4504-b501-378f3a7b5c5b": "2026-11-19",
   "workable_search:all:808aa49b-d233-40da-88e2-4f8c8fc00c48": "2026-11-13",
   "workable_search:all:8117bf21-1bd8-419c-8d98-4a2bd1daf46a": "2026-11-13",
   "workable_search:all:8449b85a-c4ef-4e30-adf2-22fde3b34165": "2026-11-17",
@@ -81635,6 +81643,7 @@
   "yc:workatastartup:59403": "2026-11-14",
   "yc:workatastartup:61046": "2026-11-17",
   "yc:workatastartup:71011": "2026-11-14",
+  "yc:workatastartup:78001": "2026-11-19",
   "yc:workatastartup:78494": "2026-11-16",
   "yc:workatastartup:78968": "2026-11-14",
   "yc:workatastartup:89677": "2026-11-14",
@@ -81796,8 +81805,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-19T00:15:36+00:00",
-  "yc": "2026-11-19T00:15:36+00:00"
+  "workable_search": "2026-11-19T03:17:48+00:00",
+  "yc": "2026-11-19T03:17:48+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1

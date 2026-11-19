@@ -1,14 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**618 jobs**, newest first. Updated Wed Nov 18, 8:19 PM CST from 12,526 company job boards and other sources.
+**618 jobs**, newest first. Updated Wed Nov 18, 9:17 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 266 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,708 matching jobs that job sites and feeds listed this week, 667 (17%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 3,788 matching jobs that job sites and feeds listed this week, 687 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (5)](#wednesday-nov-11-5)
+Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (110)](#thursday-nov-12-110) · [Wed 11 (4)](#wednesday-nov-11-4)
 
 ## Thursday, Nov 19 (2)
 
@@ -17,10 +17,11 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (59)](#wednesday-nov-18-59)
 | date only | [Software Engineer, Commerce](https://www.amazon.jobs/en/jobs/10607724/software-engineer-commerce) | Twitch Interactive, Inc. | Seattle, Washington, USA | 75 | 1+ yrs exp |
 | date only | [Software Engineer I, Commerce](https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce) | Twitch Interactive, Inc. | Seattle, Washington, USA | 85 | entry-level title; 1+ yrs exp |
 
-## Wednesday, Nov 18 (59)
+## Wednesday, Nov 18 (60)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 8:44 PM | [Founding AI / Backend Engineer](https://jobs.ashbyhq.com/Clera/c8c50e46-229c-4563-b9a9-1d4713f777c5) | Clera | New York (remote) | 72 | 1+ yrs exp |
 | 7:51 PM | [Test Center Administrator (Rochester, MN)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26686) | Pearson | Rochester, MN, United States +8 more (onsite) | 80 | 1+ yrs exp |
 | 7:07 PM | [AI Operations Specialist](https://jobs.ashbyhq.com/valeriehealth/54707996-63b5-4811-98eb-016266654e78) | Valeriehealth | San Francisco, California, United States (onsite) | 80 | entry level (from the text) |
 | 6:56 PM | [IT&S Technician](https://ibnjjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/360599) | Lifepoint Health | Pasco, WA, United States | 75 | 1+ yrs exp |
@@ -663,7 +664,7 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (59)](#wednesday-nov-18-59)
 | 12:00 AM | [Technical Support Representative Tier 1](https://jobs.dayforcehcm.com/en-US/k12l/candidateportal/jobs/10918) | K12L | US | 68 | entry-level title |
 | 12:00 AM | [Salesforce FSC Associate (Contractor)](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9203) | Hightower | Chicago, IL, US | 68 | entry-level title |
 
-## Wednesday, Nov 11 (5)
+## Wednesday, Nov 11 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -671,9 +672,8 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (59)](#wednesday-nov-18-59)
 | 11:00 PM | [Business Intelligence Developer - Lumicera](https://careers-navitus.icims.com/jobs/6972/business-intelligence-developer---lumicera/job) | Navitus Health Solutions | United States (remote) | 65 | entry level (from the text) |
 | 11:00 PM | [Help Desk Analyst](https://careers-physiciansmutual.icims.com/jobs/2136/help-desk-analyst/job) | Physicians Mutual | Omaha, NE, United States | 68 | 1+ yrs exp |
 | 11:00 PM | [Community Integration Specialist](https://jobs.dayforcehcm.com/en-US/gwcols/CANDIDATEPORTAL/jobs/12031) | Gwcols | Whitehall, OH, US | 73 | 1+ yrs exp; entry level (from the text) |
-| 9:08 PM | [Frontend Engineer, New Grad](https://jobs.workable.com/view/scXVV7RSyXL1zm4QT5zEry/remote-frontend-engineer%2C-new-grad-in-united-states-at-bask-health) | Bask Health | Remote, US (remote) | 65 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3830)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3833)
 
 <details><summary>Show</summary>
 
@@ -682,7 +682,9 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (59)](#wednesday-nov-18-59)
 | date only | [Security Engineer,AWS Security](https://www.amazon.jobs/en/jobs/10608873/security-engineer-aws-security) | Amazon Development Center U.S… | Austin, Texas, USA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [2027 Associate Software Digital Engineer - Rolling Meadows IL  - Roll…](https://ngc.eightfold.ai/careers/job/1340075394894) | Ngc | Rolling Meadows, IL, US (onsite) | 80 | rules: entry-level title; needs: security clearance |
 | date only | [Support Engineer, Amazon Leo Enterprise Customer Support](https://www.amazon.jobs/en/jobs/10608910/support-engineer-amazon-leo-enterprise-customer-support) | Amazon Kuiper Commercial Serv… | Bellevue, Washington, USA | 75 | rules: 1+ yrs exp; needs: must be a U.S. citizen |
+| 9:25 PM | [Revenue Data Analyst](https://jobs.lever.co/jobgether/266770d8-0df9-48a3-ad14-61c68e7a2312) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:21 PM | [SOFTWARE ENGINEER](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=267cfc8f-e6d3-499b-8a38-c6abe8ee3d82&ccId=19000101_000001&jobId=9204504110082_1&lang=en_US) | 267Cfc8F E6D3 499B 8A38 C6Abe… | Ventura, CA | 75 | rules: 2+ yrs exp; needs: Secret Clearance |
+| 9:01 PM | [DevOps Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4730802006?gh_jid=4730802006) | Accenture | Chantilly, VA | 55 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: Security cleara… |
 | 8:11 PM | [Security Chain Engineer (Injective Labs)](https://jobs.ashbyhq.com/injective/e9d07915-db3e-476b-bb3a-92b2eda2cf5c) | Injective | Remote (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:09 PM | [Microsoft 365 AI Security Engineer](https://jobs.lever.co/jobgether/869cf6f1-7aca-46a6-82db-a820bf006429) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 8:07 PM | [Spacecraft Systems Integration & Test Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/8208956003) | Varda Space | El Segundo, California, United States | 90 | rules: 1+ yrs exp; entry level (from the text); E-Verify; needs: ITAR |
@@ -693,6 +695,7 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (59)](#wednesday-nov-18-59)
 | 7:33 PM | [Radiology System Support Specialist I - DICOM / Linux / Backend](https://jobs.smartrecruiters.com/Intelerad/744000162425439-radiology-system-support-specialist-i-dicom-linux-backend) | Intelerad | Remote, UNITED STATES, United States (hybrid) | 90 | rules: entry-level title; 2+ yrs exp; needs: security clearance |
 | 7:23 PM | [Quality Assurance Automation Engineer](https://job-boards.greenhouse.io/leolabsinc/jobs/4514019009) | LeoLabs | Remote (U.S.) (remote) | 42 | rules: 5+ yrs exp; needs: TS/SCI clearance |
 | 7:01 PM | [Application Engineer (FAE/AE)](https://jobs.ashbyhq.com/Clera/58c4019a-5d0a-4a85-9139-74c99e788289) | Clera | United States (onsite) | 50 | rules: 10+ yrs exp; asks for 10+ years of experience |
+| 6:46 PM | [Business Intelligence Analyst](https://jobs.workable.com/view/gsAVRmQaJr33uPpKMMkTx2/hybrid-business-intelligence-analyst-in-beaverton-at-gear-up-sports) | Gear Up Sports | Beaverton, Oregon (hybrid) | 55 | rules: 7+ yrs exp; E-Verify; asks for 7+ years of experience |
 | 6:30 PM | [Software Engineer, AI Transformation](https://jobs.lever.co/goodleap/65bb56a4-7e99-4e59-847d-b4b9240bbc4e) | Goodleap | Austin, TX; San Francisco, CA; Rosevill… (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 6:20 PM | [Integration Technician](https://job-boards.greenhouse.io/icarus/jobs/5487279008) | Icarus | El Segundo | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 6:09 PM | [Software Engineer](https://www.coinbase.com/careers/positions/8400323?gh_jid=8400323) | Coinbase | Remote - USA (remote) | 62 | rules: 3+ yrs exp; E-Verify; asks for 3+ years of experience |
@@ -1076,8 +1079,5 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (59)](#wednesday-nov-18-59)
 | date only | [Systems Development Engineer, DC Robotics, Data Center Robotics](https://www.amazon.jobs/en/jobs/10606820/systems-development-engineer-dc-robotics-data-center-robotics) | Amazon Data Services, Inc. | Seattle, Washington, USA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Clearable Data Center Technician, Infraops AG](https://www.amazon.jobs/en/jobs/10604670/clearable-data-center-technician-infraops-ag) | Amazon Data Services, Inc. | Aurora, Colorado, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
 | date only | [Clearable Data Center Technician, Data Center Operations](https://www.amazon.jobs/en/jobs/10597767/clearable-data-center-technician-data-center-operations) | Amazon Web Services, Inc. | Aurora, Colorado, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
-| date only | [AI enabled Device Modeling Engineer](https://globalfoundries.eightfold.ai/careers/job/563980770945694) | Globalfoundries | Austin, TX, US; IL,US (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [Software Validation Engineer](https://nvidia.eightfold.ai/careers/job/893392914910) | Nvidia | Yokne'am Illit, North District, IL (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [Software Engineer Level 1](https://apply.workable.com/interimage/j/0845C3BE9D/) | InterImage | Fort Meade, Maryland, United States | 55 | rules: entry-level title; 7+ yrs exp; needs: Security Clearance |
 
 </details>
