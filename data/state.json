@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 285,
+   "n": 286,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 285,
+   "n": 286,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 285,
+   "n": 286,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15006,8 +15006,8 @@
    373
   ],
   "2026-11-19": [
-   80,
-   174
+   100,
+   211
   ]
  },
  "resolved": {
@@ -66049,6 +66049,7 @@
   "ashby:spear-ai:d6a64d47-c3da-4a4a-951d-a9136869bfc8": "2026-11-12",
   "ashby:spoton:bb2d12c6-859d-459e-96f8-489c2bfd6681": "2026-11-12",
   "ashby:standinsurance:98980cc7-8acb-4987-ba81-ca86844e81d8": "2026-11-17",
+  "ashby:supabase:463d8cd7-3092-44eb-b80e-8d21008e569e": "2026-11-19",
   "ashby:supabase:fb0b563a-e541-43fd-8555-9eb6473aaa11": "2026-11-07",
   "ashby:swarmaero:1a5fe194-42ea-48df-ae66-1e3dd4237390": "2026-11-07",
   "ashby:swarmaero:f6362109-d107-46e7-aa57-04d0da26c3c5": "2026-11-19",
@@ -70238,10 +70239,10 @@
  "source_last": {
   "hn": "2026-11-19T08:37:16+00:00",
   "remoteok": "2026-11-19T11:37:13+00:00",
-  "usajobs": "2026-11-19T10:07:15+00:00",
-  "workable_search": "2026-11-19T10:07:15+00:00",
+  "usajobs": "2026-11-19T13:07:16+00:00",
+  "workable_search": "2026-11-19T13:07:16+00:00",
   "wwr": "2026-11-19T12:37:14+00:00",
-  "yc": "2026-11-19T10:07:15+00:00"
+  "yc": "2026-11-19T13:07:16+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
