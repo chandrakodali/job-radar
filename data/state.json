@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 287,
+   "n": 288,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 287,
+   "n": 288,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 287,
+   "n": 288,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14935,7 +14935,7 @@
   }
  },
  "found_cursor": 968,
- "last_digest": "2026-11-18",
+ "last_digest": "2026-11-19",
  "missed_companies": {
   "A2Z Sync": "2026-11-19",
   "Accurant International": "2026-11-18",
@@ -66114,6 +66114,7 @@
   "avature:deloitteus.avature.net|careers:374764": "2026-11-15",
   "avature:deloitteus.avature.net|careers:375102": "2026-11-15",
   "avature:deloitteus.avature.net|careers:375387": "2026-11-15",
+  "avature:dhlconsulting.avature.net|careers:626": "2026-11-19",
   "avature:dhlconsulting.avature.net|careers:635": "2026-11-15",
   "avature:justicejobs.avature.net|internalcareers:24181": "2026-11-15",
   "avature:mercadona.avature.net|Careers:314561": "2026-11-15",
@@ -68154,6 +68155,7 @@
   "jobvite:nutanix:ohIWAfwf": "2026-11-16",
   "jobvite:nutanix:ohorAfwq": "2026-11-17",
   "jobvite:nutanix:olfIAfwC": "2026-11-09",
+  "jobvite:nutanix:omDAAfwT": "2026-11-19",
   "jobvite:nutanix:os7SAfwL": "2026-11-13",
   "jobvite:nutanix:osn3Afwc": "2026-11-12",
   "jobvite:oakwood-systems-group-inc:o0tXAfwK": "2026-11-15",
@@ -68476,6 +68478,7 @@
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4549": "2026-11-17",
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4552": "2026-11-17",
   "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:120413": "2026-11-12",
+  "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:120595": "2026-11-19",
   "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:261189": "2026-11-18",
   "oracle:hcal.fa.us2.oraclecloud.com|CX_1001:2398": "2026-11-12",
   "oracle:hcal.fa.us2.oraclecloud.com|CX_1:2398": "2026-11-14",
