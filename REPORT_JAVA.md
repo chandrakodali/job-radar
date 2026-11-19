@@ -1,14 +1,14 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**198 jobs**, newest first. Updated Thu Nov 19, 6:16 AM CST from 12,526 company job boards and other sources.
+**197 jobs**, newest first. Updated Thu Nov 19, 7:17 AM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 126 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,052 matching jobs that job sites and feeds listed this week, 506 (24%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,102 matching jobs that job sites and feeds listed this week, 522 (24%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (23)](#wednesday-nov-18-23) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (25)](#thursday-nov-12-25)
+Jump to: [Wed 18 (23)](#wednesday-nov-18-23) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (24)](#thursday-nov-12-24)
 
 ## Wednesday, Nov 18 (23)
 
@@ -213,7 +213,7 @@ Jump to: [Wed 18 (23)](#wednesday-nov-18-23) · [Tue 17 (19)](#tuesday-nov-17-19
 | 7:52 AM | [The Core Engineering- Software Engineering - Associate - Dallas](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/182586) | Goldman Sachs | Dallas, TX, United States | 48 | entry-level title; 3+ yrs exp; requires Java |
 | 7:52 AM | [The Core Engineering- Software Engineering - Associate - Dallas](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/182586) | Hdpc Fa Us2 Oraclecloud Com | Dallas, TX, United States | 43 | entry-level title; 3+ yrs exp; requires Java |
 
-## Thursday, Nov 12 (25)
+## Thursday, Nov 12 (24)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -241,7 +241,6 @@ Jump to: [Wed 18 (23)](#wednesday-nov-18-23) · [Tue 17 (19)](#tuesday-nov-17-19
 | 9:49 AM | [Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, E…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796) | American Express | New York, NY, United States (hybrid) | 58 | entry-level title; requires Java |
 | 9:49 AM | [Campus Undergraduate Full-Time Engineer - 2027 Software Engineer I, E…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26012796) | Egug Fa Us2 Oraclecloud Com | New York, NY, United States (hybrid) | 53 | entry-level title; requires Java |
 | 9:41 AM | [Developer - Java, Spring Boot](https://careers.united.com/us/en/job/UAIUADUSWHQ00026827EXTERNALENUSTALEO) | United Airlines | Chicago, Illinois, United States | 63 | 2+ yrs exp; no future H-1B sponsorship |
-| 7:11 AM | [Software Developer II](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54954) | CSX | Jacksonville, FL, United States (onsite) | 53 | 2+ yrs exp; requires Java |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (336)
 

@@ -12001,17 +12001,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 116,
+   "n": 117,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 116,
+   "n": 117,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 116,
+   "n": 117,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13359,8 +13359,8 @@
    492
   ],
   "2026-11-19": [
-   65,
-   208
+   81,
+   258
   ]
  },
  "resolved": {
@@ -64712,6 +64712,7 @@
   "ashby:standardbots:0f10edc9-c87b-4c9e-b0ab-f6cc5be6af91": "2026-11-16",
   "ashby:standinsurance:98980cc7-8acb-4987-ba81-ca86844e81d8": "2026-11-17",
   "ashby:starbridge:7a86e5d3-0871-4a1f-a65d-bfadb7be3b4d": "2026-11-16",
+  "ashby:supabase:463d8cd7-3092-44eb-b80e-8d21008e569e": "2026-11-19",
   "ashby:talkiatry:4343b2d6-b89f-4534-b208-515963523015": "2026-11-14",
   "ashby:temporal:011bf96a-0e14-4b61-9fb9-b19ef6705a71": "2026-11-14",
   "ashby:temporal:a339af3a-0911-4f3e-b6ef-f5d362fc821a": "2026-11-18",
@@ -66400,6 +66401,7 @@
   "greenhouse:coinbase:8368463": "2026-11-16",
   "greenhouse:coinbase:8395582": "2026-11-17",
   "greenhouse:coinbase:8400323": "2026-11-19",
+  "greenhouse:colabsoftware:5486493008": "2026-11-19",
   "greenhouse:compasshealthcenter:8200413003": "2026-11-14",
   "greenhouse:compeerfinancial:5474151008": "2026-11-14",
   "greenhouse:consensys:8374566": "2026-11-14",
@@ -70174,11 +70176,11 @@
  },
  "source_last": {
   "hn": "2026-11-19T09:18:15+00:00",
-  "remoteok": "2026-11-19T11:18:30+00:00",
-  "usajobs": "2026-11-19T10:20:22+00:00",
-  "workable_search": "2026-11-19T10:20:22+00:00",
-  "wwr": "2026-11-19T12:16:25+00:00",
-  "yc": "2026-11-19T10:20:22+00:00"
+  "remoteok": "2026-11-19T13:17:59+00:00",
+  "usajobs": "2026-11-19T13:17:59+00:00",
+  "workable_search": "2026-11-19T13:17:59+00:00",
+  "wwr": "2026-11-19T13:17:59+00:00",
+  "yc": "2026-11-19T13:17:59+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
