@@ -1,19 +1,21 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**183 jobs**, newest first. Updated Thu Nov 19, 4:47 PM CST from 12,526 company job boards and other sources.
+**185 jobs**, newest first. Updated Thu Nov 19, 5:46 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 118 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,273 matching jobs that job sites and feeds listed this week, 575 (25%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,277 matching jobs that job sites and feeds listed this week, 577 (25%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (9)](#thursday-nov-19-9) · [Wed 18 (24)](#wednesday-nov-18-24) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (25)](#monday-nov-16-25) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (1)](#thursday-nov-12-1)
+Jump to: [Thu 19 (11)](#thursday-nov-19-11) · [Wed 18 (24)](#wednesday-nov-18-24) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (25)](#monday-nov-16-25) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (1)](#thursday-nov-12-1)
 
-## Thursday, Nov 19 (9)
+## Thursday, Nov 19 (11)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:45 PM | [Software Engineer, Platform IOT](https://job-boards.greenhouse.io/gomotive/jobs/8950900002) | Gomotive | Hybrid - San Francisco, California (hybrid) | 50 | 4+ yrs exp; requires Java |
+| 5:27 PM | [Software Engineer III - Backend](https://jobs.ashbyhq.com/Kite/8e616217-be15-4c4d-9f4f-a325aee6928d) | Kite | United States (remote) | 42 | 4+ yrs exp; senior title; requires Java |
 | 4:00 PM | [Software Engineer, Card](https://job-boards.greenhouse.io/okx/jobs/8209722003) | OKX | San Jose, California, United States | 60 | 1+ yrs exp; requires Java |
 | 3:59 PM | [Software Engineer II - Data Engineering](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304972) | Uber | Sunnyvale, CA, United States | 35 | 3+ yrs exp; requires Java |
 | 1:32 PM | [Software Development Engineer](https://www.esri.com/careers/5291317007?gh_jid=5291317007) | Esri | Vienna, Virginia, United States | 60 | 1+ yrs exp; requires Java |
@@ -233,12 +235,13 @@ Jump to: [Thu 19 (9)](#thursday-nov-19-9) · [Wed 18 (24)](#wednesday-nov-18-24)
 |---|---|---|---|---:|---|
 | 8:00 PM | [Fullstack Developer](https://careers.capgemini.com/job/Dallas%2C-TX-Fullstack-Developer-TX-75201/1447851733/) | Capgemini | Dallas, TX, United States | 38 | 4+ yrs exp; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (346)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (348)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:20 PM | [Sr Software Engineer - Backend](https://jobs.ashbyhq.com/Kite/20e72bff-0a4a-4d6d-8f7f-497069072e5e) | Kite | United States (remote) | 27 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:57 PM | [Senior Software Engineer - Pacing & Experimentation](https://job-boards.greenhouse.io/thetradedesk/jobs/5294061007) | The Trade Desk | New York | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:20 PM | [Java developer - Kafka, MQ, FIX, FpML - 15+ Years of experience (Full…](https://jobs.smartrecruiters.com/SyncreonConsulting/744000162589709-java-developer-kafka-mq-fix-fpml-15-years-of-experience-full-time-) | Syncreon Consulting | New York, NY, United States | 40 | rules: 10+ yrs exp; staffing/consulting firm: verify it's real; asks … |
 | 11:19 AM | [Senior Software Engineer 814](https://job-boards.greenhouse.io/freedomconsulting/jobs/5302135007) | Freedom Technology Solutions … | Annapolis Junction, MD | 35 | rules: 12+ yrs exp; senior title; E-Verify; requires Java; asks for 1… |
@@ -270,6 +273,7 @@ Jump to: [Thu 19 (9)](#thursday-nov-19-9) · [Wed 18 (24)](#wednesday-nov-18-24)
 | date only | [Sr. Backend Software Engineer (San Diego)](https://carlsmed.bamboohr.com/careers/267) | Carlsmed | Carlsbad, California | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | date only | [Full-Stack Software Engineer](https://jobs.jobvite.com/visionist/job/o9W7Afww) | Visionist | Columbia, MD, United States | 30 | rules: 14+ yrs exp; requires Java; needs: security clearance |
 | date only | [Platform Engineer (KBase Project)](https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107918&lang=en) | Lawrence Berkeley National La… |  | 28 | rules: 5+ yrs exp; likely H-1B cap-exempt (verify); requires Java; as… |
+| date only | [US E GPS Consulting Services GPS HST Java Software Engineer III, Cust…](https://apply.deloitte.com/en_US/careers/JobDetail/Full-Stack-Java-Software-Engineer/375691) | Deloitte US |  | 33 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 9:02 AM | [Infrastructure Solutions Engineering (AI & Automation) - Java, Spring…](https://jobs.smartrecruiters.com/SyncreonConsulting/744000162098510--infrastructure-solutions-engineering-ai-automation-java-spring-boot-python-apis) | Syncreon Consulting | New York, NY, United States | 40 | rules: 10+ yrs exp; staffing/consulting firm: verify it's real; asks … |
 | 8:55 AM | [Senior Software Engineer - Austin, TX](https://careers.teamviewer.com/jobs/8756713-senior-software-engineer-austin-tx) | Teamviewer | Austin, United States (hybrid) | 35 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:33 AM | [Senior Software Engineer, Data Solutions](https://jobs.lever.co/jobgether/ee727b71-350c-400a-9071-74ca4444772b) | Jobgether | US (remote) | 27 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
