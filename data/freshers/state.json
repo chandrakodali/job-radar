@@ -11794,6 +11794,11 @@
    "n": 3,
    "since": "2026-11-13"
   },
+  "ashby:interface": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-19"
+  },
   "ashby:kinetic": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -12012,17 +12017,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 145,
+   "n": 146,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 145,
+   "n": 146,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 145,
+   "n": 146,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12249,7 +12254,7 @@
   },
   "greenhouse:kunai": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-19"
   },
   "greenhouse:liveviewtechnologiesinc": {
@@ -12779,21 +12784,6 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-13"
-  },
-  "oracle:eexs.fa.us2.oraclecloud.com|Aldersly": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-19"
-  },
-  "oracle:eexs.fa.us2.oraclecloud.com|GreenwoodVillageSouth": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-19"
-  },
-  "oracle:eexs.fa.us2.oraclecloud.com|HeritageatBrentwood": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-19"
   },
   "pinpoint:heapy": {
    "disabled_until": "2026-11-21",
@@ -13780,7 +13770,7 @@
   "D-ploy": "2026-11-17",
   "DLN Consulting Group": "2026-11-19",
   "Dean Dorton": "2026-11-18",
-  "Delaware Nation Industries": "2026-11-17",
+  "Delaware Nation Industries": "2026-11-19",
   "Diversified Services Network, Inc.": "2026-11-13",
   "Executive Title Agency": "2026-11-18",
   "Fastbreak AI": "2026-11-19",
@@ -13827,7 +13817,8 @@
   "XMSTART": "2026-11-18",
   "Zifo": "2026-11-19",
   "ZipLiens": "2026-11-16",
-  "erad": "2026-11-18"
+  "erad": "2026-11-18",
+  "prosource.it- Americas": "2026-11-19"
  },
  "missing_once": {},
  "recall": {
@@ -13856,8 +13847,8 @@
    665
   ],
   "2026-11-19": [
-   103,
-   393
+   123,
+   472
   ]
  },
  "resolved": {
@@ -64623,6 +64614,7 @@
   "adp:35054926-66c8-40b9-ad6d-2b10240d7729:9201284599149_194": "2026-11-14",
   "adp:35054926-66c8-40b9-ad6d-2b10240d7729|19000101_000001:9201283079282_34": "2026-11-15",
   "adp:35054926-66c8-40b9-ad6d-2b10240d7729|19000101_000001:9201284599149_194": "2026-11-15",
+  "adp:3aada650-9516-4fad-a8af-527c53c40e64|9200679039949_2:9201870124474_151": "2026-11-19",
   "adp:3bef1e22-ba8f-4a2d-9c8f-f811ea1e9175|19000101_000001:9203204640080_7": "2026-11-15",
   "adp:41a778b2-3a5e-42c7-9770-87f62458fb3e:9201301302202_1": "2026-11-14",
   "adp:41a778b2-3a5e-42c7-9770-87f62458fb3e|9200865371904_2:9201301302202_1": "2026-11-14",
@@ -64999,6 +64991,7 @@
   "amazon:us:10609192": "2026-11-19",
   "amazon:us:10609298": "2026-11-19",
   "amazon:us:10609299": "2026-11-19",
+  "amazon:us:10609416": "2026-11-19",
   "apple:usa:200555687": "2026-11-14",
   "apple:usa:200607680": "2026-11-14",
   "apple:usa:200624249": "2026-11-17",
@@ -65332,6 +65325,7 @@
   "ashby:basecamp-research:66faf6c7-aa7d-41bd-b1f1-e8fe1569db27": "2026-11-16",
   "ashby:basecamp-research:6c65e830-90d3-4b78-9a02-96a27a4da4ad": "2026-11-14",
   "ashby:baseten:bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0": "2026-11-14",
+  "ashby:baseten:fddec35f-9dbc-4344-b1df-b8ff6e05472a": "2026-11-19",
   "ashby:bayesianhealth:3ea2fcfb-9a68-4b8d-a9aa-600a733ef655": "2026-11-14",
   "ashby:beaconai:58b0c4e6-4f5c-4833-891f-3d50082a4c39": "2026-11-17",
   "ashby:beaconai:b991777e-9156-47c7-960e-3e29defc0c3a": "2026-11-13",
@@ -65801,6 +65795,7 @@
   "ashby:ruby-labs:dad7e7c6-3cb6-428f-83ea-332d2e559387": "2026-11-13",
   "ashby:ruby-labs:fbd0a088-0104-4802-a693-2690be572181": "2026-11-13",
   "ashby:rula:ab97133b-3d3d-4802-8202-e3c37f48c09e": "2026-11-13",
+  "ashby:runsybil-jobs:5ad8157f-8fe8-4f89-a941-0f0f00252630": "2026-11-19",
   "ashby:sailorhealth:df9dbe7a-995d-4bfb-9bdd-08cab451e61a": "2026-11-13",
   "ashby:salmon-group:90713127-0509-47a3-829b-ad2f523f2c9c": "2026-11-19",
   "ashby:saronic:075bb754-ad9e-448c-a2b3-4de4e435bf57": "2026-11-17",
@@ -65870,6 +65865,7 @@
   "ashby:terac:427c06b5-a02a-4624-b398-f7cd970edcaf": "2026-11-13",
   "ashby:terranova:ab65c694-e140-4efe-b7f7-abca43e48ba7": "2026-11-13",
   "ashby:tessera-labs:32c01421-81d7-45a2-bd27-b7e49a167cce": "2026-11-13",
+  "ashby:tessera-labs:d2571014-3cf7-4dd3-82d1-8c102354da2f": "2026-11-19",
   "ashby:tessera-labs:d6d5e541-eaaf-4f2e-856f-7eed52448caa": "2026-11-13",
   "ashby:the-exploration-company:79fe8a46-8cee-4586-b650-6c0c48e86f62": "2026-11-13",
   "ashby:traversal:bbeab2c4-3510-47c4-b992-260b853d9bdd": "2026-11-13",
@@ -66111,6 +66107,7 @@
   "avature:deloitteus.avature.net|careers:375652": "2026-11-17",
   "avature:deloitteus.avature.net|careers:375793": "2026-11-18",
   "avature:deloitteus.avature.net|careers:375825": "2026-11-19",
+  "avature:deloitteus.avature.net|careers:375951": "2026-11-19",
   "avature:deloitteus.avature.net|careers:375961": "2026-11-19",
   "avature:deloitteus.avature.net|careers:375988": "2026-11-19",
   "avature:dhlconsulting.avature.net|careers:450": "2026-11-15",
@@ -68334,6 +68331,7 @@
   "dayforce:edc|candidateportaledc:965": "2026-11-15",
   "dayforce:edc|candidateportaledc:971": "2026-11-18",
   "dayforce:evri|CANDIDATEPORTAL:6742": "2026-11-17",
+  "dayforce:fng|CANDIDATEPORTAL:16618": "2026-11-19",
   "dayforce:fphny|CANDIDATEPORTAL:3821": "2026-11-15",
   "dayforce:fphny|CANDIDATEPORTAL:3833": "2026-11-15",
   "dayforce:gleason|CANDIDATEPORTAL:5881": "2026-11-15",
@@ -68759,6 +68757,7 @@
   "eightfold:ford:563568454226663": "2026-11-17",
   "eightfold:ford:563568454231302": "2026-11-17",
   "eightfold:ford:563568454234924": "2026-11-18",
+  "eightfold:ford:563568454235997": "2026-11-19",
   "eightfold:fortive:893398716191": "2026-11-16",
   "eightfold:globalfoundries:563980768904732": "2026-11-18",
   "eightfold:globalfoundries:563980770505731": "2026-11-19",
@@ -68837,6 +68836,7 @@
   "eightfold:ngc:1340074002009": "2026-11-18",
   "eightfold:ngc:1340074239588": "2026-11-16",
   "eightfold:ngc:1340074620671": "2026-11-19",
+  "eightfold:ngc:1340074629961": "2026-11-19",
   "eightfold:ngc:1340074630141": "2026-11-19",
   "eightfold:ngc:1340074886861": "2026-11-16",
   "eightfold:ngc:1340074947452": "2026-11-16",
@@ -69959,6 +69959,7 @@
   "greenhouse:grvty:4508811009": "2026-11-16",
   "greenhouse:grvty:4511158009": "2026-11-18",
   "greenhouse:grvty:4511359009": "2026-11-17",
+  "greenhouse:grvty:4514555009": "2026-11-19",
   "greenhouse:guidepointsecurity:6264977004": "2026-11-18",
   "greenhouse:gusto:8248374": "2026-11-13",
   "greenhouse:gusto:8257482": "2026-11-13",
@@ -69973,6 +69974,7 @@
   "greenhouse:hearst:4480343009": "2026-11-13",
   "greenhouse:hearst:4481117009": "2026-11-13",
   "greenhouse:hearst:4503987009": "2026-11-13",
+  "greenhouse:hearst:4513556009": "2026-11-19",
   "greenhouse:heartflowinc:6262467004": "2026-11-16",
   "greenhouse:helsing:5028875101": "2026-11-17",
   "greenhouse:highnote:8208218003": "2026-11-18",
@@ -70045,6 +70047,7 @@
   "greenhouse:lightfeatheriollc:5478726008": "2026-11-13",
   "greenhouse:lightmatter:5467063008": "2026-11-13",
   "greenhouse:lightningai:8199518003": "2026-11-13",
+  "greenhouse:lilasciences:4215959009": "2026-11-19",
   "greenhouse:lilasciences:4455701009": "2026-11-13",
   "greenhouse:lilasciences:4462270009": "2026-11-13",
   "greenhouse:lilasciences:4472554009": "2026-11-13",
@@ -70394,6 +70397,7 @@
   "greenhouse:voyagertechnologiesinc:4478470009": "2026-11-13",
   "greenhouse:voyagertechnologiesinc:4484594009": "2026-11-13",
   "greenhouse:voyagertechnologiesinc:4503760009": "2026-11-17",
+  "greenhouse:voyagertechnologiesinc:4506015009": "2026-11-19",
   "greenhouse:voyagertechnologiesinc:4506412009": "2026-11-13",
   "greenhouse:vscfiresecurityinc:5472761008": "2026-11-13",
   "greenhouse:vscfiresecurityinc:5475365008": "2026-11-13",
@@ -70431,6 +70435,7 @@
   "homerun:deftpower:new-business-developer-dach-emobility-saas": "2026-11-14",
   "homerun:deftpower:new-platform-operations-engineer-emobility-saas": "2026-11-18",
   "homerun:fabriq:ai-software-engineer-f-h": "2026-11-14",
+  "homerun:fabriq:solution-engineer-integrations": "2026-11-19",
   "homerun:influentials:ai-gtm-growth-engineer": "2026-11-14",
   "homerun:influentials:full-stack-ai-engineer": "2026-11-14",
   "homerun:intire:business-developer-sustainability": "2026-11-14",
@@ -71287,6 +71292,7 @@
   "icims:careers-emcorgroup.icims.com:52349": "2026-11-13",
   "icims:careers-emcorgroup.icims.com:52381": "2026-11-13",
   "icims:careers-emcorgroup.icims.com:52430": "2026-11-13",
+  "icims:careers-emcorgroup.icims.com:52590": "2026-11-19",
   "icims:careers-emcorgroup.icims.com:52688": "2026-11-13",
   "icims:careers-emcorgroup.icims.com:52697": "2026-11-13",
   "icims:careers-emcorgroup.icims.com:52850": "2026-11-13",
@@ -72441,6 +72447,7 @@
   "icims:careers-steampunk.icims.com:8453": "2026-11-16",
   "icims:careers-steampunk.icims.com:8485": "2026-11-16",
   "icims:careers-steampunk.icims.com:8518": "2026-11-16",
+  "icims:careers-steampunk.icims.com:8651": "2026-11-19",
   "icims:careers-steampunk.icims.com:8716": "2026-11-18",
   "icims:careers-steeldynamics.icims.com:7707": "2026-11-13",
   "icims:careers-steeldynamics.icims.com:7825": "2026-11-13",
@@ -72551,6 +72558,7 @@
   "icims:careers-teksynap.icims.com:9824": "2026-11-16",
   "icims:careers-teksynap.icims.com:9827": "2026-11-16",
   "icims:careers-teksynap.icims.com:9836": "2026-11-16",
+  "icims:careers-teksynap.icims.com:9996": "2026-11-19",
   "icims:careers-thesilverlining.icims.com:3818": "2026-11-13",
   "icims:careers-tierpoint.icims.com:3062": "2026-11-13",
   "icims:careers-tierpoint.icims.com:3074": "2026-11-13",
@@ -73808,6 +73816,7 @@
   "jobvite:drillinginfo:o7i0AfwJ": "2026-11-14",
   "jobvite:drillinginfo:oDa8zfwe": "2026-11-14",
   "jobvite:drillinginfo:oHxXAfwv": "2026-11-14",
+  "jobvite:drillinginfo:oUJ7Afw4": "2026-11-19",
   "jobvite:drillinginfo:oUJWAfwT": "2026-11-14",
   "jobvite:drillinginfo:oawXAfwX": "2026-11-14",
   "jobvite:drillinginfo:odi0AfwP": "2026-11-14",
@@ -74714,6 +74723,7 @@
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:74445": "2026-11-17",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:74543": "2026-11-17",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:74584": "2026-11-18",
+  "oracle:efds.fa.em5.oraclecloud.com|CX_1:74636": "2026-11-19",
   "oracle:egay.fa.us6.oraclecloud.com|CX_4001:42267": "2026-11-13",
   "oracle:egay.fa.us6.oraclecloud.com|CX_4001:45358": "2026-11-13",
   "oracle:egay.fa.us6.oraclecloud.com|CX_4001:45413": "2026-11-13",
@@ -74735,11 +74745,13 @@
   "oracle:egug.fa.us2.oraclecloud.com|CX:26013354": "2026-11-14",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26016137": "2026-11-14",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26016215": "2026-11-19",
+  "oracle:egug.fa.us2.oraclecloud.com|CX:26016784": "2026-11-19",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26011281": "2026-11-18",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26012796": "2026-11-13",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26013354": "2026-11-13",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26016137": "2026-11-13",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26016215": "2026-11-19",
+  "oracle:egug.fa.us2.oraclecloud.com|CX_1:26016784": "2026-11-19",
   "oracle:egup.fa.us2.oraclecloud.com|CX:20276730": "2026-11-16",
   "oracle:egup.fa.us2.oraclecloud.com|CX:20279430": "2026-11-13",
   "oracle:egup.fa.us2.oraclecloud.com|CX:20284501": "2026-11-13",
@@ -74831,6 +74843,7 @@
   "oracle:emit.fa.ca3.oraclecloud.com|CX_2001:99413": "2026-11-13",
   "oracle:emit.fa.ca3.oraclecloud.com|CX_2001:99428": "2026-11-13",
   "oracle:emit.fa.ca3.oraclecloud.com|CX_2001:99720": "2026-11-18",
+  "oracle:emit.fa.ca3.oraclecloud.com|CX_2001:99801": "2026-11-19",
   "oracle:emje.fa.us6.oraclecloud.com|CX_1001:21493": "2026-11-13",
   "oracle:emje.fa.us6.oraclecloud.com|CX_1001:22500": "2026-11-13",
   "oracle:emje.fa.us6.oraclecloud.com|CX_1001:22530": "2026-11-13",
@@ -74984,6 +74997,7 @@
   "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:234212": "2026-11-13",
   "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:234274": "2026-11-16",
   "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:234312": "2026-11-14",
+  "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:234362": "2026-11-19",
   "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com|CX_1029:16481": "2026-11-17",
   "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com|CX_1029:16488": "2026-11-17",
   "oracle:fa-evfm-saasfaprod1.fa.ocs.oraclecloud.com|CX_1029:16489": "2026-11-17",
@@ -75010,12 +75024,14 @@
   "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:21234": "2026-11-13",
   "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:22512": "2026-11-16",
   "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:22603": "2026-11-16",
+  "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:22892": "2026-11-19",
   "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:4629": "2026-11-13",
   "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:5085": "2026-11-13",
   "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:5118": "2026-11-18",
   "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:5129": "2026-11-13",
   "oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com|CX_26:1450": "2026-11-13",
   "oracle:fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com|StaplesInc:77381": "2026-11-18",
+  "oracle:fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com|StaplesInc:77815": "2026-11-19",
   "oracle:fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:1903": "2026-11-13",
   "oracle:fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:1922": "2026-11-13",
   "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:3702": "2026-11-16",
@@ -75720,6 +75736,7 @@
   "rippling:demandpdx:7d4e75fd-84a8-4c4b-afff-c8c5fc61e817": "2026-11-15",
   "rippling:demandpdx:b47715cd-ea8c-496f-8a57-b6f3a2209c10": "2026-11-15",
   "rippling:demandpdx:c142e92e-5bea-411e-995e-583d2b3dcb7d": "2026-11-15",
+  "rippling:democratic-national-committee:09a61811-1f2b-438e-933f-8f9d3afc3839": "2026-11-19",
   "rippling:divcon-controls:0cade3db-32d6-4884-89e5-0f0ce4f689cf": "2026-11-15",
   "rippling:dlsengineering:54c5b4d2-bd37-40e2-a157-cab7d8c4226b": "2026-11-13",
   "rippling:dlsengineering:83ef7d8d-2b9b-4970-ba61-f5a50575337c": "2026-11-13",
@@ -78111,6 +78128,9 @@
   "smartrecruiters:solidigm:744000162409029": "2026-11-19",
   "smartrecruiters:soprasteria1:744000161170339": "2026-11-13",
   "smartrecruiters:soprasteria1:744000162518349": "2026-11-19",
+  "smartrecruiters:soprasteria1:744000162553138": "2026-11-19",
+  "smartrecruiters:soprasteria1:744000162557180": "2026-11-19",
+  "smartrecruiters:soprasteria1:744000162557608": "2026-11-19",
   "smartrecruiters:sosi1:3743990016645886": "2026-11-13",
   "smartrecruiters:sosi1:3743990016701976": "2026-11-13",
   "smartrecruiters:sosi1:3743990016726206": "2026-11-13",
@@ -78610,6 +78630,7 @@
   "workable:opendatajobs:935AC025A5": "2026-11-14",
   "workable:pgtek:01C5C4D4EB": "2026-11-14",
   "workable:pgtek:8D5FBC5B47": "2026-11-14",
+  "workable:pgtek:A657DF7C83": "2026-11-19",
   "workable:pgtek:DD74082043": "2026-11-16",
   "workable:pgtek:DE94DA7342": "2026-11-14",
   "workable:planetart:6E4CF4BA40": "2026-11-18",
@@ -78653,8 +78674,10 @@
   "workable:raydar:9BF39AF8BA": "2026-11-13",
   "workable:raydar:A0FB08A1A8": "2026-11-14",
   "workable:raydar:A21923EC3F": "2026-11-13",
+  "workable:raydar:AB009A2011": "2026-11-19",
   "workable:raydar:B358652A7B": "2026-11-13",
   "workable:raydar:BB3CEFA193": "2026-11-13",
+  "workable:raydar:BC533AA03E": "2026-11-19",
   "workable:raydar:C309BF13F9": "2026-11-17",
   "workable:raydar:CEB85BADA5": "2026-11-13",
   "workable:raydar:D311E320DC": "2026-11-14",
@@ -78669,6 +78692,7 @@
   "workable:raydar:EF10FA0C3C": "2026-11-13",
   "workable:raydar:F6D76AA37A": "2026-11-13",
   "workable:raydar:F988B64D0D": "2026-11-17",
+  "workable:raydar:FE676CDE40": "2026-11-19",
   "workable:saalex:B7A2938B90": "2026-11-13",
   "workable:salvo-software:A1B9908B65": "2026-11-14",
   "workable:sigmadefense:26693DF183": "2026-11-13",
@@ -78751,6 +78775,7 @@
   "workable_search:all:747efea0-09c7-4d5a-8703-e117901d7041": "2026-11-13",
   "workable_search:all:75126f3f-9766-411b-b292-32c467a02620": "2026-11-17",
   "workable_search:all:7857342c-afa5-4f65-8bb1-3c048ba18d47": "2026-11-13",
+  "workable_search:all:789302c1-8503-41b0-ba6b-84d7bf883520": "2026-11-19",
   "workable_search:all:79cf0924-e29f-43d0-b597-96f80c1c6cb5": "2026-11-13",
   "workable_search:all:7d2ff17f-7fc2-4504-b501-378f3a7b5c5b": "2026-11-19",
   "workable_search:all:7dee47dc-4a06-4231-b4ab-da5819f1a81e": "2026-11-19",
@@ -78777,6 +78802,7 @@
   "workable_search:all:b47f9a67-0ab5-4a28-a265-8bf8018b1a1b": "2026-11-17",
   "workable_search:all:bf8eb51d-8dc0-49b5-a0f8-3dde226dc473": "2026-11-18",
   "workable_search:all:bfac4181-b8af-4a7a-8512-c6408e190c68": "2026-11-16",
+  "workable_search:all:c24ce253-4255-4be2-b753-e4924f62b729": "2026-11-19",
   "workable_search:all:c6da6148-fc7a-4a16-9ed7-f5deb90b3672": "2026-11-17",
   "workable_search:all:c871f3e2-60a2-4d3e-84a2-939af32f956a": "2026-11-14",
   "workable_search:all:ca8c12f2-be5a-4aa4-87d0-2ec65e7ac7d7": "2026-11-18",
@@ -81874,6 +81900,7 @@
   "zoho:causewayconnect:343030000022332001": "2026-11-14",
   "zoho:causewayconnect:343030000023992004": "2026-11-14",
   "zoho:causewayconnect:343030000025457002": "2026-11-14",
+  "zoho:donweb:694925000009769001": "2026-11-19",
   "zoho:easyhrgroup:656168000007525414": "2026-11-14",
   "zoho:easyhrgroup:656168000007525494": "2026-11-14",
   "zoho:easyhrgroup:656168000010097726": "2026-11-14",
@@ -81966,8 +81993,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-19T12:47:34+00:00",
-  "yc": "2026-11-19T12:47:34+00:00"
+  "workable_search": "2026-11-19T16:22:15+00:00",
+  "yc": "2026-11-19T16:22:15+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
