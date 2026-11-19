@@ -11786,11 +11786,6 @@
   "lever:jobgether:b45aadee-df74-4ad4-8acd-f23de8ee8060": "2026-11-19"
  },
  "fails": {
-  "apple:usa": {
-   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
-   "n": 1,
-   "since": "2026-11-19"
-  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-25",
    "err": "HTTP 404",
@@ -12153,17 +12148,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 304,
+   "n": 305,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 304,
+   "n": 305,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 304,
+   "n": 305,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15064,8 +15059,8 @@
    373
   ],
   "2026-11-19": [
-   178,
-   361
+   180,
+   365
   ]
  },
  "resolved": {
@@ -65863,6 +65858,7 @@
   "amazon:us:10608155": "2026-11-18",
   "amazon:us:10608157": "2026-11-18",
   "amazon:us:10608480": "2026-11-18",
+  "amazon:us:10609075": "2026-11-19",
   "amazon:us:10609537": "2026-11-19",
   "amazon:us:10609574": "2026-11-19",
   "apple:usa:200657320": "2026-11-14",
@@ -66863,6 +66859,7 @@
   "eightfold:nvidia:893384025211": "2026-11-17",
   "eightfold:nvidia:893392586806": "2026-11-19",
   "eightfold:nvidia:893393669632": "2026-11-15",
+  "eightfold:nvidia:893393807684": "2026-11-19",
   "eightfold:nvidia:893393995133": "2026-11-15",
   "eightfold:nvidia:893394115789": "2026-11-14",
   "eightfold:nvidia:893394206119": "2026-11-15",
@@ -70462,7 +70459,7 @@
   "remoteok": "2026-11-19T21:37:18+00:00",
   "usajobs": "2026-11-19T22:07:17+00:00",
   "workable_search": "2026-11-19T22:07:17+00:00",
-  "wwr": "2026-11-19T21:37:18+00:00",
+  "wwr": "2026-11-19T22:37:15+00:00",
   "yc": "2026-11-19T22:07:17+00:00"
  },
  "title_rules": "c323075b4d70",
