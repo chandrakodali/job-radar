@@ -12001,17 +12001,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 106,
+   "n": 107,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 106,
+   "n": 107,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 106,
+   "n": 107,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13315,6 +13315,7 @@
   "Mindful Support Services": "2026-11-19",
   "Multi Media LLC": "2026-11-16",
   "New Product": "2026-11-19",
+  "Numeral": "2026-11-19",
   "Omnistrate": "2026-11-19",
   "Pavago": "2026-11-19",
   "Pearl": "2026-11-19",
@@ -13358,8 +13359,8 @@
    492
   ],
   "2026-11-19": [
-   15,
-   52
+   29,
+   100
   ]
  },
  "resolved": {
@@ -70040,6 +70041,7 @@
   "yc:workatastartup:53662": "2026-11-14",
   "yc:workatastartup:59310": "2026-11-14",
   "yc:workatastartup:59403": "2026-11-14",
+  "yc:workatastartup:78001": "2026-11-19",
   "yc:workatastartup:78494": "2026-11-16",
   "yc:workatastartup:78968": "2026-11-14",
   "yc:workatastartup:79259": "2026-11-17",
@@ -70122,11 +70124,11 @@
  },
  "source_last": {
   "hn": "2026-11-19T03:17:54+00:00",
-  "remoteok": "2026-11-19T02:19:01+00:00",
-  "usajobs": "2026-11-19T01:17:20+00:00",
-  "workable_search": "2026-11-19T01:17:20+00:00",
-  "wwr": "2026-11-19T03:17:54+00:00",
-  "yc": "2026-11-19T01:17:20+00:00"
+  "remoteok": "2026-11-19T04:20:07+00:00",
+  "usajobs": "2026-11-19T04:20:07+00:00",
+  "workable_search": "2026-11-19T04:20:07+00:00",
+  "wwr": "2026-11-19T04:20:07+00:00",
+  "yc": "2026-11-19T04:20:07+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
