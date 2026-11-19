@@ -11740,7 +11740,6 @@
   "greenhouse:its:8202933003": "2026-11-18",
   "greenhouse:newrelic:5479397008": "2026-11-12",
   "greenhouse:spin:4751625005": "2026-11-13",
-  "greenhouse:tenstorrent:5283701007": "2026-11-16",
   "greenhouse:thoughtworksreferral:8336965": "2026-11-18",
   "greenhouse:twinstream:5016466101": "2026-11-12",
   "greenhouse:twinstream:5018760101": "2026-11-12",
@@ -11885,6 +11884,11 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
+  },
+  "ashby:interface": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-19"
   },
   "ashby:kinetic": {
    "disabled_until": "2026-11-21",
@@ -12104,17 +12108,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 290,
+   "n": 291,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 290,
+   "n": 291,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 290,
+   "n": 291,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12347,7 +12351,7 @@
   },
   "greenhouse:kunai": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-19"
   },
   "greenhouse:liveviewtechnologiesinc": {
@@ -15012,7 +15016,7 @@
   ],
   "2026-11-19": [
    100,
-   215
+   217
   ]
  },
  "resolved": {
@@ -66119,6 +66123,7 @@
   "avature:deloitteus.avature.net|careers:374764": "2026-11-15",
   "avature:deloitteus.avature.net|careers:375102": "2026-11-15",
   "avature:deloitteus.avature.net|careers:375387": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:375951": "2026-11-19",
   "avature:dhlconsulting.avature.net|careers:626": "2026-11-19",
   "avature:dhlconsulting.avature.net|careers:635": "2026-11-15",
   "avature:justicejobs.avature.net|internalcareers:24181": "2026-11-15",
@@ -66774,6 +66779,8 @@
   "eightfold:morganstanley:549800280238": "2026-11-18",
   "eightfold:morganstanley:549801018692": "2026-11-14",
   "eightfold:ngc:1340074239588": "2026-11-16",
+  "eightfold:ngc:1340074629961": "2026-11-19",
+  "eightfold:ngc:1340074630141": "2026-11-19",
   "eightfold:ngc:1340074672055": "2026-11-18",
   "eightfold:ngc:1340075281013": "2026-11-17",
   "eightfold:ngc:1340075297270": "2026-11-14",
@@ -67242,6 +67249,7 @@
   "greenhouse:tenon:8383699": "2026-11-12",
   "greenhouse:tenstorrent:5283701007": "2026-11-10",
   "greenhouse:theiconic:8335677": "2026-11-14",
+  "greenhouse:thenuclearcompany:5489353008": "2026-11-19",
   "greenhouse:thetradedesk:5301212007": "2026-11-19",
   "greenhouse:thoughtworksreferral:8336965": "2026-11-12",
   "greenhouse:trace3:8328853": "2026-11-07",
@@ -67785,6 +67793,7 @@
   "icims:careers-steampunk.icims.com:8376": "2026-11-12",
   "icims:careers-steampunk.icims.com:8389": "2026-11-12",
   "icims:careers-steampunk.icims.com:8485": "2026-11-16",
+  "icims:careers-steampunk.icims.com:8815": "2026-11-19",
   "icims:careers-steeldynamics.icims.com:8343": "2026-11-09",
   "icims:careers-stifel.icims.com:8624": "2026-11-12",
   "icims:careers-stifel.icims.com:9745": "2026-11-15",
@@ -70255,10 +70264,10 @@
  },
  "source_last": {
   "hn": "2026-11-19T14:37:14+00:00",
-  "remoteok": "2026-11-19T13:37:14+00:00",
+  "remoteok": "2026-11-19T15:37:14+00:00",
   "usajobs": "2026-11-19T13:07:16+00:00",
   "workable_search": "2026-11-19T13:07:16+00:00",
-  "wwr": "2026-11-19T14:37:14+00:00",
+  "wwr": "2026-11-19T15:37:14+00:00",
   "yc": "2026-11-19T13:07:16+00:00"
  },
  "title_rules": "c323075b4d70",
