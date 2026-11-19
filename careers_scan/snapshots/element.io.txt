@@ -57,6 +57,7 @@ Resources
 Blog
 Help
 About
+Compare Element
 Matrix relationship
 Documentation
 Open source

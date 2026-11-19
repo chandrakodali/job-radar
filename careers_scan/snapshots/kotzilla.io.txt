@@ -9,6 +9,8 @@ Bring Claude Code, Cursor or any AI agent production visibility into your Androi
 Start for Free
 Connect Kotzilla
 Trusted by leading companies to speed up issue resolution and reduce downtime
+Fairphone
+Back Market
 From Detection to Accurate Remediation
 Other tools collect logs and traces. We map runtime data to your full architecture, every component, every dependency. That's why our AI fixes are accurate, not generic.
 Runtime Data

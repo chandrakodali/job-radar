@@ -28,10 +28,15 @@ Feel at home
 Work culture, reputation and expertise attract — and retain — top talent. Find out why DXC Luxoft stands out.
 Explore our latest opportunities
 Our efficient, applicant-friendly process prioritizes your needs. With specialized roles and a strong referral program, DXC Luxoft is an expert in finding the right people for the right projects.
-Senior Full Stack Developer (Python + Typescript)
-Remote Serbia, Serbia
-Python
+Senior DevOps Engineer
+Guadalajara, Mexico
+DevOps
+Regular / Senior Java Developer
+Bucharest, Romania
+Java
+FO Developer
 Remote Poland, Poland
+Murex FO
 View all openings
 Your career. Your legacy.
 Build a career that leaves a lasting mark — for you and for the world around you.

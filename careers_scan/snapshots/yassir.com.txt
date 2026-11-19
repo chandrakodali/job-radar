@@ -6,26 +6,30 @@ Join a diverse team dedicated to impacting change to the everyday lives of its c
 Join us
 Join the team
 Our recent positions
+Staff Mobile iOS Engineer
+Full-time Cairo, Egypt
+We offer on-demand services such as ride-hailing and last-mile delivery. Building on this infrastructure, we are now introducing financial services to help our users pay, save and borrow digitally.
+Product & Tech
 Operational (Direct) Marketing Manager
 Fulltime Algiers, Algeria
-We offer on-demand services such as ride-hailing and last-mile delivery. Building on this infrastructure, we are now introducing financial services to help our users pay, save and borrow digitally.
 Marketing
 Head Of Growth -Financial Services-
 Full-time Algiers, Algeria
 Commercial Strategy
 Senior Performance Marketing Specialist
-Senior Product Manager - Super-app Financial Experience
-Product & Tech
 Role
 Team
 Location
 Description
-Algiers, Algeria
+Cairo, Egypt
 Yassir is the leading super App in the Maghreb region set to changing the way daily services are provided. It currently operates in 45 cities across Algeria, Morocco and Tunisia with recent expansions into France, Canada and Sub-Saharan Africa. It is backed (~$200M in funding) by VCs from Silicon Valley, Europe and other parts of the world.
 Helping usher the continent into a digital economy era. We’re not just about serving people - we’re about creating a marketplace to bring people what they need while infusing social values.
+About the role
+In this role, you will be part of our engineering team, working with a high quality code base and the latest tools, where you will promote your skills to be an expert in complex frontend development in iOS (swift and swiftUI) native platforms. Your primary focus will be development of mobile applications and their integration with back-end services. You will be working alongside other engineers and developers working on different layers of the infrastructure. Therefore, a commitment to a highly dynamic environment, where root cause analysis and rapid collaborative problem solving, sophisticated design, and the creation of quality products are required.
+Algiers, Algeria
+Senior Product Manager - Super-app Financial Experience
 Motion designer
 Brand & Communication
-Filmmaker
 See more
 About us
 Mission

@@ -25,14 +25,28 @@ We don’t care about standard job titles. We care about impact.
 The niche specialist, whose skills are so sharp that they can bend the trajectory of our company. The one with founder energy, who has built something from nothing before and doesn’t need a manager to tell them what needs fixing today. The e-commerce veteran, who knows the ugly truth about the industry and is tired of legacy software failing to fix it. The recent graduate, who learns faster than anyone expects and wants real responsibility from the first day.
 If you are reading this and thinking “that’s me,” we want to get to know you.
 Open positions
-Open a role to read it and apply, right here.
+Pick a role to read the full description and apply.
+Location
+Workplace
 Search positions
 Engineering
-Build the platform and the agents that run on it.
+Founding Engineer (Full-stack)
+Stockholm
+New York City
+Hybrid
+Full-time
+Apply
 Sales
-Own a pipeline: generate it, work it, close it.
+Head of GTM
+London
+Founding GTM
+Customer Success Manager
 Operations
-Work directly with the founders, on every job that matters.
+Founders Associate
+On-site
+General
+We are always looking for exceptional people. Impress us, join, and create your own role.
+Open Application
 Contact us
 Questions about a role or the process? Send us an email and we will get back to you.
 support@pango.ai

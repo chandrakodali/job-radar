@@ -1,85 +1,87 @@
-About
-Work
-Blog
-So glad you asked
-We're former founders, product engineers, and designers who care deeply about building the right thing—and building it well. We've launched startups, scaled e-commerce brands, and built platforms used by millions. Now, we help our clients do the same with speed, clarity, and care.
-" Rendr Software Group went beyond delivering what was in my brief — they genuinely cared about helping me achieve my business goals. Their creative, solution-driven team worked seamlessly within budget, tackling every challenge with resourcefulness and insight. It was an enjoyable, collaborative experience from start to finish, and I’d recommend them wholeheartedly. "
-Amy Mooney, Mutha Cuva
-Bring your vision to life with Rendr Software Group.
-Our mission 💪
-We are not actually here to build software. Instead, we are here to work together with you in order that you meet your goals and objectives. Our contribution to your success involves building powerful, bespoke web platforms and applications that serve your technology needs. Put simply: our mission is to provide the technology to enable your mission.
-Outcome vs. scope
-We build products for organizations and entrepreneurs who need a tech partner capable of delivering their vision, and not just a list of features. Once our teams share an understanding of the product to be built, you can leave the details of scope to us. Forget the days of being nickled and dimed for every tweak and prepare for an agency that puts your outcome above all else.
-A healthy obsession with perfection
-Literally anyone can code. It takes the wisdom that comes from more than a decade of experience to build products that truly delight users - and which create value for your businesses. Delivering products that enable your mission requires fanatical detail to every aspect of the experience. Think of us as your own personal mad scientists.
-Awards & Accolades
-What we value
-We value businesses who value what great technology can do for them.
-We value ensuring that you have the precise software solution you need and which enables your business and propels it forward.
-We value the opportunity to do great work and deliver value at an unbelievable level. If you do too, get in touch.
-Rendr around the world
-Our team of visionary designers, skilled developers, and strategic thinkers collaborate seamlessly to bring your ideas to life.
-Trentino, Italy
-London, UK
-Columbus, OH
-Austin, TX
-100%
-GDPR Compliant
-90%
-Repeat customers
-5.0🏅
-Rating on Clutch.co
-Open positions
-2 x
-Senior Full-stack developer
-Responsible for building and maintaining the entire set of technologies for modern web applications.
-Flexible
-/ US / EU
-Junior TypeScript developer
-1-3 years of experience required, responsible for supporting development team in developing products.
-Riva del Garda, Italy
-UX designer
-Experienced interaction designer with 3-5 years of experience delivering full product experiences.
-Administrative assistant
-Coordinate office and administrative activities, fluent in Italian and English.
-Content coordinator
-Proven track-record of managing distribution and engagement for digital content related to growing a brand.
-Project manager
-Oversee the progress of our projects and ensure timely product deliveries.
-Account manager
-Serve as primary customer liaison and coordinate with project manager to maintain customer relationships.
-Devops engineer
-Responsible for on-going systems maintenance and reliability of production application deployments.
-Join our team
-Become a part of our team, we have excellent opportunities available.
-Send inquiry
-Events
-Meet us at a conference
-Digital Transformation Expo Global 2026
-Digital Transformation Expo at TechEx Global connects senior IT decision-makers, business leaders and innovators to explore how strategy, culture and technology converge to reshape organizations for the digital-first era.
-02/04/2026 - 02/05/2026
-London, United Kingdom
-European Collaboration Summit
-With 3000 attendees, European Collaboration Summit is the largest conference in the world focused on Modern Work, Microsoft 365, and Copilot.
-05/05/2026 - 05/07/2026
-Cologne, Germany.
-Digital Transformation Expo Europe 2026
-Digital Transformation Expo at TechEx Europe connects senior IT decision-makers, business leaders and innovators to explore how strategy, culture and technology converge to reshape organizations for the digital-first era.
-10/20/2026 - 10/21/2026
-RAI Amsterdam, Netherlands.
-Overview
-Contact
-Login
-Services
-Shopify design & development
-E-commerce development
-Web development
-UX design
-Strategy & consulting
-Support & maintenance
-Custom software development
-Legal
-Terms
-Privacy
-Chat with our product engineers.
-Our team of UX design and e-commerce experts look forward to discussing your project with you.
+For Shopify brands spending $50k+ a month on ads
+Your Fractional CRO Department. Earn more from every paid visit.
+One senior team to write, design, build and test the pages your ad budget sends people to. No five hires, no payroll, no one to manage.
+See if you qualify See client results
+If we don’t beat your best page in 45 days, we keep working free until we do.
+Rendr / Test report A/B
+UK Shopify store · Cart test
+Revenue per visitor
+£57
+£92
+Existing cart Rendr cart
+50 / 50 traffic split Week one
+Shopify brands we’ve
+built and tested for
+Client results
+Inside three Shopify stores.
+How total sales changed across three stores we’ve worked with. Each figure compares the two months shown.
+Sküma Water
+Water filtration
++113 %
+Shopify total sales Sep vs Apr 2026
+Paleonola
+Food
++63 %
+Shopify total sales Apr vs Feb 2026
+Rasāsvāda
+Beverage
++45 %
+Shopify total sales Jul vs Mar 2026
+How we work
+Your ads bring the visitor.
+We take it from there.
+We start with the page your best ads send people to. Every test after that earns its place on the roadmap.
+Pick the right test.
+We review your ads, store and numbers, then rank pages by what a win would be worth. You see what’s running and what’s next.
+Build it. Then split the traffic.
+We handle the copy, design and Shopify build. Once you approve, the new page runs head to head with your current one.
+Keep what earns more.
+We read revenue per visitor against the baseline we locked together. You get the result, the decision and the reason for the next test.
+Your Fractional CRO Department
+Five disciplines.
+Zero hires.
+One team owns the work from the first hypothesis through the Shopify build and the result. We start in your store in week one.
+What would it cost to hire in-house?
+Illustrative annual U.S. salaries
+Growth lead
+$166,790
+UX / UI designer
+$104,000
+Shopify developer
+$92,650
+Conversion copywriter
+$72,270
+Analyst
+$78,760
+About $515,000 a year in salaries, before benefits and payroll costs. Based on U.S. Bureau of Labor Statistics occupational medians.
+Growth lead Sets the roadmap and owns the number.
+Conversion copywriter Writes for the person who clicked the ad.
+UX / UI designer Designs every page and test variant.
+Shopify developer Builds and ships the test in your store.
+Analyst Reads the result and recommends the next move.
+The Rendr guarantee
+We agree on your baseline for revenue per visitor before we change anything. Our page runs against yours on the same traffic. At day 45, we review the numbers together.
+See if you qualify
+Before you apply
+A few fair
+questions.
+What happens if our current page wins?
+It stays live. If our version hasn’t beaten the agreed baseline for revenue per visitor by day 45, we keep working at no charge until it does.
+We’ve tried CRO before. What changes this time?
+We start with the ad that brought the visitor in. Then we test the positioning, copy, design and build of the page against a baseline you approved. You can see what changed and how it performed.
+We just redesigned the store. Can we still do this?
+Yes. Your existing page stays in place as the control. We build a separate page for paid traffic and test the two side by side.
+Who will actually do the work?
+Paul leads a small senior team and works on every account. The same team handles strategy, copy, design, Shopify development and analysis.
+What access do you need?
+Read access to your store, analytics and ad account for the first week. We need Shopify collaborator access to build and launch tests. You approve each launch and can remove access at any time.
+What happens after the first test?
+We use the result to update a ranked roadmap. The next test could be another landing page, your cart, a best-selling product page or an offer and bundle.
+Work with Rendr
+Let’s look at your store.
+In 30 minutes, we’ll map where your paid traffic lands and which page is worth testing first. After you book, I’ll send the engagement details, including pricing.
+Paul Grieselhuber Founder, Rendr
+“I’m on every account we take.”
+More about Paul
+I founded and scaled a software agency, spun it off in 2019, then built Rendr to $100,000 a month in nine months. You’ll speak with me on the first call.
+Spending $50k+ a month on ads? See if you qualify

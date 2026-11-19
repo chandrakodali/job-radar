@@ -94,6 +94,9 @@ See pricing
 Research
 The research behind our threat intel
 We publish what we find, with the code and the indicators.
+2026-11-19
+Malicious npm Package Turns Hermes Agent into a Backdoor
+The malicious npm package @leadstack/crm-connect installed Hermes Agent on Linux servers, loaded it with keys and instructions from the attacker's server, and connected it to the attacker's Telegram bot as a boot-time systemd service.
 2026-11-18
 Microsoft agent-framework Compromised Twice on PyPI
 Versions 1.26.1 and 1.26.2 of agent-framework, the Microsoft Agent Framework metapackage on PyPI, shipped a credential stealer that runs at every Python start. SafeDep flagged both. The second release went up 33 minutes after the first, with the payload renamed and GitHub Actions OIDC theft added.
@@ -106,9 +109,6 @@ Since November 10, 2026, an attacker has used stolen GitHub tokens to push a cre
 2026-11-11
 Compromised bee-js and Swarm Desktop Steal Swarm Wallet Keys
 Version 13.3.0 of @ethersphere/bee-js, the JavaScript client for Swarm, added a postinstall hook that steals the Swarm node wallet key and installs a remote-access backdoor. Swarm Desktop 0.56.2 shipped the same loader.
-2026-11-10
-Backdoored PyPI Package fragment-api-py 14.4.2 Drains TON Wallets on Startup
-Version 14.4.2 of fragment-api-py, a PyPI client for Telegram Fragment, sends all TON and USDT from the user wallet to an attacker wallet when the client opens. The release is the old 13.0.0 code with a backdoor and a new version number.
 All research on the blog
 Ship code. Not malware.
 Start free with your first endpoint or repository, then roll out across your organization at your own pace.

@@ -203,12 +203,12 @@ Default Python kernel entry point
 Default coding tools
 3,638
 gpt-5.6-sol code mode, local core (Linux)
-4,259
+4,283
 Default Linux session; tools in context up front, 12 more deferred
 4,982
 CLI build / Claude Sonnet / Linux bash
 Jcode, all loaded
-7,030
+7,054
 Same session after loading every deferred tool
 Claude Code : not measured. Third-party leaked source lacks a verified default build/profile and pinned schema serializer.
 Normalized native tool definitions only · o200k_base · no MCP server tools or provider framing · method · data
@@ -295,6 +295,40 @@ commit Extract OpenAI request construction and remove runtime input panics
 commit Handle ambient terminal title errors without interrupting the session
 commit Keep server diagnostics and native tool fallbacks within guardrails
 docs update weekly stars chart
+companion Fn opens an always-on Jarvis when none is running
+voice simplify Jarvis Jev gate to 'should Jarvis wake up and act on this?'
+jarvis Fn tap sends what Jarvis just heard; allow 0.5 gate threshold
+voice Jev judges a continuous transcript with more chat context
+voice restore Fn tap manual trigger accidentally reverted in 6257c47f4
+jarvis play a sound when speech triggers Jarvis (jarvis.listening.trigger_sound)
+jarvis speak an acknowledgement first, then a summary when done
+voice stream continuous utterances to Nari from speech onset
+jarvis play trigger sound on Fn tap; explain ignored taps while paused
+voice early-trigger Jarvis on gated Nari partials, soft-interrupt continuations
+jarvis provisional still_speaking requests, speak only after the user finishes
+companion configurable Jarvis key, jarvis_key = "rightshift" when Fn never reaches Linux
+voice stream live Nari revisions into the Heard caption as you speak
+commit Remove assistant-name bias from Nari dictation
+commit Document the Linux self-dev prerelease opt-in
+commit Point Linux testers to self-dev prereleases
+commit Give portable Linux self-dev builds a distinct prerelease identity
+commit Exercise self-dev identity propagation to hosted compiler
+commit Dispatch opt-in Linux prereleases after successful real selfdev builds
+commit Publish portable Linux self-dev prereleases for verified master commits
+commit Run self-dev publication regressions in CI
+commit Fast-path single-edit ASCII words during fuzzy transcript search
+commit Hide routine swarm wait receipts from the transcript
+commit Prefer short keyword sets found together in a user prompt
+commit Distinguish elapsed background task reviews from silence notices
+commit Wake the agent for a one-time review after five minutes of background execution
+commit Expose elapsed timer hook to background registration
+commit Document cancellation as a todo action
+commit Hide legacy cancelled tasks in live TUI todo lists
+commit Persist cancellation history separately from active todos
+commit Exclude retired todos from live picker and worker progress dots
+commit Clear a linked worker plan when its last lane item is withdrawn
+commit Withdraw todos by name with an archived reason and prerequisite checks
+commit Announce published Linux self-dev prereleases in Discord updates
 v1.0.1
 2026-11-18 · 1d ago
 Model catalog fix

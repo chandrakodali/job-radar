@@ -1,6 +1,6 @@
 Big news!
 dbt Labs + Fivetran: Building the Future of Data Together
-We’re excited to share that dbt Labs and Fivetran are merging to create the first end-to-end, open data infrastructure company. This goal of this merger is to accelerate our growth and strengthen our ability to serve customers around the world while keeping our people, culture, and community at the heart of everything we do.
+We’re excited to share that dbt Labs and Fivetran are merging to create the first end-to-end, open data infrastructure company. The goal of this merger is to accelerate our growth and strengthen our ability to serve customers around the world while keeping our people, culture, and community at the heart of everything we do.
 Read the press release
 Why dbt Labs
 Support data teams everywhere with a company united by shared values (and Slack). dbt Labs is up-leveling the analytics profession through a workflow we call analytics engineering. If you want to build a career helping analysts build theirs, we’d love to meet you.
@@ -31,8 +31,6 @@ Remote, Colorado, United States, AMER
 Partner Sales Manager
 Remote, Japan, APAC
 Senior Partner Manager
-Fivetran Reseller Partner Development Manager, EMEA
-Remote, United Kingdom, EMEA
 Analytics Department
 Senior Product Analyst
 Oakland, California, United States, AMER
@@ -48,7 +46,7 @@ Denver, Colorado, United States, AMER
 Customer Solutions Architect (NYC)
 USA - New York (dbt)
 Manager, Account Management
-Denver, Colorado, United States, AMER; USA - Austin (dbt)
+Manager Account Management
 Customer Support Department
 Manager, Customer Support Engineering
 Remote, Australia, APAC
@@ -64,14 +62,14 @@ Toronto, Ontario, Canada
 Software Engineer
 Staff Software Engineer, Backend
 Principal Software Engineer, AI Tooling & Adoption
-Staff Software Engineer - Full Stack
-Staff Software Engineer_Fusion Adapters
-Staff Software Engineer - Developer Productivity
-Staff Software Engineer - Infrastructure
-Senior Software Engineer - Developer Productivity
+Staff Software Engineer, Full Stack
+Staff Software Engineer, Fusion Adapters
+Staff Software Engineer, Developer Productivity
+Staff Software Engineer, Infrastructure
+Senior Software Engineer, Developer Productivity
 Manager, Software Engineering
 Remote, India, APAC
-Staff Software Engineer-dbt core
+Staff Software Engineer, dbt core
 Bangalore, India
 Senior Software Engineer, Metadata
 Ontario, Canada
@@ -80,7 +78,7 @@ Software Engineer II
 Staff Software Engineer, Metadata
 Oakland, California, United States
 Engineering Manager, Metadata
-Senior Software Development Engineer in Test - Database Automation
+Senior Software Development Engineer in Test, Database Automation
 Technical Program Manager, Security
 Senior Software Engineer - Orchestration
 Senior Staff Site Reliability Engineer
@@ -95,6 +93,7 @@ Senior Site Reliability Engineer
 Lead Full Stack Engineer
 Senior Full Stack Engineer
 Staff Program Manager, Knowledge Management
+Engineering Manager
 Finance Department
 Tax Manager
 Senior International Accountant
@@ -135,7 +134,7 @@ Remote, Any, United States, AMER
 Staff Technical Writer
 Senior Product Designer
 Senior Pricing & Monetization Data Scientist
-Product Designer II
+Product Designer
 Professional Services Team
 Senior Technical Instructor (US East)
 Remote, Connecticut, United States, AMER
@@ -160,6 +159,7 @@ Business Development Representative (Sydney)
 Sydney, New South Wales, Australia, APAC
 Business Development Representative (Denver)
 UKI Enterprise Sales AE
+Remote, United Kingdom, EMEA
 Senior Solutions Architect
 Manager, Sales Engineering Specialists
 Principal Partner Solutions Architect (GSI)
@@ -168,11 +168,10 @@ Senior Value Engineer
 Sales/Business Development Team
 Business Development Representative
 Business Development Representative, German Speaking
-Sales Development Representative - Italian and Spanish Speaker
+Sales Development Representative, Italian and Spanish Speaker
 IRL - Dublin (dbt)
 Sales Development Representative, German Speaking
 Strategy & Operations Department
-GTM Strategy & Planning Manager
 Revenue Operations Manager
 Global Head of Deal Strategy and Operations
 Senior Partner Operations Manager
@@ -184,3 +183,4 @@ Senior Staff Systems Engineer, Data & Integrations
 Senior Systems Engineer, Data and Integrations
 Systems Engineer II - R&D Business Systems
 Senior People Systems Engineer
+Senior Systems Engineer, Customer Support Systems

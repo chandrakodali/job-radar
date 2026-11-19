@@ -41,8 +41,8 @@ Security-One-27B
 security-one-27b scores security events and returns probabilities your application can use to route decisions.
 Superagent connects with your integrations — the tools, coding agents, and delivery workflows you already run.
 changelog
-2026-11-13 (HEAD -> main) attack scenarios for red teaming
-Focus repository, application, and agent red teaming on a specific attack objective, or create your own reusable scenarios.
+2026-11-19 (HEAD -> main) image scanning for aws and gcp
+Connect Amazon ECR and Google Artifact Registry, investigate container vulnerabilities, and verify replacement images with exploit evidence.
 2026-11-11 security graph
 Explore connected security findings in the dashboard and give agents shared memory of evidence, comments, and review decisions through MCP.
 2026-11-03 import application inventory from cloudflare

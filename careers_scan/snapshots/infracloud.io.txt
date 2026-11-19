@@ -42,14 +42,14 @@ Submit your resume and tell us what you're looking for. We'll keep your informat
 LATEST BLOGS
 Find Out What's Happening At Improving
 Want to learn what it's like to work for Improving? Discover some of our blogs that showcase the company culture.
+Cloud
+Least-Privilege Metrics: Securing PromQL in Multi-Tenant Clusters
+Discover how to improve Prometheus security in multi-tenant environments and build safer, and more controlled access to monitoring data.
+Data
+Next-Gen Data: The Foundation Trusted AI Agents Depend On
+AI agents read everything they reach. Learn the 4 foundations of trusted data and start with 3 checks.
 How the Ratchet Pattern Keeps AI Code Quality from Slipping Backward
 Review cannot scale when AI agents triple pull request volume. See how the ratchet pattern moves measurable quality checks out of the human review queue.
-Newsroom
-Improving Launches Internal AI Certification Program to Standardize Trusted AI Use
-Improving has launched a platform-agnostic AI certification focused on trustworthy, demonstrated capability.
-Agile
-The Complete Guide to Choosing a Business Agility Partner
-This guide helps enterprise leaders compare business agility firms and choose a partner based on coaching depth, framework fit, and measurable results.
 FAQS
 Popular Questions About Working at Improving
 Still have questions about working at Improving? Below, we answer some of the most common inquiries we receive. If you still can't find what you’re looking for, feel free to reach out using the form below and our team will be happy to help.

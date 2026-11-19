@@ -2,9 +2,9 @@ The only agent that thinks for itself
 Autonomous Monitoring with self-learning AI built-in, operating independently across your entire stack.
 Metrics, Logs & Traces
 Machine learning & MCP
-5% CPU, 150MB RAM
+5% of one CPU core, about 200 MB RAM
 3GB disk, >1 year retention
-800+ integrations, zero config
+2,000+ integrations, zero config
 Dashboards, alerts out of the box
 > Discover Netdata Agents
 Try it now
@@ -176,8 +176,8 @@ Zero Code Instrumentation
 Cost Efficiency
 See the Architecture
 Integrations
-800+ collectors and notification channels, auto-discovered and ready out of the box.
-800+ data collectors
+2,000+ collectors and notification channels, auto-discovered and ready out of the box.
+2,000+ data collectors
 Auto-discovery & zero config
 Cloud, infra, app protocols
 Notifications out of the box
@@ -213,7 +213,7 @@ Enterprise efficiency without enterprise complexity—real ROI from day one.
 SOC 2 Type 2 Certified
 Zero data egress. Only metadata reaches the cloud. Your metrics stay on your infrastructure.
 Full Coverage
-800+ Collectors
+2,000+ Collectors
 Auto-discovered and configured. No manual setup required.
 Any Notification Channel
 Slack, PagerDuty, Teams, email, webhooks—all built-in.
@@ -262,7 +262,7 @@ VMware
 Red Hat
 Hetzner
 HPC
-See all 800+ integrations
+See all 2,000+ integrations
 Complete Visibility. Total Control.
 From install to "what broke and why" in under five minutes—no queries, no guesswork.
 LLM Monitoring
@@ -414,7 +414,7 @@ Discord, Forums, GitHub
 Premium support available
 > Get answers now
 60 Seconds to First Dashboard
-One command to install. Zero config. 800+ integrations documented.
+One command to install. Zero config. 2,000+ integrations documented.
 Linux, Windows, K8s, Docker
 Auto-discovers your stack
 > Read our documentation
@@ -456,7 +456,7 @@ Real-time operational status, incident history, and uptime for all Netdata Cloud
 Quick Start
 One-Command Install
 Copy, paste, monitoring in 60 seconds
-800+ Integrations
+2,000+ Integrations
 Every collector documented
 Learn Path
 112+ Technical Guides

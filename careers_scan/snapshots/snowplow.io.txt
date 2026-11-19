@@ -1,7 +1,73 @@
-Pricing Product Releases
 Log in
-Snowplow home
-Book a Demo Start for Free
+Try for free
+Book a demo
+Products
+Data foundation
+Event Tracking
+Trackers for web, apps, servers and the CDN
+Event Studio
+The tracking plan your team owns
+Data Pipeline
+Every event validated and enriched as it arrives
+Identities
+One customer across devices and logins
+Analytics
+Data Model Packs
+Ready-made models for digital and ecommerce analytics
+Agent Intelligence
+See the AI agents reading your site
+Real-time
+Signals
+Live customer context for your apps and agents
+Event Forwarding
+Send events to your tools as they happen
+Explore
+Deployment options
+Self-hosted pipeline
+Security and compliance
+Sample data
+Developer Hub
+Solutions
+Use cases
+Real-time personalization
+Context-aware AI agents
+Advanced analytics
+See all use cases
+Compare Snowplow
+Industries
+Media and entertainment
+Retail and ecommerce
+Games
+Software
+Financial services
+Teams
+Data engineering
+Software engineering
+Product
+Data science
+Marketing
+Integrations Customers
+Resources
+Build
+Documentation
+Solution accelerators
+Snowplow on GitHub
+Learn
+Blog
+Reports and guides
+Webinars and videos
+Demo videos
+Get help
+Community
+Customer support
+Find a partner
+Product releases
+Company
+About us
+Careers
+Newsroom
+Contact us
+Pricing
 Shape the future of data
 Everything we do starts with the customer experience. We build the tools businesses use to understand each customer's journey and make every step of it better.
 We're a global team of builders, thinkers and data obsessives, and we're just getting started.

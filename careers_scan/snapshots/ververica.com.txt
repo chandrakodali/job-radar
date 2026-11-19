@@ -111,30 +111,31 @@ We are looking for motivated Software Engineers to join our dynamic development 
 At Ververica, you will engage with one of the largest and most vibrant open-source communities while building solutions that have a global impact. You will connect with users worldwide and play a key role in addressing long-standing technical challenges using innovative approaches.
 Your Role and Responsibilities
 As a Software Engineer at Ververica, you will:
-- Leverage your expertise to solve challenging data engineering and stream processing problems.
-- Work on both open-source and proprietary products.
-- Take end-to-end ownership of new features, improvements, and fixes:
-- Problem breakdown, design, implementation, testing, and documentation.
-- Collaborate across diverse teams of developers.
+- Take end-to-end ownership of new features, improvements, and fixes: Problem breakdown, design, implementation, testing, and documentation.
 - Take ownership of project components, influencing their technical direction.
+- Apply AI-assisted engineering daily to turn requirements into reviewed, tested production code.
+- Leverage your expertise to solve challenging data engineering and stream processing problems.
+- Hands-on experience developing or operating Apache Flink applications (DataStream or SQL) in production.
+- Understanding of Flink's operational concepts: checkpoints and savepoints, state, job lifecycle, deployment modes, configuration and resource sizing.
+- Work on both open-source and proprietary products.
 - Mentor junior developers, fostering their growth.
-- Actively contribute to the Apache Flink community with support from the company.
-- (Optional) Share your work through internal/external talks and publications.
+- Collaborate across diverse teams of developers.
 What We’re Looking For
 You’ll thrive in this role if you:
 - Have several years of industry or academic experience in software engineering.
-- Possess deep expertise in Java and JVM mechanics .
-- Are well-versed in distributed systems and database systems .
+- Possess deep expertise in Java and JVM mechanics.
+- Are well-versed in distributed systems and database systems.
 - Have experience building data-intensive applications or solutions.
-- Demonstrate strong programming skills, with a solid grasp of data structures and algorith ms .
+- Demonstrate strong programming skills, with a solid grasp of data structures and algorithms.
 - Exhibit excellent software engineering practices:
-• Writing clean, testable, and maintainable code.
-• Creating thorough documentation.
-• Breaking down complex tasks into manageable sub-problems.
+Writing clean, testable, and maintainable code.
+Creating thorough documentation.
+Breaking down complex tasks into manageable sub-problems.
+Apply AI-assisted engineering with judgment, holding generated code to the same review and testing bar as your own.
 - Designing simple and robust APIs.
-- Are skilled in debugging and resolving issues in distributed systems .
+- Are skilled in debugging and resolving issues in distributed systems.
 - Have experience mentoring other developers through collaboration.
-- Are passionate about open-source projects , engaging with users, and exploring new opportunities.
+- Are passionate about open-source projects, engaging with users, and exploring new opportunities.
 Why Join Ververica?
 At Ververica, you’ll be part of a collaborative and innovative team at the forefront of real-time data processing technology. We offer:
 - A creative and inclusive work environment that values diversity.

@@ -18,7 +18,7 @@ A startup that builds counter-drone systems uses RxDB.
 MongoDB and Supabase are official partners.
 Working Student (m/f/d) Developer Experience, Frontend
 You write code for the RxDB core. It ships in the next npm release and runs in apps that real companies use every day. No internal tool, no slide deck, no ticket that nobody reads.
-17 € per hour, 10 to 20 hours per week, on site in Stuttgart, Germany 🇩🇪
+19 € per hour, 10 to 20 hours per week, on site in Stuttgart, Germany 🇩🇪
 Read the full advert
 Working Student (m/f/d) Developer Experience, Video and Social Media
 You own the RxDB video channel. Idea, camera, edit, upload. You decide what works, you see the numbers, and you get the freedom to try formats that nobody else in the database space is doing.
