@@ -12113,17 +12113,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 298,
+   "n": 299,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 298,
+   "n": 299,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 298,
+   "n": 299,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15024,8 +15024,8 @@
    373
   ],
   "2026-11-19": [
-   146,
-   304
+   149,
+   310
   ]
  },
  "resolved": {
@@ -66743,6 +66743,7 @@
   "dayforce:evri|CANDIDATEPORTAL:5889": "2026-11-17",
   "dayforce:gleason|CANDIDATEPORTAL:5881": "2026-11-15",
   "dayforce:herffjones|HERFFJONESCANDIDATEPORTAL:6514": "2026-11-15",
+  "dayforce:inframark|CANDIDATEPORTAL:13492": "2026-11-19",
   "dayforce:ipg|ipg:7234": "2026-11-14",
   "dayforce:kgs|candidateportal:16049": "2026-11-14",
   "dayforce:kgs|candidateportal:16053": "2026-11-14",
@@ -66992,6 +66993,7 @@
   "greenhouse:altentechnologyusa:5275782007": "2026-11-09",
   "greenhouse:altentechnologyusa:5294005007": "2026-11-12",
   "greenhouse:appspace:6239869004": "2026-11-09",
+  "greenhouse:ardentmc:8403165": "2026-11-19",
   "greenhouse:assystinc:4486030009": "2026-11-09",
   "greenhouse:astranis:4672217006": "2026-11-07",
   "greenhouse:atoms:8738274002": "2026-11-12",
@@ -67388,6 +67390,7 @@
   "icims:careers-americansystems.icims.com:5196": "2026-11-13",
   "icims:careers-americansystems.icims.com:5393": "2026-11-18",
   "icims:careers-americansystems.icims.com:5422": "2026-11-18",
+  "icims:careers-americansystems.icims.com:5521": "2026-11-19",
   "icims:careers-americas.icims.com:24970": "2026-11-09",
   "icims:careers-americas.icims.com:27413": "2026-11-12",
   "icims:careers-americas.icims.com:27563": "2026-11-09",
@@ -68431,6 +68434,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX:348476": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:349973": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:350444": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX:350692": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|CX:350905": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:340135": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:342348": "2026-11-16",
@@ -68444,6 +68448,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:348476": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:349973": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:350444": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:350692": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1001:350905": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:340135": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:342348": "2026-11-16",
@@ -68457,6 +68462,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:348476": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:349973": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:350444": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_1:350692": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_1:350905": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:340135": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:340915": "2026-11-12",
@@ -68480,6 +68486,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350114": "2026-11-13",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350444": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350510": "2026-11-12",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350692": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350905": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:340135": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342348": "2026-11-16",
@@ -68493,6 +68500,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:348476": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:349973": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:350444": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|jobearch:350692": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:350905": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:340135": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:342348": "2026-11-16",
@@ -68506,6 +68514,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:348476": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:349973": "2026-11-14",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:350444": "2026-11-14",
+  "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:350692": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:350905": "2026-11-19",
   "oracle:eewl.fa.us6.oraclecloud.com|CX:11890": "2026-11-13",
   "oracle:eexs.fa.us2.oraclecloud.com|GreenwoodVillageSouth:41612": "2026-11-08",
@@ -69485,6 +69494,7 @@
   "workable:christie-lites-3:26D143E2E2": "2026-11-08",
   "workable:credence:072FAF32A3": "2026-11-18",
   "workable:credence:BEA93CA48A": "2026-11-09",
+  "workable:credence:DEFB1F312A": "2026-11-19",
   "workable:cwill-us:B2199498C1": "2026-11-10",
   "workable:eagle-seven:04E273F368": "2026-11-12",
   "workable:flexion-robotics:60F67D4D1C": "2026-11-09",
@@ -70375,10 +70385,10 @@
  },
  "source_last": {
   "hn": "2026-11-19T14:37:14+00:00",
-  "remoteok": "2026-11-19T17:37:16+00:00",
+  "remoteok": "2026-11-19T19:37:16+00:00",
   "usajobs": "2026-11-19T19:07:15+00:00",
   "workable_search": "2026-11-19T19:07:15+00:00",
-  "wwr": "2026-11-19T18:37:17+00:00",
+  "wwr": "2026-11-19T19:37:16+00:00",
   "yc": "2026-11-19T19:07:15+00:00"
  },
  "title_rules": "c323075b4d70",
