@@ -12148,17 +12148,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 302,
+   "n": 303,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 302,
+   "n": 303,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 302,
+   "n": 303,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12238,11 +12238,6 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
-  },
-  "greenhouse:bayada": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-19"
   },
   "greenhouse:breezeairways": {
    "disabled_until": "2026-11-21",
@@ -15064,8 +15059,8 @@
    373
   ],
   "2026-11-19": [
-   152,
-   316
+   155,
+   322
   ]
  },
  "resolved": {
@@ -66051,6 +66046,7 @@
   "ashby:mercor:799ecfcc-4258-4075-8b11-12fc64fb2868": "2026-11-07",
   "ashby:mistral.ai:98e96edd-e91f-4558-a248-4e0a2765845b": "2026-11-07",
   "ashby:mistral.ai:fe471824-c80a-4ea4-9625-2217f81c52ae": "2026-11-11",
+  "ashby:nerdwallet:fc897ca4-9374-4f8c-8af1-59bf8ecfdd4b": "2026-11-19",
   "ashby:netic:178a50d3-f3e8-4031-829f-ce6d6f3ed245": "2026-11-15",
   "ashby:newlantern:adce896c-3fbe-4345-875d-ead3b48e6cef": "2026-11-16",
   "ashby:niantic-spatial:038011fd-5fe3-4b7f-863c-919b2af28597": "2026-11-07",
@@ -66147,6 +66143,7 @@
   "avature:deloittecm.avature.net|careers:11152": "2026-11-14",
   "avature:deloittecm.avature.net|careers:11160": "2026-11-14",
   "avature:deloitteus.avature.net|careers:350126": "2026-11-15",
+  "avature:deloitteus.avature.net|careers:352171": "2026-11-19",
   "avature:deloitteus.avature.net|careers:352216": "2026-11-15",
   "avature:deloitteus.avature.net|careers:353839": "2026-11-15",
   "avature:deloitteus.avature.net|careers:354981": "2026-11-15",
@@ -66875,6 +66872,7 @@
   "eightfold:nvidia:893397528298": "2026-11-14",
   "eightfold:nvidia:893397545443": "2026-11-14",
   "eightfold:nvidia:893397548491": "2026-11-19",
+  "eightfold:nvidia:893397632800": "2026-11-19",
   "eightfold:nvidia:893397891086": "2026-11-14",
   "eightfold:nvidia:893397913224": "2026-11-14",
   "eightfold:nvidia:893398004321": "2026-11-19",
@@ -67555,6 +67553,7 @@
   "icims:careers-dminc.icims.com:29069": "2026-11-12",
   "icims:careers-dminc.icims.com:29072": "2026-11-18",
   "icims:careers-dminc.icims.com:29073": "2026-11-17",
+  "icims:careers-dminc.icims.com:29163": "2026-11-19",
   "icims:careers-e2optics.icims.com:3575": "2026-11-09",
   "icims:careers-e2optics.icims.com:3842": "2026-11-09",
   "icims:careers-edgewaterit.icims.com:2368": "2026-11-09",
@@ -68247,6 +68246,7 @@
   "jibe:careers.akima.com:27761": "2026-11-13",
   "jibe:careers.akima.com:27791": "2026-11-13",
   "jibe:careers.akima.com:28184": "2026-11-17",
+  "jibe:careers.akima.com:28614": "2026-11-19",
   "jibe:careers.medpace.com:12284": "2026-11-09",
   "jibe:careers.medpace.com:12452": "2026-11-09",
   "jibe:careers.medpace.com:12666": "2026-11-09",
@@ -68677,6 +68677,7 @@
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:304218": "2026-11-12",
   "oracle:ibqbjb.fa.ocs.oraclecloud.com|Honeywell:161747": "2026-11-13",
   "oracle:ibqbjb.fa.ocs.oraclecloud.com|Honeywell:162001": "2026-11-12",
+  "oracle:ibwujb.fa.ocs.oraclecloud.com|CX_1001:11337": "2026-11-19",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210762543": "2026-11-10",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210777835": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210780218": "2026-11-10",
@@ -69416,6 +69417,7 @@
   "smartrecruiters:abbvie:3743990016729946": "2026-11-12",
   "smartrecruiters:aecom2:744000161351219": "2026-11-12",
   "smartrecruiters:aecom2:744000162400439": "2026-11-18",
+  "smartrecruiters:aecom2:744000162605299": "2026-11-19",
   "smartrecruiters:aristanetworks:744000160957819": "2026-11-12",
   "smartrecruiters:bertelsmann-jobs:744000160577350": "2026-11-12",
   "smartrecruiters:bet3651:744000160877785": "2026-11-10",
@@ -70442,10 +70444,10 @@
  },
  "source_last": {
   "hn": "2026-11-19T20:37:19+00:00",
-  "remoteok": "2026-11-19T19:37:16+00:00",
+  "remoteok": "2026-11-19T21:37:18+00:00",
   "usajobs": "2026-11-19T19:07:15+00:00",
   "workable_search": "2026-11-19T19:07:15+00:00",
-  "wwr": "2026-11-19T20:37:19+00:00",
+  "wwr": "2026-11-19T21:37:18+00:00",
   "yc": "2026-11-19T19:07:15+00:00"
  },
  "title_rules": "c323075b4d70",
