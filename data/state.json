@@ -11752,11 +11752,6 @@
   "lever:jobgether:73d75c56-c3b4-403f-b49d-93905c180592": "2026-11-18"
  },
  "fails": {
-  "apple:usa": {
-   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
-   "n": 1,
-   "since": "2026-11-19"
-  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-25",
    "err": "HTTP 404",
@@ -11829,6 +11824,11 @@
    "n": 3,
    "since": "2026-11-17"
   },
+  "ashby:cedar": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-19"
+  },
   "ashby:chainlink-labs": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -11890,8 +11890,9 @@
    "since": "2026-11-07"
   },
   "ashby:interface": {
+   "disabled_until": "2026-11-26",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-19"
   },
   "ashby:kinetic": {
@@ -12112,17 +12113,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 292,
+   "n": 293,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 292,
+   "n": 293,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 292,
+   "n": 293,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15023,7 +15024,7 @@
   ],
   "2026-11-19": [
    120,
-   255
+   257
   ]
  },
  "resolved": {
@@ -65835,6 +65836,7 @@
   "apple:usa:200693928": "2026-11-14",
   "apple:usa:200694149": "2026-11-14",
   "apple:usa:200694182": "2026-11-14",
+  "apple:usa:200694762": "2026-11-19",
   "apple:usa:200694942": "2026-11-14",
   "apple:usa:200694969": "2026-11-14",
   "apple:usa:200694981": "2026-11-14",
@@ -66781,6 +66783,7 @@
   "eightfold:ford:563568454126356": "2026-11-17",
   "eightfold:globalfoundries:563980771068234": "2026-11-17",
   "eightfold:hp:44506725": "2026-11-14",
+  "eightfold:lamresearch:1099551265329": "2026-11-19",
   "eightfold:mercadolibre:43350162": "2026-11-18",
   "eightfold:mercadolibre:45520009": "2026-11-14",
   "eightfold:morganstanley:549800280238": "2026-11-18",
@@ -68082,15 +68085,67 @@
   "jazzhr:solvarus:YldyxQgNeH": "2026-11-12",
   "jazzhr:spacedynamicslaboratory:uXUYmgNNi5": "2026-11-10",
   "jazzhr:sunbirdsoftwareinc:Ua0gIGsIYT": "2026-11-09",
+  "jazzhr:symsstrategicgroup:12AjVIR0Al": "2026-11-19",
+  "jazzhr:symsstrategicgroup:2UqVpbd9lS": "2026-11-19",
+  "jazzhr:symsstrategicgroup:50Q17Ft5um": "2026-11-19",
+  "jazzhr:symsstrategicgroup:6ptaay4BVQ": "2026-11-19",
+  "jazzhr:symsstrategicgroup:7bTYB7y6gp": "2026-11-19",
+  "jazzhr:symsstrategicgroup:7uHqIcKrZe": "2026-11-19",
+  "jazzhr:symsstrategicgroup:86hfY31iUz": "2026-11-19",
+  "jazzhr:symsstrategicgroup:94YihTpWkW": "2026-11-19",
+  "jazzhr:symsstrategicgroup:AwRKavolyq": "2026-11-19",
+  "jazzhr:symsstrategicgroup:BltgfoKFqs": "2026-11-19",
+  "jazzhr:symsstrategicgroup:DWZAX1OUa9": "2026-11-19",
+  "jazzhr:symsstrategicgroup:EJyLO4U0cS": "2026-11-19",
   "jazzhr:symsstrategicgroup:EOgDE7PEfl": "2026-11-19",
+  "jazzhr:symsstrategicgroup:EeACZs7aas": "2026-11-19",
   "jazzhr:symsstrategicgroup:G3M5zuUvS6": "2026-11-19",
+  "jazzhr:symsstrategicgroup:G4gzNAvfQb": "2026-11-19",
+  "jazzhr:symsstrategicgroup:GZQ2pW3Eic": "2026-11-19",
+  "jazzhr:symsstrategicgroup:INArWVt5jp": "2026-11-19",
+  "jazzhr:symsstrategicgroup:IWUMK9MNJN": "2026-11-19",
+  "jazzhr:symsstrategicgroup:KfNJAYlclU": "2026-11-19",
   "jazzhr:symsstrategicgroup:LlcolPD4NG": "2026-11-19",
+  "jazzhr:symsstrategicgroup:M7plvVIErN": "2026-11-19",
+  "jazzhr:symsstrategicgroup:MJm7HTnUFG": "2026-11-19",
   "jazzhr:symsstrategicgroup:MoQGHgCusq": "2026-11-19",
+  "jazzhr:symsstrategicgroup:NNImkVlBdl": "2026-11-19",
+  "jazzhr:symsstrategicgroup:ODv0a62kKE": "2026-11-19",
   "jazzhr:symsstrategicgroup:PiB8aHWBLj": "2026-11-19",
+  "jazzhr:symsstrategicgroup:TCHrICL6yA": "2026-11-19",
+  "jazzhr:symsstrategicgroup:TIs6aIAZd2": "2026-11-19",
+  "jazzhr:symsstrategicgroup:VeWzOWTYSF": "2026-11-19",
+  "jazzhr:symsstrategicgroup:Z6cKCI2XW8": "2026-11-19",
+  "jazzhr:symsstrategicgroup:ZWCkwoMOHW": "2026-11-19",
+  "jazzhr:symsstrategicgroup:ZtkYrcETyC": "2026-11-19",
+  "jazzhr:symsstrategicgroup:aaGfK1ym6C": "2026-11-19",
+  "jazzhr:symsstrategicgroup:dhirSAsY9L": "2026-11-19",
   "jazzhr:symsstrategicgroup:feeE3nkiAY": "2026-11-19",
+  "jazzhr:symsstrategicgroup:fzQlS1dPEZ": "2026-11-19",
+  "jazzhr:symsstrategicgroup:hNd4Qjo8Rx": "2026-11-19",
+  "jazzhr:symsstrategicgroup:hZ3NhsXOik": "2026-11-19",
+  "jazzhr:symsstrategicgroup:huJcIa6toW": "2026-11-19",
+  "jazzhr:symsstrategicgroup:iCU8waEE0B": "2026-11-19",
+  "jazzhr:symsstrategicgroup:iynLJ6ITtv": "2026-11-19",
+  "jazzhr:symsstrategicgroup:j3BrFOTNj9": "2026-11-19",
+  "jazzhr:symsstrategicgroup:kWW3NmJrvS": "2026-11-19",
+  "jazzhr:symsstrategicgroup:kb2ltwoB36": "2026-11-19",
   "jazzhr:symsstrategicgroup:lUnAsO2Gnj": "2026-11-19",
+  "jazzhr:symsstrategicgroup:lYCua9ALzZ": "2026-11-19",
+  "jazzhr:symsstrategicgroup:lmOpPr3p9g": "2026-11-19",
+  "jazzhr:symsstrategicgroup:nTTwnW5jrM": "2026-11-19",
+  "jazzhr:symsstrategicgroup:oNqd1xHdCJ": "2026-11-19",
+  "jazzhr:symsstrategicgroup:p6qDfSSLZv": "2026-11-19",
+  "jazzhr:symsstrategicgroup:pldxWWtGgP": "2026-11-19",
+  "jazzhr:symsstrategicgroup:q0NT5hS93I": "2026-11-19",
   "jazzhr:symsstrategicgroup:sA2RhagTdU": "2026-11-19",
+  "jazzhr:symsstrategicgroup:saD6KeC6Pu": "2026-11-19",
+  "jazzhr:symsstrategicgroup:t08v9n9ApH": "2026-11-19",
   "jazzhr:symsstrategicgroup:uNqBDBfMWu": "2026-11-19",
+  "jazzhr:symsstrategicgroup:y8OyhJGnKz": "2026-11-19",
+  "jazzhr:symsstrategicgroup:yqjxosz8vB": "2026-11-19",
+  "jazzhr:symsstrategicgroup:z3Ca2kpiME": "2026-11-19",
+  "jazzhr:symsstrategicgroup:zi8HNfeHc7": "2026-11-19",
   "jazzhr:synecsolu:unMc0EES16": "2026-11-18",
   "jazzhr:tapengineering:9PcUStppy4": "2026-11-09",
   "jazzhr:tapengineering:9wxqKc7NVI": "2026-11-09",
@@ -69422,6 +69477,7 @@
   "workable:raydar:6083239DEE": "2026-11-08",
   "workable:raydar:6D4A3A5075": "2026-11-14",
   "workable:raydar:A0FB08A1A8": "2026-11-14",
+  "workable:raydar:AB009A2011": "2026-11-19",
   "workable:raydar:B358652A7B": "2026-11-08",
   "workable:raydar:C4632E4865": "2026-11-08",
   "workable:raydar:CEB85BADA5": "2026-11-09",
@@ -70279,6 +70335,7 @@
   "zoho:indigobeam:792375000009305132": "2026-11-15",
   "zoho:netrist:363984000011608001": "2026-11-14",
   "zoho:netrist:363984000011632047": "2026-11-14",
+  "zoho:netrist:363984000011720097": "2026-11-19",
   "zoho:omnyon:403463000018462266": "2026-11-14",
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
@@ -70287,7 +70344,7 @@
   "remoteok": "2026-11-19T15:37:14+00:00",
   "usajobs": "2026-11-19T16:07:23+00:00",
   "workable_search": "2026-11-19T16:07:23+00:00",
-  "wwr": "2026-11-19T15:37:14+00:00",
+  "wwr": "2026-11-19T16:37:17+00:00",
   "yc": "2026-11-19T16:07:23+00:00"
  },
  "title_rules": "c323075b4d70",
