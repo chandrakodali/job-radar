@@ -12148,17 +12148,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 305,
+   "n": 306,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 305,
+   "n": 306,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 305,
+   "n": 306,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -65958,6 +65958,7 @@
   "ashby:buspatrol:e47215df-7e4e-4751-a090-b14f2340f625": "2026-11-14",
   "ashby:buspatrol:e5264fb2-c237-4a06-bcba-fd5aeaa31569": "2026-11-17",
   "ashby:cartesia:1a254e7d-54f2-4bee-bfdf-0c49d5e2909e": "2026-11-12",
+  "ashby:cerebras:2928d88c-d048-4854-9e69-7572113b036c": "2026-11-19",
   "ashby:chainalysis-careers:79370191-233b-4d60-94cc-26914b98f75e": "2026-11-12",
   "ashby:claylabs:041af20f-23db-4dcc-9cf4-c860d34ecf0d": "2026-11-07",
   "ashby:clera:00983741-6f9e-4b8d-80c9-8252bc481d10": "2026-11-07",
@@ -66869,6 +66870,7 @@
   "eightfold:nvidia:893395964724": "2026-11-19",
   "eightfold:nvidia:893396402568": "2026-11-15",
   "eightfold:nvidia:893396422329": "2026-11-15",
+  "eightfold:nvidia:893396867645": "2026-11-19",
   "eightfold:nvidia:893397112878": "2026-11-19",
   "eightfold:nvidia:893397231867": "2026-11-15",
   "eightfold:nvidia:893397232031": "2026-11-14",
@@ -66883,6 +66885,7 @@
   "eightfold:nvidia:893397913224": "2026-11-14",
   "eightfold:nvidia:893398004321": "2026-11-19",
   "eightfold:nvidia:893398076425": "2026-11-19",
+  "eightfold:nvidia:893398092323": "2026-11-19",
   "eightfold:nvidia:893398171553": "2026-11-19",
   "eightfold:nvidia:893398245783": "2026-11-14",
   "eightfold:nvidia:893398376572": "2026-11-19",
@@ -68483,6 +68486,7 @@
   "oracle:edel.fa.us2.oraclecloud.com|CX_2001:21683": "2026-11-08",
   "oracle:edel.fa.us2.oraclecloud.com|CX_2001:21684": "2026-11-08",
   "oracle:edel.fa.us2.oraclecloud.com|CX_2001:21761": "2026-11-08",
+  "oracle:edqv.fa.us2.oraclecloud.com|CX:21003773": "2026-11-19",
   "oracle:edyy.fa.us2.oraclecloud.com|CX:17617": "2026-11-14",
   "oracle:edyy.fa.us2.oraclecloud.com|CX_2002:17617": "2026-11-12",
   "oracle:eedu.fa.em3.oraclecloud.com|CX_1003:202607088": "2026-11-11",

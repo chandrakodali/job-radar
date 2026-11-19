@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**565 jobs**, newest first. Updated Thu Nov 19, 4:37 PM CST from 12,526 company job boards and other sources.
+**565 jobs**, newest first. Updated Thu Nov 19, 5:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -615,12 +615,14 @@ Jump to: [Thu 19 (33)](#thursday-nov-19-33) · [Wed 18 (47)](#wednesday-nov-18-4
 | 5:10 PM | [Senior Software Engineer - Transport Infrastructure](https://job-boards.greenhouse.io/cssmerge/jobs/8940528002) | Atoms | San Francisco, CA | 55 | senior title, years not stated; repost |
 | 5:09 PM | [Site Reliability Engineer - OCI (Start Date: Feb 2027)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350510) | Oracle | Nashville, TN, United States | 60 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (617)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (621)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 4:45 PM | [Design for Reliability Engineer](https://jobs.ashbyhq.com/cerebras/2928d88c-d048-4854-9e69-7572113b036c) | Cerebras | Sunnyvale, CA (onsite) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 4:34 PM | [Network Engineer III (IP)](https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003773) | GCI | United States | 30 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 3:50 PM | [System Administrator (202611A)](https://jobs.lever.co/purvis/89d3aa5a-c945-4964-8289-e3b00687d3e2) | Purvis Systems | Newport, RI (onsite) | 50 | rules: 3+ yrs exp; needs: security clearance |
 | 3:28 PM | [Sr. Network Engineer (CMMC)](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11337) | Ralliant | Beaverton, OR, United States +1 more (hybrid) | 35 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 3:28 PM | [Sr. Network Engineer (CMMC)](https://ralliant.eightfold.ai/careers/job/1133916942979) | Tektronix | Beaverton, OR, US (onsite) | 35 | rules: 7+ yrs exp; senior title; needs: ITAR |
@@ -668,6 +670,8 @@ Jump to: [Thu 19 (33)](#thursday-nov-19-33) · [Wed 18 (47)](#wednesday-nov-18-4
 | date only | [Software DevOps Engineer, Networking](https://nvidia.eightfold.ai/careers/job/893397724522) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Senior Forward Deployed Engineer, Forward Deployment Engineering](https://www.amazon.jobs/en/jobs/10609075/senior-forward-deployed-engineer-forward-deployment-engineering) | Amazon Web Services, Inc. | New York, New York, USA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior AI and HPC Observability Engineer](https://nvidia.eightfold.ai/careers/job/893393807684) | Nvidia | Santa Clara, CA, US; Seattle, WA, US (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| date only | [Senior Software Engineer, Core Infrastructure Services - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893396867645) | Nvidia | US; TX,US; US; CA,US (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
+| date only | [Software Engineer, SRE and Production Engineering - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893398092323) | Nvidia | Santa Clara, CA, US; TX,US; VA,US; SD,US (remote) | 37 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:44 AM | [Site Reliability Engineer - Platform](https://jobs.ashbyhq.com/e2b/2a86d352-77a2-4b32-9b36-7a0cef76262f) | E2B | San Francisco (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:19 AM | [Senior AI Observability engineer](https://lamresearch.eightfold.ai/careers/job/1099551265329) | Lamresearch | Fremont, CA, US (onsite) | 50 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 9:36 AM | [Network Engineer / Network and Server Support](https://jobs.workable.com/view/i2NTxLUjaGKAkpJGcKhAie/hybrid-network-engineer-%7C-network-and-server-support-in-harrisburg-at-adept-consulting-services%2C-inc.) | Adept Consulting Services, In… | Harrisburg, Pennsylvania (hybrid) | 50 | rules: staffing/consulting firm: verify it's real; adjacent title, li… |
@@ -1017,10 +1021,6 @@ Jump to: [Thu 19 (33)](#thursday-nov-19-33) · [Wed 18 (47)](#wednesday-nov-18-4
 | date only | [HPC Infrastructure Engineer - Travel role](https://apply.workable.com/pgtek/j/8D5FBC5B47/) | Pgtek | Chicago, Illinois, United States +6 more | 68 | rules: 2+ yrs exp; needs: Security Clearance |
 | date only | [Cloud Support Engineer](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Cloud-Support-Engineer_R56415-1) | Cadence Design Systems | SAN JOSE | 65 | rules: needs: ITAR |
 | date only | [Senior Network Engineer](https://ncsecu.wd1.myworkdayjobs.com/SECU/job/Operations---Raleigh---Creedmoor-Rd/Senior-Network-Engineer_JR-16851) | State Employees' Credit Union | Operations - Raleigh - Creedmoor Rd | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| date only | [Senior Site Reliability Engineer – Observability](https://careers.cisco.com/global/en/job/CISCISGLOBAL2028160EXTERNALENGLOBAL) | Cisco | San Francisco, California, United State… | 55 | rules: 4+ yrs exp; senior title; needs: must be a U.S. Person |
-| date only | [Reliability Engineer II/III/Sr](https://williams.wd5.myworkdayjobs.com/External/job/UT-Eagle-Mountain/Reliability-Engineer-II-III-Sr_R113047-1) | Williams | UT Eagle Mountain; Relocation Eligible | 35 | rules: senior title, years not stated; adjacent title, little DevOps/… |
-| date only | [Senior AI Platform Engineer](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/Senior-AI-Platform-Engineer_2026-0017824) | U.S. Bank | Chicago, IL; Atlanta, GA; Hopkins, MN; … | 50 | rules: 7+ yrs exp; senior title; E-Verify; asks for 7+ years of exper… |
-| date only | [Senior IT Change Coordinator - Cloud and DevOps](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Senior-IT-Change-Coordinator---Cloud-and-DevOps_R0122257) | USAA | San Antonio Home Office I | 40 | rules: 6+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
 
 </details>
 
