@@ -11744,11 +11744,14 @@
   "greenhouse:twinstream:5018760101": "2026-11-12",
   "greenhouse:vast:4726228006": "2026-11-12",
   "greenhouse:yipitdata:8329263": "2026-11-12",
+  "lever:jobgether:01f7311c-288a-4580-a8e5-4e1ef8118827": "2026-11-19",
   "lever:jobgether:0452a360-4c88-44a6-8b62-dc642799c5c9": "2026-11-18",
   "lever:jobgether:0c283a8d-6190-4326-acea-e12a22f0bc12": "2026-11-16",
   "lever:jobgether:6ee78390-07bc-4e75-a921-511307f32e34": "2026-11-16",
   "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-16",
-  "lever:jobgether:73d75c56-c3b4-403f-b49d-93905c180592": "2026-11-18"
+  "lever:jobgether:73d75c56-c3b4-403f-b49d-93905c180592": "2026-11-18",
+  "lever:jobgether:7f612467-c5a6-46d0-9e01-7bf055856e74": "2026-11-19",
+  "lever:jobgether:b45aadee-df74-4ad4-8acd-f23de8ee8060": "2026-11-19"
  },
  "fails": {
   "ashby:Airweave": {
@@ -12113,17 +12116,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 299,
+   "n": 300,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 299,
+   "n": 300,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 299,
+   "n": 300,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -66833,8 +66836,11 @@
   "eightfold:nvidia:893397545443": "2026-11-14",
   "eightfold:nvidia:893397891086": "2026-11-14",
   "eightfold:nvidia:893397913224": "2026-11-14",
+  "eightfold:nvidia:893398004321": "2026-11-19",
   "eightfold:nvidia:893398245783": "2026-11-14",
+  "eightfold:nvidia:893398376572": "2026-11-19",
   "eightfold:nvidia:893398591334": "2026-11-16",
+  "eightfold:nvidia:893398605763": "2026-11-19",
   "eightfold:nvidia:893398660270": "2026-11-17",
   "eightfold:nvidia:893398699304": "2026-11-14",
   "eightfold:nvidia:893398750368": "2026-11-16",
