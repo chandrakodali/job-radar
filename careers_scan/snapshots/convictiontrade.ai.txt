@@ -3,10 +3,10 @@ PRODUCT Markets Signals How it works FAQ
 COMPANY Careers Ambassadors Contact
 X Discord LinkedIn
 Open Roles
-Both roles work directly with the founders.
+All roles work directly with the founders.
 Engineering, Full stack
-Founding Engineer
-As a Founding Engineer, you will work directly with the founders to build production-grade multi-agent systems, backend infrastructure, and financial data systems that power research and live trading.
+Member of Technical Staff
+As a Member of Technical Staff, you will work directly with the founders to build production-grade multi-agent systems, backend infrastructure, and financial data systems that power research and live trading.
 Apply
 Full-time San Francisco, CA, US $90K - $210K 0.50% - 2.00% equity Any (new grads ok) Visa: Will sponsor
 What You’ll Do
@@ -41,3 +41,21 @@ Understanding of common sources of backtest error, including look-ahead bias, su
 Understanding of financial markets, order types, market structure, and trade execution
 Experience with data analysis libraries and quantitative research tooling
 We’re especially interested in people who have worked in quantitative finance, trading, machine learning, or financial markets. Previous experience at a hedge fund, proprietary trading firm, asset manager, fintech company, market data provider, or quantitative research group is a plus.
+Operations
+Campus Ambassador
+As a Campus Ambassador, you will work directly with Conviction’s founding team to grow our presence at US universities, introduce students to AI-powered trading, and drive adoption through campus communities, content, partnerships, and events.
+Internship Remote $20 - $30 / hourly Any school year Visa: Will sponsor
+Campus Growth – Introduce Conviction to students and drive signups through personal networks, student organizations, trading clubs, and campus communities
+Content Creation – Create and share original content on X, LinkedIn, Instagram, and TikTok, including product demos, educational content, and creative campaigns
+Partnership Development – Build relationships with finance clubs, investing societies, entrepreneurship organizations, and student creators
+Event Organization – Organize or co-host product demos, trading workshops, and campus meetups
+User Acquisition & Onboarding – Help students get started with Conviction, build their first trading strategies, and explore the platform’s features
+Growth Experimentation – Test new acquisition strategies, track performance, and collaborate directly with the founding team to scale successful initiatives
+Currently enrolled at a US university
+Interest in startups, fintech, finance, AI, or trading
+Active involvement in campus organizations, student communities, or social media
+Strong communication and interpersonal skills
+Comfortable creating content, organizing events, and introducing new products
+Creative, proactive, and willing to experiment with unconventional growth strategies
+Ability to work independently and take ownership of campus growth initiatives
+Previous experience in campus marketing, student leadership, content creation, or community building is a plus, but not required. No prior trading experience or large social media following is necessary.

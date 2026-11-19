@@ -1,6 +1,6 @@
 # Cloud, DevOps, SRE, platform and infrastructure roles (no job board)
 
-Updated 2026-11-18 21:40 UTC. **95 open roles** at 73 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
+Updated 2026-11-19 09:34 UTC. **95 open roles** at 73 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
 
 **Apply:** the ✉ link opens an email to the company's hiring address with the subject filled in; attach your résumé. Scores and notes use the radar's rules (config.yaml): higher is a better early-career fit; "location unclear" means the page didn't say, so check it. 🆕 = first seen in the last 2 days.
 
@@ -62,9 +62,9 @@ Updated 2026-11-18 21:40 UTC. **95 open roles** at 73 companies that post jobs o
 | 42 | [Software Engineer, Infrastructure](https://orchid.ai/careers/software-engineer-infrastructure) | Orchid | Remote | [✉ work@orchid.ai](mailto:work@orchid.ai?subject=Application%3A%20Software%20Engineer%2C%20Infrastructure%20%E2%80%93%20Orchid) | Nov 11 | location unclear |
 | 42 | [DevOps Engineer](https://www.outsourcingdev.com/careers/) | OutsourcingDev | Remote | [Careers page](https://www.outsourcingdev.com/careers/) | Nov 11 | location unclear |
 | 42 | [Agent Infrastructure Engineer](https://pydantic.dev/jobs/agent-infrastructure-engineer) | Pydantic | Fully remote | [✉ careers@pydantic.dev](mailto:careers@pydantic.dev?subject=Application%3A%20Agent%20Infrastructure%20Engineer%20%E2%80%93%20Pydantic) | Nov 11 | location unclear |
+| 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
 | 42 | [Cloud Full-Stack Developer](https://wazuh.com/job/full-stack-developer-cloud/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/full-stack-developer-cloud/) | Nov 11 | location unclear |
 | 42 | [Cloud Ops Engineer](https://wazuh.com/job/cloud-ops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-ops-engineer/) | Nov 11 | location unclear |
-| 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
 | 40 | [Senior DevOps Engineer](https://broadleafcommerce.com/senior-devops-engineer/) | Broadleaf Commerce | ? | [✉ careers@broadleafcommerce.com](mailto:careers@broadleafcommerce.com?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20Broadleaf%20Commerce) | Nov 13 | 3+ yrs exp; senior title; location unclear |
 | 40 | [Senior Backend / ML Ops Engineer](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Drafted | In person | [Careers page](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Nov 13 | senior title, years not stated |
 | 40 | [Network Systems Engineer](https://efference.ai/careers/wireless-networking-engineer/) | Efference | On-site | [✉ team@efference.ai](mailto:team@efference.ai?subject=Application%3A%20Network%20Systems%20Engineer%20%E2%80%93%20Efference) | Nov 11 |  |
@@ -117,14 +117,13 @@ Updated 2026-11-18 21:40 UTC. **95 open roles** at 73 companies that post jobs o
 | 40 | [Senior Application Security Engineer](https://www.red-gate.com/our-company/careers/current-opportunities/senior-application-security-engineer) | Redgate Software | ? | [Apply](https://jobs.ashbyhq.com/red-gate/354fd654-ed2d-461a-8ff7-a8b6e810a3a5/application) | Nov 13 | senior title, years not stated |
 | 30 | [Senior AI Platform Engineer](https://www.guesty.com/careers-open-positions/co/israel/D2.374/senior-ai-platform-engineer/) | Guesty | Israel | [Careers page](https://www.guesty.com/careers-open-positions/co/israel/D2.374/senior-ai-platform-engineer/) | Nov 13 | 5+ yrs exp; senior title |
 
-## Need a clearance or US citizenship (10)
+## Need a clearance or US citizenship (9)
 
 | Score | Role | Company | Location | Apply | Since | Notes |
 |---:|---|---|---|---|---|---|
 | 40 | [Embedded Linux Engineer](https://efference.ai/careers/embedded-linux-engineer/) | Efference | On-site | [✉ team@efference.ai](mailto:team@efference.ai?subject=Application%3A%20Embedded%20Linux%20Engineer%20%E2%80%93%20Efference) | Nov 11 | adjacent title, little DevOps/cloud work in the text |
 | 30 | [Agentic data infrastructure engineer](https://linewise.io/careers/agentic-data-infrastructure-engineer/) | Linewise | ? | [✉ info@linewise.io](mailto:info@linewise.io?subject=Application%3A%20Agentic%20data%20infrastructure%20engineer%20%E2%80%93%20Linewise) | Nov 11 | 5+ yrs exp; asks for 5+ years of experience |
 | 30 | [Senior DevOps Engineer](https://wallethub.com/jobs/devops-engineer/) | WalletHub | ? | [✉ jobs@wallethub.com](mailto:jobs@wallethub.com?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20WalletHub) | Nov 13 | 7+ yrs exp; senior title; asks for 7+ years of experience |
-| 27 | [Infrastructure Software Engineer](https://www.joyent.com/careers/infrastructure-software-engineer-topology-and-observability) | Joyent | Mountain View, CA or Remote | [✉ jobs@joyent.com](mailto:jobs@joyent.com?subject=Application%3A%20Infrastructure%20Software%20Engineer%20%E2%80%93%20Joyent) | Nov 11 | 5+ yrs exp; asks for 5+ years of experience |
 | 27 | [Senior Cloud Engineer](https://careers.tractian.com/jobs/am9icG9zdDouKyx3EhjyHyhlgfKqczDb) | Tractian | Remote | [Careers page](https://careers.tractian.com/jobs/am9icG9zdDouKyx3EhjyHyhlgfKqczDb) | Nov 13 | 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 25 | [Senior Infrastructure Engineer](https://www.zabbix.com/career/senior_infrastructure_engineer) | Zabbix | ? | [✉ hr@zabbix.com](mailto:hr@zabbix.com?subject=Application%3A%20Senior%20Infrastructure%20Engineer%20%E2%80%93%20Zabbix) | Nov 13 | 5+ yrs exp; senior title; location unclear; asks for 5+ yea… |
 | 22 | [SRE Freelance Projects](https://meteorops.com/work/sre-freelance-projects) | MeteorOps | Remote | [Careers page](https://meteorops.com/work/sre-freelance-projects) | Nov 11 | 5+ yrs exp; location unclear; asks for 5+ years of experien… |

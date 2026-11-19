@@ -107,7 +107,7 @@ Tell Otto what you need, pick a ready-made Expert, or create a specialist for yo
 02 Brief
 Here’s what success looks like…
 Brief them on the job.
-Answer a few questions, share the context, and connect the apps your Expert needs. Agree on the first outcome.
+Answer a few questions, share the context, and connect the apps your Expert needs . Agree on the first outcome.
 03 Repeat
 Every Monday 9:00 AM
 Make it a routine.

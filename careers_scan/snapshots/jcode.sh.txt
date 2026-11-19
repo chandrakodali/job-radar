@@ -3,7 +3,7 @@ High performance coding agents, written in Rust.
 Built for demanding development workflows with many agents working in parallel.
 curl -fsSL https://jcode.sh/install | bash
 macOS Linux Windows Desktop app beta
-iPhone beta · Pricing · Enterprise · justrust · GitHub · Discord
+iPhone beta · Pricing · Enterprise · justrust · Ambition · GitHub · Discord
 Inline image rendering
 Resume menu
 LaTeX rendering
@@ -226,7 +226,7 @@ Get Jcode Desktop
 Changelog
 Releases and changelog . Full history on GitHub releases .
 Unreleased
-2026-11-18 · today
+2026-11-19 · today
 Changes since v1.0.1
 Automatically listed from commit messages.
 docs attribute allocator discrepancy with matched cache controls
@@ -259,12 +259,49 @@ bench reject wire buffer capacity tradeoffs with optimized probe
 docs control executable cache state in startup measurements
 bench measure conditional large wire-buffer shrink tradeoffs
 docs close broader runtime acceptance and measured stopping gates
+commit Count diagnostic swarm event bytes without buffering Debug output
+test measure reconnect retention and exact diagnostic CPU cost
+release build Linux x86_64/aarch64 on justrust hosted with baseline and native ARM acceptance
+docs record rebuilt daemon reconnect acceptance
+commit Stream debug event query payloads through the pretty formatter
+bench distinguish allocator-cache savings from CPU tradeoffs
+release run hosted Linux build tooling from the workflow commit
+commit Indicate accepted Jarvis requests in Waybar without exposing captions
+commit Explain Jarvis captions and Waybar acceptance feedback
+commit Emit bounded display captions before voice intent classification
+commit Display ephemeral local Jarvis captions and signal Jev acceptance
+commit Tell always-on Jarvis which speech is actionable
+commit Show selfdev build updates as compact tool rows
+commit Cover the always-on voice envelope policy
+commit Classify the newest voice utterance with bounded speech and chat context
+commit Recognize directed answers to Jarvis follow-up questions
+commit Show running Jarvis transcript and dispatch gated speech with context intact
+commit Explain Jarvis intent confidence on transcript rows
+commit Correlate heard captions with validated Jev gate scores
+commit Style live Jarvis captions by their gate score
+commit Resolve scored caption type in nested renderer module
+commit Fn key push-to-talk for always-on Jarvis via the companion
+commit Keep Jarvis modes across client reload, restart, update, and hibernate
+docs update downloads badge
+commit Recognize collaborative and conversational voice requests
+commit Preserve screenshot history until the inline byte budget is exceeded
+release prepare jcode v1.0.2
+commit Keep GPT-6.2 stable instructions in the cacheable history
+commit Format screenshot persistence regression fixture
+commit Extract ambient commands, resume dispatch, and mobile sync loop
+commit Check the hosted ARM toolchain used by public releases
+commit Extract TUI voice, swarm and rendering test modules
+commit Extract OpenAI request construction and remove runtime input panics
+commit Handle ambient terminal title errors without interrupting the session
+commit Keep server diagnostics and native tool fallbacks within guardrails
+docs update weekly stars chart
 v1.0.1
+2026-11-18 · 1d ago
 Model catalog fix
 Release highlights.
 highlight Newly released models such as GPT-6.2 Sol appear in the model picker even when live catalog updates arrive while an agent is busy
 v1.0.0
-2026-11-17 · 1d ago
+2026-11-17 · 2d ago
 Swarms, Cloud, and a lighter terminal
 highlight Reworked swarms plan jobs in phases and parallel lanes, automatically start workers as dependencies finish, and show the whole team's progress in one pinned view
 highlight jcode Cloud officially launches: move a session or coordinated swarm to a VM with /cloud, keep working after disconnecting, and bring the conversation and repository back with /local

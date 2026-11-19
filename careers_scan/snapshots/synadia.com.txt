@@ -39,7 +39,7 @@ View job
 Have a question? We can help.
 Talk to our team of experts to answer your questions.
 Contact us
-Products Synadia Cloud Synadia Platform Synadia Deploy for Kubernetes Synadia Insights Synadia Protect
+Products Synadia Cloud Synadia Platform Synadia Deploy for Kubernetes Synadia Insights Synadia Protect Synadia MQ Gateway
 Resources All resources Blog Docs Videos Newsletter Synadia Education Workshops RethinkConn 2026 Living on the Edge NATS vs Kafka NATS vs Kinesis NATS vs MQTT
 Company About Brand Customers Contact Careers Press
 Legal Terms Privacy DPA Subprocessors Support Lifecycle Trust Center

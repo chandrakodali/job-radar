@@ -2,7 +2,7 @@ Free guide ·
 FivexL Container Hardening Guide: how we build and run hardened container images on AWS Container Hardening Guide
 Get the guide ›
 Join Us
-FivexL: Where Your Skills Help Startups Excel with AWS Infrastructure
+Join a small, remote AWS and AI consultancy
 As an AWS Advanced Partner, FivexL combines real-world experience with deep knowledge in building scalable, secure, and cost-effective AWS environments for fast-growing startups.
 About FivexL
 Being the only specialist in the room can feel lonely.
@@ -36,7 +36,7 @@ Can approach work from the perspective of solving customer business problems, no
 Understand change management processes within an organization and can organize them;
 Have an understanding of software development processes (Agile/Kanban/Lean);
 Understand concepts such as: Infrastructure as Code, Immutable infrastructure, Configuration drift, Continuous Integration, Continuous Delivery.
-What need to do?
+How we hire engineers
 Fill the form, tell us about your motivation.
 Submit a task assignment. All applicants who submit a task assignment will receive feedback from us.
 Take the Personality Test.

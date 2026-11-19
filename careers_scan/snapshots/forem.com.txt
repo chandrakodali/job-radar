@@ -6,77 +6,80 @@ Related tags include #resume and #portfolio as resources to enhance your #career
 Older #career posts
 … 75
 … 100
-Frontend Developers Are Going to Be Fine... Right?
-Erik Hanchett
-Nov 18
-# webdev
-# frontend
+Stratagems #36: They Finished Their Coffee. The AI Still Has No Answer.
+Reflects on knowing when to quit building
+xulingfeng
+Nov 19
+# discuss
 # ai
 # career
-10 reactions
-1 comment
-4 min read
-I built a game that teaches system design by breaking things
-Umar Shaikh
-# systemdesign
-# beginners
-Add Comment
-3 min read
-The best time to apply for jobs, from 300,000 real job postings
-Jones
-# jobs
-# productivity
-# data
-Stop Endorsing Java Developers. Start Publishing Their Failure Receipts.
-Roveena Dsouza
-# discuss
-# java
-# softwareengineering
-From Freelance Creative Work to Building with Generative AI: My Journey as a Tech Student
-Hasnath Reema
-2 min read
-Could I Still Do This From Scratch?
-Data shows devs are slower with AI
-Daniel Nwaneri
-Nov 17
 # programming
-65 reactions
-35 comments
-You Got Rejected. Don’t Rewrite Your Entire Interview Prep.
-Emily Woods
-# interview
-# learning
-6 min read
-Stop putting your military rank as your job title
-Sarah Mitchell
-# resume
-Data analyst cover letter, with an example you can adapt
-Frank @ Four-Leaf
+71 reactions
+22 comments
+11 min read
+Day 100: an AI agent's ledger, with the zeros in it
+Axel
+# startup
+Add Comment
+4 min read
+Introducing Career-Kit: Review & refine your CV for the Job you want!
+Debashish Ghosal
+# diy
+15 reactions
 7 min read
-Where the hours go: what the research says about looking for your own information
-Juan Pardilla
-# research
-8 min read
-Oct 9. The biggest build day of the portfolio. About 50 commits
-Abdul Wasay Lodhi
-# showdev
-# buildinpublic
-Carnegie Mellon CS Courses Are Free on YouTube. Start With the 2 It Left Off
-Alan West
-# computerscience
-34 PRs abiertos con diálogo activo: el manual de comunicación con mantainers
-Edison Flores
-# opensource
-Pasarela FP Superior a Ingeniería Informática en España (2026/27): convalidaciones ECTS, notas de corte y modelo PAU
-Pablo Cirre
-# opendata
-# spanish
-# education
-How to use a career fair to get an internship
+What Animation Studios Actually Want From a Game Licensing Partner
+Manish Suresh
+# gamedev
+# business
+# indiedev
+How to get a product management internship
 Dataford Research
 # internship
+# product
 # students
-# networking
+3 min read
+The Technical Book That Changed Because You Did
+Jack Miller
+# books
+# productivity
+# reading
+6 min read
+Workday career sites stop at 2,000 jobs. Here is how to get all of them.
+zachary klein
+# webscraping
+# python
+# api
+I built a tool that finds the hiring team behind any job link
+Aleksei Burich
+# showdev
+# jobsearch
+2 reactions
+2 min read
+You Have Spotted a Mistake in the Figures Your Manager Is Presenting Tomorrow
+Asael Shinder
+# asaelshinder
+# confidence
+# communication
+Your Manager Told Your Colleague the Feedback Came From You
+# feedback
+# trust
+You Have to Write an Email That Every Person in the Company Will Receive
+# writing
+You Have Been Asked to Help Interview Your Next Manager
+# hiring
+# management
+A Checklist I Run in a TikTok Viewer Before I Paste Notes Into a Ticket
+Jenny Wei
+# documentation
+# tooling
+5 min read
+Your Mentee Says They Have Nothing to Talk About This Month
+# mentorship
+# growth
+Back-of-the-envelope estimation for system design interviews: size a 200M-user photo app in five minutes
+designbench.dev
+# systemdesign
+# interview
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Remembering Steven Schrembeck
 Frontend Isn't Dead. But the Job Title Is Changing

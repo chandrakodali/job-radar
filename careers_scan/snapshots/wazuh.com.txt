@@ -11,54 +11,54 @@ Open roles
 Your search did not match any of our positions.
 View position
 Remote - Full-time
-Technical Writer
+Detection Engineer (Threat Research)
 Upcoming positions
-QA Automation Engineer
+Sales Account Manager
 Working time
 Full-time
 Location
 Remote
 Department
-QA Team
-TAM Engineer – Enterprise specialist
-Technical Account Manager Team
-Presales Engineer
 Sales Team
-TAM Engineer – Proactive specialist
-Customer Success Manager
-Wazuh Trainer
-Training Team
-Full-Stack Developer
-Dashboard Team
 Legal, Compliance & Collections Specialist
 Legal Team
-Accounts Receivable Analyst
-Finance Team
-Detection Engineer (Threat Research)
-CTI Team
-DevOps Engineer
-DevOps Team
-Cloud Cost Optimization Specialist
+Technical Writer
+Content Team
 C++ Software Developer
-Agent Team
 Server Team
-Community Manager Team Lead
-Operations Team
 Senior Software Engineer – Indexer
 Indexer Team
-Cloud Full-Stack Developer
+Cloud DevOps Engineer
 Cloud Team
-Cloud Ops Engineer
-Sales Account Manager
+Business Development Account Manager
+QA Automation Engineer
+QA Team
+Agent Team
+Community Manager Team Lead
+Operations Team
 Full-Stack Elixir Developer
 Cloud Apps Team
-Education Program Coordinator
-Marketing Team
-Ambassador Program Coordinator
+Full-Stack Developer
+Dashboard Team
+Support Team Lead
+Cloud Full-Stack Developer
 Support Engineer
 Digital Marketing Specialist
-Business Development Account Manager
-Support Team Lead
-Cloud DevOps Engineer
+Marketing Team
+Education Program Coordinator
+TAM Engineer – Proactive specialist
+Technical Account Manager Team
+Ambassador Program Coordinator
+TAM Engineer – Enterprise specialist
+DevOps Engineer
+DevOps Team
+Customer Success Manager
+Cloud Cost Optimization Specialist
+Accounts Receivable Analyst
+Finance Team
+Cloud Ops Engineer
+Wazuh Trainer
+Training Team
+Presales Engineer
 Role
 Job type

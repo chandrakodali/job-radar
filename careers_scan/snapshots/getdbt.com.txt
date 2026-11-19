@@ -84,6 +84,7 @@ Senior Software Development Engineer in Test - Database Automation
 Technical Program Manager, Security
 Senior Software Engineer - Orchestration
 Senior Staff Site Reliability Engineer
+Senior Program Manager
 Senior Staff Software Engineer, SAP Connectors
 Amsterdam, North Holland, Netherlands, EMEA
 Manager Software Engineering
@@ -128,7 +129,6 @@ Product Manager - Integrations
 Staff Product Manager, Connectors
 Staff Product Manager, AI & Developer Experience
 Senior Product Manager - Adapters
-Senior Program Manager
 Program Manager, Growth, Monetization & Strategic Initiatives
 Staff Product Manager, Databases
 Remote, Any, United States, AMER
@@ -183,3 +183,4 @@ Senior Staff Software Engineer
 Senior Staff Systems Engineer, Data & Integrations
 Senior Systems Engineer, Data and Integrations
 Systems Engineer II - R&D Business Systems
+Senior People Systems Engineer

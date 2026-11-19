@@ -19,30 +19,8 @@ Full health, dental, and vision insurance
 $5000/year equipment budget
 Free lunches
 Flexible vacation
-How to Apply
-If any of these positions catch your eye, please send your resumé, along with a quick introduction describing yourself, to jobs@tumult.com . If you’re able, please also include links to any open source projects you’ve created or contributed to, or provide examples of apps you’ve worked on.
 Available Positions
-Software Engineer
-We're looking for a talented developer to improve the Hype application. You'll be responsible for adding app and runtime features, fixing bugs, and improving workflow tooling.
-Requirements
-Expert Cocoa/Objective-C developer, Mac experience preferred
-Solid understanding of JavaScript, DOM, CSS and HTML
-Experience building consumer software from the ground up
-Skilled debugger and problem solver
-Excellent written communication skills
-Detail oriented
-Pragmatic and productive
-Bonus Points
-Animation experience and visual creativity
-Scripting, automation, and test experience
-Excellent understanding of cross browser compatibility issues
-Experience hacking on complex JavaScript frameworks like jQuery
-Experience working on shipping browser engines or developing web standards
-iOS development experience
-Windows development experience
-Keen eye for good UI and software design
-Experience creating and deploying animated content on the web
-Located in SF Bay Area or experience with working remotely
+We aren’t hiring at the moment. Please check back later!
 Products
 Hype 4
 Hype Pro
