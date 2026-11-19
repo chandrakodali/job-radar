@@ -12001,17 +12001,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 115,
+   "n": 116,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 115,
+   "n": 116,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 115,
+   "n": 116,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13359,8 +13359,8 @@
    492
   ],
   "2026-11-19": [
-   64,
-   207
+   65,
+   208
   ]
  },
  "resolved": {
@@ -65134,8 +65134,10 @@
   "catsone:bitwise:16867793": "2026-11-14",
   "catsone:bitwise:16867794": "2026-11-14",
   "catsone:bitwise:16867797": "2026-11-14",
+  "catsone:bitwise:16867798": "2026-11-19",
   "catsone:bitwise:16867799": "2026-11-14",
   "catsone:bitwise:16873424": "2026-11-14",
+  "catsone:bitwise:16875014": "2026-11-19",
   "catsone:brainsworkgroup:16038740": "2026-11-14",
   "catsone:brainsworkgroup:16756044": "2026-11-14",
   "catsone:brainsworkgroup:16811200": "2026-11-14",
@@ -65158,6 +65160,7 @@
   "catsone:cbsinfosys:16859688": "2026-11-14",
   "catsone:cbsinfosys:16859699": "2026-11-14",
   "catsone:clearfocustechnologies:16854545": "2026-11-14",
+  "catsone:clearfocustechnologies:16875040": "2026-11-19",
   "catsone:cms:16866695": "2026-11-14",
   "catsone:cymertek:16613697": "2026-11-14",
   "catsone:cymertek:16613698": "2026-11-14",
@@ -66450,7 +66453,9 @@
   "greenhouse:eucalyptus:4750968005": "2026-11-14",
   "greenhouse:everlaw:4726848006": "2026-11-14",
   "greenhouse:evolutioniq:6242830004": "2026-11-14",
+  "greenhouse:exadelinc:6265015004": "2026-11-19",
   "greenhouse:exiger:6250805004": "2026-11-14",
+  "greenhouse:externaljobboards:6266085004": "2026-11-19",
   "greenhouse:extrahopnetworks:6249904004": "2026-11-14",
   "greenhouse:fanduel:8325675": "2026-11-14",
   "greenhouse:fanduel:8348296": "2026-11-14",
@@ -68990,6 +68995,8 @@
   "smartrecruiters:captechconsulting:744000162396269": "2026-11-18",
   "smartrecruiters:captechconsulting:744000162398079": "2026-11-18",
   "smartrecruiters:cityofnewyork:3743990016861706": "2026-11-14",
+  "smartrecruiters:cityofnewyork:3743990016959496": "2026-11-19",
+  "smartrecruiters:cityofnewyork:3743990016959596": "2026-11-19",
   "smartrecruiters:cityofphiladelphia:744000159943569": "2026-11-14",
   "smartrecruiters:dominos:744000161708269": "2026-11-16",
   "smartrecruiters:dominos:744000161714848": "2026-11-16",
@@ -70170,7 +70177,7 @@
   "remoteok": "2026-11-19T11:18:30+00:00",
   "usajobs": "2026-11-19T10:20:22+00:00",
   "workable_search": "2026-11-19T10:20:22+00:00",
-  "wwr": "2026-11-19T11:18:30+00:00",
+  "wwr": "2026-11-19T12:16:25+00:00",
   "yc": "2026-11-19T10:20:22+00:00"
  },
  "title_rules": "72f554d20a7f",

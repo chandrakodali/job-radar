@@ -1,12 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**198 jobs**, newest first. Updated Thu Nov 19, 5:18 AM CST from 12,526 company job boards and other sources.
+**198 jobs**, newest first. Updated Thu Nov 19, 6:16 AM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 126 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,051 matching jobs that job sites and feeds listed this week, 505 (24%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,052 matching jobs that job sites and feeds listed this week, 506 (24%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 18 (23)](#wednesday-nov-18-23) · [Tue 17 (19)](#tuesday-nov-17-19) · [Mon 16 (26)](#monday-nov-16-26) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (77)](#saturday-nov-14-77) · [Fri 13 (20)](#friday-nov-13-20) · [Thu 12 (25)](#thursday-nov-12-25)
 
@@ -243,13 +243,14 @@ Jump to: [Wed 18 (23)](#wednesday-nov-18-23) · [Tue 17 (19)](#tuesday-nov-17-19
 | 9:41 AM | [Developer - Java, Spring Boot](https://careers.united.com/us/en/job/UAIUADUSWHQ00026827EXTERNALENUSTALEO) | United Airlines | Chicago, Illinois, United States | 63 | 2+ yrs exp; no future H-1B sponsorship |
 | 7:11 AM | [Software Developer II](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54954) | CSX | Jacksonville, FL, United States (onsite) | 53 | 2+ yrs exp; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (335)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (336)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Full-stack Software Engineer- Senior](https://fincons.applytojob.com/apply/DuwNKD0FKF/Fullstack-Software-Engineer-Senior) | Fincons Group | Remote (US) (remote) | 27 | rules: 15+ yrs exp; senior title; requires Java; asks for 15+ years o… |
+| 6:16 AM (seen) | [Software Engineer SWE Level 2](https://careers.bitwise.tech/careers/101033-General/jobs/16875014-Software-Engineer-SWE-Level-2/) | Bitwise |  | 5 | rules: 12+ yrs exp; location unclear; requires Java; needs: SCI clear… |
 | 4:08 PM | [Senior Software Engineer, Cloud Payments](https://www.mongodb.com/careers/job/?gh_jid=8397699) | MongoDB | Atlanta; Austin; Boston; Chicago; Dalla… | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:48 PM | [Senior Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162381024-senior-software-engineer) | ServiceNow | Santa Clara, California, United States | 25 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:03 PM | [Java Fullstack Engineer - Dallas, TX](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26524) | Photon | United States | 45 | rules: 10+ yrs exp; asks for 10+ years of experience |
