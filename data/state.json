@@ -11786,6 +11786,11 @@
   "lever:jobgether:b45aadee-df74-4ad4-8acd-f23de8ee8060": "2026-11-19"
  },
  "fails": {
+  "apple:usa": {
+   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
+   "n": 1,
+   "since": "2026-11-19"
+  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-25",
    "err": "HTTP 404",
@@ -12148,17 +12153,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 303,
+   "n": 304,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 303,
+   "n": 304,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 303,
+   "n": 304,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15059,8 +15064,8 @@
    373
   ],
   "2026-11-19": [
-   155,
-   322
+   178,
+   361
   ]
  },
  "resolved": {
@@ -66270,6 +66275,7 @@
   "bamboohr:essexvt:178": "2026-11-15",
   "bamboohr:euna:788": "2026-11-08",
   "bamboohr:euna:808": "2026-11-08",
+  "bamboohr:euna:827": "2026-11-19",
   "bamboohr:fenix24:176": "2026-11-18",
   "bamboohr:fesslerbowman:954": "2026-11-15",
   "bamboohr:fligoo:130": "2026-11-15",
@@ -66842,6 +66848,7 @@
   "eightfold:mercadolibre:45520009": "2026-11-14",
   "eightfold:morganstanley:549800280238": "2026-11-18",
   "eightfold:morganstanley:549801018692": "2026-11-14",
+  "eightfold:morganstanley:549801333393": "2026-11-19",
   "eightfold:ngc:1340074239588": "2026-11-16",
   "eightfold:ngc:1340074629961": "2026-11-19",
   "eightfold:ngc:1340074630141": "2026-11-19",
@@ -66865,6 +66872,7 @@
   "eightfold:nvidia:893395964724": "2026-11-19",
   "eightfold:nvidia:893396402568": "2026-11-15",
   "eightfold:nvidia:893396422329": "2026-11-15",
+  "eightfold:nvidia:893397112878": "2026-11-19",
   "eightfold:nvidia:893397231867": "2026-11-15",
   "eightfold:nvidia:893397232031": "2026-11-14",
   "eightfold:nvidia:893397486935": "2026-11-14",
@@ -66873,6 +66881,7 @@
   "eightfold:nvidia:893397545443": "2026-11-14",
   "eightfold:nvidia:893397548491": "2026-11-19",
   "eightfold:nvidia:893397632800": "2026-11-19",
+  "eightfold:nvidia:893397724522": "2026-11-19",
   "eightfold:nvidia:893397891086": "2026-11-14",
   "eightfold:nvidia:893397913224": "2026-11-14",
   "eightfold:nvidia:893398004321": "2026-11-19",
@@ -66893,6 +66902,8 @@
   "eightfold:qualcomm:446722201254": "2026-11-18",
   "eightfold:qualcomm|qualcomm.com:446719899052": "2026-11-14",
   "eightfold:qualcomm|qualcomm.com:446722201254": "2026-11-18",
+  "eightfold:ralliant:1133916942979": "2026-11-19",
+  "eightfold:ralliant|ralliant.com:1133916942979": "2026-11-19",
   "eightfold:telekom-growthhub:563465374992312": "2026-11-17",
   "gem:altara:am9icG9zdDqB6S61MR3u-MiBbzCqg8VE": "2026-11-14",
   "gem:arxtalent:am9icG9zdDpPqYgwI39uN9eHsS4l4zUV": "2026-11-14",
@@ -67489,6 +67500,7 @@
   "icims:careers-bnh.icims.com:25130": "2026-11-09",
   "icims:careers-bnh.icims.com:25152": "2026-11-09",
   "icims:careers-bnh.icims.com:25181": "2026-11-12",
+  "icims:careers-bnh.icims.com:25363": "2026-11-19",
   "icims:careers-bocusa.icims.com:3717": "2026-11-09",
   "icims:careers-bocusa.icims.com:3858": "2026-11-09",
   "icims:careers-bocusa.icims.com:3876": "2026-11-09",
@@ -68302,6 +68314,7 @@
   "jobvite:jbs:oiO5Afwv": "2026-11-12",
   "jobvite:jobs-gigait:ovu4Afwn": "2026-11-14",
   "jobvite:kaltire:ogYEAfwc": "2026-11-17",
+  "jobvite:laserfiche:ov8VAfwS": "2026-11-19",
   "jobvite:liferay:o6DyAfwB": "2026-11-12",
   "jobvite:liferay:opHyAfwY": "2026-11-11",
   "jobvite:metropolitantransportationauthority:oE21Afw1": "2026-11-17",
@@ -68430,6 +68443,7 @@
   "lever:pingwind:9667df85-c6c2-46ce-b3d7-18e1a12d1f0d": "2026-11-07",
   "lever:pointclickcare:dc0d44ce-bc2a-4577-bb0b-a38250bfc971": "2026-11-07",
   "lever:prolific-machines:10441e3a-f731-4230-b8d7-f792daf8cd87": "2026-11-19",
+  "lever:purvis:89d3aa5a-c945-4964-8289-e3b00687d3e2": "2026-11-19",
   "lever:redhorsecorp:be90f883-2ec0-460f-8d20-241e4c54951f": "2026-11-12",
   "lever:redwoodcu:69c327df-2541-4395-b14a-2f66d3236bf4": "2026-11-19",
   "lever:steerbridge:e250cb49-fca5-450d-9d3b-f290c0e6f14d": "2026-11-09",
@@ -69632,6 +69646,7 @@
   "workable_search:all:b109e4b0-9b04-4903-9369-3db2ec12fcb1": "2026-11-13",
   "workable_search:all:b52fd531-1290-45a1-b844-8d342b272946": "2026-11-12",
   "workable_search:all:b933bdfa-ee40-4ca6-befa-ea20afdc8004": "2026-11-12",
+  "workable_search:all:c0425aa7-8793-45a4-86b5-16eee68a783f": "2026-11-19",
   "workable_search:all:c7b87373-dc73-44ae-9560-ad3815f3deba": "2026-11-12",
   "workable_search:all:cd28e12a-520e-40e7-ad2b-1da8e696c87a": "2026-11-12",
   "workable_search:all:dee40bf1-9daf-43a9-8815-5290ee670ab2": "2026-11-12",
@@ -70445,10 +70460,10 @@
  "source_last": {
   "hn": "2026-11-19T20:37:19+00:00",
   "remoteok": "2026-11-19T21:37:18+00:00",
-  "usajobs": "2026-11-19T19:07:15+00:00",
-  "workable_search": "2026-11-19T19:07:15+00:00",
+  "usajobs": "2026-11-19T22:07:17+00:00",
+  "workable_search": "2026-11-19T22:07:17+00:00",
   "wwr": "2026-11-19T21:37:18+00:00",
-  "yc": "2026-11-19T19:07:15+00:00"
+  "yc": "2026-11-19T22:07:17+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
