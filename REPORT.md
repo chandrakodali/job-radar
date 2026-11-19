@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**609 jobs**, newest first. Updated Thu Nov 19, 4:37 AM CST from 12,526 company job boards and other sources.
+**610 jobs**, newest first. Updated Thu Nov 19, 5:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,13 +8,15 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 2,253 matching jobs that job sites and feeds listed this week, 826 (36%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (45)](#wednesday-nov-18-45) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (84)](#thursday-nov-12-84)
+Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (45)](#wednesday-nov-18-45) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (83)](#thursday-nov-12-83)
 
-## Thursday, Nov 19 (3)
+## Thursday, Nov 19 (5)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [DevOps / SRE Engineer (Kubernetes, Terraform), AI Expert](https://apply.workable.com/weekday-1/j/FD2496AC64/) | Weekday AI | United States (remote) | 57 | 4+ yrs exp; repost |
+| 5:16 AM | [System Administrator](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016959286-system-administrator) | Cityofnewyork | New York City, NY, United States | 50 | repost |
+| 5:08 AM | [Platform Engineer](https://ericsson.eightfold.ai/careers/job/563121777600972) | Ericsson | Madrid, MD, ES (onsite) | 70 |  |
 | 1:36 AM | [Cloud System Administrator (Shift C - Night)](https://jobs.lever.co/jobgether/9c2d4dc4-c40b-400c-b0d4-cb0f7d0e65bf) | Jobgether | US (remote) | 62 |  |
 | 12:07 AM (seen) | [Senior Site Reliability Engineer](https://app.careerpuck.com/job-board/blinkhealth/job/75nQcAvf) | Blinkhealth | New York, NY; Pittsburgh, PA; Seattle, … | 40 | senior title, years not stated |
 
@@ -570,7 +572,7 @@ Jump to: [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (45)](#wednesday-nov-18-45)
 | 5:02 AM | [Langfuse - Senior Cloud Infra Engineer](https://jobs.ashbyhq.com/clickhouse/39e42a38-1cbf-40c7-b373-717b4cdddbac) | ClickHouse | New York (remote) | 52 | senior title, years not stated |
 | 1:07 AM | [Full-Stack Software Engineer (Infrastructure Focus)](https://jobs.lever.co/jobgether/c12ad43a-3c7b-4d0b-adde-d3509813970d) | Jobgether | US (remote) | 55 |  |
 
-## Thursday, Nov 12 (84)
+## Thursday, Nov 12 (83)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -657,7 +659,6 @@ Jump to: [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (45)](#wednesday-nov-18-45)
 | 9:15 AM | [Data Platform Engineer](https://jobs.ashbyhq.com/rain/5074d899-f321-4eb2-be3a-f33f849f98a2) | Rain | San Juan, Puerto Rico; New York, NY; Di… (onsite) | 58 | 4+ yrs exp |
 | 8:46 AM | [AIOps Software Engineer - Strategic Data Solutions](https://jobs.apple.com/en-us/details/200693736/aiops-software-engineer-strategic-data-solutions) | Apple | United States of America | 58 |  |
 | 8:43 AM | [Data Observability Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628930) | Sherwin-Williams | Cleveland, OH, United States | 60 | 3+ yrs exp |
-| 4:49 AM | [Founding Infrastructure Engineer](https://jobs.lever.co/jobgether/7f612467-c5a6-46d0-9e01-7bf055856e74) | Jobgether | US (remote) | 55 |  |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (777)
 

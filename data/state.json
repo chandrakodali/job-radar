@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 281,
+   "n": 282,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 281,
+   "n": 282,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 281,
+   "n": 282,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -66755,6 +66755,7 @@
   "eightfold:eaton:687240042663": "2026-11-17",
   "eightfold:eaton|eaton.com:687239541052": "2026-11-09",
   "eightfold:eaton|eaton.com:687240042663": "2026-11-17",
+  "eightfold:ericsson:563121777600972": "2026-11-19",
   "eightfold:ford:563568454106691": "2026-11-18",
   "eightfold:ford:563568454116722": "2026-11-14",
   "eightfold:ford:563568454116934": "2026-11-18",
@@ -69235,6 +69236,7 @@
   "smartrecruiters:cityofnewyork:3743990016751836": "2026-11-14",
   "smartrecruiters:cityofnewyork:3743990016787316": "2026-11-14",
   "smartrecruiters:cityofnewyork:3743990016898476": "2026-11-17",
+  "smartrecruiters:cityofnewyork:3743990016959286": "2026-11-19",
   "smartrecruiters:dominos:744000161707674": "2026-11-16",
   "smartrecruiters:dominos:744000161708269": "2026-11-16",
   "smartrecruiters:eurofins:744000159966854": "2026-11-07",
