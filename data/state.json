@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 259,
+   "n": 260,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 259,
+   "n": 260,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 259,
+   "n": 260,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12861,9 +12861,9 @@
    "since": "2026-11-07"
   },
   "lever:trio": {
-   "disabled_until": "2026-11-19",
+   "disabled_until": "2026-11-26",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-12"
   },
   "lever:wandb": {
@@ -15003,6 +15003,10 @@
   "2026-11-18": [
    153,
    373
+  ],
+  "2026-11-19": [
+   0,
+   0
   ]
  },
  "resolved": {
@@ -67222,6 +67226,7 @@
   "greenhouse:tenon:8383699": "2026-11-12",
   "greenhouse:tenstorrent:5283701007": "2026-11-10",
   "greenhouse:theiconic:8335677": "2026-11-14",
+  "greenhouse:thetradedesk:5301212007": "2026-11-19",
   "greenhouse:thoughtworksreferral:8336965": "2026-11-12",
   "greenhouse:trace3:8328853": "2026-11-07",
   "greenhouse:trace3:8346702": "2026-11-07",
@@ -68246,6 +68251,7 @@
   "lever:magnetforensics:1aeef597-5f34-4cfa-b913-dd1c302eb9da": "2026-11-07",
   "lever:pingwind:9667df85-c6c2-46ce-b3d7-18e1a12d1f0d": "2026-11-07",
   "lever:pointclickcare:dc0d44ce-bc2a-4577-bb0b-a38250bfc971": "2026-11-07",
+  "lever:prolific-machines:10441e3a-f731-4230-b8d7-f792daf8cd87": "2026-11-19",
   "lever:redhorsecorp:be90f883-2ec0-460f-8d20-241e4c54951f": "2026-11-12",
   "lever:steerbridge:e250cb49-fca5-450d-9d3b-f290c0e6f14d": "2026-11-09",
   "lever:zoox:c84c90b4-22f2-4d2e-9034-afee385dd0d2": "2026-11-18",

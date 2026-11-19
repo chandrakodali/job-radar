@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**607 jobs**, newest first. Updated Wed Nov 18, 5:37 PM CST from 12,526 company job boards and other sources.
+**608 jobs**, newest first. Updated Wed Nov 18, 6:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,13 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 2,083 matching jobs that job sites and feeds listed this week, 746 (35%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (35)](#wednesday-nov-18-35) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (3)](#wednesday-nov-11-3)
+Jump to: [Wed 18 (36)](#wednesday-nov-18-36) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (3)](#wednesday-nov-11-3)
 
-## Wednesday, Nov 18 (35)
+## Wednesday, Nov 18 (36)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:46 PM | [Systems Reliability Engineer](https://job-boards.greenhouse.io/thetradedesk/jobs/5301212007) | The Trade Desk | Boulder | 65 |  |
 | 5:37 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265309909/Senior-FinOps-Analyst-ID94366) | Agileengine | Tampa, United States +14 more | 25 | senior title, years not stated |
 | 5:18 PM | [Sr Software Engineer - Infrastructure & Platform](https://mercadolibre.eightfold.ai/careers/job/43350162) | Mercadolibre | CABA, CABA, AR (hybrid) | 60 | senior title, years not stated |
 | 4:57 PM | [Senior Application Security Engineer](https://jobs.ashbyhq.com/paxos/df3b7383-2900-4e72-acb0-eb3c1667573c) | Paxos | Remote - United States (remote) | 52 | senior title, years not stated |
@@ -667,6 +668,7 @@ Jump to: [Wed 18 (35)](#wednesday-nov-18-35) · [Tue 17 (33)](#tuesday-nov-17-33
 | 4:46 PM | [AI Security Engineer (AppSec, Cloud & On-Premises)](https://job-boards.greenhouse.io/valaratomics/jobs/4510677009) | Valaratomics | Torrance, California, United States | 45 | rules: 7+ yrs exp; needs: Must be a U.S. person |
 | 4:28 PM | [Linux Installation Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4730735006?gh_jid=4730735006) | Accenture | San Diego, CA | 35 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: security cleara… |
 | 4:10 PM | [Senior Cloud DevOps Engineer (Hybrid - Houston)](https://jobs.smartrecruiters.com/AECOM2/744000162400439-senior-cloud-devops-engineer-hybrid-houston-) | AECOM | Houston, TX, United States (hybrid) | 50 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
+| 3:28 PM | [Senior Software Engineer, Data Infrastructure](https://jobs.lever.co/prolific-machines/10441e3a-f731-4230-b8d7-f792daf8cd87) | Prolific Machines | Emeryville, California (onsite) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 3:20 PM | [Industrial & Production Engineer](https://boards.greenhouse.io/pathrobotics/jobs/8950251002?gh_jid=8950251002) | Path Robotics | Columbus, Ohio | 30 | rules: 10+ yrs exp; needs: ITAR |
 | 2:37 PM (seen) | [Computer Specialist (SW) 1-4 TWU Rep - Configuration Management](https://jobs.jobvite.com/metropolitantransportationauthority/job/ow21AfwT) | Metropolitan Transportation A… | New York, NY | 15 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 2:30 PM | [DevOps Track Sr.Engineer](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/704446) | HEXAWARE | United States | 45 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
@@ -1062,7 +1064,6 @@ Jump to: [Wed 18 (35)](#wednesday-nov-18-35) · [Tue 17 (33)](#tuesday-nov-17-33
 | 4:28 PM | [Reliability Engineer (Remote)](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5294005007) | ALTEN Technology | Palo Alto, CA | 50 | rules: adjacent title, little DevOps/cloud work in the text |
 | 4:16 PM | [Senior DataOps Engineer](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4483519009) | Voyager Technologies | Remote - United States (remote) | 42 | rules: 10+ yrs exp; senior title; needs: Secret clearance |
 | 4:15 PM | [Systems Administrator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4661248) | Engage fi | Orlando, FL, United States (remote) | 35 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
-| 4:10 PM | [Deployment Engineer (Field Operations)](https://jobs.ashbyhq.com/base-power/61564fba-61a0-4fe3-a71d-1c3325514e35) | Base Power | Austin, TX (onsite) | 55 | rules: adjacent title, little DevOps/cloud work in the text |
 
 </details>
 
