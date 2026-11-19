@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 271,
+   "n": 272,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 271,
+   "n": 272,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 271,
+   "n": 272,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -66265,6 +66265,7 @@
   "breezy:vetsez:9b18a3ecb6b501": "2026-11-12",
   "breezy:vetsez:c78e9d90197b01": "2026-11-09",
   "careerpuck:avalara:hP0fejut": "2026-11-14",
+  "careerpuck:blinkhealth:75nQcAvf": "2026-11-19",
   "careerpuck:blinkhealth:KnuUiS8A": "2026-11-14",
   "careerpuck:blinkhealth:r1X8_8Qp": "2026-11-14",
   "careerpuck:color-health:V20dLcJN": "2026-11-14",
@@ -66701,6 +66702,7 @@
   "dayforce:authority|CANDIDATEPORTAL:7530": "2026-11-15",
   "dayforce:builders|candidateportal:238014": "2026-11-16",
   "dayforce:cchrpmc|CANDIDATEPORTAL:12751": "2026-11-15",
+  "dayforce:ccok|ccok:6578": "2026-11-19",
   "dayforce:cityind|CANDIDATEPORTAL:1976": "2026-11-15",
   "dayforce:corpay|candidateportal:57636": "2026-11-15",
   "dayforce:eci|candidateportal:861": "2026-11-15",
@@ -68231,6 +68233,7 @@
   "lever:jobgether:7f612467-c5a6-46d0-9e01-7bf055856e74": "2026-11-14",
   "lever:jobgether:820564aa-3a17-42b7-8029-20cf32b6302a": "2026-11-18",
   "lever:jobgether:85879f6c-bafc-4c8b-8d60-3a0d5c20be01": "2026-11-16",
+  "lever:jobgether:88a96849-d944-46d6-bc01-918662a0d80f": "2026-11-19",
   "lever:jobgether:8ff47a5b-ca95-4fa8-a528-4b8bb0f84240": "2026-11-14",
   "lever:jobgether:9af4cc18-9474-497f-9a90-60aa781922d4": "2026-11-14",
   "lever:jobgether:9dd9f072-6671-4b56-b02c-7c9080f9e8b8": "2026-11-16",
@@ -69396,6 +69399,7 @@
   "workable:valsoft-corp:0C0AC156AA": "2026-11-12",
   "workable:weekday-1:66FAC02153": "2026-11-18",
   "workable:weekday-1:F5C8A4D324": "2026-11-12",
+  "workable:weekday-1:FD2496AC64": "2026-11-19",
   "workable:zipdev:D129923BE8": "2026-11-14",
   "workable_search:all:0770081f-8486-4649-add0-23a444e83eb7": "2026-11-16",
   "workable_search:all:0d56bb28-6356-401b-ab00-54aec4e8581c": "2026-11-12",
