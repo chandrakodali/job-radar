@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 273,
+   "n": 274,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 273,
+   "n": 274,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 273,
+   "n": 274,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12883,6 +12883,11 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
+  },
+  "oracle:eofe.fa.us2.oraclecloud.com|CX": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-19"
   },
   "pinpoint:heapy": {
    "disabled_until": "2026-11-21",
@@ -15006,8 +15011,8 @@
    373
   ],
   "2026-11-19": [
-   40,
-   88
+   60,
+   125
   ]
  },
  "resolved": {
@@ -70234,10 +70239,10 @@
  "source_last": {
   "hn": "2026-11-19T02:37:13+00:00",
   "remoteok": "2026-11-19T05:37:12+00:00",
-  "usajobs": "2026-11-19T04:07:15+00:00",
-  "workable_search": "2026-11-19T04:07:15+00:00",
+  "usajobs": "2026-11-19T07:07:18+00:00",
+  "workable_search": "2026-11-19T07:07:18+00:00",
   "wwr": "2026-11-19T06:37:17+00:00",
-  "yc": "2026-11-19T04:07:15+00:00"
+  "yc": "2026-11-19T07:07:18+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
