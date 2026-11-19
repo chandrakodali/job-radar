@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 289,
+   "n": 290,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 289,
+   "n": 290,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 289,
+   "n": 290,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12344,6 +12344,11 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
+  },
+  "greenhouse:kunai": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-19"
   },
   "greenhouse:liveviewtechnologiesinc": {
    "disabled_until": "2026-11-21",
@@ -68594,6 +68599,7 @@
   "pinpoint:impulsespace:606104": "2026-11-09",
   "pinpoint:impulsespace:606105": "2026-11-09",
   "pinpoint:impulsespace:609979": "2026-11-09",
+  "pinpoint:reliablesfc:621266": "2026-11-19",
   "pinpoint:tabby:415749": "2026-11-14",
   "pinpoint:tabby:619381": "2026-11-18",
   "pinpoint:tabby:620971": "2026-11-17",

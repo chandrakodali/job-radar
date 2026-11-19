@@ -1,14 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**614 jobs**, newest first. Updated Thu Nov 19, 8:37 AM CST from 12,526 company job boards and other sources.
+**612 jobs**, newest first. Updated Thu Nov 19, 9:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-248 repeat listings (same company and title in another place or on another source) are merged into one row.
+247 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 2,298 matching jobs that job sites and feeds listed this week, 846 (36%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (7)](#thursday-nov-19-7) · [Wed 18 (47)](#wednesday-nov-18-47) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (83)](#thursday-nov-12-83)
+Jump to: [Thu 19 (7)](#thursday-nov-19-7) · [Wed 18 (47)](#wednesday-nov-18-47) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (81)](#thursday-nov-12-81)
 
 ## Thursday, Nov 19 (7)
 
@@ -576,7 +576,7 @@ Jump to: [Thu 19 (7)](#thursday-nov-19-7) · [Wed 18 (47)](#wednesday-nov-18-47)
 | 5:02 AM | [Langfuse - Senior Cloud Infra Engineer](https://jobs.ashbyhq.com/clickhouse/39e42a38-1cbf-40c7-b373-717b4cdddbac) | ClickHouse | New York (remote) | 52 | senior title, years not stated |
 | 1:07 AM | [Full-Stack Software Engineer (Infrastructure Focus)](https://jobs.lever.co/jobgether/c12ad43a-3c7b-4d0b-adde-d3509813970d) | Jobgether | US (remote) | 55 |  |
 
-## Thursday, Nov 12 (83)
+## Thursday, Nov 12 (81)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -661,16 +661,15 @@ Jump to: [Thu 19 (7)](#thursday-nov-19-7) · [Wed 18 (47)](#wednesday-nov-18-47)
 | 9:28 AM | [Infrastructure Support Engineer](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41266) | Nokia | United States (onsite) | 70 |  |
 | 9:22 AM | [DevOps Engineer - Hybrid](https://job-boards.greenhouse.io/tenet3/jobs/8939443002) | Tenet3 | Dayton, Ohio | 60 | 3+ yrs exp |
 | 9:15 AM | [Data Platform Engineer](https://jobs.ashbyhq.com/rain/5074d899-f321-4eb2-be3a-f33f849f98a2) | Rain | San Juan, Puerto Rico; New York, NY; Di… (onsite) | 58 | 4+ yrs exp |
-| 8:46 AM | [AIOps Software Engineer - Strategic Data Solutions](https://jobs.apple.com/en-us/details/200693736/aiops-software-engineer-strategic-data-solutions) | Apple | United States of America | 58 |  |
-| 8:43 AM | [Data Observability Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628930) | Sherwin-Williams | Cleveland, OH, United States | 60 | 3+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (780)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (781)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Senior Site Reliability Engineer – Distributed Storage](https://nvidia.eightfold.ai/careers/job/893398810398) | Nvidia | Santa Clara, CA, US; Austin, TX, US; TX… (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
+| 9:07 AM (seen) | [Reliability Engineer](https://reliablesfc.pinpointhq.com/en/postings/3d6872a7-b43b-4b02-8d8d-209c39954a4a) | Reliablesfc | Columbia, PA - Plant (onsite) | 20 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:07 AM (seen) | [Senior Technical Support Engineer (SRE)](https://jobs.jobvite.com/nutanix/job/omDAAfwT) | Nutanix |  | 25 | rules: 7+ yrs exp; senior title; location unclear; asks for 7+ years … |
 | 6:56 AM | [Storage Platform Engineer](https://jobs.ashbyhq.com/supabase/463d8cd7-3092-44eb-b80e-8d21008e569e) | Supabase | Remote, Global | 50 | rules: 7+ yrs exp; location unclear; priority company; asks for 7+ ye… |
 | 5:31 AM | [Network Administrator](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016959551-network-administrator) | Cityofnewyork | New York City, NY, United States | 30 | rules: 6+ yrs exp; asks for 6+ years of experience |
@@ -1069,7 +1068,6 @@ Jump to: [Thu 19 (7)](#thursday-nov-19-7) · [Wed 18 (47)](#wednesday-nov-18-47)
 | 10:56 PM | [Senior Platform Engineer (Crossplane)](https://jobs.lever.co/jobgether/f9328e2b-6ac0-4031-a139-ee42142f59b1) | Jobgether | US (remote) | 35 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 10:35 PM | [Government Cloud Security Engineer](https://job-boards.greenhouse.io/xai/jobs/5294116007) | xAI | Austin, TX; New York, NY; Palo Alto, CA… | 60 | rules: 3+ yrs exp; needs: security clearance |
 | 9:55 PM | [Data Platform Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4559639) | CHRIST PANOS FOOD CORPORATION | Itasca, IL, United States | 38 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 7:44 PM | [Senior Site Reliability Engineer](https://jobs.ashbyhq.com/airbyte/5930fed9-c4f6-43c3-87be-3402c2c46489) | Airbyte | San Francisco (hybrid) | 60 | rules: 7+ yrs exp; senior title; priority company; asks for 7+ years … |
 
 </details>
 
