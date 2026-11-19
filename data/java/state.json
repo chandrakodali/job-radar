@@ -11723,6 +11723,11 @@
    "n": 3,
    "since": "2026-11-17"
   },
+  "ashby:cedar": {
+   "err": "HTTP 404",
+   "n": 1,
+   "since": "2026-11-19"
+  },
   "ashby:chainlink-labs": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -11782,11 +11787,6 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
-  },
-  "ashby:interface": {
-   "err": "HTTP 404",
-   "n": 1,
-   "since": "2026-11-19"
   },
   "ashby:kinetic": {
    "disabled_until": "2026-11-21",
@@ -12006,17 +12006,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 120,
+   "n": 121,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 120,
+   "n": 121,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 120,
+   "n": 121,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12242,8 +12242,9 @@
    "since": "2026-11-14"
   },
   "greenhouse:kunai": {
+   "disabled_until": "2026-11-26",
    "err": "HTTP 404",
-   "n": 2,
+   "n": 3,
    "since": "2026-11-19"
   },
   "greenhouse:liveviewtechnologiesinc": {
@@ -13338,6 +13339,7 @@
   "Sapsol Technologies Inc": "2026-11-16",
   "Stealth Health-Tech Startup": "2026-11-16",
   "Symmetrio": "2026-11-19",
+  "Treatwell": "2026-11-19",
   "True Talent Solutions Partners": "2026-11-18",
   "TrueBiz": "2026-11-19",
   "Turing Enterprise Inc.": "2026-11-19",
@@ -13370,8 +13372,8 @@
    492
   ],
   "2026-11-19": [
-   97,
-   312
+   98,
+   315
   ]
  },
  "resolved": {
@@ -64297,11 +64299,14 @@
   "amazon:us:10607759": "2026-11-18",
   "amazon:us:10607764": "2026-11-18",
   "amazon:us:10607953": "2026-11-18",
+  "amazon:us:10608002": "2026-11-19",
   "amazon:us:10608003": "2026-11-18",
   "amazon:us:10608004": "2026-11-18",
   "amazon:us:10608005": "2026-11-18",
   "amazon:us:10608023": "2026-11-18",
+  "amazon:us:10608035": "2026-11-19",
   "amazon:us:10608037": "2026-11-18",
+  "amazon:us:10608038": "2026-11-19",
   "amazon:us:10608039": "2026-11-18",
   "amazon:us:10608043": "2026-11-18",
   "amazon:us:10608182": "2026-11-18",
@@ -64319,6 +64324,7 @@
   "amazon:us:10608848": "2026-11-18",
   "amazon:us:10608866": "2026-11-19",
   "amazon:us:10609407": "2026-11-19",
+  "amazon:us:10609453": "2026-11-19",
   "apple:usa:200555687": "2026-11-14",
   "apple:usa:200656816": "2026-11-17",
   "apple:usa:200665281": "2026-11-14",
@@ -64510,8 +64516,11 @@
   "ashby:clera:82d78c4d-4efa-4a57-bb7f-caef93bdcedd": "2026-11-16",
   "ashby:clera:87e4356d-ecc4-476c-894c-84a62c566ba5": "2026-11-14",
   "ashby:clera:8a4702b6-78ec-45a9-8324-0eb530bb49c6": "2026-11-18",
+  "ashby:clera:8fd884f0-de98-470a-b562-9a8209073021": "2026-11-19",
+  "ashby:clera:95975cd0-c782-4d01-ba97-8b726ea98454": "2026-11-19",
   "ashby:clera:9e35059b-c732-44a8-9da3-dedb1d4ba15f": "2026-11-14",
   "ashby:clera:a8a8723a-d74d-43fa-9260-db44efdc3350": "2026-11-18",
+  "ashby:clera:c0517878-58a9-41e0-83c6-f1d41fbf4e37": "2026-11-19",
   "ashby:clera:cd456e6a-41d9-48c6-bcf7-f4605937defa": "2026-11-17",
   "ashby:clera:cdf9651a-0b2b-4d95-8b8e-6a64e7015d12": "2026-11-19",
   "ashby:clera:dd57a8f6-ca07-43cc-8191-5ebc413d810e": "2026-11-14",
@@ -64578,6 +64587,7 @@
   "ashby:govdash:911b41b3-c74a-44db-88ea-96cafb957466": "2026-11-14",
   "ashby:granica:68e0b1db-0f03-4ad3-85e9-586aeb46f6c2": "2026-11-14",
   "ashby:granted:cc514efc-3a4d-4ebc-847c-a0aa26774dd6": "2026-11-14",
+  "ashby:graymatter-robotics:cdb08439-5846-4c47-ae77-37fdd9ea099d": "2026-11-19",
   "ashby:hadrian-automation:11e18ee0-243b-46a8-a9e5-fd67095e3a15": "2026-11-18",
   "ashby:hadrian-automation:f5d91808-1231-4c2e-94a1-1926116afa6b": "2026-11-16",
   "ashby:headway:6a93f139-1423-48ea-b74d-122b17ee3dd1": "2026-11-16",
@@ -64680,8 +64690,10 @@
   "ashby:poshmark:b71bc1f1-00ad-4b56-9640-555ba550e315": "2026-11-18",
   "ashby:pylon:ec7069c3-be77-4885-aed3-aa64f8f71f39": "2026-11-14",
   "ashby:qdrant.tech:840f2ddc-9293-4402-a441-b38f77c1d85a": "2026-11-16",
+  "ashby:quindar:6c512310-7b4a-4033-8188-23cb0da40506": "2026-11-19",
   "ashby:quindar:d98a966b-6657-42fc-a360-d2d184a14b04": "2026-11-16",
   "ashby:quindar:e0f9e400-95e5-4ff1-ba05-67f57a56ba9f": "2026-11-14",
+  "ashby:quindar:f384450c-697b-427e-8930-58fc195016d2": "2026-11-19",
   "ashby:quo:cfc3ade0-d34d-4d11-953e-637d3b88b6e1": "2026-11-14",
   "ashby:quora:dce88e1a-d30f-44e6-a471-cf810fc9a449": "2026-11-16",
   "ashby:radai:1523029c-bf9d-47d9-9fea-19417efed8c5": "2026-11-14",
@@ -65834,6 +65846,7 @@
   "eightfold:johndeere:137483623404": "2026-11-16",
   "eightfold:johndeere:137484016472": "2026-11-16",
   "eightfold:johndeere:137484038362": "2026-11-14",
+  "eightfold:johndeere:137484231195": "2026-11-19",
   "eightfold:johndeere:137484318471": "2026-11-17",
   "eightfold:johndeere:137484452682": "2026-11-17",
   "eightfold:johndeere|johndeere.com:137483370937": "2026-11-14",
@@ -65841,6 +65854,7 @@
   "eightfold:johndeere|johndeere.com:137483623404": "2026-11-16",
   "eightfold:johndeere|johndeere.com:137484016472": "2026-11-16",
   "eightfold:johndeere|johndeere.com:137484038362": "2026-11-14",
+  "eightfold:johndeere|johndeere.com:137484231195": "2026-11-19",
   "eightfold:johndeere|johndeere.com:137484318471": "2026-11-17",
   "eightfold:johndeere|johndeere.com:137484452682": "2026-11-17",
   "eightfold:mercadolibre:43350162": "2026-11-19",
@@ -65870,6 +65884,7 @@
   "eightfold:nvidia:893391032332": "2026-11-17",
   "eightfold:nvidia:893391914089": "2026-11-17",
   "eightfold:nvidia:893392096810": "2026-11-16",
+  "eightfold:nvidia:893392586806": "2026-11-19",
   "eightfold:nvidia:893394241567": "2026-11-14",
   "eightfold:nvidia:893394443076": "2026-11-16",
   "eightfold:nvidia:893396024552": "2026-11-16",
@@ -66336,6 +66351,7 @@
   "greenhouse:accenturefederalservices:4727592006": "2026-11-14",
   "greenhouse:accenturefederalservices:4727756006": "2026-11-14",
   "greenhouse:accenturefederalservices:4727887006": "2026-11-14",
+  "greenhouse:accenturefederalservices:4729041006": "2026-11-19",
   "greenhouse:accenturefederalservices:4729195006": "2026-11-14",
   "greenhouse:accenturefederalservices:4729532006": "2026-11-14",
   "greenhouse:accenturefederalservices:4730514006": "2026-11-18",
@@ -66354,6 +66370,7 @@
   "greenhouse:airbnb:8393912": "2026-11-16",
   "greenhouse:airbnb:8397762": "2026-11-17",
   "greenhouse:akidolabs:4724400006": "2026-11-14",
+  "greenhouse:albedo:4514680009": "2026-11-19",
   "greenhouse:altentechnologyusa:5291820007": "2026-11-14",
   "greenhouse:altentechnologyusa:5291845007": "2026-11-14",
   "greenhouse:anthropic:5484171008": "2026-11-17",
@@ -67628,6 +67645,8 @@
   "jobvite:ninjaone:oKjFAfw2": "2026-11-14",
   "jobvite:nrchealth:ovj0Afw8": "2026-11-15",
   "jobvite:nuscale-power:oLCRAfwy": "2026-11-15",
+  "jobvite:nutanix:oiJ7Afws": "2026-11-19",
+  "jobvite:nutanix:oyJ7AfwI": "2026-11-19",
   "jobvite:nychdc:oeSEAfw4": "2026-11-15",
   "jobvite:nychdc:otZHAfwt": "2026-11-15",
   "jobvite:oneco:oBEXdfw9": "2026-11-15",
@@ -68099,6 +68118,7 @@
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210752951": "2026-11-18",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210777835": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210779159": "2026-11-16",
+  "oracle:jpmc.fa.oraclecloud.com|CX_1001:210784166": "2026-11-19",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210784170": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210784266": "2026-11-18",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210784713": "2026-11-16",
@@ -68208,6 +68228,7 @@
   "recruitee:aikidosecurity:2793094": "2026-11-14",
   "recruitee:hudsonmanpower:2819095": "2026-11-15",
   "recruitee:hudsonmanpower:2823127": "2026-11-15",
+  "remoteok:remoteok:1137805": "2026-11-19",
   "rippling:aalyria-careers:035ea1ae-1c7b-4871-b64a-25a5b9c87c5e": "2026-11-14",
   "rippling:aalyria-careers:083748bf-0471-4501-8550-867703d61ad9": "2026-11-17",
   "rippling:aalyria-careers:31eafdd0-f84e-45a5-a5c6-e6a4cacc6b32": "2026-11-14",
@@ -68442,6 +68463,7 @@
   "sfrmk:careers.capgemini.com:1374591333": "2026-11-19",
   "sfrmk:careers.capgemini.com:1376756133": "2026-11-17",
   "sfrmk:careers.capgemini.com:1376811633": "2026-11-14",
+  "sfrmk:careers.capgemini.com:1376906233": "2026-11-19",
   "sfrmk:careers.capgemini.com:1377080533": "2026-11-14",
   "sfrmk:careers.capgemini.com:1377082633": "2026-11-14",
   "sfrmk:careers.capgemini.com:1378898933": "2026-11-19",
@@ -69148,6 +69170,7 @@
   "tiktok:us:7483343729630202130": "2026-11-14",
   "tiktok:us:7488399042070956296": "2026-11-14",
   "tiktok:us:7488405096855046407": "2026-11-14",
+  "tiktok:us:7493234331159496978": "2026-11-19",
   "tiktok:us:7514815357371959559": "2026-11-18",
   "tiktok:us:7515161004087625991": "2026-11-14",
   "tiktok:us:7529626439915079944": "2026-11-14",
@@ -70228,10 +70251,10 @@
  },
  "source_last": {
   "hn": "2026-11-19T15:18:34+00:00",
-  "remoteok": "2026-11-19T15:18:34+00:00",
+  "remoteok": "2026-11-19T17:18:15+00:00",
   "usajobs": "2026-11-19T16:22:20+00:00",
   "workable_search": "2026-11-19T16:22:20+00:00",
-  "wwr": "2026-11-19T16:22:20+00:00",
+  "wwr": "2026-11-19T17:18:15+00:00",
   "yc": "2026-11-19T16:22:20+00:00"
  },
  "title_rules": "72f554d20a7f",
