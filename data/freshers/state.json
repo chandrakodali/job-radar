@@ -12012,17 +12012,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 139,
+   "n": 140,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 139,
+   "n": 140,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 139,
+   "n": 140,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -65767,6 +65767,7 @@
   "ashby:ruby-labs:fbd0a088-0104-4802-a693-2690be572181": "2026-11-13",
   "ashby:rula:ab97133b-3d3d-4802-8202-e3c37f48c09e": "2026-11-13",
   "ashby:sailorhealth:df9dbe7a-995d-4bfb-9bdd-08cab451e61a": "2026-11-13",
+  "ashby:salmon-group:90713127-0509-47a3-829b-ad2f523f2c9c": "2026-11-19",
   "ashby:saronic:075bb754-ad9e-448c-a2b3-4de4e435bf57": "2026-11-17",
   "ashby:saronic:4b601575-99ba-4a5e-962f-d884bb3a85ac": "2026-11-16",
   "ashby:saronic:5c8201ff-6da7-47a1-a6d4-d698372ded00": "2026-11-18",
@@ -68758,6 +68759,7 @@
   "eightfold:johndeere|johndeere.com:137484385559": "2026-11-13",
   "eightfold:lamresearch:1099556694708": "2026-11-16",
   "eightfold:lamresearch:1099556832885": "2026-11-16",
+  "eightfold:lamresearch:1099556905518": "2026-11-19",
   "eightfold:mercadolibre:44898370": "2026-11-18",
   "eightfold:mercadolibre:45373237": "2026-11-14",
   "eightfold:mercadolibre:45513459": "2026-11-14",
@@ -70197,6 +70199,7 @@
   "greenhouse:sparksoftcorporation:5296350007": "2026-11-17",
   "greenhouse:specialty1:4730304006": "2026-11-17",
   "greenhouse:specterops:8939942002": "2026-11-13",
+  "greenhouse:spektrum:5042292101": "2026-11-19",
   "greenhouse:splitero:5473851008": "2026-11-13",
   "greenhouse:spsnorthamerica:5471262008": "2026-11-15",
   "greenhouse:stackav:5282007007": "2026-11-13",

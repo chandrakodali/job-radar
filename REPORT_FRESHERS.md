@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**615 jobs**, newest first. Updated Thu Nov 19, 3:45 AM CST from 12,526 company job boards and other sources.
+**615 jobs**, newest first. Updated Thu Nov 19, 4:46 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -665,7 +665,7 @@ Jump to: [Thu 19 (11)](#thursday-nov-19-11) · [Wed 18 (59)](#wednesday-nov-18-5
 | 5:29 AM | [Beneficiary Support Specialist](https://jobs.lever.co/jobgether/d85e5901-67b6-4807-aa43-4b76e86064b2) | Jobgether | US (remote) | 65 | 1+ yrs exp |
 | 5:08 AM | [Data Analyst I Product](https://jobs.lever.co/jobgether/d6293ec5-4e13-4ff0-8f58-6d2b5432d3bb) | Jobgether | US (remote) | 75 | entry-level title; 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3846)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3847)
 
 <details><summary>Show</summary>
 
@@ -1039,6 +1039,7 @@ Jump to: [Thu 19 (11)](#thursday-nov-19-11) · [Wed 18 (59)](#wednesday-nov-18-5
 | 1:24 PM | [IT Engineer](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17621) | Sinclair | New Bern, NC, United States (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 1:24 PM | [IT Engineer](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/17621) | Edyy Fa Us2 Oraclecloud Com | New Bern, NC, United States (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 1:15 PM | [Technical Operations Engineer, Revenue](https://stripe.com/jobs/search?gh_jid=8379544) | Stripe | US | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 1:08 PM | [Performance Testing - QA](https://lamresearch.eightfold.ai/careers/job/1099556905518) | Lamresearch | Fremont, CA, US (onsite) | 43 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 1:06 PM | [Performance Test Engineer](https://www.veracode.com/career/job?gh_jid=8944197002) | Veracode | Burlington, MA OR US Remote (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 1:00 PM | [Hardware Systems Engineer](https://job-boards.greenhouse.io/doordashusa/jobs/8396696) | DoorDash | Oakland, CA | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 12:59 PM | [Product Security Engineer](https://jobs.ashbyhq.com/hex/ec7b16d7-3385-4675-9b75-86f38616a09b) | Hex Technologies | Remote - US; San Francisco; New York (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -1070,6 +1071,5 @@ Jump to: [Thu 19 (11)](#thursday-nov-19-11) · [Wed 18 (59)](#wednesday-nov-18-5
 | 11:23 AM | [Data Infrastructure Engineer, Query Engine](https://jobs.ashbyhq.com/Clera/10add56b-cc60-48cd-80ca-4d2ec4081113) | Clera | San Mateo (onsite) | 70 | rules: 4+ yrs exp; sponsors visas; asks for 4+ years of experience |
 | 11:21 AM | [Solution Consultant - R&D](https://jobs.ashbyhq.com/benchling/929b808c-06b6-4967-9d2b-91a4daf8392d) | Benchling | New York, NY +1 more (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 11:17 AM | [Avionics Test Specialist](https://job-boards.greenhouse.io/castelioncorporation/jobs/4507169009) | Castelion | Torrance, CA | 45 | rules: 5+ yrs exp; needs: security clearance |
-| 11:15 AM | [Software Engineer, Presence](https://jobs.ashbyhq.com/openai/1327d083-c932-4aed-aadc-57586521ee60) | OpenAI | San Francisco | 45 | rules: 9+ yrs exp; asks for 9+ years of experience |
 
 </details>
