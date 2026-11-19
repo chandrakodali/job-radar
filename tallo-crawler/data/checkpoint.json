@@ -18,18 +18,6 @@
   "core_remaining": 0,
   "pending": [
     {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/la/maringouin",
-      "label": "Maringouin",
-      "count": 1,
-      "deferred_once": true
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/la/raceland",
-      "label": "Raceland",
-      "count": 1,
-      "deferred_once": true
-    },
-    {
       "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ma/leominster",
       "label": "Leominster",
       "count": 1,
