@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 288,
+   "n": 289,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 288,
+   "n": 289,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 288,
+   "n": 289,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15007,7 +15007,7 @@
   ],
   "2026-11-19": [
    100,
-   213
+   215
   ]
  },
  "resolved": {
@@ -68264,6 +68264,8 @@
   "lever:loftorbital:5febb779-717c-40d6-9a4d-a261fe2fca09": "2026-11-13",
   "lever:loftorbital:7a06a11c-32ea-4fd2-a0bc-4f96561218a0": "2026-11-12",
   "lever:magnetforensics:1aeef597-5f34-4cfa-b913-dd1c302eb9da": "2026-11-07",
+  "lever:palantir:4a9e0649-a925-4b25-914d-1eea058a3e01": "2026-11-19",
+  "lever:palantir:773bb739-f011-4202-88d7-362a562df0d3": "2026-11-19",
   "lever:pingwind:9667df85-c6c2-46ce-b3d7-18e1a12d1f0d": "2026-11-07",
   "lever:pointclickcare:dc0d44ce-bc2a-4577-bb0b-a38250bfc971": "2026-11-07",
   "lever:prolific-machines:10441e3a-f731-4230-b8d7-f792daf8cd87": "2026-11-19",
@@ -70246,11 +70248,11 @@
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-19T08:37:16+00:00",
+  "hn": "2026-11-19T14:37:14+00:00",
   "remoteok": "2026-11-19T13:37:14+00:00",
   "usajobs": "2026-11-19T13:07:16+00:00",
   "workable_search": "2026-11-19T13:07:16+00:00",
-  "wwr": "2026-11-19T13:37:14+00:00",
+  "wwr": "2026-11-19T14:37:14+00:00",
   "yc": "2026-11-19T13:07:16+00:00"
  },
  "title_rules": "c323075b4d70",

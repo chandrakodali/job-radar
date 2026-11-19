@@ -1,20 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**613 jobs**, newest first. Updated Thu Nov 19, 8:07 AM CST from 12,526 company job boards and other sources.
+**614 jobs**, newest first. Updated Thu Nov 19, 8:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-247 repeat listings (same company and title in another place or on another source) are merged into one row.
+248 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,296 matching jobs that job sites and feeds listed this week, 846 (36%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,298 matching jobs that job sites and feeds listed this week, 846 (36%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (6)](#thursday-nov-19-6) · [Wed 18 (47)](#wednesday-nov-18-47) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (83)](#thursday-nov-12-83)
+Jump to: [Thu 19 (7)](#thursday-nov-19-7) · [Wed 18 (47)](#wednesday-nov-18-47) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (83)](#thursday-nov-12-83)
 
-## Thursday, Nov 19 (6)
+## Thursday, Nov 19 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [DevOps / SRE Engineer (Kubernetes, Terraform), AI Expert](https://apply.workable.com/weekday-1/j/FD2496AC64/) | Weekday AI | United States (remote) | 57 | 4+ yrs exp; repost |
+| 8:23 AM | [Site Reliability Operations Analyst - Legal](https://jobs.lever.co/palantir/4a9e0649-a925-4b25-914d-1eea058a3e01) | Palantir | Washington, D.C. +1 more (hybrid) | 65 | 3+ yrs exp |
 | 7:52 AM | [Infrastructure Engineer Deskside Support](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120595) | Howmet Aerospace | Wichita Falls, TX, United States (onsite) | 65 | 4+ yrs exp |
 | 5:16 AM | [System Administrator](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016959286-system-administrator) | Cityofnewyork | New York City, NY, United States | 50 | repost |
 | 5:08 AM | [Platform Engineer](https://ericsson.eightfold.ai/careers/job/563121777600972) | Ericsson | Madrid, MD, ES (onsite) | 70 |  |
