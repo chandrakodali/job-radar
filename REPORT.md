@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**612 jobs**, newest first. Updated Wed Nov 18, 8:37 PM CST from 12,526 company job boards and other sources.
+**614 jobs**, newest first. Updated Wed Nov 18, 9:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,12 +8,14 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 2,126 matching jobs that job sites and feeds listed this week, 766 (36%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (42)](#wednesday-nov-18-42) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (1)](#wednesday-nov-11-1)
+Jump to: [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (1)](#wednesday-nov-11-1)
 
-## Wednesday, Nov 18 (42)
+## Wednesday, Nov 18 (44)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 9:02 PM | [Cloud Development Engineering Senior Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215094) | DTCC | Tampa, FL, United States; Dallas, TX, U… | 65 | entry-level title; senior title, years not stated |
+| 9:02 PM | [Cloud Development Engineering Senior Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/215094) | Ebxr Fa Us2 Oraclecloud Com | Tampa, FL, United States; Dallas, TX, U… | 60 | entry-level title; senior title, years not stated |
 | 6:48 PM | [Senior Infrastructure Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016715) | American Express | Phoenix, AZ, United States (hybrid) | 60 | 3+ yrs exp; senior title |
 | 6:48 PM | [Senior Infrastructure Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26016715) | Egug Fa Us2 Oraclecloud Com | Phoenix, AZ, United States (hybrid) | 55 | 3+ yrs exp; senior title |
 | 6:46 PM | [Site Reliability Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016351) | American Express | Phoenix, AZ, United States (hybrid) | 65 |  |
@@ -662,12 +664,13 @@ Jump to: [Wed 18 (42)](#wednesday-nov-18-42) · [Tue 17 (33)](#tuesday-nov-17-33
 |---|---|---|---|---:|---|
 | 11:24 PM | [CAD Engineer - Signoff Infrastructure](https://jobs.apple.com/en-us/details/200684809/cad-engineer-signoff-infrastructure) | Apple | United States of America | 58 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (776)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (777)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 9:01 PM | [DevOps Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4730802006?gh_jid=4730802006) | Accenture | Chantilly, VA | 50 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: Security cleara… |
 | 7:37 PM | [Network Engineer](https://jobs.smartrecruiters.com/Wabtec/3743990016954416-network-engineer) | Wabtec | Pittsburgh, PA, United States (hybrid) | 50 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | 7:23 PM | [Senior Systems Administrator](https://jobs.ashbyhq.com/swarmaero/f6362109-d107-46e7-aa57-04d0da26c3c5) | Swarm Aero | Oxnard (onsite) | 35 | rules: 5+ yrs exp; senior title; needs: must be a U.S. citizen |
 | 4:47 PM | [Senior Infrastructure Security Engineer (Cloud & On-Prem)](https://job-boards.greenhouse.io/valaratomics/jobs/4510605009) | Valaratomics | Torrance, California, United States | 45 | rules: 7+ yrs exp; senior title; needs: Must be a U.S. person |
@@ -1067,7 +1070,6 @@ Jump to: [Wed 18 (42)](#wednesday-nov-18-42) · [Tue 17 (33)](#tuesday-nov-17-33
 | 5:17 PM (seen) | [Senior Flight Reliability Engineer](https://impulsespace.pinpointhq.com/en/postings/639faa32-1d92-400b-b42d-09ac2bd3fba5) | Impulse Space | Redondo Beach (onsite) | 20 | rules: 5+ yrs exp; senior title; needs: security clearance |
 | 5:17 PM (seen) | [Senior Design Reliability Engineer](https://impulsespace.pinpointhq.com/en/postings/1004df28-255a-4442-bf7f-1452bb776d96) | Impulse Space | Redondo Beach (onsite) | 20 | rules: 8+ yrs exp; senior title; needs: must be a U.S. citizen |
 | 5:01 PM | [Senior IT Security and Network Engineer](https://jobs.smartrecruiters.com/AIRCommunities/744000161393439-senior-it-security-and-network-engineer) | AIRCommunities | Denver, CO, United States | 23 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| 4:28 PM | [Reliability Engineer (Remote)](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5294005007) | ALTEN Technology | Palo Alto, CA | 50 | rules: adjacent title, little DevOps/cloud work in the text |
 
 </details>
 

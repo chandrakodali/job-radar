@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 265,
+   "n": 266,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 265,
+   "n": 266,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 265,
+   "n": 266,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -66934,6 +66934,7 @@
   "greenhouse:accenturefederalservices:4729195006": "2026-11-13",
   "greenhouse:accenturefederalservices:4729884006": "2026-11-16",
   "greenhouse:accenturefederalservices:4730735006": "2026-11-18",
+  "greenhouse:accenturefederalservices:4730802006": "2026-11-19",
   "greenhouse:aclu:8941758002": "2026-11-13",
   "greenhouse:advancedtechnologyservices:4727989006": "2026-11-13",
   "greenhouse:aegworldwide:8949373002": "2026-11-18",
@@ -68265,6 +68266,7 @@
   "oracle:ebxr.fa.us2.oraclecloud.com|CX:214412": "2026-11-17",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX:214781": "2026-11-15",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX:214987": "2026-11-15",
+  "oracle:ebxr.fa.us2.oraclecloud.com|CX:215094": "2026-11-19",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX:215220": "2026-11-15",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX_1:213977": "2026-11-12",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX_1:214412": "2026-11-17",
@@ -68272,6 +68274,7 @@
   "oracle:ebxr.fa.us2.oraclecloud.com|CX_1:214781": "2026-11-12",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX_1:214987": "2026-11-12",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX_1:215046": "2026-11-08",
+  "oracle:ebxr.fa.us2.oraclecloud.com|CX_1:215094": "2026-11-19",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX_1:215220": "2026-11-10",
   "oracle:ecge.fa.us2.oraclecloud.com|CX_1003:20262402": "2026-11-12",
   "oracle:eckb.fa.us2.oraclecloud.com|CX_1001:103753": "2026-11-16",
