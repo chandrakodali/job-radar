@@ -12021,17 +12021,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 152,
+   "n": 153,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 152,
+   "n": 153,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 152,
+   "n": 153,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -65022,6 +65022,7 @@
   "amazon:us:10609827": "2026-11-19",
   "amazon:us:10609843": "2026-11-19",
   "amazon:us:10609846": "2026-11-19",
+  "amazon:us:10609911": "2026-11-19",
   "apple:usa:200555687": "2026-11-14",
   "apple:usa:200607680": "2026-11-14",
   "apple:usa:200624249": "2026-11-17",
@@ -65745,6 +65746,7 @@
   "ashby:openai:1327d083-c932-4aed-aadc-57586521ee60": "2026-11-17",
   "ashby:openai:2320fe69-df26-4d1d-ada6-d1a46c0e68a1": "2026-11-13",
   "ashby:openai:26cfb873-f30a-4a13-b7b6-52833ea48ec9": "2026-11-13",
+  "ashby:openai:393b88d7-1fbc-466a-9108-a7c1bafeb8d8": "2026-11-19",
   "ashby:openai:3f99bfef-5b1a-48ea-aed0-2dbd57b12722": "2026-11-13",
   "ashby:openai:4f2d9849-ad00-48d5-a22f-0cb943723999": "2026-11-13",
   "ashby:openai:57bbaedc-30c1-4f1d-b194-e32a6adf874c": "2026-11-13",
@@ -68786,6 +68788,7 @@
   "eightfold:citi:859038920676": "2026-11-16",
   "eightfold:citi:859038949395": "2026-11-17",
   "eightfold:citi:859038956013": "2026-11-18",
+  "eightfold:citi:859038978162": "2026-11-19",
   "eightfold:citi:859039011534": "2026-11-16",
   "eightfold:citi:859039017393": "2026-11-16",
   "eightfold:citi:859039019215": "2026-11-17",
@@ -68981,8 +68984,10 @@
   "eightfold:nvidia:893391914089": "2026-11-17",
   "eightfold:nvidia:893392771293": "2026-11-19",
   "eightfold:nvidia:893392914910": "2026-11-17",
+  "eightfold:nvidia:893393527435": "2026-11-19",
   "eightfold:nvidia:893393582156": "2026-11-19",
   "eightfold:nvidia:893396228167": "2026-11-16",
+  "eightfold:nvidia:893397026396": "2026-11-19",
   "eightfold:nvidia:893397026418": "2026-11-19",
   "eightfold:nvidia:893397444101": "2026-11-16",
   "eightfold:nvidia:893397742060": "2026-11-15",
@@ -74913,6 +74918,8 @@
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350693": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350752": "2026-11-17",
   "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:350810": "2026-11-18",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:351015": "2026-11-19",
+  "oracle:eeho.fa.us2.oraclecloud.com|CX_45001:351017": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:341614": "2026-11-16",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:342608": "2026-11-18",
   "oracle:eeho.fa.us2.oraclecloud.com|jobearch:344166": "2026-11-17",
@@ -78936,6 +78943,7 @@
   "workable:credence:072FAF32A3": "2026-11-18",
   "workable:credence:207F2F6631": "2026-11-13",
   "workable:credence:4ACC00A456": "2026-11-13",
+  "workable:credence:7F20519967": "2026-11-19",
   "workable:cwill-us:1BC6285A3C": "2026-11-18",
   "workable:cwill-us:B2199498C1": "2026-11-13",
   "workable:cwill-us:F8335216DC": "2026-11-13",
