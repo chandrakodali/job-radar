@@ -12001,17 +12001,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 104,
+   "n": 105,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 104,
+   "n": 105,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 104,
+   "n": 105,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -64276,9 +64276,11 @@
   "amazon:us:10607689": "2026-11-17",
   "amazon:us:10607712": "2026-11-18",
   "amazon:us:10607713": "2026-11-18",
+  "amazon:us:10607721": "2026-11-19",
   "amazon:us:10607724": "2026-11-19",
   "amazon:us:10607729": "2026-11-18",
   "amazon:us:10607741": "2026-11-18",
+  "amazon:us:10607758": "2026-11-19",
   "amazon:us:10607759": "2026-11-18",
   "amazon:us:10607764": "2026-11-18",
   "amazon:us:10607953": "2026-11-18",
@@ -64716,6 +64718,8 @@
   "ashby:tigerdata:8c701831-c4cf-4cc8-a9f0-0afa30474c08": "2026-11-14",
   "ashby:triumph-arcade:714a3b99-8a7d-4f0a-9944-d2d0cbb8bbca": "2026-11-14",
   "ashby:turquoise-health:21ccc42d-aa61-47d0-8764-aee7cf6ff7ba": "2026-11-14",
+  "ashby:twenty:63fe7108-f101-4e9d-a8f5-f59d0700ca15": "2026-11-19",
+  "ashby:twenty:9a39c854-adbc-47dd-8f3a-5ccb82eb9b63": "2026-11-19",
   "ashby:uipath:733b5306-61f9-4320-904b-7e32fbdb32ac": "2026-11-16",
   "ashby:verticalsemi:0c17d450-fdbc-4538-a06d-c84c931bec9c": "2026-11-14",
   "ashby:vibe:7899ca8c-122b-49b3-80bc-db7a996584e6": "2026-11-14",
@@ -68336,6 +68340,7 @@
   "sfrmk:careers.capgemini.com:1103984001": "2026-11-16",
   "sfrmk:careers.capgemini.com:1124548701": "2026-11-16",
   "sfrmk:careers.capgemini.com:1193826601": "2026-11-18",
+  "sfrmk:careers.capgemini.com:1194548801": "2026-11-19",
   "sfrmk:careers.capgemini.com:1195892601": "2026-11-16",
   "sfrmk:careers.capgemini.com:1202064601": "2026-11-16",
   "sfrmk:careers.capgemini.com:1203244701": "2026-11-16",
@@ -68361,6 +68366,8 @@
   "sfrmk:careers.capgemini.com:1376811633": "2026-11-14",
   "sfrmk:careers.capgemini.com:1377080533": "2026-11-14",
   "sfrmk:careers.capgemini.com:1377082633": "2026-11-14",
+  "sfrmk:careers.capgemini.com:1378898933": "2026-11-19",
+  "sfrmk:careers.capgemini.com:1379326833": "2026-11-19",
   "sfrmk:careers.capgemini.com:1379537733": "2026-11-14",
   "sfrmk:careers.capgemini.com:1381574333": "2026-11-16",
   "sfrmk:careers.capgemini.com:1385368233": "2026-11-17",
@@ -69743,6 +69750,7 @@
   "workday:mtb|wd5|Campus:R92036": "2026-11-14",
   "workday:mtb|wd5|MTB:R91281": "2026-11-14",
   "workday:mtb|wd5|MTB:R91878": "2026-11-14",
+  "workday:my7elevenhr|wd12|Careers:SSC 7Next Irving": "2026-11-19",
   "workday:my7elevenhr|wd12|Careers:SSC Irving TX": "2026-11-14",
   "workday:mydpr|wd5|11212017:JR-18123": "2026-11-14",
   "workday:myhrabc|wd5|Global:R2612984": "2026-11-14",
@@ -70097,10 +70105,10 @@
  },
  "source_last": {
   "hn": "2026-11-18T21:18:27+00:00",
-  "remoteok": "2026-11-19T00:15:38+00:00",
+  "remoteok": "2026-11-19T02:19:01+00:00",
   "usajobs": "2026-11-19T01:17:20+00:00",
   "workable_search": "2026-11-19T01:17:20+00:00",
-  "wwr": "2026-11-19T01:17:20+00:00",
+  "wwr": "2026-11-19T02:19:01+00:00",
   "yc": "2026-11-19T01:17:20+00:00"
  },
  "title_rules": "72f554d20a7f",
