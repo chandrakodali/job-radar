@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 278,
+   "n": 279,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 278,
+   "n": 279,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 278,
+   "n": 279,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14606,6 +14606,11 @@
    "n": 4,
    "since": "2026-11-08"
   },
+  "workday:ace|wd5|careers": {
+   "err": "network error: ConnectTimeout",
+   "n": 1,
+   "since": "2026-11-19"
+  },
   "workday:amplify|wd1|Amplify_Careers": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 403",
@@ -15007,7 +15012,7 @@
   ],
   "2026-11-19": [
    60,
-   129
+   131
   ]
  },
  "resolved": {
@@ -70233,10 +70238,10 @@
  },
  "source_last": {
   "hn": "2026-11-19T08:37:16+00:00",
-  "remoteok": "2026-11-19T07:37:24+00:00",
+  "remoteok": "2026-11-19T09:37:16+00:00",
   "usajobs": "2026-11-19T07:07:18+00:00",
   "workable_search": "2026-11-19T07:07:18+00:00",
-  "wwr": "2026-11-19T08:37:16+00:00",
+  "wwr": "2026-11-19T09:37:16+00:00",
   "yc": "2026-11-19T07:07:18+00:00"
  },
  "title_rules": "c323075b4d70",
