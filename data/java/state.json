@@ -12009,17 +12009,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 126,
+   "n": 127,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 126,
+   "n": 127,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 126,
+   "n": 127,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12099,11 +12099,6 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
-  },
-  "greenhouse:bayada": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-19"
   },
   "greenhouse:breezeairways": {
    "disabled_until": "2026-11-21",
@@ -13344,10 +13339,12 @@
   "Pine Park Health": "2026-11-19",
   "Polymath Robotics": "2026-11-16",
   "REVER": "2026-11-19",
+  "Revive Media": "2026-11-19",
   "Rockstar": "2026-11-17",
   "Sapsol Technologies Inc": "2026-11-16",
   "Stealth Health-Tech Startup": "2026-11-16",
   "Symmetrio": "2026-11-19",
+  "TestTrick Testing": "2026-11-19",
   "Treatwell": "2026-11-19",
   "True Talent Solutions Partners": "2026-11-18",
   "TrueBiz": "2026-11-19",
@@ -13381,8 +13378,8 @@
    492
   ],
   "2026-11-19": [
-   119,
-   380
+   134,
+   429
   ]
  },
  "resolved": {
@@ -64438,6 +64435,7 @@
   "apple:usa:200695814": "2026-11-19",
   "apple:usa:200695936": "2026-11-19",
   "apple:usa:200695937": "2026-11-19",
+  "apple:usa:200695991": "2026-11-19",
   "apple:usa:200696012": "2026-11-19",
   "apple:usa:200696013": "2026-11-19",
   "ashby:42dot:26f79b07-2ffc-44a3-9d92-36111d18fb34": "2026-11-14",
@@ -65938,9 +65936,12 @@
   "eightfold:nvidia:893391914089": "2026-11-17",
   "eightfold:nvidia:893392096810": "2026-11-16",
   "eightfold:nvidia:893392128571": "2026-11-19",
+  "eightfold:nvidia:893392565312": "2026-11-19",
   "eightfold:nvidia:893392586806": "2026-11-19",
   "eightfold:nvidia:893392890244": "2026-11-19",
+  "eightfold:nvidia:893392917583": "2026-11-19",
   "eightfold:nvidia:893392993030": "2026-11-19",
+  "eightfold:nvidia:893393629050": "2026-11-19",
   "eightfold:nvidia:893393995118": "2026-11-19",
   "eightfold:nvidia:893394111963": "2026-11-19",
   "eightfold:nvidia:893394206080": "2026-11-19",
@@ -65959,6 +65960,7 @@
   "eightfold:nvidia:893396451459": "2026-11-16",
   "eightfold:nvidia:893396474683": "2026-11-19",
   "eightfold:nvidia:893396811046": "2026-11-16",
+  "eightfold:nvidia:893396901698": "2026-11-19",
   "eightfold:nvidia:893396953463": "2026-11-14",
   "eightfold:nvidia:893397011784": "2026-11-19",
   "eightfold:nvidia:893397145203": "2026-11-14",
@@ -66680,6 +66682,7 @@
   "greenhouse:octanelending:8197643003": "2026-11-15",
   "greenhouse:octanelending:8203601003": "2026-11-15",
   "greenhouse:okta:8384001": "2026-11-17",
+  "greenhouse:okx:8209722003": "2026-11-19",
   "greenhouse:openeye:8952351002": "2026-11-19",
   "greenhouse:orbisoperations:4505540009": "2026-11-14",
   "greenhouse:paretocaptiveservicesllc:4730777006": "2026-11-19",
@@ -68227,6 +68230,8 @@
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:303784": "2026-11-14",
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:304218": "2026-11-14",
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:304226": "2026-11-17",
+  "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:304922": "2026-11-19",
+  "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:304972": "2026-11-19",
   "oracle:ibqbjb.fa.ocs.oraclecloud.com|Honeywell:161747": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210741625": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210745587": "2026-11-17",
@@ -69046,6 +69051,7 @@
   "sfrmk:jobs.netapp.com:1451932200": "2026-11-18",
   "sfrmk:jobs.netapp.com:1451950100": "2026-11-18",
   "sfrmk:jobs.netapp.com:1452037200": "2026-11-18",
+  "sfrmk:jobs.netapp.com:1452419000": "2026-11-19",
   "sfrmk:jobs.nexteraenergy.com:1433113000": "2026-11-14",
   "sfrmk:jobs.nexteraenergy.com:1440011500": "2026-11-14",
   "sfrmk:jobs.nexteraenergy.com:1444759900": "2026-11-14",
@@ -69504,9 +69510,11 @@
   "workable_search:all:85082443-9dcb-4a3d-96cc-4399dc29d691": "2026-11-14",
   "workable_search:all:8cec6421-e36c-4252-b0b7-3f9dee4e29ab": "2026-11-14",
   "workable_search:all:a02e2d7b-42d5-4a58-b0de-ca279caee795": "2026-11-18",
+  "workable_search:all:a2538df4-827a-40da-b869-3ada8d35b6a2": "2026-11-19",
   "workable_search:all:a2c078a8-e127-4573-9729-f2f7064ee9fe": "2026-11-18",
   "workable_search:all:ab6bb083-dfe0-4fb9-a591-cb8f0bcfba44": "2026-11-19",
   "workable_search:all:adc22065-446d-4e82-8439-6c187f2ba33a": "2026-11-18",
+  "workable_search:all:adfecba2-e422-46eb-95fb-584211500377": "2026-11-19",
   "workable_search:all:aec9f916-6cea-4fe7-96cc-93543bcd8b2e": "2026-11-14",
   "workable_search:all:b16cd1c9-07e7-4c80-a2f5-b2b707bce96b": "2026-11-14",
   "workable_search:all:b4f21e58-8137-4cc2-94d8-90817a2d88aa": "2026-11-14",
@@ -70388,10 +70396,10 @@
  "source_last": {
   "hn": "2026-11-19T21:48:48+00:00",
   "remoteok": "2026-11-19T21:48:48+00:00",
-  "usajobs": "2026-11-19T19:18:26+00:00",
-  "workable_search": "2026-11-19T19:18:26+00:00",
-  "wwr": "2026-11-19T21:48:48+00:00",
-  "yc": "2026-11-19T19:18:26+00:00"
+  "usajobs": "2026-11-19T22:47:13+00:00",
+  "workable_search": "2026-11-19T22:47:13+00:00",
+  "wwr": "2026-11-19T22:47:13+00:00",
+  "yc": "2026-11-19T22:47:13+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
