@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**610 jobs**, newest first. Updated Thu Nov 19, 5:07 AM CST from 12,526 company job boards and other sources.
+**610 jobs**, newest first. Updated Thu Nov 19, 5:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 249 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,253 matching jobs that job sites and feeds listed this week, 826 (36%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,255 matching jobs that job sites and feeds listed this week, 826 (36%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (45)](#wednesday-nov-18-45) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (83)](#thursday-nov-12-83)
 
@@ -660,13 +660,14 @@ Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (45)](#wednesday-nov-18-45)
 | 8:46 AM | [AIOps Software Engineer - Strategic Data Solutions](https://jobs.apple.com/en-us/details/200693736/aiops-software-engineer-strategic-data-solutions) | Apple | United States of America | 58 |  |
 | 8:43 AM | [Data Observability Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628930) | Sherwin-Williams | Cleveland, OH, United States | 60 | 3+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (777)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (778)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Senior Site Reliability Engineer – Distributed Storage](https://nvidia.eightfold.ai/careers/job/893398810398) | Nvidia | Santa Clara, CA, US; Austin, TX, US; TX… (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
+| 5:31 AM | [Network Administrator](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016959551-network-administrator) | Cityofnewyork | New York City, NY, United States | 30 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 12:40 AM | [Senior Azure DevOps Engineer](https://jobs.lever.co/jobgether/0566bf98-f3eb-4d14-b4f6-47a81c8c1464) | Jobgether | US (remote) | 42 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 12:00 AM | [Information Technology - Azure Administrator 130-2069](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6578) | Ccok | Tulsa, OK, US | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 9:01 PM | [DevOps Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4730802006?gh_jid=4730802006) | Accenture | Chantilly, VA | 50 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: Security cleara… |
@@ -1065,7 +1066,6 @@ Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (45)](#wednesday-nov-18-45)
 | 7:44 PM | [Senior Site Reliability Engineer](https://jobs.ashbyhq.com/airbyte/5930fed9-c4f6-43c3-87be-3402c2c46489) | Airbyte | San Francisco (hybrid) | 60 | rules: 7+ yrs exp; senior title; priority company; asks for 7+ years … |
 | 6:11 PM | [Site Reliability Engineer, Data Platform](https://jobs.ashbyhq.com/revel/a7801a26-a562-423f-9cc1-6e3f3fa69430) | Revel | North America / Los Angeles / San Franc… (onsite) | 70 | rules: needs: ITAR |
 | 5:50 PM | [AI Platform Engineer](https://jobs.ashbyhq.com/polygon-labs/ec7277f7-4757-4863-967c-eecaee0d0740) | Polygon Labs | EMEA - Remote; USA - Remote (remote) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 5:17 PM (seen) | [Senior Flight Reliability Engineer](https://impulsespace.pinpointhq.com/en/postings/639faa32-1d92-400b-b42d-09ac2bd3fba5) | Impulse Space | Redondo Beach (onsite) | 20 | rules: 5+ yrs exp; senior title; needs: security clearance |
 
 </details>
 

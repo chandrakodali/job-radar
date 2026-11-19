@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 282,
+   "n": 283,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 282,
+   "n": 283,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 282,
+   "n": 283,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15007,7 +15007,7 @@
   ],
   "2026-11-19": [
    80,
-   170
+   172
   ]
  },
  "resolved": {
@@ -69237,6 +69237,7 @@
   "smartrecruiters:cityofnewyork:3743990016787316": "2026-11-14",
   "smartrecruiters:cityofnewyork:3743990016898476": "2026-11-17",
   "smartrecruiters:cityofnewyork:3743990016959286": "2026-11-19",
+  "smartrecruiters:cityofnewyork:3743990016959551": "2026-11-19",
   "smartrecruiters:dominos:744000161707674": "2026-11-16",
   "smartrecruiters:dominos:744000161708269": "2026-11-16",
   "smartrecruiters:eurofins:744000159966854": "2026-11-07",
@@ -70236,10 +70237,10 @@
  },
  "source_last": {
   "hn": "2026-11-19T08:37:16+00:00",
-  "remoteok": "2026-11-19T09:37:16+00:00",
+  "remoteok": "2026-11-19T11:37:13+00:00",
   "usajobs": "2026-11-19T10:07:15+00:00",
   "workable_search": "2026-11-19T10:07:15+00:00",
-  "wwr": "2026-11-19T10:37:15+00:00",
+  "wwr": "2026-11-19T11:37:13+00:00",
   "yc": "2026-11-19T10:07:15+00:00"
  },
  "title_rules": "c323075b4d70",
