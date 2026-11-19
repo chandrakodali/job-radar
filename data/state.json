@@ -12148,17 +12148,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 301,
+   "n": 302,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 301,
+   "n": 302,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 301,
+   "n": 302,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12238,6 +12238,11 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-07"
+  },
+  "greenhouse:bayada": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-19"
   },
   "greenhouse:breezeairways": {
    "disabled_until": "2026-11-21",
@@ -66111,6 +66116,7 @@
   "ashby:spoton:bb2d12c6-859d-459e-96f8-489c2bfd6681": "2026-11-12",
   "ashby:standinsurance:98980cc7-8acb-4987-ba81-ca86844e81d8": "2026-11-17",
   "ashby:supabase:463d8cd7-3092-44eb-b80e-8d21008e569e": "2026-11-19",
+  "ashby:supabase:f035bda1-b5d3-4c5b-8736-b9c335fe1c3b": "2026-11-19",
   "ashby:supabase:fb0b563a-e541-43fd-8555-9eb6473aaa11": "2026-11-07",
   "ashby:swarmaero:1a5fe194-42ea-48df-ae66-1e3dd4237390": "2026-11-07",
   "ashby:swarmaero:f6362109-d107-46e7-aa57-04d0da26c3c5": "2026-11-19",
@@ -66768,6 +66774,7 @@
   "dayforce:asrcfh|CANDIDATEPORTAL:31457": "2026-11-15",
   "dayforce:asrcfh|CANDIDATEPORTAL:31620": "2026-11-15",
   "dayforce:authority|CANDIDATEPORTAL:7530": "2026-11-15",
+  "dayforce:avisystems|CANDIDATEPORTAL:7725": "2026-11-19",
   "dayforce:builders|candidateportal:238014": "2026-11-16",
   "dayforce:cchrpmc|CANDIDATEPORTAL:12751": "2026-11-15",
   "dayforce:ccok|ccok:6578": "2026-11-19",
@@ -66871,8 +66878,12 @@
   "eightfold:nvidia:893397891086": "2026-11-14",
   "eightfold:nvidia:893397913224": "2026-11-14",
   "eightfold:nvidia:893398004321": "2026-11-19",
+  "eightfold:nvidia:893398076425": "2026-11-19",
+  "eightfold:nvidia:893398171553": "2026-11-19",
   "eightfold:nvidia:893398245783": "2026-11-14",
   "eightfold:nvidia:893398376572": "2026-11-19",
+  "eightfold:nvidia:893398512483": "2026-11-19",
+  "eightfold:nvidia:893398548121": "2026-11-19",
   "eightfold:nvidia:893398591334": "2026-11-16",
   "eightfold:nvidia:893398605763": "2026-11-19",
   "eightfold:nvidia:893398660270": "2026-11-17",
@@ -67190,6 +67201,7 @@
   "greenhouse:gatikaiinc:4729497006": "2026-11-13",
   "greenhouse:gatikaiinc:4729499006": "2026-11-13",
   "greenhouse:gcmgrosvenor:8035872003": "2026-11-07",
+  "greenhouse:geocgi:4515389009": "2026-11-19",
   "greenhouse:givecampus:4479171009": "2026-11-09",
   "greenhouse:gofasti:6250585004": "2026-11-09",
   "greenhouse:gofasti:6265799004": "2026-11-18",
@@ -67339,6 +67351,7 @@
   "greenhouse:twosixtechnologies:6237746004": "2026-11-07",
   "greenhouse:twosixtechnologies:6253673004": "2026-11-10",
   "greenhouse:unlimitedtechnology:5465224008": "2026-11-07",
+  "greenhouse:unlimitedtechnology:5489937008": "2026-11-19",
   "greenhouse:usconec:4478726009": "2026-11-07",
   "greenhouse:usenourish:5471124008": "2026-11-12",
   "greenhouse:valaratomics:4508690009": "2026-11-17",
@@ -68557,6 +68570,7 @@
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:350692": "2026-11-19",
   "oracle:eeho.fa.us2.oraclecloud.com|jobsearch:350905": "2026-11-19",
   "oracle:eewl.fa.us6.oraclecloud.com|CX:11890": "2026-11-13",
+  "oracle:eewl.fa.us6.oraclecloud.com|CX:11927": "2026-11-19",
   "oracle:eexs.fa.us2.oraclecloud.com|GreenwoodVillageSouth:41612": "2026-11-08",
   "oracle:eexs.fa.us2.oraclecloud.com|GreenwoodVillageSouth:41613": "2026-11-08",
   "oracle:eexs.fa.us2.oraclecloud.com|GreenwoodVillageSouth:41615": "2026-11-08",
