@@ -12001,17 +12001,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 110,
+   "n": 111,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 110,
+   "n": 111,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 110,
+   "n": 111,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13359,8 +13359,8 @@
    492
   ],
   "2026-11-19": [
-   45,
-   150
+   46,
+   151
   ]
  },
  "resolved": {
@@ -68725,6 +68725,7 @@
   "sfrmk:jobs.exxonmobil.com:1437894900": "2026-11-14",
   "sfrmk:jobs.exxonmobil.com:1450097100": "2026-11-14",
   "sfrmk:jobs.exxonmobil.com:1450568100": "2026-11-14",
+  "sfrmk:jobs.exxonmobil.com:1452108400": "2026-11-19",
   "sfrmk:jobs.farmersinsurance.com:1376100557": "2026-11-14",
   "sfrmk:jobs.farmersinsurance.com:1376594657": "2026-11-14",
   "sfrmk:jobs.grainger.com:1425116200": "2026-11-14",
@@ -70133,7 +70134,7 @@
   "remoteok": "2026-11-19T07:17:25+00:00",
   "usajobs": "2026-11-19T07:17:25+00:00",
   "workable_search": "2026-11-19T07:17:25+00:00",
-  "wwr": "2026-11-19T07:17:25+00:00",
+  "wwr": "2026-11-19T08:17:41+00:00",
   "yc": "2026-11-19T07:17:25+00:00"
  },
  "title_rules": "72f554d20a7f",
