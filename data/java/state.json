@@ -12001,17 +12001,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 114,
+   "n": 115,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 114,
+   "n": 115,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 114,
+   "n": 115,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13359,8 +13359,8 @@
    492
   ],
   "2026-11-19": [
-   63,
-   206
+   64,
+   207
   ]
  },
  "resolved": {
@@ -65786,6 +65786,7 @@
   "eightfold:eaton|eaton.com:687240345284": "2026-11-18",
   "eightfold:ericsson:563121776514290": "2026-11-14",
   "eightfold:ericsson:563121777597821": "2026-11-14",
+  "eightfold:ericsson:563121777600972": "2026-11-19",
   "eightfold:ericsson:563121777632631": "2026-11-18",
   "eightfold:ford:563568453957119": "2026-11-17",
   "eightfold:ford:563568454035390": "2026-11-14",
@@ -67260,6 +67261,7 @@
   "jazzhr:eaiti:Y16NUsHVnd": "2026-11-14",
   "jazzhr:eaiti:ruWMVsPtGZ": "2026-11-14",
   "jazzhr:evertz:bHG6oKZGuj": "2026-11-14",
+  "jazzhr:fincons:DuwNKD0FKF": "2026-11-19",
   "jazzhr:fincons:kbbCJFaMqK": "2026-11-14",
   "jazzhr:foxconnassemblyllc:1jbDJkV893": "2026-11-14",
   "jazzhr:foxconnassemblyllc:ZNTL2DzCpx": "2026-11-14",
@@ -69332,6 +69334,7 @@
   "workday:agilent|wd5|Agilent_Careers:4040775": "2026-11-19",
   "workday:aksteel|wd1|careers:R13987": "2026-11-14",
   "workday:aksteel|wd1|careers:R13999": "2026-11-14",
+  "workday:alegeus|wd1|Alegeus_External_Careers:R-101374": "2026-11-19",
   "workday:alkami|wd12|alkami:JR-000851": "2026-11-14",
   "workday:alkami|wd12|alkami:JR-000891": "2026-11-14",
   "workday:alkami|wd12|alkami:JR-000909": "2026-11-14",
@@ -70164,10 +70167,10 @@
  },
  "source_last": {
   "hn": "2026-11-19T09:18:15+00:00",
-  "remoteok": "2026-11-19T09:18:15+00:00",
+  "remoteok": "2026-11-19T11:18:30+00:00",
   "usajobs": "2026-11-19T10:20:22+00:00",
   "workable_search": "2026-11-19T10:20:22+00:00",
-  "wwr": "2026-11-19T10:20:22+00:00",
+  "wwr": "2026-11-19T11:18:30+00:00",
   "yc": "2026-11-19T10:20:22+00:00"
  },
  "title_rules": "72f554d20a7f",
