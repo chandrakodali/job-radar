@@ -1,6 +1,6 @@
 # Wide sweep summary
 
-Updated 2026-11-18.
+Updated 2026-11-19.
 
 Crawls swept: CC-MAIN-2026-39, CC-MAIN-2026-43.
 
@@ -8,41 +8,41 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 
 ## By tier
 
-- 1: 23885
-- 2: 107458
-- 3: 301336
-- 4: 94205
-- 5: 32243
-- 9: 96167
+- 1: 23789
+- 2: 107745
+- 3: 301926
+- 4: 94335
+- 5: 32271
+- 9: 95228
 
 ## By category
 
-- unknown: 96167
-- ats: 43967
-- blocked: 2788
-- careers_page_unclear: 280258
-- doc: 1306
-- email: 54151
-- external_board: 7231
-- form: 75886
+- unknown: 95228
+- ats: 44061
+- blocked: 2791
+- careers_page_unclear: 280799
+- doc: 1305
+- email: 54254
+- external_board: 7252
+- form: 75975
 - js_only: 460
-- no_careers_page: 43007
-- no_openings: 21078
-- robots_disallowed: 8295
-- unreachable: 20700
+- no_careers_page: 43022
+- no_openings: 21127
+- robots_disallowed: 8307
+- unreachable: 20713
 
 ## By us
 
-- unknown: 96167
-- non_us: 36880
-- unknown: 290063
-- us: 232184
+- unknown: 95228
+- non_us: 36987
+- unknown: 290454
+- us: 232625
 
 ## By via
 
-- unknown: 96167
-- archive: 43204
-- live: 515923
+- unknown: 95228
+- archive: 43325
+- live: 516741
 
 ## Tier 1 sites
 
@@ -72,6 +72,7 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - %sitename% (progamblegenius.com)
 - %sitename% (toppercryptopath.com)
 - %sitename% (virtualecholab.com)
+- & Build Your Future (urenergyglobal.com)
 - & College Promise (stanly.edu)
 - & Grow With Us (cureayurvedic.com)
 - & Growth Opportunities (greycrust.com)
@@ -87,9 +88,9 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - & Technical Education (stmaryk12.net)
 - & Trades Resources (acementorla.org)
 - & volunteer opportunities (reusemn.org)
-- & Volunteering (balibrary.org)
 - '58 Foundations & Waterproofing (58foundations.com)
 - (1SS&C) (1sourcesecurity.com)
+- (973) 763-6611 (uniontool-mold.com)
 - (All) (usvisf.com)
 - +91 90871 16687 (mdsdigitalhub.com)
 - - Call us: 021 120 33 32 (neocruit.com)
@@ -138,10 +139,12 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 1Money (1money.com)
 - 1Plan (1plan.com)
 - 1stkings Ltd (1st-kings.com)
+- 1stopVAT (1stopvat.com)
 - 1Trooper (1trooper.com)
 - 1xBet (1xbetcasinoca.com)
 - 2 EFFE ENGINEERING (2effe.com)
 - 2 Sodas (2sodas.com)
+- 20/20 Property Inspections (twenty20inspections.com)
 - 2002 - Bonta/Burnam - Lakeland Hearing Care (lakelandhearingcare.com)
 - 2021 Eight Legged Media (eightleggedmedia.com)
 - 2022cc (cambodiacurtain.com)
@@ -149,7 +152,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 2026 Womens Wellness Mastermind in Italy (tonibearedd.com)
 - 20med (20medtx.com)
 - 21Twelve Interactive (21twelveinteractive.com)
-- 23361 (cosmobotics.org)
 - 24 DATA, Inc. (24data.com)
 - 24/7 Pest Control Service 718 300 7943 (247pestcontrolservices.com)
 - 247 MEP Estimating (247mepestimating.com)
@@ -244,5 +246,3 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 4Leet (4leet.xyz)
 - 4Leet - Managed IT Services (4leet.com)
 - 4Les Subsea (4lessubsea.com)
-- 4M Career (4mcareer.com)
-- 4M INDUSTRIES INC. (4mindustries.com)
