@@ -1,14 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**614 jobs**, newest first. Updated Wed Nov 18, 7:07 PM CST from 12,526 company job boards and other sources.
+**613 jobs**, newest first. Updated Wed Nov 18, 7:37 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-255 repeat listings (same company and title in another place or on another source) are merged into one row.
+249 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,122 matching jobs that job sites and feeds listed this week, 766 (36%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,124 matching jobs that job sites and feeds listed this week, 766 (36%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 18 (42)](#wednesday-nov-18-42) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (3)](#wednesday-nov-11-3)
+Jump to: [Wed 18 (42)](#wednesday-nov-18-42) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92) · [Wed 11 (2)](#wednesday-nov-11-2)
 
 ## Wednesday, Nov 18 (42)
 
@@ -656,20 +656,21 @@ Jump to: [Wed 18 (42)](#wednesday-nov-18-42) · [Tue 17 (33)](#tuesday-nov-17-33
 | 1:00 AM (seen) | [Network Engineer](https://jobs.jobvite.com/jbs/job/oiO5Afwv) | JBS Foods | Richardson, Texas | 35 |  |
 | 1:00 AM (seen) | [Systems Reliability Engineer](https://jobs.jobvite.com/nutanix/job/osn3Afwc) | Nutanix |  | 55 | 2+ yrs exp; location unclear |
 
-## Wednesday, Nov 11 (3)
+## Wednesday, Nov 11 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:24 PM | [CAD Engineer - Signoff Infrastructure](https://jobs.apple.com/en-us/details/200684809/cad-engineer-signoff-infrastructure) | Apple | United States of America | 58 |  |
 | 8:35 PM | [Software Engineer - DevOps](https://jobs.lever.co/jobgether/b45aadee-df74-4ad4-8acd-f23de8ee8060) | Jobgether | US (remote) | 50 | 3+ yrs exp |
-| 7:35 PM | [Infrastructure Engineer - Labs](https://jobs.ashbyhq.com/Etched/b4ad6323-3d69-4881-a2db-e3967afbae65) | Etched | San Jose (onsite) | 70 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (774)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (776)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 7:37 PM | [Network Engineer](https://jobs.smartrecruiters.com/Wabtec/3743990016954416-network-engineer) | Wabtec | Pittsburgh, PA, United States (hybrid) | 50 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
+| 7:23 PM | [Senior Systems Administrator](https://jobs.ashbyhq.com/swarmaero/f6362109-d107-46e7-aa57-04d0da26c3c5) | Swarm Aero | Oxnard (onsite) | 35 | rules: 5+ yrs exp; senior title; needs: must be a U.S. citizen |
 | 4:47 PM | [Senior Infrastructure Security Engineer (Cloud & On-Prem)](https://job-boards.greenhouse.io/valaratomics/jobs/4510605009) | Valaratomics | Torrance, California, United States | 45 | rules: 7+ yrs exp; senior title; needs: Must be a U.S. person |
 | 4:46 PM | [AI Security Engineer (AppSec, Cloud & On-Premises)](https://job-boards.greenhouse.io/valaratomics/jobs/4510677009) | Valaratomics | Torrance, California, United States | 45 | rules: 7+ yrs exp; needs: Must be a U.S. person |
 | 4:28 PM | [Linux Installation Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4730735006?gh_jid=4730735006) | Accenture | San Diego, CA | 35 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: security cleara… |
@@ -1068,8 +1069,6 @@ Jump to: [Wed 18 (42)](#wednesday-nov-18-42) · [Tue 17 (33)](#tuesday-nov-17-33
 | 5:17 PM (seen) | [Senior Design Reliability Engineer](https://impulsespace.pinpointhq.com/en/postings/1004df28-255a-4442-bf7f-1452bb776d96) | Impulse Space | Redondo Beach (onsite) | 20 | rules: 8+ yrs exp; senior title; needs: must be a U.S. citizen |
 | 5:01 PM | [Senior IT Security and Network Engineer](https://jobs.smartrecruiters.com/AIRCommunities/744000161393439-senior-it-security-and-network-engineer) | AIRCommunities | Denver, CO, United States | 23 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 4:28 PM | [Reliability Engineer (Remote)](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5294005007) | ALTEN Technology | Palo Alto, CA | 50 | rules: adjacent title, little DevOps/cloud work in the text |
-| 4:16 PM | [Senior DataOps Engineer](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4483519009) | Voyager Technologies | Remote - United States (remote) | 42 | rules: 10+ yrs exp; senior title; needs: Secret clearance |
-| 4:15 PM | [Systems Administrator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4661248) | Engage fi | Orlando, FL, United States (remote) | 35 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 
 </details>
 
