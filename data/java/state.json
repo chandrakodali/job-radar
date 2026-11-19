@@ -12001,17 +12001,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 113,
+   "n": 114,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 113,
+   "n": 114,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 113,
+   "n": 114,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -12763,11 +12763,6 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
-  },
-  "oracle:ibqbjb.fa.ocs.oraclecloud.com|Honeywell": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-19"
   },
   "pinpoint:heapy": {
    "disabled_until": "2026-11-21",
