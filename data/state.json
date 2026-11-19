@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 272,
+   "n": 273,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 272,
+   "n": 273,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 272,
+   "n": 273,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15007,7 +15007,7 @@
   ],
   "2026-11-19": [
    40,
-   86
+   88
   ]
  },
  "resolved": {
@@ -68202,6 +68202,7 @@
   "lever:jobgether:01f7311c-288a-4580-a8e5-4e1ef8118827": "2026-11-14",
   "lever:jobgether:029f6e21-36a5-42c6-859d-ec5e7c435578": "2026-11-16",
   "lever:jobgether:0452a360-4c88-44a6-8b62-dc642799c5c9": "2026-11-14",
+  "lever:jobgether:0566bf98-f3eb-4d14-b4f6-47a81c8c1464": "2026-11-19",
   "lever:jobgether:056b4811-7586-4345-a000-f7029c06d835": "2026-11-14",
   "lever:jobgether:0c283a8d-6190-4326-acea-e12a22f0bc12": "2026-11-14",
   "lever:jobgether:0e899f97-552a-4ed8-9491-07c4db1805f7": "2026-11-16",
@@ -68236,6 +68237,7 @@
   "lever:jobgether:88a96849-d944-46d6-bc01-918662a0d80f": "2026-11-19",
   "lever:jobgether:8ff47a5b-ca95-4fa8-a528-4b8bb0f84240": "2026-11-14",
   "lever:jobgether:9af4cc18-9474-497f-9a90-60aa781922d4": "2026-11-14",
+  "lever:jobgether:9c2d4dc4-c40b-400c-b0d4-cb0f7d0e65bf": "2026-11-19",
   "lever:jobgether:9dd9f072-6671-4b56-b02c-7c9080f9e8b8": "2026-11-16",
   "lever:jobgether:a8baa21e-4284-4e3a-8fb7-ee940e4c5604": "2026-11-14",
   "lever:jobgether:ab5f75c4-39fb-4a6e-82b8-75bde1522e10": "2026-11-14",
@@ -70234,7 +70236,7 @@
   "remoteok": "2026-11-19T05:37:12+00:00",
   "usajobs": "2026-11-19T04:07:15+00:00",
   "workable_search": "2026-11-19T04:07:15+00:00",
-  "wwr": "2026-11-19T05:37:12+00:00",
+  "wwr": "2026-11-19T06:37:17+00:00",
   "yc": "2026-11-19T04:07:15+00:00"
  },
  "title_rules": "c323075b4d70",

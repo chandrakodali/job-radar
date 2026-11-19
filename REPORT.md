@@ -1,20 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**616 jobs**, newest first. Updated Thu Nov 19, 12:07 AM CST from 12,526 company job boards and other sources.
+**617 jobs**, newest first. Updated Thu Nov 19, 12:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 251 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,169 matching jobs that job sites and feeds listed this week, 786 (36%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,171 matching jobs that job sites and feeds listed this week, 786 (36%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (45)](#wednesday-nov-18-45) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92)
+Jump to: [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (45)](#wednesday-nov-18-45) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (92)](#thursday-nov-12-92)
 
-## Thursday, Nov 19 (2)
+## Thursday, Nov 19 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [DevOps / SRE Engineer (Kubernetes, Terraform), AI Expert](https://apply.workable.com/weekday-1/j/FD2496AC64/) | Weekday AI | United States (remote) | 57 | 4+ yrs exp; repost |
+| 1:36 AM | [Cloud System Administrator (Shift C - Night)](https://jobs.lever.co/jobgether/9c2d4dc4-c40b-400c-b0d4-cb0f7d0e65bf) | Jobgether | US (remote) | 62 |  |
 | 12:07 AM (seen) | [Senior Site Reliability Engineer](https://app.careerpuck.com/job-board/blinkhealth/job/75nQcAvf) | Blinkhealth | New York, NY; Pittsburgh, PA; Seattle, … | 40 | senior title, years not stated |
 
 ## Wednesday, Nov 18 (45)
@@ -666,12 +667,13 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (45)](#wednesday-nov-18-45)
 | 1:00 AM (seen) | [Network Engineer](https://jobs.jobvite.com/jbs/job/oiO5Afwv) | JBS Foods | Richardson, Texas | 35 |  |
 | 1:00 AM (seen) | [Systems Reliability Engineer](https://jobs.jobvite.com/nutanix/job/osn3Afwc) | Nutanix |  | 55 | 2+ yrs exp; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (776)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (777)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 12:40 AM | [Senior Azure DevOps Engineer](https://jobs.lever.co/jobgether/0566bf98-f3eb-4d14-b4f6-47a81c8c1464) | Jobgether | US (remote) | 42 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 12:00 AM | [Information Technology - Azure Administrator 130-2069](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6578) | Ccok | Tulsa, OK, US | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 9:01 PM | [DevOps Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4730802006?gh_jid=4730802006) | Accenture | Chantilly, VA | 50 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: Security cleara… |
 | 7:37 PM | [Network Engineer](https://jobs.smartrecruiters.com/Wabtec/3743990016954416-network-engineer) | Wabtec | Pittsburgh, PA, United States (hybrid) | 50 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
@@ -1071,7 +1073,6 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (45)](#wednesday-nov-18-45)
 | 6:11 PM | [Site Reliability Engineer, Data Platform](https://jobs.ashbyhq.com/revel/a7801a26-a562-423f-9cc1-6e3f3fa69430) | Revel | North America / Los Angeles / San Franc… (onsite) | 70 | rules: needs: ITAR |
 | 5:50 PM | [AI Platform Engineer](https://jobs.ashbyhq.com/polygon-labs/ec7277f7-4757-4863-967c-eecaee0d0740) | Polygon Labs | EMEA - Remote; USA - Remote (remote) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:17 PM (seen) | [Senior Flight Reliability Engineer](https://impulsespace.pinpointhq.com/en/postings/639faa32-1d92-400b-b42d-09ac2bd3fba5) | Impulse Space | Redondo Beach (onsite) | 20 | rules: 5+ yrs exp; senior title; needs: security clearance |
-| 5:17 PM (seen) | [Senior Design Reliability Engineer](https://impulsespace.pinpointhq.com/en/postings/1004df28-255a-4442-bf7f-1452bb776d96) | Impulse Space | Redondo Beach (onsite) | 20 | rules: 8+ yrs exp; senior title; needs: must be a U.S. citizen |
 
 </details>
 
