@@ -1,26 +1,32 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**613 jobs**, newest first. Updated Thu Nov 19, 2:47 AM CST from 12,526 company job boards and other sources.
+**615 jobs**, newest first. Updated Thu Nov 19, 3:45 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-265 repeat listings (same company and title in another place or on another source) are merged into one row.
+266 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,866 matching jobs that job sites and feeds listed this week, 707 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 3,942 matching jobs that job sites and feeds listed this week, 728 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (60)](#wednesday-nov-18-60) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (106)](#thursday-nov-12-106)
+Jump to: [Thu 19 (11)](#thursday-nov-19-11) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (103)](#thursday-nov-12-103)
 
-## Thursday, Nov 19 (5)
+## Thursday, Nov 19 (11)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Software Engineer, Commerce](https://www.amazon.jobs/en/jobs/10607724/software-engineer-commerce) | Twitch Interactive, Inc. | Seattle, Washington, USA | 75 | 1+ yrs exp |
 | date only | [Software Engineer I, Commerce](https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce) | Twitch Interactive, Inc. | Seattle, Washington, USA | 85 | entry-level title; 1+ yrs exp |
+| 3:45 AM (seen) | [associate test technician](https://element-ext-row.icims.com/jobs/20128/associate-test-technician/job) | Element Materials Technology |  | 55 | entry-level title; location unclear |
+| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Montebello Town…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826484) | Macy's | Montebello, CA, United States | 75 | entry-level title; repost |
+| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, San Bernardino …](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826480) | Macy's | San Bernardino, CA, United States | 75 | entry-level title |
+| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, St Clair Square](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826470) | Macy's | Fairview Heights, IL, United States | 75 | entry-level title |
+| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Rosedale Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826471) | Macy's | Roseville, MN, United States | 75 | entry-level title |
+| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chapel Hills](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826456) | Macy's | Colorado Springs, CO, United States | 75 | entry-level title |
 | 1:47 AM | [Associate, Cybersecurity & Data Privacy, Compliance](https://jobs.lever.co/jobgether/c998b954-e4b5-4221-9e90-a854a4cab7a1) | Jobgether | US (remote) | 82 | entry-level title; 1+ yrs exp |
 | 1:05 AM | [CMMS Implementation Associate](https://eiqg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/170848) | Eiqg Fa Us2 Oraclecloud Com | GA, United States | 75 | entry-level title |
 | 12:05 AM | [Systems Support Specialist I - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4416) | City of Oklahoma City | Oklahoma  City, OK, United States (onsite) | 80 | entry-level title |
 
-## Wednesday, Nov 18 (60)
+## Wednesday, Nov 18 (59)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -78,7 +84,6 @@ Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (60)](#wednesday-nov-18-60)
 | 3:27 AM | [Administrative Support Team Associate, Willowbrook Mall - NJ - Full T…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826206) | Macy's | Wayne, NJ, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Administrative Support Team Associate, Haywood Mall - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826173) | Macy's | Greenville, SC, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Administrative Support Team Associate, Broward Mall - Flex](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826174) | Macy's | Plantation, FL, United States | 85 | entry-level title; 1+ yrs exp |
-| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Montebello Town…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826166) | Macy's | Montebello, CA, United States | 75 | entry-level title |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Southland - MI](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826161) | Macy's | Taylor, MI, United States | 75 | entry-level title |
 | 2:19 AM | [Junior Security Engineer](https://jobs.lever.co/jobgether/7d7aae14-b608-463f-82c1-8eda7918b8cd) | Jobgether | US (remote) | 82 | entry-level title; 1+ yrs exp |
 | 1:00 AM | [Scanning Services - Digital Support Specialist I](https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3608) | Anico | League City, TX, US | 85 | entry-level title; 1+ yrs exp |
@@ -552,7 +557,7 @@ Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (60)](#wednesday-nov-18-60)
 | 2:00 AM | [Fluid Systems Engineer](https://careers.westinghousenuclear.com/job/Rock-Hill-Fluid-Systems-Engineer-SC-29730/1440646100/) | Westinghouse Electric Company | Rock Hill, SC, United States | 85 | 1+ yrs exp; entry level (from the text) |
 | 1:00 AM | [Network Engineer I](https://jobs.dayforcehcm.com/en-US/sonifi/CANDIDATEPORTAL/jobs/5902) | Sonifi | Sioux Falls, SD, US | 73 | entry-level title; E-Verify |
 
-## Thursday, Nov 12 (106)
+## Thursday, Nov 12 (103)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -659,11 +664,8 @@ Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (60)](#wednesday-nov-18-60)
 | 8:50 AM | [Junior IT Operations & Support Specialist](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000161319429-junior-it-operations-support-specialist) | Crown Innovations | Arlington, VA, United States | 68 | entry-level title |
 | 5:29 AM | [Beneficiary Support Specialist](https://jobs.lever.co/jobgether/d85e5901-67b6-4807-aa43-4b76e86064b2) | Jobgether | US (remote) | 65 | 1+ yrs exp |
 | 5:08 AM | [Data Analyst I Product](https://jobs.lever.co/jobgether/d6293ec5-4e13-4ff0-8f58-6d2b5432d3bb) | Jobgether | US (remote) | 75 | entry-level title; 1+ yrs exp |
-| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Mall in Columbia](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_824648) | Macy's | Columbia, MD, United States | 68 | entry-level title |
-| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Waikiki](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_824626) | Macy's | Honolulu, HI, United States | 68 | entry-level title |
-| 3:16 AM | [Customer Support Associate](https://jobs.lever.co/jobgether/0779e90f-400b-4145-badf-021026ef08c7) | Jobgether | US (remote) | 65 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3844)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3846)
 
 <details><summary>Show</summary>
 
@@ -675,6 +677,8 @@ Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (60)](#wednesday-nov-18-60)
 | date only | [Software Development Engineer - AWS OpenSearch, OpenSearch Platform T…](https://www.amazon.jobs/en/jobs/10598937/software-development-engineer-aws-opensearch-opensearch-platform-team) | Amazon Development Center U.S… | Santa Clara, California, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [AI enabled PDK Development Engineer](https://globalfoundries.eightfold.ai/careers/job/563980770945695) | Globalfoundries | Malta, NY, US; Essex, VT, US (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Automation Engineer](https://micron.eightfold.ai/careers/job/45606348) | Micron | GJ,IN (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| date only | [Front End Software Engineer](https://fincons.applytojob.com/apply/ZAGaQvHPv9/Front-End-Software-Engineer) | Fincons Group | Remote (US) (remote) | 42 | rules: 15+ yrs exp; asks for 15+ years of experience |
+| 2:53 AM | [Graduate Program Administrator](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016957276-graduate-program-administrator) | Harvard University | Cambridge, MA, United States (hybrid) | 60 | rules: entry-level title; 5+ yrs exp; no future H-1B sponsorship; lik… |
 | 2:24 AM | [Implementation Engineer – Unified Communications & Contact Center Sol…](https://jobs.lever.co/jobgether/4e527059-085d-4240-bcd3-a813f8c2160d) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:20 AM | [Digital UX Specialist](https://jobs.lever.co/jobgether/2a46c8d4-28e8-49e5-be13-c15bfec4d7d8) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 1:45 AM | [Salesforce Experience Cloud Web Developer](https://jobs.lever.co/jobgether/32e65285-8bc8-4641-8828-80f5373e873e) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -1067,7 +1071,5 @@ Jump to: [Thu 19 (5)](#thursday-nov-19-5) · [Wed 18 (60)](#wednesday-nov-18-60)
 | 11:21 AM | [Solution Consultant - R&D](https://jobs.ashbyhq.com/benchling/929b808c-06b6-4967-9d2b-91a4daf8392d) | Benchling | New York, NY +1 more (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 11:17 AM | [Avionics Test Specialist](https://job-boards.greenhouse.io/castelioncorporation/jobs/4507169009) | Castelion | Torrance, CA | 45 | rules: 5+ yrs exp; needs: security clearance |
 | 11:15 AM | [Software Engineer, Presence](https://jobs.ashbyhq.com/openai/1327d083-c932-4aed-aadc-57586521ee60) | OpenAI | San Francisco | 45 | rules: 9+ yrs exp; asks for 9+ years of experience |
-| 11:11 AM | [Application Calibration Engineer - Airbag ECU and Sensors](https://jobs.smartrecruiters.com/BoschGroup/744000162133814-application-calibration-engineer-airbag-ecu-and-sensors) | Robert Bosch Venture Capital | Plymouth, MI, United States (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 11:02 AM | [Software Development Engineer](https://jobs.smartrecruiters.com/Intuitive/744000162133129-software-development-engineer) | Intuitive Surgical | Sunnyvale, CA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>

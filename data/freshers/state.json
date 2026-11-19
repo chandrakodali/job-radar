@@ -12012,17 +12012,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 138,
+   "n": 139,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 138,
+   "n": 139,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 138,
+   "n": 139,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -13836,8 +13836,8 @@
    665
   ],
   "2026-11-19": [
-   61,
-   238
+   82,
+   314
   ]
  },
  "resolved": {
@@ -66099,6 +66099,7 @@
   "avature:harmanglobal.avature.net|en_US/careers:33337": "2026-11-17",
   "avature:harmanglobal.avature.net|en_US/careers:33341": "2026-11-17",
   "avature:harmanglobal.avature.net|en_US/careers:33351": "2026-11-18",
+  "avature:insperity.avature.net|careers:22345": "2026-11-19",
   "avature:jrg.avature.net|careers:1881": "2026-11-15",
   "avature:jrg.avature.net|careers:2018": "2026-11-15",
   "avature:justicejobs.avature.net|careers:23921": "2026-11-15",
@@ -69675,6 +69676,7 @@
   "greenhouse:cloudflare:8370313": "2026-11-18",
   "greenhouse:cloudflare:8386246": "2026-11-18",
   "greenhouse:cloudflare:8398448": "2026-11-18",
+  "greenhouse:cloudflare:8398779": "2026-11-19",
   "greenhouse:cloudsek:6241868004": "2026-11-13",
   "greenhouse:cmt:8385978": "2026-11-13",
   "greenhouse:coast:6251205004": "2026-11-13",
@@ -72576,6 +72578,7 @@
   "icims:element-ext-row.icims.com:20000": "2026-11-13",
   "icims:element-ext-row.icims.com:20014": "2026-11-13",
   "icims:element-ext-row.icims.com:20127": "2026-11-13",
+  "icims:element-ext-row.icims.com:20128": "2026-11-19",
   "icims:element-ext-row.icims.com:20725": "2026-11-18",
   "icims:everwatch-everwatchsolutions.icims.com:3177": "2026-11-13",
   "icims:everwatch-everwatchsolutions.icims.com:3178": "2026-11-13",
@@ -73078,6 +73081,7 @@
   "jazzhr:evertz:JbJ76J3Nkz": "2026-11-13",
   "jazzhr:evertz:JjT4S4ynCG": "2026-11-13",
   "jazzhr:evertz:bHG6oKZGuj": "2026-11-13",
+  "jazzhr:fincons:ZAGaQvHPv9": "2026-11-19",
   "jazzhr:fincons:kbbCJFaMqK": "2026-11-14",
   "jazzhr:flowspace:JIaAHiU2dl": "2026-11-13",
   "jazzhr:foxconnassemblyllc:1R8guqLQJm": "2026-11-13",
@@ -74407,6 +74411,11 @@
   "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_826244": "2026-11-18",
   "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_826253": "2026-11-18",
   "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_826254": "2026-11-18",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_826456": "2026-11-19",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_826470": "2026-11-19",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_826471": "2026-11-19",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_826480": "2026-11-19",
+  "oracle:ebwh.fa.us2.oraclecloud.com|CX_1001:REQ_826484": "2026-11-19",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX:213560": "2026-11-15",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX:214456": "2026-11-15",
   "oracle:ebxr.fa.us2.oraclecloud.com|CX:214463": "2026-11-15",
@@ -77912,6 +77921,7 @@
   "smartrecruiters:harvarduniversity:3743990016725996": "2026-11-13",
   "smartrecruiters:harvarduniversity:3743990016803776": "2026-11-13",
   "smartrecruiters:harvarduniversity:3743990016835366": "2026-11-13",
+  "smartrecruiters:harvarduniversity:3743990016957276": "2026-11-19",
   "smartrecruiters:ifs1:744000161158318": "2026-11-13",
   "smartrecruiters:ifs1:744000161383559": "2026-11-13",
   "smartrecruiters:ifs1:744000162042030": "2026-11-17",
@@ -81831,8 +81841,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-19T06:48:25+00:00",
-  "yc": "2026-11-19T06:48:25+00:00"
+  "workable_search": "2026-11-19T09:45:37+00:00",
+  "yc": "2026-11-19T09:45:37+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
