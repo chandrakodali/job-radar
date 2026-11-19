@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**611 jobs**, newest first. Updated Thu Nov 19, 3:37 AM CST from 12,526 company job boards and other sources.
+**611 jobs**, newest first. Updated Thu Nov 19, 4:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 249 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,214 matching jobs that job sites and feeds listed this week, 806 (36%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,251 matching jobs that job sites and feeds listed this week, 826 (36%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (45)](#wednesday-nov-18-45) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (46)](#monday-nov-16-46) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (322)](#saturday-nov-14-322) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (86)](#thursday-nov-12-86)
 
@@ -667,6 +667,7 @@ Jump to: [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (45)](#wednesday-nov-18-45)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Senior Site Reliability Engineer – Distributed Storage](https://nvidia.eightfold.ai/careers/job/893398810398) | Nvidia | Santa Clara, CA, US; Austin, TX, US; TX… (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 12:40 AM | [Senior Azure DevOps Engineer](https://jobs.lever.co/jobgether/0566bf98-f3eb-4d14-b4f6-47a81c8c1464) | Jobgether | US (remote) | 42 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 12:00 AM | [Information Technology - Azure Administrator 130-2069](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6578) | Ccok | Tulsa, OK, US | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 9:01 PM | [DevOps Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4730802006?gh_jid=4730802006) | Accenture | Chantilly, VA | 50 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: Security cleara… |
@@ -756,7 +757,6 @@ Jump to: [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (45)](#wednesday-nov-18-45)
 | 11:37 AM | [Senior Azure Infrastructure Engineer](https://jobs.workable.com/view/6mXQPW79KusBSPFX122yPZ/hybrid-senior-azure-infrastructure-engineer-in-mechanicsville-at-tomorrow-hire) | TOMORROW HIRE | Mechanicsville, Virginia (hybrid) | 45 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
 | 11:33 AM | [Senior Cloud Infrastructure Engineer (AWS & Azure)](https://job-boards.greenhouse.io/valaratomics/jobs/4508690009) | Valaratomics | Torrance, California, United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:09 AM | [Systems Administrator II, AV & OT](https://boards.greenhouse.io/relativity/jobs/8946740002?gh_jid=8946740002) | Relativity Space | Long Beach, California, United States | 45 | rules: adjacent title, little DevOps/cloud work in the text |
-| date only | [Senior Site Reliability Engineer](https://nvidia.eightfold.ai/careers/job/893398768855) | Nvidia | Yokne'am Illit, North District, IL; Ra'… (onsite) | 45 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | date only | [Systems Configuration Management Engineer (Level 3 or 4)](https://ngc.eightfold.ai/careers/job/1340075281013) | Ngc | San Diego, CA, US; Melbourne, FL, US; E… (onsite) | 50 | rules: 3+ yrs exp; senior title; needs: security clearance |
 | date only | [Virtualization & Systems Engineer](https://arctiq.bamboohr.com/careers/363) | Arctiq | Blue Bell, Pennsylvania | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [System Administrator Level 2](https://apply.workable.com/interimage/j/4076BA6BC3/) | InterImage | Fort Meade, Maryland, United States | 25 | rules: 10+ yrs exp; asks for 10+ years of experience |

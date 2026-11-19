@@ -12104,17 +12104,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 279,
+   "n": 280,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 279,
+   "n": 280,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 279,
+   "n": 280,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -15011,8 +15011,8 @@
    373
   ],
   "2026-11-19": [
-   60,
-   131
+   80,
+   168
   ]
  },
  "resolved": {
@@ -66803,6 +66803,7 @@
   "eightfold:nvidia:893398699304": "2026-11-14",
   "eightfold:nvidia:893398750368": "2026-11-16",
   "eightfold:nvidia:893398768855": "2026-11-17",
+  "eightfold:nvidia:893398810398": "2026-11-19",
   "eightfold:qualcomm:446719899052": "2026-11-15",
   "eightfold:qualcomm:446722201254": "2026-11-18",
   "eightfold:qualcomm|qualcomm.com:446719899052": "2026-11-14",
@@ -70239,10 +70240,10 @@
  "source_last": {
   "hn": "2026-11-19T08:37:16+00:00",
   "remoteok": "2026-11-19T09:37:16+00:00",
-  "usajobs": "2026-11-19T07:07:18+00:00",
-  "workable_search": "2026-11-19T07:07:18+00:00",
+  "usajobs": "2026-11-19T10:07:15+00:00",
+  "workable_search": "2026-11-19T10:07:15+00:00",
   "wwr": "2026-11-19T09:37:16+00:00",
-  "yc": "2026-11-19T07:07:18+00:00"
+  "yc": "2026-11-19T10:07:15+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
