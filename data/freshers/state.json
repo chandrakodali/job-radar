@@ -12012,17 +12012,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 141,
+   "n": 142,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 141,
+   "n": 142,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 141,
+   "n": 142,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -12774,6 +12774,11 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-13"
+  },
+  "oracle:ehtl.fa.us6.oraclecloud.com|CX": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-19"
   },
   "pinpoint:heapy": {
    "disabled_until": "2026-11-21",
@@ -13836,8 +13841,8 @@
    665
   ],
   "2026-11-19": [
-   82,
-   314
+   103,
+   393
   ]
  },
  "resolved": {
@@ -68681,6 +68686,7 @@
   "eightfold:ericsson:563121777376674": "2026-11-16",
   "eightfold:ericsson:563121777388378": "2026-11-16",
   "eightfold:ericsson:563121777528380": "2026-11-14",
+  "eightfold:ericsson:563121777590798": "2026-11-19",
   "eightfold:ericsson:563121777597821": "2026-11-14",
   "eightfold:ericsson:563121777600972": "2026-11-19",
   "eightfold:ericsson:563121777632631": "2026-11-18",
@@ -68720,12 +68726,14 @@
   "eightfold:ford:563568454234924": "2026-11-18",
   "eightfold:fortive:893398716191": "2026-11-16",
   "eightfold:globalfoundries:563980768904732": "2026-11-18",
+  "eightfold:globalfoundries:563980770505731": "2026-11-19",
   "eightfold:globalfoundries:563980770505814": "2026-11-14",
   "eightfold:globalfoundries:563980770505953": "2026-11-14",
   "eightfold:globalfoundries:563980770506168": "2026-11-17",
   "eightfold:globalfoundries:563980770734147": "2026-11-17",
   "eightfold:globalfoundries:563980770734159": "2026-11-18",
   "eightfold:globalfoundries:563980770835351": "2026-11-16",
+  "eightfold:globalfoundries:563980770945693": "2026-11-19",
   "eightfold:globalfoundries:563980770945694": "2026-11-17",
   "eightfold:globalfoundries:563980770945695": "2026-11-19",
   "eightfold:globalfoundries:563980770991580": "2026-11-14",
@@ -71402,6 +71410,7 @@
   "icims:careers-empowerai.icims.com:9732": "2026-11-13",
   "icims:careers-empowerai.icims.com:9807": "2026-11-17",
   "icims:careers-empowerai.icims.com:9808": "2026-11-17",
+  "icims:careers-empowerai.icims.com:9811": "2026-11-19",
   "icims:careers-enfra.icims.com:10248": "2026-11-13",
   "icims:careers-enfra.icims.com:10249": "2026-11-13",
   "icims:careers-enfra.icims.com:10460": "2026-11-13",
@@ -73940,6 +73949,7 @@
   "jobvite:sikichcareers:oO8EAfwU": "2026-11-13",
   "jobvite:sikichcareers:oQ7EAfwV": "2026-11-13",
   "jobvite:sikichcareers:oYV7Afwk": "2026-11-18",
+  "jobvite:sikichcareers:oiQ5Afwx": "2026-11-19",
   "jobvite:sikichcareers:ozzUAfwm": "2026-11-13",
   "jobvite:src-inc:o6D2Afw5": "2026-11-13",
   "jobvite:src-inc:oTHRAfwL": "2026-11-13",
@@ -74153,6 +74163,7 @@
   "lever:jobgether:4adde91c-124f-4b1a-ad24-a7f1d5c0bfad": "2026-11-14",
   "lever:jobgether:4c6bcc39-a22c-4a25-a300-00c79bf53526": "2026-11-14",
   "lever:jobgether:4e527059-085d-4240-bcd3-a813f8c2160d": "2026-11-19",
+  "lever:jobgether:4e9e4100-8d35-4cf6-b1e1-db11da18c797": "2026-11-19",
   "lever:jobgether:5491b452-de23-4b55-8766-da119b9abf16": "2026-11-16",
   "lever:jobgether:59469943-c696-40a4-9abb-0ef564c224e6": "2026-11-14",
   "lever:jobgether:5aa445cc-fbad-4d6f-af0e-335a19c78327": "2026-11-17",
@@ -74228,6 +74239,7 @@
   "lever:jobgether:bbd011d9-382f-4f14-a2ee-0516f4ac407a": "2026-11-17",
   "lever:jobgether:bd763265-759c-4f88-bf0e-819c490842b5": "2026-11-14",
   "lever:jobgether:c12ad43a-3c7b-4d0b-adde-d3509813970d": "2026-11-14",
+  "lever:jobgether:c1ce821c-87cf-46e9-8ebc-e2f5038708ce": "2026-11-19",
   "lever:jobgether:c2f8cdcc-e863-4e3f-884b-2a63153cc5ae": "2026-11-14",
   "lever:jobgether:c3e6c562-da79-4e0d-8f8c-9daa7b7b5081": "2026-11-14",
   "lever:jobgether:c458c5ea-e3d4-43cb-b091-f6533e1b1a6e": "2026-11-14",
@@ -74266,6 +74278,7 @@
   "lever:jobgether:f77063fb-ebfd-4842-8f3d-13b1909a92d3": "2026-11-14",
   "lever:jobgether:fa7c704c-b327-4f4e-ae7b-d69defd2649a": "2026-11-17",
   "lever:jobgether:fabe766f-e37f-40c8-8184-713224f7123b": "2026-11-17",
+  "lever:jobgether:fe5cb112-3048-4a40-81dd-60aa21a1f790": "2026-11-19",
   "lever:kgroupcompanies:86c0a0ab-d8a7-4325-8d29-4b14b9fe3d6b": "2026-11-13",
   "lever:kgroupcompanies:b49d56fd-7003-424d-8724-800241a5e2d0": "2026-11-13",
   "lever:kgroupcompanies:b8096fa5-50dd-4147-9caa-744a562c4806": "2026-11-13",
@@ -74655,10 +74668,12 @@
   "oracle:egug.fa.us2.oraclecloud.com|CX:26012796": "2026-11-14",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26013354": "2026-11-14",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26016137": "2026-11-14",
+  "oracle:egug.fa.us2.oraclecloud.com|CX:26016215": "2026-11-19",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26011281": "2026-11-18",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26012796": "2026-11-13",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26013354": "2026-11-13",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26016137": "2026-11-13",
+  "oracle:egug.fa.us2.oraclecloud.com|CX_1:26016215": "2026-11-19",
   "oracle:egup.fa.us2.oraclecloud.com|CX:20276730": "2026-11-16",
   "oracle:egup.fa.us2.oraclecloud.com|CX:20279430": "2026-11-13",
   "oracle:egup.fa.us2.oraclecloud.com|CX:20284501": "2026-11-13",
@@ -78139,6 +78154,7 @@
   "tiktok:us:7281061641377106234": "2026-11-14",
   "tiktok:us:7317393782285256969": "2026-11-14",
   "tiktok:us:7317741501873490227": "2026-11-14",
+  "tiktok:us:7319565950097017138": "2026-11-19",
   "tiktok:us:7320145236901808394": "2026-11-14",
   "tiktok:us:7321895068121221426": "2026-11-14",
   "tiktok:us:7322993115722336538": "2026-11-14",
@@ -78649,6 +78665,7 @@
   "workable_search:all:7857342c-afa5-4f65-8bb1-3c048ba18d47": "2026-11-13",
   "workable_search:all:79cf0924-e29f-43d0-b597-96f80c1c6cb5": "2026-11-13",
   "workable_search:all:7d2ff17f-7fc2-4504-b501-378f3a7b5c5b": "2026-11-19",
+  "workable_search:all:7dee47dc-4a06-4231-b4ab-da5819f1a81e": "2026-11-19",
   "workable_search:all:808aa49b-d233-40da-88e2-4f8c8fc00c48": "2026-11-13",
   "workable_search:all:8117bf21-1bd8-419c-8d98-4a2bd1daf46a": "2026-11-13",
   "workable_search:all:8449b85a-c4ef-4e30-adf2-22fde3b34165": "2026-11-17",
@@ -81860,8 +81877,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-19T09:45:37+00:00",
-  "yc": "2026-11-19T09:45:37+00:00"
+  "workable_search": "2026-11-19T12:47:34+00:00",
+  "yc": "2026-11-19T12:47:34+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
