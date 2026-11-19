@@ -1,21 +1,23 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**614 jobs**, newest first. Updated Wed Nov 18, 11:47 PM CST from 12,526 company job boards and other sources.
+**614 jobs**, newest first. Updated Thu Nov 19, 12:48 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 264 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,788 matching jobs that job sites and feeds listed this week, 687 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 3,866 matching jobs that job sites and feeds listed this week, 707 (18%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (110)](#thursday-nov-12-110)
+Jump to: [Thu 19 (4)](#thursday-nov-19-4) · [Wed 18 (60)](#wednesday-nov-18-60) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (148)](#friday-nov-13-148) · [Thu 12 (108)](#thursday-nov-12-108)
 
-## Thursday, Nov 19 (2)
+## Thursday, Nov 19 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Software Engineer, Commerce](https://www.amazon.jobs/en/jobs/10607724/software-engineer-commerce) | Twitch Interactive, Inc. | Seattle, Washington, USA | 75 | 1+ yrs exp |
 | date only | [Software Engineer I, Commerce](https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce) | Twitch Interactive, Inc. | Seattle, Washington, USA | 85 | entry-level title; 1+ yrs exp |
+| 1:47 AM | [Associate, Cybersecurity & Data Privacy, Compliance](https://jobs.lever.co/jobgether/c998b954-e4b5-4221-9e90-a854a4cab7a1) | Jobgether | US (remote) | 82 | entry-level title; 1+ yrs exp |
+| 12:05 AM | [Systems Support Specialist I - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4416) | City of Oklahoma City | Oklahoma  City, OK, United States (onsite) | 80 | entry-level title |
 
 ## Wednesday, Nov 18 (60)
 
@@ -549,7 +551,7 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60)
 | 2:00 AM | [Fluid Systems Engineer](https://careers.westinghousenuclear.com/job/Rock-Hill-Fluid-Systems-Engineer-SC-29730/1440646100/) | Westinghouse Electric Company | Rock Hill, SC, United States | 85 | 1+ yrs exp; entry level (from the text) |
 | 1:00 AM | [Network Engineer I](https://jobs.dayforcehcm.com/en-US/sonifi/CANDIDATEPORTAL/jobs/5902) | Sonifi | Sioux Falls, SD, US | 73 | entry-level title; E-Verify |
 
-## Thursday, Nov 12 (110)
+## Thursday, Nov 12 (108)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -661,10 +663,8 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60)
 | 3:16 AM | [Customer Support Associate](https://jobs.lever.co/jobgether/0779e90f-400b-4145-badf-021026ef08c7) | Jobgether | US (remote) | 65 | entry-level title |
 | 2:00 AM | [System Validation Engineer](https://jobs.supermicro.com/job/San-Jose-System-Validation-Engineer-Cali/1430201300/) | Super Micro Computer | San Jose, California, United States | 78 | 0-2 yrs exp; entry level (from the text) |
 | 2:00 AM | [System Planning Engineer](https://careers.westinghousenuclear.com/WECTEC_Staffing/job/OTHER-System-Planning-Engineer-MA-0/1430403700/) | Westinghouse Electric Company | OTHER, MA, United States | 68 | entry level (from the text) |
-| 12:00 AM | [Technical Support Representative Tier 1](https://jobs.dayforcehcm.com/en-US/k12l/candidateportal/jobs/10918) | K12L | US | 68 | entry-level title |
-| 12:00 AM | [Salesforce FSC Associate (Contractor)](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9203) | Hightower | Chicago, IL, US | 68 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3838)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (3842)
 
 <details><summary>Show</summary>
 
@@ -674,6 +674,10 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60)
 | date only | [2027 Associate Software Digital Engineer - Rolling Meadows IL  - Roll…](https://ngc.eightfold.ai/careers/job/1340075394894) | Ngc | Rolling Meadows, IL, US (onsite) | 80 | rules: entry-level title; needs: security clearance |
 | date only | [Support Engineer, Amazon Leo Enterprise Customer Support](https://www.amazon.jobs/en/jobs/10608910/support-engineer-amazon-leo-enterprise-customer-support) | Amazon Kuiper Commercial Serv… | Bellevue, Washington, USA | 75 | rules: 1+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Software Development Engineer - AWS OpenSearch, OpenSearch Platform T…](https://www.amazon.jobs/en/jobs/10598937/software-development-engineer-aws-opensearch-opensearch-platform-team) | Amazon Development Center U.S… | Santa Clara, California, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [AI enabled PDK Development Engineer](https://globalfoundries.eightfold.ai/careers/job/563980770945695) | Globalfoundries | Malta, NY, US; Essex, VT, US (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Automation Engineer](https://micron.eightfold.ai/careers/job/45606348) | Micron | GJ,IN (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 1:45 AM | [Salesforce Experience Cloud Web Developer](https://jobs.lever.co/jobgether/32e65285-8bc8-4641-8828-80f5373e873e) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 12:00 AM | [Information Technology - Azure Administrator 130-2069](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6578) | Ccok | Tulsa, OK, US | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:21 PM | [Embedded Software Engineer](https://jobs.ashbyhq.com/base-power/85775865-f676-47b5-85e4-a7b4237f837c) | Base Power | Austin, TX (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:41 PM | [AI Factory Customer Engineer](https://job-boards.greenhouse.io/armada/jobs/5485812008) | Armada | United States (Remote) (remote) | 42 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 10:26 PM | [Product Support Engineer](https://jobs.lever.co/jobgether/7e203dba-97cd-4265-932a-a8e33b61d987) | Jobgether | US (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -1066,9 +1070,5 @@ Jump to: [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (60)](#wednesday-nov-18-60)
 | 11:02 AM | [Software Development Engineer](https://jobs.smartrecruiters.com/Intuitive/744000162133129-software-development-engineer) | Intuitive Surgical | Sunnyvale, CA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2027974EXTERNALENGLOBAL) | Cisco | Durham, North Carolina, United States o… | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [Automation Engineer](https://careers.quality-ai.com/job/Bangalore-Automation-Engineer-560045/61613044/) | Qualitest |  | 55 | rules: 4+ yrs exp; location unclear; asks for 4+ years of experience |
-| date only | [Technical Leader - Software Development Engineer in Test (SDET), San-…](https://careers.cisco.com/global/en/job/CISCISGLOBAL2028912EXTERNALENGLOBAL) | Cisco | San Francisco, California, United State… | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| date only | [2027 Associate Systems Engineer - Rolling Meadows IL](https://ngc.eightfold.ai/careers/job/1340075370527) | Ngc | Rolling Meadows, IL, US +1 more (onsite) | 80 | rules: entry-level title; needs: security clearance |
-| date only | [Analytics Engineer, Commercial Systems](https://apply.workable.com/bask-health-1/j/9453F02B71/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [GTM Data Analyst](https://apply.workable.com/bask-health-1/j/8F7C4076E8/) | Bask Health 1 | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
