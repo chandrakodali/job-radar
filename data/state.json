@@ -12151,17 +12151,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 332,
+   "n": 333,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 332,
+   "n": 333,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 332,
+   "n": 333,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14943,8 +14943,8 @@
    369
   ],
   "2026-11-20": [
-   116,
-   210
+   119,
+   215
   ]
  },
  "resolved": {
@@ -65746,6 +65746,7 @@
   "amazon:us:10609075": "2026-11-19",
   "amazon:us:10609537": "2026-11-19",
   "amazon:us:10609574": "2026-11-19",
+  "amazon:us:10610161": "2026-11-20",
   "apple:usa:200657320": "2026-11-14",
   "apple:usa:200674782": "2026-11-14",
   "apple:usa:200684228": "2026-11-14",
@@ -68368,6 +68369,7 @@
   "lever:jobgether:d0d0b10a-9ba4-4ce7-997d-3d7db4e759fc": "2026-11-16",
   "lever:jobgether:d14583f1-1c76-45b0-9970-c52c5b253cb7": "2026-11-14",
   "lever:jobgether:d5f22995-7c0b-4592-b479-d284090b36b7": "2026-11-14",
+  "lever:jobgether:d74b978e-505d-4b9a-9497-1c3870e4be8e": "2026-11-20",
   "lever:jobgether:dd02f32a-6fa7-4530-bca3-ab6c6dc5b6fc": "2026-11-20",
   "lever:jobgether:dfcf2cf4-e337-419a-8d67-0128bd84d2a1": "2026-11-14",
   "lever:jobgether:f1b6a65b-f1e0-4ce8-9c26-92731bf054d6": "2026-11-16",
@@ -69162,6 +69164,7 @@
   "sfrmk:careers.capgemini.com:1458192933": "2026-11-20",
   "sfrmk:careers.capgemini.com:1458391133": "2026-11-20",
   "sfrmk:careers.capgemini.com:1458410933": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1458701933": "2026-11-20",
   "sfrmk:careers.capgemini.com:1458779833": "2026-11-20",
   "sfrmk:careers.capgemini.com:1458816333": "2026-11-20",
   "sfrmk:careers.capgemini.com:1459067433": "2026-11-20",
@@ -70451,7 +70454,7 @@
   "remoteok": "2026-11-20T11:37:22+00:00",
   "usajobs": "2026-11-20T10:07:14+00:00",
   "workable_search": "2026-11-20T10:07:14+00:00",
-  "wwr": "2026-11-20T11:37:22+00:00",
+  "wwr": "2026-11-20T12:37:13+00:00",
   "yc": "2026-11-20T10:07:14+00:00"
  },
  "title_rules": "c323075b4d70",
