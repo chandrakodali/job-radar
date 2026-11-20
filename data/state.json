@@ -12151,17 +12151,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 334,
+   "n": 335,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 334,
+   "n": 335,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 334,
+   "n": 335,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14943,8 +14943,8 @@
    369
   ],
   "2026-11-20": [
-   140,
-   254
+   143,
+   259
   ]
  },
  "resolved": {
@@ -66763,6 +66763,7 @@
   "eightfold:nvidia:893394241567": "2026-11-14",
   "eightfold:nvidia:893394443076": "2026-11-16",
   "eightfold:nvidia:893395121939": "2026-11-15",
+  "eightfold:nvidia:893395444538": "2026-11-20",
   "eightfold:nvidia:893395964724": "2026-11-19",
   "eightfold:nvidia:893396402568": "2026-11-15",
   "eightfold:nvidia:893396422329": "2026-11-15",
@@ -68548,6 +68549,7 @@
   "oracle:egoh.fa.us2.oraclecloud.com|CX_1001:33134": "2026-11-16",
   "oracle:egua.fa.us2.oraclecloud.com|CX_1:24210": "2026-11-08",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26013784": "2026-11-16",
+  "oracle:egug.fa.us2.oraclecloud.com|CX:26014650": "2026-11-20",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26015149": "2026-11-17",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26016351": "2026-11-19",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26016352": "2026-11-17",
@@ -68555,6 +68557,7 @@
   "oracle:egug.fa.us2.oraclecloud.com|CX:26016666": "2026-11-19",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26016715": "2026-11-19",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26013784": "2026-11-16",
+  "oracle:egug.fa.us2.oraclecloud.com|CX_1:26014650": "2026-11-20",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26015149": "2026-11-17",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26016351": "2026-11-19",
   "oracle:egug.fa.us2.oraclecloud.com|CX_1:26016352": "2026-11-17",
@@ -69540,6 +69543,7 @@
   "workable:accurant:E9A36F1643": "2026-11-11",
   "workable:alphax:74C2A57C78": "2026-11-08",
   "workable:aravo:405A735D89": "2026-11-09",
+  "workable:aretum:1BB152E3C2": "2026-11-20",
   "workable:aretum:390B4162BB": "2026-11-19",
   "workable:aretum:66C5EFC702": "2026-11-19",
   "workable:aretum:85F7B22D15": "2026-11-19",
@@ -70452,10 +70456,10 @@
  },
  "source_last": {
   "hn": "2026-11-20T08:37:15+00:00",
-  "remoteok": "2026-11-20T11:37:22+00:00",
+  "remoteok": "2026-11-20T13:37:15+00:00",
   "usajobs": "2026-11-20T13:07:14+00:00",
   "workable_search": "2026-11-20T13:07:14+00:00",
-  "wwr": "2026-11-20T12:37:13+00:00",
+  "wwr": "2026-11-20T13:37:15+00:00",
   "yc": "2026-11-20T13:07:14+00:00"
  },
  "title_rules": "c323075b4d70",
