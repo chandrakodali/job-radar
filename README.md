@@ -37,6 +37,28 @@ automated reading). Skipped for now: Keka and Factorial (careers API not public 
 TalentReef (hourly retail and restaurant jobs), Notion job pages (no structured job data), Remote Rocketship
 (re-lists jobs from company boards the radar already reads).
 
+## Network Engineer Radar and OT Network Engineer Radar
+
+**[Network report →](REPORT_NETWORK.md)** · **[OT network report →](REPORT_OT.md)** · pages: `.../job-radar/network/`, `.../job-radar/ot/`
+
+Two separate lists with the same rules as the DevOps radar: US only, posted in the last 7 days, newest first; **5+
+years**, **clearance / US citizenship** and Lead/Staff/Principal/Manager/Architect/level IV+ titles left out; senior
+titles kept when they ask under 5 years; no-sponsorship and staffing jobs kept and flagged. Both read the same
+10,000+ employer boards (plus Amazon, Apple, IBM, TikTok), Workable search, HN, USAJOBS and your alert emails.
+
+- **Network Engineer** (hourly): network engineer/administrator/analyst/technician, NOC, wireless/WLAN, LAN/WAN,
+  SD-WAN, firewall, network security and automation, cloud and data-center networking. Systems, infrastructure,
+  telecom and IT engineer titles count only when the job text is about networking (Cisco/Juniper/Arista, routing
+  and switching, BGP/OSPF, VLANs, firewalls, CCNA/CCNP...). Not included: healthcare "provider network" jobs,
+  media/social/neural networks, power-grid and fiber/field installer jobs, and OT/industrial network jobs (those
+  are in the OT list).
+- **OT Network Engineer** (every 2 hours): OT / operational technology, ICS, SCADA, industrial and plant network,
+  infrastructure and OT security roles, NERC CIP. Controls, automation, PLC, I&C, substation automation and
+  plain network/security titles count only when the job is about **networks in an OT/industrial setting** (both
+  OT terms like SCADA, PLC, Purdue, IEC 62443, Profinet, Modbus and network terms like VLANs, firewalls, industrial
+  Ethernet). "OT" as Occupational Therapist is never matched.
+- Settings: `profiles/network/config.yaml`, `profiles/ot/config.yaml`.
+
 ## Java Developer Radar
 
 **[Open the report →](REPORT_JAVA.md)** · page: `https://chandrakodali.github.io/job-radar/java/`

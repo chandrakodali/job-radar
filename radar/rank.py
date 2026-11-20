@@ -121,8 +121,7 @@ _WORD_NUM = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "se
 _WORD_YEARS = re.compile(r"\b(one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve)\b"
                          r"(?=\s*(?:\(\d{1,2}\)\s*)?(?:\+|plus|or more)?\s*(?:-|–|to)?\s*(?:\d{1,2}\s*)?(?:years?|yrs?)\b)", re.I)
 # "years of / in / with / developing ..." right after the number: experience, unless it's an age or history
-_YEARS_OF = re.compile(r"\s*(?:of|in|with|working|developing|building|designing|programming|coding|using|doing|"
-                       r"writing|supporting|administering|managing|as an?|on)\b", re.I)
+_YEARS_OF = re.compile(r"\s*(?:of|in|with|as an?|on|(?!during\b|including\b)[a-z]{3,}ing)\b", re.I)   # "years configuring ..."
 _DEG = [
     ("phd", re.compile(r"\bph\.?\s?d\b|\bdoctora(?:te|l)\b", re.I)),
     ("master", re.compile(r"\bmaster'?s?\b|\bm\.?\s?s\.?(?=[\s,;)/])|\bmsc\b|\bm\.?\s?eng\b|\bmsee\b|\bmsme\b|"

@@ -1,0 +1,266 @@
+# OT Network Engineer Radar: OT network engineer jobs (OT/ICS/SCADA network, infrastructure and OT security roles; controls, automation or network titles only when the job is about networks in an OT/industrial setting).
+# Same rules as the DevOps radar (US only; 5+ years, clearance or citizenship left out; senior titles
+# kept when they ask under 5 years; no-sponsorship and staffing jobs kept and flagged). Built by
+# scripts/make_network_profiles.py; edit this file directly from now on.
+titles:
+  strong:
+  - \b(ot|operational technology|ics|industrial control systems?|scada|industrial|plant|manufacturing|process control|control systems?) (network|networking|infrastructure|network security|cyber ?security|security)
+    (engineer|administrator|analyst|specialist|architect associate|technician|consultant)\b
+  - \b(ot|operational technology)\b.{0,30}\b(engineer|analyst|specialist|administrator|technician|consultant)\b
+  - \b(engineer|analyst|specialist|administrator)\b.{0,30}\b(ot|operational technology)\b
+  - \b(ics|scada|industrial control systems?)\b.{0,30}\b(engineer|analyst|specialist|administrator|technician)\b
+  - \b(industrial|ot|ics|scada) (cyber ?security|network)\b
+  - \bnerc[- ]?cip\b
+  hard_exclude:
+  - \b(staff|principal|lead|leader|manager|management|director|head of|vp|vice president|architect|distinguished|fellow|chief|supervisor)\b
+  - \b(iv|v|vi)\b
+  - \b(level|lvl)\s*[4-9]\b
+  - \b[4-9]\b\s*$
+  - \b(intern(ship)?|co-?op|summer|phd|apprenticeship program)\b
+  - \b(fs|ci|full[- ]?scope|lifestyle|counter[- ]?intelligence)\s*[-/]?\s*poly(graph)?\b|\bts/sci\b|\bpoly\b
+  - \b(clearance|top secret|classified|polygraph)\b
+  - \b(sales|pre-?sales|account (executive|manager)|business development|recruit\w*|marketing|teacher|instructor|trainer|professor|faculty)\b
+  - \b(m/w/d|w/m/d|m/f/d|f/h|h/f)\b
+  - \bmgr\b
+  - \b(provider|payer|clinical|social|neural|marketing|television|broadcast) network\b
+  - \b(occupational therap\w+|physical therap\w+|\bot/pt\b|nurse|nursing|clinical|patient|rehab\w*|school|teacher)\b
+  - \b(overtime|ot hours)\b
+  senior:
+  - \bsenior\b
+  - \bsr\.?\b
+  - \biii\b
+  - \b(level|lvl)\s*3\b
+  - \b3\s*$
+  core: []
+  bridge:
+  - \b(controls?|control systems?|automation|industrial automation|plc|dcs|hmi|instrumentation (and|&) controls?|i&c|process control|substation automation|protection (and|&) control|mes|manufacturing systems?|plant
+    systems?) (engineer|specialist|technician|analyst|programmer|developer|administrator)\b
+  - \b(network|infrastructure|systems?|it|cyber ?security|security|firewall|wireless|telecom(munications)?) (engineer|administrator|analyst|specialist|technician)\b
+  exclude:
+  - \b(staff|principal|lead|leader|manager|management|director|head of|vp|vice president|architect|distinguished|fellow|chief|supervisor)\b
+  - \b(iv|v|vi)\b
+  - \b(level|lvl)\s*[4-9]\b
+  - \b[4-9]\b\s*$
+  - \b(intern(ship)?|co-?op|summer|phd|apprenticeship program)\b
+  - \b(fs|ci|full[- ]?scope|lifestyle|counter[- ]?intelligence)\s*[-/]?\s*poly(graph)?\b|\bts/sci\b|\bpoly\b
+  - \b(clearance|top secret|classified|polygraph)\b
+  - \b(sales|pre-?sales|account (executive|manager)|business development|recruit\w*|marketing|teacher|instructor|trainer|professor|faculty)\b
+  - \b(m/w/d|w/m/d|m/f/d|f/h|h/f)\b
+  - \bmgr\b
+  - \b(provider|payer|clinical|social|neural|marketing|television|broadcast) network\b
+  - \b(occupational therap\w+|physical therap\w+|\bot/pt\b|nurse|nursing|clinical|patient|rehab\w*|school|teacher)\b
+  - \b(overtime|ot hours)\b
+  entry:
+  - \bjunior\b
+  - \bjr\.?\b
+  - \bassociate\b
+  - \bentry\b
+  - new grad
+  - \bgraduate\b
+  - early career
+  - university (grad|graduate|hire|program|recruit)
+  - \bapprentice
+  - \b(engineer|administrator|technician|analyst|specialist|developer)\s+(i|1)\b
+  - \b(level|lvl)\s*1\b
+description:
+  blockers:
+  - (security|secret|top secret|ts/sci|ts|sci|dod|public trust)\s+clearance
+  - clearance (is |will be )?required
+  - active (secret|top secret|ts/sci|ts)\b
+  - ability to (obtain|maintain) (a |an )?(\w+ )?(security )?clearance
+  - must (be|hold) (a |an )?(u\.?s\.?|united states) citizen
+  - (u\.?s\.?|united states) citizenship (is )?(required|is a requirement|needed)
+  - requires? (u\.?s\.?|united states) citizenship
+  - (must be|only) (a )?(u\.?s\.?|us) persons?
+  - \bitar\b
+  - export control.{0,80}(u\.?s\.? person|citizen)
+  blocker_exceptions:
+  - no (security )?clearance (is )?required
+  - clearance (is )?not required
+  - does not require (a |an )?(security )?clearance
+  no_sponsorship:
+  - (not|unable to|cannot|can.t|will not|won.t|does not|do not|is not able to)\s+(provide |offer |support )?(employment |work )?(visa )?sponsor
+  - sponsorship (is )?(not|un)available
+  - without (the )?(need for )?(current or future |now or in the future )?(employer |visa )?sponsorship
+  - now or in the future.{0,60}sponsor
+  sponsors:
+  - visa sponsorship (is )?available
+  - will sponsor
+  - sponsorship (is )?available
+  - open to sponsor
+  e_verify:
+  - e-?verify
+staffing_company_patterns:
+- consult
+- staffing
+- recruit
+- talent
+- infotech
+- \bit solutions\b
+- technologies llc
+- systems llc
+scoring:
+  alert_threshold: 45
+  max_alerts_per_run: 15
+  max_post_age_days: 10
+  years_by_section: true
+  degree: master
+  hide_if_years_at_least: 5
+  bridge_min: 2
+  bridge_evidence:
+  - \b(cisco|juniper|arista|aruba|meraki|extreme networks|ubiquiti|ruckus|nexus|catalyst)\b
+  - \b(routing|switching|routers?|switches|layer ?[23])\b
+  - \b(bgp|ospf|eigrp|is-is|mpls|stp|vrrp|hsrp|qos)\b
+  - \b(vlans?|vxlan|subnet\w*|tcp/ip|ipv[46])\b
+  - \b(firewalls?|palo alto|fortinet|fortigate|checkpoint|asa|ips/ids|vpn|ipsec)\b
+  - \b(sd-?wan|wan|lan|wlan|wireless|wi-?fi|802\.1x)\b
+  - \b(dns|dhcp|ipam|load balanc\w+|f5|netscaler)\b
+  - \b(ccna|ccnp|ccie|jncia|jncis|jncip|network\+|pcnse|nse ?[4-8])\b
+  - \b(wireshark|solarwinds|prtg|netflow|snmp|packet capture)\b
+  - \b(ot|operational technology|ics|industrial control( systems?)?|scada|plc|dcs|hmi|purdue|iec[- ]?62443|isa[- ]?99|nerc[- ]?cip|industrial (network|ethernet|automation|cyber)|plant floor|shop floor|manufacturing
+    (network|systems)|profinet|ethernet/ip|modbus|opc[- ]?ua|dnp3|iec[- ]?61850|rockwell|allen[- ]bradley|siemens|honeywell|emerson|schneider|yokogawa|abb|aveva|wonderware|ignition|claroty|nozomi|dragos|armis)\b
+  block_alerts_if_years_at_least: 5
+  bridge_required:
+  - \b(ot|operational technology|ics|industrial control( systems?)?|scada|plc|dcs|hmi|purdue|iec[- ]?62443|isa[- ]?99|nerc[- ]?cip|industrial (network|ethernet|automation|cyber)|plant floor|shop floor|manufacturing
+    (network|systems)|profinet|ethernet/ip|modbus|opc[- ]?ua|dnp3|iec[- ]?61850|rockwell|allen[- ]bradley|siemens|honeywell|emerson|schneider|yokogawa|abb|aveva|wonderware|ignition|claroty|nozomi|dragos|armis)\b
+  - \b(network(ing|s)?|routing|switching|routers?|switches|firewalls?|vlans?|tcp/ip|bgp|ospf|eigrp|mpls|sd-?wan|lan/wan|wan|lan|wireless|wlan|cisco|juniper|arista|palo alto|fortinet|fortigate|checkpoint|meraki|aruba|f5|dns|dhcp|vpn|ipsec|ccna|ccnp|ccie|jncia|jncis|stratix|industrial
+    ethernet)\b
+  bridge_required_count: 2
+  bridge_needs_text: true
+  bridge_drop: true
+  bridge_flag: OT network work in the text
+big_companies:
+- nvidia
+- \bintel\b
+- boeing
+- general motors
+- micron
+- applied materials
+- qualcomm
+- servicenow
+- \bibm\b
+- oracle
+- salesforce
+- cisco
+- adobe
+- dell
+- hewlett
+- \bhp\b
+- jpmorgan
+- capital one
+- wells fargo
+- bank of america
+- walmart
+- target
+- deloitte
+- accenture
+- pwc
+- pricewaterhouse
+- ernst
+- kpmg
+- tesla
+- uber
+- doordash
+- nike
+- visa\b
+- mastercard
+exclude_companies:
+- \brtx\b
+- raytheon
+- northrop
+- lockheed
+- general dynamics
+- bae systems
+- l3harris
+- leidos
+- \bcaci\b
+- \bsaic\b
+- science applications
+- booz allen
+- \bkbr\b
+- peraton
+- mantech
+- parsons
+- huntington ingalls
+- spacex
+- aerospace corporation
+- torch technologies
+- \bmitre\b
+- anduril
+- sierra nevada
+- textron
+- lawrence livermore
+- sandia
+- los alamos
+- national security
+workday:
+  shards: 1
+  max_pages: 15
+  search_terms:
+  - OT network
+  - operational technology
+  - SCADA
+  - ICS
+  - industrial network
+  - controls engineer
+  - OT security
+  search_pages: 3
+notify:
+  daily_digest_hour_local: 8
+  timezone: America/Chicago
+ai:
+  mode: 'off'
+discovery:
+  boards_per_run: 100000
+run:
+  time_budget_minutes: 28
+report:
+  order: newest
+  days: 7
+  hide_years: 5
+  track_closed: true
+  label: OT Network Engineer jobs in the US
+  note: US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and OT security roles; controls, automation or network titles only when the job is about networks in an OT/industrial
+    setting). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives
+    the day but not the time.
+sources:
+  email_alerts: true
+  email_days: 4
+  workable_search:
+    every_minutes: 180
+    days: 7
+    max_pages: 40
+    terms:
+    - OT network engineer
+    - operational technology
+    - SCADA engineer
+    - ICS engineer
+    - industrial network
+    - OT security
+  hn:
+    every_minutes: 360
+    days: 7
+  usajobs:
+    every_minutes: 180
+    days: 7
+    keywords:
+    - operational technology
+    - SCADA
+    - industrial control systems
+    series: []
+profile:
+  name: ot
+  label: OT Network Engineer Radar
+  report_url: https://github.com/chandrakodali/job-radar/blob/main/REPORT_OT.md
+  matches_file: data/ot/matches.csv
+  watching: OT network engineer jobs (OT/ICS/SCADA network, infrastructure and OT security roles; controls, automation or network titles only when the job is about networks in an OT/industrial setting).
+  refresh_note: Refreshes every 2 hours.
+  score_colors:
+  - 70
+  - 55
+  chips:
+    bad: clearance|citizen|itar|asks for \d+\+ years
+    good: entry-level title|0-2 yrs|sponsors visas|e-verify
+    warn: senior title|repost|unclear|contract|staffing|no visa sponsorship|OT network work in the text
+boards:
+  include_general: true
