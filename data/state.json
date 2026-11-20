@@ -12150,17 +12150,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 321,
+   "n": 322,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 321,
+   "n": 322,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 321,
+   "n": 322,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12594,6 +12594,11 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 4,
    "since": "2026-11-09"
+  },
+  "icims:careers-apexservicepartners.icims.com": {
+   "err": "HTTP 521",
+   "n": 1,
+   "since": "2026-11-20"
   },
   "icims:careers-biorad.icims.com": {
    "disabled_until": "2026-11-23",
@@ -14890,7 +14895,7 @@
   "Knack": "2026-11-17",
   "LaBella Associates": "2026-11-20",
   "Odin": "2026-11-17",
-  "Omnistrate": "2026-11-19",
+  "Omnistrate": "2026-11-20",
   "OpenDataJobs": "2026-11-14",
   "PGTEK": "2026-11-14",
   "PIMCO": "2026-11-16",
@@ -14942,8 +14947,8 @@
    369
   ],
   "2026-11-20": [
-   59,
-   107
+   80,
+   146
   ]
  },
  "resolved": {
@@ -67879,6 +67884,7 @@
   "icims:expleo-jobs-gb-en.icims.com:56835": "2026-11-09",
   "icims:global-portal-ttelectronics.icims.com:6332": "2026-11-09",
   "icims:global-portal-ttelectronics.icims.com:6333": "2026-11-09",
+  "icims:ideas-sas.icims.com:41647": "2026-11-20",
   "icims:jobs-bylight.icims.com:10809": "2026-11-09",
   "icims:jobs-bylight.icims.com:10869": "2026-11-09",
   "icims:jobs-bylight.icims.com:10977": "2026-11-09",
@@ -68360,6 +68366,7 @@
   "lever:jobgether:d0d0b10a-9ba4-4ce7-997d-3d7db4e759fc": "2026-11-16",
   "lever:jobgether:d14583f1-1c76-45b0-9970-c52c5b253cb7": "2026-11-14",
   "lever:jobgether:d5f22995-7c0b-4592-b479-d284090b36b7": "2026-11-14",
+  "lever:jobgether:dd02f32a-6fa7-4530-bca3-ab6c6dc5b6fc": "2026-11-20",
   "lever:jobgether:dfcf2cf4-e337-419a-8d67-0128bd84d2a1": "2026-11-14",
   "lever:jobgether:f1b6a65b-f1e0-4ce8-9c26-92731bf054d6": "2026-11-16",
   "lever:jobgether:f58ed2e6-6512-499e-9375-0fd1ee26a27b": "2026-11-14",
@@ -70433,10 +70440,10 @@
  "source_last": {
   "hn": "2026-11-20T02:37:18+00:00",
   "remoteok": "2026-11-20T05:37:24+00:00",
-  "usajobs": "2026-11-20T04:07:16+00:00",
-  "workable_search": "2026-11-20T04:07:16+00:00",
+  "usajobs": "2026-11-20T07:07:15+00:00",
+  "workable_search": "2026-11-20T07:07:15+00:00",
   "wwr": "2026-11-20T06:37:13+00:00",
-  "yc": "2026-11-20T04:07:16+00:00"
+  "yc": "2026-11-20T07:07:15+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1

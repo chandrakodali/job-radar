@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**564 jobs**, newest first. Updated Fri Nov 20, 12:37 AM CST from 12,526 company job boards and other sources.
+**564 jobs**, newest first. Updated Fri Nov 20, 1:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 228 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,519 matching jobs that job sites and feeds listed this week, 978 (38%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,558 matching jobs that job sites and feeds listed this week, 999 (39%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 20 (1)](#friday-nov-20-1) · [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (47)](#wednesday-nov-18-47) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (49)](#monday-nov-16-49) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (62)](#friday-nov-13-62)
 
@@ -614,7 +614,7 @@ Jump to: [Fri 20 (1)](#friday-nov-20-1) · [Thu 19 (37)](#thursday-nov-19-37) ·
 | 5:02 AM | [Langfuse - Senior Cloud Infra Engineer](https://jobs.ashbyhq.com/clickhouse/39e42a38-1cbf-40c7-b373-717b4cdddbac) | ClickHouse | New York (remote) | 52 | senior title, years not stated |
 | 1:07 AM | [Full-Stack Software Engineer (Infrastructure Focus)](https://jobs.lever.co/jobgether/c12ad43a-3c7b-4d0b-adde-d3509813970d) | Jobgether | US (remote) | 55 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (582)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (583)
 
 <details><summary>Show</summary>
 
@@ -624,6 +624,7 @@ Jump to: [Fri 20 (1)](#friday-nov-20-1) · [Thu 19 (37)](#thursday-nov-19-37) ·
 | date only | [Senior Forward Deployed Engineer, Sr Forward Deployment Engineering](https://www.amazon.jobs/en/jobs/10609070/senior-forward-deployed-engineer-sr-forward-deployment-engineering) | Amazon Web Services, Inc. | New York, New York, USA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Cloud Computing Engineer](https://symsstrategicgroup.applytojob.com/apply/mIUxDBRwJT/Cloud-Computing-Engineer) | Syms Strategic Group, LLC (SS… | Orlando, FL +29 more | 65 | rules: needs: Security Clearance |
 | date only | [Dynatrace Senior Consultant – AI Observability](https://arctiq.bamboohr.com/careers/365) | Arctiq | Brentwood, Tennessee, United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| 12:57 AM | [Senior IT Systems Engineer, Migration](https://jobs.lever.co/jobgether/dd02f32a-6fa7-4530-bca3-ab6c6dc5b6fc) | Jobgether | US (remote) | 27 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:18 PM | [Senior Platform Engineer](https://jobs.lever.co/jobgether/cf7fda3c-bb7f-4f9d-a2cf-6383f59c3288) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 8:32 PM | [Senior Platform Engineer](https://jobs.ashbyhq.com/artafinance/6575896b-cc08-4626-924b-95eabaee5138) | Artafinance | Bay Area (hybrid) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 7:57 PM | [Corporate Network Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5489564008) | Anthropic | Remote-Friendly (Travel Required) / San… (remote) | 27 | rules: 8+ yrs exp; asks for 8+ years of experience |
@@ -1019,7 +1020,6 @@ Jump to: [Fri 20 (1)](#friday-nov-20-1) · [Thu 19 (37)](#thursday-nov-19-37) ·
 | 11:40 AM | [Network Systems Engineer](https://careers.akima.com/jobs/27791?lang=en-us) | Akima | Lorton, Virginia | 45 | rules: 3+ yrs exp; needs: U.S. citizenship required |
 | 11:35 AM | [OT Network Engineer 1/2/3/Sr](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005943) | Berkshire Hathaway Energy | Omaha, NE, United States (onsite) | 45 | rules: entry-level title; 6+ yrs exp; senior title; asks for 6+ years… |
 | date only | [Network Operations Engineer II](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-II_R0018410) | Astreya | Denver, CO | 25 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [*AI & Cloud Native Full Stack Developer](https://www.careers.zurich.com/job/Schaumburg-AI-&-Cloud-Native-Full-Stack-Developer-IL-60159/1377504957/) | Zurich Insurance | Schaumburg, IL, US | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 
 </details>
 
