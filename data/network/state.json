@@ -8627,6 +8627,7 @@
   "sfrmk:careers.cintas.com": "2026-11-20",
   "sfrmk:careers.consumersenergy.com": "2026-11-20",
   "sfrmk:careers.dominionenergy.com": "2026-11-20",
+  "sfrmk:careers.dovercorporation.com": "2026-11-20",
   "sfrmk:careers.duke.edu": "2026-11-20",
   "sfrmk:careers.gulfstream.com": "2026-11-20",
   "sfrmk:careers.hfsinclair.com": "2026-11-20",
@@ -9438,9 +9439,76 @@
   "workable:zipdev": "2026-11-20",
   "workable:zippd": "2026-11-20",
   "workable:zyte": "2026-11-20",
+  "workday:@angc|wd5|ANGC": "2026-11-20",
+  "workday:@avnet|wd1|External": "2026-11-20",
+  "workday:@brevanhoward|wd3|BH_ExternalCareers": "2026-11-20",
+  "workday:@carislifesciences|wd12|CLS": "2026-11-20",
+  "workday:@chewy|wd5|External": "2026-11-20",
+  "workday:@clorox|wd1|Clorox": "2026-11-20",
+  "workday:@devonenergy|wd5|Careers": "2026-11-20",
+  "workday:@vbgov|wd5|City_Of_Virginia_Beach_Careers": "2026-11-20",
   "workday:abcfinancial|wd5|abcfinancialservices": "2026-11-20",
   "workday:acuityinternational|wd5|external": "2026-11-20",
+  "workday:agilonhealth|wd1|External": "2026-11-20",
+  "workday:aimco|wd10|AIMCoCareers": "2026-11-20",
+  "workday:albertamotorassociation|wd3|ama": "2026-11-20",
+  "workday:alegeus|wd1|Alegeus_External_Careers": "2026-11-20",
+  "workday:alfalaval|wd3|Alfa_Laval_jobs": "2026-11-20",
+  "workday:alkegen|wd5|alkegen": "2026-11-20",
+  "workday:allisontransmission|wd1|ATI-External": "2026-11-20",
+  "workday:alteryx|wd108|AlteryxCareers": "2026-11-20",
+  "workday:amainc|wd12|ama_careers": "2026-11-20",
+  "workday:ambarella|wd108|ambarella": "2026-11-20",
+  "workday:ameresco|wd5|Ameresco": "2026-11-20",
+  "workday:ancestry|wd501|Careers": "2026-11-20",
+  "workday:andersen|wd12|Andersen_External_Career_Site": "2026-11-20",
+  "workday:applied|wd501|applied": "2026-11-20",
+  "workday:ascensushr|wd1|ascensuscareers": "2026-11-20",
+  "workday:assetmark|wd5|AssetMark_Careers": "2026-11-20",
+  "workday:astemo|wd102|Global_Career_Site": "2026-11-20",
+  "workday:astreya|wd5|life-at-astreya-opportunities": "2026-11-20",
+  "workday:axiscapital|wd1|axiscareers": "2026-11-20",
+  "workday:axos|wd5|Axos": "2026-11-20",
+  "workday:bankeasy|wd5|bank-easy-job-openings": "2026-11-20",
+  "workday:bcbsri|wd1|BCBSRICareers": "2026-11-20",
+  "workday:biamp|wd12|Biamp": "2026-11-20",
+  "workday:bigcommerce|wd12|Commerce": "2026-11-20",
+  "workday:bluescopenac|wd5|BNACareers": "2026-11-20",
+  "workday:boseallaboutme|wd503|Bose_Careers": "2026-11-20",
+  "workday:boydcorp|wd12|Boyd_Careers": "2026-11-20",
+  "workday:btisolutions|wd12|External": "2026-11-20",
+  "workday:canadiansolar|wd5|CanadianSolar": "2026-11-20",
+  "workday:canadiantirecorporation|wd3|Enterprise_External_Careers_Site": "2026-11-20",
+  "workday:canvasinc|wd108|Canvas": "2026-11-20",
+  "workday:cbrands|wd5|CBI_External_Careers": "2026-11-20",
+  "workday:cdpq|wd10|CDPQ": "2026-11-20",
+  "workday:centricsoftware|wd501|Centric": "2026-11-20",
+  "workday:charlottenc|wd12|citgov": "2026-11-20",
+  "workday:chenmed|wd1|chenmed": "2026-11-20",
+  "workday:ciena|wd5|Careers": "2026-11-20",
+  "workday:cir|wd108|CIR_External_Career_Site": "2026-11-20",
+  "workday:clearwateranalytics|wd1|Clearwater_Analytics_Careers": "2026-11-20",
+  "workday:clio|wd3|ClioCareerSite": "2026-11-20",
+  "workday:clr|wd5|CLR_Careers": "2026-11-20",
+  "workday:comscore|wd5|External": "2026-11-20",
+  "workday:conehealth|wd12|cone_health-careers": "2026-11-20",
+  "workday:copart|wd12|copart": "2026-11-20",
+  "workday:corteva|wd5|ctp": "2026-11-20",
+  "workday:daikinapplied|wd1|Daikin-Careers": "2026-11-20",
+  "workday:directsupply|wd501|direct-supply-careers": "2026-11-20",
+  "workday:easternshipbuilding|wd12|EasternShipbuildingGroupsystem": "2026-11-20",
+  "workday:econicpartners|wd501|econicpartnerscareers": "2026-11-20",
+  "workday:fei|wd5|External": "2026-11-20",
+  "workday:firstnational|wd12|fnbocareers": "2026-11-20",
+  "workday:flutterbe|wd3|FlutterUKI_External": "2026-11-20",
+  "workday:fmc|wd12|FMC": "2026-11-20",
+  "workday:fmr|wd1|targeted": "2026-11-20",
+  "workday:kauai|wd1|Kauai_External_Career_Site": "2026-11-20",
+  "workday:my7elevenhr|wd12|Careers": "2026-11-20",
+  "workday:slihrms|wd3|careers": "2026-11-20",
+  "workday:transamerica|wd5|AEGONAM": "2026-11-20",
   "workday:transamerica|wd5|AUK_JobSite": "2026-11-20",
+  "workday:wgl|wd5|altagas": "2026-11-20",
   "zoho:agileengine": "2026-11-20",
   "zoho:airpay": "2026-11-20",
   "zoho:aspire": "2026-11-20",
@@ -9522,7 +9590,7 @@
   },
   "ashby:Lynk": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:Oso": {
@@ -9532,27 +9600,27 @@
   },
   "ashby:Tempo": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:amigo": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:arch.co": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:atomicsemi": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:beaconsoftware": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:blaxel": {
@@ -9572,42 +9640,42 @@
   },
   "ashby:chainlink-labs": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:egra": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:evenup": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:firetiger": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:fractional-ai": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:fundamentalresearchlabs": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:hiive": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:hilberts": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:hitpayapp.com": {
@@ -9617,7 +9685,7 @@
   },
   "ashby:inspiration-commerce-group": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:kinetic": {
@@ -9627,22 +9695,22 @@
   },
   "ashby:klarity-ai": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:latitude": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:levels": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:lindy": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:lucidbots": {
@@ -9652,22 +9720,22 @@
   },
   "ashby:mach": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:maximor": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:mentis": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:mintmcp": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:moonvalley-ai": {
@@ -9677,12 +9745,12 @@
   },
   "ashby:morrishealthtech": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:mtesting.ai": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:nectar-social": {
@@ -9697,7 +9765,7 @@
   },
   "ashby:odin-dynamics": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:offstream": {
@@ -9727,7 +9795,7 @@
   },
   "ashby:pryzm": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:response": {
@@ -9757,7 +9825,7 @@
   },
   "ashby:tracer": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:truss": {
@@ -9767,7 +9835,7 @@
   },
   "ashby:veeda-labs": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:vellum": {
@@ -9782,22 +9850,22 @@
   },
   "ashby:whatnot": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "ashby:withcherry": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "avature:skanska.avature.net|careers": {
    "err": "robots.txt disallows /careers/sitemap_index.xml",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "avature:travisperkins.avature.net|careers": {
    "err": "robots.txt disallows /careers/sitemap_index.xml",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "bamboohr:junocollege": {
@@ -9832,12 +9900,12 @@
   },
   "eightfold:aexp|aexp.com": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "eightfold:zebra|zebra.com": {
    "err": "HTTP 403",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:1910genetics": {
@@ -9857,17 +9925,17 @@
   },
   "greenhouse:alma": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:appliedintuition": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:arine": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:artlogic": {
@@ -9877,27 +9945,27 @@
   },
   "greenhouse:atlassand": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:breezeairways": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:buyersedgeplatformrecruiting": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:campusopportunities": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:capitalrx": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:classpass": {
@@ -9907,7 +9975,7 @@
   },
   "greenhouse:climateai": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:commonpaper": {
@@ -9922,17 +9990,17 @@
   },
   "greenhouse:debtbook": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:designmehair": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:dustyrobotics": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:embrace": {
@@ -9947,12 +10015,12 @@
   },
   "greenhouse:eu:fuzehealth": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:eu:letsgetchecked": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:eu:nowcircular": {
@@ -9962,12 +10030,12 @@
   },
   "greenhouse:eu:superbet": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:fireworksai": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:gigs": {
@@ -9977,7 +10045,7 @@
   },
   "greenhouse:glossgenius": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:greencanopy": {
@@ -9987,17 +10055,17 @@
   },
   "greenhouse:ibkr": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:iherb": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:instabase": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:kunai": {
@@ -10007,22 +10075,22 @@
   },
   "greenhouse:liveviewtechnologiesinc": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:loop": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:maintainx": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:matx": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:meltano": {
@@ -10032,12 +10100,12 @@
   },
   "greenhouse:memphismeats": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:mqreferrals": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:myshell": {
@@ -10057,17 +10125,17 @@
   },
   "greenhouse:postman": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:pretiuminternships2027": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:qualifiedhealth": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:quip": {
@@ -10077,12 +10145,12 @@
   },
   "greenhouse:rdccareers": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:reach": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:sadapay": {
@@ -10092,7 +10160,7 @@
   },
   "greenhouse:scoutai": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:segmed": {
@@ -10102,7 +10170,7 @@
   },
   "greenhouse:shyftsolutionsllc": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:smartersorting": {
@@ -10117,22 +10185,22 @@
   },
   "greenhouse:threatlocker": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:transcarent": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:underdogfantasy": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:uplifter": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:users": {
@@ -10142,142 +10210,147 @@
   },
   "greenhouse:visiersolutionsinc": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "greenhouse:withumsmithbrown": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:bowheadcareers-uicalaska.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:canadacareers-amd.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:career-schwab.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:careers-additionalrovisysopportunities.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:careers-biorad.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:careers-goldbeltapex.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:careers-hrblock.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:careers-ice.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:careers-itcfederal.icims.com": {
    "err": "robots.txt disallows /jobs/search",
+   "n": 2,
+   "since": "2026-11-20"
+  },
+  "icims:careers-kaukahi.icims.com": {
+   "err": "HTTP 521",
    "n": 1,
    "since": "2026-11-20"
   },
   "icims:careers-kimley-horn.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:careers-nv5.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:careers-publicisgroupetest.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:careers-rcm.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:careers-revolutioncompany.icims.com": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:careers-se.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:careers-sev1tech.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:careers-sharpusa.icims.com": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:careers-sig.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:external-careers-friedkin.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:field-careers-gmr.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:jobs-legrand.icims.com": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:returners-hrblock.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:studentemployment-stthomas.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:university-uber.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:uscareers-pepsico.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "icims:woodplc-tradecraft-us-external-qa.icims.com": {
    "err": "robots.txt disallows /jobs/search",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:BloomTech": {
@@ -10287,42 +10360,42 @@
   },
   "lever:aifund": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:aircall": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:aofl": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:aprio": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:autoroboto": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:bestegg": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:calstart": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:cesiumastro": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:conduktor": {
@@ -10332,22 +10405,22 @@
   },
   "lever:energyvault": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:farcast": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:grid": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:inductiveautomation": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:joingerald": {
@@ -10362,32 +10435,32 @@
   },
   "lever:machinalabs": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:mbrdna": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:njstateofficeofinnovation": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:nomagic": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:oaknorth.ai": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:quantumworkplace": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:rainforest": {
@@ -10397,7 +10470,7 @@
   },
   "lever:regalvoice": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:run-alloy": {
@@ -10407,27 +10480,27 @@
   },
   "lever:saronic": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:simberobotics": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:talentwerx.io": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:trend-health-partners": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:trio": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:wandb": {
@@ -10437,12 +10510,12 @@
   },
   "lever:welocalize": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "lever:xpansiv": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "pinpoint:heapy": {
@@ -10452,7 +10525,7 @@
   },
   "pinpoint:interactsoftware": {
    "err": "robots.txt disallows /postings.json",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "pinpoint:mountainwarehouse": {
@@ -10467,12 +10540,12 @@
   },
   "pinpoint:wolve": {
    "err": "robots.txt disallows /postings.json",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "recruitee:1x": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "recruitee:qatium": {
@@ -10482,12 +10555,12 @@
   },
   "rippling:acretrader-jobs": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "rippling:elevationcapital": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "rippling:en-CA": {
@@ -10502,12 +10575,12 @@
   },
   "rippling:eternal": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "rippling:etg": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "rippling:firehydrant": {
@@ -10517,12 +10590,12 @@
   },
   "rippling:general": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "rippling:gitar-careers": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "rippling:groundcontrol": {
@@ -10532,17 +10605,17 @@
   },
   "rippling:harness-careers": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "rippling:praos-smart-security": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "rippling:sennos": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "rippling:tempo": {
@@ -10550,44 +10623,39 @@
    "n": 1,
    "since": "2026-11-20"
   },
-  "sfrmk:careers.dovercorporation.com": {
-   "err": "robots.txt disallows /job_sitemap.xml",
-   "n": 1,
-   "since": "2026-11-20"
-  },
   "sfrmk:careers.qualitestgroup.com": {
    "err": "robots.txt disallows /job_sitemap.xml",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "taleo:aa243|ex": {
    "err": "Taleo portal number not found",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "taleo:energytransfer|etp_ext": {
    "err": "Taleo portal number not found",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "taleo:jacobs|ex3": {
    "err": "robots.txt disallows /careersection/ex3/jobsearch.ftl",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "taleo:kearney|01": {
    "err": "Taleo portal number not found",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "taleo:kp|external": {
    "err": "Taleo portal number not found",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "taleo:vulcanmat|2": {
    "err": "Taleo portal number not found",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "teamtailor:coligoab": {
@@ -10607,7 +10675,7 @@
   },
   "workable:currier-plastics": {
    "err": "HTTP 404",
-   "n": 1,
+   "n": 2,
    "since": "2026-11-20"
   },
   "workable:view": {
@@ -10615,8 +10683,18 @@
    "n": 1,
    "since": "2026-11-20"
   },
+  "workday:23andme|wd5|23": {
+   "err": "HTTP 403",
+   "n": 1,
+   "since": "2026-11-20"
+  },
   "workday:aah|wd5|External": {
    "err": "HTTP 410",
+   "n": 1,
+   "since": "2026-11-20"
+  },
+  "workday:condenast|wd5|CondeCareers": {
+   "err": "HTTP 422",
    "n": 1,
    "since": "2026-11-20"
   }
@@ -30772,6 +30850,10 @@
      "/reset/"
     ]
    ],
+   "t": "2026-11-20"
+  },
+  "careers.dovercorporation.com": {
+   "r": [],
    "t": "2026-11-20"
   },
   "careers.duke.edu": {
@@ -62357,6 +62439,7 @@
   "icims:careers-hhsys.icims.com:76251": "2026-11-20",
   "icims:careers-hhsys.icims.com:76659": "2026-11-20",
   "icims:careers-hhsys.icims.com:77090": "2026-11-20",
+  "icims:careers-hhsys.icims.com:78151": "2026-11-20",
   "icims:careers-i2gsystems.icims.com:4625": "2026-11-20",
   "icims:careers-i2xisys.icims.com:13360": "2026-11-20",
   "icims:careers-i2xisys.icims.com:14198": "2026-11-20",
@@ -62905,6 +62988,7 @@
   "jibe:careers.akima.com:27761": "2026-11-20",
   "jibe:careers.akima.com:27791": "2026-11-20",
   "jibe:careers.akima.com:28184": "2026-11-20",
+  "jibe:careers.akima.com:28917": "2026-11-20",
   "jibe:careers.rivian.com:35752": "2026-11-20",
   "jibe:jobs.keysight.com:55307": "2026-11-20",
   "jibe:jobs.keysight.com:56558": "2026-11-20",
@@ -63114,6 +63198,7 @@
   "paylocity:33704aa8-8475-45e8-b8a8-55e4d6765e36:4654017": "2026-11-20",
   "paylocity:3986a99a-17ae-446b-835f-782cb565047f:4256360": "2026-11-20",
   "paylocity:3986a99a-17ae-446b-835f-782cb565047f:4444460": "2026-11-20",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2023710EXTERNALENGLOBAL": "2026-11-20",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026031EXTERNALENGLOBAL": "2026-11-20",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2026959EXTERNALENGLOBAL": "2026-11-20",
   "phenom:careers.tranetechnologies.com|global/en:TRTEGLOBALJR19449EXTERNALENGLOBAL": "2026-11-20",
@@ -63536,6 +63621,18 @@
   "workable_search:all:78c2db55-3637-4e30-a8ea-d5704e6b32e8": "2026-11-20",
   "workable_search:all:89ebff49-4cc7-4182-87a2-d7df6b025cbf": "2026-11-20",
   "workable_search:all:9ea23ed4-4af6-4e62-99ca-5a43ed1e8ca4": "2026-11-20",
+  "workday:amainc|wd12|ama_careers:R-100797": "2026-11-20",
+  "workday:astreya|wd5|life-at-astreya-opportunities:R0018398": "2026-11-20",
+  "workday:astreya|wd5|life-at-astreya-opportunities:R0018412": "2026-11-20",
+  "workday:astreya|wd5|life-at-astreya-opportunities:R0018413": "2026-11-20",
+  "workday:astreya|wd5|life-at-astreya-opportunities:R0018414": "2026-11-20",
+  "workday:astreya|wd5|life-at-astreya-opportunities:R0018415": "2026-11-20",
+  "workday:astreya|wd5|life-at-astreya-opportunities:R0018416": "2026-11-20",
+  "workday:astreya|wd5|life-at-astreya-opportunities:R0018417": "2026-11-20",
+  "workday:astreya|wd5|life-at-astreya-opportunities:R0018418": "2026-11-20",
+  "workday:astreya|wd5|life-at-astreya-opportunities:R0018419": "2026-11-20",
+  "workday:astreya|wd5|life-at-astreya-opportunities:R0018587": "2026-11-20",
+  "workday:slihrms|wd3|careers:R-171492": "2026-11-20",
   "zoho:blackswansearch:247146000000590084": "2026-11-20",
   "zoho:endurance-it:644473000013596198": "2026-11-20",
   "zoho:globalworking:179458000002360105": "2026-11-20",
@@ -63548,6 +63645,6 @@
   "usajobs": "2026-11-20T16:01:19+00:00",
   "workable_search": "2026-11-20T16:01:19+00:00"
  },
- "title_rules": "adc3ec79d605",
+ "title_rules": "314c5b33b056",
  "version": 1
 }
