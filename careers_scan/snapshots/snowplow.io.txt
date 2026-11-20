@@ -12,8 +12,10 @@ Every event validated and enriched as it arrives
 Identities
 One customer across devices and logins
 Analytics
-Data Model Packs
-Ready-made models for digital and ecommerce analytics
+Digital Analytics
+Sessions, users and conversions in your warehouse
+Ecommerce Analytics
+Carts, checkouts and revenue in your warehouse
 Agent Intelligence
 See the AI agents reading your site
 Real-time
@@ -72,20 +74,23 @@ Shape the future of data
 Everything we do starts with the customer experience. We build the tools businesses use to understand each customer's journey and make every step of it better.
 We're a global team of builders, thinkers and data obsessives, and we're just getting started.
 More about Snowplow
-The teams we build for
-Our values
-Start with the customer
-Whether internal or external, customers are our top priority. Every decision, no matter how big or small, starts with them in mind.
-Bring our 'A' game
-Excellence is a mindset we all champion. We’re driven and motivated. We experiment and learn. We celebrate not only what we do, but the impact we have.
-Solve problems, seize opportunities
-We roll up our sleeves and take ownership of issues both within and beyond our roles, and we embrace opportunities for personal growth.
-Enable everyone to thrive
-Our team’s diverse ideas, strengths, interests, and backgrounds help us succeed. We value each other’s opinions and differences.
-Empower others through collaboration
-We are one team, rowing in one direction. We work together. We’re helpful, supportive and positive. We are all about enabling each other’s success.
-Breed trust through transparency
-Transparency is our default. Knowing that trust builds a better business, we’re honest and candid about our successes and failures.
+Trusted by teams at
+The Snowplow Way
+High agency
+You have the power to make a difference here directly. When you see a problem or a missed opportunity, you do something about it, and you tell us what’s holding you back so we can remove it. Managers build alongside their teams.
+“That’s not my job” isn’t something we say.
+Make it count
+We’re a data business, and we run on data ourselves. Every piece of work points at a goal that matters, with a number that shows whether it’s working. How you get there is up to you.
+Take ownership, and make your efforts count.
+Move fast
+AI has changed how fast work can move, and we work at that speed. Get it out, learn from it, keep improving. The exception is anything customers trust us with: their data, security and contracts. Those we get right first time.
+Try the thing before you write the process.
+Challenge, and be open to challenge
+Challenge the product, the plan or a leader’s decision, openly, with evidence and a suggestion. Expect the same back, and a straight answer. You can disagree and still treat people with respect.
+A good argument from anyone can change where we go.
+Make it compound
+AI makes each of us faster. That only makes Snowplow faster if what one person works out reaches everyone else. So when you crack something, don’t keep it to yourself. Turn it into a skill, a prompt, a dataset or a tool that others can pick up, and tell people it exists.
+Solve it once, for everyone.
 Benefits of working at Snowplow
 Equity for everyone
 Stock options, available to all employees globally. You're not just working here — you're building something you own.
@@ -99,6 +104,8 @@ Medical, dental, and vision, so you can focus on what matters.
 Your future matters. Pension and 401k plans to help you get there.
 Make an impact beyond Snowplow
 Every employee gets five days of paid volunteering per year. Use it to contribute meaningfully to a cause close to your heart.
+Hybrid working
+Hybrid that works for you and for us: come into our London or Boston office when it's useful, with the flexibility to work from home the rest of the time. Some roles are fully remote.
 Extra perks & benefits
 Whether you're in the office or working from home, we make sure you're set up to do your best work. We offer a home office budget, team events, and the kit you need to hit the ground running.
 In our team's words
@@ -121,9 +128,13 @@ Applied AI Engineer, Applied AI CTO Office Massachusetts, United States · Remot
 Forward Deployed Engineer, Applied AI CTO Office Massachusetts, United States · Remote
 Forward Deployed Engineer, Applied AI CTO Office United Kingdom · Remote
 Principal AI Platform Engineer, Applied AI CTO Office United Kingdom · Remote
-Senior Sales Engineer Customer Success Management United Kingdom · Hybrid
-Solutions Architect Customer Success Management United Kingdom · Hybrid
+Product Support Engineer Customer Australia · Remote
+Senior Support Solutions Consultant Customer Colombia · Remote
+Senior Support Solutions Consultant Customer Greece · Remote
 Principal, Developer Marketing Marketing Massachusetts, United States · Hybrid
+Principal Product Manager, Developer & Agent Experience Product Massachusetts, United States · Hybrid
 Account Executive Sales Massachusetts, United States · Hybrid
+Enterprise Account Executive Sales Massachusetts, United States · Hybrid
+Senior Sales Engineer Sales United Kingdom · Hybrid
 No roles match.
-Applications open on our careers site. See every role there
+Nothing that fits? Send a note to careers@snowplow.io and tell us what you'd want to work on.

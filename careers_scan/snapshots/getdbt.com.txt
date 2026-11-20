@@ -79,7 +79,7 @@ Oakland, California, United States
 Engineering Manager, Metadata
 Senior Software Development Engineer in Test, Database Automation
 Technical Program Manager, Security
-Senior Software Engineer - Orchestration
+Senior Software Engineer, Orchestration
 Senior Staff Site Reliability Engineer
 Senior Program Manager
 Senior Staff Software Engineer, SAP Connectors
@@ -94,6 +94,7 @@ Senior Full Stack Engineer
 Staff Program Manager, Knowledge Management
 Engineering Manager
 Finance Department
+Global Payroll Analyst
 Tax Manager
 Senior International Accountant
 GTM Finance Manager
@@ -122,11 +123,12 @@ Senior Marketing Manager, Commercial
 Enterprise Growth Marketing Lead, EMEA
 London, England, United Kingdom
 Dublin, Dublin, Ireland
+Staff Web Designer
 Product Department
-Product Manager - Integrations
+Product Manager, Integrations
 Staff Product Manager, Connectors
 Staff Product Manager, AI & Developer Experience
-Senior Product Manager - Adapters
+Senior Product Manage, Adapters
 Program Manager, Growth, Monetization & Strategic Initiatives
 Staff Product Manager, Databases
 Remote, Any, United States, AMER
@@ -138,12 +140,12 @@ Professional Services Team
 Senior Technical Instructor (US East)
 Remote, Connecticut, United States, AMER
 Resident Solution Architect
+Lead Technical Instructor
 Sales Department
-Senior Sales Engineer, Commercial
-Dublin, Dublin, Ireland, EMEA
-Commercial Sales Director (Benelux)
+Account Executive, Mid-Market (Denver)
+Account Executive, Mid-Market (Oakland)
 Business Development Representative (Austin)
-Account Executive, Commercial (Austin)
+Account Executive, Mid-Market (Austin)
 Senior Solutions Architect, Enterprise
 Regional Director
 Remote, Illinois, United States, AMER
@@ -152,8 +154,6 @@ Enterprise Account Executive
 Remote, Minnesota, United States, AMER
 Senior Sales Engineer, Enterprise
 Remote, Arizona, United States, AMER
-Senior Account Executive, Enterprise
-Remote, Any, Sweden
 Business Development Representative (Sydney)
 Sydney, New South Wales, Australia, APAC
 Business Development Representative (Denver)
@@ -163,13 +163,17 @@ Senior Solutions Architect
 Manager, Sales Engineering Specialists
 Principal Partner Solutions Architect (GSI)
 Senior Sales Compensation Analyst
+Sales Compensation Manager Systems and Analytics ( East Coast)
 Senior Value Engineer
+Senior Manager Sales Training
 Sales/Business Development Team
 Business Development Representative
+Dublin, Dublin, Ireland, EMEA
 Business Development Representative, German Speaking
 Sales Development Representative, Italian and Spanish Speaker
 IRL - Dublin (dbt)
 Sales Development Representative, German Speaking
+Business Development Rep, Enterprise, DACH
 Strategy & Operations Department
 Revenue Operations Manager
 Global Head of Deal Strategy and Operations

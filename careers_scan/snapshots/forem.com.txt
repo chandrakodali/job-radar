@@ -14,72 +14,69 @@ Nov 19
 # ai
 # career
 # programming
-101 reactions
+102 reactions
 51 comments
 11 min read
-In 2022 I learned to build Android apps in a country where I could not publish one
-Saifuddin Ahmed
+I Hired Five Agents. Now I Work for Them.
+Heriberto Flores
 Nov 20
-# android
-# beginners
-# motivation
-Add Comment
-3 min read
-How to Read a Codebase You've Never Seen (Without Getting Lost)
-mubert woo
-# learning
-5 min read
-I Thought Building Websites Was About Coding. I Was Wrong.
-Shahanaz
-# softwaredevelopment
-# softwareengineering
-# webdev
-How to Scrape Job Listings from Greenhouse, Lever and Ashby Career Pages (Python and No-Code)
-Web Obsidians
-# python
-# webscraping
-# api
-Why adding engineers made our delivery slower
-Aryan Bulandi
+# claudecode
 # productivity
-# devops
-1 min read
-How I prepare EM candidates to answer 30 leadership questions with 12 stories
-RainbowRoadPrep
-# engineeringmanager
-# interview
-# leadership
-Write your scope of work like a spec
-Mo Arfaj
-# freelancing
-9 min read
-You Can Outsource the Work, Not the Ownership
-Pranay Ravi
-# database
-8 min read
-After the Thirty-Six Stratagems: Three Questions
-Real DEV stats and reader comments inside
-74 reactions
-32 comments
-4 min read
-From Sales to Software Engineer: How I Got to a Leading Japanese IT Company in 5 Years
-Sora Terui
-The invoice I was too polite to chase (and the 3-line follow-up I send now)
-lululapeng
+Add Comment
 2 min read
-5 Things About Japanese Hiring That Foreigners Always Get Wrong
-Yama
-# japan
-# worklife
-Who is hiring right now? I scanned 8,000 company career sites (November 2026)
+Your resume needs the exact keywords, not vibes
+Sarah Mitchell
+# jobs
+# resume
+# frontend
+1 comment
+4 min read
+GH-900 GitHub Foundations: exam domains and a 4-week study plan (2026)
+Jey Singh
+# github
+# certification
+# beginners
+3 min read
+How a WWE Jump Pushed Me Into Programming
+Eissa Saber
+# webdev
+Who is hiring AI engineers right now? 682 companies, from OpenAI to ServiceNow (November 2026)
 ProStyropor Data
 # hiring
-# llm
-New Jersey's Mini-WARN Act: 90 Days' Notice and Mandatory Severance
-Layoff Atlas
-# news
-# data
-# newjersey
+Por qué construí NotGhosty: Exponiendo el farming de IA y recolección de CVs
+notghosty
+# spanish
+# opensource
+What College Didn’t Teach Me About Getting My First Tech Job
+Vivek rao
+# learning
+Oct 12–19. One portfolio day, then a week inside NEXUS
+Abdul Wasay Lodhi
+# showdev
+# buildinpublic
+In 2022 I learned to build Android apps in a country where I could not publish one
+Saifuddin Ahmed
+# android
+# motivation
+Why I Built NotGhosty: Exposing AI Interview Farming & Data Harvesting
+# tech
+# recruiting
+1 min read
+Which companies sponsor H-1B for new grads? What 37,298 entry-level filings show (FY2026)
+FirstHire Team
+# datascience
+How to Read a Codebase You've Never Seen (Without Getting Lost)
+mubert woo
+5 min read
+Boardroom Communication: Translating Tech to Value
+Ricardo Vano
+# leadership
+# culture
+6 min read
+We ran one resume through 20 layouts and a text extractor: here is what got lost
+Kien Phan
+# testing
+8 min read
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Remembering Steven Schrembeck
 Frontend Isn't Dead. But the Job Title Is Changing

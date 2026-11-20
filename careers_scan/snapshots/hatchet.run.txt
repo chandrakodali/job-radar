@@ -77,7 +77,7 @@ Stop rebuilding queues and start shipping features.
 pricing
 Start for free — no credit card required
 throughput
-Processing 170 million tasks/day on Hatchet Cloud
+Processing 200 million tasks/day on Hatchet Cloud
 license
 Open-source and self-hostable
 start for free → talk to us

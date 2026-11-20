@@ -1,4 +1,47 @@
-Careers
-Explore opportunities to join the Algorand Foundation
-Do you believe in the decentralized promise of Web3 and the superiority of the Algorand protocol to deliver on that promise? Do you nerd out on solving hard problems? Are you an entrepreneurial spirit who can also work collaboratively in a global, remote setting?
-If you answered yes, your next role may be waiting for you at the Algorand Foundation.
+Quantum computers may threaten today’s digital security.
+Be ready before they do.
+Algorand brings post-quantum security to the digital economy, protecting assets, transactions, identities, and data with crypto-agile security already running in production.
+Talk to our team
+PQ in production since 2022
+Falcon post-quantum signatures running in production
+Native PQ accounts live
+Quantum-resistant accounts and transactions available today
+Led by world-class cryptographers
+Founded by a Turing Award winner and built on decades of cryptographic research
+The post-quantum migration clock is already ticking
+Three forces are converging
+Protect digital value with post-quantum security, wherever you build
+Enterprise wallets
+Offer PQ-secured custody without spending years building and auditing the underlying cryptographic stack.
+Learn more about Enterprise wallets
+Personal wallet
+Hold, swap, and move Algorand assets into native post-quantum accounts, all in Pera, with ERC-20 support and cross-chain swaps coming soon.
+Learn more about Personal wallet
+Tokenization & issuance
+Issue once and move across Ethereum, EVM chains, and Algorand, with post-quantum security at every step.
+Learn more about Tokenization & issuance
+For developers
+Write smart contracts in TypeScript, Python, or Solidity and deploy them to Algorand for instant finality, low fees, and post-quantum security.
+Learn more about For developers
+We solved post-quantum security in production. Now we're bringing it to you.
+Algorand was founded by a Turing Award-winning cryptographer, built for security from the ground up using advanced cryptography designed to evolve. We've been deploying post-quantum solutions in production since 2022.
+2022
+Falcon post-quantum signatures deployed in production
+2025
+Quantum-resistant transactions live
+2026
+Native post-quantum accounts live
+Now
+Bringing Algorand’s PQ expertise to Ethereum and EVM chains, custody providers, wallets, issuers, and applications beyond Algorand
+We’ve spent years solving hard cryptographic problems in production. We’re making that capability available to organizations that don’t want to solve them again.
+See Algorand’s PQ Track Record
+Post-quantum security has to be crypto-agile
+Post-quantum migration isn't a one-time algorithm swap. Standards, requirements, and threats will continue to evolve. We build security that can evolve with them – without forcing you to continually rebuild the systems around it.
+Standards will evolve
+Algorithms and implementation guidance will continue to mature.
+New vulnerabilities will emerge
+Advances in AI, cryptanalysis, and computing may change which approaches remain secure.
+Requirements will vary
+Governments, regulators, and industries may move at different speeds and may mandate different algorithms or assurance levels.
+Start your PQ migration today
+Talk to our team Learn more about the quantum risk

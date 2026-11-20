@@ -55,13 +55,13 @@ We care deeply for our employees and provide paid time off to encourage their vo
 And much more such as Summer Fridays, a Calm subscription, and others!
 Our knowledge, shared
 Visit the blog Visit resource center
+November 20, 2026
+Dispatches from O'Reilly: Inside a software factory
+Go from vibe coding to generating clean, maintainable code
+Read article
 October 28, 2026
 A JSON schema Is not an AI governance layer
 The AI governance argument is happening one layer above the code that actually stops your agent.
-Read article
 October 21, 2026
 Survey Says: You'll swap the model, but everything you build around it is staying put
 Earlier this month, my team at Stacklok surveyed 520 technical leaders to understand whether they were concerned about being locked into frontier labs. The data says they’re already swapping models in and out, but the trap they’re concerned about is the layer on top of the model.
-October 19, 2026
-Production-grade LLMs and agents: a field guide
-A maturity model for taking agents from an impressive demo to a system people can depend on — with a self-assessment and the map to a deep-dive on each layer.

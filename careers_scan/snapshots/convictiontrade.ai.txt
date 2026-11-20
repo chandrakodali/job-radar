@@ -4,17 +4,36 @@ COMPANY Careers Ambassadors Contact
 X Discord LinkedIn
 Open Roles
 All roles work directly with the founders.
+Operations
+Head of Growth
+As Head of Growth, you will work directly with the founders to drive user acquisition, build our brand, and scale our growth strategy. You’ll own influencer partnerships, content creation, paid campaigns, events, and community growth, turning creative ideas into measurable results.
+Apply
+Full-time San Francisco, CA, US / Remote $90K - $130K Any (new grads ok) Visa: Will sponsor
+What You’ll Do
+Influencer & Creator Partnerships – Source, recruit, and manage influencers across finance, technology, and AI; develop creative campaigns, negotiate partnerships, and track performance
+UGC & Content Creation – Develop viral video concepts, hooks, and scripts for TikTok, Instagram, YouTube Shorts, and X; manage UGC creators and produce original in-house content
+Paid Social & Growth Campaigns – Launch and optimize paid advertising campaigns across Meta, TikTok, Google, and other platforms, managing budgets, creative testing, and acquisition costs
+Events & Community Growth – Organize in-person and virtual hackathons, trading competitions, and community events; build partnerships with universities, trading communities, and creators
+Growth Strategy & Analytics – Own growth experiments from ideation to execution, track signups, activation, paid conversions, and acquisition costs, and scale high-performing channels
+Qualifications & Experience
+Experience in growth marketing, user acquisition, social media, or influencer marketing
+Strong understanding of TikTok, Instagram Reels, YouTube Shorts, X, and emerging social platforms
+Experience sourcing influencers, negotiating partnerships, and managing UGC creators
+Ability to develop compelling content ideas, viral hooks, and creative campaigns
+Experience running paid advertising campaigns across Meta, TikTok, or Google
+Strong analytical skills with experience tracking acquisition costs, conversion rates, and campaign performance
+Experience organizing events, hackathons, or community-driven growth initiatives
+Ability to independently execute multiple growth experiments and move quickly in a fast-paced startup environment
+Creative, resourceful, and results-driven, with a focus on acquiring engaged users rather than vanity metrics
+Previous experience growing a consumer fintech, AI, or technology startup, an existing network of influencers or creators, or familiarity with financial markets and retail trading communities is a plus, but not required.
 Engineering, Full stack
 Member of Technical Staff
 As a Member of Technical Staff, you will work directly with the founders to build production-grade multi-agent systems, backend infrastructure, and financial data systems that power research and live trading.
-Apply
 Full-time San Francisco, CA, US $90K - $210K 0.50% - 2.00% equity Any (new grads ok) Visa: Will sponsor
-What You’ll Do
 Technical Development – Design and ship new features, MVPs, and scalable solutions that deliver direct value to customers
 Full Stack Development – Develop backend systems with a focus on scalability & improve infrastructure across AWS, databases, and containerized services
 AI/ML Applications – Develop agentic systems that power financial research and trading workflows
 Data Engineering – Build and improve financial data pipelines powering research and trading systems, working with large financial datasets
-Qualifications & Experience
 Experience with AWS infrastructure: ECS ALBs, S3, RDS
 Experience building backend systems: concurrency, multithreading, or asynchronous programming
 Experience building production-grade agentic systems
@@ -41,7 +60,6 @@ Understanding of common sources of backtest error, including look-ahead bias, su
 Understanding of financial markets, order types, market structure, and trade execution
 Experience with data analysis libraries and quantitative research tooling
 We’re especially interested in people who have worked in quantitative finance, trading, machine learning, or financial markets. Previous experience at a hedge fund, proprietary trading firm, asset manager, fintech company, market data provider, or quantitative research group is a plus.
-Operations
 Campus Ambassador
 As a Campus Ambassador, you will work directly with Conviction’s founding team to grow our presence at US universities, introduce students to AI-powered trading, and drive adoption through campus communities, content, partnerships, and events.
 Internship Remote $20 - $30 / hourly Any school year Visa: Will sponsor

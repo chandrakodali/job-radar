@@ -1,4 +1,4 @@
-Tower 18.5 for Mac (Beta) – Gitea, Forgejo, and Codeberg Support Tower 15 for Windows – Syntax Highlighting
+New Tower 18.5 for Mac (Beta) – Gitea, Forgejo, and Codeberg Support New Tower 15 for Windows – Syntax Highlighting
 We love to create software that matters.
 Thousands of customers like Apple, Google, or eBay use our work on a daily basis. We are very fortunate to know that we make a difference in the lives of our customers.
 Who We Are
@@ -34,6 +34,6 @@ To apply, please take some time to answer the questions below. We’re not very 
 Updates, Courses & Content via Email
 Want to win one of our awesome Tower shirts?
 Tell your friends about Tower!
-Share on Twitter
-We'll pick 4 winners every month who share this tweet!
+Share on X
+We'll pick 4 winners every month who share this post!
 Follow @gittower to be notified if you win!

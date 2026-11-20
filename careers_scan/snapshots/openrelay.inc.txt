@@ -1,6 +1,8 @@
 Products
-Compute
-Inference
+Rent GPUs
+GPU catalog
+Dedicated endpoints
+Inference API
 Pricing
 Inference Pricing
 Sandbox Pricing

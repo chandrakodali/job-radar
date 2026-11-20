@@ -1,3 +1,4 @@
+New subscriber offer 50% off your first 3 months on monthly plans, or 50% off your first year on yearly plans.
 New Spline Arena
 The 3D design tool for
 your team and agents
@@ -52,6 +53,7 @@ A Mars game with two rovers to drive across the dunes.
 Make your own
 Editor
 Everything you need for 3D design
+No 3D experience needed: start from a template, or describe what you want and let AI build the first pass.
 Model Primitives, booleans, sculpting and 3D generation .
 Materials and light Layered materials, lights and post-processing.
 Animation and interaction States, keyframes, events and physics.
@@ -83,5 +85,5 @@ Zeh Fernandes Founding Designer, Resend
 “ Spline is very easy and fast to learn. The learning curve is low, even junior designers can step in and integrate 3D experiences into a Webflow project. ”
 Pavel Dergachev Founder & Creative Director, KOJI
 Start building in 3D
-Connect your agent, invite your team and ship your first 3D scene today.
+Free to start, nothing to install. Connect your agent, invite your team and ship your first 3D scene today.
 Start building Get started for free Set up agent

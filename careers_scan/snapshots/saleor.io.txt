@@ -1,8 +1,7 @@
 Saleor Commerce Cloud
 API Calls Hourly
-550,949
+921,484
 24h peak
-1,021,009
 Handling 1B+ requests a month
 Transacting 400k orders a month
 Open Source
@@ -16,14 +15,14 @@ Extensible
 NEW
 Paper Storefront
 Latest Releases
-3 days ago 3.23.50
+4 days ago 3.23.50
 17 days ago 3.22.77
 2 months ago 3.21.71
 Your store's vitals → Your store's vitals, now in Saleor →
 Cloud Activity Hourly
 API Calls
 Latest releases
-3.23.50 3 days ago
+3.23.50 4 days ago
 3.22.77 17 days ago
 3.21.71 2 months ago
 Vision Three ways to build commerce →
