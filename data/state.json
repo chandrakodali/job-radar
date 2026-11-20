@@ -11750,6 +11750,7 @@
   "ashby:clera:bf0c74e8-63ef-4b00-8319-5dc1d61ba083": "2026-11-19",
   "ashby:clera:d7270fb0-ae7d-4c92-bd1a-9a1000c0b800": "2026-11-13",
   "ashby:clera:ee2d16b1-fb2a-4b38-9eba-258efd4a6dc3": "2026-11-12",
+  "ashby:clera:f4e07f8c-795c-477a-9a10-16d352a42fe9": "2026-11-20",
   "ashby:clera:f9a19ac1-59ba-43ed-8da4-7c0c17c67650": "2026-11-18",
   "ashby:creatoriq:e88a2ed2-52d8-45c7-9c6c-e372fec21cfb": "2026-11-18",
   "ashby:cursor:359cb8e6-77e8-4a77-be67-a39eb46d2c10": "2026-11-13",
@@ -12150,17 +12151,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 325,
+   "n": 326,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 325,
+   "n": 326,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 325,
+   "n": 326,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -65849,6 +65850,7 @@
   "ashby:clera:00983741-6f9e-4b8d-80c9-8252bc481d10": "2026-11-07",
   "ashby:clera:10add56b-cc60-48cd-80ca-4d2ec4081113": "2026-11-17",
   "ashby:clera:63b61af1-cd10-4499-8da3-eab9e9ce2cad": "2026-11-07",
+  "ashby:clera:890ed347-bbe9-4f0b-abd8-72994873a230": "2026-11-20",
   "ashby:clera:a3ddbed5-14b8-4192-8f94-124b8cebb549": "2026-11-07",
   "ashby:clera:bf0c74e8-63ef-4b00-8319-5dc1d61ba083": "2026-11-14",
   "ashby:clera:d7270fb0-ae7d-4c92-bd1a-9a1000c0b800": "2026-11-07",
