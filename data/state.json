@@ -11783,7 +11783,8 @@
   "lever:jobgether:727fde91-6dfd-49df-a6ea-3169fa9987a8": "2026-11-16",
   "lever:jobgether:73d75c56-c3b4-403f-b49d-93905c180592": "2026-11-18",
   "lever:jobgether:7f612467-c5a6-46d0-9e01-7bf055856e74": "2026-11-19",
-  "lever:jobgether:b45aadee-df74-4ad4-8acd-f23de8ee8060": "2026-11-19"
+  "lever:jobgether:b45aadee-df74-4ad4-8acd-f23de8ee8060": "2026-11-19",
+  "lever:redwoodcu:69c327df-2541-4395-b14a-2f66d3236bf4": "2026-11-20"
  },
  "fails": {
   "ashby:Airweave": {
@@ -12148,17 +12149,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 308,
+   "n": 309,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 308,
+   "n": 309,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 308,
+   "n": 309,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14874,7 +14875,7 @@
   "Bask Health": "2026-11-19",
   "Coris": "2026-11-16",
   "Diversified Services Network, Inc.": "2026-11-17",
-  "EPAM Systems": "2026-11-19",
+  "EPAM Systems": "2026-11-20",
   "EdgeQ Technologies Private Limited": "2026-11-18",
   "Edgewater Federal Solutions, Inc.": "2026-11-16",
   "Essnova Solutions, Inc.": "2026-11-17",
@@ -14939,8 +14940,8 @@
    369
   ],
   "2026-11-20": [
-   0,
-   0
+   2,
+   4
   ]
  },
  "resolved": {
@@ -66752,6 +66753,7 @@
   "eightfold:nvidia:893396402568": "2026-11-15",
   "eightfold:nvidia:893396422329": "2026-11-15",
   "eightfold:nvidia:893396867645": "2026-11-19",
+  "eightfold:nvidia:893396905948": "2026-11-20",
   "eightfold:nvidia:893397112878": "2026-11-19",
   "eightfold:nvidia:893397231867": "2026-11-15",
   "eightfold:nvidia:893397232031": "2026-11-14",
@@ -67012,6 +67014,7 @@
   "greenhouse:chaosindustries:5293433007": "2026-11-12",
   "greenhouse:chicagotrading:4751594005": "2026-11-11",
   "greenhouse:clarityinnovates:5281619007": "2026-11-07",
+  "greenhouse:clearwayjobs:5290313007": "2026-11-20",
   "greenhouse:clockworksystems:6254176004": "2026-11-12",
   "greenhouse:cloudflare:8263016": "2026-11-12",
   "greenhouse:cloudflare:8311376": "2026-11-07",
@@ -68047,6 +68050,7 @@
   "jazzhr:setofx:UWhl3cbs0B": "2026-11-09",
   "jazzhr:setofx:drYOENRFEb": "2026-11-09",
   "jazzhr:sigmadesign:rVm4qhScSp": "2026-11-12",
+  "jazzhr:sigmadesign:tWeKPHZxsE": "2026-11-20",
   "jazzhr:simisinc:1IlLfOa2YW": "2026-11-12",
   "jazzhr:simisinc:TELo9A4rRB": "2026-11-12",
   "jazzhr:simisinc:kTuDXkxDLQ": "2026-11-09",
@@ -70367,7 +70371,7 @@
   "remoteok": "2026-11-19T23:37:14+00:00",
   "usajobs": "2026-11-19T22:07:17+00:00",
   "workable_search": "2026-11-19T22:07:17+00:00",
-  "wwr": "2026-11-19T23:37:14+00:00",
+  "wwr": "2026-11-20T00:37:15+00:00",
   "yc": "2026-11-19T22:07:17+00:00"
  },
  "title_rules": "c323075b4d70",

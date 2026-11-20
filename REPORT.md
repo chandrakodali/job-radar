@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**563 jobs**, newest first. Updated Thu Nov 19, 6:07 PM CST from 12,526 company job boards and other sources.
+**563 jobs**, newest first. Updated Thu Nov 19, 6:37 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 227 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,412 matching jobs that job sites and feeds listed this week, 919 (38%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,416 matching jobs that job sites and feeds listed this week, 921 (38%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 19 (34)](#thursday-nov-19-34) · [Wed 18 (49)](#wednesday-nov-18-49) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (49)](#monday-nov-16-49) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (1)](#thursday-nov-12-1)
 
@@ -14,12 +14,12 @@ Jump to: [Thu 19 (34)](#thursday-nov-19-34) · [Wed 18 (49)](#wednesday-nov-18-4
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 6:30 PM | [IT Operations and Project Coordinator, IT Infrastructure](https://job-boards.greenhouse.io/clearwayjobs/jobs/5290313007) | Clearway Energy | San Diego, California, United States | 60 | 3+ yrs exp |
 | 3:12 PM | [Senior IT System Administrator](https://jobs.ashbyhq.com/nerdwallet/fc897ca4-9374-4f8c-8af1-59bf8ecfdd4b) | Nerdwallet | NerdWallet US (remote) | 42 | senior title, years not stated; E-Verify |
 | 3:12 PM | [Utility Infrastructure Telecom Design QC Engineer / Specialist](https://jobs.smartrecruiters.com/AECOM2/744000162605299-utility-infrastructure-telecom-design-qc-engineer-specialist) | AECOM | Kansas City, MO, United States (remote) | 72 | 2+ yrs exp |
 | 3:07 PM | [Multigres Deployment Engineer](https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b) | Supabase | Remote, Global | 55 | location unclear; priority company |
 | 2:54 PM | [Network Engineer I](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11927) | Sundt | Tempe, AZ, United States (hybrid) | 60 | entry-level title; 3+ yrs exp |
 | 2:37 PM (seen) | [ML Ops / AI Infrastructure Engineer](https://app.dover.com/apply/zerospace/26fed6ba-728b-422e-89e6-2ba36af5aa78) | Zerospace | Brooklyn, NY (onsite) | 60 | sponsors visas |
-| 12:54 PM | [DevOps Engineer I](https://jobs.lever.co/redwoodcu/69c327df-2541-4395-b14a-2f66d3236bf4) | Redwood Credit Union | Napa, California (onsite) | 75 | entry-level title; 3+ yrs exp |
 | 12:37 PM (seen) | [Senior Platform Engineer](https://app.careerpuck.com/job-board/thymecare/job/8zym2eBE) | Thymecare | Remote (remote) | 32 | senior title, years not stated; location unclear |
 | 12:31 PM | [Senior Site Reliability Engineer](https://weworkremotely.com/remote-jobs/upsun-senior-site-reliability-engineer) | Upsun | Remote, US (Anywhere in the World) (remote) | 47 | senior title, years not stated; no future H-1B sponsorship |
 | 12:14 PM | [AI & Cloud Integration Engineer](https://ericsson.eightfold.ai/careers/job/563121777586028) | Ericsson | Plano, TX, US (onsite) | 60 | 3+ yrs exp; no future H-1B sponsorship |
@@ -613,12 +613,13 @@ Jump to: [Thu 19 (34)](#thursday-nov-19-34) · [Wed 18 (49)](#wednesday-nov-18-4
 |---|---|---|---|---:|---|
 | 11:00 PM | [Geospatial Engineer – Cloud & DevOps](https://careers-dewberry.icims.com/jobs/16686/geospatial-engineer-%e2%80%93-cloud-%26-devops/job) | Dewberry | Fairfax, VA, United States | 60 | no future H-1B sponsorship |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (576)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (577)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Systems Administrator II](https://sigmadesign.applytojob.com/apply/tWeKPHZxsE/Systems-Administrator-II) | Sigma Design | Burlingame, CA | 25 | rules: 5+ yrs exp; needs: ITAR |
 | 5:45 PM | [Operating Systems Engineer, Linux Kernel / Consumer Devices](https://jobs.ashbyhq.com/openai/f0529a1d-fb6a-4229-a590-8caff1785bb3) | OpenAI | San Francisco | 50 | rules: adjacent title, little DevOps/cloud work in the text |
 | 4:45 PM | [Design for Reliability Engineer](https://jobs.ashbyhq.com/cerebras/2928d88c-d048-4854-9e69-7572113b036c) | Cerebras | Sunnyvale, CA (onsite) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 4:34 PM | [Network Engineer III (IP)](https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003773) | GCI | United States | 30 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
@@ -656,7 +657,7 @@ Jump to: [Thu 19 (34)](#thursday-nov-19-34) · [Wed 18 (49)](#wednesday-nov-18-4
 | date only | [Senior Cloud Platform Engineer (AIOps)](https://apply.workable.com/credence/j/DEFB1F312A/) | Credence | McLean, Virginia, United States | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | date only | [Senior Systems Software Engineer, Containers, Kubernetes, and Confide…](https://nvidia.eightfold.ai/careers/job/893398004321) | Nvidia | CA,US; TX,US; NC,US; WA,US (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Software Engineer, Bare Metal Infrastructure – DGX Cloud](https://nvidia.eightfold.ai/careers/job/893398376572) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| date only | [Senior Deep Learning Software Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893398605763) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
+| date only | [Senior Deep Learning Software Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893398605763) | Nvidia | Santa Clara, CA, US +1 more (onsite) | 45 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
 | date only | [Senior Systems Software Engineer, Containers and Kubernetes](https://nvidia.eightfold.ai/careers/job/893397548491) | Nvidia | Santa Clara, CA, US; Austin, TX, US; Se… (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Field Applications Engineer, AI Infrastructure Build - Executi…](https://nvidia.eightfold.ai/careers/job/893398171553) | Nvidia | TX,US; Houston, TX, US (remote) | 37 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Test Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893398512483) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
@@ -1018,7 +1019,6 @@ Jump to: [Thu 19 (34)](#thursday-nov-19-34) · [Wed 18 (49)](#wednesday-nov-18-4
 | date only | [OpenShift Platform Engineer](https://mtb.wd5.myworkdayjobs.com/MTB/job/Remote-USA/OpenShift-Platform-Engineer_R91878) | M&T Bank | Remote, USA (remote) | 42 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | date only | [Senior Software Engineer, Distributed Systems Engineering - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Distributed-Systems-Engineer---DGX-Cloud_JR2026619) | NVIDIA | US, CA, Santa Clara; US, Remote +1 more (remote) | 22 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Platform Engineer](https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Senior-Platform-Engineer_R0015704-2) | SWBC | San Antonio, TX | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
-| date only | [Directed Energy Senior Product Production Engineer](https://avav.wd1.myworkdayjobs.com/AVAV/job/Albuquerque-NM/Directed-Energy-Senior-Product-Production-Engineer_9382) | AeroVironment | Albuquerque, NM | 30 | rules: 5+ yrs exp; senior title; needs: security clearance |
 
 </details>
 
