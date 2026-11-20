@@ -24,11 +24,12 @@ Finds new **entry-friendly DevOps, SRE, cloud, platform and infrastructure jobs 
 
 ## Workday (shared sweep)
 
-Workday boards sit behind Cloudflare, which turns away a machine that asks too much. So one job,
-**workday-sweep** (hourly), reads every Workday board for all radars at about one request a second, oldest
-first, and saves the recent listings as an artifact. Each radar reads its other 10,000+ boards first, then in
-a second step on a fresh machine takes the Workday listings from the sweep and opens only the job pages it
-needs. `scripts/workday_sweep.py`, `radar/workday_shared.py`.
+Workday boards sit behind Cloudflare. Since mid-November 2026 Workday refuses most requests from GitHub's
+machines (many people read Workday from GitHub Actions), so Workday jobs are mostly missing from the radars.
+The radars do not try to get around this. One job, **workday-sweep**, reads Workday boards for all radars at
+about one request a second when a machine is allowed, and stops after two refusals; each radar takes Workday
+listings from it. Running the sweep from your own computer (a self-hosted GitHub runner) would restore Workday.
+`scripts/workday_sweep.py`, `radar/workday_shared.py`.
 
 ## Where the jobs come from
 
