@@ -12022,17 +12022,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 162,
+   "n": 163,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 162,
+   "n": 163,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 162,
+   "n": 163,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -66017,6 +66017,7 @@
   "avature:deloittecm.avature.net|careers:11170": "2026-11-14",
   "avature:deloittecm.avature.net|careers:11178": "2026-11-14",
   "avature:deloittecm.avature.net|careers:11185": "2026-11-18",
+  "avature:deloittecm.avature.net|careers:11196": "2026-11-20",
   "avature:deloitteus.avature.net|careers:350157": "2026-11-16",
   "avature:deloitteus.avature.net|careers:350195": "2026-11-16",
   "avature:deloitteus.avature.net|careers:350393": "2026-11-16",
@@ -66254,6 +66255,8 @@
   "avature:mgl.avature.net|internalcareers:24049": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24252": "2026-11-17",
   "avature:mgl.avature.net|internalcareers:24696": "2026-11-16",
+  "avature:mgl.avature.net|internalcareers:24808": "2026-11-20",
+  "avature:mgl.avature.net|internalcareers:24811": "2026-11-20",
   "avature:mgl.avature.net|internalcareers:24848": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24856": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24857": "2026-11-15",
@@ -68509,6 +68512,7 @@
   "dayforce:labconnect|candidateportal:4324": "2026-11-16",
   "dayforce:labconnect|candidateportal:4332": "2026-11-17",
   "dayforce:lakesidebook|CANDIDATEPORTAL:23001": "2026-11-16",
+  "dayforce:legence|IMDPORTAL:35633": "2026-11-20",
   "dayforce:medmetrix|candidateportal:11621": "2026-11-14",
   "dayforce:medplast|CANDIDATEPORTAL:31720": "2026-11-15",
   "dayforce:medplast|CANDIDATEPORTAL:31724": "2026-11-15",
@@ -71838,6 +71842,7 @@
   "icims:careers-healthedge.icims.com:7974": "2026-11-13",
   "icims:careers-healthedge.icims.com:8200": "2026-11-13",
   "icims:careers-healthedge.icims.com:8459": "2026-11-13",
+  "icims:careers-healthedge.icims.com:8465": "2026-11-20",
   "icims:careers-healthedge.icims.com:8599": "2026-11-13",
   "icims:careers-healthedge.icims.com:8601": "2026-11-13",
   "icims:careers-healthedge.icims.com:8677": "2026-11-13",
@@ -74583,6 +74588,7 @@
   "lever:jobgether:9501773f-06e3-4f88-863e-3269821b23d4": "2026-11-14",
   "lever:jobgether:9575c55d-70e4-47c1-b409-d1660ffd97d4": "2026-11-14",
   "lever:jobgether:96149835-6212-4058-887b-c0f304324a2a": "2026-11-17",
+  "lever:jobgether:9717c792-98ab-4d70-afdc-744ef4016120": "2026-11-20",
   "lever:jobgether:97c189cc-119a-4593-9c58-69de27790f03": "2026-11-14",
   "lever:jobgether:98ddf386-39a4-4ae5-b81c-a67e4798741a": "2026-11-16",
   "lever:jobgether:99eb329f-3631-494f-a198-9701dcc612d1": "2026-11-14",
@@ -74611,6 +74617,7 @@
   "lever:jobgether:bd763265-759c-4f88-bf0e-819c490842b5": "2026-11-14",
   "lever:jobgether:c12ad43a-3c7b-4d0b-adde-d3509813970d": "2026-11-14",
   "lever:jobgether:c1ce821c-87cf-46e9-8ebc-e2f5038708ce": "2026-11-19",
+  "lever:jobgether:c2917d30-f33e-4410-8f6b-c4cd7db7edcf": "2026-11-20",
   "lever:jobgether:c2dc5af1-6f3f-47ec-8a7d-4af4a51cebdb": "2026-11-20",
   "lever:jobgether:c2f8cdcc-e863-4e3f-884b-2a63153cc5ae": "2026-11-14",
   "lever:jobgether:c3e6c562-da79-4e0d-8f8c-9daa7b7b5081": "2026-11-14",
