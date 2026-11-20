@@ -12151,17 +12151,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 328,
+   "n": 329,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 328,
+   "n": 329,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 328,
+   "n": 329,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14943,8 +14943,8 @@
    369
   ],
   "2026-11-20": [
-   110,
-   200
+   113,
+   205
   ]
  },
  "resolved": {
@@ -69663,6 +69663,7 @@
   "workday:aksteel|wd1|careers:R13950": "2026-11-12",
   "workday:alegeus|wd1|Alegeus_External_Careers:R-101451": "2026-11-19",
   "workday:alfalaval|wd3|Alfa_Laval_jobs:JR0049541": "2026-11-11",
+  "workday:alkami|wd12|alkami:JR-000811": "2026-11-20",
   "workday:allegion|wd5|careers:JR36609": "2026-11-13",
   "workday:allegion|wd5|careers:JR37668": "2026-11-13",
   "workday:allegromicro|wd5|allegrocareers:R7034": "2026-11-10",
@@ -70445,7 +70446,7 @@
   "remoteok": "2026-11-20T09:37:19+00:00",
   "usajobs": "2026-11-20T10:07:14+00:00",
   "workable_search": "2026-11-20T10:07:14+00:00",
-  "wwr": "2026-11-20T09:37:19+00:00",
+  "wwr": "2026-11-20T10:37:20+00:00",
   "yc": "2026-11-20T10:07:14+00:00"
  },
  "title_rules": "c323075b4d70",
