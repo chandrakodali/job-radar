@@ -1,17 +1,20 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**542 jobs**, newest first. Updated Fri Nov 20, 1:49 PM CST from 1,681 company job boards and other sources.
+**543 jobs**, newest first. Updated Fri Nov 20, 2:15 PM CST from 10,845 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 294 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 20 (30)](#friday-nov-20-30) · [Thu 19 (38)](#thursday-nov-19-38) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (319)](#saturday-nov-14-319) · [Fri 13 (19)](#friday-nov-13-19)
+Coverage check: of 2,765 matching jobs that job sites and feeds listed this week, 1,106 (40%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Friday, Nov 20 (30)
+Jump to: [Fri 20 (31)](#friday-nov-20-31) · [Thu 19 (38)](#thursday-nov-19-38) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (319)](#saturday-nov-14-319) · [Fri 13 (19)](#friday-nov-13-19)
+
+## Friday, Nov 20 (31)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 1:50 PM | [Infrastructure Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808030) | JP Morgan Chase | Plano, TX, United States | 60 | 3+ yrs exp; senior title |
 | 1:07 PM (seen) | [Revenue Cloud Developer ID102545](https://agileengine.zohorecruit.com/jobs/Careers/248544000265799994/Revenue-Cloud-Developer-ID102545) | Agileengine | Jersey City, United States +23 more | 50 |  |
 | 1:06 PM | [Platform Engineering Senior Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215254) | DTCC | Jersey City, NJ, United States | 65 | entry-level title; senior title, years not stated; repost |
 | 12:37 PM (seen) | [Technical Consultant-Cloud Platform Engineering Services](https://careers.ibm.com/careers/JobDetail?jobId=143701) | IBM | No City, United States (hybrid) | 50 |  |
@@ -590,7 +593,7 @@ Jump to: [Fri 20 (30)](#friday-nov-20-30) · [Thu 19 (38)](#thursday-nov-19-38) 
 | 2:38 PM | [Hardware Reliability Engineer - Mac System Reliability](https://jobs.apple.com/en-us/details/200684228/hardware-reliability-engineer-mac-system-reliability) | Apple | United States of America | 65 |  |
 | 2:17 PM | [Artificial Intelligence Platform Engineer](https://mercadolibre.eightfold.ai/careers/job/45520009) | Mercadolibre | CABA, CABA, AR (onsite) | 63 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (609)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (611)
 
 <details><summary>Show</summary>
 
@@ -598,6 +601,9 @@ Jump to: [Fri 20 (30)](#friday-nov-20-30) · [Thu 19 (38)](#thursday-nov-19-38) 
 |---|---|---|---|---:|---|
 | 4:41 PM | [System Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=13506473-8528-417a-b040-407867621d8b&ccId=19000101_000001&jobId=9204563701014_1&lang=en_US) | 13506473 8528 417A B040 40786… | Atlanta, GA | 30 | rules: 5+ yrs exp; needs: TS/SCI clearance |
 | 4:08 PM | [IT Network Administrator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681685) | Little Creek Casino Resort | Shelton, WA, United States | 60 | rules: 2+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
+| 2:03 PM | [Systems Administrator II/Senior Systems Administrator](https://jobs.lever.co/researchinnovations.com/edaddcf9-81f4-4ee2-bdb7-64a266fb41e1) | Research Innovations | Melbourne, FL (onsite) | 30 | rules: 6+ yrs exp; senior title; needs: security clearance |
+| 1:59 PM | [Hardware Reliability Engineer – Ecosystem Accessories](https://jobs.apple.com/en-us/details/200696149/hardware-reliability-engineer-ecosystem-accessories) | Apple | United States of America | 50 | rules: adjacent title, little DevOps/cloud work in the text |
+| 1:39 PM | [AI Infrastructure Engineer](https://job-boards.greenhouse.io/scoutmotors/jobs/5301146007) | Scout Motors | Charlotte, North Carolina, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 1:27 PM | [IT System Administrator](https://job-boards.greenhouse.io/crisprecruit/jobs/5303944007) | Crisprecruit | St. Louis, MO | 45 | rules: staffing/consulting firm: verify it's real; adjacent title, li… |
 | 1:25 PM | [Sr Infrastructure Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016566) | American Express | Phoenix, AZ, United States (hybrid) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 1:23 PM | [Software Engineer III - DevOps/Release Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803468) | JP Morgan Chase | Chicago, IL, United States | 60 | rules: 3+ yrs exp; senior title; needs: Security Clearance |
@@ -605,6 +611,7 @@ Jump to: [Fri 20 (30)](#friday-nov-20-30) · [Thu 19 (38)](#thursday-nov-19-38) 
 | 12:58 PM | [Dir Cloud FinOps](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20445) | ACI Worldwide | Norcross, GA, United States (hybrid) | 30 | rules: 10+ yrs exp; no future H-1B sponsorship; asks for 10+ years of… |
 | 12:46 PM | [Window System Administrator (EMM/Knox Admin)](https://jobs.smartrecruiters.com/WJCompany/744000162802009-window-system-administrator-emm-knox-admin-) | Woongjin | Plano, TX, United States | 45 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | 12:28 PM | [Cloud Adoption Engineer-Networking](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/job/350672) | Eeho Fa Us2 Oraclecloud Com | Reston, VA, United States; Washington, … | 40 | rules: 8+ yrs exp; needs: U.S. citizenship is required |
+| 12:22 PM | [Senior Analyst - Tech Ops Analytics](https://careers.united.com/us/en/job/UAIUADUSWHQ00027111EXTERNALENUSTALEO) | United Airlines | Chicago, Illinois, United States | 55 | rules: 1+ yrs exp; senior title; no future H-1B sponsorship; adjacent… |
 | 12:13 PM | [Senior Application Support Engineer – Distributed & Mainframe](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/213961) | Ebxr Fa Us2 Oraclecloud Com | Dallas, TX, United States; Tampa, FL, U… | 25 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 12:04 PM | [Senior Platform Infrastructure Engineer I](https://job-boards.greenhouse.io/braze/jobs/8399181) | Braze | New York City | 55 | rules: entry-level title; 5+ yrs exp; senior title; asks for 5+ years… |
 | 11:48 AM | [DevOps Engineer](https://job-boards.greenhouse.io/oddball/jobs/8210802003) | Oddball | Remote (remote) | 62 | rules: needs: security clearance |
@@ -627,6 +634,7 @@ Jump to: [Fri 20 (30)](#friday-nov-20-30) · [Thu 19 (38)](#thursday-nov-19-38) 
 | date only | [Network Deployment Engineer, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10610384/network-deployment-engineer-amazon-dedicated-cloud-nidd) | Amazon Data Services, Inc. | Broomfield, Colorado, USA | 60 | rules: 1+ yrs exp; needs: security clearance |
 | date only | [DevOps Engineers](https://arteratechnologies.applytojob.com/apply/9C33Mdrgxl/DevOps-Engineers) | Artera Technologies | Annapolis Junction / Fort Meade, MD | 45 | rules: 8+ yrs exp; needs: Security Clearance |
 | date only | [Cloud Software Engineer](https://jobs.jobvite.com/visionist/job/oeb8AfwR) | Visionist | Columbia, MD, United States; Laurel, MD… | 45 | rules: 6+ yrs exp; needs: security clearance |
+| date only | [Network Engineer](https://morristechnology.bamboohr.com/careers/443) | Morristechnology | Springfield, Illinois | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:25 AM | [Senior Network Engineer](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022806) | ADT | Irving, TX, United States | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 10:08 AM | [Senior Network Engineer](https://careers.akima.com/jobs/28917?lang=en-us) | Akima | Huntsville, Alabama | 45 | rules: 4+ yrs exp; senior title; needs: security clearance |
 | 10:07 AM (seen) | [Service Engineer (DevSecOps) I](https://cloudfitsoftware.applytojob.com/apply/hcfMPAEITQ/Service-Engineer-DevSecOps-I) | CloudFit Software | Lynchburg, VA | 65 | rules: 0-2 yrs exp; E-Verify; needs: security clearance |
@@ -647,6 +655,8 @@ Jump to: [Fri 20 (30)](#friday-nov-20-30) · [Thu 19 (38)](#thursday-nov-19-38) 
 | 11:00 PM | [IT Network Administrator](https://jobs.dayforcehcm.com/en-US/kmtire/KMTIRE/jobs/1298) | Kmtire | Delphos, OH, US | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Systems Integration & Lab Infrastructure Engineer](https://careers-peopletec.icims.com/jobs/5551/systems-integration-%26-lab-infrastructure-engineer/job) | PeopleTec | Huntsville, AL, United States | 50 | rules: 8+ yrs exp; E-Verify; needs: security clearance |
 | 11:00 PM | [Cloud Engineer](https://careers-steampunk.icims.com/jobs/9079/cloud-engineer/job) | Steampunk | McLean, VA, United States | 50 | rules: 5+ yrs exp; E-Verify; needs: Security Clearance |
+| 11:00 PM | [Network Engineer](https://careers-steeldynamics.icims.com/jobs/9245/network-engineer/job) | Steel Dynamics | Sinton, TX, United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 11:00 PM | [Senior Network Engineer, Implementation](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/921) | Eci | Dallas, TX, US; NY, US | 30 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 9:54 PM | [Linux System Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cc7b1562-35f8-45ea-ae99-92d84e0c5d46&ccId=19000101_000001&jobId=9201213479877_43&lang=en_US) | Cc7B1562 35F8 45Ea Ae99 92D84… | Arlington, VA | 45 | rules: 3+ yrs exp; needs: Top Secret clearance |
 | 8:32 PM | [Senior Platform Engineer](https://jobs.ashbyhq.com/artafinance/6575896b-cc08-4626-924b-95eabaee5138) | Artafinance | Bay Area (hybrid) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 7:57 PM | [Corporate Network Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5489564008) | Anthropic | Remote-Friendly (Travel Required) / San… (remote) | 27 | rules: 8+ yrs exp; asks for 8+ years of experience |
@@ -989,13 +999,6 @@ Jump to: [Fri 20 (30)](#friday-nov-20-30) · [Thu 19 (38)](#thursday-nov-19-38) 
 | 3:07 PM (seen) | [DevOps Engineer TSSCI CI Poly Hybrid](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16854156-DevOps-Engineer--TSSCI--CI-Poly--Hybrid/) | 33704Placement |  | 45 | rules: role or location no longer in the target list |
 | 3:07 PM (seen) | [DevOps Software Engineer TSSCI CI Poly Hybrid](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16854152-DevOps-Software-Engineer--TSSCI--CI-Poly--Hybrid/) | 33704Placement |  | 45 | rules: role or location no longer in the target list |
 | 3:07 PM (seen) | [System Integration Engineer Linux Kubernetes up to 140K FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16845682-System-Integration-Engineer-Linux-Kubernetes--up-to-140K--FS-Poly/) | 33704Placement |  | 45 | rules: role or location no longer in the target list |
-| 3:07 PM (seen) | [Linux Engineer Prime Contract FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16838275-Linux-Engineer-Prime-Contract-FS-Poly/) | 33704Placement |  | 30 | rules: role or location no longer in the target list |
-| 3:07 PM (seen) | [Software Engineer CICD Kubernetes Partial Telework FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16822311-Software-Engineer-CICD--Kubernetes--Partial-Telework--FS-Poly/) | 33704Placement |  | 45 | rules: role or location no longer in the target list |
-| 3:07 PM (seen) | [System Administrator 1 FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16799976-System-Administrator-1--FS-Poly/) | 33704Placement |  | 40 | rules: role or location no longer in the target list |
-| 3:07 PM (seen) | [Sr Cloud Software Engineer FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16799836-Sr-Cloud-Software-Engineer--FS-Poly/) | 33704Placement |  | 35 | rules: role or location no longer in the target list |
-| 3:07 PM (seen) | [Systems Engineer SRE TSSCI FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16793255-Systems-Engineer-SRE-TSSCI--FS-Poly/) | 33704Placement |  | 45 | rules: role or location no longer in the target list |
-| 3:07 PM (seen) | [Cloud Engineer FS Poly 200K](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16792857-Cloud-Engineer--FS-Poly--200K/) | 33704Placement |  | 45 | rules: role or location no longer in the target list |
-| 3:07 PM (seen) | [Linux System Administrator FS Poly](http://careers.stanleyreid.com/careers/56791-SRCAllJobs/jobs/16792849-Linux-System-Administrator-FS-Poly/) | 33704Placement |  | 30 | rules: role or location no longer in the target list |
 
 </details>
 
