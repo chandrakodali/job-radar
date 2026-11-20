@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**565 jobs**, newest first. Updated Thu Nov 19, 8:37 PM CST from 12,526 company job boards and other sources.
+**564 jobs**, newest first. Updated Thu Nov 19, 9:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 2,464 matching jobs that job sites and feeds listed this week, 948 (38%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (48)](#wednesday-nov-18-48) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (49)](#monday-nov-16-49) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (1)](#thursday-nov-12-1)
+Jump to: [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (47)](#wednesday-nov-18-47) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (49)](#monday-nov-16-49) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (1)](#thursday-nov-12-1)
 
 ## Thursday, Nov 19 (37)
 
@@ -52,7 +52,7 @@ Jump to: [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (48)](#wednesday-nov-18-4
 | 1:00 AM | [IT Systems Engineer](https://jobs.dayforcehcm.com/en-US/avisystems/CANDIDATEPORTAL/jobs/7725) | Avisystems | Minneapolis, MN, US | 50 |  |
 | 12:07 AM (seen) | [Senior Site Reliability Engineer](https://app.careerpuck.com/job-board/blinkhealth/job/75nQcAvf) | Blinkhealth | New York, NY; Pittsburgh, PA; Seattle, … | 40 | senior title, years not stated |
 
-## Wednesday, Nov 18 (48)
+## Wednesday, Nov 18 (47)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -81,7 +81,6 @@ Jump to: [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (48)](#wednesday-nov-18-4
 | 1:34 PM | [Senior Software Developer / Oracle Database Platform Engineering](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/job/350905) | Eeho Fa Us2 Oraclecloud Com | United States | 55 | 3+ yrs exp; senior title |
 | 1:29 PM | [Software Engineer (Observability Solutions) - Enterprise Technology S…](https://jobs.apple.com/en-us/details/200695672/software-engineer-observability-solutions-enterprise-technology-services) | Apple | United States of America | 65 |  |
 | 1:13 PM | [Cloud Network Engineer](https://jobs.workable.com/view/8DxEbQAEcEbXNSJE589M1T/remote-cloud-network-engineer-in-united-states-at-amerisave) | AmeriSave | Remote, US (remote) | 62 |  |
-| 1:08 PM | [Software Engineer, Data Infrastructure and Performance Metrics](https://jobs.ashbyhq.com/artafinance/fc8e559b-48c3-46ba-b169-2ea808acb860) | Artafinance | Bay Area (hybrid) | 65 | 3+ yrs exp |
 | 12:34 PM | [Build, Release & Infrastructure Engineer](https://jobs.apple.com/en-us/details/200695030/build-release-infrastructure-engineer) | Apple | United States of America | 65 |  |
 | 11:53 AM | [DevSecOps Developer](https://jobs.workable.com/view/im1NGcf1iKq2sGMGFjPbbY/remote-devsecops-developer-in-plano-at-toyota-tsusho-systems) | Toyota Tsusho Systems | Plano, Texas (remote) (remote) | 62 |  |
 | 11:51 AM | [Site Reliability Engineer — Corporate Email Services](https://jobs.apple.com/en-us/details/200695686/site-reliability-engineer-corporate-email-services) | Apple | United States of America | 65 |  |
@@ -615,7 +614,7 @@ Jump to: [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (48)](#wednesday-nov-18-4
 |---|---|---|---|---:|---|
 | 11:00 PM | [Geospatial Engineer – Cloud & DevOps](https://careers-dewberry.icims.com/jobs/16686/geospatial-engineer-%e2%80%93-cloud-%26-devops/job) | Dewberry | Fairfax, VA, United States | 60 | no future H-1B sponsorship |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (585)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (581)
 
 <details><summary>Show</summary>
 
@@ -1017,10 +1016,10 @@ Jump to: [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (48)](#wednesday-nov-18-4
 | 12:03 PM | [Senior Storage Engineer](https://jobs.ashbyhq.com/Lambda/afc20b2c-92c5-4f3e-9284-82eba19b4738) | Lambda | San Jose Office (Zanker); San Jose Offi… (hybrid) | 45 | rules: 8+ yrs exp; senior title; priority company; asks for 8+ years … |
 | 11:40 AM | [Network Systems Engineer](https://careers.akima.com/jobs/27791?lang=en-us) | Akima | Lorton, Virginia | 45 | rules: 3+ yrs exp; needs: U.S. citizenship required |
 | 11:35 AM | [OT Network Engineer 1/2/3/Sr](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005943) | Berkshire Hathaway Energy | Omaha, NE, United States (onsite) | 45 | rules: entry-level title; 6+ yrs exp; senior title; asks for 6+ years… |
-| date only | [CI/CD and Infrastructure Engineer](https://apply.workable.com/opendatajobs/j/26D781EC2B/) | Opendatajobs | Washington, District of Columbia, Unite… | 58 | rules: needs: requires United States citizenship |
-| date only | [Associate DevSecOps Engineer (Python, CI/CD)](https://apply.workable.com/opendatajobs/j/8D66E46940/) | Opendatajobs | Washington, District of Columbia, Unite… | 68 | rules: entry-level title; needs: requires United States citizenship |
 | date only | [Network Operations Engineer II](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-II_R0018410) | Astreya | Denver, CO | 25 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [*AI & Cloud Native Full Stack Developer](https://www.careers.zurich.com/job/Schaumburg-AI-&-Cloud-Native-Full-Stack-Developer-IL-60159/1377504957/) | Zurich Insurance | Schaumburg, IL, US | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
+| date only | [Senior DevOps Engineer](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Senior-DevOps-Engineer_JR36609-1) | Allegion | Carmel, IN | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| date only | [Network Engineer 4 ((Cloud Operations Resilience Engineering)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Network-Engineer-4---Cloud-Operations-Resilience-Engineering-_R1005049-1) | Capital One | Plano, TX; McLean, VA; Richmond, VA | 35 | rules: 6+ yrs exp; no future H-1B sponsorship; asks for 6+ years of e… |
 
 </details>
 
