@@ -210,7 +210,7 @@ workday:
   - industrial network
   - controls engineer
   - OT security
-  search_pages: 3
+  search_pages: 1
 notify:
   daily_digest_hour_local: 8
   timezone: America/Chicago

@@ -94,7 +94,7 @@ def profile(name, label, file_label, watching, strong, bridge, exclude_extra, re
     sc.update({"bridge_min": 3, "bridge_required": required, "bridge_required_count": 3, "bridge_needs_text": True,
                "bridge_drop": True, "bridge_flag": file_label, "bridge_evidence": evidence})
     cfg["scoring"] = sc
-    wd = dict(dev["workday"]); wd["search_terms"] = wd_terms; wd["search_pages"] = 3
+    wd = dict(dev["workday"]); wd["search_terms"] = wd_terms; wd["search_pages"] = 1
     cfg["workday"] = wd
     cfg["ai"] = {"mode": "off"}
     cfg["run"] = {"time_budget_minutes": 28}

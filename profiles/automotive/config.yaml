@@ -113,7 +113,7 @@ search:
     - 'feature development'
     - 'V-model'
   terms_per_run: 10
-  search_pages: 4          # result pages per keyword per board (US results only where the board can filter)
+  search_pages: 1          # result pages per keyword per board (US results only where the board can filter)
   list_max_pages: 10       # how far back the ordinary newest-first listing is read
   list_max_age_days: 30
   full_list: [workday]     # these job systems: read every US job each run (then keyword searches are skipped)

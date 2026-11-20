@@ -1,6 +1,8 @@
 """Shared HTTP session with retries, timeouts and a polite User-Agent."""
 import threading
 
+import time
+from urllib.parse import urlsplit
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
@@ -51,7 +53,29 @@ MAX_TEXT_BYTES = 12 * 1024 * 1024
 HTML_ACCEPT = "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
 
 
+# Sites behind a shared rate limit (Cloudflare and the like): at most one request per `gap` seconds per group,
+# across all threads. Keeps the radar under their limits instead of bursting and getting 429s.
+PACED = [("myworkdayjobs.com", 0.2), ("recruiting.paylocity.com", 0.6), ("workforcenow.adp.com", 0.6),
+         ("app.dover.com", 0.6), ("dayforcehcm.com", 0.3)]
+_pace_lock = threading.Lock()
+_pace_next: dict[str, float] = {}
+
+
+def _pace(url: str) -> None:
+    host = (urlsplit(url).hostname or "").lower()
+    for suffix, gap in PACED:
+        if host.endswith(suffix):
+            with _pace_lock:
+                now = time.monotonic()
+                at = max(now, _pace_next.get(suffix, 0.0))
+                _pace_next[suffix] = at + gap
+            if at > now:
+                time.sleep(at - now)
+            return
+
+
 def _send(method: str, url: str, **kw):
+    _pace(url)
     try:
         return session().request(method, url, timeout=TIMEOUT, **kw)
     except requests.exceptions.RetryError as e:

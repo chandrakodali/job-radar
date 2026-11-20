@@ -47,7 +47,7 @@ from .store import (ROOT, append_matches, append_rejected, load_boards, load_dis
 
 log = logging.getLogger("radar")
 
-LIST_CONCURRENCY = {"greenhouse": 8, "lever": 6, "ashby": 6, "smartrecruiters": 4, "workday": 10,
+LIST_CONCURRENCY = {"greenhouse": 8, "lever": 6, "ashby": 6, "smartrecruiters": 4, "workday": 5,
                     "oracle": 8, "workable": 2, "rippling": 6, "bamboohr": 6, "recruitee": 4}
 FRESH = os.environ.get("RADAR_FRESH") == "1"   # diagnostics: judge every job again, ignoring what was seen
 
@@ -62,7 +62,7 @@ ATS.DETAILERS.setdefault("adzuna", ats_more._ld_detail)
 TIME_BUDGET_SECONDS = 17 * 60
 THROTTLE_LIMIT = 6
 # systems where each company has its own site: rate limits are counted per site
-PER_SITE_LIMITS = {"workday", "icims", "oracle", "avature", "eightfold", "phenom", "sfrmk", "taleo", "ukg", "ldsite",
+PER_SITE_LIMITS = {"icims", "oracle", "avature", "eightfold", "phenom", "sfrmk", "taleo", "ukg", "ldsite",
                    "mcloud", "dspace", "catsone", "zoho", "personio", "homerun", "bamboohr", "jazzhr", "breezy",
                    "pinpoint", "teamtailor", "recruitee"}
 REPORT_URL = "https://github.com/chandrakodali/job-radar/blob/main/REPORT.md"
@@ -253,7 +253,7 @@ def run(args) -> int:
         return f"{b.ats}:{b.board.split('|')[0].lower()}" if b.ats in PER_SITE_LIMITS else b.ats
 
     def limit_for(b: Board) -> int:
-        return 2 if b.ats in PER_SITE_LIMITS else THROTTLE_LIMIT * 5
+        return 2 if b.ats in PER_SITE_LIMITS else THROTTLE_LIMIT * 5   # shared APIs are paced (radar/http.py)
 
     def fetch_board(b: Board):
         if time.monotonic() > deadline:
@@ -294,10 +294,7 @@ def run(args) -> int:
                     if e.status == 429:
                         throttled[k] += 1
                         stats["rate_limit_hits"] += 1
-                        if attempt < 2 and time.monotonic() + 90 < deadline:
-                            time.sleep(15 * (attempt + 1))     # back off, then ask again (this system waits)
-                            continue
-                        return b, None, "skipped (rate limited)"
+                        return b, None, "skipped (rate limited)"   # not marked seen: read again next run
                     return b, None, e
                 except Exception as e:  # never let one odd board stop the run
                     return b, None, FetchError(f"{type(e).__name__}: {e}"[:80])
