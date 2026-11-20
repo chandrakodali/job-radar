@@ -12150,17 +12150,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 324,
+   "n": 325,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 324,
+   "n": 325,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 324,
+   "n": 325,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14942,8 +14942,8 @@
    369
   ],
   "2026-11-20": [
-   83,
-   151
+   86,
+   156
   ]
  },
  "resolved": {
@@ -66090,6 +66090,8 @@
   "avature:metlife.avature.net|en_US/ml:21704": "2026-11-18",
   "avature:mgl.avature.net|internalcareers:22542": "2026-11-15",
   "avature:mgl.avature.net|internalcareers:24706": "2026-11-15",
+  "avature:mgl.avature.net|internalcareers:24808": "2026-11-20",
+  "avature:mgl.avature.net|internalcareers:24811": "2026-11-20",
   "avature:mgl.avature.net|internalcareers:24892": "2026-11-15",
   "avature:qatarairways.avature.net|internalmobility:68713": "2026-11-14",
   "avature:santos.avature.net|internalCareer:82288": "2026-11-15",
@@ -66790,6 +66792,7 @@
   "eightfold:nvidia:893398699304": "2026-11-14",
   "eightfold:nvidia:893398750368": "2026-11-16",
   "eightfold:nvidia:893398768855": "2026-11-17",
+  "eightfold:nvidia:893398806259": "2026-11-20",
   "eightfold:nvidia:893398810398": "2026-11-19",
   "eightfold:qualcomm:446719899052": "2026-11-15",
   "eightfold:qualcomm:446722201254": "2026-11-18",
@@ -70435,11 +70438,11 @@
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-20T02:37:18+00:00",
+  "hn": "2026-11-20T08:37:15+00:00",
   "remoteok": "2026-11-20T07:37:23+00:00",
   "usajobs": "2026-11-20T07:07:15+00:00",
   "workable_search": "2026-11-20T07:07:15+00:00",
-  "wwr": "2026-11-20T07:37:23+00:00",
+  "wwr": "2026-11-20T08:37:15+00:00",
   "yc": "2026-11-20T07:07:15+00:00"
  },
  "title_rules": "c323075b4d70",
