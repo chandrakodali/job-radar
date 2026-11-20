@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**565 jobs**, newest first. Updated Fri Nov 20, 4:37 AM CST from 12,526 company job boards and other sources.
+**565 jobs**, newest first. Updated Fri Nov 20, 5:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,13 +8,14 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 2,617 matching jobs that job sites and feeds listed this week, 1,032 (39%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 20 (2)](#friday-nov-20-2) · [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (47)](#wednesday-nov-18-47) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (50)](#monday-nov-16-50) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (61)](#friday-nov-13-61)
+Jump to: [Fri 20 (3)](#friday-nov-20-3) · [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (47)](#wednesday-nov-18-47) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (50)](#monday-nov-16-50) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (60)](#friday-nov-13-60)
 
-## Friday, Nov 20 (2)
+## Friday, Nov 20 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Network Engineer](https://mgl.avature.net/internalcareers/JobDetail/Network-Engineer/24811) | Mgl Avature Net |  | 45 | location unclear |
+| 5:12 AM | [Assistant Cloud Administrator for the Division of HPD TECH](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016989966-assistant-cloud-administrator-for-the-division-of-hpd-tech) | Cityofnewyork | New York City, NY, United States | 75 | 1+ yrs exp |
 | 12:37 AM (seen) | [Systems Reliability Engineer II- Technical Support, Virtualization, L…](https://jobs.jobvite.com/nutanix/job/o2kQzfwv) | Nutanix |  | 35 | 4+ yrs exp; location unclear |
 
 ## Thursday, Nov 19 (37)
@@ -549,7 +550,7 @@ Jump to: [Fri 20 (2)](#friday-nov-20-2) · [Thu 19 (37)](#thursday-nov-19-37) ·
 | date only | [Sr. DevOps Engineer - Trading & Supply](https://indigobeam.zohorecruit.com/jobs/Careers/792375000009305132/Sr-DevOps-Engineer-Trading-Supply) | Indigobeam | Houston, Texas, United States | 48 | senior title, years not stated |
 | 7:47 AM | [Systems Software Developer, CAD Infrastructure](https://jobs.apple.com/en-us/details/200694942/systems-software-developer-cad-infrastructure) | Apple | United States of America | 65 |  |
 
-## Friday, Nov 13 (61)
+## Friday, Nov 13 (60)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -613,9 +614,8 @@ Jump to: [Fri 20 (2)](#friday-nov-20-2) · [Thu 19 (37)](#thursday-nov-19-37) ·
 | 6:58 AM | [Data Engineer – Data Infrastructure & eDiscovery-6387](https://job-boards.greenhouse.io/itd/jobs/4506392009) | Itd | San Jose | 55 | 3+ yrs exp; no future H-1B sponsorship |
 | 6:27 AM | [Platform Engineer](https://jobs.ashbyhq.com/conduct/002c7fa7-9c58-401c-a8e8-e51f15830471) | Conduct | NYC, US (onsite) | 63 |  |
 | 6:15 AM | [Infrastructure Engineer III - AWS Cloud Infrastructure & SecOps Engin…](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803198) | JP Morgan Chase | Plano, TX, United States | 60 | 3+ yrs exp; senior title |
-| 5:02 AM | [Langfuse - Senior Cloud Infra Engineer](https://jobs.ashbyhq.com/clickhouse/39e42a38-1cbf-40c7-b373-717b4cdddbac) | ClickHouse | New York (remote) | 52 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (584)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (583)
 
 <details><summary>Show</summary>
 

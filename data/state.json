@@ -12151,17 +12151,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 329,
+   "n": 330,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 329,
+   "n": 330,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 329,
+   "n": 330,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -69080,6 +69080,7 @@
   "sfrmk:careers.capgemini.com:1447330833": "2026-11-09",
   "sfrmk:careers.capgemini.com:1447414233": "2026-11-12",
   "sfrmk:careers.capgemini.com:1447651133": "2026-11-13",
+  "sfrmk:careers.capgemini.com:1447652333": "2026-11-20",
   "sfrmk:careers.capgemini.com:1447783433": "2026-11-11",
   "sfrmk:careers.capgemini.com:1447821233": "2026-11-12",
   "sfrmk:careers.capgemini.com:1447857633": "2026-11-11",
@@ -69424,6 +69425,7 @@
   "smartrecruiters:cityofnewyork:3743990016898476": "2026-11-17",
   "smartrecruiters:cityofnewyork:3743990016959286": "2026-11-19",
   "smartrecruiters:cityofnewyork:3743990016959551": "2026-11-19",
+  "smartrecruiters:cityofnewyork:3743990016989966": "2026-11-20",
   "smartrecruiters:dominos:744000161707674": "2026-11-16",
   "smartrecruiters:dominos:744000161708269": "2026-11-16",
   "smartrecruiters:eurofins:744000159966854": "2026-11-07",
