@@ -122,7 +122,7 @@ profile("network", "Network Engineer Radar", "network work in the text",
         "network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or "
         "infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar.",
         NETWORK_STRONG, NETWORK_BRIDGE,
-        NOT_IT_NETWORK + [r"\b(ot|operational technology|ics|scada|industrial control|plc|dcs)\b"],
+        NOT_IT_NETWORK + [r"\b(ot|operational technology|ics|scada|industrial control|plc|dcs)\b", r"\b(control|controls) systems?\b"],
         [NET_CORE], NET_EVIDENCE,
         ["network engineer", "network administrator", "network analyst", "noc", "wireless engineer", "network security"],
         ["network engineer", "network administrator", "network analyst", "noc engineer", "wireless engineer", "firewall engineer"],

@@ -61,6 +61,10 @@ DETAIL_CONCURRENCY.setdefault("email", 1)
 ATS.DETAILERS.setdefault("adzuna", ats_more._ld_detail)
 TIME_BUDGET_SECONDS = 17 * 60
 THROTTLE_LIMIT = 6
+# systems where each company has its own site: rate limits are counted per site
+PER_SITE_LIMITS = {"workday", "icims", "oracle", "avature", "eightfold", "phenom", "sfrmk", "taleo", "ukg", "ldsite",
+                   "mcloud", "dspace", "catsone", "zoho", "personio", "homerun", "bamboohr", "jazzhr", "breezy",
+                   "pinpoint", "teamtailor", "recruitee"}
 REPORT_URL = "https://github.com/chandrakodali/job-radar/blob/main/REPORT.md"
 CONFIG_PATH = os.path.join(ROOT, "config.yaml")
 FOCUS_PATH = ""   # a profile's own employer list; set by --profile
@@ -240,48 +244,64 @@ def run(args) -> int:
     errors = Counter()
     deadline = t0 + budget
 
-    throttled = Counter()  # 429s per ATS this run; past the limit we stop asking that ATS
+    # Rate limits ("429 Too Many Requests"). Systems where every company has its own site (Workday, iCIMS,
+    # Oracle...) are counted per company site, so one busy site never stops the others. Systems that serve every
+    # company from one API (Paylocity, ADP, Dover, Greenhouse...) slow down and retry instead of giving up.
+    throttled = Counter()
+
+    def tkey(b: Board) -> str:
+        return f"{b.ats}:{b.board.split('|')[0].lower()}" if b.ats in PER_SITE_LIMITS else b.ats
+
+    def limit_for(b: Board) -> int:
+        return 2 if b.ats in PER_SITE_LIMITS else THROTTLE_LIMIT * 5
 
     def fetch_board(b: Board):
         if time.monotonic() > deadline:
             return b, None, "skipped (time budget)"
-        if throttled[b.ats] >= THROTTLE_LIMIT:
+        k = tkey(b)
+        if throttled[k] >= limit_for(b):
             return b, None, "skipped (rate limited)"
         with sems[b.ats]:
-            if throttled[b.ats] >= THROTTLE_LIMIT:
-                return b, None, "skipped (rate limited)"
-            try:
-                if b.focus:
-                    jobs = deep.deep_list(b, terms, search_cfg, stats)
-                elif b.ats == "workday":
-                    mp = int(wd_cfg.get("max_pages", 5))
-                    jobs = ATS.workday_list(b, max_pages=mp, us_only=True)
-                    # A big employer posts more in a week than the pages reach: also run the board's own
-                    # search for the profile's terms, so matching jobs aren't crowded out.
-                    if len(jobs) >= mp * 20 * 0.95 and wd_cfg.get("search_terms"):
-                        have = {j.uid for j in jobs}
-                        stats["workday_capped"] += 1
-                        for term in wd_cfg["search_terms"]:
-                            try:
-                                more = ATS.workday_list(b, max_pages=int(wd_cfg.get("search_pages", 3)),
-                                                        search=term, us_only=True)
-                            except FetchError:
-                                break
-                            for j in more:
-                                if j.uid not in have:
-                                    have.add(j.uid)
-                                    j.found_by = ""
-                                    jobs.append(j)
-                else:
-                    jobs = ATS.LISTERS[b.ats](b)
-                return b, jobs, None
-            except FetchError as e:
-                if e.status == 429:
-                    throttled[b.ats] += 1
+            for attempt in range(3):
+                if throttled[k] >= limit_for(b):
                     return b, None, "skipped (rate limited)"
-                return b, None, e
-            except Exception as e:  # never let one odd board stop the run
-                return b, None, FetchError(f"{type(e).__name__}: {e}"[:80])
+                try:
+                    if b.focus:
+                        jobs = deep.deep_list(b, terms, search_cfg, stats)
+                    elif b.ats == "workday":
+                        mp = int(wd_cfg.get("max_pages", 5))
+                        jobs = ATS.workday_list(b, max_pages=mp, us_only=True)
+                        # A big employer posts more in a week than the pages reach: also run the board's own
+                        # search for the profile's terms, so matching jobs aren't crowded out.
+                        if len(jobs) >= mp * 20 * 0.95 and wd_cfg.get("search_terms"):
+                            have = {j.uid for j in jobs}
+                            stats["workday_capped"] += 1
+                            for term in wd_cfg["search_terms"]:
+                                try:
+                                    more = ATS.workday_list(b, max_pages=int(wd_cfg.get("search_pages", 3)),
+                                                            search=term, us_only=True)
+                                except FetchError:
+                                    break
+                                for j in more:
+                                    if j.uid not in have:
+                                        have.add(j.uid)
+                                        j.found_by = ""
+                                        jobs.append(j)
+                    else:
+                        jobs = ATS.LISTERS[b.ats](b)
+                    return b, jobs, None
+                except FetchError as e:
+                    if e.status == 429:
+                        throttled[k] += 1
+                        stats["rate_limit_hits"] += 1
+                        if attempt < 2 and time.monotonic() + 90 < deadline:
+                            time.sleep(15 * (attempt + 1))     # back off, then ask again (this system waits)
+                            continue
+                        return b, None, "skipped (rate limited)"
+                    return b, None, e
+                except Exception as e:  # never let one odd board stop the run
+                    return b, None, FetchError(f"{type(e).__name__}: {e}"[:80])
+            return b, None, "skipped (rate limited)"
 
     candidates: list[tuple[Job, Board, str, bool]] = []
     src_cfg = cfg.get("sources") or {}
@@ -822,7 +842,8 @@ def run(args) -> int:
         f"(alert {stats['status_alert']}, quiet {stats['status_quiet']}, blocked {stats['status_blocked']}). "
         f"Alerts sent: {notifier.sent}. Details failed: {stats['detail_failed']}. Pruned: {pruned}. "
         f"Skipped for time: {stats['skipped_time']}. Skipped (rate limited): {stats['skipped_throttled']}"
-        + (f" {dict(throttled)}" if throttled else "") + ". "
+        + (f" (rate-limit replies: {stats['rate_limit_hits']}; by system: "
+           f"{dict(Counter(k.split(':')[0] for k, v in throttled.items() for _ in range(v)))})" if throttled else "") + ". "
         f"AI review: {ai_desc}; reviewed {stats['ai_reviewed']}, rejected {stats['ai_rejected']}, "
         f"saved matches checked {stats['ai_backfilled']}, "
         f"waiting {stats['ai_waiting'] if fit_mode else len(state.get('ai_queue', []))}."

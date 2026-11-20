@@ -52,14 +52,21 @@ def dispatch(repo: str, workflow: str) -> None:
 def main() -> int:
     repo = os.environ["GITHUB_REPOSITORY"]
     now = datetime.now(timezone.utc)
+    due = []
     for workflow, every in (("radar-auto.yml", AUTO_EVERY), ("radar-freshers.yml", FRESHERS_EVERY),
                             ("radar-java.yml", FRESHERS_EVERY), ("radar-network.yml", FRESHERS_EVERY),
                             ("radar-ot.yml", 2 * FRESHERS_EVERY)):
         last = last_started(repo, workflow)
         if last is None or now - last > every - timedelta(minutes=10):
-            dispatch(repo, workflow)
+            due.append(workflow)
     t = next_slot(now)
-    print(f"Next DevOps run at {t:%H:%M} UTC; waiting {int((t - now).total_seconds() // 60)} min")
+    print(f"Next DevOps run at {t:%H:%M} UTC; due now: {', '.join(due) or 'none'}")
+    # Start the due radars a few minutes apart, so they don't all ask the same job sites at once.
+    gap = max(60.0, min(420.0, ((t - now).total_seconds() - 120) / max(1, len(due))))
+    for i, workflow in enumerate(due):
+        if i:
+            time.sleep(gap)
+        dispatch(repo, workflow)
     time.sleep(max(0.0, (t - datetime.now(timezone.utc)).total_seconds()))
     dispatch(repo, "radar.yml")
     return 0

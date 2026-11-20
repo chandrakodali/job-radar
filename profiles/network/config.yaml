@@ -14,6 +14,7 @@ titles:
   - \bnet(work)?\s*eng(ineer)?\b|\bnetdevops\b|\bnetwork automation\b
   - \b(ccna|ccnp|ccie)\b
   hard_exclude:
+  - \b(control|controls) systems?\b
   - \b(staff|principal|lead|leader|manager|management|director|head of|vp|vice president|architect|distinguished|fellow|chief|supervisor)\b
   - \b(iv|v|vi)\b
   - \b(level|lvl)\s*[4-9]\b
@@ -48,6 +49,7 @@ titles:
   - \b(infrastructure|systems?|it|telecom(munications)?|voice|data cent(er|re)|connectivity|transport|ip|it infrastructure) (engineer|administrator)\b
   - \bnetwork\b
   exclude:
+  - \b(control|controls) systems?\b
   - \b(staff|principal|lead|leader|manager|management|director|head of|vp|vice president|architect|distinguished|fellow|chief|supervisor)\b
   - \b(iv|v|vi)\b
   - \b(level|lvl)\s*[4-9]\b
