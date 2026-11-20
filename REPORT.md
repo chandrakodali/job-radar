@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**564 jobs**, newest first. Updated Thu Nov 19, 9:37 PM CST from 12,526 company job boards and other sources.
+**564 jobs**, newest first. Updated Thu Nov 19, 10:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 228 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,468 matching jobs that job sites and feeds listed this week, 950 (38%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,506 matching jobs that job sites and feeds listed this week, 971 (38%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (47)](#wednesday-nov-18-47) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (49)](#monday-nov-16-49) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (1)](#thursday-nov-12-1)
 
@@ -614,7 +614,7 @@ Jump to: [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (47)](#wednesday-nov-18-4
 |---|---|---|---|---:|---|
 | 11:00 PM | [Geospatial Engineer – Cloud & DevOps](https://careers-dewberry.icims.com/jobs/16686/geospatial-engineer-%e2%80%93-cloud-%26-devops/job) | Dewberry | Fairfax, VA, United States | 60 | no future H-1B sponsorship |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (581)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (582)
 
 <details><summary>Show</summary>
 
@@ -623,6 +623,7 @@ Jump to: [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (47)](#wednesday-nov-18-4
 | date only | [Systems Administrator II](https://sigmadesign.applytojob.com/apply/tWeKPHZxsE/Systems-Administrator-II) | Sigma Design | Burlingame, CA | 25 | rules: 5+ yrs exp; needs: ITAR |
 | date only | [Senior Forward Deployed Engineer, Sr Forward Deployment Engineering](https://www.amazon.jobs/en/jobs/10609070/senior-forward-deployed-engineer-sr-forward-deployment-engineering) | Amazon Web Services, Inc. | New York, New York, USA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Cloud Computing Engineer](https://symsstrategicgroup.applytojob.com/apply/mIUxDBRwJT/Cloud-Computing-Engineer) | Syms Strategic Group, LLC (SS… | Orlando, FL +29 more | 65 | rules: needs: Security Clearance |
+| date only | [Dynatrace Senior Consultant – AI Observability](https://arctiq.bamboohr.com/careers/365) | Arctiq | Brentwood, Tennessee, United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 8:32 PM | [Senior Platform Engineer](https://jobs.ashbyhq.com/artafinance/6575896b-cc08-4626-924b-95eabaee5138) | Artafinance | Bay Area (hybrid) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 7:57 PM | [Corporate Network Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5489564008) | Anthropic | Remote-Friendly (Travel Required) / San… (remote) | 27 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 7:15 PM | [Senior Network Engineer I](https://coreweave.com/careers/job?4730965006&board=coreweave&gh_jid=4730965006) | CoreWeave | Livingston, NJ / New York, NY / San Fra… | 50 | rules: entry-level title; 5+ yrs exp; senior title; priority company;… |
@@ -1019,7 +1020,6 @@ Jump to: [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (47)](#wednesday-nov-18-4
 | date only | [Network Operations Engineer II](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-II_R0018410) | Astreya | Denver, CO | 25 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [*AI & Cloud Native Full Stack Developer](https://www.careers.zurich.com/job/Schaumburg-AI-&-Cloud-Native-Full-Stack-Developer-IL-60159/1377504957/) | Zurich Insurance | Schaumburg, IL, US | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [Senior DevOps Engineer](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Senior-DevOps-Engineer_JR36609-1) | Allegion | Carmel, IN | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| date only | [Network Engineer 4 ((Cloud Operations Resilience Engineering)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Network-Engineer-4---Cloud-Operations-Resilience-Engineering-_R1005049-1) | Capital One | Plano, TX; McLean, VA; Richmond, VA | 35 | rules: 6+ yrs exp; no future H-1B sponsorship; asks for 6+ years of e… |
 
 </details>
 
