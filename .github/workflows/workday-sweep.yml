@@ -1,0 +1,44 @@
+name: workday-sweep
+
+# One shared, slow read of every Workday job board for all radars (scripts/workday_sweep.py). Workday's
+# Cloudflare turns away machines that ask too much, so this reads ~1 request a second, oldest boards first,
+# and keeps the listings as an artifact the radars download. Started hourly by the DevOps run chain; the
+# schedule below is a backup.
+on:
+  schedule:
+    - cron: '23 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: read
+
+concurrency:
+  group: workday-sweep
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Previous listings
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          id=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow workday-sweep.yml --status success -L 1 --json databaseId -q '.[0].databaseId')
+          [ -n "$id" ] && gh run download "$id" --repo "$GITHUB_REPOSITORY" -n workday-jobs -D data/shared || echo "none yet"
+      - name: Read Workday boards
+        run: python scripts/workday_sweep.py --budget-min 50
+      - uses: actions/upload-artifact@v4
+        with:
+          name: workday-jobs
+          path: data/shared/workday_jobs.json.gz
+          retention-days: 3

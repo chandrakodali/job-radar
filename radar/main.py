@@ -29,6 +29,7 @@ import yaml
 from . import ats as ATS
 from .http import FetchError
 from . import http
+from . import workday_shared as _wd_sweep
 from .match import (_any, Rules, assess, classify_location, has_evidence, is_excluded_company, job_category,
                     row_still_fits, title_category)
 from . import deep
@@ -50,7 +51,9 @@ log = logging.getLogger("radar")
 
 LIST_CONCURRENCY = {"greenhouse": 8, "lever": 6, "ashby": 6, "smartrecruiters": 4, "workday": 3,
                     "oracle": 8, "workable": 2, "rippling": 6, "bamboohr": 6, "recruitee": 4}
-FRESH = os.environ.get("RADAR_FRESH") == "1"   # diagnostics: judge every job again, ignoring what was seen
+FRESH = os.environ.get("RADAR_FRESH") == "1"
+SHARED_WORKDAY = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "shared",
+                              "workday_jobs.json.gz")   # diagnostics: judge every job again, ignoring what was seen
 
 DETAIL_CONCURRENCY = {"yc": 2, "greenhouse": 8, "smartrecruiters": 4, "workday": 3, "oracle": 6, "workable": 4,
                       "rippling": 6, "bamboohr": 6}
@@ -265,6 +268,19 @@ def run(args) -> int:
     # company from one API (Paylocity, ADP, Dover, Greenhouse...) slow down and retry instead of giving up.
     throttled = Counter()
 
+    # Shared Workday listings, when the sweep's file is present (downloaded by the workflow).
+    shared_wd, shared_fresh = None, ""
+    if os.path.exists(SHARED_WORKDAY) and not (args.skip and "workday" in args.skip):
+        try:
+            cache = _wd_sweep.load_cache(SHARED_WORKDAY)
+            if cache.get("boards"):
+                shared_wd = cache["boards"]
+                shared_fresh = (now - timedelta(hours=36)).isoformat(timespec="minutes")
+                log.info("Workday listings from the shared sweep (updated %s, %d boards)",
+                         cache.get("updated", "?"), len(shared_wd))
+        except Exception as e:  # a bad file must not stop the run
+            log.warning("Shared Workday file unreadable: %s", e)
+
     def tkey(b: Board) -> str:
         return f"{b.ats}:{b.board.split('|')[0].lower()}" if b.ats in PER_SITE_LIMITS else b.ats
 
@@ -274,6 +290,12 @@ def run(args) -> int:
     def fetch_board(b: Board):
         if time.monotonic() > deadline:
             return b, None, "skipped (time budget)"
+        if b.ats == "workday" and not b.focus and shared_wd is not None:
+            # listings from the shared Workday sweep (scripts/workday_sweep.py); only job pages are opened here
+            e = shared_wd.get(b.key)
+            if not e or e.get("at", "") < shared_fresh or "jobs" not in e:
+                return b, None, "skipped (not in the shared Workday sweep yet)"
+            return b, [_wd_sweep.dict_to_job(d) for d in e["jobs"]], None
         k = tkey(b)
         if throttled[k] >= limit_for(b):
             return b, None, "skipped (rate limited)"
@@ -347,6 +369,8 @@ def run(args) -> int:
                     errors[b.ats] += 1
                 elif "rate limited" in err:
                     stats["skipped_throttled"] += 1
+                elif "shared Workday" in err:
+                    stats["skipped_unswept"] += 1
                 else:
                     stats["skipped_time"] += 1
                 continue
@@ -860,7 +884,8 @@ def run(args) -> int:
         f"Jobs scanned: {stats['jobs_scanned']}. New matches: {len(new_rows)} "
         f"(alert {stats['status_alert']}, quiet {stats['status_quiet']}, blocked {stats['status_blocked']}). "
         f"Alerts sent: {notifier.sent}. Details failed: {stats['detail_failed']}. Pruned: {pruned}. "
-        f"Skipped for time: {stats['skipped_time']}. Skipped (rate limited): {stats['skipped_throttled']}"
+        f"Skipped for time: {stats['skipped_time']}. Workday boards not swept yet: {stats['skipped_unswept']}. "
+        f"Skipped (rate limited): {stats['skipped_throttled']}"
         + (f" (rate-limit replies: {stats['rate_limit_hits']}; by system: "
            f"{dict(Counter(k.split(':')[0] for k, v in throttled.items() for _ in range(v)))})" if throttled else "") + ". "
         f"AI review: {ai_desc}; reviewed {stats['ai_reviewed']}, rejected {stats['ai_rejected']}, "

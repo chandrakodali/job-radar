@@ -25,6 +25,7 @@ on:
         default: false
 permissions:
   contents: write
+  actions: read      # download the shared Workday listings
 
 concurrency:
   group: radar-auto
@@ -158,6 +159,14 @@ jobs:
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: python -m radar.ai_fit --check --profile automotive
+
+      - name: Shared Workday listings
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          id=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow workday-sweep.yml --status success -L 1 --json databaseId -q '.[0].databaseId')
+          [ -n "$id" ] && gh run download "$id" --repo "$GITHUB_REPOSITORY" -n workday-jobs -D data/shared || echo "none yet"
 
       - name: Workday boards - run Auto Radar
         if: ${{ inputs.ai_check != true }}

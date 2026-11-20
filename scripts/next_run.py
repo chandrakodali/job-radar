@@ -53,7 +53,8 @@ def main() -> int:
     repo = os.environ["GITHUB_REPOSITORY"]
     now = datetime.now(timezone.utc)
     due = []
-    for workflow, every in (("radar-auto.yml", AUTO_EVERY), ("radar-freshers.yml", FRESHERS_EVERY),
+    # the shared Workday sweep first, so the radars that follow use fresh listings
+    for workflow, every in (("workday-sweep.yml", FRESHERS_EVERY), ("radar-auto.yml", AUTO_EVERY), ("radar-freshers.yml", FRESHERS_EVERY),
                             ("radar-java.yml", FRESHERS_EVERY), ("radar-network.yml", FRESHERS_EVERY),
                             ("radar-ot.yml", 2 * FRESHERS_EVERY)):
         last = last_started(repo, workflow)

@@ -15,6 +15,7 @@ on:
 
 permissions:
   contents: write
+  actions: read      # download the shared Workday listings
 
 concurrency:
   group: radar-ot
@@ -92,6 +93,14 @@ jobs:
 
       - name: Install
         run: pip install -r requirements.txt
+
+      - name: Shared Workday listings
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          id=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow workday-sweep.yml --status success -L 1 --json databaseId -q '.[0].databaseId')
+          [ -n "$id" ] && gh run download "$id" --repo "$GITHUB_REPOSITORY" -n workday-jobs -D data/shared || echo "none yet"
 
       - name: Workday boards - run OT Network Engineer Radar
         env:

@@ -117,6 +117,14 @@ jobs:
         if: github.event_name == 'push'
         run: python -m pytest -q
 
+      - name: Shared Workday listings
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          id=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow workday-sweep.yml --status success -L 1 --json databaseId -q '.[0].databaseId')
+          [ -n "$id" ] && gh run download "$id" --repo "$GITHUB_REPOSITORY" -n workday-jobs -D data/shared || echo "none yet"
+
       - name: Workday boards - run radar
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}

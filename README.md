@@ -22,6 +22,14 @@ Finds new **entry-friendly DevOps, SRE, cloud, platform and infrastructure jobs 
 - Employers seen on other sources but not yet watched, and employers that filed H-1B LCAs for DevOps/SRE/cloud titles (public DOL data), are tried as new boards by the weekly board finder.
 - It alerts you on strong matches and sends a **daily digest** at 8 AM Central time. No AI is used for this radar.
 
+## Workday (shared sweep)
+
+Workday boards sit behind Cloudflare, which turns away a machine that asks too much. So one job,
+**workday-sweep** (hourly), reads every Workday board for all radars at about one request a second, oldest
+first, and saves the recent listings as an artifact. Each radar reads its other 10,000+ boards first, then in
+a second step on a fresh machine takes the Workday listings from the sweep and opens only the job pages it
+needs. `scripts/workday_sweep.py`, `radar/workday_shared.py`.
+
 ## Where the jobs come from
 
 | | Read directly | Notes |
