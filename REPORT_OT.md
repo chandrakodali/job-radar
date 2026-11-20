@@ -1,6 +1,6 @@
 # OT Network Engineer jobs in the US: posted in the last 7 days
 
-**15 jobs**, newest first. Updated Fri Nov 20, 10:57 AM CST from 12,526 company job boards.
+**14 jobs**, newest first. Updated Fri Nov 20, 11:28 AM CST from 12,526 company job boards.
 
 US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and OT security roles; controls, automation or network titles only when the job is about networks in an OT/industrial setting). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and
 
 Coverage check: of 34 matching jobs that job sites and feeds listed this week, 11 (32%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (2)](#tuesday-nov-17-2) · [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (1)](#sunday-nov-15-1) · [Fri 13 (2)](#friday-nov-13-2)
+Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (2)](#tuesday-nov-17-2) · [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (1)](#sunday-nov-15-1) · [Fri 13 (1)](#friday-nov-13-1)
 
 ## Friday, Nov 20 (6)
 
@@ -53,12 +53,11 @@ Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (2)](#thursday-nov-19-2) · [
 |---|---|---|---|---:|---|
 | 2:00 AM | [Senior Operational Technology SCADA Systems Administrator - Cybersecu…](https://jobs.nexteraenergy.com/job/Palm-Beach-Gardens-Senior-Operational-Technology-SCADA-Systems-Administrator-Cybersecurity-and-Resiliency-FL-33410/1431619000/) | NextEra Energy | Palm Beach Gardens, FL, United States | 48 | 4+ yrs exp; senior title |
 
-## Friday, Nov 13 (2)
+## Friday, Nov 13 (1)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 12:41 PM | [Lab IT/OT Systems Administrator](https://job-boards.greenhouse.io/lilasciences/jobs/4505109009) | Lila Sciences | Cambridge, MA USA | 63 | 2+ yrs exp |
-| date only | [Instrumentation & Controls Engineer](https://jobs.exxonmobil.com/ExxonMobil/job/Beaumont-Instrumentation-&-Controls-Engineer-TX-77701/1450550700/) | ExxonMobil | Beaumont, TX, United States | 30 | 3+ yrs exp; OT network work in the text |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (15)
 
