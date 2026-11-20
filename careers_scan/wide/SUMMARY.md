@@ -1,6 +1,6 @@
 # Wide sweep summary
 
-Updated 2026-11-19.
+Updated 2026-11-20.
 
 Crawls swept: CC-MAIN-2026-39, CC-MAIN-2026-43.
 
@@ -8,41 +8,41 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 
 ## By tier
 
-- 1: 23789
-- 2: 107745
-- 3: 301926
-- 4: 94335
-- 5: 32271
-- 9: 95228
+- 1: 23656
+- 2: 107904
+- 3: 302283
+- 4: 94408
+- 5: 32312
+- 9: 94731
 
 ## By category
 
-- unknown: 95228
-- ats: 44061
-- blocked: 2791
-- careers_page_unclear: 280799
-- doc: 1305
-- email: 54254
-- external_board: 7252
-- form: 75975
+- unknown: 94731
+- ats: 44119
+- blocked: 2793
+- careers_page_unclear: 281123
+- doc: 1304
+- email: 54283
+- external_board: 7261
+- form: 75973
 - js_only: 460
-- no_careers_page: 43022
-- no_openings: 21127
-- robots_disallowed: 8307
-- unreachable: 20713
+- no_careers_page: 43028
+- no_openings: 21160
+- robots_disallowed: 8316
+- unreachable: 20743
 
 ## By us
 
-- unknown: 95228
-- non_us: 36987
-- unknown: 290454
-- us: 232625
+- unknown: 94731
+- non_us: 37048
+- unknown: 290673
+- us: 232842
 
 ## By via
 
-- unknown: 95228
-- archive: 43325
-- live: 516741
+- unknown: 94731
+- archive: 43401
+- live: 517162
 
 ## Tier 1 sites
 
@@ -84,6 +84,7 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - & Opportunities in Germany (holzerscientific.com)
 - & Other Opportunities (teachpsych.org)
 - & Recruitment Opportunities (elmex.net)
+- & Shape Tamil Learning (playwithtamil.com)
 - & Technical Education (columbiak12.com)
 - & Technical Education (stmaryk12.net)
 - & Trades Resources (acementorla.org)
@@ -129,6 +130,7 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 123AceTheTest (123acethetest.com)
 - 12nets Inc (12nets.com)
 - 14K Business Solutions (14kbsol.com)
+- 151 Kitchen / Bar (151elmhurst.com)
 - 16th Street Baptist Church (16thstreetbaptist.org)
 - 1702Digital (1702digital.com)
 - 1800Esupply (1800esupply.com)
@@ -244,5 +246,3 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 4GL Solutions (4glsol.com)
 - 4K Visuals (4kvfx.com)
 - 4Leet (4leet.xyz)
-- 4Leet - Managed IT Services (4leet.com)
-- 4Les Subsea (4lessubsea.com)
