@@ -12022,17 +12022,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 166,
+   "n": 167,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 166,
+   "n": 167,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 166,
+   "n": 167,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -66740,6 +66740,7 @@
   "bamboohr:kami:146": "2026-11-15",
   "bamboohr:kinsley:1268": "2026-11-15",
   "bamboohr:konarelaw:174": "2026-11-15",
+  "bamboohr:kubusgroupltd:114": "2026-11-20",
   "bamboohr:leadexsystems:111": "2026-11-15",
   "bamboohr:lexical:81": "2026-11-13",
   "bamboohr:lexical:85": "2026-11-13",
@@ -68765,6 +68766,7 @@
   "eightfold:arcadis:563671533389041": "2026-11-14",
   "eightfold:arcadis:563671533429655": "2026-11-16",
   "eightfold:arcadis:563671533450874": "2026-11-18",
+  "eightfold:arcadis:563671533455829": "2026-11-20",
   "eightfold:astrazeneca:563877691763508": "2026-11-14",
   "eightfold:autodesk:1443152974280": "2026-11-15",
   "eightfold:autodesk:1443152974413": "2026-11-15",
@@ -74651,6 +74653,7 @@
   "lever:jobgether:d0d0b10a-9ba4-4ce7-997d-3d7db4e759fc": "2026-11-16",
   "lever:jobgether:d0dad489-3130-4910-8b42-5db96cf0772b": "2026-11-14",
   "lever:jobgether:d6293ec5-4e13-4ff0-8f58-6d2b5432d3bb": "2026-11-14",
+  "lever:jobgether:d74b978e-505d-4b9a-9497-1c3870e4be8e": "2026-11-20",
   "lever:jobgether:d85e5901-67b6-4807-aa43-4b76e86064b2": "2026-11-14",
   "lever:jobgether:da2366e5-c960-421a-9172-4bebe1c8fcec": "2026-11-14",
   "lever:jobgether:dac12f33-a21f-414a-940c-581febb53b93": "2026-11-16",
@@ -75499,6 +75502,7 @@
   "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:120582": "2026-11-19",
   "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:120595": "2026-11-19",
   "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:120605": "2026-11-18",
+  "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:120637": "2026-11-20",
   "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:261306": "2026-11-19",
   "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:261312": "2026-11-17",
   "oracle:gka.fa.us1.oraclecloud.com|CX:4547": "2026-11-17",
@@ -79161,6 +79165,7 @@
   "workable:prosync:C4B9BAE615": "2026-11-16",
   "workable:prosync:D688809AE6": "2026-11-13",
   "workable:qodeworld:6C140245EC": "2026-11-13",
+  "workable:qodeworld:C71EF6332A": "2026-11-20",
   "workable:raveaerospace:73998C61E9": "2026-11-16",
   "workable:raydar:0093C570BB": "2026-11-13",
   "workable:raydar:0B50401760": "2026-11-13",
@@ -79352,6 +79357,7 @@
   "workable_search:all:f6a887a0-abd5-445a-8c1d-11d7fa3eb42f": "2026-11-13",
   "workable_search:all:f7d7a893-c841-40a5-a3ae-6dae67390e9c": "2026-11-16",
   "workable_search:all:fd9df2b9-cd87-41eb-8044-a50e4be5fc2d": "2026-11-13",
+  "workday:2020companies|wd1|external_careers:REQ_116880": "2026-11-20",
   "workday:@avnet|wd1|External:JR-021402": "2026-11-13",
   "workday:@avnet|wd1|External:JR-021587": "2026-11-13",
   "workday:@avnet|wd1|External:JR-023613": "2026-11-13",
