@@ -1,14 +1,14 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**102 jobs**, newest first. Updated Fri Nov 20, 10:24 AM CST from 12,526 company job boards and other sources.
+**100 jobs**, newest first. Updated Fri Nov 20, 11:33 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
-63 repeat listings (same company and title in another place or on another source) are merged into one row.
+61 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 19 matching jobs that job sites and feeds listed this week, 8 (42%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 20 (59)](#friday-nov-20-59) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (9)](#tuesday-nov-17-9) · [Mon 16 (9)](#monday-nov-16-9) · [Sun 15 (1)](#sunday-nov-15-1) · [Fri 13 (4)](#friday-nov-13-4)
+Jump to: [Fri 20 (59)](#friday-nov-20-59) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (9)](#tuesday-nov-17-9) · [Mon 16 (9)](#monday-nov-16-9) · [Sun 15 (1)](#sunday-nov-15-1) · [Fri 13 (2)](#friday-nov-13-2)
 
 ## Friday, Nov 20 (59)
 
@@ -138,22 +138,21 @@ Jump to: [Fri 20 (59)](#friday-nov-20-59) · [Thu 19 (13)](#thursday-nov-19-13) 
 |---|---|---|---|---:|---|
 | 11:00 PM | [Network Analyst I/II-NOC](https://jobs.dayforcehcm.com/en-US/uniti/CANDIDATEPORTAL/jobs/35584) | Uniti | AR, US; US | 58 | entry-level title; 4+ yrs exp |
 
-## Friday, Nov 13 (4)
+## Friday, Nov 13 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 5:12 PM | [Data Center & Linux Systems Engineer](https://jobs.gem.com/ocient-inc-/am9icG9zdDrWlfsujLjzR1YGlutvpkiF) | Ocient Inc | Chicago, IL (remote) | 40 | 2+ yrs exp; no future H-1B sponsorship; network work in the text |
 | 12:09 PM | [Network Field Support Engineer-Contract Position (3 Months)](https://jobs.smartrecruiters.com/Sutherland/744000161550548-network-field-support-engineer-contract-position-3-months-) | Sutherland | Clifton, NJ, United States | 33 | 3+ yrs exp; network work in the text |
-| date only | [Unified Communications Engineer](https://careers.chsinc.com/job/Inver-Grove-Heights-Unified-Communications-Engineer-MN-55077-1721/1450744800/) | CHS | Inver Grove Heights, MN, United States | 60 | 2+ yrs exp |
-| date only | [Network Engineer II](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605841&lang=en) | D.R. Horton | TX-Arlington | 40 | 4+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (179)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (180)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Systems Administrator II](https://sigmadesign.applytojob.com/apply/tWeKPHZxsE/Systems-Administrator-II) | Sigma Design | Burlingame, CA | 25 | rules: 5+ yrs exp; network work in the text; needs: ITAR |
+| 10:25 AM | [Senior Network Engineer](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022806) | ADT | Irving, TX, United States | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 10:08 AM | [Senior Network Engineer](https://careers.akima.com/jobs/28917?lang=en-us) | Akima | Huntsville, Alabama | 60 | rules: 4+ yrs exp; senior title; needs: security clearance |
 | 10:01 AM (seen) | [Network Analyst (2026-0073)](https://acclaimtechnicalservices.applytojob.com/apply/6kEQgh13tD/Network-Analyst-20260073) | Acclaim Technical Services | Northern Virginia, VA | 30 | rules: 6+ yrs exp; needs: TS/SCI clearance |
 | 10:01 AM (seen) | [20224 - Network Engineer III](https://hyundaiautoeveramerica.applytojob.com/apply/brFUvHVkol/20224-Network-Engineer-III) | Hyundai AutoEver America | Savannah, GA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
