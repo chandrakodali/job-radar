@@ -12149,17 +12149,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 309,
+   "n": 310,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 309,
+   "n": 310,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 309,
+   "n": 310,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14868,10 +14868,10 @@
  "found_cursor": 968,
  "last_digest": "2026-11-19",
  "missed_companies": {
-  "A2Z Sync": "2026-11-19",
+  "A2Z Sync": "2026-11-20",
   "Accurant International": "2026-11-18",
-  "Adept Consulting Services, Inc.": "2026-11-19",
-  "AmeriSave": "2026-11-19",
+  "Adept Consulting Services, Inc.": "2026-11-20",
+  "AmeriSave": "2026-11-20",
   "Bask Health": "2026-11-19",
   "Coris": "2026-11-16",
   "Diversified Services Network, Inc.": "2026-11-17",
@@ -14879,31 +14879,32 @@
   "EdgeQ Technologies Private Limited": "2026-11-18",
   "Edgewater Federal Solutions, Inc.": "2026-11-16",
   "Essnova Solutions, Inc.": "2026-11-17",
+  "Fooda": "2026-11-20",
   "Foresight Works Ltd": "2026-11-13",
   "Fortanix": "2026-11-14",
   "Frontera Space": "2026-11-19",
-  "GEM Technologies": "2026-11-19",
+  "GEM Technologies": "2026-11-20",
   "GoMining": "2026-11-18",
   "Halcyon": "2026-11-14",
   "Knack": "2026-11-17",
-  "LaBella Associates": "2026-11-19",
+  "LaBella Associates": "2026-11-20",
   "Odin": "2026-11-17",
   "Omnistrate": "2026-11-19",
   "OpenDataJobs": "2026-11-14",
   "PGTEK": "2026-11-14",
   "PIMCO": "2026-11-16",
   "Partner One Software Inc": "2026-11-16",
-  "Pavago": "2026-11-19",
+  "Pavago": "2026-11-20",
   "Runware": "2026-11-14",
   "Salvo Software": "2026-11-14",
   "Stealth Health-Tech Startup": "2026-11-16",
-  "StradIT": "2026-11-19",
+  "StradIT": "2026-11-20",
   "Systems Engineering Solutions Corporation": "2026-11-16",
-  "TOMORROW HIRE": "2026-11-19",
-  "Toyota Tsusho Systems": "2026-11-19",
+  "TOMORROW HIRE": "2026-11-20",
+  "Toyota Tsusho Systems": "2026-11-20",
   "Upsun": "2026-11-19",
   "WorldVia": "2026-11-16",
-  "Worth AI": "2026-11-19",
+  "Worth AI": "2026-11-20",
   "Xora Innovation": "2026-11-14",
   "Zipdev": "2026-11-14",
   "erad": "2026-11-18",
@@ -14940,8 +14941,8 @@
    369
   ],
   "2026-11-20": [
-   2,
-   4
+   25,
+   44
   ]
  },
  "resolved": {
@@ -65739,6 +65740,7 @@
   "amazon:us:10608155": "2026-11-18",
   "amazon:us:10608157": "2026-11-18",
   "amazon:us:10608480": "2026-11-18",
+  "amazon:us:10609070": "2026-11-20",
   "amazon:us:10609075": "2026-11-19",
   "amazon:us:10609537": "2026-11-19",
   "amazon:us:10609574": "2026-11-19",
@@ -66752,6 +66754,7 @@
   "eightfold:nvidia:893395964724": "2026-11-19",
   "eightfold:nvidia:893396402568": "2026-11-15",
   "eightfold:nvidia:893396422329": "2026-11-15",
+  "eightfold:nvidia:893396422336": "2026-11-20",
   "eightfold:nvidia:893396867645": "2026-11-19",
   "eightfold:nvidia:893396905948": "2026-11-20",
   "eightfold:nvidia:893397112878": "2026-11-19",
@@ -67147,6 +67150,7 @@
   "greenhouse:machindustries:4488051009": "2026-11-12",
   "greenhouse:machindustries:4488055009": "2026-11-10",
   "greenhouse:machindustries:4488058009": "2026-11-10",
+  "greenhouse:machindustries:4516093009": "2026-11-20",
   "greenhouse:metron:5298040007": "2026-11-17",
   "greenhouse:mongodb:8352433": "2026-11-12",
   "greenhouse:mongodb:8396867": "2026-11-17",
@@ -69532,6 +69536,7 @@
   "workable:weekday-1:FD2496AC64": "2026-11-19",
   "workable:zipdev:D129923BE8": "2026-11-14",
   "workable_search:all:0770081f-8486-4649-add0-23a444e83eb7": "2026-11-16",
+  "workable_search:all:0a739109-d1a2-475e-9124-bd32d46ace02": "2026-11-20",
   "workable_search:all:0d56bb28-6356-401b-ab00-54aec4e8581c": "2026-11-12",
   "workable_search:all:0f9916d4-27a5-4952-9b79-a44c38df2eb6": "2026-11-12",
   "workable_search:all:16c50948-9928-4570-8f6d-dd49e8ffb7e0": "2026-11-16",
@@ -70369,10 +70374,10 @@
  "source_last": {
   "hn": "2026-11-19T20:37:19+00:00",
   "remoteok": "2026-11-19T23:37:14+00:00",
-  "usajobs": "2026-11-19T22:07:17+00:00",
-  "workable_search": "2026-11-19T22:07:17+00:00",
+  "usajobs": "2026-11-20T01:07:17+00:00",
+  "workable_search": "2026-11-20T01:07:17+00:00",
   "wwr": "2026-11-20T00:37:15+00:00",
-  "yc": "2026-11-19T22:07:17+00:00"
+  "yc": "2026-11-20T01:07:17+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
