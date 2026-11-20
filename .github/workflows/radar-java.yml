@@ -54,7 +54,63 @@ jobs:
         run: |
           ARGS=""
           if [ "$DRY_RUN" = "true" ]; then ARGS="--dry-run"; fi
-          python -m radar.main --profile java $ARGS
+          python -m radar.main --profile java --skip workday $ARGS
+
+      - name: Save results
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/java REPORT_JAVA.md docs/java
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+            exit 0
+          fi
+          git commit -m "Java Developer Radar update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME" && exit 0
+            sleep 7
+          done
+          echo "Could not push results" && exit 1
+
+  # Workday on a fresh machine: its Cloudflare rejects a machine that has just read the other
+  # 10,000+ boards, but allows a few requests at a time from a new one.
+  workday:
+    needs: scan
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Workday boards - run Java Developer Radar
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN_JAVA || secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID_JAVA || secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC_JAVA || secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+          JOB_ALERTS_EMAIL: ${{ secrets.JOB_ALERTS_EMAIL }}
+          JOB_ALERTS_APP_PASSWORD: ${{ secrets.JOB_ALERTS_APP_PASSWORD }}
+          JOB_ALERTS_IMAP_HOST: ${{ secrets.JOB_ALERTS_IMAP_HOST }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          ARGS=""
+          if [ "$DRY_RUN" = "true" ]; then ARGS="--dry-run"; fi
+          python -m radar.main --profile java --only workday --budget-min 25 $ARGS
 
       - name: Save results
         if: ${{ inputs.dry_run != true }}

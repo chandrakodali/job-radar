@@ -66,6 +66,14 @@ _pace_ok: dict[str, int] = {}
 MAX_GAP = 4.0
 
 
+def set_pace(suffix: str, gap: float) -> None:
+    """Change the base gap of one paced group (e.g. a Workday-only run on its own machine)."""
+    for i, (sfx, _) in enumerate(PACED):
+        if sfx == suffix:
+            PACED[i] = (sfx, gap)
+    _pace_gap.pop(suffix, None)
+
+
 def _group(url: str) -> tuple[str, float] | None:
     host = (urlsplit(url).hostname or "").lower()
     for suffix, gap in PACED:

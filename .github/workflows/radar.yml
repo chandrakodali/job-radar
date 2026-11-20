@@ -72,7 +72,70 @@ jobs:
           ARGS=""
           if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="--dry-run --no-write"; fi
           if [ "${{ inputs.all_shards }}" = "true" ]; then ARGS="$ARGS --all-shards"; fi
-          python -m radar.main $ARGS
+          python -m radar.main --skip workday $ARGS
+
+      - name: Save results
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data REPORT.md docs
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+            exit 0
+          fi
+          git commit -m "Radar update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          echo "Could not push results" && exit 1
+
+  # Workday on a fresh machine: its Cloudflare rejects a machine that has just read the other
+  # 10,000+ boards, but allows a few requests at a time from a new one.
+  workday:
+    needs: scan
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      # The branch's latest commit, not the one the run was queued at, so a run that waited starts from the
+      # results the previous run saved (otherwise saving can fail on a conflict).
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Tests
+        if: github.event_name == 'push'
+        run: python -m pytest -q
+
+      - name: Workday boards - run radar
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+          # Optional extra job sources (each turns on when its secrets exist; see radar/sources.py)
+          JOB_ALERTS_EMAIL: ${{ secrets.JOB_ALERTS_EMAIL }}
+          JOB_ALERTS_APP_PASSWORD: ${{ secrets.JOB_ALERTS_APP_PASSWORD }}
+          JOB_ALERTS_IMAP_HOST: ${{ secrets.JOB_ALERTS_IMAP_HOST }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="--dry-run --no-write"; fi
+          if [ "${{ inputs.all_shards }}" = "true" ]; then ARGS="$ARGS --all-shards"; fi
+          python -m radar.main --only workday --budget-min 25 $ARGS
 
       - name: Save results
         if: ${{ inputs.dry_run != true }}

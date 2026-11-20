@@ -28,6 +28,7 @@ import yaml
 
 from . import ats as ATS
 from .http import FetchError
+from . import http
 from .match import (_any, Rules, assess, classify_location, has_evidence, is_excluded_company, job_category,
                     row_still_fits, title_category)
 from . import deep
@@ -138,7 +139,12 @@ def run(args) -> int:
     prof = cfg.get("profile") or {}
     label = prof.get("label", "Job Radar")
     report_url = prof.get("report_url", REPORT_URL)
-    budget = int(cfg.get("run", {}).get("time_budget_minutes", TIME_BUDGET_SECONDS // 60)) * 60
+    budget = int(args.budget_min or cfg.get("run", {}).get("time_budget_minutes", TIME_BUDGET_SECONDS // 60)) * 60
+    if args.only == ["workday"]:
+        # Workday on its own machine (a separate step of the workflow): Cloudflare rejects a machine that has
+        # just sent many requests elsewhere, but allows a few at a time from a fresh one.
+        OWN_WORKERS["workday"] = 3
+        http.set_pace("myworkdayjobs.com", 0.35)
     state = load_state()
     # Rule-based fit score from the full job text (profiles with a skills.yaml). Job texts are kept so every
     # saved match can be scored again whenever the rules change.
@@ -163,12 +169,16 @@ def run(args) -> int:
     boards = resolve_auto_boards(boards, state, today)
     if args.only:
         boards = [b for b in boards if b.ats in args.only]
+    if args.skip:
+        boards = [b for b in boards if b.ats not in args.skip]
     known_keys = {b.key.lower() for b in boards}
     found = [b for b in (load_discovered(known_keys) + load_discovered(known_keys, _store.CAREERS_BOARDS_PATH, named=True)
                          if general else [])
              if not is_excluded_company(b, rules)]
     if args.only:
         found = [b for b in found if b.ats in args.only]
+    if args.skip:
+        found = [b for b in found if b.ats not in args.skip]
     total_boards = len(boards) + len(found)
 
     # Keyword searches of the focus boards' full job text. A full sweep on the first run (or on request);
@@ -311,7 +321,7 @@ def run(args) -> int:
     missed_companies: Counter = Counter()
     # employers other sources list whose own board we don't read; where title matches end up (logged at the end)
     funnel: Counter = Counter()
-    want_sources = bool(src_cfg)
+    want_sources = bool(src_cfg) and not args.only     # a run limited to some systems (e.g. Workday) skips the feeds
     scanned_keys: set[str] = set()   # company + title of every job the boards list (to skip the same job from alerts)
     coverage: dict[str, dict] = {}   # focus board -> jobs it listed this run (or its error)
     live: dict[str, set[str]] = {}   # board key -> every job it lists right now (complete listings only)
@@ -1020,6 +1030,8 @@ def main(argv=None) -> int:
     p.add_argument("--dry-run", action="store_true", help="don't send notifications")
     p.add_argument("--no-write", action="store_true", help="don't write state or report")
     p.add_argument("--only", nargs="*", help="only these ATS types")
+    p.add_argument("--skip", nargs="*", help="every ATS type except these")
+    p.add_argument("--budget-min", type=int, default=0, help="time budget for this run, in minutes")
     p.add_argument("--limit", type=int, default=0, help="max boards per ATS (testing)")
     p.add_argument("--all-shards", action="store_true", help="check every Workday board this run")
     p.add_argument("--profile", default="", help="run another search: profiles/<name>/config.yaml")

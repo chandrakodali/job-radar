@@ -92,7 +92,103 @@ jobs:
           if [ "$DRY_RUN" = "true" ]; then ARGS="--dry-run"; fi
           if [ "$FULL_SWEEP" = "true" ]; then ARGS="$ARGS --full-sweep"; fi
           if [ -n "$ONLY" ]; then ARGS="$ARGS --only $ONLY"; fi
-          python -m radar.main --profile automotive $ARGS
+          python -m radar.main --profile automotive --skip workday $ARGS
+
+      # A test run saves nothing to the repository; its results are attached to the run instead.
+      - name: Attach test-run results
+        if: ${{ inputs.dry_run == true && inputs.ai_check != true }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: auto-radar-test-run
+          path: |
+            data/automotive
+            REPORT_AUTOMOTIVE.md
+            SKILLS_AUTOMOTIVE.md
+
+      - name: Save results
+        if: ${{ inputs.dry_run != true && inputs.ai_check != true }}
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/automotive REPORT_AUTOMOTIVE.md docs/automotive
+          git add SKILLS_AUTOMOTIVE.md 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+            exit 0
+          fi
+          git commit -m "Auto Radar update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin "$GITHUB_REF_NAME" && git push origin "HEAD:$GITHUB_REF_NAME" && exit 0
+            sleep 7
+          done
+          echo "Could not push results" && exit 1
+
+  # Workday on a fresh machine: its Cloudflare rejects a machine that has just read the other
+  # 10,000+ boards, but allows a few requests at a time from a new one.
+  workday:
+    needs: scan
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      # The branch's latest commit, not the one the run was queued at: a run that waited behind another
+      # must start from the results that run saved.
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Tests
+        run: python -m pytest -q
+
+      - name: Test the AI keys
+        if: ${{ inputs.ai_check == true }}
+        env:
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROK_API_KEY: ${{ secrets.GROK_API_KEY }}
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: python -m radar.ai_fit --check --profile automotive
+
+      - name: Workday boards - run Auto Radar
+        if: ${{ inputs.ai_check != true }}
+        env:
+          # Use separate NTFY_TOPIC_AUTO / TELEGRAM_*_AUTO secrets to send these alerts somewhere else.
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN_AUTO || secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID_AUTO || secrets.TELEGRAM_CHAT_ID }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC_AUTO || secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+          # Other job sources (radar/sources.py): job-alert mailbox and Adzuna's free API.
+          JOB_ALERTS_EMAIL: ${{ secrets.JOB_ALERTS_EMAIL }}
+          JOB_ALERTS_APP_PASSWORD: ${{ secrets.JOB_ALERTS_APP_PASSWORD }}
+          JOB_ALERTS_IMAP_HOST: ${{ secrets.JOB_ALERTS_IMAP_HOST }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          # Free AI services for the resume check of each job (radar/ai_fit.py); any that are set are used.
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROK_API_KEY: ${{ secrets.GROK_API_KEY }}
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          DRY_RUN: ${{ inputs.dry_run }}
+          FULL_SWEEP: ${{ inputs.full_sweep }}
+          ONLY: ${{ inputs.only }}
+        run: |
+          ARGS=""
+          if [ "$DRY_RUN" = "true" ]; then ARGS="--dry-run"; fi
+          if [ "$FULL_SWEEP" = "true" ]; then ARGS="$ARGS --full-sweep"; fi
+          if [ -n "$ONLY" ]; then ARGS="$ARGS --only $ONLY"; fi
+          python -m radar.main --profile automotive --only workday --budget-min 25 $ARGS
 
       # A test run saves nothing to the repository; its results are attached to the run instead.
       - name: Attach test-run results
