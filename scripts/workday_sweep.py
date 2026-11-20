@@ -64,6 +64,8 @@ def sweep(cache: dict, boards: list[Board], budget_s: float, days: int, max_page
         try:
             jobs = ATS.workday_list(b, max_pages=max_pages, max_age_days=days, us_only=True)
         except FetchError as e:
+            if stats["rate_limited"] + stats["failed"] < 10:
+                log.warning("%s: %s | cause: %r", b.board, e, getattr(e, "__cause__", None))
             if e.status == 429:
                 stats["rate_limited"] += 1
                 limited_in_row += 1
