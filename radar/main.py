@@ -61,6 +61,9 @@ DETAIL_CONCURRENCY.setdefault("email", 1)
 ATS.DETAILERS.setdefault("adzuna", ats_more._ld_detail)
 TIME_BUDGET_SECONDS = 17 * 60
 THROTTLE_LIMIT = 6
+# Systems behind a shared rate limit (paced in radar/http.py) and their own worker count. Workday's Cloudflare
+# allows about one request at a time from a GitHub machine.
+OWN_WORKERS = {"workday": 1, "paylocity": 2, "adp": 2, "dover": 2, "dayforce": 2}
 # systems where each company has its own site: rate limits are counted per site
 PER_SITE_LIMITS = {"icims", "oracle", "avature", "eightfold", "phenom", "sfrmk", "taleo", "ukg", "ldsite",
                    "mcloud", "dspace", "catsone", "zoho", "personio", "homerun", "bamboohr", "jazzhr", "breezy",
@@ -314,10 +317,10 @@ def run(args) -> int:
     live: dict[str, set[str]] = {}   # board key -> every job it lists right now (complete listings only)
     track_closed = bool(cfg.get("report", {}).get("track_closed"))
     newly_baselined: set[str] = set()
-    # Workday (paced, rate-limited) gets its own workers, so its waiting never holds up the other systems.
+    # Paced, rate-limited systems get their own few workers, so their waiting never holds up the others.
     pool = ThreadPoolExecutor(max_workers=40)
-    wd_pool = ThreadPoolExecutor(max_workers=LIST_CONCURRENCY["workday"])
-    futures = {(wd_pool if b.ats == "workday" else pool).submit(fetch_board, b): b for b in selected}
+    own = {ats: ThreadPoolExecutor(max_workers=n) for ats, n in OWN_WORKERS.items()}
+    futures = {own.get(b.ats, pool).submit(fetch_board, b): b for b in selected}
     done_n, last_log = 0, time.monotonic()
     try:
         for fut in as_completed(futures, timeout=max(30.0, deadline + 90 - time.monotonic())):
@@ -372,8 +375,8 @@ def run(args) -> int:
         stats["skipped_time"] += sum(stuck.values())
         log.warning("Stopped waiting for %d slow boards: %s", sum(stuck.values()), dict(stuck))
     finally:
-        pool.shutdown(wait=False, cancel_futures=True)
-        wd_pool.shutdown(wait=False, cancel_futures=True)
+        for p_ in (pool, *own.values()):
+            p_.shutdown(wait=False, cancel_futures=True)
     # Jobs from job-alert emails and Adzuna: kept only when the employer's own board did not list them.
     if want_sources:
         extra: list[Job] = []
@@ -475,16 +478,16 @@ def run(args) -> int:
                                  or ai_cfg.get("backlog_per_run", 400))]
     candidates = candidates + ai_backlog
     dpool = ThreadPoolExecutor(max_workers=24)
-    wd_dpool = ThreadPoolExecutor(max_workers=DETAIL_CONCURRENCY.get("workday", 4))
-    dfutures = [(wd_dpool if c[0].ats == "workday" else dpool).submit(detail, c) for c in candidates]
+    downs = {ats: ThreadPoolExecutor(max_workers=n) for ats, n in OWN_WORKERS.items()}
+    dfutures = [downs.get(c[0].ats, dpool).submit(detail, c) for c in candidates]
     try:
         for _ in as_completed(dfutures, timeout=max(30.0, deadline + 240 - time.monotonic())):
             pass
     except FuturesTimeout:
         log.warning("Stopped waiting for %d slow job-detail requests", sum(1 for f in dfutures if not f.done()))
     finally:
-        dpool.shutdown(wait=False, cancel_futures=True)
-        wd_dpool.shutdown(wait=False, cancel_futures=True)
+        for p_ in (dpool, *downs.values()):
+            p_.shutdown(wait=False, cancel_futures=True)
     # unfinished details: assess with what the listing gave
     detailed = [f.result() if f.done() and not f.cancelled() else c for f, c in zip(dfutures, candidates)]
     ai_back = [c for c in detailed if c[2] == "_ai"]

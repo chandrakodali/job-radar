@@ -130,10 +130,10 @@ def test_pacing_slows_on_rate_limits_and_recovers():
     H._pace_gap.pop("myworkdayjobs.com", None)
     H._paced_result(u, True)
     slow = H._pace_gap["myworkdayjobs.com"]
-    assert slow > 0.35
+    assert slow > 0.8
     for _ in range(50):
         H._paced_result(u, False)
-    assert 0.35 <= H._pace_gap["myworkdayjobs.com"] < slow
+    assert 0.8 <= H._pace_gap["myworkdayjobs.com"] < slow
     H._paced_result("https://boards.greenhouse.io/x", True)       # not a paced site: nothing changes
     assert "greenhouse.io" not in H._pace_gap
     H._pace_gap.clear(); H._pace_next.clear()
