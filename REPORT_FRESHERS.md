@@ -1,6 +1,6 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**570 jobs**, newest first. Updated Thu Nov 19, 11:51 PM CST from 12,526 company job boards and other sources.
+**570 jobs**, newest first. Updated Fri Nov 20, 12:45 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
@@ -615,7 +615,7 @@ Jump to: [Thu 19 (73)](#thursday-nov-19-73) · [Wed 18 (57)](#wednesday-nov-18-5
 | 2:00 AM | [Fluid Systems Engineer](https://careers.westinghousenuclear.com/job/Rock-Hill-Fluid-Systems-Engineer-SC-29730/1440646100/) | Westinghouse Electric Company | Rock Hill, SC, United States | 85 | 1+ yrs exp; entry level (from the text) |
 | 1:00 AM | [Network Engineer I](https://jobs.dayforcehcm.com/en-US/sonifi/CANDIDATEPORTAL/jobs/5902) | Sonifi | Sioux Falls, SD, US | 73 | entry-level title; E-Verify |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (4084)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (4087)
 
 <details><summary>Show</summary>
 
@@ -627,6 +627,10 @@ Jump to: [Thu 19 (73)](#thursday-nov-19-73) · [Wed 18 (57)](#wednesday-nov-18-5
 | date only | [Quality Assurance Engineer, Amazon Leo Console](https://www.amazon.jobs/en/jobs/10609923/quality-assurance-engineer-amazon-leo-console) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Machine Learning Engineer, Evaluation](https://mpathic2.bamboohr.com/careers/133) | Mpathic2 | United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Machine Learning Engineer, Data Products](https://mpathic2.bamboohr.com/careers/134) | Mpathic2 | Remote | 70 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
+| 12:32 AM | [SATCOM Terminal Systems Engineer](https://jobs.lever.co/jobgether/ccd484ca-457b-4675-946c-7bfbf960350c) | Jobgether | US (remote) | 42 | rules: 8+ yrs exp; needs: Security Clearance |
+| 12:23 AM | [Cybersecurity Engineer](https://jobs.lever.co/jobgether/b48534d4-a073-4a7f-ae4a-52548c681c87) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; needs: security clearance |
+| 12:00 AM | [Business Systems Analyst I](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428976) | Eohh Fa Us2 Oraclecloud Com | Austin, TX, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
+| 12:00 AM | [Systems Analyst](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428941) | Eohh Fa Us2 Oraclecloud Com | TX, United States | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 11:45 PM | [Software Engineer - Postgres Tooling](https://jobs.lever.co/jobgether/ff59447a-0ae0-4db3-a963-45166c491862) | Jobgether | US (remote) | 42 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 11:06 PM | [Full Stack Developer](https://jobs.lever.co/jobgether/c2dc5af1-6f3f-47ec-8a7d-4af4a51cebdb) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 11:00 PM | [Quality Assurance Specialist  - Chicago](https://jobs.dayforcehcm.com/en-US/ipg/ipg/jobs/7433) | Ipg | Chicago, IL, US | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -1017,9 +1021,5 @@ Jump to: [Thu 19 (73)](#thursday-nov-19-73) · [Wed 18 (57)](#wednesday-nov-18-5
 | date only | [ServiceNow Administrator](https://hp.eightfold.ai/careers/job/45439563) | Hp | Spring, TX, US (onsite) | 80 | rules: 2+ yrs exp; needs: U.S. citizenship required |
 | date only | [Enterprise Systems Engineer - SME](https://apply.workable.com/analytic-solutions-group/j/0EAB2F5D17/) | Analytic Solutions Group | Bethesda, Maryland, United States | 50 | rules: 12+ yrs exp; E-Verify; needs: security clearance |
 | date only | [Infrastructure Analyst](https://delawareparkcasinoracing.applytojob.com/apply/nEAKCV6GnA/Infrastructure-Analyst) | Delaware Park Casino & Racing | Wilmington, DE | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [Non-Destructive Test Technician 1](https://ngc.eightfold.ai/careers/job/1340074002009) | Ngc | Clearfield, UT, US (onsite) | 80 | rules: entry-level title; needs: CLEARANCE REQUIRED |
-| date only | [Mid-Level Google Cloud Platform Looker Developer](https://apply.workable.com/credence/j/072FAF32A3/) | Credence | Tysons, Virginia, United States | 60 | rules: 4+ yrs exp; needs: Secret clearance |
-| date only | [Software Systems Engineer](https://hp.eightfold.ai/careers/job/45062058) | Hp | Spring, TX, US (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Cloud Engineer](https://analyticallc.applytojob.com/apply/x7bxOAoNux/Cloud-Engineer) | Analytica | Washington, DC | 60 | rules: 3+ yrs exp; needs: security clearance |
 
 </details>

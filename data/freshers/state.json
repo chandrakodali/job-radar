@@ -12022,17 +12022,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 160,
+   "n": 161,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 160,
+   "n": 161,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 160,
+   "n": 161,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -68390,6 +68390,7 @@
   "dayforce:ccok|ccok:6570": "2026-11-18",
   "dayforce:ccok|ccok:6571": "2026-11-18",
   "dayforce:ccok|ccok:6578": "2026-11-19",
+  "dayforce:ccok|ccok:6627": "2026-11-20",
   "dayforce:centralins|CANDIDATEPORTAL:7149": "2026-11-15",
   "dayforce:chemelex|CANDIDATEPORTAL:2855": "2026-11-15",
   "dayforce:chromalloy|CANDIDATEPORTAL:40996": "2026-11-15",
@@ -74597,6 +74598,7 @@
   "lever:jobgether:afeb5378-1e6a-46e9-b10f-6bf66779dc04": "2026-11-18",
   "lever:jobgether:b01674d2-7838-4292-ab20-c26429a1a814": "2026-11-14",
   "lever:jobgether:b45aadee-df74-4ad4-8acd-f23de8ee8060": "2026-11-14",
+  "lever:jobgether:b48534d4-a073-4a7f-ae4a-52548c681c87": "2026-11-20",
   "lever:jobgether:b8941cce-1efd-4929-92f4-ad17507a0b58": "2026-11-17",
   "lever:jobgether:b9103f1b-f449-411d-8750-b9ae81c34d67": "2026-11-14",
   "lever:jobgether:ba470345-e179-4914-9640-2a70d208f2b2": "2026-11-17",
@@ -74615,6 +74617,7 @@
   "lever:jobgether:c757e6aa-61b6-4771-a382-8b3660f8d6ae": "2026-11-18",
   "lever:jobgether:c9534b21-105a-4981-9b07-029f0fc5b9a5": "2026-11-16",
   "lever:jobgether:c998b954-e4b5-4221-9e90-a854a4cab7a1": "2026-11-19",
+  "lever:jobgether:ccd484ca-457b-4675-946c-7bfbf960350c": "2026-11-20",
   "lever:jobgether:cd50313d-e3ec-4888-a130-91139a87ed7b": "2026-11-14",
   "lever:jobgether:cfcbf531-39fa-41f6-9e0f-68bb25da6885": "2026-11-16",
   "lever:jobgether:d0d0b10a-9ba4-4ce7-997d-3d7db4e759fc": "2026-11-16",
@@ -75229,6 +75232,9 @@
   "oracle:emje.fa.us6.oraclecloud.com|CX_1001:22825": "2026-11-17",
   "oracle:emje.fa.us6.oraclecloud.com|CX_1001:22846": "2026-11-19",
   "oracle:emje.fa.us6.oraclecloud.com|CX_1001:22848": "2026-11-18",
+  "oracle:eohh.fa.us2.oraclecloud.com|CX:428941": "2026-11-20",
+  "oracle:eohh.fa.us2.oraclecloud.com|CX:428976": "2026-11-20",
+  "oracle:eohh.fa.us2.oraclecloud.com|CX:428979": "2026-11-20",
   "oracle:eoje.fa.us2.oraclecloud.com|CX_1001:6710": "2026-11-13",
   "oracle:eoje.fa.us2.oraclecloud.com|CX_1001:6735": "2026-11-13",
   "oracle:eoje.fa.us2.oraclecloud.com|CX_1001:7080": "2026-11-19",
@@ -75391,6 +75397,7 @@
   "oracle:fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com|CX_1001:26001120": "2026-11-19",
   "oracle:fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:4391": "2026-11-14",
   "oracle:fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:4416": "2026-11-19",
+  "oracle:fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com|CX_2:4418": "2026-11-20",
   "oracle:fa-eups-saasfaprod1.fa.ocs.oraclecloud.com|ULSolutionsCareers:11528": "2026-11-16",
   "oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:389697": "2026-11-17",
   "oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com|CX_1:390408": "2026-11-13",
