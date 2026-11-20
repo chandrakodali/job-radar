@@ -1,12 +1,14 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**167 jobs**, newest first. Updated Fri Nov 20, 4:03 PM CST from 12,571 company job boards and other sources.
+**168 jobs**, newest first. Updated Fri Nov 20, 4:03 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 191 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (14)](#thursday-nov-19-14) · [Wed 18 (20)](#wednesday-nov-18-20) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (75)](#saturday-nov-14-75)
+Coverage check: of 2,689 matching jobs that job sites and feeds listed this week, 710 (26%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (20)](#wednesday-nov-18-20) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (75)](#saturday-nov-14-75)
 
 ## Friday, Nov 20 (11)
 
@@ -24,10 +26,11 @@ Jump to: [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (14)](#thursday-nov-19-14) 
 | 10:35 AM | [Senior Java Engineer - Order Management System](https://jobs.workable.com/view/ipM4SCCAfMYx6t3RqXbtAV/senior-java-engineer---order-management-system-in-massachusetts-at-man-group) | Man Group | Massachusetts (onsite) | 60 | senior title, years not stated |
 | 8:00 AM | [Associate, Full-stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83835) | BNY | Jersey City, NJ, United States | 55 | entry-level title; 3+ yrs exp; requires Java |
 
-## Thursday, Nov 19 (14)
+## Thursday, Nov 19 (15)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:00 PM | [Senior Software Engineer - Java](https://us-erac.icims.com/jobs/595644/senior-software-engineer---java/job) | Enterprise Holdings | St. Louis, MO, United States (remote) | 52 | senior title, years not stated |
 | 10:06 PM | [Senior Software Engineer](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26676) | Pearson | San Antonio, TX, United States (hybrid) | 50 | 3+ yrs exp; senior title; requires Java |
 | 9:20 PM | [Software Engineer III - Selenium Automation](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806044) | JP Morgan Chase | Jersey City, NJ, United States +2 more | 45 | 3+ yrs exp; senior title; requires Java |
 | 5:55 PM | [Senior Software Engineer - UGC Marketplace](https://careers.roblox.com/jobs/8397795?gh_jid=8397795) | Roblox | San Mateo, CA, United States | 45 | 3+ yrs exp; senior title; requires Java |
