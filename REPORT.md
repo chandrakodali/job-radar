@@ -1,14 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**540 jobs**, newest first. Updated Fri Nov 20, 2:59 PM CST from 10,845 company job boards and other sources.
+**539 jobs**, newest first. Updated Fri Nov 20, 3:12 PM CST from 1,681 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 293 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,771 matching jobs that job sites and feeds listed this week, 1,110 (40%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Fri 20 (31)](#friday-nov-20-31) · [Thu 19 (38)](#thursday-nov-19-38) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (319)](#saturday-nov-14-319) · [Fri 13 (15)](#friday-nov-13-15)
+Jump to: [Fri 20 (31)](#friday-nov-20-31) · [Thu 19 (38)](#thursday-nov-19-38) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (319)](#saturday-nov-14-319) · [Fri 13 (14)](#friday-nov-13-14)
 
 ## Friday, Nov 20 (31)
 
@@ -570,7 +568,7 @@ Jump to: [Fri 20 (31)](#friday-nov-20-31) · [Thu 19 (38)](#thursday-nov-19-38) 
 | date only | [Sr. DevOps Engineer - Trading & Supply](https://indigobeam.zohorecruit.com/jobs/Careers/792375000009305132/Sr-DevOps-Engineer-Trading-Supply) | Indigobeam | Houston, Texas, United States | 48 | senior title, years not stated |
 | 7:47 AM | [Systems Software Developer, CAD Infrastructure](https://jobs.apple.com/en-us/details/200694942/systems-software-developer-cad-infrastructure) | Apple | United States of America | 65 |  |
 
-## Friday, Nov 13 (15)
+## Friday, Nov 13 (14)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -588,9 +586,8 @@ Jump to: [Fri 20 (31)](#friday-nov-20-31) · [Thu 19 (38)](#thursday-nov-19-38) 
 | 3:19 PM | [Senior DevSecOps Engineer](https://jobs.ashbyhq.com/Ashby/238c230f-3dc6-455c-98fd-81872a12d34c) | Ashby | Remote - US; Remote - Canada (remote) | 52 | senior title, years not stated |
 | 3:17 PM | [IT Systems Engineer - Voleon Securities](https://jobs.ashbyhq.com/voleon/d2e5725d-3cb3-4d7d-b7d6-34659659fd24) | The Voleon Group | Remote, United States; New York City, N… (remote) | 47 |  |
 | 3:14 PM | [Software Engineer - Infrastructure & Platform (Bay Area)](https://jobs.workable.com/view/nRY3pdwe1BQdmNRkvUV8Yv/hybrid-software-engineer---infrastructure-%26-platform-(bay-area)-in-santa-clara-at-fortanix) | Fortanix | Santa Clara, California (hybrid) | 65 | no future H-1B sponsorship |
-| 3:07 PM | [Project Engineer II - Mining Infrastructure](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11890) | Sundt | Prescott, AZ, United States (onsite) | 60 | 3+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (621)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (615)
 
 <details><summary>Show</summary>
 
