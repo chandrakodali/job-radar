@@ -12151,17 +12151,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 330,
+   "n": 331,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 330,
+   "n": 331,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 330,
+   "n": 331,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14943,8 +14943,8 @@
    369
   ],
   "2026-11-20": [
-   113,
-   205
+   116,
+   210
   ]
  },
  "resolved": {
@@ -65935,6 +65935,7 @@
   "ashby:mercor:799ecfcc-4258-4075-8b11-12fc64fb2868": "2026-11-07",
   "ashby:mistral.ai:98e96edd-e91f-4558-a248-4e0a2765845b": "2026-11-07",
   "ashby:mistral.ai:fe471824-c80a-4ea4-9625-2217f81c52ae": "2026-11-11",
+  "ashby:namespace:168f6c0b-a28c-4b04-9432-228a297aeedc": "2026-11-20",
   "ashby:nerdwallet:fc897ca4-9374-4f8c-8af1-59bf8ecfdd4b": "2026-11-19",
   "ashby:netic:178a50d3-f3e8-4031-829f-ce6d6f3ed245": "2026-11-15",
   "ashby:newlantern:adce896c-3fbe-4345-875d-ead3b48e6cef": "2026-11-16",
@@ -69164,6 +69165,7 @@
   "sfrmk:careers.capgemini.com:1458779833": "2026-11-20",
   "sfrmk:careers.capgemini.com:1458816333": "2026-11-20",
   "sfrmk:careers.capgemini.com:1459067433": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1459223533": "2026-11-20",
   "sfrmk:careers.chsinc.com:1447299800": "2026-11-09",
   "sfrmk:careers.chsinc.com:1450744600": "2026-11-13",
   "sfrmk:careers.consumersenergy.com:1444391400": "2026-11-13",
@@ -69426,6 +69428,7 @@
   "smartrecruiters:cityofnewyork:3743990016959286": "2026-11-19",
   "smartrecruiters:cityofnewyork:3743990016959551": "2026-11-19",
   "smartrecruiters:cityofnewyork:3743990016989966": "2026-11-20",
+  "smartrecruiters:cityofnewyork:3743990016990411": "2026-11-20",
   "smartrecruiters:dominos:744000161707674": "2026-11-16",
   "smartrecruiters:dominos:744000161708269": "2026-11-16",
   "smartrecruiters:eurofins:744000159966854": "2026-11-07",
@@ -70445,10 +70448,10 @@
  },
  "source_last": {
   "hn": "2026-11-20T08:37:15+00:00",
-  "remoteok": "2026-11-20T09:37:19+00:00",
+  "remoteok": "2026-11-20T11:37:22+00:00",
   "usajobs": "2026-11-20T10:07:14+00:00",
   "workable_search": "2026-11-20T10:07:14+00:00",
-  "wwr": "2026-11-20T10:37:20+00:00",
+  "wwr": "2026-11-20T11:37:22+00:00",
   "yc": "2026-11-20T10:07:14+00:00"
  },
  "title_rules": "c323075b4d70",
