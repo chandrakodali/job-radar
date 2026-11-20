@@ -12009,17 +12009,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 128,
+   "n": 129,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 128,
+   "n": 129,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 128,
+   "n": 129,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13325,7 +13325,7 @@
   "Jiffy": "2026-11-16",
   "Julius": "2026-11-19",
   "Kroo": "2026-11-18",
-  "Lemon.io": "2026-11-19",
+  "Lemon.io": "2026-11-20",
   "Medplum": "2026-11-18",
   "Method Financial": "2026-11-19",
   "Mindful Support Services": "2026-11-19",
@@ -13380,6 +13380,10 @@
   "2026-11-19": [
    136,
    433
+  ],
+  "2026-11-20": [
+   2,
+   3
   ]
  },
  "resolved": {
@@ -64483,6 +64487,7 @@
   "ashby:adaption:75df104c-b7c0-4337-a324-0d472da34153": "2026-11-14",
   "ashby:airbyte:735d5deb-ba6e-49b2-88ba-5ebdf8d315a0": "2026-11-14",
   "ashby:airbyte:b59bbc91-fb77-4a08-9c47-0fca7f755942": "2026-11-14",
+  "ashby:alchemi:3f99e2b7-2596-46b4-bd28-592255fd9e0b": "2026-11-20",
   "ashby:alchemi:86718005-d14f-4a9b-8ab3-00a3ab80d07f": "2026-11-19",
   "ashby:ambrook:4e463062-c104-4349-b7c4-14825f3cc44b": "2026-11-17",
   "ashby:amplitude:f65ba1d9-f809-442f-88df-453241e8d509": "2026-11-14",
@@ -65850,6 +65855,7 @@
   "eightfold:appliedmaterials:790319543510": "2026-11-17",
   "eightfold:appliedmaterials:790319544373": "2026-11-17",
   "eightfold:appliedmaterials:790319552123": "2026-11-17",
+  "eightfold:appliedmaterials:790319612104": "2026-11-20",
   "eightfold:astrazeneca:563877691444732": "2026-11-16",
   "eightfold:autodesk:1443152974635": "2026-11-16",
   "eightfold:autodesk:1443152976704": "2026-11-16",
@@ -65865,6 +65871,7 @@
   "eightfold:citi:859038803970": "2026-11-17",
   "eightfold:citi:859038804482": "2026-11-17",
   "eightfold:citi:859038804776": "2026-11-14",
+  "eightfold:citi:859038830202": "2026-11-20",
   "eightfold:citi:859038956013": "2026-11-18",
   "eightfold:citi:859039013630": "2026-11-18",
   "eightfold:citi:859039019215": "2026-11-17",
@@ -65889,6 +65896,7 @@
   "eightfold:ford:563568454085295": "2026-11-16",
   "eightfold:ford:563568454093634": "2026-11-14",
   "eightfold:ford:563568454106691": "2026-11-18",
+  "eightfold:ford:563568454162253": "2026-11-20",
   "eightfold:ford:563568454173380": "2026-11-18",
   "eightfold:ford:563568454189709": "2026-11-16",
   "eightfold:ford:563568454226663": "2026-11-17",
@@ -65975,6 +65983,7 @@
   "eightfold:nvidia:893396811046": "2026-11-16",
   "eightfold:nvidia:893396867645": "2026-11-19",
   "eightfold:nvidia:893396901698": "2026-11-19",
+  "eightfold:nvidia:893396905948": "2026-11-20",
   "eightfold:nvidia:893396953463": "2026-11-14",
   "eightfold:nvidia:893397011784": "2026-11-19",
   "eightfold:nvidia:893397145203": "2026-11-14",
@@ -65985,6 +65994,7 @@
   "eightfold:nvidia:893397528298": "2026-11-14",
   "eightfold:nvidia:893397548491": "2026-11-19",
   "eightfold:nvidia:893397606490": "2026-11-14",
+  "eightfold:nvidia:893397724522": "2026-11-20",
   "eightfold:nvidia:893397728741": "2026-11-14",
   "eightfold:nvidia:893397758186": "2026-11-19",
   "eightfold:nvidia:893397758833": "2026-11-19",
@@ -66738,6 +66748,7 @@
   "greenhouse:roblox:8350725": "2026-11-15",
   "greenhouse:roblox:8366921": "2026-11-15",
   "greenhouse:roblox:8386848": "2026-11-17",
+  "greenhouse:roblox:8397795": "2026-11-20",
   "greenhouse:rocketlab:7984938003": "2026-11-14",
   "greenhouse:rocketlab:7985574003": "2026-11-14",
   "greenhouse:rocketlab:7992127003": "2026-11-14",
@@ -68132,10 +68143,12 @@
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73152": "2026-11-16",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73264": "2026-11-14",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:73382": "2026-11-18",
+  "oracle:efds.fa.em5.oraclecloud.com|CX_1:73927": "2026-11-20",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:74073": "2026-11-18",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:74276": "2026-11-16",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:74445": "2026-11-17",
   "oracle:efds.fa.em5.oraclecloud.com|CX_1:74543": "2026-11-17",
+  "oracle:egln.fa.us2.oraclecloud.com|CX:18190": "2026-11-20",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26008913": "2026-11-14",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26010196": "2026-11-17",
   "oracle:egug.fa.us2.oraclecloud.com|CX:26011281": "2026-11-18",
@@ -69224,6 +69237,8 @@
   "smartrecruiters:captechconsulting:744000162395989": "2026-11-18",
   "smartrecruiters:captechconsulting:744000162396269": "2026-11-18",
   "smartrecruiters:captechconsulting:744000162398079": "2026-11-18",
+  "smartrecruiters:captechconsulting:744000162620689": "2026-11-20",
+  "smartrecruiters:captechconsulting:744000162620789": "2026-11-20",
   "smartrecruiters:cityofnewyork:3743990016861706": "2026-11-14",
   "smartrecruiters:cityofnewyork:3743990016959496": "2026-11-19",
   "smartrecruiters:cityofnewyork:3743990016959596": "2026-11-19",
@@ -69231,6 +69246,7 @@
   "smartrecruiters:crowninnovationsinc:744000162597789": "2026-11-19",
   "smartrecruiters:dominos:744000161708269": "2026-11-16",
   "smartrecruiters:dominos:744000161714848": "2026-11-16",
+  "smartrecruiters:experian:744000162621889": "2026-11-20",
   "smartrecruiters:hardindesign:744000160661857": "2026-11-14",
   "smartrecruiters:harvarduniversity:3743990016713616": "2026-11-14",
   "smartrecruiters:harvarduniversity:3743990016909837": "2026-11-17",
@@ -70425,7 +70441,7 @@
   "remoteok": "2026-11-19T23:46:32+00:00",
   "usajobs": "2026-11-19T22:47:13+00:00",
   "workable_search": "2026-11-19T22:47:13+00:00",
-  "wwr": "2026-11-19T23:46:32+00:00",
+  "wwr": "2026-11-20T00:45:28+00:00",
   "yc": "2026-11-19T22:47:13+00:00"
  },
  "title_rules": "72f554d20a7f",
