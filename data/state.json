@@ -11763,6 +11763,7 @@
   "greenhouse:accenturefederalservices:4727077006": "2026-11-12",
   "greenhouse:accenturefederalservices:4727151006": "2026-11-12",
   "greenhouse:assystinc:4486030009": "2026-11-12",
+  "greenhouse:axs:8949372002": "2026-11-20",
   "greenhouse:bpcs:8367696": "2026-11-12",
   "greenhouse:caredxinc:4459548009": "2026-11-12",
   "greenhouse:chaosindustries:5254839007": "2026-11-14",
@@ -12151,17 +12152,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 335,
+   "n": 336,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 335,
+   "n": 336,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 335,
+   "n": 336,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14868,7 +14869,7 @@
   }
  },
  "found_cursor": 968,
- "last_digest": "2026-11-19",
+ "last_digest": "2026-11-20",
  "missed_companies": {
   "A2Z Sync": "2026-11-20",
   "Accurant International": "2026-11-18",
@@ -66110,6 +66111,7 @@
   "avature:transcom.avature.net|careers:14394": "2026-11-15",
   "bamboohr:a3:581": "2026-11-14",
   "bamboohr:a3:584": "2026-11-14",
+  "bamboohr:abstra:242": "2026-11-20",
   "bamboohr:abstra:70": "2026-11-14",
   "bamboohr:accelbyte:29": "2026-11-15",
   "bamboohr:accelbyte:31": "2026-11-15",
@@ -66689,6 +66691,7 @@
   "dayforce:kgs|candidateportal:16107": "2026-11-14",
   "dayforce:kgs|candidateportal:16305": "2026-11-14",
   "dayforce:kgs|candidateportal:16315": "2026-11-16",
+  "dayforce:kmtire|KMTIRE:1298": "2026-11-20",
   "dayforce:landstar|CANDIDATEPORTAL:11996": "2026-11-17",
   "dayforce:mydayforce|alljobs:104700": "2026-11-14",
   "dayforce:mydayforce|indeedjobs:104701": "2026-11-14",

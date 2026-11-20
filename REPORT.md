@@ -1,6 +1,6 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**564 jobs**, newest first. Updated Fri Nov 20, 7:37 AM CST from 12,526 company job boards and other sources.
+**563 jobs**, newest first. Updated Fri Nov 20, 8:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, o
 
 Coverage check: of 2,671 matching jobs that job sites and feeds listed this week, 1,062 (39%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 20 (5)](#friday-nov-20-5) · [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (47)](#wednesday-nov-18-47) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (50)](#monday-nov-16-50) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (57)](#friday-nov-13-57)
+Jump to: [Fri 20 (5)](#friday-nov-20-5) · [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (47)](#wednesday-nov-18-47) · [Tue 17 (32)](#tuesday-nov-17-32) · [Mon 16 (50)](#monday-nov-16-50) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (57)](#friday-nov-13-57)
 
 ## Friday, Nov 20 (5)
 
@@ -114,14 +114,13 @@ Jump to: [Fri 20 (5)](#friday-nov-20-5) · [Thu 19 (37)](#thursday-nov-19-37) ·
 | 2:00 AM | [DevOps](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/905) | Eci | Dallas, TX, US; Chicago, IL, US; New Yo… | 65 |  |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 45 | location unclear |
 
-## Tuesday, Nov 17 (33)
+## Tuesday, Nov 17 (32)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:00 PM | [Senior Structural Engineer (Infrastructure Risk) (Ph.D. and P.E. or S…](https://careers-exponent.icims.com/jobs/2682/senior-structural-engineer-%28infrastructure-risk%29-%28ph.d.-and-p.e.-or-s.e.%29/job) | Exponent | Philadelphia, PA, United States | 55 | senior title, years not stated |
 | 10:37 PM (seen) | [ETQ QMS System Administrator](https://ats.rippling.com/vulcanforms/jobs/7fdb3ecd-a0c7-434c-a90f-a03eec3e0fe1) | Vulcanforms | Devens, MA (onsite) | 40 |  |
 | 6:02 PM | [Site Reliability Engineer II  - AXS](https://job-boards.greenhouse.io/aegworldwide/jobs/8949373002) | AEG | Los Angeles, CA | 50 | 4+ yrs exp; no future H-1B sponsorship |
-| 6:02 PM | [Site Reliability Engineer II](https://job-boards.greenhouse.io/axs/jobs/8949372002) | AXS | Los Angeles, CA | 50 | 4+ yrs exp; no future H-1B sponsorship |
 | 5:53 PM | [Security Site Reliability Engineer - Apple Service Engineering](https://jobs.apple.com/en-us/details/200695546/security-site-reliability-engineer-apple-service-engineering) | Apple | United States of America | 65 |  |
 | 5:39 PM | [Senior Device Reliability Engineer (AI Native)](https://job-boards.greenhouse.io/life360/jobs/8949348002) | Life360 | Fremont, CA | 40 | senior title, years not stated |
 | 4:09 PM | [Site Reliability Engineer — Info Apps](https://jobs.apple.com/en-us/details/200695296/site-reliability-engineer-info-apps) | Apple | United States of America | 65 |  |
@@ -614,7 +613,7 @@ Jump to: [Fri 20 (5)](#friday-nov-20-5) · [Thu 19 (37)](#thursday-nov-19-37) ·
 | 9:35 AM | [Software Engineer II - Observability Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804903) | JP Morgan Chase | Charlotte, NC, United States; Louisvill… | 60 |  |
 | 9:16 AM | [Cloud Engineer](https://jobs.smartrecruiters.com/PublicStorage/744000161510743-cloud-engineer) | PublicStorage | Frisco, TX, United States | 58 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (589)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (590)
 
 <details><summary>Show</summary>
 
@@ -634,6 +633,7 @@ Jump to: [Fri 20 (5)](#friday-nov-20-5) · [Thu 19 (37)](#thursday-nov-19-37) ·
 | 12:57 AM | [Senior IT Systems Engineer, Migration](https://jobs.lever.co/jobgether/dd02f32a-6fa7-4530-bca3-ab6c6dc5b6fc) | Jobgether | US (remote) | 27 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:18 PM | [Senior Platform Engineer](https://jobs.lever.co/jobgether/cf7fda3c-bb7f-4f9d-a2cf-6383f59c3288) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:00 PM | [DevSecOps Engineer](https://careers-steampunk.icims.com/jobs/8948/devsecops-engineer/job) | Steampunk | McLean, VA, United States | 50 | rules: 8+ yrs exp; E-Verify; needs: security clearance |
+| 11:00 PM | [IT Network Administrator](https://jobs.dayforcehcm.com/en-US/kmtire/KMTIRE/jobs/1298) | Kmtire | Delphos, OH, US | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:32 PM | [Senior Platform Engineer](https://jobs.ashbyhq.com/artafinance/6575896b-cc08-4626-924b-95eabaee5138) | Artafinance | Bay Area (hybrid) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 7:57 PM | [Corporate Network Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5489564008) | Anthropic | Remote-Friendly (Travel Required) / San… (remote) | 27 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 7:15 PM | [Senior Network Engineer I](https://coreweave.com/careers/job?4730965006&board=coreweave&gh_jid=4730965006) | CoreWeave | Livingston, NJ / New York, NY / San Fra… | 50 | rules: entry-level title; 5+ yrs exp; senior title; priority company;… |
@@ -1019,7 +1019,6 @@ Jump to: [Fri 20 (5)](#friday-nov-20-5) · [Thu 19 (37)](#thursday-nov-19-37) ·
 | 1:55 PM | [Network Engineer 1/2](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005497) | Berkshire Hathaway Energy | Urbandale, IA, United States | 60 | rules: entry-level title; adjacent title, little DevOps/cloud work in… |
 | 1:53 PM | [IT Platform Engineer](https://jobs.lever.co/loftorbital/5febb779-717c-40d6-9a4d-a261fe2fca09) | Loft Orbital | Golden, CO (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 1:37 PM (seen) | [Network Engineer II, Temporary](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=987781&lang=en) | UT Southwestern Medical Center | Texas-Dallas-3000 Pegasus Park | 5 | rules: 8+ yrs exp; no future H-1B sponsorship; asks for 8+ years of e… |
-| 12:59 PM | [Senior Hardware Build Reliability Engineer](https://job-boards.greenhouse.io/vardaspace/jobs/8203760003) | Varda Space | El Segundo, California, United States | 50 | rules: 5+ yrs exp; senior title; E-Verify; needs: ITAR |
 
 </details>
 
