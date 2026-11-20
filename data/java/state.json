@@ -12009,17 +12009,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 135,
+   "n": 136,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 135,
+   "n": 136,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 135,
+   "n": 136,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13382,8 +13382,8 @@
    433
   ],
   "2026-11-20": [
-   39,
-   119
+   42,
+   123
   ]
  },
  "resolved": {
@@ -64898,6 +64898,7 @@
   "avature:dth.avature.net|careers:27789": "2026-11-15",
   "avature:dth.avature.net|careers:27798": "2026-11-19",
   "avature:dth.avature.net|careers:27803": "2026-11-18",
+  "avature:dth.avature.net|careers:27809": "2026-11-20",
   "avature:forvis.avature.net|experiencedcareers:15801": "2026-11-15",
   "avature:harmanglobal.avature.net|en_US/careers:33277": "2026-11-14",
   "avature:harmanglobal.avature.net|en_US/careers:33333": "2026-11-17",
@@ -65966,6 +65967,7 @@
   "eightfold:nvidia:893382124964": "2026-11-15",
   "eightfold:nvidia:893382217899": "2026-11-20",
   "eightfold:nvidia:893382249378": "2026-11-19",
+  "eightfold:nvidia:893383806920": "2026-11-20",
   "eightfold:nvidia:893391032332": "2026-11-17",
   "eightfold:nvidia:893391224587": "2026-11-19",
   "eightfold:nvidia:893391914089": "2026-11-17",
@@ -65979,6 +65981,7 @@
   "eightfold:nvidia:893393629050": "2026-11-19",
   "eightfold:nvidia:893393995118": "2026-11-19",
   "eightfold:nvidia:893394111963": "2026-11-19",
+  "eightfold:nvidia:893394169982": "2026-11-20",
   "eightfold:nvidia:893394206080": "2026-11-19",
   "eightfold:nvidia:893394241567": "2026-11-14",
   "eightfold:nvidia:893394369057": "2026-11-19",
@@ -66001,6 +66004,8 @@
   "eightfold:nvidia:893396905948": "2026-11-20",
   "eightfold:nvidia:893396953463": "2026-11-14",
   "eightfold:nvidia:893397011784": "2026-11-19",
+  "eightfold:nvidia:893397026201": "2026-11-20",
+  "eightfold:nvidia:893397026205": "2026-11-20",
   "eightfold:nvidia:893397145203": "2026-11-14",
   "eightfold:nvidia:893397231867": "2026-11-15",
   "eightfold:nvidia:893397487444": "2026-11-15",
@@ -66009,11 +66014,19 @@
   "eightfold:nvidia:893397528298": "2026-11-14",
   "eightfold:nvidia:893397548491": "2026-11-19",
   "eightfold:nvidia:893397606490": "2026-11-14",
+  "eightfold:nvidia:893397659589": "2026-11-20",
+  "eightfold:nvidia:893397676085": "2026-11-20",
+  "eightfold:nvidia:893397704015": "2026-11-20",
+  "eightfold:nvidia:893397706210": "2026-11-20",
   "eightfold:nvidia:893397724522": "2026-11-20",
   "eightfold:nvidia:893397728741": "2026-11-14",
+  "eightfold:nvidia:893397754081": "2026-11-20",
+  "eightfold:nvidia:893397756209": "2026-11-20",
   "eightfold:nvidia:893397758186": "2026-11-19",
   "eightfold:nvidia:893397758833": "2026-11-19",
   "eightfold:nvidia:893397787398": "2026-11-14",
+  "eightfold:nvidia:893397802591": "2026-11-20",
+  "eightfold:nvidia:893397803934": "2026-11-20",
   "eightfold:nvidia:893397813968": "2026-11-19",
   "eightfold:nvidia:893397817857": "2026-11-19",
   "eightfold:nvidia:893397829507": "2026-11-16",
@@ -66082,7 +66095,9 @@
   "eightfold:qualcomm|qualcomm.com:446722119778": "2026-11-18",
   "eightfold:qualcomm|qualcomm.com:446722159183": "2026-11-17",
   "eightfold:qualcomm|qualcomm.com:446722230518": "2026-11-20",
+  "eightfold:ralliant:1133916826683": "2026-11-20",
   "eightfold:ralliant|ralliant.com:1133916465622": "2026-11-14",
+  "eightfold:ralliant|ralliant.com:1133916826683": "2026-11-20",
   "eightfold:trinet:45463947": "2026-11-16",
   "gem:11x-ai:am9icG9zdDpN0ovTmygawbCJq-vsmqN2": "2026-11-14",
   "gem:11x-ai:am9icG9zdDqF-wiN3SEI1gNIRWm2ctQy": "2026-11-14",
@@ -68299,6 +68314,7 @@
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:304972": "2026-11-19",
   "oracle:iaziqy.fa.ocs.oraclecloud.com|CX_1:305152": "2026-11-19",
   "oracle:ibqbjb.fa.ocs.oraclecloud.com|Honeywell:161747": "2026-11-14",
+  "oracle:ibwujb.fa.ocs.oraclecloud.com|CX_1001:11253": "2026-11-20",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210741625": "2026-11-14",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210745587": "2026-11-17",
   "oracle:jpmc.fa.oraclecloud.com|CX_1001:210752951": "2026-11-18",
@@ -70511,7 +70527,7 @@
   "remoteok": "2026-11-20T06:18:40+00:00",
   "usajobs": "2026-11-20T05:15:30+00:00",
   "workable_search": "2026-11-20T05:15:30+00:00",
-  "wwr": "2026-11-20T06:18:40+00:00",
+  "wwr": "2026-11-20T07:18:00+00:00",
   "yc": "2026-11-20T05:15:30+00:00"
  },
  "title_rules": "72f554d20a7f",
