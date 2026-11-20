@@ -1,6 +1,6 @@
 Build with us.
 Help fix the domestic electronics manufacturing supply chain.
-We're looking for ambitious people to build the software and manufacturing behind American electronics.
+We're looking for ambitious people to build the software, manufacturing, and operations behind American electronics.
 View open roles
 Open roles
 San Francisco, CA · Full-time
@@ -13,3 +13,7 @@ Equity
 View role
 Founding Engineer
 $100K–$160K
+Operations
+Keep customers, suppliers, and manufacturing moving.
+$100K–$140K
+0.5–1.5%

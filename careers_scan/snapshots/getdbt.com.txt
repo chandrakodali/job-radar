@@ -74,7 +74,6 @@ Bangalore, India
 Senior Software Engineer, Metadata
 Ontario, Canada
 Senior Engineering Manager, dbt Engine
-Software Engineer II
 Staff Software Engineer, Metadata
 Oakland, California, United States
 Engineering Manager, Metadata

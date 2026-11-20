@@ -226,7 +226,7 @@ Get Jcode Desktop
 Changelog
 Releases and changelog . Full history on GitHub releases .
 Unreleased
-2026-11-19 · today
+2026-11-19 · 1d ago
 Changes since v1.0.1
 Automatically listed from commit messages.
 docs attribute allocator discrepancy with matched cache controls
@@ -330,12 +330,12 @@ commit Clear a linked worker plan when its last lane item is withdrawn
 commit Withdraw todos by name with an archived reason and prerequisite checks
 commit Announce published Linux self-dev prereleases in Discord updates
 v1.0.1
-2026-11-18 · 1d ago
+2026-11-18 · 2d ago
 Model catalog fix
 Release highlights.
 highlight Newly released models such as GPT-6.2 Sol appear in the model picker even when live catalog updates arrive while an agent is busy
 v1.0.0
-2026-11-17 · 2d ago
+2026-11-17 · 3d ago
 Swarms, Cloud, and a lighter terminal
 highlight Reworked swarms plan jobs in phases and parallel lanes, automatically start workers as dependencies finish, and show the whole team's progress in one pinned view
 highlight jcode Cloud officially launches: move a session or coordinated swarm to a VM with /cloud, keep working after disconnecting, and bring the conversation and repository back with /local

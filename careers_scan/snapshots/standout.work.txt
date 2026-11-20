@@ -8,7 +8,7 @@ Seed · $5.5M
 Founded 2025
 Website LinkedIn X / Twitter
 About Standout
-Standout operates an AI-powered talent agent and hiring marketplace for technology professionals and startups. Its agents assess candidates and hiring needs, then facilitate direct introductions when both sides are interested. Candidate representation is free, while companies pay when they hire.
+Standout is an AI talent-agent and hiring marketplace that builds AI agents representing both technology professionals and hiring companies to assess fit and arrange direct introductions. The service is free for candidates, while companies pay when they hire. Founded in 2025 and based in San Francisco, Standout is backed by Y Combinator and has launched products including a developer CLI and 'AI Wrapped' feature.
 Open positions ( 4 )
 Founding AI Product Engineer
 Full-time

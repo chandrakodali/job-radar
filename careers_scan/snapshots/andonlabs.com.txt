@@ -28,7 +28,7 @@ collaborations with the AI labs.
 Roles
 We're looking for research scientists, research engineers, software engineers, and design
 engineers to build this future. Things move fast, which makes specifying the exact
-responsibilities of roles hard. Below are the three areas of work we are currently most
+responsibilities of roles hard. Below are the four areas of work we are currently most
 interested in:
 Research/Engineering: AI Safety and Evals
 We don't believe model alignment will be guaranteed as capabilities increase. Nor will humans be
@@ -36,6 +36,12 @@ able to stay in the loop and keep up with every step an agent takes.
 Your role would be to design and run evals that probe AI behavior in real-world deployments —
 figuring out what to measure, interpreting results, and having the research taste to know what
 experiment to run next. You'd also help implement control protocols to keep our SAOs safe.
+Junior AI Safety Researcher
+We’re hiring junior safety researchers to become experts at understanding why our agents take
+the actions they do.
+Your day to day will involve reading and analyzing the traces of our real world deployments,
+creating and testing hypotheses for what’s driving agent behavior, and using this insight to
+inform how we should build our monitoring and control protocols.
 Software/Entrepreneurial: Scaling SAOs
 What should be our next SAO? A farm? An AI lab? Or maybe a chip fab?
 AI safety can't be solved in the lab. We need our SAOs to be everywhere in society. You would

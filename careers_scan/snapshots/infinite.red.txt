@@ -1,13 +1,10 @@
-Building community
-Open Source
-Podcasts
-Talks
-Newsletters
-Chain React Conf
-Building your apps, anywhere they need to be.
-Infinite Red is known world-wide as the U.S.-based software agency
-when you want the highest quality software and top-notch team.
-Our highly skilled software developers (averaging 15 years of professional software development experience) have built hundreds of apps across mobile, web, desktop, and beyond in technologies such as React Native , Expo , Swift , and Kotlin over the last decade, and now are leading the way in agentic coding.
+Mercari
+GasBuddy
+Zoom
+The US-based software team trusted by enterprise and startups alike for over a decade.
+Infinite Red is known world-wide as the top expert software agency
+when you want a stress-free and successful software project.
+Our highly skilled US-based software developers (averaging 15 years of professional software development experience) have built hundreds of apps across mobile, web, desktop, and beyond in technologies such as React Native , Expo , Swift , and Kotlin over the last decade, and now are leading the way in agentic coding.
 Let's talk about your project →
 Infinite Red's reputation comes from more than a decade in software development.
 Infinite Red's team of highly experienced U.S.-based engineers has been building impactful software for over a decade. We've been around long enough to know how this industry works and what makes great software.
@@ -33,10 +30,7 @@ Listen to episodes
 Infinite Red is the team
 companies turn to
 for software that scales.
-Mercari
 See the case study
-Zoom
-GasBuddy
 "There is no substitute for experience in getting the “idiom” of React Native and avoiding the numerous dark alleys around state management, performance tuning and third party module selection. Our team at Infinite Red has provided this
 throughout our project."
 Max Metral

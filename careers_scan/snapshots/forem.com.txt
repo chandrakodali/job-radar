@@ -14,75 +14,72 @@ Nov 19
 # ai
 # career
 # programming
-98 reactions
-42 comments
+101 reactions
+51 comments
 11 min read
-The Executive Mindset: From Technical Certainty to Strategic Trade-offs
-Ricardo Vano
-# leadership
-# management
-Add Comment
-5 min read
-Moving to Spain as a developer: digital nomad visa, the 183 days, Beckham law, Modelo 720 and crypto
-Valentin
-# remote
-# spain
-# tax
-4 min read
-They are literally "Decision" models!!! The threat was in the name the whole time.
-Sumama-Jameel
-# futurechallenge
-5 reactions
-2 comments
-2 min read
-Why Most ATS Scanners Store Your Resume Data (And How We Built an In-Memory Python Alternative)
-notghosty
-# tech
-# jobs
-# recruiting
-3 min read
-What pypdf and pdfminer found in LaTeX and Quarto resume PDFs
-Michael Wilson
-# python
-Handling async interview deadlines across time zones
-Jack Ma
-# backend
-# interview
-Why it’s sometimes easier to talk to AI than to a person
-She Builds Within
-# mentalhealth
-# productivity
-Oct 10–11. Testing it like a stranger would
-Abdul Wasay Lodhi
-# showdev
-# webdev
-# buildinpublic
-1 reaction
-1 min read
-How to become an AI engineer, in three steps
-Joel Stevick
+In 2022 I learned to build Android apps in a country where I could not publish one
+Saifuddin Ahmed
+Nov 20
+# android
 # beginners
-# rag
-I give instructions to a machine worse than I talk to people
-Maksim Ilin
-# prompting
-Your Release Cadence Is a P&L Line, Not Just an Engineering Metric
-Sherdil Cloud
+# motivation
+Add Comment
+3 min read
+How to Read a Codebase You've Never Seen (Without Getting Lost)
+mubert woo
+# learning
+5 min read
+I Thought Building Websites Was About Coding. I Was Wrong.
+Shahanaz
+# softwaredevelopment
+# softwareengineering
+# webdev
+How to Scrape Job Listings from Greenhouse, Lever and Ashby Career Pages (Python and No-Code)
+Web Obsidians
+# python
+# webscraping
+# api
+Why adding engineers made our delivery slower
+Aryan Bulandi
+# productivity
 # devops
-# cicd
-# finops
-The Claude Architect Professional exam changes on 7 December - Here is what's different
-Michael F
-# claude
-# certification
-I Need Your Help Choosing a Final Year Project
-Anushka Quietly Building
-# projectbenatar
-# machinelearning
-First Day in Enterprise IT: No Git, No CI/CD, Just JDK 8 & TortoiseSVN
-Totolis IT
-# watercooler
-# java
+1 min read
+How I prepare EM candidates to answer 30 leadership questions with 12 stories
+RainbowRoadPrep
+# engineeringmanager
+# interview
+# leadership
+Write your scope of work like a spec
+Mo Arfaj
+# freelancing
+9 min read
+You Can Outsource the Work, Not the Ownership
+Pranay Ravi
+# database
+8 min read
+After the Thirty-Six Stratagems: Three Questions
+Real DEV stats and reader comments inside
+74 reactions
+32 comments
+4 min read
+From Sales to Software Engineer: How I Got to a Leading Japanese IT Company in 5 Years
+Sora Terui
+The invoice I was too polite to chase (and the 3-line follow-up I send now)
+lululapeng
+2 min read
+5 Things About Japanese Hiring That Foreigners Always Get Wrong
+Yama
+# japan
+# worklife
+Who is hiring right now? I scanned 8,000 company career sites (November 2026)
+ProStyropor Data
+# hiring
+# llm
+New Jersey's Mini-WARN Act: 90 Days' Notice and Mandatory Severance
+Layoff Atlas
+# news
+# data
+# newjersey
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Remembering Steven Schrembeck
 Frontend Isn't Dead. But the Job Title Is Changing
@@ -92,22 +89,22 @@ The Death of Freelance Platforms: Why Upwork & Fiverr Stocks Are Collapsing in t
 People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?
 Should You Still Learn to Code in 2026? An Honest Take From a Student Who's Still Grinding
 The Quiet Weight of Working in Tech in the AI Era
+Don't Be a Proxy Between Me and Your AI
 Google's New SDLC Whitepaper: From Vibe Coding to Agentic Engineering
 Salesforce SMTS Interview Experience (Offer Accepted)
-Don't Be a Proxy Between Me and Your AI
 Are we software engineers doomed? Yes, because of AI!
 A Simple Guide to Passing the Claude Certified Developer Exam
 AI Reduced the Cost of Coding. Did It Increase the Cost of Thinking?
-What an Anthropic hiring manager stopped asking candidates to do
 My AI-assisted coding interview was a lesson in reading unfamiliar code
+What an Anthropic hiring manager stopped asking candidates to do
 Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
 The Software Entropy in the AI Era
 The Ever Changing Profession of Software Engineering
 Company career page scraper: every open job from any company, by name or domain
 Emotional Deadlocks: When Two People Wait for Each Other to Change First
 DuckLake 1.0 and Iceberg 1.11: What a Data Engineer Should Know
-TopAccess: Freelancer Review
 DevOps / SRE Interview Master Guide
+TopAccess: Freelancer Review
 No Human Will Ever Write Code Better Than LLMs? Better at What?
 We're a place where coders share, stay up-to-date and grow their careers.
 Log in
