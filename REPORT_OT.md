@@ -1,12 +1,14 @@
 # OT Network Engineer jobs in the US: posted in the last 7 days
 
-**14 jobs**, newest first. Updated Fri Nov 20, 10:01 AM CST from 12,526 company job boards.
+**15 jobs**, newest first. Updated Fri Nov 20, 10:57 AM CST from 12,526 company job boards.
 
 US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and OT security roles; controls, automation or network titles only when the job is about networks in an OT/industrial setting). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
+1 repeat listings (same company and title in another place or on another source) are merged into one row.
+
 Coverage check: of 34 matching jobs that job sites and feeds listed this week, 11 (32%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (2)](#thursday-nov-19-2) · [Tue 17 (2)](#tuesday-nov-17-2) · [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (1)](#sunday-nov-15-1) · [Fri 13 (2)](#friday-nov-13-2)
+Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (2)](#tuesday-nov-17-2) · [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (1)](#sunday-nov-15-1) · [Fri 13 (2)](#friday-nov-13-2)
 
 ## Friday, Nov 20 (6)
 
@@ -25,6 +27,12 @@ Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (2)](#thursday-nov-19-2) · [
 |---|---|---|---|---:|---|
 | 12:55 PM | [Senior Control Systems Engineer (ABB)](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/169055) | Clean Harbors | Deer Park, TX, United States; Aragonite… | 40 | senior title, years not stated; OT network work in the text |
 | date only | [Power Generation SCADA Controls Engineer](https://jobs.nexteraenergy.com/job/Palm-Beach-Gardens-Power-Generation-SCADA-Controls-Engineer-FL-33410/1452416500/) | NextEra Energy | Palm Beach Gardens, FL, United States | 68 | 2+ yrs exp |
+
+## Wednesday, Nov 18 (1)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| 1:57 PM | [Lab IT/OT Systems Administrator - CONTRACT, Cambridge, MA](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=567e686e-7575-49d9-b29f-985e7365f987&ccId=19000101_000001&jobId=9202921583278_1&lang=en_US) | 567E686E 7575 49D9 B29F 985E7… | Cambridge, MA | 53 | 3+ yrs exp |
 
 ## Tuesday, Nov 17 (2)
 
@@ -52,7 +60,7 @@ Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (2)](#thursday-nov-19-2) · [
 | 12:41 PM | [Lab IT/OT Systems Administrator](https://job-boards.greenhouse.io/lilasciences/jobs/4505109009) | Lila Sciences | Cambridge, MA USA | 63 | 2+ yrs exp |
 | date only | [Instrumentation & Controls Engineer](https://jobs.exxonmobil.com/ExxonMobil/job/Beaumont-Instrumentation-&-Controls-Engineer-TX-77701/1450550700/) | ExxonMobil | Beaumont, TX, United States | 30 | 3+ yrs exp; OT network work in the text |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (14)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (15)
 
 <details><summary>Show</summary>
 
@@ -62,6 +70,7 @@ Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (2)](#thursday-nov-19-2) · [
 | 6:22 PM | [Senior Industrial Security Analyst](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5490199008) | K2 Space | Los Angeles, CA | 45 | rules: 10+ yrs exp; senior title; needs: Security Clearance |
 | 11:05 AM | [Security Engineer, Operational Technology- Remote (Anywhere in the U.…](https://boards.greenhouse.io/guidepointsecurity/jobs/6266326004?gh_jid=6266326004) | GuidePoint Security | Remote (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:00 AM | [OT Infrastructure Engineer - Southeast](https://jobs.dayforcehcm.com/en-US/inframark/CANDIDATEPORTAL/jobs/13492) | Inframark | North Charleston, SC, US; Norcross, GA,… | 38 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 7:01 PM | [Controls Engineer III](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6e5e668b-df4e-4982-ad00-158f7895f112&ccId=9201700435142_2&jobId=9207821749098_51&lang=en_US) | 6E5E668B Df4E 4982 Ad00 158F7… | Bayou La Batre, AL | 23 | rules: 5+ yrs exp; senior title; OT network work in the text; needs: … |
 | 4:47 PM | [Senior Infrastructure Security Engineer (Cloud & On-Prem)](https://job-boards.greenhouse.io/valaratomics/jobs/4510605009) | Valaratomics | Torrance, California, United States | 23 | rules: 7+ yrs exp; senior title; OT network work in the text; needs: … |
 | 11:54 AM | [Industrial Security Specialist III](https://careers.akima.com/jobs/28052?lang=en-us) | Akima | Rosslyn, Virginia | 38 | rules: 5+ yrs exp; senior title; needs: security clearance |
 | 7:20 PM | [Industrial Security Specialist](https://jobs.ashbyhq.com/hadrian-automation/66993080-87be-4608-82e5-780d3757358c) | Hadrian | Los Angeles, CA (onsite) | 53 | rules: 4+ yrs exp; needs: security clearance |
