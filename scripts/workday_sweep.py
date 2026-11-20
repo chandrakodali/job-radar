@@ -69,10 +69,15 @@ def sweep(cache: dict, boards: list[Board], budget_s: float, days: int, max_page
             if e.status == 429:
                 stats["rate_limited"] += 1
                 limited_in_row += 1
+                if stats["ok"] == 0 and limited_in_row >= 2:
+                    log.warning("Workday refuses this machine from the start (it blocks many GitHub machines): "
+                                "stopping without asking further")
+                    stats["refused"] = True
+                    break
                 if limited_in_row >= 8:
                     log.warning("Workday keeps answering 'too many requests': stopping this sweep early")
                     break
-                time.sleep(min(120, 15 * limited_in_row))
+                time.sleep(min(60, 10 * limited_in_row))
                 continue
             stats["failed"] += 1
             entries[b.key] = {"at": now.isoformat(timespec="minutes"), "error": str(e)[:60],

@@ -285,6 +285,8 @@ def run(args) -> int:
         return f"{b.ats}:{b.board.split('|')[0].lower()}" if b.ats in PER_SITE_LIMITS else b.ats
 
     def limit_for(b: Board) -> int:
+        if b.ats == "workday" and args.only == ["workday"]:
+            return 2      # Workday refuses many GitHub machines outright: stop asking after two refusals
         return 2 if b.ats in PER_SITE_LIMITS else 400   # shared APIs slow down by themselves (radar/http.py)
 
     def fetch_board(b: Board):

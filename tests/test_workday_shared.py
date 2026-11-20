@@ -50,3 +50,13 @@ def test_sweep_keeps_recent_jobs_oldest_boards_first_and_stops_on_rate_limits(mo
     assert "workday:gone|wd1|a" not in cache["boards"]              # boards no longer listed are dropped
     assert [d["job_id"] for d in cache["boards"]["workday:old|wd1|a"]["jobs"]] == ["1"]   # 40-day-old job left out
     assert stats["rate_limited"] == 1 and stats["ok"] == 2
+
+
+def test_sweep_stops_at_once_when_refused(monkeypatch):
+    def refused(b, **k):
+        raise FetchError("rate limited", 429)
+    monkeypatch.setattr(ATS, "workday_list", refused)
+    monkeypatch.setattr(W.time, "sleep", lambda s: None)
+    boards = [Board("workday", f"c{i}|wd1|a", f"C{i}") for i in range(10)]
+    stats = W.sweep({"boards": {}}, boards, budget_s=60, days=10, max_pages=5)
+    assert stats.get("refused") and stats["rate_limited"] == 2
