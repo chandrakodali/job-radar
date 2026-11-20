@@ -11666,11 +11666,6 @@
   "lever:jobgether:d85e5901-67b6-4807-aa43-4b76e86064b2": "2026-11-19"
  },
  "fails": {
-  "apple:usa": {
-   "err": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed ou",
-   "n": 1,
-   "since": "2026-11-20"
-  },
   "ashby:Airweave": {
    "disabled_until": "2026-11-27",
    "err": "HTTP 404",
@@ -12027,17 +12022,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 158,
+   "n": 159,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 158,
+   "n": 159,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 158,
+   "n": 159,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -13865,8 +13860,8 @@
    624
   ],
   "2026-11-20": [
-   19,
-   80
+   36,
+   152
   ]
  },
  "resolved": {
@@ -64986,6 +64981,7 @@
   "amazon:us:10609911": "2026-11-19",
   "amazon:us:10609930": "2026-11-19",
   "amazon:us:10610057": "2026-11-20",
+  "amazon:us:10610060": "2026-11-20",
   "apple:usa:200555687": "2026-11-14",
   "apple:usa:200607680": "2026-11-14",
   "apple:usa:200624249": "2026-11-17",
@@ -65026,6 +65022,7 @@
   "apple:usa:200692995": "2026-11-14",
   "apple:usa:200693159": "2026-11-16",
   "apple:usa:200693162": "2026-11-16",
+  "apple:usa:200693165": "2026-11-20",
   "apple:usa:200693202": "2026-11-14",
   "apple:usa:200693249": "2026-11-14",
   "apple:usa:200693280": "2026-11-14",
@@ -65164,17 +65161,26 @@
   "apple:usa:200695754": "2026-11-18",
   "apple:usa:200695771": "2026-11-18",
   "apple:usa:200695785": "2026-11-19",
+  "apple:usa:200695802": "2026-11-20",
   "apple:usa:200695814": "2026-11-19",
   "apple:usa:200695822": "2026-11-19",
+  "apple:usa:200695841": "2026-11-20",
   "apple:usa:200695877": "2026-11-19",
   "apple:usa:200695936": "2026-11-19",
   "apple:usa:200695937": "2026-11-19",
+  "apple:usa:200695956": "2026-11-20",
+  "apple:usa:200695966": "2026-11-20",
   "apple:usa:200695991": "2026-11-19",
   "apple:usa:200696004": "2026-11-19",
   "apple:usa:200696012": "2026-11-19",
   "apple:usa:200696013": "2026-11-19",
+  "apple:usa:200696017": "2026-11-20",
   "apple:usa:200696034": "2026-11-19",
   "apple:usa:200696049": "2026-11-19",
+  "apple:usa:200696100": "2026-11-20",
+  "apple:usa:200696105": "2026-11-20",
+  "apple:usa:200696106": "2026-11-20",
+  "apple:usa:200696147": "2026-11-20",
   "ashby:1password:13200311-77c5-49ed-a3ce-8460d5c72d91": "2026-11-13",
   "ashby:1password:15658971-e4f4-490b-97fe-5e716ddab770": "2026-11-13",
   "ashby:42dot:26f79b07-2ffc-44a3-9d92-36111d18fb34": "2026-11-13",
@@ -68807,6 +68813,7 @@
   "eightfold:ericsson:563121777388378": "2026-11-16",
   "eightfold:ericsson:563121777528380": "2026-11-14",
   "eightfold:ericsson:563121777586028": "2026-11-19",
+  "eightfold:ericsson:563121777588433": "2026-11-20",
   "eightfold:ericsson:563121777590798": "2026-11-19",
   "eightfold:ericsson:563121777597821": "2026-11-14",
   "eightfold:ericsson:563121777600972": "2026-11-19",
@@ -69027,6 +69034,7 @@
   "eightfold:qualcomm:446722197774": "2026-11-19",
   "eightfold:qualcomm:446722198444": "2026-11-19",
   "eightfold:qualcomm:446722201254": "2026-11-19",
+  "eightfold:qualcomm:446722230518": "2026-11-20",
   "eightfold:qualcomm|qualcomm.com:446714967451": "2026-11-14",
   "eightfold:qualcomm|qualcomm.com:446718152206": "2026-11-19",
   "eightfold:qualcomm|qualcomm.com:446718388725": "2026-11-13",
@@ -74243,6 +74251,7 @@
   "jobvite:nirvc:oplQAfwU": "2026-11-15",
   "jobvite:nuscale-power:oNWWAfwZ": "2026-11-15",
   "jobvite:nuscale-power:oxBXAfwp": "2026-11-15",
+  "jobvite:nutanix:o2lOAfwv": "2026-11-20",
   "jobvite:nutanix:oEJIAfwp": "2026-11-13",
   "jobvite:nutanix:oErXAfwm": "2026-11-13",
   "jobvite:nutanix:oI7QAfwZ": "2026-11-13",
@@ -74630,6 +74639,7 @@
   "lever:jobgether:fa7c704c-b327-4f4e-ae7b-d69defd2649a": "2026-11-17",
   "lever:jobgether:fabe766f-e37f-40c8-8184-713224f7123b": "2026-11-17",
   "lever:jobgether:fe5cb112-3048-4a40-81dd-60aa21a1f790": "2026-11-19",
+  "lever:jobgether:ff59447a-0ae0-4db3-a963-45166c491862": "2026-11-20",
   "lever:kgroupcompanies:86c0a0ab-d8a7-4325-8d29-4b14b9fe3d6b": "2026-11-13",
   "lever:kgroupcompanies:b49d56fd-7003-424d-8724-800241a5e2d0": "2026-11-13",
   "lever:kgroupcompanies:b8096fa5-50dd-4147-9caa-744a562c4806": "2026-11-13",
@@ -75749,6 +75759,7 @@
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2030499EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2030532EXTERNALENGLOBAL": "2026-11-19",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2030630EXTERNALENGLOBAL": "2026-11-16",
+  "phenom:careers.cisco.com|global/en:CISCISGLOBAL2031405EXTERNALENGLOBAL": "2026-11-20",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2031538EXTERNALENGLOBAL": "2026-11-19",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2031561EXTERNALENGLOBAL": "2026-11-13",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2031593EXTERNALENGLOBAL": "2026-11-13",
@@ -78461,6 +78472,7 @@
   "smartrecruiters:eurofins:744000161921349": "2026-11-16",
   "smartrecruiters:eurofins:744000162114429": "2026-11-17",
   "smartrecruiters:eurofins:744000162121369": "2026-11-17",
+  "smartrecruiters:eurofins:744000162654219": "2026-11-20",
   "smartrecruiters:eversana1:744000160943474": "2026-11-13",
   "smartrecruiters:expeditors:744000161172899": "2026-11-15",
   "smartrecruiters:expeditors:744000162126239": "2026-11-17",
@@ -79418,6 +79430,8 @@
   "workday:agilent|wd5|Agilent_Careers:4040775": "2026-11-17",
   "workday:agilent|wd5|Agilent_Student_Careers:4040676": "2026-11-18",
   "workday:agilent|wd5|Agilent_Student_Careers:4040677": "2026-11-18",
+  "workday:agiliti|wd5|careers:JR44932": "2026-11-20",
+  "workday:agiliti|wd5|careers:JR44933": "2026-11-20",
   "workday:ag|wd3|Airbus:JR10406824": "2026-11-13",
   "workday:ag|wd3|Airbus:JR10408723": "2026-11-13",
   "workday:ag|wd3|Airbus:JR10416354": "2026-11-13",
@@ -82451,8 +82465,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-20T01:49:37+00:00",
-  "yc": "2026-11-20T01:49:37+00:00"
+  "workable_search": "2026-11-20T04:47:50+00:00",
+  "yc": "2026-11-20T04:47:50+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
