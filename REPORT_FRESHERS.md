@@ -1,19 +1,21 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**568 jobs**, newest first. Updated Fri Nov 20, 3:48 AM CST from 12,526 company job boards and other sources.
+**569 jobs**, newest first. Updated Fri Nov 20, 4:48 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-255 repeat listings (same company and title in another place or on another source) are merged into one row.
+254 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,477 matching jobs that job sites and feeds listed this week, 859 (19%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 4,550 matching jobs that job sites and feeds listed this week, 876 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 20 (7)](#friday-nov-20-7) · [Thu 19 (72)](#thursday-nov-19-72) · [Wed 18 (57)](#wednesday-nov-18-57) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (140)](#saturday-nov-14-140) · [Fri 13 (139)](#friday-nov-13-139)
+Jump to: [Fri 20 (9)](#friday-nov-20-9) · [Thu 19 (72)](#thursday-nov-19-72) · [Wed 18 (57)](#wednesday-nov-18-57) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (140)](#saturday-nov-14-140) · [Fri 13 (138)](#friday-nov-13-138)
 
-## Friday, Nov 20 (7)
+## Friday, Nov 20 (9)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Associate Engineer](https://element-ext-row.icims.com/jobs/20384/associate-engineer/job) | Element Materials Technology |  | 70 | entry-level title; location unclear |
+| 4:32 AM | [2027 Graduate Programme - Property & Buildings Structures](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95813) | WSP | London, United Kingdom; Stockton-On-Tee… | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, St Louis Galler…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826788) | Macy's | Saint Louis, MO, United States | 75 | entry-level title |
 | 3:27 AM | [Administrative Support Team Associate, Stanford - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826742) | Macy's | Palo Alto, CA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, South Coast Pla…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826737) | Macy's | Costa Mesa, CA, United States | 75 | entry-level title |
@@ -474,7 +476,7 @@ Jump to: [Fri 20 (7)](#friday-nov-20-7) · [Thu 19 (72)](#thursday-nov-19-72) ·
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Town Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825084) | Macy's | Kennesaw, GA, United States | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Serramonte](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825080) | Macy's | Daly City, CA, United States | 75 | entry-level title |
 
-## Friday, Nov 13 (139)
+## Friday, Nov 13 (138)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -616,9 +618,8 @@ Jump to: [Fri 20 (7)](#friday-nov-20-7) · [Thu 19 (72)](#thursday-nov-19-72) ·
 | 8:10 AM | [Data Analyst I](https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2296) | Tulane University | New Orleans, LA, United States (onsite) | 85 | entry-level title; likely H-1B cap-exempt (verify) |
 | 7:42 AM | [Integrated Systems Technician](https://job-boards.greenhouse.io/vscfiresecurityinc/jobs/5479099008) | VSC Fire & Security | Virginia Beach, Virginia, United States | 75 | 1+ yrs exp |
 | 5:34 AM | [IT Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016837011-it-specialist) | Cityofnewyork | New York City, NY, United States | 68 | entry level (from the text) |
-| 3:53 AM | [Business Developer](https://job-boards.eu.greenhouse.io/ebury/jobs/5024254101) | Ebury | Málaga | 70 | entry level (from the text); location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (4093)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (4096)
 
 <details><summary>Show</summary>
 
@@ -630,6 +631,8 @@ Jump to: [Fri 20 (7)](#friday-nov-20-7) · [Thu 19 (72)](#thursday-nov-19-72) ·
 | date only | [Quality Assurance Engineer, Amazon Leo Console](https://www.amazon.jobs/en/jobs/10609923/quality-assurance-engineer-amazon-leo-console) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Machine Learning Engineer, Evaluation](https://mpathic2.bamboohr.com/careers/133) | Mpathic2 | United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Machine Learning Engineer, Data Products](https://mpathic2.bamboohr.com/careers/134) | Mpathic2 | Remote | 70 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
+| 4:55 AM | [Founding Analytics Engineer](https://jobs.lever.co/jobgether/5960e589-b68a-478d-8842-501377a42e71) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 4:54 AM | [GTM Systems Engineer](https://jobs.lever.co/jobgether/747a5274-fad2-4fae-8d79-e3f20bb87b52) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 4:07 AM | [Commercial CRM and Automation Administrator](https://jobs.lever.co/jobgether/0528d845-48ca-4b89-a270-4458c1782b30) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 3:38 AM | [SkillBridge - QA/QC Engineer](https://jobs.lever.co/jobgether/c2917d30-f33e-4410-8f6b-c4cd7db7edcf) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 3:37 AM | [Model-Based Systems Engineer](https://jobs.lever.co/jobgether/4a249e59-0ffe-4359-a79f-3ba322581cd0) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; needs: U.S. citizenship is required |
@@ -831,6 +834,7 @@ Jump to: [Fri 20 (7)](#friday-nov-20-7) · [Thu 19 (72)](#thursday-nov-19-72) ·
 | date only | [Systems Validation Engineer](https://nvidia.eightfold.ai/careers/job/893384053525) | Nvidia | Santa Clara, CA, US (onsite) | 58 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Control System Engineer](https://careers.tranetechnologies.com/global/en/job/TRTEGLOBALJR19450EXTERNALENGLOBAL) | Trane Technologies | Haslet, Texas, United States of America | 38 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Leader, Solutions Engineer, Splunk FSI - Remote](https://careers.cisco.com/global/en/job/CISCISGLOBAL2031405EXTERNALENGLOBAL) | Cisco | New York, New York, United States of Am… | 33 | rules: 5+ yrs exp; no future H-1B sponsorship; asks for 5+ years of e… |
+| date only | [US E- Consulting Services-Business Data Analyst-L35-AI & Engineering-…](https://apply.deloitte.com/en_US/careers/JobDetail/Business-Data-Analyst/376146) | Deloitte US |  | 48 | rules: 4+ yrs exp; location unclear; asks for 4+ years of experience |
 | 10:52 AM | [Full Stack Engineer](https://jobs.ashbyhq.com/quindar/6c512310-7b4a-4033-8188-23cb0da40506) | Quindar | Denver, CO (hybrid) | 65 | rules: 4+ yrs exp; needs: security clearance |
 | 10:51 AM | [Cleared Full Stack Engineer](https://jobs.ashbyhq.com/quindar/f384450c-697b-427e-8930-58fc195016d2) | Quindar | Denver, CO (hybrid) | 65 | rules: 4+ yrs exp; needs: Secret clearance |
 | 10:50 AM | [Technology Engineer, Unified Communications](https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/166694) | Community Health Systems | United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -1021,8 +1025,5 @@ Jump to: [Fri 20 (7)](#friday-nov-20-7) · [Thu 19 (72)](#thursday-nov-19-72) ·
 | date only | [Systems Software Engineer (C++, Python, AWS)](https://pemcco.bamboohr.com/careers/296) | Pemcco | Washington, District of Columbia | 45 | rules: 7+ yrs exp; needs: Security Clearance |
 | date only | [US E - GPS - Consulting Services - Information Technology General Con…](https://apply.deloitte.com/en_US/careers/JobDetail/IT-General-Controls-Consultant-TS-SCI-required/375961) | Deloitte US |  | 63 | rules: 2+ yrs exp; no future H-1B sponsorship; needs: security cleara… |
 | date only | [Professional Fee Coder 2 (Sign on Bonus eligible)](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11720) | UCSF | United States | 70 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Apps Dev Intmd Programmer Analyst -Officer](https://citi.eightfold.ai/careers/job/859039019250) | Citi | Tampa, FL, US (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [DevOps / SRE Engineer (Kubernetes, Terraform), AI Expert](https://apply.workable.com/weekday-1/j/66FAC02153/) | Weekday AI | United States (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| date only | [Software Engineer (Python, Java, C++, Go, Rust), AI Expert](https://apply.workable.com/weekday-1/j/A8BEFF11F2/) | Weekday AI | United States (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
 
 </details>

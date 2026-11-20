@@ -12022,17 +12022,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 164,
+   "n": 165,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 164,
+   "n": 165,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 164,
+   "n": 165,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -13860,8 +13860,8 @@
    624
   ],
   "2026-11-20": [
-   53,
-   225
+   70,
+   298
   ]
  },
  "resolved": {
@@ -65449,6 +65449,7 @@
   "ashby:clera:79c096c3-e0ae-4ac9-9852-9580d2230e1d": "2026-11-16",
   "ashby:clera:82d78c4d-4efa-4a57-bb7f-caef93bdcedd": "2026-11-16",
   "ashby:clera:84bd8767-ce5c-4d77-8be7-a0aa57ec18a9": "2026-11-19",
+  "ashby:clera:86113ab2-201e-46d2-8cab-d1aca655764a": "2026-11-20",
   "ashby:clera:87e4356d-ecc4-476c-894c-84a62c566ba5": "2026-11-13",
   "ashby:clera:890ed347-bbe9-4f0b-abd8-72994873a230": "2026-11-20",
   "ashby:clera:8a4702b6-78ec-45a9-8324-0eb530bb49c6": "2026-11-18",
@@ -66180,6 +66181,10 @@
   "avature:deloitteus.avature.net|careers:375988": "2026-11-19",
   "avature:deloitteus.avature.net|careers:376003": "2026-11-20",
   "avature:deloitteus.avature.net|careers:376004": "2026-11-19",
+  "avature:deloitteus.avature.net|careers:376109": "2026-11-20",
+  "avature:deloitteus.avature.net|careers:376139": "2026-11-20",
+  "avature:deloitteus.avature.net|careers:376146": "2026-11-20",
+  "avature:deloitteus.avature.net|careers:376149": "2026-11-20",
   "avature:dhlconsulting.avature.net|careers:450": "2026-11-15",
   "avature:dhlconsulting.avature.net|careers:625": "2026-11-15",
   "avature:dhlconsulting.avature.net|careers:626": "2026-11-19",
@@ -71999,6 +72004,7 @@
   "icims:careers-kingfisher2.icims.com:160095": "2026-11-13",
   "icims:careers-kingfisher2.icims.com:161409": "2026-11-13",
   "icims:careers-kingfisher2.icims.com:164883": "2026-11-19",
+  "icims:careers-kingfisher2.icims.com:164885": "2026-11-20",
   "icims:careers-knowledgeservices.icims.com:31518": "2026-11-13",
   "icims:careers-knowledgeservices.icims.com:31633": "2026-11-16",
   "icims:careers-kyocera.icims.com:3222": "2026-11-13",
@@ -72893,6 +72899,7 @@
   "icims:element-ext-row.icims.com:20014": "2026-11-13",
   "icims:element-ext-row.icims.com:20127": "2026-11-13",
   "icims:element-ext-row.icims.com:20128": "2026-11-19",
+  "icims:element-ext-row.icims.com:20384": "2026-11-20",
   "icims:element-ext-row.icims.com:20725": "2026-11-18",
   "icims:everwatch-everwatchsolutions.icims.com:3177": "2026-11-13",
   "icims:everwatch-everwatchsolutions.icims.com:3178": "2026-11-13",
@@ -74544,6 +74551,7 @@
   "lever:jobgether:4e9e4100-8d35-4cf6-b1e1-db11da18c797": "2026-11-19",
   "lever:jobgether:5491b452-de23-4b55-8766-da119b9abf16": "2026-11-16",
   "lever:jobgether:59469943-c696-40a4-9abb-0ef564c224e6": "2026-11-14",
+  "lever:jobgether:5960e589-b68a-478d-8842-501377a42e71": "2026-11-20",
   "lever:jobgether:5aa445cc-fbad-4d6f-af0e-335a19c78327": "2026-11-17",
   "lever:jobgether:5acb5dac-e0bd-4822-9345-0c02bcc89a29": "2026-11-16",
   "lever:jobgether:5b9b67ba-c44d-48fa-98ac-4fcc3f6734ec": "2026-11-14",
@@ -74567,6 +74575,7 @@
   "lever:jobgether:701793d6-10ee-46f6-bcd4-028f3b163c4a": "2026-11-14",
   "lever:jobgether:71e3e732-30dd-43ba-8cc4-ca11ebba9c2d": "2026-11-14",
   "lever:jobgether:7205bb82-cf57-403f-9592-8728849d823b": "2026-11-14",
+  "lever:jobgether:747a5274-fad2-4fae-8d79-e3f20bb87b52": "2026-11-20",
   "lever:jobgether:752e0420-7502-480d-a60b-cb7240590ed6": "2026-11-14",
   "lever:jobgether:75cf9739-3239-461a-8e00-c12d70468b55": "2026-11-14",
   "lever:jobgether:7c2a1c12-6082-4456-a741-a49aa1e01196": "2026-11-14",
@@ -75236,6 +75245,7 @@
   "oracle:emdz.fa.us2.oraclecloud.com|CX_2001:6322": "2026-11-13",
   "oracle:emdz.fa.us2.oraclecloud.com|CX_2001:6368": "2026-11-13",
   "oracle:emdz.fa.us2.oraclecloud.com|CX_2001:6384": "2026-11-13",
+  "oracle:emit.fa.ca3.oraclecloud.com|CX_2001:95813": "2026-11-20",
   "oracle:emit.fa.ca3.oraclecloud.com|CX_2001:99413": "2026-11-13",
   "oracle:emit.fa.ca3.oraclecloud.com|CX_2001:99428": "2026-11-13",
   "oracle:emit.fa.ca3.oraclecloud.com|CX_2001:99720": "2026-11-18",
@@ -82504,8 +82514,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-20T07:45:23+00:00",
-  "yc": "2026-11-20T07:45:23+00:00"
+  "workable_search": "2026-11-20T10:48:32+00:00",
+  "yc": "2026-11-20T10:48:32+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1
