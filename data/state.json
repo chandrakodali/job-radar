@@ -12149,17 +12149,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 311,
+   "n": 312,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 311,
+   "n": 312,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 311,
+   "n": 312,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -66939,6 +66939,7 @@
   "greenhouse:alphataraxia:5275752007": "2026-11-07",
   "greenhouse:altentechnologyusa:5275782007": "2026-11-09",
   "greenhouse:altentechnologyusa:5294005007": "2026-11-12",
+  "greenhouse:anthropic:5489564008": "2026-11-20",
   "greenhouse:appspace:6239869004": "2026-11-09",
   "greenhouse:ardentmc:8403165": "2026-11-19",
   "greenhouse:assystinc:4486030009": "2026-11-09",
@@ -68071,6 +68072,7 @@
   "jazzhr:symsstrategicgroup:7uHqIcKrZe": "2026-11-19",
   "jazzhr:symsstrategicgroup:86hfY31iUz": "2026-11-19",
   "jazzhr:symsstrategicgroup:94YihTpWkW": "2026-11-19",
+  "jazzhr:symsstrategicgroup:AXvb0Nwr64": "2026-11-20",
   "jazzhr:symsstrategicgroup:AwRKavolyq": "2026-11-19",
   "jazzhr:symsstrategicgroup:BltgfoKFqs": "2026-11-19",
   "jazzhr:symsstrategicgroup:DWZAX1OUa9": "2026-11-19",
@@ -68083,6 +68085,7 @@
   "jazzhr:symsstrategicgroup:INArWVt5jp": "2026-11-19",
   "jazzhr:symsstrategicgroup:IWUMK9MNJN": "2026-11-19",
   "jazzhr:symsstrategicgroup:KfNJAYlclU": "2026-11-19",
+  "jazzhr:symsstrategicgroup:L3gSC2knfS": "2026-11-20",
   "jazzhr:symsstrategicgroup:LlcolPD4NG": "2026-11-19",
   "jazzhr:symsstrategicgroup:M7plvVIErN": "2026-11-19",
   "jazzhr:symsstrategicgroup:MJm7HTnUFG": "2026-11-19",
@@ -68111,6 +68114,7 @@
   "jazzhr:symsstrategicgroup:lUnAsO2Gnj": "2026-11-19",
   "jazzhr:symsstrategicgroup:lYCua9ALzZ": "2026-11-19",
   "jazzhr:symsstrategicgroup:lmOpPr3p9g": "2026-11-19",
+  "jazzhr:symsstrategicgroup:mIUxDBRwJT": "2026-11-20",
   "jazzhr:symsstrategicgroup:nTTwnW5jrM": "2026-11-19",
   "jazzhr:symsstrategicgroup:oNqd1xHdCJ": "2026-11-19",
   "jazzhr:symsstrategicgroup:p6qDfSSLZv": "2026-11-19",
@@ -70325,6 +70329,7 @@
   "zoho:agileengine:248544000265311674": "2026-11-17",
   "zoho:agileengine:248544000265311677": "2026-11-15",
   "zoho:agileengine:248544000265311680": "2026-11-17",
+  "zoho:agileengine:248544000265312638": "2026-11-20",
   "zoho:agileengine:248544000265312641": "2026-11-15",
   "zoho:agileengine:248544000265314513": "2026-11-17",
   "zoho:agileengine:248544000265314519": "2026-11-15",

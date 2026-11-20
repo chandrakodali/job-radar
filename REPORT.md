@@ -1,19 +1,20 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**565 jobs**, newest first. Updated Thu Nov 19, 7:37 PM CST from 12,526 company job boards and other sources.
+**565 jobs**, newest first. Updated Thu Nov 19, 8:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-227 repeat listings (same company and title in another place or on another source) are merged into one row.
+228 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 2,460 matching jobs that job sites and feeds listed this week, 946 (38%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (36)](#thursday-nov-19-36) · [Wed 18 (49)](#wednesday-nov-18-49) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (49)](#monday-nov-16-49) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (1)](#thursday-nov-12-1)
+Jump to: [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (48)](#wednesday-nov-18-48) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (49)](#monday-nov-16-49) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (1)](#thursday-nov-12-1)
 
-## Thursday, Nov 19 (36)
+## Thursday, Nov 19 (37)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 8:07 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265312638/Senior-FinOps-Analyst-ID94366) | Agileengine | Boca Raton, United States +15 more | 25 | senior title, years not stated |
 | 6:30 PM | [IT Operations and Project Coordinator, IT Infrastructure](https://job-boards.greenhouse.io/clearwayjobs/jobs/5290313007) | Clearway Energy | San Diego, California, United States | 60 | 3+ yrs exp |
 | 4:20 PM | [Senior DevOps Engineer](https://jobs.workable.com/view/2hRx5JjxxEGa5gJLmvVWUb/hybrid-senior-devops-engineer-in-chicago-at-fooda) | Fooda | Chicago, Illinois (hybrid) | 60 | senior title, years not stated |
 | 3:12 PM | [Senior IT System Administrator](https://jobs.ashbyhq.com/nerdwallet/fc897ca4-9374-4f8c-8af1-59bf8ecfdd4b) | Nerdwallet | NerdWallet US (remote) | 42 | senior title, years not stated; E-Verify |
@@ -51,7 +52,7 @@ Jump to: [Thu 19 (36)](#thursday-nov-19-36) · [Wed 18 (49)](#wednesday-nov-18-4
 | 1:00 AM | [IT Systems Engineer](https://jobs.dayforcehcm.com/en-US/avisystems/CANDIDATEPORTAL/jobs/7725) | Avisystems | Minneapolis, MN, US | 50 |  |
 | 12:07 AM (seen) | [Senior Site Reliability Engineer](https://app.careerpuck.com/job-board/blinkhealth/job/75nQcAvf) | Blinkhealth | New York, NY; Pittsburgh, PA; Seattle, … | 40 | senior title, years not stated |
 
-## Wednesday, Nov 18 (49)
+## Wednesday, Nov 18 (48)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -67,7 +68,6 @@ Jump to: [Thu 19 (36)](#thursday-nov-19-36) · [Wed 18 (49)](#wednesday-nov-18-4
 | 6:42 PM | [IT Infrastructure Engineer](https://jobs.ashbyhq.com/Sierra/742020b7-5a2a-495d-8ac9-d74d31dc91c6) | Sierra | San Francisco, CA (onsite) | 70 |  |
 | 6:03 PM | [Site Reliability Engineer](https://jobs.workable.com/view/hXDpRpv1682KM8Z5L41upo/remote-site-reliability-engineer-in-denver-at-a2z-sync) | A2Z Sync | Denver, Colorado (remote) (remote) | 57 | 4+ yrs exp |
 | 5:46 PM | [Systems Reliability Engineer](https://job-boards.greenhouse.io/thetradedesk/jobs/5301212007) | The Trade Desk | Boulder | 65 |  |
-| 5:37 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265309909/Senior-FinOps-Analyst-ID94366) | Agileengine | Tampa, United States +14 more | 25 | senior title, years not stated |
 | 5:18 PM | [Sr Software Engineer - Infrastructure & Platform](https://mercadolibre.eightfold.ai/careers/job/43350162) | Mercadolibre | CABA, CABA, AR (hybrid) | 60 | senior title, years not stated |
 | 4:57 PM | [Senior Application Security Engineer](https://jobs.ashbyhq.com/paxos/df3b7383-2900-4e72-acb0-eb3c1667573c) | Paxos | Remote - United States (remote) | 52 | senior title, years not stated |
 | 3:48 PM | [OT Infrastructure Engineer I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4564824) | Enchanted Rock Management LLC | Houston, TX, United States | 85 | entry-level title; 0-2 yrs exp |
@@ -615,7 +615,7 @@ Jump to: [Thu 19 (36)](#thursday-nov-19-36) · [Wed 18 (49)](#wednesday-nov-18-4
 |---|---|---|---|---:|---|
 | 11:00 PM | [Geospatial Engineer – Cloud & DevOps](https://careers-dewberry.icims.com/jobs/16686/geospatial-engineer-%e2%80%93-cloud-%26-devops/job) | Dewberry | Fairfax, VA, United States | 60 | no future H-1B sponsorship |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (581)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (583)
 
 <details><summary>Show</summary>
 
@@ -623,6 +623,8 @@ Jump to: [Thu 19 (36)](#thursday-nov-19-36) · [Wed 18 (49)](#wednesday-nov-18-4
 |---|---|---|---|---:|---|
 | date only | [Systems Administrator II](https://sigmadesign.applytojob.com/apply/tWeKPHZxsE/Systems-Administrator-II) | Sigma Design | Burlingame, CA | 25 | rules: 5+ yrs exp; needs: ITAR |
 | date only | [Senior Forward Deployed Engineer, Sr Forward Deployment Engineering](https://www.amazon.jobs/en/jobs/10609070/senior-forward-deployed-engineer-sr-forward-deployment-engineering) | Amazon Web Services, Inc. | New York, New York, USA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| date only | [Cloud Computing Engineer](https://symsstrategicgroup.applytojob.com/apply/mIUxDBRwJT/Cloud-Computing-Engineer) | Syms Strategic Group, LLC (SS… | Orlando, FL +2 more | 65 | rules: needs: Security Clearance |
+| 7:57 PM | [Corporate Network Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5489564008) | Anthropic | Remote-Friendly (Travel Required) / San… (remote) | 27 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 7:15 PM | [Senior Network Engineer I](https://coreweave.com/careers/job?4730965006&board=coreweave&gh_jid=4730965006) | CoreWeave | Livingston, NJ / New York, NY / San Fra… | 50 | rules: entry-level title; 5+ yrs exp; senior title; priority company;… |
 | 6:51 PM | [Systems Administrator](https://job-boards.greenhouse.io/machindustries/jobs/4516093009) | Mach Industries | Huntington Beach, California, United St… | 45 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; needs: ITAR |
 | 5:45 PM | [Operating Systems Engineer, Linux Kernel / Consumer Devices](https://jobs.ashbyhq.com/openai/f0529a1d-fb6a-4229-a590-8caff1785bb3) | OpenAI | San Francisco | 50 | rules: adjacent title, little DevOps/cloud work in the text |
@@ -1019,8 +1021,6 @@ Jump to: [Thu 19 (36)](#thursday-nov-19-36) · [Wed 18 (49)](#wednesday-nov-18-4
 | date only | [*AI & Cloud Native Full Stack Developer](https://www.careers.zurich.com/job/Schaumburg-AI-&-Cloud-Native-Full-Stack-Developer-IL-60159/1377504957/) | Zurich Insurance | Schaumburg, IL, US | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [Senior DevOps Engineer](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Senior-DevOps-Engineer_JR36609-1) | Allegion | Carmel, IN | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Network Engineer 4 ((Cloud Operations Resilience Engineering)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Network-Engineer-4---Cloud-Operations-Resilience-Engineering-_R1005049-1) | Capital One | Plano, TX; McLean, VA; Richmond, VA | 35 | rules: 6+ yrs exp; no future H-1B sponsorship; asks for 6+ years of e… |
-| date only | [Cloud Engineer-Azure - Global Industrial](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-Engineer-Azure---Global-Industrial_R26_0000030913-1) | Genuine Parts Company | Birmingham, AL, USA; Atlanta, GA, USA (hybrid) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| date only | [Sr Application Security Engineer](https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/United-States---Remote/Sr-Application-Security-Engineer_R134939) | Henry Schein | United States - Remote (remote) | 37 | rules: 5+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
 
 </details>
 
