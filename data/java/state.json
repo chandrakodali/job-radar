@@ -12009,17 +12009,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 134,
+   "n": 135,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 134,
+   "n": 135,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 134,
+   "n": 135,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13382,8 +13382,8 @@
    433
   ],
   "2026-11-20": [
-   36,
-   114
+   39,
+   119
   ]
  },
  "resolved": {
@@ -64583,6 +64583,7 @@
   "ashby:clera:f4e07f8c-795c-477a-9a10-16d352a42fe9": "2026-11-19",
   "ashby:clera:f9a19ac1-59ba-43ed-8da4-7c0c17c67650": "2026-11-14",
   "ashby:clickhouse:0783beef-b3db-4396-918a-cd8cc7758fde": "2026-11-19",
+  "ashby:clickhouse:220080d1-c844-42e6-a762-9f3453289ac1": "2026-11-20",
   "ashby:clickhouse:51e77613-18b6-4f36-bc28-a7740198ca44": "2026-11-14",
   "ashby:clickhouse:56992f29-17a5-4150-b50b-7a72206c2af6": "2026-11-16",
   "ashby:clickhouse:caf49f06-ed35-4637-9372-f4df114e852f": "2026-11-18",
@@ -64904,6 +64905,7 @@
   "avature:harmanglobal.avature.net|en_US/careers:33341": "2026-11-17",
   "avature:harmanglobal.avature.net|en_US/careers:33352": "2026-11-18",
   "avature:jrg.avature.net|careers:2070": "2026-11-15",
+  "avature:jrg.avature.net|careers:2084": "2026-11-20",
   "avature:justicejobs.avature.net|careers:24118": "2026-11-15",
   "avature:justicejobs.avature.net|careers:24211": "2026-11-15",
   "avature:justicejobs.avature.net|internalcareers:24118": "2026-11-15",
@@ -67879,6 +67881,7 @@
   "lever:jobgether:04204789-6c21-47d1-8f94-d33727ea0ec1": "2026-11-14",
   "lever:jobgether:07681a3c-f0c2-4e6f-b380-de581c64b867": "2026-11-16",
   "lever:jobgether:0a28d19f-8f47-4c38-a748-4e4e8303aeed": "2026-11-19",
+  "lever:jobgether:0cc38caa-2e73-4be4-9718-81f16907f450": "2026-11-20",
   "lever:jobgether:1f41924b-9c06-4b11-999f-1bc211f2544a": "2026-11-16",
   "lever:jobgether:25f8ac01-c5a3-495d-b94c-848bcb7f2197": "2026-11-14",
   "lever:jobgether:2629ec48-6b51-43ac-a552-1ffd59f9e82c": "2026-11-14",
@@ -67920,6 +67923,7 @@
   "lever:jobgether:e20facbc-c67e-433d-8ebd-d46e0377b2c5": "2026-11-16",
   "lever:jobgether:e77ae819-d598-4d58-8c2a-835267008435": "2026-11-14",
   "lever:jobgether:ea353e26-0e92-4a6c-af2b-e9d341e52e01": "2026-11-18",
+  "lever:jobgether:eafd00e7-c5b0-4fc8-b71e-9a7da8776009": "2026-11-20",
   "lever:jobgether:ec8d9397-22c6-4749-bcbc-e5c8d01316aa": "2026-11-14",
   "lever:jobgether:ec9c4292-142e-4b7c-b019-5802e8388d33": "2026-11-14",
   "lever:jobgether:ed585bb6-9f21-45ef-b606-7d0a0715d03c": "2026-11-14",
@@ -69156,6 +69160,7 @@
   "sfrmk:jobs.netapp.com:1451950100": "2026-11-18",
   "sfrmk:jobs.netapp.com:1452037200": "2026-11-18",
   "sfrmk:jobs.netapp.com:1452419000": "2026-11-19",
+  "sfrmk:jobs.netapp.com:1452479000": "2026-11-20",
   "sfrmk:jobs.nexteraenergy.com:1433113000": "2026-11-14",
   "sfrmk:jobs.nexteraenergy.com:1440011500": "2026-11-14",
   "sfrmk:jobs.nexteraenergy.com:1444759900": "2026-11-14",
@@ -70503,10 +70508,10 @@
  },
  "source_last": {
   "hn": "2026-11-20T04:17:26+00:00",
-  "remoteok": "2026-11-20T04:17:26+00:00",
+  "remoteok": "2026-11-20T06:18:40+00:00",
   "usajobs": "2026-11-20T05:15:30+00:00",
   "workable_search": "2026-11-20T05:15:30+00:00",
-  "wwr": "2026-11-20T05:15:30+00:00",
+  "wwr": "2026-11-20T06:18:40+00:00",
   "yc": "2026-11-20T05:15:30+00:00"
  },
  "title_rules": "72f554d20a7f",
