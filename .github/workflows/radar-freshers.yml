@@ -75,7 +75,7 @@ jobs:
     needs: scan
     if: ${{ always() }}
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v5
         with:
@@ -102,7 +102,7 @@ jobs:
         run: |
           ARGS=""
           if [ "$DRY_RUN" = "true" ]; then ARGS="--dry-run"; fi
-          python -m radar.main --profile freshers --only workday --budget-min 25 $ARGS
+          python -m radar.main --profile freshers --only workday --budget-min 32 $ARGS
 
       - name: Save results
         if: ${{ inputs.dry_run != true }}

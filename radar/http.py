@@ -105,7 +105,7 @@ def _paced_result(url: str, limited: bool) -> None:
         gap = _pace_gap.get(suffix, base)
         if limited:
             _pace_gap[suffix] = min(MAX_GAP, gap * 1.6)
-            _pace_next[suffix] = max(_pace_next.get(suffix, 0.0), time.monotonic() + 20)   # let the limit reset
+            _pace_next[suffix] = max(_pace_next.get(suffix, 0.0), time.monotonic() + 10)   # let the limit reset
             _pace_ok[suffix] = 0
         else:
             _pace_ok[suffix] = _pace_ok.get(suffix, 0) + 1

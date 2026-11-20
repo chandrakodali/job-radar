@@ -97,7 +97,7 @@ jobs:
     needs: scan
     if: ${{ always() }}
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 45
     steps:
       # The branch's latest commit, not the one the run was queued at, so a run that waited starts from the
       # results the previous run saved (otherwise saving can fail on a conflict).
@@ -135,7 +135,7 @@ jobs:
           ARGS=""
           if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="--dry-run --no-write"; fi
           if [ "${{ inputs.all_shards }}" = "true" ]; then ARGS="$ARGS --all-shards"; fi
-          python -m radar.main --only workday --budget-min 25 $ARGS
+          python -m radar.main --only workday --budget-min 32 $ARGS
 
       - name: Save results
         if: ${{ inputs.dry_run != true }}

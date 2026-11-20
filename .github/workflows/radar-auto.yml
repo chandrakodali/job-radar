@@ -129,7 +129,7 @@ jobs:
     needs: scan
     if: ${{ always() }}
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 45
     steps:
       # The branch's latest commit, not the one the run was queued at: a run that waited behind another
       # must start from the results that run saved.
@@ -188,7 +188,7 @@ jobs:
           if [ "$DRY_RUN" = "true" ]; then ARGS="--dry-run"; fi
           if [ "$FULL_SWEEP" = "true" ]; then ARGS="$ARGS --full-sweep"; fi
           if [ -n "$ONLY" ]; then ARGS="$ARGS --only $ONLY"; fi
-          python -m radar.main --profile automotive --only workday --budget-min 25 $ARGS
+          python -m radar.main --profile automotive --only workday --budget-min 32 $ARGS
 
       # A test run saves nothing to the repository; its results are attached to the run instead.
       - name: Attach test-run results

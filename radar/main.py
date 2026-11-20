@@ -143,8 +143,8 @@ def run(args) -> int:
     if args.only == ["workday"]:
         # Workday on its own machine (a separate step of the workflow): Cloudflare rejects a machine that has
         # just sent many requests elsewhere, but allows a few at a time from a fresh one.
-        OWN_WORKERS["workday"] = 3
-        http.set_pace("myworkdayjobs.com", 0.35)
+        OWN_WORKERS["workday"] = 1
+        http.set_pace("myworkdayjobs.com", 0.9)
     state = load_state()
     # Rule-based fit score from the full job text (profiles with a skills.yaml). Job texts are kept so every
     # saved match can be scored again whenever the rules change.
