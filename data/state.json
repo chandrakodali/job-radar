@@ -12150,17 +12150,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 318,
+   "n": 319,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 318,
+   "n": 319,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 318,
+   "n": 319,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14942,8 +14942,8 @@
    369
   ],
   "2026-11-20": [
-   54,
-   98
+   56,
+   102
   ]
  },
  "resolved": {
@@ -68355,6 +68355,7 @@
   "lever:jobgether:c5a85d4f-04b0-4148-91d6-6b7a2d2b5d0b": "2026-11-14",
   "lever:jobgether:c6445be2-ca67-4f3f-9e73-ae6bf376ed50": "2026-11-14",
   "lever:jobgether:ce66a95c-1a06-42dc-a28e-5a65d960c1ac": "2026-11-14",
+  "lever:jobgether:cf7fda3c-bb7f-4f9d-a2cf-6383f59c3288": "2026-11-20",
   "lever:jobgether:d0d0b10a-9ba4-4ce7-997d-3d7db4e759fc": "2026-11-16",
   "lever:jobgether:d14583f1-1c76-45b0-9970-c52c5b253cb7": "2026-11-14",
   "lever:jobgether:d5f22995-7c0b-4592-b479-d284090b36b7": "2026-11-14",
@@ -70430,10 +70431,10 @@
  },
  "source_last": {
   "hn": "2026-11-20T02:37:18+00:00",
-  "remoteok": "2026-11-20T03:37:19+00:00",
+  "remoteok": "2026-11-20T05:37:24+00:00",
   "usajobs": "2026-11-20T04:07:16+00:00",
   "workable_search": "2026-11-20T04:07:16+00:00",
-  "wwr": "2026-11-20T04:37:17+00:00",
+  "wwr": "2026-11-20T05:37:24+00:00",
   "yc": "2026-11-20T04:07:16+00:00"
  },
  "title_rules": "c323075b4d70",
