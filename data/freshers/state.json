@@ -12022,17 +12022,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 161,
+   "n": 162,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 161,
+   "n": 162,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 161,
+   "n": 162,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -13860,8 +13860,8 @@
    624
   ],
   "2026-11-20": [
-   36,
-   152
+   53,
+   225
   ]
  },
  "resolved": {
@@ -68993,6 +68993,9 @@
   "eightfold:nvidia:893393527435": "2026-11-19",
   "eightfold:nvidia:893393582156": "2026-11-19",
   "eightfold:nvidia:893396228167": "2026-11-16",
+  "eightfold:nvidia:893397026185": "2026-11-20",
+  "eightfold:nvidia:893397026201": "2026-11-20",
+  "eightfold:nvidia:893397026205": "2026-11-20",
   "eightfold:nvidia:893397026396": "2026-11-19",
   "eightfold:nvidia:893397026418": "2026-11-19",
   "eightfold:nvidia:893397444101": "2026-11-16",
@@ -72988,6 +72991,7 @@
   "icims:homeoffice-na-urbn.icims.com:35687": "2026-11-17",
   "icims:homeoffice-na-urbn.icims.com:39180": "2026-11-13",
   "icims:homeoffice-na-urbn.icims.com:40444": "2026-11-18",
+  "icims:ideas-sas.icims.com:41647": "2026-11-20",
   "icims:iwtcareers-ads-pipe.icims.com:21362": "2026-11-13",
   "icims:iwtcareers-ads-pipe.icims.com:21363": "2026-11-13",
   "icims:iwtcareers-ads-pipe.icims.com:23005": "2026-11-13",
@@ -74560,6 +74564,7 @@
   "lever:jobgether:7d7aae14-b608-463f-82c1-8eda7918b8cd": "2026-11-18",
   "lever:jobgether:7e203dba-97cd-4265-932a-a8e33b61d987": "2026-11-19",
   "lever:jobgether:7f612467-c5a6-46d0-9e01-7bf055856e74": "2026-11-14",
+  "lever:jobgether:7f7f9595-2d7f-44cd-9dd6-9a50eae0c954": "2026-11-20",
   "lever:jobgether:7fcb45f0-fe08-458f-a8ea-bdbbff723372": "2026-11-14",
   "lever:jobgether:7ff45725-b98f-4aad-aeb2-d25ba26e2eaa": "2026-11-18",
   "lever:jobgether:812e7528-9851-4e87-9116-c7bf6e4ce45e": "2026-11-20",
@@ -74626,6 +74631,7 @@
   "lever:jobgether:d85e5901-67b6-4807-aa43-4b76e86064b2": "2026-11-14",
   "lever:jobgether:da2366e5-c960-421a-9172-4bebe1c8fcec": "2026-11-14",
   "lever:jobgether:dac12f33-a21f-414a-940c-581febb53b93": "2026-11-16",
+  "lever:jobgether:daea97a5-a793-414f-8135-2d09ade5c164": "2026-11-20",
   "lever:jobgether:dd0c5f4a-edac-4da0-946c-1b74be1aa7db": "2026-11-14",
   "lever:jobgether:de6ac4cf-11fe-43ff-8958-3d95e52ab79b": "2026-11-18",
   "lever:jobgether:df6f9635-23c0-48e6-b325-9eeb0a8727d0": "2026-11-17",
@@ -82478,8 +82484,8 @@
   "zoho:xnrsolutions:790409000001109265": "2026-11-15"
  },
  "source_last": {
-  "workable_search": "2026-11-20T04:47:50+00:00",
-  "yc": "2026-11-20T04:47:50+00:00"
+  "workable_search": "2026-11-20T07:45:23+00:00",
+  "yc": "2026-11-20T07:45:23+00:00"
  },
  "title_rules": "8d71c3276869",
  "version": 1

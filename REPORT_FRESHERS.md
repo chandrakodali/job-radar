@@ -1,14 +1,20 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**570 jobs**, newest first. Updated Fri Nov 20, 12:45 AM CST from 12,526 company job boards and other sources.
+**570 jobs**, newest first. Updated Fri Nov 20, 1:45 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 254 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,404 matching jobs that job sites and feeds listed this week, 842 (19%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 4,477 matching jobs that job sites and feeds listed this week, 859 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (73)](#thursday-nov-19-73) · [Wed 18 (57)](#wednesday-nov-18-57) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (140)](#saturday-nov-14-140) · [Fri 13 (147)](#friday-nov-13-147)
+Jump to: [Fri 20 (1)](#friday-nov-20-1) · [Thu 19 (73)](#thursday-nov-19-73) · [Wed 18 (57)](#wednesday-nov-18-57) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (140)](#saturday-nov-14-140) · [Fri 13 (146)](#friday-nov-13-146)
+
+## Friday, Nov 20 (1)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 
 ## Thursday, Nov 19 (73)
 
@@ -463,7 +469,7 @@ Jump to: [Thu 19 (73)](#thursday-nov-19-73) · [Wed 18 (57)](#wednesday-nov-18-5
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Town Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825084) | Macy's | Kennesaw, GA, United States | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Serramonte](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825080) | Macy's | Daly City, CA, United States | 75 | entry-level title |
 
-## Friday, Nov 13 (147)
+## Friday, Nov 13 (146)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -613,9 +619,8 @@ Jump to: [Thu 19 (73)](#thursday-nov-19-73) · [Wed 18 (57)](#wednesday-nov-18-5
 | 2:54 AM | [Graduate Program Coordinator](https://jobs.smartrecruiters.com/HarvardUniversity/3743990016835366-graduate-program-coordinator) | Harvard University | Cambridge, MA, United States (hybrid) | 80 | entry-level title; no future H-1B sponsorship; likely H-1B cap-exempt… |
 | 2:00 AM | [System Engineer](https://jobs.supermicro.com/job/San-Jose-System-Engineer-Cali/1420737200/) | Super Micro Computer | San Jose, California, United States | 75 | 1+ yrs exp |
 | 2:00 AM | [Fluid Systems Engineer](https://careers.westinghousenuclear.com/job/Rock-Hill-Fluid-Systems-Engineer-SC-29730/1440646100/) | Westinghouse Electric Company | Rock Hill, SC, United States | 85 | 1+ yrs exp; entry level (from the text) |
-| 1:00 AM | [Network Engineer I](https://jobs.dayforcehcm.com/en-US/sonifi/CANDIDATEPORTAL/jobs/5902) | Sonifi | Sioux Falls, SD, US | 73 | entry-level title; E-Verify |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (4087)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (4088)
 
 <details><summary>Show</summary>
 
@@ -627,6 +632,7 @@ Jump to: [Thu 19 (73)](#thursday-nov-19-73) · [Wed 18 (57)](#wednesday-nov-18-5
 | date only | [Quality Assurance Engineer, Amazon Leo Console](https://www.amazon.jobs/en/jobs/10609923/quality-assurance-engineer-amazon-leo-console) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Machine Learning Engineer, Evaluation](https://mpathic2.bamboohr.com/careers/133) | Mpathic2 | United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Machine Learning Engineer, Data Products](https://mpathic2.bamboohr.com/careers/134) | Mpathic2 | Remote | 70 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
+| 2:25 AM | [Salesforce QA Analyst](https://jobs.lever.co/jobgether/daea97a5-a793-414f-8135-2d09ade5c164) | Jobgether | US (remote) | 42 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 12:32 AM | [SATCOM Terminal Systems Engineer](https://jobs.lever.co/jobgether/ccd484ca-457b-4675-946c-7bfbf960350c) | Jobgether | US (remote) | 42 | rules: 8+ yrs exp; needs: Security Clearance |
 | 12:23 AM | [Cybersecurity Engineer](https://jobs.lever.co/jobgether/b48534d4-a073-4a7f-ae4a-52548c681c87) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; needs: security clearance |
 | 12:00 AM | [Business Systems Analyst I](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428976) | Eohh Fa Us2 Oraclecloud Com | Austin, TX, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
@@ -1020,6 +1026,5 @@ Jump to: [Thu 19 (73)](#thursday-nov-19-73) · [Wed 18 (57)](#wednesday-nov-18-5
 | date only | [Software Test Engineer](https://careers.quest-global.com/global/en/job/QGRQGAGLOBALP124669EXTERNALENGLOBAL) | Quest Global | Erie, Pennsylvania, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [ServiceNow Administrator](https://hp.eightfold.ai/careers/job/45439563) | Hp | Spring, TX, US (onsite) | 80 | rules: 2+ yrs exp; needs: U.S. citizenship required |
 | date only | [Enterprise Systems Engineer - SME](https://apply.workable.com/analytic-solutions-group/j/0EAB2F5D17/) | Analytic Solutions Group | Bethesda, Maryland, United States | 50 | rules: 12+ yrs exp; E-Verify; needs: security clearance |
-| date only | [Infrastructure Analyst](https://delawareparkcasinoracing.applytojob.com/apply/nEAKCV6GnA/Infrastructure-Analyst) | Delaware Park Casino & Racing | Wilmington, DE | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
