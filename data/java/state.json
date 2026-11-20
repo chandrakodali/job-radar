@@ -12009,17 +12009,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 139,
+   "n": 140,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 139,
+   "n": 140,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 139,
+   "n": 140,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13382,8 +13382,8 @@
    433
   ],
   "2026-11-20": [
-   64,
-   188
+   80,
+   239
   ]
  },
  "resolved": {
@@ -64566,6 +64566,7 @@
   "ashby:clera:782c2049-c72a-4920-a278-e5b1ee6fd2b3": "2026-11-14",
   "ashby:clera:82d78c4d-4efa-4a57-bb7f-caef93bdcedd": "2026-11-16",
   "ashby:clera:84bd8767-ce5c-4d77-8be7-a0aa57ec18a9": "2026-11-19",
+  "ashby:clera:86113ab2-201e-46d2-8cab-d1aca655764a": "2026-11-20",
   "ashby:clera:87e4356d-ecc4-476c-894c-84a62c566ba5": "2026-11-14",
   "ashby:clera:890ed347-bbe9-4f0b-abd8-72994873a230": "2026-11-20",
   "ashby:clera:8a4702b6-78ec-45a9-8324-0eb530bb49c6": "2026-11-18",
@@ -67177,6 +67178,7 @@
   "icims:careers-kingfisher2.icims.com:135731": "2026-11-14",
   "icims:careers-kingfisher2.icims.com:160095": "2026-11-14",
   "icims:careers-kingfisher2.icims.com:164883": "2026-11-19",
+  "icims:careers-kingfisher2.icims.com:164885": "2026-11-20",
   "icims:careers-knowledgeservices.icims.com:31518": "2026-11-14",
   "icims:careers-kyocera.icims.com:3222": "2026-11-14",
   "icims:careers-lmi.icims.com:13778": "2026-11-14",
@@ -67919,7 +67921,9 @@
   "lever:jobgether:65a1156a-de46-49fd-8413-39a2b0b92b26": "2026-11-16",
   "lever:jobgether:6a1d0ed9-1ef9-44bb-902b-e7b4b3868b11": "2026-11-16",
   "lever:jobgether:6b7d4699-9948-48b8-a57c-079cfb1c3dda": "2026-11-17",
+  "lever:jobgether:70d6992c-333c-4132-a789-54ae348755c0": "2026-11-20",
   "lever:jobgether:7ff45725-b98f-4aad-aeb2-d25ba26e2eaa": "2026-11-18",
+  "lever:jobgether:92b4b14c-b4c8-4116-aaf5-cfd48eb2560a": "2026-11-20",
   "lever:jobgether:9502fd53-8f50-431d-893a-70c091600137": "2026-11-18",
   "lever:jobgether:985f9970-a66c-41f2-9484-0e1c33d233f3": "2026-11-17",
   "lever:jobgether:9af4cc18-9474-497f-9a90-60aa781922d4": "2026-11-14",
@@ -68758,6 +68762,7 @@
   "sfrmk:careers.capgemini.com:1431928833": "2026-11-14",
   "sfrmk:careers.capgemini.com:1432644733": "2026-11-19",
   "sfrmk:careers.capgemini.com:1432660533": "2026-11-14",
+  "sfrmk:careers.capgemini.com:1433429633": "2026-11-20",
   "sfrmk:careers.capgemini.com:1433554833": "2026-11-14",
   "sfrmk:careers.capgemini.com:1434691933": "2026-11-14",
   "sfrmk:careers.capgemini.com:1435079733": "2026-11-18",
@@ -68861,6 +68866,7 @@
   "sfrmk:careers.capgemini.com:1452243233": "2026-11-14",
   "sfrmk:careers.capgemini.com:1452259833": "2026-11-16",
   "sfrmk:careers.capgemini.com:1452396533": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1452398233": "2026-11-20",
   "sfrmk:careers.capgemini.com:1452442233": "2026-11-16",
   "sfrmk:careers.capgemini.com:1452933633": "2026-11-16",
   "sfrmk:careers.capgemini.com:1452961833": "2026-11-20",
@@ -68904,6 +68910,7 @@
   "sfrmk:careers.capgemini.com:1457278233": "2026-11-14",
   "sfrmk:careers.capgemini.com:1457777433": "2026-11-17",
   "sfrmk:careers.capgemini.com:1457787633": "2026-11-17",
+  "sfrmk:careers.capgemini.com:1457849433": "2026-11-20",
   "sfrmk:careers.capgemini.com:1457903233": "2026-11-18",
   "sfrmk:careers.capgemini.com:1457906533": "2026-11-18",
   "sfrmk:careers.capgemini.com:1457915333": "2026-11-18",
@@ -68922,6 +68929,7 @@
   "sfrmk:careers.capgemini.com:1458816333": "2026-11-20",
   "sfrmk:careers.capgemini.com:1458851333": "2026-11-20",
   "sfrmk:careers.capgemini.com:1458964833": "2026-11-19",
+  "sfrmk:careers.capgemini.com:1459178533": "2026-11-20",
   "sfrmk:careers.cintas.com:1436636800": "2026-11-14",
   "sfrmk:careers.cintas.com:1441899100": "2026-11-14",
   "sfrmk:careers.cintas.com:1451739900": "2026-11-19",
@@ -69333,6 +69341,7 @@
   "smartrecruiters:cityofnewyork:3743990016861706": "2026-11-14",
   "smartrecruiters:cityofnewyork:3743990016959496": "2026-11-19",
   "smartrecruiters:cityofnewyork:3743990016959596": "2026-11-19",
+  "smartrecruiters:cityofnewyork:3743990016989836": "2026-11-20",
   "smartrecruiters:cityofphiladelphia:744000159943569": "2026-11-14",
   "smartrecruiters:crowninnovationsinc:744000162597789": "2026-11-19",
   "smartrecruiters:dominos:744000161708269": "2026-11-16",
@@ -70533,10 +70542,10 @@
  "source_last": {
   "hn": "2026-11-20T10:17:43+00:00",
   "remoteok": "2026-11-20T10:17:43+00:00",
-  "usajobs": "2026-11-20T08:17:52+00:00",
-  "workable_search": "2026-11-20T08:17:52+00:00",
-  "wwr": "2026-11-20T10:17:43+00:00",
-  "yc": "2026-11-20T08:17:52+00:00"
+  "usajobs": "2026-11-20T11:16:27+00:00",
+  "workable_search": "2026-11-20T11:16:27+00:00",
+  "wwr": "2026-11-20T11:16:27+00:00",
+  "yc": "2026-11-20T11:16:27+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
