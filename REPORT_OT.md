@@ -1,6 +1,6 @@
 # OT Network Engineer jobs in the US: posted in the last 7 days
 
-**14 jobs**, newest first. Updated Fri Nov 20, 11:28 AM CST from 12,526 company job boards.
+**16 jobs**, newest first. Updated Fri Nov 20, 12:11 PM CST from 12,526 company job boards.
 
 US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and OT security roles; controls, automation or network titles only when the job is about networks in an OT/industrial setting). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and
 
 Coverage check: of 34 matching jobs that job sites and feeds listed this week, 11 (32%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (2)](#thursday-nov-19-2) · [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (2)](#tuesday-nov-17-2) · [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (1)](#sunday-nov-15-1) · [Fri 13 (1)](#friday-nov-13-1)
+Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (3)](#tuesday-nov-17-3) · [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (1)](#sunday-nov-15-1) · [Fri 13 (1)](#friday-nov-13-1)
 
 ## Friday, Nov 20 (6)
 
@@ -21,11 +21,12 @@ Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (2)](#thursday-nov-19-2) · [
 | 10:01 AM (seen) | [Field SCADA Engineer - Ignition Exp Required](https://ats.rippling.com/divcon-controls/jobs/e28d81ce-3344-432d-a456-d53c8d2864de) | Divcon Controls | Remote (United States) (remote) | 47 |  |
 | 10:01 AM (seen) | [SCADA Engineer - Ignition Exp Required](https://ats.rippling.com/divcon-controls/jobs/f55c26d4-8078-4983-a826-0f40435473c4) | Divcon Controls | Remote (United States) (remote) | 47 |  |
 
-## Thursday, Nov 19 (2)
+## Thursday, Nov 19 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 12:55 PM | [Senior Control Systems Engineer (ABB)](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/169055) | Clean Harbors | Deer Park, TX, United States; Aragonite… | 40 | senior title, years not stated; OT network work in the text |
+| 12:14 PM | [Operational Technology Engineer](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Operational-Technology-Engineer_R1063675) | AES | US, Dayton, OH | 65 |  |
 | date only | [Power Generation SCADA Controls Engineer](https://jobs.nexteraenergy.com/job/Palm-Beach-Gardens-Power-Generation-SCADA-Controls-Engineer-FL-33410/1452416500/) | NextEra Energy | Palm Beach Gardens, FL, United States | 68 | 2+ yrs exp |
 
 ## Wednesday, Nov 18 (1)
@@ -34,11 +35,12 @@ Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (2)](#thursday-nov-19-2) · [
 |---|---|---|---|---:|---|
 | 1:57 PM | [Lab IT/OT Systems Administrator - CONTRACT, Cambridge, MA](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=567e686e-7575-49d9-b29f-985e7365f987&ccId=19000101_000001&jobId=9202921583278_1&lang=en_US) | 567E686E 7575 49D9 B29F 985E7… | Cambridge, MA | 53 | 3+ yrs exp |
 
-## Tuesday, Nov 17 (2)
+## Tuesday, Nov 17 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 12:23 PM | [IT Systems Engineer](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7850) | DNV | Austin, TX, United States | 43 | OT network work in the text |
+| 12:14 PM | [SCADA and Protection Engineer](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Testing-and-Protection-Engineer_R1065483-1) | AES | US, Indianapolis, IN | 58 |  |
 | 2:00 AM | [Electrical Controls Specialist - Hazleton Plant](https://careers.thehersheycompany.com/job/Hazle-Township-Electrical-Controls-Specialist-Hazleton-Plant-PA/1441246100/) | Hershey | Hazle Township, PA, US | 33 | 4+ yrs exp; OT network work in the text |
 
 ## Monday, Nov 16 (1)
