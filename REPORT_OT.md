@@ -1,19 +1,20 @@
 # OT Network Engineer jobs in the US: posted in the last 7 days
 
-**16 jobs**, newest first. Updated Fri Nov 20, 12:41 PM CST from 12,526 company job boards.
+**17 jobs**, newest first. Updated Fri Nov 20, 3:19 PM CST from 12,526 company job boards.
 
 US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and OT security roles; controls, automation or network titles only when the job is about networks in an OT/industrial setting). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 1 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 34 matching jobs that job sites and feeds listed this week, 11 (32%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 68 matching jobs that job sites and feeds listed this week, 22 (32%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (3)](#tuesday-nov-17-3) · [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (1)](#sunday-nov-15-1)
+Jump to: [Fri 20 (7)](#friday-nov-20-7) · [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (3)](#tuesday-nov-17-3) · [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (1)](#sunday-nov-15-1)
 
-## Friday, Nov 20 (6)
+## Friday, Nov 20 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Industrial Control Systems Engineer](https://jobs.exxonmobil.com/ExxonMobil/job/Baytown-Industrial-Control-Systems-Engineer-TX-77520/1452718100/) | ExxonMobil | Baytown, TX, United States | 75 | 2+ yrs exp |
 | 10:01 AM (seen) | [Direct Hire SCADA Engineer Work from Home](https://jatcainc.catsone.com/careers/1408-General/jobs/15207308-Direct-Hire-SCADA-Engineer-Work-from-Home/) | Jatcainc |  | 55 | 2+ yrs exp; location unclear |
 | 10:01 AM (seen) | [Senior OT Infrastructure Analyst Permanent](https://westworksgroupinc.catsone.com/careers/60141-West-Works-Group-Inc/jobs/16529718-Senior-OT-Infrastructure-Analyst--Permanent/) | Westworksgroupinc |  | 35 | senior title, years not stated; location unclear |
 | 10:01 AM (seen) | [Operations Technology OT Support Specialist](https://westworksgroupinc.catsone.com/careers/60141-West-Works-Group-Inc/jobs/14457009-Operations-Technology-OT-Support-Specialist/) | Westworksgroupinc |  | 45 | location unclear |
@@ -56,13 +57,14 @@ Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (3)](#thursday-nov-19-3) · [
 |---|---|---|---|---:|---|
 | 2:00 AM | [Senior Operational Technology SCADA Systems Administrator - Cybersecu…](https://jobs.nexteraenergy.com/job/Palm-Beach-Gardens-Senior-Operational-Technology-SCADA-Systems-Administrator-Cybersecurity-and-Resiliency-FL-33410/1431619000/) | NextEra Energy | Palm Beach Gardens, FL, United States | 48 | 4+ yrs exp; senior title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (17)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (18)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 12:35 PM | [Distributed Control Systems Engineer-*Relocation Package Available*](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161650) | Honeywell | Long Beach, CA, United States (onsite) | 35 | rules: 6+ yrs exp; OT network work in the text; needs: must be a U.S.… |
+| date only | [Industrial Control Systems Specialist](https://jobs.exxonmobil.com/ExxonMobil/job/Baytown-Industrial-Control-Systems-Specialist-TX-77520/1452721200/) | ExxonMobil | Baytown, TX, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:00 AM | [OT Cyber Analyst](https://careers.hfsinclair.com/job/Dallas-OT-Cyber-Analyst-TX-75219/1423280000/) | HF Sinclair | Dallas, TX, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Senior SCADA & Automation Engineer 1 - Grid](https://careers-sargentlundy.icims.com/jobs/30238/senior-scada-%26-automation-engineer-1---grid/job) | Sargent & Lundy | Englewood, CO, United States | 50 | rules: entry-level title; 5+ yrs exp; senior title; no future H-1B sp… |
 | 6:22 PM | [Senior Industrial Security Analyst](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5490199008) | K2 Space | Los Angeles, CA | 45 | rules: 10+ yrs exp; senior title; needs: Security Clearance |
