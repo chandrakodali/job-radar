@@ -47,11 +47,11 @@ from .store import (ROOT, append_matches, append_rejected, load_boards, load_dis
 
 log = logging.getLogger("radar")
 
-LIST_CONCURRENCY = {"greenhouse": 8, "lever": 6, "ashby": 6, "smartrecruiters": 4, "workday": 5,
+LIST_CONCURRENCY = {"greenhouse": 8, "lever": 6, "ashby": 6, "smartrecruiters": 4, "workday": 3,
                     "oracle": 8, "workable": 2, "rippling": 6, "bamboohr": 6, "recruitee": 4}
 FRESH = os.environ.get("RADAR_FRESH") == "1"   # diagnostics: judge every job again, ignoring what was seen
 
-DETAIL_CONCURRENCY = {"yc": 2, "greenhouse": 8, "smartrecruiters": 4, "workday": 8, "oracle": 6, "workable": 4,
+DETAIL_CONCURRENCY = {"yc": 2, "greenhouse": 8, "smartrecruiters": 4, "workday": 3, "oracle": 6, "workable": 4,
                       "rippling": 6, "bamboohr": 6}
 for _ats, _n in ats_more.CONCURRENCY.items():
     LIST_CONCURRENCY.setdefault(_ats, _n)
@@ -314,8 +314,10 @@ def run(args) -> int:
     live: dict[str, set[str]] = {}   # board key -> every job it lists right now (complete listings only)
     track_closed = bool(cfg.get("report", {}).get("track_closed"))
     newly_baselined: set[str] = set()
+    # Workday (paced, rate-limited) gets its own workers, so its waiting never holds up the other systems.
     pool = ThreadPoolExecutor(max_workers=40)
-    futures = {pool.submit(fetch_board, b): b for b in selected}
+    wd_pool = ThreadPoolExecutor(max_workers=LIST_CONCURRENCY["workday"])
+    futures = {(wd_pool if b.ats == "workday" else pool).submit(fetch_board, b): b for b in selected}
     done_n, last_log = 0, time.monotonic()
     try:
         for fut in as_completed(futures, timeout=max(30.0, deadline + 90 - time.monotonic())):
@@ -371,6 +373,7 @@ def run(args) -> int:
         log.warning("Stopped waiting for %d slow boards: %s", sum(stuck.values()), dict(stuck))
     finally:
         pool.shutdown(wait=False, cancel_futures=True)
+        wd_pool.shutdown(wait=False, cancel_futures=True)
     # Jobs from job-alert emails and Adzuna: kept only when the employer's own board did not list them.
     if want_sources:
         extra: list[Job] = []
@@ -472,7 +475,8 @@ def run(args) -> int:
                                  or ai_cfg.get("backlog_per_run", 400))]
     candidates = candidates + ai_backlog
     dpool = ThreadPoolExecutor(max_workers=24)
-    dfutures = [dpool.submit(detail, c) for c in candidates]
+    wd_dpool = ThreadPoolExecutor(max_workers=DETAIL_CONCURRENCY.get("workday", 4))
+    dfutures = [(wd_dpool if c[0].ats == "workday" else dpool).submit(detail, c) for c in candidates]
     try:
         for _ in as_completed(dfutures, timeout=max(30.0, deadline + 240 - time.monotonic())):
             pass
@@ -480,6 +484,7 @@ def run(args) -> int:
         log.warning("Stopped waiting for %d slow job-detail requests", sum(1 for f in dfutures if not f.done()))
     finally:
         dpool.shutdown(wait=False, cancel_futures=True)
+        wd_dpool.shutdown(wait=False, cancel_futures=True)
     # unfinished details: assess with what the listing gave
     detailed = [f.result() if f.done() and not f.cancelled() else c for f, c in zip(dfutures, candidates)]
     ai_back = [c for c in detailed if c[2] == "_ai"]

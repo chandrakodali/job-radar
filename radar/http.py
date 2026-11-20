@@ -55,7 +55,7 @@ HTML_ACCEPT = "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
 
 # Sites behind a shared rate limit (Cloudflare and the like): at most one request per `gap` seconds per group,
 # across all threads. Keeps the radar under their limits instead of bursting and getting 429s.
-PACED = [("myworkdayjobs.com", 0.2), ("recruiting.paylocity.com", 0.6), ("workforcenow.adp.com", 0.6),
+PACED = [("myworkdayjobs.com", 0.35), ("recruiting.paylocity.com", 0.6), ("workforcenow.adp.com", 0.6),
          ("app.dover.com", 0.6), ("dayforcehcm.com", 0.3)]
 _pace_lock = threading.Lock()
 _pace_next: dict[str, float] = {}
