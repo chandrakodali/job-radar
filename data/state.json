@@ -12150,17 +12150,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 323,
+   "n": 324,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 323,
+   "n": 324,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 323,
+   "n": 324,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -69651,6 +69651,8 @@
   "workday:ag|wd3|Airbus:JR10365945": "2026-11-12",
   "workday:ag|wd3|Airbus:JR10450439": "2026-11-09",
   "workday:ag|wd3|Airbus:JR10450677": "2026-11-09",
+  "workday:airliquidehr|wd3|AirLiquideExternalCareer:R10090406": "2026-11-20",
+  "workday:airliquidehr|wd3|AirLiquideExternalCareer:R10105255": "2026-11-20",
   "workday:airliquidehr|wd3|airgasexternalcareer:R10103870": "2026-11-08",
   "workday:aksteel|wd1|careers:R13950": "2026-11-12",
   "workday:alegeus|wd1|Alegeus_External_Careers:R-101451": "2026-11-19",
