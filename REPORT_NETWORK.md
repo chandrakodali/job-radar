@@ -1,10 +1,12 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**109 jobs**, newest first. Updated Fri Nov 20, 4:46 PM CST from 12,571 company job boards and other sources.
+**109 jobs**, newest first. Updated Fri Nov 20, 4:46 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 66 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 58 matching jobs that job sites and feeds listed this week, 26 (44%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 20 (66)](#friday-nov-20-66) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (8)](#wednesday-nov-18-8) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (10)](#monday-nov-16-10) · [Sun 15 (1)](#sunday-nov-15-1) · [Fri 13 (1)](#friday-nov-13-1)
 
@@ -152,7 +154,7 @@ Jump to: [Fri 20 (66)](#friday-nov-20-66) · [Thu 19 (13)](#thursday-nov-19-13) 
 |---|---|---|---|---:|---|
 | 5:12 PM | [Data Center & Linux Systems Engineer](https://jobs.gem.com/ocient-inc-/am9icG9zdDrWlfsujLjzR1YGlutvpkiF) | Ocient Inc | Chicago, IL (remote) | 40 | 2+ yrs exp; no future H-1B sponsorship; network work in the text |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (200)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (201)
 
 <details><summary>Show</summary>
 
@@ -336,6 +338,7 @@ Jump to: [Fri 20 (66)](#friday-nov-20-66) · [Thu 19 (13)](#thursday-nov-19-13) 
 | 12:20 PM | [Network Engineer](https://job-boards.greenhouse.io/m9solutions/jobs/5293514007) | M9Solutions | Quantico, VA - Top Secret clearance req… | 45 | rules: 3+ yrs exp; needs: Top Secret clearance |
 | 12:15 PM | [Network Administrator](https://jobs.ashbyhq.com/saronic/d9c5db3f-687c-42f5-92d0-7866feb4163b) | Saronic | Austin, TX (onsite) | 55 | rules: needs: security clearance |
 | 12:15 PM | [Network Engineer](https://jobs.ashbyhq.com/saronic/757b12ba-28da-4662-ae46-7c9f299dba5b) | Saronic | Austin, TX (onsite) | 50 | rules: 3+ yrs exp; needs: security clearance |
+| 11:23 AM | [Senior Network WAN Engineer](https://jobs.ascension.org/us/en/job/AHEAHUUS2026452072EXTERNALENUS) | Ascension | Saint Louis, MO, 63134 | 35 | rules: 5+ yrs exp; senior title; E-Verify; asks for 5+ years of exper… |
 | date only | [24367 - Senior Network Engineer](https://careers.quality-ai.com/job/Petach-_-Tikva-24367-Senior-Network-Engineer/61494544/) | Qualitest |  | 25 | rules: 5+ yrs exp; senior title; location unclear; asks for 5+ years … |
 | date only | [Senior Network Engineer](https://jobs.jobvite.com/altamiracorps/job/odV6Afwy) | Altamira Technologies | McLean, VA, United States; Chantilly, V… | 45 | rules: 4+ yrs exp; senior title; needs: security clearance |
 | 9:24 AM | [Senior Cloud Infrastructure Engineer (Azure / Terraform)](https://job-boards.greenhouse.io/chaosindustries/jobs/5293433007) | CHAOS Industries | San Francisco, CA | 25 | rules: senior title, years not stated; network work in the text; need… |
