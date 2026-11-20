@@ -5,7 +5,7 @@ Apex.AI,lever,apex-ai,6,,0,
 Autoliv,teamtailor,careerunitedstates.autoliv.com,59,,0,
 BRP,phenom,careers.brp.com|global/en,289,,0,
 Continental,smartrecruiters,continental,80,,0,
-Denso,oracle,hcwt.fa.us2.oraclecloud.com|CX,81,,0,
+Denso,oracle,hcwt.fa.us2.oraclecloud.com|CX,83,,0,
 Elektrobit,smartrecruiters,Elektrobit,0,,0,
 Faraday Future,greenhouse,faradayfuture,65,,0,
 GILLIG,greenhouse,gillig,0,,0,
@@ -23,7 +23,7 @@ PHINIA,workday,phinia|wd5|PHINIA_Careers,0,,0,error: skipped (rate limited); lis
 Polestar,workday,polestar|wd3|Careers,0,,0,error: skipped (rate limited)
 Pony.ai,workable,pony-dot-ai,9,,0,
 Sensata,workday,sensata|wd1|Sensata-Careers,0,,0,error: skipped (rate limited); lists nothing now (listed 37 before)
-Subaru,oracle,hcal.fa.us2.oraclecloud.com|CX_1001,29,,0,
+Subaru,oracle,hcal.fa.us2.oraclecloud.com|CX_1001,33,,0,
 Sumitomo Electric Wiring Systems,jobvite,sews,44,,0,
 Tenneco,sfrmk,jobs.tenneco.com,270,,0,
 Terex,workday,terex|wd1|terexcareers,0,,0,error: skipped (rate limited); lists nothing now (listed 459 before)
@@ -37,7 +37,7 @@ WeRide,lever,weride,12,,0,
 Wisk,workday,wisk|wd108|Wisk_Careers,0,,0,error: skipped (rate limited)
 Aeva,lever,aeva,46,,3,
 AGCO,sfrmk,careers.agcocorp.com,343,,1,
-Allison Transmission,workday,allisontransmission|wd1|ATI-External,92,yes,2,
+Allison Transmission,workday,allisontransmission|wd1|ATI-External,0,,2,error: skipped (rate limited); lists nothing now (listed 92 before)
 ALTEN Technology USA,greenhouse,altentechnologyusa,233,,30,
 Ambarella,workday,ambarella|wd108|ambarella,0,,1,error: skipped (rate limited); lists nothing now (listed 20 before)
 Analog Devices,workday,analogdevices|wd1|External,0,,17,error: skipped (rate limited); lists nothing now (listed 309 before)
@@ -47,41 +47,41 @@ Archer Aviation,greenhouse,archer56,79,,2,
 Astemo,workday,astemo|wd102|Global_Career_Site,361,yes,8,
 Aumovio,smartrecruiters,Aumovio,15,,1,
 Aurora Innovation,ashby,aurora-operations-inc,86,,6,
-AVL,sfrmk,jobs.avl.com,43,,3,
-Bendix (Knorr-Bremse),sfrmk,careers.knorr-bremse.com,62,,3,
+AVL,sfrmk,jobs.avl.com,44,,3,
+Bendix (Knorr-Bremse),sfrmk,careers.knorr-bremse.com,63,,3,
 BMW Group,sfrmk,jobs.bmwgroup.com,240,,3,
-BorgWarner,workday,borgwarner|wd5|BorgWarner_Careers,80,,10,
+BorgWarner,workday,borgwarner|wd5|BorgWarner_Careers,0,,10,error: skipped (rate limited); lists nothing now (listed 80 before)
 Bosch,smartrecruiters,BoschGroup,346,,22,
 Bose,phenom,careers.bose.com|us/en,101,,8,
 Bot Auto,greenhouse,botauto,20,,1,
 Brunswick (Mercury Marine),workday,brunswick|wd1|search,0,,1,error: skipped (rate limited); lists nothing now (listed 326 before)
-Capgemini,sfrmk,careers.capgemini.com,72,,20,
+Capgemini,sfrmk,careers.capgemini.com,91,,20,
 Carrier,workday,carrier|wd5|jobs,0,,6,error: skipped (rate limited); lists nothing now (listed 388 before)
 Caterpillar,workday,cat|wd5|caterpillarcareers,0,,40,error: skipped (rate limited); lists nothing now (listed 60 before)
 CNH,sfrmk,join.cnh.com,2056,,19,
 Crown Equipment,sfrmk,us-careers.crown.com,531,,6,
-Cummins,oracle,fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,464,,13,
+Cummins,oracle,fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,414,,13,
 Daimler Truck North America,workday,dtna|wd5|dtna_external,0,,2,error: skipped (rate limited); lists nothing now (listed 40 before)
-Dana,sfrmk,jobs.dana.com,358,,5,
+Dana,sfrmk,jobs.dana.com,359,,5,
 Dauch (American Axle),ldsite,careers.dauch.com/sitemap.xml|/job/.+/(\d+)/?$,368,,1,
 Doosan Bobcat,sfrmk,jobs.doosan.com,194,,1,
 dSPACE,dspace,www.dspace.com|en/inc/home/career/jobfinder/stellen.cfm,65,,4,
-Eaton,eightfold,eaton|eaton.com,416,,15,
+Eaton,eightfold,eaton|eaton.com,352,,15,
 Expleo (US),icims,expleo-jobs-us-en.icims.com,12,,2,
-Ford Motor Company,oracle,efds.fa.em5.oraclecloud.com|CX_1,512,,101,
+Ford Motor Company,oracle,efds.fa.em5.oraclecloud.com|CX_1,458,,101,
 Garmin,jibe,careers.garmin.com,444,,8,
-Garrett Motion,oracle,ehth.fa.em2.oraclecloud.com|CX_2001,66,,1,
+Garrett Motion,oracle,ehth.fa.em2.oraclecloud.com|CX_2001,67,,1,
 Gatik,greenhouse,gatikaiinc,67,,10,
 GE Aerospace,workday,geaerospace|wd5|GE_ExternalSite,0,,2,error: skipped (rate limited); lists nothing now (listed 581 before)
-General Motors,workday,generalmotors|wd5|Careers_GM,160,,61,
+General Motors,workday,generalmotors|wd5|Careers_GM,0,,61,error: skipped (rate limited); lists nothing now (listed 160 before)
 Gentex,workday,gentex|wd5|Gentex,0,,3,error: skipped (rate limited); lists nothing now (listed 65 before)
 Harbinger Motors,greenhouse,harbingermotors,85,,9,
 Hitachi,workday,hitachi|wd1|hitachi,0,,3,error: skipped (rate limited); lists nothing now (listed 700 before)
 Honda,phenom,careers.honda.com|us/en,328,,8,
 Hyundai Motor Group (HATCI / Hyundai / Genesis),sfrmk,careers-americas.hyundai.com,258,,32,
-Infineon,eightfold,infineon|infineon.com,355,,13,
+Infineon,eightfold,infineon|infineon.com,325,,13,
 International Motors,jibe,careers.international.com,159,,1,
-John Deere,eightfold,johndeere|johndeere.com,203,,22,
+John Deere,eightfold,johndeere|johndeere.com,194,,22,
 JTEKT,dayforce,jtekt|candidateportal,50,,1,
 Kodiak Robotics,greenhouse,kodiak,46,,2,
 Kubota,dayforce,kubota|candidateportal,53,,2,
@@ -100,7 +100,7 @@ Nissan,workday,alliance|wd3|nissanjobs,0,,1,error: skipped (rate limited); lists
 Nuro,greenhouse,nuro,103,,8,
 NVIDIA,workday,nvidia|wd5|NVIDIAExternalCareerSite,0,,53,error: skipped (rate limited); lists nothing now (listed 1400 before)
 NXP Semiconductors,workday,nxp||careers,0,,4,error: skipped (rate limited); lists nothing now (listed 120 before)
-onsemi,oracle,hctz.fa.us2.oraclecloud.com|CX_1001,345,,1,
+onsemi,oracle,hctz.fa.us2.oraclecloud.com|CX_1001,357,,1,
 Oshkosh,workday,oshkoshcorporation|wd5|Oshkosh,0,,16,error: skipped (rate limited); lists nothing now (listed 40 before)
 Ouster,jazzhr,ouster,31,,5,
 Outrider,greenhouse,outrider,9,,3,
@@ -108,32 +108,32 @@ PACCAR,sfrmk,jobs.paccar.com,0,,29,lists nothing now (listed 316 before)
 Panasonic North America,jibe,careers.na.panasonic.com,425,,2,
 Plus,lever,plus-2,43,,3,
 Polaris,workday,polaris|wd5|PolarisJobs,0,,2,error: skipped (rate limited); lists nothing now (listed 40 before)
-Qualcomm,eightfold,qualcomm|qualcomm.com,349,,48,
-Quest Global,phenom,careers.quest-global.com|global/en,700,,10,
+Qualcomm,eightfold,qualcomm|qualcomm.com,0,,48,error: skipped (rate limited); lists nothing now (listed 349 before)
+Quest Global,phenom,careers.quest-global.com|global/en,686,,10,
 Renesas Electronics,smartrecruiters,renesaselectronics,217,,10,
-Rivian,jibe,careers.rivian.com,811,,41,
+Rivian,jibe,careers.rivian.com,931,,41,
 Rivian and Volkswagen Group Technologies,ashby,rivianvw.tech,183,,45,
 Rockwell Automation,workday,rockwellautomation|wd1|External_Rockwell_Automation,0,,4,error: skipped (rate limited); lists nothing now (listed 152 before)
 ROUSH,jazzhr,roush,66,,2,
-Schaeffler,sfrmk,jobs.schaeffler.com,2,,1,
+Schaeffler,sfrmk,jobs.schaeffler.com,8,,1,
 Scout Motors,greenhouse,scoutmotors,210,,8,
 Serve Robotics,ashby,serverobotics,22,,1,
-Slate Auto,workday,recar|wd108|SLATEcareers,40,,4,
+Slate Auto,workday,recar|wd108|SLATEcareers,100,,4,
 Sonatus,greenhouse,sonatus,17,,1,
 Stack AV,greenhouse,stackav,16,,4,
 Stellantis,mcloud,2016|careers.stellantis.com,463,,100,
 Stoneridge,workday,stoneridge|wd5|Careers,0,,2,error: skipped (rate limited)
-TE Connectivity,sfrmk,careers.te.com,2428,,1,
-TEKsystems,phenom,careers.teksystems.com|us/en,445,,1,
-Texas Instruments,oracle,edbz.fa.us2.oraclecloud.com|CX,349,,4,
+TE Connectivity,sfrmk,careers.te.com,2427,,1,
+TEKsystems,phenom,careers.teksystems.com|us/en,532,,1,
+Texas Instruments,oracle,edbz.fa.us2.oraclecloud.com|CX,389,,4,
 Torc Robotics,greenhouse,torcrobotics,53,,13,
-Toyota,workday,toyota|wd503|tmna,100,,1,
+Toyota,workday,toyota|wd503|tmna,126,yes,1,
 Valeo,workday,valeo|wd3|valeo_jobs,0,,4,error: skipped (rate limited); lists nothing now (listed 88 before)
 Vector North America,workable,vectornorthamerica,6,,1,
-Volkswagen Group,sfrmk,jobs.volkswagen-group.com,1101,,1,
+Volkswagen Group,sfrmk,jobs.volkswagen-group.com,189,,1,
 Volvo Group (Volvo Trucks / Mack),sfrmk,jobs.volvogroup.com,757,,1,
 Waabi,lever,waabi,85,,8,
-Wabtec,smartrecruiters,Wabtec,323,,11,
+Wabtec,smartrecruiters,Wabtec,324,,11,
 Waymo,greenhouse,waymo,368,,3,
 Wayve,ashby,wayve,150,,11,
 Woodward,workday,woodward|wd5|woodward,0,,1,error: skipped (rate limited); lists nothing now (listed 84 before)
