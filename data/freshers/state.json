@@ -12022,17 +12022,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 159,
+   "n": 160,
    "since": "2026-11-13"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 159,
+   "n": 160,
    "since": "2026-11-13"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 159,
+   "n": 160,
    "since": "2026-11-13"
   },
   "breezy:connexa": {
@@ -64979,6 +64979,7 @@
   "amazon:us:10609843": "2026-11-19",
   "amazon:us:10609846": "2026-11-19",
   "amazon:us:10609911": "2026-11-19",
+  "amazon:us:10609923": "2026-11-20",
   "amazon:us:10609930": "2026-11-19",
   "amazon:us:10610057": "2026-11-20",
   "amazon:us:10610060": "2026-11-20",
@@ -66766,6 +66767,8 @@
   "bamboohr:morristechnology:445": "2026-11-15",
   "bamboohr:mpathic2:105": "2026-11-15",
   "bamboohr:mpathic2:130": "2026-11-15",
+  "bamboohr:mpathic2:133": "2026-11-20",
+  "bamboohr:mpathic2:134": "2026-11-20",
   "bamboohr:mpathic2:84": "2026-11-15",
   "bamboohr:mpathic2:89": "2026-11-15",
   "bamboohr:mujin:201": "2026-11-13",
@@ -68461,6 +68464,7 @@
   "dayforce:inteplast|CANDIDATEPORTAL:9640": "2026-11-15",
   "dayforce:ipg|ipg:7223": "2026-11-14",
   "dayforce:ipg|ipg:7234": "2026-11-14",
+  "dayforce:ipg|ipg:7433": "2026-11-20",
   "dayforce:jcb|CANDIDATEPORTAL:13241": "2026-11-14",
   "dayforce:jcb|CANDIDATEPORTAL:13336": "2026-11-19",
   "dayforce:k12l|candidateportal:10918": "2026-11-14",
@@ -70225,6 +70229,7 @@
   "greenhouse:lilasciences:4472554009": "2026-11-13",
   "greenhouse:lilasciences:4505109009": "2026-11-13",
   "greenhouse:lindawernerassociates:5471985008": "2026-11-13",
+  "greenhouse:localitymediallcdbafirstdue:4340712009": "2026-11-20",
   "greenhouse:localitymediallcdbafirstdue:4476995009": "2026-11-13",
   "greenhouse:loenbro:4481123009": "2026-11-13",
   "greenhouse:loenbro:4481126009": "2026-11-13",
@@ -74599,6 +74604,7 @@
   "lever:jobgether:bd763265-759c-4f88-bf0e-819c490842b5": "2026-11-14",
   "lever:jobgether:c12ad43a-3c7b-4d0b-adde-d3509813970d": "2026-11-14",
   "lever:jobgether:c1ce821c-87cf-46e9-8ebc-e2f5038708ce": "2026-11-19",
+  "lever:jobgether:c2dc5af1-6f3f-47ec-8a7d-4af4a51cebdb": "2026-11-20",
   "lever:jobgether:c2f8cdcc-e863-4e3f-884b-2a63153cc5ae": "2026-11-14",
   "lever:jobgether:c3e6c562-da79-4e0d-8f8c-9daa7b7b5081": "2026-11-14",
   "lever:jobgether:c458c5ea-e3d4-43cb-b091-f6533e1b1a6e": "2026-11-14",

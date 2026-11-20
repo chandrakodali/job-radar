@@ -1,14 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**573 jobs**, newest first. Updated Thu Nov 19, 10:47 PM CST from 12,526 company job boards and other sources.
+**570 jobs**, newest first. Updated Thu Nov 19, 11:51 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-255 repeat listings (same company and title in another place or on another source) are merged into one row.
+254 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Coverage check: of 4,404 matching jobs that job sites and feeds listed this week, 842 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (73)](#thursday-nov-19-73) · [Wed 18 (57)](#wednesday-nov-18-57) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (140)](#saturday-nov-14-140) · [Fri 13 (147)](#friday-nov-13-147) · [Thu 12 (3)](#thursday-nov-12-3)
+Jump to: [Thu 19 (73)](#thursday-nov-19-73) · [Wed 18 (57)](#wednesday-nov-18-57) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (140)](#saturday-nov-14-140) · [Fri 13 (147)](#friday-nov-13-147)
 
 ## Thursday, Nov 19 (73)
 
@@ -615,15 +615,7 @@ Jump to: [Thu 19 (73)](#thursday-nov-19-73) · [Wed 18 (57)](#wednesday-nov-18-5
 | 2:00 AM | [Fluid Systems Engineer](https://careers.westinghousenuclear.com/job/Rock-Hill-Fluid-Systems-Engineer-SC-29730/1440646100/) | Westinghouse Electric Company | Rock Hill, SC, United States | 85 | 1+ yrs exp; entry level (from the text) |
 | 1:00 AM | [Network Engineer I](https://jobs.dayforcehcm.com/en-US/sonifi/CANDIDATEPORTAL/jobs/5902) | Sonifi | Sioux Falls, SD, US | 73 | entry-level title; E-Verify |
 
-## Thursday, Nov 12 (3)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 11:00 PM | [Junior Energy Data Analyst](https://careers-cadmusgroup.icims.com/jobs/3241/junior-energy-data-analyst/job) | Cadmus | New York, NY, United States; Boulder, C… | 85 | entry-level title; 0-2 yrs exp |
-| 11:00 PM | [IT Support Specialist I](https://careers-primehealthcare.icims.com/jobs/290346/it-support-specialist-i/job) | Prime Healthcare | Ontario, CA, United States +1 more | 75 | entry-level title |
-| 11:00 PM | [Geospatial Engineer – Cloud & DevOps](https://careers-dewberry.icims.com/jobs/16686/geospatial-engineer-%e2%80%93-cloud-%26-devops/job) | Dewberry | Fairfax, VA, United States | 70 | entry level (from the text); no future H-1B sponsorship |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (4078)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (4084)
 
 <details><summary>Show</summary>
 
@@ -632,7 +624,13 @@ Jump to: [Thu 19 (73)](#thursday-nov-19-73) · [Wed 18 (57)](#wednesday-nov-18-5
 | date only | [Advance Solutions Project Specialist, AVP](https://morganstanley.eightfold.ai/careers/job/549801272472) | Morganstanley | Calgary, AB, CA; Alpharetta, GA, US; Sa… (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Support Engineer, DVA+, Demand Enablement and Product Operations](https://www.amazon.jobs/en/jobs/10610057/support-engineer-dva-demand-enablement-and-product-operations) | Amazon.com Services LLC | New York, New York, USA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Data Scientist, NA Operations](https://www.amazon.jobs/en/jobs/10610060/data-scientist-na-operations) | Amazon.com Services LLC | Bellevue, Washington, USA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| date only | [Quality Assurance Engineer, Amazon Leo Console](https://www.amazon.jobs/en/jobs/10609923/quality-assurance-engineer-amazon-leo-console) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
+| date only | [Machine Learning Engineer, Evaluation](https://mpathic2.bamboohr.com/careers/133) | Mpathic2 | United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| date only | [Machine Learning Engineer, Data Products](https://mpathic2.bamboohr.com/careers/134) | Mpathic2 | Remote | 70 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | 11:45 PM | [Software Engineer - Postgres Tooling](https://jobs.lever.co/jobgether/ff59447a-0ae0-4db3-a963-45166c491862) | Jobgether | US (remote) | 42 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| 11:06 PM | [Full Stack Developer](https://jobs.lever.co/jobgether/c2dc5af1-6f3f-47ec-8a7d-4af4a51cebdb) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; asks for 7+ years of experience |
+| 11:00 PM | [Quality Assurance Specialist  - Chicago](https://jobs.dayforcehcm.com/en-US/ipg/ipg/jobs/7433) | Ipg | Chicago, IL, US | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 10:59 PM | [Implementation Consultant, Fire Prevention](https://job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4340712009) | First Due | Remote - US Only (remote) | 57 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; asks for 3+ … |
 | 10:57 PM | [ERP Engineering Support Analyst](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0eee8708-c75e-495c-8ca2-fffc1d15c1ec&ccId=19000101_000001&jobId=9205261837537_17&lang=en_US) | 0Eee8708 C75E 495C 8Ca2 Fffc1… | Wixom, MI | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 10:47 PM (seen) | [Software Developer - Networking (Flow)](https://jobs.jobvite.com/nutanix/job/o2lOAfwv) | Nutanix |  | 55 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | 9:45 PM | [Developer Support Engineer](https://jobs.lever.co/jobgether/812e7528-9851-4e87-9116-c7bf6e4ce45e) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -1023,11 +1021,5 @@ Jump to: [Thu 19 (73)](#thursday-nov-19-73) · [Wed 18 (57)](#wednesday-nov-18-5
 | date only | [Mid-Level Google Cloud Platform Looker Developer](https://apply.workable.com/credence/j/072FAF32A3/) | Credence | Tysons, Virginia, United States | 60 | rules: 4+ yrs exp; needs: Secret clearance |
 | date only | [Software Systems Engineer](https://hp.eightfold.ai/careers/job/45062058) | Hp | Spring, TX, US (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Cloud Engineer](https://analyticallc.applytojob.com/apply/x7bxOAoNux/Cloud-Engineer) | Analytica | Washington, DC | 60 | rules: 3+ yrs exp; needs: security clearance |
-| date only | [Systems Admin - Salesforce & Gong](https://intellipro.applytojob.com/apply/E0EUSPHWz3/Systems-Admin-Salesforce-Gong) | IntelliPro Group Inc. | Remote (US) (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [Silicon Validation Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029023EXTERNALENGLOBAL) | Cisco | San Jose, California, United States of … | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
-| date only | [Software Development Engineer, Workshop Studio](https://www.amazon.jobs/en/jobs/10608182/software-development-engineer-workshop-studio) | Amazon Web Services, Inc. | Austin, Texas, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [Software Development Engineer, AWS](https://www.amazon.jobs/en/jobs/10607584/software-development-engineer-aws) | Amazon Data Services, Inc. | Minneapolis, Minnesota, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [System Development Engineer, Robotics Delivery & Packaging Innovation…](https://www.amazon.jobs/en/jobs/10608177/system-development-engineer-robotics-delivery-packaging-innovation-rdpi-rdpi-hardware-solutions) | Amazon.com Services LLC | Westborough, Massachusetts, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [Big Data Application Developer, AVP](https://citi.eightfold.ai/careers/job/859038617577) | Citi | Mississauga, ON, CA (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
