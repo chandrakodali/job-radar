@@ -1,6 +1,6 @@
 # Auto Radar: what the matching jobs ask for
 
-Counted over the job descriptions of **1719 current matches** (boilerplate left out). "Asked for" = named in the requirements or the main duties; "Required" = named under required/basic qualifications or in the title.
+Counted over the job descriptions of **1720 current matches** (boilerplate left out). "Asked for" = named in the requirements or the main duties; "Required" = named under required/basic qualifications or in the title.
 
 ## Skills the resume shows, most asked first
 
@@ -12,7 +12,7 @@ Make sure each of these is written on the resume in the words employers use: rec
 | C++ | 790 jobs (46%) | 522 (30%) |
 | Python | 698 jobs (41%) | 435 (25%) |
 | C | 586 jobs (34%) | 389 (23%) |
-| Controls/algorithms | 553 jobs (32%) | 265 (15%) |
+| Controls/algorithms | 554 jobs (32%) | 266 (15%) |
 | CAN/CAN FD | 495 jobs (29%) | 271 (16%) |
 | Functional safety | 449 jobs (26%) | 195 (11%) |
 | Requirements engineering | 380 jobs (22%) | 124 (7%) |
@@ -22,7 +22,7 @@ Make sure each of these is written on the resume in the words employers use: rec
 | Automotive software | 293 jobs (17%) | 109 (6%) |
 | Git | 280 jobs (16%) | 163 (9%) |
 | Jenkins/CI | 260 jobs (15%) | 121 (7%) |
-| Agile/Scrum/Jira | 255 jobs (15%) | 118 (7%) |
+| Agile/Scrum/Jira | 256 jobs (15%) | 119 (7%) |
 | Code reviews | 245 jobs (14%) | 46 (3%) |
 | Software integration/build/release | 234 jobs (14%) | 107 (6%) |
 | ISO 26262 | 234 jobs (14%) | 119 (7%) |
@@ -30,7 +30,7 @@ Make sure each of these is written on the resume in the words employers use: rec
 | ECU software | 226 jobs (13%) | 71 (4%) |
 | SIL testing | 196 jobs (11%) | 57 (3%) |
 | Model-based design | 131 jobs (8%) | 68 (4%) |
-| Vehicle dynamics/chassis | 125 jobs (7%) | 53 (3%) |
+| Vehicle dynamics/chassis | 126 jobs (7%) | 54 (3%) |
 | SWC/RTE design | 124 jobs (7%) | 14 (1%) |
 | Unit testing | 119 jobs (7%) | 30 (2%) |
 
@@ -41,7 +41,7 @@ If you have one of these, add it to the resume (and to profiles/automotive/skill
 | Skill | Asked for in | Required in |
 |---|---:|---:|
 | HIL testing | 453 jobs (26%) | 158 (9%) |
-| Hardware design (FPGA/PCB/analog) | 361 jobs (21%) | 194 (11%) |
+| Hardware design (FPGA/PCB/analog) | 362 jobs (21%) | 194 (11%) |
 | Debugging hardware (Lauterbach/JTAG/scope) | 334 jobs (19%) | 201 (12%) |
 | RTOS | 313 jobs (18%) | 196 (11%) |
 | Test automation scripting | 296 jobs (17%) | 128 (7%) |
@@ -56,7 +56,7 @@ If you have one of these, add it to the resume (and to profiles/automotive/skill
 | Cybersecurity (ISO 21434) | 169 jobs (10%) | 69 (4%) |
 | Calibration (XCP/INCA/CANape) | 158 jobs (9%) | 106 (6%) |
 | LIN | 143 jobs (8%) | 66 (4%) |
-| Inverter/power electronics | 139 jobs (8%) | 82 (5%) |
+| Inverter/power electronics | 140 jobs (8%) | 83 (5%) |
 | UDS/diagnostics | 120 jobs (7%) | 62 (4%) |
 | Motor control | 118 jobs (7%) | 58 (3%) |
 | Machine learning | 115 jobs (7%) | 50 (3%) |
