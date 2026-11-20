@@ -12009,17 +12009,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 136,
+   "n": 137,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 136,
+   "n": 137,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 136,
+   "n": 137,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13382,8 +13382,8 @@
    433
   ],
   "2026-11-20": [
-   42,
-   123
+   58,
+   175
   ]
  },
  "resolved": {
@@ -69177,6 +69177,7 @@
   "sfrmk:jobs.netapp.com:1452037200": "2026-11-18",
   "sfrmk:jobs.netapp.com:1452419000": "2026-11-19",
   "sfrmk:jobs.netapp.com:1452479000": "2026-11-20",
+  "sfrmk:jobs.netapp.com:1452485100": "2026-11-20",
   "sfrmk:jobs.nexteraenergy.com:1433113000": "2026-11-14",
   "sfrmk:jobs.nexteraenergy.com:1440011500": "2026-11-14",
   "sfrmk:jobs.nexteraenergy.com:1444759900": "2026-11-14",
@@ -70524,11 +70525,11 @@
  },
  "source_last": {
   "hn": "2026-11-20T04:17:26+00:00",
-  "remoteok": "2026-11-20T06:18:40+00:00",
-  "usajobs": "2026-11-20T05:15:30+00:00",
-  "workable_search": "2026-11-20T05:15:30+00:00",
-  "wwr": "2026-11-20T07:18:00+00:00",
-  "yc": "2026-11-20T05:15:30+00:00"
+  "remoteok": "2026-11-20T08:17:52+00:00",
+  "usajobs": "2026-11-20T08:17:52+00:00",
+  "workable_search": "2026-11-20T08:17:52+00:00",
+  "wwr": "2026-11-20T08:17:52+00:00",
+  "yc": "2026-11-20T08:17:52+00:00"
  },
  "title_rules": "72f554d20a7f",
  "version": 1
