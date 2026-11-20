@@ -22,8 +22,11 @@ titles:
   - \b(fs|ci|full[- ]?scope|lifestyle|counter[- ]?intelligence)\s*[-/]?\s*poly(graph)?\b|\bts/sci\b|\bpoly\b
   - \b(clearance|top secret|classified|polygraph)\b
   - \b(sales|pre-?sales|account (executive|manager)|business development|recruit\w*|marketing|teacher|instructor|trainer|professor|faculty)\b
-  - \b(m/w/d|w/m/d|m/f/d|f/h|h/f)\b
+  - \b(m/w/d|w/m/d|m/f/d|f/m/d|d/f/m|m/f/x|w/m/x|f/h|h/f)\b
   - \bmgr\b
+  - \b(electrical|power|mechanical|spacecraft|avionics|rf|hardware|propulsion|structural) systems? engineer\b
+  - \b(red team|penetration|pen ?test\w*|offensive)\b
+  - \b(help ?desk|desktop support|user support|end[- ]user|service desk)\b
   - \b(provider|payer|clinical|physician|pharmacy|dental|vision|behavioral health) network\b
   - \bnetwork (contract\w*|relations|development|adequacy|recruit\w*|management (specialist|consultant)|operations (coordinator|representative)|provider|strategy|pricing|reimbursement)\b
   - \b(social|neural|marketing|television|tv|broadcast|radio|news|sports|retail|referral|partner|alumni|franchise|supply chain|distribution|logistics|transportation|transit|road|water|gas|pipeline|sewer|power|electric(al)?|transmission|utility|grid|substation)
@@ -42,8 +45,7 @@ titles:
   - \b3\s*$
   core: []
   bridge:
-  - \b(infrastructure|systems?|it|telecom(munications)?|voice|security|cloud|data cent(er|re)|connectivity|transport|ip|field|support|technical support|implementation|deployment) (engineer|administrator|analyst|specialist|technician)\b
-  - \b(it|infrastructure|systems?) (operations|support) (engineer|analyst|specialist)\b
+  - \b(infrastructure|systems?|it|telecom(munications)?|voice|data cent(er|re)|connectivity|transport|ip|it infrastructure) (engineer|administrator)\b
   - \bnetwork\b
   exclude:
   - \b(staff|principal|lead|leader|manager|management|director|head of|vp|vice president|architect|distinguished|fellow|chief|supervisor)\b
@@ -54,8 +56,11 @@ titles:
   - \b(fs|ci|full[- ]?scope|lifestyle|counter[- ]?intelligence)\s*[-/]?\s*poly(graph)?\b|\bts/sci\b|\bpoly\b
   - \b(clearance|top secret|classified|polygraph)\b
   - \b(sales|pre-?sales|account (executive|manager)|business development|recruit\w*|marketing|teacher|instructor|trainer|professor|faculty)\b
-  - \b(m/w/d|w/m/d|m/f/d|f/h|h/f)\b
+  - \b(m/w/d|w/m/d|m/f/d|f/m/d|d/f/m|m/f/x|w/m/x|f/h|h/f)\b
   - \bmgr\b
+  - \b(electrical|power|mechanical|spacecraft|avionics|rf|hardware|propulsion|structural) systems? engineer\b
+  - \b(red team|penetration|pen ?test\w*|offensive)\b
+  - \b(help ?desk|desktop support|user support|end[- ]user|service desk)\b
   - \b(provider|payer|clinical|physician|pharmacy|dental|vision|behavioral health) network\b
   - \bnetwork (contract\w*|relations|development|adequacy|recruit\w*|management (specialist|consultant)|operations (coordinator|representative)|provider|strategy|pricing|reimbursement)\b
   - \b(social|neural|marketing|television|tv|broadcast|radio|news|sports|retail|referral|partner|alumni|franchise|supply chain|distribution|logistics|transportation|transit|road|water|gas|pipeline|sewer|power|electric(al)?|transmission|utility|grid|substation)
@@ -122,7 +127,7 @@ scoring:
   years_by_section: true
   degree: master
   hide_if_years_at_least: 5
-  bridge_min: 2
+  bridge_min: 3
   bridge_evidence:
   - \b(cisco|juniper|arista|aruba|meraki|extreme networks|ubiquiti|ruckus|nexus|catalyst)\b
   - \b(routing|switching|routers?|switches|layer ?[23])\b
@@ -135,9 +140,9 @@ scoring:
   - \b(wireshark|solarwinds|prtg|netflow|snmp|packet capture)\b
   block_alerts_if_years_at_least: 5
   bridge_required:
-  - \b(network(ing|s)?|routing|switching|routers?|switches|firewalls?|vlans?|tcp/ip|bgp|ospf|eigrp|mpls|sd-?wan|lan/wan|wan|lan|wireless|wlan|cisco|juniper|arista|palo alto|fortinet|fortigate|checkpoint|meraki|aruba|f5|dns|dhcp|vpn|ipsec|ccna|ccnp|ccie|jncia|jncis|stratix|industrial
-    ethernet)\b
-  bridge_required_count: 2
+  - \b(routing|switching|routers?|switches|bgp|ospf|eigrp|mpls|vlans?|vxlan|sd-?wan|cisco|juniper|arista|palo alto|fortinet|fortigate|checkpoint|meraki|aruba|firewalls?|ccna|ccnp|ccie|jncia|jncis|wlan|wireless
+    lan|load balanc\w+|f5 big-?ip|layer ?[23])\b
+  bridge_required_count: 3
   bridge_needs_text: true
   bridge_drop: true
   bridge_flag: network work in the text

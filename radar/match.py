@@ -94,7 +94,13 @@ NON_US_LOCAL = re.compile(
     r"svizzera|z[üu]rich|gen[èe]ve|italia|milano|roma|torino|polska|warszawa|krak[óo]w|wroc[łl]aw|pozna[ńn]|gda[ńn]sk|"
     r"nederland|belgi[qëe]u?e?|sverige|g[öo]teborg|danmark|k[øo]benhavn|norge|suomi|t[üu]rkiye|[čc]esk[oáa]|praha|"
     r"rom[âa]nia|bucure[şșs]ti|cluj|magyarorsz[áa]g|per[úu]|bogot[áa]|medell[íi]n|lisboa|qu[ée]bec|montr[ée]al|"
-    r"h[ồo] ch[íi] minh|h[àa] n[ộo]i|latam|latin america|emea|apac)\b", re.I)
+    r"h[ồo] ch[íi] minh|h[àa] n[ộo]i|latam|latin america|emea|apac|tunis|tunisia|moldova|chi[șs]in[ăa]u|abidjan|"
+    r"c[ôo]te d.ivoire|ivory coast|gerakas|marousi|thessaloniki|nrw|nordrhein|bayern|hessen|baden|"
+    r"athens,? (greece|attica)|greece|ελλάδα|cyprus|nicosia|limassol|malta|kosovo|albania|tirana|bosnia|sarajevo|"
+    r"macedonia|skopje|montenegro|georgia,? tbilisi|tbilisi|armenia|yerevan|azerbaijan|baku|kazakhstan|almaty|"
+    r"uzbekistan|tashkent|kyrgyzstan|nigeria|lagos|kenya|nairobi|ghana|accra|egypt|cairo,? egypt|morocco|casablanca|"
+    r"rabat|algeria|senegal|dakar|ethiopia|rwanda|kigali|uganda|kampala|tanzania|zambia|zimbabwe|south africa|"
+    r"johannesburg|cape town|pakistan|lahore|karachi|islamabad|bangladesh|dhaka|sri lanka|colombo|nepal|kathmandu)\b", re.I)
 
 
 # US cities named after foreign ones, written with a state code that is also a country code ("Dublin, CA").

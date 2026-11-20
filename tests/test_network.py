@@ -22,6 +22,8 @@ NET_TITLES = {
     "NOC Engineer": "core", "Firewall Engineer": "core", "SD-WAN Engineer": "core", "LAN/WAN Engineer": "core",
     "Cloud Network Engineer": "core", "Network Technician": "core", "Cisco Network Engineer": "core",
     "Infrastructure Engineer": "bridge", "Systems Engineer": "bridge", "Telecommunications Engineer": "bridge",
+    "IT Support Specialist": None, "Help Desk Technician": None, "Desktop Support Engineer": None,
+    "Senior Red Team Operator, Network": None, "System Engineer (f/m/d) IP Transport": None,
     "Network Architect": None, "Lead Network Engineer": None, "Network Manager": None, "Network Engineer IV": None,
     "Network Engineer - TS/SCI": None, "Network Engineer Intern": None, "Provider Network Manager": None,
     "Network Contract Specialist": None, "Network Relations Consultant": None, "Social Network Analyst": None,
@@ -35,6 +37,7 @@ OT_TITLES = {
     "Senior OT Network Engineer": "core", "NERC CIP Analyst": "core",
     "Controls Engineer": "bridge", "Automation Engineer": "bridge", "PLC Engineer": "bridge",
     "Network Engineer": "bridge", "Substation Automation Engineer": "bridge", "Cybersecurity Engineer": "bridge",
+    "Spacecraft Power and Electrical Systems Engineer": None, "Information Security Specialist": None, "IT Engineer": None,
     "Occupational Therapist": None, "Occupational Therapist (OT)": None, "OT - Outpatient Therapist": None,
     "OT Manager": None, "Lead OT Engineer": None, "OT Architect": None, "SCADA Engineer - TS/SCI": None,
     "OT Engineer Intern": None, "School OT": None, "OT Sales Engineer": None,
@@ -74,6 +77,7 @@ def judge(rules, title, cat, desc):
     ("Senior Network Engineer", "core", "Design our WAN.", "keep"),              # no years: kept, marked
     ("Systems Engineer", "bridge", NET_JOB, "keep"),                            # mostly networking
     ("Systems Engineer", "bridge", SYS_JOB, "old"),                             # not networking: dropped
+    ("Systems Engineer", "bridge", SYS_JOB + " Basic knowledge of networking, DNS, DHCP and VPN.", "old"),
     ("Infrastructure Engineer", "bridge", "", "old"),                           # can't tell without the text
 ])
 def test_network_job_text(title, cat, desc, want):
@@ -88,7 +92,16 @@ def test_network_job_text(title, cat, desc, want):
     ("Controls Engineer", "bridge", PLC_JOB, "old"),                            # PLC programming only: dropped
     ("Network Engineer", "bridge", OT_NET_JOB, "keep"),                         # network job on the plant floor
     ("Network Engineer", "bridge", IT_NET_JOB, "old"),                          # office IT network: not OT
+    ("Network Engineer", "bridge", IT_NET_JOB + " Honeywell access control. OT required on weekends.", "old"),
 ])
 def test_ot_job_text(title, cat, desc, want):
     got, a = judge(OT, title, cat, desc)
     assert got == want, a.flags
+
+
+def test_same_job_on_two_boards_is_one_row():
+    from radar.report import collapse
+    base = {"title": "Infrastructure Engineer II", "location": "Phoenix, AZ, United States", "posted": "2026-11-18T00:00:00+00:00",
+            "_first_seen": NOW, "ats": "oracle", "score": 60, "status": "quiet"}
+    rows, merged = collapse([{**base, "company": "American Express", "uid": "a"}, {**base, "company": "Egug Fa Us2 Oracle", "uid": "b"}])
+    assert len(rows) == 1 and merged == 1

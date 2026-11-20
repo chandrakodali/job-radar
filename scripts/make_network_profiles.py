@@ -10,7 +10,10 @@ SENIOR_EXCL = [
     r"\b(fs|ci|full[- ]?scope|lifestyle|counter[- ]?intelligence)\s*[-/]?\s*poly(graph)?\b|\bts/sci\b|\bpoly\b",
     r"\b(clearance|top secret|classified|polygraph)\b",
     r"\b(sales|pre-?sales|account (executive|manager)|business development|recruit\w*|marketing|teacher|instructor|trainer|professor|faculty)\b",
-    r"\b(m/w/d|w/m/d|m/f/d|f/h|h/f)\b", r"\bmgr\b",
+    r"\b(m/w/d|w/m/d|m/f/d|f/m/d|d/f/m|m/f/x|w/m/x|f/h|h/f)\b", r"\bmgr\b",
+    r"\b(electrical|power|mechanical|spacecraft|avionics|rf|hardware|propulsion|structural) systems? engineer\b",
+    r"\b(red team|penetration|pen ?test\w*|offensive)\b",
+    r"\b(help ?desk|desktop support|user support|end[- ]user|service desk)\b",
 ]
 NOT_IT_NETWORK = [
     # healthcare/insurance "provider networks", media networks, social/neural networks, power grids
@@ -22,11 +25,10 @@ NOT_IT_NETWORK = [
     r"\b(nurse|nursing|rn|lpn|physician|therapist|pharmacist|medical|clinic|hospital|patient)\b",
     r"\b(cable|fiber|tower|lineman|line worker|splicer|installer|installation technician|field technician|electrician|construction|outside plant|osp)\b",
 ]
-OT_WORDS = (r"\b(ot|operational technology|ics|industrial control( systems?)?|scada|plc|dcs|hmi|purdue|iec[- ]?62443|"
-            r"isa[- ]?99|nerc[- ]?cip|industrial (network|ethernet|automation|cyber)|plant floor|shop floor|"
-            r"manufacturing (network|systems)|profinet|ethernet/ip|modbus|opc[- ]?ua|dnp3|iec[- ]?61850|"
-            r"rockwell|allen[- ]bradley|siemens|honeywell|emerson|schneider|yokogawa|abb|aveva|wonderware|ignition|"
-            r"claroty|nozomi|dragos|armis)\b")
+OT_WORDS = (r"\b(it/ot|ot/it|ot (network|networking|security|cyber ?security|systems?|environment|infrastructure|assets?|devices?|"
+            r"engineering|domain)|operational technology|ics|industrial control( systems?)?|scada|plc|dcs|purdue|"
+            r"iec[- ]?62443|isa[- ]?99|nerc[- ]?cip|industrial (network|networking|ethernet|cyber ?security)|plant floor|"
+            r"shop floor|profinet|ethernet/ip|modbus|opc[- ]?ua|dnp3|iec[- ]?61850|claroty|nozomi|dragos)\b")
 NET_WORDS = (r"\b(network(ing|s)?|routing|switching|routers?|switches|firewalls?|vlans?|tcp/ip|bgp|ospf|eigrp|mpls|"
              r"sd-?wan|lan/wan|wan|lan|wireless|wlan|cisco|juniper|arista|palo alto|fortinet|fortigate|checkpoint|"
              r"meraki|aruba|f5|dns|dhcp|vpn|ipsec|ccna|ccnp|ccie|jncia|jncis|stratix|industrial ethernet)\b")
@@ -52,10 +54,13 @@ NETWORK_STRONG = [
     r"\b(ccna|ccnp|ccie)\b",
 ]
 NETWORK_BRIDGE = [
-    r"\b(infrastructure|systems?|it|telecom(munications)?|voice|security|cloud|data cent(er|re)|connectivity|transport|ip|field|support|technical support|implementation|deployment) (engineer|administrator|analyst|specialist|technician)\b",
-    r"\b(it|infrastructure|systems?) (operations|support) (engineer|analyst|specialist)\b",
+    r"\b(infrastructure|systems?|it|telecom(munications)?|voice|data cent(er|re)|connectivity|transport|ip|it infrastructure) (engineer|administrator)\b",
     r"\bnetwork\b",
 ]
+# words of networking proper (not "network" in passing, DNS or VPN): one must be in the requirements/duties
+NET_CORE = (r"\b(routing|switching|routers?|switches|bgp|ospf|eigrp|mpls|vlans?|vxlan|sd-?wan|cisco|juniper|arista|"
+            r"palo alto|fortinet|fortigate|checkpoint|meraki|aruba|firewalls?|ccna|ccnp|ccie|jncia|jncis|wlan|"
+            r"wireless lan|load balanc\w+|f5 big-?ip|layer ?[23])\b")
 OT_STRONG = [
     r"\b(ot|operational technology|ics|industrial control systems?|scada|industrial|plant|manufacturing|process control|control systems?) (network|networking|infrastructure|network security|cyber ?security|security) (engineer|administrator|analyst|specialist|architect associate|technician|consultant)\b",
     r"\b(ot|operational technology)\b.{0,30}\b(engineer|analyst|specialist|administrator|technician|consultant)\b",
@@ -66,7 +71,7 @@ OT_STRONG = [
 ]
 OT_BRIDGE = [
     r"\b(controls?|control systems?|automation|industrial automation|plc|dcs|hmi|instrumentation (and|&) controls?|i&c|process control|substation automation|protection (and|&) control|mes|manufacturing systems?|plant systems?) (engineer|specialist|technician|analyst|programmer|developer|administrator)\b",
-    r"\b(network|infrastructure|systems?|it|cyber ?security|security|firewall|wireless|telecom(munications)?) (engineer|administrator|analyst|specialist|technician)\b",
+    r"\b(network|infrastructure|systems?|cyber ?security|security|firewall) (engineer|administrator)\b",
 ]
 
 
@@ -86,7 +91,7 @@ def profile(name, label, file_label, watching, strong, bridge, exclude_extra, re
     cfg["titles"] = {"strong": strong, "hard_exclude": SENIOR_EXCL + exclude_extra, "senior": dev["titles"]["senior"],
                      "core": [], "bridge": bridge, "exclude": SENIOR_EXCL + exclude_extra, "entry": dev["titles"]["entry"]}
     sc = dict(dev["scoring"])
-    sc.update({"bridge_min": 2, "bridge_required": required, "bridge_required_count": 2, "bridge_needs_text": True,
+    sc.update({"bridge_min": 3, "bridge_required": required, "bridge_required_count": 3, "bridge_needs_text": True,
                "bridge_drop": True, "bridge_flag": file_label, "bridge_evidence": evidence})
     cfg["scoring"] = sc
     wd = dict(dev["workday"]); wd["search_terms"] = wd_terms; wd["search_pages"] = 3
@@ -118,7 +123,7 @@ profile("network", "Network Engineer Radar", "network work in the text",
         "infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar.",
         NETWORK_STRONG, NETWORK_BRIDGE,
         NOT_IT_NETWORK + [r"\b(ot|operational technology|ics|scada|industrial control|plc|dcs)\b"],
-        [NET_WORDS], NET_EVIDENCE,
+        [NET_CORE], NET_EVIDENCE,
         ["network engineer", "network administrator", "network analyst", "noc", "wireless engineer", "network security"],
         ["network engineer", "network administrator", "network analyst", "noc engineer", "wireless engineer", "firewall engineer"],
         ["network engineer", "network administrator", "network specialist"])
@@ -130,7 +135,7 @@ profile("ot", "OT Network Engineer Radar", "OT network work in the text",
         [r"\b(provider|payer|clinical|social|neural|marketing|television|broadcast) network\b",
          r"\b(occupational therap\w+|physical therap\w+|\bot/pt\b|nurse|nursing|clinical|patient|rehab\w*|school|teacher)\b",
          r"\b(overtime|ot hours)\b"],
-        [OT_WORDS, NET_WORDS], NET_EVIDENCE + [OT_WORDS],
+        [OT_WORDS, NET_CORE], NET_EVIDENCE + [OT_WORDS],
         ["OT network", "operational technology", "SCADA", "ICS", "industrial network", "controls engineer", "OT security"],
         ["OT network engineer", "operational technology", "SCADA engineer", "ICS engineer", "industrial network", "OT security"],
         ["operational technology", "SCADA", "industrial control systems"])

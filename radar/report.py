@@ -178,8 +178,14 @@ def collapse(rows: list[dict]) -> tuple[list[dict], int]:
     sources. The company's own board wins over an aggregator; the newest posting time is kept; the other
     places are added to the location. Returns the rows and how many were merged away."""
     groups: dict[str, list[dict]] = {}
+    alias: dict[str, str] = {}   # same title + place + posting date under two company names (one job on two boards)
     for r in rows:
-        groups.setdefault(dup_key(r), []).append(r)
+        k = dup_key(r)
+        k2 = "|".join([dup_key({"title": r.get("title")}), _LEVEL.sub(" ", (r.get("location") or "").lower()).strip(),
+                       (r.get("posted") or "")[:10]])
+        if r.get("posted") and (r.get("location") or "").strip():
+            k = alias.setdefault(k2, alias.get(k2, k))
+        groups.setdefault(k, []).append(r)
     out = []
     for g in groups.values():
         g.sort(key=lambda r: (str(r.get("ats", "")).startswith(AGGREGATORS), -posted_time(r).timestamp()))
