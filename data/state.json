@@ -12152,17 +12152,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 336,
+   "n": 337,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 336,
+   "n": 337,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 336,
+   "n": 337,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12603,6 +12603,11 @@
    "n": 4,
    "since": "2026-11-09"
   },
+  "icims:careers-bocusa.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-20"
+  },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-23",
    "err": "robots.txt disallows /jobs/search",
@@ -12626,6 +12631,11 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 4,
    "since": "2026-11-09"
+  },
+  "icims:careers-kaukahi.icims.com": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-20"
   },
   "icims:careers-kimley-horn.icims.com": {
    "disabled_until": "2026-11-23",
@@ -14944,8 +14954,8 @@
    369
   ],
   "2026-11-20": [
-   143,
-   259
+   146,
+   264
   ]
  },
  "resolved": {
@@ -66727,7 +66737,9 @@
   "eightfold:appliedmaterials:790318496424": "2026-11-15",
   "eightfold:citi:859038612353": "2026-11-18",
   "eightfold:dsm:562949978859630": "2026-11-14",
+  "eightfold:eaton:687238555164": "2026-11-20",
   "eightfold:eaton:687240042663": "2026-11-17",
+  "eightfold:eaton|eaton.com:687238555164": "2026-11-20",
   "eightfold:eaton|eaton.com:687239541052": "2026-11-09",
   "eightfold:eaton|eaton.com:687240042663": "2026-11-17",
   "eightfold:ericsson:563121777586028": "2026-11-19",
@@ -67721,6 +67733,7 @@
   "icims:careers-peopletec.icims.com:5439": "2026-11-09",
   "icims:careers-peopletec.icims.com:5448": "2026-11-09",
   "icims:careers-peopletec.icims.com:5450": "2026-11-10",
+  "icims:careers-peopletec.icims.com:5551": "2026-11-20",
   "icims:careers-persistentsystems.icims.com:2221": "2026-11-09",
   "icims:careers-persistentsystems.icims.com:2226": "2026-11-09",
   "icims:careers-persistentsystems.icims.com:2308": "2026-11-09",
@@ -68392,6 +68405,7 @@
   "lever:purvis:89d3aa5a-c945-4964-8289-e3b00687d3e2": "2026-11-19",
   "lever:redhorsecorp:be90f883-2ec0-460f-8d20-241e4c54951f": "2026-11-12",
   "lever:redwoodcu:69c327df-2541-4395-b14a-2f66d3236bf4": "2026-11-19",
+  "lever:robust-ai:1acb976a-f7cc-4644-a814-fa7b98280964": "2026-11-20",
   "lever:steerbridge:e250cb49-fca5-450d-9d3b-f290c0e6f14d": "2026-11-09",
   "lever:zoox:c84c90b4-22f2-4d2e-9034-afee385dd0d2": "2026-11-18",
   "oracle:cva.fa.us1.oraclecloud.com|CX_3:10418": "2026-11-08",
@@ -70458,11 +70472,11 @@
   "zoho:omnyon:403463000018462368": "2026-11-14"
  },
  "source_last": {
-  "hn": "2026-11-20T08:37:15+00:00",
+  "hn": "2026-11-20T14:37:14+00:00",
   "remoteok": "2026-11-20T13:37:15+00:00",
   "usajobs": "2026-11-20T13:07:14+00:00",
   "workable_search": "2026-11-20T13:07:14+00:00",
-  "wwr": "2026-11-20T13:37:15+00:00",
+  "wwr": "2026-11-20T14:37:14+00:00",
   "yc": "2026-11-20T13:07:14+00:00"
  },
  "title_rules": "c323075b4d70",

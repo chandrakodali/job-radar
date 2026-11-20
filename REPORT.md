@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**563 jobs**, newest first. Updated Fri Nov 20, 8:07 AM CST from 12,526 company job boards and other sources.
+**563 jobs**, newest first. Updated Fri Nov 20, 8:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 229 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,671 matching jobs that job sites and feeds listed this week, 1,062 (39%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,676 matching jobs that job sites and feeds listed this week, 1,065 (39%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 20 (5)](#friday-nov-20-5) · [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (47)](#wednesday-nov-18-47) · [Tue 17 (32)](#tuesday-nov-17-32) · [Mon 16 (50)](#monday-nov-16-50) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (57)](#friday-nov-13-57)
 
@@ -613,7 +613,7 @@ Jump to: [Fri 20 (5)](#friday-nov-20-5) · [Thu 19 (37)](#thursday-nov-19-37) ·
 | 9:35 AM | [Software Engineer II - Observability Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804903) | JP Morgan Chase | Charlotte, NC, United States; Louisvill… | 60 |  |
 | 9:16 AM | [Cloud Engineer](https://jobs.smartrecruiters.com/PublicStorage/744000161510743-cloud-engineer) | PublicStorage | Frisco, TX, United States | 58 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (590)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (593)
 
 <details><summary>Show</summary>
 
@@ -625,6 +625,8 @@ Jump to: [Fri 20 (5)](#friday-nov-20-5) · [Thu 19 (37)](#thursday-nov-19-37) ·
 | date only | [Dynatrace Senior Consultant – AI Observability](https://arctiq.bamboohr.com/careers/365) | Arctiq | Brentwood, Tennessee, United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior DevOps and Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893398806259) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [System Administrator](https://apply.workable.com/aretum/j/1BB152E3C2/) | Aretum | Baltimore, Maryland, United States | 30 | rules: 8+ yrs exp; needs: Public Trust Clearance |
+| 8:30 AM | [Sr. Deployment Engineer](https://jobs.lever.co/robust-ai/1acb976a-f7cc-4644-a814-fa7b98280964) | Robust.ai | San Carlos, CA (remote) | 27 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| 7:35 AM | [Reliability Engineering Specialist](https://eaton.eightfold.ai/careers/job/687238555164) | Eaton | Waukesha, WI, US; South Milwaukee, WI, … (onsite) | 35 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 7:22 AM | [Senior AI Engineer II - Forward Deployment Engineer - Enterprise AI P…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014650) | American Express | Sunnyvale, CA, United States; New York,… (hybrid) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 7:22 AM | [Senior AI Engineer II - Forward Deployment Engineer - Enterprise AI P…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26014650) | Egug Fa Us2 Oraclecloud Com | Sunnyvale, CA, United States; New York,… (hybrid) | 25 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 6:41 AM | [Storage Platform Engineer](https://jobs.lever.co/jobgether/d74b978e-505d-4b9a-9497-1c3870e4be8e) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; asks for 7+ years of experience |
@@ -634,6 +636,7 @@ Jump to: [Fri 20 (5)](#friday-nov-20-5) · [Thu 19 (37)](#thursday-nov-19-37) ·
 | 11:18 PM | [Senior Platform Engineer](https://jobs.lever.co/jobgether/cf7fda3c-bb7f-4f9d-a2cf-6383f59c3288) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:00 PM | [DevSecOps Engineer](https://careers-steampunk.icims.com/jobs/8948/devsecops-engineer/job) | Steampunk | McLean, VA, United States | 50 | rules: 8+ yrs exp; E-Verify; needs: security clearance |
 | 11:00 PM | [IT Network Administrator](https://jobs.dayforcehcm.com/en-US/kmtire/KMTIRE/jobs/1298) | Kmtire | Delphos, OH, US | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 11:00 PM | [Systems Integration & Lab Infrastructure Engineer](https://careers-peopletec.icims.com/jobs/5551/systems-integration-%26-lab-infrastructure-engineer/job) | PeopleTec | Huntsville, AL, United States | 50 | rules: 8+ yrs exp; E-Verify; needs: security clearance |
 | 8:32 PM | [Senior Platform Engineer](https://jobs.ashbyhq.com/artafinance/6575896b-cc08-4626-924b-95eabaee5138) | Artafinance | Bay Area (hybrid) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 7:57 PM | [Corporate Network Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5489564008) | Anthropic | Remote-Friendly (Travel Required) / San… (remote) | 27 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 7:15 PM | [Senior Network Engineer I](https://coreweave.com/careers/job?4730965006&board=coreweave&gh_jid=4730965006) | CoreWeave | Livingston, NJ / New York, NY / San Fra… | 50 | rules: entry-level title; 5+ yrs exp; senior title; priority company;… |
@@ -1016,9 +1019,6 @@ Jump to: [Fri 20 (5)](#friday-nov-20-5) · [Thu 19 (37)](#thursday-nov-19-37) ·
 | 2:52 PM | [Senior Application Security Engineer](https://jobs.ashbyhq.com/turquoise-health/21ccc42d-aa61-47d0-8764-aee7cf6ff7ba) | Turquoise Health | Remote (remote) | 37 | rules: 5+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
 | 2:20 PM | [Senior IT Systems Engineer](https://jobs.ashbyhq.com/tennr/b888c69f-2bce-4231-82af-3d55a36ac244) | Tennr | New York City Office | 40 | rules: senior title, years not stated; adjacent title, little DevOps/… |
 | 2:17 PM | [Senior Planning & Deployment Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350114) | Oracle | West Jordan, UT, United States | 25 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| 1:55 PM | [Network Engineer 1/2](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005497) | Berkshire Hathaway Energy | Urbandale, IA, United States | 60 | rules: entry-level title; adjacent title, little DevOps/cloud work in… |
-| 1:53 PM | [IT Platform Engineer](https://jobs.lever.co/loftorbital/5febb779-717c-40d6-9a4d-a261fe2fca09) | Loft Orbital | Golden, CO (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 1:37 PM (seen) | [Network Engineer II, Temporary](https://utsw.taleo.net/careersection/2/jobdetail.ftl?job=987781&lang=en) | UT Southwestern Medical Center | Texas-Dallas-3000 Pegasus Park | 5 | rules: 8+ yrs exp; no future H-1B sponsorship; asks for 8+ years of e… |
 
 </details>
 
