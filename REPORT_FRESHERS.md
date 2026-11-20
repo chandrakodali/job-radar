@@ -1,19 +1,21 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**573 jobs**, newest first. Updated Thu Nov 19, 6:45 PM CST from 12,526 company job boards and other sources.
+**575 jobs**, newest first. Updated Thu Nov 19, 7:49 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 255 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,252 matching jobs that job sites and feeds listed this week, 806 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 4,332 matching jobs that job sites and feeds listed this week, 825 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Thu 19 (70)](#thursday-nov-19-70) · [Wed 18 (57)](#wednesday-nov-18-57) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (140)](#saturday-nov-14-140) · [Fri 13 (147)](#friday-nov-13-147) · [Thu 12 (6)](#thursday-nov-12-6)
+Jump to: [Thu 19 (72)](#thursday-nov-19-72) · [Wed 18 (57)](#wednesday-nov-18-57) · [Tue 17 (69)](#tuesday-nov-17-69) · [Mon 16 (62)](#monday-nov-16-62) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (140)](#saturday-nov-14-140) · [Fri 13 (147)](#friday-nov-13-147) · [Thu 12 (6)](#thursday-nov-12-6)
 
-## Thursday, Nov 19 (70)
+## Thursday, Nov 19 (72)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 7:07 PM | [Junior Frontend Engineer](https://jobs.workable.com/view/qRvqAzn6CKHr6Tt2jEZsC6/junior-frontend-engineer-in-raleigh-at-chekhub) | Chekhub | Raleigh, North Carolina (onsite) | 90 | entry-level title; 1+ yrs exp |
+| 6:07 PM | [Junior Backend Engineer](https://jobs.workable.com/view/pmxR6oJ9Bju1Q5jFufjqjD/junior-backend-engineer-in-raleigh-at-chekhub) | Chekhub | Raleigh, North Carolina (onsite) | 90 | entry-level title; 1+ yrs exp |
 | 5:30 PM | [Seasonal Fulfillment and Receiving Support Associate, Francis Scott K…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826683) | Macy's | Frederick, MD, United States | 75 | entry-level title |
 | 5:30 PM | [Seasonal Fulfillment and Receiving Support Associate, Hulen Mall](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826674) | Macy's | Fort Worth, TX, United States | 75 | entry-level title |
 | 5:30 PM | [Seasonal Fulfillment and Receiving Support Associate, Barton Creek Sq…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826650) | Macy's | Austin, TX, United States | 75 | entry-level title |
@@ -623,7 +625,7 @@ Jump to: [Thu 19 (70)](#thursday-nov-19-70) · [Wed 18 (57)](#wednesday-nov-18-5
 | 8:03 PM | [Data Analyst-Part Time](https://jobs.workable.com/view/fRTCvMAtyyf8JXdTFQcbBr/remote-data-analyst-part-time-in-delray-beach-at-dln-consulting-group) | DLN Consulting Group | Delray Beach, Florida (remote) (remote) | 67 | 1+ yrs exp; staffing/consulting firm: verify it's real |
 | 8:00 PM | [Robotics Software Engineer 1](https://jobs.paccar.com/job/Chillicothe-Robotics-Software-Engineer-1-OH-45601-8829/1419447833/) | Paccar | Chillicothe, OH, United States | 75 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (4063)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (4068)
 
 <details><summary>Show</summary>
 
@@ -633,6 +635,12 @@ Jump to: [Thu 19 (70)](#thursday-nov-19-70) · [Wed 18 (57)](#wednesday-nov-18-5
 | 10:57 PM | [ERP Engineering Support Analyst](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0eee8708-c75e-495c-8ca2-fffc1d15c1ec&ccId=19000101_000001&jobId=9205261837537_17&lang=en_US) | 0Eee8708 C75E 495C 8Ca2 Fffc1… | Wixom, MI | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 8:21 PM | [Graduate Engineer - Geotechnical](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0ac9c872-8815-465b-b05a-caa90545c4d1&ccId=19000101_000001&jobId=9201314773705_358&lang=en_US) | 0Ac9C872 8815 465B B05A Caa90… | Houston, TX | 70 | rules: entry-level title; 3+ yrs exp; asks for 3+ years of experience |
 | 7:58 PM | [SATCOM Systems Engineer (Hybrid- Aberdeen Proving Ground)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9312ef-f8ad-43d2-926b-12997288c359&ccId=19000101_000001&jobId=9201590872784_8&lang=en_US) | 1B9312Ef F8Ad 43D2 926B 12997… | US;  US;  US;  US;  US;  US; Middletown… | 45 | rules: 5+ yrs exp; needs: Secret clearance |
+| 7:37 PM | [Implementation Specialist - Enterprise](https://jobs.ashbyhq.com/plaid/bedae333-aa7f-4bf8-9d20-59fa3ba699b8) | Plaid | San Francisco HQ; San Francisco HQ (hybrid) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
+| 7:07 PM | [IT Specialist (Contractor)](https://jobs.ashbyhq.com/paraform/651df339-fec5-4843-8b7a-d7f4e1d7a787) | Paraform | San Francisco (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 6:56 PM | [IT Helpdesk Technician](https://jobs.ashbyhq.com/xona-space/cc336e79-8a9b-4f9d-a962-bb2fb514493b) | Xona Space | Burlingame, California (onsite) | 80 | rules: 2+ yrs exp; needs: Security Clearance |
+| 6:54 PM | [Security Operations Center Analyst](https://www.esri.com/careers/5302828007?gh_jid=5302828007) | Esri | Redlands, CA +1 more | 75 | rules: 2+ yrs exp; needs: security clearance |
+| 6:51 PM | [Exempt to Permanent – Program Support Analyst (2917) Citywide (E16969…](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016986315-exempt-to-permanent-program-support-analyst-2917-citywide-e169699-) | City and County of San Franci… | San Francisco, CA, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 6:51 PM | [Systems Administrator](https://job-boards.greenhouse.io/machindustries/jobs/4516093009) | Mach Industries | Huntington Beach, California, United St… | 60 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; needs: ITAR |
 | 6:18 PM | [Software Engineer - .NET](https://jobs.smartrecruiters.com/Experian/744000162621889-software-engineer-net) | Experian | Schaumburg, IL, United States (hybrid) | 50 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 6:18 PM | [Software Development Engineer](https://ford.eightfold.ai/careers/job/563568454162253) | Ford | Cary, NC, US (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 6:18 PM | [Software Development Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73927) | Ford Motor Company | Cary, NC, United States (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -712,7 +720,6 @@ Jump to: [Thu 19 (70)](#thursday-nov-19-70) · [Wed 18 (57)](#wednesday-nov-18-5
 | 1:05 PM | [Forward Deployed Cloud Solution Engineer-Federal Civilian](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350677) | Oracle | Reston, VA, United States; Washington, … | 45 | rules: 8+ yrs exp; needs: U.S. citizenship is required |
 | 1:05 PM | [Forward Deployed Cloud Solution Engineer-Federal Civilian](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/350677) | Eeho Fa Us2 Oraclecloud Com | Reston, VA, United States; Washington, … | 45 | rules: 8+ yrs exp; needs: U.S. citizenship is required |
 | 1:03 PM | [Reference Data Product Owner – Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805194) | JP Morgan Chase | Newark, DE, United States | 70 | rules: entry-level title; 3+ yrs exp; asks for 3+ years of experience |
-| 1:02 PM | [Security Operations Center Analyst](https://www.esri.com/careers/5224640007?gh_jid=5224640007) | Esri | Vienna, Virginia, United States | 75 | rules: 2+ yrs exp; needs: security clearance |
 | 1:02 PM | [Founding Security Software Engineer](https://jobs.ashbyhq.com/Clera/9bbe0676-9bfe-4891-93cb-b62b2c963477) | Clera | San Francisco (onsite) | 55 | rules: 10+ yrs exp; sponsors visas; asks for 10+ years of experience |
 | 12:54 PM | [DevOps Engineer I](https://jobs.lever.co/redwoodcu/69c327df-2541-4395-b14a-2f66d3236bf4) | Redwood Credit Union | Napa, California (onsite) | 75 | rules: entry-level title; 3+ yrs exp; asks for 3+ years of experience |
 | 12:52 PM | [Full-Stack Mobile AI Engineer, InZone](https://ford.eightfold.ai/careers/job/563568454162958) | Ford | Palo Alto, CA, US; Louisville, KY, US +… (onsite) | 70 | rules: 3+ yrs exp; sponsors visas; asks for 3+ years of experience |
@@ -1024,10 +1031,5 @@ Jump to: [Thu 19 (70)](#thursday-nov-19-70) · [Wed 18 (57)](#wednesday-nov-18-5
 | date only | [Integration Engineer, Silicon Photonics (2027 New College Graduate)](https://globalfoundries.eightfold.ai/careers/job/563980770734159) | Globalfoundries | Malta, NY, US (onsite) | 80 | rules: entry-level title; needs: Security Clearance |
 | date only | [Associate Salesforce Developer](https://apply.workable.com/braven/j/8BF5F65939/) | Braven | Chicago, Illinois, United States +3 more | 70 | rules: entry-level title; 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Security Engineering Technical Leader (Remote)](https://careers.cisco.com/global/en/job/CISCISGLOBAL2027089EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
-| date only | [Business Analyst, Amazon Logistics, AMZL OTR Planning](https://www.amazon.jobs/en/jobs/10608450/business-analyst-amazon-logistics-amzl-otr-planning) | Amazon.com Services LLC | Bellevue, Washington, USA | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [Systems Development Engineer, Region Services Corporate Infrastructur…](https://www.amazon.jobs/en/jobs/10596537/systems-development-engineer-region-services-corporate-infrastructure-vector-team) | Amazon Development Center U.S… | Bellevue, Washington, USA | 45 | rules: 7+ yrs exp; needs: Security Clearance |
-| date only | [Software Development Engineer, Region Reliability Engineering](https://www.amazon.jobs/en/jobs/10608480/software-development-engineer-region-reliability-engineering) | Amazon Development Center U.S… | Denver, Colorado, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
-| date only | [Java Backend Developer](https://citi.eightfold.ai/careers/job/859038772002) | Citi | Mississauga, ON, CA (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Data Analytics Security Administrator](https://nvidia.eightfold.ai/careers/job/893398798513) | Nvidia | Santa Clara, CA, US (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
