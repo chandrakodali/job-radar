@@ -99,6 +99,14 @@ def main(argv=None) -> int:
     a = p.parse_args(argv)
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
     http.set_pace("myworkdayjobs.com", a.gap)
+    shown = []
+
+    def note(r, *args, **kw):   # log the first answers that aren't OK (status, wait asked, message)
+        if r.status_code != 200 and len(shown) < 15:
+            shown.append(1)
+            log.warning("Workday answered %s %s (retry-after %s): %s", r.status_code, r.url[:80],
+                        r.headers.get("retry-after"), r.text[:120].replace("\n", " "))
+    http.session().hooks["response"].append(note)
     cache = load_cache(a.cache)
     boards = all_workday_boards()
     stats = sweep(cache, boards, a.budget_min * 60, a.days, a.max_pages)
