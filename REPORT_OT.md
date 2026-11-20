@@ -1,6 +1,6 @@
 # OT Network Engineer jobs in the US: posted in the last 7 days
 
-**16 jobs**, newest first. Updated Fri Nov 20, 12:11 PM CST from 12,526 company job boards.
+**16 jobs**, newest first. Updated Fri Nov 20, 12:41 PM CST from 12,526 company job boards.
 
 US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and OT security roles; controls, automation or network titles only when the job is about networks in an OT/industrial setting). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
@@ -8,7 +8,7 @@ US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and
 
 Coverage check: of 34 matching jobs that job sites and feeds listed this week, 11 (32%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (1)](#wednesday-nov-18-1) · [Tue 17 (3)](#tuesday-nov-17-3) · [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (1)](#sunday-nov-15-1) · [Fri 13 (1)](#friday-nov-13-1)
+Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (3)](#tuesday-nov-17-3) · [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (1)](#sunday-nov-15-1)
 
 ## Friday, Nov 20 (6)
 
@@ -29,10 +29,11 @@ Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (3)](#thursday-nov-19-3) · [
 | 12:14 PM | [Operational Technology Engineer](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Operational-Technology-Engineer_R1063675) | AES | US, Dayton, OH | 65 |  |
 | date only | [Power Generation SCADA Controls Engineer](https://jobs.nexteraenergy.com/job/Palm-Beach-Gardens-Power-Generation-SCADA-Controls-Engineer-FL-33410/1452416500/) | NextEra Energy | Palm Beach Gardens, FL, United States | 68 | 2+ yrs exp |
 
-## Wednesday, Nov 18 (1)
+## Wednesday, Nov 18 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 3:48 PM | [OT Infrastructure Engineer I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4564824) | Enchanted Rock Management LLC | Houston, TX, United States | 78 | entry-level title; 0-2 yrs exp |
 | 1:57 PM | [Lab IT/OT Systems Administrator - CONTRACT, Cambridge, MA](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=567e686e-7575-49d9-b29f-985e7365f987&ccId=19000101_000001&jobId=9202921583278_1&lang=en_US) | 567E686E 7575 49D9 B29F 985E7… | Cambridge, MA | 53 | 3+ yrs exp |
 
 ## Tuesday, Nov 17 (3)
@@ -55,19 +56,15 @@ Jump to: [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (3)](#thursday-nov-19-3) · [
 |---|---|---|---|---:|---|
 | 2:00 AM | [Senior Operational Technology SCADA Systems Administrator - Cybersecu…](https://jobs.nexteraenergy.com/job/Palm-Beach-Gardens-Senior-Operational-Technology-SCADA-Systems-Administrator-Cybersecurity-and-Resiliency-FL-33410/1431619000/) | NextEra Energy | Palm Beach Gardens, FL, United States | 48 | 4+ yrs exp; senior title |
 
-## Friday, Nov 13 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 12:41 PM | [Lab IT/OT Systems Administrator](https://job-boards.greenhouse.io/lilasciences/jobs/4505109009) | Lila Sciences | Cambridge, MA USA | 63 | 2+ yrs exp |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (15)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (17)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 12:35 PM | [Distributed Control Systems Engineer-*Relocation Package Available*](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161650) | Honeywell | Long Beach, CA, United States (onsite) | 35 | rules: 6+ yrs exp; OT network work in the text; needs: must be a U.S.… |
 | 2:00 AM | [OT Cyber Analyst](https://careers.hfsinclair.com/job/Dallas-OT-Cyber-Analyst-TX-75219/1423280000/) | HF Sinclair | Dallas, TX, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 11:00 PM | [Senior SCADA & Automation Engineer 1 - Grid](https://careers-sargentlundy.icims.com/jobs/30238/senior-scada-%26-automation-engineer-1---grid/job) | Sargent & Lundy | Englewood, CO, United States | 50 | rules: entry-level title; 5+ yrs exp; senior title; no future H-1B sp… |
 | 6:22 PM | [Senior Industrial Security Analyst](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5490199008) | K2 Space | Los Angeles, CA | 45 | rules: 10+ yrs exp; senior title; needs: Security Clearance |
 | 11:05 AM | [Security Engineer, Operational Technology- Remote (Anywhere in the U.…](https://boards.greenhouse.io/guidepointsecurity/jobs/6266326004?gh_jid=6266326004) | GuidePoint Security | Remote (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:00 AM | [OT Infrastructure Engineer - Southeast](https://jobs.dayforcehcm.com/en-US/inframark/CANDIDATEPORTAL/jobs/13492) | Inframark | North Charleston, SC, US; Norcross, GA,… | 38 | rules: 5+ yrs exp; asks for 5+ years of experience |
