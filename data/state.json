@@ -11775,6 +11775,7 @@
   "greenhouse:newrelic:5479397008": "2026-11-12",
   "greenhouse:spin:4751625005": "2026-11-13",
   "greenhouse:thoughtworksreferral:8336965": "2026-11-18",
+  "greenhouse:turing:6234874004": "2026-11-20",
   "greenhouse:twinstream:5016466101": "2026-11-12",
   "greenhouse:twinstream:5018760101": "2026-11-12",
   "greenhouse:vast:4726228006": "2026-11-12",
@@ -12152,17 +12153,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 338,
+   "n": 339,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 338,
+   "n": 339,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 338,
+   "n": 339,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14944,8 +14945,8 @@
    369
   ],
   "2026-11-20": [
-   146,
-   264
+   149,
+   269
   ]
  },
  "resolved": {
@@ -65992,6 +65993,7 @@
   "ashby:saronic:b458ec5f-4fbd-4454-8fd3-0003ed87a913": "2026-11-07",
   "ashby:saronic:d9c5db3f-687c-42f5-92d0-7866feb4163b": "2026-11-12",
   "ashby:sekai:1ad47635-d8d2-4c0a-8d06-2b6498e05dea": "2026-11-12",
+  "ashby:sentilink:99060cec-96a4-49aa-8d51-099e2ca8bb5f": "2026-11-20",
   "ashby:sewer-ai:ea11b42e-cab2-4060-b349-8a2b926356ba": "2026-11-12",
   "ashby:sieve:b8a87691-3b2a-4960-aa0e-cda34894039c": "2026-11-11",
   "ashby:siftstack:28db223c-b2ce-4b40-b515-32d96062e6fa": "2026-11-07",
@@ -68646,6 +68648,7 @@
   "oracle:hdde.fa.us2.oraclecloud.com|CX:4543": "2026-11-08",
   "oracle:hdjq.fa.us2.oraclecloud.com|CX_1:26013709": "2026-11-14",
   "oracle:iawmqy.fa.ocs.oraclecloud.com|careers:292859": "2026-11-12",
+  "oracle:iawmqy.fa.ocs.oraclecloud.com|careers:296668": "2026-11-20",
   "oracle:iawmqy.fa.ocs.oraclecloud.com|careers:299132": "2026-11-08",
   "oracle:iawmqy.fa.ocs.oraclecloud.com|careers:300006": "2026-11-15",
   "oracle:iawmqy.fa.ocs.oraclecloud.com|careers:300012": "2026-11-12",
@@ -68675,6 +68678,7 @@
   "paylocity:17529fbd-9afd-49ba-b923-6cec2a75a303:4372346": "2026-11-15",
   "paylocity:1a0be996-c080-4348-9253-eaa72a660ff1:4234139": "2026-11-14",
   "paylocity:1e7cdaa1-4aaf-417f-be26-c3800bce510b:4559639": "2026-11-15",
+  "paylocity:26f3b5c7-c503-49f8-9cb4-b56b296720b2:4680261": "2026-11-20",
   "paylocity:33704aa8-8475-45e8-b8a8-55e4d6765e36:4653296": "2026-11-15",
   "paylocity:33704aa8-8475-45e8-b8a8-55e4d6765e36:4654017": "2026-11-15",
   "paylocity:33d408c5-a3ae-404d-ad44-272300d2ee21:4556993": "2026-11-15",
@@ -68690,6 +68694,10 @@
   "paylocity:534cca7e-606a-4a6c-8636-e12a75fd003b:4474677": "2026-11-15",
   "paylocity:59868e90-ae4e-4efd-9c7a-1eb8b9e09613:4661248": "2026-11-15",
   "paylocity:6166aed4-af42-4762-99e4-5d67a7cf6baa:4663035": "2026-11-15",
+  "paylocity:6166aed4-af42-4762-99e4-5d67a7cf6baa:4676674": "2026-11-20",
+  "paylocity:6166aed4-af42-4762-99e4-5d67a7cf6baa:4676869": "2026-11-20",
+  "paylocity:6166aed4-af42-4762-99e4-5d67a7cf6baa:4676907": "2026-11-20",
+  "paylocity:6166aed4-af42-4762-99e4-5d67a7cf6baa:4678604": "2026-11-20",
   "paylocity:69387653-2ac0-48e3-b0d4-5b10a4d51a46:4343911": "2026-11-16",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2019204EXTERNALENGLOBAL": "2026-11-12",
   "phenom:careers.cisco.com|global/en:CISCISGLOBAL2019819EXTERNALENGLOBAL": "2026-11-17",
@@ -69136,6 +69144,7 @@
   "sfrmk:careers.capgemini.com:1452715833": "2026-11-09",
   "sfrmk:careers.capgemini.com:1452723633": "2026-11-12",
   "sfrmk:careers.capgemini.com:1452735033": "2026-11-09",
+  "sfrmk:careers.capgemini.com:1452754833": "2026-11-20",
   "sfrmk:careers.capgemini.com:1453149433": "2026-11-11",
   "sfrmk:careers.capgemini.com:1453229233": "2026-11-09",
   "sfrmk:careers.capgemini.com:1453374033": "2026-11-13",
@@ -69169,16 +69178,29 @@
   "sfrmk:careers.capgemini.com:1455771133": "2026-11-20",
   "sfrmk:careers.capgemini.com:1455887633": "2026-11-12",
   "sfrmk:careers.capgemini.com:1456176533": "2026-11-12",
+  "sfrmk:careers.capgemini.com:1456309433": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1456465933": "2026-11-20",
   "sfrmk:careers.capgemini.com:1456469933": "2026-11-12",
   "sfrmk:careers.capgemini.com:1456625933": "2026-11-13",
   "sfrmk:careers.capgemini.com:1456638333": "2026-11-13",
+  "sfrmk:careers.capgemini.com:1456686333": "2026-11-20",
   "sfrmk:careers.capgemini.com:1456717633": "2026-11-13",
   "sfrmk:careers.capgemini.com:1456741533": "2026-11-12",
+  "sfrmk:careers.capgemini.com:1456815933": "2026-11-20",
   "sfrmk:careers.capgemini.com:1456859333": "2026-11-12",
   "sfrmk:careers.capgemini.com:1456990433": "2026-11-13",
   "sfrmk:careers.capgemini.com:1457017333": "2026-11-13",
+  "sfrmk:careers.capgemini.com:1457263933": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1457509733": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1457510433": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1457565533": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1457636633": "2026-11-20",
   "sfrmk:careers.capgemini.com:1457777433": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1457914033": "2026-11-20",
   "sfrmk:careers.capgemini.com:1457967033": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1457983033": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1457986233": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1457988033": "2026-11-20",
   "sfrmk:careers.capgemini.com:1458192933": "2026-11-20",
   "sfrmk:careers.capgemini.com:1458391133": "2026-11-20",
   "sfrmk:careers.capgemini.com:1458410933": "2026-11-20",
@@ -70471,10 +70493,10 @@
  },
  "source_last": {
   "hn": "2026-11-20T14:37:14+00:00",
-  "remoteok": "2026-11-20T13:37:15+00:00",
+  "remoteok": "2026-11-20T15:37:18+00:00",
   "usajobs": "2026-11-20T13:07:14+00:00",
   "workable_search": "2026-11-20T13:07:14+00:00",
-  "wwr": "2026-11-20T14:37:14+00:00",
+  "wwr": "2026-11-20T15:37:18+00:00",
   "yc": "2026-11-20T13:07:14+00:00"
  },
  "title_rules": "c323075b4d70",
