@@ -12009,17 +12009,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 141,
+   "n": 142,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 141,
+   "n": 142,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 141,
+   "n": 142,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -64358,6 +64358,7 @@
   "amazon:us:10609809": "2026-11-19",
   "amazon:us:10609930": "2026-11-19",
   "amazon:us:10610063": "2026-11-20",
+  "amazon:us:10610161": "2026-11-20",
   "apple:usa:200555687": "2026-11-14",
   "apple:usa:200656816": "2026-11-17",
   "apple:usa:200665281": "2026-11-14",
@@ -67359,6 +67360,7 @@
   "icims:careers-steampunk.icims.com:8394": "2026-11-14",
   "icims:careers-steampunk.icims.com:8395": "2026-11-14",
   "icims:careers-steampunk.icims.com:8410": "2026-11-14",
+  "icims:careers-steampunk.icims.com:9014": "2026-11-20",
   "icims:careers-steeldynamics.icims.com:8717": "2026-11-17",
   "icims:careers-stonex.icims.com:16602": "2026-11-14",
   "icims:careers-strattec.icims.com:8366": "2026-11-14",
@@ -67945,6 +67947,7 @@
   "lever:jobgether:cf7fda3c-bb7f-4f9d-a2cf-6383f59c3288": "2026-11-20",
   "lever:jobgether:d007b034-95c9-43ef-b6c9-175773560385": "2026-11-14",
   "lever:jobgether:d1c00037-fcc6-421e-86ef-e4c8866b0a42": "2026-11-18",
+  "lever:jobgether:d74b978e-505d-4b9a-9497-1c3870e4be8e": "2026-11-20",
   "lever:jobgether:e20facbc-c67e-433d-8ebd-d46e0377b2c5": "2026-11-16",
   "lever:jobgether:e77ae819-d598-4d58-8c2a-835267008435": "2026-11-14",
   "lever:jobgether:ea353e26-0e92-4a6c-af2b-e9d341e52e01": "2026-11-18",
@@ -68840,6 +68843,7 @@
   "sfrmk:careers.capgemini.com:1448560233": "2026-11-14",
   "sfrmk:careers.capgemini.com:1448625533": "2026-11-14",
   "sfrmk:careers.capgemini.com:1449504733": "2026-11-14",
+  "sfrmk:careers.capgemini.com:1449837633": "2026-11-20",
   "sfrmk:careers.capgemini.com:1450002333": "2026-11-16",
   "sfrmk:careers.capgemini.com:1450028933": "2026-11-14",
   "sfrmk:careers.capgemini.com:1450029333": "2026-11-14",
@@ -69703,6 +69707,7 @@
   "workday:acrisure|wd1|Acrisure:Georgia; Texas": "2026-11-14",
   "workday:acrisure|wd1|Acrisure:Texas": "2026-11-14",
   "workday:acxiomllc|wd5|AcxiomUSA:JR014681": "2026-11-14",
+  "workday:aderant|wd5|Aderant_External_Careers:REQ_100000483": "2026-11-20",
   "workday:adobe|wd5|external_experienced:R171470": "2026-11-14",
   "workday:agilent|wd5|Agilent_Careers:4040775": "2026-11-19",
   "workday:aksteel|wd1|careers:R13987": "2026-11-14",
