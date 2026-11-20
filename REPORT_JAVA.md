@@ -1,6 +1,6 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**185 jobs**, newest first. Updated Thu Nov 19, 8:47 PM CST from 12,526 company job boards and other sources.
+**185 jobs**, newest first. Updated Thu Nov 19, 9:20 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
@@ -230,7 +230,7 @@ Jump to: [Thu 19 (12)](#thursday-nov-19-12) · [Wed 18 (24)](#wednesday-nov-18-2
 | 7:52 AM | [The Core Engineering- Software Engineering - Associate - Dallas](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/182586) | Goldman Sachs | Dallas, TX, United States | 48 | entry-level title; 3+ yrs exp; requires Java |
 | 7:52 AM | [The Core Engineering- Software Engineering - Associate - Dallas](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CampusHiring/job/182586) | Hdpc Fa Us2 Oraclecloud Com | Dallas, TX, United States | 43 | entry-level title; 3+ yrs exp; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (349)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (350)
 
 <details><summary>Show</summary>
 
@@ -245,6 +245,7 @@ Jump to: [Thu 19 (12)](#thursday-nov-19-12) · [Wed 18 (24)](#wednesday-nov-18-2
 | date only | [Senior System Software Engineer](https://nvidia.eightfold.ai/careers/job/893392890244) | Nvidia | Santa Clara, CA, US; Champaign, IL, US;… (onsite) | 30 | rules: 9+ yrs exp; senior title; requires Java; asks for 9+ years of … |
 | date only | [Open Source Software Engineer](https://jobs.netapp.com/job/Open-Source-Software-Engineer/1452419000/) | NetApp | US | 30 | rules: 8+ yrs exp; requires Java; asks for 8+ years of experience |
 | date only | [Applications Development Senior Developer  (Java / Microservices)](https://citi.eightfold.ai/careers/job/859038830202) | Citi | Irving, TX, US (hybrid) | 43 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
+| date only | [Senior Automation Developer (Java)](https://citi.eightfold.ai/careers/job/859037884952) | Citi | Mississauga, ON, CA (hybrid) | 43 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 10:22 AM | [Software Engineer](https://johndeere.eightfold.ai/careers/job/137484231195) | John Deere | Milan, IL, US (onsite) | 35 | rules: 5+ yrs exp; requires Java; asks for 5+ years of experience |
 | 10:22 AM | [Software Engineer](https://johndeere.eightfold.ai/careers/job/137484231195) | Johndeere | Milan, IL, US (onsite) | 35 | rules: 5+ yrs exp; requires Java; asks for 5+ years of experience |
 | 6:16 AM (seen) | [Software Engineer SWE Level 2](https://careers.bitwise.tech/careers/101033-General/jobs/16875014-Software-Engineer-SWE-Level-2/) | Bitwise |  | 5 | rules: 12+ yrs exp; location unclear; requires Java; needs: SCI clear… |
