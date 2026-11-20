@@ -170,6 +170,7 @@ def run(args) -> int:
         focus_keys = {b.key.lower() for b in focus}
         boards = focus + [b for b in boards if b.key.lower() not in focus_keys]
     boards = resolve_auto_boards(boards, state, today)
+    boards_before_filter = len(boards)
     if args.only:
         boards = [b for b in boards if b.ats in args.only]
     if args.skip:
@@ -178,11 +179,12 @@ def run(args) -> int:
     found = [b for b in (load_discovered(known_keys) + load_discovered(known_keys, _store.CAREERS_BOARDS_PATH, named=True)
                          if general else [])
              if not is_excluded_company(b, rules)]
+    found_before_filter = len(found)
     if args.only:
         found = [b for b in found if b.ats in args.only]
     if args.skip:
         found = [b for b in found if b.ats not in args.skip]
-    total_boards = len(boards) + len(found)
+    total_boards = boards_before_filter + found_before_filter   # every board the radar covers (also in a one-system step)
 
     # Keyword searches of the focus boards' full job text. A full sweep on the first run (or on request);
     # otherwise a rotating slice of the keywords, so every keyword is searched every few runs.
