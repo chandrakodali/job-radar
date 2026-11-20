@@ -1,14 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**543 jobs**, newest first. Updated Fri Nov 20, 2:15 PM CST from 10,845 company job boards and other sources.
+**543 jobs**, newest first. Updated Fri Nov 20, 2:27 PM CST from 1,681 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 294 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,765 matching jobs that job sites and feeds listed this week, 1,106 (40%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Fri 20 (31)](#friday-nov-20-31) · [Thu 19 (38)](#thursday-nov-19-38) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (319)](#saturday-nov-14-319) · [Fri 13 (19)](#friday-nov-13-19)
+Jump to: [Fri 20 (31)](#friday-nov-20-31) · [Thu 19 (38)](#thursday-nov-19-38) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (319)](#saturday-nov-14-319) · [Fri 13 (18)](#friday-nov-13-18)
 
 ## Friday, Nov 20 (31)
 
@@ -89,7 +87,7 @@ Jump to: [Fri 20 (31)](#friday-nov-20-31) · [Thu 19 (38)](#thursday-nov-19-38) 
 | 1:00 AM | [IT Systems Engineer](https://jobs.dayforcehcm.com/en-US/avisystems/CANDIDATEPORTAL/jobs/7725) | Avisystems | Minneapolis, MN, US | 50 |  |
 | 12:07 AM (seen) | [Senior Site Reliability Engineer](https://app.careerpuck.com/job-board/blinkhealth/job/75nQcAvf) | Blinkhealth | New York, NY; Pittsburgh, PA; Seattle, … | 40 | senior title, years not stated |
 
-## Wednesday, Nov 18 (43)
+## Wednesday, Nov 18 (44)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -105,6 +103,7 @@ Jump to: [Fri 20 (31)](#friday-nov-20-31) · [Thu 19 (38)](#thursday-nov-19-38) 
 | 5:18 PM | [Sr Software Engineer - Infrastructure & Platform](https://mercadolibre.eightfold.ai/careers/job/43350162) | Mercadolibre | CABA, CABA, AR (hybrid) | 60 | senior title, years not stated |
 | 4:57 PM | [Senior Application Security Engineer](https://jobs.ashbyhq.com/paxos/df3b7383-2900-4e72-acb0-eb3c1667573c) | Paxos | Remote - United States (remote) | 52 | senior title, years not stated |
 | 3:48 PM | [OT Infrastructure Engineer I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4564824) | Enchanted Rock Management LLC | Houston, TX, United States | 85 | entry-level title; 0-2 yrs exp |
+| 2:50 PM | [Reliability Engineer](https://bacardi.wd3.myworkdayjobs.com/Jobs_Bacardi/job/Tultitlan/Reliability-Engineer_R26_02072) | Bacardi | Tultitlan | 38 | location unclear |
 | 2:49 PM | [Application Support Engineer](https://job-boards.greenhouse.io/cooksys/jobs/5487021008) | Cook Systems | San Antonio, Texas | 50 |  |
 | 2:30 PM | [Site Reliability Specialist II (Linux/AWS/Monitoring)](https://jobs.smartrecruiters.com/Intelerad/744000162388219-site-reliability-specialist-ii-linux-aws-monitoring-) | Intelerad | Remote, UNITED STATES, United States (hybrid) | 60 | 3+ yrs exp |
 | 2:07 PM (seen) | [Software Engineer - Model Infrastructure, TikTok Feeds](https://lifeattiktok.com/search/7514815357371959559) | TikTok | San Jose, California, United States of … | 50 |  |
@@ -569,7 +568,7 @@ Jump to: [Fri 20 (31)](#friday-nov-20-31) · [Thu 19 (38)](#thursday-nov-19-38) 
 | date only | [Sr. DevOps Engineer - Trading & Supply](https://indigobeam.zohorecruit.com/jobs/Careers/792375000009305132/Sr-DevOps-Engineer-Trading-Supply) | Indigobeam | Houston, Texas, United States | 48 | senior title, years not stated |
 | 7:47 AM | [Systems Software Developer, CAD Infrastructure](https://jobs.apple.com/en-us/details/200694942/systems-software-developer-cad-infrastructure) | Apple | United States of America | 65 |  |
 
-## Friday, Nov 13 (19)
+## Friday, Nov 13 (18)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -591,7 +590,6 @@ Jump to: [Fri 20 (31)](#friday-nov-20-31) · [Thu 19 (38)](#thursday-nov-19-38) 
 | 2:52 PM | [Associate Cloud Engineer L1](https://ats.rippling.com/redesigncareers/jobs/71ec625d-45a8-4c1f-9374-857ccdd97d82) | The Redesign Group | Remote (United States) (remote) | 77 | entry-level title; E-Verify |
 | 2:42 PM | [Sr Software Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200694982/sr-software-engineer-infrastructure-services) | Apple | United States of America | 55 | senior title, years not stated |
 | 2:38 PM | [Hardware Reliability Engineer - Mac System Reliability](https://jobs.apple.com/en-us/details/200684228/hardware-reliability-engineer-mac-system-reliability) | Apple | United States of America | 65 |  |
-| 2:17 PM | [Artificial Intelligence Platform Engineer](https://mercadolibre.eightfold.ai/careers/job/45520009) | Mercadolibre | CABA, CABA, AR (onsite) | 63 |  |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (611)
 
