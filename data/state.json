@@ -12153,17 +12153,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 340,
+   "n": 341,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 340,
+   "n": 341,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 340,
+   "n": 341,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12189,6 +12189,31 @@
    "err": "HTTP 404",
    "n": 4,
    "since": "2026-11-09"
+  },
+  "eightfold:appliedmaterials": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-20"
+  },
+  "eightfold:corteva": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-20"
+  },
+  "eightfold:curriculumassociates": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-20"
+  },
+  "eightfold:eaton": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-20"
+  },
+  "eightfold:whirlpool": {
+   "err": "network error: ConnectionError",
+   "n": 1,
+   "since": "2026-11-20"
   },
   "eightfold:zebra|zebra.com": {
    "disabled_until": "2026-11-23",
@@ -65681,6 +65706,7 @@
  },
  "seen": {
   "adp:0bb77723-5db8-455b-a01c-54257189f090|19000101_000001:9205261737994_37": "2026-11-18",
+  "adp:13506473-8528-417a-b040-407867621d8b|19000101_000001:9204563701014_1": "2026-11-20",
   "adp:18bcd225-9065-4e78-8585-763a250b6ab5|19000101_000001:9201434705775_1": "2026-11-15",
   "adp:1dbdd623-584f-49ff-9c37-77cd8670f636|19000101_000001:9200600988094_31": "2026-11-16",
   "adp:1dbdd623-584f-49ff-9c37-77cd8670f636|19000101_000001:9200604026737_6": "2026-11-16",
@@ -65758,6 +65784,7 @@
   "amazon:us:10609574": "2026-11-19",
   "amazon:us:10610161": "2026-11-20",
   "amazon:us:10610234": "2026-11-20",
+  "amazon:us:10610384": "2026-11-20",
   "apple:usa:200657320": "2026-11-14",
   "apple:usa:200674782": "2026-11-14",
   "apple:usa:200684228": "2026-11-14",
@@ -66993,6 +67020,7 @@
   "greenhouse:betatechnologiesinc:4419983009": "2026-11-09",
   "greenhouse:betatechnologiesinc:4473742009": "2026-11-09",
   "greenhouse:betatechnologiesinc:4485340009": "2026-11-12",
+  "greenhouse:betatechnologiesinc:4516091009": "2026-11-20",
   "greenhouse:blinkhealth:8942325002": "2026-11-19",
   "greenhouse:bluestaq:4488965009": "2026-11-12",
   "greenhouse:boxinc:8318473": "2026-11-12",
@@ -67049,6 +67077,7 @@
   "greenhouse:chaosindustries:5289545007": "2026-11-12",
   "greenhouse:chaosindustries:5293433007": "2026-11-12",
   "greenhouse:chicagotrading:4751594005": "2026-11-11",
+  "greenhouse:chime:8950917002": "2026-11-20",
   "greenhouse:clarityinnovates:5281619007": "2026-11-07",
   "greenhouse:clearwayjobs:5290313007": "2026-11-20",
   "greenhouse:clockworksystems:6254176004": "2026-11-12",
@@ -67216,6 +67245,7 @@
   "greenhouse:point72:8899767002": "2026-11-07",
   "greenhouse:point72:8919989002": "2026-11-07",
   "greenhouse:point72:8945315002": "2026-11-17",
+  "greenhouse:privatehealthmanagement:5418353008": "2026-11-20",
   "greenhouse:prizepicks:8208519003": "2026-11-18",
   "greenhouse:quberesearchandtechnologies:8902671002": "2026-11-07",
   "greenhouse:quberesearchandtechnologies:8923209002": "2026-11-11",
@@ -67264,6 +67294,8 @@
   "greenhouse:tenet3:8939443002": "2026-11-12",
   "greenhouse:tenon:8383699": "2026-11-12",
   "greenhouse:tenstorrent:5283701007": "2026-11-10",
+  "greenhouse:tenstorrent:5301370007": "2026-11-20",
+  "greenhouse:tenstorrent:5301371007": "2026-11-20",
   "greenhouse:theiconic:8335677": "2026-11-14",
   "greenhouse:thenuclearcompany:5489353008": "2026-11-19",
   "greenhouse:thetradedesk:5301212007": "2026-11-19",
@@ -67330,10 +67362,26 @@
   "ibm:us:138784": "2026-11-14",
   "ibm:us:138957": "2026-11-14",
   "ibm:us:139663": "2026-11-14",
+  "ibm:us:143569": "2026-11-20",
+  "ibm:us:143653": "2026-11-20",
   "ibm:us:143774": "2026-11-20",
+  "ibm:us:143815": "2026-11-20",
+  "ibm:us:143821": "2026-11-20",
+  "ibm:us:143835": "2026-11-20",
   "ibm:us:143901": "2026-11-20",
+  "ibm:us:143927": "2026-11-20",
+  "ibm:us:143965": "2026-11-20",
+  "ibm:us:143980": "2026-11-20",
+  "ibm:us:143982": "2026-11-20",
+  "ibm:us:143998": "2026-11-20",
   "ibm:us:144027": "2026-11-20",
+  "ibm:us:144031": "2026-11-20",
+  "ibm:us:144245": "2026-11-20",
   "ibm:us:144269": "2026-11-20",
+  "ibm:us:144294": "2026-11-20",
+  "ibm:us:144351": "2026-11-20",
+  "ibm:us:144948": "2026-11-20",
+  "ibm:us:145026": "2026-11-20",
   "icims:apac-blackhawknetwork.icims.com:27229": "2026-11-15",
   "icims:arc-onesolutions.icims.com:17204": "2026-11-15",
   "icims:arc-onesolutions.icims.com:17276": "2026-11-16",
@@ -67820,6 +67868,7 @@
   "icims:careers-steampunk.icims.com:8485": "2026-11-16",
   "icims:careers-steampunk.icims.com:8815": "2026-11-19",
   "icims:careers-steampunk.icims.com:8948": "2026-11-20",
+  "icims:careers-steampunk.icims.com:9079": "2026-11-20",
   "icims:careers-steeldynamics.icims.com:8343": "2026-11-09",
   "icims:careers-stifel.icims.com:8624": "2026-11-12",
   "icims:careers-stifel.icims.com:9745": "2026-11-15",
@@ -68239,6 +68288,7 @@
   "jobvite:actionet-review:oSlUzfwq": "2026-11-15",
   "jobvite:actionet-review:odLYAfwg": "2026-11-15",
   "jobvite:actionet-review:oglUzfwO": "2026-11-15",
+  "jobvite:actionet-review:on58AfwU": "2026-11-20",
   "jobvite:actionet-review:owtIAfw1": "2026-11-15",
   "jobvite:actionet:o2q9AfwV": "2026-11-12",
   "jobvite:actionet:oMHPzfwB": "2026-11-09",
@@ -68249,6 +68299,7 @@
   "jobvite:actionet:oSlUzfwq": "2026-11-12",
   "jobvite:actionet:odLYAfwg": "2026-11-12",
   "jobvite:actionet:oglUzfwO": "2026-11-09",
+  "jobvite:actionet:on58AfwU": "2026-11-20",
   "jobvite:altamiracorps:o1P2Afwc": "2026-11-09",
   "jobvite:altamiracorps:o6PQAfw5": "2026-11-09",
   "jobvite:altamiracorps:o8V6Afwt": "2026-11-12",
