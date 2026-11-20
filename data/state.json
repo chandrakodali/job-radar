@@ -12150,17 +12150,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 322,
+   "n": 323,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 322,
+   "n": 323,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 322,
+   "n": 323,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12594,11 +12594,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 4,
    "since": "2026-11-09"
-  },
-  "icims:careers-apexservicepartners.icims.com": {
-   "err": "HTTP 521",
-   "n": 1,
-   "since": "2026-11-20"
   },
   "icims:careers-biorad.icims.com": {
    "disabled_until": "2026-11-23",
@@ -14947,8 +14942,8 @@
    369
   ],
   "2026-11-20": [
-   80,
-   146
+   83,
+   151
   ]
  },
  "resolved": {
@@ -70439,10 +70434,10 @@
  },
  "source_last": {
   "hn": "2026-11-20T02:37:18+00:00",
-  "remoteok": "2026-11-20T05:37:24+00:00",
+  "remoteok": "2026-11-20T07:37:23+00:00",
   "usajobs": "2026-11-20T07:07:15+00:00",
   "workable_search": "2026-11-20T07:07:15+00:00",
-  "wwr": "2026-11-20T06:37:13+00:00",
+  "wwr": "2026-11-20T07:37:23+00:00",
   "yc": "2026-11-20T07:07:15+00:00"
  },
  "title_rules": "c323075b4d70",

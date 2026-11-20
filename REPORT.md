@@ -1,14 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**564 jobs**, newest first. Updated Fri Nov 20, 1:07 AM CST from 12,526 company job boards and other sources.
+**563 jobs**, newest first. Updated Fri Nov 20, 1:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 228 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,558 matching jobs that job sites and feeds listed this week, 999 (39%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,563 matching jobs that job sites and feeds listed this week, 1,002 (39%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Fri 20 (1)](#friday-nov-20-1) · [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (47)](#wednesday-nov-18-47) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (49)](#monday-nov-16-49) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (62)](#friday-nov-13-62)
+Jump to: [Fri 20 (1)](#friday-nov-20-1) · [Thu 19 (37)](#thursday-nov-19-37) · [Wed 18 (47)](#wednesday-nov-18-47) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (49)](#monday-nov-16-49) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (61)](#friday-nov-13-61)
 
 ## Friday, Nov 20 (1)
 
@@ -547,7 +547,7 @@ Jump to: [Fri 20 (1)](#friday-nov-20-1) · [Thu 19 (37)](#thursday-nov-19-37) ·
 | date only | [Sr. DevOps Engineer - Trading & Supply](https://indigobeam.zohorecruit.com/jobs/Careers/792375000009305132/Sr-DevOps-Engineer-Trading-Supply) | Indigobeam | Houston, Texas, United States | 48 | senior title, years not stated |
 | 7:47 AM | [Systems Software Developer, CAD Infrastructure](https://jobs.apple.com/en-us/details/200694942/systems-software-developer-cad-infrastructure) | Apple | United States of America | 65 |  |
 
-## Friday, Nov 13 (62)
+## Friday, Nov 13 (61)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -612,7 +612,6 @@ Jump to: [Fri 20 (1)](#friday-nov-20-1) · [Thu 19 (37)](#thursday-nov-19-37) ·
 | 6:27 AM | [Platform Engineer](https://jobs.ashbyhq.com/conduct/002c7fa7-9c58-401c-a8e8-e51f15830471) | Conduct | NYC, US (onsite) | 63 |  |
 | 6:15 AM | [Infrastructure Engineer III - AWS Cloud Infrastructure & SecOps Engin…](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803198) | JP Morgan Chase | Plano, TX, United States | 60 | 3+ yrs exp; senior title |
 | 5:02 AM | [Langfuse - Senior Cloud Infra Engineer](https://jobs.ashbyhq.com/clickhouse/39e42a38-1cbf-40c7-b373-717b4cdddbac) | ClickHouse | New York (remote) | 52 | senior title, years not stated |
-| 1:07 AM | [Full-Stack Software Engineer (Infrastructure Focus)](https://jobs.lever.co/jobgether/c12ad43a-3c7b-4d0b-adde-d3509813970d) | Jobgether | US (remote) | 55 |  |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (583)
 
