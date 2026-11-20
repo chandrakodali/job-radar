@@ -210,6 +210,9 @@ def run(args) -> int:
                 lim.append(b)
                 per[b.ats] += 1
         selected = lim
+    # Boards read longest ago go first, so a run cut short (time or rate limits) is made up by the next one.
+    read_at = state.setdefault("read_at", {})
+    selected.sort(key=lambda b: (not b.focus, read_at.get(b.key, "")))
     log.info("Boards: %d total (%d discovered), %d this run (workday slot %d/%d). Notifications: %s",
              total_boards, len(found), len(selected), slot, shards, notifier.describe())
     if focus:
@@ -253,7 +256,7 @@ def run(args) -> int:
         return f"{b.ats}:{b.board.split('|')[0].lower()}" if b.ats in PER_SITE_LIMITS else b.ats
 
     def limit_for(b: Board) -> int:
-        return 2 if b.ats in PER_SITE_LIMITS else THROTTLE_LIMIT * 5   # shared APIs are paced (radar/http.py)
+        return 2 if b.ats in PER_SITE_LIMITS else 400   # shared APIs slow down by themselves (radar/http.py)
 
     def fetch_board(b: Board):
         if time.monotonic() > deadline:
@@ -334,6 +337,7 @@ def run(args) -> int:
                 continue
             stats[f"ok_{b.ats}"] += 1
             state["fails"].pop(b.key, None)
+            read_at[b.key] = now.isoformat(timespec="minutes")
             first_time = b.key not in state["baselined"]
             if first_time:
                 newly_baselined.add(b.key)

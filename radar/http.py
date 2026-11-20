@@ -61,24 +61,59 @@ _pace_lock = threading.Lock()
 _pace_next: dict[str, float] = {}
 
 
-def _pace(url: str) -> None:
+_pace_gap: dict[str, float] = {}     # current gap per group: grows on rate-limit replies, shrinks on success
+_pace_ok: dict[str, int] = {}
+MAX_GAP = 4.0
+
+
+def _group(url: str) -> tuple[str, float] | None:
     host = (urlsplit(url).hostname or "").lower()
     for suffix, gap in PACED:
         if host.endswith(suffix):
-            with _pace_lock:
-                now = time.monotonic()
-                at = max(now, _pace_next.get(suffix, 0.0))
-                _pace_next[suffix] = at + gap
-            if at > now:
-                time.sleep(at - now)
-            return
+            return suffix, gap
+    return None
+
+
+def _pace(url: str) -> None:
+    g = _group(url)
+    if not g:
+        return
+    suffix, base = g
+    with _pace_lock:
+        now = time.monotonic()
+        at = max(now, _pace_next.get(suffix, 0.0))
+        _pace_next[suffix] = at + _pace_gap.get(suffix, base)
+    if at > now:
+        time.sleep(at - now)
+
+
+def _paced_result(url: str, limited: bool) -> None:
+    """Adapt the pace: slower after a rate-limit reply (and a short pause), a little faster after 50 successes."""
+    g = _group(url)
+    if not g:
+        return
+    suffix, base = g
+    with _pace_lock:
+        gap = _pace_gap.get(suffix, base)
+        if limited:
+            _pace_gap[suffix] = min(MAX_GAP, gap * 1.6)
+            _pace_next[suffix] = max(_pace_next.get(suffix, 0.0), time.monotonic() + 20)   # let the limit reset
+            _pace_ok[suffix] = 0
+        else:
+            _pace_ok[suffix] = _pace_ok.get(suffix, 0) + 1
+            if _pace_ok[suffix] >= 50 and gap > base:
+                _pace_gap[suffix] = max(base, gap * 0.85)
+                _pace_ok[suffix] = 0
 
 
 def _send(method: str, url: str, **kw):
     _pace(url)
     try:
-        return session().request(method, url, timeout=TIMEOUT, **kw)
+        r = session().request(method, url, timeout=TIMEOUT, **kw)
+        _paced_result(url, r.status_code == 429)
+        return r
     except requests.exceptions.RetryError as e:
+        _paced_result(url, True)
         raise FetchError("rate limited (retries exhausted)", 429) from e
     except requests.RequestException as e:
         raise FetchError(f"network error: {type(e).__name__}") from e

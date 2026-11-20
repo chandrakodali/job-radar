@@ -122,3 +122,18 @@ def test_job_page_without_structured_data_uses_page_text(monkeypatch):
     j = Job(ats="jazzhr", board="acme", job_id="1", company="Acme", title="Java Developer", location="", url="u")
     M._ld_detail(j)
     assert "3+ years of Java" in j.description and "Privacy" not in j.description and "Jobs Home" not in j.description
+
+
+def test_pacing_slows_on_rate_limits_and_recovers():
+    import radar.http as H
+    u = "https://acme.wd5.myworkdayjobs.com/wday/cxs/acme/x/jobs"
+    H._pace_gap.pop("myworkdayjobs.com", None)
+    H._paced_result(u, True)
+    slow = H._pace_gap["myworkdayjobs.com"]
+    assert slow > 0.2
+    for _ in range(50):
+        H._paced_result(u, False)
+    assert 0.2 <= H._pace_gap["myworkdayjobs.com"] < slow
+    H._paced_result("https://boards.greenhouse.io/x", True)       # not a paced site: nothing changes
+    assert "greenhouse.io" not in H._pace_gap
+    H._pace_gap.clear(); H._pace_next.clear()
