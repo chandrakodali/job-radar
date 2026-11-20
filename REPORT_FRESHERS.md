@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**505 jobs**, newest first. Updated Fri Nov 20, 5:30 PM CST from 12,526 company job boards and other sources.
+**503 jobs**, newest first. Updated Fri Nov 20, 5:42 PM CST from 12,571 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 248 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,756 matching jobs that job sites and feeds listed this week, 925 (19%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (81)](#thursday-nov-19-81) · [Wed 18 (56)](#wednesday-nov-18-56) · [Tue 17 (70)](#tuesday-nov-17-70) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (5)](#friday-nov-13-5)
+Jump to: [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (81)](#thursday-nov-19-81) · [Wed 18 (56)](#wednesday-nov-18-56) · [Tue 17 (70)](#tuesday-nov-17-70) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (3)](#friday-nov-13-3)
 
 ## Friday, Nov 20 (69)
 
@@ -545,15 +543,13 @@ Jump to: [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (81)](#thursday-nov-19-81) 
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Town Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825084) | Macy's | Kennesaw, GA, United States | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Serramonte](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825080) | Macy's | Daly City, CA, United States | 75 | entry-level title |
 
-## Friday, Nov 13 (5)
+## Friday, Nov 13 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 10:09 PM | [Gallery Housekeeping Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/42206) | RH | Charlotte, NC, United States +1 more | 75 | entry-level title |
 | 7:04 PM | [Operations Support Associate – Relief $18-20/hr](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4660563) | Cayuga Milk Ingredients, LLC | Auburn, NY, United States | 68 | entry-level title |
 | 5:50 PM | [Service Desk Engineer (M-F 3pm to Midnight PST)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=567e686e-7575-49d9-b29f-985e7365f987&ccId=19000101_000001&jobId=9202916632446_104&lang=en_US) | 567E686E 7575 49D9 B29F 985E7… | USA, Remote | 80 | 1+ yrs exp; E-Verify |
-| 5:30 PM | [Administrative Support Team Associate, Poughkeepsie Galleria - Part T…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825033) | Macy's | Poughkeepsie, NY, United States | 85 | entry-level title; 1+ yrs exp |
-| 5:30 PM | [Seasonal Fulfillment and Receiving Support Associate, Pembroke Lakes](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825017) | Macy's | Pembroke Pines, FL, United States | 75 | entry-level title |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2283)
 
