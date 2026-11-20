@@ -12027,9 +12027,9 @@
    "since": "2026-11-07"
   },
   "ashby:offstream": {
-   "disabled_until": "2026-11-20",
+   "disabled_until": "2026-11-27",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "ashby:ona": {
@@ -12075,9 +12075,9 @@
    "since": "2026-11-15"
   },
   "ashby:tavily": {
-   "disabled_until": "2026-11-20",
+   "disabled_until": "2026-11-27",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-13"
   },
   "ashby:tensorzero": {
@@ -12148,17 +12148,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 307,
+   "n": 308,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 307,
+   "n": 308,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 307,
+   "n": 308,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12264,9 +12264,9 @@
    "since": "2026-11-07"
   },
   "greenhouse:classpass": {
-   "disabled_until": "2026-11-20",
+   "disabled_until": "2026-11-27",
    "err": "HTTP 404",
-   "n": 3,
+   "n": 4,
    "since": "2026-11-12"
   },
   "greenhouse:climateai": {
@@ -14140,18 +14140,6 @@
    "n": 3,
    "since": "2026-11-14"
   },
-  "sfrmk:assaabloy.jobs2web.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "sfrmk:career.sonepar.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "sfrmk:careers-us.stulz.com": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -14176,35 +14164,17 @@
    "n": 3,
    "since": "2026-11-14"
   },
-  "sfrmk:careers.anglogoldashanti.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "sfrmk:careers.aps.com": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
   },
-  "sfrmk:careers.bauschlomb.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "sfrmk:careers.belden.com": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
-  },
-  "sfrmk:careers.capgemini.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "sfrmk:careers.chsinc.com": {
    "disabled_until": "2026-11-21",
@@ -14272,12 +14242,6 @@
    "n": 3,
    "since": "2026-11-14"
   },
-  "sfrmk:careers.mann-hummel.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "sfrmk:careers.mediaocean.com": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -14301,12 +14265,6 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
-  },
-  "sfrmk:careers.partnerre.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "sfrmk:careers.pge.com": {
    "disabled_until": "2026-11-21",
@@ -14362,53 +14320,17 @@
    "n": 3,
    "since": "2026-11-14"
   },
-  "sfrmk:jobdetails.nestle.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "sfrmk:jobs.adidas-group.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "sfrmk:jobs.advanced-energy.com": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
   },
-  "sfrmk:jobs.arjo.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "sfrmk:jobs.arkema.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "sfrmk:jobs.armstrong.com": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
-  },
-  "sfrmk:jobs.atos.net": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "sfrmk:jobs.bmwgroup.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "sfrmk:jobs.cmc.com": {
    "disabled_until": "2026-11-21",
@@ -14440,12 +14362,6 @@
    "n": 3,
    "since": "2026-11-14"
   },
-  "sfrmk:jobs.farmersinsurance.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "sfrmk:jobs.grainger.com": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -14463,12 +14379,6 @@
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
-  },
-  "sfrmk:jobs.lear.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "sfrmk:jobs.lincolnfinancial.com": {
    "disabled_until": "2026-11-21",
@@ -14512,12 +14422,6 @@
    "n": 3,
    "since": "2026-11-14"
   },
-  "sfrmk:jobs.paccar.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "sfrmk:jobs.pseg.com": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
@@ -14548,35 +14452,11 @@
    "n": 3,
    "since": "2026-11-14"
   },
-  "sfrmk:mhicareers.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "sfrmk:mycareer.heraeus.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
-  },
   "sfrmk:seagatecareers.com": {
    "disabled_until": "2026-11-21",
    "err": "HTTP 404",
    "n": 3,
    "since": "2026-11-14"
-  },
-  "sfrmk:www.careerprofile.epiroc.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
-  },
-  "sfrmk:www.careers.zurich.com": {
-   "disabled_until": "2026-11-20",
-   "err": "HTTP 404",
-   "n": 3,
-   "since": "2026-11-13"
   },
   "sfrmk:www.optimumcareers.com": {
    "disabled_until": "2026-11-21",
@@ -15030,10 +14910,6 @@
  },
  "missing_once": {},
  "recall": {
-  "2026-11-12": [
-   9,
-   40
-  ],
   "2026-11-13": [
    37,
    197
@@ -15061,6 +14937,10 @@
   "2026-11-19": [
    182,
    369
+  ],
+  "2026-11-20": [
+   0,
+   0
   ]
  },
  "resolved": {
@@ -17821,7 +17701,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "assets-cdn.breezy.hr": {
    "r": [],
@@ -20297,7 +20177,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "careers-additionalrovisysopportunities.icims.com": {
    "r": [
@@ -34544,7 +34424,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "careers.aps.com": {
    "r": [
@@ -34634,7 +34514,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "careers.bcg.com": {
    "r": [
@@ -34813,7 +34693,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "careers.cargurus.com": {
    "r": [
@@ -36369,7 +36249,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "careers.mediaocean.com": {
    "r": [
@@ -36725,7 +36605,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "careers.pdf.com": {
    "r": [
@@ -47148,7 +47028,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "jobify.zohorecruit.com": {
    "r": [
@@ -47748,7 +47628,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-10"
+   "t": "2026-11-20"
   },
   "jobs.advanced-energy.com": {
    "r": [
@@ -47842,7 +47722,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "jobs.arkema.com": {
    "r": [
@@ -47887,7 +47767,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "jobs.armstrong.com": {
    "r": [
@@ -48050,7 +47930,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "jobs.bmwgroup.com": {
    "r": [
@@ -48095,7 +47975,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "jobs.cmc.com": {
    "r": [
@@ -48365,7 +48245,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "jobs.frequentis.com": {
    "r": [
@@ -48864,7 +48744,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "jobs.lincolnfinancial.com": {
    "r": [
@@ -49297,7 +49177,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "jobs.pomerleau.ca": {
    "r": [
@@ -52810,7 +52690,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "micromata.jobs.personio.de": {
    "r": [
@@ -53408,7 +53288,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "mynaric.jobs.personio.de": {
    "r": [
@@ -64972,7 +64852,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "www.careers.zurich.com": {
    "r": [
@@ -65017,7 +64897,7 @@
      "/reset/"
     ]
    ],
-   "t": "2026-11-09"
+   "t": "2026-11-20"
   },
   "www.metlifecareers.com": {
    "r": [
@@ -66059,6 +65939,7 @@
   "ashby:openai:4f2d9849-ad00-48d5-a22f-0cb943723999": "2026-11-07",
   "ashby:openai:9f7371c4-e306-4a45-a400-aa2843fabd85": "2026-11-07",
   "ashby:openai:e70a2b94-17d7-4083-a028-943bae53d126": "2026-11-12",
+  "ashby:openai:f0529a1d-fb6a-4229-a590-8caff1785bb3": "2026-11-20",
   "ashby:openloophealth:d1e8a8c6-8205-4057-8e5d-597c9df3f724": "2026-11-07",
   "ashby:options-it:dc5f0094-f6b8-422c-9773-577a519ef269": "2026-11-07",
   "ashby:orbit:ce3ebc6d-f6d6-4c19-92d4-fdcbbd87bead": "2026-11-14",
@@ -68909,7 +68790,10 @@
   "sfrmk:assaabloy.jobs2web.com:1437917733": "2026-11-09",
   "sfrmk:assaabloy.jobs2web.com:1440482033": "2026-11-12",
   "sfrmk:assaabloy.jobs2web.com:1451498233": "2026-11-09",
+  "sfrmk:assaabloy.jobs2web.com:1454065333": "2026-11-20",
   "sfrmk:assaabloy.jobs2web.com:1455421633": "2026-11-09",
+  "sfrmk:assaabloy.jobs2web.com:1458220733": "2026-11-20",
+  "sfrmk:assaabloy.jobs2web.com:1458734933": "2026-11-20",
   "sfrmk:careers.acuityinc.com:1421056300": "2026-11-12",
   "sfrmk:careers.acuityinc.com:1421379500": "2026-11-09",
   "sfrmk:careers.acuityinc.com:1422200900": "2026-11-12",
@@ -68974,15 +68858,19 @@
   "sfrmk:careers.capgemini.com:1283967701": "2026-11-09",
   "sfrmk:careers.capgemini.com:1285831001": "2026-11-13",
   "sfrmk:careers.capgemini.com:1286326001": "2026-11-09",
+  "sfrmk:careers.capgemini.com:1288998901": "2026-11-20",
   "sfrmk:careers.capgemini.com:1292470901": "2026-11-13",
+  "sfrmk:careers.capgemini.com:1292471801": "2026-11-20",
   "sfrmk:careers.capgemini.com:1365416933": "2026-11-09",
   "sfrmk:careers.capgemini.com:1365853633": "2026-11-09",
   "sfrmk:careers.capgemini.com:1366897733": "2026-11-11",
   "sfrmk:careers.capgemini.com:1367124033": "2026-11-13",
   "sfrmk:careers.capgemini.com:1368035433": "2026-11-10",
+  "sfrmk:careers.capgemini.com:1370621633": "2026-11-20",
   "sfrmk:careers.capgemini.com:1371710633": "2026-11-09",
   "sfrmk:careers.capgemini.com:1372631833": "2026-11-13",
   "sfrmk:careers.capgemini.com:1372675333": "2026-11-09",
+  "sfrmk:careers.capgemini.com:1373464833": "2026-11-20",
   "sfrmk:careers.capgemini.com:1376418633": "2026-11-11",
   "sfrmk:careers.capgemini.com:1376806433": "2026-11-13",
   "sfrmk:careers.capgemini.com:1376811633": "2026-11-11",
@@ -68997,6 +68885,8 @@
   "sfrmk:careers.capgemini.com:1378308933": "2026-11-13",
   "sfrmk:careers.capgemini.com:1378413733": "2026-11-13",
   "sfrmk:careers.capgemini.com:1378851033": "2026-11-09",
+  "sfrmk:careers.capgemini.com:1379278333": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1379326833": "2026-11-20",
   "sfrmk:careers.capgemini.com:1379335933": "2026-11-13",
   "sfrmk:careers.capgemini.com:1379537733": "2026-11-10",
   "sfrmk:careers.capgemini.com:1381940333": "2026-11-12",
@@ -69069,6 +68959,7 @@
   "sfrmk:careers.capgemini.com:1434691933": "2026-11-13",
   "sfrmk:careers.capgemini.com:1434889333": "2026-11-09",
   "sfrmk:careers.capgemini.com:1434906933": "2026-11-09",
+  "sfrmk:careers.capgemini.com:1435020833": "2026-11-20",
   "sfrmk:careers.capgemini.com:1435083333": "2026-11-09",
   "sfrmk:careers.capgemini.com:1435255533": "2026-11-09",
   "sfrmk:careers.capgemini.com:1435371733": "2026-11-09",
@@ -69177,6 +69068,7 @@
   "sfrmk:careers.capgemini.com:1454796133": "2026-11-11",
   "sfrmk:careers.capgemini.com:1454818633": "2026-11-13",
   "sfrmk:careers.capgemini.com:1454891033": "2026-11-11",
+  "sfrmk:careers.capgemini.com:1454944233": "2026-11-20",
   "sfrmk:careers.capgemini.com:1454982233": "2026-11-13",
   "sfrmk:careers.capgemini.com:1454983033": "2026-11-11",
   "sfrmk:careers.capgemini.com:1455177933": "2026-11-13",
@@ -69185,6 +69077,7 @@
   "sfrmk:careers.capgemini.com:1455421733": "2026-11-12",
   "sfrmk:careers.capgemini.com:1455514033": "2026-11-11",
   "sfrmk:careers.capgemini.com:1455754533": "2026-11-10",
+  "sfrmk:careers.capgemini.com:1455771133": "2026-11-20",
   "sfrmk:careers.capgemini.com:1455887633": "2026-11-12",
   "sfrmk:careers.capgemini.com:1456176533": "2026-11-12",
   "sfrmk:careers.capgemini.com:1456469933": "2026-11-12",
@@ -69195,6 +69088,8 @@
   "sfrmk:careers.capgemini.com:1456859333": "2026-11-12",
   "sfrmk:careers.capgemini.com:1456990433": "2026-11-13",
   "sfrmk:careers.capgemini.com:1457017333": "2026-11-13",
+  "sfrmk:careers.capgemini.com:1457777433": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1458192933": "2026-11-20",
   "sfrmk:careers.chsinc.com:1447299800": "2026-11-09",
   "sfrmk:careers.chsinc.com:1450744600": "2026-11-13",
   "sfrmk:careers.consumersenergy.com:1444391400": "2026-11-13",
@@ -69331,6 +69226,7 @@
   "sfrmk:jobs.atos.net:1452216733": "2026-11-09",
   "sfrmk:jobs.atos.net:1454591233": "2026-11-12",
   "sfrmk:jobs.atos.net:1457139133": "2026-11-13",
+  "sfrmk:jobs.atos.net:1458937833": "2026-11-20",
   "sfrmk:jobs.bmwgroup.com:1427039333": "2026-11-09",
   "sfrmk:jobs.bmwgroup.com:1427500333": "2026-11-12",
   "sfrmk:jobs.cmc.com:1415909600": "2026-11-09",
@@ -69351,6 +69247,7 @@
   "sfrmk:jobs.exxonmobil.com:1447567000": "2026-11-09",
   "sfrmk:jobs.farmersinsurance.com:1376594657": "2026-11-09",
   "sfrmk:jobs.farmersinsurance.com:1377411857": "2026-11-12",
+  "sfrmk:jobs.farmersinsurance.com:1377995157": "2026-11-20",
   "sfrmk:jobs.grainger.com:1410271300": "2026-11-12",
   "sfrmk:jobs.gxo.com:1444896600": "2026-11-09",
   "sfrmk:jobs.halliburton.com:1406947900": "2026-11-09",
@@ -69389,6 +69286,7 @@
   "sfrmk:jobs.paccar.com:1437352733": "2026-11-09",
   "sfrmk:jobs.paccar.com:1450497633": "2026-11-10",
   "sfrmk:jobs.paccar.com:1454871633": "2026-11-09",
+  "sfrmk:jobs.paccar.com:1457943933": "2026-11-20",
   "sfrmk:jobs.royalcaribbeangroup.com:1435524100": "2026-11-12",
   "sfrmk:jobs.supermicro.com:1254278600": "2026-11-09",
   "sfrmk:jobs.supermicro.com:1285798400": "2026-11-12",
