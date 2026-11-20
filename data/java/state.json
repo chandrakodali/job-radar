@@ -12009,17 +12009,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 137,
+   "n": 138,
    "since": "2026-11-14"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 137,
+   "n": 138,
    "since": "2026-11-14"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 137,
+   "n": 138,
    "since": "2026-11-14"
   },
   "breezy:connexa": {
@@ -13382,8 +13382,8 @@
    433
   ],
   "2026-11-20": [
-   58,
-   175
+   61,
+   179
   ]
  },
  "resolved": {
@@ -64565,6 +64565,7 @@
   "ashby:clera:82d78c4d-4efa-4a57-bb7f-caef93bdcedd": "2026-11-16",
   "ashby:clera:84bd8767-ce5c-4d77-8be7-a0aa57ec18a9": "2026-11-19",
   "ashby:clera:87e4356d-ecc4-476c-894c-84a62c566ba5": "2026-11-14",
+  "ashby:clera:890ed347-bbe9-4f0b-abd8-72994873a230": "2026-11-20",
   "ashby:clera:8a4702b6-78ec-45a9-8324-0eb530bb49c6": "2026-11-18",
   "ashby:clera:8fd884f0-de98-470a-b562-9a8209073021": "2026-11-19",
   "ashby:clera:95975cd0-c782-4d01-ba97-8b726ea98454": "2026-11-19",
@@ -67135,6 +67136,7 @@
   "icims:careers-gtsx.icims.com:1600": "2026-11-14",
   "icims:careers-gtsx.icims.com:1612": "2026-11-14",
   "icims:careers-healthedge.icims.com:8188": "2026-11-14",
+  "icims:careers-healthedge.icims.com:8465": "2026-11-20",
   "icims:careers-healthedge.icims.com:8677": "2026-11-14",
   "icims:careers-heart.icims.com:18331": "2026-11-14",
   "icims:careers-hexagonpositioning.icims.com:3032": "2026-11-14",
@@ -70528,7 +70530,7 @@
   "remoteok": "2026-11-20T08:17:52+00:00",
   "usajobs": "2026-11-20T08:17:52+00:00",
   "workable_search": "2026-11-20T08:17:52+00:00",
-  "wwr": "2026-11-20T08:17:52+00:00",
+  "wwr": "2026-11-20T09:15:45+00:00",
   "yc": "2026-11-20T08:17:52+00:00"
  },
  "title_rules": "72f554d20a7f",
