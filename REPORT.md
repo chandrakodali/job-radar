@@ -1,12 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**565 jobs**, newest first. Updated Thu Nov 19, 7:07 PM CST from 12,526 company job boards and other sources.
+**565 jobs**, newest first. Updated Thu Nov 19, 7:37 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 227 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,456 matching jobs that job sites and feeds listed this week, 944 (38%) were already found on the employers' own boards; the rest are listed from those sources.
+Coverage check: of 2,460 matching jobs that job sites and feeds listed this week, 946 (38%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 19 (36)](#thursday-nov-19-36) · [Wed 18 (49)](#wednesday-nov-18-49) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (49)](#monday-nov-16-49) · [Sun 15 (14)](#sunday-nov-15-14) · [Sat 14 (321)](#saturday-nov-14-321) · [Fri 13 (62)](#friday-nov-13-62) · [Thu 12 (1)](#thursday-nov-12-1)
 
@@ -615,7 +615,7 @@ Jump to: [Thu 19 (36)](#thursday-nov-19-36) · [Wed 18 (49)](#wednesday-nov-18-4
 |---|---|---|---|---:|---|
 | 11:00 PM | [Geospatial Engineer – Cloud & DevOps](https://careers-dewberry.icims.com/jobs/16686/geospatial-engineer-%e2%80%93-cloud-%26-devops/job) | Dewberry | Fairfax, VA, United States | 60 | no future H-1B sponsorship |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (579)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (581)
 
 <details><summary>Show</summary>
 
@@ -623,6 +623,7 @@ Jump to: [Thu 19 (36)](#thursday-nov-19-36) · [Wed 18 (49)](#wednesday-nov-18-4
 |---|---|---|---|---:|---|
 | date only | [Systems Administrator II](https://sigmadesign.applytojob.com/apply/tWeKPHZxsE/Systems-Administrator-II) | Sigma Design | Burlingame, CA | 25 | rules: 5+ yrs exp; needs: ITAR |
 | date only | [Senior Forward Deployed Engineer, Sr Forward Deployment Engineering](https://www.amazon.jobs/en/jobs/10609070/senior-forward-deployed-engineer-sr-forward-deployment-engineering) | Amazon Web Services, Inc. | New York, New York, USA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| 7:15 PM | [Senior Network Engineer I](https://coreweave.com/careers/job?4730965006&board=coreweave&gh_jid=4730965006) | CoreWeave | Livingston, NJ / New York, NY / San Fra… | 50 | rules: entry-level title; 5+ yrs exp; senior title; priority company;… |
 | 6:51 PM | [Systems Administrator](https://job-boards.greenhouse.io/machindustries/jobs/4516093009) | Mach Industries | Huntington Beach, California, United St… | 45 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; needs: ITAR |
 | 5:45 PM | [Operating Systems Engineer, Linux Kernel / Consumer Devices](https://jobs.ashbyhq.com/openai/f0529a1d-fb6a-4229-a590-8caff1785bb3) | OpenAI | San Francisco | 50 | rules: adjacent title, little DevOps/cloud work in the text |
 | 4:45 PM | [Design for Reliability Engineer](https://jobs.ashbyhq.com/cerebras/2928d88c-d048-4854-9e69-7572113b036c) | Cerebras | Sunnyvale, CA (onsite) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -676,6 +677,7 @@ Jump to: [Thu 19 (36)](#thursday-nov-19-36) · [Wed 18 (49)](#wednesday-nov-18-4
 | date only | [Senior AI and HPC Observability Engineer](https://nvidia.eightfold.ai/careers/job/893393807684) | Nvidia | Santa Clara, CA, US; Seattle, WA, US (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Software Engineer, Core Infrastructure Services - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893396867645) | Nvidia | US; TX,US; US; CA,US (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Software Engineer, SRE and Production Engineering - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893398092323) | Nvidia | Santa Clara, CA, US; TX,US; VA,US; SD,US (remote) | 37 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| date only | [Senior Reliability Engineer](https://nvidia.eightfold.ai/careers/job/893396464343) | Nvidia | Santa Clara, CA, US (onsite) | 23 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 10:44 AM | [Site Reliability Engineer - Platform](https://jobs.ashbyhq.com/e2b/2a86d352-77a2-4b32-9b36-7a0cef76262f) | E2B | San Francisco (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:19 AM | [Senior AI Observability engineer](https://lamresearch.eightfold.ai/careers/job/1099551265329) | Lamresearch | Fremont, CA, US (onsite) | 50 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 9:36 AM | [Network Engineer / Network and Server Support](https://jobs.workable.com/view/i2NTxLUjaGKAkpJGcKhAie/hybrid-network-engineer-%7C-network-and-server-support-in-harrisburg-at-adept-consulting-services%2C-inc.) | Adept Consulting Services, In… | Harrisburg, Pennsylvania (hybrid) | 50 | rules: staffing/consulting firm: verify it's real; adjacent title, li… |
@@ -1019,8 +1021,6 @@ Jump to: [Thu 19 (36)](#thursday-nov-19-36) · [Wed 18 (49)](#wednesday-nov-18-4
 | date only | [Network Engineer 4 ((Cloud Operations Resilience Engineering)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Network-Engineer-4---Cloud-Operations-Resilience-Engineering-_R1005049-1) | Capital One | Plano, TX; McLean, VA; Richmond, VA | 35 | rules: 6+ yrs exp; no future H-1B sponsorship; asks for 6+ years of e… |
 | date only | [Cloud Engineer-Azure - Global Industrial](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-Engineer-Azure---Global-Industrial_R26_0000030913-1) | Genuine Parts Company | Birmingham, AL, USA; Atlanta, GA, USA (hybrid) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Sr Application Security Engineer](https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/United-States---Remote/Sr-Application-Security-Engineer_R134939) | Henry Schein | United States - Remote (remote) | 37 | rules: 5+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
-| date only | [AI Infrastructure Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/AI-Infrastructure-Engineer_R-72268-1) | Kyndryl | Dallas (USDALFRI) Frisco AI HUB (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [OpenShift Platform Engineer](https://mtb.wd5.myworkdayjobs.com/MTB/job/Remote-USA/OpenShift-Platform-Engineer_R91878) | M&T Bank | Remote, USA (remote) | 42 | rules: 6+ yrs exp; asks for 6+ years of experience |
 
 </details>
 

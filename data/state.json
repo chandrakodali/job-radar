@@ -12149,17 +12149,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 310,
+   "n": 311,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 310,
+   "n": 311,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 310,
+   "n": 311,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14941,8 +14941,8 @@
    369
   ],
   "2026-11-20": [
-   25,
-   44
+   27,
+   48
   ]
  },
  "resolved": {
@@ -66755,6 +66755,7 @@
   "eightfold:nvidia:893396402568": "2026-11-15",
   "eightfold:nvidia:893396422329": "2026-11-15",
   "eightfold:nvidia:893396422336": "2026-11-20",
+  "eightfold:nvidia:893396464343": "2026-11-20",
   "eightfold:nvidia:893396867645": "2026-11-19",
   "eightfold:nvidia:893396905948": "2026-11-20",
   "eightfold:nvidia:893397112878": "2026-11-19",
@@ -67037,6 +67038,7 @@
   "greenhouse:coreweave:4727033006": "2026-11-07",
   "greenhouse:coreweave:4728670006": "2026-11-13",
   "greenhouse:coreweave:4730626006": "2026-11-19",
+  "greenhouse:coreweave:4730965006": "2026-11-20",
   "greenhouse:crfamilyofcompanies:8109881003": "2026-11-09",
   "greenhouse:cssmerge:8929426002": "2026-11-07",
   "greenhouse:cssmerge:8936251002": "2026-11-10",
@@ -70373,10 +70375,10 @@
  },
  "source_last": {
   "hn": "2026-11-19T20:37:19+00:00",
-  "remoteok": "2026-11-19T23:37:14+00:00",
+  "remoteok": "2026-11-20T01:37:20+00:00",
   "usajobs": "2026-11-20T01:07:17+00:00",
   "workable_search": "2026-11-20T01:07:17+00:00",
-  "wwr": "2026-11-20T00:37:15+00:00",
+  "wwr": "2026-11-20T01:37:20+00:00",
   "yc": "2026-11-20T01:07:17+00:00"
  },
  "title_rules": "c323075b4d70",
