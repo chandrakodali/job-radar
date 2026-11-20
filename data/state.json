@@ -12152,17 +12152,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 337,
+   "n": 338,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 337,
+   "n": 338,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 337,
+   "n": 338,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -12603,11 +12603,6 @@
    "n": 4,
    "since": "2026-11-09"
   },
-  "icims:careers-bocusa.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-20"
-  },
   "icims:careers-goldbeltapex.icims.com": {
    "disabled_until": "2026-11-23",
    "err": "robots.txt disallows /jobs/search",
@@ -12631,11 +12626,6 @@
    "err": "robots.txt disallows /jobs/search",
    "n": 4,
    "since": "2026-11-09"
-  },
-  "icims:careers-kaukahi.icims.com": {
-   "err": "network error: ConnectionError",
-   "n": 1,
-   "since": "2026-11-20"
   },
   "icims:careers-kimley-horn.icims.com": {
    "disabled_until": "2026-11-23",
@@ -65758,6 +65748,7 @@
   "amazon:us:10609537": "2026-11-19",
   "amazon:us:10609574": "2026-11-19",
   "amazon:us:10610161": "2026-11-20",
+  "amazon:us:10610234": "2026-11-20",
   "apple:usa:200657320": "2026-11-14",
   "apple:usa:200674782": "2026-11-14",
   "apple:usa:200684228": "2026-11-14",
@@ -66683,6 +66674,7 @@
   "dayforce:authority|CANDIDATEPORTAL:7530": "2026-11-15",
   "dayforce:avisystems|CANDIDATEPORTAL:7725": "2026-11-19",
   "dayforce:builders|candidateportal:238014": "2026-11-16",
+  "dayforce:canyoncounty|CANDIDATEPORTAL:956": "2026-11-20",
   "dayforce:cchrpmc|CANDIDATEPORTAL:12751": "2026-11-15",
   "dayforce:ccok|ccok:6578": "2026-11-19",
   "dayforce:cityind|CANDIDATEPORTAL:1976": "2026-11-15",
@@ -67135,6 +67127,7 @@
   "greenhouse:gofasti:6265799004": "2026-11-18",
   "greenhouse:grvty:4482351009": "2026-11-07",
   "greenhouse:grvty:4511359009": "2026-11-17",
+  "greenhouse:grvty:4516696009": "2026-11-20",
   "greenhouse:guidepointsecurity:6251376004": "2026-11-07",
   "greenhouse:guidepointsecurity:6264977004": "2026-11-18",
   "greenhouse:halcyon:6252121004": "2026-11-14",
@@ -68590,6 +68583,7 @@
   "oracle:emdz.fa.us2.oraclecloud.com|CX_1001:6368": "2026-11-14",
   "oracle:emdz.fa.us2.oraclecloud.com|CX_2001:6368": "2026-11-08",
   "oracle:emje.fa.us6.oraclecloud.com|CX_1001:22636": "2026-11-09",
+  "oracle:emje.fa.us6.oraclecloud.com|CX_1001:22874": "2026-11-20",
   "oracle:eney.fa.us2.oraclecloud.com|CX_1001:1895": "2026-11-18",
   "oracle:eoje.fa.us2.oraclecloud.com|CX_1001:7080": "2026-11-19",
   "oracle:eoje.fa.us2.oraclecloud.com|CX_1001:7099": "2026-11-14",
@@ -68934,9 +68928,12 @@
   "sfrmk:careers.capgemini.com:1271620701": "2026-11-09",
   "sfrmk:careers.capgemini.com:1271913901": "2026-11-13",
   "sfrmk:careers.capgemini.com:1273206801": "2026-11-09",
+  "sfrmk:careers.capgemini.com:1273413201": "2026-11-20",
   "sfrmk:careers.capgemini.com:1273988101": "2026-11-11",
+  "sfrmk:careers.capgemini.com:1276300501": "2026-11-20",
   "sfrmk:careers.capgemini.com:1276884201": "2026-11-12",
   "sfrmk:careers.capgemini.com:1278970601": "2026-11-09",
+  "sfrmk:careers.capgemini.com:1282035501": "2026-11-20",
   "sfrmk:careers.capgemini.com:1283967701": "2026-11-09",
   "sfrmk:careers.capgemini.com:1285831001": "2026-11-13",
   "sfrmk:careers.capgemini.com:1286326001": "2026-11-09",
@@ -69498,6 +69495,7 @@
   "smartrecruiters:syncreonconsulting:744000161505843": "2026-11-13",
   "smartrecruiters:syncreonconsulting:744000161858159": "2026-11-16",
   "smartrecruiters:syncreonconsulting:744000162099059": "2026-11-17",
+  "smartrecruiters:syncreonconsulting:744000162750832": "2026-11-20",
   "smartrecruiters:talan:744000161165829": "2026-11-12",
   "smartrecruiters:thewonderfulcompany:744000159249441": "2026-11-07",
   "smartrecruiters:veoliaenvironnementsa:744000160911559": "2026-11-12",
