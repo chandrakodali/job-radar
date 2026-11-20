@@ -12150,17 +12150,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 314,
+   "n": 315,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 314,
+   "n": 315,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 314,
+   "n": 315,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14942,8 +14942,8 @@
    369
   ],
   "2026-11-20": [
-   29,
-   52
+   31,
+   56
   ]
  },
  "resolved": {
@@ -68967,6 +68967,7 @@
   "sfrmk:careers.capgemini.com:1412792933": "2026-11-20",
   "sfrmk:careers.capgemini.com:1413042533": "2026-11-13",
   "sfrmk:careers.capgemini.com:1413265033": "2026-11-13",
+  "sfrmk:careers.capgemini.com:1413266933": "2026-11-20",
   "sfrmk:careers.capgemini.com:1414227133": "2026-11-13",
   "sfrmk:careers.capgemini.com:1414228333": "2026-11-13",
   "sfrmk:careers.capgemini.com:1414880533": "2026-11-13",
@@ -69145,6 +69146,8 @@
   "sfrmk:careers.capgemini.com:1457967033": "2026-11-20",
   "sfrmk:careers.capgemini.com:1458192933": "2026-11-20",
   "sfrmk:careers.capgemini.com:1458391133": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1458410933": "2026-11-20",
+  "sfrmk:careers.capgemini.com:1458779833": "2026-11-20",
   "sfrmk:careers.capgemini.com:1458816333": "2026-11-20",
   "sfrmk:careers.capgemini.com:1459067433": "2026-11-20",
   "sfrmk:careers.chsinc.com:1447299800": "2026-11-09",
@@ -70424,10 +70427,10 @@
  },
  "source_last": {
   "hn": "2026-11-20T02:37:18+00:00",
-  "remoteok": "2026-11-20T01:37:20+00:00",
+  "remoteok": "2026-11-20T03:37:19+00:00",
   "usajobs": "2026-11-20T01:07:17+00:00",
   "workable_search": "2026-11-20T01:07:17+00:00",
-  "wwr": "2026-11-20T02:37:18+00:00",
+  "wwr": "2026-11-20T03:37:19+00:00",
   "yc": "2026-11-20T01:07:17+00:00"
  },
  "title_rules": "c323075b4d70",
