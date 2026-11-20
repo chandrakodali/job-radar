@@ -12151,17 +12151,17 @@
   },
   "bamboohr:junocollege": {
    "err": "invalid JSON",
-   "n": 333,
+   "n": 334,
    "since": "2026-11-11"
   },
   "bamboohr:ycbm": {
    "err": "invalid JSON",
-   "n": 333,
+   "n": 334,
    "since": "2026-11-11"
   },
   "breezy:assets-cdn": {
    "err": "invalid JSON",
-   "n": 333,
+   "n": 334,
    "since": "2026-11-11"
   },
   "breezy:connexa": {
@@ -14943,8 +14943,8 @@
    369
   ],
   "2026-11-20": [
-   119,
-   215
+   140,
+   254
   ]
  },
  "resolved": {
@@ -67795,6 +67795,7 @@
   "icims:careers-steampunk.icims.com:8389": "2026-11-12",
   "icims:careers-steampunk.icims.com:8485": "2026-11-16",
   "icims:careers-steampunk.icims.com:8815": "2026-11-19",
+  "icims:careers-steampunk.icims.com:8948": "2026-11-20",
   "icims:careers-steeldynamics.icims.com:8343": "2026-11-09",
   "icims:careers-stifel.icims.com:8624": "2026-11-12",
   "icims:careers-stifel.icims.com:9745": "2026-11-15",
@@ -70452,10 +70453,10 @@
  "source_last": {
   "hn": "2026-11-20T08:37:15+00:00",
   "remoteok": "2026-11-20T11:37:22+00:00",
-  "usajobs": "2026-11-20T10:07:14+00:00",
-  "workable_search": "2026-11-20T10:07:14+00:00",
+  "usajobs": "2026-11-20T13:07:14+00:00",
+  "workable_search": "2026-11-20T13:07:14+00:00",
   "wwr": "2026-11-20T12:37:13+00:00",
-  "yc": "2026-11-20T10:07:14+00:00"
+  "yc": "2026-11-20T13:07:14+00:00"
  },
  "title_rules": "c323075b4d70",
  "version": 1
