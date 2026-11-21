@@ -6,74 +6,76 @@ Related tags include #resume and #portfolio as resources to enhance your #career
 Older #career posts
 … 75
 … 100
-Your ¥7 Million Offer Is Not ¥7 Million: Reading a Japanese Salary Before You Sign
-Ky Shepard
+Will AI Replace Product Managers? What the 2026 Evidence Says
+Fathy Shalaby
 Nov 21
-# career
-# japan
-# money
-# programming
-Add Comment
-6 min read
-Short Stints & Contract Hops: Framing a Choppy Timeline
-Muhammad Ali Mughal
-# resume
-# jobs
-7 min read
-Is AI a bubble? Yes and no, and the difference matters to you
-Saifuddin Ahmed
-# discuss
 # ai
-# startup
-3 min read
-70 Points to Permanent Residency: How Japan's Highly Skilled Points System Actually Works
-# immigration
-I built a free interview study coach that plans around your interview date
-Jeremyah Flowers
-# showdev
-# webdev
-# javascript
-1 min read
-The 10-Step Self-Audit to Run Before You Apply for Permanent Residency in Japan
-# visa
-5 min read
-From India to Japan: How an Indian Software Engineer Can Land an IT Job in Japan (and Permanent Residency in 1–3 Years)
-System Design Questions in EM Interviews Are Not About Systems
-RainbowRoadPrep
-# engineeringmanager
-# interview
-# management
-Humanity Protocol lost $36M because a multisig quorum was on a laptop
-qanzhi111
-# web3
-# security
-# blockchain
-4 min read
-Data Analyst Resume: How ATS Reads SQL, Python and BI
+# productmanagement
+# career
+# willaireplaceproductmanagers
+Add Comment
+10 min read
+How long do job postings really stay open? What 32,000 closed listings showed
+Hypestkey
+# jobsearch
 # datascience
-# beginners
-WARN Act and Your Voluntary Benefits — What Happens to the Extra Coverage You Pay For After a Layoff Notice
-Layoff Atlas
-# news
-# data
-# law
-How to pull every open job at a company from Greenhouse, Lever, Ashby and Workable (no scraping)
-Kleb Data
-Nov 20
-# api
-# automation
+# hiring
+1 comment
 2 min read
-Cómo saber qué proceso de tu pyme conviene automatizar primero (señales reales, sin humo)
-Francisco Perez
-# espanol
+Weak ties and your job search: what LinkedIn's 20-million-person experiment found
+Bhavishya Singla
+# networking
+# jobs
+# research
+7 min read
+English isn't your first language and you code on a Mac? 8 tools that make writing at work easier (2026)
+E Daugherty
+# macos
 # productivity
-WARN Act and Your Commuter Benefits — What Happens to Transit and Parking After a Layoff Notice
-Before we had users, we wrote the CVs ourselves
-Jagriti
-# testing
-# machinelearning
+# writing
+4 min read
+Prioritization Frameworks Are Performance Art. Started Building What People Scream For
+Salem Evbogbai
+# leadership
+3 min read
+Speed Is a Feature (And You are Shipping Too Slowly)
+What the CTO job actually is on a freight network
+Pratyush Shivam
+# blockchain
+# distributedsystems
+Swapping 500+ Live Cell Sites Without Customers Noticing: Lessons from a Vendor Swap
+Pathum Dilshan
+# telecom
+# projectmanagement
+Onboarding a Developer to a Client Project So They Ship in Week One
+Ashkan Rajaee
+# softwaredevelopment
+# remote
+5 min read
+Pourquoi j'ai créé NotGhosty : Démasquer le « Farming » d'IA et le siphonnage de CV
+notghosty
+# french
+# privacy
+# webdev
+Your summary isn’t about you, it’s about the job
+Sarah Mitchell
+# resume
+A Hidden Line in a Resume Tricked an AI Hiring Bot Into Ranking It #1
+Bug Bounty & Beyond
+# security
+# tutorial
+Oct 20. Launch day, and the day I built Mono
+Abdul Wasay Lodhi
+# showdev
+# buildinpublic
+22 pull requests to open-source projects in a month: what got merged, what didn't, and why
+John Alexander Kamau
+# opensource
+# github
+# rust
+6 min read
+From Drive Tests to Data Pipelines: Why I Went from RF Engineer to Data & AI
 1 reaction
-9 min read
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Remembering Steven Schrembeck
 Frontend Isn't Dead. But the Job Title Is Changing
@@ -88,18 +90,18 @@ Google's New SDLC Whitepaper: From Vibe Coding to Agentic Engineering
 Salesforce SMTS Interview Experience (Offer Accepted)
 Are we software engineers doomed? Yes, because of AI!
 A Simple Guide to Passing the Claude Certified Developer Exam
+Want to make DEV your full-time job? We're hiring a Community Manager!
 AI Reduced the Cost of Coding. Did It Increase the Cost of Thinking?
 My AI-assisted coding interview was a lesson in reading unfamiliar code
 What an Anthropic hiring manager stopped asking candidates to do
 The Software Entropy in the AI Era
 Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
-Want to make DEV your full-time job? We're hiring a Community Manager!
 The Ever Changing Profession of Software Engineering
-DuckLake 1.0 and Iceberg 1.11: What a Data Engineer Should Know
 No Human Will Ever Write Code Better Than LLMs? Better at What?
+Emotional Deadlocks: When Two People Wait for Each Other to Change First
+DevOps / SRE Interview Master Guide
 Company career page scraper: every open job from any company, by name or domain
 TopAccess: Freelancer Review
-Emotional Deadlocks: When Two People Wait for Each Other to Change First
 We're a place where coders share, stay up-to-date and grow their careers.
 Log in
 Create account

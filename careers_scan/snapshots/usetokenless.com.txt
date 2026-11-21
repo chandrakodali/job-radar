@@ -6,6 +6,7 @@ Benchmarking Models on FTL: Faster Than Light
 How well do models supervise dynamic environments?
 Nov 17, 2026
 Eval³ 1.1
+Improving our eval-auditing benchmark
 Oct 28, 2026
 How good are models at benchmark auditing?
 Introducing Eval³

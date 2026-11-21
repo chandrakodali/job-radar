@@ -41,12 +41,12 @@ Security-One-27B
 security-one-27b scores security events and returns probabilities your application can use to route decisions.
 Superagent connects with your integrations — the tools, coding agents, and delivery workflows you already run.
 changelog
-2026-11-19 (HEAD -> main) image scanning for aws and gcp
+2026-11-21 (HEAD -> main) wildcard tags for image validation
+Track deployment tags with wildcards and follow the newest matching image versions in Amazon ECR and Google Artifact Registry.
+2026-11-19 image scanning for aws and gcp
 Connect Amazon ECR and Google Artifact Registry, investigate container vulnerabilities, and verify replacement images with exploit evidence.
 2026-11-11 security graph
 Explore connected security findings in the dashboard and give agents shared memory of evidence, comments, and review decisions through MCP.
-2026-11-03 import application inventory from cloudflare
-Import domains and subdomains from Cloudflare DNS, keep inventory in sync, and review hosts for red teaming.
 full changelog →
 customer quotes
 “ When it comes to PRs or agents running in production, we are confident that Superagent is there to protect us all the way. ”
