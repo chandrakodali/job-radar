@@ -1,12 +1,20 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**544 jobs**, newest first. Updated Sat Nov 21, 12:19 AM CST from 12,571 company job boards and other sources.
+**545 jobs**, newest first. Updated Sat Nov 21, 12:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 295 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (319)](#saturday-nov-14-319)
+Coverage check: of 2,733 matching jobs that job sites and feeds listed this week, 1,151 (42%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (319)](#saturday-nov-14-319)
+
+## Saturday, Nov 21 (1)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| date only | [Site Reliability Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029632EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 70 | 2+ yrs exp |
 
 ## Friday, Nov 20 (45)
 
@@ -587,12 +595,13 @@ Jump to: [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) 
 | date only | [Sr. DevOps Engineer - Trading & Supply](https://indigobeam.zohorecruit.com/jobs/Careers/792375000009305132/Sr-DevOps-Engineer-Trading-Supply) | Indigobeam | Houston, Texas, United States | 48 | senior title, years not stated |
 | 7:47 AM | [Systems Software Developer, CAD Infrastructure](https://jobs.apple.com/en-us/details/200694942/systems-software-developer-cad-infrastructure) | Apple | United States of America | 65 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (636)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (637)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Network Systems Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029624EXTERNALENGLOBAL) | Cisco | Rancho Cordova, California, United Stat… | 25 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:04 PM | [Embedded Linux Platform Engineer](https://jobs.ashbyhq.com/Elveo/c322ee1d-81e1-4931-b4f0-62491cda358e) | Elveo | Chantilly, VA (onsite) | 70 | rules: needs: ITAR |
 | 7:53 PM | [Distributed Systems Engineer - Network Services](https://boards.greenhouse.io/cloudflare/jobs/8401112?gh_jid=8401112) | Cloudflare | Hybrid (hybrid) | 55 | rules: location unclear; no future H-1B sponsorship; priority company… |
 | 6:57 PM | [Senior Backend Cloud Engineer](https://job-boards.greenhouse.io/halcyon/jobs/6268221004) | Halcyon | Austin, TX | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
@@ -992,7 +1001,6 @@ Jump to: [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) 
 | 12:41 AM | [Senior Site Reliability Engineer](https://jobs.lever.co/jobgether/5cedc112-aefe-4167-8649-8347b8c7b0a9) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:26 AM | [Cloud Developer - CLEARED](https://jobs.lever.co/jobgether/85879f6c-bafc-4c8b-8d60-3a0d5c20be01) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; needs: security clearance |
 | 12:07 AM (seen) | [Systems Reliability Engineer II (Pune)](https://jobs.jobvite.com/nutanix/job/ohIWAfwf) | Nutanix |  | 20 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
-| 12:00 AM | [Senior Cloud Engineer (Azure/Terraform)](https://jobs.dayforcehcm.com/en-US/builders/candidateportal/jobs/238014) | Builders | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 
 </details>
 
