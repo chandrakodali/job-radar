@@ -1,6 +1,6 @@
 # Wide sweep summary
 
-Updated 2026-11-20.
+Updated 2026-11-21.
 
 Crawls swept: CC-MAIN-2026-39, CC-MAIN-2026-43.
 
@@ -8,41 +8,41 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 
 ## By tier
 
-- 1: 23656
-- 2: 107904
-- 3: 302283
-- 4: 94408
-- 5: 32312
-- 9: 94731
+- 1: 23575
+- 2: 107993
+- 3: 302497
+- 4: 94461
+- 5: 32325
+- 9: 94443
 
 ## By category
 
-- unknown: 94731
-- ats: 44119
+- unknown: 94443
+- ats: 44160
 - blocked: 2793
-- careers_page_unclear: 281123
-- doc: 1304
-- email: 54283
-- external_board: 7261
-- form: 75973
-- js_only: 460
-- no_careers_page: 43028
-- no_openings: 21160
-- robots_disallowed: 8316
-- unreachable: 20743
+- careers_page_unclear: 281320
+- doc: 1305
+- email: 54299
+- external_board: 7269
+- form: 75964
+- js_only: 461
+- no_careers_page: 43032
+- no_openings: 21177
+- robots_disallowed: 8323
+- unreachable: 20748
 
 ## By us
 
-- unknown: 94731
-- non_us: 37048
-- unknown: 290673
-- us: 232842
+- unknown: 94443
+- non_us: 37067
+- unknown: 290770
+- us: 233014
 
 ## By via
 
-- unknown: 94731
-- archive: 43401
-- live: 517162
+- unknown: 94443
+- archive: 43445
+- live: 517406
 
 ## Tier 1 sites
 
@@ -84,7 +84,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - & Opportunities in Germany (holzerscientific.com)
 - & Other Opportunities (teachpsych.org)
 - & Recruitment Opportunities (elmex.net)
-- & Shape Tamil Learning (playwithtamil.com)
 - & Technical Education (columbiak12.com)
 - & Technical Education (stmaryk12.net)
 - & Trades Resources (acementorla.org)
@@ -122,15 +121,12 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 10Fold (10fold.com)
 - 10Pie (10pie.com)
 - 10th Judicial Circuit Court (flcourts.org)
-- 10X ERP (10xerp.com)
 - 10xDS (10xds.com)
-- 10xEngineers (10xengineerstech.com)
 - 10zyme (10zyme.com)
 - 11woods (11woods.com)
 - 123AceTheTest (123acethetest.com)
 - 12nets Inc (12nets.com)
 - 14K Business Solutions (14kbsol.com)
-- 151 Kitchen / Bar (151elmhurst.com)
 - 16th Street Baptist Church (16thstreetbaptist.org)
 - 1702Digital (1702digital.com)
 - 1800Esupply (1800esupply.com)
@@ -246,3 +242,7 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 4GL Solutions (4glsol.com)
 - 4K Visuals (4kvfx.com)
 - 4Leet (4leet.xyz)
+- 4Leet - Managed IT Services (4leet.com)
+- 4Les Subsea (4lessubsea.com)
+- 4M Career (4mcareer.com)
+- 4M INDUSTRIES INC. (4mindustries.com)
