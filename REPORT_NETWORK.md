@@ -1,12 +1,14 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**109 jobs**, newest first. Updated Fri Nov 20, 4:58 PM CST from 12,571 company job boards and other sources.
+**108 jobs**, newest first. Updated Fri Nov 20, 5:56 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 66 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 20 (66)](#friday-nov-20-66) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (8)](#wednesday-nov-18-8) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (10)](#monday-nov-16-10) · [Sun 15 (1)](#sunday-nov-15-1) · [Fri 13 (1)](#friday-nov-13-1)
+Coverage check: of 58 matching jobs that job sites and feeds listed this week, 26 (44%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 20 (66)](#friday-nov-20-66) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (8)](#wednesday-nov-18-8) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (10)](#monday-nov-16-10) · [Sun 15 (1)](#sunday-nov-15-1)
 
 ## Friday, Nov 20 (66)
 
@@ -146,18 +148,13 @@ Jump to: [Fri 20 (66)](#friday-nov-20-66) · [Thu 19 (13)](#thursday-nov-19-13) 
 |---|---|---|---|---:|---|
 | 11:00 PM | [Network Analyst I/II-NOC](https://jobs.dayforcehcm.com/en-US/uniti/CANDIDATEPORTAL/jobs/35584) | Uniti | AR, US; US | 58 | entry-level title; 4+ yrs exp |
 
-## Friday, Nov 13 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 5:12 PM | [Data Center & Linux Systems Engineer](https://jobs.gem.com/ocient-inc-/am9icG9zdDrWlfsujLjzR1YGlutvpkiF) | Ocient Inc | Chicago, IL (remote) | 40 | 2+ yrs exp; no future H-1B sponsorship; network work in the text |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (201)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (202)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:05 PM | [Senior Network Engineer - PCLOB](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684078) | 33704Aa8 8475 45E8 B8A8 55E4D… | DC, USA | 45 | rules: 7+ yrs exp; senior title; needs: security clearance |
 | date only | [Systems Administrator II](https://sigmadesign.applytojob.com/apply/tWeKPHZxsE/Systems-Administrator-II) | Sigma Design | Burlingame, CA | 25 | rules: 5+ yrs exp; network work in the text; needs: ITAR |
 | date only | [Network Deployment Engineer, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10610384/network-deployment-engineer-amazon-dedicated-cloud-nidd) | Amazon Data Services, Inc. | Broomfield, Colorado, USA | 75 | rules: 1+ yrs exp; needs: security clearance |
 | date only | [Network Engineer](https://morristechnology.bamboohr.com/careers/443) | Morristechnology | Springfield, Illinois | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
