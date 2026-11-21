@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**537 jobs**, newest first. Updated Sat Nov 21, 11:37 AM CST from 12,526 company job boards and other sources.
+**537 jobs**, newest first. Updated Sat Nov 21, 11:49 AM CST from 12,571 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 294 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 2,939 matching jobs that job sites and feeds listed this week, 1,251 (42%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (310)](#saturday-nov-14-310)
 
@@ -587,7 +585,7 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) ·
 | 2:37 PM (seen) | [Software Engineer - Terraform Foundations](https://careers.ibm.com/careers/JobDetail?jobId=138604) | IBM | Multiple Cities (hybrid) | 50 |  |
 | 2:37 PM (seen) | [Entry Level Cloud Developer - Network Services](https://careers.ibm.com/careers/JobDetail?jobId=139663) | IBM | Austin, United States (hybrid) | 60 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (637)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (626)
 
 <details><summary>Show</summary>
 
