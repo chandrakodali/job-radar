@@ -1,12 +1,10 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**521 jobs**, newest first. Updated Sat Nov 21, 8:24 AM CST from 12,526 company job boards and other sources.
+**521 jobs**, newest first. Updated Sat Nov 21, 8:44 AM CST from 12,571 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 253 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 4,933 matching jobs that job sites and feeds listed this week, 975 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21) · [Sat 14 (138)](#saturday-nov-14-138)
 
@@ -571,7 +569,7 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | date only | [Deep Learning Framework Communications Engineer - New College Grad 20…](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | NVIDIA | US, CA, Santa Clara +1 more | 68 | entry-level title |
 | date only | [IT Technician I (Nonprofit)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a4c4f625-6064-43a4-938d-3ecf41c6dff6&ccId=19000101_000001&jobId=9201494465185_99&lang=en_US) | A4C4F625 6064 43A4 938D 3Ecf4… | Bellevue, WA | 63 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2345)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2343)
 
 <details><summary>Show</summary>
 
@@ -899,7 +897,6 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 12:00 AM | [Systems Analyst](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428941) | Eohh Fa Us2 Oraclecloud Com | TX, United States | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 11:44 PM | [Systems Administrator - NetSuite](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=53abd855-df3a-4397-96fc-7f8c12a795de&ccId=19000101_000001&jobId=9201451166340_1&lang=en_US) | 53Abd855 Df3A 4397 96Fc 7F8C1… | Nashville, TN | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:06 PM | [Full Stack Developer](https://jobs.lever.co/jobgether/c2dc5af1-6f3f-47ec-8a7d-4af4a51cebdb) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; asks for 7+ years of experience |
-| 11:00 PM | [Mulesoft Developer](https://careers-steampunk.icims.com/jobs/8980/mulesoft-developer/job) | Steampunk | McLean, VA, United States | 50 | rules: 8+ yrs exp; E-Verify; needs: security clearance |
 | 11:00 PM | [DevSecOps Engineer](https://careers-steampunk.icims.com/jobs/8948/devsecops-engineer/job) | Steampunk | McLean, VA, United States | 50 | rules: 8+ yrs exp; E-Verify; needs: security clearance |
 | 11:00 PM | [Salesforce Functional Analyst (CRMA)](https://careers-steampunk.icims.com/jobs/8947/salesforce-functional-analyst-%28crma%29/job) | Steampunk | McLean, VA, United States | 65 | rules: 4+ yrs exp; E-Verify; needs: security clearance |
 | 11:00 PM | [Salesforce Application Developer](https://careers-steampunk.icims.com/jobs/8915/salesforce-application-developer/job) | Steampunk | McLean, VA, United States | 65 | rules: 4+ yrs exp; E-Verify; needs: security clearance |
@@ -907,6 +904,7 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 11:00 PM | [Quality Assurance Specialist  - Chicago](https://jobs.dayforcehcm.com/en-US/ipg/ipg/jobs/7433) | Ipg | Chicago, IL, US | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 11:00 PM | [Business Systems Technician](https://jobs.dayforcehcm.com/en-US/uniti/CANDIDATEPORTAL/jobs/35742) | Uniti | Kittanning, PA, US | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 11:00 PM | [Full Stack Developer (Drupal)](https://careers-steampunk.icims.com/jobs/9014/full-stack-developer-%28drupal%29/job) | Steampunk | McLean, VA, United States | 50 | rules: 5+ yrs exp; E-Verify; needs: Public Trust Clearance |
+| 11:00 PM | [Mulesoft Developer](https://careers-steampunk.icims.com/jobs/8980/mulesoft-developer/job) | Steampunk | McLean, VA, United States | 50 | rules: 8+ yrs exp; E-Verify; needs: security clearance |
 | 11:00 PM | [IT Network Administrator](https://jobs.dayforcehcm.com/en-US/kmtire/KMTIRE/jobs/1298) | Kmtire | Delphos, OH, US | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Systems Integration & Lab Infrastructure Engineer](https://careers-peopletec.icims.com/jobs/5551/systems-integration-%26-lab-infrastructure-engineer/job) | PeopleTec | Huntsville, AL, United States | 50 | rules: 8+ yrs exp; E-Verify; needs: security clearance |
 | 11:00 PM | [Systems Analyst](https://everwatch-everwatchsolutions.icims.com/jobs/3867/systems-analyst/job) | Everwatch | Aurora, CO, United States | 60 | rules: 3+ yrs exp; needs: TS/SCI clearance |
