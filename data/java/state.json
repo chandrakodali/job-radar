@@ -24550,7 +24550,7 @@
   "workday:@avnet|wd1|External": "2026-11-20T17:30+00:00",
   "workday:@brevanhoward|wd3|BH_ExternalCareers": "2026-11-20T17:30+00:00",
   "workday:@carislifesciences|wd12|CLS": "2026-11-20T17:30+00:00",
-  "workday:aaaie|wd1|csaacareers": "2026-11-20T23:01+00:00",
+  "workday:aaaie|wd1|csaacareers": "2026-11-21T00:01+00:00",
   "workday:abb|wd3|external_career_page": "2026-11-20T19:43+00:00",
   "workday:abglobal|wd1|abcampuscareers": "2026-11-20T17:30+00:00",
   "workday:abglobal|wd1|alliancebernsteincareers": "2026-11-20T17:30+00:00",
@@ -24762,7 +24762,7 @@
   },
   "chronosphere": {
    "ats": null,
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   "circleci": {
    "ats": "greenhouse",
@@ -24774,7 +24774,7 @@
   },
   "confluent": {
    "ats": null,
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   "coreweave": {
    "ats": "greenhouse",
@@ -24790,7 +24790,7 @@
   },
   "dbtlabsinc": {
    "ats": null,
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   "digitalocean98": {
    "ats": "greenhouse",
@@ -24826,7 +24826,7 @@
   },
   "flyio": {
    "ats": null,
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   "gitlab": {
    "ats": "greenhouse",
@@ -24834,7 +24834,7 @@
   },
   "grammarly": {
    "ats": null,
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   "gusto": {
    "ats": "greenhouse",
@@ -24842,7 +24842,7 @@
   },
   "harness": {
    "ats": null,
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   "harnessinc": {
    "ats": "greenhouse",
@@ -24854,7 +24854,7 @@
   },
   "hubspot": {
    "ats": null,
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   "instacart": {
    "ats": "greenhouse",
@@ -24914,11 +24914,11 @@
   },
   "retool": {
    "ats": null,
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   "rippling": {
    "ats": null,
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   "samsara": {
    "ats": "greenhouse",
@@ -24926,11 +24926,11 @@
   },
   "soloio": {
    "ats": null,
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   "sourcegraph": {
    "ats": null,
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   "sourcegraph91": {
    "ats": "greenhouse",
@@ -24962,11 +24962,11 @@
   },
   "teleport": {
    "ats": null,
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   "temporaltechnologies": {
    "ats": null,
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   "toast": {
    "ats": "greenhouse",
