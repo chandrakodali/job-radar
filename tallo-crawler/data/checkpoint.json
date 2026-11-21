@@ -18,18 +18,6 @@
   "core_remaining": 0,
   "pending": [
     {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ms/d-iberville",
-      "label": "D'Iberville",
-      "count": 1,
-      "deferred_once": true
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ms/forest",
-      "label": "Forest",
-      "count": 1,
-      "deferred_once": true
-    },
-    {
       "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ms/tupelo",
       "label": "Tupelo",
       "count": 1,
