@@ -1,17 +1,22 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**108 jobs**, newest first. Updated Fri Nov 20, 7:09 PM CST from 12,571 company job boards and other sources.
+**111 jobs**, newest first. Updated Fri Nov 20, 8:00 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
-66 repeat listings (same company and title in another place or on another source) are merged into one row.
+67 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 20 (66)](#friday-nov-20-66) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (8)](#wednesday-nov-18-8) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (10)](#monday-nov-16-10) · [Sun 15 (1)](#sunday-nov-15-1)
+Coverage check: of 77 matching jobs that job sites and feeds listed this week, 35 (45%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Friday, Nov 20 (66)
+Jump to: [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (8)](#wednesday-nov-18-8) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (10)](#monday-nov-16-10) · [Sun 15 (1)](#sunday-nov-15-1)
+
+## Friday, Nov 20 (69)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 7:57 PM | [Systems Engineer - Network Software Performance](https://boards.greenhouse.io/cloudflare/jobs/8401122?gh_jid=8401122) | Cloudflare | Hybrid (hybrid) | 55 | location unclear; no future H-1B sponsorship; priority company; netwo… |
+| 7:54 PM | [Senior Systems Engineer, Network Services](https://boards.greenhouse.io/cloudflare/jobs/8401108?gh_jid=8401108) | Cloudflare | Hybrid (hybrid) | 45 | senior title, years not stated; location unclear; no future H-1B spon… |
+| 7:53 PM | [Distributed Systems Engineer - Network Services](https://boards.greenhouse.io/cloudflare/jobs/8401112?gh_jid=8401112) | Cloudflare | Hybrid (hybrid) | 55 | location unclear; no future H-1B sponsorship; priority company; netwo… |
 | 4:08 PM | [IT Network Administrator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681685) | Little Creek Casino Resort | Shelton, WA, United States | 75 | 2+ yrs exp |
 | 12:33 PM (seen) | [IT Engineer (Denver)](https://app.dover.com/apply/fieldguide/f9f76425-e4ff-4560-afcc-e276cdfe4958) | Fieldguide | Denver, CO (hybrid) | 50 | 1+ yrs exp; network work in the text |
 | 12:33 PM (seen) | [Infrastructure Engineer – Data Center (Dallas, TX · Onsite)](https://app.dover.com/apply/itmates/9ea8ebdd-ae42-475d-a750-815bbb069ce4) | Itmates | Dallas, TX (onsite) | 30 | 4+ yrs exp; no future H-1B sponsorship; network work in the text |
