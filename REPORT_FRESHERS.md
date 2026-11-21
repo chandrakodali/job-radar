@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**520 jobs**, newest first. Updated Fri Nov 20, 9:44 PM CST from 12,571 company job boards and other sources.
+**519 jobs**, newest first. Updated Fri Nov 20, 10:49 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 253 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (81)](#friday-nov-20-81) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (1)](#friday-nov-13-1)
+Coverage check: of 4,727 matching jobs that job sites and feeds listed this week, 927 (19%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (81)](#friday-nov-20-81) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141)
 
 ## Saturday, Nov 21 (2)
 
@@ -567,13 +569,7 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (81)](#friday-nov-20-81) ·
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Town Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825084) | Macy's | Kennesaw, GA, United States | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Serramonte](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825080) | Macy's | Daly City, CA, United States | 75 | entry-level title |
 
-## Friday, Nov 13 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 10:09 PM | [Gallery Housekeeping Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/42206) | RH | Charlotte, NC, United States | 75 | entry-level title |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2341)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2342)
 
 <details><summary>Show</summary>
 
@@ -887,6 +883,7 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (81)](#friday-nov-20-81) ·
 | 2:25 AM | [Salesforce QA Analyst](https://jobs.lever.co/jobgether/daea97a5-a793-414f-8135-2d09ade5c164) | Jobgether | US (remote) | 42 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 2:00 AM | [Temporary IT Support Specialist](https://jobs.dayforcehcm.com/en-US/legence/IMDPORTAL/jobs/35633) | Legence | Windsor, CO, US | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 2:00 AM | [Business Analyst - Nucor Towers & Structures](https://jobs.nucor.com/job/West_Hazleton-Business-Analyst-Nucor-Towers-&-Structures-PA-18202/1302044400/) | Nucor | West_Hazleton, PA, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 1:00 AM | [ERP Solutions Engineer](https://jobs.dayforcehcm.com/en-US/cpc/CANDIDATEPORTAL/jobs/3343) | Cpc | Marathon City, WI, US +3 more | 45 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 12:32 AM | [SATCOM Terminal Systems Engineer](https://jobs.lever.co/jobgether/ccd484ca-457b-4675-946c-7bfbf960350c) | Jobgether | US (remote) | 42 | rules: 8+ yrs exp; needs: Security Clearance |
 | 12:23 AM | [Cybersecurity Engineer](https://jobs.lever.co/jobgether/b48534d4-a073-4a7f-ae4a-52548c681c87) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; needs: security clearance |
 | 12:00 AM | [Business Systems Analyst I](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428976) | Eohh Fa Us2 Oraclecloud Com | Austin, TX, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
@@ -978,6 +975,5 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (81)](#friday-nov-20-81) ·
 | 3:15 PM | [Data Engineer](https://job-boards.greenhouse.io/acuitymd/jobs/6266794004) | AcuityMD | Boston or Remote +1 more (remote) | 67 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
 | 3:12 PM | [Utility Infrastructure Telecom Design QC Engineer / Specialist](https://jobs.smartrecruiters.com/AECOM2/744000162605299-utility-infrastructure-telecom-design-qc-engineer-specialist) | AECOM | Kansas City, MO, United States (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 3:09 PM | [Data Scientist](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5489923008) | AffirmedRx | Remote (remote) | 67 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
-| 3:00 PM | [PM Power Systems Field Technician](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4064731) | Riggs Cat | Little Rock, AR, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 
 </details>
