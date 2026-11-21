@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**521 jobs**, newest first. Updated Sat Nov 21, 8:44 AM CST from 12,571 company job boards and other sources.
+**521 jobs**, newest first. Updated Sat Nov 21, 9:19 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 253 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,946 matching jobs that job sites and feeds listed this week, 978 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21) · [Sat 14 (138)](#saturday-nov-14-138)
 
@@ -569,7 +571,7 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | date only | [Deep Learning Framework Communications Engineer - New College Grad 20…](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1) | NVIDIA | US, CA, Santa Clara +1 more | 68 | entry-level title |
 | date only | [IT Technician I (Nonprofit)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a4c4f625-6064-43a4-938d-3ecf41c6dff6&ccId=19000101_000001&jobId=9201494465185_99&lang=en_US) | A4C4F625 6064 43A4 938D 3Ecf4… | Bellevue, WA | 63 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2343)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2344)
 
 <details><summary>Show</summary>
 
@@ -580,6 +582,7 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | date only | [Software Dev Engineer in Test , Amazon Leo Payload](https://www.amazon.jobs/en/jobs/10610933/software-dev-engineer-in-test-amazon-leo-payload) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 75 | rules: 1+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Site Reliability Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029632EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Network Systems Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029624EXTERNALENGLOBAL) | Cisco | Rancho Cordova, California, United Stat… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| date only | [Security Renewals Specialist](https://careers.cisco.com/global/en/job/CISCISGLOBAL2028430EXTERNALENGLOBAL) | Cisco | San Jose, California, United States of … | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:22 AM | [SECURITY ANALYST](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017021806-security-analyst) | Cityofnewyork | Brooklyn, NY, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 12:30 AM | [Software Engineer](https://jobs.gem.com/fabrichealth/am9icG9zdDrQV514eBfexJ9Sn7uGEXAg) | Fabrichealth | United States (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 12:12 AM | [Data Analyst](https://jobs.gem.com/fabrichealth/am9icG9zdDrd5YHGxqQzLLugsbgH_ODI) | Fabrichealth | United States (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -974,6 +977,5 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 3:22 PM | [Department Administrator, Software Engineering](https://job-boards.greenhouse.io/openeye/jobs/8952351002) | OpenEye | Liberty Lake, Washington | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 3:20 PM | [Security Installation Technician](https://job-boards.greenhouse.io/unlimitedtechnology/jobs/5489988008) | Unlimited Technology | Herndon, VA | 60 | rules: 3+ yrs exp; needs: Security Clearance |
 | 3:19 PM | [Security Technician](https://job-boards.greenhouse.io/unlimitedtechnology/jobs/5489984008) | Unlimited Technology | Rochester, NY | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 3:18 PM | [Security Service Technician](https://job-boards.greenhouse.io/unlimitedtechnology/jobs/5489978008) | Unlimited Technology | Long Beach | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
