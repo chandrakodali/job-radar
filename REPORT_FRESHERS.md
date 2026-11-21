@@ -1,17 +1,20 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**393 jobs**, newest first. Updated Sat Nov 21, 4:06 PM CST from 12,571 company job boards and other sources.
+**391 jobs**, newest first. Updated Sat Nov 21, 4:54 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-157 repeat listings (same company and title in another place or on another source) are merged into one row.
+158 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21) · [Sat 14 (10)](#saturday-nov-14-10)
+Coverage check: of 5,084 matching jobs that job sites and feeds listed this week, 1,008 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Saturday, Nov 21 (9)
+Jump to: [Sat 21 (10)](#saturday-nov-21-10) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21) · [Sat 14 (8)](#saturday-nov-14-8)
+
+## Saturday, Nov 21 (10)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 4:07 PM | [Test Center Administrator - Las Vegas (South), NV](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26316) | Pearson | Las Vegas, NV, United States +10 more (onsite) | 80 | 1+ yrs exp |
 | date only | [IT Support Specialist I (Horseshoe) - Las Vegas](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92196) | Caesars Entertainment | Las Vegas, NV, United States (onsite) | 90 | entry-level title; 1+ yrs exp |
 | date only | [FBS (Mexico) - MarTech Quality Assurance Specialist](https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-MarTech-Quality-Assurance-Specialist/1378095457/) | Farmers Insurance |  | 70 | 1+ yrs exp; no future H-1B sponsorship |
 | 5:29 AM | [Administrative Support Associate](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017021926-administrative-support-associate) | Cityofnewyork | New York City, NY, United States | 75 | entry-level title |
@@ -22,7 +25,7 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 3:26 AM | [Vendor Stock Support Associate, Bellevue Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826998) | Macy's | Bellevue, WA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chandler Fashio…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826986) | Macy's | Chandler, AZ, United States | 75 | entry-level title |
 
-## Friday, Nov 20 (80)
+## Friday, Nov 20 (79)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -103,7 +106,6 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, South Coast Pla…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826737) | Macy's | Costa Mesa, CA, United States | 75 | entry-level title |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Empire](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826708) | Macy's | Sioux Falls, SD, United States | 75 | entry-level title |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Fresno Fashion …](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826705) | Macy's | Fresno, CA, United States | 75 | entry-level title |
-| 3:03 AM | [Test Center Administrator (Memphis, TN)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26733) | Pearson | Memphis, TN, United States +9 more (onsite) | 80 | 1+ yrs exp |
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
@@ -426,7 +428,7 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Bay Plaza](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825513) | Macy's | Bronx, NY, United States | 75 | entry-level title |
 | 3:27 AM | [Administrative Support Team Associate, Glendale Galleria - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825453) | Macy's | Glendale, CA, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Saturday, Nov 14 (10)
+## Saturday, Nov 14 (8)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -438,10 +440,8 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 6:18 PM (seen) | [Software Developer I](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Software-Developer-I/5545) | Total Quality Logistics |  | 55 | entry-level title; location unclear |
 | 5:28 PM | [Seasonal Fulfillment and Receiving Support Associate, Yakima Valley M…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825413) | Macy's | Union Gap, WA, United States | 75 | entry-level title |
 | 5:27 PM | [Seasonal Fulfillment and Receiving Support Associate, Orland Square](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825375) | Macy's | Orland Park, IL, United States | 75 | entry-level title |
-| 4:19 PM (seen) | [Junior Robotics Software Engineer](https://app.dover.com/apply/alpha1robotics/7f098d3e-3028-4522-bec7-4d5c16220a92) | Alpha1Robotics | Dallas, TX (onsite) | 75 | entry-level title; 1+ yrs exp |
-| 4:19 PM (seen) | [Associate Data Scientist](https://app.dover.com/apply/apparatusai/f15799cd-36af-406c-9296-2f3f158c3b71) | Apparatusai | International (remote) | 62 | entry-level title; 0-2 yrs exp; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1840)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1827)
 
 <details><summary>Show</summary>
 
