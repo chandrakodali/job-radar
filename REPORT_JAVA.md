@@ -1,14 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**169 jobs**, newest first. Updated Sat Nov 21, 10:56 AM CST from 12,526 company job boards and other sources.
+**166 jobs**, newest first. Updated Sat Nov 21, 11:08 AM CST from 12,571 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 197 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,149 matching jobs that job sites and feeds listed this week, 899 (28%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (75)](#saturday-nov-14-75)
+Jump to: [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (72)](#saturday-nov-14-72)
 
 ## Friday, Nov 20 (13)
 
@@ -134,7 +132,7 @@ Jump to: [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) 
 | 1:23 PM (seen) | [Java Web Developer in Munich (m/f)](https://globalworking.zohorecruit.com/jobs/Careers/179458000002324008/Java-Web-Developer-in-Munich-m-f) | Globalworking | Múnich | 45 | location unclear |
 | date only | [Developer Platform Engineer (Financial Cloud)](https://intellipro.applytojob.com/apply/gLbwG8aDGS/Developer-Platform-Engineer-Financial-Cloud) | IntelliPro Group Inc. | Palo Alto, CA | 50 | requires Java |
 
-## Saturday, Nov 14 (75)
+## Saturday, Nov 14 (72)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -210,9 +208,6 @@ Jump to: [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) 
 | 3:51 PM (seen) | [Senior Software Engineer -26-272](https://jobs.jobvite.com/drillinginfo/job/obqtAfwo) | Drillinginfo |  | 20 | senior title, years not stated; location unclear; requires Java |
 | 3:51 PM (seen) | [Evergreen Posting: Software Engineer](https://coforma.pinpointhq.com/en/postings/1a979aed-0158-4d98-9470-18edf0bce6e7) | Coforma | Remote (select US states) (remote) | 37 | E-Verify; requires Java |
 | 2:46 PM | [Python Java AWS Software Engineer III (ML) - Agentic Treasury](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777835) | JP Morgan Chase | Jersey City, NJ, United States | 60 | 3+ yrs exp; senior title |
-| date only | [Software Engineer II – Full Stack (Java & React)](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Software-Engineer-II---Java--Spring-Boot---React_R004300-1) | Entrust | United States - Shakopee, MN (GHQ) | 55 | 3+ yrs exp |
-| date only | [Full-Stack Software Engineer II / Java, React & AWS](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Software-Developer-II---Java---Instant-ID-as-a-Service---Secura_R004285) | Entrust | United States - Shakopee, MN (GHQ) | 55 | 3+ yrs exp |
-| date only | [New York NY Java Developer NY 10001](https://careers.capgemini.com/job/New-York%2C-NY-Java-Developer-NY-10001/1444869133/) | Capgemini | NY 10001, United States | 53 |  |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (353)
 
