@@ -1,17 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**544 jobs**, newest first. Updated Fri Nov 20, 7:49 PM CST from 12,571 company job boards and other sources.
+**546 jobs**, newest first. Updated Fri Nov 20, 8:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-294 repeat listings (same company and title in another place or on another source) are merged into one row.
+295 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (42)](#thursday-nov-19-42) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (319)](#saturday-nov-14-319) · [Fri 13 (3)](#friday-nov-13-3)
+Coverage check: of 2,674 matching jobs that job sites and feeds listed this week, 1,121 (41%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Friday, Nov 20 (43)
+Jump to: [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (42)](#thursday-nov-19-42) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (319)](#saturday-nov-14-319) · [Fri 13 (3)](#friday-nov-13-3)
+
+## Friday, Nov 20 (45)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 7:57 PM | [Systems Engineer - Network Software Performance](https://boards.greenhouse.io/cloudflare/jobs/8401122?gh_jid=8401122) | Cloudflare | Hybrid (hybrid) | 55 | location unclear; no future H-1B sponsorship; priority company |
+| 7:54 PM | [Senior Systems Engineer, Network Services](https://boards.greenhouse.io/cloudflare/jobs/8401108?gh_jid=8401108) | Cloudflare | Hybrid (hybrid) | 45 | senior title, years not stated; location unclear; no future H-1B spon… |
 | 6:43 PM | [Backend Software Engineer, Infrastructure](https://jobs.ashbyhq.com/mercor/9431db0b-904e-4f91-8be7-87fad304db6d) | Mercor | San Francisco (onsite) | 70 |  |
 | 6:39 PM | [Software Engineer, Data Infrastructure (C++)](https://job-boards.greenhouse.io/botauto/jobs/5491569008) | Bot Auto | Houston, TX | 65 |  |
 | 6:07 PM (seen) | [Site Reliability Engineer, USG](https://ats.rippling.com/aalyria-careers/jobs/27e9f512-e14b-4ba4-aefb-0f05a63fa21a) | Aalyria | Remote (United States) (remote) | 47 |  |
@@ -592,12 +596,14 @@ Jump to: [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (42)](#thursday-nov-19-42) 
 | 11:01 PM | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/rainmaker/c7372b90-e7b3-4620-a6c1-d4ffd24c14e1) | Rainmaker | El Segundo, CA | 70 | E-Verify |
 | 11:00 PM | [Senior Solution Consultant, Cloud Platform](https://careers-americas.icims.com/jobs/27928/senior-solution-consultant%2c-cloud-platform/job) | Atlassian | Austin, TX, United States; New York, NY… (remote) | 52 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (630)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (632)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 8:04 PM | [Embedded Linux Platform Engineer](https://jobs.ashbyhq.com/Elveo/c322ee1d-81e1-4931-b4f0-62491cda358e) | Elveo | Chantilly, VA (onsite) | 70 | rules: needs: ITAR |
+| 7:53 PM | [Distributed Systems Engineer - Network Services](https://boards.greenhouse.io/cloudflare/jobs/8401112?gh_jid=8401112) | Cloudflare | Hybrid (hybrid) | 55 | rules: location unclear; no future H-1B sponsorship; priority company… |
 | 6:57 PM | [Senior Backend Cloud Engineer](https://job-boards.greenhouse.io/halcyon/jobs/6268221004) | Halcyon | Austin, TX | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 5:05 PM | [Senior Network Engineer - PCLOB](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684078) | 33704Aa8 8475 45E8 B8A8 55E4D… | DC, USA | 30 | rules: 7+ yrs exp; senior title; needs: security clearance |
 | 4:41 PM | [System Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=13506473-8528-417a-b040-407867621d8b&ccId=19000101_000001&jobId=9204563701014_1&lang=en_US) | 13506473 8528 417A B040 40786… | Atlanta, GA | 30 | rules: 5+ yrs exp; needs: TS/SCI clearance |
@@ -996,8 +1002,6 @@ Jump to: [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (42)](#thursday-nov-19-42) 
 | 11:00 PM | [Platform Engineer](https://arc-onesolutions.icims.com/jobs/17276/platform-engineer/job) | ARC-One Solutions | United States | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 11:00 PM | [Mid-Level DevSecOps Engineer](https://careers-simventions.icims.com/jobs/1670/mid-level-devsecops-engineer/job) | SimVentions | Dahlgren, VA, United States (remote) | 62 | rules: needs: Secret Clearance |
 | 11:00 PM | [DevOps Engineer (Remote)](https://jobs.dayforcehcm.com/en-US/kgs/candidateportal/jobs/16315) | Kgs | Washington, DC, US (remote) | 42 | rules: 5+ yrs exp; needs: Public Trust Clearance |
-| 11:00 PM | [Linux Systems Engineer](https://everwatch-everwatchsolutions.icims.com/jobs/3702/linux-systems-engineer/job) | Everwatch | Annapolis Junction, MD, United States | 30 | rules: 12+ yrs exp; needs: TS/SCI clearance |
-| 11:00 PM | [Sr Reliability Engineer](https://uscareers-waters.icims.com/jobs/28924/sr-reliability-engineer/job) | Waters Corporation | Milford, MA, United States | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 
 </details>
 
