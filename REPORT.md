@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**537 jobs**, newest first. Updated Sat Nov 21, 1:49 PM CST from 12,571 company job boards and other sources.
+**537 jobs**, newest first. Updated Sat Nov 21, 2:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 294 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 2,995 matching jobs that job sites and feeds listed this week, 1,279 (42%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (310)](#saturday-nov-14-310)
 
@@ -585,12 +587,13 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) ·
 | 2:37 PM (seen) | [Software Engineer - Terraform Foundations](https://careers.ibm.com/careers/JobDetail?jobId=138604) | IBM | Multiple Cities (hybrid) | 50 |  |
 | 2:37 PM (seen) | [Entry Level Cloud Developer - Network Services](https://careers.ibm.com/careers/JobDetail?jobId=139663) | IBM | Austin, United States (hybrid) | 60 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (626)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (627)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 1:47 PM | [Senior Systems Development Engineer](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302047) | Dell Technologies | TX, United States (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Network Systems Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029624EXTERNALENGLOBAL) | Cisco | Rancho Cordova, California, United Stat… | 25 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:39 AM | [Senior Backend Cloud Engineer](https://job-boards.greenhouse.io/halcyon/jobs/6268252004) | Halcyon | Austin, TX | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 8:04 PM | [Embedded Linux Platform Engineer](https://jobs.ashbyhq.com/Elveo/c322ee1d-81e1-4931-b4f0-62491cda358e) | Elveo | Chantilly, VA (onsite) | 70 | rules: needs: ITAR |
@@ -990,7 +993,6 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) ·
 | 12:45 AM | [Sr Network Engineer](https://jobs.lever.co/jobgether/0e899f97-552a-4ed8-9491-07c4db1805f7) | Jobgether | US (remote) | 27 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:41 AM | [Senior Site Reliability Engineer](https://jobs.lever.co/jobgether/5cedc112-aefe-4167-8649-8347b8c7b0a9) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:26 AM | [Cloud Developer - CLEARED](https://jobs.lever.co/jobgether/85879f6c-bafc-4c8b-8d60-3a0d5c20be01) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; needs: security clearance |
-| 12:07 AM (seen) | [Systems Reliability Engineer II (Pune)](https://jobs.jobvite.com/nutanix/job/ohIWAfwf) | Nutanix |  | 20 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
 
 </details>
 
