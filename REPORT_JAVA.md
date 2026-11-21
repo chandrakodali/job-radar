@@ -1,20 +1,23 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**169 jobs**, newest first. Updated Sat Nov 21, 1:40 AM CST from 12,571 company job boards and other sources.
+**169 jobs**, newest first. Updated Sat Nov 21, 2:30 AM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-191 repeat listings (same company and title in another place or on another source) are merged into one row.
+197 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 20 (12)](#friday-nov-20-12) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (20)](#wednesday-nov-18-20) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (75)](#saturday-nov-14-75)
+Coverage check: of 2,944 matching jobs that job sites and feeds listed this week, 813 (27%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Friday, Nov 20 (12)
+Jump to: [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (75)](#saturday-nov-14-75)
+
+## Friday, Nov 20 (13)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 6:39 PM | [Assoc Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162837679-assoc-software-engineer) | ServiceNow | Santa Clara, CALIFORNIA, United States (hybrid) | 60 | 1+ yrs exp; requires Java |
 | 2:12 PM | [Full-stack Java & React Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787547) | JP Morgan Chase | Plano, TX, United States +1 more | 60 | 3+ yrs exp; senior title |
 | 1:31 PM (seen) | [Application Developer-Java & Web Technologies](https://careers.ibm.com/careers/JobDetail?jobId=143696) | IBM | Dallas, United States +17 more (hybrid) | 50 | repost |
+| 1:19 PM | [Senior Platform Software Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351070) | Oracle | Nashville, TN, United States +2 more | 35 | senior title, years not stated; requires Java |
 | 1:06 PM | [Platform Engineering Senior Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/215254) | Ebxr Fa Us2 Oraclecloud Com | Jersey City, NJ, United States | 45 | entry-level title; senior title, years not stated; requires Java |
 | 11:38 AM | [Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5283494007) | Zscaler | Santa Clara, California, USA | 60 | 0-2 yrs exp; requires Java |
 | 11:38 AM | [Sr. Software Development Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5283490007) | Zscaler | Santa Clara, California, USA | 45 | 3+ yrs exp; senior title; requires Java |
@@ -45,7 +48,7 @@ Jump to: [Fri 20 (12)](#friday-nov-20-12) · [Thu 19 (15)](#thursday-nov-19-15) 
 | 8:27 AM | [Sr Software Engineer I - Enterprise Architecture](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016711) | American Express | Sunrise, FL, United States (remote) | 47 | entry-level title; senior title, years not stated; requires Java |
 | 8:03 AM | [API Systems Engineer](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31739) | Navy Federal | Vienna, VA, United States (hybrid) | 50 | no future H-1B sponsorship; requires Java |
 
-## Wednesday, Nov 18 (20)
+## Wednesday, Nov 18 (19)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -53,7 +56,6 @@ Jump to: [Fri 20 (12)](#friday-nov-20-12) · [Thu 19 (15)](#thursday-nov-19-15) 
 | 5:32 PM | [Software Development Engineer II - C# .NET](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261267) | GM financial | Irving, TX, United States (hybrid) | 55 | 2+ yrs exp; no future H-1B sponsorship; requires Java |
 | 3:23 PM | [Full Stack Software Engineer (Java, Spring Boot, React & Angular)](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77381) | Staples | Framingham, MA, United States (onsite) | 65 | 4+ yrs exp |
 | 2:20 PM (seen) | [Backend Software Engineer, TikTok Live Recommendation Infrastructure](https://lifeattiktok.com/search/7550948068838689031) | TikTok | San Jose, California, United States of … | 30 | 3+ yrs exp; requires Java |
-| 1:34 PM | [Senior Platform Software Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350905) | Oracle | United States +1 more | 40 | 3+ yrs exp; senior title; requires Java |
 | 1:30 PM | [Senior Software Engineer](https://jobs.workable.com/view/nstoksYEj1FNULVoZrVyfo/remote-senior-software-engineer-in-united-states-at-amerisave) | AmeriSave | Remote, US (remote) | 37 | senior title, years not stated; requires Java |
 | 1:27 PM | [Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162380039-software-engineer) | ServiceNow | Santa Clara, CALIFORNIA, United States | 55 | 2+ yrs exp; requires Java; repost |
 | 12:54 PM | [Software Engineer I - Vertx, Spring, Spring Boot, RESTful micro servi…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011281) | American Express | Phoenix, AZ, United States (hybrid) | 90 | entry-level title; 2+ yrs exp |
