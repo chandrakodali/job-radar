@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**518 jobs**, newest first. Updated Sat Nov 21, 11:39 AM CST from 12,571 company job boards and other sources.
+**518 jobs**, newest first. Updated Sat Nov 21, 12:19 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 252 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 5,015 matching jobs that job sites and feeds listed this week, 993 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21) · [Sat 14 (135)](#saturday-nov-14-135)
 
@@ -566,12 +568,13 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 2:10 PM (seen) | [Software Engineer, Global CRM Platform](https://lifeattiktok.com/search/7281061641377106234) | TikTok | San Jose, California, United States of … | 70 | 1+ yrs exp; entry level (from the text) |
 | 2:10 PM (seen) | [SW Developer / AI Center of Excellence - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131165) | IBM | Austin, United States (hybrid) | 65 | entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2334)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2286)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:44 AM | [Creative AI Engineer](https://jobs.ashbyhq.com/harvey/e46d48b8-57c7-401c-be33-f56774dc072d) | Harvey | San Francisco +1 more (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:17 AM | [Mid-Level AI Engineer](https://jobs.ashbyhq.com/Clera/5fdb38a1-7f61-4afb-80ed-481afc7938f4) | Clera | San Francisco (onsite) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Software Engineer – India ComSec (NCCS)](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029693EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Embedded Software Engineer, Leo MAC](https://www.amazon.jobs/en/jobs/10610936/embedded-software-engineer-leo-mac) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
@@ -971,6 +974,5 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 3:34 PM | [Tier 1/2 Network Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680261) | 26F3B5C7 C503 49F8 9Cb4 B56B2… | Gilber, USA | 70 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 3:27 PM | [Geospatial Systems Analyst](https://boards.greenhouse.io/ardentmc/jobs/8403429?gh_jid=8403429) | Ardentmc | Washington, D.C. Metro - on-site (onsite) | 50 | rules: 5+ yrs exp; needs: security clearance |
 | 3:25 PM | [Traveling Security Technician](https://job-boards.greenhouse.io/unlimitedtechnology/jobs/5490003008) | Unlimited Technology | Travel (remote) | 42 | rules: 5+ yrs exp; needs: Security Clearance |
-| 3:22 PM | [Department Administrator, Software Engineering](https://job-boards.greenhouse.io/openeye/jobs/8952351002) | OpenEye | Liberty Lake, Washington | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
