@@ -1,18 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**545 jobs**, newest first. Updated Sat Nov 21, 1:20 AM CST from 12,571 company job boards and other sources.
+**546 jobs**, newest first. Updated Sat Nov 21, 1:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 295 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (319)](#saturday-nov-14-319)
+Coverage check: of 2,774 matching jobs that job sites and feeds listed this week, 1,169 (42%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Saturday, Nov 21 (1)
+Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (319)](#saturday-nov-14-319)
+
+## Saturday, Nov 21 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Site Reliability Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029632EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 70 | 2+ yrs exp |
+| 1:28 AM | [Purchasing Operations Analyst, Infrastructure Services](https://jobs.apple.com/en-us/details/200696405/purchasing-operations-analyst-infrastructure-services) | Apple | United States of America | 65 |  |
 
 ## Friday, Nov 20 (45)
 
