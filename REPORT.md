@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**543 jobs**, newest first. Updated Fri Nov 20, 6:07 PM CST from 12,526 company job boards and other sources.
+**543 jobs**, newest first. Updated Fri Nov 20, 6:19 PM CST from 12,571 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 305 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 2,627 matching jobs that job sites and feeds listed this week, 1,099 (41%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 20 (41)](#friday-nov-20-41) · [Thu 19 (41)](#thursday-nov-19-41) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (319)](#saturday-nov-14-319) · [Fri 13 (5)](#friday-nov-13-5)
 
@@ -593,7 +591,7 @@ Jump to: [Fri 20 (41)](#friday-nov-20-41) · [Thu 19 (41)](#thursday-nov-19-41) 
 | 7:13 PM | [Software Engineer, Cloud Platform](https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0) | Baseten | San Francisco; Remote; Toronto; New Yor… (hybrid) | 70 |  |
 | 7:01 PM | [Senior Network Engineer - DR25 Network Engineering team](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350444) | Oracle | Seattle, WA, United States; Santa Clara… | 35 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (630)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (629)
 
 <details><summary>Show</summary>
 
