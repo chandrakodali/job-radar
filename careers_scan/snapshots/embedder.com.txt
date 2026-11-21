@@ -1,37 +1,37 @@
-The Enterprise AI Platform For
+Enterprise AI Platform For
 Embedded Software Teams
 Embedder AIP helps your engineering team accomplish more across silicon platforms and product variants, shortening development cycles and accelerating time to market.
-TRY FREE Book Demo
+TRY FREE Get a Demo Get a Demo
 Embedder is an AI platform for firmware implementation, platform migration, and automated testing that verifies every change on real hardware.
 ECOSYSTEM
-AI connected to the physical world
-Our semiconductor and integration partners help connect Embedder to the chips, instruments, and systems that power the physical world.
+Works with the silicon you already use
+Embedder supports 600+ platforms from 14 chip and board manufacturers, and the probes and instruments already on your bench.
 Supported MCU Ecosystems
 View Full List (opens in a new tab)
 Implementation & Migration
-New firmware or a new platform, working on your board
-Whether you're bringing up a new board or moving to a new MCU, Embedder plans the work against the datasheet and your schematic, writes it one module at a time, and verifies each module on the target before the next one starts.
+New firmware or a new MCU, running on your board
+Embedder brings up new boards and ports existing firmware to new MCUs. It works from the datasheet and your schematic, and verifies each module on the target before it starts the next.
 Datasheet Intelligence
 Every register value, cited to the manual
-Embedder reads the entire reference manual, from register maps to clock trees to errata, and cites the section behind every value it writes. Reviewers check the source instead of re-deriving it.
+Embedder reads the entire reference manual, from register maps to clock trees to errata, and cites the section behind every value it writes. Reviewers can check each value against its source.
 Schematic Ingestion
 Code that matches the board you built
-Embedder resolves your netlist against the datasheet: pin muxing, pull-ups, bus addresses, and errata workarounds. Nothing is assumed from the vendor's dev kit, so the same code holds when the board or the MCU changes.
+Embedder resolves your netlist against the datasheet: pin muxing, pull-ups, bus addresses, and errata workarounds. When the board or the MCU changes, it does the same for the new one.
 Hardware Verification
-Know it works before you ship it
-Writing the code is the easy part. Embedder checks every change against the reference manual and against what the chip actually does, and attaches serial traces, register dumps, and captures to each conclusion.
+Know it works on the hardware before you ship
+Embedder checks every change against the reference manual and against how the hardware behaves. Each finding comes with the serial trace, register dump, or signal capture behind it.
 Serial & Debug
 Diagnosed against what the chip did
-Embedder reads serial output and drives GDB sessions, inspecting registers and memory and correlating runtime state with the code under review. Every diagnosis points to what the chip actually did.
+Embedder reads serial output and drives GDB sessions, inspecting registers and memory and correlating runtime state with the code under review.
 Signal Observation
 Timing confirmed on the wire
-Embedder turns logic analyzer captures and oscilloscope waveforms into structured data. Timing violations and protocol errors surface as evidence your team can review, so a change is accepted on electrical behavior, not on a clean compile.
+Embedder reads logic analyzer captures and oscilloscope waveforms and flags timing violations and protocol errors. A change is accepted on how the signals behave.
 Power Profiling
-Every power saving proven by re-measuring
+Power savings confirmed by measurement
 Embedder drives power profilers across a workload, ties the high-draw windows back to what the firmware was doing, and re-measures on real silicon after each change.
 Automated Testing
 Tests written, run, and re-run on real silicon
-Embedder generates tests from your hardware docs, runs them on real probes and instruments, and diagnoses failures against firmware and live signals. It proposes a fix, then reruns the test on silicon.
+Embedder writes tests from your hardware docs and runs them on real probes and instruments. When a test fails, it finds the cause, fixes it, and runs the test again.
 Parallel Testing Agents
 A full test campaign without tying up your engineers
 Embedder splits a firmware test campaign across specialized agents that run cases concurrently and merge the pass/fail results into one report.
@@ -45,7 +45,7 @@ ENTERPRISE
 Your IP stays under your control
 Embedder runs where your security policy requires and gives admins control of the rollout across every firmware team.
 Security & IP Protection
-Embedder works on your most sensitive IP: schematics, source code, and live bench access. It is built to clear security review, and it runs wherever your policy requires.
+Embedder works on your most sensitive IP: schematics, source code, and live bench access. Deploy it on-premise or in your own cloud, backed by audited controls.
 Custom Deployments
 On-Prem / BYOC
 Run Embedder fully on-premise or in your own cloud, so your schematics and source code never leave infrastructure you control.

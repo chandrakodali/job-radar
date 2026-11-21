@@ -2,8 +2,7 @@ Join the Adventure
 Ndea is buidling a new branch of machine learning: Symbolic Learning, a method for efficiently searching for minimal symbolic models in program space.
 We're a team of builders distributed across Europe and North America working at the intersection of symbolic methods and deep learning.
 Open Roles
-Applied Research Platform Engineer
-Applied Deep Learning Engineer
+Senior Software Engineer (Backend & Infrastructure)
 We're also always looking for the best talent (especially in program synthesis).
 Learn more
 Refer

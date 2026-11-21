@@ -1,10 +1,10 @@
 # Cloud, DevOps, SRE, platform and infrastructure roles (no job board)
 
-Updated 2026-11-20 21:36 UTC. **92 open roles** at 71 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
+Updated 2026-11-21 08:50 UTC. **91 open roles** at 70 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
 
 **Apply:** the ✉ link opens an email to the company's hiring address with the subject filled in; attach your résumé. Scores and notes use the radar's rules (config.yaml): higher is a better early-career fit; "location unclear" means the page didn't say, so check it. 🆕 = first seen in the last 2 days.
 
-## US or location not stated (92)
+## US or location not stated (91)
 
 | Score | Role | Company | Location | Apply | Since | Notes |
 |---:|---|---|---|---|---|---|
@@ -26,7 +26,6 @@ Updated 2026-11-20 21:36 UTC. **92 open roles** at 71 companies that post jobs o
 | 50 | [DevOps Engineer](https://www.versionstory.com/company/careers) | Version Story Compare | New York | [✉ careers@versionstory.com](mailto:careers@versionstory.com?subject=Application%3A%20DevOps%20Engineer%20%E2%80%93%20Version%20Story%20Compare) | Nov 11 |  |
 | 47 | [Platform Engineer](https://anchore.com/wp-content/uploads/2026/10/Platform-Engineer-Job-Description-v.09_2026-1.pdf) | Anchore | Remote US | [✉ hr@anchore.com](mailto:hr@anchore.com?subject=Application%3A%20Platform%20Engineer%20%E2%80%93%20Anchore) | Nov 11 |  |
 | 47 | [Site Reliability Engineer (SRE) ( Engineering )](https://www.iopipe.com/jobs/) | IOpipe | Remote (US Only) | [Careers page](https://www.iopipe.com/jobs/) | Nov 11 |  |
-| 47 | [Applied Research Platform Engineer](https://ndea.com/jobs/applied-research-platform-engineer) | Ndea | Seattle, WA, USA (Remote ok) | [✉ future@ndea.com](mailto:future@ndea.com?subject=Application%3A%20Applied%20Research%20Platform%20Engineer%20%E2%80%93%20Ndea) | Nov 11 |  |
 | 45 | [DevOps Engineer](https://www.anjuna.io/careers) | Anjuna | ? | [Careers page](https://www.anjuna.io/careers) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer (WordPress & Hosting)](https://brainstormforce.com/join/) | Brainstorm Force | ? | [Careers page](https://brainstormforce.com/join/) | Nov 11 | location unclear |
 | 45 | [Infrastructure Engineer](https://browser-use.com/careers) | Browser Use | ? | [✉ apply@browser-use.com](mailto:apply@browser-use.com?subject=Application%3A%20Infrastructure%20Engineer%20%E2%80%93%20Browser%20Use) | Nov 11 | location unclear |
@@ -39,7 +38,6 @@ Updated 2026-11-20 21:36 UTC. **92 open roles** at 71 companies that post jobs o
 | 45 | [DevOps Engineer](https://www.getdynamiq.ai/careers/devops-engineer) | Dynamiq | ? | [✉ hello@getdynamiq.ai](mailto:hello@getdynamiq.ai?subject=Application%3A%20DevOps%20Engineer%20%E2%80%93%20Dynamiq) | Nov 11 | location unclear |
 | 45 | [Site Reliability Engineer](https://estuary.dev/about/) | Estuary | ? | [✉ careers@estuary.dev](mailto:careers@estuary.dev?subject=Application%3A%20Site%20Reliability%20Engineer%20%E2%80%93%20Estuary) | Nov 11 | location unclear |
 | 45 | [Infrastructure Engineer](https://www.ehl.markets/careers.html) | Event Horizon Labs | ? | [✉ careers@ehl.markets](mailto:careers@ehl.markets?subject=Application%3A%20Infrastructure%20Engineer%20%E2%80%93%20Event%20Horizon%20Labs) | Nov 11 | location unclear |
-| 45 | [DevOps / SRE Interview Master Guide](https://dev.to/jumptotech/devops-sre-interview-master-guide-4kko) | Forem | ? | [Careers page](https://dev.to/jumptotech/devops-sre-interview-master-guide-4kko) | Nov 18 | location unclear |
 | 45 | [DevOps Engineer](https://www.giveffect.com/careers) | Giveffect | ? | [✉ careers@giveffect.com](mailto:careers@giveffect.com?subject=Application%3A%20DevOps%20Engineer%20%E2%80%93%20Giveffect) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer](https://meduzzen.com/careers/) | Meduzzen | ? | [Careers page](https://meduzzen.com/careers/) | Nov 11 | location unclear |
 | 45 | [Platform / DevOps Engineer](https://muzz.com/us/en/careers/) | Muzz | ? | [✉ careers@muzz.com](mailto:careers@muzz.com?subject=Application%3A%20Platform%20/%20DevOps%20Engineer%20%E2%80%93%20Muzz) | Nov 12 | location unclear |
@@ -60,13 +58,14 @@ Updated 2026-11-20 21:36 UTC. **92 open roles** at 71 companies that post jobs o
 | 42 | [Software Engineer, Infrastructure](https://orchid.ai/careers/software-engineer-infrastructure) | Orchid | Remote | [✉ work@orchid.ai](mailto:work@orchid.ai?subject=Application%3A%20Software%20Engineer%2C%20Infrastructure%20%E2%80%93%20Orchid) | Nov 11 | location unclear |
 | 42 | [DevOps Engineer](https://www.outsourcingdev.com/careers/) | OutsourcingDev | Remote | [Careers page](https://www.outsourcingdev.com/careers/) | Nov 11 | location unclear |
 | 42 | [Agent Infrastructure Engineer](https://pydantic.dev/jobs/agent-infrastructure-engineer) | Pydantic | Fully remote | [✉ careers@pydantic.dev](mailto:careers@pydantic.dev?subject=Application%3A%20Agent%20Infrastructure%20Engineer%20%E2%80%93%20Pydantic) | Nov 11 | location unclear |
-| 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
 | 42 | [Cloud Full-Stack Developer](https://wazuh.com/job/full-stack-developer-cloud/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/full-stack-developer-cloud/) | Nov 11 | location unclear |
 | 42 | [Cloud Ops Engineer](https://wazuh.com/job/cloud-ops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-ops-engineer/) | Nov 11 | location unclear |
+| 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
 | 40 | [Senior DevOps Engineer](https://broadleafcommerce.com/senior-devops-engineer/) | Broadleaf Commerce | ? | [✉ careers@broadleafcommerce.com](mailto:careers@broadleafcommerce.com?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20Broadleaf%20Commerce) | Nov 13 | 3+ yrs exp; senior title; location unclear |
 | 40 | [Senior Backend / ML Ops Engineer](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Drafted | In person | [Careers page](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Nov 13 | senior title, years not stated |
 | 40 | [Network Systems Engineer](https://efference.ai/careers/wireless-networking-engineer/) | Efference | On-site | [✉ team@efference.ai](mailto:team@efference.ai?subject=Application%3A%20Network%20Systems%20Engineer%20%E2%80%93%20Efference) | Nov 11 |  |
 | 40 | [Senior Software Engineer, Infrastructure](https://lightsprint.ai/careers/senior-software-engineer) | LightSprint | ? | [✉ founders@lightsprint.ai](mailto:founders@lightsprint.ai?subject=Application%3A%20Senior%20Software%20Engineer%2C%20Infrastructure%20%E2%80%93%20LightSprint) | Nov 13 | senior title, years not stated |
+| 40 | [Senior Software Engineer (Backend & Infrastructure)](https://ndea.com/jobs/senior-software-engineer-backend-infrastructure) 🆕 | Ndea | ? | [✉ future@ndea.com](mailto:future@ndea.com?subject=Application%3A%20Senior%20Software%20Engineer%20%28Backend%20%26%20Infrastructure%29%20%E2%80%93%20Ndea) | Nov 21 | senior title, years not stated |
 | 37 | [Senior Site Reliability Engineer](https://www.buildbuddy.io/jobs/senior-site-reliability-engineer) | BuildBuddy | Remote Execution | [Careers page](https://www.buildbuddy.io/jobs/senior-site-reliability-engineer) | Nov 13 | senior title, years not stated |
 | 37 | [Senior DevOps/Integration Engineer](https://netris.io/careers/) | Netris | Remote, US | [Careers page](https://netris.io/careers/) | Nov 13 | senior title, years not stated |
 | 37 | [Senior DevOps Engineer](https://netris.io/careers/) | Netris | Remote, US | [Careers page](https://netris.io/careers/) | Nov 13 | senior title, years not stated |

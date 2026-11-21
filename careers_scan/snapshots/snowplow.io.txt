@@ -70,21 +70,18 @@ Careers
 Newsroom
 Contact us
 Pricing
-Shape the future of data
-Everything we do starts with the customer experience. We build the tools businesses use to understand each customer's journey and make every step of it better.
-We're a global team of builders, thinkers and data obsessives, and we're just getting started.
-More about Snowplow
 Trusted by teams at
 The Snowplow Way
+Here, AI clears the busywork so you can do the best work of your career. This is how we work together.
 High agency
 You have the power to make a difference here directly. When you see a problem or a missed opportunity, you do something about it, and you tell us what’s holding you back so we can remove it. Managers build alongside their teams.
 “That’s not my job” isn’t something we say.
 Make it count
 We’re a data business, and we run on data ourselves. Every piece of work points at a goal that matters, with a number that shows whether it’s working. How you get there is up to you.
-Take ownership, and make your efforts count.
+Pick a number. Own it. Move it.
 Move fast
-AI has changed how fast work can move, and we work at that speed. Get it out, learn from it, keep improving. The exception is anything customers trust us with: their data, security and contracts. Those we get right first time.
-Try the thing before you write the process.
+AI has changed how fast work can move, and we work at that speed. Get it out, learn from it, keep improving.
+The exception is anything customers trust us with: their data, the service they rely on, security, billing and contracts. Those we get right the first time.
 Challenge, and be open to challenge
 Challenge the product, the plan or a leader’s decision, openly, with evidence and a suggestion. Expect the same back, and a straight answer. You can disagree and still treat people with respect.
 A good argument from anyone can change where we go.
@@ -119,6 +116,7 @@ Gleb L Staff Software Engineer
 Edwin M Support Architect
 “Snowplow sits at the convergence of digital transformation, customer-facing AI, and the move away from legacy analytics tools. It’s a tight-knit team of high-calibre operators.”
 Tom C Enterprise Account Executive
+More about Snowplow
 Open roles
 Search roles
 Department
