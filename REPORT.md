@@ -1,14 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**546 jobs**, newest first. Updated Sat Nov 21, 7:37 AM CST from 12,526 company job boards and other sources.
+**545 jobs**, newest first. Updated Sat Nov 21, 7:49 AM CST from 12,571 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-295 repeat listings (same company and title in another place or on another source) are merged into one row.
+294 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,880 matching jobs that job sites and feeds listed this week, 1,221 (42%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (319)](#saturday-nov-14-319)
+Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (318)](#saturday-nov-14-318)
 
 ## Saturday, Nov 21 (2)
 
@@ -272,7 +270,7 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) ·
 | date only | [Azure DevOps Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Azure-DevOps-Engineer/373104) | Deloitte US |  | 55 | location unclear |
 | 8:37 AM (seen) | [AWS Data Engineer](https://app.dover.com/apply/comsparkint/6bf1aa8d-7982-43b1-9af1-2e94c7bfdc7f) | Comsparkint | Irvine, CA (onsite) | 55 |  |
 
-## Saturday, Nov 14 (319)
+## Saturday, Nov 14 (318)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -594,7 +592,6 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) ·
 | date only | [HPC Operations Engineer - EDA Infrastructure](https://nvidia.eightfold.ai/careers/job/893393995133) | Nvidia | Santa Clara, CA, US; Durham, NC, US; Au… (onsite) | 68 | 2+ yrs exp |
 | date only | [Deployment Engineer (Tuesday-Saturday workweek)](https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Dallas-TX/Deployment-Engineer_R44680) | SS&C | Dallas, TX; Kansas City, MO | 53 | 2+ yrs exp |
 | date only | [Sr. DevOps Engineer - Trading & Supply](https://indigobeam.zohorecruit.com/jobs/Careers/792375000009305132/Sr-DevOps-Engineer-Trading-Supply) | Indigobeam | Houston, Texas, United States | 48 | senior title, years not stated |
-| 7:47 AM | [Systems Software Developer, CAD Infrastructure](https://jobs.apple.com/en-us/details/200694942/systems-software-developer-cad-infrastructure) | Apple | United States of America | 65 |  |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (637)
 
