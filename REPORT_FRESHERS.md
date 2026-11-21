@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**519 jobs**, newest first. Updated Fri Nov 20, 8:03 PM CST from 12,571 company job boards and other sources.
+**520 jobs**, newest first. Updated Fri Nov 20, 8:49 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 253 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (80)](#friday-nov-20-80) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (1)](#friday-nov-13-1)
+Coverage check: of 4,671 matching jobs that job sites and feeds listed this week, 914 (19%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (81)](#friday-nov-20-81) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (1)](#friday-nov-13-1)
 
 ## Saturday, Nov 21 (2)
 
@@ -15,10 +17,11 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (80)](#friday-nov-20-80) ·
 | date only | [IT Support Specialist I (Horseshoe) - Las Vegas](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92196) | Caesars Entertainment | Las Vegas, NV, United States (onsite) | 90 | entry-level title; 1+ yrs exp |
 | date only | [FBS (Mexico) - MarTech Quality Assurance Specialist](https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-MarTech-Quality-Assurance-Specialist/1378095457/) | Farmers Insurance |  | 70 | 1+ yrs exp; no future H-1B sponsorship |
 
-## Friday, Nov 20 (80)
+## Friday, Nov 20 (81)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 8:14 PM | [Software Engineer, Video Pipeline](https://jobs.ashbyhq.com/Clera/2f86e8ee-1e44-40b4-bf47-a0db71a2d246) | Clera | San Francisco (onsite) | 80 | entry level (from the text) |
 | 7:22 PM | [Health Data Analyst](https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/472776) | Evac Fa Us2 Oraclecloud Com | Eureka, CA, United States (onsite) | 80 | 1+ yrs exp |
 | 7:09 PM | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Affirm | Remote US (remote) | 72 | entry-level title |
 | 6:39 PM | [Assoc Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162837679-assoc-software-engineer) | ServiceNow | Santa Clara, CALIFORNIA, United States (hybrid) | 80 | 1+ yrs exp |
@@ -572,16 +575,19 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (80)](#friday-nov-20-80) ·
 |---|---|---|---|---:|---|
 | 10:09 PM | [Gallery Housekeeping Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/42206) | RH | Charlotte, NC, United States | 75 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2336)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2339)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Embedded Software Engineer, Leo MAC](https://www.amazon.jobs/en/jobs/10610936/embedded-software-engineer-leo-mac) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
+| date only | [Software Dev Engineer in Test , Amazon Leo Payload](https://www.amazon.jobs/en/jobs/10610933/software-dev-engineer-in-test-amazon-leo-payload) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 75 | rules: 1+ yrs exp; needs: must be a U.S. citizen |
 | 10:45 PM | [AI Automation Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684049) | Brook + Whittle | New Century, KS, United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 10:31 PM | [IT Support Technician](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683999) | Sunflower Bank NA | Salina, KS, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 10:04 PM | [Embedded Software Engineer - Medical Devices](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=12c50d6c-1baa-481b-a7ac-bc6c1aeda42a&ccId=19000101_000001&jobId=9201318773014_57&lang=en_US) | 12C50D6C 1Baa 481B A7Ac Bc6C1… | Carlsbad, CA +1 more | 60 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; asks for 3+ … |
 | 7:37 PM | [Software Engineer](https://jobs.ashbyhq.com/snapmagic/d06f6752-1110-4708-9d80-8cfaf73795fe) | Snapmagic | San Francisco Office (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 7:13 PM | [Data Quality Analyst](https://jobs.ascension.org/us/en/job/AHEAHUUS34021EXTERNALENUS) | Ascension | Wichita, KS, 67214 | 65 | rules: 4+ yrs exp; E-Verify; asks for 4+ years of experience |
 | 6:47 PM | [IT Help Desk Analyst (Contract)](https://job-boards.greenhouse.io/greenpointtechnologies/jobs/5458551008) | Greenpointtechnologies | Bothell, Washington, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 6:47 PM | [CNC Programmer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3f003dc7-1976-44db-b5e0-0c1851def895&ccId=19000101_000001&jobId=9201066547504_118&lang=en_US) | 3F003Dc7 1976 44Db B5E0 0C185… | Stuart, FL | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; needs: ITAR |
 | 6:28 PM | [Software Engineer - Dealer Network & Employee Engagement](https://ford.eightfold.ai/careers/job/563568453660332) | Ford | Dearborn, MI, US +1 more (onsite) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
@@ -818,6 +824,7 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (80)](#friday-nov-20-80) ·
 | date only | [IT Analyst](https://careers.duke.edu/job/Durham-IT-Analyst-NC-27710/1452564400/) | Duke University | Durham, NC, United States | 73 | rules: 2+ yrs exp; likely H-1B cap-exempt (verify); asks for 2+ years… |
 | date only | [Network Test and Automation Engineer](https://careers.capgemini.com/job/Santa-Clara%2C-CA-Network-Test-and-Automation-Engineer-CA-95050/1459452033/) | Capgemini | Santa Clara, CA, United States | 53 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Data Engineer](https://careers.seattlechildrens.org/us/en/job/SEASCHUSR265391EXTERNALENUS) | Seattle Children's Hospital | Seattle, Washington | 68 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| date only | [Software Engineering Technical Leader, Forward Deployment Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2032564EXTERNALENGLOBAL) | Cisco | San Francisco, California, United State… | 38 | rules: 12+ yrs exp; asks for 12+ years of experience |
 | 10:53 AM | [Lifecycle Data Capabilities Analyst](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/85949) | eClerx | Austin, Texas, United States; San Jose,… | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:46 AM | [IT Support Specialist](https://jobs.ashbyhq.com/onebrief/18ce2342-3a10-4525-b862-9530b8ae0a9f) | Onebrief | United States / Remote (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 10:46 AM | [Applications Engineer / INT TRX](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020323) | Texas Instruments | Dallas, TX, United States +1 more | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -974,9 +981,5 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 3:12 PM | [Utility Infrastructure Telecom Design QC Engineer / Specialist](https://jobs.smartrecruiters.com/AECOM2/744000162605299-utility-infrastructure-telecom-design-qc-engineer-specialist) | AECOM | Kansas City, MO, United States (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 3:09 PM | [Data Scientist](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5489923008) | AffirmedRx | Remote (remote) | 67 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | 3:00 PM | [PM Power Systems Field Technician](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4064731) | Riggs Cat | Little Rock, AR, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 3:00 PM | [Solid State Drive SSD Test Development Engineer](https://jobs.smartrecruiters.com/Solidigm/744000162603709-solid-state-drive-ssd-test-development-engineer) | Solidigm | Rancho Cordova, CA, United States (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 2:59 PM | [IT Technician - Data Center](https://eklm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/36330) | Eklm Fa Us2 Oraclecloud Com | Troy, MI, United States (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 2:58 PM | [CCURE System Administrator](https://job-boards.greenhouse.io/unlimitedtechnology/jobs/5489937008) | Unlimited Technology | Silver Springs, MD | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
-| 2:57 PM | [Field Support Technician](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7140) | Black Box | CT, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
