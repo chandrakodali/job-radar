@@ -1,143 +1,143 @@
 company,ats,board,jobs_listed,read_completely,open_matches,note
-Adient,workday,adient|wd3|External,,,0,not reached this run
-Allegro MicroSystems,workday,allegromicro|wd5|AllegroCareers,,,0,not reached this run
-Apex.AI,lever,apex-ai,6,,0,
-Autoliv,teamtailor,careerunitedstates.autoliv.com,56,,0,
-BRP,phenom,careers.brp.com|global/en,286,,0,
-Continental,smartrecruiters,continental,81,,0,
-Denso,oracle,hcwt.fa.us2.oraclecloud.com|CX,79,,0,
-Elektrobit,smartrecruiters,Elektrobit,0,,0,
-Faraday Future,greenhouse,faradayfuture,65,,0,
-GILLIG,greenhouse,gillig,0,,0,
-Hyundai AutoEver America,jazzhr,hyundaiautoeveramerica,79,,0,
-Joby Aviation,icims,careers-jobyaviation.icims.com,152,,0,
-Komatsu,sfrmk,komatsu.jobs,295,,0,
-KOSTAL,smartrecruiters,kostalgroup,6,,0,
-Lear,sfrmk,jobs.lear.com,305,,0,
-LG Electronics,greenhouse,lgelectronics,121,,0,
-Mazda,workday,@mazdausa|wd5|Mazda,,,0,not reached this run
-Michelin,workday,michelinhr|wd3|Michelin,,,0,not reached this run
-Mitsubishi Motors North America,greenhouse,mitsubishimotorsna,10,,0,
-New Eagle,adp,e7b68190-d64b-4649-81ca-3ffb914ba1fe|19000101_000001,3,,0,
-PHINIA,workday,phinia|wd5|PHINIA_Careers,,,0,not reached this run
-Polestar,workday,polestar|wd3|Careers,,,0,not reached this run
-Pony.ai,workable,pony-dot-ai,8,,0,
-Sensata,workday,sensata|wd1|Sensata-Careers,,,0,not reached this run
-Subaru,oracle,hcal.fa.us2.oraclecloud.com|CX_1001,32,,0,
-Sumitomo Electric Wiring Systems,jobvite,sews,44,,0,
-Tenneco,sfrmk,jobs.tenneco.com,266,,0,
-Terex,workday,terex|wd1|terexcareers,,,0,not reached this run
-Textron,taleo,textron|textron,74,,0,
-thyssenkrupp,sfrmk,jobs.thyssenkrupp.com,877,,0,
-Toyota Research Institute,lever,tri,49,,0,
+Adient,workday,adient|wd3|External,0,,0,error: skipped (rate limited); lists nothing now (listed 87 before)
+Allegro MicroSystems,workday,allegromicro|wd5|AllegroCareers,0,,0,error: skipped (rate limited); lists nothing now (listed 10 before)
+Apex.AI,lever,apex-ai,,,0,not reached this run
+Autoliv,teamtailor,careerunitedstates.autoliv.com,,,0,not reached this run
+BRP,phenom,careers.brp.com|global/en,,,0,not reached this run
+Continental,smartrecruiters,continental,,,0,not reached this run
+Denso,oracle,hcwt.fa.us2.oraclecloud.com|CX,,,0,not reached this run
+Elektrobit,smartrecruiters,Elektrobit,,,0,not reached this run
+Faraday Future,greenhouse,faradayfuture,,,0,not reached this run
+GILLIG,greenhouse,gillig,,,0,not reached this run
+Hyundai AutoEver America,jazzhr,hyundaiautoeveramerica,,,0,not reached this run
+Joby Aviation,icims,careers-jobyaviation.icims.com,,,0,not reached this run
+Komatsu,sfrmk,komatsu.jobs,,,0,not reached this run
+KOSTAL,smartrecruiters,kostalgroup,,,0,not reached this run
+Lear,sfrmk,jobs.lear.com,,,0,not reached this run
+LG Electronics,greenhouse,lgelectronics,,,0,not reached this run
+Mazda,workday,@mazdausa|wd5|Mazda,0,,0,error: skipped (rate limited); lists nothing now (listed 16 before)
+Michelin,workday,michelinhr|wd3|Michelin,0,,0,error: skipped (rate limited); lists nothing now (listed 112 before)
+Mitsubishi Motors North America,greenhouse,mitsubishimotorsna,,,0,not reached this run
+New Eagle,adp,e7b68190-d64b-4649-81ca-3ffb914ba1fe|19000101_000001,,,0,not reached this run
+PHINIA,workday,phinia|wd5|PHINIA_Careers,0,,0,error: skipped (rate limited); lists nothing now (listed 17 before)
+Polestar,workday,polestar|wd3|Careers,0,,0,error: skipped (rate limited)
+Pony.ai,workable,pony-dot-ai,,,0,not reached this run
+Sensata,workday,sensata|wd1|Sensata-Careers,0,,0,error: skipped (rate limited); lists nothing now (listed 37 before)
+Subaru,oracle,hcal.fa.us2.oraclecloud.com|CX_1001,,,0,not reached this run
+Sumitomo Electric Wiring Systems,jobvite,sews,,,0,not reached this run
+Tenneco,sfrmk,jobs.tenneco.com,,,0,not reached this run
+Terex,workday,terex|wd1|terexcareers,0,,0,error: skipped (rate limited); lists nothing now (listed 40 before)
+Textron,taleo,textron|textron,,,0,not reached this run
+thyssenkrupp,sfrmk,jobs.thyssenkrupp.com,,,0,not reached this run
+Toyota Research Institute,lever,tri,,,0,not reached this run
 Visteon,ukg,recruiting.ultipro.com|VIS1004VIST|6ea71e1c-667f-4ddc-9024-5966baaa3256,,,0,not reached this run
-Volkswagen Group of America,smartrecruiters,VolkswagenGroupOfAmerica,0,,0,
-Volvo Cars,sfrmk,jobs.volvocars.com,51,,0,
-WeRide,lever,weride,12,,0,
-Wisk,workday,wisk|wd108|Wisk_Careers,,,0,not reached this run
-Aeva,lever,aeva,46,,3,
-AGCO,sfrmk,careers.agcocorp.com,342,,1,
-Allison Transmission,workday,allisontransmission|wd1|ATI-External,,,2,not reached this run
-ALTEN Technology USA,greenhouse,altentechnologyusa,234,,31,
-Ambarella,workday,ambarella|wd108|ambarella,,,1,not reached this run
-Analog Devices,workday,analogdevices|wd1|External,,,17,not reached this run
-Applied Intuition,ashby,applied,336,,26,
-Aptiv,workday,aptiv|wd5|aptiv_careers,,,14,not reached this run
-Archer Aviation,greenhouse,archer56,79,,2,
-Astemo,workday,astemo|wd102|Global_Career_Site,,,8,not reached this run
-Aumovio,smartrecruiters,Aumovio,15,,1,
-Aurora Innovation,ashby,aurora-operations-inc,88,,6,
-AVL,sfrmk,jobs.avl.com,217,,3,
-Bendix (Knorr-Bremse),sfrmk,careers.knorr-bremse.com,384,,3,
-BMW Group,sfrmk,jobs.bmwgroup.com,789,,4,
-BorgWarner,workday,borgwarner|wd5|BorgWarner_Careers,,,10,not reached this run
-Bosch,smartrecruiters,BoschGroup,341,,22,
-Bose,phenom,careers.bose.com|us/en,101,,8,
-Bot Auto,greenhouse,botauto,21,,1,
-Brunswick (Mercury Marine),workday,brunswick|wd1|search,,,1,not reached this run
-Capgemini,sfrmk,careers.capgemini.com,5082,,20,
-Carrier,workday,carrier|wd5|jobs,,,6,not reached this run
-Caterpillar,workday,cat|wd5|caterpillarcareers,,,40,not reached this run
-CNH,sfrmk,join.cnh.com,2049,,19,
-Crown Equipment,sfrmk,us-careers.crown.com,534,,6,
-Cummins,oracle,fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,375,,13,
-Daimler Truck North America,workday,dtna|wd5|dtna_external,,,2,not reached this run
-Dana,sfrmk,jobs.dana.com,361,,5,
-Dauch (American Axle),ldsite,careers.dauch.com/sitemap.xml|/job/.+/(\d+)/?$,374,,1,
-Doosan Bobcat,sfrmk,jobs.doosan.com,196,,1,
-dSPACE,dspace,www.dspace.com|en/inc/home/career/jobfinder/stellen.cfm,65,,4,
-Eaton,eightfold,eaton|eaton.com,335,,15,
-Expleo (US),icims,expleo-jobs-us-en.icims.com,12,,2,
-Ford Motor Company,oracle,efds.fa.em5.oraclecloud.com|CX_1,495,,103,
-Garmin,jibe,careers.garmin.com,449,,8,
-Garrett Motion,oracle,ehth.fa.em2.oraclecloud.com|CX_2001,63,,1,
-Gatik,greenhouse,gatikaiinc,67,,10,
-GE Aerospace,workday,geaerospace|wd5|GE_ExternalSite,,,2,not reached this run
-General Motors,workday,generalmotors|wd5|Careers_GM,,,61,not reached this run
-Gentex,workday,gentex|wd5|Gentex,,,3,not reached this run
-Harbinger Motors,greenhouse,harbingermotors,85,,9,
-Hitachi,workday,hitachi|wd1|hitachi,,,3,not reached this run
-Honda,phenom,careers.honda.com|us/en,322,,8,
-Hyundai Motor Group (HATCI / Hyundai / Genesis),sfrmk,careers-americas.hyundai.com,254,,33,
-Infineon,eightfold,infineon|infineon.com,298,,13,
-International Motors,jibe,careers.international.com,160,,2,
-John Deere,eightfold,johndeere|johndeere.com,187,,22,
-JTEKT,dayforce,jtekt|candidateportal,50,,1,
-Kodiak Robotics,greenhouse,kodiak,49,,2,
-Kubota,dayforce,kubota|candidateportal,52,,2,
-Littelfuse,workday,littelfuse|wd1|Littelfuse-Careers,,,1,not reached this run
-Lucid Motors,greenhouse,lucidmotors,496,,38,
-Magna,workday,@magna|wd3|Magna,,,13,not reached this run
-Marvell,workday,marvell|wd1|MarvellCareers,,,8,not reached this run
-May Mobility,greenhouse,maymobility,36,,6,
-Methode Electronics,workday,methode|wd5|methode,,,1,not reached this run
-Microchip Technology,workday,@microchiphr|wd5|External,,,3,not reached this run
-Moog,workday,moog|wd5|moog_external_career_site,,,3,not reached this run
-Motional,greenhouse,motional,82,,11,
-New Flyer,workable,new-flyer,63,,1,
-Nidec,workday,nidec|wd1|nidec,,,2,not reached this run
-Nissan,workday,alliance|wd3|nissanjobs,,,1,not reached this run
-Nuro,greenhouse,nuro,105,,8,
-NVIDIA,workday,nvidia|wd5|NVIDIAExternalCareerSite,,,53,not reached this run
-NXP Semiconductors,workday,nxp||careers,,,7,not reached this run
-onsemi,oracle,hctz.fa.us2.oraclecloud.com|CX_1001,325,,1,
-Oshkosh,workday,oshkoshcorporation|wd5|Oshkosh,,,16,not reached this run
-Ouster,jazzhr,ouster,32,,5,
-Outrider,greenhouse,outrider,9,,3,
-PACCAR,sfrmk,jobs.paccar.com,312,,31,
-Panasonic North America,jibe,careers.na.panasonic.com,431,,2,
-Plus,lever,plus-2,43,,3,
-Polaris,workday,polaris|wd5|PolarisJobs,,,2,not reached this run
-Qualcomm,eightfold,qualcomm|qualcomm.com,352,,48,
-Quest Global,phenom,careers.quest-global.com|global/en,704,,10,
-Renesas Electronics,smartrecruiters,renesaselectronics,212,,11,
-Rivian,jibe,careers.rivian.com,941,,43,
-Rivian and Volkswagen Group Technologies,ashby,rivianvw.tech,180,,45,
-Rockwell Automation,workday,rockwellautomation|wd1|External_Rockwell_Automation,,,4,not reached this run
-ROUSH,jazzhr,roush,64,,2,
-Schaeffler,sfrmk,jobs.schaeffler.com,656,,1,
-Scout Motors,greenhouse,scoutmotors,210,,8,
-Serve Robotics,ashby,serverobotics,12,,1,
-Slate Auto,workday,recar|wd108|SLATEcareers,,,4,not reached this run
-Sonatus,greenhouse,sonatus,17,,1,
-Stack AV,greenhouse,stackav,15,,4,
-Stellantis,mcloud,2016|careers.stellantis.com,464,,100,
-Stoneridge,workday,stoneridge|wd5|Careers,,,2,not reached this run
-TE Connectivity,sfrmk,careers.te.com,2451,,1,
-TEKsystems,phenom,careers.teksystems.com|us/en,459,,1,
-Texas Instruments,oracle,edbz.fa.us2.oraclecloud.com|CX,343,,4,
-Torc Robotics,greenhouse,torcrobotics,53,,13,
-Toyota,workday,toyota|wd503|tmna,,,1,not reached this run
-Valeo,workday,valeo|wd3|valeo_jobs,,,4,not reached this run
-Vector North America,workable,vectornorthamerica,6,,1,
-Volkswagen Group,sfrmk,jobs.volkswagen-group.com,1093,,1,
-Volvo Group (Volvo Trucks / Mack),sfrmk,jobs.volvogroup.com,724,,1,
-Waabi,lever,waabi,84,,8,
-Wabtec,smartrecruiters,Wabtec,319,,12,
-Waymo,greenhouse,waymo,363,,3,
-Wayve,ashby,wayve,151,,11,
-Woodward,workday,woodward|wd5|woodward,,,1,not reached this run
-Woven by Toyota,lever,woven-by-toyota,134,,13,
-Xos Trucks,greenhouse,xosinc,13,,1,
-ZF,sfrmk,jobs.zf.com,780,,5,
-Zoox,lever,zoox,244,,24,
+Volkswagen Group of America,smartrecruiters,VolkswagenGroupOfAmerica,,,0,not reached this run
+Volvo Cars,sfrmk,jobs.volvocars.com,,,0,not reached this run
+WeRide,lever,weride,,,0,not reached this run
+Wisk,workday,wisk|wd108|Wisk_Careers,0,,0,error: skipped (rate limited)
+Aeva,lever,aeva,,,3,not reached this run
+AGCO,sfrmk,careers.agcocorp.com,,,1,not reached this run
+Allison Transmission,workday,allisontransmission|wd1|ATI-External,0,,2,error: skipped (rate limited); lists nothing now (listed 80 before)
+ALTEN Technology USA,greenhouse,altentechnologyusa,,,31,not reached this run
+Ambarella,workday,ambarella|wd108|ambarella,0,,1,error: skipped (rate limited); lists nothing now (listed 48 before)
+Analog Devices,workday,analogdevices|wd1|External,0,,17,error: skipped (rate limited); lists nothing now (listed 309 before)
+Applied Intuition,ashby,applied,,,26,not reached this run
+Aptiv,workday,aptiv|wd5|aptiv_careers,0,,14,error: skipped (rate limited); lists nothing now (listed 80 before)
+Archer Aviation,greenhouse,archer56,,,2,not reached this run
+Astemo,workday,astemo|wd102|Global_Career_Site,0,,8,error: skipped (rate limited); lists nothing now (listed 360 before)
+Aumovio,smartrecruiters,Aumovio,,,1,not reached this run
+Aurora Innovation,ashby,aurora-operations-inc,,,6,not reached this run
+AVL,sfrmk,jobs.avl.com,,,3,not reached this run
+Bendix (Knorr-Bremse),sfrmk,careers.knorr-bremse.com,,,3,not reached this run
+BMW Group,sfrmk,jobs.bmwgroup.com,,,4,not reached this run
+BorgWarner,workday,borgwarner|wd5|BorgWarner_Careers,0,,10,error: skipped (rate limited); lists nothing now (listed 80 before)
+Bosch,smartrecruiters,BoschGroup,,,22,not reached this run
+Bose,phenom,careers.bose.com|us/en,,,8,not reached this run
+Bot Auto,greenhouse,botauto,,,1,not reached this run
+Brunswick (Mercury Marine),workday,brunswick|wd1|search,0,,1,error: skipped (rate limited); lists nothing now (listed 20 before)
+Capgemini,sfrmk,careers.capgemini.com,,,20,not reached this run
+Carrier,workday,carrier|wd5|jobs,0,,6,error: skipped (rate limited); lists nothing now (listed 388 before)
+Caterpillar,workday,cat|wd5|caterpillarcareers,0,,40,error: skipped (rate limited); lists nothing now (listed 60 before)
+CNH,sfrmk,join.cnh.com,,,19,not reached this run
+Crown Equipment,sfrmk,us-careers.crown.com,,,6,not reached this run
+Cummins,oracle,fa-espx-saasfaprod1.fa.ocs.oraclecloud.com|CX_1,,,13,not reached this run
+Daimler Truck North America,workday,dtna|wd5|dtna_external,0,,2,error: skipped (rate limited); lists nothing now (listed 20 before)
+Dana,sfrmk,jobs.dana.com,,,5,not reached this run
+Dauch (American Axle),ldsite,careers.dauch.com/sitemap.xml|/job/.+/(\d+)/?$,,,1,not reached this run
+Doosan Bobcat,sfrmk,jobs.doosan.com,,,1,not reached this run
+dSPACE,dspace,www.dspace.com|en/inc/home/career/jobfinder/stellen.cfm,,,4,not reached this run
+Eaton,eightfold,eaton|eaton.com,,,15,not reached this run
+Expleo (US),icims,expleo-jobs-us-en.icims.com,,,2,not reached this run
+Ford Motor Company,oracle,efds.fa.em5.oraclecloud.com|CX_1,,,103,not reached this run
+Garmin,jibe,careers.garmin.com,,,8,not reached this run
+Garrett Motion,oracle,ehth.fa.em2.oraclecloud.com|CX_2001,,,1,not reached this run
+Gatik,greenhouse,gatikaiinc,,,10,not reached this run
+GE Aerospace,workday,geaerospace|wd5|GE_ExternalSite,0,,2,error: skipped (rate limited); lists nothing now (listed 581 before)
+General Motors,workday,generalmotors|wd5|Careers_GM,0,,61,error: skipped (rate limited); lists nothing now (listed 120 before)
+Gentex,workday,gentex|wd5|Gentex,0,,3,error: skipped (rate limited); lists nothing now (listed 65 before)
+Harbinger Motors,greenhouse,harbingermotors,,,9,not reached this run
+Hitachi,workday,hitachi|wd1|hitachi,0,,3,error: skipped (rate limited); lists nothing now (listed 260 before)
+Honda,phenom,careers.honda.com|us/en,,,8,not reached this run
+Hyundai Motor Group (HATCI / Hyundai / Genesis),sfrmk,careers-americas.hyundai.com,,,33,not reached this run
+Infineon,eightfold,infineon|infineon.com,,,13,not reached this run
+International Motors,jibe,careers.international.com,,,2,not reached this run
+John Deere,eightfold,johndeere|johndeere.com,,,22,not reached this run
+JTEKT,dayforce,jtekt|candidateportal,,,1,not reached this run
+Kodiak Robotics,greenhouse,kodiak,,,2,not reached this run
+Kubota,dayforce,kubota|candidateportal,,,2,not reached this run
+Littelfuse,workday,littelfuse|wd1|Littelfuse-Careers,0,,1,error: skipped (rate limited); lists nothing now (listed 21 before)
+Lucid Motors,greenhouse,lucidmotors,,,38,not reached this run
+Magna,workday,@magna|wd3|Magna,0,,13,error: skipped (rate limited); lists nothing now (listed 595 before)
+Marvell,workday,marvell|wd1|MarvellCareers,0,,8,error: skipped (rate limited); lists nothing now (listed 173 before)
+May Mobility,greenhouse,maymobility,,,6,not reached this run
+Methode Electronics,workday,methode|wd5|methode,0,,1,error: skipped (rate limited); lists nothing now (listed 32 before)
+Microchip Technology,workday,@microchiphr|wd5|External,0,,3,error: skipped (rate limited); lists nothing now (listed 231 before)
+Moog,workday,moog|wd5|moog_external_career_site,0,,3,error: skipped (rate limited); lists nothing now (listed 320 before)
+Motional,greenhouse,motional,,,11,not reached this run
+New Flyer,workable,new-flyer,,,1,not reached this run
+Nidec,workday,nidec|wd1|nidec,0,,2,error: skipped (rate limited); lists nothing now (listed 366 before)
+Nissan,workday,alliance|wd3|nissanjobs,0,,1,error: skipped (rate limited); lists nothing now (listed 20 before)
+Nuro,greenhouse,nuro,,,8,not reached this run
+NVIDIA,workday,nvidia|wd5|NVIDIAExternalCareerSite,0,,53,error: skipped (rate limited); lists nothing now (listed 1400 before)
+NXP Semiconductors,workday,nxp||careers,0,,7,error: skipped (rate limited); lists nothing now (listed 180 before)
+onsemi,oracle,hctz.fa.us2.oraclecloud.com|CX_1001,,,1,not reached this run
+Oshkosh,workday,oshkoshcorporation|wd5|Oshkosh,0,,16,error: skipped (rate limited); lists nothing now (listed 160 before)
+Ouster,jazzhr,ouster,,,5,not reached this run
+Outrider,greenhouse,outrider,,,3,not reached this run
+PACCAR,sfrmk,jobs.paccar.com,,,31,not reached this run
+Panasonic North America,jibe,careers.na.panasonic.com,,,2,not reached this run
+Plus,lever,plus-2,,,3,not reached this run
+Polaris,workday,polaris|wd5|PolarisJobs,0,,2,error: skipped (rate limited); lists nothing now (listed 114 before)
+Qualcomm,eightfold,qualcomm|qualcomm.com,,,48,not reached this run
+Quest Global,phenom,careers.quest-global.com|global/en,,,10,not reached this run
+Renesas Electronics,smartrecruiters,renesaselectronics,,,11,not reached this run
+Rivian,jibe,careers.rivian.com,,,43,not reached this run
+Rivian and Volkswagen Group Technologies,ashby,rivianvw.tech,,,45,not reached this run
+Rockwell Automation,workday,rockwellautomation|wd1|External_Rockwell_Automation,0,,4,error: skipped (rate limited); lists nothing now (listed 152 before)
+ROUSH,jazzhr,roush,,,2,not reached this run
+Schaeffler,sfrmk,jobs.schaeffler.com,,,1,not reached this run
+Scout Motors,greenhouse,scoutmotors,,,8,not reached this run
+Serve Robotics,ashby,serverobotics,,,1,not reached this run
+Slate Auto,workday,recar|wd108|SLATEcareers,0,,4,error: skipped (rate limited); lists nothing now (listed 100 before)
+Sonatus,greenhouse,sonatus,,,1,not reached this run
+Stack AV,greenhouse,stackav,,,4,not reached this run
+Stellantis,mcloud,2016|careers.stellantis.com,,,100,not reached this run
+Stoneridge,workday,stoneridge|wd5|Careers,0,,2,error: skipped (rate limited)
+TE Connectivity,sfrmk,careers.te.com,,,1,not reached this run
+TEKsystems,phenom,careers.teksystems.com|us/en,,,1,not reached this run
+Texas Instruments,oracle,edbz.fa.us2.oraclecloud.com|CX,,,4,not reached this run
+Torc Robotics,greenhouse,torcrobotics,,,13,not reached this run
+Toyota,workday,toyota|wd503|tmna,0,,1,error: skipped (rate limited); lists nothing now (listed 127 before)
+Valeo,workday,valeo|wd3|valeo_jobs,0,,4,error: skipped (rate limited); lists nothing now (listed 88 before)
+Vector North America,workable,vectornorthamerica,,,1,not reached this run
+Volkswagen Group,sfrmk,jobs.volkswagen-group.com,,,1,not reached this run
+Volvo Group (Volvo Trucks / Mack),sfrmk,jobs.volvogroup.com,,,1,not reached this run
+Waabi,lever,waabi,,,8,not reached this run
+Wabtec,smartrecruiters,Wabtec,,,12,not reached this run
+Waymo,greenhouse,waymo,,,3,not reached this run
+Wayve,ashby,wayve,,,11,not reached this run
+Woodward,workday,woodward|wd5|woodward,0,,1,error: skipped (rate limited); lists nothing now (listed 94 before)
+Woven by Toyota,lever,woven-by-toyota,,,13,not reached this run
+Xos Trucks,greenhouse,xosinc,,,1,not reached this run
+ZF,sfrmk,jobs.zf.com,,,5,not reached this run
+Zoox,lever,zoox,,,24,not reached this run
