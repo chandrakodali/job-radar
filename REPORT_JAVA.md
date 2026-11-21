@@ -1,14 +1,16 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**167 jobs**, newest first. Updated Fri Nov 20, 5:01 PM CST from 12,571 company job boards and other sources.
+**168 jobs**, newest first. Updated Fri Nov 20, 5:49 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 191 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 20 (10)](#friday-nov-20-10) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (20)](#wednesday-nov-18-20) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (75)](#saturday-nov-14-75)
+Coverage check: of 2,723 matching jobs that job sites and feeds listed this week, 725 (26%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Friday, Nov 20 (10)
+Jump to: [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (20)](#wednesday-nov-18-20) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (75)](#saturday-nov-14-75)
+
+## Friday, Nov 20 (11)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -20,6 +22,7 @@ Jump to: [Fri 20 (10)](#friday-nov-20-10) · [Thu 19 (15)](#thursday-nov-19-15) 
 | date only | [Java Developer - Credit Risk Technology - Officer](https://citi.eightfold.ai/careers/job/859038862298) | Citi | Irving, TX, US (hybrid) | 80 | 2+ yrs exp |
 | date only | [Software Development Engineer II, FleetWatch Team](https://www.amazon.jobs/en/jobs/10610684/software-development-engineer-ii-fleetwatch-team) | Amazon Data Services, Inc. | Seattle, Washington, USA | 40 | 3+ yrs exp; requires Java |
 | date only | [Java Developer](https://careers.capgemini.com/job/New-York%2C-NY-Java-Developer-NY-10001/1459446733/) | Capgemini | New York, NY, United States | 65 | repost |
+| date only | [Backend Developer Consultant](https://bitovi.applytojob.com/apply/UgQDHFAUZm/Backend-Developer-Consultant) | Bitovi | Remote (US) (remote) | 42 | no future H-1B sponsorship; requires Java |
 | 10:35 AM | [Senior Java Engineer - Order Management System](https://jobs.workable.com/view/ipM4SCCAfMYx6t3RqXbtAV/senior-java-engineer---order-management-system-in-massachusetts-at-man-group) | Man Group | Massachusetts (onsite) | 60 | senior title, years not stated |
 | 8:00 AM | [Associate, Full-stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83835) | BNY | Jersey City, NJ, United States | 55 | entry-level title; 3+ yrs exp; requires Java |
 
@@ -210,7 +213,7 @@ Jump to: [Fri 20 (10)](#friday-nov-20-10) · [Thu 19 (15)](#thursday-nov-19-15) 
 | date only | [Full-Stack Software Engineer II / Java, React & AWS](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Shakopee-MN-GHQ/Software-Developer-II---Java---Instant-ID-as-a-Service---Secura_R004285) | Entrust | United States - Shakopee, MN (GHQ) | 55 | 3+ yrs exp |
 | date only | [New York NY Java Developer NY 10001](https://careers.capgemini.com/job/New-York%2C-NY-Java-Developer-NY-10001/1444869133/) | Capgemini | NY 10001, United States | 53 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (352)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (353)
 
 <details><summary>Show</summary>
 
@@ -225,6 +228,7 @@ Jump to: [Fri 20 (10)](#friday-nov-20-10) · [Thu 19 (15)](#thursday-nov-19-15) 
 | 11:02 AM | [Sr AWS Cloud Integration Engineer - Remote](https://weworkremotely.com/remote-jobs/coderio-sr-aws-cloud-integration-engineer-remote) | Coderio | Remote, US (Americas Only) (remote) | 27 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
 | date only | [Full-Stack Software Engineer](https://jobs.jobvite.com/visionist/job/oFb8Afwi) | Visionist | Columbia, MD, United States | 30 | rules: 14+ yrs exp; requires Java; needs: security clearance |
 | date only | [Cloud Software Engineer](https://jobs.jobvite.com/visionist/job/oeb8AfwR) | Visionist | Columbia, MD, United States; Laurel, MD… | 30 | rules: 6+ yrs exp; requires Java; needs: security clearance |
+| date only | [Senior Back End Java Developer](https://citi.eightfold.ai/careers/job/859039051648) | Citi | Tampa, FL, US (hybrid) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 8:41 AM | [Java developer - Kafka, MQ, FIX, FpML - 15+ Years of experience (Full…](https://jobs.smartrecruiters.com/SyncreonConsulting/744000162749716-java-developer-kafka-mq-fix-fpml-15-years-of-experience-full-time-) | Syncreon Consulting | New York, NY, United States | 40 | rules: 10+ yrs exp; staffing/consulting firm: verify it's real; asks … |
 | 12:22 AM | [Senior Software Developer](https://jobs.lever.co/jobgether/0cc38caa-2e73-4be4-9718-81f16907f450) | Jobgether | US (remote) | 27 | rules: 6+ yrs exp; senior title; requires Java; asks for 6+ years of … |
 | 11:00 PM | [Senior Application Engineer (REMOTE or HYBRID TO MA)](https://jobs.dayforcehcm.com/en-US/thg/allcareers/jobs/49240) | Thg | Worcester, MA, US (remote) | 27 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
