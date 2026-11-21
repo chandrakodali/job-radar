@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**545 jobs**, newest first. Updated Sat Nov 21, 10:49 AM CST from 12,571 company job boards and other sources.
+**538 jobs**, newest first. Updated Sat Nov 21, 11:07 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 294 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (318)](#saturday-nov-14-318)
+Coverage check: of 2,939 matching jobs that job sites and feeds listed this week, 1,251 (42%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (311)](#saturday-nov-14-311)
 
 ## Saturday, Nov 21 (2)
 
@@ -270,7 +272,7 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) ·
 | date only | [Azure DevOps Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Azure-DevOps-Engineer/373104) | Deloitte US |  | 55 | location unclear |
 | 8:37 AM (seen) | [AWS Data Engineer](https://app.dover.com/apply/comsparkint/6bf1aa8d-7982-43b1-9af1-2e94c7bfdc7f) | Comsparkint | Irvine, CA (onsite) | 55 |  |
 
-## Saturday, Nov 14 (318)
+## Saturday, Nov 14 (311)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -585,13 +587,6 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) ·
 | 2:37 PM (seen) | [Software Engineer - Terraform Foundations](https://careers.ibm.com/careers/JobDetail?jobId=138604) | IBM | Multiple Cities (hybrid) | 50 |  |
 | 2:37 PM (seen) | [Entry Level Cloud Developer - Network Services](https://careers.ibm.com/careers/JobDetail?jobId=139663) | IBM | Austin, United States (hybrid) | 60 | entry-level title |
 | 11:32 AM | [DevOps Security Engineer](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013709) | Emerson Electric | Shakopee, MN, United States (hybrid) | 60 | 3+ yrs exp; no future H-1B sponsorship |
-| date only | [Machine Learning Infrastructure Engineer](https://apply.workable.com/raydar/j/A0FB08A1A8/) | Raydar | San Francisco, California, United States | 65 | repost |
-| date only | [Senior Cloud Infrastructure Engineer](https://apply.workable.com/raydar/j/6D4A3A5075/) | Raydar | United States (remote) | 52 | senior title, years not stated |
-| date only | [Senior Network Security Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893396402568) | Nvidia | Santa Clara, CA, US; US (remote) | 40 | senior title, years not stated |
-| date only | [Senior Production Engineer, Object Store - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893396422329) | Nvidia | Santa Clara, CA, US; US (remote) | 40 | senior title, years not stated |
-| date only | [HPC Operations Engineer - EDA Infrastructure](https://nvidia.eightfold.ai/careers/job/893393995133) | Nvidia | Santa Clara, CA, US; Durham, NC, US; Au… (onsite) | 68 | 2+ yrs exp |
-| date only | [Deployment Engineer (Tuesday-Saturday workweek)](https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Dallas-TX/Deployment-Engineer_R44680) | SS&C | Dallas, TX; Kansas City, MO | 53 | 2+ yrs exp |
-| date only | [Sr. DevOps Engineer - Trading & Supply](https://indigobeam.zohorecruit.com/jobs/Careers/792375000009305132/Sr-DevOps-Engineer-Trading-Supply) | Indigobeam | Houston, Texas, United States | 48 | senior title, years not stated |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (637)
 
