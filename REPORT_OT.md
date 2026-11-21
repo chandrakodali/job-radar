@@ -1,10 +1,12 @@
 # OT Network Engineer jobs in the US: posted in the last 7 days
 
-**17 jobs**, newest first. Updated Fri Nov 20, 9:38 PM CST from 12,571 company job boards.
+**17 jobs**, newest first. Updated Fri Nov 20, 11:31 PM CST from 12,526 company job boards.
 
 US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and OT security roles; controls, automation or network titles only when the job is about networks in an OT/industrial setting). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 1 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 135 matching jobs that job sites and feeds listed this week, 44 (32%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 20 (7)](#friday-nov-20-7) · [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (3)](#tuesday-nov-17-3) · [Mon 16 (1)](#monday-nov-16-1) · [Sun 15 (1)](#sunday-nov-15-1)
 
@@ -55,7 +57,7 @@ Jump to: [Fri 20 (7)](#friday-nov-20-7) · [Thu 19 (3)](#thursday-nov-19-3) · [
 |---|---|---|---|---:|---|
 | 2:00 AM | [Senior Operational Technology SCADA Systems Administrator - Cybersecu…](https://jobs.nexteraenergy.com/job/Palm-Beach-Gardens-Senior-Operational-Technology-SCADA-Systems-Administrator-Cybersecurity-and-Resiliency-FL-33410/1431619000/) | NextEra Energy | Palm Beach Gardens, FL, United States | 48 | 4+ yrs exp; senior title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (18)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (19)
 
 <details><summary>Show</summary>
 
@@ -70,6 +72,7 @@ Jump to: [Fri 20 (7)](#friday-nov-20-7) · [Thu 19 (3)](#thursday-nov-19-3) · [
 | 12:00 AM | [OT Infrastructure Engineer - Southeast](https://jobs.dayforcehcm.com/en-US/inframark/CANDIDATEPORTAL/jobs/13492) | Inframark | North Charleston, SC, US; Norcross, GA,… | 38 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:01 PM | [Controls Engineer III](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6e5e668b-df4e-4982-ad00-158f7895f112&ccId=9201700435142_2&jobId=9207821749098_51&lang=en_US) | 6E5E668B Df4E 4982 Ad00 158F7… | Bayou La Batre, AL | 23 | rules: 5+ yrs exp; senior title; OT network work in the text; needs: … |
 | 4:47 PM | [Senior Infrastructure Security Engineer (Cloud & On-Prem)](https://job-boards.greenhouse.io/valaratomics/jobs/4510605009) | Valaratomics | Torrance, California, United States | 23 | rules: 7+ yrs exp; senior title; OT network work in the text; needs: … |
+| date only | [Software Engineer - Level 3 - Operational Technology](https://careers.cintas.com/job/Mason-Software-Engineer-Level-3-Operational-Technology-OH-45040/1451739900/) | Cintas | Mason, OH, United States | 33 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 11:54 AM | [Industrial Security Specialist III](https://careers.akima.com/jobs/28052?lang=en-us) | Akima | Rosslyn, Virginia | 38 | rules: 5+ yrs exp; senior title; needs: security clearance |
 | 7:20 PM | [Industrial Security Specialist](https://jobs.ashbyhq.com/hadrian-automation/66993080-87be-4608-82e5-780d3757358c) | Hadrian | Los Angeles, CA (onsite) | 53 | rules: 4+ yrs exp; needs: security clearance |
 | date only | [Advisor III, OT Cyber Security](https://careers.phillips66.com/job/Bartlesville-Advisor-III%2C-OT-Cyber-Security-OK-74004/1451102300/) | Phillips 66 | Bartlesville, OK, United States | 43 | rules: 3+ yrs exp; senior title; no future H-1B sponsorship; needs: m… |
