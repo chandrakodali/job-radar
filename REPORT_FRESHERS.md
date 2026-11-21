@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**519 jobs**, newest first. Updated Fri Nov 20, 11:03 PM CST from 12,571 company job boards and other sources.
+**519 jobs**, newest first. Updated Fri Nov 20, 11:49 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 253 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,740 matching jobs that job sites and feeds listed this week, 930 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (81)](#friday-nov-20-81) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141)
 
@@ -817,6 +819,8 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (81)](#friday-nov-20-81) ·
 | date only | [Network Test and Automation Engineer](https://careers.capgemini.com/job/Santa-Clara%2C-CA-Network-Test-and-Automation-Engineer-CA-95050/1459452033/) | Capgemini | Santa Clara, CA, United States | 53 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Data Engineer](https://careers.seattlechildrens.org/us/en/job/SEASCHUSR265391EXTERNALENUS) | Seattle Children's Hospital | Seattle, Washington | 68 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Software Engineering Technical Leader, Forward Deployment Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2032564EXTERNALENGLOBAL) | Cisco | San Francisco, California, United State… | 38 | rules: 12+ yrs exp; asks for 12+ years of experience |
+| date only | [Direct Sale Specialist](https://careers.cintas.com/job/Mobile-Direct-Sale-Specialist-AL-36601/1452628300/) | Cintas | Mobile, AL, United States | 53 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Guidewire PolicyCenter Cloud API & SOLR Search Engineer](https://careers.capgemini.com/job/New-York%2C-NY-Guidewire-PolicyCenter-Cloud-API-&-SOLR-Search-Engineer-NY-10001/1459413233/) | Capgemini | New York, NY, United States | 38 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:53 AM | [Lifecycle Data Capabilities Analyst](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/85949) | eClerx | Austin, Texas, United States; San Jose,… | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:46 AM | [IT Support Specialist](https://jobs.ashbyhq.com/onebrief/18ce2342-3a10-4525-b862-9530b8ae0a9f) | Onebrief | United States / Remote (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 10:46 AM | [Applications Engineer / INT TRX](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020323) | Texas Instruments | Dallas, TX, United States +1 more | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -971,7 +975,5 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (81)](#friday-nov-20-81) ·
 | 3:16 PM | [ADAS Feature Systems Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71259) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 55 | rules: 5+ yrs exp; sponsors visas; asks for 5+ years of experience |
 | 3:15 PM | [Full Stack Software Engineer - Video](https://jobs.ashbyhq.com/substack/c9b64abb-ff7d-441b-834d-8d17285bce32) | Substack | San Francisco (HQ); New York; Remote (hybrid) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 3:15 PM | [Data Engineer](https://job-boards.greenhouse.io/acuitymd/jobs/6266794004) | AcuityMD | Boston or Remote +1 more (remote) | 67 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
-| 3:12 PM | [Utility Infrastructure Telecom Design QC Engineer / Specialist](https://jobs.smartrecruiters.com/AECOM2/744000162605299-utility-infrastructure-telecom-design-qc-engineer-specialist) | AECOM | Kansas City, MO, United States (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 3:09 PM | [Data Scientist](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5489923008) | AffirmedRx | Remote (remote) | 67 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 
 </details>
