@@ -1,10 +1,10 @@
 # Auto Radar: latest matches
 
-Watching **12,613 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
+Watching **12,662 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
 
 Last new match: **Fri Nov 20, 09:23 PM EST**. Score is 0–100 and uses no AI: the full job text is read section by section. "Has" lists the resume's skills the job asks for; "Missing" lists skills the job requires that the resume does not show. The score weighs how much of what the job asks the resume covers, the title, years required (the MS path counts), the industry, word overlap with the resume, freshness and location. Visa sponsorship moves it by 2 points at most. Full history: [data/automotive/matches.csv](data/automotive/matches.csv).
 
-## Posted in the last 24 hours (19)
+## Posted in the last 24 hours (18)
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
@@ -16,7 +16,6 @@ Last new match: **Fri Nov 20, 09:23 PM EST**. Score is 0–100 and uses no AI: t
 | 75 | [Embedded Software Engineer - Medical Devices](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=12c50d6c-1baa-481b-a7ac-bc6c1aeda42a&ccId=19000101_000001&jobId=9201318773014_23&lang=en_US) | 12C50D6C 1Baa 481B A7Ac Bc6C1… | Durham, NC | Nov 20 | C, Embedded software, C++, Unit testing, Code reviews, Git, Polarion/Jama/codebeamer, Sof… | Aerospace/industrial safety (DO-178C/IEC 61508), Microcontr… | 3+ yrs; E-Verify; no visa sponsorship |
 | 75 | [Embedded Software Engineer - Medical Devices](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=12c50d6c-1baa-481b-a7ac-bc6c1aeda42a&ccId=19000101_000001&jobId=9201318773014_57&lang=en_US) | 12C50D6C 1Baa 481B A7Ac Bc6C1… | Carlsbad, CA | Nov 20 | C, Embedded software, C++, Unit testing, Code reviews, Git, Polarion/Jama/codebeamer, Sof… | Aerospace/industrial safety (DO-178C/IEC 61508), Microcontr… | 3+ yrs; E-Verify; no visa sponsorship |
 | 69 | [Software Engineer, Embedded Software](https://jobs.apple.com/en-us/details/200696251/software-engineer-embedded-software) | Apple | United States of America | Nov 20 | Embedded software | – |  |
-| 68 | [Embedded 5G/4G Cellular RF Software/Firmware Engineer](https://jobs.apple.com/en-us/details/200696017/embedded-5g-4g-cellular-rf-software-firmware-engineer) | Apple | United States of America | Nov 19 | Embedded software | – |  |
 | 68 | [Senior Firmware Engineer](https://job-boards.greenhouse.io/asteralabs/jobs/4756283005) | Astera Labs | San Jose, California, United States | Nov 20 | C, Embedded software, C++, Git, Python | Device drivers/BSP, Microcontrollers, RTOS | 2+ yrs |
 | 66 | [Project Engineer - TRATON R&D US, LLC](https://careers.international.com/jobs/60175?lang=en-us) | International Motors | Lisle, Illinois | Nov 20 | ADAS, ECU software, CAN/CAN FD, Automotive software, Agile/Scrum/Jira | – | 2+ yrs |
 | 62 | [Senior Automation Controls Engineer](https://job-boards.greenhouse.io/amperesand/jobs/4516530009) | Amperesand | Reno, Nevada, United States | Nov 20 | Controls/algorithms, Functional safety, Vehicle dynamics/chassis, Embedded software, Agil… | Inverter/power electronics | 5+ yrs; contract |
@@ -28,9 +27,9 @@ Last new match: **Fri Nov 20, 09:23 PM EST**. Score is 0–100 and uses no AI: t
 | 43 | [Senior Embedded Engineer - Intercom](https://job-boards.greenhouse.io/verkada/jobs/5304458007) | Verkada | San Mateo, CA United States | Nov 20 | C, C++ | Device drivers/BSP, Embedded Linux/kernel, Cybersecurity (I… | 7+ yrs |
 | 42 | [Operations Engineer V - Transmission Operations - Akron Control Center](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FirstEnergyCareers/job/105809) | FirstEnergy | Akron, OH, United States; Fairmont, WV,… (onsite) | Nov 20 |  | – | 2+ yrs; stretch: senior-level title |
 
-## Found in the last 60 days, posted earlier (1822)
+## Found in the last 60 days, posted earlier (1823)
 
-Showing the 400 best of 1822; the rest are in the full history file.
+Showing the 400 best of 1823; the rest are in the full history file.
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
