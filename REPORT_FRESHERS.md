@@ -1,12 +1,10 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**518 jobs**, newest first. Updated Fri Nov 20, 6:49 PM CST from 12,526 company job boards and other sources.
+**518 jobs**, newest first. Updated Fri Nov 20, 7:02 PM CST from 12,571 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 248 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 4,602 matching jobs that job sites and feeds listed this week, 898 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141) · [Fri 13 (2)](#friday-nov-13-2)
 
