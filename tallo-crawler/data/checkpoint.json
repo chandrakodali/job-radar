@@ -18,18 +18,6 @@
   "core_remaining": 0,
   "pending": [
     {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nj/alpine",
-      "label": "Alpine",
-      "count": 1,
-      "deferred_once": true
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nj/flemington",
-      "label": "Flemington",
-      "count": 1,
-      "deferred_once": true
-    },
-    {
       "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/nj/little-falls",
       "label": "Little Falls",
       "count": 1,
