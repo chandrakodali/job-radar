@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**518 jobs**, newest first. Updated Sat Nov 21, 1:33 PM CST from 12,571 company job boards and other sources.
+**453 jobs**, newest first. Updated Sat Nov 21, 2:19 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-252 repeat listings (same company and title in another place or on another source) are merged into one row.
+161 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21) · [Sat 14 (135)](#saturday-nov-14-135)
+Coverage check: of 5,015 matching jobs that job sites and feeds listed this week, 993 (19%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21) · [Sat 14 (70)](#saturday-nov-14-70)
 
 ## Saturday, Nov 21 (9)
 
@@ -426,7 +428,7 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Bay Plaza](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825513) | Macy's | Bronx, NY, United States | 75 | entry-level title |
 | 3:27 AM | [Administrative Support Team Associate, Glendale Galleria - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825453) | Macy's | Glendale, CA, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Saturday, Nov 14 (135)
+## Saturday, Nov 14 (70)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -440,9 +442,9 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 5:27 PM | [Seasonal Fulfillment and Receiving Support Associate, Orland Square](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825375) | Macy's | Orland Park, IL, United States | 75 | entry-level title |
 | 4:19 PM (seen) | [Junior Robotics Software Engineer](https://app.dover.com/apply/alpha1robotics/7f098d3e-3028-4522-bec7-4d5c16220a92) | Alpha1Robotics | Dallas, TX (onsite) | 75 | entry-level title; 1+ yrs exp |
 | 4:19 PM (seen) | [Associate Data Scientist](https://app.dover.com/apply/apparatusai/f15799cd-36af-406c-9296-2f3f158c3b71) | Apparatusai | International (remote) | 62 | entry-level title; 0-2 yrs exp; location unclear |
-| 2:59 PM (seen) | [Entry level Hardware Developer - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=136985) | IBM | Austin, United States +1 more (hybrid) | 65 | entry-level title; repost |
 | 2:59 PM (seen) | [Associate Application Developer 2027- ServiceNow](https://careers.ibm.com/careers/JobDetail?jobId=128753) | IBM | BATON ROUGE, United States (hybrid) | 65 | entry-level title |
 | 2:59 PM (seen) | [Entry Level Compliance EMC HW Developer - Rochester, MN - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131991) | IBM | ROCHESTER, United States (hybrid) | 65 | entry-level title |
+| 2:59 PM (seen) | [Entry level Hardware Developer - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=136985) | IBM | Austin, United States (hybrid) | 65 | entry-level title; repost |
 | 2:59 PM (seen) | [Associate SAP Supply Chain Consultant 2027](https://careers.ibm.com/careers/JobDetail?jobId=130377) | IBM | BATON ROUGE, United States (hybrid) | 65 | entry-level title |
 | 2:59 PM (seen) | [Software Engineer - New Grad, 2027](https://app.careerpuck.com/job-board/domino-data-lab/job/jeINshBW) | Domino Data Lab | New York City, New York | 60 | entry-level title |
 | 2:59 PM (seen) | [Associate Engineer Primary Container Testing Characterization Qualifi…](https://3kc.catsone.com/careers/2010-General/jobs/16870629-Associate-Engineer--Primary-Container-Testing-Characterization--Qualification-Biopharmaceuticals--JP16067/) | 3Kc |  | 55 | entry-level title; location unclear |
@@ -500,78 +502,14 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 2:59 PM (seen) | [Production Support Engineer - Watertown, WI](https://gloryglobal.pinpointhq.com/en/postings/a045ad78-0045-4ca9-a59f-0acf855dd86f) | Gloryglobal | United States/Watertown, WI (onsite) | 65 | 1+ yrs exp |
 | 2:59 PM (seen) | [Information Security Specialist](https://tabby.pinpointhq.com/en/postings/a88aaefb-6478-48e6-be57-5694ec01a059) | Tabby | KSA (onsite) | 60 | 1+ yrs exp; location unclear |
 | 2:59 PM (seen) | [IT Technician](https://hopwood.pinpointhq.com/en/postings/d1cbf1c7-b910-417b-8ad1-c6d27302e68e) | Hopwood | Middleton (onsite) | 60 | 1+ yrs exp; location unclear |
-| 2:10 PM (seen) | [Backend Software Engineer Graduate (Business Governance) - 2027 Start](https://lifeattiktok.com/search/7663042453461600517) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [Site Reliability Engineer Graduate (Global SRE) - 2027 Start](https://lifeattiktok.com/search/7668701361741007109) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [Machine Learning Engineer Graduate (Brand Ads) - 2027 Start](https://lifeattiktok.com/search/7668663594419374341) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [Frontend Software Engineer Graduate (Global CRM) - 2027 Start](https://lifeattiktok.com/search/7668561079544154373) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [Software Engineer Graduate(Ads Infrastructure) - 2027 Start](https://lifeattiktok.com/search/7668879883938203957) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [AI Software Engineer Graduate (TikTok-PGC-OGC&Creator Strategy) - 202…](https://lifeattiktok.com/search/7672976491146004741) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [Data Business Analyst - Graduate (GBS) - 2027 Start](https://lifeattiktok.com/search/7690792271319943429) | TikTok | New York, New York, United States of Am… | 60 | entry-level title |
-| 2:10 PM (seen) | [Data Engineer Graduate (Monetization Data) - 2027 Start](https://lifeattiktok.com/search/7668550561096665397) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [Software Engineer/Mobile Engineer Graduate (Ads Core Demonstration) -…](https://lifeattiktok.com/search/7668701834807101749) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [Backend Engineer Graduate (Account) - 2027 Start](https://lifeattiktok.com/search/7696779797359233333) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [Recommendation Architecture AI/ML Infrastructure Engineer Graduate (D…](https://lifeattiktok.com/search/7670876337129425205) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [ML Infra Engineer Graduate (Ads Infra) - 2027 Start](https://lifeattiktok.com/search/7668693662561634613) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [US Logistics Solutions & Operations Specialist Graduate (TikTok Shipp…](https://lifeattiktok.com/search/7671038093061572869) | TikTok | Fontana, California, United States of A… | 60 | entry-level title |
-| 2:10 PM (seen) | [Junior Solutions Engineer - Partnerships, Ads](https://lifeattiktok.com/search/7496763358990993672) | TikTok | New York, New York, United States of Am… | 70 | entry-level title; 1+ yrs exp |
-| 2:10 PM (seen) | [US Ecosystem Analyst Graduate (LLM/Enforcement) - TikTok LIVE - 2026 …](https://lifeattiktok.com/search/7687813753283332357) | TikTok | Los Angeles, California, United States … | 60 | entry-level title |
-| 2:10 PM (seen) | [Fullstack Software Engineer Graduate (Global E-commerce) - 2027 Start](https://lifeattiktok.com/search/7668828193675036981) | TikTok | Seattle, Washington, United States of A… | 60 | entry-level title |
-| 2:10 PM (seen) | [AI Systems Engineer Graduate (AI Code Infrastructure-Agentic Ops US) …](https://lifeattiktok.com/search/7665989305914984709) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [Software Development Engineer Graduate (Global E-Commerce-Quality Pla…](https://lifeattiktok.com/search/7668827381435517237) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [AI Engineer Graduate (Client Arch) - 2027 Start](https://lifeattiktok.com/search/7664978367107713333) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [Data Analyst Graduate (Supply Chain and Logistics- Fulfillment Center…](https://lifeattiktok.com/search/7675510156642142469) | TikTok | Fontana, California, United States of A… | 60 | entry-level title |
-| 2:10 PM (seen) | [AI Infra Engineer Graduate (Recommendation & LLM) - 2027 Start](https://lifeattiktok.com/search/7672654026594093317) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [Machine Learning MLOps Engineer Graduate (MLOps) - 2027 Start](https://lifeattiktok.com/search/7668700671828707589) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [Strategy & Analytics Associate Graduate (TikTok Shop) - 2027 Start (M…](https://lifeattiktok.com/search/7673802858366535989) | TikTok | Los Angeles, California, United States … | 60 | entry-level title |
-| 2:10 PM (seen) | [Solutions Engineer Graduate (Advertisement Team) - 2027 Start](https://lifeattiktok.com/search/7675084972638046517) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [Merchant Support Specialist Graduate (Supply Chain and Logistics-Fulf…](https://lifeattiktok.com/search/7672544569011964213) | TikTok | Fontana, California, United States of A… | 60 | entry-level title |
-| 2:10 PM (seen) | [Machine Learning Engineer Graduate (Ads Targeting)- 2027 Start](https://lifeattiktok.com/search/7668629846058223877) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [Big Data Engineer Graduate (TikTok Recommendation Architecture) - 202…](https://lifeattiktok.com/search/7672518398222387461) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 2:10 PM (seen) | [Technical Solution Specialist Apprentice](https://careers.ibm.com/careers/JobDetail?jobId=133797) | IBM | Multiple Cities | 60 | entry-level title |
-| 2:10 PM (seen) | [Entry Level IBM Z Engineering System Test Hardware Engineer - Poughke…](https://careers.ibm.com/careers/JobDetail?jobId=137694) | IBM | POUGHKEEPSIE, United States (hybrid) | 65 | entry-level title |
-| 2:10 PM (seen) | [Associate Data Scientist 2027 - AI & Data Analytics](https://careers.ibm.com/careers/JobDetail?jobId=129127) | IBM | Chicago, United States +1 more | 60 | entry-level title |
-| 2:10 PM (seen) | [Associate Application Developer - Oracle - 2027](https://careers.ibm.com/careers/JobDetail?jobId=129123) | IBM | BATON ROUGE, United States (hybrid) | 65 | entry-level title |
-| 2:10 PM (seen) | [Entry Level Back End Developer 2026](https://careers.ibm.com/careers/JobDetail?jobId=73787) | IBM | POUGHKEEPSIE, United States (hybrid) | 65 | entry-level title |
-| 2:10 PM (seen) | [Entry Level Hardware Developer 2027 -Poughkeepsie](https://careers.ibm.com/careers/JobDetail?jobId=130874) | IBM | POUGHKEEPSIE, United States (hybrid) | 65 | entry-level title |
-| 2:10 PM (seen) | [Entry Level Software Developer-Different locations](https://careers.ibm.com/careers/JobDetail?jobId=130369) | IBM | Multiple Cities (hybrid) | 65 | entry-level title |
-| 2:10 PM (seen) | [Software Engineer Apprentice](https://careers.ibm.com/careers/JobDetail?jobId=137919) | IBM | Armonk, United States | 60 | entry-level title |
-| 2:10 PM (seen) | [Associate Consultant - Oracle Cloud 2027](https://careers.ibm.com/careers/JobDetail?jobId=128766) | IBM | Chicago, United States | 60 | entry-level title |
-| 2:10 PM (seen) | [Associate Security Consultant - Strategy, Risk & Compliance 2027](https://careers.ibm.com/careers/JobDetail?jobId=128546) | IBM | Chicago, United States +1 more | 60 | entry-level title |
-| 2:10 PM (seen) | [Associate Application Developer Salesforce -2027](https://careers.ibm.com/careers/JobDetail?jobId=128812) | IBM | BATON ROUGE, United States (hybrid) | 65 | entry-level title |
-| 2:10 PM (seen) | [Mainframe Z System Verification Tester Apprentice](https://careers.ibm.com/careers/JobDetail?jobId=137080) | IBM | POUGHKEEPSIE, United States | 60 | entry-level title |
-| 2:10 PM (seen) | [Mainframe System Verification Tester Apprentice](https://careers.ibm.com/careers/JobDetail?jobId=138943) | IBM | POUGHKEEPSIE, United States | 60 | entry-level title |
-| 2:10 PM (seen) | [Associate Package Specialist - Oracle Cloud 2027](https://careers.ibm.com/careers/JobDetail?jobId=129888) | IBM | Chicago, United States | 60 | entry-level title |
-| 2:10 PM (seen) | [Technical Specialist Apprentice - Federal](https://careers.ibm.com/careers/JobDetail?jobId=135269) | IBM | Rocket Center, United States (hybrid) | 65 | entry-level title |
-| 2:10 PM (seen) | [Entry Level QA/Test Engineer- Tucson, AZ](https://careers.ibm.com/careers/JobDetail?jobId=138550) | IBM | TUCSON, United States (hybrid) | 65 | entry-level title |
-| 2:10 PM (seen) | [Federal Associate Technical Specialist (Rocket Center, WV)](https://careers.ibm.com/careers/JobDetail?jobId=127927) | IBM | Rocket Center, United States | 60 | entry-level title |
-| 2:10 PM (seen) | [Data Engineer-Business Intelligence - 1](https://careers.ibm.com/careers/JobDetail?jobId=135187) | IBM | Multiple Cities (hybrid) | 65 | entry-level title |
-| 2:10 PM (seen) | [Associate Data Engineer - AI & Analytics - 2027](https://careers.ibm.com/careers/JobDetail?jobId=129114) | IBM | MONROE, United States +1 more (hybrid) | 65 | entry-level title |
-| 2:10 PM (seen) | [Federal Associate Consultant - Salesforce (Rocket Center, WV)](https://careers.ibm.com/careers/JobDetail?jobId=127929) | IBM | Rocket Center, United States | 60 | entry-level title |
-| 2:10 PM (seen) | [Associate Oracle Specialist – 2027](https://careers.ibm.com/careers/JobDetail?jobId=141129) | IBM | BATON ROUGE, United States (hybrid) | 65 | entry-level title |
-| 2:10 PM (seen) | [Associate Developer – Adobe 2027](https://careers.ibm.com/careers/JobDetail?jobId=128778) | IBM | San Francisco, United States | 60 | entry-level title |
-| 2:10 PM (seen) | [Associate SAP Technology Specialist – 2027](https://careers.ibm.com/careers/JobDetail?jobId=128927) | IBM | BATON ROUGE, United States (hybrid) | 65 | entry-level title |
-| 2:10 PM (seen) | [Entry Level Supply Chain Hardware Developer](https://careers.ibm.com/careers/JobDetail?jobId=137683) | IBM | Multiple Cities (hybrid) | 65 | entry-level title |
-| 2:10 PM (seen) | [Associate Data Engineer 2027 - AI & Data Analytics](https://careers.ibm.com/careers/JobDetail?jobId=128608) | IBM | Chicago, United States | 60 | entry-level title |
-| 2:10 PM (seen) | [Entry Level Cloud Developer - Network Services](https://careers.ibm.com/careers/JobDetail?jobId=139663) | IBM | Austin, United States (hybrid) | 65 | entry-level title |
-| 2:10 PM (seen) | [Software Engineer, C/C++ SDK Performance Optimization](https://lifeattiktok.com/search/7628834530694416693) | TikTok | San Jose, California, United States of … | 60 | entry level (from the text) |
-| 2:10 PM (seen) | [Machine Learning Engineer, E-commerce Feed Recommendation](https://lifeattiktok.com/search/7276262058998368572) | TikTok | Seattle, Washington, United States of A… | 70 | 1+ yrs exp; entry level (from the text) |
-| 2:10 PM (seen) | [Data Scientist (PGC) - TikTok](https://lifeattiktok.com/search/7673215338318367029) | TikTok | San Jose, California, United States of … | 70 | 1+ yrs exp; entry level (from the text) |
-| 2:10 PM (seen) | [Machine Learning Engineer (Content Ecology & Creator) -E-commerce Gov…](https://lifeattiktok.com/search/7595416370108533045) | TikTok | Seattle, Washington, United States of A… | 70 | 1+ yrs exp; entry level (from the text) |
-| 2:10 PM (seen) | [Frontend Software Engineer, Global CRM Platform](https://lifeattiktok.com/search/7104433489986734350) | TikTok | San Jose, California, United States of … | 70 | 1+ yrs exp; entry level (from the text) |
-| 2:10 PM (seen) | [Machine Learning Engineer, Multimodal - Intelligent Integrity](https://lifeattiktok.com/search/7603315698139744517) | TikTok | San Jose, California, United States of … | 60 | 1+ yrs exp |
-| 2:10 PM (seen) | [Software Engineer, AI Agent](https://lifeattiktok.com/search/7626968373985429765) | TikTok | San Jose, California, United States of … | 60 | 1+ yrs exp |
-| 2:10 PM (seen) | [Business Intelligence Technical Analyst - Trust and Safety](https://lifeattiktok.com/search/7667632457230960949) | TikTok | San Jose, California, United States of … | 70 | 1+ yrs exp; entry level (from the text) |
-| 2:10 PM (seen) | [Backend Software Engineer - Offense & Defense - PDPO](https://lifeattiktok.com/search/7670384219637664053) | TikTok | San Jose, California, United States of … | 70 | 1+ yrs exp; entry level (from the text) |
-| 2:10 PM (seen) | [Software Engineer, Ads Data](https://lifeattiktok.com/search/7555651631808858375) | TikTok | San Jose, California, United States of … | 60 | 1+ yrs exp |
-| 2:10 PM (seen) | [Software Engineer, Global CRM Platform](https://lifeattiktok.com/search/7281061641377106234) | TikTok | San Jose, California, United States of … | 70 | 1+ yrs exp; entry level (from the text) |
-| 2:10 PM (seen) | [SW Developer / AI Center of Excellence - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131165) | IBM | Austin, United States (hybrid) | 65 | entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2286)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2129)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 2:12 PM | [Environmental Test Equipment & Calibration Technician](https://job-boards.greenhouse.io/muonspace/jobs/5306016007) | Muon Space | San Jose, CA | 60 | rules: 4+ yrs exp; needs: Must be a U.S. Citizen |
 | 11:44 AM | [Creative AI Engineer](https://jobs.ashbyhq.com/harvey/e46d48b8-57c7-401c-be33-f56774dc072d) | Harvey | San Francisco +1 more (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:17 AM | [Mid-Level AI Engineer](https://jobs.ashbyhq.com/Clera/5fdb38a1-7f61-4afb-80ed-481afc7938f4) | Clera | San Francisco (onsite) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Software Engineer – India ComSec (NCCS)](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029693EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
@@ -745,8 +683,6 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 11:11 AM | [System Test Execution Engineer - 2305](https://jobs.smartrecruiters.com/Kioxia/744000162785519-system-test-execution-engineer-2305) | Kioxia | Round Rock, TX, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 11:00 AM (seen) | [Windows/Storage Engineer](https://jobs.jobvite.com/actionet/job/on58AfwU) | ActioNet |  | 40 | rules: 3+ yrs exp; location unclear; needs: Top Secret Clearance |
 | 11:00 AM (seen) | [Support Data Analyst](https://jobs.jobvite.com/nutanix/job/oZx7AfwX) | Nutanix |  | 25 | rules: 8+ yrs exp; location unclear; asks for 8+ years of experience |
-| date only | [Data Center Controls Engineer](https://www.amazon.jobs/en/jobs/10610750/data-center-controls-engineer) | Amazon Data Services, Inc. | Stafford, Virginia, USA +1 more | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| date only | [Software Dev Engineer, Antenna Calibration, Amazon Leo](https://www.amazon.jobs/en/jobs/10610551/software-dev-engineer-antenna-calibration-amazon-leo) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Software Engineer](https://jobs.netapp.com/job/Software-Engineer/1452691800/) | NetApp | US | 38 | rules: 15+ yrs exp; asks for 15+ years of experience |
 | date only | [Leader, Solutions Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2031087EXTERNALENGLOBAL) | Cisco | Philadelphia, Pennsylvania, United Stat… | 45 | rules: 12+ yrs exp; asks for 12+ years of experience |
 | date only | [Full-Stack Software Engineer](https://jobs.jobvite.com/visionist/job/oFb8Afwi) | Visionist | Columbia, MD, United States | 45 | rules: 14+ yrs exp; needs: security clearance |
@@ -780,6 +716,7 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | date only | [Implementation Specialist I](https://asuresoftware.bamboohr.com/careers/1191) | Asure | Santa Ana, California | 65 | rules: entry-level title; 3+ yrs exp; no future H-1B sponsorship; ask… |
 | date only | [Network Operations Center Engineer](https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107955&lang=en) | Lawrence Berkeley National La… |  | 50 | rules: 5+ yrs exp; likely H-1B cap-exempt (verify); asks for 5+ years… |
 | date only | [Embedded Software Engineer , Fauna](https://www.amazon.jobs/en/jobs/10610208/embedded-software-engineer-fauna) | Amazon.com Services LLC | New York, New York, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Software Dev Engineer, Antenna Calibration, Amazon Leo](https://www.amazon.jobs/en/jobs/10610551/software-dev-engineer-antenna-calibration-amazon-leo) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Data Engineer, Central InfraOps Analytics Team](https://www.amazon.jobs/en/jobs/10610625/data-engineer-central-infraops-analytics-team) | Amazon Data Services, Inc. | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [DevOps Engineers](https://arteratechnologies.applytojob.com/apply/9C33Mdrgxl/DevOps-Engineers) | Artera Technologies | Annapolis Junction / Fort Meade, MD | 45 | rules: 8+ yrs exp; needs: Security Clearance |
 | date only | [System Engineers](https://arteratechnologies.applytojob.com/apply/1G5kAwg0FX/System-Engineers) | Artera Technologies | Annapolis Junction / Fort Meade, MD | 45 | rules: 7+ yrs exp; needs: Security Clearance |
@@ -800,6 +737,7 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | date only | [DRAM Process Integration Engineer](https://micron.eightfold.ai/careers/job/44590384) | Micron | Boise, ID, US (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Data and Platform Engineer](https://nvidia.eightfold.ai/careers/job/893397803930) | Nvidia | CA,US; TX,US; NY,US; WA,US (remote) | 42 | rules: 12+ yrs exp; asks for 12+ years of experience |
 | date only | [Data Center Installation Engineer](https://apply.workable.com/ignite-33/j/CB7CCBAA5C/) | Ignite 33 | Suitland, Maryland, United States | 60 | rules: 3+ yrs exp; needs: Public Trust clearance |
+| date only | [Data Center Controls Engineer](https://www.amazon.jobs/en/jobs/10610750/data-center-controls-engineer) | Amazon Data Services, Inc. | Stafford, Virginia, USA | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Python/AI Developer](https://citi.eightfold.ai/careers/job/859038719745) | Citi | Mississauga, ON, CA +1 more (hybrid) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Security Systems Technician – Installation](https://hayselectricalservices.applytojob.com/apply/YGTGZvhPXL/Security-Systems-Technician-Installation) | Hays Electrical Services | Texas, TX +1 more | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Editorial Assistant Rotational Program](https://bookofthemonth.applytojob.com/apply/amU6XEnBJZ/Editorial-Assistant-Rotational-Program) | Book of the Month | New York, NY | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
@@ -971,6 +909,5 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 3:35 PM | [AI Transformation & Strategy Consultant](https://jobs.smartrecruiters.com/Sia/744000162608239-ai-transformation-strategy-consultant) | Sia Partners | Bellevue, WA, United States +2 more | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 3:34 PM | [Tier 1/2 Network Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680261) | 26F3B5C7 C503 49F8 9Cb4 B56B2… | Gilber, USA | 70 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 3:27 PM | [Geospatial Systems Analyst](https://boards.greenhouse.io/ardentmc/jobs/8403429?gh_jid=8403429) | Ardentmc | Washington, D.C. Metro - on-site (onsite) | 50 | rules: 5+ yrs exp; needs: security clearance |
-| 3:25 PM | [Traveling Security Technician](https://job-boards.greenhouse.io/unlimitedtechnology/jobs/5490003008) | Unlimited Technology | Travel (remote) | 42 | rules: 5+ yrs exp; needs: Security Clearance |
 
 </details>
