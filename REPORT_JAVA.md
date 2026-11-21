@@ -1,21 +1,19 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**166 jobs**, newest first. Updated Sat Nov 21, 2:32 PM CST from 12,526 company job boards and other sources.
+**165 jobs**, newest first. Updated Sat Nov 21, 2:51 PM CST from 12,571 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-197 repeat listings (same company and title in another place or on another source) are merged into one row.
+196 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,233 matching jobs that job sites and feeds listed this week, 934 (28%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (72)](#saturday-nov-14-72)
+Jump to: [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (8)](#sunday-nov-15-8) · [Sat 14 (71)](#saturday-nov-14-71)
 
 ## Friday, Nov 20 (13)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 6:39 PM | [Assoc Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162837679-assoc-software-engineer) | ServiceNow | Santa Clara, CALIFORNIA, United States (hybrid) | 60 | 1+ yrs exp; requires Java |
-| 2:12 PM | [Full-stack Java & React Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787547) | JP Morgan Chase | Plano, TX, United States +1 more | 60 | 3+ yrs exp; senior title |
+| 2:12 PM | [Full-stack Java & React Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787547) | JP Morgan Chase | Plano, TX, United States | 60 | 3+ yrs exp; senior title |
 | 1:31 PM (seen) | [Application Developer-Java & Web Technologies](https://careers.ibm.com/careers/JobDetail?jobId=143696) | IBM | Dallas, United States +17 more (hybrid) | 50 | repost |
 | 1:19 PM | [Senior Platform Software Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351070) | Oracle | Nashville, TN, United States +2 more | 35 | senior title, years not stated; requires Java |
 | 1:06 PM | [Platform Engineering Senior Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/215254) | Ebxr Fa Us2 Oraclecloud Com | Jersey City, NJ, United States | 45 | entry-level title; senior title, years not stated; requires Java |
@@ -134,7 +132,7 @@ Jump to: [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) 
 | 1:23 PM (seen) | [Java Web Developer in Munich (m/f)](https://globalworking.zohorecruit.com/jobs/Careers/179458000002324008/Java-Web-Developer-in-Munich-m-f) | Globalworking | Múnich | 45 | location unclear |
 | date only | [Developer Platform Engineer (Financial Cloud)](https://intellipro.applytojob.com/apply/gLbwG8aDGS/Developer-Platform-Engineer-Financial-Cloud) | IntelliPro Group Inc. | Palo Alto, CA | 50 | requires Java |
 
-## Saturday, Nov 14 (72)
+## Saturday, Nov 14 (71)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -209,7 +207,6 @@ Jump to: [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) 
 | 3:51 PM (seen) | [Payment Platform Implementation Engineer](https://brainsworkgroup.catsone.com/careers/9549-General/jobs/16857960-Payment-Platform-Implementation-Engineer/) | Brainsworkgroup |  | 35 | requires Java |
 | 3:51 PM (seen) | [Senior Software Engineer -26-272](https://jobs.jobvite.com/drillinginfo/job/obqtAfwo) | Drillinginfo |  | 20 | senior title, years not stated; location unclear; requires Java |
 | 3:51 PM (seen) | [Evergreen Posting: Software Engineer](https://coforma.pinpointhq.com/en/postings/1a979aed-0158-4d98-9470-18edf0bce6e7) | Coforma | Remote (select US states) (remote) | 37 | E-Verify; requires Java |
-| 2:46 PM | [Python Java AWS Software Engineer III (ML) - Agentic Treasury](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210777835) | JP Morgan Chase | Jersey City, NJ, United States | 60 | 3+ yrs exp; senior title |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (353)
 
