@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**453 jobs**, newest first. Updated Sat Nov 21, 2:54 PM CST from 12,571 company job boards and other sources.
+**393 jobs**, newest first. Updated Sat Nov 21, 3:54 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-161 repeat listings (same company and title in another place or on another source) are merged into one row.
+157 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21) · [Sat 14 (70)](#saturday-nov-14-70)
+Coverage check: of 5,084 matching jobs that job sites and feeds listed this week, 1,008 (19%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21) · [Sat 14 (10)](#saturday-nov-14-10)
 
 ## Saturday, Nov 21 (9)
 
@@ -426,7 +428,7 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Bay Plaza](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825513) | Macy's | Bronx, NY, United States | 75 | entry-level title |
 | 3:27 AM | [Administrative Support Team Associate, Glendale Galleria - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825453) | Macy's | Glendale, CA, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Saturday, Nov 14 (70)
+## Saturday, Nov 14 (10)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -440,68 +442,8 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 5:27 PM | [Seasonal Fulfillment and Receiving Support Associate, Orland Square](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825375) | Macy's | Orland Park, IL, United States | 75 | entry-level title |
 | 4:19 PM (seen) | [Junior Robotics Software Engineer](https://app.dover.com/apply/alpha1robotics/7f098d3e-3028-4522-bec7-4d5c16220a92) | Alpha1Robotics | Dallas, TX (onsite) | 75 | entry-level title; 1+ yrs exp |
 | 4:19 PM (seen) | [Associate Data Scientist](https://app.dover.com/apply/apparatusai/f15799cd-36af-406c-9296-2f3f158c3b71) | Apparatusai | International (remote) | 62 | entry-level title; 0-2 yrs exp; location unclear |
-| 2:59 PM (seen) | [Associate Application Developer 2027- ServiceNow](https://careers.ibm.com/careers/JobDetail?jobId=128753) | IBM | BATON ROUGE, United States (hybrid) | 65 | entry-level title |
-| 2:59 PM (seen) | [Entry Level Compliance EMC HW Developer - Rochester, MN - 2027](https://careers.ibm.com/careers/JobDetail?jobId=131991) | IBM | ROCHESTER, United States (hybrid) | 65 | entry-level title |
-| 2:59 PM (seen) | [Entry level Hardware Developer - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=136985) | IBM | Austin, United States (hybrid) | 65 | entry-level title; repost |
-| 2:59 PM (seen) | [Associate SAP Supply Chain Consultant 2027](https://careers.ibm.com/careers/JobDetail?jobId=130377) | IBM | BATON ROUGE, United States (hybrid) | 65 | entry-level title |
-| 2:59 PM (seen) | [Software Engineer - New Grad, 2027](https://app.careerpuck.com/job-board/domino-data-lab/job/jeINshBW) | Domino Data Lab | New York City, New York | 60 | entry-level title |
-| 2:59 PM (seen) | [Associate Engineer Primary Container Testing Characterization Qualifi…](https://3kc.catsone.com/careers/2010-General/jobs/16870629-Associate-Engineer--Primary-Container-Testing-Characterization--Qualification-Biopharmaceuticals--JP16067/) | 3Kc |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Associate Engineer Thermal Engineering Lab Testing Equipment Qualific…](https://3kc.catsone.com/careers/2010-General/jobs/16862452-Associate-Engineer--Thermal-Engineering-Lab-Testing--Equipment-Qualification-GMP--JP15950/) | 3Kc |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Associate Engineer Primary Container Device Testing Analytical Lab Su…](https://3kc.catsone.com/careers/2010-General/jobs/16802963-Associate-Engineer--Primary-Container--Device-Testing--Analytical-Lab-Support-Vials-Syringes-Packaging-Systems--JP15291/) | 3Kc |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Associate Engineer Thermal Packaging Systems Cold Chain Logistics GMP…](https://3kc.catsone.com/careers/2010-General/jobs/16802285-Associate-Engineer--Thermal-Packaging-Systems--Cold-Chain-Logistics--GMP-Documentation--Project-Support--JP15311/) | 3Kc |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Associate Engineer Allen Bradley PLC ElectricalAutomation](https://3kc.catsone.com/careers/2010-General/jobs/16798824-Associate-Engineer-Allen-Bradley-PLC-ElectricalAutomation--JP15246/) | 3Kc |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Associate Engineer Rockwell Allen Bradley PLC troubleshooting](https://3kc.catsone.com/careers/2010-General/jobs/16777628-Associate-Engineer-Rockwell--Allen-Bradley-PLC-troubleshooting--JP15048/) | 3Kc |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Associate Engineer GMP Packaging Lab Unit Testing Documentation](https://3kc.catsone.com/careers/2010-General/jobs/16675250-Associate-Engineer-GMP-Packaging-Lab-Unit-Testing--Documentation-JP14146/) | 3Kc |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Associate Engineer Biotech Product Complaint](https://3kc.catsone.com/careers/2010-General/jobs/16646722-Associate-Engineer-Biotech-Product-Complaint-JP13929/) | 3Kc |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Associate Technical Engineer Pkg Equipment Maintenance Biotech](https://3kc.catsone.com/careers/2010-General/jobs/16595379-Associate-Technical-Engineer--Pkg-Equipment-Maintenance---Biotech-JP13542/) | 3Kc |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Associate Engineer Biotech](https://3kc.catsone.com/careers/2010-General/jobs/16462513-Associate-Engineer-Biotech/) | 3Kc |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Associate Engineer Packaging](https://3kc.catsone.com/careers/2010-General/jobs/16377060-Associate-Engineer-Packaging-JP12188/) | 3Kc |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Associate Engineer Biotech Packaging](https://3kc.catsone.com/careers/2010-General/jobs/16213537-Associate-Engineer-Biotech-Packaging--JP11531/) | 3Kc |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Quality Assurance Associate Biopharma Medical Device](https://3kc.catsone.com/careers/2010-General/jobs/14882695-Quality-Assurance-Associate-Biopharma-Medical-Device-JP9524/) | 3Kc |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Systems Support Engineer I](https://fusionhcr.catsone.com/careers/43293-General/jobs/16842941-Systems-Support-Engineer-I/) | Fusionhcr |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Cloud System Administrator 1 Cleared](https://scdinformationtechnology.catsone.com/careers/101945-SCD-Information-Technology/jobs/16354813-Cloud-System-Administrator-1-Cleared/) | Scdinformationtechnology |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Associate Engineer PE Land Development](https://techoundsllc.catsone.com/careers/118121-General/jobs/16621168-Associate-Engineer-PE--Land-Development/) | Techoundsllc |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Entry Level System Engineer Japanese English Linux Windows](https://tt4.catsone.com/careers/7607-General/jobs/13692020-Entry-Level-System-Engineer--Japanese--English-Linux--Windows/) | Tt4 |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Entry Level System Engineer Linux Windows](https://tt4.catsone.com/careers/7607-General/jobs/13139041-Entry-Level-System-Engineer--Linux--Windows/) | Tt4 |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Junior Data Center Server Administrator Japanese English Linux Windows](https://tt4.catsone.com/careers/7607-General/jobs/12975988-Junior-Data-Center-Server-Administrator--Japanese--English--Linux--Windows/) | Tt4 |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Transcription or Data Entry Specialist](https://tt4.catsone.com/careers/7607-General/jobs/12433616-Transcription-or-Data-Entry-Specialist/) | Tt4 |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Junior Data Center Server Administrator Linux Windows](https://tt4.catsone.com/careers/7607-General/jobs/11517575-Junior-Data-Center-Server-Administrator--Linux--Windows/) | Tt4 |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Help Desk Computer Support Technician 1](https://tt4.catsone.com/careers/7607-General/jobs/10360315-Help-Desk--Computer-Support-Technician-1/) | Tt4 |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [JR HardwareSft Test ENGINEER Labview RF](https://vertucom.catsone.com/careers/65909-Associates-Systems-LLC/jobs/16737832-JR-HardwareSft-Test-ENGINEER-Labview-RF/) | Vertucom |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Jr Mid Network Engineer](https://vertucom.catsone.com/careers/65909-Associates-Systems-LLC/jobs/16731087-Jr-Mid-Network-Engineer/) | Vertucom |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Jr Mid FPGA Firmware Engineer](https://vertucom.catsone.com/careers/65909-Associates-Systems-LLC/jobs/16718447-Jr-Mid-FPGA-Firmware-Engineer/) | Vertucom |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [DOD Secret Jr SRCisco Network Engineer CCNP Routing CCNP Security](https://vertucom.catsone.com/careers/65909-Associates-Systems-LLC/jobs/16717700-DOD-Secret-Jr-SRCisco-Network-Engineer--CCNP-Routing--CCNP-Security/) | Vertucom |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Data Center Technician I 20261104](https://emergitel.catsone.com/careers/7701-General/jobs/16871271-Data-Center-Technician-I-20261104/) | Emergitel |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Junior Security Analyst](https://emergitel.catsone.com/careers/7701-General/jobs/16868573-Junior-Security-Analyst/) | Emergitel |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Network Analyst Junior](https://athenatechgrp.catsone.com/careers/102293-General/jobs/16857944-Network-Analyst--Junior/) | Athenatechgrp |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Help Desk Specialist Junior SCA](https://athenatechgrp.catsone.com/careers/102293-General/jobs/16856300-Help-Desk-Specialist--Junior-SCA/) | Athenatechgrp |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [MultiDiscipline Security Specialist Junior](https://beyondsof.catsone.com/careers/95259-General/jobs/16276152-MultiDiscipline-Security-Specialist--Junior/) | Beyondsof |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Network Engineer Level I](https://beyondsof.catsone.com/careers/95259-General/jobs/15026317-Network-Engineer--Level-I/) | Beyondsof |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Help Desk Specialist I](https://beyondsof.catsone.com/careers/95259-General/jobs/15026209-Help-Desk-Specialist-I/) | Beyondsof |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Junior Functional Systems Analyst Financial Systems Springfield VA To…](https://beyondsof.catsone.com/careers/95259-General/jobs/14761246-Junior-Functional-Systems-Analyst-Financial-Systems--Springfield-VA-Top-SecretSCI/) | Beyondsof |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Technology Software Developer Associate P3 Glasgow United KingdomUK S…](https://cbsinfosys.catsone.com/careers/4147-Central-Business-Solutions-Inc/jobs/16859699-Technology--Software-Developer-Associate-P3-Glasgow-United-KingdomUK-SSWAR/) | Cbsinfosys |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Junior Salesforce Developer](https://aapc.applytojob.com/apply/Bwioas9wbW/Junior-Salesforce-Developer) | Aapc | Remote | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Safety and Security Associate](https://academyofmotionpictureartsandsciences.applytojob.com/apply/5h2V10LHzQ/Safety-And-Security-Associate) | Academyofmotionpictureartsand… | Los Angeles, CA | 60 | entry-level title |
-| 2:59 PM (seen) | [N'dee Bah Security Associate](https://jobs.jobvite.com/abhs/job/oC7pufwm) | Abhs | Whiteriver, Arizona | 70 | entry-level title; 1+ yrs exp |
-| 2:59 PM (seen) | [Copier System Engineer I Field Service Technician Full-Time Dallas,  …](https://jobs.jobvite.com/deximaging-internal/job/oTENAfwE) | Deximaging Internal | Field Service Technician | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Copier System Engineer I Field Service Technician Full-Time Knoxville…](https://jobs.jobvite.com/deximaging-internal/job/o6j2AfwL) | Deximaging Internal | Field Service Technician | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Technical Consultant 1 - 26413](https://jobs.jobvite.com/drillinginfo/job/oHxXAfwv) | Drillinginfo |  | 55 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Leeds Software Engineering Graduate Programme 2027 - 2028](https://accenture.pinpointhq.com/en/postings/ea5476ed-b07b-4a24-b7c9-541881141de8) | Accenture | Leeds (onsite) | 60 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Glasgow Software Engineering Graduate Programme 2027 - 2028](https://accenture.pinpointhq.com/en/postings/ace42afc-8144-49f7-84df-c9dbb66e352f) | Accenture | Glasgow (onsite) | 60 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Birmingham Software Engineering Graduate Programme 2027 - 2028](https://accenture.pinpointhq.com/en/postings/4c48dfbf-568a-42a6-b8b0-00283eceb049) | Accenture | Birmingham (onsite) | 60 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Newcastle Software Engineering Graduate Programme 2027 - 2028](https://accenture.pinpointhq.com/en/postings/fff24465-85e4-4642-a888-8df902586f39) | Accenture | Newcastle (onsite) | 60 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Newcastle Technology Analyst Graduate Programme 2027 - 2028](https://accenture.pinpointhq.com/en/postings/76f5ceb3-288b-4c6c-be26-8f66aee9a689) | Accenture | Newcastle (onsite) | 60 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Newcastle Technology Degree Apprenticeship 2027-2028: Software Engine…](https://accenture.pinpointhq.com/en/postings/97c7121d-21cf-4cfc-aed2-5f4b54e81368) | Accenture | Newcastle (onsite) | 55 | entry-level title; location unclear; no future H-1B sponsorship |
-| 2:59 PM (seen) | [IT EUX Junior Engineer I - Remote US Only](https://bluemantis.pinpointhq.com/en/postings/c1c2a699-1c75-4b51-b6a5-a089add78357) | Bluemantis | Remote (remote) | 52 | entry-level title; location unclear |
-| 2:59 PM (seen) | [Junior Full Stack Developer (Python & Angular)](https://emergn.pinpointhq.com/en/postings/04a4231a-a4b0-4f43-9840-f48237cb1545) | Emergn | Portugal - Nationwide (remote) | 67 | entry-level title; 1+ yrs exp |
-| 2:59 PM (seen) | [Data Entry Specialist](https://atlasadvisors.zohorecruit.com/jobs/Careers/109821000008299011/Data-Entry-Specialist) | Atlasadvisors | Cincinnati, Ohio, United States | 60 | entry-level title |
-| 2:59 PM (seen) | [Data Scientist, Algorithms - Dynamic Pricing](https://app.careerpuck.com/job-board/lyft/job/aL1pBhG-) | Lyft | San Francisco, CA | 60 | 1+ yrs exp |
-| 2:59 PM (seen) | [Technical Support Specialist](https://app.careerpuck.com/job-board/smoke-test/job/Qitk4_o7) | Smoke Test | San Francisco CA | 60 | 1+ yrs exp |
-| 2:59 PM (seen) | [Production Support Engineer - Watertown, WI](https://gloryglobal.pinpointhq.com/en/postings/a045ad78-0045-4ca9-a59f-0acf855dd86f) | Gloryglobal | United States/Watertown, WI (onsite) | 65 | 1+ yrs exp |
-| 2:59 PM (seen) | [Information Security Specialist](https://tabby.pinpointhq.com/en/postings/a88aaefb-6478-48e6-be57-5694ec01a059) | Tabby | KSA (onsite) | 60 | 1+ yrs exp; location unclear |
-| 2:59 PM (seen) | [IT Technician](https://hopwood.pinpointhq.com/en/postings/d1cbf1c7-b910-417b-8ad1-c6d27302e68e) | Hopwood | Middleton (onsite) | 60 | 1+ yrs exp; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2129)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1840)
 
 <details><summary>Show</summary>
 
@@ -681,13 +623,13 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 11:11 AM | [System Test Execution Engineer - 2305](https://jobs.smartrecruiters.com/Kioxia/744000162785519-system-test-execution-engineer-2305) | Kioxia | Round Rock, TX, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 11:00 AM (seen) | [Windows/Storage Engineer](https://jobs.jobvite.com/actionet/job/on58AfwU) | ActioNet |  | 40 | rules: 3+ yrs exp; location unclear; needs: Top Secret Clearance |
 | 11:00 AM (seen) | [Support Data Analyst](https://jobs.jobvite.com/nutanix/job/oZx7AfwX) | Nutanix |  | 25 | rules: 8+ yrs exp; location unclear; asks for 8+ years of experience |
-| date only | [Software Engineer](https://jobs.netapp.com/job/Software-Engineer/1452691800/) | NetApp | US | 38 | rules: 15+ yrs exp; asks for 15+ years of experience |
 | date only | [Leader, Solutions Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2031087EXTERNALENGLOBAL) | Cisco | Philadelphia, Pennsylvania, United Stat… | 45 | rules: 12+ yrs exp; asks for 12+ years of experience |
 | date only | [Full-Stack Software Engineer](https://jobs.jobvite.com/visionist/job/oFb8Afwi) | Visionist | Columbia, MD, United States | 45 | rules: 14+ yrs exp; needs: security clearance |
 | date only | [Content Security Specialist, GME Content Security](https://www.amazon.jobs/en/jobs/10610392/content-security-specialist-gme-content-security) | Amazon.com Services LLC | Culver City, California, USA | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Solutions Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2030403EXTERNALENGLOBAL) | Cisco | Philadelphia, Pennsylvania, United Stat… | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Advance Solutions Project Specialist, AVP](https://morganstanley.eightfold.ai/careers/job/549801272472) | Morganstanley | Calgary, AB, CA; Alpharetta, GA, US; Sa… (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Support Engineer, DVA+, Demand Enablement and Product Operations](https://www.amazon.jobs/en/jobs/10610057/support-engineer-dva-demand-enablement-and-product-operations) | Amazon.com Services LLC | New York, New York, USA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| date only | [Software Engineer](https://jobs.netapp.com/job/Software-Engineer/1452691800/) | NetApp | US | 38 | rules: 15+ yrs exp; asks for 15+ years of experience |
 | date only | [Data Scientist, NA Operations](https://www.amazon.jobs/en/jobs/10610060/data-scientist-na-operations) | Amazon.com Services LLC | Bellevue, Washington, USA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Quality Assurance Engineer, Amazon Leo Console](https://www.amazon.jobs/en/jobs/10609923/quality-assurance-engineer-amazon-leo-console) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Machine Learning Engineer, Evaluation](https://mpathic2.bamboohr.com/careers/133) | Mpathic2 | United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -791,7 +733,7 @@ Jump to: [Sat 21 (9)](#saturday-nov-21-9) · [Fri 20 (80)](#friday-nov-20-80) ·
 | 9:15 AM | [Field Applications Engineer](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7119) | Black Box | LAWRENCE, PA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 9:05 AM | [Software Engineer, Automated Driving Vehicle Platform](https://jobs.lever.co/woven-by-toyota/4e4a9515-5470-4219-9ae5-45a79ba92b49) | Woven | Ann Arbor, MI (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 8:56 AM | [SAP SuccessFactors Employee Central Payroll (ECP) Data Mapping / Func…](https://boards.greenhouse.io/accenturefederalservices/jobs/4730926006?gh_jid=4730926006) | Accenture | Washington, DC | 55 | rules: 4+ yrs exp; no future H-1B sponsorship; asks for 4+ years of e… |
-| 8:47 AM (seen) | [Community Support Specialist - Adult](https://compasshealthnetwork.pinpointhq.com/en/postings/dd4c5c36-0607-416d-9686-3121950bf58d) | Compasshealthnetwork | Washington +29 more (onsite) | 50 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 8:47 AM (seen) | [Community Support Specialist - Adult](https://compasshealthnetwork.pinpointhq.com/en/postings/dd4c5c36-0607-416d-9686-3121950bf58d) | Compasshealthnetwork | Washington +3 more (onsite) | 50 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 8:41 AM | [Java developer - Kafka, MQ, FIX, FpML - 15+ Years of experience (Full…](https://jobs.smartrecruiters.com/SyncreonConsulting/744000162749716-java-developer-kafka-mq-fix-fpml-15-years-of-experience-full-time-) | Syncreon Consulting | New York, NY, United States | 40 | rules: 10+ yrs exp; staffing/consulting firm: verify it's real; asks … |
 | 8:23 AM | [Oracle EBS Training Specialist (O&M)](https://job-boards.greenhouse.io/i360technologiesinc/jobs/4516685009) | i360technologies | Gaithersburg, MD | 50 | rules: 7+ yrs exp; sponsors visas; asks for 7+ years of experience |
 | 8:21 AM | [Oracle Database Administrator (DBA)](https://job-boards.greenhouse.io/i360technologiesinc/jobs/4516679009) | i360technologies | Reston, Virginia, United States | 45 | rules: 7+ yrs exp; needs: U.S. citizenship is required |
