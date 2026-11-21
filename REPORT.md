@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**547 jobs**, newest first. Updated Fri Nov 20, 9:49 PM CST from 12,571 company job boards and other sources.
+**547 jobs**, newest first. Updated Fri Nov 20, 10:07 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 295 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 2,720 matching jobs that job sites and feeds listed this week, 1,143 (42%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (319)](#saturday-nov-14-319) · [Fri 13 (3)](#friday-nov-13-3)
 
@@ -595,7 +597,7 @@ Jump to: [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) 
 | 11:01 PM | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/rainmaker/c7372b90-e7b3-4620-a6c1-d4ffd24c14e1) | Rainmaker | El Segundo, CA | 70 | E-Verify |
 | 11:00 PM | [Senior Solution Consultant, Cloud Platform](https://careers-americas.icims.com/jobs/27928/senior-solution-consultant%2c-cloud-platform/job) | Atlassian | Austin, TX, United States; New York, NY… (remote) | 52 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (633)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (635)
 
 <details><summary>Show</summary>
 
@@ -663,6 +665,7 @@ Jump to: [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) 
 | date only | [Data and Platform Engineer](https://nvidia.eightfold.ai/careers/job/893397803930) | Nvidia | CA,US; TX,US; NY,US; WA,US (remote) | 37 | rules: 12+ yrs exp; asks for 12+ years of experience |
 | date only | [Cisco Secure Access (SSE) Deployment Engineer](https://emergingtech.applytojob.com/apply/7TrbQTj3QH/Cisco-Secure-Access-SSE-Deployment-Engineer) | Emerging Tech | Remote, FL (remote) | 47 | rules: adjacent title, little DevOps/cloud work in the text |
 | date only | [Senior Silicon Reliability Engineer](https://nvidia.eightfold.ai/careers/job/893398849210) | Nvidia | Santa Clara, CA, US (onsite) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
+| date only | [Software Engineering Technical Leader, Forward Deployment Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2032564EXTERNALENGLOBAL) | Cisco | San Francisco, California, United State… | 18 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:25 AM | [Senior Network Engineer](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022806) | ADT | Irving, TX, United States | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 10:08 AM | [Senior Network Engineer](https://careers.akima.com/jobs/28917?lang=en-us) | Akima | Huntsville, Alabama | 45 | rules: 4+ yrs exp; senior title; needs: security clearance |
 | 10:07 AM (seen) | [Service Engineer (DevSecOps) I](https://cloudfitsoftware.applytojob.com/apply/hcfMPAEITQ/Service-Engineer-DevSecOps-I) | CloudFit Software | Lynchburg, VA | 65 | rules: 0-2 yrs exp; E-Verify; needs: security clearance |
@@ -762,6 +765,7 @@ Jump to: [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) 
 | date only | [CI/CD Pipelines Software Engineer 3](https://jobs.ulalaunch.com/job/Centennial-CICD-Pipelines-Software-Engineer-3-CO-80112/1452363500/) | United Launch Alliance | Centennial, CO, United States | 43 | rules: 4+ yrs exp; senior title; E-Verify; needs: Security Clearance |
 | date only | [Ground Software (GSW) Avionics & Infrastructure Engineer 1](https://jobs.ulalaunch.com/job/Centennial-Ground-Software-%28GSW%29-Avionics-&-Infrastructure-Engineer-1-CO-80112/1452361700/) | United Launch Alliance | Centennial, CO, United States | 73 | rules: entry-level title; E-Verify; needs: Security Clearance |
 | date only | [Senior Automation Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893398829768) | Nvidia | CA,US; GA,US; TX,US; AZ,US (remote) | 30 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
+| date only | [Senior Production Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893397975884) | Nvidia | Santa Clara, CA, US; US (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 10:44 AM | [Site Reliability Engineer - Platform](https://jobs.ashbyhq.com/e2b/2a86d352-77a2-4b32-9b36-7a0cef76262f) | E2B | San Francisco (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:21 AM | [Senior F5 Network Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678604) | 6166Aed4 Af42 4762 99E4 5D67A… | MD, USA | 30 | rules: 8+ yrs exp; senior title; needs: security clearance |
 | 10:19 AM | [Senior AI Observability engineer](https://lamresearch.eightfold.ai/careers/job/1099551265329) | Lamresearch | Fremont, CA, US (onsite) | 50 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
@@ -999,8 +1003,6 @@ Jump to: [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) 
 | 12:07 AM (seen) | [Systems Reliability Engineer II (Pune)](https://jobs.jobvite.com/nutanix/job/ohIWAfwf) | Nutanix |  | 20 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
 | 12:00 AM | [Senior Cloud Engineer (Azure/Terraform)](https://jobs.dayforcehcm.com/en-US/builders/candidateportal/jobs/238014) | Builders | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:18 PM | [DevOps Engineer](https://jobs.ashbyhq.com/first-resonance/8d6700c8-48be-423e-9d66-fe51816deeab) | First Resonance | Los Angeles (onsite) | 55 | rules: 5+ yrs exp; E-Verify; needs: ITAR |
-| 11:00 PM | [Platform Engineer](https://arc-onesolutions.icims.com/jobs/17276/platform-engineer/job) | ARC-One Solutions | United States | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
-| 11:00 PM | [Mid-Level DevSecOps Engineer](https://careers-simventions.icims.com/jobs/1670/mid-level-devsecops-engineer/job) | SimVentions | Dahlgren, VA, United States (remote) | 62 | rules: needs: Secret Clearance |
 
 </details>
 
