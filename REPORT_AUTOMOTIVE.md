@@ -1,8 +1,8 @@
 # Auto Radar: latest matches
 
-Watching **12,613 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
+Watching **12,662 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
 
-Last new match: **Fri Nov 20, 09:23 PM EST**. Score is 0–100 and uses no AI: the full job text is read section by section. "Has" lists the resume's skills the job asks for; "Missing" lists skills the job requires that the resume does not show. The score weighs how much of what the job asks the resume covers, the title, years required (the MS path counts), the industry, word overlap with the resume, freshness and location. Visa sponsorship moves it by 2 points at most. Full history: [data/automotive/matches.csv](data/automotive/matches.csv).
+Last new match: **Sat Nov 21, 09:31 AM EST**. Score is 0–100 and uses no AI: the full job text is read section by section. "Has" lists the resume's skills the job asks for; "Missing" lists skills the job requires that the resume does not show. The score weighs how much of what the job asks the resume covers, the title, years required (the MS path counts), the industry, word overlap with the resume, freshness and location. Visa sponsorship moves it by 2 points at most. Full history: [data/automotive/matches.csv](data/automotive/matches.csv).
 
 ## Posted in the last 24 hours (16)
 
@@ -25,9 +25,9 @@ Last new match: **Fri Nov 20, 09:23 PM EST**. Score is 0–100 and uses no AI: t
 | 43 | [Senior Embedded Engineer - Intercom](https://job-boards.greenhouse.io/verkada/jobs/5304458007) | Verkada | San Mateo, CA United States | Nov 20 | C, C++ | Device drivers/BSP, Embedded Linux/kernel, Cybersecurity (I… | 7+ yrs |
 | 42 | [Operations Engineer V - Transmission Operations - Akron Control Center](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FirstEnergyCareers/job/105809) | FirstEnergy | Akron, OH, United States; Fairmont, WV,… (onsite) | Nov 20 |  | – | 2+ yrs; stretch: senior-level title |
 
-## Found in the last 60 days, posted earlier (1825)
+## Found in the last 60 days, posted earlier (1827)
 
-Showing the 400 best of 1825; the rest are in the full history file.
+Showing the 400 best of 1827; the rest are in the full history file.
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
@@ -40,6 +40,7 @@ Showing the 400 best of 1825; the rest are in the full history file.
 | 89 | [Battery Management System Embedded Software Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73874) | Ford Motor Company | Dearborn, MI, United States (hybrid) | Nov 03 | Simulink, Stateflow, Model-based design, Embedded software, MIL testing, SIL testing, MAT… | Battery/BMS, Bootloaders | 5+ yrs |
 | 88 | [Vehicle Controls Engineer](https://jobs.paccar.com/job/Kirkland-Vehicle-Controls-Engineer-WA-98033/1455765133/) | PACCAR | Kirkland, WA, United States | Nov 08 | Simulink, ISO 26262, ASPICE, MATLAB, IBM DOORS/DNG, Requirements engineering, Agile/Scrum… | – | 1+ yrs; E-Verify |
 | 88 | [Functional Safety Engineer](https://jobs.paccar.com/job/Lewisville-Functional-Safety-Engineer-TX-75067/1458173333/) | PACCAR | Lewisville, TX, United States | Nov 16 | ISO 26262, Functional safety, Requirements engineering, IBM DOORS/DNG, ASPICE, Requiremen… | – | 2+ yrs; repost |
+| 88 | [ADAS/AD Algorithm Developer](https://aptiv.wd5.myworkdayjobs.com/APTIV_CAREERS/job/Troy-MI---USA/ADAS-AD-Algorithm-Developer_J000706407) | Aptiv | Troy, MI - USA | Nov 17 | Simulink, Stateflow, ASPICE, ADAS, MATLAB, Vehicle dynamics/chassis, Agile/Scrum/Jira | SOTIF (ISO 21448) | 2+ yrs |
 | 87 | [Battery Control Software Application Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/65527) | Ford Motor Company | Dearborn, MI, United States (hybrid) | Jun 28 | Simulink, Stateflow, MIL testing, SIL testing, AUTOSAR Classic, MATLAB, C, Controls/algor… | – | 5+ yrs; open 145 days |
 | 87 | [Senior Software Engineer, ADAS Feature Integration](https://lucidmotors.com/careers/search/5216837007?gh_jid=5216837007) | Lucid Motors | Southfield, MI | Aug 26 | Functional safety, ADAS, SIL testing, C, Requirements engineering, C++, ECU software, Emb… | – | 5+ yrs; open 86 days |
 | 87 | [ADAS Surround View Camera Feature Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71436) | Ford Motor Company | Dearborn, MI, United States (hybrid) | Oct 01 | Simulink, Stateflow, Model-based design, ISO 26262, ADAS, MIL testing, SIL testing, Funct… | HIL testing, Powertrain/engine/transmission, Perception/com… | 3+ yrs |
@@ -427,10 +428,9 @@ Showing the 400 best of 1825; the rest are in the full history file.
 | 73 | [V&V Engineer, Electrical](https://jobs.lever.co/waabi/c4309c3b-91a3-4415-b53b-2993937c88ce) | Waabi | Pittsburgh, PA (onsite) | Aug 18 | MIL testing, Functional safety, ISO 26262, CAN/CAN FD, Automotive software, Requirements … | HIL testing | 5+ yrs; stretch: senior-level title; open 94 days |
 | 73 | [Senior Engineer, Autonomy Software Integration & Test (R5606)](https://jobs.ashbyhq.com/shield/81172a7f-2903-4668-93fd-6fbdff456c55) | Shield AI | Arlington, VA, US (onsite) | Aug 27 | SIL testing, Embedded software, C++, SWC/RTE design, Requirements-based testing, Software… | – | 3+ yrs; open 85 days |
 | 73 | [AI/ML ADAS Perception Engineer](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Engineer-I---Software-Algorithm_R00243822) | Magna | Auburn Hills, Michigan, US | Sep 02 | ASPICE, ADAS, C, C++, ECU software, Automotive software, Vehicle dynamics/chassis, Python | Perception/computer vision, Machine learning | 3+ yrs; open 79 days |
-| 73 | [Embedded Software Engineer](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5419363008) | Lexington Medical | Bedford, MA | Sep 09 | C, CAN/CAN FD, Embedded software, Requirements engineering, C++, Code reviews | Device drivers/BSP, Aerospace/industrial safety (DO-178C/IE… | 1+ yrs; open 72 days |
+| 73 | [Embedded Software Engineer](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5419363008) | Lexington Medical | Bedford, MA | Sep 09 | C, CAN/CAN FD, Embedded software, Requirements engineering, C++, Code reviews | Device drivers/BSP, Aerospace/industrial safety (DO-178C/IE… | 1+ yrs; open 73 days |
 | 73 | [Automation and Controls Engineer](https://job-boards.greenhouse.io/valaratomics/jobs/4410316009) | Valaratomics | Torrance, California, United States | Sep 17 | Functional safety, Requirements engineering, Controls/algorithms, Requirements-based test… | – | 2+ yrs; open 64 days |
 | 73 | [Senior Systems Integration Engineer](https://job-boards.greenhouse.io/torcrobotics/jobs/8805511002) | Torc Robotics | Blacksburg, VA | Sep 18 | SIL testing, CAN/CAN FD, Embedded software, C++, ISO 26262, Jenkins/CI, Functional safety… | HIL testing, Device drivers/BSP, Embedded Linux/kernel, ROS… | 5+ yrs; open 63 days |
-| 73 | [Vehicle Network and Diagnostics Validation Engineer](https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Vehicle-Network-and-Diagnostics-Validation-Engineer_JR101200) | Slate Auto | Troy, Michigan | Sep 20 | Requirements engineering, IBM DOORS/DNG, CAN/CAN FD, ECU software, Embedded software, Aut… | Cybersecurity (ISO 21434), UDS/diagnostics, Vector CANoe/CA… | 5+ yrs (MS path); open 61 days; no visa sponsorship |
 
 ## Hidden from alerts: clearance/citizenship or rejected by the AI check (1041 in the last 60 days)
 
