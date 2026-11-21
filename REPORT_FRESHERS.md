@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**519 jobs**, newest first. Updated Sat Nov 21, 12:03 AM CST from 12,571 company job boards and other sources.
+**519 jobs**, newest first. Updated Sat Nov 21, 12:49 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 253 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,740 matching jobs that job sites and feeds listed this week, 930 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (81)](#friday-nov-20-81) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (22)](#sunday-nov-15-22) · [Sat 14 (141)](#saturday-nov-14-141)
 
@@ -567,14 +569,19 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (81)](#friday-nov-20-81) ·
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Town Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825084) | Macy's | Kennesaw, GA, United States | 75 | entry-level title |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Serramonte](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825080) | Macy's | Daly City, CA, United States | 75 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2342)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (2346)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Software Engineer – India ComSec (NCCS)](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029693EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Embedded Software Engineer, Leo MAC](https://www.amazon.jobs/en/jobs/10610936/embedded-software-engineer-leo-mac) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Software Dev Engineer in Test , Amazon Leo Payload](https://www.amazon.jobs/en/jobs/10610933/software-dev-engineer-in-test-amazon-leo-payload) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 75 | rules: 1+ yrs exp; needs: must be a U.S. citizen |
+| date only | [Site Reliability Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029632EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| date only | [Network Systems Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029624EXTERNALENGLOBAL) | Cisco | Rancho Cordova, California, United Stat… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 12:30 AM | [Software Engineer](https://jobs.gem.com/fabrichealth/am9icG9zdDrQV514eBfexJ9Sn7uGEXAg) | Fabrichealth | United States (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 12:12 AM | [Data Analyst](https://jobs.gem.com/fabrichealth/am9icG9zdDrd5YHGxqQzLLugsbgH_ODI) | Fabrichealth | United States (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 10:45 PM | [AI Automation Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684049) | Brook + Whittle | New Century, KS, United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 10:31 PM | [IT Support Technician](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683999) | Sunflower Bank NA | Salina, KS, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 10:04 PM | [Embedded Software Engineer - Medical Devices](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=12c50d6c-1baa-481b-a7ac-bc6c1aeda42a&ccId=19000101_000001&jobId=9201318773014_57&lang=en_US) | 12C50D6C 1Baa 481B A7Ac Bc6C1… | Carlsbad, CA +1 more | 60 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; asks for 3+ … |
@@ -736,7 +743,6 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (81)](#friday-nov-20-81) ·
 | 11:11 AM | [System Test Execution Engineer - 2305](https://jobs.smartrecruiters.com/Kioxia/744000162785519-system-test-execution-engineer-2305) | Kioxia | Round Rock, TX, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 11:00 AM (seen) | [Windows/Storage Engineer](https://jobs.jobvite.com/actionet/job/on58AfwU) | ActioNet |  | 40 | rules: 3+ yrs exp; location unclear; needs: Top Secret Clearance |
 | 11:00 AM (seen) | [Support Data Analyst](https://jobs.jobvite.com/nutanix/job/oZx7AfwX) | Nutanix |  | 25 | rules: 8+ yrs exp; location unclear; asks for 8+ years of experience |
-| date only | [Software Engineer (Backend)](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029183EXTERNALENGLOBAL) | Cisco | San Jose, California, United States of … | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Data Center Controls Engineer](https://www.amazon.jobs/en/jobs/10610750/data-center-controls-engineer) | Amazon Data Services, Inc. | Stafford, Virginia, USA +1 more | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Software Dev Engineer, Antenna Calibration, Amazon Leo](https://www.amazon.jobs/en/jobs/10610551/software-dev-engineer-antenna-calibration-amazon-leo) | Amazon Kuiper Manufacturing E… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Software Engineer](https://jobs.netapp.com/job/Software-Engineer/1452691800/) | NetApp | US | 38 | rules: 15+ yrs exp; asks for 15+ years of experience |
@@ -969,9 +975,5 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (81)](#friday-nov-20-81) ·
 | 3:19 PM | [Security Technician](https://job-boards.greenhouse.io/unlimitedtechnology/jobs/5489984008) | Unlimited Technology | Rochester, NY | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 3:18 PM | [Security Service Technician](https://job-boards.greenhouse.io/unlimitedtechnology/jobs/5489978008) | Unlimited Technology | Long Beach | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 3:17 PM | [Logistics Data Analyst](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280366) | Vertiv | Westerville, OH, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 3:16 PM | [ADAS Feature Systems Engineer](https://ford.eightfold.ai/careers/job/563568453875700) | Ford | Dearborn, MI, US (onsite) | 55 | rules: 5+ yrs exp; sponsors visas; asks for 5+ years of experience |
-| 3:16 PM | [ADAS Feature Systems Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71259) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 55 | rules: 5+ yrs exp; sponsors visas; asks for 5+ years of experience |
-| 3:15 PM | [Full Stack Software Engineer - Video](https://jobs.ashbyhq.com/substack/c9b64abb-ff7d-441b-834d-8d17285bce32) | Substack | San Francisco (HQ); New York; Remote (hybrid) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| 3:15 PM | [Data Engineer](https://job-boards.greenhouse.io/acuitymd/jobs/6266794004) | AcuityMD | Boston or Remote +1 more (remote) | 67 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
 
 </details>
