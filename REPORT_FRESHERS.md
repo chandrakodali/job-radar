@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**401 jobs**, newest first. Updated Sun Nov 22, 7:08 AM CST from 12,571 company job boards and other sources.
+**400 jobs**, newest first. Updated Sun Nov 22, 7:54 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 156 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sun 22 (9)](#sunday-nov-22-9) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (16)](#sunday-nov-15-16)
+Coverage check: of 4,887 matching jobs that job sites and feeds listed this week, 981 (20%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sun 22 (9)](#sunday-nov-22-9) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (15)](#sunday-nov-15-15)
 
 ## Sunday, Nov 22 (9)
 
@@ -428,7 +430,7 @@ Jump to: [Sun 22 (9)](#sunday-nov-22-9) · [Sat 21 (26)](#saturday-nov-21-26) ·
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Oakridge](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825784) | Macy's | San Jose, CA, United States | 75 | entry-level title |
 | 3:26 AM | [Administrative Support Team Associate, Cherryvale - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825771) | Macy's | Rockford, IL, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Sunday, Nov 15 (16)
+## Sunday, Nov 15 (15)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -447,9 +449,8 @@ Jump to: [Sun 22 (9)](#sunday-nov-22-9) · [Sat 21 (26)](#saturday-nov-21-26) ·
 | 1:23 PM (seen) | [QA Analyst Jr](https://mccannwg.avature.net/en_US/careersinternal/JobDetail/QA-Analyst-Jr/6116) | Mccannwg Avature Net |  | 55 | entry-level title; location unclear |
 | 1:23 PM (seen) | [Quality Control Data Associate](https://thorne.pinpointhq.com/en/postings/92903a7e-0779-4a63-bacc-092ba8667ab5) | Thorne | Summerville, SC (onsite) | 65 | entry-level title |
 | 9:01 AM | [Solutions Delivery Analyst I](https://job-boards.greenhouse.io/uniteus/jobs/8886324002) | Uniteus | United States (remote) | 82 | entry-level title; 1+ yrs exp |
-| 7:19 AM (seen) | [Junior Full Stack Engineer](https://app.dover.com/apply/cointelligencelabs/4ef34030-cd76-4c84-9a34-dbfa58993e6f) | Cointelligencelabs | Austin, TX (onsite) | 65 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1794)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1793)
 
 <details><summary>Show</summary>
 
@@ -459,6 +460,7 @@ Jump to: [Sun 22 (9)](#sunday-nov-22-9) · [Sat 21 (26)](#saturday-nov-21-26) ·
 | date only | [DevOps and Automation Engineer – ICPE](https://nvidia.eightfold.ai/careers/job/893397662276) | Nvidia | Yokne'am Illit, North District, IL (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 3:19 AM | [Test Automation Engineer](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/85952) | eClerx | Austin, Texas, United States | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 12:37 AM | [Product Security Engineer](https://jobs.lever.co/penumbrainc/3aefe2ce-28da-4aea-bfee-56662c849e1a) | Penumbra Inc | Alameda, CA (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 11:00 PM | [Cybersecurity Engineer](https://careers-gotyto.icims.com/jobs/2243/cybersecurity-engineer/job) | TALON | Virginia Beach, VA, United States | 45 | rules: 6+ yrs exp; needs: Secret clearance |
 | 7:29 PM | [Systems Simulation Engineer (Constellation Modeling & System Simulati…](https://jobs.ashbyhq.com/Elveo/29150559-9014-4604-a81b-7750946d5d08) | Elveo | Chantilly, VA (onsite) | 80 | rules: 2+ yrs exp; needs: ITAR |
 | 7:29 PM | [Satellite Systems Operations Engineer](https://jobs.ashbyhq.com/Elveo/27c25953-b784-43ac-8d0a-934218276346) | Elveo | Chantilly, VA (onsite) | 50 | rules: 5+ yrs exp; needs: ITAR |
 | 7:29 PM | [Ground Systems Software Engineer](https://jobs.ashbyhq.com/Elveo/194cba01-5321-436d-b191-4867a4729645) | Elveo | Chantilly, VA (onsite) | 50 | rules: 5+ yrs exp; needs: ITAR |
@@ -854,6 +856,5 @@ Jump to: [Sun 22 (9)](#sunday-nov-22-9) · [Sat 21 (26)](#saturday-nov-21-26) ·
 | 4:34 PM | [Technical Support Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8dd80937-dc91-4b49-b35b-afdd2ad018e2&ccId=19000101_000001&jobId=9203182791517_3&lang=en_US) | 8Dd80937 Dc91 4B49 B35B Afdd2… | Portland, OR; Hood River, OR | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 4:17 PM | [Implementation Consultant – Revenue Cycle Patient Access (Scheduling/…](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/351015) | Eeho Fa Us2 Oraclecloud Com | United States | 45 | rules: 5+ yrs exp; needs: security clearance |
 | 4:12 PM | [R0173157 Data Engineer (A)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f7d0583a-068e-4433-ae66-535fa5887aa1&ccId=19000101_000001&jobId=9202091882188_195&lang=en_US) | F7D0583A 068E 4433 Ae66 535Fa… | Houston, TX | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 3:54 PM | [Healthcare Support Specialist - Emergency Department](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394699) | Mayo Clinic | Rochester, MN, United States | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
 
 </details>
