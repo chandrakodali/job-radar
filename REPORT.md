@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**228 jobs**, newest first. Updated Sun Nov 22, 8:19 AM CST from 12,571 company job boards and other sources.
+**227 jobs**, newest first. Updated Sun Nov 22, 8:37 AM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 152 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13)
+Coverage check: of 2,990 matching jobs that job sites and feeds listed this week, 1,394 (46%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (12)](#sunday-nov-15-12)
 
 ## Sunday, Nov 22 (1)
 
@@ -258,7 +260,7 @@ Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 2:12 AM (seen) | [Revenue Cloud Developer](https://aspire.zohorecruit.com/jobs/Careers/503306000044928194/Revenue-Cloud-Developer) | Aspire |  (remote) | 42 | location unclear |
 | 2:10 AM | [Production Engineer](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Fremont-CA---46401-Landing-Pkwy/Production-Engineer_R10105255) | Air Liquide | Fremont, CA - 46401 Landing Pkwy | 38 |  |
 
-## Sunday, Nov 15 (13)
+## Sunday, Nov 15 (12)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -274,9 +276,8 @@ Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | date only | [24371 - Senior IT Infrastructure Integrator](https://careers.quality-ai.com/job/Petach-_-Tikva-24371-Senior-IT-Infrastructure-Integrator/61538444/) | Qualitest |  | 40 | 3+ yrs exp; senior title; location unclear |
 | date only | [Cloud Engineer, Azure](https://apply.deloitte.com/en_US/careers/JobDetail/Cloud-Engineer-Azure/368427) | Deloitte US |  | 50 | 3+ yrs exp; location unclear |
 | date only | [Azure DevOps Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Azure-DevOps-Engineer/373104) | Deloitte US |  | 55 | location unclear |
-| 8:37 AM (seen) | [AWS Data Engineer](https://app.dover.com/apply/comsparkint/6bf1aa8d-7982-43b1-9af1-2e94c7bfdc7f) | Comsparkint | Irvine, CA (onsite) | 55 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (470)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (468)
 
 <details><summary>Show</summary>
 
