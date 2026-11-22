@@ -1,272 +1,304 @@
 # Careers page changes
 
-Checked 2026-11-22 08:53 UTC: 1757 pages, 32 changed, 8 look like new postings.
+Checked 2026-11-22 20:33 UTC: 1757 pages, 25 changed, 9 look like new postings.
 
-## [Café](https://at.cafe/)
+## [Coingape](https://coingape.com/careers/)
 
-- added: The choice of Café was made in a context of return to office context and positive reinforcement. Using Café has enabled us to improve employee engagement by offering more visibility and social moments
-- added: Julien Mangeard
-- added: Chief Technology Officer
-- added: Veepee
-- removed: The adoption was quick and easy. Say goodbye to the multiple conversations on Slack - we saved time and gained visibility!
-- removed: Aurélie de Raphélis Soissan
-- removed: Head of People
-- removed: Gymlib
+- added: $61,137
+- added: ▲ 5.07%
+- added: $1,711
+- added: ▲ 3.64%
+- added: $554
+- added: ▲ 4.50%
+- added: $71
+- added: ▲ 2.54%
+- added: $0.9302
+- added: ▲ 3.18%
+- added: $0.9993
+- added: ▼ 0.01%
+- added: $0.1461
+- added: ▲ 4.00%
+- added: $0.0554
+- removed: $57,902
+- removed: ▼ 6.38%
+- removed: $1,630
+- removed: ▼ 6.96%
+- removed: $525
+
+## [Embedder](https://embedder.com/company)
+
+- added: Product FAQ
+- added: FAQ
+- added: Hardware fit, verified workflows, data handling, and deployment.
+- added: 01 Coverage
+- added: Which platforms and peripherals does Embedder support?
+- added: Embedder's catalog covers 600+ platforms from 14 chip and board manufacturers, including ST, NXP, Nordic, Espressif, Infineon, Renesas, Silicon Labs, TI, Microchip, XMOS, and Raspberry Pi, plus 5,800+
+- added: Which debug probes and lab instruments does Embedder work with?
+- added: Embedder flashes and debugs through SEGGER J-Link and J-Trace, ST-Link and CMSIS-DAP via OpenOCD, probe-rs, TI XDS, and XMOS xTAG. On the bench it drives Saleae and DSLogic logic analyzers, Digilent W
+- added: Which EDA tools do you support for schematics?
+- added: Altium, KiCad, Eagle, PADS, Xpedition, and EasyEDA, plus EDIF exports. Embedder parses native design files into board context, including components, pins, nets, buses, device addresses, and power topo
+- added: What languages and RTOSes does Embedder work with?
+- added: C, C++, and Rust across bare-metal and RTOS projects. Embedder works with the stacks already in your repository, including FreeRTOS, Zephyr, nRF Connect SDK, ESP-IDF, STM32Cube, MCUXpresso, Renesas FS
+- added: Does Embedder support embedded Linux?
+- added: Yes. Embedder works on embedded Linux as well as microcontroller firmware. Linux targets such as Raspberry Pi computers and Compute Modules use the same repository, documentation, toolchain, and hardw
+- added: 02 Workflow
+
+## [Employment Hero](https://employmenthero.com/jobs/)
+
+- added: Bullo River Station – Sous Chef
+- added: The Landsmith Collection Pty Ltd
+- added: Timber Creek, Northern Territory 0852
+- added: Bullo Tourism
+- added: Posted 4 hours ago
+- added: Personal Advisor
+- added: Veritas House
+- added: Orange, New South Wales 2800
+- added: • A$47 – A$50
+- added: Disability Support Worker – Complex Support Needs Respite (Cranbourne)
+- added: Sunrise 2 Sunrise
+- added: Cranbourne, Victoria 3977
+- added: • A$47 – A$51
+- added: Posted 6 hours ago
+- added: Disability Support Worker – Complex Needs SIL (Donnybrook)
+- removed: Social Media & Marketing Coordinator at Peekaboo Erina
+- removed: Peekaboo Erina
+- removed: Erina Fair, New South Wales 2250
+- removed: • A$70k – A$80k
+- removed: Posted 9 hours ago
+
+## [Enjamb Labs](https://www.enjamb.ai/careers)
+
+- added: Intelligence is earned.
+- added: If you've worked next to someone with decades in their field, you know this. They look at a design and know it's wrong before they can tell you why. They learned it over years of getting it wrong.
+- added: General models haven't learned it yet. Their work impresses anyone outside the field, but an expert spots the mistakes in minutes. To that expert, a model with supposedly endless knowledge looks like 
+- added: Code was the first field where experts truly marveled at what models could do, and it makes sense that it came first. Code is the basic primitive of computers, the models themselves are made of it, an
+- added: In almost every other field, the experience of how people mastered their craft sits locked inside the companies where they did the work, lost to old hardware and external drives, in formats nobody rea
+- added: We're Enjamb, and we build Earned Intelligence.
+- added: We recover the expert work buried inside companies and use it to give foundation models the intuition they can't learn from the open web. For companies, we train custom models on your own history and 
+- added: We're already seeing this with 13 AI and robotics labs. Together we are building the data, environments and evals that give their models intuition for the physical world.
+- added: Our founders are published researchers. Rayan built ML models for cancer genomics and spatial transcriptomics that outperformed state-of-the-art methods, working with data that sits locked inside clin
+- added: We're backed by Y Combinator.
+- added: If our thesis resonates with you, we'd love to hear from you .
+- added: — Rayan, Maadhav, and the Enjamb team
+- removed: Careers
+- removed: We’re Changing How Medicine Is Made
+- removed: Explore Roles
+- removed: Our values are what we owe the teams who trust us with their science, and what we expect from each other.
+- removed: Agency
 
 ## [Forem](https://dev.to/t/career)
 
-- added: The Third Cup: Five Elements, One IT Company
-- added: xulingfeng
-- added: for The Third Cup
-- added: Nov 22
-- added: # discuss
-- added: # management
-- added: # programming
-- added: 37 reactions
-- added: 8 comments
-- added: Your Team Ships Faster Every Quarter and Understands Its Own Code Less. Nobody's Measuring That.
-- added: Debashish Ghosal
-- added: 11 reactions
-- added: AI made us ten times faster. Nobody told us where the customers would come from.
-- added: Saifuddin Ahmed
-- added: # beginners
-- removed: Will AI Replace Product Managers? What the 2026 Evidence Says
-- removed: Fathy Shalaby
-- removed: Nov 21
-- removed: # productmanagement
-- removed: # willaireplaceproductmanagers
+- added: Coding agents won't replace you, but they're changing what "senior" means
+- added: Avoids rubber-stamping 2,000 lines of agent output
+- added: amananandrai
+- added: 6 reactions
+- added: 2 comments
+- added: Readers love the cozy café narrative framing
+- added: 71 reactions
+- added: 30 comments
+- added: I backtested "important questions" on 23 real exam papers. Topic prediction barely beat random.
+- added: Rajan Nishad
+- added: # javascript
+- added: # education
+- added: His Green Squares
+- added: AheadKit
+- added: I built AI agents that apply to jobs. The forms were harder than the AI.
+- removed: 37 reactions
+- removed: 8 comments
+- removed: Your Team Ships Faster Every Quarter and Understands Its Own Code Less. Nobody's Measuring That.
+- removed: Debashish Ghosal
+- removed: # productivity
 
-## [ownCloud](https://owncloud.com/career/)
+## [Jcode](https://jcode.sh/careers)
 
-- added: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1795294377 uolcn 1795294377 wo@kr 1795294377 
-- added: Please send us your application via e-mail to moc.d 1795294377 uolcn 1795294377 wo@kr 1795294377 ow 1795294377 – We will get back to you as soon as possible.
-- removed: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1795205276 uolcn 1795205276 wo@kr 1795205276 
-- removed: Please send us your application via e-mail to moc.d 1795205276 uolcn 1795205276 wo@kr 1795205276 ow 1795205276 – We will get back to you as soon as possible.
+- added: 2026-11-22 · today
+- added: Changes since v1.0.3
+- added: commit Wait for network recovery and auto-resume active turns after disconnects
+- added: gemini native deferred tool loading via Interactions tool retrieval
+- added: tui show late MCP tool announcement as a one-line summary
+- added: commit kv cache: learn implicit-cache tail gap, flag read regressions and outlier gaps
+- added: antigravity support reasoning effort switching via sibling models
+- added: failover fix automatic account routing for Antigravity quota 429s
+- added: mcp announce late MCP tools by name and short description; fetch schemas via mcp search
+- added: release keep Discord updates and release notes complete across bundled changes
+- added: release fix draft baselines, auto-multipart Discord posts, and in-place refresh
+- added: release strip dangling unclosed backticks in legacy self-dev bullets
+- added: gemini stream thought summaries live over SSE for Gemini and Antigravity
+- added: update add one-command prerelease switching and live reload across installer, CLI, and TUI
+- added: feat paste any API key with auto-detection, validation, and masking
+- removed: 2026-11-19 · 3d ago
+- removed: Changes since v1.0.1
+- removed: docs attribute allocator discrepancy with matched cache controls
+- removed: commit Avoid discarded provider-native displays during call input lookup
+- removed: commit Avoid cloning rendered tool input solely for image context
 
-## [pyannoteAI](https://www.pyannote.ai/)
+## [Swadesi Way](https://swadesiway.com/explore)
 
-- added: Apply now
-- added: M a k e s e v e r y c o n v e r s a t i o n u n d e r s t a n d a b l e
-- added: Up to 52% lower transcription error
-- added: 1B+ open-source downloads
-- added: 375k+ developers
-- added: 00:04-00:08
-- added: Happy
-- added: 00:13-00:15
-- added: Confident
-- added: 00:25-00:31
-- added: Enthusiasm
-- added: Speaker 1
-- added: Mark
-- added: 00:07-00:12
-- added: Worried
-- removed: Precision-3
-- removed: Try it now!
-- removed: No credit card required
-- removed: Choose a sample audio
-- removed: Or upload your audio
-
-## [Saleor](https://saleor.io/)
-
-- added: 462,817
-- added: 909,365
-- added: 5 days ago 3.23.50
-- added: 19 days ago 3.22.77
-- added: 3.23.50 5 days ago
-- added: 3.22.77 19 days ago
-- removed: 877,535
-- removed: 895,541
-- removed: 4 days ago 3.23.50
-- removed: 18 days ago 3.22.77
-- removed: 3.23.50 4 days ago
-
-## [Supermemory AI](https://supermemory.ai/careers.html)
-
-- added: Status
-- added: Superintelligence requires supermemory
-- added: supermemory is a frontier lab building memory and continual learning systems for agents.
-- added: We build the best, fastest, and most affordable way for agents to turn raw context into long-horizon knowledge for personalization and self-improvement.
-- added: Start building for free Talk to sales
-- added: Used in production by the world's best agents
-- added: shapes.inc
-- added: Zo Computer
-- added: Keiki
-- added: Join 100,000+ developers building with supermemory.
-- added: Adobe
-- added: Microsoft
-- added: Salesforce
-- added: ByteDance
-- added: The best short and long-term memory for your agent.
-- removed: Human Agent
-- removed: Introducing supermemory Read the post
-- removed: supermemory is building the default engine for memory and continual learning for agents.
-- removed: Available through our API, plugins, and MCP.
-- removed: Build with supermemory Talk to sales
+- added: Showing 1–12 of 201 results
+- added: Organic Red Dragon Fruit (2-3 pcs/kg)
+- added: Price range: ₹180.00 through ₹1,050.00
+- added: 1 pc (300-400g)
+- added: Organic Red Dragon Fruit (2-3 pcs/kg) quantity
+- added: Organic Tomato
+- added: Price range: ₹70.00 through ₹130.00
+- added: Organic Tomato quantity
+- added: Organic Ginger
+- added: Organic Ginger quantity
+- added: Organic Mirch/Green Chilli
+- added: ₹ 20.00
+- added: Organic Mirch/Green Chilli quantity
+- added: Organic Desi Coriander (Dhaniya)
+- added: ₹ 30.00
+- removed: Showing 1–12 of 199 results
+- removed: Organic Bhindi/Okra
+- removed: Organic Bhindi/Okra quantity
+- removed: Organic Cauliflower (Gobhi)
+- removed: Organic Cauliflower (Gobhi) quantity
 
 ## [Upworthy](https://www.upworthy.com/jobs-that-pay-well-people-dont-realize/)
 
-- added: Communication
-- added: If you struggle with changing people’s minds, it probably says something positive about you
-- added: A drum sound on ‘Stayin’ Alive’ repeats for a reason you can hear in another Bee Gees hit
-- added: The Beatles threw the Monkees a party. Micky Dolenz hid the guests in a song.
-- added: A crash closed the highway an hour before their wedding. An elk hunter saved the day with his dirt bike.
-- added: Life Hacks
-- added: Therapist explains why so many of us always feel ‘drained’ using a powerful ‘fire hose’ metaphor
-- added: Animals
-- added: The common backyard birds that can remember your face, and sometimes bring you gifts
-- added: Evan Porter
-- added: Audrey Hepburn gave a beautifully defiant response when a photographer offered to erase her wrinkles
-- added: Wholesome
-- added: Before 86-year-old went viral for singing ‘Landslide,’ she had a job in Dallas that few karaoke singers can claim
-- added: Cecily Knobler
-- added: Health
-- removed: Nature
-- removed: 8 of the most stunning photos from National Geographic’s Pictures of the Year 2026 issue
-- removed: Family
-- removed: Her baby supposedly died in a house fire. Six years later, she spotted her at a birthday party.
-- removed: Pop Culture
+- added: Nature
+- added: 8 of the most stunning photos from National Geographic’s Pictures of the Year 2026 issue
+- added: Family
+- added: Her baby supposedly died in a house fire. Six years later, she spotted her at a birthday party.
+- added: Pop Culture
+- added: The ‘Frasier’ theme song sounds like a dinner order. Its composer was given a problem to solve.
+- added: She photographed what people touched in a day. The objects tell surprisingly personal stories.
+- added: One of the most familiar voices on ‘Gimme Shelter’ belonged to a singer called out of bed
+- added: Science
+- added: Psychologists explain 6 traits of people who have kept friends for 20 years
+- added: Florence Pugh posted a fantastic reality check about aging after plastic surgery rumors
+- added: Heather Wake
+- added: Rob Lowe gets intimate about his childhood, Gen X nostalgia, and second chances
+- added: Education
+- added: English professor explains why happy, successful people have one thing in common: true literacy
+- removed: Communication
+- removed: If you struggle with changing people’s minds, it probably says something positive about you
+- removed: A drum sound on ‘Stayin’ Alive’ repeats for a reason you can hear in another Bee Gees hit
+- removed: The Beatles threw the Monkees a party. Micky Dolenz hid the guests in a song.
+- removed: A crash closed the highway an hour before their wedding. An elk hunter saved the day with his dirt bike.
 
-## [You are launched](https://www.urlaunched.com/join-us)
+## [Zidisha](https://www.zidisha.org/careers.html)
 
-- added: Android Developer
+- added: 309,690
+- added: $21,490,447
+- added: 464,182
+- added: 54 % raised · $17 to go
+- added: Fund my catering group
+- added: Kitui Town, Kenya
+- added: By Shadrack Restaurant
+- removed: 309,688
+- removed: $21,490,223
+- removed: 464,166
+- removed: 4 % raised · $23 to go
+- removed: Cyber cafe and and phone accessories
 
 ## [Asha Health](https://careers.asha.health/) (minor change)
 
-- added: {"message":"I am alive","env":"production","timestamp":"2026-11-22T08:52:08.446Z"}
-- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-21T20:18:36.827Z"}
+- added: {"message":"I am alive","env":"production","timestamp":"2026-11-22T20:31:54.633Z"}
+- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-22T08:52:08.446Z"}
 
 ## [Bacula Systems](https://www.baculasystems.com/company/careers/) (minor change)
 
-- added: offsite backup
-- added: corporate data backup
-- removed: hyper v backup software
-- removed: bare metal recovery
-
-## [Bristle](https://www.bristlehealth.com/pages/careers-1) (minor change)
-
-- added: $119.00
-- added: OUR BLACK FRIDAY SALE IS LIVE | CLICK HERE TO GET $50 OFF THE ORAL HEALTH TEST
-- removed: $189.00
+- added: virtual machine backup software
+- added: backup active directory
+- added: ransomware backup strategy
+- removed: offsite backup
+- removed: corporate data backup
+- removed: windows server backup solutions
 
 ## [Casco](https://casco.com/careers) (minor change)
 
-- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-134623
-- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-134009
-
-## [ContraForce](https://www.contraforce.com/careers) (minor change)
-
-- removed: Careers
+- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-134624
+- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-134623
 
 ## [DappRadar](https://dappradar.com/careers) (minor change)
 
-- added: A7A5 $0.0121 +195.28% REF $0.0768 +191.00% AKE $0.0₂279 -45.43% SKYAI $0.0377 +38.28% VVV $25.37 +17.16% ETHFI $0.4851 +14.02% PEARL $1.97 +13.16% NIGHT $0.0444 +11.25% DASH $34.85 +9.76% RENDER $1.34
-- removed: REF $0.0768 +191.00% A7A5 $0.0119 +190.62% SKYAI $0.0372 +32.87% VVV $23.90 +20.92% AKE $0.0₂530 -14.90% PEARL $1.88 -13.48% M $0.7626 -11.19% LAB $0.0329 +10.38% NIGHT $0.0454 +8.79% UNI $4.70 +8.58%
+- added: REF $0.0768 +191.00% AKE $0.0₂278 -46.33% VELVET $0.071 +12.66% RAIN $0.0₂323 -11.88% BTW $0.7344 +9.15% VVV $26.21 +8.67% ETHFI $0.5008 +7.79% CPOOL $0.0248 +7.05% H $0.0118 +6.83% PYTH $0.0515 +6.73
+- removed: A7A5 $0.0121 +195.28% REF $0.0768 +191.00% AKE $0.0₂279 -45.43% SKYAI $0.0377 +38.28% VVV $25.37 +17.16% ETHFI $0.4851 +14.02% PEARL $1.97 +13.16% NIGHT $0.0444 +11.25% DASH $34.85 +9.76% RENDER $1.34
 
-## [Episource](https://www.optum.com/en/careers.html) (minor change)
+## [Evrone](https://evrone.com/hiring) (minor change)
 
-- added: Skip to Optum Assistant
-
-## [Jcode](https://jcode.sh/careers) (minor change)
-
-- added: 2026-11-19 · 3d ago
-- added: 2026-11-18 · 4d ago
-- added: 2026-11-17 · 5d ago
-- removed: 2026-11-19 · 2d ago
-- removed: 2026-11-18 · 3d ago
-- removed: 2026-11-17 · 4d ago
+- added: +49 176 24514399
+- added: Kemperplatz 1, 10785 Berlin
+- removed: +1 415 425 2526
+- removed: 44 Tehama St, San Francisco, CA 94105
 
 ## [Jinba](https://jinba.io/careers) (minor change)
 
-- added: 50°F
-- removed: 41°F
+- added: 39°F
+- added: 54°F
+- removed: 52°F
+- removed: 50°F
 
-## [Kairox Systems](https://www.kairoxsys.com/careers) (minor change)
+## [Langfuse](https://langfuse.com/careers) (minor change)
 
-- removed: Mechanical Engineering Micro-Intern Engineering Apply
-- removed: Embedded Engineering Micro-Intern Engineering Apply
+- added: ClickHouse backs us
+- added: ClickHouse gives us a global sales team that sells Langfuse and a much larger audience for our launches. The engineers who build the database are one message away. We set our own roadmap.
+- removed: ClickHouse backs us and stays out of the way
+- removed: We set our own roadmap. ClickHouse gives us a global sales team that sells Langfuse and a much larger audience for our launches. The engineers who build the database are one message away.
 
-## [ObsessionDB](https://obsessiondb.com/careers.html) (minor change)
+## [Luca IQ](https://lucaiq.com/careers/) (minor change)
 
-- removed: Binary Builders
+- added: 0 positions
+- added: No open roles right now. We're always glad to meet sharp people, though.
+- added: Write to us anyway
+- removed: 2 positions
+- removed: Founding Tax Lead (CPA or EA Required)
+- removed: Full-time · Remote (US) or Chicago, IL
+- removed: Bring years of hands-on tax preparation and review experience to help shape the tax platform professionals should have had years ago.
+- removed: Tax Full-time Remote or Chicago
 
-## [Ollie Order](https://ollieorder.com/) (minor change)
+## [Netdata](https://www.netdata.cloud/join-us/) (minor change)
 
-- added: Most reviewed craft beverage management software and ERP as of November 22, 2026
-- removed: Most reviewed craft beverage management software and ERP as of November 21, 2026
+- added: 81.4k + stars and growing daily
+- added: 81.4k + stars. Full ML, AI, and automation—GPLv3+, not premium add-ons.
+- added: 81.4k + GitHub stars
+- added: Open source ( 81.4k + stars)
+- removed: 80k+ stars and growing daily
+- removed: 80k+ stars. Full ML, AI, and automation—GPLv3+, not premium add-ons.
+- removed: 80,000+ GitHub stars
+- removed: Open source (80k+ stars)
 
-## [Plex](https://www.plex.tv/careers/) (minor change)
+## [Pine Park Health](https://www.pineparkhealth.com/careers) (minor change)
 
-- added: FAN FRIDAY SALE: 40% off ALL Plex Pass plans
-- added: Our biggest sale of the year is here—use code FANFRIDAY40 for 40% off any Plex Pass plan. Redeem now
+- removed: “Pine Park Health is an amazing organization with a great company culture. Working on the growth team, I love helping people find high quality, person centered care. I’m continually inspired by the co
+- removed: Gary Lazonne
+- removed: Enrollment Director
+- removed: “Working at Pine Park Health brings me so much purpose as a provider. Being present in the community and having more time with each of our patients also allows me to deliver compassionate care with co
+- removed: Lyz Villa
 
-## [Preseen](https://preseen.com/) (minor change)
+## [Saleor](https://saleor.io/) (minor change)
 
-- added: Updated Nov 22, 2026
-- added: 80% range 27 – 33
-- removed: Updated Nov 8, 2026
-- removed: 80% range 29 – 33
-
-## [Qovery](https://www.qovery.com/careers) (minor change)
-
-- added: Dec 1, live webinar: Agents in production, live: who gives the agent production access?
-- added: Register
-- removed: Nov 28, Paris: AI Health Hack #2 with Alan, Qovery and AWS. Applications close Nov 21
-- removed: Apply
-
-## [Seal](https://seal.run/careers) (minor change)
-
-- removed: Seal
-- removed: Your process, working 48 hours after we agree its scope.
-- removed: Book a demo
+- added: 899,539
+- added: 934,983
+- removed: 462,817
+- removed: 909,365
 
 ## [Skill-lync](https://skill-lync.com/recent-placements) (minor change)
 
-- added: Updated 22 Nov 2026
-- removed: Updated 21 Nov 2026
-
-## [Swadesi Way](https://swadesiway.com/explore) (minor change)
-
-- removed: Organic Red Dragon Fruit (2-3 pcs/kg)
-- removed: Price range: ₹140.00 through ₹1,050.00
-- removed: 1 pc (300-600g)
-- removed: Organic Red Dragon Fruit (2-3 pcs/kg) quantity
-- removed: Desi Lauki (Bottle Gourd)
+- added: Updated 23 Nov 2026
+- removed: Updated 22 Nov 2026
 
 ## [The Centre for Effective Altruism](https://www.effectivealtruism.org/careers) (minor change)
 
-- added: 22 subscribed today
-- removed: 25 subscribed today
-
-## [The Essential](https://theessential.com/pages/join) (minor change)
-
-- added: Bookshelves 25% Off
-- removed: Switch Plates 24% Off
+- added: 35 subscribed today
+- removed: 22 subscribed today
 
 ## [VideoLingo](https://videolingo.io/careers.html) (minor change)
 
-- added: 19348 Stars
-- removed: 19346 Stars
-
-## [Vivo](https://vivo.gupy.io/) (minor change)
-
-- added: 73 jobs found for 0 filters applied
-- removed: 78 jobs found for 0 filters applied
+- added: 19354 Stars
+- removed: 19348 Stars
 
 ## [Wazuh](https://wazuh.com/careers/) (minor change)
 
-- added: Content Team
-- removed: CTI Team
+- added: CTI Team
+- removed: Content Team
 
-## [Zeit.io](https://zeit.io/en/blog) (minor change)
+## [WikiHow](https://www.wikihow.com/wikiHow:Jobs) (minor change)
 
-- added: 118 articles found
-- added: Four-eyes approval for incoming invoices
-- added: Whoever uploads an incoming invoice now picks the approvers right away – ZEIT.IO sends the request by email. Separate permissions for capturing and approving turn this into an enforced four-eyes princ
-- added: Robert Reiz | November 22, 2026 - 06:47 UTC
-- removed: 117 articles found
-- removed: Projects now copy and close themselves – plus 30 more updates
-- removed: 33 updates in September: projects copy and close themselves, invoices go to multiple recipients, and bank matching handles bulk payments and skonto. Important for admins: project permissions no longer
-- removed: Robert Reiz | October 01, 2026 - 04:44 UTC
+- added: 226
+- removed: 184
 
 ## Pages failing for 3+ checks
 
@@ -275,6 +307,7 @@ Checked 2026-11-22 08:53 UTC: 1757 pages, 32 changed, 8 look like new postings.
 - inpharmd.com: no readable text (JavaScript page?)
 - kaagaz.app: no readable text (JavaScript page?)
 - nuvocargo.com: failed (HTTP 404)
+- princeps.dev: failed (HTTP 404)
 - wherobots.com: no readable text (JavaScript page?)
 - ariglad.com: failed (HTTP 404)
 - studysoup.com: failed (HTTP 403)
@@ -564,7 +597,7 @@ Checked 2026-11-22 08:53 UTC: 1757 pages, 32 changed, 8 look like new postings.
 - stormy.ai: no readable text (JavaScript page?)
 - strongcompute.com: no readable text (JavaScript page?)
 - studystream.live: failed (HTTP 404)
-- trysummon.com: no readable text (JavaScript page?)
+- trysummon.com: failed (robots)
 - sunlightapi.com: no readable text (JavaScript page?)
 - superdesign.dev: no readable text (JavaScript page?)
 - superlog.sh: failed (HTTP 404)

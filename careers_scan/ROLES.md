@@ -1,6 +1,6 @@
 # Cloud, DevOps, SRE, platform and infrastructure roles (no job board)
 
-Updated 2026-11-22 08:53 UTC. **90 open roles** at 70 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
+Updated 2026-11-22 20:33 UTC. **90 open roles** at 70 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
 
 **Apply:** the ✉ link opens an email to the company's hiring address with the subject filled in; attach your résumé. Scores and notes use the radar's rules (config.yaml): higher is a better early-career fit; "location unclear" means the page didn't say, so check it. 🆕 = first seen in the last 2 days.
 

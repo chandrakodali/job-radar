@@ -226,118 +226,61 @@ Get Jcode Desktop
 Changelog
 Releases and changelog . Full history on GitHub releases .
 Unreleased
-2026-11-19 · 3d ago
-Changes since v1.0.1
+2026-11-22 · today
+Changes since v1.0.3
 Automatically listed from commit messages.
-docs attribute allocator discrepancy with matched cache controls
-commit Avoid discarded provider-native displays during call input lookup
-commit Avoid cloning rendered tool input solely for image context
-perf move owned histories into response requests
-test clarify serialized uplink fixture locking
-perf fingerprint borrowed canonical fields without payload clones
-perf skip discarded full replay request construction
-docs record optimized ownership acceptance and open gates
-perf move final rendered text buffers
-perf borrow canonical request logging fields
-perf borrow fresh websocket wire payload
-docs validate renderer ownership optimizations in hosted release
-docs integrate optimized owned history and replay evidence
-docs record ownership runtime acceptance and residual profile gate
-perf decode image preflight base64 once
-docs attribute fresh daemon memory before startup optimization
-updater fall back to newest stable release with this platform's asset and checksum
-release async per-platform publish, overlapped CI gate, dry-run mode, faster Intel mac and Linux compat builds
-perf reuse exact Gemini JSON bytes across retries
-test measure isolated image preflight allocations and CPU
-docs record bounded longevity and 32-session runtime acceptance
-perf share identical daemon HTTP client initialization
-docs attribute concurrent request peak to wire buffer capacity
-docs record startup memory controls and reject parser CPU tradeoff
-docs distinguish repeated executable residency from heap savings
-docs collect broader efficiency integration evidence and open gates
-bench reject wire buffer capacity tradeoffs with optimized probe
-docs control executable cache state in startup measurements
-bench measure conditional large wire-buffer shrink tradeoffs
-docs close broader runtime acceptance and measured stopping gates
-commit Count diagnostic swarm event bytes without buffering Debug output
-test measure reconnect retention and exact diagnostic CPU cost
-release build Linux x86_64/aarch64 on justrust hosted with baseline and native ARM acceptance
-docs record rebuilt daemon reconnect acceptance
-commit Stream debug event query payloads through the pretty formatter
-bench distinguish allocator-cache savings from CPU tradeoffs
-release run hosted Linux build tooling from the workflow commit
-commit Indicate accepted Jarvis requests in Waybar without exposing captions
-commit Explain Jarvis captions and Waybar acceptance feedback
-commit Emit bounded display captions before voice intent classification
-commit Display ephemeral local Jarvis captions and signal Jev acceptance
-commit Tell always-on Jarvis which speech is actionable
-commit Show selfdev build updates as compact tool rows
-commit Cover the always-on voice envelope policy
-commit Classify the newest voice utterance with bounded speech and chat context
-commit Recognize directed answers to Jarvis follow-up questions
-commit Show running Jarvis transcript and dispatch gated speech with context intact
-commit Explain Jarvis intent confidence on transcript rows
-commit Correlate heard captions with validated Jev gate scores
-commit Style live Jarvis captions by their gate score
-commit Resolve scored caption type in nested renderer module
-commit Fn key push-to-talk for always-on Jarvis via the companion
-commit Keep Jarvis modes across client reload, restart, update, and hibernate
-docs update downloads badge
-commit Recognize collaborative and conversational voice requests
-commit Preserve screenshot history until the inline byte budget is exceeded
-release prepare jcode v1.0.2
-commit Keep GPT-6.2 stable instructions in the cacheable history
-commit Format screenshot persistence regression fixture
-commit Extract ambient commands, resume dispatch, and mobile sync loop
-commit Check the hosted ARM toolchain used by public releases
-commit Extract TUI voice, swarm and rendering test modules
-commit Extract OpenAI request construction and remove runtime input panics
-commit Handle ambient terminal title errors without interrupting the session
-commit Keep server diagnostics and native tool fallbacks within guardrails
 docs update weekly stars chart
-companion Fn opens an always-on Jarvis when none is running
-voice simplify Jarvis Jev gate to 'should Jarvis wake up and act on this?'
-jarvis Fn tap sends what Jarvis just heard; allow 0.5 gate threshold
-voice Jev judges a continuous transcript with more chat context
-voice restore Fn tap manual trigger accidentally reverted in 6257c47f4
-jarvis play a sound when speech triggers Jarvis (jarvis.listening.trigger_sound)
-jarvis speak an acknowledgement first, then a summary when done
-voice stream continuous utterances to Nari from speech onset
-jarvis play trigger sound on Fn tap; explain ignored taps while paused
-voice early-trigger Jarvis on gated Nari partials, soft-interrupt continuations
-jarvis provisional still_speaking requests, speak only after the user finishes
-companion configurable Jarvis key, jarvis_key = "rightshift" when Fn never reaches Linux
-voice stream live Nari revisions into the Heard caption as you speak
-commit Remove assistant-name bias from Nari dictation
-commit Document the Linux self-dev prerelease opt-in
-commit Point Linux testers to self-dev prereleases
-commit Give portable Linux self-dev builds a distinct prerelease identity
-commit Exercise self-dev identity propagation to hosted compiler
-commit Dispatch opt-in Linux prereleases after successful real selfdev builds
-commit Publish portable Linux self-dev prereleases for verified master commits
-commit Run self-dev publication regressions in CI
-commit Fast-path single-edit ASCII words during fuzzy transcript search
-commit Hide routine swarm wait receipts from the transcript
-commit Prefer short keyword sets found together in a user prompt
-commit Distinguish elapsed background task reviews from silence notices
-commit Wake the agent for a one-time review after five minutes of background execution
-commit Expose elapsed timer hook to background registration
-commit Document cancellation as a todo action
-commit Hide legacy cancelled tasks in live TUI todo lists
-commit Persist cancellation history separately from active todos
-commit Exclude retired todos from live picker and worker progress dots
-commit Clear a linked worker plan when its last lane item is withdrawn
-commit Withdraw todos by name with an archived reason and prerequisite checks
-commit Announce published Linux self-dev prereleases in Discord updates
-v1.0.1
-2026-11-18 · 4d ago
-Model catalog fix
+commit Wait for network recovery and auto-resume active turns after disconnects
+gemini native deferred tool loading via Interactions tool retrieval
+tui show late MCP tool announcement as a one-line summary
+commit kv cache: learn implicit-cache tail gap, flag read regressions and outlier gaps
+antigravity support reasoning effort switching via sibling models
+failover fix automatic account routing for Antigravity quota 429s
+mcp announce late MCP tools by name and short description; fetch schemas via mcp search
+release keep Discord updates and release notes complete across bundled changes
+release fix draft baselines, auto-multipart Discord posts, and in-place refresh
+release strip dangling unclosed backticks in legacy self-dev bullets
+gemini stream thought summaries live over SSE for Gemini and Antigravity
+update add one-command prerelease switching and live reload across installer, CLI, and TUI
+feat paste any API key with auto-detection, validation, and masking
+doctor update Antigravity SSE docs and add live thought probe tests
+feat unify collapsible OAuth/device progress cards and OpenAI TUI device fallback
+commit Gemini 4 context fallback 1M; hide retired Gemini OAuth row from account router without a Cloud project
+commit gemini/antigravity: send dynamic thinkingBudget/thinkingLevel for live thoughts
+feat 4-option login choice (OpenAI, Claude, API key, Skip) and login TUI tests
+fix resolve auto-import detection, validation, and TUI activation bugs
+feat shorten /login picker to starter list with More providers expansion
+fix advertise image input support on AntigravityProvider
+fix prevent infinite client/server reload loops on Termux and duplicate installs
+release include version number in Linux prerelease titles and Discord headings
+fix index and rank todo-plan user_intention in session picker search
+feat prefix phrase search, single-word intent rank, and match-reason hints
+release split Visual & UI Discord notes, add image attachments and before/after PNG composer
+fix keep /login starter list compact and prevent ACTION header count clipping
+tui render local Markdown images inline via Kitty/Sixel image pipeline
+docs update downloads badge
+release add automatic diff highlight boxes and --auto-crop to compose_before_after.py
+tui add client:cells[:WxH] debug command and exact TUI cell renderer in compose_before_after.py
+release render TUI cell frames at HiDPI with JetBrainsMono Nerd Font (regular/bold/italic)
+release match real terminal look in compose_before_after.py (#000000 bg, 1.18x line height, exact cell advance)
+release capture half-width client:cells:64x34 frames for side-by-side Before/After PNGs
+commit Add per-provider compaction threshold overrides
+release fix HiDPI header/badge scaling, 2-pass bg/text rendering, and vector ▰/▱ bars in compose_before_after.py
+release require visually inspecting generated Before/After PNGs with read before attaching
+commit Suppress always-on Jarvis capture during companion push-to-talk
+commit Default Jarvis Jev action_probability threshold to 0.5
+release vector-draw box-drawing borders and fallback font for ★/☆ in compose_before_after.py
+release add --before-crop-rows/--after-crop-rows and 1:1 vertical padding to compose_before_after.py
+feat top /login starter providers (OpenAI, Anthropic, Gemini, API key, Auto Import) and selfdev screenshot/before-after actions
+commit Synthesize transcripts, sanitize captures, and auto-attach selfdev Discord UI diffs
+commit Normalize jarvis_user role on SoftInterruptInjected so final transcripts render cleanly
+fix resolve formatting, clippy, dead-code, and guardrail baselines for v1.1.0
+test update login prompt and progress card test assertions for v1.1.0
+fix update url to 2.5.9 for RUSTSEC-2026-0592
+v1.0.3
+Antigravity Google login, scriptable API-key setup, and always-on Jarvis voice
 Release highlights.
-highlight Newly released models such as GPT-6.2 Sol appear in the model picker even when live catalog updates arrive while an agent is busy
-v1.0.0
-2026-11-17 · 5d ago
-Swarms, Cloud, and a lighter terminal
-highlight Reworked swarms plan jobs in phases and parallel lanes, automatically start workers as dependencies finish, and show the whole team's progress in one pinned view
-highlight jcode Cloud officially launches: move a session or coordinated swarm to a VM with /cloud, keep working after disconnecting, and bring the conversation and repository back with /local
-highlight A lighter terminal with lower CPU usage, fewer background wakeups, faster transcript rendering, and less rendered-text memory
+highlight Google personal accounts now sign in through Antigravity with Gemini 4 (Neon) as the default model and pooled Gemini, Argon, and Claude quota bars in the account router.
+highlight Every API-key provider now supports non-interactive login with --api-key, --api-key-env, and --json, including scripted AWS Bedrock and Azure OpenAI setup.
+highlight Always-on Jarvis voice now streams live captions as you speak, recovers automatically after network outages, and keeps a session-only replay history of accepted requests.
 in maintenance

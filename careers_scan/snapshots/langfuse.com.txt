@@ -20,8 +20,8 @@ RFC. You write the RFC. The team reviews it async, then we settle the hard quest
 Build. Then you build. A lot. The main PR touched 600 files. ( How we ship )
 Ship. You launch it with the GTM team: changelog , docs and marketing. ( Releases )
 Offsite. Then you meet everyone in person at an offsite in Tokyo or Berlin. ( Remote at Langfuse )
-ClickHouse backs us and stays out of the way
-We set our own roadmap. ClickHouse gives us a global sales team that sells Langfuse and a much larger audience for our launches. The engineers who build the database are one message away.
+ClickHouse backs us
+ClickHouse gives us a global sales team that sells Langfuse and a much larger audience for our launches. The engineers who build the database are one message away. We set our own roadmap.
 Our bet is that ClickHouse will be one of the great infrastructure companies of the AI era, and that joining Langfuse now means being part of that. The database already runs real-time analytics, observability, and AI workloads. Langfuse is how that platform sees what agents do in production. For more background, see below .
 AI-pilled and remote
 Everyone gets a very high AI budget. We build slides with AI, maintain our own coding harness, and almost everyone runs a small army of agents. We have three scheduled meetings a week. Everything else happens in writing (see our principles ).

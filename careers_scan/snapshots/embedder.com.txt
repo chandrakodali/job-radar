@@ -66,6 +66,38 @@ Give everyone a default allowance, then set custom daily, weekly, or monthly lim
 Shared Bridges
 Lab hardware, shared across teams
 Bridges put bench machines and HIL racks on Embedder, so the teams you grant access can use their probes and flash tools from anywhere.
+Product FAQ
+FAQ
+Hardware fit, verified workflows, data handling, and deployment.
+01 Coverage
+Which platforms and peripherals does Embedder support?
+Embedder's catalog covers 600+ platforms from 14 chip and board manufacturers, including ST, NXP, Nordic, Espressif, Infineon, Renesas, Silicon Labs, TI, Microchip, XMOS, and Raspberry Pi, plus 5,800+ peripherals: sensors, radios, power, drivers, converters, displays, memory, connectors, and more. Enterprise teams can add custom platforms and peripherals from their own documentation and target details.
+Which debug probes and lab instruments does Embedder work with?
+Embedder flashes and debugs through SEGGER J-Link and J-Trace, ST-Link and CMSIS-DAP via OpenOCD, probe-rs, TI XDS, and XMOS xTAG. On the bench it drives Saleae and DSLogic logic analyzers, Digilent WaveForms devices, Nordic PPK2 and Joulescope power analyzers, PicoScope and Siglent oscilloscopes, and SCPI scopes from Rigol, Tektronix, Keysight, Rohde & Schwarz, Teledyne LeCroy, and GW Instek. It also works with CAN adapters and Bluetooth LE devices, and hardware scripts and MCP servers extend it to custom rigs.
+Which EDA tools do you support for schematics?
+Altium, KiCad, Eagle, PADS, Xpedition, and EasyEDA, plus EDIF exports. Embedder parses native design files into board context, including components, pins, nets, buses, device addresses, and power topology, so the firmware reflects the board you built. Startup includes Altium and KiCad schematics and EDIF exports; Enterprise adds Xpedition, PADS, Eagle, and EasyEDA.
+What languages and RTOSes does Embedder work with?
+C, C++, and Rust across bare-metal and RTOS projects. Embedder works with the stacks already in your repository, including FreeRTOS, Zephyr, nRF Connect SDK, ESP-IDF, STM32Cube, MCUXpresso, Renesas FSP, and PlatformIO.
+Does Embedder support embedded Linux?
+Yes. Embedder works on embedded Linux as well as microcontroller firmware. Linux targets such as Raspberry Pi computers and Compute Modules use the same repository, documentation, toolchain, and hardware context as MCU projects, and teams can build, deploy, and test on the board from the same loop. Enterprise teams can add other application processors from their own documentation and target details.
+02 Workflow
+How does Embedder work?
+Embedder brings your codebase, hardware documentation, schematics, toolchain, and live board into one engineering loop. It carries a task from understanding the requirement through implementation and physical verification, using each build, serial log, debugger state, or instrument capture to guide the next step. The result is a reviewable change backed by evidence from the target hardware.
+How does testing work?
+Embedder writes and runs checks at the layer that proves the change: host tests, target builds, flash-and-observe checks over serial, GDB checks, or instrument captures. When a check fails, it diagnoses the cause, proposes a fix, and reruns the check on the board. Reusable hardware scripts live in your repository and run from chat, VS Code, or the CLI, and each hardware case keeps its commands, captures, and pass/fail evidence with the project.
+Do I have to change my toolchain?
+No. Embedder works in your existing repository with the compiler, build system, flasher, debugger, and RTOS you already use. The VS Code extension is the primary interface and also runs in Cursor and Windsurf. The CLI brings the same project context to the terminal and your own test pipelines, and its daemon picks up work from GitHub and Slack, including pull request review and autofix.
+Can engineers use hardware that isn't on their desk?
+Yes. A bridge runs on the Linux or macOS machine attached to the hardware, such as a bench PC or HIL rack, and makes its serial ports, debug probes, and flash tools available in Embedder. Team admins claim the bridge in the Embedder app, and the team can then select it from chat to flash, debug, and test from anywhere.
+03 Trust & Deployment
+How do engineers stay in control?
+Engineers define the task and can review or edit a plan before any code changes. Every edit lands as a pending change to keep or undo. Approval modes decide which commands and actions run without asking, project rules can require approval but never grant it, and protected files stay off-limits even when approvals are skipped. Hardware access stays arbitrated throughout.
+How does Embedder keep hardware-specific code grounded?
+Embedder indexes the datasheets, reference manuals, errata, SVD files, and schematics for your hardware, works from them, and cites the sections behind hardware-specific decisions. Every file edit is checked against the part's SVD, flagging unknown peripherals, registers, and addresses, writes to read-only registers, and reads from write-only ones. Behavior the documents can't settle, such as clocks, timing, and power sequencing, is verified on the target hardware.
+Can the agent damage my hardware?
+Embedder treats hardware access as a controlled operation. Flashing and erasing ask for approval unless you choose otherwise, and an exclusive hardware lease queues sessions and subagents so only one drives a board or probe at a time. You can inspect or release the queue whenever you need to.
+How is our code and hardware data handled?
+You keep ownership of the source code, schematics, documents, and data you submit. In Embedder's cloud, that content is processed to provide the service, including by the AI model providers that run your requests. Enterprise teams can also deploy single-tenant, in their own VPC, or on-premises, including air-gapped installs with local models, so the work stays inside infrastructure they control.
 Meet Embedder, your team's
 autonomous firmware engineer
 Latest updates View all →

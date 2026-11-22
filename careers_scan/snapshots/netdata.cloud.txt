@@ -464,7 +464,7 @@ PostgreSQL, NGINX, K8s, and more
 Maturity model and implementation
 Built in the Open
 Star Us on GitHub
-80k+ stars and growing daily
+81.4k + stars and growing daily
 Active Discussions
 Engineers helping engineers
 Migration Program
@@ -486,8 +486,8 @@ Data sovereignty by design
 Aligned pricing, no surprises
 > See all 12 principles
 Edge-Native, AI-Ready, 100% Open
-80k+ stars. Full ML, AI, and automation—GPLv3+, not premium add-ons.
-80,000+ GitHub stars
+81.4k + stars. Full ML, AI, and automation—GPLv3+, not premium add-ons.
+81.4k + GitHub stars
 GPLv3+ licensed forever
 ML on every metric, included
 Zero vendor lock-in
@@ -495,7 +495,7 @@ Zero vendor lock-in
 Build Real-Time Observability for the World
 Remote-first team shipping per-second monitoring with ML on every metric.
 Remote-first, fully distributed
-Open source (80k+ stars)
+Open source ( 81.4k + stars)
 Challenging technical problems
 Your code on millions of systems
 > See open roles
