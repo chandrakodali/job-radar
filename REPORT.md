@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**219 jobs**, newest first. Updated Sun Nov 22, 2:07 PM CST from 12,535 company job boards and other sources.
+**219 jobs**, newest first. Updated Sun Nov 22, 2:19 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 156 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,111 matching jobs that job sites and feeds listed this week, 1,467 (47%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (2)](#sunday-nov-15-2)
 
@@ -269,7 +267,7 @@ Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 11:50 PM | [Site Reliability Engineer 2](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340135) | Oracle | Nashville, TN, United States | 50 | 3+ yrs exp |
 | 6:51 PM | [Senior DevOps Engineer, Infrastructure & Reliability](https://jobs.workable.com/view/3P5xFJLRF824o6ijeaRqjm/remote-senior-devops-engineer%2C-infrastructure-%26-reliability-in-atlanta-at-worth-ai) | Worth AI | Atlanta, Georgia (remote) (remote) | 52 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (428)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (423)
 
 <details><summary>Show</summary>
 
@@ -479,7 +477,6 @@ Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 12:26 PM | [Senior System Administrator, File Services and Storage](https://job-boards.greenhouse.io/jensenhughes/jobs/5480462008) | Jensenhughes | Remote (remote) | 27 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:39 AM | [Senior Platform Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6254196004) | PlayStation | United States, San Mateo, CA | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 11:02 AM | [Production Engineer](https://jobs.ashbyhq.com/saronic/89bb0c2e-5141-49d6-9abe-d88702d36751) | Saronic | Brownsville, TX (onsite) | 55 | rules: adjacent title, little DevOps/cloud work in the text |
-| date only | [US E - GPS Consulting Services - NAVFAC CIO/Conversion - Network Engi…](https://apply.deloitte.com/en_US/careers/JobDetail/Network-Engineer/375951) | Deloitte US |  | 33 | rules: 3+ yrs exp; needs: Secret Clearance |
 | date only | [Senior Platform Engineer (Remote)](https://apply.workable.com/hospitable/j/A2091F150C/) | Hospitable | Remote, Oregon, United States (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [System Administrator III](https://hyundaiautoeveramerica.applytojob.com/apply/8FbV6EM8le/System-Administrator-III) | Hyundai AutoEver America | Savannah, GA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Systems Administrator I](https://jobs.jobvite.com/synqor-careers/job/oTi7AfwC) | SynQor | Salem, New Hampshire, United States | 70 | rules: entry-level title; 1+ yrs exp; adjacent title, little DevOps/c… |
@@ -496,6 +493,7 @@ Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | date only | [Sr Forward Deployed Engineer, Forward Deployment Engineering](https://www.amazon.jobs/en/jobs/10603958/sr-forward-deployed-engineer-forward-deployment-engineering) | Amazon Web Services, Inc. | Seattle, Washington, USA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Cloud Identity Engineer III (Entra ID)](https://fenix24.bamboohr.com/careers/176) | Fenix24 | United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Infrastructure Cost Engineer-2611260DP02](https://ardmoreroderick.applytojob.com/apply/ATCUHJUDe5/Infrastructure-Cost-Engineer2611260DP02) | Ardmore Roderick | Austin, TX | 50 | rules: 10+ yrs exp; E-Verify; asks for 10+ years of experience |
+| date only | [US E - GPS Consulting Services - NAVFAC CIO/Conversion - Network Engi…](https://apply.deloitte.com/en_US/careers/JobDetail/Network-Engineer/375951) | Deloitte US |  | 33 | rules: 3+ yrs exp; needs: Secret Clearance |
 | date only | [Vehicle Telematics System Administrator](https://apply.edisoncareers.com/job/Pomona-Vehicle-Telematics-System-Administrator-CA-91767/1451875200/) | Edison International | Pomona, CA, United States | 18 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Cloud Network Engineer](https://apply.workable.com/amerisave/j/68D7A695BF/) | Amerisave | United States (remote) | 30 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [DevSecOps Developer](https://apply.workable.com/toyota-tsusho-systems/j/2AE595764B/) | Toyota Tsusho Systems | Plano, Texas, United States (remote) | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
