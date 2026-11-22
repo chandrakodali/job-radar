@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**228 jobs**, newest first. Updated Sat Nov 21, 10:20 PM CST from 12,571 company job boards and other sources.
+**227 jobs**, newest first. Updated Sat Nov 21, 10:38 PM CST from 12,526 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-162 repeat listings (same company and title in another place or on another source) are merged into one row.
+152 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13) · [Sat 14 (1)](#saturday-nov-14-1)
+Coverage check: of 2,803 matching jobs that job sites and feeds listed this week, 1,293 (46%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (13)](#sunday-nov-15-13)
 
 ## Saturday, Nov 21 (2)
 
@@ -70,7 +72,7 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) ·
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:00 PM | [Infrastructure Software Engineer, DX](https://careers-americas.icims.com/jobs/27536/infrastructure-software-engineer%2c-dx/job) | Atlassian | Remote (remote) | 62 |  |
-| 8:07 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265312638/Senior-FinOps-Analyst-ID94366) | Agileengine | Boca Raton, United States +15 more | 25 | senior title, years not stated |
+| 8:07 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265312638/Senior-FinOps-Analyst-ID94366) | Agileengine | Boca Raton, United States +6 more | 25 | senior title, years not stated |
 | 6:30 PM | [IT Operations and Project Coordinator, IT Infrastructure](https://job-boards.greenhouse.io/clearwayjobs/jobs/5290313007) | Clearway Energy | San Diego, California, United States | 60 | 3+ yrs exp |
 | 4:20 PM | [Senior DevOps Engineer](https://jobs.workable.com/view/2hRx5JjxxEGa5gJLmvVWUb/hybrid-senior-devops-engineer-in-chicago-at-fooda) | Fooda | Chicago, Illinois (hybrid) | 60 | senior title, years not stated |
 | 3:34 PM | [Tier 1/2 Network Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680261) | 26F3B5C7 C503 49F8 9Cb4 B56B2… | Gilber, USA | 55 | 2+ yrs exp |
@@ -270,13 +272,7 @@ Jump to: [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) ·
 | date only | [Azure DevOps Engineer](https://apply.deloitte.com/en_US/careers/JobDetail/Azure-DevOps-Engineer/373104) | Deloitte US |  | 55 | location unclear |
 | 8:37 AM (seen) | [AWS Data Engineer](https://app.dover.com/apply/comsparkint/6bf1aa8d-7982-43b1-9af1-2e94c7bfdc7f) | Comsparkint | Irvine, CA (onsite) | 55 |  |
 
-## Saturday, Nov 14 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 10:37 PM (seen) | [LLM AIOps Development Engineer - Data Center Networking](https://lifeattiktok.com/search/7605333525314685237) | TikTok | Seattle, Washington, United States of A… | 50 |  |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (483)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (479)
 
 <details><summary>Show</summary>
 
