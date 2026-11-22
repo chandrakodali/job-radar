@@ -12256,7 +12256,7 @@
   "workday:analogdevices|wd1|external": 309,
   "workday:aptiv|wd5|aptiv_careers": 80,
   "workday:astemo|wd102|global_career_site": 360,
-  "workday:borgwarner|wd5|borgwarner_careers": 80,
+  "workday:borgwarner|wd5|borgwarner_careers": 20,
   "workday:brunswick|wd1|search": 20,
   "workday:carrier|wd5|jobs": 388,
   "workday:cat|wd5|caterpillarcareers": 60,
@@ -13954,7 +13954,7 @@
    "since": "2026-11-11"
   }
  },
- "found_cursor": 3041,
+ "found_cursor": 71,
  "last_digest": "2026-11-21",
  "missed_companies": {},
  "missing_once": {
@@ -20913,6 +20913,7 @@
   "workday:bcidaho|wd5|BCI": "2026-11-20T18:01+00:00",
   "workday:bci|wd10|BCI_Careers": "2026-11-20T18:01+00:00",
   "workday:blueorigin|wd5|blueorigin": "2026-11-20T18:01+00:00",
+  "workday:borgwarner|wd5|BorgWarner_Careers": "2026-11-22T01:47+00:00",
   "workday:brambles|wd5|Brambles_Careers": "2026-11-20T18:01+00:00",
   "workday:brunswick|wd1|search": "2026-11-20T18:01+00:00",
   "workday:btisolutions|wd12|External": "2026-11-20T18:01+00:00",
@@ -89004,6 +89005,7 @@
   "workday:borgwarner|wd5|BorgWarner_Careers:R2026-4452": "2026-11-11",
   "workday:borgwarner|wd5|BorgWarner_Careers:R2026-4458": "2026-11-11",
   "workday:borgwarner|wd5|BorgWarner_Careers:R2026-4475": "2026-11-11",
+  "workday:borgwarner|wd5|BorgWarner_Careers:R2026-4562": "2026-11-22",
   "workday:boseallaboutme|wd503|Bose_Careers:R29179": "2026-11-11",
   "workday:bostondynamics|wd1|Boston_Dynamics:R2655": "2026-11-12",
   "workday:bostondynamics|wd1|Boston_Dynamics:R3013": "2026-11-12",
@@ -92282,7 +92284,7 @@
   "zoho:stackand:311383000018775968": "2026-11-15"
  },
  "source_last": {},
- "term_cursor": 29,
+ "term_cursor": 39,
  "text_retries": {
   "avature:harmanglobal.avature.net|en_US/careers:32174": 2,
   "avature:harmanglobal.avature.net|en_US/careers:32516": 2,
@@ -92304,7 +92306,7 @@
   "sfrmk:join.cnh.com:1365730855": 1,
   "sfrmk:seagatecareers.com:1443168000": 3,
   "workday:allisontransmission|wd1|ATI-External:R008423": 1,
-  "workday:borgwarner|wd5|BorgWarner_Careers:R2026-4562": 2,
+  "workday:borgwarner|wd5|BorgWarner_Careers:R2026-4626": 1,
   "workday:brunswick|wd1|search:JR-048363": 1,
   "workday:cat|wd5|caterpillarcareers:R0000397286": 1,
   "workday:dtna|wd5|dtna_external:DT-20679": 2,
