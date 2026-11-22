@@ -1,17 +1,29 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**394 jobs**, newest first. Updated Sun Nov 22, 12:37 AM CST from 12,571 company job boards and other sources.
+**398 jobs**, newest first. Updated Sun Nov 22, 1:27 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-154 repeat listings (same company and title in another place or on another source) are merged into one row.
+157 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sat 21 (22)](#saturday-nov-21-22) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21)
+Coverage check: of 4,718 matching jobs that job sites and feeds listed this week, 951 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Saturday, Nov 21 (22)
+Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21)
+
+## Sunday, Nov 22 (1)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Data Center Technician - Day Shift](https://www.amazon.jobs/en/jobs/10610570/data-center-technician-day-shift) | Amazon Data Services, Inc. | Andrews, Texas, USA +5 more | 70 | 1+ yrs exp; no future H-1B sponsorship |
+
+## Saturday, Nov 21 (26)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| 11:59 PM | [IT Help Desk Agent - Entry Level](https://jobs.workable.com/view/3v6xJ3Mt7yyoBFSAhHC7Q1/remote-it-help-desk-agent---entry-level-in-bakersfield-at-dln-consulting-group) | DLN Consulting Group | Bakersfield, California (remote) (remote) | 67 | entry-level title; staffing/consulting firm: verify it's real |
+| 11:25 PM | [AI Data Quality Specialist-Entry Level](https://jobs.workable.com/view/uoLQA9kiSw29NAnyS6tNMw/hybrid-ai-data-quality-specialist-entry-level-in-memphis-at-dln-consulting-group) | DLN Consulting Group | Memphis, Tennessee (hybrid) | 75 | entry-level title; staffing/consulting firm: verify it's real |
+| 11:10 PM | [Customer Support Specialist-Entry Level](https://jobs.workable.com/view/miUr1bKbaHRWEcf7N5KQcz/hybrid-customer-support-specialist-entry-level-in-san-jose-at-dln-consulting-group) | DLN Consulting Group | San Jose, California (hybrid) | 75 | entry-level title; staffing/consulting firm: verify it's real |
+| 11:01 PM | [Data Processing Specialist-Entry Level](https://jobs.workable.com/view/cN9k7Magt9vdE8vNnG6S9J/hybrid-data-processing-specialist-entry-level-in-jacksonville-at-dln-consulting-group) | DLN Consulting Group | Jacksonville, Florida (hybrid) | 75 | entry-level title; staffing/consulting firm: verify it's real |
 | 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Square One](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827048) | Macy's | Saugus, MA, United States | 75 | entry-level title |
 | 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Burlington](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827055) | Macy's | Burlington, MA, United States | 75 | entry-level title |
 | 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Manhasset](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827097) | Macy's | Manhasset, NY, United States | 75 | entry-level title |
@@ -35,7 +47,7 @@ Jump to: [Sat 21 (22)](#saturday-nov-21-22) · [Fri 20 (79)](#friday-nov-20-79) 
 | 3:26 AM | [Vendor Stock Support Associate, Bellevue Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826998) | Macy's | Bellevue, WA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chandler Fashio…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826986) | Macy's | Chandler, AZ, United States | 75 | entry-level title |
 
-## Friday, Nov 20 (79)
+## Friday, Nov 20 (78)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -87,7 +99,6 @@ Jump to: [Sat 21 (22)](#saturday-nov-21-22) · [Fri 20 (79)](#friday-nov-20-79) 
 | 11:00 AM (seen) | [Entry Level Supply Chain Hardware Developer AZ](https://careers.ibm.com/careers/JobDetail?jobId=145322) | IBM | TUCSON, United States (hybrid) | 65 | entry-level title |
 | 11:00 AM (seen) | [Associate Application Consultant 2027 – Enterprise Application Integr…](https://careers.ibm.com/careers/JobDetail?jobId=128628) | IBM | DURHAM, United States | 60 | entry-level title |
 | date only | [Data Center Technician, DCC Communities](https://www.amazon.jobs/en/jobs/10610868/data-center-technician-dcc-communities) | Amazon Data Services, Inc. | Wharton, Texas, USA +1 more | 63 | 1+ yrs exp; no future H-1B sponsorship |
-| date only | [Data Center Technician](https://www.amazon.jobs/en/jobs/10608628/data-center-technician) | Amazon Data Services, Inc. | Clifton, Texas, USA +4 more | 70 | 1+ yrs exp; no future H-1B sponsorship; repost |
 | date only | [Associate Engineer](https://element-ext-row.icims.com/jobs/20384/associate-engineer/job) | Element Materials Technology |  | 70 | entry-level title; location unclear |
 | date only | [Video Data Capture Technician](https://truckingpeople.applytojob.com/apply/rfvduxtAmJ/Video-Data-Capture-Technician) | TRUCKING PEOPLE | Austin, TX | 75 | entry level (from the text) |
 | date only | [Data Engineer I](https://www.amazon.jobs/en/jobs/10610327/data-engineer-i) | Amazon.com Services LLC | Bellevue, Washington, USA | 85 | entry-level title; 1+ yrs exp |
@@ -437,12 +448,14 @@ Jump to: [Sat 21 (22)](#saturday-nov-21-22) · [Fri 20 (79)](#friday-nov-20-79) 
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Bay Plaza](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825513) | Macy's | Bronx, NY, United States | 75 | entry-level title |
 | 3:27 AM | [Administrative Support Team Associate, Glendale Galleria - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825453) | Macy's | Glendale, CA, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1800)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1798)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Data Center Technician - Day Shift](https://www.amazon.jobs/en/jobs/10610564/data-center-technician-day-shift) | Amazon Data Services, Inc. | Andrews, Texas, USA +4 more | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
+| 12:37 AM | [Product Security Engineer](https://jobs.lever.co/penumbrainc/3aefe2ce-28da-4aea-bfee-56662c849e1a) | Penumbra Inc | Alameda, CA (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:29 PM | [Systems Simulation Engineer (Constellation Modeling & System Simulati…](https://jobs.ashbyhq.com/Elveo/29150559-9014-4604-a81b-7750946d5d08) | Elveo | Chantilly, VA (onsite) | 80 | rules: 2+ yrs exp; needs: ITAR |
 | 7:29 PM | [Satellite Systems Operations Engineer](https://jobs.ashbyhq.com/Elveo/27c25953-b784-43ac-8d0a-934218276346) | Elveo | Chantilly, VA (onsite) | 50 | rules: 5+ yrs exp; needs: ITAR |
 | 7:29 PM | [Ground Systems Software Engineer](https://jobs.ashbyhq.com/Elveo/194cba01-5321-436d-b191-4867a4729645) | Elveo | Chantilly, VA (onsite) | 50 | rules: 5+ yrs exp; needs: ITAR |
@@ -841,7 +854,5 @@ Jump to: [Sat 21 (22)](#saturday-nov-21-22) · [Fri 20 (79)](#friday-nov-20-79) 
 | 3:54 PM | [Healthcare Support Specialist - Emergency Department](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/394699) | Mayo Clinic | Rochester, MN, United States | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
 | 3:53 PM | [Infrastructure Technician I](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7090) | Black Box | CHANDLER, AZ, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
 | 3:51 PM | [Data Scientist, Analytics](https://jobs.ashbyhq.com/decagon/da7b2a8d-e090-4ee3-b4fb-359827c6a3ec) | Decagon | San Francisco | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 3:50 PM | [System Administrator (202611A)](https://jobs.lever.co/purvis/89d3aa5a-c945-4964-8289-e3b00687d3e2) | Purvis Systems | Newport, RI (onsite) | 65 | rules: 3+ yrs exp; needs: security clearance |
-| 3:46 PM | [Build Software Engineer](https://jobs.ashbyhq.com/reliable-robotics/2d5a10d4-0644-41fa-91ed-4abde2e13bf9) | Reliable Robotics | Remote; Mountain View, CA (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
