@@ -1,10 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**95 jobs**, newest first. Updated Sat Nov 21, 10:38 PM CST from 12,571 company job boards and other sources.
+**95 jobs**, newest first. Updated Sat Nov 21, 11:26 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 113 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,390 matching jobs that job sites and feeds listed this week, 1,005 (29%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (8)](#sunday-nov-15-8)
 
@@ -138,7 +140,7 @@ Jump to: [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) ·
 | 1:23 PM (seen) | [Java Web Developer in Munich (m/f)](https://globalworking.zohorecruit.com/jobs/Careers/179458000002324008/Java-Web-Developer-in-Munich-m-f) | Globalworking | Múnich | 45 | location unclear |
 | date only | [Developer Platform Engineer (Financial Cloud)](https://intellipro.applytojob.com/apply/gLbwG8aDGS/Developer-Platform-Engineer-Financial-Cloud) | IntelliPro Group Inc. | Palo Alto, CA | 50 | requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (89)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (88)
 
 <details><summary>Show</summary>
 
@@ -220,7 +222,6 @@ Jump to: [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) ·
 | 1:23 PM (seen) | [Mid-Level Developer (Java/Backend) / Req#4236](https://jobs.jobvite.com/actionet-review/job/ofumzfwo) | Actionet Review | Remote, United States | 45 | rules: 3+ yrs exp; needs: Must be a U.S. Citizen |
 | 1:23 PM (seen) | [Senior Developer (Java/Backend) / Req#4235](https://jobs.jobvite.com/actionet-review/job/o6umzfwf) | Actionet Review | Remote, United States | 30 | rules: 5+ yrs exp; senior title; needs: Must be a U.S. Citizen |
 | 1:23 PM (seen) | [Full Stack Cloud Developer / Req#4695](https://jobs.jobvite.com/actionet-review/job/oRvIAfwo) | Actionet Review | Suitland, Maryland | 15 | rules: 7+ yrs exp; requires Java; needs: public trust clearance |
-| date only | [Sr Software Engineer - Backend (Java)](https://paypal.eightfold.ai/careers/job/274922508777) | PayPal | Scottsdale, AZ, US (hybrid) | 43 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Software Engineer - SS&C EVOLV](https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Remote---Virginia-US/Senior-Software-Engineer---SS-C-EVOLV_R46067) | SS&C | Remote - Virginia, US (remote) | 20 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:23 PM | [Senior Software Engineer](https://job-boards.greenhouse.io/natera/jobs/6261258004) | Natera | US Remote (remote) | 15 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
 | date only | [Senior Integrations & API Engineer](https://aspca.wd1.myworkdayjobs.com/ASPCAWebsite/job/Remote---New-York/Senior-Integrations---API-Engineer_2026-658) | Aspca | Remote - New York (remote) | 20 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
