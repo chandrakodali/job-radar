@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**395 jobs**, newest first. Updated Sat Nov 21, 10:03 PM CST from 12,571 company job boards and other sources.
+**394 jobs**, newest first. Updated Sat Nov 21, 11:01 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 154 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sat 21 (22)](#saturday-nov-21-22) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21) · [Sat 14 (1)](#saturday-nov-14-1)
+Coverage check: of 4,644 matching jobs that job sites and feeds listed this week, 938 (20%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sat 21 (22)](#saturday-nov-21-22) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21)
 
 ## Saturday, Nov 21 (22)
 
@@ -437,13 +439,7 @@ Jump to: [Sat 21 (22)](#saturday-nov-21-22) · [Fri 20 (79)](#friday-nov-20-79) 
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Bay Plaza](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825513) | Macy's | Bronx, NY, United States | 75 | entry-level title |
 | 3:27 AM | [Administrative Support Team Associate, Glendale Galleria - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825453) | Macy's | Glendale, CA, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Saturday, Nov 14 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 10:19 PM (seen) | [Azure FinOps Consultant - PR](https://bluemantis.pinpointhq.com/en/postings/8c49363d-92ee-43d7-b7b9-7f6997fefec0) | Bluemantis | Remote (remote) | 52 | 1+ yrs exp; location unclear |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1820)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1802)
 
 <details><summary>Show</summary>
 
