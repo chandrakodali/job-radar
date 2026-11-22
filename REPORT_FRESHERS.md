@@ -1,12 +1,10 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**395 jobs**, newest first. Updated Sat Nov 21, 8:49 PM CST from 12,526 company job boards and other sources.
+**395 jobs**, newest first. Updated Sat Nov 21, 9:01 PM CST from 12,571 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-155 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 4,575 matching jobs that job sites and feeds listed this week, 923 (20%) were already found on the employers' own boards; the rest are listed from those sources.
+154 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Jump to: [Sat 21 (22)](#saturday-nov-21-22) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21) · [Sat 14 (1)](#saturday-nov-14-1)
 
@@ -25,7 +23,7 @@ Jump to: [Sat 21 (22)](#saturday-nov-21-22) · [Fri 20 (79)](#friday-nov-20-79) 
 | 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Boise Towne Squ…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827098) | Macy's | Boise, ID, United States | 75 | entry-level title |
 | 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Apache](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827063) | Macy's | Rochester, MN, United States | 75 | entry-level title |
 | 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Mall at Robinso…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827106) | Macy's | Pittsburgh, PA, United States | 75 | entry-level title |
-| 4:07 PM | [Test Center Administrator - Las Vegas (South), NV](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26316) | Pearson | Las Vegas, NV, United States +10 more (onsite) | 80 | 1+ yrs exp |
+| 4:07 PM | [Test Center Administrator - Las Vegas (South), NV](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26316) | Pearson | Las Vegas, NV, United States +9 more (onsite) | 80 | 1+ yrs exp |
 | date only | [Post Merger Integration Associate](https://apply.workable.com/planetart/j/39EC1C1CD2/) | PlanetArt | Calabasas, California, United States | 85 | entry-level title; 1+ yrs exp; repost |
 | date only | [IT Support Specialist I (Horseshoe) - Las Vegas](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92196) | Caesars Entertainment | Las Vegas, NV, United States (onsite) | 90 | entry-level title; 1+ yrs exp |
 | date only | [FBS (Mexico) - MarTech Quality Assurance Specialist](https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-MarTech-Quality-Assurance-Specialist/1378095457/) | Farmers Insurance |  | 70 | 1+ yrs exp; no future H-1B sponsorship |
