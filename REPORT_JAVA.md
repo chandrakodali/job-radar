@@ -1,12 +1,20 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**95 jobs**, newest first. Updated Sun Nov 22, 10:32 AM CST from 12,571 company job boards and other sources.
+**95 jobs**, newest first. Updated Sun Nov 22, 11:19 AM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 113 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (8)](#sunday-nov-15-8)
+Coverage check: of 3,673 matching jobs that job sites and feeds listed this week, 1,129 (30%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (7)](#sunday-nov-15-7)
+
+## Sunday, Nov 22 (1)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| date only | [Associate Software Developer](https://dth.avature.net/en_US/careers/JobDetail/Associate-Software-Developer/27802) | Delta Global Technology Hub |  | 55 | entry-level title; location unclear; requires Java |
 
 ## Saturday, Nov 21 (1)
 
@@ -125,7 +133,7 @@ Jump to: [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) ·
 | 8:59 AM | [Senior Application Software Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349266) | Oracle | United States | 40 | 4+ yrs exp; senior title; requires Java |
 | 7:28 AM | [1000000554.SOFTWARE ENGINEER II.INFO TECH - APPLICATIONS](https://fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26000592) | Dallas County | Dallas, TX, United States | 40 | 3+ yrs exp; requires Java |
 
-## Sunday, Nov 15 (8)
+## Sunday, Nov 15 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -136,7 +144,6 @@ Jump to: [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) ·
 | 1:23 PM (seen) | [Java 11 changes limited with CWS](https://jobs.jobvite.com/oneco/job/oBEXdfw9) | Oneco | San Mateo, California hello | 50 |  |
 | 1:23 PM (seen) | [Java 11 changes internal](https://jobs.jobvite.com/oneco/job/ozEXdfw7) | Oneco | San Mateo, California hello | 50 |  |
 | 1:23 PM (seen) | [Java Web Developer in Munich (m/f)](https://globalworking.zohorecruit.com/jobs/Careers/179458000002324008/Java-Web-Developer-in-Munich-m-f) | Globalworking | Múnich | 45 | location unclear |
-| date only | [Developer Platform Engineer (Financial Cloud)](https://intellipro.applytojob.com/apply/gLbwG8aDGS/Developer-Platform-Engineer-Financial-Cloud) | IntelliPro Group Inc. | Palo Alto, CA | 50 | requires Java |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (87)
 
