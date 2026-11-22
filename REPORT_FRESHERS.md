@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**395 jobs**, newest first. Updated Sat Nov 21, 6:55 PM CST from 12,571 company job boards and other sources.
+**395 jobs**, newest first. Updated Sat Nov 21, 7:56 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 155 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,575 matching jobs that job sites and feeds listed this week, 923 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 21 (22)](#saturday-nov-21-22) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21) · [Sat 14 (1)](#saturday-nov-14-1)
 
@@ -443,12 +445,16 @@ Jump to: [Sat 21 (22)](#saturday-nov-21-22) · [Fri 20 (79)](#friday-nov-20-79) 
 |---|---|---|---|---:|---|
 | 10:19 PM (seen) | [Azure FinOps Consultant - PR](https://bluemantis.pinpointhq.com/en/postings/8c49363d-92ee-43d7-b7b9-7f6997fefec0) | Bluemantis | Remote (remote) | 52 | 1+ yrs exp; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1820)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1823)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 7:29 PM | [Systems Simulation Engineer (Constellation Modeling & System Simulati…](https://jobs.ashbyhq.com/Elveo/29150559-9014-4604-a81b-7750946d5d08) | Elveo | Chantilly, VA (onsite) | 80 | rules: 2+ yrs exp; needs: ITAR |
+| 7:29 PM | [Satellite Systems Operations Engineer](https://jobs.ashbyhq.com/Elveo/27c25953-b784-43ac-8d0a-934218276346) | Elveo | Chantilly, VA (onsite) | 50 | rules: 5+ yrs exp; needs: ITAR |
+| 7:29 PM | [Ground Systems Software Engineer](https://jobs.ashbyhq.com/Elveo/194cba01-5321-436d-b191-4867a4729645) | Elveo | Chantilly, VA (onsite) | 50 | rules: 5+ yrs exp; needs: ITAR |
+| 7:28 PM | [Flight Software Engineer](https://jobs.ashbyhq.com/Elveo/5ff6f792-dbe9-49ed-80df-52f0079e0189) | Elveo | Chantilly, VA (onsite) | 80 | rules: entry level (from the text); needs: ITAR |
 | 5:03 PM | [Technology Operations Analyst](https://job-boards.greenhouse.io/lpc/jobs/5306182007) | Lpc | Dallas, TX | 60 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; asks for 3+ … |
 | 5:01 PM | [AI Solutions ANalyst](https://job-boards.greenhouse.io/lpc/jobs/5306180007) | Lpc | Dallas, TX | 60 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; asks for 3+ … |
 | 2:12 PM | [Environmental Test Equipment & Calibration Technician](https://job-boards.greenhouse.io/muonspace/jobs/5306016007) | Muon Space | San Jose, CA | 60 | rules: 4+ yrs exp; needs: Must be a U.S. Citizen |
@@ -845,9 +851,5 @@ Jump to: [Sat 21 (22)](#saturday-nov-21-22) · [Fri 20 (79)](#friday-nov-20-79) 
 | 3:51 PM | [Data Scientist, Analytics](https://jobs.ashbyhq.com/decagon/da7b2a8d-e090-4ee3-b4fb-359827c6a3ec) | Decagon | San Francisco | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 3:50 PM | [System Administrator (202611A)](https://jobs.lever.co/purvis/89d3aa5a-c945-4964-8289-e3b00687d3e2) | Purvis Systems | Newport, RI (onsite) | 65 | rules: 3+ yrs exp; needs: security clearance |
 | 3:46 PM | [Build Software Engineer](https://jobs.ashbyhq.com/reliable-robotics/2d5a10d4-0644-41fa-91ed-4abde2e13bf9) | Reliable Robotics | Remote; Mountain View, CA (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 3:41 PM | [Implementation Specialist](https://job-boards.greenhouse.io/keepersecurity/jobs/4515480009) | Keepersecurity | Remote, US (remote) | 77 | rules: 2+ yrs exp; E-Verify; asks for 2+ years of experience |
-| 3:37 PM | [Enterprise Automation Engineer](https://careers.datadoghq.com/detail/8404061/?gh_jid=8404061) | Datadog | New York, New York, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 3:35 PM | [Data Scientist](https://jobs.smartrecruiters.com/AbbVie/3743990016980454-data-scientist) | AbbVie | Worcester, MA, United States | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
-| 3:35 PM | [AI Transformation & Strategy Consultant](https://jobs.smartrecruiters.com/Sia/744000162608239-ai-transformation-strategy-consultant) | Sia Partners | Bellevue, WA, United States +2 more | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 
 </details>
