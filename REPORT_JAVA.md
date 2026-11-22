@@ -1,10 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**95 jobs**, newest first. Updated Sat Nov 21, 8:29 PM CST from 12,571 company job boards and other sources.
+**95 jobs**, newest first. Updated Sat Nov 21, 9:24 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 113 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,320 matching jobs that job sites and feeds listed this week, 978 (29%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (8)](#sunday-nov-15-8)
 
@@ -138,7 +140,7 @@ Jump to: [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) ·
 | 1:23 PM (seen) | [Java Web Developer in Munich (m/f)](https://globalworking.zohorecruit.com/jobs/Careers/179458000002324008/Java-Web-Developer-in-Munich-m-f) | Globalworking | Múnich | 45 | location unclear |
 | date only | [Developer Platform Engineer (Financial Cloud)](https://intellipro.applytojob.com/apply/gLbwG8aDGS/Developer-Platform-Engineer-Financial-Cloud) | IntelliPro Group Inc. | Palo Alto, CA | 50 | requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (90)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (89)
 
 <details><summary>Show</summary>
 
@@ -233,7 +235,6 @@ Jump to: [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) ·
 | 11:32 AM | [Senior Application Support Engineer (SRE)](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/213977) | Ebxr Fa Us2 Oraclecloud Com | Tampa, FL, United States | 13 | rules: 6+ yrs exp; senior title; requires Java; asks for 6+ years of … |
 | 10:11 AM | [Application Support Engineering Senior Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/214781) | Ebxr Fa Us2 Oraclecloud Com | Dallas, TX, United States; Tampa, FL, U… | 23 | rules: entry-level title; 8+ yrs exp; senior title; requires Java; as… |
 | 9:18 AM | [Java Full Stack Developer](https://hudsonmanpower.recruitee.com/o/java-full-stack-developer) | Hudsonmanpower | Cincinnati, Ohio, United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 9:23 AM | [Senior Software Engineer II](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4275642) | 1Ca6E21B 05E4 4Ea7 96A8 E7C65… | USA | 10 | rules: 8+ yrs exp; senior title; requires Java; asks for 8+ years of … |
 
 </details>
 
