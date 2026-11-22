@@ -1,18 +1,21 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**400 jobs**, newest first. Updated Sun Nov 22, 6:08 AM CST from 12,571 company job boards and other sources.
+**401 jobs**, newest first. Updated Sun Nov 22, 6:56 AM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-157 repeat listings (same company and title in another place or on another source) are merged into one row.
+156 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sun 22 (8)](#sunday-nov-22-8) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (16)](#sunday-nov-15-16)
+Coverage check: of 4,816 matching jobs that job sites and feeds listed this week, 968 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Sunday, Nov 22 (8)
+Jump to: [Sun 22 (9)](#sunday-nov-22-9) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (16)](#sunday-nov-15-16)
+
+## Sunday, Nov 22 (9)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Data Center Technician - Day Shift](https://www.amazon.jobs/en/jobs/10610570/data-center-technician-day-shift) | Amazon Data Services, Inc. | Andrews, Texas, USA +5 more | 70 | 1+ yrs exp; no future H-1B sponsorship |
+| date only | [Application Engineer](https://appliedmaterials.eightfold.ai/careers/job/790317029233) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 90 | 0-2 yrs exp; entry level (from the text) |
 | 3:28 AM | [Administrative Support Team Associate, Santa Maria Town Center - Part…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827333) | Macy's | Santa Maria, CA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:28 AM | [Administrative Support Team Associate, Reno Meadowood - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827313) | Macy's | Reno, NV, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Galleria](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827244) | Macy's | Fort Lauderdale, FL, United States | 75 | entry-level title |
@@ -40,7 +43,7 @@ Jump to: [Sun 22 (8)](#sunday-nov-22-8) · [Sat 21 (26)](#saturday-nov-21-26) ·
 | 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Boise Towne Squ…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827098) | Macy's | Boise, ID, United States | 75 | entry-level title |
 | 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Apache](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827063) | Macy's | Rochester, MN, United States | 75 | entry-level title |
 | 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Mall at Robinso…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827106) | Macy's | Pittsburgh, PA, United States | 75 | entry-level title |
-| 4:07 PM | [Test Center Administrator - Las Vegas (South), NV](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26316) | Pearson | Las Vegas, NV, United States +9 more (onsite) | 80 | 1+ yrs exp |
+| 4:07 PM | [Test Center Administrator - Las Vegas (South), NV](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26316) | Pearson | Las Vegas, NV, United States +8 more (onsite) | 80 | 1+ yrs exp |
 | date only | [Post Merger Integration Associate](https://apply.workable.com/planetart/j/39EC1C1CD2/) | PlanetArt | Calabasas, California, United States | 85 | entry-level title; 1+ yrs exp; repost |
 | date only | [IT Support Specialist I (Horseshoe) - Las Vegas](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92196) | Caesars Entertainment | Las Vegas, NV, United States (onsite) | 90 | entry-level title; 1+ yrs exp |
 | date only | [FBS (Mexico) - MarTech Quality Assurance Specialist](https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-MarTech-Quality-Assurance-Specialist/1378095457/) | Farmers Insurance |  | 70 | 1+ yrs exp; no future H-1B sponsorship |
@@ -448,7 +451,7 @@ Jump to: [Sun 22 (8)](#sunday-nov-22-8) · [Sat 21 (26)](#saturday-nov-21-26) ·
 | 9:01 AM | [Solutions Delivery Analyst I](https://job-boards.greenhouse.io/uniteus/jobs/8886324002) | Uniteus | United States (remote) | 82 | entry-level title; 1+ yrs exp |
 | 7:19 AM (seen) | [Junior Full Stack Engineer](https://app.dover.com/apply/cointelligencelabs/4ef34030-cd76-4c84-9a34-dbfa58993e6f) | Cointelligencelabs | Austin, TX (onsite) | 65 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1797)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1794)
 
 <details><summary>Show</summary>
 
