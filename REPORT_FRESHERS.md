@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**394 jobs**, newest first. Updated Sun Nov 22, 2:31 PM CST from 12,580 company job boards and other sources.
+**395 jobs**, newest first. Updated Sun Nov 22, 3:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 152 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sun 22 (12)](#sunday-nov-22-12) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (4)](#sunday-nov-15-4)
+Coverage check: of 5,069 matching jobs that job sites and feeds listed this week, 1,021 (20%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sun 22 (12)](#sunday-nov-22-12) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (4)](#sunday-nov-15-4)
 
 ## Sunday, Nov 22 (12)
 
@@ -25,7 +27,7 @@ Jump to: [Sun 22 (12)](#sunday-nov-22-12) · [Sat 21 (26)](#saturday-nov-21-26) 
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Eugene Valley R…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827218) | Macy's | Eugene, OR, United States | 75 | entry-level title |
 | 3:26 AM | [Administrative Support Team Associate, Beverly Center - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827120) | Macy's | Los Angeles, CA, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Saturday, Nov 21 (26)
+## Saturday, Nov 21 (27)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -33,6 +35,7 @@ Jump to: [Sun 22 (12)](#sunday-nov-22-12) · [Sat 21 (26)](#saturday-nov-21-26) 
 | 11:25 PM | [AI Data Quality Specialist-Entry Level](https://jobs.workable.com/view/uoLQA9kiSw29NAnyS6tNMw/hybrid-ai-data-quality-specialist-entry-level-in-memphis-at-dln-consulting-group) | DLN Consulting Group | Memphis, Tennessee (hybrid) | 75 | entry-level title; staffing/consulting firm: verify it's real |
 | 11:10 PM | [Customer Support Specialist-Entry Level](https://jobs.workable.com/view/miUr1bKbaHRWEcf7N5KQcz/hybrid-customer-support-specialist-entry-level-in-san-jose-at-dln-consulting-group) | DLN Consulting Group | San Jose, California (hybrid) | 75 | entry-level title; staffing/consulting firm: verify it's real |
 | 11:01 PM | [Data Processing Specialist-Entry Level](https://jobs.workable.com/view/cN9k7Magt9vdE8vNnG6S9J/hybrid-data-processing-specialist-entry-level-in-jacksonville-at-dln-consulting-group) | DLN Consulting Group | Jacksonville, Florida (hybrid) | 75 | entry-level title; staffing/consulting firm: verify it's real |
+| 11:00 PM | [Technical Support Engineer - Rotational Program (Emerging Career)](https://careers-sas.icims.com/jobs/45908/technical-support-engineer---rotational-program-%28emerging-career%29/job) | SAS | Cary HQ, NC, United States | 80 | entry-level title; 0-2 yrs exp; no future H-1B sponsorship |
 | 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Square One](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827048) | Macy's | Saugus, MA, United States | 75 | entry-level title |
 | 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Burlington](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827055) | Macy's | Burlington, MA, United States | 75 | entry-level title |
 | 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Manhasset](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827097) | Macy's | Manhasset, NY, United States | 75 | entry-level title |
