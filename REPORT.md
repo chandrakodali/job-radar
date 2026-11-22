@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**219 jobs**, newest first. Updated Sun Nov 22, 2:19 PM CST from 12,580 company job boards and other sources.
+**219 jobs**, newest first. Updated Sun Nov 22, 2:37 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-156 repeat listings (same company and title in another place or on another source) are merged into one row.
+155 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,111 matching jobs that job sites and feeds listed this week, 1,467 (47%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (2)](#sunday-nov-15-2)
 
@@ -78,7 +80,7 @@ Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:00 PM | [Infrastructure Software Engineer, DX](https://careers-americas.icims.com/jobs/27536/infrastructure-software-engineer%2c-dx/job) | Atlassian | Remote (remote) | 62 |  |
-| 8:07 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265312638/Senior-FinOps-Analyst-ID94366) | Agileengine | Boca Raton, United States +6 more | 25 | senior title, years not stated |
+| 8:07 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265312638/Senior-FinOps-Analyst-ID94366) | Agileengine | Boca Raton, United States +5 more | 25 | senior title, years not stated |
 | 6:30 PM | [IT Operations and Project Coordinator, IT Infrastructure](https://job-boards.greenhouse.io/clearwayjobs/jobs/5290313007) | Clearway Energy | San Diego, California, United States | 60 | 3+ yrs exp |
 | 4:20 PM | [Senior DevOps Engineer](https://jobs.workable.com/view/2hRx5JjxxEGa5gJLmvVWUb/hybrid-senior-devops-engineer-in-chicago-at-fooda) | Fooda | Chicago, Illinois (hybrid) | 60 | senior title, years not stated |
 | 3:34 PM | [Tier 1/2 Network Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680261) | 26F3B5C7 C503 49F8 9Cb4 B56B2… | Gilber, USA | 55 | 2+ yrs exp |
