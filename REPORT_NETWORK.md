@@ -1,10 +1,12 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**111 jobs**, newest first. Updated Sun Nov 22, 11:38 AM CST from 12,580 company job boards and other sources.
+**111 jobs**, newest first. Updated Sun Nov 22, 12:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 67 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 286 matching jobs that job sites and feeds listed this week, 134 (46%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (8)](#wednesday-nov-18-8) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (10)](#monday-nov-16-10) · [Sun 15 (1)](#sunday-nov-15-1)
 
@@ -149,7 +151,7 @@ Jump to: [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) 
 |---|---|---|---|---:|---|
 | 11:00 PM | [Network Analyst I/II-NOC](https://jobs.dayforcehcm.com/en-US/uniti/CANDIDATEPORTAL/jobs/35584) | Uniti | AR, US; US | 58 | entry-level title; 4+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (205)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (206)
 
 <details><summary>Show</summary>
 
@@ -273,6 +275,7 @@ Jump to: [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) 
 | 8:28 PM | [Network Engineer III- Hybrid Schedule - Green Bay, WI](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=55888d88-cf09-47e9-99b5-cdf86a66592a&ccId=19000101_000001&jobId=9205261686932_110&lang=en_US) | 55888D88 Cf09 47E9 99B5 Cdf86… | Green Bay, WI | 38 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 5:56 PM | [NOC Analyst Tier I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d2d1195d-4e18-4381-90b5-d30d98e6e78e&ccId=19000101_000001&jobId=9201600081852_40&lang=en_US) | D2D1195D 4E18 4381 90B5 D30D9… | Strongsville, OH | 68 | rules: 1+ yrs exp; needs: Security Clearance |
 | date only | [US E - GPS Consulting Services - NAVFAC CIO/Conversion - Network Engi…](https://apply.deloitte.com/en_US/careers/JobDetail/Network-Engineer/375951) | Deloitte US |  | 48 | rules: 3+ yrs exp; needs: Secret Clearance |
+| date only | [Cloud Network Engineer](https://apply.workable.com/amerisave/j/68D7A695BF/) | Amerisave | United States (remote) | 30 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 2:49 AM | [Senior Infrastructure Engineer (Network Infrastructure)](https://jobs.lever.co/jobgether/820564aa-3a17-42b7-8029-20cf32b6302a) | Jobgether | US (remote) | 20 | rules: 5+ yrs exp; senior title; network work in the text; asks for 5… |
 | 2:00 AM | [NETWORK ENGINEER - PUB SEC](https://internaljobs.centurylink.com/job/HERNDON-NETWORK-ENGINEER-PUB-SEC-VA-20171/1403664600/) | CenturyLink | HERNDON, VA, United States | 38 | rules: 12+ yrs exp; needs: security clearance |
 | 11:00 PM | [Network Analyst NOC](https://jobs.dayforcehcm.com/en-US/uniti/CANDIDATEPORTAL/jobs/35664) | Uniti | US (remote) | 35 | rules: 7+ yrs exp; asks for 7+ years of experience |
@@ -290,7 +293,7 @@ Jump to: [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) 
 | 3:20 PM | [Systems Administrator (part-time position)](https://careers.akima.com/jobs/28184?lang=en-us) | Akima | Suffolk, Virginia | 43 | rules: network work in the text; needs: Security Clearance |
 | 1:30 PM | [Senior Network Engineer](https://www.mongodb.com/careers/job/?gh_jid=8396867) | MongoDB | Palo Alto | 38 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 12:47 PM | [Network Engineer](https://job-boards.greenhouse.io/metron/jobs/5298040007) | Metron | Crane, IN | 53 | rules: 3+ yrs exp; needs: security clearance |
-| 11:37 AM | [Senior Azure Infrastructure Engineer](https://jobs.workable.com/view/6mXQPW79KusBSPFX122yPZ/hybrid-senior-azure-infrastructure-engineer-in-mechanicsville-at-tomorrow-hire) | TOMORROW HIRE | Mechanicsville, Virginia (hybrid) | 23 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; network … |
+| date only | [Senior Azure Infrastructure Engineer](https://apply.workable.com/tomorrow-hire/j/3B87EA976C/) | Tomorrow Hire | Mechanicsville, Virginia, United States… | 13 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; network … |
 | 11:33 AM | [Senior Cloud Infrastructure Engineer (AWS & Azure)](https://job-boards.greenhouse.io/valaratomics/jobs/4508690009) | Valaratomics | Torrance, California, United States | 23 | rules: 5+ yrs exp; senior title; network work in the text; asks for 5… |
 | date only | [Window System Administrator (2026-0258)](https://acclaimtechnicalservices.applytojob.com/apply/HIQ8K1oCHm/Window-System-Administrator-20260258) | Acclaim Technical Services | Chantilly, VA | 38 | rules: network work in the text; needs: security clearance |
 | date only | [Senior Systems Engineer](https://arctiq.bamboohr.com/careers/360) | Arctiq | Atlanta, Georgia, United States | 18 | rules: 7+ yrs exp; senior title; network work in the text; asks for 7… |
