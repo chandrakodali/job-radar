@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**224 jobs**, newest first. Updated Sun Nov 22, 11:19 AM CST from 12,571 company job boards and other sources.
+**224 jobs**, newest first. Updated Sun Nov 22, 11:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-152 repeat listings (same company and title in another place or on another source) are merged into one row.
+156 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (43)](#thursday-nov-19-43) · [Wed 18 (44)](#wednesday-nov-18-44) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (8)](#sunday-nov-15-8)
+Coverage check: of 3,050 matching jobs that job sites and feeds listed this week, 1,426 (46%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (8)](#sunday-nov-15-8)
 
 ## Sunday, Nov 22 (2)
 
@@ -36,11 +38,11 @@ Jump to: [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 5:40 PM | [Embedded Linux Software Engineer, XFRA](https://jobs.ashbyhq.com/span/188ca2dc-8d38-490e-9496-82d7f9d33f92) | Span | San Francisco | 45 | 4+ yrs exp |
 | 5:24 PM | [MLOps / DevOps Engineer – AI Infrastructure](https://jobs.ashbyhq.com/creatoriq/5ab10a53-1772-470b-aef6-41bf16574412) | Creatoriq | New York; New Jersey; Los Angeles; San … | 60 | 3+ yrs exp; repost |
 | 4:38 PM | [Senior Core Infrastructure Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345371) | Oracle | Nashville, TN, United States | 50 | senior title, years not stated; repost |
-| 4:16 PM | [Senior ML Platform Engineer, Robotics](https://jobs.workable.com/view/aTiV8SXEoKGCbeAyfT8eDt/senior-ml-platform-engineer%2C-robotics-in-san-francisco-at-andromeda-robotics) | Andromeda Robotics | San Francisco, California (onsite) | 60 | senior title, years not stated |
+| date only | [Senior ML Platform Engineer, Robotics](https://apply.workable.com/andromeda-robotics/j/EB5D9A91BD/) | Andromeda Robotics | San Francisco, California, United State… | 48 | senior title, years not stated |
 | 3:37 PM | [Infrastructure Security Analyst](https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22891) | Southern Company | Atlanta, GA, United States; Birmingham,… | 75 | 2+ yrs exp; repost |
 | 3:36 PM | [Senior Software Engineer, Infrastructure Automation](https://jobs.ashbyhq.com/clickhouse/03767ebf-9a34-4204-8580-4d720121d5ab) | ClickHouse | Canada; United States (remote) | 52 | senior title, years not stated |
 | 3:10 PM | [Senior Software Engineer, Core Infrastructure](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/342894) | Oracle | Nashville, TN, United States | 50 | senior title, years not stated; repost |
-| 2:17 PM | [Senior Platform Engineer](https://jobs.workable.com/view/6LjAdxVg6c3Mv6XuafzGA7/remote-senior-platform-engineer-in-united-states-at-talentpluto) | talentpluto | Remote, US (remote) | 52 | 3+ yrs exp; senior title; staffing/consulting firm: verify it's real |
+| date only | [Senior Platform Engineer](https://apply.workable.com/talentpluto/j/6740CDA3D6/) | Talentpluto | United States +1 more (remote) | 45 | 3+ yrs exp; senior title; staffing/consulting firm: verify it's real |
 | 1:50 PM | [Infrastructure Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808030) | JP Morgan Chase | Plano, TX, United States | 60 | 3+ yrs exp; senior title |
 | 1:07 PM (seen) | [Revenue Cloud Developer ID102545](https://agileengine.zohorecruit.com/jobs/Careers/248544000265799994/Revenue-Cloud-Developer-ID102545) | Agileengine | Jersey City, United States +23 more | 50 |  |
 | 1:06 PM | [Platform Engineering Senior Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215254) | DTCC | Jersey City, NJ, United States | 65 | entry-level title; senior title, years not stated; repost |
@@ -72,7 +74,7 @@ Jump to: [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 12:37 AM (seen) | [Systems Reliability Engineer II- Technical Support, Virtualization, L…](https://jobs.jobvite.com/nutanix/job/o2kQzfwv) | Nutanix |  | 35 | 4+ yrs exp; location unclear |
 | 12:00 AM | [Senior Platform Security Engineer](https://weworkremotely.com/remote-jobs/discord-senior-platform-security-engineer) | Discord | Remote, US (Anywhere in the World) (remote) | 52 | senior title, years not stated |
 
-## Thursday, Nov 19 (43)
+## Thursday, Nov 19 (44)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -97,6 +99,8 @@ Jump to: [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 11:10 AM | [Application Support Engineer I](https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Maitland/Application-Support-Engineer-I_R-101451) | Alegeus | 3 Locations | 55 | entry-level title; location unclear |
 | 11:00 AM | [Senior IT Systems Engineer, Migration](https://www.sentinelone.com/jobs/?gh_jid=8204496003) | Sentinellabs | United States - Remote (remote) | 42 | senior title, years not stated; E-Verify |
 | date only | [DevOps / SRE Engineer (Kubernetes, Terraform), AI Expert](https://apply.workable.com/weekday-1/j/FD2496AC64/) | Weekday AI | United States (remote) | 57 | 4+ yrs exp; repost |
+| date only | [Site Reliability Engineer](https://apply.workable.com/a2z-sync/j/FA2F2E062A/) | A2Z Sync | Denver, Colorado, United States +1 more (remote) | 45 | 4+ yrs exp |
+| date only | [DevOps Engineer](https://apply.workable.com/pavago/j/BA693A49E4/) | Pavago | United States +1 more (remote) | 45 | 3+ yrs exp |
 | date only | [Software Engineer, AI Infrastructure](https://apply.workable.com/raydar/j/AB009A2011/) | Raydar | San Francisco, California, United States | 65 |  |
 | date only | [Cloud Security Specialist II](https://netrist.zohorecruit.com/jobs/Careers/363984000011720097/Cloud-Security-Specialist-II) | Netrist |  (remote) | 52 | location unclear |
 | date only | [Software Development Engineer, Specialist AI Tooling, Specialist Tech…](https://www.amazon.jobs/en/jobs/10607438/software-development-engineer-specialist-ai-tooling-specialist-technology-team-aws-specialist-technology-team-stt) | Amazon Web Services, Inc. | New York, New York, USA | 60 | 3+ yrs exp |
@@ -110,7 +114,6 @@ Jump to: [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 10:07 AM (seen) | [Cloud SysAdmin](https://donweb.zohorecruit.com/jobs/Careers/694925000009769001/Cloud-SysAdmin) | Donweb |  (remote) | 27 | location unclear |
 | 9:54 AM | [Senior Site Reliability Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200694762/senior-site-reliability-engineer-infrastructure-services) | Apple | United States of America | 55 | senior title, years not stated |
 | 9:35 AM | [Platform Engineer](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22892) | EXL | United States (hybrid) | 70 |  |
-| 9:15 AM | [DevOps Engineer](https://jobs.workable.com/view/8FNyed8ULr23PZgN5NopNi/remote-devops-engineer-in-united-states-at-pavago) | Pavago | Remote, US (remote) | 57 | 3+ yrs exp |
 | 8:23 AM | [Site Reliability Operations Analyst - Legal](https://jobs.lever.co/palantir/4a9e0649-a925-4b25-914d-1eea058a3e01) | Palantir | Washington, D.C. +1 more (hybrid) | 65 | 3+ yrs exp |
 | 7:52 AM | [Infrastructure Engineer Deskside Support](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120595) | Howmet Aerospace | Wichita Falls, TX, United States (onsite) | 65 | 4+ yrs exp |
 | 5:16 AM | [System Administrator](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016959286-system-administrator) | Cityofnewyork | New York City, NY, United States | 50 | repost |
@@ -120,7 +123,7 @@ Jump to: [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 1:00 AM | [IT Systems Engineer](https://jobs.dayforcehcm.com/en-US/avisystems/CANDIDATEPORTAL/jobs/7725) | Avisystems | Minneapolis, MN, US | 50 |  |
 | 12:07 AM (seen) | [Senior Site Reliability Engineer](https://app.careerpuck.com/job-board/blinkhealth/job/75nQcAvf) | Blinkhealth | New York, NY; Pittsburgh, PA; Seattle, … | 40 | senior title, years not stated |
 
-## Wednesday, Nov 18 (44)
+## Wednesday, Nov 18 (43)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -130,7 +133,6 @@ Jump to: [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 6:48 PM | [Senior Infrastructure Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016715) | American Express | Phoenix, AZ, United States (hybrid) | 60 | 3+ yrs exp; senior title |
 | 6:46 PM | [Site Reliability Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016351) | American Express | Phoenix, AZ, United States (hybrid) | 65 |  |
 | 6:42 PM | [IT Infrastructure Engineer](https://jobs.ashbyhq.com/Sierra/742020b7-5a2a-495d-8ac9-d74d31dc91c6) | Sierra | San Francisco, CA (onsite) | 70 |  |
-| 6:03 PM | [Site Reliability Engineer](https://jobs.workable.com/view/hXDpRpv1682KM8Z5L41upo/remote-site-reliability-engineer-in-denver-at-a2z-sync) | A2Z Sync | Denver, Colorado (remote) (remote) | 57 | 4+ yrs exp |
 | 5:46 PM | [Systems Reliability Engineer](https://job-boards.greenhouse.io/thetradedesk/jobs/5301212007) | The Trade Desk | Boulder | 65 |  |
 | 5:18 PM | [Sr Software Engineer - Infrastructure & Platform](https://mercadolibre.eightfold.ai/careers/job/43350162) | Mercadolibre | CABA, CABA, AR (hybrid) | 60 | senior title, years not stated |
 | 4:57 PM | [Senior Application Security Engineer](https://jobs.ashbyhq.com/paxos/df3b7383-2900-4e72-acb0-eb3c1667573c) | Paxos | Remote - United States (remote) | 52 | senior title, years not stated |
@@ -272,7 +274,7 @@ Jump to: [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 1:07 PM (seen) | [Real Time Systems Development Engineer](https://astonmartinf1.pinpointhq.com/en/postings/09cbb71c-a1d4-4599-a0c7-76fdbffaac18) | Astonmartinf1 | Silverstone (onsite) | 50 | location unclear |
 | 1:07 PM (seen) | [Senior System Administrator (m/f) in Freiburg](https://globalworking.zohorecruit.com/jobs/Careers/179458000002360105/Senior-System-Administrator-m-f-in-Freiburg) | Globalworking | Freiburg | 20 | senior title, years not stated; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (468)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (470)
 
 <details><summary>Show</summary>
 
@@ -395,7 +397,7 @@ Jump to: [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 3:10 PM | [Microsoft Configuration Management Administrator (SCCM/MECM and Intun…](https://careers.akima.com/jobs/28614?lang=en-us) | Akima | Alexandria, Virginia | 45 | rules: 3+ yrs exp; needs: security clearance |
 | 2:58 PM | [CCURE System Administrator](https://job-boards.greenhouse.io/unlimitedtechnology/jobs/5489937008) | Unlimited Technology | Silver Springs, MD | 30 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 2:54 PM | [ArcGIS Enterprise Systems Administrator (Onsite)](https://job-boards.greenhouse.io/geocgi/jobs/4515389009) | Geospatial Consulting Group I… | Quantico, VA | 45 | rules: staffing/consulting firm: verify it's real; needs: security cl… |
-| 2:18 PM | [Sr. Software Developer - Platform Engineering](https://jobs.workable.com/view/pJYF6nfWHZ5ieceUkXgiEp/hybrid-sr.-software-developer---platform-engineering-in-plano-at-toyota-tsusho-systems) | Toyota Tsusho Systems | Plano, Texas (hybrid) | 50 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
+| date only | [Sr. Software Developer - Platform Engineering](https://apply.workable.com/toyota-tsusho-systems/j/206E96F819/) | Toyota Tsusho Systems | Plano, Texas, United States +1 more | 33 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 2:05 PM | [Senior Associate - Tech Ops Engineering](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016666) | American Express | Phoenix, AZ, United States (hybrid) | 45 | rules: entry-level title; 10+ yrs exp; senior title; asks for 10+ yea… |
 | 1:30 PM | [Senior Network Engineer - 3902](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=659b82d2-10ab-4c07-8c2d-3ce16b4539b6&ccId=19000101_000001&jobId=9201928202991_71&lang=en_US) | 659B82D2 10Ab 4C07 8C2D 3Ce16… | Huntsville, AL | 30 | rules: 8+ yrs exp; senior title; needs: security clearance |
 | 1:27 PM | [Geospatial Cloud Developer](https://boards.greenhouse.io/ardentmc/jobs/8403165?gh_jid=8403165) | Ardentmc | Washington, D.C. Metro - on-site (onsite) | 50 | rules: 5+ yrs exp; needs: security clearance |
@@ -500,6 +502,8 @@ Jump to: [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | date only | [Cloud Identity Engineer III (Entra ID)](https://fenix24.bamboohr.com/careers/176) | Fenix24 | United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Infrastructure Cost Engineer-2611260DP02](https://ardmoreroderick.applytojob.com/apply/ATCUHJUDe5/Infrastructure-Cost-Engineer2611260DP02) | Ardmore Roderick | Austin, TX | 50 | rules: 10+ yrs exp; E-Verify; asks for 10+ years of experience |
 | date only | [Vehicle Telematics System Administrator](https://apply.edisoncareers.com/job/Pomona-Vehicle-Telematics-System-Administrator-CA-91767/1451875200/) | Edison International | Pomona, CA, United States | 18 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| date only | [Cloud Network Engineer](https://apply.workable.com/amerisave/j/68D7A695BF/) | Amerisave | United States (remote) | 30 | rules: 7+ yrs exp; asks for 7+ years of experience |
+| date only | [DevSecOps Developer](https://apply.workable.com/toyota-tsusho-systems/j/2AE595764B/) | Toyota Tsusho Systems | Plano, Texas, United States (remote) | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:54 AM | [Production Support Engineer](https://jobs.smartrecruiters.com/Wabtec/3743990016939246-production-support-engineer) | Wabtec | Erie, PA, United States | 50 | rules: adjacent title, little DevOps/cloud work in the text |
 | 10:07 AM | [Test Automation Engineer, Robot Platform](https://jobs.lever.co/zoox/c84c90b4-22f2-4d2e-9034-afee385dd0d2) | Zoox | Foster City, CA (onsite) | 35 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 9:59 AM | [Azure AI Platform Engineer III/Senior](https://job-boards.greenhouse.io/eqtcorporation/jobs/5486501008) | EQT Corporation | Remote (remote) | 37 | rules: 6+ yrs exp; senior title; location unclear; asks for 6+ years … |
@@ -551,7 +555,7 @@ Jump to: [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 12:11 PM | [Sr DevOps Engineer](https://job-boards.greenhouse.io/sureify/jobs/5485473008) | Sureify | US - Remote (remote) | 42 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 12:11 PM | [Sr. Automation Controls Engineer - Platform Engineering](https://job-boards.greenhouse.io/lottebiologicsusallc/jobs/5476310008) | Lottebiologicsusallc | Syracuse, NY | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:07 PM (seen) | [Enterprise Senior DevOps Engineer Kubernetes Terraform Linux](https://careers.eriasventures.com/careers/89065-Erias-Ventures/jobs/16861440-Enterprise--Senior-DevOps-Engineer--Kubernetes-Terraform-Linux/) | Erias |  | 45 | rules: 3+ yrs exp; senior title; needs: Security Clearance |
-| 11:37 AM | [Senior Azure Infrastructure Engineer](https://jobs.workable.com/view/6mXQPW79KusBSPFX122yPZ/hybrid-senior-azure-infrastructure-engineer-in-mechanicsville-at-tomorrow-hire) | TOMORROW HIRE | Mechanicsville, Virginia (hybrid) | 45 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
+| date only | [Senior Azure Infrastructure Engineer](https://apply.workable.com/tomorrow-hire/j/3B87EA976C/) | Tomorrow Hire | Mechanicsville, Virginia, United States… | 28 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
 | 11:33 AM | [Senior Cloud Infrastructure Engineer (AWS & Azure)](https://job-boards.greenhouse.io/valaratomics/jobs/4508690009) | Valaratomics | Torrance, California, United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:09 AM | [Systems Administrator II, AV & OT](https://boards.greenhouse.io/relativity/jobs/8946740002?gh_jid=8946740002) | Relativity Space | Long Beach, California, United States | 45 | rules: adjacent title, little DevOps/cloud work in the text |
 | date only | [Systems Configuration Management Engineer (Level 3 or 4)](https://ngc.eightfold.ai/careers/job/1340075281013) | Ngc | San Diego, CA, US; Melbourne, FL, US; E… (onsite) | 50 | rules: 3+ yrs exp; senior title; needs: security clearance |
@@ -648,6 +652,7 @@ Jump to: [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | date only | [Senior Software Engineer - Accelerated Kubernetes Runtime Team](https://nvidia.eightfold.ai/careers/job/893394443076) | Nvidia | WA,US; US (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Windows Systems Administrator - Secret](https://ngc.eightfold.ai/careers/job/1340074239588) | Ngc | San Diego, CA, US (onsite) | 65 | rules: 0-2 yrs exp; needs: CLEARANCE REQUIRED |
 | date only | [Site Reliability Engineer II (Full Time) - United States](https://careers.cisco.com/global/en/job/CISCISGLOBAL2027109EXTERNALENGLOBAL) | Cisco | Boulder, Colorado, United States of Ame… | 65 | rules: 0-2 yrs exp; needs: must be a U.S. citizen |
+| date only | [Sr. Infrastructure Specialist](https://apply.workable.com/labella-associates/j/410919B35B/) | Labella Associates | Rochester, New York, United States +1 m… | 33 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | date only | [Amazon Dedicated Cloud Engineer, ADC DCOSE SysDE, ADC DCOSE SysDE](https://www.amazon.jobs/en/jobs/10606475/amazon-dedicated-cloud-engineer-adc-dcose-sysde-adc-dcose-sysde) | Amazon Data Services, Inc. | Arlington, Virginia, USA | 65 | rules: needs: Security Clearance |
 | date only | [Cloud Infrastructure Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2023710EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 40 | rules: 5+ yrs exp; needs: TS/SCI Clearance |
 | date only | [Amazon Dedicated Cloud Engineer, ADC DCOSE SysDE, ADC-DCOSE](https://www.amazon.jobs/en/jobs/10606562/amazon-dedicated-cloud-engineer-adc-dcose-sysde-adc-dcose) | Amazon Data Services, Inc. | Arlington, Virginia, USA | 65 | rules: needs: Security Clearance |
@@ -656,7 +661,6 @@ Jump to: [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | date only | [Senior Software Engineer, Platform Engineering - EDA Infrastructure](https://nvidia.eightfold.ai/careers/job/893398660270) | Nvidia | WA,US; Austin, TX, US; Westford, MA, US… (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Site Reliability Engineer (Network & Security Infrastructure)](https://jobs.netapp.com/job/Morrisville-Senior-Site-Reliability-Engineer-%28Network-&-Security-Infrastructure%29-NC-27560/1450894200/) | NetApp | Morrisville, NC, United States | 33 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 10:57 AM | [Databricks Platform Engineer](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22512) | EXL | New York, United States (hybrid) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| 10:49 AM | [Sr. Infrastructure Specialist](https://jobs.workable.com/view/1VgABV7WH9kKH4BoVTBLPr/sr.-infrastructure-specialist-in-rochester-at-labella-associates) | LaBella Associates | Rochester, New York (onsite) | 50 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 10:39 AM | [Sr. Platform Engineer, Atlassian](https://careers.rivian.com/jobs/36483?lang=en-us) | Rivian | Atlanta, Georgia | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 10:33 AM | [Reliability Engineer](https://job-boards.greenhouse.io/synerg/jobs/6254094004) | Synerg | Boston, Massachusetts, United States | 60 | rules: 1+ yrs exp; E-Verify; no future H-1B sponsorship; adjacent tit… |
 | 10:26 AM | [Reliability Engineer](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628658) | Sherwin-Williams | Birmingham, AL, United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -676,8 +680,6 @@ Jump to: [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 5:50 AM | [OpenShift Platform Engineer](https://jobs.lever.co/jobgether/6a1d0ed9-1ef9-44bb-902b-e7b4b3868b11) | Jobgether | US (remote) | 42 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 4:58 AM | [Azure IaaS Engineer](https://jobs.lever.co/jobgether/4286ffa5-bae5-4ccc-bf9c-000d74badf2e) | Jobgether | US (remote) | 42 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 1:00 AM | [Senior Systems Administrator II](https://jobs.lever.co/jobgether/71971f7a-ecef-4a58-972c-0cefed41b9c1) | Jobgether | US (remote) | 22 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 12:45 AM | [Sr Network Engineer](https://jobs.lever.co/jobgether/0e899f97-552a-4ed8-9491-07c4db1805f7) | Jobgether | US (remote) | 27 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 12:41 AM | [Senior Site Reliability Engineer](https://jobs.lever.co/jobgether/5cedc112-aefe-4167-8649-8347b8c7b0a9) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 
 </details>
 
