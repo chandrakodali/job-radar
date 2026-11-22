@@ -12259,7 +12259,7 @@
   "workday:borgwarner|wd5|borgwarner_careers": 20,
   "workday:brunswick|wd1|search": 20,
   "workday:carrier|wd5|jobs": 388,
-  "workday:cat|wd5|caterpillarcareers": 60,
+  "workday:cat|wd5|caterpillarcareers": 61,
   "workday:dtna|wd5|dtna_external": 20,
   "workday:geaerospace|wd5|ge_externalsite": 581,
   "workday:generalmotors|wd5|careers_gm": 120,
@@ -13964,7 +13964,7 @@
    "since": "2026-11-11"
   }
  },
- "found_cursor": 3041,
+ "found_cursor": 71,
  "last_digest": "2026-11-21",
  "missed_companies": {},
  "missing_once": {
@@ -20930,6 +20930,7 @@
   "workday:burlington|wd5|BurlingtonCareers": "2026-11-20T20:40+00:00",
   "workday:capitalone|wd12|Capital_One": "2026-11-20T20:40+00:00",
   "workday:caresource|wd1|caresource": "2026-11-20T18:01+00:00",
+  "workday:cat|wd5|caterpillarcareers": "2026-11-22T10:33+00:00",
   "workday:cdk|wd1|CDK": "2026-11-20T18:01+00:00",
   "workday:centricsoftware|wd501|Centric": "2026-11-20T18:01+00:00",
   "workday:ceritypartners|wd12|ceritypartnerscareers": "2026-11-20T20:40+00:00",
@@ -89486,6 +89487,8 @@
   "workday:cat|wd5|caterpillarcareers:R0000405886": "2026-11-18",
   "workday:cat|wd5|caterpillarcareers:R0000405909": "2026-11-18",
   "workday:cat|wd5|caterpillarcareers:R0000405986": "2026-11-18",
+  "workday:cat|wd5|caterpillarcareers:R0000406352": "2026-11-22",
+  "workday:cat|wd5|caterpillarcareers:R0000406580": "2026-11-22",
   "workday:cat|wd5|solarturbines:R0000401691": "2026-11-12",
   "workday:cdk|wd1|CDK:JR9139": "2026-11-12",
   "workday:cerence|wd5|Cerence:R0005992": "2026-11-12",
@@ -92305,7 +92308,7 @@
   "zoho:stackand:311383000018775968": "2026-11-15"
  },
  "source_last": {},
- "term_cursor": 41,
+ "term_cursor": 3,
  "text_retries": {
   "avature:harmanglobal.avature.net|en_US/careers:32174": 2,
   "avature:harmanglobal.avature.net|en_US/careers:32516": 2,
@@ -92329,7 +92332,12 @@
   "workday:allisontransmission|wd1|ATI-External:R008423": 1,
   "workday:borgwarner|wd5|BorgWarner_Careers:R2026-4626": 1,
   "workday:brunswick|wd1|search:JR-048363": 1,
+  "workday:cat|wd5|caterpillarcareers:R0000378475": 1,
   "workday:cat|wd5|caterpillarcareers:R0000397286": 1,
+  "workday:cat|wd5|caterpillarcareers:R0000398064": 1,
+  "workday:cat|wd5|caterpillarcareers:R0000403205": 1,
+  "workday:cat|wd5|caterpillarcareers:R0000406180": 1,
+  "workday:cat|wd5|caterpillarcareers:R0000406205": 1,
   "workday:dtna|wd5|dtna_external:DT-20679": 2,
   "workday:generalmotors|wd5|Careers_GM:JR-202615997": 2,
   "workday:generalmotors|wd5|Careers_GM:JR-202619555": 3,
