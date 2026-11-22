@@ -1,6 +1,6 @@
 # Wide sweep summary
 
-Updated 2026-11-21.
+Updated 2026-11-22.
 
 Crawls swept: CC-MAIN-2026-39, CC-MAIN-2026-43.
 
@@ -8,41 +8,41 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 
 ## By tier
 
-- 1: 23575
-- 2: 107993
-- 3: 302497
-- 4: 94461
-- 5: 32325
-- 9: 94443
+- 1: 23536
+- 2: 108059
+- 3: 302619
+- 4: 94486
+- 5: 32332
+- 9: 94262
 
 ## By category
 
-- unknown: 94443
-- ats: 44160
-- blocked: 2793
-- careers_page_unclear: 281320
+- unknown: 94262
+- ats: 44175
+- blocked: 2795
+- careers_page_unclear: 281437
 - doc: 1305
-- email: 54299
-- external_board: 7269
-- form: 75964
+- email: 54320
+- external_board: 7275
+- form: 75970
 - js_only: 461
-- no_careers_page: 43032
-- no_openings: 21177
-- robots_disallowed: 8323
-- unreachable: 20748
+- no_careers_page: 43036
+- no_openings: 21182
+- robots_disallowed: 8326
+- unreachable: 20750
 
 ## By us
 
-- unknown: 94443
-- non_us: 37067
-- unknown: 290770
-- us: 233014
+- unknown: 94262
+- non_us: 37094
+- unknown: 290862
+- us: 233076
 
 ## By via
 
-- unknown: 94443
-- archive: 43445
-- live: 517406
+- unknown: 94262
+- archive: 43490
+- live: 517542
 
 ## Tier 1 sites
 
@@ -95,8 +95,8 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - +91 90871 16687 (mdsdigitalhub.com)
 - - Call us: 021 120 33 32 (neocruit.com)
 - . (mcmastermse.com)
+- . in Tech, Consulting & Digital. (datamatics.com)
 - . KB-12 (kb-12.com)
-- . Oppurtunities in Tech, Consulting & Digital. (datamatics.com)
 - ... And We Were Heard (andwewereheard.org)
 - .:. Algo Brainz .:. (nvdatla.com)
 - .:: KSoft ::. (ksoftglobal.com)
@@ -207,7 +207,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 3IS, Inc. (3iscorp.com)
 - 3LittleBirdsInteractive (3littlebirdsinteractive.com)
 - 3Lopez (3lopez.com)
-- 3n Strategy │ (3nstrategy.com)
 - 3P Services: Join Our Global Team (3p-services.com)
 - 3P Technology (3ptechnology.com)
 - 3PL Systems (3plsystems.com)
@@ -238,7 +237,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 4dviz Studio (4dviz.com)
 - 4Excelsior (4excelsior.com)
 - 4Geeks (4geeks.io)
-- 4Geeks (aldryn.io)
 - 4GL Solutions (4glsol.com)
 - 4K Visuals (4kvfx.com)
 - 4Leet (4leet.xyz)
@@ -246,3 +244,5 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 4Les Subsea (4lessubsea.com)
 - 4M Career (4mcareer.com)
 - 4M INDUSTRIES INC. (4mindustries.com)
+- 4Matic Valve – (4maticvalves.com)
+- 4Property (4property.com)
