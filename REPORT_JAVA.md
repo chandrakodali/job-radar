@@ -1,10 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**94 jobs**, newest first. Updated Sat Nov 21, 6:31 PM CST from 12,571 company job boards and other sources.
+**94 jobs**, newest first. Updated Sat Nov 21, 7:25 PM CST from 12,526 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 113 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,276 matching jobs that job sites and feeds listed this week, 962 (29%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21) · [Sun 15 (8)](#sunday-nov-15-8)
 
@@ -132,12 +134,13 @@ Jump to: [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) 
 | 1:23 PM (seen) | [Java Web Developer in Munich (m/f)](https://globalworking.zohorecruit.com/jobs/Careers/179458000002324008/Java-Web-Developer-in-Munich-m-f) | Globalworking | Múnich | 45 | location unclear |
 | date only | [Developer Platform Engineer (Financial Cloud)](https://intellipro.applytojob.com/apply/gLbwG8aDGS/Developer-Platform-Engineer-Financial-Cloud) | IntelliPro Group Inc. | Palo Alto, CA | 50 | requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (89)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (90)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 6:53 PM | [Integration Engineer](https://job-boards.greenhouse.io/oddball/jobs/8213812003) | Oddball | Remote (remote) | 47 | rules: requires Java; needs: security clearance |
 | 6:28 PM | [Software Engineer - Dealer Network & Employee Engagement](https://ford.eightfold.ai/careers/job/563568453660332) | Ford | Dearborn, MI, US +1 more (onsite) | 35 | rules: 7+ yrs exp; requires Java; asks for 7+ years of experience |
 | 6:28 PM | [Software Engineer - Dealer Network & Employee Engagement](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68465) | Ford Motor Company | Dearborn, MI, United States +1 more (hybrid) | 35 | rules: 7+ yrs exp; requires Java; asks for 7+ years of experience |
 | 3:30 PM | [Full Stack Software Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8949cc25-4fea-4ac4-8c83-7034b9396075&ccId=19000101_000001&jobId=274406212702_2&lang=en_US) | 8949Cc25 4Fea 4Ac4 8C83 7034B… | Germantown, MD; Woburn, MA | 50 | rules: requires Java; needs: security clearance |
