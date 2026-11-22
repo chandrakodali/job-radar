@@ -12278,11 +12278,11 @@
   "workday:polaris|wd5|polarisjobs": 114,
   "workday:recar|wd108|slatecareers": 100,
   "workday:rockwellautomation|wd1|external_rockwell_automation": 152,
-  "workday:sensata|wd1|sensata-careers": 37,
+  "workday:sensata|wd1|sensata-careers": 20,
   "workday:stoneridge|wd5|careers": 5,
   "workday:terex|wd1|terexcareers": 40,
   "workday:toyota|wd503|tmna": 127,
-  "workday:valeo|wd3|valeo_jobs": 88,
+  "workday:valeo|wd3|valeo_jobs": 40,
   "workday:woodward|wd5|woodward": 94
  },
  "fails": {
@@ -13954,7 +13954,7 @@
    "since": "2026-11-11"
   }
  },
- "found_cursor": 3071,
+ "found_cursor": 11,
  "last_digest": "2026-11-21",
  "missed_companies": {},
  "missing_once": {
@@ -21004,11 +21004,13 @@
   "workday:polestar|wd3|Careers": "2026-11-21T02:36+00:00",
   "workday:recar|wd108|SLATEcareers": "2026-11-20T20:40+00:00",
   "workday:rhsc|wd5|delta_dental_of_michigan": "2026-11-20T18:01+00:00",
+  "workday:sensata|wd1|Sensata-Careers": "2026-11-22T04:35+00:00",
   "workday:spectrumhealth|wd5|CorewellHealthCareers": "2026-11-20T20:40+00:00",
   "workday:spgi|wd5|aM_Careers": "2026-11-20T20:40+00:00",
   "workday:terex|wd1|terexcareers": "2026-11-21T14:31+00:00",
   "workday:toyota|wd503|tmna": "2026-11-20T18:01+00:00",
   "workday:upbound|wd501|Acima": "2026-11-20T20:40+00:00",
+  "workday:valeo|wd3|valeo_jobs": "2026-11-22T04:35+00:00",
   "workday:wisk|wd108|Wisk_Careers": "2026-11-20T20:40+00:00",
   "workday:woodward|wd5|woodward": "2026-11-20T18:01+00:00",
   "zoho:agileengine": "2026-11-20T20:27+00:00",
@@ -92245,6 +92247,7 @@
   "workday:valeo|wd3|valeo_jobs:REQ2026081784": "2026-11-11",
   "workday:valeo|wd3|valeo_jobs:REQ2026082128": "2026-11-11",
   "workday:valeo|wd3|valeo_jobs:REQ2026082222": "2026-11-11",
+  "workday:valeo|wd3|valeo_jobs:REQ2026082460": "2026-11-22",
   "workday:valeo|wd3|valeo_jobs:REQ2026082530": "2026-11-11",
   "workday:valeo|wd3|valeo_jobs:REQ2026082830": "2026-11-12",
   "workday:valeo|wd3|valeo_jobs:REQ2026082940": "2026-11-11",
@@ -92291,7 +92294,7 @@
   "zoho:stackand:311383000018775968": "2026-11-15"
  },
  "source_last": {},
- "term_cursor": 1,
+ "term_cursor": 11,
  "text_retries": {
   "avature:harmanglobal.avature.net|en_US/careers:32174": 2,
   "avature:harmanglobal.avature.net|en_US/careers:32516": 2,
