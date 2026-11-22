@@ -3,7 +3,11 @@ Index
 Blog - Latest articles on time tracking & e-invoices
 Discover exciting articles and current updates on time tracking, e-invoicing, controlling, and HR. Dive into our blog!
 Subscribe to new articles in your feed reader: RSS feed , Atom feed or JSON Feed .
-117 articles found
+118 articles found
+Four-eyes approval for incoming invoices
+Whoever uploads an incoming invoice now picks the approvers right away – ZEIT.IO sends the request by email. Separate permissions for capturing and approving turn this into an enforced four-eyes principle, recorded in the audit log.
+Accounting E-Invoice EN16931 XRechnung ZUGFeRD
+Robert Reiz | November 22, 2026 - 06:47 UTC
 Project budget without expenses: keep the fixed price clean
 Expenses you only pass on to the client no longer have to inflate the total budget. One checkbox takes the expenses budget and booked expenses out of the total – the separate expenses bar stays, and existing projects don't change.
 Accounting Controlling
@@ -29,7 +33,6 @@ ZEIT.IO fixes SEPA direct debit in e-invoices: your customer's IBAN instead of y
 Robert Reiz | November 10, 2026 - 08:16 UTC
 Two letters that decide whether your e-invoice gets paid
 ZEIT.IO completes VAT IDs with the correct country prefix across forms, API and imports, and rejects mismatches. Your own EU VAT ID is also checked against the EU's VIES service, so e-invoices no longer bounce over a missing prefix.
-Accounting E-Invoice EN16931 XRechnung ZUGFeRD
 Robert Reiz | November 09, 2026 - 09:15 UTC
 Cancellation invoices that every accounting system understands
 ZEIT.IO now issues organisation cancellations as type 381 with a reference to the original invoice. PDF and XML show the same positive amounts. For existing customers: check any TypeCode rules; earlier cancellations stay as they are.
@@ -94,6 +97,3 @@ Robert Reiz | October 02, 2026 - 10:05 UTC
 Add all employees to a project in one click
 New in ZEIT.IO: add all active employees to a project in one step. Set budget, period, roles and billing rate once; employees who are already members are skipped automatically.
 Robert Reiz | October 01, 2026 - 11:51 UTC
-Projects now copy and close themselves – plus 30 more updates
-33 updates in September: projects copy and close themselves, invoices go to multiple recipients, and bank matching handles bulk payments and skonto. Important for admins: project permissions no longer open up financial data.
-Robert Reiz | October 01, 2026 - 04:44 UTC

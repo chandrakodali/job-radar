@@ -1,6 +1,8 @@
 Changing the site language for you. Please wait ...
 Hey!
 Our website is available in your language , would you like to switch to that? Yes No
+FAN FRIDAY SALE: 40% off ALL Plex Pass plans
+Our biggest sale of the year is here—use code FANFRIDAY40 for 40% off any Plex Pass plan. Redeem now
 Are you always
 View Openings (0)
 {{#if 1}}

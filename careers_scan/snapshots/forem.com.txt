@@ -6,76 +6,77 @@ Related tags include #resume and #portfolio as resources to enhance your #career
 Older #career posts
 … 75
 … 100
-Will AI Replace Product Managers? What the 2026 Evidence Says
-Fathy Shalaby
-Nov 21
-# ai
-# productmanagement
+The Third Cup: Five Elements, One IT Company
+xulingfeng
+for The Third Cup
+Nov 22
+# discuss
+# management
 # career
-# willaireplaceproductmanagers
+# programming
+37 reactions
+8 comments
+7 min read
+Your Team Ships Faster Every Quarter and Understands Its Own Code Less. Nobody's Measuring That.
+Debashish Ghosal
+# ai
+# productivity
+11 reactions
 Add Comment
-10 min read
-How long do job postings really stay open? What 32,000 closed listings showed
+3 min read
+AI made us ten times faster. Nobody told us where the customers would come from.
+Saifuddin Ahmed
+# beginners
+4 min read
+I failed a mock interview I built. Here is how it works
+Vladimir Grigoryan
+# interview
+# webdev
+2 min read
+Pay transparency in 2026: what 202,628 job postings with a salary range show
 Hypestkey
-# jobsearch
+# jobs
 # datascience
 # hiring
-1 comment
-2 min read
-Weak ties and your job search: what LinkedIn's 20-million-person experiment found
-Bhavishya Singla
-# networking
-# jobs
-# research
-7 min read
-English isn't your first language and you code on a Mac? 8 tools that make writing at work easier (2026)
-E Daugherty
-# macos
-# productivity
-# writing
-4 min read
-Prioritization Frameworks Are Performance Art. Started Building What People Scream For
-Salem Evbogbai
-# leadership
-3 min read
-Speed Is a Feature (And You are Shipping Too Slowly)
-What the CTO job actually is on a freight network
-Pratyush Shivam
-# blockchain
-# distributedsystems
-Swapping 500+ Live Cell Sites Without Customers Noticing: Lessons from a Vendor Swap
-Pathum Dilshan
-# telecom
-# projectmanagement
-Onboarding a Developer to a Client Project So They Ship in Week One
-Ashkan Rajaee
-# softwaredevelopment
-# remote
-5 min read
-Pourquoi j'ai créé NotGhosty : Démasquer le « Farming » d'IA et le siphonnage de CV
-notghosty
-# french
-# privacy
-# webdev
-Your summary isn’t about you, it’s about the job
-Sarah Mitchell
-# resume
-A Hidden Line in a Resume Tricked an AI Hiring Bot Into Ranking It #1
-Bug Bounty & Beyond
-# security
-# tutorial
-Oct 20. Launch day, and the day I built Mono
-Abdul Wasay Lodhi
-# showdev
-# buildinpublic
-22 pull requests to open-source projects in a month: what got merged, what didn't, and why
-John Alexander Kamau
-# opensource
-# github
-# rust
-6 min read
-From Drive Tests to Data Pipelines: Why I Went from RF Engineer to Data & AI
 1 reaction
+1 comment
+Remove the step, don't speed it up
+Pratyush Shivam
+# product
+# logistics
+3 overdue invoice reminder emails every freelancer should copy (day 7, 14 and 30)
+Abhishek Debsharma
+# freelancing
+# business
+Your Next Customer Is an AI Agent. Most Companies Still Aren't Ready to Be Evaluated by One.
+Ganesh Raju
+# agents
+# architecture
+23 min read
+IT internships in Sri Lanka: what 466 open roles say (November 2026)
+intern.lk
+# srilanka
+How to quote additional work: the fields that make a client say yes
+Mo Arfaj
+6 min read
+You Have Been Asked to Lead Your Company's Frontend Guild
+Asael Shinder
+# asaelshinder
+# leadership
+# teamwork
+Your Mentee's New Project Is Confidential and They Cannot Tell You What It Is
+# mentorship
+CyberArk certification changed on 10 November 2026: what Defender and Sentry candidates should know
+IAM Careers
+# security
+# identity
+# iam
+A Resume That Stays Ready Before You Need It
+Muhammad Ali Mughal
+# resume
+DDR5 Timing Parameters Explained by Physics (tRCD, tRAS, tRP, tRRD, tFAW)
+Open Row
+# hardware
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Remembering Steven Schrembeck
 Frontend Isn't Dead. But the Job Title Is Changing

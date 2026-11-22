@@ -8,7 +8,6 @@ The ClickHouse® engine with compute-storage separation. BYOC or fully managed o
 Try for free →
 Trusted in production by companies with ambitious data needs .
 Read success story →
-Binary Builders
 On ObsessionDB today
 ClickHouse® is fast, until your bill scales faster than your queries.
 On other managed ClickHouse® solutions, costs balloon as data grows.

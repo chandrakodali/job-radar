@@ -1,223 +1,272 @@
 # Careers page changes
 
-Checked 2026-11-21 20:20 UTC: 1757 pages, 22 changed, 7 look like new postings.
+Checked 2026-11-22 08:53 UTC: 1757 pages, 32 changed, 8 look like new postings.
 
-## [Employment Hero](https://employmenthero.com/jobs/)
+## [Café](https://at.cafe/)
 
-- added: Social Media & Marketing Coordinator at Peekaboo Erina
-- added: Peekaboo Erina
-- added: Erina Fair, New South Wales 2250
-- added: • A$70k – A$80k
-- added: Posted 9 hours ago
-- added: Front Office Manager
-- added: Fitzroy Island Investments Pty Ltd
-- added: Fitzroy Island, Queensland 4871
-- added: Posted 10 hours ago
-- added: Aboriginal Liaison Officer (Cancer Support)
-- added: WIRRAKA MAYA HEALTH SERVICE ABORIGINAL CORPORATION
-- added: South Hedland, Western Australia 6722
-- added: Hospitality Operations Manager
-- added: NV Employment Pty Ltd
-- added: Oatlands, New South Wales 2117
-- removed: Construction technician / Trade Assistant
-- removed: Boss Energy
-- removed: Adelaide, South Australia 5000
-- removed: • A$115k – A$120k
-- removed: Posted 3 hours ago
+- added: The choice of Café was made in a context of return to office context and positive reinforcement. Using Café has enabled us to improve employee engagement by offering more visibility and social moments
+- added: Julien Mangeard
+- added: Chief Technology Officer
+- added: Veepee
+- removed: The adoption was quick and easy. Say goodbye to the multiple conversations on Slack - we saved time and gained visibility!
+- removed: Aurélie de Raphélis Soissan
+- removed: Head of People
+- removed: Gymlib
 
 ## [Forem](https://dev.to/t/career)
 
-- added: Will AI Replace Product Managers? What the 2026 Evidence Says
-- added: Fathy Shalaby
-- added: # productmanagement
-- added: # willaireplaceproductmanagers
-- added: 10 min read
-- added: How long do job postings really stay open? What 32,000 closed listings showed
-- added: Hypestkey
-- added: # jobsearch
-- added: # hiring
-- added: 1 comment
-- added: Weak ties and your job search: what LinkedIn's 20-million-person experiment found
-- added: Bhavishya Singla
-- added: # networking
-- added: # research
-- added: English isn't your first language and you code on a Mac? 8 tools that make writing at work easier (2026)
-- removed: Your ¥7 Million Offer Is Not ¥7 Million: Reading a Japanese Salary Before You Sign
-- removed: Ky Shepard
-- removed: # japan
-- removed: # money
-- removed: # programming
+- added: The Third Cup: Five Elements, One IT Company
+- added: xulingfeng
+- added: for The Third Cup
+- added: Nov 22
+- added: # discuss
+- added: # management
+- added: # programming
+- added: 37 reactions
+- added: 8 comments
+- added: Your Team Ships Faster Every Quarter and Understands Its Own Code Less. Nobody's Measuring That.
+- added: Debashish Ghosal
+- added: 11 reactions
+- added: AI made us ten times faster. Nobody told us where the customers would come from.
+- added: Saifuddin Ahmed
+- added: # beginners
+- removed: Will AI Replace Product Managers? What the 2026 Evidence Says
+- removed: Fathy Shalaby
+- removed: Nov 21
+- removed: # productmanagement
+- removed: # willaireplaceproductmanagers
 
-## [Pango](https://pango.ai/careers)
+## [ownCloud](https://owncloud.com/career/)
 
-- added: Type
-- added: Marketing
-- added: Marketing Manager
-- added: Summer Internship 2027
-- added: Internship
+- added: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1795294377 uolcn 1795294377 wo@kr 1795294377 
+- added: Please send us your application via e-mail to moc.d 1795294377 uolcn 1795294377 wo@kr 1795294377 ow 1795294377 – We will get back to you as soon as possible.
+- removed: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1795205276 uolcn 1795205276 wo@kr 1795205276 
+- removed: Please send us your application via e-mail to moc.d 1795205276 uolcn 1795205276 wo@kr 1795205276 ow 1795205276 – We will get back to you as soon as possible.
 
 ## [pyannoteAI](https://www.pyannote.ai/)
 
-- added: Precision-3
-- added: Try it now!
-- added: No credit card required
-- added: Choose a sample audio
-- added: Or upload your audio
-- added: Choose file
-- added: MP3, WAV, M4A, MP4, or OGG · Up to 250 MB and 1 hour.
-- added: See when each speaker talks
-- added: Choose a sample or file, then press Run to see speaker turns.
-- added: Get Started
-- removed: Apply now
-- removed: M a k e s e v e r y c o n v e r s a t i o n u n d e r s t a n d a b l e
-- removed: Up to 52% lower transcription error
-- removed: 1B+ open-source downloads
-- removed: 375k+ developers
+- added: Apply now
+- added: M a k e s e v e r y c o n v e r s a t i o n u n d e r s t a n d a b l e
+- added: Up to 52% lower transcription error
+- added: 1B+ open-source downloads
+- added: 375k+ developers
+- added: 00:04-00:08
+- added: Happy
+- added: 00:13-00:15
+- added: Confident
+- added: 00:25-00:31
+- added: Enthusiasm
+- added: Speaker 1
+- added: Mark
+- added: 00:07-00:12
+- added: Worried
+- removed: Precision-3
+- removed: Try it now!
+- removed: No credit card required
+- removed: Choose a sample audio
+- removed: Or upload your audio
 
-## [Swadesi Way](https://swadesiway.com/explore)
+## [Saleor](https://saleor.io/)
 
-- added: Organic Desi Amla
-- added: Organic Desi Amla quantity
-- added: Organic Potato
-- added: ₹ 75.00
-- added: Organic Potato quantity
-- added: Desi Lauki (Bottle Gourd)
-- added: 600 g
-- added: Desi Lauki (Bottle Gourd) quantity
-- added: Organic Kumbhkat Lemon
-- added: Organic Kumbhkat Lemon quantity
-- added: Organic Yellow Bell Pepper
-- added: Organic Yellow Bell Pepper quantity
-- added: Organic Big Round Brinjal
-- added: Organic Big Round Brinjal quantity
-- added: Organic Bok Choy
-- removed: Organic Mustard Leaves – Sarson Saag (with little holes & spots)
-- removed: Price range: ₹35.00 through ₹60.00
-- removed: Organic Mustard Leaves - Sarson Saag (with little holes & spots) quantity
-- removed: Organic Red Bell Pepper
-- removed: Organic Red Bell Pepper quantity
+- added: 462,817
+- added: 909,365
+- added: 5 days ago 3.23.50
+- added: 19 days ago 3.22.77
+- added: 3.23.50 5 days ago
+- added: 3.22.77 19 days ago
+- removed: 877,535
+- removed: 895,541
+- removed: 4 days ago 3.23.50
+- removed: 18 days ago 3.22.77
+- removed: 3.23.50 4 days ago
+
+## [Supermemory AI](https://supermemory.ai/careers.html)
+
+- added: Status
+- added: Superintelligence requires supermemory
+- added: supermemory is a frontier lab building memory and continual learning systems for agents.
+- added: We build the best, fastest, and most affordable way for agents to turn raw context into long-horizon knowledge for personalization and self-improvement.
+- added: Start building for free Talk to sales
+- added: Used in production by the world's best agents
+- added: shapes.inc
+- added: Zo Computer
+- added: Keiki
+- added: Join 100,000+ developers building with supermemory.
+- added: Adobe
+- added: Microsoft
+- added: Salesforce
+- added: ByteDance
+- added: The best short and long-term memory for your agent.
+- removed: Human Agent
+- removed: Introducing supermemory Read the post
+- removed: supermemory is building the default engine for memory and continual learning for agents.
+- removed: Available through our API, plugins, and MCP.
+- removed: Build with supermemory Talk to sales
 
 ## [Upworthy](https://www.upworthy.com/jobs-that-pay-well-people-dont-realize/)
 
-- added: Nature
-- added: 8 of the most stunning photos from National Geographic’s Pictures of the Year 2026 issue
-- added: Family
-- added: Her baby supposedly died in a house fire. Six years later, she spotted her at a birthday party.
-- added: Pop Culture
-- added: The ‘Frasier’ theme song sounds like a dinner order. Its composer was given a problem to solve.
-- added: She photographed what people touched in a day. The objects tell surprisingly personal stories.
-- added: One of the most familiar voices on ‘Gimme Shelter’ belonged to a singer called out of bed
-- added: Science
-- added: Psychologists explain 6 traits of people who have kept friends for 20 years
-- added: Florence Pugh posted a fantastic reality check about aging after plastic surgery rumors
-- added: Heather Wake
-- added: Rob Lowe gets intimate about his childhood, Gen X nostalgia, and second chances
-- added: Education
-- added: English professor explains why happy, successful people have one thing in common: true literacy
-- removed: Communication
-- removed: If you struggle with changing people’s minds, it probably says something positive about you
-- removed: A drum sound on ‘Stayin’ Alive’ repeats for a reason you can hear in another Bee Gees hit
-- removed: The Beatles threw the Monkees a party. Micky Dolenz hid the guests in a song.
-- removed: A crash closed the highway an hour before their wedding. An elk hunter saved the day with his dirt bike.
+- added: Communication
+- added: If you struggle with changing people’s minds, it probably says something positive about you
+- added: A drum sound on ‘Stayin’ Alive’ repeats for a reason you can hear in another Bee Gees hit
+- added: The Beatles threw the Monkees a party. Micky Dolenz hid the guests in a song.
+- added: A crash closed the highway an hour before their wedding. An elk hunter saved the day with his dirt bike.
+- added: Life Hacks
+- added: Therapist explains why so many of us always feel ‘drained’ using a powerful ‘fire hose’ metaphor
+- added: Animals
+- added: The common backyard birds that can remember your face, and sometimes bring you gifts
+- added: Evan Porter
+- added: Audrey Hepburn gave a beautifully defiant response when a photographer offered to erase her wrinkles
+- added: Wholesome
+- added: Before 86-year-old went viral for singing ‘Landslide,’ she had a job in Dallas that few karaoke singers can claim
+- added: Cecily Knobler
+- added: Health
+- removed: Nature
+- removed: 8 of the most stunning photos from National Geographic’s Pictures of the Year 2026 issue
+- removed: Family
+- removed: Her baby supposedly died in a house fire. Six years later, she spotted her at a birthday party.
+- removed: Pop Culture
 
-## [Zidisha](https://www.zidisha.org/careers.html)
+## [You are launched](https://www.urlaunched.com/join-us)
 
-- added: 309,688
-- added: $21,490,223
-- added: 464,166
-- added: 10 % raised · $558 to go
-- added: 4 % raised · $23 to go
-- added: 17 % raised · $29 to go
-- removed: 309,687
-- removed: $21,490,144
-- removed: 464,151
-- removed: 9 % raised · $565 to go
-- removed: 0 % raised · $24 to go
+- added: Android Developer
 
 ## [Asha Health](https://careers.asha.health/) (minor change)
 
-- added: {"message":"I am alive","env":"production","timestamp":"2026-11-21T20:18:36.827Z"}
-- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-21T08:48:55.133Z"}
+- added: {"message":"I am alive","env":"production","timestamp":"2026-11-22T08:52:08.446Z"}
+- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-21T20:18:36.827Z"}
 
 ## [Bacula Systems](https://www.baculasystems.com/company/careers/) (minor change)
 
-- added: windows server backup solutions
-- added: hyper v backup software
-- added: bare metal recovery
-- removed: vmware backup solution
-- removed: backup sql database
-- removed: mssql backup
+- added: offsite backup
+- added: corporate data backup
+- removed: hyper v backup software
+- removed: bare metal recovery
+
+## [Bristle](https://www.bristlehealth.com/pages/careers-1) (minor change)
+
+- added: $119.00
+- added: OUR BLACK FRIDAY SALE IS LIVE | CLICK HERE TO GET $50 OFF THE ORAL HEALTH TEST
+- removed: $189.00
 
 ## [Casco](https://casco.com/careers) (minor change)
 
-- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-134009
-- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-125054
+- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-134623
+- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-134009
+
+## [ContraForce](https://www.contraforce.com/careers) (minor change)
+
+- removed: Careers
 
 ## [DappRadar](https://dappradar.com/careers) (minor change)
 
-- added: REF $0.0768 +191.00% A7A5 $0.0119 +190.62% SKYAI $0.0372 +32.87% VVV $23.90 +20.92% AKE $0.0₂530 -14.90% PEARL $1.88 -13.48% M $0.7626 -11.19% LAB $0.0329 +10.38% NIGHT $0.0454 +8.79% UNI $4.70 +8.58%
-- removed: REF $0.0768 +191.00% AKE $0.0₂511 -24.29% BTW $0.7353 +16.52% BEAT $0.0685 -15.85% APT $0.3487 -15.32% ZEC $721.13 -15.21% WLD $0.214 -14.19% SKYAI $0.027 -13.84% CRV $0.1664 -13.83% FET $0.1067 -13.7
+- added: A7A5 $0.0121 +195.28% REF $0.0768 +191.00% AKE $0.0₂279 -45.43% SKYAI $0.0377 +38.28% VVV $25.37 +17.16% ETHFI $0.4851 +14.02% PEARL $1.97 +13.16% NIGHT $0.0444 +11.25% DASH $34.85 +9.76% RENDER $1.34
+- removed: REF $0.0768 +191.00% A7A5 $0.0119 +190.62% SKYAI $0.0372 +32.87% VVV $23.90 +20.92% AKE $0.0₂530 -14.90% PEARL $1.88 -13.48% M $0.7626 -11.19% LAB $0.0329 +10.38% NIGHT $0.0454 +8.79% UNI $4.70 +8.58%
+
+## [Episource](https://www.optum.com/en/careers.html) (minor change)
+
+- added: Skip to Optum Assistant
+
+## [Jcode](https://jcode.sh/careers) (minor change)
+
+- added: 2026-11-19 · 3d ago
+- added: 2026-11-18 · 4d ago
+- added: 2026-11-17 · 5d ago
+- removed: 2026-11-19 · 2d ago
+- removed: 2026-11-18 · 3d ago
+- removed: 2026-11-17 · 4d ago
 
 ## [Jinba](https://jinba.io/careers) (minor change)
 
-- added: 41°F
-- added: 52°F
-- removed: 54°F
-- removed: 46°F
+- added: 50°F
+- removed: 41°F
 
-## [Pibit.ai](https://pibit.ai/career) (minor change)
+## [Kairox Systems](https://www.kairoxsys.com/careers) (minor change)
 
-- added: Underwriting OS Blogs and articles Events Webinars Case studies
-- removed: Underwriting OS Blogs and articles Events Case studies
+- removed: Mechanical Engineering Micro-Intern Engineering Apply
+- removed: Embedded Engineering Micro-Intern Engineering Apply
 
-## [Pydantic](https://pydantic.dev/about) (minor change)
+## [ObsessionDB](https://obsessiondb.com/careers.html) (minor change)
 
-- added: Pydantic 29.6k
-- removed: Pydantic 29.5k
+- removed: Binary Builders
 
-## [Saleor](https://saleor.io/) (minor change)
+## [Ollie Order](https://ollieorder.com/) (minor change)
 
-- added: 877,535
-- added: 895,541
-- removed: 469,008
-- removed: 921,484
+- added: Most reviewed craft beverage management software and ERP as of November 22, 2026
+- removed: Most reviewed craft beverage management software and ERP as of November 21, 2026
 
-## [Superagent](https://careers.superagent.sh/) (minor change)
+## [Plex](https://www.plex.tv/careers/) (minor change)
 
-- added: 2026-11-21 (HEAD -> main) wildcard tags for image validation
-- added: Track deployment tags with wildcards and follow the newest matching image versions in Amazon ECR and Google Artifact Registry.
-- added: 2026-11-19 image scanning for aws and gcp
-- removed: 2026-11-19 (HEAD -> main) image scanning for aws and gcp
-- removed: 2026-11-03 import application inventory from cloudflare
-- removed: Import domains and subdomains from Cloudflare DNS, keep inventory in sync, and review hosts for red teaming.
+- added: FAN FRIDAY SALE: 40% off ALL Plex Pass plans
+- added: Our biggest sale of the year is here—use code FANFRIDAY40 for 40% off any Plex Pass plan. Redeem now
+
+## [Preseen](https://preseen.com/) (minor change)
+
+- added: Updated Nov 22, 2026
+- added: 80% range 27 – 33
+- removed: Updated Nov 8, 2026
+- removed: 80% range 29 – 33
+
+## [Qovery](https://www.qovery.com/careers) (minor change)
+
+- added: Dec 1, live webinar: Agents in production, live: who gives the agent production access?
+- added: Register
+- removed: Nov 28, Paris: AI Health Hack #2 with Alan, Qovery and AWS. Applications close Nov 21
+- removed: Apply
+
+## [Seal](https://seal.run/careers) (minor change)
+
+- removed: Seal
+- removed: Your process, working 48 hours after we agree its scope.
+- removed: Book a demo
+
+## [Skill-lync](https://skill-lync.com/recent-placements) (minor change)
+
+- added: Updated 22 Nov 2026
+- removed: Updated 21 Nov 2026
+
+## [Swadesi Way](https://swadesiway.com/explore) (minor change)
+
+- removed: Organic Red Dragon Fruit (2-3 pcs/kg)
+- removed: Price range: ₹140.00 through ₹1,050.00
+- removed: 1 pc (300-600g)
+- removed: Organic Red Dragon Fruit (2-3 pcs/kg) quantity
+- removed: Desi Lauki (Bottle Gourd)
 
 ## [The Centre for Effective Altruism](https://www.effectivealtruism.org/careers) (minor change)
 
-- added: 25 subscribed today
-- removed: 33 subscribed today
+- added: 22 subscribed today
+- removed: 25 subscribed today
 
-## [Tokenless](https://usetokenless.com/careers) (minor change)
+## [The Essential](https://theessential.com/pages/join) (minor change)
 
-- added: Improving our eval-auditing benchmark
+- added: Bookshelves 25% Off
+- removed: Switch Plates 24% Off
 
 ## [VideoLingo](https://videolingo.io/careers.html) (minor change)
 
-- added: 19346 Stars
-- removed: 19339 Stars
+- added: 19348 Stars
+- removed: 19346 Stars
+
+## [Vivo](https://vivo.gupy.io/) (minor change)
+
+- added: 73 jobs found for 0 filters applied
+- removed: 78 jobs found for 0 filters applied
 
 ## [Wazuh](https://wazuh.com/careers/) (minor change)
 
-- added: CTI Team
-- removed: Content Team
+- added: Content Team
+- removed: CTI Team
 
-## [WikiHow](https://www.wikihow.com/wikiHow:Jobs) (minor change)
+## [Zeit.io](https://zeit.io/en/blog) (minor change)
 
-- added: 184
-- removed: 201
-
-## [You are launched](https://www.urlaunched.com/join-us) (minor change)
-
-- removed: Android Developer
+- added: 118 articles found
+- added: Four-eyes approval for incoming invoices
+- added: Whoever uploads an incoming invoice now picks the approvers right away – ZEIT.IO sends the request by email. Separate permissions for capturing and approving turn this into an enforced four-eyes princ
+- added: Robert Reiz | November 22, 2026 - 06:47 UTC
+- removed: 117 articles found
+- removed: Projects now copy and close themselves – plus 30 more updates
+- removed: 33 updates in September: projects copy and close themselves, invoices go to multiple recipients, and bank matching handles bulk payments and skonto. Important for admins: project permissions no longer
+- removed: Robert Reiz | October 01, 2026 - 04:44 UTC
 
 ## Pages failing for 3+ checks
 
