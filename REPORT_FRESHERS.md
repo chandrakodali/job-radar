@@ -1,18 +1,32 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**391 jobs**, newest first. Updated Sat Nov 21, 5:06 PM CST from 12,571 company job boards and other sources.
+**400 jobs**, newest first. Updated Sat Nov 21, 5:54 PM CST from 12,526 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-158 repeat listings (same company and title in another place or on another source) are merged into one row.
+159 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sat 21 (10)](#saturday-nov-21-10) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21) · [Sat 14 (8)](#saturday-nov-14-8)
+Coverage check: of 5,139 matching jobs that job sites and feeds listed this week, 1,021 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Saturday, Nov 21 (10)
+Jump to: [Sat 21 (22)](#saturday-nov-21-22) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (21)](#sunday-nov-15-21) · [Sat 14 (6)](#saturday-nov-14-6)
+
+## Saturday, Nov 21 (22)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Square One](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827048) | Macy's | Saugus, MA, United States | 75 | entry-level title |
+| 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Burlington](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827055) | Macy's | Burlington, MA, United States | 75 | entry-level title |
+| 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Manhasset](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827097) | Macy's | Manhasset, NY, United States | 75 | entry-level title |
+| 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Olympia Capital](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827103) | Macy's | Olympia, WA, United States | 75 | entry-level title |
+| 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Southlake Mall …](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827054) | Macy's | Merrillville, IN, United States | 75 | entry-level title |
+| 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Twelve Oaks](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827061) | Macy's | Novi, MI, United States | 75 | entry-level title |
+| 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Reno Meadowood](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827062) | Macy's | Reno, NV, United States | 75 | entry-level title |
+| 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Garden State Pl…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827036) | Macy's | Paramus, NJ, United States | 75 | entry-level title |
+| 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Boise Towne Squ…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827098) | Macy's | Boise, ID, United States | 75 | entry-level title |
+| 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Apache](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827063) | Macy's | Rochester, MN, United States | 75 | entry-level title |
+| 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Mall at Robinso…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827106) | Macy's | Pittsburgh, PA, United States | 75 | entry-level title |
 | 4:07 PM | [Test Center Administrator - Las Vegas (South), NV](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26316) | Pearson | Las Vegas, NV, United States +10 more (onsite) | 80 | 1+ yrs exp |
+| date only | [Post Merger Integration Associate](https://apply.workable.com/planetart/j/39EC1C1CD2/) | PlanetArt | Calabasas, California, United States | 85 | entry-level title; 1+ yrs exp; repost |
 | date only | [IT Support Specialist I (Horseshoe) - Las Vegas](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92196) | Caesars Entertainment | Las Vegas, NV, United States (onsite) | 90 | entry-level title; 1+ yrs exp |
 | date only | [FBS (Mexico) - MarTech Quality Assurance Specialist](https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-MarTech-Quality-Assurance-Specialist/1378095457/) | Farmers Insurance |  | 70 | 1+ yrs exp; no future H-1B sponsorship |
 | 5:29 AM | [Administrative Support Associate](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017021926-administrative-support-associate) | Cityofnewyork | New York City, NY, United States | 75 | entry-level title |
@@ -194,7 +208,7 @@ Jump to: [Sat 21 (10)](#saturday-nov-21-10) · [Fri 20 (79)](#friday-nov-20-79) 
 | 12:05 AM | [Systems Support Specialist I - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4416) | City of Oklahoma City | Oklahoma  City, OK, United States (onsite) | 80 | entry-level title |
 | 12:00 AM | [Technical Training Specialist](https://jobs.dayforcehcm.com/en-US/pcg/CANDIDATEPORTAL/jobs/11378) | Pcg | Lenexa, KS, US | 75 | 1+ yrs exp |
 
-## Wednesday, Nov 18 (59)
+## Wednesday, Nov 18 (58)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -217,7 +231,6 @@ Jump to: [Sat 21 (10)](#saturday-nov-21-10) · [Fri 20 (79)](#friday-nov-20-79) 
 | 11:39 AM | [Data Center Energy Storage Engineer, Assistant Consultant](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99720) | WSP | New York, NY, United States | 85 | 0-2 yrs exp; entry level (from the text) |
 | 11:29 AM | [Applied Data Scientist](https://job-boards.greenhouse.io/cresta/jobs/5486727008) | Cresta | United States (Remote) (remote) | 72 | 1+ yrs exp |
 | date only | [Data Scientist](https://paypal.eightfold.ai/careers/job/274922421821) | Paypal | San Jose, CA, US +1 more (onsite) | 90 | 1+ yrs exp; entry level (from the text) |
-| date only | [Post Merger Integration Associate](https://apply.workable.com/planetart/j/6E4CF4BA40/) | PlanetArt | Calabasas, California, United States | 85 | entry-level title; 1+ yrs exp |
 | date only | [Global Product Support (GPS) Engineer](https://appliedmaterials.eightfold.ai/careers/job/790319569980) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 80 | entry level (from the text) |
 | date only | [Systems Administrator I](https://jobs.jobvite.com/synqor-careers/job/oTi7AfwC) | SynQor | Salem, New Hampshire, United States | 85 | entry-level title; 1+ yrs exp |
 | date only | [Professional Services Data Specialist](https://apply.workable.com/fmx/j/694C8F12FB/) | Facilities Management Express | Columbus, Ohio, United States (remote) | 72 | 1+ yrs exp |
@@ -426,7 +439,7 @@ Jump to: [Sat 21 (10)](#saturday-nov-21-10) · [Fri 20 (79)](#friday-nov-20-79) 
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Bay Plaza](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825513) | Macy's | Bronx, NY, United States | 75 | entry-level title |
 | 3:27 AM | [Administrative Support Team Associate, Glendale Galleria - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825453) | Macy's | Glendale, CA, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Saturday, Nov 14 (8)
+## Saturday, Nov 14 (6)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -436,15 +449,15 @@ Jump to: [Sat 21 (10)](#saturday-nov-21-10) · [Fri 20 (79)](#friday-nov-20-79) 
 | 6:18 PM (seen) | [Logistics Support Associate I](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Logistics-Support-Associate-I/5525) | Total Quality Logistics |  | 55 | entry-level title; location unclear |
 | 6:18 PM (seen) | [Security Operations Center Analyst I](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Security-Operations-Center-Analyst-I/5543) | Total Quality Logistics |  | 55 | entry-level title; location unclear |
 | 6:18 PM (seen) | [Software Developer I](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/Software-Developer-I/5545) | Total Quality Logistics |  | 55 | entry-level title; location unclear |
-| 5:28 PM | [Seasonal Fulfillment and Receiving Support Associate, Yakima Valley M…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825413) | Macy's | Union Gap, WA, United States | 75 | entry-level title |
-| 5:27 PM | [Seasonal Fulfillment and Receiving Support Associate, Orland Square](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825375) | Macy's | Orland Park, IL, United States | 75 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1827)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1822)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:03 PM | [Technology Operations Analyst](https://job-boards.greenhouse.io/lpc/jobs/5306182007) | Lpc | Dallas, TX | 60 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; asks for 3+ … |
+| 5:01 PM | [AI Solutions ANalyst](https://job-boards.greenhouse.io/lpc/jobs/5306180007) | Lpc | Dallas, TX | 60 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; asks for 3+ … |
 | 2:12 PM | [Environmental Test Equipment & Calibration Technician](https://job-boards.greenhouse.io/muonspace/jobs/5306016007) | Muon Space | San Jose, CA | 60 | rules: 4+ yrs exp; needs: Must be a U.S. Citizen |
 | 11:44 AM | [Creative AI Engineer](https://jobs.ashbyhq.com/harvey/e46d48b8-57c7-401c-be33-f56774dc072d) | Harvey | San Francisco +1 more (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:17 AM | [Mid-Level AI Engineer](https://jobs.ashbyhq.com/Clera/5fdb38a1-7f61-4afb-80ed-481afc7938f4) | Clera | San Francisco (onsite) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
@@ -843,7 +856,5 @@ Jump to: [Sat 21 (10)](#saturday-nov-21-10) · [Fri 20 (79)](#friday-nov-20-79) 
 | 3:37 PM | [Enterprise Automation Engineer](https://careers.datadoghq.com/detail/8404061/?gh_jid=8404061) | Datadog | New York, New York, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 3:35 PM | [Data Scientist](https://jobs.smartrecruiters.com/AbbVie/3743990016980454-data-scientist) | AbbVie | Worcester, MA, United States | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 3:35 PM | [AI Transformation & Strategy Consultant](https://jobs.smartrecruiters.com/Sia/744000162608239-ai-transformation-strategy-consultant) | Sia Partners | Bellevue, WA, United States +2 more | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 3:34 PM | [Tier 1/2 Network Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680261) | 26F3B5C7 C503 49F8 9Cb4 B56B2… | Gilber, USA | 70 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 3:27 PM | [Geospatial Systems Analyst](https://boards.greenhouse.io/ardentmc/jobs/8403429?gh_jid=8403429) | Ardentmc | Washington, D.C. Metro - on-site (onsite) | 50 | rules: 5+ yrs exp; needs: security clearance |
 
 </details>
