@@ -12270,7 +12270,7 @@
   "workday:methode|wd5|methode": 32,
   "workday:michelinhr|wd3|michelin": 112,
   "workday:moog|wd5|moog_external_career_site": 320,
-  "workday:nidec|wd1|nidec": 366,
+  "workday:nidec|wd1|nidec": 45,
   "workday:nvidia|wd5|nvidiaexternalcareersite": 1400,
   "workday:nxp||careers": 180,
   "workday:oshkoshcorporation|wd5|oshkosh": 160,
@@ -13966,7 +13966,7 @@
    "since": "2026-11-11"
   }
  },
- "found_cursor": 3011,
+ "found_cursor": 41,
  "last_digest": "2026-11-22",
  "missed_companies": {},
  "missing_once": {
@@ -21009,6 +21009,7 @@
   "workday:kauai|wd1|Kauai_External_Career_Site": "2026-11-20T20:40+00:00",
   "workday:moog|wd5|moog_external_career_site": "2026-11-20T18:01+00:00",
   "workday:nebraskablue|wd1|BCBSNE": "2026-11-20T18:01+00:00",
+  "workday:nidec|wd1|nidec": "2026-11-22T23:07+00:00",
   "workday:nxp||careers": "2026-11-20T20:40+00:00",
   "workday:oshkoshcorporation|wd5|Oshkosh": "2026-11-21T02:36+00:00",
   "workday:ourhrconnect|wd501|SCBlues": "2026-11-20T18:01+00:00",
@@ -90696,6 +90697,7 @@
   "workday:nidec|wd1|nidec:R0015973": "2026-11-11",
   "workday:nidec|wd1|nidec:R0016094": "2026-11-11",
   "workday:nidec|wd1|nidec:R0016114": "2026-11-11",
+  "workday:nidec|wd1|nidec:R0016228": "2026-11-22",
   "workday:nidec|wd1|nidec:R0016316": "2026-11-11",
   "workday:nidec|wd1|nidec:R0016325": "2026-11-11",
   "workday:nidec|wd1|nidec:R0016400": "2026-11-11",
@@ -90751,8 +90753,11 @@
   "workday:nidec|wd1|nidec:R0018385": "2026-11-11",
   "workday:nidec|wd1|nidec:R0018387": "2026-11-11",
   "workday:nidec|wd1|nidec:R0018453": "2026-11-16",
+  "workday:nidec|wd1|nidec:R0018454": "2026-11-22",
   "workday:nidec|wd1|nidec:R0018504": "2026-11-11",
   "workday:nidec|wd1|nidec:R0018531": "2026-11-11",
+  "workday:nidec|wd1|nidec:R0018610": "2026-11-22",
+  "workday:nidec|wd1|nidec:R0018692": "2026-11-22",
   "workday:nisource|wd1|NiSource:R00944162": "2026-11-12",
   "workday:nordsonhcm|wd501|nordsoncareers:REQ53213": "2026-11-12",
   "workday:nordsonhcm|wd501|nordsoncareers:REQ53694": "2026-11-12",
@@ -92313,7 +92318,7 @@
   "zoho:stackand:311383000018775968": "2026-11-15"
  },
  "source_last": {},
- "term_cursor": 45,
+ "term_cursor": 7,
  "text_retries": {
   "avature:harmanglobal.avature.net|en_US/careers:32174": 2,
   "avature:harmanglobal.avature.net|en_US/careers:32516": 2,
