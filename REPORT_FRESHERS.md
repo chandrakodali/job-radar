@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**396 jobs**, newest first. Updated Sun Nov 22, 7:32 PM CST from 12,580 company job boards and other sources.
+**396 jobs**, newest first. Updated Sun Nov 22, 8:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 152 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,376 matching jobs that job sites and feeds listed this week, 879 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sun 22 (13)](#sunday-nov-22-13) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (4)](#sunday-nov-15-4)
 
@@ -444,7 +446,7 @@ Jump to: [Sun 22 (13)](#sunday-nov-22-13) · [Sat 21 (27)](#saturday-nov-21-27) 
 | 11:00 PM | [Research Support Associate](https://careers-wuxiapptec.icims.com/jobs/14277/research-support-associate/job) | WuXi AppTec | San Diego, CA, United States | 75 | entry-level title |
 | 10:15 PM | [Software Engineer, Super Intelligence](https://job-boards.greenhouse.io/xai/jobs/5295932007) | xAI | Palo Alto, CA | 75 | 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1602)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1603)
 
 <details><summary>Show</summary>
 
@@ -452,6 +454,7 @@ Jump to: [Sun 22 (13)](#sunday-nov-22-13) · [Sat 21 (27)](#saturday-nov-21-27) 
 |---|---|---|---|---:|---|
 | date only | [2027 Associate Systems Test Engineer / Systems Test Engineer - Roy UT](https://ngc.eightfold.ai/careers/job/1340075472818) | Ngc | Roy, UT, US (onsite) | 80 | rules: entry-level title; needs: security clearance |
 | date only | [Software AI Platform Services Engineer](https://micron.eightfold.ai/careers/job/45574512) | Micron | Boise, ID, US (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| date only | [Business Analyst, Career](https://careers.pge.com/job/Oakland-Business-Analyst%2C-Career-CA-94612/1452866400/) | PG&E | Oakland, CA, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 7:04 PM | [AI Builder, Forward Deployed Engineer](https://jobs.ashbyhq.com/Clera/04c4e97e-33bd-4adf-b6b8-178b6155a3eb) | Clera | United Arab Emirates (onsite) | 60 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | 7:01 PM | [AI Builder, Forward Deployed Engineering, Research and Product](https://jobs.ashbyhq.com/Clera/8c1fdada-ccfb-4953-b6ff-85adf317c9bb) | Clera | New York (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 11:19 AM | [.NET Software Engineer](https://fa-exew-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8282) | Ritchie Bros. | Westchester, IL, United States (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -849,6 +852,5 @@ Jump to: [Sun 22 (13)](#sunday-nov-22-13) · [Sat 21 (27)](#saturday-nov-21-27) 
 | 5:54 PM | [Data Engineer](https://jobs.ashbyhq.com/infinitus/6560b98e-37ea-4980-80bf-819993aec0f6) | Infinitus | San Francisco Office (hybrid) | 45 | rules: 5+ yrs exp; no future H-1B sponsorship; asks for 5+ years of e… |
 | 5:50 PM | [Technical Medical Laboratory Scientist - Blood Bank](https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/472806) | Evac Fa Us2 Oraclecloud Com | Spokane, WA, United States (onsite) | 50 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 5:47 PM | [Operations Technology Analyst (On-Site)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ba45872f-4617-4b76-bc37-92a1da292934&ccId=19000101_000003&jobId=9206097065576_6&lang=en_US) | Ba45872F 4617 4B76 Bc37 92A1D… | Coeur d&apos;Alene, ID | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 5:45 PM | [Software Engineer, Platform IOT](https://job-boards.greenhouse.io/gomotive/jobs/8950900002) | Gomotive | Hybrid - San Francisco, California (hybrid) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 
 </details>
