@@ -1,14 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**210 jobs**, newest first. Updated Mon Nov 23, 12:37 PM CST from 12,535 company job boards and other sources.
+**209 jobs**, newest first. Updated Mon Nov 23, 12:49 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 161 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,163 matching jobs that job sites and feeds listed this week, 1,586 (50%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (44)](#friday-nov-20-44) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (31)](#tuesday-nov-17-31) · [Mon 16 (25)](#monday-nov-16-25)
+Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (44)](#friday-nov-20-44) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (31)](#tuesday-nov-17-31) · [Mon 16 (24)](#monday-nov-16-24)
 
 ## Monday, Nov 23 (18)
 
@@ -230,7 +228,7 @@ Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (3)](#sunday-nov-22-3) · [
 | 3:00 AM | [Senior Microsoft Infrastructure Administrator](https://jobs.lever.co/jobgether/adece85e-353a-4742-8dee-287d1fce55d5) | Jobgether | US (remote) | 52 | senior title, years not stated |
 | 1:26 AM | [Applied Science Platform Engineer](https://jobs.ashbyhq.com/StandInsurance/98980cc7-8acb-4987-ba81-ca86844e81d8) | Stand Insurance | San Francisco (onsite) | 60 | 3+ yrs exp; no future H-1B sponsorship |
 
-## Monday, Nov 16 (25)
+## Monday, Nov 16 (24)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -258,7 +256,6 @@ Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (3)](#sunday-nov-22-3) · [
 | 1:33 PM | [Site Reliability Engineer (US - Pacific time)](https://jobs.ashbyhq.com/PostHog/1464036f-94d5-4dbd-aef8-fe99246a26d4) | Posthog | Remote (US) (remote) | 62 |  |
 | 1:31 PM | [System Administrator II](https://boards.greenhouse.io/relativity/jobs/8944931002?gh_jid=8944931002) | Relativity Space | Stennis Space Center, Mississippi, Unit… | 45 |  |
 | 12:51 PM (seen) | [Senior Infrastructure Engineer Linux Automation Monitoring](https://unisityllc.catsone.com/careers/118468-General/jobs/16874089-Senior-Infrastructure-Engineer--Linux-Automation--Monitoring/) | Unisityllc |  | 40 | senior title, years not stated |
-| 12:44 PM | [Network Engineer](https://boards.greenhouse.io/aloyoga/jobs/6255466004?gh_jid=6255466004) | Aloyoga | Beverly Hills LAND, Beverly Hills, CA (… | 50 |  |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (412)
 
