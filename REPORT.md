@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**196 jobs**, newest first. Updated Mon Nov 23, 4:37 PM CST from 12,535 company job boards and other sources.
+**196 jobs**, newest first. Updated Mon Nov 23, 4:49 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 170 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,261 matching jobs that job sites and feeds listed this week, 1,657 (50%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Mon 23 (25)](#monday-nov-23-25) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (31)](#tuesday-nov-17-31) · [Mon 16 (5)](#monday-nov-16-5)
 
@@ -246,7 +244,7 @@ Jump to: [Mon 23 (25)](#monday-nov-23-25) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | 5:18 PM | [Senior Engineer, Dev Ops - WWE 2K](https://job-boards.greenhouse.io/visualconcepts/jobs/8205804003) | Visualconcepts | California, United States | 60 | 3+ yrs exp; senior title |
 | 4:52 PM | [Retail Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695197/retail-network-engineer-infrastructure-services) | Apple | United States of America | 65 | repost |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (399)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (396)
 
 <details><summary>Show</summary>
 
@@ -635,9 +633,6 @@ Jump to: [Mon 23 (25)](#monday-nov-23-25) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | 5:41 PM | [Senior Software Engineer, AI Infrastructure Development Platform](https://jobs.ashbyhq.com/skydio/e039f6f5-6136-4a24-8a30-f4a2979d1ac7) | Skydio | San Mateo, California, United States (hybrid) | 55 | rules: 5+ yrs exp; senior title; E-Verify; asks for 5+ years of exper… |
 | 5:10 PM | [DevOpsStorage Engineer - Federal](https://job-boards.greenhouse.io/eleviassociates/jobs/8206105003) | Eleviassociates | Chantilly, VA | 65 | rules: needs: Active TS/SCI |
 | 4:59 PM | [IT Systems Engineer](https://jobs.ashbyhq.com/protege/7dbd4900-e5fe-4df7-aa13-e7beda6f1595) | Protege | Remote (remote) | 47 | rules: adjacent title, little DevOps/cloud work in the text |
-| 4:37 PM (seen) | [Enterprise Senior System Administrator Networking Security RMF](https://careers.eriasventures.com/careers/89065-Erias-Ventures/jobs/16874181-Enterprise--Senior-System-Administrator--Networking-Security-RMF/) | Erias |  | 10 | rules: 10+ yrs exp; senior title; location unclear; needs: security c… |
-| 4:37 PM (seen) | [Enterprise Senior System Engineer Linux VMware Scripting](https://careers.eriasventures.com/careers/89065-Erias-Ventures/jobs/16874176-Enterprise--Senior-System-Engineer--Linux-VMware-Scripting/) | Erias |  | 10 | rules: 14+ yrs exp; senior title; location unclear; needs: security c… |
-| 4:24 PM | [Senior Software Engineer, Flight Software Test Infrastructure](https://jobs.ashbyhq.com/logos-space/4356cf65-7ac7-4b43-9b4a-791b07dff7c1) | Logos Space | Mountain View, CA; San Diego (onsite) | 50 | rules: 5+ yrs exp; senior title; needs: Top Secret clearance |
 | 12:45 PM | [Senior Product Cloud Security Engineer](https://jobs.ashbyhq.com/delinea/54696b49-9725-45b6-8285-35fbf95839d6) | Delinea | U.S. Remote; Home Office (Canada) (remote) | 35 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Network Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893384025211) | Nvidia | Santa Clara, CA, US; US (remote) | 15 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Software Engineer, Platform Engineering - EDA Infrastructure](https://nvidia.eightfold.ai/careers/job/893398660270) | Nvidia | WA,US; Austin, TX, US; Westford, MA, US… (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
