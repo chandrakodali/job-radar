@@ -1,10 +1,12 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**111 jobs**, newest first. Updated Mon Nov 23, 7:52 AM CST from 12,580 company job boards and other sources.
+**111 jobs**, newest first. Updated Mon Nov 23, 8:29 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 67 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 400 matching jobs that job sites and feeds listed this week, 200 (50%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (8)](#wednesday-nov-18-8) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (10)](#monday-nov-16-10)
 
@@ -149,12 +151,14 @@ Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [
 | 10:35 AM | [Network Operations Engineer II](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-II_R0018414) | Astreya | Denver, CO | 48 |  |
 | 9:56 AM | [Network Technician I](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7112) | Black Box | SECAUCUS, NJ, United States | 73 | entry-level title; 2+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (208)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (210)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 8:29 AM (seen) | [Computer Specialist (Operations) 1-4 TWU Rep - System Administrator](https://jobs.jobvite.com/metropolitantransportationauthority/job/otl5Afwd) | Metropolitan Transportation A… | New York, NY | 15 | rules: 8+ yrs exp; network work in the text; asks for 8+ years of exp… |
+| 11:00 PM | [Systems Administrator II](https://careers-scires.icims.com/jobs/12133/systems-administrator-ii/job) | Scientific Research Corporati… | North Charleston, SC, United States | 45 | rules: network work in the text; needs: SECURITY CLEARANCE |
 | date only | [Senior Network Engineer, System Verification](https://nvidia.eightfold.ai/careers/job/893395243085) | Nvidia | Santa Clara, CA, US (onsite) | 38 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Network Systems Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029624EXTERNALENGLOBAL) | Cisco | Rancho Cordova, California, United Stat… | 25 | rules: 5+ yrs exp; network work in the text; asks for 5+ years of exp… |
 | 5:05 PM | [Senior Network Engineer - PCLOB](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684078) | 33704Aa8 8475 45E8 B8A8 55E4D… | DC, USA | 45 | rules: 7+ yrs exp; senior title; needs: security clearance |
