@@ -1,12 +1,14 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**110 jobs**, newest first. Updated Mon Nov 23, 10:43 AM CST from 12,580 company job boards and other sources.
+**109 jobs**, newest first. Updated Mon Nov 23, 11:56 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 63 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (8)](#wednesday-nov-18-8) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (8)](#monday-nov-16-8)
+Coverage check: of 419 matching jobs that job sites and feeds listed this week, 212 (50%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (8)](#wednesday-nov-18-8) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (7)](#monday-nov-16-7)
 
 ## Monday, Nov 23 (1)
 
@@ -140,7 +142,7 @@ Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (1)](#sunday-nov-22-1) · [Fr
 | date only | [Senior Network Engineer](https://assaabloy.jobs2web.com/job/New-Haven-Senior-Network-Engineer-CT-06511/1458220733/) | ASSA ABLOY | New Haven, CT, United States | 43 | senior title, years not stated |
 | 10:36 AM | [Senior Network Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8948166002) | Atoms | San Francisco, CA | 48 | senior title, years not stated |
 
-## Monday, Nov 16 (8)
+## Monday, Nov 16 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -151,15 +153,17 @@ Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (1)](#sunday-nov-22-1) · [Fr
 | 5:19 PM | [Optical Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695000/optical-network-engineer-infrastructure-services) | Apple | United States of America | 53 |  |
 | 12:44 PM | [Network Engineer](https://boards.greenhouse.io/aloyoga/jobs/6255466004?gh_jid=6255466004) | Aloyoga | Beverly Hills LAND, Beverly Hills, CA (… | 53 |  |
 | 12:33 PM | [Associate Systems Engineer](https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4506700009) | Custom Computer Specialists | Hauppauge, NY | 48 | entry-level title; network work in the text |
-| date only | [10351 - Core Network Engineer (Cisco routers/switches, Palo Alto)](https://hyundaiautoeveramerica.applytojob.com/apply/MYEv1JyrQy/10351-Core-Network-Engineer-Cisco-Routersswitches-Palo-Alto) | Hyundai AutoEver America | Irvine | 53 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (212)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (214)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:14 PM | [IT Systems & Network Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e5360e53-0e72-41c4-b1bf-01f1613310c6&ccId=19000101_000003&jobId=9205262159276_11&lang=en_US) | E5360E53 0E72 41C4 B1Bf 01F16… | Arlington, VA | 45 | rules: 5+ yrs exp; needs: security clearance |
 | 2:57 PM | [NOC Analyst Tier I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d2d1195d-4e18-4381-90b5-d30d98e6e78e&ccId=19000101_000001&jobId=9201602603100_12&lang=en_US) | D2D1195D 4E18 4381 90B5 D30D9… | Strongsville, OH | 75 | rules: 1+ yrs exp; needs: Security Clearance |
+| 11:55 AM | [Senior Systems Engineer - Hyperscaler, AI, and Cloud Titans](https://jobs.smartrecruiters.com/AristaNetworks/744000163290859-senior-systems-engineer-hyperscaler-ai-and-cloud-titans) | Arista Networks | Seattle, WA, United States (hybrid) | 35 | rules: 8+ yrs exp; senior title; network work in the text; asks for 8… |
+| 11:14 AM | [Network Engineer - Execution](https://job-boards.eu.greenhouse.io/imc/jobs/5045048101) | IMC Trading | Chicago, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [NOC Engineer – Network](https://arctiq.bamboohr.com/careers/372) | Arctiq | Duluth, Georgia, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:19 AM | [IaaS - Senior Systems Engineer](https://jobs.ashbyhq.com/ddn/14afc10b-a23f-41b2-beb8-4978056f5552) | Ddn | Santa Clara Office (onsite) | 35 | rules: 5+ yrs exp; senior title; network work in the text; asks for 5… |
 | 8:29 AM (seen) | [Computer Specialist (Operations) 1-4 TWU Rep - System Administrator](https://jobs.jobvite.com/metropolitantransportationauthority/job/otl5Afwd) | Metropolitan Transportation A… | New York, NY | 15 | rules: 8+ yrs exp; network work in the text; asks for 8+ years of exp… |
@@ -367,7 +371,6 @@ Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (1)](#sunday-nov-22-1) · [Fr
 | 11:00 PM | [Senior Network Engineer](https://jobs.dayforcehcm.com/en-US/corpay/candidateportal/jobs/57636) | Corpay | Atlanta, GA, US; Peachtree Corners, GA,… | 30 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 5:33 PM | [Senior Systems Engineer](https://job-boards.greenhouse.io/freestonecapitalmanagement/jobs/5477621008) | Freestone Capital Management | Seattle, WA | 15 | rules: 7+ yrs exp; senior title; network work in the text; asks for 7… |
 | 4:36 PM | [0000007221.NETWORK ENGINEER III.INFO TECH - OPERATIONS](https://fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26000808) | Dallas County | Dallas, TX, United States | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 1:46 PM | [Senior Systems Engineer - Hyperscaler, AI, and Cloud Titans](https://jobs.smartrecruiters.com/AristaNetworks/744000160957819-senior-systems-engineer-hyperscaler-ai-and-cloud-titans) | Arista Networks | Seattle, WA, United States (hybrid) | 20 | rules: 8+ yrs exp; senior title; network work in the text; asks for 8… |
 | 12:51 PM | [Senior Systems Administrator (Commercial)](https://job-boards.greenhouse.io/bluestaq/jobs/4488965009) | Bluestaq | Colorado Springs | 30 | rules: senior title, years not stated; sponsors visas; network work i… |
 | 12:30 PM | [1000000901.NETWORK ENGINEER III.INFO TECH - OPERATIONS](https://fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26000785) | Dallas County | Dallas, TX, United States | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 10:42 AM | [IT Engineer](https://jobs.ashbyhq.com/suno/13ab742b-aac0-483b-a895-c0468a05e3e0) | Suno | Los Angeles (onsite) | 20 | rules: 10+ yrs exp; network work in the text; asks for 10+ years of e… |
