@@ -1,17 +1,20 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**108 jobs**, newest first. Updated Mon Nov 23, 2:16 PM CST from 12,580 company job boards and other sources.
+**109 jobs**, newest first. Updated Mon Nov 23, 2:49 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 64 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Mon 23 (3)](#monday-nov-23-3) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (5)](#monday-nov-16-5)
+Coverage check: of 435 matching jobs that job sites and feeds listed this week, 220 (50%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Monday, Nov 23 (3)
+Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (5)](#monday-nov-16-5)
+
+## Monday, Nov 23 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 2:49 PM (seen) | [Network Engineer I](https://compasshealthnetwork.pinpointhq.com/en/postings/5f216c8a-bb94-4945-8931-965f665364a6) | Compasshealthnetwork | Any Compass Location (remote) | 52 | entry-level title; 3+ yrs exp |
 | 1:24 PM | [Systems Administrator](https://jobs.workable.com/view/pHtBAeZST8CrYb2Z2bqiCM/remote-systems-administrator-in-weston-at-the-recovery-village) | The Recovery Village | Weston, Florida (remote) (remote) | 47 | network work in the text |
 | date only | [Network Deploy Technician, ID Deploy Optical Team](https://www.amazon.jobs/en/jobs/10611849/network-deploy-technician-id-deploy-optical-team) | Amazon Data Services, Inc. | Boardman, Oregon, USA +1 more | 60 | 1+ yrs exp; network work in the text |
 | date only | [NOC Analyst – Network (L1)](https://arctiq.bamboohr.com/careers/373) | Arctiq | Duluth, Georgia, United States | 75 | 2+ yrs exp |
@@ -151,7 +154,7 @@ Jump to: [Mon 23 (3)](#monday-nov-23-3) · [Sun 22 (1)](#sunday-nov-22-1) · [Fr
 | 7:31 PM | [Network Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bf3a746f-34a8-44ce-9a79-b8c51364fc82&ccId=19000101_000001&jobId=9207477663811_1&lang=en_US) | Bf3A746F 34A8 44Ce 9A79 B8C51… | Lawton, OK | 48 | 3+ yrs exp |
 | 5:19 PM | [Optical Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695000/optical-network-engineer-infrastructure-services) | Apple | United States of America | 53 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (216)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (217)
 
 <details><summary>Show</summary>
 
@@ -161,6 +164,7 @@ Jump to: [Mon 23 (3)](#monday-nov-23-3) · [Sun 22 (1)](#sunday-nov-22-1) · [Fr
 | 5:14 PM | [IT Systems & Network Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e5360e53-0e72-41c4-b1bf-01f1613310c6&ccId=19000101_000003&jobId=9205262159276_11&lang=en_US) | E5360E53 0E72 41C4 B1Bf 01F16… | Arlington, VA | 45 | rules: 5+ yrs exp; needs: security clearance |
 | 3:36 PM | [Systems Engineer III](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4685314) | ASSURED INFORMATION SECURITY … | Rome, NY, United States | 30 | rules: 5+ yrs exp; senior title; network work in the text; needs: Sec… |
 | 2:57 PM | [NOC Analyst Tier I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d2d1195d-4e18-4381-90b5-d30d98e6e78e&ccId=19000101_000001&jobId=9201602603100_12&lang=en_US) | D2D1195D 4E18 4381 90B5 D30D9… | Strongsville, OH | 75 | rules: 1+ yrs exp; needs: Security Clearance |
+| 2:08 PM | [Senior IT Network Engineer](https://job-boards.greenhouse.io/castelioncorporation/jobs/4519330009) | Castelion | Torrance, CA | 45 | rules: 7+ yrs exp; senior title; needs: security clearance |
 | 11:55 AM | [Senior Systems Engineer - Hyperscaler, AI, and Cloud Titans](https://jobs.smartrecruiters.com/AristaNetworks/744000163290859-senior-systems-engineer-hyperscaler-ai-and-cloud-titans) | Arista Networks | Seattle, WA, United States (hybrid) | 35 | rules: 8+ yrs exp; senior title; network work in the text; asks for 8… |
 | 11:14 AM | [Network Engineer - Execution](https://job-boards.eu.greenhouse.io/imc/jobs/5045048101) | IMC Trading | Chicago, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [NOC Engineer – Network](https://arctiq.bamboohr.com/careers/372) | Arctiq | Duluth, Georgia, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
