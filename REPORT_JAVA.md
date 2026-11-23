@@ -1,18 +1,22 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**88 jobs**, newest first. Updated Mon Nov 23, 3:42 PM CST from 12,580 company job boards and other sources.
+**90 jobs**, newest first. Updated Mon Nov 23, 4:30 PM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-132 repeat listings (same company and title in another place or on another source) are merged into one row.
+155 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Mon 23 (16)](#monday-nov-23-16) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (4)](#monday-nov-16-4)
+Coverage check: of 4,061 matching jobs that job sites and feeds listed this week, 1,487 (36%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Monday, Nov 23 (16)
+Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (4)](#monday-nov-16-4)
+
+## Monday, Nov 23 (18)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
-| 3:23 PM | [Senior Software Engineer, Platform Nashville](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351245) | Oracle | Nashville, TN, United States | 40 | 4+ yrs exp; senior title; requires Java |
+| 3:53 PM | [Senior Software Engineer, Core Infrastructure - Nashville](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351255) | Oracle | Nashville, TN, United States | 40 | 4+ yrs exp; senior title; requires Java |
+| 3:44 PM | [Senior Software Engineer, Platform, Nashville](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351251) | Oracle | Nashville, TN, United States | 40 | 4+ yrs exp; senior title; requires Java |
+| 3:37 PM | [Senior Software Engineer, Platform](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351247) | Oracle | Nashville, TN, United States | 40 | 4+ yrs exp; senior title; requires Java |
 | 2:33 PM | [Automation Testing Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805587) | JP Morgan Chase | New York, NY, United States | 45 | 3+ yrs exp; senior title; requires Java |
 | 2:32 PM | [Senior Software Engineer - Product Security](https://boards.greenhouse.io/faire/jobs/8959089002?gh_jid=8959089002) | Faire | San Francisco, CA | 40 | senior title, years not stated; requires Java |
 | 1:58 PM | [Senior Application Software Engineer- Oracle Health](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351196) | Oracle | United States | 40 | 4+ yrs exp; senior title; requires Java |
@@ -136,7 +140,7 @@ Jump to: [Mon 23 (16)](#monday-nov-23-16) · [Sun 22 (2)](#sunday-nov-22-2) · [
 | 9:32 PM | [Software Engineer, Ads Serving](https://job-boards.greenhouse.io/xai/jobs/5297311007) | xAI | Palo Alto, CA | 60 | 2+ yrs exp; requires Java |
 | 4:49 PM | [Senior Software Engineer I (Java Security)](https://jobs.ashbyhq.com/inductive-automation-llc/04db2aa7-6af8-4d99-abf5-c94adb911961) | Inductive Automation | United States - Remote (remote) | 67 | entry-level title; 4+ yrs exp; senior title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (77)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (76)
 
 <details><summary>Show</summary>
 
@@ -214,7 +218,6 @@ Jump to: [Mon 23 (16)](#monday-nov-23-16) · [Sun 22 (2)](#sunday-nov-22-2) · [
 | 10:05 PM | [Sr. Software Engineer, Safety](https://job-boards.greenhouse.io/xai/jobs/5297314007) | xAI | Palo Alto, CA | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 8:54 PM | [Sr. Software Engineer, Ads Serving](https://job-boards.greenhouse.io/xai/jobs/5297207007) | xAI | Palo Alto, CA | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 4:10 PM | [Senior Software Engineer](https://johndeere.eightfold.ai/careers/job/137484016472) | John Deere | Moline, IL, US (onsite) | 35 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
-| 3:24 PM | [Software Engineer III](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5296641007) | Toshiba Global Commerce | Durham, NC | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | date only | [Java Full Stack](https://careers.capgemini.com/job/New-York%2C-NY-Java-Full-Stack-NY-10001/1457787633/) | Capgemini | New York, NY, United States | 38 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 1:23 PM | [Senior Software Engineer](https://job-boards.greenhouse.io/natera/jobs/6261258004) | Natera | US Remote (remote) | 15 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
 | 11:57 AM | [Senior Software Development Engineer - Biometrics and Credentials](https://job-boards.greenhouse.io/idme/jobs/8197758003) | ID.me | Mountain View, California, United States | 20 | rules: 6+ yrs exp; senior title; E-Verify; requires Java; asks for 6+… |
