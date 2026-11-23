@@ -1,17 +1,26 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**393 jobs**, newest first. Updated Sun Nov 22, 11:41 PM CST from 12,580 company job boards and other sources.
+**394 jobs**, newest first. Updated Mon Nov 23, 12:19 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-149 repeat listings (same company and title in another place or on another source) are merged into one row.
+150 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sun 22 (14)](#sunday-nov-22-14) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61)
+Coverage check: of 4,463 matching jobs that job sites and feeds listed this week, 898 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Sunday, Nov 22 (14)
+Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (15)](#sunday-nov-22-15) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61)
+
+## Monday, Nov 23 (1)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 12:00 AM | [Business Intelligence - Health Data Analyst-133-2008](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6640) | Ccok | Tulsa, OK, US | 75 | 1+ yrs exp |
+
+## Sunday, Nov 22 (15)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| 11:00 PM | [Design Tech I - Truss/Panel Engineering](https://jobs.dayforcehcm.com/en-US/builders/candidateportal/jobs/238444) | Builders | Plant City, FL, US; Lakeland, FL, US; P… | 75 | 1+ yrs exp |
 | 10:20 PM (seen) | [System Testing & Data Analyst (37773) (30186)](https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26142615&lang=en) | State of Montana | Multiple Locations | 70 | 1+ yrs exp; entry level (from the text) |
 | 1:02 PM | [Remote Software Tester (Freelance) / Test AT&T U-verse & Cox](https://job-boards.greenhouse.io/testlio/jobs/8410174) | Testlio | United States | 75 | entry level (from the text) |
 | 1:00 PM | [Freelance Product Tester (Remote) / Test AT&T U-verse & Cox](https://job-boards.greenhouse.io/testlio/jobs/8403462) | Testlio | United States | 75 | entry level (from the text) |
@@ -230,7 +239,7 @@ Jump to: [Sun 22 (14)](#sunday-nov-22-14) · [Sat 21 (27)](#saturday-nov-21-27) 
 | 12:05 AM | [Systems Support Specialist I - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4416) | City of Oklahoma City | Oklahoma  City, OK, United States (onsite) | 80 | entry-level title |
 | 12:00 AM | [Technical Training Specialist](https://jobs.dayforcehcm.com/en-US/pcg/CANDIDATEPORTAL/jobs/11378) | Pcg | Lenexa, KS, US | 75 | 1+ yrs exp |
 
-## Wednesday, Nov 18 (59)
+## Wednesday, Nov 18 (58)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -292,7 +301,6 @@ Jump to: [Sun 22 (14)](#sunday-nov-22-14) · [Sat 21 (27)](#saturday-nov-21-27) 
 | 2:00 AM | [Associate Engineer Electric Delivery & Planning](https://jobs.pseg.com/job/Secaucus-Associate-Engineer-Electric-Delivery-&-Planning-NJ-07094/1441785200/) | Public Service Enterprise Gro… | Secaucus, NJ, United States | 78 | entry-level title; 0-2 yrs exp |
 | 1:00 AM | [Scanning Services - Digital Support Specialist I](https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3608) | Anico | League City, TX, US | 85 | entry-level title; 1+ yrs exp |
 | 12:49 AM | [Online Technical Support Engineer -Campus Hire Program](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040677) | Agilent Technologies | US-DE-Wilmington | 75 | entry-level title |
-| 12:00 AM | [Business Intelligence - Health Data Analyst 133-2022](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6571) | Ccok | Tulsa, OK, US | 75 | 1+ yrs exp |
 
 ## Tuesday, Nov 17 (71)
 
@@ -436,7 +444,7 @@ Jump to: [Sun 22 (14)](#sunday-nov-22-14) · [Sat 21 (27)](#saturday-nov-21-27) 
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Oakridge](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825784) | Macy's | San Jose, CA, United States | 75 | entry-level title |
 | 3:26 AM | [Administrative Support Team Associate, Cherryvale - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825771) | Macy's | Rockford, IL, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1604)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1600)
 
 <details><summary>Show</summary>
 
