@@ -1,12 +1,20 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**111 jobs**, newest first. Updated Mon Nov 23, 9:22 AM CST from 12,580 company job boards and other sources.
+**111 jobs**, newest first. Updated Mon Nov 23, 10:30 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 67 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (8)](#wednesday-nov-18-8) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (10)](#monday-nov-16-10)
+Coverage check: of 419 matching jobs that job sites and feeds listed this week, 212 (50%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (8)](#wednesday-nov-18-8) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (9)](#monday-nov-16-9)
+
+## Monday, Nov 23 (1)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| date only | [NOC Analyst – Network (L1)](https://arctiq.bamboohr.com/careers/373) | Arctiq | Duluth, Georgia, United States | 75 | 2+ yrs exp |
 
 ## Sunday, Nov 22 (1)
 
@@ -134,7 +142,7 @@ Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [
 | date only | [Senior Network Engineer](https://assaabloy.jobs2web.com/job/New-Haven-Senior-Network-Engineer-CT-06511/1458220733/) | ASSA ABLOY | New Haven, CT, United States | 43 | senior title, years not stated |
 | 10:36 AM | [Senior Network Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8948166002) | Atoms | San Francisco, CA | 48 | senior title, years not stated |
 
-## Monday, Nov 16 (10)
+## Monday, Nov 16 (9)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -147,15 +155,16 @@ Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [
 | 12:33 PM | [Associate Systems Engineer](https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4506700009) | Custom Computer Specialists | Hauppauge, NY | 48 | entry-level title; network work in the text |
 | date only | [10351 - Core Network Engineer (Cisco routers/switches, Palo Alto)](https://hyundaiautoeveramerica.applytojob.com/apply/MYEv1JyrQy/10351-Core-Network-Engineer-Cisco-Routersswitches-Palo-Alto) | Hyundai AutoEver America | Irvine | 53 |  |
 | 10:35 AM | [Network Operations Engineer II](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-II_R0018414) | Astreya | Denver, CO | 48 |  |
-| 9:56 AM | [Network Technician I](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7112) | Black Box | SECAUCUS, NJ, United States | 73 | entry-level title; 2+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (211)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (212)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 2:57 PM | [NOC Analyst Tier I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d2d1195d-4e18-4381-90b5-d30d98e6e78e&ccId=19000101_000001&jobId=9201602603100_12&lang=en_US) | D2D1195D 4E18 4381 90B5 D30D9… | Strongsville, OH | 75 | rules: 1+ yrs exp; needs: Security Clearance |
 | date only | [NOC Engineer – Network](https://arctiq.bamboohr.com/careers/372) | Arctiq | Duluth, Georgia, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| 10:19 AM | [IaaS - Senior Systems Engineer](https://jobs.ashbyhq.com/ddn/14afc10b-a23f-41b2-beb8-4978056f5552) | Ddn | Santa Clara Office (onsite) | 35 | rules: 5+ yrs exp; senior title; network work in the text; asks for 5… |
 | 8:29 AM (seen) | [Computer Specialist (Operations) 1-4 TWU Rep - System Administrator](https://jobs.jobvite.com/metropolitantransportationauthority/job/otl5Afwd) | Metropolitan Transportation A… | New York, NY | 15 | rules: 8+ yrs exp; network work in the text; asks for 8+ years of exp… |
 | 11:00 PM | [Systems Administrator II](https://careers-scires.icims.com/jobs/12133/systems-administrator-ii/job) | Scientific Research Corporati… | North Charleston, SC, United States | 45 | rules: network work in the text; needs: SECURITY CLEARANCE |
 | date only | [Senior Network Engineer, System Verification](https://nvidia.eightfold.ai/careers/job/893395243085) | Nvidia | Santa Clara, CA, US (onsite) | 38 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
@@ -276,7 +285,6 @@ Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [
 | 11:00 PM | [NOC Network Administrator](https://careers-dminc.icims.com/jobs/29163/noc-network-administrator/job) | DMI | Hanover, MD, United States | 68 | rules: 2+ yrs exp; needs: Must be a U.S. Citizen |
 | 11:00 PM | [Systems Administrator](https://careers-americansystems.icims.com/jobs/5521/systems-administrator/job) | AMERICAN SYSTEMS | Colorado Springs, CO, United States | 23 | rules: 5+ yrs exp; network work in the text; needs: TS/SCI Clearance |
 | 8:28 PM | [Network Engineer III- Hybrid Schedule - Green Bay, WI](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=55888d88-cf09-47e9-99b5-cdf86a66592a&ccId=19000101_000001&jobId=9205261686932_110&lang=en_US) | 55888D88 Cf09 47E9 99B5 Cdf86… | Green Bay, WI | 38 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
-| 5:56 PM | [NOC Analyst Tier I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d2d1195d-4e18-4381-90b5-d30d98e6e78e&ccId=19000101_000001&jobId=9201600081852_40&lang=en_US) | D2D1195D 4E18 4381 90B5 D30D9… | Strongsville, OH | 68 | rules: 1+ yrs exp; needs: Security Clearance |
 | date only | [US E - GPS Consulting Services - NAVFAC CIO/Conversion - Network Engi…](https://apply.deloitte.com/en_US/careers/JobDetail/Network-Engineer/375951) | Deloitte US |  | 48 | rules: 3+ yrs exp; needs: Secret Clearance |
 | date only | [Cloud Network Engineer](https://apply.workable.com/amerisave/j/68D7A695BF/) | Amerisave | United States (remote) | 30 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 2:49 AM | [Senior Infrastructure Engineer (Network Infrastructure)](https://jobs.lever.co/jobgether/820564aa-3a17-42b7-8029-20cf32b6302a) | Jobgether | US (remote) | 20 | rules: 5+ yrs exp; senior title; network work in the text; asks for 5… |
