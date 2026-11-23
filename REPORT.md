@@ -1,18 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**207 jobs**, newest first. Updated Mon Nov 23, 2:19 PM CST from 12,580 company job boards and other sources.
+**207 jobs**, newest first. Updated Mon Nov 23, 2:37 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 166 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Mon 23 (23)](#monday-nov-23-23) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (31)](#tuesday-nov-17-31) · [Mon 16 (17)](#monday-nov-16-17)
+Coverage check: of 3,213 matching jobs that job sites and feeds listed this week, 1,623 (50%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Monday, Nov 23 (23)
+Jump to: [Mon 23 (24)](#monday-nov-23-24) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (31)](#tuesday-nov-17-31) · [Mon 16 (16)](#monday-nov-16-16)
+
+## Monday, Nov 23 (24)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 6:53 PM | [Systems Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b156e713-5801-4c36-bb62-a62f3bc9844f&ccId=19000101_000001&jobId=9202083655758_39&lang=en_US) | B156E713 5801 4C36 Bb62 A62F3… | Cincinnati, OH | 45 | no future H-1B sponsorship |
+| 2:08 PM | [Assoc. Cloud FinOps - Microsoft Specialist](https://job-boards.greenhouse.io/trace3/jobs/8412136) | Trace3 | Remote (remote) | 72 | 1+ yrs exp |
 | 12:55 PM | [Infrastructure Engineer III - Terraform, AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794422) | JP Morgan Chase | Tampa, FL, United States +1 more | 60 | 3+ yrs exp; senior title |
 | 12:46 PM | [Senior Core Infrastructure Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351160) | Oracle | Nashville, TN, United States | 50 | senior title, years not stated; repost |
 | 12:45 PM | [Research Infrastructure System Administrator](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017041495-research-infrastructure-system-administrator) | Harvard University | Boston, MA, United States (hybrid) | 80 | 2+ yrs exp; no future H-1B sponsorship; likely H-1B cap-exempt (verif… |
@@ -233,7 +236,7 @@ Jump to: [Mon 23 (23)](#monday-nov-23-23) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | 3:00 AM | [Senior Microsoft Infrastructure Administrator](https://jobs.lever.co/jobgether/adece85e-353a-4742-8dee-287d1fce55d5) | Jobgether | US (remote) | 52 | senior title, years not stated |
 | 1:26 AM | [Applied Science Platform Engineer](https://jobs.ashbyhq.com/StandInsurance/98980cc7-8acb-4987-ba81-ca86844e81d8) | Stand Insurance | San Francisco (onsite) | 60 | 3+ yrs exp; no future H-1B sponsorship |
 
-## Monday, Nov 16 (17)
+## Monday, Nov 16 (16)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -253,9 +256,8 @@ Jump to: [Mon 23 (23)](#monday-nov-23-23) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | 3:37 PM (seen) | [MLOps Engineer - Latam](https://app.dover.com/apply/itmates/477d50cc-29da-4b30-8ffe-a7efb6cc4db4) | Itmates | International (remote) | 42 | location unclear |
 | 3:37 PM (seen) | [Site Reliability Engineer (In-Person)](https://app.dover.com/apply/joinrefine/01f87af9-6558-4eb7-b7dc-20834c6b32ae) | Joinrefine | New York City, NY (hybrid) | 55 |  |
 | 2:50 PM | [Software Developer III - Cloud Platform (Back End, Authentication)](https://job-boards.greenhouse.io/nisc/jobs/8394139) | National Information Solution… | Any NISC Location | 55 | senior title, years not stated |
-| 2:34 PM | [Systems Administrator](https://job-boards.greenhouse.io/monsterenergy/jobs/4485445009) | Monster Energy | USA - Corona, CA | 45 | 3+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (407)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (410)
 
 <details><summary>Show</summary>
 
@@ -263,6 +265,9 @@ Jump to: [Mon 23 (23)](#monday-nov-23-23) · [Sun 22 (4)](#sunday-nov-22-4) · [
 |---|---|---|---|---:|---|
 | 6:22 PM | [Infrastructure & Network Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=edbc1146-911e-417e-b53e-c0e2f7d2a0e9&ccId=19000101_000001&jobId=9201323290322_36&lang=en_US) | Edbc1146 911E 417E B53E C0E2F… | Remote, US | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:14 PM | [IT Systems & Network Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e5360e53-0e72-41c4-b1bf-01f1613310c6&ccId=19000101_000003&jobId=9205262159276_11&lang=en_US) | E5360E53 0E72 41C4 B1Bf 01F16… | Arlington, VA | 30 | rules: 5+ yrs exp; needs: security clearance |
+| 2:37 PM (seen) | [Network Engineer I](https://compasshealthnetwork.pinpointhq.com/en/postings/5f216c8a-bb94-4945-8931-965f665364a6) | Compasshealthnetwork | Any Compass Location (remote) | 37 | rules: entry-level title; 3+ yrs exp; adjacent title, little DevOps/c… |
+| 2:10 PM | [Junior Cloud Administrator/Systems Engineer St. Louis, MO (Onsite or …](https://boards.greenhouse.io/accenturefederalservices/jobs/4731758006?gh_jid=4731758006) | Accenture | St. Louis, MO | 75 | rules: entry-level title; 2+ yrs exp; no future H-1B sponsorship; nee… |
+| 2:08 PM | [Senior IT Network Engineer](https://job-boards.greenhouse.io/castelioncorporation/jobs/4519330009) | Castelion | Torrance, CA | 30 | rules: 7+ yrs exp; senior title; needs: security clearance |
 | 1:25 PM | [Cloud Infrastructure Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4731751006?gh_jid=4731751006) | Accenture | Arlington, VA | 35 | rules: 5+ yrs exp; no future H-1B sponsorship; needs: Secret clearance |
 | 12:50 PM | [Window System Administrator (EMM/Knox Admin)](https://jobs.smartrecruiters.com/SyncreonConsulting/744000163300439-window-system-administrator-emm-knox-admin-) | Syncreon Consulting | Plano, TX, United States | 40 | rules: 3+ yrs exp; staffing/consulting firm: verify it's real; adjace… |
 | 12:42 PM | [Senior DevOps Engineer](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017041406-senior-devops-engineer) | Harvard University | Boston, MA, United States (hybrid) | 50 | rules: 5+ yrs exp; senior title; no future H-1B sponsorship; likely H… |
@@ -658,9 +663,6 @@ Jump to: [Mon 23 (23)](#monday-nov-23-23) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | date only | [Senior Site Reliability Engineer (Network & Security Infrastructure)](https://jobs.netapp.com/job/Morrisville-Senior-Site-Reliability-Engineer-%28Network-&-Security-Infrastructure%29-NC-27560/1450894200/) | NetApp | Morrisville, NC, United States | 33 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Sr. Infrastructure Specialist](https://apply.workable.com/labella-associates/j/410919B35B/) | Labella Associates | Rochester, New York, United States | 33 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 12:00 AM | [Senior Cloud Engineer (Azure/Terraform)](https://jobs.dayforcehcm.com/en-US/builders/candidateportal/jobs/238014) | Builders | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 11:00 PM | [Linux Systems Engineer](https://everwatch-everwatchsolutions.icims.com/jobs/3702/linux-systems-engineer/job) | Everwatch | Annapolis Junction, MD, United States | 30 | rules: 12+ yrs exp; needs: TS/SCI clearance |
-| 11:00 PM | [Sr Reliability Engineer](https://uscareers-waters.icims.com/jobs/28924/sr-reliability-engineer/job) | Waters Corporation | Milford, MA, United States | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 5:55 PM | [Systems Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbabd1ae-568b-4f70-933b-3f462f76c1b5&ccId=19000101_000001&jobId=9201523121233_12&lang=en_US) | Cbabd1Ae 568B 4F70 933B 3F462… | East Syracuse, NY | 48 | rules: 2+ yrs exp; needs: Security Clearance |
 
 </details>
 
