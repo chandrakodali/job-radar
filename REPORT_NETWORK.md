@@ -1,17 +1,20 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**109 jobs**, newest first. Updated Mon Nov 23, 12:08 PM CST from 12,580 company job boards and other sources.
+**107 jobs**, newest first. Updated Mon Nov 23, 12:57 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
-63 repeat listings (same company and title in another place or on another source) are merged into one row.
+64 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (8)](#wednesday-nov-18-8) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (7)](#monday-nov-16-7)
+Coverage check: of 419 matching jobs that job sites and feeds listed this week, 212 (50%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Monday, Nov 23 (1)
+Jump to: [Mon 23 (2)](#monday-nov-23-2) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (5)](#monday-nov-16-5)
+
+## Monday, Nov 23 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Network Deploy Technician, ID Deploy Optical Team](https://www.amazon.jobs/en/jobs/10611849/network-deploy-technician-id-deploy-optical-team) | Amazon Data Services, Inc. | Boardman, Oregon, USA +1 more | 60 | 1+ yrs exp; network work in the text |
 | date only | [NOC Analyst – Network (L1)](https://arctiq.bamboohr.com/careers/373) | Arctiq | Duluth, Georgia, United States | 75 | 2+ yrs exp |
 
 ## Sunday, Nov 22 (1)
@@ -112,7 +115,7 @@ Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (1)](#sunday-nov-22-1) · [Fr
 | 1:36 AM | [Cloud System Administrator (Shift C - Night)](https://jobs.lever.co/jobgether/9c2d4dc4-c40b-400c-b0d4-cb0f7d0e65bf) | Jobgether | US (remote) | 40 | network work in the text |
 | 1:00 AM | [IT Systems Engineer](https://jobs.dayforcehcm.com/en-US/avisystems/CANDIDATEPORTAL/jobs/7725) | Avisystems | Minneapolis, MN, US | 43 | network work in the text |
 
-## Wednesday, Nov 18 (8)
+## Wednesday, Nov 18 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -122,7 +125,6 @@ Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (1)](#sunday-nov-22-1) · [Fr
 | 1:13 PM | [Cloud Network Engineer](https://jobs.workable.com/view/8DxEbQAEcEbXNSJE589M1T/remote-cloud-network-engineer-in-united-states-at-amerisave) | AmeriSave | Remote, US (remote) | 55 |  |
 | date only | [Network Engineer (Cisco ISE, Palo Alto, BGP/OSPF)](https://hyundaiautoeveramerica.applytojob.com/apply/bOSkA8wT1E/Network-Engineer-Cisco-ISE-Palo-Alto-BGPOSPF) | Hyundai AutoEver America | Irvine, CA | 58 |  |
 | date only | [Network Dev Engineer III - AMZ10403606](https://www.amazon.jobs/en/jobs/10608014/network-dev-engineer-iii-amz10403606) | Amazon Data Services, Inc. | Seattle, Washington, USA | 38 | 3+ yrs exp; senior title; network work in the text |
-| date only | [Network Deploy Technician, ID Deploy Optical Team](https://www.amazon.jobs/en/jobs/10608248/network-deploy-technician-id-deploy-optical-team) | Amazon Data Services, Inc. | Haymarket, Virginia, USA | 53 | 2+ yrs exp; network work in the text |
 | 10:17 AM | [Senior Network Engineer - Enterprise Connectivity](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24215) | Montenson | MN, United States | 43 | senior title, years not stated; no future H-1B sponsorship |
 
 ## Tuesday, Nov 17 (10)
@@ -140,7 +142,7 @@ Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (1)](#sunday-nov-22-1) · [Fr
 | date only | [Senior Network Engineer](https://assaabloy.jobs2web.com/job/New-Haven-Senior-Network-Engineer-CT-06511/1458220733/) | ASSA ABLOY | New Haven, CT, United States | 43 | senior title, years not stated |
 | 10:36 AM | [Senior Network Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8948166002) | Atoms | San Francisco, CA | 48 | senior title, years not stated |
 
-## Monday, Nov 16 (7)
+## Monday, Nov 16 (5)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -149,16 +151,16 @@ Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (1)](#sunday-nov-22-1) · [Fr
 | 9:58 PM | [Network Infrastructure Engineer](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41673) | Nokia | United States (onsite) | 58 |  |
 | 7:31 PM | [Network Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bf3a746f-34a8-44ce-9a79-b8c51364fc82&ccId=19000101_000001&jobId=9207477663811_1&lang=en_US) | Bf3A746F 34A8 44Ce 9A79 B8C51… | Lawton, OK | 48 | 3+ yrs exp |
 | 5:19 PM | [Optical Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695000/optical-network-engineer-infrastructure-services) | Apple | United States of America | 53 |  |
-| 12:44 PM | [Network Engineer](https://boards.greenhouse.io/aloyoga/jobs/6255466004?gh_jid=6255466004) | Aloyoga | Beverly Hills LAND, Beverly Hills, CA (… | 53 |  |
-| 12:33 PM | [Associate Systems Engineer](https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4506700009) | Custom Computer Specialists | Hauppauge, NY | 48 | entry-level title; network work in the text |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (214)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (216)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 6:22 PM | [Infrastructure & Network Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=edbc1146-911e-417e-b53e-c0e2f7d2a0e9&ccId=19000101_000001&jobId=9201323290322_36&lang=en_US) | Edbc1146 911E 417E B53E C0E2F… | Remote, US | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:14 PM | [IT Systems & Network Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e5360e53-0e72-41c4-b1bf-01f1613310c6&ccId=19000101_000003&jobId=9205262159276_11&lang=en_US) | E5360E53 0E72 41C4 B1Bf 01F16… | Arlington, VA | 45 | rules: 5+ yrs exp; needs: security clearance |
+| 3:36 PM | [Systems Engineer III](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4685314) | ASSURED INFORMATION SECURITY … | Rome, NY, United States | 30 | rules: 5+ yrs exp; senior title; network work in the text; needs: Sec… |
 | 2:57 PM | [NOC Analyst Tier I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d2d1195d-4e18-4381-90b5-d30d98e6e78e&ccId=19000101_000001&jobId=9201602603100_12&lang=en_US) | D2D1195D 4E18 4381 90B5 D30D9… | Strongsville, OH | 75 | rules: 1+ yrs exp; needs: Security Clearance |
 | 11:55 AM | [Senior Systems Engineer - Hyperscaler, AI, and Cloud Titans](https://jobs.smartrecruiters.com/AristaNetworks/744000163290859-senior-systems-engineer-hyperscaler-ai-and-cloud-titans) | Arista Networks | Seattle, WA, United States (hybrid) | 35 | rules: 8+ yrs exp; senior title; network work in the text; asks for 8… |
 | 11:14 AM | [Network Engineer - Execution](https://job-boards.eu.greenhouse.io/imc/jobs/5045048101) | IMC Trading | Chicago, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
