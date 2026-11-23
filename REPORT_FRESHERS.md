@@ -1,14 +1,16 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**395 jobs**, newest first. Updated Sun Nov 22, 5:31 PM CST from 12,580 company job boards and other sources.
+**396 jobs**, newest first. Updated Sun Nov 22, 6:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 152 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sun 22 (12)](#sunday-nov-22-12) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (4)](#sunday-nov-15-4)
+Coverage check: of 4,376 matching jobs that job sites and feeds listed this week, 879 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Sunday, Nov 22 (12)
+Jump to: [Sun 22 (13)](#sunday-nov-22-13) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (4)](#sunday-nov-15-4)
+
+## Sunday, Nov 22 (13)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -17,6 +19,7 @@ Jump to: [Sun 22 (12)](#sunday-nov-22-12) · [Sat 21 (27)](#saturday-nov-21-27) 
 | date only | [Data Center Technician - Day Shift](https://www.amazon.jobs/en/jobs/10610570/data-center-technician-day-shift) | Amazon Data Services, Inc. | Andrews, Texas, USA +5 more | 70 | 1+ yrs exp; no future H-1B sponsorship |
 | date only | [Application Engineer](https://appliedmaterials.eightfold.ai/careers/job/790317029233) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 90 | 0-2 yrs exp; entry level (from the text) |
 | date only | [Associate Software Developer](https://dth.avature.net/en_US/careers/JobDetail/Associate-Software-Developer/27802) | Delta Global Technology Hub |  | 70 | entry-level title; location unclear |
+| date only | [Decision Support Analyst](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11445) | UCSF | San Francisco, CA, United States | 68 | 1+ yrs exp |
 | 3:28 AM | [Administrative Support Team Associate, Santa Maria Town Center - Part…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827333) | Macy's | Santa Maria, CA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:28 AM | [Administrative Support Team Associate, Reno Meadowood - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827313) | Macy's | Reno, NV, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Galleria](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827244) | Macy's | Fort Lauderdale, FL, United States | 75 | entry-level title |
@@ -443,12 +446,14 @@ Jump to: [Sun 22 (12)](#sunday-nov-22-12) · [Sat 21 (27)](#saturday-nov-21-27) 
 | 11:00 PM | [Research Support Associate](https://careers-wuxiapptec.icims.com/jobs/14277/research-support-associate/job) | WuXi AppTec | San Diego, CA, United States | 75 | entry-level title |
 | 10:15 PM | [Software Engineer, Super Intelligence](https://job-boards.greenhouse.io/xai/jobs/5295932007) | xAI | Palo Alto, CA | 75 | 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1605)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1601)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [2027 Associate Systems Test Engineer / Systems Test Engineer - Roy UT](https://ngc.eightfold.ai/careers/job/1340075472818) | Ngc | Roy, UT, US (onsite) | 80 | rules: entry-level title; needs: security clearance |
+| date only | [Software AI Platform Services Engineer](https://micron.eightfold.ai/careers/job/45574512) | Micron | Boise, ID, US (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:19 AM | [.NET Software Engineer](https://fa-exew-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8282) | Ritchie Bros. | Westchester, IL, United States (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 11:02 AM | [Founding Applied AI Engineer](https://jobs.ashbyhq.com/Clera/2d1cadd3-9212-46cf-be7d-bb220dad8710) | Clera | United States (onsite) | 70 | rules: 3+ yrs exp; sponsors visas; asks for 3+ years of experience |
 | date only | [Data Center Technician - Day Shift](https://www.amazon.jobs/en/jobs/10610564/data-center-technician-day-shift) | Amazon Data Services, Inc. | Andrews, Texas, USA +4 more | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
@@ -847,7 +852,5 @@ Jump to: [Sun 22 (12)](#sunday-nov-22-12) · [Sat 21 (27)](#saturday-nov-21-27) 
 | 5:45 PM | [Software Engineer, Platform IOT](https://job-boards.greenhouse.io/gomotive/jobs/8950900002) | Gomotive | Hybrid - San Francisco, California (hybrid) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 5:42 PM | [Security Engineer](https://jobs.ashbyhq.com/cowboyspace/6264db15-dba3-4b63-89ef-662599cf32db) | Cowboy Space | San Carlos, California (onsite) | 80 | rules: 2+ yrs exp; needs: security clearance |
 | 5:41 PM | [Workflow Automation Specialist](https://jobs.ashbyhq.com/Phil/50f1fa05-c710-4e9f-ae62-797ba2a39b0d) | Phil | Remote (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 5:30 PM | [Security Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a514fa2f-d9f3-4d40-99fb-28d956698e2f&ccId=19000101_000001&jobId=9201314775738_114&lang=en_US) | A514Fa2F D9F3 4D40 99Fb 28D95… | Washington, DC | 45 | rules: 8+ yrs exp; needs: Secret Clearance |
-| 5:12 PM | [Security Engineer](https://jobs.ashbyhq.com/anrok/7fa8bde7-e143-40d1-ba73-35ba534cda9a) | Anrok | San Francisco | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
 
 </details>
