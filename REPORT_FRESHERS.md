@@ -1,17 +1,20 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**391 jobs**, newest first. Updated Mon Nov 23, 6:41 AM CST from 12,580 company job boards and other sources.
+**391 jobs**, newest first. Updated Mon Nov 23, 7:22 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-149 repeat listings (same company and title in another place or on another source) are merged into one row.
+150 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (15)](#sunday-nov-22-15) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (55)](#monday-nov-16-55)
+Coverage check: of 4,724 matching jobs that job sites and feeds listed this week, 955 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Monday, Nov 23 (4)
+Jump to: [Mon 23 (5)](#monday-nov-23-5) · [Sun 22 (15)](#sunday-nov-22-15) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (54)](#monday-nov-16-54)
+
+## Monday, Nov 23 (5)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 7:14 AM | [Data Technician I - Park Design](https://ehxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34469) | Ehxr Fa Us2 Oraclecloud Com | Atlanta, GA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:25 AM | [Seasonal Fulfillment and Receiving Support Associate, Crossgates](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827445) | Macy's | Albany, NY, United States | 75 | entry-level title |
 | 3:25 AM | [Seasonal Fulfillment and Receiving Support Associate, Somerset Collec…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827439) | Macy's | Troy, MI, United States | 75 | entry-level title |
 | 2:00 AM | [PACE Medical Coder (Hybrid)](https://jobs.dayforcehcm.com/en-US/syhealth/CANDIDATEPORTAL/jobs/37396) | Syhealth | San Diego, CA, US | 75 | 1+ yrs exp |
@@ -379,7 +382,7 @@ Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | 2:23 AM | [Machine Learning Engineer](https://jobs.lever.co/jobgether/14392006-a041-4d52-a5fa-236149b99477) | Jobgether | US (remote) | 72 | 1+ yrs exp |
 | 1:46 AM | [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://jobs.lever.co/jobgether/f4b092a6-63f4-4209-897e-eb386e4aa422) | Jobgether | US (remote) | 72 | entry-level title |
 
-## Monday, Nov 16 (55)
+## Monday, Nov 16 (54)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -437,9 +440,8 @@ Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | 9:59 AM | [Product Support Specialist](https://jobs.lever.co/jobgether/29606d63-708e-48e0-b583-a2d9dbb12a63) | Jobgether | US (remote) | 72 | 1+ yrs exp; repost |
 | 9:33 AM | [Associate Cloud Engineer L1](https://jobs.lever.co/jobgether/f1b6a65b-f1e0-4ce8-9c26-92731bf054d6) | Jobgether | US (remote) | 82 | entry-level title; 0-2 yrs exp |
 | 9:30 AM | [Graduate Developer](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29481) | GHD | FARMINGTON HILLS, MI, United States; HO… (hybrid) | 90 | entry-level title; 0-2 yrs exp |
-| 7:18 AM (seen) | [Software Engineer](https://app.dover.com/apply/deepreel/252c8289-f930-47ac-8adf-8d07782e7b09) | Deepreel | International (remote) | 52 | 1+ yrs exp; location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1595)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1588)
 
 <details><summary>Show</summary>
 
@@ -457,6 +459,9 @@ Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | date only | [Cloud Engineer, AI Expert](https://apply.workable.com/weekday-1/j/951BAFA3EA/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [ML Kernel Engineer, AI Expert](https://apply.workable.com/weekday-1/j/A6B70A6295/) | Weekday AI | United States (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Security Engineer, AI Expert](https://apply.workable.com/weekday-1/j/4A316B35A2/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Inpatient facility coder](https://apply.workable.com/weekday-1/j/6C53960D19/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Product Developer](https://citi.eightfold.ai/careers/job/859038456753) | Citi | Irving, TX, US (hybrid) | 50 | rules: 6+ yrs exp; asks for 6+ years of experience |
+| 6:53 AM | [Data Analyst, Identification Accuracy](https://jobs.lever.co/jobgether/6b8909f4-d5fe-44c8-a1c3-378bbe950ded) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 5:16 AM | [Cloud Support Engineer](https://jobs.ashbyhq.com/thought-machine/7b0fb544-65e2-47d8-8303-021d8b1a645b) | Thought Machine | United States, New York, New York City (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 4:06 AM | [AI Engineer (Technical Product Owner)](https://jobs.ashbyhq.com/foxelligroup/9420f440-dac4-41b4-bbc0-16dfcf60f8db) | Foxelligroup | Lithuania; Bosnia & Herzogovina; Estoni… (remote) | 42 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 3:25 AM | [L2 SOC Analyst](https://jobs.lever.co/jobgether/58e0187a-fb66-448f-ba04-8f3e3355b0dd) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -842,8 +847,5 @@ Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | 10:57 PM | [ERP Engineering Support Analyst](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0eee8708-c75e-495c-8ca2-fffc1d15c1ec&ccId=19000101_000001&jobId=9205261837537_17&lang=en_US) | 0Eee8708 C75E 495C 8Ca2 Fffc1… | Wixom, MI | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 10:47 PM (seen) | [Software Developer - Networking (Flow)](https://jobs.jobvite.com/nutanix/job/o2lOAfwv) | Nutanix |  | 55 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | 10:04 PM | [Revenue Operations Business Analyst](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=94f16522-9f0f-4a13-b72c-b0eaf60d119d&ccId=19000101_000001&jobId=9201314116333_161&lang=en_US) | 94F16522 9F0F 4A13 B72C B0Eaf… | Alpharetta, GA; Remote | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 9:54 PM | [Linux System Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cc7b1562-35f8-45ea-ae99-92d84e0c5d46&ccId=19000101_000001&jobId=9201213479877_43&lang=en_US) | Cc7B1562 35F8 45Ea Ae99 92D84… | Arlington, VA | 60 | rules: 3+ yrs exp; needs: Top Secret clearance |
-| 9:45 PM | [Developer Support Engineer](https://jobs.lever.co/jobgether/812e7528-9851-4e87-9116-c7bf6e4ce45e) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 9:44 PM | [Business Analyst, Infrastructure & Pricing Strategy](https://jobs.ashbyhq.com/cantina/d976abf0-5f73-4e37-9b21-c04468fa7795) | Cantina | San Francisco (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 
 </details>
