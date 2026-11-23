@@ -1,17 +1,21 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**392 jobs**, newest first. Updated Mon Nov 23, 3:31 AM CST from 12,580 company job boards and other sources.
+**394 jobs**, newest first. Updated Mon Nov 23, 4:20 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 149 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Mon 23 (2)](#monday-nov-23-2) · [Sun 22 (15)](#sunday-nov-22-15) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (58)](#monday-nov-16-58)
+Coverage check: of 4,636 matching jobs that job sites and feeds listed this week, 936 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Monday, Nov 23 (2)
+Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (15)](#sunday-nov-22-15) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (58)](#monday-nov-16-58)
+
+## Monday, Nov 23 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 3:25 AM | [Seasonal Fulfillment and Receiving Support Associate, Crossgates](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827445) | Macy's | Albany, NY, United States | 75 | entry-level title |
+| 3:25 AM | [Seasonal Fulfillment and Receiving Support Associate, Somerset Collec…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827439) | Macy's | Troy, MI, United States | 75 | entry-level title |
 | 2:00 AM | [PACE Medical Coder (Hybrid)](https://jobs.dayforcehcm.com/en-US/syhealth/CANDIDATEPORTAL/jobs/37396) | Syhealth | San Diego, CA, US | 75 | 1+ yrs exp |
 | 12:00 AM | [Business Intelligence - Health Data Analyst-133-2008](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6640) | Ccok | Tulsa, OK, US | 75 | 1+ yrs exp |
 
@@ -440,7 +444,7 @@ Jump to: [Mon 23 (2)](#monday-nov-23-2) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | 5:18 AM (seen) | [Business Analyst - US - Educational Raters](https://app.dover.com/apply/careerflow/348e705d-ebed-43cf-868a-150bd99947be) | Careerflow | International (remote) | 57 | entry level (from the text) |
 | 4:59 AM | [Solutions Delivery Analyst I](https://jobs.lever.co/jobgether/2b7241b1-6f6a-451b-8aca-ca78a004479e) | Jobgether | US (remote) | 82 | entry-level title; 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1596)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1598)
 
 <details><summary>Show</summary>
 
@@ -455,6 +459,8 @@ Jump to: [Mon 23 (2)](#monday-nov-23-2) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | date only | [Machine Learning Engineer, AI Expert](https://apply.workable.com/weekday-1/j/E2B2070BCC/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Open Source Software Engineer, AI Expert](https://apply.workable.com/weekday-1/j/38C7EFC553/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Developer, AI Expert](https://apply.workable.com/weekday-1/j/4F92D4C87E/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Cloud Engineer, AI Expert](https://apply.workable.com/weekday-1/j/951BAFA3EA/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 4:06 AM | [AI Engineer (Technical Product Owner)](https://jobs.ashbyhq.com/foxelligroup/9420f440-dac4-41b4-bbc0-16dfcf60f8db) | Foxelligroup | Lithuania; Bosnia & Herzogovina; Estoni… (remote) | 42 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 3:25 AM | [L2 SOC Analyst](https://jobs.lever.co/jobgether/58e0187a-fb66-448f-ba04-8f3e3355b0dd) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:45 AM | [Digital Assets Security Engineer](https://job-boards.greenhouse.io/alpaca/jobs/6267351004) | Alpaca | Remote - Americas (remote) | 37 | rules: 6+ yrs exp; location unclear; asks for 6+ years of experience |
 | 2:19 AM (seen) | [SDET - Python Automation ( 1 - 2 years )](https://jobs.jobvite.com/nutanix/job/o2zCAfwx) | Nutanix |  | 50 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
@@ -844,7 +850,5 @@ Jump to: [Mon 23 (2)](#monday-nov-23-2) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | 8:00 PM | [Embedded Systems Engineer - Hardware & Firmware](https://assaabloy.jobs2web.com/job/Kennesaw-Embedded-Systems-Engineer-Hardware-&-Firmware-GA-30144/1432627033/) | ASSA ABLOY | Kennesaw, GA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:58 PM | [SATCOM Systems Engineer (Hybrid- Aberdeen Proving Ground)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9312ef-f8ad-43d2-926b-12997288c359&ccId=19000101_000001&jobId=9201590872784_8&lang=en_US) | 1B9312Ef F8Ad 43D2 926B 12997… | US;  US;  US;  US;  US;  US; Middletown… | 45 | rules: 5+ yrs exp; needs: Secret clearance |
 | 7:57 PM | [Corporate Network Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5489564008) | Anthropic | Remote-Friendly (Travel Required) / San… (remote) | 42 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| 7:49 PM | [Application Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=54e1b7f0-547d-444b-870d-ceed2867231e&ccId=19000101_000001&jobId=9201647526937_30&lang=en_US) | 54E1B7F0 547D 444B 870D Ceed2… | Austin, TX | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 7:39 PM | [Delivery Support Specialist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679638) | HEARTLAND BUSINESS SYSTEMS LLC | Springfield, MO, United States +2 more (remote) | 67 | rules: 2+ yrs exp; staffing/consulting firm: verify it's real; asks f… |
 
 </details>
