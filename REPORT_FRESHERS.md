@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**395 jobs**, newest first. Updated Mon Nov 23, 2:31 AM CST from 12,580 company job boards and other sources.
+**395 jobs**, newest first. Updated Mon Nov 23, 3:19 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-150 repeat listings (same company and title in another place or on another source) are merged into one row.
+149 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,550 matching jobs that job sites and feeds listed this week, 917 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Mon 23 (2)](#monday-nov-23-2) · [Sun 22 (15)](#sunday-nov-22-15) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61)
 
@@ -443,7 +445,7 @@ Jump to: [Mon 23 (2)](#monday-nov-23-2) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Oakridge](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825784) | Macy's | San Jose, CA, United States | 75 | entry-level title |
 | 3:26 AM | [Administrative Support Team Associate, Cherryvale - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825771) | Macy's | Rockford, IL, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1594)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1596)
 
 <details><summary>Show</summary>
 
@@ -455,6 +457,11 @@ Jump to: [Mon 23 (2)](#monday-nov-23-2) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | date only | [Controls Systems Engineer, Controls Design Execution](https://www.amazon.jobs/en/jobs/10611084/controls-systems-engineer-controls-design-execution) | Amazon Data Services, Inc. | Seattle, Washington, USA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Data Engineer](https://careers.capgemini.com/job/Burlington%2C-MA-Data-Engineer-MA-01803/1459548133/) | Capgemini | Burlington, MA, United States | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [SF Automation Engineer](https://careers.quality-ai.com/job/Bangalore-SF-Automation-Engineer-560045/61754444/) | Qualitest |  | 55 | rules: 4+ yrs exp; location unclear; asks for 4+ years of experience |
+| date only | [Machine Learning Engineer, AI Expert](https://apply.workable.com/weekday-1/j/E2B2070BCC/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Open Source Software Engineer, AI Expert](https://apply.workable.com/weekday-1/j/38C7EFC553/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Software Developer, AI Expert](https://apply.workable.com/weekday-1/j/4F92D4C87E/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 3:25 AM | [L2 SOC Analyst](https://jobs.lever.co/jobgether/58e0187a-fb66-448f-ba04-8f3e3355b0dd) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 2:45 AM | [Digital Assets Security Engineer](https://job-boards.greenhouse.io/alpaca/jobs/6267351004) | Alpaca | Remote - Americas (remote) | 37 | rules: 6+ yrs exp; location unclear; asks for 6+ years of experience |
 | 2:19 AM (seen) | [SDET - Python Automation ( 1 - 2 years )](https://jobs.jobvite.com/nutanix/job/o2zCAfwx) | Nutanix |  | 50 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | 1:41 AM | [Business Analyst/Scrum Master](https://jobs.lever.co/jobgether/0594a0d6-58c3-4653-bf1a-da5654594596) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; needs: security clearance |
 | 1:29 AM | [Software Engineer, AI Tooling](https://jobs.ashbyhq.com/airwallex/bd91b283-8de0-41bd-aba4-8cae281808a7) | Airwallex | US - San Francisco (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -844,10 +851,5 @@ Jump to: [Mon 23 (2)](#monday-nov-23-2) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | 7:57 PM | [Corporate Network Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5489564008) | Anthropic | Remote-Friendly (Travel Required) / San… (remote) | 42 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 7:49 PM | [Application Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=54e1b7f0-547d-444b-870d-ceed2867231e&ccId=19000101_000001&jobId=9201647526937_30&lang=en_US) | 54E1B7F0 547D 444B 870D Ceed2… | Austin, TX | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 7:39 PM | [Delivery Support Specialist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4679638) | HEARTLAND BUSINESS SYSTEMS LLC | Springfield, MO, United States +2 more (remote) | 67 | rules: 2+ yrs exp; staffing/consulting firm: verify it's real; asks f… |
-| 7:37 PM | [Implementation Specialist - Enterprise](https://jobs.ashbyhq.com/plaid/bedae333-aa7f-4bf8-9d20-59fa3ba699b8) | Plaid | San Francisco HQ; San Francisco HQ (hybrid) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
-| 7:20 PM | [Eligibility QA Analyst](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=77d040d9-afa5-44d0-b712-2aa98296db42&ccId=19000101_000001&jobId=9202591422542_287&lang=en_US) | 77D040D9 Afa5 44D0 B712 2Aa98… | New York, NY | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| 7:07 PM | [IT Specialist (Contractor)](https://jobs.ashbyhq.com/paraform/651df339-fec5-4843-8b7a-d7f4e1d7a787) | Paraform | San Francisco (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 6:56 PM | [IT Helpdesk Technician](https://jobs.ashbyhq.com/xona-space/cc336e79-8a9b-4f9d-a962-bb2fb514493b) | Xona Space | Burlingame, California (onsite) | 80 | rules: 2+ yrs exp; needs: Security Clearance |
-| 6:54 PM | [Security Operations Center Analyst](https://www.esri.com/careers/5302828007?gh_jid=5302828007) | Esri | Redlands, CA +1 more | 75 | rules: 2+ yrs exp; needs: security clearance |
 
 </details>
