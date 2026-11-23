@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**199 jobs**, newest first. Updated Mon Nov 23, 4:20 PM CST from 12,580 company job boards and other sources.
+**196 jobs**, newest first. Updated Mon Nov 23, 4:37 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-172 repeat listings (same company and title in another place or on another source) are merged into one row.
+170 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Mon 23 (25)](#monday-nov-23-25) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (31)](#tuesday-nov-17-31) · [Mon 16 (8)](#monday-nov-16-8)
+Coverage check: of 3,261 matching jobs that job sites and feeds listed this week, 1,657 (50%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Mon 23 (25)](#monday-nov-23-25) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (31)](#tuesday-nov-17-31) · [Mon 16 (5)](#monday-nov-16-5)
 
 ## Monday, Nov 23 (25)
 
@@ -234,18 +236,15 @@ Jump to: [Mon 23 (25)](#monday-nov-23-25) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | 3:00 AM | [Senior Microsoft Infrastructure Administrator](https://jobs.lever.co/jobgether/adece85e-353a-4742-8dee-287d1fce55d5) | Jobgether | US (remote) | 52 | senior title, years not stated |
 | 1:26 AM | [Applied Science Platform Engineer](https://jobs.ashbyhq.com/StandInsurance/98980cc7-8acb-4987-ba81-ca86844e81d8) | Stand Insurance | San Francisco (onsite) | 60 | 3+ yrs exp; no future H-1B sponsorship |
 
-## Monday, Nov 16 (8)
+## Monday, Nov 16 (5)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:00 PM | [Network Engineer II](https://jobs.dayforcehcm.com/en-US/landstar/CANDIDATEPORTAL/jobs/11996) | Landstar | Jacksonville, FL, US | 40 | 3+ yrs exp |
 | 9:58 PM | [Network Infrastructure Engineer](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41673) | Nokia | United States (onsite) | 70 |  |
 | 5:19 PM | [Optical Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695000/optical-network-engineer-infrastructure-services) | Apple | United States of America | 65 |  |
-| 5:18 PM | [Senior Engineer, Dev Ops - WWE 2K](https://job-boards.greenhouse.io/2k/jobs/8206136003) | 2K | California, United States | 60 | 3+ yrs exp; senior title |
+| 5:18 PM | [Senior Engineer, Dev Ops - WWE 2K](https://job-boards.greenhouse.io/visualconcepts/jobs/8205804003) | Visualconcepts | California, United States | 60 | 3+ yrs exp; senior title |
 | 4:52 PM | [Retail Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695197/retail-network-engineer-infrastructure-services) | Apple | United States of America | 65 | repost |
-| 4:32 PM | [Site Reliability Engineer II-Production Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210804732) | JP Morgan Chase | Chicago, IL, United States | 70 | 2+ yrs exp |
-| 4:28 PM | [Senior Agentic AI Engineer II - Global Infrastructure](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013784) | American Express | New York, NY, United States; Sunrise, F… (hybrid) | 55 | senior title, years not stated |
-| 4:27 PM | [Senior Security Engineer 1, Platform](https://oscarhealth.com/careers/jobs?gh_jid=8382174) | Oscar Health | New York, New York, United States | 70 | entry-level title; 4+ yrs exp; senior title |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (399)
 
