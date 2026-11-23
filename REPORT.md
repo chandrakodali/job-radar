@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**216 jobs**, newest first. Updated Mon Nov 23, 2:49 AM CST from 12,580 company job boards and other sources.
+**215 jobs**, newest first. Updated Mon Nov 23, 3:07 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 150 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (45)](#thursday-nov-19-45) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (45)](#monday-nov-16-45)
+Coverage check: of 2,979 matching jobs that job sites and feeds listed this week, 1,453 (48%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (45)](#thursday-nov-19-45) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (44)](#monday-nov-16-44)
 
 ## Sunday, Nov 22 (3)
 
@@ -209,7 +211,7 @@ Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 3:00 AM | [Senior Microsoft Infrastructure Administrator](https://jobs.lever.co/jobgether/adece85e-353a-4742-8dee-287d1fce55d5) | Jobgether | US (remote) | 52 | senior title, years not stated |
 | 1:26 AM | [Applied Science Platform Engineer](https://jobs.ashbyhq.com/StandInsurance/98980cc7-8acb-4987-ba81-ca86844e81d8) | Stand Insurance | San Francisco (onsite) | 60 | 3+ yrs exp; no future H-1B sponsorship |
 
-## Monday, Nov 16 (45)
+## Monday, Nov 16 (44)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -257,7 +259,6 @@ Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 9:33 AM | [Associate Cloud Engineer L1](https://jobs.lever.co/jobgether/f1b6a65b-f1e0-4ce8-9c26-92731bf054d6) | Jobgether | US (remote) | 82 | entry-level title; 0-2 yrs exp |
 | 9:14 AM | [Senior Software Engineer - Infrastructure Security (Remote)](https://jobs.ashbyhq.com/quora/dce88e1a-d30f-44e6-a471-cf810fc9a449) | Quora | Remote - Multiple Locations; United Sta… (remote) | 52 | senior title, years not stated |
 | 8:37 AM | [Professional Services Technical Operations Engineer- Agentic AI](https://jobs.lever.co/jobgether/029f6e21-36a5-42c6-859d-ec5e7c435578) | Jobgether | US (remote) | 47 |  |
-| 2:53 AM | [Application Support Engineer](https://jobs.lever.co/jobgether/65a1156a-de46-49fd-8413-39a2b0b92b26) | Jobgether | US (remote) | 42 | 4+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (418)
 
