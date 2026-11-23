@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**399 jobs**, newest first. Updated Mon Nov 23, 10:20 AM CST from 12,535 company job boards and other sources.
+**398 jobs**, newest first. Updated Mon Nov 23, 10:34 AM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-175 repeat listings (same company and title in another place or on another source) are merged into one row.
+174 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,817 matching jobs that job sites and feeds listed this week, 974 (20%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Mon 23 (17)](#monday-nov-23-17) · [Sun 22 (15)](#sunday-nov-22-15) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (50)](#monday-nov-16-50)
+Jump to: [Mon 23 (17)](#monday-nov-23-17) · [Sun 22 (15)](#sunday-nov-22-15) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (49)](#monday-nov-16-49)
 
 ## Monday, Nov 23 (17)
 
@@ -22,7 +20,7 @@ Jump to: [Mon 23 (17)](#monday-nov-23-17) · [Sun 22 (15)](#sunday-nov-22-15) ·
 | 9:23 AM (seen) | [AI/ML Engineer-1](https://ats.rippling.com/huntridge-labs-careers/jobs/8a531178-ed2e-417b-991f-cfcd229b73a1) | Huntridge Labs Careers | Remote (United States) (remote) | 57 | entry-level title |
 | 9:23 AM (seen) | [DevSecOps Engineer-1](https://ats.rippling.com/huntridge-labs-careers/jobs/dde2a76e-4e59-4880-9fae-f3d8301bac09) | Huntridge Labs Careers | Remote (United States) (remote) | 57 | entry-level title |
 | 9:22 AM | [QA Optimization Engineer](https://jobs.smartrecruiters.com/AveryDennison/744000163250703-qa-optimization-engineer) | Avery Dennison | Painesville, OH, United States | 75 | 1+ yrs exp |
-| 8:23 AM (seen) | [Junior Java Developer ID101083](https://agileengine.zohorecruit.com/jobs/Careers/248544000265829193/Junior-Java-Developer-ID101083) | Agileengine | Tallahassee, United States +23 more | 60 | entry-level title |
+| 8:23 AM (seen) | [Junior Java Developer ID101083](https://agileengine.zohorecruit.com/jobs/Careers/248544000265829193/Junior-Java-Developer-ID101083) | Agileengine | Tallahassee, United States +22 more | 60 | entry-level title |
 | 8:22 AM | [AI Success Consultant](https://job-boards.greenhouse.io/podium81/jobs/8411298) | Podium | Lehi, Utah | 75 | 1+ yrs exp |
 | 7:49 AM | [Test Center Administrator (Princeton, NJ)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26740) | Pearson | Princeton, NJ, United States +9 more (onsite) | 80 | 1+ yrs exp |
 | 7:49 AM | [Customer Support Analyst](https://job-boards.greenhouse.io/onetrust/jobs/8305898) | Onetrust | Atlanta, Georgia | 75 | 1+ yrs exp |
@@ -394,7 +392,7 @@ Jump to: [Mon 23 (17)](#monday-nov-23-17) · [Sun 22 (15)](#sunday-nov-22-15) ·
 | 2:23 AM | [Machine Learning Engineer](https://jobs.lever.co/jobgether/14392006-a041-4d52-a5fa-236149b99477) | Jobgether | US (remote) | 72 | 1+ yrs exp |
 | 1:46 AM | [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://jobs.lever.co/jobgether/f4b092a6-63f4-4209-897e-eb386e4aa422) | Jobgether | US (remote) | 72 | entry-level title |
 
-## Monday, Nov 16 (50)
+## Monday, Nov 16 (49)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -447,9 +445,8 @@ Jump to: [Mon 23 (17)](#monday-nov-23-17) · [Sun 22 (15)](#sunday-nov-22-15) ·
 | date only | [Autonomous Vehicle Support Technician](https://wmeexpress.applytojob.com/apply/bxH0NJga3W/Autonomous-Vehicle-Support-Technician) | WME Express | Austin, TX | 70 | 1+ yrs exp; no future H-1B sponsorship |
 | date only | [GaN & Compound Semiconductor Device Technology Engineer (2027 New Col…](https://globalfoundries.eightfold.ai/careers/job/563980770506168) | Globalfoundries | Malta, NY, US (onsite) | 73 | entry-level title |
 | date only | [Technical Support Specialist](https://apply.workable.com/pavago/j/254FF53CE1/) | Pavago | United States (remote) | 60 | 1+ yrs exp |
-| 10:32 AM | [Administrative Support Associate - Per Diem](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/194739) | Northwell Health | Lynbrook, Nassau, United States | 85 | entry-level title; 0-2 yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1585)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1566)
 
 <details><summary>Show</summary>
 
@@ -504,7 +501,7 @@ Jump to: [Mon 23 (17)](#monday-nov-23-17) · [Sun 22 (15)](#sunday-nov-22-15) ·
 | 8:55 AM | [Test Engineer](https://jobs.smartrecruiters.com/Aumovio/744000163246280-test-engineer) | Aumovio | New Braunfels, TX, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 8:42 AM | [Software Engineer - Interfaces Backend](https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01) | Supabase | Remote, Global (remote) | 47 | rules: 5+ yrs exp; location unclear; priority company; asks for 5+ ye… |
 | 8:40 AM | [Application Analyst-Oracle Fusion HCM-Hybrid](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/388599) | Mayo Clinic | Rochester, MN, United States | 40 | rules: 8+ yrs exp; no future H-1B sponsorship; asks for 8+ years of e… |
-| 8:23 AM (seen) | [Community Support Specialist - Substance Use Recovery](https://compasshealthnetwork.pinpointhq.com/en/postings/5b4e358c-37a2-4817-9083-ad01854b51c0) | Compasshealthnetwork | Union - Paul Alan Drive +4 more (onsite) | 50 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 8:23 AM (seen) | [Community Support Specialist - Substance Use Recovery](https://compasshealthnetwork.pinpointhq.com/en/postings/5b4e358c-37a2-4817-9083-ad01854b51c0) | Compasshealthnetwork | Union - Paul Alan Drive +3 more (onsite) | 50 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 8:23 AM (seen) | [Computer Specialist (Operations) 1-4 TWU Rep - System Administrator](https://jobs.jobvite.com/metropolitantransportationauthority/job/otl5Afwd) | Metropolitan Transportation A… | New York, NY | 30 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 8:22 AM | [Production Test Engineer](https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990017030556-production-test-engineer) | Mission Critical Group | Harleysville, Pennsylvania, United Stat… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:17 AM | [STA Technical Specialist - Electronics](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73067) | Ford Motor Company | United States (onsite) | 50 | rules: 10+ yrs exp; asks for 10+ years of experience |
