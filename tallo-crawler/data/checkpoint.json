@@ -18,18 +18,6 @@
   "core_remaining": 0,
   "pending": [
     {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/hempstead",
-      "label": "Hempstead",
-      "count": 1,
-      "deferred_once": true
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/pelham",
-      "label": "Pelham",
-      "count": 1,
-      "deferred_once": true
-    },
-    {
       "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/ny/tuckahoe",
       "label": "Tuckahoe",
       "count": 1,
