@@ -12267,7 +12267,7 @@
   "workday:hitachi|wd1|hitachi": 260,
   "workday:littelfuse|wd1|littelfuse-careers": 21,
   "workday:marvell|wd1|marvellcareers": 173,
-  "workday:methode|wd5|methode": 32,
+  "workday:methode|wd5|methode": 30,
   "workday:michelinhr|wd3|michelin": 112,
   "workday:moog|wd5|moog_external_career_site": 320,
   "workday:nidec|wd1|nidec": 45,
@@ -12279,7 +12279,7 @@
   "workday:recar|wd108|slatecareers": 100,
   "workday:rockwellautomation|wd1|external_rockwell_automation": 152,
   "workday:sensata|wd1|sensata-careers": 20,
-  "workday:stoneridge|wd5|careers": 5,
+  "workday:stoneridge|wd5|careers": 1,
   "workday:terex|wd1|terexcareers": 40,
   "workday:toyota|wd503|tmna": 127,
   "workday:valeo|wd3|valeo_jobs": 40,
@@ -13987,7 +13987,7 @@
    "since": "2026-11-11"
   }
  },
- "found_cursor": 3041,
+ "found_cursor": 71,
  "last_digest": "2026-11-22",
  "missed_companies": {},
  "missing_once": {
@@ -13998,7 +13998,8 @@
   "workday:cat|wd5|caterpillarcareers:R0000404285": "2026-11-16",
   "workday:generalmotors|wd5|Careers_GM:JR-202607718": "2026-11-16",
   "workday:polaris|wd5|PolarisJobs:R31739": "2026-11-21",
-  "workday:polaris|wd5|PolarisJobs:R31761": "2026-11-21"
+  "workday:polaris|wd5|PolarisJobs:R31761": "2026-11-21",
+  "workday:stoneridge|wd5|Careers:JR102847": "2026-11-23"
  },
  "read_at": {
   "adp:000c0490-cc55-4888-9ce3-84bc24843c60|19000101_000001": "2026-11-20T20:27+00:00",
@@ -21029,6 +21030,7 @@
   "workday:kantar|wd3|kantar": "2026-11-20T18:01+00:00",
   "workday:kauai|wd1|Kauai_External_Career_Site": "2026-11-20T20:40+00:00",
   "workday:littelfuse|wd1|Littelfuse-Careers": "2026-11-23T01:59+00:00",
+  "workday:methode|wd5|methode": "2026-11-23T11:07+00:00",
   "workday:moog|wd5|moog_external_career_site": "2026-11-20T18:01+00:00",
   "workday:nebraskablue|wd1|BCBSNE": "2026-11-20T18:01+00:00",
   "workday:nidec|wd1|nidec": "2026-11-22T23:07+00:00",
@@ -21043,6 +21045,7 @@
   "workday:sensata|wd1|Sensata-Careers": "2026-11-22T04:35+00:00",
   "workday:spectrumhealth|wd5|CorewellHealthCareers": "2026-11-20T20:40+00:00",
   "workday:spgi|wd5|aM_Careers": "2026-11-20T20:40+00:00",
+  "workday:stoneridge|wd5|Careers": "2026-11-23T11:07+00:00",
   "workday:terex|wd1|terexcareers": "2026-11-21T14:31+00:00",
   "workday:toyota|wd503|tmna": "2026-11-20T18:01+00:00",
   "workday:upbound|wd501|Acima": "2026-11-20T20:40+00:00",
@@ -92371,7 +92374,7 @@
   "zoho:stackand:311383000018775968": "2026-11-15"
  },
  "source_last": {},
- "term_cursor": 29,
+ "term_cursor": 39,
  "text_retries": {
   "avature:harmanglobal.avature.net|en_US/careers:32174": 2,
   "avature:harmanglobal.avature.net|en_US/careers:32516": 2,
@@ -92427,6 +92430,7 @@
   "workday:generalmotors|wd5|Careers_GM:JR-202624305": 2,
   "workday:hitachi|wd1|hitachi:R0151469": 1,
   "workday:hitachi|wd1|hitachi:R0151825": 1,
+  "workday:methode|wd5|methode:R27556": 1,
   "workday:nxp||careers:R-10067372": 1,
   "workday:nxp||careers:R-10067842": 1,
   "workday:oshkoshcorporation|wd5|Oshkosh:R52176": 1,
