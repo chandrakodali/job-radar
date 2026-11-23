@@ -1,12 +1,21 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**87 jobs**, newest first. Updated Mon Nov 23, 8:47 AM CST from 12,580 company job boards and other sources.
+**86 jobs**, newest first. Updated Mon Nov 23, 9:29 AM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-113 repeat listings (same company and title in another place or on another source) are merged into one row.
+130 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (20)](#monday-nov-16-20)
+Coverage check: of 3,860 matching jobs that job sites and feeds listed this week, 1,370 (35%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Mon 23 (2)](#monday-nov-23-2) · [Sun 22 (1)](#sunday-nov-22-1) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (17)](#monday-nov-16-17)
+
+## Monday, Nov 23 (2)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| 9:29 AM (seen) | [Junior Java Developer ID101083](https://agileengine.zohorecruit.com/jobs/Careers/248544000265833198/Junior-Java-Developer-ID101083) | Agileengine | San Francisco, United States +23 more | 60 | entry-level title |
+| 9:04 AM | [Software Engineer II](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4321) | Akamai Technologies | United States (remote) | 52 | 2+ yrs exp; requires Java |
 
 ## Sunday, Nov 22 (1)
 
@@ -105,7 +114,7 @@ Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Sat 21 (1)](#saturday-nov-21-1) · [
 | 7:51 AM | [AWS Software Engineer II - Full Stack/Java/React](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790526) | JP Morgan Chase | Jersey City, NJ, United States | 70 | 2+ yrs exp |
 | 2:14 AM | [Middle Software Engineer - Backend (Platform)](https://jobs.lever.co/jobgether/bbd011d9-382f-4f14-a2ee-0516f4ac407a) | Jobgether | US (remote) | 47 | requires Java |
 
-## Monday, Nov 16 (20)
+## Monday, Nov 16 (17)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -126,17 +135,15 @@ Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Sat 21 (1)](#saturday-nov-21-1) · [
 | 12:22 PM | [Java Full Stack Software Engineer III - React / Kubernetes](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785588) | JP Morgan Chase | Tampa, FL, United States | 60 | 3+ yrs exp; senior title |
 | date only | [Desenvolvedor Pl - Java](https://spassu.zohorecruit.com/jobs/Careers/678402000036055048/Desenvolvedor-Pl-Java) | Spassu |  (remote) | 57 | location unclear |
 | date only | [Software Engineer Full Stack / Backend II (Full-Time) - United States](https://careers.cisco.com/global/en/job/CISCISGLOBAL2026779EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 50 | 0-2 yrs exp; requires Java |
-| 10:50 AM (seen) | [Junior Java Developer ID101083](https://agileengine.zohorecruit.com/jobs/Careers/248544000265528062/Junior-Java-Developer-ID101083) | Agileengine | Washington, United States | 60 | entry-level title |
-| 9:25 AM | [he Core Engineering- Software Engineering - Associate - New York](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/184980) | Goldman Sachs | New York, NY, United States | 55 | entry-level title; 3+ yrs exp; requires Java |
-| 8:59 AM | [Senior Application Software Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349266) | Oracle | United States | 40 | 4+ yrs exp; senior title; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (78)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (79)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Senior API Automation Engineer](https://careers.quality-ai.com/job/Bangalore-Senior-API-Automation-Engineer-560045/61754244/) | Qualitest |  | 25 | rules: 6+ yrs exp; senior title; location unclear; requires Java; ask… |
+| 9:29 AM (seen) | [Software Engineer SWE Level 1](https://careers.bitwise.tech/careers/101033-General/jobs/16875830-Software-Engineer-SWE-Level-1/) | Bitwise |  | 20 | rules: entry-level title; 7+ yrs exp; location unclear; requires Java… |
 | 6:58 AM | [Senior Software Engineer](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50562) | Citizens Financial Group | United States | 30 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
 | 6:04 AM | [Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801019) | JP Morgan Chase | Houston, TX, United States | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:05 AM | [Senior Software Engineer, Risk](https://jobs.ashbyhq.com/airwallex/17b6135f-19e3-4182-ba3c-313e2555d1c2) | Airwallex | US - Seattle (remote) | 27 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
