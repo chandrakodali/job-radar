@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**218 jobs**, newest first. Updated Mon Nov 23, 1:07 AM CST from 12,535 company job boards and other sources.
+**218 jobs**, newest first. Updated Mon Nov 23, 1:20 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 150 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 2,959 matching jobs that job sites and feeds listed this week, 1,440 (48%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (45)](#thursday-nov-19-45) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47)
 
@@ -263,7 +261,7 @@ Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 2:12 AM (seen) | [Revenue Cloud Developer](https://aspire.zohorecruit.com/jobs/Careers/503306000044928194/Revenue-Cloud-Developer) | Aspire |  (remote) | 42 | location unclear |
 | 2:10 AM | [Production Engineer](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Fremont-CA---46401-Landing-Pkwy/Production-Engineer_R10105255) | Air Liquide | Fremont, CA - 46401 Landing Pkwy | 38 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (420)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (418)
 
 <details><summary>Show</summary>
 
