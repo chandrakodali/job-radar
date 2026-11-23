@@ -1,7 +1,7 @@
 careers · open role
 member of technical staff (biological)
 frontier · Cambridge, UK · full-time, permanent
-salary: £90,000 to £250,000 (approx. US$120,000 to US$334,000), plus $1–10M in equity
+salary: £90,000 to £250,000 (approx. US$120,000 to US$334,000), plus $0.5–10M in equity
 about frontier computing
 frontier computing utilises cultured neural tissue as a computational substrate.
 Biological neurones in vivo perform inference at very low power, several orders of magnitude below what a comparable silicon system would draw, and the cells manufacture themselves.
@@ -44,7 +44,7 @@ Worked on maturation or on the size limit in three dimensional neural constructs
 Built instrumentation across electrophysiology, optogenetics, or other related areas — and used it, not only built it.
 A note on temperament, since it matters here as much as technique. This work suits people who are comfortable being among the few in the world attacking a particular problem, who will stop their own project when the data says to, and who are willing to treat a cost model as a scientific object rather than an administrative chore. It suits people who are not troubled by a thin literature. It is a poor fit for someone who needs an established field to orient within, and we would rather establish that early than late.
 what we can offer
-Compensation. £90,000 to £250,000 (approximately US$120,000 to US$334,000 at current rates) depending on experience, plus $1–10M in equity , with the vesting schedule to be agreed at offer. The range is genuine and negotiable, and it reflects that this is a founding position. You would be an owner rather than a member of staff.
+Compensation. £90,000 to £250,000 (approximately US$120,000 to US$334,000 at current rates) depending on experience, plus $0.5–10M in equity , with the vesting schedule to be agreed at offer. The range is genuine and negotiable, and it reflects that this is a founding position. You would be an owner rather than a member of staff.
 Scientific authority. You choose the problems and you stop the projects. The founder's job is to make sure the company survives long enough for your programme to run. Yours is to make sure it is the right programme to further our technological roadmap.
 Resources. Recurring biology, wet lab and microfluidics infrastructure are funded, and you would shape what we buy rather than inherit someone else's equipment. Budget for the founding scientific team is already available: you will not be writing grant applications.
 A decision, promptly. We will give you an answer within two weeks of a first substantive conversation, and can happily provide the reasoning either way.

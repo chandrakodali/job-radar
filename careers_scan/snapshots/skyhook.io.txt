@@ -1,14 +1,24 @@
 We're Hiring
-Build the future of
-cloud deployment
-Join a team of passionate engineers, designers, and operators working to make cloud infrastructure simple, fast, and accessible for every developer.
+Build Radar and
+Skyhook Platform
+We are a small team building two Kubernetes products: Radar , an open-source Kubernetes UI and MCP server, and Skyhook Platform , an internal developer platform for teams without a platform team.
+Work on Radar
+Open source under Apache 2.0, built in Go and TypeScript in a public GitHub repo
+A release every week, with issues and pull requests from the community
+An MCP server and AI investigations that agents use on live clusters
+See the code on GitHub
+Work on Skyhook Platform
+Builds, deployments and rollouts that run in customers' own clouds
+GitOps with Argo CD, preview environments and auto-scaling across AWS, GCP, Azure and OCI
+Working directly with the teams who ship on it every day
+Read about Skyhook Platform
 Why Skyhook
 More than just a job
 We're building something meaningful, and we want you to be part of it.
 Remote-Friendly
 Some roles are fully remote, others are hybrid in Tel Aviv. We're flexible.
 Competitive Equity
-Meaningful ownership in a high-growth company shaping the future of DevOps.
+Meaningful ownership in a small company building two Kubernetes products.
 Flexible PTO
 Take the time you need. We trust you to manage your own schedule.
 Open Positions

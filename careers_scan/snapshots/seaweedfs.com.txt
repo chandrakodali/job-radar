@@ -3,7 +3,7 @@ One cluster.
 Objects, tables,
 vectors, and files.
 Fast distributed storage, with the protection and control your production data needs.
-Serve S3 objects, Iceberg tables, vector search, and POSIX workloads from the same engine. Add recovery, storage efficiency, and operational tools to the open-source core.
+Serve S3 objects, Iceberg tables, vector search, and POSIX workloads from the same engine. Restore files after malware damage, rebuild redundancy sooner after a disk failure, and fit more data on the hardware you own.
 Get started Explore Enterprise
 Free for development and testing under 25TB.
 One storage platform
@@ -45,21 +45,20 @@ The Enterprise layer
 Protect your data.
 Make your hardware go further.
 All Enterprise features
-Recover with confidence
-Undo deletes and overwrites, and repair damaged data when hardware fails.
-Data recovery
-Point-in-time recovery
-Automatic shard repair
-Store more, use less
-Reduce data and metadata overhead, then reclaim space when it is no longer needed.
+Recover files after malware damage
+Set a retention window before an incident. If malware deletes or overwrites files, restore the affected paths to a time before the damage.
+Restore deleted files
+Preview a point-in-time restore
+Fit more data on each disk
+Choose how much capacity to reserve for disk failures, compress small objects, and shrink metadata for cold directories.
 Custom erasure coding
 Zstd dictionaries
 Sealed directories
-Keep operations visible
-See how the cluster is performing and manage the people and workloads using it.
-Cluster monitoring
-Identity provider login
-Administrative audit log
+Faster recovery after disk failure
+Start eligible repairs while workers balance other volumes. A volume down to its last copy can regain protection sooner.
+Concurrent job scheduling
+Rebuild missing shards
+Monitor cluster health
 Measured, with the details
 See what changes in practice.
 43.9% less payload storage

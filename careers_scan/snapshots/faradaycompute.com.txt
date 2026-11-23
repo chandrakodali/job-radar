@@ -1,3 +1,9 @@
+Platform
+Use cases
+Solutions
+Company
+Research
+Book a meeting
 The short answer
 Quoting automation turns an RFQ into a structured, costed draft for approval. Faraday gathers the requested items or drawings, uses your costs and job history, identifies missing requirements and prepares the response. Estimators retain control of assumptions, margins and customer commitments.
 The problem: the quote waits while the customer keeps looking.
@@ -100,4 +106,3 @@ Order entry
 Orders arrive by email, PDF and phone. Faraday turns each request into a validated order in your ERP and sends exceptions to the right person.
 See your next RFQ, assembled.
 Walk through one opportunity with your estimating team, from source requirements to a costed draft and its open questions.
-Book a meeting

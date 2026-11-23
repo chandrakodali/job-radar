@@ -1,6 +1,6 @@
 # Cloud, DevOps, SRE, platform and infrastructure roles (no job board)
 
-Updated 2026-11-22 20:33 UTC. **90 open roles** at 70 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
+Updated 2026-11-23 09:50 UTC. **90 open roles** at 70 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
 
 **Apply:** the ✉ link opens an email to the company's hiring address with the subject filled in; attach your résumé. Scores and notes use the radar's rules (config.yaml): higher is a better early-career fit; "location unclear" means the page didn't say, so check it. 🆕 = first seen in the last 2 days.
 
@@ -65,7 +65,7 @@ Updated 2026-11-22 20:33 UTC. **90 open roles** at 70 companies that post jobs o
 | 40 | [Senior Backend / ML Ops Engineer](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Drafted | In person | [Careers page](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Nov 13 | senior title, years not stated |
 | 40 | [Network Systems Engineer](https://efference.ai/careers/wireless-networking-engineer/) | Efference | On-site | [✉ team@efference.ai](mailto:team@efference.ai?subject=Application%3A%20Network%20Systems%20Engineer%20%E2%80%93%20Efference) | Nov 11 |  |
 | 40 | [Senior Software Engineer, Infrastructure](https://lightsprint.ai/careers/senior-software-engineer) | LightSprint | ? | [✉ founders@lightsprint.ai](mailto:founders@lightsprint.ai?subject=Application%3A%20Senior%20Software%20Engineer%2C%20Infrastructure%20%E2%80%93%20LightSprint) | Nov 13 | senior title, years not stated |
-| 40 | [Senior Software Engineer (Backend & Infrastructure)](https://ndea.com/jobs/senior-software-engineer-backend-infrastructure) 🆕 | Ndea | ? | [✉ future@ndea.com](mailto:future@ndea.com?subject=Application%3A%20Senior%20Software%20Engineer%20%28Backend%20%26%20Infrastructure%29%20%E2%80%93%20Ndea) | Nov 21 | senior title, years not stated |
+| 40 | [Senior Software Engineer (Backend & Infrastructure)](https://ndea.com/jobs/senior-software-engineer-backend-infrastructure) | Ndea | ? | [✉ future@ndea.com](mailto:future@ndea.com?subject=Application%3A%20Senior%20Software%20Engineer%20%28Backend%20%26%20Infrastructure%29%20%E2%80%93%20Ndea) | Nov 21 | senior title, years not stated |
 | 37 | [Senior Site Reliability Engineer](https://www.buildbuddy.io/jobs/senior-site-reliability-engineer) | BuildBuddy | Remote Execution | [Careers page](https://www.buildbuddy.io/jobs/senior-site-reliability-engineer) | Nov 13 | senior title, years not stated |
 | 37 | [Senior DevOps/Integration Engineer](https://netris.io/careers/) | Netris | Remote, US | [Careers page](https://netris.io/careers/) | Nov 13 | senior title, years not stated |
 | 37 | [Senior DevOps Engineer](https://netris.io/careers/) | Netris | Remote, US | [Careers page](https://netris.io/careers/) | Nov 13 | senior title, years not stated |

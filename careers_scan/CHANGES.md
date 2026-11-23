@@ -1,304 +1,406 @@
 # Careers page changes
 
-Checked 2026-11-22 20:33 UTC: 1757 pages, 25 changed, 9 look like new postings.
+Checked 2026-11-23 09:50 UTC: 1757 pages, 39 changed, 16 look like new postings.
 
-## [Coingape](https://coingape.com/careers/)
+## [Cognizant](https://careers.cognizant.com/india-en/)
 
-- added: $61,137
-- added: ▲ 5.07%
-- added: $1,711
-- added: ▲ 3.64%
-- added: $554
-- added: ▲ 4.50%
-- added: $71
-- added: ▲ 2.54%
-- added: $0.9302
-- added: ▲ 3.18%
-- added: $0.9993
-- added: ▼ 0.01%
-- added: $0.1461
-- added: ▲ 4.00%
-- added: $0.0554
-- removed: $57,902
-- removed: ▼ 6.38%
-- removed: $1,630
-- removed: ▼ 6.96%
-- removed: $525
+- added: Sr. Product Test Specialist
+- added: KOLKATA, West Bengal, India
+- added: Architect
+- added: Sr. Architect
+- added: Hyderabad, Telangana, India
+- removed: SAP Controlling ( Architect)
+- removed: SAP APO PPDS ( Senior Consultant)
+- removed: BANGALORE, Karnataka, India
+- removed: SPE-Investment Banking
+- removed: PUNE, Maharashtra, India
 
-## [Embedder](https://embedder.com/company)
+## [Faraday](https://faradaycompute.com/use-cases/quoting)
 
-- added: Product FAQ
-- added: FAQ
-- added: Hardware fit, verified workflows, data handling, and deployment.
-- added: 01 Coverage
-- added: Which platforms and peripherals does Embedder support?
-- added: Embedder's catalog covers 600+ platforms from 14 chip and board manufacturers, including ST, NXP, Nordic, Espressif, Infineon, Renesas, Silicon Labs, TI, Microchip, XMOS, and Raspberry Pi, plus 5,800+
-- added: Which debug probes and lab instruments does Embedder work with?
-- added: Embedder flashes and debugs through SEGGER J-Link and J-Trace, ST-Link and CMSIS-DAP via OpenOCD, probe-rs, TI XDS, and XMOS xTAG. On the bench it drives Saleae and DSLogic logic analyzers, Digilent W
-- added: Which EDA tools do you support for schematics?
-- added: Altium, KiCad, Eagle, PADS, Xpedition, and EasyEDA, plus EDIF exports. Embedder parses native design files into board context, including components, pins, nets, buses, device addresses, and power topo
-- added: What languages and RTOSes does Embedder work with?
-- added: C, C++, and Rust across bare-metal and RTOS projects. Embedder works with the stacks already in your repository, including FreeRTOS, Zephyr, nRF Connect SDK, ESP-IDF, STM32Cube, MCUXpresso, Renesas FS
-- added: Does Embedder support embedded Linux?
-- added: Yes. Embedder works on embedded Linux as well as microcontroller firmware. Linux targets such as Raspberry Pi computers and Compute Modules use the same repository, documentation, toolchain, and hardw
-- added: 02 Workflow
-
-## [Employment Hero](https://employmenthero.com/jobs/)
-
-- added: Bullo River Station – Sous Chef
-- added: The Landsmith Collection Pty Ltd
-- added: Timber Creek, Northern Territory 0852
-- added: Bullo Tourism
-- added: Posted 4 hours ago
-- added: Personal Advisor
-- added: Veritas House
-- added: Orange, New South Wales 2800
-- added: • A$47 – A$50
-- added: Disability Support Worker – Complex Support Needs Respite (Cranbourne)
-- added: Sunrise 2 Sunrise
-- added: Cranbourne, Victoria 3977
-- added: • A$47 – A$51
-- added: Posted 6 hours ago
-- added: Disability Support Worker – Complex Needs SIL (Donnybrook)
-- removed: Social Media & Marketing Coordinator at Peekaboo Erina
-- removed: Peekaboo Erina
-- removed: Erina Fair, New South Wales 2250
-- removed: • A$70k – A$80k
-- removed: Posted 9 hours ago
-
-## [Enjamb Labs](https://www.enjamb.ai/careers)
-
-- added: Intelligence is earned.
-- added: If you've worked next to someone with decades in their field, you know this. They look at a design and know it's wrong before they can tell you why. They learned it over years of getting it wrong.
-- added: General models haven't learned it yet. Their work impresses anyone outside the field, but an expert spots the mistakes in minutes. To that expert, a model with supposedly endless knowledge looks like 
-- added: Code was the first field where experts truly marveled at what models could do, and it makes sense that it came first. Code is the basic primitive of computers, the models themselves are made of it, an
-- added: In almost every other field, the experience of how people mastered their craft sits locked inside the companies where they did the work, lost to old hardware and external drives, in formats nobody rea
-- added: We're Enjamb, and we build Earned Intelligence.
-- added: We recover the expert work buried inside companies and use it to give foundation models the intuition they can't learn from the open web. For companies, we train custom models on your own history and 
-- added: We're already seeing this with 13 AI and robotics labs. Together we are building the data, environments and evals that give their models intuition for the physical world.
-- added: Our founders are published researchers. Rayan built ML models for cancer genomics and spatial transcriptomics that outperformed state-of-the-art methods, working with data that sits locked inside clin
-- added: We're backed by Y Combinator.
-- added: If our thesis resonates with you, we'd love to hear from you .
-- added: — Rayan, Maadhav, and the Enjamb team
-- removed: Careers
-- removed: We’re Changing How Medicine Is Made
-- removed: Explore Roles
-- removed: Our values are what we owe the teams who trust us with their science, and what we expect from each other.
-- removed: Agency
+- added: Platform
+- added: Use cases
+- added: Solutions
+- added: Company
+- added: Research
 
 ## [Forem](https://dev.to/t/career)
 
-- added: Coding agents won't replace you, but they're changing what "senior" means
-- added: Avoids rubber-stamping 2,000 lines of agent output
-- added: amananandrai
-- added: 6 reactions
-- added: 2 comments
-- added: Readers love the cozy café narrative framing
-- added: 71 reactions
-- added: 30 comments
-- added: I backtested "important questions" on 23 real exam papers. Topic prediction barely beat random.
-- added: Rajan Nishad
-- added: # javascript
-- added: # education
-- added: His Green Squares
-- added: AheadKit
-- added: I built AI agents that apply to jobs. The forms were harder than the AI.
-- removed: 37 reactions
-- removed: 8 comments
-- removed: Your Team Ships Faster Every Quarter and Understands Its Own Code Less. Nobody's Measuring That.
-- removed: Debashish Ghosal
-- removed: # productivity
+- added: The Third Cup: Change Never Sleeps
+- added: Connecting ancient philosophy to modern IT systems
+- added: Nov 23
+- added: 49 reactions
+- added: 20 comments
+- added: A challenge won against myself (and the Chrome Web Store)
+- added: A resilient pivot from a Play Store setback
+- added: Antonio
+- added: for Necoz
+- added: # necoz
+- added: # opensource
+- added: 23 reactions
+- added: 4 comments
+- added: 1 min read
+- added: Should poorer countries ride the AI wave or wait it out? I think both answers are wrong.
+- removed: Coding agents won't replace you, but they're changing what "senior" means
+- removed: Avoids rubber-stamping 2,000 lines of agent output
+- removed: amananandrai
+- removed: 6 reactions
+- removed: The Third Cup: Five Elements, One IT Company
 
 ## [Jcode](https://jcode.sh/careers)
 
-- added: 2026-11-22 · today
-- added: Changes since v1.0.3
-- added: commit Wait for network recovery and auto-resume active turns after disconnects
-- added: gemini native deferred tool loading via Interactions tool retrieval
-- added: tui show late MCP tool announcement as a one-line summary
-- added: commit kv cache: learn implicit-cache tail gap, flag read regressions and outlier gaps
-- added: antigravity support reasoning effort switching via sibling models
-- added: failover fix automatic account routing for Antigravity quota 429s
-- added: mcp announce late MCP tools by name and short description; fetch schemas via mcp search
-- added: release keep Discord updates and release notes complete across bundled changes
-- added: release fix draft baselines, auto-multipart Discord posts, and in-place refresh
-- added: release strip dangling unclosed backticks in legacy self-dev bullets
-- added: gemini stream thought summaries live over SSE for Gemini and Antigravity
-- added: update add one-command prerelease switching and live reload across installer, CLI, and TUI
-- added: feat paste any API key with auto-detection, validation, and masking
-- removed: 2026-11-19 · 3d ago
-- removed: Changes since v1.0.1
-- removed: docs attribute allocator discrepancy with matched cache controls
-- removed: commit Avoid discarded provider-native displays during call input lookup
-- removed: commit Avoid cloning rendered tool input solely for image context
+- added: v1.1.1
+- added: 2026-11-23 · today
+- added: Release notes pending. Automatically listed from commit messages.
+- added: commit Add contextual subscription nudges and one-step browser login on /subscribe and /cloud
+- added: fix omit redundant effort suffix on effort-named Gemini models
+- added: commit Publish Linux self-dev builds as real semver releases with paginated platform fallback
+- added: commit Double token plan inference credits from 2x to 4x
+- added: commit Download latest verified justrust release binary in hosted CI
+- added: 2026-11-22 · 1d ago
+- removed: Unreleased
+- removed: 2026-11-22 · today
+- removed: Changes since v1.0.3
+- removed: Automatically listed from commit messages.
 
-## [Swadesi Way](https://swadesiway.com/explore)
+## [Luxoft](https://career.luxoft.com/)
 
-- added: Showing 1–12 of 201 results
-- added: Organic Red Dragon Fruit (2-3 pcs/kg)
-- added: Price range: ₹180.00 through ₹1,050.00
-- added: 1 pc (300-400g)
-- added: Organic Red Dragon Fruit (2-3 pcs/kg) quantity
-- added: Organic Tomato
-- added: Price range: ₹70.00 through ₹130.00
-- added: Organic Tomato quantity
-- added: Organic Ginger
-- added: Organic Ginger quantity
-- added: Organic Mirch/Green Chilli
-- added: ₹ 20.00
-- added: Organic Mirch/Green Chilli quantity
-- added: Organic Desi Coriander (Dhaniya)
-- added: ₹ 30.00
-- removed: Showing 1–12 of 199 results
-- removed: Organic Bhindi/Okra
-- removed: Organic Bhindi/Okra quantity
-- removed: Organic Cauliflower (Gobhi)
-- removed: Organic Cauliflower (Gobhi) quantity
+- added: Junior Manual QA
+- added: Remote Mexico, Mexico
+- added: Manual Testing
+- added: Senior Test Engineer- LoanIQ
+- added: Remote India, India
+- added: Loan IQ
+- removed: Murex Specialist
+- removed: Toronto, Canada
+- removed: Murex Others
+- removed: Sao Paulo, Brazil
+- removed: Santiago, Chile
 
-## [Upworthy](https://www.upworthy.com/jobs-that-pay-well-people-dont-realize/)
+## [ownCloud](https://owncloud.com/career/)
 
-- added: Nature
-- added: 8 of the most stunning photos from National Geographic’s Pictures of the Year 2026 issue
-- added: Family
-- added: Her baby supposedly died in a house fire. Six years later, she spotted her at a birthday party.
-- added: Pop Culture
-- added: The ‘Frasier’ theme song sounds like a dinner order. Its composer was given a problem to solve.
-- added: She photographed what people touched in a day. The objects tell surprisingly personal stories.
-- added: One of the most familiar voices on ‘Gimme Shelter’ belonged to a singer called out of bed
-- added: Science
-- added: Psychologists explain 6 traits of people who have kept friends for 20 years
-- added: Florence Pugh posted a fantastic reality check about aging after plastic surgery rumors
-- added: Heather Wake
-- added: Rob Lowe gets intimate about his childhood, Gen X nostalgia, and second chances
-- added: Education
-- added: English professor explains why happy, successful people have one thing in common: true literacy
-- removed: Communication
-- removed: If you struggle with changing people’s minds, it probably says something positive about you
-- removed: A drum sound on ‘Stayin’ Alive’ repeats for a reason you can hear in another Bee Gees hit
-- removed: The Beatles threw the Monkees a party. Micky Dolenz hid the guests in a song.
-- removed: A crash closed the highway an hour before their wedding. An elk hunter saved the day with his dirt bike.
+- added: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1795384192 uolcn 1795384192 wo@kr 1795384192 
+- added: Please send us your application via e-mail to moc.d 1795384192 uolcn 1795384192 wo@kr 1795384192 ow 1795384192 – We will get back to you as soon as possible.
+- removed: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1795294377 uolcn 1795294377 wo@kr 1795294377 
+- removed: Please send us your application via e-mail to moc.d 1795294377 uolcn 1795294377 wo@kr 1795294377 ow 1795294377 – We will get back to you as soon as possible.
+
+## [Pine Park Health](https://www.pineparkhealth.com/careers)
+
+- added: Already a patient? Log in to your patient portal
+- added: Changing healthcare for our parents, grandparents, and ultimately, ourselves
+- added: Our values
+- added: “The opportunity to support seniors during some of the most vulnerable moments of their lives is a responsibility I hold with great respect. Being able to offer compassionate, dependable care has been
+- added: “Pine Park Health is a strong organization that genuinely values its culture. I enjoy working alongside thoughtful, mission-driven colleagues who care deeply about supporting residents and their healt
+- removed: Changing healthcare for our parents, grandparents,
+- removed: and ultimately, ourselves
+- removed: What it means to be a Pine Parker
+- removed: Our Values
+- removed: “The opportunity to support seniors during some of the most vulnerable moments of their lives is a responsibility I hold with great respect. Being able to offer compassionate, dependable care has been
+
+## [ProvenMetal](https://provenmetal.com/careers)
+
+- added: Founding Manufacturing Engineer
+- added: Build the hardware behind automated electronics manufacturing.
+- added: Founding Engineer, Software & Operations
+- added: Run orders, win customers, and build the software that helps us scale.
+- removed: Founding Engineer
+- removed: Operations
+- removed: Keep customers, suppliers, and manufacturing moving.
+- removed: $100K–$140K
+- removed: 0.5–1.5%
+
+## [Roark](https://roark.ai/careers)
+
+- added: Help voice AI keep its promises.
+- added: See open roles About the team
+- added: How we work.
+- added: Five people, no layers. You own a surface end-to-end, from the schema to the pixel to the customer call where you find out if it worked.
+- added: We sweat the pixel and the p95 alike. The product is opinionated and the codebase is too: TypeScript everywhere, one way to do things, no drive-by abstractions.
+- added: Each role has its own page. Open it for the full brief, or share the link directly.
+- added: Our first go-to-market hire: a full-cycle closer who books their own demos, runs them for a technical buyer, and closes.
+- added: Founding Software Engineer, Product
+- added: Own the product surfaces our customers live in, schema to pixel, and the customer call where you find out if it worked.
+- added: Founding Software Engineer, AI & Voice Systems
+- added: Don't fit any of these boxes?
+- added: If you're convinced you belong here, tell us why. We read everything, and we reply fast. Learn more about the team .
+- added: careers@roark.ai
+- added: See what you'd be building.
+- added: Try Roark on your own agent, and get $50 in credit with a work email.
+- removed: Careers
+- removed: Help voice AI keep
+- removed: its promises.
+- removed: How we work
+- removed: Five people, no layers. You own a surface end-to-end — from the schema to the pixel to the customer call where you find out if it worked.
+
+## [Saleor](https://saleor.io/)
+
+- added: 520,778
+- added: 984,226
+- added: 6 days ago 3.23.50
+- added: 20 days ago 3.22.77
+- added: 3.23.50 6 days ago
+- added: 3.22.77 20 days ago
+- removed: 899,539
+- removed: 934,983
+- removed: 5 days ago 3.23.50
+- removed: 19 days ago 3.22.77
+- removed: 3.23.50 5 days ago
+
+## [SeaweedFS](https://seaweedfs.com/careers)
+
+- added: Serve S3 objects, Iceberg tables, vector search, and POSIX workloads from the same engine. Restore files after malware damage, rebuild redundancy sooner after a disk failure, and fit more data on the 
+- added: Recover files after malware damage
+- added: Set a retention window before an incident. If malware deletes or overwrites files, restore the affected paths to a time before the damage.
+- added: Restore deleted files
+- added: Preview a point-in-time restore
+- added: Fit more data on each disk
+- added: Choose how much capacity to reserve for disk failures, compress small objects, and shrink metadata for cold directories.
+- added: Faster recovery after disk failure
+- added: Start eligible repairs while workers balance other volumes. A volume down to its last copy can regain protection sooner.
+- added: Concurrent job scheduling
+- added: Rebuild missing shards
+- added: Monitor cluster health
+- removed: Serve S3 objects, Iceberg tables, vector search, and POSIX workloads from the same engine. Add recovery, storage efficiency, and operational tools to the open-source core.
+- removed: Recover with confidence
+- removed: Undo deletes and overwrites, and repair damaged data when hardware fails.
+- removed: Data recovery
+- removed: Point-in-time recovery
+
+## [SerpApi](https://serpapi.com/careers)
+
+- added: Developer Advocate (Spanish)
+- added: We are looking for a Developer Advocate for the Spanish-speaking market (e.g., Spain, Mexico, Argentina, etc.). In this role, you will serve as a bridge between our products and the Spanish-speaking d
+- added: Developer Advocate (Portuguese)
+- added: We are looking for a Developer Advocate for the Portuguese-speaking market (e.g., Brazil, Portugal, etc.). In this role, you will serve as a bridge between our products and the Portuguese-speaking dev
+
+## [Skyhook](https://www.skyhook.io/careers)
+
+- added: Build Radar and
+- added: Skyhook Platform
+- added: We are a small team building two Kubernetes products: Radar , an open-source Kubernetes UI and MCP server, and Skyhook Platform , an internal developer platform for teams without a platform team.
+- added: Work on Radar
+- added: Open source under Apache 2.0, built in Go and TypeScript in a public GitHub repo
+- added: A release every week, with issues and pull requests from the community
+- added: An MCP server and AI investigations that agents use on live clusters
+- added: See the code on GitHub
+- added: Work on Skyhook Platform
+- added: Builds, deployments and rollouts that run in customers' own clouds
+- added: GitOps with Argo CD, preview environments and auto-scaling across AWS, GCP, Azure and OCI
+- added: Working directly with the teams who ship on it every day
+- added: Read about Skyhook Platform
+- added: Meaningful ownership in a small company building two Kubernetes products.
+- removed: Build the future of
+- removed: cloud deployment
+- removed: Join a team of passionate engineers, designers, and operators working to make cloud infrastructure simple, fast, and accessible for every developer.
+- removed: Meaningful ownership in a high-growth company shaping the future of DevOps.
+
+## [Taan.ai](https://taan.ai/careers)
+
+- added: The most precise foundation music models prompted with any input.
+- added: A fundamentally different generation process. Precise control over what plays, when it plays, and how it changes, from any input.
+- added: Try v1-preview Build with the API
+- added: Control isn’t a scale problem.
+- added: It’s a modeling problem.
+- added: Today’s frontier music models generate a track in one black-box pass, from a prompt straight to audio. Great for catchy songs. Hard to direct. Ask for a beat drop at exactly 0:12 and most of the time 
+- added: A selected four-second melody phrase is rewritten while the bass and drums stay unchanged and the playhead continues.
+- added: Multimodal
+- added: Input.
+- added: 03 / WHAT THIS UNLOCKS
+- added: Your direction.
+- added: Down to the second.
+- added: Start with a hum, exact notes, MIDI, an image, a video or a script. Tell Taan what happens and when. Change one part while the music keeps playing, without regenerating from scratch.
+- added: Any input becomes a plan. A beat drops at exactly twelve seconds. The melody changes independently while the bass and drums continue.
+- added: ~1/1000 the data & compute of frontier models 100% licensed training data
+- removed: Create music fit to your video.
+- removed: Upload your video. Taan creates an original soundtrack synced to timing and mood.
+- removed: Get Started Use MCP
+- removed: The video is the prompt.
+- removed: Taan watches it, identifies the timing of cuts and mood, and creates a background score for your video in one shot.
+
+## [Unsiloed AI](https://www.unsiloed.ai/careers)
+
+- added: ▟▟░▒▒▞█▙ ▞▞░█▞▚ ▙░▚▟▚▒▚▙
+- added: ▞█░▒▟▒▞▙█ ▟█▟ ▞░▟▞▓▞
+- added: █▙▚▒▟▞▟ ▟▟▞░▙▟▚▓▙▞▚▒▞
+- added: ░█▒▟▞▒▓ ▚
+- added: ▞▞▞█▒▟ ▚▟█▓ ▞▞▒▞ █▒▚ ▓█▞ ▞▙▟▓ ░▙▞▙▙▞▚▙
+- added: █▙▙▚▚░ ▙█░░ ▟▟█▙ ▒░▓ ▚▓▓ █▓░▒ ▓▟░█▒░█▒
+- added: ▒▟▙▚▟▞ ▒▟▒▞ ▚█▓░ ▓▓█ ▚▓█ ▓▙▚█ █▟▟▓▙█░
+- added: ▒░▓▒▚▞ ▚▟██ ▓▚▟▞ ▒▞▚ ██▙ ▚░▟▒ ▓░▒▚▞▒▓
+- added: ▚▟▚▞▙█ ▙▒▓█ ▒▓▓█ ▙▟█ ▓▒▞ █▟▒▚ ░▟▚▓█▓▚▒
+- added: ▒█▙▒██ ▞▙▞▞ ▙▒█▞ ▚▟▟ ▒▚▙ ░▙▒▞ ▒▚▙█▟▓▚▓
+- added: █▙▟▟▟▚ ▚█▞▚ ▓▓▟▒ ░██ ▒▒▓ ▞▟▒▚ ▚▒▓░▙
+- added: ▚██▞█░▓░▒▚ ▚
+- added: ▚░▟▟▚▙░ ▚▓▒▒▒▚ ▙▞▚▓░▙ ▒▟░█▟
+- added: █░▚▟░▚ ▒▓▙▞█░ ▒▟▞█
+- removed: ▓▚▙▞▚▟▞▒ ▙▞█░▞▙ ▙▚▙██░░▙
+- removed: ▞▞▒▓░▞▟█▙ ▓▞░ ▒▙░▒▚░
+- removed: ▟▚▚▙▙▙▒ ▞▚░▞▚▟░▞▓█▟░█
+- removed: █▒▒▓█▚▚ ▙
+- removed: ▞▞░▙▙▞ ▟░▞▚ ▒▞▞░ ▞▟▞ ▓▞▓ ▟██▟ ▓▚▒▒▒▟▟▒
 
 ## [Zidisha](https://www.zidisha.org/careers.html)
 
-- added: 309,690
-- added: $21,490,447
-- added: 464,182
-- added: 54 % raised · $17 to go
-- added: Fund my catering group
-- added: Kitui Town, Kenya
-- added: By Shadrack Restaurant
-- removed: 309,688
-- removed: $21,490,223
-- removed: 464,166
-- removed: 4 % raised · $23 to go
-- removed: Cyber cafe and and phone accessories
+- added: 28 % raised · $168 to go
+- added: 11 % raised · $553 to go
+- added: 13 % raised · $33 to go
+- added: Auto shop
+- added: By Beauty Transportation
+- removed: 22 % raised · $182 to go
+- removed: 10 % raised · $558 to go
+- removed: 54 % raised · $17 to go
+- removed: Fund my catering group
+- removed: Kitui Town, Kenya
 
 ## [Asha Health](https://careers.asha.health/) (minor change)
 
-- added: {"message":"I am alive","env":"production","timestamp":"2026-11-22T20:31:54.633Z"}
-- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-22T08:52:08.446Z"}
+- added: {"message":"I am alive","env":"production","timestamp":"2026-11-23T09:48:53.320Z"}
+- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-22T20:31:54.633Z"}
 
 ## [Bacula Systems](https://www.baculasystems.com/company/careers/) (minor change)
 
-- added: virtual machine backup software
-- added: backup active directory
-- added: ransomware backup strategy
-- removed: offsite backup
-- removed: corporate data backup
-- removed: windows server backup solutions
+- added: rhev backup
+- added: azure backup solutions
+- added: immutable backup
+- removed: virtual machine backup software
+- removed: backup active directory
+- removed: ransomware backup strategy
 
 ## [Casco](https://casco.com/careers) (minor change)
 
-- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-134624
-- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-134623
+- added: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-134883
+- removed: Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-134624
+
+## [ContraForce](https://www.contraforce.com/careers) (minor change)
+
+- added: Reviewed by ContraForce team · Updated August 12, 2026
+- added: Last updated: August 12, 2026
+- removed: Reviewed by ContraForce team · Last reviewed August 12, 2026
+- removed: Last reviewed: August 12, 2026
 
 ## [DappRadar](https://dappradar.com/careers) (minor change)
 
-- added: REF $0.0768 +191.00% AKE $0.0₂278 -46.33% VELVET $0.071 +12.66% RAIN $0.0₂323 -11.88% BTW $0.7344 +9.15% VVV $26.21 +8.67% ETHFI $0.5008 +7.79% CPOOL $0.0248 +7.05% H $0.0118 +6.83% PYTH $0.0515 +6.73
-- removed: A7A5 $0.0121 +195.28% REF $0.0768 +191.00% AKE $0.0₂279 -45.43% SKYAI $0.0377 +38.28% VVV $25.37 +17.16% ETHFI $0.4851 +14.02% PEARL $1.97 +13.16% NIGHT $0.0444 +11.25% DASH $34.85 +9.76% RENDER $1.34
+- added: REF $0.0768 +191.00% A7A5 $0.0₂177 -85.37% H $0.0133 +18.69% PEARL $2.33 +17.70% BTW $0.6455 -14.15% JUP $0.2439 +12.50% SKY $0.039 -12.17% NIGHT $0.049 +9.45% QNT $152.52 +9.18% VELVET $0.0754 +8.26%
+- removed: REF $0.0768 +191.00% AKE $0.0₂278 -46.33% VELVET $0.071 +12.66% RAIN $0.0₂323 -11.88% BTW $0.7344 +9.15% VVV $26.21 +8.67% ETHFI $0.5008 +7.79% CPOOL $0.0248 +7.05% H $0.0118 +6.83% PYTH $0.0515 +6.73
+
+## [DemandSphere](https://www.demandsphere.com/careers/) (minor change)
+
+- added: Track Your Brand Across AI Engines
+- added: Documentation
+- removed: Track Your Brand Across LLMs
+
+## [Entocycle](https://entocycle.com/careers) (minor change)
+
+- removed: Be Responsible
+- removed: Take responsibility and try to leave things better than when you find them – whether that’s the planet, our office environment or a conversation with a teammate.
+- removed: Listen More
+- removed: Don’t react too quickly or make assumptions. Listen first, then respond – whether to teammates or customers. Be open with one another and honest with feedback.
+- removed: Find A Better Way
 
 ## [Evrone](https://evrone.com/hiring) (minor change)
 
-- added: +49 176 24514399
-- added: Kemperplatz 1, 10785 Berlin
-- removed: +1 415 425 2526
-- removed: 44 Tehama St, San Francisco, CA 94105
+- added: +1 415 425 2526
+- added: 44 Tehama St, San Francisco, CA 94105
+- removed: +49 176 24514399
+- removed: Kemperplatz 1, 10785 Berlin
+
+## [Frontier Computing](https://frontier.site/careers/mts-bio/) (minor change)
+
+- added: salary: £90,000 to £250,000 (approx. US$120,000 to US$334,000), plus $0.5–10M in equity
+- added: Compensation. £90,000 to £250,000 (approximately US$120,000 to US$334,000 at current rates) depending on experience, plus $0.5–10M in equity , with the vesting schedule to be agreed at offer. The rang
+- removed: salary: £90,000 to £250,000 (approx. US$120,000 to US$334,000), plus $1–10M in equity
+- removed: Compensation. £90,000 to £250,000 (approximately US$120,000 to US$334,000 at current rates) depending on experience, plus $1–10M in equity , with the vesting schedule to be agreed at offer. The range 
+
+## [Gerencianet](https://sejaefi.gupy.io/) (minor change)
+
+- added: 2 jobs found for 0 filters applied
+- removed: 3 jobs found for 0 filters applied
+- removed: Job for Full-time employee: Pessoa Administradora de Banco de Dados Sênior/Especialista (DBA)
+- removed: Full-time employee
+
+## [InfraCloud](https://www.improving.com/careers/) (minor change)
+
+- added: Agile
+- added: How to Estimate Agile Work Items When AI Writes the Code
+- added: When AI agents write the code, story points lose meaning. Learn to estimate work by prompting confidence and verification complexity in sprint planning.
+- removed: Cloud
+- removed: Least-Privilege Metrics: Securing PromQL in Multi-Tenant Clusters
+- removed: Discover how to improve Prometheus security in multi-tenant environments and build safer, and more controlled access to monitoring data.
 
 ## [Jinba](https://jinba.io/careers) (minor change)
 
-- added: 39°F
-- added: 54°F
-- removed: 52°F
-- removed: 50°F
+- added: 50°F
+- added: 46°F
+- removed: 39°F
+- removed: 54°F
 
-## [Langfuse](https://langfuse.com/careers) (minor change)
+## [Material Depot](https://materialdepot.com/careers) (minor change)
 
-- added: ClickHouse backs us
-- added: ClickHouse gives us a global sales team that sells Langfuse and a much larger audience for our launches. The engineers who build the database are one message away. We set our own roadmap.
-- removed: ClickHouse backs us and stays out of the way
-- removed: We set our own roadmap. ClickHouse gives us a global sales team that sells Langfuse and a much larger audience for our launches. The engineers who build the database are one message away.
+- added: Open Positions
+- added: The company is sum of us. We are intertwined and dependent on each other as we build a great team and company. So it important not only to feel high responsibility for own’s piece of work but also hav
+- added: Ideas are fundamental to who we are. We encourage them. We love them. But ideas alone don’t mean much. It takes both ideas AND execution to make things happen. Great ideas get you to the 50-yard line;
+- removed: View Open Positions
+- removed: We offer an extensive range of high-quality products, from floorings to wall decor, sourced from trusted manufacturers globally. With a user-friendly interface, competitive pricing, and reliable deliv
+- removed: The company is sum of us. We are intertwined and dependent on each other as we build a great team and company. So it important not only to feel high responsibility for own's piece of work but also hav
+- removed: Ideas are fundamental to who we are. We encourage them. We love them. But ideas alone don't mean much. It takes both ideas AND execution to make things happen. Great ideas get you to the 50-yard line;
+- removed: 4 Open Positions
 
-## [Luca IQ](https://lucaiq.com/careers/) (minor change)
+## [Odoo](https://www.odoo.com/jobs) (minor change)
 
-- added: 0 positions
-- added: No open roles right now. We're always glad to meet sharp people, though.
-- added: Write to us anyway
-- removed: 2 positions
-- removed: Founding Tax Lead (CPA or EA Required)
-- removed: Full-time · Remote (US) or Chicago, IL
-- removed: Bring years of hands-on tax preparation and review experience to help shape the tax platform professionals should have had years ago.
-- removed: Tax Full-time Remote or Chicago
+- added: United Arab Emirates 12
+- added: Indonesia 15
+- removed: United Arab Emirates 13
+- removed: Indonesia 14
 
-## [Netdata](https://www.netdata.cloud/join-us/) (minor change)
+## [Ollie Order](https://ollieorder.com/) (minor change)
 
-- added: 81.4k + stars and growing daily
-- added: 81.4k + stars. Full ML, AI, and automation—GPLv3+, not premium add-ons.
-- added: 81.4k + GitHub stars
-- added: Open source ( 81.4k + stars)
-- removed: 80k+ stars and growing daily
-- removed: 80k+ stars. Full ML, AI, and automation—GPLv3+, not premium add-ons.
-- removed: 80,000+ GitHub stars
-- removed: Open source (80k+ stars)
+- added: Most reviewed craft beverage management software and ERP as of November 23, 2026
+- removed: Most reviewed craft beverage management software and ERP as of November 22, 2026
 
-## [Pine Park Health](https://www.pineparkhealth.com/careers) (minor change)
+## [Plivo](https://www.plivo.com/jobs/) (minor change)
 
-- removed: “Pine Park Health is an amazing organization with a great company culture. Working on the growth team, I love helping people find high quality, person centered care. I’m continually inspired by the co
-- removed: Gary Lazonne
-- removed: Enrollment Director
-- removed: “Working at Pine Park Health brings me so much purpose as a provider. Being present in the community and having more time with each of our patients also allows me to deliver compassionate care with co
-- removed: Lyz Villa
+- added: ~/plivo 09:39:38
+- removed: ~/plivo 11:31:52
 
-## [Saleor](https://saleor.io/) (minor change)
+## [Signatur Biosciences](https://www.signatur.bio/careers) (minor change)
 
-- added: 899,539
-- added: 934,983
-- removed: 462,817
-- removed: 909,365
+- removed: If you’re excited to work with us, but don’t see an opening that quite matches your skill set, get in touch! Send your CV and a little about yourself to hiring@signatur.bio .
+- removed: While you’re at it, follow us on Twitter and LinkedIn for updates.
 
-## [Skill-lync](https://skill-lync.com/recent-placements) (minor change)
+## [Swadesi Way](https://swadesiway.com/explore) (minor change)
 
-- added: Updated 23 Nov 2026
-- removed: Updated 22 Nov 2026
+- added: Bilona Desi Rathi Cow Ghee and Jaggery
+- added: Price range: ₹901.00 through ₹1,690.00
+- added: Uncategorized
+- removed: Organic Desi Amla
+- removed: Organic Desi Amla quantity
+- removed: Desi Moringa Fresh Leaves
+- removed: Desi Moringa Fresh Leaves quantity
+- removed: Organic Karela/Bitter Gourd
 
 ## [The Centre for Effective Altruism](https://www.effectivealtruism.org/careers) (minor change)
 
-- added: 35 subscribed today
-- removed: 22 subscribed today
+- added: 45 subscribed today
+- removed: 35 subscribed today
+
+## [The Essential](https://theessential.com/pages/join) (minor change)
+
+- added: Consoles & Sideboards 23% Off
+- removed: Bookshelves 25% Off
 
 ## [VideoLingo](https://videolingo.io/careers.html) (minor change)
 
-- added: 19354 Stars
-- removed: 19348 Stars
+- added: 19358 Stars
+- removed: 19354 Stars
 
-## [Wazuh](https://wazuh.com/careers/) (minor change)
+## [Vivo](https://vivo.gupy.io/) (minor change)
 
-- added: CTI Team
-- removed: Content Team
+- added: 70 jobs found for 0 filters applied
+- removed: 73 jobs found for 0 filters applied
 
 ## [WikiHow](https://www.wikihow.com/wikiHow:Jobs) (minor change)
 
-- added: 226
-- removed: 184
+- added: 292
+- removed: 226
 
 ## Pages failing for 3+ checks
 
@@ -327,6 +429,7 @@ Checked 2026-11-22 20:33 UTC: 1757 pages, 25 changed, 9 look like new postings.
 - aren.com: no readable text (JavaScript page?)
 - candoriq.com: no readable text (JavaScript page?)
 - capgemini.com: no readable text (JavaScript page?)
+- carmatec.com: failed (redirects)
 - cobbery.com: failed (HTTP 404)
 - dreamcraft.com: no readable text (JavaScript page?)
 - ekholabs.com: failed (HTTP 404)
@@ -574,7 +677,6 @@ Checked 2026-11-22 20:33 UTC: 1757 pages, 25 changed, 9 look like new postings.
 - sagaland.ai: no readable text (JavaScript page?)
 - salarybook.co.in: no readable text (JavaScript page?)
 - sandra-ai.com: no readable text (JavaScript page?)
-- sanifu.ai: no readable text (JavaScript page?)
 - saudara.ai: no readable text (JavaScript page?)
 - schemeflow.com: no readable text (JavaScript page?)
 - bespokesoftwaredevelopment.com: no readable text (JavaScript page?)
@@ -597,7 +699,7 @@ Checked 2026-11-22 20:33 UTC: 1757 pages, 25 changed, 9 look like new postings.
 - stormy.ai: no readable text (JavaScript page?)
 - strongcompute.com: no readable text (JavaScript page?)
 - studystream.live: failed (HTTP 404)
-- trysummon.com: failed (robots)
+- trysummon.com: no readable text (JavaScript page?)
 - sunlightapi.com: no readable text (JavaScript page?)
 - superdesign.dev: no readable text (JavaScript page?)
 - superlog.sh: failed (HTTP 404)

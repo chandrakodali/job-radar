@@ -6,81 +6,90 @@ Related tags include #resume and #portfolio as resources to enhance your #career
 Older #career posts
 … 75
 … 100
-Coding agents won't replace you, but they're changing what "senior" means
-Avoids rubber-stamping 2,000 lines of agent output
-amananandrai
-Nov 22
-# discuss
-# ai
-# career
-# programming
-6 reactions
-2 comments
-3 min read
-The Third Cup: Five Elements, One IT Company
-Readers love the cozy café narrative framing
+The Third Cup: Change Never Sleeps
+Connecting ancient philosophy to modern IT systems
 xulingfeng
 for The Third Cup
+Nov 23
+# discuss
+# career
+# programming
 # management
-71 reactions
-30 comments
-7 min read
-I backtested "important questions" on 23 real exam papers. Topic prediction barely beat random.
-Rajan Nishad
-# datascience
-# javascript
-# education
-Add Comment
-His Green Squares
-AheadKit
-# beginners
-1 reaction
-I built AI agents that apply to jobs. The forms were harder than the AI.
-Hirescoot
-# showdev
-16 reactions
-9 comments
-Explain it in two sentences or don't build it yet
-Pratyush Shivam
-# engineering
-# leadership
-# softwareengineering
-2 min read
-An AI subscription won't make you senior (here's what will)
-JavaScript Mastery
-# webdev
-5 min read
-Your first 90 days as a team lead: listen, win small, then lead
-Sascha Mirow-Stanitzok
-1 comment
-4 min read
-Marketing jobs ask for AI skills more than IT jobs do
-MobiusEngine Jobs
-# jobs
-Testing an ATS-friendly resume template in LibreOffice Writer: tab stops, styles and the PDF text layer
-Michael Wilson
-# libreoffice
-# resume
-# pdf
-Your dashboard shows everything except who is about to quit. Don't build a model to guess it
-Juan Manuel Garrido
-# sql
-# privacy
-A music site crashed, the data was gone, and this is how it came back
-Satnam
-# devops
-# database
-AI at school: don't ban the tool, teach the checking
-Bram Lesage
+49 reactions
+20 comments
 6 min read
-I built a game where you pretend to be the AI that rejects resumes. It made me angrier about hiring.
-bgrvfcds
-# gamedev
-Moving from ML/quant work into robotics: a concrete first week, measured
-Quill Datafix
-# robotics
-# mujoco
-# reinforcementlearning
+A challenge won against myself (and the Chrome Web Store)
+A resilient pivot from a Play Store setback
+Antonio
+for Necoz
+Nov 22
+# necoz
+# opensource
+# webdev
+23 reactions
+4 comments
+1 min read
+Should poorer countries ride the AI wave or wait it out? I think both answers are wrong.
+Saifuddin Ahmed
+# ai
+# education
+1 reaction
+Add Comment
+4 min read
+How to Become a Forward Deployed Engineer: 5 Steps
+Szymon Paluch
+# softwareengineering
+# agents
+2 comments
+11 min read
+Writing Technical Content When Every Publisher Runs an AI Detector
+aaannvv
+# writing
+3 min read
+Why Big Tech Never Updates Legacy UIs: The Enterprise Engineering Rule Even Google Obeys
+Totolis IT
+# watercooler
+# legacy
+Translating Internal Tool Names Into Skills Recruiters Recognize
+Muhammad Ali Mughal
+# resume
+# jobsearch
+# beginners
+7 min read
+The Developer's Field Guide to Tech Interview Prep (Without Burning Out)"
+Mercy Moraa
+# interview
+8 min read
+Promoted over your teammates? Four talks for your first two weeks
+Sascha Mirow-Stanitzok
+# leadership
+# StageReady: A Private Practice App Powered by Presage SmartSpectra
+Hassan Ali Mohamed(dhangad)
+# productivity
+# softwaredevelopment
+From PUBG Hackers to AI Researcher: My Actual Origin Story - Shivnath Tathe
+Shivnath Tathe
+# cybersecurity
+# python
+Hourly vs retainer: decide who carries the risk when the work grows
+Mo Arfaj
+# freelancing
+1 comment
+5 min read
+Part 4: Tor, the Dark Web & Law Enforcement: 5 Myths Debunked for Security Researchers
+Pavan Kumar Sadashiv
+# security
+# privacy
+"Remote" isn't a location: parsing LinkedIn job cards with Intl.DisplayNames and a few regexes
+Pavel Bezzabotnov
+# javascript
+# chrome
+2 min read
+What US SailPoint IdentityIQ job posts asked for in November 2026
+IAM Careers
+# sailpoint
+# iam
+# java
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Remembering Steven Schrembeck
 Frontend Isn't Dead. But the Job Title Is Changing
@@ -104,8 +113,8 @@ Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade
 The Ever Changing Profession of Software Engineering
 DevOps / SRE Interview Master Guide
 O Engenheiro de Software com a mentalidade voltada ao produto
-Emotional Deadlocks: When Two People Wait for Each Other to Change First
 No Human Will Ever Write Code Better Than LLMs? Better at What?
+TopAccess: Freelancer Review
 Company career page scraper: every open job from any company, by name or domain
 We're a place where coders share, stay up-to-date and grow their careers.
 Log in

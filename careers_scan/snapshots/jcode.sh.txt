@@ -225,10 +225,9 @@ Super+N opens a session beside the one you are in.
 Get Jcode Desktop
 Changelog
 Releases and changelog . Full history on GitHub releases .
-Unreleased
-2026-11-22 · today
-Changes since v1.0.3
-Automatically listed from commit messages.
+v1.1.1
+2026-11-23 · today
+Release notes pending. Automatically listed from commit messages.
 docs update weekly stars chart
 commit Wait for network recovery and auto-resume active turns after disconnects
 gemini native deferred tool loading via Interactions tool retrieval
@@ -277,7 +276,13 @@ commit Normalize jarvis_user role on SoftInterruptInjected so final transcripts 
 fix resolve formatting, clippy, dead-code, and guardrail baselines for v1.1.0
 test update login prompt and progress card test assertions for v1.1.0
 fix update url to 2.5.9 for RUSTSEC-2026-0592
+commit Add contextual subscription nudges and one-step browser login on /subscribe and /cloud
+fix omit redundant effort suffix on effort-named Gemini models
+commit Publish Linux self-dev builds as real semver releases with paginated platform fallback
+commit Double token plan inference credits from 2x to 4x
+commit Download latest verified justrust release binary in hosted CI
 v1.0.3
+2026-11-22 · 1d ago
 Antigravity Google login, scriptable API-key setup, and always-on Jarvis voice
 Release highlights.
 highlight Google personal accounts now sign in through Antigravity with Gemini 4 (Neon) as the default model and pooled Gemini, Argon, and Claude quota bars in the account router.

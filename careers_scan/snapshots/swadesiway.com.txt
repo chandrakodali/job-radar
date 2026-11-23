@@ -19,10 +19,6 @@ Price range: ₹135.00 through ₹300.00
 4 pcs (200-360 gm)
 8 pcs (400-480 gm)
 Organic Kiwi quantity
-Organic Desi Amla
-₹ 45.00
-250 g
-Organic Desi Amla quantity
 Organic Big Apples from Upper Kinnaur (5 pcs/ kg)
 Price range: ₹450.00 through ₹1,230.00
 Organic Big Apples from Upper Kinnaur (5 pcs/ kg) quantity
@@ -41,6 +37,7 @@ Organic Tomato
 Price range: ₹70.00 through ₹130.00
 Organic Tomato quantity
 Organic Ginger
+₹ 45.00
 100 g
 Organic Ginger quantity
 Organic Lehsun/Garlic
@@ -54,6 +51,7 @@ Organic Desi Coriander (Dhaniya)
 Organic Desi Coriander (Dhaniya) quantity
 Desi Spinach (Palak) (with little holes & spots)
 Price range: ₹35.00 through ₹60.00
+250 g
 Desi Spinach (Palak) (with little holes & spots) quantity
 Organic Curry Leaves (Kadi Patta)
 1 Bunch (10 twigs)
@@ -61,8 +59,6 @@ Organic Curry Leaves (Kadi Patta) quantity
 Desi Methi Leaves (with holes & spots)
 Price range: ₹45.00 through ₹75.00
 Desi Methi Leaves (with holes & spots) quantity
-Desi Moringa Fresh Leaves
-Desi Moringa Fresh Leaves quantity
 Organic Kheera (Cucumber) – Yellowish skin
 Organic Kheera (Cucumber) - Yellowish skin quantity
 Desi Radish / Mooli
@@ -92,9 +88,6 @@ Organic Mustard Leaves - Sarson Saag (with little holes & spots) quantity
 Organic Kumbhkat Lemon
 200 g
 Organic Kumbhkat Lemon quantity
-Organic Karela/Bitter Gourd
-₹ 65.00
-Organic Karela/Bitter Gourd quantity
 Organic Red Bell Pepper
 ₹ 120.00
 Organic Red Bell Pepper quantity
@@ -126,9 +119,6 @@ Organic Green Lettuce quantity
 Organic Iceberg Lettuce
 Price range: ₹170.00 through ₹330.00
 Organic Iceberg Lettuce quantity
-Desi Raw Papaya (Green)
-₹ 60.00
-Desi Raw Papaya (Green) quantity
 Organic Parwal / Pointed Gourd
 Organic Parwal / Pointed Gourd quantity
 Organic Pudina / Mint Leaves
@@ -480,3 +470,6 @@ Wood-pressed Mustard Oil & Bilona Desi Rathi Cow Ghee quantity
 Price range: ₹1,230.00 through ₹2,328.00
 500 ml x 3
 2 Oil and Bilona Desi Rathi Cow Ghee quantity
+Bilona Desi Rathi Cow Ghee and Jaggery
+Price range: ₹901.00 through ₹1,690.00
+Uncategorized
