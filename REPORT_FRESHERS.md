@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**394 jobs**, newest first. Updated Mon Nov 23, 4:34 AM CST from 12,580 company job boards and other sources.
+**392 jobs**, newest first. Updated Mon Nov 23, 5:22 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 149 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (15)](#sunday-nov-22-15) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (58)](#monday-nov-16-58)
+Coverage check: of 4,636 matching jobs that job sites and feeds listed this week, 936 (20%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (15)](#sunday-nov-22-15) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (56)](#monday-nov-16-56)
 
 ## Monday, Nov 23 (4)
 
@@ -379,7 +381,7 @@ Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | 2:23 AM | [Machine Learning Engineer](https://jobs.lever.co/jobgether/14392006-a041-4d52-a5fa-236149b99477) | Jobgether | US (remote) | 72 | 1+ yrs exp |
 | 1:46 AM | [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://jobs.lever.co/jobgether/f4b092a6-63f4-4209-897e-eb386e4aa422) | Jobgether | US (remote) | 72 | entry-level title |
 
-## Monday, Nov 16 (58)
+## Monday, Nov 16 (56)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -439,8 +441,6 @@ Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | 9:30 AM | [Graduate Developer](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29481) | GHD | FARMINGTON HILLS, MI, United States; HO… (hybrid) | 90 | entry-level title; 0-2 yrs exp |
 | 7:18 AM (seen) | [Software Engineer](https://app.dover.com/apply/deepreel/252c8289-f930-47ac-8adf-8d07782e7b09) | Deepreel | International (remote) | 52 | 1+ yrs exp; location unclear |
 | 5:37 AM | [Associate Software Engineer](https://jobs.lever.co/jobgether/f03d7623-1070-43c7-8398-e76ffa3eb3e0) | Jobgether | US (remote) | 82 | entry-level title; 0-2 yrs exp |
-| 5:18 AM (seen) | [Business Analyst - US - Educational Raters](https://app.dover.com/apply/careerflow/348e705d-ebed-43cf-868a-150bd99947be) | Careerflow | International (remote) | 57 | entry level (from the text) |
-| 4:59 AM | [Solutions Delivery Analyst I](https://jobs.lever.co/jobgether/2b7241b1-6f6a-451b-8aca-ca78a004479e) | Jobgether | US (remote) | 82 | entry-level title; 1+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1598)
 
@@ -458,6 +458,9 @@ Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | date only | [Open Source Software Engineer, AI Expert](https://apply.workable.com/weekday-1/j/38C7EFC553/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Developer, AI Expert](https://apply.workable.com/weekday-1/j/4F92D4C87E/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Cloud Engineer, AI Expert](https://apply.workable.com/weekday-1/j/951BAFA3EA/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [ML Kernel Engineer, AI Expert](https://apply.workable.com/weekday-1/j/A6B70A6295/) | Weekday AI | United States (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| date only | [Security Engineer, AI Expert](https://apply.workable.com/weekday-1/j/4A316B35A2/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 5:16 AM | [Cloud Support Engineer](https://jobs.ashbyhq.com/thought-machine/7b0fb544-65e2-47d8-8303-021d8b1a645b) | Thought Machine | United States, New York, New York City (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 4:06 AM | [AI Engineer (Technical Product Owner)](https://jobs.ashbyhq.com/foxelligroup/9420f440-dac4-41b4-bbc0-16dfcf60f8db) | Foxelligroup | Lithuania; Bosnia & Herzogovina; Estoni… (remote) | 42 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 3:25 AM | [L2 SOC Analyst](https://jobs.lever.co/jobgether/58e0187a-fb66-448f-ba04-8f3e3355b0dd) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:45 AM | [Digital Assets Security Engineer](https://job-boards.greenhouse.io/alpaca/jobs/6267351004) | Alpaca | Remote - Americas (remote) | 37 | rules: 6+ yrs exp; location unclear; asks for 6+ years of experience |
@@ -465,6 +468,9 @@ Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | 1:41 AM | [Business Analyst/Scrum Master](https://jobs.lever.co/jobgether/0594a0d6-58c3-4653-bf1a-da5654594596) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; needs: security clearance |
 | 1:29 AM | [Software Engineer, AI Tooling](https://jobs.ashbyhq.com/airwallex/bd91b283-8de0-41bd-aba4-8cae281808a7) | Airwallex | US - San Francisco (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 1:08 AM | [Technical Support Engineer](https://job-boards.greenhouse.io/startree/jobs/6264827004) | StarTree | US (Remote) (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 11:00 PM | [Business Analyst](https://careers-steampunk.icims.com/jobs/8653/business-analyst/job) | Steampunk | McLean, VA, United States | 50 | rules: 5+ yrs exp; E-Verify; needs: security clearance |
+| 11:00 PM | [AI Innovation Engineer](https://careers-steampunk.icims.com/jobs/9181/ai-innovation-engineer/job) | Steampunk | McLean, VA, United States | 50 | rules: 10+ yrs exp; E-Verify; needs: security clearance |
+| 11:00 PM | [Manual Test Engineer](https://careers-steampunk.icims.com/jobs/9182/manual-test-engineer/job) | Steampunk | McLean, VA, United States | 50 | rules: 5+ yrs exp; E-Verify; needs: security clearance |
 | 10:20 PM (seen) | [Data Quality Assurance & CCD Coordinator (00204)](https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26142752&lang=en) | State of Montana | Helena | 50 | rules: 4+ yrs exp; E-Verify; asks for 4+ years of experience |
 | 9:04 PM | [Site Reliability Engineer](https://job-boards.greenhouse.io/gusto/jobs/8394537) | Gusto | Denver, CO - Hybrid; San Francisco, CA … (hybrid) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 7:04 PM | [AI Builder, Forward Deployed Engineer](https://jobs.ashbyhq.com/Clera/04c4e97e-33bd-4adf-b6b8-178b6155a3eb) | Clera | United Arab Emirates (onsite) | 60 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
@@ -842,11 +848,5 @@ Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | 9:54 PM | [Linux System Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cc7b1562-35f8-45ea-ae99-92d84e0c5d46&ccId=19000101_000001&jobId=9201213479877_43&lang=en_US) | Cc7B1562 35F8 45Ea Ae99 92D84… | Arlington, VA | 60 | rules: 3+ yrs exp; needs: Top Secret clearance |
 | 9:45 PM | [Developer Support Engineer](https://jobs.lever.co/jobgether/812e7528-9851-4e87-9116-c7bf6e4ce45e) | Jobgether | US (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 9:44 PM | [Business Analyst, Infrastructure & Pricing Strategy](https://jobs.ashbyhq.com/cantina/d976abf0-5f73-4e37-9b21-c04468fa7795) | Cantina | San Francisco (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 9:43 PM | [Junior Web Developer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680307) | Library Systems & Services LLC | Aurora, CO, United States (remote) | 82 | rules: entry-level title; 1+ yrs exp; needs: security clearance |
-| 9:33 PM | [Data Scientist, Growth](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/08d1b5f5-69e9-443a-a8df-56a9012739fb) | Superhuman | Hub - San Francisco; Hub - New York; Hu… (hybrid) | 55 | rules: 7+ yrs exp; E-Verify; asks for 7+ years of experience |
-| 8:21 PM | [Graduate Engineer - Geotechnical](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0ac9c872-8815-465b-b05a-caa90545c4d1&ccId=19000101_000001&jobId=9201314773705_358&lang=en_US) | 0Ac9C872 8815 465B B05A Caa90… | Houston, TX | 70 | rules: entry-level title; 3+ yrs exp; asks for 3+ years of experience |
-| 8:00 PM | [Embedded Systems Engineer - Hardware & Firmware](https://assaabloy.jobs2web.com/job/Kennesaw-Embedded-Systems-Engineer-Hardware-&-Firmware-GA-30144/1432627033/) | ASSA ABLOY | Kennesaw, GA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 7:58 PM | [SATCOM Systems Engineer (Hybrid- Aberdeen Proving Ground)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9312ef-f8ad-43d2-926b-12997288c359&ccId=19000101_000001&jobId=9201590872784_8&lang=en_US) | 1B9312Ef F8Ad 43D2 926B 12997… | US;  US;  US;  US;  US;  US; Middletown… | 45 | rules: 5+ yrs exp; needs: Secret clearance |
-| 7:57 PM | [Corporate Network Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5489564008) | Anthropic | Remote-Friendly (Travel Required) / San… (remote) | 42 | rules: 8+ yrs exp; asks for 8+ years of experience |
 
 </details>
