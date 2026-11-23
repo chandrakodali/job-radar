@@ -1,14 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**209 jobs**, newest first. Updated Mon Nov 23, 1:38 PM CST from 12,535 company job boards and other sources.
+**207 jobs**, newest first. Updated Mon Nov 23, 1:50 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 166 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,206 matching jobs that job sites and feeds listed this week, 1,617 (50%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Mon 23 (22)](#monday-nov-23-22) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (31)](#tuesday-nov-17-31) · [Mon 16 (20)](#monday-nov-16-20)
+Jump to: [Mon 23 (22)](#monday-nov-23-22) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (31)](#tuesday-nov-17-31) · [Mon 16 (18)](#monday-nov-16-18)
 
 ## Monday, Nov 23 (22)
 
@@ -234,7 +232,7 @@ Jump to: [Mon 23 (22)](#monday-nov-23-22) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | 3:00 AM | [Senior Microsoft Infrastructure Administrator](https://jobs.lever.co/jobgether/adece85e-353a-4742-8dee-287d1fce55d5) | Jobgether | US (remote) | 52 | senior title, years not stated |
 | 1:26 AM | [Applied Science Platform Engineer](https://jobs.ashbyhq.com/StandInsurance/98980cc7-8acb-4987-ba81-ca86844e81d8) | Stand Insurance | San Francisco (onsite) | 60 | 3+ yrs exp; no future H-1B sponsorship |
 
-## Monday, Nov 16 (20)
+## Monday, Nov 16 (18)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -256,8 +254,6 @@ Jump to: [Mon 23 (22)](#monday-nov-23-22) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | 2:50 PM | [Software Developer III - Cloud Platform (Back End, Authentication)](https://job-boards.greenhouse.io/nisc/jobs/8394139) | National Information Solution… | Any NISC Location | 55 | senior title, years not stated |
 | 2:34 PM | [Systems Administrator](https://job-boards.greenhouse.io/monsterenergy/jobs/4485445009) | Monster Energy | USA - Corona, CA | 45 | 3+ yrs exp |
 | 2:07 PM (seen) | [Enterprise Software Engineer AWS Kubernetes ElasticSearch](https://careers.eriasventures.com/careers/89065-Erias-Ventures/jobs/16874138-Enterprise--Software-Engineer--AWS-Kubernetes-ElasticSearch/) | Erias |  | 45 | location unclear |
-| 1:46 PM | [Software Engineer, Data Infrastructure](https://jobs.ashbyhq.com/ThinkingMachines/ec5f88b6-e221-499c-bc8f-a27b66213b87) | ThinkingMachines | San Francisco; New York (onsite) | 70 |  |
-| 1:45 PM | [Software Engineer, Training Infrastructure](https://jobs.ashbyhq.com/ThinkingMachines/5b2ee0dc-0fe5-4c5d-806d-e171187e460e) | ThinkingMachines | San Francisco; New York (onsite) | 65 | 4+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (407)
 
