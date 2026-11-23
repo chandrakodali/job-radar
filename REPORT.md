@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**219 jobs**, newest first. Updated Sun Nov 22, 8:49 PM CST from 12,580 company job boards and other sources.
+**219 jobs**, newest first. Updated Sun Nov 22, 9:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 155 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 2,862 matching jobs that job sites and feeds listed this week, 1,368 (47%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (45)](#thursday-nov-19-45) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (1)](#sunday-nov-15-1)
 
@@ -267,13 +269,14 @@ Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [
 |---|---|---|---|---:|---|
 | 11:50 PM | [Site Reliability Engineer 2](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340135) | Oracle | Nashville, TN, United States | 50 | 3+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (421)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (422)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Systems Engineer - Configuration Management (Level 3 or 4)](https://ngc.eightfold.ai/careers/job/1340075397630) | Ngc | El Segundo, CA, US (onsite) | 50 | rules: 3+ yrs exp; senior title; needs: CLEARANCE REQUIRED |
+| 9:04 PM | [Site Reliability Engineer](https://job-boards.greenhouse.io/gusto/jobs/8394537) | Gusto | Denver, CO - Hybrid; San Francisco, CA … (hybrid) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 8:12 PM | [Senior Software Engineer, Core Infrastructure](https://jobs.lever.co/jobgether/10d27507-eb58-4dce-8078-b02bcef33c63) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 7:29 PM | [Satellite Systems Operations Engineer](https://jobs.ashbyhq.com/Elveo/27c25953-b784-43ac-8d0a-934218276346) | Elveo | Chantilly, VA (onsite) | 35 | rules: 5+ yrs exp; needs: ITAR |
 | 1:47 PM | [Senior Systems Development Engineer](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302047) | Dell Technologies | TX, United States (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
@@ -672,7 +675,6 @@ Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 7:07 AM (seen) | [Unix Engineer](https://app.dover.com/apply/covetus/fe1c7ccc-6016-40fb-a0b6-aebaa8b19504) | Covetus | United States (remote) | 12 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:56 AM | [Senior Security Engineer, Product & Platform](https://jobs.lever.co/jobgether/6c3a611f-cbcd-4782-b100-a11df13bcdd3) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 5:53 AM | [Senior DevOps Engineer II](https://www.storyblok.com/job?gh_jid=5036564101) | Storyblok | Remote (remote) | 32 | rules: 9+ yrs exp; senior title; location unclear; asks for 9+ years … |
-| 5:50 AM | [OpenShift Platform Engineer](https://jobs.lever.co/jobgether/6a1d0ed9-1ef9-44bb-902b-e7b4b3868b11) | Jobgether | US (remote) | 42 | rules: 6+ yrs exp; asks for 6+ years of experience |
 
 </details>
 
