@@ -1,6 +1,6 @@
 # Wide sweep summary
 
-Updated 2026-11-22.
+Updated 2026-11-23.
 
 Crawls swept: CC-MAIN-2026-39, CC-MAIN-2026-43.
 
@@ -8,41 +8,41 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 
 ## By tier
 
-- 1: 23536
-- 2: 108059
-- 3: 302619
-- 4: 94486
-- 5: 32332
-- 9: 94262
+- 1: 23431
+- 2: 108117
+- 3: 302749
+- 4: 94506
+- 5: 32337
+- 9: 94154
 
 ## By category
 
-- unknown: 94262
-- ats: 44175
+- unknown: 94154
+- ats: 44188
 - blocked: 2795
-- careers_page_unclear: 281437
-- doc: 1305
-- email: 54320
+- careers_page_unclear: 281562
+- doc: 1303
+- email: 54312
 - external_board: 7275
-- form: 75970
+- form: 75933
 - js_only: 461
-- no_careers_page: 43036
-- no_openings: 21182
+- no_careers_page: 43043
+- no_openings: 21187
 - robots_disallowed: 8326
-- unreachable: 20750
+- unreachable: 20755
 
 ## By us
 
-- unknown: 94262
-- non_us: 37094
-- unknown: 290862
-- us: 233076
+- unknown: 94154
+- non_us: 37109
+- unknown: 290915
+- us: 233116
 
 ## By via
 
-- unknown: 94262
-- archive: 43490
-- live: 517542
+- unknown: 94154
+- archive: 43737
+- live: 517403
 
 ## Tier 1 sites
 
@@ -127,6 +127,7 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 123AceTheTest (123acethetest.com)
 - 12nets Inc (12nets.com)
 - 14K Business Solutions (14kbsol.com)
+- 151 Kitchen / Bar (151elmhurst.com)
 - 16th Street Baptist Church (16thstreetbaptist.org)
 - 1702Digital (1702digital.com)
 - 1800Esupply (1800esupply.com)
@@ -245,4 +246,3 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 4M Career (4mcareer.com)
 - 4M INDUSTRIES INC. (4mindustries.com)
 - 4Matic Valve – (4maticvalves.com)
-- 4Property (4property.com)
