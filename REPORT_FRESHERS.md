@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**396 jobs**, newest first. Updated Sun Nov 22, 10:34 PM CST from 12,580 company job boards and other sources.
+**393 jobs**, newest first. Updated Sun Nov 22, 11:29 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-152 repeat listings (same company and title in another place or on another source) are merged into one row.
+149 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sun 22 (14)](#sunday-nov-22-14) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61) · [Sun 15 (3)](#sunday-nov-15-3)
+Coverage check: of 4,463 matching jobs that job sites and feeds listed this week, 898 (20%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sun 22 (14)](#sunday-nov-22-14) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (59)](#wednesday-nov-18-59) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61)
 
 ## Sunday, Nov 22 (14)
 
@@ -298,11 +300,11 @@ Jump to: [Sun 22 (14)](#sunday-nov-22-14) · [Sat 21 (27)](#saturday-nov-21-27) 
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
-| 11:00 PM | [Associate Perioperative Support Technician - Operating Room, Nights](https://careers-dartmouth-hitchcock.icims.com/jobs/43212/associate-perioperative-support-technician---operating-room%2c-nights/job) | Dartmouth Health | Lebanon, NH, United States | 75 | entry-level title |
 | 11:00 PM | [Apparatus & Automation Technician](https://careers-cobbemc.icims.com/jobs/1430/apparatus-%26-automation-technician/job) | Cobb EMC | Marietta, GA, United States | 75 | 1+ yrs exp |
 | 11:00 PM | [Associate Solutions Analyst - PTS](https://external-canoncareers.icims.com/jobs/36349/associate-solutions-analyst---pts/job) | Canon | Boca Raton, FL, United States | 75 | entry-level title |
 | 11:00 PM | [Software System Engineer I](https://careers-firstambank.icims.com/jobs/3506/software-system-engineer-i/job) | First American Bank | Elk Grove Village, IL, United States | 85 | entry-level title; 1+ yrs exp |
 | 11:00 PM | [Business Analyst/Tech Writer](https://jobs.dayforcehcm.com/en-US/kgs/candidateportal/jobs/16375) | Kgs | Washington, DC, US | 85 | 0-2 yrs exp; entry level (from the text) |
+| 11:00 PM | [Associate Perioperative Support Technician - Operating Room, Nights](https://careers-dartmouth-hitchcock.icims.com/jobs/43212/associate-perioperative-support-technician---operating-room%2c-nights/job) | Dartmouth Health | Lebanon, NH, United States | 75 | entry-level title |
 | 11:00 PM | [Digital Solutions Specialist](https://careers-ringpower.icims.com/jobs/16374/digital-solutions-specialist/job) | Ring Power | Gainesville, FL, United States; Palm Ba… | 75 | 1+ yrs exp |
 | 11:00 PM | [IT Support Technician](https://careers-hga.icims.com/jobs/3555/it-support-technician/job) | Hammel Green And Abrahamson (… | Boston, MA, United States | 75 | 1+ yrs exp |
 | 11:00 PM | [Coding Validation Coder I - E&M](https://careers-cotiviti.icims.com/jobs/21100/coding-validation-coder-i---e%26m/job) | Cotiviti | Remote, United States (remote) | 72 | 1+ yrs exp |
@@ -436,14 +438,6 @@ Jump to: [Sun 22 (14)](#sunday-nov-22-14) · [Sat 21 (27)](#saturday-nov-21-27) 
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Oakridge](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825784) | Macy's | San Jose, CA, United States | 75 | entry-level title |
 | 3:26 AM | [Administrative Support Team Associate, Cherryvale - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825771) | Macy's | Rockford, IL, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Sunday, Nov 15 (3)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 11:00 PM | [HRIS System Administrator I](https://careers-stifel.icims.com/jobs/10226/hris-system-administrator-i/job) | Stifel | Saint Louis, MO, United States | 85 | entry-level title; 1+ yrs exp |
-| 11:00 PM | [Automation Specialist I](https://careers-primecontrols.icims.com/jobs/2432/automation-specialist-i/job) | Prime Controls | Lewisville, TX, United States | 80 | entry-level title; E-Verify |
-| 11:00 PM | [Research Support Associate](https://careers-wuxiapptec.icims.com/jobs/14277/research-support-associate/job) | WuXi AppTec | San Diego, CA, United States | 75 | entry-level title |
-
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1604)
 
 <details><summary>Show</summary>
@@ -454,6 +448,7 @@ Jump to: [Sun 22 (14)](#sunday-nov-22-14) · [Sat 21 (27)](#saturday-nov-21-27) 
 | date only | [Software AI Platform Services Engineer](https://micron.eightfold.ai/careers/job/45574512) | Micron | Boise, ID, US (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Business Analyst, Career](https://careers.pge.com/job/Oakland-Business-Analyst%2C-Career-CA-94612/1452866400/) | PG&E | Oakland, CA, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Controls Systems Engineer, Controls Design Execution](https://www.amazon.jobs/en/jobs/10611084/controls-systems-engineer-controls-design-execution) | Amazon Data Services, Inc. | Seattle, Washington, USA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| date only | [Data Engineer](https://careers.capgemini.com/job/Burlington%2C-MA-Data-Engineer-MA-01803/1459548133/) | Capgemini | Burlington, MA, United States | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 10:20 PM (seen) | [Data Quality Assurance & CCD Coordinator (00204)](https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26142752&lang=en) | State of Montana | Helena | 50 | rules: 4+ yrs exp; E-Verify; asks for 4+ years of experience |
 | 9:04 PM | [Site Reliability Engineer](https://job-boards.greenhouse.io/gusto/jobs/8394537) | Gusto | Denver, CO - Hybrid; San Francisco, CA … (hybrid) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 7:04 PM | [AI Builder, Forward Deployed Engineer](https://jobs.ashbyhq.com/Clera/04c4e97e-33bd-4adf-b6b8-178b6155a3eb) | Clera | United Arab Emirates (onsite) | 60 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
@@ -849,6 +844,5 @@ Jump to: [Sun 22 (14)](#sunday-nov-22-14) · [Sat 21 (27)](#saturday-nov-21-27) 
 | 6:18 PM | [Software Engineer - .NET](https://jobs.smartrecruiters.com/Experian/744000162621889-software-engineer-net) | Experian | Schaumburg, IL, United States (hybrid) | 50 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 6:18 PM | [Software Development Engineer](https://ford.eightfold.ai/careers/job/563568454162253) | Ford | Cary, NC, US (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 6:18 PM | [Software Development Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73927) | Ford Motor Company | Cary, NC, United States (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 5:55 PM | [Full-Stack Developer](https://egln.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/18190) | Egln Fa Us2 Oraclecloud Com | Loma Linda, CA, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
