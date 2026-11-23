@@ -1,14 +1,12 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**111 jobs**, newest first. Updated Mon Nov 23, 10:30 AM CST from 12,535 company job boards and other sources.
+**110 jobs**, newest first. Updated Mon Nov 23, 10:43 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
-67 repeat listings (same company and title in another place or on another source) are merged into one row.
+63 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 419 matching jobs that job sites and feeds listed this week, 212 (50%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (8)](#wednesday-nov-18-8) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (9)](#monday-nov-16-9)
+Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (8)](#wednesday-nov-18-8) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (8)](#monday-nov-16-8)
 
 ## Monday, Nov 23 (1)
 
@@ -142,7 +140,7 @@ Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (1)](#sunday-nov-22-1) · [Fr
 | date only | [Senior Network Engineer](https://assaabloy.jobs2web.com/job/New-Haven-Senior-Network-Engineer-CT-06511/1458220733/) | ASSA ABLOY | New Haven, CT, United States | 43 | senior title, years not stated |
 | 10:36 AM | [Senior Network Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8948166002) | Atoms | San Francisco, CA | 48 | senior title, years not stated |
 
-## Monday, Nov 16 (9)
+## Monday, Nov 16 (8)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -154,7 +152,6 @@ Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (1)](#sunday-nov-22-1) · [Fr
 | 12:44 PM | [Network Engineer](https://boards.greenhouse.io/aloyoga/jobs/6255466004?gh_jid=6255466004) | Aloyoga | Beverly Hills LAND, Beverly Hills, CA (… | 53 |  |
 | 12:33 PM | [Associate Systems Engineer](https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4506700009) | Custom Computer Specialists | Hauppauge, NY | 48 | entry-level title; network work in the text |
 | date only | [10351 - Core Network Engineer (Cisco routers/switches, Palo Alto)](https://hyundaiautoeveramerica.applytojob.com/apply/MYEv1JyrQy/10351-Core-Network-Engineer-Cisco-Routersswitches-Palo-Alto) | Hyundai AutoEver America | Irvine | 53 |  |
-| 10:35 AM | [Network Operations Engineer II](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-II_R0018414) | Astreya | Denver, CO | 48 |  |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (212)
 
