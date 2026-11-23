@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**220 jobs**, newest first. Updated Mon Nov 23, 8:07 AM CST from 12,535 company job boards and other sources.
+**220 jobs**, newest first. Updated Mon Nov 23, 8:23 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 139 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,091 matching jobs that job sites and feeds listed this week, 1,534 (49%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Mon 23 (5)](#monday-nov-23-5) · [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (45)](#thursday-nov-19-45) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (44)](#monday-nov-16-44)
 
@@ -270,7 +268,7 @@ Jump to: [Mon 23 (5)](#monday-nov-23-5) · [Sun 22 (3)](#sunday-nov-22-3) · [Sa
 | 9:14 AM | [Senior Software Engineer - Infrastructure Security (Remote)](https://jobs.ashbyhq.com/quora/dce88e1a-d30f-44e6-a471-cf810fc9a449) | Quora | Remote - Multiple Locations; United Sta… (remote) | 52 | senior title, years not stated |
 | 8:37 AM | [Professional Services Technical Operations Engineer- Agentic AI](https://jobs.lever.co/jobgether/029f6e21-36a5-42c6-859d-ec5e7c435578) | Jobgether | US (remote) | 47 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (412)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (411)
 
 <details><summary>Show</summary>
 
@@ -672,10 +670,10 @@ Jump to: [Mon 23 (5)](#monday-nov-23-5) · [Sun 22 (3)](#sunday-nov-22-3) · [Sa
 | 10:03 AM | [IT Systems Engineer](https://jobs.ashbyhq.com/saronic/4b601575-99ba-4a5e-962f-d884bb3a85ac) | Saronic | Austin, TX (onsite) | 50 | rules: 4+ yrs exp; needs: security clearance |
 | 9:50 AM | [Senior Client Platform Engineer](https://boards.greenhouse.io/robinhood/jobs/8354333?t=gh_src=&gh_jid=8354333) | Robinhood | Menlo Park, CA | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 9:07 AM (seen) | [Software Engineer, Infrastructure (C++)](https://app.dover.com/apply/fabri-usa/b87c78ba-9d17-47da-a822-259b1549798f) | Fabri Usa | Billerica, MA (onsite) | 45 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: ITAR |
-| 8:51 AM | [Database Platform Engineer](https://jobs.lever.co/jobgether/41c2eaaf-fd24-4d0f-9938-9b97d6cb238c) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:47 AM | [Senior DataOps Engineer](https://job-boards.greenhouse.io/scoutmotors/jobs/5292680007) | Scout Motors | United States (remote) | 42 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 12:00 AM | [Senior Cloud Engineer (Azure/Terraform)](https://jobs.dayforcehcm.com/en-US/builders/candidateportal/jobs/238014) | Builders | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:00 PM | [Platform Engineer](https://arc-onesolutions.icims.com/jobs/17276/platform-engineer/job) | ARC-One Solutions | United States | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
+| 11:00 PM | [Mid-Level DevSecOps Engineer](https://careers-simventions.icims.com/jobs/1670/mid-level-devsecops-engineer/job) | SimVentions | Dahlgren, VA, United States (remote) | 62 | rules: needs: Secret Clearance |
 
 </details>
 
