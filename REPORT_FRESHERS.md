@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**410 jobs**, newest first. Updated Mon Nov 23, 2:19 PM CST from 12,535 company job boards and other sources.
+**408 jobs**, newest first. Updated Mon Nov 23, 2:31 PM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 176 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,924 matching jobs that job sites and feeds listed this week, 996 (20%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Mon 23 (49)](#monday-nov-23-49) · [Sun 22 (18)](#sunday-nov-22-18) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (70)](#tuesday-nov-17-70) · [Mon 16 (28)](#monday-nov-16-28)
+Jump to: [Mon 23 (49)](#monday-nov-23-49) · [Sun 22 (18)](#sunday-nov-22-18) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (70)](#tuesday-nov-17-70) · [Mon 16 (26)](#monday-nov-16-26)
 
 ## Monday, Nov 23 (49)
 
@@ -427,7 +425,7 @@ Jump to: [Mon 23 (49)](#monday-nov-23-49) · [Sun 22 (18)](#sunday-nov-22-18) ·
 | 2:23 AM | [Machine Learning Engineer](https://jobs.lever.co/jobgether/14392006-a041-4d52-a5fa-236149b99477) | Jobgether | US (remote) | 72 | 1+ yrs exp |
 | 1:46 AM | [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://jobs.lever.co/jobgether/f4b092a6-63f4-4209-897e-eb386e4aa422) | Jobgether | US (remote) | 72 | entry-level title |
 
-## Monday, Nov 16 (28)
+## Monday, Nov 16 (26)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -457,8 +455,6 @@ Jump to: [Mon 23 (49)](#monday-nov-23-49) · [Sun 22 (18)](#sunday-nov-22-18) ·
 | 3:17 PM | [Data Center Technician I - Council Bluffs - Iowa](https://ericsson.eightfold.ai/careers/job/563121777388378) | Ericsson | Omaha, NE, US; Lincoln, NE, US (onsite) | 75 | entry-level title; no future H-1B sponsorship |
 | 3:09 PM | [Network Maintenance Technician 1](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4654394) | ImOn Communications, LLC | DUBUQUE, IA, United States | 75 | entry-level title |
 | 2:51 PM (seen) | [Junior Software Engineer](https://app.dover.com/apply/emetlab/da3e39f2-9d70-4664-9933-186e6c765830) | Emetlab | International (remote) | 57 | entry-level title; location unclear; sponsors visas |
-| 2:30 PM | [Junior Support Engineer](https://jobs.workable.com/view/wB51a716su6tRM2LyaTK7L/junior-support-engineer-in-riverside-at-partner-one-software-inc) | Partner One Software Inc | Riverside, California (onsite) | 80 | entry-level title |
-| 2:28 PM | [Backend Engineer - Connectivity](https://job-boards.greenhouse.io/verkada/jobs/5296748007) | Verkada | San Mateo, CA United States | 85 | 1+ yrs exp; priority company |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1577)
 
