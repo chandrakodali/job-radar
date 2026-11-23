@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**206 jobs**, newest first. Updated Mon Nov 23, 3:07 PM CST from 12,535 company job boards and other sources.
+**206 jobs**, newest first. Updated Mon Nov 23, 3:19 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 166 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,221 matching jobs that job sites and feeds listed this week, 1,630 (50%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Mon 23 (24)](#monday-nov-23-24) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (31)](#tuesday-nov-17-31) · [Mon 16 (15)](#monday-nov-16-15)
 
@@ -256,7 +254,7 @@ Jump to: [Mon 23 (24)](#monday-nov-23-24) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | 3:37 PM (seen) | [MLOps Engineer - Latam](https://app.dover.com/apply/itmates/477d50cc-29da-4b30-8ffe-a7efb6cc4db4) | Itmates | International (remote) | 42 | location unclear |
 | 3:37 PM (seen) | [Site Reliability Engineer (In-Person)](https://app.dover.com/apply/joinrefine/01f87af9-6558-4eb7-b7dc-20834c6b32ae) | Joinrefine | New York City, NY (hybrid) | 55 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (408)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (405)
 
 <details><summary>Show</summary>
 
@@ -651,17 +649,17 @@ Jump to: [Mon 23 (24)](#monday-nov-23-24) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | 3:37 PM (seen) | [Health Cloud Infrastructure and Integration Specialist](https://app.dover.com/apply/ihealth-and-wellness-foundation-inc/5f870321-ef28-4e29-877b-af3391ed4972) | Ihealth And Wellness Foundati… | United States; International (remote) | 27 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 3:37 PM (seen) | [Site Reliability Engineer – Fintech](https://app.dover.com/apply/itmates/546913f0-b523-4436-8946-9492bcea407b) | Itmates | International (remote) | 22 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
 | 3:29 PM | [Senior Cloud/Backend Engineer](https://job-boards.greenhouse.io/triplewhale/jobs/5483259008) | Triplewhale | New York, NY | 45 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
-| 2:54 PM | [DevSecOps Engineer](https://job-boards.greenhouse.io/eudia/jobs/4382015009) | Eudia | Washington, DC, Remote (remote) | 62 | rules: needs: TS/SCI clearance |
 | 12:45 PM | [Senior Product Cloud Security Engineer](https://jobs.ashbyhq.com/delinea/54696b49-9725-45b6-8285-35fbf95839d6) | Delinea | U.S. Remote; Home Office (Canada) (remote) | 35 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| date only | [Amazon Dedicated Cloud Engineer, ADC DCOSE SysDE, ADC-DCOSE](https://www.amazon.jobs/en/jobs/10606562/amazon-dedicated-cloud-engineer-adc-dcose-sysde-adc-dcose) | Amazon Data Services, Inc. | Arlington, Virginia, USA | 65 | rules: needs: Security Clearance |
 | date only | [Application Security Engineer, Leo Proactive Security, Leo Security -…](https://www.amazon.jobs/en/jobs/10606633/application-security-engineer-leo-proactive-security-leo-security-metals) | Amazon.com Services LLC | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Senior Network Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893384025211) | Nvidia | Santa Clara, CA, US; US (remote) | 15 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Software Engineer, Platform Engineering - EDA Infrastructure](https://nvidia.eightfold.ai/careers/job/893398660270) | Nvidia | WA,US; Austin, TX, US; Westford, MA, US… (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Site Reliability Engineer (Network & Security Infrastructure)](https://jobs.netapp.com/job/Morrisville-Senior-Site-Reliability-Engineer-%28Network-&-Security-Infrastructure%29-NC-27560/1450894200/) | NetApp | Morrisville, NC, United States | 33 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Sr. Infrastructure Specialist](https://apply.workable.com/labella-associates/j/410919B35B/) | Labella Associates | Rochester, New York, United States | 33 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
-| 12:00 AM | [Senior Cloud Engineer (Azure/Terraform)](https://jobs.dayforcehcm.com/en-US/builders/candidateportal/jobs/238014) | Builders | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:00 PM | [Linux Systems Engineer](https://everwatch-everwatchsolutions.icims.com/jobs/3702/linux-systems-engineer/job) | Everwatch | Annapolis Junction, MD, United States | 30 | rules: 12+ yrs exp; needs: TS/SCI clearance |
 | 11:00 PM | [Sr Reliability Engineer](https://uscareers-waters.icims.com/jobs/28924/sr-reliability-engineer/job) | Waters Corporation | Milford, MA, United States | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| 5:55 PM | [Systems Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbabd1ae-568b-4f70-933b-3f462f76c1b5&ccId=19000101_000001&jobId=9201523121233_12&lang=en_US) | Cbabd1Ae 568B 4F70 933B 3F462… | East Syracuse, NY | 48 | rules: 2+ yrs exp; needs: Security Clearance |
+| 3:06 PM | [Senior Application Security Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=eebd886f-daae-4f3a-8a1b-d9c9a65d9d49&ccId=19000101_000001&jobId=9207425202468_3&lang=en_US) | Eebd886F Daae 4F3A 8A1B D9C9A… | Boston, MA | 33 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| 11:36 PM | [Network and Systems Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b70c2f5a-0631-4b81-b26d-4f1487bfa82f&ccId=19000101_000001&jobId=9201917275242_16&lang=en_US) | B70C2F5A 0631 4B81 B26D 4F148… | St Helena, CA | 18 | rules: 6+ yrs exp; asks for 6+ years of experience |
 
 </details>
 
