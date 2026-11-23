@@ -12251,7 +12251,7 @@
   "workday:@magna|wd3|magna": 595,
   "workday:@mazdausa|wd5|mazda": 16,
   "workday:@microchiphr|wd5|external": 231,
-  "workday:adient|wd3|external": 87,
+  "workday:adient|wd3|external": 20,
   "workday:allegromicro|wd5|allegrocareers": 10,
   "workday:alliance|wd3|nissanjobs": 20,
   "workday:allisontransmission|wd1|ati-external": 80,
@@ -14002,7 +14002,7 @@
    "since": "2026-11-11"
   }
  },
- "found_cursor": 3041,
+ "found_cursor": 71,
  "last_digest": "2026-11-23",
  "missed_companies": {},
  "missing_once": {
@@ -20942,6 +20942,7 @@
   "workday:@microchiphr|wd5|External": "2026-11-20T20:40+00:00",
   "workday:aaaie|wd1|CSAACareers2": "2026-11-20T18:01+00:00",
   "workday:aaaie|wd1|csaacareers": "2026-11-21T11:26+00:00",
+  "workday:adient|wd3|External": "2026-11-23T19:05+00:00",
   "workday:alcoa|wd5|Careers": "2026-11-20T20:40+00:00",
   "workday:alkami|wd12|alkami": "2026-11-20T18:01+00:00",
   "workday:alliance|wd3|nissanjobs": "2026-11-20T18:01+00:00",
@@ -92513,7 +92514,7 @@
   "zoho:stackand:311383000018775968": "2026-11-15"
  },
  "source_last": {},
- "term_cursor": 41,
+ "term_cursor": 3,
  "text_retries": {
   "avature:harmanglobal.avature.net|en_US/careers:32174": 2,
   "avature:harmanglobal.avature.net|en_US/careers:32516": 2,
@@ -92539,6 +92540,8 @@
   "sfrmk:join.cnh.com:1378161755": 1,
   "sfrmk:join.cnh.com:1378161855": 1,
   "sfrmk:seagatecareers.com:1443168000": 3,
+  "workday:adient|wd3|External:R-29929": 1,
+  "workday:adient|wd3|External:R-29938": 1,
   "workday:allisontransmission|wd1|ATI-External:R008423": 1,
   "workday:borgwarner|wd5|BorgWarner_Careers:R2026-4626": 1,
   "workday:brunswick|wd1|search:JR-048363": 1,
