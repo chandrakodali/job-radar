@@ -1,14 +1,16 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**398 jobs**, newest first. Updated Mon Nov 23, 9:39 AM CST from 12,580 company job boards and other sources.
+**399 jobs**, newest first. Updated Mon Nov 23, 9:39 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-174 repeat listings (same company and title in another place or on another source) are merged into one row.
+175 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Mon 23 (16)](#monday-nov-23-16) · [Sun 22 (15)](#sunday-nov-22-15) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (51)](#monday-nov-16-51)
+Coverage check: of 4,724 matching jobs that job sites and feeds listed this week, 955 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Monday, Nov 23 (16)
+Jump to: [Mon 23 (17)](#monday-nov-23-17) · [Sun 22 (15)](#sunday-nov-22-15) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (51)](#monday-nov-16-51)
+
+## Monday, Nov 23 (17)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -16,6 +18,7 @@ Jump to: [Mon 23 (16)](#monday-nov-23-16) · [Sun 22 (15)](#sunday-nov-22-15) ·
 | date only | [Data Center Technician](https://www.amazon.jobs/en/jobs/10611331/data-center-technician) | Amazon Data Services, Inc. | Fairless Hills, Pennsylvania, USA +5 mo… | 70 | 1+ yrs exp; no future H-1B sponsorship; repost |
 | date only | [Corporate Application Engineer, Physical AI (2027 New College Graduat…](https://globalfoundries.eightfold.ai/careers/job/563980770836408) | Globalfoundries | Richardson, TX, US; Austin, TX, US (onsite) | 80 | entry-level title |
 | date only | [Specialised Infrastructure Debt Associate](https://mgl.avature.net/internalcareers/JobDetail/Specialised-Infrastructure-Debt-Associate/25024) | Mgl Avature Net |  | 70 | entry-level title; location unclear |
+| date only | [Vehicle Test Engineer I](https://roush.applytojob.com/apply/5huS5TFkTr/Vehicle-Test-Engineer-I) | ROUSH | Livonia, MI | 75 | entry-level title |
 | 9:23 AM (seen) | [AI/ML Engineer-1](https://ats.rippling.com/huntridge-labs-careers/jobs/8a531178-ed2e-417b-991f-cfcd229b73a1) | Huntridge Labs Careers | Remote (United States) (remote) | 57 | entry-level title |
 | 9:23 AM (seen) | [DevSecOps Engineer-1](https://ats.rippling.com/huntridge-labs-careers/jobs/dde2a76e-4e59-4880-9fae-f3d8301bac09) | Huntridge Labs Careers | Remote (United States) (remote) | 57 | entry-level title |
 | 9:22 AM | [QA Optimization Engineer](https://jobs.smartrecruiters.com/AveryDennison/744000163250703-qa-optimization-engineer) | Avery Dennison | Painesville, OH, United States | 75 | 1+ yrs exp |
@@ -446,7 +449,7 @@ Jump to: [Mon 23 (16)](#monday-nov-23-16) · [Sun 22 (15)](#sunday-nov-22-15) ·
 | 10:32 AM | [Administrative Support Associate - Per Diem](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/194739) | Northwell Health | Lynbrook, Nassau, United States | 85 | entry-level title; 0-2 yrs exp |
 | 9:59 AM | [Product Support Specialist](https://jobs.lever.co/jobgether/29606d63-708e-48e0-b583-a2d9dbb12a63) | Jobgether | US (remote) | 72 | 1+ yrs exp; repost |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1570)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1573)
 
 <details><summary>Show</summary>
 
@@ -472,6 +475,9 @@ Jump to: [Mon 23 (16)](#monday-nov-23-16) · [Sun 22 (15)](#sunday-nov-22-15) ·
 | date only | [Compliance Data Specialist - Greenhouse Gas](https://jobs.paccar.com/job/Denton-Compliance-Data-Specialist-Greenhouse-Gas-TX-76205-7864/1459759733/) | Paccar | Denton, TX, United States | 80 | rules: 2+ yrs exp; E-Verify; asks for 2+ years of experience |
 | date only | [NOC Engineer – Network](https://arctiq.bamboohr.com/careers/372) | Arctiq | Duluth, Georgia, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [NOC Analyst – Network (L1)](https://arctiq.bamboohr.com/careers/373) | Arctiq | Duluth, Georgia, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| date only | [Quality Assurance Specialist](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=19057&lang=en) | AAR | United States-Florida-Jacksonville | 60 | rules: 3+ yrs exp; needs: must be a U.S. Person |
+| 9:35 AM | [ServiceNow Platform Operations Engineer](https://jobs.ashbyhq.com/knox-systems/e3eec0c4-c225-4370-8e48-28a7469e3cb8) | Knox Systems | United States / Arlington, VA (onsite) | 65 | rules: 3+ yrs exp; needs: Must be a U.S. Citizen |
+| 9:32 AM | [Cross Currency Solutions Product Solutions Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809826) | JP Morgan Chase | San Francisco, CA, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
 | 9:29 AM | [Office Support Specialist](https://job-boards.greenhouse.io/spsnorthamerica/jobs/5491001008) | Spsnorthamerica | Seattle, Washington, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:23 AM (seen) | [Software Engineer SWE Level 1](https://careers.bitwise.tech/careers/101033-General/jobs/16875830-Software-Engineer-SWE-Level-1/) | Bitwise |  | 35 | rules: entry-level title; 7+ yrs exp; location unclear; needs: SCI cl… |
 | 9:23 AM (seen) | [Database Administrator](https://jobs.jobvite.com/actionet/job/oNd8Afws) | ActioNet |  | 25 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
@@ -849,8 +855,5 @@ Jump to: [Mon 23 (16)](#monday-nov-23-16) · [Sun 22 (15)](#sunday-nov-22-15) ·
 | 2:00 AM | [Business Analyst - Nucor Towers & Structures](https://jobs.nucor.com/job/West_Hazleton-Business-Analyst-Nucor-Towers-&-Structures-PA-18202/1302044400/) | Nucor | West_Hazleton, PA, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 1:00 AM | [ERP Solutions Engineer](https://jobs.dayforcehcm.com/en-US/cpc/CANDIDATEPORTAL/jobs/3343) | Cpc | Marathon City, WI, US +3 more | 45 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 12:32 AM | [SATCOM Terminal Systems Engineer](https://jobs.lever.co/jobgether/ccd484ca-457b-4675-946c-7bfbf960350c) | Jobgether | US (remote) | 42 | rules: 8+ yrs exp; needs: Security Clearance |
-| 12:23 AM | [Cybersecurity Engineer](https://jobs.lever.co/jobgether/b48534d4-a073-4a7f-ae4a-52548c681c87) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; needs: security clearance |
-| 12:00 AM | [Business Systems Analyst I](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428976) | Eohh Fa Us2 Oraclecloud Com | Austin, TX, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
-| 12:00 AM | [Systems Analyst](https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/428941) | Eohh Fa Us2 Oraclecloud Com | TX, United States | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 
 </details>
