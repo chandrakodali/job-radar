@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**394 jobs**, newest first. Updated Mon Nov 23, 12:31 AM CST from 12,580 company job boards and other sources.
+**394 jobs**, newest first. Updated Mon Nov 23, 1:20 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 150 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,550 matching jobs that job sites and feeds listed this week, 917 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (15)](#sunday-nov-22-15) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (79)](#friday-nov-20-79) · [Thu 19 (82)](#thursday-nov-19-82) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (71)](#tuesday-nov-17-71) · [Mon 16 (61)](#monday-nov-16-61)
 
@@ -442,7 +444,7 @@ Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Oakridge](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825784) | Macy's | San Jose, CA, United States | 75 | entry-level title |
 | 3:26 AM | [Administrative Support Team Associate, Cherryvale - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825771) | Macy's | Rockford, IL, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1600)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1598)
 
 <details><summary>Show</summary>
 
@@ -453,6 +455,9 @@ Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | date only | [Business Analyst, Career](https://careers.pge.com/job/Oakland-Business-Analyst%2C-Career-CA-94612/1452866400/) | PG&E | Oakland, CA, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Controls Systems Engineer, Controls Design Execution](https://www.amazon.jobs/en/jobs/10611084/controls-systems-engineer-controls-design-execution) | Amazon Data Services, Inc. | Seattle, Washington, USA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Data Engineer](https://careers.capgemini.com/job/Burlington%2C-MA-Data-Engineer-MA-01803/1459548133/) | Capgemini | Burlington, MA, United States | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
+| date only | [SF Automation Engineer](https://careers.quality-ai.com/job/Bangalore-SF-Automation-Engineer-560045/61754444/) | Qualitest |  | 55 | rules: 4+ yrs exp; location unclear; asks for 4+ years of experience |
+| 1:41 AM | [Business Analyst/Scrum Master](https://jobs.lever.co/jobgether/0594a0d6-58c3-4653-bf1a-da5654594596) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; needs: security clearance |
+| 1:08 AM | [Technical Support Engineer](https://job-boards.greenhouse.io/startree/jobs/6264827004) | StarTree | US (Remote) (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 10:20 PM (seen) | [Data Quality Assurance & CCD Coordinator (00204)](https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26142752&lang=en) | State of Montana | Helena | 50 | rules: 4+ yrs exp; E-Verify; asks for 4+ years of experience |
 | 9:04 PM | [Site Reliability Engineer](https://job-boards.greenhouse.io/gusto/jobs/8394537) | Gusto | Denver, CO - Hybrid; San Francisco, CA … (hybrid) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 7:04 PM | [AI Builder, Forward Deployed Engineer](https://jobs.ashbyhq.com/Clera/04c4e97e-33bd-4adf-b6b8-178b6155a3eb) | Clera | United Arab Emirates (onsite) | 60 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
@@ -845,8 +850,5 @@ Jump to: [Mon 23 (1)](#monday-nov-23-1) · [Sun 22 (15)](#sunday-nov-22-15) · [
 | 6:54 PM | [Security Operations Center Analyst](https://www.esri.com/careers/5302828007?gh_jid=5302828007) | Esri | Redlands, CA +1 more | 75 | rules: 2+ yrs exp; needs: security clearance |
 | 6:51 PM | [Exempt to Permanent – Program Support Analyst (2917) Citywide (E16969…](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990016986315-exempt-to-permanent-program-support-analyst-2917-citywide-e169699-) | City and County of San Franci… | San Francisco, CA, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 6:51 PM | [Systems Administrator](https://job-boards.greenhouse.io/machindustries/jobs/4516093009) | Mach Industries | Huntington Beach, California, United St… | 60 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; needs: ITAR |
-| 6:18 PM | [Software Engineer - .NET](https://jobs.smartrecruiters.com/Experian/744000162621889-software-engineer-net) | Experian | Schaumburg, IL, United States (hybrid) | 50 | rules: 6+ yrs exp; asks for 6+ years of experience |
-| 6:18 PM | [Software Development Engineer](https://ford.eightfold.ai/careers/job/563568454162253) | Ford | Cary, NC, US (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 6:18 PM | [Software Development Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73927) | Ford Motor Company | Cary, NC, United States (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 
 </details>
