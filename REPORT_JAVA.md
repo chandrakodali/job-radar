@@ -1,10 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**88 jobs**, newest first. Updated Mon Nov 23, 5:16 AM CST from 12,580 company job boards and other sources.
+**88 jobs**, newest first. Updated Mon Nov 23, 6:27 AM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 113 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,763 matching jobs that job sites and feeds listed this week, 1,314 (34%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (21)](#monday-nov-16-21)
 
@@ -131,13 +133,14 @@ Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Sat 21 (1)](#saturday-nov-21-1) · [
 | 8:59 AM | [Senior Application Software Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349266) | Oracle | United States | 40 | 4+ yrs exp; senior title; requires Java |
 | 7:28 AM | [1000000554.SOFTWARE ENGINEER II.INFO TECH - APPLICATIONS](https://fa-etvc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/26000592) | Dallas County | Dallas, TX, United States | 40 | 3+ yrs exp; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (78)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (77)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Senior API Automation Engineer](https://careers.quality-ai.com/job/Bangalore-Senior-API-Automation-Engineer-560045/61754244/) | Qualitest |  | 25 | rules: 6+ yrs exp; senior title; location unclear; requires Java; ask… |
+| 6:04 AM | [Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801019) | JP Morgan Chase | Houston, TX, United States | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:05 AM | [Senior Software Engineer, Risk](https://jobs.ashbyhq.com/airwallex/17b6135f-19e3-4182-ba3c-313e2555d1c2) | Airwallex | US - Seattle (remote) | 27 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 6:53 PM | [Integration Engineer](https://job-boards.greenhouse.io/oddball/jobs/8213812003) | Oddball | Remote (remote) | 47 | rules: requires Java; needs: security clearance |
 | 6:28 PM | [Software Engineer - Dealer Network & Employee Engagement](https://ford.eightfold.ai/careers/job/563568453660332) | Ford | Dearborn, MI, US +1 more (onsite) | 35 | rules: 7+ yrs exp; requires Java; asks for 7+ years of experience |
@@ -209,8 +212,6 @@ Jump to: [Sun 22 (1)](#sunday-nov-22-1) · [Sat 21 (1)](#saturday-nov-21-1) · [
 | 12:23 PM | [Senior Java Application Developer](https://job-boards.greenhouse.io/devtechnology/jobs/8942249002) | Dev Technology Group | Tysons Corner, VA | 45 | rules: 7+ yrs exp; senior title; needs: Public Trust clearance |
 | date only | [Java Full Stack](https://careers.capgemini.com/job/New-York%2C-NY-Java-Full-Stack-NY-10001/1457787633/) | Capgemini | New York, NY, United States | 38 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 10:39 AM | [Sr. Platform Engineer, Atlassian](https://careers.rivian.com/jobs/36483?lang=en-us) | Rivian | Atlanta, Georgia | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
-| 5:48 AM | [Senior Software Engineer, Backend - Distributed Systems](https://jobs.lever.co/jobgether/cf103b15-8bed-4260-b881-f1639c0a58ba) | Jobgether | US (remote) | 27 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
-| 5:33 AM | [Senior Software Engineer - Managed Services](https://jobs.lever.co/jobgether/07681a3c-f0c2-4e6f-b380-de581c64b867) | Jobgether | US (remote) | 27 | rules: 10+ yrs exp; senior title; requires Java; asks for 10+ years o… |
 | 11:00 PM | [Software Development Engineer](https://careers-berkley.icims.com/jobs/15313/software-development-engineer/job) | W.R. Berkley | Wilmington, DE, United States | 30 | rules: 5+ yrs exp; requires Java; asks for 5+ years of experience |
 | 1:23 PM | [Senior Software Engineer](https://job-boards.greenhouse.io/natera/jobs/6261258004) | Natera | US Remote (remote) | 15 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
 | 11:57 AM | [Senior Software Development Engineer - Biometrics and Credentials](https://job-boards.greenhouse.io/idme/jobs/8197758003) | ID.me | Mountain View, California, United States | 20 | rules: 6+ yrs exp; senior title; E-Verify; requires Java; asks for 6+… |
