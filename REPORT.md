@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**207 jobs**, newest first. Updated Mon Nov 23, 2:49 PM CST from 12,580 company job boards and other sources.
+**206 jobs**, newest first. Updated Mon Nov 23, 3:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 166 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Mon 23 (24)](#monday-nov-23-24) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (31)](#tuesday-nov-17-31) · [Mon 16 (16)](#monday-nov-16-16)
+Coverage check: of 3,221 matching jobs that job sites and feeds listed this week, 1,630 (50%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Mon 23 (24)](#monday-nov-23-24) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (31)](#tuesday-nov-17-31) · [Mon 16 (15)](#monday-nov-16-15)
 
 ## Monday, Nov 23 (24)
 
@@ -234,7 +236,7 @@ Jump to: [Mon 23 (24)](#monday-nov-23-24) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | 3:00 AM | [Senior Microsoft Infrastructure Administrator](https://jobs.lever.co/jobgether/adece85e-353a-4742-8dee-287d1fce55d5) | Jobgether | US (remote) | 52 | senior title, years not stated |
 | 1:26 AM | [Applied Science Platform Engineer](https://jobs.ashbyhq.com/StandInsurance/98980cc7-8acb-4987-ba81-ca86844e81d8) | Stand Insurance | San Francisco (onsite) | 60 | 3+ yrs exp; no future H-1B sponsorship |
 
-## Monday, Nov 16 (16)
+## Monday, Nov 16 (15)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -253,9 +255,8 @@ Jump to: [Mon 23 (24)](#monday-nov-23-24) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | 3:37 PM (seen) | [Infrastructure Engineer – Data Center (Dallas, TX · Onsite)](https://app.dover.com/apply/itmates/9ea8ebdd-ae42-475d-a750-815bbb069ce4) | Itmates | Dallas, TX (onsite) | 45 | 4+ yrs exp; no future H-1B sponsorship |
 | 3:37 PM (seen) | [MLOps Engineer - Latam](https://app.dover.com/apply/itmates/477d50cc-29da-4b30-8ffe-a7efb6cc4db4) | Itmates | International (remote) | 42 | location unclear |
 | 3:37 PM (seen) | [Site Reliability Engineer (In-Person)](https://app.dover.com/apply/joinrefine/01f87af9-6558-4eb7-b7dc-20834c6b32ae) | Joinrefine | New York City, NY (hybrid) | 55 |  |
-| 2:50 PM | [Software Developer III - Cloud Platform (Back End, Authentication)](https://job-boards.greenhouse.io/nisc/jobs/8394139) | National Information Solution… | Any NISC Location | 55 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (407)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (408)
 
 <details><summary>Show</summary>
 
@@ -286,6 +287,7 @@ Jump to: [Mon 23 (24)](#monday-nov-23-24) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | date only | [SR DIR Enterprise Infrastructure Engineering](https://internaljobs.centurylink.com/job/Remote-SR-DIR-Enterprise-Infrastructure-Engineering/1453125700/) | CenturyLink | Remote, United States | 45 | rules: 15+ yrs exp; senior title; needs: Must be a U.S. Citizen |
 | date only | [Cloud Hardware Development Engineer, AWS Networking Interconnects Team](https://www.amazon.jobs/en/jobs/10612057/cloud-hardware-development-engineer-aws-networking-interconnects-team) | Amazon Data Services, Inc. | Cupertino, California, USA | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Senior AI Development Platform Engineer](https://morganstanley.eightfold.ai/careers/job/549801310855) | Morganstanley | Alpharetta, GA, US (onsite) | 50 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
+| date only | [Systems Development Engineer - Ground Infrastructure, Amazon Leo](https://www.amazon.jobs/en/jobs/10612137/systems-development-engineer-ground-infrastructure-amazon-leo) | Amazon Kuiper Manufacturing E… | Bellevue, Washington, USA | 65 | rules: needs: must be a U.S. citizen |
 | 10:47 AM | [Senior AI Forward Deployment Engineer](https://job-boards.greenhouse.io/armada/jobs/5477587008) | Armada | Bellevue Office, Sunset Corporate Campus | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 10:46 AM | [DevOps Engineer](https://jobs.workable.com/view/hPeDo66cCm2VZcYTgjYERe/remote-devops-engineer-in-united-states-at-katmai) | Katmai | Remote, US (remote) | 62 | rules: needs: U.S. Citizenship required |
 | 10:33 AM | [Sr. Platform Engineer - Data Infrastructure](https://jobs.ashbyhq.com/weave/841df1d3-5de6-4099-88c7-6d358fa36dfc) | Weave | Weave - Headquarters (Lehi, UT) (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
@@ -660,7 +662,6 @@ Jump to: [Mon 23 (24)](#monday-nov-23-24) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | 12:00 AM | [Senior Cloud Engineer (Azure/Terraform)](https://jobs.dayforcehcm.com/en-US/builders/candidateportal/jobs/238014) | Builders | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:00 PM | [Linux Systems Engineer](https://everwatch-everwatchsolutions.icims.com/jobs/3702/linux-systems-engineer/job) | Everwatch | Annapolis Junction, MD, United States | 30 | rules: 12+ yrs exp; needs: TS/SCI clearance |
 | 11:00 PM | [Sr Reliability Engineer](https://uscareers-waters.icims.com/jobs/28924/sr-reliability-engineer/job) | Waters Corporation | Milford, MA, United States | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 5:55 PM | [Systems Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbabd1ae-568b-4f70-933b-3f462f76c1b5&ccId=19000101_000001&jobId=9201523121233_12&lang=en_US) | Cbabd1Ae 568B 4F70 933B 3F462… | East Syracuse, NY | 48 | rules: 2+ yrs exp; needs: Security Clearance |
 
 </details>
 
