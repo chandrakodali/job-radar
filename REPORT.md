@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**219 jobs**, newest first. Updated Mon Nov 23, 7:22 AM CST from 12,580 company job boards and other sources.
+**219 jobs**, newest first. Updated Mon Nov 23, 7:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 139 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,083 matching jobs that job sites and feeds listed this week, 1,528 (49%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (45)](#thursday-nov-19-45) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (44)](#monday-nov-16-44)
 
@@ -277,6 +279,7 @@ Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (3)](#sunday-nov-22-3) · [Sa
 | date only | [Senior DevOps Engineer](https://nvidia.eightfold.ai/careers/job/893398162589) | Nvidia | IN (remote) | 32 | rules: 8+ yrs exp; senior title; location unclear; asks for 8+ years … |
 | 7:01 AM | [Senior Cloud Engineer, Cloud Platform (Azure)](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/50341) | Citizens Financial Group | United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 6:52 AM | [Senior Platform Engineer](https://job-boards.greenhouse.io/leap46/jobs/4518571009) | Leap46 | Remote (remote) | 37 | rules: 7+ yrs exp; senior title; location unclear; asks for 7+ years … |
+| 11:00 PM | [Systems Administrator II](https://careers-scires.icims.com/jobs/12066/systems-administrator-ii/job) | Scientific Research Corporati… | North Charleston, SC, United States | 45 | rules: needs: SECURITY CLEARANCE |
 | 9:04 PM | [Site Reliability Engineer](https://job-boards.greenhouse.io/gusto/jobs/8394537) | Gusto | Denver, CO - Hybrid; San Francisco, CA … (hybrid) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 8:12 PM | [Senior Software Engineer, Core Infrastructure](https://jobs.lever.co/jobgether/10d27507-eb58-4dce-8078-b02bcef33c63) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | date only | [Reliability Engineer Level 2](https://ngc.eightfold.ai/careers/job/1340075476884) | Ngc | Chandler, AZ, US (onsite) | 53 | rules: 0-2 yrs exp; needs: security clearance |
@@ -670,7 +673,6 @@ Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (3)](#sunday-nov-22-3) · [Sa
 | 9:07 AM (seen) | [Software Engineer, Infrastructure (C++)](https://app.dover.com/apply/fabri-usa/b87c78ba-9d17-47da-a822-259b1549798f) | Fabri Usa | Billerica, MA (onsite) | 45 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: ITAR |
 | 8:51 AM | [Database Platform Engineer](https://jobs.lever.co/jobgether/41c2eaaf-fd24-4d0f-9938-9b97d6cb238c) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:47 AM | [Senior DataOps Engineer](https://job-boards.greenhouse.io/scoutmotors/jobs/5292680007) | Scout Motors | United States (remote) | 42 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| 7:14 AM | [IT Infrastructure Engineer](https://jobs.lever.co/jobgether/14040680-3949-47cf-b666-01b3ec6f2f3b) | Jobgether | US (remote) | 37 | rules: 7+ yrs exp; no future H-1B sponsorship; asks for 7+ years of e… |
 | 12:00 AM | [Senior Cloud Engineer (Azure/Terraform)](https://jobs.dayforcehcm.com/en-US/builders/candidateportal/jobs/238014) | Builders | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:00 PM | [Platform Engineer](https://arc-onesolutions.icims.com/jobs/17276/platform-engineer/job) | ARC-One Solutions | United States | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 
