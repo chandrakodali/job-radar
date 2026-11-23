@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**406 jobs**, newest first. Updated Mon Nov 23, 1:20 PM CST from 12,535 company job boards and other sources.
+**405 jobs**, newest first. Updated Mon Nov 23, 1:40 PM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 177 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,924 matching jobs that job sites and feeds listed this week, 996 (20%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Mon 23 (42)](#monday-nov-23-42) · [Sun 22 (16)](#sunday-nov-22-16) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (80)](#friday-nov-20-80) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (70)](#tuesday-nov-17-70) · [Mon 16 (31)](#monday-nov-16-31)
+Jump to: [Mon 23 (42)](#monday-nov-23-42) · [Sun 22 (16)](#sunday-nov-22-16) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (80)](#friday-nov-20-80) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (70)](#tuesday-nov-17-70) · [Mon 16 (30)](#monday-nov-16-30)
 
 ## Monday, Nov 23 (42)
 
@@ -420,7 +418,7 @@ Jump to: [Mon 23 (42)](#monday-nov-23-42) · [Sun 22 (16)](#sunday-nov-22-16) ·
 | 2:23 AM | [Machine Learning Engineer](https://jobs.lever.co/jobgether/14392006-a041-4d52-a5fa-236149b99477) | Jobgether | US (remote) | 72 | 1+ yrs exp |
 | 1:46 AM | [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://jobs.lever.co/jobgether/f4b092a6-63f4-4209-897e-eb386e4aa422) | Jobgether | US (remote) | 72 | entry-level title |
 
-## Monday, Nov 16 (31)
+## Monday, Nov 16 (30)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -454,7 +452,6 @@ Jump to: [Mon 23 (42)](#monday-nov-23-42) · [Sun 22 (16)](#sunday-nov-22-16) ·
 | 2:28 PM | [Backend Engineer - Connectivity](https://job-boards.greenhouse.io/verkada/jobs/5296748007) | Verkada | San Mateo, CA United States | 85 | 1+ yrs exp; priority company |
 | 1:46 PM | [AI Deployment Analyst](https://jobs.ashbyhq.com/silnahealth.com/61222b3c-70fd-4e80-8903-468d96070833) | Silna Health | NYC | 75 | entry level (from the text) |
 | 1:43 PM | [Jr. Forward Deployed Software Engineer - (VA)](https://jobs.lever.co/crosscountry-consulting/80bd96d8-b824-40ef-9cfe-01860583c4fe) | CrossCountry Consulting | McLean, VA +1 more (hybrid) | 85 | entry-level title; 0-2 yrs exp; staffing/consulting firm: verify it's… |
-| 1:37 PM | [Automation Scientist](https://jobs.smartrecruiters.com/Eurofins/744000161898430-automation-scientist) | Eurofins | West Point, PA, United States | 75 | 1+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1584)
 
