@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**218 jobs**, newest first. Updated Sun Nov 22, 7:49 PM CST from 12,580 company job boards and other sources.
+**219 jobs**, newest first. Updated Sun Nov 22, 8:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 155 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (1)](#sunday-nov-15-1)
+Coverage check: of 2,853 matching jobs that job sites and feeds listed this week, 1,361 (47%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (45)](#friday-nov-20-45) · [Thu 19 (45)](#thursday-nov-19-45) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (33)](#tuesday-nov-17-33) · [Mon 16 (47)](#monday-nov-16-47) · [Sun 15 (1)](#sunday-nov-15-1)
 
 ## Sunday, Nov 22 (3)
 
@@ -73,7 +75,7 @@ Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | 12:37 AM (seen) | [Systems Reliability Engineer II- Technical Support, Virtualization, L…](https://jobs.jobvite.com/nutanix/job/o2kQzfwv) | Nutanix |  | 35 | 4+ yrs exp; location unclear |
 | 12:00 AM | [Senior Platform Security Engineer](https://weworkremotely.com/remote-jobs/discord-senior-platform-security-engineer) | Discord | Remote, US (Anywhere in the World) (remote) | 52 | senior title, years not stated |
 
-## Thursday, Nov 19 (44)
+## Thursday, Nov 19 (45)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -109,6 +111,7 @@ Jump to: [Sun 22 (3)](#sunday-nov-22-3) · [Sat 21 (2)](#saturday-nov-21-2) · [
 | date only | [Linux/HPC System Administrator](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Linux-HPC-System-Administrator_423455) | Argonne National Laboratory | Lemont, IL USA | 58 | 2+ yrs exp; likely H-1B cap-exempt (verify) |
 | date only | [Cyber Security Engineer II - Platform Security (Infra)](https://careers.tesco.com/cs_CZ/careers/JobDetail/Cyber-Security-Engineer-II-Platform-Security-Infra/221048) | Tesco | Welwyn Garden City, Spojené království … | 48 | location unclear |
 | date only | [Emulation Front-End Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893396961732) | Nvidia | Santa Clara, CA, US (onsite) | 53 | 3+ yrs exp |
+| date only | [Event Tech Ops Engineer](https://nvidia.eightfold.ai/careers/job/893398234102) | Nvidia | Santa Clara, CA, US (onsite) | 33 | 4+ yrs exp |
 | 10:58 AM | [Infrastructure Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016565) | American Express | Phoenix, AZ, United States (hybrid) | 60 | 4+ yrs exp |
 | 10:07 AM (seen) | [Cloud SysAdmin](https://donweb.zohorecruit.com/jobs/Careers/694925000009769001/Cloud-SysAdmin) | Donweb |  (remote) | 27 | location unclear |
 | 9:54 AM | [Senior Site Reliability Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200694762/senior-site-reliability-engineer-infrastructure-services) | Apple | United States of America | 55 | senior title, years not stated |
