@@ -1,14 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**87 jobs**, newest first. Updated Tue Nov 24, 10:57 AM CST from 12,535 company job boards and other sources.
+**80 jobs**, newest first. Updated Tue Nov 24, 11:09 AM CST from 12,580 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 163 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,084 matching jobs that job sites and feeds listed this week, 1,679 (41%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (16)](#monday-nov-23-16) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (14)](#tuesday-nov-17-14)
+Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (16)](#monday-nov-23-16) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (7)](#tuesday-nov-17-7)
 
 ## Tuesday, Nov 24 (7)
 
@@ -118,7 +116,7 @@ Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (16)](#monday-nov-23-16) · 
 | 10:00 AM | [SEO Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805) | Treatwell | Remote, US (remote) | 40 | requires Java |
 | 6:08 AM | [Senior Software Engineer - Go SDK - Language Clients](https://jobs.ashbyhq.com/clickhouse/cd764fbe-9455-4d9c-84ee-837b63c1d32d) | ClickHouse | New York; Detroit; Chicago; Atlanta; Bo… (remote) | 37 | senior title, years not stated; requires Java |
 
-## Tuesday, Nov 17 (14)
+## Tuesday, Nov 17 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -129,13 +127,6 @@ Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (16)](#monday-nov-23-16) · 
 | 12:50 PM (seen) | [Enterprise Software Engineer APIs Java REST](https://careers.eriasventures.com/careers/89065-Erias-Ventures/jobs/16874389-Enterprise--Software-Engineer--APIs-Java-REST/) | Erias |  | 45 | location unclear |
 | 12:50 PM (seen) | [Enterprise Software Engineer Java REST Linux](https://careers.eriasventures.com/careers/89065-Erias-Ventures/jobs/16874385-Enterprise--Software-Engineer--Java-REST-Linux/) | Erias |  | 45 | location unclear |
 | 12:50 PM (seen) | [Enterprise Software Engineer Java OOP Linux](https://careers.eriasventures.com/careers/89065-Erias-Ventures/jobs/16874384-Enterprise--Software-Engineer--Java-OOP-Linux/) | Erias |  | 45 | location unclear |
-| 11:04 AM | [Senior Software Engineer, Data Platform](https://www.okta.com/company/careers/opportunity/8384001?gh_jid=8384001) | Okta | Bellevue, WA, United States | 45 | 4+ yrs exp; senior title; requires Java |
-| date only | [Junior Java Developer](https://mgl.avature.net/internalcareers/JobDetail/Junior-Java-Developer/24252) | Mgl Avature Net |  | 70 | entry-level title; location unclear |
-| date only | [Software Engineer](https://hp.eightfold.ai/careers/job/44925799) | Hp | Austin, TX, US (onsite) | 45 | 3+ yrs exp; requires Java |
-| date only | [Software Engineer (Back-end)](https://careers.cisco.com/global/en/job/CISCISGLOBAL2031561EXTERNALENGLOBAL) | Cisco | Boulder, Colorado, United States of Ame… | 40 | 3+ yrs exp; requires Java |
-| date only | [Java Full Stack Developer - Dallas, TX](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26868) | Photon | United States | 65 |  |
-| date only | [Sr. JAVA Engineer](https://careers.capgemini.com/job/Atlanta%2C-GA-Sr_-JAVA-Engineer-GA-30301/1458219133/) | Capgemini | Atlanta, GA, United States | 55 | senior title, years not stated |
-| date only | [Software Engineer II (Full Time) – United States CX Engineering](https://careers.cisco.com/global/en/job/CISCISGLOBAL2032332EXTERNALENGLOBAL) | Cisco | San Jose, California, United States of … | 43 | 0-2 yrs exp; requires Java |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (75)
 
