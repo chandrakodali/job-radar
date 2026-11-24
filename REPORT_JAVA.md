@@ -1,10 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**89 jobs**, newest first. Updated Mon Nov 23, 6:02 PM CST from 12,580 company job boards and other sources.
+**89 jobs**, newest first. Updated Mon Nov 23, 6:53 PM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 155 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,698 matching jobs that job sites and feeds listed this week, 1,433 (38%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (3)](#monday-nov-16-3)
 
@@ -147,6 +149,7 @@ Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [
 | 2:11 PM | [Java developer - Kafka, MQ, FIX, FpML - 15+ Years of experience (Full…](https://jobs.smartrecruiters.com/SyncreonConsulting/744000163312599-java-developer-kafka-mq-fix-fpml-15-years-of-experience-full-time-) | Syncreon Consulting | New York, NY, United States | 40 | rules: 10+ yrs exp; staffing/consulting firm: verify it's real; asks … |
 | date only | [Senior API Automation Engineer](https://careers.quality-ai.com/job/Bangalore-Senior-API-Automation-Engineer-560045/61754244/) | Qualitest |  | 25 | rules: 6+ yrs exp; senior title; location unclear; requires Java; ask… |
 | date only | [Full Stack Java Developer - Credit Risk - Markets Technology AVP](https://citi.eightfold.ai/careers/job/859038921233) | Citi | Rutherford, NJ, US (hybrid) | 50 | rules: 7+ yrs exp; asks for 7+ years of experience |
+| date only | [Applications Development Sr Programmer Analyst](https://citi.eightfold.ai/careers/job/859038849447) | Citi | Irving, TX, US (hybrid) | 28 | rules: 8+ yrs exp; senior title; requires Java; asks for 8+ years of … |
 | 10:33 AM | [Sr. Platform Engineer - Data Infrastructure](https://jobs.ashbyhq.com/weave/841df1d3-5de6-4099-88c7-6d358fa36dfc) | Weave | Weave - Headquarters (Lehi, UT) (remote) | 27 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 10:02 AM | [Senior Software Engineer, Platform](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351064) | Oracle | Nashville, TN, United States | 25 | rules: 8+ yrs exp; senior title; requires Java; asks for 8+ years of … |
 | 10:02 AM | [Senior Software Engineer, Core Infrastructure](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351067) | Oracle | Nashville, TN, United States | 25 | rules: 8+ yrs exp; senior title; requires Java; asks for 8+ years of … |
@@ -198,7 +201,6 @@ Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [
 | 5:54 PM | [Developer/Programmer Analyst - Hybrid/Onsite – Austin, TX](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4c9a1f1d-ff7a-41e9-9b4a-aecb5ca84ec4&ccId=19000101_000001&jobId=9201697189343_34&lang=en_US) | 4C9A1F1D Ff7A 41E9 9B4A Aecb5… | Falls Church, VA | 23 | rules: 8+ yrs exp; requires Java; asks for 8+ years of experience |
 | 3:35 PM | [Sr Software Engineer I](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010196) | American Express | Phoenix, AZ, United States (hybrid) | 45 | rules: entry-level title; 8+ yrs exp; senior title; requires Java; as… |
 | 12:26 PM | [Software Engineer II - Java Fullstack / AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805861) | JP Morgan Chase | Austin, TX, United States | 70 | rules: 2+ yrs exp; needs: Security Clearance |
-| date only | [Sr. Backend Software Engineer (San Diego)](https://carlsmed.bamboohr.com/careers/267) | Carlsmed | Carlsbad, California | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | date only | [Platform Engineer (KBase Project)](https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107918&lang=en) | Lawrence Berkeley National La… |  | 28 | rules: 5+ yrs exp; likely H-1B cap-exempt (verify); requires Java; as… |
 | date only | [US E GPS Consulting Services GPS HST Java Software Engineer III, Cust…](https://apply.deloitte.com/en_US/careers/JobDetail/Full-Stack-Java-Software-Engineer/375691) | Deloitte US |  | 33 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | date only | [Software Engineer Expert](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Software-Engineer-Expert_R36733) | Allstate Insurance Company | USA - IL (Remote) (remote) | 10 | rules: 7+ yrs exp; no future H-1B sponsorship; requires Java; asks fo… |
