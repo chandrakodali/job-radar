@@ -1,12 +1,14 @@
 # OT Network Engineer jobs in the US: posted in the last 7 days
 
-**15 jobs**, newest first. Updated Tue Nov 24, 10:43 AM CST from 12,580 company job boards.
+**13 jobs**, newest first. Updated Tue Nov 24, 1:01 PM CST from 12,535 company job boards.
 
 US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and OT security roles; controls, automation or network titles only when the job is about networks in an OT/industrial setting). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 2 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (2)](#tuesday-nov-24-2) · [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (2)](#tuesday-nov-17-2)
+Coverage check: of 696 matching jobs that job sites and feeds listed this week, 250 (35%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Tue 24 (2)](#tuesday-nov-24-2) · [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (2)](#wednesday-nov-18-2)
 
 ## Tuesday, Nov 24 (2)
 
@@ -40,13 +42,6 @@ Jump to: [Tue 24 (2)](#tuesday-nov-24-2) · [Fri 20 (6)](#friday-nov-20-6) · [T
 |---|---|---|---|---:|---|
 | 3:48 PM | [OT Infrastructure Engineer I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4564824) | Enchanted Rock Management LLC | Houston, TX, United States | 78 | entry-level title; 0-2 yrs exp |
 | 1:57 PM | [Lab IT/OT Systems Administrator - CONTRACT, Cambridge, MA](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=567e686e-7575-49d9-b29f-985e7365f987&ccId=19000101_000001&jobId=9202921583278_1&lang=en_US) | 567E686E 7575 49D9 B29F 985E7… | Cambridge, MA | 53 | 3+ yrs exp |
-
-## Tuesday, Nov 17 (2)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 12:23 PM | [IT Systems Engineer](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7850) | DNV | Austin, TX, United States | 43 | OT network work in the text |
-| 12:14 PM | [SCADA and Protection Engineer](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Testing-and-Protection-Engineer_R1065483-1) | AES | US, Indianapolis, IN | 58 |  |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (24)
 
