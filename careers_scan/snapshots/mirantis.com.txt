@@ -1,4 +1,4 @@
-Introducing Mirantis Agent Platform: Any agent. Under your rules. EXPLORE
+Introducing Prism Agent, now open source: the AI agent that keeps working after the conversation ends. Read the announcement
 Contact Us
 Docs
 Store

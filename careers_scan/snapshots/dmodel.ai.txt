@@ -6,6 +6,13 @@ Alignment is an unsolved problem with enormous stakes. We think that interpretab
 We build RL environments for open-ended interpretability tasks. These environments teach agents how to do cutting-edge research, not how to reward-hack.
 You've already used LLMs trained on our environments. Help us train the next generation.
 Interested in career opportunities? Fill out our Hiring Interest Form
+Open Roles
+Member of Technical Staff
+shaurya's team
+Member of Technical Staff: Alignment
+adi's team
+Member of Technical Staff, Generalist
+dalton's team
 Blog
 Discovering Concept-Editing Algorithms With LLM Agents
 Scherlis and Bishka, et al., July 2026

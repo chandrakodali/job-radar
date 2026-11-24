@@ -57,7 +57,7 @@ Our knowledge, shared
 Visit the blog Visit resource center
 November 20, 2026
 Dispatches from O'Reilly: Inside a software factory
-Go from vibe coding to generating clean, maintainable code
+Go from vibe coding to generating clean, maintainable code.
 Read article
 October 28, 2026
 A JSON schema Is not an AI governance layer

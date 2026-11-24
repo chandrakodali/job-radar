@@ -1,12 +1,3 @@
 New Press Enter: Can AI Do Work Unasked? We measured how much work AI can do on its own and how fast that share is growing.
-Work with us
-Let's build your expert
-Tell us about the model you have in mind and what you've tried so far.
-Our team will be in touch shortly.
-f(x)
-Got it .
-Your note is on its way to our team. Expect a reply from a Feyn engineer
-within two working days: questions, next steps, and whether a specialist
-model is the right move.
-ROUTED → interest@usefeyn.com
-← Back to Feyn
+Your first production model in under 30 minutes
+We'll build it with you live, then open up your Platform access.

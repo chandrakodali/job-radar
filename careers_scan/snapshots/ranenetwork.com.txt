@@ -19,8 +19,52 @@ We invest in corporate social responsibility
 RANE is committed to making a positive difference in the communities in which we live and work. Our aim is to foster collaboration between employees and with our local communities to improve the quality of life in ways that are both good for business and society. Our CSR Committee utilizes agreed-upon guidelines to focus our energies and evaluate our participation in the activities we engage in.
 Open Positions
 Please send your CV along with any other application documents to careers@ranenetwork.com
-RANE Enterprise Account Executive, Risk Intelligence
+Business Development & Client Success Associate, Europe
 Geopolitical risk is now a board-level issue. Tariffs, sanctions, conflict, cyber threats and supply chain disruption hit revenue and operations directly, and many companies are still building the capability to anticipate these risks and respond. RANE gives them that capability: a risk intelligence platform that delivers continuous monitoring, forecasting and analysis, backed by in-house analysts and a global network of experts. Leading corporations and financial institutions rely on RANE to anticipate threats, protect their people and operations, and make better decisions.
+We are looking for an early-career professional to join RANE’s EMEA team as a Business Development & Client Success Associate. This role combines new business development, client success and sales operations, giving you hands-on experience across the full client lifecycle in a growing market.
+You will open conversations with new prospects, help existing clients get more value from RANE, and work alongside experienced Account Executives, Account Managers and analysts. It is an ideal launch point for someone who wants to build a career in enterprise sales and client management while developing real expertise in geopolitics and global risk.
+Why This Role
+• A market with momentum: companies across EMEA face sanctions, tariffs, conflict, regulatory change and supply chain disruption, and are investing in intelligence to stay ahead of them.
+• Exposure to the full commercial cycle, from prospecting and discovery to client success, renewals and expansion, rather than a single narrow task.
+• Learning from RANE’s analysts and experts and from experienced sales leaders, with regular coaching and product training.
+• A clear path to grow into an Account Executive or Account Manager role as you develop.
+• Meaningful work: the intelligence you represent helps organizations protect their people, operations and supply chains.
+What You’ll Do:
+• Outbound Business Development & Lead Generation
+• Prospecting & Outreach: Open new conversations with security, risk, supply chain and strategy leaders across Europe through tailored phone, email and LinkedIn outreach, and book qualified discovery meetings for the sales team.
+• Targeted Prospect Research: Build, clean, and enrich contact and lead lists using LinkedIn Sales Navigator, databases, and market research. Work with RANE’s marketing team to adapt materials and initiatives for the EMEA markets.
+• Value Demonstration: Learn to articulate how RANE’s geopolitical and risk intelligence helps clients anticipate threats and make better decisions, drawing on current events and analyst insights to make your outreach timely and relevant.
+• Pipeline Management: Reliably track and document all contacts, leads, activities, and discovery notes in Salesforce.
+• Client Success & Account Expansion
+• Relationship Building: Establish and nurture strong, long-term relationships with existing enterprise clients within your assigned territory, understanding their unique use cases and roles.
+• Retention & Risk Mitigation: Engage proactively with clients on a regular schedule to monitor account health, address inquiries, and resolve issues ahead of renewals to support strong client retention.
+• Upsell & Cross-Sell: Help identify growth opportunities across client organizations, identifying where additional RANE services, teams or regions could benefit, and support account managers in expansion conversations.
+• Subscriber & Inbound Development: Identify professional subscribers who could benefit from an enterprise relationship, and respond to inbound inquiries to uncover broader needs.
+• Sales Operations Support
+• Salesforce & CRM Management: Keep pipeline data, account mappings and forecast records accurate in Salesforce, the foundation for reliable revenue planning.
+• Deal Support: Work alongside Account Executives across the sales cycle, helping prepare meetings, proposals and follow-ups, and learning how enterprise deals come together.
+• Market & Account Intelligence: Conduct customer, industry, and territory analyses to identify emerging trends and growth opportunities.
+What You Bring:
+• Experience: 1–3 years in business development, client success, account management or another client-facing role, ideally in B2B SaaS, information services, risk intelligence, financial services or legal/regulatory. Experience with digital marketing a plus. Recent graduates with relevant internship experience are also encouraged to apply.
+• Resilience & Drive: Comfortable and energized by a high-activity environment involving proactive outreach, phone calls, and email campaigns daily.
+• CRM & Research Tools: Familiarity with Salesforce and LinkedIn Sales Navigator, or similar tools, for list building, research and activity tracking.
+• Consultative Communication: Exceptional interpersonal, written, and presentation skills with a proven ability to conduct discovery, overcome objections, and articulate complex solutions.
+• Analytical & Strategic Mindset: Ability to map accounts, conduct market/client research, and plan strategies that align with growth and retention targets.
+• Adaptable & Collaborative: A self-motivated team player who works well across functions and time zones and welcomes coaching and continuous learning.
+• Interest in Global Affairs: Genuine curiosity about geopolitics, international business and how world events affect organizations.
+• Languages: Fluent English required; additional European languages are a strong plus.
+Compensation, Location, Eligibility and Process:
+• Compensation: base salary of £35k–£42k ($45k–$56k), an uncapped commission structure and paid time off.
+• Location: this is a fully remote role open exclusively to candidates based in the United Kingdom. Occasional travel may be required for client meetings and conferences, typically consisting of same-day or single-overnight trips.
+• Eligibility: candidate must be based in the United Kingdom.
+• Interview Process: an introductory call, interviews with sales leadership, a deal presentation or role-play, and a conversation with a member of the executive team.
+To apply, please email careers@ranenetwork.com with a copy of your resume.
+At RANE, we believe a fulfilling career should complement not compete with life outside of work. That’s why we’ve built a culture rooted in inclusion, trust, and flexibility, recognizing that personal responsibilities and professional goals often go hand in hand.
+We support our team with the resources, understanding, and autonomy they need to thrive on their own terms. Whether managing a busy home life or navigating life’s many demands, our people never have to choose between showing up for their lives and succeeding in their careers.
+At RANE, we make it possible to grow, contribute, and lead while living a life that works for you.
+We are an equal opportunity employer and value diversity at RANE. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+We will ensure that individuals with disabilities are provided a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request an accommodation.
+RANE Enterprise Account Executive, Risk Intelligence
 We are hiring an Enterprise Account Executive to grow RANE’s footprint with Fortune 2000 organizations across the U.S. and Canada. You will sell our intelligence platform and advisory services to the leaders responsible for security, threat intelligence, supply chain, enterprise risk and strategy, at a time when demand for what we do is accelerating. This role is for a seller who wants to own a territory, run consultative deals end to end, and become fluent in one of the most consequential topics in business.
 Why This Role:
 • A growing market: geopolitical and operational risk has moved from a specialist concern to an executive and board priority, and many organizations are making significant investments in scaling up this capability.
@@ -29,12 +73,10 @@ Why This Role:
 • A weekly Market Insight session in which our analysts flag emerging events that create timely reasons to engage your accounts.
 • A clear path for growth, from enterprise accounts to strategic accounts and sales leadership.
 • An education you won’t get elsewhere: you will become fluent in geopolitics, security and supply chain risk, expertise that is increasingly valued across industries.
-What You’ll Do:
 • Own a territory of named Fortune 2000 accounts in the U.S. and Canada, building and closing new business through the full sales cycle: prospecting, discovery, demos, scoping, proposals, negotiation and close.
 • Lead consultative conversations with security, supply chain, risk and strategy leaders, understanding their exposure and designing solutions that combine RANE’s intelligence subscriptions and advisory services.
 • Bring RANE analysts and subject-matter experts into your deals to demonstrate the depth of our intelligence and build credibility with senior buyers.
 • Run a disciplined pipeline, forecast accurately, and work with sales leadership in weekly reviews on deal strategy, with the goal of meeting and exceeding your quarterly and annual new-business targets.
-What You Bring:
 • 3–5 years of quota-carrying, new-business sales experience, with a consistent track record of meeting or exceeding quota.
 • Experience selling into large enterprises: identifying and engaging multiple stakeholders, navigating procurement, and driving timely purchasing decisions.
 • Skilled in engaging and expanding commercial opportunities within client accounts.
@@ -43,17 +85,10 @@ What You Bring:
 • Exceptional relationship-building skills, able to establish and maintain trust as a valued advisor to clients.
 • Possesses a strategic mindset, with strong analytical capabilities and a history of cultivating long-term client relationships.
 • Genuine intellectual curiosity about geopolitics, global business and how world events affect companies, and a commitment to continuous learning.
-Compensation, Location, Eligibility and Process:
 • Compensation: base salary of $90,000 – $110,000 (based on experience) plus an uncapped commission structure. Full benefits package, including company-sponsored health coverage, dental, vision, a 401(k) plan, and paid time off.
 • Location: this is a fully remote role open to candidates anywhere in the United States. While our sales leadership is based in Boston and New York City, we welcome applicants nationwide. This position requires travel for client meetings and conferences, typically consisting of same-day or single-overnight trips.
 • Eligibility: candidates must be authorized to work in the US without the need for employment-based visa sponsorship now or in the future.
 • Interview process: an introductory call, interviews with sales leadership, a deal presentation or role-play, and a conversation with a member of the executive team.
-To apply, please email careers@ranenetwork.com with a copy of your resume.
-At RANE, we believe a fulfilling career should complement not compete with life outside of work. That’s why we’ve built a culture rooted in inclusion, trust, and flexibility, recognizing that personal responsibilities and professional goals often go hand in hand.
-We support our team with the resources, understanding, and autonomy they need to thrive on their own terms. Whether managing a busy home life or navigating life’s many demands, our people never have to choose between showing up for their lives and succeeding in their careers.
-At RANE, we make it possible to grow, contribute, and lead while living a life that works for you.
-We are an equal opportunity employer and value diversity at RANE. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
-We will ensure that individuals with disabilities are provided a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request an accommodation.
 PLATFORM
 Products
 Risk Intelligence Geopolitical Intelligence Intelligence Briefs Threat Intelligence

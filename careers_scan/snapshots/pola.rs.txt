@@ -4,7 +4,7 @@ View open roles
 Who we are
 We are Polars
 Polars is built on the foundation of a vibrant, active open-source community, and we run the company the same way. We trust talented people to do their best work without unnecessary constraints. Collaboration matters, but we keep meetings to a minimum to protect focus. As Polars and Nanook continue to set a new standard in data processing, we're looking for like-minded people to join us on that journey.
-downloads 940M+
+downloads 950M+
 GitHub stars 40k+
 community members 5,000+
 Our values
@@ -45,12 +45,8 @@ A deeper conversation about your skills, your experience, and how you approach p
 Final conversation
 A final conversation with a founder or department lead to confirm it's the right fit, for both of us.
 Roles
-3 open roles
+1 open role
 Open roles
 Platform Engineer (Rust)
 Amsterdam Hybrid
 View role, Platform Engineer (Rust)
-Software Engineer - Performance
-View role, Software Engineer - Performance
-Software Engineer - Query Engines
-View role, Software Engineer - Query Engines

@@ -59,7 +59,6 @@ Remote, Germany, EMEA
 Staff Software Engineer
 Toronto, Ontario, Canada
 Software Engineer
-Staff Software Engineer, Backend
 Principal Software Engineer, AI Tooling & Adoption
 Staff Software Engineer, Full Stack
 Staff Software Engineer, Fusion Adapters
@@ -143,8 +142,7 @@ Remote, Connecticut, United States, AMER
 Resident Solution Architect
 Lead Technical Instructor
 Sales Department
-Account Executive, Mid-Market (Denver)
-Account Executive, Mid-Market (Oakland)
+Account Executive, Commercial (Denver)
 Senior Sales Engineer, Enterprise
 Business Development Representative (Austin)
 Account Executive, Mid-Market (Austin)
@@ -172,6 +170,10 @@ Account Manager (Denver)
 Account Manager (Oakland)
 Oakland, California, United States; Oakland, California, United States, AMER
 Manager, Technical Enablement
+Account Executive, Mid-Market (Denver)
+Account Executive, Mid-Market (Oakland)
+Account Executive, Commercial (Austin)
+Account Executive, Commercial (Oakland)
 Sales/Business Development Team
 Business Development Representative
 Dublin, Dublin, Ireland, EMEA
@@ -186,6 +188,7 @@ Revenue Operations Manager
 Global Head of Deal Strategy and Operations
 Senior Partner Operations Manager
 Remote, Georgia, United States, AMER
+Director, Enterprise Sales Field Operations, Americas
 Systems Engineering Department
 Sr. Staff Technical Product Manager, Customer Support
 Senior Staff Software Engineer

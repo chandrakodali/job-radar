@@ -2,7 +2,7 @@ PRODUCTS
 APIs
 News API
 Clean, enriched, ready-to-use news data
-Web Search Agent
+Agent API
 Find all events that meet your criteria across the web
 News Firehose
 High-volume feed of the full stream of indexed content

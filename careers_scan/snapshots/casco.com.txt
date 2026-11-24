@@ -1,5 +1,5 @@
-Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more →
-Click to read the latest blog post: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x
+Latest: Introducing Casco Cloud Security Read more →
+Click to read the latest blog post: Introducing Casco Cloud Security
 Join Our Mission
 Our mission is to make all software effortlessly secure. We're looking for talented individuals who want to help us build the future of security.
 Get to know our interview process and paid work trial , and read our Series A announcement for more about the company you would be joining.
@@ -20,4 +20,4 @@ Growth • San Francisco, CA • Full-time
 Don't see a perfect fit?
 We're always looking for exceptional talent. Send us your resume and tell us how you can contribute to our mission.
 Get in Touch
-Latest: Casco becomes the First Agentic Pentesting Platform Certified via FedRAMP 20x Read more → Latest CVE alert: CVE-2026-103756
+Latest: Introducing Casco Cloud Security Read more → Latest CVE alert: CVE-2026-123626

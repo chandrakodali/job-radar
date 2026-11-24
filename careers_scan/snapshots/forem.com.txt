@@ -14,82 +14,73 @@ Nov 24
 # career
 # opensource
 # beginners
-38 reactions
-66 comments
+49 reactions
+143 comments
 3 min read
-The Third Cup: After Everything Has a Name
-Connecting coding variables to café regulars
-xulingfeng
-for The Third Cup
-# programming
-# webdev
-54 reactions
-26 comments
-7 min read
 The Third Cup: Change Never Sleeps
 Connecting ancient philosophy to modern IT systems
+xulingfeng
+for The Third Cup
 Nov 23
+# programming
 # management
-110 reactions
-53 comments
+111 reactions
+54 comments
 6 min read
-Rent the Job. Own the Life.
-Brian Tarbox
-for AWS Heroes
-# productivity
-9 reactions
-3 comments
+The Third Cup: After Everything Has a Name
+Connecting coding variables to café regulars
+# webdev
+71 reactions
+29 comments
+7 min read
+Polymaths and Systems Thinkers Will Win the AI Era, and They Were Always the Same Person
+Debashish Ghosal
+# ai
+# systems
+5 reactions
+Add Comment
+9 min read
+13 Years on a Handshake: Sunk Costs, Hope and the Deal I Should Have Walked Away From
+Ionut-Cristian Florescu
+# freelance
+# founders
+17 min read
+Delegation for New Tech Leads: Six Levels of ‘You Own This’
+Muhammad Azlaan Zubair
+# leadership
+# softwareengineering
+1 comment
+The four slots I fill in for $5, and the check I failed to run on myself
+Suki
 4 min read
+Using an AI avatar camera at virtual job fairs and networking events
+赵yj
+# interview
+2 min read
+I Built an AI Tool That Scores Your GitHub, Resume, and Skills Out of 100
+Kartik Shukla
+# showdev
+1 min read
+Will AI Take Your Job? What the Data Actually Says
+Paragon
+for Paragon
+# news
+8 min read
+Engineering Manager Feedback: How to Discuss Performance Beyond the Pull Request
+Action Edge
+3,600 companies are hiring interns right now. Here is who, where and what they pay
+Makerio
+# abotwrotethis
+# jobs
+Lost on YouTube? The Order to Learn AI Engineering
+TechEazy Consulting
+# learning
 Breaking Into Robot Learning: The CPU-First Path, With Receipts (and the 28% Trap)
 Quill Datafix
 # machinelearning
 # robotics
 # tutorial
-Add Comment
 5 min read
-How Long Does It Take to Build a Website? Timelines by Scope for Developers and Freelancers
-Nilesh Sharma
-# freelance
-12 min read
-In the Age of AI, Our Communication Has Become More Rigid, Hasn't It?
-Evgueny lemasovs
-# ai
-# communication
-2 min read
-De la chimie au code : mon parcours dans le développement web
-Anas NSUNGU
-# learning
-2 reactions
-1 comment
-Full Stack ในยุค AI: จาก Frontend–Backend สู่การดูแลทั้งวงจรของปัญหา
-Passakon Puttasuwan
-# softwareengineering
-# fullstack
-1 min read
-How to Interview Users as an Engineer: Ask About the Problem, Not the Feature
-Muhammad Azlaan Zubair
-8 min read
-How Much Kenyan Developers Actually Keep on a $2,000 US Client Invoice (Wise vs. Payoneer vs. SWIFT)
-Ronald
-# kenya
-What I learned interning at Fileverse
-Satvik Singh
-# web3
-# backend
-# ipfs
-How to get every open job from Greenhouse, Lever and Ashby with Python (no login, no scraping of HTML)
-RAKHAT BUGUBAYEV
-# python
-# api
-# datascience
-Manual Git via Excel & 5-Minute WebSphere Boots: The Reality of Legacy Enterprise Java
-Totolis IT
-# watercooler
-# java
-# legacy
-Analisei 1.288 vagas remotas de 14 empresas internacionais: só 16% aceitam quem mora no Brasil
-Smartstackhubpro
-# braziliandevs
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Remembering Steven Schrembeck
 Frontend Isn't Dead. But the Job Title Is Changing
@@ -97,25 +88,25 @@ How to Become a Tech Conference Speaker (And Why You Might Regret It)
 How I Feel about the Grace Hopper Celebration Getting Cancelled
 The Death of Freelance Platforms: Why Upwork & Fiverr Stocks Are Collapsing in the AI Era
 The Quiet Weight of Working in Tech in the AI Era
+Should You Still Learn to Code in 2026? An Honest Take From a Student Who's Still Grinding
 People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?
 Don't Be a Proxy Between Me and Your AI
-Should You Still Learn to Code in 2026? An Honest Take From a Student Who's Still Grinding
-Google's New SDLC Whitepaper: From Vibe Coding to Agentic Engineering
 Salesforce SMTS Interview Experience (Offer Accepted)
 Are we software engineers doomed? Yes, because of AI!
-A Simple Guide to Passing the Claude Certified Developer Exam
 Want to make DEV your full-time job? We're hiring a Community Manager!
+A Simple Guide to Passing the Claude Certified Developer Exam
+Google's New SDLC Whitepaper: From Vibe Coding to Agentic Engineering
 AI Reduced the Cost of Coding. Did It Increase the Cost of Thinking?
 My AI-assisted coding interview was a lesson in reading unfamiliar code
 What an Anthropic hiring manager stopped asking candidates to do
 Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
 The Software Entropy in the AI Era
+No Human Will Ever Write Code Better Than LLMs? Better at What?
 The Ever Changing Profession of Software Engineering
 O Engenheiro de Software com a mentalidade voltada ao produto
-Company career page scraper: every open job from any company, by name or domain
-DevOps / SRE Interview Master Guide
 TopAccess: Freelancer Review
 Emotional Deadlocks: When Two People Wait for Each Other to Change First
+DevOps / SRE Interview Master Guide
 We're a place where coders share, stay up-to-date and grow their careers.
 Log in
 Create account

@@ -46,7 +46,7 @@ Trust & Safety Careers Blog Grants Legal Your Privacy Choices Plugins MCP Learn 
 Image Models
 Seedream 5.0 GPT Image 2.6 FLUX 3 Image Nano Banana 2.1 Krea 3 Qwen Image 3 Explore Image Models
 Video Models
-AI Video Generator Seedance 2.5 MiniMax H3 Max Kling 4.0 FLUX 3 Max Wan 3.0 LTX 2.5 Explore video models PixVerse V6
+AI Video Generator Seedance 2.5 API MiniMax H3 Max Kling 4.0 FLUX 3 Max Wan 3.0 LTX 2.5 Explore video models PixVerse V6
 Labs
 Black Forest Labs Google OpenAI xAI Alibaba Kling ByteDance ElevenLabs
 Playgrounds

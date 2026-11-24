@@ -51,6 +51,20 @@ Our mentors bring first-hand experience from companies and universities such as:
 The companies and institutions mentioned have no institutional affiliation or official partnership with Turing College.
 Graduate in 10 months or less: you set the pace
 With our programme, you have the power to set your own pace. By dedicating 15 hours of focused learning per week, you can graduate in 10 months. The more hours you can dedicate to learning, the faster you’ll graduate.
+Data analytics
+1 month
+2 months
+3 months
+4 months
+5 months
+6 months
+7 months
+8 months
+9 months
+10 months
+11 months
+Average graduation period
+Up to 12 months
 Build a portfolio that proves your skills to employers
 The best way to learn data analytics is through hands-on experience with real data. That’s why you’ll complete 20 projects and one capstone project and build an interview-ready portfolio you can proudly show to potential employers.
 While working on your capstone project, you will:
@@ -88,7 +102,7 @@ Graduates across all our programmes and countries
 A unique learning experience powered by technology
 Online learning is tough when you’re left on your own. That’s why we built Intra, our learning platform that combines the best of both worlds: human support and smart structure. We’ve also built adaptive AI features that personalise your learning even further, so your journey adjusts closely to your pace, needs, and progress.
 Learn more
-Repeatedly recognised 4 years in a row
+Repeatedly recognised 5 years in a row
 Best Data Science Bootcamp, Course Report 2022
 Best Data Science Bootcamp, Course Report 2023
 Best Data Science Bootcamp, Course Report 2024

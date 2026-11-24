@@ -34,22 +34,78 @@ We are remote friendly!
 Our teams are all over the globe
 Open Positions
 See something that interests you? Apply today.
+Security Engineer
+European Union (Remote)
+Full Time
+Security
+The Reality
+We're a ~40 person company with more than 3.5 billion downloads of our open-source cloud-native proxy. Traefik runs in production across financial services, healthcare, retail, transportation, and the public sector, and it ships as the default ingress in several major Kubernetes distributions. Those customers trust us with the traffic that reaches their applications, and they expect us to prove that we deserve it.
+The Role
+Traefik Labs is looking for a vision-driven Security Engineer to shape and lead our entire security and compliance landscape.
+If you thrive on end-to-end ownership in a fast-paced, cloud-native open-source leader, this role is built for you!
+You will champion security and compliance across modern tech stacks (Kubernetes, IaC) while driving key cross-functional impact alongside our Platform, Product, and Sales teams.
+Security at Traefik Labs is built AI-first. You'll design the agents and pipelines that run our security operations end-to-end: triage, detection, reviews, evidence, customer questionnaires. Agents handle the volume. You own the judgment.
+What You'll Actually Do
+Build our security operations AI-first. Design the agents and pipelines that triage every signal reaching us (alerts, scan findings, dependency CVEs, vulnerability reports), with humans deciding what matters.
+Measure and tune that triage. Track false positives and false negatives, review what the AI dismissed, and improve detection over time.
+Scope and drive security scans. Both the external and the internal ones.
+Run our compliance programs. SOC 2, ISO 27001, GDPR and the EU CRA with our DPO, and extend them to AI governance (ISO/IEC 42001, EU AI Act) as our needs grow.
+Handle security incidents and lead their post-mortems.
+Run security awareness.
+Set the device and access policy. Laptops, MDM, VPN.
+Collaborate with the Sales team on customer trust.
+How We Expect You to Use AI
+We use AI heavily, and we have a rule about it. You control the AI, it does not control you. Agents handle the volume, and you own the judgment: you know how to measure what the model gets wrong, and when not to trust it. Never ship its output without verifying it yourself.
+Who Won't Succeed Here
+People who manage compliance in spreadsheets. We want evidence and controls as code.
+People who take AI output on faith. If "the model said so" is your evidence, we'll find out fast.
+Security that only says no. We're a small company that moves fast, and security has to keep up with it.
+Who Will Thrive
+Non-Negotiable Requirements
+Hands-on experience using AI to triage and detect at scale (alerts, scan findings, vulnerability reports, logs), and the judgment to evaluate it: you know how to measure false positives and false negatives, and when not to trust the model.
+A strong passion for automation. You build and maintain evidence and controls as code, rather than managing spreadsheets.
+A solid understanding of cloud and Kubernetes security.
+Pragmatism. You balance security with the speed of a small company.
+Rigor and follow-through.
+Knowledge of GDPR, the EU CRA, NIS 2 and/or DORA.
+Knowledge of SOC 2, FIPS, FedRAMP and/or NIST SP 800.
+Confident English communication with engineers, executives, and auditors. English is our working language.
+Strong Bonus Points
+Experience with a compliance automation tool (Drata or equivalent).
+Experience handling a high volume of inbound security reports, for example vulnerability disclosures on an open-source project or a bug bounty program.
+How We Work
+We run on these, and they show up in how we make decisions:
+Ideas and Facts Compete. Not People & Politics. We debate from first principles, and the best argument wins regardless of who raised it.
+High End-User and Market Quotient. We work backward from the customer and put in real effort to understand their context.
+Play Chess. Not Checkers. We make bold, strategic moves that earn us leverage and compounding advantages.
+Extreme Ownership, becoming a High-Agency Mindset. We get the job done and clear our own roadblocks along the way.
+Radical Candor. No Bullying. No Passive Aggressiveness. Honest feedback, mutual respect, and a high bar held consistently.
+This position also calls for an extreme focus on meeting goals, a strong team spirit, and a willingness to share ideas rather than work in silos. We are fast-growing, but this is just the beginning: we are an industry leader that strives for perfect execution, and we believe the quality of our team is the number one asset of the company.
+Why This Opportunity Is Special
+You own security end-to-end. Operations, compliance, incidents, awareness and customer trust, with no committee sitting between you and the impact.
+You build it AI-first from the start. You design the agents and pipelines, and you decide where human judgment stays.
+Massive OSS reach. More than 3.5 billion downloads and 65K GitHub stars. The security of the open-source project matters to a very large community.
+Cross-functional impact. You work alongside our Platform, Product, and Sales teams.
+Compensation and Logistics
+Competitive base salary and meaningful equity in a company with real fundamentals and real growth.
+Full benefits.
+100% remote, within the European Union.
+A remote-first mindset, with occasional in-person team meetings and possible international travel.
+If you want to own the security of a cloud-native open-source leader, and build it AI-first, let's talk.
+Apply Here
+More Info
 Technical Product Manager
 Worldwide (European Hours Overlap Preferred)
-Full Time
 Product
-The Reality
 We're a ~40 person company with more than 3.5 billion downloads of our open-source cloud-native proxy. Traefik runs in production across financial services, healthcare, retail, transportation, and the public sector, and it ships as the default ingress in several major Kubernetes distributions. We're building partnerships with NVIDIA, Oracle, Nutanix, HPE, SUSE, Microsoft, and more. The market moved toward us this year. Ingress NGINX is deprecated, every enterprise is putting AI into production, and both of those problems land squarely on the connectivity layer we own.
 With all these, product demand is outrunning what the current team can cover. We need another product manager who can hold the line across engineering, sales, marketing, and customers without dropping any of them. The bar is high because the people already doing this work set it high.
 What We're Building
 Traefik Labs builds the connectivity layer for modern infrastructure. It started with Traefik Proxy, the OSS gateway most teams meet first. On top of that sits Traefik Hub: an enterprise API Gateway with security and governance, plus full API Management with developer portals, versioning, and lifecycle controls, all driven by GitOps.
 The newer work is where the pressure is highest. AI Gateway puts guardrails and observability in front of LLM traffic. MCP Gateway governs how AI agents reach the tools and servers they call. We ship air-gapped deployments for regulated environments and zero-egress operations for teams that can't send anything outside their own walls. Global enterprises are deploying it right now, and they expect it to hold.
 If you want to see how we think rather than how we market, read our blog.
-The Role
 You'll join the product team as a peer to other product managers and split the surface area.
 A product manager here is closer to an individual contributor than a coordinator. You'll write the spec and then test the thing you specified. You'll sit in a customer call in the morning, tear down a competitor's gateway in the afternoon, and sketch a mockup that evening because engineering needs to see it before the next standup. The job pulls in several directions at once, on purpose. If that sounds exhausting rather than energizing, this isn't the seat for you.
 We're explicit about one thing. We want a strong practitioner: someone who has shipped real things and still gets close to the work. A purely theoretical product leader will be bored here, and an engineer who treats the roadmap as a place to push personal preferences will clash with the team. Ideas win here on their merit, and they can come from anyone.
-What You'll Actually Do
 Own a slice of the product end-to-end. Decide what gets built and why, write the feature specs, then verify the result against real environments, the way a user would actually hit it.
 Do competitive research with your hands. Stand up the competitor's product, push it until it falls apart, and write down what's actually true. We would rather name a real gap in our own product than invent one in theirs.
 Build and break things yourself. Set up a Kubernetes cluster, deploy and configure the gateway, and reproduce what a customer is hitting. A working prototype beats three paragraphs when you're aligning with engineering.
@@ -58,53 +114,34 @@ Talk to customers directly. Discovery calls, POC check-ins, roadmap conversation
 Shape the roadmap with evidence. Bring the customer signal, the competitive reality, and the technical constraints into the same room, then help decide what's worth doing next.
 Run engineering workshops and review docs. Sit with engineers on design decisions. Read the documentation before it ships and flag any deviations from how the product actually behaves.
 Travel for work that needs a room. Conferences, partner sessions, and a handful of trips across the year.
-How We Expect You to Use AI
 We use AI heavily, and we have a rule about it. You control the AI, it does not control you. Use it to move faster on research, drafts, and analysis. Never ship its output without verifying it yourself. We have lost enough hours to confident wrong answers to know the difference between a tool and a crutch. We want a product manager who uses AI effectively and takes ownership of the result. Forwarding whatever the model said, unchecked, is a risk we screen against.
-Who Won't Succeed Here
 Let's be direct about what doesn't work:
 People who spec but won't build. If you can write a beautiful PRD but can't deploy to Kubernetes or read YAML, you'll stall in the first week.
 The 9-to-5 fit. This is not a clock-in role. We're looking for someone who lives a little with the product, who thinks about it in the shower and tinkers with it on a Sunday because they want to.
 Engineers who use the roadmap to win arguments. Strong technical opinions are welcome. Bring the user and market cases with you, because an opinion without that backing won't move the roadmap here.
 Anyone who needs a finished playbook. The AI gateway space is being defined as we build it. You'll be drawing parts of the map yourself, in territory no one has fully charted.
-People who take AI output on faith. If "the model said so" is your evidence, we'll find out fast.
 The single-lane specialist. One hour it's MCP agent governance, the next it's a blog draft, then a competitive teardown. Context switching is the job itself, and it rarely lets up.
-Who Will Thrive
-Non-Negotiable Requirements
 A real technical background. You may never have carried the PM title, and that's fine. We expect you've earned equivalent ground as a startup CTO, product owner, architect, lead or senior developer, or a project manager who lived close to the build.
 Hands-on Kubernetes, well past "familiar with." You can create a cluster, deploy workloads, debug ingress and RBAC, and reason clearly about what's happening when things misbehave.
 Extreme ownership. When something is broken or unclear, you take it on, find the roadblock, and remove it yourself.
 Honest feedback, both directions. You give it straight and constructively, and you take it without flinching. No politics, no passive aggression. We hold each other to a high bar and expect you to hold us to it too.
 A feel for Day 2. You judge a feature by what it's like to live with once the demo is over. Platform teams are the people who run this in production at 2 am, and we want them to love working with the product so much that they become our champions. If your specs stop at "it works" and skip "it's a pleasure to operate," that's a gap.
 Customer instinct. You work backward from the user's context and keep their perspective in mind while the rest of the company pulls you elsewhere.
-Strong Bonus Points
 You already know Traefik, ideally because you run it. A homelab with Traefik in front of your own services tells us more than any certification.
 You understand the API landscape. Gateways, management, governance, the patterns, and the tradeoffs between them.
 Experience with AI or LLM infrastructure, agents, or MCP.
 Familiarity with air-gapped or regulated environments.
 A track record of writing what practitioners actually read, or of speaking at community events.
 Comfort with GitOps, Helm, and IaC, and the architecture enterprises actually deploy software.
-How We Work
-We run on these, and they show up in how we make decisions:
-Ideas and Facts Compete. Not People & Politics. We debate from first principles, and the best argument wins regardless of who raised it.
-High End-User and Market Quotient. We work backward from the customer and put in real effort to understand their context.
-Play Chess. Not Checkers. We make bold, strategic moves that earn us leverage and compounding advantages.
-Extreme Ownership, becoming a High-Agency Mindset. We get the job done and clear our own roadblocks along the way.
-Radical Candor. No Bullying. No Passive Aggressiveness. Honest feedback, mutual respect, and a high bar held consistently.
 If reading these made you nod, good. If it made you wince, this probably isn't the place.
-Why This Opportunity Is Special
 You help define the connectivity layer for AI while it's still being defined. AI Gateway, MCP Gateway, agent governance. These are open questions in the industry right now, and you'd be shaping the answers.
 Massive OSS reach. More than 3.5 billion downloads and 63K GitHub stars. Many of the people you build for already run Traefik and just need to see what the enterprise layer adds.
 Real influence on a small team. Thirty people. Your decisions reach production fast, with no committee sitting between you and the impact.
 A product team that argues well. You'll work with PMs who hold the bar high and expect you to push back when you're right.
 A genuine connection to the practitioner's roots. We care about the engineers and “homelabbers” who made Traefik what it is, and the PM has a direct hand in keeping that bond honest.
-Compensation and Logistics
-Competitive base salary and meaningful equity in a company with real fundamentals and real growth.
-Full benefits.
 Remote-first. We lean toward candidates who align with European working hours, since much of the product and engineering team is based in the EU.
 The team meets in person regularly, and the role involves travel to conferences, partners, and the occasional customer site. Expect a handful of trips across the year.
 If you've been doing this work without the title, and the idea of owning a piece of the future of networking and AI sounds like the best kind of hard, let's talk.
-Apply Here
-More Info
 EMEA Solutions Architect
 EMEA
 Remote
