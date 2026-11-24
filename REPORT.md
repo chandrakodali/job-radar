@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**196 jobs**, newest first. Updated Tue Nov 24, 12:37 PM CST from 12,535 company job boards and other sources.
+**196 jobs**, newest first. Updated Tue Nov 24, 12:49 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 168 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,268 matching jobs that job sites and feeds listed this week, 1,773 (54%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 24 (18)](#tuesday-nov-24-18) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (42)](#wednesday-nov-18-42) · [Tue 17 (12)](#tuesday-nov-17-12)
 
@@ -246,7 +244,7 @@ Jump to: [Tue 24 (18)](#tuesday-nov-24-18) · [Mon 23 (32)](#monday-nov-23-32) �
 | 1:32 PM | [Software Engineer, Big Data Infrastructure](https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407) | Benchling | San Francisco, CA (hybrid) | 80 | 1+ yrs exp |
 | 1:23 PM | [WGL - Infrastructure & Cybersecurity,  Business Analyst](https://wgl.wd5.myworkdayjobs.com/altagas/job/Springfield-VA/WGL---Infrastructure---Cybersecurity---Business-Analyst_R7209) | AltaGas | Springfield, VA | 58 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (384)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (381)
 
 <details><summary>Show</summary>
 
@@ -603,10 +601,8 @@ Jump to: [Tue 24 (18)](#tuesday-nov-24-18) · [Mon 23 (32)](#monday-nov-23-32) �
 | 1:30 PM | [Senior Network Engineer](https://www.mongodb.com/careers/job/?gh_jid=8396867) | MongoDB | Palo Alto | 30 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 1:15 PM | [Technical Operations Engineer, Revenue](https://stripe.com/jobs/search?gh_jid=8379544) | Stripe | US | 60 | rules: 2+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | 12:47 PM | [Network Engineer](https://job-boards.greenhouse.io/metron/jobs/5298040007) | Metron | Crane, IN | 45 | rules: 3+ yrs exp; needs: security clearance |
-| 12:44 PM | [Cloud Systems Engineer](https://www.netskope.com/company/careers/open-positions/?gh_jid=8396693) | Netskope | United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:43 PM | [Senior Azure Engineer](https://job-boards.greenhouse.io/msfcareers/jobs/5485441008) | Doctors Without Borders | New York, New York, United States | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 12:35 PM | [Technology Support III: Merchants Services Production Engineering](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803897) | JP Morgan Chase | Tampa, FL, United States; Plano, TX, Un… | 45 | rules: 3+ yrs exp; senior title; adjacent title, little DevOps/cloud … |
-| 12:19 PM | [Cloud Security Engineer](https://jobs.ashbyhq.com/trm-labs/1167ee73-5d20-40c0-9f0d-cdf6f1e8988f) | TRM Labs | United States (remote) | 62 | rules: needs: U.S. Citizenship Required |
 | date only | [Senior Azure Infrastructure Engineer](https://apply.workable.com/tomorrow-hire/j/3B87EA976C/) | Tomorrow Hire | Mechanicsville, Virginia, United States… | 28 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
 | date only | [Senior Software Development Engineer, Specialist AI Tooling, AWS Spec…](https://www.amazon.jobs/en/jobs/10607408/senior-software-development-engineer-specialist-ai-tooling-aws-specialist-technology-team-stt) | Amazon Web Services, Inc. | New York, New York, USA | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Sr. Cust. Success Specialist, Security and Observability Customer Suc…](https://www.amazon.jobs/en/jobs/10607429/sr-cust-success-specialist-security-and-observability-customer-success) | Amazon Web Services, Inc. | Bellevue, Washington, USA | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
@@ -620,7 +616,6 @@ Jump to: [Tue 24 (18)](#tuesday-nov-24-18) · [Mon 23 (32)](#monday-nov-23-32) �
 | date only | [Senior Network Engineer](https://assaabloy.jobs2web.com/job/New-Haven-Senior-Network-Engineer-CT-06511/1458220733/) | ASSA ABLOY | New Haven, CT, United States | 28 | rules: senior title, years not stated; adjacent title, little DevOps/… |
 | date only | [Senior Site Reliability Engineer](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Senior-Software-Development-Engineer_R69496-1) | Blue Origin | Greater Seattle Area | 33 | rules: 5+ yrs exp; senior title; needs: Must be a U.S. citizen |
 | date only | [Senior Analyst, AI SOC Observability & Runtime Monitoring](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Canandaigua-New-York/Senior-Analyst--AI-SOC-Observability---Runtime-Monitoring_R-41667-1) | Constellation Brands | Canandaigua, New York; Rochester, New Y… | 33 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 11:00 PM | [Systems Administrator](https://careers-bcore.icims.com/jobs/3331/systems-administrator/job) | Bcore | McLean, VA, United States | 30 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 11:00 PM | [Linux Engineer](https://careers-bcore.icims.com/jobs/3332/linux-engineer/job) | Bcore | McLean, VA, United States | 30 | rules: 11+ yrs exp; asks for 11+ years of experience |
 | 11:00 PM | [System Administrator](https://careers-dminc.icims.com/jobs/29073/system-administrator/job) | DMI | Washington, DC, United States | 45 | rules: 3+ yrs exp; needs: Must be a U.S. Citizen |
 | 11:00 PM | [Kubernetes Engineer](https://everwatch-everwatchsolutions.icims.com/jobs/3768/kubernetes-engineer/job) | Everwatch | Annapolis Junction, MD, United States; … (remote) | 42 | rules: 5+ yrs exp; needs: Secret clearance |
