@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**199 jobs**, newest first. Updated Tue Nov 24, 3:01 AM CST from 12,580 company job boards and other sources.
+**199 jobs**, newest first. Updated Tue Nov 24, 3:07 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 182 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,099 matching jobs that job sites and feeds listed this week, 1,647 (53%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (29)](#tuesday-nov-17-29)
 
@@ -247,7 +249,7 @@ Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (32)](#monday-nov-23-32) · 
 | 7:51 AM | [AWS Software Engineer II - Full Stack/Java/React](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790526) | JP Morgan Chase | Jersey City, NJ, United States | 70 | 2+ yrs exp |
 | 7:35 AM | [Machine Learning Infrastructure Engineer,  Technology](https://boards.greenhouse.io/point72/jobs/8945315002?gh_jid=8945315002) | Point72 | New York, NY | 60 | 3+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (400)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (399)
 
 <details><summary>Show</summary>
 
@@ -633,7 +635,6 @@ Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (32)](#monday-nov-23-32) · 
 | 6:07 AM (seen) | [Technical Support Engineer (SRE)](https://jobs.jobvite.com/nutanix/job/ohorAfwq) | Nutanix |  | 25 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
 | 5:37 AM (seen) | [FinOps Associate](https://tabby.pinpointhq.com/en/postings/a527eaeb-dc9d-488e-af8a-090677dcc8e3) | Tabby | KSA (onsite) | 40 | rules: entry-level title; 3+ yrs exp; location unclear; adjacent titl… |
 | 5:09 AM | [Senior DevOps Engineer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016898476-senior-devops-engineer) | Cityofnewyork | Brooklyn, NY, United States | 50 | rules: 6+ yrs exp; senior title; E-Verify; asks for 6+ years of exper… |
-| 3:48 AM | [Senior Infrastructure Engineer, Infrastructure Integration](https://jobs.lever.co/jobgether/7104d943-10cd-4d2e-a840-bf959e3d7b32) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 11:00 PM | [Senior DevOps Engineer](https://careers-simventions.icims.com/jobs/1669/senior-devops-engineer/job) | SimVentions | Dahlgren, VA, United States (remote) | 42 | rules: 8+ yrs exp; senior title; needs: Secret Clearance |
 | 11:00 PM | [Platform Engineer (AWS / Infra-as-Code)](https://careers-lmi.icims.com/jobs/14589/platform-engineer-%28aws---infra-as-code%29/job) | LMI | Remote, United States | 45 | rules: 6+ yrs exp; needs: security clearance |
 | 11:00 PM | [Network Engineer](https://careers-tatitlek.icims.com/jobs/2865/network-engineer/job) | The Tatitlek Corporation | Washington, United States | 45 | rules: 4+ yrs exp; needs: SECURITY CLEARANCE |
