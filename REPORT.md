@@ -1,17 +1,20 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**196 jobs**, newest first. Updated Tue Nov 24, 12:19 PM CST from 12,580 company job boards and other sources.
+**196 jobs**, newest first. Updated Tue Nov 24, 12:37 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-162 repeat listings (same company and title in another place or on another source) are merged into one row.
+168 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (17)](#tuesday-nov-24-17) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (42)](#wednesday-nov-18-42) · [Tue 17 (13)](#tuesday-nov-17-13)
+Coverage check: of 3,268 matching jobs that job sites and feeds listed this week, 1,773 (54%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Tuesday, Nov 24 (17)
+Jump to: [Tue 24 (18)](#tuesday-nov-24-18) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (42)](#wednesday-nov-18-42) · [Tue 17 (12)](#tuesday-nov-17-12)
+
+## Tuesday, Nov 24 (18)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 12:17 PM | [Senior Software Engineer, Core Infrastructure - Nashville](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351348) | Oracle | Nashville, TN, United States | 55 | 4+ yrs exp; senior title; repost |
 | 12:05 PM | [Site Reliability Specialist II (Linux/AWS/Monitoring)](https://jobs.smartrecruiters.com/Intelerad/744000163523694-site-reliability-specialist-ii-linux-aws-monitoring-) | Intelerad | Remote, UNITED STATES, United States (hybrid) | 60 | 3+ yrs exp; repost |
 | 11:31 AM | [Infrastructure Engineer, Workflow Engine](https://stripe.com/jobs/search?gh_jid=8414532) | Stripe | Seattle, WA | 75 | 2+ yrs exp |
 | 11:28 AM | [Intermediate Network Engineer](https://jobs.lever.co/pingwind/63be007a-0b97-4078-acea-21429d23cf20) | PingWind | Quantico VA (onsite) | 55 |  |
@@ -22,7 +25,7 @@ Jump to: [Tue 24 (17)](#tuesday-nov-24-17) · [Mon 23 (32)](#monday-nov-23-32) �
 | date only | [Sr Network Engineer](https://careers.thehersheycompany.com/job/Hershey-Sr-Network-Engineer-PA-17033/1453449100/) | Hershey | Hershey, PA, US | 45 | 3+ yrs exp; senior title |
 | date only | [Systems Development Engineer, Systems Operations and Scaling, One MHS](https://www.amazon.jobs/en/jobs/10612929/systems-development-engineer-systems-operations-and-scaling-one-mhs) | Amazon.com Services LLC | Nashville, Tennessee, USA | 65 |  |
 | date only | [Site Reliability DevOps Engineer II](https://wilsonhcg.avature.net/ctscareers/JobDetail/United-States-Site-Reliability-DevOps-Engineer-II/182782) | Wilsonhcg Avature Net | United States | 60 |  |
-| 10:30 AM | [Senior Software Engineer, Core Infrastructure (Nashville)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351331) | Oracle | Nashville, TN, United States | 55 | 4+ yrs exp; senior title |
+| date only | [DevOps Engineer -Sr](https://qualcomm.eightfold.ai/careers/job/446721661838) | Qualcomm | Austin, TX, US (onsite) | 75 | 2+ yrs exp; senior title |
 | 9:57 AM | [Sustaining Engineer – Infrastructure Solutions](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286052) | Vertiv | Westerville, OH, United States | 60 | 4+ yrs exp |
 | 8:55 AM | [Founding Platform Engineer](https://jobs.ashbyhq.com/protege/4df379fc-49c6-4695-ab32-721d1663d800) | Protege | Remote (remote) | 62 |  |
 | 5:53 AM | [Google Workspace Deployment Engineer, Contract](https://job-boards.greenhouse.io/66degrees/jobs/6269977004) | 66 Degrees | Remote, United States (remote) | 37 | 3+ yrs exp; no future H-1B sponsorship |
@@ -226,7 +229,7 @@ Jump to: [Tue 24 (17)](#tuesday-nov-24-17) · [Mon 23 (32)](#monday-nov-23-32) �
 | 2:00 AM | [DevOps](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/905) | Eci | Dallas, TX, US; Chicago, IL, US; New Yo… | 65 |  |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 45 | location unclear |
 
-## Tuesday, Nov 17 (13)
+## Tuesday, Nov 17 (12)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -242,9 +245,8 @@ Jump to: [Tue 24 (17)](#tuesday-nov-24-17) · [Mon 23 (32)](#monday-nov-23-32) �
 | 2:51 PM | [Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695356/network-engineer-infrastructure-services) | Apple | United States of America | 65 |  |
 | 1:32 PM | [Software Engineer, Big Data Infrastructure](https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407) | Benchling | San Francisco, CA (hybrid) | 80 | 1+ yrs exp |
 | 1:23 PM | [WGL - Infrastructure & Cybersecurity,  Business Analyst](https://wgl.wd5.myworkdayjobs.com/altagas/job/Springfield-VA/WGL---Infrastructure---Cybersecurity---Business-Analyst_R7209) | AltaGas | Springfield, VA | 58 |  |
-| 12:23 PM | [IT Systems Engineer](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7850) | DNV | Austin, TX, United States | 50 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (383)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (384)
 
 <details><summary>Show</summary>
 
@@ -315,6 +317,7 @@ Jump to: [Tue 24 (17)](#tuesday-nov-24-17) · [Mon 23 (32)](#monday-nov-23-32) �
 | date only | [Senior Delivery Consultant - Migrations, Cloud Platform and Migration…](https://www.amazon.jobs/en/jobs/10612162/senior-delivery-consultant-migrations-cloud-platform-and-migrations-aws-professional-services) | Amazon Web Services, Inc. | Jersey City, New Jersey, USA | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Sr. Cloud FinOps Engineer (Remote)](https://careers.cisco.com/global/en/job/CISCISGLOBAL2028999EXTERNALENGLOBAL) | Cisco | Denver, Colorado, United States of Amer… | 40 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | date only | [Reliability Engineer Level 3](https://ngc.eightfold.ai/careers/job/1340075516260) | Ngc | Chandler, AZ, US (onsite) | 43 | rules: 3+ yrs exp; senior title; needs: security clearance |
+| date only | [ASIC Operations & Reliability Engineer, Silicon, Amazon Leo Supply Ch…](https://www.amazon.jobs/en/jobs/10612277/asic-operations-reliability-engineer-silicon-amazon-leo-supply-chain-procurement) | Amazon Kuiper Manufacturing E… | Sunnyvale, California, USA | 23 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 10:47 AM | [Senior AI Forward Deployment Engineer](https://job-boards.greenhouse.io/armada/jobs/5477587008) | Armada | Bellevue Office, Sunset Corporate Campus | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 10:46 AM | [DevOps Engineer](https://jobs.workable.com/view/hPeDo66cCm2VZcYTgjYERe/remote-devops-engineer-in-united-states-at-katmai) | Katmai | Remote, US (remote) | 62 | rules: needs: U.S. Citizenship required |
 | 10:33 AM | [Sr. Platform Engineer - Data Infrastructure](https://jobs.ashbyhq.com/weave/841df1d3-5de6-4099-88c7-6d358fa36dfc) | Weave | Weave - Headquarters (Lehi, UT) (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
