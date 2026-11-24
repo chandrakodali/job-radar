@@ -1,17 +1,20 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**109 jobs**, newest first. Updated Mon Nov 23, 5:01 PM CST from 12,580 company job boards and other sources.
+**109 jobs**, newest first. Updated Mon Nov 23, 5:56 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 64 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (5)](#monday-nov-16-5)
+Coverage check: of 452 matching jobs that job sites and feeds listed this week, 228 (50%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Monday, Nov 23 (4)
+Jump to: [Mon 23 (5)](#monday-nov-23-5) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (4)](#monday-nov-16-4)
+
+## Monday, Nov 23 (5)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 4:57 PM | [IT Engineer – Information Security](https://job-boards.greenhouse.io/lumosfiber/jobs/5493128008) | Lumos | United States of America (USA), Remote (remote) | 57 | 2+ yrs exp; network work in the text |
 | 2:49 PM (seen) | [Network Engineer I](https://compasshealthnetwork.pinpointhq.com/en/postings/5f216c8a-bb94-4945-8931-965f665364a6) | Compasshealthnetwork | Any Compass Location (remote) | 52 | entry-level title; 3+ yrs exp |
 | 1:24 PM | [Systems Administrator](https://jobs.workable.com/view/pHtBAeZST8CrYb2Z2bqiCM/remote-systems-administrator-in-weston-at-the-recovery-village) | The Recovery Village | Weston, Florida (remote) (remote) | 47 | network work in the text |
 | date only | [Network Deploy Technician, ID Deploy Optical Team](https://www.amazon.jobs/en/jobs/10611849/network-deploy-technician-id-deploy-optical-team) | Amazon Data Services, Inc. | Boardman, Oregon, USA +1 more | 60 | 1+ yrs exp; network work in the text |
@@ -142,7 +145,7 @@ Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (1)](#sunday-nov-22-1) · [Fr
 | date only | [Senior Network Engineer](https://assaabloy.jobs2web.com/job/New-Haven-Senior-Network-Engineer-CT-06511/1458220733/) | ASSA ABLOY | New Haven, CT, United States | 43 | senior title, years not stated |
 | 10:36 AM | [Senior Network Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8948166002) | Atoms | San Francisco, CA | 48 | senior title, years not stated |
 
-## Monday, Nov 16 (5)
+## Monday, Nov 16 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -150,9 +153,8 @@ Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (1)](#sunday-nov-22-1) · [Fr
 | 11:00 PM | [Network Technician Field Operations](https://jobs.dayforcehcm.com/en-US/uniti/CANDIDATEPORTAL/jobs/35654) | Uniti | Cordova, TN, US; Memphis, TN, US | 48 | 4+ yrs exp |
 | 9:58 PM | [Network Infrastructure Engineer](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41673) | Nokia | United States (onsite) | 58 |  |
 | 7:31 PM | [Network Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bf3a746f-34a8-44ce-9a79-b8c51364fc82&ccId=19000101_000001&jobId=9207477663811_1&lang=en_US) | Bf3A746F 34A8 44Ce 9A79 B8C51… | Lawton, OK | 48 | 3+ yrs exp |
-| 5:19 PM | [Optical Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695000/optical-network-engineer-infrastructure-services) | Apple | United States of America | 53 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (217)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (218)
 
 <details><summary>Show</summary>
 
@@ -160,6 +162,7 @@ Jump to: [Mon 23 (4)](#monday-nov-23-4) · [Sun 22 (1)](#sunday-nov-22-1) · [Fr
 |---|---|---|---|---:|---|
 | 6:22 PM | [Infrastructure & Network Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=edbc1146-911e-417e-b53e-c0e2f7d2a0e9&ccId=19000101_000001&jobId=9201323290322_36&lang=en_US) | Edbc1146 911E 417E B53E C0E2F… | Remote, US | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:14 PM | [IT Systems & Network Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e5360e53-0e72-41c4-b1bf-01f1613310c6&ccId=19000101_000003&jobId=9205262159276_11&lang=en_US) | E5360E53 0E72 41C4 B1Bf 01F16… | Arlington, VA | 45 | rules: 5+ yrs exp; needs: security clearance |
+| 5:06 PM | [Network Engineer 3](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005829) | Berkshire Hathaway Energy | Las Vegas, NV, United States (onsite) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 3:36 PM | [Systems Engineer III](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4685314) | ASSURED INFORMATION SECURITY … | Rome, NY, United States | 30 | rules: 5+ yrs exp; senior title; network work in the text; needs: Sec… |
 | 2:57 PM | [NOC Analyst Tier I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d2d1195d-4e18-4381-90b5-d30d98e6e78e&ccId=19000101_000001&jobId=9201602603100_12&lang=en_US) | D2D1195D 4E18 4381 90B5 D30D9… | Strongsville, OH | 75 | rules: 1+ yrs exp; needs: Security Clearance |
 | 2:08 PM | [Senior IT Network Engineer](https://job-boards.greenhouse.io/castelioncorporation/jobs/4519330009) | Castelion | Torrance, CA | 45 | rules: 7+ yrs exp; senior title; needs: security clearance |
