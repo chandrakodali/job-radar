@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**400 jobs**, newest first. Updated Tue Nov 24, 3:24 AM CST from 12,535 company job boards and other sources.
+**399 jobs**, newest first. Updated Tue Nov 24, 3:42 AM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 176 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,653 matching jobs that job sites and feeds listed this week, 958 (20%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (84)](#thursday-nov-19-84) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (66)](#tuesday-nov-17-66)
+Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (84)](#thursday-nov-19-84) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (65)](#tuesday-nov-17-65)
 
 ## Tuesday, Nov 24 (3)
 
@@ -379,7 +377,7 @@ Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · 
 | 1:00 AM | [Scanning Services - Digital Support Specialist I](https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3608) | Anico | League City, TX, US | 85 | entry-level title; 1+ yrs exp |
 | 12:49 AM | [Online Technical Support Engineer -Campus Hire Program](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040677) | Agilent Technologies | US-DE-Wilmington | 75 | entry-level title |
 
-## Tuesday, Nov 17 (66)
+## Tuesday, Nov 17 (65)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -448,7 +446,6 @@ Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · 
 | 8:27 AM | [Systems Operator Administrator](https://cbha.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9031) | Cbha Fa Us2 Oraclecloud Com | Nashville, TN, United States (onsite) | 80 | entry level (from the text) |
 | 8:00 AM | [Technical Services Administrator](https://jobs.dayforcehcm.com/en-US/natus/candidateportal/jobs/3892) | Natus | Middleton, WI, US | 75 | 1+ yrs exp |
 | 5:09 AM | [Production Support Associate](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016898466-production-support-associate) | Cityofnewyork | New York City, NY, United States | 85 | entry-level title; 1+ yrs exp |
-| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Redding Mt Shas…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825956) | Macy's | Redding, CA, United States | 75 | entry-level title |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1543)
 
