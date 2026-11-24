@@ -1,12 +1,10 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**400 jobs**, newest first. Updated Tue Nov 24, 3:19 PM CST from 12,535 company job boards and other sources.
+**400 jobs**, newest first. Updated Tue Nov 24, 3:33 PM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-179 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 5,058 matching jobs that job sites and feeds listed this week, 1,041 (20%) were already found on the employers' own boards; the rest are listed from those sources.
+178 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Jump to: [Tue 24 (40)](#tuesday-nov-24-40) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (84)](#thursday-nov-19-84) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (29)](#tuesday-nov-17-29)
 
@@ -37,7 +35,7 @@ Jump to: [Tue 24 (40)](#tuesday-nov-24-40) · [Mon 23 (65)](#monday-nov-23-65) �
 | date only | [Supply Chain Rotational Graduate Program (Technical)](https://hp.eightfold.ai/careers/job/45722853) | Hp | Spring, TX, US (onsite) | 80 | entry-level title |
 | date only | [AI Engineer/Data Scientist NCG- Bachelor's (Santa Clara, CA)](https://appliedmaterials.eightfold.ai/careers/job/790319630929) | Appliedmaterials | Santa Clara, CA, US (onsite) | 80 | entry level (from the text) |
 | 10:23 AM (seen) | [Service Desk Analyst 3437](https://geniusroad.catsone.com/careers/41437-General/jobs/16871854-Service-Desk-Analyst-3437/) | Geniusroad |  | 70 | 1+ yrs exp; entry level (from the text) |
-| 10:11 AM | [Test Center Administrator (Lexington, MA)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26758) | Pearson | Boston, MA, United States +10 more | 75 | 1+ yrs exp |
+| 10:11 AM | [Test Center Administrator (Lexington, MA)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26758) | Pearson | Boston, MA, United States +9 more | 75 | 1+ yrs exp |
 | 9:46 AM | [Recovery Support Specialist-Full Time Day Shift](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000163492219-recovery-support-specialist-full-time-day-shift) | Northwestern Medicine | DeKalb, IL, United States | 75 | entry level (from the text) |
 | 9:39 AM | [Data Product Analyst](https://jobs.smartrecruiters.com/VusionGroupSA/744000163490029-data-product-analyst-) | Vusion | Dallas, TX, United States (hybrid) | 80 | 1+ yrs exp |
 | 9:23 AM | [Application Engineer I](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162706) | Honeywell | Bentonville, AR, United States | 85 | entry-level title; 1+ yrs exp |
