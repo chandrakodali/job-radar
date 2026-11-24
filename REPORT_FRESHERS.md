@@ -1,18 +1,23 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**399 jobs**, newest first. Updated Tue Nov 24, 3:42 AM CST from 12,580 company job boards and other sources.
+**402 jobs**, newest first. Updated Tue Nov 24, 4:26 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 176 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (84)](#thursday-nov-19-84) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (65)](#tuesday-nov-17-65)
+Coverage check: of 4,653 matching jobs that job sites and feeds listed this week, 958 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Tuesday, Nov 24 (3)
+Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (84)](#thursday-nov-19-84) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (65)](#tuesday-nov-17-65)
+
+## Tuesday, Nov 24 (6)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Data Center Technician, DCC Communities](https://www.amazon.jobs/en/jobs/10612346/data-center-technician-dcc-communities) | Amazon Data Services, Inc. | New Carlisle, Indiana, USA +3 more | 70 | 1+ yrs exp; no future H-1B sponsorship |
+| 4:00 AM | [Data Analyst, Pricing](https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1110) | Ascot | NJ, United States; CHICAGO, IL, United … | 75 | 1+ yrs exp |
+| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Short Pump Town…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827654) | Macy's | Richmond, VA, United States | 75 | entry-level title |
+| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Leawood Town Ce…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827651) | Macy's | Leawood, KS, United States | 75 | entry-level title |
 | 12:17 AM | [Network Administrator I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=eed6fc90-b0ca-441b-8558-06030f35fc20&ccId=19000101_000003&jobId=9201052796263_7&lang=en_US) | Eed6Fc90 B0Ca 441B 8558 06030… | Las Vegas, NV | 85 | entry-level title; 1+ yrs exp |
 | 12:08 AM | [Application Engineer Analytical Instrumentation](https://jobs.smartrecruiters.com/AntonPaar1/744000163386189-application-engineer-analytical-instrumentation) | Anton Paar | Ashland, , United States | 85 | 1+ yrs exp; entry level (from the text); repost |
 
@@ -447,7 +452,7 @@ Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · 
 | 8:00 AM | [Technical Services Administrator](https://jobs.dayforcehcm.com/en-US/natus/candidateportal/jobs/3892) | Natus | Middleton, WI, US | 75 | 1+ yrs exp |
 | 5:09 AM | [Production Support Associate](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016898466-production-support-associate) | Cityofnewyork | New York City, NY, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1543)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1541)
 
 <details><summary>Show</summary>
 
@@ -463,6 +468,7 @@ Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · 
 | date only | [Backend Engineer, AI Expert](https://apply.workable.com/weekday-1/j/1B4ABEC618/) | Weekday AI | United States (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [RF & Channel Emulation Systems Engineer](https://qualcomm.eightfold.ai/careers/job/446718388725) | Qualcomm | Boulder, CO, US (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [AI Forward Deployed Engineer](https://apply.workable.com/tomorrow-hire/j/637DCE96E4/) | Tomorrow Hire | Richmond, Virginia, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 4:22 AM | [Training Program Support Specialist](https://jobs.lever.co/jobgether/fe459d95-adec-4db9-8ae9-739a2de3b0de) | Jobgether | US (remote) | 42 | rules: 10+ yrs exp; needs: security clearance |
 | 3:28 AM | [Salesforce Engineer](https://jobs.lever.co/jobgether/0f950240-e2e6-4218-9a17-7fefa2ddcbff) | Jobgether | US (remote) | 42 | rules: 9+ yrs exp; needs: Public Trust clearance |
 | 2:10 AM | [Azure Cloud Engineer](https://jobs.lever.co/jobgether/f04ae17b-10f5-45f5-870d-ed5006d6d97e) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; needs: Public Trust clearance |
 | 2:05 AM | [Database Administrator](https://jobs.lever.co/jobgether/8732c76b-5b7a-4b02-99b8-05b89fae0283) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; asks for 7+ years of experience |
@@ -852,6 +858,5 @@ Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · 
 | 2:27 PM (seen) | [Data Privacy and Security Specialist](https://app.dover.com/apply/ihealth-and-wellness-foundation-inc/e4f4eb1d-21f0-443b-a6b0-c9654f1d95e5) | Ihealth And Wellness Foundati… | United States; International (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 2:27 PM (seen) | [Health Cloud Infrastructure and Integration Specialist](https://app.dover.com/apply/ihealth-and-wellness-foundation-inc/5f870321-ef28-4e29-877b-af3391ed4972) | Ihealth And Wellness Foundati… | United States; International (remote) | 27 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:27 PM (seen) | [Platform Developer - Remote Volunteer (Scaled rewards and bonus)](https://app.dover.com/apply/ihealth-and-wellness-foundation-inc/6a99fdf3-9748-40b5-960d-490b62133c9c) | Ihealth And Wellness Foundati… | International; United States (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:27 PM (seen) | [QA Engineer  - Remote Volunteer (Scaled rewards and bonus)](https://app.dover.com/apply/ihealth-and-wellness-foundation-inc/e9f689c9-db8c-4205-bd12-bcbce6642ad8) | Ihealth And Wellness Foundati… | United States; International (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
