@@ -1,17 +1,20 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**202 jobs**, newest first. Updated Tue Nov 24, 10:50 AM CST from 12,580 company job boards and other sources.
+**199 jobs**, newest first. Updated Tue Nov 24, 11:07 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 185 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (25)](#tuesday-nov-17-25)
+Coverage check: of 3,260 matching jobs that job sites and feeds listed this week, 1,766 (54%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Tuesday, Nov 24 (10)
+Jump to: [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (31)](#monday-nov-23-31) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (22)](#tuesday-nov-17-22)
+
+## Tuesday, Nov 24 (11)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:05 AM | [Infrastructure Systems Administrator](https://jobs.smartrecruiters.com/Medfar/744000163512571--infrastructure-systems-administrator) | Medfar | Great Neck, New York, United States (hybrid) | 70 |  |
 | date only | [Infrastructure Engineer](https://apply.workable.com/raydar/j/1598342CB0/) | Raydar | San Francisco, California, United States | 65 |  |
 | date only | [Systems Development Engineer , Operations Infrastructure Services](https://www.amazon.jobs/en/jobs/10612558/systems-development-engineer-operations-infrastructure-services) | Amazon.com Services LLC | Nashville, Tennessee, USA | 65 |  |
 | date only | [Sr Network Engineer](https://careers.thehersheycompany.com/job/Hershey-Sr-Network-Engineer-PA-17033/1453449100/) | Hershey | Hershey, PA, US | 45 | 3+ yrs exp; senior title |
@@ -23,7 +26,7 @@ Jump to: [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (32)](#monday-nov-23-32) �
 | 2:37 AM (seen) | [Embedded Linux Engineer (C/C++ & Device Drivers)](https://ats.rippling.com/cintal/jobs/b0852677-39a0-4250-a147-db0ef2c9f0c5) | Cintal | Chillicothe, IL (onsite) | 40 |  |
 | 1:18 AM | [Senior GCP Platform Engineer – FedRAMP / High-Security Environments](https://jobs.lever.co/jobgether/caa9ffeb-4bed-4523-ae80-328dc6debac3) | Jobgether | US (remote) | 52 | senior title, years not stated |
 
-## Monday, Nov 23 (32)
+## Monday, Nov 23 (31)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -41,7 +44,6 @@ Jump to: [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (32)](#monday-nov-23-32) �
 | 12:45 PM | [Research Infrastructure System Administrator](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017041495-research-infrastructure-system-administrator) | Harvard University | Boston, MA, United States (hybrid) | 80 | 2+ yrs exp; no future H-1B sponsorship; likely H-1B cap-exempt (verif… |
 | 12:30 PM | [Cloud Migration Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351151) | Oracle | United States | 60 |  |
 | 12:19 PM | [Senior Systems Development Engineer](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301713) | Dell Technologies | Austin, TX, United States (onsite) | 60 | 3+ yrs exp; senior title |
-| 12:09 PM | [Senior DevOps Engineer](https://jobs.ashbyhq.com/semperis/1b0b20d0-abbb-410a-91b0-923a06160a5c) | Semperis | Toronto; Dallas, TX (hybrid) | 65 | 4+ yrs exp; senior title |
 | 11:58 AM | [Associate Platform Engineer](https://job-boards.greenhouse.io/koddi/jobs/8944760002) | Koddi | Fort Worth, Texas | 75 | entry-level title |
 | 11:00 AM | [Systems Development Engineer](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301710) | Dell Technologies | Austin, TX, United States (onsite) | 60 | 3+ yrs exp |
 | date only | [Cloud Engineer, AI Expert](https://apply.workable.com/weekday-1/j/951BAFA3EA/) | Weekday AI | United States (remote) | 57 | 3+ yrs exp |
@@ -199,9 +201,9 @@ Jump to: [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (32)](#monday-nov-23-32) �
 | 12:34 PM | [Build, Release & Infrastructure Engineer](https://jobs.apple.com/en-us/details/200695030/build-release-infrastructure-engineer) | Apple | United States of America | 65 |  |
 | 11:53 AM | [DevSecOps Developer](https://jobs.workable.com/view/im1NGcf1iKq2sGMGFjPbbY/remote-devsecops-developer-in-plano-at-toyota-tsusho-systems) | Toyota Tsusho Systems | Plano, Texas (remote) (remote) | 62 |  |
 | 11:51 AM | [Site Reliability Engineer — Corporate Email Services](https://jobs.apple.com/en-us/details/200695686/site-reliability-engineer-corporate-email-services) | Apple | United States of America | 65 |  |
-| date only | [Senior Devops Engineer I / Lohit](https://www.metlifecareers.com/en_US/ml/JobDetail/Senior-Devops-Engineer-I-Lohit/21704) | MetLife |  | 60 | entry-level title; senior title, years not stated; location unclear |
 | date only | [Network Engineer (Cisco ISE, Palo Alto, BGP/OSPF)](https://hyundaiautoeveramerica.applytojob.com/apply/bOSkA8wT1E/Network-Engineer-Cisco-ISE-Palo-Alto-BGPOSPF) | Hyundai AutoEver America | Irvine, CA | 50 |  |
 | date only | [Enterprise Infrastructure Engineer](https://www.metlifecareers.com/en_US/ml/JobDetail/Enterprise-Infrastructure-Engineer/21659) | MetLife |  | 60 | location unclear |
+| date only | [Senior Devops Engineer I / Lohit](https://www.metlifecareers.com/en_US/ml/JobDetail/Senior-Devops-Engineer-I-Lohit/21704) | MetLife |  | 60 | entry-level title; senior title, years not stated; location unclear |
 | date only | [DevOps Machine Learning Infrastructure](https://apply.workable.com/syntiant/j/802EC5CBAB/) | Syntiant | Redwood City, California, United States | 65 |  |
 | date only | [Senior Software Reliability Engineer – Splunk Framework & Runtime Ser…](https://careers.cisco.com/global/en/job/CISCISGLOBAL2030555EXTERNALENGLOBAL) | Cisco | Boulder, Colorado, United States of Ame… | 55 | 4+ yrs exp; senior title |
 | date only | [Oracle Cloud HCM HRIS Analyst Sr](https://eney.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1895) | Eney Fa Us2 Oraclecloud Com | United States (remote) | 52 | senior title, years not stated; E-Verify |
@@ -220,7 +222,7 @@ Jump to: [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (32)](#monday-nov-23-32) �
 | 2:00 AM | [DevOps](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/905) | Eci | Dallas, TX, US; Chicago, IL, US; New Yo… | 65 |  |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 45 | location unclear |
 
-## Tuesday, Nov 17 (25)
+## Tuesday, Nov 17 (22)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -234,7 +236,6 @@ Jump to: [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (32)](#monday-nov-23-32) �
 | 4:02 PM | [Software Engineer, Systems and Infrastructure](https://jobs.smartrecruiters.com/LinkedIn3/744000162178160-software-engineer-systems-and-infrastructure-) | LinkedIn | Bellevue, WA, United States (hybrid) | 85 | 1+ yrs exp; E-Verify; repost |
 | 3:28 PM | [Senior Software Engineer, Reliability](https://jobs.ashbyhq.com/temporal/af8d1e25-14b1-476d-a079-0d72cc5fdcd8) | Temporal | United States (Remote) (remote) | 52 | senior title, years not stated |
 | 2:51 PM | [Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695356/network-engineer-infrastructure-services) | Apple | United States of America | 65 |  |
-| 2:14 PM | [Infrastructure Systems Administrator - Great Neck (NY)](https://jobs.smartrecruiters.com/Medfar/744000162160732--infrastructure-systems-administrator-great-neck-ny-) | Medfar | Great Neck, New York, United States (hybrid) | 70 |  |
 | 1:32 PM | [Software Engineer, Big Data Infrastructure](https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407) | Benchling | San Francisco, CA (hybrid) | 80 | 1+ yrs exp |
 | 1:23 PM | [WGL - Infrastructure & Cybersecurity,  Business Analyst](https://wgl.wd5.myworkdayjobs.com/altagas/job/Springfield-VA/WGL---Infrastructure---Cybersecurity---Business-Analyst_R7209) | AltaGas | Springfield, VA | 58 |  |
 | 12:23 PM | [IT Systems Engineer](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7850) | DNV | Austin, TX, United States | 50 |  |
@@ -247,8 +248,6 @@ Jump to: [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (32)](#monday-nov-23-32) �
 | 11:24 AM | [Application Security Engineer (Part time - Friday to Monday)](https://boards.greenhouse.io/bugcrowd/jobs/8396259?gh_jid=8396259) | Bugcrowd | Remote - US (remote) | 62 |  |
 | 11:11 AM | [Oracle Cloud HCM Security Administrator](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73649) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 70 |  |
 | 11:11 AM | [Oracle Cloud HCM Security Administrator](https://ford.eightfold.ai/careers/job/563568454126356) | Ford | Dearborn, MI, US (onsite) | 70 |  |
-| date only | [Systems Development Engineer, DC Robotics, Data Center Robotics](https://www.amazon.jobs/en/jobs/10606820/systems-development-engineer-dc-robotics-data-center-robotics) | Amazon Data Services, Inc. | Seattle, Washington, USA | 60 | 4+ yrs exp |
-| date only | [DevOps Engineer](https://apply.workable.com/raydar/j/F988B64D0D/) | Raydar | New York, New York, United States | 60 | 4+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (387)
 
@@ -257,6 +256,7 @@ Jump to: [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (32)](#monday-nov-23-32) �
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 4:01 PM | [Telemetry Engineer II](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690240) | ACQCENTRIC INC | Huntsville, AL, United States | 40 | rules: 3+ yrs exp; needs: security clearance |
+| date only | [Network Deployment Engineer, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10612860/network-deployment-engineer-amazon-dedicated-cloud-nidd) | Amazon Data Services, Inc. | Broomfield, Colorado, USA | 60 | rules: 1+ yrs exp; needs: security clearance |
 | date only | [Senior Network Engineer - Deployments](https://nvidia.eightfold.ai/careers/job/893397524029) | Nvidia | Yokne'am Illit, North District, IL (onsite) | 30 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | date only | [Senior Platform Engineer](https://apply.workable.com/raydar/j/5441B69193/) | Raydar | New York, New York, United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Azure Data Engineer](https://careers.quest-global.com/global/en/job/QGRQGAGLOBALP124862EXTERNALENGLOBAL) | Quest Global | Indianapolis, Indiana, United States | 45 | rules: 6+ yrs exp; needs: U.S. citizenship is required |
@@ -395,7 +395,6 @@ Jump to: [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (32)](#monday-nov-23-32) �
 | date only | [Dynatrace Senior Consultant – AI Observability](https://arctiq.bamboohr.com/careers/365) | Arctiq | Brentwood, Tennessee, United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior DevOps and Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893398806259) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [System Administrator](https://apply.workable.com/aretum/j/1BB152E3C2/) | Aretum | Baltimore, Maryland, United States | 30 | rules: 8+ yrs exp; needs: Public Trust Clearance |
-| date only | [Network Deployment Engineer, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10610384/network-deployment-engineer-amazon-dedicated-cloud-nidd) | Amazon Data Services, Inc. | Broomfield, Colorado, USA | 60 | rules: 1+ yrs exp; needs: security clearance |
 | date only | [DevOps Engineers](https://arteratechnologies.applytojob.com/apply/9C33Mdrgxl/DevOps-Engineers) | Artera Technologies | Annapolis Junction / Fort Meade, MD | 45 | rules: 8+ yrs exp; needs: Security Clearance |
 | date only | [Cloud Software Engineer](https://jobs.jobvite.com/visionist/job/oeb8AfwR) | Visionist | Columbia, MD, United States; Laurel, MD… | 45 | rules: 6+ yrs exp; needs: security clearance |
 | date only | [Network Engineer](https://morristechnology.bamboohr.com/careers/443) | Morristechnology | Springfield, Illinois | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
