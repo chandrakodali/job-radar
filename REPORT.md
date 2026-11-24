@@ -1,19 +1,22 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**201 jobs**, newest first. Updated Tue Nov 24, 5:49 AM CST from 12,580 company job boards and other sources.
+**202 jobs**, newest first. Updated Tue Nov 24, 6:07 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 180 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (5)](#tuesday-nov-24-5) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (29)](#tuesday-nov-17-29)
+Coverage check: of 3,155 matching jobs that job sites and feeds listed this week, 1,689 (53%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Tuesday, Nov 24 (5)
+Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (29)](#tuesday-nov-17-29)
+
+## Tuesday, Nov 24 (6)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Infrastructure Engineer](https://apply.workable.com/raydar/j/1598342CB0/) | Raydar | San Francisco, California, United States | 65 |  |
 | date only | [Systems Development Engineer , Operations Infrastructure Services](https://www.amazon.jobs/en/jobs/10612558/systems-development-engineer-operations-infrastructure-services) | Amazon.com Services LLC | Nashville, Tennessee, USA | 65 |  |
+| 5:53 AM | [Google Workspace Deployment Engineer, Contract](https://job-boards.greenhouse.io/66degrees/jobs/6269977004) | 66 Degrees | Remote, United States (remote) | 37 | 3+ yrs exp; no future H-1B sponsorship |
 | 4:43 AM | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/rerun/36652f33-61d1-48f6-861c-21c274abc0d2) | Rerun | East Coast, US; Remote Europe; Eastern … (remote) | 62 |  |
 | 2:37 AM (seen) | [Embedded Linux Engineer (C/C++ & Device Drivers)](https://ats.rippling.com/cintal/jobs/b0852677-39a0-4250-a147-db0ef2c9f0c5) | Cintal | Chillicothe, IL (onsite) | 40 |  |
 | 1:18 AM | [Senior GCP Platform Engineer – FedRAMP / High-Security Environments](https://jobs.lever.co/jobgether/caa9ffeb-4bed-4523-ae80-328dc6debac3) | Jobgether | US (remote) | 52 | senior title, years not stated |
