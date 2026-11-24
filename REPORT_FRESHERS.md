@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**399 jobs**, newest first. Updated Tue Nov 24, 1:19 PM CST from 12,535 company job boards and other sources.
+**396 jobs**, newest first. Updated Tue Nov 24, 1:46 PM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 176 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,959 matching jobs that job sites and feeds listed this week, 1,021 (20%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Tue 24 (32)](#tuesday-nov-24-32) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (84)](#thursday-nov-19-84) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (37)](#tuesday-nov-17-37)
+Jump to: [Tue 24 (32)](#tuesday-nov-24-32) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (84)](#thursday-nov-19-84) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (34)](#tuesday-nov-17-34)
 
 ## Tuesday, Nov 24 (32)
 
@@ -407,7 +405,7 @@ Jump to: [Tue 24 (32)](#tuesday-nov-24-32) · [Mon 23 (64)](#monday-nov-23-64) �
 | 1:00 AM | [Scanning Services - Digital Support Specialist I](https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3608) | Anico | League City, TX, US | 85 | entry-level title; 1+ yrs exp |
 | 12:49 AM | [Online Technical Support Engineer -Campus Hire Program](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040677) | Agilent Technologies | US-DE-Wilmington | 75 | entry-level title |
 
-## Tuesday, Nov 17 (37)
+## Tuesday, Nov 17 (34)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -445,9 +443,6 @@ Jump to: [Tue 24 (32)](#tuesday-nov-24-32) · [Mon 23 (64)](#monday-nov-23-64) �
 | 2:24 PM | [Associate, Data & Analytics Developer](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/165185) | Clean Harbors | Norwell, MA, United States | 85 | entry-level title; 0-2 yrs exp |
 | 1:51 PM (seen) | [IT EUX Associate L1 Engineer - Remote US Only](https://bluemantis.pinpointhq.com/en/postings/4a006d51-ea35-42f5-83da-53d8425eb90b) | Bluemantis | Remote (remote) | 62 | entry-level title; 1+ yrs exp; location unclear |
 | 1:46 PM | [Associate Cybersecurity Analyst](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261312) | GM financial | Arlington, TX, United States (hybrid) | 90 | entry-level title; 0-2 yrs exp |
-| 1:43 PM | [Rotational Engineer](https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobs/job/11982) | Ebfr Fa Us2 Oraclecloud Com | Houston, TX, United States; Hanover, MD… | 85 | entry-level title; 0-2 yrs exp |
-| 1:32 PM | [Software Engineer, Big Data Infrastructure](https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407) | Benchling | San Francisco, CA (hybrid) | 80 | 1+ yrs exp |
-| 1:32 PM | [Software Engineer, CDC](https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5) | Benchling | San Francisco, CA (hybrid) | 80 | 1+ yrs exp; repost |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1545)
 
