@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**402 jobs**, newest first. Updated Tue Nov 24, 5:44 AM CST from 12,580 company job boards and other sources.
+**403 jobs**, newest first. Updated Tue Nov 24, 6:49 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 176 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (84)](#thursday-nov-19-84) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (64)](#tuesday-nov-17-64)
+Coverage check: of 4,756 matching jobs that job sites and feeds listed this week, 979 (20%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (66)](#monday-nov-23-66) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (84)](#thursday-nov-19-84) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (64)](#tuesday-nov-17-64)
 
 ## Tuesday, Nov 24 (7)
 
@@ -20,11 +22,12 @@ Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (65)](#monday-nov-23-65) · 
 | 12:17 AM | [Network Administrator I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=eed6fc90-b0ca-441b-8558-06030f35fc20&ccId=19000101_000003&jobId=9201052796263_7&lang=en_US) | Eed6Fc90 B0Ca 441B 8558 06030… | Las Vegas, NV | 85 | entry-level title; 1+ yrs exp |
 | 12:08 AM | [Application Engineer Analytical Instrumentation](https://jobs.smartrecruiters.com/AntonPaar1/744000163386189-application-engineer-analytical-instrumentation) | Anton Paar | Ashland, , United States | 85 | 1+ yrs exp; entry level (from the text); repost |
 
-## Monday, Nov 23 (65)
+## Monday, Nov 23 (66)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:18 PM | [Operations Support Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8765d173-d093-4acc-b89b-cd86baa956b2&ccId=19000101_000001&jobId=9207580816739_53&lang=en_US) | 8765D173 D093 4Acc B89B Cd86B… | Chicago, IL | 75 | 1+ yrs exp |
+| 11:00 PM | [Support Services Associate](https://careers-cooperhealth.icims.com/jobs/88909/support-services-associate/job) | Cooper University Health Care | Camden, NJ, United States | 80 | entry-level title; likely H-1B cap-exempt (verify); repost |
 | 10:14 PM | [Facilities and Site Security Specialist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4228204) | STRIDE Community Health Center | Wheat Ridge, CO, United States | 85 | 1+ yrs exp; entry level (from the text) |
 | 9:48 PM | [Systems Test Engineer I - PCIG Systems](https://bostonscientific.eightfold.ai/careers/job/563602813985296) | Boston Scientific | Maple Grove, MN, US (onsite) | 85 | entry-level title; 0-2 yrs exp; no future H-1B sponsorship |
 | 9:32 PM | [End User Support Specialist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4687621) | Theodore Roosevelt Medora Fou… | Medora, ND, United States | 75 | 1+ yrs exp |
@@ -450,7 +453,7 @@ Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (65)](#monday-nov-23-65) · 
 | 8:27 AM | [Systems Operator Administrator](https://cbha.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9031) | Cbha Fa Us2 Oraclecloud Com | Nashville, TN, United States (onsite) | 80 | entry level (from the text) |
 | 8:00 AM | [Technical Services Administrator](https://jobs.dayforcehcm.com/en-US/natus/candidateportal/jobs/3892) | Natus | Middleton, WI, US | 75 | 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1543)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1541)
 
 <details><summary>Show</summary>
 
@@ -467,6 +470,8 @@ Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (65)](#monday-nov-23-65) · 
 | date only | [RF & Channel Emulation Systems Engineer](https://qualcomm.eightfold.ai/careers/job/446718388725) | Qualcomm | Boulder, CO, US (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [AI Forward Deployed Engineer](https://apply.workable.com/tomorrow-hire/j/637DCE96E4/) | Tomorrow Hire | Richmond, Virginia, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Customer & Technical Support Specialist (Graveyard Coverage)](https://careers.itw.com/global/en/job/ITWITWUSJR11383EXTERNALENUS) | Illinois Tool Works | Vista, California, United States of Ame… | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [24502 - Full Stack Developer](https://careers.quality-ai.com/job/Petach-_-Tikva-24502-Full-Stack-Developer/61802544/) | Qualitest |  | 40 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
+| 6:31 AM | [Engineering Technical Leader - Controls Engineering](https://jobs.smartrecruiters.com/Wabtec/3743990017055146-engineering-technical-leader-controls-engineering) | Wabtec | Erie, PA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:35 AM | [COMPUTER ASSOCIATE (TECHNICAL SUPPORT)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017054541-computer-associate-technical-support-) | Cityofnewyork | New York City, NY, United States | 70 | rules: entry-level title; 4+ yrs exp; asks for 4+ years of experience |
 | 5:34 AM | [IT Security Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017054501-it-security-specialist) | Cityofnewyork | New York City, NY, United States | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 5:11 AM | [SailPoint IAM Engineer](https://jobs.lever.co/jobgether/fa1dd53c-e322-4c05-bfe2-9a663ed3349c) | Jobgether | US (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
@@ -854,7 +859,5 @@ Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (65)](#monday-nov-23-65) · 
 | 2:27 PM (seen) | [Backend Developer (Founding Team)](https://app.dover.com/apply/gradientflo/c4ae1b8f-a0ed-429f-ba27-5fc345135f7c) | Gradientflo | Hyderābād, India; San Francisco, CA (onsite) | 35 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 2:27 PM (seen) | [DevOps Engineer (Founding Team)](https://app.dover.com/apply/gradientflo/1c0df54b-45f7-4dab-ae4d-82fae8dfb04d) | Gradientflo | Hyderābād, India; San Francisco, CA (onsite) | 35 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 2:27 PM (seen) | [Frontend Developer (Founding Team)](https://app.dover.com/apply/gradientflo/591e14cd-e488-4fdf-ab04-a4dd56d3fc37) | Gradientflo | Hyderābād, India; San Francisco, CA (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:27 PM (seen) | [Full Stack Developer (Founding Team)](https://app.dover.com/apply/gradientflo/a5af82ea-7558-40cd-b66f-e65d1c8f00bb) | Gradientflo | Hyderābād, India; San Francisco, CA (onsite) | 35 | rules: 10+ yrs exp; asks for 10+ years of experience |
-| 2:27 PM (seen) | [Full Stack Product Engineer](https://app.dover.com/apply/hellobabs/4732c397-8d02-48af-bf2c-e26394697892) | Hellobabs | San Francisco, CA (onsite) | 55 | rules: 4+ yrs exp; sponsors visas; asks for 4+ years of experience |
 
 </details>
