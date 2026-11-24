@@ -1,6 +1,6 @@
 # Wide sweep summary
 
-Updated 2026-11-23.
+Updated 2026-11-24.
 
 Crawls swept: CC-MAIN-2026-39, CC-MAIN-2026-43.
 
@@ -8,41 +8,41 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 
 ## By tier
 
-- 1: 23431
-- 2: 108117
-- 3: 302749
-- 4: 94506
-- 5: 32337
-- 9: 94154
+- 1: 23174
+- 2: 108197
+- 3: 303006
+- 4: 94528
+- 5: 32344
+- 9: 94045
 
 ## By category
 
-- unknown: 94154
-- ats: 44188
-- blocked: 2795
-- careers_page_unclear: 281562
-- doc: 1303
-- email: 54312
-- external_board: 7275
-- form: 75933
+- unknown: 94045
+- ats: 44201
+- blocked: 2796
+- careers_page_unclear: 281801
+- doc: 1302
+- email: 54273
+- external_board: 7277
+- form: 75796
 - js_only: 461
-- no_careers_page: 43043
-- no_openings: 21187
-- robots_disallowed: 8326
-- unreachable: 20755
+- no_careers_page: 43050
+- no_openings: 21205
+- robots_disallowed: 8329
+- unreachable: 20758
 
 ## By us
 
-- unknown: 94154
-- non_us: 37109
-- unknown: 290915
-- us: 233116
+- unknown: 94045
+- non_us: 37131
+- unknown: 290963
+- us: 233155
 
 ## By via
 
-- unknown: 94154
-- archive: 43737
-- live: 517403
+- unknown: 94045
+- archive: 44150
+- live: 517099
 
 ## Tier 1 sites
 
@@ -81,9 +81,9 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - & Opportunities (armaautomotive.com)
 - & Opportunities (classicrefrigeration.com)
 - & Opportunities (nirmalacp.org)
-- & Opportunities in Germany (holzerscientific.com)
 - & Other Opportunities (teachpsych.org)
 - & Recruitment Opportunities (elmex.net)
+- & Shape Tamil Learning (playwithtamil.com)
 - & Technical Education (columbiak12.com)
 - & Technical Education (stmaryk12.net)
 - & Trades Resources (acementorla.org)
@@ -129,14 +129,13 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 14K Business Solutions (14kbsol.com)
 - 151 Kitchen / Bar (151elmhurst.com)
 - 16th Street Baptist Church (16thstreetbaptist.org)
-- 1702Digital (1702digital.com)
 - 1800Esupply (1800esupply.com)
 - 1903 Design Studio (1903designstudio.com)
 - 1A First Alternative (1afa.com)
 - 1Datagroup (1datagroup.com)
-- 1Link Solution (1linksolution.com)
 - 1Money (1money.com)
 - 1Plan (1plan.com)
+- 1st Choice Beauty Supply - Beauty One Stop (1stchoicebeauty.com)
 - 1stkings Ltd (1st-kings.com)
 - 1stopVAT (1stopvat.com)
 - 1Trooper (1trooper.com)
@@ -158,7 +157,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 24HourBusiness.org (24houreconomy.org)
 - 24TechDesign (24techdesign.com)
 - 26 Lines of Code (26loc.com)
-- 26concepts.com - (26concepts.com)
 - 27 Virtual (27virtual.com)
 - 2am.tech (2am.tech)
 - 2B Cloud Solutions (2b-cs.com)
@@ -246,3 +244,5 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 4M Career (4mcareer.com)
 - 4M INDUSTRIES INC. (4mindustries.com)
 - 4Matic Valve – (4maticvalves.com)
+- 4Property (4property.com)
+- 4Science (4science.com)
