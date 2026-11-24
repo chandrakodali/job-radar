@@ -1,12 +1,10 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**104 jobs**, newest first. Updated Tue Nov 24, 5:26 PM CST from 12,535 company job boards and other sources.
+**104 jobs**, newest first. Updated Tue Nov 24, 5:38 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 63 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 552 matching jobs that job sites and feeds listed this week, 279 (50%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (1)](#tuesday-nov-17-1)
 
