@@ -1,19 +1,22 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**84 jobs**, newest first. Updated Tue Nov 24, 8:07 AM CST from 12,580 company job boards and other sources.
+**85 jobs**, newest first. Updated Tue Nov 24, 8:55 AM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-156 repeat listings (same company and title in another place or on another source) are merged into one row.
+155 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (15)](#tuesday-nov-17-15)
+Coverage check: of 4,065 matching jobs that job sites and feeds listed this week, 1,663 (40%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Tuesday, Nov 24 (3)
+Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (15)](#tuesday-nov-17-15)
+
+## Tuesday, Nov 24 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Software Development Engineer, Device Software, Vega OS](https://www.amazon.jobs/en/jobs/10611483/software-development-engineer-device-software-vega-os) | Amazon.com Services LLC | Irvine, California, USA | 45 | 3+ yrs exp; requires Java |
 | date only | [Software Development Engineer](https://dth.avature.net/en_US/careers/JobDetail/Software-Development-Engineer/27827) | Delta Global Technology Hub |  | 45 | location unclear; requires Java |
+| 8:04 AM | [Cybersecurity Senior Software Engineer](https://mercadolibre.eightfold.ai/careers/job/43270645) | Mercadolibre | Antioquia,CO (hybrid) | 45 | senior title, years not stated; requires Java |
 | 7:14 AM | [Software Engineer I-Java/Springboot/SQL](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021) | JP Morgan Chase | Newark, DE, United States | 75 | entry-level title |
 
 ## Monday, Nov 23 (18)
@@ -74,7 +77,7 @@ Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (18)](#monday-nov-23-18) · 
 |---|---|---|---|---:|---|
 | 11:00 PM | [Senior Software Engineer - Java](https://us-erac.icims.com/jobs/595644/senior-software-engineer---java/job) | Enterprise Holdings | St. Louis, MO, United States (remote) | 52 | senior title, years not stated |
 | 10:06 PM | [Senior Software Engineer](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26676) | Pearson | San Antonio, TX, United States (hybrid) | 50 | 3+ yrs exp; senior title; requires Java |
-| 9:20 PM | [Software Engineer III - Selenium Automation](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806044) | JP Morgan Chase | Jersey City, NJ, United States +2 more | 45 | 3+ yrs exp; senior title; requires Java |
+| 9:20 PM | [Software Engineer III - Selenium Automation](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806044) | JP Morgan Chase | Jersey City, NJ, United States +1 more | 45 | 3+ yrs exp; senior title; requires Java |
 | 5:55 PM | [Senior Software Engineer - UGC Marketplace](https://careers.roblox.com/jobs/8397795?gh_jid=8397795) | Roblox | San Mateo, CA, United States | 45 | 3+ yrs exp; senior title; requires Java |
 | 5:45 PM | [Software Engineer, Platform IOT](https://job-boards.greenhouse.io/gomotive/jobs/8950900002) | Gomotive | Hybrid - San Francisco, California (hybrid) | 50 | 4+ yrs exp; requires Java |
 | 5:27 PM | [Software Engineer III - Backend](https://jobs.ashbyhq.com/Kite/8e616217-be15-4c4d-9f4f-a325aee6928d) | Kite | United States (remote) | 42 | 4+ yrs exp; senior title; requires Java |
@@ -166,8 +169,8 @@ Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (18)](#monday-nov-23-18) · 
 | 11:59 AM | [Full-Stack Software Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74134) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 35 | rules: 5+ yrs exp; requires Java; asks for 5+ years of experience |
 | 11:28 AM | [Senior Software Engineer](https://jobs.smartrecruiters.com/Versant3/744000162788389-senior-software-engineer) | Versant | Englewood Cliffs, NEW JERSEY, United St… (hybrid) | 35 | rules: 6+ yrs exp; senior title; requires Java; asks for 6+ years of … |
 | 11:02 AM | [Sr AWS Cloud Integration Engineer - Remote](https://weworkremotely.com/remote-jobs/coderio-sr-aws-cloud-integration-engineer-remote) | Coderio | Remote, US (Americas Only) (remote) | 27 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
-| date only | [Full-Stack Software Engineer](https://jobs.jobvite.com/visionist/job/oFb8Afwi) | Visionist | Columbia, MD, United States | 30 | rules: 14+ yrs exp; requires Java; needs: security clearance |
 | date only | [Cloud Software Engineer](https://jobs.jobvite.com/visionist/job/oeb8AfwR) | Visionist | Columbia, MD, United States; Laurel, MD… | 30 | rules: 6+ yrs exp; requires Java; needs: security clearance |
+| date only | [Full-Stack Software Engineer](https://jobs.jobvite.com/visionist/job/oFb8Afwi) | Visionist | Columbia, MD, United States | 30 | rules: 14+ yrs exp; requires Java; needs: security clearance |
 | date only | [Senior Back End Java Developer](https://citi.eightfold.ai/careers/job/859039051648) | Citi | Tampa, FL, US (hybrid) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:22 AM | [Senior Software Developer](https://jobs.lever.co/jobgether/0cc38caa-2e73-4be4-9718-81f16907f450) | Jobgether | US (remote) | 27 | rules: 6+ yrs exp; senior title; requires Java; asks for 6+ years of … |
 | 11:00 PM | [Senior Application Engineer (REMOTE or HYBRID TO MA)](https://jobs.dayforcehcm.com/en-US/thg/allcareers/jobs/49240) | Thg | Worcester, MA, US (remote) | 27 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
