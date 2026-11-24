@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**201 jobs**, newest first. Updated Tue Nov 24, 7:19 AM CST from 12,580 company job boards and other sources.
+**199 jobs**, newest first. Updated Tue Nov 24, 7:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 180 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (31)](#monday-nov-23-31) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (29)](#tuesday-nov-17-29)
+Coverage check: of 3,196 matching jobs that job sites and feeds listed this week, 1,718 (53%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (31)](#monday-nov-23-31) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (27)](#tuesday-nov-17-27)
 
 ## Tuesday, Nov 24 (6)
 
@@ -215,14 +217,13 @@ Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (31)](#monday-nov-23-31) · 
 | 2:00 AM | [DevOps](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/905) | Eci | Dallas, TX, US; Chicago, IL, US; New Yo… | 65 |  |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 45 | location unclear |
 
-## Tuesday, Nov 17 (29)
+## Tuesday, Nov 17 (27)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:00 PM | [Senior Structural Engineer (Infrastructure Risk) (Ph.D. and P.E. or S…](https://careers-exponent.icims.com/jobs/2682/senior-structural-engineer-%28infrastructure-risk%29-%28ph.d.-and-p.e.-or-s.e.%29/job) | Exponent | Philadelphia, PA, United States | 55 | senior title, years not stated |
 | 10:37 PM (seen) | [ETQ QMS System Administrator](https://ats.rippling.com/vulcanforms/jobs/7fdb3ecd-a0c7-434c-a90f-a03eec3e0fe1) | Vulcanforms | Devens, MA (onsite) | 40 |  |
 | 8:26 PM | [DevOps Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5a22940c-3629-44d9-813a-0ccee8ac9aac&ccId=19000101_000001&jobId=9207425208682_522&lang=en_US) | 5A22940C 3629 44D9 813A 0Ccee… | Austin, TX | 58 |  |
-| 6:02 PM | [Site Reliability Engineer II  - AXS](https://job-boards.greenhouse.io/aegworldwide/jobs/8949373002) | AEG | Los Angeles, CA | 50 | 4+ yrs exp; no future H-1B sponsorship |
 | 5:53 PM | [Security Site Reliability Engineer - Apple Service Engineering](https://jobs.apple.com/en-us/details/200695546/security-site-reliability-engineer-apple-service-engineering) | Apple | United States of America | 65 |  |
 | 5:39 PM | [Senior Device Reliability Engineer (AI Native)](https://job-boards.greenhouse.io/life360/jobs/8949348002) | Life360 | Fremont, CA | 40 | senior title, years not stated |
 | 4:09 PM | [Site Reliability Engineer — Info Apps](https://jobs.apple.com/en-us/details/200695296/site-reliability-engineer-info-apps) | Apple | United States of America | 65 |  |
@@ -247,7 +248,6 @@ Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (31)](#monday-nov-23-31) · 
 | date only | [DevOps Engineer](https://apply.workable.com/raydar/j/F988B64D0D/) | Raydar | New York, New York, United States | 60 | 4+ yrs exp |
 | 10:44 AM | [IT Ops Automation Engineer](https://jobs.ashbyhq.com/buspatrol/e5264fb2-c237-4a06-bcba-fd5aeaa31569) | Buspatrol | Austin, Texas (hybrid) | 55 |  |
 | 7:51 AM | [AWS Software Engineer II - Full Stack/Java/React](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790526) | JP Morgan Chase | Jersey City, NJ, United States | 70 | 2+ yrs exp |
-| 7:35 AM | [Machine Learning Infrastructure Engineer,  Technology](https://boards.greenhouse.io/point72/jobs/8945315002?gh_jid=8945315002) | Point72 | New York, NY | 60 | 3+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (397)
 
