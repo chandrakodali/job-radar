@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**196 jobs**, newest first. Updated Tue Nov 24, 12:49 PM CST from 12,580 company job boards and other sources.
+**196 jobs**, newest first. Updated Tue Nov 24, 1:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-168 repeat listings (same company and title in another place or on another source) are merged into one row.
+169 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,275 matching jobs that job sites and feeds listed this week, 1,780 (54%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 24 (18)](#tuesday-nov-24-18) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (42)](#wednesday-nov-18-42) · [Tue 17 (12)](#tuesday-nov-17-12)
 
@@ -244,13 +246,16 @@ Jump to: [Tue 24 (18)](#tuesday-nov-24-18) · [Mon 23 (32)](#monday-nov-23-32) �
 | 1:32 PM | [Software Engineer, Big Data Infrastructure](https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407) | Benchling | San Francisco, CA (hybrid) | 80 | 1+ yrs exp |
 | 1:23 PM | [WGL - Infrastructure & Cybersecurity,  Business Analyst](https://wgl.wd5.myworkdayjobs.com/altagas/job/Springfield-VA/WGL---Infrastructure---Cybersecurity---Business-Analyst_R7209) | AltaGas | Springfield, VA | 58 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (381)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (384)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 4:01 PM | [Telemetry Engineer II](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690240) | ACQCENTRIC INC | Huntsville, AL, United States | 40 | rules: 3+ yrs exp; needs: security clearance |
+| 12:57 PM | [Security Platform Engineer (NYC BASED)](https://jobs.smartrecruiters.com/Equinox/744000163530949-security-platform-engineer-nyc-based-) | Equinox | New York, NY, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 12:45 PM | [Senior IT Systems Administrator](https://job-boards.greenhouse.io/dragos/jobs/5468281008) | Dragos | United States | 30 | rules: 5+ yrs exp; senior title; needs: Must be a U.S. citizen |
+| 12:41 PM | [Forward Deployment Engineer – Senior - 5G/6G/NTN](https://jobs.keysight.com/jobs/54702?lang=en-us) | Keysight Technologies | San Diego, California | 30 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 12:07 PM (seen) | [Linux Administrator - JobID-0352](https://idtus.pinpointhq.com/en/postings/210b1055-0b74-41bd-94e4-c75a2f6399a8) | Innovative Defense Technologi… | Arlington, VA (onsite) | 20 | rules: 7+ yrs exp; needs: Security Clearance |
 | 11:55 AM | [Research Computing and AI Infrastructure Engineer](https://ecsr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10009139) | Vanderbilt University | Nashville, TN, United States (onsite) | 55 | rules: 5+ yrs exp; likely H-1B cap-exempt (verify); asks for 5+ years… |
 | 11:51 AM | [Infrastructure Engineer](https://jobs.ashbyhq.com/Intelligence-Security-Laboratories/28b30132-ea74-4230-b9ea-eaa9131ba96a) | Intelligence Security Laborat… | Washington, D.C. (hybrid) | 65 | rules: 4+ yrs exp; needs: security clearance |
