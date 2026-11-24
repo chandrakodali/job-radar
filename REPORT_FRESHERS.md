@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**404 jobs**, newest first. Updated Tue Nov 24, 1:25 AM CST from 12,580 company job boards and other sources.
+**402 jobs**, newest first. Updated Tue Nov 24, 2:25 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 176 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (84)](#thursday-nov-19-84) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (70)](#tuesday-nov-17-70)
+Coverage check: of 4,653 matching jobs that job sites and feeds listed this week, 958 (20%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (84)](#thursday-nov-19-84) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (68)](#tuesday-nov-17-68)
 
 ## Tuesday, Nov 24 (3)
 
@@ -377,7 +379,7 @@ Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · 
 | 1:00 AM | [Scanning Services - Digital Support Specialist I](https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3608) | Anico | League City, TX, US | 85 | entry-level title; 1+ yrs exp |
 | 12:49 AM | [Online Technical Support Engineer -Campus Hire Program](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040677) | Agilent Technologies | US-DE-Wilmington | 75 | entry-level title |
 
-## Tuesday, Nov 17 (70)
+## Tuesday, Nov 17 (68)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -449,10 +451,8 @@ Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · 
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Redding Mt Shas…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_825956) | Macy's | Redding, CA, United States | 75 | entry-level title |
 | 3:05 AM | [Technical Support Engineer- Healthcare](https://jobs.lever.co/jobgether/608facf5-7703-40ab-bf4c-d237a8136871) | Jobgether | US (remote) | 72 | 1+ yrs exp |
 | 3:00 AM | [VPC Operations Support Team - Analyst](https://jobs.dayforcehcm.com/en-US/glovis/linkedincandidateportal/jobs/15031) | Glovis | Montgomery, AL, US; Montgomery, AL, US | 70 | 1+ yrs exp; no future H-1B sponsorship |
-| 2:23 AM | [Machine Learning Engineer](https://jobs.lever.co/jobgether/14392006-a041-4d52-a5fa-236149b99477) | Jobgether | US (remote) | 72 | 1+ yrs exp |
-| 1:46 AM | [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://jobs.lever.co/jobgether/f4b092a6-63f4-4209-897e-eb386e4aa422) | Jobgether | US (remote) | 72 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1543)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1547)
 
 <details><summary>Show</summary>
 
@@ -465,6 +465,11 @@ Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · 
 | date only | [Azure Data Engineer](https://careers.quest-global.com/global/en/job/QGRQGAGLOBALP124862EXTERNALENGLOBAL) | Quest Global | Indianapolis, Indiana, United States | 45 | rules: 6+ yrs exp; needs: U.S. citizenship is required |
 | date only | [Software Engineer](https://apply.workable.com/raydar/j/995CE9E62E/) | Raydar | Seattle, Washington, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Software Development Engineer, Device Software, Vega OS](https://www.amazon.jobs/en/jobs/10611483/software-development-engineer-device-software-vega-os) | Amazon.com Services LLC | Irvine, California, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Backend Engineer, AI Expert](https://apply.workable.com/weekday-1/j/1B4ABEC618/) | Weekday AI | United States (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| date only | [RF & Channel Emulation Systems Engineer](https://qualcomm.eightfold.ai/careers/job/446718388725) | Qualcomm | Boulder, CO, US (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 2:10 AM | [Azure Cloud Engineer](https://jobs.lever.co/jobgether/f04ae17b-10f5-45f5-870d-ed5006d6d97e) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; needs: Public Trust clearance |
+| 2:05 AM | [Database Administrator](https://jobs.lever.co/jobgether/8732c76b-5b7a-4b02-99b8-05b89fae0283) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; asks for 7+ years of experience |
+| 1:52 AM | [Advisor Data Analyst](https://jobs.lever.co/jobgether/339181c1-2d10-4eae-a4a2-816788ba9347) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 1:15 AM | [Forensic Regulatory Data Analyst](https://jobs.lever.co/jobgether/0e472b95-90d0-451f-8a50-031bab408367) | Jobgether | US (remote) | 72 | rules: 1+ yrs exp; needs: Must be a U.S. citizen |
 | 12:52 AM | [SharePoint Online Developer](https://jobs.lever.co/jobgether/dd622ef2-469e-460d-b2db-abd9a9250086) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:41 AM | [Business Intelligence Developer](https://jobs.lever.co/jobgether/6b437002-3307-45db-aa75-465f3cb6c005) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -853,10 +858,5 @@ Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · 
 | 2:27 PM (seen) | [QA Engineer  - Remote Volunteer (Scaled rewards and bonus)](https://app.dover.com/apply/ihealth-and-wellness-foundation-inc/e9f689c9-db8c-4205-bd12-bcbce6642ad8) | Ihealth And Wellness Foundati… | United States; International (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 2:27 PM (seen) | [Web Scraping Data Analyst  - Remote Volunteer (Scaled rewards and bon…](https://app.dover.com/apply/ihealth-and-wellness-foundation-inc/be17bf3c-1d49-4188-8f1b-93ae51e11e68) | Ihealth And Wellness Foundati… | International; United States (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 2:27 PM (seen) | [Data Engineer – Oil & Gas](https://app.dover.com/apply/itmates/5752347e-298e-4c9a-be3f-4fdbb6f54bbf) | Itmates | International (remote) | 22 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
-| 2:27 PM (seen) | [Infrastructure Engineer – Data Center (Dallas, TX · Onsite)](https://app.dover.com/apply/itmates/9ea8ebdd-ae42-475d-a750-815bbb069ce4) | Itmates | Dallas, TX (onsite) | 45 | rules: 4+ yrs exp; no future H-1B sponsorship; asks for 4+ years of e… |
-| 2:27 PM (seen) | [Site Reliability Engineer – Fintech](https://app.dover.com/apply/itmates/546913f0-b523-4436-8946-9492bcea407b) | Itmates | International (remote) | 22 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
-| 2:27 PM (seen) | [Data Engineer](https://app.dover.com/apply/itmiracle/269774d1-634e-460d-aba6-e3052f6f98b7) | Itmiracle | United States (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:27 PM (seen) | [Embedded Hardware Engineer (On-site. West Lafayette, USA)](https://app.dover.com/apply/ixana/4e531fdb-106f-4f32-8d3f-56eca0a24be9) | Ixana | West Lafayette, IN (onsite) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:27 PM (seen) | [Backend Software Engineer ($10,000) - Washington, DC](https://app.dover.com/apply/jobsxchange/4c433c21-6063-4dd7-be16-6c8eeed08977) | Jobsxchange | Washington, DC (onsite) | 65 | rules: 2+ yrs exp; needs: TS/SCI Clearance |
 
 </details>
