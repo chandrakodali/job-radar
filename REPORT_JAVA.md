@@ -1,12 +1,20 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**83 jobs**, newest first. Updated Mon Nov 23, 11:02 PM CST from 12,580 company job boards and other sources.
+**84 jobs**, newest first. Updated Tue Nov 24, 1:18 AM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-155 repeat listings (same company and title in another place or on another source) are merged into one row.
+156 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (17)](#tuesday-nov-17-17)
+Coverage check: of 3,787 matching jobs that job sites and feeds listed this week, 1,498 (39%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (17)](#tuesday-nov-17-17)
+
+## Tuesday, Nov 24 (1)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| date only | [Software Development Engineer, Device Software, Vega OS](https://www.amazon.jobs/en/jobs/10611483/software-development-engineer-device-software-vega-os) | Amazon.com Services LLC | Irvine, California, USA | 45 | 3+ yrs exp; requires Java |
 
 ## Monday, Nov 23 (18)
 
@@ -126,13 +134,14 @@ Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [
 | 7:51 AM | [AWS Software Engineer II - Full Stack/Java/React](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790526) | JP Morgan Chase | Jersey City, NJ, United States | 70 | 2+ yrs exp |
 | 2:14 AM | [Middle Software Engineer - Backend (Platform)](https://jobs.lever.co/jobgether/bbd011d9-382f-4f14-a2ee-0516f4ac407a) | Jobgether | US (remote) | 47 | requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (75)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (74)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Senior Software Engineer (Java)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9b54126b-cb9d-41dd-a19d-eb4ed7801e61&ccId=19000101_000001&jobId=9202921841013_1&lang=en_US) | 9B54126B Cb9D 41Dd A19D Eb4Ed… |  | 40 | rules: 7+ yrs exp; senior title; location unclear; asks for 7+ years … |
+| 2:13 AM | [Senior Data Software Engineer](https://jobs.lever.co/jobgether/16df4437-0552-48e4-975d-4af54ca18c6e) | Jobgether | US (remote) | 27 | rules: 6+ yrs exp; senior title; requires Java; asks for 6+ years of … |
 | 7:37 PM | [Senior Software Engineer, Endorsement](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/32576) | Chubb | Philadelphia, PA, United States; Jersey… | 30 | rules: 6+ yrs exp; senior title; requires Java; asks for 6+ years of … |
 | 7:24 PM | [Software Engineer II](https://jobs.smartrecruiters.com/Dominos/744000163361790-software-engineer-ii) | Domino's | Ann Arbor, MI, United States | 25 | rules: 5+ yrs exp; requires Java; asks for 5+ years of experience |
 | 2:11 PM | [Java developer - Kafka, MQ, FIX, FpML - 15+ Years of experience (Full…](https://jobs.smartrecruiters.com/SyncreonConsulting/744000163312599-java-developer-kafka-mq-fix-fpml-15-years-of-experience-full-time-) | Syncreon Consulting | New York, NY, United States | 40 | rules: 10+ yrs exp; staffing/consulting firm: verify it's real; asks … |
@@ -195,8 +204,6 @@ Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [
 | date only | [Software Engineer Expert](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Software-Engineer-Expert_R36733) | Allstate Insurance Company | USA - IL (Remote) (remote) | 10 | rules: 7+ yrs exp; no future H-1B sponsorship; requires Java; asks fo… |
 | 9:02 AM | [Infrastructure Solutions Engineering (AI & Automation) - Java, Spring…](https://jobs.smartrecruiters.com/SyncreonConsulting/744000162098510--infrastructure-solutions-engineering-ai-automation-java-spring-boot-python-apis) | Syncreon Consulting | New York, NY, United States | 40 | rules: 10+ yrs exp; staffing/consulting firm: verify it's real; asks … |
 | 8:55 AM | [Senior Software Engineer - Austin, TX](https://careers.teamviewer.com/jobs/8756713-senior-software-engineer-austin-tx) | Teamviewer | Austin, United States (hybrid) | 35 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
-| 1:33 AM | [Senior Software Engineer, Data Solutions](https://jobs.lever.co/jobgether/ee727b71-350c-400a-9071-74ca4444772b) | Jobgether | US (remote) | 27 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
-| 11:13 PM | [Senior Full Stack Engineer, Java & Kubernetes Focus](https://jobs.lever.co/jobgether/6b7d4699-9948-48b8-a57c-079cfb1c3dda) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:00 PM | [Expert Software Developer](https://careers-markon.icims.com/jobs/8858/expert-software-developer/job) | Markon | Chantilly, VA, United States | 30 | rules: 11+ yrs exp; requires Java; needs: TS/SCI clearance |
 | 11:00 PM | [Software Engineer](https://careers-riversideresearch.icims.com/jobs/4529/software-engineer/job) | Riverside Research | Lexington, MA, United States | 30 | rules: 8+ yrs exp; requires Java; needs: Security Clearance |
 | 11:00 PM | [Sr. Full Stack Software Developer](https://careers-markon.icims.com/jobs/8871/sr.-full-stack-software-developer/job) | Markon | Chantilly, VA, United States | 40 | rules: senior title, years not stated; requires Java; needs: TS/SCI c… |
