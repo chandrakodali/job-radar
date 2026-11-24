@@ -1,14 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**205 jobs**, newest first. Updated Tue Nov 24, 5:37 PM CST from 12,535 company job boards and other sources.
+**204 jobs**, newest first. Updated Tue Nov 24, 5:49 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 184 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,378 matching jobs that job sites and feeds listed this week, 1,852 (54%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (5)](#tuesday-nov-17-5)
+Jump to: [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (4)](#tuesday-nov-17-4)
 
 ## Tuesday, Nov 24 (33)
 
@@ -245,7 +243,7 @@ Jump to: [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) �
 | 2:00 AM | [DevOps](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/905) | Eci | Dallas, TX, US; Chicago, IL, US; New Yo… | 65 |  |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 45 | location unclear |
 
-## Tuesday, Nov 17 (5)
+## Tuesday, Nov 17 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -253,9 +251,8 @@ Jump to: [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) �
 | 10:37 PM (seen) | [ETQ QMS System Administrator](https://ats.rippling.com/vulcanforms/jobs/7fdb3ecd-a0c7-434c-a90f-a03eec3e0fe1) | Vulcanforms | Devens, MA (onsite) | 40 |  |
 | 8:26 PM | [DevOps Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5a22940c-3629-44d9-813a-0ccee8ac9aac&ccId=19000101_000001&jobId=9207425208682_522&lang=en_US) | 5A22940C 3629 44D9 813A 0Ccee… | Austin, TX | 58 |  |
 | 5:53 PM | [Security Site Reliability Engineer - Apple Service Engineering](https://jobs.apple.com/en-us/details/200695546/security-site-reliability-engineer-apple-service-engineering) | Apple | United States of America | 65 |  |
-| 5:39 PM | [Senior Device Reliability Engineer (AI Native)](https://job-boards.greenhouse.io/life360/jobs/8949348002) | Life360 | Fremont, CA | 40 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (381)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (380)
 
 <details><summary>Show</summary>
 
@@ -624,7 +621,6 @@ Jump to: [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) �
 | 5:40 PM | [Paint Production Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ed04d207-5c83-4a05-bb3e-d66a47159585&ccId=19000101_000001&jobId=511113762_6&lang=en_US) | Ed04D207 5C83 4A05 Bb3E D66A4… | Princeton, IN +1 more | 43 | rules: adjacent title, little DevOps/cloud work in the text |
 | 5:20 PM | [Senior IT Systems Engineer](https://jobs.ashbyhq.com/river/0dff47b9-8677-4334-bf57-82461a6313b8) | River | Remote - US; New York, NY; Columbus, OH (remote) | 27 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 3:43 PM | [Network Engineer III](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=64b85cdf-e793-428c-847d-3c083156603d&ccId=1593362092_8566&jobId=9201462305941_1&lang=en_US) | 64B85Cdf E793 428C 847D 3C083… | Camarillo, CA | 28 | rules: 5+ yrs exp; senior title; E-Verify; asks for 5+ years of exper… |
-| date only | [Platform Engineer (KBase Project)](https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107918&lang=en) | Lawrence Berkeley National La… |  | 50 | rules: 5+ yrs exp; likely H-1B cap-exempt (verify); asks for 5+ years… |
 | date only | [Reliability Engineer - Level 3](https://ngc.eightfold.ai/careers/job/1340074672055) | Ngc | Chandler, AZ, US (onsite) | 58 | rules: 1+ yrs exp; senior title; needs: security clearance |
 | date only | [Senior Systems Administrator / Acushnet Company](https://acushnetgolf.wd12.myworkdayjobs.com/ACU/job/Carlsbad-California-United-States-of-America/Senior-Systems-Administrator---Acushnet-Company_Req102178) | Acushnet Holdings | Carlsbad, California, United States of … | 28 | rules: 8+ yrs exp; senior title; E-Verify; asks for 8+ years of exper… |
 | date only | [Senior Devops Engineer](https://careers.capgemini.com/job/Atlanta%2C-GA-Senior-Devops-Engineer-GA-30301/1458192933/) | Capgemini | Atlanta, GA, United States | 33 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
