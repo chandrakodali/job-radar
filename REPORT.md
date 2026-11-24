@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**195 jobs**, newest first. Updated Mon Nov 23, 6:19 PM CST from 12,580 company job boards and other sources.
+**195 jobs**, newest first. Updated Mon Nov 23, 6:37 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 176 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 2,940 matching jobs that job sites and feeds listed this week, 1,528 (51%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Mon 23 (27)](#monday-nov-23-27) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (31)](#tuesday-nov-17-31) · [Mon 16 (2)](#monday-nov-16-2)
 
@@ -243,7 +245,7 @@ Jump to: [Mon 23 (27)](#monday-nov-23-27) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | 11:00 PM | [Network Engineer II](https://jobs.dayforcehcm.com/en-US/landstar/CANDIDATEPORTAL/jobs/11996) | Landstar | Jacksonville, FL, US | 40 | 3+ yrs exp |
 | 9:58 PM | [Network Infrastructure Engineer](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41673) | Nokia | United States (onsite) | 70 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (395)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (396)
 
 <details><summary>Show</summary>
 
@@ -282,6 +284,7 @@ Jump to: [Mon 23 (27)](#monday-nov-23-27) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | date only | [Systems Development Engineer - Ground Infrastructure, Amazon Leo](https://www.amazon.jobs/en/jobs/10612137/systems-development-engineer-ground-infrastructure-amazon-leo) | Amazon Kuiper Manufacturing E… | Bellevue, Washington, USA | 65 | rules: needs: must be a U.S. citizen |
 | date only | [Senior Delivery Consultant - Migrations, Cloud Platform and Migration…](https://www.amazon.jobs/en/jobs/10612162/senior-delivery-consultant-migrations-cloud-platform-and-migrations-aws-professional-services) | Amazon Web Services, Inc. | Jersey City, New Jersey, USA | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Sr. Cloud FinOps Engineer (Remote)](https://careers.cisco.com/global/en/job/CISCISGLOBAL2028999EXTERNALENGLOBAL) | Cisco | Denver, Colorado, United States of Amer… | 40 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
+| date only | [Reliability Engineer Level 3](https://ngc.eightfold.ai/careers/job/1340075516260) | Ngc | Chandler, AZ, US (onsite) | 43 | rules: 3+ yrs exp; senior title; needs: security clearance |
 | 10:47 AM | [Senior AI Forward Deployment Engineer](https://job-boards.greenhouse.io/armada/jobs/5477587008) | Armada | Bellevue Office, Sunset Corporate Campus | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 10:46 AM | [DevOps Engineer](https://jobs.workable.com/view/hPeDo66cCm2VZcYTgjYERe/remote-devops-engineer-in-united-states-at-katmai) | Katmai | Remote, US (remote) | 62 | rules: needs: U.S. Citizenship required |
 | 10:33 AM | [Sr. Platform Engineer - Data Infrastructure](https://jobs.ashbyhq.com/weave/841df1d3-5de6-4099-88c7-6d358fa36dfc) | Weave | Weave - Headquarters (Lehi, UT) (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
