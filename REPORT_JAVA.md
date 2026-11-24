@@ -1,12 +1,14 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**80 jobs**, newest first. Updated Tue Nov 24, 11:09 AM CST from 12,580 company job boards and other sources.
+**79 jobs**, newest first. Updated Tue Nov 24, 11:49 AM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 163 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (16)](#monday-nov-23-16) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (7)](#tuesday-nov-17-7)
+Coverage check: of 4,085 matching jobs that job sites and feeds listed this week, 1,679 (41%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (7)](#tuesday-nov-17-7)
 
 ## Tuesday, Nov 24 (7)
 
@@ -20,7 +22,7 @@ Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (16)](#monday-nov-23-16) · 
 | 8:04 AM | [Cybersecurity Senior Software Engineer](https://mercadolibre.eightfold.ai/careers/job/43270645) | Mercadolibre | Antioquia,CO (hybrid) | 45 | senior title, years not stated; requires Java |
 | 7:14 AM | [Software Engineer I-Java/Springboot/SQL](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021) | JP Morgan Chase | Newark, DE, United States | 75 | entry-level title |
 
-## Monday, Nov 23 (16)
+## Monday, Nov 23 (15)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -32,7 +34,6 @@ Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (16)](#monday-nov-23-16) · 
 | 1:25 PM | [Senior Software Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71416) | Ford Motor Company | United States (remote) | 42 | 4+ yrs exp; senior title; requires Java |
 | 12:10 PM | [Software Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=8411988) | Stripe | South San Francisco, CA | 45 | 3+ yrs exp; requires Java |
 | 12:06 PM | [Backend Software Engineer III - JAVA, Springboot](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762311) | JP Morgan Chase | Plano, TX, United States | 60 | 3+ yrs exp; senior title |
-| 11:59 AM | [Associate Software Engineer](https://job-boards.greenhouse.io/koddi/jobs/8944769002) | Koddi | Fort Worth, Texas | 60 | entry-level title; requires Java |
 | date only | [TrackingMore R&D Trainee - Full-Stack Engineer (Backend) - Bilingual …](https://apply.workable.com/cwill-us/j/D6136D8314/) | CWILL | cary, North Carolina, United States | 50 | requires Java |
 | date only | [Software Development Engineer - Data](https://www.amazon.jobs/en/jobs/10611635/software-development-engineer-data) | Audible, Inc. | Newark, New Jersey, USA | 50 | requires Java |
 | date only | [Software Development Engineer, AWS Vulnerability Management (AVM)](https://www.amazon.jobs/en/jobs/10612037/software-development-engineer-aws-vulnerability-management-avm) | Amazon.com Services LLC | Austin, Texas, USA | 45 | 3+ yrs exp; requires Java |
@@ -128,7 +129,7 @@ Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (16)](#monday-nov-23-16) · 
 | 12:50 PM (seen) | [Enterprise Software Engineer Java REST Linux](https://careers.eriasventures.com/careers/89065-Erias-Ventures/jobs/16874385-Enterprise--Software-Engineer--Java-REST-Linux/) | Erias |  | 45 | location unclear |
 | 12:50 PM (seen) | [Enterprise Software Engineer Java OOP Linux](https://careers.eriasventures.com/careers/89065-Erias-Ventures/jobs/16874384-Enterprise--Software-Engineer--Java-OOP-Linux/) | Erias |  | 45 | location unclear |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (75)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (76)
 
 <details><summary>Show</summary>
 
@@ -139,6 +140,7 @@ Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (16)](#monday-nov-23-16) · 
 | date only | [Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2030706EXTERNALENGLOBAL) | Cisco | Arlington, Virginia, United States of A… | 25 | rules: 5+ yrs exp; requires Java; asks for 5+ years of experience |
 | date only | [Senior Full Stack Software Engineer](https://apply.workable.com/pavago/j/710FA310EC/) | Pavago | United States (remote) | 27 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | date only | [Software Engineer](https://jobs.netapp.com/job/Morrisville-Software-Engineer-NC-27560/1453449500/) | NetApp | Morrisville, NC, United States | 30 | rules: 8+ yrs exp; requires Java; asks for 8+ years of experience |
+| date only | [Software Engineer](https://vivsofttechnologiesfa.applytojob.com/apply/3YR8Ou2nIx/Software-Engineer) | VivSoft Technologies | Herndon, VA (remote) | 57 | rules: 0-2 yrs exp; requires Java; needs: Secret clearance |
 | 9:47 AM | [Java developer - Kafka, MQ, FIX, FpML - 15+ Years of experience (Full…](https://jobs.smartrecruiters.com/SyncreonConsulting/744000163489077-java-developer-kafka-mq-fix-fpml-15-years-of-experience-full-time-) | Syncreon Consulting | New York, NY, United States | 40 | rules: 10+ yrs exp; staffing/consulting firm: verify it's real; asks … |
 | 2:13 AM | [Senior Data Software Engineer](https://jobs.lever.co/jobgether/16df4437-0552-48e4-975d-4af54ca18c6e) | Jobgether | US (remote) | 27 | rules: 6+ yrs exp; senior title; requires Java; asks for 6+ years of … |
 | 7:37 PM | [Senior Software Engineer, Endorsement](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/32576) | Chubb | Philadelphia, PA, United States; Jersey… | 30 | rules: 6+ yrs exp; senior title; requires Java; asks for 6+ years of … |
