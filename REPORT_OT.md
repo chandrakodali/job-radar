@@ -1,20 +1,23 @@
 # OT Network Engineer jobs in the US: posted in the last 7 days
 
-**15 jobs**, newest first. Updated Tue Nov 24, 8:21 AM CST from 12,580 company job boards.
+**15 jobs**, newest first. Updated Tue Nov 24, 10:31 AM CST from 12,535 company job boards.
 
 US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and OT security roles; controls, automation or network titles only when the job is about networks in an OT/industrial setting). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
-1 repeat listings (same company and title in another place or on another source) are merged into one row.
+2 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Fri 20 (7)](#friday-nov-20-7) · [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (2)](#tuesday-nov-17-2)
+Coverage check: of 672 matching jobs that job sites and feeds listed this week, 239 (35%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Tuesday, Nov 24 (1)
+Jump to: [Tue 24 (2)](#tuesday-nov-24-2) · [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (3)](#thursday-nov-19-3) · [Wed 18 (2)](#wednesday-nov-18-2) · [Tue 17 (2)](#tuesday-nov-17-2)
+
+## Tuesday, Nov 24 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 10:31 AM (seen) | [SCADA Engineer (Ignition Exp Required)](https://ats.rippling.com/divcon-controls/jobs/c2cec271-3501-48f4-a818-d04074133e2b) | Divcon Controls | Remote (United States) (remote) | 47 |  |
 | 7:35 AM | [Cybersecurity Operations  Senior OT CSOC Analyst](https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/1000498) | Consolidated Edison | New York, NY, United States | 75 | 2+ yrs exp; senior title |
 
-## Friday, Nov 20 (7)
+## Friday, Nov 20 (6)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -24,7 +27,6 @@ Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Fri 20 (7)](#friday-nov-20-7) · [T
 | 10:01 AM (seen) | [Operations Technology OT Support Specialist](https://westworksgroupinc.catsone.com/careers/60141-West-Works-Group-Inc/jobs/14457009-Operations-Technology-OT-Support-Specialist/) | Westworksgroupinc |  | 45 | location unclear |
 | 10:01 AM (seen) | [OT Field Engineer II](https://ats.rippling.com/radian-generation/jobs/26fe4cbe-9045-4fc9-92b3-c402450d7c73) | Radian Generation | Charlotte, NC (onsite) | 50 |  |
 | 10:01 AM (seen) | [Field SCADA Engineer - Ignition Exp Required](https://ats.rippling.com/divcon-controls/jobs/e28d81ce-3344-432d-a456-d53c8d2864de) | Divcon Controls | Remote (United States) (remote) | 47 |  |
-| 10:01 AM (seen) | [SCADA Engineer - Ignition Exp Required](https://ats.rippling.com/divcon-controls/jobs/f55c26d4-8078-4983-a826-0f40435473c4) | Divcon Controls | Remote (United States) (remote) | 47 |  |
 
 ## Thursday, Nov 19 (3)
 
@@ -48,12 +50,14 @@ Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Fri 20 (7)](#friday-nov-20-7) · [T
 | 12:23 PM | [IT Systems Engineer](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7850) | DNV | Austin, TX, United States | 43 | OT network work in the text |
 | 12:14 PM | [SCADA and Protection Engineer](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Indianapolis-IN/Testing-and-Protection-Engineer_R1065483-1) | AES | US, Indianapolis, IN | 58 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (22)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (24)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Industrial Security Analyst - Level 2 or 3](https://ngc.eightfold.ai/careers/job/1340075314060) | Ngc | McLean, VA, US (onsite) | 55 | rules: senior title, years not stated; needs: security clearance |
+| 9:33 AM | [Senior Specialist, IT/OT Process](https://eaton.eightfold.ai/careers/job/687240247481) | Eaton | Asheville, NC, US; Beachwood, OH, US; E… (onsite) | 50 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 5:06 PM | [Network Engineer 3](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005829) | Berkshire Hathaway Energy | Las Vegas, NV, United States (onsite) | 35 | rules: 5+ yrs exp; senior title; OT network work in the text; asks fo… |
 | 3:22 PM | [Senior Cyber Security Engineer](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4519512009) | IEM | US - Remote (remote) | 27 | rules: 5+ yrs exp; senior title; OT network work in the text; asks fo… |
 | 9:16 AM | [Senior Security Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349844) | Oracle | Reston, VA, United States; Austin, TX, … | 25 | rules: 8+ yrs exp; senior title; OT network work in the text; needs: … |
