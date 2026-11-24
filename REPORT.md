@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**202 jobs**, newest first. Updated Tue Nov 24, 2:37 PM CST from 12,535 company job boards and other sources.
+**202 jobs**, newest first. Updated Tue Nov 24, 2:49 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 179 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,319 matching jobs that job sites and feeds listed this week, 1,810 (54%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 24 (26)](#tuesday-nov-24-26) · [Mon 23 (31)](#monday-nov-23-31) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (10)](#tuesday-nov-17-10)
 
@@ -252,7 +250,7 @@ Jump to: [Tue 24 (26)](#tuesday-nov-24-26) · [Mon 23 (31)](#monday-nov-23-31) �
 | 3:28 PM | [Senior Software Engineer, Reliability](https://jobs.ashbyhq.com/temporal/af8d1e25-14b1-476d-a079-0d72cc5fdcd8) | Temporal | United States (Remote) (remote) | 52 | senior title, years not stated |
 | 2:51 PM | [Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695356/network-engineer-infrastructure-services) | Apple | United States of America | 65 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (381)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (377)
 
 <details><summary>Show</summary>
 
@@ -613,9 +611,6 @@ Jump to: [Tue 24 (26)](#tuesday-nov-24-26) · [Mon 23 (31)](#monday-nov-23-31) �
 | 3:20 PM | [Systems Administrator (part-time position)](https://careers.akima.com/jobs/28184?lang=en-us) | Akima | Suffolk, Virginia | 50 | rules: needs: Security Clearance |
 | 3:12 PM | [Cloud Engineer Jr](https://job-boards.greenhouse.io/grvty/jobs/4511359009) | GRVTY | Springfield, Virginia, United States; S… | 70 | rules: entry-level title; 3+ yrs exp; needs: TS/SCI Clearance |
 | 2:51 PM | [IT Operations Engineer](https://jobs.ashbyhq.com/hims-and-hers/33ef8ec4-35ec-40d5-8570-b3933024191a) | Hims And Hers | Menlo Park, California (onsite) | 50 | rules: 4+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
-| 2:38 PM | [Storage Engineer](https://job-boards.greenhouse.io/veterans/jobs/8948974002) | Veterans | Washington, DC | 45 | rules: 3+ yrs exp; needs: Active Secret |
-| 2:34 PM | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/e2b/b183352f-bfbb-42fa-9e8f-a03f42162b74) | E2B | San Francisco (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:27 PM | [Senior Site Reliability Engineer II](https://jobs.ashbyhq.com/junipersquare/a007ede9-5f10-4882-bbf1-a9db1602ebe3) | Junipersquare | USA (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Cloud Engineer (DBRE)](https://careers.cisco.com/global/en/job/CISCISGLOBAL2019819EXTERNALENGLOBAL) | Cisco | Milpitas, California, United States of … | 40 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Sr Prin Cyber Systems Engineer – Cybersecurity Cloud & AI (26-485) AHT](https://ngc.eightfold.ai/careers/job/1340075374142) | Ngc | Colorado Springs, CO, US (onsite) | 35 | rules: 6+ yrs exp; senior title; needs: security clearance |
 | date only | [Robotics Deployment Engineer II, Amazon Robotics - Tech Deployment](https://www.amazon.jobs/en/jobs/10607623/robotics-deployment-engineer-ii-amazon-robotics-tech-deployment) | Amazon.com Services LLC | Bellevue, Washington, USA | 25 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -629,7 +624,6 @@ Jump to: [Tue 24 (26)](#tuesday-nov-24-26) · [Mon 23 (31)](#monday-nov-23-31) �
 | date only | [Senior Azure Infrastructure Engineer](https://apply.workable.com/tomorrow-hire/j/3B87EA976C/) | Tomorrow Hire | Mechanicsville, Virginia, United States | 28 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
 | 11:00 PM | [Cloud Network Engineer](https://careers-i2xisys.icims.com/jobs/15853/cloud-network-engineer/job) | ISYS Technologies | Huntsville, AL, United States | 50 | rules: 5+ yrs exp; E-Verify; needs: Secret clearance |
 | 7:31 PM | [Network Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bf3a746f-34a8-44ce-9a79-b8c51364fc82&ccId=19000101_000001&jobId=9207477663811_1&lang=en_US) | Bf3A746F 34A8 44Ce 9A79 B8C51… | Lawton, OK | 33 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
-| 12:45 PM | [Senior Product Cloud Security Engineer](https://jobs.ashbyhq.com/delinea/54696b49-9725-45b6-8285-35fbf95839d6) | Delinea | U.S. Remote; Home Office (Canada) (remote) | 35 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Site Reliability Engineer (Network & Security Infrastructure)](https://jobs.netapp.com/job/Morrisville-Senior-Site-Reliability-Engineer-%28Network-&-Security-Infrastructure%29-NC-27560/1450894200/) | NetApp | Morrisville, NC, United States | 33 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Sr. Infrastructure Specialist](https://apply.workable.com/labella-associates/j/410919B35B/) | Labella Associates | Rochester, New York, United States | 33 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 5:55 PM | [Systems Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cbabd1ae-568b-4f70-933b-3f462f76c1b5&ccId=19000101_000001&jobId=9201523121233_12&lang=en_US) | Cbabd1Ae 568B 4F70 933B 3F462… | East Syracuse, NY | 48 | rules: 2+ yrs exp; needs: Security Clearance |
