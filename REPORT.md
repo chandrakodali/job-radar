@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**204 jobs**, newest first. Updated Tue Nov 24, 4:50 PM CST from 12,580 company job boards and other sources.
+**204 jobs**, newest first. Updated Tue Nov 24, 5:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 184 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,377 matching jobs that job sites and feeds listed this week, 1,851 (54%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 24 (32)](#tuesday-nov-24-32) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (5)](#tuesday-nov-17-5)
 
@@ -252,7 +254,7 @@ Jump to: [Tue 24 (32)](#tuesday-nov-24-32) · [Mon 23 (32)](#monday-nov-23-32) �
 | 5:53 PM | [Security Site Reliability Engineer - Apple Service Engineering](https://jobs.apple.com/en-us/details/200695546/security-site-reliability-engineer-apple-service-engineering) | Apple | United States of America | 65 |  |
 | 5:39 PM | [Senior Device Reliability Engineer (AI Native)](https://job-boards.greenhouse.io/life360/jobs/8949348002) | Life360 | Fremont, CA | 40 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (379)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (381)
 
 <details><summary>Show</summary>
 
@@ -293,6 +295,8 @@ Jump to: [Tue 24 (32)](#tuesday-nov-24-32) · [Mon 23 (32)](#monday-nov-23-32) �
 | date only | [Configuration Management Specialist - Drone, Prime Air](https://www.amazon.jobs/en/jobs/10613297/configuration-management-specialist-drone-prime-air) | Amazon.com Services LLC | Seattle, Washington, USA | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Tech Ops Engineer II - AMZ10279651](https://www.amazon.jobs/en/jobs/10612937/tech-ops-engineer-ii-amz10279651) | Amazon Data Services, Inc. | Manassas, Virginia, USA | 25 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [Senior Network Engineer - Network Security & Application Delivery](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/United-States-Senior-Network-Engineer/19730) | Total Quality Logistics | Cincinnati, United States | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| date only | [Senior Software Engineer, AI Infrastructure Solutions](https://nvidia.eightfold.ai/careers/job/893398292758) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| date only | [Senior MEP Engineer – Datacenter Lab Infrastructure](https://nvidia.eightfold.ai/careers/job/893395202912) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 9:58 AM | [DevSecOps Engineer](https://jobs.ashbyhq.com/noda-ai/a660e584-e5df-45aa-bc46-0cf8fc6c0a1e) | Noda Ai | Austin (hybrid) | 50 | rules: 5+ yrs exp; needs: security clearance |
 | 9:53 AM | [Senior Systems Administrator (Active TS with SCI Eligibility Required)](https://careers.akima.com/jobs/29768?lang=en-us) | Akima | MacDill Air Force Base, Florida | 30 | rules: 5+ yrs exp; senior title; needs: TS clearance |
 | 9:45 AM | [Window System Administrator (EMM/Knox Admin)](https://jobs.smartrecruiters.com/SyncreonConsulting/744000163491859-window-system-administrator-emm-knox-admin-) | Syncreon Consulting | Plano, TX, United States | 40 | rules: 3+ yrs exp; staffing/consulting firm: verify it's real; adjace… |
