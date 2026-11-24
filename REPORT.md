@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**199 jobs**, newest first. Updated Tue Nov 24, 2:07 PM CST from 12,535 company job boards and other sources.
+**199 jobs**, newest first. Updated Tue Nov 24, 2:19 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-175 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,319 matching jobs that job sites and feeds listed this week, 1,810 (54%) were already found on the employers' own boards; the rest are listed from those sources.
+174 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Jump to: [Tue 24 (23)](#tuesday-nov-24-23) · [Mon 23 (31)](#monday-nov-23-31) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (10)](#tuesday-nov-17-10)
 
@@ -249,7 +247,7 @@ Jump to: [Tue 24 (23)](#tuesday-nov-24-23) · [Mon 23 (31)](#monday-nov-23-31) �
 | 3:28 PM | [Senior Software Engineer, Reliability](https://jobs.ashbyhq.com/temporal/af8d1e25-14b1-476d-a079-0d72cc5fdcd8) | Temporal | United States (Remote) (remote) | 52 | senior title, years not stated |
 | 2:51 PM | [Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695356/network-engineer-infrastructure-services) | Apple | United States of America | 65 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (382)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (380)
 
 <details><summary>Show</summary>
 
@@ -623,8 +621,6 @@ Jump to: [Tue 24 (23)](#tuesday-nov-24-23) · [Mon 23 (31)](#monday-nov-23-31) �
 | date only | [Senior Site Reliability Engineer](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Senior-Software-Development-Engineer_R69496-1) | Blue Origin | Greater Seattle Area | 33 | rules: 5+ yrs exp; senior title; needs: Must be a U.S. citizen |
 | date only | [Senior Analyst, AI SOC Observability & Runtime Monitoring](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Canandaigua-New-York/Senior-Analyst--AI-SOC-Observability---Runtime-Monitoring_R-41667-1) | Constellation Brands | Canandaigua, New York; Rochester, New Y… | 33 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Azure Infrastructure Engineer](https://apply.workable.com/tomorrow-hire/j/3B87EA976C/) | Tomorrow Hire | Mechanicsville, Virginia, United States | 28 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
-| 11:00 PM | [System Administrator](https://careers-dminc.icims.com/jobs/29073/system-administrator/job) | DMI | Washington, DC, United States | 45 | rules: 3+ yrs exp; needs: Must be a U.S. Citizen |
-| 11:00 PM | [Kubernetes Engineer](https://everwatch-everwatchsolutions.icims.com/jobs/3768/kubernetes-engineer/job) | Everwatch | Annapolis Junction, MD, United States; … (remote) | 42 | rules: 5+ yrs exp; needs: Secret clearance |
 | 11:00 PM | [Cloud Network Engineer](https://careers-i2xisys.icims.com/jobs/15853/cloud-network-engineer/job) | ISYS Technologies | Huntsville, AL, United States | 50 | rules: 5+ yrs exp; E-Verify; needs: Secret clearance |
 | 7:31 PM | [Network Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bf3a746f-34a8-44ce-9a79-b8c51364fc82&ccId=19000101_000001&jobId=9207477663811_1&lang=en_US) | Bf3A746F 34A8 44Ce 9A79 B8C51… | Lawton, OK | 33 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | 12:45 PM | [Senior Product Cloud Security Engineer](https://jobs.ashbyhq.com/delinea/54696b49-9725-45b6-8285-35fbf95839d6) | Delinea | U.S. Remote; Home Office (Canada) (remote) | 35 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
