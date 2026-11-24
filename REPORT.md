@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**198 jobs**, newest first. Updated Tue Nov 24, 8:19 AM CST from 12,580 company job boards and other sources.
+**198 jobs**, newest first. Updated Tue Nov 24, 8:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 180 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,203 matching jobs that job sites and feeds listed this week, 1,724 (53%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (31)](#monday-nov-23-31) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (26)](#tuesday-nov-17-26)
 
@@ -246,7 +248,7 @@ Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (31)](#monday-nov-23-31) · 
 | date only | [DevOps Engineer](https://apply.workable.com/raydar/j/F988B64D0D/) | Raydar | New York, New York, United States | 60 | 4+ yrs exp |
 | 10:44 AM | [IT Ops Automation Engineer](https://jobs.ashbyhq.com/buspatrol/e5264fb2-c237-4a06-bcba-fd5aeaa31569) | Buspatrol | Austin, Texas (hybrid) | 55 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (393)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (395)
 
 <details><summary>Show</summary>
 
@@ -255,6 +257,8 @@ Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (31)](#monday-nov-23-31) · 
 | date only | [Senior Network Engineer - Deployments](https://nvidia.eightfold.ai/careers/job/893397524029) | Nvidia | Yokne'am Illit, North District, IL (onsite) | 30 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | date only | [Senior Platform Engineer](https://apply.workable.com/raydar/j/5441B69193/) | Raydar | New York, New York, United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Azure Data Engineer](https://careers.quest-global.com/global/en/job/QGRQGAGLOBALP124862EXTERNALENGLOBAL) | Quest Global | Indianapolis, Indiana, United States | 45 | rules: 6+ yrs exp; needs: U.S. citizenship is required |
+| 8:33 AM | [DevOps & Atlassian Engineer](https://jobs.lever.co/agile-defense/bddc710c-bba9-46ea-804b-91718d58f753) | Agile Defense | Remote (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 8:32 AM | [Storage and Unix Engineer](https://jobs.lever.co/agile-defense/7370319e-cf64-47e7-8d36-3faf0f86c270) | Agile Defense | Remote (remote) | 27 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 8:01 AM | [Production Support Engineer](https://jobs.smartrecruiters.com/Wabtec/3743990017056276-production-support-engineer) | Wabtec | Erie, PA, United States | 50 | rules: adjacent title, little DevOps/cloud work in the text |
 | 7:39 AM | [Network Engineer](https://jobs.ashbyhq.com/voleon/98a23a0d-660f-4f57-b887-27b0411f8a67) | The Voleon Group | Remote, United States; New York City, N… (remote) | 27 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 4:09 AM | [Senior System Administrator](https://jobs.lever.co/jobgether/32467540-dd74-4a61-9f64-f0fd21148983) | Jobgether | US (remote) | 27 | rules: 13+ yrs exp; senior title; asks for 13+ years of experience |
