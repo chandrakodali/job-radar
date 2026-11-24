@@ -1,18 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**199 jobs**, newest first. Updated Tue Nov 24, 2:19 AM CST from 12,580 company job boards and other sources.
+**200 jobs**, newest first. Updated Tue Nov 24, 2:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 182 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (2)](#tuesday-nov-24-2) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (30)](#tuesday-nov-17-30)
+Coverage check: of 3,092 matching jobs that job sites and feeds listed this week, 1,640 (53%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Tuesday, Nov 24 (2)
+Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (30)](#tuesday-nov-17-30)
+
+## Tuesday, Nov 24 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Infrastructure Engineer](https://apply.workable.com/raydar/j/1598342CB0/) | Raydar | San Francisco, California, United States | 65 |  |
+| 2:37 AM (seen) | [Embedded Linux Engineer (C/C++ & Device Drivers)](https://ats.rippling.com/cintal/jobs/b0852677-39a0-4250-a147-db0ef2c9f0c5) | Cintal | Chillicothe, IL (onsite) | 40 |  |
 | 1:18 AM | [Senior GCP Platform Engineer – FedRAMP / High-Security Environments](https://jobs.lever.co/jobgether/caa9ffeb-4bed-4523-ae80-328dc6debac3) | Jobgether | US (remote) | 52 | senior title, years not stated |
 
 ## Monday, Nov 23 (32)
