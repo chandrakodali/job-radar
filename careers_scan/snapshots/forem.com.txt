@@ -6,80 +6,90 @@ Related tags include #resume and #portfolio as resources to enhance your #career
 Older #career posts
 … 75
 … 100
-The Third Cup: Change Never Sleeps
-Connecting ancient philosophy to modern IT systems
-xulingfeng
-for The Third Cup
-Nov 23
+One Man Built Linux in a Bedroom. Another Blew Up Three Rockets. Both Are My Idols. Who's Yours? 🚀🐧
+Readers share surprising idols in the comments
+Akhouri Anmol Kumar
+Nov 24
 # discuss
 # career
+# opensource
+# beginners
+38 reactions
+66 comments
+3 min read
+The Third Cup: After Everything Has a Name
+Connecting coding variables to café regulars
+xulingfeng
+for The Third Cup
 # programming
+# webdev
+54 reactions
+26 comments
+7 min read
+The Third Cup: Change Never Sleeps
+Connecting ancient philosophy to modern IT systems
+Nov 23
 # management
-94 reactions
-37 comments
+110 reactions
+53 comments
 6 min read
 Rent the Job. Own the Life.
 Brian Tarbox
 for AWS Heroes
 # productivity
-6 reactions
-1 comment
+9 reactions
+3 comments
 4 min read
-My Google Student Ambassador Journey 2026
-Adarsh
-# community
-# google
-# learning
-1 reaction
+Breaking Into Robot Learning: The CPU-First Path, With Receipts (and the 28% Trap)
+Quill Datafix
+# machinelearning
+# robotics
+# tutorial
 Add Comment
-3 min read
-How to find resume keywords in a job description
-HighlightCV
-# resume
-# jobsearch
-# beginners
-What is an ATS score, and what is a good one?
-Building Micro-SaaS: Lessons from 0 to First €1000 with Claude
-syncore
-# ai
-FDE job postings in India grew 19x in a year. Here is the AI half backend engineers are missing.
-Zero to FDE
-# python
 5 min read
-Your Self-Review Is Due and You Can't Remember March: 8 Mac Apps From Brag Doc to Submit (2026)
-E Daugherty
-# macos
-# tools
-How to Study for Japan's FE Exam: Split Memorization from Understanding
-SeaOtter ( Kentaro Mori )
-# japan
-# study
-# certification
-I counted the ghost jobs in my own dataset: 22.8% of live ads are 60+ days old
-David Buchan
-# dataanalysis
-# jobs
-2 comments
-The rule that pays for a Chinese workplace injury lives in four documents
-hc_xshh
-# law
-# testing
-How I Built a 100% Client-Side ATS Resume Parser & In-Place .DOCX XML Patcher in Vanilla JS
-Vinod Kumar Yadav
-# javascript
-# webdev
-# privacy
-Writing Better Pull Request Descriptions and Code Review Comments in English
-Gaurav Agarwal
-# codereview
+How Long Does It Take to Build a Website? Timelines by Scope for Developers and Freelancers
+Nilesh Sharma
+# freelance
+12 min read
+In the Age of AI, Our Communication Has Become More Rigid, Hasn't It?
+Evgueny lemasovs
+# ai
 # communication
 2 min read
-Fifty tutorials won't teach you what one broken build will: a failure log for learning new tools
-Juan Manuel Garrido
-How to make your hackathon project look great on GitHub
-KCL Tech
-# github
-# hackathon
+De la chimie au code : mon parcours dans le développement web
+Anas NSUNGU
+# learning
+2 reactions
+1 comment
+Full Stack ในยุค AI: จาก Frontend–Backend สู่การดูแลทั้งวงจรของปัญหา
+Passakon Puttasuwan
+# softwareengineering
+# fullstack
+1 min read
+How to Interview Users as an Engineer: Ask About the Problem, Not the Feature
+Muhammad Azlaan Zubair
+8 min read
+How Much Kenyan Developers Actually Keep on a $2,000 US Client Invoice (Wise vs. Payoneer vs. SWIFT)
+Ronald
+# kenya
+What I learned interning at Fileverse
+Satvik Singh
+# web3
+# backend
+# ipfs
+How to get every open job from Greenhouse, Lever and Ashby with Python (no login, no scraping of HTML)
+RAKHAT BUGUBAYEV
+# python
+# api
+# datascience
+Manual Git via Excel & 5-Minute WebSphere Boots: The Reality of Legacy Enterprise Java
+Totolis IT
+# watercooler
+# java
+# legacy
+Analisei 1.288 vagas remotas de 14 empresas internacionais: só 16% aceitam quem mora no Brasil
+Smartstackhubpro
+# braziliandevs
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Remembering Steven Schrembeck
 Frontend Isn't Dead. But the Job Title Is Changing

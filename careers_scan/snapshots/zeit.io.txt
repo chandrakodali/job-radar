@@ -3,7 +3,10 @@ Index
 Blog - Latest articles on time tracking & e-invoices
 Discover exciting articles and current updates on time tracking, e-invoicing, controlling, and HR. Dive into our blog!
 Subscribe to new articles in your feed reader: RSS feed , Atom feed or JSON Feed .
-118 articles found
+119 articles found
+One credit note per supplier contract on a timesheet
+New in ZEIT.IO: a timesheet with time from employees and external experts gets one credit note per supplier contract. Time from employment contracts is left out, and contracts without the credit memo procedure are skipped and named.
+Robert Reiz | November 24, 2026 - 10:46 UTC
 Four-eyes approval for incoming invoices
 Whoever uploads an incoming invoice now picks the approvers right away – ZEIT.IO sends the request by email. Separate permissions for capturing and approving turn this into an enforced four-eyes principle, recorded in the audit log.
 Accounting E-Invoice EN16931 XRechnung ZUGFeRD
@@ -94,6 +97,3 @@ Robert Reiz | October 07, 2026 - 04:20 UTC
 Multiple API keys with their own permissions
 New in ZEIT.IO: create a separate API key for every integration – with its own permissions just like a member, an expiry date or unlimited validity, and an overview of when and how often each key was used.
 Robert Reiz | October 02, 2026 - 10:05 UTC
-Add all employees to a project in one click
-New in ZEIT.IO: add all active employees to a project in one step. Set budget, period, roles and billing rate once; employees who are already members are skipped automatically.
-Robert Reiz | October 01, 2026 - 11:51 UTC

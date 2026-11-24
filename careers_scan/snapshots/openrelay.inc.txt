@@ -15,12 +15,12 @@ Become a Provider
 More
 Docs
 Blog
-Sign in Start free
+Sign in Start building
 Resilient compute,
 for everyone.
 OpenRelay (also written Open Relay) is a distributed overlay network for GPU inference. We connect consumer GPUs into a fault-tolerant mesh. Nodes can fail: we don't care. Traffic automatically routes around failures. Anyone can join.
 Start deploying Contact us
-overlay_network healthy
+overlay_network illustrative
 iad1
 Virginia
 92%
@@ -36,7 +36,7 @@ Amsterdam
 regions online 4 / 4
 Designed for failure.
 Centralized clouds treat a failed node as an outage. We treat it as a Tuesday. The network expects nodes to drop: and routes around them before you notice.
-scheduler.events live
+scheduler.events example
 node-iad-04
 H100 ×8 serving
 node-iad-09
@@ -55,15 +55,15 @@ Heal
 The failed node drains and rejoins when it recovers. No manual intervention.
 The principles that guide everything we build.
 Fault Tolerance First
-We design for failure. Nodes go down, networks partition: your workloads keep running. Resilience is the default, not a feature.
-Decentralized by Design
-No single datacenter, no single point of failure. Our overlay spans the globe.
+We design for failure. When a backend degrades, hosted inference routes new requests to healthy capacity without manual intervention.
+Distributed by Design
+No single datacenter, no single vendor bottleneck. Capacity spans our own servers, partner data centers, and vetted providers.
 Open Participation
-Anyone can join the network. Have a 4090 sitting idle? Contribute compute and earn.
+Approved providers enroll supported NVIDIA, AMD, or CPU nodes with one command and earn on verified utilization.
 Simple Abstractions
-Deploy inference workloads with one API call. We handle routing, failover, and load balancing.
+Call hosted models through an OpenAI-compatible API, or launch GPU VMs and pods from the same account.
 Join the team.
 We're a small team building the CDN of inference: distributed systems, GPU infrastructure, and developer experience. If routing around failure at global scale sounds like your kind of problem, we'd love to hear from you.
 Full-Stack Software Engineer (Argentina) Infrastructure Engineer (Argentina) Technical Marketer (Argentina) Member of Technical Staff, Inference Member of Technical Staff, Platform Get in touch
-Let's build the future together
-Whether you want to deploy on our network, provide compute, or join our team.
+Deploy on OpenRelay or talk to the team.
+Run inference, rent dedicated GPUs, supply capacity, or join our engineering team.

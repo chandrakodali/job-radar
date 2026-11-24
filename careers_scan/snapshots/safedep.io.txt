@@ -94,6 +94,11 @@ See pricing
 Research
 The research behind our threat intel
 We publish what we find, with the code and the indicators.
+2026-11-24
+clampony npm Dropper Stages a Windows Credential Stealer
+Two throwaway npm accounts published copies of the clamp utility, clampony and safeclamp3, with a preinstall dropper. clampony downloads a live Windows credential stealer from Pastebin on every install but does not run it yet.
+PolinRider Moves to Python with an Ethereum Calldata Loader
+PolinRider now hides a 58-line Python loader in GitHub repositories. The loader reads JavaScript from the input data of an Ethereum transaction and runs it with Node. SafeDep found it in 375 repositories, decoded the stage on the chain, and traced it to a live C2 server.
 2026-11-23
 Microsoft agent-framework Compromised Twice on PyPI
 Versions 1.26.1 and 1.26.2 of agent-framework, the Microsoft Agent Framework metapackage on PyPI, shipped a credential stealer that runs at every Python start. SafeDep flagged both. The second release went up 33 minutes after the first, with the payload renamed and GitHub Actions OIDC theft added.
@@ -103,12 +108,6 @@ The malicious npm package @leadstack/crm-connect installed Hermes Agent on Linux
 2026-11-16
 Malicious wppconnect Release Steals Secrets and WhatsApp Sessions
 Version 2.4.1 of @wppconnect-team/wppconnect and version 2.10.82 of @wppconnect/server shipped a credential stealer that runs on import or server start. It sends environment variables, .env files and WhatsApp session tokens to a Telegram bot. The repository history was then rewritten to hide the code.
-2026-11-12
-wfx: GitHub Actions Credential Stealer Hits 8,000 Repositories
-Since November 10, 2026, an attacker has used stolen GitHub tokens to push a credential stealer into more than 8,000 repositories. It runs once in GitHub Actions or on npm install, sends secrets and cloud credentials to the attacker, and leaves cloud backdoors. Then the attacker reverts the commit.
-2026-11-11
-Compromised bee-js and Swarm Desktop Steal Swarm Wallet Keys
-Version 13.3.0 of @ethersphere/bee-js, the JavaScript client for Swarm, added a postinstall hook that steals the Swarm node wallet key and installs a remote-access backdoor. Swarm Desktop 0.56.2 shipped the same loader.
 All research on the blog
 Ship code. Not malware.
 Start free with your first endpoint or repository, then roll out across your organization at your own pace.

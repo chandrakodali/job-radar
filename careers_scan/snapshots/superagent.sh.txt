@@ -7,7 +7,7 @@ ubicloud evry health dotenvx firecrawl capchase nango mastra paperclip
 …and over 3,000 open source projects, for free.
 why superagent
 all your software
-Applications, agents, repos, and infrastructure.
+Applications, agents, repos, images, DNS, and infrastructure.
 keep your integrations
 Your integrations, agents, and workflows stay. Nothing to replace.
 improves over time
@@ -35,6 +35,8 @@ dependency validation
 Find out which dependency vulnerabilities affect your app and which updates fix them.
 image validation
 Test container vulnerabilities on AWS and GCP and verify replacement images.
+script guard
+Monitor website scripts for changes and suspicious code.
 context guardrails
 Screen external content before your agents read, follow, or install it.
 runtime guardrails
@@ -43,12 +45,12 @@ Security-One-27B
 security-one-27b scores security events and returns probabilities your application can use to route decisions.
 Superagent connects with your integrations — the tools, coding agents, and delivery workflows you already run.
 changelog
-2026-11-21 (HEAD -> main) wildcard tags for image validation
+2026-11-24 (HEAD -> main) script guard
+Track website scripts through Cloudflare, compare captured versions, and get alerts when Superagent finds suspicious code.
+2026-11-21 wildcard tags for image validation
 Track deployment tags with wildcards and follow the newest matching image versions in Amazon ECR and Google Artifact Registry.
 2026-11-19 image scanning for aws and gcp
 Connect Amazon ECR and Google Artifact Registry, investigate container vulnerabilities, and verify replacement images with exploit evidence.
-2026-11-11 security graph
-Explore connected security findings in the dashboard and give agents shared memory of evidence, comments, and review decisions through MCP.
 full changelog →
 customer quotes
 “ When it comes to PRs or agents running in production, we are confident that Superagent is there to protect us all the way. ”

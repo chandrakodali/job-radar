@@ -53,8 +53,7 @@ Observability
 for what comes next.
 Start in minutes. No migrations. No data leaving your infrastructure. No surprises on the bill.
 Start Free Learn more
-HaMasger 47, Tel Aviv
-[email protected]
+HaMasger 47, Tel Aviv I [email protected]
 groundcover is a cloud-native observability platform powered by eBPF that breaks free from the limits of SaaS. Built for modern production environments, it runs entirely in your cloud to deliver full visibility at a fraction of the cost, with no blind spots, no compromises, and no operational overhead.
-Legal Center
-Trust Center
+Ask AI about us
+Google Preferred Source

@@ -4,6 +4,7 @@ supermemory is a frontier lab building memory and continual learning systems for
 We build the best, fastest, and most affordable way for agents to turn raw context into long-horizon knowledge for personalization and self-improvement.
 Start building for free Talk to sales
 Used in production by the world's best agents
+Alfi
 shapes.inc
 Zo Computer
 Keiki

@@ -1,8 +1,6 @@
-Writer
-Chat
-Citizen
-Sign Up
+Products
 Log in
+Book a Demo
 Careers
 "Abel is helping victims of crime by empowering law enforcement professionals. Our first product is Writer, which creates draft police reports for officers from their body camera footage and dispatch system data.
 I was motivated to build Abel after helping a close friend escape a domestic violence situation. Her husband found out where she was living and came to her home to threaten her. It took the police forty-five minutes to arrive. This seemed to me profoundly suboptimal and not acceptable as the status quo. After researching policing I discovered the statistic that police officers spend one third of their time on paperwork.

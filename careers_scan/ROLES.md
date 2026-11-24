@@ -1,10 +1,10 @@
 # Cloud, DevOps, SRE, platform and infrastructure roles (no job board)
 
-Updated 2026-11-24 01:17 UTC. **92 open roles** at 71 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
+Updated 2026-11-24 11:41 UTC. **93 open roles** at 72 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
 
 **Apply:** the ✉ link opens an email to the company's hiring address with the subject filled in; attach your résumé. Scores and notes use the radar's rules (config.yaml): higher is a better early-career fit; "location unclear" means the page didn't say, so check it. 🆕 = first seen in the last 2 days.
 
-## US or location not stated (92)
+## US or location not stated (93)
 
 | Score | Role | Company | Location | Apply | Since | Notes |
 |---:|---|---|---|---|---|---|
@@ -51,6 +51,7 @@ Updated 2026-11-24 01:17 UTC. **92 open roles** at 71 companies that post jobs o
 | 45 | [SysOps / Cloud System Engineer](https://www.sardinasystems.com/about-us/careers/) | Sardina Systems | ? | [✉ jobs@sardinasystems.com](mailto:jobs@sardinasystems.com?subject=Application%3A%20SysOps%20/%20Cloud%20System%20Engineer%20%E2%80%93%20Sardina%20Systems) | Nov 11 | location unclear |
 | 45 | [Cloud Operations Developer](https://www.sardinasystems.com/about-us/careers/) | Sardina Systems | ? | [✉ jobs@sardinasystems.com](mailto:jobs@sardinasystems.com?subject=Application%3A%20Cloud%20Operations%20Developer%20%E2%80%93%20Sardina%20Systems) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer](https://www.strikingly.com/s/careers) | Strikingly | ? | [✉ jobs@strikingly.com](mailto:jobs@strikingly.com?subject=Application%3A%20DevOps%20Engineer%20%E2%80%93%20Strikingly) | Nov 11 | location unclear |
+| 45 | [Infrastructure Engineer](https://careers.superb-ai.com/) 🆕 | Superb AI | ? | [Careers page](https://careers.superb-ai.com/) | Nov 24 | location unclear |
 | 45 | [Platform Engineer](https://traefik.io/careers) | Traefik Labs | ? | [✉ jobs@traefik.io](mailto:jobs@traefik.io?subject=Application%3A%20Platform%20Engineer%20%E2%80%93%20Traefik%20Labs) | Nov 11 | location unclear |
 | 45 | [Site Reliability Engineer](https://www.unkey.com/careers) | Unkey | ? | [✉ jobs@unkey.com](mailto:jobs@unkey.com?subject=Application%3A%20Site%20Reliability%20Engineer%20%E2%80%93%20Unkey) | Nov 11 | location unclear |
 | 42 | [Databend Cloud Platform Engineer (Remote)](https://www.databend.com/jobs/databend-cloud-platform-engineer) | Databend | Remote | [✉ hr@databend.com](mailto:hr@databend.com?subject=Application%3A%20Databend%20Cloud%20Platform%20Engineer%20%28Remote%29%20%E2%80%93%20Databend) | Nov 11 | 3+ yrs exp |
