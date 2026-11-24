@@ -62,9 +62,6 @@ Principal Software Engineer Fully remote Logfire — Observability Ingest View r
 Senior Harness Engineer Fully remote Pydantic AI View role
 We're always on the look for exceptional talent, if that's you and you can't see the right role
 Email us
-Explore Logfire.
-Sign up
-Explore our open source packages
 Get started with Logfire for free
 Sign up today and see your first trace in under 2 minutes
 01 Install

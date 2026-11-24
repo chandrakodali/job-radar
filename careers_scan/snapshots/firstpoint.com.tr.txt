@@ -10,6 +10,8 @@ Longy
 Cosmo Puzzle
 NFC Tool
 Pulsefy
+SmileCat
+Neck Posture
 CosmoWords
 Portfolio
 Our Apps
@@ -20,12 +22,12 @@ Daily horoscope
 Roguelike blackjack
 Bluetooth finder
 Speaker water eject
-Sauna & cold plunge
-Match-3 puzzle
 NFC read & write
 Heart rate monitor
+Aligner tracker
+AirPods posture alerts
 Word puzzle
-View all apps
+13 View all apps
 Products
 Featured Projects
 Check out what we've been working on

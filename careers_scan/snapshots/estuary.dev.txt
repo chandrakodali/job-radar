@@ -1,6 +1,10 @@
 Estuary is simplifying how the world moves data so teams can build , adapt , and innovate without limits.
-Estuary is the right-time data platform that unifies CDC, batch, and streaming into one dependable system. Built for enterprises that need control over cost, latency, and deployment, Estuary helps teams move data exactly when it's needed - powering analytics, operations, and AI without the complexity of multiple tools.
+Estuary is the right-time data platform that unifies CDC, batch, and streaming into one dependable system. Built for enterprises that need control over cost, latency, and deployment, Estuary helps teams move data exactly when it’s needed - powering analytics, operations, and AI without the complexity of multiple tools.
 Read our story
+Our history
+We didn’t start at trying to make real-time data flows more accessible by abstracting away the low-level work… it is just what happened.
+Our team researched streaming frameworks while working with billions of daily events, and ultimately realized that we’d have to build our own ( Gazette ) to have a scalable distributed streaming framework that is built with kappa architectures in mind, required less continuous resource management, and could unify both our batch and real-time pipelines.
+We’ve been innovating to make real-time data more accessible to all ever since.
 12 years of real-time innovation
 2014
 Gazette is born inside Arbor as an internal pub-sub streaming framework.
@@ -16,10 +20,6 @@ FirstMark invests $7 million in Estuary.
 Estuary launches its SaaS product to enable building right-time data flows. A self-service UI for building real-time pipelines and transforming them in streaming SQL.
 2025
 Estuary raises a $17 million Series A led by M13.
-Our history
-We didn't start at trying to make real-time data flows more accessible by abstracting away the low-level work… it is just what happened.
-Our team researched streaming frameworks while working with billions of daily events, and ultimately realized that we'd have to build our own ( Gazette ) to have a scalable distributed streaming framework that is built with kappa architectures in mind, required less continuous resource management, and could unify both our batch and real-time pipelines.
-We've been innovating to make real-time data more accessible to all ever since.
 In the media
 Estuary Rewrites Its Runtime for Agents at Enterprise Scale
 PR Newswire release on the Rust rewrite of our runtime, built so agents and operational systems act on complete, transactional data in real time at any scale.
@@ -27,6 +27,9 @@ Crafting Autonomous Data Pipelines for AI
 DBTA recaps its roundtable webinar where Dave Yaffe joins Informatica and WhereScape on how pipelines that create, heal, and reason unblock enterprise AI.
 Estuary raises $17M to solve data movement
 SiliconANGLE covers our $17M raise led by M13 and how a single batch and streaming pipeline ends the fragmentation that slows AI teams down.
+Let’s talk about your data
+Have a specific question or comment? Send us a note and a team member will reach out to you shortly.
+If you don't see the form, please click here to open it in a new tab.
 Meet Our Team
 Alex Bair
 Software Engineer
@@ -74,8 +77,8 @@ Zulfikar Qureshi
 Head of Sales Engineering
 Our investors
 Come work with us
-About you : You're curious, self-driven, and inspired by the challenge of making complex systems simple. You see the potential in a world powered by dependable, right-time data and you want to help build it.
-About us : We're a fast-growing, engineering-led team backed by successful repeat founders. At Estuary, we're redefining how data moves, eliminating brittle pipelines and building the dependable infrastructure that powers analytics, operations, and AI for the world's leading enterprises.
+About you : You’re curious, self-driven, and inspired by the challenge of making complex systems simple. You see the potential in a world powered by dependable, right-time data and you want to help build it.
+About us : We’re a fast-growing, engineering-led team backed by successful repeat founders. At Estuary, we’re redefining how data moves, eliminating brittle pipelines and building the dependable infrastructure that powers analytics, operations, and AI for the world’s leading enterprises.
 Current openings
 Working at Estuary
 Location
@@ -85,10 +88,11 @@ We provide 100% employee coverage on healthcare, 401k, competitive equity, and u
 Culture
 Like the product we build, our culture is forward-thinking and open. Our team operates on a foundation of trust, is resourceful, collaborative, but also independent.
 Community
-We offer perks including team happy hours, weekly lunches, and quarterly off-sites. With our rapid growth, now's an exciting time to come aboard.
+We offer perks including team happy hours, weekly lunches, and quarterly off-sites. With our rapid growth, now’s an exciting time to come aboard.
 Know somebody who would be a good fit? We offer a $2,500 referral bonus.
 Get in touch to apply
-Location: United Kingdom / Ireland
+Location:
+United Kingdom / Ireland
 As a Solutions Engineer at Estuary, you’ll work directly with our founding team to help companies unlock the power of their real-time data. Your work will directly shape how users harness their real-time data, driving our product's development and creating seamless user experiences.
 Working at the intersection of engineering, product, and customers, this role offers the unique opportunity to influence Estuary’s product roadmap while ensuring a smooth and impactful experience for our users.
 We’re looking for individuals with an insatiable curiosity to dive into technical challenges and an empathetic approach to making complex concepts accessible to others. This role is perfect for someone who thrives in a startup environment and seeks the freedom to implement ideas without the constraints of a larger company.
@@ -123,7 +127,7 @@ Team offsite meetings in fun locations like Miami, Boulder, and Austin. Getting 
 Competitive salary, equity, and benefits package.
 If you’re passionate about solving complex problems, helping customers succeed, and building for scale, we’d love to hear from you!
 Head of Marketing
-Location: New York, NY / Remote
+New York, NY / Remote
 Department: Marketing
 Reports to: CEO & Co-founder
 Compensation: Base + Equity + Benefits
@@ -171,7 +175,7 @@ Company offsites in places like Miami, Austin, Boulder, and New Orleans
 How to Apply
 Send your resume and a short note to careers@estuary.dev about a marketing function or campaign you built: what you started with, what it produced, and what you'd do differently.
 Sales Engineer
-Location: New York, NY / Remote within United States
+New York, NY / Remote within United States
 Estuary unifies change data capture, batch pipelines, and streaming into one platform. Instead of managing separate ETL tools, replication systems, and streaming infrastructure, teams use Estuary to move and transform data across their stack in real time.
 We work with modern data and platform teams who need reliable pipelines, predictable costs, and flexible deployment options — whether in the cloud or in their own environment.
 Your Opportunity
@@ -206,7 +210,7 @@ Work Location & Travel
 While Estuary operates as a remote-first company, we are prioritizing candidates based in the New York City area for this role.
 Travel is estimated at ~15% for customer meetings and company events.
 Technical Writer / Project Based
-Location: Remote
+Remote
 Estuary is reshaping how the world moves data. Our right time data platform unifies CDC, batch, and streaming into one dependable system, eliminating the need to stitch together fragmented ETL and replication tools. We are also one of the first data infrastructure companies shipping into the AI agent stack. Our skills library plugs directly into Claude, Cursor, and other assistants, turning Estuary into a tool agents can actually use.
 We help data teams build modern, real-time infrastructure that powers analytics, operations, and AI without the complexity and cost of legacy tools. Backed by top investors and led by experienced repeat founders in data infrastructure, we recently raised a $17M Series A led by M13.
 As organizations shift toward right-time architectures, the market is moving fast, and we are too. We are looking for a contract technical writer who can translate this platform into deep, useful content that data teams actually want to read and that ranks for the queries our buyers run when they are evaluating tools.
@@ -240,7 +244,7 @@ Fully remote, US-based or US-time-zone friendly preferred
 Immediate start
 Send a short note, your rate expectations, and 2–3 writing samples that demonstrate technical depth.
 Account Executive
-Location: New York, NY / Remote - United States
+New York, NY / Remote - United States
 Location: Remote (US)
 Department: Sales
 Reports to: Head of Sales / GTM Lead
@@ -272,7 +276,7 @@ Work alongside a deeply technical team building category-defining infrastructure
 Competitive compensation, equity, and benefits.
 Remote-first culture with meaningful ownership and impact.
 Product Manager
-Location: United States / Remote
+United States / Remote
 At Estuary, we’re building the infrastructure that powers real-time data movement — helping companies sync, transform, and operationalize data across databases, warehouses, and streaming systems.
 Following a $17M Series A led by M13, we’re entering the next phase of growth — expanding the product, scaling the team, and continuing to build and scale our core data platform.
 We’re hiring a founding Product Manager to help shape what we build and why. You’ll work directly with our founders, engineers, and customers to define product direction across the core platform — from control plane to connectors to user experience.
@@ -337,7 +341,7 @@ Flexible remote work with a culture that respects work-life boundaries.
 A high-autonomy environment where your contributions have a direct impact on the product.
 Quarterly team offsites in cities like Miami, Austin, Boulder, and New Orleans to build community and connection.
 Senior Systems Engineer (Control & Data Plane)
-Location: Remote / USA
+Remote / USA
 Estuary is a real-time data integration platform built for both fast-moving developers and large-scale enterprises. We combine change data capture (CDC), stream processing, and declarative configuration into a unified system that simplifies complex data movement. With Estuary, teams build reliable, low-latency pipelines — without the overhead of managing data infrastructure.
 As a Senior Systems Engineer, you will be a core contributor to our Control and Data Planes . This is a high-impact role where you will build the high-performance backbone that manages distributed state, ensures sub-second latency, and scales to handle massive throughput. You’ll join a high-trust, collaborative team that values technical excellence, diverse perspectives, and clear communication.
 Architect & Build: Design and implement high-performance components for our data plane (stream processing and transport) and control plane (orchestration and state management).
@@ -415,12 +419,12 @@ Estuary operates as a remote-first company. While the role is open to candidates
 Travel is estimated at ~10–15% for customer meetings, partner events, and company offsites.
 Send a resume and a short note about a recent piece of PMM work you are proud of (what it was, what it changed, and what you would do differently to careers@estuary.dev .
 Security Compliance Manager
-Location: United States
+United States
 Estuary is a real-time data integration platform built for both fast-moving developers and large-scale enterprises. We combine change data capture (CDC), stream processing, and declarative configuration into a unified system that simplifies complex data movement. With Estuary, teams build reliable, low-latency pipelines, without the overhead of managing data infrastructure.
 We’re looking for a Security Compliance Manager to join our Security & Compliance team. Our SOC 2 and HIPAA programs are mature and audited, and GDPR and PCI DSS are a growing focus as more enterprise customers rely on us. You’ll work across all of them with our security and engineering teams, keeping each at the standard our customers expect.
-This is a governance role first. You'll run the audit cycle, automate evidence collection, keep policy current as the company and product change, and answer compliance questions on customer security calls.
+This is a governance role first. You’ll run the audit cycle, automate evidence collection, keep policy current as the company and product change, and answer compliance questions on customer security calls.
 Success requires a blend of deep framework expertise and practical systems judgment. You will be translating abstract control language into automation and defaults engineers can work with, rather than policy that sits apart from the work.
-Compliance at Estuary carries commercial weight, not just risk weight. Customers move sensitive data through our platform, and our ability to show exactly how it is protected is part of what earns that. This work is visible to customers in a way compliance often isn't.
+Compliance at Estuary carries commercial weight, not just risk weight. Customers move sensitive data through our platform, and our ability to show exactly how it is protected is part of what earns that. This work is visible to customers in a way compliance often isn’t.
 Audits and assessments. Coordinate Estuary’s external audits and assessments, including the annual SOC 2 and HIPAA audit and Google’s CASA assessment. This means keeping the audit schedule, preparing and submitting applications, gathering evidence, acting as the day-to-day contact for auditors and assessors, and recording results and follow-up items. The security team runs the annual penetration test. You will handle its compliance side: filing the report as audit evidence and documenting remediation and retest results.
 Continuous compliance. Maintain the program in our compliance automation platform so controls are monitored and evidence stays current all year, not just during audit periods. Build toward a public trust center where customers can review Estuary’s security and compliance status for themselves.
 Framework expansion. Help Estuary adopt additional frameworks and audit scope as the business needs them, such as PCI DSS, NIST CSF 2.0, and SOC 2 Trust Services Criteria beyond Security. Map existing controls, find the gaps, and work with the relevant teams to close them.
@@ -435,19 +439,16 @@ Other security and compliance duties as assigned.
 8+ years in compliance, GRC, or security governance: You have run audits yourself, not just supported them, at a SaaS company whose product was in audit scope.
 SOC 2 experience: You have taken a SOC 2 Type II through at least one full audit cycle, from evidence collection through the final report and follow up items
 Compliance automation: You have run a program on a compliance automation platform and know where it saves work and where you still need to check things by hand
-Compliance Automation Tooling: Hands-on with platforms like Vanta, Drata, or Secureframe, and clear eyed about where they help and where they don't.
+Compliance Automation Tooling: Hands-on with platforms like Vanta, Drata, or Secureframe, and clear eyed about where they help and where they don’t.
 Privacy experience: You are comfortable with GDPR in practice: records of processing, data processing agreements, subprocessor management, transfer mechanisms, and completing data subject requests within their deadlines.
 Customer assurance: You have completed security questionnaires and due diligence requests for enterprise customers, and you can explain how our controls work to a prospect’s security team on a call.
 Follow-through: You keep many recurring tasks on schedule, such as training, policy reviews, vendor reviews and open findings, and you follow up with people until the work is done.
 Working with engineers: You can read a cloud architecture diagram, talk with engineers about infrastructure and access controls, and work with them to get findings fixed.
 Policy and risk judgement: You write policy precise enough to audit against and practical enough to follow, and you can document a risk decision and explain it to an auditor.
 Track record: Certifications like CISSP, CISA, or CIPP/E are welcome. We weigh experience running programs most heavily.
-We know that excellence comes in many forms. If you don't meet 100% of these qualifications but have carried a compliance program through a full audit cycle and are excited about what we're building, we encourage you to apply.
+We know that excellence comes in many forms. If you don’t meet 100% of these qualifications but have carried a compliance program through a full audit cycle and are excited about what we’re building, we encourage you to apply.
 Direct PCI DSS Experience: Hands-on with PCI scoping, cardholder data environments, and the SAQ or ROC process, especially as a service provider rather than a merchant.
 Data Infrastructure Context: Experience supporting a data platform, ETL or CDC vendor, or a similar company where customer data is the product surface.
 Public Sector Experience: Hands-on experience with FedRAMP, StateRAMP, or NIST 800-53
-Startup Grit: Experience in fast-paced environments where you've balanced rapid iteration with durable process.
+Startup Grit: Experience in fast-paced environments where you’ve balanced rapid iteration with durable process.
 Team offsites in cities like Miami, Austin, Boulder, and New Orleans to build community and connection.
-Let's talk about your data
-Have a specific question or comment? Send us a note and a team member will reach out to you shortly.
-If you don't see the form, please click here to open it in a new tab.

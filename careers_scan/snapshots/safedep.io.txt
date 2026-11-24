@@ -94,12 +94,12 @@ See pricing
 Research
 The research behind our threat intel
 We publish what we find, with the code and the indicators.
+2026-11-23
+Microsoft agent-framework Compromised Twice on PyPI
+Versions 1.26.1 and 1.26.2 of agent-framework, the Microsoft Agent Framework metapackage on PyPI, shipped a credential stealer that runs at every Python start. SafeDep flagged both. The second release went up 33 minutes after the first, with the payload renamed and GitHub Actions OIDC theft added.
 2026-11-19
 Malicious npm Package Turns Hermes Agent into a Backdoor
 The malicious npm package @leadstack/crm-connect installed Hermes Agent on Linux servers, loaded it with keys and instructions from the attacker's server, and connected it to the attacker's Telegram bot as a boot-time systemd service.
-2026-11-18
-Microsoft agent-framework Compromised Twice on PyPI
-Versions 1.26.1 and 1.26.2 of agent-framework, the Microsoft Agent Framework metapackage on PyPI, shipped a credential stealer that runs at every Python start. SafeDep flagged both. The second release went up 33 minutes after the first, with the payload renamed and GitHub Actions OIDC theft added.
 2026-11-16
 Malicious wppconnect Release Steals Secrets and WhatsApp Sessions
 Version 2.4.1 of @wppconnect-team/wppconnect and version 2.10.82 of @wppconnect/server shipped a credential stealer that runs on import or server start. It sends environment variables, .env files and WhatsApp session tokens to a Telegram bot. The repository history was then rewritten to hide the code.

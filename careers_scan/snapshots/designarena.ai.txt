@@ -1,9 +1,9 @@
 Join Intelligence
-Help define what AI becomes good at. We're building the benchmarks and arenas that shape the future of intelligence.
-See open positions
+Help define what AI becomes good at. We're building the benchmarks and arenas that shape the future of design and intelligence.
+See open positions How we hire
 What We Do
 We build products used by millions of people around the world to give us direct access to how people actually use models. We built our flagship product, DesignArena , because we believed taste, despite being one of the hardest things to measure, was too valuable to be overlooked.
-We've now scaled DesignArena to over 6.0 million users across 190+ countries and counting, becoming the most widely cited benchmark for AI design. We've done launches like Thinking Machines , Muse Spark 1.2 , Fal H3 Max , Grok , Ideogram 4.0 , and many more.
+We've now scaled DesignArena to over 6M+ users across 190+ countries and counting, becoming the most widely cited benchmark for AI design. We've done launches like Thinking Machines , Muse Spark 1.2 , Fal H3 Max , Grok , Ideogram 4.0 , and many more.
 Backed by
 We're hiring
 Our Benefits
@@ -15,5 +15,3 @@ Generous PTO
 Meals & snacks in-office
 Generous tech stipend
 Competitive compensation
-Featured by
-Our mentions in the media by the most prominent people in tech today.

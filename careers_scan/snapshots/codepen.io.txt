@@ -1,11 +1,15 @@
 📝 Blog Post
-Chris’ Corner: Sourcemaps
-Sourcemaps aren’t new, but they’re still fascinating. Neciu Dan recently wrote a good overview article. The CSS and JavaScript we write are likely processed before they become the CSS and JavaScript sent over the internet to a browser. An obvious one is that you might author TypeScript, which is then processed into JavaScript, then bundled, […]
+Chris’ Corner: Opining on CSS
+It was fun to read Julia Evans’ journey to just writing CSS again, from originally using Tailwind. It’s a very personal journey with personal reasons, and I like the realness of that. Like Julia never really used a build system, which is, dare I say, kind of the point of Tailwind. Without it, instead of […]
 Read More
-of the article "Chris’ Corner: Sourcemaps"
-November 16, 2026
+of the article "Chris’ Corner: Opining on CSS"
+November 23, 2026
 Chris Coyier
 Co-Founder
+Chris’ Corner: Sourcemaps
+Sourcemaps aren’t new, but they’re still fascinating. Neciu Dan recently wrote a good overview article. The CSS and JavaScript we write are likely processed before they become the CSS and JavaScript sent over the internet to a browser. An obvious one is that you might author TypeScript, which is then processed into JavaScript, then bundled, […]
+of the article "Chris’ Corner: Sourcemaps"
+November 16, 2026
 🎧 Podcast
 448: CSS Modules is Cool Again
 Shaw and Chris talk CSS Modules, a rather old bit of technology in the CSS-in-JS category. CodePen now supports them, which took a little work because the way they process code is a smidge unusual. We use CodePen Modules (with Sass!) here at CodePen so we knew we wanted to support them, but we got […]
@@ -39,8 +43,4 @@ October 14, 2026
 We’ve made several upgrades to uploading/hosting images on CodePen lately. One change, moving to the open-source file-uploading library Uppy, was driven by business concerns. But the benefits are good for everyone: uploads are faster, and the money we saved let us increase file size limits and total storage limits on the higher PRO plans. Plus, […]
 of the article "443: Image Hosting is Quite Powerful on CodePen"
 October 6, 2026
-442: Pens are Actually Websites
-Stephen and Chris jump on the podcast to talk about our (ahem, super cool) deployment feature. Any Pen can be a website! Well, they kinda are already, but you know what I mean. If you’re a PRO user all you do is click a button and the Pen is instantly deployed at a *.codepen.app website. […]
-of the article "442: Pens are Actually Websites"
-September 30, 2026
 ← Older posts

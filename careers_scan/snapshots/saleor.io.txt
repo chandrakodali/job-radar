@@ -1,8 +1,8 @@
 Saleor Commerce Cloud
 API Calls Hourly
-520,778
+792,656
 24h peak
-984,226
+1,123,927
 Handling 1B+ requests a month
 Transacting 400k orders a month
 Open Source
@@ -16,19 +16,19 @@ Extensible
 NEW
 Paper Storefront
 Latest Releases
-6 days ago 3.23.50
+7 days ago 3.23.50
 20 days ago 3.22.77
 2 months ago 3.21.71
 Your store's vitals → Your store's vitals, now in Saleor →
 Cloud Activity Hourly
 API Calls
 Latest releases
-3.23.50 6 days ago
+3.23.50 7 days ago
 3.22.77 20 days ago
 3.21.71 2 months ago
 Vision Three ways to build commerce →
 You sell. We make your ecommerce platform work.
-Ship novel ecommerce apps ridiculously fast.
+Ship novel ecommerce experiences ridiculously fast.
 This is how
 We migrate you off your current commerce software, build your storefront and customization with you, run it for you, and keep reshaping it as things change. It's all included in one subscription.
 Your business rules, your UX, your integrations, your agents, all wired in.
@@ -39,10 +39,14 @@ Case study
 Case study →
 Take full control of your experiences
 Built for business, loved by merchants
-01 Control everything in one place
-02 Build fast, integrate freely
-03 Grow without replatforming
-04 Own your stack, own your future
+01 Control everything
+in one place
+02 Build fast,
+integrate freely
+03 Grow without
+replatforming
+04 Own your stack,
+own your future
 01 Powerful Dashboard
 Not just APIs. Together with powerful API comes a fast, extensible administration dashboard built for humans.
 Batteries included. PIM, OMS, Translations, …

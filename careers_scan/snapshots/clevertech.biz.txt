@@ -38,14 +38,6 @@ Azure
 Data Tech Lead - Databricks
 Tech Lead
 Amazon Web Services (AWS)
-AWS DevOps Engineer - Tech Lead
-AWS CloudFormation
-Bash
-Bitbucket
-CI/CD
-CircleCI
-Confluence
-+ 17 more
 AI-Native Cyber Security Manager
 AWS Certified Advanced Networking – Specialty
 AWS Certified Cloud Practitioner
@@ -55,11 +47,14 @@ AWS Certified Data Engineer – Associate
 AWS Certified Developer – Associate
 + 8 more
 Senior Databricks Engineer
-Machine Learning Engineer
-Data Governance Engineer
-RESTful APIs
-SOAP APIs
-API Integration
+Agentic Quality Engineering
+Quality Assurance and Testing
+Senior Azure Databricks Engineer
+Software Engineer Lead
+Java
+Kotlin
+Spring Boot
+React
 How we hire
 Frequently asked questions
 What is the difference between a ‘hot’ and an ‘evergreen’ role?

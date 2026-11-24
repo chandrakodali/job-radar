@@ -1,10 +1,10 @@
 # Cloud, DevOps, SRE, platform and infrastructure roles (no job board)
 
-Updated 2026-11-23 09:50 UTC. **90 open roles** at 70 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
+Updated 2026-11-24 01:17 UTC. **92 open roles** at 71 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
 
 **Apply:** the ✉ link opens an email to the company's hiring address with the subject filled in; attach your résumé. Scores and notes use the radar's rules (config.yaml): higher is a better early-career fit; "location unclear" means the page didn't say, so check it. 🆕 = first seen in the last 2 days.
 
-## US or location not stated (90)
+## US or location not stated (92)
 
 | Score | Role | Company | Location | Apply | Since | Notes |
 |---:|---|---|---|---|---|---|
@@ -29,7 +29,7 @@ Updated 2026-11-23 09:50 UTC. **90 open roles** at 70 companies that post jobs o
 | 45 | [DevOps Engineer](https://www.anjuna.io/careers) | Anjuna | ? | [Careers page](https://www.anjuna.io/careers) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer (WordPress & Hosting)](https://brainstormforce.com/join/) | Brainstorm Force | ? | [Careers page](https://brainstormforce.com/join/) | Nov 11 | location unclear |
 | 45 | [Infrastructure Engineer](https://browser-use.com/careers) | Browser Use | ? | [✉ apply@browser-use.com](mailto:apply@browser-use.com?subject=Application%3A%20Infrastructure%20Engineer%20%E2%80%93%20Browser%20Use) | Nov 11 | location unclear |
-| 45 | [AWS DevOps Engineer](https://lumenalta.com/remote-jobs) | Clevertech | ? | [Careers page](https://lumenalta.com/remote-jobs) | Nov 11 | location unclear |
+| 45 | [DevOps Engineer](https://www.carmatec.com/careers/) | Carmatec | ? | [Careers page](https://www.carmatec.com/careers/) | Nov 11 | location unclear |
 | 45 | [Cloud Developer](https://cloudbase.it/project/cloud-developer/) | Cloudbase Solutions | ? | [Careers page](https://cloudbase.it/project/cloud-developer/) | Nov 11 | location unclear |
 | 45 | [Founding Engineer, Infrastructure](https://cloudglue.dev/careers) | Cloudglue | ? | [Job post](https://www.notion.so/aviaryhq/Founding-Engineer-Infrastructure-6835e276619a42f1b7a94f8075040201) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer](https://coredge.io/career) | Coredge | ? | [Careers page](https://coredge.io/career) | Nov 11 | location unclear |
@@ -70,6 +70,7 @@ Updated 2026-11-23 09:50 UTC. **90 open roles** at 70 companies that post jobs o
 | 37 | [Senior DevOps/Integration Engineer](https://netris.io/careers/) | Netris | Remote, US | [Careers page](https://netris.io/careers/) | Nov 13 | senior title, years not stated |
 | 37 | [Senior DevOps Engineer](https://netris.io/careers/) | Netris | Remote, US | [Careers page](https://netris.io/careers/) | Nov 13 | senior title, years not stated |
 | 37 | [Cloud DevOps Engineer](https://www.ravn.com/jobs/0c0134c9-c594-4582-9df8-e652680d027c) | Ravn | Remote | [Careers page](https://www.ravn.com/jobs/0c0134c9-c594-4582-9df8-e652680d027c) | Nov 11 | 3+ yrs exp; location unclear |
+| 35 | [Senior Azure Databricks Engineer](https://lumenalta.com/remote-jobs) 🆕 | Clevertech | ? | [Careers page](https://lumenalta.com/remote-jobs) | Nov 24 | senior title, years not stated; location unclear |
 | 35 | [Senior DevOps Engineer](https://cloudification.io/careers/) | Cloudification | ? | [✉ careers@cloudification.io](mailto:careers@cloudification.io?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20Cloudification) | Nov 13 | senior title, years not stated; location unclear |
 | 35 | [Senior DevOps Engineer](https://coredge.io/career) | Coredge | ? | [Careers page](https://coredge.io/career) | Nov 13 | senior title, years not stated; location unclear |
 | 35 | [Senior Site Reliability Engineer](https://www.getdbt.com/about-us/careers) | dbt Labs | ? | [Apply form](https://docs.google.com/forms/d/e/1FAIpQLScqDOsEJFKOvlpC8-XYHkKxq6nXV_gXhrGy1F_HAVQJCd_KBA/viewform) | Nov 13 | senior title, years not stated; location unclear |
@@ -82,6 +83,7 @@ Updated 2026-11-23 09:50 UTC. **90 open roles** at 70 companies that post jobs o
 | 32 | [Senior DevOps Engineer](https://kaufland-ecommerce.com/en/careers/) | Kaufland e-commerce | Remote | [✉ jobs@kaufland-ecom.com](mailto:jobs@kaufland-ecom.com?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20Kaufland%20e-commerce) | Nov 13 | senior title, years not stated; location unclear |
 | 32 | [Senior DevOps Engineer](https://meteorops.com/job/senior-devops-engineer) | MeteorOps | Remote | [Careers page](https://meteorops.com/job/senior-devops-engineer) | Nov 13 | senior title, years not stated; location unclear |
 | 32 | [Senior Kubernetes Storage Engineer (Rook/Ceph)](https://meteorops.com/job/senior-kubernetes-storage-engineer-rook-ceph) | MeteorOps | Remote | [Careers page](https://meteorops.com/job/senior-kubernetes-storage-engineer-rook-ceph) | Nov 13 | senior title, years not stated; location unclear |
+| 30 | [Linux System Administrator](https://www.carmatec.com/careers/) | Carmatec | ? | [Careers page](https://www.carmatec.com/careers/) | Nov 11 | location unclear |
 | 30 | [Production Engineer, European Cell](https://isengardindustries.com/careers.html) | Isengard Industries Inc | ? | [✉ hello@isengardindustries.com](mailto:hello@isengardindustries.com?subject=Application%3A%20Production%20Engineer%2C%20European%20Cell%20%E2%80%93%20Isengard%20Industries%20Inc) | Nov 11 | location unclear |
 | 30 | [Linux Software Engineer](https://linbit.com/jobs/) | LINBIT | ? | [Careers page](https://linbit.com/jobs/) | Nov 11 | location unclear |
 | 30 | [Security / IoT deployment engineer](https://rimward.ai/careers/) | Rimward | ? | [✉ careers@rimward.ai](mailto:careers@rimward.ai?subject=Application%3A%20Security%20/%20IoT%20deployment%20engineer%20%E2%80%93%20Rimward) | Nov 11 | location unclear |
@@ -99,7 +101,7 @@ Updated 2026-11-23 09:50 UTC. **90 open roles** at 70 companies that post jobs o
 | 20 | [Storage Engineer (Senior)](https://www.stackbill.com/company/career.html) | Stackbill Private Limited | ? | [Careers page](https://www.stackbill.com/company/career.html) | Nov 13 | senior title, years not stated; location unclear |
 | 20 | [Virtualization Engineer (Senior)](https://www.stackbill.com/company/career.html) | Stackbill Private Limited | ? | [Careers page](https://www.stackbill.com/company/career.html) | Nov 13 | senior title, years not stated; location unclear |
 
-## Outside the US (8)
+## Outside the US (9)
 
 | Score | Role | Company | Location | Apply | Since | Notes |
 |---:|---|---|---|---|---|---|
@@ -111,6 +113,7 @@ Updated 2026-11-23 09:50 UTC. **90 open roles** at 70 companies that post jobs o
 | 45 | [Site Reliability Engineer](https://tyk.io/jobs/sre/) | Tyk | APAC | [Apply](https://apply.workable.com/tyk-technologies/j/A0C7C4347A/apply/) | Nov 11 | 3+ yrs exp |
 | 40 | [Senior Application Security Engineer](https://www.red-gate.com/our-company/careers/current-opportunities/senior-application-security-engineer) | Redgate Software | ? | [Apply](https://jobs.ashbyhq.com/red-gate/354fd654-ed2d-461a-8ff7-a8b6e810a3a5/application) | Nov 13 | senior title, years not stated |
 | 30 | [Senior AI Platform Engineer](https://www.guesty.com/careers-open-positions/co/israel/D2.374/senior-ai-platform-engineer/) | Guesty | Israel | [Careers page](https://www.guesty.com/careers-open-positions/co/israel/D2.374/senior-ai-platform-engineer/) | Nov 13 | 5+ yrs exp; senior title |
+| 30 | [Senior DevOps Engineer](https://ooakdata.com/careers?job_id=123830) 🆕 | Ooak Data | ? | [✉ careers@ooakdata.com](mailto:careers@ooakdata.com?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20Ooak%20Data) | Nov 24 | 6+ yrs exp; senior title |
 
 ## Need a clearance or US citizenship (11)
 

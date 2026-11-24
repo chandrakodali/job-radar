@@ -14,14 +14,9 @@ Join us as an Account Executive, responsible for managing the entire sales lifec
 Senior Control Plane Backend Engineer (Golang)
 full-time • Israel
 We are looking for a Senior Software Engineer to help evolve Dragonfly Cloud as the world's leading managed in-memory store.
-Principal Software Engineer (C++)
-We’re looking for a hands-on Principal Engineer to lead our core C++ team in building a next-generation in-memory datastore.
 Technical Solutions Engineer
 full-time • North America
 The Technical Solutions Engineer will play a pivotal role in helping Dragonfly secure and support larger customers with complex needs.
-Core C++ Engineer
-full-time • Israel (Hybrid) / Remote
-Exciting opportunity for C++ engineers to play a meaningful role in shaping the next generation of the in-memory data store technology.
 Sales Development Representative
 full-time • Remote (North America)
 Join us as one of the first sales hires, driving growth and building relationships with our expanding customer base.

@@ -44,7 +44,7 @@ Add customer accounts
 Build custom dashboards
 Generate images
 Standard weekly AI usage
-1 workspace seat
+3 members
 3 custom domains
 5,000 emails per month
 Pro
@@ -52,16 +52,16 @@ For growing businesses.
 $ 100 / month
 Everything in Plus, and:
 4× the weekly AI usage of Plus
-5 workspace seats
-10 custom domains
+5 members
+5 custom domains
 50,000 emails per month
 Max
 For high-volume work.
 $ 200 / month
 Everything in Pro, and:
 8× the weekly AI usage of Plus
-Unlimited workspace seats
-25 custom domains
+Unlimited members
+10 custom domains
 250,000 emails per month
 Contact us for higher limits.
 Free trial
@@ -71,6 +71,6 @@ Frequently asked questions
 Yes. Most people start with a simple website in Repaint. Every plan lets you create, publish, and manage websites. Then at any point, you can easily add payments, memberships, and other business features.
 Yes. Repaint was actually built to redesign websites before it became a business platform. You can give it your website’s URL and have it import your content, either matching your existing design or redesigning the site. Once you’re happy with the new website, you can publish it through Repaint and connect your existing domain.
 Yes. Repaint hosts your website and all of its business features. It’s designed as an end-to-end platform, so you don’t have to connect external tools.
-You can accept cards and other supported payment methods on your website for one-time purchases, subscriptions, or custom billing models. Card processing is 2.9% + 30¢ per transaction in the US and varies by country . Before accepting payments, you’ll need to connect a custom domain and verify your business details. Payment processing is only available in supported countries .
-When your 14-day trial ends, your workspace is paused until you start a paid plan. Your websites go offline, and you can no longer accept payments, send emails, or chat with the AI. Your work stays saved, and you can reactivate your workspace anytime with a paid plan.
+You can accept cards and other supported payment methods on your website for one-time purchases, subscriptions, or custom billing models. Card processing is 2.9% + 30¢ per transaction in the US and varies by country . Before accepting payments, you’ll need to publish your website and verify your business details. Payment processing is only available in supported countries .
+When your 14-day trial ends, your business is paused until you start a paid plan. Your website goes offline, and you can no longer accept payments, send emails, or chat with the AI. Your work stays saved, and you can reactivate it anytime with a paid plan.
 Ready to set up your business?

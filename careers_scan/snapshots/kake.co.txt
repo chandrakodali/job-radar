@@ -7,11 +7,12 @@ If you're unsure or don't see a specific role that fits your mold quite yet,
 we encourage you to apply regardless as we've always got things cooking!
 Loading jobs…
 Enter the skill(s) that fit your interests and background
-Senior Fullstack (Ruby On Rails/TypeScript/React) Engineer
-Timezone: GMT-8
-TypeScript React Frontend Ruby on Rails
+AI helps our recruiting team assess and prioritize applications. Our team makes the final hiring decisions. How we use AI in recruiting
 Senior Software Engineer (Go/AWS/AWS Connect)
+Timezone: GMT-8
 Go Amazon Connect AWS REST API AWS Lambda Terraform Kubernetes
+Senior Fullstack (Ruby On Rails/TypeScript/React) Engineer
+TypeScript React Frontend Ruby on Rails
 Senior Backend Engineer
 Timezone: GMT-5
 Node.js TypeScript NestJS GCP REST API Kubernetes GitHub
@@ -58,8 +59,6 @@ Senior Golang Engineer - Remote
 Golang Senior Backend Golang Engineer SQL AWS
 Technical Lead - Legacy Financial System
 Technical Lead .Net Backend Architecture Java Kubernetes Integration Architecture HIPAA BAA
-Pipeline Developer
-Unreal Engine Python C++ VFX
 Senior Android Engineer
 Timezone: GMT-3
 Android Java Kotlin Jetpack MVVM Kotlin Coroutines

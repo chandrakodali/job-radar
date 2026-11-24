@@ -38,9 +38,8 @@ Business Intelligence Department
 Sr. Principal AI Systems Architect
 Principal Product Designer
 Customer Solutions Group Department
-Solutions Engineer, Commercial (Austin)
-USA - Austin (dbt)
 Customer Solutions Architect (Austin)
+USA - Austin (dbt)
 Customer Solutions Architect (Denver)
 Denver, Colorado, United States, AMER
 Customer Solutions Architect (NYC)
@@ -99,6 +98,8 @@ Tax Manager
 Senior International Accountant
 GTM Finance Manager
 Director, SOX Compliance & Internal Controls
+Sales Compensation Manager Systems and Analytics
+USA - New York
 Revenue Technical Accounting Manager
 HR Department
 Senior Internal Communications Manager
@@ -111,7 +112,6 @@ GRC Staff Engineer
 Remote, Massachusetts, United States, AMER
 Legal Department
 Senior Commercial Counsel
-USA - New York
 USA - Philadelphia (dbt)
 Marketing Department
 Marketing Strategy Insights Lead
@@ -127,7 +127,9 @@ Product Department
 Product Manager, Integrations
 Staff Product Manager, Connectors
 Staff Product Manager, AI & Developer Experience
-Senior Product Manage, Adapters
+Senior Product Manager, Orchestration
+Oakland, California, United States; Remote, Colorado, United States, AMER; USA - Austin (dbt); USA - New York; USA - Philadelphia (dbt)
+Senior Product Manager, Adapters
 Program Manager, Growth, Monetization & Strategic Initiatives
 Staff Product Manager, Databases
 Remote, Any, United States, AMER
@@ -143,15 +145,16 @@ Lead Technical Instructor
 Sales Department
 Account Executive, Mid-Market (Denver)
 Account Executive, Mid-Market (Oakland)
+Senior Sales Engineer, Enterprise
 Business Development Representative (Austin)
 Account Executive, Mid-Market (Austin)
+Account Manager (Austin)
 Senior Solutions Architect, Enterprise
 Regional Director
 Remote, Illinois, United States, AMER
 Sales Director
 Enterprise Account Executive
 Remote, Minnesota, United States, AMER
-Senior Sales Engineer, Enterprise
 Remote, Arizona, United States, AMER
 Business Development Representative (Sydney)
 Sydney, New South Wales, Australia, APAC
@@ -165,6 +168,10 @@ Senior Sales Compensation Analyst
 Sales Compensation Manager Systems and Analytics ( East Coast)
 Senior Value Engineer
 Senior Pricing Enablement Manager
+Account Manager (Denver)
+Account Manager (Oakland)
+Oakland, California, United States; Oakland, California, United States, AMER
+Manager, Technical Enablement
 Sales/Business Development Team
 Business Development Representative
 Dublin, Dublin, Ireland, EMEA
@@ -173,6 +180,7 @@ Sales Development Representative, Italian and Spanish Speaker
 IRL - Dublin (dbt)
 Sales Development Representative, German Speaking
 Business Development Rep, Enterprise, DACH
+Sales Development Representative, Enterprise
 Strategy & Operations Department
 Revenue Operations Manager
 Global Head of Deal Strategy and Operations

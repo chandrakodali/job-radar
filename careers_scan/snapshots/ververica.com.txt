@@ -144,44 +144,11 @@ At Ververica, you’ll be part of a collaborative and innovative team at the for
 - Engagement with one of the most active open-source communities.
 - Support for professional growth and open-source contributions.
 If you’re excited about working on streaming data , software development , and open-source technology , we want to hear from you! Your unique skills and experiences can help us drive innovation and achieve our goals.
-Senior Quality Assurance Engineer (m/f/d) - Greece | Remote
-Overview
-We are seeking a highly skilled Senior QA Engineer with a strong focus on end-to-end (E2E) testing, either using Java-based testing frameworks or Cypress. The ideal candidate will have extensive experience designing, developing, and executing E2E test automation solutions in fast-paced agile environments. You will play a key role in ensuring the quality and performance of mission-critical applications, working closely with developers, product managers, and other QA team members to deliver high-quality software products.
-In This Role You Will Have The Opportunity To
-Lead the design, development, and maintenance of E2E automated test scripts using Java-based frameworks (e.g. TestNG, JUnit) or Cypress.
-Design and develop infrastructure testing including load, performance and stress tests and integration in our release cycle.
-Prioritize data-driven risk reduction. Focus testing around known bottlenecks and critical paths: ingestion pipelines, query latency, network and storage performance.
-Develop test plans, test cases, and test strategies for automated and manual testing.
-Drive test automation efforts across the product lifecycle, ensuring robust test coverage and continuous integration (CI) pipeline integration.
-Collaborate closely with cross-functional teams to understand business and technical requirements, ensuring thorough testing of features and functionalities.
-Identify, record, document thoroughly, and track bugs or performance issues using tools like JIRA.
-Collaborate on evolving testing frameworks that you will adopt, as well as the test suites to ensure the prioritization of our organizations needs and requested features
-Optimize and maintain existing test automation frameworks, ensuring scalability and efficiency.
-Stay up-to-date with industry trends, emerging technologies, and best practices in QA and testing, and apply this knowledge to continuously improve testing processes.
-Requirements
-Basic Qualifications
-Strong experience in E2E test automation using Java (TestNG, JUnit) or Cypress.
-Proficiency in Java programming or Typescript (for Cypress).
-Hands-on experience with GitHub for Continuous Integration/Continuous Deployment (CI/CD).
-Experience with version control systems like Git.
-Solid understanding of web technologies (HTML, CSS, JavaScript) and RESTful APIs.Ability to create clear, comprehensive, and well-structured test plans and test cases.
-Knowledge of QA methodology and tools, with demonstrated experience in an Quality Assurance Engineering role
-Demonstrated ability to take initiative and work independently, solving problems without requiring external assistance or supervision.
-Preferred Qualifications
-Experience with cloud environments (AWS, Azure, etc.).
-Knowledge on distributed systems, microservices architectures, and cloud based applications.
-Knowledge of containerization (Docker) and orchestration tools (Kubernetes).
-Experience with testing frameworks like JUnit and TestNG (for Java) or Jest, Mocha and Cypress (for JavaScript testing).
-Experience with web and API testing
-Why Join Us?
-At Ververica, you will help shape the future of real-time data processing. Join us in a dynamic, collaborative environment where your leadership and expertise will drive our success and define the next era of innovation.
-Senior Quality Assurance Engineer (m/f/d) - Hungary | Remote
-Senior Quality Assurance Engineer (m/f/d) - Italy | Remote
-Senior Quality Assurance Engineer (m/f/d) - Poland | Remote
-Senior Quality Assurance Engineer (m/f/d) - Spain | Hybrid
 Senior Sales Engineer (m/f/d) - United States | Remote
 Published on: 2026-10-06 | Permanent
+Overview
 We are seeking a Sales Engineer who combines strong technical acumen with business awareness. Ververica is the original creator of Apache Flink® and builds the unified streaming data platform that powers real-time decisioning for customers in finance, gaming, telco and manufacturing. As a Sales Engineer, you are the technical counterpart in every customer conversation: you connect customer problems to our platform capabilities, and you translate technical value into business impact. You will work closely with Sales, Product, Customer Success, Marketing and Engineering to help organizations understand, evaluate and adopt Ververica.
+In This Role You Will Have The Opportunity To
 Discover: run technical discovery to identify customer pain points, current-state architecture and desired outcomes.
 Design: craft tailored streaming architectures and solutions that map Ververica's platform to the customer's data landscape.
 Demonstrate: deliver product demos and lead proofs of concept that prove real, measurable value.
@@ -193,6 +160,7 @@ Partner with Customer Success to ensure a clean handover and a successful path t
 Represent Ververica in the Apache Flink community and at industry events, meetups and webinars.
 Stay current on the streaming, data and AI landscape, and apply that knowledge to sharpen how we position the platform.
 Qualifications
+Basic Qualifications
 Demonstrated experience in a Sales Engineering, Solutions Architecture, Solutions Engineering or comparable customer-facing technical role.
 Hands-on familiarity with data systems: streaming architectures, distributed data processing, data pipelines or analytics platforms.
 Working knowledge of at least one major cloud platform (AWS, Azure or GCP) and of deployment models including on-premises and BYOC.
@@ -201,9 +169,12 @@ Proficiency in SQL, and comfort reading or writing code in at least one language
 Experience scoping and running proofs of concept against customer success criteria.
 Demonstrated ability to take initiative, seek clarity and make things happen with limited supervision.
 Willingness to travel to customers and events as needed.
+Preferred Qualifications
 Hands-on experience with Apache Flink, Apache Kafka, or comparable stream processing and event streaming technologies.
+Knowledge of containerization (Docker) and orchestration tools (Kubernetes).
 Experience selling or implementing open-source or open-core software, and comfort working with technical communities.
 Exposure to real-time AI and machine learning use cases, including feature pipelines and streaming inference.
 Domain experience in financial services, gaming, telecommunications or manufacturing.
 Experience with data warehouses and lakehouse architectures, and with the ecosystem around them.
+Why Join Us?
 At Ververica, you will help shape the future of real-time data processing. Founded in 2014 by the original creators of Apache Flink and backed by Alibaba Group since 2019, we combine deep open-source roots with the pace of a scaling company. You will join a remote-first, global and tech-first team where your technical judgment directly shapes how customers adopt streaming, and where real-time meets the next wave of AI.

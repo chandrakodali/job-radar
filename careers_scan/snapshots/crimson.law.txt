@@ -2,7 +2,7 @@ News Crimson raises $2.5m seed round Crimson raises $2.5m seed round and opens N
 Join us in building the future of legal work.
 The legal industry is changing beyond recognition, and Crimson is at the forefront of that change. We are building the AI platform that will define the future of litigation.
 View open roles
-3 open roles
+2 open roles
 London and New York
 Y Combinator
 Backed by leading investors
@@ -39,11 +39,6 @@ Salary
 Competitive salary
 Equity
 Meaningful equity
-Marketing
-Founding Marketer
-Run Crimson's marketing hands-on, from customer dinners and case studies to LinkedIn, the press, and the materials our sales team uses every day.
-London, New York, or remote
-Full-time or part-time
 Litigation
 Litigation Specialist
 Bring first-hand disputes expertise into product development and help leading litigation teams adopt a new way of working.

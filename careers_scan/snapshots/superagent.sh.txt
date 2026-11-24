@@ -27,16 +27,18 @@ more use cases →
 products
 Superagent scans code, tests for weaknesses, and protects your agents. Each product handles a different part of the work.
 pr scanning
-Superagent checks code changes, dependencies, and contributors before merge.
+Check code changes, dependencies, and contributors before merging a PR.
 learn more → read the docs →
 red teaming
-Superagent investigates applications, code, agents, and packages for exploitable weaknesses.
+Investigate applications, code, agents, and packages for exploitable weaknesses.
 dependency validation
-Superagent tests which dependency vulnerabilities affect your app and which updates fix them.
+Find out which dependency vulnerabilities affect your app and which updates fix them.
+image validation
+Test container vulnerabilities on AWS and GCP and verify replacement images.
 context guardrails
-Superagent screens external content before agents read, follow, or install it.
+Screen external content before your agents read, follow, or install it.
 runtime guardrails
-Superagent monitors agents and blocks supported risky actions using rules evaluated on each host.
+Monitor agents and block supported risky actions using rules evaluated on each host.
 Security-One-27B
 security-one-27b scores security events and returns probabilities your application can use to route decisions.
 Superagent connects with your integrations — the tools, coding agents, and delivery workflows you already run.

@@ -27,7 +27,7 @@ Reliable state-of-charge estimation for utility-scale BESS
 BESS , Technical Paper
 October 19, 2026
 Case Study: What vegetation and shading reveal about solar plant performance
-AI , Predictive Analytics , Faults , Data
+Predictive Analytics , Faults , Data , AI
 October 14, 2026
 SmartHelio at RE+ 2026: Meet us in Las Vegas
 News

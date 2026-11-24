@@ -1,5 +1,6 @@
 Careers at Cypress
 Cypress is a product driven, remote first company—building technology to improve the lives of developers worldwide.
+View open positions
 Who we are
 Our team is a diverse group of talented, humble, kind, respectful, driven, and thoughtful people.
 We are teachers, engineers, lifelong learners, facilitators, leaders, entrepreneurs—people passionate about
@@ -53,5 +54,5 @@ Culture
 Inclusive and safe culture promoting psychological safety—you innovate better when you're supported
 Open roles
 All of our positions can function in a remote capacity
-We're not hiring for any roles at the moment. Please check back in the future.
+Manager, Technical Solutions Consulting Manager, Technical Solutions Consulting
 Trusted by startups and enterprises all over the world
