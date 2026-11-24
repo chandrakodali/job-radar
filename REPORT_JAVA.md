@@ -1,18 +1,21 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**83 jobs**, newest first. Updated Tue Nov 24, 5:02 AM CST from 12,580 company job boards and other sources.
+**84 jobs**, newest first. Updated Tue Nov 24, 5:49 AM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 156 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (16)](#tuesday-nov-17-16)
+Coverage check: of 3,963 matching jobs that job sites and feeds listed this week, 1,598 (40%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Tuesday, Nov 24 (1)
+Jump to: [Tue 24 (2)](#tuesday-nov-24-2) · [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (16)](#tuesday-nov-17-16)
+
+## Tuesday, Nov 24 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Software Development Engineer, Device Software, Vega OS](https://www.amazon.jobs/en/jobs/10611483/software-development-engineer-device-software-vega-os) | Amazon.com Services LLC | Irvine, California, USA | 45 | 3+ yrs exp; requires Java |
+| date only | [Software Development Engineer](https://dth.avature.net/en_US/careers/JobDetail/Software-Development-Engineer/27827) | Delta Global Technology Hub |  | 45 | location unclear; requires Java |
 
 ## Monday, Nov 23 (18)
 
