@@ -1,12 +1,10 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**404 jobs**, newest first. Updated Tue Nov 24, 1:12 AM CST from 12,535 company job boards and other sources.
+**404 jobs**, newest first. Updated Tue Nov 24, 1:25 AM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 176 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 4,549 matching jobs that job sites and feeds listed this week, 937 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (84)](#thursday-nov-19-84) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (70)](#tuesday-nov-17-70)
 
@@ -454,7 +452,7 @@ Jump to: [Tue 24 (3)](#tuesday-nov-24-3) · [Mon 23 (65)](#monday-nov-23-65) · 
 | 2:23 AM | [Machine Learning Engineer](https://jobs.lever.co/jobgether/14392006-a041-4d52-a5fa-236149b99477) | Jobgether | US (remote) | 72 | 1+ yrs exp |
 | 1:46 AM | [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://jobs.lever.co/jobgether/f4b092a6-63f4-4209-897e-eb386e4aa422) | Jobgether | US (remote) | 72 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1544)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1543)
 
 <details><summary>Show</summary>
 
