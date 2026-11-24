@@ -1,14 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**203 jobs**, newest first. Updated Tue Nov 24, 10:37 AM CST from 12,535 company job boards and other sources.
+**202 jobs**, newest first. Updated Tue Nov 24, 10:50 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 185 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,253 matching jobs that job sites and feeds listed this week, 1,760 (54%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (26)](#tuesday-nov-17-26)
+Jump to: [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (25)](#tuesday-nov-17-25)
 
 ## Tuesday, Nov 24 (10)
 
@@ -222,7 +220,7 @@ Jump to: [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (32)](#monday-nov-23-32) �
 | 2:00 AM | [DevOps](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/905) | Eci | Dallas, TX, US; Chicago, IL, US; New Yo… | 65 |  |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 45 | location unclear |
 
-## Tuesday, Nov 17 (26)
+## Tuesday, Nov 17 (25)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -251,9 +249,8 @@ Jump to: [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (32)](#monday-nov-23-32) �
 | 11:11 AM | [Oracle Cloud HCM Security Administrator](https://ford.eightfold.ai/careers/job/563568454126356) | Ford | Dearborn, MI, US (onsite) | 70 |  |
 | date only | [Systems Development Engineer, DC Robotics, Data Center Robotics](https://www.amazon.jobs/en/jobs/10606820/systems-development-engineer-dc-robotics-data-center-robotics) | Amazon Data Services, Inc. | Seattle, Washington, USA | 60 | 4+ yrs exp |
 | date only | [DevOps Engineer](https://apply.workable.com/raydar/j/F988B64D0D/) | Raydar | New York, New York, United States | 60 | 4+ yrs exp |
-| 10:44 AM | [IT Ops Automation Engineer](https://jobs.ashbyhq.com/buspatrol/e5264fb2-c237-4a06-bcba-fd5aeaa31569) | Buspatrol | Austin, Texas (hybrid) | 55 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (389)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (387)
 
 <details><summary>Show</summary>
 
@@ -630,8 +627,6 @@ Jump to: [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (32)](#monday-nov-23-32) �
 | date only | [Senior Network Engineer](https://assaabloy.jobs2web.com/job/New-Haven-Senior-Network-Engineer-CT-06511/1458220733/) | ASSA ABLOY | New Haven, CT, United States | 28 | rules: senior title, years not stated; adjacent title, little DevOps/… |
 | date only | [Senior Site Reliability Engineer](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Senior-Software-Development-Engineer_R69496-1) | Blue Origin | Greater Seattle Area | 33 | rules: 5+ yrs exp; senior title; needs: Must be a U.S. citizen |
 | date only | [Senior Analyst, AI SOC Observability & Runtime Monitoring](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Canandaigua-New-York/Senior-Analyst--AI-SOC-Observability---Runtime-Monitoring_R-41667-1) | Constellation Brands | Canandaigua, New York; Rochester, New Y… | 33 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 10:36 AM | [Senior Network Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8948166002) | Atoms | San Francisco, CA | 40 | rules: senior title, years not stated; adjacent title, little DevOps/… |
-| 10:22 AM | [Senior Network Engineer](https://jobs.ashbyhq.com/kayak/c99cabba-25e3-4888-a54d-38dfaff27fdb) | KAYAK | Concord Office | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:00 PM | [Systems Administrator](https://careers-bcore.icims.com/jobs/3331/systems-administrator/job) | Bcore | McLean, VA, United States | 30 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 11:00 PM | [Linux Engineer](https://careers-bcore.icims.com/jobs/3332/linux-engineer/job) | Bcore | McLean, VA, United States | 30 | rules: 11+ yrs exp; asks for 11+ years of experience |
 | 11:00 PM | [System Administrator](https://careers-dminc.icims.com/jobs/29073/system-administrator/job) | DMI | Washington, DC, United States | 45 | rules: 3+ yrs exp; needs: Must be a U.S. Citizen |
