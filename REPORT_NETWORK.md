@@ -1,12 +1,14 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**108 jobs**, newest first. Updated Tue Nov 24, 11:42 AM CST from 12,580 company job boards and other sources.
+**106 jobs**, newest first. Updated Tue Nov 24, 12:57 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 64 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (7)](#tuesday-nov-17-7)
+Coverage check: of 538 matching jobs that job sites and feeds listed this week, 271 (50%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (5)](#tuesday-nov-17-5)
 
 ## Tuesday, Nov 24 (4)
 
@@ -139,7 +141,7 @@ Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Mon 23 (7)](#monday-nov-23-7) · [S
 | date only | [Network Dev Engineer III - AMZ10403606](https://www.amazon.jobs/en/jobs/10608014/network-dev-engineer-iii-amz10403606) | Amazon Data Services, Inc. | Seattle, Washington, USA | 38 | 3+ yrs exp; senior title; network work in the text |
 | 10:17 AM | [Senior Network Engineer - Enterprise Connectivity](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24215) | Montenson | MN, United States | 43 | senior title, years not stated; no future H-1B sponsorship |
 
-## Tuesday, Nov 17 (7)
+## Tuesday, Nov 17 (5)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -148,15 +150,15 @@ Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Mon 23 (7)](#monday-nov-23-7) · [S
 | 3:25 PM | [IT Support and Systems Administrator (Contract-to-Hire)](https://jobs.workable.com/view/4exvqgDajAeVgFF93KbNXB/hybrid-it-support-and-systems-administrator-(contract-to-hire)-in-washington-at-millennium-enterprise-corporation) | Millennium Enterprise Corpora… | Washington, District of Columbia (hybrid) | 48 | network work in the text |
 | 3:14 PM | [Senior Systems & Infrastructure Engineer](https://jobs.workable.com/view/8svSbEC2YHxXkmu5ed6ta2/hybrid-senior-systems-%26-infrastructure-engineer-in-new-york-at-gem-technologies) | GEM Technologies | New York, New York (hybrid) | 38 | senior title, years not stated; network work in the text |
 | 2:51 PM | [Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695356/network-engineer-infrastructure-services) | Apple | United States of America | 58 |  |
-| 12:23 PM | [IT Systems Engineer](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7850) | DNV | Austin, TX, United States | 43 | network work in the text |
-| 12:17 PM | [Network Engineer](https://jobs.gem.com/sauron-systems/am9icG9zdDqJNe9XI1xwfxBYKaFYj9O9) | Sauron Systems | San Francisco (onsite) | 58 | 3+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (227)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (229)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:51 AM | [Infrastructure Engineer](https://jobs.ashbyhq.com/Intelligence-Security-Laboratories/28b30132-ea74-4230-b9ea-eaa9131ba96a) | Intelligence Security Laborat… | Washington, D.C. (hybrid) | 50 | rules: 4+ yrs exp; network work in the text; needs: security clearance |
+| 11:36 AM | [Senior Network Engineer](https://jobs.lever.co/pingwind/5c479818-3615-4b09-9a16-2620457f9a11) | PingWind | Quantico VA (onsite) | 60 | rules: senior title, years not stated; needs: Active Top Secret |
 | date only | [Network Deployment Engineer, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10612860/network-deployment-engineer-amazon-dedicated-cloud-nidd) | Amazon Data Services, Inc. | Broomfield, Colorado, USA | 75 | rules: 1+ yrs exp; needs: security clearance |
 | date only | [Senior Network Engineer - Deployments](https://nvidia.eightfold.ai/careers/job/893397524029) | Nvidia | Yokne'am Illit, North District, IL +1 m… (onsite) | 45 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | 9:32 AM | [Network Engineer III](https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2054) | Tulane University | New Orleans, LA, United States (remote) | 47 | rules: 10+ yrs exp; senior title; likely H-1B cap-exempt (verify); as… |
