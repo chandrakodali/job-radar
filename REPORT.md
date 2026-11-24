@@ -1,19 +1,22 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**198 jobs**, newest first. Updated Tue Nov 24, 8:49 AM CST from 12,580 company job boards and other sources.
+**199 jobs**, newest first. Updated Tue Nov 24, 9:07 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-180 repeat listings (same company and title in another place or on another source) are merged into one row.
+179 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (31)](#monday-nov-23-31) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (26)](#tuesday-nov-17-26)
+Coverage check: of 3,210 matching jobs that job sites and feeds listed this week, 1,729 (53%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Tuesday, Nov 24 (6)
+Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (31)](#monday-nov-23-31) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (26)](#tuesday-nov-17-26)
+
+## Tuesday, Nov 24 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Infrastructure Engineer](https://apply.workable.com/raydar/j/1598342CB0/) | Raydar | San Francisco, California, United States | 65 |  |
 | date only | [Systems Development Engineer , Operations Infrastructure Services](https://www.amazon.jobs/en/jobs/10612558/systems-development-engineer-operations-infrastructure-services) | Amazon.com Services LLC | Nashville, Tennessee, USA | 65 |  |
+| 8:55 AM | [Founding Platform Engineer](https://jobs.ashbyhq.com/protege/4df379fc-49c6-4695-ab32-721d1663d800) | Protege | Remote (remote) | 62 |  |
 | 5:53 AM | [Google Workspace Deployment Engineer, Contract](https://job-boards.greenhouse.io/66degrees/jobs/6269977004) | 66 Degrees | Remote, United States (remote) | 37 | 3+ yrs exp; no future H-1B sponsorship |
 | 4:43 AM | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/rerun/36652f33-61d1-48f6-861c-21c274abc0d2) | Rerun | East Coast, US; Remote Europe; Eastern … (remote) | 62 |  |
 | 2:37 AM (seen) | [Embedded Linux Engineer (C/C++ & Device Drivers)](https://ats.rippling.com/cintal/jobs/b0852677-39a0-4250-a147-db0ef2c9f0c5) | Cintal | Chillicothe, IL (onsite) | 40 |  |
@@ -246,7 +249,7 @@ Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (31)](#monday-nov-23-31) · 
 | date only | [DevOps Engineer](https://apply.workable.com/raydar/j/F988B64D0D/) | Raydar | New York, New York, United States | 60 | 4+ yrs exp |
 | 10:44 AM | [IT Ops Automation Engineer](https://jobs.ashbyhq.com/buspatrol/e5264fb2-c237-4a06-bcba-fd5aeaa31569) | Buspatrol | Austin, Texas (hybrid) | 55 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (392)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (390)
 
 <details><summary>Show</summary>
 
@@ -624,8 +627,6 @@ Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (31)](#monday-nov-23-31) · 
 | 9:46 AM | [Senior II Site Reliability Engineer](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4552) | Akamai Technologies | United States (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 9:40 AM | [Cloud Network Engineer](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022514) | ADT | Irving, TX, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 9:26 AM | [Sr. Production Engineer (9/80 work schedule)](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162106439-sr-production-engineer-9-80-work-schedule-) | Veolia | Beaumont, TX, United States | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| 9:09 AM | [Senior Infrastructure Engineer](https://jobs.gem.com/firestorm/am9icG9zdDqVPZoDNcp76XtIrqIwAdOj) | Firestorm | San Diego, CA (hybrid) | 50 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
-| 9:02 AM | [Senior Site Reliability Engineer](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4549) | Akamai Technologies | United States (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:00 PM | [Platform Engineer (AWS / Infra-as-Code)](https://careers-lmi.icims.com/jobs/14589/platform-engineer-%28aws---infra-as-code%29/job) | LMI | Remote, United States | 45 | rules: 6+ yrs exp; needs: security clearance |
 | 11:00 PM | [Network Engineer](https://careers-tatitlek.icims.com/jobs/2865/network-engineer/job) | The Tatitlek Corporation | Washington, United States | 45 | rules: 4+ yrs exp; needs: SECURITY CLEARANCE |
 | 11:00 PM | [Systems Administrator](https://careers-bcore.icims.com/jobs/3331/systems-administrator/job) | Bcore | McLean, VA, United States | 30 | rules: 6+ yrs exp; asks for 6+ years of experience |
