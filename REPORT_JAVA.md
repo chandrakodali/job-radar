@@ -1,14 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**84 jobs**, newest first. Updated Mon Nov 23, 10:50 PM CST from 12,535 company job boards and other sources.
+**83 jobs**, newest first. Updated Mon Nov 23, 11:02 PM CST from 12,580 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 155 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,768 matching jobs that job sites and feeds listed this week, 1,482 (39%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (17)](#tuesday-nov-17-17) · [Mon 16 (1)](#monday-nov-16-1)
+Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (17)](#tuesday-nov-17-17)
 
 ## Monday, Nov 23 (18)
 
@@ -127,12 +125,6 @@ Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [
 | 10:17 AM | [Software Developer 3](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350771) | Oracle | Nashville, TN, United States | 40 | 4+ yrs exp; senior title; requires Java |
 | 7:51 AM | [AWS Software Engineer II - Full Stack/Java/React](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790526) | JP Morgan Chase | Jersey City, NJ, United States | 70 | 2+ yrs exp |
 | 2:14 AM | [Middle Software Engineer - Backend (Platform)](https://jobs.lever.co/jobgether/bbd011d9-382f-4f14-a2ee-0516f4ac407a) | Jobgether | US (remote) | 47 | requires Java |
-
-## Monday, Nov 16 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 11:00 PM | [Senior Software Engineer](https://careers-cotiviti.icims.com/jobs/23226/senior-software-engineer/job) | Cotiviti | Remote, United States | 45 | 4+ yrs exp; senior title; requires Java; repost |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (75)
 
