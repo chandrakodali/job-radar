@@ -1,18 +1,21 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**402 jobs**, newest first. Updated Tue Nov 24, 4:38 AM CST from 12,580 company job boards and other sources.
+**402 jobs**, newest first. Updated Tue Nov 24, 5:30 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 176 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (84)](#thursday-nov-19-84) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (65)](#tuesday-nov-17-65)
+Coverage check: of 4,756 matching jobs that job sites and feeds listed this week, 979 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Tuesday, Nov 24 (6)
+Jump to: [Tue 24 (7)](#tuesday-nov-24-7) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (84)](#thursday-nov-19-84) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (64)](#tuesday-nov-17-64)
+
+## Tuesday, Nov 24 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Data Center Technician, DCC Communities](https://www.amazon.jobs/en/jobs/10612346/data-center-technician-dcc-communities) | Amazon Data Services, Inc. | New Carlisle, Indiana, USA +3 more | 70 | 1+ yrs exp; no future H-1B sponsorship |
+| date only | [Graduate Engineering Technician](https://micron.eightfold.ai/careers/job/44533522) | Micron | GJ,IN (onsite) | 80 | entry-level title |
 | 4:00 AM | [Data Analyst, Pricing](https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1110) | Ascot | NJ, United States; CHICAGO, IL, United … | 75 | 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Short Pump Town…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827654) | Macy's | Richmond, VA, United States | 75 | entry-level title |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Leawood Town Ce…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827651) | Macy's | Leawood, KS, United States | 75 | entry-level title |
@@ -380,7 +383,7 @@ Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (65)](#monday-nov-23-65) · 
 | 1:00 AM | [Scanning Services - Digital Support Specialist I](https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3608) | Anico | League City, TX, US | 85 | entry-level title; 1+ yrs exp |
 | 12:49 AM | [Online Technical Support Engineer -Campus Hire Program](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040677) | Agilent Technologies | US-DE-Wilmington | 75 | entry-level title |
 
-## Tuesday, Nov 17 (65)
+## Tuesday, Nov 17 (64)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -448,9 +451,8 @@ Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (65)](#monday-nov-23-65) · 
 | 9:55 AM | [Laboratory Support Associate Scientist](https://jobs.smartrecruiters.com/Eurofins/744000162114429-laboratory-support-associate-scientist-) | Eurofins | St. Louis, MO, United States | 85 | entry-level title; 0-2 yrs exp |
 | 8:27 AM | [Systems Operator Administrator](https://cbha.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/9031) | Cbha Fa Us2 Oraclecloud Com | Nashville, TN, United States (onsite) | 80 | entry level (from the text) |
 | 8:00 AM | [Technical Services Administrator](https://jobs.dayforcehcm.com/en-US/natus/candidateportal/jobs/3892) | Natus | Middleton, WI, US | 75 | 1+ yrs exp |
-| 5:09 AM | [Production Support Associate](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016898466-production-support-associate) | Cityofnewyork | New York City, NY, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1541)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1546)
 
 <details><summary>Show</summary>
 
@@ -466,6 +468,11 @@ Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (65)](#monday-nov-23-65) · 
 | date only | [Backend Engineer, AI Expert](https://apply.workable.com/weekday-1/j/1B4ABEC618/) | Weekday AI | United States (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [RF & Channel Emulation Systems Engineer](https://qualcomm.eightfold.ai/careers/job/446718388725) | Qualcomm | Boulder, CO, US (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [AI Forward Deployed Engineer](https://apply.workable.com/tomorrow-hire/j/637DCE96E4/) | Tomorrow Hire | Richmond, Virginia, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Customer & Technical Support Specialist (Graveyard Coverage)](https://careers.itw.com/global/en/job/ITWITWUSJR11383EXTERNALENUS) | Illinois Tool Works | Vista, California, United States of Ame… | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 5:35 AM | [COMPUTER ASSOCIATE (TECHNICAL SUPPORT)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017054541-computer-associate-technical-support-) | Cityofnewyork | New York City, NY, United States | 70 | rules: entry-level title; 4+ yrs exp; asks for 4+ years of experience |
+| 5:34 AM | [IT Security Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017054501-it-security-specialist) | Cityofnewyork | New York City, NY, United States | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 5:11 AM | [SailPoint IAM Engineer](https://jobs.lever.co/jobgether/fa1dd53c-e322-4c05-bfe2-9a663ed3349c) | Jobgether | US (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 4:42 AM | [Data Engineer (Data Platform)](https://jobs.lever.co/jobgether/1868903f-c34d-4316-8532-5318bd21d6e0) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 4:22 AM | [Training Program Support Specialist](https://jobs.lever.co/jobgether/fe459d95-adec-4db9-8ae9-739a2de3b0de) | Jobgether | US (remote) | 42 | rules: 10+ yrs exp; needs: security clearance |
 | 3:28 AM | [Salesforce Engineer](https://jobs.lever.co/jobgether/0f950240-e2e6-4218-9a17-7fefa2ddcbff) | Jobgether | US (remote) | 42 | rules: 9+ yrs exp; needs: Public Trust clearance |
 | 2:10 AM | [Azure Cloud Engineer](https://jobs.lever.co/jobgether/f04ae17b-10f5-45f5-870d-ed5006d6d97e) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; needs: Public Trust clearance |
@@ -851,10 +858,5 @@ Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (65)](#monday-nov-23-65) · 
 | 2:27 PM (seen) | [Frontend Developer (Founding Team)](https://app.dover.com/apply/gradientflo/591e14cd-e488-4fdf-ab04-a4dd56d3fc37) | Gradientflo | Hyderābād, India; San Francisco, CA (onsite) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 2:27 PM (seen) | [Full Stack Developer (Founding Team)](https://app.dover.com/apply/gradientflo/a5af82ea-7558-40cd-b66f-e65d1c8f00bb) | Gradientflo | Hyderābād, India; San Francisco, CA (onsite) | 35 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 2:27 PM (seen) | [Full Stack Product Engineer](https://app.dover.com/apply/hellobabs/4732c397-8d02-48af-bf2c-e26394697892) | Hellobabs | San Francisco, CA (onsite) | 55 | rules: 4+ yrs exp; sponsors visas; asks for 4+ years of experience |
-| 2:27 PM (seen) | [Full Stack Software Engineer](https://app.dover.com/apply/heymilo/9cfb099b-2368-4880-9cc6-61cbbe268403) | Heymilo | Canada; United States; New York City, N… (hybrid) | 50 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:27 PM (seen) | [AWS Data Engineer – Databricks](https://app.dover.com/apply/hl7interfacing/436f2af1-6eba-464d-8b72-7fa1db9ad18f) | Hl7Interfacing | Houston, TX (onsite) | 35 | rules: 7+ yrs exp; asks for 7+ years of experience |
-| 2:27 PM (seen) | [Data Privacy and Security Specialist](https://app.dover.com/apply/ihealth-and-wellness-foundation-inc/e4f4eb1d-21f0-443b-a6b0-c9654f1d95e5) | Ihealth And Wellness Foundati… | United States; International (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 2:27 PM (seen) | [Health Cloud Infrastructure and Integration Specialist](https://app.dover.com/apply/ihealth-and-wellness-foundation-inc/5f870321-ef28-4e29-877b-af3391ed4972) | Ihealth And Wellness Foundati… | United States; International (remote) | 27 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:27 PM (seen) | [Platform Developer - Remote Volunteer (Scaled rewards and bonus)](https://app.dover.com/apply/ihealth-and-wellness-foundation-inc/6a99fdf3-9748-40b5-960d-490b62133c9c) | Ihealth And Wellness Foundati… | International; United States (remote) | 42 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
