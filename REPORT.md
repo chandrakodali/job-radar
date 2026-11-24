@@ -1,18 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**194 jobs**, newest first. Updated Mon Nov 23, 5:49 PM CST from 12,580 company job boards and other sources.
+**195 jobs**, newest first. Updated Mon Nov 23, 6:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 176 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Mon 23 (26)](#monday-nov-23-26) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (31)](#tuesday-nov-17-31) · [Mon 16 (2)](#monday-nov-16-2)
+Coverage check: of 2,940 matching jobs that job sites and feeds listed this week, 1,528 (51%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Monday, Nov 23 (26)
+Jump to: [Mon 23 (27)](#monday-nov-23-27) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (31)](#tuesday-nov-17-31) · [Mon 16 (2)](#monday-nov-16-2)
+
+## Monday, Nov 23 (27)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 6:53 PM | [Systems Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b156e713-5801-4c36-bb62-a62f3bc9844f&ccId=19000101_000001&jobId=9202083655758_39&lang=en_US) | B156E713 5801 4C36 Bb62 A62F3… | Cincinnati, OH | 45 | no future H-1B sponsorship |
+| 5:43 PM | [Robotics Deployment Engineer](https://jobs.ashbyhq.com/1x/93ffa012-5a89-4335-9231-77e96e18adfa) | 1X | San Carlos, CA (onsite) | 65 | 2+ yrs exp |
 | 5:27 PM | [Senior Software Engineer, Core Infrastructure](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343006) | Oracle | Nashville, TN, United States | 50 | senior title, years not stated; repost |
 | 4:42 PM | [Software Engineer, Cloud Infrastructure](https://jobs.ashbyhq.com/decagon/87d6c46a-365c-4d97-98ca-de7e29b6cf72) | Decagon | San Francisco; New York City (onsite) | 65 | 3+ yrs exp |
 | 2:08 PM | [Assoc. Cloud FinOps - Microsoft Specialist](https://job-boards.greenhouse.io/trace3/jobs/8412136) | Trace3 | Remote (remote) | 72 | 1+ yrs exp |
@@ -242,13 +245,15 @@ Jump to: [Mon 23 (26)](#monday-nov-23-26) · [Sun 22 (4)](#sunday-nov-22-4) · [
 | 11:00 PM | [Network Engineer II](https://jobs.dayforcehcm.com/en-US/landstar/CANDIDATEPORTAL/jobs/11996) | Landstar | Jacksonville, FL, US | 40 | 3+ yrs exp |
 | 9:58 PM | [Network Infrastructure Engineer](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41673) | Nokia | United States (onsite) | 70 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (396)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (398)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 6:22 PM | [Infrastructure & Network Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=edbc1146-911e-417e-b53e-c0e2f7d2a0e9&ccId=19000101_000001&jobId=9201323290322_36&lang=en_US) | Edbc1146 911E 417E B53E C0E2F… | Remote, US | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 5:43 PM | [AI Cloud Engineer](https://jobs.lever.co/anavationllc/d83a05bd-6fc1-4122-acde-45d4efffd77c) | AnaVation | Chantilly, VA (onsite) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| 5:42 PM | [Deployment Engineer (Logistics & Distribution)](https://jobs.ashbyhq.com/base-power/b02f776d-4446-4236-8e71-f436b95da106) | Base Power | Austin, TX (onsite) | 50 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | 5:14 PM | [IT Systems & Network Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e5360e53-0e72-41c4-b1bf-01f1613310c6&ccId=19000101_000003&jobId=9205262159276_11&lang=en_US) | E5360E53 0E72 41C4 B1Bf 01F16… | Arlington, VA | 30 | rules: 5+ yrs exp; needs: security clearance |
 | 5:06 PM | [Network Engineer 3](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005829) | Berkshire Hathaway Energy | Las Vegas, NV, United States (onsite) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 4:39 PM | [Senior Software Engineer, Data Infrastructure](https://jobs.ashbyhq.com/decagon/97f14fcf-d8ff-41b2-9108-d35ddd9f595e) | Decagon | San Francisco; New York City (onsite) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
