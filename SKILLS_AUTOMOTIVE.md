@@ -1,6 +1,6 @@
 # Auto Radar: what the matching jobs ask for
 
-Counted over the job descriptions of **1763 current matches** (boilerplate left out). "Asked for" = named in the requirements or the main duties; "Required" = named under required/basic qualifications or in the title.
+Counted over the job descriptions of **1764 current matches** (boilerplate left out). "Asked for" = named in the requirements or the main duties; "Required" = named under required/basic qualifications or in the title.
 
 ## Skills the resume shows, most asked first
 
@@ -14,23 +14,23 @@ Make sure each of these is written on the resume in the words employers use: rec
 | C | 595 jobs (34%) | 400 (23%) |
 | Controls/algorithms | 566 jobs (32%) | 271 (15%) |
 | CAN/CAN FD | 503 jobs (29%) | 276 (16%) |
-| Functional safety | 459 jobs (26%) | 197 (11%) |
-| Requirements engineering | 389 jobs (22%) | 124 (7%) |
+| Functional safety | 460 jobs (26%) | 198 (11%) |
+| Requirements engineering | 390 jobs (22%) | 125 (7%) |
 | MATLAB | 369 jobs (21%) | 206 (12%) |
 | Requirements-based testing | 325 jobs (18%) | 48 (3%) |
 | Simulink | 311 jobs (18%) | 167 (9%) |
-| Automotive software | 297 jobs (17%) | 111 (6%) |
+| Automotive software | 298 jobs (17%) | 112 (6%) |
 | Git | 293 jobs (17%) | 172 (10%) |
 | Agile/Scrum/Jira | 269 jobs (15%) | 124 (7%) |
 | Jenkins/CI | 265 jobs (15%) | 123 (7%) |
 | Code reviews | 254 jobs (14%) | 49 (3%) |
-| ISO 26262 | 243 jobs (14%) | 122 (7%) |
+| ISO 26262 | 244 jobs (14%) | 123 (7%) |
 | ADAS | 242 jobs (14%) | 108 (6%) |
 | Software integration/build/release | 237 jobs (13%) | 108 (6%) |
-| ECU software | 232 jobs (13%) | 72 (4%) |
+| ECU software | 233 jobs (13%) | 73 (4%) |
 | SIL testing | 199 jobs (11%) | 57 (3%) |
+| Model-based design | 130 jobs (7%) | 66 (4%) |
 | Vehicle dynamics/chassis | 130 jobs (7%) | 56 (3%) |
-| Model-based design | 129 jobs (7%) | 65 (4%) |
 | SWC/RTE design | 126 jobs (7%) | 14 (1%) |
 | Unit testing | 123 jobs (7%) | 30 (2%) |
 
