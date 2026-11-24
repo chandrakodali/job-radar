@@ -1,14 +1,12 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**105 jobs**, newest first. Updated Tue Nov 24, 4:26 PM CST from 12,535 company job boards and other sources.
+**104 jobs**, newest first. Updated Tue Nov 24, 4:38 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 63 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 552 matching jobs that job sites and feeds listed this week, 279 (50%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (2)](#tuesday-nov-17-2)
+Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (1)](#tuesday-nov-17-1)
 
 ## Tuesday, Nov 24 (6)
 
@@ -143,12 +141,11 @@ Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [S
 | date only | [Network Dev Engineer III - AMZ10403606](https://www.amazon.jobs/en/jobs/10608014/network-dev-engineer-iii-amz10403606) | Amazon Data Services, Inc. | Seattle, Washington, USA | 38 | 3+ yrs exp; senior title; network work in the text |
 | 10:17 AM | [Senior Network Engineer - Enterprise Connectivity](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24215) | Montenson | MN, United States | 43 | senior title, years not stated; no future H-1B sponsorship |
 
-## Tuesday, Nov 17 (2)
+## Tuesday, Nov 17 (1)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 7:33 PM | [Senior Network Consultant](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=da76a366-c959-4b2c-a12e-7c294e0c1658&ccId=19000101_000001&jobId=9201451451336_1&lang=en_US) | Da76A366 C959 4B2C A12E 7C294… | US | 48 | senior title, years not stated |
-| 4:28 PM | [Network Administrator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4599421) | J & H Oil Company | Wyoming, MI, United States | 58 |  |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (233)
 
