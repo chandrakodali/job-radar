@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**413 jobs**, newest first. Updated Tue Nov 24, 9:03 AM CST from 12,580 company job boards and other sources.
+**413 jobs**, newest first. Updated Tue Nov 24, 9:20 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 177 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,858 matching jobs that job sites and feeds listed this week, 1,000 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 24 (18)](#tuesday-nov-24-18) · [Mon 23 (67)](#monday-nov-23-67) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (84)](#thursday-nov-19-84) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (62)](#tuesday-nov-17-62)
 
@@ -461,13 +463,15 @@ Jump to: [Tue 24 (18)](#tuesday-nov-24-18) · [Mon 23 (67)](#monday-nov-23-67) �
 | 10:08 AM | [Early Careers: Software Developer Engineer](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24983) | Fortinet | Sunnyvale, CA, United States (hybrid) | 85 | entry-level title; 0-2 yrs exp; no future H-1B sponsorship |
 | 9:55 AM | [Laboratory Support Associate Scientist](https://jobs.smartrecruiters.com/Eurofins/744000162114429-laboratory-support-associate-scientist-) | Eurofins | St. Louis, MO, United States | 85 | entry-level title; 0-2 yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1543)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1551)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 2:38 PM | [IT Support](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=072ac661-78b4-4259-913b-1cf1df7f40b4&ccId=19000101_000001&jobId=9205190137143_37&lang=en_US) | 072Ac661 78B4 4259 913B 1Cf1D… | Southfield, MI | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 1:46 PM | [SATCOM Systems Engineer (Remote + Travel)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9312ef-f8ad-43d2-926b-12997288c359&ccId=19000101_000001&jobId=9201594101614_3&lang=en_US) | 1B9312Ef F8Ad 43D2 926B 12997… | Herndon, Virginia;  US;  US;  US;  US; … | 45 | rules: 5+ yrs exp; needs: Secret clearance |
+| date only | [Sentinel - Systems Safety Engineer - 17929*](https://ngc.eightfold.ai/careers/job/1340075187680) | Ngc | Roy, UT, US; Huntsville, AL, US +1 more (onsite) | 80 | rules: 2+ yrs exp; needs: Secret Clearance |
 | date only | [Client Systems Engineer I- Caledonia, MI (Hybrid)](https://jobs.farmersinsurance.com/job/Caledonia-Client-Systems-Engineer-I-Caledonia%2C-MI-%28Hybrid%29-MI-49316/1378300957/) | Farmers Insurance | Grand Rapids, MI, US, Caledonia, MI, US | 70 | rules: entry-level title; 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Development Engineer, Data, Communications Tech](https://www.amazon.jobs/en/jobs/10612303/software-development-engineer-data-communications-tech) | Amazon.com Services LLC | Seattle, Washington, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [AI Engineer – LLM Applications & AI Agents](https://intellipro.applytojob.com/apply/vPu2t2ry5m/AI-Engineer-LLM-Applications-AI-Agents) | IntelliPro Group Inc. | Palo Alto, CA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -483,6 +487,12 @@ Jump to: [Tue 24 (18)](#tuesday-nov-24-18) · [Mon 23 (67)](#monday-nov-23-67) �
 | date only | [Photonics Solutions Engineer I](https://apply.workable.com/thorlabs/j/FE2FDA5C4A/) | Thorlabs | Newton, New Jersey, United States | 85 | rules: entry-level title; 2+ yrs exp; needs: Must be a US citizen |
 | date only | [Database Administrator SG25](https://jobs.paccar.com/job/Denton-Database-Administrator-SG25-TX-76207-2198/1460302833/) | Paccar | Denton, TX, United States | 80 | rules: 2+ yrs exp; E-Verify; asks for 2+ years of experience |
 | date only | [QA Analyst](https://digitalunitedllc.applytojob.com/apply/WdcpxQF75k/QA-Analyst) | Digital United | Farmington, CT (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Lab Tester 2, Billings Refinery](https://careers.phillips66.com/job/Billings-Lab-Tester-2%2C-Billings-Refinery-MT-59101/1453403500/) | Phillips 66 | Billings, MT, United States | 70 | rules: 1+ yrs exp; needs: must be a U.S. citizen |
+| date only | [Data Engineer (Databricks & AWS)](https://abstra.bamboohr.com/careers/246) | Abstra | Remote | 70 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
+| 9:19 AM | [Security Engineer](https://job-boards.greenhouse.io/pdtpartners/jobs/8414133) | PDT Partners | New York | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 9:12 AM | [General Counsel, Cyber Security](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161652) | Honeywell | Washington, DC, United States; Charlott… | 45 | rules: 10+ yrs exp; asks for 10+ years of experience |
+| 8:53 AM | [Technical Specialist, Vehicle Systems](https://job-boards.greenhouse.io/scoutmotors/jobs/5306827007) | Scout Motors | Novi, Michigan, United States; Charlott… | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 8:52 AM | [Service Desk Agent 3 - 000779](https://emqz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3419) | Wayne County | Detroit, MI, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:49 AM (seen) | [Systems Implementation Consultant](https://jobs.jobvite.com/tylertech/job/oKF6AfwP) | Tyler Technologies | 2 Locations | 55 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | 8:49 AM (seen) | [Software Engineer / SDET / Code Quality Specialist](https://app.dover.com/apply/careerflow/eb5d2877-ae73-4074-b9e5-93b5807b6538) | Careerflow | United States (remote) | 57 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 8:38 AM | [Email Developer & QA Specialist](https://jobs.ashbyhq.com/imprint/5f04aa19-2276-46f3-97f8-4ecd44023a27) | Imprint | Remote (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
@@ -511,6 +521,7 @@ Jump to: [Tue 24 (18)](#tuesday-nov-24-18) · [Mon 23 (67)](#monday-nov-23-67) �
 | 12:41 AM | [Business Intelligence Developer](https://jobs.lever.co/jobgether/6b437002-3307-45db-aa75-465f3cb6c005) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:37 AM | [SAP Administrator](https://jobs.lever.co/jobgether/006aae89-126c-4c32-85b8-e821a44f7ee5) | Jobgether | US (remote) | 42 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 12:32 AM | [IT Engineer](https://jobs.ashbyhq.com/Etched/890fd360-d558-4fa6-921d-32ff9e58e7e2) | Etched | San Jose (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 12:00 AM | [Medical Records Technician Coder (REMOTE)](https://jobs.dayforcehcm.com/en-US/kgs/candidateportal/jobs/16594) | Kgs |  (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 11:27 PM | [Solutions Engineer (IoT)](https://jobs.ashbyhq.com/skylo/f3d1ad18-1845-4811-b69f-65d3cc8a545e) | Skylo | Mountain View, CA (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:07 PM | [Hardware/Production Test Software Engineer](https://job-boards.greenhouse.io/astranis/jobs/4731856006) | Astranis | San Francisco, CA | 75 | rules: 2+ yrs exp; needs: must be a U.S. citizen |
 | 11:00 PM | [Software Engineer](https://job-boards.greenhouse.io/instead/jobs/7761474003) | Instead | San Francisco | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -858,14 +869,5 @@ Jump to: [Tue 24 (18)](#tuesday-nov-24-18) · [Mon 23 (67)](#monday-nov-23-67) �
 | 3:24 PM | [Data Entry Specialist - 313K](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0655c20d-f878-4e56-9c6b-a3e48a1b5717&ccId=19000101_000001&jobId=9201265426213_25&lang=en_US) | 0655C20D F878 4E56 9C6B A3E48… | Brooklyn, NY +1 more | 85 | rules: entry-level title; 1+ yrs exp; needs: security clearance |
 | 3:21 PM | [Oracle Cloud Infrastructure Engineer](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5491406008) | Lightfeatheriollc | Washington, DC | 45 | rules: 5+ yrs exp; needs: Secret clearance |
 | 3:19 PM | [GCP Cloud/DevOps Engineer](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5491402008) | Lightfeatheriollc | Washington, DC | 60 | rules: 4+ yrs exp; needs: security clearance |
-| 3:19 PM | [Azure Cloud Security Engineer](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5491401008) | Lightfeatheriollc | Washington, DC | 60 | rules: 3+ yrs exp; needs: security clearance |
-| 3:19 PM | [Software Engineer](https://job-boards.greenhouse.io/adyen/jobs/8378548) | Adyen | San Francisco | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| 3:07 PM | [Software Engineer (Frontend Focus)](https://jobs.ashbyhq.com/kira/dcda6f09-1818-43e2-b2f5-e24d116339a8) | Kira | New York or San Francisco (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 3:06 PM | [Cyber Advisory Solution Consultant](https://jobs.smartrecruiters.com/ServiceNow/744000162820619-cyber-advisory-solution-consultant) | ServiceNow | Austin, TEXAS, United States +3 more (remote) | 42 | rules: 7+ yrs exp; asks for 7+ years of experience |
-| 2:57 PM | [Mobile Engineer](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162818260-mobile-engineer) | Veolia | San Francisco, CA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:56 PM | [Full-Stack Software Engineer, SaaS & Low-Code Platforms](https://jobs.smartrecruiters.com/Versant3/744000162818799-full-stack-software-engineer-saas-low-code-platforms) | Versant | Englewood Cliffs, NEW JERSEY, United St… (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:55 PM | [Site Reliability Engineer](https://jobs.smartrecruiters.com/AbbVie/3743990017015906-site-reliability-engineer) | AbbVie | Houston, TX, United States (remote) | 42 | rules: 6+ yrs exp; asks for 6+ years of experience |
-| 2:48 PM | [ServiceNow Sys Admin (O&M)](https://boards.greenhouse.io/accenturefederalservices/jobs/4708019006?gh_jid=4708019006) | Accenture | Washington, DC | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; needs: clearance requi… |
-| 2:47 PM | [ServiceNow Jr. Developer (O&M)](https://boards.greenhouse.io/accenturefederalservices/jobs/4707684006?gh_jid=4707684006) | Accenture | Washington, DC | 80 | rules: entry-level title; 2+ yrs exp; no future H-1B sponsorship; nee… |
 
 </details>
