@@ -1,14 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**199 jobs**, newest first. Updated Tue Nov 24, 11:07 AM CST from 12,535 company job boards and other sources.
+**197 jobs**, newest first. Updated Tue Nov 24, 11:19 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 185 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,260 matching jobs that job sites and feeds listed this week, 1,766 (54%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (31)](#monday-nov-23-31) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (22)](#tuesday-nov-17-22)
+Jump to: [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (31)](#monday-nov-23-31) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (20)](#tuesday-nov-17-20)
 
 ## Tuesday, Nov 24 (11)
 
@@ -222,7 +220,7 @@ Jump to: [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (31)](#monday-nov-23-31) �
 | 2:00 AM | [DevOps](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/905) | Eci | Dallas, TX, US; Chicago, IL, US; New Yo… | 65 |  |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 45 | location unclear |
 
-## Tuesday, Nov 17 (22)
+## Tuesday, Nov 17 (20)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -246,10 +244,8 @@ Jump to: [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (31)](#monday-nov-23-31) �
 | 11:59 AM | [Site Reliability Engineer III](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016352) | American Express | Phoenix, AZ, United States (hybrid) | 60 | senior title, years not stated |
 | 11:44 AM | [IT System Administrator](https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/Geismar-LA-Office/IT-System-Administrator_R115582) | Apache Industrial | 2 Locations | 38 | location unclear |
 | 11:24 AM | [Application Security Engineer (Part time - Friday to Monday)](https://boards.greenhouse.io/bugcrowd/jobs/8396259?gh_jid=8396259) | Bugcrowd | Remote - US (remote) | 62 |  |
-| 11:11 AM | [Oracle Cloud HCM Security Administrator](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73649) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 70 |  |
-| 11:11 AM | [Oracle Cloud HCM Security Administrator](https://ford.eightfold.ai/careers/job/563568454126356) | Ford | Dearborn, MI, US (onsite) | 70 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (387)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (384)
 
 <details><summary>Show</summary>
 
@@ -610,9 +606,6 @@ Jump to: [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (31)](#monday-nov-23-31) �
 | date only | [Senior Azure Infrastructure Engineer](https://apply.workable.com/tomorrow-hire/j/3B87EA976C/) | Tomorrow Hire | Mechanicsville, Virginia, United States… | 28 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
 | 11:33 AM | [Senior Cloud Infrastructure Engineer (AWS & Azure)](https://job-boards.greenhouse.io/valaratomics/jobs/4508690009) | Valaratomics | Torrance, California, United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:09 AM | [Systems Administrator II, AV & OT](https://boards.greenhouse.io/relativity/jobs/8946740002?gh_jid=8946740002) | Relativity Space | Long Beach, California, United States | 45 | rules: adjacent title, little DevOps/cloud work in the text |
-| date only | [Infrastructure Software Engineer](https://apply.workable.com/raydar/j/3116F3A3A7/) | Raydar | San Francisco, California, United States | 65 | rules: needs: U.S. citizenship required |
-| date only | [Research Scientist, TechOps](https://www.amazon.jobs/en/jobs/10601368/research-scientist-techops) | Amazon.com Services LLC | Seattle, Washington, USA | 60 | rules: 1+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
-| date only | [NG Only: Systems Administrator (26-486) AHT](https://ngc.eightfold.ai/careers/job/1340075371130) | Ngc | Colorado Springs, CO, US (onsite) | 65 | rules: 0-2 yrs exp; needs: security clearance |
 | date only | [Window System Administrator (2026-0258)](https://acclaimtechnicalservices.applytojob.com/apply/HIQ8K1oCHm/Window-System-Administrator-20260258) | Acclaim Technical Services | Chantilly, VA | 50 | rules: needs: security clearance |
 | date only | [Senior Software Development Engineer, Specialist AI Tooling, AWS Spec…](https://www.amazon.jobs/en/jobs/10607408/senior-software-development-engineer-specialist-ai-tooling-aws-specialist-technology-team-stt) | Amazon Web Services, Inc. | New York, New York, USA | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Sr. Cust. Success Specialist, Security and Observability Customer Suc…](https://www.amazon.jobs/en/jobs/10607429/sr-cust-success-specialist-security-and-observability-customer-success) | Amazon Web Services, Inc. | Bellevue, Washington, USA | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
