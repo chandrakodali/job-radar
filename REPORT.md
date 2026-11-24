@@ -1,14 +1,16 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**203 jobs**, newest first. Updated Tue Nov 24, 4:19 PM CST from 12,580 company job boards and other sources.
+**204 jobs**, newest first. Updated Tue Nov 24, 4:37 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 184 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (31)](#tuesday-nov-24-31) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (5)](#tuesday-nov-17-5)
+Coverage check: of 3,370 matching jobs that job sites and feeds listed this week, 1,845 (54%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Tuesday, Nov 24 (31)
+Jump to: [Tue 24 (32)](#tuesday-nov-24-32) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (5)](#tuesday-nov-17-5)
+
+## Tuesday, Nov 24 (32)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -36,6 +38,7 @@ Jump to: [Tue 24 (31)](#tuesday-nov-24-31) · [Mon 23 (32)](#monday-nov-23-32) �
 | date only | [Site Reliability DevOps Engineer II](https://wilsonhcg.avature.net/ctscareers/JobDetail/United-States-Site-Reliability-DevOps-Engineer-II/182782) | Wilsonhcg Avature Net | United States | 60 |  |
 | date only | [DevOps Engineer -Sr](https://qualcomm.eightfold.ai/careers/job/446721661838) | Qualcomm | Austin, TX, US (onsite) | 75 | 2+ yrs exp; senior title |
 | date only | [Network DevOps Engineer](https://autodesk.eightfold.ai/careers/job/1443154615447) | Autodesk | MI,US; MI,US (remote) | 57 | 3+ yrs exp |
+| date only | [Application Security Engineer, AWS Security](https://www.amazon.jobs/en/jobs/10613418/application-security-engineer-aws-security) | Amazon.com Services LLC | Seattle, Washington, USA | 60 | 3+ yrs exp |
 | 9:57 AM | [Sustaining Engineer – Infrastructure Solutions](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286052) | Vertiv | Westerville, OH, United States | 60 | 4+ yrs exp |
 | 8:55 AM | [Founding Platform Engineer](https://jobs.ashbyhq.com/protege/4df379fc-49c6-4695-ab32-721d1663d800) | Protege | Remote (remote) | 62 |  |
 | 5:53 AM | [Google Workspace Deployment Engineer, Contract](https://job-boards.greenhouse.io/66degrees/jobs/6269977004) | 66 Degrees | Remote, United States (remote) | 37 | 3+ yrs exp; no future H-1B sponsorship |
@@ -251,13 +254,14 @@ Jump to: [Tue 24 (31)](#tuesday-nov-24-31) · [Mon 23 (32)](#monday-nov-23-32) �
 | 5:53 PM | [Security Site Reliability Engineer - Apple Service Engineering](https://jobs.apple.com/en-us/details/200695546/security-site-reliability-engineer-apple-service-engineering) | Apple | United States of America | 65 |  |
 | 5:39 PM | [Senior Device Reliability Engineer (AI Native)](https://job-boards.greenhouse.io/life360/jobs/8949348002) | Life360 | Fremont, CA | 40 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (379)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (380)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 9:47 PM | [Server Production Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f55317dc-e487-4325-9d73-159aa96c20cf&ccId=19000101_000001&jobId=9201098631766_1&lang=en_US) | F55317Dc E487 4325 9D73 159Aa… | City of Industry, CA | 55 | rules: 2+ yrs exp; no future H-1B sponsorship; adjacent title, little… |
+| 4:13 PM | [Senior Supplier Development & Reliability Engineer](https://jobs.ashbyhq.com/radiant-industries/7b984df8-fae4-4d26-9cbf-fc7951b63b5d) | Radiant | El Segundo, CA (onsite) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 4:01 PM | [Telemetry Engineer II](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690240) | ACQCENTRIC INC | Huntsville, AL, United States | 40 | rules: 3+ yrs exp; needs: security clearance |
 | 3:50 PM | [Oracle Cloud Infrastructure Engineer](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5494046008) | Lightfeatheriollc | Washington, DC | 45 | rules: 5+ yrs exp; needs: Secret clearance |
 | 3:49 PM | [GCP Cloud/DevOps Engineer](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5494041008) | Lightfeatheriollc | Washington, DC | 60 | rules: 4+ yrs exp; needs: security clearance |
