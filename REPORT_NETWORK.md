@@ -1,28 +1,35 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**105 jobs**, newest first. Updated Tue Nov 24, 10:39 AM CST from 12,580 company job boards and other sources.
+**108 jobs**, newest first. Updated Tue Nov 24, 11:30 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
-63 repeat listings (same company and title in another place or on another source) are merged into one row.
+64 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Mon 23 (5)](#monday-nov-23-5) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (9)](#tuesday-nov-17-9)
+Coverage check: of 538 matching jobs that job sites and feeds listed this week, 271 (50%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Tuesday, Nov 24 (1)
+Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (7)](#tuesday-nov-17-7)
+
+## Tuesday, Nov 24 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:28 AM | [Intermediate Network Engineer](https://jobs.lever.co/pingwind/63be007a-0b97-4078-acea-21429d23cf20) | PingWind | Quantico VA (onsite) | 70 |  |
+| 11:05 AM | [Infrastructure Systems Administrator](https://jobs.smartrecruiters.com/Medfar/744000163512571--infrastructure-systems-administrator) | Medfar | Great Neck, New York, United States (hybrid) | 55 | network work in the text |
+| date only | [Sr Network Engineer](https://careers.thehersheycompany.com/job/Hershey-Sr-Network-Engineer-PA-17033/1453449100/) | Hershey | Hershey, PA, US | 60 | 3+ yrs exp; senior title |
 | 12:17 AM | [Network Administrator I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=eed6fc90-b0ca-441b-8558-06030f35fc20&ccId=19000101_000003&jobId=9201052796263_7&lang=en_US) | Eed6Fc90 B0Ca 441B 8558 06030… | Las Vegas, NV | 85 | entry-level title; 1+ yrs exp |
 
-## Monday, Nov 23 (5)
+## Monday, Nov 23 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:00 PM | [Network & Infrastructure Security Engineer](https://jobs.dayforcehcm.com/en-US/gleason/CANDIDATEPORTAL/jobs/5942) | Gleason | Rochester, NY, US; Rochester, NY, US | 40 | 3+ yrs exp; no future H-1B sponsorship; network work in the text |
 | 4:57 PM | [IT Engineer – Information Security](https://job-boards.greenhouse.io/lumosfiber/jobs/5493128008) | Lumos | United States of America (USA), Remote (remote) | 57 | 2+ yrs exp; network work in the text |
 | 2:49 PM (seen) | [Network Engineer I](https://compasshealthnetwork.pinpointhq.com/en/postings/5f216c8a-bb94-4945-8931-965f665364a6) | Compasshealthnetwork | Any Compass Location (remote) | 52 | entry-level title; 3+ yrs exp |
 | 1:24 PM | [Systems Administrator](https://jobs.workable.com/view/pHtBAeZST8CrYb2Z2bqiCM/remote-systems-administrator-in-weston-at-the-recovery-village) | The Recovery Village | Weston, Florida (remote) (remote) | 47 | network work in the text |
 | date only | [Network Deploy Technician, ID Deploy Optical Team](https://www.amazon.jobs/en/jobs/10611849/network-deploy-technician-id-deploy-optical-team) | Amazon Data Services, Inc. | Boardman, Oregon, USA +1 more | 60 | 1+ yrs exp; network work in the text |
 | date only | [NOC Analyst – Network (L1)](https://arctiq.bamboohr.com/careers/373) | Arctiq | Duluth, Georgia, United States | 75 | 2+ yrs exp |
+| 8:14 AM | [Senior Network Developer - Topology Scaling](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351121) | Oracle | Nashville, TN, United States | 43 | senior title, years not stated |
 
 ## Sunday, Nov 22 (1)
 
@@ -134,7 +141,7 @@ Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Mon 23 (5)](#monday-nov-23-5) · [S
 | date only | [Network Dev Engineer III - AMZ10403606](https://www.amazon.jobs/en/jobs/10608014/network-dev-engineer-iii-amz10403606) | Amazon Data Services, Inc. | Seattle, Washington, USA | 38 | 3+ yrs exp; senior title; network work in the text |
 | 10:17 AM | [Senior Network Engineer - Enterprise Connectivity](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24215) | Montenson | MN, United States | 43 | senior title, years not stated; no future H-1B sponsorship |
 
-## Tuesday, Nov 17 (9)
+## Tuesday, Nov 17 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -143,17 +150,16 @@ Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Mon 23 (5)](#monday-nov-23-5) · [S
 | 3:25 PM | [IT Support and Systems Administrator (Contract-to-Hire)](https://jobs.workable.com/view/4exvqgDajAeVgFF93KbNXB/hybrid-it-support-and-systems-administrator-(contract-to-hire)-in-washington-at-millennium-enterprise-corporation) | Millennium Enterprise Corpora… | Washington, District of Columbia (hybrid) | 48 | network work in the text |
 | 3:14 PM | [Senior Systems & Infrastructure Engineer](https://jobs.workable.com/view/8svSbEC2YHxXkmu5ed6ta2/hybrid-senior-systems-%26-infrastructure-engineer-in-new-york-at-gem-technologies) | GEM Technologies | New York, New York (hybrid) | 38 | senior title, years not stated; network work in the text |
 | 2:51 PM | [Network Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200695356/network-engineer-infrastructure-services) | Apple | United States of America | 58 |  |
-| 2:14 PM | [Infrastructure Systems Administrator - Great Neck (NY)](https://jobs.smartrecruiters.com/Medfar/744000162160732--infrastructure-systems-administrator-great-neck-ny-) | Medfar | Great Neck, New York, United States (hybrid) | 48 | network work in the text |
 | 12:23 PM | [IT Systems Engineer](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7850) | DNV | Austin, TX, United States | 43 | network work in the text |
 | 12:17 PM | [Network Engineer](https://jobs.gem.com/sauron-systems/am9icG9zdDqJNe9XI1xwfxBYKaFYj9O9) | Sauron Systems | San Francisco (onsite) | 58 | 3+ yrs exp |
-| date only | [Senior Network Engineer](https://assaabloy.jobs2web.com/job/New-Haven-Senior-Network-Engineer-CT-06511/1458220733/) | ASSA ABLOY | New Haven, CT, United States | 43 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (226)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (227)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Network Deployment Engineer, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10612860/network-deployment-engineer-amazon-dedicated-cloud-nidd) | Amazon Data Services, Inc. | Broomfield, Colorado, USA | 75 | rules: 1+ yrs exp; needs: security clearance |
 | date only | [Senior Network Engineer - Deployments](https://nvidia.eightfold.ai/careers/job/893397524029) | Nvidia | Yokne'am Illit, North District, IL +1 m… (onsite) | 45 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | 9:32 AM | [Network Engineer III](https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2054) | Tulane University | New Orleans, LA, United States (remote) | 47 | rules: 10+ yrs exp; senior title; likely H-1B cap-exempt (verify); as… |
 | 8:53 AM | [Target Digital Network Analyst 2](https://job-boards.greenhouse.io/grvty/jobs/4507550009) | GRVTY | Fort Gordon, Georgia, United States +1 … | 40 | rules: 9+ yrs exp; needs: Active TS/SCI |
@@ -162,6 +168,7 @@ Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Mon 23 (5)](#monday-nov-23-5) · [S
 | 6:39 AM | [Network Engineer](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7080) | Black Box | United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:17 AM | [Sr Network Engineer- Jacksonville, FL](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42290) | GuideWell Mutual | Jacksonville, FL, United States (onsite) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 12:32 AM | [IT Engineer](https://jobs.ashbyhq.com/Etched/890fd360-d558-4fa6-921d-32ff9e58e7e2) | Etched | San Jose (onsite) | 35 | rules: 5+ yrs exp; network work in the text; asks for 5+ years of exp… |
+| 11:00 PM | [Network Defense Analyst](https://careers-i2xisys.icims.com/jobs/15985/network-defense-analyst/job) | ISYS Technologies | Schriever AFB, CO, United States | 55 | rules: E-Verify; network work in the text; needs: Secret clearance |
 | 7:00 PM | [Senior IT Engineer, Cloud Security](https://job-boards.greenhouse.io/arcboatcompany/jobs/5493209008) | Arc | Torrance, CA | 30 | rules: 7+ yrs exp; senior title; network work in the text; needs: ITAR |
 | 6:22 PM | [Infrastructure & Network Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=edbc1146-911e-417e-b53e-c0e2f7d2a0e9&ccId=19000101_000001&jobId=9201323290322_36&lang=en_US) | Edbc1146 911E 417E B53E C0E2F… | Remote, US | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:14 PM | [IT Systems & Network Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e5360e53-0e72-41c4-b1bf-01f1613310c6&ccId=19000101_000003&jobId=9205262159276_11&lang=en_US) | E5360E53 0E72 41C4 B1Bf 01F16… | Arlington, VA | 45 | rules: 5+ yrs exp; needs: security clearance |
@@ -179,7 +186,6 @@ Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Mon 23 (5)](#monday-nov-23-5) · [S
 | date only | [Network Systems Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029624EXTERNALENGLOBAL) | Cisco | Rancho Cordova, California, United Stat… | 25 | rules: 5+ yrs exp; network work in the text; asks for 5+ years of exp… |
 | 5:05 PM | [Senior Network Engineer - PCLOB](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684078) | 33704Aa8 8475 45E8 B8A8 55E4D… | DC, USA | 45 | rules: 7+ yrs exp; senior title; needs: security clearance |
 | date only | [Systems Administrator II](https://sigmadesign.applytojob.com/apply/tWeKPHZxsE/Systems-Administrator-II) | Sigma Design | Burlingame, CA | 25 | rules: 5+ yrs exp; network work in the text; needs: ITAR |
-| date only | [Network Deployment Engineer, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10610384/network-deployment-engineer-amazon-dedicated-cloud-nidd) | Amazon Data Services, Inc. | Broomfield, Colorado, USA | 75 | rules: 1+ yrs exp; needs: security clearance |
 | date only | [Network Engineer](https://morristechnology.bamboohr.com/careers/443) | Morristechnology | Springfield, Illinois | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Network Operations Center Engineer](https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107955&lang=en) | Lawrence Berkeley National La… |  | 50 | rules: 5+ yrs exp; likely H-1B cap-exempt (verify); asks for 5+ years… |
 | 10:25 AM | [Senior Network Engineer](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022806) | ADT | Irving, TX, United States | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
