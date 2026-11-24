@@ -1,12 +1,14 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**87 jobs**, newest first. Updated Mon Nov 23, 8:01 PM CST from 12,580 company job boards and other sources.
+**86 jobs**, newest first. Updated Mon Nov 23, 9:01 PM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 155 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (18)](#tuesday-nov-17-18) · [Mon 16 (3)](#monday-nov-16-3)
+Coverage check: of 3,731 matching jobs that job sites and feeds listed this week, 1,461 (39%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (17)](#tuesday-nov-17-17) · [Mon 16 (3)](#monday-nov-16-3)
 
 ## Monday, Nov 23 (18)
 
@@ -104,7 +106,7 @@ Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [
 | 10:00 AM | [SEO Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805) | Treatwell | Remote, US (remote) | 40 | requires Java |
 | 6:08 AM | [Senior Software Engineer - Go SDK - Language Clients](https://jobs.ashbyhq.com/clickhouse/cd764fbe-9455-4d9c-84ee-837b63c1d32d) | ClickHouse | New York; Detroit; Chicago; Atlanta; Bo… (remote) | 37 | senior title, years not stated; requires Java |
 
-## Tuesday, Nov 17 (18)
+## Tuesday, Nov 17 (17)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -112,7 +114,6 @@ Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [
 | 5:19 PM | [Software Engineer, Backend (Go)](https://jobs.smartrecruiters.com/Mirantis/744000162186029-software-engineer-backend-go-) | Mirantis | Raleigh, NC, United States (remote) | 47 | requires Java |
 | 4:42 PM | [Junior Java Developer](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021617) | ADT | Irving, TX, United States | 70 | entry-level title; 4+ yrs exp |
 | 4:02 PM | [Software Engineer, Systems and Infrastructure](https://jobs.smartrecruiters.com/LinkedIn3/744000162178160-software-engineer-systems-and-infrastructure-) | LinkedIn | Bellevue, WA, United States (hybrid) | 70 | 1+ yrs exp; E-Verify; requires Java |
-| 2:18 PM | [Senior Software Engineer, Data Platform](https://sofi.com/careers/job/8207529003?gh_jid=8207529003) | Sofi | Seattle, Washington or Salt Lake City, … | 45 | 3+ yrs exp; senior title; requires Java |
 | 12:50 PM (seen) | [Enterprise Software Engineer APIs Java REST](https://careers.eriasventures.com/careers/89065-Erias-Ventures/jobs/16874389-Enterprise--Software-Engineer--APIs-Java-REST/) | Erias |  | 45 | location unclear |
 | 12:50 PM (seen) | [Enterprise Software Engineer Java REST Linux](https://careers.eriasventures.com/careers/89065-Erias-Ventures/jobs/16874385-Enterprise--Software-Engineer--Java-REST-Linux/) | Erias |  | 45 | location unclear |
 | 12:50 PM (seen) | [Enterprise Software Engineer Java OOP Linux](https://careers.eriasventures.com/careers/89065-Erias-Ventures/jobs/16874384-Enterprise--Software-Engineer--Java-OOP-Linux/) | Erias |  | 45 | location unclear |
@@ -135,7 +136,7 @@ Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [
 | 10:04 PM | [Software Engineer, Safety](https://job-boards.greenhouse.io/xai/jobs/5297316007) | xAI | Palo Alto, CA | 50 | requires Java |
 | 9:32 PM | [Software Engineer, Ads Serving](https://job-boards.greenhouse.io/xai/jobs/5297311007) | xAI | Palo Alto, CA | 60 | 2+ yrs exp; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (77)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (76)
 
 <details><summary>Show</summary>
 
@@ -213,7 +214,6 @@ Jump to: [Mon 23 (18)](#monday-nov-23-18) · [Sun 22 (2)](#sunday-nov-22-2) · [
 | 11:00 PM | [Software Engineer (Expert)](https://careers-markon.icims.com/jobs/8865/software-engineer-%28expert%29/job) | Markon | Herndon, VA, United States | 45 | rules: 4+ yrs exp; requires Java; needs: Active TS/SCI |
 | 11:00 PM | [Full Stack Developer (Expert)](https://careers-markon.icims.com/jobs/8869/full-stack-developer-%28expert%29/job) | Markon | Sterling, VA, United States | 30 | rules: 11+ yrs exp; requires Java; needs: Active TS/SCI |
 | 10:05 PM | [Sr. Software Engineer, Safety](https://job-boards.greenhouse.io/xai/jobs/5297314007) | xAI | Palo Alto, CA | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
-| 8:54 PM | [Sr. Software Engineer, Ads Serving](https://job-boards.greenhouse.io/xai/jobs/5297207007) | xAI | Palo Alto, CA | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | date only | [Java Full Stack](https://careers.capgemini.com/job/New-York%2C-NY-Java-Full-Stack-NY-10001/1457787633/) | Capgemini | New York, NY, United States | 38 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 1:23 PM | [Senior Software Engineer](https://job-boards.greenhouse.io/natera/jobs/6261258004) | Natera | US Remote (remote) | 15 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
 | 11:57 AM | [Senior Software Development Engineer - Biometrics and Credentials](https://job-boards.greenhouse.io/idme/jobs/8197758003) | ID.me | Mountain View, California, United States | 20 | rules: 6+ yrs exp; senior title; E-Verify; requires Java; asks for 6+… |
