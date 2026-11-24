@@ -1,12 +1,14 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**110 jobs**, newest first. Updated Mon Nov 23, 7:09 PM CST from 12,580 company job boards and other sources.
+**109 jobs**, newest first. Updated Mon Nov 23, 7:56 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 64 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Mon 23 (5)](#monday-nov-23-5) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (4)](#monday-nov-16-4)
+Coverage check: of 452 matching jobs that job sites and feeds listed this week, 228 (50%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Mon 23 (5)](#monday-nov-23-5) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (3)](#monday-nov-16-3)
 
 ## Tuesday, Nov 24 (1)
 
@@ -149,22 +151,22 @@ Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Mon 23 (5)](#monday-nov-23-5) · [S
 | date only | [Senior Network Engineer](https://assaabloy.jobs2web.com/job/New-Haven-Senior-Network-Engineer-CT-06511/1458220733/) | ASSA ABLOY | New Haven, CT, United States | 43 | senior title, years not stated |
 | 10:36 AM | [Senior Network Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8948166002) | Atoms | San Francisco, CA | 48 | senior title, years not stated |
 
-## Monday, Nov 16 (4)
+## Monday, Nov 16 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:00 PM | [Network Engineer II](https://jobs.dayforcehcm.com/en-US/landstar/CANDIDATEPORTAL/jobs/11996) | Landstar | Jacksonville, FL, US | 43 | 3+ yrs exp |
 | 11:00 PM | [Network Technician Field Operations](https://jobs.dayforcehcm.com/en-US/uniti/CANDIDATEPORTAL/jobs/35654) | Uniti | Cordova, TN, US; Memphis, TN, US | 48 | 4+ yrs exp |
 | 9:58 PM | [Network Infrastructure Engineer](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41673) | Nokia | United States (onsite) | 58 |  |
-| 7:31 PM | [Network Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bf3a746f-34a8-44ce-9a79-b8c51364fc82&ccId=19000101_000001&jobId=9207477663811_1&lang=en_US) | Bf3A746F 34A8 44Ce 9A79 B8C51… | Lawton, OK | 48 | 3+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (218)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (219)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Senior Network Engineer - Deployments](https://nvidia.eightfold.ai/careers/job/893397524029) | Nvidia | Yokne'am Illit, North District, IL +1 m… (onsite) | 45 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
+| 7:00 PM | [Senior IT Engineer, Cloud Security](https://job-boards.greenhouse.io/arcboatcompany/jobs/5493209008) | Arc | Torrance, CA | 30 | rules: 7+ yrs exp; senior title; network work in the text; needs: ITAR |
 | 6:22 PM | [Infrastructure & Network Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=edbc1146-911e-417e-b53e-c0e2f7d2a0e9&ccId=19000101_000001&jobId=9201323290322_36&lang=en_US) | Edbc1146 911E 417E B53E C0E2F… | Remote, US | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 5:14 PM | [IT Systems & Network Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e5360e53-0e72-41c4-b1bf-01f1613310c6&ccId=19000101_000003&jobId=9205262159276_11&lang=en_US) | E5360E53 0E72 41C4 B1Bf 01F16… | Arlington, VA | 45 | rules: 5+ yrs exp; needs: security clearance |
 | 5:06 PM | [Network Engineer 3](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005829) | Berkshire Hathaway Energy | Las Vegas, NV, United States (onsite) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
