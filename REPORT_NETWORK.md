@@ -1,14 +1,12 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**108 jobs**, newest first. Updated Mon Nov 23, 10:49 PM CST from 12,535 company job boards and other sources.
+**106 jobs**, newest first. Updated Mon Nov 23, 11:01 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 64 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 469 matching jobs that job sites and feeds listed this week, 236 (50%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Mon 23 (5)](#monday-nov-23-5) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (10)](#tuesday-nov-17-10) · [Mon 16 (2)](#monday-nov-16-2)
+Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Mon 23 (5)](#monday-nov-23-5) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (10)](#tuesday-nov-17-10)
 
 ## Tuesday, Nov 24 (1)
 
@@ -150,13 +148,6 @@ Jump to: [Tue 24 (1)](#tuesday-nov-24-1) · [Mon 23 (5)](#monday-nov-23-5) · [S
 | 12:17 PM | [Network Engineer](https://jobs.gem.com/sauron-systems/am9icG9zdDqJNe9XI1xwfxBYKaFYj9O9) | Sauron Systems | San Francisco (onsite) | 58 | 3+ yrs exp |
 | date only | [Senior Network Engineer](https://assaabloy.jobs2web.com/job/New-Haven-Senior-Network-Engineer-CT-06511/1458220733/) | ASSA ABLOY | New Haven, CT, United States | 43 | senior title, years not stated |
 | 10:36 AM | [Senior Network Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8948166002) | Atoms | San Francisco, CA | 48 | senior title, years not stated |
-
-## Monday, Nov 16 (2)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 11:00 PM | [Network Engineer II](https://jobs.dayforcehcm.com/en-US/landstar/CANDIDATEPORTAL/jobs/11996) | Landstar | Jacksonville, FL, US | 43 | 3+ yrs exp |
-| 11:00 PM | [Network Technician Field Operations](https://jobs.dayforcehcm.com/en-US/uniti/CANDIDATEPORTAL/jobs/35654) | Uniti | Cordova, TN, US; Memphis, TN, US | 48 | 4+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (219)
 
