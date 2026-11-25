@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**183 jobs**, newest first. Updated Wed Nov 25, 4:25 PM CST from 12,535 company job boards and other sources.
+**183 jobs**, newest first. Updated Wed Nov 25, 4:38 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 181 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,319 matching jobs that job sites and feeds listed this week, 1,950 (58%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (15)](#wednesday-nov-25-15) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (9)](#wednesday-nov-18-9)
 
@@ -233,7 +231,7 @@ Jump to: [Wed 25 (15)](#wednesday-nov-25-15) · [Tue 24 (34)](#tuesday-nov-24-34
 | 5:18 PM | [Sr Software Engineer - Infrastructure & Platform](https://mercadolibre.eightfold.ai/careers/job/43350162) | Mercadolibre | CABA, CABA, AR (hybrid) | 60 | senior title, years not stated |
 | 4:57 PM | [Senior Application Security Engineer](https://jobs.ashbyhq.com/paxos/df3b7383-2900-4e72-acb0-eb3c1667573c) | Paxos | Remote - United States (remote) | 52 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (364)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (362)
 
 <details><summary>Show</summary>
 
@@ -575,8 +573,6 @@ Jump to: [Wed 25 (15)](#wednesday-nov-25-15) · [Tue 24 (34)](#tuesday-nov-24-34
 | 7:23 PM | [Senior Systems Administrator](https://jobs.ashbyhq.com/swarmaero/f6362109-d107-46e7-aa57-04d0da26c3c5) | Swarm Aero | Oxnard (onsite) | 35 | rules: 5+ yrs exp; senior title; needs: must be a U.S. citizen |
 | 4:47 PM | [Senior Infrastructure Security Engineer (Cloud & On-Prem)](https://job-boards.greenhouse.io/valaratomics/jobs/4510605009) | Valaratomics | Torrance, California, United States | 45 | rules: 7+ yrs exp; senior title; needs: Must be a U.S. person |
 | 4:46 PM | [AI Security Engineer (AppSec, Cloud & On-Premises)](https://job-boards.greenhouse.io/valaratomics/jobs/4510677009) | Valaratomics | Torrance, California, United States | 45 | rules: 7+ yrs exp; needs: Must be a U.S. person |
-| 4:28 PM | [Linux Installation Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4730735006?gh_jid=4730735006) | Accenture | San Diego, CA | 35 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: security cleara… |
-| 4:10 PM | [Senior Cloud DevOps Engineer (Hybrid - Houston)](https://jobs.smartrecruiters.com/AECOM2/744000162400439-senior-cloud-devops-engineer-hybrid-houston-) | AECOM | Houston, TX, United States (hybrid) | 50 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 3:28 PM | [Senior Software Engineer, Data Infrastructure](https://jobs.lever.co/prolific-machines/10441e3a-f731-4230-b8d7-f792daf8cd87) | Prolific Machines | Emeryville, California (onsite) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 3:12 PM | [Mid Linux Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676907) | 6166Aed4 Af42 4762 99E4 5D67A… | USA | 43 | rules: needs: Secret Clearance |
 | 3:06 PM | [Senior Linux Systems Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676869) | 6166Aed4 Af42 4762 99E4 5D67A… | USA (remote) | 20 | rules: 10+ yrs exp; senior title; needs: Secret Clearance |
