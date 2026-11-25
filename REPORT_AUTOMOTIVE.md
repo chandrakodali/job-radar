@@ -1,6 +1,6 @@
 # Auto Radar: latest matches
 
-Watching **12,671 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
+Watching **12,622 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
 
 Last new match: **Wed Nov 25, 12:53 AM EST**. Score is 0–100 and uses no AI: the full job text is read section by section. "Has" lists the resume's skills the job asks for; "Missing" lists skills the job requires that the resume does not show. The score weighs how much of what the job asks the resume covers, the title, years required (the MS path counts), the industry, word overlap with the resume, freshness and location. Visa sponsorship moves it by 2 points at most. Full history: [data/automotive/matches.csv](data/automotive/matches.csv).
 
@@ -428,7 +428,7 @@ Showing the 400 best of 1862; the rest are in the full history file.
 | 73 | [V&V Engineer, Electrical](https://jobs.lever.co/waabi/c4309c3b-91a3-4415-b53b-2993937c88ce) | Waabi | Pittsburgh, PA (onsite) | Aug 18 | MIL testing, Functional safety, ISO 26262, CAN/CAN FD, Automotive software, Requirements … | HIL testing | 5+ yrs; stretch: senior-level title; open 98 days |
 | 73 | [Senior Engineer, Autonomy Software Integration & Test (R5606)](https://jobs.ashbyhq.com/shield/81172a7f-2903-4668-93fd-6fbdff456c55) | Shield AI | Arlington, VA, US (onsite) | Aug 27 | SIL testing, Embedded software, C++, SWC/RTE design, Requirements-based testing, Software… | – | 3+ yrs; open 89 days |
 
-## Hidden from alerts: clearance/citizenship or rejected by the AI check (1066 in the last 60 days)
+## Hidden from alerts: clearance/citizenship or rejected by the AI check (1069 in the last 60 days)
 
 Jobs that need a security clearance, US citizenship or ITAR status, jobs asking for 10+ years of experience, jobs whose text names none of the resume's tools, and jobs the AI check of the full description against the resume judged a different kind of job. The reason is in the Notes column. Listed so nothing is dropped silently.
 
