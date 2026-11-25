@@ -1,20 +1,26 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**379 jobs**, newest first. Updated Wed Nov 25, 3:33 AM CST from 12,580 company job boards and other sources.
+**383 jobs**, newest first. Updated Wed Nov 25, 4:19 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 174 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (4)](#wednesday-nov-25-4) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (46)](#wednesday-nov-18-46)
+Coverage check: of 4,672 matching jobs that job sites and feeds listed this week, 992 (21%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Wednesday, Nov 25 (4)
+Jump to: [Wed 25 (8)](#wednesday-nov-25-8) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (46)](#wednesday-nov-18-46)
+
+## Wednesday, Nov 25 (8)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Junior Data Science Analyst (11-month fixed-term contract)](https://astrazeneca.eightfold.ai/careers/job/563877691907447) | Astrazeneca | , , (onsite) | 75 | entry-level title; location unclear |
 | date only | [Advanced Level 1 IT Technician (MSP)](https://digacore.bamboohr.com/careers/225) | Digacore | Lakewood, New Jersey | 85 | entry-level title; 1+ yrs exp |
+| date only | [Junior Systems Engineer](https://appliedmaterials.eightfold.ai/careers/job/790319479621) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 80 | entry-level title |
 | 3:45 AM | [Post Peer Support Specialist (Buncombe County, NC)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=11234a05-dd20-44aa-9b1f-ca7bb9f6eba3&ccId=19000101_000001&jobId=9201256990292_80&lang=en_US) | 11234A05 Dd20 44Aa 9B1F Ca7Bb… | Remote, NC; Asheville, NC | 75 | 1+ yrs exp |
+| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Scottsdale Fash…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827841) | Macy's | Scottsdale, AZ, United States | 75 | entry-level title |
+| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Mission Viejo](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827808) | Macy's | Mission Viejo, CA, United States | 75 | entry-level title |
+| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Moreno Valley](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827807) | Macy's | Moreno Valley, CA, United States | 75 | entry-level title |
 | 2:47 AM | [Bilingual Spanish Customer Support Specialist](https://jobs.smartrecruiters.com/Experian/744000163628584-bilingual-spanish-customer-support-specialist) | Experian | Van Buren, AR, United States +1 more (remote) | 72 | 1+ yrs exp; repost |
 
 ## Tuesday, Nov 24 (58)
@@ -427,7 +433,7 @@ Jump to: [Wed 25 (4)](#wednesday-nov-25-4) · [Tue 24 (58)](#tuesday-nov-24-58) 
 | 8:04 AM | [AI Researcher / Engineer](https://jobs.ashbyhq.com/Clera/2f66e84d-aee6-4cbf-b041-2ef10678c6e0) | Clera | remote | 70 | 0-2 yrs exp; location unclear |
 | 7:56 AM | [SAP Developer - IT Customer & Metering Systems](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FirstEnergyCareers/job/105962) | FirstEnergy | Akron, OH, United States | 70 | entry level (from the text); no future H-1B sponsorship |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1502)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1500)
 
 <details><summary>Show</summary>
 
