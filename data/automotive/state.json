@@ -12277,7 +12277,7 @@
   "workday:littelfuse|wd1|littelfuse-careers": 21,
   "workday:marvell|wd1|marvellcareers": 222,
   "workday:methode|wd5|methode": 30,
-  "workday:michelinhr|wd3|michelin": 112,
+  "workday:michelinhr|wd3|michelin": 20,
   "workday:moog|wd5|moog_external_career_site": 320,
   "workday:nidec|wd1|nidec": 45,
   "workday:nvidia|wd5|nvidiaexternalcareersite": 40,
@@ -14047,7 +14047,7 @@
    "since": "2026-11-11"
   }
  },
- "found_cursor": 3011,
+ "found_cursor": 41,
  "last_digest": "2026-11-25",
  "missed_companies": {},
  "missing_once": {
@@ -21102,6 +21102,7 @@
   "workday:littelfuse|wd1|Littelfuse-Careers": "2026-11-23T01:59+00:00",
   "workday:marvell|wd1|MarvellCareers": "2026-11-24T23:07+00:00",
   "workday:methode|wd5|methode": "2026-11-23T11:07+00:00",
+  "workday:michelinhr|wd3|Michelin": "2026-11-25T19:34+00:00",
   "workday:moog|wd5|moog_external_career_site": "2026-11-20T18:01+00:00",
   "workday:nebraskablue|wd1|BCBSNE": "2026-11-20T18:01+00:00",
   "workday:nidec|wd1|nidec": "2026-11-22T23:07+00:00",
@@ -93126,7 +93127,7 @@
   "zoho:stackand:311383000018775968": "2026-11-15"
  },
  "source_last": {},
- "term_cursor": 45,
+ "term_cursor": 7,
  "text_retries": {
   "avature:harmanglobal.avature.net|en_US/careers:32174": 2,
   "avature:harmanglobal.avature.net|en_US/careers:32516": 2,
@@ -93209,6 +93210,7 @@
   "workday:marvell|wd1|MarvellCareers:2605500": 1,
   "workday:marvell|wd1|MarvellCareers:2605501": 1,
   "workday:methode|wd5|methode:R27556": 1,
+  "workday:michelinhr|wd3|Michelin:R-2026040515": 1,
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2027639": 1,
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2029344": 1,
   "workday:nvidia|wd5|NVIDIAExternalCareerSite:JR2030242": 1,
