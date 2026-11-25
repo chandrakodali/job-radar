@@ -1,18 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**199 jobs**, newest first. Updated Wed Nov 25, 3:19 AM CST from 12,580 company job boards and other sources.
+**200 jobs**, newest first. Updated Wed Nov 25, 3:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 183 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (1)](#wednesday-nov-25-1) · [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (39)](#wednesday-nov-18-39)
+Coverage check: of 3,159 matching jobs that job sites and feeds listed this week, 1,841 (58%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Wednesday, Nov 25 (1)
+Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (39)](#wednesday-nov-18-39)
+
+## Wednesday, Nov 25 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Senior Systems Development Engineer, AWS Resilience](https://www.amazon.jobs/en/jobs/10613624/senior-systems-development-engineer-aws-resilience) | Amazon.com Services LLC | Seattle, Washington, USA | 60 | 4+ yrs exp; senior title |
+| date only | [Devops Engineer](https://appliedmaterials.eightfold.ai/careers/job/790319452197) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 65 | 3+ yrs exp |
 
 ## Tuesday, Nov 24 (35)
 
