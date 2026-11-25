@@ -1,14 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**76 jobs**, newest first. Updated Tue Nov 24, 8:26 PM CST from 12,535 company job boards and other sources.
+**75 jobs**, newest first. Updated Tue Nov 24, 8:38 PM CST from 12,580 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 182 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,956 matching jobs that job sites and feeds listed this week, 1,767 (44%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Tue 24 (9)](#tuesday-nov-24-9) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (14)](#friday-nov-20-14) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19) · [Tue 17 (1)](#tuesday-nov-17-1)
+Jump to: [Tue 24 (9)](#tuesday-nov-24-9) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (14)](#friday-nov-20-14) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (19)](#wednesday-nov-18-19)
 
 ## Tuesday, Nov 24 (9)
 
@@ -119,12 +117,6 @@ Jump to: [Tue 24 (9)](#tuesday-nov-24-9) · [Mon 23 (15)](#monday-nov-23-15) · 
 | date only | [Advanced Engineer-Java Backend](https://jobsearch.harman.com/en_US/careers/JobDetail/Advanced-Engineer-Java-Backend/33352) | HARMAN International |  | 60 | location unclear |
 | 10:00 AM | [SEO Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805) | Treatwell | Remote, US (remote) | 40 | requires Java |
 | 6:08 AM | [Senior Software Engineer - Go SDK - Language Clients](https://jobs.ashbyhq.com/clickhouse/cd764fbe-9455-4d9c-84ee-837b63c1d32d) | ClickHouse | New York; Detroit; Chicago; Atlanta; Bo… (remote) | 37 | senior title, years not stated; requires Java |
-
-## Tuesday, Nov 17 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 8:28 PM | [Java Developer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4673099) | SGI | Indianapolis, IN, United States | 75 | 2+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (74)
 
