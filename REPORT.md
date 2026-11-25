@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**196 jobs**, newest first. Updated Wed Nov 25, 7:07 AM CST from 12,535 company job boards and other sources.
+**196 jobs**, newest first. Updated Wed Nov 25, 7:19 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 183 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,225 matching jobs that job sites and feeds listed this week, 1,888 (58%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (35)](#wednesday-nov-18-35)
 
@@ -246,7 +244,7 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 8:42 AM | [Software Engineer - Platform Engineering](https://job-boards.greenhouse.io/twilio/jobs/8385593) | Twilio | Remote - US (remote) | 67 | E-Verify |
 | 8:22 AM | [Senior Software Engineer - Cloud Infrastructure - (US Remote)](https://jobs.ashbyhq.com/clickhouse/caf49f06-ed35-4637-9372-f4df114e852f) | ClickHouse | NAMER and LatAm; United States | 55 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (376)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (375)
 
 <details><summary>Show</summary>
 
@@ -600,7 +598,6 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 9:59 AM | [Azure AI Platform Engineer III/Senior](https://job-boards.greenhouse.io/eqtcorporation/jobs/5486501008) | EQT Corporation | Remote (remote) | 37 | rules: 6+ yrs exp; senior title; location unclear; asks for 6+ years … |
 | 8:39 AM | [DevSecOps Engineer - AWS - Northeast region](https://boards.greenhouse.io/guidepointsecurity/jobs/6264977004?gh_jid=6264977004) | GuidePoint Security | Remote (remote) | 37 | rules: 6+ yrs exp; no future H-1B sponsorship; asks for 6+ years of e… |
 | 3:00 AM | [Senior Strategic Sourcing Specialist - Rail Infrastructure](https://jobs.dayforcehcm.com/en-US/omnitrax/CANDIDATEPORTAL/jobs/4991) | Omnitrax | Denver, CO, US | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 11:00 PM | [Senior System Administrator](https://careers-dminc.icims.com/jobs/29072/senior-system-administrator/job) | DMI | Washington, DC, United States | 30 | rules: 8+ yrs exp; senior title; needs: Must be a U.S. Citizen |
 | 11:00 PM | [Human Resources Enterprise Systems Administrator - HR Systems](https://careers-dartmouth-hitchcock.icims.com/jobs/43203/human-resources-enterprise-systems-administrator---hr-systems/job) | Dartmouth Health | Lebanon, NH, United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [SME Level Network Engineer](https://careers-markon.icims.com/jobs/8864/sme-level-network-engineer/job) | Markon | Sterling, VA, United States | 50 | rules: needs: TS/SCI clearance |
 | 11:00 PM | [Network Engineer - Senior](https://careers-markon.icims.com/jobs/8862/network-engineer---senior/job) | Markon | Sterling, VA, United States | 30 | rules: 6+ yrs exp; senior title; needs: TS/SCI clearance |
