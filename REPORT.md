@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**203 jobs**, newest first. Updated Tue Nov 24, 6:07 PM CST from 12,535 company job boards and other sources.
+**203 jobs**, newest first. Updated Tue Nov 24, 6:19 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 184 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 2,980 matching jobs that job sites and feeds listed this week, 1,710 (57%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (3)](#tuesday-nov-17-3)
 
@@ -253,7 +251,7 @@ Jump to: [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) �
 | 10:37 PM (seen) | [ETQ QMS System Administrator](https://ats.rippling.com/vulcanforms/jobs/7fdb3ecd-a0c7-434c-a90f-a03eec3e0fe1) | Vulcanforms | Devens, MA (onsite) | 40 |  |
 | 8:26 PM | [DevOps Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5a22940c-3629-44d9-813a-0ccee8ac9aac&ccId=19000101_000001&jobId=9207425208682_522&lang=en_US) | 5A22940C 3629 44D9 813A 0Ccee… | Austin, TX | 58 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (385)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (384)
 
 <details><summary>Show</summary>
 
@@ -623,7 +621,6 @@ Jump to: [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) �
 | 6:41 PM | [Global Network Engineer III](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261189) | GM financial | Arlington, TX, United States (hybrid) | 35 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 6:27 PM | [Production Engineer I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=47cff557-9c88-4c72-94fb-3998b410a98f&ccId=19000101_000001&jobId=9201806116709_10&lang=en_US) | 47Cff557 9C88 4C72 94Fb 3998B… | Clackamas, OR | 68 | rules: entry-level title; 1+ yrs exp; E-Verify; needs: ITAR |
 | 6:22 PM | [Hardware Reliability Engineer](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5478655008) | K2 Space | Los Angeles, CA | 60 | rules: 1+ yrs exp; needs: ITAR |
-| 6:07 PM (seen) | [Systems Network Administrator](https://triquest.catsone.com/careers/2097-General/jobs/16874528-Systems--Network-Administrator/) | Triquest |  | 35 | rules: adjacent title, little DevOps/cloud work in the text |
 | 5:40 PM | [Paint Production Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ed04d207-5c83-4a05-bb3e-d66a47159585&ccId=19000101_000001&jobId=511113762_6&lang=en_US) | Ed04D207 5C83 4A05 Bb3E D66A4… | Princeton, IN +1 more | 43 | rules: adjacent title, little DevOps/cloud work in the text |
 | 5:20 PM | [Senior IT Systems Engineer](https://jobs.ashbyhq.com/river/0dff47b9-8677-4334-bf57-82461a6313b8) | River | Remote - US; New York, NY; Columbus, OH (remote) | 27 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 3:43 PM | [Network Engineer III](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=64b85cdf-e793-428c-847d-3c083156603d&ccId=1593362092_8566&jobId=9201462305941_1&lang=en_US) | 64B85Cdf E793 428C 847D 3C083… | Camarillo, CA | 28 | rules: 5+ yrs exp; senior title; E-Verify; asks for 5+ years of exper… |
