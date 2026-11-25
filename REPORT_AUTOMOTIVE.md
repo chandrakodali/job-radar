@@ -1,10 +1,10 @@
 # Auto Radar: latest matches
 
-Watching **12,622 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
+Watching **12,671 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
 
 Last new match: **Wed Nov 25, 12:53 AM EST**. Score is 0–100 and uses no AI: the full job text is read section by section. "Has" lists the resume's skills the job asks for; "Missing" lists skills the job requires that the resume does not show. The score weighs how much of what the job asks the resume covers, the title, years required (the MS path counts), the industry, word overlap with the resume, freshness and location. Visa sponsorship moves it by 2 points at most. Full history: [data/automotive/matches.csv](data/automotive/matches.csv).
 
-## Posted in the last 24 hours (12)
+## Posted in the last 24 hours (11)
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
@@ -16,14 +16,13 @@ Last new match: **Wed Nov 25, 12:53 AM EST**. Score is 0–100 and uses no AI: t
 | 66 | [Firmware Engineer II](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19417) | Resideo | Melville, NY, United States (hybrid) | Nov 24 | C, Embedded software, C++, Code reviews, Agile/Scrum/Jira | Cybersecurity (ISO 21434), Microcontrollers, RTOS | 3+ yrs |
 | 63 | [Robotics Software Engineer - Core/System](https://jobs.ashbyhq.com/cosmic-robotics/f3fd6f58-3ded-4858-b881-c16f0b14ab60) | Cosmic Robotics | Cosmic HQ (onsite) | Nov 24 | C++, ISO 26262, Functional safety, Code reviews, Python | Multicore/concurrency | 3+ yrs |
 | 58 | [Senior Hardware Engineer](https://jobs.smartrecruiters.com/BoschGroup/744000163527369-senior-hardware-engineer) | Bosch | Plymouth, MI, United States (hybrid) | Nov 24 | ADAS, Requirements engineering, ECU software, Functional safety, Automotive software | – | 7+ yrs |
-| 57 | [Development Lead Engineer - Hard Top and Soft Top Roof Systems](https://careers.stellantis.com/job/24249763/development-lead-engineer-hard-top-and-soft-top-roof-systems-auburn-hills-mi/) | Stellantis | Auburn Hills, MI, US | Nov 24 | Functional safety, Requirements engineering, Requirements-based testing, Controls/algorit… | – | 8+ yrs; stretch: senior-level title |
 | 52 | [Lead Power Electronics Engineer](https://eaton.eightfold.ai/careers/job/687240379659) | Eaton | Menomonee Falls, WI, US (onsite) | Nov 24 | Simulink, MATLAB | Inverter/power electronics | 5+ yrs; stretch: senior-level title |
 | 49 | [Sr Research Scientist, Battery Algorithms, Energy Storage, Project Je…](https://www.amazon.jobs/en/jobs/10613682/sr-research-scientist-battery-algorithms-energy-storage-project-jewel) | Amazon.com Services LLC | Irvine, California, USA | Nov 24 | Requirements-based testing, Controls/algorithms | – | 5+ yrs (MS path) |
 | 48 | [Embedded Linux Engineer (C/C++ & Device Drivers)](https://ats.rippling.com/cintal/jobs/b0852677-39a0-4250-a147-db0ef2c9f0c5) | Cintal | Chillicothe, IL (onsite) | Nov 24 | C, C++ | Device drivers/BSP, Embedded Linux/kernel | description not read |
 
-## Found in the last 60 days, posted earlier (1862)
+## Found in the last 60 days, posted earlier (1863)
 
-Showing the 400 best of 1862; the rest are in the full history file.
+Showing the 400 best of 1863; the rest are in the full history file.
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
