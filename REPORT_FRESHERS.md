@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**389 jobs**, newest first. Updated Tue Nov 24, 11:31 PM CST from 12,580 company job boards and other sources.
+**390 jobs**, newest first. Updated Wed Nov 25, 12:19 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-176 repeat listings (same company and title in another place or on another source) are merged into one row.
+175 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (57)](#tuesday-nov-24-57) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (58)](#wednesday-nov-18-58)
+Coverage check: of 4,577 matching jobs that job sites and feeds listed this week, 973 (21%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (58)](#wednesday-nov-18-58)
 
 ## Wednesday, Nov 25 (2)
 
@@ -15,10 +17,12 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (57)](#tuesday-nov-24-57) 
 | date only | [Junior Data Science Analyst (11-month fixed-term contract)](https://astrazeneca.eightfold.ai/careers/job/563877691907447) | Astrazeneca | , , (onsite) | 75 | entry-level title; location unclear |
 | 3:45 AM | [Post Peer Support Specialist (Buncombe County, NC)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=11234a05-dd20-44aa-9b1f-ca7bb9f6eba3&ccId=19000101_000001&jobId=9201256990292_80&lang=en_US) | 11234A05 Dd20 44Aa 9B1F Ca7Bb… | Remote, NC; Asheville, NC | 75 | 1+ yrs exp |
 
-## Tuesday, Nov 24 (57)
+## Tuesday, Nov 24 (59)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:55 PM | [AI Success Consultant](https://job-boards.greenhouse.io/podium81/jobs/8416283) | Podium | Lehi, Utah | 75 | 1+ yrs exp; repost |
+| 11:22 PM | [Customer Support Associate](https://jobs.ashbyhq.com/padlet/924617b0-fdcc-4bf0-bbb5-a728ad1a78f6) | Padlet | San Francisco | 75 | entry-level title |
 | 8:30 PM | [Junior Engineer (Transportation) (5201) - Citywide (Eligible List ID …](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080086-junior-engineer-transportation-5201-citywide-eligible-list-id-c00500-) | City and County of San Franci… | San Francisco, CA, United States | 85 | entry-level title; 1+ yrs exp |
 | 8:24 PM | [Technical Support Analyst - Tier I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=53abd855-df3a-4397-96fc-7f8c12a795de&ccId=19000101_000001&jobId=9201465910191_56&lang=en_US) | 53Abd855 Df3A 4397 96Fc 7F8C1… | Nashville, TN | 75 | entry-level title |
 | 8:15 PM | [Software Engineer, Backend](https://jobs.ashbyhq.com/base-power/23bc4e94-d63c-4933-926b-edcb69138410) | Base Power | Austin, TX (onsite) | 80 | 1+ yrs exp |
@@ -77,7 +81,7 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (57)](#tuesday-nov-24-57) 
 | 12:17 AM | [Network Administrator I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=eed6fc90-b0ca-441b-8558-06030f35fc20&ccId=19000101_000003&jobId=9201052796263_7&lang=en_US) | Eed6Fc90 B0Ca 441B 8558 06030… | Las Vegas, NV | 85 | entry-level title; 1+ yrs exp |
 | 12:08 AM | [Application Engineer Analytical Instrumentation](https://jobs.smartrecruiters.com/AntonPaar1/744000163386189-application-engineer-analytical-instrumentation) | Anton Paar | Ashland, , United States | 85 | 1+ yrs exp; entry level (from the text); repost |
 
-## Monday, Nov 23 (65)
+## Monday, Nov 23 (64)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -139,7 +143,6 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (57)](#tuesday-nov-24-57) 
 | 9:23 AM (seen) | [DevSecOps Engineer-1](https://ats.rippling.com/huntridge-labs-careers/jobs/dde2a76e-4e59-4880-9fae-f3d8301bac09) | Huntridge Labs Careers | Remote (United States) (remote) | 57 | entry-level title |
 | 9:22 AM | [QA Optimization Engineer](https://jobs.smartrecruiters.com/AveryDennison/744000163250703-qa-optimization-engineer) | Avery Dennison | Painesville, OH, United States | 75 | 1+ yrs exp |
 | 8:23 AM (seen) | [Junior Java Developer ID101083](https://agileengine.zohorecruit.com/jobs/Careers/248544000265829193/Junior-Java-Developer-ID101083) | Agileengine | Tallahassee, United States +22 more | 60 | entry-level title |
-| 8:22 AM | [AI Success Consultant](https://job-boards.greenhouse.io/podium81/jobs/8411298) | Podium | Lehi, Utah | 75 | 1+ yrs exp |
 | 7:49 AM | [Customer Support Analyst](https://job-boards.greenhouse.io/onetrust/jobs/8305898) | Onetrust | Atlanta, Georgia | 75 | 1+ yrs exp |
 | 7:14 AM | [Data Technician I - Park Design](https://ehxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34469) | Ehxr Fa Us2 Oraclecloud Com | Atlanta, GA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:25 AM | [Seasonal Fulfillment and Receiving Support Associate, Crossgates](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827445) | Macy's | Albany, NY, United States | 75 | entry-level title |
@@ -437,7 +440,7 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (57)](#tuesday-nov-24-57) 
 | 1:00 AM | [Scanning Services - Digital Support Specialist I](https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3608) | Anico | League City, TX, US | 85 | entry-level title; 1+ yrs exp |
 | 12:49 AM | [Online Technical Support Engineer -Campus Hire Program](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040677) | Agilent Technologies | US-DE-Wilmington | 75 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1511)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1510)
 
 <details><summary>Show</summary>
 
@@ -449,6 +452,7 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (57)](#tuesday-nov-24-57) 
 | date only | [Data Scientist, Discovery & Recommendations](https://www.amazon.jobs/en/jobs/10609853/data-scientist-discovery-recommendations) | Twitch Interactive, Inc. | San Francisco, California, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [QA QC Engineer](https://jord.bamboohr.com/careers/435) | Jord | Rasa, Selangor | 40 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
 | date only | [Software Development Engineer , Amazon Leo e-commerce](https://www.amazon.jobs/en/jobs/10613731/software-development-engineer-amazon-leo-e-commerce) | Amazon Kuiper Commercial Serv… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
+| 12:00 AM | [Software Engineering - Delphi Software Engineer 132-2008](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6649) | Ccok | Tulsa, OK, US | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 11:01 PM | [Network Engineer - Contract To Hire](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=958067c6-26d0-41f1-8d53-18b1e4c9dc0c&ccId=19000101_000003&jobId=9201122222057_181&lang=en_US) | 958067C6 26D0 41F1 8D53 18B1E… | Salt Lake City, UT | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:34 PM | [In-Person Finance Data Analyst](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f2408a65-8bd0-4f67-91cb-c632234eae59&ccId=19000101_000001&jobId=9201122440051_24&lang=en_US) | F2408A65 8Bd0 4F67 91Cb C6322… | Commerce, CA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:13 PM | [Veteran Peer Support Specialist - SSG Fox Suicide Prevention Grant Pr…](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4637175) | Catholic Charities of Kansas … | Kansas City, MO, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -842,6 +846,5 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (57)](#tuesday-nov-24-57) 
 | date only | [Inpatient facility coder](https://apply.workable.com/weekday-1/j/6C53960D19/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Product Developer](https://citi.eightfold.ai/careers/job/859038456753) | Citi | Irving, TX, US (hybrid) | 50 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | date only | [Software Development Engineer, Playback Insights & Optimization](https://www.amazon.jobs/en/jobs/10611290/software-development-engineer-playback-insights-optimization) | Audible, Inc. | Newark, New Jersey, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [Compliance Data Specialist - Greenhouse Gas](https://jobs.paccar.com/job/Denton-Compliance-Data-Specialist-Greenhouse-Gas-TX-76205-7864/1459759733/) | Paccar | Denton, TX, United States | 80 | rules: 2+ yrs exp; E-Verify; asks for 2+ years of experience |
 
 </details>
