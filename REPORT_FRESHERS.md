@@ -1,17 +1,26 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**400 jobs**, newest first. Updated Tue Nov 24, 8:31 PM CST from 12,580 company job boards and other sources.
+**400 jobs**, newest first. Updated Tue Nov 24, 9:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-179 repeat listings (same company and title in another place or on another source) are merged into one row.
+180 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (56)](#tuesday-nov-24-56) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (14)](#tuesday-nov-17-14)
+Coverage check: of 4,481 matching jobs that job sites and feeds listed this week, 954 (21%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Tuesday, Nov 24 (56)
+Jump to: [Wed 25 (1)](#wednesday-nov-25-1) · [Tue 24 (57)](#tuesday-nov-24-57) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (12)](#tuesday-nov-17-12)
+
+## Wednesday, Nov 25 (1)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Junior Data Science Analyst (11-month fixed-term contract)](https://astrazeneca.eightfold.ai/careers/job/563877691907447) | Astrazeneca | , , (onsite) | 75 | entry-level title; location unclear |
+
+## Tuesday, Nov 24 (57)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| 8:30 PM | [Junior Engineer (Transportation) (5201) - Citywide (Eligible List ID …](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017080086-junior-engineer-transportation-5201-citywide-eligible-list-id-c00500-) | City and County of San Franci… | San Francisco, CA, United States | 85 | entry-level title; 1+ yrs exp |
 | 8:24 PM | [Technical Support Analyst - Tier I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=53abd855-df3a-4397-96fc-7f8c12a795de&ccId=19000101_000001&jobId=9201465910191_56&lang=en_US) | 53Abd855 Df3A 4397 96Fc 7F8C1… | Nashville, TN | 75 | entry-level title |
 | 8:15 PM | [Software Engineer, Backend](https://jobs.ashbyhq.com/base-power/23bc4e94-d63c-4933-926b-edcb69138410) | Base Power | Austin, TX (onsite) | 80 | 1+ yrs exp |
 | 5:32 PM | [Gallery Housekeeping Support Associate](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/42284) | RH | Oak Brook, IL, United States | 75 | entry-level title |
@@ -429,7 +438,7 @@ Jump to: [Tue 24 (56)](#tuesday-nov-24-56) · [Mon 23 (65)](#monday-nov-23-65) �
 | 1:00 AM | [Scanning Services - Digital Support Specialist I](https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3608) | Anico | League City, TX, US | 85 | entry-level title; 1+ yrs exp |
 | 12:49 AM | [Online Technical Support Engineer -Campus Hire Program](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040677) | Agilent Technologies | US-DE-Wilmington | 75 | entry-level title |
 
-## Tuesday, Nov 17 (14)
+## Tuesday, Nov 17 (12)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -445,10 +454,8 @@ Jump to: [Tue 24 (56)](#tuesday-nov-24-56) · [Mon 23 (65)](#monday-nov-23-65) �
 | 11:00 PM | [IT Cybersecurity Specialist](https://dcacareers-dentalcarealliance.icims.com/jobs/37445/it-cybersecurity-specialist/job) | Dental Care Alliance | United States | 85 | 1+ yrs exp; entry level (from the text) |
 | 9:48 PM (seen) | [IT Engineer (Denver)](https://app.dover.com/apply/fieldguide/f9f76425-e4ff-4560-afcc-e276cdfe4958) | Fieldguide | Denver, CO (hybrid) | 65 | 1+ yrs exp |
 | 9:48 PM (seen) | [Backend Engineer](https://app.dover.com/apply/gayafi/d3045511-8f4f-45fd-bafb-f41fd8f6a44b) | Gayafi | International (remote) | 52 | 1+ yrs exp; location unclear |
-| 9:17 PM | [Ground Systems Operations Level 1 Technician](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5c86c854-26b4-4d63-afc8-7cd746a5b057&ccId=19000101_000001&jobId=9205259592874_51&lang=en_US) | 5C86C854 26B4 4D63 Afc8 7Cd74… | Wallops Island, VA | 73 | entry-level title; E-Verify |
-| 9:07 PM | [Product Support Specialist](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d503d7b6-8c3e-4c6d-9d17-38c54012881f&ccId=19000101_000001&jobId=9201811675552_8&lang=en_US) | D503D7B6 8C3E 4C6D 9D17 38C54… | Eau Claire, WI | 68 | 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1517)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1515)
 
 <details><summary>Show</summary>
 
@@ -462,6 +469,7 @@ Jump to: [Tue 24 (56)](#tuesday-nov-24-56) · [Mon 23 (65)](#monday-nov-23-65) �
 | 10:34 PM | [In-Person Finance Data Analyst](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f2408a65-8bd0-4f67-91cb-c632234eae59&ccId=19000101_000001&jobId=9201122440051_24&lang=en_US) | F2408A65 8Bd0 4F67 91Cb C6322… | Commerce, CA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:13 PM | [Veteran Peer Support Specialist - SSG Fox Suicide Prevention Grant Pr…](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4637175) | Catholic Charities of Kansas … | Kansas City, MO, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 8:41 PM | [HR Systems Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d3ba533c-bfa5-46fb-8cc5-bcf45fd137da&ccId=19000101_000001&jobId=9201253812948_150&lang=en_US) | D3Ba533C Bfa5 46Fb 8Cc5 Bcf45… | Richmond, VA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 8:39 PM | [Robotics Software Engineer - Core/System](https://jobs.ashbyhq.com/cosmic-robotics/f3fd6f58-3ded-4858-b881-c16f0b14ab60) | Cosmic Robotics | Cosmic HQ (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 8:10 PM | [Programmer](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017079816-programmer) | Harvard University | Boston, MA, United States | 75 | rules: 2+ yrs exp; no future H-1B sponsorship; likely H-1B cap-exempt… |
 | 8:01 PM | [Power Platform Developer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a514fa2f-d9f3-4d40-99fb-28d956698e2f&ccId=19000101_000001&jobId=9201318666888_49&lang=en_US) | A514Fa2F D9F3 4D40 99Fb 28D95… | Washington, DC | 45 | rules: 5+ yrs exp; needs: Secret clearance |
 | 7:56 PM | [ERP Support & Training Specialist](https://jobs.smartrecruiters.com/KPFFConsultingEngineers/3743990017079676-erp-support-training-specialist) | KPFFConsultingEngineers | Seattle, WA, United States | 55 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; staffing/con… |
@@ -853,6 +861,5 @@ Jump to: [Tue 24 (56)](#tuesday-nov-24-56) · [Mon 23 (65)](#monday-nov-23-65) �
 | date only | [Compliance Data Specialist - Greenhouse Gas](https://jobs.paccar.com/job/Denton-Compliance-Data-Specialist-Greenhouse-Gas-TX-76205-7864/1459759733/) | Paccar | Denton, TX, United States | 80 | rules: 2+ yrs exp; E-Verify; asks for 2+ years of experience |
 | date only | [NOC Engineer – Network](https://arctiq.bamboohr.com/careers/372) | Arctiq | Duluth, Georgia, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [NOC Analyst – Network (L1)](https://arctiq.bamboohr.com/careers/373) | Arctiq | Duluth, Georgia, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Quality Assurance Specialist](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=19057&lang=en) | AAR | United States-Florida-Jacksonville | 60 | rules: 3+ yrs exp; needs: must be a U.S. Person |
 
 </details>
