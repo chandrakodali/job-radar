@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**383 jobs**, newest first. Updated Wed Nov 25, 5:31 AM CST from 12,580 company job boards and other sources.
+**383 jobs**, newest first. Updated Wed Nov 25, 5:46 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 174 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,672 matching jobs that job sites and feeds listed this week, 992 (21%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (8)](#wednesday-nov-25-8) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (46)](#wednesday-nov-18-46)
 
@@ -431,7 +433,7 @@ Jump to: [Wed 25 (8)](#wednesday-nov-25-8) · [Tue 24 (58)](#tuesday-nov-24-58) 
 | 8:04 AM | [AI Researcher / Engineer](https://jobs.ashbyhq.com/Clera/2f66e84d-aee6-4cbf-b041-2ef10678c6e0) | Clera | remote | 70 | 0-2 yrs exp; location unclear |
 | 7:56 AM | [SAP Developer - IT Customer & Metering Systems](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FirstEnergyCareers/job/105962) | FirstEnergy | Akron, OH, United States | 70 | entry level (from the text); no future H-1B sponsorship |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1499)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1498)
 
 <details><summary>Show</summary>
 
@@ -445,6 +447,9 @@ Jump to: [Wed 25 (8)](#wednesday-nov-25-8) · [Tue 24 (58)](#tuesday-nov-24-58) 
 | date only | [Software Development Engineer , Amazon Leo e-commerce](https://www.amazon.jobs/en/jobs/10613731/software-development-engineer-amazon-leo-e-commerce) | Amazon Kuiper Commercial Serv… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Software Development Engineer, Amazon Leo - Payload Dataplane Team](https://www.amazon.jobs/en/jobs/10610421/software-development-engineer-amazon-leo-payload-dataplane-team) | Amazon Kuiper Manufacturing E… | San Diego, California, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Devops Engineer](https://appliedmaterials.eightfold.ai/careers/job/790319452197) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 5:35 AM | [Service Desk Agent](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017084366-service-desk-agent) | Cityofnewyork | Brooklyn, NY, United States | 65 | rules: 3+ yrs exp; E-Verify; asks for 3+ years of experience |
+| 5:35 AM | [FIRE DEPARTMENT BHS EMBEDDED SUPPORT ENGINEER](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017084221-fire-department-bhs-embedded-support-engineer) | Cityofnewyork | New York City, NY, United States | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 5:30 AM | [Data Analytics Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017084136-data-analytics-specialist) | Cityofnewyork | New York City, NY, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 5:09 AM | [Associate IAM Engineer](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017083666-associate-iam-engineer) | Cityofnewyork | Brooklyn, NY, United States | 75 | rules: entry-level title; 4+ yrs exp; E-Verify; asks for 4+ years of … |
 | 12:00 AM | [Software Engineering - Delphi Software Engineer 132-2008](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6649) | Ccok | Tulsa, OK, US | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 11:01 PM | [Network Engineer - Contract To Hire](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=958067c6-26d0-41f1-8d53-18b1e4c9dc0c&ccId=19000101_000003&jobId=9201122222057_181&lang=en_US) | 958067C6 26D0 41F1 8D53 18B1E… | Salt Lake City, UT | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -834,8 +839,5 @@ Jump to: [Wed 25 (8)](#wednesday-nov-25-8) · [Tue 24 (58)](#tuesday-nov-24-58) 
 | date only | [Machine Learning Engineer, AI Expert](https://apply.workable.com/weekday-1/j/E2B2070BCC/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Open Source Software Engineer, AI Expert](https://apply.workable.com/weekday-1/j/38C7EFC553/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Developer, AI Expert](https://apply.workable.com/weekday-1/j/4F92D4C87E/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [Cloud Engineer, AI Expert](https://apply.workable.com/weekday-1/j/951BAFA3EA/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [ML Kernel Engineer, AI Expert](https://apply.workable.com/weekday-1/j/A6B70A6295/) | Weekday AI | United States (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Security Engineer, AI Expert](https://apply.workable.com/weekday-1/j/4A316B35A2/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
