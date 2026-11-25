@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**202 jobs**, newest first. Updated Wed Nov 25, 12:49 AM CST from 12,580 company job boards and other sources.
+**202 jobs**, newest first. Updated Wed Nov 25, 1:07 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 183 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,106 matching jobs that job sites and feeds listed this week, 1,803 (58%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (1)](#wednesday-nov-25-1) · [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (42)](#wednesday-nov-18-42)
 
@@ -250,7 +252,7 @@ Jump to: [Wed 25 (1)](#wednesday-nov-25-1) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 2:04 AM | [Cloud and DevOps Engineer](https://jobs.lever.co/jobgether/3e2d051e-4adc-416b-8f8f-aeb7da090178) | Jobgether | US (remote) | 72 | 2+ yrs exp |
 | 2:00 AM | [DevOps](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/905) | Eci | Dallas, TX, US; Chicago, IL, US; New Yo… | 65 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (380)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (379)
 
 <details><summary>Show</summary>
 
@@ -606,7 +608,6 @@ Jump to: [Wed 25 (1)](#wednesday-nov-25-1) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 8:39 AM | [DevSecOps Engineer - AWS - Northeast region](https://boards.greenhouse.io/guidepointsecurity/jobs/6264977004?gh_jid=6264977004) | GuidePoint Security | Remote (remote) | 37 | rules: 6+ yrs exp; no future H-1B sponsorship; asks for 6+ years of e… |
 | 3:00 AM | [Senior Strategic Sourcing Specialist - Rail Infrastructure](https://jobs.dayforcehcm.com/en-US/omnitrax/CANDIDATEPORTAL/jobs/4991) | Omnitrax | Denver, CO, US | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 2:49 AM | [Senior Infrastructure Engineer (Network Infrastructure)](https://jobs.lever.co/jobgether/820564aa-3a17-42b7-8029-20cf32b6302a) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 12:58 AM | [Data Security Platform Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73382) | Ford Motor Company | United States (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:58 AM | [Data Security Platform Engineer](https://ford.eightfold.ai/careers/job/563568454106691) | Ford | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Senior System Administrator](https://careers-dminc.icims.com/jobs/29072/senior-system-administrator/job) | DMI | Washington, DC, United States | 30 | rules: 8+ yrs exp; senior title; needs: Must be a U.S. Citizen |
 | 11:00 PM | [Human Resources Enterprise Systems Administrator - HR Systems](https://careers-dartmouth-hitchcock.icims.com/jobs/43203/human-resources-enterprise-systems-administrator---hr-systems/job) | Dartmouth Health | Lebanon, NH, United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
