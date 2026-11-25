@@ -1,19 +1,23 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**194 jobs**, newest first. Updated Wed Nov 25, 8:49 AM CST from 12,580 company job boards and other sources.
+**196 jobs**, newest first. Updated Wed Nov 25, 9:07 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 183 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (33)](#wednesday-nov-18-33)
+Coverage check: of 3,275 matching jobs that job sites and feeds listed this week, 1,922 (58%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Wednesday, Nov 25 (2)
+Jump to: [Wed 25 (4)](#wednesday-nov-25-4) · [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (33)](#wednesday-nov-18-33)
+
+## Wednesday, Nov 25 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Senior Systems Development Engineer, AWS Resilience](https://www.amazon.jobs/en/jobs/10613624/senior-systems-development-engineer-aws-resilience) | Amazon.com Services LLC | Seattle, Washington, USA | 60 | 4+ yrs exp; senior title |
 | date only | [Devops Engineer](https://appliedmaterials.eightfold.ai/careers/job/790319452197) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 65 | 3+ yrs exp |
+| date only | [Cloud Operations Engineer](https://hp.eightfold.ai/careers/job/44669757) | Hp | Cambridge, England, GB; Spring, TX, US (onsite) | 65 |  |
+| 8:49 AM | [Virtualization Engineer](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5197459007) | ALTEN Technology | Cambridge, Massachusetts, United States | 50 |  |
 
 ## Tuesday, Nov 24 (35)
 
@@ -242,7 +246,7 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | date only | [DevOps Engineer](https://careers.capgemini.com/job/Atlanta%2C-GA-DevOps-Engineer-GA-30301/1458630333/) | Capgemini | Atlanta, GA, United States | 53 |  |
 | 10:17 AM | [Senior Network Engineer - Enterprise Connectivity](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24215) | Montenson | MN, United States | 35 | senior title, years not stated; no future H-1B sponsorship |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (371)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (372)
 
 <details><summary>Show</summary>
 
@@ -250,10 +254,13 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 |---|---|---|---|---:|---|
 | date only | [Senior Forward Deployed Engineer, Sr Forward Deployment Engineering](https://www.amazon.jobs/en/jobs/10609077/senior-forward-deployed-engineer-sr-forward-deployment-engineering) | Amazon Web Services, Inc. | New York, New York, USA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Application Security Engineer, US ADC Security](https://www.amazon.jobs/en/jobs/10613623/application-security-engineer-us-adc-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
+| 9:06 AM | [Security Platform Engineer (NYC BASED)](https://jobs.smartrecruiters.com/Equinox/744000163709109-security-platform-engineer-nyc-based-) | Equinox | New York, NY, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 8:53 AM | [Window System Administrator (EMM/Knox Admin)](https://jobs.smartrecruiters.com/SyncreonConsulting/744000163706629-window-system-administrator-emm-knox-admin-) | Syncreon Consulting | Plano, TX, United States | 40 | rules: 3+ yrs exp; staffing/consulting firm: verify it's real; adjace… |
 | 8:13 AM | [Cloud Platform Engineer – Kubernetes / EKS & DevOps](https://jobs.ashbyhq.com/megazone/0be79b0c-ac1d-41e4-8277-8788c7cec6ad) | MegazoneCloud | United States- Remote (remote) | 47 | rules: 5+ yrs exp; E-Verify; asks for 5+ years of experience |
 | 12:09 AM | [IT Systems Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bc281c16-d0d7-407b-9fab-c88169d7ae32&ccId=19000101_000001&jobId=9201529875689_1&lang=en_US) | Bc281C16 D0D7 407B 9Fab C8816… | Reno, NV | 50 | rules: adjacent title, little DevOps/cloud work in the text |
 | 11:01 PM | [Network Engineer - Contract To Hire](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=958067c6-26d0-41f1-8d53-18b1e4c9dc0c&ccId=19000101_000003&jobId=9201122222057_181&lang=en_US) | 958067C6 26D0 41F1 8D53 18B1E… | Salt Lake City, UT | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Senior Site Reliability Engineer](https://careers-steampunk.icims.com/jobs/9344/senior-site-reliability-engineer/job) | Steampunk | McLean, VA, United States (remote) | 47 | rules: 8+ yrs exp; senior title; E-Verify; needs: security clearance |
+| 11:00 PM | [Linux Systems Administrator - Aircraft Integration](https://careers-americansystems.icims.com/jobs/6049/linux-systems-administrator---aircraft-integration/job) | AMERICAN SYSTEMS | Orlando, FL, United States (remote) | 47 | rules: needs: secret clearance |
 | 9:47 PM | [Server Production Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f55317dc-e487-4325-9d73-159aa96c20cf&ccId=19000101_000001&jobId=9201098631766_1&lang=en_US) | F55317Dc E487 4325 9D73 159Aa… | City of Industry, CA | 55 | rules: 2+ yrs exp; no future H-1B sponsorship; adjacent title, little… |
 | 9:20 PM | [Business Hosting Specialist/Sr. Cloud Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286051) | Vertiv | Westerville, OH, United States | 45 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
 | 4:13 PM | [Senior Supplier Development & Reliability Engineer](https://jobs.ashbyhq.com/radiant-industries/7b984df8-fae4-4d26-9cbf-fc7951b63b5d) | Radiant | El Segundo, CA (onsite) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
@@ -271,7 +278,6 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 1:31 PM | [Mission Reliability Engineer II](https://boards.greenhouse.io/relativity/jobs/8957606002?gh_jid=8957606002) | Relativity Space | Long Beach, California, United States | 45 | rules: adjacent title, little DevOps/cloud work in the text |
 | 1:19 PM | [Senior Technical Consultant - Enterprise Platform Engineering](https://jobs.lever.co/thinkahead/6b067fb3-2574-4b56-a3d0-136ec35595c2) | AHEAD | United States (remote) | 42 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 1:15 PM | [Senior Site Reliability Engineer](https://jobs.workable.com/view/jwEJxz8ZXir4Nm1BVHT8iX/senior-site-reliability-engineer-in-reston-at-umbra) | Umbra | Reston, Virginia (onsite) | 60 | rules: senior title, years not stated; needs: security clearance |
-| 12:57 PM | [Security Platform Engineer (NYC BASED)](https://jobs.smartrecruiters.com/Equinox/744000163530949-security-platform-engineer-nyc-based-) | Equinox | New York, NY, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:45 PM | [Senior IT Systems Administrator](https://job-boards.greenhouse.io/dragos/jobs/5468281008) | Dragos | United States | 30 | rules: 5+ yrs exp; senior title; needs: Must be a U.S. citizen |
 | 12:41 PM | [Forward Deployment Engineer – Senior - 5G/6G/NTN](https://jobs.keysight.com/jobs/54702?lang=en-us) | Keysight Technologies | San Diego, California | 30 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 12:07 PM (seen) | [Linux Administrator - JobID-0352](https://idtus.pinpointhq.com/en/postings/210b1055-0b74-41bd-94e4-c75a2f6399a8) | Innovative Defense Technologi… | Arlington, VA (onsite) | 20 | rules: 7+ yrs exp; needs: Security Clearance |
@@ -299,7 +305,6 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | date only | [Senior Cloud Software Engineer, Developer Tools](https://nvidia.eightfold.ai/careers/job/893397527481) | Nvidia | Santa Clara, CA, US (onsite) | 38 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 9:58 AM | [DevSecOps Engineer](https://jobs.ashbyhq.com/noda-ai/a660e584-e5df-45aa-bc46-0cf8fc6c0a1e) | Noda Ai | Austin (hybrid) | 50 | rules: 5+ yrs exp; needs: security clearance |
 | 9:53 AM | [Senior Systems Administrator (Active TS with SCI Eligibility Required)](https://careers.akima.com/jobs/29768?lang=en-us) | Akima | MacDill Air Force Base, Florida | 30 | rules: 5+ yrs exp; senior title; needs: TS clearance |
-| 9:45 AM | [Window System Administrator (EMM/Knox Admin)](https://jobs.smartrecruiters.com/SyncreonConsulting/744000163491859-window-system-administrator-emm-knox-admin-) | Syncreon Consulting | Plano, TX, United States | 40 | rules: 3+ yrs exp; staffing/consulting firm: verify it's real; adjace… |
 | 9:32 AM | [Network Engineer III](https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2054) | Tulane University | New Orleans, LA, United States (remote) | 32 | rules: 10+ yrs exp; senior title; likely H-1B cap-exempt (verify); as… |
 | 9:30 AM | [Senior Dev Ops Engineer](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26006347) | Emerson Electric | Round Rock, TX, United States (hybrid) | 45 | rules: 6+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
 | 8:33 AM | [DevOps & Atlassian Engineer](https://jobs.lever.co/agile-defense/bddc710c-bba9-46ea-804b-91718d58f753) | Agile Defense | Remote (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
