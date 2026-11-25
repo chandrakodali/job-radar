@@ -1,14 +1,13 @@
 # Auto Radar: latest matches
 
-Watching **12,622 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
+Watching **12,671 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
 
 Last new match: **Wed Nov 25, 09:49 AM EST**. Score is 0–100 and uses no AI: the full job text is read section by section. "Has" lists the resume's skills the job asks for; "Missing" lists skills the job requires that the resume does not show. The score weighs how much of what the job asks the resume covers, the title, years required (the MS path counts), the industry, word overlap with the resume, freshness and location. Visa sponsorship moves it by 2 points at most. Full history: [data/automotive/matches.csv](data/automotive/matches.csv).
 
-## Posted in the last 24 hours (9)
+## Posted in the last 24 hours (8)
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
-| 76 | [Technical Specialist, Vehicle Systems](https://job-boards.greenhouse.io/scoutmotors/jobs/5306827007) | Scout Motors | Novi, Michigan, United States; Charlott… | Nov 24 | Requirements engineering, Functional safety, ASPICE, Automotive software, CAN/CAN FD, ECU… | – | 4+ yrs |
 | 75 | [Engineer I (100133)](https://careers.honda.com/us/en/job/AHMAHMUS13517EXTERNALENUS) | Honda | 25145 Anza Dr, Santa Clarita, Californi… | Nov 24 | Simulink, MIL testing, SIL testing, MATLAB, C, CAN/CAN FD, ECU software, Embedded softwar… | – | 1+ yrs; entry-level title |
 | 67 | [NASI-Quality Investigation Engineer (Pennsauken, NJ)](https://hcal.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2417) | Subaru | Pennsauken, NJ, United States | Nov 24 | ADAS, CAN/CAN FD, Automotive software, Python, Agile/Scrum/Jira | Powertrain/engine/transmission, Brakes | 3+ yrs; E-Verify |
 | 67 | [Principal Embedded Software Engineer](https://bostonscientific.eightfold.ai/careers/job/563602813934890) | Boston Scientific | Marlboro, MA, US (onsite) | Nov 25 | Requirements engineering, Embedded software, C++, Jenkins/CI, Git, Agile/Scrum/Jira | Device drivers/BSP, Aerospace/industrial safety (DO-178C/IE… | 1+ yrs (MS path); stretch: senior-level title |
@@ -18,9 +17,9 @@ Last new match: **Wed Nov 25, 09:49 AM EST**. Score is 0–100 and uses no AI: t
 | 49 | [Sr Research Scientist, Battery Algorithms, Energy Storage, Project Je…](https://www.amazon.jobs/en/jobs/10613682/sr-research-scientist-battery-algorithms-energy-storage-project-jewel) | Amazon.com Services LLC | Irvine, California, USA | Nov 24 | Requirements-based testing, Controls/algorithms | – | 5+ yrs (MS path) |
 | 48 | [Embedded Linux Engineer (C/C++ & Device Drivers)](https://ats.rippling.com/cintal/jobs/b0852677-39a0-4250-a147-db0ef2c9f0c5) | Cintal | Chillicothe, IL (onsite) | Nov 24 | C, C++ | Device drivers/BSP, Embedded Linux/kernel | description not read |
 
-## Found in the last 60 days, posted earlier (1868)
+## Found in the last 60 days, posted earlier (1869)
 
-Showing the 400 best of 1868; the rest are in the full history file.
+Showing the 400 best of 1869; the rest are in the full history file.
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
@@ -318,6 +317,7 @@ Showing the 400 best of 1868; the rest are in the full history file.
 | 76 | [Controls Engineering](https://jobs.smartrecruiters.com/Wabtec/3743990016923076-controls-engineering) | Wabtec | Erie, PA, United States | Nov 17 | Simulink, Embedded Coder, Model-based design, MATLAB, C++, Jenkins/CI, Controls/algorithm… | – |  |
 | 76 | [Senior Software Engineer, Vehicle Platform Integrations](https://jobs.ashbyhq.com/aurora-operations-inc/ba07e677-4c10-4554-b9b9-343d10827b9a) | Aurora Innovation | Pittsburgh, PA (hybrid) | Nov 17 | Functional safety, CAN/CAN FD, Embedded software, C++, Controls/algorithms | – | 5+ yrs |
 | 76 | [Senior System Software Engineer, Replay and Simulation](https://nvidia.eightfold.ai/careers/job/893398077964) | Nvidia | Santa Clara, CA, US (onsite) | Nov 18 | AUTOSAR Classic, ISO 26262, ASPICE, C, CAN/CAN FD, C++, SWC/RTE design, Python | Automotive Ethernet/SOME-IP, RTOS, Perception/computer visi… | 5+ yrs |
+| 76 | [Technical Specialist, Vehicle Systems](https://job-boards.greenhouse.io/scoutmotors/jobs/5306827007) | Scout Motors | Novi, Michigan, United States; Charlott… | Nov 24 | Requirements engineering, Functional safety, ASPICE, Automotive software, CAN/CAN FD, ECU… | – | 4+ yrs |
 | 75 | [Senior Staff Engineer Embedded Software (f/m/div)](https://infineon.eightfold.ai/careers/job/563808971242157) | Infineon | Ilmenau, Thuringia, DE (onsite) | Jun 16 | ISO 26262, Functional safety, ASPICE, MISRA C, C, CAN/CAN FD, Embedded software, Requirem… | Device drivers/BSP, Vector CANoe/CANalyzer, Motor control, … | 6+ yrs; stretch: senior-level title; open 149 days |
 | 75 | [Engineering Technical Leader - Controls Engineering](https://jobs.smartrecruiters.com/Wabtec/3743990013862086-engineering-technical-leader-controls-engineering) | Wabtec | Erie, PA, United States | Jun 30 | Simulink, Model-based design, MIL testing, SIL testing, MATLAB, Requirements engineering,… | – | 5+ yrs; open 147 days |
 | 75 | [Automotive Infotainment Platform Integration Engineer - OI](https://careers.quest-global.com/global/en/job/QGRQGAGLOBALP120364EXTERNALENGLOBAL) | Quest Global | Czechia | Jul 06 | ASPICE, Requirements engineering, IBM DOORS/DNG, V-model, Automotive software, SWC/RTE de… | – | open 129 days; location unclear |
@@ -365,7 +365,7 @@ Showing the 400 best of 1868; the rest are in the full history file.
 | 74 | [Embedded Software Engineer](http://jobportal.websterandwebster.com/careers/26517-General--On-WW-website/jobs/16740971-Embedded-Software-Engineer/) | Websterandwebster |  | Nov 14 | ISO 26262, Functional safety, C, Embedded software, C++ | Device drivers/BSP, Embedded Linux/kernel, RTOS, Debugging … |  |
 | 74 | [Control Systems Engineer, Advanced Controls and Integration](https://jobs.lever.co/thea.energy/880c534f-1816-452f-a2e1-a9df1138202d) | Thea Energy | Kearny, NJ (onsite) | Jun 21 | Simulink, MATLAB, Controls/algorithms, Simulation and modeling, Python, Git | – | 2+ yrs; open 149 days |
 | 74 | [Field Application Engineer (PTV)](https://apply.workable.com/vectornorthamerica/j/A1221A51A6/) | Vector North America | Novi, Michigan, United States | Jul 08 | Simulink, AUTOSAR Classic, MIL testing, SIL testing, MATLAB, CAN/CAN FD, ECU software, Em… | HIL testing, NI tools (LabVIEW/TestStand/VeriStand), Vector… | 3+ yrs; open 139 days |
-| 74 | [Robotics Engineer - Embedded Software](https://jobs.ashbyhq.com/TerraFirma-Inc/a952c18c-560f-447f-9733-e11e2e0b3fac) | TerraFirma Inc | Robot Ranch (Austin, TX) (onsite) | Jul 14 | Functional safety, Embedded software, Jenkins/CI | Microcontrollers | 2+ yrs; open 133 days |
+| 74 | [Robotics Engineer - Embedded Software](https://jobs.ashbyhq.com/TerraFirma-Inc/a952c18c-560f-447f-9733-e11e2e0b3fac) | TerraFirma Inc | Robot Ranch (Austin, TX) (onsite) | Jul 14 | Functional safety, Embedded software, Jenkins/CI | Microcontrollers | 2+ yrs; open 134 days |
 | 74 | [Senior Embedded Controls Engineer – Scanning Systems](https://jobs.lever.co/aeva/288aa800-56ed-4538-9f2b-ec7d50dbf932) | Aeva | Mountain View, CA (onsite) | Aug 11 | Embedded software, MATLAB, C, Controls/algorithms, Vehicle dynamics/chassis, Python | Motor control, Microcontrollers | 3+ yrs; open 106 days |
 | 74 | [Embedded Software Engineer (Firmware) - DoorDash Air](https://job-boards.greenhouse.io/doordashusa/jobs/8122134) | DoorDash | San Francisco, CA | Aug 11 | Functional safety, C, CAN/CAN FD, Embedded software, C++, Vehicle dynamics/chassis | Device drivers/BSP, Microcontrollers | 4+ yrs; open 105 days |
 | 74 | [Senior HIL Validation & Integration Engineer - Automotive](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5211880007) | ALTEN Technology USA | Auburn Hills, Michigan, United States | Aug 13 | Simulink, AUTOSAR Classic, ISO 26262, Functional safety, ADAS, MATLAB, CAN/CAN FD, ECU so… | HIL testing, dSPACE, SOTIF (ISO 21448), Cybersecurity (ISO … | open 103 days |
@@ -423,7 +423,6 @@ Showing the 400 best of 1868; the rest are in the full history file.
 | 73 | [System Safety Engineer, Mining/Industrial](https://jobs.ashbyhq.com/applied/12fc5adf-1827-45d4-83d9-3856064dd25e) | Applied Intuition | Sunnyvale (onsite) | Aug 14 | ISO 26262, Steer-by-wire, Functional safety, ADAS, V-model, Controls/algorithms, Requirem… | – | 3+ yrs; open 102 days; contract |
 | 73 | [Embedded Software Engineer - New Grad (2027)](https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44) | Applied Intuition | Sunnyvale (onsite) | Aug 14 | Functional safety, Embedded software, C, CAN/CAN FD, C++ | – | 1+ yrs; entry-level title; open 102 days; contract |
 | 73 | [Embedded Firmware Engineer](https://uscareeropenings-alliancelaundry.icims.com/jobs/12822/embedded-firmware-engineer/job) | Alliance Laundry Systems | Ripon, WI, United States | Aug 18 | C, Embedded software, Requirements-based testing, Controls/algorithms, Git | Motor control | 3+ yrs; open 99 days |
-| 73 | [V&V Engineer, Electrical](https://jobs.lever.co/waabi/c4309c3b-91a3-4415-b53b-2993937c88ce) | Waabi | Pittsburgh, PA (onsite) | Aug 18 | MIL testing, Functional safety, ISO 26262, CAN/CAN FD, Automotive software, Requirements … | HIL testing | 5+ yrs; stretch: senior-level title; open 98 days |
 
 ## Hidden from alerts: clearance/citizenship or rejected by the AI check (1072 in the last 60 days)
 
