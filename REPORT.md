@@ -1,14 +1,16 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**182 jobs**, newest first. Updated Wed Nov 25, 5:19 PM CST from 12,580 company job boards and other sources.
+**183 jobs**, newest first. Updated Wed Nov 25, 5:37 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 181 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (16)](#wednesday-nov-25-16) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (7)](#wednesday-nov-18-7)
+Coverage check: of 3,327 matching jobs that job sites and feeds listed this week, 1,956 (58%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Wednesday, Nov 25 (16)
+Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (7)](#wednesday-nov-18-7)
+
+## Wednesday, Nov 25 (17)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -19,6 +21,7 @@ Jump to: [Wed 25 (16)](#wednesday-nov-25-16) · [Tue 24 (34)](#tuesday-nov-24-34
 | 3:43 PM | [Cloud Engineer, Service Delivery](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=08f195f0-beb6-4255-a019-dbc8691ab8e8&ccId=9200570872864_2&jobId=9201113340193_53&lang=en_US) | 08F195F0 Beb6 4255 A019 Dbc86… | USA - Virtual, US | 70 | 2+ yrs exp; no future H-1B sponsorship |
 | 3:09 PM | [Senior Core Infrastructure Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/348884) | Oracle | Seattle, WA, United States; United Stat… | 50 | senior title, years not stated |
 | 2:58 PM | [ASKUSR0147035 Site Reliability Engineer - NERSC Operations](https://jobs.workable.com/view/vsUCBHWaEV8GtkU5u5zA2e/askusr0147035-site-reliability-engineer---nersc-operations-in-berkeley-at-essnova-solutions%2C-inc.) | Essnova Solutions, Inc. | Berkeley, California (onsite) | 70 |  |
+| 12:32 PM | [Senior Systems Administrator](https://weworkremotely.com/remote-jobs/metamask-senior-systems-administrator) | MetaMask | Remote, US (Anywhere in the World) (remote) | 37 | senior title, years not stated |
 | 11:14 AM | [Infrastructure Engineer](https://jobs.ashbyhq.com/triumph-arcade/1f08553b-3e9b-4c31-afa0-960edf7e5d4c) | Triumph | San Francisco HQ (onsite) | 70 |  |
 | date only | [Senior Systems Development Engineer, AWS Resilience](https://www.amazon.jobs/en/jobs/10613624/senior-systems-development-engineer-aws-resilience) | Amazon.com Services LLC | Seattle, Washington, USA | 60 | 4+ yrs exp; senior title |
 | date only | [Devops Engineer](https://appliedmaterials.eightfold.ai/careers/job/790319452197) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 65 | 3+ yrs exp |
@@ -230,7 +233,7 @@ Jump to: [Wed 25 (16)](#wednesday-nov-25-16) · [Tue 24 (34)](#tuesday-nov-24-34
 | 6:42 PM | [IT Infrastructure Engineer](https://jobs.ashbyhq.com/Sierra/742020b7-5a2a-495d-8ac9-d74d31dc91c6) | Sierra | San Francisco, CA (onsite) | 70 |  |
 | 5:46 PM | [Systems Reliability Engineer](https://job-boards.greenhouse.io/thetradedesk/jobs/5301212007) | The Trade Desk | Boulder | 65 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (363)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (364)
 
 <details><summary>Show</summary>
 
@@ -259,6 +262,7 @@ Jump to: [Wed 25 (16)](#wednesday-nov-25-16) · [Tue 24 (34)](#tuesday-nov-24-34
 | date only | [Production Engineer Job](https://jobs.arkema.com/job/Courtland-%28Franklin%29-Production-Engineer-Job-VA/1460818933/) | Arkema Global | Courtland (Franklin), VA, United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Senior Storage Platform Engineer](https://nvidia.eightfold.ai/careers/job/893397640607) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Systems Software Engineer - Infrastructure](https://nvidia.eightfold.ai/careers/job/893396868355) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
+| date only | [DSX Infrastructure Integration Engineer](https://nvidia.eightfold.ai/careers/job/893398515396) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 12+ yrs exp; asks for 12+ years of experience |
 | 9:44 AM | [IT Infrastructure Engineer II - 1122](https://jobs.eu.lever.co/quantinuum/d99daf7d-0045-4124-8998-a979e4d2c79d) | Quantinuum | US Broomfield, CO (onsite) | 60 | rules: 3+ yrs exp; needs: must be a U.S. Person |
 | 9:33 AM | [Vehicle Systems Development Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71784) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 9:33 AM | [Vehicle Systems Development Engineer](https://ford.eightfold.ai/careers/job/563568453935737) | Ford | Dearborn, MI, US (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
