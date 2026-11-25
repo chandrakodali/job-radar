@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**204 jobs**, newest first. Updated Tue Nov 24, 9:19 PM CST from 12,580 company job boards and other sources.
+**204 jobs**, newest first. Updated Tue Nov 24, 9:37 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 183 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,040 matching jobs that job sites and feeds listed this week, 1,753 (57%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (2)](#tuesday-nov-17-2)
 
@@ -252,7 +254,7 @@ Jump to: [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) �
 | 11:00 PM | [Senior Structural Engineer (Infrastructure Risk) (Ph.D. and P.E. or S…](https://careers-exponent.icims.com/jobs/2682/senior-structural-engineer-%28infrastructure-risk%29-%28ph.d.-and-p.e.-or-s.e.%29/job) | Exponent | Philadelphia, PA, United States | 55 | senior title, years not stated |
 | 10:37 PM (seen) | [ETQ QMS System Administrator](https://ats.rippling.com/vulcanforms/jobs/7fdb3ecd-a0c7-434c-a90f-a03eec3e0fe1) | Vulcanforms | Devens, MA (onsite) | 40 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (379)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (380)
 
 <details><summary>Show</summary>
 
@@ -262,6 +264,7 @@ Jump to: [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) �
 | 12:09 AM | [IT Systems Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bc281c16-d0d7-407b-9fab-c88169d7ae32&ccId=19000101_000001&jobId=9201529875689_1&lang=en_US) | Bc281C16 D0D7 407B 9Fab C8816… | Reno, NV | 50 | rules: adjacent title, little DevOps/cloud work in the text |
 | 11:01 PM | [Network Engineer - Contract To Hire](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=958067c6-26d0-41f1-8d53-18b1e4c9dc0c&ccId=19000101_000003&jobId=9201122222057_181&lang=en_US) | 958067C6 26D0 41F1 8D53 18B1E… | Salt Lake City, UT | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 9:47 PM | [Server Production Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f55317dc-e487-4325-9d73-159aa96c20cf&ccId=19000101_000001&jobId=9201098631766_1&lang=en_US) | F55317Dc E487 4325 9D73 159Aa… | City of Industry, CA | 55 | rules: 2+ yrs exp; no future H-1B sponsorship; adjacent title, little… |
+| 9:20 PM | [Business Hosting Specialist/Sr. Cloud Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286051) | Vertiv | Westerville, OH, United States | 45 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
 | 4:13 PM | [Senior Supplier Development & Reliability Engineer](https://jobs.ashbyhq.com/radiant-industries/7b984df8-fae4-4d26-9cbf-fc7951b63b5d) | Radiant | El Segundo, CA (onsite) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 4:01 PM | [Telemetry Engineer II](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690240) | ACQCENTRIC INC | Huntsville, AL, United States | 40 | rules: 3+ yrs exp; needs: security clearance |
 | 3:50 PM | [Oracle Cloud Infrastructure Engineer](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5494046008) | Lightfeatheriollc | Washington, DC | 45 | rules: 5+ yrs exp; needs: Secret clearance |
