@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**399 jobs**, newest first. Updated Tue Nov 24, 10:31 PM CST from 12,580 company job boards and other sources.
+**389 jobs**, newest first. Updated Tue Nov 24, 11:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-180 repeat listings (same company and title in another place or on another source) are merged into one row.
+176 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (57)](#tuesday-nov-24-57) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (10)](#tuesday-nov-17-10)
+Coverage check: of 4,481 matching jobs that job sites and feeds listed this week, 954 (21%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (57)](#tuesday-nov-24-57) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (58)](#wednesday-nov-18-58)
 
 ## Wednesday, Nov 25 (2)
 
@@ -437,21 +439,6 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (57)](#tuesday-nov-24-57) 
 | 1:00 AM | [Scanning Services - Digital Support Specialist I](https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3608) | Anico | League City, TX, US | 85 | entry-level title; 1+ yrs exp |
 | 12:49 AM | [Online Technical Support Engineer -Campus Hire Program](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040677) | Agilent Technologies | US-DE-Wilmington | 75 | entry-level title |
 
-## Tuesday, Nov 17 (10)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 11:00 PM | [Apparatus & Automation Technician](https://careers-cobbemc.icims.com/jobs/1430/apparatus-%26-automation-technician/job) | Cobb EMC | Marietta, GA, United States | 75 | 1+ yrs exp |
-| 11:00 PM | [Associate Solutions Analyst - PTS](https://external-canoncareers.icims.com/jobs/36349/associate-solutions-analyst---pts/job) | Canon | Boca Raton, FL, United States | 75 | entry-level title |
-| 11:00 PM | [Software System Engineer I](https://careers-firstambank.icims.com/jobs/3506/software-system-engineer-i/job) | First American Bank | Elk Grove Village, IL, United States | 85 | entry-level title; 1+ yrs exp |
-| 11:00 PM | [Business Analyst/Tech Writer](https://jobs.dayforcehcm.com/en-US/kgs/candidateportal/jobs/16375) | Kgs | Washington, DC, US | 85 | 0-2 yrs exp; entry level (from the text) |
-| 11:00 PM | [Associate Perioperative Support Technician - Operating Room, Nights](https://careers-dartmouth-hitchcock.icims.com/jobs/43212/associate-perioperative-support-technician---operating-room%2c-nights/job) | Dartmouth Health | Lebanon, NH, United States | 75 | entry-level title |
-| 11:00 PM | [Digital Solutions Specialist](https://careers-ringpower.icims.com/jobs/16374/digital-solutions-specialist/job) | Ring Power | Gainesville, FL, United States; Palm Ba… | 75 | 1+ yrs exp |
-| 11:00 PM | [IT Support Technician](https://careers-hga.icims.com/jobs/3555/it-support-technician/job) | Hammel Green And Abrahamson (… | Boston, MA, United States | 75 | 1+ yrs exp |
-| 11:00 PM | [Coding Validation Coder I - E&M](https://careers-cotiviti.icims.com/jobs/21100/coding-validation-coder-i---e%26m/job) | Cotiviti | Remote, United States (remote) | 72 | 1+ yrs exp |
-| 11:00 PM | [Data Engineer I](https://careers-mercuryinsurance.icims.com/jobs/6826/data-engineer-i/job) | Mercury Insurance | Remote, United States | 85 | entry-level title; 1+ yrs exp |
-| 11:00 PM | [IT Cybersecurity Specialist](https://dcacareers-dentalcarealliance.icims.com/jobs/37445/it-cybersecurity-specialist/job) | Dental Care Alliance | United States | 85 | 1+ yrs exp; entry level (from the text) |
-
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1511)
 
 <details><summary>Show</summary>
@@ -463,6 +450,7 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (57)](#tuesday-nov-24-57) 
 | date only | [Software Development Engineer, US ADC Security](https://www.amazon.jobs/en/jobs/10613598/software-development-engineer-us-adc-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
 | date only | [Data Scientist, Discovery & Recommendations](https://www.amazon.jobs/en/jobs/10609853/data-scientist-discovery-recommendations) | Twitch Interactive, Inc. | San Francisco, California, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [QA QC Engineer](https://jord.bamboohr.com/careers/435) | Jord | Rasa, Selangor | 40 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
+| date only | [Software Development Engineer , Amazon Leo e-commerce](https://www.amazon.jobs/en/jobs/10613731/software-development-engineer-amazon-leo-e-commerce) | Amazon Kuiper Commercial Serv… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
 | 11:01 PM | [Network Engineer - Contract To Hire](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=958067c6-26d0-41f1-8d53-18b1e4c9dc0c&ccId=19000101_000003&jobId=9201122222057_181&lang=en_US) | 958067C6 26D0 41F1 8D53 18B1E… | Salt Lake City, UT | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:34 PM | [In-Person Finance Data Analyst](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f2408a65-8bd0-4f67-91cb-c632234eae59&ccId=19000101_000001&jobId=9201122440051_24&lang=en_US) | F2408A65 8Bd0 4F67 91Cb C6322… | Commerce, CA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:13 PM | [Veteran Peer Support Specialist - SSG Fox Suicide Prevention Grant Pr…](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4637175) | Catholic Charities of Kansas … | Kansas City, MO, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -857,6 +845,5 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (57)](#tuesday-nov-24-57) 
 | date only | [Product Developer](https://citi.eightfold.ai/careers/job/859038456753) | Citi | Irving, TX, US (hybrid) | 50 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | date only | [Software Development Engineer, Playback Insights & Optimization](https://www.amazon.jobs/en/jobs/10611290/software-development-engineer-playback-insights-optimization) | Audible, Inc. | Newark, New Jersey, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Compliance Data Specialist - Greenhouse Gas](https://jobs.paccar.com/job/Denton-Compliance-Data-Specialist-Greenhouse-Gas-TX-76205-7864/1459759733/) | Paccar | Denton, TX, United States | 80 | rules: 2+ yrs exp; E-Verify; asks for 2+ years of experience |
-| date only | [NOC Engineer – Network](https://arctiq.bamboohr.com/careers/372) | Arctiq | Duluth, Georgia, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 
 </details>
