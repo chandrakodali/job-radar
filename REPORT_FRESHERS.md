@@ -1,22 +1,25 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**387 jobs**, newest first. Updated Wed Nov 25, 2:31 AM CST from 12,580 company job boards and other sources.
+**387 jobs**, newest first. Updated Wed Nov 25, 3:19 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-174 repeat listings (same company and title in another place or on another source) are merged into one row.
+175 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (3)](#wednesday-nov-25-3) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (54)](#wednesday-nov-18-54)
+Coverage check: of 4,672 matching jobs that job sites and feeds listed this week, 992 (21%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Wednesday, Nov 25 (3)
+Jump to: [Wed 25 (4)](#wednesday-nov-25-4) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (54)](#wednesday-nov-18-54)
+
+## Wednesday, Nov 25 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Junior Data Science Analyst (11-month fixed-term contract)](https://astrazeneca.eightfold.ai/careers/job/563877691907447) | Astrazeneca | , , (onsite) | 75 | entry-level title; location unclear |
 | date only | [Advanced Level 1 IT Technician (MSP)](https://digacore.bamboohr.com/careers/225) | Digacore | Lakewood, New Jersey | 85 | entry-level title; 1+ yrs exp |
 | 3:45 AM | [Post Peer Support Specialist (Buncombe County, NC)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=11234a05-dd20-44aa-9b1f-ca7bb9f6eba3&ccId=19000101_000001&jobId=9201256990292_80&lang=en_US) | 11234A05 Dd20 44Aa 9B1F Ca7Bb… | Remote, NC; Asheville, NC | 75 | 1+ yrs exp |
+| 2:47 AM | [Bilingual Spanish Customer Support Specialist](https://jobs.smartrecruiters.com/Experian/744000163628584-bilingual-spanish-customer-support-specialist) | Experian | Van Buren, AR, United States +1 more (remote) | 72 | 1+ yrs exp; repost |
 
-## Tuesday, Nov 24 (59)
+## Tuesday, Nov 24 (58)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -72,7 +75,6 @@ Jump to: [Wed 25 (3)](#wednesday-nov-25-3) · [Tue 24 (59)](#tuesday-nov-24-59) 
 | 8:18 AM | [Systems Operator Administrator](https://cbha.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9115) | Cbha Fa Us2 Oraclecloud Com | Irving, TX, United States (onsite) | 80 | entry level (from the text) |
 | 8:16 AM | [Applied AI Engineer](https://jobs.smartrecruiters.com/Eurofins/744000163468691-applied-ai-engineer) | Eurofins | Stafford, TX, United States | 70 | 1+ yrs exp; no future H-1B sponsorship |
 | 8:15 AM | [Client Onboarding Implementation Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210811658) | JP Morgan Chase | Plano, TX, United States | 85 | entry-level title; 1+ yrs exp |
-| 7:49 AM | [Bilingual Spanish Customer Support Specialist](https://jobs.smartrecruiters.com/Experian/744000163462669-bilingual-spanish-customer-support-specialist) | Experian | Van Buren, AR, United States +1 more (remote) | 72 | 1+ yrs exp |
 | 7:14 AM | [Software Engineer I-Java/Springboot/SQL](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021) | JP Morgan Chase | Newark, DE, United States | 75 | entry-level title |
 | 4:00 AM | [Data Analyst, Pricing](https://fa-emkq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1110) | Ascot | NJ, United States; CHICAGO, IL, United … | 75 | 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Short Pump Town…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827654) | Macy's | Richmond, VA, United States | 75 | entry-level title |
@@ -435,7 +437,7 @@ Jump to: [Wed 25 (3)](#wednesday-nov-25-3) · [Tue 24 (59)](#tuesday-nov-24-59) 
 | 3:26 AM | [Administrative Support Team Associate, Broward Mall - Flex](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826174) | Macy's | Plantation, FL, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Southland - MI](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826161) | Macy's | Taylor, MI, United States | 75 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1504)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1502)
 
 <details><summary>Show</summary>
 
@@ -448,6 +450,7 @@ Jump to: [Wed 25 (3)](#wednesday-nov-25-3) · [Tue 24 (59)](#tuesday-nov-24-59) 
 | date only | [QA QC Engineer](https://jord.bamboohr.com/careers/435) | Jord | Rasa, Selangor | 40 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
 | date only | [Software Development Engineer , Amazon Leo e-commerce](https://www.amazon.jobs/en/jobs/10613731/software-development-engineer-amazon-leo-e-commerce) | Amazon Kuiper Commercial Serv… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Software Development Engineer, Amazon Leo - Payload Dataplane Team](https://www.amazon.jobs/en/jobs/10610421/software-development-engineer-amazon-leo-payload-dataplane-team) | Amazon Kuiper Manufacturing E… | San Diego, California, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
+| date only | [Devops Engineer](https://appliedmaterials.eightfold.ai/careers/job/790319452197) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 12:00 AM | [Software Engineering - Delphi Software Engineer 132-2008](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6649) | Ccok | Tulsa, OK, US | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 11:01 PM | [Network Engineer - Contract To Hire](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=958067c6-26d0-41f1-8d53-18b1e4c9dc0c&ccId=19000101_000003&jobId=9201122222057_181&lang=en_US) | 958067C6 26D0 41F1 8D53 18B1E… | Salt Lake City, UT | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:34 PM | [In-Person Finance Data Analyst](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f2408a65-8bd0-4f67-91cb-c632234eae59&ccId=19000101_000001&jobId=9201122440051_24&lang=en_US) | F2408A65 8Bd0 4F67 91Cb C6322… | Commerce, CA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -840,6 +843,5 @@ Jump to: [Wed 25 (3)](#wednesday-nov-25-3) · [Tue 24 (59)](#tuesday-nov-24-59) 
 | date only | [ML Kernel Engineer, AI Expert](https://apply.workable.com/weekday-1/j/A6B70A6295/) | Weekday AI | United States (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Security Engineer, AI Expert](https://apply.workable.com/weekday-1/j/4A316B35A2/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Inpatient facility coder](https://apply.workable.com/weekday-1/j/6C53960D19/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [Product Developer](https://citi.eightfold.ai/careers/job/859038456753) | Citi | Irving, TX, US (hybrid) | 50 | rules: 6+ yrs exp; asks for 6+ years of experience |
 
 </details>
