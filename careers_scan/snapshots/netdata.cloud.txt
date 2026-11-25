@@ -109,7 +109,6 @@ Learn & Detect
 Correlate
 Understand & Act
 Unsupervised ML
-Anomaly Advisor
 Netdata AI
 Anomaly Detection
 Root Cause Analysis
@@ -396,6 +395,9 @@ Evidence-based answers
 > Ask Nedi now
 Engineering Insights & Product Updates
 Deep dives into monitoring, infrastructure, and what's new in Netdata.
+Nov 2026
+Root Cause Analysis: 50 Production …
+Most incident work in infrastructure and …
 Oct 2026
 Netdata Dashboard Features: What Is …
 Netdata was born open source, and its core …
@@ -403,9 +405,6 @@ Distributed Tracing In Netdata: …
 Back in 2020, when we laid out where Netdata …
 Who Built This Dashboard, and Are They …
 You have lived it, no? When production is …
-Sep 2026
-Infrastructure Knowledge For AI Root …
-Netdata AI sees everything your …
 Explore all articles
 Never Fight Fires Alone
 Docs, community, and expert help—pick your path to resolution.
@@ -572,7 +571,7 @@ Small Team, Massive Impact
 75 people monitoring millions of servers. Every hire changes the company. Own outcomes, not tasks.
 No Toxic Culture
 Engineering-led company. No sales quotas. No office politics. Adults solving hard problems with mutual respect.
-Trusted by Engineers at Leading Organizations
+Trusted by engineering and operations teams worldwide
 What You’ll Build and Why It Matters
 Distributed Edge Architecture That Scales Infinitely
 Design systems that process billions of metrics per second across millions of nodes. Build custom time-series databases with industry-leading compression. Solve real-time processing challenges at massive scale without centralized bottlenecks.
@@ -655,16 +654,38 @@ Respectful Culture
 No toxic talent. No office politics. Engineering-led decisions. Assume positive intent. Adults treating adults with respect.
 Meaningful Impact
 Code used by millions. Enterprise customers worldwide. Solve real infrastructure problems. See your work matter immediately.
+November 20, 2026
+Root Cause Analysis: 50 Production Incidents, Zero Playbooks
+We ran 100 real infrastructure root cause analyses with 10 open-weight AI models, one pass each, nobody steering. What we found, and how to try it.
 October 13, 2026
 Netdata Dashboard Features: What Is Free, Open Source and Paid
 The Netdata Agent is open source and the dashboard is free to use with it. What each plan includes, per product, and why teams choose a paid plan.
 October 5, 2026
 Distributed Tracing In Netdata: OpenTelemetry Traces
 Netdata now ingests OpenTelemetry traces over OTLP on the same Agent that collects your metrics and logs. Spans are stored and indexed on your own infrastructure and explored in the new Traces tab in Netdata Cloud.
-October 3, 2026
-Who Built This Dashboard, and Are They Still Here?
-Your server monitoring dashboard shouldn't be a DIY project. Netdata charts every metric automatically — no query languages, no dashboards to build, ever.
 Frequently Asked Questions
+Is Netdata really remote-first?
+Yes. We’re a distributed team across multiple timezones. Remote isn’t a pandemic policy - it’s our architectural DNA. We communicate asynchronously, work autonomously, and respect timezones. No mandatory office hours, no ‘return to office’ risk.
+What’s the work-life balance like?
+We care about results, not time. No micromanagement, no presenteeism. We implement deep work days and respect personal boundaries. That said, we’re a 75-person team competing with giants - there will be challenging periods. We’re honest about the pace and committed to sustainability.
+How do you handle career growth in a small company?
+We focus on skills over titles. At Netdata, you’ll ship more, learn more, and own more than at larger companies. Growth comes through accelerated responsibility, community leadership (conference speaking, open source authority), and equity upside. We offer depth, impact, and ownership.
+How stable is Netdata financially?
+We’re venture-funded with enterprise customers worldwide, including Fortune 500 companies. We have 1.5 million daily downloads and growing adoption. Startups carry risk - if you need absolute stability, join a public company. If you want impact, join us.
+What’s your approach to diversity and inclusion?
+We’re committed to building a diverse team. Our commitments include diverse interview panels, skills-based hiring, and zero tolerance for discrimination. Every hire changes our demographics, and we take that responsibility seriously.
+Do you hire open source contributors?
+Absolutely. We’ve hired several contributors to work full-time. If you’ve contributed to Netdata or other observability projects, mention it in your application. We value community engagement and public work. Your GitHub profile speaks louder than any resume.
+What technologies will I work with?
+Languages: C (performance-critical), Go (collectors), Rust (OTel plugin), TypeScript (UI). Infrastructure: Kubernetes, Docker, distributed systems, edge computing. ML/AI: k-means clustering, large language models, Model Context Protocol. Database: Custom time-series database with Gorilla compression. Kernel: eBPF, system calls, Linux capabilities, Windows ETW.
+What’s the interview process?
+Transparent timeline with clear expectations. Initial screening call, technical assessment (take-home or live coding), team interviews, and final conversation with leadership. We provide feedback even for rejections. We value your time and aim for a 2-3 week process. Skills-based evaluation, not years of experience.
+Can I work from anywhere?
+Yes, with some practical constraints. We hire globally but need reasonable timezone overlap for collaboration. We handle equipment shipping, co-working reimbursement, and remote work stipends. Check specific role requirements for timezone preferences.
+What makes Netdata different from competitors?
+We’re engineering-led (no sales pressure), remote-first (not hybrid), open source (80K+ stars), and small (75 people = more ownership). We solve hard technical problems (distributed systems, ML at edge, real-time processing) with sustainable pace. We explicitly reject toxic talent and build culture around respect, transparency, and results.
+How do I apply?
+Apply by emailing us at [email protected] . Submit your resume, GitHub profile (if applicable), and cover letter explaining why Netdata. We review all applications and respond within 2 weeks.
 ↑ ↓ navigate
 ↵ open
 esc close

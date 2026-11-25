@@ -1,5 +1,5 @@
-Real time state for multiplayer apps.
-Each actor handles one request at a time and has its own SQLite database. The open-source alternative to Cloudflare Durable Objects, with no lock-in and observability built in.
+Host agents and the state they work on, durably and at scale.
+Actor principle based hosting. Open source alternative to Cloudflare’s Durable Objects.
 bunx terse-cli@latest install
 Claude Code Opens in your terminal
 Codex Opens in the Codex app
@@ -79,8 +79,8 @@ Anatomy of a Durable Actor
 Every tiny server bundles its own compute, SQLite database and WebSocket server, and streams every write to GCS Rapid storage so nothing is lost.
 Observability built in.
 Every actor gets a live dashboard: request rate, queue wait and run time, each RPC call, and every WebSocket connection over its lifetime.
-Here is a sick counter demo.
-This is the most durable, multiplayer safe counter you'll ever see.
-Open the live counter ↗
+Here is a sick demo.
+Up to 64 AI painters, each its own actor, claim tickets from one Kanban actor and paint one canvas live.
+Open the live demo
 Try Durable Actors now.
-Get started → Try the counter demo
+Get started → Try the live demo

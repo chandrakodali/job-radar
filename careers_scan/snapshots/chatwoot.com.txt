@@ -25,7 +25,7 @@ Keep every conversation in one place
 Website, email, social and messaging, all threaded into one queue.
 WhatsApp templates and calls, Instagram story replies and mentions, Messenger replies without page access. Explore WhatsApp for Business
 Connect Outlook, Gmail or any IMAP/SMTP inbox. Replies stay threaded, with the full history in view. See the email channel
-Set the colour, logo and copy so the widget feels like part of your product. Customize the live chat widget
+Set the colour, logo and copy so the widget feels like part of your product. See the live chat software
 Send messages, create channels and listen to webhooks to fit Chatwoot into your stack. Read the API reference
 Match your brand
 MACROS

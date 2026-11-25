@@ -93,10 +93,10 @@ The problem: you'll work on what makes all other AI work trustworthy. The impact
 Research
 Open Source Research Engineer
 San Francisco $120K–$180K + equity Research
-Confident AI is building the infrastructure that makes AI trustworthy. We maintain the open-source projects AI engineers use every day: DeepEval for LLM evaluation, DeepTeam for red teaming, and confident-trace for OpenTelemetry-native tracing.
-We're hiring an Open Source Research Engineer to keep those projects at the frontier and make sure developers know it. Half the role is reading new research and shipping it — a novel attack method in DeepTeam, a new metric in DeepEval, a new integration in confident-trace. The other half is showing that work to the world through technical content, video tutorials, and social media. You'll work in person in San Francisco directly with the founders.
+Confident AI is building the infrastructure that makes AI trustworthy. We maintain the open-source projects AI engineers use every day: DeepEval for LLM evaluation, and confident-trace for OpenTelemetry-native tracing.
+We're hiring an Open Source Research Engineer to keep those projects at the frontier and make sure developers know it. Half the role is reading new research and shipping it — a novel attack method or a new metric in DeepEval, a new integration in confident-trace. The other half is showing that work to the world through technical content, video tutorials, and social media. You'll work in person in San Francisco directly with the founders.
 Track the research frontier in LLM evaluation, red teaming, and agent observability. Read new papers, benchmarks, and attack techniques as they come out and decide what's worth implementing.
-Implement what you find. Ship novel attack methods and vulnerability classes in DeepTeam, new metrics and evaluation techniques in DeepEval, and new framework and provider integrations across DeepEval and confident-trace.
+Implement what you find. Ship novel attack methods and vulnerability classes as well as new metrics and evaluation techniques in DeepEval, and new framework and provider integrations across DeepEval and confident-trace.
 Build integrations with the agent frameworks, model providers, and tools AI engineers actually use, so our projects work out of the box wherever they're building.
 Create technical content around the work: blog posts, docs, and written deep dives that explain the research, the implementation, and how to use it in practice.
 Produce video tutorials and walkthroughs — from short feature demos to longer end-to-end guides — that help developers get value from the projects fast.
@@ -110,7 +110,7 @@ Comfortable on camera. You'll be producing video tutorials and demos regularly, 
 Comfortable running a social media presence for a technical audience — you know what makes developers stop scrolling and what makes them roll their eyes.
 Fluent with AI coding tools like Claude Code and Cursor as part of your daily workflow.
 High-agency and comfortable with ambiguity. We're seed-stage — you identify what matters, make a plan, and ship. Exceptional early-career candidates are welcome.
-Keep DeepEval, DeepTeam, and confident-trace at the frontier of what the research says is possible.
+Keep DeepEval and confident-trace at the frontier of what the research says is possible.
 Be the reason developers discover what's new in our projects and understand how to use it.
 Grow the open-source community around our projects.
 Real reach: your implementations and content ship to a large, active developer base the day they land, not into a void.

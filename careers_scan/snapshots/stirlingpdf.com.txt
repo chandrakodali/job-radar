@@ -1,22 +1,63 @@
-A better way to work. From flexible hours to meaningful ownership, we create an environment where you can grow.
-Remote-first
-Work from anywhere. The whole team is distributed.
-Equipment
-A new laptop of your choice.
-Health cover
-Full health, dental and vision coverage.
-Time off
-4 weeks paid vacation plus a generous holiday calendar.
-Ownership
-Competitive compensation including base and equity.
-Global reach
-Ship software to millions of users all over the world.
-Join our team
-We work in small teams, value autonomy, and care deeply about craft and fundamentals.
-All
-Engineering
-Product
-Operations
-Full Stack Developer
-Remote
-Full-Time
+About us
+We build the PDF editor you can run on your own servers
+See open roles
+Our story
+Stirling PDF is an open core PDF editor. It started as a 24-hour experiment over one weekend: one engineer, four features, posted to Reddit. Today it has more than 44 million downloads and runs inside 55,000 companies. While we serve everyone, we focus on people and organizations in regulated industries.
+44M+
+Downloads
+55,000
+Companies running Stirling PDF
+2024
+The year the company was founded
+Timeline
+How we got here
+Rev. 01
+The start
+A weekend experiment
+Built in 24 hours by one engineer. Four features, posted to Reddit.
+Rev. 02
+Stirling PDF founded
+The company behind the editor was founded.
+Rev. 03
+Funding
+$5M raised
+Backed by Elefund, Open Core Ventures and ACOF.
+Rev. 04
+Now
+Scaling globally
+Currently the most popular PDF app on GitHub and the #1 Java project all-time.
+Values
+How we work
+The core stays open
+The tools that have always been free stay free and open source. Revenue from teams and enterprises pays to keep improving them.
+Privacy comes first
+We focus on people and organizations in regulated industries. User security and data privacy shape what we build.
+Built with the community
+Stirling PDF began as a weekend project shared on Reddit. We still work in the open on GitHub and look to hire people who already contribute.
+Own it end to end
+We are a small, fully remote team. Each person owns their work from development through to QA.
+Follow along
+Keep up as we build
+Read the blog
+GitHub Read the code, report issues and follow each release.
+Discord Ask questions and talk with the team and community.
+X Product news and release notes as they ship.
+LinkedIn Company news and open roles.
+Product Release Sep 25, 2025
+Introducing Stirling V2
+A lot has changed since Anthony launched our first product on GitHub two years ago.
+Executive Hire Mar 1, 2025
+On joining Stirling PDF as CEO
+When I met Anthony Stirling, I knew right away that I wanted to work with him.
+Product Release Jan 13, 2025
+PDF Redaction is now open source
+We're pleased to share that Stirling PDF’s Redaction Tool is officially open source as of version 0.17.0!
+Strategy Sep 16, 2024
+What’s Next for Stirling PDF: Going Open Core
+Stirling PDF has come a long way since our first release 18 months ago.
+Career
+Current Job Openings
+Full Stack Developer Remote / Full-Time Engineering
+Ready to edit your first PDF?
+Free for individuals. Use it in your browser, install it on Windows, macOS or Linux, or self-host it with Docker.
+Start for free View pricing

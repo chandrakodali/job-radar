@@ -1,11 +1,83 @@
-At Time T.
-Applied intelligence for what comes next.
-Bringing
-Asimov's
-Psychohistory
-Psychohistory is Issac Asimov's science for predicting
-large-scale human behavior through mathematics
-to life
-Step 1: Build the Prime Radiant
-Step 2: Apply it to financial markets
-Step 3: manage the world's assets
+Skip to hiring
+Attimet — At Time T.
+The past is certain. The future is priced.
+Explore open roles
+Hiring
+Work at Attimet.
+Attimet is a quantitative investment firm developing machine
+learning models and trading systems for financial markets.
+Our work connects research, engineering, and live trading. Help
+develop the models, build the systems, or run the firm behind
+them.
+AI Researcher
+Member of Technical Staff
+San Francisco · On site
+Develop machine learning models for financial markets. Turn
+research ideas into carefully tested models, and work with
+engineers to bring successful results into live trading.
+The work
+Explore model architectures, data representations, and
+training methods.
+Design experiments that measure predictive performance
+and generalization.
+Carry promising ideas through implementation,
+evaluation, and deployment.
+What you bring
+Experience in deep learning research, in any domain.
+Strong Python skills and experience with a framework
+such as PyTorch or JAX.
+Sound experimental judgment and clear communication.
+Prior finance experience is not required.
+Apply for this role : AI Researcher
+[email protected]
+Software Engineer
+Build the software behind our research and trading:
+market-data pipelines, backtesting and evaluation systems,
+model deployment, and live services. Work closely with
+researchers to turn ideas into reliable, high-performance
+systems.
+Build data pipelines and services that connect research
+with live trading.
+Improve the speed, reliability, and observability of our
+Own software from design and implementation through
+deployment and operation.
+Strong software engineering skills and experience
+building production systems.
+Experience with Python and a systems language such as
+Rust or C++.
+Good judgment about data, performance, and reliability,
+and clear communication.
+Apply for this role : Software Engineer
+Senior Operations Analyst
+United States · Flexible location
+Run and improve day-to-day fund operations at Attimet. Work
+closely with our team and external providers to keep trading,
+accounting, and reporting processes accurate and reliable as
+the firm grows. The role is US-based, with flexibility on
+location, including San Francisco or New York.
+Run daily trade, position, and cash reconciliations;
+investigate and resolve breaks.
+Coordinate with fund administrators, brokers, and banks
+on settlements, cash movements, and reporting.
+Review fund accounting, valuations, and investor reports
+with external service providers.
+Support investor onboarding and operational due
+diligence, and coordinate audit, tax, and compliance
+requests.
+Improve operating workflows, controls, documentation,
+and reporting automation with the engineering team.
+Experience in hedge fund operations, fund
+administration, prime brokerage, or a related investment
+operations role.
+Strong understanding of the trade lifecycle,
+reconciliations, cash controls, and fund accounting.
+Ability to investigate discrepancies, manage deadlines,
+and communicate clearly with external providers.
+Comfort working with data and improving repeatable
+processes. Python or SQL experience is useful.
+Apply for this role : Senior Operations Analyst
+To apply, email
+[email protected] with
+the role in the subject, your résumé or profile, and a short note
+about work you are proud of. Links to research, code, or projects
+are welcome; share only work you can make public.

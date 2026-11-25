@@ -19,7 +19,7 @@ GitHub stars
 Across our open-source projects
 Pydantic 29.6k
 Pydantic AI 21.3k
-Monty 8.9k
+Monty 9.0k
 Logfire 4.5k
 The Pydantic Open Source Fund
 For too long the open source ecosystem has been taken for granted. We're proud to be part of the movement to change that. Pydantic is a member

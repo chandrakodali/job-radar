@@ -39,6 +39,9 @@ Peter Tiborcz develops and deploys simulation technology as a Forward Deployed E
 Creative Director
 Fergus Inns
 Fergus Inns leads creative direction, design, and brand at Artificial Societies. He’s currently also part of the founding team of Virgin’s next venture in intercontinental rail travel, and regularly advises and works with several FTSE-100 companies on the future of design.
+Chief of Staff
+Noah Patrick
+Noah Patrick is Chief of Staff at Artificial Societies. He leads GTM strategy and hiring and supports the founders on fundraising and company planning. He previously served as Chief of Staff at a defence startup through its acquisition and advised technology companies on growth as a strategy consultant. He holds a BS in Economics and Organizational Change from Northwestern University.
 Our mission
 Artificial Societies is building foundation models of human societies to inform decisions that shape the world.
 We’re an applied computational social science company that exists to unfold humanness, and help scale humanity’s ability to collaborate and innovate effectively.
@@ -57,8 +60,6 @@ Forward Deployed Engineer London
 Growth Engineer London
 Commercial
 Founding Account Executive London, New York
-Operations
-Founders Associate London
 Where exceptional people make their unique and irreplaceable contributions.
 Get in touch: careers@societies.ai
 Book a demo

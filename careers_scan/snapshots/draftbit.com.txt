@@ -22,54 +22,6 @@ Build games in Draftbit, starting from 39 templates
 Start with this template
 What is Draftbit?
 Draftbit is an app builder that runs in your browser. You describe the app you want, and an AI agent (Claude Code or OpenAI Codex) builds a first version in real code while you watch. From there you can keep asking for changes, make them yourself in a visual editor, and publish to the web, the App Store, and Google Play.
-Mobile apps, web apps, websites, and games
-Most products need more than one of these, so they can all live in one project and share a backend.
-Mobile apps
-Native iOS and Android apps from one codebase. 77 templates
-Web apps
-Dashboards, admin tools, and customer portals. 58 templates
-Websites
-Marketing sites, blogs, and portfolios. 91 templates
-Games
-2D and 3D games that run on phones and the web. 39 templates
-Start from a working app and make it yours
-There are 265 templates to start from, including 77 mobile apps, 58 web apps, 91 websites, and 39 games. Each one is a real project, so once you open it you can change anything by asking the agent or editing it yourself.
-Aspen Travel travel
-BankPick finance
-BigCart ecommerce
-BudgetWise finance
-Circlo social
-Clinicly health
-Browse all templates
-How it works
-Describe it
-Tell the agent what you want in your own words, and a first working version is built while you watch.
-Shape it
-When you want a change you can ask for it, or click any element and adjust it yourself in the visual editor.
-Publish it
-Put it on the web in one click, or send it to the App Store and Google Play.
-What it costs
-It's free to start, and the Free plan doesn't expire. You pay when you want to get value back out, which usually means publishing to the App Store or Google Play, connecting your own domain, or exporting the code. Paid plans start at $15 a month when you bring your own AI, and credits are optional, from $5 a month.
-See pricing
-Free $0 No time limit. Your own AI covers 20 agent runs a week, and you get 5,000 credits once to try it.
-Paid plans From $15 a month With your own AI. No weekly limit, plus app store publishing, your own domain, and code export.
-Questions and answers
-Do I have to buy AI credits?
-No. Most AI app builders make their money by selling you the AI through credits. In Draftbit you can sign in with the Claude or ChatGPT subscription you already pay for, on every plan, so the agent runs on that instead of on credits. We sell credits too, for anyone who'd rather not connect an account, but you don't have to buy them.
-Is Draftbit a drag and drop app builder?
-Yes, when you want it to be. The agent is usually the fastest way to build a whole screen or set up sign-in, but for a small, precise change it's often quicker to do it yourself. So you can click the exact element you want to change in the live preview and adjust its layout, colors, or text, or drag a new component into place. The visual editor reads and writes your app's real code, which means the agent sees every change you make and you see every change it makes.
-Are the mobile apps native?
-Yes. All of the code that Draftbit produces for mobile apps is based on React Native and Expo, so one codebase gives you an iOS app and an Android app built from the phone's native interface components. It isn't a website wrapped in an app shell, which is why your app can use the camera, location, push notifications, and other device features.
-Who is Draftbit for?
-We built it for people who have an idea and don't have a development team: startup founders, business owners who want an app for their customers or their team, and anyone who wants to build something of their own. We're not the right fit for every project. If you're an experienced developer who wants your own local setup, if your app has to be written separately in Swift and Kotlin, or if you need a desktop app, you'll be better off starting somewhere else.
-How does Draftbit compare with other ways to build an app?
-It depends on what you'd use instead. Most AI app builders charge for the AI itself, and in Draftbit you can use the Claude or ChatGPT subscription you already have. Visual builders that keep your app on their platform let you drag and drop, and you can do that in Draftbit too, but the app is ordinary code that belongs to you, so you can export it and keep working on it anywhere. And if you were going to hire an agency or a developer, you can try building it yourself first, for free, and have a working first version in minutes.
-Can someone help if I need it?
-Yes. AI isn't perfect, and sometimes a bug is stubborn or a launch gets messy. When that happens you can talk to Draftbit Experts, the designers and developers on our own team, who can fix the one thing that's in your way or take over the whole build. A real person reads what you send and replies with a real next step.
-See your first version in minutes
-It's free to start, and you can build on the Claude or ChatGPT subscription you already have.
-Start building free
-Not sure Draftbit fits what you're building? Talk to us , and we'll tell you if it doesn't.
 builders
 200k+
 apps created
@@ -111,6 +63,28 @@ Add the backend, the website, and the admin app
 Most apps need sign-in and stored data, so one project can hold the mobile app, its backend, a website, and a web app, all sharing one database.
 Send it to the App Store and Google Play
 You can publish to the web in one click, and send native iOS and Android builds to the stores from the same project. We've submitted apps to the App Store in under an hour, though Apple and Google run their own review after that.
+What it costs
+It's free to start, and the Free plan doesn't expire. You pay when you want to get value back out, which usually means publishing to the App Store or Google Play, connecting your own domain, or exporting the code. Paid plans start at $15 a month when you bring your own AI, and credits are optional, from $5 a month.
+See pricing
+Free $0 No time limit. Your own AI covers 20 agent runs a week, and you get 5,000 credits once to try it.
+Paid plans From $15 a month With your own AI. No weekly limit, plus app store publishing, your own domain, and code export.
+Questions and answers
+Do I have to buy AI credits?
+No. Most AI app builders make their money by selling you the AI through credits. In Draftbit you can sign in with the Claude or ChatGPT subscription you already pay for, on every plan, so the agent runs on that instead of on credits. We sell credits too, for anyone who'd rather not connect an account, but you don't have to buy them.
+Is Draftbit a drag and drop app builder?
+Yes, when you want it to be. The agent is usually the fastest way to build a whole screen or set up sign-in, but for a small, precise change it's often quicker to do it yourself. So you can click the exact element you want to change in the live preview and adjust its layout, colors, or text, or drag a new component into place. The visual editor reads and writes your app's real code, which means the agent sees every change you make and you see every change it makes.
+Are the mobile apps native?
+Yes. All of the code that Draftbit produces for mobile apps is based on React Native and Expo, so one codebase gives you an iOS app and an Android app built from the phone's native interface components. It isn't a website wrapped in an app shell, which is why your app can use the camera, location, push notifications, and other device features.
+Who is Draftbit for?
+We built it for people who have an idea and don't have a development team: startup founders, business owners who want an app for their customers or their team, and anyone who wants to build something of their own. We're not the right fit for every project. If you're an experienced developer who wants your own local setup, if your app has to be written separately in Swift and Kotlin, or if you need a desktop app, you'll be better off starting somewhere else.
+How does Draftbit compare with other ways to build an app?
+It depends on what you'd use instead. Most AI app builders charge for the AI itself, and in Draftbit you can use the Claude or ChatGPT subscription you already have. Visual builders that keep your app on their platform let you drag and drop, and you can do that in Draftbit too, but the app is ordinary code that belongs to you, so you can export it and keep working on it anywhere. And if you were going to hire an agency or a developer, you can try building it yourself first, for free, and have a working first version in minutes.
+Can someone help if I need it?
+Yes. AI isn't perfect, and sometimes a bug is stubborn or a launch gets messy. When that happens you can talk to Draftbit Experts, the designers and developers on our own team, who can fix the one thing that's in your way or take over the whole build. A real person reads what you send and replies with a real next step.
+See your first version in minutes
+It's free to start, and you can build on the Claude or ChatGPT subscription you already have.
+Start building free
+Not sure Draftbit fits what you're building? Talk to us , and we'll tell you if it doesn't.
 Everything your app needs, in one project
 Build on the AI you already pay for
 You can sign in with your Claude or ChatGPT subscription on any plan, so you don't have to buy credits. We sell them too, if you'd rather not connect an account.
@@ -134,21 +108,3 @@ Every app runs in its own cloud sandbox, so there's nothing to install and you c
 People, when AI isn't enough
 Draftbit Experts are our own designers and developers, and they can fix one stubborn bug or take over the whole build.
 Talk to us
-Who Draftbit is for
-Startup founders
-You have an idea and a budget decision to make, and maybe no technical cofounder. You can build the first version yourself, and because it's real code you can export, the work holds up when you hire a developer later.
-Business owners
-You want an app for your customers or your team, like bookings, ordering, or an internal tool. One project can hold the customer app, the admin web app your staff use, and the backend they share.
-Anyone with an idea
-Maybe it's a side project, a game, or a tool just for you. It's free to start, and you can build from any browser, even the one on your phone.
-Do I need to know how to code?
-No. You describe what you want, the agent writes the code, and you can adjust the result in the visual editor without opening a file. Before you launch something that takes payments or stores people's data, it's worth having someone technical review it, and Draftbit Experts can do that if you don't have that person.
-Do I own the code?
-Yes. All of the code you create in Draftbit belongs to you, and we don't use it to train AI models. When you want a copy outside Draftbit, a paid plan lets you download it as a ZIP or push it to your own GitHub repository.
-You don't have to build it alone
-Draftbit Experts are the designers and developers on our own team. They can fix the one thing that's in your way or take over the whole build, and they work in the same project you started, so you can see everything they do. A real person reads what you send and replies with a real next step.
-What is an AI app builder?
-An AI app builder is a tool where you describe the app you want and an AI agent writes the code for it. They differ in what they produce and what you can do with it afterward. In Draftbit, the agents are Claude Code and OpenAI Codex, the result is ordinary React Native, web, and backend code that belongs to you, and you can keep changing it by asking, in a visual editor, or in the code itself.
-You can build mobile apps, web apps, websites, and games this way, along with the backends behind them, and everything for one product lives in one project. More than 200,000 builders have created over 50,000 apps in Draftbit so far.
-What does Draftbit cost?
-It's free to start, and the Free plan doesn't expire. You pay when you want to get value back out, which usually means publishing to the App Store or Google Play, connecting your own domain, or exporting the code. Paid plans start at $15 a month when you bring your own AI, and credits are optional, from $5 a month. Apple and Google charge separately for their developer accounts, so plan for those too.

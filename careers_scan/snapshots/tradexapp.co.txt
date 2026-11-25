@@ -1,0 +1,10 @@
+A Note from Our Founders
+Dear Tradex Community,
+We’ve discontinued Tradex, our prediction market platform. This was a difficult decision. Given the changes to India’s online gaming rules, we decided to wind down the service.
+To everyone who made a prediction, took part in our markets, or believed in what we were building, thank you. You were the reason we showed up every day.
+What Comes Next
+B2B Game Development
+We’re building a free-to-play prediction market game that any developer can integrate into their own game. We’re also bringing our experience building interactive products to studios and publishers around the world.
+AI Avatars and Video Production
+We’re launching a production house focused on creating AI avatars and producing videos.
+We’ll share more as these projects take shape. Thank you for being part of the Tradex story.

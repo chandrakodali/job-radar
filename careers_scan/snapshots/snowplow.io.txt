@@ -48,7 +48,8 @@ Software engineering
 Product
 Data science
 Marketing
-Integrations Customers
+Integrations
+Customers
 Resources
 Build
 Documentation

@@ -19,10 +19,10 @@ Architecture Visibility
 Dependency graphs, modules, components, relationships, resolution chains. We map how your app is wired so when something breaks we know exactly where and why.
 Fix Patterns
 Accurate fixes require understanding Kotlin, Android component lifecycles and best practices. We have 9 years of accumulated patterns.
-Powered by Koin , the #1 dependency injection framework for Android
+Powered by Koin , the #1 dependency injection framework for Kotlin
 40%
-all Android apps
-20M+
+native Android apps
+50M+
 monthly downloads
 130
 countries · #1 USA

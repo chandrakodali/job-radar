@@ -11,8 +11,8 @@ As a Growth Engineer, you'll own the technical surfaces that drive how developer
 Account Executive
 full-time • Remote (USA)
 Join us as an Account Executive, responsible for managing the entire sales lifecycle—from initial outreach to deal close—crafting each step of the customer journey.
-Senior Control Plane Backend Engineer (Golang)
-full-time • Israel
+Principal Software Engineer, Control Plane (Go)
+full-time • Europe / Israel / India
 We are looking for a Senior Software Engineer to help evolve Dragonfly Cloud as the world's leading managed in-memory store.
 Technical Solutions Engineer
 full-time • North America

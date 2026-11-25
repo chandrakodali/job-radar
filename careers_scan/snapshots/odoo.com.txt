@@ -12,9 +12,9 @@ Philippines 7
 Hong Kong 14
 Germany 9
 France 5
+Spain 7
 Brazil 7
 United States 22
-Spain 7
 Indonesia 15
 Luxembourg 3
 Mexico 8
@@ -49,9 +49,9 @@ Philippines
 Hong Kong
 Germany
 France
+Spain
 Brazil
 United States
-Spain
 Indonesia
 Luxembourg
 Mexico
@@ -104,9 +104,9 @@ Build and maintain relationships with multiple customers! We’ll train you on O
 Partner Account Executive, French
 Sales / Partnership Recruitment
 Develop, grow, and maintain our network of implementation partners in North America!
-Customer Success Manager, Direct
 Customer Success Manager, Indirect
 Sales / Indirect Customer Success
+Partner Account Executive, Dutch
 Job Events
 Discover and discuss the open positions at Odoo.
 Next events

@@ -75,7 +75,6 @@ Ontario, Canada
 Senior Engineering Manager, dbt Engine
 Staff Software Engineer, Metadata
 Oakland, California, United States
-Engineering Manager, Metadata
 Senior Software Development Engineer in Test, Database Automation
 Technical Program Manager, Security
 Senior Software Engineer, Orchestration
@@ -102,11 +101,6 @@ Director, SOX Compliance & Internal Controls
 Sales Compensation Manager Systems and Analytics
 USA - New York
 Revenue Technical Accounting Manager
-HR Department
-Senior Internal Communications Manager
-Remote, Texas, United States, AMER
-Remote, Pennsylvania, United States, AMER
-Remote, Washington, United States, AMER
 IT & Sec Department
 Manager Security Engineer, Operations
 GRC Staff Engineer
@@ -131,7 +125,6 @@ Staff Product Manager, AI & Developer Experience
 Senior Product Manager, Orchestration
 Oakland, California, United States; Remote, Colorado, United States, AMER; USA - Austin (dbt); USA - New York; USA - Philadelphia (dbt)
 Senior Product Manager, Adapters
-Program Manager, Growth, Monetization & Strategic Initiatives
 Staff Product Manager, Databases
 Remote, Any, United States, AMER
 Staff Technical Writer
@@ -150,6 +143,7 @@ Business Development Representative (Austin)
 Account Executive, Mid-Market (Austin)
 Account Manager (Austin)
 Senior Solutions Architect, Enterprise
+Remote, Washington, United States, AMER
 Regional Director
 Remote, Illinois, United States, AMER
 Sales Director
@@ -161,6 +155,7 @@ Sydney, New South Wales, Australia, APAC
 Business Development Representative (Denver)
 UKI Enterprise Sales AE
 Remote, United Kingdom, EMEA
+Remote, Texas, United States, AMER
 Senior Solutions Architect
 Manager, Sales Engineering Specialists
 Principal Partner Solutions Architect (GSI)

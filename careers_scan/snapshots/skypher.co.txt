@@ -11,15 +11,6 @@ Full Time
 We are looking for an energetic data scientist with an entrepreneurial mindset to join our growing team of engineers working on cutting-edge technologies to mix cybersecurity and AI. No cybersecurity experience is required for this internship.
 Founding Designer - Full Time
 We are seeking a talented Founding Designer with a strong background in SaaS to shape our product.
-Cybersecurity Growth Intern
-We are looking for an energetic Growth intern with an entrepreneurial mindset to join our growing team and help help us on customer acquisition, upselling and building a stronger name for Skypher in the Cybersecurity space.
-CEO Right-Hand Internship
-Full Time - June 2024
-We are looking for an energetic intern with an entrepreneurial mindset to join our growing team and help our CEO on different strategic initiatives.
-Machine Learning Engineer
-We are looking for an energetic Machine Learning Engineer with an entrepreneurial mindset to join our growing team.
-Full Stack Developer
-We are looking for an energetic Full Stack developer with an entrepreneurial mindset to join our growing engineering team.
 We’re always hiring, don’t miss your next big opportunity
 If you can’t find your job here, it doesn’t matter, we are always adding new people to our team.
 Our mission
@@ -32,6 +23,7 @@ Co-founder & CEO
 Antoine Le Dû
 Founding Engineer
 Hamza Gharbi
+Machine Learning Engineer
 Martin Van Elslande
 Full-Stack Engineer
 Marco Rubelj

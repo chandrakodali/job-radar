@@ -69,6 +69,7 @@ Lists
 Skills
 Intake
 Integrations
+Fact Intelligence
 M&A
 Litigation
 Banking

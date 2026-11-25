@@ -1,476 +1,550 @@
 # Careers page changes
 
-Checked 2026-11-25 10:32 UTC: 1757 pages, 49 changed, 22 look like new postings.
+Checked 2026-11-25 22:49 UTC: 1757 pages, 61 changed, 22 look like new postings.
 
-## [Auth0](https://www.okta.com/company/careers/)
+## [attimet](https://attimet.com/)
 
-- added: Sudhanshu Vohra
-- added: Senior Software Engineer
-- added: Okta for Good
+- added: Skip to hiring
+- added: Attimet — At Time T.
+- added: The past is certain. The future is priced.
+- added: Explore open roles
+- added: Hiring
+- added: Work at Attimet.
+- added: Attimet is a quantitative investment firm developing machine
+- added: learning models and trading systems for financial markets.
+- added: Our work connects research, engineering, and live trading. Help
+- added: develop the models, build the systems, or run the firm behind
+- added: them.
+- added: AI Researcher
+- added: Member of Technical Staff
+- added: San Francisco · On site
+- added: Develop machine learning models for financial markets. Turn
+- removed: At Time T.
+- removed: Applied intelligence for what comes next.
+- removed: Bringing
+- removed: Asimov's
+- removed: Psychohistory
 
 ## [Cognizant](https://careers.cognizant.com/india-en/)
 
-- added: Director - Global Capability Center
-- added: Corporate
-- added: PE-Accounts Payable
-- added: Senior Director
-- added: Chennai, Tamil Nadu, India / PUNE, Maharashtra, India
-- added: Business Processes
-- removed: Gen AI Engineer in QEA
-- removed: Full Stack Developer - Java 17+, Angular
-- removed: Hyderabad, Telangana, India
-- removed: SAP FSCM ( Senior Consultant)
-- removed: PUNE, Maharashtra, India
+- added: Director - Advisor Relations, APJ
+- added: MUMBAI, Maharashtra, India
+- added: Manager - Network Security
+- added: PUNE, Maharashtra, India
+- added: GeoSpatial Lead Analyst MAP
+- removed: Senior Director
+- removed: Chennai, Tamil Nadu, India / PUNE, Maharashtra, India
+- removed: Business Processes
+- removed: Sr. Product Test Specialist
+- removed: Business Analyst With Colline
 
-## [Coingape](https://coingape.com/careers/)
+## [Dragonfly](https://www.dragonflydb.io/careers)
 
-- added: $58,728
-- added: ▼ 2.69%
-- added: $1,639
-- added: ▼ 3.38%
-- added: $539
-- added: ▼ 2.31%
-- added: $68
-- added: ▼ 5.13%
-- added: $0.9145
-- added: ▼ 3.01%
-- added: ▼ 0.00%
-- added: $0.1425
-- added: ▼ 3.57%
-- added: $0.0543
-- added: ▼ 3.34%
-- removed: $61,378
-- removed: ▲ 0.45%
-- removed: $1,723
-- removed: ▲ 0.76%
-- removed: $556
-
-## [d_model](https://www.dmodel.ai/)
-
-- added: Member of Technical Staff: Generalist - Supercompute
-- added: Member of Technical Staff: Training & RL Research
-- added: abhishek
-- added: albert
-- added: angela
-- added: jaydon
-- added: spencer
-- removed: Interested in career opportunities? Fill out our Hiring Interest Form
-- removed: Member of Technical Staff
-- removed: shaurya's team
-- removed: adi's team
-- removed: Member of Technical Staff, Generalist
-
-## [dbt Labs](https://www.getdbt.com/about-us/careers)
-
-- added: Software Development Engineer in Test II
-- added: Senior Software Development Engineer in Test
-- added: Business Development Rep, Enterprise, German Speaking
-
-## [e2e](https://e2e.com/careers)
-
-- added: infrastructure engineer engineering worldwide
-
-## [Employment Hero](https://employmenthero.com/jobs/)
-
-- added: Landscaper (86-641)
-- added: Yurra Pty Ltd
-- added: Port Hedland, Western Australia 6721
-- added: Tradesperson
-- added: Senior Finance Officer
-- added: Education Centre of Australia (ECA)
-- added: Adelaide, South Australia 5000
-- added: Registered Nurse Urgent Care (Casual)
-- added: Growlife Medical
-- added: Oxley, Queensland 4075
-- added: • A$41 – A$55
-- added: Casual
-- added: Apprentice – Boilermaker/Welding (Engineering Fabrication)
-- added: Hampton Mining and Civil
-- added: Kalgoorlie, Western Australia 6430
-- removed: Events Coordinator
-- removed: Volleyball Australia
-- removed: Canberra, Australian Capital Territory 2600
-- removed: • A$70k – A$80k
-- removed: Manager, Residential AOD Rehabilitation Services
+- added: Principal Software Engineer, Control Plane (Go)
+- added: full-time • Europe / Israel / India
+- removed: Senior Control Plane Backend Engineer (Golang)
+- removed: full-time • Israel
 
 ## [Forem](https://dev.to/t/career)
 
-- added: The Third Cup: You Don't Have to Fly That High
-- added: Nov 25
-- added: 40 reactions
-- added: 14 comments
-- added: 10 min read
-- added: 63 reactions
-- added: 166 comments
-- added: I Moved from Coding to Management. Then I Built a Teleprompter to Find My Next Line.
-- added: Liwen Chen
-- added: # swift
-- added: 4 comments
-- added: How One Blind Reply on X Took Me to DeepMind's London HQ Twice
-- added: Authenticity beats status every time
-- added: Ananya Soni
-- added: for The Startup Café
-- removed: 49 reactions
-- removed: 143 comments
-- removed: The Third Cup: Change Never Sleeps
-- removed: Connecting ancient philosophy to modern IT systems
-- removed: Nov 23
+- added: The mental toll of working in tech
+- added: Community stories on impostor syndrome
+- added: Klaudia Grzondziel
+- added: # mentalhealth
+- added: 50 reactions
+- added: 16 comments
+- added: 7 min read
+- added: Zhuangzi wisdom meets modern work burnout
+- added: 81 reactions
+- added: 38 comments
+- added: 70 reactions
+- added: 179 comments
+- added: Is Tech Hiring Broken? Here's What I'm Seeing | Coffee with Debbie #1
+- added: Debbie O'Brien
+- added: # devrel
+- removed: 40 reactions
+- removed: 14 comments
+- removed: 63 reactions
+- removed: 166 comments
+- removed: I Moved from Coding to Management. Then I Built a Teleprompter to Find My Next Line.
 
-## [Frontier Computing](https://frontier.site/careers/mts-bio/)
+## [Guesty](https://www.guesty.com/careers/)
 
-- added: salary: £90,000 to £250,000+ (approx. US$120,000 to US$334,000+), plus $0.5–10M in equity
-- added: Compensation. £90,000 to £250,000+ (approximately US$120,000 to US$334,000+ at current rates) depending on experience, plus $0.5–10M in equity , with the vesting schedule to be agreed at offer. This r
-- added: Scientific authority. You work with the team to design the problems and you kickstart the projects. Our leadership team is there to keep the funding alive to enable continued manufacturing scale-up.
-- added: Resources. Recurring biology, wet lab and microfluidics infrastructure are funded, with capacity for new equipment within the lab space also. Budget for the scientific and engineering team is already 
-- added: Intellectual reward. When the MTS role was first invented, it was built around a desire for flat research environments at Bell Labs, but even where the work is highly secretive, particularly where it 
-- added: The team at present is a tight knit group with a very flat organisational hierarchy, spread across engineering efforts within lab automation, tissue culture optimisation, and scientific research that 
-- added: We have tried to describe the state of the science accurately. If the risk profile is wrong for you at this point in your career, we would rather know now. We'd still be interested in chatting with yo
-- added: We do not need a teaching statement. We are not interested in citation counts, h-indices or journal impact factors, and will disregard them. We will read relevant papers.
-- added: Informal enquiries before applying are genuinely welcome. Write to [email protected] and we will find a time.
-- removed: salary: £90,000 to £250,000 (approx. US$120,000 to US$334,000), plus $0.5–10M in equity
-- removed: Compensation. £90,000 to £250,000 (approximately US$120,000 to US$334,000 at current rates) depending on experience, plus $0.5–10M in equity , with the vesting schedule to be agreed at offer. The rang
-- removed: Scientific authority. You choose the problems and you stop the projects. The founder's job is to make sure the company survives long enough for your programme to run. Yours is to make sure it is the r
-- removed: Resources. Recurring biology, wet lab and microfluidics infrastructure are funded, and you would shape what we buy rather than inherit someone else's equipment. Budget for the founding scientific team
-- removed: Intellectual reward. When the MTS role was first invented, it was built around a desire for flat research environments at Bell Labs, but even where the work is highly secretive, particularly where it 
+- added: 46 open positions
+- added: Payments Operation Specialist
+- removed: 45 open positions
 
-## [HEO Robotics](https://www.heospace.com/resources/careers)
+## [Kaufland e-commerce](https://kaufland-ecommerce.com/en/careers/)
 
-- added: Marketing Coordinator
-- added: Sydney, NSW / Contract / $450 – $550 / day
-- added: Operations / Marketing
+- added: (Junior) Tech Recruiter | (für ein Jahr befristet)
+- added: JOB OFFERS: 13
+- added: 4 open jobs
+- removed: Product Analyst | Mobile App
+- removed: JOB OFFERS: 14
+- removed: 5 open jobs
 
-## [Jinba](https://jinba.io/careers)
+## [Leeroo](https://leeroo.com/jobs)
 
-- added: Jinba
-- added: ただいまシステムメンテナンスを実施しております
-- added: 現在メンテナンスのため、一時的にサービスを停止しております。ご不便をおかけしますが、再開時期が決まり次第お知らせいたします。お急ぎの場合は担当者または contact@carnot.ai までご連絡ください。
-- added: We are currently under maintenance
-- added: Our services are temporarily unavailable. We will let you know as soon as we have a time for resumption. If your matter is urgent, please contact your account representative or contact@carnot.ai .
-- removed: We are hiring talents across the world.
-- removed: Live somewhere great. Build something greater.
-- removed: Tokyo
-- removed: San Francisco
-- removed: A city where ancient traditions meet cutting-edge innovation. Experience world-class transit, incredible food, and a unique blend of culture while building the future.
-
-## [Kotzilla](https://kotzilla.io/)
-
-- added: The screen and ViewModel behind each ANR
-- added: Crashlytics often stops at nativePollOnce. Kotzilla shows what blocked the main thread, and for how long.
-- added: Fix ANRs →
-- added: See what runs before your first frame
-- added: Your dashboard shows a slow cold start. Kotzilla shows what blocks it on real devices, launch by launch.
-- added: Fix slow startups →
-- added: One SDK for every crash, on every Kotlin target
-- added: Readable iOS crashes from shared Kotlin code, plus Desktop and Web, with the session behind each one.
-- added: Fix crashes →
-- added: MCP Server
-- added: Console
-- added: Koin IDE Plugin
-- added: Kotzilla SDK
-- added: Use cases
-- added: All use cases
-- removed: Unified crash reporting across all KMP targets, including iOS with fully desymbolicated stack traces. One SDK configuration.
-- removed: Performance Monitoring
-- removed: Identify slow startups, ANRs, and frozen screens. Correlate them with blocking ViewModels or heavy component resolutions.
-- removed: Improve Maintainability
-- removed: Visualize Koin dependency graphs while ensuring real-time compile safety for maintainable and runtime-safe code.
-
-## [Lightberry](https://lightberry.com/careers)
-
-- added: Open roles 19
-- added: Director of Manufacturing
-- added: In-house Recruiter
-- removed: Open roles 18
-- removed: Production Manager
-
-## [Linewise](https://linewise.io/careers/)
-
-- added: 10 open roles
-- added: Electrical engineer
-- removed: 9 open roles
+- added: 17:12:51 A-04 · CROSS-SELL Cross-sell ARR added +$96K
+- added: 17:12:49 A-03 · CHURN SENTINEL Churn risk flagged 7 DAYS EARLY
+- added: 17:12:48 A-02 · DATA-QUALITY Records unified 18,304
+- added: 17:12:46 A-01 · BILLING-INTEGRITY Revenue recovered +$412K
+- added: 17:12:44 A-03 · CHURN SENTINEL Churn prevented 14 ACCTS
+- added: 03 · SOVEREIGNTY
+- added: 04 · THE RECORD
+- added: 05 · THE AUDIT
+- removed: 16:27:42 A-04 · CROSS-SELL Cross-sell ARR added +$96K
+- removed: 16:27:40 A-03 · CHURN SENTINEL Churn risk flagged 7 DAYS EARLY
+- removed: 16:27:38 A-02 · DATA-QUALITY Records unified 18,304
+- removed: 16:27:37 A-01 · BILLING-INTEGRITY Revenue recovered +$412K
+- removed: 16:27:35 A-03 · CHURN SENTINEL Churn prevented 14 ACCTS
 
 ## [Luxoft](https://career.luxoft.com/)
 
-- added: Regular Automotive Test Engineer
-- added: Cairo, Egypt
-- added: Automated Testing Python
-- added: Bucharest, Romania
-- removed: Senior Android Developer
-- removed: Warsaw, Poland
-- removed: Android
-- removed: Senior iOS Developer
-- removed: iOS (Objective-C/Swift)
+- added: Trade Support Analyst (with Capital Markets exp.)
+- added: Remote Ukraine, Ukraine
+- added: Technical Support (SL1)
+- added: Remote Serbia, Serbia
+- removed: Regular Automotive Test Engineer
+- removed: Cairo, Egypt
+- removed: Automated Testing Python
+- removed: Bucharest, Romania
 
-## [MadeThis](https://www.madethis.com/careers)
+## [Muzz](https://muzz.com/us/en/careers/)
 
-- added: Careers at MadeThis
-- added: Help everyone do their life’s work
-- added: MadeThis turns the business someone has always dreamed of into one that runs itself. We are a small, founder-led team looking for people who want to build that future with us.
-- added: Join the founding team
-- added: Every role here shapes the company. Pick one to read more.
-- added: Founding Product Designer
-- added: Design Full-time In person · San Francisco $160K – $220K
-- added: MadeThis has to feel as simple as describing your dream out loud. You will own how that feels: the web app, the mobile app, the Makers themselves and every moment in between, working directly with the
-- added: What you’ll do
-- added: Design end to end across web, mobile and our marketing site, from rough flows to polished, shipped detail
-- added: Shape how people brief, approve and trust work that MadeThis does on their behalf
-- added: Grow the MadeThis design system, voice and the world of the Maker characters
-- added: Prototype in code or Figma to test ideas with real business owners every week
-- added: Set the design bar and help hire the team that comes after you
-- added: What you’ll bring
-- removed: The mission
-- removed: Self-driving businesses .
-- removed: Every business on MadeThis runs itself. The agent writes the code, ships the product, answers the customers, and spends the ad budget. Your job is the platform that makes that true at scale, for the p
-- removed: 4 open
-- removed: What you'll do
+- added: Event & Brand Marketing Specialist – UK
+- added: £35,000 - £45,000 + 25% bonus + equity
+- removed: Mid iOS Engineer
+- removed: London: £45,000 - £75,000 + equity; Remote with EU £36000-£61000 + equity
 
-## [PumpGTM](https://pumpgtm.com/solutions/hiring-signals)
+## [Netdata](https://www.netdata.cloud/join-us/)
 
-- added: Not ready yet? Get the playbooks first.
-- added: Join PumpGTM Gym, Namanyay’s free Slack community for founders getting their next customers. You don’t need to be a customer.
-- added: Or follow @NamanyayG on X , where he posts what’s working.
-- added: how we automate GTM outbound for Supermemory Setup walkthrough, Nov 5 144.8k views we run gtm for 10 YC companies Founder-led outbound playbook, Sep 9 53.3k views Dhravya Shah on PumpGTM Testimonial v
-- added: View counts on X, Nov 24, 2026
+- added: Nov 2026
+- added: Root Cause Analysis: 50 Production …
+- added: Most incident work in infrastructure and …
+- added: Trusted by engineering and operations teams worldwide
+- added: November 20, 2026
+- added: Root Cause Analysis: 50 Production Incidents, Zero Playbooks
+- added: We ran 100 real infrastructure root cause analyses with 10 open-weight AI models, one pass each, nobody steering. What we found, and how to try it.
+- added: Is Netdata really remote-first?
+- added: Yes. We’re a distributed team across multiple timezones. Remote isn’t a pandemic policy - it’s our architectural DNA. We communicate asynchronously, work autonomously, and respect timezones. No mandat
+- added: What’s the work-life balance like?
+- added: We care about results, not time. No micromanagement, no presenteeism. We implement deep work days and respect personal boundaries. That said, we’re a 75-person team competing with giants - there will 
+- added: How do you handle career growth in a small company?
+- added: We focus on skills over titles. At Netdata, you’ll ship more, learn more, and own more than at larger companies. Growth comes through accelerated responsibility, community leadership (conference speak
+- added: How stable is Netdata financially?
+- added: We’re venture-funded with enterprise customers worldwide, including Fortune 500 companies. We have 1.5 million daily downloads and growing adoption. Startups carry risk - if you need absolute stabilit
+- removed: Anomaly Advisor
+- removed: Sep 2026
+- removed: Infrastructure Knowledge For AI Root …
+- removed: Netdata AI sees everything your …
+- removed: Trusted by Engineers at Leading Organizations
+
+## [Odoo](https://www.odoo.com/jobs)
+
+- added: Partner Account Executive, Dutch
+- removed: Customer Success Manager, Direct
+
+## [ownCloud](https://owncloud.com/career/)
+
+- added: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1795625230 uolcn 1795625230 wo@kr 1795625230 
+- added: Please send us your application via e-mail to moc.d 1795625230 uolcn 1795625230 wo@kr 1795625230 ow 1795625230 – We will get back to you as soon as possible.
+- removed: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1795535355 uolcn 1795535355 wo@kr 1795535355 
+- removed: Please send us your application via e-mail to moc.d 1795535355 uolcn 1795535355 wo@kr 1795535355 ow 1795535355 – We will get back to you as soon as possible.
 
 ## [pyannoteAI](https://www.pyannote.ai/)
 
-- added: Apply now
-- added: M a k e s e v e r y c o n v e r s a t i o n u n d e r s t a n d a b l e
-- added: Up to 52% lower transcription error
-- added: 1B+ open-source downloads
-- added: 375k+ developers
-- added: 00:04-00:08
-- added: Happy
-- added: 00:13-00:15
-- added: Confident
-- added: 00:25-00:31
-- added: Enthusiasm
-- added: Speaker 1
-- added: Mark
-- added: 00:07-00:12
-- added: Worried
-- removed: Precision-3
-- removed: Try it now!
-- removed: No credit card required
-- removed: Choose a sample audio
-- removed: Or upload your audio
+- added: Precision-3
+- added: Try it now!
+- added: No credit card required
+- added: Choose a sample audio
+- added: Or upload your audio
+- added: Choose file
+- added: MP3, WAV, M4A, MP4, or OGG · Up to 250 MB and 1 hour.
+- added: See when each speaker talks
+- added: Choose a sample or file, then press Run to see speaker turns.
+- added: Get Started
+- added: See more
+- removed: Apply now
+- removed: M a k e s e v e r y c o n v e r s a t i o n u n d e r s t a n d a b l e
+- removed: Up to 52% lower transcription error
+- removed: 1B+ open-source downloads
+- removed: 375k+ developers
 
-## [rtCamp Solutions](https://careers.rtcamp.com/)
+## [Scalac](https://scalac.io/careers/)
 
-- added: Can I apply for multiple positions?
-- added: Yes! You will have to fill each job application form separately though, as we're looking for specific qualifications & experience for every open position.
-- added: How do you track hours for developers? Do you use any tracking software?
-- added: We are, and always have been, strictly against any screen or other activity tracking software. As with any distributed team, we use standard project management software to generate client-facing repor
-- added: How are you always hiring?
-- added: We believe Good People are hard to find. So we never want to lose an opportunity to do Good Work with them.
-- added: Do you offer employment or a contractor positions?
-- added: rtCamp is a legally registered business in the US and India. So we can offer employment with all benefits to anyone who has valid work permits in these countries only. Additionally, we offer full-time
-- added: Where can I learn more about rtCamp's processes and culture?
-- added: You can go through our rtCamper Handbook – https://handbook.rtcamp.com . If you have any other questions, drop us an email at hiring@rtcamp.com.
+- added: Forward Deployed Engineer
+- added: B2B contract - remote, North American hours
 
-## [Skill-lync](https://skill-lync.com/recent-placements)
+## [Scape](https://scape.app/careers)
 
-- added: Black Friday Upgrade your career this Black Friday. Get up to ₹ 60,000 Scholarship on IIT programs Up to ₹ 60K Black Friday Scholarship 63 seats left Offer ends Fri, 27 Nov, 11:59 pm IST.
-- added: Black Friday Scholarship – IIT Jammu & IIT Roorkee
-- added: The best Black Friday deal isn't a gadget. It's your next career move.
-- added: Get up to ₹ 60,000 Black Friday Scholarship on our PG programs with IIT Jammu and iHUB DivyaSampark, IIT Roorkee. IIT certification, 12 live sessions with IIT faculty and 100% placement assistance.
-- added: Only 63 seats left. Offer ends Fri, 27 Nov, 11:59 pm IST
-- added: Updated 25 Nov 2026
-- removed: Updated 24 Nov 2026
+- added: Founding Designer Stockholm , Full time Software Engineer Stockholm , Full time General Application
+- removed: Founding Designer Stockholm • Full time Software Engineer Stockholm • Full time General Application
+
+## [Stirling PDF](https://www.stirling.com/careers)
+
+- added: About us
+- added: We build the PDF editor you can run on your own servers
+- added: See open roles
+- added: Our story
+- added: Stirling PDF is an open core PDF editor. It started as a 24-hour experiment over one weekend: one engineer, four features, posted to Reddit. Today it has more than 44 million downloads and runs inside
+- added: 44M+
+- added: Downloads
+- added: 55,000
+- added: Companies running Stirling PDF
+- added: 2024
+- added: The year the company was founded
+- added: Timeline
+- added: How we got here
+- added: Rev. 01
+- added: The start
+- removed: A better way to work. From flexible hours to meaningful ownership, we create an environment where you can grow.
+- removed: Remote-first
+- removed: Work from anywhere. The whole team is distributed.
+- removed: Equipment
+- removed: A new laptop of your choice.
 
 ## [Swadesi Way](https://swadesiway.com/explore)
 
-- added: Bilona Desi Rathi Cow Ghee and Jaggery
-- added: Price range: ₹901.00 through ₹1,690.00
-- added: Uncategorized
-- added: About Us
-- added: Login
-- removed: Organic Red Dragon Fruit (2-3 pcs/kg)
-- removed: Price range: ₹180.00 through ₹1,050.00
-- removed: 1 pc (300-400g)
-- removed: Organic Red Dragon Fruit (2-3 pcs/kg) quantity
-- removed: Organic Golden Custard Apple (Semi Ripe)
+- added: Organic Kaddu / Green Pumpkin(Sliced)
+- added: Organic Kaddu / Green Pumpkin(Sliced) quantity
+- added: Organic Bok Choy (with little holes & spots)
+- added: Organic Bok Choy (with little holes & spots) quantity
+- added: Shop
+- added: Chat
+- added: Cart
+- removed: Organic Regular Bananas (Cavendish) (Semi-Ripe) 7pcs/kg
+- removed: ₹ 160.00
+- removed: Organic Regular Bananas (Cavendish) (Semi-Ripe) 7pcs/kg quantity
+- removed: Organic Elaichi Banana (Semi Ripe) 15pcs/kg
+- removed: ₹ 240.00
+
+## [Terse](https://www.useterse.ai/careers)
+
+- added: Host agents and the state they work on, durably and at scale.
+- added: Actor principle based hosting. Open source alternative to Cloudflare’s Durable Objects.
+- added: Here is a sick demo.
+- added: Up to 64 AI painters, each its own actor, claim tickets from one Kanban actor and paint one canvas live.
+- added: Open the live demo
+- added: Get started → Try the live demo
+- removed: Real time state for multiplayer apps.
+- removed: Each actor handles one request at a time and has its own SQLite database. The open-source alternative to Cloudflare Durable Objects, with no lock-in and observability built in.
+- removed: Here is a sick counter demo.
+- removed: This is the most durable, multiplayer safe counter you'll ever see.
+- removed: Open the live counter ↗
+
+## [Tractian](https://careers.tractian.com/)
+
+- added: 106 result(s)
+- added: Robotics Engineer, AI Lab
+- added: Senior Field Marketing Event Specialist
+- removed: 104 result(s)
+
+## [Unsiloed AI](https://www.unsiloed.ai/careers)
+
+- added: ▞▙▞▚█▙░░ ▟▒▞▒▙▒ ▓▒▞▙█░▚▓
+- added: ▞▞▚▞░▟▚▓▟ █▙▙ █▓▙▒▚█
+- added: ▟░▒▞▚▙▙ ▒█░▞▓▞▚▚▓▒▚▒▙
+- added: ▓█░▞░▒▚ ▚
+- added: ▚░▚▞▒▞ ▒▒██ █▒▟░ ░░░ ▓▟▚ ▚▙▞▚ ▒▒▒▞█▞▟▙
+- added: ▙▓▙░▓░ ▟▒▓▙ ▞█▚▙ █▟▙ ░▒▒ ▒▞▓▓ ▟░▒█▟▙░▟
+- added: ▓░▚▒▞░ ▓▟▓▓ ▟▓▒▟ ▒▙█ ▙▓▟ ▞▞▙▞ ▞▟░▞▙▒▓
+- added: ▒▚▞░▚█ ░░▚▟ ▒▟▙▞ ▟░▟ ▒▓▞ ▞░█▒ ▙▚▚▙▚█▞
+- added: █▞▙▓▓▚ ▞▚▟█ ▒▚▚░ ▓▙░ ▚░▙ ▒▒▙▟ █▒░██▟▓▒
+- added: ▓░▞▙█░ ▙▟▓▚ ▒█▒▙ █▒▟ ▞▚▟ ▞█▚▒ █▙█▙▓▙░▚
+- added: ▚░░▒█▒ ▚▚█▞ ░▒▚▟ ▚█▙ ▒░▟ ▙▞░▓ ▞▞▒░▙
+- added: ▒▚██▚▙█▙▒▞ ▓
+- added: ▓▓▞▚▓█░ ▞░▟▟░█ ▒▙░░▞▚ ▞▞▒▓█
+- added: ▞▙▙██▓ ▚░░▓░▞ ▟▙▟▟
+- removed: ▙▓▞██▞▓▒ ▚▙▞▟▞▒ ▙██░▚▒█▟
+- removed: ░░░░▓▙▓▚▞ ▟▚▒ ▙▟▓▚▚▒
+- removed: ░▟▞▒▙▞▒ ▒▓▚▙▞▚▙▓▞▒░▒▓
+- removed: ▒▒▒▒▚▒▓ ▟
+- removed: ▞▚▙▟▙▒ ▞░▚▞ ▚▓▙▚ ▙▒░ ▚▙█ ▙▞▚▚ ▓▙▟▙▞▟▚▟
 
 ## [Upworthy](https://www.upworthy.com/jobs-that-pay-well-people-dont-realize/)
 
-- added: Making Sense of Science
-- added: 46 years ago, Carl Sagan beautifully explained the fourth dimension using a sliced apple
-- added: In 1890, a college student hid a camera in his vest, giving us the first candid look at Victorian life
-- added: Science
-- added: Communication expert shares 3-2-1 trick to stop rambling when put on the spot
-- added: Upworthy Staff & Emily Shiffer
-- added: If you see a person and two dogs in this photo, look again. It’s an optical illusion.
-- added: If you struggle with small talk, a simple acronym can make it a lot less painful
-- added: Tod Perry & Upworthy Staff
-- added: Conservation
-- added: In 1998, a man illegally cut holes in a Tucson street curb. The result changed the law.
-- removed: America once had a federal official whose job included answering ‘What shall we have for dinner?’
-- removed: Before Natalie Imbruglia sang ‘Torn,’ its songwriter recorded a version with a very different bite
-- removed: Skills
-- removed: People are ‘Frankensteining’ their partners. Therapists explain what that actually means.
-- removed: Ella Fitzgerald forgot the words to ‘Mack the Knife.’ Her improvised version earned a Grammy.
+- added: America once had a federal official whose job included answering ‘What shall we have for dinner?’
+- added: Before Natalie Imbruglia sang ‘Torn,’ its songwriter recorded a version with a very different bite
+- added: Skills
+- added: People are ‘Frankensteining’ their partners. Therapists explain what that actually means.
+- added: Ella Fitzgerald forgot the words to ‘Mack the Knife.’ Her improvised version earned a Grammy.
+- added: An art teacher left after 20 years to drive trucks. Her audio diary explains why.
+- added: Wholesome
+- added: She worked a Florida drive-thru for 37 years. On her last day, her boss gave her every dollar customers spent.
+- added: Evan Porter
+- added: Heather Wake & Upworthy Staff
+- removed: Making Sense of Science
+- removed: 46 years ago, Carl Sagan beautifully explained the fourth dimension using a sliced apple
+- removed: In 1890, a college student hid a camera in his vest, giving us the first candid look at Victorian life
+- removed: Science
+- removed: Communication expert shares 3-2-1 trick to stop rambling when put on the spot
+
+## [Wyvern](https://www.wyvern.space/company/join-us)
+
+- added: Data Science Intern
+- added: Edmonton, AB or Remote
+
+## [80,000 Hours](https://80000hours.org/about/work-with-us/) (minor change)
+
+- added: Operations roles
+- added: Operations
 
 ## [Aqua Security](https://www.aquasec.com/about-us/careers/) (minor change)
 
-- removed: Ramat-Gan, Israel IT & Security Operations IT Support Engineer
-- removed: Aqua Security is the leading pure-play cloud-native security company, protecting modern applications across containers, Kubernetes, serverless, and cloud environments.We're looking for a proactive and
+- added: Aqua Security is looking for an exceptional Security Researcher to join our world-class security research organization and help shape the future of cloud-native security.This is an opportunity to tack
+- removed: We are looking for an exceptional Security Researcher to join Aqua’s world-class security research organization. Looking for an experienced researcher in the cybersecurity world with depth, and excell
+
+## [Artificial Societies](https://societies.ai/company) (minor change)
+
+- added: Chief of Staff
+- added: Noah Patrick
+- added: Noah Patrick is Chief of Staff at Artificial Societies. He leads GTM strategy and hiring and supports the founders on fundraising and company planning. He previously served as Chief of Staff at a defe
+- removed: Operations
+- removed: Founders Associate London
 
 ## [Asha Health](https://careers.asha.health/) (minor change)
 
-- added: {"message":"I am alive","env":"production","timestamp":"2026-11-25T10:31:33.816Z"}
-- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-24T23:19:10.870Z"}
+- added: {"message":"I am alive","env":"production","timestamp":"2026-11-25T22:48:22.402Z"}
+- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-25T10:31:33.816Z"}
 
 ## [Bacula Systems](https://www.baculasystems.com/company/careers/) (minor change)
 
-- added: enterprise backup software
-- added: virtual machine backup software
-- added: database backup
-- removed: s3 backup software
-- removed: continuous data protection
-- removed: how to secure backups
+- added: hyper v backup solutions
+- added: postgresql backup
+- added: immutable backup solutions
+- removed: enterprise backup software
+- removed: virtual machine backup software
+- removed: database backup
 
-## [Camptocamp](https://camptocamp.com/career) (minor change)
+## [Care Weather](https://www.careweather.com/careers) (minor change)
 
-- removed: Senior Backend and Cloud Engineer (m/w/d) - Switzerland
+- added: Explore 0 open roles
+- added: 0 roles shown
+- added: No open roles in this category right now. Check back for future opportunities.
+- removed: Explore 9 open roles
+- removed: View internship program (opens in a new tab)
+- removed: 9 roles shown
+- removed: Engineering Internship/Co-op
+- removed: Own flight hardware or ground systems, with mentorship from concept to test.
 
 ## [Casco](https://casco.com/careers) (minor change)
 
-- added: Latest: Introducing Casco Cloud Security Read more → Latest CVE alert: CVE-2026-78114
-- removed: Latest: Introducing Casco Cloud Security Read more → Latest CVE alert: CVE-2026-123626
+- added: Latest: Introducing Casco Cloud Security Read more → Latest CVE alert: CVE-2026-135092
+- removed: Latest: Introducing Casco Cloud Security Read more → Latest CVE alert: CVE-2026-78114
 
-## [Cash Flow Portal](https://www.cashflowportal.com/hiring) (minor change)
+## [Chatwoot](https://www.chatwoot.com/) (minor change)
 
-- added: Our blog CFP Academy Product updates Vendor marketplace About us
-- removed: Our blog Product updates Vendor marketplace About us
+- added: Set the colour, logo and copy so the widget feels like part of your product. See the live chat software
+- removed: Set the colour, logo and copy so the widget feels like part of your product. Customize the live chat widget
+
+## [Confident AI](https://www.confident-ai.com/careers) (minor change)
+
+- added: Confident AI is building the infrastructure that makes AI trustworthy. We maintain the open-source projects AI engineers use every day: DeepEval for LLM evaluation, and confident-trace for OpenTelemet
+- added: We're hiring an Open Source Research Engineer to keep those projects at the frontier and make sure developers know it. Half the role is reading new research and shipping it — a novel attack method or 
+- added: Implement what you find. Ship novel attack methods and vulnerability classes as well as new metrics and evaluation techniques in DeepEval, and new framework and provider integrations across DeepEval a
+- added: Keep DeepEval and confident-trace at the frontier of what the research says is possible.
+- removed: Confident AI is building the infrastructure that makes AI trustworthy. We maintain the open-source projects AI engineers use every day: DeepEval for LLM evaluation, DeepTeam for red teaming, and confi
+- removed: We're hiring an Open Source Research Engineer to keep those projects at the frontier and make sure developers know it. Half the role is reading new research and shipping it — a novel attack method in 
+- removed: Implement what you find. Ship novel attack methods and vulnerability classes in DeepTeam, new metrics and evaluation techniques in DeepEval, and new framework and provider integrations across DeepEval
+- removed: Keep DeepEval, DeepTeam, and confident-trace at the frontier of what the research says is possible.
+
+## [CopilotKit](https://www.copilotkit.ai/careers) (minor change)
+
+- added: Save your spot
+- added: Live webinar · Dec 10, 10AM PT Live webinar · Dec 10 Webinar Continual Learning with CopilotKit: From Human Corrections to Agent Skills Continual Learning with CopilotKit
+- removed: Get early access
+- removed: Early access Early access Early access Introducing OpenBot for Business™ OpenBot for Business
+
+## [d_model](https://www.dmodel.ai/) (minor change)
+
+- added: josh
 
 ## [DappRadar](https://dappradar.com/careers) (minor change)
 
-- added: REF $0.0768 +191.00% BTW $0.8905 +28.84% AKE $0.0₂166 -18.33% HASH $0.0₂614 -17.73% H $0.0112 -11.04% BEAT $0.0621 -9.49% PONS $0.0827 -9.19% 币安人生 $0.4323 -8.39% HYPE $57.87 -8.31% JUP $0.2146 -7.70% 
-- removed: REF $0.0768 +191.00% BTW $0.8136 +16.44% AKE $0.0₂209 -14.15% HASH $0.0₂610 -12.55% H $0.0119 -10.96% BEAT $0.0649 -10.75% RAIN $0.0₂287 -10.08% MNT $0.3599 -9.11% CPOOL $0.0248 +7.05% PONS $0.0853 -6
+- added: REF $0.0768 +191.00% AKE $0.0₂168 -18.19% VVV $28.84 +15.89% BTW $0.899 +13.53% SKYAI $0.0334 -10.22% VELVET $0.0842 +7.77% CPOOL $0.0248 +7.05% WLFI $0.0428 +6.74% SIREN $0.0256 +5.59% M $0.812 +5.21
+- removed: REF $0.0768 +191.00% BTW $0.8905 +28.84% AKE $0.0₂166 -18.33% HASH $0.0₂614 -17.73% H $0.0112 -11.04% BEAT $0.0621 -9.49% PONS $0.0827 -9.19% 币安人生 $0.4323 -8.39% HYPE $57.87 -8.31% JUP $0.2146 -7.70% 
 
-## [DataCebo](https://datacebo.com/careers/) (minor change)
+## [dbt Labs](https://www.getdbt.com/about-us/careers) (minor change)
 
-- added: Subscribe on YouTube
+- removed: Engineering Manager, Metadata
+- removed: HR Department
+- removed: Senior Internal Communications Manager
+- removed: Remote, Pennsylvania, United States, AMER
+- removed: Program Manager, Growth, Monetization & Strategic Initiatives
 
-## [DeepReach Inc.](https://www.deepreach.ai/join) (minor change)
+## [Draftbit](https://draftbit.com/jobs.html) (minor change)
 
-- added: Contact Us
+- removed: Mobile apps, web apps, websites, and games
+- removed: Most products need more than one of these, so they can all live in one project and share a backend.
+- removed: Mobile apps
+- removed: Native iOS and Android apps from one codebase. 77 templates
+- removed: Web apps
 
-## [Edgar](https://meetedgar.com/careers) (minor change)
+## [Edgerun](https://www.edgerun.com/careers) (minor change)
 
-- removed: Socialbee Alternative
+- added: Content Creator
+- removed: Brand & Marketing Lead
+- removed: Edgerun does not currently work with external recruiters.
+
+## [Evolveum](https://evolveum.com/career/) (minor change)
+
+- added: FAQ
 
 ## [Evrone](https://evrone.com/hiring) (minor change)
 
-- added: +49 176 24514399
-- added: Kemperplatz 1, 10785 Berlin
-- removed: +1 415 425 2526
-- removed: 44 Tehama St, San Francisco, CA 94105
+- added: +1 415 425 2526
+- added: 44 Tehama St, San Francisco, CA 94105
+- removed: +49 176 24514399
+- removed: Kemperplatz 1, 10785 Berlin
 
-## [InfraCloud](https://www.improving.com/careers/) (minor change)
+## [Fire Engine Red](https://www.carnegiehighered.com/about/careers/) (minor change)
 
-- added: Community & Culture
-- added: Building Community Through the Women’s Commission at Improving Mexico
-- added: Melisa Quesada looks back on her year as Women’s Commission President at Improving Mexico, from the Women Speakers Program to Wonder Women.
-- removed: Newsroom
-- removed: Improving U.S. Managing Director Scott McMichael Receives Outstanding Georgian Recognition from Georgia Secretary of State
-- removed: Scott McMichael of Improving is named an Outstanding Georgian by Georgia's Secretary of State.
+- removed: Slate Staff Augmentation Strategist
+- removed: Learn More : Slate Staff Augmentation Strategist
 
-## [Keeper](https://keepertax.com/) (minor change)
+## [GMBapi](https://gmbapi.com/vacancies/) (minor change)
 
-- added: Track income, find write-offs, and know what to set aside for taxes. Keeper handles your books and taxes all year.
-- added: Most popular
-- removed: Know what you earn, what you can write off, and what to set aside for taxes. Keeper handles your books and taxes, with expert support all year.
-- removed: Best value
+- added: Explore the demo Talk to us
+- added: Contact us
+- removed: Explore the demo → Talk to us
 
-## [Lago](https://getlago.com/hiring) (minor change)
+## [Kotzilla](https://kotzilla.io/) (minor change)
 
-- added: Launch weeks The monetization academy Billing glossary Blog Knowledge base Stripe fee calculator
-- removed: The monetization academy Billing glossary Blog Knowledge base Stripe fee calculator
+- added: Powered by Koin , the #1 dependency injection framework for Kotlin
+- added: native Android apps
+- added: 50M+
+- removed: Powered by Koin , the #1 dependency injection framework for Android
+- removed: all Android apps
+- removed: 20M+
 
-## [Liquid Compute](https://liquidcompute.com/careers) (minor change)
+## [Leadbay](https://leadbay.ai/) (minor change)
 
-- added: Get access
-- removed: Request access
+- added: Skip to the search
+- added: The world’s information on companies and people.
+- added: Now qualified, enriched, and free with in your Claude or ChatGPT .
+- removed: Backed by
+- removed: Qualified leads for agentic workflows
+- removed: Leadbay 🤘🏻 qualifies leads in the most data- and signal-scarce markets and puts your ChatGPT, Claude, or Copilot agents to work so you can grow in ways that weren’t possible before.
+- removed: Tailored demo
+- removed: They trust us
 
-## [Odoo](https://www.odoo.com/jobs) (minor change)
+## [Legora](https://legora.com/careers) (minor change)
 
-- added: All Countries 185
-- added: Hong Kong 14
-- added: 185
-- removed: All Countries 186
-- removed: Hong Kong 15
-- removed: 186
+- added: Fact Intelligence
 
-## [Ollie Order](https://ollieorder.com/) (minor change)
+## [Lexi](https://www.getlexi.io/careers) (minor change)
 
-- added: Most reviewed craft beverage management software and ERP as of November 25, 2026
-- removed: Most reviewed craft beverage management software and ERP as of November 24, 2026
+- added: AI Engineer — Chennai Build the AI systems behind Lexi’s legal associates, and work directly with the customers who use them. Chennai, in office. India Full-time
+- added: Technical Sales Lead — Chennai Sell Lexi to legal and government customers, shape solutions around their needs, and work with engineering to deliver them. Chennai, in office. India Full-time
+- added: Technical Project Manager — Chennai Be the bridge between Lexi’s customers and engineering: understand client problems, turn them into clear requirements and get them delivered. Chennai, in office. In
+- added: B2B Marketing Manager — Chennai Own Lexi’s B2B marketing: run campaigns, grow the brand and fill the top of the funnel with qualified legal and government buyers. Chennai, in office. India Full-time
 
-## [Plivo](https://www.plivo.com/jobs/) (minor change)
+## [LifestyleRx](https://lifestylerx.io/join-our-team) (minor change)
 
-- added: ~/plivo 08:38:06
-- removed: ~/plivo 09:35:40
+- added: Team of 213 MDs across Canada
+- added: Our team consists of 213 specialists, family physicians, and registered dietitians, all working collaboratively to deliver the best possible care.
+- removed: Team of 212 MDs across Canada
+- removed: Our team consists of 212 specialists, family physicians, and registered dietitians, all working collaboratively to deliver the best possible care.
+
+## [One Degree](https://about.1degree.org/join/) (minor change)
+
+- removed: Brand & Communications Refresh
+
+## [Panorama Education](https://www.panoramaed.com/about/careers) (minor change)
+
+- removed: New
+- removed: Panorama for Skyward now available to eligible Washington school districts through WSIPC
+- removed: Learn More
+- removed: Panorama for Skyward now available to eligible Washington school districts through WSIPC.
+
+## [Pydantic](https://pydantic.dev/about) (minor change)
+
+- added: Monty 9.0k
+- removed: Monty 8.9k
 
 ## [Saleor](https://saleor.io/) (minor change)
 
-- added: 641,294
-- added: 22 days ago 3.22.77
-- added: 3.22.77 22 days ago
-- removed: 21 days ago 3.22.77
-- removed: 3.22.77 21 days ago
+- added: 980,731
+- added: 9 days ago 3.23.50
+- added: 3.23.50 9 days ago
+- removed: 641,294
+- removed: 971,089
+- removed: 8 days ago 3.23.50
+- removed: 3.23.50 8 days ago
 
-## [ScrapingBee](https://www.scrapingbee.com/scrapers/google-jobs-scraper-api/) (minor change)
+## [SeaweedFS](https://seaweedfs.com/careers) (minor change)
 
-- added: 17 min read
-- added: Bypassing JA4 Fingerprinting in Python with curl_cffi and uTLS
-- added: Learn what your Python scraper's JA4 fingerprint reveals, why it beats JA3 at catching bots, and how to match Chrome's JA4 with curl_cffi and uTLS.
-- added: Pablo del Arco
-- removed: 54 min read
-- removed: The Complete Guide to Python Web Scraping: Requests, Playwright, Scrapy and a Scraping API
-- removed: Learn web scraping with Python step by step, from your first Requests script to Playwright, Scrapy and a scraping API.
-- removed: Ismail Ajagbe
-- removed: 16 November 2026
+- added: Managed license for many clusters
 
-## [Superb AI](https://careers.superb-ai.com/) (minor change)
+## [Skypher](https://www.skypher.co/careers) (minor change)
 
-- removed: Security Engineer
+- removed: Cybersecurity Growth Intern
+- removed: We are looking for an energetic Growth intern with an entrepreneurial mindset to join our growing team and help help us on customer acquisition, upselling and building a stronger name for Skypher in t
+- removed: CEO Right-Hand Internship
+- removed: Full Time - June 2024
+- removed: We are looking for an energetic intern with an entrepreneurial mindset to join our growing team and help our CEO on different strategic initiatives.
+
+## [Snowplow](https://snowplow.io/careers) (minor change)
+
+- added: Integrations
+- added: Customers
+- removed: Integrations Customers
 
 ## [The Centre for Effective Altruism](https://www.effectivealtruism.org/careers) (minor change)
 
-- added: 44 subscribed today
-- removed: 51 subscribed today
+- added: 33 subscribed today
+- removed: 44 subscribed today
 
-## [The Essential](https://theessential.com/pages/join) (minor change)
+## [The Juggernaut](https://www.thejuggernaut.com/) (minor change)
 
-- added: Beds 17% Off
-- removed: Office Furniture 25% Off
+- added: What NYC’s Top South Asian Chefs Bring to Thanksgiving
+- added: Exclusive: From cranberry chutney to pecan pie, from Semma to Nishaan, here are five recipes to add to your holiday spread — even last minute!
+- added: Film & TV
+- removed: Ten years after Shah Rukh Khan played the wise Dr. Jehangir, therapists weigh in on what the film got so right — and wrong.
+- removed: Isha Banerjee
+- removed: Health
+- removed: ‘Koffee with Karan’: The Guilty Pleasure We Can’t Kick
+
+## [Tower](https://www.git-tower.com/company/jobs/) (minor change)
+
+- added: New Tower 18.5 for Mac – Gitea, Forgejo, and Codeberg Support New Tower 16 for Windows (Beta) – Introducing AI Commits
+- removed: New Tower 18.5 for Mac (Beta) – Gitea, Forgejo, and Codeberg Support New Tower 15 for Windows – Syntax Highlighting
 
 ## [VideoLingo](https://videolingo.io/careers.html) (minor change)
 
-- added: 19386 Stars
-- removed: 19378 Stars
+- added: 19391 Stars
+- removed: 19386 Stars
 
 ## [Vivo](https://vivo.gupy.io/) (minor change)
 
-- added: 66 jobs found for 0 filters applied
-- removed: 70 jobs found for 0 filters applied
+- added: 79 jobs found for 0 filters applied
+- added: Job for Full-time employee: Analista Fiscal Jr | ECO Berrini - São Paulo/SP
+- added: Job for Full-time employee: Analista Marketing Sr ::: Estratégia e Planejamento de Eventos - Vaga Exclusiva para Pessoas com Deficiência
+- removed: 66 jobs found for 0 filters applied
+- removed: Job for Full-time employee: Assistente Técnico - Exclusivo PCD
+- removed: Porto Alegre - RS and Hybrid
+- removed: Job for Full-time employee: Assistente Técnico - Goiânia/GO
 
-## [WikiHow](https://www.wikihow.com/wikiHow:Jobs) (minor change)
+## [WhiteLab Genomics](https://whitelabgx.com/careers) (minor change)
 
-- added: 252
-- removed: 284
+- added: International work environment with a diverse team of over 25 nationalities
+- removed: International work environment with a diverse team of over 20 nationalities
+
+## [You are launched](https://www.urlaunched.com/join-us) (minor change)
+
+- removed: Android Developer
 
 ## [Zidisha](https://www.zidisha.org/careers.html) (minor change)
 
-- added: 30 % raised · $164 to go
-- added: 11 % raised · $552 to go
-- added: 31 % raised · $24 to go
-- added: 26 % raised · $28 to go
-- removed: 28 % raised · $168 to go
-- removed: 11 % raised · $553 to go
-- removed: 17 % raised · $29 to go
-- removed: 13 % raised · $33 to go
+- added: 309,698
+- added: $21,492,088
+- added: 464,222
+- added: 36 % raised · $24 to go
+- removed: 309,695
+- removed: $21,490,660
+- removed: 464,208
+- removed: 26 % raised · $28 to go
 
 ## Pages failing for 3+ checks
 
@@ -559,7 +633,7 @@ Checked 2026-11-25 10:32 UTC: 1757 pages, 49 changed, 22 look like new postings.
 - codelikeagirl.com: no readable text (JavaScript page?)
 - codeboarding.org: no readable text (JavaScript page?)
 - codecombat.com: no readable text (JavaScript page?)
-- codingcops.com: no readable text (JavaScript page?)
+- codingcops.com: failed (HTTP 404)
 - cofia.ai: no readable text (JavaScript page?)
 - cohesionplatform.com: no readable text (JavaScript page?)
 - conntour.com: no readable text (JavaScript page?)
@@ -758,7 +832,6 @@ Checked 2026-11-25 10:32 UTC: 1757 pages, 49 changed, 22 look like new postings.
 - siphoxhealth.com: no readable text (JavaScript page?)
 - slashy.com: no readable text (JavaScript page?)
 - sonatoria.com: no readable text (JavaScript page?)
-- soriaanalytics.com: no readable text (JavaScript page?)
 - spennyapp.com: no readable text (JavaScript page?)
 - stafbook.com: no readable text (JavaScript page?)
 - stakpak.dev: no readable text (JavaScript page?)
@@ -779,7 +852,7 @@ Checked 2026-11-25 10:32 UTC: 1757 pages, 49 changed, 22 look like new postings.
 - talc.ai: no readable text (JavaScript page?)
 - tappityapp.com: no readable text (JavaScript page?)
 - tasker.ai: no readable text (JavaScript page?)
-- terapify.com: no readable text (JavaScript page?)
+- terapify.com: failed (HTTP 404)
 - tryterracotta.com: no readable text (JavaScript page?)
 - terrakotta.ai: no readable text (JavaScript page?)
 - terranox.ai: no readable text (JavaScript page?)
@@ -791,7 +864,6 @@ Checked 2026-11-25 10:32 UTC: 1757 pages, 49 changed, 22 look like new postings.
 - toothy.ai: no readable text (JavaScript page?)
 - topship.africa: no readable text (JavaScript page?)
 - tornyol.com: no readable text (JavaScript page?)
-- tradexapp.co: failed (dns)
 - transastra.com: no readable text (JavaScript page?)
 - trapezehealth.com: no readable text (JavaScript page?)
 - hellotrepo.com: failed (HTTP 404)

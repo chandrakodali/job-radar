@@ -75,6 +75,7 @@ Scale on your own terms.
 Self-hosted storage. A per-TB software license.
 Choose support separately to match your team.
 Pricing and license details
+Managed license for many clusters
 $2 / TB / month
 or $20 / TB / year
 Hardware and infrastructure provided by you.

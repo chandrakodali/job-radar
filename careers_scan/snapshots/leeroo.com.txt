@@ -5,15 +5,14 @@ Uniforge, our platform, connects to every system you operate, learns your busine
 Request a free audit Read the specification
 48 HOURS · READ-ONLY · FREE
 OUTCOMES · WHAT THE AGENTS DELIVER OPERATING
-16:27:42 A-04 · CROSS-SELL Cross-sell ARR added +$96K
-16:27:40 A-03 · CHURN SENTINEL Churn risk flagged 7 DAYS EARLY
-16:27:38 A-02 · DATA-QUALITY Records unified 18,304
-16:27:37 A-01 · BILLING-INTEGRITY Revenue recovered +$412K
-16:27:35 A-03 · CHURN SENTINEL Churn prevented 14 ACCTS
+17:12:51 A-04 · CROSS-SELL Cross-sell ARR added +$96K
+17:12:49 A-03 · CHURN SENTINEL Churn risk flagged 7 DAYS EARLY
+17:12:48 A-02 · DATA-QUALITY Records unified 18,304
+17:12:46 A-01 · BILLING-INTEGRITY Revenue recovered +$412K
+17:12:44 A-03 · CHURN SENTINEL Churn prevented 14 ACCTS
 AGENTS ACTING ON THE MODEL EVERY ROW: AN AGENT ACTING ON THE LIVING MODEL WATCH THE DEMO ↓
 DEPLOYMENT Your VPC. Or fully on-prem, air-gapped.
 BENCHMARK Nº1 open-source on OpenAI MLE-Bench. Nº1 on RelBench. Grand Master Trophy, IOAI 2026.
-SCALE PROVEN 9×10⁹ rows. $1B enterprise, production.
 TEAM Meta AI, LinkedIn AI, EPFL alumni.
 AUDIT 48 hours. Free. No setup on your side.
 OPEN SOURCE 1.5M+ downloads of our team's models.
@@ -35,16 +34,7 @@ THE SPECIALIST CHAIN, PRODUCTIZED
 04 Act . Agents execute: reconcile the invoice, flag the account, brief the owner, with approvals where you want them and an audit log of everything. HUMAN-APPROVED, LOGGED
 UNIFORGE · WALKTHROUGH OPERATING
 Your browser does not support the video tag.
-03 · THE PROOF · IN PRODUCTION SINCE 2025
-Proven in the hardest room .
-Most AI fails in places like this: a $1B enterprise with 75 years of operating history across 35+ systems, each holding its own version of the truth. Uniforge's learning agents map the business first, record by record, rule by rule, and capture it as a living model. Only then do action agents turn that understanding into outcomes.
-9×10⁹
-ROWS LEARNED, ACROSS 35+ SYSTEMS
-−62%
-CROSS-SYSTEM CONFLICTS, IN PRODUCTION
-~$20M
-TRAPPED VALUE SURFACED, ITEMISED
-04 · SOVEREIGNTY
+03 · SOVEREIGNTY
 Own the AI's knowledge and reasoning .
 Leeroo turns your systems, workflows, and institutional knowledge into a private intelligence layer inside your infrastructure. We build the engine end to end, so nothing in the stack is a black box. You choose how far inside your walls it runs.
 MODE A · STANDARD · YOUR CLOUD DEFAULT
@@ -52,7 +42,7 @@ Runs in your VPC on AWS, Azure, or GCP. Your data never leaves your infrastructu
 MODE B · SOVEREIGN · FULLY ON-PREM AIR-GAPPED
 Runs entirely on your own hardware with local models fine-tuned to your business. Air-gapped, zero external calls, ever. Compliance is the obvious reason. The better ones: your competitive edge never touches a model you don't own, the capability is yours outright, and inference runs at hardware cost, not per-token rates.
 THE POSTURE THAT LETS US IN IS THE POSTURE THAT KEEPS EVERYONE ELSE OUT
-05 · THE RECORD
+04 · THE RECORD
 Verified in the open .
 PUBLIC BENCHMARKS, PUBLIC CODE
 KAPSO · GITHUB ↗ Nº1
@@ -64,6 +54,6 @@ Pulled into production by teams we've never met.
 LEEROOPEDIA ↗ 250K+
 A 27,600-page ML wiki serving 250K+ practitioners.
 The knowledge base that our agents and the field learn from.
-06 · THE AUDIT
+05 · THE AUDIT
 See what's trapped in your systems.
 Request a free audit 48 HOURS · READ-ONLY · AN ITEMISED MAP OF THE VALUE

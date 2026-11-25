@@ -1,26 +1,16 @@
 Showing 1–12 of 205 results
 Fruits & Veggies (Delhi NCR)
-Organic Regular Bananas (Cavendish) (Semi-Ripe) 7pcs/kg
-₹ 160.00
-Add Item
-This product has multiple variants. The options may be chosen on the product page
-1 kg
-Organic Regular Bananas (Cavendish) (Semi-Ripe) 7pcs/kg quantity
-Organic Elaichi Banana (Semi Ripe) 15pcs/kg
-₹ 240.00
-Organic Elaichi Banana (Semi Ripe) 15pcs/kg quantity
 Organic Kiwi
 Price range: ₹135.00 through ₹300.00
+Add Item
+This product has multiple variants. The options may be chosen on the product page
 12 pcs (600-720 gm)
 4 pcs (200-360 gm)
 8 pcs (400-480 gm)
 Organic Kiwi quantity
-Organic Desi Amla
-₹ 45.00
-250 g
-Organic Desi Amla quantity
 Organic Big Apples from Upper Kinnaur (5 pcs/ kg)
 Price range: ₹450.00 through ₹1,230.00
+1 kg
 2 kg
 3 kg
 Organic Big Apples from Upper Kinnaur (5 pcs/ kg) quantity
@@ -33,53 +23,29 @@ Price range: ₹350.00 through ₹800.00
 500 g x 2
 500 g x 5
 Frozen Mango Pulp (100% Pure & Natural) quantity
-Organic Potato
-₹ 75.00
-Organic Potato quantity
-Organic Ginger
-100 g
-Organic Ginger quantity
 Organic Lehsun/Garlic
 ₹ 40.00
+100 g
 Organic Lehsun/Garlic quantity
-Organic Desi Coriander (Dhaniya)
-₹ 30.00
-Organic Desi Coriander (Dhaniya) quantity
-Desi Spinach (Palak) (with little holes & spots)
-Price range: ₹35.00 through ₹60.00
-Desi Spinach (Palak) (with little holes & spots) quantity
-Desi Lauki (Bottle Gourd)
-₹ 50.00
-600 g
-Desi Lauki (Bottle Gourd) quantity
-Organic Kaddu / Green Pumpkin(Whole)
-₹ 130.00
-1.5 kg
-Organic Kaddu / Green Pumpkin(Whole) quantity
-Organic French Beans
-Price range: ₹50.00 through ₹80.00
-Organic French Beans quantity
+Organic Kaddu / Green Pumpkin(Sliced)
+₹ 45.00
+Organic Kaddu / Green Pumpkin(Sliced) quantity
 Organic Mustard Leaves – Sarson Saag (with little holes & spots)
+Price range: ₹35.00 through ₹60.00
+250 g
 Organic Mustard Leaves - Sarson Saag (with little holes & spots) quantity
 Organic Karela/Bitter Gourd
 ₹ 65.00
 Organic Karela/Bitter Gourd quantity
-Organic Red Bell Pepper
-₹ 120.00
-Organic Red Bell Pepper quantity
 Organic Yellow Bell Pepper
+₹ 120.00
 Organic Yellow Bell Pepper quantity
-Organic Big Round Brinjal
-Organic Big Round Brinjal quantity
-Organic Bok Choy
+Organic Bok Choy (with little holes & spots)
 Price range: ₹50.00 through ₹90.00
-Organic Bok Choy quantity
+Organic Bok Choy (with little holes & spots) quantity
 Organic Brinjal – Small
 ₹ 55.00
 Organic Brinjal - Small quantity
-Organic Broccoli
-Price range: ₹160.00 through ₹300.00
-Organic Broccoli quantity
 Organic Celery
 Price range: ₹90.00 through ₹250.00
 750 g
@@ -93,22 +59,9 @@ Organic Green Lettuce quantity
 Organic Iceberg Lettuce
 Price range: ₹170.00 through ₹330.00
 Organic Iceberg Lettuce quantity
-Desi Raw Papaya (Green)
-₹ 60.00
-Desi Raw Papaya (Green) quantity
-Organic Pudina / Mint Leaves
-₹ 25.00
-Organic Pudina / Mint Leaves quantity
 Organic Kasturi Methi/ Fenugreek Leaves
+₹ 25.00
 Organic Kasturi Methi/ Fenugreek Leaves quantity
-Organic Sem Phali
-Price range: ₹75.00 through ₹140.00
-Organic Sem Phali quantity
-Organic Chappan Tinda
-Organic Chappan Tinda quantity
-Desi Red Radish
-Price range: ₹55.00 through ₹90.00
-Desi Red Radish quantity
 Newly Added
 Joshimath Rajma
 Price range: ₹245.00 through ₹475.00
@@ -243,6 +196,7 @@ Whole Soyabean
 Price range: ₹80.00 through ₹140.00
 Whole Soyabean quantity
 Premium Whole Peanuts
+Price range: ₹160.00 through ₹300.00
 Premium Whole Peanuts quantity
 Unpolished White Kabuli Chana | Chole
 Unpolished White Kabuli Chana | Chole quantity
@@ -452,3 +406,6 @@ Price range: ₹901.00 through ₹1,690.00
 Uncategorized
 About Us
 Login
+Shop
+Chat
+Cart
