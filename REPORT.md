@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**195 jobs**, newest first. Updated Wed Nov 25, 8:19 AM CST from 12,580 company job boards and other sources.
+**194 jobs**, newest first. Updated Wed Nov 25, 8:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 183 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (34)](#wednesday-nov-18-34)
+Coverage check: of 3,268 matching jobs that job sites and feeds listed this week, 1,916 (58%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (33)](#wednesday-nov-18-33)
 
 ## Wednesday, Nov 25 (2)
 
@@ -204,7 +206,7 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 1:00 AM | [IT Systems Engineer](https://jobs.dayforcehcm.com/en-US/avisystems/CANDIDATEPORTAL/jobs/7725) | Avisystems | Minneapolis, MN, US | 50 |  |
 | 12:07 AM (seen) | [Senior Site Reliability Engineer](https://app.careerpuck.com/job-board/blinkhealth/job/75nQcAvf) | Blinkhealth | New York, NY; Pittsburgh, PA; Seattle, … | 40 | senior title, years not stated |
 
-## Wednesday, Nov 18 (34)
+## Wednesday, Nov 18 (33)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -241,9 +243,8 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | date only | [Software Engineer-DevSecOps Automation](https://careers.dominionenergy.com/job/CAYCE-Software-Engineer-DevSecOps-Automation-SC-29033/1451952000/) | Dominion Energy | RICHMOND, VA, US, CAYCE, SC, US | 48 | 4+ yrs exp |
 | date only | [DevOps Engineer](https://careers.capgemini.com/job/Atlanta%2C-GA-DevOps-Engineer-GA-30301/1458630333/) | Capgemini | Atlanta, GA, United States | 53 |  |
 | 10:17 AM | [Senior Network Engineer - Enterprise Connectivity](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24215) | Montenson | MN, United States | 35 | senior title, years not stated; no future H-1B sponsorship |
-| 8:22 AM | [Senior Software Engineer - Cloud Infrastructure - (US Remote)](https://jobs.ashbyhq.com/clickhouse/caf49f06-ed35-4637-9372-f4df114e852f) | ClickHouse | NAMER and LatAm; United States | 55 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (372)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (373)
 
 <details><summary>Show</summary>
 
@@ -251,8 +252,10 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 |---|---|---|---|---:|---|
 | date only | [Senior Forward Deployed Engineer, Sr Forward Deployment Engineering](https://www.amazon.jobs/en/jobs/10609077/senior-forward-deployed-engineer-sr-forward-deployment-engineering) | Amazon Web Services, Inc. | New York, New York, USA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Application Security Engineer, US ADC Security](https://www.amazon.jobs/en/jobs/10613623/application-security-engineer-us-adc-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
+| 8:13 AM | [Cloud Platform Engineer – Kubernetes / EKS & DevOps](https://jobs.ashbyhq.com/megazone/0be79b0c-ac1d-41e4-8277-8788c7cec6ad) | MegazoneCloud | United States- Remote (remote) | 47 | rules: 5+ yrs exp; E-Verify; asks for 5+ years of experience |
 | 12:09 AM | [IT Systems Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=bc281c16-d0d7-407b-9fab-c88169d7ae32&ccId=19000101_000001&jobId=9201529875689_1&lang=en_US) | Bc281C16 D0D7 407B 9Fab C8816… | Reno, NV | 50 | rules: adjacent title, little DevOps/cloud work in the text |
 | 11:01 PM | [Network Engineer - Contract To Hire](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=958067c6-26d0-41f1-8d53-18b1e4c9dc0c&ccId=19000101_000003&jobId=9201122222057_181&lang=en_US) | 958067C6 26D0 41F1 8D53 18B1E… | Salt Lake City, UT | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 11:00 PM | [Senior Site Reliability Engineer](https://careers-steampunk.icims.com/jobs/9344/senior-site-reliability-engineer/job) | Steampunk | McLean, VA, United States (remote) | 47 | rules: 8+ yrs exp; senior title; E-Verify; needs: security clearance |
 | 9:47 PM | [Server Production Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f55317dc-e487-4325-9d73-159aa96c20cf&ccId=19000101_000001&jobId=9201098631766_1&lang=en_US) | F55317Dc E487 4325 9D73 159Aa… | City of Industry, CA | 55 | rules: 2+ yrs exp; no future H-1B sponsorship; adjacent title, little… |
 | 9:20 PM | [Business Hosting Specialist/Sr. Cloud Engineer](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286051) | Vertiv | Westerville, OH, United States | 45 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
 | 4:13 PM | [Senior Supplier Development & Reliability Engineer](https://jobs.ashbyhq.com/radiant-industries/7b984df8-fae4-4d26-9cbf-fc7951b63b5d) | Radiant | El Segundo, CA (onsite) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
@@ -552,7 +555,6 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 12:40 AM | [Senior Azure DevOps Engineer](https://jobs.lever.co/jobgether/0566bf98-f3eb-4d14-b4f6-47a81c8c1464) | Jobgether | US (remote) | 42 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 12:00 AM | [Information Technology - Azure Administrator 130-2069](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6578) | Ccok | Tulsa, OK, US | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:00 AM | [OT Infrastructure Engineer - Southeast](https://jobs.dayforcehcm.com/en-US/inframark/CANDIDATEPORTAL/jobs/13492) | Inframark | North Charleston, SC, US; Norcross, GA,… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 11:00 PM | [Senior Site Reliability Engineer](https://careers-steampunk.icims.com/jobs/8815/senior-site-reliability-engineer/job) | Steampunk | McLean, VA, United States | 50 | rules: 10+ yrs exp; senior title; E-Verify; needs: security clearance |
 | 11:00 PM | [Systems Administrator](https://careers-americansystems.icims.com/jobs/5521/systems-administrator/job) | AMERICAN SYSTEMS | Colorado Springs, CO, United States | 30 | rules: 5+ yrs exp; needs: TS/SCI Clearance |
 | 11:00 PM | [NOC Network Administrator](https://careers-dminc.icims.com/jobs/29163/noc-network-administrator/job) | DMI | Hanover, MD, United States | 60 | rules: 2+ yrs exp; needs: Must be a U.S. Citizen |
 | 11:00 PM | [System Administrator](https://careers-bnh.icims.com/jobs/25363/system-administrator/job) | Beyond New Horizons | Arnold AFB, TN, United States | 40 | rules: 4+ yrs exp; no future H-1B sponsorship; needs: security cleara… |
