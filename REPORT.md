@@ -1,14 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**197 jobs**, newest first. Updated Wed Nov 25, 6:37 AM CST from 12,535 company job boards and other sources.
+**196 jobs**, newest first. Updated Wed Nov 25, 6:49 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 183 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,218 matching jobs that job sites and feeds listed this week, 1,881 (58%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (36)](#wednesday-nov-18-36)
+Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (35)](#wednesday-nov-18-35)
 
 ## Wednesday, Nov 25 (2)
 
@@ -206,7 +204,7 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 1:00 AM | [IT Systems Engineer](https://jobs.dayforcehcm.com/en-US/avisystems/CANDIDATEPORTAL/jobs/7725) | Avisystems | Minneapolis, MN, US | 50 |  |
 | 12:07 AM (seen) | [Senior Site Reliability Engineer](https://app.careerpuck.com/job-board/blinkhealth/job/75nQcAvf) | Blinkhealth | New York, NY; Pittsburgh, PA; Seattle, … | 40 | senior title, years not stated |
 
-## Wednesday, Nov 18 (36)
+## Wednesday, Nov 18 (35)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -245,7 +243,6 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 10:17 AM | [Senior Network Engineer - Enterprise Connectivity](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24215) | Montenson | MN, United States | 35 | senior title, years not stated; no future H-1B sponsorship |
 | 8:42 AM | [Software Engineer - Platform Engineering](https://job-boards.greenhouse.io/twilio/jobs/8385593) | Twilio | Remote - US (remote) | 67 | E-Verify |
 | 8:22 AM | [Senior Software Engineer - Cloud Infrastructure - (US Remote)](https://jobs.ashbyhq.com/clickhouse/caf49f06-ed35-4637-9372-f4df114e852f) | ClickHouse | NAMER and LatAm; United States | 55 | senior title, years not stated |
-| 6:49 AM | [Infrastructure Engineer, GPU Clusters](https://jobs.ashbyhq.com/prior-labs/885bf4f6-e68c-4fc5-8385-e8d3615093fe) | Prior Labs | Berlin; Freiburg; New York (onsite) | 65 | 3+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (376)
 
