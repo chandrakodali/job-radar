@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**198 jobs**, newest first. Updated Wed Nov 25, 5:19 AM CST from 12,580 company job boards and other sources.
+**198 jobs**, newest first. Updated Wed Nov 25, 5:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 183 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,211 matching jobs that job sites and feeds listed this week, 1,875 (58%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (37)](#wednesday-nov-18-37)
 
@@ -246,7 +248,7 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 6:49 AM | [Infrastructure Engineer, GPU Clusters](https://jobs.ashbyhq.com/prior-labs/885bf4f6-e68c-4fc5-8385-e8d3615093fe) | Prior Labs | Berlin; Freiburg; New York (onsite) | 65 | 3+ yrs exp |
 | 6:09 AM | [Sr. Oracle Integration Cloud (OIC) Developer](https://jobs.lever.co/jobgether/3a413aaa-159b-4f2e-99e0-4d3c78bc4fa4) | Jobgether | US (remote) | 52 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (377)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (376)
 
 <details><summary>Show</summary>
 
@@ -579,7 +581,6 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 12:26 PM | [Senior System Administrator, File Services and Storage](https://job-boards.greenhouse.io/jensenhughes/jobs/5480462008) | Jensenhughes | Remote (remote) | 27 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:39 AM | [Senior Platform Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6254196004) | PlayStation | United States, San Mateo, CA | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 11:02 AM | [Production Engineer](https://jobs.ashbyhq.com/saronic/89bb0c2e-5141-49d6-9abe-d88702d36751) | Saronic | Brownsville, TX (onsite) | 55 | rules: adjacent title, little DevOps/cloud work in the text |
-| date only | [Senior Platform Engineer (Remote)](https://apply.workable.com/hospitable/j/A2091F150C/) | Hospitable | Remote, Oregon, United States (remote) | 42 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [System Administrator III](https://hyundaiautoeveramerica.applytojob.com/apply/8FbV6EM8le/System-Administrator-III) | Hyundai AutoEver America | Savannah, GA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Systems Administrator I](https://jobs.jobvite.com/synqor-careers/job/oTi7AfwC) | SynQor | Salem, New Hampshire, United States | 70 | rules: entry-level title; 1+ yrs exp; adjacent title, little DevOps/c… |
 | date only | [Infrastructure Analyst](https://delawareparkcasinoracing.applytojob.com/apply/nEAKCV6GnA/Infrastructure-Analyst) | Delaware Park Casino & Racing | Wilmington, DE | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
