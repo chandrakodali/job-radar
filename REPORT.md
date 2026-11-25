@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**200 jobs**, newest first. Updated Wed Nov 25, 2:19 AM CST from 12,580 company job boards and other sources.
+**199 jobs**, newest first. Updated Wed Nov 25, 2:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 183 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (1)](#wednesday-nov-25-1) · [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (40)](#wednesday-nov-18-40)
+Coverage check: of 3,151 matching jobs that job sites and feeds listed this week, 1,833 (58%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Wed 25 (1)](#wednesday-nov-25-1) · [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (39)](#wednesday-nov-18-39)
 
 ## Wednesday, Nov 25 (1)
 
@@ -203,7 +205,7 @@ Jump to: [Wed 25 (1)](#wednesday-nov-25-1) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 1:00 AM | [IT Systems Engineer](https://jobs.dayforcehcm.com/en-US/avisystems/CANDIDATEPORTAL/jobs/7725) | Avisystems | Minneapolis, MN, US | 50 |  |
 | 12:07 AM (seen) | [Senior Site Reliability Engineer](https://app.careerpuck.com/job-board/blinkhealth/job/75nQcAvf) | Blinkhealth | New York, NY; Pittsburgh, PA; Seattle, … | 40 | senior title, years not stated |
 
-## Wednesday, Nov 18 (40)
+## Wednesday, Nov 18 (39)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -246,7 +248,6 @@ Jump to: [Wed 25 (1)](#wednesday-nov-25-1) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 6:09 AM | [Sr. Oracle Integration Cloud (OIC) Developer](https://jobs.lever.co/jobgether/3a413aaa-159b-4f2e-99e0-4d3c78bc4fa4) | Jobgether | US (remote) | 52 | senior title, years not stated |
 | 4:37 AM (seen) | [Senior DevOps Engineer II](https://tabby.pinpointhq.com/en/postings/45b8b691-4607-45e3-8caf-b9644845df08) | Tabby | Remote (remote) | 32 | 3+ yrs exp; senior title; location unclear |
 | 4:04 AM | [ML Ops Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6240810004) | PlayStation | United States, San Diego, CA | 60 | 3+ yrs exp |
-| 2:28 AM | [Infrastructure Support Specialist](https://jobs.lever.co/jobgether/16c47193-e372-4376-9293-7163f7e7d474) | Jobgether | US (remote) | 72 | 2+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (378)
 
