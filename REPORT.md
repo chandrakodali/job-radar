@@ -1,17 +1,20 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**204 jobs**, newest first. Updated Tue Nov 24, 8:19 PM CST from 12,580 company job boards and other sources.
+**204 jobs**, newest first. Updated Tue Nov 24, 8:37 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-184 repeat listings (same company and title in another place or on another source) are merged into one row.
+183 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (3)](#tuesday-nov-17-3)
+Coverage check: of 3,032 matching jobs that job sites and feeds listed this week, 1,746 (57%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Tuesday, Nov 24 (34)
+Jump to: [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (43)](#wednesday-nov-18-43) · [Tue 17 (2)](#tuesday-nov-17-2)
+
+## Tuesday, Nov 24 (35)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 8:16 PM | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/base-power/10772e1c-dfad-4161-9e9e-5f34728c4745) | Base Power | Austin, TX (onsite) | 70 |  |
 | 5:55 PM | [IT Infrastructure Support Engineer](https://jobs.workable.com/view/ws2LmrymTb3KPXhHEA4LXa/it-infrastructure-support-engineer-in-auburn-hills-at-samsung-sds-america) | Samsung SDS America | Auburn Hills, Michigan (onsite) | 70 |  |
 | 5:07 PM | [Site Reliability / Cloud Platform Engineer (Agent Infra)](https://jobs.ashbyhq.com/baseten/cfc186d9-261a-46c6-87a9-fb001edf57e1) | Baseten | San Francisco (hybrid) | 70 |  |
 | 4:01 PM | [Demo Platform Engineer](https://jobs.ashbyhq.com/vClusterLabs/d150af34-b735-4ad0-8bc2-34af0267f4c7) | vCluster Labs | United States (remote) | 62 |  |
@@ -244,15 +247,14 @@ Jump to: [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) �
 | 2:00 AM | [DevOps](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/905) | Eci | Dallas, TX, US; Chicago, IL, US; New Yo… | 65 |  |
 | 12:02 AM | [System Administrator (Enterprise)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=0bb77723-5db8-455b-a01c-54257189f090&ccId=19000101_000001&jobId=9205261737994_37&lang=en_US) | 0Bb77723 5Db8 455B A01C 54257… |  | 45 | location unclear |
 
-## Tuesday, Nov 17 (3)
+## Tuesday, Nov 17 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:00 PM | [Senior Structural Engineer (Infrastructure Risk) (Ph.D. and P.E. or S…](https://careers-exponent.icims.com/jobs/2682/senior-structural-engineer-%28infrastructure-risk%29-%28ph.d.-and-p.e.-or-s.e.%29/job) | Exponent | Philadelphia, PA, United States | 55 | senior title, years not stated |
 | 10:37 PM (seen) | [ETQ QMS System Administrator](https://ats.rippling.com/vulcanforms/jobs/7fdb3ecd-a0c7-434c-a90f-a03eec3e0fe1) | Vulcanforms | Devens, MA (onsite) | 40 |  |
-| 8:26 PM | [DevOps Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5a22940c-3629-44d9-813a-0ccee8ac9aac&ccId=19000101_000001&jobId=9207425208682_522&lang=en_US) | 5A22940C 3629 44D9 813A 0Ccee… | Austin, TX | 58 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (378)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (379)
 
 <details><summary>Show</summary>
 
@@ -302,6 +304,7 @@ Jump to: [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) �
 | date only | [Technical Leader, SRE/Go development](https://careers.cisco.com/global/en/job/CISCISGLOBAL2025037EXTERNALENGLOBAL) | Cisco | San Francisco, California, United State… | 33 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | date only | [Site Reliability Engineering Technical Leader](https://careers.cisco.com/global/en/job/CISCISGLOBAL2031554EXTERNALENGLOBAL) | Cisco | Glendale, California, United States of … | 33 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | date only | [AWS Security Operations/Incident Response Engineer, US Amazon Dedicat…](https://www.amazon.jobs/en/jobs/10613594/aws-security-operations-incident-response-engineer-us-amazon-dedicated-cloud-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 58 | rules: needs: Security Clearance |
+| date only | [Senior Cloud Software Engineer, Developer Tools](https://nvidia.eightfold.ai/careers/job/893397527481) | Nvidia | Santa Clara, CA, US (onsite) | 38 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 9:58 AM | [DevSecOps Engineer](https://jobs.ashbyhq.com/noda-ai/a660e584-e5df-45aa-bc46-0cf8fc6c0a1e) | Noda Ai | Austin (hybrid) | 50 | rules: 5+ yrs exp; needs: security clearance |
 | 9:53 AM | [Senior Systems Administrator (Active TS with SCI Eligibility Required)](https://careers.akima.com/jobs/29768?lang=en-us) | Akima | MacDill Air Force Base, Florida | 30 | rules: 5+ yrs exp; senior title; needs: TS clearance |
 | 9:45 AM | [Window System Administrator (EMM/Knox Admin)](https://jobs.smartrecruiters.com/SyncreonConsulting/744000163491859-window-system-administrator-emm-knox-admin-) | Syncreon Consulting | Plano, TX, United States | 40 | rules: 3+ yrs exp; staffing/consulting firm: verify it's real; adjace… |
