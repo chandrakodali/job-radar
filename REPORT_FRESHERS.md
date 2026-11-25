@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**387 jobs**, newest first. Updated Wed Nov 25, 3:19 AM CST from 12,535 company job boards and other sources.
+**379 jobs**, newest first. Updated Wed Nov 25, 3:33 AM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-175 repeat listings (same company and title in another place or on another source) are merged into one row.
+174 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,672 matching jobs that job sites and feeds listed this week, 992 (21%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Wed 25 (4)](#wednesday-nov-25-4) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (54)](#wednesday-nov-18-54)
+Jump to: [Wed 25 (4)](#wednesday-nov-25-4) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (46)](#wednesday-nov-18-46)
 
 ## Wednesday, Nov 25 (4)
 
@@ -378,7 +376,7 @@ Jump to: [Wed 25 (4)](#wednesday-nov-25-4) · [Tue 24 (58)](#tuesday-nov-24-58) 
 | 12:05 AM | [Systems Support Specialist I - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4416) | City of Oklahoma City | Oklahoma  City, OK, United States (onsite) | 80 | entry-level title |
 | 12:00 AM | [Technical Training Specialist](https://jobs.dayforcehcm.com/en-US/pcg/CANDIDATEPORTAL/jobs/11378) | Pcg | Lenexa, KS, US | 75 | 1+ yrs exp |
 
-## Wednesday, Nov 18 (54)
+## Wednesday, Nov 18 (46)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -428,14 +426,6 @@ Jump to: [Wed 25 (4)](#wednesday-nov-25-4) · [Tue 24 (58)](#tuesday-nov-24-58) 
 | 8:42 AM | [Software Engineer - Platform Engineering](https://job-boards.greenhouse.io/twilio/jobs/8385593) | Twilio | Remote - US (remote) | 77 | entry level (from the text); E-Verify |
 | 8:04 AM | [AI Researcher / Engineer](https://jobs.ashbyhq.com/Clera/2f66e84d-aee6-4cbf-b041-2ef10678c6e0) | Clera | remote | 70 | 0-2 yrs exp; location unclear |
 | 7:56 AM | [SAP Developer - IT Customer & Metering Systems](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FirstEnergyCareers/job/105962) | FirstEnergy | Akron, OH, United States | 70 | entry level (from the text); no future H-1B sponsorship |
-| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Coronado Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826253) | Macy's | Albuquerque, NM, United States | 75 | entry-level title |
-| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Cumberland Mall](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826254) | Macy's | Atlanta, GA, United States | 75 | entry-level title |
-| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Mall Del Norte](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826244) | Macy's | Laredo, TX, United States | 75 | entry-level title |
-| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Culver City Cen…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826238) | Macy's | Culver City, CA, United States | 75 | entry-level title |
-| 3:27 AM | [Administrative Support Team Associate, Willowbrook Mall - NJ - Full T…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826206) | Macy's | Wayne, NJ, United States | 85 | entry-level title; 1+ yrs exp |
-| 3:26 AM | [Administrative Support Team Associate, Haywood Mall - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826173) | Macy's | Greenville, SC, United States | 85 | entry-level title; 1+ yrs exp |
-| 3:26 AM | [Administrative Support Team Associate, Broward Mall - Flex](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826174) | Macy's | Plantation, FL, United States | 85 | entry-level title; 1+ yrs exp |
-| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Southland - MI](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826161) | Macy's | Taylor, MI, United States | 75 | entry-level title |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1502)
 
