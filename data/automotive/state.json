@@ -14024,7 +14024,7 @@
    "since": "2026-11-11"
   }
  },
- "found_cursor": 3011,
+ "found_cursor": 41,
  "last_digest": "2026-11-24",
  "missed_companies": {},
  "missing_once": {
@@ -21220,7 +21220,7 @@
   },
   "chronosphere": {
    "ats": null,
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   "circleci": {
    "ats": "greenhouse",
@@ -21232,7 +21232,7 @@
   },
   "confluent": {
    "ats": null,
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   "coreweave": {
    "ats": "greenhouse",
@@ -21248,7 +21248,7 @@
   },
   "dbtlabsinc": {
    "ats": null,
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   "digitalocean98": {
    "ats": "greenhouse",
@@ -21284,7 +21284,7 @@
   },
   "flyio": {
    "ats": null,
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   "gitlab": {
    "ats": "greenhouse",
@@ -21292,7 +21292,7 @@
   },
   "grammarly": {
    "ats": null,
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   "gusto": {
    "ats": "greenhouse",
@@ -21300,7 +21300,7 @@
   },
   "harness": {
    "ats": null,
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   "harnessinc": {
    "ats": "greenhouse",
@@ -21312,7 +21312,7 @@
   },
   "hubspot": {
    "ats": null,
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   "instacart": {
    "ats": "greenhouse",
@@ -21372,11 +21372,11 @@
   },
   "retool": {
    "ats": null,
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   "rippling": {
    "ats": null,
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   "samsara": {
    "ats": "greenhouse",
@@ -21384,11 +21384,11 @@
   },
   "soloio": {
    "ats": null,
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   "sourcegraph": {
    "ats": null,
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   "sourcegraph91": {
    "ats": "greenhouse",
@@ -21420,11 +21420,11 @@
   },
   "teleport": {
    "ats": null,
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   "temporaltechnologies": {
    "ats": null,
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   "toast": {
    "ats": "greenhouse",
@@ -93004,7 +93004,7 @@
   "zoho:stackand:311383000018775968": "2026-11-15"
  },
  "source_last": {},
- "term_cursor": 21,
+ "term_cursor": 31,
  "text_retries": {
   "avature:harmanglobal.avature.net|en_US/careers:32174": 2,
   "avature:harmanglobal.avature.net|en_US/careers:32516": 2,
