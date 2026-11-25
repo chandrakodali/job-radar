@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**194 jobs**, newest first. Updated Wed Nov 25, 8:37 AM CST from 12,535 company job boards and other sources.
+**194 jobs**, newest first. Updated Wed Nov 25, 8:49 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 183 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,268 matching jobs that job sites and feeds listed this week, 1,916 (58%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (33)](#wednesday-nov-18-33)
 
@@ -244,7 +242,7 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | date only | [DevOps Engineer](https://careers.capgemini.com/job/Atlanta%2C-GA-DevOps-Engineer-GA-30301/1458630333/) | Capgemini | Atlanta, GA, United States | 53 |  |
 | 10:17 AM | [Senior Network Engineer - Enterprise Connectivity](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24215) | Montenson | MN, United States | 35 | senior title, years not stated; no future H-1B sponsorship |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (373)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (371)
 
 <details><summary>Show</summary>
 
@@ -578,7 +576,6 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 12:26 PM | [Senior System Administrator, File Services and Storage](https://job-boards.greenhouse.io/jensenhughes/jobs/5480462008) | Jensenhughes | Remote (remote) | 27 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:39 AM | [Senior Platform Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6254196004) | PlayStation | United States, San Mateo, CA | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 11:02 AM | [Production Engineer](https://jobs.ashbyhq.com/saronic/89bb0c2e-5141-49d6-9abe-d88702d36751) | Saronic | Brownsville, TX (onsite) | 55 | rules: adjacent title, little DevOps/cloud work in the text |
-| date only | [Infrastructure Analyst](https://delawareparkcasinoracing.applytojob.com/apply/nEAKCV6GnA/Infrastructure-Analyst) | Delaware Park Casino & Racing | Wilmington, DE | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Mid-Level Google Cloud Platform Looker Developer](https://apply.workable.com/credence/j/072FAF32A3/) | Credence | Tysons, Virginia, United States | 60 | rules: 4+ yrs exp; needs: Secret clearance |
 | date only | [Configuration Management Analyst (Journeyman)](https://synecsolu.applytojob.com/apply/unMc0EES16/Configuration-Management-Analyst-Journeyman) | Synectic Solutions | Patuxent River, MD | 30 | rules: 5+ yrs exp; needs: security clearance |
 | date only | [Cloud Engineer](https://analyticallc.applytojob.com/apply/x7bxOAoNux/Cloud-Engineer) | Analytica | Washington, DC | 60 | rules: 3+ yrs exp; needs: security clearance |
@@ -597,7 +594,6 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 9:59 AM | [Azure AI Platform Engineer III/Senior](https://job-boards.greenhouse.io/eqtcorporation/jobs/5486501008) | EQT Corporation | Remote (remote) | 37 | rules: 6+ yrs exp; senior title; location unclear; asks for 6+ years … |
 | 8:39 AM | [DevSecOps Engineer - AWS - Northeast region](https://boards.greenhouse.io/guidepointsecurity/jobs/6264977004?gh_jid=6264977004) | GuidePoint Security | Remote (remote) | 37 | rules: 6+ yrs exp; no future H-1B sponsorship; asks for 6+ years of e… |
 | 3:00 AM | [Senior Strategic Sourcing Specialist - Rail Infrastructure](https://jobs.dayforcehcm.com/en-US/omnitrax/CANDIDATEPORTAL/jobs/4991) | Omnitrax | Denver, CO, US | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 11:00 PM | [Human Resources Enterprise Systems Administrator - HR Systems](https://careers-dartmouth-hitchcock.icims.com/jobs/43203/human-resources-enterprise-systems-administrator---hr-systems/job) | Dartmouth Health | Lebanon, NH, United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [SME Level Network Engineer](https://careers-markon.icims.com/jobs/8864/sme-level-network-engineer/job) | Markon | Sterling, VA, United States | 50 | rules: needs: TS/SCI clearance |
 | 11:00 PM | [Network Engineer - Senior](https://careers-markon.icims.com/jobs/8862/network-engineer---senior/job) | Markon | Sterling, VA, United States | 30 | rules: 6+ yrs exp; senior title; needs: TS/SCI clearance |
 | 11:00 PM | [Network Administrator](https://careers-primehealthcare.icims.com/jobs/285340/network-administrator/job) | Prime Healthcare | Anaheim, CA, United States | 60 | rules: 2+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
