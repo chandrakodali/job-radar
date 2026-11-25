@@ -1,18 +1,21 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**388 jobs**, newest first. Updated Wed Nov 25, 1:31 AM CST from 12,580 company job boards and other sources.
+**388 jobs**, newest first. Updated Wed Nov 25, 2:19 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 174 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (56)](#wednesday-nov-18-56)
+Coverage check: of 4,577 matching jobs that job sites and feeds listed this week, 973 (21%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Wednesday, Nov 25 (2)
+Jump to: [Wed 25 (3)](#wednesday-nov-25-3) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (55)](#wednesday-nov-18-55)
+
+## Wednesday, Nov 25 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Junior Data Science Analyst (11-month fixed-term contract)](https://astrazeneca.eightfold.ai/careers/job/563877691907447) | Astrazeneca | , , (onsite) | 75 | entry-level title; location unclear |
+| date only | [Advanced Level 1 IT Technician (MSP)](https://digacore.bamboohr.com/careers/225) | Digacore | Lakewood, New Jersey | 85 | entry-level title; 1+ yrs exp |
 | 3:45 AM | [Post Peer Support Specialist (Buncombe County, NC)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=11234a05-dd20-44aa-9b1f-ca7bb9f6eba3&ccId=19000101_000001&jobId=9201256990292_80&lang=en_US) | 11234A05 Dd20 44Aa 9B1F Ca7Bb… | Remote, NC; Asheville, NC | 75 | 1+ yrs exp |
 
 ## Tuesday, Nov 24 (59)
@@ -375,7 +378,7 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (59)](#tuesday-nov-24-59) 
 | 12:05 AM | [Systems Support Specialist I - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4416) | City of Oklahoma City | Oklahoma  City, OK, United States (onsite) | 80 | entry-level title |
 | 12:00 AM | [Technical Training Specialist](https://jobs.dayforcehcm.com/en-US/pcg/CANDIDATEPORTAL/jobs/11378) | Pcg | Lenexa, KS, US | 75 | 1+ yrs exp |
 
-## Wednesday, Nov 18 (56)
+## Wednesday, Nov 18 (55)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -434,9 +437,8 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (59)](#tuesday-nov-24-59) 
 | 3:26 AM | [Administrative Support Team Associate, Broward Mall - Flex](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826174) | Macy's | Plantation, FL, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Southland - MI](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826161) | Macy's | Taylor, MI, United States | 75 | entry-level title |
 | 2:19 AM | [Junior Security Engineer](https://jobs.lever.co/jobgether/7d7aae14-b608-463f-82c1-8eda7918b8cd) | Jobgether | US (remote) | 82 | entry-level title; 1+ yrs exp |
-| 2:00 AM | [Associate Engineer Electric Delivery & Planning](https://jobs.pseg.com/job/Secaucus-Associate-Engineer-Electric-Delivery-&-Planning-NJ-07094/1441785200/) | Public Service Enterprise Gro… | Secaucus, NJ, United States | 78 | entry-level title; 0-2 yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1508)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1504)
 
 <details><summary>Show</summary>
 
