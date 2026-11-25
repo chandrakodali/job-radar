@@ -1,10 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**75 jobs**, newest first. Updated Wed Nov 25, 8:45 AM CST from 12,580 company job boards and other sources.
+**75 jobs**, newest first. Updated Wed Nov 25, 9:19 AM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 176 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,375 matching jobs that job sites and feeds listed this week, 2,038 (46%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (13)](#friday-nov-20-13) · [Thu 19 (15)](#thursday-nov-19-15) · [Wed 18 (18)](#wednesday-nov-18-18)
 
@@ -118,12 +120,13 @@ Jump to: [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (15)](#monday-nov-23-15) �
 | date only | [Advanced Engineer-Java Backend](https://jobsearch.harman.com/en_US/careers/JobDetail/Advanced-Engineer-Java-Backend/33352) | HARMAN International |  | 60 | location unclear |
 | 10:00 AM | [SEO Full Stack Engineer](https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805) | Treatwell | Remote, US (remote) | 40 | requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (73)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (74)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 8:55 AM | [Senior Software Engineer](https://jobs.smartrecruiters.com/RenesasElectronics/744000163705185-senior-software-engineer) | Renesas Electronics | Austin, TEXAS, United States (hybrid) | 35 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 7:43 PM | [Full Stack Java Developer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a514fa2f-d9f3-4d40-99fb-28d956698e2f&ccId=19000101_000001&jobId=9201318666888_17&lang=en_US) | A514Fa2F D9F3 4D40 99Fb 28D95… | Washington, DC | 45 | rules: 8+ yrs exp; needs: Secret clearance |
 | 3:56 PM | [Senior Software Engineer](https://ford.eightfold.ai/careers/job/563568454231459) | Ford | US (onsite) | 35 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 3:56 PM | [Senior Software Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74559) | Ford Motor Company | United States (remote) | 27 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
