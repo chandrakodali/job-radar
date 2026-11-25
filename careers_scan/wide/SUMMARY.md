@@ -1,6 +1,6 @@
 # Wide sweep summary
 
-Updated 2026-11-24.
+Updated 2026-11-25.
 
 Crawls swept: CC-MAIN-2026-39, CC-MAIN-2026-43.
 
@@ -8,41 +8,41 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 
 ## By tier
 
-- 1: 23174
-- 2: 108197
-- 3: 303006
-- 4: 94528
-- 5: 32344
-- 9: 94045
+- 1: 23101
+- 2: 108252
+- 3: 303173
+- 4: 94549
+- 5: 32359
+- 9: 93860
 
 ## By category
 
-- unknown: 94045
-- ats: 44201
-- blocked: 2796
-- careers_page_unclear: 281801
-- doc: 1302
-- email: 54273
-- external_board: 7277
-- form: 75796
+- unknown: 93860
+- ats: 44209
+- blocked: 2797
+- careers_page_unclear: 281951
+- doc: 1301
+- email: 54260
+- external_board: 7284
+- form: 75792
 - js_only: 461
-- no_careers_page: 43050
-- no_openings: 21205
-- robots_disallowed: 8329
-- unreachable: 20758
+- no_careers_page: 43056
+- no_openings: 21222
+- robots_disallowed: 8336
+- unreachable: 20765
 
 ## By us
 
-- unknown: 94045
-- non_us: 37131
-- unknown: 290963
-- us: 233155
+- unknown: 93860
+- non_us: 37151
+- unknown: 291038
+- us: 233245
 
 ## By via
 
-- unknown: 94045
-- archive: 44150
-- live: 517099
+- unknown: 93860
+- archive: 43753
+- live: 517681
 
 ## Tier 1 sites
 
@@ -83,7 +83,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - & Opportunities (nirmalacp.org)
 - & Other Opportunities (teachpsych.org)
 - & Recruitment Opportunities (elmex.net)
-- & Shape Tamil Learning (playwithtamil.com)
 - & Technical Education (columbiak12.com)
 - & Technical Education (stmaryk12.net)
 - & Trades Resources (acementorla.org)
@@ -91,7 +90,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - '58 Foundations & Waterproofing (58foundations.com)
 - (1SS&C) (1sourcesecurity.com)
 - (973) 763-6611 (uniontool-mold.com)
-- (All) (usvisf.com)
 - +91 90871 16687 (mdsdigitalhub.com)
 - - Call us: 021 120 33 32 (neocruit.com)
 - . (mcmastermse.com)
@@ -127,7 +125,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 123AceTheTest (123acethetest.com)
 - 12nets Inc (12nets.com)
 - 14K Business Solutions (14kbsol.com)
-- 151 Kitchen / Bar (151elmhurst.com)
 - 16th Street Baptist Church (16thstreetbaptist.org)
 - 1800Esupply (1800esupply.com)
 - 1903 Design Studio (1903designstudio.com)
@@ -223,7 +220,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 42dot (42dot.ai)
 - 42Gears (42gears.com)
 - 4411 Inn & Suites (4411innandsuites.com)
-- 45 Experts & Growing (novadip.com)
 - 48Taxi & Limo - (48taxi.co)
 - 4:59 Barber Lounge - Indianapolis & Westfield (459online.com)
 - 4A (4adist.com)
@@ -244,5 +240,9 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 4M Career (4mcareer.com)
 - 4M INDUSTRIES INC. (4mindustries.com)
 - 4Matic Valve – (4maticvalves.com)
+- 4plusgroup.com (4plusgroup.com)
 - 4Property (4property.com)
 - 4Science (4science.com)
+- 4Serv INC (4serv.net)
+- 4Sight Group (4sight.group)
+- 4Team Corporation (4team.biz)
