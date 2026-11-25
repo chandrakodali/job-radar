@@ -59,6 +59,7 @@ Remote, Germany, EMEA
 Staff Software Engineer
 Toronto, Ontario, Canada
 Software Engineer
+Software Development Engineer in Test II
 Principal Software Engineer, AI Tooling & Adoption
 Staff Software Engineer, Full Stack
 Staff Software Engineer, Fusion Adapters
@@ -79,6 +80,7 @@ Senior Software Development Engineer in Test, Database Automation
 Technical Program Manager, Security
 Senior Software Engineer, Orchestration
 Senior Staff Site Reliability Engineer
+Senior Software Development Engineer in Test
 Senior Program Manager
 Senior Staff Software Engineer, SAP Connectors
 Amsterdam, North Holland, Netherlands, EMEA
@@ -183,6 +185,7 @@ IRL - Dublin (dbt)
 Sales Development Representative, German Speaking
 Business Development Rep, Enterprise, DACH
 Sales Development Representative, Enterprise
+Business Development Rep, Enterprise, German Speaking
 Strategy & Operations Department
 Revenue Operations Manager
 Global Head of Deal Strategy and Operations

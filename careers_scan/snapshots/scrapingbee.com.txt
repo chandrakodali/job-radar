@@ -263,21 +263,20 @@ Simply sign up for your free API key with 1000 free credits. Install our SDK, sp
 Can I integrate this with my recruitment database or ATS?
 Absolutely. Our API returns clean, structured JSON that can be easily integrated with any recruitment database, applicant tracking system, or business intelligence tool. The consistent data format makes integration straightforward for both technical and non-technical teams.
 Related Articles
+17 min read
+Bypassing JA4 Fingerprinting in Python with curl_cffi and uTLS
+Learn what your Python scraper's JA4 fingerprint reveals, why it beats JA3 at catching bots, and how to match Chrome's JA4 with curl_cffi and uTLS.
+Pablo del Arco
+23 November 2026
 16 min read
 GTA 6 Reviews: Critics Say 99. Do 304,000 Players Agree?
 GTA 6 reviews from critics average 99. We scraped store ratings from 304,000 players in launch week to see if players agree, and what they complain about.
 Kamil Zwarycz
-23 November 2026
 25 min read
 What Is a CAPTCHA Solver? How Solvers Work, Their Limits and Better Alternatives
 A CAPTCHA solver completes CAPTCHAs with human workers or AI. Learn how solvers work, what research shows, the legal risks and better alternatives.
 Thalia Barrera
 18 November 2026
-54 min read
-The Complete Guide to Python Web Scraping: Requests, Playwright, Scrapy and a Scraping API
-Learn web scraping with Python step by step, from your first Requests script to Playwright, Scrapy and a scraping API.
-Ismail Ajagbe
-16 November 2026
 Explore Web Scraping Blog
 All Available Scrapers
 Browse our complete collection of web scraping APIs

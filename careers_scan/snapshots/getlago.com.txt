@@ -21,7 +21,7 @@ Developers
 API reference Changelog Community Documentation Build with AI agents
 Company
 Resources
-The monetization academy Billing glossary Blog Knowledge base Stripe fee calculator
+Launch weeks The monetization academy Billing glossary Blog Knowledge base Stripe fee calculator
 Connect
 GitHub LinkedIn Slack Youtube X (Twitter)
 All systems normal

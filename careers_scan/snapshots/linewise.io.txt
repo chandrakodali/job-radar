@@ -10,7 +10,7 @@ Engineers, operators and researchers work side by side, and you work closely wit
 One global team.
 We're based in San Francisco, with global operations. English is the working language.
 Open roles
-9 open roles
+10 open roles
 CNC program lead
 Linewise Engineering Global
 Mechanical engineering lead
@@ -24,6 +24,7 @@ VLM researcher
 Linewise Research Bay Area
 Researcher, engineering capability
 Agentic data infrastructure engineer
+Electrical engineer
 Don't see your role?
 Write to us anyway. Send a short note on what you've built and what you want to work on, with a CV or a link to your work.
 Email about joining

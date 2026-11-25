@@ -5,14 +5,10 @@ d_model is a fundamental AI research lab partnering with frontier labs to turn t
 Alignment is an unsolved problem with enormous stakes. We think that interpretability is key to making models safer and more steerable.
 We build RL environments for open-ended interpretability tasks. These environments teach agents how to do cutting-edge research, not how to reward-hack.
 You've already used LLMs trained on our environments. Help us train the next generation.
-Interested in career opportunities? Fill out our Hiring Interest Form
 Open Roles
-Member of Technical Staff
-shaurya's team
 Member of Technical Staff: Alignment
-adi's team
-Member of Technical Staff, Generalist
-dalton's team
+Member of Technical Staff: Generalist - Supercompute
+Member of Technical Staff: Training & RL Research
 Blog
 Discovering Concept-Editing Algorithms With LLM Agents
 Scherlis and Bishka, et al., July 2026
@@ -61,12 +57,17 @@ curry
 summer 2027 interns
 aarush
 aayan
+abhishek
+albert
+angela
 austin
 avnith
 bill
 clinton
+jaydon
 mihir
 nived
 smaran
+spencer
 raymond
 tristan

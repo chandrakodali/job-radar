@@ -137,9 +137,9 @@ Bacula is a Swiss based enterprise backup and restore software company that offe
 Why not be part of this dynamic organization that provides you an optimal place to demonstrate your skills and learn new ones as Bacula meets the ever-evolving demands of our customers.
 Positions currently open:
 You may also be interested in:
-s3 backup software
-continuous data protection
-how to secure backups
+enterprise backup software
+virtual machine backup software
+database backup
 Trademark Guidelines
 Legal Notice
 Sitemap

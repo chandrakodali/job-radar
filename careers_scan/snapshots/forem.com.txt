@@ -6,81 +6,92 @@ Related tags include #resume and #portfolio as resources to enhance your #career
 Older #career posts
 … 75
 … 100
+The Third Cup: You Don't Have to Fly That High
+xulingfeng
+for The Third Cup
+Nov 25
+# discuss
+# career
+# programming
+# webdev
+40 reactions
+14 comments
+10 min read
 One Man Built Linux in a Bedroom. Another Blew Up Three Rockets. Both Are My Idols. Who's Yours? 🚀🐧
 Readers share surprising idols in the comments
 Akhouri Anmol Kumar
 Nov 24
-# discuss
-# career
 # opensource
 # beginners
-49 reactions
-143 comments
+63 reactions
+166 comments
 3 min read
-The Third Cup: Change Never Sleeps
-Connecting ancient philosophy to modern IT systems
-xulingfeng
-for The Third Cup
-Nov 23
-# programming
-# management
-111 reactions
-54 comments
-6 min read
-The Third Cup: After Everything Has a Name
-Connecting coding variables to café regulars
-# webdev
-71 reactions
-29 comments
-7 min read
-Polymaths and Systems Thinkers Will Win the AI Era, and They Were Always the Same Person
-Debashish Ghosal
+I Moved from Coding to Management. Then I Built a Teleprompter to Find My Next Line.
+Liwen Chen
+# showdev
+# swift
+4 comments
+4 min read
+How One Blind Reply on X Took Me to DeepMind's London HQ Twice
+Authenticity beats status every time
+Ananya Soni
+for The Startup Café
 # ai
-# systems
-5 reactions
+# startup
+24 reactions
+10 comments
+2 min read
+From Sales to Software Engineer: How I Learned to Code, and What I'd Do Differently with AI
+Sora Terui
+# learning
+1 reaction
 Add Comment
-9 min read
+6 min read
+Remote, hybrid or on-site? How job postings encode location, and why hybrid is the hardest to find
+Hypestkey
+# seo
+# datascience
+A Memory Exhaustion Bug in Logbook, and Six Review Comments That Made My Fix Better
+VINAYAK GOTE
+# java
+# githubactions
+Automating Coursework Reminders and Sprint Planning as a Full-Time Developer
+William
+# automation
+# workflow
+# python
+Odysseus vs. Agamemnon: Two Ancient Leadership Archetypes and When to Use Them
+Debashish Ghosal
+# leadership
+# management
+9 reactions
+情報処理安全確保支援士は合格がゴールではない：登録・3年更新・講習4回の仕組みをエンジニア向けに整理
+Ukamiru
+# japanese
+# security
+# certification
+1 min read
+Job alerts straight from company career pages: one API for Greenhouse, Lever, Ashby, Workday and 7 more ATS
+whoops
+# webscraping
+# api
 13 Years on a Handshake: Sunk Costs, Hope and the Deal I Should Have Walked Away From
 Ionut-Cristian Florescu
 # freelance
 # founders
 17 min read
-Delegation for New Tech Leads: Six Levels of ‘You Own This’
-Muhammad Azlaan Zubair
-# leadership
-# softwareengineering
+I let AI models interview each other for a job. The liars got hired
+vadim albarov
+# llm
+3 reactions
 1 comment
-The four slots I fill in for $5, and the check I failed to run on myself
-Suki
-4 min read
-Using an AI avatar camera at virtual job fairs and networking events
-赵yj
-# interview
-2 min read
-I Built an AI Tool That Scores Your GitHub, Resume, and Skills Out of 100
-Kartik Shukla
-# showdev
-1 min read
-Will AI Take Your Job? What the Data Actually Says
-Paragon
-for Paragon
-# news
-8 min read
-Engineering Manager Feedback: How to Discuss Performance Beyond the Pull Request
-Action Edge
-3,600 companies are hiring interns right now. Here is who, where and what they pay
-Makerio
-# abotwrotethis
-# jobs
-Lost on YouTube? The Order to Learn AI Engineering
-TechEazy Consulting
-# learning
-Breaking Into Robot Learning: The CPU-First Path, With Receipts (and the 28% Trap)
-Quill Datafix
-# machinelearning
-# robotics
-# tutorial
-5 min read
+11 min read
+About Bhooshan Pandre: Software Developer in Indore
+Bhooshan Pandre
+# angular
+How Can Beginners Start Learning Web Development in 2027?
+Pihu sharma
+# javascript
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Remembering Steven Schrembeck
 Frontend Isn't Dead. But the Job Title Is Changing

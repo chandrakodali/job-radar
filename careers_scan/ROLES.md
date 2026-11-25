@@ -1,10 +1,10 @@
 # Cloud, DevOps, SRE, platform and infrastructure roles (no job board)
 
-Updated 2026-11-24 23:20 UTC. **93 open roles** at 72 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
+Updated 2026-11-25 10:33 UTC. **94 open roles** at 73 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
 
 **Apply:** the ✉ link opens an email to the company's hiring address with the subject filled in; attach your résumé. Scores and notes use the radar's rules (config.yaml): higher is a better early-career fit; "location unclear" means the page didn't say, so check it. 🆕 = first seen in the last 2 days.
 
-## US or location not stated (93)
+## US or location not stated (94)
 
 | Score | Role | Company | Location | Apply | Since | Notes |
 |---:|---|---|---|---|---|---|
@@ -35,6 +35,7 @@ Updated 2026-11-24 23:20 UTC. **93 open roles** at 72 companies that post jobs o
 | 45 | [DevOps Engineer](https://coredge.io/career) | Coredge | ? | [Careers page](https://coredge.io/career) | Nov 11 | location unclear |
 | 45 | [Infrastructure Engineer](https://www.daytona.io/careers) | Daytona | ? | [Careers page](https://www.daytona.io/careers) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer](https://www.getdynamiq.ai/careers/devops-engineer) | Dynamiq | ? | [✉ hello@getdynamiq.ai](mailto:hello@getdynamiq.ai?subject=Application%3A%20DevOps%20Engineer%20%E2%80%93%20Dynamiq) | Nov 11 | location unclear |
+| 45 | [infrastructure engineer](https://e2e.com/careers/infrastructure-engineer) 🆕 | e2e | worldwide | [Careers page](https://e2e.com/careers/infrastructure-engineer) | Nov 25 | location unclear |
 | 45 | [Site Reliability Engineer](https://estuary.dev/about/) | Estuary | ? | [✉ careers@estuary.dev](mailto:careers@estuary.dev?subject=Application%3A%20Site%20Reliability%20Engineer%20%E2%80%93%20Estuary) | Nov 11 | location unclear |
 | 45 | [Infrastructure Engineer](https://www.ehl.markets/careers.html) | Event Horizon Labs | ? | [✉ careers@ehl.markets](mailto:careers@ehl.markets?subject=Application%3A%20Infrastructure%20Engineer%20%E2%80%93%20Event%20Horizon%20Labs) | Nov 11 | location unclear |
 | 45 | [DevOps / SRE Interview Master Guide](https://dev.to/jumptotech/devops-sre-interview-master-guide-4kko) | Forem | ? | [Careers page](https://dev.to/jumptotech/devops-sre-interview-master-guide-4kko) | Nov 18 | location unclear |
@@ -59,8 +60,8 @@ Updated 2026-11-24 23:20 UTC. **93 open roles** at 72 companies that post jobs o
 | 42 | [Software Engineer, Infrastructure](https://orchid.ai/careers/software-engineer-infrastructure) | Orchid | Remote | [✉ work@orchid.ai](mailto:work@orchid.ai?subject=Application%3A%20Software%20Engineer%2C%20Infrastructure%20%E2%80%93%20Orchid) | Nov 11 | location unclear |
 | 42 | [DevOps Engineer](https://www.outsourcingdev.com/careers/) | OutsourcingDev | Remote | [Careers page](https://www.outsourcingdev.com/careers/) | Nov 11 | location unclear |
 | 42 | [Agent Infrastructure Engineer](https://pydantic.dev/jobs/agent-infrastructure-engineer) | Pydantic | Fully remote | [✉ careers@pydantic.dev](mailto:careers@pydantic.dev?subject=Application%3A%20Agent%20Infrastructure%20Engineer%20%E2%80%93%20Pydantic) | Nov 11 | location unclear |
-| 42 | [Cloud Ops Engineer](https://wazuh.com/job/cloud-ops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-ops-engineer/) | Nov 11 | location unclear |
 | 42 | [Cloud Full-Stack Developer](https://wazuh.com/job/full-stack-developer-cloud/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/full-stack-developer-cloud/) | Nov 11 | location unclear |
+| 42 | [Cloud Ops Engineer](https://wazuh.com/job/cloud-ops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-ops-engineer/) | Nov 11 | location unclear |
 | 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
 | 40 | [Senior DevOps Engineer](https://broadleafcommerce.com/senior-devops-engineer/) | Broadleaf Commerce | ? | [✉ careers@broadleafcommerce.com](mailto:careers@broadleafcommerce.com?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20Broadleaf%20Commerce) | Nov 13 | 3+ yrs exp; senior title; location unclear |
 | 40 | [Senior Backend / ML Ops Engineer](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Drafted | In person | [Careers page](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Nov 13 | senior title, years not stated |
@@ -129,7 +130,7 @@ Updated 2026-11-24 23:20 UTC. **93 open roles** at 72 companies that post jobs o
 | 22 | [HPC Platform Engineer](https://meteorops.com/job/hpc-platform-engineer) | MeteorOps | Remote | [Careers page](https://meteorops.com/job/hpc-platform-engineer) | Nov 11 | 5+ yrs exp; location unclear; asks for 5+ years of experien… |
 | 22 | [SRE Freelance Projects](https://meteorops.com/work/sre-freelance-projects) | MeteorOps | Remote | [Careers page](https://meteorops.com/work/sre-freelance-projects) | Nov 11 | 5+ yrs exp; location unclear; asks for 5+ years of experien… |
 | 22 | [Platform Engineer](https://moderne.ai/careers/platform-engineer) | Moderne | Remote | [✉ careers@moderne.io](mailto:careers@moderne.io?subject=Application%3A%20Platform%20Engineer%20%E2%80%93%20Moderne) | Nov 11 | 10+ yrs exp; location unclear; asks for 10+ years of experi… |
-| 22 | [Cloud Cost Optimization Specialist](https://wazuh.com/job/cloud-cost-optimization-specialist/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-cost-optimization-specialist/) | Nov 11 | 5+ yrs exp; location unclear; asks for 5+ years of experien… |
 | 22 | [DevOps Engineer](https://wazuh.com/job/devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/devops-engineer/) | Nov 11 | 5+ yrs exp; location unclear; asks for 5+ years of experien… |
+| 22 | [Cloud Cost Optimization Specialist](https://wazuh.com/job/cloud-cost-optimization-specialist/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-cost-optimization-specialist/) | Nov 11 | 5+ yrs exp; location unclear; asks for 5+ years of experien… |
 
 Full data: [data/roles.csv](data/roles.csv).

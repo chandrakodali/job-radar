@@ -40,18 +40,15 @@ Discover the Kotzilla Platform
 Real problems. Real fixes.
 See how teams use Kotzilla.
 Kotzilla gives Android and KMP teams full visibility into production issues and the context to fix them with or without AI
-Crash reporting
-Unified crash reporting across all KMP targets, including iOS with fully desymbolicated stack traces. One SDK configuration.
-Performance Monitoring
-Identify slow startups, ANRs, and frozen screens. Correlate them with blocking ViewModels or heavy component resolutions.
-Improve Maintainability
-Visualize Koin dependency graphs while ensuring real-time compile safety for maintainable and runtime-safe code.
-Accelerate Fixes with AI
-Connect your AI coding assistant to Kotzilla via the MCP Server. Ask in natural language to find root causes and apply accurate fixes.
-Full Production Visibility
-Get real-time insights on components, threads, and memory to quickly detect and understand app issues and crashes.
-Fast Root Cause Analysis
-Full session, component, and performance context to quickly resolve production issues and minimize user impact.
+The screen and ViewModel behind each ANR
+Crashlytics often stops at nativePollOnce. Kotzilla shows what blocked the main thread, and for how long.
+Fix ANRs →
+See what runs before your first frame
+Your dashboard shows a slow cold start. Kotzilla shows what blocks it on real devices, launch by launch.
+Fix slow startups →
+One SDK for every crash, on every Kotlin target
+Readable iOS crashes from shared Kotlin code, plus Desktop and Web, with the session behind each one.
+Fix crashes →
 faster app startup
 2+ seconds saved on low-memory devices
 Canal+ story →
@@ -119,9 +116,18 @@ The developer observability platform for Android & Kotlin Multiplatform apps. Fr
 Powered by Koin
 Product
 Kotzilla Platform
+MCP Server
+Console
+Koin IDE Plugin
+Kotzilla SDK
 Koin
 Koin LTS
 Pricing
+Use cases
+All use cases
+ANRs
+App startup
+Crash reporting
 Resources
 Blog
 Koin Website

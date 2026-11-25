@@ -1,7 +1,7 @@
 Want to have an impact while having fun ?
 Your next adventure starts below!
 Countries
-All Countries 186
+All Countries 185
 India 15
 Kenya 10
 United Arab Emirates 13
@@ -9,14 +9,14 @@ Italy 4
 Australia 3
 Belgium 43
 Philippines 7
-Hong Kong 15
+Hong Kong 14
 Germany 9
 France 5
 Brazil 7
-Spain 7
 United States 22
-Luxembourg 3
+Spain 7
 Indonesia 15
+Luxembourg 3
 Mexico 8
 Offices
 All Offices 22
@@ -38,7 +38,7 @@ Business Support 1
 Job position
 Filters
 All Countries
-186
+185
 India
 Kenya
 United Arab Emirates
@@ -50,10 +50,10 @@ Hong Kong
 Germany
 France
 Brazil
-Spain
 United States
-Luxembourg
+Spain
 Indonesia
+Luxembourg
 Mexico
 All Offices
 Odoo Inc.

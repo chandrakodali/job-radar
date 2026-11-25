@@ -1,4 +1,4 @@
-Open roles 18
+Open roles 19
 Software
 Robotics Engineer
 San Francisco
@@ -19,7 +19,8 @@ Operations
 Operations Associate
 New
 Sales Lead
-Production Manager
+Director of Manufacturing
+In-house Recruiter
 Research
 ML Researcher
 Audio Research

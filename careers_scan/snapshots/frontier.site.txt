@@ -1,7 +1,7 @@
 careers · open role
 member of technical staff (biological)
 frontier · Cambridge, UK · full-time, permanent
-salary: £90,000 to £250,000 (approx. US$120,000 to US$334,000), plus $0.5–10M in equity
+salary: £90,000 to £250,000+ (approx. US$120,000 to US$334,000+), plus $0.5–10M in equity
 about frontier computing
 frontier computing utilises cultured neural tissue as a computational substrate.
 Biological neurones in vivo perform inference at very low power, several orders of magnitude below what a comparable silicon system would draw, and the cells manufacture themselves.
@@ -44,25 +44,25 @@ Worked on maturation or on the size limit in three dimensional neural constructs
 Built instrumentation across electrophysiology, optogenetics, or other related areas — and used it, not only built it.
 A note on temperament, since it matters here as much as technique. This work suits people who are comfortable being among the few in the world attacking a particular problem, who will stop their own project when the data says to, and who are willing to treat a cost model as a scientific object rather than an administrative chore. It suits people who are not troubled by a thin literature. It is a poor fit for someone who needs an established field to orient within, and we would rather establish that early than late.
 what we can offer
-Compensation. £90,000 to £250,000 (approximately US$120,000 to US$334,000 at current rates) depending on experience, plus $0.5–10M in equity , with the vesting schedule to be agreed at offer. The range is genuine and negotiable, and it reflects that this is a founding position. You would be an owner rather than a member of staff.
-Scientific authority. You choose the problems and you stop the projects. The founder's job is to make sure the company survives long enough for your programme to run. Yours is to make sure it is the right programme to further our technological roadmap.
-Resources. Recurring biology, wet lab and microfluidics infrastructure are funded, and you would shape what we buy rather than inherit someone else's equipment. Budget for the founding scientific team is already available: you will not be writing grant applications.
+Compensation. £90,000 to £250,000+ (approximately US$120,000 to US$334,000+ at current rates) depending on experience, plus $0.5–10M in equity , with the vesting schedule to be agreed at offer. This range is flexible, for truly exceptional candidates we would be willing to stretch compensation even further.
+Scientific authority. You work with the team to design the problems and you kickstart the projects. Our leadership team is there to keep the funding alive to enable continued manufacturing scale-up.
+Resources. Recurring biology, wet lab and microfluidics infrastructure are funded, with capacity for new equipment within the lab space also. Budget for the scientific and engineering team is already available: you will not be writing grant applications.
 A decision, promptly. We will give you an answer within two weeks of a first substantive conversation, and can happily provide the reasoning either way.
 Visa sponsorship. We can sponsor. Candidates at this level frequently qualify for the UK Global Talent visa, and we will support either route and cover the costs.
-Intellectual reward. When the MTS role was first invented, it was built around a desire for flat research environments at Bell Labs, but even where the work is highly secretive, particularly where it pertains to core national compute efforts, we still provide the opportunity to share work via internal reports, receiving recognition from colleagues and enabling you to expand on your discoveries to a group of people that also care deeply about this work.
+Intellectual reward. When the MTS role was first invented, it was built around a desire for flat research environments at Bell Labs, but even where the work is highly secretive, particularly where it pertains to core national efforts; we provide the opportunity to share work via internal reports, receiving recognition from colleagues and enabling you to expand on your discoveries to a group of people that also care deeply about this work. We also dedicate a portion of researcher time to independent work on tail-end research, to inspire a working environment that remains deeply creative.
 Location assistance. We're UK based for our wetlab work, which means this role cannot be performed remotely. We help pay relocation fees to ensure that this is manageable.
 please read this before applying
 frontier computing has raised $10M+ to date . That provides genuine runway and a substantial equipment budget.
-The team at present is a tight knit group with a very flat organisational hierarchy, spread across engineering efforts within lab automation, tissue culture optimisation, and broader computational interfacing including RL environment design.
-We have tried to describe the state of the science accurately rather than favourably. If the risk profile is wrong for you at this point in your career, we would rather know now than half way through your first year in the company. We'd still be interested in chatting with you, particularly around roles that might become relevant in the future.
+The team at present is a tight knit group with a very flat organisational hierarchy, spread across engineering efforts within lab automation, tissue culture optimisation, and scientific research that enables our core outputs.
+We have tried to describe the state of the science accurately. If the risk profile is wrong for you at this point in your career, we would rather know now. We'd still be interested in chatting with you, particularly wrt future roles.
 how to apply
 Please send the following to [email protected] , with "Bio MTS application, [your surname]" in the subject line.
 A CV , in whatever format you prefer. Include publications that are published and accessible, with links; nothing in preparation. Include funding you have held, making clear what was awarded to you personally as against a consortium, and anyone you have supervised.
 A research statement, maximum two pages. Describe the three pieces of work you consider most important to you, with links, and what they established.
 A paragraph on why this rather than the alternatives available to you. We want to hear what excites you about doing science with us, and what motivates you in our research and engineering mission.
 Talent you'd be excited to work with : other researchers that you would want to bring on to work with you, even if they're not currently available. Who in your network would be a dream collaborator if you were working together?
-We do not need a teaching statement. In line with DORA, we are not interested in citation counts, h-indices or journal impact factors, and will disregard them. We will read the papers!
+We do not need a teaching statement. We are not interested in citation counts, h-indices or journal impact factors, and will disregard them. We will read relevant papers.
 apply — [email protected]
-Informal enquiries before applying are genuinely welcome. Write to [email protected] and we will find a time. If you are still deciding whether to leave academia at all, that is a reasonable conversation to have with us even if this particular role turns out not to be the answer.
+Informal enquiries before applying are genuinely welcome. Write to [email protected] and we will find a time.
 Applications are reviewed as they arrive , and we will close the position when we find the right person.
 Frontier Computing LTD is an equal opportunity employer. We are recruiting from the systems neuroscience, tissue engineering and computational communities, and we welcome applications from every background. If you need any adjustments to the hiring process, please inform us within your application and we will be happy to accommodate to the best of our ability.

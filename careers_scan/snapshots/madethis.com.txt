@@ -1,60 +1,46 @@
-The mission
-Self-driving businesses .
-Every business on MadeThis runs itself. The agent writes the code, ships the product, answers the customers, and spends the ad budget. Your job is the platform that makes that true at scale, for the people whose livelihoods now depend on it.
+Careers at MadeThis
+Help everyone do their life’s work
+MadeThis turns the business someone has always dreamed of into one that runs itself. We are a small, founder-led team looking for people who want to build that future with us.
 Open roles
-4 open
-What you'll do
-Own core platform systems end to end: the agent runtime, billing, deploys, the storefront fleet.
-Scale infrastructure that runs tens of thousands of live businesses, each with real customers and real revenue.
-Work directly with the founders. No layers between you and the decisions.
-You might be a fit if
-You have deep expertise in a business function you've worked in before, like finance, marketing, sales, growth, or product, and you can build.
-Or you're a deep infrastructure engineer who wants their work to reach real businesses the same day it ships.
-Data or ML experience is a plus.
-What success looks like in your first 30 days
-Shipped or improved features driving a $1M+ lift in platform revenue.
-Dozens of PRs merged and running in production.
-Evolved our software factory so the agents that build our customers' businesses produce measurably higher quality code.
-Saved MadeThis millions by optimizing infrastructure spend.
+Join the founding team
+Every role here shapes the company. Pick one to read more.
+Founding Product Designer
+Design Full-time In person · San Francisco $160K – $220K
+MadeThis has to feel as simple as describing your dream out loud. You will own how that feels: the web app, the mobile app, the Makers themselves and every moment in between, working directly with the founders from the first sketch to what ships.
+What you’ll do
+Design end to end across web, mobile and our marketing site, from rough flows to polished, shipped detail
+Shape how people brief, approve and trust work that MadeThis does on their behalf
+Grow the MadeThis design system, voice and the world of the Maker characters
+Prototype in code or Figma to test ideas with real business owners every week
+Set the design bar and help hire the team that comes after you
+What you’ll bring
+5+ years designing products people love, with a portfolio that shows craft and judgment
+Strong interaction and visual design, and the taste to know when something is done
+Comfort working in ambiguity and making decisions with little process
+Bonus: you have designed for AI products, or you have run a small business yourself
 Apply for this role
-Embed with one enterprise customer and own the outcome, from the first audit to a working AI employee.
-Build their company brain: connect the tools, model the workflows, train the agent on their best people.
-Work on-site. You're the face of MadeThis inside their walls.
-You're a strong generalist engineer who likes shipping inside someone else's world.
-You can sit with a CEO in the morning and debug a pipeline in the afternoon.
-You want ownership of a customer, not a queue of tickets.
-Sourced, closed, and implemented a mid-market or enterprise deal worth $60k in annual contract value.
-Built repeatable systems from that first deal so the next ones close and deploy faster.
-Own evals, agent architectures, and model strategy end to end.
-Run the loop from research experiments to production systems.
-Build the research function. You're its first member and its leader.
-Set the technical direction toward fully self-driving businesses.
-You have deep hands-on experience with LLM agents, evals, or applied ML research.
-You measure your work by what ships, not what publishes.
-You're comfortable being the entire research org on day one.
-Stood up the eval suite that tells us whether an agent change made the fleet better or worse.
-Landed a model or architecture change in production and measured its effect on real businesses.
-Written the research roadmap the next hires will run against.
-Source, run, and close the enterprise pipeline.
-Define pricing, positioning, and the sales motion with the founders.
-Write the playbook every rep after you will run.
-You've closed six-figure-plus deals, ideally as an early or first sales hire.
-You're technical enough to demo an AI product credibly on your own.
-You'd rather build the machine than inherit one.
-Worked the pipeline that's already forming and put your first enterprise deals into the funnel.
-Run a full demo on your own, with no engineer in the room.
-Shipped the first version of the pricing and positioning you'll sell against.
-How we work
-Small team
-Three people run the whole company. You'd be one of the first hires, and it will show in everything you own.
-High ownership
-You take a problem, you own it to production, and you own it after. Nobody hands you a spec.
-No layers
-You work directly with the founders. Decisions happen in the room, the same day.
-Incredibly fast
-We ship daily to 30,000 live businesses. The distance between an idea and a customer using it is hours.
-Interested? Just write to us.
-Skip the cover letter. Send us the best thing you've built and a few lines about why this. A link beats a résumé.
-founders@madethis.com
-now hiring
-est. 2026 · SF
+Or email careers@madethis.app
+Forward Deployed Engineer
+Engineering Full-time In person · San Francisco $160K – $200K
+You sit between our customers and our product. You will work hands-on with business owners to get MadeThis running their marketing, sales, support and finance, then turn what you learn into the platform so the next thousand businesses get it for free.
+Onboard early customers and build the integrations, workflows and automations their business needs
+Connect MadeThis to the tools businesses already use, from payments and calendars to inboxes and ad platforms
+Debug real-world runs, find where MadeThis gets stuck and fix it at the root
+Write the playbooks and reusable building blocks that make the next launch faster
+Bring the voice of the customer into every product and engineering decision
+4+ years shipping production software, ideally full-stack in TypeScript or Python
+Experience with LLMs, agents or automation, and a healthy sense of where they break
+Clear communication with non-technical people and a bias for getting them unstuck
+Willingness to travel occasionally to work alongside customers
+Researcher
+Research Full-time In person · San Francisco $180K – $300K
+MadeThis is only as good as the decisions it makes for a business it has never met. You will research how AI agents can plan, act and learn safely over long-running work, and turn that into measurable gains in what MadeThis can do.
+Design evaluations for long-running, real-world business tasks, from closing a lead to resolving a dispute
+Improve planning, memory and tool use across our agents
+Study where people need to stay in the loop and how MadeThis earns their trust
+Run experiments quickly and ship what works into the product
+Share what you learn with the team and, where it makes sense, with the wider research community
+A track record in machine learning, agents, human-computer interaction or a related field, through publications, products or both
+Strong experimental design and the engineering skills to run experiments yourself
+Curiosity about how small businesses actually operate
+A PhD is welcome but not required. What you have built matters more.

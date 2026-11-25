@@ -54,3 +54,13 @@ Thank you for your feedback
 Frequently asked questions
 Need to know more about our hiring process?
 Here are a few FAQs that might help!
+Can I apply for multiple positions?
+Yes! You will have to fill each job application form separately though, as we're looking for specific qualifications & experience for every open position.
+How do you track hours for developers? Do you use any tracking software?
+We are, and always have been, strictly against any screen or other activity tracking software. As with any distributed team, we use standard project management software to generate client-facing reports. We trust our team to report their work accurately & diligently.
+How are you always hiring?
+We believe Good People are hard to find. So we never want to lose an opportunity to do Good Work with them.
+Do you offer employment or a contractor positions?
+rtCamp is a legally registered business in the US and India. So we can offer employment with all benefits to anyone who has valid work permits in these countries only. Additionally, we offer full-time contractual positions with equivalent benefits globally.
+Where can I learn more about rtCamp's processes and culture?
+You can go through our rtCamper Handbook – https://handbook.rtcamp.com . If you have any other questions, drop us an email at hiring@rtcamp.com.
