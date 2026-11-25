@@ -1,10 +1,12 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**103 jobs**, newest first. Updated Wed Nov 25, 2:36 AM CST from 12,580 company job boards and other sources.
+**103 jobs**, newest first. Updated Wed Nov 25, 3:26 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 63 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 594 matching jobs that job sites and feeds listed this week, 303 (51%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7)
 
@@ -141,12 +143,13 @@ Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [S
 | date only | [Network Dev Engineer III - AMZ10403606](https://www.amazon.jobs/en/jobs/10608014/network-dev-engineer-iii-amz10403606) | Amazon Data Services, Inc. | Seattle, Washington, USA | 38 | 3+ yrs exp; senior title; network work in the text |
 | 10:17 AM | [Senior Network Engineer - Enterprise Connectivity](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24215) | Montenson | MN, United States | 43 | senior title, years not stated; no future H-1B sponsorship |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (236)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (237)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 3:06 AM | [Proactive Engineer - Converged Network - Remote (San Francisco Bay Ar…](https://jobs.lever.co/jobgether/193dd028-242b-41d1-9b31-41b10bac432c) | Jobgether | San Francisco Bay Area +5 more (remote) | 27 | rules: 10+ yrs exp; network work in the text; asks for 10+ years of e… |
 | 11:01 PM | [Network Engineer - Contract To Hire](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=958067c6-26d0-41f1-8d53-18b1e4c9dc0c&ccId=19000101_000003&jobId=9201122222057_181&lang=en_US) | 958067C6 26D0 41F1 8D53 18B1E… | Salt Lake City, UT | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:58 PM | [Senior Network Engineer, Energy Storage](https://boards.greenhouse.io/redwoodmaterials/jobs/6270789004?gh_jid=6270789004) | Redwood Materials | McCarran, NV | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:51 AM | [Infrastructure Engineer](https://jobs.ashbyhq.com/Intelligence-Security-Laboratories/28b30132-ea74-4230-b9ea-eaa9131ba96a) | Intelligence Security Laborat… | Washington, D.C. (hybrid) | 50 | rules: 4+ yrs exp; network work in the text; needs: security clearance |
