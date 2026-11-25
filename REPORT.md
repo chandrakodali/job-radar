@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**195 jobs**, newest first. Updated Wed Nov 25, 7:50 AM CST from 12,580 company job boards and other sources.
+**195 jobs**, newest first. Updated Wed Nov 25, 8:07 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 183 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,268 matching jobs that job sites and feeds listed this week, 1,916 (58%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (42)](#friday-nov-20-42) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (34)](#wednesday-nov-18-34)
 
@@ -243,7 +245,7 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 10:17 AM | [Senior Network Engineer - Enterprise Connectivity](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24215) | Montenson | MN, United States | 35 | senior title, years not stated; no future H-1B sponsorship |
 | 8:22 AM | [Senior Software Engineer - Cloud Infrastructure - (US Remote)](https://jobs.ashbyhq.com/clickhouse/caf49f06-ed35-4637-9372-f4df114e852f) | ClickHouse | NAMER and LatAm; United States | 55 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (373)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (372)
 
 <details><summary>Show</summary>
 
@@ -605,7 +607,6 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (35)](#tuesday-nov-24-35) 
 | 6:27 PM | [Production Engineer I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=47cff557-9c88-4c72-94fb-3998b410a98f&ccId=19000101_000001&jobId=9201806116709_10&lang=en_US) | 47Cff557 9C88 4C72 94Fb 3998B… | Clackamas, OR | 68 | rules: entry-level title; 1+ yrs exp; E-Verify; needs: ITAR |
 | 5:40 PM | [Paint Production Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ed04d207-5c83-4a05-bb3e-d66a47159585&ccId=19000101_000001&jobId=511113762_6&lang=en_US) | Ed04D207 5C83 4A05 Bb3E D66A4… | Princeton, IN +1 more | 43 | rules: adjacent title, little DevOps/cloud work in the text |
 | 3:43 PM | [Network Engineer III](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=64b85cdf-e793-428c-847d-3c083156603d&ccId=1593362092_8566&jobId=9201462305941_1&lang=en_US) | 64B85Cdf E793 428C 847D 3C083… | Camarillo, CA | 28 | rules: 5+ yrs exp; senior title; E-Verify; asks for 5+ years of exper… |
-| date only | [Reliability Engineer - Level 3](https://ngc.eightfold.ai/careers/job/1340074672055) | Ngc | Chandler, AZ, US (onsite) | 58 | rules: 1+ yrs exp; senior title; needs: security clearance |
 | date only | [Senior Systems Administrator / Acushnet Company](https://acushnetgolf.wd12.myworkdayjobs.com/ACU/job/Carlsbad-California-United-States-of-America/Senior-Systems-Administrator---Acushnet-Company_Req102178) | Acushnet Holdings | Carlsbad, California, United States of … | 28 | rules: 8+ yrs exp; senior title; E-Verify; asks for 8+ years of exper… |
 | date only | [Senior Devops Engineer](https://careers.capgemini.com/job/Atlanta%2C-GA-Senior-Devops-Engineer-GA-30301/1458192933/) | Capgemini | Atlanta, GA, United States | 33 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | date only | [Senior Network Engineer](https://assaabloy.jobs2web.com/job/New-Haven-Senior-Network-Engineer-CT-06511/1458220733/) | ASSA ABLOY | New Haven, CT, United States | 28 | rules: senior title, years not stated; adjacent title, little DevOps/… |
