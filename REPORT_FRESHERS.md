@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**402 jobs**, newest first. Updated Tue Nov 24, 6:19 PM CST from 12,535 company job boards and other sources.
+**400 jobs**, newest first. Updated Tue Nov 24, 6:41 PM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 179 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,385 matching jobs that job sites and feeds listed this week, 935 (21%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Tue 24 (55)](#tuesday-nov-24-55) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (17)](#tuesday-nov-17-17)
+Jump to: [Tue 24 (55)](#tuesday-nov-24-55) · [Mon 23 (65)](#monday-nov-23-65) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (58)](#wednesday-nov-18-58) · [Tue 17 (15)](#tuesday-nov-17-15)
 
 ## Tuesday, Nov 24 (55)
 
@@ -430,7 +428,7 @@ Jump to: [Tue 24 (55)](#tuesday-nov-24-55) · [Mon 23 (65)](#monday-nov-23-65) �
 | 1:00 AM | [Scanning Services - Digital Support Specialist I](https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3608) | Anico | League City, TX, US | 85 | entry-level title; 1+ yrs exp |
 | 12:49 AM | [Online Technical Support Engineer -Campus Hire Program](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040677) | Agilent Technologies | US-DE-Wilmington | 75 | entry-level title |
 
-## Tuesday, Nov 17 (17)
+## Tuesday, Nov 17 (15)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -449,8 +447,6 @@ Jump to: [Tue 24 (55)](#tuesday-nov-24-55) · [Mon 23 (65)](#monday-nov-23-65) �
 | 9:17 PM | [Ground Systems Operations Level 1 Technician](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5c86c854-26b4-4d63-afc8-7cd746a5b057&ccId=19000101_000001&jobId=9205259592874_51&lang=en_US) | 5C86C854 26B4 4D63 Afc8 7Cd74… | Wallops Island, VA | 73 | entry-level title; E-Verify |
 | 9:07 PM | [Product Support Specialist](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d503d7b6-8c3e-4c6d-9d17-38c54012881f&ccId=19000101_000001&jobId=9201811675552_8&lang=en_US) | D503D7B6 8C3E 4C6D 9D17 38C54… | Eau Claire, WI | 68 | 1+ yrs exp |
 | 7:30 PM | [IT Support Engineer](https://jobs.smartrecruiters.com/RRDonnelley/744000162211529-it-support-engineer-) | RR Donnelley | Logan, UT, United States | 85 | 1+ yrs exp; entry level (from the text) |
-| 6:35 PM | [Software Engineer, Agentic Systems - Moveworks](https://jobs.smartrecruiters.com/ServiceNow/744000162190099-software-engineer-agentic-systems-moveworks) | ServiceNow | Mountain View, CALIFORNIA, United States | 85 | 0-2 yrs exp; entry level (from the text) |
-| 6:30 PM | [Software Engineer I, Commerce](https://job-boards.greenhouse.io/twitch/jobs/8949388002) | Twitch | Seattle, WA | 75 | entry-level title |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1520)
 
