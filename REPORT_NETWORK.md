@@ -1,10 +1,12 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**106 jobs**, newest first. Updated Wed Nov 25, 4:06 PM CST from 12,580 company job boards and other sources.
+**106 jobs**, newest first. Updated Wed Nov 25, 5:26 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 62 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 637 matching jobs that job sites and feeds listed this week, 326 (51%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (3)](#wednesday-nov-18-3)
 
@@ -149,12 +151,13 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 | 7:37 PM | [Network Engineer](https://jobs.smartrecruiters.com/Wabtec/3743990016954416-network-engineer) | Wabtec | Pittsburgh, PA, United States (hybrid) | 58 | 3+ yrs exp |
 | 7:33 PM | [Cloud System Administrator (Shift A - Day)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=567e686e-7575-49d9-b29f-985e7365f987&ccId=19000101_000001&jobId=9202919391983_103&lang=en_US) | 567E686E 7575 49D9 B29F 985E7… | USA, Remote | 48 | E-Verify; network work in the text |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (240)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (241)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 4:34 PM | [Senior IT Systems Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/8216726003) | Rocket Lab USA | Long Beach, CA | 40 | rules: entry-level title; 5+ yrs exp; senior title; network work in t… |
 | date only | [Senior Cloud Network Engineer](https://spacedynamicslaboratory.applytojob.com/apply/EXfmjnIIX6/Senior-Cloud-Network-Engineer) | Space Dynamics Laboratory | Colorado Springs, CO +2 more | 45 | rules: 8+ yrs exp; senior title; needs: security clearance |
 | date only | [Field Engineer - Network Communications & Systems Maintainer - Level …](https://ngc.eightfold.ai/careers/job/1340075553519) | Ngc | Colorado Springs, CO, US (onsite) | 60 | rules: 0-2 yrs exp; senior title; network work in the text; needs: Se… |
 | 9:44 AM | [IT Infrastructure Engineer II - 1122](https://jobs.eu.lever.co/quantinuum/d99daf7d-0045-4124-8998-a979e4d2c79d) | Quantinuum | US Broomfield, CO (onsite) | 45 | rules: 3+ yrs exp; network work in the text; needs: must be a U.S. Pe… |
