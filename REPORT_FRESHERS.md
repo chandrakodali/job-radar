@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**390 jobs**, newest first. Updated Wed Nov 25, 12:33 AM CST from 12,580 company job boards and other sources.
+**388 jobs**, newest first. Updated Wed Nov 25, 1:19 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-175 repeat listings (same company and title in another place or on another source) are merged into one row.
+174 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (58)](#wednesday-nov-18-58)
+Coverage check: of 4,577 matching jobs that job sites and feeds listed this week, 973 (21%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (78)](#friday-nov-20-78) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (56)](#wednesday-nov-18-56)
 
 ## Wednesday, Nov 25 (2)
 
@@ -375,7 +377,7 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (59)](#tuesday-nov-24-59) 
 | 12:05 AM | [Systems Support Specialist I - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4416) | City of Oklahoma City | Oklahoma  City, OK, United States (onsite) | 80 | entry-level title |
 | 12:00 AM | [Technical Training Specialist](https://jobs.dayforcehcm.com/en-US/pcg/CANDIDATEPORTAL/jobs/11378) | Pcg | Lenexa, KS, US | 75 | 1+ yrs exp |
 
-## Wednesday, Nov 18 (58)
+## Wednesday, Nov 18 (56)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -435,10 +437,8 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (59)](#tuesday-nov-24-59) 
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Southland - MI](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826161) | Macy's | Taylor, MI, United States | 75 | entry-level title |
 | 2:19 AM | [Junior Security Engineer](https://jobs.lever.co/jobgether/7d7aae14-b608-463f-82c1-8eda7918b8cd) | Jobgether | US (remote) | 82 | entry-level title; 1+ yrs exp |
 | 2:00 AM | [Associate Engineer Electric Delivery & Planning](https://jobs.pseg.com/job/Secaucus-Associate-Engineer-Electric-Delivery-&-Planning-NJ-07094/1441785200/) | Public Service Enterprise Gro… | Secaucus, NJ, United States | 78 | entry-level title; 0-2 yrs exp |
-| 1:00 AM | [Scanning Services - Digital Support Specialist I](https://jobs.dayforcehcm.com/en-US/anico/CANDIDATEPORTAL/jobs/3608) | Anico | League City, TX, US | 85 | entry-level title; 1+ yrs exp |
-| 12:49 AM | [Online Technical Support Engineer -Campus Hire Program](https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/US-DE-Wilmington/Online-Technical-Support-Engineer--Campus-Hire-Program_4040677) | Agilent Technologies | US-DE-Wilmington | 75 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1510)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1508)
 
 <details><summary>Show</summary>
 
@@ -450,6 +450,7 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (59)](#tuesday-nov-24-59) 
 | date only | [Data Scientist, Discovery & Recommendations](https://www.amazon.jobs/en/jobs/10609853/data-scientist-discovery-recommendations) | Twitch Interactive, Inc. | San Francisco, California, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [QA QC Engineer](https://jord.bamboohr.com/careers/435) | Jord | Rasa, Selangor | 40 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
 | date only | [Software Development Engineer , Amazon Leo e-commerce](https://www.amazon.jobs/en/jobs/10613731/software-development-engineer-amazon-leo-e-commerce) | Amazon Kuiper Commercial Serv… | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
+| date only | [Software Development Engineer, Amazon Leo - Payload Dataplane Team](https://www.amazon.jobs/en/jobs/10610421/software-development-engineer-amazon-leo-payload-dataplane-team) | Amazon Kuiper Manufacturing E… | San Diego, California, USA | 60 | rules: 3+ yrs exp; needs: must be a U.S. citizen |
 | 12:00 AM | [Software Engineering - Delphi Software Engineer 132-2008](https://jobs.dayforcehcm.com/en-US/ccok/ccok/jobs/6649) | Ccok | Tulsa, OK, US | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 11:01 PM | [Network Engineer - Contract To Hire](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=958067c6-26d0-41f1-8d53-18b1e4c9dc0c&ccId=19000101_000003&jobId=9201122222057_181&lang=en_US) | 958067C6 26D0 41F1 8D53 18B1E… | Salt Lake City, UT | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:34 PM | [In-Person Finance Data Analyst](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f2408a65-8bd0-4f67-91cb-c632234eae59&ccId=19000101_000001&jobId=9201122440051_24&lang=en_US) | F2408A65 8Bd0 4F67 91Cb C6322… | Commerce, CA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -843,6 +844,5 @@ Jump to: [Wed 25 (2)](#wednesday-nov-25-2) · [Tue 24 (59)](#tuesday-nov-24-59) 
 | date only | [Security Engineer, AI Expert](https://apply.workable.com/weekday-1/j/4A316B35A2/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Inpatient facility coder](https://apply.workable.com/weekday-1/j/6C53960D19/) | Weekday AI | United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Product Developer](https://citi.eightfold.ai/careers/job/859038456753) | Citi | Irving, TX, US (hybrid) | 50 | rules: 6+ yrs exp; asks for 6+ years of experience |
-| date only | [Software Development Engineer, Playback Insights & Optimization](https://www.amazon.jobs/en/jobs/10611290/software-development-engineer-playback-insights-optimization) | Audible, Inc. | Newark, New Jersey, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
