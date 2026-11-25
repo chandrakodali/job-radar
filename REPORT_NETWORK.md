@@ -1,10 +1,12 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**104 jobs**, newest first. Updated Tue Nov 24, 5:38 PM CST from 12,580 company job boards and other sources.
+**104 jobs**, newest first. Updated Tue Nov 24, 6:27 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 63 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 566 matching jobs that job sites and feeds listed this week, 287 (50%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (7)](#wednesday-nov-18-7) · [Tue 17 (1)](#tuesday-nov-17-1)
 
@@ -147,7 +149,7 @@ Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [S
 |---|---|---|---|---:|---|
 | 7:33 PM | [Senior Network Consultant](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=da76a366-c959-4b2c-a12e-7c294e0c1658&ccId=19000101_000001&jobId=9201451451336_1&lang=en_US) | Da76A366 C959 4B2C A12E 7C294… | US | 48 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (234)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (235)
 
 <details><summary>Show</summary>
 
@@ -159,6 +161,7 @@ Jump to: [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [S
 | date only | [Network Deployment Engineer, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10612860/network-deployment-engineer-amazon-dedicated-cloud-nidd) | Amazon Data Services, Inc. | Broomfield, Colorado, USA | 75 | rules: 1+ yrs exp; needs: security clearance |
 | date only | [Senior Network Engineer - Deployments](https://nvidia.eightfold.ai/careers/job/893397524029) | Nvidia | Yokne'am Illit, North District, IL +1 m… (onsite) | 45 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | date only | [Senior Network Engineer - Network Security & Application Delivery](https://careers.tql.com/en_US/TQLexternalcareers/JobDetail/United-States-Senior-Network-Engineer/19730) | Total Quality Logistics | Cincinnati, United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| date only | [Network Consulting Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2025877EXTERNALENGLOBAL) | Cisco | Richardson, Texas, United States of Ame… | 18 | rules: 7+ yrs exp; network work in the text; asks for 7+ years of exp… |
 | 9:32 AM | [Network Engineer III](https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2054) | Tulane University | New Orleans, LA, United States (remote) | 47 | rules: 10+ yrs exp; senior title; likely H-1B cap-exempt (verify); as… |
 | 8:53 AM | [Target Digital Network Analyst 2](https://job-boards.greenhouse.io/grvty/jobs/4507550009) | GRVTY | Fort Gordon, Georgia, United States +1 … | 40 | rules: 9+ yrs exp; needs: Active TS/SCI |
 | 8:52 AM | [Target Digital Network Analyst 3](https://job-boards.greenhouse.io/grvty/jobs/4507481009) | GRVTY | Fort Meade, Maryland, United States | 45 | rules: 12+ yrs exp; senior title; needs: Active TS/SCI |
