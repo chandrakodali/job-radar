@@ -1,17 +1,29 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**371 jobs**, newest first. Updated Wed Nov 25, 5:31 PM CST from 12,580 company job boards and other sources.
+**381 jobs**, newest first. Updated Wed Nov 25, 6:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 127 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (37)](#wednesday-nov-25-37) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (6)](#wednesday-nov-18-6)
+Coverage check: of 4,192 matching jobs that job sites and feeds listed this week, 912 (21%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Wednesday, Nov 25 (37)
+Jump to: [Wed 25 (47)](#wednesday-nov-25-47) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (6)](#wednesday-nov-18-6)
+
+## Wednesday, Nov 25 (47)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:31 PM | [Implementation Specialist](https://jobs.ashbyhq.com/revin/5cc47fa4-e305-4ae6-8ff8-06b6b93e4fe3) | Revin | New York City (onsite) | 90 | 1+ yrs exp; entry level (from the text) |
+| 5:27 PM | [Seasonal Fulfillment and Receiving Support Associate, Westfarms](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_828010) | Macy's | Farmington, CT, United States | 75 | entry-level title |
+| 5:27 PM | [Seasonal Fulfillment and Receiving Support Associate, Countryside](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_828014) | Macy's | Clearwater, FL, United States | 75 | entry-level title |
+| 5:27 PM | [Seasonal Fulfillment and Receiving Support Associate, Dartmouth](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_828015) | Macy's | Dartmouth, MA, United States | 75 | entry-level title |
+| 5:27 PM | [Seasonal Fulfillment and Receiving Support Associate, Eastwood Mall](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_828004) | Macy's | Niles, OH, United States | 75 | entry-level title |
+| 5:27 PM | [Administrative Support Team Associate, Northlake Mall - NC - Flex](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827984) | Macy's | Charlotte, NC, United States | 85 | entry-level title; 1+ yrs exp |
+| 5:27 PM | [Seasonal Fulfillment and Receiving Support Associate, Wenatchee Valley](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827975) | Macy's | East Wenatchee, WA, United States | 75 | entry-level title |
+| 5:26 PM | [Seasonal Fulfillment and Receiving Support Associate, Oxmoor](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827880) | Macy's | Louisville, KY, United States | 75 | entry-level title; repost |
+| 5:26 PM | [Seasonal Fulfillment and Receiving Support Associate, Shoppes At Buck…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827859) | Macy's | Manchester, CT, United States | 75 | entry-level title |
+| 5:26 PM | [Seasonal Fulfillment and Receiving Support Associate, Stamford Town C…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827860) | Macy's | Stamford, CT, United States | 75 | entry-level title |
 | 5:19 PM (seen) | [System Administrator I](https://ats.rippling.com/jmark-careers/jobs/fda1a272-d6ca-4f1c-a0f2-c1c716e55aa0) | Jmark Careers | Tulsa, OK (onsite) | 65 | entry-level title |
 | 5:12 PM | [Software Engineer - New Grad](https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51) | Coderabbit | San Francisco (hybrid) | 80 | entry-level title |
 | 4:00 PM (seen) | [Machine Learning Engineer, TikTok Core Feed Recommendation - Dedup](https://lifeattiktok.com/search/7509598272319719687) | TikTok | San Jose, California, United States of … | 70 | 1+ yrs exp; entry level (from the text) |
@@ -419,17 +431,23 @@ Jump to: [Wed 25 (37)](#wednesday-nov-25-37) · [Tue 24 (59)](#tuesday-nov-24-59
 | 6:56 PM | [IT&S Technician](https://ibnjjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/360599) | Lifepoint Health | Pasco, WA, United States | 75 | 1+ yrs exp |
 | 6:42 PM | [Inventory and Data Entry Associate](https://ejvp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/32336) | Ejvp Fa Us2 Oraclecloud Com | Catoosa, OK, United States (onsite) | 80 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1435)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1432)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Full-Stack Software Engineer](https://apply.workable.com/raydar/j/C5B14BACAC/) | Raydar | San Francisco, California, United State… | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 8:06 PM | [Cloud Engineer (AI)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a514fa2f-d9f3-4d40-99fb-28d956698e2f&ccId=19000101_000001&jobId=9201318665857_111&lang=en_US) | A514Fa2F D9F3 4D40 99Fb 28D95… | Washington, DC | 45 | rules: 8+ yrs exp; needs: Secret clearance |
 | 7:54 PM | [Data Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a514fa2f-d9f3-4d40-99fb-28d956698e2f&ccId=19000101_000001&jobId=9201318665986_50&lang=en_US) | A514Fa2F D9F3 4D40 99Fb 28D95… | Washington, DC | 45 | rules: 10+ yrs exp; needs: Secret clearance |
 | 6:38 PM | [IT Field Technician - Completion Services](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694290) | AES Drilling Fluids LLC | Midland, TX, United States | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 6:21 PM | [AI Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5330343c-20f8-4939-818b-05c605dedc1e&ccId=19000101_000001&jobId=9201015133623_99&lang=en_US) | 5330343C 20F8 4939 818B 05C60… | Otsego, MI | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 5:17 PM | [Solutions Engineer, Federal – Department of Homeland Security](https://jobs.ashbyhq.com/skydio/60a46f73-4cde-4a78-b39e-650c31b3ff57) | Skydio | US Remote (remote) | 47 | rules: 5+ yrs exp; E-Verify; needs: Secret clearance |
+| 6:14 PM | [Mid-Level AI Engineer](https://jobs.ashbyhq.com/Clera/0a32c932-89f1-414a-8bac-cb74056dbd20) | Clera | United States +1 more (onsite) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| 6:14 PM | [Community Support Specialist](https://jobs.ashbyhq.com/wynd-labs/22b5ea26-66e4-4afb-a279-cef4059c685a) | Wynd Labs | Remote | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 6:10 PM | [Fleet Support Engineer - Software Tooling](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5309887007) | ALTEN Technology | Foster City, CA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 5:52 PM | [UKG Scheduling Systems Analyst](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5309883007) | ALTEN Technology | Foster City, CA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 5:45 PM | [Product Operations & Support Associate](https://jobs.ashbyhq.com/latent/cb474c7f-2197-474b-8c8c-53dc5f328cc9) | Latent | Remote (remote) | 82 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
+| 5:21 PM | [Solutions Engineer, Federal – U.S. Air Force](https://jobs.ashbyhq.com/skydio/fa95291d-2f29-49b8-866c-c1aae6cdde33) | Skydio | US Remote (remote) | 47 | rules: 5+ yrs exp; E-Verify; needs: Secret clearance |
 | 4:56 PM | [Analytics Engineer](https://jobs.ashbyhq.com/Braintrust/103dc439-307b-4fa7-9c40-efd19d457653) | Braintrust | San Francisco | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 4:35 PM | [Agent Infrastructure Engineer](https://job-boards.greenhouse.io/heygen/jobs/5309835007) | HeyGen | San Francisco, Palo Alto | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 4:31 PM | [1209 - Technical Business Analyst](https://careers.gofasti.com/job-application/6271564004?gh_jid=6271564004) | Gofasti | Remote (remote) | 37 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
@@ -490,7 +508,6 @@ Jump to: [Wed 25 (37)](#wednesday-nov-25-37) · [Tue 24 (59)](#tuesday-nov-24-59
 | date only | [Sentinel - Systems Engineer (20084)](https://ngc.eightfold.ai/careers/job/1340075516409) | Ngc | Roy, UT, US +1 more (onsite) | 80 | rules: 2+ yrs exp; needs: security clearance |
 | date only | [Software Development Engineer, Amazon Quick](https://www.amazon.jobs/en/jobs/10614480/software-development-engineer-amazon-quick) | Amazon Development Center U.S… | Seattle, Washington, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Engineering Technical Leader - Cisco IQ](https://careers.cisco.com/global/en/job/CISCISGLOBAL2019787EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 45 | rules: 12+ yrs exp; asks for 12+ years of experience |
-| date only | [Full-Stack Software Engineer](https://apply.workable.com/raydar/j/5EED82F8D8/) | Raydar | San Francisco, California, United State… | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | date only | [Application Security Engineer, US ADC Security](https://www.amazon.jobs/en/jobs/10613623/application-security-engineer-us-adc-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
 | date only | [Software Development Engineer, US ADC Security](https://www.amazon.jobs/en/jobs/10613598/software-development-engineer-us-adc-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
 | date only | [Data Scientist, Discovery & Recommendations](https://www.amazon.jobs/en/jobs/10609853/data-scientist-discovery-recommendations) | Twitch Interactive, Inc. | San Francisco, California, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -530,6 +547,8 @@ Jump to: [Wed 25 (37)](#wednesday-nov-25-37) · [Tue 24 (59)](#tuesday-nov-24-59
 | date only | [Systems Engineer I](https://innoflightinc.applytojob.com/apply/SvLcfQaRpx/Systems-Engineer-I) | Innoflight LLC | San Diego, CA | 80 | rules: entry-level title; 1+ yrs exp; no future H-1B sponsorship; nee… |
 | date only | [Medical Education Mobile Learning Specialist](https://careers.zimmerbiomet.com/us/en/job/ZBUZBRUS13737EXTERNALENUS) | Zimmer Biomet Holdings | Remote, Remote, United States | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | date only | [Mid-Level Software Development Engineer in Test](https://spacedynamicslaboratory.applytojob.com/apply/3dXmKDODsO/MidLevel-Software-Development-Engineer-In-Test) | Space Dynamics Laboratory | North Logan, UT | 45 | rules: 10+ yrs exp; needs: security clearance |
+| date only | [Implementation Methodology Engineer](https://nvidia.eightfold.ai/careers/job/893392917590) | Nvidia | Santa Clara, CA, US (onsite) | 43 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| date only | [New Product Enablement Business System Analyst](https://nvidia.eightfold.ai/careers/job/893394826737) | Nvidia | Santa Clara, CA, US (onsite) | 43 | rules: 12+ yrs exp; asks for 12+ years of experience |
 | 10:53 AM | [Embedded Implementation Consultant](https://www.brex.com/careers/8962370002?gh_jid=8962370002) | Brex | Seattle, Washington, United States +3 m… | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 10:45 AM | [Cybersecurity Engineer, Product Cybersecurity](https://jobs.smartrecruiters.com/Wabtec/3743990017091891-cybersecurity-engineer-product-cybersecurity) | Wabtec | Erie, PA, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:42 AM | [IT Onsite Support Technician](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000163730304-it-onsite-support-technician) | Bertelsmann | Pleasant-Prairie, Wisconsin (WI), Unite… | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -580,6 +599,7 @@ Jump to: [Wed 25 (37)](#wednesday-nov-25-37) · [Tue 24 (59)](#tuesday-nov-24-59
 | 11:00 PM | [Software Development Engineer in Test](https://careers-sas.icims.com/jobs/48016/software-development-engineer-in-test/job) | SAS | Cary HQ, NC, United States | 40 | rules: 5+ yrs exp; no future H-1B sponsorship; asks for 5+ years of e… |
 | 11:00 PM | [Forward Deployed AI & Automation Engineer - Grid Projects](https://careers-sargentlundy.icims.com/jobs/30573/forward-deployed-ai-%26-automation-engineer---grid-projects/job) | Sargent & Lundy | Charlotte, NC, United States +2 more | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 11:00 PM | [Network Specialist](https://careers-gotyto.icims.com/jobs/2429/network-specialist/job) | TALON | El Segundo, CA, United States | 45 | rules: 8+ yrs exp; needs: Secret Clearance |
+| 11:00 PM | [Software Quality Assurance Analyst & Tester](https://careers-brandesassociates.icims.com/jobs/2208/software-quality-assurance-analyst-%26-tester/job) | Brandes Associates Inc. | Point Mugu, CA, United States | 45 | rules: 6+ yrs exp; needs: Secret Clearance |
 | 10:34 PM | [In-Person Finance Data Analyst](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f2408a65-8bd0-4f67-91cb-c632234eae59&ccId=19000101_000001&jobId=9201122440051_24&lang=en_US) | F2408A65 8Bd0 4F67 91Cb C6322… | Commerce, CA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:13 PM | [Veteran Peer Support Specialist - SSG Fox Suicide Prevention Grant Pr…](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4637175) | Catholic Charities of Kansas … | Kansas City, MO, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 8:41 PM | [HR Systems Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=d3ba533c-bfa5-46fb-8cc5-bcf45fd137da&ccId=19000101_000001&jobId=9201253812948_150&lang=en_US) | D3Ba533C Bfa5 46Fb 8Cc5 Bcf45… | Richmond, VA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
@@ -817,13 +837,5 @@ Jump to: [Wed 25 (37)](#wednesday-nov-25-37) · [Tue 24 (59)](#tuesday-nov-24-59
 | 1:00 AM | [Systems Administrator](https://jobs.dayforcehcm.com/en-US/viaflex/CANDIDATEPORTAL/jobs/774) | Viaflex | Sioux Falls, SD, US | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 12:52 AM | [SharePoint Online Developer](https://jobs.lever.co/jobgether/dd622ef2-469e-460d-b2db-abd9a9250086) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:41 AM | [Business Intelligence Developer](https://jobs.lever.co/jobgether/6b437002-3307-45db-aa75-465f3cb6c005) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 12:37 AM | [SAP Administrator](https://jobs.lever.co/jobgether/006aae89-126c-4c32-85b8-e821a44f7ee5) | Jobgether | US (remote) | 42 | rules: 6+ yrs exp; asks for 6+ years of experience |
-| 12:32 AM | [IT Engineer](https://jobs.ashbyhq.com/Etched/890fd360-d558-4fa6-921d-32ff9e58e7e2) | Etched | San Jose (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 12:00 AM | [Medical Records Technician Coder (REMOTE)](https://jobs.dayforcehcm.com/en-US/kgs/candidateportal/jobs/16594) | Kgs |  (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| 12:00 AM | [Remote Release of Information Quality Assurance Review Specialist I](https://jobs.dayforcehcm.com/en-US/verisma/candidateportal/jobs/13437) | Verisma |  (remote) | 77 | rules: entry-level title; 2+ yrs exp; location unclear; asks for 2+ y… |
-| 11:27 PM | [Solutions Engineer (IoT)](https://jobs.ashbyhq.com/skylo/f3d1ad18-1845-4811-b69f-65d3cc8a545e) | Skylo | Mountain View, CA (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 11:07 PM | [Hardware/Production Test Software Engineer](https://job-boards.greenhouse.io/astranis/jobs/4731856006) | Astranis | San Francisco, CA | 75 | rules: 2+ yrs exp; needs: must be a U.S. citizen |
-| 11:00 PM | [Software Engineer](https://job-boards.greenhouse.io/instead/jobs/7761474003) | Instead | San Francisco | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 11:00 PM | [Security Administrator](https://careers-tatitlek.icims.com/jobs/2931/security-administrator/job) | The Tatitlek Corporation | Arlington, VA, United States | 45 | rules: 5+ yrs exp; needs: SECURITY CLEARANCE |
 
 </details>
