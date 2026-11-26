@@ -1,17 +1,20 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**373 jobs**, newest first. Updated Thu Nov 26, 8:43 AM CST from 12,580 company job boards and other sources.
+**369 jobs**, newest first. Updated Thu Nov 26, 9:57 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 123 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (71)](#thursday-nov-19-71)
+Coverage check: of 4,631 matching jobs that job sites and feeds listed this week, 967 (20%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Thursday, Nov 26 (8)
+Jump to: [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (67)](#thursday-nov-19-67)
+
+## Thursday, Nov 26 (9)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Data Center Technician - Day Shift](https://www.amazon.jobs/en/jobs/10615349/data-center-technician-day-shift) | Amazon Data Services, Inc. | Andrews, Texas, USA +6 more | 70 | 1+ yrs exp; no future H-1B sponsorship; repost |
 | date only | [Associate Engineer, Process Engineering](https://globalfoundries.eightfold.ai/careers/job/563980771018262) | Globalfoundries | SG (onsite) | 75 | entry-level title; location unclear |
 | 8:06 AM | [Data Center Technician I - Entry Level](https://ericsson.eightfold.ai/careers/job/563121777109972) | Ericsson | Lewisville, TX, US; Wichita Falls, TX, … (onsite) | 75 | entry-level title; no future H-1B sponsorship |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Brea](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_828058) | Macy's | Brea, CA, United States | 75 | entry-level title |
@@ -75,7 +78,7 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 12:00 AM | [Mergers and Acquisitions Integration Associate](https://jobs.dayforcehcm.com/en-US/hightower/CANDIDATEPORTAL/jobs/9338) | Hightower | Chicago, IL, US | 75 | entry-level title; repost |
 | 12:00 AM | [Data Entry & Document Processing Specialist](https://jobs.dayforcehcm.com/en-US/landstar/CANDIDATEPORTAL/jobs/12048) | Landstar | Jacksonville, FL, US | 75 | entry-level title |
 
-## Tuesday, Nov 24 (59)
+## Tuesday, Nov 24 (58)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -106,7 +109,6 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 1:25 PM | [Data Analyst 1](https://lamresearch.eightfold.ai/careers/job/1099557128576) | Lamresearch | Fremont, CA, US (onsite) | 80 | entry-level title |
 | 1:19 PM (seen) | [Debt Administration Support Specialist 3442](https://geniusroad.catsone.com/careers/41437-General/jobs/16873412-Debt-Administration-Support-Specialist-3442/) | Geniusroad |  | 60 | 1+ yrs exp |
 | 12:01 PM | [Data Entry Specialist - Customs Brokerage](https://jobs.smartrecruiters.com/Expeditors/744000163524119-data-entry-specialist-customs-brokerage) | Expeditors | Uniondale, NY, United States | 75 | entry-level title |
-| date only | [Data Center Technician](https://www.amazon.jobs/en/jobs/10612858/data-center-technician) | Amazon Data Services, Inc. | New Carlisle, Indiana, USA +6 more | 70 | 1+ yrs exp; no future H-1B sponsorship |
 | date only | [Data Center Technician, DCC Communities](https://www.amazon.jobs/en/jobs/10612346/data-center-technician-dcc-communities) | Amazon Data Services, Inc. | New Carlisle, Indiana, USA +2 more | 70 | 1+ yrs exp; no future H-1B sponsorship |
 | date only | [Graduate Engineering Technician](https://micron.eightfold.ai/careers/job/44533522) | Micron | GJ,IN (onsite) | 80 | entry-level title |
 | date only | [Junior Security Engineer](https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=26000851&lang=en) | Commonwealth of Massachusetts | Massachusetts-Chelsea | 85 | entry-level title; 1+ yrs exp |
@@ -345,7 +347,7 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (71)
+## Thursday, Nov 19 (67)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -416,17 +418,14 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 10:10 AM | [Traffic Data Technician in Training](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99801) | WSP | Morristown, NJ, United States; Lawrence… | 85 | 0-2 yrs exp; entry level (from the text) |
 | 10:10 AM | [Vehicle Access System Engineering - Early Career Program, Advanced EV](https://ford.eightfold.ai/careers/job/563568454235997) | Ford | Allen Park, MI, US (onsite) | 80 | entry-level title |
 | 10:10 AM | [Vehicle Access System Engineering - Early Career Program, Advanced EV](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74636) | Ford Motor Company | Allen Park, MI, United States (hybrid) | 80 | entry-level title |
-| 9:34 AM | [Jr Data Center Technician](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/234362) | BGIS | Phoenix, AZ, United States | 85 | entry-level title; 1+ yrs exp |
-| 9:01 AM | [IT Support Technician I Per Diem](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34422) | Erqh Fa Us2 Oraclecloud Com | Morristown, NJ, United States (onsite) | 90 | entry-level title; 1+ yrs exp |
-| 8:51 AM | [Application Support Engineer I](https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Maitland/Application-Support-Engineer-I_R-101451) | Alegeus | 3 Locations | 70 | entry-level title; location unclear |
-| 8:48 AM | [Pricing Analytics Analyst](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261306) | GM financial | Fort Worth, TX, United States (hybrid) | 90 | 0-2 yrs exp; entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1414)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1391)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Data Center Technician - Day Shift](https://www.amazon.jobs/en/jobs/10615350/data-center-technician-day-shift) | Amazon Data Services, Inc. | Andrews, Texas, USA +3 more | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
 | date only | [Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2030720EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Full-Stack Software Engineer](https://apply.workable.com/raydar/j/C5B14BACAC/) | Raydar | San Francisco, California, United State… | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Development Engineer, US ADC Security](https://www.amazon.jobs/en/jobs/10615132/software-development-engineer-us-adc-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
@@ -517,12 +516,12 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 11:28 AM | [SAP Security Engineer, Ford Energy](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74883) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 11:25 AM | [Full Stack Engineer](https://jobs.ashbyhq.com/megazone/f6137aee-7d4c-4acd-9d8d-20ef24eaf2ed) | MegazoneCloud | Rochester, NY; Irvine, CA; Frisco, TX (onsite) | 70 | rules: 3+ yrs exp; E-Verify; asks for 3+ years of experience |
 | 11:07 AM | [Founding Machine Learning Engineer](https://jobs.ashbyhq.com/Clera/df58d473-b3d5-43c2-aaac-dd5ebe3d79f3) | Clera | San Francisco (onsite) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| date only | [Solutions Engineer - Federal - Splunk (Remote)](https://careers.cisco.com/global/en/job/CISCISGLOBAL2032685EXTERNALENGLOBAL) | Cisco | Mclean, Virginia, United States of Amer… | 45 | rules: 5+ yrs exp; needs: Must be a U.S. Citizen |
-| date only | [Sentinel - Systems Engineer (20084)](https://ngc.eightfold.ai/careers/job/1340075516409) | Ngc | Roy, UT, US +1 more (onsite) | 80 | rules: 2+ yrs exp; needs: security clearance |
 | date only | [US E – GPS – Consulting Services – Agentic SI Test Engineer and RSIO …](https://apply.deloitte.com/en_US/careers/JobDetail/Agentic-SI-Test-Engineer/376480) | Deloitte US |  | 48 | rules: 3+ yrs exp; no future H-1B sponsorship; asks for 3+ years of e… |
 | date only | [Software Development Engineer, Amazon Quick](https://www.amazon.jobs/en/jobs/10614480/software-development-engineer-amazon-quick) | Amazon Development Center U.S… | Seattle, Washington, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Solutions Engineer - Federal - Splunk (Remote)](https://careers.cisco.com/global/en/job/CISCISGLOBAL2032685EXTERNALENGLOBAL) | Cisco | Mclean, Virginia, United States of Amer… | 45 | rules: 5+ yrs exp; needs: Must be a U.S. Citizen |
 | date only | [Software Engineering Technical Leader - Cisco IQ](https://careers.cisco.com/global/en/job/CISCISGLOBAL2019787EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 45 | rules: 12+ yrs exp; asks for 12+ years of experience |
 | date only | [Software Development Engineer](https://www.amazon.jobs/en/jobs/10614341/software-development-engineer) | Amazon.com Services LLC | New York, New York, USA +1 more | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Sentinel - Systems Engineer (20084)](https://ngc.eightfold.ai/careers/job/1340075516409) | Ngc | Roy, UT, US +1 more (onsite) | 80 | rules: 2+ yrs exp; needs: security clearance |
 | date only | [Application Security Engineer, US ADC Security](https://www.amazon.jobs/en/jobs/10613623/application-security-engineer-us-adc-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
 | date only | [Data Scientist, Discovery & Recommendations](https://www.amazon.jobs/en/jobs/10609853/data-scientist-discovery-recommendations) | Twitch Interactive, Inc. | San Francisco, California, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [QA QC Engineer](https://jord.bamboohr.com/careers/435) | Jord | Rasa, Selangor | 40 | rules: 5+ yrs exp; location unclear; asks for 5+ years of experience |
@@ -737,7 +736,6 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 11:13 AM | [Founding Software Engineer](https://jobs.ashbyhq.com/Clera/ebef79a6-c2ef-4a25-b959-67dd7f5448a2) | Clera | San Francisco (onsite) | 45 | rules: 10+ yrs exp; no future H-1B sponsorship; asks for 10+ years of… |
 | 11:10 AM | [Federal Salesforce Developer - Agentforce Specialist](https://jobs.gem.com/thunder/am9icG9zdDpu9UnmnXSRGW45XAyPG5pK) | Thunder | United States (remote) | 57 | rules: 4+ yrs exp; needs: security clearance |
 | 11:08 AM | [AI Forward Deployed Engineer - Applied AI](https://jobs.ashbyhq.com/zip/d212845e-9668-4a01-a30d-0d24c5a4f2b2) | Zip | San Francisco (hybrid) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| date only | [Data Center Technician](https://www.amazon.jobs/en/jobs/10606460/data-center-technician) | Amazon Data Services, Inc. | Avondale, Arizona, USA +3 more | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
 | date only | [Network Deployment Engineer, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10612860/network-deployment-engineer-amazon-dedicated-cloud-nidd) | Amazon Data Services, Inc. | Broomfield, Colorado, USA | 75 | rules: 1+ yrs exp; needs: security clearance |
 | date only | [Systems Test Engineer 1](https://jobs.ulalaunch.com/job/Pueblo-Systems-Test-Engineer-1-CO-81001/1453418900/) | United Launch Alliance | Pueblo, CO, United States +1 more | 80 | rules: entry-level title; E-Verify; needs: Security Clearance |
 | date only | [Software Engineer](https://jobs.netapp.com/job/Morrisville-Software-Engineer-NC-27560/1453449500/) | NetApp | Morrisville, NC, United States +1 more | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
