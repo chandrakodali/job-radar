@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**345 jobs**, newest first. Updated Thu Nov 26, 12:08 PM CST from 12,580 company job boards and other sources.
+**343 jobs**, newest first. Updated Thu Nov 26, 12:56 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-115 repeat listings (same company and title in another place or on another source) are merged into one row.
+104 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (42)](#thursday-nov-19-42)
+Coverage check: of 4,723 matching jobs that job sites and feeds listed this week, 976 (20%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (41)](#thursday-nov-19-41)
 
 ## Thursday, Nov 26 (10)
 
@@ -265,7 +267,7 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 3:26 AM | [Vendor Stock Support Associate, Bellevue Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826998) | Macy's | Bellevue, WA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chandler Fashio…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826986) | Macy's | Chandler, AZ, United States | 75 | entry-level title |
 
-## Friday, Nov 20 (76)
+## Friday, Nov 20 (75)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -306,7 +308,6 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 12:11 PM | [Data Analyst I - Entry Level](https://applied.wd501.myworkdayjobs.com/applied/job/9360---PCI-Raleigh-NC/Data-Analyst-I---Entry-Level_JR105872) | Applied Fluid Power | 9360 - PCI Raleigh, NC | 75 | entry-level title |
 | 11:54 AM | [Global Cybersecurity Education and Awareness Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807872) | JP Morgan Chase | Columbus, OH, United States | 75 | entry-level title |
 | 11:53 AM | [Data Specialist I](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2356341) | Waste Management | Plymouth, MI, United States; Cleveland,… (remote) | 72 | entry-level title |
-| 11:37 AM | [Associate Data Scientist](https://jobs.ashbyhq.com/Jerry.ai/67b832c4-8d9f-4953-ba43-ba892d06fe8a) | Jerry | New York, New York; Chicago, Illinois; … (remote) | 82 | entry-level title; 1+ yrs exp; repost |
 | 11:14 AM | [Valene Health - QA Engineer](https://jobs.gem.com/43north/am9icG9zdDopLyWNVdVFz2n2I4kzyNTZ) | 43North | Buffalo (onsite) | 80 | entry level (from the text) |
 | 11:07 AM | [Graduate Program: Entry Level Analytics Developer](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932692002) | Further | Cleveland, Ohio | 70 | entry-level title; no future H-1B sponsorship |
 | 11:05 AM | [Graduate Program: Entry Level Analyst](https://job-boards.greenhouse.io/furtherearlycareer/jobs/8906228002) | Further | Cleveland, Ohio | 70 | entry-level title; no future H-1B sponsorship |
@@ -346,7 +347,7 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (42)
+## Thursday, Nov 19 (41)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -391,14 +392,14 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 1:16 PM | [Administrative Support Associate,  (TEMP)– FlexStaff](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/165370) | Northwell Health | Great Neck, Nassau, United States | 85 | entry-level title; 0-2 yrs exp |
 | 1:11 PM | [Field Data Collection Specialist](https://job-boards.greenhouse.io/cartesiansystems/jobs/4437394009) | Cartesian Systems | Cambridge, MA | 85 | 1+ yrs exp; entry level (from the text) |
 | 1:03 PM | [Customer Support Specialist I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=599580e5-9519-48a5-9c10-965bfb756ed0&ccId=19000101_000001&jobId=9201236238051_1&lang=en_US) | 599580E5 9519 48A5 9C10 965Bf… | Greenville, SC | 75 | entry-level title |
-| 12:48 PM | [GSD Global Support Tech Generalist, IT Support, English with Spanish …](https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ChurchEmployment/job/379274) | Epej Fa Us2 Oraclecloud Com | Riverton, UT, United States (hybrid) | 85 | 0-2 yrs exp; entry level (from the text); no future H-1B sponsorship;… |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1363)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1337)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:58 AM | [Developer Relations](https://jobs.ashbyhq.com/Clera/8a39dc9a-7e2b-4094-b4bf-f1a39932c756) | Clera | Palo Alto (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Data Center Technician - Day Shift](https://www.amazon.jobs/en/jobs/10615350/data-center-technician-day-shift) | Amazon Data Services, Inc. | Andrews, Texas, USA +3 more | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
 | date only | [Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2030720EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Full-Stack Software Engineer](https://apply.workable.com/raydar/j/C5B14BACAC/) | Raydar | San Francisco, California, United State… | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -444,7 +445,6 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 4:24 PM | [IT Support Specialist](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1950) | Legrand | Lebanon, TN, United States (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 4:04 PM | [Technical Writer & Curriculum Design Developer](https://www.epirusinc.com/open-roles?gh_jid=6271538004) | Epirus | Torrance, California, United States | 60 | rules: 3+ yrs exp; needs: Secret Clearance |
 | 4:01 PM | [Software Engineer, Core Technology](https://www.ixl.com/company/jobs?gh_jid=8963067002) | Ixllearning | San Mateo, CA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 4:01 PM | [Developer Relations](https://jobs.ashbyhq.com/Clera/845e3d6e-082e-4cd7-89b9-e7441c9d0ab2) | Clera | Palo Alto (remote) | 42 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 4:00 PM (seen) | [Junior Systems Developer Army Aviation and Missile Command](https://thelockwoodgroup.catsone.com/careers/31005-General/jobs/16876575-Junior-Systems-Developer--Army-Aviation-and-Missile-Command/) | Thelockwoodgroup |  | 60 | rules: entry-level title; needs: Security Clearance |
 | 4:00 PM (seen) | [Artificial Intelligence and Machine Learning Systems Engineer](https://careers-sonalysts.icims.com/jobs/2553/artificial-intelligence-and-machine-learning-systems-engineer/job) | Sonalysts | Waterford, CT, United States | 45 | rules: 3+ yrs exp; needs: security clearance |
 | 4:00 PM (seen) | [Machine Learning Engineer, Recommendation, Alliance E-Commerce](https://lifeattiktok.com/search/7346326177919650098) | TikTok | Seattle, Washington, United States of A… | 45 | rules: 3+ yrs exp; asks for 3+ years of experience |
