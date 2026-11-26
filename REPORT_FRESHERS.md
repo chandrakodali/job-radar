@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**378 jobs**, newest first. Updated Wed Nov 25, 8:37 PM CST from 12,580 company job boards and other sources.
+**377 jobs**, newest first. Updated Wed Nov 25, 9:26 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 125 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (47)](#wednesday-nov-25-47) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (3)](#wednesday-nov-18-3)
+Coverage check: of 4,279 matching jobs that job sites and feeds listed this week, 924 (21%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Wed 25 (47)](#wednesday-nov-25-47) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (83)](#thursday-nov-19-83) · [Wed 18 (2)](#wednesday-nov-18-2)
 
 ## Wednesday, Nov 25 (47)
 
@@ -418,15 +420,14 @@ Jump to: [Wed 25 (47)](#wednesday-nov-25-47) · [Tue 24 (59)](#tuesday-nov-24-59
 | 12:05 AM | [Systems Support Specialist I - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4416) | City of Oklahoma City | Oklahoma  City, OK, United States (onsite) | 80 | entry-level title |
 | 12:00 AM | [Technical Training Specialist](https://jobs.dayforcehcm.com/en-US/pcg/CANDIDATEPORTAL/jobs/11378) | Pcg | Lenexa, KS, US | 75 | 1+ yrs exp |
 
-## Wednesday, Nov 18 (3)
+## Wednesday, Nov 18 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:21 PM | [Vision System Technician I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=70bcd91d-e103-4245-a915-69080cc2b76c&ccId=9200706937994_2&jobId=9201838778525_1&lang=en_US) | 70Bcd91D E103 4245 A915 69080… | Ellabell, GA | 78 | entry-level title; 1+ yrs exp |
 | 11:12 PM | [Vision System Engineer I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=70bcd91d-e103-4245-a915-69080cc2b76c&ccId=9200706937994_2&jobId=9201838777219_1&lang=en_US) | 70Bcd91D E103 4245 A915 69080… | Ellabell, GA | 78 | entry-level title; 0-2 yrs exp |
-| 8:44 PM | [Founding AI / Backend Engineer](https://jobs.ashbyhq.com/Clera/c8c50e46-229c-4563-b9a9-1d4713f777c5) | Clera | New York (remote) | 72 | 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1428)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1426)
 
 <details><summary>Show</summary>
 
