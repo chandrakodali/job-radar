@@ -1,12 +1,10 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**64 jobs**, newest first. Updated Thu Nov 26, 5:07 AM CST from 12,535 company job boards and other sources.
+**64 jobs**, newest first. Updated Thu Nov 26, 5:26 AM CST from 12,580 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 173 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 4,270 matching jobs that job sites and feeds listed this week, 2,169 (50%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (10)](#friday-nov-20-10) · [Thu 19 (14)](#thursday-nov-19-14)
 
@@ -114,7 +112,7 @@ Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) �
 | 8:27 AM | [Sr Software Engineer I - Enterprise Architecture](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016711) | American Express | Sunrise, FL, United States (remote) | 47 | entry-level title; senior title, years not stated; requires Java |
 | 8:03 AM | [API Systems Engineer](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31739) | Navy Federal | Vienna, VA, United States (hybrid) | 50 | no future H-1B sponsorship; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (67)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (66)
 
 <details><summary>Show</summary>
 
@@ -172,7 +170,6 @@ Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) �
 | 5:20 PM | [Sr Software Engineer - Backend](https://jobs.ashbyhq.com/Kite/20e72bff-0a4a-4d6d-8f7f-497069072e5e) | Kite | United States (remote) | 27 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 1:57 PM | [Senior Software Engineer - Pacing & Experimentation](https://job-boards.greenhouse.io/thetradedesk/jobs/5294061007) | The Trade Desk | New York | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 11:19 AM | [Senior Software Engineer 814](https://job-boards.greenhouse.io/freedomconsulting/jobs/5302135007) | Freedom Technology Solutions … | Annapolis Junction, MD | 35 | rules: 12+ yrs exp; senior title; E-Verify; requires Java; asks for 1… |
-| date only | [Full-stack Software Engineer- Senior](https://fincons.applytojob.com/apply/DuwNKD0FKF/Fullstack-Software-Engineer-Senior) | Fincons Group | Remote (US) (remote) | 27 | rules: 15+ yrs exp; senior title; requires Java; asks for 15+ years o… |
 | date only | [Senior Software Engineer](https://careers.capgemini.com/job/Atlanta-Senior-Software-Engineer-GA-30301/1458964833/) | Capgemini | Atlanta, United States | 30 | rules: 8+ yrs exp; senior title; requires Java; asks for 8+ years of … |
 | date only | [Senior System Software Engineer](https://nvidia.eightfold.ai/careers/job/893392890244) | Nvidia | Santa Clara, CA, US; Champaign, IL, US;… (onsite) | 30 | rules: 9+ yrs exp; senior title; requires Java; asks for 9+ years of … |
 | date only | [Open Source Software Engineer](https://jobs.netapp.com/job/Open-Source-Software-Engineer/1452419000/) | NetApp | US | 30 | rules: 8+ yrs exp; requires Java; asks for 8+ years of experience |
