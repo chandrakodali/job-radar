@@ -1,14 +1,16 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**375 jobs**, newest first. Updated Thu Nov 26, 4:06 AM CST from 12,580 company job boards and other sources.
+**376 jobs**, newest first. Updated Thu Nov 26, 4:50 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 123 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (6)](#thursday-nov-26-6) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (75)](#thursday-nov-19-75)
+Coverage check: of 4,535 matching jobs that job sites and feeds listed this week, 957 (21%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Thursday, Nov 26 (6)
+Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (75)](#thursday-nov-19-75)
+
+## Thursday, Nov 26 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -16,6 +18,7 @@ Jump to: [Thu 26 (6)](#thursday-nov-26-6) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Brea](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_828058) | Macy's | Brea, CA, United States | 75 | entry-level title |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Newport Fashion…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_828044) | Macy's | Newport Beach, CA, United States | 75 | entry-level title |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Roseville Galle…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_828037) | Macy's | Roseville, CA, United States | 75 | entry-level title |
+| 3:23 AM | [Technical Business Analyst I - Alternative Investments Operations](https://jobs.workable.com/view/d4kJu5AAQM7hzm9cYVwrQH/technical-business-analyst-i---alternative-investments-operations-in-new-york-at-neuberger-berman) | Neuberger Berman | New York (onsite) | 75 | entry-level title; no future H-1B sponsorship |
 | 12:00 AM | [CDX Rotational Program Associate](https://careers.molsoncoors.com/global/en/job/MQXMOLUS39895EXTERNALENUS) | Molson Coors Beverage Company | Atlanta, US-GA, United States | 75 | entry-level title |
 | 12:00 AM | [Billing Support Specialist](https://jobs.dayforcehcm.com/en-US/landstar/CANDIDATEPORTAL/jobs/12053) | Landstar | Rockford, IL, US; Jacksonville, FL, US | 75 | 1+ yrs exp |
 
@@ -434,6 +437,7 @@ Jump to: [Thu 26 (6)](#thursday-nov-26-6) · [Wed 25 (49)](#wednesday-nov-25-49)
 | date only | [Software Development Engineer, US ADC Security](https://www.amazon.jobs/en/jobs/10615132/software-development-engineer-us-adc-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
 | date only | [Applications Programmer](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12114) | UCSF | San Francisco, CA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Security Specialist (P4) – Physical Security Technology](https://micron.eightfold.ai/careers/job/44717490) | Micron | GJ,IN (onsite) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| 4:43 AM | [NetSuite Systems Administrator](https://job-boards.greenhouse.io/doitintl/jobs/8217779003) | Doitintl | Remote US East (remote) | 52 | rules: 4+ yrs exp; no future H-1B sponsorship; asks for 4+ years of e… |
 | 2:14 AM | [Full Stack Web & eCommerce Engineer](https://jobs.lever.co/jobgether/91f5a1f0-3173-4564-aec1-16ae06d324ce) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 1:53 AM | [API / Integration Developer, IFCAP (SCM DSO)](https://jobs.lever.co/jobgether/bf6dc960-0803-46c8-be6d-4bb0bd3e6d12) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 1:21 AM | [Android Developer](https://jobs.ashbyhq.com/salmon-group/551a3c44-f673-4ae2-8fe4-05450488eea3) | Salmon Group | Georgia; European Union (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
@@ -828,6 +832,5 @@ Jump to: [Thu 26 (6)](#thursday-nov-26-6) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 8:38 AM | [Email Developer & QA Specialist](https://jobs.ashbyhq.com/imprint/5f04aa19-2276-46f3-97f8-4ecd44023a27) | Imprint | Remote (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 8:33 AM | [DevOps & Atlassian Engineer](https://jobs.lever.co/agile-defense/bddc710c-bba9-46ea-804b-91718d58f753) | Agile Defense | Remote (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:32 AM | [Storage and Unix Engineer](https://jobs.lever.co/agile-defense/7370319e-cf64-47e7-8d36-3faf0f86c270) | Agile Defense | Remote (remote) | 42 | rules: 6+ yrs exp; asks for 6+ years of experience |
-| 8:12 AM | [SharePoint / Web Administrator — Federal Health IT](https://job-boards.greenhouse.io/rackner/jobs/4758246005) | Rackner | Remote — United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
