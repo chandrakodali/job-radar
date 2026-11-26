@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**177 jobs**, newest first. Updated Wed Nov 25, 10:50 PM CST from 12,580 company job boards and other sources.
+**177 jobs**, newest first. Updated Wed Nov 25, 11:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 166 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,063 matching jobs that job sites and feeds listed this week, 1,878 (61%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (1)](#wednesday-nov-18-1)
 
@@ -230,12 +232,13 @@ Jump to: [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (17)](#wednesday-nov-25-17)
 |---|---|---|---|---:|---|
 | 11:50 PM | [Cloud Identity Engineer III (Entra ID)](https://jobs.lever.co/jobgether/88a96849-d944-46d6-bc01-918662a0d80f) | Jobgether | US (remote) | 57 | 3+ yrs exp; senior title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (364)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (365)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 10:45 PM | [Senior Cloud SRE](https://boards.greenhouse.io/accenturefederalservices/jobs/4732401006?gh_jid=4732401006) | Accenture | San Antonio, TX | 35 | rules: 8+ yrs exp; senior title; no future H-1B sponsorship; needs: P… |
 | 8:06 PM | [Cloud Engineer (AI)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a514fa2f-d9f3-4d40-99fb-28d956698e2f&ccId=19000101_000001&jobId=9201318665857_111&lang=en_US) | A514Fa2F D9F3 4D40 99Fb 28D95… | Washington, DC | 45 | rules: 8+ yrs exp; needs: Secret clearance |
 | 6:29 PM | [Senior Cloud / Server Engineer, Alpharetta  GA, Sunnyvale CA, BH NJ a…](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/27101) | Photon | United States | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 6:21 PM | [Senior Cloud Security Engineer](https://jobs.ashbyhq.com/anyscale/cdc7becf-6d38-4e1d-8ff8-ba4f84d5accc) | Anyscale | San Francisco | 50 | rules: 8+ yrs exp; senior title; E-Verify; asks for 8+ years of exper… |
