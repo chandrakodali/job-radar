@@ -1,18 +1,23 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**377 jobs**, newest first. Updated Thu Nov 26, 3:01 AM CST from 12,580 company job boards and other sources.
+**375 jobs**, newest first. Updated Thu Nov 26, 3:54 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-124 repeat listings (same company and title in another place or on another source) are merged into one row.
+123 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (3)](#thursday-nov-26-3) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (80)](#thursday-nov-19-80)
+Coverage check: of 4,450 matching jobs that job sites and feeds listed this week, 946 (21%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Thursday, Nov 26 (3)
+Jump to: [Thu 26 (6)](#thursday-nov-26-6) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (75)](#thursday-nov-19-75)
+
+## Thursday, Nov 26 (6)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Associate Engineer, Process Engineering](https://globalfoundries.eightfold.ai/careers/job/563980771018262) | Globalfoundries | SG (onsite) | 75 | entry-level title; location unclear |
+| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Brea](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_828058) | Macy's | Brea, CA, United States | 75 | entry-level title |
+| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Newport Fashion…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_828044) | Macy's | Newport Beach, CA, United States | 75 | entry-level title |
+| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Roseville Galle…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_828037) | Macy's | Roseville, CA, United States | 75 | entry-level title |
 | 12:00 AM | [CDX Rotational Program Associate](https://careers.molsoncoors.com/global/en/job/MQXMOLUS39895EXTERNALENUS) | Molson Coors Beverage Company | Atlanta, US-GA, United States | 75 | entry-level title |
 | 12:00 AM | [Billing Support Specialist](https://jobs.dayforcehcm.com/en-US/landstar/CANDIDATEPORTAL/jobs/12053) | Landstar | Rockford, IL, US; Jacksonville, FL, US | 75 | 1+ yrs exp |
 
@@ -340,7 +345,7 @@ Jump to: [Thu 26 (3)](#thursday-nov-26-3) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (80)
+## Thursday, Nov 19 (75)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -419,13 +424,8 @@ Jump to: [Thu 26 (3)](#thursday-nov-26-3) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 8:16 AM | [Associate Systems Engineer](https://job-boards.greenhouse.io/purestorage/jobs/8393948) | Pure Storage | Chicago, Illinois; Lehi, Utah; Raleigh,… | 85 | entry-level title; 1+ yrs exp |
 | 7:48 AM | [Administrative Support Team Associate, Riverside Galleria at Tyler - …](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/94871) | Macy's | Riverside, CA, United States | 85 | entry-level title; 1+ yrs exp |
 | 7:48 AM | [Help Desk Technician I](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4730647006) | Jrmconstructionmanagementllc | New York, NY | 85 | entry-level title; 1+ yrs exp |
-| 3:45 AM (seen) | [associate test technician](https://element-ext-row.icims.com/jobs/20128/associate-test-technician/job) | Element Materials Technology |  | 55 | entry-level title; location unclear |
-| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Montebello Town…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826484) | Macy's | Montebello, CA, United States | 75 | entry-level title; repost |
-| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, San Bernardino …](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826480) | Macy's | San Bernardino, CA, United States | 75 | entry-level title |
-| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, St Clair Square](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826470) | Macy's | Fairview Heights, IL, United States | 75 | entry-level title |
-| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Rosedale Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826471) | Macy's | Roseville, MN, United States | 75 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1427)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1426)
 
 <details><summary>Show</summary>
 
@@ -435,6 +435,7 @@ Jump to: [Thu 26 (3)](#thursday-nov-26-3) · [Wed 25 (49)](#wednesday-nov-25-49)
 | date only | [Full-Stack Software Engineer](https://apply.workable.com/raydar/j/C5B14BACAC/) | Raydar | San Francisco, California, United State… | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Development Engineer, US ADC Security](https://www.amazon.jobs/en/jobs/10615132/software-development-engineer-us-adc-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
 | date only | [Applications Programmer](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12114) | UCSF | San Francisco, CA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| date only | [Security Specialist (P4) – Physical Security Technology](https://micron.eightfold.ai/careers/job/44717490) | Micron | GJ,IN (onsite) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 2:14 AM | [Full Stack Web & eCommerce Engineer](https://jobs.lever.co/jobgether/91f5a1f0-3173-4564-aec1-16ae06d324ce) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 1:53 AM | [API / Integration Developer, IFCAP (SCM DSO)](https://jobs.lever.co/jobgether/bf6dc960-0803-46c8-be6d-4bb0bd3e6d12) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 1:21 AM | [Android Developer](https://jobs.ashbyhq.com/salmon-group/551a3c44-f673-4ae2-8fe4-05450488eea3) | Salmon Group | Georgia; European Union (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
@@ -830,6 +831,5 @@ Jump to: [Thu 26 (3)](#thursday-nov-26-3) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 8:33 AM | [DevOps & Atlassian Engineer](https://jobs.lever.co/agile-defense/bddc710c-bba9-46ea-804b-91718d58f753) | Agile Defense | Remote (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:32 AM | [Storage and Unix Engineer](https://jobs.lever.co/agile-defense/7370319e-cf64-47e7-8d36-3faf0f86c270) | Agile Defense | Remote (remote) | 42 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 8:12 AM | [SharePoint / Web Administrator — Federal Health IT](https://job-boards.greenhouse.io/rackner/jobs/4758246005) | Rackner | Remote — United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 8:12 AM | [SAP Data Services Developer](https://boards.greenhouse.io/accenturefederalservices/jobs/4731344006?gh_jid=4731344006) | Accenture | Washington, DC | 55 | rules: 4+ yrs exp; no future H-1B sponsorship; asks for 4+ years of e… |
 
 </details>
