@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**182 jobs**, newest first. Updated Wed Nov 25, 6:19 PM CST from 12,580 company job boards and other sources.
+**182 jobs**, newest first. Updated Wed Nov 25, 6:37 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 179 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 2,963 matching jobs that job sites and feeds listed this week, 1,811 (61%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (6)](#wednesday-nov-18-6)
 
@@ -230,13 +232,14 @@ Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34
 | 6:46 PM | [Site Reliability Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016351) | American Express | Phoenix, AZ, United States (hybrid) | 65 |  |
 | 6:42 PM | [IT Infrastructure Engineer](https://jobs.ashbyhq.com/Sierra/742020b7-5a2a-495d-8ac9-d74d31dc91c6) | Sierra | San Francisco, CA (onsite) | 70 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (363)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (364)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 8:06 PM | [Cloud Engineer (AI)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a514fa2f-d9f3-4d40-99fb-28d956698e2f&ccId=19000101_000001&jobId=9201318665857_111&lang=en_US) | A514Fa2F D9F3 4D40 99Fb 28D95… | Washington, DC | 45 | rules: 8+ yrs exp; needs: Secret clearance |
+| 6:21 PM | [Senior Cloud Security Engineer](https://jobs.ashbyhq.com/anyscale/cdc7becf-6d38-4e1d-8ff8-ba4f84d5accc) | Anyscale | San Francisco | 50 | rules: 8+ yrs exp; senior title; E-Verify; asks for 8+ years of exper… |
 | 4:35 PM | [Agent Infrastructure Engineer](https://job-boards.greenhouse.io/heygen/jobs/5309835007) | HeyGen | San Francisco, Palo Alto | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 4:34 PM | [Senior IT Systems Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/8216726003) | Rocket Lab USA | Long Beach, CA | 40 | rules: entry-level title; 5+ yrs exp; senior title; needs: must be a … |
 | 4:25 PM (seen) | [IT Systems Administrator 2](https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26142956&lang=en) | State of Montana | Multiple Locations | 30 | rules: adjacent title, little DevOps/cloud work in the text |
