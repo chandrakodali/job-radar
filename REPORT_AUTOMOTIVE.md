@@ -1,10 +1,10 @@
 # Auto Radar: latest matches
 
-Watching **12,622 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
+Watching **12,671 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
 
 Last new match: **Thu Nov 26, 02:55 PM EST**. Score is 0–100 and uses no AI: the full job text is read section by section. "Has" lists the resume's skills the job asks for; "Missing" lists skills the job requires that the resume does not show. The score weighs how much of what the job asks the resume covers, the title, years required (the MS path counts), the industry, word overlap with the resume, freshness and location. Visa sponsorship moves it by 2 points at most. Full history: [data/automotive/matches.csv](data/automotive/matches.csv).
 
-## Posted in the last 24 hours (10)
+## Posted in the last 24 hours (9)
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
@@ -15,13 +15,12 @@ Last new match: **Thu Nov 26, 02:55 PM EST**. Score is 0–100 and uses no AI: t
 | 76 | [Senior Model Based Systems Engineer](https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00139401&lang=en) | BAE Systems |  | Nov 26 | Model-based design, Requirements engineering, Simulation and modeling | – | 5+ yrs; location unclear |
 | 71 | [Staff Controls Engineer, Chassis Electronics Architecture](https://lucidmotors.com/careers/search/5309919007?gh_jid=5309919007) | Lucid Motors | Newark, CA | Nov 25 | Model-based design, Functional safety, MATLAB, ADAS, Automotive software, Controls/algori… | Hardware design (FPGA/PCB/analog), Vector CANoe/CANalyzer, … | 7+ yrs; stretch: senior-level title |
 | 67 | [Senior Robotics Engineer, Controls](https://jobs.ashbyhq.com/Clera/e9c8c332-61bf-4eb0-bf17-cca15925067e) | Clera | San Francisco (onsite) | Nov 26 | Simulink, MATLAB, C++, Controls/algorithms, Python | Planning/localization, State estimation (Kalman) | 4+ yrs |
-| 66 | [Staff Software Engineer - IVI Camera Software](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74453) | Ford Motor Company | Dearborn, MI, United States; Palo Alto,… (hybrid) | Nov 25 | ADAS, SWC/RTE design, C++, Unit testing, Automotive software, Code reviews, Software inte… | QNX, Android Automotive, Vehicle/bench testing, Java | 5+ yrs; stretch: senior-level title |
 | 65 | [Embedded Linux & Device Software Architecture](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=336f663d-4d12-4b4f-9883-371d431e3759&ccId=19000101_000001&jobId=9207270453760_58&lang=en_US) | 336F663D 4D12 4B4F 9883 371D4… | Anaheim, CA | Nov 26 | ISO 26262, C, Embedded software, C++, Jenkins/CI, Python, Agile/Scrum/Jira, Software inte… | Device drivers/BSP, Embedded Linux/kernel, Cybersecurity (I… | 8+ yrs |
 | 46 | [Embedded Analog Electrical Engineer - Limited Tenure](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396397) | Mayo Clinic | Rochester, MN, United States | Nov 25 | Embedded software, Software integration/build/release | – | no visa sponsorship |
 
-## Found in the last 60 days, posted earlier (1883)
+## Found in the last 60 days, posted earlier (1884)
 
-Showing the 400 best of 1883; the rest are in the full history file.
+Showing the 400 best of 1884; the rest are in the full history file.
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
@@ -115,7 +114,7 @@ Showing the 400 best of 1883; the rest are in the full history file.
 | 81 | [Embedded Software Engineer Aerospace](https://techoundsllc.catsone.com/careers/118121-General/jobs/16795572-Embedded-Software-Engineer--Aerospace/) | Techoundsllc |  | Nov 14 | Simulink, Auto code generation, MATLAB, Requirements engineering, IBM DOORS/DNG, C, CAN/C… | Aerospace/industrial safety (DO-178C/IEC 61508), Unit test … |  |
 | 81 | [Senior Software Developer in Test - HIL Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/64642) | Ford Motor Company | Palo Alto, CA, United States (hybrid) | Jul 07 | Model-based design, Functional safety, Requirements engineering, Embedded software, SWC/R… | HIL testing, Hardware design (FPGA/PCB/analog), Test automa… | 5+ yrs; open 141 days; sponsors visas |
 | 81 | [BMS Software Development Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69288) | Ford Motor Company | Dearborn, MI, United States (hybrid) | Sep 03 | Model-based design, Auto code generation, Functional safety, Requirements engineering, C,… | Battery/BMS | 5+ yrs; open 84 days |
-| 81 | [Software Test Engineer - Embedded Software](https://johndeere.eightfold.ai/careers/job/137483239357) | John Deere | Dubuque, IA, US (onsite) | Sep 08 | Simulink, MIL testing, SIL testing, Embedded software, MATLAB, Requirements engineering, … | – | open 78 days |
+| 81 | [Software Test Engineer - Embedded Software](https://johndeere.eightfold.ai/careers/job/137483239357) | John Deere | Dubuque, IA, US (onsite) | Sep 08 | Simulink, MIL testing, SIL testing, Embedded software, MATLAB, Requirements engineering, … | – | open 79 days |
 | 81 | [ADAS System Test Engineer](https://expleo-jobs-us-en.icims.com/jobs/56102/adas-system-test-engineer/job) | Expleo (US) | Troy, MI, United States | Sep 09 | ISO 26262, ASPICE, ADAS, Requirements engineering, IBM DOORS/DNG, CAN/CAN FD, Automotive … | Cybersecurity (ISO 21434) | 5+ yrs; open 78 days |
 | 81 | [Embedded Software Engineer](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Phoenix-AZ/Software-Engineer_R-26-19967) | Moog | Phoenix, AZ (onsite) | Sep 17 | MIL testing, C, Embedded software, Static analysis (QAC/Coverity/Klocwork), C++, Unit tes… | Device drivers/BSP, RTOS | 2+ yrs; open 69 days |
 | 81 | [Embedded Software Engineer](https://nuro.ai/careersitem?gh_jid=8180955) | Nuro | Mountain View, California (HQ) | Sep 22 | Functional safety, Embedded software, ADAS, AUTOSAR Classic, ISO 26262, Automotive softwa… | – | 3+ yrs; open 64 days |
