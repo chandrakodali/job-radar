@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**322 jobs**, newest first. Updated Thu Nov 26, 4:31 PM CST from 12,580 company job boards and other sources.
+**321 jobs**, newest first. Updated Thu Nov 26, 5:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 96 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (19)](#thursday-nov-19-19)
+Coverage check: of 4,948 matching jobs that job sites and feeds listed this week, 996 (20%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (18)](#thursday-nov-19-18)
 
 ## Thursday, Nov 26 (10)
 
@@ -346,7 +348,7 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (19)
+## Thursday, Nov 19 (18)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -368,14 +370,14 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 5:28 PM | [Seasonal Fulfillment and Receiving Support Associate, Columbia Mall](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826542) | Macy's | Columbia, SC, United States | 75 | entry-level title |
 | 5:28 PM | [Seasonal Fulfillment and Receiving Support Associate, Florida Mall](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826525) | Macy's | Orlando, FL, United States | 75 | entry-level title |
 | 5:28 PM | [Environmental Test  Technician](https://boards.greenhouse.io/vast/jobs/4730953006?gh_jid=4730953006) | VAST | Long Beach, California, United States | 75 | 1+ yrs exp |
-| 5:18 PM | [Junior Software Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6c0f07f7-5d5e-40a8-8e01-433d1c743d19&ccId=19000101_000001&jobId=9205253974162_72&lang=en_US) | 6C0F07F7 5D5E 40A8 8E01 433D1… | Columbia, MD | 85 | entry-level title; 0-2 yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1246)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1241)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:19 PM (seen) | [Software Developer - Networking (Flow)](https://jobs.jobvite.com/nutanix/job/oCgOAfw0) | Nutanix |  | 55 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | 11:58 AM | [Developer Relations](https://jobs.ashbyhq.com/Clera/8a39dc9a-7e2b-4094-b4bf-f1a39932c756) | Clera | Palo Alto (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2030720EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Data Center Technician - Day Shift](https://www.amazon.jobs/en/jobs/10615350/data-center-technician-day-shift) | Amazon Data Services, Inc. | Andrews, Texas, USA +2 more | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
@@ -775,6 +777,5 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 9:26 AM | [Quality Assurance Engineer](https://jobs.ashbyhq.com/saronic/1ef2c166-09df-4eaf-9070-b41fe271e5b5) | Saronic | Austin, TX (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 9:23 AM | [Mobile Service Technician, Charlotte](https://lucidmotors.com/careers/search/5280328007?gh_jid=5280328007) | Lucid Motors | Charlotte, NC | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:19 AM | [Security Engineer](https://job-boards.greenhouse.io/pdtpartners/jobs/8414133) | PDT Partners | New York | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 9:12 AM | [General Counsel, Cyber Security](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161652) | Honeywell | Washington, DC, United States; Charlott… | 45 | rules: 10+ yrs exp; asks for 10+ years of experience |
 
 </details>
