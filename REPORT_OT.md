@@ -1,12 +1,14 @@
 # OT Network Engineer jobs in the US: posted in the last 7 days
 
-**13 jobs**, newest first. Updated Thu Nov 26, 10:15 AM CST from 12,580 company job boards and other sources.
+**11 jobs**, newest first. Updated Thu Nov 26, 12:30 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and OT security roles; controls, automation or network titles only when the job is about networks in an OT/industrial setting). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 1 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (3)](#thursday-nov-19-3)
+Coverage check: of 958 matching jobs that job sites and feeds listed this week, 364 (37%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Fri 20 (6)](#friday-nov-20-6) · [Thu 19 (1)](#thursday-nov-19-1)
 
 ## Tuesday, Nov 24 (4)
 
@@ -28,13 +30,11 @@ Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Fri 20 (6)](#friday-nov-20-6) · [T
 | 10:01 AM (seen) | [OT Field Engineer II](https://ats.rippling.com/radian-generation/jobs/26fe4cbe-9045-4fc9-92b3-c402450d7c73) | Radian Generation | Charlotte, NC (onsite) | 50 |  |
 | 10:01 AM (seen) | [Field SCADA Engineer - Ignition Exp Required](https://ats.rippling.com/divcon-controls/jobs/e28d81ce-3344-432d-a456-d53c8d2864de) | Divcon Controls | Remote (United States) (remote) | 47 |  |
 
-## Thursday, Nov 19 (3)
+## Thursday, Nov 19 (1)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 12:55 PM | [Senior Control Systems Engineer (ABB)](https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/169055) | Clean Harbors | Deer Park, TX, United States; Aragonite… | 40 | senior title, years not stated; OT network work in the text |
-| 12:14 PM | [Operational Technology Engineer](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/Operational-Technology-Engineer_R1063675) | AES | US, Dayton, OH | 65 |  |
-| date only | [Power Generation SCADA Controls Engineer](https://jobs.nexteraenergy.com/job/Palm-Beach-Gardens-Power-Generation-SCADA-Controls-Engineer-FL-33410/1452416500/) | NextEra Energy | Palm Beach Gardens, FL, United States | 68 | 2+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (26)
 
