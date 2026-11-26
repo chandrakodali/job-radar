@@ -1,10 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**59 jobs**, newest first. Updated Thu Nov 26, 12:32 PM CST from 12,580 company job boards and other sources.
+**59 jobs**, newest first. Updated Thu Nov 26, 1:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 174 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,538 matching jobs that job sites and feeds listed this week, 2,336 (51%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (10)](#friday-nov-20-10) · [Thu 19 (9)](#thursday-nov-19-9)
 
@@ -107,7 +109,7 @@ Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) �
 | 3:59 PM | [Software Engineer II - Data Engineering](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304972) | Uber | Sunnyvale, CA, United States | 35 | 3+ yrs exp; requires Java |
 | 1:32 PM | [Software Development Engineer](https://www.esri.com/careers/5291317007?gh_jid=5291317007) | Esri | Vienna, Virginia, United States | 60 | 1+ yrs exp; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (60)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (59)
 
 <details><summary>Show</summary>
 
@@ -171,7 +173,6 @@ Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) �
 | 5:54 PM | [Developer/Programmer Analyst - Hybrid/Onsite – Austin, TX](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4c9a1f1d-ff7a-41e9-9b4a-aecb5ca84ec4&ccId=19000101_000001&jobId=9201697189343_34&lang=en_US) | 4C9A1F1D Ff7A 41E9 9B4A Aecb5… | Falls Church, VA | 23 | rules: 8+ yrs exp; requires Java; asks for 8+ years of experience |
 | date only | [US E GPS Consulting Services GPS HST Java Software Engineer III, Cust…](https://apply.deloitte.com/en_US/careers/JobDetail/Full-Stack-Java-Software-Engineer/375691) | Deloitte US |  | 33 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | date only | [Software Engineer Expert](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Software-Engineer-Expert_R36733) | Allstate Insurance Company | USA - IL (Remote) (remote) | 10 | rules: 7+ yrs exp; no future H-1B sponsorship; requires Java; asks fo… |
-| 1:23 PM | [Senior Software Engineer](https://job-boards.greenhouse.io/natera/jobs/6261258004) | Natera | US Remote (remote) | 15 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
 | 3:39 PM | [Senior Java Software Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6c0f07f7-5d5e-40a8-8e01-433d1c743d19&ccId=19000101_000001&jobId=9205252460254_9&lang=en_US) | 6C0F07F7 5D5E 40A8 8E01 433D1… | Annapolis Junction, MD | 30 | rules: 8+ yrs exp; senior title; needs: TS/SCI Clearance |
 
 </details>
