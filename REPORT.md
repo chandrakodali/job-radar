@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**148 jobs**, newest first. Updated Thu Nov 26, 2:49 PM CST from 12,580 company job boards and other sources.
+**147 jobs**, newest first. Updated Thu Nov 26, 3:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 161 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (9)](#thursday-nov-19-9)
+Coverage check: of 3,384 matching jobs that job sites and feeds listed this week, 2,119 (62%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (8)](#thursday-nov-19-8)
 
 ## Thursday, Nov 26 (7)
 
@@ -182,7 +184,7 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 12:37 AM (seen) | [Systems Reliability Engineer II- Technical Support, Virtualization, L…](https://jobs.jobvite.com/nutanix/job/o2kQzfwv) | Nutanix |  | 35 | 4+ yrs exp; location unclear |
 | 12:00 AM | [Senior Platform Security Engineer](https://weworkremotely.com/remote-jobs/discord-senior-platform-security-engineer) | Discord | Remote, US (Anywhere in the World) (remote) | 52 | senior title, years not stated |
 
-## Thursday, Nov 19 (9)
+## Thursday, Nov 19 (8)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -194,7 +196,6 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 3:12 PM | [Senior IT System Administrator](https://jobs.ashbyhq.com/nerdwallet/fc897ca4-9374-4f8c-8af1-59bf8ecfdd4b) | Nerdwallet | NerdWallet US (remote) | 42 | senior title, years not stated; E-Verify |
 | 3:12 PM | [Utility Infrastructure Telecom Design QC Engineer / Specialist](https://jobs.smartrecruiters.com/AECOM2/744000162605299-utility-infrastructure-telecom-design-qc-engineer-specialist) | AECOM | Kansas City, MO, United States (remote) | 72 | 2+ yrs exp |
 | 3:07 PM | [Multigres Deployment Engineer](https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b) | Supabase | Remote, Global | 55 | location unclear; priority company |
-| 2:54 PM | [Network Engineer I](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11927) | Sundt | Tempe, AZ, United States (hybrid) | 60 | entry-level title; 3+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (330)
 
