@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**178 jobs**, newest first. Updated Wed Nov 25, 7:50 PM CST from 12,580 company job boards and other sources.
+**177 jobs**, newest first. Updated Wed Nov 25, 8:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 172 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (2)](#wednesday-nov-18-2)
+Coverage check: of 3,004 matching jobs that job sites and feeds listed this week, 1,836 (61%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (2)](#wednesday-nov-18-2)
 
 ## Wednesday, Nov 25 (17)
 
@@ -30,7 +32,7 @@ Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34
 | 9:32 AM | [Network Engineer](https://boards.greenhouse.io/cloudflare/jobs/8407666?gh_jid=8407666) | Cloudflare | Hybrid (hybrid) | 60 | no future H-1B sponsorship; priority company |
 | 8:49 AM | [Virtualization Engineer](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5197459007) | ALTEN Technology | Cambridge, Massachusetts, United States | 50 |  |
 
-## Tuesday, Nov 24 (34)
+## Tuesday, Nov 24 (33)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -42,7 +44,6 @@ Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34
 | 3:32 PM | [Oracle Integration Cloud (OIC) Integration Developer](https://boards.greenhouse.io/accenturefederalservices/jobs/4714795006?gh_jid=4714795006) | Accenture | Washington, DC | 55 | no future H-1B sponsorship |
 | 3:20 PM | [Site Reliability Engineer II](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4550) | Akamai Technologies | United States (remote) | 67 | 2+ yrs exp |
 | 2:55 PM | [Senior Software Engineer, Core Infrastructure](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351338) | Oracle | Nashville, TN, United States | 55 | 4+ yrs exp; senior title; repost |
-| 2:40 PM | [Cloud Security Engineer - Mid-Atlantic region (Remote)](https://boards.greenhouse.io/guidepointsecurity/jobs/6270593004?gh_jid=6270593004) | GuidePoint Security | Remote (remote) | 52 | 3+ yrs exp; no future H-1B sponsorship |
 | 2:25 PM | [Backend Engineer, Multi-cloud Inference Platform - Gurveer Pahuja (R3…](https://jobs.gem.com/modular/am9icG9zdDpeGzXogwGdzFHi6sU235DR) | Modular | United States / Canada (remote) | 72 | 2+ yrs exp |
 | 2:07 PM | [Senior Infrastructure Security Engineer](https://jobs.ashbyhq.com/Abridge/b55901ff-e42e-44bc-b2ec-c2c40410b6e7) | Abridge | SF Office; United States - Remote; NYC … (remote) | 52 | senior title, years not stated |
 | 1:26 PM | [Senior Platform Engineer - Remote](https://job-boards.greenhouse.io/wurljobs/jobs/4731768006) | Wurl | Remote - United States (remote) | 52 | senior title, years not stated |
