@@ -1,14 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**182 jobs**, newest first. Updated Wed Nov 25, 6:37 PM CST from 12,535 company job boards and other sources.
+**179 jobs**, newest first. Updated Wed Nov 25, 6:49 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-179 repeat listings (same company and title in another place or on another source) are merged into one row.
+177 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 2,963 matching jobs that job sites and feeds listed this week, 1,811 (61%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (6)](#wednesday-nov-18-6)
+Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (3)](#wednesday-nov-18-3)
 
 ## Wednesday, Nov 25 (17)
 
@@ -221,16 +219,13 @@ Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34
 | 1:00 AM | [IT Systems Engineer](https://jobs.dayforcehcm.com/en-US/avisystems/CANDIDATEPORTAL/jobs/7725) | Avisystems | Minneapolis, MN, US | 50 |  |
 | 12:07 AM (seen) | [Senior Site Reliability Engineer](https://app.careerpuck.com/job-board/blinkhealth/job/75nQcAvf) | Blinkhealth | New York, NY; Pittsburgh, PA; Seattle, … | 40 | senior title, years not stated |
 
-## Wednesday, Nov 18 (6)
+## Wednesday, Nov 18 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:50 PM | [Cloud Identity Engineer III (Entra ID)](https://jobs.lever.co/jobgether/88a96849-d944-46d6-bc01-918662a0d80f) | Jobgether | US (remote) | 57 | 3+ yrs exp; senior title |
 | 9:02 PM | [Cloud Development Engineering Senior Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215094) | DTCC | Tampa, FL, United States; Dallas, TX, U… | 65 | entry-level title; senior title, years not stated |
 | 7:33 PM | [Cloud System Administrator (Shift A - Day)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=567e686e-7575-49d9-b29f-985e7365f987&ccId=19000101_000001&jobId=9202919391983_103&lang=en_US) | 567E686E 7575 49D9 B29F 985E7… | USA, Remote | 63 | E-Verify |
-| 6:48 PM | [Senior Infrastructure Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016715) | American Express | Phoenix, AZ, United States (hybrid) | 60 | 3+ yrs exp; senior title |
-| 6:46 PM | [Site Reliability Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016351) | American Express | Phoenix, AZ, United States (hybrid) | 65 |  |
-| 6:42 PM | [IT Infrastructure Engineer](https://jobs.ashbyhq.com/Sierra/742020b7-5a2a-495d-8ac9-d74d31dc91c6) | Sierra | San Francisco, CA (onsite) | 70 |  |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (364)
 
