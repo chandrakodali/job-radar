@@ -1,10 +1,10 @@
 # Auto Radar: latest matches
 
-Watching **12,671 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
+Watching **12,622 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
 
 Last new match: **Wed Nov 25, 10:36 PM EST**. Score is 0–100 and uses no AI: the full job text is read section by section. "Has" lists the resume's skills the job asks for; "Missing" lists skills the job requires that the resume does not show. The score weighs how much of what the job asks the resume covers, the title, years required (the MS path counts), the industry, word overlap with the resume, freshness and location. Visa sponsorship moves it by 2 points at most. Full history: [data/automotive/matches.csv](data/automotive/matches.csv).
 
-## Posted in the last 24 hours (11)
+## Posted in the last 24 hours (10)
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
@@ -17,12 +17,11 @@ Last new match: **Wed Nov 25, 10:36 PM EST**. Score is 0–100 and uses no AI: t
 | 66 | [Staff Software Engineer - IVI Camera Software](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74453) | Ford Motor Company | Dearborn, MI, United States; Palo Alto,… (hybrid) | Nov 25 | ADAS, SWC/RTE design, C++, Unit testing, Automotive software, Code reviews, Software inte… | QNX, Android Automotive, Vehicle/bench testing, Java | 5+ yrs; stretch: senior-level title |
 | 65 | [Embedded Linux & Device Software Architecture](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=336f663d-4d12-4b4f-9883-371d431e3759&ccId=19000101_000001&jobId=9207270453760_58&lang=en_US) | 336F663D 4D12 4B4F 9883 371D4… | Anaheim, CA | Nov 26 | ISO 26262, C, Embedded software, C++, Jenkins/CI, Python, Agile/Scrum/Jira, Software inte… | Device drivers/BSP, Embedded Linux/kernel, Cybersecurity (I… | 8+ yrs |
 | 64 | [High Voltage Battery Modeling Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74418) | Ford Motor Company | Dearborn, MI, United States (hybrid) | Nov 25 | Simulink, MATLAB, C, C++, Code reviews, Python | Battery/BMS, Machine learning, Test automation scripting, S… |  |
-| 58 | [ADAS Performance Specialist - Trailering](https://careers.stellantis.com/job/24253985/adas-performance-specialist-trailering-auburn-hills-mi/) | Stellantis | Auburn Hills, MI, US | Nov 25 | ADAS, Requirements engineering, Requirements-based testing, V-model | Vehicle/bench testing | 8+ yrs |
 | 46 | [Embedded Analog Electrical Engineer - Limited Tenure](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396397) | Mayo Clinic | Rochester, MN, United States | Nov 25 | Embedded software, Software integration/build/release | – | no visa sponsorship |
 
-## Found in the last 60 days, posted earlier (1877)
+## Found in the last 60 days, posted earlier (1878)
 
-Showing the 400 best of 1877; the rest are in the full history file.
+Showing the 400 best of 1878; the rest are in the full history file.
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
