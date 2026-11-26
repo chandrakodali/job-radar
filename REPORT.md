@@ -1,20 +1,24 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**171 jobs**, newest first. Updated Thu Nov 26, 10:19 AM CST from 12,580 company job boards and other sources.
+**172 jobs**, newest first. Updated Thu Nov 26, 10:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-163 repeat listings (same company and title in another place or on another source) are merged into one row.
+164 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (5)](#thursday-nov-26-5) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (33)](#thursday-nov-19-33)
+Coverage check: of 3,313 matching jobs that job sites and feeds listed this week, 2,063 (62%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Thursday, Nov 26 (5)
+Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (33)](#thursday-nov-19-33)
+
+## Thursday, Nov 26 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Infrastructure Engineer](https://apply.workable.com/raydar/j/4EE5E20CFC/) | Raydar | San Francisco, California, United States | 75 | 1+ yrs exp; repost |
 | date only | [Security Engineer II, AWS Cloud Security Response](https://www.amazon.jobs/en/jobs/10615105/security-engineer-ii-aws-cloud-security-response) | Amazon.com Services LLC | Herndon, Virginia, USA | 55 | 3+ yrs exp |
 | date only | [AWS Console Specialist](https://apply.workable.com/weekday-1/j/E5C66BD7D5/) | Weekday AI | United States (remote) | 62 |  |
 | date only | [Microsoft Azure Specialist](https://apply.workable.com/weekday-1/j/00213FE1A6/) | Weekday AI | United States (remote) | 62 |  |
+| 8:41 AM | [Cloud Systems Engineer - US Based](https://careers.opennebula.io/jobs/8801569-cloud-systems-engineer-us-based) | OpenNebula | Burlington, United States | 65 |  |
 | 7:07 AM (seen) | [Technical Support Engineer (SRE)](https://jobs.jobvite.com/nutanix/job/o8jSAfwD) | Nutanix |  | 40 | 3+ yrs exp; location unclear |
 | 2:37 AM (seen) | [Senior Production Engineer - Terraform](https://careers.ibm.com/careers/JobDetail?jobId=143377) | IBM | Multiple Cities (hybrid) | 40 | senior title, years not stated |
 
@@ -40,7 +44,7 @@ Jump to: [Thu 26 (5)](#thursday-nov-26-5) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 9:32 AM | [Network Engineer](https://boards.greenhouse.io/cloudflare/jobs/8407666?gh_jid=8407666) | Cloudflare | Hybrid (hybrid) | 60 | no future H-1B sponsorship; priority company |
 | 8:49 AM | [Virtualization Engineer](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5197459007) | ALTEN Technology | Cambridge, Massachusetts, United States | 50 |  |
 
-## Tuesday, Nov 24 (34)
+## Tuesday, Nov 24 (33)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -63,7 +67,6 @@ Jump to: [Thu 26 (5)](#thursday-nov-26-5) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 11:28 AM | [Intermediate Network Engineer](https://jobs.lever.co/pingwind/63be007a-0b97-4078-acea-21429d23cf20) | PingWind | Quantico VA (onsite) | 55 |  |
 | 11:14 AM | [Data Infrastructure Engineer, Query Engine](https://jobs.ashbyhq.com/Clera/66e5110f-f1f2-4540-9fcc-a37a0530871c) | Clera | San Mateo (onsite) | 70 | 4+ yrs exp; sponsors visas; repost |
 | 11:05 AM | [Infrastructure Systems Administrator](https://jobs.smartrecruiters.com/Medfar/744000163512571--infrastructure-systems-administrator) | Medfar | Great Neck, New York, United States (hybrid) | 70 |  |
-| date only | [Infrastructure Engineer](https://apply.workable.com/raydar/j/1598342CB0/) | Raydar | San Francisco, California, United States | 65 |  |
 | date only | [Systems Development Engineer , Operations Infrastructure Services](https://www.amazon.jobs/en/jobs/10612558/systems-development-engineer-operations-infrastructure-services) | Amazon.com Services LLC | Nashville, Tennessee, USA | 65 |  |
 | date only | [Sr Network Engineer](https://careers.thehersheycompany.com/job/Hershey-Sr-Network-Engineer-PA-17033/1453449100/) | Hershey | Hershey, PA, US | 45 | 3+ yrs exp; senior title |
 | date only | [Systems Development Engineer, Systems Operations and Scaling, One MHS](https://www.amazon.jobs/en/jobs/10612929/systems-development-engineer-systems-operations-and-scaling-one-mhs) | Amazon.com Services LLC | Nashville, Tennessee, USA | 65 |  |
