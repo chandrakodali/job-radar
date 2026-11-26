@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**173 jobs**, newest first. Updated Thu Nov 26, 9:07 AM CST from 12,535 company job boards and other sources.
+**173 jobs**, newest first. Updated Thu Nov 26, 9:19 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-164 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,260 matching jobs that job sites and feeds listed this week, 2,025 (62%) were already found on the employers' own boards; the rest are listed from those sources.
+163 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Jump to: [Thu 26 (5)](#thursday-nov-26-5) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (36)](#thursday-nov-19-36)
 
@@ -206,7 +204,6 @@ Jump to: [Thu 26 (5)](#thursday-nov-26-5) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 11:10 AM | [Application Support Engineer I](https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Maitland/Application-Support-Engineer-I_R-101451) | Alegeus | 3 Locations | 55 | entry-level title; location unclear |
 | 11:00 AM | [Senior IT Systems Engineer, Migration](https://www.sentinelone.com/jobs/?gh_jid=8204496003) | Sentinellabs | United States - Remote (remote) | 42 | senior title, years not stated; E-Verify |
 | date only | [DevOps / SRE Engineer (Kubernetes, Terraform), AI Expert](https://apply.workable.com/weekday-1/j/FD2496AC64/) | Weekday AI | United States (remote) | 57 | 4+ yrs exp; repost |
-| date only | [DevOps Engineer](https://apply.workable.com/pavago/j/BA693A49E4/) | Pavago | United States +1 more (remote) | 45 | 3+ yrs exp |
 | date only | [Software Engineer, AI Infrastructure](https://apply.workable.com/raydar/j/AB009A2011/) | Raydar | San Francisco, California, United States | 65 |  |
 | date only | [Cloud Security Specialist II](https://netrist.zohorecruit.com/jobs/Careers/363984000011720097/Cloud-Security-Specialist-II) | Netrist |  (remote) | 52 | location unclear |
 | date only | [Software Development Engineer, Specialist AI Tooling, Specialist Tech…](https://www.amazon.jobs/en/jobs/10607438/software-development-engineer-specialist-ai-tooling-specialist-technology-team-aws-specialist-technology-team-stt) | Amazon Web Services, Inc. | New York, New York, USA | 60 | 3+ yrs exp |
@@ -217,6 +214,7 @@ Jump to: [Thu 26 (5)](#thursday-nov-26-5) · [Wed 25 (17)](#wednesday-nov-25-17)
 | date only | [Cyber Security Engineer II - Platform Security (Infra)](https://careers.tesco.com/cs_CZ/careers/JobDetail/Cyber-Security-Engineer-II-Platform-Security-Infra/221048) | Tesco | Welwyn Garden City, Spojené království … | 48 | location unclear |
 | date only | [Emulation Front-End Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893396961732) | Nvidia | Santa Clara, CA, US (onsite) | 53 | 3+ yrs exp |
 | date only | [Site Reliability Engineer](https://apply.workable.com/a2z-sync/j/FA2F2E062A/) | A2Z Sync | Denver, Colorado, United States (remote) | 45 | 4+ yrs exp |
+| date only | [DevOps Engineer](https://apply.workable.com/pavago/j/BA693A49E4/) | Pavago | United States (remote) | 45 | 3+ yrs exp |
 | date only | [Event Tech Ops Engineer](https://nvidia.eightfold.ai/careers/job/893398234102) | Nvidia | Santa Clara, CA, US (onsite) | 33 | 4+ yrs exp |
 | 10:58 AM | [Infrastructure Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016565) | American Express | Phoenix, AZ, United States (hybrid) | 60 | 4+ yrs exp |
 | 10:07 AM (seen) | [Cloud SysAdmin](https://donweb.zohorecruit.com/jobs/Careers/694925000009769001/Cloud-SysAdmin) | Donweb |  (remote) | 27 | location unclear |
