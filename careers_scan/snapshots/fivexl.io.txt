@@ -48,3 +48,4 @@ Real stories from AWS projects
 No-nonsense DevOps tactics
 Cost, security & compliance patterns
 Expert guidance
+Your subscription has been successful!

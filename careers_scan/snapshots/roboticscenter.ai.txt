@@ -30,7 +30,7 @@ Timing and length are flexible and set case by case. Tell us your school or prog
 Apply for an internship
 Event volunteers
 Students, researchers, and builders in the Bay Area robotics community who want to be in the room when the robots are on the floor.
-Help run the events we host and co-host at our San Francisco lab — check-in, hardware setup and briefings, and keeping demos running. Recent and upcoming examples: the GPT-6 Astra Robotics Hardware Hackathon (Reading Club #35 of the Robotics & World Models Reading Club, with Saturday Robotics), Dexterity Day + IROS Recap , Physical AI Operators #02 , and Meet the Robot+Data , which brought 318+ people through the door.
+Help run the events we host and co-host at our San Francisco lab — check-in, hardware setup and briefings, and keeping demos running. Recent examples: Dexterity Day + IROS Recap , Physical AI Operators #02 , and Meet the Robot+Data , which brought 318+ people through the door.
 Volunteering is flexible — pick the events that suit you. Tell us which events you’d like to help with and what you’re into.
 Volunteer at an event See upcoming events
 Prefer a form? Use the careers contact form . You can choose a track, attach a résumé, and share GitHub or portfolio links. Applications are sent to careers@roboticscenter.ai .

@@ -72,7 +72,7 @@ The Observability Layer for the Physical World
 YC Root Access · Youtube
 Careers at tractian
 Job Openings
-106 result(s)
+101 result(s)
 Work Type
 Remote
 Hybrid
@@ -108,8 +108,6 @@ Sales / Enterprise
 Chicago, IL
 Austin, TX
 San Diego, CA
-Federal Enterprise Account Executive
-Los Angeles, CA
 Field Analyst
 Customer Success
 Firmware Quality Assurance Analyst
@@ -125,6 +123,7 @@ Research and Development / Tests & Validations
 Hardware Test Engineer - Mechanics
 Head of Procurement
 Business Operations / Finance
+Los Angeles, CA
 LATAM Performance Marketing Analyst
 Mechanical Design Engineer
 Mid-Market Account Executive

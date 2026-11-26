@@ -90,7 +90,7 @@ SAP S/4Hana ( Coming soon )
 Microsoft Dynamics 365 Business Central ( Coming soon )
 Gmail
 Slack
-Outlook ( Coming soon )
+Outlook
 Upflow API
 MCP Server (Claude, ChatGPT, Copilot)
 Professionnal Services
@@ -103,7 +103,7 @@ Zuora Chargebee Stripe Billing
 CRM
 Salesforce Hubspot
 Communication
-Gmail Slack Outlook ( Coming soon )
+Gmail Slack Outlook
 Advanced Custom Integrations
 Upflow API MCP Server (Claude, ChatGPT, Copilot) Professionnal Services
 Integrations

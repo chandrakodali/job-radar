@@ -1,6 +1,8 @@
 A Note from Our Founders
 Dear Tradex Community,
-We’ve discontinued Tradex, our prediction market platform. This was a difficult decision. Given the changes to India’s online gaming rules, we decided to wind down the service.
+We’ve discontinued the Tradex consumer app because of changes to Indian law under the Promotion and Regulation of Online Gaming Act, 2025 (PROGA). This was a difficult decision.
+Beware of scams. Tradex’s consumer operations remain shut. Our only official domain is tradexapp.co . Some companies are misusing the Tradex name on other domains to lure people into scams. Please do not send money or share personal information with anyone claiming to represent Tradex or offering access to the app.
+For any issues, contact support@tradexapp.co .
 To everyone who made a prediction, took part in our markets, or believed in what we were building, thank you. You were the reason we showed up every day.
 What Comes Next
 B2B Game Development

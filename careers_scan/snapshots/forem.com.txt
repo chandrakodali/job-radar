@@ -13,8 +13,8 @@ Nov 25
 # discuss
 # mentalhealth
 # career
-50 reactions
-16 comments
+53 reactions
+18 comments
 7 min read
 The Third Cup: You Don't Have to Fly That High
 Zhuangzi wisdom meets modern work burnout
@@ -23,93 +23,92 @@ for The Third Cup
 # programming
 # webdev
 81 reactions
-38 comments
+53 comments
 10 min read
-One Man Built Linux in a Bedroom. Another Blew Up Three Rockets. Both Are My Idols. Who's Yours? 🚀🐧
-Readers share surprising idols in the comments
-Akhouri Anmol Kumar
-Nov 24
-# opensource
+Mission:Employable - Field Notes From the Junior Dev Job Market
+Ryan Kelly
+Nov 26
 # beginners
-70 reactions
-179 comments
-3 min read
-Is Tech Hiring Broken? Here's What I'm Seeing | Coffee with Debbie #1
-Debbie O'Brien
-# devrel
-# ai
-# productivity
+# software
 Add Comment
-6 min read
-Stop Tweeting Into the Void: The Software Engineer's Guide to Turning X Into an Inbound Career Engine
-S M Tahosin
-# x
-# twitter
-6 reactions
-1 comment
 9 min read
-10 Rejections. No LinkedIn Premium. 1 Offer. Here's how 👇
-Taqui
-I Gave Up Law and Worked Night Shifts to Become a Developer. Then AI Fixed My Bug in One Prompt.
-CodeNewbie Story
-Rustam Kolumbayev
-# codenewbiestory
+Is Data Science Worth It for Developers? My Honest Take
+Elsie Rainee
+for WPWeb Infotech
+# datascience
+# machinelearning
+8 reactions
+5 comments
 5 min read
-The AI Product Manager Career Path: Routes In, Skills by Stage, and a 90-Day Plan
+ATS-friendly resume checklist: 12 rules, each checked against a real text-extraction test
+Kien Phan
+# resume
+# productivity
+# testing
+8 min read
+My Mentor Is an External Contractor?! Welcome to Enterprise IT and Multi-Tier Subcontracting
+Totolis IT
+# watercooler
+# legacy
+3 min read
+We built a technical assessment where using AI is the point
+Laura Fernández García
+# ai
+# hiring
+2 min read
+How to Map an AI Product Manager Career Path From Campus Recruiting or a Career Switch
 Jay
 # productmanagement
-The Imposter Syndrome Epidemic: Why Your Most Senior Engineers Feel Like Juniors Again
-Debashish Ghosal
-14 reactions
-8 min read
-11,000 applications a minute: the AI job application arms race nobody wins
-Bhavishya Singla
-# hiring
-# jobs
-There Was a Time I Didn't Know the 'C' of Coding
-Ali Ahmad
-# motivation
-The best places to hire an app developer in 2026, and what each one really costs
-Steffen Giebler
-# freelance
+6 min read
+From DBA to Founder: What I Learned Building a Product for My Own Problem
+Abd Alrhman Alloush
 # startup
+# database
+# buildinpublic
 4 min read
-So What Do You Actually Do?
-AheadKit
-1 reaction
-How I'm Systematising My UK Global Talent Visa Application as a Developer
-Sagar Ghag
+Add Google Jobs to career-ops with one portals.yml entry
+krammer liu
+# opensource
+The last step decides whether it's a project or a wait
+Rook
+Salary data from job posts with Python - what Ashby, Greenhouse and Lever really give you
+RAKHAT BUGUBAYEV
 # python
-A free proposal template for web projects (copy it, it is yours)
-Harbor Digital Studio
-# business
-2 min read
+# api
+The First Week After a Layoff: A Calm, Day-by-Day Plan
+Sprint Shelf
+What Next After Graduation? A Honest Guide for New Tech Grads
+Mercy Moraa
+# codenewbie
+Seven years remote: impostor syndrome didn't leave, but it's a lot smaller now
+David Quintanilla
+# remote
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Remembering Steven Schrembeck
 Frontend Isn't Dead. But the Job Title Is Changing
-How to Become a Tech Conference Speaker (And Why You Might Regret It)
 How I Feel about the Grace Hopper Celebration Getting Cancelled
 The Death of Freelance Platforms: Why Upwork & Fiverr Stocks Are Collapsing in the AI Era
+How to Become a Tech Conference Speaker (And Why You Might Regret It)
 The Quiet Weight of Working in Tech in the AI Era
 Should You Still Learn to Code in 2026? An Honest Take From a Student Who's Still Grinding
 Don't Be a Proxy Between Me and Your AI
 People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?
 Salesforce SMTS Interview Experience (Offer Accepted)
-A Simple Guide to Passing the Claude Certified Developer Exam
-Are we software engineers doomed? Yes, because of AI!
-Want to make DEV your full-time job? We're hiring a Community Manager!
 Google's New SDLC Whitepaper: From Vibe Coding to Agentic Engineering
+A Simple Guide to Passing the Claude Certified Developer Exam
+Want to make DEV your full-time job? We're hiring a Community Manager!
+Are we software engineers doomed? Yes, because of AI!
 AI Reduced the Cost of Coding. Did It Increase the Cost of Thinking?
 My AI-assisted coding interview was a lesson in reading unfamiliar code
 What an Anthropic hiring manager stopped asking candidates to do
+The 2026 Software Engineer Job Market in 6 Numbers
 Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
 No Human Will Ever Write Code Better Than LLMs? Better at What?
-The Ever Changing Profession of Software Engineering
-DevOps / SRE Interview Master Guide
-Emotional Deadlocks: When Two People Wait for Each Other to Change First
-TopAccess: Freelancer Review
-O Engenheiro de Software com a mentalidade voltada ao produto
 The Software Entropy in the AI Era
+The Ever Changing Profession of Software Engineering
+Company career page scraper: every open job from any company, by name or domain
+O Engenheiro de Software com a mentalidade voltada ao produto
+Emotional Deadlocks: When Two People Wait for Each Other to Change First
 We're a place where coders share, stay up-to-date and grow their careers.
 Log in
 Create account
