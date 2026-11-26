@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**376 jobs**, newest first. Updated Thu Nov 26, 6:06 AM CST from 12,580 company job boards and other sources.
+**376 jobs**, newest first. Updated Thu Nov 26, 7:00 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 123 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,535 matching jobs that job sites and feeds listed this week, 957 (21%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (75)](#thursday-nov-19-75)
 
@@ -424,7 +426,7 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 7:48 AM | [Administrative Support Team Associate, Riverside Galleria at Tyler - …](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/94871) | Macy's | Riverside, CA, United States | 85 | entry-level title; 1+ yrs exp |
 | 7:48 AM | [Help Desk Technician I](https://job-boards.greenhouse.io/jrmconstructionmanagementllc/jobs/4730647006) | Jrmconstructionmanagementllc | New York, NY | 85 | entry-level title; 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1423)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1422)
 
 <details><summary>Show</summary>
 
@@ -435,6 +437,8 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (49)](#wednesday-nov-25-49)
 | date only | [Software Development Engineer, US ADC Security](https://www.amazon.jobs/en/jobs/10615132/software-development-engineer-us-adc-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
 | date only | [Applications Programmer](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12114) | UCSF | San Francisco, CA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Security Specialist (P4) – Physical Security Technology](https://micron.eightfold.ai/careers/job/44717490) | Micron | GJ,IN (onsite) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| date only | [AI Infrastructure Engineer - NVIS](https://nvidia.eightfold.ai/careers/job/893398972095) | Nvidia | TX,US; Washington, DC, US; US; TN,US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 7:00 AM (seen) | [Technical Support Engineer (SRE)](https://jobs.jobvite.com/nutanix/job/o8jSAfwD) | Nutanix |  | 40 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
 | 5:54 AM (seen) | [Angular Developer](https://emergn.pinpointhq.com/en/postings/32fb9f5e-e974-40ca-ad42-31f1efd8d34a) | Emergn | Portugal - Nationwide (remote) | 57 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 4:43 AM | [NetSuite Systems Administrator](https://job-boards.greenhouse.io/doitintl/jobs/8217779003) | Doitintl | Remote US East (remote) | 52 | rules: 4+ yrs exp; no future H-1B sponsorship; asks for 4+ years of e… |
 | 2:14 AM | [Full Stack Web & eCommerce Engineer](https://jobs.lever.co/jobgether/91f5a1f0-3173-4564-aec1-16ae06d324ce) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -828,7 +832,5 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 8:52 AM | [Service Desk Agent 3 - 000779](https://emqz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3419) | Wayne County | Detroit, MI, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 8:49 AM (seen) | [Systems Implementation Consultant](https://jobs.jobvite.com/tylertech/job/oKF6AfwP) | Tyler Technologies | 2 Locations | 55 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | 8:49 AM (seen) | [Software Engineer / SDET / Code Quality Specialist](https://app.dover.com/apply/careerflow/eb5d2877-ae73-4074-b9e5-93b5807b6538) | Careerflow | United States (remote) | 57 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 8:38 AM | [Email Developer & QA Specialist](https://jobs.ashbyhq.com/imprint/5f04aa19-2276-46f3-97f8-4ecd44023a27) | Imprint | Remote (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| 8:33 AM | [DevOps & Atlassian Engineer](https://jobs.lever.co/agile-defense/bddc710c-bba9-46ea-804b-91718d58f753) | Agile Defense | Remote (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
