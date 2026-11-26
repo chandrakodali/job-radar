@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**172 jobs**, newest first. Updated Thu Nov 26, 2:07 AM CST from 12,535 company job boards and other sources.
+**172 jobs**, newest first. Updated Thu Nov 26, 2:19 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 165 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,123 matching jobs that job sites and feeds listed this week, 1,921 (61%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (40)](#thursday-nov-19-40)
 
