@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**173 jobs**, newest first. Updated Thu Nov 26, 1:50 AM CST from 12,580 company job boards and other sources.
+**172 jobs**, newest first. Updated Thu Nov 26, 2:07 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 165 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (41)](#thursday-nov-19-41)
+Coverage check: of 3,123 matching jobs that job sites and feeds listed this week, 1,921 (61%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (40)](#thursday-nov-19-40)
 
 ## Thursday, Nov 26 (1)
 
@@ -175,7 +177,7 @@ Jump to: [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 12:37 AM (seen) | [Systems Reliability Engineer II- Technical Support, Virtualization, L…](https://jobs.jobvite.com/nutanix/job/o2kQzfwv) | Nutanix |  | 35 | 4+ yrs exp; location unclear |
 | 12:00 AM | [Senior Platform Security Engineer](https://weworkremotely.com/remote-jobs/discord-senior-platform-security-engineer) | Discord | Remote, US (Anywhere in the World) (remote) | 52 | senior title, years not stated |
 
-## Thursday, Nov 19 (41)
+## Thursday, Nov 19 (40)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -219,7 +221,6 @@ Jump to: [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 7:52 AM | [Infrastructure Engineer Deskside Support](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120595) | Howmet Aerospace | Wichita Falls, TX, United States (onsite) | 65 | 4+ yrs exp |
 | 5:16 AM | [System Administrator](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016959286-system-administrator) | Cityofnewyork | New York City, NY, United States | 50 | repost |
 | 5:08 AM | [Platform Engineer](https://ericsson.eightfold.ai/careers/job/563121777600972) | Ericsson | Madrid, MD, ES (onsite) | 70 |  |
-| 2:00 AM | [Production Engineer](https://jobs.supermicro.com/job/San-Jose-Production-Engineer-Cali/1397441200/) | Super Micro Computer | San Jose, California, United States | 53 | 1+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (364)
 
