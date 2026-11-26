@@ -1,17 +1,20 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**63 jobs**, newest first. Updated Wed Nov 25, 10:01 PM CST from 12,580 company job boards and other sources.
+**63 jobs**, newest first. Updated Wed Nov 25, 10:50 PM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-171 repeat listings (same company and title in another place or on another source) are merged into one row.
+172 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (8)](#wednesday-nov-25-8) · [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (15)](#thursday-nov-19-15)
+Coverage check: of 4,075 matching jobs that job sites and feeds listed this week, 2,046 (50%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Wednesday, Nov 25 (8)
+Jump to: [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (11)](#friday-nov-20-11) · [Thu 19 (14)](#thursday-nov-19-14)
+
+## Wednesday, Nov 25 (9)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 10:00 PM | [Java Full Stack Engineer - Professional](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/704699) | HEXAWARE | United States | 65 | repost |
 | 4:14 PM | [Software Engineer III: Full Stack](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746076) | JP Morgan Chase | Jersey City, NJ, United States; Seattle… | 45 | 3+ yrs exp; senior title; requires Java |
 | 1:38 PM | [Software Engineer - Computing Platform (New Graduate)](https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002) | XPENG Motors | Santa Clara, CA | 60 | entry-level title; requires Java |
 | 11:47 AM | [Platform Software Engineer 2](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351580) | Oracle | Kansas City, MO, United States | 50 | 1+ yrs exp; requires Java |
@@ -86,7 +89,7 @@ Jump to: [Wed 25 (8)](#wednesday-nov-25-8) · [Tue 24 (11)](#tuesday-nov-24-11) 
 | 10:35 AM | [Senior Java Engineer - Order Management System](https://jobs.workable.com/view/ipM4SCCAfMYx6t3RqXbtAV/senior-java-engineer---order-management-system-in-massachusetts-at-man-group) | Man Group | Massachusetts (onsite) | 60 | senior title, years not stated |
 | 8:00 AM | [Associate, Full-stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83835) | BNY | Jersey City, NJ, United States | 55 | entry-level title; 3+ yrs exp; requires Java |
 
-## Thursday, Nov 19 (15)
+## Thursday, Nov 19 (14)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -101,7 +104,6 @@ Jump to: [Wed 25 (8)](#wednesday-nov-25-8) · [Tue 24 (11)](#tuesday-nov-24-11) 
 | 1:32 PM | [Software Development Engineer](https://www.esri.com/careers/5291317007?gh_jid=5291317007) | Esri | Vienna, Virginia, United States | 60 | 1+ yrs exp; requires Java |
 | 12:24 PM | [Full Stack Software Engineer II - Java/React/AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778172) | JP Morgan Chase | Tampa, FL, United States | 70 | 2+ yrs exp |
 | 12:02 PM | [Senior Full Stack Developer - Java, Angular](https://careers.united.com/us/en/job/UAIUADUSWHQ00026896EXTERNALENUSTALEO) | United Airlines | Chicago, Illinois, United States | 60 | 4+ yrs exp; senior title |
-| 11:45 AM | [Java Full Stack Engineer - Associate](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/705352) | HEXAWARE | United States | 75 | entry-level title |
 | date only | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.eightfold.ai/careers/job/893397026205) | Nvidia | Santa Clara, CA, US (onsite) | 43 | requires Java |
 | 8:27 AM | [Sr Software Engineer I - Enterprise Architecture](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016711) | American Express | Sunrise, FL, United States (remote) | 47 | entry-level title; senior title, years not stated; requires Java |
 | 8:03 AM | [API Systems Engineer](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31739) | Navy Federal | Vienna, VA, United States (hybrid) | 50 | no future H-1B sponsorship; requires Java |
