@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**174 jobs**, newest first. Updated Thu Nov 26, 1:19 AM CST from 12,580 company job boards and other sources.
+**173 jobs**, newest first. Updated Thu Nov 26, 1:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 165 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (42)](#thursday-nov-19-42)
+Coverage check: of 3,123 matching jobs that job sites and feeds listed this week, 1,921 (61%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (41)](#thursday-nov-19-41)
 
 ## Thursday, Nov 26 (1)
 
@@ -175,7 +177,7 @@ Jump to: [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 12:37 AM (seen) | [Systems Reliability Engineer II- Technical Support, Virtualization, L…](https://jobs.jobvite.com/nutanix/job/o2kQzfwv) | Nutanix |  | 35 | 4+ yrs exp; location unclear |
 | 12:00 AM | [Senior Platform Security Engineer](https://weworkremotely.com/remote-jobs/discord-senior-platform-security-engineer) | Discord | Remote, US (Anywhere in the World) (remote) | 52 | senior title, years not stated |
 
-## Thursday, Nov 19 (42)
+## Thursday, Nov 19 (41)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -220,14 +222,14 @@ Jump to: [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 5:16 AM | [System Administrator](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016959286-system-administrator) | Cityofnewyork | New York City, NY, United States | 50 | repost |
 | 5:08 AM | [Platform Engineer](https://ericsson.eightfold.ai/careers/job/563121777600972) | Ericsson | Madrid, MD, ES (onsite) | 70 |  |
 | 2:00 AM | [Production Engineer](https://jobs.supermicro.com/job/San-Jose-Production-Engineer-Cali/1397441200/) | Super Micro Computer | San Jose, California, United States | 53 | 1+ yrs exp |
-| 1:36 AM | [Cloud System Administrator (Shift C - Night)](https://jobs.lever.co/jobgether/9c2d4dc4-c40b-400c-b0d4-cb0f7d0e65bf) | Jobgether | US (remote) | 62 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (363)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (364)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 1:21 AM | [Senior IT Systems Administrator](https://jobs.lever.co/jobgether/ffa39d1f-c983-4555-adcf-6e4a2cf2477c) | Jobgether | US (remote) | 27 | rules: 5+ yrs exp; senior title; needs: Must be a U.S. citizen |
 | 10:45 PM | [Senior Cloud SRE](https://boards.greenhouse.io/accenturefederalservices/jobs/4732401006?gh_jid=4732401006) | Accenture | San Antonio, TX | 35 | rules: 8+ yrs exp; senior title; no future H-1B sponsorship; needs: P… |
 | 8:06 PM | [Cloud Engineer (AI)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a514fa2f-d9f3-4d40-99fb-28d956698e2f&ccId=19000101_000001&jobId=9201318665857_111&lang=en_US) | A514Fa2F D9F3 4D40 99Fb 28D95… | Washington, DC | 45 | rules: 8+ yrs exp; needs: Secret clearance |
 | 6:29 PM | [Senior Cloud / Server Engineer, Alpharetta  GA, Sunnyvale CA, BH NJ a…](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/27101) | Photon | United States | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
