@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**179 jobs**, newest first. Updated Wed Nov 25, 6:49 PM CST from 12,580 company job boards and other sources.
+**179 jobs**, newest first. Updated Wed Nov 25, 7:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 177 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 2,963 matching jobs that job sites and feeds listed this week, 1,811 (61%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (3)](#wednesday-nov-18-3)
 
@@ -227,13 +229,14 @@ Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34
 | 9:02 PM | [Cloud Development Engineering Senior Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215094) | DTCC | Tampa, FL, United States; Dallas, TX, U… | 65 | entry-level title; senior title, years not stated |
 | 7:33 PM | [Cloud System Administrator (Shift A - Day)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=567e686e-7575-49d9-b29f-985e7365f987&ccId=19000101_000001&jobId=9202919391983_103&lang=en_US) | 567E686E 7575 49D9 B29F 985E7… | USA, Remote | 63 | E-Verify |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (364)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (365)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 8:06 PM | [Cloud Engineer (AI)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a514fa2f-d9f3-4d40-99fb-28d956698e2f&ccId=19000101_000001&jobId=9201318665857_111&lang=en_US) | A514Fa2F D9F3 4D40 99Fb 28D95… | Washington, DC | 45 | rules: 8+ yrs exp; needs: Secret clearance |
+| 6:29 PM | [Senior Cloud / Server Engineer, Alpharetta  GA, Sunnyvale CA, BH NJ a…](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/27101) | Photon | United States | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 6:21 PM | [Senior Cloud Security Engineer](https://jobs.ashbyhq.com/anyscale/cdc7becf-6d38-4e1d-8ff8-ba4f84d5accc) | Anyscale | San Francisco | 50 | rules: 8+ yrs exp; senior title; E-Verify; asks for 8+ years of exper… |
 | 4:35 PM | [Agent Infrastructure Engineer](https://job-boards.greenhouse.io/heygen/jobs/5309835007) | HeyGen | San Francisco, Palo Alto | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 4:34 PM | [Senior IT Systems Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/8216726003) | Rocket Lab USA | Long Beach, CA | 40 | rules: entry-level title; 5+ yrs exp; senior title; needs: must be a … |
