@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**374 jobs**, newest first. Updated Thu Nov 26, 8:31 AM CST from 12,535 company job boards and other sources.
+**373 jobs**, newest first. Updated Thu Nov 26, 8:43 AM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 123 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,631 matching jobs that job sites and feeds listed this week, 967 (20%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (72)](#thursday-nov-19-72)
+Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (71)](#thursday-nov-19-71)
 
 ## Thursday, Nov 26 (8)
 
@@ -347,7 +345,7 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (72)
+## Thursday, Nov 19 (71)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -422,7 +420,6 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 9:01 AM | [IT Support Technician I Per Diem](https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34422) | Erqh Fa Us2 Oraclecloud Com | Morristown, NJ, United States (onsite) | 90 | entry-level title; 1+ yrs exp |
 | 8:51 AM | [Application Support Engineer I](https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Maitland/Application-Support-Engineer-I_R-101451) | Alegeus | 3 Locations | 70 | entry-level title; location unclear |
 | 8:48 AM | [Pricing Analytics Analyst](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261306) | GM financial | Fort Worth, TX, United States (hybrid) | 90 | 0-2 yrs exp; entry level (from the text) |
-| 8:37 AM | [Embedded Software Engineer - Entry Level](https://careers.formlabs.com/job/8402093/apply/?gh_jid=8402093) | Formlabs | Boston, MA | 75 | entry-level title |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1414)
 
