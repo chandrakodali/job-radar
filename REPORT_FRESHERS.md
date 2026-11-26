@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**378 jobs**, newest first. Updated Wed Nov 25, 11:49 PM CST from 12,535 company job boards and other sources.
+**377 jobs**, newest first. Updated Thu Nov 26, 12:01 AM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 126 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,365 matching jobs that job sites and feeds listed this week, 935 (21%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (84)](#thursday-nov-19-84)
+Jump to: [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (83)](#thursday-nov-19-83)
 
 ## Wednesday, Nov 25 (49)
 
@@ -334,7 +332,7 @@ Jump to: [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (84)
+## Thursday, Nov 19 (83)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -421,7 +419,6 @@ Jump to: [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59
 | 1:47 AM | [Associate, Cybersecurity & Data Privacy, Compliance](https://jobs.lever.co/jobgether/c998b954-e4b5-4221-9e90-a854a4cab7a1) | Jobgether | US (remote) | 82 | entry-level title; 1+ yrs exp |
 | 1:05 AM | [CMMS Implementation Associate](https://eiqg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/170848) | Eiqg Fa Us2 Oraclecloud Com | GA, United States | 75 | entry-level title |
 | 12:05 AM | [Systems Support Specialist I - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4416) | City of Oklahoma City | Oklahoma  City, OK, United States (onsite) | 80 | entry-level title |
-| 12:00 AM | [Technical Training Specialist](https://jobs.dayforcehcm.com/en-US/pcg/CANDIDATEPORTAL/jobs/11378) | Pcg | Lenexa, KS, US | 75 | 1+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1429)
 
