@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**175 jobs**, newest first. Updated Thu Nov 26, 3:49 AM CST from 12,580 company job boards and other sources.
+**175 jobs**, newest first. Updated Thu Nov 26, 4:07 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 165 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,142 matching jobs that job sites and feeds listed this week, 1,940 (61%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (4)](#thursday-nov-26-4) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (40)](#thursday-nov-19-40)
 
@@ -223,7 +225,7 @@ Jump to: [Thu 26 (4)](#thursday-nov-26-4) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 5:16 AM | [System Administrator](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016959286-system-administrator) | Cityofnewyork | New York City, NY, United States | 50 | repost |
 | 5:08 AM | [Platform Engineer](https://ericsson.eightfold.ai/careers/job/563121777600972) | Ericsson | Madrid, MD, ES (onsite) | 70 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (364)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (363)
 
 <details><summary>Show</summary>
 
@@ -514,7 +516,6 @@ Jump to: [Thu 26 (4)](#thursday-nov-26-4) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 12:39 PM | [Cloud Infrastructure Engineer - Platform Engineering](https://jobs.ashbyhq.com/xona-space/5f9603fa-1412-480e-a2bb-f8b85778094f) | Xona Space | Burlingame, California (onsite) | 70 | rules: needs: Security Clearance |
 | 12:03 PM | [Senior Systems Engineer, Virtualization](https://coreweave.com/careers/job?4730626006&board=coreweave&gh_jid=4730626006) | CoreWeave | New York, NY / Sunnyvale, CA / Bellevue… | 40 | rules: 5+ yrs exp; senior title; priority company; asks for 5+ years … |
 | 11:57 AM | [Network Engineer](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7080) | Black Box | United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [Senior Site Reliability Engineer – Distributed Storage](https://nvidia.eightfold.ai/careers/job/893398810398) | Nvidia | Santa Clara, CA, US; Austin, TX, US; TX… (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Azure Cloud Platform / Landing Zone Engineer](https://ngc.eightfold.ai/careers/job/1340074630141) | Ngc | Redondo Beach, CA, US; Rolling Meadows,… (onsite) | 50 | rules: 6+ yrs exp; needs: security clearance |
 | date only | [AWS Cloud Platform / Landing Zone Engineer](https://ngc.eightfold.ai/careers/job/1340074629961) | Ngc | Redondo Beach, CA, US; Melbourne, FL, U… (onsite) | 50 | rules: 6+ yrs exp; needs: security clearance |
 | date only | [Senior DevSecOps Engineer](https://symsstrategicgroup.applytojob.com/apply/MoQGHgCusq/Senior-DevSecOps-Engineer) | Syms Strategic Group, LLC (SS… | Sarasota, FL +60 more | 55 | rules: senior title, years not stated; needs: Security Clearance |
