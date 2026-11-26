@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**332 jobs**, newest first. Updated Thu Nov 26, 2:14 PM CST from 12,580 company job boards and other sources.
+**327 jobs**, newest first. Updated Thu Nov 26, 3:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-102 repeat listings (same company and title in another place or on another source) are merged into one row.
+101 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (30)](#thursday-nov-19-30)
+Coverage check: of 4,837 matching jobs that job sites and feeds listed this week, 986 (20%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (24)](#thursday-nov-19-24)
 
 ## Thursday, Nov 26 (10)
 
@@ -234,7 +236,7 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Eugene Valley R…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827218) | Macy's | Eugene, OR, United States | 75 | entry-level title |
 | 3:26 AM | [Administrative Support Team Associate, Beverly Center - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827120) | Macy's | Los Angeles, CA, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Saturday, Nov 21 (26)
+## Saturday, Nov 21 (27)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -257,6 +259,7 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | date only | [IT Support Specialist I (Horseshoe) - Las Vegas](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92196) | Caesars Entertainment | Las Vegas, NV, United States (onsite) | 90 | entry-level title; 1+ yrs exp |
 | date only | [FBS (Mexico) - MarTech Quality Assurance Specialist](https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-MarTech-Quality-Assurance-Specialist/1378095457/) | Farmers Insurance |  | 70 | 1+ yrs exp; no future H-1B sponsorship |
 | date only | [Post Merger Integration Associate](https://apply.workable.com/planetart/j/39EC1C1CD2/) | PlanetArt | Calabasas, California, United States | 85 | entry-level title; 1+ yrs exp; repost |
+| date only | [Title: Platform Solutions Associate](https://careers.mediaocean.com/Innovid/job/Buenos-Aires-Platform-Solutions-Associate/1454055500/) | Mediaocean |  | 58 | entry-level title; location unclear |
 | 5:29 AM | [Administrative Support Associate](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017021926-administrative-support-associate) | Cityofnewyork | New York City, NY, United States | 75 | entry-level title |
 | 5:14 AM | [Automation Engineer, Dealership Integrations](https://jobs.ashbyhq.com/Clera/bee0e82d-889f-47eb-b310-2f50b8ad9954) | Clera | San Francisco (onsite) | 80 | entry level (from the text) |
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Crabtree Valley…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827027) | Macy's | Raleigh, NC, United States | 75 | entry-level title |
@@ -345,7 +348,7 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (30)
+## Thursday, Nov 19 (24)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -372,15 +375,9 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 3:47 PM | [Help Desk Engineer](https://jobs.smartrecruiters.com/Equinox/744000162609569-help-desk-engineer) | Equinox | New York, NY, United States | 75 | 1+ yrs exp |
 | 3:46 PM | [Equipment Tech Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3aada650-9516-4fad-a8af-527c53c40e64&ccId=9200679039949_2&jobId=9201870124474_151&lang=en_US) | 3Aada650 9516 4Fad A8Af 527C5… | Spring Hill, TN | 75 | 0-2 yrs exp |
 | 3:40 PM | [Intellectual Property Technical Specialist – Life Sciences](https://jobs.ashbyhq.com/barnes/0e338b93-6136-4b68-89af-5c702ac81c0f) | Barnes & Thornburg | Minneapolis +5 more | 85 | 0-2 yrs exp; entry level (from the text) |
-| 3:25 PM | [Associate Customer Support Analyst, New Grad](https://www.ixl.com/company/jobs?gh_jid=8953765002) | Ixllearning | San Mateo, CA +1 more | 75 | entry-level title |
-| 3:11 PM | [AI Engineer - Remote](https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/171417) | Community Health Systems | United States | 75 | 1+ yrs exp |
-| 3:04 PM | [Data Center Technician I](https://job-boards.greenhouse.io/hut8/jobs/5489854008) | Hut8 | Odessa, TX | 75 | entry-level title |
-| 2:58 PM | [Service Desk Coordinator](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7138) | Black Box | MIAMI, FL, United States | 75 | 1+ yrs exp |
-| 2:48 PM | [Technical Support Representative](https://job-boards.greenhouse.io/lgelectronics/jobs/5489909008) | LG Electronics | Huntsville, AL | 85 | 1+ yrs exp; entry level (from the text) |
-| 2:25 PM | [Junior System Administrator](https://jobs.workable.com/view/b6RPW8CA8Dfz5kZCH8YSZa/junior-system-administrator-in-greenwood-village-at-merchants-mortgage-%26-trust-corporation) | Merchants Mortgage & Trust Co… | Greenwood Village, Colorado (onsite) | 80 | entry-level title |
-| 2:16 PM (seen) | [Data Scientist Graduate (TikTok Product) - 2027 Start](https://lifeattiktok.com/search/7669654422861383941) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
+| 3:25 PM | [Associate Customer Support Analyst, New Grad](https://www.ixl.com/company/jobs?gh_jid=8953765002) | Ixllearning | San Mateo, CA | 75 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1320)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1269)
 
 <details><summary>Show</summary>
 
