@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**173 jobs**, newest first. Updated Thu Nov 26, 8:49 AM CST from 12,580 company job boards and other sources.
+**173 jobs**, newest first. Updated Thu Nov 26, 9:07 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 164 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,260 matching jobs that job sites and feeds listed this week, 2,025 (62%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (5)](#thursday-nov-26-5) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (36)](#thursday-nov-19-36)
 
@@ -221,7 +223,7 @@ Jump to: [Thu 26 (5)](#thursday-nov-26-5) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 9:54 AM | [Senior Site Reliability Engineer, Infrastructure Services](https://jobs.apple.com/en-us/details/200694762/senior-site-reliability-engineer-infrastructure-services) | Apple | United States of America | 55 | senior title, years not stated |
 | 9:35 AM | [Platform Engineer](https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/22892) | EXL | United States (hybrid) | 70 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (363)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (362)
 
 <details><summary>Show</summary>
 
@@ -559,7 +561,6 @@ Jump to: [Thu 26 (5)](#thursday-nov-26-5) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 10:19 AM | [Senior AI Observability engineer](https://lamresearch.eightfold.ai/careers/job/1099551265329) | Lamresearch | Fremont, CA, US (onsite) | 50 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 9:36 AM | [Network Engineer / Network and Server Support](https://jobs.workable.com/view/i2NTxLUjaGKAkpJGcKhAie/hybrid-network-engineer-%7C-network-and-server-support-in-harrisburg-at-adept-consulting-services%2C-inc.) | Adept Consulting Services, In… | Harrisburg, Pennsylvania (hybrid) | 50 | rules: staffing/consulting firm: verify it's real; adjacent title, li… |
 | 9:23 AM | [Senior Systems Administrator](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5489353008) | The Nuclear Company | Columbia, South Carolina | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 9:07 AM (seen) | [Reliability Engineer](https://reliablesfc.pinpointhq.com/en/postings/3d6872a7-b43b-4b02-8d8d-209c39954a4a) | Reliablesfc | Columbia, PA - Plant (onsite) | 20 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:00 AM | [OT Infrastructure Engineer - Southeast](https://jobs.dayforcehcm.com/en-US/inframark/CANDIDATEPORTAL/jobs/13492) | Inframark | North Charleston, SC, US; Norcross, GA,… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Systems Administrator](https://careers-americansystems.icims.com/jobs/5521/systems-administrator/job) | AMERICAN SYSTEMS | Colorado Springs, CO, United States | 30 | rules: 5+ yrs exp; needs: TS/SCI Clearance |
 | 11:00 PM | [NOC Network Administrator](https://careers-dminc.icims.com/jobs/29163/noc-network-administrator/job) | DMI | Hanover, MD, United States | 60 | rules: 2+ yrs exp; needs: Must be a U.S. Citizen |
