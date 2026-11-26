@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**149 jobs**, newest first. Updated Thu Nov 26, 1:37 PM CST from 12,535 company job boards and other sources.
+**149 jobs**, newest first. Updated Thu Nov 26, 1:50 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 161 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,374 matching jobs that job sites and feeds listed this week, 2,109 (62%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (10)](#thursday-nov-19-10)
 
@@ -199,7 +197,7 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 2:54 PM | [Network Engineer I](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11927) | Sundt | Tempe, AZ, United States (hybrid) | 60 | entry-level title; 3+ yrs exp |
 | 2:37 PM (seen) | [ML Ops / AI Infrastructure Engineer](https://app.dover.com/apply/zerospace/26fed6ba-728b-422e-89e6-2ba36af5aa78) | Zerospace | Brooklyn, NY (onsite) | 60 | sponsors visas |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (339)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (334)
 
 <details><summary>Show</summary>
 
@@ -486,9 +484,6 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | date only | [Sr. Software Developer - Platform Engineering](https://apply.workable.com/toyota-tsusho-systems/j/206E96F819/) | Toyota Tsusho Systems | Plano, Texas, United States +1 more | 33 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 2:05 PM | [Senior Associate - Tech Ops Engineering](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016666) | American Express | Phoenix, AZ, United States (hybrid) | 45 | rules: entry-level title; 10+ yrs exp; senior title; asks for 10+ yea… |
 | 1:30 PM | [Senior Network Engineer - 3902](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=659b82d2-10ab-4c07-8c2d-3ce16b4539b6&ccId=19000101_000001&jobId=9201928202991_71&lang=en_US) | 659B82D2 10Ab 4C07 8C2D 3Ce16… | Huntsville, AL | 30 | rules: 8+ yrs exp; senior title; needs: security clearance |
-| 1:27 PM | [Geospatial Cloud Developer](https://boards.greenhouse.io/ardentmc/jobs/8403165?gh_jid=8403165) | Ardentmc | Washington, D.C. Metro - on-site (onsite) | 50 | rules: 5+ yrs exp; needs: security clearance |
-| 1:06 PM | [Cloud Adoption Engineer- Cloud Activation and Migrations](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350692) | Oracle | Reston, VA, United States; Washington, … | 40 | rules: 8+ yrs exp; needs: U.S. citizenship is required |
-| date only | [Senior Cloud Platform Engineer (AIOps)](https://apply.workable.com/credence/j/DEFB1F312A/) | Credence | McLean, Virginia, United States | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | date only | [Senior Systems Software Engineer, Containers, Kubernetes, and Confide…](https://nvidia.eightfold.ai/careers/job/893398004321) | Nvidia | CA,US; TX,US; NC,US; WA,US (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Software Engineer, Bare Metal Infrastructure – DGX Cloud](https://nvidia.eightfold.ai/careers/job/893398376572) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Deep Learning Software Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893398605763) | Nvidia | Santa Clara, CA, US +1 more (onsite) | 45 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
@@ -515,8 +510,6 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | date only | [Senior Automation Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893398829768) | Nvidia | CA,US; GA,US; TX,US; AZ,US (remote) | 30 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | date only | [Senior Production Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893397975884) | Nvidia | Santa Clara, CA, US; US (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 10:21 AM | [Senior F5 Network Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678604) | 6166Aed4 Af42 4762 99E4 5D67A… | MD, USA | 30 | rules: 8+ yrs exp; senior title; needs: security clearance |
-| 12:00 AM | [OT Infrastructure Engineer - Southeast](https://jobs.dayforcehcm.com/en-US/inframark/CANDIDATEPORTAL/jobs/13492) | Inframark | North Charleston, SC, US; Norcross, GA,… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 11:00 PM | [Systems Administrator](https://careers-americansystems.icims.com/jobs/5521/systems-administrator/job) | AMERICAN SYSTEMS | Colorado Springs, CO, United States | 30 | rules: 5+ yrs exp; needs: TS/SCI Clearance |
 | 11:00 PM | [NOC Network Administrator](https://careers-dminc.icims.com/jobs/29163/noc-network-administrator/job) | DMI | Hanover, MD, United States | 60 | rules: 2+ yrs exp; needs: Must be a U.S. Citizen |
 | 11:00 PM | [System Administrator](https://careers-bnh.icims.com/jobs/25363/system-administrator/job) | Beyond New Horizons | Arnold AFB, TN, United States | 40 | rules: 4+ yrs exp; no future H-1B sponsorship; needs: security cleara… |
 | 8:28 PM | [Network Engineer III- Hybrid Schedule - Green Bay, WI](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=55888d88-cf09-47e9-99b5-cdf86a66592a&ccId=19000101_000001&jobId=9205261686932_110&lang=en_US) | 55888D88 Cf09 47E9 99B5 Cdf86… | Green Bay, WI | 23 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
