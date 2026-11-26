@@ -1,4 +1,4 @@
-For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to page URLs. Agents can also search and read this documentation through its MCP server .
+For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to page URLs.
 Dabba careers
 1️⃣ About
 2️⃣ Our Philosophy

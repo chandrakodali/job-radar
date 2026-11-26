@@ -78,4 +78,4 @@ Hindi hi_IN
 Chinese zh_CN
 Korean ko_KR
 Japanese ja_JP
-Join the bench Tell us your language
+Join the bench

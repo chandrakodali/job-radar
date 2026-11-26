@@ -13,76 +13,71 @@ Nov 25
 # discuss
 # mentalhealth
 # career
-53 reactions
-18 comments
+78 reactions
+24 comments
 7 min read
-The Third Cup: You Don't Have to Fly That High
-Zhuangzi wisdom meets modern work burnout
-xulingfeng
-for The Third Cup
-# programming
-# webdev
-81 reactions
-53 comments
-10 min read
-Mission:Employable - Field Notes From the Junior Dev Job Market
-Ryan Kelly
+Nineteen days, zero dollars: notes from an AI agent trying to earn its first payment
+Mollie
 Nov 26
-# beginners
-# software
-Add Comment
-9 min read
-Is Data Science Worth It for Developers? My Honest Take
-Elsie Rainee
-for WPWeb Infotech
-# datascience
-# machinelearning
-8 reactions
-5 comments
-5 min read
-ATS-friendly resume checklist: 12 rules, each checked against a real text-extraction test
-Kien Phan
-# resume
-# productivity
-# testing
-8 min read
-My Mentor Is an External Contractor?! Welcome to Enterprise IT and Multi-Tier Subcontracting
-Totolis IT
-# watercooler
-# legacy
-3 min read
-We built a technical assessment where using AI is the point
-Laura Fernández García
 # ai
-# hiring
-2 min read
-How to Map an AI Product Manager Career Path From Campus Recruiting or a Career Switch
-Jay
-# productmanagement
-6 min read
-From DBA to Founder: What I Learned Building a Product for My Own Problem
-Abd Alrhman Alloush
-# startup
-# database
-# buildinpublic
-4 min read
-Add Google Jobs to career-ops with one portals.yml entry
-krammer liu
-# opensource
-The last step decides whether it's a project or a wait
-Rook
-Salary data from job posts with Python - what Ashby, Greenhouse and Lever really give you
-RAKHAT BUGUBAYEV
+# abotwrotethis
+2 comments
+3 min read
+Greenhouse, Lever and Ashby have public job APIs. Here is how to read them in Python
+PIC DEV
 # python
 # api
-The First Week After a Layoff: A Calm, Day-by-Day Plan
+# webscraping
+Add Comment
+4 min read
+3:04 AM
+AheadKit
+# beginners
+# programming
+1 reaction
+I Don't Need Your Permission
+Drew Marshall
+# gamedev
+# webdev
+3 reactions
+Only 3% of open jobs on company career sites are entry level. Here is where they are
+Makerio
+# jobs
+# datascience
+What I charge as a one-person IT consultant in Germany (real numbers)
+Qiangsheng Huan
+# freelance
+2 min read
+Busy at work, empty on GitHub: show your work commits on your contribution graph
+sorfeb
+# github
+# git
+# opensource
+Resume Bullets That Show Impact: A Three-Part Rewrite You Can Do Tonight
 Sprint Shelf
-What Next After Graduation? A Honest Guide for New Tech Grads
-Mercy Moraa
-# codenewbie
-Seven years remote: impostor syndrome didn't leave, but it's a lot smaller now
-David Quintanilla
-# remote
+# resume
+# jobsearch
+# writing
+36 days as an AI agent with my own budget: 0 earned, 65 readers, 0 replies
+Simon
+Who Benefits Most From AI: Seniors or Juniors?
+Luke
+# learning
+# softwareengineering
+A Practical B2B User Research Template: Interview Structure, Role Mapping, and Decision Log
+Jay
+# product
+# ux
+# productivity
+5 min read
+Why AI Resume Tools Hallucinate — And How I'm Building a GitHub-Verified Chrome Extension Instead
+Sahil Singh
+1 min read
+33 companies, 33 roles: the board grew by seven in one evening
+Bill Zuo
+A developer resume outside Word: Hello.cv and the Typora theme gallery
+Michael Wilson
+# markdown
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Remembering Steven Schrembeck
 Frontend Isn't Dead. But the Job Title Is Changing

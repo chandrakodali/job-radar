@@ -1,353 +1,400 @@
 # Careers page changes
 
-Checked 2026-11-26 10:07 UTC: 1757 pages, 40 changed, 16 look like new postings.
-
-## [Audun](https://audun.co/careers/)
-
-- added: Oslo
-- added: Stockholm
-- added: Founding AI Engineer
-- added: Customer Success Manager
-- added: Collection Expert
-- added: Commercial Intern
-- added: Engineering Intern
-- added: Copenhagen
-- added: Helsinki
-- added: Berlin
-- added: Amsterdam
-- added: Position not listed?
-- added: We welcome open applications.
-- added: Send an open application
-- removed: Own the technology rebuilding collections. Build across the stack, from production AI to durable workflows, and use coding agents across development and operations.
-- removed: Oslo / Stockholm
-- removed: Engineer Interns
-- removed: GTM Interns
-- removed: Market Launcher
+Checked 2026-11-26 22:40 UTC: 1757 pages, 49 changed, 13 look like new postings.
 
 ## [Cognizant](https://careers.cognizant.com/india-en/)
 
-- added: SME-Accounting
-- added: Hyderabad, Telangana, India
-- added: SPE-Accounts Payable
-- added: TL-Procurement
-- added: SPE-Accounts Receivable
-- added: Coimbatore, Tamil Nadu, India
-- added: SPE-AR Management HC
-- removed: Director - Advisor Relations, APJ
-- removed: MUMBAI, Maharashtra, India
-- removed: Corporate
-- removed: Manager - Network Security
-- removed: PUNE, Maharashtra, India
+- added: Workday Integration Consultant
+- added: Chennai, Tamil Nadu, India
+- added: Workday Finance Consultant
+- added: Java Full stack developer
+- added: PUNE, Maharashtra, India
+- removed: TL-Procurement
+- removed: SPE-Accounts Receivable
+- removed: Coimbatore, Tamil Nadu, India
+- removed: SPE-AR Management HC
 
-## [Cyble](https://cyble.com/customer-stories/)
+## [Employment Hero](https://employmenthero.com/jobs/)
 
-- added: BLACK FRIDAY · CYBER MONDAY
-- added: Not every Black Friday deal is what it seems
-- added: Scammers love the holiday shopping rush too. Can you spot them?
-- added: Play the game
-- added: Get the free eBook
-
-## [dbt Labs](https://www.getdbt.com/about-us/careers)
-
-- added: Deal Desk Analyst
-- added: CRI - Remote
+- added: Account Manager
+- added: IOR Services
+- added: Townsville, Queensland 4810
+- added: Occupational Therapist
+- added: Pragma Home Care
+- added: Perth, Western Australia 6000
+- added: • A$45 – A$80
+- added: GIS Specialist
+- added: Larvotto Resources
+- added: Armidale, New South Wales 2350
+- added: 5+ years
+- added: Let’s Grow Together | Culinary Team Treehouse Hotel Adelaide – Expression of Interest
+- added: Treehouse Hotel Adelaide
+- added: Team Member
+- added: Let’s Grow Together | Food & Beverage Team Treehouse Hotel Adelaide – Expression of Interest
+- removed: Landscaper (86-641)
+- removed: Yurra Pty Ltd
+- removed: Port Hedland, Western Australia 6721
+- removed: Tradesperson
+- removed: Senior Finance Officer
 
 ## [Forem](https://dev.to/t/career)
 
-- added: 53 reactions
-- added: 18 comments
-- added: 53 comments
-- added: Mission:Employable - Field Notes From the Junior Dev Job Market
-- added: Ryan Kelly
-- added: Nov 26
-- added: # software
-- added: Is Data Science Worth It for Developers? My Honest Take
-- added: Elsie Rainee
-- added: for WPWeb Infotech
-- added: # datascience
-- added: # machinelearning
-- added: 8 reactions
-- added: 5 comments
-- added: ATS-friendly resume checklist: 12 rules, each checked against a real text-extraction test
-- removed: 50 reactions
-- removed: 16 comments
-- removed: 38 comments
-- removed: One Man Built Linux in a Bedroom. Another Blew Up Three Rockets. Both Are My Idols. Who's Yours? 🚀🐧
-- removed: Readers share surprising idols in the comments
+- added: 78 reactions
+- added: 24 comments
+- added: Nineteen days, zero dollars: notes from an AI agent trying to earn its first payment
+- added: Mollie
+- added: # abotwrotethis
+- added: 2 comments
+- added: Greenhouse, Lever and Ashby have public job APIs. Here is how to read them in Python
+- added: PIC DEV
+- added: # webscraping
+- added: 3:04 AM
+- added: AheadKit
+- added: 1 reaction
+- added: I Don't Need Your Permission
+- added: Drew Marshall
+- added: # gamedev
+- removed: 53 reactions
+- removed: 18 comments
+- removed: The Third Cup: You Don't Have to Fly That High
+- removed: Zhuangzi wisdom meets modern work burnout
+- removed: xulingfeng
+
+## [Gerencianet](https://sejaefi.gupy.io/)
+
+- added: 3 jobs found for 0 filters applied
+- added: Job for Internship: Pessoa Estagiária de Política e Modelagem de Crédito e Cobrança
+- added: Internship
+- removed: 2 jobs found for 0 filters applied
+
+## [Kaufland e-commerce](https://kaufland-ecommerce.com/en/careers/)
+
+- added: After Sales Business Developer | Kundenservice
+- added: JOB OFFERS: 14
+- removed: (Junior) Tech Recruiter | (für ein Jahr befristet)
+- removed: JOB OFFERS: 13
 
 ## [Luxoft](https://career.luxoft.com/)
 
-- added: Senior Data Engineer (Snowflake + Azure)
-- added: Remote India, India
-- added: DWH Development
-- added: L1 Production Support Engineer
-- added: Hyderabad, India
-- removed: Trade Support Analyst (with Capital Markets exp.)
-- removed: Remote Ukraine, Ukraine
-- removed: Remote Serbia, Serbia
+- added: Java Tech Lead (Low Latency)
+- added: Remote Ukraine, Ukraine
+- added: Java
+- added: Remote Poland, Poland
+- removed: Senior Data Engineer (Snowflake + Azure)
+- removed: Remote India, India
+- removed: DWH Development
+- removed: L1 Production Support Engineer
+- removed: Hyderabad, India
 
-## [MailerLite](https://www.mailerlite.com/jobs)
+## [Muzz](https://muzz.com/us/en/careers/)
 
-- added: Senior Technical Recruiter
-
-## [Maxicus](https://maxicus.com/careers/)
-
-- added: Senior Manager – Quality
-- added: Ranchi
-- added: The Quality Auditor monitors and analyzes customer service calls, gives agents targeted feedback, and turns call insights into reports that help improve quality across the team.
-- added: Senior Manager/ ​ Manager HR​
-- added: We are seeking a dynamic and detail-oriented HR Professional with 2–3 years of experience to join our Human Resources team. The successful candidate will play a key role in managing end-to-end recruit
-- added: Assistant Manager Operations
-- added: Manage a team of customer service representatives, ensuring that they adhere to company policies and to engage
-- added: Senior Manager/ ​ Manager IT​
-- added: We are seeking a skilled Digital Marketing Manager to spearhead our digital marketing efforts in the B2B SaaS space.
-- added: Senior Manager/ ​ Manager Quality And Training ​
-- added: Drive ongoing skills growth of employees by delivering engaging and quality training. Designing and developing training in close collaboration with various subject matter experts.
-- added: Senior Manager/ ​ Manager Training​
-- added: Senior Manager/ Manager Admin
-- added: We are seeking a proactive and detail-oriented Administration Manager to oversee and manage the organization's administrative operations, ensuring smooth day-to-day functioning and operational efficie
-- added: Trainer / Senior Trainer
-
-## [Muse Group](https://www.mu.se/vacancies)
-
-- added: IT Service Management Administrator
+- added: Currently hiring 16 roles in engineering & marketing
+- added: Senior Platform Security Engineer
+- added: London: £71,000 - £86,000 + equity; Remote within EU: £56,000 - £68,000 + equity
+- removed: Currently hiring 15 roles in engineering & marketing
 
 ## [Odoo](https://www.odoo.com/jobs)
 
-- added: Customer Success Manager, Direct
-- removed: Partner Account Executive, Dutch
+- added: All Countries 184
+- added: Spain 6
+- added: 184
+- added: Partner Account Executive, Dutch
+- removed: All Countries 185
+- removed: Spain 7
+- removed: 185
+- removed: Customer Success Manager, Direct
+
+## [Ooak Data](https://ooakdata.com/careers)
+
+- added: Senior DevOps Engineer Paris €65–95K 6+ years 0.07% equity
+- added: Lead ML Engineer Paris €90–120K 6+ years 0.12% equity
+- added: Lead Software Engineer Paris €80–100K 6+ years 0.12% equity
+- added: Head of Engineering Paris €100–130K 11+ years 0.17% equity
+- added: Senior Software Engineer Paris €55–80K 6+ years 0.12% equity
+- added: Senior Operations Manager Paris €60–80K 6+ years 0.07% equity
+- added: Operations Manager, Data & AI Paris €45–60K 1+ year 0.05% equity
+- added: Account Executive, Data Partnerships (EU) Paris €55–120K 3+ years 0.07% equity
+- added: Product Manager Paris €70–90K 6+ years 0.07% equity
+- removed: Senior DevOps Engineer Paris €65–95K 6+ years
+- removed: Lead ML Engineer Paris €90–120K 6+ years
+- removed: Lead Software Engineer Paris €80–100K 6+ years
+- removed: Head of Engineering Paris €100–130K 11+ years
+- removed: Senior Software Engineer Paris €55–80K 6+ years 0.10–0.30% equity
 
 ## [ownCloud](https://owncloud.com/career/)
 
-- added: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1795666948 uolcn 1795666948 wo@kr 1795666948 
-- added: Please send us your application via e-mail to moc.d 1795666948 uolcn 1795666948 wo@kr 1795666948 ow 1795666948 – We will get back to you as soon as possible.
-- removed: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1795625230 uolcn 1795625230 wo@kr 1795625230 
-- removed: Please send us your application via e-mail to moc.d 1795625230 uolcn 1795625230 wo@kr 1795625230 ow 1795625230 – We will get back to you as soon as possible.
+- added: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1795698959 uolcn 1795698959 wo@kr 1795698959 
+- added: Please send us your application via e-mail to moc.d 1795698959 uolcn 1795698959 wo@kr 1795698959 ow 1795698959 – We will get back to you as soon as possible.
+- removed: Join our team and use the opportunity to develop your creative ideas. Fun at work, flexibility and above average compensation guaranteed. Apply here moc.d 1795666948 uolcn 1795666948 wo@kr 1795666948 
+- removed: Please send us your application via e-mail to moc.d 1795666948 uolcn 1795666948 wo@kr 1795666948 ow 1795666948 – We will get back to you as soon as possible.
+
+## [ScrapingBee](https://www.scrapingbee.com/scrapers/google-jobs-scraper-api/)
+
+- added: 28 min read
+- added: Browser Fingerprint Consistency: Auditing TLS, HTTP/2, and JavaScript Signals
+- added: Learn how to audit browser fingerprint consistency across TLS, HTTP/2, and JavaScript. Detect mismatches with Python and Playwright before deploying your scraper.
+- added: Ilya Krukowski
+- added: 26 November 2026
+- removed: 25 min read
+- removed: What Is a CAPTCHA Solver? How Solvers Work, Their Limits and Better Alternatives
+- removed: A CAPTCHA solver completes CAPTCHAs with human workers or AI. Learn how solvers work, what research shows, the legal risks and better alternatives.
+- removed: Thalia Barrera
+- removed: 18 November 2026
 
 ## [Swadesi Way](https://swadesiway.com/explore)
 
-- added: Showing 1–12 of 207 results
-- added: Organic Regular Bananas (Cavendish) (Semi-Ripe) 7pcs/kg
-- added: ₹ 160.00
-- added: Organic Regular Bananas (Cavendish) (Semi-Ripe) 7pcs/kg quantity
-- added: Organic Elaichi Banana (Semi Ripe) 15pcs/kg
-- added: ₹ 240.00
-- added: Organic Elaichi Banana (Semi Ripe) 15pcs/kg quantity
-- added: Organic Desi Amla
-- added: Organic Desi Amla quantity
-- added: Organic Potato
-- added: ₹ 75.00
-- added: Organic Potato quantity
-- added: Organic Tomato
-- added: Price range: ₹70.00 through ₹130.00
-- added: Organic Tomato quantity
-- removed: Showing 1–12 of 205 results
-- removed: Organic Kiwi
-- removed: Price range: ₹135.00 through ₹300.00
-- removed: 12 pcs (600-720 gm)
-- removed: 4 pcs (200-360 gm)
+- added: Showing 1–12 of 210 results
+- added: Organic Malta
+- added: Price range: ₹90.00 through ₹175.00
+- added: Organic Malta quantity
+- added: Organic Kiwi
+- added: Price range: ₹135.00 through ₹300.00
+- added: 12 pcs (600-720 gm)
+- added: 4 pcs (200-360 gm)
+- added: 8 pcs (400-480 gm)
+- added: Organic Kiwi quantity
+- added: Organic Dill leaves
+- added: Organic Dill leaves quantity
+- added: Organic Zucchini Green
+- added: Organic Zucchini Green quantity
+- added: Organic Zucchini Yellow
+- removed: Showing 1–12 of 207 results
+- removed: Wood-pressed Mustard Oil & Bilona Desi Rathi Cow Ghee quantity
+- removed: 2 Oil and Bilona Desi Rathi Cow Ghee
+- removed: Price range: ₹1,230.00 through ₹2,328.00
+- removed: 500 ml x 3
 
-## [TradeX](https://tradexapp.co/careers)
+## [UBITS](https://ubits.com/trabaja-con-nosotros)
 
-- added: We’ve discontinued the Tradex consumer app because of changes to Indian law under the Promotion and Regulation of Online Gaming Act, 2025 (PROGA). This was a difficult decision.
-- added: Beware of scams. Tradex’s consumer operations remain shut. Our only official domain is tradexapp.co . Some companies are misusing the Tradex name on other domains to lure people into scams. Please do 
-- added: For any issues, contact support@tradexapp.co .
-- removed: We’ve discontinued Tradex, our prediction market platform. This was a difficult decision. Given the changes to India’s online gaming rules, we decided to wind down the service.
-
-## [Upworthy](https://www.upworthy.com/jobs-that-pay-well-people-dont-realize/)
-
-- added: Andy Reid’s legendary secret mac-n-cheese recipe has finally been shared with the world
-- added: Taylor Swift surprises 81-year-old Brenda Lee with RIAA Diamond plaque for ‘Rockin’ Around the Christmas Tree.’
-- added: The origin of the Thanksgiving holiday actually had nothing to do with the Pilgrims or Native Americans
-- added: Identity
-- added: Tattoos have become as American as apple pie. But it turns out they still make people nervous.
-- added: Neil Diamond wrote The Monkees’ biggest hit, but they weren’t his first choice to sing it
-- added: 15 old-school casserole recipes that feel like home for boomers and Gen Xers
-- added: Emily Shiffer & Upworthy Staff
-- added: Pets
-- added: Vet demonstrates ‘squish the cat’ method of safe cat handling in delightfully helpful video
-- added: The hidden digital detail inside Taylor Swift’s wedding invitations designed to catch guests who leaked it
-- added: Patrick Hamilton & Upworthy Staff
-- added: 6th grader’s science fair project answers age-old question: ‘Do cat buttholes touch everything?’
-- added: Jacalyn Wetzel & Upworthy Staff
-- removed: America once had a federal official whose job included answering ‘What shall we have for dinner?’
-- removed: Before Natalie Imbruglia sang ‘Torn,’ its songwriter recorded a version with a very different bite
-- removed: Skills
-- removed: People are ‘Frankensteining’ their partners. Therapists explain what that actually means.
-- removed: Ella Fitzgerald forgot the words to ‘Mack the Knife.’ Her improvised version earned a Grammy.
-
-## [You are launched](https://www.urlaunched.com/join-us)
-
-- added: Android Developer
-
-## [Zidisha](https://www.zidisha.org/careers.html)
-
-- added: 0 % raised · $39 to go
-- added: Additional stock for clothing shop
-- added: By Naomi Clothing Sales
-- added: 0 % raised · $44 to go
-- added: Chicken and tomatoes farming
-- added: Kitui, Kenya
-- added: By Anthony Muvea Farming
-- removed: 11 % raised · $552 to go
-- removed: Natural products for health and beauty care
-- removed: Dar Es Salaam, Tanzania
-- removed: By Labi Martin Beauty
-- removed: 0 % raised · $37 to go
+- added: Senior Business Developer - Chile
+- added: UBITS - Cliente
+- added: Santiago Chile
+- removed: Key Account Manager - Centroamérica
+- removed: customer-success
 
 ## [Asha Health](https://careers.asha.health/) (minor change)
 
-- added: {"message":"I am alive","env":"production","timestamp":"2026-11-26T10:05:39.222Z"}
-- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-25T22:48:22.402Z"}
+- added: {"message":"I am alive","env":"production","timestamp":"2026-11-26T22:38:38.332Z"}
+- removed: {"message":"I am alive","env":"production","timestamp":"2026-11-26T10:05:39.222Z"}
 
 ## [Bacula Systems](https://www.baculasystems.com/company/careers/) (minor change)
 
-- added: offsite data backup
-- added: oracle backup and recovery
-- added: vmware backup software
-- removed: hyper v backup solutions
-- removed: postgresql backup
-- removed: immutable backup solutions
+- added: backup and recovery
+- added: backup systems
+- added: docker backup
+- removed: offsite data backup
+- removed: oracle backup and recovery
+- removed: vmware backup software
 
-## [Breezeful](https://breezeful.com/brokerage/join) (minor change)
+## [Callab AI](https://callab.ai/company/careers) (minor change)
 
-- added: Not ready to apply yet?
-- added: See what Breezeful agents are building, learning and doing. Platform updates, training and events, about once a month.
+- added: No open positions right now
+- added: We're not hiring at the moment, but we're always growing. Check back soon — or contact us.
+- removed: Head of SDR
+- removed: Global
+- removed: Remote
+- removed: $40K–$80K
+- removed: Apply now
 
 ## [Casco](https://casco.com/careers) (minor change)
 
-- added: Latest: Introducing Casco Cloud Security Read more → Latest CVE alert: CVE-2026-135149
-- removed: Latest: Introducing Casco Cloud Security Read more → Latest CVE alert: CVE-2026-135092
-
-## [CopilotKit](https://www.copilotkit.ai/careers) (minor change)
-
-- added: Try OpenBot
-- added: Open source Open source Open source OpenBot™: AI coworkers. Ready for the enterprise. AI coworkers
-- removed: Save your spot
-- removed: Live webinar · Dec 10, 10AM PT Live webinar · Dec 10 Webinar Continual Learning with CopilotKit: From Human Corrections to Agent Skills Continual Learning with CopilotKit
-
-## [CrowdSec](https://www.crowdsec.net/join-our-team) (minor change)
-
-- removed: Download the latest Vulnerability & Exploitation Report
-- removed: Download now
+- added: Latest: Introducing Casco Cloud Security Read more → Latest CVE alert: CVE-2026-55655
+- removed: Latest: Introducing Casco Cloud Security Read more → Latest CVE alert: CVE-2026-135149
 
 ## [DappRadar](https://dappradar.com/careers) (minor change)
 
-- added: REF $0.0768 +191.00% B $0.0991 +14.03% M $0.8539 +13.49% AKE $0.0₂147 -13.23% PUMP $0.0₂264 +12.28% VVV $27.08 +9.90% SKY $0.0439 +9.27% JUP $0.2335 +8.77% ENA $0.103 +8.74% LTC $43.71 +8.15% INJ $6.2
-- removed: REF $0.0768 +191.00% AKE $0.0₂168 -18.19% VVV $28.84 +15.89% BTW $0.899 +13.53% SKYAI $0.0334 -10.22% VELVET $0.0842 +7.77% CPOOL $0.0248 +7.05% WLFI $0.0428 +6.74% SIREN $0.0256 +5.59% M $0.812 +5.21
+- added: A7A5 $0.0115 +550.77% REF $0.0768 +191.00% B $0.1012 +13.32% XMR $458.27 -11.74% SKY $0.0465 +11.64% AKE $0.0₂149 -11.39% BTW $0.9985 +11.11% FET $0.1195 +10.71% ZRO $1.13 +10.25% PEARL $1.87 -9.66% R
+- removed: REF $0.0768 +191.00% B $0.0991 +14.03% M $0.8539 +13.49% AKE $0.0₂147 -13.23% PUMP $0.0₂264 +12.28% VVV $27.08 +9.90% SKY $0.0439 +9.27% JUP $0.2335 +8.77% ENA $0.103 +8.74% LTC $43.71 +8.15% INJ $6.2
 
-## [DeepAware AI (Robotics Center of Silicon Valley)](https://www.roboticscenter.ai/careers) (minor change)
+## [Darrow](https://www.darrow.ai/company/careers) (minor change)
 
-- added: Help run the events we host and co-host at our San Francisco lab — check-in, hardware setup and briefings, and keeping demos running. Recent examples: Dexterity Day + IROS Recap , Physical AI Operator
-- removed: Help run the events we host and co-host at our San Francisco lab — check-in, hardware setup and briefings, and keeping demos running. Recent and upcoming examples: the GPT-6 Astra Robotics Hardware Ha
+- removed: Senior AI/ML Engineer
+- removed: R&D
+- removed: Tel Aviv
 
-## [FivexL](https://fivexl.io/career/) (minor change)
+## [Disclo](https://www.disclo.com/careers) (minor change)
 
-- added: Your subscription has been successful!
+- removed: Diversity & ERG Leaders
+- removed: Gen Z
 
-## [MeteorOps](https://meteorops.com/careers) (minor change)
+## [Draftbit](https://draftbit.com/jobs.html) (minor change)
 
-- added: 5 open roles · 6 freelance tracks · Remote-first · Flexible hours
-- added: 4 roles About this team
-- removed: 16 open roles · 6 freelance tracks · Remote-first · Flexible hours
-- removed: 6 roles About this team
-- removed: DevOps Solutions Architect & Clients Account Manager Senior DevOps Solutions Architect & TAM driving pre-sales, client growth, and scalable cloud/K8s architectures. Remote · Full Time Remote Full Time
-- removed: QA Engineer Fully-Remote QA Engineer Remote · Full Time Remote Full Time Apply
-- removed: 3 roles About this team
+- added: Build web and mobile apps, websites, and games with AI agents, full visual control, and human experts when you need them.
+- added: 100k+
+- removed: Build web and mobile apps, websites, and games with AI agents, full visual control,
+- removed: and human experts when you need them.
+- removed: 50k+
 
-## [o11](https://o11.ai/careers) (minor change)
+## [e2e](https://e2e.com/careers) (minor change)
 
-- added: Announcing Kits
-- removed: Ostack
+- added: launch week · 30 nov - 4 dec
 
-## [Ollie Order](https://ollieorder.com/) (minor change)
+## [Entocycle](https://entocycle.com/careers) (minor change)
 
-- added: Most reviewed craft beverage management software and ERP as of November 26, 2026
-- removed: Most reviewed craft beverage management software and ERP as of November 25, 2026
+- removed: “If you want to play a positive part in the future of our planet, look no further than Entocycle”
+- removed: Escape The City
+- removed: Open Roles
+- removed: Available Roles:
 
-## [Pally](https://pally.com/careers) (minor change)
+## [HealthKey](https://gethealthkey.com/) (minor change)
 
-- added: San Francisco, CA or remote (US) · Full-time
-- removed: San Francisco / Mountain View, CA or remote · Full-time
+- added: Offer Valid Thru Dec 31, 2026
+- removed: Offer Valid Thru Nov 30, 2026
 
-## [Plivo](https://www.plivo.com/jobs/) (minor change)
+## [Hudson Labs (formerly Bedrock AI)](https://www.hudson-labs.com/careers) (minor change)
 
-- added: ~/plivo 06:14:11
-- removed: ~/plivo 08:38:06
+- removed: Our No Hallucination Guarantee is now live. Learn more about the No Hallucination Guarantee
 
-## [ProvenMetal](https://provenmetal.com/careers) (minor change)
+## [Lago](https://getlago.com/hiring) (minor change)
 
-- added: Careers
-- added: San Francisco, CA · On-site · Full-time
-- added: $130K–$200K salary 1–3% equity
-- added: $100K–$160K salary 1–3% equity
-- removed: Build with us.
-- removed: Help fix the domestic electronics manufacturing supply chain.
-- removed: We're looking for ambitious people to build the software, manufacturing, and operations behind American electronics.
-- removed: View open roles
-- removed: San Francisco, CA · Full-time
+- added: Launch Week · Winter '26 Five launches, Nov 30 to Dec 4. Win each day's arcade game to unlock it. Nov 30 to Dec 4. One game a day. Play
+
+## [Linux Foundation](https://www.linuxfoundation.org/careers) (minor change)
+
+- added: CYBER WEEK | Save Up to 65% on Courses & Certifications! • EXPLORE NOW
+- removed: Open Source Summit Japan • Dec 7-9 • Tokyo, Japan • REGISTER NOW
+
+## [Perit.AI](https://perit.ai/careers) (minor change)
+
+- added: Join the bench
+- removed: Join the bench Tell us your language
+
+## [Preset](https://preset.io/careers/) (minor change)
+
+- added: Get in Touch About Preset
+- removed: Get in Touch
+
+## [Pydantic](https://pydantic.dev/about) (minor change)
+
+- added: Pydantic AI 21.4k
+- removed: Pydantic AI 21.3k
+
+## [Ravn](https://www.ravn.com/jobs) (minor change)
+
+- removed: Solutions Architect Remote · Full-time
+
+## [SafeDep](https://safedep.io/) (minor change)
+
+- added: 2026-11-26
+- added: Throwaway npm accounts published copies of the clamp utility with an install-time dropper for a Windows credential stealer on Pastebin. On 26 November the same operator shipped fastbcrypt, a bcrypt co
+- removed: Two throwaway npm accounts published copies of the clamp utility, clampony and safeclamp3, with a preinstall dropper. clampony downloads a live Windows credential stealer from Pastebin on every instal
 
 ## [Saleor](https://saleor.io/) (minor change)
 
-- added: 617,079
-- added: 23 days ago 3.22.77
-- added: 3.22.77 23 days ago
-- removed: 22 days ago 3.22.77
-- removed: 3.22.77 22 days ago
+- added: 961,835
+- added: 10 days ago 3.23.50
+- added: 3.23.50 10 days ago
+- removed: 617,079
+- removed: 980,731
+- removed: 9 days ago 3.23.50
+- removed: 3.23.50 9 days ago
 
-## [Skill-lync](https://skill-lync.com/recent-placements) (minor change)
+## [Scalac](https://scalac.io/careers/) (minor change)
 
-- added: Black Friday Upgrade your career this Black Friday. Get up to ₹ 60,000 Scholarship on IIT programs Up to ₹ 60K Black Friday Scholarship 52 seats left Offer ends Fri, 27 Nov, 11:59 pm IST.
-- added: Only 52 seats left. Offer ends Fri, 27 Nov, 11:59 pm IST
-- added: Updated 26 Nov 2026
-- removed: Black Friday Upgrade your career this Black Friday. Get up to ₹ 60,000 Scholarship on IIT programs Up to ₹ 60K Black Friday Scholarship 63 seats left Offer ends Fri, 27 Nov, 11:59 pm IST.
-- removed: Only 63 seats left. Offer ends Fri, 27 Nov, 11:59 pm IST
-- removed: Updated 25 Nov 2026
+- removed: Forward Deployed Engineer
+- removed: B2B contract - remote, North American hours
+
+## [Snowplow](https://snowplow.io/careers) (minor change)
+
+- added: Browse all resources
+
+## [Spline](https://spline.design/) (minor change)
+
+- added: See the showcase
+
+## [Spott](https://spott.io/careers) (minor change)
+
+- removed: BDR
+- removed: Help build our outbound motion from the ground up at a YC-backed AI-native recruitment startup. Own pipeline generation and grow into a full-cycle sales role.
+
+## [Stirling PDF](https://www.stirling.com/careers) (minor change)
+
+- added: The core code is open source under the MIT licence on GitHub. Revenue from teams and enterprises pays to keep improving Stirling.
+- added: What's open source in Stirling PDF
+- removed: The tools that have always been free stay free and open source. Revenue from teams and enterprises pays to keep improving them.
+
+## [Sylius](https://sylius.com/company/join/) (minor change)
+
+- added: cyber_Pixel Group
 
 ## [The Centre for Effective Altruism](https://www.effectivealtruism.org/careers) (minor change)
 
-- added: 39 subscribed today
-- removed: 33 subscribed today
+- added: 40 subscribed today
+- removed: 39 subscribed today
+
+## [The Essential](https://theessential.com/pages/join) (minor change)
+
+- added: Outdoor Furniture 25% Off
+- removed: Beds 17% Off
+
+## [The Juggernaut](https://www.thejuggernaut.com/) (minor change)
+
+- added: How South Asian Americans Make Thanksgiving Their Own
+- added: The diaspora shares what the holiday means to them — from adapting culinary traditions to feeling gratitude.
+- added: Priya Krishna
+- added: Food
+- removed: Exclusive: From cranberry chutney to pecan pie, from Semma to Nishaan, here are five recipes to add to your holiday spread — even last minute!
+- removed: Culture
+- removed: ‘Ramayana’ Makes Everyone Interesting Except Ram
 
 ## [Tractian](https://careers.tractian.com/) (minor change)
 
-- added: 101 result(s)
-- removed: 106 result(s)
-- removed: Federal Enterprise Account Executive
+- added: Inventory Assistant | Affirmative Hiring – People with Disabilities (PwD)
+- added: Operations
+- removed: Data Scientist - Predictive Maintenance
+- removed: Data / Data Science
 
-## [Upflow](https://upflow.io/) (minor change)
+## [Vendoo](https://vendoo.co/careers) (minor change)
 
-- added: Outlook
-- added: Gmail Slack Outlook
-- removed: Outlook ( Coming soon )
-- removed: Gmail Slack Outlook ( Coming soon )
+- added: 💜 Purple Friday: 10% OFF all yearly plans through Nov 30.
+- added: Get 10% OFF Now →
 
 ## [VideoLingo](https://videolingo.io/careers.html) (minor change)
 
-- added: 19397 Stars
-- removed: 19391 Stars
-
-## [Viraj Aero](https://www.viraj-aero.com/careers) (minor change)
-
-- removed: Toulouse / San Francisco
-- removed: Head of Talent Acquisition & People Operations
-- removed: We are looking for our future Head of People, who will start by leading the single most strategic initiative for our growth: sourcing, attracting, and hiring our core engineering team. You will act as
-- removed: Sales
-- removed: Business Developer & Economic Analysis Intern
+- added: 19402 Stars
+- removed: 19397 Stars
 
 ## [Vivo](https://vivo.gupy.io/) (minor change)
 
-- added: 78 jobs found for 0 filters applied
-- removed: 79 jobs found for 0 filters applied
+- added: 84 jobs found for 0 filters applied
+- added: Job for Full-time employee: Assistente Técnico
+- added: Brasília - DF
+- added: Job for Full-time employee: Assistente Técnico - Brasília/DF
+- removed: 78 jobs found for 0 filters applied
+- removed: Job for Full-time employee: Assistente Técnico - (Exclusiva para pessoas com deficiência) Goiânia
+- removed: Goiânia - GO
+- removed: Job for Full-time employee: Assistente Técnico - Exclusiva PCD - Vila Isabel/RJ
+- removed: Rio de Janeiro - RJ and Hybrid
 
-## [WikiHow](https://www.wikihow.com/wikiHow:Jobs) (minor change)
+## [Wifi Dabba, Inc.](https://careers.dabba.com/) (minor change)
 
-- added: 255
-- removed: 252
+- added: For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to page URLs.
+- removed: For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to page URLs. Agents can also search and read this documentation through it
+
+## [Zidisha](https://www.zidisha.org/careers.html) (minor change)
+
+- added: 309,705
+- added: $21,493,669
+- added: 464,235
+- added: 30 % raised · $163 to go
+- removed: 309,698
+- removed: $21,492,088
+- removed: 464,222
+- removed: 30 % raised · $164 to go
+
+## [Ångström AI](https://angstrom-ai.com/join-us/) (minor change)
+
+- added: We are hiring exceptional researchers who are interested in molecular simulation, machine learning and applying them to important problems in pharma. Ångström AI is focused both on fundamental researc
+- removed: We are hiring exceptional researchers who are interested in molecular
+- removed: simulation, machine learning and applying them to important problems in
+- removed: pharma. Ångström AI is focused both on fundamental research
+- removed: and working backwards from our customers' problems to make something they
+- removed: want. We are looking for people who are passionate about the
 
 ## Pages failing for 3+ checks
 
 - depict.ai: no readable text (JavaScript page?)
+- gofmx.com: failed (HTTP 403)
 - tryhelium.com: no readable text (JavaScript page?)
 - inpharmd.com: no readable text (JavaScript page?)
 - kaagaz.app: no readable text (JavaScript page?)

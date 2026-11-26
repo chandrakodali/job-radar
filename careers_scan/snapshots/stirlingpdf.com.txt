@@ -29,7 +29,8 @@ Currently the most popular PDF app on GitHub and the #1 Java project all-time.
 Values
 How we work
 The core stays open
-The tools that have always been free stay free and open source. Revenue from teams and enterprises pays to keep improving them.
+The core code is open source under the MIT licence on GitHub. Revenue from teams and enterprises pays to keep improving Stirling.
+What's open source in Stirling PDF
 Privacy comes first
 We focus on people and organizations in regulated industries. User security and data privacy shape what we build.
 Built with the community

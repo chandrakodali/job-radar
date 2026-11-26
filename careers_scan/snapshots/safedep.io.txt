@@ -94,9 +94,10 @@ See pricing
 Research
 The research behind our threat intel
 We publish what we find, with the code and the indicators.
-2026-11-24
+2026-11-26
 clampony npm Dropper Stages a Windows Credential Stealer
-Two throwaway npm accounts published copies of the clamp utility, clampony and safeclamp3, with a preinstall dropper. clampony downloads a live Windows credential stealer from Pastebin on every install but does not run it yet.
+Throwaway npm accounts published copies of the clamp utility with an install-time dropper for a Windows credential stealer on Pastebin. On 26 November the same operator shipped fastbcrypt, a bcrypt copy whose Windows binary tries to install the enterotoxin.exe RAT during npm install.
+2026-11-24
 PolinRider Moves to Python with an Ethereum Calldata Loader
 PolinRider now hides a 58-line Python loader in GitHub repositories. The loader reads JavaScript from the input data of an Ethereum transaction and runs it with Node. SafeDep found it in 375 repositories, decoded the stage on the chain, and traced it to a live C2 server.
 2026-11-23

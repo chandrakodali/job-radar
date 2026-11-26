@@ -48,6 +48,7 @@ Publish to the web, drop it into React, or run it natively on iOS and Android.
 Built with Spline
 Where ideas become
 production-ready experiences
+See the showcase
 Mars Rover
 A Mars game with two rovers to drive across the dunes.
 Make your own

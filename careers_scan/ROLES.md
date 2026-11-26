@@ -1,10 +1,10 @@
 # Cloud, DevOps, SRE, platform and infrastructure roles (no job board)
 
-Updated 2026-11-26 10:07 UTC. **91 open roles** at 72 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
+Updated 2026-11-26 22:40 UTC. **92 open roles** at 72 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
 
 **Apply:** the ✉ link opens an email to the company's hiring address with the subject filled in; attach your résumé. Scores and notes use the radar's rules (config.yaml): higher is a better early-career fit; "location unclear" means the page didn't say, so check it. 🆕 = first seen in the last 2 days.
 
-## US or location not stated (91)
+## US or location not stated (92)
 
 | Score | Role | Company | Location | Apply | Since | Notes |
 |---:|---|---|---|---|---|---|
@@ -50,7 +50,7 @@ Updated 2026-11-26 10:07 UTC. **91 open roles** at 72 companies that post jobs o
 | 45 | [SysOps / Cloud System Engineer](https://www.sardinasystems.com/about-us/careers/) | Sardina Systems | ? | [✉ jobs@sardinasystems.com](mailto:jobs@sardinasystems.com?subject=Application%3A%20SysOps%20/%20Cloud%20System%20Engineer%20%E2%80%93%20Sardina%20Systems) | Nov 11 | location unclear |
 | 45 | [Cloud Operations Developer](https://www.sardinasystems.com/about-us/careers/) | Sardina Systems | ? | [✉ jobs@sardinasystems.com](mailto:jobs@sardinasystems.com?subject=Application%3A%20Cloud%20Operations%20Developer%20%E2%80%93%20Sardina%20Systems) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer](https://www.strikingly.com/s/careers) | Strikingly | ? | [✉ jobs@strikingly.com](mailto:jobs@strikingly.com?subject=Application%3A%20DevOps%20Engineer%20%E2%80%93%20Strikingly) | Nov 11 | location unclear |
-| 45 | [Infrastructure Engineer](https://careers.superb-ai.com/) 🆕 | Superb AI | ? | [Careers page](https://careers.superb-ai.com/) | Nov 24 | location unclear |
+| 45 | [Infrastructure Engineer](https://careers.superb-ai.com/) | Superb AI | ? | [Careers page](https://careers.superb-ai.com/) | Nov 24 | location unclear |
 | 45 | [Platform Engineer](https://traefik.io/careers) | Traefik Labs | ? | [✉ jobs@traefik.io](mailto:jobs@traefik.io?subject=Application%3A%20Platform%20Engineer%20%E2%80%93%20Traefik%20Labs) | Nov 11 | location unclear |
 | 45 | [Site Reliability Engineer](https://www.unkey.com/careers) | Unkey | ? | [✉ jobs@unkey.com](mailto:jobs@unkey.com?subject=Application%3A%20Site%20Reliability%20Engineer%20%E2%80%93%20Unkey) | Nov 11 | location unclear |
 | 42 | [Databend Cloud Platform Engineer (Remote)](https://www.databend.com/jobs/databend-cloud-platform-engineer) | Databend | Remote | [✉ hr@databend.com](mailto:hr@databend.com?subject=Application%3A%20Databend%20Cloud%20Platform%20Engineer%20%28Remote%29%20%E2%80%93%20Databend) | Nov 11 | 3+ yrs exp |
@@ -58,9 +58,9 @@ Updated 2026-11-26 10:07 UTC. **91 open roles** at 72 companies that post jobs o
 | 42 | [Software Engineer, Infrastructure](https://orchid.ai/careers/software-engineer-infrastructure) | Orchid | Remote | [✉ work@orchid.ai](mailto:work@orchid.ai?subject=Application%3A%20Software%20Engineer%2C%20Infrastructure%20%E2%80%93%20Orchid) | Nov 11 | location unclear |
 | 42 | [DevOps Engineer](https://www.outsourcingdev.com/careers/) | OutsourcingDev | Remote | [Careers page](https://www.outsourcingdev.com/careers/) | Nov 11 | location unclear |
 | 42 | [Agent Infrastructure Engineer](https://pydantic.dev/jobs/agent-infrastructure-engineer) | Pydantic | Fully remote | [✉ careers@pydantic.dev](mailto:careers@pydantic.dev?subject=Application%3A%20Agent%20Infrastructure%20Engineer%20%E2%80%93%20Pydantic) | Nov 11 | location unclear |
-| 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
-| 42 | [Cloud Full-Stack Developer](https://wazuh.com/job/full-stack-developer-cloud/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/full-stack-developer-cloud/) | Nov 11 | location unclear |
 | 42 | [Cloud Ops Engineer](https://wazuh.com/job/cloud-ops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-ops-engineer/) | Nov 11 | location unclear |
+| 42 | [Cloud Full-Stack Developer](https://wazuh.com/job/full-stack-developer-cloud/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/full-stack-developer-cloud/) | Nov 11 | location unclear |
+| 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
 | 40 | [Senior DevOps Engineer](https://broadleafcommerce.com/senior-devops-engineer/) | Broadleaf Commerce | ? | [✉ careers@broadleafcommerce.com](mailto:careers@broadleafcommerce.com?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20Broadleaf%20Commerce) | Nov 13 | 3+ yrs exp; senior title; location unclear |
 | 40 | [Senior Backend / ML Ops Engineer](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Drafted | In person | [Careers page](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Nov 13 | senior title, years not stated |
 | 40 | [Network Systems Engineer](https://efference.ai/careers/wireless-networking-engineer/) | Efference | On-site | [✉ team@efference.ai](mailto:team@efference.ai?subject=Application%3A%20Network%20Systems%20Engineer%20%E2%80%93%20Efference) | Nov 11 |  |
@@ -77,6 +77,7 @@ Updated 2026-11-26 10:07 UTC. **91 open roles** at 72 companies that post jobs o
 | 35 | [Senior Site Reliability Engineer](https://www.getdbt.com/about-us/careers) | dbt Labs | ? | [Apply form](https://docs.google.com/forms/d/e/1FAIpQLScqDOsEJFKOvlpC8-XYHkKxq6nXV_gXhrGy1F_HAVQJCd_KBA/viewform) | Nov 13 | senior title, years not stated; location unclear |
 | 35 | [Senior DevOps Engineer](https://kake.co/jobs/senior-devops-engineer-d9b34def4fa0) | Kake | ? | [Careers page](https://kake.co/jobs/senior-devops-engineer-d9b34def4fa0) | Nov 13 | senior title, years not stated; location unclear |
 | 35 | [Senior Software Engineer, molab Infrastructure](https://marimo.io/careers) | marimo | ? | [Careers page](https://marimo.io/careers) | Nov 13 | senior title, years not stated; location unclear |
+| 35 | [Senior Platform Security Engineer](https://muzz.com/us/en/careers/) 🆕 | Muzz | ? | [✉ careers@muzz.com](mailto:careers@muzz.com?subject=Application%3A%20Senior%20Platform%20Security%20Engineer%20%E2%80%93%20Muzz) | Nov 26 | senior title, years not stated; location unclear |
 | 35 | [Senior DevOps Engineer](https://www.onechronos.com/pdfs/Senior-DevOps-Engineer-May-2026.pdf) | OneChronos | ? | [✉ careers@onechronos.com](mailto:careers@onechronos.com?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20OneChronos) | Nov 13 | senior title, years not stated; location unclear |
 | 35 | [Senior Devops and Cloud Engineer](https://pantacor.com/careers/) | Pantacor | ? | [Careers page](https://pantacor.com/careers/) | Nov 13 | senior title, years not stated; location unclear |
 | 35 | [Senior DevOps Engineer (Talent Pool)](https://scalac.io/careers/senior-devops-engineer-talent-pool/) | Scalac | ? | [Careers page](https://scalac.io/careers/senior-devops-engineer-talent-pool/) | Nov 13 | senior title, years not stated; location unclear |
@@ -100,7 +101,7 @@ Updated 2026-11-26 10:07 UTC. **91 open roles** at 72 companies that post jobs o
 | 20 | [Storage Engineer (Senior)](https://www.stackbill.com/company/career.html) | Stackbill Private Limited | ? | [Careers page](https://www.stackbill.com/company/career.html) | Nov 13 | senior title, years not stated; location unclear |
 | 20 | [Virtualization Engineer (Senior)](https://www.stackbill.com/company/career.html) | Stackbill Private Limited | ? | [Careers page](https://www.stackbill.com/company/career.html) | Nov 13 | senior title, years not stated; location unclear |
 
-## Outside the US (10)
+## Outside the US (9)
 
 | Score | Role | Company | Location | Apply | Since | Notes |
 |---:|---|---|---|---|---|---|
@@ -109,7 +110,6 @@ Updated 2026-11-26 10:07 UTC. **91 open roles** at 72 companies that post jobs o
 | 50 | [Software Engineer, Internal Tooling and Infrastructure](https://cortexrobot.ai/careers/software-engineer-internal-tooling-and-infrastructure/) | Cortex AI | Singapore | [✉ jobs@cortexrobot.ai](mailto:jobs@cortexrobot.ai?subject=Application%3A%20Software%20Engineer%2C%20Internal%20Tooling%20and%20Infrastructure%20%E2%80%93%20Cortex%20AI) | Nov 11 |  |
 | 50 | [Platform Engineer](https://omnistrate.com/careers) | Omnistrate | India only | [✉ careers@omnistrate.com](mailto:careers@omnistrate.com?subject=Application%3A%20Platform%20Engineer%20%E2%80%93%20Omnistrate) | Nov 11 |  |
 | 50 | [DevOps Engineer](https://getreliancehealth.com/careers/) | Reliance Health | Nigeria | [Careers page](https://getreliancehealth.com/careers/) | Nov 11 |  |
-| 45 | [L1 Production Support Engineer](https://career.luxoft.com/jobs/l1-production-support-engineer-29840) 🆕 | Luxoft | Hyderabad, India | [Careers page](https://career.luxoft.com/jobs/l1-production-support-engineer-29840) | Nov 26 | 1+ yrs exp |
 | 45 | [Site Reliability Engineer](https://tyk.io/jobs/sre/) | Tyk | APAC | [Apply](https://apply.workable.com/tyk-technologies/j/A0C7C4347A/apply/) | Nov 11 | 3+ yrs exp |
 | 40 | [Senior Application Security Engineer](https://www.red-gate.com/our-company/careers/current-opportunities/senior-application-security-engineer) | Redgate Software | ? | [Apply](https://jobs.ashbyhq.com/red-gate/354fd654-ed2d-461a-8ff7-a8b6e810a3a5/application) | Nov 13 | senior title, years not stated |
 | 30 | [Senior AI Platform Engineer](https://www.guesty.com/careers-open-positions/co/israel/D2.374/senior-ai-platform-engineer/) | Guesty | Israel | [Careers page](https://www.guesty.com/careers-open-positions/co/israel/D2.374/senior-ai-platform-engineer/) | Nov 13 | 5+ yrs exp; senior title |

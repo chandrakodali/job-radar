@@ -1,4 +1,5 @@
 Log in Book demo
+Launch Week · Winter '26 Five launches, Nov 30 to Dec 4. Win each day's arcade game to unlock it. Nov 30 to Dec 4. One game a day. Play
 Hiring
 Help us build open-source billing.
 We're building open-source, usage-based billing to serve the most complex use cases and empower teams to ship quickly.

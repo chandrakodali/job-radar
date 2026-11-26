@@ -3,20 +3,20 @@ Open roles
 Join the team
 Salary range and experience on every role.
 Engineering
-Senior DevOps Engineer Paris €65–95K 6+ years
-Lead ML Engineer Paris €90–120K 6+ years
-Lead Software Engineer Paris €80–100K 6+ years
-Head of Engineering Paris €100–130K 11+ years
+Senior DevOps Engineer Paris €65–95K 6+ years 0.07% equity
+Lead ML Engineer Paris €90–120K 6+ years 0.12% equity
+Lead Software Engineer Paris €80–100K 6+ years 0.12% equity
+Head of Engineering Paris €100–130K 11+ years 0.17% equity
 Senior Data Engineer Paris €65–95K 3+ years 0.10–0.30% equity
-Senior Software Engineer Paris €55–80K 6+ years 0.10–0.30% equity
+Senior Software Engineer Paris €55–80K 6+ years 0.12% equity
 Operations & Data
-Senior Operations Manager Paris €60–80K 6+ years
-Operations Manager, Data & AI Paris €45–60K 1+ year
+Senior Operations Manager Paris €60–80K 6+ years 0.07% equity
+Operations Manager, Data & AI Paris €45–60K 1+ year 0.05% equity
 Chief of Staff Paris €80–100K 6+ years 0.50–1.00% equity
 Go-to-market
-Account Executive, Data Partnerships (EU) Paris €55–120K 3+ years
+Account Executive, Data Partnerships (EU) Paris €55–120K 3+ years 0.07% equity
 Product
-Product Manager Paris €70–90K 6+ years 0.10–0.30% equity
+Product Manager Paris €70–90K 6+ years 0.07% equity
 Key benefits
 Competitive package
 Competitive pay, with equity on top. You help build the company, you own a piece of it.
