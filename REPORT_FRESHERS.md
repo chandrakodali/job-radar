@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**327 jobs**, newest first. Updated Thu Nov 26, 3:19 PM CST from 12,535 company job boards and other sources.
+**326 jobs**, newest first. Updated Thu Nov 26, 3:31 PM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 101 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,837 matching jobs that job sites and feeds listed this week, 986 (20%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (24)](#thursday-nov-19-24)
+Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (23)](#thursday-nov-19-23)
 
 ## Thursday, Nov 26 (10)
 
@@ -348,7 +346,7 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (24)
+## Thursday, Nov 19 (23)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -375,7 +373,6 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 3:47 PM | [Help Desk Engineer](https://jobs.smartrecruiters.com/Equinox/744000162609569-help-desk-engineer) | Equinox | New York, NY, United States | 75 | 1+ yrs exp |
 | 3:46 PM | [Equipment Tech Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3aada650-9516-4fad-a8af-527c53c40e64&ccId=9200679039949_2&jobId=9201870124474_151&lang=en_US) | 3Aada650 9516 4Fad A8Af 527C5… | Spring Hill, TN | 75 | 0-2 yrs exp |
 | 3:40 PM | [Intellectual Property Technical Specialist – Life Sciences](https://jobs.ashbyhq.com/barnes/0e338b93-6136-4b68-89af-5c702ac81c0f) | Barnes & Thornburg | Minneapolis +5 more | 85 | 0-2 yrs exp; entry level (from the text) |
-| 3:25 PM | [Associate Customer Support Analyst, New Grad](https://www.ixl.com/company/jobs?gh_jid=8953765002) | Ixllearning | San Mateo, CA | 75 | entry-level title |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1269)
 
