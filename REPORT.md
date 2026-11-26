@@ -1,18 +1,22 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**173 jobs**, newest first. Updated Thu Nov 26, 3:19 AM CST from 12,580 company job boards and other sources.
+**175 jobs**, newest first. Updated Thu Nov 26, 3:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 165 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (40)](#thursday-nov-19-40)
+Coverage check: of 3,142 matching jobs that job sites and feeds listed this week, 1,940 (61%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Thursday, Nov 26 (2)
+Jump to: [Thu 26 (4)](#thursday-nov-26-4) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (40)](#thursday-nov-19-40)
+
+## Thursday, Nov 26 (4)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Security Engineer II, AWS Cloud Security Response](https://www.amazon.jobs/en/jobs/10615105/security-engineer-ii-aws-cloud-security-response) | Amazon.com Services LLC | Herndon, Virginia, USA | 55 | 3+ yrs exp |
+| date only | [AWS Console Specialist](https://apply.workable.com/weekday-1/j/E5C66BD7D5/) | Weekday AI | United States (remote) | 62 |  |
+| date only | [Microsoft Azure Specialist](https://apply.workable.com/weekday-1/j/00213FE1A6/) | Weekday AI | United States (remote) | 62 |  |
 | 2:37 AM (seen) | [Senior Production Engineer - Terraform](https://careers.ibm.com/careers/JobDetail?jobId=143377) | IBM | Multiple Cities (hybrid) | 40 | senior title, years not stated |
 
 ## Wednesday, Nov 25 (17)
