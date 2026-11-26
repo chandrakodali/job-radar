@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**326 jobs**, newest first. Updated Thu Nov 26, 3:31 PM CST from 12,580 company job boards and other sources.
+**322 jobs**, newest first. Updated Thu Nov 26, 4:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-101 repeat listings (same company and title in another place or on another source) are merged into one row.
+96 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (23)](#thursday-nov-19-23)
+Coverage check: of 4,837 matching jobs that job sites and feeds listed this week, 986 (20%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (19)](#thursday-nov-19-19)
 
 ## Thursday, Nov 26 (10)
 
@@ -346,7 +348,7 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (23)
+## Thursday, Nov 19 (19)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -369,26 +371,23 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 5:28 PM | [Seasonal Fulfillment and Receiving Support Associate, Florida Mall](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826525) | Macy's | Orlando, FL, United States | 75 | entry-level title |
 | 5:28 PM | [Environmental Test  Technician](https://boards.greenhouse.io/vast/jobs/4730953006?gh_jid=4730953006) | VAST | Long Beach, California, United States | 75 | 1+ yrs exp |
 | 5:18 PM | [Junior Software Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6c0f07f7-5d5e-40a8-8e01-433d1c743d19&ccId=19000101_000001&jobId=9205253974162_72&lang=en_US) | 6C0F07F7 5D5E 40A8 8E01 433D1… | Columbia, MD | 85 | entry-level title; 0-2 yrs exp |
-| 4:00 PM | [Software Engineer, Card](https://job-boards.greenhouse.io/okx/jobs/8209722003) | OKX | San Jose, California, United States | 75 | 1+ yrs exp |
-| 3:47 PM | [Help Desk Engineer](https://jobs.smartrecruiters.com/Equinox/744000162609569-help-desk-engineer) | Equinox | New York, NY, United States | 75 | 1+ yrs exp |
-| 3:46 PM | [Equipment Tech Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=3aada650-9516-4fad-a8af-527c53c40e64&ccId=9200679039949_2&jobId=9201870124474_151&lang=en_US) | 3Aada650 9516 4Fad A8Af 527C5… | Spring Hill, TN | 75 | 0-2 yrs exp |
-| 3:40 PM | [Intellectual Property Technical Specialist – Life Sciences](https://jobs.ashbyhq.com/barnes/0e338b93-6136-4b68-89af-5c702ac81c0f) | Barnes & Thornburg | Minneapolis +5 more | 85 | 0-2 yrs exp; entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1269)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1246)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:58 AM | [Developer Relations](https://jobs.ashbyhq.com/Clera/8a39dc9a-7e2b-4094-b4bf-f1a39932c756) | Clera | Palo Alto (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Data Center Technician - Day Shift](https://www.amazon.jobs/en/jobs/10615350/data-center-technician-day-shift) | Amazon Data Services, Inc. | Andrews, Texas, USA +3 more | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
 | date only | [Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2030720EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| date only | [Data Center Technician - Day Shift](https://www.amazon.jobs/en/jobs/10615350/data-center-technician-day-shift) | Amazon Data Services, Inc. | Andrews, Texas, USA +2 more | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
 | date only | [Full-Stack Software Engineer](https://apply.workable.com/raydar/j/C5B14BACAC/) | Raydar | San Francisco, California, United State… | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Development Engineer, US ADC Security](https://www.amazon.jobs/en/jobs/10615132/software-development-engineer-us-adc-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
 | date only | [Applications Programmer](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12114) | UCSF | San Francisco, CA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Security Specialist (P4) – Physical Security Technology](https://micron.eightfold.ai/careers/job/44717490) | Micron | GJ,IN (onsite) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [AI Infrastructure Engineer - NVIS](https://nvidia.eightfold.ai/careers/job/893398972095) | Nvidia | TX,US; Washington, DC, US; US; TN,US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Embedded Software Engineer, Amazon Leo Government, ALG Software](https://www.amazon.jobs/en/jobs/10610906/embedded-software-engineer-amazon-leo-government-alg-software) | KGS LLC | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: Export Control: This position requires t |
+| date only | [Software Engineer I](https://synecsolu.applytojob.com/apply/kQT1OASGDG/Software-Engineer-I) | Synectic Solutions | Norco, CA | 85 | rules: entry-level title; 0-2 yrs exp; needs: Secret clearance |
 | 10:22 AM | [Technology Quality Technician](https://slb.eightfold.ai/careers/job/563499734754667) | Slb | Houston, TX, US (onsite) | 85 | rules: 2+ yrs exp; E-Verify; asks for 2+ years of experience |
 | 7:27 AM | [SAP Engineer](https://jobs.ashbyhq.com/conduct/fbd76fa7-aaf4-443d-80a9-3eea2a391622) | Conduct | NYC, US or London, UK (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:00 AM (seen) | [Technical Support Engineer (SRE)](https://jobs.jobvite.com/nutanix/job/o8jSAfwD) | Nutanix |  | 40 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
@@ -779,6 +778,5 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 9:23 AM | [Mobile Service Technician, Charlotte](https://lucidmotors.com/careers/search/5280328007?gh_jid=5280328007) | Lucid Motors | Charlotte, NC | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:19 AM | [Security Engineer](https://job-boards.greenhouse.io/pdtpartners/jobs/8414133) | PDT Partners | New York | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 9:12 AM | [General Counsel, Cyber Security](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161652) | Honeywell | Washington, DC, United States; Charlott… | 45 | rules: 10+ yrs exp; asks for 10+ years of experience |
-| 8:53 AM | [Technical Specialist, Vehicle Systems](https://job-boards.greenhouse.io/scoutmotors/jobs/5306827007) | Scout Motors | Novi, Michigan, United States; Charlott… | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 
 </details>
