@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**342 jobs**, newest first. Updated Thu Nov 26, 1:08 PM CST from 12,580 company job boards and other sources.
+**332 jobs**, newest first. Updated Thu Nov 26, 2:00 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-104 repeat listings (same company and title in another place or on another source) are merged into one row.
+102 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (40)](#thursday-nov-19-40)
+Coverage check: of 4,837 matching jobs that job sites and feeds listed this week, 986 (20%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (30)](#thursday-nov-19-30)
 
 ## Thursday, Nov 26 (10)
 
@@ -97,7 +99,7 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 5:31 PM | [Seasonal Fulfillment and Receiving Support Associate, Hampton Bays](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827722) | Macy's | Hampton Bays, NY, United States | 75 | entry-level title |
 | 5:31 PM | [Seasonal Fulfillment and Receiving Support Associate, Gardens](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827689) | Macy's | Palm Beach Gardens, FL, United States | 75 | entry-level title; repost |
 | 5:31 PM | [Seasonal Fulfillment and Receiving Support Associate, Coral Square](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827690) | Macy's | Coral Springs, FL, United States | 75 | entry-level title |
-| 4:29 PM | [Test Center Administrator (Newark, DE)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26794) | Pearson | Newark, DE, United States +6 more (onsite) | 80 | 1+ yrs exp |
+| 4:29 PM | [Test Center Administrator (Newark, DE)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26794) | Pearson | Newark, DE, United States +5 more (onsite) | 80 | 1+ yrs exp |
 | 4:22 PM | [Project Support Associate, Global Openings](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/42294) | RH | United States | 85 | entry-level title; 1+ yrs exp |
 | 3:31 PM | [Field Application Engineer: Model Bring-up and Inference](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270341004) | Sambanovasystems | Austin, Texas, United States | 75 | entry level (from the text) |
 | 2:57 PM | [Operational Support Specialist](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177562) | Securitas | Downers Grove, IL, United States | 85 | 1+ yrs exp; entry level (from the text) |
@@ -345,7 +347,7 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (40)
+## Thursday, Nov 19 (30)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -379,18 +381,8 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 2:48 PM | [Technical Support Representative](https://job-boards.greenhouse.io/lgelectronics/jobs/5489909008) | LG Electronics | Huntsville, AL | 85 | 1+ yrs exp; entry level (from the text) |
 | 2:25 PM | [Junior System Administrator](https://jobs.workable.com/view/b6RPW8CA8Dfz5kZCH8YSZa/junior-system-administrator-in-greenwood-village-at-merchants-mortgage-%26-trust-corporation) | Merchants Mortgage & Trust Co… | Greenwood Village, Colorado (onsite) | 80 | entry-level title |
 | 2:16 PM (seen) | [Data Scientist Graduate (TikTok Product) - 2027 Start](https://lifeattiktok.com/search/7669654422861383941) | TikTok | San Jose, California, United States of … | 60 | entry-level title |
-| 1:50 PM | [Associate Consultant, Geotechnical Engineering](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99820) | WSP | San Francisco, CA, United States | 85 | entry-level title; 1+ yrs exp |
-| 1:50 PM | [Business Intelligence Analyst](https://job-boards.greenhouse.io/monsterenergy/jobs/4506656009) | Monster Energy | USA - Corona, CA | 75 | 1+ yrs exp |
-| 1:47 PM | [Capital Markets Specialist I (2027 Early Career Program)](https://job-boards.greenhouse.io/affirm/jobs/8205833003) | Affirm | New York, New York, United States | 75 | entry-level title |
-| 1:36 PM | [Oracle Applications Associate Developer](https://hcex.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/574) | Hcex Fa Us2 Oraclecloud Com | Carmel, IN, United States | 85 | entry-level title; 1+ yrs exp |
-| 1:32 PM | [Software Development Engineer](https://www.esri.com/careers/5291317007?gh_jid=5291317007) | Esri | Vienna, Virginia, United States | 75 | 1+ yrs exp |
-| 1:24 PM | [Associate Technical Engineer (Hybrid)](https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Associate-Technical-Engineer--Hybrid-_R39684) | American Family Insurance Gro… | WI Madison | 75 | entry-level title |
-| 1:23 PM | [Quality Assurance Analyst](https://job-boards.greenhouse.io/monsterenergy/jobs/4510824009) | Monster Energy | USA - Corona, CA | 75 | 1+ yrs exp |
-| 1:18 PM | [Software Engineer Consultant I](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Software-Engineer-Consultant-I_R36696) | Allstate | 2 Locations | 70 | entry-level title; location unclear |
-| 1:16 PM | [Administrative Support Associate,  (TEMP)– FlexStaff](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/165370) | Northwell Health | Great Neck, Nassau, United States | 85 | entry-level title; 0-2 yrs exp |
-| 1:11 PM | [Field Data Collection Specialist](https://job-boards.greenhouse.io/cartesiansystems/jobs/4437394009) | Cartesian Systems | Cambridge, MA | 85 | 1+ yrs exp; entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1337)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1320)
 
 <details><summary>Show</summary>
 
@@ -404,6 +396,7 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | date only | [Applications Programmer](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12114) | UCSF | San Francisco, CA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Security Specialist (P4) – Physical Security Technology](https://micron.eightfold.ai/careers/job/44717490) | Micron | GJ,IN (onsite) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [AI Infrastructure Engineer - NVIS](https://nvidia.eightfold.ai/careers/job/893398972095) | Nvidia | TX,US; Washington, DC, US; US; TN,US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| date only | [Embedded Software Engineer, Amazon Leo Government, ALG Software](https://www.amazon.jobs/en/jobs/10610906/embedded-software-engineer-amazon-leo-government-alg-software) | KGS LLC | Redmond, Washington, USA | 60 | rules: 3+ yrs exp; needs: Export Control: This position requires t |
 | 10:22 AM | [Technology Quality Technician](https://slb.eightfold.ai/careers/job/563499734754667) | Slb | Houston, TX, US (onsite) | 85 | rules: 2+ yrs exp; E-Verify; asks for 2+ years of experience |
 | 7:27 AM | [SAP Engineer](https://jobs.ashbyhq.com/conduct/fbd76fa7-aaf4-443d-80a9-3eea2a391622) | Conduct | NYC, US or London, UK (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:00 AM (seen) | [Technical Support Engineer (SRE)](https://jobs.jobvite.com/nutanix/job/o8jSAfwD) | Nutanix |  | 40 | rules: 3+ yrs exp; location unclear; asks for 3+ years of experience |
@@ -795,6 +788,5 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 9:19 AM | [Security Engineer](https://job-boards.greenhouse.io/pdtpartners/jobs/8414133) | PDT Partners | New York | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 9:12 AM | [General Counsel, Cyber Security](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161652) | Honeywell | Washington, DC, United States; Charlott… | 45 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 8:53 AM | [Technical Specialist, Vehicle Systems](https://job-boards.greenhouse.io/scoutmotors/jobs/5306827007) | Scout Motors | Novi, Michigan, United States; Charlott… | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| 8:52 AM | [Service Desk Agent 3 - 000779](https://emqz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3419) | Wayne County | Detroit, MI, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
