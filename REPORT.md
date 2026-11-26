@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**149 jobs**, newest first. Updated Thu Nov 26, 1:50 PM CST from 12,580 company job boards and other sources.
+**149 jobs**, newest first. Updated Thu Nov 26, 2:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 161 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,374 matching jobs that job sites and feeds listed this week, 2,109 (62%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (10)](#thursday-nov-19-10)
 
@@ -197,7 +199,7 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 2:54 PM | [Network Engineer I](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11927) | Sundt | Tempe, AZ, United States (hybrid) | 60 | entry-level title; 3+ yrs exp |
 | 2:37 PM (seen) | [ML Ops / AI Infrastructure Engineer](https://app.dover.com/apply/zerospace/26fed6ba-728b-422e-89e6-2ba36af5aa78) | Zerospace | Brooklyn, NY (onsite) | 60 | sponsors visas |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (334)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (332)
 
 <details><summary>Show</summary>
 
@@ -484,9 +486,6 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | date only | [Sr. Software Developer - Platform Engineering](https://apply.workable.com/toyota-tsusho-systems/j/206E96F819/) | Toyota Tsusho Systems | Plano, Texas, United States +1 more | 33 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 2:05 PM | [Senior Associate - Tech Ops Engineering](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016666) | American Express | Phoenix, AZ, United States (hybrid) | 45 | rules: entry-level title; 10+ yrs exp; senior title; asks for 10+ yea… |
 | 1:30 PM | [Senior Network Engineer - 3902](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=659b82d2-10ab-4c07-8c2d-3ce16b4539b6&ccId=19000101_000001&jobId=9201928202991_71&lang=en_US) | 659B82D2 10Ab 4C07 8C2D 3Ce16… | Huntsville, AL | 30 | rules: 8+ yrs exp; senior title; needs: security clearance |
-| date only | [Senior Systems Software Engineer, Containers, Kubernetes, and Confide…](https://nvidia.eightfold.ai/careers/job/893398004321) | Nvidia | CA,US; TX,US; NC,US; WA,US (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| date only | [Senior Software Engineer, Bare Metal Infrastructure – DGX Cloud](https://nvidia.eightfold.ai/careers/job/893398376572) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| date only | [Senior Deep Learning Software Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893398605763) | Nvidia | Santa Clara, CA, US +1 more (onsite) | 45 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
 | date only | [Senior Systems Software Engineer, Containers and Kubernetes](https://nvidia.eightfold.ai/careers/job/893397548491) | Nvidia | Santa Clara, CA, US; Austin, TX, US; Se… (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Field Applications Engineer, AI Infrastructure Build - Executi…](https://nvidia.eightfold.ai/careers/job/893398171553) | Nvidia | TX,US; Houston, TX, US (remote) | 37 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Test Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893398512483) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
@@ -500,6 +499,7 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | date only | [Senior AI and HPC Observability Engineer](https://nvidia.eightfold.ai/careers/job/893393807684) | Nvidia | Santa Clara, CA, US; Seattle, WA, US (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Software Engineer, Core Infrastructure Services - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893396867645) | Nvidia | US; TX,US; US; CA,US (remote) | 37 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Software Engineer, SRE and Production Engineering - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893398092323) | Nvidia | Santa Clara, CA, US; TX,US; VA,US; SD,US (remote) | 37 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| date only | [Senior Deep Learning Software Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893396905948) | Nvidia | CA,US (remote) | 30 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
 | date only | [Senior Reliability Engineer](https://nvidia.eightfold.ai/careers/job/893396464343) | Nvidia | Santa Clara, CA, US (onsite) | 23 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Research Engineer, Foundation Model Training Infrastructure](https://nvidia.eightfold.ai/careers/job/893379496066) | Nvidia | Santa Clara, CA, US (onsite) | 38 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | date only | [Senior Reliability Engineer](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Branchburg-NJ-HO---US-Hwy-22-W---Advanced-materials/Senior-Project-Reliability-Engineer_R10090406-1) | Air Liquide | Branchburg, NJ (HO) - US Hwy 22 W - Adv… | 18 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
