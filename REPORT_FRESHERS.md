@@ -1,17 +1,20 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**378 jobs**, newest first. Updated Thu Nov 26, 1:05 AM CST from 12,580 company job boards and other sources.
+**377 jobs**, newest first. Updated Thu Nov 26, 1:50 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-126 repeat listings (same company and title in another place or on another source) are merged into one row.
+124 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (82)](#thursday-nov-19-82)
+Coverage check: of 4,450 matching jobs that job sites and feeds listed this week, 946 (21%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Thursday, Nov 26 (2)
+Jump to: [Thu 26 (3)](#thursday-nov-26-3) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (80)](#thursday-nov-19-80)
+
+## Thursday, Nov 26 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Associate Engineer, Process Engineering](https://globalfoundries.eightfold.ai/careers/job/563980771018262) | Globalfoundries | SG (onsite) | 75 | entry-level title; location unclear |
 | 12:00 AM | [CDX Rotational Program Associate](https://careers.molsoncoors.com/global/en/job/MQXMOLUS39895EXTERNALENUS) | Molson Coors Beverage Company | Atlanta, US-GA, United States | 75 | entry-level title |
 | 12:00 AM | [Billing Support Specialist](https://jobs.dayforcehcm.com/en-US/landstar/CANDIDATEPORTAL/jobs/12053) | Landstar | Rockford, IL, US; Jacksonville, FL, US | 75 | 1+ yrs exp |
 
@@ -339,7 +342,7 @@ Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (82)
+## Thursday, Nov 19 (80)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -423,10 +426,8 @@ Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, San Bernardino …](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826480) | Macy's | San Bernardino, CA, United States | 75 | entry-level title |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, St Clair Square](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826470) | Macy's | Fairview Heights, IL, United States | 75 | entry-level title |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Rosedale Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826471) | Macy's | Roseville, MN, United States | 75 | entry-level title |
-| 1:47 AM | [Associate, Cybersecurity & Data Privacy, Compliance](https://jobs.lever.co/jobgether/c998b954-e4b5-4221-9e90-a854a4cab7a1) | Jobgether | US (remote) | 82 | entry-level title; 1+ yrs exp |
-| 1:05 AM | [CMMS Implementation Associate](https://eiqg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/170848) | Eiqg Fa Us2 Oraclecloud Com | GA, United States | 75 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1426)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1428)
 
 <details><summary>Show</summary>
 
@@ -436,6 +437,8 @@ Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (49)](#wednesday-nov-25-49)
 | date only | [Full-Stack Software Engineer](https://apply.workable.com/raydar/j/C5B14BACAC/) | Raydar | San Francisco, California, United State… | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Development Engineer, US ADC Security](https://www.amazon.jobs/en/jobs/10615132/software-development-engineer-us-adc-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
 | date only | [Applications Programmer](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12114) | UCSF | San Francisco, CA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 1:53 AM | [API / Integration Developer, IFCAP (SCM DSO)](https://jobs.lever.co/jobgether/bf6dc960-0803-46c8-be6d-4bb0bd3e6d12) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 1:21 AM | [Android Developer](https://jobs.ashbyhq.com/salmon-group/551a3c44-f673-4ae2-8fe4-05450488eea3) | Salmon Group | Georgia; European Union (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 12:51 AM | [Customer Support Engineer](https://jobs.lever.co/jobgether/9d487c31-37cf-4c46-87bc-b28327112bbf) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; needs: security clearance |
 | 11:50 PM | [ETL Developer Remote (San Francisco Bay Area)](https://jobs.lever.co/jobgether/631ea14a-8b86-4628-bd01-1b27f694372e) | Jobgether | San Francisco Bay Area +4 more (remote) | 42 | rules: 10+ yrs exp; needs: U.S. citizenship is required |
 | 11:46 PM | [ETL Developer](https://jobs.lever.co/jobgether/5bb9d9fc-17ee-42f6-9a6f-82fc03aa47aa) | Jobgether | US (remote) | 42 | rules: 10+ yrs exp; needs: U.S. citizenship is required |
@@ -830,7 +833,5 @@ Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (49)](#wednesday-nov-25-49)
 | 8:12 AM | [SharePoint / Web Administrator — Federal Health IT](https://job-boards.greenhouse.io/rackner/jobs/4758246005) | Rackner | Remote — United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 8:12 AM | [SAP Data Services Developer](https://boards.greenhouse.io/accenturefederalservices/jobs/4731344006?gh_jid=4731344006) | Accenture | Washington, DC | 55 | rules: 4+ yrs exp; no future H-1B sponsorship; asks for 4+ years of e… |
 | 8:02 AM | [Security Operations Center Operator - Full time -$29/hr](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177541) | Securitas | Boston, MA, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 8:01 AM | [AI Engineer — Federal Health IT](https://job-boards.greenhouse.io/rackner/jobs/4758238005) | Rackner | Remote — United States (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| 7:50 AM (seen) | [Community Support Specialist - Adult](https://compasshealthnetwork.pinpointhq.com/en/postings/f42a7053-c7f8-43df-9327-5d9e2042ac80) | Compasshealthnetwork | Warrensburg - Burkharth Road +4 more (onsite) | 50 | rules: 4+ yrs exp; asks for 4+ years of experience |
 
 </details>
