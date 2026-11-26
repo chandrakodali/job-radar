@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**143 jobs**, newest first. Updated Thu Nov 26, 3:37 PM CST from 12,535 company job boards and other sources.
+**143 jobs**, newest first. Updated Thu Nov 26, 3:49 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 161 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,393 matching jobs that job sites and feeds listed this week, 2,127 (62%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (4)](#thursday-nov-19-4)
 
@@ -193,7 +191,7 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 6:30 PM | [IT Operations and Project Coordinator, IT Infrastructure](https://job-boards.greenhouse.io/clearwayjobs/jobs/5290313007) | Clearway Energy | San Diego, California, United States | 60 | 3+ yrs exp |
 | 4:20 PM | [Senior DevOps Engineer](https://jobs.workable.com/view/2hRx5JjxxEGa5gJLmvVWUb/hybrid-senior-devops-engineer-in-chicago-at-fooda) | Fooda | Chicago, Illinois (hybrid) | 60 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (324)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (320)
 
 <details><summary>Show</summary>
 
@@ -472,12 +470,9 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 4:45 PM | [Design for Reliability Engineer](https://jobs.ashbyhq.com/cerebras/2928d88c-d048-4854-9e69-7572113b036c) | Cerebras | Sunnyvale, CA (onsite) | 35 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 4:34 PM | [Network Engineer III (IP)](https://edqv.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/21003773) | GCI | United States | 30 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 3:50 PM | [System Administrator (202611A)](https://jobs.lever.co/purvis/89d3aa5a-c945-4964-8289-e3b00687d3e2) | Purvis Systems | Newport, RI (onsite) | 50 | rules: 3+ yrs exp; needs: security clearance |
-| 3:28 PM | [Sr. Network Engineer (CMMC)](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11337) | Ralliant | Beaverton, OR, United States (hybrid) | 35 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 3:28 PM | [Sr. Network Engineer (CMMC)](https://ralliant.eightfold.ai/careers/job/1133916942979) | Tektronix | Beaverton, OR, US (onsite) | 35 | rules: 7+ yrs exp; senior title; needs: ITAR |
-| 3:10 PM | [Microsoft Configuration Management Administrator (SCCM/MECM and Intun…](https://careers.akima.com/jobs/28614?lang=en-us) | Akima | Alexandria, Virginia | 45 | rules: 3+ yrs exp; needs: security clearance |
 | date only | [Sr. Software Developer - Platform Engineering](https://apply.workable.com/toyota-tsusho-systems/j/206E96F819/) | Toyota Tsusho Systems | Plano, Texas, United States +1 more | 33 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 1:30 PM | [Senior Network Engineer - 3902](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=659b82d2-10ab-4c07-8c2d-3ce16b4539b6&ccId=19000101_000001&jobId=9201928202991_71&lang=en_US) | 659B82D2 10Ab 4C07 8C2D 3Ce16… | Huntsville, AL | 30 | rules: 8+ yrs exp; senior title; needs: security clearance |
-| date only | [Senior Infrastructure Engineer - Infrastructure Security and Core Ser…](https://nvidia.eightfold.ai/careers/job/893397632800) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
 | date only | [Senior Cloud Engineer](https://euna.bamboohr.com/careers/827) | EUNA Solutions | Atlanta, Georgia | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Mainframe Network Engineer](https://morganstanley.eightfold.ai/careers/job/549801333393) | Morganstanley | Atlanta, GA, US; Birmingham, AL, US; Li… (onsite) | 50 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | date only | [Senior Linux Software Engineer - Chip System Software](https://nvidia.eightfold.ai/careers/job/893397112878) | Nvidia | Santa Clara, CA, US (onsite) | 30 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
@@ -496,7 +491,6 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | date only | [Senior Automation Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893398829768) | Nvidia | CA,US; GA,US; TX,US; AZ,US (remote) | 30 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | date only | [Senior Production Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893397975884) | Nvidia | Santa Clara, CA, US; US (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 10:21 AM | [Senior F5 Network Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678604) | 6166Aed4 Af42 4762 99E4 5D67A… | MD, USA | 30 | rules: 8+ yrs exp; senior title; needs: security clearance |
-| 11:00 PM | [NOC Network Administrator](https://careers-dminc.icims.com/jobs/29163/noc-network-administrator/job) | DMI | Hanover, MD, United States | 60 | rules: 2+ yrs exp; needs: Must be a U.S. Citizen |
 | 11:00 PM | [System Administrator](https://careers-bnh.icims.com/jobs/25363/system-administrator/job) | Beyond New Horizons | Arnold AFB, TN, United States | 40 | rules: 4+ yrs exp; no future H-1B sponsorship; needs: security cleara… |
 | 8:28 PM | [Network Engineer III- Hybrid Schedule - Green Bay, WI](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=55888d88-cf09-47e9-99b5-cdf86a66592a&ccId=19000101_000001&jobId=9205261686932_110&lang=en_US) | 55888D88 Cf09 47E9 99B5 Cdf86… | Green Bay, WI | 23 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 3:12 PM | [Mid Linux Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676907) | 6166Aed4 Af42 4762 99E4 5D67A… | USA | 43 | rules: needs: Secret Clearance |
