@@ -1,14 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**157 jobs**, newest first. Updated Thu Nov 26, 11:07 AM CST from 12,535 company job boards and other sources.
+**156 jobs**, newest first. Updated Thu Nov 26, 11:19 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 163 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,313 matching jobs that job sites and feeds listed this week, 2,063 (62%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (18)](#thursday-nov-19-18)
+Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (17)](#thursday-nov-19-17)
 
 ## Thursday, Nov 26 (7)
 
@@ -184,7 +182,7 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 12:37 AM (seen) | [Systems Reliability Engineer II- Technical Support, Virtualization, L…](https://jobs.jobvite.com/nutanix/job/o2kQzfwv) | Nutanix |  | 35 | 4+ yrs exp; location unclear |
 | 12:00 AM | [Senior Platform Security Engineer](https://weworkremotely.com/remote-jobs/discord-senior-platform-security-engineer) | Discord | Remote, US (Anywhere in the World) (remote) | 52 | senior title, years not stated |
 
-## Thursday, Nov 19 (18)
+## Thursday, Nov 19 (17)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -205,7 +203,6 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 12:02 PM | [Software Engineer, Production Engineering, FinOps](https://jobs.ashbyhq.com/ramp/da40ed6e-1c32-4284-89f5-2ad0813b8d49) | Ramp | New York, NY (HQ) (hybrid) | 55 |  |
 | 11:58 AM | [Senior Forward Deployed Engineer, ML Infrastructure & Inference](https://jobs.ashbyhq.com/black-forest-labs/077c8cc1-90ce-4c82-a262-f53cac85fb03) | Black Forest Labs | San Francisco (United States) (onsite) | 60 | senior title, years not stated |
 | 11:44 AM | [IT Epic Client Systems Engineer](https://luriechildrens.wd1.myworkdayjobs.com/externalportal/job/Streeterville-Chicago-IL/IT-Epic-Client-Systems-Engineer_JR2026-2960) | Ann & Robert H. Lurie Childre… | Streeterville, Chicago, IL | 50 |  |
-| 11:10 AM | [Application Support Engineer I](https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Maitland/Application-Support-Engineer-I_R-101451) | Alegeus | 3 Locations | 55 | entry-level title; location unclear |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (352)
 
