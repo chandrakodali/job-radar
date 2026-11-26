@@ -1,14 +1,12 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**102 jobs**, newest first. Updated Thu Nov 26, 1:26 AM CST from 12,535 company job boards and other sources.
+**101 jobs**, newest first. Updated Thu Nov 26, 1:38 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 57 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 667 matching jobs that job sites and feeds listed this week, 340 (50%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (12)](#thursday-nov-19-12)
+Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (11)](#thursday-nov-19-11)
 
 ## Wednesday, Nov 25 (7)
 
@@ -125,7 +123,7 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 | 9:40 AM | [Network Tech (Full-time, On-site)](https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/171059) | Community Health Systems | Jackson, MS, United States | 60 | 2+ yrs exp; network work in the text |
 | 2:00 AM | [Network Engineer](https://jobs.lincolnfinancial.com/job/Greensboro-Network-Engineer-NC-27395/1423300500/) | Lincoln Financial | Greensboro, NC, United States | 65 | 4+ yrs exp; E-Verify |
 
-## Thursday, Nov 19 (12)
+## Thursday, Nov 19 (11)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -140,7 +138,6 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 | 10:35 AM | [Network Operations Analyst I](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Fairfield-CA/Network-Operations-Analyst-I_R0018587) | Astreya | Fairfield, CA | 75 | entry-level title |
 | 9:36 AM | [Network Engineer / Network and Server Support](https://jobs.workable.com/view/i2NTxLUjaGKAkpJGcKhAie/hybrid-network-engineer-%7C-network-and-server-support-in-harrisburg-at-adept-consulting-services%2C-inc.) | Adept Consulting Services, In… | Harrisburg, Pennsylvania (hybrid) | 58 | staffing/consulting firm: verify it's real |
 | 2:00 AM | [Network Systems Engineer](https://jobs.supermicro.com/job/San-Jose-Network-Systems-Engineer-Cali/1432768500/) | Super Micro Computer | San Jose, California, United States | 53 | 1+ yrs exp; network work in the text |
-| 1:36 AM | [Cloud System Administrator (Shift C - Night)](https://jobs.lever.co/jobgether/9c2d4dc4-c40b-400c-b0d4-cb0f7d0e65bf) | Jobgether | US (remote) | 40 | network work in the text |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (241)
 
