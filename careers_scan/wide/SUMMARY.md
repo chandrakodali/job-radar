@@ -1,6 +1,6 @@
 # Wide sweep summary
 
-Updated 2026-11-25.
+Updated 2026-11-26.
 
 Crawls swept: CC-MAIN-2026-39, CC-MAIN-2026-43.
 
@@ -8,41 +8,41 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 
 ## By tier
 
-- 1: 23101
-- 2: 108252
-- 3: 303173
-- 4: 94549
-- 5: 32359
-- 9: 93860
+- 1: 22999
+- 2: 108303
+- 3: 303334
+- 4: 94562
+- 5: 32371
+- 9: 93725
 
 ## By category
 
-- unknown: 93860
-- ats: 44209
-- blocked: 2797
-- careers_page_unclear: 281951
-- doc: 1301
-- email: 54260
-- external_board: 7284
-- form: 75792
+- unknown: 93725
+- ats: 44213
+- blocked: 2798
+- careers_page_unclear: 282105
+- doc: 1299
+- email: 54242
+- external_board: 7289
+- form: 75761
 - js_only: 461
-- no_careers_page: 43056
-- no_openings: 21222
-- robots_disallowed: 8336
-- unreachable: 20765
+- no_careers_page: 43060
+- no_openings: 21229
+- robots_disallowed: 8339
+- unreachable: 20773
 
 ## By us
 
-- unknown: 93860
-- non_us: 37151
-- unknown: 291038
-- us: 233245
+- unknown: 93725
+- non_us: 37167
+- unknown: 291088
+- us: 233314
 
 ## By via
 
-- unknown: 93860
-- archive: 43753
-- live: 517681
+- unknown: 93725
+- archive: 43779
+- live: 517790
 
 ## Tier 1 sites
 
@@ -125,6 +125,7 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 123AceTheTest (123acethetest.com)
 - 12nets Inc (12nets.com)
 - 14K Business Solutions (14kbsol.com)
+- 151 Kitchen / Bar (151elmhurst.com)
 - 16th Street Baptist Church (16thstreetbaptist.org)
 - 1800Esupply (1800esupply.com)
 - 1903 Design Studio (1903designstudio.com)
@@ -245,4 +246,3 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 4Science (4science.com)
 - 4Serv INC (4serv.net)
 - 4Sight Group (4sight.group)
-- 4Team Corporation (4team.biz)
