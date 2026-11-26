@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**173 jobs**, newest first. Updated Thu Nov 26, 6:19 AM CST from 12,580 company job boards and other sources.
+**173 jobs**, newest first. Updated Thu Nov 26, 6:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 165 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,206 matching jobs that job sites and feeds listed this week, 1,987 (61%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (4)](#thursday-nov-26-4) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (38)](#thursday-nov-19-38)
 
@@ -221,12 +223,13 @@ Jump to: [Thu 26 (4)](#thursday-nov-26-4) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 8:23 AM | [Site Reliability Operations Analyst - Legal](https://jobs.lever.co/palantir/4a9e0649-a925-4b25-914d-1eea058a3e01) | Palantir | Washington, D.C. +1 more (hybrid) | 65 | 3+ yrs exp |
 | 7:52 AM | [Infrastructure Engineer Deskside Support](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120595) | Howmet Aerospace | Wichita Falls, TX, United States (onsite) | 65 | 4+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (363)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (364)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [AI Infrastructure Engineer - NVIS](https://nvidia.eightfold.ai/careers/job/893398972095) | Nvidia | TX,US; Washington, DC, US; US; TN,US (remote) | 37 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 4:25 AM | [CI/CD Engineer - Remote (San Francisco Bay Area)](https://jobs.lever.co/jobgether/93da3915-8c11-468f-9946-2eae5fef4791) | Jobgether | San Francisco Bay Area +5 more (remote) | 27 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 1:21 AM | [Senior IT Systems Administrator](https://jobs.lever.co/jobgether/ffa39d1f-c983-4555-adcf-6e4a2cf2477c) | Jobgether | US (remote) | 27 | rules: 5+ yrs exp; senior title; needs: Must be a U.S. citizen |
 | 10:45 PM | [Senior Cloud SRE](https://boards.greenhouse.io/accenturefederalservices/jobs/4732401006?gh_jid=4732401006) | Accenture | San Antonio, TX | 35 | rules: 8+ yrs exp; senior title; no future H-1B sponsorship; needs: P… |
