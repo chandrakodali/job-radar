@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**176 jobs**, newest first. Updated Wed Nov 25, 9:07 PM CST from 12,535 company job boards and other sources.
+**176 jobs**, newest first. Updated Wed Nov 25, 9:19 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 171 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,013 matching jobs that job sites and feeds listed this week, 1,844 (61%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (1)](#wednesday-nov-18-1)
 
@@ -415,7 +413,7 @@ Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33
 | 2:41 PM | [Cloud Open Text Sys Admin](https://boards.greenhouse.io/accenturefederalservices/jobs/4707129006?gh_jid=4707129006) | Accenture | Washington, DC | 20 | rules: 7+ yrs exp; no future H-1B sponsorship; needs: clearance requi… |
 | 2:41 PM | [Cloud Developer](https://boards.greenhouse.io/accenturefederalservices/jobs/4707130006?gh_jid=4707130006) | Accenture | Washington, DC | 35 | rules: 6+ yrs exp; no future H-1B sponsorship; needs: clearance requi… |
 | 2:37 PM | [Senior Platform Security Engineer](https://jobs.gem.com/function-health/am9icG9zdDrOCG_iBYDe3FO0bL7gSxHF) | Function Health | US - Remote (remote) | 42 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| 2:36 PM | [DevOps Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4731297006?gh_jid=4731297006) | Accenture | St. Louis, MO +1 more | 50 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: Secret Clearance |
+| 2:36 PM | [DevOps Engineer](https://boards.greenhouse.io/accenturefederalservices/jobs/4731297006?gh_jid=4731297006) | Accenture | St. Louis, MO | 50 | rules: 3+ yrs exp; no future H-1B sponsorship; needs: Secret Clearance |
 | 2:16 PM | [Senior Infrastructure Software Engineer (Austin, TX)](https://jobs.lever.co/exowatt/c73df83c-943e-4864-a0a9-aac823d9d72b) | Exowatt | Austin, TX (onsite) | 50 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 2:03 PM | [Systems Administrator II/Senior Systems Administrator](https://jobs.lever.co/researchinnovations.com/edaddcf9-81f4-4ee2-bdb7-64a266fb41e1) | Research Innovations | Melbourne, FL (onsite) | 30 | rules: 6+ yrs exp; senior title; needs: security clearance |
 | 1:59 PM | [Hardware Reliability Engineer – Ecosystem Accessories](https://jobs.apple.com/en-us/details/200696149/hardware-reliability-engineer-ecosystem-accessories) | Apple | United States of America | 50 | rules: adjacent title, little DevOps/cloud work in the text |
