@@ -1,12 +1,21 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**377 jobs**, newest first. Updated Thu Nov 26, 12:01 AM CST from 12,580 company job boards and other sources.
+**378 jobs**, newest first. Updated Thu Nov 26, 12:53 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 126 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (83)](#thursday-nov-19-83)
+Coverage check: of 4,365 matching jobs that job sites and feeds listed this week, 935 (21%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (82)](#thursday-nov-19-82)
+
+## Thursday, Nov 26 (2)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| 12:00 AM | [CDX Rotational Program Associate](https://careers.molsoncoors.com/global/en/job/MQXMOLUS39895EXTERNALENUS) | Molson Coors Beverage Company | Atlanta, US-GA, United States | 75 | entry-level title |
+| 12:00 AM | [Billing Support Specialist](https://jobs.dayforcehcm.com/en-US/landstar/CANDIDATEPORTAL/jobs/12053) | Landstar | Rockford, IL, US; Jacksonville, FL, US | 75 | 1+ yrs exp |
 
 ## Wednesday, Nov 25 (49)
 
@@ -332,7 +341,7 @@ Jump to: [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (83)
+## Thursday, Nov 19 (82)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -418,17 +427,18 @@ Jump to: [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Rosedale Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826471) | Macy's | Roseville, MN, United States | 75 | entry-level title |
 | 1:47 AM | [Associate, Cybersecurity & Data Privacy, Compliance](https://jobs.lever.co/jobgether/c998b954-e4b5-4221-9e90-a854a4cab7a1) | Jobgether | US (remote) | 82 | entry-level title; 1+ yrs exp |
 | 1:05 AM | [CMMS Implementation Associate](https://eiqg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/170848) | Eiqg Fa Us2 Oraclecloud Com | GA, United States | 75 | entry-level title |
-| 12:05 AM | [Systems Support Specialist I - City](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4416) | City of Oklahoma City | Oklahoma  City, OK, United States (onsite) | 80 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1429)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1426)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2030720EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Full-Stack Software Engineer](https://apply.workable.com/raydar/j/C5B14BACAC/) | Raydar | San Francisco, California, United State… | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Development Engineer, US ADC Security](https://www.amazon.jobs/en/jobs/10615132/software-development-engineer-us-adc-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
 | date only | [Applications Programmer](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12114) | UCSF | San Francisco, CA, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 12:51 AM | [Customer Support Engineer](https://jobs.lever.co/jobgether/9d487c31-37cf-4c46-87bc-b28327112bbf) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; needs: security clearance |
 | 11:50 PM | [ETL Developer Remote (San Francisco Bay Area)](https://jobs.lever.co/jobgether/631ea14a-8b86-4628-bd01-1b27f694372e) | Jobgether | San Francisco Bay Area +4 more (remote) | 42 | rules: 10+ yrs exp; needs: U.S. citizenship is required |
 | 11:46 PM | [ETL Developer](https://jobs.lever.co/jobgether/5bb9d9fc-17ee-42f6-9a6f-82fc03aa47aa) | Jobgether | US (remote) | 42 | rules: 10+ yrs exp; needs: U.S. citizenship is required |
 | 11:12 PM | [Automation Engineer Remote (Seattle)](https://jobs.lever.co/jobgether/0bb17038-c3a5-4191-a7d5-d94346456ba4) | Jobgether | Seattle, WA +4 more (remote) | 42 | rules: 10+ yrs exp; needs: Public Trust clearance |
@@ -726,7 +736,6 @@ Jump to: [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59
 | 11:10 AM | [Federal Salesforce Developer - Agentforce Specialist](https://jobs.gem.com/thunder/am9icG9zdDpu9UnmnXSRGW45XAyPG5pK) | Thunder | United States (remote) | 57 | rules: 4+ yrs exp; needs: security clearance |
 | 11:08 AM | [AI Forward Deployed Engineer - Applied AI](https://jobs.ashbyhq.com/zip/d212845e-9668-4a01-a30d-0d24c5a4f2b2) | Zip | San Francisco (hybrid) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [Data Center Technician](https://www.amazon.jobs/en/jobs/10606460/data-center-technician) | Amazon Data Services, Inc. | Avondale, Arizona, USA +3 more | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
-| date only | [Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2030706EXTERNALENGLOBAL) | Cisco | Arlington, Virginia, United States of A… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Network Deployment Engineer, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10612860/network-deployment-engineer-amazon-dedicated-cloud-nidd) | Amazon Data Services, Inc. | Broomfield, Colorado, USA | 75 | rules: 1+ yrs exp; needs: security clearance |
 | date only | [Systems Test Engineer 1](https://jobs.ulalaunch.com/job/Pueblo-Systems-Test-Engineer-1-CO-81001/1453418900/) | United Launch Alliance | Pueblo, CO, United States +1 more | 80 | rules: entry-level title; E-Verify; needs: Security Clearance |
 | date only | [Software Engineer](https://jobs.netapp.com/job/Morrisville-Software-Engineer-NC-27560/1453449500/) | NetApp | Morrisville, NC, United States +1 more | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
@@ -825,6 +834,5 @@ Jump to: [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (59)](#tuesday-nov-24-59
 | 8:02 AM | [Security Operations Center Operator - Full time -$29/hr](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177541) | Securitas | Boston, MA, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 8:01 AM | [AI Engineer — Federal Health IT](https://job-boards.greenhouse.io/rackner/jobs/4758238005) | Rackner | Remote — United States (remote) | 57 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 7:50 AM (seen) | [Community Support Specialist - Adult](https://compasshealthnetwork.pinpointhq.com/en/postings/f42a7053-c7f8-43df-9327-5d9e2042ac80) | Compasshealthnetwork | Warrensburg - Burkharth Road +4 more (onsite) | 50 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| 7:43 AM | [IP Core & Application Engineer](https://ford.eightfold.ai/careers/job/563568454207559) | Ford | Dearborn, MI, US (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
