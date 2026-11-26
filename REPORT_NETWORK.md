@@ -1,14 +1,12 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**106 jobs**, newest first. Updated Wed Nov 25, 7:31 PM CST from 12,535 company job boards and other sources.
+**104 jobs**, newest first. Updated Wed Nov 25, 7:43 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
-58 repeat listings (same company and title in another place or on another source) are merged into one row.
+57 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 652 matching jobs that job sites and feeds listed this week, 333 (51%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (3)](#wednesday-nov-18-3)
+Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (13)](#thursday-nov-19-13) · [Wed 18 (1)](#wednesday-nov-18-1)
 
 ## Wednesday, Nov 25 (7)
 
@@ -143,13 +141,11 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 | 1:36 AM | [Cloud System Administrator (Shift C - Night)](https://jobs.lever.co/jobgether/9c2d4dc4-c40b-400c-b0d4-cb0f7d0e65bf) | Jobgether | US (remote) | 40 | network work in the text |
 | 1:00 AM | [IT Systems Engineer](https://jobs.dayforcehcm.com/en-US/avisystems/CANDIDATEPORTAL/jobs/7725) | Avisystems | Minneapolis, MN, US | 43 | network work in the text |
 
-## Wednesday, Nov 18 (3)
+## Wednesday, Nov 18 (1)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:00 PM | [LAN/WAN Analyst DOW Skillbridge](https://careers-emcorgroup.icims.com/jobs/55445/lan-wan-analyst-dow-skillbridge/job) | EMCOR Group | Norwalk, CT, United States (remote) | 55 |  |
-| 7:37 PM | [Network Engineer](https://jobs.smartrecruiters.com/Wabtec/3743990016954416-network-engineer) | Wabtec | Pittsburgh, PA, United States (hybrid) | 58 | 3+ yrs exp |
-| 7:33 PM | [Cloud System Administrator (Shift A - Day)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=567e686e-7575-49d9-b29f-985e7365f987&ccId=19000101_000001&jobId=9202919391983_103&lang=en_US) | 567E686E 7575 49D9 B29F 985E7… | USA, Remote | 48 | E-Verify; network work in the text |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (241)
 
