@@ -1,12 +1,14 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**62 jobs**, newest first. Updated Thu Nov 26, 10:31 AM CST from 12,580 company job boards and other sources.
+**61 jobs**, newest first. Updated Thu Nov 26, 11:19 AM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 175 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (10)](#friday-nov-20-10) · [Thu 19 (12)](#thursday-nov-19-12)
+Coverage check: of 4,466 matching jobs that job sites and feeds listed this week, 2,293 (51%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (10)](#friday-nov-20-10) · [Thu 19 (11)](#thursday-nov-19-11)
 
 ## Thursday, Nov 26 (2)
 
@@ -93,7 +95,7 @@ Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) �
 | 10:35 AM | [Senior Java Engineer - Order Management System](https://jobs.workable.com/view/ipM4SCCAfMYx6t3RqXbtAV/senior-java-engineer---order-management-system-in-massachusetts-at-man-group) | Man Group | Massachusetts (onsite) | 60 | senior title, years not stated |
 | 8:00 AM | [Associate, Full-stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83835) | BNY | Jersey City, NJ, United States | 55 | entry-level title; 3+ yrs exp; requires Java |
 
-## Thursday, Nov 19 (12)
+## Thursday, Nov 19 (11)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -108,9 +110,8 @@ Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) �
 | 1:32 PM | [Software Development Engineer](https://www.esri.com/careers/5291317007?gh_jid=5291317007) | Esri | Vienna, Virginia, United States | 60 | 1+ yrs exp; requires Java |
 | 12:24 PM | [Full Stack Software Engineer II - Java/React/AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210778172) | JP Morgan Chase | Tampa, FL, United States | 70 | 2+ yrs exp |
 | 12:02 PM | [Senior Full Stack Developer - Java, Angular](https://careers.united.com/us/en/job/UAIUADUSWHQ00026896EXTERNALENUSTALEO) | United Airlines | Chicago, Illinois, United States | 60 | 4+ yrs exp; senior title |
-| date only | [NVIDIA 2027 Internships: Software Engineering](https://nvidia.eightfold.ai/careers/job/893397026205) | Nvidia | Santa Clara, CA, US (onsite) | 43 | requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (64)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (63)
 
 <details><summary>Show</summary>
 
@@ -172,7 +173,6 @@ Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) �
 | date only | [Open Source Software Engineer](https://jobs.netapp.com/job/Open-Source-Software-Engineer/1452419000/) | NetApp | US | 30 | rules: 8+ yrs exp; requires Java; asks for 8+ years of experience |
 | date only | [Applications Development Senior Developer  (Java / Microservices)](https://citi.eightfold.ai/careers/job/859038830202) | Citi | Irving, TX, US (hybrid) | 43 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Senior Automation Developer (Java)](https://citi.eightfold.ai/careers/job/859037884952) | Citi | Mississauga, ON, CA (hybrid) | 43 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 10:22 AM | [Software Engineer](https://johndeere.eightfold.ai/careers/job/137484231195) | John Deere | Milan, IL, US (onsite) | 35 | rules: 5+ yrs exp; requires Java; asks for 5+ years of experience |
 | 11:00 PM | [Sr. Full Stack Software Engineer – AWS CDK / Java / Node.js (Remote)](https://careers-fedwriters.icims.com/jobs/2628/sr.-full-stack-software-engineer-%e2%80%93-aws-cdk---java---node.js-%28remote%29/job) | FedWriters | United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Software Engineer](https://apply.workable.com/amerisave/j/28E64F6DBB/) | Amerisave | United States (remote) | 15 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 5:54 PM | [Developer/Programmer Analyst - Hybrid/Onsite – Austin, TX](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4c9a1f1d-ff7a-41e9-9b4a-aecb5ca84ec4&ccId=19000101_000001&jobId=9201697189343_34&lang=en_US) | 4C9A1F1D Ff7A 41E9 9B4A Aecb5… | Falls Church, VA | 23 | rules: 8+ yrs exp; requires Java; asks for 8+ years of experience |
