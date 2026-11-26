@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**182 jobs**, newest first. Updated Wed Nov 25, 5:49 PM CST from 12,580 company job boards and other sources.
+**182 jobs**, newest first. Updated Wed Nov 25, 6:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-180 repeat listings (same company and title in another place or on another source) are merged into one row.
+179 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 2,954 matching jobs that job sites and feeds listed this week, 1,803 (61%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (44)](#thursday-nov-19-44) · [Wed 18 (6)](#wednesday-nov-18-6)
 
@@ -193,7 +195,6 @@ Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34
 | 11:44 AM | [IT Epic Client Systems Engineer](https://luriechildrens.wd1.myworkdayjobs.com/externalportal/job/Streeterville-Chicago-IL/IT-Epic-Client-Systems-Engineer_JR2026-2960) | Ann & Robert H. Lurie Childre… | Streeterville, Chicago, IL | 50 |  |
 | 11:10 AM | [Application Support Engineer I](https://alegeus.wd1.myworkdayjobs.com/Alegeus_External_Careers/job/Maitland/Application-Support-Engineer-I_R-101451) | Alegeus | 3 Locations | 55 | entry-level title; location unclear |
 | 11:00 AM | [Senior IT Systems Engineer, Migration](https://www.sentinelone.com/jobs/?gh_jid=8204496003) | Sentinellabs | United States - Remote (remote) | 42 | senior title, years not stated; E-Verify |
-| date only | [Site Reliability Engineer](https://apply.workable.com/a2z-sync/j/FA2F2E062A/) | A2Z Sync | Denver, Colorado, United States +1 more (remote) | 45 | 4+ yrs exp |
 | date only | [DevOps / SRE Engineer (Kubernetes, Terraform), AI Expert](https://apply.workable.com/weekday-1/j/FD2496AC64/) | Weekday AI | United States (remote) | 57 | 4+ yrs exp; repost |
 | date only | [DevOps Engineer](https://apply.workable.com/pavago/j/BA693A49E4/) | Pavago | United States +1 more (remote) | 45 | 3+ yrs exp |
 | date only | [Software Engineer, AI Infrastructure](https://apply.workable.com/raydar/j/AB009A2011/) | Raydar | San Francisco, California, United States | 65 |  |
@@ -205,6 +206,7 @@ Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34
 | date only | [Linux/HPC System Administrator](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Linux-HPC-System-Administrator_423455) | Argonne National Laboratory | Lemont, IL USA | 58 | 2+ yrs exp; likely H-1B cap-exempt (verify) |
 | date only | [Cyber Security Engineer II - Platform Security (Infra)](https://careers.tesco.com/cs_CZ/careers/JobDetail/Cyber-Security-Engineer-II-Platform-Security-Infra/221048) | Tesco | Welwyn Garden City, Spojené království … | 48 | location unclear |
 | date only | [Emulation Front-End Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893396961732) | Nvidia | Santa Clara, CA, US (onsite) | 53 | 3+ yrs exp |
+| date only | [Site Reliability Engineer](https://apply.workable.com/a2z-sync/j/FA2F2E062A/) | A2Z Sync | Denver, Colorado, United States (remote) | 45 | 4+ yrs exp |
 | date only | [Event Tech Ops Engineer](https://nvidia.eightfold.ai/careers/job/893398234102) | Nvidia | Santa Clara, CA, US (onsite) | 33 | 4+ yrs exp |
 | 10:58 AM | [Infrastructure Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016565) | American Express | Phoenix, AZ, United States (hybrid) | 60 | 4+ yrs exp |
 | 10:07 AM (seen) | [Cloud SysAdmin](https://donweb.zohorecruit.com/jobs/Careers/694925000009769001/Cloud-SysAdmin) | Donweb |  (remote) | 27 | location unclear |
@@ -230,7 +232,7 @@ Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34
 | 6:46 PM | [Site Reliability Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016351) | American Express | Phoenix, AZ, United States (hybrid) | 65 |  |
 | 6:42 PM | [IT Infrastructure Engineer](https://jobs.ashbyhq.com/Sierra/742020b7-5a2a-495d-8ac9-d74d31dc91c6) | Sierra | San Francisco, CA (onsite) | 70 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (364)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (363)
 
 <details><summary>Show</summary>
 
@@ -574,7 +576,6 @@ Jump to: [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34
 | 8:28 PM | [Network Engineer III- Hybrid Schedule - Green Bay, WI](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=55888d88-cf09-47e9-99b5-cdf86a66592a&ccId=19000101_000001&jobId=9205261686932_110&lang=en_US) | 55888D88 Cf09 47E9 99B5 Cdf86… | Green Bay, WI | 23 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 7:37 PM | [Network Engineer](https://jobs.smartrecruiters.com/Wabtec/3743990016954416-network-engineer) | Wabtec | Pittsburgh, PA, United States (hybrid) | 50 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | 7:23 PM | [Senior Systems Administrator](https://jobs.ashbyhq.com/swarmaero/f6362109-d107-46e7-aa57-04d0da26c3c5) | Swarm Aero | Oxnard (onsite) | 35 | rules: 5+ yrs exp; senior title; needs: must be a U.S. citizen |
-| 3:28 PM | [Senior Software Engineer, Data Infrastructure](https://jobs.lever.co/prolific-machines/10441e3a-f731-4230-b8d7-f792daf8cd87) | Prolific Machines | Emeryville, California (onsite) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 3:12 PM | [Mid Linux Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676907) | 6166Aed4 Af42 4762 99E4 5D67A… | USA | 43 | rules: needs: Secret Clearance |
 | 3:06 PM | [Senior Linux Systems Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676869) | 6166Aed4 Af42 4762 99E4 5D67A… | USA (remote) | 20 | rules: 10+ yrs exp; senior title; needs: Secret Clearance |
 | 2:33 PM | [Systems Administrator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676674) | 6166Aed4 Af42 4762 99E4 5D67A… | USA | 53 | rules: 2+ yrs exp; needs: Secret Clearance |
