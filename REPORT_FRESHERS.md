@@ -1,20 +1,18 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**364 jobs**, newest first. Updated Thu Nov 26, 10:57 AM CST from 12,535 company job boards and other sources.
+**347 jobs**, newest first. Updated Thu Nov 26, 11:11 AM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-122 repeat listings (same company and title in another place or on another source) are merged into one row.
+115 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,723 matching jobs that job sites and feeds listed this week, 976 (20%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (61)](#thursday-nov-19-61)
+Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (44)](#thursday-nov-19-44)
 
 ## Thursday, Nov 26 (10)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
-| date only | [Data Center Technician - Day Shift](https://www.amazon.jobs/en/jobs/10615349/data-center-technician-day-shift) | Amazon Data Services, Inc. | Andrews, Texas, USA +6 more | 70 | 1+ yrs exp; no future H-1B sponsorship; repost |
+| date only | [Data Center Technician - Day Shift](https://www.amazon.jobs/en/jobs/10615349/data-center-technician-day-shift) | Amazon Data Services, Inc. | Andrews, Texas, USA +4 more | 70 | 1+ yrs exp; no future H-1B sponsorship; repost |
 | date only | [Associate Engineer, Process Engineering](https://globalfoundries.eightfold.ai/careers/job/563980771018262) | Globalfoundries | SG (onsite) | 75 | entry-level title; location unclear |
 | date only | [Infrastructure Engineer](https://apply.workable.com/raydar/j/4EE5E20CFC/) | Raydar | San Francisco, California, United States | 85 | 1+ yrs exp; entry level (from the text) |
 | 8:06 AM | [Data Center Technician I - Entry Level](https://ericsson.eightfold.ai/careers/job/563121777109972) | Ericsson | Lewisville, TX, US; Wichita Falls, TX, … (onsite) | 75 | entry-level title; no future H-1B sponsorship |
@@ -99,7 +97,7 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 5:31 PM | [Seasonal Fulfillment and Receiving Support Associate, Hampton Bays](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827722) | Macy's | Hampton Bays, NY, United States | 75 | entry-level title |
 | 5:31 PM | [Seasonal Fulfillment and Receiving Support Associate, Gardens](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827689) | Macy's | Palm Beach Gardens, FL, United States | 75 | entry-level title; repost |
 | 5:31 PM | [Seasonal Fulfillment and Receiving Support Associate, Coral Square](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827690) | Macy's | Coral Springs, FL, United States | 75 | entry-level title |
-| 4:29 PM | [Test Center Administrator (Newark, DE)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26794) | Pearson | Newark, DE, United States +8 more (onsite) | 80 | 1+ yrs exp |
+| 4:29 PM | [Test Center Administrator (Newark, DE)](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26794) | Pearson | Newark, DE, United States +6 more (onsite) | 80 | 1+ yrs exp |
 | 4:22 PM | [Project Support Associate, Global Openings](https://hcqq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5004/job/42294) | RH | United States | 85 | entry-level title; 1+ yrs exp |
 | 3:31 PM | [Field Application Engineer: Model Bring-up and Inference](https://sambanova.ai/sambanova-available-positions/?gh_jid=6270341004) | Sambanovasystems | Austin, Texas, United States | 75 | entry level (from the text) |
 | 2:57 PM | [Operational Support Specialist](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/177562) | Securitas | Downers Grove, IL, United States | 85 | 1+ yrs exp; entry level (from the text) |
@@ -348,7 +346,7 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (61)
+## Thursday, Nov 19 (44)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -396,23 +394,6 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 12:48 PM | [GSD Global Support Tech Generalist, IT Support, English with Spanish …](https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ChurchEmployment/job/379274) | Epej Fa Us2 Oraclecloud Com | Riverton, UT, United States (hybrid) | 85 | 0-2 yrs exp; entry level (from the text); no future H-1B sponsorship;… |
 | 12:07 PM | [Recovery Support Specialist-Full Time Overnight Shifts](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162578448-recovery-support-specialist-full-time-overnight-shifts) | Northwestern Medicine | DeKalb, IL, United States | 75 | entry level (from the text) |
 | 11:45 AM | [Java Full Stack Engineer - Associate](https://fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/705352) | HEXAWARE | United States | 75 | entry-level title |
-| date only | [Software Engineer, Commerce](https://www.amazon.jobs/en/jobs/10607724/software-engineer-commerce) | Twitch Interactive, Inc. | Seattle, Washington, USA | 75 | 1+ yrs exp |
-| date only | [Software Engineer I, Commerce](https://www.amazon.jobs/en/jobs/10607758/software-engineer-i-commerce) | Twitch Interactive, Inc. | Seattle, Washington, USA | 85 | entry-level title; 1+ yrs exp |
-| date only | [Software QA Engineer, DOCA Host](https://nvidia.eightfold.ai/careers/job/893398811435) | Nvidia | Rawabi; Hebron; Nablus (onsite) | 75 | 1+ yrs exp; location unclear |
-| date only | [Design-for-Test Engineer (2027 New College Graduate)](https://globalfoundries.eightfold.ai/careers/job/563980770505731) | Globalfoundries | Richardson, TX, US (onsite) | 80 | entry-level title |
-| date only | [AI/ML Device Modeling Engineer (2027 New College Graduate)](https://globalfoundries.eightfold.ai/careers/job/563980770945693) | Globalfoundries | Austin, TX, US; IL,US (onsite) | 80 | entry-level title |
-| date only | [New College Grad - Data Scientist, AI for Business Functions](https://micron.eightfold.ai/careers/job/45096301) | Micron | Boise, ID, US +1 more (onsite) | 90 | entry-level title; 0-2 yrs exp |
-| date only | [Client Support Associate](https://sentinelgroup.applytojob.com/apply/l128JwqUlr/Client-Support-Associate) | Sentinel Group | Wakefield, MA (remote) | 82 | entry-level title; 1+ yrs exp |
-| date only | [Network Install Technician](https://www.amazon.jobs/en/jobs/10609672/network-install-technician) | Amazon Data Services, Inc. | Jeffersonville, Ohio, USA | 70 | 1+ yrs exp; no future H-1B sponsorship |
-| date only | [Data Input Associate](https://ilsos.applytojob.com/apply/Dr5yUlXlAl/Data-Input-Associate) | Illinois Secretary of State | Springfield, IL | 85 | entry-level title; 1+ yrs exp |
-| date only | [Founding Software Engineer](https://apply.workable.com/raydar/j/72755BCC39/) | Raydar | San Francisco, California, United States | 75 | 1+ yrs exp |
-| date only | [IT Support Analyst, Associate](https://qualcomm.eightfold.ai/careers/job/446722198444) | Qualcomm | San Diego, CA, US (onsite) | 80 | entry-level title |
-| date only | [Software Development Engineer, Creator Marketplace](https://www.amazon.jobs/en/jobs/10609773/software-development-engineer-creator-marketplace) | Audible, Inc. | Culver City, California, USA | 75 | 1+ yrs exp; repost |
-| date only | [Information Security Specialist](https://foxconnqedge.applytojob.com/apply/P2Bi5YhD8S/Information-Security-Specialist) | Foxconn | Houston, TX | 75 | entry level (from the text) |
-| date only | [Data Center Technician Nights Shift](https://www.amazon.jobs/en/jobs/10609846/data-center-technician-nights-shift) | Amazon Data Services, Inc. | Floydada, Texas, USA | 70 | 1+ yrs exp; no future H-1B sponsorship |
-| date only | [Metrology Programmer Technician Trainee](https://careers.zimmerbiomet.com/us/en/job/ZBUZBRUS13554EXTERNALENUS) | Zimmer Biomet Holdings | Warsaw, Indiana, United States | 78 | entry-level title; 1+ yrs exp |
-| date only | [Associate Programmer Analyst - QA/Cloud](https://jobs.nexteraenergy.com/job/Palm-Beach-Gardens-Associate-Programmer-Analyst-QACloud-FL-33410/1452169900/) | NextEra Energy | Palm Beach Gardens, FL, United States | 78 | entry-level title; 0-2 yrs exp |
-| date only | [NSBC - Crane & Mobile Maintenance Technician](https://jobs.nucor.com/job/Huger-NSBC-Crane-&-Mobile-Maintenance-Technician-SC-29450/1452379500/) | Nucor | Huger, SC, United States | 60 | 1+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1382)
 
