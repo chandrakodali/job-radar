@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**346 jobs**, newest first. Updated Thu Nov 26, 11:56 AM CST from 12,535 company job boards and other sources.
+**345 jobs**, newest first. Updated Thu Nov 26, 12:08 PM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 115 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,723 matching jobs that job sites and feeds listed this week, 976 (20%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (43)](#thursday-nov-19-43)
+Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (76)](#friday-nov-20-76) · [Thu 19 (42)](#thursday-nov-19-42)
 
 ## Thursday, Nov 26 (10)
 
@@ -348,7 +346,7 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (43)
+## Thursday, Nov 19 (42)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -394,7 +392,6 @@ Jump to: [Thu 26 (10)](#thursday-nov-26-10) · [Wed 25 (49)](#wednesday-nov-25-4
 | 1:11 PM | [Field Data Collection Specialist](https://job-boards.greenhouse.io/cartesiansystems/jobs/4437394009) | Cartesian Systems | Cambridge, MA | 85 | 1+ yrs exp; entry level (from the text) |
 | 1:03 PM | [Customer Support Specialist I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=599580e5-9519-48a5-9c10-965bfb756ed0&ccId=19000101_000001&jobId=9201236238051_1&lang=en_US) | 599580E5 9519 48A5 9C10 965Bf… | Greenville, SC | 75 | entry-level title |
 | 12:48 PM | [GSD Global Support Tech Generalist, IT Support, English with Spanish …](https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ChurchEmployment/job/379274) | Epej Fa Us2 Oraclecloud Com | Riverton, UT, United States (hybrid) | 85 | 0-2 yrs exp; entry level (from the text); no future H-1B sponsorship;… |
-| 12:07 PM | [Recovery Support Specialist-Full Time Overnight Shifts](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000162578448-recovery-support-specialist-full-time-overnight-shifts) | Northwestern Medicine | DeKalb, IL, United States | 75 | entry level (from the text) |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1363)
 
