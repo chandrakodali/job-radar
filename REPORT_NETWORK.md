@@ -1,12 +1,14 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**94 jobs**, newest first. Updated Thu Nov 26, 2:38 PM CST from 12,580 company job boards and other sources.
+**93 jobs**, newest first. Updated Thu Nov 26, 3:30 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 57 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (4)](#thursday-nov-19-4)
+Coverage check: of 735 matching jobs that job sites and feeds listed this week, 373 (50%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (3)](#thursday-nov-19-3)
 
 ## Wednesday, Nov 25 (7)
 
@@ -123,14 +125,13 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 | 9:40 AM | [Network Tech (Full-time, On-site)](https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/171059) | Community Health Systems | Jackson, MS, United States | 60 | 2+ yrs exp; network work in the text |
 | 2:00 AM | [Network Engineer](https://jobs.lincolnfinancial.com/job/Greensboro-Network-Engineer-NC-27395/1423300500/) | Lincoln Financial | Greensboro, NC, United States | 65 | 4+ yrs exp; E-Verify |
 
-## Thursday, Nov 19 (4)
+## Thursday, Nov 19 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 8:00 PM | [24126 - Network Infrastructure Engineer](https://careers.quality-ai.com/job/Petach-_-Tikva-24126-Network-Infrastructure-Engineer/60891644/) | Qualitest |  | 60 | location unclear |
 | 5:27 PM | [Senior Network Services Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351020) | Oracle | Nashville, TN, United States | 50 | senior title, years not stated |
 | 3:34 PM | [Tier 1/2 Network Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680261) | 26F3B5C7 C503 49F8 9Cb4 B56B2… | Gilber, USA | 70 | 2+ yrs exp |
-| 2:54 PM | [Network Engineer I](https://eewl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11927) | Sundt | Tempe, AZ, United States (hybrid) | 75 | entry-level title; 3+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (241)
 
