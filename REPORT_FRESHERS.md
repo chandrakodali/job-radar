@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**247 jobs**, newest first. Updated Fri Nov 27, 4:11 PM CST from 12,580 company job boards and other sources.
+**247 jobs**, newest first. Updated Fri Nov 27, 4:50 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 77 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 5,084 matching jobs that job sites and feeds listed this week, 905 (17%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (15)](#thursday-nov-26-15) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (25)](#saturday-nov-21-25) · [Fri 20 (9)](#friday-nov-20-9)
 
@@ -295,13 +297,15 @@ Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (15)](#thursday-nov-26-15) ·
 | 5:28 PM | [Administrative Support Team Associate, Herald Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826853) | Macy's | New York, NY, United States | 85 | entry-level title; 1+ yrs exp |
 | 5:28 PM | [Seasonal Fulfillment and Receiving Support Associate, Arbor Place](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826820) | Macy's | Douglasville, GA, United States | 75 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (914)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (917)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 9:37 PM | [ETL Developer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6a23fca3-7b64-4140-a007-d213cba67288&ccId=19000101_000001&jobId=9201320208261_1&lang=en_US) | 6A23Fca3 7B64 4140 A007 D213C… | Chicago, IL | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 7:51 PM | [Network Planning Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=13506473-8528-417a-b040-407867621d8b&ccId=19000101_000001&jobId=9205883298400_1&lang=en_US) | 13506473 8528 417A B040 40786… | Dahlgren, VA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 4:35 PM | [SAP ABAP Developer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69550) | Ford Motor Company | Livonia, MI, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 3:02 PM | [Mid-Level Software Engineer (L2-L3)](https://jobs.ashbyhq.com/Clera/bc92529c-ca1b-4fbb-b6c4-4e6ca7a8f540) | Clera | remote | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 2:56 PM | [Software Engineer](https://stripe.com/jobs/search?gh_jid=8421452) | Stripe | South San Francisco, CA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 2:49 PM | [Flight Software Engineer](https://jobs.ashbyhq.com/apex-technology-inc/4cabd6f4-8b6e-48cc-9554-5943c1df04bb) | Apex | Los Angeles; Seattle, WA (onsite) | 50 | rules: 5+ yrs exp; needs: ITAR |
@@ -334,6 +338,7 @@ Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (15)](#thursday-nov-26-15) ·
 | date only | [Cleared Linux Systems Administrator](https://bestgateengineering.applytojob.com/apply/rZYsi4LpHj/Cleared-Linux-Systems-Administrator) | Bestgate Engineering | Annapolis Junction, MD | 45 | rules: 10+ yrs exp; needs: Security Clearance |
 | date only | [Cleared Systems Engineer – AI Requirements](https://bestgateengineering.applytojob.com/apply/d4wYgyZEMh/Cleared-Systems-Engineer-AI-Requirements) | Bestgate Engineering | Annapolis Junction, MD | 45 | rules: 6+ yrs exp; needs: Security Clearance |
 | date only | [Cleared Full-Stack Software Engineer](https://bestgateengineering.applytojob.com/apply/jfsIB0GcI3/Cleared-FullStack-Software-Engineer) | Bestgate Engineering | Columbia, MD | 45 | rules: 14+ yrs exp; needs: Security Clearance |
+| date only | [Data Engineer](https://citi.eightfold.ai/careers/job/859037165487) | Citi | Mississauga, ON, CA (hybrid) | 50 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 10:39 AM | [Software Engineer, Full Stack Atlas](https://stripe.com/jobs/search?gh_jid=8421000) | Stripe | South San Francisco, CA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 9:15 AM | [Front End Developer  Mid](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695433) | 235Fe811 E309 4Cf4 8059 918B1… | USA | 60 | rules: 4+ yrs exp; needs: Secret Clearance |
 | 8:02 AM | [Full Stack Engineer, Reporting & Analytics](https://jobs.ashbyhq.com/Clera/8089a3c4-8a81-4129-8667-d9ee30342b0c) | Clera | Irving (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -698,8 +703,5 @@ Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (15)](#thursday-nov-26-15) ·
 | date only | [Full Stack Software Engineer-Java](https://citi.eightfold.ai/careers/job/859038804301) | Citi | New York, NY, US (hybrid) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Performance Software Engineer](https://jobs.netapp.com/job/Morrisville-Performance-Software-Engineer-NC-27560/1453437500/) | NetApp | Morrisville, NC, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Surgical Applications Specialist-Puerto Rico](https://careers.bauschlomb.com/job/Puerto-Rico-Remote-Surgical-Applications-Specialist-Puerto-Rico/1378384857/) | Bausch Lomb | Puerto Rico - Remote, United States | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
-| date only | [Air System APMSE Support Analyst – MQ-25 Stingray (PMA-268)](https://synecsolu.applytojob.com/apply/UE6gp7I1Qz/Air-System-APMSE-Support-Analyst-MQ25-Stingray-PMA268) | Synectic Solutions | Lexington Park, MD | 60 | rules: 3+ yrs exp; needs: Secret clearance |
-| date only | [Network Deployment Engineer, Amazon Dedicated Cloud (NIDD)](https://www.amazon.jobs/en/jobs/10612860/network-deployment-engineer-amazon-dedicated-cloud-nidd) | Amazon Data Services, Inc. | Broomfield, Colorado, USA | 75 | rules: 1+ yrs exp; needs: security clearance |
-| date only | [Software Development Engineer, ElastiCache](https://www.amazon.jobs/en/jobs/10612878/software-development-engineer-elasticache) | Amazon Web Services, Inc. | Seattle, Washington, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 
 </details>
