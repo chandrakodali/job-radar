@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**295 jobs**, newest first. Updated Fri Nov 27, 6:36 AM CST from 12,580 company job boards and other sources.
+**293 jobs**, newest first. Updated Fri Nov 27, 7:26 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-95 repeat listings (same company and title in another place or on another source) are merged into one row.
+94 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (64)](#friday-nov-20-64)
+Coverage check: of 4,759 matching jobs that job sites and feeds listed this week, 876 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (62)](#friday-nov-20-62)
 
 ## Friday, Nov 27 (2)
 
@@ -274,7 +276,7 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 3:26 AM | [Vendor Stock Support Associate, Bellevue Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826998) | Macy's | Bellevue, WA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chandler Fashio…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826986) | Macy's | Chandler, AZ, United States | 75 | entry-level title |
 
-## Friday, Nov 20 (64)
+## Friday, Nov 20 (62)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -340,10 +342,8 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 9:12 AM | [Associate Automation Engineer](https://jobs.smartrecruiters.com/Keenfinity/744000162754894-associate-automation-engineer) | Keenfinity | Fairport, NY, United States (hybrid) | 90 | entry-level title; 1+ yrs exp |
 | 8:19 AM | [IT Support Associate I](https://jobs.smartrecruiters.com/Expeditors/744000162744330-it-support-associate-i) | Expeditors | Irving, TX, United States | 75 | entry-level title; repost |
 | 7:34 AM | [IT Field Desktop Technician](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116376) | Grant Thornton | Dallas, TX, United States | 75 | 1+ yrs exp |
-| 7:00 AM | [Perioperative Support Specialist 1](https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/693232) | Inova | Alexandria, VA, United States | 75 | entry-level title |
-| 6:42 AM | [AUTOMATION TECHNICIAN - Plant 10](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120638) | Howmet Aerospace | Whitehall, MI, United States (onsite) | 80 | 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1195)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1194)
 
 <details><summary>Show</summary>
 
@@ -352,6 +352,7 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | date only | [Full-Stack Software Engineer](https://apply.workable.com/raydar/j/9FFE64CAED/) | Raydar | Foster City, California, United States … | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Manual Tester](https://careers.capgemini.com/job/New-York%2C-NY-Manual-Tester-NY-10001/1461224333/) | Capgemini | New York, NY, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Software Engineer, Cloud Platforms](https://nvidia.eightfold.ai/careers/job/893397606437) | Nvidia | Yokne'am Illit, North District, IL; Ra'… (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
+| 7:26 AM (seen) | [Business Analyst (Gov't Tech)](https://jobs.jobvite.com/sikichcareers/job/oaf9BfwT) | Sikich | United States | 30 | rules: 8+ yrs exp; needs: Public Trust clearance |
 | 5:51 AM | [Data Migration Readiness Consultant](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/85997) | eClerx | New Jersey, United States | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 5:31 AM | [Data Analyst (R and/or Python) with Public Health Programmatic/Evalua…](https://job-boards.greenhouse.io/dlhcorporation/jobs/5307989007) | Dlhcorporation | Atlanta, Georgia | 75 | rules: 2+ yrs exp; needs: Public Trust clearance |
 | 1:01 AM | [Windows Client Security Specialist - Remote (San Francisco Bay Area)](https://jobs.lever.co/jobgether/1fbd79ea-4ec4-4bd9-a6f3-1f24395eb85a) | Jobgether | San Francisco Bay Area +1 more (remote) | 42 | rules: 10+ yrs exp; asks for 10+ years of experience |
@@ -748,6 +749,5 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | date only | [Solutions Engineer-Hyperscale and AI Infrastructure](https://careers.cisco.com/global/en/job/CISCISGLOBAL2022491EXTERNALENGLOBAL) | Cisco | Richardson, Texas, United States of Ame… | 38 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Georgia SLED Solutions Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2028555EXTERNALENGLOBAL) | Cisco | Atlanta, Georgia, United States of Amer… | 38 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 10:57 AM | [Quality Assurance Specialist](https://job-boards.greenhouse.io/crescolabs/jobs/8960385002) | Crescolabs | Uxbridge, MA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 10:41 AM | [Associate Systems Engineer](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157257) | AutoZone | Memphis, TN, United States | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
 
 </details>
