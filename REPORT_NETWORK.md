@@ -1,10 +1,12 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**25 jobs**, newest first. Updated Fri Nov 27, 1:50 PM CST from 12,580 company job boards and other sources.
+**25 jobs**, newest first. Updated Fri Nov 27, 3:01 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 1 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 791 matching jobs that job sites and feeds listed this week, 407 (51%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (4)](#friday-nov-20-4)
 
@@ -58,7 +60,7 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 | 7:53 PM | [Distributed Systems Engineer - Network Services](https://boards.greenhouse.io/cloudflare/jobs/8401112?gh_jid=8401112) | Cloudflare | Hybrid (hybrid) | 55 | location unclear; no future H-1B sponsorship; priority company; netwo… |
 | 4:08 PM | [IT Network Administrator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681685) | Little Creek Casino Resort | Shelton, WA, United States | 75 | 2+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (55)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (52)
 
 <details><summary>Show</summary>
 
@@ -107,10 +109,7 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 | date only | [Senior Network Engineer, System Verification](https://nvidia.eightfold.ai/careers/job/893395243085) | Nvidia | Santa Clara, CA, US (onsite) | 38 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Network Systems Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029624EXTERNALENGLOBAL) | Cisco | Rancho Cordova, California, United Stat… | 25 | rules: 5+ yrs exp; network work in the text; asks for 5+ years of exp… |
 | 5:05 PM | [Senior Network Engineer - PCLOB](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684078) | 33704Aa8 8475 45E8 B8A8 55E4D… | DC, USA | 45 | rules: 7+ yrs exp; senior title; needs: security clearance |
-| date only | [Network Engineer](https://morristechnology.bamboohr.com/careers/443) | Morristechnology | Springfield, Illinois | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Network Operations Center Engineer](https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107955&lang=en) | Lawrence Berkeley National La… |  | 50 | rules: 5+ yrs exp; likely H-1B cap-exempt (verify); asks for 5+ years… |
-| 11:00 PM | [Senior Network Engineer, Implementation](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/921) | Eci | Dallas, TX, US; NY, US | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
-| 11:00 PM | [Network Engineer](https://careers-steeldynamics.icims.com/jobs/9245/network-engineer/job) | Steel Dynamics | Sinton, TX, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Network Administrator](https://jobs-bylight.icims.com/jobs/12339/network-administrator/job) | By Light Professional IT Serv… | Radford, VA, United States | 45 | rules: 5+ yrs exp; needs: Security Clearance |
 | 11:00 PM | [Senior UNIX System Engineer](https://jobs-bylight.icims.com/jobs/12346/senior-unix-system-engineer/job) | By Light Professional IT Serv… | Radford, VA, United States | 30 | rules: 5+ yrs exp; senior title; network work in the text; needs: Sec… |
 | 11:00 PM | [Senior Cloud Infrastructure Engineer](https://careers-gotyto.icims.com/jobs/2395/senior-cloud-infrastructure-engineer/job) | TALON | Reston, VA, United States | 30 | rules: 7+ yrs exp; senior title; network work in the text; needs: Sec… |
