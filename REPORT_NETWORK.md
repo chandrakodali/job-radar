@@ -1,12 +1,14 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**91 jobs**, newest first. Updated Thu Nov 26, 7:38 PM CST from 12,580 company job boards and other sources.
+**90 jobs**, newest first. Updated Thu Nov 26, 8:26 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 52 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69) · [Thu 19 (1)](#thursday-nov-19-1)
+Coverage check: of 745 matching jobs that job sites and feeds listed this week, 379 (50%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (69)](#friday-nov-20-69)
 
 ## Wednesday, Nov 25 (7)
 
@@ -122,12 +124,6 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 | 9:59 AM | [Network Administrator](https://jobs.lever.co/sunsrce/2f48fb20-acd4-42d7-aa93-07b7e0b0b798) | SunSource | 2301 Windsor Ct. Addison, IL 60101 (onsite) | 70 | 3+ yrs exp; E-Verify |
 | 9:40 AM | [Network Tech (Full-time, On-site)](https://fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/171059) | Community Health Systems | Jackson, MS, United States | 60 | 2+ yrs exp; network work in the text |
 | 2:00 AM | [Network Engineer](https://jobs.lincolnfinancial.com/job/Greensboro-Network-Engineer-NC-27395/1423300500/) | Lincoln Financial | Greensboro, NC, United States | 65 | 4+ yrs exp; E-Verify |
-
-## Thursday, Nov 19 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 8:00 PM | [24126 - Network Infrastructure Engineer](https://careers.quality-ai.com/job/Petach-_-Tikva-24126-Network-Infrastructure-Engineer/60891644/) | Qualitest |  | 60 | location unclear |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (241)
 
