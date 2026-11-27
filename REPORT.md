@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**141 jobs**, newest first. Updated Thu Nov 26, 7:07 PM CST from 12,535 company job boards and other sources.
+**141 jobs**, newest first. Updated Thu Nov 26, 7:19 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 161 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,084 matching jobs that job sites and feeds listed this week, 1,989 (64%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (2)](#thursday-nov-19-2)
 
@@ -191,7 +189,7 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 11:00 PM | [Infrastructure Software Engineer, DX](https://careers-americas.icims.com/jobs/27536/infrastructure-software-engineer%2c-dx/job) | Atlassian | Remote (remote) | 62 |  |
 | 8:07 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265312638/Senior-FinOps-Analyst-ID94366) | Agileengine | Boca Raton, United States | 25 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (303)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (302)
 
 <details><summary>Show</summary>
 
@@ -221,9 +219,9 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 12:17 PM | [Configuration Management Specialist](https://jobs.lever.co/erg/99b55df9-3836-4e14-a839-c7211ba69277) | Eastern Research Group | Wallops Island, VA (onsite) | 35 | rules: 5+ yrs exp; needs: security clearance |
 | 12:09 PM | [Senior Supply Reliability Engineer](https://jobs.ashbyhq.com/radiant-industries/dbeb1be8-4703-4c98-8826-3858ffc9caa4) | Radiant | El Segundo, CA (onsite) | 35 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 11:38 AM | [Reliability Engineer](https://jobs.smartrecruiters.com/AveryDennison/744000163740399-reliability-engineer) | Avery Dennison | Peachtree City, GA, United States | 45 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
-| date only | [Senior Forward Deployed Engineer, Sr Forward Deployment Engineering](https://www.amazon.jobs/en/jobs/10609077/senior-forward-deployed-engineer-sr-forward-deployment-engineering) | Amazon Web Services, Inc. | New York, New York, USA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior HPC Support Engineer - Ethernet and AI Infrastructure](https://nvidia.eightfold.ai/careers/job/893396004875) | Nvidia | TN,US +1 more (remote) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Application Security Engineer, US ADC Security](https://www.amazon.jobs/en/jobs/10613623/application-security-engineer-us-adc-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
+| date only | [Senior Forward Deployed Engineer, Sr Forward Deployment Engineering](https://www.amazon.jobs/en/jobs/10609077/senior-forward-deployed-engineer-sr-forward-deployment-engineering) | Amazon Web Services, Inc. | New York, New York, USA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Cloud Network Engineer](https://spacedynamicslaboratory.applytojob.com/apply/EXfmjnIIX6/Senior-Cloud-Network-Engineer) | Space Dynamics Laboratory | Colorado Springs, CO +2 more | 45 | rules: 8+ yrs exp; senior title; needs: security clearance |
 | date only | [Production Engineer Job](https://jobs.arkema.com/job/Courtland-%28Franklin%29-Production-Engineer-Job-VA/1460818933/) | Arkema Global | Courtland (Franklin), VA, United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Senior Storage Platform Engineer](https://nvidia.eightfold.ai/careers/job/893397640607) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
@@ -456,7 +454,6 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 8:32 PM | [Senior Platform Engineer](https://jobs.ashbyhq.com/artafinance/6575896b-cc08-4626-924b-95eabaee5138) | Artafinance | Bay Area (hybrid) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 7:57 PM | [Corporate Network Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5489564008) | Anthropic | Remote-Friendly (Travel Required) / San… (remote) | 27 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 7:15 PM | [Senior Network Engineer I](https://coreweave.com/careers/job?4730965006&board=coreweave&gh_jid=4730965006) | CoreWeave | Livingston, NJ / New York, NY / San Fra… | 50 | rules: entry-level title; 5+ yrs exp; senior title; priority company;… |
-| 6:51 PM | [Systems Administrator](https://job-boards.greenhouse.io/machindustries/jobs/4516093009) | Mach Industries | Huntington Beach, California, United St… | 45 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; needs: ITAR |
 | 6:13 PM | [Senior Windows Systems Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6c0f07f7-5d5e-40a8-8e01-433d1c743d19&ccId=19000101_000001&jobId=9205251477410_5&lang=en_US) | 6C0F07F7 5D5E 40A8 8E01 433D1… | Columbia, MD | 30 | rules: 10+ yrs exp; senior title; needs: TS/SCI Clearance |
 | 6:12 PM | [Senior Systems Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6c0f07f7-5d5e-40a8-8e01-433d1c743d19&ccId=19000101_000001&jobId=9205247717324_1&lang=en_US) | 6C0F07F7 5D5E 40A8 8E01 433D1… | Odenton, MD | 30 | rules: 10+ yrs exp; senior title; needs: TS/SCI clearance |
 | 6:11 PM | [Senior Linux Systems Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6c0f07f7-5d5e-40a8-8e01-433d1c743d19&ccId=19000101_000001&jobId=9205247819060_1&lang=en_US) | 6C0F07F7 5D5E 40A8 8E01 433D1… |  | 30 | rules: 10+ yrs exp; senior title; needs: TS/SCI clearance |
