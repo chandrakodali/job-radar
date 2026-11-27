@@ -1,6 +1,6 @@
 # Wide sweep summary
 
-Updated 2026-11-26.
+Updated 2026-11-27.
 
 Crawls swept: CC-MAIN-2026-39, CC-MAIN-2026-43.
 
@@ -8,41 +8,41 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 
 ## By tier
 
-- 1: 22999
-- 2: 108303
-- 3: 303334
-- 4: 94562
-- 5: 32371
-- 9: 93725
+- 1: 22907
+- 2: 108354
+- 3: 303472
+- 4: 94582
+- 5: 32377
+- 9: 93602
 
 ## By category
 
-- unknown: 93725
-- ats: 44213
+- unknown: 93602
+- ats: 44226
 - blocked: 2798
-- careers_page_unclear: 282105
-- doc: 1299
-- email: 54242
-- external_board: 7289
-- form: 75761
+- careers_page_unclear: 282238
+- doc: 1298
+- email: 54216
+- external_board: 7291
+- form: 75747
 - js_only: 461
-- no_careers_page: 43060
-- no_openings: 21229
-- robots_disallowed: 8339
-- unreachable: 20773
+- no_careers_page: 43065
+- no_openings: 21234
+- robots_disallowed: 8341
+- unreachable: 20777
 
 ## By us
 
-- unknown: 93725
-- non_us: 37167
-- unknown: 291088
-- us: 233314
+- unknown: 93602
+- non_us: 37179
+- unknown: 291159
+- us: 233354
 
 ## By via
 
-- unknown: 93725
-- archive: 43779
-- live: 517790
+- unknown: 93602
+- archive: 43828
+- live: 517864
 
 ## Tier 1 sites
 
@@ -72,7 +72,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - %sitename% (progamblegenius.com)
 - %sitename% (toppercryptopath.com)
 - %sitename% (virtualecholab.com)
-- & Build Your Future (urenergyglobal.com)
 - & College Promise (stanly.edu)
 - & Grow With Us (cureayurvedic.com)
 - & Growth Opportunities (greycrust.com)
@@ -83,7 +82,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - & Opportunities (nirmalacp.org)
 - & Other Opportunities (teachpsych.org)
 - & Recruitment Opportunities (elmex.net)
-- & Technical Education (columbiak12.com)
 - & Technical Education (stmaryk12.net)
 - & Trades Resources (acementorla.org)
 - & volunteer opportunities (reusemn.org)
@@ -111,7 +109,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 10-8 Systems (10-8systems.com)
 - 100 NUMBERY.COM (100numbery.com)
 - 100% Free GST Billing Software For Every Businesses (gogstbill.com)
-- 100xFounder (100xfounder.com)
 - 101 Technologies (101tech.us)
 - 1040 Abroad (1040abroad.com)
 - 105.7 Lite FM (1057litefm.com)
@@ -246,3 +243,6 @@ sweep found 188 of 481 known apply-by-email sites (39.1%)
 - 4Science (4science.com)
 - 4Serv INC (4serv.net)
 - 4Sight Group (4sight.group)
+- 4Team Corporation (4team.biz)
+- 4Trz (4trz.net)
+- 5 Points Realty (5pointsrealty.com)
