@@ -1,14 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**117 jobs**, newest first. Updated Fri Nov 27, 4:07 PM CST from 12,535 company job boards and other sources.
+**116 jobs**, newest first. Updated Fri Nov 27, 4:19 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 112 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,495 matching jobs that job sites and feeds listed this week, 2,273 (65%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Fri 27 (6)](#friday-nov-27-6) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (11)](#friday-nov-20-11)
+Jump to: [Fri 27 (6)](#friday-nov-27-6) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (10)](#friday-nov-20-10)
 
 ## Friday, Nov 27 (6)
 
@@ -151,7 +149,7 @@ Jump to: [Fri 27 (6)](#friday-nov-27-6) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | date only | [AI Platform Developer - MCP & Agentic Infrastructure](https://jobs.adidas-group.com/job/Zaragoza-AI-Platform-Developer-MCP-&-Agentic-Infrastructure-Aragon/1459256433/) | Adidas |  | 43 | 3+ yrs exp; location unclear |
 | 1:28 AM | [Purchasing Operations Analyst, Infrastructure Services](https://jobs.apple.com/en-us/details/200696405/purchasing-operations-analyst-infrastructure-services) | Apple | United States of America | 65 |  |
 
-## Friday, Nov 20 (11)
+## Friday, Nov 20 (10)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -165,9 +163,8 @@ Jump to: [Fri 27 (6)](#friday-nov-27-6) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | 5:40 PM | [Embedded Linux Software Engineer, XFRA](https://jobs.ashbyhq.com/span/188ca2dc-8d38-490e-9496-82d7f9d33f92) | Span | San Francisco | 45 | 4+ yrs exp |
 | 5:27 PM | [Senior Platform Engineer](https://jobs.lever.co/megaport/33d99a13-2ef8-45c3-8d07-8e19e1f78358) | Megaport | United States of America (remote) | 40 | senior title, years not stated |
 | 5:24 PM | [MLOps / DevOps Engineer – AI Infrastructure](https://jobs.ashbyhq.com/creatoriq/5ab10a53-1772-470b-aef6-41bf16574412) | Creatoriq | New York; New Jersey; Los Angeles; San … | 60 | 3+ yrs exp; repost |
-| 4:16 PM | [Senior ML Platform Engineer, Robotics](https://jobs.workable.com/view/aTiV8SXEoKGCbeAyfT8eDt/senior-ml-platform-engineer%2C-robotics-in-san-francisco-at-andromeda-robotics) | Andromeda Robotics | San Francisco, California (onsite) | 60 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (206)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (203)
 
 <details><summary>Show</summary>
 
@@ -360,13 +357,10 @@ Jump to: [Fri 27 (6)](#friday-nov-27-6) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | 7:53 PM | [Distributed Systems Engineer - Network Services](https://boards.greenhouse.io/cloudflare/jobs/8401112?gh_jid=8401112) | Cloudflare | Hybrid (hybrid) | 55 | rules: location unclear; no future H-1B sponsorship; priority company… |
 | 5:05 PM | [Senior Network Engineer - PCLOB](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684078) | 33704Aa8 8475 45E8 B8A8 55E4D… | DC, USA | 30 | rules: 7+ yrs exp; senior title; needs: security clearance |
 | 4:32 PM | [Senior AI Platform Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162830031-senior-ai-platform-engineer) | ServiceNow | West Palm Beach, Florida, United States (hybrid) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 3:54 PM | [MRI System Administrator / Support Specialist](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250584) | Newmark Group | TX, United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [Cisco Secure Access (SSE) Deployment Engineer](https://emergingtech.applytojob.com/apply/7TrbQTj3QH/Cisco-Secure-Access-SSE-Deployment-Engineer) | Emerging Tech | Remote, FL (remote) | 47 | rules: adjacent title, little DevOps/cloud work in the text |
 | date only | [Senior Silicon Reliability Engineer](https://nvidia.eightfold.ai/careers/job/893398849210) | Nvidia | Santa Clara, CA, US (onsite) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Software Engineering Technical Leader, Forward Deployment Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2032564EXTERNALENGLOBAL) | Cisco | San Francisco, California, United State… | 18 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Guidewire PolicyCenter Cloud API & SOLR Search Engineer](https://careers.capgemini.com/job/New-York%2C-NY-Guidewire-PolicyCenter-Cloud-API-&-SOLR-Search-Engineer-NY-10001/1459413233/) | Capgemini | New York, NY, United States | 38 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [US E – GPS – Consulting Services – Sr. AWS Infrastructure/DevOps Engi…](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-AWS-Infrastructure-DevOps-Engineer/376091) | Deloitte US |  | 23 | rules: 6+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
-| 11:00 PM | [Senior Cloud Infrastructure Engineer](https://careers-gotyto.icims.com/jobs/2395/senior-cloud-infrastructure-engineer/job) | TALON | Reston, VA, United States | 45 | rules: 7+ yrs exp; senior title; needs: Secret clearance |
 | date only | [Ground Software (GSW) Avionics & Infrastructure Engineer 2](https://jobs.ulalaunch.com/job/Centennial-Ground-Software-%28GSW%29-Avionics-&-Infrastructure-Engineer-2-CO-80112/1452361800/) | United Launch Alliance | Centennial, CO, United States | 58 | rules: E-Verify; needs: Security Clearance |
 | date only | [CI/CD Pipelines Software Engineer 3](https://jobs.ulalaunch.com/job/Centennial-CICD-Pipelines-Software-Engineer-3-CO-80112/1452363500/) | United Launch Alliance | Centennial, CO, United States | 43 | rules: 4+ yrs exp; senior title; E-Verify; needs: Security Clearance |
 | date only | [Ground Software (GSW) Avionics & Infrastructure Engineer 1](https://jobs.ulalaunch.com/job/Centennial-Ground-Software-%28GSW%29-Avionics-&-Infrastructure-Engineer-1-CO-80112/1452361700/) | United Launch Alliance | Centennial, CO, United States | 73 | rules: entry-level title; E-Verify; needs: Security Clearance |
