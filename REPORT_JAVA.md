@@ -1,10 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**49 jobs**, newest first. Updated Fri Nov 27, 7:01 AM CST from 12,580 company job boards and other sources.
+**49 jobs**, newest first. Updated Fri Nov 27, 7:50 AM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 180 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,582 matching jobs that job sites and feeds listed this week, 2,498 (54%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (10)](#friday-nov-20-10)
 
