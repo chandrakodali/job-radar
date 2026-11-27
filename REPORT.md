@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**140 jobs**, newest first. Updated Thu Nov 26, 10:19 PM CST from 12,580 company job boards and other sources.
+**140 jobs**, newest first. Updated Thu Nov 26, 10:37 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 161 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,184 matching jobs that job sites and feeds listed this week, 2,059 (64%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (1)](#thursday-nov-19-1)
 
@@ -188,7 +190,7 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 |---|---|---|---|---:|---|
 | 11:00 PM | [Infrastructure Software Engineer, DX](https://careers-americas.icims.com/jobs/27536/infrastructure-software-engineer%2c-dx/job) | Atlassian | Remote (remote) | 62 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (296)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (297)
 
 <details><summary>Show</summary>
 
@@ -227,6 +229,8 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | date only | [Senior Systems Software Engineer - Infrastructure](https://nvidia.eightfold.ai/careers/job/893396868355) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
 | date only | [DSX Infrastructure Integration Engineer](https://nvidia.eightfold.ai/careers/job/893398515396) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 12+ yrs exp; asks for 12+ years of experience |
 | date only | [Senior ASIC Front End Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893395276024) | Nvidia | Santa Clara, CA, US; Durham, NC, US; Au… (onsite) | 38 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
+| date only | [Systems Software Engineer - Infrastructure](https://nvidia.eightfold.ai/careers/job/893396868931) | Nvidia | Santa Clara, CA, US (onsite) | 38 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| date only | [Senior Storage Production Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893395627141) | Nvidia | Santa Clara, CA, US; US (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 9:44 AM | [IT Infrastructure Engineer II - 1122](https://jobs.eu.lever.co/quantinuum/d99daf7d-0045-4124-8998-a979e4d2c79d) | Quantinuum | US Broomfield, CO (onsite) | 60 | rules: 3+ yrs exp; needs: must be a U.S. Person |
 | 9:33 AM | [Vehicle Systems Development Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71784) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 9:33 AM | [Vehicle Systems Development Engineer](https://ford.eightfold.ai/careers/job/563568453935737) | Ford | Dearborn, MI, US (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -408,7 +412,6 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 11:15 AM | [Senior Authorization Platform Engineer, Digital Operations](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4516091009) | Betatechnologiesinc | South Burlington, Vermont, United States | 50 | rules: 7+ yrs exp; senior title; E-Verify; asks for 7+ years of exper… |
 | 11:07 AM (seen) | [Windows/Storage Engineer](https://jobs.jobvite.com/actionet/job/on58AfwU) | ActioNet |  | 25 | rules: 3+ yrs exp; location unclear; needs: Top Secret Clearance |
 | 11:07 AM (seen) | [Windows/Storage Engineer](https://jobs.jobvite.com/actionet-review/job/on58AfwU) | Actionet Review |  | 25 | rules: 3+ yrs exp; location unclear; needs: Top Secret Clearance |
-| date only | [Dynatrace Senior Consultant – Site Reliability Engineering](https://arctiq.bamboohr.com/careers/370) | Arctiq | Brentwood, Tennessee, United States | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior DevOps and Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893398806259) | Nvidia | Santa Clara, CA, US (onsite) | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [System Administrator](https://apply.workable.com/aretum/j/1BB152E3C2/) | Aretum | Baltimore, Maryland, United States | 30 | rules: 8+ yrs exp; needs: Public Trust Clearance |
 | date only | [DevOps Engineers](https://arteratechnologies.applytojob.com/apply/9C33Mdrgxl/DevOps-Engineers) | Artera Technologies | Annapolis Junction / Fort Meade, MD | 45 | rules: 8+ yrs exp; needs: Security Clearance |
