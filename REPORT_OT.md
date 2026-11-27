@@ -1,12 +1,12 @@
 # OT Network Engineer jobs in the US: posted in the last 7 days
 
-**10 jobs**, newest first. Updated Fri Nov 27, 8:13 AM CST from 12,580 company job boards and other sources.
+**5 jobs**, newest first. Updated Fri Nov 27, 10:30 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and OT security roles; controls, automation or network titles only when the job is about networks in an OT/industrial setting). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
-1 repeat listings (same company and title in another place or on another source) are merged into one row.
+Coverage check: of 1,078 matching jobs that job sites and feeds listed this week, 418 (38%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Fri 20 (6)](#friday-nov-20-6)
+Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Fri 20 (1)](#friday-nov-20-1)
 
 ## Tuesday, Nov 24 (4)
 
@@ -17,18 +17,13 @@ Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Fri 20 (6)](#friday-nov-20-6)
 | 10:31 AM (seen) | [SCADA Engineer (Ignition Exp Required)](https://ats.rippling.com/divcon-controls/jobs/c2cec271-3501-48f4-a818-d04074133e2b) | Divcon Controls | Remote (United States) (remote) | 47 |  |
 | 7:35 AM | [Cybersecurity Operations  Senior OT CSOC Analyst](https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/1000498) | Consolidated Edison | New York, NY, United States | 75 | 2+ yrs exp; senior title |
 
-## Friday, Nov 20 (6)
+## Friday, Nov 20 (1)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Industrial Control Systems Engineer](https://jobs.exxonmobil.com/ExxonMobil/job/Baytown-Industrial-Control-Systems-Engineer-TX-77520/1452718100/) | ExxonMobil | Baytown, TX, United States | 75 | 2+ yrs exp |
-| 10:01 AM (seen) | [Direct Hire SCADA Engineer Work from Home](https://jatcainc.catsone.com/careers/1408-General/jobs/15207308-Direct-Hire-SCADA-Engineer-Work-from-Home/) | Jatcainc |  | 55 | 2+ yrs exp; location unclear |
-| 10:01 AM (seen) | [Senior OT Infrastructure Analyst Permanent](https://westworksgroupinc.catsone.com/careers/60141-West-Works-Group-Inc/jobs/16529718-Senior-OT-Infrastructure-Analyst--Permanent/) | Westworksgroupinc |  | 35 | senior title, years not stated; location unclear |
-| 10:01 AM (seen) | [Operations Technology OT Support Specialist](https://westworksgroupinc.catsone.com/careers/60141-West-Works-Group-Inc/jobs/14457009-Operations-Technology-OT-Support-Specialist/) | Westworksgroupinc |  | 45 | location unclear |
-| 10:01 AM (seen) | [OT Field Engineer II](https://ats.rippling.com/radian-generation/jobs/26fe4cbe-9045-4fc9-92b3-c402450d7c73) | Radian Generation | Charlotte, NC (onsite) | 50 |  |
-| 10:01 AM (seen) | [Field SCADA Engineer - Ignition Exp Required](https://ats.rippling.com/divcon-controls/jobs/e28d81ce-3344-432d-a456-d53c8d2864de) | Divcon Controls | Remote (United States) (remote) | 47 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (26)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (12)
 
 <details><summary>Show</summary>
 
@@ -43,22 +38,8 @@ Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Fri 20 (6)](#friday-nov-20-6)
 | 9:16 AM | [Senior Security Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349844) | Oracle | Reston, VA, United States; Austin, TX, … | 25 | rules: 8+ yrs exp; senior title; OT network work in the text; needs: … |
 | 12:35 PM | [Distributed Control Systems Engineer-*Relocation Package Available*](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161650) | Honeywell | Long Beach, CA, United States (onsite) | 35 | rules: 6+ yrs exp; OT network work in the text; needs: must be a U.S.… |
 | date only | [Industrial Control Systems Specialist](https://jobs.exxonmobil.com/ExxonMobil/job/Baytown-Industrial-Control-Systems-Specialist-TX-77520/1452721200/) | ExxonMobil | Baytown, TX, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 2:00 AM | [OT Cyber Analyst](https://careers.hfsinclair.com/job/Dallas-OT-Cyber-Analyst-TX-75219/1423280000/) | HF Sinclair | Dallas, TX, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Senior SCADA & Automation Engineer 1 - Grid](https://careers-sargentlundy.icims.com/jobs/30238/senior-scada-%26-automation-engineer-1---grid/job) | Sargent & Lundy | Englewood, CO, United States | 50 | rules: entry-level title; 5+ yrs exp; senior title; no future H-1B sp… |
-| 6:22 PM | [Senior Industrial Security Analyst](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5490199008) | K2 Space | Los Angeles, CA | 45 | rules: 10+ yrs exp; senior title; needs: Security Clearance |
-| 11:05 AM | [Security Engineer, Operational Technology- Remote (Anywhere in the U.…](https://boards.greenhouse.io/guidepointsecurity/jobs/6266326004?gh_jid=6266326004) | GuidePoint Security | Remote (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 12:00 AM | [OT Infrastructure Engineer - Southeast](https://jobs.dayforcehcm.com/en-US/inframark/CANDIDATEPORTAL/jobs/13492) | Inframark | North Charleston, SC, US; Norcross, GA,… | 38 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:01 PM | [Controls Engineer III](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6e5e668b-df4e-4982-ad00-158f7895f112&ccId=9201700435142_2&jobId=9207821749098_51&lang=en_US) | 6E5E668B Df4E 4982 Ad00 158F7… | Bayou La Batre, AL | 23 | rules: 5+ yrs exp; senior title; OT network work in the text; needs: … |
-| 4:47 PM | [Senior Infrastructure Security Engineer (Cloud & On-Prem)](https://job-boards.greenhouse.io/valaratomics/jobs/4510605009) | Valaratomics | Torrance, California, United States | 23 | rules: 7+ yrs exp; senior title; OT network work in the text; needs: … |
 | date only | [Software Engineer - Level 3 - Operational Technology](https://careers.cintas.com/job/Mason-Software-Engineer-Level-3-Operational-Technology-OH-45040/1451739900/) | Cintas | Mason, OH, United States | 33 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
-| 11:54 AM | [Industrial Security Specialist III](https://careers.akima.com/jobs/28052?lang=en-us) | Akima | Rosslyn, Virginia | 38 | rules: 5+ yrs exp; senior title; needs: security clearance |
-| 7:20 PM | [Industrial Security Specialist](https://jobs.ashbyhq.com/hadrian-automation/66993080-87be-4608-82e5-780d3757358c) | Hadrian | Los Angeles, CA (onsite) | 53 | rules: 4+ yrs exp; needs: security clearance |
-| date only | [Advisor III, OT Cyber Security](https://careers.phillips66.com/job/Bartlesville-Advisor-III%2C-OT-Cyber-Security-OK-74004/1451102300/) | Phillips 66 | Bartlesville, OK, United States | 43 | rules: 3+ yrs exp; senior title; no future H-1B sponsorship; needs: m… |
-| 12:03 PM | [ICS Network/Security Engineer](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45413) | NOV | Houston, TX, United States (hybrid) | 38 | rules: 5+ yrs exp; needs: security clearance |
-| 11:35 AM | [OT Network Engineer 1/2/3/Sr](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005943) | Berkshire Hathaway Energy | Omaha, NE, United States (onsite) | 48 | rules: entry-level title; 6+ yrs exp; senior title; asks for 6+ years… |
-| date only | [Network Engineer, Expert](https://careers.chsinc.com/job/Inver-Grove-Heights-Network-Engineer%2C-Expert-MN-55077-1721/1450744600/) | CHS | Inver Grove Heights, MN, United States | 15 | rules: 7+ yrs exp; OT network work in the text; asks for 7+ years of … |
-| 11:00 PM | [Critical Infrastructure / SCADA Field Technician](https://careers-americansystems.icims.com/jobs/5195/critical-infrastructure---scada-field-technician/job) | AMERICAN SYSTEMS | McLean, VA, United States (remote) | 27 | rules: 8+ yrs exp; needs: TOP SECRET  clearance |
-| 2:00 AM | [Ovation System Administrator](https://careers.westinghousenuclear.com/job/Cranberry-Township-Ovation-System-Administrator-NC/1440261600/) | Westinghouse Electric Company | Cranberry Township, United States | 15 | rules: 5+ yrs exp; OT network work in the text; asks for 5+ years of … |
-| 8:01 PM | [OT Development and Support Engineer](https://jobs.lear.com/job/Southfield-OT-Development-and-Support-Engineer-MI-48033/1446747233/) | Lear | Southfield, MI, United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
