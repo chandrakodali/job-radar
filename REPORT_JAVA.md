@@ -1,12 +1,14 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**50 jobs**, newest first. Updated Fri Nov 27, 6:01 AM CST from 12,580 company job boards and other sources.
+**49 jobs**, newest first. Updated Fri Nov 27, 6:49 AM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 180 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (10)](#friday-nov-20-10)
+Coverage check: of 4,533 matching jobs that job sites and feeds listed this week, 2,471 (54%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (10)](#friday-nov-20-10)
 
 ## Friday, Nov 27 (1)
 
@@ -34,11 +36,10 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (1)](#thursday-nov-26-1) · [
 | date only | [Software Development Engineer II](https://careers.cargurus.com/us/en/job/CABCARUS8417873EXTERNALENUS) | CarGurus | Boston, Massachusetts, United States | 55 | 2+ yrs exp; requires Java |
 | date only | [Full Stack Developer](https://citi.eightfold.ai/careers/job/859039175584) | Citi | Irving, TX, US (hybrid) | 43 | 4+ yrs exp; requires Java |
 
-## Tuesday, Nov 24 (11)
+## Tuesday, Nov 24 (10)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
-| 8:39 PM | [Senior Java Engineer](https://jobs.ashbyhq.com/patrianna/91f139d4-afd5-43f2-b45a-f340b1c69051) | Patrianna | Ukraine; Georgia; Bulgaria; Romania (remote) | 52 | senior title, years not stated |
 | 4:56 PM | [Associate Software Engineer - 2027 Start Dates](https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f) | Veeva Systems | North Carolina - Raleigh (onsite) | 55 | entry-level title; 4+ yrs exp; no future H-1B sponsorship; requires J… |
 | 2:55 PM | [Senior Software Engineer, Platform](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/351337) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States | 40 | 4+ yrs exp; senior title; requires Java |
 | 2:55 PM | [Senior Software Engineer, Core Infrastructure](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/351338) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States | 40 | 4+ yrs exp; senior title; requires Java |
