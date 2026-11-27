@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**136 jobs**, newest first. Updated Fri Nov 27, 9:49 AM CST from 12,580 company job boards and other sources.
+**135 jobs**, newest first. Updated Fri Nov 27, 10:07 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-155 repeat listings (same company and title in another place or on another source) are merged into one row.
+152 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (37)](#friday-nov-20-37)
+Coverage check: of 3,372 matching jobs that job sites and feeds listed this week, 2,197 (65%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (36)](#friday-nov-20-36)
 
 ## Friday, Nov 27 (1)
 
@@ -142,7 +144,7 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (8)](#thursday-nov-26-8) · [
 | date only | [AI Platform Developer - MCP & Agentic Infrastructure](https://jobs.adidas-group.com/job/Zaragoza-AI-Platform-Developer-MCP-&-Agentic-Infrastructure-Aragon/1459256433/) | Adidas |  | 43 | 3+ yrs exp; location unclear |
 | 1:28 AM | [Purchasing Operations Analyst, Infrastructure Services](https://jobs.apple.com/en-us/details/200696405/purchasing-operations-analyst-infrastructure-services) | Apple | United States of America | 65 |  |
 
-## Friday, Nov 20 (37)
+## Friday, Nov 20 (36)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -168,9 +170,9 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (8)](#thursday-nov-26-8) · [
 | 12:05 PM | [Platform Infrastructure Engineer II](https://job-boards.greenhouse.io/braze/jobs/8399184) | Braze | New York City | 55 | 4+ yrs exp |
 | 11:14 AM | [Sr. Linux DevOps Engineer](https://jobs.workable.com/view/bxyTEFnpsYyHqVKuwAof1N/sr.-linux-devops-engineer-in-austin-at-samsung-sds-america) | Samsung SDS America | Austin, Texas (onsite) | 60 | senior title, years not stated |
 | 11:11 AM | [AI Engineer - Agent Infrastructure & AI Workflow](https://job-boards.greenhouse.io/tribalscale/jobs/4731215006) | TribalScale | Remote USA (remote) | 62 |  |
-| 11:07 AM (seen) | [Application Consultant-Site Reliability](https://careers.ibm.com/careers/JobDetail?jobId=144351) | IBM | Brookhaven, United States +2 more (hybrid) | 50 |  |
-| 11:07 AM (seen) | [Application Developer-DevOps](https://careers.ibm.com/careers/JobDetail?jobId=144294) | IBM | Tempe, United States +3 more (hybrid) | 50 | repost |
 | 11:07 AM (seen) | [Application Consultant-DevOps](https://careers.ibm.com/careers/JobDetail?jobId=143815) | IBM | DURHAM, United States +4 more (hybrid) | 50 |  |
+| 11:07 AM (seen) | [Application Developer-DevOps](https://careers.ibm.com/careers/JobDetail?jobId=144294) | IBM | Tempe, United States +3 more (hybrid) | 50 | repost |
+| 11:07 AM (seen) | [Application Consultant-Site Reliability](https://careers.ibm.com/careers/JobDetail?jobId=144351) | IBM | Brookhaven, United States +1 more (hybrid) | 50 |  |
 | 11:07 AM (seen) | [Infrastructure Specialist-Cloud Application Operations](https://careers.ibm.com/careers/JobDetail?jobId=143821) | IBM | Irving, United States +2 more (hybrid) | 50 |  |
 | 11:07 AM (seen) | [Infrastructure Specialist-System Administration](https://careers.ibm.com/careers/JobDetail?jobId=143982) | IBM | Bloomington, United States (hybrid) | 50 |  |
 | 11:04 AM | [AI Infrastructure Operations Engineer](https://job-boards.greenhouse.io/privatehealthmanagement/jobs/5418353008) | Privatehealthmanagement | Remote (remote) | 62 |  |
@@ -182,9 +184,8 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (8)](#thursday-nov-26-8) · [
 | 10:59 AM | [Senior Cloud Security Engineer](https://job-boards.greenhouse.io/tenstorrent/jobs/5301370007) | Tenstorrent | Santa Clara, California, United States;… | 55 | senior title, years not stated |
 | 10:56 AM | [Senior Infrastructure Security Engineer](https://boards.greenhouse.io/chime/jobs/8950917002?gh_jid=8950917002) | Chime | Chicago, IL, USA; New York, NY, USA; Sa… | 55 | senior title, years not stated |
 | 10:55 AM | [IT Systems Administrator, Field Intelligence](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/IT-Systems-Administrator--Field-Intelligence_JR102790) | Brookhaven Lab | Upton, NY | 50 |  |
-| 10:07 AM (seen) | [Infrastructure Specialist-AWS DevOps](https://careers.ibm.com/careers/JobDetail?jobId=143901) | IBM | TUCSON, United States (hybrid) | 50 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (279)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (275)
 
 <details><summary>Show</summary>
 
@@ -371,7 +372,6 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (8)](#thursday-nov-26-8) · [
 | 5:05 PM | [Senior Network Engineer - PCLOB](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684078) | 33704Aa8 8475 45E8 B8A8 55E4D… | DC, USA | 30 | rules: 7+ yrs exp; senior title; needs: security clearance |
 | 4:41 PM | [System Administrator](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=13506473-8528-417a-b040-407867621d8b&ccId=19000101_000001&jobId=9204563701014_1&lang=en_US) | 13506473 8528 417A B040 40786… | Atlanta, GA | 30 | rules: 5+ yrs exp; needs: TS/SCI clearance |
 | 4:32 PM | [Senior AI Platform Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162830031-senior-ai-platform-engineer) | ServiceNow | West Palm Beach, Florida, United States (hybrid) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 4:08 PM | [IT Network Administrator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681685) | Little Creek Casino Resort | Shelton, WA, United States | 60 | rules: 2+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | 3:54 PM | [MRI System Administrator / Support Specialist](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/250584) | Newmark Group | TX, United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 3:21 PM | [Senior Software Engineer, Core Infrastructure](https://jobs.ashbyhq.com/ScribdInc/22c1d410-2522-4e48-8a49-e1623dcae46f) | ScribdInc | San Francisco; Ottawa; Charlotte; Phoen… (remote) | 42 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 3:14 PM | [Sr. Application Security Engineer](https://jobs.lever.co/prosper/b907c840-14c0-4d84-9649-4417b3e323ed) | Prosper Funding | United States (remote) | 42 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
@@ -421,9 +421,6 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (8)](#thursday-nov-26-8) · [
 | date only | [US E – GPS – Consulting Services – Sr. AWS Infrastructure/DevOps Engi…](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-AWS-Infrastructure-DevOps-Engineer/376091) | Deloitte US |  | 23 | rules: 6+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
 | 10:25 AM | [Senior Network Engineer](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022806) | ADT | Irving, TX, United States | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 10:08 AM | [Senior Network Engineer](https://careers.akima.com/jobs/28917?lang=en-us) | Akima | Huntsville, Alabama | 45 | rules: 4+ yrs exp; senior title; needs: security clearance |
-| 10:07 AM (seen) | [Service Engineer (DevSecOps) I](https://cloudfitsoftware.applytojob.com/apply/hcfMPAEITQ/Service-Engineer-DevSecOps-I) | CloudFit Software | Lynchburg, VA | 65 | rules: 0-2 yrs exp; E-Verify; needs: security clearance |
-| 9:59 AM | [Network Administrator](https://jobs.lever.co/sunsrce/2f48fb20-acd4-42d7-aa93-07b7e0b0b798) | SunSource | 2301 Windsor Ct. Addison, IL 60101 (onsite) | 55 | rules: 3+ yrs exp; E-Verify; adjacent title, little DevOps/cloud work… |
-| 9:40 AM | [Cloud Adoption Engineer - Security and ATO Process](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350673) | Oracle | Reston, VA, United States; Washington, … | 40 | rules: 8+ yrs exp; needs: U.S. citizenship is required |
 | 11:00 PM | [Cloud Engineer](https://careers-steampunk.icims.com/jobs/9079/cloud-engineer/job) | Steampunk | McLean, VA, United States | 50 | rules: 5+ yrs exp; E-Verify; needs: Security Clearance |
 | 11:00 PM | [Network Engineer](https://careers-steeldynamics.icims.com/jobs/9245/network-engineer/job) | Steel Dynamics | Sinton, TX, United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Senior Network Engineer, Implementation](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/921) | Eci | Dallas, TX, US; NY, US | 30 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
