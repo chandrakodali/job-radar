@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**304 jobs**, newest first. Updated Fri Nov 27, 3:20 AM CST from 12,580 company job boards and other sources.
+**299 jobs**, newest first. Updated Fri Nov 27, 4:26 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-95 repeat listings (same company and title in another place or on another source) are merged into one row.
+96 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (73)](#friday-nov-20-73)
+Coverage check: of 4,649 matching jobs that job sites and feeds listed this week, 866 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (68)](#friday-nov-20-68)
 
 ## Friday, Nov 27 (2)
 
@@ -274,7 +276,7 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 3:26 AM | [Vendor Stock Support Associate, Bellevue Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826998) | Macy's | Bellevue, WA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chandler Fashio…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826986) | Macy's | Chandler, AZ, United States | 75 | entry-level title |
 
-## Friday, Nov 20 (73)
+## Friday, Nov 20 (68)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -346,13 +348,8 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 5:34 AM | [Computer Service Technician (Part-Time)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016990436-computer-service-technician-part-time-) | Cityofnewyork | New York City, NY, United States | 75 | entry level (from the text) |
 | 5:12 AM | [Assistant Cloud Administrator for the Division of HPD TECH](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016989966-assistant-cloud-administrator-for-the-division-of-hpd-tech) | Cityofnewyork | New York City, NY, United States | 85 | 1+ yrs exp; entry level (from the text) |
 | 4:32 AM | [2027 Graduate Programme - Property & Buildings Structures](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95813) | WSP | London, United Kingdom; Stockton-On-Tee… | 75 | entry-level title |
-| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, St Louis Galler…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826788) | Macy's | Saint Louis, MO, United States | 75 | entry-level title |
-| 3:27 AM | [Administrative Support Team Associate, Stanford - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826742) | Macy's | Palo Alto, CA, United States | 85 | entry-level title; 1+ yrs exp |
-| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, South Coast Pla…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826737) | Macy's | Costa Mesa, CA, United States | 75 | entry-level title |
-| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Empire](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826708) | Macy's | Sioux Falls, SD, United States | 75 | entry-level title |
-| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Fresno Fashion …](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826705) | Macy's | Fresno, CA, United States | 75 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1205)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1203)
 
 <details><summary>Show</summary>
 
