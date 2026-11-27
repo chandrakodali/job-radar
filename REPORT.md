@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**139 jobs**, newest first. Updated Fri Nov 27, 2:49 AM CST from 12,580 company job boards and other sources.
+**139 jobs**, newest first. Updated Fri Nov 27, 3:07 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 161 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,251 matching jobs that job sites and feeds listed this week, 2,108 (64%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (41)](#friday-nov-20-41)
 
@@ -400,7 +402,7 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 11:47 AM | [Network Administrator](https://job-boards.greenhouse.io/aegworldwide/jobs/8948571002) | AEG | Nashville, TN | 55 | rules: 2+ yrs exp; no future H-1B sponsorship; adjacent title, little… |
 | 11:47 AM | [Business Systems Administrator](https://jobs.smartrecruiters.com/AIRCommunities/744000162791959-business-systems-administrator) | AIRCommunities | Denver, CO, United States | 45 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | 11:36 AM | [Site Reliability Engineer](https://job-boards.greenhouse.io/oddball/jobs/8210795003) | Oddball | Remote (remote) | 62 | rules: needs: security clearance |
-| 11:24 AM | [Platform Engineer (Kubernetes)](https://jobs.ashbyhq.com/Clera/f6fb829e-bdcd-4a37-922d-7f8834db3db0) | Clera | San Francisco +1 more (onsite) | 55 | rules: 5+ yrs exp; sponsors visas; asks for 5+ years of experience |
+| 11:24 AM | [Platform Engineer (Kubernetes)](https://jobs.ashbyhq.com/Clera/f6fb829e-bdcd-4a37-922d-7f8834db3db0) | Clera | San Francisco (onsite) | 55 | rules: 5+ yrs exp; sponsors visas; asks for 5+ years of experience |
 | 11:22 AM | [Spring 2027 Start - Undergrad Software Engineer - Oracle Cloud Infras…](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350824) | Oracle | Nashville, TN, United States | 40 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:19 AM | [Founding Infrastructure Engineer](https://jobs.ashbyhq.com/Clera/50c3c9d2-4ca5-4c5e-97bd-230df5f30301) | Clera | San Francisco (onsite) | 55 | rules: 9+ yrs exp; sponsors visas; asks for 9+ years of experience |
 | 11:15 AM | [Senior Authorization Platform Engineer, Digital Operations](https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4516091009) | Betatechnologiesinc | South Burlington, Vermont, United States | 50 | rules: 7+ yrs exp; senior title; E-Verify; asks for 7+ years of exper… |
