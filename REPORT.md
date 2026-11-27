@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**138 jobs**, newest first. Updated Fri Nov 27, 1:19 AM CST from 12,580 company job boards and other sources.
+**139 jobs**, newest first. Updated Fri Nov 27, 1:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 161 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (41)](#friday-nov-20-41)
+Coverage check: of 3,242 matching jobs that job sites and feeds listed this week, 2,100 (64%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (41)](#friday-nov-20-41)
 
 ## Thursday, Nov 26 (8)
 
@@ -43,7 +45,7 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 9:32 AM | [Network Engineer](https://boards.greenhouse.io/cloudflare/jobs/8407666?gh_jid=8407666) | Cloudflare | Hybrid (hybrid) | 60 | no future H-1B sponsorship; priority company |
 | 8:49 AM | [Virtualization Engineer](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5197459007) | ALTEN Technology | Cambridge, Massachusetts, United States | 50 |  |
 
-## Tuesday, Nov 24 (33)
+## Tuesday, Nov 24 (34)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -79,6 +81,7 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 4:43 AM | [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/rerun/36652f33-61d1-48f6-861c-21c274abc0d2) | Rerun | East Coast, US; Remote Europe; Eastern … (remote) | 62 |  |
 | 2:37 AM (seen) | [Embedded Linux Engineer (C/C++ & Device Drivers)](https://ats.rippling.com/cintal/jobs/b0852677-39a0-4250-a147-db0ef2c9f0c5) | Cintal | Chillicothe, IL (onsite) | 40 |  |
 | 1:18 AM | [Senior GCP Platform Engineer – FedRAMP / High-Security Environments](https://jobs.lever.co/jobgether/caa9ffeb-4bed-4523-ae80-328dc6debac3) | Jobgether | US (remote) | 52 | senior title, years not stated |
+| 12:12 AM | [Senior Devops Engineer](https://www.ycombinator.com/companies/storylane/jobs/2jBUKjt-senior-devops-engineer) | Storylane | Remote (US) (remote) | 45 | 4+ yrs exp; senior title |
 | 12:00 AM | [Middleware Engineer – DevOps / OpenShift](https://jobs.dayforcehcm.com/en-US/asrcfh/CANDIDATEPORTAL/jobs/32102) | Asrcfh | Arlington, VA, US | 65 |  |
 
 ## Monday, Nov 23 (32)
