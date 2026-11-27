@@ -20,24 +20,16 @@ Glassdoor rating
 4.9
 Our team loves working here! 86% of Octonauts recommend Octopus Deploy as a great place to work.
 86%
-Game-night high scores
-At one of our offices
-Work from where you do your best work
-Passionate about what we do
-Writing mode at Octopus
-Team building
-Octopus acquires Codefresh
-World famous swag
-Doing a small number of things at high quality,
-over trying to do everything or arbitrary deadlines.
-Doing the right thing by our customers and team,
-over short-term gain.
-Listening to our customers,
-over following market trends.
-Helping each other,
-over being efficient individual contributors.
-A bias for action,
-over risk aversion or the pursuit of the perfect plan.
+Helping each other
+Over being efficient individual contributors
+A bias for action
+Over risk aversion or the pursuit of the perfect plan
+Listening to our customers
+Over following market trends
+Doing the right thing
+Over short-term gain
+Doing a small number of things at high quality
+Over trying to do everything or arbitrary deadlines
 You'll thank us later
 Plan for your future with our comprehensive retirement or pension plans.
 Read more

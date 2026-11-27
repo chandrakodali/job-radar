@@ -1,17 +1,15 @@
-Free Tier: AWS & GCP LaserData Cloud Free Tier on AWS & GCP LaserData Cloud Free Tier on AWS & GCP. No credit card required. Start free
 We're hiring
-Build the future of
-Real-Time Data
+Build the future of Real-Time Data
+Send an open application [email protected]
 LaserData is a lean, fully distributed team obsessed with microseconds. We write Rust, build agentic infrastructure, and care deeply about craft. If you think in nanoseconds and ship in weeks, you belong here.
-See open roles [email protected]
-Open-source
 Core DNA
-100%
+Open-source
 Remote
-Rust
+100%
 Core language
-Lean
+Rust
 Own end-to-end
+Lean
 Culture
 Engineered for the obsessed
 We don't have a ping-pong table. We have a culture built around systems thinking, deep ownership, and making every microsecond count.
@@ -27,16 +25,13 @@ Lean and Focused
 Small team, outsized impact. No sprawling org charts, no meeting culture, no ceremony. You own your surface end-to-end from design to production to post-mortem.
 Engineering Driven
 Technical decisions are made by the people closest to the code. We trust engineers to own product direction in their domain. The best argument wins, not the loudest voice.
-Async-first
 Documentation-driven remote culture
-Own it
+Async-first
 Design → ship → on-call → learn
-No fluff
+Own it
 Best argument wins, not loudest voice
-Open roles
-Build With Us
-We hire slowly and deliberately. Every person here has a broad mandate and real ownership. These are not coordinators; they are builders.
+No fluff
 Open Application
 Tell us the story of your systems obsession
-Don't see a role that fits? If you are passionate about performance, infrastructure, and building things that matter at nanosecond scale, we want to hear from you. Write to us. Tell us what keeps you up at night and what you would build here.
+We are not listing specific roles right now, but we are always glad to meet exceptional engineers. If you are passionate about performance, infrastructure, and building things that matter at nanosecond scale, we want to hear from you. Write to us. Tell us what keeps you up at night and what you would build here.
 Send your story Meet the team

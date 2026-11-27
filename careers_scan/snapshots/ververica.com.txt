@@ -104,8 +104,8 @@ A few early mornings each week overlap with our EMEA team for handovers and esca
 Occasional travel to customer sites and events, within North and South America.
 Technical Support Engineer (m/f/d) - United States | Remote
 Technical Account Manager (m/f/d) - United States | Remote
-Senior Software Engineer (m/f/d) - Germany | Remote
-Published on: 2026-10-07 | Permanent
+Senior Software Engineer (m/f/d) - Netherlands | Remote
+Published on: 2026-11-27 | Permanent
 Description
 We are looking for motivated Software Engineers to join our dynamic development teams. In this role, you will report to the Head of Engineering, collaborate within a flat organizational structure, and contribute to cutting-edge data-intensive solutions.
 At Ververica, you will engage with one of the largest and most vibrant open-source communities while building solutions that have a global impact. You will connect with users worldwide and play a key role in addressing long-standing technical challenges using innovative approaches.
@@ -123,10 +123,10 @@ As a Software Engineer at Ververica, you will:
 What We’re Looking For
 You’ll thrive in this role if you:
 - Have several years of industry or academic experience in software engineering.
-- Possess deep expertise in Java and JVM mechanics.
-- Are well-versed in distributed systems and database systems.
+- Possess deep expertise in Java and JVM mechanics .
+- Are well-versed in distributed systems and database systems .
 - Have experience building data-intensive applications or solutions.
-- Demonstrate strong programming skills, with a solid grasp of data structures and algorithms.
+- Demonstrate strong programming skills, with a solid grasp of data structures and algorithms .
 - Exhibit excellent software engineering practices:
 Writing clean, testable, and maintainable code.
 Creating thorough documentation.
@@ -135,7 +135,7 @@ Apply AI-assisted engineering with judgment, holding generated code to the same 
 - Designing simple and robust APIs.
 - Are skilled in debugging and resolving issues in distributed systems.
 - Have experience mentoring other developers through collaboration.
-- Are passionate about open-source projects, engaging with users, and exploring new opportunities.
+- Are passionate about open-source projects , engaging with users, and exploring new opportunities.
 Why Join Ververica?
 At Ververica, you’ll be part of a collaborative and innovative team at the forefront of real-time data processing technology. We offer:
 - A creative and inclusive work environment that values diversity.
@@ -144,37 +144,58 @@ At Ververica, you’ll be part of a collaborative and innovative team at the for
 - Engagement with one of the most active open-source communities.
 - Support for professional growth and open-source contributions.
 If you’re excited about working on streaming data , software development , and open-source technology , we want to hear from you! Your unique skills and experiences can help us drive innovation and achieve our goals.
-Senior Sales Engineer (m/f/d) - United States | Remote
-Published on: 2026-10-06 | Permanent
-Overview
-We are seeking a Sales Engineer who combines strong technical acumen with business awareness. Ververica is the original creator of Apache Flink® and builds the unified streaming data platform that powers real-time decisioning for customers in finance, gaming, telco and manufacturing. As a Sales Engineer, you are the technical counterpart in every customer conversation: you connect customer problems to our platform capabilities, and you translate technical value into business impact. You will work closely with Sales, Product, Customer Success, Marketing and Engineering to help organizations understand, evaluate and adopt Ververica.
-In This Role You Will Have The Opportunity To
-Discover: run technical discovery to identify customer pain points, current-state architecture and desired outcomes.
-Design: craft tailored streaming architectures and solutions that map Ververica's platform to the customer's data landscape.
-Demonstrate: deliver product demos and lead proofs of concept that prove real, measurable value.
-Win: provide the technical validation that supports the deal and earns customer trust, from first call through to close.
-Own the technical narrative in RFPs, security and architecture reviews, and executive briefings.
-Act as the voice of the customer to Product and Engineering, feeding field insight back into the roadmap.
-Build reusable demo assets, reference architectures and enablement material that scale beyond a single deal.
-Partner with Customer Success to ensure a clean handover and a successful path to production.
-Represent Ververica in the Apache Flink community and at industry events, meetups and webinars.
-Stay current on the streaming, data and AI landscape, and apply that knowledge to sharpen how we position the platform.
-Qualifications
-Basic Qualifications
-Demonstrated experience in a Sales Engineering, Solutions Architecture, Solutions Engineering or comparable customer-facing technical role.
-Hands-on familiarity with data systems: streaming architectures, distributed data processing, data pipelines or analytics platforms.
-Working knowledge of at least one major cloud platform (AWS, Azure or GCP) and of deployment models including on-premises and BYOC.
-Ability to communicate clearly and credibly with both engineers and executives, adjusting depth to the audience.
-Proficiency in SQL, and comfort reading or writing code in at least one language such as Java, Scala, Python or SQL-based streaming dialects.
-Experience scoping and running proofs of concept against customer success criteria.
-Demonstrated ability to take initiative, seek clarity and make things happen with limited supervision.
-Willingness to travel to customers and events as needed.
-Preferred Qualifications
-Hands-on experience with Apache Flink, Apache Kafka, or comparable stream processing and event streaming technologies.
-Knowledge of containerization (Docker) and orchestration tools (Kubernetes).
-Experience selling or implementing open-source or open-core software, and comfort working with technical communities.
-Exposure to real-time AI and machine learning use cases, including feature pipelines and streaming inference.
-Domain experience in financial services, gaming, telecommunications or manufacturing.
-Experience with data warehouses and lakehouse architectures, and with the ecosystem around them.
-Why Join Us?
-At Ververica, you will help shape the future of real-time data processing. Founded in 2014 by the original creators of Apache Flink and backed by Alibaba Group since 2019, we combine deep open-source roots with the pace of a scaling company. You will join a remote-first, global and tech-first team where your technical judgment directly shapes how customers adopt streaming, and where real-time meets the next wave of AI.
+Senior Product Designer (m/f/d) - Spain | Remote
+About us
+Ververica builds the real-time data streaming platform from the original creators of Apache Flink. Our customers run mission-critical pipelines on it, so our product is dense, technical and unforgiving of bad UX.
+We are AI-first in how we build: our engineers work with coding agents daily, our design system ships its own MCP server, and our guidelines are written to be read by humans and machines alike. We want a designer who works the same way.
+The role
+We are hiring a Senior Product Designer who designs AI-first products and ships design specs as working code. You own the experience of our data console, for processing and storing data and our customer-facing AI assistant, and you co-own the Stream Design System (SDS) with our frontend engineers.
+Your primary deliverable is not a static Figma file. It is a spec in Storybook, built with AI coding tools on top of SDS, that engineers can pick up and ship.
+Location : Remote
+Reports to : Director of AI Engineering and Design
+Start : as early as possible in Q1 2027
+What you'll do
+Design AI-first experiences
+Design agentic and conversational flows where AI acts on the platform: creating deployments, diagnosing failing jobs, searching docs, opening support cases.
+Define patterns for AI in a technical product: intent capture, plan previews, human-in-the-loop approval, streaming output, confidence and provenance, undo and recovery from wrong actions.
+Prototype with real models early, test with users, and iterate on prompts and system behaviour together with engineers.
+Ship specs as code
+Turn flows into interactive Storybook stories built on SDS components, using AI coding tools with the SDS MCP server.
+Open pull requests, take review from engineers, and keep stories in sync with what ships.
+Use Figma for exploration and Code Connect mappings, not as the final source of truth.
+Create the content of the SDS guidelines to teach the AI clients how to use it and how to design autonomously.
+Own product areas end to end
+Catalog and table management, authentication, access control, dashboards and server status.
+Complex operational flows such as blue/green deployments, deployment defaults and Flink state introspection.
+Partner with backend engineers on VIDs (our design proposals) so UX shapes the API, not the other way around.
+Shape requirements with product management and engineering, from discovery to release.
+Run lean user research and usability tests with customers, Customer Success and Sales Engineering, and turn findings into design decisions.
+Co-own the Stream Design System
+Grow SDS: new components (skeleton, segmented control, timeline, charts, breadcrumb), tokens (motion, opacity, content width, control height) and a light theme.
+Keep Figma, code and Code Connect aligned, and review component implementations for visual and accessibility quality.
+Write and maintain the SDS guidelines that both people and coding agents consume, and close the gaps that agent evaluation runs surface.
+What you bring
+5+ years of product design on complex B2B, developer or data products, with shipped work you can walk us through.
+Hands-on experience designing AI-powered features: copilots, agents or chat interfaces in production, not only concepts.
+A working understanding of how LLMs behave: context, tool calling, latency, hallucination, failure modes, and how each shows up in the UI.
+You build in code daily with AI assistance. You can set up a Storybook, write stories in HTML/CSS and TypeScript, and use Git and pull requests without hand-holding.
+Deep design system experience: tokens, component APIs, variants, accessibility (WCAG 2.2 AA) and Figma-to-code mapping.
+Strong interaction design for data-dense interfaces: tables, forms, states, errors and long-running operations.
+Experience running user research and usability testing, and turning insights into product decisions.
+Strong communication with technical and non-technical stakeholders, and comfort in an agile team that iterates fast on feedback.
+Clear written English. You write specs, guidelines and rationale that engineers and agents can act on.
+Nice to have
+Experience with Angular or Web Components (SDS is built on both).
+Familiarity with data streaming, Apache Flink, Kafka or similar infrastructure tools.
+You have written skills, prompts or MCP tools for your own design workflow.
+Data visualisation for operational metrics and monitoring.
+Experience evaluating AI output quality: test sets, rubrics, eval runs.
+Motion design for product UI, in code or with tools such as Rive or Lottie.
+What we offer
+Work with the original creators of Apache Flink on the platform that runs real-time data for companies worldwide.
+An AI-first engineering culture: modern tooling, coding agents and a design system built for them.
+A small, international team where design has a direct line to engineering and leadership.
+Fully remote with flexible hours.
+Competitive salary and benefits, plus budget for learning and conferences.
+How to apply
+Send your CV and a portfolio with at least one AI feature you shipped and one spec you delivered as code. A Storybook link or repo beats screenshots.

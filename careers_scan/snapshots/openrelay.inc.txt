@@ -3,6 +3,7 @@ Rent GPUs
 GPU catalog
 Dedicated endpoints
 Inference API
+Sandboxes
 Pricing
 Inference Pricing
 Sandbox Pricing

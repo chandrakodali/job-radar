@@ -44,11 +44,11 @@ Work with Agency AI Proprietary AI handles the repeatable; you handle the judgme
 Protect clients Their security is your personal responsibility.
 Platform Products
 Agency AI End-to-end cybersecurity and compliance, across the stack you already use.
-Agency MDR Managed detection and response
+Agency MDR Managed detection and response across endpoints, cloud, and SIEM.
 Agency Incident Response Respond to breaches with AI-powered investigation and expert-led action.
 Find your auditor
 Auditnex makes buying audits simpler and more transparent.
-Agency implements the controls, collects the evidence, and manages your auditor relationship on top of the GRC tools you already use.
+Agency Cybersecurity implements the controls, collects the evidence, and manages your auditor relationship on top of the GRC tools you already use.
 Explore Auditnex
 Common GRC Questions
 GRC Platform & Virtual CISO FAQ
@@ -58,7 +58,7 @@ More from Agency
 See it on the home page
 Pricing Express Comply Pricing Managed Comply Pricing SOC 2 without a platform Agency for Startups Cyber & Tech E&O Insurance
 Compare Agency vs GRC software Agency vs Vanta Compare GRC platforms Vanta vs Drata Best Vanta alternatives Vanta through Agency
-Guides & resources SOC 2 Compliance Roadmap SOC 2, run end-to-end Compliance as a service Virtual CISO SOC 2 before Series A SOC 2 bridge letter Questions Glossary GRC FAQ
+Guides & resources SOC 2 Compliance Roadmap SOC 2, run end-to-end Compliance as a service Virtual CISO SOC 2 before Series A SOC 2 bridge letter Questions Glossary GRC Platform & Virtual CISO FAQ
 Company Careers Partnerships Request a demo
 AI-Powered
 Build a Security & Compliance Team Led by Your Own Virtual CISO

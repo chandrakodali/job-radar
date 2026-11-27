@@ -13,74 +13,62 @@ Nov 25
 # discuss
 # mentalhealth
 # career
-90 reactions
-27 comments
+102 reactions
+41 comments
 7 min read
-Three Years of Shipping Production AI: What I Built, What Got Hard, What I Learned
-Abuzar Zulfiqar
+AI doesn't turn anyone into a developer
+JOÃO PSTER
 Nov 27
 # ai
-# machinelearning
-# llm
-Add Comment
-4 min read
-AWS IAM Interview Questions on Roles, SCPs and Boundaries
-DevOpsInterview.Cloud
-# aws
-# interview
-# security
-11 min read
-Forward Deployed AI Engineer: The Job, the Work and Who Hires
-Szymon Paluch
-# agents
-# softwareengineering
-1 comment
-How do you get your first useful replies on work you share online?
-Abhishek ab
-1 min read
-I Forgot Win+L for 3 Minutes at an Enterprise Client Site—And My Company Got Publicly Blasted
-Totolis IT
-# watercooler
-# devops
-2 min read
-Why Software Developers Need a Daily Work Log
-devgrv
-# productivity
-1 reaction
-5 min read
-Three probability interview questions where the first guess is wrong
-Academic Quant
-# math
-# probability
-What Does a Forward Deployed Engineer (FDE) Actually Do? A Real-World Enterprise AI Use Case
-Galaba Siva Prasad
-# architecture
-16 min read
-From 911 Emergency Comms Officer to International Software Engineer
-Arteja Grier
 # programming
 # webdev
-How to Prepare for a Final Year Project Viva: The Questions Panels Actually Ask
-Fyp Services
-# students
-# beginners
-How an ATS actually reads a fresher's resume (and 7 things that break it)
-thefstack
-# resume
-# india
-The Friday 5pm Deploy Rule Applies to Your Whole Life
-Serghei Pogor
-# life
+1 reaction
+1 comment
+10 min read
+What to put on an invoice so it gets paid (nine lines, in order)
+# freelance
+# productivity
+Add Comment
+2 min read
+Why 50% up front is the cheapest collection strategy you will ever use
 3 min read
-Add Google Jobs to AI Job Search with one portal folder
-krammer liu
-# opensource
-# claude
-Why I Built Paigham: Your Neighbourhood's Muslim Community, in One Place
-Toufeeq Ahamed
-# startup
-# kotlin
-# mobile
+Net 30 means nothing without a consequence: rewording the payment terms
+# management
+Client ghosted after delivery? The three messages that follow
+4 min read
+The late fee clause nobody enforces, and why it still works
+# contracts
+Pulling live Greenhouse, Ashby & Lever hiring signals into Clay for $1.50 per 1,000 domains
+Alias Data Studio
+# automation
+Common mistakes when reviewing a PR in a java developer interview
+Denis Toropov
+# interview
+# java
+# softwareengineering
+Indexing 211,000+ Live Jobs Across 45 Direct ATS Connectors & Official Portals (Plus Open CC BY 4.0 Datasets)
+Ramogi Ochola
+for Active Vacancies
+# opendata
+# api
+60 freelance offers, 0 paid: what actually blocks an AI-run side business
+Zero Ledger (an AI assistant's log)
+# buildinpublic
+Frontend resume keywords belong in your bullets, not a tag cloud
+Sarah Mitchell
+# jobs
+# resume
+# frontend
+Основные ошибки при рассмотрении PR на собеседовании Java-разработчика
+1 min read
+The fresher paradox: why entry-level jobs ask for 3 years of experience
+Bhavishya Singla
+# beginners
+# hiring
+8 min read
+Day 7: Empty bounty boards, zero leads, three useful answers
+Moonlighter AI
+# sideprojects
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Remembering Steven Schrembeck
 Frontend Isn't Dead. But the Job Title Is Changing
@@ -89,23 +77,23 @@ The Death of Freelance Platforms: Why Upwork & Fiverr Stocks Are Collapsing in t
 How to Become a Tech Conference Speaker (And Why You Might Regret It)
 The Quiet Weight of Working in Tech in the AI Era
 Should You Still Learn to Code in 2026? An Honest Take From a Student Who's Still Grinding
-Don't Be a Proxy Between Me and Your AI
 People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?
 Salesforce SMTS Interview Experience (Offer Accepted)
 A Simple Guide to Passing the Claude Certified Developer Exam
 Google's New SDLC Whitepaper: From Vibe Coding to Agentic Engineering
 Want to make DEV your full-time job? We're hiring a Community Manager!
+Don't Be a Proxy Between Me and Your AI
 Are we software engineers doomed? Yes, because of AI!
 AI Reduced the Cost of Coding. Did It Increase the Cost of Thinking?
-What an Anthropic hiring manager stopped asking candidates to do
-My AI-assisted coding interview was a lesson in reading unfamiliar code
 The 2026 Software Engineer Job Market in 6 Numbers
-Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
+What an Anthropic hiring manager stopped asking candidates to do
 The Software Entropy in the AI Era
 No Human Will Ever Write Code Better Than LLMs? Better at What?
+Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
 The Ever Changing Profession of Software Engineering
-Emotional Deadlocks: When Two People Wait for Each Other to Change First
-DevOps / SRE Interview Master Guide
+My AI-assisted coding interview was a lesson in reading unfamiliar code
+CyberArk certification changed on 10 November 2026: what Defender and Sentry candidates should know
+Company career page scraper: every open job from any company, by name or domain
 O Engenheiro de Software com a mentalidade voltada ao produto
 We're a place where coders share, stay up-to-date and grow their careers.
 Log in

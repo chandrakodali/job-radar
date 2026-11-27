@@ -121,7 +121,7 @@ Writing
 Engineering notes, reports and launches from the team. We’re a small team in San Francisco. See open roles .
 November 3, 2026 How we built insanely good memory for grok bot (by making it a teammate instead)
 October 28, 2026 We dug into Claude Code's memory. Here's exactly how it works
-October 9, 2026 How AI memory actually works. A beginner's guide
+October 9, 2026 AI memory: a beginner's guide to how it actually works
 See all writing
 Intelligence without memory is just randomness.
 supermemory gives your agent long-term memory of every user. Paste one prompt into your coding agent and it wires memory into your project.

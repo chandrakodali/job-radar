@@ -47,8 +47,6 @@ USA - New York (dbt)
 Manager, Account Management
 Manager Account Management
 Customer Support Department
-Manager, Customer Support Engineering
-Remote, Australia, APAC
 Senior Escalations Manager
 Engineering Department
 Staff Site Reliability Engineer

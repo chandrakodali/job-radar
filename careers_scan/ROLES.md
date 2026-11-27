@@ -1,10 +1,10 @@
 # Cloud, DevOps, SRE, platform and infrastructure roles (no job board)
 
-Updated 2026-11-27 10:12 UTC. **93 open roles** at 73 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
+Updated 2026-11-27 22:24 UTC. **91 open roles** at 72 companies that post jobs only on their own website, so job sites and the radar can't see them. Roles at companies on Greenhouse, Lever, Ashby and other tracking systems from the same company lists appear in the radar's [REPORT.md](../REPORT.md).
 
 **Apply:** the ✉ link opens an email to the company's hiring address with the subject filled in; attach your résumé. Scores and notes use the radar's rules (config.yaml): higher is a better early-career fit; "location unclear" means the page didn't say, so check it. 🆕 = first seen in the last 2 days.
 
-## US or location not stated (93)
+## US or location not stated (91)
 
 | Score | Role | Company | Location | Apply | Since | Notes |
 |---:|---|---|---|---|---|---|
@@ -35,10 +35,9 @@ Updated 2026-11-27 10:12 UTC. **93 open roles** at 73 companies that post jobs o
 | 45 | [DevOps Engineer](https://coredge.io/career) | Coredge | ? | [Careers page](https://coredge.io/career) | Nov 11 | location unclear |
 | 45 | [Infrastructure Engineer](https://www.daytona.io/careers) | Daytona | ? | [Careers page](https://www.daytona.io/careers) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer](https://www.getdynamiq.ai/careers/devops-engineer) | Dynamiq | ? | [✉ hello@getdynamiq.ai](mailto:hello@getdynamiq.ai?subject=Application%3A%20DevOps%20Engineer%20%E2%80%93%20Dynamiq) | Nov 11 | location unclear |
-| 45 | [infrastructure engineer](https://e2e.com/careers/infrastructure-engineer) 🆕 | e2e | worldwide | [Careers page](https://e2e.com/careers/infrastructure-engineer) | Nov 25 | location unclear |
+| 45 | [infrastructure engineer](https://e2e.com/careers/infrastructure-engineer) | e2e | worldwide | [Careers page](https://e2e.com/careers/infrastructure-engineer) | Nov 25 | location unclear |
 | 45 | [Site Reliability Engineer](https://estuary.dev/about/) | Estuary | ? | [✉ careers@estuary.dev](mailto:careers@estuary.dev?subject=Application%3A%20Site%20Reliability%20Engineer%20%E2%80%93%20Estuary) | Nov 11 | location unclear |
 | 45 | [Infrastructure Engineer](https://www.ehl.markets/careers.html) | Event Horizon Labs | ? | [✉ careers@ehl.markets](mailto:careers@ehl.markets?subject=Application%3A%20Infrastructure%20Engineer%20%E2%80%93%20Event%20Horizon%20Labs) | Nov 11 | location unclear |
-| 45 | [DevOps / SRE Interview Master Guide](https://dev.to/jumptotech/devops-sre-interview-master-guide-4kko) | Forem | ? | [Careers page](https://dev.to/jumptotech/devops-sre-interview-master-guide-4kko) | Nov 18 | location unclear |
 | 45 | [DevOps Engineer](https://www.giveffect.com/careers) | Giveffect | ? | [✉ careers@giveffect.com](mailto:careers@giveffect.com?subject=Application%3A%20DevOps%20Engineer%20%E2%80%93%20Giveffect) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer](https://meduzzen.com/careers/) | Meduzzen | ? | [Careers page](https://meduzzen.com/careers/) | Nov 11 | location unclear |
 | 45 | [Platform / DevOps Engineer](https://muzz.com/us/en/careers/) | Muzz | ? | [✉ careers@muzz.com](mailto:careers@muzz.com?subject=Application%3A%20Platform%20/%20DevOps%20Engineer%20%E2%80%93%20Muzz) | Nov 12 | location unclear |
@@ -49,7 +48,6 @@ Updated 2026-11-27 10:12 UTC. **93 open roles** at 73 companies that post jobs o
 | 45 | [Platform engineer](https://rimward.ai/careers/) | Rimward | ? | [✉ careers@rimward.ai](mailto:careers@rimward.ai?subject=Application%3A%20Platform%20engineer%20%E2%80%93%20Rimward) | Nov 11 | location unclear |
 | 45 | [Systems Engineer, AI Infrastructure](https://sapient.inc/en/careers/systems-engineer-ai-infrastructure) | Sapient Intelligence | On-Site or Hybrid | [✉ careers@sapient.inc](mailto:careers@sapient.inc?subject=Application%3A%20Systems%20Engineer%2C%20AI%20Infrastructure%20%E2%80%93%20Sapient%20Intelligence) | Nov 11 | 3+ yrs exp; location unclear |
 | 45 | [SysOps / Cloud System Engineer](https://www.sardinasystems.com/about-us/careers/) | Sardina Systems | ? | [✉ jobs@sardinasystems.com](mailto:jobs@sardinasystems.com?subject=Application%3A%20SysOps%20/%20Cloud%20System%20Engineer%20%E2%80%93%20Sardina%20Systems) | Nov 11 | location unclear |
-| 45 | [Cloud Operations Developer](https://www.sardinasystems.com/about-us/careers/) | Sardina Systems | ? | [✉ jobs@sardinasystems.com](mailto:jobs@sardinasystems.com?subject=Application%3A%20Cloud%20Operations%20Developer%20%E2%80%93%20Sardina%20Systems) | Nov 11 | location unclear |
 | 45 | [DevOps Engineer](https://www.strikingly.com/s/careers) | Strikingly | ? | [✉ jobs@strikingly.com](mailto:jobs@strikingly.com?subject=Application%3A%20DevOps%20Engineer%20%E2%80%93%20Strikingly) | Nov 11 | location unclear |
 | 45 | [Infrastructure Engineer](https://careers.superb-ai.com/) | Superb AI | ? | [Careers page](https://careers.superb-ai.com/) | Nov 24 | location unclear |
 | 45 | [Platform Engineer](https://traefik.io/careers) | Traefik Labs | ? | [✉ jobs@traefik.io](mailto:jobs@traefik.io?subject=Application%3A%20Platform%20Engineer%20%E2%80%93%20Traefik%20Labs) | Nov 11 | location unclear |
@@ -59,9 +57,9 @@ Updated 2026-11-27 10:12 UTC. **93 open roles** at 73 companies that post jobs o
 | 42 | [Software Engineer, Infrastructure](https://orchid.ai/careers/software-engineer-infrastructure) | Orchid | Remote | [✉ work@orchid.ai](mailto:work@orchid.ai?subject=Application%3A%20Software%20Engineer%2C%20Infrastructure%20%E2%80%93%20Orchid) | Nov 11 | location unclear |
 | 42 | [DevOps Engineer](https://www.outsourcingdev.com/careers/) | OutsourcingDev | Remote | [Careers page](https://www.outsourcingdev.com/careers/) | Nov 11 | location unclear |
 | 42 | [Agent Infrastructure Engineer](https://pydantic.dev/jobs/agent-infrastructure-engineer) | Pydantic | Fully remote | [✉ careers@pydantic.dev](mailto:careers@pydantic.dev?subject=Application%3A%20Agent%20Infrastructure%20Engineer%20%E2%80%93%20Pydantic) | Nov 11 | location unclear |
-| 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
 | 42 | [Cloud Full-Stack Developer](https://wazuh.com/job/full-stack-developer-cloud/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/full-stack-developer-cloud/) | Nov 11 | location unclear |
 | 42 | [Cloud Ops Engineer](https://wazuh.com/job/cloud-ops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-ops-engineer/) | Nov 11 | location unclear |
+| 42 | [Cloud DevOps Engineer](https://wazuh.com/job/cloud-devops-engineer/) | Wazuh | Remote | [Careers page](https://wazuh.com/job/cloud-devops-engineer/) | Nov 11 | location unclear |
 | 40 | [Senior DevOps Engineer](https://broadleafcommerce.com/senior-devops-engineer/) | Broadleaf Commerce | ? | [✉ careers@broadleafcommerce.com](mailto:careers@broadleafcommerce.com?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20Broadleaf%20Commerce) | Nov 13 | 3+ yrs exp; senior title; location unclear |
 | 40 | [Senior Backend / ML Ops Engineer](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Drafted | In person | [Careers page](https://www.drafted.ai/careers/senior-backend-ml-ops-engineer) | Nov 13 | senior title, years not stated |
 | 40 | [Network Systems Engineer](https://efference.ai/careers/wireless-networking-engineer/) | Efference | On-site | [✉ team@efference.ai](mailto:team@efference.ai?subject=Application%3A%20Network%20Systems%20Engineer%20%E2%80%93%20Efference) | Nov 11 |  |
@@ -102,7 +100,7 @@ Updated 2026-11-27 10:12 UTC. **93 open roles** at 73 companies that post jobs o
 | 20 | [Storage Engineer (Senior)](https://www.stackbill.com/company/career.html) | Stackbill Private Limited | ? | [Careers page](https://www.stackbill.com/company/career.html) | Nov 13 | senior title, years not stated; location unclear |
 | 20 | [Virtualization Engineer (Senior)](https://www.stackbill.com/company/career.html) | Stackbill Private Limited | ? | [Careers page](https://www.stackbill.com/company/career.html) | Nov 13 | senior title, years not stated; location unclear |
 
-## Outside the US (9)
+## Outside the US (10)
 
 | Score | Role | Company | Location | Apply | Since | Notes |
 |---:|---|---|---|---|---|---|
@@ -114,6 +112,7 @@ Updated 2026-11-27 10:12 UTC. **93 open roles** at 73 companies that post jobs o
 | 45 | [Site Reliability Engineer](https://tyk.io/jobs/sre/) | Tyk | APAC | [Apply](https://apply.workable.com/tyk-technologies/j/A0C7C4347A/apply/) | Nov 11 | 3+ yrs exp |
 | 40 | [Senior Application Security Engineer](https://www.red-gate.com/our-company/careers/current-opportunities/senior-application-security-engineer) | Redgate Software | ? | [Apply](https://jobs.ashbyhq.com/red-gate/354fd654-ed2d-461a-8ff7-a8b6e810a3a5/application) | Nov 13 | senior title, years not stated |
 | 30 | [Senior AI Platform Engineer](https://www.guesty.com/careers-open-positions/co/israel/D2.374/senior-ai-platform-engineer/) | Guesty | Israel | [Careers page](https://www.guesty.com/careers-open-positions/co/israel/D2.374/senior-ai-platform-engineer/) | Nov 13 | 5+ yrs exp; senior title |
+| 30 | [Site Reliability Engineer](https://career.luxoft.com/jobs/site-reliability-engineer-29986) 🆕 | Luxoft | Bucharest, Romania | [Careers page](https://career.luxoft.com/jobs/site-reliability-engineer-29986) | Nov 27 | 7+ yrs exp |
 | 30 | [Senior DevOps Engineer](https://ooakdata.com/careers?job_id=123830) | Ooak Data | ? | [✉ careers@ooakdata.com](mailto:careers@ooakdata.com?subject=Application%3A%20Senior%20DevOps%20Engineer%20%E2%80%93%20Ooak%20Data) | Nov 24 | 6+ yrs exp; senior title |
 
 ## Need a clearance or US citizenship (10)

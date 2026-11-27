@@ -1,6 +1,8 @@
 Your Career Fulfilled
 Building the world’s leading full-stack fulfillment platform is challenging work. The problems we solve are complex, the pace is fast, and the bar is high. That means ShipBob’s environment isn’t the right fit for everyone, and that’s okay. If you are ready to take ownership, push boundaries, and grow alongside a team that genuinely supports each other, we would love to hear from you.
 See all open positions
+.theme-cobalt .btn-primary {
+background-color: var(–secondary) !important;
 What Is ShipBob?
 ShipBob is a full-stack logistics platform delivering best-in-class fulfillment solutions. There are over thousands of brands who trust our fulfillment services and global network to help scale their ecommerce businesses.
 Our Mission
@@ -42,7 +44,7 @@ FAQs about careers at ShipBob
 Can I apply to multiple positions at ShipBob? What if I don’t know which position is the best fit for me?
 Yes, you can absolutely apply to multiple positions! The ShipBob Talent team works very collaboratively, so make sure to tell your Talent Partner that you’ve applied to or would like to be considered for multiple open roles, and they can point you in the right direction.
 What is the culture like at ShipBob?
-ShipBob is a global, remote-first company that proudly employs people in multiple regions of the world. While we have team members worldwide, we are united by our core values of being mission-driven, creative problem solvers, humble, resilient, and safety minded. We cultivate a strong sense of community through virtual and in-person events, such as Town Halls, offsites, holiday and festival celebrations, volunteering initiatives, awards and recognition, and more. Additionally, we have several Employee Resource Groups (ERGs) dedicated to creating a welcoming environment and safe space for team members to find community. We also have a Culture Committee that is comprised of employees that help create a fun, positive culture.
+ShipBob is a global, remote-first company that proudly employs people in multiple regions of the world. While we have team members worldwide, we are united by our core values of being mission-driven, creative problem solvers, humble, resilient, and safety minded. We cultivate a strong sense of community through virtual and in-person events, such as Town Halls, offsites, holiday and festival celebrations, volunteering initiatives, awards and recognition, and more.
 At ShipBob, you’ll find a supportive team cheering you on as you make an impact on the growth and success of our merchants while building a career you’re proud of. Our commitment to delivering results creates a goal-driven, high-performance culture where everyone is empowered to contribute to our mission with a clear understanding of their direct impact and accountability. Learn more about our culture .
 Do employees have access to internal mobility opportunities?
 Yes! All open positions at ShipBob are accessible to internal employees. We prioritize vetting internal candidates before opening roles to the external market. This way, we can leverage the skills, experiences, and knowledge of our current team members.

@@ -34,9 +34,6 @@ Price range: ₹350.00 through ₹800.00
 500 g x 2
 500 g x 5
 Frozen Mango Pulp (100% Pure & Natural) quantity
-Organic Potato
-₹ 75.00
-Organic Potato quantity
 Organic Tomato
 Price range: ₹70.00 through ₹130.00
 Organic Tomato quantity
@@ -46,20 +43,16 @@ Organic Ginger quantity
 Organic Mirch/Green Chilli
 ₹ 20.00
 Organic Mirch/Green Chilli quantity
-Organic Desi Coriander (Dhaniya)
-₹ 30.00
-Organic Desi Coriander (Dhaniya) quantity
 Desi Spinach (Palak) (with little holes & spots)
 Price range: ₹35.00 through ₹60.00
 Desi Spinach (Palak) (with little holes & spots) quantity
 Organic Curry Leaves (Kadi Patta)
+₹ 30.00
 1 Bunch (10 twigs)
 Organic Curry Leaves (Kadi Patta) quantity
 Desi Methi Leaves (with holes & spots)
 Price range: ₹45.00 through ₹75.00
 Desi Methi Leaves (with holes & spots) quantity
-Desi Moringa Fresh Leaves
-Desi Moringa Fresh Leaves quantity
 Organic Kheera (Cucumber) – Yellowish skin
 Organic Kheera (Cucumber) - Yellowish skin quantity
 Desi Radish / Mooli
@@ -78,9 +71,6 @@ Organic Kaddu / Green Pumpkin(Whole)
 ₹ 130.00
 1.5 kg
 Organic Kaddu / Green Pumpkin(Whole) quantity
-Organic Green Capsicum / Shimla Mirch
-₹ 55.00
-Organic Green Capsicum / Shimla Mirch quantity
 Organic French Beans
 Price range: ₹50.00 through ₹80.00
 Organic French Beans quantity
@@ -95,8 +85,6 @@ Organic Karela/Bitter Gourd quantity
 Organic Red Bell Pepper
 ₹ 120.00
 Organic Red Bell Pepper quantity
-Organic Yellow Bell Pepper
-Organic Yellow Bell Pepper quantity
 Organic Big Round Brinjal
 Organic Big Round Brinjal quantity
 Organic Knol Khol (Turnip Cabbage)
@@ -105,18 +93,9 @@ Organic Knol Khol (Turnip Cabbage) quantity
 Organic Bok Choy (with little holes & spots)
 Price range: ₹50.00 through ₹90.00
 Organic Bok Choy (with little holes & spots) quantity
-Organic Brinjal – Small
-Organic Brinjal - Small quantity
 Organic Broccoli
 Price range: ₹160.00 through ₹300.00
 Organic Broccoli quantity
-Organic Celery
-Price range: ₹90.00 through ₹250.00
-750 g
-Organic Celery quantity
-Organic Green Peas – Matar
-Price range: ₹150.00 through ₹280.00
-Organic Green Peas - Matar quantity
 Organic Green Lettuce
 Price range: ₹80.00 through ₹150.00
 Organic Green Lettuce quantity
@@ -136,10 +115,8 @@ Price range: ₹75.00 through ₹140.00
 Organic Sem Phali quantity
 Organic Chappan Tinda
 Organic Chappan Tinda quantity
-Desi Red Radish
-Price range: ₹55.00 through ₹90.00
-Desi Red Radish quantity
 Organic Raw Banana
+₹ 55.00
 Organic Raw Banana quantity
 Organic Desi Kachchi Haldi
 Organic Desi Kachchi Haldi quantity
@@ -312,16 +289,13 @@ Wood-Pressed Black Mustard Oil
 Price range: ₹200.00 through ₹1,825.00
 Wood-Pressed Black Mustard Oil quantity
 Herbs & Seeds
-Kashmiri Mogra Saffron
-Price range: ₹415.00 through ₹740.00
-1 g
-1 g x 2
-Kashmiri Mogra Saffron quantity
 Dry Lavender Flowers
 Price range: ₹130.00 through ₹245.00
 25 g
 50 g
 Dry Lavender Flowers quantity
+Kashmiri Mogra Saffron
+Price range: ₹415.00 through ₹740.00
 Spices & Sweeteners
 Daily Sabji Masala Pack
 Price range: ₹255.00 through ₹466.00
@@ -490,3 +464,6 @@ Wood-pressed Mustard Oil & Bilona Desi Rathi Cow Ghee quantity
 Price range: ₹1,230.00 through ₹2,328.00
 500 ml x 3
 2 Oil and Bilona Desi Rathi Cow Ghee quantity
+Bilona Desi Rathi Cow Ghee and Jaggery
+Price range: ₹901.00 through ₹1,690.00
+Uncategorized
