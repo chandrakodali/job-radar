@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**313 jobs**, newest first. Updated Thu Nov 26, 10:31 PM CST from 12,580 company job boards and other sources.
+**306 jobs**, newest first. Updated Thu Nov 26, 11:23 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 96 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (6)](#thursday-nov-19-6)
+Coverage check: of 4,541 matching jobs that job sites and feeds listed this week, 856 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (75)](#friday-nov-20-75)
 
 ## Friday, Nov 27 (2)
 
@@ -33,7 +35,7 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 12:00 AM | [CDX Rotational Program Associate](https://careers.molsoncoors.com/global/en/job/MQXMOLUS39895EXTERNALENUS) | Molson Coors Beverage Company | Atlanta, US-GA, United States | 75 | entry-level title |
 | 12:00 AM | [Billing Support Specialist](https://jobs.dayforcehcm.com/en-US/landstar/CANDIDATEPORTAL/jobs/12053) | Landstar | Rockford, IL, US; Jacksonville, FL, US | 75 | 1+ yrs exp |
 
-## Wednesday, Nov 25 (49)
+## Wednesday, Nov 25 (48)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -49,7 +51,6 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 5:26 PM | [Seasonal Fulfillment and Receiving Support Associate, Shoppes At Buck…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827859) | Macy's | Manchester, CT, United States | 75 | entry-level title |
 | 5:26 PM | [Seasonal Fulfillment and Receiving Support Associate, Stamford Town C…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827860) | Macy's | Stamford, CT, United States | 75 | entry-level title |
 | 5:19 PM (seen) | [System Administrator I](https://ats.rippling.com/jmark-careers/jobs/fda1a272-d6ca-4f1c-a0f2-c1c716e55aa0) | Jmark Careers | Tulsa, OK (onsite) | 65 | entry-level title |
-| 5:12 PM | [Software Engineer - New Grad](https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51) | Coderabbit | San Francisco (hybrid) | 80 | entry-level title |
 | 4:00 PM (seen) | [Machine Learning Engineer, TikTok Core Feed Recommendation - Dedup](https://lifeattiktok.com/search/7509598272319719687) | TikTok | San Jose, California, United States of … | 70 | 1+ yrs exp; entry level (from the text) |
 | 3:58 PM | [Early Career Software Engineer, Developer Experience](https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c) | Parallel | San Francisco; New York, New York; Palo… (onsite) | 80 | entry-level title |
 | 3:34 PM | [Application Engineer Analytical Instrumentation](https://jobs.smartrecruiters.com/AntonPaar1/744000163765279-application-engineer-analytical-instrumentation) | Anton Paar | Ashland, , United States | 85 | 1+ yrs exp; entry level (from the text); repost |
@@ -355,18 +356,7 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (6)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 11:00 PM | [Associate Small Commercial Risk Solutions Consultant (New England)](https://jobs.dayforcehcm.com/en-US/thg/allcareers/jobs/49246) | Thg | Boston, MA, US; Worcester, MA, US (remote) | 82 | entry-level title; 1+ yrs exp |
-| 11:00 PM | [CL Performance Innovation - Business Analyst I](https://jobs.dayforcehcm.com/en-US/thg/allcareers/jobs/49254) | Thg | Farmington Hills, MI, US; Howell, MI, U… | 85 | entry-level title; 0-2 yrs exp |
-| 11:00 PM | [Perioperative Support Associate, Part-time](https://careers-baptisthealthal.icims.com/jobs/327529/perioperative-support-associate%2c-part-time/job) | Baptist Health | HOMEWOOD, AL, United States | 75 | entry-level title |
-| 11:00 PM | [Perioperative Support Associate](https://careers-baptisthealthal.icims.com/jobs/323942/perioperative-support-associate/job) | Baptist Health | HOMEWOOD, AL, United States | 75 | entry-level title |
-| 11:00 PM | [Technical Customer Care Specialist I](https://jobs.dayforcehcm.com/en-US/vitu/CANDIDATEPORTAL/jobs/4960) | Vitu |  | 75 | entry-level title |
-| 11:00 PM | [Home Community Support Associate- Millcreek of Grenada; Hours varied](https://facilityjobs-acadiahealthcare.icims.com/jobs/110381/home-community-support-associate--millcreek-of-grenada--hours-varied/job) | Acadia Healthcare | Grenada, MS, United States | 75 | entry-level title |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1212)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1209)
 
 <details><summary>Show</summary>
 
