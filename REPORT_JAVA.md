@@ -1,12 +1,14 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**42 jobs**, newest first. Updated Fri Nov 27, 3:09 PM CST from 12,580 company job boards and other sources.
+**41 jobs**, newest first. Updated Fri Nov 27, 4:01 PM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 102 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (1)](#friday-nov-20-1)
+Coverage check: of 4,765 matching jobs that job sites and feeds listed this week, 2,620 (54%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (14)](#monday-nov-23-14) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (1)](#friday-nov-20-1)
 
 ## Friday, Nov 27 (3)
 
@@ -51,7 +53,7 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (1)](#thursday-nov-26-1) · [
 | 8:04 AM | [Cybersecurity Senior Software Engineer](https://mercadolibre.eightfold.ai/careers/job/43270645) | Mercadolibre | Antioquia,CO (hybrid) | 45 | senior title, years not stated; requires Java |
 | 7:14 AM | [Software Engineer I-Java/Springboot/SQL](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021) | JP Morgan Chase | Newark, DE, United States | 75 | entry-level title |
 
-## Monday, Nov 23 (15)
+## Monday, Nov 23 (14)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -61,7 +63,6 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (1)](#thursday-nov-26-1) · [
 | 1:58 PM | [Senior Application Software Engineer- Oracle Health](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351196) | Oracle | United States | 40 | 4+ yrs exp; senior title; requires Java |
 | 1:25 PM | [Senior Software Engineer](https://ford.eightfold.ai/careers/job/563568453894425) | Ford | US (remote) | 42 | 4+ yrs exp; senior title; requires Java |
 | 1:25 PM | [Senior Software Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71416) | Ford Motor Company | United States (remote) | 42 | 4+ yrs exp; senior title; requires Java |
-| 12:10 PM | [Software Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=8411988) | Stripe | South San Francisco, CA | 45 | 3+ yrs exp; requires Java |
 | 12:06 PM | [Backend Software Engineer III - JAVA, Springboot](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210762311) | JP Morgan Chase | Plano, TX, United States | 60 | 3+ yrs exp; senior title |
 | date only | [TrackingMore R&D Trainee - Full-Stack Engineer (Backend) - Bilingual …](https://apply.workable.com/cwill-us/j/D6136D8314/) | CWILL | cary, North Carolina, United States | 50 | requires Java |
 | date only | [Software Development Engineer - Data](https://www.amazon.jobs/en/jobs/10611635/software-development-engineer-data) | Audible, Inc. | Newark, New Jersey, USA | 50 | requires Java |
@@ -90,7 +91,7 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (1)](#thursday-nov-26-1) · [
 |---|---|---|---|---:|---|
 | 6:39 PM | [Assoc Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162837679-assoc-software-engineer) | ServiceNow | Santa Clara, CALIFORNIA, United States (hybrid) | 60 | 1+ yrs exp; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (42)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (40)
 
 <details><summary>Show</summary>
 
@@ -134,8 +135,6 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (1)](#thursday-nov-26-1) · [
 | 6:53 PM | [Integration Engineer](https://job-boards.greenhouse.io/oddball/jobs/8213812003) | Oddball | Remote (remote) | 47 | rules: requires Java; needs: security clearance |
 | 6:28 PM | [Software Engineer - Dealer Network & Employee Engagement](https://ford.eightfold.ai/careers/job/563568453660332) | Ford | Dearborn, MI, US (onsite) | 35 | rules: 7+ yrs exp; requires Java; asks for 7+ years of experience |
 | 6:28 PM | [Software Engineer - Dealer Network & Employee Engagement](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68465) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 35 | rules: 7+ yrs exp; requires Java; asks for 7+ years of experience |
-| 3:14 PM | [Sr. Application Security Engineer](https://jobs.lever.co/prosper/b907c840-14c0-4d84-9649-4417b3e323ed) | Prosper Funding | United States (remote) | 27 | rules: 6+ yrs exp; senior title; requires Java; asks for 6+ years of … |
-| 2:56 PM | [Full-Stack Software Engineer, SaaS & Low-Code Platforms](https://jobs.smartrecruiters.com/Versant3/744000162818799-full-stack-software-engineer-saas-low-code-platforms) | Versant | Englewood Cliffs, NEW JERSEY, United St… (hybrid) | 35 | rules: 5+ yrs exp; requires Java; asks for 5+ years of experience |
 | date only | [Senior Back End Java Developer](https://citi.eightfold.ai/careers/job/859039051648) | Citi | Tampa, FL, US (hybrid) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Software Engineer](https://apply.workable.com/amerisave/j/28E64F6DBB/) | Amerisave | United States (remote) | 15 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 
