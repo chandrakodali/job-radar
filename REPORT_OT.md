@@ -1,10 +1,12 @@
 # OT Network Engineer jobs in the US: posted in the last 7 days
 
-**5 jobs**, newest first. Updated Fri Nov 27, 10:48 AM CST from 12,580 company job boards and other sources.
+**4 jobs**, newest first. Updated Fri Nov 27, 1:01 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and OT security roles; controls, automation or network titles only when the job is about networks in an OT/industrial setting). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
-Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Fri 20 (1)](#friday-nov-20-1)
+Coverage check: of 1,100 matching jobs that job sites and feeds listed this week, 428 (38%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Tue 24 (4)](#tuesday-nov-24-4)
 
 ## Tuesday, Nov 24 (4)
 
@@ -15,13 +17,7 @@ Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Fri 20 (1)](#friday-nov-20-1)
 | 10:31 AM (seen) | [SCADA Engineer (Ignition Exp Required)](https://ats.rippling.com/divcon-controls/jobs/c2cec271-3501-48f4-a818-d04074133e2b) | Divcon Controls | Remote (United States) (remote) | 47 |  |
 | 7:35 AM | [Cybersecurity Operations  Senior OT CSOC Analyst](https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/1000498) | Consolidated Edison | New York, NY, United States | 75 | 2+ yrs exp; senior title |
 
-## Friday, Nov 20 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| date only | [Industrial Control Systems Engineer](https://jobs.exxonmobil.com/ExxonMobil/job/Baytown-Industrial-Control-Systems-Engineer-TX-77520/1452718100/) | ExxonMobil | Baytown, TX, United States | 75 | 2+ yrs exp |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (12)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (9)
 
 <details><summary>Show</summary>
 
@@ -34,10 +30,7 @@ Jump to: [Tue 24 (4)](#tuesday-nov-24-4) · [Fri 20 (1)](#friday-nov-20-1)
 | 5:06 PM | [Network Engineer 3](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005829) | Berkshire Hathaway Energy | Las Vegas, NV, United States (onsite) | 35 | rules: 5+ yrs exp; senior title; OT network work in the text; asks fo… |
 | 3:22 PM | [Senior Cyber Security Engineer](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4519512009) | IEM | US - Remote (remote) | 27 | rules: 5+ yrs exp; senior title; OT network work in the text; asks fo… |
 | 9:16 AM | [Senior Security Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/349844) | Oracle | Reston, VA, United States; Austin, TX, … | 25 | rules: 8+ yrs exp; senior title; OT network work in the text; needs: … |
-| 12:35 PM | [Distributed Control Systems Engineer-*Relocation Package Available*](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161650) | Honeywell | Long Beach, CA, United States (onsite) | 35 | rules: 6+ yrs exp; OT network work in the text; needs: must be a U.S.… |
 | date only | [Industrial Control Systems Specialist](https://jobs.exxonmobil.com/ExxonMobil/job/Baytown-Industrial-Control-Systems-Specialist-TX-77520/1452721200/) | ExxonMobil | Baytown, TX, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 11:00 PM | [Senior SCADA & Automation Engineer 1 - Grid](https://careers-sargentlundy.icims.com/jobs/30238/senior-scada-%26-automation-engineer-1---grid/job) | Sargent & Lundy | Englewood, CO, United States | 50 | rules: entry-level title; 5+ yrs exp; senior title; no future H-1B sp… |
-| 7:01 PM | [Controls Engineer III](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6e5e668b-df4e-4982-ad00-158f7895f112&ccId=9201700435142_2&jobId=9207821749098_51&lang=en_US) | 6E5E668B Df4E 4982 Ad00 158F7… | Bayou La Batre, AL | 23 | rules: 5+ yrs exp; senior title; OT network work in the text; needs: … |
 | date only | [Software Engineer - Level 3 - Operational Technology](https://careers.cintas.com/job/Mason-Software-Engineer-Level-3-Operational-Technology-OH-45040/1451739900/) | Cintas | Mason, OH, United States | 33 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 
 </details>
