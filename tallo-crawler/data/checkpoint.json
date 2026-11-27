@@ -18,18 +18,6 @@
   "core_remaining": 0,
   "pending": [
     {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/va/bealeton",
-      "label": "Bealeton",
-      "count": 1,
-      "deferred_once": true
-    },
-    {
-      "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/va/scottsville",
-      "label": "Scottsville",
-      "count": 1,
-      "deferred_once": true
-    },
-    {
       "url": "https://tallo.com/talent/job/browse/technology/computer-systems-engineer-or-architect/wi/port-washington",
       "label": "Port Washington",
       "count": 1,
