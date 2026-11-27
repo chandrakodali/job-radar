@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**269 jobs**, newest first. Updated Fri Nov 27, 11:31 AM CST from 12,580 company job boards and other sources.
+**266 jobs**, newest first. Updated Fri Nov 27, 12:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-83 repeat listings (same company and title in another place or on another source) are merged into one row.
+79 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (4)](#friday-nov-27-4) · [Thu 26 (14)](#thursday-nov-26-14) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (25)](#saturday-nov-21-25) · [Fri 20 (36)](#friday-nov-20-36)
+Coverage check: of 4,974 matching jobs that job sites and feeds listed this week, 895 (17%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (4)](#friday-nov-27-4) · [Thu 26 (14)](#thursday-nov-26-14) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (25)](#saturday-nov-21-25) · [Fri 20 (33)](#friday-nov-20-33)
 
 ## Friday, Nov 27 (4)
 
@@ -276,7 +278,7 @@ Jump to: [Fri 27 (4)](#friday-nov-27-4) · [Thu 26 (14)](#thursday-nov-26-14) ·
 | 3:26 AM | [Vendor Stock Support Associate, Bellevue Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826998) | Macy's | Bellevue, WA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chandler Fashio…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826986) | Macy's | Chandler, AZ, United States | 75 | entry-level title |
 
-## Friday, Nov 20 (36)
+## Friday, Nov 20 (33)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -313,16 +315,18 @@ Jump to: [Fri 27 (4)](#friday-nov-27-4) · [Thu 26 (14)](#thursday-nov-26-14) ·
 | 12:45 PM | [Case Developer](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6267643004) | Morganmorganjobsapplynow | Longwood, Florida, United States | 80 | entry level (from the text); E-Verify |
 | 12:45 PM | [engineer I, Operations Data Engineering (Seattle, WA)](https://starbucks.eightfold.ai/careers/job/481081745891) | Starbucks | Nashville, TN, US (onsite) | 90 | entry-level title; 1+ yrs exp |
 | 12:30 PM | [Seasonal Fulfillment and Receiving Support Associate, Beverly Center](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_821914) | Macy's | Los Angeles, CA, United States | 75 | entry-level title |
-| 12:11 PM | [Data Analyst I - Entry Level](https://applied.wd501.myworkdayjobs.com/applied/job/9360---PCI-Raleigh-NC/Data-Analyst-I---Entry-Level_JR105872) | Applied Fluid Power | 9360 - PCI Raleigh, NC | 75 | entry-level title |
-| 11:54 AM | [Global Cybersecurity Education and Awareness Associate](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807872) | JP Morgan Chase | Columbus, OH, United States | 75 | entry-level title |
-| 11:53 AM | [Data Specialist I](https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2356341) | Waste Management | Plymouth, MI, United States; Cleveland,… (remote) | 72 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1068)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1053)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 12:03 PM | [Founding Backend Engineer](https://jobs.ashbyhq.com/Clera/ead70504-5034-4724-81e8-dd66f85ade4b) | Clera | New York (remote) | 62 | rules: 3+ yrs exp; sponsors visas; asks for 3+ years of experience |
+| 11:58 AM | [Solutions Engineer, Ledger](https://jobs.ashbyhq.com/formance/76495d1a-c109-47a9-9ca1-ff6bf603073f) | Formance | New York | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
+| 11:52 AM | [Data Engineer (Natural Gas)](https://jobs.lever.co/kpler/e61ceaf6-c5b2-4eff-a38e-93922cc5d373) | Kpler | United States (hybrid) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| 11:36 AM | [Java Test Automation Engineer](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/214631) | Ebxr Fa Us2 Oraclecloud Com | Tampa, FL, United States | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
+| 11:21 AM | [Product Engineer (Software Engineer)](https://jobs.ashbyhq.com/Clera/17e6d532-8c3f-47b7-9504-67664a25efe0) | Clera | San Francisco (onsite) | 70 | rules: 3+ yrs exp; sponsors visas; asks for 3+ years of experience |
 | 11:19 AM (seen) | [Application Programmer / Developer  (Gov't Tech)](https://jobs.jobvite.com/sikichcareers/job/oor9Bfwj) | Sikich | United States | 30 | rules: 8+ yrs exp; needs: Public Trust clearance |
 | 11:19 AM (seen) | [Manual/Test Automation Analyst (Gov't Tech)](https://jobs.jobvite.com/sikichcareers/job/omq9Bfwg) | Sikich | United States | 30 | rules: 8+ yrs exp; needs: Public Trust clearance |
 | 11:19 AM (seen) | [SQL Developer (Gov't Tech)](https://jobs.jobvite.com/sikichcareers/job/opr9Bfwk) | Sikich | United States | 30 | rules: 13+ yrs exp; needs: Public Trust clearance |
@@ -718,10 +722,5 @@ Jump to: [Fri 27 (4)](#friday-nov-27-4) · [Thu 26 (14)](#thursday-nov-26-14) ·
 | date only | [Databricks Implementation Engineer (Temporary Assignment)](https://apply.workable.com/aretum/j/41351BEA56/) | Aretum | McLean, Virginia, United States (remote) | 42 | rules: 8+ yrs exp; needs: Secret Clearance |
 | date only | [Regulatory Analyst Coder](https://apply.workable.com/ivyhill-technologies-llc/j/516092E121/) | Ivyhill Technologies Llc | Hyattsville, Maryland, United States | 55 | rules: 3+ yrs exp; staffing/consulting firm: verify it's real; asks f… |
 | date only | [IT Cybersecurity Specialist](https://jobs.ulalaunch.com/job/Decatur-IT-Cybersecurity-Specialist-AL-35601/1453528200/) | United Launch Alliance | Decatur, AL, United States | 65 | rules: 4+ yrs exp; E-Verify; needs: Security Clearance |
-| date only | [Support Technician](https://assaabloy.jobs2web.com/job/New-Haven-Support-Technician-CT-06511/1460408833/) | ASSA ABLOY | New Haven, CT, United States | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Midstream Applications - Application Support and Enhancement Speciali…](https://careers.capgemini.com/job/Houston%2C-TX-Midstream-Applications-Application-Support-and-Enhancement-Specialist-TX-77001/1460407933/) | Capgemini | Houston, TX, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| date only | [Security Industry Specialist I, Data Center Security, US ADC Advanced…](https://www.amazon.jobs/en/jobs/10610628/security-industry-specialist-i-data-center-security-us-adc-advanced-security-system-engineering-team-asset) | Amazon Data Services, Inc. | Denver, Colorado, USA | 85 | rules: entry-level title; 2+ yrs exp; needs: Security Clearance |
-| date only | [Amazon Dedicated Cloud Engineer, ADC2S](https://www.amazon.jobs/en/jobs/10613244/amazon-dedicated-cloud-engineer-adc2s) | Amazon Development Center U.S… | Herndon, Virginia, USA | 75 | rules: 2+ yrs exp; needs: Security Clearance |
-| date only | [DC Design & Portfolio Mngt, Data Center Engineering](https://www.amazon.jobs/en/jobs/10613202/dc-design-portfolio-mngt-data-center-engineering) | Amazon Data Services, Inc. | Seattle, Washington, USA | 45 | rules: 7+ yrs exp; asks for 7+ years of experience |
 
 </details>
