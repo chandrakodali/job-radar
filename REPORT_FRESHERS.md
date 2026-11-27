@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**291 jobs**, newest first. Updated Fri Nov 27, 9:33 AM CST from 12,580 company job boards and other sources.
+**290 jobs**, newest first. Updated Fri Nov 27, 10:19 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 91 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (59)](#friday-nov-20-59)
+Coverage check: of 4,867 matching jobs that job sites and feeds listed this week, 886 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (58)](#friday-nov-20-58)
 
 ## Friday, Nov 27 (3)
 
@@ -275,7 +277,7 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 3:26 AM | [Vendor Stock Support Associate, Bellevue Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826998) | Macy's | Bellevue, WA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chandler Fashio…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826986) | Macy's | Chandler, AZ, United States | 75 | entry-level title |
 
-## Friday, Nov 20 (59)
+## Friday, Nov 20 (58)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -337,9 +339,8 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | date only | [Software Engineer](https://apply.workable.com/talentpluto/j/D3354CBA28/) | Talentpluto | San Francisco, California, United States | 63 | 1+ yrs exp; staffing/consulting firm: verify it's real |
 | 10:51 AM | [Account Developer](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77863) | Staples | Lake Mary, FL, United States (hybrid) | 80 | 1+ yrs exp |
 | 10:37 AM | [Software Engineer](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507231) | onsemi | San Jose, CA, United States | 75 | 1+ yrs exp |
-| 9:41 AM | [Test Administrator](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26766) | Pearson | Charlottetown, PE, Canada (onsite) | 80 | 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1175)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1148)
 
 <details><summary>Show</summary>
 
@@ -350,6 +351,8 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | date only | [Software Engineer, Cloud Platforms](https://nvidia.eightfold.ai/careers/job/893397606437) | Nvidia | Yokne'am Illit, North District, IL; Ra'… (onsite) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [IT Support Engineer I, OpsTech Solutions (OTS)](https://www.amazon.jobs/en/jobs/10615902/it-support-engineer-i-opstech-solutions-ots) | Amazon.com Services LLC | Castleton-on-Hudson, New York, USA | 85 | rules: entry-level title; 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Software Development Engineer, AWS Security: AWS Field Security, AWS …](https://www.amazon.jobs/en/jobs/10615936/software-development-engineer-aws-security-aws-field-security-aws-security-aws-field-security) | Amazon Web Services, Inc. | Herndon, Virginia, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
+| date only | [Business Systems Analyst (5+ years)](https://apply.workable.com/continuum-resource-network/j/B002285325/) | Continuum Resource Network | Foster City, California, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| date only | [AI Platform Engineer](https://apply.workable.com/raydar/j/68519B6BEA/) | Raydar | Chicago, Illinois, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 9:15 AM | [Front End Developer  Mid](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695433) | 235Fe811 E309 4Cf4 8059 918B1… | USA | 60 | rules: 4+ yrs exp; needs: Secret Clearance |
 | 8:02 AM | [Full Stack Engineer, Reporting & Analytics](https://jobs.ashbyhq.com/Clera/8089a3c4-8a81-4129-8667-d9ee30342b0c) | Clera | Irving (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:38 AM | [Business Applications Support Specialist](https://jobs.smartrecruiters.com/Mirantis/744000164033897-business-applications-support-specialist) | Mirantis | Campbell, CA, United States +1 more (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -364,6 +367,7 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 11:34 PM | [SAP Integration Suite Consultant](https://jobs.lever.co/jobgether/91b83770-27e1-4c7d-9260-d509c983213e) | Jobgether | US (remote) | 42 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 11:00 PM | [Security Specialist](https://careers-americansystems.icims.com/jobs/6082/security-specialist/job) | AMERICAN SYSTEMS | Washington, DC, United States | 60 | rules: 3+ yrs exp; needs: TS clearance |
 | 11:00 PM | [Security Operations Center Analyst - Mid](https://jobs.dayforcehcm.com/en-US/kgs/candidateportal/jobs/16655) | Kgs | Washington, DC, US | 60 | rules: 3+ yrs exp; needs: Public Trust Clearance |
+| 11:00 PM | [Power Apps Developer - Intermediate](https://jobs.dayforcehcm.com/en-US/asrcfh/CANDIDATEPORTAL/jobs/32145) | Asrcfh | Quantico, VA, US | 45 | rules: 5+ yrs exp; needs: Secret Clearance |
 | 5:19 PM (seen) | [Software Developer - Networking (Flow)](https://jobs.jobvite.com/nutanix/job/oCgOAfw0) | Nutanix |  | 55 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | 11:58 AM | [Developer Relations](https://jobs.ashbyhq.com/Clera/8a39dc9a-7e2b-4094-b4bf-f1a39932c756) | Clera | Palo Alto (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2030720EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -742,8 +746,5 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | date only | [Go-To-Market Support Specialist](https://autodesk.eightfold.ai/careers/job/1443154611111) | Autodesk | Denver, CO, US; Denver, CO, US (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [System Analyst- Program Scheduler (2026-0262)](https://acclaimtechnicalservices.applytojob.com/apply/bW0QzZCn9w/System-Analyst-Program-Scheduler-20260262) | Acclaim Technical Services | Chantilly, VA | 45 | rules: 8+ yrs exp; needs: security clearance |
 | date only | [Backend Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029895EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [Application Security Engineer, AWS Security](https://www.amazon.jobs/en/jobs/10613418/application-security-engineer-aws-security) | Amazon.com Services LLC | Seattle, Washington, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [Power BI Developer](https://jobs.jobvite.com/pinnaclelive/job/oSX9Bfwj) | Pinnacle Live | Arlington Heights, Illinois, United Sta… (remote) | 57 | rules: 3+ yrs exp; E-Verify; no future H-1B sponsorship; asks for 3+ … |
-| date only | [Research Data Analyst](https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/CONV_87346BR) | UCSF | San Francisco, CA, United States | 68 | rules: 2+ yrs exp; asks for 2+ years of experience |
 
 </details>
