@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**258 jobs**, newest first. Updated Fri Nov 27, 1:31 PM CST from 12,580 company job boards and other sources.
+**259 jobs**, newest first. Updated Fri Nov 27, 1:40 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 78 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (14)](#thursday-nov-26-14) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (25)](#saturday-nov-21-25) · [Fri 20 (24)](#friday-nov-20-24)
+Coverage check: of 4,974 matching jobs that job sites and feeds listed this week, 895 (17%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (15)](#thursday-nov-26-15) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (25)](#saturday-nov-21-25) · [Fri 20 (24)](#friday-nov-20-24)
 
 ## Friday, Nov 27 (5)
 
@@ -18,11 +20,12 @@ Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (14)](#thursday-nov-26-14) ·
 | date only | [Trainee Associate Engineer (Equipment)](https://globalfoundries.eightfold.ai/careers/job/563980770478456) | Globalfoundries | SG (onsite) | 75 | entry-level title; location unclear |
 | 8:26 AM | [Document Services Data Entry Specialist](https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/13178) | Computershare | Frisco, TX, United States | 75 | entry-level title |
 
-## Thursday, Nov 26 (14)
+## Thursday, Nov 26 (15)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:00 PM | [Production Support Engineer](https://jobs.dayforcehcm.com/en-US/corpay/candidateportal/jobs/57780) | Corpay | Beaverton, OR, US | 85 | 1+ yrs exp; entry level (from the text) |
+| 11:00 PM | [Queens Branch - Quality Control Unit/Project & Reporting Associate](https://careers-bocusa.icims.com/jobs/4732/queens-branch---quality-control-unit-project-%26-reporting-associate/job) | Bank of China USA | Flushing, NY, United States | 85 | entry-level title; 1+ yrs exp |
 | 5:27 PM | [Seasonal Fulfillment and Receiving Support Associate, West Covina](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_828082) | Macy's | West Covina, CA, United States | 75 | entry-level title |
 | 5:27 PM | [Seasonal Fulfillment and Receiving Support Associate, SouthPark Mall](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_828083) | Macy's | Charlotte, NC, United States | 75 | entry-level title |
 | 5:27 PM | [Seasonal Fulfillment and Receiving Support Associate, Hilldale](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_828085) | Macy's | Madison, WI, United States | 75 | entry-level title |
