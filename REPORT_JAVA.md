@@ -1,10 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**43 jobs**, newest first. Updated Fri Nov 27, 12:10 PM CST from 12,580 company job boards and other sources.
+**43 jobs**, newest first. Updated Fri Nov 27, 12:57 PM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-125 repeat listings (same company and title in another place or on another source) are merged into one row.
+111 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,685 matching jobs that job sites and feeds listed this week, 2,567 (54%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (4)](#friday-nov-20-4)
 
@@ -12,7 +14,7 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (1)](#thursday-nov-26-1) · [
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
-| 12:29 AM (seen) | [Application Developer-Java & Web Technologies](https://careers.ibm.com/careers/JobDetail?jobId=143628) | IBM | Tempe, United States +11 more (hybrid) | 50 | repost |
+| 12:29 AM (seen) | [Application Developer-Java & Web Technologies](https://careers.ibm.com/careers/JobDetail?jobId=143628) | IBM | Tempe, United States +7 more (hybrid) | 50 | repost |
 
 ## Thursday, Nov 26 (1)
 
@@ -91,7 +93,7 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (1)](#thursday-nov-26-1) · [
 | 1:19 PM | [Senior Platform Software Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351070) | Oracle | Nashville, TN, United States | 35 | senior title, years not stated; requires Java |
 | 1:06 PM | [Platform Engineering Senior Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/215254) | Ebxr Fa Us2 Oraclecloud Com | Jersey City, NJ, United States | 45 | entry-level title; senior title, years not stated; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (50)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (46)
 
 <details><summary>Show</summary>
 
@@ -135,18 +137,14 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (1)](#thursday-nov-26-1) · [
 | 6:53 PM | [Integration Engineer](https://job-boards.greenhouse.io/oddball/jobs/8213812003) | Oddball | Remote (remote) | 47 | rules: requires Java; needs: security clearance |
 | 6:28 PM | [Software Engineer - Dealer Network & Employee Engagement](https://ford.eightfold.ai/careers/job/563568453660332) | Ford | Dearborn, MI, US (onsite) | 35 | rules: 7+ yrs exp; requires Java; asks for 7+ years of experience |
 | 6:28 PM | [Software Engineer - Dealer Network & Employee Engagement](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68465) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 35 | rules: 7+ yrs exp; requires Java; asks for 7+ years of experience |
-| 3:30 PM | [Full Stack Software Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8949cc25-4fea-4ac4-8c83-7034b9396075&ccId=19000101_000001&jobId=274406212702_2&lang=en_US) | 8949Cc25 4Fea 4Ac4 8C83 7034B… | Germantown, MD; Woburn, MA | 50 | rules: requires Java; needs: security clearance |
 | 3:14 PM | [Sr. Application Security Engineer](https://jobs.lever.co/prosper/b907c840-14c0-4d84-9649-4417b3e323ed) | Prosper Funding | United States (remote) | 27 | rules: 6+ yrs exp; senior title; requires Java; asks for 6+ years of … |
 | 2:56 PM | [Full-Stack Software Engineer, SaaS & Low-Code Platforms](https://jobs.smartrecruiters.com/Versant3/744000162818799-full-stack-software-engineer-saas-low-code-platforms) | Versant | Englewood Cliffs, NEW JERSEY, United St… (hybrid) | 35 | rules: 5+ yrs exp; requires Java; asks for 5+ years of experience |
-| 11:59 AM | [Full-Stack Software Engineer](https://ford.eightfold.ai/careers/job/563568454184726) | Ford | Dearborn, MI, US (onsite) | 35 | rules: 5+ yrs exp; requires Java; asks for 5+ years of experience |
 | 11:59 AM | [Full-Stack Software Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74134) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 35 | rules: 5+ yrs exp; requires Java; asks for 5+ years of experience |
 | 11:02 AM | [Sr AWS Cloud Integration Engineer - Remote](https://weworkremotely.com/remote-jobs/coderio-sr-aws-cloud-integration-engineer-remote) | Coderio | Remote, US (Americas Only) (remote) | 27 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
 | date only | [Cloud Software Engineer](https://jobs.jobvite.com/visionist/job/oeb8AfwR) | Visionist | Columbia, MD, United States; Laurel, MD… | 30 | rules: 6+ yrs exp; requires Java; needs: security clearance |
 | date only | [Full-Stack Software Engineer](https://jobs.jobvite.com/visionist/job/oFb8Afwi) | Visionist | Columbia, MD, United States | 30 | rules: 14+ yrs exp; requires Java; needs: security clearance |
 | date only | [Senior Back End Java Developer](https://citi.eightfold.ai/careers/job/859039051648) | Citi | Tampa, FL, US (hybrid) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Software Engineer](https://apply.workable.com/amerisave/j/28E64F6DBB/) | Amerisave | United States (remote) | 15 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
-| 5:54 PM | [Developer/Programmer Analyst - Hybrid/Onsite – Austin, TX](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4c9a1f1d-ff7a-41e9-9b4a-aecb5ca84ec4&ccId=19000101_000001&jobId=9201697189343_34&lang=en_US) | 4C9A1F1D Ff7A 41E9 9B4A Aecb5… | Falls Church, VA | 23 | rules: 8+ yrs exp; requires Java; asks for 8+ years of experience |
-| 3:39 PM | [Senior Java Software Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6c0f07f7-5d5e-40a8-8e01-433d1c743d19&ccId=19000101_000001&jobId=9205252460254_9&lang=en_US) | 6C0F07F7 5D5E 40A8 8E01 433D1… | Annapolis Junction, MD | 30 | rules: 8+ yrs exp; senior title; needs: TS/SCI Clearance |
 
 </details>
 
