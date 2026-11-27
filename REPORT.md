@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**121 jobs**, newest first. Updated Fri Nov 27, 11:19 AM CST from 12,580 company job boards and other sources.
+**123 jobs**, newest first. Updated Fri Nov 27, 11:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 138 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (20)](#friday-nov-20-20)
+Coverage check: of 3,421 matching jobs that job sites and feeds listed this week, 2,228 (65%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (20)](#friday-nov-20-20)
 
 ## Friday, Nov 27 (3)
 
@@ -16,11 +18,12 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (8)](#thursday-nov-26-8) · [
 | 10:54 AM | [Security Engineer II - Endpoint Security Platforms (Employee Compute …](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809992) | JP Morgan Chase | OH, United States | 55 | 3+ yrs exp |
 | 7:12 AM | [DevOps Engineer](https://sportec-solutions.jobs.personio.de/job/2909928) | Sportec Solutions Jobs Person… | Unterföhring | 70 | 2+ yrs exp; location unclear |
 
-## Thursday, Nov 26 (8)
+## Thursday, Nov 26 (9)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 11:37 PM (seen) | [SRE II – (Enterprise Technical Support Linux Virtualizations / Networ…](https://jobs.jobvite.com/nutanix/job/oAFMzfwk) | Nutanix |  | 35 | 4+ yrs exp; location unclear |
+| 11:00 PM | [Production Support Engineer](https://jobs.dayforcehcm.com/en-US/corpay/candidateportal/jobs/57780) | Corpay | Beaverton, OR, US | 60 | 1+ yrs exp |
 | date only | [Infrastructure Engineer](https://apply.workable.com/raydar/j/4EE5E20CFC/) | Raydar | San Francisco, California, United States | 75 | 1+ yrs exp; repost |
 | date only | [Security Engineer II, AWS Cloud Security Response](https://www.amazon.jobs/en/jobs/10615105/security-engineer-ii-aws-cloud-security-response) | Amazon.com Services LLC | Herndon, Virginia, USA | 55 | 3+ yrs exp |
 | date only | [AWS Console Specialist](https://apply.workable.com/weekday-1/j/E5C66BD7D5/) | Weekday AI | United States (remote) | 62 |  |
@@ -90,7 +93,7 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (8)](#thursday-nov-26-8) · [
 | 12:12 AM | [Senior Devops Engineer](https://www.ycombinator.com/companies/storylane/jobs/2jBUKjt-senior-devops-engineer) | Storylane | Remote (US) (remote) | 45 | 4+ yrs exp; senior title |
 | 12:00 AM | [Middleware Engineer – DevOps / OpenShift](https://jobs.dayforcehcm.com/en-US/asrcfh/CANDIDATEPORTAL/jobs/32102) | Asrcfh | Arlington, VA, US | 65 |  |
 
-## Monday, Nov 23 (32)
+## Monday, Nov 23 (33)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -109,6 +112,7 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (8)](#thursday-nov-26-8) · [
 | 12:45 PM | [Research Infrastructure System Administrator](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017041495-research-infrastructure-system-administrator) | Harvard University | Boston, MA, United States (hybrid) | 80 | 2+ yrs exp; no future H-1B sponsorship; likely H-1B cap-exempt (verif… |
 | 12:30 PM | [Cloud Migration Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351151) | Oracle | United States | 60 |  |
 | 12:19 PM | [Senior Systems Development Engineer](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301713) | Dell Technologies | Austin, TX, United States (onsite) | 60 | 3+ yrs exp; senior title |
+| 12:09 PM | [Senior DevOps Engineer](https://jobs.ashbyhq.com/semperis/1b0b20d0-abbb-410a-91b0-923a06160a5c) | Semperis | Toronto; Dallas, TX (hybrid) | 65 | 4+ yrs exp; senior title |
 | 11:58 AM | [Associate Platform Engineer](https://job-boards.greenhouse.io/koddi/jobs/8944760002) | Koddi | Fort Worth, Texas | 75 | entry-level title |
 | 11:00 AM | [Systems Development Engineer](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301710) | Dell Technologies | Austin, TX, United States (onsite) | 60 | 3+ yrs exp |
 | date only | [Cloud Engineer, AI Expert](https://apply.workable.com/weekday-1/j/951BAFA3EA/) | Weekday AI | United States (remote) | 57 | 3+ yrs exp |
@@ -169,13 +173,14 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (8)](#thursday-nov-26-8) · [
 | 12:17 PM | [Infrastructure Support Engineer](https://job-boards.greenhouse.io/cooksys/jobs/5487003008) | Cook Systems | San Antonio, Texas | 60 | 4+ yrs exp |
 | 12:05 PM | [Platform Infrastructure Engineer II](https://job-boards.greenhouse.io/braze/jobs/8399184) | Braze | New York City | 55 | 4+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (268)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (267)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 5:00 PM | [Senior Network Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695558) | Soliel LLC | Laurel, MD, United States | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| 11:21 AM | [Senior SRE](https://boards.greenhouse.io/accenturefederalservices/jobs/4732513006?gh_jid=4732513006) | Accenture | San Antonio, TX | 35 | rules: 6+ yrs exp; senior title; no future H-1B sponsorship; needs: P… |
 | date only | [AI Platform Engineer](https://apply.workable.com/raydar/j/68519B6BEA/) | Raydar | Chicago, Illinois, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:07 AM (seen) | [Systems Reliability Engineer II](https://jobs.jobvite.com/nutanix/job/oXCVAfwO) | Nutanix |  | 20 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
 | 12:09 AM | [Senior Technical Consultant - Enterprise Platform Engineering - Remot…](https://jobs.lever.co/jobgether/3776f828-caf0-41ae-8346-95521603d1ab) | Jobgether | San Francisco Bay Area +1 more (remote) | 42 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
@@ -388,9 +393,7 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (8)](#thursday-nov-26-8) · [
 | 11:47 AM | [Network Administrator](https://job-boards.greenhouse.io/aegworldwide/jobs/8948571002) | AEG | Nashville, TN | 55 | rules: 2+ yrs exp; no future H-1B sponsorship; adjacent title, little… |
 | 11:47 AM | [Business Systems Administrator](https://jobs.smartrecruiters.com/AIRCommunities/744000162791959-business-systems-administrator) | AIRCommunities | Denver, CO, United States | 45 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | 11:36 AM | [Site Reliability Engineer](https://job-boards.greenhouse.io/oddball/jobs/8210795003) | Oddball | Remote (remote) | 62 | rules: needs: security clearance |
-| 11:24 AM | [Platform Engineer (Kubernetes)](https://jobs.ashbyhq.com/Clera/f6fb829e-bdcd-4a37-922d-7f8834db3db0) | Clera | San Francisco (onsite) | 55 | rules: 5+ yrs exp; sponsors visas; asks for 5+ years of experience |
-| 11:22 AM | [Spring 2027 Start - Undergrad Software Engineer - Oracle Cloud Infras…](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350824) | Oracle | Nashville, TN, United States | 40 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 11:19 AM | [Founding Infrastructure Engineer](https://jobs.ashbyhq.com/Clera/50c3c9d2-4ca5-4c5e-97bd-230df5f30301) | Clera | San Francisco (onsite) | 55 | rules: 9+ yrs exp; sponsors visas; asks for 9+ years of experience |
+| 11:22 AM | [Spring 2027 Start - Undergrad Software Engineer - Oracle Cloud Infras…](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/job/350824) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States | 40 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [DevOps Engineers](https://arteratechnologies.applytojob.com/apply/9C33Mdrgxl/DevOps-Engineers) | Artera Technologies | Annapolis Junction / Fort Meade, MD | 45 | rules: 8+ yrs exp; needs: Security Clearance |
 | date only | [Cloud Software Engineer](https://jobs.jobvite.com/visionist/job/oeb8AfwR) | Visionist | Columbia, MD, United States; Laurel, MD… | 45 | rules: 6+ yrs exp; needs: security clearance |
 | date only | [Network Engineer](https://morristechnology.bamboohr.com/careers/443) | Morristechnology | Springfield, Illinois | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
