@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**123 jobs**, newest first. Updated Fri Nov 27, 11:49 AM CST from 12,580 company job boards and other sources.
+**122 jobs**, newest first. Updated Fri Nov 27, 12:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 138 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (20)](#friday-nov-20-20)
+Coverage check: of 3,421 matching jobs that job sites and feeds listed this week, 2,228 (65%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (19)](#friday-nov-20-19)
 
 ## Friday, Nov 27 (3)
 
@@ -146,7 +148,7 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | date only | [AI Platform Developer - MCP & Agentic Infrastructure](https://jobs.adidas-group.com/job/Zaragoza-AI-Platform-Developer-MCP-&-Agentic-Infrastructure-Aragon/1459256433/) | Adidas |  | 43 | 3+ yrs exp; location unclear |
 | 1:28 AM | [Purchasing Operations Analyst, Infrastructure Services](https://jobs.apple.com/en-us/details/200696405/purchasing-operations-analyst-infrastructure-services) | Apple | United States of America | 65 |  |
 
-## Friday, Nov 20 (20)
+## Friday, Nov 20 (19)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -169,7 +171,6 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | 12:32 PM | [Senior CloudOps Engineer (Network Engineer)](https://weworkremotely.com/remote-jobs/wrike-senior-cloudops-engineer-network-engineer) | Wrike | Remote, US (Anywhere in the World) (remote) | 40 | senior title, years not stated |
 | 12:19 PM | [Sr Software Engineer - LLM Evaluation and Test Infrastructure](https://jobs.apple.com/en-us/details/200695921/sr-software-engineer-llm-evaluation-and-test-infrastructure) | Apple | United States of America | 55 | senior title, years not stated |
 | 12:17 PM | [Infrastructure Support Engineer](https://job-boards.greenhouse.io/cooksys/jobs/5487003008) | Cook Systems | San Antonio, Texas | 60 | 4+ yrs exp |
-| 12:05 PM | [Platform Infrastructure Engineer II](https://job-boards.greenhouse.io/braze/jobs/8399184) | Braze | New York City | 55 | 4+ yrs exp |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (267)
 
