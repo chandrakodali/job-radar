@@ -1,17 +1,20 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**314 jobs**, newest first. Updated Thu Nov 26, 8:33 PM CST from 12,580 company job boards and other sources.
+**314 jobs**, newest first. Updated Thu Nov 26, 9:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-95 repeat listings (same company and title in another place or on another source) are merged into one row.
+96 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (7)](#thursday-nov-19-7)
+Coverage check: of 4,432 matching jobs that job sites and feeds listed this week, 846 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Friday, Nov 27 (1)
+Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (7)](#thursday-nov-19-7)
+
+## Friday, Nov 27 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| date only | [Post Merger Integration Associate](https://apply.workable.com/planetart/j/2389A0FD9F/) | PlanetArt | Calabasas, California, United States | 85 | entry-level title; 1+ yrs exp; repost |
 | date only | [Trainee Associate Engineer (Equipment)](https://globalfoundries.eightfold.ai/careers/job/563980770478456) | Globalfoundries | SG (onsite) | 75 | entry-level title; location unclear |
 
 ## Thursday, Nov 26 (13)
@@ -243,7 +246,7 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Eugene Valley R…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827218) | Macy's | Eugene, OR, United States | 75 | entry-level title |
 | 3:26 AM | [Administrative Support Team Associate, Beverly Center - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827120) | Macy's | Los Angeles, CA, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Saturday, Nov 21 (27)
+## Saturday, Nov 21 (26)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -265,7 +268,6 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 5:29 PM | [Seasonal Fulfillment and Receiving Support Associate, Mall at Robinso…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827106) | Macy's | Pittsburgh, PA, United States | 75 | entry-level title |
 | date only | [IT Support Specialist I (Horseshoe) - Las Vegas](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92196) | Caesars Entertainment | Las Vegas, NV, United States (onsite) | 90 | entry-level title; 1+ yrs exp |
 | date only | [FBS (Mexico) - MarTech Quality Assurance Specialist](https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-MarTech-Quality-Assurance-Specialist/1378095457/) | Farmers Insurance |  | 70 | 1+ yrs exp; no future H-1B sponsorship |
-| date only | [Post Merger Integration Associate](https://apply.workable.com/planetart/j/39EC1C1CD2/) | PlanetArt | Calabasas, California, United States | 85 | entry-level title; 1+ yrs exp; repost |
 | date only | [Title: Platform Solutions Associate](https://careers.mediaocean.com/Innovid/job/Buenos-Aires-Platform-Solutions-Associate/1454055500/) | Mediaocean |  | 58 | entry-level title; location unclear |
 | 5:29 AM | [Administrative Support Associate](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017021926-administrative-support-associate) | Cityofnewyork | New York City, NY, United States | 75 | entry-level title |
 | 5:14 AM | [Automation Engineer, Dealership Integrations](https://jobs.ashbyhq.com/Clera/bee0e82d-889f-47eb-b310-2f50b8ad9954) | Clera | San Francisco (onsite) | 80 | entry level (from the text) |
@@ -367,7 +369,7 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 11:00 PM | [Home Community Support Associate- Millcreek of Grenada; Hours varied](https://facilityjobs-acadiahealthcare.icims.com/jobs/110381/home-community-support-associate--millcreek-of-grenada--hours-varied/job) | Acadia Healthcare | Grenada, MS, United States | 75 | entry-level title |
 | 10:04 PM | [Software Development Engineer-1](https://ericsson.eightfold.ai/careers/job/563121777588433) | Ericsson | Boise, ID, US (onsite) | 85 | entry-level title; 0-2 yrs exp; no future H-1B sponsorship |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1216)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1214)
 
 <details><summary>Show</summary>
 
@@ -521,6 +523,7 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | date only | [Embedded Software Engineer - RISCV](https://nvidia.eightfold.ai/careers/job/893395554164) | Nvidia | Santa Clara, CA, US (onsite) | 43 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Full Stack Developer](https://citi.eightfold.ai/careers/job/859039175584) | Citi | Irving, TX, US (hybrid) | 58 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [SMTS Application Engineering](https://globalfoundries.eightfold.ai/careers/job/563980770937013) | Globalfoundries | Richardson, TX, US; Austin, TX, US (onsite) | 43 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| date only | [DGX NPI System Product Development Engineer](https://nvidia.eightfold.ai/careers/job/893394833169) | Nvidia | Santa Clara, CA, US (onsite) | 43 | rules: 12+ yrs exp; asks for 12+ years of experience |
 | 10:53 AM | [Embedded Implementation Consultant](https://www.brex.com/careers/8962370002?gh_jid=8962370002) | Brex | Seattle, Washington, United States +3 m… | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 10:45 AM | [Cybersecurity Engineer, Product Cybersecurity](https://jobs.smartrecruiters.com/Wabtec/3743990017091891-cybersecurity-engineer-product-cybersecurity) | Wabtec | Erie, PA, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:42 AM | [IT Onsite Support Technician](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000163730304-it-onsite-support-technician) | Bertelsmann | Pleasant-Prairie, Wisconsin (WI), Unite… | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -772,6 +775,5 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 9:47 AM | [Data & AI Solutions Consultant](https://jobs.smartrecruiters.com/VusionGroupSA/744000163492579-data-ai-solutions-consultant) | Vusion | Dallas, TX, United States (remote) | 57 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 9:35 AM | [M365 Front-end Developer, Web Publisher](https://job-boards.greenhouse.io/devtechnology/jobs/8958794002) | Dev Technology Group | Reston, VA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 9:26 AM | [Quality Assurance Engineer](https://jobs.ashbyhq.com/saronic/1ef2c166-09df-4eaf-9070-b41fe271e5b5) | Saronic | Austin, TX (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 9:23 AM | [Mobile Service Technician, Charlotte](https://lucidmotors.com/careers/search/5280328007?gh_jid=5280328007) | Lucid Motors | Charlotte, NC | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 
 </details>
