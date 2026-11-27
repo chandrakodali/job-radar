@@ -1,17 +1,20 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**139 jobs**, newest first. Updated Thu Nov 26, 11:19 PM CST from 12,580 company job boards and other sources.
+**140 jobs**, newest first. Updated Thu Nov 26, 11:37 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 161 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (43)](#friday-nov-20-43)
+Coverage check: of 3,193 matching jobs that job sites and feeds listed this week, 2,068 (64%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Thursday, Nov 26 (7)
+Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (43)](#friday-nov-20-43)
+
+## Thursday, Nov 26 (8)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:37 PM (seen) | [SRE II – (Enterprise Technical Support Linux Virtualizations / Networ…](https://jobs.jobvite.com/nutanix/job/oAFMzfwk) | Nutanix |  | 35 | 4+ yrs exp; location unclear |
 | date only | [Infrastructure Engineer](https://apply.workable.com/raydar/j/4EE5E20CFC/) | Raydar | San Francisco, California, United States | 75 | 1+ yrs exp; repost |
 | date only | [Security Engineer II, AWS Cloud Security Response](https://www.amazon.jobs/en/jobs/10615105/security-engineer-ii-aws-cloud-security-response) | Amazon.com Services LLC | Herndon, Virginia, USA | 55 | 3+ yrs exp |
 | date only | [AWS Console Specialist](https://apply.workable.com/weekday-1/j/E5C66BD7D5/) | Weekday AI | United States (remote) | 62 |  |
@@ -182,12 +185,13 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 12:37 AM (seen) | [Systems Reliability Engineer II- Technical Support, Virtualization, L…](https://jobs.jobvite.com/nutanix/job/o2kQzfwv) | Nutanix |  | 35 | 4+ yrs exp; location unclear |
 | 12:00 AM | [Senior Platform Security Engineer](https://weworkremotely.com/remote-jobs/discord-senior-platform-security-engineer) | Discord | Remote, US (Anywhere in the World) (remote) | 52 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (297)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (298)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 11:37 PM (seen) | [SRE II (Enterprise Technical Support Linux Virtualizations / Network)…](https://jobs.jobvite.com/nutanix/job/osBVAfwi) | Nutanix |  | 20 | rules: 7+ yrs exp; location unclear; asks for 7+ years of experience |
 | date only | [AI Infrastructure Engineer - NVIS](https://nvidia.eightfold.ai/careers/job/893398972095) | Nvidia | TX,US; Washington, DC, US; US; TN,US (remote) | 37 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 7:07 AM (seen) | [Senior Technical Support Engineer (SRE)](https://jobs.jobvite.com/nutanix/job/oajSAfwF) | Nutanix |  | 25 | rules: 8+ yrs exp; senior title; location unclear; asks for 8+ years … |
 | 4:25 AM | [CI/CD Engineer - Remote (San Francisco Bay Area)](https://jobs.lever.co/jobgether/93da3915-8c11-468f-9946-2eae5fef4791) | Jobgether | San Francisco Bay Area +5 more (remote) | 27 | rules: 10+ yrs exp; asks for 10+ years of experience |
