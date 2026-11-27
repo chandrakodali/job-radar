@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**259 jobs**, newest first. Updated Fri Nov 27, 1:19 PM CST from 12,535 company job boards and other sources.
+**258 jobs**, newest first. Updated Fri Nov 27, 1:31 PM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 78 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,974 matching jobs that job sites and feeds listed this week, 895 (17%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (14)](#thursday-nov-26-14) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (25)](#saturday-nov-21-25) · [Fri 20 (25)](#friday-nov-20-25)
+Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (14)](#thursday-nov-26-14) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (25)](#saturday-nov-21-25) · [Fri 20 (24)](#friday-nov-20-24)
 
 ## Friday, Nov 27 (5)
 
@@ -279,7 +277,7 @@ Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (14)](#thursday-nov-26-14) ·
 | 3:26 AM | [Vendor Stock Support Associate, Bellevue Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826998) | Macy's | Bellevue, WA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chandler Fashio…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826986) | Macy's | Chandler, AZ, United States | 75 | entry-level title |
 
-## Friday, Nov 20 (25)
+## Friday, Nov 20 (24)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -307,7 +305,6 @@ Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (14)](#thursday-nov-26-14) ·
 | 2:27 PM (seen) | [Founding Software Engineer](https://app.dover.com/apply/ko-br/b60edf75-31f2-4b96-9c0f-a03243b0f6fd) | Ko Br | London, United Kingdom; Cairo, Egypt; S… (onsite) | 65 | entry level (from the text) |
 | 2:27 PM (seen) | [Full Stack Developer](https://app.dover.com/apply/recap/f595d9f1-2470-4c80-b0b8-c1eb053fc620) | Recap | Clifton, NJ; New York City, NY (hybrid) | 65 | 1+ yrs exp |
 | 2:02 PM | [Cyber Defense Associate Engineer (1041) - Department of Technology](https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990017013773-cyber-defense-associate-engineer-1041-department-of-technology) | City and County of San Franci… | San Francisco, CA, United States | 85 | entry-level title; 1+ yrs exp |
-| 1:26 PM | [Laboratory Support Technician-(entry-level), Eurofins Environment Tes…](https://jobs.smartrecruiters.com/Eurofins/744000162807529-laboratory-support-technician-entry-level-eurofins-environment-testing-earth-city-mo) | Eurofins | Earth City, MO, United States | 70 | entry-level title; no future H-1B sponsorship |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1022)
 
