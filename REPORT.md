@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**136 jobs**, newest first. Updated Fri Nov 27, 9:37 AM CST from 12,535 company job boards and other sources.
+**136 jobs**, newest first. Updated Fri Nov 27, 9:49 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 155 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,372 matching jobs that job sites and feeds listed this week, 2,197 (65%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (37)](#friday-nov-20-37)
 
@@ -186,7 +184,7 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (8)](#thursday-nov-26-8) · [
 | 10:55 AM | [IT Systems Administrator, Field Intelligence](https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/IT-Systems-Administrator--Field-Intelligence_JR102790) | Brookhaven Lab | Upton, NY | 50 |  |
 | 10:07 AM (seen) | [Infrastructure Specialist-AWS DevOps](https://careers.ibm.com/careers/JobDetail?jobId=143901) | IBM | TUCSON, United States (hybrid) | 50 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (285)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (279)
 
 <details><summary>Show</summary>
 
@@ -426,8 +424,6 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (8)](#thursday-nov-26-8) · [
 | 10:07 AM (seen) | [Service Engineer (DevSecOps) I](https://cloudfitsoftware.applytojob.com/apply/hcfMPAEITQ/Service-Engineer-DevSecOps-I) | CloudFit Software | Lynchburg, VA | 65 | rules: 0-2 yrs exp; E-Verify; needs: security clearance |
 | 9:59 AM | [Network Administrator](https://jobs.lever.co/sunsrce/2f48fb20-acd4-42d7-aa93-07b7e0b0b798) | SunSource | 2301 Windsor Ct. Addison, IL 60101 (onsite) | 55 | rules: 3+ yrs exp; E-Verify; adjacent title, little DevOps/cloud work… |
 | 9:40 AM | [Cloud Adoption Engineer - Security and ATO Process](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350673) | Oracle | Reston, VA, United States; Washington, … | 40 | rules: 8+ yrs exp; needs: U.S. citizenship is required |
-| 9:28 AM | [Senior Cloud Security Engineer, FedRAMP](https://jobs.ashbyhq.com/sentilink/99060cec-96a4-49aa-8d51-099e2ca8bb5f) | SentiLink | United States (remote) | 42 | rules: 5+ yrs exp; senior title; needs: U.S. citizenship is required |
-| 9:22 AM | [Systems Engineer – Research Infrastructure & Lab Platforms](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/296668) | Dell Technologies | Mclean, VA, United States | 40 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 11:00 PM | [Cloud Engineer](https://careers-steampunk.icims.com/jobs/9079/cloud-engineer/job) | Steampunk | McLean, VA, United States | 50 | rules: 5+ yrs exp; E-Verify; needs: Security Clearance |
 | 11:00 PM | [Network Engineer](https://careers-steeldynamics.icims.com/jobs/9245/network-engineer/job) | Steel Dynamics | Sinton, TX, United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Senior Network Engineer, Implementation](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/921) | Eci | Dallas, TX, US; NY, US | 30 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
@@ -453,11 +449,7 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (8)](#thursday-nov-26-8) · [
 | date only | [Senior Automation Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893398829768) | Nvidia | CA,US; GA,US; TX,US; AZ,US (remote) | 30 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | date only | [Senior Production Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893397975884) | Nvidia | Santa Clara, CA, US; US (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Sr. Software Developer - Platform Engineering](https://apply.workable.com/toyota-tsusho-systems/j/206E96F819/) | Toyota Tsusho Systems | Plano, Texas, United States | 33 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| 10:21 AM | [Senior F5 Network Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678604) | 6166Aed4 Af42 4762 99E4 5D67A… | MD, USA | 30 | rules: 8+ yrs exp; senior title; needs: security clearance |
 | 8:28 PM | [Network Engineer III- Hybrid Schedule - Green Bay, WI](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=55888d88-cf09-47e9-99b5-cdf86a66592a&ccId=19000101_000001&jobId=9205261686932_110&lang=en_US) | 55888D88 Cf09 47E9 99B5 Cdf86… | Green Bay, WI | 23 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
-| 3:12 PM | [Mid Linux Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676907) | 6166Aed4 Af42 4762 99E4 5D67A… | USA | 43 | rules: needs: Secret Clearance |
-| 3:06 PM | [Senior Linux Systems Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676869) | 6166Aed4 Af42 4762 99E4 5D67A… | USA (remote) | 20 | rules: 10+ yrs exp; senior title; needs: Secret Clearance |
-| 2:33 PM | [Systems Administrator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676674) | 6166Aed4 Af42 4762 99E4 5D67A… | USA | 53 | rules: 2+ yrs exp; needs: Secret Clearance |
 | 1:57 PM | [Lab IT/OT Systems Administrator - CONTRACT, Cambridge, MA](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=567e686e-7575-49d9-b29f-985e7365f987&ccId=19000101_000001&jobId=9202921583278_1&lang=en_US) | 567E686E 7575 49D9 B29F 985E7… | Cambridge, MA | 38 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | date only | [Vehicle Telematics System Administrator](https://apply.edisoncareers.com/job/Pomona-Vehicle-Telematics-System-Administrator-CA-91767/1451875200/) | Edison International | Pomona, CA, United States | 18 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Cloud Network Engineer](https://apply.workable.com/amerisave/j/68D7A695BF/) | Amerisave | United States (remote) | 30 | rules: 7+ yrs exp; asks for 7+ years of experience |
