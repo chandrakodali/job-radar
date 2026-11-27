@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**116 jobs**, newest first. Updated Fri Nov 27, 4:37 PM CST from 12,535 company job boards and other sources.
+**116 jobs**, newest first. Updated Fri Nov 27, 4:50 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-112 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,535 matching jobs that job sites and feeds listed this week, 2,295 (64%) were already found on the employers' own boards; the rest are listed from those sources.
+106 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Jump to: [Fri 27 (6)](#friday-nov-27-6) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (10)](#friday-nov-20-10)
 
@@ -166,7 +164,7 @@ Jump to: [Fri 27 (6)](#friday-nov-27-6) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | 5:27 PM | [Senior Platform Engineer](https://jobs.lever.co/megaport/33d99a13-2ef8-45c3-8d07-8e19e1f78358) | Megaport | United States of America (remote) | 40 | senior title, years not stated |
 | 5:24 PM | [MLOps / DevOps Engineer – AI Infrastructure](https://jobs.ashbyhq.com/creatoriq/5ab10a53-1772-470b-aef6-41bf16574412) | Creatoriq | New York; New Jersey; Los Angeles; San … | 60 | 3+ yrs exp; repost |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (203)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (201)
 
 <details><summary>Show</summary>
 
@@ -358,8 +356,6 @@ Jump to: [Fri 27 (6)](#friday-nov-27-6) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | 8:04 PM | [Embedded Linux Platform Engineer](https://jobs.ashbyhq.com/Elveo/c322ee1d-81e1-4931-b4f0-62491cda358e) | Elveo | Chantilly, VA (onsite) | 70 | rules: needs: ITAR |
 | 7:53 PM | [Distributed Systems Engineer - Network Services](https://boards.greenhouse.io/cloudflare/jobs/8401112?gh_jid=8401112) | Cloudflare | Hybrid (hybrid) | 55 | rules: location unclear; no future H-1B sponsorship; priority company… |
 | 5:05 PM | [Senior Network Engineer - PCLOB](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684078) | 33704Aa8 8475 45E8 B8A8 55E4D… | DC, USA | 30 | rules: 7+ yrs exp; senior title; needs: security clearance |
-| 4:32 PM | [Senior AI Platform Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162830031-senior-ai-platform-engineer) | ServiceNow | West Palm Beach, Florida, United States (hybrid) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| date only | [Senior Silicon Reliability Engineer](https://nvidia.eightfold.ai/careers/job/893398849210) | Nvidia | Santa Clara, CA, US (onsite) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Software Engineering Technical Leader, Forward Deployment Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2032564EXTERNALENGLOBAL) | Cisco | San Francisco, California, United State… | 18 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Guidewire PolicyCenter Cloud API & SOLR Search Engineer](https://careers.capgemini.com/job/New-York%2C-NY-Guidewire-PolicyCenter-Cloud-API-&-SOLR-Search-Engineer-NY-10001/1459413233/) | Capgemini | New York, NY, United States | 38 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [US E – GPS – Consulting Services – Sr. AWS Infrastructure/DevOps Engi…](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-AWS-Infrastructure-DevOps-Engineer/376091) | Deloitte US |  | 23 | rules: 6+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
