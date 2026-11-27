@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**314 jobs**, newest first. Updated Thu Nov 26, 7:31 PM CST from 12,580 company job boards and other sources.
+**314 jobs**, newest first. Updated Thu Nov 26, 8:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 95 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,432 matching jobs that job sites and feeds listed this week, 846 (19%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (7)](#thursday-nov-19-7)
 
@@ -367,7 +369,7 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 11:00 PM | [Home Community Support Associate- Millcreek of Grenada; Hours varied](https://facilityjobs-acadiahealthcare.icims.com/jobs/110381/home-community-support-associate--millcreek-of-grenada--hours-varied/job) | Acadia Healthcare | Grenada, MS, United States | 75 | entry-level title |
 | 10:04 PM | [Software Development Engineer-1](https://ericsson.eightfold.ai/careers/job/563121777588433) | Ericsson | Boise, ID, US (onsite) | 85 | entry-level title; 0-2 yrs exp; no future H-1B sponsorship |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1221)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1216)
 
 <details><summary>Show</summary>
 
@@ -398,6 +400,7 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 11:12 PM | [Automation Engineer Remote (Seattle)](https://jobs.lever.co/jobgether/0bb17038-c3a5-4191-a7d5-d94346456ba4) | Jobgether | Seattle, WA +4 more (remote) | 42 | rules: 10+ yrs exp; needs: Public Trust clearance |
 | 11:06 PM | [Fullstack Application Engineer (Copy)](https://jobs.gem.com/instrumental-inc-/am9icG9zdDrevEBfi1UOt9rGp9aZflUL) | Instrumental Inc | Palo Alto, CA (hybrid) | 80 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 11:05 PM | [Automation Engineer](https://jobs.lever.co/jobgether/94e43abf-3c48-4b99-818b-a17438ca6790) | Jobgether | US (remote) | 42 | rules: 10+ yrs exp; needs: Public Trust clearance |
+| 11:00 PM | [IT Support Professional](https://careers-lynker.icims.com/jobs/1861/it-support-professional/job) | Lynker | United States (remote) | 77 | rules: 2+ yrs exp; E-Verify; needs: security clearance |
 | 8:06 PM | [Cloud Engineer (AI)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a514fa2f-d9f3-4d40-99fb-28d956698e2f&ccId=19000101_000001&jobId=9201318665857_111&lang=en_US) | A514Fa2F D9F3 4D40 99Fb 28D95… | Washington, DC | 45 | rules: 8+ yrs exp; needs: Secret clearance |
 | 7:54 PM | [Data Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a514fa2f-d9f3-4d40-99fb-28d956698e2f&ccId=19000101_000001&jobId=9201318665986_50&lang=en_US) | A514Fa2F D9F3 4D40 99Fb 28D95… | Washington, DC | 45 | rules: 10+ yrs exp; needs: Secret clearance |
 | 7:14 PM | [Security Engineer](https://jobs.ashbyhq.com/speak/72f49e30-a0bc-4081-bcfe-16bdd7181ccc) | Speak | San Francisco (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -772,6 +775,5 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 9:35 AM | [M365 Front-end Developer, Web Publisher](https://job-boards.greenhouse.io/devtechnology/jobs/8958794002) | Dev Technology Group | Reston, VA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 9:26 AM | [Quality Assurance Engineer](https://jobs.ashbyhq.com/saronic/1ef2c166-09df-4eaf-9070-b41fe271e5b5) | Saronic | Austin, TX (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 9:23 AM | [Mobile Service Technician, Charlotte](https://lucidmotors.com/careers/search/5280328007?gh_jid=5280328007) | Lucid Motors | Charlotte, NC | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| 9:19 AM | [Security Engineer](https://job-boards.greenhouse.io/pdtpartners/jobs/8414133) | PDT Partners | New York | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
