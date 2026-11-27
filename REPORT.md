@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**118 jobs**, newest first. Updated Fri Nov 27, 1:37 PM CST from 12,535 company job boards and other sources.
+**118 jobs**, newest first. Updated Fri Nov 27, 1:50 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-114 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,474 matching jobs that job sites and feeds listed this week, 2,260 (65%) were already found on the employers' own boards; the rest are listed from those sources.
+113 repeat listings (same company and title in another place or on another source) are merged into one row.
 
 Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (13)](#friday-nov-20-13)
 
@@ -110,7 +108,7 @@ Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | 3:30 PM | [Hardware Reliability Engineer - Remote - Personalized AI Compute HW S…](https://jobs.gem.com/blazetalent/am9icG9zdDosA2HthkYUnzJwiMki35CA) | Blazetalent | Remote (remote) | 42 | staffing/consulting firm: verify it's real |
 | 2:08 PM | [Assoc. Cloud FinOps - Microsoft Specialist](https://job-boards.greenhouse.io/trace3/jobs/8412136) | Trace3 | Remote (remote) | 72 | 1+ yrs exp |
 | 1:54 PM | [DevOps Engineer - HFT](https://jobs.workable.com/view/bJHymHEJLM8BJ1cRwv49Dx/hybrid-devops-engineer---hft-in-new-york-at-trexquant-investment) | Trexquant Investment | New York, New York (hybrid) | 70 |  |
-| 12:55 PM | [Infrastructure Engineer III - Terraform, AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794422) | JP Morgan Chase | Tampa, FL, United States +1 more | 60 | 3+ yrs exp; senior title |
+| 12:55 PM | [Infrastructure Engineer III - Terraform, AWS](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210794422) | JP Morgan Chase | Tampa, FL, United States | 60 | 3+ yrs exp; senior title |
 | 12:45 PM | [Research Infrastructure System Administrator](https://jobs.smartrecruiters.com/HarvardUniversity/3743990017041495-research-infrastructure-system-administrator) | Harvard University | Boston, MA, United States (hybrid) | 80 | 2+ yrs exp; no future H-1B sponsorship; likely H-1B cap-exempt (verif… |
 | 12:30 PM | [Cloud Migration Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351151) | Oracle | United States | 60 |  |
 | 12:19 PM | [Senior Systems Development Engineer](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301713) | Dell Technologies | Austin, TX, United States (onsite) | 60 | 3+ yrs exp; senior title |
