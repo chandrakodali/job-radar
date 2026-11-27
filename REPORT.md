@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**117 jobs**, newest first. Updated Fri Nov 27, 3:49 PM CST from 12,580 company job boards and other sources.
+**117 jobs**, newest first. Updated Fri Nov 27, 4:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 112 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,495 matching jobs that job sites and feeds listed this week, 2,273 (65%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 27 (6)](#friday-nov-27-6) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (11)](#friday-nov-20-11)
 
@@ -173,8 +175,8 @@ Jump to: [Fri 27 (6)](#friday-nov-27-6) · [Thu 26 (9)](#thursday-nov-26-9) · [
 |---|---|---|---|---:|---|
 | 5:59 PM | [MDX000121 System Administrator (A)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f7d0583a-068e-4433-ae66-535fa5887aa1&ccId=19000101_000001&jobId=9202112931493_3&lang=en_US) | F7D0583A 068E 4433 Ae66 535Fa… | Huntsville, AL; Lompoc, CA; Colorado Sp… | 50 | rules: needs: Security Clearance |
 | 5:00 PM | [Senior Network Engineer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4695558) | Soliel LLC | Laurel, MD, United States | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
+| 3:53 PM | [Senior SRE](https://boards.greenhouse.io/accenturefederalservices/jobs/4732516006?gh_jid=4732516006) | Accenture | San Antonio, TX | 35 | rules: 6+ yrs exp; senior title; no future H-1B sponsorship; needs: P… |
 | 12:31 PM | [NOC Engineer](https://weworkremotely.com/remote-jobs/metamask-noc-engineer) | MetaMask | Remote, US (Anywhere in the World) (remote) | 47 | rules: adjacent title, little DevOps/cloud work in the text |
-| 11:21 AM | [Senior SRE](https://boards.greenhouse.io/accenturefederalservices/jobs/4732513006?gh_jid=4732513006) | Accenture | San Antonio, TX | 35 | rules: 6+ yrs exp; senior title; no future H-1B sponsorship; needs: P… |
 | date only | [AI Platform Engineer](https://apply.workable.com/raydar/j/68519B6BEA/) | Raydar | Chicago, Illinois, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Cleared DevOps Engineer](https://bestgateengineering.applytojob.com/apply/wOXYOTh80U/Cleared-DevOps-Engineer) | Bestgate Engineering | Laurel, MD | 75 | rules: 2+ yrs exp; needs: Active TS/SCI |
 | date only | [Cleared Linux Systems Administrator](https://bestgateengineering.applytojob.com/apply/rZYsi4LpHj/Cleared-Linux-Systems-Administrator) | Bestgate Engineering | Annapolis Junction, MD | 30 | rules: 10+ yrs exp; needs: Security Clearance |
