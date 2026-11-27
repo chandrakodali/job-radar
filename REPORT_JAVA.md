@@ -1,18 +1,22 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**42 jobs**, newest first. Updated Fri Nov 27, 1:09 PM CST from 12,580 company job boards and other sources.
+**43 jobs**, newest first. Updated Fri Nov 27, 1:58 PM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-110 repeat listings (same company and title in another place or on another source) are merged into one row.
+102 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (3)](#friday-nov-20-3)
+Coverage check: of 4,703 matching jobs that job sites and feeds listed this week, 2,581 (54%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Friday, Nov 27 (1)
+Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (2)](#friday-nov-20-2)
+
+## Friday, Nov 27 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
-| 12:29 AM (seen) | [Application Developer-Java & Web Technologies](https://careers.ibm.com/careers/JobDetail?jobId=143628) | IBM | Tempe, United States +7 more (hybrid) | 50 | repost |
+| 1:57 PM | [Software Engineer, Backend](https://stripe.com/jobs/search?gh_jid=8421387) | Stripe | South San Francisco, CA | 45 | 3+ yrs exp; requires Java |
+| 1:44 PM | [Software Engineer, Reporting Platform](https://stripe.com/jobs/search?gh_jid=8421367) | Stripe | New York, NY | 60 | 2+ yrs exp; requires Java |
+| 12:29 AM (seen) | [Application Developer-Java & Web Technologies](https://careers.ibm.com/careers/JobDetail?jobId=143628) | IBM | Tempe, United States +4 more (hybrid) | 50 | repost |
 
 ## Thursday, Nov 26 (1)
 
@@ -82,15 +86,14 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (1)](#thursday-nov-26-1) · [
 |---|---|---|---|---:|---|
 | 8:16 PM | [Customer Service Rep(08902) - 1348 suite 103 Java Lane](https://jobs.smartrecruiters.com/Dominos/744000163017122-customer-service-rep-08902-1348-suite-103-java-lane) | Domino's | Burlington, NC, United States | 65 |  |
 
-## Friday, Nov 20 (3)
+## Friday, Nov 20 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 6:39 PM | [Assoc Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162837679-assoc-software-engineer) | ServiceNow | Santa Clara, CALIFORNIA, United States (hybrid) | 60 | 1+ yrs exp; requires Java |
 | 2:12 PM | [Full-stack Java & React Software Engineer III](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210787547) | JP Morgan Chase | Plano, TX, United States | 60 | 3+ yrs exp; senior title |
-| 1:19 PM | [Senior Platform Software Engineer](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/351070) | Oracle | Nashville, TN, United States | 35 | senior title, years not stated; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (46)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (42)
 
 <details><summary>Show</summary>
 
@@ -136,10 +139,6 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (1)](#thursday-nov-26-1) · [
 | 6:28 PM | [Software Engineer - Dealer Network & Employee Engagement](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68465) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 35 | rules: 7+ yrs exp; requires Java; asks for 7+ years of experience |
 | 3:14 PM | [Sr. Application Security Engineer](https://jobs.lever.co/prosper/b907c840-14c0-4d84-9649-4417b3e323ed) | Prosper Funding | United States (remote) | 27 | rules: 6+ yrs exp; senior title; requires Java; asks for 6+ years of … |
 | 2:56 PM | [Full-Stack Software Engineer, SaaS & Low-Code Platforms](https://jobs.smartrecruiters.com/Versant3/744000162818799-full-stack-software-engineer-saas-low-code-platforms) | Versant | Englewood Cliffs, NEW JERSEY, United St… (hybrid) | 35 | rules: 5+ yrs exp; requires Java; asks for 5+ years of experience |
-| 11:59 AM | [Full-Stack Software Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74134) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 35 | rules: 5+ yrs exp; requires Java; asks for 5+ years of experience |
-| 11:02 AM | [Sr AWS Cloud Integration Engineer - Remote](https://weworkremotely.com/remote-jobs/coderio-sr-aws-cloud-integration-engineer-remote) | Coderio | Remote, US (Americas Only) (remote) | 27 | rules: 7+ yrs exp; senior title; requires Java; asks for 7+ years of … |
-| date only | [Cloud Software Engineer](https://jobs.jobvite.com/visionist/job/oeb8AfwR) | Visionist | Columbia, MD, United States; Laurel, MD… | 30 | rules: 6+ yrs exp; requires Java; needs: security clearance |
-| date only | [Full-Stack Software Engineer](https://jobs.jobvite.com/visionist/job/oFb8Afwi) | Visionist | Columbia, MD, United States | 30 | rules: 14+ yrs exp; requires Java; needs: security clearance |
 | date only | [Senior Back End Java Developer](https://citi.eightfold.ai/careers/job/859039051648) | Citi | Tampa, FL, US (hybrid) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Software Engineer](https://apply.workable.com/amerisave/j/28E64F6DBB/) | Amerisave | United States (remote) | 15 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 
