@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**297 jobs**, newest first. Updated Fri Nov 27, 5:24 AM CST from 12,535 company job boards and other sources.
+**296 jobs**, newest first. Updated Fri Nov 27, 5:38 AM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 96 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,759 matching jobs that job sites and feeds listed this week, 876 (18%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (66)](#friday-nov-20-66)
+Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (65)](#friday-nov-20-65)
 
 ## Friday, Nov 27 (2)
 
@@ -276,7 +274,7 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 3:26 AM | [Vendor Stock Support Associate, Bellevue Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826998) | Macy's | Bellevue, WA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chandler Fashio…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826986) | Macy's | Chandler, AZ, United States | 75 | entry-level title |
 
-## Friday, Nov 20 (66)
+## Friday, Nov 20 (65)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -345,7 +343,6 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 7:00 AM | [Perioperative Support Specialist 1](https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/693232) | Inova | Alexandria, VA, United States | 75 | entry-level title |
 | 6:42 AM | [AUTOMATION TECHNICIAN - Plant 10](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120638) | Howmet Aerospace | Whitehall, MI, United States (onsite) | 80 | 1+ yrs exp |
 | 5:49 AM | [Junior Engineer Ondergrondse Infra Rail](https://arcadis.eightfold.ai/careers/job/563671533455829) | Arcadis | Amersfoort, UT, NL (onsite) | 80 | entry-level title |
-| 5:34 AM | [Computer Service Technician (Part-Time)](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016990436-computer-service-technician-part-time-) | Cityofnewyork | New York City, NY, United States | 75 | entry level (from the text) |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1201)
 
