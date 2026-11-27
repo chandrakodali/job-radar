@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**137 jobs**, newest first. Updated Fri Nov 27, 5:37 AM CST from 12,535 company job boards and other sources.
+**137 jobs**, newest first. Updated Fri Nov 27, 5:49 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 161 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,308 matching jobs that job sites and feeds listed this week, 2,150 (64%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (39)](#friday-nov-20-39)
 
@@ -182,7 +180,7 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 9:36 AM | [Senior Core Infrastructure Engineer, Fast Connect](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/339199) | Oracle | Nashville, TN, United States | 50 | senior title, years not stated |
 | 8:44 AM | [NVIDIA Infrastructure Engineer — NVIDIA V100 or A100](https://jobs.smartrecruiters.com/SyncreonConsulting/744000162750832-nvidia-infrastructure-engineer-nvidia-v100-or-a100-) | Syncreon Consulting | New York, NY, United States | 60 | staffing/consulting firm: verify it's real; repost |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (296)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (295)
 
 <details><summary>Show</summary>
 
@@ -429,7 +427,6 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 7:35 AM | [Reliability Engineering Specialist](https://eaton.eightfold.ai/careers/job/687238555164) | Eaton | Waukesha, WI, US; South Milwaukee, WI, … (onsite) | 35 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 7:22 AM | [Senior AI Engineer II - Forward Deployment Engineer - Enterprise AI P…](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014650) | American Express | Sunnyvale, CA, United States; New York,… (hybrid) | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 6:41 AM | [Storage Platform Engineer](https://jobs.lever.co/jobgether/d74b978e-505d-4b9a-9497-1c3870e4be8e) | Jobgether | US (remote) | 42 | rules: 7+ yrs exp; asks for 7+ years of experience |
-| 5:36 AM | [IT AUTOMATION AND MONITORING ENGINEER](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016990411-it-automation-and-monitoring-engineer) | Cityofnewyork | New York City, NY, United States | 30 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 3:00 AM | [Network Engineer](https://jobs.dayforcehcm.com/en-US/canyoncounty/CANDIDATEPORTAL/jobs/956) | Canyoncounty | Caldwell, ID, US | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [DevSecOps Engineer](https://careers-steampunk.icims.com/jobs/8948/devsecops-engineer/job) | Steampunk | McLean, VA, United States | 50 | rules: 8+ yrs exp; E-Verify; needs: security clearance |
 | 11:00 PM | [IT Network Administrator](https://jobs.dayforcehcm.com/en-US/kmtire/KMTIRE/jobs/1298) | Kmtire | Delphos, OH, US | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
