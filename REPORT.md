@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**136 jobs**, newest first. Updated Fri Nov 27, 9:07 AM CST from 12,535 company job boards and other sources.
+**136 jobs**, newest first. Updated Fri Nov 27, 9:19 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 160 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,364 matching jobs that job sites and feeds listed this week, 2,189 (65%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (38)](#friday-nov-20-38)
 
@@ -181,7 +179,7 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 10:07 AM (seen) | [Infrastructure Specialist-AWS DevOps](https://careers.ibm.com/careers/JobDetail?jobId=143901) | IBM | TUCSON, United States (hybrid) | 50 |  |
 | 9:36 AM | [Senior Core Infrastructure Engineer, Fast Connect](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/339199) | Oracle | Nashville, TN, United States | 50 | senior title, years not stated |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (287)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (285)
 
 <details><summary>Show</summary>
 
@@ -423,8 +421,6 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 9:40 AM | [Cloud Adoption Engineer - Security and ATO Process](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350673) | Oracle | Reston, VA, United States; Washington, … | 40 | rules: 8+ yrs exp; needs: U.S. citizenship is required |
 | 9:28 AM | [Senior Cloud Security Engineer, FedRAMP](https://jobs.ashbyhq.com/sentilink/99060cec-96a4-49aa-8d51-099e2ca8bb5f) | SentiLink | United States (remote) | 42 | rules: 5+ yrs exp; senior title; needs: U.S. citizenship is required |
 | 9:22 AM | [Systems Engineer – Research Infrastructure & Lab Platforms](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/296668) | Dell Technologies | Mclean, VA, United States | 40 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| 9:04 AM | [Cloud Engineer Sr](https://job-boards.greenhouse.io/grvty/jobs/4516696009) | GRVTY | Springfield, Virginia, United States; S… | 45 | rules: 8+ yrs exp; senior title; needs: TS/SCI Clearance |
-| 3:00 AM | [Network Engineer](https://jobs.dayforcehcm.com/en-US/canyoncounty/CANDIDATEPORTAL/jobs/956) | Canyoncounty | Caldwell, ID, US | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Cloud Engineer](https://careers-steampunk.icims.com/jobs/9079/cloud-engineer/job) | Steampunk | McLean, VA, United States | 50 | rules: 5+ yrs exp; E-Verify; needs: Security Clearance |
 | 11:00 PM | [Network Engineer](https://careers-steeldynamics.icims.com/jobs/9245/network-engineer/job) | Steel Dynamics | Sinton, TX, United States | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Senior Network Engineer, Implementation](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/921) | Eci | Dallas, TX, US; NY, US | 30 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
