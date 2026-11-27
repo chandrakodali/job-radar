@@ -12,8 +12,8 @@ Philippines 7
 Hong Kong 14
 Germany 9
 France 5
-Brazil 7
 United States 22
+Brazil 7
 Spain 6
 Indonesia 15
 Luxembourg 3
@@ -49,8 +49,8 @@ Philippines
 Hong Kong
 Germany
 France
-Brazil
 United States
+Brazil
 Spain
 Indonesia
 Luxembourg
@@ -104,7 +104,7 @@ Build and maintain relationships with multiple customers! We’ll train you on O
 Partner Account Executive, Dutch
 Sales / Partnership Recruitment
 Develop, grow, and maintain our network of implementation partners in North America!
-Partner Account Executive, French
+Customer Success Manager, Direct
 Customer Success Manager, Indirect
 Sales / Indirect Customer Success
 Job Events

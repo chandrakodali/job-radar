@@ -1,5 +1,5 @@
 The #1 open source
-agentic BI builder
+agentic BI
 Your data team builds the analytics agent and owns the context layer.
 Everyone in the company builds on data.
 Sign Up
@@ -192,7 +192,7 @@ Open source
 View on GitHub →
 The whole core product is Apache 2.0. Self-host it, read the code, and shape the roadmap with the community.
 getnao / nao Public
-The #1 open source agentic BI builder
+The #1 open source agentic BI
 - stars - forks - contributors
 Stack agnostic
 Contribute →

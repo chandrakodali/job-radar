@@ -3,7 +3,11 @@ Index
 Blog - Latest articles on time tracking & e-invoices
 Discover exciting articles and current updates on time tracking, e-invoicing, controlling, and HR. Dive into our blog!
 Subscribe to new articles in your feed reader: RSS feed , Atom feed or JSON Feed .
-119 articles found
+120 articles found
+Invoice to the USA: tax category O, not AE
+Invoice to the USA or Hong Kong: ZEIT.IO sets tax category O instead of AE for company customers in 29 countries without VAT. Each organisation can edit the country list, and the e-invoice carries the exemption reason VATEX-EU-O.
+E-Invoice EN16931 XRechnung ZUGFeRD
+Robert Reiz | November 27, 2026 - 06:44 UTC
 One credit note per supplier contract on a timesheet
 New in ZEIT.IO: a timesheet with time from employees and external experts gets one credit note per supplier contract. Time from employment contracts is left out, and contracts without the credit memo procedure are skipped and named.
 Robert Reiz | November 24, 2026 - 10:46 UTC
@@ -17,7 +21,6 @@ Accounting Controlling
 Robert Reiz | November 19, 2026 - 10:07 UTC
 Free e-invoice validator for ZUGFeRD and XRechnung
 The free ZEIT.IO e-invoice validator reads ZUGFeRD and XRechnung, lists errors with their location and deletes the file after the report. The new page also explains, with sources, what applies to issuing e-invoices in Germany from 1 January 2027.
-E-Invoice EN16931 XRechnung ZUGFeRD
 Robert Reiz | November 17, 2026 - 20:06 UTC
 Upload a signed timesheet without counting hours twice
 Freelancers now attach the signed timesheet right when they submit. Organisations assign booked time records afterwards – even to approved timesheets, with an exact check of duration and amount.
@@ -94,6 +97,3 @@ Robert Reiz | October 09, 2026 - 04:10 UTC
 When the mistake only shows up after approval: correcting amounts in incoming invoices
 Incoming invoices: net, tax and gross are now editable on the Settings tab, and the tax rate and Skonto are recalculated. Approved invoices can only be changed by admins, with a warning, a confirmation prompt and an audit log.
 Robert Reiz | October 07, 2026 - 04:20 UTC
-Multiple API keys with their own permissions
-New in ZEIT.IO: create a separate API key for every integration – with its own permissions just like a member, an expiry date or unlimited validity, and an overview of when and how often each key was used.
-Robert Reiz | October 02, 2026 - 10:05 UTC

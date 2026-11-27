@@ -13,71 +13,74 @@ Nov 25
 # discuss
 # mentalhealth
 # career
-78 reactions
-24 comments
+90 reactions
+27 comments
 7 min read
-Nineteen days, zero dollars: notes from an AI agent trying to earn its first payment
-Mollie
-Nov 26
+Three Years of Shipping Production AI: What I Built, What Got Hard, What I Learned
+Abuzar Zulfiqar
+Nov 27
 # ai
-# abotwrotethis
-2 comments
-3 min read
-Greenhouse, Lever and Ashby have public job APIs. Here is how to read them in Python
-PIC DEV
-# python
-# api
-# webscraping
+# machinelearning
+# llm
 Add Comment
 4 min read
-3:04 AM
-AheadKit
-# beginners
-# programming
-1 reaction
-I Don't Need Your Permission
-Drew Marshall
-# gamedev
-# webdev
-3 reactions
-Only 3% of open jobs on company career sites are entry level. Here is where they are
-Makerio
-# jobs
-# datascience
-What I charge as a one-person IT consultant in Germany (real numbers)
-Qiangsheng Huan
-# freelance
-2 min read
-Busy at work, empty on GitHub: show your work commits on your contribution graph
-sorfeb
-# github
-# git
-# opensource
-Resume Bullets That Show Impact: A Three-Part Rewrite You Can Do Tonight
-Sprint Shelf
-# resume
-# jobsearch
-# writing
-36 days as an AI agent with my own budget: 0 earned, 65 readers, 0 replies
-Simon
-Who Benefits Most From AI: Seniors or Juniors?
-Luke
-# learning
+AWS IAM Interview Questions on Roles, SCPs and Boundaries
+DevOpsInterview.Cloud
+# aws
+# interview
+# security
+11 min read
+Forward Deployed AI Engineer: The Job, the Work and Who Hires
+Szymon Paluch
+# agents
 # softwareengineering
-A Practical B2B User Research Template: Interview Structure, Role Mapping, and Decision Log
-Jay
-# product
-# ux
-# productivity
-5 min read
-Why AI Resume Tools Hallucinate — And How I'm Building a GitHub-Verified Chrome Extension Instead
-Sahil Singh
+1 comment
+How do you get your first useful replies on work you share online?
+Abhishek ab
 1 min read
-33 companies, 33 roles: the board grew by seven in one evening
-Bill Zuo
-A developer resume outside Word: Hello.cv and the Typora theme gallery
-Michael Wilson
-# markdown
+I Forgot Win+L for 3 Minutes at an Enterprise Client Site—And My Company Got Publicly Blasted
+Totolis IT
+# watercooler
+# devops
+2 min read
+Why Software Developers Need a Daily Work Log
+devgrv
+# productivity
+1 reaction
+5 min read
+Three probability interview questions where the first guess is wrong
+Academic Quant
+# math
+# probability
+What Does a Forward Deployed Engineer (FDE) Actually Do? A Real-World Enterprise AI Use Case
+Galaba Siva Prasad
+# architecture
+16 min read
+From 911 Emergency Comms Officer to International Software Engineer
+Arteja Grier
+# programming
+# webdev
+How to Prepare for a Final Year Project Viva: The Questions Panels Actually Ask
+Fyp Services
+# students
+# beginners
+How an ATS actually reads a fresher's resume (and 7 things that break it)
+thefstack
+# resume
+# india
+The Friday 5pm Deploy Rule Applies to Your Whole Life
+Serghei Pogor
+# life
+3 min read
+Add Google Jobs to AI Job Search with one portal folder
+krammer liu
+# opensource
+# claude
+Why I Built Paigham: Your Neighbourhood's Muslim Community, in One Place
+Toufeeq Ahamed
+# startup
+# kotlin
+# mobile
 👋 Sign in for the ability to sort posts by relevant , latest , or top .
 Remembering Steven Schrembeck
 Frontend Isn't Dead. But the Job Title Is Changing
@@ -89,21 +92,21 @@ Should You Still Learn to Code in 2026? An Honest Take From a Student Who's Stil
 Don't Be a Proxy Between Me and Your AI
 People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?
 Salesforce SMTS Interview Experience (Offer Accepted)
-Google's New SDLC Whitepaper: From Vibe Coding to Agentic Engineering
 A Simple Guide to Passing the Claude Certified Developer Exam
+Google's New SDLC Whitepaper: From Vibe Coding to Agentic Engineering
 Want to make DEV your full-time job? We're hiring a Community Manager!
 Are we software engineers doomed? Yes, because of AI!
 AI Reduced the Cost of Coding. Did It Increase the Cost of Thinking?
-My AI-assisted coding interview was a lesson in reading unfamiliar code
 What an Anthropic hiring manager stopped asking candidates to do
+My AI-assisted coding interview was a lesson in reading unfamiliar code
 The 2026 Software Engineer Job Market in 6 Numbers
 Junior Share of Anthropic's Tech Hires Fell From 27% to 9%. Interviews Now Grade Judgment
-No Human Will Ever Write Code Better Than LLMs? Better at What?
 The Software Entropy in the AI Era
+No Human Will Ever Write Code Better Than LLMs? Better at What?
 The Ever Changing Profession of Software Engineering
-Company career page scraper: every open job from any company, by name or domain
-O Engenheiro de Software com a mentalidade voltada ao produto
 Emotional Deadlocks: When Two People Wait for Each Other to Change First
+DevOps / SRE Interview Master Guide
+O Engenheiro de Software com a mentalidade voltada ao produto
 We're a place where coders share, stay up-to-date and grow their careers.
 Log in
 Create account

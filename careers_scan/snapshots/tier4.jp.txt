@@ -3,19 +3,24 @@
 世界でつくり、世界をつくる。
 ティアフォーは、オープンソースを通して、社員や世界中のパートナーと協力し、自動運転技術の開発に挑戦できる場所です。インテリジェントビークルを活用して人々の可能性を最大限に引き出し、より良い未来をともにつくっていく仲間を求めています。
 ティアフォーの概要
+ティアフォーの会社、事業、企業文化、組織・人事制度に関する情報をスライドで紹介しています。
+詳しく見る
 募集中の職種
-Autoware & AI Engineering
-Web Platforms & Applications
-Security & Safety Engineering
-Vehicle Engineering
-System Software & Operating Systems
-Hardware & Mechatronics
-Field Engineering & Customer Support
-Product & Project Management
+Students / New graduates
+AI / Machine Learning
+Autonomous Driving Software
+Web / Cloud Platform
+DevOps / MLOps / Data Operations
+System / Vehicle Integration
+Hardware / Embedded / Mechatronics
+Quality / Validation / Safety
+Security
+Product/Project Management
+Field Engineering / Customer Success
+Business / Sales / Operations
 Design
-Business & Marketing Communication
 Corporate
-障がい者採用
+Accessibility / Inclusive Hiring
 キャリア登録
 「どの職種で自分のスキルや経験を活かせるか分からない」「希望する職種が見つからない」などでお悩みですか？キャリア登録をすると、あなたの経験やスキルに合った職種ができた際に、担当者から直接連絡があります。この機会にぜひご登録ください。
 登録する
@@ -31,7 +36,6 @@ TIER IV Talks #9
 ティアフォーで働く
 仲間たち
 私たちにとって、一緒に働く仲間はかけがえのない大切な存在です。ティアフォーには、既存の価値を繊細に壊し、新しい価値を大胆に創造するプロフェッショナルたちが集まっています。
-詳しく見る
 ティアフォーでの
 働き方
 社員ひとりひとりが最大限に能力を発揮し、自分らしく活躍できるよう、さまざまな分野の経歴や専門知識を持つ仲間と協力し合い、支え合い、尊重し合うことで、私たちはともに学び、成長していきます。
