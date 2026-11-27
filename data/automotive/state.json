@@ -12267,7 +12267,7 @@
   "workday:allisontransmission|wd1|ati-external": 87,
   "workday:ambarella|wd108|ambarella": 48,
   "workday:analogdevices|wd1|external": 131,
-  "workday:aptiv|wd5|aptiv_careers": 80,
+  "workday:aptiv|wd5|aptiv_careers": 40,
   "workday:astemo|wd102|global_career_site": 366,
   "workday:borgwarner|wd5|borgwarner_careers": 20,
   "workday:brunswick|wd1|search": 20,
@@ -14075,7 +14075,7 @@
    "since": "2026-11-11"
   }
  },
- "found_cursor": 3041,
+ "found_cursor": 71,
  "last_digest": "2026-11-27",
  "missed_companies": {},
  "missing_once": {
@@ -21036,7 +21036,7 @@
   "workday:ankura|wd5|ankura": "2026-11-20T18:01+00:00",
   "workday:antares|wd5|antares": "2026-11-20T18:01+00:00",
   "workday:appliedis|wd5|ais_careers": "2026-11-20T18:01+00:00",
-  "workday:aptiv|wd5|aptiv_careers": "2026-11-21T14:31+00:00",
+  "workday:aptiv|wd5|aptiv_careers": "2026-11-27T16:07+00:00",
   "workday:arienscompany|wd5|external": "2026-11-20T18:01+00:00",
   "workday:astemo|wd102|Global_Career_Site": "2026-11-27T01:57+00:00",
   "workday:asuep|wd5|ASUEP": "2026-11-20T18:01+00:00",
@@ -90075,7 +90075,10 @@
   "workday:aptiv|wd5|aptiv_careers:J000706106": "2026-11-11",
   "workday:aptiv|wd5|aptiv_careers:J000706107": "2026-11-11",
   "workday:aptiv|wd5|aptiv_careers:J000706284": "2026-11-11",
+  "workday:aptiv|wd5|aptiv_careers:J000706382": "2026-11-27",
   "workday:aptiv|wd5|aptiv_careers:J000706407": "2026-11-21",
+  "workday:aptiv|wd5|aptiv_careers:J000706426": "2026-11-27",
+  "workday:aptiv|wd5|aptiv_careers:J000706427": "2026-11-27",
   "workday:aptiv|wd5|aptiv_careers:J000706431": "2026-11-21",
   "workday:aptiv|wd5|aptiv_careers:J000706469": "2026-11-21",
   "workday:aptiv|wd5|aptiv_careers:J000706489": "2026-11-21",
@@ -93709,7 +93712,7 @@
   "zoho:stackand:311383000018775968": "2026-11-15"
  },
  "source_last": {},
- "term_cursor": 29,
+ "term_cursor": 39,
  "text_retries": {
   "avature:harmanglobal.avature.net|en_US/careers:32174": 2,
   "avature:harmanglobal.avature.net|en_US/careers:32516": 2,
@@ -93743,6 +93746,10 @@
   "workday:analogdevices|wd1|External:R269553": 1,
   "workday:analogdevices|wd1|External:R269556": 1,
   "workday:analogdevices|wd1|External:R269557": 1,
+  "workday:aptiv|wd5|aptiv_careers:J000706102": 1,
+  "workday:aptiv|wd5|aptiv_careers:J000706452": 1,
+  "workday:aptiv|wd5|aptiv_careers:J000706453": 1,
+  "workday:aptiv|wd5|aptiv_careers:J000706827": 1,
   "workday:borgwarner|wd5|BorgWarner_Careers:R2026-4626": 1,
   "workday:brunswick|wd1|search:JR-048363": 1,
   "workday:cat|wd5|caterpillarcareers:R0000378475": 1,
