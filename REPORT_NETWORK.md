@@ -1,12 +1,10 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**32 jobs**, newest first. Updated Fri Nov 27, 10:24 AM CST from 12,535 company job boards and other sources.
+**32 jobs**, newest first. Updated Fri Nov 27, 10:36 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 2 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 783 matching jobs that job sites and feeds listed this week, 402 (51%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (11)](#friday-nov-20-11)
 
@@ -67,7 +65,7 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 | date only | [Network Operations Center Technician I )](https://career.sonepar.com/job/Jonesboro-Network-Operations-Center-Technician-I-%29-AR-72401/1459433933/) | Sonepar | Jonesboro, AR, United States | 75 | entry-level title |
 | date only | [Network Technician](https://morristechnology.bamboohr.com/careers/444) | Morristechnology | St. Louis, Missouri | 75 | 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (68)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (66)
 
 <details><summary>Show</summary>
 
@@ -117,7 +115,6 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 | date only | [Network Engineer](https://morristechnology.bamboohr.com/careers/443) | Morristechnology | Springfield, Illinois | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Network Operations Center Engineer](https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107955&lang=en) | Lawrence Berkeley National La… |  | 50 | rules: 5+ yrs exp; likely H-1B cap-exempt (verify); asks for 5+ years… |
 | 10:25 AM | [Senior Network Engineer](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022806) | ADT | Irving, TX, United States | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| 10:08 AM | [Senior Network Engineer](https://careers.akima.com/jobs/28917?lang=en-us) | Akima | Huntsville, Alabama | 60 | rules: 4+ yrs exp; senior title; needs: security clearance |
 | 11:00 PM | [Senior Network Engineer, Implementation](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/921) | Eci | Dallas, TX, US; NY, US | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 11:00 PM | [Network Engineer](https://careers-steeldynamics.icims.com/jobs/9245/network-engineer/job) | Steel Dynamics | Sinton, TX, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Network Administrator](https://jobs-bylight.icims.com/jobs/12339/network-administrator/job) | By Light Professional IT Serv… | Radford, VA, United States | 45 | rules: 5+ yrs exp; needs: Security Clearance |
@@ -137,7 +134,6 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 | date only | [Cloud Network Engineer](https://apply.workable.com/amerisave/j/68D7A695BF/) | Amerisave | United States (remote) | 30 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 3:43 PM | [Network Engineer III](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=64b85cdf-e793-428c-847d-3c083156603d&ccId=1593362092_8566&jobId=9201462305941_1&lang=en_US) | 64B85Cdf E793 428C 847D 3C083… | Camarillo, CA | 43 | rules: 5+ yrs exp; senior title; E-Verify; asks for 5+ years of exper… |
 | date only | [Senior Azure Infrastructure Engineer](https://apply.workable.com/tomorrow-hire/j/3B87EA976C/) | Tomorrow Hire | Mechanicsville, Virginia, United States | 13 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; network … |
-| date only | [Network Operations Engineer II](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-II_R0018417) | Astreya | Denver, CO | 28 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:36 PM | [Network and Systems Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b70c2f5a-0631-4b81-b26d-4f1487bfa82f&ccId=19000101_000001&jobId=9201917275242_16&lang=en_US) | B70C2F5A 0631 4B81 B26D 4F148… | St Helena, CA | 18 | rules: 6+ yrs exp; network work in the text; asks for 6+ years of exp… |
 | 4:22 PM | [Dedicated Unified Communications Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6d87e9f4-ff27-44c5-b679-7e57855901fb&ccId=19000101_000001&jobId=9201089275705_195&lang=en_US) | 6D87E9F4 Ff27 44C5 B679 7E578… | Tulsa, OK; Remote US, US | 33 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:23 AM | [Senior Network WAN Engineer](https://jobs.ascension.org/us/en/job/AHEAHUUS2026452072EXTERNALENUS) | Ascension | Saint Louis, MO, 63134 | 35 | rules: 5+ yrs exp; senior title; E-Verify; asks for 5+ years of exper… |
