@@ -1,10 +1,8 @@
 # OT Network Engineer jobs in the US: posted in the last 7 days
 
-**4 jobs**, newest first. Updated Fri Nov 27, 1:01 PM CST from 12,535 company job boards and other sources.
+**4 jobs**, newest first. Updated Fri Nov 27, 1:14 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. OT network engineer jobs (OT/ICS/SCADA network, infrastructure and OT security roles; controls, automation or network titles only when the job is about networks in an OT/industrial setting). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
-
-Coverage check: of 1,100 matching jobs that job sites and feeds listed this week, 428 (38%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Tue 24 (4)](#tuesday-nov-24-4)
 
