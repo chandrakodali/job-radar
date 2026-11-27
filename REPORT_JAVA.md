@@ -1,18 +1,20 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**48 jobs**, newest first. Updated Fri Nov 27, 10:12 AM CST from 12,580 company job boards and other sources.
+**47 jobs**, newest first. Updated Fri Nov 27, 10:42 AM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-176 repeat listings (same company and title in another place or on another source) are merged into one row.
+127 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (9)](#friday-nov-20-9)
+Coverage check: of 4,624 matching jobs that job sites and feeds listed this week, 2,530 (54%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (8)](#friday-nov-20-8)
 
 ## Friday, Nov 27 (1)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
-| 12:29 AM (seen) | [Application Developer-Java & Web Technologies](https://careers.ibm.com/careers/JobDetail?jobId=143628) | IBM | Tempe, United States +17 more (hybrid) | 50 | repost |
+| 12:29 AM (seen) | [Application Developer-Java & Web Technologies](https://careers.ibm.com/careers/JobDetail?jobId=143628) | IBM | Tempe, United States +11 more (hybrid) | 50 | repost |
 
 ## Thursday, Nov 26 (1)
 
@@ -82,7 +84,7 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (1)](#thursday-nov-26-1) · [
 |---|---|---|---|---:|---|
 | 8:16 PM | [Customer Service Rep(08902) - 1348 suite 103 Java Lane](https://jobs.smartrecruiters.com/Dominos/744000163017122-customer-service-rep-08902-1348-suite-103-java-lane) | Domino's | Burlington, NC, United States | 65 |  |
 
-## Friday, Nov 20 (9)
+## Friday, Nov 20 (8)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -94,7 +96,6 @@ Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (1)](#thursday-nov-26-1) · [
 | date only | [Software Development Engineer II, FleetWatch Team](https://www.amazon.jobs/en/jobs/10610684/software-development-engineer-ii-fleetwatch-team) | Amazon Data Services, Inc. | Seattle, Washington, USA | 40 | 3+ yrs exp; requires Java |
 | date only | [Java Developer](https://careers.capgemini.com/job/New-York%2C-NY-Java-Developer-NY-10001/1459446733/) | Capgemini | New York, NY, United States | 65 | repost |
 | date only | [Backend Developer Consultant](https://bitovi.applytojob.com/apply/UgQDHFAUZm/Backend-Developer-Consultant) | Bitovi | Remote (US) (remote) | 42 | no future H-1B sponsorship; requires Java |
-| 10:35 AM | [Senior Java Engineer - Order Management System](https://jobs.workable.com/view/ipM4SCCAfMYx6t3RqXbtAV/senior-java-engineer---order-management-system-in-massachusetts-at-man-group) | Man Group | Massachusetts (onsite) | 60 | senior title, years not stated |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (51)
 
