@@ -1,18 +1,20 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**51 jobs**, newest first. Updated Thu Nov 26, 10:29 PM CST from 12,580 company job boards and other sources.
+**50 jobs**, newest first. Updated Thu Nov 26, 11:27 PM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-175 repeat listings (same company and title in another place or on another source) are merged into one row.
+178 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (10)](#friday-nov-20-10) · [Thu 19 (1)](#thursday-nov-19-1)
+Coverage check: of 4,376 matching jobs that job sites and feeds listed this week, 2,374 (54%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (10)](#friday-nov-20-10)
 
 ## Thursday, Nov 26 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
-| 7:57 PM (seen) | [Application Developer-Java & Web Technologies](https://careers.ibm.com/careers/JobDetail?jobId=144054) | IBM | Chicago, United States +17 more (hybrid) | 50 |  |
+| 11:27 PM (seen) | [Application Developer-Java & Web Technologies](https://careers.ibm.com/careers/JobDetail?jobId=144299) | IBM | Tempe, United States +17 more (hybrid) | 50 | repost |
 | 12:02 AM | [Senior Software Engineer  (Java)- US Remote](https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-senior-software-engineer-java-us-remote) | ZoomInfo Technologies LLC | Remote, US (Anywhere in the World) (remote) | 47 | senior title, years not stated; staffing/consulting firm: verify it's… |
 
 ## Wednesday, Nov 25 (9)
@@ -92,12 +94,6 @@ Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) �
 | date only | [Backend Developer Consultant](https://bitovi.applytojob.com/apply/UgQDHFAUZm/Backend-Developer-Consultant) | Bitovi | Remote (US) (remote) | 42 | no future H-1B sponsorship; requires Java |
 | 10:35 AM | [Senior Java Engineer - Order Management System](https://jobs.workable.com/view/ipM4SCCAfMYx6t3RqXbtAV/senior-java-engineer---order-management-system-in-massachusetts-at-man-group) | Man Group | Massachusetts (onsite) | 60 | senior title, years not stated |
 | 8:00 AM | [Associate, Full-stack Engineer](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/83835) | BNY | Jersey City, NJ, United States | 55 | entry-level title; 3+ yrs exp; requires Java |
-
-## Thursday, Nov 19 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 11:00 PM | [Senior Software Engineer - Java](https://us-erac.icims.com/jobs/595644/senior-software-engineer---java/job) | Enterprise Holdings | St. Louis, MO, United States (remote) | 52 | senior title, years not stated |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (53)
 
