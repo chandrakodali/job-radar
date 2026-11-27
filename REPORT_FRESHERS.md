@@ -1,12 +1,20 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**314 jobs**, newest first. Updated Thu Nov 26, 6:31 PM CST from 12,580 company job boards and other sources.
+**314 jobs**, newest first. Updated Thu Nov 26, 7:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 95 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (8)](#thursday-nov-19-8)
+Coverage check: of 4,324 matching jobs that job sites and feeds listed this week, 836 (19%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (1)](#friday-nov-27-1) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (49)](#wednesday-nov-25-49) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (27)](#saturday-nov-21-27) · [Fri 20 (75)](#friday-nov-20-75) · [Thu 19 (7)](#thursday-nov-19-7)
+
+## Friday, Nov 27 (1)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| date only | [Trainee Associate Engineer (Equipment)](https://globalfoundries.eightfold.ai/careers/job/563980770478456) | Globalfoundries | SG (onsite) | 75 | entry-level title; location unclear |
 
 ## Thursday, Nov 26 (13)
 
@@ -349,7 +357,7 @@ Jump to: [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (49)](#wednesday-nov-25-4
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 | 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
-## Thursday, Nov 19 (8)
+## Thursday, Nov 19 (7)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -360,9 +368,8 @@ Jump to: [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (49)](#wednesday-nov-25-4
 | 11:00 PM | [Technical Customer Care Specialist I](https://jobs.dayforcehcm.com/en-US/vitu/CANDIDATEPORTAL/jobs/4960) | Vitu |  | 75 | entry-level title |
 | 11:00 PM | [Home Community Support Associate- Millcreek of Grenada; Hours varied](https://facilityjobs-acadiahealthcare.icims.com/jobs/110381/home-community-support-associate--millcreek-of-grenada--hours-varied/job) | Acadia Healthcare | Grenada, MS, United States | 75 | entry-level title |
 | 10:04 PM | [Software Development Engineer-1](https://ericsson.eightfold.ai/careers/job/563121777588433) | Ericsson | Boise, ID, US (onsite) | 85 | entry-level title; 0-2 yrs exp; no future H-1B sponsorship |
-| 7:07 PM | [Junior Frontend Engineer](https://jobs.workable.com/view/qRvqAzn6CKHr6Tt2jEZsC6/junior-frontend-engineer-in-raleigh-at-chekhub) | Chekhub | Raleigh, North Carolina (onsite) | 90 | entry-level title; 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1228)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1221)
 
 <details><summary>Show</summary>
 
