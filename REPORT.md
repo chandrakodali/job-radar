@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**118 jobs**, newest first. Updated Fri Nov 27, 1:19 PM CST from 12,580 company job boards and other sources.
+**118 jobs**, newest first. Updated Fri Nov 27, 1:37 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 114 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,474 matching jobs that job sites and feeds listed this week, 2,260 (65%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (13)](#friday-nov-20-13)
 
@@ -166,7 +168,7 @@ Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | 3:37 PM | [Infrastructure Security Analyst](https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22891) | Southern Company | Atlanta, GA, United States; Birmingham,… | 75 | 2+ yrs exp; repost |
 | 2:17 PM | [Senior Platform Engineer](https://jobs.workable.com/view/6LjAdxVg6c3Mv6XuafzGA7/remote-senior-platform-engineer-in-united-states-at-talentpluto) | talentpluto | Remote, US (remote) | 52 | 3+ yrs exp; senior title; staffing/consulting firm: verify it's real |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (233)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (229)
 
 <details><summary>Show</summary>
 
@@ -372,10 +374,6 @@ Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | 2:03 PM | [Systems Administrator II/Senior Systems Administrator](https://jobs.lever.co/researchinnovations.com/edaddcf9-81f4-4ee2-bdb7-64a266fb41e1) | Research Innovations | Melbourne, FL (onsite) | 30 | rules: 6+ yrs exp; senior title; needs: security clearance |
 | 1:59 PM | [Hardware Reliability Engineer – Ecosystem Accessories](https://jobs.apple.com/en-us/details/200696149/hardware-reliability-engineer-ecosystem-accessories) | Apple | United States of America | 50 | rules: adjacent title, little DevOps/cloud work in the text |
 | 1:39 PM | [AI Infrastructure Engineer](https://job-boards.greenhouse.io/scoutmotors/jobs/5301146007) | Scout Motors | Charlotte, North Carolina, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| 1:27 PM | [IT System Administrator](https://job-boards.greenhouse.io/crisprecruit/jobs/5303944007) | Crisprecruit | St. Louis, MO | 45 | rules: staffing/consulting firm: verify it's real; adjacent title, li… |
-| 1:25 PM | [Sr Infrastructure Engineer II](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016566) | American Express | Phoenix, AZ, United States (hybrid) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| 1:23 PM | [Software Engineer III - DevOps/Release Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803468) | JP Morgan Chase | Chicago, IL, United States | 60 | rules: 3+ yrs exp; senior title; needs: Security Clearance |
-| 1:09 PM | [Associate Production Engineer](https://hdpn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6459) | Mauser Packaging Solutions | Burlington, ON, Canada (onsite) | 60 | rules: entry-level title; 3+ yrs exp; adjacent title, little DevOps/c… |
 | 12:22 PM | [Senior Analyst - Tech Ops Analytics](https://careers.united.com/us/en/job/UAIUADUSWHQ00027111EXTERNALENUSTALEO) | United Airlines | Chicago, Illinois, United States | 55 | rules: 1+ yrs exp; senior title; no future H-1B sponsorship; adjacent… |
 | date only | [Network Engineer](https://morristechnology.bamboohr.com/careers/443) | Morristechnology | Springfield, Illinois | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Senior Forward Deployed Engineer, Forward Deployment Engineering](https://www.amazon.jobs/en/jobs/10609076/senior-forward-deployed-engineer-forward-deployment-engineering) | Amazon Web Services, Inc. | New York, New York, USA | 30 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
