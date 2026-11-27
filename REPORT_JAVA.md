@@ -1,10 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**53 jobs**, newest first. Updated Thu Nov 26, 7:08 PM CST from 12,580 company job boards and other sources.
+**53 jobs**, newest first. Updated Thu Nov 26, 7:57 PM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-174 repeat listings (same company and title in another place or on another source) are merged into one row.
+175 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,285 matching jobs that job sites and feeds listed this week, 2,315 (54%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (11)](#tuesday-nov-24-11) · [Mon 23 (15)](#monday-nov-23-15) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (10)](#friday-nov-20-10) · [Thu 19 (3)](#thursday-nov-19-3)
 
@@ -12,7 +14,7 @@ Jump to: [Thu 26 (2)](#thursday-nov-26-2) · [Wed 25 (9)](#wednesday-nov-25-9) �
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
-| 9:19 AM (seen) | [Application Developer-Java & Web Technologies](https://careers.ibm.com/careers/JobDetail?jobId=143786) | IBM | Brookhaven, United States +16 more (hybrid) | 50 | repost |
+| 7:57 PM (seen) | [Application Developer-Java & Web Technologies](https://careers.ibm.com/careers/JobDetail?jobId=144054) | IBM | Chicago, United States +17 more (hybrid) | 50 |  |
 | 12:02 AM | [Senior Software Engineer  (Java)- US Remote](https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-senior-software-engineer-java-us-remote) | ZoomInfo Technologies LLC | Remote, US (Anywhere in the World) (remote) | 47 | senior title, years not stated; staffing/consulting firm: verify it's… |
 
 ## Wednesday, Nov 25 (9)
