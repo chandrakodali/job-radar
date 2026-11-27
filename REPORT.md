@@ -1,12 +1,10 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**142 jobs**, newest first. Updated Thu Nov 26, 6:07 PM CST from 12,535 company job boards and other sources.
+**142 jobs**, newest first. Updated Thu Nov 26, 6:19 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 161 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 3,074 matching jobs that job sites and feeds listed this week, 1,979 (64%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (33)](#tuesday-nov-24-33) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (43)](#friday-nov-20-43) · [Thu 19 (3)](#thursday-nov-19-3)
 
@@ -192,7 +190,7 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 8:07 PM (seen) | [Senior FinOps Analyst ID94366](https://agileengine.zohorecruit.com/jobs/Careers/248544000265312638/Senior-FinOps-Analyst-ID94366) | Agileengine | Boca Raton, United States | 25 | senior title, years not stated |
 | 6:30 PM | [IT Operations and Project Coordinator, IT Infrastructure](https://job-boards.greenhouse.io/clearwayjobs/jobs/5290313007) | Clearway Energy | San Diego, California, United States | 60 | 3+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (308)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (305)
 
 <details><summary>Show</summary>
 
@@ -467,7 +465,6 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 6:05 PM | [Senior DevOps Engineer (HYBRID)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6c0f07f7-5d5e-40a8-8e01-433d1c743d19&ccId=19000101_000001&jobId=9205251435086_1&lang=en_US) | 6C0F07F7 5D5E 40A8 8E01 433D1… |  | 45 | rules: 6+ yrs exp; senior title; needs: TS/SCI Clearance |
 | 5:59 PM | [Senior Linux Application Support Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6c0f07f7-5d5e-40a8-8e01-433d1c743d19&ccId=19000101_000001&jobId=9205253974162_39&lang=en_US) | 6C0F07F7 5D5E 40A8 8E01 433D1… |  | 30 | rules: 6+ yrs exp; senior title; needs: TS/SCI Clearance |
 | 5:58 PM | [Senior Software Engineer - API & DevOps](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6c0f07f7-5d5e-40a8-8e01-433d1c743d19&ccId=19000101_000001&jobId=9205253977156_49&lang=en_US) | 6C0F07F7 5D5E 40A8 8E01 433D1… | Odenton, MD | 45 | rules: 14+ yrs exp; senior title; needs: TS/SCI Clearance |
-| 5:45 PM | [Operating Systems Engineer, Linux Kernel / Consumer Devices](https://jobs.ashbyhq.com/openai/f0529a1d-fb6a-4229-a590-8caff1785bb3) | OpenAI | San Francisco | 50 | rules: adjacent title, little DevOps/cloud work in the text |
 | 1:30 PM | [Senior Network Engineer - 3902](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=659b82d2-10ab-4c07-8c2d-3ce16b4539b6&ccId=19000101_000001&jobId=9201928202991_71&lang=en_US) | 659B82D2 10Ab 4C07 8C2D 3Ce16… | Huntsville, AL | 30 | rules: 8+ yrs exp; senior title; needs: security clearance |
 | date only | [Senior Deep Learning Software Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893396905948) | Nvidia | CA,US (remote) | 30 | rules: 12+ yrs exp; senior title; asks for 12+ years of experience |
 | date only | [Senior Reliability Engineer](https://nvidia.eightfold.ai/careers/job/893396464343) | Nvidia | Santa Clara, CA, US (onsite) | 23 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
@@ -492,8 +489,6 @@ Jump to: [Thu 26 (7)](#thursday-nov-26-7) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 6:27 PM | [Production Engineer I](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=47cff557-9c88-4c72-94fb-3998b410a98f&ccId=19000101_000001&jobId=9201806116709_10&lang=en_US) | 47Cff557 9C88 4C72 94Fb 3998B… | Clackamas, OR | 68 | rules: entry-level title; 1+ yrs exp; E-Verify; needs: ITAR |
 | 5:40 PM | [Paint Production Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ed04d207-5c83-4a05-bb3e-d66a47159585&ccId=19000101_000001&jobId=511113762_6&lang=en_US) | Ed04D207 5C83 4A05 Bb3E D66A4… | Princeton, IN +1 more | 43 | rules: adjacent title, little DevOps/cloud work in the text |
 | 3:43 PM | [Network Engineer III](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=64b85cdf-e793-428c-847d-3c083156603d&ccId=1593362092_8566&jobId=9201462305941_1&lang=en_US) | 64B85Cdf E793 428C 847D 3C083… | Camarillo, CA | 28 | rules: 5+ yrs exp; senior title; E-Verify; asks for 5+ years of exper… |
-| date only | [Senior Devops Engineer](https://careers.capgemini.com/job/Atlanta%2C-GA-Senior-Devops-Engineer-GA-30301/1458192933/) | Capgemini | Atlanta, GA, United States | 33 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
-| date only | [Senior Network Engineer](https://assaabloy.jobs2web.com/job/New-Haven-Senior-Network-Engineer-CT-06511/1458220733/) | ASSA ABLOY | New Haven, CT, United States | 28 | rules: senior title, years not stated; adjacent title, little DevOps/… |
 | date only | [Senior Site Reliability Engineer](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Senior-Software-Development-Engineer_R69496-1) | Blue Origin | Greater Seattle Area | 33 | rules: 5+ yrs exp; senior title; needs: Must be a U.S. citizen |
 | date only | [Senior Analyst, AI SOC Observability & Runtime Monitoring](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Canandaigua-New-York/Senior-Analyst--AI-SOC-Observability---Runtime-Monitoring_R-41667-1) | Constellation Brands | Canandaigua, New York; Rochester, New Y… | 33 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Azure Infrastructure Engineer](https://apply.workable.com/tomorrow-hire/j/3B87EA976C/) | Tomorrow Hire | Mechanicsville, Virginia, United States | 28 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
