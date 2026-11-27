@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**305 jobs**, newest first. Updated Fri Nov 27, 12:36 AM CST from 12,580 company job boards and other sources.
+**304 jobs**, newest first. Updated Fri Nov 27, 1:26 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 96 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (74)](#friday-nov-20-74)
+Coverage check: of 4,541 matching jobs that job sites and feeds listed this week, 856 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (73)](#friday-nov-20-73)
 
 ## Friday, Nov 27 (2)
 
@@ -274,7 +276,7 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 3:26 AM | [Vendor Stock Support Associate, Bellevue Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826998) | Macy's | Bellevue, WA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chandler Fashio…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826986) | Macy's | Chandler, AZ, United States | 75 | entry-level title |
 
-## Friday, Nov 20 (74)
+## Friday, Nov 20 (73)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -351,15 +353,16 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, South Coast Pla…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826737) | Macy's | Costa Mesa, CA, United States | 75 | entry-level title |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Empire](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826708) | Macy's | Sioux Falls, SD, United States | 75 | entry-level title |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Fresno Fashion …](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826705) | Macy's | Fresno, CA, United States | 75 | entry-level title |
-| 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1209)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1207)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Full-Stack Software Engineer](https://apply.workable.com/raydar/j/9FFE64CAED/) | Raydar | Foster City, California, United States … | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| date only | [Manual Tester](https://careers.capgemini.com/job/New-York%2C-NY-Manual-Tester-NY-10001/1461224333/) | Capgemini | New York, NY, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 1:01 AM | [Windows Client Security Specialist - Remote (San Francisco Bay Area)](https://jobs.lever.co/jobgether/1fbd79ea-4ec4-4bd9-a6f3-1f24395eb85a) | Jobgether | San Francisco Bay Area +1 more (remote) | 42 | rules: 10+ yrs exp; asks for 10+ years of experience |
 | 12:25 AM | [Regulatory Business System Analyst - Remote (San Francisco Bay Area)](https://jobs.lever.co/jobgether/bc25028a-b47a-479b-b709-76991d441a7f) | Jobgether | San Francisco Bay Area +1 more (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 12:11 AM | [Oracle Fusion Financials Consultant - Remote (San Francisco Bay Area)](https://jobs.lever.co/jobgether/0566456f-c61d-40c5-adcf-2b4c283bd9b4) | Jobgether | San Francisco Bay Area +1 more (remote) | 42 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | 11:52 PM | [Product Tester, SMB](https://jobs.lever.co/jobgether/8ec60b62-8bcd-458e-a960-db3925705d48) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -757,7 +760,5 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 10:35 AM | [Instrument Software Test and Quality Assurance Engineer](https://jobs.keysight.com/jobs/53573?lang=en-us) | Keysight Technologies | Santa Rosa, California | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 10:32 AM | [Software Engineer, Experimental Projects](https://stripe.com/jobs/search?gh_jid=8394936) | Stripe | New York City | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 10:31 AM | [Systems Engineer](https://job-boards.greenhouse.io/greenpointtechnologies/jobs/5489858008) | Greenpointtechnologies | Bothell, Washington, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 10:30 AM | [Mid Level System Engineer](https://job-boards.greenhouse.io/freedomconsulting/jobs/5308198007) | Freedom Technology Solutions … | Annapolis Junction, MD | 50 | rules: 7+ yrs exp; E-Verify; needs: Active TS/SCI |
-| 10:25 AM | [Systems Engineer](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/176456) | AutoZone | Memphis, TN, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
