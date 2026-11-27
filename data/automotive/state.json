@@ -12288,7 +12288,7 @@
   "workday:nxp||careers": 140,
   "workday:oshkoshcorporation|wd5|oshkosh": 120,
   "workday:phinia|wd5|phinia_careers": 16,
-  "workday:polaris|wd5|polarisjobs": 114,
+  "workday:polaris|wd5|polarisjobs": 40,
   "workday:recar|wd108|slatecareers": 122,
   "workday:rockwellautomation|wd1|external_rockwell_automation": 20,
   "workday:sensata|wd1|sensata-careers": 20,
@@ -14069,7 +14069,7 @@
    "since": "2026-11-11"
   }
  },
- "found_cursor": 3011,
+ "found_cursor": 41,
  "last_digest": "2026-11-26",
  "missed_companies": {},
  "missing_once": {
@@ -21137,7 +21137,7 @@
   "workday:oshkoshcorporation|wd5|Oshkosh": "2026-11-27T01:57+00:00",
   "workday:ourhrconnect|wd501|SCBlues": "2026-11-20T18:01+00:00",
   "workday:phinia|wd5|PHINIA_Careers": "2026-11-27T01:57+00:00",
-  "workday:polaris|wd5|PolarisJobs": "2026-11-21T14:31+00:00",
+  "workday:polaris|wd5|PolarisJobs": "2026-11-27T05:04+00:00",
   "workday:polestar|wd3|Careers": "2026-11-21T02:36+00:00",
   "workday:recar|wd108|SLATEcareers": "2026-11-27T01:57+00:00",
   "workday:rhsc|wd5|delta_dental_of_michigan": "2026-11-20T18:01+00:00",
@@ -93679,7 +93679,7 @@
   "zoho:stackand:311383000018775968": "2026-11-15"
  },
  "source_last": {},
- "term_cursor": 45,
+ "term_cursor": 7,
  "text_retries": {
   "avature:harmanglobal.avature.net|en_US/careers:32174": 2,
   "avature:harmanglobal.avature.net|en_US/careers:32516": 2,
@@ -93779,7 +93779,7 @@
   "workday:polaris|wd5|PolarisJobs:R31491": 1,
   "workday:polaris|wd5|PolarisJobs:R31706": 1,
   "workday:polaris|wd5|PolarisJobs:R31852": 1,
-  "workday:polaris|wd5|PolarisJobs:R31965": 1,
+  "workday:polaris|wd5|PolarisJobs:R31965": 2,
   "workday:polaris|wd5|PolarisJobs:R31982": 1,
   "workday:rockwellautomation|wd1|External_Rockwell_Automation:R26-5070": 1,
   "workday:rockwellautomation|wd1|External_Rockwell_Automation:R26-7424": 1,
