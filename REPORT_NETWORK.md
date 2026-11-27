@@ -1,12 +1,10 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**28 jobs**, newest first. Updated Fri Nov 27, 11:26 AM CST from 12,535 company job boards and other sources.
+**28 jobs**, newest first. Updated Fri Nov 27, 11:38 AM CST from 12,580 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
 1 repeat listings (same company and title in another place or on another source) are merged into one row.
-
-Coverage check: of 783 matching jobs that job sites and feeds listed this week, 402 (51%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (7)](#friday-nov-20-7)
 
@@ -63,7 +61,7 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 | 12:33 PM (seen) | [Infrastructure Engineer – Data Center (Dallas, TX · Onsite)](https://app.dover.com/apply/itmates/9ea8ebdd-ae42-475d-a750-815bbb069ce4) | Itmates | Dallas, TX (onsite) | 30 | 4+ yrs exp; no future H-1B sponsorship; network work in the text |
 | 11:47 AM | [Network Administrator](https://job-boards.greenhouse.io/aegworldwide/jobs/8948571002) | AEG | Nashville, TN | 70 | 2+ yrs exp; no future H-1B sponsorship |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (67)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (66)
 
 <details><summary>Show</summary>
 
@@ -113,7 +111,6 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 | 5:05 PM | [Senior Network Engineer - PCLOB](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684078) | 33704Aa8 8475 45E8 B8A8 55E4D… | DC, USA | 45 | rules: 7+ yrs exp; senior title; needs: security clearance |
 | date only | [Network Engineer](https://morristechnology.bamboohr.com/careers/443) | Morristechnology | Springfield, Illinois | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Network Operations Center Engineer](https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=107955&lang=en) | Lawrence Berkeley National La… |  | 50 | rules: 5+ yrs exp; likely H-1B cap-exempt (verify); asks for 5+ years… |
-| 10:25 AM | [Senior Network Engineer](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022806) | ADT | Irving, TX, United States | 45 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 11:00 PM | [Senior Network Engineer, Implementation](https://jobs.dayforcehcm.com/en-US/eci/candidateportal/jobs/921) | Eci | Dallas, TX, US; NY, US | 45 | rules: 7+ yrs exp; senior title; asks for 7+ years of experience |
 | 11:00 PM | [Network Engineer](https://careers-steeldynamics.icims.com/jobs/9245/network-engineer/job) | Steel Dynamics | Sinton, TX, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 11:00 PM | [Network Administrator](https://jobs-bylight.icims.com/jobs/12339/network-administrator/job) | By Light Professional IT Serv… | Radford, VA, United States | 45 | rules: 5+ yrs exp; needs: Security Clearance |
