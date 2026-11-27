@@ -1,6 +1,6 @@
 # Auto Radar: what the matching jobs ask for
 
-Counted over the job descriptions of **1802 current matches** (boilerplate left out). "Asked for" = named in the requirements or the main duties; "Required" = named under required/basic qualifications or in the title.
+Counted over the job descriptions of **1803 current matches** (boilerplate left out). "Asked for" = named in the requirements or the main duties; "Required" = named under required/basic qualifications or in the title.
 
 ## Skills the resume shows, most asked first
 
@@ -8,11 +8,11 @@ Make sure each of these is written on the resume in the words employers use: rec
 
 | Skill | Asked for in | Required in |
 |---|---:|---:|
-| Embedded software | 947 jobs (53%) | 676 (38%) |
+| Embedded software | 948 jobs (53%) | 677 (38%) |
 | C++ | 824 jobs (46%) | 546 (30%) |
 | Python | 720 jobs (40%) | 449 (25%) |
 | C | 606 jobs (34%) | 405 (22%) |
-| Controls/algorithms | 585 jobs (32%) | 280 (16%) |
+| Controls/algorithms | 586 jobs (33%) | 281 (16%) |
 | CAN/CAN FD | 516 jobs (29%) | 280 (16%) |
 | Functional safety | 465 jobs (26%) | 200 (11%) |
 | Requirements engineering | 403 jobs (22%) | 131 (7%) |
@@ -41,7 +41,7 @@ If you have one of these, add it to the resume (and to profiles/automotive/skill
 | Skill | Asked for in | Required in |
 |---|---:|---:|
 | HIL testing | 468 jobs (26%) | 159 (9%) |
-| Hardware design (FPGA/PCB/analog) | 378 jobs (21%) | 209 (12%) |
+| Hardware design (FPGA/PCB/analog) | 379 jobs (21%) | 210 (12%) |
 | Debugging hardware (Lauterbach/JTAG/scope) | 348 jobs (19%) | 211 (12%) |
 | RTOS | 329 jobs (18%) | 209 (12%) |
 | Microcontrollers | 308 jobs (17%) | 162 (9%) |
