@@ -14074,7 +14074,7 @@
    "since": "2026-11-11"
   }
  },
- "found_cursor": 3041,
+ "found_cursor": 71,
  "last_digest": "2026-11-26",
  "missed_companies": {},
  "missing_once": {
@@ -21086,7 +21086,7 @@
   "workday:directsupply|wd501|direct-supply-careers": "2026-11-20T18:01+00:00",
   "workday:dollartree|wd5|dollartreeus": "2026-11-20T18:01+00:00",
   "workday:draper|wd5|Draper_Careers": "2026-11-20T18:01+00:00",
-  "workday:dtna|wd5|dtna_external": "2026-11-21T14:31+00:00",
+  "workday:dtna|wd5|dtna_external": "2026-11-27T08:03+00:00",
   "workday:dxctechnology|wd1|dxcjobs": "2026-11-20T18:01+00:00",
   "workday:easternshipbuilding|wd12|EasternShipbuildingGroupsystem": "2026-11-20T18:01+00:00",
   "workday:edftrading|wd1|EDFTrading": "2026-11-20T18:01+00:00",
@@ -93689,7 +93689,7 @@
   "zoho:stackand:311383000018775968": "2026-11-15"
  },
  "source_last": {},
- "term_cursor": 17,
+ "term_cursor": 27,
  "text_retries": {
   "avature:harmanglobal.avature.net|en_US/careers:32174": 2,
   "avature:harmanglobal.avature.net|en_US/careers:32516": 2,
@@ -93731,7 +93731,10 @@
   "workday:cat|wd5|caterpillarcareers:R0000403205": 1,
   "workday:cat|wd5|caterpillarcareers:R0000406180": 1,
   "workday:cat|wd5|caterpillarcareers:R0000406205": 1,
+  "workday:dtna|wd5|dtna_external:DT-20482": 1,
   "workday:dtna|wd5|dtna_external:DT-20679": 2,
+  "workday:dtna|wd5|dtna_external:DT-20814": 1,
+  "workday:dtna|wd5|dtna_external:DT-20854": 1,
   "workday:geaerospace|wd5|GE_ExternalSite:R5041872": 1,
   "workday:geaerospace|wd5|GE_ExternalSite:R5043220": 1,
   "workday:geaerospace|wd5|GE_ExternalSite:R5043525": 1,
