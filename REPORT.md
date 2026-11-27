@@ -1,14 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**121 jobs**, newest first. Updated Fri Nov 27, 12:37 PM CST from 12,535 company job boards and other sources.
+**120 jobs**, newest first. Updated Fri Nov 27, 12:49 PM CST from 12,580 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 138 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 3,432 matching jobs that job sites and feeds listed this week, 2,236 (65%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (16)](#friday-nov-20-16)
+Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (15)](#friday-nov-20-15)
 
 ## Friday, Nov 27 (5)
 
@@ -150,7 +148,7 @@ Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | date only | [AI Platform Developer - MCP & Agentic Infrastructure](https://jobs.adidas-group.com/job/Zaragoza-AI-Platform-Developer-MCP-&-Agentic-Infrastructure-Aragon/1459256433/) | Adidas |  | 43 | 3+ yrs exp; location unclear |
 | 1:28 AM | [Purchasing Operations Analyst, Infrastructure Services](https://jobs.apple.com/en-us/details/200696405/purchasing-operations-analyst-infrastructure-services) | Apple | United States of America | 65 |  |
 
-## Friday, Nov 20 (16)
+## Friday, Nov 20 (15)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -169,9 +167,8 @@ Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | 2:17 PM | [Senior Platform Engineer](https://jobs.workable.com/view/6LjAdxVg6c3Mv6XuafzGA7/remote-senior-platform-engineer-in-united-states-at-talentpluto) | talentpluto | Remote, US (remote) | 52 | 3+ yrs exp; senior title; staffing/consulting firm: verify it's real |
 | 1:07 PM (seen) | [Revenue Cloud Developer ID102545](https://agileengine.zohorecruit.com/jobs/Careers/248544000265799994/Revenue-Cloud-Developer-ID102545) | Agileengine | Jersey City, United States +23 more | 50 |  |
 | 1:06 PM | [Platform Engineering Senior Associate](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215254) | DTCC | Jersey City, NJ, United States | 65 | entry-level title; senior title, years not stated; repost |
-| 12:37 PM (seen) | [Technical Consultant-Cloud Platform Engineering Services](https://careers.ibm.com/careers/JobDetail?jobId=143701) | IBM | No City, United States (hybrid) | 50 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (268)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (265)
 
 <details><summary>Show</summary>
 
@@ -383,16 +380,13 @@ Jump to: [Fri 27 (5)](#friday-nov-27-5) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | 1:09 PM | [Associate Production Engineer](https://hdpn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6459) | Mauser Packaging Solutions | Burlington, ON, Canada (onsite) | 60 | rules: entry-level title; 3+ yrs exp; adjacent title, little DevOps/c… |
 | 12:58 PM | [Dir Cloud FinOps](https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20445) | ACI Worldwide | Norcross, GA, United States (hybrid) | 30 | rules: 10+ yrs exp; no future H-1B sponsorship; asks for 10+ years of… |
 | 12:46 PM | [Window System Administrator (EMM/Knox Admin)](https://jobs.smartrecruiters.com/WJCompany/744000162802009-window-system-administrator-emm-knox-admin-) | Woongjin | Plano, TX, United States | 45 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
-| 12:28 PM | [Cloud Adoption Engineer-Networking](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/job/350672) | Eeho Fa Us2 Oraclecloud Com | Reston, VA, United States; Washington, … | 40 | rules: 8+ yrs exp; needs: U.S. citizenship is required |
+| 12:28 PM | [Cloud Adoption Engineer-Networking](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350672) | Oracle | Reston, VA, United States; Washington, … | 40 | rules: 8+ yrs exp; needs: U.S. citizenship is required |
 | 12:22 PM | [Senior Analyst - Tech Ops Analytics](https://careers.united.com/us/en/job/UAIUADUSWHQ00027111EXTERNALENUSTALEO) | United Airlines | Chicago, Illinois, United States | 55 | rules: 1+ yrs exp; senior title; no future H-1B sponsorship; adjacent… |
-| 12:13 PM | [Senior Application Support Engineer – Distributed & Mainframe](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/213961) | Ebxr Fa Us2 Oraclecloud Com | Dallas, TX, United States; Tampa, FL, U… | 25 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
+| 12:13 PM | [Senior Application Support Engineer – Distributed & Mainframe](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/213961) | DTCC | Dallas, TX, United States; Tampa, FL, U… | 30 | rules: 6+ yrs exp; senior title; asks for 6+ years of experience |
 | 12:04 PM | [Senior Platform Infrastructure Engineer I](https://job-boards.greenhouse.io/braze/jobs/8399181) | Braze | New York City | 55 | rules: entry-level title; 5+ yrs exp; senior title; asks for 5+ years… |
-| 11:48 AM | [DevOps Engineer](https://job-boards.greenhouse.io/oddball/jobs/8210802003) | Oddball | Remote (remote) | 62 | rules: needs: security clearance |
 | 11:48 AM | [Entrata Systems Administrator](https://jobs.smartrecruiters.com/AIRCommunities/744000162791674-entrata-systems-administrator) | AIRCommunities | Atlanta, GA, United States +1 more | 45 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
 | 11:47 AM | [Network Administrator](https://job-boards.greenhouse.io/aegworldwide/jobs/8948571002) | AEG | Nashville, TN | 55 | rules: 2+ yrs exp; no future H-1B sponsorship; adjacent title, little… |
 | 11:47 AM | [Business Systems Administrator](https://jobs.smartrecruiters.com/AIRCommunities/744000162791959-business-systems-administrator) | AIRCommunities | Denver, CO, United States | 45 | rules: 3+ yrs exp; adjacent title, little DevOps/cloud work in the te… |
-| 11:36 AM | [Site Reliability Engineer](https://job-boards.greenhouse.io/oddball/jobs/8210795003) | Oddball | Remote (remote) | 62 | rules: needs: security clearance |
-| 11:22 AM | [Spring 2027 Start - Undergrad Software Engineer - Oracle Cloud Infras…](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobearch/job/350824) | Eeho Fa Us2 Oraclecloud Com | Nashville, TN, United States | 40 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [DevOps Engineers](https://arteratechnologies.applytojob.com/apply/9C33Mdrgxl/DevOps-Engineers) | Artera Technologies | Annapolis Junction / Fort Meade, MD | 45 | rules: 8+ yrs exp; needs: Security Clearance |
 | date only | [Cloud Software Engineer](https://jobs.jobvite.com/visionist/job/oeb8AfwR) | Visionist | Columbia, MD, United States; Laurel, MD… | 45 | rules: 6+ yrs exp; needs: security clearance |
 | date only | [Network Engineer](https://morristechnology.bamboohr.com/careers/443) | Morristechnology | Springfield, Illinois | 30 | rules: 5+ yrs exp; asks for 5+ years of experience |
