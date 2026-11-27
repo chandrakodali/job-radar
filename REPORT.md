@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**139 jobs**, newest first. Updated Fri Nov 27, 1:50 AM CST from 12,580 company job boards and other sources.
+**139 jobs**, newest first. Updated Fri Nov 27, 2:07 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 161 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,242 matching jobs that job sites and feeds listed this week, 2,100 (64%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (32)](#monday-nov-23-32) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (41)](#friday-nov-20-41)
 
@@ -182,7 +184,7 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 5:28 AM | [Infrastructure Software Engineer](https://jobs.ashbyhq.com/namespace/168f6c0b-a28c-4b04-9432-228a297aeedc) | Namespace | Switzerland; New York; Germany; United … (hybrid) | 70 |  |
 | 5:12 AM | [Assistant Cloud Administrator for the Division of HPD TECH](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016989966-assistant-cloud-administrator-for-the-division-of-hpd-tech) | Cityofnewyork | New York City, NY, United States | 75 | 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (298)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (297)
 
 <details><summary>Show</summary>
 
@@ -454,7 +456,6 @@ Jump to: [Thu 26 (8)](#thursday-nov-26-8) · [Wed 25 (17)](#wednesday-nov-25-17)
 | 5:59 PM | [Senior Linux Application Support Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6c0f07f7-5d5e-40a8-8e01-433d1c743d19&ccId=19000101_000001&jobId=9205253974162_39&lang=en_US) | 6C0F07F7 5D5E 40A8 8E01 433D1… |  | 30 | rules: 6+ yrs exp; senior title; needs: TS/SCI Clearance |
 | 5:58 PM | [Senior Software Engineer - API & DevOps](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6c0f07f7-5d5e-40a8-8e01-433d1c743d19&ccId=19000101_000001&jobId=9205253977156_49&lang=en_US) | 6C0F07F7 5D5E 40A8 8E01 433D1… | Odenton, MD | 45 | rules: 14+ yrs exp; senior title; needs: TS/SCI Clearance |
 | 1:30 PM | [Senior Network Engineer - 3902](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=659b82d2-10ab-4c07-8c2d-3ce16b4539b6&ccId=19000101_000001&jobId=9201928202991_71&lang=en_US) | 659B82D2 10Ab 4C07 8C2D 3Ce16… | Huntsville, AL | 30 | rules: 8+ yrs exp; senior title; needs: security clearance |
-| date only | [Senior Reliability Engineer](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Branchburg-NJ-HO---US-Hwy-22-W---Advanced-materials/Senior-Project-Reliability-Engineer_R10090406-1) | Air Liquide | Branchburg, NJ (HO) - US Hwy 22 W - Adv… | 18 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
 | date only | [Senior Software Engineer, DGX Cloud AI Infrastructure](https://nvidia.eightfold.ai/careers/job/893395444538) | Nvidia | Santa Clara, CA, US; Austin, TX, US; WA… (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Ground Software (GSW) Avionics & Infrastructure Engineer 2](https://jobs.ulalaunch.com/job/Centennial-Ground-Software-%28GSW%29-Avionics-&-Infrastructure-Engineer-2-CO-80112/1452361800/) | United Launch Alliance | Centennial, CO, United States | 58 | rules: E-Verify; needs: Security Clearance |
 | date only | [CI/CD Pipelines Software Engineer 3](https://jobs.ulalaunch.com/job/Centennial-CICD-Pipelines-Software-Engineer-3-CO-80112/1452363500/) | United Launch Alliance | Centennial, CO, United States | 43 | rules: 4+ yrs exp; senior title; E-Verify; needs: Security Clearance |
