@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**306 jobs**, newest first. Updated Thu Nov 26, 11:37 PM CST from 12,580 company job boards and other sources.
+**305 jobs**, newest first. Updated Fri Nov 27, 12:24 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 96 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (75)](#friday-nov-20-75)
+Coverage check: of 4,541 matching jobs that job sites and feeds listed this week, 856 (18%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (26)](#saturday-nov-21-26) · [Fri 20 (74)](#friday-nov-20-74)
 
 ## Friday, Nov 27 (2)
 
@@ -274,7 +276,7 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 3:26 AM | [Vendor Stock Support Associate, Bellevue Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826998) | Macy's | Bellevue, WA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chandler Fashio…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826986) | Macy's | Chandler, AZ, United States | 75 | entry-level title |
 
-## Friday, Nov 20 (75)
+## Friday, Nov 20 (74)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -352,7 +354,6 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Empire](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826708) | Macy's | Sioux Falls, SD, United States | 75 | entry-level title |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Fresno Fashion …](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826705) | Macy's | Fresno, CA, United States | 75 | entry-level title |
 | 12:53 AM | [Energy/Utility Data Analyst](https://jobs.lever.co/jobgether/7f7f9595-2d7f-44cd-9dd6-9a50eae0c954) | Jobgether | US (remote) | 82 | 1+ yrs exp; entry level (from the text) |
-| 12:06 AM | [IT Support Desk Technician I](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4680751) | HEARTLAND BUSINESS SYSTEMS LLC | Wausau, WI, United States (remote) | 77 | entry-level title; 1+ yrs exp; staffing/consulting firm: verify it's … |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (1209)
 
@@ -361,6 +362,12 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Full-Stack Software Engineer](https://apply.workable.com/raydar/j/9FFE64CAED/) | Raydar | Foster City, California, United States … | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 12:25 AM | [Regulatory Business System Analyst - Remote (San Francisco Bay Area)](https://jobs.lever.co/jobgether/bc25028a-b47a-479b-b709-76991d441a7f) | Jobgether | San Francisco Bay Area +1 more (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 12:11 AM | [Oracle Fusion Financials Consultant - Remote (San Francisco Bay Area)](https://jobs.lever.co/jobgether/0566456f-c61d-40c5-adcf-2b4c283bd9b4) | Jobgether | San Francisco Bay Area +1 more (remote) | 42 | rules: 7+ yrs exp; asks for 7+ years of experience |
+| 11:52 PM | [Product Tester, SMB](https://jobs.lever.co/jobgether/8ec60b62-8bcd-458e-a960-db3925705d48) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 11:39 PM | [Product Tester, Health](https://jobs.lever.co/jobgether/271e5385-524c-4fa5-b13d-f17c396c80f2) | Jobgether | US (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 11:34 PM | [SAP Integration Suite Consultant](https://jobs.lever.co/jobgether/91b83770-27e1-4c7d-9260-d509c983213e) | Jobgether | US (remote) | 42 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| 11:00 PM | [Security Specialist](https://careers-americansystems.icims.com/jobs/6082/security-specialist/job) | AMERICAN SYSTEMS | Washington, DC, United States | 60 | rules: 3+ yrs exp; needs: TS clearance |
 | 5:19 PM (seen) | [Software Developer - Networking (Flow)](https://jobs.jobvite.com/nutanix/job/oCgOAfw0) | Nutanix |  | 55 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | 11:58 AM | [Developer Relations](https://jobs.ashbyhq.com/Clera/8a39dc9a-7e2b-4094-b4bf-f1a39932c756) | Clera | Palo Alto (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Software Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2030720EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -754,11 +761,5 @@ Jump to: [Fri 27 (2)](#friday-nov-27-2) · [Thu 26 (13)](#thursday-nov-26-13) ·
 | 10:31 AM | [Systems Engineer](https://job-boards.greenhouse.io/greenpointtechnologies/jobs/5489858008) | Greenpointtechnologies | Bothell, Washington, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 10:30 AM | [Mid Level System Engineer](https://job-boards.greenhouse.io/freedomconsulting/jobs/5308198007) | Freedom Technology Solutions … | Annapolis Junction, MD | 50 | rules: 7+ yrs exp; E-Verify; needs: Active TS/SCI |
 | 10:25 AM | [Systems Engineer](https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/176456) | AutoZone | Memphis, TN, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 10:20 AM | [Systems Analyst-FAS-Hybrid](https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396351) | Mayo Clinic | Rochester, MN, United States | 40 | rules: 9+ yrs exp; no future H-1B sponsorship; asks for 9+ years of e… |
-| 10:19 AM | [Data Engineer](https://jobs.smartrecruiters.com/Intuitive/744000163503569-data-engineer) | Intuitive Surgical | Sunnyvale, CA, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| 10:00 AM | [Security Systems Technician](https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/176438) | Securitas | Sterling, VA, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| 10:00 AM | [Full Stack/Node.js Developer](https://job-boards.greenhouse.io/grvty/jobs/4520497009) | GRVTY | Chantilly, Virginia, United States | 45 | rules: 5+ yrs exp; needs: Active TS/SCI |
-| 9:58 AM | [DevSecOps Engineer](https://jobs.ashbyhq.com/noda-ai/a660e584-e5df-45aa-bc46-0cf8fc6c0a1e) | Noda Ai | Austin (hybrid) | 50 | rules: 5+ yrs exp; needs: security clearance |
-| 9:47 AM | [Java developer - Kafka, MQ, FIX, FpML - 15+ Years of experience (Full…](https://jobs.smartrecruiters.com/SyncreonConsulting/744000163489077-java-developer-kafka-mq-fix-fpml-15-years-of-experience-full-time-) | Syncreon Consulting | New York, NY, United States | 40 | rules: 10+ yrs exp; staffing/consulting firm: verify it's real; asks … |
 
 </details>
