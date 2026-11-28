@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**250 jobs**, newest first. Updated Fri Nov 27, 6:56 PM CST from 12,535 company job boards and other sources.
+**249 jobs**, newest first. Updated Fri Nov 27, 7:10 PM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 76 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,704 matching jobs that job sites and feeds listed this week, 795 (16%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Fri 27 (17)](#friday-nov-27-17) · [Thu 26 (15)](#thursday-nov-26-15) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (25)](#saturday-nov-21-25) · [Fri 20 (3)](#friday-nov-20-3)
+Jump to: [Fri 27 (17)](#friday-nov-27-17) · [Thu 26 (15)](#thursday-nov-26-15) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (25)](#saturday-nov-21-25) · [Fri 20 (2)](#friday-nov-20-2)
 
 ## Friday, Nov 27 (17)
 
@@ -292,13 +290,12 @@ Jump to: [Fri 27 (17)](#friday-nov-27-17) · [Thu 26 (15)](#thursday-nov-26-15) 
 | 3:26 AM | [Vendor Stock Support Associate, Bellevue Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826998) | Macy's | Bellevue, WA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chandler Fashio…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826986) | Macy's | Chandler, AZ, United States | 75 | entry-level title |
 
-## Friday, Nov 20 (3)
+## Friday, Nov 20 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 8:15 PM | [Technology Specialist I (Ingeniero)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=47265edf-244d-45d7-ad34-fc81d446a318&ccId=19000101_000001&jobId=9201931050238_3&lang=en_US) | 47265Edf 244D 45D7 Ad34 Fc81D… | Acuna, COA | 63 | entry-level title; location unclear |
 | 7:22 PM | [Health Data Analyst](https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/472776) | Evac Fa Us2 Oraclecloud Com | Eureka, CA, United States (onsite) | 80 | 1+ yrs exp |
-| 7:09 PM | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Affirm | Remote US (remote) | 72 | entry-level title |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (835)
 
