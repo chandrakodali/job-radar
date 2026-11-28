@@ -26,9 +26,9 @@ run businesses autonomously, now available to the public as a research preview.
 We have a front row seat to the frontiers of AI through our own experiments and our
 collaborations with the AI labs.
 Roles
-We're looking for research scientists, research engineers, software engineers, and design
-engineers to build this future. Things move fast, which makes specifying the exact
-responsibilities of roles hard. Below are the four areas of work we are currently most
+We're looking for research scientists, research engineers, software engineers, design engineers,
+and operations staff to build this future. Things move fast, which makes specifying the exact
+responsibilities of roles hard. Below are the five areas of work we are currently most
 interested in:
 Research/Engineering: AI Safety and Evals
 We don't believe model alignment will be guaranteed as capabilities increase. Nor will humans be
@@ -53,5 +53,12 @@ What should the interface between humans and autonomous organizations look like?
 As a Design Engineer, you answer this question by owning the user experience of Pion . You obsess over design and craft, and take ideas all the way from design to implementation.
 You’re also comfortable building features in our backend. Our tech stack is a SvelteKit
 frontend, with a Python backend and Postgres database.
-Compensation: $120k–$230k salary and $300k–$900k in equity.
+Member of operations staff
+We’re hiring a member of our operations staff to make sure Andon runs smoothly day to day. You
+will be responsible for ensuring contracts get sent and signed, customers are billed, expenses
+are paid, keeping the office well-stocked, and more.
+A large part of your daily work will involve working with and managing AI agents responsible for
+carrying out tasks at Andon, setting direction, and helping them when they get stuck.
+Compensation: $120k–$230k salary and $300k–$900k in equity for research and engineering
+roles, and $100k–$160k salary and $200k–$600k in equity for operations.
 We're based in San Francisco (in-person only).
