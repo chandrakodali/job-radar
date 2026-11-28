@@ -14100,7 +14100,7 @@
    "since": "2026-11-11"
   }
  },
- "found_cursor": 3071,
+ "found_cursor": 11,
  "last_digest": "2026-11-27",
  "missed_companies": {},
  "missing_once": {
@@ -93825,7 +93825,7 @@
   "zoho:stackand:311383000018775968": "2026-11-15"
  },
  "source_last": {},
- "term_cursor": 25,
+ "term_cursor": 35,
  "text_retries": {
   "avature:harmanglobal.avature.net|en_US/careers:32174": 2,
   "avature:harmanglobal.avature.net|en_US/careers:32516": 2,
