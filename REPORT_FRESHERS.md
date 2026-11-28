@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**248 jobs**, newest first. Updated Fri Nov 27, 9:28 PM CST from 12,580 company job boards and other sources.
+**248 jobs**, newest first. Updated Fri Nov 27, 10:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 71 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,829 matching jobs that job sites and feeds listed this week, 804 (16%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 28 (1)](#saturday-nov-28-1) · [Fri 27 (17)](#friday-nov-27-17) · [Thu 26 (15)](#thursday-nov-26-15) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (25)](#saturday-nov-21-25)
 
@@ -296,7 +298,7 @@ Jump to: [Sat 28 (1)](#saturday-nov-28-1) · [Fri 27 (17)](#friday-nov-27-17) ·
 | 3:26 AM | [Vendor Stock Support Associate, Bellevue Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826998) | Macy's | Bellevue, WA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chandler Fashio…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826986) | Macy's | Chandler, AZ, United States | 75 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (830)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (829)
 
 <details><summary>Show</summary>
 
@@ -511,6 +513,7 @@ Jump to: [Sat 28 (1)](#saturday-nov-28-1) · [Fri 27 (17)](#friday-nov-27-17) ·
 | date only | [System Verification Co-Design Engineer - Speed and Rel](https://nvidia.eightfold.ai/careers/job/893396187825) | Nvidia | Santa Clara, CA, US (onsite) | 58 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | date only | [System Software Engineer, Calibration - Autonomous Vehicles](https://nvidia.eightfold.ai/careers/job/893394111987) | Nvidia | Santa Clara, CA, US (onsite) | 43 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Systems Engineer, World Model Evaluation - Autonomous Vehicles](https://nvidia.eightfold.ai/careers/job/893396212488) | Nvidia | Santa Clara, CA, US (onsite) | 43 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| date only | [Optical Package Test Engineer](https://nvidia.eightfold.ai/careers/job/893397740042) | Nvidia | Santa Clara, CA, US (onsite) | 68 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 10:53 AM | [Embedded Implementation Consultant](https://www.brex.com/careers/8962370002?gh_jid=8962370002) | Brex | Seattle, Washington, United States +3 m… | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | 10:45 AM | [Cybersecurity Engineer, Product Cybersecurity](https://jobs.smartrecruiters.com/Wabtec/3743990017091891-cybersecurity-engineer-product-cybersecurity) | Wabtec | Erie, PA, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 10:42 AM | [IT Onsite Support Technician](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000163730304-it-onsite-support-technician) | Bertelsmann | Pleasant-Prairie, Wisconsin (WI), Unite… | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -701,6 +704,5 @@ Jump to: [Sat 28 (1)](#saturday-nov-28-1) · [Fri 27 (17)](#friday-nov-27-17) ·
 | date only | [HIL Test Automation Engineer](https://apply.workable.com/terabase-energy/j/E6F7663E38/) | Terabase | United States (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Embedded Software Engineer, Annapurna Ml Software](https://www.amazon.jobs/en/jobs/10612795/embedded-software-engineer-annapurna-ml-software) | Annapurna Labs (U.S.) Inc. | Cupertino, California, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [TSCM Subject Matter Expert / Event Security Specialist](https://micron.eightfold.ai/careers/job/44832762) | Micron | San Jose, CA, US; Manassas, VA, US (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
-| date only | [Full Stack Software Engineer-Java](https://citi.eightfold.ai/careers/job/859038804301) | Citi | New York, NY, US (hybrid) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 
 </details>
