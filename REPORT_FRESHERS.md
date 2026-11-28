@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**243 jobs**, newest first. Updated Sat Nov 28, 4:34 AM CST from 12,580 company job boards and other sources.
+**243 jobs**, newest first. Updated Sat Nov 28, 5:19 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 71 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 5,079 matching jobs that job sites and feeds listed this week, 814 (16%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 28 (1)](#saturday-nov-28-1) · [Fri 27 (17)](#friday-nov-27-17) · [Thu 26 (15)](#thursday-nov-26-15) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (20)](#saturday-nov-21-20)
 
@@ -291,12 +293,15 @@ Jump to: [Sat 28 (1)](#saturday-nov-28-1) · [Fri 27 (17)](#friday-nov-27-17) ·
 | date only | [Title: Platform Solutions Associate](https://careers.mediaocean.com/Innovid/job/Buenos-Aires-Platform-Solutions-Associate/1454055500/) | Mediaocean |  | 58 | entry-level title; location unclear |
 | 5:29 AM | [Administrative Support Associate](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017021926-administrative-support-associate) | Cityofnewyork | New York City, NY, United States | 75 | entry-level title |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (822)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (825)
 
 <details><summary>Show</summary>
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:27 AM | [IT Project Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017119361-it-project-specialist) | Cityofnewyork | New York City, NY, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
+| 5:21 AM | [Data Support Analyst](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017119296-data-support-analyst) | Cityofnewyork | Queens, NY, United States | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
+| 5:14 AM | [GIM Data Research Analyst](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017119226-gim-data-research-analyst) | Cityofnewyork | New York City, NY, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 9:37 PM | [ETL Developer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6a23fca3-7b64-4140-a007-d213cba67288&ccId=19000101_000001&jobId=9201320208261_1&lang=en_US) | 6A23Fca3 7B64 4140 A007 D213C… | Chicago, IL | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 8:43 PM | [Applied AI Engineer, Business Automation](https://jobs.ashbyhq.com/interface-ai/c4d8b111-8084-4e02-86d5-c28591439612) | interface.ai | San Francisco (onsite) | 65 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 7:51 PM | [Network Planning Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=13506473-8528-417a-b040-407867621d8b&ccId=19000101_000001&jobId=9205883298400_1&lang=en_US) | 13506473 8528 417A B040 40786… | Dahlgren, VA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
@@ -694,8 +699,5 @@ Jump to: [Sat 28 (1)](#saturday-nov-28-1) · [Fri 27 (17)](#friday-nov-27-17) ·
 | date only | [Data Engineer (Databricks & AWS)](https://abstra.bamboohr.com/careers/246) | Abstra | Remote | 70 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | date only | [Systems Engineer 1](https://jobs.ulalaunch.com/job/Centennial-Systems-Engineer-1-CO-80112/1453418400/) | United Launch Alliance | Centennial, CO, United States | 80 | rules: entry-level title; E-Verify; needs: Security Clearance |
 | date only | [Systems Test Engineer 1](https://jobs.ulalaunch.com/job/Pueblo-Systems-Test-Engineer-1-CO-81001/1453418900/) | United Launch Alliance | Pueblo, CO, United States | 80 | rules: entry-level title; E-Verify; needs: Security Clearance |
-| date only | [HIL Test Automation Engineer](https://apply.workable.com/terabase-energy/j/E6F7663E38/) | Terabase | United States (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
-| date only | [Embedded Software Engineer, Annapurna Ml Software](https://www.amazon.jobs/en/jobs/10612795/embedded-software-engineer-annapurna-ml-software) | Annapurna Labs (U.S.) Inc. | Cupertino, California, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
-| date only | [TSCM Subject Matter Expert / Event Security Specialist](https://micron.eightfold.ai/careers/job/44832762) | Micron | San Jose, CA, US; Manassas, VA, US (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 
 </details>
