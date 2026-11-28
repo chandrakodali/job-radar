@@ -1,12 +1,12 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**24 jobs**, newest first. Updated Fri Nov 27, 7:38 PM CST from 12,580 company job boards and other sources.
+**21 jobs**, newest first. Updated Fri Nov 27, 8:26 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
-1 repeat listings (same company and title in another place or on another source) are merged into one row.
+Coverage check: of 747 matching jobs that job sites and feeds listed this week, 389 (52%) were already found on the employers' own boards; the rest are listed from those sources.
 
-Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1) · [Fri 20 (3)](#friday-nov-20-3)
+Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1)
 
 ## Wednesday, Nov 25 (7)
 
@@ -48,14 +48,6 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 2:26 PM (seen) | [Network Engineer - IT Infrastructure - United States](https://lifeattiktok.com/search/7706481808216688901) | TikTok | New York, New York, United States of Am… | 45 | no future H-1B sponsorship |
-
-## Friday, Nov 20 (3)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 7:57 PM | [Systems Engineer - Network Software Performance](https://boards.greenhouse.io/cloudflare/jobs/8401122?gh_jid=8401122) | Cloudflare | Hybrid (hybrid) | 55 | location unclear; no future H-1B sponsorship; priority company; netwo… |
-| 7:54 PM | [Senior Systems Engineer, Network Services](https://boards.greenhouse.io/cloudflare/jobs/8401108?gh_jid=8401108) | Cloudflare | Hybrid (hybrid) | 45 | senior title, years not stated; location unclear; no future H-1B spon… |
-| 7:53 PM | [Distributed Systems Engineer - Network Services](https://boards.greenhouse.io/cloudflare/jobs/8401112?gh_jid=8401112) | Cloudflare | Hybrid (hybrid) | 55 | location unclear; no future H-1B sponsorship; priority company; netwo… |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (46)
 
