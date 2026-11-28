@@ -1,14 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**248 jobs**, newest first. Updated Sat Nov 28, 3:19 AM CST from 12,535 company job boards and other sources.
+**243 jobs**, newest first. Updated Sat Nov 28, 3:31 AM CST from 12,580 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 71 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Coverage check: of 4,954 matching jobs that job sites and feeds listed this week, 809 (16%) were already found on the employers' own boards; the rest are listed from those sources.
-
-Jump to: [Sat 28 (1)](#saturday-nov-28-1) · [Fri 27 (17)](#friday-nov-27-17) · [Thu 26 (15)](#thursday-nov-26-15) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (25)](#saturday-nov-21-25)
+Jump to: [Sat 28 (1)](#saturday-nov-28-1) · [Fri 27 (17)](#friday-nov-27-17) · [Thu 26 (15)](#thursday-nov-26-15) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (20)](#saturday-nov-21-20)
 
 ## Saturday, Nov 28 (1)
 
@@ -268,7 +266,7 @@ Jump to: [Sat 28 (1)](#saturday-nov-28-1) · [Fri 27 (17)](#friday-nov-27-17) ·
 | 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Eugene Valley R…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827218) | Macy's | Eugene, OR, United States | 75 | entry-level title |
 | 3:26 AM | [Administrative Support Team Associate, Beverly Center - Part Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827120) | Macy's | Los Angeles, CA, United States | 85 | entry-level title; 1+ yrs exp |
 
-## Saturday, Nov 21 (25)
+## Saturday, Nov 21 (20)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
@@ -292,11 +290,6 @@ Jump to: [Sat 28 (1)](#saturday-nov-28-1) · [Fri 27 (17)](#friday-nov-27-17) ·
 | date only | [FBS (Mexico) - MarTech Quality Assurance Specialist](https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-MarTech-Quality-Assurance-Specialist/1378095457/) | Farmers Insurance |  | 70 | 1+ yrs exp; no future H-1B sponsorship |
 | date only | [Title: Platform Solutions Associate](https://careers.mediaocean.com/Innovid/job/Buenos-Aires-Platform-Solutions-Associate/1454055500/) | Mediaocean |  | 58 | entry-level title; location unclear |
 | 5:29 AM | [Administrative Support Associate](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017021926-administrative-support-associate) | Cityofnewyork | New York City, NY, United States | 75 | entry-level title |
-| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Crabtree Valley…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827027) | Macy's | Raleigh, NC, United States | 75 | entry-level title |
-| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Stanford Shoppi…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827028) | Macy's | Palo Alto, CA, United States | 75 | entry-level title; repost |
-| 3:27 AM | [Seasonal Fulfillment and Receiving Support Associate, Connecticut Post](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_827018) | Macy's | Milford, CT, United States | 75 | entry-level title |
-| 3:26 AM | [Vendor Stock Support Associate, Bellevue Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826998) | Macy's | Bellevue, WA, United States | 85 | entry-level title; 1+ yrs exp |
-| 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chandler Fashio…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826986) | Macy's | Chandler, AZ, United States | 75 | entry-level title |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (822)
 
