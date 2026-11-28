@@ -1,8 +1,10 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**24 jobs**, newest first. Updated Sat Nov 28, 1:48 AM CST from 12,580 company job boards and other sources.
+**24 jobs**, newest first. Updated Sat Nov 28, 2:57 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
+
+Coverage check: of 761 matching jobs that job sites and feeds listed this week, 393 (51%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1)
 
@@ -55,7 +57,7 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Wed 25 (7)](#wednesday-nov-25-7) · 
 |---|---|---|---|---:|---|
 | 2:26 PM (seen) | [Network Engineer - IT Infrastructure - United States](https://lifeattiktok.com/search/7706481808216688901) | TikTok | New York, New York, United States of Am… | 45 | no future H-1B sponsorship |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (46)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (47)
 
 <details><summary>Show</summary>
 
@@ -81,6 +83,8 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Wed 25 (7)](#wednesday-nov-25-7) · 
 | 9:32 AM | [Network Engineer III](https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2054) | Tulane University | New Orleans, LA, United States (remote) | 47 | rules: 10+ yrs exp; senior title; likely H-1B cap-exempt (verify); as… |
 | 8:53 AM | [Target Digital Network Analyst 2](https://job-boards.greenhouse.io/grvty/jobs/4507550009) | GRVTY | Fort Gordon, Georgia, United States +1 … | 40 | rules: 9+ yrs exp; needs: Active TS/SCI |
 | 8:52 AM | [Target Digital Network Analyst 3](https://job-boards.greenhouse.io/grvty/jobs/4507481009) | GRVTY | Fort Meade, Maryland, United States | 45 | rules: 12+ yrs exp; senior title; needs: Active TS/SCI |
+| 8:43 AM | [1785 - Network Security Engineer II](https://jobs.workable.com/view/hJyoipYnSmErXwnzNgikmg/1785---network-security-engineer-ii-in-san-diego-at-sigma-defense) | Sigma Defense | San Diego, California (onsite) | 53 | rules: needs: security clearance |
+| 8:41 AM | [1755 - Azure Network Engineer](https://jobs.workable.com/view/14nyYYwKSdGDX5ty3vwdTC/1755---azure-network-engineer-in-rome-at-sigma-defense) | Sigma Defense | Rome, New York (onsite) | 58 | rules: needs: security clearance |
 | 7:39 AM | [Network Engineer](https://jobs.ashbyhq.com/voleon/98a23a0d-660f-4f57-b887-27b0411f8a67) | The Voleon Group | Remote, United States; New York City, N… (remote) | 42 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 6:39 AM | [Network Engineer](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7080) | Black Box | United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 2:17 AM | [Sr Network Engineer- Jacksonville, FL](https://fa-etum-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42290) | GuideWell Mutual | Jacksonville, FL, United States (onsite) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
@@ -103,7 +107,6 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Wed 25 (7)](#wednesday-nov-25-7) · 
 | 8:29 AM (seen) | [Computer Specialist (Operations) 1-4 TWU Rep - System Administrator](https://jobs.jobvite.com/metropolitantransportationauthority/job/otl5Afwd) | Metropolitan Transportation A… | New York, NY | 15 | rules: 8+ yrs exp; network work in the text; asks for 8+ years of exp… |
 | 11:00 PM | [Systems Administrator II](https://careers-scires.icims.com/jobs/12133/systems-administrator-ii/job) | Scientific Research Corporati… | North Charleston, SC, United States | 45 | rules: network work in the text; needs: SECURITY CLEARANCE |
 | date only | [Senior Network Engineer, System Verification](https://nvidia.eightfold.ai/careers/job/893395243085) | Nvidia | Santa Clara, CA, US (onsite) | 38 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
-| date only | [Network Systems Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029624EXTERNALENGLOBAL) | Cisco | Rancho Cordova, California, United Stat… | 25 | rules: 5+ yrs exp; network work in the text; asks for 5+ years of exp… |
 | date only | [Senior Network Security Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893396402568) | Nvidia | Santa Clara, CA, US; US (remote) | 25 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Cloud Network Engineer](https://apply.workable.com/amerisave/j/68D7A695BF/) | Amerisave | United States (remote) | 30 | rules: 7+ yrs exp; asks for 7+ years of experience |
 | date only | [Senior Azure Infrastructure Engineer](https://apply.workable.com/tomorrow-hire/j/3B87EA976C/) | Tomorrow Hire | Mechanicsville, Virginia, United States | 13 | rules: 7+ yrs exp; senior title; no future H-1B sponsorship; network … |
