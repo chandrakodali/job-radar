@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**108 jobs**, newest first. Updated Fri Nov 27, 8:19 PM CST from 12,580 company job boards and other sources.
+**108 jobs**, newest first. Updated Fri Nov 27, 8:37 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 106 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,200 matching jobs that job sites and feeds listed this week, 2,127 (66%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3)
 
@@ -151,7 +153,7 @@ Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | date only | [AI Platform Developer - MCP & Agentic Infrastructure](https://jobs.adidas-group.com/job/Zaragoza-AI-Platform-Developer-MCP-&-Agentic-Infrastructure-Aragon/1459256433/) | Adidas |  | 43 | 3+ yrs exp; location unclear |
 | 1:28 AM | [Purchasing Operations Analyst, Infrastructure Services](https://jobs.apple.com/en-us/details/200696405/purchasing-operations-analyst-infrastructure-services) | Apple | United States of America | 65 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (194)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (193)
 
 <details><summary>Show</summary>
 
@@ -344,7 +346,6 @@ Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | date only | [Software Engineering Technical Leader, Forward Deployment Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2032564EXTERNALENGLOBAL) | Cisco | San Francisco, California, United State… | 18 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Guidewire PolicyCenter Cloud API & SOLR Search Engineer](https://careers.capgemini.com/job/New-York%2C-NY-Guidewire-PolicyCenter-Cloud-API-&-SOLR-Search-Engineer-NY-10001/1459413233/) | Capgemini | New York, NY, United States | 38 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [US E – GPS – Consulting Services – Sr. AWS Infrastructure/DevOps Engi…](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-AWS-Infrastructure-DevOps-Engineer/376091) | Deloitte US |  | 23 | rules: 6+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
-| date only | [Senior Automation Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893398829768) | Nvidia | CA,US; GA,US; TX,US; AZ,US (remote) | 30 | rules: 10+ yrs exp; senior title; asks for 10+ years of experience |
 | date only | [Senior Production Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893397975884) | Nvidia | Santa Clara, CA, US; US (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Sr. Software Developer - Platform Engineering](https://apply.workable.com/toyota-tsusho-systems/j/206E96F819/) | Toyota Tsusho Systems | Plano, Texas, United States | 33 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Cloud Network Engineer](https://apply.workable.com/amerisave/j/68D7A695BF/) | Amerisave | United States (remote) | 30 | rules: 7+ yrs exp; asks for 7+ years of experience |
