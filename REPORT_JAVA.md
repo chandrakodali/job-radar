@@ -1,10 +1,12 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**41 jobs**, newest first. Updated Fri Nov 27, 5:31 PM CST from 12,580 company job boards and other sources.
+**41 jobs**, newest first. Updated Fri Nov 27, 6:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
-102 repeat listings (same company and title in another place or on another source) are merged into one row.
+104 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 4,379 matching jobs that job sites and feeds listed this week, 2,509 (57%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (14)](#monday-nov-23-14) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (1)](#friday-nov-20-1)
 
@@ -12,9 +14,9 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (1)](#thursday-nov-26-1) · [
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 6:19 PM (seen) | [Application Developer-Java & Web Technologies](https://careers.ibm.com/careers/JobDetail?jobId=147058) | IBM | Austin, United States +6 more (hybrid) | 50 | repost |
 | 1:57 PM | [Software Engineer, Backend](https://stripe.com/jobs/search?gh_jid=8421387) | Stripe | South San Francisco, CA | 45 | 3+ yrs exp; requires Java |
 | 1:44 PM | [Software Engineer, Reporting Platform](https://stripe.com/jobs/search?gh_jid=8421367) | Stripe | New York, NY | 60 | 2+ yrs exp; requires Java |
-| 12:29 AM (seen) | [Application Developer-Java & Web Technologies](https://careers.ibm.com/careers/JobDetail?jobId=143628) | IBM | Tempe, United States +4 more (hybrid) | 50 | repost |
 
 ## Thursday, Nov 26 (1)
 
@@ -89,7 +91,7 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (1)](#thursday-nov-26-1) · [
 |---|---|---|---|---:|---|
 | 6:39 PM | [Assoc Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162837679-assoc-software-engineer) | ServiceNow | Santa Clara, CALIFORNIA, United States (hybrid) | 60 | 1+ yrs exp; requires Java |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (40)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (39)
 
 <details><summary>Show</summary>
 
@@ -133,7 +135,6 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (1)](#thursday-nov-26-1) · [
 | 6:53 PM | [Integration Engineer](https://job-boards.greenhouse.io/oddball/jobs/8213812003) | Oddball | Remote (remote) | 47 | rules: requires Java; needs: security clearance |
 | 6:28 PM | [Software Engineer - Dealer Network & Employee Engagement](https://ford.eightfold.ai/careers/job/563568453660332) | Ford | Dearborn, MI, US (onsite) | 35 | rules: 7+ yrs exp; requires Java; asks for 7+ years of experience |
 | 6:28 PM | [Software Engineer - Dealer Network & Employee Engagement](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68465) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 35 | rules: 7+ yrs exp; requires Java; asks for 7+ years of experience |
-| date only | [Senior Back End Java Developer](https://citi.eightfold.ai/careers/job/859039051648) | Citi | Tampa, FL, US (hybrid) | 50 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [Senior Software Engineer](https://apply.workable.com/amerisave/j/28E64F6DBB/) | Amerisave | United States (remote) | 15 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 
 </details>
