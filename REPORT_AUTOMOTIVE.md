@@ -1,19 +1,18 @@
 # Auto Radar: latest matches
 
-Watching **12,671 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
+Watching **12,622 company job boards** for automotive embedded software roles in the US: embedded and controls software, model-based development (MATLAB/Simulink), AUTOSAR, ADAS and steering features, MIL/SIL/HIL testing. Automotive employers' boards are also searched by keyword for the tools on the resume, so jobs with vague titles are found too.
 
 Last new match: **Fri Nov 27, 01:53 PM EST**. Score is 0–100 and uses no AI: the full job text is read section by section. "Has" lists the resume's skills the job asks for; "Missing" lists skills the job requires that the resume does not show. The score weighs how much of what the job asks the resume covers, the title, years required (the MS path counts), the industry, word overlap with the resume, freshness and location. Visa sponsorship moves it by 2 points at most. Full history: [data/automotive/matches.csv](data/automotive/matches.csv).
 
-## Posted in the last 24 hours (2)
+## Posted in the last 24 hours (1)
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
 | 80 | [Engineer Embedded Software & Firmware (f/m/div)](https://infineon.eightfold.ai/careers/job/563808972433640) | Infineon | Langen, HE, DE (hybrid) | Nov 27 | ISO 26262, Embedded software, Functional safety, ASPICE, Requirements engineering, C, Sof… | Cybersecurity (ISO 21434), Test automation scripting, Debug… |  |
-| 57 | [Quantum Control Systems Engineer (Hardware, FPGA, & Embedded Systems)](https://careers.ibm.com/careers/JobDetail?jobId=135839) | IBM | Yorktown Heights, United States | Nov 27 | Embedded software, Controls/algorithms | Hardware design (FPGA/PCB/analog) |  |
 
-## Found in the last 60 days, posted earlier (1896)
+## Found in the last 60 days, posted earlier (1897)
 
-Showing the 400 best of 1896; the rest are in the full history file.
+Showing the 400 best of 1897; the rest are in the full history file.
 
 | Score | Role | Company | Location | Posted | Has | Missing | Notes |
 |---:|---|---|---|---|---|---|---|
@@ -280,7 +279,7 @@ Showing the 400 best of 1896; the rest are in the full history file.
 | 76 | [Embedded Systems Software Engineer](https://jobs.ashbyhq.com/REGENT/5cad0e4a-c190-4021-8c86-efd7e31d3740) | REGENT | North Kingstown, Rhode Island, USA | Sep 15 | MATLAB, SIL testing, CAN/CAN FD, Embedded software, C++, Simulink, ISO 26262, Functional … | Device drivers/BSP, Hardware design (FPGA/PCB/analog), Moto… | open 73 days |
 | 76 | [ADAS Test Engineer](https://careers.honda.com/us/en/job/AHMAHMUS12684EXTERNALENUS) | Honda | 21001 State Route 739, Raymond, Ohio, U… | Sep 16 | ISO 26262, ADAS, Functional safety, MATLAB, Requirements engineering, CAN/CAN FD, C++, Co… | – | open 72 days |
 | 76 | [Electric Drives Engineer](https://careers.quest-global.com/global/en/job/QGRQGAGLOBALP122882EXTERNALENGLOBAL) | Quest Global | Erie, Pennsylvania, United States | Sep 18 | Simulink, Model-based design, MATLAB, Requirements engineering, Stateflow, Embedded Coder… | HIL testing, Motor control, Inverter/power electronics | 3+ yrs; open 70 days |
-| 76 | [Senior Embedded Firmware Engineer - Battery Software](https://lucidmotors.com/careers/search/5215459007?gh_jid=5215459007) | Lucid Motors | Newark, CA | Sep 19 | Functional safety, Embedded software, Simulink, AUTOSAR Classic, Controls/algorithms, MAT… | Hardware design (FPGA/PCB/analog), Multicore/concurrency | 5+ yrs; open 69 days |
+| 76 | [Senior Embedded Firmware Engineer - Battery Software](https://lucidmotors.com/careers/search/5215459007?gh_jid=5215459007) | Lucid Motors | Newark, CA | Sep 19 | Functional safety, Embedded software, Simulink, AUTOSAR Classic, Controls/algorithms, MAT… | Hardware design (FPGA/PCB/analog), Multicore/concurrency | 5+ yrs; open 70 days |
 | 76 | [Senior Autonomy Engineer](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Jefferson-City-Tennessee-United-States/Senior-Autonomy-Engineer_R48992) | Oshkosh | Jefferson City, Tennessee, United States | Sep 20 | Simulink, TargetLink, Model-based design, C, Embedded software, MATLAB, C++, Python | C#/.NET, Multicore/concurrency | 3+ yrs; open 68 days |
 | 76 | [Core MBSE Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71426) | Ford Motor Company | Dearborn, MI, United States (hybrid) | Sep 22 | Model-based design, Simulink, Auto code generation, MATLAB, Jenkins/CI, Simulation and mo… | C#/.NET | 3+ yrs; open 66 days |
 | 76 | [Senior Safety Management System (SMS) Risk Integration Specialist](https://careers.withwaymo.com/jobs?gh_jid=7890957) | Waymo | Mountain View, CA, USA; San Francisco, … | Oct 02 | ISO 26262, MIL testing, Functional safety, Requirements engineering, ADAS, Controls/algor… | SOTIF (ISO 21448) | 5+ yrs |
