@@ -1,12 +1,14 @@
 # Java developer jobs in the US: posted in the last 7 days
 
-**41 jobs**, newest first. Updated Fri Nov 27, 6:31 PM CST from 12,580 company job boards and other sources.
+**40 jobs**, newest first. Updated Fri Nov 27, 7:19 PM CST from 12,535 company job boards and other sources.
 
 US jobs only: Java in the title, or backend/software/full-stack roles whose requirements need Java (marked "requires Java"). Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. JavaScript-only roles are not included. "date only" means the board gives the day but not the time.
 
 104 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (14)](#monday-nov-23-14) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1) · [Fri 20 (1)](#friday-nov-20-1)
+Coverage check: of 4,397 matching jobs that job sites and feeds listed this week, 2,523 (57%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (1)](#thursday-nov-26-1) · [Wed 25 (9)](#wednesday-nov-25-9) · [Tue 24 (10)](#tuesday-nov-24-10) · [Mon 23 (14)](#monday-nov-23-14) · [Sun 22 (2)](#sunday-nov-22-2) · [Sat 21 (1)](#saturday-nov-21-1)
 
 ## Friday, Nov 27 (3)
 
@@ -83,13 +85,7 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (1)](#thursday-nov-26-1) · [
 |---|---|---|---|---:|---|
 | 8:16 PM | [Customer Service Rep(08902) - 1348 suite 103 Java Lane](https://jobs.smartrecruiters.com/Dominos/744000163017122-customer-service-rep-08902-1348-suite-103-java-lane) | Domino's | Burlington, NC, United States | 65 |  |
 
-## Friday, Nov 20 (1)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 6:39 PM | [Assoc Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162837679-assoc-software-engineer) | ServiceNow | Santa Clara, CALIFORNIA, United States (hybrid) | 60 | 1+ yrs exp; requires Java |
-
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (39)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (37)
 
 <details><summary>Show</summary>
 
@@ -131,8 +127,6 @@ Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Thu 26 (1)](#thursday-nov-26-1) · [
 | 11:00 PM | [Senior Software Engineer](https://careers-cotiviti.icims.com/jobs/23985/senior-software-engineer/job) | Cotiviti | Remote, United States | 30 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 | 11:00 PM | [Backend Software Engineer](https://careers-steampunk.icims.com/jobs/9310/backend-software-engineer/job) | Steampunk | McLean, VA, United States (remote) | 32 | rules: 5+ yrs exp; E-Verify; requires Java; needs: Security Clearance |
 | 6:53 PM | [Integration Engineer](https://job-boards.greenhouse.io/oddball/jobs/8213812003) | Oddball | Remote (remote) | 47 | rules: requires Java; needs: security clearance |
-| 6:28 PM | [Software Engineer - Dealer Network & Employee Engagement](https://ford.eightfold.ai/careers/job/563568453660332) | Ford | Dearborn, MI, US (onsite) | 35 | rules: 7+ yrs exp; requires Java; asks for 7+ years of experience |
-| 6:28 PM | [Software Engineer - Dealer Network & Employee Engagement](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68465) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 35 | rules: 7+ yrs exp; requires Java; asks for 7+ years of experience |
 | date only | [Senior Software Engineer](https://apply.workable.com/amerisave/j/28E64F6DBB/) | Amerisave | United States (remote) | 15 | rules: 5+ yrs exp; senior title; requires Java; asks for 5+ years of … |
 
 </details>
