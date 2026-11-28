@@ -1,10 +1,12 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**108 jobs**, newest first. Updated Sat Nov 28, 12:19 AM CST from 12,580 company job boards and other sources.
+**108 jobs**, newest first. Updated Sat Nov 28, 12:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 106 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 3,271 matching jobs that job sites and feeds listed this week, 2,173 (66%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3)
 
@@ -206,6 +208,7 @@ Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | date only | [Senior ASIC Front End Infrastructure Engineer](https://nvidia.eightfold.ai/careers/job/893395276024) | Nvidia | Santa Clara, CA, US; Durham, NC, US; Au… (onsite) | 38 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | date only | [Systems Software Engineer - Infrastructure](https://nvidia.eightfold.ai/careers/job/893396868931) | Nvidia | Santa Clara, CA, US (onsite) | 38 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Senior Storage Production Engineer - DGX Cloud](https://nvidia.eightfold.ai/careers/job/893395627141) | Nvidia | Santa Clara, CA, US; US (remote) | 30 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
+| date only | [Senior FPGA Prototyping Platform Engineer](https://nvidia.eightfold.ai/careers/job/893395108743) | Nvidia | Santa Clara, CA, US (onsite) | 33 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | 9:44 AM | [IT Infrastructure Engineer II - 1122](https://jobs.eu.lever.co/quantinuum/d99daf7d-0045-4124-8998-a979e4d2c79d) | Quantinuum | US Broomfield, CO (onsite) | 60 | rules: 3+ yrs exp; needs: must be a U.S. Person |
 | 9:33 AM | [Vehicle Systems Development Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/71784) | Ford Motor Company | Dearborn, MI, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 9:33 AM | [Vehicle Systems Development Engineer](https://ford.eightfold.ai/careers/job/563568453935737) | Ford | Dearborn, MI, US (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
@@ -342,7 +345,6 @@ Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | date only | [Senior Network Engineer, System Verification](https://nvidia.eightfold.ai/careers/job/893395243085) | Nvidia | Santa Clara, CA, US (onsite) | 23 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
 | 7:29 PM | [Satellite Systems Operations Engineer](https://jobs.ashbyhq.com/Elveo/27c25953-b784-43ac-8d0a-934218276346) | Elveo | Chantilly, VA (onsite) | 35 | rules: 5+ yrs exp; needs: ITAR |
 | 1:47 PM | [Senior Systems Development Engineer](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/302047) | Dell Technologies | TX, United States (onsite) | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
-| date only | [Network Systems Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029624EXTERNALENGLOBAL) | Cisco | Rancho Cordova, California, United Stat… | 25 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 10:39 AM | [Senior Backend Cloud Engineer](https://job-boards.greenhouse.io/halcyon/jobs/6268252004) | Halcyon | Austin, TX | 45 | rules: 5+ yrs exp; senior title; asks for 5+ years of experience |
 | date only | [US E – GPS – Consulting Services – Sr. AWS Infrastructure/DevOps Engi…](https://apply.deloitte.com/en_US/careers/JobDetail/Senior-AWS-Infrastructure-DevOps-Engineer/376091) | Deloitte US |  | 23 | rules: 6+ yrs exp; senior title; no future H-1B sponsorship; asks for… |
 | date only | [Sr. Software Developer - Platform Engineering](https://apply.workable.com/toyota-tsusho-systems/j/206E96F819/) | Toyota Tsusho Systems | Plano, Texas, United States | 33 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
