@@ -1,17 +1,21 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**113 jobs**, newest first. Updated Fri Nov 27, 5:49 PM CST from 12,580 company job boards and other sources.
+**115 jobs**, newest first. Updated Fri Nov 27, 6:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-106 repeat listings (same company and title in another place or on another source) are merged into one row.
+107 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (6)](#friday-nov-27-6) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (7)](#friday-nov-20-7)
+Coverage check: of 3,139 matching jobs that job sites and feeds listed this week, 2,089 (66%) were already found on the employers' own boards; the rest are listed from those sources.
 
-## Friday, Nov 27 (6)
+Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (7)](#friday-nov-20-7)
+
+## Friday, Nov 27 (8)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 6:07 PM (seen) | [Infrastructure Specialist-Platform Engineering Services](https://careers.ibm.com/careers/JobDetail?jobId=147075) | IBM | CORAL GABLES, United States (hybrid) | 50 |  |
+| 6:07 PM (seen) | [AuthMind - Senior DevOps Engineer](https://careers.ibm.com/careers/JobDetail?jobId=146933) | IBM | Austin, United States (hybrid) | 40 | senior title, years not stated |
 | 2:47 PM | [Senior Software Engineer, AI Infrastructure](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345398) | Oracle | Nashville, TN, United States | 55 | 4+ yrs exp; senior title |
 | 12:40 PM | [Senior Platform Engineer](https://weworkremotely.com/remote-jobs/coder-technologies-inc-senior-platform-engineer) | Coder Technologies Inc. | USA Only (remote) | 52 | senior title, years not stated |
 | 12:32 PM | [Google Cloud & Gemini Enterprise Administrator](https://weworkremotely.com/remote-jobs/keeper-security-google-cloud-gemini-enterprise-administrator) | Keeper Security | Remote, US (Anywhere in the World) (remote) | 67 | E-Verify |
