@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**110 jobs**, newest first. Updated Fri Nov 27, 7:50 PM CST from 12,580 company job boards and other sources.
+**108 jobs**, newest first. Updated Fri Nov 27, 8:07 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
-107 repeat listings (same company and title in another place or on another source) are merged into one row.
+106 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3) · [Fri 20 (2)](#friday-nov-20-2)
+Coverage check: of 3,189 matching jobs that job sites and feeds listed this week, 2,118 (66%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3)
 
 ## Friday, Nov 27 (8)
 
@@ -150,13 +152,6 @@ Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | date only | [Site Reliability Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029632EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 70 | 2+ yrs exp |
 | date only | [AI Platform Developer - MCP & Agentic Infrastructure](https://jobs.adidas-group.com/job/Zaragoza-AI-Platform-Developer-MCP-&-Agentic-Infrastructure-Aragon/1459256433/) | Adidas |  | 43 | 3+ yrs exp; location unclear |
 | 1:28 AM | [Purchasing Operations Analyst, Infrastructure Services](https://jobs.apple.com/en-us/details/200696405/purchasing-operations-analyst-infrastructure-services) | Apple | United States of America | 65 |  |
-
-## Friday, Nov 20 (2)
-
-| Posted | Role | Company | Location | Score | Notes |
-|---|---|---|---|---:|---|
-| 7:57 PM | [Systems Engineer - Network Software Performance](https://boards.greenhouse.io/cloudflare/jobs/8401122?gh_jid=8401122) | Cloudflare | Hybrid (hybrid) | 55 | location unclear; no future H-1B sponsorship; priority company |
-| 7:54 PM | [Senior Systems Engineer, Network Services](https://boards.greenhouse.io/cloudflare/jobs/8401108?gh_jid=8401108) | Cloudflare | Hybrid (hybrid) | 45 | senior title, years not stated; location unclear; no future H-1B spon… |
 
 ## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (196)
 
