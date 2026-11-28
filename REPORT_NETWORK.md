@@ -1,8 +1,10 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**21 jobs**, newest first. Updated Fri Nov 27, 8:38 PM CST from 12,580 company job boards and other sources.
+**21 jobs**, newest first. Updated Fri Nov 27, 8:51 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
+
+Coverage check: of 747 matching jobs that job sites and feeds listed this week, 389 (52%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1)
 
@@ -47,7 +49,7 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 |---|---|---|---|---:|---|
 | 2:26 PM (seen) | [Network Engineer - IT Infrastructure - United States](https://lifeattiktok.com/search/7706481808216688901) | TikTok | New York, New York, United States of Am… | 45 | no future H-1B sponsorship |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (46)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (47)
 
 <details><summary>Show</summary>
 
@@ -58,6 +60,7 @@ Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) ·
 | 4:34 PM | [Senior IT Systems Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/8216726003) | Rocket Lab USA | Long Beach, CA | 40 | rules: entry-level title; 5+ yrs exp; senior title; network work in t… |
 | date only | [Senior Cloud Network Engineer](https://spacedynamicslaboratory.applytojob.com/apply/EXfmjnIIX6/Senior-Cloud-Network-Engineer) | Space Dynamics Laboratory | Colorado Springs, CO +2 more | 45 | rules: 8+ yrs exp; senior title; needs: security clearance |
 | date only | [Field Engineer - Network Communications & Systems Maintainer - Level …](https://ngc.eightfold.ai/careers/job/1340075553519) | Ngc | Colorado Springs, CO, US (onsite) | 60 | rules: 0-2 yrs exp; senior title; network work in the text; needs: Se… |
+| date only | [Network Software Engineer, Automation and Intelligence](https://nvidia.eightfold.ai/careers/job/893398363760) | Nvidia | Santa Clara, CA, US (onsite) | 18 | rules: 12+ yrs exp; network work in the text; asks for 12+ years of e… |
 | 9:44 AM | [IT Infrastructure Engineer II - 1122](https://jobs.eu.lever.co/quantinuum/d99daf7d-0045-4124-8998-a979e4d2c79d) | Quantinuum | US Broomfield, CO (onsite) | 45 | rules: 3+ yrs exp; network work in the text; needs: must be a U.S. Pe… |
 | 3:06 AM | [Proactive Engineer - Converged Network - Remote (San Francisco Bay Ar…](https://jobs.lever.co/jobgether/193dd028-242b-41d1-9b31-41b10bac432c) | Jobgether | San Francisco Bay Area +5 more (remote) | 27 | rules: 10+ yrs exp; network work in the text; asks for 10+ years of e… |
 | 11:01 PM | [Network Engineer - Contract To Hire](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=958067c6-26d0-41f1-8d53-18b1e4c9dc0c&ccId=19000101_000003&jobId=9201122222057_181&lang=en_US) | 958067C6 26D0 41F1 8D53 18B1E… | Salt Lake City, UT | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
