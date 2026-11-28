@@ -1,10 +1,20 @@
 # Network Engineer jobs in the US: posted in the last 7 days
 
-**21 jobs**, newest first. Updated Fri Nov 27, 10:08 PM CST from 12,580 company job boards and other sources.
+**24 jobs**, newest first. Updated Fri Nov 27, 10:57 PM CST from 12,535 company job boards and other sources.
 
 US jobs only. Network engineer jobs (network engineer/administrator/analyst, NOC, wireless, firewall, SD-WAN; systems or infrastructure titles only when the job is mostly networking). OT/industrial network jobs are in the OT radar. Jobs asking for 5+ years, or needing a clearance or US citizenship, are left out (listed at the end). Senior titles that state no years are kept and marked. "date only" means the board gives the day but not the time.
 
-Jump to: [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1)
+Coverage check: of 754 matching jobs that job sites and feeds listed this week, 393 (52%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (3)](#friday-nov-27-3) · [Wed 25 (7)](#wednesday-nov-25-7) · [Tue 24 (6)](#tuesday-nov-24-6) · [Mon 23 (7)](#monday-nov-23-7) · [Sun 22 (1)](#sunday-nov-22-1)
+
+## Friday, Nov 27 (3)
+
+| Posted | Role | Company | Location | Score | Notes |
+|---|---|---|---|---:|---|
+| 10:30 PM | [Copy of Copy of Network Engineer](https://jobs.smartrecruiters.com/JobsForHumanity/744000164120849-copy-of-copy-of-network-engineer) | Jobs for Humanity | Omaha, NE, United States (hybrid) | 70 |  |
+| 10:29 PM | [Copy of Network Engineer](https://jobs.smartrecruiters.com/JobsForHumanity/744000164120809-copy-of-network-engineer) | Jobs for Humanity | Las Vegas, NV, United States (hybrid) | 70 |  |
+| 10:28 PM | [Network Engineer](https://jobs.smartrecruiters.com/JobsForHumanity/744000164120769-network-engineer) | Jobs for Humanity | Indianapolis, IN, United States (hybrid) | 70 |  |
 
 ## Wednesday, Nov 25 (7)
 
