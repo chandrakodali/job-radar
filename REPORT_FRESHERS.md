@@ -1,10 +1,12 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**242 jobs**, newest first. Updated Sat Nov 28, 5:31 AM CST from 12,580 company job boards and other sources.
+**242 jobs**, newest first. Updated Sat Nov 28, 7:41 AM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
 71 repeat listings (same company and title in another place or on another source) are merged into one row.
+
+Coverage check: of 5,203 matching jobs that job sites and feeds listed this week, 817 (15%) were already found on the employers' own boards; the rest are listed from those sources.
 
 Jump to: [Sat 28 (1)](#saturday-nov-28-1) · [Fri 27 (17)](#friday-nov-27-17) · [Thu 26 (15)](#thursday-nov-26-15) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (19)](#saturday-nov-21-19)
 
@@ -296,6 +298,7 @@ Jump to: [Sat 28 (1)](#saturday-nov-28-1) · [Fri 27 (17)](#friday-nov-27-17) ·
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
+| 5:33 AM | [Desktop Support Engineer, Family Justice Center](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017119636-desktop-support-engineer-family-justice-center) | Cityofnewyork | Brooklyn, NY, United States | 65 | rules: 3+ yrs exp; E-Verify; asks for 3+ years of experience |
 | 5:27 AM | [IT Project Specialist](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017119361-it-project-specialist) | Cityofnewyork | New York City, NY, United States | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 5:21 AM | [Data Support Analyst](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017119296-data-support-analyst) | Cityofnewyork | Queens, NY, United States | 45 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | 5:14 AM | [GIM Data Research Analyst](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017119226-gim-data-research-analyst) | Cityofnewyork | New York City, NY, United States | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
@@ -695,6 +698,5 @@ Jump to: [Sat 28 (1)](#saturday-nov-28-1) · [Fri 27 (17)](#friday-nov-27-17) ·
 | date only | [Lab Tester 2, Billings Refinery](https://careers.phillips66.com/job/Billings-Lab-Tester-2%2C-Billings-Refinery-MT-59101/1453403500/) | Phillips 66 | Billings, MT, United States | 70 | rules: 1+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Data Engineer (Databricks & AWS)](https://abstra.bamboohr.com/careers/246) | Abstra | Remote | 70 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | date only | [Systems Engineer 1](https://jobs.ulalaunch.com/job/Centennial-Systems-Engineer-1-CO-80112/1453418400/) | United Launch Alliance | Centennial, CO, United States | 80 | rules: entry-level title; E-Verify; needs: Security Clearance |
-| date only | [Systems Test Engineer 1](https://jobs.ulalaunch.com/job/Pueblo-Systems-Test-Engineer-1-CO-81001/1453418900/) | United Launch Alliance | Pueblo, CO, United States | 80 | rules: entry-level title; E-Verify; needs: Security Clearance |
 
 </details>
