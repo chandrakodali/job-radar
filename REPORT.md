@@ -1,12 +1,14 @@
 # DevOps / SRE / Cloud / Platform jobs in the US: posted in the last 7 days
 
-**108 jobs**, newest first. Updated Sat Nov 28, 1:19 AM CST from 12,580 company job boards and other sources.
+**107 jobs**, newest first. Updated Sat Nov 28, 1:37 AM CST from 12,535 company job boards and other sources.
 
 US jobs only. Jobs asking for 5+ years, needing a clearance or US citizenship, or with an adjacent title (sysadmin, network, systems) but little DevOps/cloud work are left out (listed at the end). Senior titles that state no years are kept and marked. "(seen)" means the board gives no posting time, so the time the radar first saw it is shown; "date only" means the board gives the day but not the time.
 
 106 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (3)](#saturday-nov-21-3)
+Coverage check: of 3,310 matching jobs that job sites and feeds listed this week, 2,181 (65%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (9)](#thursday-nov-26-9) · [Wed 25 (17)](#wednesday-nov-25-17) · [Tue 24 (34)](#tuesday-nov-24-34) · [Mon 23 (33)](#monday-nov-23-33) · [Sun 22 (4)](#sunday-nov-22-4) · [Sat 21 (2)](#saturday-nov-21-2)
 
 ## Friday, Nov 27 (8)
 
@@ -143,15 +145,14 @@ Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | date only | [DevOps Development Engineer](https://appliedmaterials.eightfold.ai/careers/job/790318800523) | Appliedmaterials | Rehovot, Center District, IL (onsite) | 70 |  |
 | 12:02 AM | [Senior QA Automation Engineer (Platform)](https://weworkremotely.com/remote-jobs/upgrade-senior-qa-automation-engineer-platform) | Upgrade | Remote, US (Anywhere in the World) (remote) | 30 | senior title, years not stated |
 
-## Saturday, Nov 21 (3)
+## Saturday, Nov 21 (2)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | date only | [Site Reliability Engineer](https://careers.cisco.com/global/en/job/CISCISGLOBAL2029632EXTERNALENGLOBAL) | Cisco | Research Triangle Park, North Carolina,… | 70 | 2+ yrs exp |
 | date only | [AI Platform Developer - MCP & Agentic Infrastructure](https://jobs.adidas-group.com/job/Zaragoza-AI-Platform-Developer-MCP-&-Agentic-Infrastructure-Aragon/1459256433/) | Adidas |  | 43 | 3+ yrs exp; location unclear |
-| 1:28 AM | [Purchasing Operations Analyst, Infrastructure Services](https://jobs.apple.com/en-us/details/200696405/purchasing-operations-analyst-infrastructure-services) | Apple | United States of America | 65 |  |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (193)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (194)
 
 <details><summary>Show</summary>
 
@@ -260,6 +261,7 @@ Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | date only | [Site Reliability Engineering Technical Leader](https://careers.cisco.com/global/en/job/CISCISGLOBAL2031554EXTERNALENGLOBAL) | Cisco | Glendale, California, United States of … | 33 | rules: 6+ yrs exp; asks for 6+ years of experience |
 | date only | [AWS Security Operations/Incident Response Engineer, US Amazon Dedicat…](https://www.amazon.jobs/en/jobs/10613594/aws-security-operations-incident-response-engineer-us-amazon-dedicated-cloud-security) | Amazon.com Services LLC | Herndon, Virginia, USA | 58 | rules: needs: Security Clearance |
 | date only | [Senior Cloud Software Engineer, Developer Tools](https://nvidia.eightfold.ai/careers/job/893397527481) | Nvidia | Santa Clara, CA, US (onsite) | 38 | rules: 8+ yrs exp; senior title; asks for 8+ years of experience |
+| 10:14 AM | [1758 - Senior Kubernetes Infrastructure Developer](https://jobs.workable.com/view/ibGkuwB4hFWADpcpMaQJGa/1758---senior-kubernetes-infrastructure-developer-in-rome-at-sigma-defense) | Sigma Defense | Rome, New York (onsite) | 48 | rules: senior title, years not stated; needs: security clearance |
 | 9:58 AM | [DevSecOps Engineer](https://jobs.ashbyhq.com/noda-ai/a660e584-e5df-45aa-bc46-0cf8fc6c0a1e) | Noda Ai | Austin (hybrid) | 50 | rules: 5+ yrs exp; needs: security clearance |
 | 9:53 AM | [Senior Systems Administrator (Active TS with SCI Eligibility Required)](https://careers.akima.com/jobs/29768?lang=en-us) | Akima | MacDill Air Force Base, Florida | 30 | rules: 5+ yrs exp; senior title; needs: TS clearance |
 | 9:32 AM | [Network Engineer III](https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2054) | Tulane University | New Orleans, LA, United States (remote) | 32 | rules: 10+ yrs exp; senior title; likely H-1B cap-exempt (verify); as… |
@@ -308,7 +310,7 @@ Jump to: [Fri 27 (8)](#friday-nov-27-8) · [Thu 26 (9)](#thursday-nov-26-9) · [
 | 11:14 AM | [Network Engineer - Execution](https://job-boards.eu.greenhouse.io/imc/jobs/5045048101) | IMC Trading | Chicago, United States | 30 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Systems Engineer - Configuration Management (Level 3 or 4)](https://ngc.eightfold.ai/careers/job/1340075397630) | Ngc | El Segundo, CA, US (onsite) | 50 | rules: 3+ yrs exp; senior title; needs: CLEARANCE REQUIRED |
 | date only | [Senior DevOps Engineer](https://nvidia.eightfold.ai/careers/job/893398162589) | Nvidia | IN (remote) | 32 | rules: 8+ yrs exp; senior title; location unclear; asks for 8+ years … |
-| date only | [IT Infrastructure Managers](https://apply.workable.com/weekday-1/j/F86BC01808/) | Weekday AI | United States (remote) | 47 | rules: adjacent title, little DevOps/cloud work in the text |
+| date only | [IT Infrastructure Managers](https://apply.workable.com/weekday-1/j/F86BC01808/) | Weekday AI | United States +1 more (remote) | 47 | rules: adjacent title, little DevOps/cloud work in the text |
 | date only | [NOC Engineer – Network](https://arctiq.bamboohr.com/careers/372) | Arctiq | Duluth, Georgia, United States | 30 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Software Development Engineer, Region Reliability Engineering](https://www.amazon.jobs/en/jobs/10611446/software-development-engineer-region-reliability-engineering) | Amazon Development Center U.S… | Bellevue, Washington, USA | 60 | rules: 3+ yrs exp; needs: security clearance |
 | date only | [Space Systems Reliability Engineer](https://ngc.eightfold.ai/careers/job/1340074236933) | Ngc | Dulles, VA, US (onsite) | 80 | rules: 2+ yrs exp; needs: security clearance |
