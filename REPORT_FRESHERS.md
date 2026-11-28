@@ -1,12 +1,14 @@
 # IT entry-level jobs in the US (0–1 year, any area of IT): posted in the last 7 days
 
-**252 jobs**, newest first. Updated Fri Nov 27, 6:06 PM CST from 12,580 company job boards and other sources.
+**250 jobs**, newest first. Updated Fri Nov 27, 6:56 PM CST from 12,535 company job boards and other sources.
 
 US jobs only, any area of IT, kept only when they show they're entry level: an entry-level title (junior, associate, new grad, I/1...), entry-level wording in the text, or 0–1 years asked. Jobs asking for 2+ years, or needing a clearance or US citizenship, are left out (listed at the end). "date only" means the board gives the day but not the time.
 
-77 repeat listings (same company and title in another place or on another source) are merged into one row.
+76 repeat listings (same company and title in another place or on another source) are merged into one row.
 
-Jump to: [Fri 27 (17)](#friday-nov-27-17) · [Thu 26 (15)](#thursday-nov-26-15) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (25)](#saturday-nov-21-25) · [Fri 20 (5)](#friday-nov-20-5)
+Coverage check: of 4,704 matching jobs that job sites and feeds listed this week, 795 (16%) were already found on the employers' own boards; the rest are listed from those sources.
+
+Jump to: [Fri 27 (17)](#friday-nov-27-17) · [Thu 26 (15)](#thursday-nov-26-15) · [Wed 25 (48)](#wednesday-nov-25-48) · [Tue 24 (58)](#tuesday-nov-24-58) · [Mon 23 (64)](#monday-nov-23-64) · [Sun 22 (20)](#sunday-nov-22-20) · [Sat 21 (25)](#saturday-nov-21-25) · [Fri 20 (3)](#friday-nov-20-3)
 
 ## Friday, Nov 27 (17)
 
@@ -290,17 +292,15 @@ Jump to: [Fri 27 (17)](#friday-nov-27-17) · [Thu 26 (15)](#thursday-nov-26-15) 
 | 3:26 AM | [Vendor Stock Support Associate, Bellevue Square - Full Time](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826998) | Macy's | Bellevue, WA, United States | 85 | entry-level title; 1+ yrs exp |
 | 3:26 AM | [Seasonal Fulfillment and Receiving Support Associate, Chandler Fashio…](https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/REQ_826986) | Macy's | Chandler, AZ, United States | 75 | entry-level title |
 
-## Friday, Nov 20 (5)
+## Friday, Nov 20 (3)
 
 | Posted | Role | Company | Location | Score | Notes |
 |---|---|---|---|---:|---|
 | 8:15 PM | [Technology Specialist I (Ingeniero)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=47265edf-244d-45d7-ad34-fc81d446a318&ccId=19000101_000001&jobId=9201931050238_3&lang=en_US) | 47265Edf 244D 45D7 Ad34 Fc81D… | Acuna, COA | 63 | entry-level title; location unclear |
 | 7:22 PM | [Health Data Analyst](https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/472776) | Evac Fa Us2 Oraclecloud Com | Eureka, CA, United States (onsite) | 80 | 1+ yrs exp |
 | 7:09 PM | [Software Engineer I, Backend (Streaming Infra)](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | Affirm | Remote US (remote) | 72 | entry-level title |
-| 6:39 PM | [Assoc Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000162837679-assoc-software-engineer) | ServiceNow | Santa Clara, CALIFORNIA, United States (hybrid) | 80 | 1+ yrs exp |
-| 6:09 PM | [Legal Operations Clerk, Quality Assurance](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016326) | American Express | Sunrise, FL, United States (hybrid) | 80 | 1+ yrs exp |
 
-## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (896)
+## Left out: 5+ years, clearance/citizenship, or adjacent titles with little DevOps work (835)
 
 <details><summary>Show</summary>
 
@@ -310,6 +310,7 @@ Jump to: [Fri 27 (17)](#friday-nov-27-17) · [Thu 26 (15)](#thursday-nov-26-15) 
 | 7:51 PM | [Network Planning Engineer](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=13506473-8528-417a-b040-407867621d8b&ccId=19000101_000001&jobId=9205883298400_1&lang=en_US) | 13506473 8528 417A B040 40786… | Dahlgren, VA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 4:35 PM | [SAP ABAP Developer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/69550) | Ford Motor Company | Livonia, MI, United States (hybrid) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | 4:35 PM | [SAP ABAP Developer](https://ford.eightfold.ai/careers/job/563568453725328) | Ford | Livonia, MI, US (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| 4:02 PM | [Workday Developer - Temporary (Hybrid - US)](https://job-boards.greenhouse.io/energysolutions/jobs/5309839007) | Energy Solutions | Boston, Massachusetts, United States; C… (remote) | 42 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | 3:02 PM | [Mid-Level Software Engineer (L2-L3)](https://jobs.ashbyhq.com/Clera/bc92529c-ca1b-4fbb-b6c4-4e6ca7a8f540) | Clera | remote | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | 2:56 PM | [Software Engineer](https://stripe.com/jobs/search?gh_jid=8421452) | Stripe | South San Francisco, CA | 60 | rules: 4+ yrs exp; asks for 4+ years of experience |
 | 2:49 PM | [Flight Software Engineer](https://jobs.ashbyhq.com/apex-technology-inc/4cabd6f4-8b6e-48cc-9554-5943c1df04bb) | Apex | Los Angeles; Seattle, WA (onsite) | 50 | rules: 5+ yrs exp; needs: ITAR |
@@ -680,9 +681,6 @@ Jump to: [Fri 27 (17)](#friday-nov-27-17) · [Thu 26 (15)](#thursday-nov-26-15) 
 | 11:13 AM | [Founding Software Engineer](https://jobs.ashbyhq.com/Clera/ebef79a6-c2ef-4a25-b959-67dd7f5448a2) | Clera | San Francisco (onsite) | 45 | rules: 10+ yrs exp; no future H-1B sponsorship; asks for 10+ years of… |
 | 11:10 AM | [Federal Salesforce Developer - Agentforce Specialist](https://jobs.gem.com/thunder/am9icG9zdDpu9UnmnXSRGW45XAyPG5pK) | Thunder | United States (remote) | 57 | rules: 4+ yrs exp; needs: security clearance |
 | 11:08 AM | [AI Forward Deployed Engineer - Applied AI](https://jobs.ashbyhq.com/zip/d212845e-9668-4a01-a30d-0d24c5a4f2b2) | Zip | San Francisco (hybrid) | 65 | rules: 4+ yrs exp; asks for 4+ years of experience |
-| date only | [Systems Test Engineer 1](https://jobs.ulalaunch.com/job/Pueblo-Systems-Test-Engineer-1-CO-81001/1453418900/) | United Launch Alliance | Pueblo, CO, United States +1 more | 80 | rules: entry-level title; E-Verify; needs: Security Clearance |
-| date only | [Software Engineer](https://jobs.netapp.com/job/Morrisville-Software-Engineer-NC-27560/1453449500/) | NetApp | Morrisville, NC, United States +1 more | 45 | rules: 8+ yrs exp; asks for 8+ years of experience |
-| date only | [IT Analyst - Provider Schedule Maintenance](https://careers.duke.edu/job/DURHAM-IT-Analyst-Provider-Schedule-Maintenance-NC-27710/1453473800/) | Duke University | DURHAM, NC, United States +1 more | 65 | rules: 4+ yrs exp; likely H-1B cap-exempt (verify); asks for 4+ years… |
 | date only | [Client Systems Engineer I- Caledonia, MI (Hybrid)](https://jobs.farmersinsurance.com/job/Caledonia-Client-Systems-Engineer-I-Caledonia%2C-MI-%28Hybrid%29-MI-49316/1378300957/) | Farmers Insurance | Grand Rapids, MI, US, Caledonia, MI, US | 70 | rules: entry-level title; 3+ yrs exp; asks for 3+ years of experience |
 | date only | [Software Development Engineer, Data, Communications Tech](https://www.amazon.jobs/en/jobs/10612303/software-development-engineer-data-communications-tech) | Amazon.com Services LLC | Seattle, Washington, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [AI Engineer – LLM Applications & AI Agents](https://intellipro.applytojob.com/apply/vPu2t2ry5m/AI-Engineer-LLM-Applications-AI-Agents) | IntelliPro Group Inc. | Palo Alto, CA | 75 | rules: 2+ yrs exp; asks for 2+ years of experience |
@@ -701,10 +699,12 @@ Jump to: [Fri 27 (17)](#friday-nov-27-17) · [Thu 26 (15)](#thursday-nov-26-15) 
 | date only | [Lab Tester 2, Billings Refinery](https://careers.phillips66.com/job/Billings-Lab-Tester-2%2C-Billings-Refinery-MT-59101/1453403500/) | Phillips 66 | Billings, MT, United States | 70 | rules: 1+ yrs exp; needs: must be a U.S. citizen |
 | date only | [Data Engineer (Databricks & AWS)](https://abstra.bamboohr.com/careers/246) | Abstra | Remote | 70 | rules: 2+ yrs exp; location unclear; asks for 2+ years of experience |
 | date only | [Systems Engineer 1](https://jobs.ulalaunch.com/job/Centennial-Systems-Engineer-1-CO-80112/1453418400/) | United Launch Alliance | Centennial, CO, United States | 80 | rules: entry-level title; E-Verify; needs: Security Clearance |
+| date only | [Systems Test Engineer 1](https://jobs.ulalaunch.com/job/Pueblo-Systems-Test-Engineer-1-CO-81001/1453418900/) | United Launch Alliance | Pueblo, CO, United States | 80 | rules: entry-level title; E-Verify; needs: Security Clearance |
 | date only | [HIL Test Automation Engineer](https://apply.workable.com/terabase-energy/j/E6F7663E38/) | Terabase | United States (remote) | 72 | rules: 2+ yrs exp; asks for 2+ years of experience |
 | date only | [Embedded Software Engineer, Annapurna Ml Software](https://www.amazon.jobs/en/jobs/10612795/embedded-software-engineer-annapurna-ml-software) | Annapurna Labs (U.S.) Inc. | Cupertino, California, USA | 60 | rules: 3+ yrs exp; asks for 3+ years of experience |
 | date only | [TSCM Subject Matter Expert / Event Security Specialist](https://micron.eightfold.ai/careers/job/44832762) | Micron | San Jose, CA, US; Manassas, VA, US (onsite) | 50 | rules: 5+ yrs exp; asks for 5+ years of experience |
 | date only | [Full Stack Software Engineer-Java](https://citi.eightfold.ai/careers/job/859038804301) | Citi | New York, NY, US (hybrid) | 50 | rules: 8+ yrs exp; asks for 8+ years of experience |
 | date only | [Performance Software Engineer](https://jobs.netapp.com/job/Morrisville-Performance-Software-Engineer-NC-27560/1453437500/) | NetApp | Morrisville, NC, United States | 45 | rules: 5+ yrs exp; asks for 5+ years of experience |
+| date only | [Surgical Applications Specialist-Puerto Rico](https://careers.bauschlomb.com/job/Puerto-Rico-Remote-Surgical-Applications-Specialist-Puerto-Rico/1378384857/) | Bausch Lomb | Puerto Rico - Remote, United States | 70 | rules: 2+ yrs exp; no future H-1B sponsorship; asks for 2+ years of e… |
 
 </details>
